@@ -1,0 +1,78 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+ ..
+Na petição de ID 14300748, foi apresentada certidão emitida pela própria Prefeitura de Belo Jardim demonstrando que, de fato, o programa "Cuida de Mim", vinculado ao Fundo Municipal de Assistência Social, ocorria há vários anos e mandatos, preenchendo devidamente os requisitos da Lei Municipal nº 2.039/2013.
+ ..
+Caso tivesse analisado, certamente teria observado que a partir do momento em que o Recurso Especial principal foi admitido após a interposição de Agravo em R Esp por parte do MPPE, a admissão do Recurso Especial adesivo tornou-se imperativa, posto que a única razão para a sua anterior inadmissão foi a inadmissão do Recurso Especial principal.
+ ..
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada. A decisão ora embargada analisa os pontos essenciais para o deslinde da controvérsia nesta Corte.
+A alegação do ora Recorrente não merece prosperar, porquanto o recurso especial interposto pela parte é adesivo e, não havendo sido conhecido o recurso especial principal, não há também como conhecer do recurso especial adesivo.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL ADESIVO. RECURSO ESPECIAL PRINCIPAL NÃO CONHECIDO. PREJUDICADO O RECURSO ADESIVO. ART. 997 DO CPC/2015. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. O recurso especial principal, interposto pela FAZENDA DO ESTADO DE SÃO PAULO, não foi conhecido em razão da natureza constitucional da controvérsia discutida na origem, cuja competência para revisão é do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+Dessa forma, o recurso especial adesivo do particular restou prejudicado, eis que segue a sorte do recurso principal, não sendo possível seu processamento autônomo consoante a redação do § 2º do art. 997 do CPC.
+2. A recorrente adesiva interpôs o presente agravo interno sob a alegação expressa de assegurar a admissão de seu recurso especial adesivo em caso de eventual interposição de agravo interno pelo ente fazendário e sua acolhida por esta Corte, sustentando que o óbice da prejudicialidade do recurso adesivo em relação ao não conhecimento do recurso principal deixaria de existir caso tal conclusão fosse alterada em agravo interno.
+3. Tendo em vista que a situação fática não se alterou, pois sequer houve interposição de agravo interno pelo ente fazendário, não há interesse recursal da empresa para interposição do presente recurso.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.414.659/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+De outra parte, quanto a alegação de que consta certidão municipal de regularidade do programa assistencial nos termos da lei municipal, não prospera. O Tribunal é expresso ao afirmar que não houve preenchimento do requisito de elegibilidade do programa, a saber o prévio cadastro dos beneficiários ao programa, nos termos da Lei Municipal 2.036/2013.
+Confira-se o trecho do acórdão do Tribunal de origem:
+ ..
+In casu, a distribuição de cestas básicas é medida contemplada no âmbito do Programa Cuida de mim, instituído através da lei municipal nº 2.036/2013. Ocorre que, segundo o Ministério Público, a entrega das cestas básicas ocorreu sem observância dos critérios de elegibilidade previstos na própria norma, além da notória proximidade com a data de convocação às urnas, o que denuncia o indisfarçável intuito do gestor de uso promocional da máquina pública.
+ ..
+Consultando o teor da legislação municipal, percebe-se que, de fato, existe um requisito que não foi cumprido pelo gestor para legitimar a adoção da medida assistencial, consistente na instituição de prévio cadastro dos beneficiários junto à Secretaria de Ação e Desenvolvimento Social, nos termos do art. 6º da lei. Ademais, ainda que de fato haja previsão de declaração subscrita pelos beneficiários, este não é o único critério suficiente a conferir exequibilidade ao programa, que pressupõe a estruturação de um cadastro público dos usuários contemplados, nos moldes previstos em Decreto a ser editado pelo Chefe do Poder Executivo.
+ ..
+Para rever essa conclusão do Tribunal de origem, baseada em fatos e provas e na legislação local, esbarraria nos óbices da Súmula 7/STJ e, por analogia, da Súmula 280/STF.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+ ..
+Verifico que o agravo em recurso especial não encontra em seu caminho nenhum dos óbices do art. 253, parágrafo único, I, do Regimento Interno desta Corte. É dizer, o recurso de agravo atende aos requisitos de admissibilidade, não se acha prejudicado e impugnou especificamente todos os fundamentos da decisão agravada.
+Assim, autorizado pelo art. 1.042, § 5º, do CPC, promovo o julgamento do agravo conjuntamente com o recurso especial, passando a analisar, doravante, o mérito recursal.
+Inicialmente, no tocante à violação aos artigos 489, §1º, IV e 1.022, incisos I e II, do Código de Processo Civil, a argumentação não merece ser acolhida. Os acórdãos recorridos não se ressentem de omissão, obscuridade ou contradição, porquanto apreciaram a controvérsia com fundamentação suficiente. Não carecem de fundamentação e tampouco padecem de vícios. Julgaram integralmente a lide e solucionaram a controvérsia de maneira completa e fundamentada, como lhe foi apresentada, não obstante tenham decidido contrariamente à pretensão do recorrente.
+Ademais, conforme entendimento pacífico desta Corte "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp n. 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/4/2018, DJe 23/5/2018).
+É dizer, cabe ao julgador decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+Prosseguindo, alega o recorrente que o acórdão objurgado apresenta violação ao artigo 12, III, da Lei n. 8.429/92, uma vez que caracterizada a prática de ato ímprobo, dentre as sanções a serem aplicadas, encontra-se necessariamente a pena de suspensão dos direitos políticos, prevista no referido artigo e inciso da Lei de Improbidade Administrativa, pugnando pela reforma do acórdão recorrido para que seja feita a devida aplicação da referida sanção.
+No entanto, sem razão o recorrente.
+A respeito da suspensão dos direitos políticos por ato de improbidade, a Constituição Federal estabelece que:
+Art. 37. § 4º Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, sem prejuízo da ação penal cabível.
+Em atendimento à previsão constitucional, o legislador ordinário, ao editar a Lei n. 8.429/1992, assim fixou as sanções por ato que atenta contra os princípios da Administração Pública:
+Art. 12. III - na hipótese do art. 11, ressarcimento integral do dano, se houver, perda da função pública, suspensão dos direitos políticos de três a cinco anos, pagamento de multa civil de até cem vezes o valor da remuneração percebida pelo agente e proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo de três anos.
+De acordo com a lei de regência, o agente que incorria em conduta prevista no art. 11 da Lei n. 8.429/1992 poderia ter os direitos políticos suspensos de três a cinco anos.
+No entanto, com o advento da Lei n. 14.230/2021, modificou-se substancialmente a forma e gradação das sanções pelo descumprimento do art. 11 da Lei n. 8.429/1992, vejamos a nova redação do art. 12, III:
+Art. 12. III - na hipótese do art. 11 desta Lei, pagamento de multa civil de até 24 (vinte e quatro) vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público ou de receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo não superior a 4 (quatro) anos;
+O novo regime jurídico implicou na exclusão da sanção de suspensão dos direitos políticos para o agente ímprobo que, como no presente caso, realiza o uso indevido da máquina administrativa com fins eleitoreiros, em violação à regra da imparcialidade e impessoalidade da administração pública.
+O eminente magistrado e jurista Mário Celegatto pontua pertinente crítica acerca da alteração legislativa:
+ ..  No entanto, mostra-se imperioso apontar as críticas relacionadas ao abrandamento das sanções previstas no inciso nas alterações trazidas pelo legislador, no sentido de que de certa forma, cria-se um "incentivo" à prática do ilícito aos possíveis agentes que passam a contar com um cenário menos sancionatório (Lei de Improbidade administrativa - comparada, comentada e esquematizada. São Paulo: Editora Imperium, 2023, p. 127).
+Todavia, como está sedimentado pelo Supremo Tribunal Federal que as alterações da Lei n. 14.230/2021 devem ser aplicadas retroativamente tanto em relação a condutas dolosas como culposas, impõe-se conhecer da matéria para determinar a aplicação retroativa da legislação que é mais benéfica ao agente ímprobo.
+Tem-se, portanto, que não mais subsiste a suspensão dos direitos políticos pugnada pelo ora recorrente, ante a nova redação do art. 12, III, da Lei n. 8.429/1992.
+ ..
+De outra banda, a argumentação da parte no sentido de que a distribuição de cestas básicas observou os requisitos da Lei Municipal 2.039/2013 não prospera, porquanto o Tribunal é expresso ao afirmar que não preencheu o requisito da elegibilidade, no caso, o prévio cadastro das pessoas beneficiadas. Veja-se o trecho do acórdão recorrido:
+ ..
+In casu, a distribuição de cestas básicas é medida contemplada no âmbito do Programa Cuida de mim, instituído através da lei municipal nº 2.036/2013. Ocorre que, segundo o Ministério Público, a entrega das cestas básicas ocorreu sem observância dos critérios de elegibilidade previstos na própria norma, além da notória proximidade com a data de convocação às urnas, o que denuncia o indisfarçável intuito do gestor de uso promocional da máquina pública.
+ ..
+Consultando o teor da legislação municipal, percebe-se que, de fato, existe um requisito que não foi cumprido pelo gestor para legitimar a adoção da medida assistencial, consistente na instituição de prévio cadastro dos beneficiários junto à Secretaria de Ação e Desenvolvimento Social, nos termos do art. 6º da lei. Ademais, ainda que de fato haja previsão de declaração subscrita pelos beneficiários, este não é o único critério suficiente a conferir exequibilidade ao programa, que pressupõe a estruturação de um cadastro público dos usuários contemplados, nos moldes previstos em Decreto a ser editado pelo Chefe do Poder Executivo.
+ ..
+Assim, as alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Eventuais erros materiais da decisão, constantes no seu relatório ou em trechos que não fazem parte da fundamentação, em nada alteram o julgado, uma vez que não importam nenhum prejuízo à parte.
+A contradição que vicia o julgado de nulidade é a interna, em que se constata uma inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
