@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interno interposto por EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A da decisão da Presidência do Superior Tribunal de Justiça de fls. 1.155/1.157.
+Nas razões recursais, a parte agravante afirma que sobre o conhecimento do seu recurso especial não incidem os óbices das Súmulas 282 e 284 do Supremo Tribunal Federal (STF), uma vez que foi expressamente indicado o dispositivo legal tido por violado, qual seja, o art. 489, § 1º, do Código de Processo Civil (CPC), assim como existiu o prequestionamento da matéria recursal.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 1.593/1.597).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso especial.
+O recurso especial foi interposto, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fl. 955):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE TUTELA DE URGÊNCIA. TERMO DE AJUSTAMENTO DE CONDUTA. COBRANÇA INCORRETA. REEMBOLSO DOS VALORES PAGOS A MAIOR. CLÁUSULA PENAL. INCIDÊNCIA. HONORÁRIOS RECURSAIS. 1. As partes firmaram contratos de Compartilhamento de postes e TAC - Termo de Ajustamento de Conduta, para Serviço de Comunicação Multimídia, no provimento de internet. A Apelante passou a faturar as mensalidades de forma indevida, realizando cobrança de valores a maior daqueles devidos, sendo de rigor o reajuste e reembolso das quantias pagas a maior pela Autora. 2. A Apelada, possui o direito ao recebimento de cláusula penal de 30% (trinta por cento) do valor da última fatura emitida, em maio/2020, no valor de R$ 12.566,55 (doze mil, quinhentos e sessenta e seis reais e cinquenta e cinco centavos). 3. Evidenciado a sucumbência recursal da Apelante, impende majorar, em grau recursal, a verba honorária anteriormente fixada, de 10% (dez por cento), para 13% (treze por cento) sobre o valor da condenação. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA. SENTENÇA MANTIDA.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte ora agravante alega que houve violação ao art. 489, § 1º, do CPC, sustentando, em síntese, que o Tribunal de origem manteve a a aplicação da cláusula penal em seu desfavor, sem fundamentação acerca dos elementos dos autos que levaram a essa condenação.
+Ressaltou, ainda, que o acórdão recorrido deixara de analisar a ausência de informação das datas em que seriam realizadas instalações de novos cabos nos seu s postes, como fora pactuado entre as partes como sendo obrigação da recorrida.
+Requer que seja dado provimento ao recurso especial interposto.
+A parte adversa apresentou contrarrazões (fls. 978/983).
+Inexiste a alegada violação do art. 489 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia.
+É importante ressaltar que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+Ainda que assim não fosse, as teses recursais suscitadas pela parte ora recorrente - concernentes à falta de indicação dos elementos dos autos a justificarem a condenação pela cláusula penal e ausência de informação, por parte da recorrida, acerca das datas em que seriam realizadas instalações de novos cabos nos postes -não foram apreciadas pelo Tribunal de origem, e não foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+Ausente pronunciamento do Tribunal de origem sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil (CPC), o que não foi feito no caso dos autos.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Por fim, no tocante à cláusula penal, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou (fl. 952):
+Quanto à incidência de cláusula penal, prevista na CLÁUSULA DÉCIMA QUARTA do referido pacto, a Apelada possui o direito ao recebimento 30% (trinta por cento) do valor da última fatura emitida, em maio/2020, no valor de R$ 12.566,55 (doze mil, quinhentos e sessenta e seis reais e cinquenta e cinco centavos) estipulado na sentença.
+O Tribunal de origem analisou aspectos das cláusulas do contrato firmado para a condenação da parte recorrente ao valor estipulado na sentença.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial relativamente ao ponto em questão.
+Incide no presente caso a Súmula 5 do STJ, segundo a qual "a simples interpretação de cláusula contratual não enseja recurso especial".
+Ante o exposto, reconsiderando a decisão recorrida, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, a ele negar provimento.
+Majoro em 10% (dez por cento), em desfavor da parte recorrente , o valor de honorários sucumbenciais já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º desse mesmo dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
