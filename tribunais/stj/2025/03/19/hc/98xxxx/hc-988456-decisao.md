@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Sandra Angelica Ribeiro Carvalho, no qual se aponta como autoridade coatora a Décima Terceira Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Apelação n. 0008083-59.2016.8.26.0126).
+Consta dos au tos que a paciente foi condenada às penas de 5 anos e 3 meses de reclusão, em regime fechado, e pagamento de 1.225 dias-multa, pela prática do delito tipificado no art. 35, c/c o art. 40, V, da Lei n. 11.343/2006 (Ação Penal n. 0008083-59.2016.8.26.0126, da Vara Criminal da comarca de Caraguatatuba/SP).
+Interposta apelação pela defesa, o Tribunal a quo lhe negou provimento (fls. 76/86).
+Nesta instância superior, aduz a defesa que houve aumento desproporcional na pena-base, no que se refere ao crime de associação para o tráfico, porquanto a pena foi exacerbada em 1/2, pelo reconhecimento de circunstâncias judiciais desfavoráveis de forma genérica e sem individualização da conduta da paciente.
+Requer, assim, a concessão da ordem para afastar as circunstâncias judiciais desfavoráveis ou, subsidiariamente, para reduzir o aumento da pena-base para 1/6.
+É o relatório.
+O writ é manifestamente inadmissível.
+Conforme informação obtida no endereço eletrônico do Tribunal de Justiça de São Paulo, a condenação transitou em julgado em 23/10/2024. Sendo assim, o presente writ é sucedâneo de revisão criminal, sendo esta Corte manifestamente incompetente para análise do pleito revisional, notadamente porque inexiste julgamento de mérito, neste Tribunal, passível de revisão.
+Nesse sentido, confiram-se: AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019; e HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018.
+No mais, quanto ao pleito de aplicação da pena base no mínimo legal e, subsidiariamente, de utilização de 1/6 para eventual aumento, também não assiste razão à defesa, uma vez que as circunstâncias do crime foram valoradas negativamente, de maneira fundamentada, tendo o Juízo de origem ressaltado que os réus integram associação complexa com cerca de 40 agentes voltados para o tráfico de drogas. Trata-se de associação vultuosa e responsável pelo abastecimento de drogas no Litoral Norte de São Paulo e Vale do Paraíba. A associação tinha estrutura piramidal com diversos escalonamentos, sendo que cada agente tinha uma tarefa própria, formando uma complexa e organizada estrutura voltada para o tráfico de drogas (fl. 70).
+Como cediço, a dosimetria da pena se insere dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, sendo, por isso, somente passível de revisão na estreita via do habeas corpus em hipóteses excepcionais de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, o que não ficou demonstrado pela impetrante.
+Com efeito, em se tratando de pena-base, o art. 59 do Código Penal - CP não atribui pesos absolutos a cada uma das circunstâncias judiciais a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito, de modo que não há impedimento a que o magistrado fixe a pena-base no máximo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto (AgRg no HC n. 836.758/MG, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe 6/3/2024).
+Assim, inexiste ilegalidade na dosimetria da pena aplicada, devendo ser mantida, na íntegra, a reprimenda.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ (AUSÊNCIA DE JULGAMENTO DE MÉRITO PASSÍVEL DE REVISÃO). DOSIMETRIA DA PENA. FLAGRANTE ILEGALIDADE NÃO RECONHECIDA.
+Writ indeferido liminarmente.
