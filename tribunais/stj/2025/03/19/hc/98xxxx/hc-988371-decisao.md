@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de ADAILTON GOMES DA SILVA, no qual se aponta como autoridade coatora o Desembargador Relator do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA que indeferiu liminar no HC n. 0803382-03.2025.8.15.0000 (fls. 52/54), mantendo a prisão preventiva decretada pelo Juízo de primeiro grau, em razão da suposta prática dos crimes previstos nos arts. 302 e 303 do Código de Trânsito Brasileiro (Processo n. 0800469-50.2025.8.15.0161 - fls. 48/50).
+Pretende a defesa, em suma, a superação da Súmula 691/STF. Alega que a prisão preventiva foi indevidamente decretada, pois os crimes imputados ao paciente são culposos, não se enquadrando nas hipóteses previstas no art. 313, I, do Código de Processo Penal.
+Sustenta que a decisão carece de fundamentação concreta, baseando-se unicamente na gravidade do fato e na alegada evasão do distrito da culpa, sem apontar elementos objetivos que justifiquem a medida extrema.
+Afirma que o paciente é primário, com bons antecedentes, possui residência fixa e exerce atividade lícita.
+Requer, assim, no âmbito liminar e no mérito, a revogação da custódia, ainda que com a imposição de medidas cautelares diversas.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorre no caso em tela.
+Com efeito, a princípio, não verifico a ocorrência de nenhum constrangimento ilegal, pois o Desembargador do Tribunal de origem indeferiu o pedido liminar, nestes termos (HC n. 0803382-03.2025.8.15.0000 - fls. 53/54 - grifo nosso):
+No caso em exame, a lume da cognição sumária, não há, até o momento, elementos que evidenciem flagrante ilegalidade ou ausência de motivação idônea.
+A decisão vergastada encontra-se, à primeira vista, devidamente fundamentada, tendo sido adotada a medida extrema com base no art. 312 do Código de Processo Penal (CPP), visando garantir a ordem pública e conveniência da instrução criminal, tendo em vista que, segundo informações prestadas pela autoridade apontada coatora, "Não consta nos autos até então, notícias acerca da captura do paciente, o qual encontra-se em local incerto e não sabido." (Num. 33397024
+Examinando o posto nos autos, , não verifico a ocorrência de manifesta ilegalidade a justificar em sede de cognição sumária deferimento do pleito liminar, na medida em que, ao menos primo , há fundamentação idônea no decreto da custódia ictu oculi preventiva, ficando reservado, pois, ao momento do julgamento definitivo o exame mais aprofundado da matéria.
+No caso, não há como incursionar, desde logo, no terreno definitivo da pretensão, cujo exame caberá exclusivamente ao Colegiado, no momento oportuno.
+E o Juízo de primeiro grau, ao decretar a prisão preventiva, asseverou haver indícios de embriaguez do paciente, que teria fugido sem prestar socorro às vítimas (fl. 48), bem como que, embora  ..  seja primário, a gravidade do delito e a fuga do distrito da culpa evidenciam a necessidade do decreto preventivo para assegurar a aplicação da lei penal. Ora, forme consta à fl. 9, o investigado não apenas fugiu do local do sinistro sem prestar socorro às vítimas, como também não foi localizado até o momento, mesmo após as diligências empreendidas pela Polícia Civil. Tal conduta, portanto, revela a nítida intenção de frustrar a aplicação da lei penal (fl. 49 - grifo nosso).
+Assim, não verifico, de plano, a existência de flagrante ilegalidade a ser sanada.
+Dessa forma, entendo que mais adequado e prudente será reservar primeiramente ao Tribunal a quo a análise meritória, ventilada no writ originário, que, no momento oportuno, examina rá os contorno s e nuances delineadores da questão, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte estadual.
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO E LESÃO CORPORAL NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO RELATOR QUE INDEFERIU LIMINAR EM HC ORIGINÁRIO. SÚMULA 691/STF. APLICABILIDADE. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Habeas corpus indeferido liminarmente.
