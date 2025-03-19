@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCAS FERNANDES - condenado à pena de 6 anos e 8 meses de reclusão em regime inicial semiaberto pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (fls. 11/17) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SANTA CATARINA (Habeas Corpus n. 5005947-33.2025.8.24.0000/SC).
+Alega-se, na impetração, que, apesar da fixação do regime semiaberto, foi negado ao paciente o direito de recorrer em liberdade, perpetuando a prisão preventiva (fl. 3).
+Sustenta-se que a manutenção da custódia cautelar é incompatível com o regime semiaberto fixado na sentença, configurando constrangimento ilegal (fls. 3/4).
+Afirma-se que a decisão que manteve a prisão preventiva carece de fundamentação idônea, sendo baseada em justificativas genéricas sobre a gravidade do delito e a suposta periculosidade do paciente (fls. 5/8).
+Destaca-se que o paciente possui vínculo empregatício formal e é primário, o que demonstra sua inserção social e reduz o risco de reiteração criminosa (fl. 8).
+No mérito, requer-se a concessão da ordem para fazer cessar o constrangimento ilegal, com a possibilidade de aplicação de medidas cautelares diversas da prisão, conforme o art. 319 do Código de Processo Penal (fl. 9).
+É o relatório.
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva do paciente em decorrência da gravidade concreta do delito, sobretudo em razão da reiteração delitiva verificada nos autos, advindo do fato do acusado ter praticado o crime em comento enquanto gozava da liberdade provisória nos Autos n. 5018644-26.2023.8.24.0075, evidenciando que o réu insiste em trilhar o caminho da criminalidade , in verbis (fl. 12):
+ ..
+A sentença de procedência da denúncia condenou o paciente ao cumprimento de pena privativa de liberdade de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, ao pagamento de 666 dias-multa, pela prática, em tese, do crime previsto no art. 33, caput, da Lei 11.343/2006.
+No pronunciamento, a autoridade impetrada expressamente motivou:
+Em atenção ao art. 387, §1º, o CPP, NEGO ao réu o direito de recorrer em liberdade, uma vez que respondeu ao processo preso e permanecem hígidas as razões para a prisão preventiva. Ressalto que a necessidade de manutenção da custódia cautelar (CPP, art. 316, parágrafo único) decorre da gravidade concreta dos fatos, da periculosidade social do acusado e do fundado receio de reiteração criminosa advindo do fato do acusado ter praticado o crime em comento enquanto gozava da liberdade provisória nos autos n. 5018644-26.2023.8.24.0075, evidenciando que o réu insiste em trilhar o caminho da criminalidade.
+Feito esse breve retrospecto processual, verifica-se que não há ilegalidade na manutenção da prisão preventiva, sobretudo pelo pressuposto da garantia da ordem pública, o qual, atualmente, tem fundamento não só nos elementos produzidos durante a persecução criminal, mas sobretudo na sentença condenatória.
+Diante desse panorama, é lícito assentar que a manutenção da prisão preventiva do paciente foi precedida de cognição exauriente do conjunto probatório, por meio da qual se concluiu pela confirmação dos elementos de convicção apresentados durante o trâmite do processo.
+ ..
+Por conseguinte, a custódia está corretamente motivada na garantia da ordem pública, diante do fundado risco de reiteração delitiva (AgRg no HC n. 957.932/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 5/3/2025).
+Igualmente: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022.
+Inclusive, a fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória (AgRg no RHC n. 200.685/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025).
+Com efeito, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Também se justifica a prisão preventiva para a garantia da ordem pública, em face do risco concreto de reiteração delituosa, quando o imputado ostenta condenação pretérita, isto é, responde a outras ações penais, uma delas inclusive já possuindo decisão condenatória transitada em julgado (AgRg no RHC n. 152.073/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. REITERAÇÃO DELITIVA. PACIENTE PRATICOU O CRIME ENQUANTO GOZAVA DA LIBERDADE PROVISÓRIA. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DO DELITO. PRESERVAÇÃO DA ORDEM PÚBLICA. COMPATIBILIDADE COM O REGIME SEMIABERTO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
