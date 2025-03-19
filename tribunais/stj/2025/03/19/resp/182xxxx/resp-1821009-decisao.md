@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SANTOS contra acórdão assim ementado (fl. 498):
+"APELAÇÃO - AÇÃO MONITÓRIA - SERVIÇOS EFETIVAMENTE PRESTADOS - SENTENÇA BEM LANÇADA, NÃO MERECENDO REPARO - Não há controvérsia de que a embargada prestou os serviços de que trata a petição inicial, de modo que cabia à embargante o pagamento da contraprestação devida. Com efeito, a embargante, cujo ônus lhe competia, conseguiu comprovar o pagamento de parte do débito. Verifico que os valores de R$ 279,72, objeto de cobrança na planilha de p. 02, encontram correspondência nos comprovantes de pagamentos de p. 299/310. Todavia, a embargante não logrou êxito em comprovar os demais valores cobrados pela autora. Não bastasse, a ré confessa sua inadimplência nos embargos (p. 207). A embargante também não trouxe qualquer documento aos autos que comprovasse a justa negativa de pagamento. No mais, a embargante fez alegações genéricas, que não tem o condão de macular a pretensão da embargada. A controvérsia cinge-se respeito do pagamento da NF 36079. Nesse passo, como reconhecido acima, era ônus da ré provar o pagamento, sendo que prova de pagamento se faz com a exibição do instrumento de quitação, não sendo possível admitir mera presunção de pagamento apenas por troca de e-mails. Além disso, os e-mails confirmam as alegações da embargada quanto à existência de débito pendente. Nota-se que, o débito apontado permaneceu em aberto (p. 279/282) e o comprovante juntado pela embargante aponta valor diverso do que consta na referida nota fiscal (p. 319/322). Consequentemente, não se cogita acolher a reconvenção, já que a premissa dela, que é a de cobrança indevida, não se verificou. Quanto à taxa do CREA, por estar composta no serviço, é devida, ainda que não esteja prevista expressamente no contrato. Por fim, o que se tem é expresso reconhecimento quanto ao restante da dívida, sendo expurgados somente os valores de R$ 279,72, objeto de cobrança na planilha de p. 02". Especificamente no que tange à correção monetária e juros de mora, agiu bem o juízo a quo a conta-los do vencimento, a teor do que vem decidindo esta Câmara em casos de obrigação positiva, líquida e com termo certo. - ART. 252, DO REGIMENTO INTERNO DO E. TRIBUNAL DE JUSTIÇA DE SÃO PAULO. Em consonância com o princípio constitucional da razoável duração do processo, previsto no art. 50, inc. LXXVIII, da Carta da República, é de rigor a ratificação dos fundamentos da sentença recorrida. Precedentes deste Tribunal de Justiça e do Superior Tribunal de Justiça. SENTENÇA MANTIDA - RECURSO IMPROVIDO."
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou o art. 476 do Código Civil e os arts. 320, 373, 434, 435, 700 e 702, todos do Código de Processo Civil/2115.
+Quanto à suposta ofensa ao art. 476 do CC, sustenta que a prestação de serviços foi deficiente, justificando a exceção do contrato não cumprido.
+Argumenta, também, que houve violação ao art. 320 do CC, pois a quitação foi parcialmente comprovada, e ao art. 373, I, do CPC/2015, pela cobrança indevida da taxa do CREA.
+Além disso, teria violado o art. 702 do CPC/2015, ao não reconhecer a repetição de indébito.
+Alega que a decisão não considerou adequadamente os comprovantes de pagamento apresentados, o que teria sido demonstrado, no caso, por documentos juntados aos autos.
+Haveria, por fim, violação aos artigos 405 do Código Civil e 1º, §2º, da Lei 6.899/81, uma vez que o Tribunal de origem aplicou incorretamente os critérios de correção monetária e juros.
+Contrarrazões ao recurso especial às fls. 621-627.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de ação monitória proposta por Thyssenkrupp Elevadores S.A. contra a recorrente, visando ao pagamento de valores decorrentes de contrato de prestação de serviços de manutenção de elevadores.
+A sentença de primeiro grau acolheu parcialmente os embargos monitórios, reconhecendo o pagamento de parte do débito e constituindo o título executivo judicial.
+O Tribunal de origem manteve a sentença, destacando (i) a ausência de comprovação de pagamento de parte dos valores cobrados; (ii) a validade da cobrança da taxa do CREA; e (iii) não é possível acolher o pedido da reconvenção, já que a premissa dela, que é a de cobrança indevida, não se verificou. Confira-se:
+Não há controvérsia de que a embargada prestou os serviços de que trata a petição inicial, de modo que cabia à embargante o pagamento da contraprestação devida.
+Com efeito, a embargante, cujo ônus lhe competia, conseguiu comprovar o pagamento de parte do débito.
+Verifico que os valores de R$ 279,72, objeto de cobrança na planilha de p. 02, encontram correspondência nos comprovantes de pagamentos de p. 299/310.
+Todavia, a embargante não logrou êxito em comprovar os demais valores cobrados pela autora. Não bastasse, a ré confessa sua inadimplência nos embargos (p. 207).
+A embargante também não trouxe qualquer documento aos autos que comprovasse a justa negativa de pagamento. No mais, a embargante fez alegações genéricas, que não tem o condão de macular a pretensão da embargada.
+A controvérsia cinge-se respeito do pagamento da NF 36079. Nesse passo, como reconhecido acima, era ônus da ré provar o pagamento, sendo que prova de pagamento se faz com a exibição do instrumento de quitação, não sendo possível admitir mera presunção de pagamento apenas por troca de e-mails.
+Além disso, os e-mails confirmam as alegações da embargada quanto à existência de débito pendente. Nota-se que, o débito apontado permaneceu em aberto (p. 279/282) e o comprovante juntado pela embargante aponta valor diverso do que consta na referida nota fiscal (p. 319/322).
+Consequentemente, não se cogita acolher a reconvenção, já que a premissa dela, que é a de cobrança indevida, não se verificou.
+Quanto à taxa do CREA, por estar composta no serviço, é devida, ainda que não esteja prevista expressamente no contrato.
+Por fim, o que se tem é expresso reconhecimento quanto ao restante da dívida, sendo expurgados somente os valores de R$ 279,72, objeto de cobrança na planilha de p. 02  ..  (fls. 501/503 e-STJ).
+A revisão das premissas adotadas no acórdão recorrido quanto à comprovação da prestação dos serviços e da dívida cobrada demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Quanto ao mais, o Tribunal de origem ainda consignou que, "em ação monitória para a cobrança de débito decorrente de obrigação positiva, líquida e com termo certo, deve-se reconhecer que os juros de mora incidem desde o inadimplemento da obrigação se não houver estipulação contratual ou legislação específica em sentido diverso (STJ, EREsp 1.250.382 -PR, Rel. Min. Sidnei Beneti, julgado em 2/4/2014) " (fl. 503 e-STJ).
+Note-se que, ao assim decidir, o Tribunal de origem permaneceu em consonância com a jurisprudência do STJ, incidindo, no ponto, o óbice da Súmula 83 desta Corte. A saber:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO MONITÓRIA. EMBARGOS. ATECNIA DO PERITO CONTÁBIL. FALTA DE PREQUESTIONAMENTO. JUROS DE MORA. TERMO INICIAL. VENCIMENTO DO TÍTULO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir 2. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+3. Nos termos da jurisprudência desta Corte, os juros de mora na ação monitória são contados a partir do vencimento do título, e não da citação.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+III. Dispositivo 5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.524.013/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/12/2024, DJEN de 19/12/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA.
+1. Não há falar em descabimento da monitória em tendo o pedido sido instruído com a nota fiscal e, ainda, com outros documentos a corroborarem a existência do crédito discutido.
+2. Inadmissível o recurso no tocante à preclusão. Ausência de prequestionamento e, ainda, de devida impugnação aos fundamentos do acórdão recorrido. Atração do enunciados 282 e 283/STF.
+3. O termo inicial dos juros de mora na ação monitória remonta ao vencimento da obrigação. Precedentes.
+4. Litigância de má-fé. Prova do dolo. Insindicabilidade. Alteração da verdade dos fatos. Correção da condenação.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.778.399/CE, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
