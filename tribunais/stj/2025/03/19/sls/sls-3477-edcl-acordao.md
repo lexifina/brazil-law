@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Os Embarg os de Declaração constituem recurso de contorno rígido. Destinam-se à complementação do julgado que se reveste dos vícios de omissão, contradição ou obscuridade, além da correção de erro material.
+2. O conceito de "erro material" diz respeito à existência de notória incompatibilidade entre a linha de raciocínio contida no decisum e sua expressão em sinais gráficos escritos, sendo os exemplos mais conhecidos o erro de cálculo, grafia equivocada ou troca de nomes.
+3. Na hipótese em tela, a embargante defende que não há natureza de sucedâneo recursal, o que evidencia a intenção de rediscutir o mérito do decisum embargado, propósito inconciliável com a natureza dos Aclaratórios (a caracterização do pedido de Suspensão de Liminar e de Sentença como sucedâneo recursal consistiu exatamente na matéria enfrentada no julgamento do Agravo Interno).
+4. Embargos de Declaração rejeitados.
+RELATÓRIO
+Trata-se de Embargos de Declaração opostos por Companhia de Eletricidade do Estado da Bahia - Coelba ao acórdão que negou provimento ao Agravo Interno nos seguintes termos:
+AGRAVO INTERNO CONTRA DECISÃO QUE INDEFERE PEDIDO DE SUSPENSÃO DE LIMINAR E SENTENÇA. AÇÃO CIVIL PÚBLICA MOVIDA PELO MINISTÉRIO PÚBLICO ESTADUAL. CONCESSÃO DE LIMINAR VEDANDO CONCESSIONÁRIA DE ENERGIA ELÉTRICA DE FAZER A COBRANÇA RETROATIVA NAS FATURAS, CONTRA OS CONSUMIDORES, DE DIFERENÇAS DE ICMS RESULTANTES DA EQUIVOCADA REDUÇÃO NA BASE DE CÁLCULO DO TRIBUTO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O deferimento do pedido de suspensão está condicionado à demonstração de que a manutenção da decisão impugnada causa efetiva e grave lesão à ordem, à saúde, à segurança e à economia públicas.
+2. Hipótese em que a agravante distribuiu o pedido de contracautela com a finalidade de impugnar decisão (proferida nas instâncias de origem) concessiva de liminar em Ação Civil Pública ajuizada pelo Ministério Público do Estado da Bahia, que determinou que a concessionária se abstenha "de realizar cobranças retroativas nas faturas de energia elétrica a título de ICMS, ainda que em razão de equivocada redução da base de cálculo, uma vez que esta Concessionária é a única responsável pela quitação dos débitos autuados oriundos de tal situação fática, vedando-se a conduta de transferir do ônus em comento aos consumidores, sob pena de pagamento de multa diária, no valor de R$ 5.000,00 (cinco mil reais), limitada a R$ 100.000,00 (cem mil reais)".
+3. O fato de as diferenças relativas ao tributo alcançarem valor elevado (alega-se que já houve quitação de R$37.000.000,00 - trinta e sete milhões de reais - e que se encontram sub judice outros R$51.000.000,00 - cinquenta e um milhões de reais) e, alegadamente, causarem desequilíbrio econômico-financeiro revela apenas o interesse na defesa do interesse patrimonial da pessoa jurídica de Direito Privado. Contudo, é insuficiente, por si só, a demonstrar grave lesão à ordem ou economia pública.
+4. Alegado prejuízo da concessionária, ademais, que é pretérito e que já está consumado, pretendendo ela que se assegure o seu imediato direito de transferir o ônus de ocorrência passada para os consumidores, objetivo que não se coaduna com o da SLS.
+5. A discussão em Suspensão de Liminar e Sentença deve ter por fundamento a matéria prevista no art. 4º da Lei 8.347/1992, o que é inconfundível com a sua utilização como sucedâneo recursal.
+6. Agravo Interno não provido.
+A embargante afirma que houve erro material na compreensão de que o pedido de contracautela, no caso concreto, constitui sucedâneo recursal, pois a determinação judicial das instâncias de origem - impondo à concessionária o ônus de arcar com os pagamentos de ICMS (proibidos, por ora, de serem repassados aos consumidores de energia elétrica) - onera em aspecto inesperado e extraordinário os elementos do contrato firmado, podendo, inclusive, impactar na própria prestação do serviço público. O impacto financeiro, afirma, encontra-se devidamente comprovado nos autos por meio de planilhas.
+Foi apresentada impugnação pelo Ministério Público do Estado da Bahia.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Os Embarg os de Declaração constituem recurso de contorno rígido. Destinam-se à complementação do julgado que se reveste dos vícios de omissão, contradição ou obscuridade, além da correção de erro material.
+2. O conceito de "erro material" diz respeito à existência de notória incompatibilidade entre a linha de raciocínio contida no decisum e sua expressão em sinais gráficos escritos, sendo os exemplos mais conhecidos o erro de cálculo, grafia equivocada ou troca de nomes.
+3. Na hipótese em tela, a embargante defende que não há natureza de sucedâneo recursal, o que evidencia a intenção de rediscutir o mérito do decisum embargado, propósito inconciliável com a natureza dos Aclaratórios (a caracterização do pedido de Suspensão de Liminar e de Sentença como sucedâneo recursal consistiu exatamente na matéria enfrentada no julgamento do Agravo Interno).
+4. Embargos de Declaração rejeitados.
+VOTO
+Recebi os autos em 23 de janeiro de 2025.
+Os Embargos de Declaração constituem recurso de contorno rígido. Destinam-se à complementação do julgado que se reveste dos vícios de omissão, contradição ou obscuridade, além da correção de erro material.
+O conceito de "erro material" diz respeito à existência de notória incompatibilidade entre a linha de raciocínio contida no decisum e sua expressão em sinais gráficos escritos, sendo os exemplos mais conhecidos o erro de cálculo, grafia equivocada ou troca de nomes.
+Na hipótese sob julgamento, não é disso que se trata, pois a embargante apresenta argumentação destinada a impugnar a premissa de que o pedido de contracautela assumiu caráter de sucedâneo recursal. Dito de outro modo, a embargante defende que não há natureza de sucedâneo recursal, o que evidencia a intenção de rediscutir o mérito do decisum embargado, propósito inconciliável com a natureza dos aclaratórios (a caracterização do pedido de SLS como sucedâneo recursal consistiu exatamente na matéria enfrentada no julgamento do Agravo Interno).
+Com essas considerações, rejeito os Embargos de Declaração.
+É como voto.
