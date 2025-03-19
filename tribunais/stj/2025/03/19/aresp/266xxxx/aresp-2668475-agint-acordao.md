@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. POSSIBILIDADE DE REALIZAÇÃO DE ATOS CONSTRITIVOS. LEI 11.101/2005, ALTERADA PELA LEI 14.112 /2020. CONTROLE PELO JUÍZO RECUPERACIONAL. ART. 69 DO CPC/2015. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1.  Esta Corte Superior de Justiça, atenta às modificações introduzidas pela Lei 14.112/2020, consolidou o entendimento de que é possível a prática de atos constritivos no âmbito da execução fiscal contra a sociedade empresária em recuperação judicial, devendo o juízo da execução comunicar qualquer constrição ao juízo recuperacional, o qual poderá, se entender necessário, determinar a substituição da penhora.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto por IPERFOR INDUSTRIAL LTDA. - EM RECUPERAÇÃO JUDICIAL  contra  a  decisão  que  deu provimento ao recurso especial da FAZENDA NACIONAL, para reconhecer a possibilidade de atos constritivos contra a sociedade empresária em recuperação judicial nos autos da execução fiscal.
+A parte agravante defende, em suma, que "a constrição de ativos de empresas em recuperação judicial viola o princípio da preservação da empresa e a competência do Juízo recuperacional, nos artigos 805 e 835 do Código de Processo Civil e os artigos 6º, §7º-B e 47 da Lei nº 11.101/05" (fls. 341).
+Por fim, pugna pela reconsideração da decisão agravada ou submissão da questão ao Colegiado.
+Não foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO EM RECURSO  ESPECIAL. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. POSSIBILIDADE DE REALIZAÇÃO DE ATOS CONSTRITIVOS. LEI 11.101/2005, ALTERADA PELA LEI 14.112 /2020. CONTROLE PELO JUÍZO RECUPERACIONAL. ART. 69 DO CPC/2015. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+1.  Esta Corte Superior de Justiça, atenta às modificações introduzidas pela Lei 14.112/2020, consolidou o entendimento de que é possível a prática de atos constritivos no âmbito da execução fiscal contra a sociedade empresária em recuperação judicial, devendo o juízo da execução comunicar qualquer constrição ao juízo recuperacional, o qual poderá, se entender necessário, determinar a substituição da penhora.
+2.  Agravo  interno  não  provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada, torna incólume o entendimento nela firmado.
+No caso, conforme consta na decisão agravada, o Tribunal de origem deu provimento ao agravo de instrumento interposto pela empresa, ora agravante, para indeferir o pedido de constrição de ativos financeiros, sob os seguintes fundamentos (fls. 213-214):
+A demanda originária deste agravo de instrumento é uma execução fiscal na qual o juízo indeferiu o pedido da executada e determinou o prosseguimento a quo do processo mediante a tentativa de bloqueio de valores por meio do sistema SISBAJUD, nos seguintes termos:
+ID. 45285611: Requer o executado a suspensão da execução até o encerramento da ação de recuperação judicial. Alega, em síntese a determinação de suspensão dos atos de expropriação em face da admissão do Tema 987 pelo C. STJ, bem como a inaplicabilidade da Lei n.º 14.112/20 às recuperações em processamento.
+Não assiste razão ao executado.
+O Tema supracitado foi objeto de cancelamento pelo C. STJ.
+Conforme expressa previsão legal, a execução fiscal não é suspensa por força do deferimento da recuperação judicial, conforme expressa determinação do art. 7º-B da Lei n.º 11.101/05 com a redação dada pela Lei n.º 14.112/20.
+No mais, compete ao Juízo da recuperação judicial apenas e tão somente a substituição dos atos de constrição que recaiam sobres bens de capital essenciais. A competência para substituição, não se confunde com o impedimento para a penhora de bens.
+Assim, prossiga-se com a execução mediante a tentativa de bloqueio de valores por meio do sistema SISBAJUD. Caso resulte negativa ou insuficiente a diligência, venham os autos conclusos para apreciação do pedido de penhora do veículo.
+O artigo 6º, § 7º, da Lei nº 11.101/2005 prevê que a execução fiscal não se suspende em razão de deferimento de recuperação judicial (§ 7º), salvo a concessão de parcelamento (artigo 10-A da Lei nº 10.522/2002). No entanto, não conduz à conclusão de que podem ser realizados irrestritamente atos expropriatórios, eis que, desse modo, estaria prejudicado o plano de recuperação da empresa. Assim, o Superior Tribunal de Justiça tem entendimento pacificado no sentido de que a execução não é suspensa, ou seja, podem ser efetivadas constrições (penhora de bens, por exemplo), mas não são possíveis, nos próprios autos, diminuições e alienações do patrimônio da empresa (leilão dos bens penhorados, penhora online de ativos financeiros etc.), as quais devem ser submetidas ao juízo universal. Saliente-se trecho do voto da Ministra Maria Isabel Gallotti no AgRg no AgRg no CC 81.922/R, verbis:
+(..)
+O prosseguimento da execução fiscal e eventuais embargos, na forma do art. 6º, § 7º, da Lei 11.101/05, deverá se dar, portanto, perante o juízo da ação executiva competente, ao qual caberão todos os atos processuais, inclusive a ordem de citação e penhora, exceto a apreensão e alienação de bens.
+Cumprirá, portanto, ao Juízo da Recuperação - único competente para os atos que envolvam alienação de bens da recuperanda, nos termos da pacífica jurisprudência da 2ª Seção - resguardar a existência, ao cabo da recuperação, de bens hábeis à garantia dos créditos tributários, observado o privilégio legal respectivo.
+(..)
+(ressaltei e grifei)
+Destaquem-se outros julgados do STJ: EDcl no AgRg no CC 127.861/GO e AgRg no CC 119.970/RS. Especificamente para o caso da agravante, esta corte tem entendimento acerca da impossibilidade da constrição de ativos financeiros por meio do sistema SISBAJUD, dado que implica redução do patrimônio da empresa, o que compromete o seu plano de recuperação:
+Entretanto, esta Corte Superior de Justiça, atenta às modificações introduzidas pela Lei 14.112/2020, consolidou o entendimento de que é possível a prática de atos constritivos no âmbito da execução fiscal contra a sociedade empresária em recuperação judicial, devendo o juízo da execução comunicar qualquer constrição ao juízo recuperacional, o qual poderá, se entender necessário, determinar a substituição da penhora.
+Nesse sentido:
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 283/STJ.
+I - Trata-se de agravo de instrumento contra decisão que rejeitou a Exceção de Pré-Executividade manejada pela autora, complementada pela decisão que acolheu parcialmente os embargos de declaração opostos nos autos da Execução Fiscal n. 1020183-60.2015.8.26.0224, em trâmite perante o Setor de Execuções Fiscais da Comarca de Guarulhos/SP, o que faz consubstanciada nas razões de fato e de direito. No Tribunal a quo, negou-se provimento ao agravo.
+II - Com a vigência do §7º-B do art. 6º da Lei 11.101/2005, acrescentado pela Lei n. 14.122, de 24 de dezembro de 2020, a execução fiscal e eventuais embargos tramitam regularmente perante o Juízo da execução fiscal, inclusive a determinação de penhora de executado em recuperação judicial.
+III - Sobre a competência do Juízo recuperacional para analisar a essencialidade do bem escolhido para a constrição, verifica-se que, até que a sentença de encerramento da recuperação judicial transite em julgado, será do Juízo recuperacional a competência para a análise desses atos. Nesse sentido, confiram-se: AgInt no AREsp n. 1.901.220/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 29/4/2024, DJe de 2/5/2024; AgInt no AREsp n. 2.150.824/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023.
+IV - Entretanto, observa-se que o Tribunal a quo, ao analisar a questão, explicitou ter sido cumprido o requisito de informação prévia do juízo em que tramita a recuperação, o que determinaria o cumprimento do mandamento legal.
+V - O recorrente não enfrentou esse fundamento isolado e suficiente para a solução do recurso e deixando de o fazer, atraiu a incidência da Súmula n. 283/STF, a inviabilizar o recurso especial.
+VI - Agravo interno improvido (AgInt no REsp n. 2.121.112/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO FISCAL. ATOS CONSTRITIVOS. POSSIBILIDADE. CONTROLE POSTERIOR DO JUÍZO UNIVERSAL.
+I - O deferimento do processamento da recuperação judicial não tem, por si só, o condão de suspender as Execuções Fiscais, nos termos do art. 6º, § 7º, da Lei 11.101/2005.
+II - Cabe ao juízo da Execução Fiscal determinar os atos constritivos. Todavia, o controle de tais atos é incumbência exclusiva do juízo da recuperação, o qual poderá substituí-los, mantê-los ou, até mesmo, torná-los sem efeito, tudo buscando o soerguimento da empresa. Precedentes.
+III - Agravo Interno improvido (AgInt no REsp n. 2.152.426/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 7/10/2024, DJe de 9/10/2024).
+Como se vê, a conclusão do Tribunal de origem, acerca da impossibilidade de realização de atos de constrição patrimonial contra a empresa em recuperação judicial em sede de execução fiscal, destoa das recentes decisões proferidas nesta Corte, conforme registrado na decisão recorrida, de forma que a decisão que deu provimento ao recurso especial interposto pela Fazenda Nacional deve ser mantida.
+Isso posto, nego provimento ao recurso.
