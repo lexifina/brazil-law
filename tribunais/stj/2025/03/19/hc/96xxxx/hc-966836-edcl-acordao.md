@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DIÓGENES VIEIRA MARQUES contra acórdão, da minha relatoria, que negou provimento ao agravo regimental, nos termos da seguinte ementa:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. INDEFERIMENTO LIMINAR DO WRIT. MERA REITERAÇÃO DO ARESP 1.422.483/SP. 2. MÉRITO EFETIVAMENTE ANALISADO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. 3. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O presente habeas corpus é mera reiteração do Agravo em Recurso Especial 1.422.483/PE, também manejado em benefício do ora paciente, o qual apontava como ato coator o mesmo acórdão, formulando-se o mesmo pedido, com fundamento na mesma causa de pedir. É "assente nesta eg. Corte que "Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2017)". (AgRg no HC n. 678.732/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021.)
+2. Não há se falar em ausência de julgamento do mérito recursal, uma vez que constou expressamente da decisão proferida no agravo em recurso especial que o entendimento da Corte local estaria em harmonia com a jurisprudência desta Corte Superior, no sentido de que a alegação de nulidade por vício na quesitação deverá ocorrer no momento oportuno, isto é, após a leitura dos quesitos e a explicação dos critérios pelo Juiz presidente, sob pena de preclusão, nos termos do art. 571 do CPP (HC 217.865/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/5/2016, D Je 24/5/2016).
+3. Agravo regimental a que se nega provimento.
+O embargante aduz, em síntese, que há contradição no acórdão embargado, porquanto se afirmou no agravo em recurso especial que a matéria não teria sido objeto de debate e na presente impetração se afirma que ela foi analisada. No mais, reitera as alegações trazidas na impetração.
+Pugna, assim, pelo acolhimento dos aclaratórios, com efeitos infringentes.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. AUSÊNCIA DE OMISSÃO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO. 2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+2. Embargos de declaração rejeitados.
+VOTO
+Como é cediço, os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que o acórdão embargado se mostrou ambíguo, obscuro, contraditório ou omisso, conforme disciplina o art. 619 do Código de Processo Penal. A mera irresignação com o entendimento apresentado no acórdão embargado não viabiliza a oposição dos aclaratórios.
+De fato, "os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível, em regra, a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide". (EDcl nos EAREsp 650.536/RJ, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 26/10/2021, DJe 05/11/2021).
+Na hipótese, o embargante se limita a reafirmar que a matéria não foi analisada no agravo em recurso especial, em especial porque "não houve o enfrentamento da matéria pela Autoridade Coatora". Contudo, reitero que consta da decisão do Agravo em Recurso Especial que "A questão referente à nulidade pela não observância na ordem de quesitação" foi decidida pelo Tribunal de origem "em harmonia com a jurisprudência desta Corte Superior".
+Já "A questão da improcedência da qualificadora do motivo fútil não foi debatida pela instâncias de origem, ressentindo o recurso especial do necessário prequestionamento. Incidência do óbice da Súmula n. 211/STJ". No ponto, tem-se que a impossibilidade de conhecimento do recurso próprio por ausência de prequestionamento também impede o julgamento do habeas corpus, em virtude da indevida supressão de instância.
+Não há se falar, portanto, em contradição, mas sim em dois temas distintos, cada qual com sua análise particularizada no agravo em recurso especial, que impede o conhecimento de ambas as matérias no habeas corpus, por serem mera reiteração. Ainda que não se tenha avançado no mérito propriamente dito de uma das teses, foi devidamente consignada a impossibilidade de conhecimento da matéria por ausência de prequestionamento, o que equivale à supressão de instância.
+Dessa forma, não há se falar em omissão, mas sim em mera irresignação. Assim, resolvidas as questões com fundamentação satisfatória, acaso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos, que possuem função processual limitada, a via própria para impugnar o julgado ou rediscutir a causa.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. PROCESSO PENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. SÚMULA N. 182/STJ. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. MERA IRRESIGNAÇÃO.
+1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, bem como eliminar contradição ou ambiguidade eventualmente existentes no julgado impugnado, não constituindo meio processual adequado para veicular simples inconformismo e o propósito de rediscussão de matéria decidida. Precedente.
+2. A contradição que autoriza a oposição dos embargos de declaração é aquela interna ao julgado, caracterizada por proposições inconciliáveis entre si, situação que não ocorre no acórdão embargado. Precedente.
+3. Inexistindo no acórdão embargado quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, que permitem o manejo do recurso integrativo, não há como este ser acolhido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg na Rcl 39.139/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 04/08/2020).
+Nessa linha de intelecção, revela-se manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal, o que inviabiliza a utilização dos embargos de declaração.
+Pelo exposto, rejeito os aclaratórios.
+É como voto.
