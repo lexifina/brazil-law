@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. DISSÍDIO QUANTO À APLICAÇÃO DA REGRA TÉCNICA DE ADMISSIBILIDADE. NÃO CABIMENTO. SÚMULA 7 DO STJ. PECULIARIDADES DO CASO CONCRETO. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Priscila Garcia Reis e Outras contra decisão de minha lavra (fls. 2.372/2.376) que indeferiu liminarmente os embargos de divergência, assim resumida:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. SÚMULA 7/STJ. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
+Sustenta a parte agravante (fls. 2.380/2.402) que a fundamentação do juízo adotou premissa equivocada, pois se insurge quanto à parcela do recurso especial que foi conhecida, a saber, a fixação dos honorários sucumbenciais em desacordo com a gradação do art. 85, § 2º, do Código de Processo Civil.
+Assevera que não deve incidir a Súmula 315 do STJ, haja vista que a insurgência recursal é especificamente quanto à parte conhecida e desprovida, tendo ocorrido a apreciação do mérito recursal.
+Aduz que pontuou a similitude fática dos acórdãos cotejados, tendo chegado a conclusões distintas quanto aos honorários advocatícios.
+Por fim, requer o conhecimento e provimento do recurso.
+A parte agravada pugnou que seja negado provimento ao recurso, assim como pela aplicação da multa prevista no art. 1.021, §4º, do CPC (fls. 2.406/2.415).
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. DISSÍDIO QUANTO À APLICAÇÃO DA REGRA TÉCNICA DE ADMISSIBILIDADE. NÃO CABIMENTO. SÚMULA 7 DO STJ. PECULIARIDADES DO CASO CONCRETO. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que a parte agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+A decisão agravada destacou a impossibilidade de análise dos embargos de divergência pela Corte Especial, haja vista a utilização da Súmula 7 do STJ como fundamento de decisão pelo órgão fracionário, senão vejamos (fls. 2.375/2.376 - destaques no original):
+Consoante se depreende do julgado embargado, o recurso especial foi conhecido em parte e, nesta extensão, desprovido. Contudo, a parte embargante se insurge precisamente contra a parte do recurso que não fora conhecida.
+Na parte conhecida, o órgão fracionário reputou que a decisão do Tribunal de origem encontrava-se em consonância com a jurisprudência desta Corte e reconheceu a incidência da Súmula 568 do STJ  .
+
+Foi destacado que Tribunal a quo expressamente mencionou o entendimento do Superior Tribunal de Justiça com relação à ordem de arbitramento de honorários advocatícios. Contudo, o TJMG concluiu que não seria possível mensurar o proveito econômico. Nesse ponto, a Terceira Turma reputou aplicável a Súmula 7 do STJ, senão vejamos (fls. 2.181/2.182 - grifo nosso):
+Por outro lado, o TJ/MG consignou expressamente que não era possível auferir o proveito econômico na hipótese, razão pela qual fixou percentual sobre o valor da causa.
+Entender de modo diverso implicaria o revolvimento ao contexto fático-probatório dos autos, o que não se mostra possível pela incidência da Súmula 7/STJ.
+Apesar do esforço argumentativo da parte embargante, a pretensão é do reexame dos critérios de admissibilidade. Isso porque não há discussão de tese jurídica, mas da avaliação se no caso concreto houve o acerto da aplicação do óbice pelo órgão fracionário.
+É firme o entendimento no âmbito da Corte Especial do STJ no sentido de que não cabe a oposição de embargos de divergência com o objetivo de discutir o acerto ou desacerto na aplicação de regra técnica de admissibilidade do recurso especial. Ilustrativamente: AgInt nos EAREsp n. 1.883.018/RJ, Ministro Mauro Campbell Marques, Corte Especial, DJe 17/11/2023; AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; AgRg nos EAREsp 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+A parte agravante insiste que a decisão da Terceira Turma examinou o mérito no ponto recorrido. No entanto, o único exame de mérito realizado por aquele Colegiado foi aplicar a Súmula 568 do STJ, haja vista que o Tribunal de origem fez expressamente referência à gradação dos honorários advocatícios estabelecida no REsp n. 1.746.072/PR.
+E quanto ao tema, a ora agravante não se insurge. Ao revés, seu pedido é baseado em tal entendimento jurisprudencial. Todavia, há irresignação especificamente com relação à compreensão de que a revisão da conclusão do Tribunal a quo demandaria revolvimento da matéria fático-probatória. Sustenta que no acórdão embargado concluiu-se pela aplicação da Súmula 7 do STJ, enquanto os paradigmas teriam analisado a questão de fundo.
+Desse modo, é inequívoco que a parte ora agravante pretende rever técnica de admissibilidade recursal. Contudo, os embargos de divergência não configuram a via adequada para discutir a aplicação de regra técnica de admissibilidade do recurso especial, sobretudo quando se reconhecer a incidência da Súmula 7/STJ, cuja conclusão resulta da análise das peculiaridades do caso concreto (AgInt nos EAREsp n. 1.223.026/SP, Ministro Jorge Mussi, Corte Especial, julgado em 8/2/2022, DJe 14/2/2022). Ilustrativamente: AgRg nos EREsp n. 1.388.345/AL, Ministro Francisco Falcão, Corte Especial, DJe 15/9/2023; AgInt nos EREsp n. 1.530.013/PR, Ministro Luis Felipe Salomão, Corte Especial, DJe 2/5/2018; AgRg nos EAREsp n. 585.779/MS, Ministro Og Fernandes, Corte Especial DJe 21/3/2016.
+Por derradeiro, não merece ser acolhida a pretensão da parte agravada de aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da multa - a ser analisada no caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Ante o exposto, nego provimento ao agravo interno.
