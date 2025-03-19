@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBSON FERREIRA COSTA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Ceará que deu parcial provimento ao apelo defensivo para redimensionar a pena, por infração ao arts. 33, caput, c/c art. 40, VI, ambos da Lei 11.343/2006 e 273, §1º-B, do Código Penal, para 6 anos e 8 meses de reclusão, no regime inicial semiaberto, e 666 dias-multa,
+Opostos embargos de declaração, foram acolhidos apenas para fixar a pena de multa em 176 dias.
+Nas razões do recurso, alega a defesa violação do art. 619 do Código de Processo Penal, sustentando omissão quanto a: (i) alegação de nulidade das provas colhidas com invasão de domicílio e (ii) não incidência da consunção entre os delitos; e contradição, ao deixar de aplicar a minorante prevista no art. 33, § 4º, da Lei de drogas ao delito do art. 273, § 1º-B, do Código Penal.
+Afirma, ainda, que o acórdão contrariou os arts. 157, caput e § 1º, 240, 386, II, todos do Código de Processo Penal, ao manter a condenação do recorrente apesar da inexistência de provas válidas da materialidade delitiva, tendo em vista a violação princípio da inviolabilidade de domicílio. Pondera que o ingresso domiciliar se amparou em denúncia anônima, inexistindo prova de autorização do morador.
+Subsidiariamente, afirma que se faz necessário o reconhecimento da existência de crime único entre o delito de tráfico de drogas e crime contra a saúde pública, incidindo o princípio da consunção. Argumenta que "as apreensões se deram nas mesmas condições de tempo e lugar e, conforme se infere das premissas fáticas contidas no acórdão, o intuito criminoso era, em última análise, o comércio de drogas, utilizando-se, para tanto de seu estabelecimento comercial" (e-STJ fl. 407).
+Argumenta, por fim, que é possível a aplicação analógica da minorante do tráfico privilegiado em relação ao delito do art. 273, §1º-B, V, do Código Penal, asseverando que o réu preenche todos os requisitos legais, tal como reconhecido pelo sentenciante.
+Apresentadas contrarrazões, o Tribunal a quo admitiu o recurso especial, manifestando-se o Ministério Público Federal pelo conhecimento parcial do recurso e, nessa extensão, pelo não provimento.
+É o relatório. Decido.
+O recurso merece prosperar quanto à ausência de análise da tese de nulidade da prova por ingresso ilegal no domicílio do réu.
+De fato, a despeito da insurgência da defesa quanto à nulidade das provas obtidas por meio de procedimento de busca domiciliar realizada sem mandado judicial, com base apenas em denúncia anônima, contaminando toda a operação policial realizada (e-STJ fls. 411/428), no julgamento dos aclaratórios, a Corte de origem não se manifestou sobre a referida tese.
+Nos termos do art. 619 do CPP, os embargos declaratórios são cabíveis quando houver, na sentença ou no acórdão, obscuridade ou contradição, ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal.
+Desse modo, ao rejeitar os embargos declaratórios, deixando, contudo, de se pronunciar sobre a questão de fato nele suscitada, o Tribunal de origem violou os arts. 619 do CPP e 1022 do CPC.
+Prejudicada, por conseguinte, a análise das demais teses recursais.
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a novo julgamento dos embargos de declaração defensivos quanto à tese de ilegalidade do ingresso domiciliar.
+Intimem-se.
+EMENTA
