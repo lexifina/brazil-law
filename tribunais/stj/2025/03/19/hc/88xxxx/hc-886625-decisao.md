@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDIVALDO RAIMUNDO DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2329661-14.2023.8.26.0000.
+Consta dos autos que o paciente foi preso preventivamente em 30.10.2023 pela suposta prática da conduta descrita nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+A defesa do paciente impetrou habeas corpus perante o Tribunal local requerendo o trancamento da ação penal em razão da ilicitude da busca pessoal e postulando a revogação da prisão preventiva.
+A corte de origem denegou a ordem.
+Neste writ, o impetrante sustenta que os policiais teriam adentrado de forma ilegal no imóvel apontado na denúncia anônima, sem a devida autorização judicial ou prévia ciência do paciente.
+Aponta que a alegação dos agentes de que a entrada teria sido franqueada deveria ser acompanhada de registro audiovisual ou declaração escrita, situação que não teria ocorrido no caso dos autos.
+Defende que a prisão cautelar decretada pelo magistrado seria ilegal, posto que não teria havido abertura de vista à defesa acerca do pedido de prisão e a urgência indicada não teria sido fundamentada.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e a suspensão do processo em primeiro grau para que o paciente aguarde o julgamento do presente writ em liberdade e, alternativamente, a substituição da prisão em curso por medida cautelar diversa. Além disso, pleiteia o trancamento do processo-crime por suposta ilicitude probatória.
+A liminar foi indeferida (fls. 82-83).
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 224-234).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível nulidade da busca pessoal e do decreto de prisão preventiva.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, constato a partir da leitura do acórdão impugnado que os policiais, após receberem notícia de que o paciente - foragido da Justiça - estaria guardando drogas no interior de residência, se dirigiram ao local, ocasião em que visualizaram o paciente saindo em um veículo. Na sequência, o paciente teria sido perseguido, capturado e abordado, tendo confessado a traficância e o depósito de drogas em sua residência. Os policiais, então, se dirigiram à residência, adentraram a propriedade e apreenderam os entorpecentes e petrechos destinados ao tráfico. Também consta no acórdão que a entrada no imóvel foi franqueada aos policiais.
+Assim, concluo ser legal a busca pessoal e a domiciliar.
+Quanto à alegação sobre a necessidade de registro audiovisual ou declaração escrita confirmando que a entrada no imóvel teria sido franqueada, observo que esta questão não foi objeto de análise pelo acórdão impugnado, de modo que não cabe a este Superior Tribunal de Justiça dela conhecer, sob pena de supressão de instância.
+No que tange à revogação da prisão preventiva, verifico que a decisão que decretou a segregação teve por fundamento risco à ordem pública, conveniência da instrução criminal e efetiva aplicação da lei penal. Além disso, o Tribunal local acrescentou que o paciente já era indivíduo foragido da justiça, pois o mandado de prisão expedido em outra ação penal não havia sido cumprido até então, o que revelaria a predisposição de se furtar à aplicação da lei penal.
+Assim, tenho que a decisão que decretou a prisão preventiva está suficientemente fundamentada, razão pela qual não há qualquer ilegalidade.
+Por fim, reputo desnecessária a prévia intimação da defesa para se pronunciar sobre o pedido de prisão preventiva, já que, nos termos da jurisprudência desta Cor te, é admitido o contraditório diferido, pois a segregação cautelar pode ser revista a qualquer tempo pelo Magistrado de primeiro grau, inclusive por provocação do Advogado constituído (AgRg no RHC n. 182.727/GO, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
