@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JUSSIÊ DE SOUZA GREMENSOL em face de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina .
+O Tribunal de origem deu parcial provimento aos apelos do Ministério Público e da defesa para condenar o paciente à pena de 12 (doze) anos, 9 (nove) meses e 27 (vinte e sete) dias de reclusão, no regime inicial fechado, e 73 (setenta e três) dias- multa, pela da prática dos crimes de furtos simples e qualificado (art. 155, caput, do CP, duas vezes; art. 155, § 4º, I e II, do CP, duas vezes; e art. 155, § 1º, do CP, uma vez.
+A defesa requer o afastamento da "qualificadora da escalada nos fatos 1 e 2 diante da ausência de comprovação de esforço incomum e ausência de laudo de exame pericial direto no local dos fatos, com a correspondente redução da pena do Paciente", bem como que seja reconhecida "a continuidade delitiva entre os crimes cometidos, de modo a determinar a unificação das penas do Paciente e, por consequência, deixar de aplicar o cúmulo material".
+As informações foram prestadas ( fls.639/644, 645/650, ).
+O Ministério Público Federal ofereceu parecer ( fls. 728/739).
+RELATADO. DECIDO.
+Inicialmente o habeas corpus não deve ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configura a competência originária desta Corte.
+O Superior Tribunal de Justiça, alinhando-se à jurisprudência mais recente do Supremo Tribunal Federal, passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC n. 792.645/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023).
+Com relação a incidência da qualificadora da escalada, para se avaliar se houve ou não esforço incomum para transposição do muro, far-se-ia necessária sensível incursão no acervo fático-probatório, providência descabida em sede de habeas corpus. Nesse sentido: AgRg no HC n. 752.992/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, D Je de 19/4/2022).
+Pretende, ainda, a impetrante obter, através do presente, revisão dos critérios utilizados na fixação da pena do paciente, bem como incidência de continuidade delitiva. Contudo, no que concerne à dosimetria da pena, "a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade"(HC 463.039/ SC, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 20/9/2018, DJe 26/9/2018).
+Além do mais, não verifico a ocorrência de flagrante ilegalidade ou teratologia que possa justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
