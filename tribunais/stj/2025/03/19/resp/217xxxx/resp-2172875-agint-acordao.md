@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. CONTROVÉRSIA SOBRE A VALIDADE DA MEDIDA PROVISÓRIA 1.159/2023, CONVERTIDA NA LEI 14.592/2023. ACÓRDÃO ASSENTADO EM FUNDAMENTAÇÃO DE NATUREZA CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO.
+1.  Tendo o acórdão recorrido decidido a controvérsia com amparo em fundamentos de natureza constitucional, inviável a análise do tema no âmbito do recurso especial.
+2.  Agravo  interno  im provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por DOMINUS QUÍMICA LTDA. contra  a  decisão  que  não conheceu do recurso especial em epígrafe, porquanto a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque constitucional.
+No agravo interno, o contribuinte defendeu a natureza infraconstitucional da controvérsia e o cabimento do recurso especial, nos seguintes termos:
+Note-se que, enquanto no Tema 756 a discussão gravitou acerca da autonomia do legislador infraconstitucional para tratar da não- cumulatividade, no presente caso, o pleito da Agravante gravita sobre violações em torno da sistemática estabelecida pelas Leis nº 10.637/02 e 10.833/03.
+No presente debate, discute-se que, ao instituir o regime não cumulativo do PIS e da COFINS, o legislador infraconstitucional deveria assegurar coerência e efevidade com as normas supramencionadas, responsáveis por dispor acerca da não-cumulatividade de ambos os tributos.
+Em outras palavras, embora o legislador infraconstitucional possua discricionariedade para tratar da não-cumulatividade, a exclusão do valores de ICMS para apuração dos créditos de PIS e COFINS avilta a sistemática introduzida pelo diploma infraconstitucional.
+Isso, porque, quando da instituição do regime não-cumulativo do PIS e da COFINS, as Leis nº 10.637/2002 e 10.833/2003 elegeram, por bem, a técnica de base sobre base para a apuração das contribuições sociais. Nessa sistemática, o cálculo do crédito do tributo independe da carga tributária incidente na operação de compra, sendo calculado inegralmente sobre o valor da operação.
+ ..
+Destarte, conforme detalhado, a questão envolve nitidamente a análise de normas infraconstitucionais, quais sejam as Leis nº 10.637/2002 e 10.933/2003; os Arts. 109 e 110, do CTN e o Art. 13, § 1º, da Lei Kandir, para o reconhecimento da ilegalidade na vedação à inclusão de créditos de PIS e COFINS sobre o ICMS incidente sobre as operações de aquisição realizadas, ensejando a reforma da r. decisão agravada para que seja conhecido e julgado o Recurso Especial de Fls. 339-372/e-STJ (fls. 538-542).
+Assim, pugnou pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  RECURSO  ESPECIAL. CONTROVÉRSIA SOBRE A VALIDADE DA MEDIDA PROVISÓRIA 1.159/2023, CONVERTIDA NA LEI 14.592/2023. ACÓRDÃO ASSENTADO EM FUNDAMENTAÇÃO DE NATUREZA CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO.
+1.  Tendo o acórdão recorrido decidido a controvérsia com amparo em fundamentos de natureza constitucional, inviável a análise do tema no âmbito do recurso especial.
+2.  Agravo  interno  im provido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do agravo interno, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Na origem, a agravante impetrou mandado de segurança visando assegurar o suposto direito líquido e certo do impetrante "de manter o ICMS incidente sobre as operações de aquisição do período na base de apuração dos créditos de PIS e COFINS" (fl. 27).
+A sentença que denegou a ordem foi mantida pelo Tribunal de origem, nos seguintes termos:
+Conforme prevê o art. 195, §12, da CRFB, "A lei definirá os setores de atividade econômica para os quais as contribuições incidentes na forma dos incisos I, b; e IV do caput, serão não- cumulativas".
+Como se vê, a Constituição da República outorgou ao legislador infraconstitucional liberdade para estipular os critérios e os beneficiários da não cumulatividade, autorizando que isso fosse feito com diferenciações para alguns segmentos de contribuintes, ou seja, possibilitando o desconto das respectivas bases de cálculo de determinados bens, serviços e despesas.
+O sistema legal da não cumulatividade das contribuições ao PIS e da COFINS foi instituído pelo art. 3º das Leis nº 10.637/02 e 10.833/03, tendo sido reconhecida a constitucionalidade da sistemática pelo Supremo Tribunal Federal no julgamento dos Temas nº 34 e 756. Veja-se:
+Tema 34/STF: É constitucional a previsão em lei ordinária que introduz a sistemática da não- cumulatividade a COFINS dado que observa os princípios da legalidade, isonomia, capacidade contributiva global e não-confisco.
+Tema 756/STF, item "I": O legislador ordinário possui autonomia para disciplinar a não cumulatividade a que se refere o art. 195, § 12, da Constituição, como a matriz constitucional da contribuição ao PIS e da COFINS e os princípios da razoabilidade, da isonomia, da livre concorrência e da proteção à confiança.
+O sistema não cumulativo das contribuições ao PIS e da COFINS é, pois, de ordem legal, cabendo à lei definir todos os contornos materiais do direito de crédito das contribuições.
+Assim, não há inconstitucionalidade no fato de a legislação ordinária veicular restrições quanto às despesas que podem gerar o crédito não cumulativo, na medida em que o art. 195, §12, da CRFB faz alusão à não-cumulatividade na forma da lei. Inconstitucionalidade haveria apenas se a legislação veiculasse restrições absolutamente desproporcionais e que inviabilizassem, por completo, o uso da sistemática não cumulativa.
+Ademais, o art. 146, inciso III, da CRFB exige a edição de Lei Complementar para estabelecer normas gerais em matéria de legislação tributária, inclusive a respeito de créditos tributários (alínea "b"), no que não se insere a regulamentação específica a respeito de vedação ao creditamento de contribuições ao PIS e da COFINS.
+A partir da leitura dos §§2º e 3º dos art. 3º das Leis nº 10.637/02 e 10.833/03, verifica-se que as hipóteses de vedação ao creditamento das contribuições ao PIS e da COFINS previstas na legislação são absolutamente legítimas, pois impedem a apuração de créditos das contribuições em relação a despesas sobre as quais não tenham incidido as contribuições na etapa anterior.
+Nesses casos, não há fundamento legal para a apuração de créditos das contribuições ao PIS e da COFINS, pois não há incidência tributária na etapa anterior a justificar a técnica do creditamento, "voltada a afastar o "efeito cascata" na atividade econômica, considerada a receita ou o faturamento auferidos pelo conjunto de contribuintes tributados sequencialmente ao longo do fluxo negocial dos bens ou dos serviços (..)" (RE 607642, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 29/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-267 DIVULG 06-11-2020 PUBLIC 09-11-2020).
+Nessa linha, após o julgamento do Tema nº 69 pelo STF  ocasião em que foi reconhecida a não incidência das contribuições ao PIS e da COFINS sobre o ICMS  , o legislador incluiu o inciso III no §2º do art. 3º das Leis 10.637/2002 e 10.833/2003 (MP nº 1.147/2022 e Lei nº 14.592/2023), estabelecendo vedação expressa à apuração de créditos sobre o ICMS incidente em operação de aquisição. Veja-se:
+ ..
+Não se verifica qualquer inconstitucionalidade na norma acima transcrita por violação aos princípios da não cumulatividade.
+Afinal, não havendo incidência das contribuições ao PIS e da COFINS sobre o ICMS devido na operação de aquisição de mercadorias, não há justificativa para que o adquirente seja beneficiado com o creditamento das contribuições relativas a tais valores, que não sofreram a incidência dos tributos na etapa anterior.
+Em verdade, a referida limitação decorre da própria sistemática da não cumulatividade, uma vez que, não havendo recolhimento das contribuições sobre o ICMS incidente na aquisição do insumo, não há oneração da cadeia produtiva (em relação ao ICMS) e, portanto, não se justifica o creditamento pretendido.
+No que diz respeito aos princípios da livre concorrência e da isonomia, de igual forma, não há qualquer violação, uma vez que todos os contribuintes que ocupam uma mesma posição jurídica perante a autoridade fiscal terão os mesmos direitos reconhecidos. Não havendo recolhimento de ICMS na operação de aquisição, não haverá, em nenhum caso, direito ao creditamento.
+Em verdade, violação à livre concorrência e à isonomia haveria se os contribuintes em situações desiguais (que adquiriram bens com e sem a incidência de ICMS) obtivessem o creditamento das contribuições ao PIS e da COFINS sobre tal valor, indistintamente.
+Também não há qualquer violação aos princípios da proteção à confiança e da segurança jurídica, estando cientes os contribuintes de que a aquisição de bens sem a incidência de ICMS não ensejará a apuração de créditos das contribuições ao PIS e da COFINS, na forma da legislação.
+ ..
+Por fim, registro ter sido observado o princípio da anterioridade nonagesimal, pois o art. 14, II, da Lei 14.592/2023 convalidou os art. 1º e 2º da Medida Provisória n. 1.159/2023, que tratou da impossibilidade de creditamento do ICMS incidente em operação de aquisição, e esta, por sua vez, em seu art. 3º, previu que a produção dos seus efeitos só se daria a partir do primeiro dia do quarto mês subsequente ao de sua publicação quanto às alterações promovidas pelos art. 1º e 2º, na parte em que alteram o inciso III do § 2º do art. 3º das Leis nº 10.637/2002 e 10.833/2003 (fls. 324-327).
+O recurso especial não foi conhecido, ensejando a interposição deste agravo interno.
+Sem razão, contudo.
+Com efeito, o Tribunal de origem decidiu que é constitucional a vedação de apurar créditos das contribuições ao PIS e da COFINS sobre o valor do ICMS que tenha incidido sobre a operação de aquisição de bens e serviços, conforme art. 3º, § 2º, III, das Leis 10.637/2002 e 10.833/2003, com a redação dada pela Medida Provisória 1.159/2023, convertida na Lei 14.592/2023 .
+Assim, tendo o acórdão recorrido decidido a controvérsia com amparo em fundamentos de natureza constitucional, inviável a análise do tema no âmbito do recurso especial.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. RECURSO ESPECIAL. NÃO CABIMENTO.
+1. O Tribunal de origem solucionou a contenta sob a ótica constitucional concluindo que "não há inconstitucionalidade alguma nos artigos 1º e 2º, da Medida Provisória 1.159/2023, e dos arts. 6º e 7º, da Lei 14.592/2023, os quais conferiram a nova redação ao art. 3º, § 2º, III, das Leis 10.637/02 e 10.833/03" (fl. 331), escapando sua revisão, assim, da competência desta Corte em sede de recurso especial.
+2. Agravo interno não provido (AgInt no REsp 2.152.343/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/10/2024, DJe de 21/10/2024).
+Isso posto, nego provimento ao agravo interno.
