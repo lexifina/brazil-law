@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  ITAÚ  UNIBANCO  S.A.  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a  parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DO  RIO  DE  JANEIRO  cuja  ementa  guarda  os  seguintes  termos  (fl.  652):
+
+APELAÇÃO  CÍVEL.  DIREITO  DO  CONSUMIDOR.  SUPERENDIVIDAMENTO.  LIMITAÇÃO  DE  DESCONTOS  EM  CONTA  CORRENTE  NA  QUAL  HÁ  EXCLUSIVAMENTE  RECEBIMENTO  DOS  PROVENTOS.  VERBA  ALIMENTAR.  SENTENÇA  QUE  DETERMINOU  A  LIMITAÇÃO  EM  TRINTA  POR  CENTO,  AUTORIZANDO  O  AUMENTO  DE  PARCELAS  EM  TANTAS  QUANTAS  FOREM  NECESSÁRIAS,  MANTENDO  AS  TAXAS  CONTRATUAIS.  PREPONDERÂNCIA  DOS  ENTENDIMENTOS  CONTIDOS  NOS  ENUNCIADOS  200  E  295  DA  SÚMULA  DO  TJRJ.  INAPLICABILIDADE  DO  TEMA  1085  DO  STJ.  SITUAÇÃO  DE  FATO  QUE  DIVERGE  DA  RATIO  DECIDENDI  ADOTADA  PELO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  DESCONTOS  QUE  ATINGEM  QUASE  A  TOTALIDADE  DE  BENEFÍCIO  PREVIDENCIÁRIO.  IMPROCEDÊNCIA  DO  PEDIDO  DE  RESTITUIÇÃO  DE  VALORES.  MANUTENÇÃO  DA  SENTENÇA.  NÃO  PROVIMENTO  DOS  RECURSOS.
+Rejeitados  os  embargos  de  declaração  opostos  (fls.  691-694).
+No  recurso  especial,  a  parte  recorrente  alega,  preliminarmente,  ofensa  aos  arts.  489,  §  1º,  VI,  e  1.022  do  CPC,  porquanto,  apesar  da  oposição  dos  embargos  de  declaração,  o  Tribunal  de  origem  não  se  pronunciou  sobre  pontos  necessários  ao  deslinde  da  controvérsia.
+Aduz,  no  mérito,  violação  dos  arts.  1º,  §  1º,  e  6º,  §  5º,  da  Lei  n.  10.820/2003,  pois  "o  limite  percentual  de  30%  deve  ser  aplicado  restritamente  as  hipóteses  de  empréstimo  consignado,  jamais  sendo  aplicável  aos  contratos  de  empréstimo  com  débito  em  conta  corrente,  mesmo  que  a  conta  seja  utilizada  para  o  recebimento  de  verba  salarial"  (fl.  713).
+Aponta  divergência  jurisprudencial  com  arestos  desta  Corte.
+Foram  oferecidas  contrarrazões  ao  recurso  especial  (fls.  795-808).
+Sobreveio  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  810-822),  o  que  ensejou  a  interposição  do  presente  agravo.
+Apresentada  contraminuta  do  agravo  (fls.  898-916).
+É,  no  essencial,  o  relatório.
+A  decisão  agravada  não  merece  reforma.
+Com  efeito,  o  Tribunal  de  origem  analisou  detidamente  o  recurso  especial  interposto,  devendo  a  decisão  de  admissibilidade  ser  mantida  por  seus  próprios  fundamentos.
+Não  há  falar  em  ofensa  aos  arts.  489  e  1.022  do  CPC,  uma  vez  que  o  Tribunal  de  origem,  de  forma  clara  e  devidamente  fundamentada,  expressamente  se  manifestou  acerca  dos  pontos  alegados  como  omisso.
+Observa-se,  portanto,  que  a  lide  foi  solucionada  em  conformidade  com  o  que  foi  apresentado  em  juízo.  Assim,  verifica-se  que  o  acórdão  recorrido  está  com  fundamentação  suficiente,  inexistindo  omissão  ou  contradição.
+Ademais,  nos  termos  da  jurisprudência  do  STJ,  "não  se  pode  confundir  decisão  contrária  ao  interesse  da  parte  com  ausência  de  fundamentação  ou  negativa  de  prestação  jurisdicional"  (AgInt  no  AREsp  n.  1.907.401/SP,  relatora  Ministra  Assusete  Magalhães,  Segunda  Turma,  julgado  em  22/8/2022,  DJe  de  29/8/2022).
+Verifica-se  que ,  em  relação  à  apontada  ofensa  aos  arts.  1º,  §  1º,  e  6º,  §  5º,  da  Lei  n.  10.820/2003,  e  à  divergência  jurisprudencial  suscitada,  o  recurso  especial  não  merece  prosperar  porquanto  encontra  óbice  nas  Súmulas  5,  7,  83  e  126  do  Superior  Tribunal  de  Justiça.
+O  Tribunal  de  origem  decidiu  a  controvérsia  em  harmonia  com  a  jurisprudência  do  STJ  e  alterar  o  decidido  no  acórdão  impugnado,  no  que  se  refere  à  aplicação  de  limitação  de  percentual  de  desconto,  exige  o  reexame  de  fatos  e  provas,  o  que  é  vedado,  em  recurso  especial,  pela  Súmula  7  do  STJ,  pois  a  Corte  local  concluiu  que  "a  hipótese  em  pauta  destoa  da  situação  fática  que  levou  ao  julgamento  do  tema  em  alusão,  já  que  nessa  caso  se  trata  de  percepção  única  de  proventos  de  natureza  previdenciária,  enquanto  o  tema  trata  de  verbas  variadas  que  são  depositadas  na  conta  corrente  do  devedor.  Dessa  forma,  inaplicável  o  tema  ao  caso  em  comento"  (fl.  815).
+Ante  o  exposto,  nego  provimento  ao  agravo  em  recurso  especial.
+Nos  termos  do  art.  85,  §  11,  do  CPC,  majoro  os  honorários  fixados  em  desfavor  da  parte  recorrente  para  12%  sobre  o  valor  atualizado  da  causa.
+Publique-se.  Intimem-se.
+EMENTA
+  AGRAVO  EM  RECURSO  ESPECIAL.  LIMITAÇÃO  DE  DESCONTOS  EM  CONTA-CORRENTE.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022  DO  CPC.  INAPLICABILIDADE  DO  TEMA  1.085  DO  STJ.  REVER  A  CONCLUSÃO  DO  ACÓRDÃO  RECORRIDO  DEMANDA  O  REVOLVIMENTO  DO  ACERVO  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ.  AGRAVO  IMPROVIDO.
