@@ -1,0 +1,26 @@
+DECISÃO
+T rata-se de agravos interpostos pela FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO e pela NEC LATIN AMERICA S.A. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu os recursos especiais.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial da FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO se deu com base nos seguintes fundamentos: ausência de desrespeito à legislação apontada e incidência das Súmulas 5 e 7 do STJ (e-STJ fls. 8.298/8. 299) .
+Já o apelo nobre da NEC LATIN AMERICA S.A. foi inadmitido pelos seguintes óbices: ausência de afronta aos arts. 489 e 1.022 do CPC, ausência de desrespeito à legislação apontada e incidência da Súmula 7 do STJ (e-STJ 8.295/8.297).
+Entretanto, a FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO deixou de impugnar específica e adequadamente todos os fundamentos da decisão agravada.
+A NEC LATIN AMERICA S.A., por sua vez, não infirmou de forma clara, direta e específica o fundamento referente à ausência de afronta aos arts. 489 e 1.022 do CPC.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Com efeito, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão de inadmissão, trazendo argumentações capazes de demonstrar o seu desacerto.
+Tendo a Corte de origem inadmitido o apelo nobre com fundamento na ausência de desrespeito à legislação invocada, caberia ao agravante demonstrar especificamente em que ponto o acórdão recorrido afrontou a lei federal apontada no recurso especial, o que, repita-se, não ocorreu no caso.
+No tocante à alegada ofensa aos arts. 489 e 1.022 do CPC, caberia à parte agravante especificar quais seriam as questões que eventualmente deixaram de ser adequadamente enfrentadas pelo Tribunal de origem e, principalmente, a sua relevância para o resultado da demanda.
+Em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame dos elementos de convicção presentes nos autos.
+No que diz respeito à Súmula 5 do STJ, caberia à parte demonstrar que é possível conhecer da pretensão sem a necessidade de interpretar cláusulas contratuais.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp 2.098.383/BA, Relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO dos agravos em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessa verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
