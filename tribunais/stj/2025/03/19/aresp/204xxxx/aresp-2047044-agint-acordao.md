@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART.  932,  III , DO CPC/2015; E SÚMULA 182 DO STJ.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Diante  da  ausência  de  impugnação  específica dos  fundamentos  da  decisão  agrava da,  deve  ser  mantida  a  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  com  fundamento  no  art.  932,  III,  do  CPC/2015; e na Súmula 182 do STJ.
+2.  Agravo  interno  des provido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por  ELIAS TOLOVI ROSA contra  decisão  que  não conheceu do agravo em recurso especial, em razão da aplicação do disposto nos arts. 34, XVIII, a, e 253, parágrafo único, I, do RISTJ; e na Súmula 182 do STJ, por analogia (fls. 631-634).
+Argumenta  a  parte agravante,  em  síntese,  que:
+a) "está sujeito à condenação por improbidade administrativa: (i) sem demonstração ou individualização do exigido dolo específico, (ii) com base expressamente em dano presumido (in re ipsa) e, (iii) sem demonstração de enriquecimento ilícito, embora tais providências não sejas mais admitidas para os tipos previstos no art. 10 da Lei nº 8.429/1992, diante da Lei nº 14.230/2021" (fl. 709);
+b) "ainda que o Recurso Especial e/ou Agravo não tenham sido conhecidos, deflagrada a competência desta Seção, compete-lhes examinar a matéria de fundo discutida nesta Corte à luz da orientação superveniente operada pelo Supremo Tribunal Federal sobre a temática" (fl. 712);
+c) "é imprescindível reconhecer que o recurso especial preenche todos os pressupostos necessários à sua admissibilidade, devendo ser reconhecido e analisado em sua essência pelo Superior Tribunal de Justiça" (fl. 716);
+d) "Tendo em vista a prova produzida nos autos, ao final da instrução restou comprovado que o Recorrente - Sr. Elias Tolovi Rosa - não tinha gerência frente aos procedimentos licitatórios, bem como, qualquer peso em decisões da comissão de licitação. Não havia efetiva fiscalização deste com relação aos serviços contratados e prestados, partindo da premissa do que era documentado no procedimento e autorizando pagamentos" (fl. 719);
+e) "o v. aresto teria reconhecido que o Recorrente agirá de forma ímproba, mas não reconheceu o dano ao erário, tampouco restou comprovada a extensão do dano sofrido, haja vista que, a condenação teria sido em razão da "dispensa injustificada de licitação é ensejadora de dano" (fl. 721);
+Ao final, requer "o conhecimento e o provimento do agravo interno, a fim de que seja reformada a decisão agravada, no intuito de que o recurso especial seja devidamente provido e julgado improcedentes os pedidos formulados na ação por improbidade administrativa" (fl. 726).
+O MINISTÉRIO PÚBLICO FEDERAL (fls. 737-742) e o MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 744-753) apresentaram impugnação ao agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART.  932,  III , DO CPC/2015; E SÚMULA 182 DO STJ.  DECISÃO  MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1.  Diante  da  ausência  de  impugnação  específica dos  fundamentos  da  decisão  agrava da,  deve  ser  mantida  a  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  com  fundamento  no  art.  932,  III,  do  CPC/2015; e na Súmula 182 do STJ.
+2.  Agravo  interno  des provido.
+VOTO
+MINISTRO AFRÂNIO VILELA (Relator): Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+A despeito do esforço argumentativo da parte recorrente, verifico que não logrou demonstrar o desacerto da decisão agravada, cujos fundamentos, então, devem ser mantidos.
+Cinge-se a controvérsia posta neste recurso à  análise  do  acerto  da  decisão  que  deixou  de  conhecer  do  agravo  em  recurso  especial,  em  razão  da  incidência  da  Súmula  182 do STJ ("É inviável o agravo do art. 545 que deixa de atacar especificamente os fundamentos da decisão agravada").
+Nesse passo, destaco que a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer ou aduzir razões genéricas. Segundo esse princípio, portanto, não se conhece de agravo em recurso especial que não impugne especificamente a argumentação exposta na decisão de admissibilidade do recurso especial.
+Com efeito, assim dispõe o art. 932, III, do CPC/2015:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Reavaliando a decisão agravada, de fato, não  houve  a  impugnação  específica  do  fundamento  relacionado à ausência de demonstração do alegado dissídio jurisprudencial, de forma que é inviável o conhecimento do agravo em recurso especial. A propósito: AgInt no AREsp n. 2.324.320/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/6/2023, DJe de 21/6/2023; AgInt no AREsp n. 2.257.838/RO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/5/2023, DJe de 19/5/2023.
+Ademais, ainda que fosse possível avançar no conhecimento do recurso, a pretensão não poderia ser acolhida.
+Com efeito, o acórdão recorrido foi assim fundamentado:
+Destarte, as despesas são incontroversas. Nenhum dos réus alega que não as tenha autorizado, justificando-as na premência da recuperação do ônibus escolar constante das notas de emprenho apresentadas pelo autor da ação.
+Ocorre que tais despesas não foram justificadas.
+Tampouco a imprevisibilidade dos gastos, tendo em vista que o próprio Secretário Municipal declara que o veículo necessitava de diversos reparos para voltar a funcionar regularmente. A boa administração recomendaria, inclusive, a elaboração de orçamentos sobre todos os itens necessários a completa recuperação da viatura, providência simples tanto para o administrador, como para qualquer oficina mecânica, cujo valor global obrigaria à licitação, visando à obtenção do melhor preço. Mas, não foi o que se verificou na espécie.
+Além disso, as justificativas e as provas apresentadas pelos réus não condizem com os fatos noticiados pelo autor da ação.
+ ..
+Note-se, contudo, que no caso concreto a conduta dos réus, notadamente do ex-Prefeito, ultrapassou a má-gestão, eis que não amparada pela prova carreada.
+As notas de empenho referem-se a veículo escolar que, exclusivamente, ensejou despesa de R$ 28.684,30 (vinte e oito mil, seiscentos e oitenta e quatro reais de trinta centavos), cuja fonte de recursos foi a Transferência e Convênio Federais, possivelmente da Educação, embora tal circunstância não tenha sido sequer aventada e cuja discussão extrapolaria o petitum.
+Mas, embora as notas de empenho reportem despesas havidas para recuperação de ônibus escolar, o fato é que o Secretário corréu as justificou por meio de documentos estranhos à lide; e o ex- Prefeito invoca em sua defesa as "ramificações" da Administração Municipal, motivo por que não teria como controlar os atos de seus secretários, e chama por pareceres técnicos que sustentariam as autorizações por ele firmadas, que não foram apresentados.
+ ..
+Ratificando esta intelecção é a proximidade das aquisições, duas delas na mesma data e em igual valor para o mesmo fornecedor, e as demais, com despesas relativas a bens de idêntico gênero, tudo indicando que os réus buscaram adequar os valores de cada uma delas ao valor apto a permitir a compra com dispensa de licitação, face ao pequeno valor do contratado.
+ ..
+Assim, Elias, na qualidade de Prefeito, responsável pela administração municipal, autorizou as controvertidas compras nitidamente fracionadas, em valores superiores à previsão do art. 24, inc. II, da Lei nº 8.666/93, juntamente com seu Secretário Municipal de Transportes e Assuntos Viários João dos Santos Fagundes que, requerendo ordenação de gastos, deixou de deflagrar o obrigatório procedimento de licitação de despesa dita relativa à pasta que presidia, frustrando-o, substituindo claramente a vontade expressa da lei, pela deles próprios, com nítido propósito de obter vantagem, causando prejuízo ao erário, ambos incorrendo na conduta descrita no art. 10, inciso VIII, da Lei nº 8.429/92.
+ ..
+Como se disse, inexplicavelmente, os réus não apresentaram os respectivos procedimentos administrativos das compras e contratações, de onde seria possível concluir-se pela efetiva entrega e prestação dos bens e serviços. Acresça-se a isto a peculiaridade da hipótese na qual o mesmo veículo, apesar de muito avariado, segundo alegado, ter sido objeto de tantas despesas decompostas em tão curto período, e mais, de idênticos valores pagos ao mesmo prestador de serviços, no mesmo mês de outubro de 2015.
+Logo, em tais circunstâncias, não há como se concluir que os bens foram entregues e os serviços prestados, situação que permite a ilação do ressarcimento do valor global da compra, conforme pleiteia o d. representante ministerial.
+Deste modo, face à absoluta falta de prova da necessidade e efetiva entrega dos bens adquiridos e prestação dos serviços contratados, impõe-se determinação de ressarcimento integral do valor dos empenhos em questão, além da fixação de multa civil, que emana da afronta ao princípio da moralidade administrativa ou da probidade administrativa, e deve servir de sanção com vistas a coibir nova prática ímproba, justificando-se a fixação no valor do dano perpetuado, patamar que se revela razoável face aos parâmetros contidos no art. 12, inc. II, da LIA (fls. 314-320).
+Nesse contexto, nos termos em que posta a discussão, afastar as conclusões do acórdão recorrido - no tocante à existência de dolo na conduta do agravante e de efetivo prejuízo ao erário - demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+E, diante desse cenário, em que re conhecido o dolo e o efetivo prejuízo ao erário, a superveniência da Lei 14.230/2021 e do Tema 1199 da Repercussão Geral não possuem o condão de alterar o resultado da lide.
+Isso posto, nego provimento ao recurso.
