@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por RUMO MALHA SUL S.A. com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão proferido pela Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 40):
+ADMINISTRATIVO. REINTEGRAÇÃO DE POSSE. AGRAVO DE INSTRUMENTO. COMPETÊNCIA. ASSISTÊNCIA SIMPLES. AUSÊNCIA DE INTERESSE JURÍDICO. DESPROVIMENTO.
+I. A competência do juízo federal define-se pela presença de uma das entidades elencadas no artigo 109, inciso I, da Constituição Federal.
+II. O DNIT e a ANTT manifestaram-se no sentido de não possuírem interesse em intervir no feito (eventos 14 e 15 dos autos originários).
+III. A assistência é modalidade de intervenção de terceiros voluntária (artigos 50 a 55 do CPC/1973 e 119 a 124 do CPC/2015), não cabendo a imposição de ingresso de assistentes, ainda que, eventualmente, possa existir interesse federal envolvido.
+IV. Agravo de instrumento improvido.
+Não foram opostos os embargos de declaração.
+Nas razões do recurso especial (e-STJ, fls. 49-60), a insurgente apontou violação aos arts. 8º, I, e 22 da Lei n. 11.483/2014; ao art. 82, XVII e § 4º da Lei n. 10.233/2001; e ao art. 98 do Código Civil.
+Alegou que a violação dos dispositivos indicados decorre do fato de que a competência para o processamento da ação de reintegração de posse é da Justiça Federal e não da Justiça Estadual, como foi definida na hipótese sob julgamento, uma vez que se trata de administração de bens imóveis da União.
+Sustentou que "considerando que a área objeto do presente recurso é de propriedade do DNIT, é imperiosa sua participação no feito, tendo em vista que o que se discute é o esbulho possessório em área que pertence a autarquia, ainda que esta tenha se manifestado em sentido contrário" (e-STJ, fl. 56).
+Pleiteou, ao fim, o conhecimento e provimento do recurso especial a fim de que, reformando o acórdão recorrido, seja reconhecida e declarada a competência da Justiça Federal .
+Não foram apresentadas as contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento de ausência de violação aos artigos indicados e pela incidência das Súmulas n. 282 e 356/STF (e-STJ, fls. 68-70), o que ensejou a interposição do presente agravo (e-STJ, fls. 75-82), em que a agravante defende o seguimento do recurso especial.
+Brevemente relatado, decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial, o qual não merece ser conhecido.
+Trata-se, na origem, de agravo de instrumento manejado contra decisão proferida em ação de reintegração de posse, o qual foi desprovido pela Quarta Turma do Tribunal Regional Federal da 4ª Região.
+Da leitura do acórdão recorrido, nota-se que a Corte de origem não se pronunciou sobre as matérias alvo do reclamo, tampouco foram opostos os embargos de declaração para tal finalidade, deixando de cumprir a condição do prequestionamento.
+Com efeito, é firme o entendimento neste Superior Tribunal quanto à incidência das Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pela Corte de origem, tampouco foram opostos os embargos declaratórios com intuito de provocar o debate na instância ordinária, como se observa no caso sob julgamento.
+A propósito (sem grifo no original):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DEMOLITÓRIA POR IRREGULARIDADES NA CONSTRUÇÃO. AVENTADA OFENSA AO ART. 1022 DO CPC. NÃO INDICAÇÃO DO INCISO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. FALHA NA FUNDAMENTAÇÃO. AUSÊNCIA DO DEVIDO PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO STF. ALEGAÇÃO DE VIOLAÇÃO DE PRINCÍPIO. INVIABILIDADE. NÃO ENQUADRAMENTO A CONCEITO DE LEI FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de indicação precisa do inciso do artigo de lei federal supostamente violado caracteriza a ausência de delimitação da controvérsia, atraindo a incidência da Súmula n. 284 do STF.
+2. O vício constante nas razões de apelo nobre, qual seja, a ausência de indicação precisa do dispositivo legal violado, não é irrelevante, tampouco possui natureza meramente formal. Ao contrário, o apontamento do artigo de lei federal supostamente afrontado constitui um dos requisitos - quiçá o principal - de cabimento do recurso especial. A missão constitucional deste Sodalício, exercida na via do recurso especial, é justamente a pacificação da interpretação da legislação infraconstitucional, que não pode ser exercida sem a devida delimitação da controvérsia pela própria Parte Recorrente, a quem cabe indicar, com precisão, o dispositivo legal que teria sido violado ou interpretado de forma divergente pelo Tribunal de origem.
+3. Hipótese em que o Tribunal de origem não apreciou a falha da devida fundamentação sob o enfoque trazido no recurso especial, e a parte recorrente não suscitou a questão nos embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356, ambas do STF.
+4. Não se conhece de recurso especial fundado na alegação de violação ou afronta a princípio, sob o entendimento pacífico de que não se enquadra no conceito de lei federal, razão pela qual não está abarcado na abrangência de cabimento do apelo nobre.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.513.291/PE, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+Por fim, é importante salientar a impossibilidade de se alegar a tese do prequestionamento implícito no caso sob julgamento. Isso porque, conforme jurisprudência firmada neste Superior Tribunal, aquele ocorre desde que os temas correspondentes tenham sido expressamente discutidos na Corte de origem, o que não aconteceu no caso sob julgamento.
+Ilustrativamente (sem grifo no original):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PEDIDO DE OBSERVÂNCIA DA ORDEM CRONOLÓGICA DE PAGAMENTOS PELOS SERVIÇOS PRESTADOS À ADMINISTRAÇÃO PÚBLICA. VIOLAÇÃO AOS DISPOSITIVOS INDICADOS. TESE RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. COMANDOS NORMATIVOS QUE NÃO INFIRMAM AS RAZÕES DE DECIDIR DO ACÓRDÃO. SÚMULA 284 DO STF. RECONHECIMENTO DO DIREITO LÍQUIDO E CERTO. REVISÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Ocorrendo omissão no julgamento dos embargos de declaração pelo Tribunal local sob ponto relevante da demanda, cabe ao recorrente, nas razões do recurso especial, suscitar preliminar de violação do artigo 1.022 do CPC/2015, e não insistir no mérito, sob pena de ausência de prequestionamento das teses recursais.
+2. Somente se poderá entender pelo prequestionamento implícito quando a matéria tratada no dispositivo legal for apreciada e solucionada pelo Tribunal de origem, de forma que se possa reconhecer qual norma direcionou o decisum objurgado.
+3. Estando as razões do recurso dissociadas e cujos dispositivos contêm comando normativo incapaz de infirmar o que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+4. A revisão quanto ao reconhecimento por parte do Tribunal de origem no tocante ao direito líquido e certo de acesso à informação bem como ao direito à observância da ordem cronológica de pagamentos garantida aos licitantes demandaria o revolvimento fático-probatório dos autos, o que é vedado pela Súmula 7 desta Corte.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.524.167/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. AGRAVO DE INSTRUMENTO. 1. COMPETÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. 2. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
