@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 13/03/2025 a 19/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ELIMINAÇÃO. RECURSO ESPECIAL INTERPOSTO APÓS O PERÍODO LEGAL. INTEMPESTIVIDADE. FERIADO LOCAL E PONTO FACULTATIVO. SUSPENSÃO DO EXPEDIENTE FORENSE. NÃO COMPROVAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o recurso especial foi interposto fora do prazo processual, uma vez que a parte agravante foi intimada do acórdão embargado em 21/5/2024, com início do prazo em 22/5/2024 e termo final em 11/6/2024. Contudo, o recurso especial foi protocolizado apenas em 13/6/2024 (fl. 538), fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 1.003, §§ 5º e 6º, e 219, caput, todos do Código de Processo Civil.
+2. "Os recursos interpostos na instância de origem, mesmo que a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgInt nos EDcl no AREsp n. 2.406.057/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe 18/10/2023).
+3. "A existência de ponto facultativo no âmbito do Superior Tribunal de Justiça, estabelecido por meio de portaria interna, não configura fato notório ou possui o condão de afastar a necessidade de comprovação da suspensão do expediente no Tribunal local." (AgInt no AREsp n. 2.504.785/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+4. Ademais, "pontos facultativos, mesmo vinculados a feriados nacionais, demandam demonstração oportuna da suspensão do expediente local." (AgInt no AREsp n. 2.561.120/ES, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+5. "O prazo sugerido pelo sistema do PJe não exime a parte interessada de interpor o recurso no prazo legal, uma vez que não vincula o termo final do prazo à data sugerida nem dispensa a parte recorrente da confirmação. Precedentes." (AgInt no AREsp n. 2.638.677/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LEANDRO DOMINGUES DE SOUSA contra decisão que não conheceu do recurso em razão da intempestividade do recurso especial (fls. 971-972).
+Alega a parte agravante, no presente recurso, que (fls. 976-983):
+Os dias 30 e 31 de maio de 2024 foram considerados pontos facultativos, conforme estabelecido na Portaria STJ/GP 2/2024 e Portaria STJ/GP 262/2024, o que implica que esses dias não devem ser contabilizados para a contagem do prazo recursal.
+ ..
+Ademais, em virtude de manutenção do sistema, o TJDFT suspendeu os prazos processuais do dia 12 de junho de 2024, conforme a Portaria Conjunta nº 77 de 11 de junho de 2024. Essa suspensão impacta diretamente a contagem do prazo para a interposição do recurso.
+ ..
+Portanto, a contagem dos prazos deve considerar as interrupções mencionadas, o que evidencia que o recurso foi interposto dentro do prazo legal.
+Ao final, requer a reforma da decisão agravada.
+Devidamente intimada, a parte agravada não apresentou impugnação (fls. 998-999).
+Às fls. 1013-1019, o Ministério Público Federal opina pelo não conhecimento do agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. ELIMINAÇÃO. RECURSO ESPECIAL INTERPOSTO APÓS O PERÍODO LEGAL. INTEMPESTIVIDADE. FERIADO LOCAL E PONTO FACULTATIVO. SUSPENSÃO DO EXPEDIENTE FORENSE. NÃO COMPROVAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. No caso, o recurso especial foi interposto fora do prazo processual, uma vez que a parte agravante foi intimada do acórdão embargado em 21/5/2024, com início do prazo em 22/5/2024 e termo final em 11/6/2024. Contudo, o recurso especial foi protocolizado apenas em 13/6/2024 (fl. 538), fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 1.003, §§ 5º e 6º, e 219, caput, todos do Código de Processo Civil.
+2. "Os recursos interpostos na instância de origem, mesmo que a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgInt nos EDcl no AREsp n. 2.406.057/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe 18/10/2023).
+3. "A existência de ponto facultativo no âmbito do Superior Tribunal de Justiça, estabelecido por meio de portaria interna, não configura fato notório ou possui o condão de afastar a necessidade de comprovação da suspensão do expediente no Tribunal local." (AgInt no AREsp n. 2.504.785/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+4. Ademais, "pontos facultativos, mesmo vinculados a feriados nacionais, demandam demonstração oportuna da suspensão do expediente local." (AgInt no AREsp n. 2.561.120/ES, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+5. "O prazo sugerido pelo sistema do PJe não exime a parte interessada de interpor o recurso no prazo legal, uma vez que não vincula o termo final do prazo à data sugerida nem dispensa a parte recorrente da confirmação. Precedentes." (AgInt no AREsp n. 2.638.677/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+6. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+No caso, no ato de interposição do recurso especial ou do presente agravo interno, a parte agravante não juntou aos autos nenhum documento idôneo capaz de comprovar a alegada suspensão do expediente forense nos d ias 30 e 31 de maio de 2024.
+Assim, constata-se que o recurso especial foi interposto fora do prazo processual, uma vez que a parte agravante foi intimada n o acórdão embargado em 21/5/2025 (fl. 514), com início do prazo em 22/5/2024 e termo final em 11/6/2024. Contudo, o recurso especial foi protocolizado apenas em 13/6/2024 (fl. 538), fora do prazo de 15 (quinze) dias úteis, nos termos dos arts . 1.003, §§ 5º e 6º, e 219, caput, todos do Código de Processo Civil.
+Importante frisar que, conforme jurisprudência firme desta Corte: " O s recursos interpostos na instância de origem, mesmo que a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgInt nos EDcl no AREsp n. 2.406.057/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/10/2023, DJe 18/10/2023).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PANDEMIA. COVID-19. SUSPENSÃO DOS PRAZOS. RESOLUÇÕES DO CNJ NºS 313, 314 E 322/2020. PORTARIA DO CNJ Nº 79/2020. EXPEDIENTE FORENSE. SUSPENSÃO. DEMONSTRAÇÃO. DOCUMENTO IDÔNEO. AUSÊNCIA. FERIADO NO STJ. IRRELEVÂNCIA. RECURSO INTERPOSTO NA ORIGEM.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com os art. 1.003, § 5º, e 219, caput, do Código de Processo Civil.
+ ..
+4. Irrelevante a suspensão do expediente no Superior Tribunal de Justiça, tendo em vista que o recurso especial interposto é endereçado ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp n. 2.249.387/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/12/2024, DJen 20/12/2024; sem grifos no original.)
+Ademais: " A  existência de ponto facultativo no âmbito do Superior Tribunal de Justiça, estabelecido por meio de portaria interna, não configura fato notório ou possui o condão de afastar a necessidade de comprovação da suspensão do expediente no Tribunal local." (AgInt no AREsp n. 2.504.785/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/8/2024, DJe de 15/8/2024; sem grifos no original.)
+Isso porque "pontos facultativos, mesmo vinculados a feriados nacionais, demandam demonstração oportuna da suspensão do expediente local." (AgInt no AREsp n. 2.561.120/ES, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 17/6/2024, DJe de 21/6/2024.)
+Por fim, destaque-se também que é firme o entendimento no âmbito desta Corte, no sentido de que: " O  prazo sugerido pelo sistema do PJe não exime a parte interessada de interpor o recurso no prazo legal, uma vez que não vincula o termo final do prazo à data sugerida nem dispensa a parte recorrente da confirmação.  .. " (AgInt no AREsp n. 2.638.677/MT, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024. )
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO APÓS O PERÍODO LEGAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO E POR MEIO DE DOCUMENTO IDÔNEO. NÃO OCORRÊNCIA. CERTIDÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE VINCULAÇÃO. JUÍZO DE ADMISSIBILIDADE BIFÁSICO. PRECEDENTES. PRAZO SUGERIDO PELO SISTEMA PJE. IRRELEVÂNCIA. ÔNUS DA PARTE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+ ..
+6. "O prazo sugerido pelo sistema do PJE não tem o condão de eximir aparte interessada de interpor o recurso no prazo legal, não vinculando o termo final do prazo à data sugerida nem dispensando aparte recorrente da confirmação. Precedentes: AgInt no AREsp1.315.679/SE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe25/6/2019; AgInt no AREsp 1.481.494/RN, de minha relatoria, Segunda Turma, DJe 9/10/2019" (STJ, AgInt nos EDcl no REsp 1.814.598/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe de 2/3/2020).
+7. Agravo interno desprovido. (AgInt no AREsp n. 2.651.911/MT, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
