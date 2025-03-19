@@ -1,0 +1,33 @@
+Trata-se de pedido de “tutela provisória recursal com efeito suspensivo”, para que a Turma Recursal Cível do Tribunal de Justiça de Estado de São Paulo envie ao Supremo Tribunal Federal o recurso de agravo em recurso extraordinário, a fim de que realize o exame da admissibilidade recursal.
+
+    É o relatório. Decido.
+
+    Pois bem.
+
+    Compulsando os autos, é possível verificar que o Juiz Presidente do Colégio Recursal dos Juizados Especiais do TJSP negou seguimento ao recurso extraordinário com fundamento no Tema 660 da Repercussão Geral. Vejamos:
+
+    Tendo em vista a r. decisão no ARE 748371 (Tema nº 660), proferida pelo Colendo Supremo Tribunal Federal, que fixou a tese "A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009", NEGO SEGUIMENTO ao presente recurso extraordinário, nos termos do artigo 1.030, I, "a" do Código de Processo Civil. (doc. 8, p. 99).
+
+    Com efeito, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que “o agravo em recurso extraordinário é incognoscível quando veicula insurgência contra a aplicação da repercussão geral” (RE 1289375-AgR, Rel. Min. Luiz Fux).  Confira-se:
+
+    EMENTA: EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. PETIÇÃO. NEGATIVA DE SEGUIMENTO A AGRAVO EM RECURSO EXTRAORDINÁRIO NA ORIGEM. DECISÃO DE INADMISSIBILIDADE QUE APLICA O TEMA 766 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. ALEGADA USURPAÇÃO DE COMPETÊNCIA. INOCORRÊNCIA. DECISÃO CONTRA A QUAL CABIA UNICAMENTE AGRAVO INTERNO. ARTIGOS 1.030, §2º, E 1.042, DO CPC. AGRAVO A QUE SE NEGA PROVIMENTO. (Pet 12416-ED, Rel. Min. Luiz Fux. DJe 20/8/2024)
+
+    EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. RAZOABILIDADE E PROPORCIONALIDADE. INCOGNOSCIBILIDADE DO AGRAVO EM RECURSO EXTRAORDINÁRIO INTERPOSTO EM FACE DE DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. TEMAS 88 E 339 DO QUADRO DE TEMAS DE REPERCUSSÃO GERAL DO STF. DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM. 1. O agravo em recurso extraordinário é incognoscível quando veicula insurgência contra a aplicação da repercussão geral. Precedentes. 2. Agravo interno desprovido e, quanto ao enquadramento dos Temas 88 e 339, do Quadro de Temas de Repercussão Geral do STF, mantenho a devolução dos autos à Corte de origem, para que adote os procedimentos previstos nos incisos I a III do artigo 1.030 do Código de Processo Civil (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal). (RE 1289375-AgR, Rel. Min. Luiz Fux. DJe 6/5/2022).
+
+    Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. FUNÇÃO DE CONFIANÇA. CONTROLADOR INTERNO. ATIVIDADE QUE DEVE SER DESEMPENHADA POR PROFISSIONAL INVESTIDO EM CARGO PÚBLICO. NÃO CABIMENTO DE AGRAVO CONTRA DECISÃO DO JUÍZO DE ORIGEM QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.042, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. TEMA 1.010. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ARGUMENTAÇÃO GENÉRICA. NECESSIDADE DE DEMONSTRAÇÃO FUNDAMENTADA DA EXISTÊNCIA DE REPERCUSSÃO GERAL MESMO NAS HIPÓTESES DE REPERCUSSÃO GERAL PRESUMIDA OU JÁ RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL EM OUTRO RECURSO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279/STF. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280/STF. AGRAVO IMPROVIDO. I - Conforme o art. 1.042, caput, do CPC, não cabe agravo contra decisão fundada na aplicação de entendimento firmado em regime de repercussão geral. II - A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2°, do Código de Processo Civil. III – A demonstração fundamentada da existência de repercussão geral das questões constitucionais discutidas também é indispensável nas hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro recurso. IV - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. V - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais e locais (Súmula 280/STF). A afronta à Constituição, se ocorrente, seria apenas indireta. VI - Agravo regimental ao qual se nega provimento. (ARE 1481944-AgR, da minha relatoria. DJe 2/5/2024).
+
+    Digo isso, porque, um dos requisitos para a concessão de efeito suspensivo ao recurso extraordinário é a possibilidade de êxito do recurso extraordinário. Vejamos:
+
+    Ementa. Direito Processual Civil. Agravo regimental na petição. Concessão de Efeito Suspensivo ao Recurso Extraordinário. Requisitos simultâneos: (i) Realização do juízo de admissibilidade do Recurso Extraordinário; (ii) Possibilidade de êxito do recurso extraordinário e; (iii) Perigo de dano irreparável ou de difícil reparação. Inocorrência. Agravo Regimental não Provido. I. Caso em exame 1. Pedido de concessão de tutela antecipada em recurso extraordinário para determinar a realização de cirurgia sem observar a ordem de marcação do Sistema Único de Saúde. II. Questão em discussão 2. A questão em discussão consiste em saber se estão atendidos os requisitos para concessão de efeito suspensivo ou tutela antecipada ao recurso extraordinário. III. Razões de decidir 3. Ausência de juízo de admissibilidade do recurso extraordinário 4. Falta de plausibilidade jurídica do recurso extraordinário, cuja análise demandaria o reexame de fatos e provas (Súmula 279/STF). IV. Dispositivo 5. Agravo Regimental não provido. Dispositivos relevantes citados: art. 1.029 do CPC. Jurisprudência relevante citada: Pet 8.607-AgR/RJ, Rel. Min. Celso de Mello e Súmula 279/STF. (Pet 12016-AgR, da minha relatoria. DJe 2/10/2024. Grifei).
+
+    Todavia, no caso dos autos, o recurso extraordinário não comporta a necessária possibilidade de êxito, tendo em vista a tese fixada no Tema 660 da repercussão geral, bem como a ausência de previsão de recurso de agravo contra decisão de admissibilidade que aplica a sistemática da repercussão geral.
+
+    Posto isso, julgo improcedente o pedido (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 19 de março de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
