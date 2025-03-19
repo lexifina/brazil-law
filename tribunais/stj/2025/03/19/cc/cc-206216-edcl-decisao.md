@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de novos embargos de declaração opostos por GUILHERME AMANCIO GENOVA contra decisão da lavra deste signatário que acolheu, sem efeitos infringentes, anteriores embargos de declaração opostos pelo ora insurgente.
+Em suas razões, aponta omissão no julgado porquanto, na sua compreensão, "(..) Isto porque conforme DOC 02, no e-STJ Fl. 33/44, A SENTENÇA DO JUÍZO LABORAL DE PISO NÃO FOI REFERENDADA PELO TST. AO CONTRÁRIO, A SENTENÇA DE PISO DO JUÍZO LABORAL HAVIA NEGADO O SEGUIMENTO DA EXECUÇÃO EM FACE DOS BENS DO ESPÓLIO DE OMAR FONTANA, E, JUSTAMENTE, FOI REFORMADA PELA R. DECISÃO DO C. TST, QUE DETERMINOU O PROSSEGUIMENTO DA EXECUÇÃO EM FACE DOS BENS DO ESPÓLIO DE OMAR FONTANA." Argumenta, outrossim, que "(..) NÃO EXISTE CONFLITO DE DECISÕES ENTRE A SENTENÇA DO JUÍZO LABORAL DE PISO E A DECISÃO DO JUÍZO DA 3ª VARA DE FALÊNCIAS E RECUPERAÇÃO JUDICIAL, QUE ERAM NO MESMO SENTIDO." Pede o acolhimento dos aclaratórios. (fls. 212/217)
+A impugnação está juntada às fls. 223/231.
+É o relatório.
+Decisão.
+1. A teor do artigo 1.022 do NCPC (art. 535 do CPC/1973), o apelo recursal em epígrafe objetiva somente suprir omissão, dissipar obscuridade afastar contradição ou sanar erro material encontrável em decisão ou acórdão, circunstâncias inexistentes no julgado ora embargado.
+O decisum embargado não possui qualquer vício a ser sanado pela via dos aclaratórios, uma vez que este signatário expressamente consignou que a tese aventada pelo embargante, de extrapolação da competência desta Corte ao apreciar caso submetido ao Tribunal Superior do Trabalho, não prospera porque o conflito suscitado se dá, de fato, entre a 4ª Vara do Trabalho de Guarulhos/SP, onde tramita a reclamação trabalhista n.º 0271300-27.1999.5.02.0314, em fase de execução, e a 3ª Vara de Falências e Recuperações Judiciais de São Paulo responsável pela apreciação do Processo de Falência de Massa Falida de Transbrasil S/A (processo n.º 0079104- 04.2001.8.26.0100), sendo atribuição deste STJ, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal, a competência para dirimir o conflito.
+Ao final, declarou-se a competência do r. juízo da 3ª Vara de Falências e Recuperações Judiciais de São Paulo responsável pela apreciação do Processo de Falência de Massa Falida de Transbrasil S/A (processo n.º 0079104- 04.2001.8.26.0100), nos termos da fundamentação citada.
+Desse modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
