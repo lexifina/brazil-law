@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FRANCISCO JULIO DA SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE URBANA. IDADE MÍNIMA ATINGIDA. NÃO COMPROVAÇÃO DA CARÊNCIA NECESSÁRIA. DENEGAÇÃO DO BENEFÍCIO. - "A APOSENTADORIA POR IDADE SERÁ DEVIDA AO SEGURADO QUE, CUMPRIDA A CARÊNCIA EXIGIDA NESTA LEI, COMPLETAR 65 (SESSENTA E CINCO) ANOS DE IDADE, SE HOMEM, E 60 (SESSENTA), SE MULHER." DEVE SER ACRESCENTADO QUE A CARÊNCIA A SER CUMPRIDA RESTA ESPECIFICADA NO ART. 25, II, DA LEI N.º 8213/91, SENDO DE 180 CONTRIBUIÇÕES MENSAIS. - COMPULSANDO OS AUTOS, DENOTA-SE QUE A PARTE AUTORA ATINGIU O REQUISITO ETÁRIO, PORÉM DEIXOU DE COMPROVAR O CUMPRIMENTO DO PERÍODO DE CARÊNCIA EXIGIDO PARA A CONCESSÃO DO BENEFICIO. - RECONHECIMENTO DA IMPROCEDÊNCIA DO PEDIDO FORMULADO.
+Quanto à controvérsia, a parte recorrente aduz ofensa aos arts. 22, I, e 30, I, ambos da Lei n. 8.213/1991, e 48 e 125-A, ambos da lei n. 8.212/1991. Sustenta que a documentação juntada aos autos comprova de modo inequívoco a existência do vínculo empregatício mantido pelo ora recorrente no período que a autarquia previdenciária pretende seja excluído para fins de carência, não sendo de sua responsabilidade o recolhimento das contribuições previdenciárias, mas do empregador, cabendo, ademais, ao INSS a responsabilidade pela fiscalização de seu recolhimento, trazendo a seguinte argumentação:
+Todavia, não pode o "decisum" ora vergasto prevalecer, considerando que destoa e colide com o disposto pelo artigo 22, inciso I e artigo 30, inciso I da Lei nº. 8.212/91 e com o artigo 48 e artigo 125-A da Lei nº. 8.213/91, ensejando ainda se proceda a revaloração de provas, eis que negara-se valor jurídico aos elementos probatórios produzidos nos autos.
+Nessa linha de raciocínio, importante salientar, que, por intermédio do processo administrativo instaurado o próprio INSS insere manualmente no "Cadastro Nacional de Informações Sociais" ("CNIS") o período ora controvertido.
+Para tanto, basta verificar a Pág. 25 do arquivo ID 158555701 que se encontra inserido nestes autos eletrônicos.
+Ora, não se pode aceitar a exclusão do período aludido, se o próprio INSS em sua análise observara a presença do vínculo empregatício sob comento.
+Compete ao Ente Autárquico manter as informações necessárias em seu sistema acerca do período contributivo dos segurados, não pode este ser penalizado pelo precário sistema de armazenamento de informações então mantido pelo INSS.
+Outrossim, se consta no "CNIS" a data de início do vínculo empregatício, basta recorrer às informações que se encontram nas micro-fichas mantidas pelo INSS.
+Ademais, o recolhimento das contribuições previdenciárias decorrentes da relação de emprego constitui obrigação do empregador, tanto no que incide sobre a remuneração paga ao empregado, quanto no que concerne à contribuição devida pelo trabalhador, devendo ser descontada do próprio salário.
+ ..
+Pertinente salientar que o artigo 30, inciso I, do referido diploma legal é enfático ao determinar que a arrecadação, assim como, o recolhimento das contribuições devidas à seguridade social pelo empregado em razão de vínculo empregatício, serão efetivadas pela empresa empregadora com o respectivo desconto da remuneração do trabalhado, senão vejamos:
+ ..
+Ressalta-se ainda que constitui um poder / dever do Instituto Nacional do Seguro Social (INSS) fiscalizar a devida arrecadação das contribuições sociais referentes a Previdência Social, não podendo ser o segurado prejudicado em razão do descumprimento a legislação por parte de seu empregador, bem como, pela omissão da Autarquia Previdenciária.
+Ora, tal questão decorre expressamente do disposto pelo artigo 125-A da Lei nº. 8.213/91, que, ora transcrevemos, "in verbis":
+ ..
+Não bastasse, a documentação anexa comprova de modo inequívoco a existência do vínculo empregatício mantido pelo Embargante no período que o INSS pretende seja excluído para fins de carência.
+A documentação sob comento, deve ser considerada, sob pena de flagrante afronta ao princípio da verdade material / verdade real.
+Ademais, no presente caso, não que se falar na necessidade de reanálise de prova, eis que na verdade o que se pretender é a revaloração dos elementos probatórios.
+Conforme constou em decisão monocrática proferida nos autos do ARE 662.480, rel. min. Gilmar Mendes, j. 24-11-2011, DJE 229 de 2-12-2011: "Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279). Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita."
+Restou bem destacada, ainda, no julgamento do Agravo Regimental no Recurso Especial STJ nº 420.217/SC, a diferença entre reexame e revaloração de prova:
+ ..
+É suficiente, portanto, o erro na valoração da prova, como no caso dos autos, mesmo sem texto expresso de norma federal ou constitucional, para que se afaste a incidência da Súmula STF nº 279 e da Súmula STJ nº 7.
+Pelo Exposto, requer-se o provimento do recurso especial, reformando-se o acórdão recorrido, e, consequentemente, determinando-se a concessão ao Recorrente do benefício de aposentadoria por idade urbana, a partir de 12.08.2011 (DIB), conforme estabelecido anteriormente pela sentença de mérito originalmente prolatada (fls. 334-339).
+É o relatório.
+Decido.
+Quanto à controvérsia, de início, não foi comprovada a divergência jurisprudencial, porquanto não foi cumprido nenhum dos requisitos previstos nos arts. 1.029, § 1º, do CPC, e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20.5.2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 2.6.2020; AgInt no REsp 1.817.727/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgInt no AREsp 1.504.740/SP, ;Rel. Ministro Raul Araújo, Quarta Turma, DJe de 8.10.2019; AgInt no AREsp 1.339.575/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 2.4.2019; AgInt no REsp 1.763.014/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.12.2018.
+No mais, o Tribunal a quo se manifestou nos seguintes termos:
+O juízo a quo reconheceu os períodos de 1.º/7/1976 a 30/7/1976; 1.º/10/1979 a 28/2/1981; 2/5/1981 a 24/6/1981; 22/9/1981 a 11/2/1982; 1.º/12/1982 a 1.º/1/1990; e 19/1/1993 a 18/3/1993, e concedeu o benefício de aposentadoria por idade urbana ao autor, desde a data do requerimento administrativo.
+O INSS impugna o reconhecimento dos períodos de 1.º/7/1976 a 30/7/1976; 1.º/10/1979 a 28/2/1981; e 2/5/1981 a 24/6/1981 como exercício de atividade urbana comum, bem como a concessão do benefício de aposentadoria por idade urbana.
+O requisito etário restou satisfeito, pois a parte autora completou a idade mínima em 13/10/2000, devendo fazer prova de contribuições por 114 meses.
+Para demonstrar as alegações, o autor juntou documentos, destacando-se:
+- extrato de seu CNIS, contendo os seguintes vínculos empregatícios:
+* na empresa BARBOSA & RIBEIRO LTDA, nos períodos de 1.º/7/1976 sem término; 1.º/11/1977 sem término; 1.º/10/1979 sem término; 2/5/1981 sem término;
+* na empresa INTERCON PROJETOS E CONSTRUÇÕES LTDA, no período de 22/9/1981 a 11/2/1982;
+* na empresa SOARES BEZERRA & ANJOS LTDA ME, nos períodos de 1.º/12/1982 a 1.º/1/1990; 1.º/4/1989 com última remuneração em junho/1989;
+* na empresa CRC EQUIPAMENTOS E CONSTRUÇÕES, no período de 16/1/1993 a 18/3/1993.
+- consulta detalhada de vínculo, extraída do CNIS, em relação ao vínculo com início em 1.º/7/1976, nada constando no campo "Rescisão GFIP" e no campo "R. Outras Fontes" a anotação: "30/7/1976 05 - Transf. empregado sem ônus para a cedente";
+- consulta detalhada de vínculo, extraída do CNIS, em relação ao vínculo com início em 1.º/11/1977, nada constando no campo "Rescisão GFIP" e em "R. Outras Fontes";
+- consulta detalhada de vínculo, extraída do CNIS, em relação ao vínculo com início em 1.º/10/1979, nada constando no campo "Rescisão GFIP" e no campo "R. Outras Fontes" a anotação: "28/2/1981 05 - Transf. empregado sem ônus para a cedente";
+- consulta detalhada de vínculo, extraída do CNIS, em relação ao vínculo com início em 2/5/1981, nada constando no campo "Rescisão GFIP" e no campo "R. Outras Fontes" a anotação: "24/6/1981 05 - Transf. empregado sem ônus para a cedente";
+- comunicado de decisão administrativa indeferindo o pedido de aposentadoria por idade, apresentado pela parte autora em 12/8/2011, com o fundamento de falta de período de carência, consignando o reconhecimento de 95 períodos de contribuição.
+Verifica-se que a prova material acostada é insuficiente para comprovar o labor urbano nos períodos impugnados pelo INSS.
+Com efeito, a única prova acostada foi o CNIS do autor, em que não há registro de término dos vínculos reconhecidos de 1.º/7/1976 a 30/7/1976; 1.º/10/1979 a 28/2/1981; e 2/5/1981 a 24/6/1981. Dessa forma, não é possível determinar quando os referidos vínculos cessaram, não sendo possível computá-los como carência.
+As consultas detalhadas de vínculo não indicam a data de término dos referidos períodos controvertidos. A data constando no campo "R. Outras Fontes" se refere à data de inserção da informação, não havendo elementos que indiquem se tratar de data da rescisão do vínculo empregatício consultado.
+Impende salientar que, no âmbito administrativo, a parte autora fora intimada a instruir o procedimento com outros documentos aptos a comprovar os vínculos empregatícios, porém quedou-se inerte.
+E, neste processo, acostou tão somente o referido procedimento administrativo.
+De acordo com o inciso I, do art. 373, do Código de Processo Civil, incumbe ao autor o ônus da prova de fato constitutivo de seu direito. Neste caso, a parte autora alegou cumprir com os requisitos para a concessão do benefício de aposentadoria por idade.
+Contudo, deixou de acostar documentação suficiente para comprovar os vínculos de 1.º/7/1976 a 30/7/1976; 1.º/10/1979 a 28/2/1981; e 2/5/1981 a 24/6/1981.
+E, computando-se apenas os demais vínculos, e ajustando-se a concomitância do período de 1.º/4/1989 a 30/6/1989 com o vínculo de 1.º/12/1982 a 1.º/1/1990, verifica-se que o autor conta com 95 períodos de contribuição, insuficientes para a concessão do benefício vindicado.
+Nesse contexto, forçoso o reconhecimento da improcedência do pedido de aposentadoria por idade (fls. 242-244).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
