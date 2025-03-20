@@ -1,0 +1,11 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de LUIS GABRIEL CORREIA VELASCO - na execução da pena de 20 anos de reclusão por condenações por roubo qualificado, corrupção de menores e tráfico de drogas (Execução n. 8000181-20.2021.8.24.0086) -, atacando-se o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (fls. 10/14 - Agravo de Execução Penal n. 8000033-36.2025.8.24.0064), comporta pronto acolhimento.
+Com efeito, busca a impetração a concessão da comutação de pena, fundada no Decreto n. 12.338/2024, alegando que o paciente preencheu os requisitos para tal benefício, tendo cumprido 1/5 da pena total e 2/3 da pena do crime impeditivo, apontando, ainda, que o réu não deve ser considerado reincidente, pois a nova condenação não transitou em julgado, estando ainda em fase de apelação, não devendo ser considerada para fins de negativa do benefício de comutação (fls. 4/5).
+Ocorre que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afastaria a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Entretanto, há ilegalidade no acórdão hostilizado, porque, segundo esta Corte Superior, para análise do preenchimento do requisito objetivo de indulto ou comutação, devem ser consideradas todas as condenações com trânsito em julgado até a data da publicação do Decreto Presidencial (AgRg no HC n. 905.019/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/5/2024, DJe 3/6/2024).
+Em razão disso, concedo liminarmente a ordem para determinar ao Juízo de Direito da Vara de Execução em Meio Fe chado e Semiaberto da comarca de São José/SC que reanalise o pedido de comutação de pena formulado pelo paciente na Execução n. 8000181-20.2021.8.24.0086, considerando as condenações com trânsito em julgado na data de publicação do decreto concessivo do benefício executório.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. COMUTAÇÃO (DECRETO N. 12.338/2024). REQUISITO OBJETIVO. CONDENAÇÕES COM TRÂNSITO EM JULGADO ATÉ A DATA DA PUBLICAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
