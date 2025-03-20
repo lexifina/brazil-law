@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento na ausência de violação a legislação federal.
+O acórdão ora recorrido f oi assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. Ação acidentária.
+1. Inovação recursal e violação ao princípio da dialeticidade recursal. Não verificação. Matérias devolvidas no recurso de apelação foram alegadas em contestação. Apelante que, ademais, expõe de maneira fundamentada as razões de fato e de direito pelas quais entende que a sentença deve ser reformada. Apelo conhecido.
+2. Pretensão do réu de recebimento de seu recurso no efeito suspensivo. Não acolhimento. Ausência dos pressupostos do art. 1.012, § 4º, do CPC.
+3. Obreiro auxiliar geral em frigorífico. Perícia médica constatou incapacidade do autor para exercício da atividade habitual em decorrência de males na coluna e nos ombros. Nexo de causalidade demonstrado. Necessidade de reabilitação profissional do segurado. Auxílio-doença acidentário devido até sua reabilitação para o exercício de atividade laboral compatível com a limitação funcional.
+4. Valores em atraso. Juros moratórios e correção monetária computados de acordo com a tese firmada pelo Supremo Tribunal Federal no julgamento do RE nº 870.947 (Tema 810).
+5. Honorários advocatícios. Arbitramento em liquidação. Art. 85, § 4º, II, do CPC.
+6. Apelação desprovida e reexame necessário provido em parte.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação aos arts. 62 e 89 da Lei 8.213/1991 e 136, 137, 138, 139, 140 e 141 do Decreto 3.048/1999, sustentando, em síntese, que "a imposição à reabilitação viola o procedimento previsto em lei (arts. 62 e 89 da lei 8213/91 e art. 136 e seguintes do Decreto 3048/99), bem como a discricionariedade administrativa da Autarquia na condução do procedimento de reabilitação profissional, com a avaliação dos critérios de ingresso e permanência do beneficiário." (fl. 238).
+Em seu agravo, sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "a decisão do Tribunal de Justiça do Estado de São Paulo, que simplesmente mantém sua própria decisão, afronta os princípios do juízo natural (art. 105, III, "a" da Constituição Federal) e da inafastabilidade da jurisdição (art. 5º, XXXV, CF)" (fl. 258).
+É o relatório.
+Passo a decidir.
+A irresignação não merece amparo.
+O acórdão recorrido consignou (fls. 203-205):
+Como se vê, o segurado se encontra incapacitado para o exercício de sua atividade habitual. O nexo causal por sua vez, pode ser constatado pela emissão da Comunicação de Acidente de Trabalho CAT (fls. 26/27), além de ter sido reconhecido pelo próprio INSS, ao conceder benefício acidentário ao recorrido (fls. 28/30).
+O artigo 62 da Lei 8.213/1991 estabelece que "o segurado em gozo de auxílio-doença, insuscetível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade".
+Sendo assim, a despeito dos reclamos do apelante, não subsiste dúvida acerca da necessidade de submissão do apelado à processo de reabilitação profissional, posto que não mais dispõe de capacidade para o exercício de sua atividade habitual. Ressalte-se que após a cessação administrativa do auxílio-doença acidentário, o recorrido não retornou ao trabalho por ter sido considerado inapto por sua empregadora (fls. 25).
+Portanto, o demandante faz jus ao recebimento de auxílio-doença até sua submissão à programa de reabilitação para o exercício de atividade laboral compatível com sua limitação funcional.
+A Lei 8.213/1991 estabelece, aliás, que a reabilitação profissional é devida em caráter obrigatório a todos os segurados:
+ ..
+Vale observar, ademais, que, conforme o disposto nos artigos 92 e 93 da Lei 8.213/1991, o certificado de reabilitação, expedido após a conclusão do procedimento, indicará as atividades que poderão ser exercidas pelo beneficiário, que poderá se candidatar às vagas destinadas especificamente a reabilitados, facilitando sua reinserção no mercado de trabalho.
+ ..
+Assim, deve ser restabelecido o auxílio-doença acidentário, correspondente a 91% do salário-de-benefício, nos termos do artigo 61 da Lei 8.213/1991, a partir do dia seguinte ao da alta médica indevida (03/05/2016 fls. 29), descontando-se do cálculo dos atrasados as verbas recebidas em decorrência da antecipação de tutela.
+Como se observa, a análise fática realizada pelo acórdão recorrido indicou que ficou demonstrada a existência de incapacidade permanente e parcial, devendo o segurado, portanto, passar pelo procedimento de reabilitação profissional.
+Nesse contexto, conforme o disposto nos arts. 59 e 62 da Lei 8.213/1991, uma vez contatada a necessidade de reabilitação do segurado, em razão da ocorrência de acidente que provocou sua incapacidade parcial e permanente para a atividade habitual, o obreiro faz jus ao recebimento do auxílio-doença, até que seja reabilitado para o exercício de outra atividade compatível com a limitação laboral.
+Nesse sentido:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. AUXÍLIO-ACIDENTE. MANUTENÇÃO DA QUALIDADE DE SEGURADO. ART. 15, I E § 3º, DA LEI N. 8.213/1991. ART. 137 DA INSS/PRES n. 77/2015 (E ALTERAÇÕES). APOSENTADORIA POR INVALIDEZ. NÃO PREENCHIMENTO DOS REQUISITOS. INCAPACIDADE PARCIAL E PERMANENTE PARA ATIVIDADE HABITUAL. CONCESSÃO DE AUXÍLIO-DOENÇA ATÉ QUE SEJA REALIZADA A REABILITAÇÃO PROFISSIONAL. INTELIGÊNCIA DOS ARTS. 59 E 62 DA LEI N. 8.213/91. INOCORRÊNCIA DE JULGAMENTO EXTRA OU ULTRA PETITA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - Mantém a qualidade de segurado, independente de contribuições e sem limite de prazo, aquele que está em gozo de benefício previdenciário, inclusive auxílio-acidente, nos termos dos arts. 15, I e § 3º, da Lei n. 8.213/1991 e 137 da INSS/PRES n. 77/2015 (e suas alterações).
+III - Comprovada a incapacidade parcial e permanente para a atividade habitual, o segurado faz jus ao recebimento do auxílio-doença, até que seja reabilitado para o exercício de outra atividade compatível com a limitação laboral, nos termos dos arts. 59 e 62 da Lei n. 8.213/1991, restando afastada a concessão de aposentadoria por invalidez, cujos requisitos são incapacidade total e permanente, insuscetível de reabilitação para o exercício de atividade laborativa.
+IV - É firme a orientação desta Corte de que não incorre em julgamento extra ou ultra petita a decisão que considera de forma ampla o pedido constante da petição inicial, para efeito de concessão de benefício previdenciário.
+V - Recurso especial do segurado parcialmente provido, para conceder o benefício de auxílio-doença a contar da data do requerimento administrativo, até que seja realizada a reabilitação profissional (REsp n. 1.584.771/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 28/5/2019, DJe de 30/5/2019).
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da necessidade de reabilitação para o exercício de atividade laborativa, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
