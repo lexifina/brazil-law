@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de Rondônia (Apelação Criminal n. 7017532-70.2023.8.22.0001) que manteve a condenação de Felliphe Ce sar da Silva Rodrigues, e corréus, como incurso no crime de homicídio qualificado.
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 59 do Código Penal, apontando fundamentação inidônea para exasperação da pena na primeira fase da dosimetria (fls. 1.103/1.110).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 1.126/1.127).
+Contra o decisum a defesa interpôs o presente agravo (fls. 1.131/1.136).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 1.164/1.166).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, a insurgência se cinge a apontar violação do art. 59 do Código Penal, alegando fundamentação inidônea quanto à valoração negativa da culpabilidade e circunstâncias do crime. Não diviso, porém, a ilegalidade aventada.
+Em relação à primeira fase da dosimetria, constam da sentença condenatória as seguintes ponderações (fl. 822):
+ ..
+Na primeira fase de aplicação da pena, a culpabilidade ressoa grave, sendo altamente reprovável a conduta do agente, eis que foi ao local dos fatos e acompanhou os executores do crime. Extrai-se da certidão criminal de fls. 674/676 que o acusado possui condenação anterior antiga com os nomes de Felipe Cesar da Silva ou Felipe Cesar da Silva Rodrigues, sendo que a extinção da pena remonta há mais de cinco anos, pelo que não será levado em conta para fins de reincidência. Porém, com o nome de Felliphe César da Silva Rodrigues, conforme certidão criminal de fls. 677/684, possui também passagens criminais sem maiores informações de condenações recentes, pelo que também não será considerado para fins de reincidência. Os elementos constantes dos autos não são suficientes para aferir negativamente a conduta social e a personalidade da agente. Os jurados reconheceram que a ré agiu por motivo torpe e mediante recurso que dificultou a defesa da vitima. A circunstância relativa ao recurso que dificultou a defesa da vítima será utilizada para qualificar o crime. O motivo, todavia, embora reprovável, configura simultaneamente a agravante prevista no art. 61, ll, "a" do CP, portanto, deverá ser valorada no momento adequado da dosimetria. As consequências extrapenais, que se resumem aos efeitos produzidos pela ação criminosa não foram suficientemente esclarecidas. O comportamento da vitima em nada contribuiu para o crime.
+Assim, levando em conta tais circunstâncias, reconheço como negativas as circunstâncias referentes à culpabilidade e às consequências do crime, razão pela qual fixo a pena base do acusado acima do mínimo legal, aumentando em 1/12  um doze avos- 1 ano , perfazendo13  treze  anos de reclusão.
+ ..
+A Corte de origem assim se manifestou sobre o tema (fls. 1.079/1.080 - grifo nosso):
+ ..
+Sabe-se que a culpabilidade deve ser compreendida como juízo de reprovabilidade sobre a conduta, apontando maior ou menor censurabilidade do comportamento do réu.
+In casu, concluo que o juízo de primeiro grau negativou a culpabilidade com fundamentos aptos a ensejar a exasperação, tendo em vista que Felliphe foi um dos principais responsáveis pela execução do crime, tendo recebido a ordem vinda do grupo de whatsapp "Conselho Final" e também pressionou para que o condenado Wesley efetuasse o segundo disparo de arma de fogo contra a vítima. Assim, a conduta do apelante extrapolou a previsão inserta no tipo penal, estando regularmente motivada a exasperação.
+A propósito, anoto que a jurisprudência do STJ admite a suplementação de fundamentação pelo Tribunal que revisa a dosimetria da pena, sempre que não haja agravamento, em razão do efeito devolutivo amplo do recurso de apelação. (Nesse sentido: Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/9/2021, D Je de 27/9/2021.)
+Muito embora o juízo de primeiro grau tenha feito constar na dosimetria que reconhecia como negativo as circunstâncias referentes à culpabilidade e às consequências do crime, na verdade, houve um erro material, pois a fundamentação referente às consequências não foram aferidas negativamente. Por outro lado, foi considerado negativa ao apelante seus maus antecedentes, conforme certidão de antecedentes constante no id 19483789 - Pág. 1 e 19308139 - Pág. 62/712, razão pela qual a pena foi exasperada.
+Por esses motivos, tenho que foram utilizados motivos idôneos e aptos a afastar a pena-base do mínimo legal.
+Ressalto que, na presença de apenas uma circunstância judicial valorada como negativa, já se autoriza o acréscimo na pena-base, conforme entendimento consolidado dos Tribunais Superiores.
+Com relação ao quantum de aumento - 01 ano, tem-se que o magistrado possui discricionariedade, dentro dos limites legais, para fixar a pena-base, desde que devidamente fundamentada, em conformidade com a finalidade, prevenção e repressão do crime, não estando vinculado, refriso, a critérios matemáticos.
+Logo, considerando a existência de duas circunstâncias judiciais consideradas negativas ao apelante, considero adequado e proporcional o quantum de aumento estabelecido na sentença, não havendo que se falar em redução.
+ ..
+Primeiramente, verifico que não houve valoração negativa das circunstâncias do crime, razão pela qual não há ilegalidade a ser sanada neste ponto.
+De fato, como bem asseverou o Tribunal estadual, mostra-se legítima a fundamentação utilizada para negativar o vetor de culpabilidade, com amparo em elementos concretos, os quais apontam uma maior reprovabilidade da conduta praticada, considerando não só que o acusado acompanhou os executores, mas também foi um dos principais responsáveis pela execução do crime, tendo recebido a ordem vinda do grupo de whatsapp "Conselho Final" e também pressionou para que o condenado Wesley efetuasse o segundo disparo de arma de fogo contra a vítima (fl. 1.079), fatores que não se confundem com os elementos do tipo penal.
+Nesse sentido, em situações semelhantes, destaco os seguintes precedentes:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE AUSÊNCIA DE RAZOABILIDADE NA ELEVAÇÃO DA PENA-BASE. PRIMEIRA FASE DA DOSIMETRIA. PENA FIXADA COM A DEVIDA FUNDAMENTAÇÃO. AUSÊNCIA DE ILEGALIDADE NA FRAÇÃO DE 1/8 PARA CADA VETORIAL.
+1. Ainda que a defesa tenha trazido inúmeros precedentes em que a pena foi elevada na fração de 1/6, não existe um parâmetro obrigatório, e cada caso traz a sua particularidade.
+2. O Magistrado valorou como negativa a culpabilidade do paciente, pela premeditação do crime, com planejamento e divisão de tarefas, a fim de submeter a vítima a sofrimento e a consequente morte, com 3 disparos de arma de fogo.
+3. Agravo regimental improvido.
+(AgRg no HC n. 707.460/MS, de minha relatoria, Sexta Turma, julgado em 8/3/2022, DJe de 15/3/2022 - grifo nosso)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS TENTADOS. DOSIMETRIA. PENA BASE. CULPABILIDADE. MOTIVAÇÃO CONCRETA DECLINADA. AGRAVO DESPROVIDO.
+1. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+2. No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito.
+3. Hipótese na qual restou declinada motivação concreta para o incremento da básica por tal moduladora, pois "o acusado resolveu se aliar a outro indivíduo para praticar o delito, em nítida união de esforços e divisão de tarefas, vulnerabilizando, ainda mais, o bem jurídico tutelado pelo direito, merecendo, pois, maior reprovação do aquele que pratica tal crime sozinho, sem ajuda de terceiros".
+4. Como o reconhecido no parecer ministerial, "a conduta de se aliar a outra pessoa para consecução do crime homicídio não é elemento inerente ao tipo, ao contrário, revela maior intensidade de dolo".
+Tal elemento, longe de ser genérico, denota o dolo intenso e a maior reprovabilidade do agir do réu, devendo, pois, ser mantido o incremento da básica a título de culpabilidade.
+5. Agravo desprovido.
+(AgRg no HC n. 819.306/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023 - grifo nosso)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. VIOLAÇÃO DO ART. 59 DO CP. HOMICÍDIO QUALIFICADO. DOSIMETRIA. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
