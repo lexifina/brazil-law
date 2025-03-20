@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GIULIA CARVALHO BORGES em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul (e-STJ fl. 2).
+Na peça, a defesa informa que a paciente cumpre pena de 5 anos de reclusão em regime aberto pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fl. 2).
+Alega que houve indeferimento parcial da remição de pena por estudo, sendo reconhecidos apenas 7 dias, em função do limite de horas estabelecido pelo art. 126 da Lei de Execução Penal (LEP), ignorando a possibilidade de cômputo das horas extras (e-STJ fl. 3).
+Sustenta que a decisão do Juízo a quo está em desconformidade com o entendimento pacificado dos Tribunais Superiores, destacando voto da Ministra Laurita Vaz no julgamento do HC n. 461.047/SP, que defende a equiparação da remição por estudo com a remição por trabalho (e-STJ fl. 4).
+Afirma que inexiste previsão legal que impeça o reconhecimento das horas de estudo excedidas e que a regra trabalhista não pode ser fundamento para uma interpretação extensiva, prejudicando o apenado (e-STJ fl. 4).
+A defesa destaca que a paciente estudou aproximadamente seis horas e vinte minutos diariamente, cumprindo todos os requisitos previstos na Resolução n. 391 de 10/5/2021, do Conselho Nacional de Justiça (e-STJ fls. 5/6).
+No mérito, requer a concessão dos 6 dias restantes, totalizando 13 dias considerados como pena efetivamente cumprida (e-STJ fl. 6).
+Ademais, busca a concessão de salvo-conduto para que, nos casos posteriores que tratem sobre a matéria, seja garantido o direito da apenada às horas extras (e-STJ fl. 6).
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Tal é o caso do presente writ, porquanto " n enhum esforço da pessoa presa para reduzir seu grau de vulnerabilidade - em especial em um ambiente dessocializador por natureza - pode ser desprezado. Em última análise, o princípio da humanidade demanda que todas as oportunidades redutoras de danos sejam aproveitadas, evitando-se desperdícios de esforço humano e tempo existencial.  .. .  N ão é razoável, nem proporcional, admitir-se a interpretação ampliativa da lei para efeito de remição por trabalho e vedá-la para fins de remição por estudo" (ROIG, Rodrigo Duque Estrada. Execução Penal: Teoria Crítica. 4.ª Ed. São Paulo: Saraiva Educação, 2018, pp. 419-420)" (HC n. 461.047/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 4/8/2020, DJe de 14/8/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Contudo, concedo a ordem de ofício para determinar ao Juízo das execuções que reavalie o pedido e que a atividade escolar que excedeu a carga de 4 horas diárias seja computada para fins de remição, contada conforme a primeira parte do inciso I do § 1º do art. 126 da Lei de Execução Penal.
+Publique-se. Intimem-se.
+EMENTA
