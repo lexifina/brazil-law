@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por  GABRIEL  DA  SILVA  NUNES  em  que  combate  a  decisão  proferida  pelo  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  que  não  admitiu  recurso  especial  interposto  pelo  corréu  Michael  Douglas  da  Silva  Davi.
+No  agravo  de  e-STJ  fls.  298/310,  o  agravante  se  insurge  contra  a  suposta  inadmissão  de  seu  recurso  especial,  e  aduz  argumentação  contra  o  acórdão  condenatório,  afirmando  ser  o  caso  de  restabelecimento  da  absolvição  operada  pela  sentença  ou  redimensionamento  da  reprimenda  e  abrandamento  do  regime  carcerário  fixados  pela  Corte  estadual.
+Todavia,  não  há  nos  autos  qualquer  recurso  especial  que  tenha  sido  interposto  pelo  ora  agravante,  sendo  claro  que  a  decisão  de  inadmissibilidade  de  e-STJ  fls.  268/271  é  expressa  ao  tratar  exclusivamente  do  apelo  nobre  apresentado  pelo  corréu.
+Desse  modo,  por  não  ter  o  agravante  interposto  recurso  especial,  não  comporta  cabimento  o  agravo  em  recurso  especial  contra  decisão  que  tratou  do  especial  do  outro  condenado .
+Como  bem  pontuado  pela  representante  do  Ministério  Público  Federal,  "no  que  tange  ao  agravo  interposto  por  GABRIEL  DA  SILVA  NUNES,  verifica-se  que  o  Agravante  não  interpôs  recurso  especial  no  presente  feito,  tendo  ocorrido  o  trânsito  em  julgado  da  decisão  em  relação  a  ele,  conforme  certidão  de  fl.  248.  Assim,  resta  prejudicado  o  prosseguimento  do  agravo  manejado  às  fls.  298/310,  porquanto  é  juridicamente  impossível  recorrer  de  decisão  inexistente"  (e-STJ  fl.  331).
+Assim,  por  ser  manifestamente  incabível,  não  conheço  do  agravo  em  recurso  especial  de  Gabriel  da  Silva  Nunes.
+Publique-se.  Intimem-se.
+EMENTA
