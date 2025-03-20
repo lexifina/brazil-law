@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra acórdão assim ementado:
+PENAL. PROCESSUAL PENAL. CRIME DE MOEDA FALSA. PRINCÍPIO DA INSIGNIFICÂNCIA. ATIPICIDADE MATERIAL. 1. É penalmente insignificante (materialmente atípica) conduta de quem porta 02 (duas) cédulas falsas de valor unitário equivalente a R$ 50,00 (cinquenta reais), por isso que não se revestiu de lesividade suficiente para atingir o bem jurídico tutelado pela norma penal incriminadora, a saber, a integridade do meio circulante. Precedentes do Tribunal Regional Federal da 1ª Região. 2. O princípio da insignificância integra o sistema jurídico, como norma em sentido amplo, funcionando como um instrumento de interpretação restritiva do tipo penal. Funda-se na consideração do caráter subsidiário e fragmentário do direito penal, aliada à adoção da concepção material de ilicitude e da avaliação do desvalor da conduta e do resultado. 3. Apelação a que se dá provimento.
+Sustenta o recorrente que "o acórdão recorrido afrontou explicitamente o art. 289, § 1º do Código Penal e artigos 386, III e VII, do Código de Processo Penal, além de se encontrar em confronto com julgados do Tribunal Superior Tribunal de Justiça acerca do tema, que não admite ao crime de moeda falsa, a aplicação do princípio da insignificância" (fl. 332).
+Alega que "o acórdão incindiu em julgamento extrapetita, pois deferiu ao réu a aplicação do princípio da insignificância sem que a defesa sequer tivesse formulado tal pedido" (fl. 341).
+Requer o provimento do recurso para "afastar a aplicação do princípio da insignificância e condenar o réu pela prática do crime do artigo 289, § 1º, do CP" (fl. 346).
+Contrarrazões apresentadas. O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório.
+Decido.
+Acerca da controvérsia, extrai-se do acórdão a seguinte fundamentação (fls. 295-326):
+In casu, o denunciado foi preso em flagrante ao tentar realizar o pagamento de 04 cervejas com 02 notas falsas de R$ 50,00 (cinquenta reais), as quais confessou, em interrogatório, que comprou por R$ 20,00 (vinte reais) de dois rapazes desconhecidos.
+A sentença recorrida o condenou à pena de 03 (três) anos de reclusão pelo crime de moeda falsa.
+A defesa alega atipicidade material da conduta, em razão da falsificação grosseira das notas apreendidas. Pede, outrossim, o reconhecimento da atenuante da confissão espontânea.
+Tenho que assiste razão ao apelante.
+A conduta atribuída a RAIMUNDO NONATO SILVA E SILVA é materialmente atípica, alcançada que está pelo princípio da insignificância.
+ ..
+Na hipótese sub examine, os autos revelam que, apesar da conduta do Acusado subsumir-se, formalmente, ao tipo do art. 289, da Lei Penal Material - portava 02 (duas) cédulas contrafeitas no valor unitário de R$ 50,00 (cinquenta reais) -, deve ser considerada materialmente atípica, pois não se revestiu de lesividade suficiente para atingir o bem jurídico tutelado pela norma penal incriminadora - a integridade do meio circulante -, sendo o caso de se reconhecer a aplicação do princípio da insignificância.
+O Tribunal Regional Federal da 1ª Região tem reconhecido a aplicação do princípio da insignificância ao delito de moeda falsa, conforme se pode extrair, dentre outros, dos seguintes julgados, in verbis:
+ ..
+Ante do exposto, DOU PROVIMENTO à apelação, para o fim de julgar improcedente a ação penal, absolvendo RAIMUNDO NONATO SILVA E SILVA, com fundamento no art. 386, III, do Código de Processo Penal.
+Verifica-se que o acórdão recorrido reconheceu a atipicidade material ao entendimento de que a conduta "não se revestiu de lesividade suficiente para atingir o bem jurídico tutelado pela norma penal incriminadora".
+Tal entendimento é contrário à jurisprudência desta Corte Superior, firmada no sentido de que "o princípio da insignificância é inaplicável ao crime de moeda falsa, pois o bem jurídico tutelado é a fé pública, que transcende o aspecto patrimonial", bem como que "a quantidade de notas ou o valor não são relevantes para a aplicação do princípio da insignificância em crimes de moeda falsa" (AgRg no REsp n. 2.136.214/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024.)
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. CRIME DE MOEDA FALSA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. 2. DESCLASSIFICAÇÃO. ART. 289, § 2º, DO CP. POSSIBILIDADE. DINHEIRO RECEBIDO DE BOA-FÉ. 3. ALEGAÇÃO MINISTERIAL. AUSÊNCIA DE PROVAS DE QUE RECEBEU O DINHEIRO AO REALIZAR UMA VENDA. CIRCUNSTÂNCIA QUE NÃO PODE SER ANALISADA NA VIA ELEITA. CONTEXTO FÁTICO INDICADO PELAS INSTÂNCIAS ORDINÁRIAS. 4. AGRAVO REGIMENTAL DO MPF A QUE SE NEGA PROVIMENTO.
+1. "Não se cogita a aplicação do princípio da insignificância aos crimes de moeda falsa, pois o bem jurídico protegido de forma principal é a fé pública, ou seja, a segurança da sociedade, sendo irrelevante o número de notas, o seu valor ou o número de lesados" (AgRg no REsp n. 1.969.774/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.)
+2. Consta do acórdão que o paciente recebeu as notas em pagamento pela venda de um aparelho celular e que só percebeu a falsidade ao chegar em casa, portanto, é manifesto que recebeu as cédulas desconhecendo sua falsidade. Não há nada que indique ter recebido as notas sabendo de sua falsidade, nem se mostra crível que receberia as notas falsas como pagamento se soubesse da sua falsidade.
+- Ademais, a conclusão da Corte Regional, no sentido de que, ao não entregar as notas à Polícia, pretendia "utilizar as cédulas falsas reintroduzindo-as em circulação", preenche, sem maior esforço interpretativo, a segunda parte do tipo penal constante do § 2º do art. 289 do Código Penal, que dispõe sobre a restituição "à circulação, depois de conhecer a falsidade".
+3. A alegação ministerial no sentido de que não foi comprovada a alegação defensiva de que o paciente recebeu as notas ao realizar uma venda pelo OLX não pode ser analisada pelo STJ. De fato, tendo as instâncias ordinárias assentado que o contexto fático foi esse, a esta Corte Superior apenas coube adequar a aplicação da norma à conduta narrada.
+- Ora, se o Tribunal de origem levou em consideração referida narrativa para extrair o dolo do paciente, é possível que, pelos mesmos fatos já consolidados pelas instâncias ordinárias, esta Corte atribua conclusão jurídica diversa, o que não revela revolvimento de fatos nem de provas e muito menos adoção da "tese defensiva como prova cabal e irrefutável", porquanto, reitero, é o contexto trazido no acórdão impugnado.
+- Nessa linha de intelecção, mostra-se manifestamente inviável, em verdade, querer desconstituir a base fática utilizada pelas instâncias ordinárias, e observada pelo STJ, por meio de agravo regimental do Ministério Público Federal contra decisão concessiva de habeas corpus.
+4. Agravo regimental do MPF a que se nega provimento, mantendo a concessão da ordem de ofício.
+(AgRg no HC n. 772.340/MT, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/10/2022, DJe de 24/10/2022.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MOEDA FALSA. PRINCÍPIO DA INSIGNIFICÂNCIA.
+1. Conforme orientação desta Corte, "não se cogita a aplicação do princípio da insignificância ao crime de moeda falsa, pois o bem jurídico protegido de forma principal é a fé pública, ou seja, a segurança da sociedade, sendo irrelevante o número de notas, o seu valor ou o número de lesados" (HC n. 439.958/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/6/2018, DJe 1º/8/2018).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 2.143.901/MA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Ante o exposto, dou provimento ao recurso especial a fim de restabelecer a sentença condenatória, determinando a restituição dos autos ao Tribunal de origem para a análise das teses remanescentes trazidas no recurso de apelação.
+Publique-se.
+Intime-se.
+EMENTA
