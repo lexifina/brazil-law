@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interno interposto por FAZENDA NACIONAL contra decisão monocrática de fls. 248-250 (e-STJ), assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ON-LINE DE FORMA REITERADA. "TEIMOSINHA". EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais, a agravante sustenta a inaplicabilidade das Súmulas 283 e 284/STF.
+Afirma ter impugnado todos os fundamentos do acórdão recorrido.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 264-272 (e-STJ).
+Brevemente relatado, decido.
+Diante dos argumentos apresentados, constata-se assistir razão à agravante.
+Assim, mediante juízo de retratação, nos termos do art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 248-250 (e-STJ) e passo a novo exame do recurso especial (e-STJ, fls. 218-220).
+Cuida-se de recurso especial interposto por FAZENDA NACIONAL, com base na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 125):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PENHORA ONLINE. SISBAJUD. TEIMOSINHA.
+1. Em que pese haja previsão da modalidade de reiteração automática de ordens de bloqueio, a medida, ainda que por prazo determinado, se por um lado facilita a atividade judicial em atenção ao interesse do credor, por outro lado é capaz de inviabilizar o exercício da atividade econômica do devedor ao privá-lo de todos os recursos financeiros que ingressam em sua conta- corrente.
+2. A reiteração automática, na verdade, significa a penhora de 100% do faturamento do devedor, o que se afigura desarrazoado.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 213):
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC.
+Embargos de declaração improvidos, porque inocorrentes quaisquer das hipóteses do art. 1.022 do CPC.
+Nas razões recursais, a recorrente aponta ofensa aos arts. 373, II, 489, § 1º, 789; 797 e 854, caput, e 1.022, II, e parágrafo único, do CPC/2015; 3º e 185-A do CTN.
+Aponta negativa de prestação jurisdicional pelo Tribunal de origem.
+Sustenta a validade das ordens reiteradas de bloqueio pelo BACEN-JUD.
+Afirma que a parte recorrida não logrou êxito em demonstrar a desproporcionalidade da medida.
+Sendo assim, requer o provimento do presente recurso especial.
+Contrarrazões às fls. 227-234 (e-STJ).
+Decisão de admissibilidade à fl. 237 (e-STJ).
+O Tribunal Regional Federal da 4ª Região, ao julgar o agravo de instrumento, assim se manifestou (e-STJ, fl. 123):
+Não há óbice à renovação de penhora on line via SISBAJUD, considerando-se que a execução, não obstante o princípio da menor onerosidade ao devedor, é realizada no interesse do credor, conforme dispõe o art. 797 do CPC, sendo objeto da Súmula 81 deste Tribunal:
+Entretanto, em que pese haja previsão da modalidade de reiteração automática de ordens de bloqueio, a medida, ainda que por prazo determinado, se por um lado facilita a atividade judicial em atenção ao interesse do credor, por outro lado é capaz de inviabilizar o exercício da atividade econômica do devedor ao privá-lo de todos os recursos financeiros que ingressam em sua conta-corrente. A reiteração automática, na verdade, significa a penhora de 100% do faturamento do devedor, o que não pode ser aceito.
+A respeito do tema, a jurisprudência do Superior Tribunal de Justiça entende que a reiteração automática de penhora, conhecida popularmente como "teimosinha", não pode ser considerada ilegal, desde que, observadas as peculiaridades do caso concreto, não se apresente como medida desproporcional ao devedor.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SISBAJUD. REITERAÇÃO AUTOMÁTICA DE ORDENS DE BLOQUEIO ("TEIMOSINHA"). ANÁLISE CASUÍSTICA. DEVOLUÇÃO DOS AUTOS À ORIGEM, PARA NOVO EXAME DA CONTROVÉRSIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A Primeira Turma do STJ já decidiu que "a modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções, e não é revestida, por si só, de qualquer ilegalidade, porque busca dar concretude aos arts. 797, caput, e 835, I, do CPC, os quais estabelecem, respectivamente, que a execução se desenvolve em benefício do exequente, e que a penhora em dinheiro é prioritária na busca pela satisfação do crédito. A medida deve ser avaliada em cada caso concreto, porque pode haver meios menos gravosos ao devedor de satisfação do crédito (art. 805 do CPC), mas não se pode concluir que a ferramenta é, à primeira vista, ilegal."
+3. No caso dos autos, consoante se extrai da decisão do juízo da execução e do voto condutor do acórdão recorrido, o indeferimento de acionamento da referida ferramenta se apoia em fundamento genérico, sem menção às peculiaridades fáticas do caso concreto.
+4. Nesse contexto, deve-se reconhecer que o acórdão recorrido não se coaduna com a orientação jurisprudencial deste Tribunal Superior a respeito da questão, razão pela qual o recurso especial deve ser provido e cassado o acórdão, com a determinação de retorno dos autos para novo julgamento do agravo de instrumento, ocasião em que o órgão julgador deverá decidir a respeito da adequação da medida pedida pela exequente, à luz das peculiaridades do caso concreto, à luz do princípio da razoabilidade.
+5. A jurisprudência desta Corte firmou entendimento segundo o qual não configura julgamento extra petita o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial, e não apenas de sua parte final.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.135.362/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/2/2025, DJEN de 14/2/2025.)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. PENHORA ONLINE. MODALIDADE "TEIMOSINHA". POSSIBILIDADE. PRECEDENTES. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação ao art. 1.022 do Código de Processo Civil (CPC) porque a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido não implica ofensa ao dispositivo de lei invocado.
+2. Esta Corte Superior possui entendimento consolidado segundo o qual é possível a reiteração automática de ordens de bloqueio de bens, conhecida como "Teimosinha", mediante utilização do Sistema de Busca de Ativos do Poder Judiciário (SisbaJud), desde que a medida seja adequada à situação examinada, conforme os elementos concretos apresentados pelos litigantes. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.153.854/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. BLOQUEIO VIA SISBAJUD. REITERAÇÕES AUTOMÁTICAS DE PENHORA ("TEIMOSINHA"). PRINCÍPIO DA MENOR ONEROSIDADE. ANÁLISE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO.
+1. A orientação jurisprudencial desta Corte Superior de Justiça se firmou no sentido de que " a  modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções, e não é revestida, por si só, de ilegalidade, devendo a aplicação de tal medida ser avaliada em cada caso concreto" (AgInt no REsp n. 2.149.714/PE, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+2. Na espécie, o acórdão a quo não destoou desse entendimento, ao afastar a possibilidade de reiteração automática de penhora via Sisbajud em razão das circunstâncias concretas da lide.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.164.545/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. BLOQUEIO DOS ATIVOS FINANCEIROS DA EXECUTADA. ALEGAÇÃO DE OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. INEXISTÊNCIA. IMPENHORABILIDADE. FUNDAMENTO DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO DA SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PENHORA . ORDEM LEGAL DE PREFERÊNCIA. RECUSA DO EXECUTANTE. POSSIBILIDADE.
+I - Na origem, trata-se de agravo de instrumento interposto por Drogavida Comercial de Drogas Ltda. contra a decisão que, nos autos da execução fiscal ajuizada pelo Estado de São Paulo, indeferiu o pedido de cancelamento da ordem de reiteração de bloqueio dos ativos financeiros da empresa executada.
+II - No Tribunal a quo, a decisão foi mantida. Esta Corte conheceu do agravo para negar ao provimento ao recurso especial.
+ ..
+IX - Quanto à possibilidade de se utilizar da penhora reiterada para salvaguardar o interesse do exequente, verifica-se que a referida modalidade é legal, encontrando assento no constante dos arts. 797, caput e 835, I, do CPC/2015. Neste diapasão confiram-se: (REsp n. 2.034.208/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 15/12/2022, DJe de 31/1/2023.)
+X - Do julgado encimado extrai-se o seguinte excerto, in verbis: "A modalidade "teimosinha" tenciona aumentar a efetividade das decisões judiciais e aperfeiçoar a prestação jurisdicional, notadamente no âmbito das execuções. Segundo o Conselho Nacional de Justiça: Com a arquitetura de sistema mais moderna, em breve será liberada no SISBAJUD a reiteração automática de ordens de bloqueio (conhecida como "teimosinha"), e a partir da emissão da ordem de penhora on-line de valores, o magistrado poderá registrar a quantidade de vezes que a mesma ordem terá que ser reiterada no SISBAJUD até o bloqueio do valor necessário para o seu total cumprimento. Esse novo procedimento eliminará a emissão sucessiva de novas ordens da penhora eletrônica relativa a uma mesma decisão, como é feito atualmente no Bacenjud. (Disponível em: https://www.cnj.jus.br/sistemas/sisbajud/. Acesso em 22/11/2022). A meu ver, a medida não é revestida, por si só, de qualquer ilegalidade, porque busca dar concretude aos arts. 797, caput, e 835, I, do CPC, os quais estabelecem, respectivamente, que a execução se desenvolve em benefício do exequente, e que a penhora em dinheiro é prioritária na busca pela satisfação do crédito."
+ ..
+XIV - Agravo interno improvido.
+(AgInt no AREsp n. 2.396.792/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+Do excerto acima citado depreende-se que o Tribunal originário entendeu que a renovação automática de penhora on-line constitui medida desproporcional, uma vez que configura a constrição de 100% do faturamento do devedor.
+Entretanto, dos fundamentos mencionados pelo julgado recorrido, constata-se que os motivos utilizados pela Corte de origem para negar o uso da ferramenta mostram-se genéricos, sem menção a nenhuma situação específica do caso concreto.
+Logo, em virtude da fundamentação genérica inserida no aresto recorrido, fica impedida a apreciação por este Tribunal Superior acerca do enquadramento, ou não, da controvérsia na orientação jurisprudencial supramencionada.
+Por conseguinte, constata-se que o acórdão recorrido não está alinhado com a jurisprudência do Superior Tribunal de Justiça e, por falta de elementos que possibilitem o julgamento do recurso especial em análise, necessário o retorno dos autos à origem para que o Tribunal, em novo julgamento do agravo de instrumento, aprecie a adequação da medida pedida pela ora recorrente à luz das peculiaridades do caso concreto.
+Ante o exposto, mediante juízo de reconsideração, dou provimento ao recurso especial, a fim de, anulando o acórdão recorrido, determinar o retorno dos autos à origem, para que o realize novo julgamento do agravo de instrumento com base na orientação estabelecida pela jurisprudência do Superior Tribunal de Justiça a respeito do tema.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA ON-LINE. REITERAÇÃO. "TEIMOSINHA". LEGALIDADE. ANÁLISE DO CASO CONCRETO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO ESPECIAL PROVIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
