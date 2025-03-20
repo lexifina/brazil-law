@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 601):
+TRIBUTÁRIO. APELAÇÃO E REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. EXCLUSÃO DO ICMS-DIFAL DA BASE DE CÁLCULO DO PIS E DA COFINS. TEMA 69/STF. COMPENSAÇÃO E RESTITUIÇÃO NA VIA ADMINISTRATIVA. POSSIBILIDADE.
+1. Cinge- se à controvérsia à possibilidade de exclusão do ICMS - Difal da base de cálculo do PIS e da COFINS.
+2. Da mesma forma que o ICMS cobrado nas operações internas, o diferencial de alíquota do ICMS cobrado nas operações interestaduais apenas transita pela contabilidade da empresa até ser recolhido aos cofres estatais. Consequentemente, deve ser excluído também da base de cálculo das contribuições ao PIS e à COFINS, com fundamento na decisão do Supremo Tribunal Federal proferida no RE 574.706 (tema 69).
+3. Ressalte-se que essa E. Terceira Turma Especializada analisou a matéria na Apelação e Remessa Necessária n. 5029281.09.2021.4.02.5101/RJ, de relatoria do Desembargador Federal Willian Douglas, julgado por unanimidade, no qual se concluiu pela aplicação do Tema 69 do STF ao ICMS- Difal, excluindo-o da base de cálculo do PIS e da COFINS.
+4. No caso concreto, considerando que se aplica o mesmo raciocínio fixado no RE 574.706/PR e Tema 69 do STF para fins de exclusão do ICMS - Difal e que o mandado de segurança foi impetrado após 15-03-2017, o contribuinte somente poderá realizar a compensação de valores indevidamente vertidos a esse título a partir de 16-03-2017, em consonância com a modulação dos efeitos da decisão realizada pelo STF.
+5. A compensação deferida em sede mandado de segurança deve ser realizada na seara administrativa, após o trânsito em julgado, nos termos do art. 170-A do CTN, inexistindo óbice também a restituição, desde que ocorra na via administrativa.
+6. No tocante ao critério de apuração, o Supremo Tribunal Federal, em embargos de declaração, assentou que o valor do ICMS a ser excluído da base de cálculo do PIS e da COFINS é o destacado nas notas fiscais de saída das mercadorias do estabelecimento, inclusive após o advento da lei nº 12.973/2014.
+7. Remessa necessária conhecida e desprovida. Apelação conhecida e desprovida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 639/643).
+Sustenta a Fazenda Nacional, em essência, que o acórdão recorrido "violou o art. 485, VI, do CPC, art 1.022, II, c/c art. 489, § 1º, Inciso IV, do CPC, o art. 1º, § 3º, III, da Lei 10.637/2002, o art. 1º, § 3º, III, da Lei 10.833/2002, art. 6º, caput e § 1º, da Lei Complementar 87/96, art. 2º da Lei 9.715/1998, arts. 2º e 3º da Lei 9.718/1998, o art. 2º da Lei Complementar nº 70/1991, o art. 12, § 5º, do Decreto-Lei 1.598/1977, com a redação dada pela Lei 12.973/2014, Cláusula Segunda, § 1º, do Convênio ICMS 93/15" (e-STJ fl. 660).
+Contrarrazões ao recurso especial (e-STJ fls. 703/712).
+O Ministério Público Federal opina pelo não conhecimento do recurso especial (e-STJ fls. 834/839).
+Passo a decidir.
+Os autos versam sobre mandado de segurança impetrado pela ora recorrida, com a finalidade de excluir o ICMS-DIFAL da base de cálculo da Contribuição ao PIS e à COFINS, e de compensar os valores recolhidos indevidamente.
+O Tribunal de origem manteve a sentença que concedera a ordem.
+Quanto à alegada ausência de prestação jurisdicional, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimen to, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater, um a um, todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgInt no REsp n. 1.646.468/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/04/2020, DJe 24/04/2020; e AgInt no AREsp n. 1.604.913/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 14/03/2022, DJe 17/03/2022.
+Do que se observa, a conclusão perfilhada no acórdão recorrido está de acordo com a orientação jurisprudencial desta Primeira Turma que, no julgamento do RESP n. 2.128.785/RS, adotou o entendimento de que o ICMS-DIFAL não compõe a base de cálculo da contribuição ao PIS e à COFINS.
+É o que se extrai da ementa do referido julgado:
+TRIBUTÁRIO. PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 927 DO CPC/2015. NÃO OCORRÊNCIA. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS (ICMS). DIFERENCIAL DE ALÍQUOTAS (DIFAL). INCLUSÃO NAS BASES DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. IMPOSSIBILIDADE. DIREITO À COMPENSAÇÃO. RECURSO ESPECIAL PROVIDO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade ou deficiência de fundamentação.
+II - O ICMS-DIFAL é mera sistemática de cálculo de um único imposto - o ICMS-, com idênticos aspectos material, espacial, temporal e pessoal, diferenciando-se, tão somente, quanto ao aspecto quantitativo, mais precisamente, quanto ao incremento de alíquota a ser considerado para o cálculo do valor devido pelo contribuinte e do ulterior direcionamento do respectivo produto da arrecadação.
+Assim, aplica-se a ele as mesmas teses fixadas nos Temas n. 69/STF e 1.125/STJ.
+III - O diferencial de alíquotas do ICMS (DIFAL) não integra as bases de cálculo da contribuição para o PIS e da COFINS.
+IV - Tratando-se de mandado de segurança impetrado com vista a declarar o direito à compensação tributária, é suficiente a comprovação de que o impetrante ocupa a posição de credor tributário, porquanto os comprovantes de recolhimento indevido do tribuno serão exigidos posteriormente, na esfera administrativa, quando o procedimento de compensação for submetido à verificação pelo Fisco. Precedente.
+V - Recurso Especial provido.
+(REsp n. 2.128.785/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/11/2024, DJe de 19/11/2024.)
+Incide, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos fundados na alínea "c" quanto aos na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
