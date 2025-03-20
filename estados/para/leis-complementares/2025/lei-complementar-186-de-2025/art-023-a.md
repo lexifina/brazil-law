@@ -1,0 +1,2 @@
+Art. 23-A. As atividades dos servidores da administração tributária do Estado do Pará poderão ser executadas à distância, em local diverso das dependências físicas da unidade de trabalho de lotação do servidor, de forma remota, na modalidade de trabalho híbrido.
+Parágrafo único. As atividades executadas na modalidade de trabalho híbrido de que trata o caput deste artigo serão regulamentadas em ato do Secretário da Fazenda.

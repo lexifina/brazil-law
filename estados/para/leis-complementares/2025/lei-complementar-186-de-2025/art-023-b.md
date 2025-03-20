@@ -1,0 +1,2 @@
+Art. 23-B. As atividades dos servidores da Administração Tributária do Estado do Pará em unidades de funcionamento ininterrupto (24 horas por dia, 7 dias por semana), executadas em escalas de revezamento, cumprirão, no somatório dos plantões trabalhados, carga horária equivalente à estabelecida para atividades desenvolvidas em regime regular.
+Parágrafo único. As atividades executadas na modalidade de escalas de revezamento de que trata o caput deste artigo serão regulamentadas em ato do Secretário da Fazenda.
