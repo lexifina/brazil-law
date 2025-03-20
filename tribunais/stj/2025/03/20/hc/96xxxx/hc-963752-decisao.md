@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOSE RENATO DE ANDRADE MARTINEZ - condenado pela prática do crime do art. 129, § 2º, IV, do Código Penal, à pena de 3 anos, 1 mês e 15 dias de reclusão, em regime inicial aberto, mais 15 dias-multa -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n. 0028127-41.2013.8.26.0050), não comporta conhecimento.
+Com efeito, busca o impetrante o reconhecimento da competência da Justiça Federal para a análise do caso, a exemplo do que ficou decidido por esta Casa no RHC n. 110.733/RJ. Alega-se que, no citado precedente, ficou decidido que a Justiça Federal é a competente para julgar delitos cometidos por brasileiros no exterior (fl. 8); e que, como o paciente foi julgado pela Justiça Estadual,  ..  a incompetência in casu deve ser reconhecida (fl. 13).
+Ocorre que, pelo que se extrai do acórdão de fls. 68/73, esta impetração foi ajuizada concomitantemente à interposição de agravo contra a decisão que inadmitiu o recurso especial interposto pela defesa, configurando, além de ofensa ao princípio da unirrecorribilidade, utilização abusiva do writ, o que torna inadmissível a apreciação do pedido.
+Ademais, o Tribunal a quo não se manifestou sobre a questão arguida - até porque suscitada, em inovação recursal, apenas nos embargos declaratórios opostos ao julgamento da apelação -, o que impede o exame da matéria diretamente por esta Corte, sob pena de indevida supressão de instância. Vale destacar que, ainda que se trate de matéria de ordem pública, é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC n. 810.313/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/6/2023).
+Pelo exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ART. 129, § 2º, IV, DO CP. CRIME PRATICADO POR BRASILEIRO CONTRA BRASILEIRO NO ESTRANGEIRO. ALEGAÇÃO DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. IMPETRAÇÃO SIMULTÂNEA A AGR AVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE ENFRENTAMENTO DA MATÉRIA NO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Writ não conhecido.
