@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GILMAR PEREIRA CALMOS contra decisão de Desembargador do Tribunal de Justiça do Estado de Minas Gerais, proferida nos autos de n. 1.0000.25.076342-2/000.
+Consta dos autos, no essencial, que o ora paciente, sua mãe e duas irmãs foram presos em flagrante e denunciados pelo aparente homicídio da filha do padrasto (companheiro da mãe, acamado em função de problemas de saúde), perpetrado em retaliação a questionamentos sobre a gestão do patrimônio do genitor e seguido pela ocultação do cadáver em cisterna na residência dos algozes.
+O relator do feito perante o segundo grau de jurisdição fez constar que a prisão preventiva foi decretada, "ao que parece" (sic), em 29/8/2024 (e-STJ fl. 12), indicando a numeração de folhas daquele documento, e ponderou que aguardar as informações a serem prestadas pelo juízo de primeiro grau seria mais apropriado do que examinar a pretensão liminarmente, especialmente diante da constatação de que havia tanto fumus commissi delicti quanto periculum libertatis.
+A defesa alega, em síntese, que a prisão em flagrante foi convertida em preventiva sem decisão escrita e fundamentada, revelando-se absolutamente nula. Por essa razão, afirma também não haveria falar em deficiência na instrução do feito, dado que a ausência do decisum é a própria razão de ser da impetração.
+Em liminar e no mérito, pede que a custódia processual seja relaxada.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas co rpus contra decisão que indefere liminar na instância de origem: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso destes autos, absolutamente não se pode reconhecer teratologia ou ilegalidade manifesta que autorize a superação do entendimento sumulado, na medida em que a ausência das informações solicitadas pelo relator ao juízo de primeiro grau impede examinar a tese de defensiva de que o réu teria sido preso preventivamente sem decisão escrita e fundamentada (e-STJ fl. 13):
+O pedido liminar não pode ser deferido, porque, em análise perfunctória dos autos, vislumbro, por ora, a presença do fumus comissi delicti e do periculum libertatis, sendo conveniente que se colha as informações da autoridade coatora antes de qualquer outra manifestação deste julgador.
+A necessidade de plena compreensão da controvérsia é ainda maior diante da constatação, registrada no ato ora apontado como coator, de que estão presentes os requisitos do fumus commissi delicti e do periculum libertatis.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
+EMENTA
