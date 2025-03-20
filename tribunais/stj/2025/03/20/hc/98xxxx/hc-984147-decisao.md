@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ EVERALDO ARAÚJO FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada pela suposta prática dos crimes de furto qualificado, mediante fraude e extorsão em concurso de agentes.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente, denegando a ordem em acórdão de fls. 27-38.
+No presente writ, alega a defesa que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, ponderando suas condições pessoais favoráveis.
+Aduz a ilegalidade do reconhecimento pessoal fotográfico.
+Sustenta, ainda, o excesso de prazo para a formação da culpa.
+Requer a revogação da prisão preventiva ou sua substituição por cautelar diversa.
+Liminar indeferida às fls. 173-174.
+Informações prestadas às fls. 180-183 e 184-189.
+O Ministério Público Federal em parecer, às fls. 193-199, manifestou-se pela denegação da ordem.
+É o relatório. DECIDO.
+Na presente hipótese dos autos, verifica-se que o decreto encontra-se concretamente fundamentado para a garantia da ordem pública, em razão da gravidade concreta das condutas atribuídas ao paciente, haja vista, que o acusado praticou, em tese, o crime de furto, mediante fraude e concurso de agentes, de forma premeditada e com ousadia, ludibriando a primeira vítima idosa, bem como o delito de extorsão, mediante concurso de agentes, grave ameaça e restrição da liberdade da segunda vítima, também idosa, obtendo para si através das ações criminosas a quantia de R$ 23.000,00 (vinte e três mil reais)" - fl. 32, circunstâncias aptas a justificar a segregação cautelar.
+A propósito:
+"A jurisprudência do STJ confirma que a gravidade concreta da conduta e a periculosidade do agente justificam a custódia cautelar, para a garantia da ordem pública (HC n. 820.766/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 16/12/2024).
+"A gravidade concreta do crime praticado, especialmente quando há violência ou grave ameaça no modus operandi empregado, é fundamentação idônea e apta a justificar a segregação cautelar" (AgRg no RHC n. 204.085/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+No mesmo sentido: AgRg no HC n. 879.603/SC, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 17/2/2025 e AgRg no RHC n. 206.065/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 9/12/2024.
+Destacou, ainda, a decisão que decretou a segregação cautelar que o acusado responde a outros processos no Estado de Sergipe, na qual consta a informação de três mandados de prisão expedidos e cumpridos por processos diferentes em seu nome, circunstância que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa - fl. 31.
+A propósito:
+"Justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública"(AgRg no HC n. 916.246/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 16/8/2024).
+Nesse sentido: AgRg no HC n. 917.567/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/8/2024; AgRg no AREsp n. 2.451.465/PR, de minha relatoria, Quinta Turma, DJe de 13/8/2024 e AgRg no RHC n. 194.155/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/7/2024.
+Conforme a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Outrossim, a existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos que autorizem a sua imposição.
+Quanto a alegação de nulidade decorrente do reconhecimento pessoal fotográfico, tenho que melhor sorte não socorre à defesa.
+In casu, verifica-se que o reconhecimento fotográfico realizado na fase inquisitorial foi lastreado em outras provas, a saber, o reconhecimento da vítima em sede policial, bem como o depoimento dos policiais e imagens de circuito de segurança, fatores que afastam a ilegalidade apontada pela defesa - fl. 36.
+Sobre o tema:
+"No caso, há outras provas além do reconhecimento fotográfico realizado, como as próprias prisões em flagrante dos réus em posse da res furtiva e o modus operandi do delito, a indicarem a legalidade da exasperação da pena, motivos pelos quais não comporta conhecimento a ordem, ante a ausência de flagrante ilegalidade.
+3. No mesmo sentido o parecer do representante do Ministério Público Federal, para quem "não merece reparos a decisão que demonstrou a ausência dos requisitos para a provimento do pedido, tendo em vista que a condenação dos ora pacientes não encontrou esteio apenas em seu reconhecimento pessoal, mas em outros elementos de convicção independentes. Ademais disso, o Habeas Corpus não é meio processual idôneo para rediscutir a convicção do Tribunal Impetrado acerca da suficiência dos elementos de prova para a condenação"(AgRg no HC n. 752.662/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+De mais a mais, "a jurisprudência desta Corte entende que a revisão do acervo probatório em habeas corpus é incabível, sendo necessário um flagrante constrangimento ilegal para que a ordem seja concedida" (HC n. 867.816/SE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 23/12/2024).
+Quanto ao excesso de prazo para a formação da culpa, da leitura do acórdão recorrido verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+Nesse sentido:
+"Os temas atinentes à prisão domiciliar, por ser pai de criança menor de 12 anos de idade, e ao excesso de prazo não foram, especificamente, analisados pela Corte de origem no ato apontado como coator, evidenciando-se a ausência de "causa julgada" a justificar a inauguração da competência do Superior Tribunal de Justiça. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância" (AgRg no RHC n. 206.657/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 23/12/2024).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
