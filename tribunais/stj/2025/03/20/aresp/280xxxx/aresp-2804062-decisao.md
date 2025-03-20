@@ -1,0 +1,39 @@
+DECISÃO
+ANTÔNIO JACINTO DE OLIVEIRA JÚNIOR agrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Pernambuco no Recurso em Sentido Estrito n. 0051879-73.2015.8.17.0001, que manteve a pronúncia do réu por homicídio.
+A defesa apontou a violação do art. 25 do CP e 415, IV, do CPP, ao argumento de que o acusado, policial militar, agiu em legítima defesa, "ao reagir a uma crime de roubo de que estava sendo vítima por parte de dois assaltantes armados" (fl. 380). Afirmou: "não se exige uma adequação perfeita, milimetrada, entre ataque e defesa, para se estabelecer a necessidade do meio e a moderação no seu uso" (fl. 381).
+Requereu, ao fim, a absolvição sumária do recorrente.
+O recurso não foi conhecido, em virtude das Súmulas n. 284 do STF e 7 do STJ, o que ensejou esta interposição.
+O Ministério Público Federal opinou pelo não provimento do agravo ou, subsidiariamente, pelo não provimento do recurso especial (fls. 429-433).
+Decido.
+O agravo é tempestivo e impugna adequadamente os fundamentos da decisão recorrida, razão pela qual deve ser conhecido.
+O recurso especial também supera o juízo de admissibilidade, uma vez que a matéria em discussão foi devidamente prequestionada e estão preenchidos os demais requisitos necessários (cabimento, legitimidade, interesse recursal, inexistência de óbices processuais, tempestividade e regularidade formal). Passo, portanto, à análise do mérito.
+A decisão interlocutória de pronúncia é mero juízo de admissibilidade da acusação. Não é exigida, neste momento processual, prova incontroversa da autoria do delito; basta a existência de indícios suficientes de que o réu seja seu autor e a certeza quanto à materialidade do crime.
+Portanto, questões referentes à certeza da autoria e da materialidade do delito deverão ser analisadas pelo Tribunal do Júri, órgão constitucionalmente competente para a análise do mérito de crimes dolosos contra a vida.
+Ademais, quanto à existência de excludente de ilicitude, esta Corte Superior tem o entendimento consolidado de que apenas é cabível a absolvição sumária, no procedimento especial do Tribunal do Júri, quando manifesta a ocorrência de causa excludente de ilicitude, sob pena de violação da competência constitucional dos jurados prevista no art. 5º, XXXVIII, "d", da Constituição Federal.
+Nesse sentido:
+ ..
+2. O reconhecimento da excludente de ilicitude pelo magistrado é medida excepcional, somente cabível quando inequívoca a sua presença.
+3. A existência de dúvida sobre a prática da conduta em legítima defesa demanda juízo de valor que corresponde ao próprio mérito da imputação, cuja análise compete exclusivamente ao Conselho de Sentença.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 907.813/PB, Rel. Ministro Jorge Mussi, 5ª T., DJe 18/11/2016, grifei)
+ ..
+3. Na hipótese de dúvida acerca da legítima defesa durante a fase do judicium accusationis, deve o magistrado submeter à apreciação pelo Tribunal do Júri, sem que isso configure excesso de linguagem.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no REsp n. 1.761.586/CE, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 21/6/2019, destaquei)
+O caso ora em exame não destoa dessa orientação jurisprudencial.
+O réu foi pronunciado pelo crime previsto no art. 121, caput, do CP. Acerca da tese defensiva de que o ora agravante agiu em legítima defesa, o Tribunal de origem assim se manifestou (fls. 356-358, destaquei):
+No caso dos autos, a materialidade do delito restou suficientemente comprovada pelos documentos anexados aos autos (ID n. 34680310 a 34680321), com destaque para a Perícia Tanatoscópica de ID n.34680231, assim como o indício de autoria do fato ficou evidenciado, principalmente, por meio do próprio recorrente, que confirmou a prática do crime, contudo, invocou "causa de excludente de antijuridicidade, à título de legítima defesa (ID n. 34680365) e das testemunhas ouvidas, tanto em fase inquisitorial quanto em juízo (ID n. 34674107 e n. 34680311).
+Acrescente-se a isso, as ponderações da d. Procuradoria de Justiça, no Parecer de ID n. 35362909:
+"Aplicando-se a teoria ao caso concreto, tem-se que, das provas documentais produzidas ao longo da instrução, especificamente, da perícia tanatoscópica de ID 34680321, a presença de 07 (sete) disparos de arma de fogo contra a vítima, a curta distância, dos quais 05 (cinco) atingiram as regiões lombar esquerda, dorsal esquerda, subescapular direita, face postero-lateral do terço médio-proximal do antebraço direito e face externa do ombro esquerdo. Perceba-se que, pela letalidade do local da lesão, é possível concluir que o recorrente não se utilizou dos meios necessários e moderados de que dispunha para repelir eventual injusta agressão por parte da vítima. Frise-se, consta dos autos que a vítima se armou com um revólver Calibre .32, enquanto que o respectivo comparsa ficou um pouco afastado, dando-lhe cobertura, foi quando o adolescente (vítima) avistou ANTÔNIO JACINTO, pronunciado, caminhando pela calçada e o abordou, anunciou o assalto, exigiu o cordão de ouro e o relógio, momento em que o policial militar (acusado), que estava de folga com traje civil, sacou uma pistola calibre .40, reagindo à investida e efetuando disparos contra o mencionado assaltante (vítima)".
+De mais a mais, o argumento do pronunciado, de que estava amparado pela legítima defesa, também não logra êxito.
+Ora, como é cediço, a absolvição sumária, na medida em que encerra um julgamento antecipado do mérito da acusação na direção da improcedência da pretensão punitiva do Estado, tem caráter excepcional, sob pena de invasão, também, da competência constitucional do Júri.
+Por isso mesmo, a sua aplicação, nos termos do artigo 415, inciso IV do Código de Processo Penal, depende de prova incontestável, incontroversa e evidente dos fatos e da sua dinâmica, que leve a uma manifesta e irrefutável conclusão que se está diante uma causa excludente de ilicitude, o que não restou demonstrado na instrução.
+Trago à baila que, de acordo com a Denúncia o recorrente "efetuou sete (07) disparos a curta distância contra ALEXSANDRO, dos quais cinco (05) lesionaram as regiões lombar esquerda, dorsal esquerda e subescapular direita, bem como o antebraço direito e o ombro esquerdo, cujos projéteis transfixaram o corpo da vítima. Tendo os outros dois (02) tiros atingido de raspão nas regiões supraescapular direita e esquerda do mencionado adolescente, o qual não resistiu à gravidade e sede das lesões e veio a óbito em plena via pública", o que afastaria, de início, a tese da excludente da legítima defesa, razão pela qual a decisão recorrida deve ser mantida.
+ ..
+Ademais, relembre-se que o mérito da acusação, condenando ou absolvendo o réu, cabe ao Júri, na fase do judicium causae, a quem toca a análise aprofundada, crítica e valorativa da prova colhida durante a instrução criminal.
+No caso analisado, a Corte de origem não acolheu a tese de legítima defesa, pois as circunstâncias fáticas em que o delito supostamente foi praticado não demonstram, de forma inequívoca, que o réu agiu estritamente dentro dos limites da excludente de ilicitude. A quantidade de disparos efetuados a curta distância (sete) e a localização das lesões na vítima (lombar esquerda, subescapular direita, antebraço direito e ombro) evidenciam a necessidade de um exame mais aprofundado pelo Tribunal do Júri, notadamente sobre a moderação dos meios empregados na reação do acusado.
+Diante dessas circunstâncias, não é cabível a absolvição do réu, neste momento processual, de forma que a a tese defensiva deve ser submetida ao Conselho de Sentença, a quem compete decidir, soberanamente, sobre a configuração ou não da excludente de ilicitude.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
