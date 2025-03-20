@@ -1,0 +1,10 @@
+DECISÃO
+Em análise dos autos, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, foi julgada no Tema n. 923/STJ:
+Até o trânsito em julgado das Ações Civis Públicas n. 5004891-93.2011.4004.7000 e n. 2001.70.00.019188-2, em tramitação na Vara Federal Ambiental, Agrária e Residual de Curitiba, atinentes à macrolide geradora de processos multitudinários em razão de suposta exposição à contaminação ambiental decorrente da exploração de jazida de chumbo no Município de Adrianópolis-PR, deverão ficar suspensas as ações individuais. (REsp n. 1.525.327/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 12/12/2018, DJe de 1/3/2019).
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem ser submetidos a juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso siga o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
