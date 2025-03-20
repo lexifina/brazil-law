@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DE SÃO PAULO, FAZENDA DO ESTADO DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu recurso especial dirigido contra o acórdão prolatado no Agravo de Instrumento n. 3006150-43.2023.8.26.000, assim ementado (fl. 51):
+AGRAVO DE INSTRUMENTO. Cumprimento de Sentença. Servidores públicos estaduais. Diferenças de quinquênios. Conflito entre coisas julgadas. Prevalência da mais recente. Precedentes de Superior Tribunal de Justiça. Em relação à exequente Tereza Ferrari, prevalece a coisa julgada constituída em 15-02-2022, processo 0021617-37.2012.8.26.0053, cumprimento de sentença 0001902-67.2016.8.26.0053. Informes oficiais para elaboração dos cálculos. Dever do Estado. Código de Processo Civil, artigo 524, § 3º, também aplicável à Fazenda Pública. Cabimento da multa para estimular o cumprimento da obrigação, sem motivo para afastar ou reduzir. Cumpre, no entanto, fixar prazo razoável para execução do preceito, conforme Código de Processo Civil, artigo 537, "caput", concedendo-se trinta dias para que o Estado apresente os informes dos servidores vinculados à Secretaria da Fazenda. Recurso parcialmente provido.
+Os embargos de declaração foram acolhidos, sem efeitos modificativos (fls. 65-66).
+Nas razões do apelo nobre, interposto com fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante alega violação dos arts. 509, § 2º, e 524, §§ 3º, 4º e 5º, do CPC, sustentando a possibilidade de os servidores conseguirem acesso às informações para cálculos de liquidação, realizados por simples operação aritmética, sem a necessidade da elaboração de planilha com tais dados pela Administração Pública.
+Menciona, ainda, ofensa ao art. 489, § 1º, do CPC, argumentando a ausência de observância de precedente vinculante, especificamente, o Tema n. 880 do STJ.
+Requer, assim, o provimento do recurso especial (fls. 71-84).
+Apresentadas contrarrazões ao recurso especial (fls. 101-110).
+No exame de admissibilidade na origem, o apelo nobre não foi inadmitido por estar o acórdão recorrido de acordo com os ditames do art. 489 do CPC e pela incidência do óbice da Súmula n. 7 do STJ, por impossibilidade de análise do conjunto fático-probatório (fls. 111-112).
+Razões do agravo em recurso especial (fls. 118-128).
+Apresentada contraminuta ao agravo em recurso especial (fls. 138-142).
+É o relatório.
+Decido.
+Constatadas as condições para o conhecimento do agravo, passo à análise do recurso especial.
+Na origem, agravo de instrumento, com efeito suspensivo, interposto pela Fazenda Pública do Estado de São Paulo contra Cleide Paschoal de Toledo e outros, visando o reconhecimento da desnecessidade de apresentação de informes por parte da Administração ou, subsidiariamente, que o valor da multa diária seja reduzido, fixado valor máximo para sua incidência, e reconhecido que o termo inicial é o fim do prazo concedido para cumprimento da obrigação.
+De início, quanto à controvérsia levantada acerca da aplicação de precedente vinculante (Tema n. 880 do STJ), verifica-se que, apesar da interposição de embargos de declaração, o recorrente não suscitou tais questões no recurso, já que estas não foram analisadas sob o viés pretendido no acórdão recorrido.
+Assim, incidem os óbices das Súmulas n. 282 do STF e n. 356 do STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. IMPOSSIBILIDADE. SÚMULA 519/STJ. ALEGAÇÃO DO EQUÍVOCO NO ACÓRDÃO EMBARGADO. FALTA DE PREQUESTIONAMENTO. INSURGÊNCIA QUE DEMANDA O REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA VEDAÇÃO SUMULAR N. 7 DO STJ.
+ ..
+2. A alegação no sentido de que houve o acolhimento da impugnação ao cumprimento de sentença e de que o acórdão recorrido incorreu em equívoco não foi apreciada pela instância de origem e nem sequer constou dos embargos de declaração opostos perante aquela Corte, de modo que o tema carece do necessário prequestionamento.
+ ..
+4 . Agravo interno não provido. (AgInt no REsp n. 2.072.675/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+LOCAÇÃO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. AFRONTA AO ART. 784, VII, DO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DESCUMPRIMENTO CONTRATUAL. CUMULAÇÃO DE MULTA CONTRATUAL E MULTA A TÍTULO DE AVISO PRÉVIO. MESMO FATO GERADOR. IMPOSSIBILIDADE. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não tenham sido opostos embargos de declaração, a fim de suprir eventual omissão. Ausente o indispensável prequestionamento, aplicando-se, por analogia, a Súmula 356 do STF.
+ ..
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.743.597/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022.)
+Outrossim, entendeu o Tribunal Estadual ser ônus do Estado, ora executado, a apresentação dos informes oficiais necessários à liquidação do julgado, referentes ao recálculo do quinquênio sobre os vencimentos integrais. Contudo, para rever tal entendimento necessário o reexame do conjunto probatório dos autos, inviável na via do recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+A propósito:
+PROCESSO CIVIL. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CÁLCULOS APRESENTADOS DO VALOR COBRADO SEM INFORMAÇÃO DE DADOS OFICIAIS. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No acórdão recorrido ficou consignado: "De fato, não há que se falar em nulidade da execução, vez que inexiste obrigação de fazer consistente na apresentação de planilhas. No caso, o valor da condenação depende de meros cálculos aritméticos, que foram apresentados pelo credor quando do pedido de cumprimento da sentença, nos moldes do artigo 475-B do Código de Processo Penal. Cabia à devedora a impugnação de tais cálculos por meio de embargos à execução. Como é cediço, é a embargante a fonte pagadora dos proventos cujos atrasados ora se pleiteia, de modo que o exequente não possui a obrigação de apresentar os aludidos informes, ônus que cabia à Fazenda Pública".
+2. As conclusões da Corte a quo acerca da apresentação dos informes oficiais decorreram da análise do conjunto fático-probatório carreado aos autos. Assim, o eventual conhecimento do presente Especial, quanto aos pontos elencados no apelo, demandaria o reexame fático-probatório da questão versada nos autos, o que encontra óbice na Súmula 7 do STJ.
+3. Recurso Especial não conhecido. (REsp n. 1.694.438/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2017, DJe de 11/10/2017.)
+Ante o exposto, com fundamento no art. 932 do CPC, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Não tendo sido fixados honorários advocatícios na origem, deixo de aplicar o art. 85, § 11 , do CPC.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SERVIDORES PÚBLICOS ESTADUAIS. DIFERENÇAS DE QUINQUÊNIOS. OBRIGAÇÃO DE FAZER. OFENSA AO ART. 489 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO STF. APRESENTAÇÃO DOS INFORMES DE RENDIMENTOS PARA SUBSÍDIO DOS CÁLCULOS DE LIQUIDAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO SUMULAR N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
