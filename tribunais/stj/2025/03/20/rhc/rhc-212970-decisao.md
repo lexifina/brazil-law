@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por LUIZ FELIPE SANTANA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que denegou o HC n. 0128138-27.2024.8.16.0000 (fls. 108/115) .
+Extrai-se dos autos que o recorrente foi preso em flagrante, em 3 /3/2024, convertida a prisão em preventiva, e denunciado pela suposta prática dos crimes de homicídio qualificado e porte ilegal de arma de fogo de uso restrito (Processo n. 0000651-21.2024.8.16.0147, da comarca da Região Metropolitana de Curitiba - Foro Regional de Almirante Tamandaré/PR ).
+No presente recurso, al ega-se a ausência de fundamentação concreta dos requisitos ensejadores da prisão preventiva, nos termos do art. 312 do CPP; excesso de prazo na instrução criminal; ap ontam-se as condições pessoais favoráveis e a suficiência das medidas cautelares alternativas.
+Requer-se, liminarmente e no mérito, a rev ogação da custódia cautelar.
+É o relatório.
+O recurso n ão merece prosperar.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Quanto aos motivos para a decretação da prisão preventiva, o Juízo de primeiro grau motivou que (fl. 28 - grifo nosso):
+ ..
+Além disso, há relatos no sentido de que o flagranteado teria participado do crime, embora tenha dito que o fez sob a excludente da legítima defesa. Por outro lado, fora surpreendido na posse de armas de fogo e com o corpo da vítima, no interior de veículo, ocasião em que teria dito que rumava para hospital para ser atendido. Logo, tem-se a presença de indícios suficiente de autoria.
+Conforme regramento vigente, a prisão preventiva tem caráter subsidiário, na medida em que somente deve ser utilizada quando não se mostrar eficaz a sua substituição por outra medida cautelar não restritiva da liberdade.
+No caso dos autos, a imprescindibilidade da prisão para garantir a ordem pública, tendo em vista que a vítima - ao que parece - exercia a função Oficial de Justiça, presumindo, portanto, que era bastante conhecida na sociedade de Rio Branco do Sul.
+A cidade acordou de sobressalto com a tragédia, que se encontra veiculada em diversos sites de notícias, conforme acessado nessa oportunidade por meio do buscador Google.
+Além disso, é importante registrar que se trata de suposto parricídio, o que, por si só, é capaz de gerar revolta na população. E no caso, ganha contornos ainda mais dramáticos, tendo em vista foram observadas quatro perfurações no corpo da vítima, sendo 1 NA REGIÃO INFRACLAVICULAR DIREITA, 1 NA REGIÃO PARAESTERNAL DIREITA, 1 NA LINHA AXILAR MÉDIA DIREITA E 1 NA REGIÃO DORSAL NA COLUNA TORÁCICA.
+Ademais, há informações de que suposta arma utilizada "veio a cair antes da abordagem", o que pode indicar, por meio de cognição sumária, tentativa de alterar a dinâmica do fato, o que pode configurar risco à aplicação da lei penal, caso venha a ser prematuramente colocado em liberdade.
+Por fim, este magistrado plantonista não tem conhecimento das peculiaridades da sociedade onde fora praticado o delito, nem mesmo sobre as partes, sendo certo que fo i ventilado a existência testemunha ocular que pode ter informações relevantes, de modo a manutenção a prisão, ao menos, por ora, também tem por objetivo garantir a higidez dessa possível oitiva, sem qualquer influência.
+ ..
+O Tribunal de origem, por sua vez, manteve a custódia sob os seguintes fundamentos (fl. 66 - grifo nosso):
+ ..
+A prisão preventiva do paciente para garantia da ordem LUIZ FELIPE SANTANA pública - como forma de se evitar a reiteração delitiva -, está adequadamente amparada na gravidade concreta do delito e no modus operandi empregado pelo agente, além de suas circunstâncias, reveladores de sua periculosidade.
+A saber, o paciente é acusado de desferir ao menos dois disparos de arma de fogo contra seu próprio pai, idoso, motivado por discussão pretérita, "causando-lhe hemotórax à direita e lesão em artéria aorta torácica".
+Destacou, ainda, o douto magistrado, que a vítima exercia a função de Oficial de Justiça, sendo ba stante conhecido na sociedade de Rio Branco do Sul, o que se depreende, à época, através da repercussão que o fato gerou nos meios de comunicação locais, além de se tratar de suposto parricídio.
+ ..
+Da leitura dos autos verifica-se que a prisão cautelar está devidamente fundamentada na gravidade concreta das condutas e na periculosidade social do recorrente - o qual efetuou disparos de arma de fogo contra o seu próprio pai, idoso, que veio a óbito, ao que parece, decorrente de uma discussão pretérita entre o denunciado e a vítima acerca da condução do veículo automotor Fiat/Uno, placas ARQ-7823 (fl. 10) -, o que dem onstra o risco ao me io social e a necessidade de se garantir a ordem pública.
+Nesse sentido é a jurisprudência do Superior Tribunal de Justiça, que assim decidiu em caso semelhante: in casu, não diviso o alegado constrangimento, pois se observa que a prisão preventiva foi decretada, notadamente, para o resguardo da ordem pública, vulnerada em razão das circunstâncias dos fatos e periculosidade do agente - que, ao que co nsta, efetuou disparos de arma de fogo contra a vítima em virtude de dívida po r agiotagem que não foi paga -, sendo motivação idônea e suficiente para a decretação da custódia (AgRg no HC n. 924.928/SP, de minha relatoria, Sexta Turma, DJe 6/9/2024).
+Veja-se, ainda, o AgRg no RHC n. 182.134/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe 28/9/2023.
+Afora isso, é entendimento desta Casa que as condições favoráveis do recorrente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamen tada; e que é inaplicável medida cautelar alternativa quando as circunstâncias ev idenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+No tocante ao excesso de prazo para a formação da culpa, ao consultar o sítio eletrônico do Tribunal de origem, em 12/3/2025, foi concedida pelo Juízo de primeiro grau vista ao Ministério Público para a apresentação das alegações finais.
+Dessa forma, ocorre a incidência do Enunciado da Súmula 52 desta Corte Superior de Justiça, in verbis: encerra da a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+Ante o exposto, conheço parcialmente do recurso e, com base na jurisprudência, nessa parte, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. PARRICÍDIO. PERICULOSIDADE SOCIAL DO AGENTE. GARANTIA DA ORDEM PÚBLICA. EXCESSO DE PRAZO. SUPERVENIENTE ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. INCIDÊNCIA DA SÚMULA 52/STJ. INEVIDÊNCIA DE MANIFESTA ILEGALIDADE.
+Recurso ordinário conhecido em parte e, nessa extensão, desprovido.
