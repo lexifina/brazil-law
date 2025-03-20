@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LEONARDO CLAUDENIR BENTO, em que se aponta como autoridade coatora a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que indeferiu a liminar no HC n. 5015809-28.2025.8.24.0000.
+Consta dos autos que o paciente foi preso em flagrante no dia 07/03/2025, convertida sua custódia em prisão preventiva, pela suposta prática dos delitos capitulados nos arts. 12 e 16, ambos da Lei n. 10.826/2003.
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, tendo o Desembargador relator indeferido o pedido liminar. (fls. 132/134).
+Neste writ, a Defesa alega que (fl. 06)
+a ilustre autoridade coatora ao indeferir a medida de urgência liminar, incorre no mesmo error in procedendo ao se utilizar de argumentos de outra investigação que não eram objeto da imputação da prisão que sequer estão presentes nos autos para que a defesa pudesse exercer o contraditório e a ampla defesa.
+Afirma ainda que (fl. 08)
+a prisão é lastreada em uma investigação diversa da prisão, cujo documento sequer está nos presentes autos, tratando-se de utilização de prova emprestada sem que a defesa tenha acesso o que configura escancarado cerceamento de defesa, além do que, a r. decisão se limita a apontar materialidade e indícios de autoria, e traz como firmamento da prisão a gravidade abstrata do delito, pois afirma que o porte da arma colocaria em risco a vida de outras pessoas.
+Aduz, também, que o paciente possui todas as condições pessoais favoráveis para responder o processo em liberdade, ou seja, é réu primário, de bons antecedentes, residência fixa e trabalho lícito.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva do paciente, ainda que mediante a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas no art. 319 do Código de Processo Penal.
+É o relatório.
+DECIDO.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Na hipótese, n ão se verifica a existência de ilegalidade flagrante apta a ensejar a concessão da ordem pleiteada, notadamente diante do que consignou o Tribunal primevo, in verbis (fl. 133):
+Ab initio, é preciso pontuar que há previsão expressa no Regimento Interno desta Corte, no sentido de que compete ao requerente justificar na inicial o enquadramento da pretensão às hipóteses previstas no art. 323 do RITJSC.
+Tal formalidade não foi observada pelo ora impetrante.
+Nada obstante, verifico que se trata de prisão em flagrante convertida em preventiva na data de hoje (8-3-2025), por Juíza Plantonista, a denotar a incidência do art. 323, incisos I e III, do RITJSC, observada a urgência exigida pelo § 4º do referido dispositivo.
+Dito isso, passo à análise do pedido liminar.
+O paciente restou preso em flagrante durante o cumprimento de mandado de busca e apreensão expedido nos autos n. 5000916-15.2025.8.24.0523.
+A arma de fogo municiada (pistola Bersa calibre .22 mais 8 munições) foi apreendida no interior do carro do paciente, e, em seu quarto, foram localizadas 50 munições, calibre .357, além de valores em espécie, aproximadamente R$ 17.909,00 e 221 dólares, além de dois celulares e pequena porção de maconha.
+A prisão preventiva foi considerada necessária, nos seguintes termos (doc. 13 do IP n. 5001372-62.2025.8.24.0523. ):
+Provas de materialidade e indícios de autoria decorrem da própria homologação do flagrante. A pena máxima dos delitos é superior a 4 anos de prisão, o que autoriza a decretação da prisão preventiva (CPP, art. 313, I). O fato é contemporâneo e a necessidade da prisão preventiva também, para a garantia da ordem pública . No que diz respeito à garantia da ordem pública, por conta da gravidade da conduta, mas sobretudo porque há fundadas suspeitas que a referida arma tenha sido usada para o cometimento de outros crimes, conforme se infere no relatório de missão policial juntado no evento 1, REL_MISSAO_POLIC3 dos autos da busca e apreensão. Ainda assim, o só fato de estar portando arma de fogo e munições ilegalmente indicam uma situação grave, que coloca em risco a vida de outras pessoas, vez que o conduzido não tem autorização para o porte e a arma não é devidamente registrada. Por tais motivos, neste momento entendo que medidas cautelares alternativas não se mostram suficientemente aptas a assegurar a ordem públic a (evitar reiteração criminal) e, sem prejuízo de reanálise da situação processual do Conduzido se houver alteração das circunstâncias fáticas e/ou jurídicas. Pelo exposto, com base nos arts. 310, II, 312 e 313, I, do CPP, CONVERTO A PRISÃO EM FLAGRANTE DE LEONARDO CLAUDEMIR RIBEIRO, para a garantia da ordem pública.
+De fato, a apreensão de arma de fogo de uso permitido em posse ilegal do paciente, bem como a posse de munição de uso restrito, por si sós, talvez não ensejassem a decretação da custódia cautelar do paciente se tal contexto fosse isolado.
+Contudo, ainda que a defesa apresente argumentos contundentes, não há como desvincular o flagrante do contexto das investigações que tramitam nos autos n. 5000916- 15.2025.8.24.0523, até porque este ocorreu durante cumprimento de mandado de busca e apreensão expedido naqueles autos.
+Ainda que se esteja diante de situação bastante controversa entre os comerciantes da região, houve a imputação, por mais de uma vítima, do delito de extorsão e possível envolvimento com organização criminosa de diversos agentes, sendo o paciente apontado como um dos mais ativos na vigilância e ameaças dos comerciantes com quem quer evitar concorrência.
+Tais fatos são alarmantes e denotam maior cautela judicial, sob pena de haver represálias maiores às vítimas, diante do contexto de intensas ameaças que já estão submetidas.
+Dessa forma, em primeira análise, entendo que a custódia se faz indispensável para garantir a ordem pública, consubstanciada, especialmente, na segurança e integridade física dos denunciantes.
+Logo, como não é possível concluir, de imediato, que há ilegalidade que deva ser sanada ab initio, INDEFIRO o pleito de concessão liminar da ordem.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+ EMENTA
