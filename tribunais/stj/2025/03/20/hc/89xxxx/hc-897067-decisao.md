@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO em favor de AUTIELLE MICKAEL RULLI contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Na inicial, a impetração narrou que, em primeira instância (fls. 10/14), o paciente foi condenado a 2 (dois) anos e 4 (quatro) meses de reclusão, em regime aberto, e a 11 (onze) dias-multa, pela prática do crime de falso testemunho (art. 342, § 1º, do Código Penal).
+Apontou que, interposto recurso de apelação pela defesa, o Tribunal de Justiça de São Paulo lhe negou provimento (fls. 15/20).
+Nas razões desta impetração, argumentou que houve violação do princípio da correlação, porque o juiz reconheceu a majorante do § 1º do art. 342 do Código Penal, sob o fundamento de que o crime teria sido praticado para produzir efeito em processo penal, mas essa circunstância não foi narrada na denúncia. Alegou que, mesmo se tivesse sido narrada, o falso testemunho teria sido prestado em inquérito policial e não em processo penal, a tornar indevida a causa de aumento. Pediu, assim, a redução da pena.
+Prestadas as informações (fls. 32/46 e 47/50), o Ministério Público Federal opinou pela denegação da ordem (fls. 1046/1052).
+É o relatório. DECIDO.
+A impetração investe contra acórdão proferido em apelação criminal. Substitui, pois, recurso próprio, o que lhe inviabiliza o conhecimento.
+A 3ª Seção, no HC 535.063/SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, o que ora se verifica.
+A denúncia (fls. 3/6) registra que o crime teria sido praticado mediante suborno, a atrair a majorante do art. 342, § 1º, do Código Penal.
+Essa majorante, porém, foi afastada pela sentença (fls. 10/14), na medida em que concluiu pela ausência de prova sobre o fato que a embasou.
+Em relação à majorante do crime praticado para produzir prova em processo penal, fundamentou o acórdão impugnado (fls. 15/20):
+" ..  o crime de falso testemunho foi praticado em inquérito policial, instaurado para investigar crime, com isso, sabendo-se desde então, que a investigação visava produzir prova em processo penal.
+O réu defende-se do fato descrito na denúncia e, basta a simples leitura para se constatar sua regularidade quanto a descrição referente à produção de prova em processo penal, não constituindo uma armadilha".
+Entretanto, observa-se que a majorante de crime praticado para produzir efeito em processo penal não foi descrita expressamente na inicial.
+A denúncia descreve que o depoimento falso foi, realmente, prestado em inquérito policial. Não faz menção, porém, de que o teria sido prestado em processo penal.
+Acrescente-se que o caput do art. 342 do Código Penal indica que é típico o comportamento quando praticado no inquérito policial. No § 1º, de forma independente, consta causa de aumento de pena para quem o faz no processo penal, a conferir tratamento diferente e mais rigoroso a essa hipótese.
+A esse respeito (Nucci, Guilherme de Souza. Código penal comentado - 13. ed. rev., atual. e ampl. - São Paulo:Editora Revista dos Tribunais, 2013):
+" ..  o caput do artigo já inclui, expressamente, o inquérito policial, não podendo, naturalmente, a figura do §1º, que contém causa de aumento, abrange-lo novamente. Seria um despropósito. Afinal, indagar-se-ia: se o falso é cometido no inquérito policial - que se destina, unicamente, a servir de preparo para o processo penal -, responde o agente pela figura simples do caput ou pela específica do parágrafo  Obviamente, por exclusão e dentro da lógica, ao inquérito policial, constituindo mero procedimento administrativo, reserva-se o falso testemunho simples (caput), enquanto para o processo judicial penal aplica-se a figura específica do § 1º.
+ ..
+Aliás, é razoável supor que um falso prestado no inquérito policial, cujo destino primordial é formar a convicção do Ministério Público para o oferecimento de denúncia, não possa ter a mesma força que o falso competido diante do juiz criminal, que irá, efetivamente, julgar a causa".
+Por isso, embora não se ignore que, a rigor, quem levanta falso testemunho em inquérito policial assim o faz para, depois, produzir prova em processo penal - ou, pior, para evitar que este seja instaurado -, leitura conjugada de todo o art. 342 do Código Penal não recomenda o desfecho a que chegou o ato questionado.
+Dito de outro modo, mesmo à vista do art. 383, caput, do Código de Processo Penal, não se visualiza a descrição da causa de aumento do § 1º do art. 342 do Código Penal, na modalidade "cometido com o fim de obter prova destinada a produzir efeito em processo penal".
+Ante o exposto, não conheço do habeas corpus, concedendo, de ofício, porém, a ordem para afastar a majorante do art. 342, § 1º, do Código Penal, mantendo a condenação na forma simples (art. 342, caput, do Código Penal), com pena definitiva de 2 (dois) anos de reclusão e 10 (dez) dias-multa.
+Publique-se. Intimem -se.
+EMENTA
