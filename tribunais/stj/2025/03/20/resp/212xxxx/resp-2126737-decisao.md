@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, recurso especial interposto por RAIZEN ENERGIA S.A contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 701):
+Execução fiscal. Extinção determinada em embargos do devedor. Verba honorária. Fixação única. Viabilidade. Entendimento no E. Superior Tribunal de Justiça. Recurso desprovido.
+Os embargos de declaração foram rejeitados (fls. 718-721).
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, a parte recorrente aponta violação ao art. 85, §§ 2º ao 5º, e 8º, do CPC. Sustenta, em resumo, que em razão da autonomia das demandas, os honorários advocatícios são devidos tanto na execução fiscal quanto nos respectivos embargos.
+Contrarrazões apresentadas às fls. 764-769.
+É o relatório.
+Passo a decidir.
+Na origem, a Corte regional entendeu não ser cabível a fixação da verba honorária nos autos da execução fiscal com amparo nos seguintes fundamentos (fl. 702):
+Análise dos embargos do devedor revela julgamento conjunto dos feitos conexos, pois, procedentes os embargos e declarada a nulidade da CDA nº 1.093.270.831, objeto do auto de infração e imposição de multa nº 3.111.624-3, por intermédio do mesmo ato judicial também se determinou a extinção da execução fiscal, nos termos do art. 924, III, do CPC, com a subsequente e pertinente fixação da verba honorária devida pela sucumbência, analisado, por óbvio, situação de tratar-se de remuneração apta a atender o trabalho desenvolvimento em ambas as ações.
+No julgamento dos embargos de declaração, o Tribunal de origem consignou expressamente que (fls. 719-720):
+Sobre o alegado equívoco acerca de entendimento de que teria ocorrido a fixação única da verba honorária sucumbencial no julgamento dos embargos à execução, ponderou-se no julgamento, de maneira expressa, sobre ocorrência de julgamento conjunto dos feitos conexos, porquanto, procedentes os embargos e declarada a nulidade da CDA nº 1.093.270.831, objeto do auto de infração e imposição de multa nº 3.111.624-3, também o mesmo ato judicial determinou extinção da execução fiscal, nos termos do art. 924, III, do CPC, vale repetir, com a subsequente e pertinente fixação da verba honorária devida pela sucumbência ante análise, no caso concreto, de ser situação em que a remuneração se mostrou apta a atender o trabalho desenvolvido em ambas as ações.
+O acórdão recorrido não merece reparos.
+Como bem colocado pelo Tribunal de origem, malgrado o entendimento consolidado pelo Superior Tribunal de Justiça no julgamento do Recurso Repetitivo 1.520.710/SC (Tema 587), quanto à possibilidade de cumulação da verba honorária fixada na execução com a arbitrada nos respectivos embargos, não há óbice à fixação única, desde que se estipule que o valor arbitrado servirá a ambas as ações, como no presente caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489, 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. AÇÕES AUTÔNOMAS, MAS DEPENDENTES. AUTONOMIA QUE NÃO É ABSOLUTA. POSSIBILIDADE DE FIXAÇÃO ÚNICA. CASO DOS AUTOS. PRECEDENTES.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/15.
+2. A Corte Especial do STJ, no julgamento do REsp n. 1.520.710/SC, relator Ministro Mauro Campbell Marques, DJe 27/02/2019, submetido à sistemática dos recursos repetitivos, definiu que, os embargos do devedor constituem ação de conhecimento incidental, que não se confunde com a ação de execução, razão porque os honorários advocatícios podem ser fixados de forma autônoma e independente em cada uma das referidas ações. Precedentes.
+3. Agravo interno não provido (AgInt nos EDcl no REsp n. 2.079.639/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/11/2023, DJe de 30/11/2023).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. EMBARGOS À EXECUÇÃO. ARBITRAMENTO ÚNICO. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Nos termos do entendimento firmado no âmbito desta Corte de Justiça, "Nas hipóteses de procedência parcial ou integral dos embargos, é possível a fixação única dos honorários no julgamento dos embargos, desde que se estipule que o valor fixado atenda à execução e aos embargos e a soma dos percentuais obedeça aos limites fixados na legislação" (AgInt no AgInt no REsp n. 1.845.359/PR, relator Ministro Humberto Martins, Segunda Turma, julgado em 17/4/2023, DJe de 19/4/2023).
+2. Tendo o acórdão afirmado expressamente a suficiência dos valores arbitrados a título de honorários advocatícios, é certo que a alteração das premissas demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no REsp n. 2.078.413/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/10/2023, DJe de 6/11/2023).
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
