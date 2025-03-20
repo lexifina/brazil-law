@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial no qual a DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, se insurgiu, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. SAÚDE. HONORÁRIOS. DEFENSORIA PÚBLICA. CABIMENTO. TEMA 1002 DO SUPREMO TRIBUNAL FEDERAL. ARBITRAMENTO POR EQUIDADE. POSSIBILIDADE.
+1. No julgamento do RE 1.140.005, Tema 1002, o Excelso Supremo Tribunal Federal estabeleceu a viabilidade do pagamento de honorários sucumbenciais à Defensoria Pública quando esta atua como a parte vencedora em uma ação movida contra qualquer ente público, incluindo aqueles que fazem parte desse ente.
+2. O Colendo Superior Tribunal de Justiça reiteradamente sustenta que, em ações que buscam a prestação de tratamento médico pelo Estado, a determinação dos honorários advocatícios deve seguir o princípio da equidade, conforme estipulado no § 8º do artigo 85 do Código de Processo Civil, em vista da dificuldade de quantificar o benefício econômico decorrente da ação.
+APELAÇÃO CÍVEL CONHECIDA E PROVIDA.
+É o relatório.
+A questão debatida nos autos, qual seja, "saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do C PC) ", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.313), dos REsp"s 2.169.102/AL e 2.166.690/RN, de relatoria da Ministra MARIA THEREZA DE ASSIS MOURA.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
