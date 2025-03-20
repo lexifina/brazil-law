@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial no qual CRISTIANO PEREIRA DA ROCHA, representado pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS, se insurgiu, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AÇÃO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAÇÃO. FALECIMENTO DA PARTE DURANTE A DISPENSAÇÃO DO TRATAMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA EM FAVOR DO FUNDO DE APARELHAMENTO DA DEFENSORIA PÚBLICA. ARBITRAMENTO NA FORMA EQUITATIVA. SENTENÇA PARCIALMENTE REFORMADA.
+I. A mudança do nomen juris e natureza jurídica da ação na sentença, sem justificativa razoável e com consequências negativas para um dos integrantes da relação processual, constitui cerceamento de defesa. E a irregularidade deve ser corrigida com a reforma da sentença para que a demanda volte à sua denominação originária, eleita pelo autor.
+II. Consolidado o entendimento jurisprudencial no sentido de que a Defensoria Pública, nos processos nos quais se sagra vencedora, faz jus a honorários advocatícios para aparelhamento da instituição.
+III. Nas demandas em que se busca a tutela do direito à saúde, deve ser observado o §8º, do artigo 85, do Código de Processo Cível, e fixar a verba honorária por equidade, uma vez constatado nos autos que o proveito econômico é inestimável.
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL CONHECIDAS E PARCIALMENTE PROVIDAS.
+É o relatório.
+A questão debatida nos autos, qual seja, "saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do C PC) ", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.313), dos REsp"s 2.169.102/AL e 2.166.690/RN, de relatoria da Ministra MARIA THEREZA DE ASSIS MOURA.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
