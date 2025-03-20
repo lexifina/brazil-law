@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JOAO VICTOR LEAL SANTANA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente teve a prisão preventiva decretada, pela suposta prática das condutas de tráfico de drogas e associação para o tráfico de drogas. Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem. A ordem foi denegada pela Corte local, em acórdão (fls. 12-18).
+Neste writ, a Defesa alega, em linhas gerais, a existência de constrangimento ilegal consubstanciado no encarceramento provisório do Paciente, apontando a ocorrência de excesso de prazo.
+Aduz que:
+- .. JOÃO permanece preso aguardando seu julgamento em virtude da morosidade da máquina judiciária, é flagrante a inexistência da duração razoável do processo. O paciente, que está preso desde 17 DE SETEMBRO DE 2024, não pode ter seus direitos suprimidos e prejudicados pois isso acarretaria em antecipação do cumprimento de pena- (fl. 7).
+Requer:
+a) Ante o exposto, requer que seja concedida a ordem de habeas corpus, liminarmente, em favor do paciente, uma vez que presentes o periculum in mora e o fumus boni iuris, requer seja INTIMADO O AGENTE COATOR PARA PROFERIR SENTENÇA, no prazo de 48hrs, ante o EXCESSO DE PRAZO presente nos autos;
+b) Caso não seja cumprida a liminar, requer a revogação da prisão preventiva dos pacientes, visto que as elementares que disciplinam a referida prisão não subsistem, uma vez que há extrema morosidade em conceder o devido julgamento a eles;
+c) Requer ainda o regular prosseguimento do feito com a ratificação da liminar concedida. (fl. 11).
+É  o  relatório. DECIDO.
+No que tange ao excesso de prazo aventado, deve se ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.
+Na hipótese, em que pese a Defesa alegar excesso de prazo, não verifico a ocorrência de demora exacerbada a configurar o constrangimento ilegal suscitado, considerando as particularidades da causa, na qual se apura as condutas de tráfico de drogas e associação para o tráfico de drogas atribuídas à pluralidade de pessoas, 3 (três) réus; não se evidenciado a existência de desídia atribuível ao Poder Judiciário.
+No ponto, consta no acórdão hostilizado:
+E, in casu, verifico que o feito foi conduzido dentro dos padrões da normalidade pelo Juízo a quo, tendo a duração da instrução processual se mostrado compatível com as circunstâncias do caso concreto, uma vez que, conforme as informações prestadas pela autoridade dita coatora, o Paciente foi preso em flagrante em 17.09.2024 e denunciado em 20.09.2024, sendo a denúncia recebida em 14.10.2024. Após, a audiência de instrução, debates e julgamento foi realizada em 26.11.2024, ocasião em que houve o encerramento da instrução, com a conversão dos debates orais em memoriais por escrito, sendo o feito remetido à conclusão em 10.12.2024. Ressalte-se, assim, que a instrução já foi encerrada, aguardando-se tão somente a prolação de sentença.
+Destarte, em face da gravidade dos delitos e das particularidades do caso concreto tendo em vista a variedade e a quantidade de drogas apreendidas (6 tabletes de haxixe, pesando 500g; e 01 porção de maconha, pesando 10g), somada à quantia em dinheiro (R$ 700,00), possível produto da venda de diversas outras porções, além de petrechos comumente utilizados para a divisão e embalagem de drogas; e que o Paciente teria se associado a outros dois indivíduos com o fim de praticar o tráfico de drogas, conforme a denúncia (fls. 32/36); e que o Paciente já foi condenado anteriormente por delito de roubo (fls. 09), tendo sido novamente preso pela prática, agora, em tese, dos crimes de tráfico de drogas e associação para o tráfico não há que se falar em excesso de prazo da prisão cautelar a justificar, por ora, a expedição do alvará de soltura.
+Observe-se, por oportuno, que a prisão cautelar não afronta, de modo algum, o princípio constitucional da presunção de inocência (art. 5º, LVII, CF), sobretudo em se considerando que a Carta Constitucional de 1988 também contempla a possibilidade da prisão decretada pela autoridade judiciária competente, consoante o preceito do artigo 5º, inciso LXI. (fl. 17-18).
+Portanto; não restando demonstrado o constrangimento ilegal apontado, relativamente ao excesso de prazo; não é caso de relaxamento do cárcere provisório.
+A propósito:
+I - No que tange ao aventado excesso de prazo, cumpre ressaltar que os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo.  ..  (AgRg no HC n. 923.616/SC, Quinta Turma, minha relatoria, DJe de 6/9/2024).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, de nego a ordem.
+Cientifique-se o MPF desta decisão.
+Publique-se. Intimem -se.
+EMENTA
