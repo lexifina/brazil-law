@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por LUCAS FURTUNATO JOAQUIM contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1503465-18.2022.8.26.0536.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo e pelo não conhecimento do recurso especial (fls. 479/483).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+O Tribunal de origem não admitiu o apelo nobre considerando que intempestivo, haja vista que o aresto foi publicado em 12/12/2023, já o recurso foi protocolado em 15/1/2024, quando a insurgência deveria ter sido interposta no primeiro dia útil subsequente ao recesso forense, no caso, em 8/1/2024. Contudo, o recurso especial foi interposto em 15/1/2024.
+O agravante sustenta a tempestividade do recurso, alegando a suspensão do prazo recursal durante o recesso forense, com retomada do cômputo no primeiro dia útil após o recesso, nos termos da Portaria n. 8 do Conselho Nacional de Justiça.
+Conforme certidão de publicação do Tribunal de Justiça do Estado de São Paulo, o acórdão foi disponibilizado em 11/12/2023 (fl. 407), considerando-se como publicado em 12/12/2023. Merece ser mantida a decisão de inadmissão, considerando que o prazo final para a interposição do recurso foi no primeiro dia útil após o recesso forense, ou seja, em 8/1/2024.
+Tratando-se de ação sobre matéria penal ou processual penal, é firme a jurisprudência do Superior Tribunal de Justiça no sentido da não incidência das novas regras do Código de Processo Civil, referente à contagem dos prazos em dias úteis (art. 219 da Lei n. 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do Código de Processo Penal), uma vez que o Código de Processo Civil é aplicado somente de forma suplementar ao processo penal.
+Sem aplicação ao caso o caput do art. 798-A do Código de Processo Penal, visto que o processo envolve réu preso, sendo caso de exceção à suspensão prevista no inciso I do mesmo dispositivo legal (fl. 289).
+Também é entendimento do Superior Tribunal de Justiça que a suspensão do curso dos prazos processuais prevista no art. 220 do Código de Processo Civil, regulamentada pela Resolução n. 244 do Conselho Nacional de Justiça, de 16/9/2016, não incide sobre os processos de competência da Justiça Criminal, uma vez que submetidos ao regramento do art. 798, caput e § 3º, do Código de Processo Penal.
+A ementa colacionada no agravo (fl. 452) possui situação distinta, haja vista que a publicação do ato ocorreu no curso do recesso forense. No caso em julgamento, a publicação ocorreu antes do recesso forense, iniciando o prazo para recurso também antes.
+Ainda, a Portaria n. 8 do CNJ, de 29/11/2023, citada pelo agravante, é específica sobre a suspensão dos prazos processuais no âmbito do Conselho Nacional de Justiça.
+Logo, é intempestivo o recurso especial interposto após o prazo legal. A propósito: AgRg no AREsp n. 2.475.546/SP, Ministro Teodoro Silva Santos, Sexta Turma, DJe de 27/2/2024, AgRg no AREsp n. 2.389.275/GO, Ministra Laurita Vaz, Sexta Turma, DJe de 2/10/2023; e AgRg no AREsp n. 2.298.524/BA, Ministro Ribeiro Dantas, Quinta Turma, DJe de 16/6/2023.
+Ante o exposto, conheço d o agravo para não conhecer do recurso especial, visto que intempestivo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO COMPUTADO NOS MOLDES DO ART. 798 DO CPP. RÉU PRESO. AFASTADA A REGRA DO CAPUT DO ART. 798-A DO CPP. TENDO INICIADO O PRAZO RECURSAL ANTES DO RECESSO FORENSE E FINDADO EM SEU CURSO, A DATA FINAL É A DO PRIMEIRO DIA ÚTIL SUBSEQUENTE AO RECESSO.
+Agravo conhecido para não conhecer do recurso especial ante a intempestividade.
