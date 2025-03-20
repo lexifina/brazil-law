@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de divergência (Petição n. 00993278/2024, vista às e-STJ fls. 1.637/1.644) opostos em 7/11/2024 por RODRIGO CAMARGO contra decisão monocrática da Presidência do STJ que, após não conhecer do agravo em recurso especial por ele interposto (e-STJ fls. 1.590/1.591), rejeitou seus embargos de declaração (e-STJ fls. 1.605/1.607).
+A decisão da Presidência que, em 15/10/2024, não conheceu do agravo em recurso especial da defesa, amparou-se no fato de que o agravo esbarrava no óbice na súmula n. 182/STJ, já que nas razões recursais, a parte agravante deixou de impugnar alguns dos fundamentos postos na decisão do Tribunal de segundo grau que efetuara o prévio juízo de admissibilidade do recurso especial.
+No presente recurso, a defesa insiste no cabimento de oferecimento de ANPP no caso concreto. Aponta como paradigma o REsp n. 1.890.343/SC (relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 23/10/2024, DJe de 28/10/2024).
+Alega, ainda, que o crime de falsificação de documento (art. 304 do CP) deve ser absorvido pelo delito de receptação, devendo, o crime do art. 304 do CP servir como agravante genérica, na fase de dosimetria da pena, ou, no máximo, como continuidade delitiva, pois um absorve o outro. No ponto, indica como paradigma o REsp n. 1.024.042/RJ (relator Ministro Og Fernandes, Sexta Turma, julgado em 21/9/2010, DJe de 4/10/2010).
+Requer, por fim, "O recebimento do presente Embargo nos seus efeitos ativo e suspensivo, para fins de analisar o controvertido, para ao fim decidir em favor do embargante e aplicar o entendimento majoritário dessa colenda corte, no sentido de ser aplicado o ANPP de forma retroativa, bem como que seja aplicada a absorção do crime do art. 304 do CP, pelo crime previsto no art. 180, §1º do mesmo diploma legal, visto que está ocorrendo o "bis in idem"" (e-STJ fl. 1.643).
+É o relatório. Passo a decidir.
+Os embargos de divergência não autorizam conhecimento.
+Isso porque os presentes embargos de divergência impugnam decisão monocrática da Presidência do STJ. No entanto, o objetivo precípuo dos embargos de divergência é o de promover a harmonia de entendimento entre colegiados diversos, e não entre um componente de uma Turma e todos os demais componentes de outra. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. OPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. ERRO GROSSEIRO. NÃO CABIMENTO. INVIABILIDADE DE APLICAÇÃO DA FUNGIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Constitui erro grosseiro, insuscetível de aplicação do princípio da fungibilidade, a oposição de embargos de divergência contra decisão monocrática, porquanto somente são oponíveis contra acórdão de Órgão Fracionário que, em sede de Recurso Especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional desta Corte.
+2. Agravo regimental não provido.
+(AgRg nos EAREsp n. 2.550.472/SP, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 9/10/2024, DJe de 15/10/2024.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA CONTRA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA Nº 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os Embargos de Divergência somente podem ser interpostos em face de acórdão proferido por Órgão Fracionário que divergir de julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, desde que os acórdãos, embargado e paradigma, sejam de mérito ou que não tenham conhecido do recurso, embora tenha apreciado a controvérsia.
+2. A parte embargante se insurge contra decisão monocrática, o que não encontra respaldo na jurisprudência desta corte (AgRg nos EDcl nos EDv nos EREsp 1880566 / PR, relator Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 09/12/2020, DJe de 15/12/2020).
+3. Ademais, é remansosa a jurisprudência desta Corte, que veio a ser sumulada no enunciado de n. 315: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+4. A hipótese atrai a incidência da Súmula nº 182/STJ, que considera inviável o conhecimento do agravo regimental que deixa de atacar especificamente os fundamentos da decisão agravada. No caso em apreço, não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, o que inviabiliza o conhecimento da insurgência.
+5. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 2.108.083/SP, relatora Ministra Daniela Teixeira, Terceira Seção, julgado em 8/5/2024, DJe de 14/5/2024.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INTERPOSTOS CONTRA DECISÃO MONOCRÁTICA. INADMISSIBILIDADE. ART. 266 DO RISTJ. RECURSO QUE PRESSUPÕE MANIFESTAÇÃO DE ÓRGÃO COLEGIADO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE AFASTADO. ACÓRDÃO PARADIGMA PROFERIDO EM HABEAS CORPUS. IMPOSSIBILIDADE. PRECEDENTES.
+I - Nos termos do art. 266 do Regimento Interno do Superior Tribunal de Justiça, são cabíveis embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento proferido por outro órgão desta Corte. A interposição do referido recurso pressupõe, portanto, a manifestação de um colegiado.
+II - Este Tribunal Superior possui entendimento consolidado no sentido de que a interposição dos embargos de divergência contra decisão monocrática configura erro grosseiro que afasta a aplicação do princípio da fungibilidade. Precedentes.
+III - Segundo jurisprudência desta Corte, para a configuração da divergência, não se admite o aresto proferido em ação de natureza constitucional.
+IV - Dissídio jurisprudencial não configurado, uma vez que a agravante apresentou como julgado paradigma um acórdão proferido em habeas corpus.
+Agravo regimental desprovido.
+(AgRg nos EAREsp n. 1.930.585/DF, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 13/3/2024, DJe de 15/3/2024.)
+Lembro, por fim, que a finalidade dos embargos de divergência é a uniformização da jurisprudência do Superior Tribunal de Justiça, portanto não podem ser utilizados como nova via recursal, visando a corrigir eventual equívoco ou controvérsia advinda do julgamento do próprio recurso especial.
+Tenho, portanto, como incabíveis os embargos de divergência.
+Ante o exposto, indefiro liminarmente os presentes embargos, com fundamento no art. 266-C do Regimento Interno desta Corte, na redação da Emenda Regimental n. 22, de 16/3/2016.
+Intimem-se.
+EMENTA
