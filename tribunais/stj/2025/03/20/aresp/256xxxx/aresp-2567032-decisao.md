@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo do MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE - MPRN contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE - TJRN que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão proferido no julgamento do agravo em execução penal n. 0810029-44.2023.8.20.0000.
+Consta dos autos que o Juízo da 1ª Vara Regional de Execução Penal da Comarca de Natal/RN indeferiu o requerimento do ora recorrido, Joseilson de Oliveira Costa, de readequação para o regime prisional semiaberto (fls. 140/141).
+Agravo em execução penal interposto pelo ora recorrido foi provido para determinar a realização da detração penal e, por consequência, seja fixado o regime inicial semiaberto (fl. 177). O acórdão ficou assim ementado:
+"PENAL E PROCESSUAL PENAL. AGEX. PLEITO DE DETRAÇÃO E CONSEQUENTE MUDANÇA DO REGIME INICIAL DE CUMPRIMENTO DA PENA (FECHADO PARA SEMIABERTO). ACTIO REVISIONAL TRANSFERINDO PARA O JUÍZO EXECUTÓRIO A ANÁLISE DO TEMA EM REFERÊNCIA. COIMA RESULTANTE ABAIXO DE 8 ANOS. AUSÊNCIA DE FUNDAMENTAÇÃO BASTANTE A SUPLANTAR O PRECEITO ESTATUÍDO NA ALÍNEA "B" DO §2º DO ART. 33 DO CP. DECISUM REFORMADO. CONHECIMENTO E PROVIMENTO" (fl. 175).
+Em sede de recurso especial (fls. 192/203), o Parquet apontou violação ao art. 387, § 2º, do Código de Processo Penal - CPP e ao art. 42 do Código Penal - CP, ao argumento de que o tempo de prisão provisória já havia sido computado para fins de fixação do regime inicial de cumprimento de pena.
+Asseverou, portanto, que o regime prisional inicial não pode ser modificado pelo Juízo da execução penal, sob pena de ofensa à coisa julgada.
+Sustentou, ademais, que o dia da primeira prisão do ora agravado foi considerado como sendo a data-base dos cálculos dos benefícios da execução penal, razão pela qual não há de se aplicar a detração neste instante processual, sob pena de o período ser contabilizado em duplicidade.
+Aduziu, outrossim, que a modificação do regime prisional pelo Juízo da execução penal depende da análise do cumprimento dos requisitos subjetivos, que sequer foram analisados.
+Requereu o provimento do recurso para que seja restabelecida a decisão do Juízo de primeira instância.
+Contrarrazões do recorrido (fls. 205/214).
+O recurso especial foi inadmitido no TJRN em razão do óbice da Súmula n. 83 do Superior Tribunal de Justiça - STJ (fls. 215/218).
+Em agravo em recurso especial, a acusação impugnou o referido óbice (fls. 220/227).
+Contraminuta do recorrido (fls. 229/233).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal - MPF, este opinou pelo conhecimento do agravo para dar provimento ao recurso especial (fls. 246/249).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Acerca da afronta art. 387, § 2º, do CPP e ao art. 42 do CP, colaciona-se o seguinte trecho do acórdão proferido pelo Tribunal de origem:
+"9. Com efeito, apesar do regime inicial de cumprimento da pena haver sido estabelecido na sentença condenatória e mantida pelo TJRN em sede de revisional, a temática referente à detração restou expressamente delegada ao Juízo Executório, conforme excerto exarado no Acórdão:
+"(..) Nada obstante, conforme jurisprudência dominante do STJ, o abatimento do tempo de prisão provisória do total da condenação (art. 42, do CP) é medida que compete ao juízo das execuções penais, a quem será levada a questão após o trânsito em julgado do processo de conhecimento ((AgRg no AREsp 1247250/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/12/2020). (..)". (ID 20871810 - pág. 94).
+ ..
+11. Assim, ao contrário do propugnado pelo Julgador a quo, deve ser efetivada a análise do benefício e sua eventual incidência na modalidade de início da coima.
+12. Ou seja, o recorrente faz jus ao abatimento do tempo de prisão provisória (6 meses e 9 dias) da pena aplicada (8 anos, 5 meses e 12 dias), restando, como cálculo a ser observado para estabelecimento da modalidade prisional, o quantum de 7 (sete) anos, 11 (onze) meses e 3 (três) dias.
+13. Por consectário, deve ser fixado o regime semiaberto, porquanto a opção pelo mais gravoso (fechado) se deu a mercê de fundamentação bastante a suplantar o preceito estatuído na alínea "b" do §2º do art. 33 do CP.
+ ..
+15. Destarte, em dissonância com a 3ª PJ, provejo o Recurso, devendo ser realizada a detração penal e, por consequência, fixado regime inicial semiaberto" (fls. 176/177).
+Denota-se do excerto que o TJRN reformou a decisão proferida pelo Juízo da execução penal para realizar o abatimento do período em que o ora agravado ficou preso provisoriamente e, por consequência, readequar o regime prisional inicial para o semiaberto.
+Tal entendimento está em consonância com a jurisprudência deste Sodalício, porquanto a conjuntura fática analisada pela Corte local evidencia que a detração do período de segregação cautelar foi delegado ao Juízo da execução penal (fls. 112 e 176), isto é, não foi realizado pelo prolator do decreto condenatório, razão pela qual escorreito o redimensionamento do regime prisional operado pelo Tribunal de origem.
+Para corroborar, colhe-se da jurisprudência do STJ (grifos meus):
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. EXECUÇÃO PENAL. CONDENAÇÃO DO RECLAMANTE OPERADA DE FORMA DEFINITIVA. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. JURISPRUDÊNCIA DO STJ. REGULARIDADE DA DECISÃO DE ORIGEM.
+1. Consta da decisão reclamada que, definitivamente julgada ação, eventuais pleitos acerca de regime prisional devem ser direcionados ao Egrégio Juízo da Execução competente.  ..  INDEFIRO, portanto, o pedido (fl. 35).
+2. Em que pese o Superior Tribunal de Justiça reconhecer que o magistrado sentenciante tem a competência para efetuar a detração penal, transitada em julgado a condenação, nos termos da decisão recorrida, cabe ao Juízo da Execução efetuar o referido cálculo.
+3.  ..  uma vez que já houve o trânsito em julgado da condenação, a pretendida aplicação da detração penal deve ser pleiteada ao Juízo das Execuções Penais, a quem caberá a análise do pedido, juntamente com eventual pleito de progressão de regime (AgRg no HC n. 772.581/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/12/2023).
+4. Agravo regimental desprovido.
+(AgRg na Rcl n. 47.580/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 20/8/2024, DJe de 22/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO DE PENA. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE DE IMPOSIÇÃO DO REGIME INICIAL SEMIABERTO. DETRAÇÃO. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES CRIMINAIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora o agravante haja sido definitivamente condenado a reprimenda inferior a 4 anos de reclusão, fosse tecnicamente primário ao tempo do delito, possuidor de bons antecedentes e beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, teve a pena-base fixada acima do mínimo legal, circunstância que autoriza a fixação de regime prisional mais gravoso do que o permitido em decorrência da reprimenda imposta, ex vi do disposto no art. 33, § 2º, "b", e § 3º, do Código Penal.
+2. A situação do recorrente não se enquadra no enunciado na Súmula Vinculante n. 59, do Supremo Tribunal Federal, haja vista que ele ostenta circunstância judicial desfavorável, tanto que teve a sua pena-base fixada acima do mínimo legalmente previsto.
+3. Uma vez que já houve o trânsito em julgado da condenação, a pretendida aplicação da detração penal deve ser pleiteada ao Juízo das Execuções Penais, a quem caberá a análise do pedido, juntamente com eventual pleito de progressão de regime.
+4. Agravo regimental não provido.
+(AgRg no HC n. 772.581/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. DOSIMETRIA. APLICAÇÃO DO REDUTOR DE PENA PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. CONSIDERÁVEL QUANTIDADE DE DROGA APREENDIDA. FRAÇÃO PROPORCIONAL. PRECEDENTES. REGIME INICIAL SEMIABERTO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. REGIME INICIAL ADEQUADO AO PATAMAR DE PENA. DETRAÇÃO. AUSÊNCIA DE INFORMAÇÕES SUFICIENTES. COMPETÊNCIA CONCORRENTE DO JUÍZO DAS EXECUÇÕES PARA AVALIAÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando ela atrelada às particularidades fáticas do caso concreto e subjetivas do agente, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+2. Na hipótese, o Tribunal a quo manteve os parâmetros utilizados pelo Juízo de 1º grau, ressaltando o acerto na fração de 1/6, utilizada para modular o redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, tendo em vista a considerável quantidade de droga apreendida.
+3. No que toca ao regime prisional, já foi fixado o inicial semiaberto, o qual está em consonância com o patamar da pena aplicada, de 4 anos e 2 meses de reclusão, nos termos do previsto no art. 33, § 2º, do Código Penal.
+4. O art. 387, § 2º, do CPP se refere à possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do CP. Ocorre que, se estiverem ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do CPP, é consolidado o entendimento desta Corte Superior no sentido de que caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do envolvido autoriza a fixação de regime mais brando, como no presente caso.
+5. Uma vez inalterado o quantum de pena privativa de liberdade, inviável a sua substituição por restritiva de direitos, por ausência de cumprimento do requisito objetivo, previsto no art. 44 do Código Penal.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 575.711/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/5/2020, DJe de 11/5/2020.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO. PARTICIPAÇÃO NO DELITO. SÚMULA 7/STJ. DETRAÇÃO. AUSÊNCIA DE INFORMAÇÕES SUFICIENTES. COMPETÊNCIA CONCORRENTE DO JUÍZO DAS EXECUÇÕES PARA AVALIAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A questão atinente à participação ou não dos recorrentes na prática delituosa não prescinde do reexame do conjunto fático-probatório dos autos, incidência do enunciado da Súmula n. 7/STJ.
+2. O art. 387, § 2º, do CPP não se refere a progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado, dentre as balizas previstas no § 2º do art. 33 do CP.
+Ocorre que, mesmo não se confundindo a detração penal com a progressão de regime, é consolidado o entendimento desta Corte Superior de que se estiverem ausentes, nos autos, os elementos necessários à aplicação do disposto no art. 387, § 2º, do CPP, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do envolvido autoriza a fixação de regime mais brando, como no presente caso.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.838.031/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2019, DJe de 19/12/2019.)
+Além disso, para divergir da conclusão da Corte local e acolher a alegação do Parquet, no sentido de que o tempo de prisão provisória já havia sido computado para fins de fixaçã o do regime inicial de cumprimento de pena, seria necessário o revolvimento do acervo fático-probatório, o que é vedado neste instante processual ante a incidência do óbice da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
