@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VIABAHIA CONCESSIONARIA DE RODOVIAS S.A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim resumido:
+AGRAVO DE INSTRUMENTO. PRELIMINAR DE INTEMPESTIVIDADE. REJEITADA. PRELIMINAR DE NÂO CONHECIMENTO DO RECURSO ACOLHIDA. INCABÍVEL AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE DETERMINA O JULGAMENTO ANTECIPADO DA LIDE. CONDENAÇÃO DO AGRAVANTE AO PAGAMENTO DA MULTA DO ART. 1.026, §2º, DO CPC/2015. OBJETO DOS EMBARGOS DE DECLARAÇÃO DIVERGE DO OBJETO DO AGRAVO DE INSTRUMENTO N.º 8023671- 95.2023.8.05.0000. EMBARGOS DE DECLARAÇÃO OPOSTOS PELO AGRAVANTE NA ORIGEM NÃO POSSUEM CARÁTER PROTELATÓRIO A ENSEJAR A APLICAÇÃO DA MULTA. PRECEDENTE DO STJ. DECISÃO REFORMADA. AGRAVO INTERNO PREJUDICADO. AGRAVO DE INSTRUMENTO CONHECIDO EM PARTE. DADO PROVIMENTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 80, IV e VII e 1.026, § 2º do CPC, no que concerne à necessidade de manutenção da multa imposta, tendo em vista que a recorrida vem adotando medidas protelatórias, com o fim de postergar a sua condenação, trazendo a seguinte argumentação:
+18. Ainda, na ocasião, a d. Juíza, identificando o intuito meramente protelatório da seguradora (que se fez evidente, nos termos do art. 370, parágrafo único do CPC), condenou- a ao pagamento de multa por litigância de má-fé, arbitrada em 2% sobre o valor da causa atualizado, em conformidade com os arts. 80, IV, e VII, e 1.026, §2º, do CPC.
+19. Não poderia ser diferente: desde a fase extrajudicial, a Sompo vem adotando medidas evidentemente protelatórias, com o fim exclusivo de postergar o máximo possível a sua condenação a indenizar a Viabahia no valor do saldo do adiantamento confessado pela tomadora. Relembre-se:
+ ..
+37. Da moldura fática, depreende-se que: contra a decisão saneadora, a Sompo opôs embargos de declaração e pedido de ajustes, ambos rejeitados, e em seguida agravo de instrumento nº 8023671-95.2023.8.05.0000, desprovido; e, posteriormente, da decisão que determinou o julgamento antecipado da lide, a Sompo também opôs embargos de declaração, sequer conhecidos, e também opôs o presente agravo de instrumento, também sequer conhecido em sua maior parte.
+38. Por causa de suas cinco manifestações evidentemente descabidas - tanto que sumariamente afastadas - este processo, que sequer demanda fase instrutória por ter prova documental suficiente e por ter valor já líquido de condenação, se estende por mais de quatro anos.
+39. Soma-se a isso o fato de que, em fase extrajudicial, a Sompo já havia submetido a Viabahia a uma regulação de sinistro exageradamente longa, apesar de se tratar de seguro- garantia de adiantamento com valor certo e confessado pela tomadora, e apesar de ser incontroversa a cobertura nos termos da apólice da Sompo.
+40. A conduta da seguradora evidentemente tem finalidade de opor resistência injustificada ao bom andamento do processo, e suas peças, manifestamente descabidas, tem finalidade exclusiva de protelar o encerramento do feito. A Sompo litiga de má-fé, e sua conduta deve ser obstada, com a imposição da multa em questão.
+42. Além disso, vale dizer que a discussão sobre a aplicação de multa por recurso protelatório não está nas hipóteses previstas pelo art. 1.015 do CPC, de modo sequer poderia ser objeto de agravo de instrumento. Assim, também sob esse aspecto, a manutenção da multa é medida que se impõe (fls. 357/363).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Compulsando os autos da demanda originária, verifico que o Agravante opôs Embargos de Declaração para sanar vício de omissão da decisão que determinou o julgamento antecipado da lide.
+Considerou o Magistrado extemporâneos os aclaratórios, sob o fundamento de possuir o mesmo objeto de Agravo de Instrumento anteriormente julgado.
+Não merece razão, todavia, o Juiz Singular.
+Isto porque a questão discutida nos Embargos de Declaração diverge do Agravo de Instrumento n.º 8023671-95.2023.8.05.0000, cujo objeto foi a conexão, enquanto o objeto dos aclaratórios foi a determinação de julgamento antecipado da lide.
+Diante disto, os Embargos de Declaração não foram conhecidos, tendo o Magistrado Singular condenado o Embargante ao pagamento de multa protelatória.
+Todavia, incorreu o Juiz a quo em equívoco, pelo que o fundamento utilizado pelo Magistrado para aplicar a multa deve ser afastado, uma vez que os Embargos de Declaração não possuíram caráter protelatório, na medida em que a sua oposição se prestou para o fim legal proposto, sanar vício de omissão e contradição no julgado cujo objeto difere do Agravo de Instrumento n.º 8023671- 95.2023.8.05.0000.
+ ..
+Depreende-se, portanto, que os Embargos de Declaração opostos pelo Agravante na instância originária não podem ser nomeados como protelatórios, uma vez que, como visto, não visou rediscussão de matéria já apreciada.
+Diante das considerações acima expostas, o Agravo de Instrumento deve ser provido nesse quesito, para excluir a imposição de multa (fl. 324, grifo meu).
+Desse modo, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada no acórdão recorrido, quanto ao caráter protelatório dos embargos de declaração, exigiria a incursão no acervo fático-probatório dos autos, o que não é possível no Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 11.2.2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23.3.2018; AgRg no REsp n. 1.192.745/PE, Rel. Ministro Og Fernandes, Sexta Turma, DJe de 21.3.2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
