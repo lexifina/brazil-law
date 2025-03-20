@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO - CNPQ, com fulcro no permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (e-STJ fl. 126):
+DIREITO PROCESSUAL CIVIL. CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO - CNPQ. EXECUÇÃO FISCAL. AUSÊNCIA DE CERTEZA E LIQUIDEZ. AUSÊNCIA DE CONTRADITÓRIO E AMPLA DEFESA. SENTENÇA MANTIDA EM SUA INTEGRALIDADE.
+1 - A recorrida apresentou Exceção de Pré-Executividade alegando que não foi comunicada para apresentar defesa na esfera administrativa e que a execução fiscal não seria o instrumento cabível para cobrança de tal dívida, sendo preciso prévio processo judicial para apuração da liquidez, certeza e exigibilidade do débito ou ao menos tomada de contas especial junto ao Tribunal de Contas da União.
+2 - Não se restaram demonstradas a liquidez e a certeza que amparam a Certidão de Dívida Ativa (art. 3º da Lei 6.830/80). Assim, o processo de execução fiscal não deve prosseguir, conforme acertada decisão do juízo de primeira instância.
+3 - A dívida ativa não é a maneira de cobrança correta para os valores ora tratados. O débito requerido não foi previamente constituído, de modo que não houve o devido contraditório e a ampla defesa necessários para a liquidez e a certeza do título.
+4 - Não merece prosperar o recurso no CNPQ, uma vez que estão deveria ter sido precedido de processo judicial para o reconhecimento, assegurados o contraditório e a ampla defesa. Neste sentido, a sentença de primeiro grau deve ser mantida em sua integralidade.
+5 - Apelação não provida.
+6 - Honorários majorados em 1% sobre o valor aplicado pelo juízo de primeira instância.
+Embargos de declaração rejeitados.
+Em suas razões, a parte recorrente aponta violação do art. 39, § 2º, da Lei n. 4.320/1964, argumentando, em suma, a possibilidade de inscrição em dívida ativa não tributária decorrente de restituição, reposição e indenização.
+Contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 208.
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar.
+No caso, a jurisprudência do STJ vem possibilitando a inscrição em dívida ativa para a cobrança de crédito não tributário, decorrente de reposição de valores pagos a título de bolsa de estudos, conforme autoriza o art. 39, § 2º, da Lei n. 4.320/1964, em razão do descumprimento pelo beneficiário das cláusulas contratuais impostas por ocasião da celebração da avença.
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. REPOSIÇÃO AO ERÁRIO DECORRENTE DE DESCUMPRIMENTO DE CONTRATO DE CONCESSÃO DE BOLSA DE ESTUDOS NO EXTERIOR. TERMO DE CONFISSÃO DE DÍVIDA. PARCELAMENTO. INADIMPLEMENTO POSTERIOR. POSSIBILIDADE DE INSCRIÇÃO EM DÍVIDA ATIVA PARA AJUIZAMENTO DA EXECUÇÃO FISCAL. RECURSO ESPECIAL PROVIDO.
+I - A alegada afronta aos arts. 489 e 1.022 do CPC não merece provimento, porque o acórdão recorrido examinou devidamente a controvérsia dos autos, fundamentando suficientemente sua convicção, não havendo se falar em negativa de prestação jurisdicional, porque não ocorrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+II - A jurisprudência do Superior Tribunal de Justiça caminha, em sentido mais restritivo, por afirmar que a inscrição em dívida ativa não é forma de cobrança adequada para os créditos provenientes exclusivamente de ilícitos civis extracontratuais (AgRg no REsp n. 800.405/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 1º/12/2009, DJe de 26/4/2011), o que não é caso dos autos, nos quais se busca a reposição de valores pagos a título de bolsa de estudos no exterior em razão do descumprimento pelo beneficiário de cláusulas contratuais que lhe impunham encargos decorrentes do benefício.
+III - O art. 39, § 2º, da Lei n. 4.320/1964 prevê expressamente que a dívida ativa não tributária abrange as "indenizações" e "reposições" ao erário, mormente as decorrente de "contratos em geral". (REsp n. 1.683.068/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2017, DJe de 9/10/2017.)
+IV - Os débitos remanescentes de parcelamento inadimplido, objeto de termo de confissão de dívida decorrente de descumprimento pelo beneficiário de cláusulas de contrato administrativo de doação com encargo consubstanciam a dívida ativa não tributária, sendo possível a constituição do crédito por meio da expedição de certidão de dívida ativa para posterior ajuizamento da execução fiscal. A premissa adotada pelo Tribunal de origem, quanto à irregularidade da cobrança e a necessária apreciação judicial prévia para constituição do crédito, deixa de observar a exegese da legislação federal conforme acima definida.
+V - Recurso especial provido para afastar a premissa de impossibilidade de inscrição do débito controvertido em dívida ativa, com a devolução dos autos à origem, para que nova decisão seja proferida, respeitadas as premissas acima estabelecidas à luz dos elementos probatórios dos autos.
+(REsp n. 1.723.544/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/3/2023, DJe de 21/3/2023 ) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para, afastando a motivação adotada na origem, determinar o regular prosseguimento da execução fiscal.
+Publique-se. Intimem-se.
+EMENTA
