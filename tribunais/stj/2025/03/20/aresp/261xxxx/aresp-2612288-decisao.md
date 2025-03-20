@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MUNICIPIO DE CAMPOS DOS GOYTACAZES, com fundamento na ausência de violação dos arts. 11, 489 e 1.022 do CPC.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+Nas razões do recurso especial, a parte recorrente sustenta que "acórdão obrou em premissa equivocada no sentido de abstrair que a recorrida teria sido admiti da no serviço público até 31/12/2003, o que não ocorreu, eis que admitida em 02/08/2004( conforme mencionado no recurso de apelação e não apreciado ) , não operando os efeitos da EC nº 70/12 em sua aposentação" (fl. 659).
+Ao decidir a lide, o Tribunal de origem consignou (fls. 623-626) :
+Ação de revisão de benefício cumulada com cobrança a fim de atualizar a aposentadoria por invalidez, observada a integralidade dos proventos, além de pagar os atrasados. A Apelada se aposentou no serviço público quando em vigor a Emenda Constitucional nº 41/03, que alterou o artigo 40, § 1º da Constituição Federal que motiva a tese do Apelante no sentido de não mais prevalecer a obrigação de pagar proventos integrais ao servidor aposentado por moléstia grave.
+Todavia, a modificação do texto constitucional se referiu exclusivamente ao direito dos servidores aposentados por invalidez permanente, sem interferir nas exceções previstas artigo 40, §1º, I da Constituição Federal.
+Portanto, se a aposentadoria decorreu de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, os proventos correspondem ao valor integral dos vencimentos do cargo que ocupava o servidor aposentado. Nesse sentido a jurisprudência do E. Supremo Tribunal Federal como se observa do julgamento do Recurso Extraordinário nº 175.980/SP, Relator o Ministro CARLOS VELLOSO:
+ ..
+Por fim, como bem assinalou a sentença, a lei municipal nº 5247/91 prevê no artigo 105 o direito do aposentado a receber proventos integrais se portador de moléstia grave, o que atende ao pressuposto constitucional.
+Quanto à apontada violação aos arts. 11, 489 e 1.022 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Ademais, o Superior Tribunal de Justiça firmou o entendimento de que a Emenda Constitucional 41/2003, ao extinguir o cálculo integral para os benefícios concedidos nos termos do art. 40, §§ 3º (aposentadorias) e 7º (pensões), da Carta Magna e da Lei 10.887/2004, excetuou expressamente as hipóteses em que o pagamento deve ser percebido integralmente, como no caso de servidor público aposentado por invalidez permanente, decorrente de doença grave prevista no rol taxativo da legislação regente. Precedentes: AgRg no AREsp 143.422/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/9/2012; AgRg no AG 1388646/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/6/2012; AgRg no REsp 1.317.522/RS, Rel. Ministra Diva Malerbi, Desembargadora convocada TRF 3ª região, Segunda Turma, DJe de 23/11/2012; AgRg no AG 1.224.110/RJ, Rel. Ministro Vasco Della Giustina, Desembargador convocado do TJ/RS, Sexta Turma, DJe de 23/11/2011; MS 14.160/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe de 23/ 3/2010).
+Portanto, deve ser desprovido o recurso especial, com fundamento na orientação contida na Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional, nos termos da jurisprudência desta Corte.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
