@@ -1,0 +1,1 @@
+Art. 56-A. Fica instituído o Banco de Permuta para os servidores estáveis das Carreiras da Administração Tributária, cabendo ao Conselho Superior da Administração Tributária do Estado do Pará (CONSAT) a sua regulamentação.
