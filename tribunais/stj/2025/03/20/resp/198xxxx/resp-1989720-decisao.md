@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROMÁRIO JUNIO VITAL DE MELO e SINELSON SILVA SANTOS, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Em suas razões recursais (fls. 421-426), os recorrentes apontam violação dos artigos 59 e 68 do Código Penal, ao argumento de fundamentação inidônea para a valoração negativa da vetorial referente aos motivos do crime. Requerem a redução das penas-base.
+Apresentadas contrarrazões (fls. 432-436), o recurso especial foi admitido pelo Tribunal de origem (fls. 438-440) e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal opina pelo parcial provimento do recurso especial (fls. 451-454).
+É o relatório. DECIDO.
+A controvérsia cinge-se na análise da existência de fundamentação concreta e idônea a justificar a valoração negativa do vetor referente aos motivos do crime, "por considerar que os motivos seriam desfavoráveis aos recorrentes uma vez que praticaram o delito para comprar drogas para consumo." (fl. 424).
+No que concerne as circunstâncias judiciais, a Terceira Seção desta Corte Superior consolidou entendimento segundo o qual a dosimetria da pena está inserida no âmbito de discricionariedade das instâncias ordinárias, devendo ser realizada de acordo com os parâmetros preestabelecidos pelo legislador. Assim, eventual revisão excepcional da dosimetria só cabe a esta Corte Superior quando evidenciada flagrante ilegalidade na fundamentação ou desproporcionalidade no seu cálculo.
+Por ocasião da sentença condenatória, verifico que os motivos do crime foram valorados apenas para o recorrente ROMÁRIO, tendo referido vetor permanecido neutro com relação ao recorrente SINELSON. Veja (fls. 280-281):
+Passo à dosimetria da pena, observando as diretrizes legais.
+3.1) Romário Júnio Vital de Melo.
+A culpabilidade foi muito acentuada porquanto os acusados, além de já contar com a superioridade numérica e a força muscular, pois estamos falando de uma vítima mulher que estava sozinha, ainda utilizaram uma faca para incrementar o temor nela incutido e forçá-la a entregar a res furtiva.
+Possui bons antecedentes criminais, conforme CAC (fl.50/50v).
+Quanto à conduta social e personalidade, tendo em vista a ausência de elementos, serão consideradas favoráveis.
+O motivo para a conduta delituosa, conforme declarou, adquirir substâncias ilícitas a partir da venda do aparelho celular subtraído, demonstra que sua intenção era cometer outra infração penal, razão pela qual lhe será desfavorável.
+Analisadas as circunstâncias da prática criminosa, não devem ser consideradas desfavoráveis.
+Não há consequências extrapenais noticiadas.
+O comportamento da vítima não será analisado por não ter influenciado na prática delitiva.
+Assim, considerando que das oito circunstâncias judiciais analisadas duas são desfavoráveis ao acusado, aumento a pena mínima abstratamente prevista para o tipo penal em 2/8, resultando na pena-base de 05 (cinco) anos de reclusão e 12 (doze) dias-multa.
+ ..
+3.2) Sinelson Silva Santos
+A culpabilidade foi muito acentuada porquanto os acusados, além de já contar com a superioridade numérica e a força muscular, pois estamos falando de uma vítima mulher que estava sozinha, ainda utilizaram uma faca para incrementar o temor nela incutido e forçá-la a entregar a res furtiva.
+Possui bons antecedentes criminais, conforme CAC (fi. 46).
+Quanto à conduta social e personalidade, tendo em vista a ausência de elementos, serão consideradas favoráveis.
+Não indicou o motivo da sua conduta contrária ao Direito, razão pela qual reputamos os naturais do tipo, qual seja, o lucro patrimonial.
+Analisadas as circunstâncias da prática criminosa, não devem ser consideradas desfavoráveis.
+Não há consequências extrapenais noticiadas nos autos.
+O comportamento da vítima não será analisado por não ter influenciado na prática delitiva.
+Assim, considerando que das oito circunstâncias judiciais analisadas uma é. desfavorável ao acusado, aumento a pena mínima abstratamente para o tipo penal em 1/8, fixando a pena-base em 04 (quatro) anos e 06 (seis) meses de reclusão e 11 (onze) dias-multa.
+Da mesma forma, no julgamento do recurso de apelação, o Tribunal de origem manteve a valoração dos motivos do crime apenas com relação ao recorrente ROMARIO, nos seguintes termos (fl. 413):
+Outrossim, os motivos do crime também são desfavoráveis, na medida em que o acusado confirmou que praticou o roubo para comprar drogas para consumo.
+Assim, verifico que, no que concerne ao recorrente SINELSON SILVA SANTOS o recurso carece de interesse recursal, pois a alegação de inidoneidade dos fundamentos utilizados para a valoração negativa dos motivos do crime não se aplica à sua dosimetria, já que nunca ocorreu nos autos o alegado sopesamento. O interesse recursal é um dos pressupostos intrínsecos de admissibilidade do recurso e "consubstancia-se no trinômio adequação-necessidade-utilidade, ou seja, adequação da via processual escolhida quanto à tutela jurisdicional que se pretende, a necessidade do bem da vida buscado e a utilidade da providência pleiteada" (AgInt no REsp n. 1.904.351/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/12/2022, DJe de 14/12/2022).
+Desse modo, inexistindo qualquer possibilidade de obtenção de uma situação mais vantajosa ao recorrente a justificar a interposição do presente recurso, uma vez que pleiteia o afastamento da valoração negativa dos motivos do crime, não obstante, as instâncias ordinárias nunca os terem sopesado, o não conhecimento do recurso, nesse ponto, se impõe.
+No tocante ao recurso de ROMÁRIO JUNIO VITAL DE MELO, observo que referida fundamentação contraria o entendimento pacífico desta Corte Superior de que não se admite o sopesamento dos motivos do crime, por ter o agente subtraído o bem para consumir drogas, pois "já decidiu esta Corte que o fato do réu ser usuário de drogas ou álcool não deve influir na dosimetria da pena. A questão deve ser tratada a partir de um contexto de saúde, e não do ponto de vista repressivo penal" (HC n. 369.202/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/10/2016, DJe de 8/11/2016).
+Nesse mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ART. 157, CAPUT, DO CP. DOSIMETRIA. ANÁLISE DESFAVORÁVEL DE CIRCUNSTÂNCIAS JUDICIAIS. MOTIVOS DO CRIME. OBTENÇÃO DE DINHEIRO PARA COMPRA DE DROGAS. CIRCUNSTÂNCIAS DO DELITO. CRIME PRATICADO NO INTERIOR DE ÔNIBUS VAZIO E COM SIMULACRO DE ARMA DE FOGO. ELEMENTOS CONCRETOS QUE DEMONSTRAM QUE A AÇÃO NÃO DESBORDOU DA PERICULOSIDADE PRÓPRIA DO TIPO. FUNDAMENTOS INIDÔNEOS PARA A ELEVAÇÃO DA REPRIMENDA. DECOTE DEVIDO. PLEITO MINISTERIAL DE RESTABELECIMENTO DO AUMENTO. AGRAVO NÃO PROVIDO.
+1. No que toca aos motivos do crime, destacou-se na dosimetria da pena que a subtração ocorreu para o sustento do vício de drogas do réu. Contudo, predomina nesta Corte o entendimento de que, mesmo em crimes patrimoniais, é inadmissível a valoração da pena-base quando a subtração do bem é motivada no interesse do agente de adquirir drogas para consumo próprio, tratando-se de circunstância que não pode ser utilizada em seu desfavor.
+3. A prática de crimes de roubo dentro de transportes coletivos autoriza, nos termos da abalizada jurisprudência desta Corte Superior, a elevação da pena-base por consistir, via de regra, em fundamento idôneo para considerar desfavorável circunstância judicial. Isso porque no transporte público há comumente grande circulação de pessoas, o que eleva a periculosidade da ação.
+4. No caso, todavia, sem que se faça necessário o revolvimento fático-probatório dos autos, observa-se que as circunstâncias concretas do presente caso demonstram que a ação não desbordou da periculosidade própria do tipo. Conforme mencionado pela própria vítima, o ônibus estava vazio no momento do delito, o qual foi praticado com simulacro de arma de fogo. Tais circunstâncias concretas (ônibus vazio e uso de simulacro de arma de fogo) evidenciam que o modus operandi do delito foi normal à espécie, não se justificando a elevação da reprimenda.
+5. Portanto, de rigor o afastamento da valoração negativa das circunstâncias judiciais relativas aos motivos e circunstâncias do crime.
+6. Agravo regimental não provido.
+(AgRg no HC n. 693.887/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
+Logo, deve ser neutralizada essa circunstância judicial para o recorrente Romário, ante a flagrante ilegalidade de sua fundamentação.
+Feitas essas considerações, passo ao ajuste da dosimetria da pena do recorrente Romário Junio Vital de Melo para neutralizar a circunstância judicial dos motivos do crime e redimensioná-la ao patamar de 6 (seis) anos de reclusão e 14 (catorze) dias-multa, já considerando a compensação entre a agravante da reincidência e a atenuante da confissão.
+O regime inicial de cumprimento deve permanecer o fechado, em razão do quantum da pena e da reincidência reconhecida, nos term os do art. 33, § 2º, alínea "b", do Código Penal.
+Diante do exposto, e nos termos do art. 255, § 4º, incisos I, I II, do RISTJ, conheço parcialmente do recurso especial e, na extensão, dou-lhe provimento para redimensionar a pena do recorrente Romário Junio Vital de Melo, nos termos da fundamentação retro, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA PENA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL. CONDUTA SOCIAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA E IDÔNEA. ILEGALIDADE DA FUNDAMENTAÇÃO. SÚMULA N. 444, STJ. DECOTE. REDIMENSIONAMENTO DA PENA. NATUREZA DELETÉRIA DA COCAÍNA. RAZOÁVEL QUANTIDADE. LEGALIDADE DOS FUNDAMENTOS. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO .
