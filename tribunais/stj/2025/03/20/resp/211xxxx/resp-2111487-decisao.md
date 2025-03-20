@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MUNICÍPIO DE VIAMÃO contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 40):
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO PROCRASTINATÓRIOS. MULTA. AUSENTES OS VÍCIOS SUSTENTADOS NOS EMBARGOS DE DECLARAÇÃO, RESTA EVIDENTE APENAS A INCONFORMIDADE DA PARTE COM O RESULTADO DO JULGAMENTO, BUSCANDO POR VIA TRANSVERSA SUA ALTERAÇÃO, CARACTERIZADO O CÁRATER PROCRATINATÓRIO. RECURSO DESPROVIDO.
+Nas razões recursais , a parte recorrente sustenta violação ao art. 1.026, § 2º, do CPC. Segundo alega o recorrente, em síntese (fl.54):
+Com efeito, referido artigo exige a presença de intuito MANIFESTAMENTE protelatório para aplicação da multa de 2% sobre o valor da causa. Entretanto, a análise do caso demonstra a plena ausência deste intuito  o que dirá sua presença manifesta  , o que acarreta na violação que se pugna reconhecimento.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+O recurso não merece conhecimento.
+Quanto à alegação central do recurso especial, no sentido de que deveria ser afastada a multa aplicada, pois os embargos de declaração não possuem o intuito protelatório, é importante registrar que a pretensão da parte recorrente encontra óbice na Súmula 7 do STJ. Isso porque o órgão julgador, soberano na análise do conjunto fático-probatório dos autos, concluiu expressamente que (fls. 36-38):
+Conforme já exposto, vê-se que o objeto dos embargos de declaração era a apreciação de reexame necessário de sentença proferida em 11/09/2018, tendo sido o Município devidamente intimado, não apresentando irresignação, postulado o cumprimento de sentença em junho de 2019. E, somente em 02/08/2022, como refere o magistrado a quo, após o feito ter prosseguido por mais de três anos, o embargante vem a juízo levantar a nulidade dos atos por não ter sido realizada a remessa necessária, mesmo estando a decisão embargada fundada em acórdão do Egrégio STJ submetido ao rito dos recursos repetitivos.
+ ..
+Neste caso concreto, portanto, os embargos de declaração não têm qualquer fundamento apto de existência, visto que não há nenhum elemento a infirmar a conclusão adotada - já decidida em duas oportunidades (decisão monocrática em sede de agravo de instrumento e decisão colegiada em sede de agravo de interno), tendo sido governados pela rediscussão da fundamentação jurídica adotada do acórdão atacado, o que revela a incoerência jurídica da pretensão e o preenchimento da hipótese trazida pelo art. 1.026, § 2º, do Diploma Processual Civil: "Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa". Assim, diante do caráter protelatório dos aclaratórios, cabível a condenação da parte embargante ao pagamento de multa, no valor de 2% sobre o valor atualizado atribuído à causa, em favor da parte contrária.
+Para rever essa conclusão seria imprescindível o reexame de todo o acervo fático e probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nessa senda, precedentes da Casa :
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO ART. 932, III, 933, CAPUT, 1.010, II E III, E 1.013, CAPUT, § 1º, DO CPC/2015. OFENSA AO PRINCÍPIO DA DIALETICIDADE. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. INCIDÊNCIA DAS SÚMULAS 83 E 7 DO STJ. VIOLAÇÃO DO ART. 1026, § 2º, DO CPC/2015. MULTA PROTELATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+5. O exame da apontada ausência do intuito protelatório dos embargos de declaração, na forma pretendida pelo recorrente, demanda o reexame do conjunto fático dos autos, providência que esbarra no óbice da Súmula 7 desta Corte.
+6. Agravo interno não provido (AgInt no REsp n. 2.040.789/PA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023).
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+ ..
+6. Por fim, quanto à ofensa ao artigo 1.026 do CPC/2015, com relação à multa aplicada, por entender o Tribunal de origem que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese da recorrente demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+7. Recurso Especial não conhecido (REsp n. 1.671.609/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/6/2017, DJe de 30/6/2017).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
