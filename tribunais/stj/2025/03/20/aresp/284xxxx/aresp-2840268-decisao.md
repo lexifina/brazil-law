@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, agravo em recurso especial contra a decisão que inadmitiu o recurso especial interposto por F DA S A E OUTROS com fundamento na ausência de ofensa aos arts. 489 e 1.022 do CPC; na impossibilidade de análise de ofensa a dispositivo constitucional e na incidência da Súmula  7 do STJ.
+Argumenta  a  parte agravante que, quanto à alegada ofensa aos arts. 489 e 1.022 do CPC "tal julgamento é relativo ao mérito recursal e somente poderia ter sido analisado por esta C. Corte, sob pena de usurpação de competência da instância superior".
+Assevera, ainda, que "a promoção recursal não foi para rever o conjunto probatório, mas sim, requerer a atribuição de nova valoração ao conteúdo já apresentada nos autos, medida que é perfeitamente compatível com a súmula retromencionada".
+Impugnação da parte agravada pelo improvimento do recurso.
+É o relatório.
+Passo a decidir.
+As alegações deduzidas pela agravante são insuficientes para ser consideradas como impugnação aos fundamentos da decisão agravada.
+Conforme jurisprudência, "inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão" (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+Consoante pacífica jurisprudência desta Corte, "são insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial" (AgInt no AREsp n. 2.146.906/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/11/2022, DJe de 11/11/2022).
+A propósito:
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PERSEGUIÇÃO, TORTURA OU PRISÃO DURANTE O REGIME MILITAR. PEDIDOS IMPROCEDENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação em que se pleiteia a indenização por danos materiais e morais decorrentes de perseguição, tortura ou prisão durante o regime militar. Na sentença, julgaram-se os pedidos improcedentes pela ocorrência da prescrição. No Tribunal a quo, a sentença foi reformada para afastar a prescrição e julgar os pedidos improcedentes. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido óbice.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não o fazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido (AgInt no AREsp n. 2.096.513/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
