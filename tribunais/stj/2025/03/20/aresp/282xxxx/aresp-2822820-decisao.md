@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, manejado por Indústria Gráfica GR e Editora Ltda - Empresa de Pequeno Porte, desafiando decisão do Tribunal de Justiça do Estado de São Paulo, que não conheceu do recurso especial com base nos seguintes fundamentos: (I) aplicação da Súmula 83/STJ; e (II) deixou o recorrente de atender suficientemente ao requisito previsto no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ.
+Nas razões do agravo, a parte sustenta que: (I) "há violação ao Código de Processo Civil contido no v. Acórdão, uma vez que o entendimento do E. Superior Tribunal de Justiça sobre o tema é justamente o oposto do quanto narrado no v. Acórdão, assim sendo, somente será possível o arbitramento de honorários por equidade (art. 85, § 8º do CPC/2015) quando, havendo ou não condenação (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório ou (b) o valor da causa for muito baixo" (fl. 422); e (II) "todos os ementários dos casos acima reproduzidos são absolutamente idênticos ao presente e/ou muito semelhantes, nos quais houvera decisão favorável a verba honorária fixada na própria Execução Fiscal em desfavor a Fazenda Pública, ora Agravado (Dissídio jurisprudencial - artigo 1.029, do Código de Processo Civil)" (fl. 431).
+Contraminuta às fls. 468/470.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base, para além da não comprovação do dissídio, a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
