@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por RUAN THIMOTHEO DE OLIVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Narra a defesa que o recorrente foi preso preventivamente em 10/02/2023 pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+Irresignada com o excesso de prazo, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 71-73 ao fundamento de que o processo encontra-se com a instrução encerrada e memoriais já apresentados, pendente apenas da prolação da sentença.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado no excesso de prazo para a formação da culpa ponderando que está concluso para sentença há mais de dois meses.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de liminar indeferido às fls. 123-124.
+Informações prestadas às fls. 132-134. O Ministério Público Federal em parecer, às fls. 137-139, manifestou pelo "desprovimento do recurso ordinário em habeas corpus".
+É o relatório. DECIDO.
+Quanto ao alegado excesso de prazo, depreende-se dos autos que o recorrente foi preso preventivamente em 10/02/2023 decorrente do cumprimento de mandado de prisão no bojo da operação policial "Concierge", derivada da operação denominada "Shiny Flakes", a qual trata sobre venda e distribuição de drogas sintéticas no Vale dos Sinos. O Ministério Público ajuizou ação penal em face do recorrente e dos corréus pela prática, em tese, dos delitos de tráfico ilícito de entorpecentes e associação para o tráfico previstos nos artigos 33, caput, e 35, caput, da Lei n.º 11.343/2006. Foram realizadas três audiências de instrução, nas quais restaram ouvidas duas testemunhas de acusação e três de defesa, além de interrogados os réus. Em 16.07.2024, o Ministério Públicou protocolou memoriais e, em 07.08.2024, a Defesa do paciente apresentou alegações finais- fls. 132-133.
+O fato de que já foram juntados as alegações finais, incide no caso, o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+Ilustrativamente:
+"consignou-se no aresto impugnado que a audiência de instrução e julgamento foi realizada e que os autos aguardam a apresentação das alegações finais da defesa e do Parquet, a atrair a incidência o enunciado sumular n. 52 desta Corte Superior de Justiça"(AgRg no HC n. 888.960/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024.).
+"No caso, os autos encontram-se em fase de alegação final, de modo que incide ao caso o enunciado nº 52 da Súmula desta Corte, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".(AgRg no RHC n. 176.365/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+Portanto verifico, ao menos por ora, que a ação penal tramita com regularidade sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+A propósito:
+"A análise do excesso de prazo deve considerar a razoabilidade e as particularidades do caso concreto, incluindo a complexidade e a pluralidade de réus".(AgRg no RHC n. 205.652/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 10/12/2024.)
+"Para a aferição do excesso de prazo, devem ser sopesados não só o tempo da prisão provisória, mas, também, as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (HC n. 604.980/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020).(AgRg no HC n. 953.059/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus. Expeça-se, contudo, recomendação ao juízo de origem para que imprima maior celeridade possível no julgamento dos autos.
+Publique-se. Intimem -se.
+EMENTA
