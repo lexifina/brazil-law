@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto por GISLANDE GONCALVES ALMEIDA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2370484-93.2024.8.26.0000 .
+Consta que o recorrente foi preso em flagrante delito na data de 30/11/2024, custódia posteriormente convertida em preventiva, pela suposta prática do crime previsto no art. 16, §1º, inciso IV, da Lei n. 10.826/2003.
+Neste recurso, a parte recorrente sustenta a ausência de fundamentação idônea para a decretação da prisão preventiva.
+Aduz que a existência de condenação pretérita em regime aberto não é fundamento apto para a manutenção da prisão processual do recorrente.
+Salienta a presença de condições pessoais favoráveis (bons antecedentes, residência fixa e ocupação lícita), razão pela qual seria possível a aplicação de medidas cautelares alternativas.
+Destaca ser casado e pai de uma filha menor de idade, sendo o único responsável pelo sustento da sua família.
+Invoca a aplicação da presunção de inocência, aduzindo que a pena somente pode ser executada após o trânsito em julgado da sentença condenatória.
+Requer o provimento do recurso, com a expedição de alvará de soltura.
+O Ministério Público Federal, às fls. 214/218, manifestou-se pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+O recurso não comporta provimento.
+No caso, o Juízo de primeiro grau, ao converter a prisão em flagrante em preventiva, consignou (fls. 43/44; grifamos):
+No caso em tela estão presentes os requisitos para conversão em prisão preventiva do averiguado. A prova da materialidade vem demonstrada pelos documentos contidos no auto da prisão em flagrante delito e os indícios de autoria também estão presentes, eis que o autuado foi abordado no interior do estabelecimento comercial e, ao ser abordado pelo agente de segurança, dispensou um carregador de munição e 08 (oito) munições de calibre 9mm. Embora primário, o acusado possui condenação criminal ainda não transitada em julgado, quando foi autuado em flagrante com munições de uso restrito, indicando que medidas diversas da prisão não foram suficientes. Considerando as condições pessoais do averiguado, a natureza do delito e as circunstâncias do fato, a liberdade provisória e as medidas cautelares diversas da prisão (previstas no artigo 319 do CPP) são, ao menos por ora, absolutamente inadequadas e insuficientes para o caso concreto aqui analisado, razão pela qual, nos termos do artigo 282, c. c. artigo 310, II, do CPP, a conversão da prisão em flagrante em prisão preventiva mostra-se de rigor. Dessa forma, nos termos do art.310, II, do CPP, CONVERTO EM PRISÃO PREVENTIVA a prisão em flagrante aqui comunicada e determino a expedição do necessário à manutenção da segregação cautelar, mandado de prisão preventiva, em desfavor de GISLANDE GONÇALVES ALMEIDA.
+O Tribunal de origem, por sua vez, manteve a prisão preventiva do recorrente conforme a fundamentação a seguir (fls. 163/164; grifamos):
+No caso em exame, afigura-se evidenciado o fumus commissi delicti, pois, consoante emerge dos autos, no dia 30 de novembro de 2024, por volta das 18:00 horas, no bar do França, localizado na Avenida Regina Basseto Bordignon, nº 325, bairro João Aranha, na cidade e Comarca de Paulínia, o paciente foi preso em flagrante quando portava um acessório (carregador) e 08 munições íntegras, calibre 9 mm. LUGER, sendo 07 da marca "Sellier & Bellot" e 01 da marca "Remington", todas de uso restrito, sem autorização e em desacordo com determinação legal.
+Verifica-se, ainda, que a conversão da prisão em flagrante em preventiva foi motivada principalmente pelo fato de o paciente ostentar condenação anterior não transitada em julgado, indicando que as medidas protetivas diversas da prisão não foram suficientes, bem como considerando a natureza grave do delito, a denotar a necessidade da custódia cautelar, máxime para a garantia da ordem pública.
+Ora, tais considerações traduzem inequivocamente a presença do denominado periculum libertatis, a tornar clara, consequentemente, a necessidade da prisão provisória instaurada no processo penal em apreço, evidenciando que a liberdade do paciente põe em perigo o corpo social.
+Constata-se, pois, que a manutenção da custódia cautelar atende às disposições dos artigos 312, 313 e 315, todos do Código de Processo Penal, estando, ainda, em perfeita consonância com a norma inscrita no artigo 93, inciso IX, da Constituição Federal.
+Assim, por já ostentar o paciente condenação anterior não transitada em julgado, é necessária a sua preservação no ergástulo, como escorreitamente frisado pela douta Magistrada a quo, para a garantia da ordem pública, em reverência à norma inscrita no artigo 282, inciso II, do Código de Processo Penal (destacadamente as condições pessoais do agente), não havendo lugar na espécie, portanto, para nenhuma das medidas cautelares pessoais elencadas no artigo 319 do Código antedito, com a redação que lhe conferiu a Lei nº 12.403/2011.
+Dos excertos transcritos, concluo que, diversamente do sustentado pela Defesa, a necessidade da prisão preventiva foi adequadamente fundamentada pelas instâncias ordinárias a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva do recorrente, o que justifica a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva
+do agente.
+(..)
+4. Agravo regimental improvido (AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 08/04/2024, DJe de 11/04/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+(..)
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+(..)
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/03/2024, DJe de 21/03/2024; grifamos).
+Confiram-se, ainda, as seguintes ementas de julgados proferidos pelo Supremo Tribunal Federal, mutatis mutandis:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. SITUAÇÃO NÃO CONFIGURADORA DE INOVAÇÃO DE FUNDAMENTAÇÃO PELOS TRIBUNAIS DE INSTÂNCIAS SUPERIORES. AGRAVO A QUE SE NEGA PROVIMENTO.
+(..)
+II - A decisão do Superior Tribunal de Justiça alinha-se perfeitamente à jurisprudência deste Supremo Tribunal, firmada no sentido de que a prisão preventiva pode ter fundamento na reiteração criminosa, como violadora da ordem pública, quando demonstrada a presença de registro de prática de crimes na folha de antecedentes criminais do réu. Precedentes.
+(..)
+IV - Agravo regimental a que se nega provimento (RHC 177.649/AgR, relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 29/11/2019, DJe de 06/12/2019).
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. IDONEIDADE DA PRISÃO PREVENTIVA FUNDADA NO RISCO DE REITERAÇÃO. FUGA DO DISTRITO DA CULPA. ALEGAÇÃO DE EXCESSO DE PRAZO NÃO APRECIADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. INADMISSÍVEL SUPRESSÃO DE INSTÂNCIA. COMPLEXIDADE DA CAUSA PENAL. PLURALIDADE DE RÉUS. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E NÃO PROVIDO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - É idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrado o risco de reiteração delitiva.
+(..)
+(RHC 198.621-AgR, relator Ministro Nunes Marques, Segunda Turma, julgado em 12/05/2021, DJe de 19/05/2021) .
+Desse modo, considerado o fundado receio de reiteração delitiva, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da segregação cautelar, como ocorre na hipótese em apreço. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, esclareço que, a prisão preventiva não caracteriza antecipação de pena e não viola a presunção de inocência, por não constituir reconhecimento definitivo de culpabilidade. (AgRg no HC n. 873.162/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024)
+A nte o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
