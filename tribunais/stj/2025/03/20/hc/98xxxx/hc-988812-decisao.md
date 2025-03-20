@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCIO FERNANDES RODRIGUES, MARIO ROBERTO GOMES DE LIMA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que os pacientes foram presos em flagrante em 03/11/2024, em razão da suposta prática do crime de homicídio.
+Alega que a prisão em flagrante é ilegal, pois a distância entre o local do crime e a abordagem policial inviabiliza a tese de flagrante, conforme o artigo 302 do Código de Processo Penal (CPP) e precedentes do STF (fls. 2-3).
+A defesa sustenta que os pacientes possuem histórico de vida de excelente convívio com a comunidade, são pais de família, trabalhadores e cidadãos respeitados, sem antecedentes criminais (fls. 3-4). Destaca que Mário Roberto Gomes de Lima possui mobilidade reduzida, o que desqualifica qualquer tentativa de vinculá-lo ao delito (fls. 3-4).
+Alega ainda que o depoimento da principal testemunha da acusação, Jeniffer Oliveira Pires, é incapaz de embasar uma condenação penal, pois não estava presente no local do crime e seu reconhecimento fotográfico foi realizado de forma irregular, violando o artigo 226 do Código de Processo Penal (fls. 5-7).
+Aponta a violação da cadeia de custódia das provas, pois munições calibre 9mm foram entregues por populares aos policiais sem controle formal, comprometendo a confiabilidade da prova (fls. 8-10).
+Aduz inépcia da denúncia por ausência de individualização da conduta dos acusados, violando o artigo 41 do CPP (fls. 11-12).
+Requer a concessão da ordem de habeas corpus, liminarmente, para determinar a imediata revogação da prisão preventiva dos pacientes, com base na ausência de requisitos legais para sua decretação, nos termos do artigo 312 do Código de Processo Penal (fls. 38-39). Subsidiariamente, pede a aplicação de medidas cautelares diversas da prisão, conforme previsto no artigo 319 do CPP (fls. 38-39).
+Requer também a declaração de nulidade do reconhecimento fotográfico, a exclusão das provas obtidas de forma ilegal, a nulidade dos depoimentos testemunhais, o afastamento dos laudos periciais como prova determinante da autoria, o reconhecimento da inépcia da denúncia, a absolvição sumária dos pacientes e, ao final, o trancamento da ação penal por ausência de justa causa (fls. 38-40).
+É o breve relatório. DECIDO.
+De fato, embora a segregação em geral seja tema de extrema relevância, das simples alegações da Defesa, não se pode extrair a certeza necessária à eventual análise e concessão da ordem.
+Verifica-se a instrução deficiente da impetração, devido à ausência do inteiro teor da decisão que decretou a prisão preventiva dos pacientes , o que não permite a perfeita compreensão da controvérsia.
+Está pacificado no Superior Tribunal de Justiça que "é dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos" (AgRg no HC n. 790.533/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Ademais, doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOV ER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Rev. dos Tribunais, 2011, p. 298).
+Ante o exposto, não conheço o presente habeas corpus.
+Publique-se. Intimem -se.
+ EMENTA
