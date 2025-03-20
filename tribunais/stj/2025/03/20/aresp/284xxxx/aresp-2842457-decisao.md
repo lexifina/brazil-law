@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão exarado pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 949-952):
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA - SERVIÇO PÚBLICO DE TRANSPORTE COLETIVO EM ARACAJU/SE - VEÍCULOS DA FROTA CIRCULANTE COM LICENCIAMENTO VENCIDO - JUÍZO DE ORIGEM QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS AUTORAIS, CONDENANDO A PARTE REQUERIDA À SUBSTITUIÇÃO DOS AUTOMÓVEIS DA FROTA CIRCULANTE COM LICENCIAMENTO EM ATRASO, NO PRAZO DE 12 (DOZE) MESES - INSURGÊNCIA DO MINISTÉRIO PÚBLICO - PEDIDO DE REFORMA DA SENTENÇA PARA SUBSTITUIÇÃO IMEDIATA DOS REFERIDOS AUTOMÓVEIS E IMPEDIMENTO DE SUA CIRCULAÇÃO - PRELIMINAR SUSCITADA EM CONTRARRAZÕES DE AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA - REJEIÇÃO - MÉRITO - INEXISTÊNCIA DE VINCULAÇÃO ENTRE A AUSÊNCIA DE PAGAMENTO DE LICENCIAMENTO E A FALTA DE SEGURANÇA DA POPULAÇÃO USUÁRIA DO SERVIÇO DE TRANSPORTE COLETIVO - DELIBERAÇÃO DO CONTRAN Nº 170/2018 QUE SUSPENDEU A EXIGÊNCIA DE INSPEÇÃO VEICULAR PRÉVIA AO LICENCIAMENTO, PARA APURAÇÃO DAS CONDIÇÕES DE SEGURANÇA, CONTROLE DE EMISSÃO DE GASES POLUENTES E DE RUÍDO - ART. 104 E ART. 131, §3º, AMBOS DO CTB - AUTOR QUE NÃO DEMONSTROU QUE OS VEÍCULOS COM LICENCIAMENTO EM ATRASO ESTÃO EM MÁS CONDIÇÕES OU REPRESENTEM RISCO À COLETIVIDADE, A JUSTIFICAR A SUA IMEDIATA RETIRADA DA FROTA CIRCULANTE - RAZOABILIDADE DO PRAZO DE 12 (DOZE) MESES FIXADO PELO JUÍZO DE ORIGEM PARA SUBSTITUIÇÃO DOS VEÍCULOS - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Em seu recurso especial de fls. 968-982, o recorrente aponta violação ao artigo 22, parágrafo único, do Código de Defesa do Consumidor, ao artigo 29, incisos I, II e VIII, e artigo 31, ambos da Lei nº 8.987/1995, e aos artigos 107 e 135, do Código de Trânsito Brasileiro.
+Pleiteia a redefinição do prazo para substituição dos veículos irregulares da frota de transporte coletivo de Aracaju, a proibição da circulação de veículos com restrições judiciais e licenciamento atrasado, e a impossibilidade de integração de novos veículos com essas restrições à frota.
+O Tribunal de origem, às fls. 1009-1013, não admitiu o recurso especial sob os seguintes argumentos:
+(..)
+Da ausência de prequestionamento. Ab initio, para que o Recurso Especial seja alçado à Instância Superior, é necessário que a Corte local tenha decidido sobre o tema proposto. Assim, ao se argumentar ofensa ou inaplicabilidade à lei federal, o acórdão natal deve discutir a matéria, sob pena do recurso extremo não ser conhecido. A exigência do prequestionamento é constitucional, estabelecida no art. 105 da Carta Magna.
+Neste contexto, analisando os fundamentos do acórdão combatido e as razões do presente Recurso Especial, constato a ausência de prequestionamento em relação aos artigos de lei, supostamente violados.
+De fato, o Tribunal local não emitiu qualquer juízo de valor sobre os referidos artigos de lei no especial, não sendo possível ao STJ, sob pena de incorrer em supressão de instância, adentrar em tal matéria.
+No presente caso sequer foram opostos Embargos Declaratórios, circunstância que atrai a incidência, por analogia, das Súmulas nº 282 e 356 do STF.
+(..)
+Destarte, a remessa se mostra inviável.
+Ademais, analisar a pretensão do Recorrente, sugerindo que o STJ reveja a ótica do Tribunal a quo, é inserir petitório de reanálise das provas carreadas aos autos, o que é vedado pela Súmula 07 da Corte Superior.
+(..)
+Mediante o exposto, INADMITO o Recurso Especial, NEGANDO-LHE SEGUIMENTO.
+Em seu agravo, às fls. 1026-1041, o agravante alega equívoco da decisão agravada, que teria desconsiderado o prequestionamento implícito "demonstrado por meio do debate de questão jurídica correlata tratada no apelo excepcional".
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) "ausência de prequestionamento em relação aos artigos de lei, supostamente violados", atraindo o óbice das Súmulas 282 e 356 do STF, aplicadas por analogia; e (ii) incidência do enunciado 7 da Súmula do STJ, em razão da contenda demandar reexame fático e probatório dos autos.
+Todavia, no seu agravo, a parte deixou de infirmar adequada e detalhadamente todos os argumentos da decisão de inadmissibilidade. Logo, os fundamentos da decisão agravada, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime- se.
+EMENTA
+DIREITO ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
