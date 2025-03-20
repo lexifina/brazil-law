@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, embargos de declaração opostos por BRANDINA OLIVEIRA DE ARAUJO contra decisão que deu provimento ao Recurso interposto pelo Instituto Nacional do Seguro Social.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que "a questão julgada pelo STF não dialoga com o caso concreto destes autos, tendo em vista que o referido Tema aborda especificamente a aplicabilidade da legislação futura em execuções judiciais cujos títulos executivos foram constituídos antes dessa alteração legisla tiva e que previam um índice diferente. No presente caso, o título executivo que sustenta a pretensão autoral foi proferido após à edição da referida legislação " (fl. 268 ).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou expressamente consignou:
+"Quanto ao mais, a Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que "os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada" (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/9/2015, DJe de 25/9/2015).(AgInt no AREsp n.
+2.530.904/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+ ..
+Ainda nessa linha de raciocínio, consoante recente entendimento firmado pela Suprema Corte, no julgamento do Tema de Repercussão Geral 1.170, a sentença, que aplicou juros de mora contra a Fazenda Pública em contrariedade ao art. 1ºF da Lei 9.494/1997, pode ser modificada na fase de execução sem ofensa a coisa julgada".
+Destaque-se , ademais, que "a tese fixada no Tema 1.170/STF reconheceu a inexistência de violação à coisa julgada, em razão de se estar aplicando legislação posterior à formação do título judicial  ..  a coisa j ulgada foi formada com base na legislação anterior à data de vigência da Lei n. 11.960/2009, ou seja, seus pressupostos fáticos e jurídicos foram alterados, razão pela qual cabe aplicar o entendimento firmado no Tema 1.170/STF" (STJ, REsp 2.189.137, Ministro SÉRGIO KUKINA, DJEN de DJEN 19/12/2024).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
