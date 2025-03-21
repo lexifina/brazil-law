@@ -1,0 +1,20 @@
+DECISÃO
+O presente writ, sem pedido liminar, impetrado em benefício de ROGERIO FERRARI CARRILHO - condenado pelos crimes de posse ilegal de arma de fogo de uso restrito e porte ilegal de munição de uso permitido -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Revisão Criminal n. 0037144-08.2023.8.26.0000), comporta pronto acolhimento.
+Busca a impetração a revisão da condenação imposta e mantida pelas instâncias ordinárias ao paciente na ação penal que tramitou perante o Juízo de Direito da 3ª Vara da comarca de Caraguatatuba/SP, requerendo, liminarmente e no mérito, que a jurisprudência deste Superior Tribunal de Justiça seja aplicada, no sentido de se reconhecer o concurso formal (ao invés da continuidade, concurso material ou consunção) quando a apreensão da arma e munições de uso permitido e restrito são encontradas num mesmo contexto (fl. 28).
+Trata-se de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível. No entanto, vislumbro o alegado constrangimento.
+Vejamos o que o Tribunal estadual disse acerca da questão (fl. 66 - grifo nosso):
+ ..
+Por fim, quanto ao pedido da defesa do corréu Evandro de afastamento do reconhecimento de concurso material entre os crimes, o mesmo se mostra igualmente inviável, posto que se tratam de condutas independentes, que podem existir por si só. Tendo o referido corréu praticado ambas, ou seja, retendo posse sobre armamento de uso restrito, e munições de uso permitido, potencializando a periculosidade e as consequências de suas ações. Sendo imperioso o reconhecimento do concurso material entre as diferentes ações.
+ ..
+Ocorre que o entendimento consolidado pelo STJ determina que o concurso formal se verifica quando há unidade de ação ou omissão para a prática de dois ou mais crimes, desde que ausentes desígnios autônomos (REsp n. 2.091.925/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025).
+No caso, constatou-se que os crimes de posse ilegal de arma de fogo de uso restrito e porte ilegal de munição de uso permitido ocorreram no mesmo contexto fático, sem pluralidade de condutas ou desígnios distintos, sendo aplicável a regra do concurso formal (fl. 59).
+Com efeito, nos termos da jurisprudência deste Tribunal Superior, o aumento relativo ao concurso formal deve ter como parâmetro o número de delitos perpetrados, no intervalo legal entre as frações de 1/6 e 1/2. Nessa linha, "o aumento da pena decorrente do concurso formal próprio é calculada com base no número de infrações penais cometidas. Nesses termos, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações e 1/2 para 6
+ou mais infrações" (HC n. 421.419/MG, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe 22/4/2019) - (AgRg no HC n. 751.495/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe 20/9/2023).
+Assim, reconhecida a prática de 2 infrações em concurso formal, deve ser acrescida a fração de 1/6 à pena mais grave, no caso, o crime de porte ilegal de arma de fogo de uso restrito (fl. 53 ), o que totaliza 4 anos e 1 mês de reclusão, e pagamento de 13 dias-multa.
+Em face do exposto, concedo liminarmente a ordem impetrada para reconhecer o concurso formal entre os crimes de posse ilegal de arma de fogo de uso restrito e porte ilegal de munição de uso permitido, redimensionando a pena do paciente em 4 anos e 1 mês de reclusão, e pagamento de 13 dias-multa, mantido, no mais, o édito condenatório.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. USO INDEVIDO DA AÇÃO CONSTITUCIONAL. PRETENSÃO DE RECONHECIMENTO DO CONCURSO FORMAL. DELITOS COMETIDOS NO MESMO CONTEXTO FÁTICO. POSSIBILIDADE. REDIMENSIONAMENTO DA PENA QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
