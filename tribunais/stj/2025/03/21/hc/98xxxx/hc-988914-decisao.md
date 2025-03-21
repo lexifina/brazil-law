@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado pela Defensoria Pública em favor de REINALDO COTA DE OLIVEIRA SOARES, em que se aponta como autoridade coatora a 7ª Câmara de Direito Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento da apelação criminal n. 1540037-73.2022.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 2 anos, 9 meses e 18 dias de reclusão em regime inicial fechado e ao pagamento de 13 dias-multa, no valor mínimo unitário legal, como incurso no art. 155, § 4º, IV, do Código Penal (fls. 38-43).
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, conforme acórdão de fls. 58-76.
+No presente writ, a defesa alega que não há evidências concretas que vinculem o paciente ao furto ocorrido, pois as testemunhas ouvidas não presenciaram o suposto furto, as imagens das câmeras de segurança apenas apresentam Elias, e as impressões digitais colhidas nos veículos não pertencem ao paciente (fls. 5-6).
+Sustenta que o paciente não pode ser condenado com base em suposições sobre sua possível autoria do crime, devendo a condenação ocorrer apenas quando houver certeza inequívoca de sua participação no delito (fl. 7).
+Alega ainda que houve indevida majoração da pena em 1/5 em razão da reincidência específica, o que contraria o entendimento do Superior Tribunal de Justiça, que estabelece a fração de 1/6 para tal circunstância (fls. 8-9).
+Afirma que o regime fechado para início do cumprimento da pena foi fixado com base em circunstâncias judiciais desfavoráveis e reincidência, o que não se justifica, pois a reincidência não impede a aplicação de regime mais brando, conforme as Súmulas nº 718 e 719 do STF (fls. 10-11).
+Requer, assim, em caráter liminar e no mérito, a concessão da ordem para absolver o paciente nos termos do art. 386, VII, do Código de Processo Penal, a aplicação da fração de 1/6 na segunda fase da dosimetria da pena, e a fixação de regime inicial aberto ou semiaberto (fls. 12).
+É o relatório. DECIDO.
+A controvérsia diz respeito à possível ilegalidade na negativa de absolvição do paciente e, subsidiariamente, à recusa na aplicação da fração de 1/6 referente à reincidência específica e à fixação do regime aberto ou semiaberto.
+Inicialmente, insta consignar que o presente habeas corpus investe contra acórdão em substituição ao recurso próprio cabível, não podendo ser conhecido. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO. 1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido" (AgRg no HC n. 738.224/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/12/2023).
+" ..
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido" (AgRg no HC n. 857.913/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1/12/2023).
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, analiso a pretensão defensiva.
+Quando ao pleito de absolvição, cumpre ressaltar que o habeas corpus não se presta para a apreciação de alegações que buscam absolvição ou desclassificação de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+A propósito do tema, trago à colação os seguintes julgados desta Quinta Turma:
+" ..
+3. As instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, entenderam pela presença de liame subjetivo no roubo praticado pelos agentes. Concluir de forma diversa implica exame aprofundado do material fático-probatório, inviável em recurso especial, a teor da Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 1364727/DF, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 22/11/2018);
+" ..
+1. O Tribunal a quo soberana na análise dos elementos fáticos e probatórios dos autos, concluiu que a autoria e a materialidade do crime consumado ficaram devidamente demonstradas nos autos pelas "palavras da vítima em consonância com os dizeres dos milicianos, e a contradição e inverossimilhança das alegações dos acusados." Ademais, não reconheceu a forma tentada tendo em vista que "os réus somente foram encontrados em virtude de diligências encetadas pelos policiais militares" em cooperação recíproca e carregando o portão furtado. No que toca a questão do concurso o aresto combatido frisou que o "ofendido narrou que foram dois indivíduos que, agindo em conjunto, desprenderam o portão de sua residência e, em seguida, evadiram-se com o bem. Não se esqueça, ademais, que ambos foram encontrados pela polícia enquanto, em cooperação recíproca, carregavam o objeto." Nesse contexto, a alteração do julgado, para o fim de absolver, diminuir a reprimenda pela tentativa ou excluir o concurso de agentes, implicaria necessariamente o reexame do material fático-probatório. Todavia, tal providência é inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+ ..
+5. Agravo regimental não provido." (AgRg no AREsp 420.467/SP, Rel. Ministro Ribeiro Dantas, QUINTA TURMA, julgado em 2/10/2018, DJe 10/10/2018).
+No tocante à fração de aumento referente à reincidência específica, destaco, para melhor delimitar a controvérsia, os excertos do acórdão impugnado, no que interessa à espécie (e-STJ fl. 311, grifei):
+"Na segunda fase, foi devidamente reconhecida a agravante da reincidência (autos nº 0006355-16.2021 - receptação, autos nº 0007556-77.2020 - furto qualificado, autos nº 0018389-53.2018 - furto qualificado), aumentando a pena em 1/5."
+No caso, o agravamento da pena do paciente em fração superior a 1/6 está justificado pelo fato de o paciente ostentar três condenações definitivas anteriores, pois "o Superior Tribunal de Justiça firmou entendimento no sentido de que a multirreincidência constitui justificativa idônea para acréscimo superior a 1/6 na segunda fase da dosimetria da pena" (AgRg no HC n. 561.431/SP, minha relatoria, Quinta Turma, julgado em 3/3/2020, DJe de 9/3/2020).
+Quanto ao regime inicial para o resgate da reprimenda, insta consignar que, conforme o disposto no artigo 33, § 3º, do Código Penal, além do quantum da pena, também deve haver a análise das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+O regime adequado à hipótese é o inicial fechado, nos termos do art. 33, §§ 2º e 3º, do Código Penal, uma vez que o paciente detém circunstâncias judiciais desfavoráveis (maus antecedentes) e é multirreincidente.
+Nesse sentido:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. PENA-BASE. MAUS ANTECEDENTES E REINCIDÊNCIA. AUSÊNCIA DE BIS IN IDEM. REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é no sentido de que, havendo múltiplas condenações, não há que se falar em bis in idem na consideração de fatos distintos para fins de maus antecedentes e reincidência. No presente caso, para o desvalor dos antecedentes e para a reincidência foram utilizadas condenações diversas, não havendo qualquer ilegalidade a ser sanada.
+2. Em atenção ao art. 33, § 2º, do CP, embora estabelecida a pena definitiva em 7 anos e 6 meses de reclusão, o acusado é multirreincidente e possui maus antecedentes, fundamentos a justificar a fixação de regime prisional mais gravoso, no caso, o fechado.
+3. Agravo regimental não provido."
+(AgRg no AREsp n. 2.720.314/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2024, DJe de 16/9/2024.)
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem.
+Ante o exposto, não conheço do presente habeas corpus.,
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
