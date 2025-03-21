@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/TO, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS EM RAZÃO DE MANUTENÇÃO DE PRISÃO INDEVIDA. PRISÃO ILEGAL. ERRO PERPETRADO POR AGENTES PÚBLICOS. OCORRÊNCIA. MANDADO DE PRISÃO DOMICILIAR. PRISÃO EFETUADA EM REGIME FECHADO. ATO ILEGAL. RESPONSABILIDADE OBJETIVA DO ESTADO POR ATOS PRATICADOS POR SEUS AGENTES. CONFIGURADA. ART. 927 DO CÓDIGO CIVIL. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. REDUÇÃO. DESCABIMENTO. PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA.
+1- Nos termos do Art. 37, §6º da Constituição Federal, as pessoas jurídicas de direito público possuem responsabilidade objetiva quanto aos atos lesivos praticados por seus agentes e, na hipótese restou provado nos autos o dano e o nexo de causalidade, existindo dever de indenizar do apelado.
+2- A segregação injusta da liberdade, viola à honra, à dignidade e à liberdade de locomoção do ofendido, maculando, portanto, direitos de personalidade.
+3- O apelante não desincumbiu de seu ônus (art. 373, II, do CPC), uma vez que, mesmo com a expedição de alvará de soltura por progressão de regime, o requerente não foi posto em liberdade na data correta (02 de dezembro de 2021), permanecendo recolhido no estabelecimento prisional até o dia 20 de janeiro de 2022, conforme certidão acostada no evento 433 do processo de execução penal, totalizando-se assim 49 (quarenta e nove) dias indevidamente preso, em virtude de mandado de prisão domiciliar oriundo de ação de execução de alimentos, ainda em trâmite na Comarca de Gurupi - TO, conforme consta em certidão juntada no evento 420 dos autos de execução penal.
+4- O quantum indenizatório fixado a título de danos morais pelo magistrado singular, no valor de R$ 30.000,00 (trinta mil reais), deve ser mantido, indo de encontro do caso concreto, observando-se rigorosamente os princípios da razoabilidade e proporcionalidade, não havendo falar-se em redução.
+5- Apelação conhecida e improvida.
+6- Sentença mantida.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega violação do artigo 944 do Código Civil, sob argumento de que a indenização fixada no acórdão recorrido se mostra exorbitante, configurando enriquecimento sem causa da parte adversa. Além disso, sustenta que o montante arbitrado não observa os princípios da razoabilidade e proporcionalidade, sendo necessário ajustá-lo aos parâmetros da jurisprudência dominante do Superior Tribunal de Justiça.
+Com contrarrazões.
+Juízo positivo de admissibilidade.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso não merece prosperar.
+No presente caso, o Tribunal de origem, ao apreciar a apelação, decidiu manter a indenização por danos morais no valor R$ 30.000,00 (trinta mil reais), considerando que as circunstâncias do caso justificavam a manutenção do montante indenizatório.
+À fl. 177e, a Corte destacou:
+Denota-se, como bem mencionado pelo magistrado de origem, que "o requerente sofreu constrangimento ilegal em sua liberdade de locomoção. O mandado de prisão foi expedido em ação de execução de alimentos, não tendo a Central de Alvará de Soltura - CAS se atentado no momento do cumprimento do alvará de soltura nº 0001439-18.2016.8.27.2731.05.0010-03 que se tratava de prisão civil DOMICILIAR.".
+Ressalta-se, nos termos do Art. 37, §6º da Constituição Federal, as pessoas jurídicas de direito público possuem responsabilidade objetiva quanto aos atos lesivos praticados por seus agentes e, na hipótese restou provado nos autos o dano e o nexo de causalidade, existindo dever de indenizar do apelado.
+A segregação injusta da liberdade por um dia que seja, viola à honra, à dignidade e à liberdade de locomoção do ofendido, portanto, direitos de personalidade, configurando do erro judiciário para efeitos indenizatórios.
+A ação perpetrada pelos agentes públicos, causou efeitos deletérios na esfera jurídica do apelado, tanto objetiva quanto subjetivamente, uma vez que o Poder Judiciário ao condicionar a liberdade do requerido à eventual Decisão do Juízo de Família e Sucessões de Gurupi -TO, uma vez que o decreto prisional restringia sua liberdade tão somente aos limites de sua residência, em razão da determinação de prisão civil domiciliar.
+Ocorre que tal fato expôs o recorrido a uma situação vexatória, mostrando-se razoável, então, obrigar o ente estatal a prestar contas em razão dessa violação à honra, à dignidade e à liberdade de locomoção do autor, nos termos do art. 927 do Código Civil. Além do mais, o apelante não desincumbiu de seu ônus (art. 373, II, do CPC).
+Portanto, uma vez configurado o dever de indenizar, resta verificar se o quantum indenizatório, arbitrado pelo juízo a quo, está em conformidade com as peculiaridades da causa.
+No mais, a reparação dos danos morais causados deve ser fixada em montante razoável, que coíba práticas reiteradas por parte do ofensor, e de outra parte, não promova enriquecimento sem causa ao ofendido, observando-se rigorosamente os princípios da razoabilidade e proporcionalidade.
+Deste modo, o quantum indenizatório fixado a título de danos morais pelo magistrado singular, no valor de R$ 30.000,00 (trinta mil reais), deve ser mantido, indo de encontro do caso concreto, não havendo falar-se em redução.
+Nesse contexto, desconstituir os elementos de prova acostados aos autos, a fim de verificar se o valor fixado pelos danos causados à agravada é ou não exorbitante, considerando as circunstâncias do caso concreto, exige necessariamente o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, em razão da incidência da Súmula 7/STJ.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a pretensão de revisão do montante fixado a título de danos morais nas instâncias ordinárias demanda o reexame do suporte fático-probatório dos autos, atividade vedada no âmbito do recurso especial, salvo em casos excepcionais, quando o quantum indenizatório estabelecido é manifestamente irrisório ou exorbitante, hipótese não demonstrada no caso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VALOR INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que os valores fixados, a título de indenização por dano moral, atendem aos princípios da proporcionalidade e da razoabilidade, considerando as circunstâncias do caso concreto. Rever tal entendimento demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidência da Súmula 7/STJ
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.045.342/TO, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 21/6/2023.)
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
