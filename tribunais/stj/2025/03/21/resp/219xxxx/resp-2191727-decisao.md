@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fls. 232-233):
+ADUANEIRO E TRIBUTÁRIO. IMPORTAÇÃO DE PNEUS. MEDIDA ANTIDUMPING. AUTO DE INFRAÇÃO. DESNECESSIDADE. DESPACHO ADUANEIRO. DOCUMENTOS INSTRUTIVOS. ERRO FORMAL. BOA-FÉ. ART. 112 DO CTN. MULTA. DESPROPORCIONALIDADE.
+I. Caso em exame
+1. Trata-de de apelação em ação pelo procedimento comum em face de sentença que julgou improcedente o pedido de declaração da ilegalidade e inexigibilidade das multas impostas por informações incompletas, embarque antes do deferimento da LI e direito antidumping, no importe de R$113.037,44.
+II. Questão em discussão
+2. A questão em discussão consiste em verificar se é admissível, sem a lavratura do auto de infração competente, que seja imposta qualquer espécie de multa ou sanção administrativa ao contribuinte.
+III. Razões de decidir
+3. Nos termos da legislação aduaneira, constatada ocorrência que impeça o prosseguimento do despacho de importação, o seu curso deve ser interrompido, não sendo cabível o desembaraço da mercadoria até que o crédito tributário seja atendido ou sejam oferecidas garantias. O Supremo Tribunal Federal, no julgamento do RE 1090591, em sede de repercussão geral, firmou a tese do Tema 1042, segundo a qual "É constitucional vincular o despacho aduaneiro ao recolhimento de diferença tributária apurada mediante arbitramento da autoridade fiscal".
+4. A lavratura do auto de infração não é imprescindível à prestação de garantia para fins de desembaraço aduaneiro antecipado.
+5. Não há ofensa aos princípios do contraditório e da ampla defesa, tal qual invocado pela autora, pois há previsão na legislação (art. 571, § 3º do Decreto n. 6.759/2009) de oportunidade para contraditar as exigências fiscais, por ocasião do desembaraço. Nesta hipótese, o contribuinte que não concorde com a cobrança no curso do despacho de importação poderá apresentar manifestação de inconformidade, a ser apreciada na forma prevista no Decreto nº 70.235/1972.
+6. Segundo os princípios da razoabilidade e proporcionalidade, as medidas adotadas pela Administração devem ser aptas e suficientes a cumprir o fim a que se destinam, e com o menor gravame aos administrados para a consecução dessa finalidade. Incabível que o ato administrativo atribua ônus demasiadamente desproporcional à falta cometida pelo administrado. As exigências formais devem ceder diante de situações que, por suas características, denotam o efetivo esforço do administrado em regularizar sua situação.
+7. No caso concreto, o conjunto probatório não revelou a intenção do agente de enquadrar erroneamente as mercadorias na tentativa de obter qualquer vantagem indevida, sendo razoável concluir pelo excesso da sanção imposta, no tocante à aplicação da Multa por prestação de informações incompletas (Art. 711, inciso III do Decreto n. 6.759/2009)
+IV. Dispositivo
+8. Apelação provida em parte para, reformando parcialmente a sentença, reconhecer a inexigibilidade da multa decorrente da exigência fiscal relativa às D Is n.º 18/2294501-3, nº 18/2294506-4 e nº 18/2294488-2.
+Dispositivos relevantes citados: art. 112 do CTN; arts. 543, 571, § 1º, I, 706, 711 e 717 do Decreto nº 6.759/2009; arts. 44 e 51 do DL nº 37/66; art. 1º da INSRF nº 680, 02.10.2006; art. 42 da IN SRF 680/2006; art. 7º da Lei n. 9.019/95. Jurisprudência relevante citada: Súmula 323 do STF.
+A parte recorrente alega, unicamente, negativa de vigência aos artigos 744 e 768 do Decreto n. 6.759/2009, aduzindo: "a exige ncia do Auditor Fiscal interrompendo o despacho aduaneiro - prestes a reter as mercadorias objeto da Declaraça o de Importaça o em questa o - nega vige ncia aos artigos 744 e 768, todos do Regulamento Aduaneiro - Decreto nº 6.759/2009, que, ao regulamentar as operaço es de come"rcio exterior e com vistas a preservar o devido processo legal na esfera administrativa (artigo 5º, LIV e LV, da Constituiça o Federal de 1988), determinaram, sistematicamente, o lançamento de ofício do cre"dito tributa"rio decorrente da suposta reclassificaça o fiscal e a aplicaça o, a partir dai", do rito do processo administrativo  iscal, na forma do Decreto nº 70.235/1972" (fl. 245).
+Requer o provimento do recurso especial para "declarando-se a ilegalidade e inexigibilidade das multas por informações incompletas, embarque antes do deferimento da LI e direito antidumping, eis que inexistente a lavratura do auto de infração correspondente" (fl. 259).
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 640
+É o relatório. Passo a decidir.
+Consigna-se, inicialmente, que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Com efeito, o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+Nota-se, da simples leitura do acórdão recorrido, que o Tribunal de origem não emitiu qualquer juízo de valor quanto aos dispositivos apontados, o que denota a falta de pronunciamento ou prequestionamento sobre a controvérsia suscitada.
+Desse modo, i nadmissível recurso especial por ausência de prequestionamento da tese recursal vinculada, a respeito da qual nem sequer houve a oposição de embargos de declaração. Incidência das Súmulas 282/STF e 356/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. LEI 13.670/2018. VEDAÇÃO DE COMPENSAÇÃO DOS DÉBITOS RELATIVOS AO RECOLHIMENTO MENSAL POR ESTIMATIVA DO IRPJ E DA CSLL. AUSÊNCIA DE OFENSA AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA, DA ANTERIORIDADE E DA IRRETROATIVIDADE. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento.
+Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. A admissão do prequestionamento ficto, previsto no art. 1.025 do Código de Processo Civil (CPC), exige não apenas a oposição dos embargos de declaração na Corte de origem como também a indicação, no recurso especial, da ofensa ao art. 1.022 do CPC, especificamente quanto à questão que se pretende ver analisada, o que não ocorreu no presente caso.
+ ..
+7. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.944.716/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
