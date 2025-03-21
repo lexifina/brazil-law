@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOAO VITOR DE SOUZA ROSARIO - condenado como incurso no crime de tráfico de drogas majorado pelo emprego de arma (Ação Penal n. 0004427-66.2023.8.08.0024) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente na condenação imposta pelo Juízo de Direito da 4ª Vara Criminal da comarca de Vitória/ES, ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada sem fundada suspeita.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, consta da sentença condenatória que a busca domiciliar ocorreu quando policiais militares, durante patrulhamento no Bairro da Penha, observaram uma queima de fogos e disparos de arma de fogo, relacionados ao velório de um indivíduo envolvido no tráfico local. Ao chegarem ao local conhecido como "Beco 2", visualizaram vários indivíduos armados, incluindo Joao Vitor de Souza Rosario, que arremessou uma bolsa sobre o muro de uma casa e invadiu uma residência com o portão aberto. Os policiais adentraram a residência e localizaram o acusado em um dos cômodos, onde foram encontrados diversos itens, incluindo carregadores e munições compatíveis com a pistola apreendida (fls. 19/22).
+Evidenciada a existência da indicação de fundadas suspeitas do cometimento de crime no recinto, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. INDIVÍDUOS ARMADOS, ARREMESSO DE SACOLA E INVASÃO DE RESIDÊNCIA PELO RÉU. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
