@@ -1,0 +1,18 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ORIENTE MOTORS COMERCIO DE VEICULOS LTDA. e outros, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: indenizatória ajuizada pelas agravantes, em face de EVER ELETRIC APPLIANCES INDUSTRIA E COMERCIO DE VEICULOS LTDA e outra, em razão de ausência na formalização de contrato de concessão de marca.
+Sentença: julgou improcedente o pedido.
+Acórdão: não conheceu da apelação interposta pela parte agravante, nos termos da seguinte ementa:
+Agência e distribuição. Ação de indenização.
+Indeferimento dos benefícios da justiça gratuita às apelantes com determinação para recolhimento do preparo no prazo de cinco dias, sob pena de não conhecimento do apelo, por força do que estabelece o art. 101, § 2º, do CPC. Recolhimento em montante inferior ao devido, uma vez que o valor da causa na data do pagamento, que é base de cálculo do preparo, não foi atualizado, contrariando entendimento consolidado do C. Superior Tribunal de Justiça. Inaplicabilidade ao caso do art. 1.007, caput e § 2º, do CPC ao caso em exame. Deserção configurada. Precedentes deste E. Tribunal de Justiça.
+Recurso não conhecido. (e-STJ, fl. 2.514)
+Decisão de admissibilidade do TJ/SP: inadmitiu o recurso especial em razão dos seguintes fundamentos: i) não demonstrada a alegada vulneração ao dispositivo arrolado; ii) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); iii) dissídio jurisprudencial não comprovado; iv) aplicação da Súmula 13/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que: i) "Indeferida a justiça gratuita, o pagamento foi feito, conduto, sem a devida atualização. De tal forma, o pagamento à menor implicaria na intimação para complementação, conforme determina o art. 1.007, §2º, do Código de Processo Civil"; ii) não se busca rediscutir questões fáticas, pois trata-se de fatos incontroversos; iii) "Na razões recursais referente ao fundamento contido no art. 105, inciso III, alínea "c", da Constituição Federal, explanou-se uma série de julgados em que foi dada interpretação diferente àquela dada pelo Tribunal a quo"; iv) "Não se discorda do teor da Súmula 13 do Superior Tribunal de Justiça. O que se impugna é a sua aplicação no presente caso, eis que, conforme demonstrado, o Recurso Especial se baseou em julgados oriundos de outros dois tribunais, questão que comporta a sua análise pelo Tribunal competente, qual seja, pelo Superior Tribunal de Justiça."
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) dissídio jurisprudencial não comprovado.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro para 12 % os honorários fixados anteriormente, ressalvada eventual concessão da gratuidade da justiça.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC.
+Publique-se. Intimem-se.
+EMENTA
