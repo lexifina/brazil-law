@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Edilson Soero da Luz, em que se aponta como autoridade coatora o eminente Relator da Apelação Criminal n. 5001140-59.2023.8.21.0020 que indeferiu o pedido de revogação da prisão cautelar, sob a alegação de excesso de prazo.
+A defesa informa que o paciente foi condenado às penas de 51 anos e 4 meses de reclusão, e de 1 ano de detenção, pela prática dos crimes de tráfico de drogas, associação ao tráfico e posse irregular de munição, e que o réu estaria preso desde 14/3/2023, aguardando o julgamento do recurso de apelação desde 13/8/2024, sem previsão de data.
+Alega a defesa que há excesso de prazo na formação da culpa, pois o recurso de apelação tramita há mais de 7 meses sem previsão de julgamento, enquanto os demais acusados estão em liberdade. Sustenta que a prisão preventiva do paciente é ilegal, pois não há atualidade do risco que justificaria a manutenção da prisão, e que o princípio da presunção de inocência deve prevalecer (fls. 4/5).
+Afirma que o paciente possui condições pessoais favoráveis, como endereço fixo na cidade de Palmeira das Missões/RS, e ele se compromete a comparecer a todos os atos judiciais, além de estar disposto a usar tornozeleira eletrônica, caso necessário (fl. 7).
+Requer o relaxamento da prisão do paciente, com a expedição do competente alvará de soltura, ou, alternativamente, a substituição da prisão por medidas cautelares, como monitoramento eletrônico, comparecimento mensal em juízo, proibição de se ausentar da comarca e recolhimento noturno.
+É o relatório.
+Este habeas corpus foi impetrado contra decisão terminativa, monocrática, proferida no Tribunal local, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância.
+Ora, ausente a interposição de agravo regimental a fim de submeter a decisão unipessoal e a questão ao órgão colegiado a quo, exaurindo a instância antecedente, não cabe a análise da controvérsia por esta Corte Superior. A esse respeito, entre outros, os seguintes precedentes: AgRg no HC n. 659.332/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 17/5/2021; AgRg no HC n. 625.731/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 509.051/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/6/2019; RCD no HC n. 447.287/SP, de minha relatoria, Sexta Turma, DJe 29/5/2018; e AgRg no HC n. 645.300/GO, Ministro Reynaldo Soares da Fonseca, DJe 15/3/2021.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA. DESCABIMENTO. INSTÂNCIA ANTECEDENTE NÃO EXAURIDA. ANÁLISE DO MÉRITO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES.
+Writ indeferido liminarmente.
