@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por TRANSMERIDIANO TRANSPORTES RODOVIARIOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 176):
+Agravo de instrumento - Recuperação judicial - Impugnação de crédito - Decisão recorrida que reconheceu a extraconcursalidade dos créditos do banco credor, mas determinou a manutenção dos bens dados em garantia fiduciária sob a posse da recuperanda, ante o reconhecimento da sua essencialidade - Ônus de prova da essencialidade que recai sobre o devedor - Enunciado nº 99 da III Jornada de Direito Comercial - Ausência de comprovação na espécie - Possibilidade, ademais, de retomada dos bens, ainda que essenciais, após o transcurso do "stay period" - Enunciado III do Grupo Reservado de Direito Empresarial deste Tribunal de Justiça - Decisão reformada - Recurso provido.
+Sem embargos de declaração.
+No recurso especial, alega que o acórdão contrariou as disposições contidas no artigo 47 da Lei n. 11.101/2005 ao permitir a retomada dos bens essenciais pela instituição financeira, comprometendo o pro cesso de recuperação judicial.
+Sustenta que os bens objeto dos contratos são essenciais para a continuidade das atividades empresariais, conforme o referido dispositivo legal, que visa a preservação da empresa e a manutenção da fonte produtora.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 270-283).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 292-294), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 318-331).
+O Ministério Público Federal apresentou parecer às fls. 343-346, opinando pelo desprovimento do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da consonância com a jurisprudência do STJ e do reexame de fatos e provas. Súmulas n. 7 e 83/STJ.
+No que se refere à alegada violação do art. 47 da Lei n. 11.101/2005, observa-se que o Tribunal de origem concluiu que a parte recorrente não se desincumbiu do seu ônus de comprovar a essencialidade dos bens para a continuidade das atividades empresariais, senão vejamos (fls. 181-183):
+O Enunciado nº 99 da III Jornada de Direito Comercial dispõe que, "para fins de aplicação da parte final do art. 49, § 3º, da Lei n. 11.101/2005, é do devedor o ônus da prova da essencialidade do bem".
+Na espécie, porém, a agravada não demonstrou que os bens garantidores são essenciais à continuidade das suas atividades empresariais.
+É certo que a mera circunstância de a agravada atuar no transporte rodoviário de carga não é suficiente, por si só, para impedir a retomada dos veículos alienados fiduciariamente. Até porque, conforme se verifica do relatório mensal de atividades elaborado pela administradora judicial, a recuperanda "encerrou o mês de maio de 2020 com 71 colaboradores ativos", "obteve um faturamento de R$ 2,2 milhões, representando um crescimento de 18% em relação ao mês anterior", "possui 7 unidades ativas e 3 inativas distribuídas pelo Brasil que atendem a 20 estados" e "auferiu a receita de R$ 32,9 milhões no acumulado de junho de 2019 a 2020" (fls. 85/116), não sendo crível, nesse cenário, que a retomada dos onze veículos relativos aos contratos nº 9.378.641 e 1.210.824 (fls. 51/64 e 66/81, respectivamente) seja suficiente para inviabilizar o soerguimento da empresa.
+Aliás, frisa-se que as atividades empresariais da recuperanda assim prosseguiram não obstante terem os seis veículos relativos ao contrato 1.210.824 sido integralmente apreendidos em ação de busca e apreensão em março de 2019 (proc. nº 1019325-97.2017.8.26.0114 - fls. 235, 271, 283 e 289/291).
+A administradora judicial compartilha do mesmo entendimento, tendo manifestado suas considerações nos seguintes termos: "a essencialidade não restou comprovada nos autos. Isto porque, não basta que a empresa seja uma transportadora e que os bens sejam veículos para presumir que se trata de bens imprescindíveis ao funcionamento da empresa. Além disso, são considerados bens essenciais aqueles que, se apreendidos, acarretam risco iminente ao cumprimento do plano de recuperação judicial, cabendo à Recuperanda a prova de que os bens garantidores dos créditos fiduciários são imprescindíveis para tal fim, por se tratar de fato impeditivo do direito do credor" (fls. 132).
+De modo semelhante, a D. Procuradoria Geral de Justiça ressaltou que "analisando os autos de origem, é forçoso reconhecer que não restou suficientemente comprovada a essencialidade dos referidos bens à atividade empresarial da recuperanda" (fls. 173). Em outras palavras, segundo a lei e a jurisprudência vigentes, a essencialidade do bem, por si só, não impede a concretização de eventuais medidas que sobre ele recaiam.
+Assim, ainda que os bens em questão fossem considerados essenciais, a apreensão deles pelo credor fiduciário estaria autorizada caso configurado o decurso do prazo de "stay period".
+E, no caso concreto, considerando que o deferimento da recuperação judicial data de agosto de 2015 (autos da recuperação judicial, proc. nº 1023746-04.2015.8.26.0114, fls. 337), não há dúvida de que o "stay period" há muito se escoou, até porque sua prorrogação foi revogada por esta Câmara Reservada de Direito Empresarial no julgamento do agravo de instrumento nº 2052932-72.2016.8.26.0000.
+Percebe-se que, após a análise do acervo fático-probatório, a Corte a quo concluiu pela não essencialidade dos bens, uma vez que, apesar de tratar-se de transportadora, não restou demonstrado que a apreensão dos veículos obstaria o cumprimento do plano de recuperação judicial pela empresa recorrente.
+Ademais, destacou que independente da essencialidade dos bens, sua apreensão estaria autorizada em razão do decurso do prazo de stay period, nos termos da jurisprudência do STJ.
+Alterar o decidido no acórdão impugnado, no que se refere à essencialidade dos bens e à possibilidade de sua constrição, encontra óbice nas Súmulas n. 7 e 83/STJ.
+A propósito, confira-se precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL PARA DELIBERAR ACERCA DE ATOS EXECUTÓRIOS DETERMINADOS PELO JUÍZO DA EXECUÇÃO FISCAL A SEREM PRATICADOS SOBRE O ACERVO PATRIMONIAL DA RECUPERANDA. PRECEDENTE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Execução Fiscal.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Segundo a jurisprudência do STJ, Nos termos dos arts. 6º, § 7º-B, da Lei n. 11.101/2005 e 67 a 69 do CPC, compete ao juízo da execução fiscal determinar os atos de constrição judicial sobre bens e direitos de sociedade empresária em recuperação judicial, sem proceder à alienação ou ao levantamento de quantia penhorada, comunicando, por dever de cooperação, a medida ao juízo da recuperação, ao qual compete exercer o controle e deliberar, até o encerramento do procedimento de soerguimento, sobre a substituição de ato constritivo que recaia sobre bens de capital essenciais à manutenção da atividade empresarial, podendo, inclusive, formular proposta alternativa de satisfação do crédito, em procedimento de cooperação recíproca. Precedente.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.114.499/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+- Da divergência jurisprudencial
+A incidência das Súmulas n. 7 e 83 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+- Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intime-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. ESSENCIALIDADE DOS BENS PARA A ATIVIDADE EMPRESARIAL. SÚMULAS N. 7 E 83/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
