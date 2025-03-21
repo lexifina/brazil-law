@@ -1,0 +1,114 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de IVAN LIMA CAETANO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal nº 0018174-94.2024.8.26.0041).
+Consta dos autos que o juízo da execução indeferiu pedidos de remição da pena por leitura, por aprovação no ENEM/Ensino Médio e decorrente de conclusão de cursos à distância.
+Inconformada, a defesa ingressou na origem com agravo de execução penal, o qual foi desprovido nos termos da ementa abaixo (fl. 15):
+Agravo em execução. Insurgência contra a decisão que indeferiu a remição de pena pela leitura, por aprovação no ENEM, bem como por conclusão de cursos à distância. Não acolhimento. Não cumprimento dos requisitos para a análise e validação das resenhas de obras literárias. Sentenciado, policial civil, que já possuía formação no ensino médio anteriormente à participação no certame. Inobservância, ademais, dos requisitos previstos no art. 126, § 2º da Lei de Execução Penal relativamente à remição por conclusão de cursos EAD. Manutenção da decisão recorrida. Recurso improvido.
+A impetrante alega, em síntese, que o paciente dedicou-se aos estudos, realizando a leitura de obras literárias, cursos profissionalizantes, e foi aprovado no ENEM, com notas acima da média, e que todos os documentos comprobatórios foram devidamente juntados, sendo a documentação oficial e devidamente assinada pelo Diretor do presídio.
+Afirma que a negativa de remição pela aprovação no ENEM baseou-se na argumentação de que o paciente foi aprovado em concurso público, o que não impede o benefício da remição, pois o objetivo do apenado foi se qualificar para aprovação no ENEM e buscar ressocialização.
+Alega que a negativa de remição por leitura e realização de cursos profissionalizantes foi fundamentada na falta de participação do apenado em clube de leitura, o que não deve ser impedimento para a concessão do benefício, considerando os esforços do paciente em sua ressocialização.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, a fim de que seja concedida a remição pelo curso profissionalizante realizado, perfazendo um total de 3.014 horas, bem como remição pela leitura, descontando em sua pena 188 dias e 100 dias pela aprovação no ENEM.
+Pedido de liminar indeferido (fls. 107-108).
+As informações foram prestadas às fls. 111-119 e fls. 123-142.
+O Ministério Público Federal manifestou-se, às fls. 147-152, em parecer assim ementado:
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA. LEITURA E CURSO PROFISSIONALIZANTE À DISTÂNCIA. NÃO CUMPRIMENTO DOS REQUISITOS LEGAIS. REEXAME DE FATOS E PROVAS. APROVAÇÃO NO ENEM. ANTERIOR CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. PELA CONCESSÃO PARCIAL DA ORDEM.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..
+II - O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 935.569/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Passo a analisar a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Como visto acima, a defesa pretende, em síntese, a remição da pena por leitura, aprovação no ENEM e em curso profissionalizante a distância.
+Na hipótese em análise, da leitura do acórdão acórdão recorrido que manteve o indeferimento a decisão do juízo da execução, observa-se que o indeferimento da remição por leitura se deu porque não foram cumpridos os critérios estabelecidos pelo CNJ, na Recomendação n 391/2021 para a regular avaliação da atividade exercida pelo sentenciado (fl. 16).
+Destacou-se, ainda, que dos documentos colacionados pela Defesa, "observa-se a existência de simples resenhas, subscritas por Coordenador Pedagógico e por Coord. de Curso de Ensino Médio, sendo os autos omissos quando à Comissão de Validação de Validação para análise dos relatórios de leitura" (fls. 16-17).
+A jurisprudência desta Corte reconhece a possibilidade de remição da pena pela leitura, contudo, devem ser atendidos certos requisitos para a devida comprovação do aproveitamento da leitura realizada. Nesse sentido:
+ ..
+3. Somente é possível a remição pela leitura se houver projeto desenvolvido pelo estabelecimento prisional e preenchidos os demais requisitos da Recomendação 44/2013 do Conselho Nacional de Justiça
+4. Agravo regimental conhecido parcialmente e desprovido.
+(AgRg no HC n. 812.750/SP, relator Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, julgado em 24/10/2023, DJe de 27/10/2023.)
+ ..
+4. No que tange à remição por leitura, os documentos apresentados como resenhas foram elaborados pelo sentenciado por iniciativa própria, ou seja, não foram feitos dentro do Programa referente à parceria da unidade prisional com a Faculdade Dehoniana e a Funap, conforme Termo de Cooperação nº 01.0035/18P0054/18, de forma que não foram preenchidos os requisitos do art. 5º e seguintes da Resolução nº 391/2021 do Conselho Nacional de Justiça.
+5. Agravo Regimental não provido.
+(AgRg no HC n. 815.763/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/5/2023, DJe de 15/5/2023.)
+ ..
+2. No caso, consoante apontado pela Corte de origem, "não houve avaliação das resenhas apresentadas pelo sentenciado por qualquer profissional vinculado à SAP ou à FUNAP, motivo pelo qual, uma vez que desgarrado de qualquer programa oficial, o exercício intelectual de leitura desenvolvido não se presta para o fim de remir a pena" (fl. 290).
+3. Agravo regimental não provido.
+(AgRg no HC n. 820.914/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)
+Quanto ao pedido de remição da pena por aprovação em curso profissionalizante à distância, o Tribunal de origem ressaltou que, do documento juntado pela defesa, não se vislumbra o preenchimento dos pressupostos do § 2 º do artigo 126 da LEP, da Resolução n 391/2021 do CNJ e da Orientação nº 1/2022 do CNJ, pois "não há indicação de acompanhamento da unidade prisional ou mesmo demonstração de que o curso esteja de acordo com o projeto político-pedagógico do Estado" (fl. 22).
+De fato, o entendimento do Tribunal a quo está em consonância com o deste Tribunal Superior, pois a ausência de fiscalização e comprovação de que o curso atende os requisitos necessários à remição da pena impede a concessão do benefício. A propósito:
+" ..
+4. A remição da pena por estudo à distância exige comprovação de horas estudadas, fiscalização pela unidade prisional e credenciamento do curso, conforme jurisprudência do Superior Tribunal de Justiça.
+5. A ausência de fiscalização e credenciamento adequado inviabiliza a concessão do benefício de remição, conforme precedentes jurisprudenciais.
+IV. RECURSO PROVIDO. RESTABELECIMENTO DA DECISÃO DE PRIMEIRO GRAU.
+(REsp n. 2.026.707/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)"
+" ..
+1. A remição de pena em razão das horas de estudo à distância concluídas pelo paciente pode ser deferida, desde que as atividades - desenvolvidas de forma presencial ou a distância -, sejam certificadas pelas autoridades educacionais competentes dos cursos frequentados, conforme o disposto no art. 126, § 2º, da LEP.
+2. O benefício demanda, pois, um controle mínimo para seu reconhecimento, com intuito de evitar fraudes e a sua inadvertida concessão.
+3. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça é firme ao asseverar que, "ainda que concluído o curso na modalidade à distância - in casu - a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais" (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/8/2019).
+4. O Tribunal Estadual consignou que não foi comprovada a certificação dos cursos pela autoridade educacional competente, além de não haver informações sobre as horas efetivamente estudadas, de modo que não se verifica o cumprimento dos requisitos legais para a remição das horas estudadas.
+5. A revisão do entendimento adotado pela instância de origem para decidir de forma contrária, acolhendo-se o pedido defensivo, demandaria o revolvimento fático-probatório, obstado na estreita via do habeas corpus.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 799.281/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+Ademais, para alterar a conclusão a que chegaram as instâncias ordinárias e acolher a pretensão da defesa demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível via eleita. Nesse sentido:
+1. A Lei de Execução Penal permite a remição pela leitura, contudo, devem ser atendidos certos requisitos para a devida comprovação do aproveitamento da leitura realizada. Precedentes.
+2. Inviável o afastamento da conclusão da Corte estadual de que não houve análise pela comissão avaliadora para atestar a efetiva leitura da obra indicada pelo ora agravante, pois tal providencia demandaria aprofundado revolvimento fático-probatório, vedado na via estreita do writ.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 793.046/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+ ..
+1. A remição de pena em razão das horas de estudo à distância concluídas pelo paciente pode ser deferida, desde que as atividades - desenvolvidas de forma presencial ou a distância -, sejam certificadas pelas autoridades educacionais competentes dos cursos frequentados, conforme o disposto no art. 126, § 2º, da LEP.
+2. O benefício demanda, pois, um controle mínimo para seu reconhecimento, com intuito de evitar fraudes e a sua inadvertida concessão.
+3. No caso, as instâncias ordinárias mencionaram que a entidade educacional que ministrou os cursos profissionalizantes realizados pelo executado - a Escola CTB/EAD - não possui credenciamento no Sistema MEC/SISTEC - o que afasta a presunção de legitimidade à instituição de ensino, apta a gerar confiança no apenado de que os cursos ministrados pela referida instituição seriam todos válidos e hábeis a permitir a remição de pena por estudo.
+Ademais, foi juntada aos autos certidão da unidade prisional na qual se certifica a conclusão de curso de qualificação pelo interno, contudo, os referidos certificados são assinados tão somente pelo Diretor da Instituição, ou seja, não consta do documento a certificação por Autoridades Educacionais.
+ ..
+6. A revisão do entendimento adotado pela instância de origem para decidir de forma contrária, acolhendo-se o pedido defensivo, demandaria o revolvimento fático-probatório, obstado na estreita via do habeas corpus.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 781.776/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023.)
+Portanto, quanto ao pedido de remição pela leitura e aprovação em curso profissionalizante a distância, sem razão a impetrante.
+No que tange ao pedido de remição da pena por aprovação no ENEM, da análise dos elementos informativos constantes dos autos, verifica-se a flagrante ilegalidade a legitimar a atuação desta Corte.
+O Tribunal de origem manteve o indeferimento da remição da pena pela aprovação no ENEM, com os seguintes fundamentos (fl. 17)
+Por outro lado, o recorrente, policial civil (investigador de polícia) não faz jus à remição decorrente de participação no exame do ENEM/2021, haja vista que possuía formação em nível superior incompleto à época da prática do crime.
+Sendo assim, o acolhimento da pretensão recursal caracterizaria indevido bis in idem, posto que beneficiaria duplamente o sentenciado.
+Contudo, o entendimento do acórdão recorrido destoa da orientação desta Corte de Justiça.
+A Resolução n. 391/2021, do Conselho Nacional de Justiça (CNJ), que revogou a Recomendação n. 44/2013 do mesmo órgão, determina que a aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena.
+Assim, a alteração de redação da norma do CNJ silenciou sobre a possibilidade de remição em caso de aprovação parcial no Enem, bem como sobre sua aplicação aos casos em que o reeducando possuía a formação antes do ingresso no sistema prisional.
+Não por outro motivo, no julgamento do EREsp n. 1.979.591/SP, de minha relatoria, a Terceira Seção deste Superior Tribunal de Justiça fixou o entendimento de que é possível a remição, mesmo nos casos de aprovação parcial no Enem ou de prévia aprovação do grau de ensino.
+Eis a ementa do julgado:
+"EXECUÇÃO PENAL. EMBARGOS DE DIVERGÊNCIA. PROCESSO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO EXAME NACIONAL DO ENSINO MÉDIO. APÓS CONCLUSÃO DO ENSINO MÉDIO. POSSIBILIDADE DE CONCESSÃO DA BENESSE. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. O Exame Nacional de Certificação de Competências de Jovens e Adultos - ENCCEJA é a avaliação de âmbito nacional própria para a certificação do aproveitamento do conteúdo programático do ensino médio e do ensino fundamental àqueles que atingiram a idade de quinze anos (para o nível fundamental) ou dezoito anos (para o nível médio). Diferentemente do ENEM, o ENCCEJA não se presta, por si só, ao ingresso no ensino superior.
+2. No caso dos autos, minha posição externada no julgamento do HC n. º 786.844, foi no sentido de que o paciente não faria jus à remição pelo estudo individual, uma vez que, conforme ressaltado pelo agravante, ao iniciar o cumprimento da pena, o agravado já havia concluído o ensino médio. Naquela oportunidade, o fundamento adotado era o de que a finalidade da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento da pessoa presa, mas, facilitar a sua reintegração social por meio do aprendizado de novos conhecimentos.
+3. Contudo, no julgamento do precitado HC n.º 786.844, realizado em agosto desta ano de 2023, restou consignado pela Quinta Turma deste STJ, por maioria de votos, a possibilidade de remição da pena na hipótese em exame, ou seja, mesmo após a conclusão do ensino médio e ainda que o sentenciado tenha obtido o diploma de curso superior antes do início do cumprimento da pena, como é o caso dos autos.
+4. Em sendo assim, submeto os presentes embargos de divergência a esta Terceira Seção, para que se defina a posição deste colegiado em relação ao tema e se estabilize a jurisprudência desta Corte, de forma a se atender ao dever cooperativo de coerência enunciado pelo art. 926 do CPC. Embargos de divergência providos"
+(EREsp n. 1.979.591/SP, Terceira Seção, de minha relatoria, DJe de 13/11/2023, grifei).
+No que se refere à base de cálculo a ser utilizada, a Resolução n. 391/2021, CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no Enem ou no Encceja, será considerada como base de cálculo, para fins de cômputo das horas visando à remição da pena, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+Partindo dessa diretriz, este Superior Tribunal de Justiça firmou o entendimento de que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+Idêntica forma de realizar a contagem do tempo a ser remido é aplicável ao ENEM, ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal.
+Corroborando:
+" ..  o Conselho Nacional de Justiça editou a Recomendação n. 44 de 26/11/2013 e a Resolução n. 391/2021, que tratam da possibilidade de remir dias de pena pela aprovação nos exames nacionais que certificam a conclusão de ensino médio e fundamental, bem como no ENEM.
+3. O objetivo deste conjunto de regras acerca da remição da pena por aproveitamento dos estudos é incentivar ao apenado a dedicação de seu tempo aos estudos, favorecendo, desse modo, a readaptação ao convívio social, bem como o ingresso no mercado de trabalho.
+4. Quanto à base de cálculo, "a jurisprudência desta Corte e do Supremo Tribunal Federal é assente no sentido de que as 1.200 horas, correspondentes ao ensino médio, divididas por 12 (1 dia de pena a cada 12 horas de estudo) resultam em 100 dias remidos  .. " e que " ..  Idêntica forma de parametrar a contagem do tempo a ser remido é aplicável ao ENEM, com a exceção de que o apenado aprovado em todas as áreas do ENEM, a partir de 2017, não faz jus ao acréscimo de 1/3 (um terço) previsto no art. 126, § 5º, da LEP." (AgRg no HC n. 786.844/SP, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 13/9/2023).
+5. Hipótese em que não se verifica flagrante ilegalidade, apta a ensejar a concessão da ordem, de ofício, na determinação judicial para que fossem remidos 40 dias de pena do reeducando, relativos à sua aprovação em duas áreas do conhecimento do ENEM.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 935.988/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)"
+" ..
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal. (AgRg no HC n. 768.530/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023) Precedentes: AgRg no REsp n. 1.863.149/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/3/2023, DJe de 22/3/2023; AREsp 1.741.138/DF, Rel. Min. MESSOD AZULAY NETO, DJe de 15/06/2023; HC 828.572/SP, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 12/06/2023; REsp 2.069.804/MG, Rel. Min. RIBEIRO DANTAS, DJe de 06/06/2023; HC 799.103/SP, Rel. Min. RIBEIRO DANTAS, DJe de 19/04/2023.
+ ..
+5. Transposto esse raciocínio para a situação da conclusão do ensino médio antes do ingresso do apenado no sistema prisional, é forçoso concluir, também, que sua superveniente aprovação no ENEM durante o cumprimento da pena não corresponde ao mesmo nível de esforço e ao mesmo "fato gerador" correspondente à obtenção do grau do ensino médio, não havendo que falar em concessão do benefício (remição de pena) em duplicidade pelo mesmo fato.
+6. De se pontuar, ademais, que essa particular forma de interpretar a lei e as normas que tratam da remição de pena por estudo é a que mais se aproxima da Constituição Federal, que faz da cidadania e da dignidade da pessoa humana dois de seus fundamentos, bem como tem por objetivos fundamentais erradicar a marginalização e construir uma sociedade livre, justa e solidária (incisos I, II e III do art. 3º). Tudo na perspectiva da construção do tipo ideal de sociedade que o preâmbulo da respectiva Carta Magna caracteriza como "fraterna" (HC n. 94163, Relator Min. CARLOS BRITTO, Primeira Turma do STF, julgado em 2/12/2008, DJe-200 DIVULG 22/10/2009 PUBLIC 23/10/2009 EMENT VOL-02379-04 PP-00851).
+7. A jurisprudência desta Corte e do Supremo Tribunal Federal é assente no sentido de que as 1.200 horas, correspondentes ao ensino médio, divididas por 12 (1 dia de pena a cada 12 horas de estudo) resultam em 100 dias remidos.
+Idêntica forma de parametrar a contagem do tempo a ser remido é aplicável ao ENEM, com a exceção de que o apenado aprovado em todas as áreas do ENEM, a partir de 2017, não faz jus ao acréscimo de 1/3 (um terço) previsto no art. 126, § 5º, da LEP.
+8. No caso concreto, a defesa comprovou que o apenado obteve aprovação em 4 (quatro) das 5 (cinco) áreas de conhecimento no ENEM 2019, somente não atingiu a nota mínima na área de conhecimento "Matemática e suas tecnologias".
+Portanto, não merece reparos a decisão agravada que concedeu a ordem de ofício, para deferir ao paciente o total de 80 (oitenta) dias de remição de pena, em virtude de sua aprovação parcial no ENEM/2019.
+9. Agravo regimental do Ministério Público estadual desprovido.
+(AgRg no HC n. 786.844/SP, relator Ministro Joel Ilan Paciornik, relator para acórdão Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/8/2023, DJe de 13/9/2023.) (grifei)
+Contudo, diante da instrução precária deste habeas corpus, não é possível aferir a efetiva aprovação do paciente no ENEM - 2021.
+Ante o exposto, não conheço do habeas corpus. No entanto, concedo, em parte, habeas corpus de ofício para determinar que o juízo da execução proceda a remição da pena por aprovação no ENEM, se comprovada a efetiva participação e notas acima da média no certame.
+Intime-se, com urgência, a origem para cumprimento.
+Publique-se. Intimem-se.
+ EMENTA
