@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de pedido de Suspensão de Liminar formulado pelo Município de Aparecida de Goiânia/GO contra a decisão proferida no Agravo de Instrumento 5646177-22.2024.8.09.0000, em trâmite no Tribunal de Justiça de Goiás, que deu parcial provimento àquele recurso, concedendo liminar em Ação Civil Pública movida pelo Ministério Público de Goiás.
+Consta dos autos que, na origem, o Ministério Público de Goiás ajuizou a Ação Civil Pública 5468096-23.2021.8.09.0011, visando impedir o Município de Aparecida de Goiânia de contratar servidores comissionados para o exercício de funções técnicas, burocráticas e operacionais, notadamente aquelas previstas para os cargos de provimento por efetivo existentes no Município.
+O Ministério Público explicou que do total de 14 (quatorze) servidores que estão lotados na Coordenadoria de Análise e Licenciamento Ambiental, órgão técnico municipal na área de meio ambiente, apenas dois são efetivos, os demais são "indicados pelos mais variados agentes públicos".
+Apontou, ainda, que, "mesmo que exercendo a mesma função, há servidores percebendo remuneração diferente, indicando a absoluta ausência de critérios e violação aos princípios da legalidade, isonomia e do ingresso por concurso público no âmbito do Município de Aparecida de Goiânia".
+Indeferida a liminar pelo Juízo de primeira instância, a decisão foi reformada no julgamento do Agravo de Instrumento 5646177-22.2024.8.09.0000, tendo o Tribunal de Justiça de Goiás determinado:
+ ..
+acolho o parecer ministerial de cúpula, conheço e dou parcial provimento ao agravo de instrumento para reformar a decisão recorrida a fim de deferir a tutela provisória de urgência voltada a a) fazer cessar a ocorrência das contratações, em caráter precário, notadamente de assessores em seus variados níveis, para o exercício de funções técnicas, burocráticas e operacionais, notadamente a de fiscais de meio ambiente, analista de meio ambiente e analista de obras e urbanismo, a contar da intimação; e b) publique o respectivo edital de concurso público no prazo máximo de 90 (noventa dias) a contar da intimação. Em caso de descumprimento de ambas as providências, fixo multa diária de R$ 1.000,00 (hum mil reais).
+ ..
+Alega o município requerente do Pedido de Suspensão de Liminar e de Sentença a ocorrência de "grave lesão à ordem pública social e a economia pública":
+.. pois caso deferido, o mesmo acarretaria ainda na não prestação de serviço público, ferindo diretamente o princípio da continuidade do serviço público, em razão da paralisação da contratação de servidores técnico e especializado para desempenhar estas funções de vistoria e concessão de licenças ambientais. Além disso, a medida liminar torna-se satisfativa e para além disso determina o cumprimento do mérito da ação em curtíssimo lapso temporal o que inviabiliza o cumprimento da mesma sem grave lesão aos cofres públicos ou economia pública.
+Sustenta que as políticas públicas competem ao Poder Executivo e que o "Estado-juiz não pode atuar como Estado-administração".
+Requer, ao final, a suspensão da decisão que concedeu a liminar no Agravo de Instrumento 5646177-22.2024.8.09.0000.
+É o relatório.
+Decido.
+Nos termos do art. 4º da Lei 8.437/1992, "compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas".
+A suspensão dos efeitos do ato judicial é providência excepcional, cumprindo ao requerente a efetiva demonstração da grave e iminente lesão aos bens jurídicos tutelados pela legislação de regência, quais sejam: a ordem, a saúde, a segurança e/ou a economia públicas.
+E, no presente caso, não foi efetivamente comprovada, com dados e elementos concretos, a ocorrência de grave lesão à ordem e à economia públicas.
+Bem ao contrário: a Administração Municipal trouxe argumentos genéricos e inconsistentes no sentido de que "as políticas públicas competem ao Poder Executivo" e de que o "Estado-juiz não pode atuar como Estado-administração".
+Ocorre que toda e qualquer prática da Administração Pública está sujeita ao controle jurisdicional  tanto os atos ativos quanto os omissivos  , consectário do princípio constitucional da inafastabilidade da jurisdição, mormente quando gravosos e contrários ao interesse público.
+Cito precedentes:
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. IMPOSSIBILIDADE LEGAL DE UTILIZAÇÃO DO INCIDENTE PROCESSUAL DA SUSPENSÃO COMO SUCEDÂNEO RECURSAL. NÃO COMPROVAÇÃO INEQUÍVOCA DE VIOLAÇÃO DOS BENS JURÍDICOS TUTELADOS PELA LEGISLAÇÃO DE REGÊNCIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva lesão ao interesse público.
+2. A suspensão dos efeitos do ato judicial é providência excepcional, cabendo ao requerente a efetiva demonstração da alegada ofensa grave aos bens jurídicos tutelados pela legislação de regência, quais sejam, ordem, saúde, segurança e/ou economia públicas.
+3. As questões eminentemente jurídicas debatidas na instância originária são insuscetíveis de exame na via suspensiva, cujo debate tem de ser profundamente realizado no ambiente processual adequado.
+4. Não apontou a parte agravante situações específicas ou dados concretos que efetivamente pudessem demonstrar que o comando judicial atual não deve prevalecer com relação ao não reconhecimento de violação dos bens jurídicos tutelados pela legislação de regência. Agravo interno improvido.
+(AgInt na SLS n. 3.075/DF, relator Ministro Humberto Martins, Corte Especial, julgado em 9/8/2022, DJe de 12/8/2022.)
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. CORREIOS. OPERADORA DO PLANO DE SAÚDE DOS FUNCIONÁRIOS. PENHORA DOS VALORES EXECUTADOS. GRAVE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. NÃO DEMONSTRAÇÃO. VIA INADEQUADA PARA A ANÁLISE DO MÉRITO DA CONTROVÉRSIA.
+1. O deferimento do pedido de suspensão está condicionado à cabal demonstração de que a manutenção da decisão impugnada causa efetiva e grave lesão ao interesse público.
+2. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+3. Agravo interno desprovido.
+(AgInt na SLS n. 2.535/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 5/8/2020, DJe de 2/9/2020.)
+Neste caso, é flagrante que a conduta que vinha sendo levada a efeito pela Administração de Aparecida de Goiânia é que é apta a gerar gravíssimo dano à ordem pública, especialmente ao substituir servidores de carreira, que gozam de estabilidade no serviço público exatamente para que possam desempenhar a sua atividade livres de turbações, de interferência e de embaraços por parte da gestão atual, por servidores comissionados, subordinados e dependentes de quem os nomeia.
+É inviável se pretender, em Suspensão de Liminar e de Sentença, que se mantenha a sistemática dos apadrinhamentos, principalmente quando se trata da relevantíssima e sensível questão de servidores responsáveis pela concessão de licenciamentos ambientais.
+Portanto, a suspensão pretendida é que  ela sim  e propícia a gerar autêntico periculum in mora inverso.
+Por fim, registro que era dever do município ter provido os seus quadros de servidores há muito tempo, constituindo o seu atual proceder autêntica aberração jurídica.
+Por todo o exposto, indefiro o pedido de Suspensão.
+Publique-se.
+Intimem-se.
+EMENTA
+SUSPENSÃO DE LIMINAR E DE SENTENÇA. DECISÃO DE ORIGEM PROFERIDA EM AÇÃO CIVIL PÚBLICA MOVIDA PELO MINISTÉRIO PÚBLICO ESTADUAL QUE PROÍBE CONTRATAÇÕES E NOMEAÇÕES DE SERVIDORES COMISSIONADOS PARA O EXERCÍCIO DE FUNÇÕES PÚBLICAS RELEVANTES, ENTRE ELAS A CONCESSÃO DE LICENCIAMENTO AMBIENTAL. DECISÃO QUE ORDENA A ABERTURA DE CONCURSO PÚBLICO. MUNICÍPIO QUE PRETENDE MANTER A SISTEMÁTICA DOS APADRINHAMENTOS. AUSÊNCIA DE GRAVE LESÃO PROPICIADA PELA DECISÃO QUE SE QUER VER SUSPENSA. CONDUTA DA REQUERENTE DA SLS QUE  ELA SIM  É APTA A GERAR GRAVÍSSIMA LESÃO À ORDEM PÚBLICA. PERICULUM IN MORA INVERSO. SUSPENSÃO NEGADA.
