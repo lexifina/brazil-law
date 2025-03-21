@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo do ITAU UNIBANCO S.A contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "c", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0018495-30.2013.8.26.0037.
+Consta dos autos que o agravado foi absolvido das imputações formuladas na denúncia, como incurso no art. 171, caput, na forma do art. 71, do CP, com fundamento no art. 386, VII, do CPP.
+Recurso de apelação interposto pela acusação foi provido para condená-lo pela prática do delito tipificado no art. 171, caput (por 44 vezes), c/c art. 71, caput, ambos do Código Penal, à pena de 02 anos, 02 meses e 20 dias de reclusão, e 21 dias-multa (fl. 797), declarada, de ofício, a extinção da punibilidade pela ocorrência da prescrição da pretensão punitiva estatal.
+Embargos de declaração opostos pela acusação foram parcialmente acolhidos para reconhecer a agravante prevista no art. 61, II, g, do CP, com alteração da reprimenda do agravante para 02 anos, 07 meses e 03 dias de reclusão e 25 dias-multa, decretada, de ofício, a extinção da punibilidade pela ocorrência da prescrição da pretensão punitiva estatal, e estabelecido, a título de reparação mínima, o valor de R$ 623.479,27 (fl. 814).
+Em sede de recurso especial (fls. 825/840), a defesa do Itaú Unibanco S.A - assistente de acusação apontou divergência jurisprudencial ao argumento de que o aumento de apenas 1/6 sobre a pena mínima cominada ao crime se mostra equivocado, divergindo de decisões de outros tribunais, devendo a pena-base ser aumentada em 1/8 sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal para cada circunstância judicial negativa.
+Requer seja fixada a fração mínima de 18 entre a pena mínima e a máxima cominada ao tipo pena, aumentando-se a pena-base do recorrido em 12 meses.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO (fls. 947/961).
+O recurso especial foi inadmitido no TJ em razão de: a) óbice das Súmulas n. 282 e 356 do STF e; b) não cumprimento dos requisitos necessários à demonstração do dissenso, pois se tratam de hipóteses diversas (fls. 1048/1049).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 1053/1071).
+Contraminuta do Ministério Público (fls. 1073/1077).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do recurso especial (fls. 1092/1097).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+De fato, só após o julgamento da apelação, com a condenação do ora agravado, surgiu o interesse do ora recorrente em alterar o quantum de aumento de pena adotado pelo Tribunal a quo na primeira fase da dosimetria.
+Os embargos desta assistente de acusação só vincularam omissões a respeito da agravante do art. 61, II, g, do CP e da reparação do dano à vítima, restando silente quanto à fração de majoração da pena-base.
+Sendo assim, o recurso especial não ultrapassa o conhecimento, por incidência das Súmulas n. 282 e 356 do STF, que impedem a análise do dissenso pretoriano indicado nas razões recursais. No sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MÚTUO BANCÁRIO. RELAÇÃO CONSUMERISTA. VERIFICAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. EMPRÉSTIMO BANCÁRIO. FOMENTO DA ATIVIDADE EMPRESARIAL. RELAÇÃO DE CONSUMO. INEXISTÊNCIA. ARESTO IMPUGNADO CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. VENCIMENTO ANTECIPADO DO DÉBITO. PRETENSÃO DE COBRANÇA. ACTIO NATA. VENCIMENTO ORIGINAL DA ÚLTIMA PARCELA. ABUSO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CONFORMIDADE DO ACÓRDÃO RECORRIDO AO ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Para a jurisprudência do STJ, "é inaplicável o diploma consumerista na contratação de negócios jurídicos e empréstimos para fomento da atividade empresarial, uma vez que a contratante não é considerada destinatária final do serviço" (REsp n. 2.001.086/MT, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/9/2022, DJe de 30/9/2022).2.1. A Corte a quo não dissentiu de tal entendimento, pois afastou a incidência do CDC pelo fato de a parte agravante não ser a destinatária final do empréstimo bancário, visto que o crédito foi empregado no fomento da atividade empresarial.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+5. Conforme o entendimento desta Corte Superior, "o vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp n. 1.408.664/PR, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/4/2018, DJe de 30/4/2018).
+5.1. A Corte local apurou a prescrição da pretensão de cobrança do banco, ora recorrido, com base na cédula de crédito rural, a partir do vencimento original da última parcela, ainda que existente a cláusula de vencimento antecipado do débito no caso de inadimplemento do mutuário, o que não diverge de tal orientação.
+Caso de aplicação da Súmula n. 83/STJ.
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 282, 283 e 356 do STF e 83 do STJ.7. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.159.296/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Ante o exposto, con heço do agravo para não conhecer do recurso especial, com fundamento no artigo 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
