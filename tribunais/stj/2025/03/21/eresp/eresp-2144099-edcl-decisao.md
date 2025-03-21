@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAO VITOR RODRIGUES NASCIMENTO em que indeferi liminarmente os embargos de divergência em razão dos seguintes fundamentos: a) ausência de divergência entre as turma da Terceira Seção; b) ausência de similitude fática entre os acórdãos embargado e paradigmas; e c) não cabimento dos embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial.
+Em suas razões, o embargante alega que "o cerne da divergência era a continuidade de buscas pelo local, e, neste sentido, a adoção de depoimentos policiais sem credibilidade, enquanto, data vênia, a inadmissão dos embargos de divergência se deu sem proceder à análise detalhada dos pontos em comum entre os casos comparados, realizada pela defesa" (e-STJ fl. 922).
+Aduz, ainda, a ocorrência de erro material na decisão embargada, uma vez que "o recurso foi CONHECIDO e NÃO PROVIDO, tendo havido a análise das teses jurídicas veiculadas no apelo especial. A questão relativa à Súmula 7 deste STJ aventada pelo eminente Relator do Recurso Especial foi justamente um dos objetos da divergência, posto que no entender da defesa, não constitui revolvimento fático a revaloração de depoimento de agente público manifestamente despido de fiabilidade" (e-STJ fl. 923).
+Diante disso, requer o acolhimento dos embargos de declaração, com efeitos infringentes, para suprir a omissão e corrigir o erro material, nos termos alegados.
+É o relatório.
+Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão. Cuida-se, portanto, de ferramenta processual apta ao aprimoramento do julgamento já realizado.
+A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+A despeito dos argumentos expendidos, é certo que a decisão embargada analisou as questões submetidas ao crivo desta Corte Superior, de forma fundamentada e com clareza, nos limites necessários e possíveis à solução da lide.
+Com efeito, a decisão embargada foi expressa ao inadmitir os embargos de divergência com base nos seguintes fundamentos: a) ausência de divergência entre as turma da Terceira Seção a respeito da necessidade de fundadas razões, devidamente justificadas pelas circunstâncias do caso concreto para que o ingresso forçado em domicílio sem mandado judicial seja considerado legítimo, nos termos do RE n. 603.616/RO, relator Ministro Gilmar Mendes, DJe 8/10/2010.; b) ausência de similitude fática entre os acórdãos embargado e paradigmas; e c) não cabimento dos embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como no caso, em que o apelo especial esbarrou no óbice da Súmula n. 7 do STJ.
+Diante disso, não há que se falar em omissão ou erro material no julgado embargado.
+Percebe-se, iss o sim, uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Com base nessas considerações, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
