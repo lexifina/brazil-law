@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSÉ CARLOS DA SILVA JÚNIOR, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, nos autos do Agravo em Execução Penal negou provimento ao recurso.
+O recorrente interpôs o presente recurso especial, no qual aponta violação aos artigos 50, §2º, do Código Penal e 833, inciso IV do Código de Processo Civil, informando que a penhora do pecúlio comprometeria a subsistência do condenado e de sua família.
+Requer o cancelamento da penhora do pecúlio.
+Contrarrazões apresentadas às fls. 85/92.
+O Ministério Público Federal manifesta-se pelo não provimento do recurso às fls. 105/107.
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais de admissibilidade, conheço do recurso.
+No mérito, o pedido não comporta provimento.
+O Juízo da Vara de Execuções Criminais da Comarca de Marília/SP deferiu a penhora de  do pecúlio do recorrente, para execução de pena de multa.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo em execução interposto pela Defesa, conforme acórdão a seguir ementado, seguindo-se a interposição do recurso especial:
+AGRAVO EM EXECUÇÃO EXECUÇÃO DA PENA DE MULTA Deferimento de desconto da quarta parte do valor mensal percebido pelo sentenciado Alegação de impenhorabilidade de pecúlio, ex vi do artigo 833, inciso IV, do Código de Processo Civil Descabimento Lei de Execução Penal que expressamente prevê a possibilidade de penhora objetivando o adimplemento da pena de multa Artigo 170 c/c. o artigo 168, inciso I, ambos da Lei nº 7.210/1984. Conflito aparente de normas, resolvido pelo princípio da especialidade.
+DECISÃO ACERTADA E MANTIDA. AGRAVO DESPROVIDO.
+É sabido que o Código Penal e a Lei de Execução Penal possuem regramento específico a respeito da cobrança da pena de multa do condenado, não se aplicando, ao caso, as disposição da legislação processual civil, diante da especialidade da matéria.
+Sendo assim, para cumprir a pena de multa, a legislação específica estabelece os procedimentos legais para resguardar o seu adimplemento, dentre eles a possibilidade de penhora de bens.
+O respaldo para a possibilidade de constrição de bens da pessoa condenada encontra-se no art. 164, §1º, da LEP. Esse dispositivo confere autorização para a "penhora de tantos bens quanto bastem para garantir a execução". É importante ressaltar que essa medida pode abranger inclusive a remuneração do condenado, conforme estipulado nos arts. 168, incisos I a III, e 170 do mesmo diploma legal.
+Assim, se a legislação de regência admite a cobrança da multa pena mediante desconto na remuneração do apenado, não há que se falar na incidência do art. 833, IV do CPC, como quer fazer crer a Defesa. Tal compreensão segue o princípio da especialidade, assegurando a aplicação efetiva das normas específicas da legislação penal executória, conforme já consignado.
+Nesse sentido, o artigo 50, §1º do Código Penal dispõe que a cobrança da multa pode ser efetuada mediante desconto no vencimento ou salário do condenado, excetuando, no §2º, os recursos indispensáveis ao sustento do condenado e sua família.
+Já o artigo 168, inciso I da Lei de Execução Penal estabelece que o limite máximo de desconto no vencimento ou salário do condenado será o da quarta parte da remuneração e o mínimo de um décimo, deixando ao arbítrio do julgador esta margem para a fixação do patamar que entender mais adequado, em consonância com as condições econômicas do condenado.
+Sendo assim, os descontos foram fixados em patamar condizente com o limite legalmente estabelecido, não havendo elementos nos autos a indicar ter a penhora recaído sobre recursos indispensáveis à subsistência do condenado e de sua família, como quer fazer crer a Defesa.
+Como bem ressaltado na manifestação ministerial, a decisão proferida pelo Tribunal de origem e, agora, questionada pela Defesa em sede de especial, está em consonância com a jurisprudência firmada por esta Corte de Justiça, não merecendo reparo.
+Trago à colação:
+EXECUÇÃO PENAL. RECURSO ESPECIAL PENALIDADE PECUNIÁRIA. PENHORA DE 1/4 DO PECÚLIO PARA SATISFAÇÃO DA PENA DE MULTA. AUTORIZAÇÃO LEGAL. APLICAÇÃO DO PRINCÍPIO DA ESPECIALIDADE. CONDIÇÃO DE VULNERABILIDADE ECONÔMICA. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+1. É possível a penhora de até 1/4 do pecúlio obtido pelo condenado para saldar a pena de multa determinada em sentença condenatória. Esta medida encontra respaldo nos dispositivos nos arts. 168, incisos I a III, e 170 da Lei 7.210/1984, não se submetendo às disposições do art. 833 do CPC. Assim, tal decisão segue o princípio da especialidade, assegurando a aplicação efetiva das normas específicas da legislação penal executória.
+2. A confirmação da efetiva condição de vulnerabilidade econômica do apenado exigiria uma revisão minuciosa do conjunto de provas presentes nos autos, medida inviável neste recurso especial, conforme estabelecido na Súmula 7/STJ.
+3. Recurso especial parcialmente conhecido e, nesta extensão, desprovido. (R Esp n. 2.113.000/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2024, DJe de 10/4/2024; grifamos).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intime -se.
+EMENTA
