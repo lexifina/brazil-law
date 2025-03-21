@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBERTO OLIVEIRA DA SILVA contra o v. Acórdão proferido pela 3ª Turma de Direito Penal do Tribunal de Justiça do Estado do Pará que deu provimento ao apelo ministerial e negou provimento ao apelo defensivo (autos nº 0803613-58.2021.8.14.0045).
+No presente recurso especial, a defesa do recorrente sustenta, em síntese, que o v. Acórdão recorrido violou o art. 59 do Código Penal.
+Alega que ao valorar as circunstâncias, o Tribunal a quo se utilizou de características inseridas no tipo penal, bem como quando o fez em relação às consequências do crime. Afirma que há ocorrência de error in judicando (fls. 502/508).
+Requer a redução da pena-base ao mínimo legal.
+Contrarrazões apresentadas às fls. 510/517.
+O Ministério Público Federal manifesta-se pelo improvimento do recurso às fls. 533/538.
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+O recurso não comporta provimento.
+Para melhor dirimir a controvérsia, transcrevo a ementa do acórdão recorrido:
+"EMENTA: APELAÇÃO CRIMINAL DA DEFESA. APELAÇÃO CRIMINAL DO MINISTÉRIO PÚBLICO. TRIBUNAL DO JURI. SENTENÇA CONDENATÓRIA. HOMICÍDIO QUALIFICADO. ART. 121, §2º, II E IV, DO CP.
+1) Preliminar de não conhecimento do recurso do Ministério Público. Rejeitada. O Ministério Público, antes de ser parte, é fiscal da lei, de modo que sempre terá interesse recursal na correta e legal individualização da pena.
+2) Apelação da Defesa. Alegação de insuficiência probatória a ensejar a condenação e reforma da dosimetria.
+2.1) Não é qualquer dissonância entre o veredicto e os elementos probatórios constantes dos autos que autorizam a cassação do julgamento. Somente quando a decisão do júri não encontrar nenhum apoio na prova dos autos é que poderá ser invalidada. Do que se depreende do acervo probatório colacionado nestes autos, é possível verificar que há provas capazes de apontar indubitavelmente a prática do crime por parte do réu.
+2.2) Manutenção da valoração negativa da culpabilidade do agente e das consequências do crime. Apesar da proibição da reformatio in pejus garantir ao recorrente o direito de não ter sua situação agravada, ela não obsta que o Tribunal, ao julgar seu recurso, aplicando o Direito à espécie, encontre motivação própria às circunstâncias judiciais valoradas negativamente pelo juízo "a quo" na sentença.
+3) Apelação do Ministério Público. Pedido de deslocamento da qualificadora sobejante para a segunda fase da dosimetria. Quando há concorrência de qualificadoras, aquelas que não servirem para qualificar o delito devem ser consideradas como circunstâncias agravantes genéricas, se cabíveis, e apenas residualmente como circunstâncias judiciais. Reconhecimento da agravante do art. 61, II, c do CP.
+3.1) Diante de concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, nos termos do art. 67 do CP. Redimensionamento da pena final do acusado para 14 (quatorze) anos e 08 (oito) meses de reclusão.
+4) Apelação Criminal da defesa conhecido e desprovido. Apelação Criminal do Ministério Público conhecido e provido para deslocar a valoração da qualificadora sobejante para a segunda fase da dosimetria, eis que prevista como agravante genérica, redimensionando a pena do acusado".
+Registro, inicialmente, que a fixação da pena-base deve ser creditada ao prudente arbítrio do juiz, com base no livre convencimento motivado, sendo certo que, idôneos os fundamentos e razoável o quantum de pena fixado, é de se manter a decisão.
+Quanto ao vetor da culpabilidade, não merece guarida o pedido da Defesa para a sua modificação, sob o argumento de que seriam situações inerentes ao tipo penal.
+Compulsando os autos, depreende-se do Auto de Exame Cadavérico (Num. 10462493 - Pág. 7/9) que a vítima sofreu 02 (dois) cortes na escápula e mais 02 (dois) cortes perfuro cortantes no tórax, isto é, foram desferidos mais de um golpe de faca na vítima, sendo certo que o número e a forma dos golpes efetuados pode ser considerada pelo Magistrado na fixação da pena inicial porque próprias ao vetor desabonado.
+Logo, é evidente que a violência pelo acusado empregada conduz a um maior juízo de reprovabilidade de modo que não há como afastá-la da exasperação da pena-base, vez que devidamente motivada pelas instâncias ordinárias.
+De outro lado, o argumento utilizado pelo Tribunal local de que "não obstante a fundamentação do magistrado se mostre, em tese, acertada, entendo que merece razão ao órgão ministerial no sentido de que quando há concorrência de qualificadoras, aquelas que não servirem para qualificar o delito devem ser consideradas primeiramente como circunstâncias agravantes genéricas, se cabíveis, e apenas residualmente como circunstâncias judiciais. O uso de recurso que dificulte ou torne impossível a defesa da vítima é agravante genérica prevista no art. 61, II, c do CP, de modo que deve ser aplicado na segunda fase da dosimetria, procedendo-se, assim, o decote da circunstância do crime", encontra-se em consonância com a jurisprudência desta Corte de Justiça.
+Cumpre esclarecer que, diante do reconhecimento de 02 (duas) qualificadoras pelo Conselho de Sentença, quais sejam, a do motivo fútil e a do recurso que impossibilitou a defesa do ofendido, a primeira deve ser ponderada como aquela que qualifica o delito, e que eleva os patamares mínimo e máximo da sanção, e a remanescente como circunstância a ser levada em consideração na segunda fase da dosimetria penal, pois prevista como agravante genérica no art. 61, II, "c", do Código Penal.
+Neste sentido, trago à colação:
+Havendo mais de uma qualificadora do delito, é possível que uma delas seja utilizada como tal e as demais sejam consideradas como circunstâncias desfavoráveis, seja para agravar a pena na segunda etapa da dosimetria, seja para elevar a pena-base na primeira fase do cálculo (STJ: AgRg no AREsp 830.554/SP, Rel. Min. Jorge Mussi, j. Em 20.09.2018).
+No que concerne às consequências do crime, a despeito dos argumentos expostos pela Defesa, sua valoração tem como objeto o abalo social da conduta delituosa, bem como a extensão e a repercussão de seus efeitos.
+Nessa esteira, não se pode desconsiderar o tempo remanescente de vida da pessoa que foi vítima do delito, observando-se que ela teve uma morte prematura, deixando, assim, de aproveitar o que a vida ainda tinha para lhe oferecer e o contato com sua família, não havendo que se falar em valoração equivocada do vetor das consequências do delito porque relacionados à extensão dos seus efeitos.
+Dessa forma, não merece reparo o entendimento do Tribunal local quanto aos temas impugnados.
+Ante o exposto, conheço do recurso para lhe negar provimento, mantendo a decisão recorrida em todos os seus termos.
+Publique-se. Intimem-se.
+EMENTA
