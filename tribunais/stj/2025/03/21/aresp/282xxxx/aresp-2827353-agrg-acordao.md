@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. FUNDAMENTO SUBSIDIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 386, VII, DO CPP. PLEITO ABSOLUTÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 157, § 2º, VII, DO CPP. SUPOSTA ILEGALIDADE NA INCIDÊNCIA DA MAJORANTE NA TERCEIRA FASE DA DOSIMETRIA. MANIFESTA IMPROCEDÊNCIA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Fernando Barbosa Silva contra a decisão monocrática da Presidência desta Corte que não conheceu do agravo em recurso especial ante a ausência de impugnação do fundamento da decisão de inadmissão na origem (Súmula 7/STJ).
+Nas razões, o agravante asseverou que a decisão agravada, ao aplicar o entendimento de que a decisão de inadmissibilidade do recurso especial não se desdobra em capítulos autônomos, incorreu em equívoco, pois desconsiderou a análise pormenorizada e específica realizada pelo agravante em relação aos fundamentos que sustentaram a decisão de inadmissão. E que o agravante, em sua peça recursal, demonstrou de forma clara e objetiva a necessidade de reforma da decisão, impugnando, de maneira específica, os fundamentos que levaram à aplicação da Súmula 7/STJ (fl. 635).
+No mais, deduziu argumentos no sentido de rechaçar a incidência da Súmula 7/STJ, pugnando, ao final, pela reforma da decisão agravada.
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou no sentido da inadmissão do agravo regimental (fls. 653/656).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO GENÉRICA DO FUNDAMENTO DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. FUNDAMENTO SUBSIDIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 386, VII, DO CPP. PLEITO ABSOLUTÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 157, § 2º, VII, DO CPP. SUPOSTA ILEGALIDADE NA INCIDÊNCIA DA MAJORANTE NA TERCEIRA FASE DA DOSIMETRIA. MANIFESTA IMPROCEDÊNCIA.
+Agravo regimental improvido.
+VOTO
+A insurgência não merece acolhida.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial:
+ ..
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 701.404/SC, Relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018 - grifo nosso).
+No caso, a Corte de origem inadmitiu o recurso especial com fundamento na Súmulas 7/STJ (fls. 592/594).
+O agravante, no entanto, não impugnou, de forma adequada e suficiente, o referido fundamento.
+Ora, ao rechaçar a incidência da Súmula 7/STJ (fls. 606/610), o agravante deduziu impugnação demasiadamente genérica, carente de argumentos concretos aptos a demonstrar a desnecessidade de reexame de provas para análise das teses veiculadas no recurso especial.
+Em casos que tais (impugnação genérica), a jurisprudência desta Corte tem orientado no sentido da inadmissão do agravo:
+ ..
+1. É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve a parte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+ ..
+(AgRg no AREsp n. 1.157.955/PE, da minha relatoria, Sexta Turma, DJe 12/12/2017 - grifo nosso).
+ ..
+1. O Tribunal de origem indeferiu o processamento do Recurso Especial sob o fundamento, dentre outros, de que a verificação da responsabilidade pela demora na citação demanda reexame de provas (incidência da Súmula 7/STJ).
+2. Nesse ponto, a agravante limitou-se a afirmar que não há discussão sobre matéria de cunho fático. Acontece que essa simples afirmação caracteriza impugnação genérica à decisão agravada, o que atrai a incidência da Súmula 182/STJ.
+ ..
+(AgRg no AREsp n. 97.169/RJ, Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/5/2013 - grifo nosso).
+Como fundamento subsidiário, ressalto que, ainda que fosse possível conhecer do agravo, o recurso especial não seria acolhido.
+Nas razões do recurso especial, a defesa do agravante apontou violação do art. 386, VII, do Código de Processo Penal, bem como do art. 157, § 2º, VII, do Código Penal, sustentando que não há prova suficiente para absolver o agravante e que há ilegalidade na fundamentação lançada para aumentar a pena na terceira fase da dosimetria.
+No tocante ao pleito absolutório, não há dúvida de que a insurgência encontra óbice na Súmula 7/STJ,
+Veja-se que a Corte de origem, soberana na análise da prova, firmou que há elementos suficientes para a condenação do agravante (fls. 539/541 - grifo nosso):
+ ..
+De pronto, entendo que razão não assiste ao apelante quanto aos pleitos de absolvição e de afastamento da causa de aumento. Vejamos.
+A materialidade do delito restou comprovada pelo Registro de Atendimento Integrado nº 29877328 (mov. 01), pelo auto de prisão em flagrante (mov. 01), pelo inquérito policial nº 380/2023 (mov. 24), pelo auto de exibição e apreensão (mov. 24, arq. 01, fl. 5), pelo termo de entrega (mov. 24, arq. 01, fl. 10), e pelas provas orais produzidas em audiência (movs. 91 e 154).
+De forma semelhante, no que tange à autoria, denota-se que restou devidamente comprovada em face dos depoimentos da vítima e dos policiais militares, em ambas as fases.
+ ..
+Pelo demonstrado, entendo que a materialidade e a autoria delitiva estão cristalinamente comprovadas nos autos, posto que as provas produzidas durante toda a instrução processual demonstram que o apelante praticou o crime de roubo em estudo.
+Observa-se que os depoimentos supratranscritos descrevem a dinâmica dos fatos com precisão, bem como o reconhecimento do acusado como autor do delito.
+Acrescente-se que a vítima reconheceu o apelante sem qualquer hesitação, tanto na delegacia de Polícia quanto em Juízo, como sendo o autor do roubo.
+Soma-se, ainda, que parte da res furtiva foi encontrada com o apelante, que se encontrava em estado de flagrância.
+ ..
+No caso, a reversão dessa conclusão demandaria o reexame dos elementos de prova que fundaram a convicção do julgador ordinário, providência essa vedada nos termos da Súmula 7/STJ.
+Também inviável acolher a tese de ilegalidade na causa de aumento referente ao emprego de arma branca.
+Ora, a fração aplicada em decorrência da majorante em questão foi estipulada no mínimo legal (1/3), razão pela qual revela-se inexigível fundamentação diversa daquela que já consta no acórdão atacado.
+Sobre o tema:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. ABSOLVIÇÃO. OFENSA AO ART. 226 DO CPP. DISTINGUISHING. PRESENÇA DE PROVAS PARA MANTENÇA DA CONDENAÇÃO DO RÉU. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. MOTIVAÇÃO CONCRETA DECLINADA. REINCIDÊNCIA MANTIDA. MAJORANTE DO CONCURSO DE AGENTES. INCREMENTO DE 1/3. REGIME PRISIONAL DIVERSO INCABÍVEL. AGRAVO DESPROVIDO.
+1. Ambas as Turmas que compõem a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão no sentido de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+2. No caso dos autos, a autoria delitiva não tem, como único elemento de prova, o reconhecimento fotográfico realizado extrajudicialmente, o que demonstra haver um distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, considerando os depoimentos dos policiais responsáveis pela prisão dos acusado dentro do veículo empregado na prática delitiva e o fato dele ter confessado informalmente o crime, o que demonstra a existência de um contexto probatório apto a justificar a mantença da condenação do réu.
+3. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+4. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de roubo, pois houve invasão domiciliar e arrombamento do apartamento do ofendido, além do emprego de arma branca, restando, assim, motivada a elevação da básica.
+5. Se as instâncias ordinárias reconheceram a presença de condenação transitada em julgado configuradora da recidiva, sem que tenha a defesa logrado comprovar sua alegação, deve ser mantida a incidência da agravante. Maiores incursões sobre o tema, além disso, demandariam revolvimento de prova, o que não se coaduna com a via eleita.
+6. No caso dos autos, a autoria delitiva não tem, como único elemento de prova, o reconhecimento fotográfico realizado extrajudicialmente, o que demonstra haver um distinguishing em relação ao acórdão paradigma da alteração jurisprudencial, considerando os depoimentos dos policiais responsáveis pela prisão dos acusado dentro do veículo empregado na prática delitiva e o fato dele ter confessado informalmente a autoria delitiva, o que demonstra a existência de um contexto probatório apto a justificar a mantença da condenação do réu.
+7. Descabe falar em excesso na elevação da reprimenda em 1/3 pela majorante do concurso de agente, pois tal fração corresponde ao patamar mínimo estabelecido no Código Penal.
+8. Embora a reprimenda corporal tenha sido estabelecida em patamar inferior a 8 anos de reclusão, o regime inicial fechado encontra-se justificado, uma vez que além da reincidência, houve a consideração de circunstância judicial negativa para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ.
+9. Agravo desprovido.
+(AgRg no HC n. 907.929/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe 20/6/2024 - grifo nosso).
+Ademais, cumpre rememorar que, de acordo com o entendimento consolidado desta Corte, a eventual ausência de apreensão ou de perícia da arma branca (faca) não justifica a exclusão da causa de aumento, quando existirem nos autos outros elementos de prova que comprovem a sua utilização no roubo. Ademais, a potencialidade lesiva da faca é evidente, pois é inerente à sua natureza o caráter lesivo perfurante ou cortante (AgRg no REsp n. 2.056.399/SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/8/2023, DJe 24/8/2023 - grifo nosso).
+No mesmo sentido, confira-se: AgRg no HC n. 922.955/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 4/12/2024, DJEN 9/12/2024).
+Ante o exposto, nego provimento ao agravo regimental.
