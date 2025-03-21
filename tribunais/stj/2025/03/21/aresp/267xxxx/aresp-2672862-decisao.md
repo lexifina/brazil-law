@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especia l interposto por VITERRA BRASIL S.A. contra decisão que inadmitiu recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/05/2024.
+Concluso ao gabinete em: 03/10/2024.
+Ação: embargos à execução movida por MARCO AURELIO LOPES CARAFINI em face de VITERRA BRASIL S.A..
+Sentença: julgou procedentes os embargos à execução e determinou a extinção da ação de execução de título extrajudicial.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL Interposição contra sentença que julgou procedentes embargos à execução. Compra e venda de soja em grãos. Embargante que manifestou desejo de rescisão contratual através de notificação extrajudicial. Ausência de impeditivo contratual ou legal. Honorários advocatícios majorados nos termos do artigo 85, § 11, do Código de Processo Civil. Sentença mantida. Apelação não provida. (e-STJ fl. 137)
+Embargos de Declaração: opostos pela agravante, foram rejeitados (e-STJ fls. 153-158); os segundos foram acolhidos, sem efeitos modificativos (e-STJ fls. 408-413).
+Recurso especial: alega violação dos arts. 2º, 3º, 47 e 54, §2º, do Código de Defesa do Consumidor e 112, 113, 422, 473 e 927, parágrafo único, do Código Civil, bem como dissídio jurisprudencial. Sustenta, em síntese, impossibilidade de aplicação do Código de Defesa do Consumidor a contratos reconhecidamente empresariais. Assevera impossibilidade de rescisão de contrato de venda futura de soja quando ausentes motivos suficientes e determinantes para tanto.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/SP ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ fls. 138 e 411-412):
+Inicialmente, impõe-se a rejeição da preliminar que sustenta a necessidade de cassação da sentença, tendo em vista que a utilização do dispositivo constante do Código de Defesa do Consumidor representa tão-somente um dos fundamentos do convencimento formado pelo MM. Magistrado, não configurando violação ao princípio da não surpresa, insculpido no artigo 10 do Código de Processo Civil, a ausência de intimação das partes para manifestação a respeito de referida matéria.
+ ..
+Em que pese toda a resistência da embargante quanto à aplicação das normas consumeristas ao caso, não se observa qualquer desacerto cometido pelo MM. Magistrado a quo, porquanto acompanhado o entendimento de que o contrato celebrado pelas partes possui características de adesão, o que permite impor a sua interpretação nos moldes do artigo 47 da Lei n.º 8.078/90.
+A partir da análise dos instrumentos particulares que embasam o pedido executivo (fls. 56/64, 65/73 e 74/95 dos autos da execução), não se observa que as cláusulas tenham sido ajustadas de forma a permitir a livre discussão entre os contratantes, mas sim impostas sob uma condição de aceite.
+O executado, pessoa física, está qualificado no contrato como produtor e vendedor, ou seja, a parte mais vulnerável na relação jurídica, considerando-se ainda que de outro lado se encontra uma sociedade empresarial de reconhecida atividade e abrangência, nos ramos de importação e exportação.
+O entendimento voltado à interpretação do contrato de forma mais favorável ao executado apenas advém da conjugação dos artigos 47 do Código de Defesa do Consumidor e do artigo 113, § 1º, IV, do Código Civil.
+Por sua vez, na medida em que entendido por aplicável o Código de Defesa do Consumidor, não há óbice à manifestação pelo direito de resilição contratual, porquanto advindo da norma expressa do artigo 54, § 2º.
+A alegada natureza empresarial do contrato entabulado entre as partes não é vista como obstativa à aplicação, ainda que subsidiária, da legislação consumerista, mormente quando se tem por evidente a confecção do instrumento contratual com características de adesão, prejudicando a parte mais vulnerável. A eventual ausência de aplicação das normas protetivas previstas no Código de Defesa do Consumidor desequilibraria a relação jurídica, de tal modo a ocasionar expressivos prejuízos ao produtor/vendedor, envolvendo altas cifras.
+Quanto à rescisão contratual, o TJ/SP consignou que (e-STJ fls. 139-140):
+No caso concreto, observa-se que nenhuma das partes chegou a cumprir a sua obrigação contratualmente prevista, inclusive a embargada, ora apelante, que não efetuou qualquer pagamento em razão do preço ajustado. A notificação de intenção de rescisão foi remetida pelo embargante em 28/03/2021, antes da data definida para a entrega dos grãos.
+Desta forma, não se pode dizer que o embargante tenha incidido em mora, uma vez manifestada a intenção de rescisão antes da data aprazada para a entrega. O direito à rescisão contratual não pode ser obstado, entendimento, inclusive, firmado no citado EREsp n.º 59.870/SP, julgado pela Corte Superior. O embargante tem a favor, ainda, o argumento da impossibilidade do cumprimento da obrigação por adversidades comuns relacionadas ao cultivo das safras, que muitas vezes podem comprometer a colheita, como no caso concreto, gerando quantidade de grãos insuficiente.
+No mais, nota-se que o embargante agiu de boa-fé ao realizar tratativas com a embargada, visando à renegociação de cláusulas contratuais, porém sem que as partes tivessem chegado a um bom termo.
+Também não se verifica que as partes tenham se ajustado em torno de penalidades para o caso de rescisão do contrato, de tal modo que, ao embargante, não havia óbice ao desfazimento do negócio, e independentemente de responsabilização por eventuais multas contratuais.
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência da similitude fática. Ressalte-se que é necessário que se aponte e explicite como os casos são semelhantes e qual é a proximidade fática e jurídica entre os julgados comparados, de forma consistente, o que não foi realizado na hipótese. Nesse sentido: AgInt no REsp n. 1.961.625/SP, Terceira Turma, DJe de 12/9/2022 e AgInt no AREsp n. 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, possibilidade de rescisão de contrato de compra e venda de soja frente ao risco do negócio, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fl. 140) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA.DISSÍDIO PREJUDICADO.
+1. Embargos à execução.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial não conhecido.
