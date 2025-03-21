@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por GIRLENE ALVES DE SOUZA SILVA contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Alagoas assim ementado:
+"CONSUMIDOR. RESPONSABILIDADE CIVIL. "AÇÃO DE INEXIGIBILIDADE DE DÉBITO C/C TUTELA DE URGÊNCIA". APELAÇÃO CÍVEL EM FACE DE SENTENÇA CUJO TEOR JULGOU PARCIALMENTE PROCEDENTE O PEDIDO AUTORAL, NO SENTIDO DE DECLARAR A INEXISTÊNCIA DO DÉBITO IMPUTADO À DEMANDANTE, INDEFERINDO, NOUTRO GIRO, O PLEITO DE INDENIZAÇÃO POR DANOS MORAIS FORMULADO NA EXORDIAL. EM RAZÃO DA SUCUMBÊNCIA RECÍPROCA, O DECISUM CONDENOU A AUTORA E A RÉ AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS, ESTES ARBITRADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CAUSA, DISTRIBUÍDOS NA PROPORÇÃO DE 50% (CINQUENTA POR CENTO) PARA CADA UMA DAS PARTES, ALÉM DAS CUSTAS PROCESSUAIS APURADAS A SEREM SUPORTADAS EM IGUAL PORCENTAGEM PARA AMBOS OS LITIGANTES, SUSPENDENDO, QUANTO À DEMANDANTE, A EXIGIBILIDADE DESSAS VERBAS, EM RAZÃO DELA SER BENEFICIÁRIA DA ASSISTÊNCIA JUDICIÁRIA GRATUITA, CONFORME O DISPOSTO NO ART. 98, §3º, DO CPC/15. TESE SEGUNDO A QUAL HÁ DANOS MORAIS INDENIZAVÉIS NO CASO EM DESLINDE. NÃO ACATADA. PREJUÍZOS QUE, NESTE CASO, NÃO SE CONFIGURAM IN RE IPSA. NECESSIDADE DE COMPROVAÇÃO. AUSÊNCIA DE PROVAS NOS AUTOS DE QUE AS COBRANÇAS SE DERAM DE MANEIRA REITERADA OU DE FORMA VEXATÓRIA. PRECEDENTES DO STJ NO SENTIDO DE QUE A MERA COBRANÇA INDEVIDA NÃO GERA DANO MORAL. DEVER DA AUTORA DE COMPROVAR A OCORRÊNCIA DE DANO. SENTENÇA MANTIDA. MAJORAÇÃO DA VERBA HONORÁRIA RECURSAL, DEVIDA PELA AUTORA EM BENEFÍCIO DA CAUSÍDICA DA RÉ, DE 5% (CINCO POR CENTO) PARA 6% (SEIS POR CENTO) SOBRE O VALOR DA CAUSA, A TEOR DO ART. 85, §§ 1º, 2º, E 11, DO CPC/2015, E EM ATENÇÃO À ORIENTAÇÃO FIRMADA PELO STJ NO RESP 1.573.573/RJ. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE" (e-STJ fl. 204).
+No recurso especial, a recorrente alega violação dos artigos 186 e 927 do Código Civil e 14 do Código de Defesa do Consumidor, haja vista que o aresto não reconheceu o direito à indenização por danos morais, mesmo após reconhecer a ilegalidade da cobrança efetuada pela parte recorrida.
+A recorrente argumenta que o dano moral é presumido (in re ipsa) e não requer comprovação adicional, contrariando o entendimento adotado pelo Tribunal estadual de que o dano moral deve ser comprovado.
+Com as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+Esta  Corte  tem  orientação  firmada  no  sentido  de  que  em  algumas  situações  a  caracterização  do  dano  moral  exige  que  a  comprovação  do  dano  repercuta  na  esfera  dos  direitos  da  personalidade.
+A  cobrança indevida,  nessa  perspectiva,  não  pode  ser  considerada  suficiente,  por  si  só,  para  a  caracterização  do  dano  moral.  Há  que  se  avaliar  as  circunstâncias  que  orbitam  o  caso,  muito  embora  se  admita  que  a  referida  conduta  ocasione  dissabores  ao  consumidor.
+Assim,  a  caracterização  do  dano  moral  não  dispensa  a  análise  das  particularidades  de  cada  caso  concreto,  a  fim  de  verificar  se  o  fato  extrapolou  o  mero  aborrecimento,  atingindo  de  forma  significativa  algum  direito  da  personalidade  do  consumidor.
+No caso dos autos, o colegiado estadual assim consignou:
+"(..)
+18. Seguindo essa linha de raciocínio, tenho que o Juízo a quo andou bem, pois embora existam elementos que demonstrem que a consumidora recebeu cobrança indevida, não é possível observar a presença de circunstâncias suficientes à caracterização de abalos à sua moral. Explico.
+19. A partir da leitura das razões expostas pela apelante, observei que o dano moral por ela alegado teria decorrido, unicamente, da cobrança indevida feita pela concessionária de energia elétrica demandada, com relação aos encargos moratórios e correção monetária relativos à dívida que foi paga.
+20. Não obstante, não há nos autos informação de que a cobrança se deu de maneira reiterada ou de forma vexatória, nem houve a negativação do nome da apelante junto aos órgãos de proteção ao crédito. De igual modo, sequer foi suspenso o fornecimento de energia da unidade consumidora.
+(..)
+25. No caso em espeque, entendo que o requisito atinente ao dano se encontra ausente, uma vez que, como é cediço, a mera cobrança indevida por dívida não tem o condão de gerar, por si só, direito à indenização por danos morais, consoante entendimento consolidado da Corte Superior" (e-STJ fls. 209/210).
+Nesse contexto, verifica-se que o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende que, em casos de cobrança indevida sem inscrição do consumidor em cadastros restritivos de crédito, o dano moral não é presumido.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RITO COMUM. COBRANÇA INDEVIDA. INDUZIMENTO A ERRO NA CONTRATAÇÃO DE CARTÃO DE CRÉDITO. DANO MORAL PRESUMIDO. NÃO OCORRÊNCIA. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. De acordo com o entendimento do STJ, a cobrança indevida, quando inexistente negativação do nome do consumidor, não gera dano moral presumido.
+2. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial." (AgInt no AREsp n. 2.572.278/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 26/8/2024, DJe de 2/9/2024.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM DANO MATERIAL E MORAL. COBRANÇA INDEVIDA. CANCELAMENTO DA COBRANÇA RECONHECIDO ADMINISTRATIVAMENTE PELO BANCO. DANO MORAL NÃO DEMONSTRADO.
+1. No caso, o Tribunal estadual deixou de reconhecer a existência de dano moral em razão do curto lapso de tempo transcorrido entre a cobrança indevida e o cancelamento desta cobrança pela própria instituição financeira, com estorno de valores pelo banco, independentemente de provimento jurisdicional.
+2. "Não configura dano moral in re ipsa a simples remessa de fatura de cartão de crédito para a residência do consumidor com cobrança indevida. Para configurar a existência do dano extrapatrimonial, há de se demonstrar fatos que o caracterizem, como a reiteração da cobrança indevida, a despeito da reclamação do consumidor, inscrição em cadastro de inadimplentes, protesto, publicidade negativa do nome do suposto devedor ou cobrança que o exponha a ameaça, coação, constrangimento" (REsp n. 1.550.509/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/3/2016, DJe de 14/3/2016.)
+3. Reformar as conclusões a que chegaram as instâncias ordinárias no presente caso, implicaria reexame de fatos e provas, o que é vedado em recurso especial, em atenção ao teor da Súmula n. 7/STJ.
+Agravo interno improvido." (AgInt no REsp n. 1.926.474/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/10/2023, DJe de 16/10/2023.)
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 6% (seis por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 10% (dez por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. COBRANÇA INDEVIDA. DANO MORAL. PRESUNÇÃO. AUSÊNCIA. SÚMULA Nº 568/STJ.
+1. Em casos de cobrança indevida sem inscrição do consumidor em cadastros restritivos de crédito, o dano moral não é presumido.
+2. Agravo conhecido para negar provimento ao recurso especial.
