@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Amazonas, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado (fl. 2.069):
+AGRAVO INTERNO EM EXECUÇÃO DE ACÓRDÃO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. GRATIFICAÇÃO. PAGAMENTO DO VALOR PRINCIPAL PELA FAZENDA PÚBLICA. ATUALIZAÇÃO MONETÁRIA PENDENTE. PROSSEGUIMENTO DA EXECUÇÃO.
+- Pagamento do valor principal pela Fazenda Pública, sem ressalva, implica ato contrário a vontade de recorrer, operando-se a preclusão lógica das questões relativas ao quantum debeatur.
+- Insurgência do impetrante quanto à ausência de pagamento dos valores devidos à título de atualização monetária. Incidente sobre o valor principal já devidamente pago, não implica nova execução.
+- Aplicação do princípio de que a obrigação acessória segue a sorte da principal.
+Agravo interno conhecido e não provido.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 2.378/2.383).
+Sustenta a parte recorrente, em preliminar, violação ao art. 535, I e II, do CPC/1973, pois a despeito da oposição de embargos declaratórios, o Tribunal de origem: (a) não sanou a contradição interna apontada no acórdão embargado, a qual "persiste exatamente em reconhecer que houve pagamento não voluntário, mas, ao mesmo tempo, aplicar ao caso o art. 503 do CPC, afirmando que houve prática de ato contrário à vontade de recorrer e, portanto, negando conhecimento ao Agravo interposto pelo Estado do Amazonas" (fl. 2.115); (b) silenciou-se a respeito de questões essenciais ao deslinde da controvérsia, a saber, a (i) inexigibilidade do título executivo em virtude da existência de coisa julgada inconstitucional, nos termos do art. 741, II, e parágrafo único, do CPC/1973, e (ii) ilegalidade de pagamento por meio de folha suplementar, em face das disposições contidas nos arts. 730 do CPC c/c o art. 100 da Constituição da República.
+No mérito, aponta contrariedade ao art. 100 da CF/1988, pois a sistemática os precatórios é aplicável ao "pagamento de toda e qualquer obrigação pecuniária decorrente de decisões judiciais, independentemente se proveniente de atraso no cumprimento de uma obrigação de fazer ou se derivada ou não de ordem mandamental" (fl. 2.131).
+Requer, assim, o provimento do apelo especial.
+Recurso admitido na origem (fls. 2.151/2.154).
+Contrarrazões às fls. 2.134/2.150.
+O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República Rogério de Paiva Navarro, opinou pelo desprovimento do recurso especial (fls. 2.413/2.416).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Dito isto, é firme o entendimento no sentido de que a existência de omissão ou contradição no acórdão recorrido, não sanadas malgrado a oposição de embargos declaratórios, caracteriza negativa de prestação jurisdicional. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. INSTRUMENTO PARTICULAR DE RESCISÃO CONTRATUAL. ART. 535 DO CPC/1973. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal local, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do Código de Processo Civil de 1973, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 889.277/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26/6/2018.)
+In casu, todavia, verifica-se que supostas omissões e contradições elencadas pela parte recorrente, no apelo especial, não foram oportunamente suscitadas em seus embargos de declaração (fls. 2.630/2.362), motivo pelo qual, nesse ponto, inexiste falar em ofensa ao art. 535, I e II, do CPC/1973.
+Por sua vez, na forma da jurisprudência do STJ, "para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, em suas razões recursais. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto" (AgInt no REsp n. 1.890.753/MA, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 6/5/2021).
+Logo, uma vez que o Solalício legal não emitiu nenhum juízo de valor a respeito dos arts. 730 e 741, II, e parágrafo único, do CPC/1973, resta ausente seu necessário prequestionamento, nos termos da Súmula 282/STF.
+Por fim, não se presta o apelo especial ao exame de eventual ofensa a dispositivo constitucional, por se tratar de m atéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
+EMENTA
