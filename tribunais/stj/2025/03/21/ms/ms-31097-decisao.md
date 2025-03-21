@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado contra suposto ato coator atribuído à Ministra de Estado da Gestão e da Inovação em Serviços Públicos e do Presidente da Fundação Cesgranrio.
+Alega o impetrante que se inscreveu no Concurso Público Nacional Unificado  Edital n. 04/2024, para provimento das vagas no Bloco Temático 4, para os cargos de Auditor Fiscal do Trabalho (AFT) e Especialista em Políticas Públicas e Gestão Governamental (EPPGG), e que realizou a prova do certame, mas não foi convocado para a correção de sua prova discursiva, sendo eliminado por obter aproveitamento inferior a 40% da pontuação nas provas objetivas de conhecimentos gerais e conhecimentos específicos ou obter nota zero na prova discursiva, nos termos do item 7.1.1 do Edital.
+Sustenta que "existem questões maculadas por teratologia e incompatibilidade, demandando o controle de legalidade a ser exercido pelo judiciário" (fl. 6), apontando nulidade das questões objetivas de número 05 e 06 da prova tipo 3 (manhã) e 03, 16, 18, 35, 38 e 39 da prova tipo 1 (tarde) do bloco 4, analisadas em juízo de compatibilidade ou legalidade.
+Aduz, ainda, que pode concorrer na lista de pessoas com deficiência, pois, após o prazo de inscrição no concurso, o impetrante foi diagnosticado com TEA (Transtorno do Espectro Autista).
+Requer a concessão de tutela de urgência, "para que se garanta nesta etapa processual antecedente a possibilidade de o impetrante participar da próxima etapa do certame com a devida classificação obtida após a suspensão das questões ora impugnadas em sede liminar, nos termos do art. 303 e seguintes do CPC, realizando as demais etapas do certame até o julgamento de mérito do presente feito, com a suspensão das questões NÚMERO 05 E 06 DA PROVA TIPO 3 (MANHÃ) E 03, 16, 18, 35, 38 E 39 DA PROVA TIPO 1 (TARDE) DO BLOCO 4" (fl. 28).
+No mérito, pleiteia a concessão da segurança para:
+b.1) reenquadrar a inscrição do impetrante, permitindo que ele concorra às vagas destinadas a pessoas com deficiência;
+b.2) a anulação do ato administrativo de poder, que manteve questões incompatíveis com o edital ou eivadas de erro grosseiro/ilegalidade em seu gabarito definitivo;
+b.3) que a ré, no prazo de 2 dias úteis, sob pena de multa diária a ser arbitrada por Vossa Excelência, efetue o recálculo da nota do impetrante, atribuindo a pontuação referente às questões suso indicadas, aumentando a sua classificação, sendo justo e legal que lhe seja atribuída a nota das questões não reconsideradas previamente pela banca do caderno de provas do impetrante (NÚMERO 05 E 06 DA PROVA TIPO 3 (MANHÃ) E 03, 16, 18, 35, 38 E 39 DA PROVA TIPO 1 (TARDE) DO BLOCO 4), suplantando a nota do impetrante, assegurando-lhe todos os direitos.
+b.4) o recálculo da nota do impetrante que, figurando dentre os candidatos com as maiores notas na prova objetiva, deverá ter corrigida a sua prova discursiva/redação, nos termos do edital, renovando-se os prazos aplicáveis para publicação das correções e de eventuais recursos pela candidata;
+b.5) realização das demais etapas, assegurando-lhe a posse e nomeação no cargo pretendido, bem como as progressões na carreira, retroagindo seus direitos à data da propositura da presente demanda.
+É o relatório.
+É manifesta a incompetência desta Corte.
+Nos termos do art. 105, I, "b", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, "os mandados de segurança (..) contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Além disso, nos termos do § 3º do art. 6º da Lei n. 12.016/2009, "considera-se autoridade coatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática".
+Da análise dos autos, verifica-se que o ato apontado como coator, que eliminou o impetrante do Concurso Público Nacional Unificado (fl. 132 ), não é da lavra da Ministra de Estado da Gestão e da Inovação em Serviços Públicos, e sim da comissão organizadora do certame, qual seja, a Fundação Cesgranrio. Dessa forma, não há falar em legitimidade passiva da autoridade apontada como coatora.
+Nesse sentido, confiram-se precedentes da Seção de Direito Público do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INEXISTÊNCIA DE ATO COMISSIVO OU OMISSIVO ATRIBUÍVEL À AUTORIDADE IMPETRADA. ILEGITIMIDADE PASSIVA. TEORIA DA ENCAMPAÇÃO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..) II - Não foi atribuído ato comissivo ou omissivo à Autoridade Impetrada, resultando na sua ilegitimidade passiva.
+III - Havendo o ato apontado como coator sido praticado por autoridade diversa do rol do art. 105, I, b, da Constituição da República, bem como manifestação da autoridade impetrada apenas quanto à ilegitimidade passiva, resta afastada a competência originária desta Corte. Súmula n. 628/STJ.
+(..) VI - Agravo Interno improvido.
+(AgInt no MS n. 29.662/DF, Rel. Min. Regina Helena Costa, Primeira Seção, DJe de 7/3/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ILEGITIMIDADE PASSIVA DO MINISTRO DE ESTADO. INCOMPETÊNCIA DESTA CORTE.
+1. É entendimento desta Corte que a legitimidade para figurar no polo passivo do mandamus é da autoridade que tenha praticado o ato impugnado ou da qual emane a ordem para a sua prática, e, por conseguinte, a que detenha possibilidade de rever o ato denominado ilegal, omisso ou praticado com abuso de poder.
+2. Isso considerado, verifica-se que a autoridade indicada como coatora não é parte legítima para figurar no presente feito, seja porque não é de sua autoria o edital apontado como omisso, ou porque a atribuição de eventual correção dos atos tidos como ilegais, que constitui aparentemente a verdadeira pretensão do impetrante, também não seria de sua competência.
+3. Agravo interno não provido.
+(AgInt no MS n. 23.393/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 9/8/2017, DJe de 16/8/2017.)
+Ante o exposto, indefiro liminarmente a petição inicial, com fundamento nos arts. 6º, § 3º, da Lei 12.016/2009 e 34, XIX do Regimento Interno desta Corte Superior, e julgo prejudicado o pedido de liminar.
+Publique-se.
+Intimem-se.
+EMENTA
+MANDADO DE SEGURANÇA. AUSÊNCIA DE ATO CONCRETO PRATICADO POR MINISTRO DE ESTADO. INCOMPETÊNCIA MANIFESTA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 105, I, "B", DA CONSTITUIÇÃO FEDERAL. WRIT INDEFERIDO LIMINARMENTE.
