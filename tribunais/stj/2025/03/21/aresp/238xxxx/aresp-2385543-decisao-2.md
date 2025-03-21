@@ -1,0 +1,39 @@
+DECISÃO
+  Cuida-se  de  agravo  interposto  por  BANCO  RABOBANK  INTERNATIONAL  BRASIL  S.A .  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fl. 349):
+CIVIL. CONSTITUCIONAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INSURGÊNCIA QUANTO AO DEFERIMENTO DE PROVA PERICIAL. IMPOSSIBILIDADE DE VEICULAÇÃO NA VIA PROCESSUAL ELEITA. INTERESSE JURÍDICO DE ENTES FEDERAIS: CARACTERIZADO. COMPETÊNCIA DA JUSTIÇA FEDERAL. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. A despeito do pronunciamento do Superior Tribunal de Justiça quanto à taxatividade mitigada do rol do artigo 1.015 do Código de Processo Civil (STJ, R Esp 1696396/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, D Je 19/12/2018), a insurgência contra decisão que defere ou indefere a realização de prova pericial não pode ser veiculada por meio de agravo de instrumento, por lhe faltar o requisito da urgência que inviabiliza a discussão em eventual recurso de apelação. Desse modo, a questão não pode ser conhecida.
+2. A competência absoluta, dentre as quais se inclui aquela , é inderrogável, ou seja, aratione personae ação deverá tramitar perante a Justiça Federal, desde que a pretensão envolva interesse da União, de suas autarquias ou empresas públicas. Apenas na ausência desses entes a ação deve tramitar perante o Juízo Estadual, por não preencher os requisitos do artigo 109, inciso I, da Constituição Federal.
+3. No caso dos autos, a parte autora alega fazer jus a programa de financiamento do BNDES, normatizado pela Circular 46/2019 e operacionalizado por instituições financeiras cadastradas, dentre as quais a Caixa Econômica Federal - CEF.
+4. Não há como afastar o interesse jurídico dos entes federais na demanda originária, concluindo-se pela competência da Justiça Federal para processar e julgar a lide.
+5. Agravo de instrumento parcialmente conhecido e não provido.
+Rejeitados os embargos de declaração opostos (fl. 448).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou os arts. 44 e 45 do CPC, pois entende que a justiça federal seria incompetente para o julgamento da causa diante da ausência de interesse dos entes federais.
+Alega ainda afronta ao art. 485, VI, do CPC, em razão de falta de interesse de agir e inadequação da via eleita, e violação dos arts. 319, VI, 435, 464, § 1º, I, II e III, 472 e 1.015, todos do CPC, pois entende que aprova pericial seria desnecessária.
+Foram oferecidas contrarrazões ao recurso especial (fls. 539-545).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 549-550), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 606-615).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. arts. 1.022 e 489 do CPC, uma vez que o Tribunal de origem deixou claro que, "no caso dos autos, a parte autora alega fazer jus a programa de financiamento do BNDES, normatizado pela Circular 46/2019 e operacionalizado por instituições financeiras cadastradas, dentre as quais a Caixa Econômica Federal - CEF" (fl. 342).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva dos entes federais e à competência da justiça federal em razão do contrato discutido, exige o reexame de fatos e provas e cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. INDENIZAÇÃO SECURITÁRIA. SEGURO OBRIGATÓRIO. SFH. APÓLICE PRIVADA. INTERESSE DA CEF. AUSÊNCIA. INCOMPETÊNCIA DA JUSTIÇA FEDERAL. INTERPETAÇÃO DE CLÁUSULAS E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Rever a conclusão do tribunal a quo de que o contrato não possui garantia pelo FCVS implica interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.098.425/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+Quanto aos arts. 485, VI, do CPC, 319, VI, 435, 464, § 1º, I, II e III, 472 e 1.015 do CPC, e às teses relativas à falta de interesse de agir, inadequação da via eleita, e desnecessidade da prova pericial, com efeito, da análise do acordão recorrido, observa-se que o Tribunal de origem não adentrou nos referidos temas, tampouco a preliminar de nulidade do acórdão versou sobre eles.
+Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração.
+Assim, incide no caso o enunciado da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+Nesse sentido, cito:
+5. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 do STF e 211 do STJ. (AgInt nos EDcl no REsp n. 1.993.188/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 17/10/2022.)
+2. A ausência de debate em torno dos dispositivos tidos como violados impede o conhecimento do recurso especial, a despeito da oposição de embargos de declaração. Súmula nº 211/STJ. (AgInt no AREsp n. 1.994.278/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 10/10/2022.)
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos. (AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/10/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  COMPETÊNCIA  DA  JUSTIÇA  FEDERAL.  INTERESSE  DOS  ENTES  FEDERAIS.  VIOLAÇÃO  DO  ART.  1.022  DO  CPC.  NÃO  OCORRÊNCIA.  SÚMULAS  5  E  7/STJ.  INTERESSE  DE  AGIR.  NECESSIDADE  DA  PROVA  PERICIAL.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  CONHECIDO  EM  PARTE  E  IMPROVIDO.
