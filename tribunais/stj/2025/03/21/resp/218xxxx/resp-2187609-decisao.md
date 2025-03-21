@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF4 assim ementado (fl. 5.406):
+TRIBUTÁRIO. CONTRIBUIÇÕES "A TERCEIROS" OU "PARAFISCAIS", BASE DE CÁLCULO, LIMITAÇÃO A VINTE SALÁRIOS MÍNIMOS. TESE 1079 STJ.
+Não há limitação a vinte salários mínimos do salário-de-contribuição que dá base de cálculo para apuração das contribuições "a terceiros". Inteligência da tese 1079 de recursos especiais repetitivos do Superior Tribunal de Justiça.
+Embargos de declaração com provimento negado.
+A recorrente requer, inicialmente, a suspensão processual, até o julgamento do recurso extraordinário no tema 1079 do STJ.
+Aduz contrariedade aos arts. 1.022, I e 489, II e § 1º, IV, ambos do CPC, argumentando que o acórdão recorrido foi omisso no tocante a questão da necessidade de sobrestamento até o trânsito em julgado do Temaa 1079.
+Aduz, além de divergência jurisprudencial, ofensa ao art. 4º, parágrafo único, da Lei 6.950/1981 apontando, à fl. 5.471, que com a promulgação do Decreto-Lei nº 2.318/86, a limitação imposta no caput do artigo 4º da Lei nº 6.950/81 foi afastada, sem revogação, e apenas para as contribuições previdenciárias, sendo silente a nova legislação quanto às contribuições parafiscais, disciplinadas no parágrafo único do mesmo artigo, entre elas Salário-Educação, SENAR, SEST e SENAT.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 5.525-5.526.
+Parecer do MPF às fls. 5.582-5.586.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Quanto ao pedido de suspensão do feito, observa-se que esta Corte, no dia 11/09/2024, julgou os aclaratórios do REsp 1898532/CE, com a seguinte ementa:
+DIREITO TRIBUTÁRIO E INTERTEMPORAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. AUSÊNCIA DE OMISSÕES E OBSCURIDADE.
+I - Embargos de declaração opostos em face de acórdão que negou provimento ao recurso especial julgado sob a sistemática repetitiva, no qual se determinou a modulação dos efeitos das teses vinculantes firmadas.
+II - A questão em discussão consiste em saber se há omissões e obscuridade que justifiquem alterar os critérios empregados pelo acórdão para promover a modulação dos efeitos do julgamento.
+III - A fundamentação adotada no acórdão é clara e suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+IV - Embargos de declaração rejeitados. (EDcl no REsp n. 1.898.532/CE, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 11/9/2024, DJe de 17/9/2024.)
+Além do mais, esta Corte tem posicionamento consolidado segundo o qual é "possível a aplicação imediata dos precedentes firmados em julgamentos submetidos à sistemática do recurso repetitivo ou da repercussão geral, não sendo necessário aguardar o trânsito em julgado." (AgInt no AREsp n. 2.635.267/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/11/2024, D Je de 29/11/2024).
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. ICMS-ST NA BASE DE CÁLCULO PIS/COFINS. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM ENTENDIMENTO FIRMADO NO JULGAMENTO DO TEMA REPETITIVO 1.231/STJ. INCIDÊNCIA DA SÚMULA 168/STJ.
+1. A Primeira Seção do STJ, no julgamento do REsp 2.075.758/ES, Tema 1.231, sob o rito dos feitos repetitivos, firmou entendimento de que " o s valores que o contribuinte, na condição de substituído tributário, paga ao contribuinte substituto a título de reembolso pelo recolhimento do ICMS- substituição (ICMS-ST) não geram créditos para as contribuições ao PIS/PASEP e COFINS não cumulativas".
+2. Acórdão embargado proferido pela Segunda Turma desta Corte em consonância com a orientação firmada no Tema 1.231/STJ.
+Possibilidade de aplicação imediata do entendimento firmado em recurso repetitivo, não sendo necessário aguardar o trânsito em julgado. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt nos EREsp n. 2.071.321/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/11/2024, D Je de 25/11/2024.)
+Dessa forma, não há que se falar em suspensão do feito.
+No mais, afasta-se a alegada violação do artigo 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que o acórdão recorrido assim consignou no tocante a alegada omissão (fl. 5.404, com grifo nosso):
+ ..
+Restaram ressalvados, conforme modulação de efeitos decidida no julgamento, apenas os casos de contribuintes que iniciaram processos administrativos ou judiciais até a data de início do julgamento do tema 1079 e têm decisões favoráveis a seus interesses. As empresas nessa situação poderão utilizar-se da referida decisão até a publicação do acórdão do julgado que resolveu o tema 1079. O respectivo acórdão foi publicado em 2maio2024, iniciando-se desde então sua eficácia, conforme o disposto no art. 1.040 do CPC. Eventual pendência de embargos de declaração não impede o julgamento por esta Corte de processos com discussão relacionada às teses em que publicado o acórdão, como já decidiu o Superior Tribunal de Justiça:
+ ..
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/15.
+Igualmente, afasta-se a alegada ofensa ao art. 489, §1º, IV, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+No que diz respeito ao art. 4º da Lei 6.950/1981, a recorrente sustenta que o dispositivo em exame não foi revogado, permanecendo válido, pelo que em relação ao salário educação, SENAR, SEST e SENAT, o limite de 20 salários-mínimos não foi alterado, ficando mantido.
+Ocorre que esta Corte Superior já assentou em sede de recurso representativo de controvérsia (Tema 1079/STJ) que:
+"i) o art. 1º do Decreto-Lei 1.861/1981 (com a redação dada pelo DL 1.867/1981) definiu que as contribuições devidas ao Sesi, ao Senai, ao Sesc e ao Senac incidem até o limite máximo das contribuições previdenciárias;
+ii) especificando o limite máximo das contribuições previdenciárias, o art. 4º, parágrafo único, da superveniente Lei 6.950/1981, também especificou o teto das contribuições parafiscais em geral, devidas em favor de terceiros, estabelecendo-o em 20 vezes o maior salário mínimo vigente; e
+iii) o art. 1º, inciso I, do Decreto-Lei 2.318/1986, expressamente revogou a norma específica que estabelecia teto limite para as contribuições parafiscais devidas ao Sesi, ao Senai, ao Sesc e ao Senac, assim como o seu art. 3º expressamente revogou o teto limite para as contribuições previdenciárias;
+iv) portanto, a partir da entrada em vigor do art. 1º, 1, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários."
+Daí se retira que a alegação da parte quanto à ausência de revogação do limite de 20 salários previsto no art. 4º da Lei 6.950/1981 não se sustenta, tendo esta Corte Superior reconhecido expressamente a perda de eficácia do dispositivo.
+Nesse contexto, evidencia-se que não é possível conhecer do recurso especial que apresenta suposta violação de tais dispositivos, pois eles não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, conheç o parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. DISSÍDIO JURISPR UDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, NÃO PROVIDO .
