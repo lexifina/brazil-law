@@ -1,0 +1,68 @@
+DECISÃO
+Cuida-se de agravo interposto por CAIXA BENEF DOS FUNC DO BCO DO EST DE SAO PAULO CABESP contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 388):
+AGRAVO INTERNO - Interposição contra decisão do relator que negou seguimento ao recurso - Inconformismo - Desacolhimento - Pedido que está baseado, precipuamente, no direito de aplicação da estrita previsão estatutária de manutenção da condição de associado ao funcionário aposentado que se desliga da instituição empregadora - Estatuto Social da Cabesp estabelecendo que o funcionário associado que se desligar do Banco Santander não perde sua condição de associado, não dando margem para nenhuma interpretação distinta - Precedentes jurisprudenciais deste Colenda 5ª Câmara - Agravado que já era aposentado na ocasião de sua demissão, mostrando- se patente o direito à manutenção de sua condição de associado - Decisão mantida - Recurso desprovido.
+Rejeitados os primeiros embargos de declaração opostos (fls. 400-402).
+No recurso especial, alega a parte recorrente, preliminarmente, ofensa aos arts. 489, § 1º, inciso IV, e 1022, incisos I e II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos essenciais para a solução da controvérsia, tais como a necessidade de apreciação da causa à luz das regras atuais do Estatuto Social, a adequação do comportamento dos recorridos com o art. 422 do Código Civil e a impossibilidade da modificação do rol de dependentes da recorrida.
+Aduz, no mérito, ofensa aos arts. 54, inciso II, 59, inciso II, e 422 do Código Civil e 30 e 31 da Lei n. 9.656/1998, por entender que o acórdão recorrido violou a boa-fé objetiva e o princípio da pacta sunt servanda ao reconhecer o direito de o recorrido permanecer como associado da CABESP após a demissão sem justa causa, contrariando as disposições do Estatuto Social da CABESP, que exigem o pedido de demissão concomitante à aposentadoria para manutenção da condição de associado.
+Subsidiariamente, caso mantida a condenação, a recorrente requer que seja aplicada a regra de custeio prevista no art. 31 da Lei n. 9.656/1998, para que o recorrido arque com a integralidade do valor da mensalidade do plano de saúde.
+Foram oferecidas contrarrazões ao recurso especial (fls. 407-442).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 443-446), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 472-495).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação dos arts. 489 e 1.022 do CPC
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem manifestou-se sobre todos os fundamentos arguidos pela parte recorrente quando da interposição do agravo interno, senão vejamos (fls. 389-393):
+É caso de ratificar os fundamentos da r. sentença apelada, proferida nos seguintes termos:
+"  ..  No mérito, restam incontroversos nos autos a relação estabelecida entre as partes, as alteração do status do autor de associado para beneficiário quando de sua demissão e a ausência de procedimento para tal mudança.
+O ponto controvertido consiste no direito, ou não, do autor à manutenção da qualidade de associado junto à ré.
+Com razão a parte autora.
+Da análise dos elementos contidos nos autos, verifica-se que, de fato, o autor faz jus à manutenção da qualidade de associado.
+De início, cabe constatar que a requerida não observou o contraditório e ampla defesa, quando da exclusão do requerente da qualidade de associado, dado que realizado, em tese, quando da rescisão contratual.
+Ocorre que, conforme termo de rescisão contratual constante de folhas 97, não há nenhuma informação quanto a mudança de qualidade de associado para beneficiário, sendo que tal termo foi empregado em sentido amplo.
+Assim, ausente qualquer informação quanto à restrição mencionada na contestação, a remoção de tal qualidade sem a formação de contraditório e ampla defesa, fere, de forma flagrante, a boa-fé objetiva.
+Ademais, o artigo 4º, § 3º do Estatuto da CABESP prevê que "O funcionário associado que se desligar do Banco Santander (Brasil)S. A., do Conglomerado Santander ou da CABESP por motivo de aposentadoria, não perde a sua condição de associado, mantidas, porém, suas obrigações, inclusive quanto ao pagamento das contribuições devidas à CABESP.", logo, não há que se falar em perda da condição de associado, dado que o autor, quando de sua demissão, já estava efetivamente aposentado.
+Nem há que se cogitar a tese aventada na contestação, quando à possibilidade de manutenção da qualidade de associado somente no caso do aposentado que desligou-se efetivamente da empresa, dado que não consta tal restrição na carta de permandência, fls. 77, assinada por ocasião da concessão de sua aposentadoria.
+Cumpre salientar que, caso se fizesse necessária aposentadoria cumulada com o desligamento da empresa, como tenta fazer crer a ré, tal informação deveria vir expressa no documento mencionado, o que não se verificou no presente feito, novamente, violando o princípio da boa-fé objetiva.
+Temos também, a corroborar o direito do autor, a Resolução da ANS n. 279/2011 que em seu artigo 22 dispõe que: "Ao empregado aposentado que continua trabalhando na mesma empresa e vem a se desligar da empresa é garantido o direito de manter sua condição de beneficiário observado o disposto no artigo 31 da Lei nº 9.656, de 1998, e nesta Resolução. § 1º O direito de que trata o caput será exercido pelo ex-empregado aposentado no momento em que se desligar do empregador."
+Logo, não poderia o requerente ser excluído de sua condição de associado e colocado na qualidade de beneficário, visto que houve inequívoca alteração das condições anteriormente ofertadas, o que é vedado pela resolução em comento, não podendo se falar em entendimento jurisprudencial em sentido contrario, como explanado em sede de especificação de provas pela requerida, dado que ela nem mesmo acostou aos autos as jurisprudências pertinentes, não se desincumbindo, assim se seu ônus probatório (art. 373, II, CPC).
+Portanto de rigor o acolhimento do pedido do autor para que seja declarado seu direito de manutenção na qualidade de associado.
+Por fim, reputo prejudicado o pedido subsidiário, tendo em vista que não integra os limites objetivos da exordial.
+Isto posto, julgo procedente o pedido descritos na exordial e declaro o direito do autor em se manter como associado da ré, confirmando-se a tutela antecipada outrora deferida.
+ .. "
+E mais, ao contrário do afirmado pela recorrente, não há falar em decadência, uma vez o pedido está baseado, precipuamente, no direito de aplicação da estrita previsão estatutária de manutenção da condição de associado ao funcionário aposentado que se desliga da instituição empregadora.
+Com efeito, o art. 4º, § 3º, do Estatuto Social da Cabesp estabelece que o funcionário associado que se desligar do Banco Santander não perde sua condição de associado, não dando margem para nenhuma interpretação distinta. Ou seja, diferentemente do sustentado pela recorrente, a norma não estabelece que apenas os funcionários que solicitarem demissão terão direito a permanência como associado, mas sim os funcionários aposentados que se desligarem da instituição, sendo irrelevante que tenham pedido demissão ou sido demitidos por iniciativa do banco.
+Na espécie, o apelado já era aposentado na ocasião de sua demissão, portanto, não se aplica a regra prevista no art. 9º do Estatuto Social, mostrando-se patente o direito à manutenção de sua condição de associado.  ..
+Ora, não tem nenhum cabimento conceder aos funcionários aposentados que pedem demissão o direito de manutenção da condição de associados da Cabesp, e não conceder o mesmo direito aos funcionários demitidos por iniciativa do banco.
+A sentença foi clara ao observar a aplicação do disposto no art. 31 da Lei 9.656/98, ou seja, devendo o apelado arcar com o pagamento integral do plano de saúde, com apuração do valor do prêmio na fase de liquidação.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022)
+Ademais, não se pode ter como omisso o acórdão em razão da ausência de manifestação quanto a pontos trazidos apenas no recurso especial e não suscitados nas instâncias ordinárias, nem mesmo nos embargos de declaração. A propósito, cito:
+EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. APELAÇÃO CÍVEL. NOTAS PROMISSÓRIAS. CONTRATO DE FINANCIAMENTO DE EXPORTAÇÃO. SEGURADOR. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA AOS ARTS. 503, 505 E 507 DO CPC/2015 E AOS ARTS. 468, 471 E 473 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULA 282 DO STF). PRESCRIÇÃO QUINQUENAL. TEMA REPETITIVO N. 641. SUB-ROGAÇÃO LEGAL (CC/2002, ART. 350). DESNECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal analisa os pontos essenciais para o deslinde da controvérsia dando-lhes a devida fundamentação.
+2. Fica inviabilizado o conhecimento de tema trazido no recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado nos embargos de declaração para sanar eventual omissão, porquanto ausente o indispensável prequestionamento.
+Aplicação, por analogia, das Súmulas 282 e 356 do STF.
+ ..
+6. Agravo interno provido. Recurso especial parcialmente provido.
+(AgInt no REsp n. 1.752.351/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/3/2024, DJe de 27/5/2024.)
+- Da violação dos arts. 54, inciso II, 59, inciso II, e 422 do Código Civil e 30 e 31 da Lei n. 9.656/1998. Do reexame de fatos e provas e da interpretação de cláusulas contratuais. Súmulas n. 5 e 7/STJ
+Quanto ao mérito, observa-se que o Tribunal de origem concluiu pela inexistência de previsão clara e expressa de que a manutenção da qualidade de associado da CABESP depende de pedido de demissão concomitante à aposentadoria, conforme transcrito anteriormente (fls. 389-393).
+Desse modo, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fático-probatória e interpretação das cláusulas do Estatuto Social da CABESP, procedimentos vedados a esta Corte, em razão dos óbices das Súmulas n. 5 e 7/STJ.
+Por fim, nos mesmos óbices das Súmulas n. 5 e 7/STJ incide a análise do pedido subsidiário, uma vez que, conforme acima transcrito, a pretensão de custeio integral pelo usuário do plano de saúde é vedada por expressa disposição estatutária.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 1.800,00.
+Publique-se. Intime-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTENTE. QUALIDADE DE ASSOCIADO. DEMISSÃO. ANÁLISE DO ESTATUTO SOCIAL E DE FATOS E PROVAS. SÚMULAS N. 5 E 7/STJ. PEDIDO SUBSIDIÁRIO. CUSTEIO INTEGRAL. SÚMULAS N. 5 E 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
