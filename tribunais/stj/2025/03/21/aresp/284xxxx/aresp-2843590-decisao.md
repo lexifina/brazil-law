@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE ARNALDO FIGUEIREDO GONÇALVES DE OLIVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS que não admitiu o recurso especial.
+O recorrente foi condenado nas instâncias ordinárias como incurso nas sanções do art. 129, §1º, inciso I, §§ 7º e 10, do Código Penal, à pena de 1 (um) ano e 8 (oito) meses de reclusão (fls. 1614-1632).
+A Defesa interpôs recurso especial, com fundamento no art. 105, inciso III, "a", da Constituiç ão, para alegar negativa de vigência ao art. 129, §4º, do Código Penal (fls. 1666-1678).
+Não admitido o recurso por incidência da Súmula n. 282, STF (fls. 1716-1717), sobreveio o agravo (fls. 1738-1750).
+O Ministério Público opinou pelo desprovimento do agravo em recurso especial (fls. 1800-1803).
+É o relatório.
+A controvérsia dos autos cinge-se a analisar a presença da causa de diminuição de pena do art. 129, §4º, do Código Penal, uma vez que, segundo a defesa, as agressões físicas perpetradas pelo recorrente teriam sido praticadas sob o domínio de violenta emoção logo após injusta provocação da vítima.
+O Tribunal de Justiça negou a aplicação da minorante ao recorrente, porque não restou comprovado nos autos que este tenha desferido um soco, dentre outras agressões, após injusta pr ovocação de sua irmã. A propósito (fl. 1630):
+De outra banda, no que tange ao réu JOSÉ ARNALDO, não há que se falar em injusta provocação da vítima. Não restou comprovado nos autos qualquer motivo capaz de justificar a agressão cometida por ele contra sua irmã, a ofendida.
+Ainda que o réu alegue que a agressão tenha ocorrido em razão da discussão envolvendo a cachorra da ofendida, não se vislumbra "motivo de relevante valor " ou mesmo que o apelante estaria " social ou moral sob o domínio de violenta emoção, logo . Destarte, além de a discussão envolvendo a à injusta provocação da vítima em seguida cachorra ter acontecido antes dos fatos, o acusado se excedeu ao dar um murro no rosto de sua irmã, uma idosa de 65 (sessenta e cinco) anos à época. Portanto, não há como aplicar a causa de diminuição de pena do artigo 129, §4, do Código Penal ao réu JOSÉ ARNALDO.
+Como se vê, não há registro de que a vítima tenha provocado seu irmão logo antes de ter sido agredida fisicamente. O acórdão consignou que ambos discutiram a respeito da cachorra antes dos fatos, de modo que não se poderia cogitar de ação "logo em seguida a injusta provocação da vítima".
+Dessa forma, o acolhimento do pleito recursal reclamaria a incursão no acervo fático-probatório, a fim de aferir se a vítima teria provocado seu agressor injustamente logo antes das lesões, o que esbarra na Súmula n. 7, STJ. Nessa linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LESÃO CORPORAL. INTERPOSIÇÃO DO RECURSO PELA ALÍNEA C. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. LEGÍTIMA DEFESA. VERIFICAÇÃO. NECESSIDADE DE REVOLVIMENTO DO MATERIAL FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS. SÚMULA N. 7/STJ. PROVA NOVA. NECESSIDADE DE JUSTIFICAÇÃO CRIMINAL. FUNDAMENTO IDÔNEO DO ACÓRDÃO RECORRIDO. PRECEDENTES. CAUSA ESPECIAL DE DIMINUIÇÃO INSERTA NO § 4º DO ART. 129 DO CÓDIGO PENAL. RECONHECIMENTO. IMPOSSIBILIDADE. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. INCIDÊNCIA.
+(..)
+IV - Tendo o eg. Tribunal de origem, após análise detida dos elementos de fato e de prova carreados aos autos, concluído que "não se pode falar que a apelante praticou o crime sob o domínio de violenta emoção, logo em seguida a injusta provocação da vitima.", a desconstituição de tal entendimento demandaria, repita-se, incursão no material fático-probatório, procedimento vedado pela Súmula n. 7 desta Corte, e que não se coaduna com os propósitos atribuídos à via eleita.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.959.319/PA, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 19/10/2021, DJe de 4/11/2021.)
+Ante o exposto, conheço o agravo para n ão conhecer o recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do RISTJ.
+EMENTA
