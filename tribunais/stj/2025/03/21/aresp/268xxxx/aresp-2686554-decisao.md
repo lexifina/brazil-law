@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por Devanir Pereira contra a decisão do Tribunal de Justiça do Paraná que inadmitiu recurso especial (fundado no art. 105, III, a, da Constituição Federal) dirigido contra o acórdão prolatado na Apelação Criminal n. 0001547-34.2020.8.16.0170 (fls. 628/634).
+Nas razões do recurso especial, a defesa alega violação do art. 41 da Lei n. 11.343/2006. Argumenta que a autorização expressa para entrada dos policiais na residência, concedida pelo recorrente, caracteriza a colaboração voluntária exigida pela norma, sem necessidade de confissão prévia do tráfico. O Tribunal de origem, ao negar a aplicação da redutora, teria criado exigência não prevista em lei, violando o texto do art. 41. A defesa cita jurisprudência do Superior Tribunal de Justiça sobre a ilegalidade de invasão de domicílio sem fundadas razões, reforçando que a autorização do recorrente foi determinante para a apreensão dos entorpecentes. Assim, pede o conhecimento e provimento do recurso para reformar o acórdão e aplicar a redutora de pena, além de fixar tese repetitiva sobre a colaboração voluntária (fls. 649/656).
+A Corte de origem inadmitiu o recurso com suporte na Súmula 7/STJ (fls. 672/674).
+Contra tal decisão a defesa interpôs o presente agravo (fls. 683/689).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo (fls. 728/729).
+É o relatório.
+O agravo deve ser conhecido, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+Em relação ao pedido de reconhecimento da causa de diminuição prevista no art. 41 da Lei de Drogas, o Tribunal local consignou o seguinte: Portanto, resta claro que os entorpecentes não foram encontrados pela indicação do réu. O réu somente admitiu a prática delitiva após os policiais encontrarem os narcóticos e o confrontarem. Ressalte-se que os depoimentos dos policiais pode ser usado como prova para a condenação (fl. 632).
+Nos termos da jurisprudência desta Corte Superior, inviável o acolhimento do pleito ante o óbice da Súmula 7/STJ.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. DOSIMETRIA. PRETENDIDA REDUÇÃO DA PENA COM BASE NO ART. 41 DA LEI 11.343/2006. COLABORAÇÃO PREMIADA. BENEFICIO NÃO RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 41 da Lei n. 11.343/2006, "o indiciado ou acusado que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais co-autores ou partícipes do crime e na recuperação total ou parcial do produto do crime, no caso de condenação, terá pena reduzida de um terço a dois terços".
+2. As instâncias ordinárias concluíram pela ausências dos pressupostos necessários à redução da pena nos moldes do art. 41 da Lei 11.343/2006, considerando que, conquanto "os recorrentes, após já detidos, tenham indicado os locais onde escondias as drogas, não apontaram quem foram os responsáveis por fornecê-las", destacando ainda que "a mera menção sobre onde ocultavam maior quantidade de entorpecente não resultou em colaboração concreta e útil para dar sequência às investigações sobre o delito denunciado" (e-STJ fl. 492). Assim sendo, a desconstituição do julgado, no ponto, tal como pretende a defesa, não pode ser realizada sem nova incursão no conjunto fático-probatório, providência incabível em sede de recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.142.654/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/10/2024 - grifo nosso).
+Ainda que não fosse assim, não havendo pluralidade de agentes, identificação de eventual comparsaria ou a desarticulação da cadeia do tráfico, os requisitos para o reconhecimento da colaboração voluntária sob comento não se encontrariam preenchidos pela mera entrega voluntária dos entorpecentes, estando a conclusão da Corte local em consonância com a jurisprudência deste Tribunal Superior.
+Nesse sentido:
+ ..
+1. Segundo dispõe o art. 41 da Lei n. 11.343/2006, O indiciado ou acusado que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais co-autores ou partícipes do crime e na recuperação total ou parcial do produto do crime, no caso de condenação, terá pena reduzida de um terço a dois terços.
+2. No caso, as instâncias ordinárias deixaram de aplicar a causa especial de diminuição de pena prevista no art. 41 da Lei n. 11.343/2006 por entender que, Na espécie, o recorrente tão-somente indicou o local em que estavam escondidas as demais porções de drogas, não contribuindo decisivamente para qualquer identificação de eventual comparsaria, forma de distribuição, associação criminosa ou organização criminosa, enfim, não trouxe contribuição mínima para eventual desarticulação da cadeia de tráfico, não preenchendo, nesse cenário, os requisitos do redutor. Dessarte, a ausência de atendimento dos requisitos previstos em lei justifica a vedação da benesse, de acordo com o disposto no texto legal e com a jurisprudência desta Corte Superior. Precedentes.
+3. Ademais, para se chegar à conclusão contrária àquela contida no acórdão recorrido, verificando que o paciente efetivamente prestou informações relevantes, seria necessário o reexame do arcabouço fático-probatório dos autos, o que não é possível em sede de habeas corpus.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 869.370/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe 5/12/2023 - grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 41 DA LEI N. 11.343/2006. PLEITO DE RECONHECIMENTO DA COLABORAÇÃO PREMIADA. SÚMULA 7/STJ. NÃO PREENCHIMENTO DOS REQUISITOS.
+Agravo conhecido para não conhecer do recurso especial.
