@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARLENE DE SOUZA GIOIA, LUIZ CARLOS DE SOUZA GIOIA, CARLOS ALBERTO GIOIA JÚNIOR e ANTÔNIO CARLOS DE SOUZA GIOIA contra- despacho de e-STJ fls. 785/786, por meio da qual indeferi o pedido de retirada do recurso de agravo regimental anteriormente interposto da pauta de julgamento virtual designada para iniciar em 30/3/2025, mediante os seguintes termos:
+Trata-se de pedido formulado por MARLENE DE SOUZA GIOIA, LUIZ CARLOS DE SOUZA GIOIA, CARLOS ALBERTO GIOIA JÚNIOR e ANTÔNIO CARLOS DE SOUZA GIOIA requerendo a retirada do agravo regimental no habeas corpus da pauta de julgamento virtual designada para iniciar em 20/3/2025, sob a pretensão de realização de sustentação oral na referida sessão de julgamento do agravo regimental, recurso este interposto contra a decisão em que neguei provimento ao recurso ordinário às e-STJ fls. 738/748, integrada pela decisão de e-STJ fls. 764/766.
+O pedido deve ser indeferido.
+Isso, porque o art. 184-B do Regimento Interno do Superior Tribunal de Justiça prevê que:
+Art. 184-B. As sessões virtuais devem estar disponíveis para acesso às partes, a seus advogados, aos defensores públicos e aos membros do Ministério Público na página do Superior Tribunal de Justiça na internet, mediante identificação eletrônica. (Redação dada pela Emenda Regimental n. 40, de 2021)
+§ 1º As sustentações orais e os memoriais podem ser encaminhados por meio eletrônico, após a publicação da pauta em até 48 horas antes de iniciado o julgamento em ambiente virtual, observado o disposto nos arts. 159, 160 e 184- A, parágrafo único. (Incluído pela Emenda Regimental n. 41, de 2022).
+Dessa forma, constata-se que é possível a realização de sustentação oral no julgamento virtual, conforme previsto no referido dispositivo.
+Ademais, a defesa foi intimada da inclusão do processo na pauta de julgamento da sessão virtual em 27/2/2025 (e-STJ fl. 769), havendo, assim, prazo suficiente para apresentação de sua sustentação oral até 48 horas antes do início do referido julgamento, que se iniciará apenas em 20/3/2025.
+Ante o exposto, indefiro o pedido.
+Aduzem os embargantes, em suma, a existência de contradição na decisão, afirmando que a gravação não substitui a participação direta do advogado em sessão presencial, o que compromete o princípio do contraditório e ampla defesa, conforme o art. 5º, LV da Constituição Federal e o art. 2º, §§ 1º e 2º da Lei n. 8.906/1994.
+Requerem, ao final, o acolhimento do vício apontado, permitindo a retirada do agravo regimental da pauta de julgamento virtual.
+É o relatório. Decido.
+O recurso não comporta sequer conhecimento.
+Conforme remansosa jurisprudência desta Corte, os embargos declaratórios servem ao exame de eventuais erros no provimento judicial que demandem reparo, com o objetivo de tornar as manifestações jurisdicionais coerentes, íntegras e exaurientes.
+No caso, o despacho embargado foi claro ao consignar a impossibilidade de acolhimento do pedido de retirada da pauta de julgamento virtual, em observância a previsão regimental que possibilita a apresentação de sustentação oral por meio virtual, até 48 horas antes do início da sessão de julgamento.
+Ademais, não se pode perder de vista que " o  indeferimento de pedido de retirada de feito do ambiente de julgamento eletrônico é ato insuscetível de impugnação recursal, porquanto ausente natureza decisória" (AgInt nos EDcl no RtPaut no AgInt no REsp n. 1.864.652/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/9/2023, DJe de 8/9/2023). Além do que "" n ão há razão para retirar o processo do julgamento virtual, quando a parte tem a oportunidade de apresentar memoriais, considerando a conformidade do julgamento virtual aos princípios da colegialidade, da adequada duração do processo e do devido processo legal" (AgInt nos EAREsp n. 257.221/RJ, Corte Especial) " (AgInt no AgInt no AREsp n. 1.978.099/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024).
+Tem-se, portanto, que não há nenhuma contradição a ser sanada, configurando o presente pedido mera irresignação diante do indeferimento do pleito anteriormente formulado, o que não se coaduna com a via dos aclaratórios.
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
