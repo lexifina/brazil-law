@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por BEBIDAS FOPPAS"S LTDA., com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, a Fazenda Pública ajuizou execução fiscal, com valor da causa atribuído em R$ 11.835.965,34 (onze milhões, oitocentos e trinta e cinco mil, novecentos e sessenta e cinco reais e trinta e quatro centavos), em outubro de 2008, para cobrança de débitos tributários.
+Em sede de ação anulatória, a empresa contribuinte logrou êxito na redução do débito para R$ 461.951,48 (quatrocentos e sessenta e um mil novecentos e cinquenta e um reais e quarenta e oito centavos).
+Diante disso, o juízo da execução indeferiu pedido de condenação da Fazenda ao pagamento de honorários advocatícios, sob fundamento, em síntese, de que a empresa contribuinte obteve êxito na fixação de honorários advocatícios pelo proveito econômico na citada ação anulatória, nova condenação na execução fiscal configuraria bis in idem.
+O agravo de instrumento interposto foi improvido por TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA. O referido acórdão foi assim ementado, in verbis:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. READEQUAÇÃO DO VALOR DA CAUSA POR FORÇA DE ANULATÓRIA. DECISÃO INDEFERINDO FIXAÇÃO DE HONORÁRIOS SOBRE O MONTANTE EXPURGADO. AGRAVO DE INSTRUMENTO DO EXECUTADO. PRETENDIDA COMINAÇÃO DE VERBA HONORÁRIA. INSUBSISTÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+1. A lei de execução fiscal preceitua sistema híbrido do sincretismo processual. Tem viés exclusivamente execucional, mas permite intervenções subjetivas típicas de ações de conhecimento, como quando se discute, incidentalmente, exclusão de sócio, liberação de penhora realizada em ativos financeiros, exceção de pré-executividade, entre outros, a todos exsurgindo plausível a discussão de honorários.
+2. Entretanto, como regra, a fixação dos honorários sucumbenciais à parte executada ocorre quando do julgamento de incidental embargos à execução e, à autora, desde o início para pronto pagamento, podendo aumentar por ocasião da sentença (salvo aquelas que impelem imediata extinção da totalidade da obrigação).
+3. Manejada consecutiva ação desconstitutiva de crédito tributário, atingindo inexigibilidade parcial de respectiva CDA, como sucedâneo defensivo - embargos à execução fiscal não conhecido por falta de garantia do juízo, resta inexistente fixação de nova verba honorária, visto que a possibilidade de cumulação ocorre entre ambas (anulatória e embargos à execução fiscal), mas não em relação à execução fiscal.
+4. Mormente quando a decisão interlocutória, proferida em acato à conexa ação anulatória, é responsável apenas por readequar valores (sem remissão total do passivo e, assim, não despido do condão de propiciar estipulação de honorários), já contemplando a remuneração do causídico na originária anulatória.
+5. Longe a atração do pretendido IRDR n. 16, porquanto este trata de possibilidade de cumulação de honorários nos embargos à execução com a verba advocatícia devida à desconstitutiva, situação distinta da presente causa, posto que ausente embargos à execução fiscal (extinto pela ausência de garantia), retirando eficácia dos atributos conjuntos que devem figurar para aplicação do IRDR paradigma (ressoando distinção do tema vinculante).
+6. Recurso conhecido e desprovido. Honorários recursais inviáveis.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, BEBIDAS FOPPAS"S LTDA interpôs o presente recurso especial, apontando violação do art. 85, §§ 1º, 2º, 3º e 10º, do CPC/2015, sustentando, em síntese, que a exclusão ou redução do valor da execução fiscal, quando é consequência de ação anulatória, configura hipótese de nova condenação de honorários de sucumbência contra a Fazenda Pública, considerando o princípio da causalidade.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Quanto à controvérsia, conforme se depreende do acórdão recorrido, houve a redução do valor da CDA em sede de ação anulatória conexa, com a consequente condenação da Fazenda Pública ao pagamento de honorários advocatícios nessa ação. Diante disso, o valor da execução fiscal foi ajustado sem nova fixação de honorários.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento ali apresentado, no sentido de que não há cabimento para a fixação de honorários advocatícios, uma vez que houve mera retificação do valor da CDA na execução fiscal, foi utilizado de forma suficiente para manter a decisão do Tribunal a quo e não foi devidamente rebatido no apelo nobre. Diante disso, incidem os óbices das Súmulas n. 283 e 284 do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ainda que superado o óbice, verifica-se que o Tribunal de origem entendeu, em suma, que a execução fiscal não comportaria honorários advocatícios em face de não possuir resultados práticos, pois houve apenas readequação do valor da CDA, sem resistência da Fazenda Pública. Desse modo, para adotar a argumentação do recorrente e fixar novos honorários, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+No caso, houve simples substituição da CDA para readequar o valor da execução em respeito à decisão judicial da ação anulatória conexa, sem resistência da Fazenda Pública e sem extinção da execução fiscal, não cabendo nova condenação em honorários advocatícios. No mesmo sentido, confiram-se os julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL EM EMBARGOS DO DEVEDOR. SUBSTITUIÇÃO DA CERTIDÃO DE DÍVIDA ATIVA - CDA. ART. 2º, § 8º, DA LEI N. 6.830/80. HONORÁRIOS DE SUCUMBÊNCIA. INAPLICABILIDADE. COISA JULGADA.
+1. Caso em que se pede a condenação da Fazenda em ônus sucumbenciais, em virtude da substituição da CDA, após a oposição dos embargos do devedor.
+2. No caso, a questão da condenação em honorários advocatícios foi decidida pelo TRF da 1ª Região, com trânsito em julgado, nos autos do agravo de instrumento n. 1999.01.00.00.4495-3/MG, não mais se podendo discuti-la, agora, em sede de recurso especial.
+3. É de registrar-se que a jurisprudência do STJ é no sentido de que "a simples substituição da Certidão de Dívida Ativa, com a reabertura de prazo para oposição de embargos, não enseja a condenação da Fazenda Pública ao pagamento de honorários, pois apenas à decisão final do processo caberá fazê-lo" (REsp 388.764/RS).
+4. Recurso especial não provido.
+(REsp n. 1.106.572/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/9/2009, DJe de 28/9/2009.)
+RECURSO ESPECIAL - ALÍNEA "A" - AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - SUBSTITUIÇÃO DA CDA - PRETENDIDA CONDENAÇÃO EM HONORÁRIOS - IMPOSSIBILIDADE.
+A simples substituição da Certidão de Dívida Ativa, com a reabertura de prazo para oposição de embargos, não enseja a condenação da Fazenda Pública ao pagamento de honorários, pois apenas à decisão final do processo caberá fazê-lo.
+Dispõe o artigo 20, caput, do CPC que "a sentença condenará o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios". Inexistindo, pois, decisão definitiva, não se é de admitir a condenação em honorários.
+Recurso especial improvido.
+(REsp n. 388.764/RS, relator Ministro Franciulli Netto, Segunda Turma, julgado em 6/5/2004, DJ de 6/9/2004, p. 198.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
