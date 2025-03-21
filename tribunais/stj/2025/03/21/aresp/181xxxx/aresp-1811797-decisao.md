@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por FADAIAN CHAGAS CARVALHO contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO assim ementado:
+APELAÇÃO CRIMINAL. INJÚRIA QUALIFICADA. RECURSO DE DEFESA. NULIDADES. INOCORRÊNCIA. AUTORIA COMPROVADA. DOSIMETRIA CORRETA. 1. Na espécie, consta dos autos que o acusado, após receber ordem de se retirar da piscina do condomínio devido ao horário, ofendeu o síndico em razão de sua idade. 2. Nulidades. 2.1. O delito de injúria na forma qualificada possui pena máxima de 03 anos, não sendo, portanto, crime de menor potencial ofensivo, de competência do juizado especial criminal. 2.2. Não há que se falar em decadência no direito de representação, tendo em vista que o ofendido foi até a delegacia dentro do prazo decadencial, prescindindo a condição de procedibilidade de formalismo, bastando a manifestação do ofendido no sentido de ver processado o autor do fato. 2.3. As alegações finais do assistente de acusação foram consideradas tempestivas, tendo sido utilizada a contagem prevista no art. 219 do NCPC. Outrossim, a intempestividade das alegações finais da acusação constitui mera irregularidade ou, ainda que seja hipótese de nulidade relativa, não restou comprovado o prejuízo para o acusado. 2.4. Não ocorreu cerceamento de defesa devido à juntada da prova documental pelo assistente de acusação, pois a defesa técnica teve a oportunidade de se manifestar quanto ao documento, restando assegurado o devido processo legal através do contraditório e da ampla defesa. 3. No mérito, emerge firme dos autos que o acusado injuriou o ofendido com palavras ofensivas referentes à condição de idoso. Palavra da vítima corroborada por prova testemunhal que comprova a autoria do delito. Prova defensiva que não possui o condão de afastar a tese acusatória. 4. O estado de ânimo do agente não é elemento do tipo penal, não afastando, assim, a tipicidade da conduta. Ademais, a versão de que as ofensas foram praticadas dentro de uma discussão acalorada é narrativa exclusivamente da defesa, já que o ofendido em juízo de maneira calma e segura negou que tivesse trocado insultos com o acusado, até mesmo pela idade avançada que possui. Recurso desprovido.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 557/573).
+Contraminuta apresentada (e-STJ fls. 602/604).
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (e-STJ fls. 630).
+É o relatório.
+Decido.
+Verifica-se que os pressupostos de admissibilidade recursal encontram-se presentes, de maneira que conheço do recurso de agravo em recurso especial.
+Por outro lado, tem-se que não é cabível recurso especial por meio do qual a parte recorrente pretende o reexame das provas produzidas durante a instrução processual, considerando o teor do enunciado da súmula n. 7 deste Superior Tribunal de Justiça, segundo o qual "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, verifica-se da petição do recurso especial interposto pelo recorrente ser este exatamente o caso, em que o recorrente pretende, por intermédio do referido recurso, reanálise e revaloração do contexto fático-probatório dos autos, circunstâncias vedadas pelo texto da referida súmula.
+Colaciona-se precedente no mesmo sentido:
+PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE DEVIDAMENTE FUNDAMENTADA, NA FORMA DO ART. 42 DA LEI DE DROGAS. NÃO INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO DECORRENTE DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que não admitiu o recurso especial, no qual se alegou violação aos arts. 33, § 4º, e 42 da Lei n. 11.343/2006, pleiteando a concessão de benefício legal e alegando bis in idem na dosimetria da pena, além da necessidade de redução da pena-base ao mínimo legal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve bis in idem na dosimetria da pena ao utilizar a quantidade de droga apreendida para aumentar a pena-base e para afastar a minorante do tráfico privilegiado, assim como se a quantidade de droga apreendida autoriza o aumento da basilar.
+3. A questão também envolve a análise da possibilidade de reexame de provas para verificar a dedicação dos recorrentes a atividades criminosas.
+III. RAZÕES DE DECIDIR
+4. A utilização da quantidade de droga para aumentar a pena-base e afastar a minorante não configura bis in idem, pois foram considerados elementos fáticos distintos, além da existência de outros elementos que evidenciam a dedicação a atividades criminosas.
+5. A reanálise do acervo fático-probatório é inviável em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+6. A majoração da pena-base é justificada com base na grande quantidade de droga apreendida (1 kg de maconha), sendo proporcional a fração de 1/6, na forma do art. 42 da Lei n. 11.343/2006.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.484.073/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJe de 12/12/2024.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
