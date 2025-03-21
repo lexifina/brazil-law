@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por VAHRCAV PARTICIPAÇÕES LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/06/2024.
+Concluso ao gabinete em: 06/11/2024.
+Ação: renovatória, ajuizada por AMERICANAS S/A (EM RECUPERAÇÃO JUDICIAL), em face de VAHRCAV PARTICIPAÇÕES LTDA.
+Sentença: julgou parcialmente procedentes os pedidos dos processos nº 010269-17.2019.8.26.0002 e nº 1009121-44.2014.8.26.0002, para reajustar o valor da locação do imóvel, fixando-o em R$ 36.200,00 para a data-base de agosto de 2014, e em R$ 45.560,00, para a data-base de novembro de 2019, mantidas integralmente as demais cláusulas do contrato de locação. Assim, dada a sucumbência mínima da parte agravada em ambas as demandas, condenou a parte agravante, em cada um dos dois processos conexos, ao pagamento dos honorários advocatícios no total de 10% sobre o valor de cada uma das causas julgadas, condenando, ainda, a parte sucumbente ao pagamento das custas (art. 86, CPC). (e-STJ fls. 831/834)
+Acórdão: deu parcial provimento à Apelação interposta pela parte agravante e negou provimento à Apelação interposta pela parte agravada, nos termos da seguinte ementa:
+"Apelação. Locação de imóvel. Ajuizamento de duas ações renovatórias, conexas, envolvendo períodos distintos- a primeira, no período de 31/08/2014 a 31/08/2019 e a segunda de 31/08/2019 a 31/08/2024. Arbitramento lastreado em laudos oficiais produzidos em ambas as demandas. Críticas oferecidas pelas partes refutadas por esclarecimentos substanciosos prestados pelo perito, profissional de confiança do juízo. Adversidades imprevisíveis em razão das medidas restritivas impostas no contexto da pandemia do Covid- 19 que não afasta o dever de pagar o aluguel. Valor locatício devido na sua integralidade durante o período da pandemia, na ausência de propositura de ação revisional ajuizada àquele tempo, prevalecendo, assim, o "pacta sunt servanda". Locatária, ademais, que não fez prova segura da redução de faturamento no período da pandemia. Prova pericial realizada no ano de 2020. Possibilidade de aplicação do índice IGPM, de forma regressiva, para apurar o locativo em vigor no ano de 2014. Verba sucumbencial. Imposição à parte cujo valor indiciado mais se afastou do fixado. Necessidade de redistribuição da verba honorária no respeitante à primeira ação. Sentença ligeiramente reformada apenas no que toca à distribuição da verba honorária. Recurso da ré parcialmente provido, improvido o de interesse da autora." (e-STJ fls. 883)
+Embargos de Declaração: opostos, pela parte agravada, foram rejeitados. (e-STJ fls. 911/915)
+Recurso especial: alega violação dos arts. 369, 371, 473, 480, CPC, sustentando que: i) a Corte local baseou-se apenas e tão somente nos laudos periciais; e, ii) a figura dos Assistentes Técnicos não pode ser esquecida; e, iii) e não houve análise técnica do real valor locativo, bem como não foram perquiridas outras informações, tendo o laudo ficado restrito apenas e tão somente aos elementos comparativos colhidos na época da elaboração; e, iv) a segunda perícia é imprescindível. (e-STJ fls. 917/929)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 369, 371, 473, 480, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em mais 5% os honorários fixados anteriormente (e-STJ fl. 896/897).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Ação renovatória.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo conhecido. Recurso especial não conhecido.
