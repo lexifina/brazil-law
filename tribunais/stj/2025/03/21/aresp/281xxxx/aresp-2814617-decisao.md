@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL da decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Cível n. 5000295-93.2021.4.04.7201/SC. Confira-se a ementa (fls. 488-489):
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. CATEGORIA PROFISSIONAL. TRABALHADOR DE AGROPECUÁRIA. RECONHECIMENTO. RUÍDO. METODOLOGIA. RECONHECIMENTO. APOSENTADORIA ESPECIAL. REQUISITOS PREENCHIDOS.
+1. Uma vez exercida atividade enquadrável como especial, sob a égide da legislação que a ampara, o segurado adquire o direito ao reconhecimento como tal e ao acréscimo decorrente da sua conversão em tempo de serviço comum no âmbito do Regime Geral de Previdência Social.
+2. Até 28/04/1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído); a partir de 29/04/1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até 05/03/1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. Considerando que se trata de atividade laborativa exercida até 28/04/1995, deve ser reconhecida a especialidade do labor do autor, por presunção legal, eis que comprovado o desempenho da função de trabalhador na agropecuária, atividade enquadrável como especial no Decreto nº 53.831/64 (Quadro Anexo - item 2.2.1).
+4. Não é exigível o labor concomitante na agricultura e na pecuária para fins de cômputo de tempo especial, em virtude do enquadramento profissional no item 2.2.1 - agricultura, do Quadro Anexo do Decreto nº 53.831/64. Precedentes.
+5. Em relação ao ruído, os limites de tolerância são os seguintes (Tema 694 STJ - REsp 1.398.260): 80 dB(A) até 05/03/1997; 90 dB(A) de 06/03/1997 a 18/11/2003 e; 85 dB(A) a partir de 19/11/2003.
+6. O STJ firmou a seguinte tese sob a sistemática dos Recursos Repetitivos (Tema 1.083): O reconhecimento do exercício de atividade sob condições especiais pela exposição ao agente nocivo ruído, quando constatados diferentes níveis de efeitos sonoros, deve ser aferido por meio do Nível de Exposição Normalizado (NEN). Ausente essa informação, deverá ser adotado como critério o nível máximo de ruído (pico de ruído), desde que perícia técnica judicial comprove a habitualidade e a permanência da exposição ao agente nocivo na produção do bem ou na prestação do serviço.
+7. Isto é, a partir de 18/11/2003, quando houve a inclusão do § 11 no artigo 68 no Decreto 3.048/1999, que determina a consideração da metodologia e procedimentos de avaliação estabelecidos pela Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho - FUNDACENTRO, deve-se aferir o ruído segundo o NEN, quando constatados diferentes níveis de pressão sonora. Contudo, ausente essa informação, autoriza-se a adoção do nível máximo de ruído.
+8. No caso dos autos, o ruído não foi apurado em níveis variáveis, não sendo exigível a utilização do NEN. De todo modo, os PPPs indicam a utilização da dosimetria de ruído, metodologia prevista na NR-15.
+9. Restou demonstrado que o autor esteve exposto a níveis de ruído superiores aos limites de tolerância em todo o período controvertido.
+10. Alcançando o autor, na DER, o tempo mínimo necessário para a concessão da aposentadoria especial e preenchidos os demais requisitos, deve ser confirmada a sentença que reconheceu seu direito ao benefício postulado.
+Rejeitaram-se os embargos de declaração opostos (fls. 506-511).
+Irresignado, o recorrente interpôs recurso especial, com fulcro no art. 105, inciso III, alínea a, da CF, no qual alega afronta aos arts. 31 da Lei n. 3.807/1960 e 9º da Lei n. 5.890/1973. Aponta ainda contrariedade ao item n. 2.2.1 do Quadro Anexo ao Decreto n. 53.831/1964. Sustenta, em suma, que "o mero exercício da citada atividade (agricultura) não dá suporte ao reconhecimento da especialidade" (fl. 522).
+Contrarrazões às fls. 527-531.
+O recurso foi inadmitido na origem (fls. 534-536), o que ensejou a interposição do presente agravo (fls. 544-549).
+Contraminuta às fls. 553-556.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência das Súmulas n. 7 e 83 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Deixou de esclarecer, à luz da tese veiculada no apelo nobre  qual seja, impossibilidade do reconhecimento da especialidade da atividade desenvolvida pelo trabalhador  , de que maneira não seria necessária a incursão no campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial, o que não ocorreu. No caso, inexistiu a referida correlação, tendo a autarquia federal se limitado a consignar que a questão "se resolve pela valoração do conteúdo fático-probatório delineado no acórdão recorrido, e não de reexame de fatos e provas" (fl. 548).
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt -Desembargador Convocado do TRF-5ª Região -, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empreg ados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nessa senda:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 487), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 7 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
