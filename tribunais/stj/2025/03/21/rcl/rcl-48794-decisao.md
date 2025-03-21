@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se reclamação ajuizada por TÂNIA REGINA GALVAN MOMO e AIRTON AMILCAR MACHADO MOMO, fundamentada no art. 988, II, do CPC, contra decisão proferida pelo Juízo da 18ª Vara Cível de Curitiba/PR, nos autos do processo n.º 0001918- 26.1997.8.16.0001.
+Reclamação ajuizada em: 12/3/2025.
+Conclusa ao gabinete em: 13/3/2025.
+Os reclamantes alegam que, nos autos do processo n.º 0001918- 26.1997.8.16.0001, o Juízo da 18ª Vara Cível de Curitiba negou-se, por duas vezes, a cumprir o determinado pela Ministra Relatora no julgamento do Agravo em Recurso Especial n.º 2735077/PR, condicionando o cumprimento da decisão ao seu trânsito em julgado. Assinalam que, na decisão, a Relatora determinou a extinção da execução, o que tem por consequência lógica o levantamento das penhoras salariais. Asseveram ser cabível a reclamação para garantir a autoridade da decisão do Superior Tribunal de Justiça. Requerem, em síntese, a concessão de medida liminar, para que seja determinada de imediato a suspensão das penhoras salariais dos executados nos autos do processo n.º 0001918-26.1997.8.16.0001 e o seu respectivo levantamento, e, ao final, a reforma da decisão reclamada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Reclamação Constitucional
+Nos termos dos arts. 105, inciso I, alínea "f", da Constituição Federal, e 988 do CPC, compete ao STJ processar e julgar originariamente a reclamação para a preservação de sua competência ou para a garantia da autoridade de seus julgados apenas quando objetivamente violados.
+Quanto ao cabimento para garantir a autoridade de suas decisões, segundo a jurisprudência do STJ, pressupõe-se a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida (AgInt na Rcl 38.236/SP, Primeira Seção, DJe 28/10/2019; AgRg na Rcl 33.823/SP, Terceira Seção, DJe 1º/8/2017 e AgInt na Rcl 28.688/RJ, Segunda Seção, DJe 29/8/2016).
+Nessa situação, o instrumento da reclamação tem por objetivo assegurar que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, não servindo para a preservação da jurisprudência desta Corte ou como sucedâneo recursal (AgRg na Rcl 29.329/MS, Corte Especial, DJe 3/8/2016; AgInt na Rcl 36.756/MG, Segunda Seção, DJe 23/8/2019 e AgInt na Rcl 37.890/MT, Segunda Seção, DJe 8/10/2019).
+Na hipótese, a insurgência dos reclamantes dirige-se a decisão proferida pelo juízo da execução que condicionou o cumprimento da determinação da Relatora no julgamento do Agravo em Recurso Especial n.º 2735077/PR ao trânsito em julgado da decisão. Argumentam os reclamantes que o entendimento do juízo viola a autoridade do STJ, uma vez que, na decisão proferida pela Relatora, a ação de execução foi extinta em razão do reconhecimento da prescrição intercorrente. Nesse sentido, assinalam que o imediato levantamento das penhoras que recaem sobre verbas salariais nos autos da execução é consectário lógico da decisão.
+O simples condicionamento, pelo juízo, do cumprimento da decisão emanada do STJ ao seu trânsito em julgado não basta para configurar violação à autoridade desta Corte, considerando que, na hipótese, não houve determinação de cumprimento imediato pela Relatora.
+Observa-se, ainda, que os reclamantes atuam com o nítido propósito de rediscutir o mérito da decisão, utilizando o instrumento da reclamação como sucedâneo recursal, sendo certo que a reclamação não é o meio jurídico adequado quando não for diretamente atacada a autoridade da decisão proferida por esta Corte.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Prejudicada a tutela de urgência pleiteada.
+Deixo de fixar honorários advocatícios de sucumbência, porquanto não angularizada a relação processual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. DESOBEDIÊNCIA DA AUTORIDADE DAS DECISÕES
+PROFERIDAS POR ESTA CORTE. AUSÊNCIA DE VERIFICAÇÃO. PETIÇÃO INICIAL INDEFERIDA. RECLAMAÇÃO EXTINTA SEM JULGAMENTO DE MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, a usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência desta Corte, a reclamação não pode ser manejada como sucedâneo recursal, nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado.
+3. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
