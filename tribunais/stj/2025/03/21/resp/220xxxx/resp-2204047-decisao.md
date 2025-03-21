@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto por JOÃO COELHO DE MORAES (ESPÓLIO) e MARIA FERREIRA DE MORAES, ELSON LUIZ DE MORAES COELHO e ELMO ERIK DE MORAES COELHO contra a decisão de fls. 1.345-1.352, que negou provimento ao agravo.
+Nas razões do presente agravo, a parte agravante sustenta violação dos arts. 104, 107, 166, 422, 426, 1.417, 1.418 e 1.793 do Código Civil, porquanto o contrato é nulo, pois seu objeto é proibido por lei (pacta corvina) e foi celebrado mediante conduta dolosa bilateral, não revestindo a forma prescrita em lei, sendo insuscetível de confirmação pelas partes e convalidação (fls. 1.358-1.360).
+Afirma violação dos arts. 1.417 e 1.418 do Código Civil, visto que não é possível a adjudicação compulsória de imóvel objeto de contrato de compra e venda fundada em cessão de direitos hereditários, antes de ultimado o processo de inventário e partilha, considerando a ausência de regularização de transmissão causa mortis, o que atenta contra o princípio da continuidade registral (fls. 1.360-1.361).
+Alega ofensa ao art. 1.022 do CPC, pois houve deficiência de prestação jurisdicional do Tribunal a quo, que deixou de enfrentar as omissões e contradições relevantes, impondo a determinação de retorno dos autos para que o TJGO saneie os vícios suscitados em embargos de declaração pela parte ora agravante (fls. 1.360-1.361).
+Requer provimento do agravo interno para que seja conhecido o recurso especial e, como consequência, seja provido o recurso especial.
+Foram apresentadas contrarrazões de VICENTE COELHO DE MORAES e VALDETE DE FÁTIMA MARQUES MORAES (fls. 1.379-1.394) em que aduzem que incide à hipótese o óbice da Súmula n. 83 do STJ, pois a jurisprudência utilizada na decisão agravada, que respalda a manutenção da higidez do negócio jurídico, tanto sob a ótica da consagração da boa-fé objetiva quanto da coibição à prática do tu quoque, é plenamente aplicável ao presente caso.
+Sustentam que aplicam-se os óbices das Súmulas n. 5 e 7 do STJ, na medida em que a pretensão recursal demandaria o revolvimento do acervo fático probatório dos autos e a reanálise do contrato celebrado.
+Alegam que a ausência de argumentos voltados a desconstituir as conclusões do TJGO acerca da possibilidade de convalidação do negócio jurídico em função da vedação à conduta contraditória das partes (tu quoque) e ao enriquecimento ilícito, bem como a insistência dos agravantes em focar seus fundamentos na mera alegação de nulidade da avença, atraem a incidência do óbice da Súmula n. 283 do STF.
+Argumentam que não houve negativa de prestação jurisdicional, inexistência de violação do artigo 1.022 do CPC, tendo em vista que tanto o Tribunal a quo quanto o STJ analisaram e afastaram todos os argumentos aventados sobre a nulidade do negócio jurídico.
+Requerem o desprovimento do agravo interno e a manutenção da decisão agravada.
+É o relatório.
+Em novo exame, considerando a importância da questão em discussão e os argumentos apresentados no agravo interno, decidi reanalisar a decisão anterior.
+Com isso, determino a conversão do agravo em recurso especial, a fim de que a questão jurídica seja examinada de forma mais aprofundada.
+Ante o exposto, reconsidero a decisão monocrática anterior e dou provimento ao agravo em recurso especial, a fim de determinar sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
+EMENTA
