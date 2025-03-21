@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por NAYARA FLORES SIQUEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.25.002847-9/000.
+Extrai-se dos autos que a paciente foi condenada às penas de 12 anos e 8 meses de reclusão, no regime inicial fechado, mais ao pagamento de 32 dias-multa, pela prática do crime tipificado no art. 157, § 2º, inciso II, por duas vezes, c/c art. 29 e art. 69 do Código Penal - CP (roubo circunstanciado), decretada sua prisão preventiva na sentença.
+Irresignada, a defesa impetrou mandamus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - ROUBO QUALIFICADO - SENTENÇA CONDENATÓRIA PROLATADA - PRISÃO PROCESSUAL - DIREITO DE RECORRER EM LIBERDADE NEGADO - JUÍZO DE CAUTELARIDADE DEVIDAMENTE FUNDAMENTADO NA SENTENÇA - NECESSIDADE DE CONSTRIÇÃO DA LIBERDADE COMO GARANTIA DA ORDEM E SAÚDE PÚBLICAS - PERICULOSIDADE DO AGENTE CONSTATADA - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+01. Não há falar-se em constrangimento ilegal quando o juiz, na sentença condenatória, exerce, fundamentadamente, o juízo de cautelaridade previsto no §1º do art. 387 do CPP, reconhecendo presentes os requisitos autorizadores da prisão preventiva elencados no art. 312 do CPP.
+02. Sendo a paciente submetido, em primeiro grau, a sanção privativa de liberdade superior a oito anos, a ser cumprida em regime inicialmente fechado, e reconhecida, na sentença, a gravidade concreta da conduta da paciente, não há ilegalidade na manutenção de sua custódia processual para o resguardo da ordem pública." (fl. 11).
+A defesa aponta a ilegalidade da custódia cautelar, ressaltando a Súmula n. 676 desta Corte, que impede o juiz, de ofício, decretar a prisão preventiva.
+Afirma que não estão presentes os requisitos autorizadores da prisão preventiva previstos no art. 312 do Código Processo Penal - CPP, mostrando-se suficientes as medidas cautelares alternativas presentes no art. 319 da mesma legislação.
+Requer, assim, a concessão da ordem para conceder salvo-conduto ou revogar a prisão preventiva.
+O Ministério Público Federal elaborou parecer que recebeu o seguinte sumário:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PEDIDO DE DESCONSTITUIÇÃO DA PRISÃO PREVENTIVA DECRETADA NA SENTENÇA CONDENATÓRIA. REITERAÇÃO DE PEDIDO FORMUL ADO EM HC, JULGADO NO STJ. IMPOSSIBILIDADE. MATÉRIA JÁ APRECIADA PELO STJ. PARECER PELO NÃO CONHECIMENTO DO RECURSO ORDINÁRIO." (fl. 159)
+É o relatório.
+Decido.
+A presente impetração traz pedido idêntico ao formulado no HC 980.725, indeferido liminarmente por decisão de minha lavra em decisão de 17/02/2025, e em ambos se ataca acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido no julgamento do HC n. 1.0000.25.002847-9/000.
+Assim, diante de inadmissível reiteração de pedidos, resta obstaculizado o conhecimento deste recurso, tendo em vista que a controvérsia já foi resolvida no HC 980.725.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. FEMINICÍDIO QUALIFICADO E ABORTO PROVOCADO POR TERCEIRO TENTADOS. RECURSO ORDINÁRIO INTERPOSTO SEM PROCURAÇÃO. DEFICIÊNCIA NÃO SANADA EM SEDE DE AGRAVO REGIMENTAL. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PARA CONHECIMENTO DA MATÉRIA DE OFÍCIO. INEFICÁCIA DE EVENTUAL REGULARIZAÇÃO. OBJETO DO RECURSO QUE CONSISTE EM MERA REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. PRISÃO DOMICILIAR PARA TRATAMENTO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE ALTERAÇÃO QUE JUSTIFIQUE NOVO JULGAMENTO. AGRAVO REGIMENTAL QUE SE LIMITA A REPETIR AS ALEGAÇÕES PRÉVIAS. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Hipótese na qual não consta dos autos procuração outorgada ao patrono do agravante, o que, nos termos do enunciado n. 115 da Súmula desta Corte, torna inexistente o recurso. Ademais, embora apontada a ausência na decisão ora atacada, não houve a regularização com a interposição do agravo regimental.
+2. Embora a jurisprudência desta Corte admita, em homenagem aos princípios da economia processual e da primazia da decisão de mérito, o afastamento, de ofício, de eventual ilegalidade patente, ou a concessão de prazo para a regularização do pressuposto de admissibilidade, nos termos do art. 76, caput, e art. 932, parágrafo único, do Código de Processo Civil, não é cabível, no caso, a apreciação do mérito do recurso, e também seria inócua a regularização do feito, eis que as alegações ora apresentadas consistem em mera reiteração de recurso prévio (RHC 185348/SP), cujo provimento foi negado em 11/9/2023 - ou seja, em data recente.
+3. "A mera reiteração de pedido, que se limita a reproduzir, sem qualquer inovação de fato e/ou de direito, os mesmos fundamentos subjacentes a postulação anterior, torna inviável o próprio conhecimento da ação de habeas corpus". (AgRg no HC n. 190.293, Rel. Min. Celso de Mello, julgado em 20/10/2020, DJe 19/11/2020).
+4. Ademais, o agravante se limitou a reproduzir as razões do recurso ordinário, sem impugnar especificamente a decisão agravada.
+Todavia, " ..  a jurisprudência deste Superior Tribunal de Justiça orienta que o princípio da dialeticidade exige da parte a demonstração específica do desacerto da fundamentação no decisum atacado. Precedentes" (AgRg no HC n. 752.579/BA, Rel. Ministro JOÃO BATISTA MOREIRA (Desembargador Convocado do TRF1), Quinta Turma, DJe de 3/7/2023).
+5. Agravo não conhecido .
+(AgRg no RHC n. 186.154/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/10/2023, DJe de 27/10/2023.)
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
