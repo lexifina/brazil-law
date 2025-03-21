@@ -1,0 +1,63 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAU UNIBANCO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 195):
+AGRAVO DE INSTRUMENTO EMBARGOS À EXECUÇÃO REJEITADOS Alegação de excesso de execução, equívocos nos cálculos realizados pelo agravado e na data utilizada para início dos juros moratórios Intimação determinando pagamento do valor perseguido na execução Valores depositados que não correspondem ao total da execução Condenação solidária Exequente que pode exigir o débito de qualquer um dos executados Executado que pode exercer seu direito de regresso por vias próprias Decisão atacada que analisou os pontos principais da impugnação, ressaltando que valores já depositados nos autos deverão ser descontados ao tempo do levantamento pelo agravado Recuso improvido
+Rejeitados os embargos de declaração opostos (fls. 360-363).
+No recurso especial, alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Sustenta que o Tribunal local foi omisso ao deixar de considerar que os encargos moratórios incidiram sobre valores já pagos, o que configuraria enriquecimento sem causa.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 394, 395, 401, inciso I, e 884, do CC, 545, § 1º, 904, I, e 906, "caput", do CPC.
+Aponta divergência jurisprudencial em relação ao precedente paradigmático (REsp 1.820.963/SP), que trata da incidência de encargos moratórios.
+Foram oferecidas contrarrazões ao recurso especial (fls. 513-533).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 534-537), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 685-704).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento ao agravo deixou claro que (fl. 199):
+ ..  o alegado excesso de execução não se sustenta, vez que a condenação na ação originária foi solidária e como bem observou o juízo de origem:"(..) foi estabelecida na fase de conhecimento a solidariedade da condenação, de modo que o credor pode exigir a integralidade da dívida de qualquer um dos devedores", ressaltando, ainda que: "(..) sendo certo que eventual direito de regresso poderá ser feito por intermédio de ação própria, e não no bojo deste incidente". (fls. 101 dos autos do cumprimento de sentença).
+Com efeito, o próprio agravante afirma ter efetuado depósito correspondente à cota-parte da condenação (fls. 06), ignorando o determinado no dispositivo da r. sentença copiada a fls. 58/61, que condenou os réus solidariamente ao pagamento de R$ 13.800,00, com atualização desde o depósito e juros de mora de 1% a contara da citação.
+E, nesse ponto, observo que o agravante alega que o exequente/agravado utilizou data diversa para cálculo dos juros moratórios, reputando como correto o dia 17/08/2012, data da citação. No entanto, considerando que os autos de conhecimento são físicos, não trouxe o agravante elementos a subsidiar sua alegação de divergência referente à data da citação, como certidão de juntada de AR de citação ou de mandado de citação cumprido, ou de comparecimento espontâneo no cartório se dando por citado, de modo a permitir apreciação da questão suscitada.
+Observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/ STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. DANO MORAL. SUSPENSÃO DO FORNECIMENTO DO SERVIÇO DE ÁGUA . DEMORA INJUSTIFICADA NO RESTABELECIMENTO DO SERVIÇO. ARTS. 489, § 1º, E 1022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. DEVER DE INDENIZAR. REQUISITOS PARA A RESPONSABILIZAÇÃO DA CONCESSIONÁRIA. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. EXCESSO NÃO CARACTERIZADO.
+1. Cuida-se de ação de procedimento ordinário ajuizada em desfavor de SAMAR - Soluções Ambientais de Araçatuba, com o fim de obter indenização pelos danos morais que alega ter sofrido com suspensão do serviço de água na residência da autora.
+2. Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+ ..
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.118.594/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 22/11/2022, DJe de 25/11/2022 - grifo nosso.)
+Quanto à alegação de afronta aos arts. 394, 395, 401, inciso I, e 884, do CC, 545, § 1º, 904, I, e 906, "caput", do CPC, o recurso não comporta conhecimento, visto que a recorrente limitou-se a enumerar os artigos de lei que entende violados sem, todavia, cotejar e explicitar os motivos pelos quais o comando normativo deixou de ser aplicado, o que também atrai os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF. (AgInt no AREsp n. 2.044.724/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/9/2022.)
+2. A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+ ..  (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/6/2022.)
+Rever o entendimento do Tribunal de origem acerca do alegado excesso de execução, da possibilidade de o exequente exigir o débito de qualquer dos executados, da possibilidade de o executado exercer o direito de regresso e da possibilidade de que os valores já depositados nos autos, sejam descontados ao tempo do levantamento pelo agravado, demandaria incursão no acervo fático-probatório o que é vedado pela incidência da Súmula n. 7/STJ.
+Com relação ao alegado dissídio jurisprudencial é pacífico o entendimento desta Corte Superior de que a incidência da Súmula 7/STJ prejudica a sua análise.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A jurisprudência do STJ é no sentido de que o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Precedentes.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+8. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 2.760.074/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)(g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO OU TESE. SÚMULAS N. 282 DO STF E 211 DO STJ. 3. LITISCONSÓRCIO PASSIVO NECESSÁRIO. PRESCRIÇÃO. CONSUMAÇÃO. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 6. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 do STF e 211 do STJ, não sendo o caso de prequestionamento ficto/implícito.
+3. Na hipótese, verifica-se que rever o entendimento do acórdão recorrido, acerca da ausência de litisconsórcio passivo necessário e de que a prescrição não foi consumada, a qual foi efetivamente analisada nos embargos à execução opostos pela agravante, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada no âmbito do recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+5. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+6. Agravo interno improvido.
+(AgInt no AREsp n. 2.644.826/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)(g.n.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. ENUMERA ARTIGOS. SÚMULA 284/STF. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
