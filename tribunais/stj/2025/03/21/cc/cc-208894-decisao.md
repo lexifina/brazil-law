@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, em que é suscitante BRASCOPPER CBC BRASILEIRA DE CONDUTORES LTDA. - EM RECUPERAÇÃO JUDICIAL em face do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE RIBEIRÃO PRETO - SP e do JUÍZO DA 3ª VARA DO TRABALHO DE SÃO LUÍS - MA.
+Ação em trâmite perante o juízo cível: recuperação judicial da suscitante.
+Ação em trâmite perante o juízo trabalhista: ação civil pública n. 0016720- 03.2019.5.16.0003 ajuizada pelo MINISTÉRIO PÚBLICO DO TRABALHO.
+Conflito de competência: alega, em síntese, que o juízo onde se processa a recuperação judicial é o único competente para dispor sobre os bens da recuperanda. Pleiteia, liminarmente, sejam "suspensos os atos constritivos realizados pela 3ª Vara do Trabalho de São Luís, determinando-se desde logo e provisoriamente a competência do juízo da 3ª Vara Cível da Comarca de Ribeirão Preto -SP" (e-STJ, fl. 16).
+Tutela antecipada: indeferida às fls. 820/821 , e-STJ.
+Parecer do MPF: manifestou-se pela competência do juízo recuperacional.
+RELATADO O PROCESSO, DECIDE-SE.
+A partir do julgamento do CC 196.846/RN, a Segunda Seção do STJ firmou a compreensão de que, "Com o advento da Lei n. 14.112/2020, tem-se não mais haver espaço - diante de seus termos resolutivos - para a interpretação que confere ao Juízo da recuperação judicial o status de competente universal para deliberar sobre toda e qualquer constrição judicial efetivada no âmbito das execuções de crédito extraconcursal, a pretexto de sua essencialidade ao desenvolvimento de sua atividade, sobretudo em momento posterior ao decurso do stay period". (DJe 25/4/2024).
+De acordo com o referido precedente, "o Juízo da recuperação judicial tem a competência específica para determinar o sobrestamento dos atos de constrição exarados no bojo de execução de crédito extraconcursal que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial durante o período de blindagem".
+Em outras palavras, é permitido ao juízo da recuperação judicial sobrestar ato constritivo realizado nos autos de execução de crédito extraconcursal em face da recuperanda apenas e tão somente durante o período de blindagem e se incidir sobre bem de capital essencial a suas atividades.
+Quanto à abrangência da expressão "bens de capital", a propósito, o STJ já definiu que ela diz respeito ao bem utilizado no processo de produção (veículos, silos, geradores, prensas, colheitadeiras, tratores etc.), não se enquadrando em seu conceito, portanto, valores em dinheiro. Nesse sentido: CC 196.553/PE, Segunda Seção, DJe 25/4/2024.
+Na hipótese, a suscitante afirma tratar-se de crédito extraconcursal (e-STJ, fl. 829/832), sendo que o juízo laboral entendeu por bem prosseguir com a execução em face da recuperanda com a determinação de penhora de valores de titularidade da devedora.
+Diante desse contexto, partindo-se da definição já assentada nesta Corte de que os valores em dinheiro não constituem bem de capital, a decisão do juízo laboral de exigir a satisfação de crédito extraconcursal, com o bloqueio de valores da recuperanda, não invade a competência do juízo de soerguimento, de modo que não se mostra configurado o alegado conflito de competência.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO  DE  COMPETÊNCIA.  EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA SUSPENDER ATO CONSTRITIVO EM FACE DA RECUPERANDA APENAS E TÃO SOMENTE DURANTE O PERÍODO DE BLINDAGEM E SE INCIDIR SOBRE BEM DE CAPITAL. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+1. A jurisprudência da Segunda Seção assinala ser permitido ao juízo da recuperação judicial suspender ato constritivo realizado para fins de satisfação de crédito extraconcursal em face da recuperanda apenas e tão somente durante o período de blindagem e se incidir sobre bem de capital essencial, situação não verificada na hipótese.
+2 .  Conflito  de  competência  não  conhecido.
