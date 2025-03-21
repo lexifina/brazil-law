@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de RAUL SOARES BARCELOS NETO, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.23.221155-7/000.
+Extrai-se dos autos que o paciente foi preso preventivamente e, em 1/12/2021, foi pronunciado como incurso no art. 121, §2º, II e IV, c/c o art. 14, II, ambos do Código Penal (homicídio qualificado tentado), ocasião na qual o juiz sentenciante concedeu a liberdade provisória, mediante a aplicação de medidas cautelares alternativas (fls. 34/51).
+Posteriormente a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"EMENTA: HOMICÍDIO QUALIFICADO - EXCESSO DE PRAZO - INEXISTÊNCIA - PRINCÍPIO DA RAZOABILIDADE - AUSÊNCIA DE DESÍDIA DO JUÍZO -DECISÃO DE PRONÚNCIA PROFERIDA - MANUTENÇÃO DAS MEDIDAS CAUTELARES ALTERNATIVAS - FUNDAMENTAÇÃO IDÔNEA -TÉCNICA "PER RELATIONEM" - NECESSIDADE E ADEQUAÇÃO. -Os prazos designados para a instrução criminal servem somente como parâmetros gerais. O reconhecimento do constrangimento ilegal por excesso de prazo deve sempre ser norteado pelo princípio da razoabilidade. -Pronunciado o réu, fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução (para a primeira fase dos processos de competência do Tribunal do Júri). -A manutenção das medidas cautelares alternativas à prisão não é ilegal quando motivada em fundamentação que apresentam elementos da gravidade do caso, aferindo-se a necessidade e adequação." (fl. 15).
+No presente writ o impetrante afirma que o paciente vem cumprindo todas as medidas cautelares impostas, tendo sido decretada nova prisão preventiva de forma equivocada, que durou 45 dias, após o que foi reconhecido pelo Juízo de primeiro grau, com o relaxamento da custódia.
+Aduz a desnecessidade e desproporcionalidade da manutenção das medidas cautelares alternativas, considerando que a vítima declarou não ter certeza sobre a autoria dos disparos. Afirma que parte das medidas impostas estão comprometendo seu trabalho, ante a restrição no seu deslocamento.
+Pondera a existência de excesso de prazo nas medidas cautelares impostas, destacando que o paciente permaneceu 158 dias preso preventivamente, e está há aproximadamente 800 dias com sua liberdade cerceada, sem que haja previsão de seu julgamento, considerando o desaforamento do feito.
+Assevera que o paciente conta com condições pessoais favoráveis e aponta a suficiência da manutenção das medidas cautelares mais brandas, notadamente as previstas no art. 319, I e III, do CPP.
+Acrescenta que "não se pode perpetuar a condição restritiva de liberdade, sem nenhuma motivação de sua necessidade concreta, apenas remetendo a uma decisão exarada há quase dois anos, uma vez que o Paciente não descumpriu nenhuma medida que lhe foi imposta" (fl. 11).
+Requer, em liminar e no mérito, a revogação das medidas cautelares impostas ou a manutenção apenas daquelas previstas no art. 319, I e III, do CPP.
+A liminar foi indeferida às fls. 66/68. Informações prestadas às fls. 74/89, 90/110, 114/125, 134/150 e 157/159. O Ministério Público Federal opinou pela denegaçã da ordem às fls. 126/129 .
+É o relatório.
+Decido.
+Conforme informações encaminhadas pelo Juízo de origem (fls. 157/158), observa-se que o paciente foi submetido a julgamento perante o Tribunal do Júri, tendo sido condenado à pena de 3 anos de reclusão, em regime aberto.
+Consta, ainda, que foram mantidas as medidas cautelares de "I) proibição de se aproximar da vítima, do seu local trabalho de sua residência, devendo acusado manter distância mínima de 500 (quinhentos) metros, salvo quando presentes ambos às dependências do fórum para atos oficiais; II) não mudar de endereço sem prévia comunicação ao Juízo; III) comparecer todos os atos do processo, tendo em vista que ainda não houve o trânsito em julgado da sentença. Destaco ainda, que o monitoramento eletrônico foi revogado, conforme anteriormente dito" (fl. 158).
+Assim, a notícia da superveniência de sentença condenatória durante a tramitação do presente writ implica na perda do objeto da irresignação.
+Pelo exposto, com fundamento art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
