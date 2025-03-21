@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RENATO RABELO DOS SANTOS MALTA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO que não admitiu seu recurso especial assim ementado:
+Apelação Criminal  Concussão  Art. 305, do CPM. Policiais Militares que, em concurso, fazem exigência de vantagem pecuniária de pessoa envolvida com o tráfico de drogas e, posteriormente, organizam abordagem simulada para o exaurimento do delito, momento em que são flagradas pela Corregedoria PM. Alegação de flagrante preparado que não prospera, diante da sua não configuração. Agentes do órgão censor que se limitam a aguardar o exaurimento do delito para proceder à prisão em flagrante, não induzindo qualquer pessoa à pratica delituosa. Prova robusta, coesa e harmônica, suficiente para a condenação.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 1622/1628).
+O Ministério Público Federal manifestou-se "pelo não conhecimento do agravo para não se conhecer o recurso especial" (e-STJ fls. 1683/1684).
+É o relatório.
+Decido.
+Incide, à hipótese, a Súmula 83 do Superior Tribunal de Justiça, não merecendo qualquer reparo a decisão que não admitiu o recurso especial interposto.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. ACÓRDÃO ESTADUAL EM HARMONIA COM A J U R I S P R U D Ê N C I A D E S T A C O R T E . S Ú M U L A 8 3 / S T J . MULTIRREINCIDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. VERBETES NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.- A jurisprudência desta Corte é sedimentada no sentido de ser possível a compensação da atenuante da confissão espontânea com a agravante da reincidência, na segunda fase da dosimetria da pena (REsp n. 1.341.370/MT).- Incide o Enunciado n. 83 do Superior Tribunal de Justiça - STJ quando a decisão proferida pelo Tribunal de origem encontra-se em harmonia com a jurisprudência desta Corte.- O Tribunal de origem não debateu a questão da multirreincidência, nem foi instado a fazê-lo por via de embargos declaratórios. Assim, aplicam-se ao caso as Súmula n. 282 e 356 do STF. Agravo regimental desprovido. (AgRg no AREsp 700.586/MS, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 06/08/2015, DJe 28/08/2015).
+Ademais, a decisão do Tribunal de origem foi dada por maioria de votos, não tendo a defesa interposto o recurso cabível (embargos infringentes) incidindo, em decorrência, a jurisprudência consolidada na Súmula 207 que afirma: "É inadmissível recurso especial quando cabíveis embargos infringentes contra o acórdão proferido no tribunal de origem".
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
