@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por VALTER BASSO PRADO e OUTRA contra decisão que inadmitiu recurso especial.
+O apelo extremo, fundamentado no art. 105, inc. III, alíneas "a" e "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EMBARGOS. Execução de Título Extrajudicial. Contrato de locação de imóvel comercial com vigência pelo prazo de 10 de setembro de 2016 a 10 de setembro de 2021. Notícia de inadimplemento da Empresa locatária em relação aos aluguéis e encargos dos meses de janeiro a junho de 2020. Fiadores coexecutados, um deles sócio da Empresa locatária coexecutada, que comunicaram a desoneração da fiança à locadora exequente no dia 11 de maio de 2020. SENTENÇA de acolhimento parcial dos Embargos. APELAÇÃO só dos fiadores executados embargantes, que visam à anulação da sentença por cerceamento de defesa, insistindo no mérito pelo acolhimento integral dos Embargos, a pretexto de que a retirada do fiador da sociedade implica a exoneração da fiança e de que a assunção da locação por terceiro gera a extinção da mencionada garantia. EXAME: cerceamento de defesa não configurado. Prova documental constante dos autos que era suficiente para o julgamento da causa. Retirada do sócio fiador do quadro societário da Empresa afiançada que justifica a exoneração da fiança, inclusive em contrato de locação com prazo determinado, ainda que firmado com pessoa jurídica, já que a fiança, no caso, baseia-se no vínculo de confiança entre o fiador e os sócios afiançados. Responsabilidade dos fiadores, contudo, que perdura pelo prazo de 120 dias após a notificação do locador, "ex vi" do artigo 40, X, da Lei nº 8.245/91. Cogitada "assunção da locação" não configurada. Área locada a Empresa terceira alheia à lide que é distinta daquela locada para a Empresa executada. Coincidência de sócios entre as Empresas que não implica a cogitada transferência da dívida. Sentença mantida. RECURSO NÃO PROVIDO" (e-STJ fl. 508).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 522-526).
+Nas razões do especial (e-STJ fls. 528/543), os recorrentes apontam violação dos artigos 369, 373, I, 385 e 442 do Código de Processo Civil.
+Alegam a ocorrência de cerceamento de defesa, pois os fatos constitutivos do direito dos recorrentes, no que tange a assunção do contrato de locação, não foram comprovados porque lhe foi suprimido o direito à produção de provas no curso do processo.
+Apresentada  as contrarrazões, o recurso foi inadmitido. Daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhimento.
+Não subsiste, ainda, a alegação de cerceamento de defesa, em razão do indeferimento de prova oral.
+Eis o acórdão recorrido, no que interessa à espécie:
+Por primeiro, rejeita-se a arguição de nulidade da sentença por cerceamento de defesa a pretexto de privação da prova oral. É que, sendo o Juiz o principal destinatário da prova e havendo nos autos elementos suficientes para a formação de seu convencimento, possível o julgamento antecipado nos termos do artigo 355, inciso I, do Código de Processo Civil. Demais, compete ao Juiz do feito a determinação das provas que se mostrem necessárias à Instrução, bem ainda o indeferimento das diligências inúteis, a teor do disposto no artigo 370, parágrafo único, do Código de Processo Civil, a modo de garantir o cumprimento da celeridade processual.
+Como quer que seja, é certo que a alegada "assunção da locação" poderia ter sido demonstrada por meio de prova documental, sendo mesmo desnecessária a cogitada oitiva de testemunhas" (e-STJ fls. 511)
+Com efeito, devem ser levados em consideração os princípios da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do artigo 370 do Código de Processo Civil de 2015 (art. 130 do CPC/1973), permitem ao julgador determinar as provas que entender necessárias à instrução do processo bem como o indeferimento daquelas que considerar inúteis ou protelatórias.
+Dessa forma, não há falar em nulidade processual por ausência de produção de prova, visto que a decisão vergastada procedeu à devida análise dos fatos e a sua adequação ao direito.
+Ademais, rever tal conclusão encontra óbice juridicamente insuperável na Súmula nº 7/STJ, porquanto demandaria revisão de matéria fático-probatória, procedimento inviável no âmbito do recurso especial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 17% sobre o valor da execução, os quais devem ser majorados para o patamar de 20% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA. JULGAMENTO. ANTECIPADO DA LIDE. NÃO OCORRÊNCIA.
+1.  Ao  magistrado  é  permitido  formar  a  sua  convicção  com  base  em  qualquer  elemento  de  prova  disponível  nos  autos,  bastando  para  tanto  que  indique  na  decisão  os  motivos  que  lhe  formaram  o  convencimento.
+2.  Não  há  cerceamento  de  defesa  pelo  julgamento  antecipado  da  lide  que,  de  forma  fundamentada,  resolve  a  causa  sem  a  produção  da  prova  requerida  pela  parte  em  virtude  da  suficiência  dos  documentos  dos  autos.
+3. Agravo conhecido para conhecer parciamente do recurso especial e, nessa extensão, negar-lhe provimento.
