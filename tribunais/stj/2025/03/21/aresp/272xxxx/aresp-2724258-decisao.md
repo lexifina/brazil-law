@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão da inexistência de ofensa ao art. 489, §1º, VI, do CPC/2015.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 179):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - ITCD - INCIDÊNCIA DE MULTA E JUROS - LEGITIMIDADE DA COBRANÇA - DECLARAÇÃO DE BENS E DIREITOS APRESENTADA MAIS DE DEZ ANOS APÓS A ABERTURA DA SUCESSÃO - RECURSO DESPROVIDO
+1. O ITCD tem como fato gerador a abertura da sucessão, quando se opera a transferência automática da propriedade dos bens para os herdeiros. Impõe-se, todavia, a distinção entre o fato gerador e a exigibilidade do tributo, que se dará somente com a avaliação oficial do patrimônio integrante do espólio.
+2. Hipótese na qual os contribuintes apresentaram a Declaração de Bens e Direitos mais de dez anos após a abertura da sucessão. Legitimidade da incidência de multa e juros decorrente da apresenta ção da Declaração de Bens e Direitos e pagamento do tributo intempestivamente.
+3. Recurso não provido.
+Embargos de declaração rejeitados.
+No recurso especial, os recorrentes alegam violação do artigo 489, §1º, VI, do CPC/2015, ao argumento de que "a 5ª Câmara Cível ao proferir o acórdão, somente considerou como "avaliação oficial" o procedimento judicial, não considerando oficial o procedimento administrativo de avaliação efetuado pela Fazenda Pública Estadual" (fl. 238), em dissonância com o entendimento do STJ e da Súmula 114/STF.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontra presente o óbice apontado na decisão agravada.
+É o relatório. Decido.
+Afasta-se a alegada violação do artigo 489, §1º, VI, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração, conforme se extrai in verbis (fls. 216-220):
+Com redobrada vênia, não se vislumbra qualquer irregularidade no acórdão a ser sanada por esta via, observando-se que o decisum recorrido apresenta-se claro e devidamente fundamentado, até porque a matéria aventada nos embargos constitui-se exatamente o objeto do julgamento proferido.
+A propósito, sobre a matéria não conhecida, restou consignado no acórdão embargado:
+Os apelantes pretendem afastar a incidência da multa e dos juros previstos nos arts. 36 e 38 do Decreto Lei 43.981/2005, aplicados sobre o ITCMD devido em razão da transmissão de bens causa mortis, compelindo o recorrido a expedir certidão positiva com efeito de negativa.
+Conforme se observa da exordial, a autora da herança faleceu em 17.04.2011, vindo os herdeiros a providenciar o inventário extrajudicial apenas em maio de 2021, momento no qual já havia escoado o prazo de 180 (cento e oitenta) dias para o pagamento do ITCD.
+Apresentada a declaração de bens e direitos em 31.05.2021 (Ordem 14), a Fazenda Pública inseriu, na cobrança, multa e juros em decorrência do atraso. Para o Estado, o imposto é devido quando ultrapassados 180 (cento e oitenta) dias do óbito, nos termos da legislação estadual que disciplina a matéria - Lei 14.941/2003, e em consonância com a divisão de competências prevista no art. 155, I, da Constituição da República.
+Os apelantes, por sua vez, alegam que o tributo se torna exigível após a homologação da avaliação dos bens integrantes do espólio pela Fazenda.
+O fato gerador do imposto de transmissão causa mortis e doação - ITCD - é a transferência de propriedade, que se opera automaticamente, com o falecimento do proprietário originário.
+Cediço, entretanto, que o fato gerador do tributo não se confunde com a sua exigibilidade, quando houver a necessidade de se apurar, mediante avaliação oficial, a importância do acervo hereditário, com a respectiva individualização do quinhão de cada herdeiro, sobre o qual recairá de forma isolada, o imposto de transmissão. Esse o entendimento que se extrai da invocada Súmula n. 114 do Supremo Tribunal Federal, in verbis:
+"O imposto de transmissão "causa mortis" não é exigível antes da homologação do cálculo."
+Destarte, sendo o imposto em questão exigível somente a partir da homologação da avaliação oficial, afigura-se descabida a inserção, em seu montante, de multa e juros calculados desde a abertura da sucessão.
+Contudo, a ilegitimidade dos consectários somente se configura na hipótese em que a instauração do procedimento judicial ou a apresentação da declaração de bens para homologação pela Fazenda se der antes do transcurso do prazo legal para tanto.
+No caso em comento, conforme bem pontuado pelo d. Magistrado de primeiro grau, a abertura da sucessão se deu em 17.04.2011, noticiando os próprios herdeiros que, para darem início ao inventário extrajudicial, providenciaram a apresentação da Declaração de Bens e Direitos apenas em maio de 2021 (Ordem 14), e efetuaram o recolhimento do valor principal em junho de 2021 (Ordem 15), ou seja, mais de dez anos após o óbito.
+Nos termos do art. 983 do CPC/1973, vigente à época do falecimento, o processo de inventário e partilha deveria ser iniciado dentro de 60 (sessenta) dias a contar da abertura da sucessão.
+O atual Código de Processo Civil, por sua vez, estabelece os citados procedimentos devem ser instaurados dentro de 2 (dois) meses, a contar da abertura da sucessão.
+O prazo, como se sabe, aplica-se ao inventário extrajudicial.
+ ..
+Assim, considerando que não foi apresentada tempestivamente a declaração de bens e direitos à administração fazendária, para a devida homologação do ITCD, extrapolando-se em muito o prazo legal para pagamento do tributo e para a abertura do inventário, cujo retardamento sequer se aventa ter sido oriundo de fato alheio à vontade e possibilidade dos impetrantes, na esteira do que já me manifestei nos autos do agravo de instrumento "/001", é de rigor a confirmação da sentença que denegou a segurança.
+Como se vê, o entendimento adotado no acórdão embargado encontra-se devidamente fundamentado e não incorre em omissão alguma, tampouco em erro material.
+Desse modo, afasta-se a alegada afronta ao artigo 489 do CPC/2015, pois o Tribunal de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Ainda nessa esteira, frise-se que a jurisprudência deste Superior Tribunal é firme no sentido de que: "Não resta configurada nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado. Não é ele obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa de suas teses, devendo, apenas, enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (AgInt no REsp n. 2.103.088/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 2/5/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
