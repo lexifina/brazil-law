@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por CRISTIANE APARECIDA PINHEIRO, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500358-16.2023.8.26.0605).
+Consta dos autos que a recorrente foi condenada, em primeiro grau, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 263):
+Apelação Criminal - Tráfico de Entorpecentes Coação moral e irresistível Não configurada - Absolvição Impossibilidade Afastamento da causa de aumento de pena do art. 40, inc. III, da Lei de Drogas, aplicação do redutor previsto no art. 33, § 4º, da Lei nº 11.343/06 e substituição da corporal por restritiva de direitos Inviabilidade - Regime inicial fechado Adequado Apelo improvido.
+Neste recurso especial, a recorrente alega violação aos arts. 155 do Código de Processo Penal e 33, § 4º, da Lei n. 11.343/2006, ao argumento de que a condenação pelo delito de tráfico de drogas não foi fundamentada nas provas produzidas em contraditório.
+Aponta a ocorrência de coação moral irresistível.
+Afirma ainda que a causa de diminuição da pena prevista no § 4º do art. 33 da Lei n. 11.343/2006 foi afastada sem motivação.
+Requer, ao final, a sua absolvição. Subsidiariamente, pede o redimensionamento da reprimenda, bem como o abrandamento do regime inicial e a substituição da pena privativa de liberdade por restritiva de direitos.
+O recurso especial foi parcialmente admitido (e-STJ fls. 312/313).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso especial (e-STJ fls. 303/309).
+É o relatório.
+Decido.
+O Tribunal de origem, ao manter a condenação da recorrente, consignou que (e-STJ fls. 264/266):
+O recurso não merece prosperar, devendo a r. sentença ora guerreada ser mantida por seus próprios e jurídicos fundamentos.
+Com efeito, o douto magistrado de primeiro grau, Dr. Paulo Victor Alvares Gonçalves, esgota a matéria dispensando qualquer adminículo, pelo que é a r. sentença ratificada em todos os seus termos e fundamentos, como autoriza o art. 252, do Regimento Interno deste Egrégio Tribunal de Justiça ao dispor que "Nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la".
+Realmente, tanto a materialidade (fls. 02/03, 18, 22/24 e 93/95) quanto a autoria restaram devidamente comprovadas, tendo esta sido amparada na confissão da apelante, bem como, nos depoimentos das agentes de segurança penitenciária Vanina Souza Moreno e Ana Maria Menegheto de Oliveira, as quais confirmaram que a ré trazia consigo, dentro da vagina, os entorpecentes descritos na denúncia.
+Como bem ressaltado no r. parecer da D. Procuradoria de Justiça, "a narrativa de coação moral irresistível não convence: i. a recorrente saiu da hospedagem para encontrar uma pessoa que sequer conhecia em local que também não sabia onde era e sequer avisou suas conhecidas da hospedagem, como a testemunha Francieli, somente contando sobre a ocorrência após já ter sido flagrada com as drogas; ii. a apelante afirmou que, se tivesse conseguido entrar com a droga, primeiro retiraria o entorpecente e, somente depois, procuraria ajuda, postura contraditória de quem está sendo obrigada a agir contra sua vontade" (fls. 255).
+Outrossim, a apelante deixou de fazer qualquer prova de que tenha agido em face de ter sofrido coação moral irresistível.
+Como se sabe, referida excludente de ilicitude deve ser absolutamente comprovada, não bastando, para seu acolhimento, a simples alegação da ré.
+Se realmente estivesse sofrendo qualquer coação ou ameaça para introduzir a droga no presídio deveria ter levado tal fato ao conhecimento da Polícia ou à direção do estabelecimento e não ter concordado em colocar droga na vagina para ingressar na cadeia.
+Vê-se, portanto, que a quantidade de droga apreendida (135,94 g de maconha fls. 23/24), aliada às demais circunstâncias, dão a certeza da prática do delito tipificado no art. 33, caput, da Lei nº 11.343/06, tornando impossível o pleito absolutório.
+Conforme se observa, a condenação da ré foi mantida com fundamento na prova testemunhal e na confissão da recorrente. O Tribunal a quo destacou, ainda, que não teria sido demonstrada a coação moral irresistível, destacando que "i. a recorrente saiu da hospedagem para encontrar uma pessoa que sequer conhecia em local que também não sabia onde era e sequer avisou suas conhecidas da hospedagem, como a testemunha Francieli, somente contando sobre a ocorrência após já ter sido flagrada com as drogas; ii. a apelante afirmou que, se tivesse conseguido entrar com a droga, primeiro retiraria o entorpecente e, somente depois, procuraria ajuda, postura contraditória de quem está sendo obrigada a agir contra sua vontade".
+Dessa maneira, entendo que a condenação foi devidamente fundamentada, de modo que a alteração da conclusão das instâncias de origem demandaria incursão em elementos de fatos e prova, o que é vedado em recurso especial, nos termos do enunciado sumular n. 7 desta Corte Superior.
+Destaco que as alegações referentes à violação ao art. 155 do Código de Processo Penal não foram analisadas, o que evidencia a falta de prequestionamento da tese.
+Por fim, no concernente aos pedidos relacionados à dosimetria da pena, verifico que não é possível a aplicação da causa de diminuição especial do art. 33, § 4º, da Lei de Drogas, pelo não preenchimento dos requisitos legais, diante da reincidência da recorrente.
+E da mesma maneira, o regime inicial fechado deve ser mantido, diante da manutenção da reprimenda em patamar superior a 4 anos de reclusão e da reincidência da ré.
+Ante o exposto, conheço em parte do recurso e nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
