@@ -1,0 +1,22 @@
+DECISÃO
+FRANCISCO JOSÉ DOMINGOS DA SILVA alega sofrer coação ilegal em decorrência de decisão do Desembargador relator do writ originário que sequer analisou o pedido liminar.
+Nesta Corte, a defesa postula a concessão de liberdade provisória ao réu, pelos seguintes argumentos: a) ilegalidade da prisão preventiva, pois convertida de ofício em audiência de custódia para análise da prisão em flagrante pelo juiz, apesar da manifestação do Ministério Público pela liberdade provisória do paciente; b) ausência de fundamentação idônea para justificar a conversão da prisão em flagrante, pela suposta prática dos delitos previstos nos arts. 306 do Código de Trânsito Brasileiro e 163 do CP, em custódia preventiva.
+Decido.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do pacie nte.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Contudo, no caso dos autos, o relator do writ originário não analisou o pedido liminar, a evidenciar a possibilidade de superação da Súmula n. 691 do STF. Portanto, não tendo a Corte local analisado a tese defensiva, evidencia-se a impossibilidade de conhecer-se da impetração, sob pena de vedada supressão de instância.
+II. Concessão da ordem de ofício - impossibilidade - ausência de manifesta ilegalidade
+Na hipótese, são idôneos os motivos exarados para justificar a custódia preventiva, visto que o Juiz de Direito salientou que "o custodiado é reincidente específico, visto pesar sobre ele uma execução penal 8000006-34.2024.8.06.0179 por crime do art. 306 do CTB", devendo "ser aplicado o art. 313, II, do CPP", pois, "mesmo condenado o custodiado dirigiu novamente veículo automotor sob a influência de álcool, causando danos a terceiros, além de "o acusado responde r  ainda a outra ação penal (0010686-71.2021.8.06.0293) na qual é acusado de dirigir embriagado, causar lesão em terceiros, e se evadir do local sem prestar socorro à vítima" (fls. 119-123).
+Nesse sentido, a jurisprudência desta Corte Superior é firme ao asseverar que "a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar" (RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/4/2019).
+Quanto à suscitada ilegalidade na conversão do flagrante em custódia preventiva, por não respeitar a manifestação ministerial pela concessão de liberdade provisória, observo que o acórdão combatido, ao destacar a possibilidade de adequação, pelo Magistrado singular, da medida aplicável à hipótese, está em consonância com a jurisprudência desta Corte Superior:
+ ..
+4. Não houve atuação de ofício da Magistrada, em vista da representação da autoridade policial pela imposição de medidas cautelares. O que houve foi o exercício legítimo da discricionariedade do juiz em decidir qual (ou quais) das medidas previstas em lei será a mais adequada e suficiente para prover a situação concreta.
+5. As medidas impostas foram justificadas na natureza do crime de extorsão e dos relatos da vítima quanto à prática de difamação, calúnia e ameaças pelo investigado. A fundamentação é idônea.
+6. Recurso ordinário não provido.
+(RHC n. 112.356/MG, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe de 12/9/2019)
+III. Dispositivo
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se e intimem-se.
+EMENTA
