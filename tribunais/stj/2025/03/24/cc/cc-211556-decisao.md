@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA DE FREI PAULO - SP suscita conflito de competência, em inquérito policial, diante do JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE BIRIGUÍ - SP.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção e medidas judiciais que se façam necessárias em investigação deflagrada pela suposta prática de crime de duplicata simulada.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara Criminal de Birigui - SP, ora suscitado (fls. 124-130).
+Decido.
+Conforme destacado pelo Ministério Público Federal, "o principal estabelecimento do Grupo  ..  não está na cidade de Frei Paulo/SE e, sim, na Comarca de Birigui, no interior do Estado de São Paulo, onde o grupo mantém o seu centro de gestão e tomada de decisões, sendo que os sócios e controladores do grupo estão domiciliados em terras pauli stas" (fl. 128).
+Em casos similares, nos quais havia uma pluralidade de pessoas, esta Corte firmou a compreensão de que a "competência fosse regulada pelo domicílio ou residência fiscal dos depositantes e não pelo lugar onde efetivamente fora repassado indevidamente o numerário depositado, para facilitar a colheita de provas e evitar a realização de atos processuais via carta precatória; tudo, em homenagem ao princípio da celeridade processual (CC n. 87.775/MG, relator Ministro Napoleão Nunes Maia filho, DJ 01/02/2008, destaquei).
+No caso, portanto, até o presente momento da fase investigativa e salvo se não surgir fatos novos relevantes que imponha a alteração de competência, estou de acordo com o Ministério Público Federal, quando pontuou que "diante das peculiaridades do caso concreto, deve prevalecer, em homenagem ao princípio da duração razoável do processo e da economicidade processual, a competência em razão do domicílio da empresa e das pessoas físicas investigadas" (fl. 129).
+Portanto, "tendo em vista que, conforme consta às fls. 4/55, a maioria dos investigados possui domicílio em Birigui - SP, as investigações devem ser processadas nesse local" (fl. 130), motivo pelo qual, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de Birigui - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
