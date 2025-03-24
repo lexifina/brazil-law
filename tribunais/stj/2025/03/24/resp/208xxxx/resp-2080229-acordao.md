@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. SEGURO DE SAÚDE. NOVA CONTRATAÇÃO. MAJORAÇÃO. ABUSIVIDADE. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO . SÚMULA 284/STF. ARTS. 926 E 927 DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. RAZÕES DISSOCIADAS.
+1. Não se conhece da alegação de violação do art. 1.022 do CPC, quando não foram opostos embargos de declaração contra o acórdão recorrido. Incide, portanto, o óbice da Súmula 284/STF, em razão da deficiência da fundamentação do recurso.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n. 282 e 356 do STF.
+3. "Os arts. 926 e 927 do CPC/2015 não dão suporte à pretensão recursal de analisar a suficiência dos fundamentos da origem quanto à alteração de sua jurisprudência. Incidência da Súmula 284/STF." (AgInt no REsp n. 1.831.522/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+Recurso especial não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por BRADESCO SAUDE S.A., com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos termos da seguinte ementa (fl. 262):
+AÇÃO DE OBRIGAÇÃO DE FAZER. Seguro saúde. Nova contratação. Majoração de valores. Aposentado. Sentença de improcedência.
+Apela o autor, alegando ser abusiva a alteração do custeio do prêmio mensal do seguro do beneficiário, com 62 anos de idade, a fim de incluir o aumento por faixa etária, ensejando reajuste em torno de 257% do valor mensal; ajuste repentino injustificado, ante a ausência de informações, comprovação da sinistralidade e cálculos atuarias que comprovassem sua necessidade. Em acórdão prolatado por esta Câmara, desta Relatoria, foi provido o recurso do autor. Interposto Recurso Especial. Presidência de Direito Privado determinou o retorno dos autos para reapreciação da questão do reajuste por faixa etária, conforme Tema 1016 do STJ.
+Cabimento.
+Em que pese o escalonamento por faixa etária não seja ilegal, não houve qualquer demonstração da ré da necessidade de estipulação de nova proposta, a justificar os aumentos, nem tampouco do alegado aumento da sinistralidade. Aumento ora impugnado não se encontra de acordo com o que foi decidido no STJ (possível o aumento por faixa etária desde que não sejam aplicados percentuais desarrazoados ou aleatórios e que onerem excessivamente o consumidor ou discriminem o idoso)  Temas 1016 e 952. Aumento de 250%. Autor com 67 anos de idade. Critério não pode ser implementado. De rigor a manutenção do autor e dependente no seguro saúde, da mesma forma que usufruía antes da nova sistemática proposta, de conformidade com o art. 31 da Lei nº 9.656/98, com o valor praticado conforme indicado pelo autor, permitido o reajuste de acordo com a ANS.
+Recurso provido.
+Sem embargos de declaração.
+No presente recurso especial, o recorrente alega, preliminarmente, ofensa ao art. 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, ainda, que o acórdão recorrido contrariou as disposições contidas nos arts. 926 e 927, III, do CPC.
+Sustenta, outrossim, que "o v. acórdão recorrido não pode persistir, uma vez que vai de encontro à jurisprudência firmada pelo e. Superior Tribunal de Justiça nos recursos especiais de nºs 1.818.487/SP, 1.816.482/SP e 1.829.862/SP, afetados como representativos da controvérsia e julgados como repetitivos, em que se estabeleceu, com todas as letras, que cabe ao ex-empregado inativo o custeio integral da mensalidade, respeitada a paridade entre ativos e inativos" (fl. 277).
+Apresentadas as contrarrazões (fls. 301-311), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 312-313).
+É, no essencial, o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. SEGURO DE SAÚDE. NOVA CONTRATAÇÃO. MAJORAÇÃO. ABUSIVIDADE. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO . SÚMULA 284/STF. ARTS. 926 E 927 DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. RAZÕES DISSOCIADAS.
+1. Não se conhece da alegação de violação do art. 1.022 do CPC, quando não foram opostos embargos de declaração contra o acórdão recorrido. Incide, portanto, o óbice da Súmula 284/STF, em razão da deficiência da fundamentação do recurso.
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n. 282 e 356 do STF.
+3. "Os arts. 926 e 927 do CPC/2015 não dão suporte à pretensão recursal de analisar a suficiência dos fundamentos da origem quanto à alteração de sua jurisprudência. Incidência da Súmula 284/STF." (AgInt no REsp n. 1.831.522/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+Recurso especial não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação não prospera.
+De início, não comporta conhecimento a alegada violação do art. 1.022 do CPC, visto que embasada na alegação de vícios no julgado que não foram sanados no julgamento dos embargos de declaração, sendo que não houve o manejo do referido recurso de declaratórios na origem, a revelar que as razões do especial estão dissociadas das circunstâncias fáticas dos autos e atrai ao ponto a incidência da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido, cito:
+3. No mais, em relação à ofensa aos arts. 11 e 489, § 1º, IV, do CPC/2015, em decorrência da suposta ausência de enfrentamento de argumentos deduzidos no processo, verifica-se que a parte recorrente não opôs embargos de declaração na origem a fim de provocar a Corte de origem a se manifestar sobre eventuais omissões no julgado. Nesse contexto, considerando que não houve a necessária oposição de embargos de declaração sobre o tema, o exame da nulidade do julgado encontra-se inviabilizado em razão do óbice contido na Súmula 284/STF. (AgInt no AREsp n. 1.455.291/CE, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, DJe de 2/6/2022.)
+II - Inviável a apreciação de alegação de violação aos arts. 489 e 1.022 do CPC/2015, uma vez que não foram opostos embargos de declaração em face do acórdão recorrido, circunstância que atrai a incidência da Súmula 284/STF, porquanto deficiente a fundamentação do recurso. (AgInt nos EDcl no REsp n. 1.967.752/ES, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 12/5/2022.)
+1. Os embargos de declaração representam o meio adequado a sanar obscuridade, omissão ou contradição porventura existentes na decisão agravada. Não opostos os competentes embargos, a análise da pretensão de nulidade da decisão encontra o óbice contido na Súmula 284 do STF. (AgInt no AREsp n. 1.175.224/MT, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Por outro lado, verifica-se que a Corte de origem não analisou, sequer implicitamente, os arts. 926 e 927 do CPC. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Incide, no caso, o enunciado das Súmulas n. 282 e 356 do excelso Supremo Tribunal Federal.
+Súmula 282: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida a questão federal suscitada".
+Súmula 356: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido, cito:
+2. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas n.ºs 282 e 356 do STF. (AgInt no AREsp n. 2.137.709/GO, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 7/12/2022.)
+1. Não enfrentada no julgado impugnado a tese apontada no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice das Súmulas 282 e 356 do STF. (AgInt no REsp n. 1.955.601/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+Com efeito, se o recorrente entendesse existir alguma eiva no acórdão impugnado, ainda que a questão federal tenha surgido somente no julgamento perante o Tribunal a quo, deveria ter oposto embargos declaratórios, a fim de que fosse suprida a exigência do prequestionamento e viabilizado o conhecimento do recurso em relação aos referidos dispositivos legais, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido, confiram-se julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATU ITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MATÉRIAS NÃO IMPUGNADAS. PRECLUSÃO. ART. 927, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSTOS EMBARGOS DE DECLARAÇÃO. SÚMULAS N. 282 E 356 DO STF. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+3. "A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - (..) acarreta a preclusão da matéria não impugnada (..)" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+4. Ausente o enfrentamento da matéria pelo acórdão recorrido e não opostos embargos de declaração com vistas a sanar o vício, inviável o conhecimento da matéria, por falta de prequestionamento.
+Incidência das Súmulas n. 282 e 356 do STF.
+(..)
+(AgInt no AREsp n. 2.428.950/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/12/2023, DJe de 18/12/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA PARTE EMBARGANTE.
+1. Consoante a jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica aos casos em que o produto ou serviço é contratado para a implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo, nos termos da teoria finalista ou subjetiva. Precedentes.
+1.1 A revisão das conclusões do Tribunal de origem, no sentido de que o financiamento obtido foi utilizado para o fomento da economia da empresa recorrente, não se enquadrando como consumidora para efeito da incidência do diploma consumerista, demandaria o reexame da matéria fático-probatória dos autos, providência vedada ante o óbice da Súmula 7/STJ.
+2. "A jurisprudência desta Corte orienta, há muito, que a transação pode ser celebrada sem a assistência de advogado" (AgInt no AREsp 1730181/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJ 17/06/2021). Precedentes.
+3. Em relação aos artigos 515 e 1013 do CPC/15, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tais dispositivos não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.939.214/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/2/2022, DJe de 9/3/2022.)
+Ademais, esta Corte já decidiu que "Os arts. 926 e 927 do CPC/2015 não dão suporte à pretensão recursal de analisar a suficiência dos fundamentos da origem quanto à alteração de sua jurisprudência. Incidência da Súmula 284/STF". (AgInt no REsp n. 1.831.522/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20%.
+É como penso. É como voto.
