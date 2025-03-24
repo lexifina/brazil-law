@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. ART. 1.021, §1º, DO CPC/15. MULTA DO ART. 1.021, §4º, DO CPC/15.
+1. É inadmissível o agravo que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa.
+RELATÓRIO
+Examina-se agravo interno interposto por JOSE CARLOS STEPHENS contra decisão unipessoal, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial que interpusera.
+Ação: indenizatória, ajuizada pelo agravante, em face de TRANSPORTADORA BRASIL CENTRAL LTDA, em razão do não fornecimento antecipado do vale pedágio em contrato de transporte para realização de frete.
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. INDENIZAÇÃO DO ART. 8º DA LEI 10.209/2001. REALIZAÇÃO DE FRETE. VALE-PEDÁGIO. SENTENÇA DE IMPROCEDÊNCIA. ÔNUS DA PROVA DO AUTOR DE EXCLUSIVIDADE DO TRANSPORTE, ESPECIFICAÇÃO DAS PRAÇAS DE PEDÁGIO E RESPECTIVOS VALORES PAGOS DURANTE O TRANSPORTE. TRAJETO NÃO COMPROVADO. POSSIBILIDADE DE TRAJETO SEM PEDÁGIOS. PRECEDENTES DO STJ. PROVA NÃO APRESENTADA. INDENIZAÇÃO DESCABIDA. MAJORADOS OS HONORÁRIOS.
+1. Segundo precedente do Superior Tribunal de Justiça a respeito do tema, em observância ao disposto no art. 373, incisos I e II, do CPC, é ônus do transportador comprovar a exclusividade do transporte, o valor devido em todas as praças de pedágio existentes na rota de viagem contratada, bem como o respectivo pagamento. Realizada tal comprovação, caberá ao embarcador demonstrar ter adiantado o vale- pedágio. Assim, no caso, não tendo sido feitas essas provas pelo autor, cujo ônus lhe incumbia, nos termos do artigo 373, I, do CPC, deve ser mantida a sentença apelada que julgou improcedente o pedido inicial.
+2. Majoram-se os honorários advocatícios de sucumbência, diante do desprovimento do apelo, cuja cobrança deverá ficar suspensa, por ser o recorrente beneficiário da justiça gratuita (artigo 98, § 3º, do CPC).
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Recurso especial: alega violação dos arts. 1º, 2º, parágrafo único, 3º, §2º, e 8º, da Lei 10.209/01, 374, II, e 389 do CPC e da Lei 14.229/21, bem como dissídio jurisprudencial. Sustenta que: i) o valor do pedágio não integra o valor do frete para nenhum efeito legal e deve ser antecipado ao frete em modelo próprio e à parte do frete e não ressarcido ao final; ii) não se pode exigir prova de despesas de quem dessas despesas não busca ser ressarcido; iii) o agravado confessou ter ciência da existência de pedágios desde o momento da contratação do frete e de sua obrigação legal de antecipar o vale pedágio em modelo próprio e à parte do frete.
+Decisão monocrática: não conheceu do agravo em recurso especial interposto pelo agravante.
+Agravo interno: em suas razões, o agravante limita-se a reiterar argumentos vinculados ao mérito do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. ART. 1.021, §1º, DO CPC/15. MULTA DO ART. 1.021, §4º, DO CPC/15.
+1. É inadmissível o agravo que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno no agravo em recurso especial não conhecido, com aplicação de multa.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial do agravante, nos termos da seguinte fundamentação:
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 5/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30.11.2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada. Isso porque, nas razões do presente agravo, não impugna, consistentemente, os fundamentos da decisão ora agravada relativos a não impugnação da decisão que inadmitiu o seu recurso especial (aplicação do art. 1.021, §1º, do CPC/15).
+De fato, não demonstra que os fundamentos das Súmulas 5 e 7/STJ foram devidamente rebatidos no agravo em recurso especial, limitando-se a reiterar argumentos vinculados ao mérito recursal. Não indica em que parte das razões do agravo em recurso especial o rebatimento dos referidos óbices foi efetivamente realizado.
+Assim, nos termos do art. 1.021, §1º, do CPC/15, e consoante recente entendimento desta Corte (EREsp 1.424.404/SP, Corte Especial, DJe de 17/11/2021), não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, bem como não rebate um dos fundamentos sobrepostos no mesmo capítulo (se houver na decisão agravada capítulo autônomo impugnado parcialmente).
+DISPOSITIVO
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial.
+Ainda, tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 5 % sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
