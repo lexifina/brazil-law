@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PROMESSA DE COMPRA E VENDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REVISÃO CONTRATUAL E INADEQUAÇÃO DA TAXA DE JUROS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS E DESPESAS ADMINISTRATIVAS. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. TAXA DE FRUIÇÃO. SÚMULA 568/STJ.
+1. Ação rescisória relacionada a promessa de compra e venda de terreno.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial e na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 282/STF).
+4. A existência de fundamento não impugnado - quando suficiente para a manutenção das conclusões do acórdão recorrido - impede a apreciação do recurso especial (súm. 283/STF).
+5. Alterar o decidido no acórdão impugnado, sobretudo no que se refere à incidência de honorários contratuais e despesas administrativas, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais (Súm. 5 e Súm. 7/STJ).
+6. O acórdão recorrido se encontra em consonância com a orientação firmada por esta Corte Superior no que diz respeito à taxa de fruição de imóvel não edificado (súm. 568/STJ).
+7. Agravo interno não provido.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por MMJD PARTICIPAÇÕES LTDA contra decisão monocrática que conheceu parcialmente do recurso especial e negou-lhe provimento.
+Agravo interno interposto em: 16/10/2024.
+Concluso ao gabinete em: 6/12/2024.
+Ação: rescisória ajuizada por FELIPE DIAS TURCATO em face do recorrente, alegando a desistência da promessa de compra e venda de terreno. Pede a declaração da rescisão, o afastamento da cláusula de taxa de ocupação e a devolução dos valores pagos (e-STJ fls. 3-14).
+Sentença: julgou parcialmente procedentes os pedidos iniciais para "a) extinguir o ajuste de compra e venda firmado entre as partes e b) condenar à ré na devolução dos valores pagos pelo autor, abatida a cláusula penal de 10%" (e-STJ fls. 109-113).
+Acórdão: deu parcial provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DE RESCISÃO DE CONTRATO. RESCISÃO UNILATERAL PELA PARTE PROMITENTE COMPRADORA. CLÁUSULA DE RETENÇÃO. 1. PROCESSUAL CIVIL. SENTENÇA ULTRA PETITA. OCORRÊNCIA. ANTE OS LIMITES OBJETIVOS DA LIDE, A SENTENÇA DEVE SER PROFERIDA NOS PARÂMETROS CONTIDOS NA PETIÇÃO INICIAL. CASO DECIDA PEDIDO E/OU CAUSA DE PEDIR DISTINTOS DAQUELES VEICULADOS PELA PARTE AUTORA NA PETIÇÃO INICIAL, OU CONCEDA PROVIMENTO JURISDICIONAL SOBRE BASE NA QUAL NÃO SE ASSENTA O PEDIDO, HAVERÁ OFENSA AO PRINCÍPIO DA CONGRUÊNCIA, INSCULPIDO NO ART. 492 DO CÓDIGO DE PROCESSO CIVIL. CASO EM QUE NÃO RESTOU OBSERVADA A DELIMITAÇÃO, NA INICIAL, DO PERCENTUAL DA CLÁUSULA DE RETENÇÃO. EXCESSO EXPURGADO. 2. RESCISÃO DO CONTRATO. CULPA EXCLUSIVA DA PARTE PROMITENTE COMPRADORA. ESTIPULAÇÃO DE CLÁUSULA PENAL - QUE É A PRÉ-DETERMINAÇÃO DAS PERDAS E DANOS - EM 20% DO TOTAL PAGO. PERCENTUAL QUE JÁ SE MOSTRA PROPORCIONAL E RAZOÁVEL, MOSTRANDO-SE SUFICIENTE PARA COBRIR AS DESPESAS MÍNIMAS ADVINDAS DO ROMPIMENTO DO CONTRATO POR CULPA DA PARTE ADQUIRENTE. 3. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. SITUAÇÃO QUE SE AMOLDA À HIPÓTESE APRECIADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RECURSO ESPECIAL Nº. 1.740.911/DF, SOB O RITO DOS RECURSOS REPETITIVOS, NO TEMA Nº 1.002. DERAM PARCIAL PROVIMENTO. UNÂNIME (e-STJ fls. 222-226).
+Embargos de declaração: opostos pelo recorrente, foram rejeitados (e-STJ fls. 261-263).
+Recurso especial: alega violação (i) aos arts. 1.022 e 489, do CPC, por negativa de prestação jurisdicional; (ii) aos arts. 421, parágrafo único, e 421-A, do CC, por impossibilidade de revisão das cláusulas contratuais; (iii) aos arts. 32-A, I e IV, da Lei n. 6.766/79; art. 67-A da Lei nº 4.591/1964, arts. 402, 409, 411, 475, 884, 944, 1.196 e 1.204, do CC, e art. 1.022, I e II, do CPC, por afastamento, pelo tribunal de origem, de honorários advocatícios, despesas administrativas e taxa de fruição; e (iv) ao art. 406, CC, por aplicação de juros de mora de 1% e correção monetária, ao invés de taxa SELIC.
+Decisão monocrática: (i) afastou a negativa de prestação jurisdicional; (ii) inadmitiu o recurso quanto à revisão contratual e aplicação da Taxa SELIC, em razão da ausência de prequestionamento; (iii) apontou ser impossível revisar as conclusões do TJ/RS, no sentido de que os valores retidos seriam suficientes a remunerar honorários e despesas, em razão da aplicação da Súmula 283/STF e das Súmulas 7 e 5/STJ; e (iv) fixou que a decisão do tribunal de origem, quanto à taxa de ocupação de lote não edificado, está de acordo com a jurisprudência desta Corte Superior (e-STJ fls. 408-413).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PROMESSA DE COMPRA E VENDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. REVISÃO CONTRATUAL E INADEQUAÇÃO DA TAXA DE JUROS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS E DESPESAS ADMINISTRATIVAS. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. TAXA DE FRUIÇÃO. SÚMULA 568/STJ.
+1. Ação rescisória relacionada a promessa de compra e venda de terreno.
+2. Não há ofensa aos arts. 489 e 1.022 do CPC quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial e na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial (súm. 282/STF).
+4. A existência de fundamento não impugnado - quando suficiente para a manutenção das conclusões do acórdão recorrido - impede a apreciação do recurso especial (súm. 283/STF).
+5. Alterar o decidido no acórdão impugnado, sobretudo no que se refere à incidência de honorários contratuais e despesas administrativas, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais (Súm. 5 e Súm. 7/STJ).
+6. O acórdão recorrido se encontra em consonância com a orientação firmada por esta Corte Superior no que diz respeito à taxa de fruição de imóvel não edificado (súm. 568/STJ).
+7. Agravo interno não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+- Da violação do arts. 489 e 1.022, II, do CPC
+1. Consoante entendimento desta Corte Superior, há ofensa ao artigo 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda.
+2. Nesse sentido, os seguintes julgados: REsp n. 1.782.258/SP, Terceira Turma, DJe de 14/12/2022; REsp n. 1.928.874/SP, Terceira Turma, DJe de 11/11/2022; AgInt no REsp n. 1.823.417/RS, Quarta Turma, DJe de 6/3/2023; e REsp n. 2.005.719/RJ, Quarta Turma, DJe de 2/3/2023.
+3. A decisão agravada concluiu que a Corte a quo se manifestou suficientemente acerca "da possibilidade da Promitente Vendedora reter valores a título de fruição no caso de rescisão contratual por culpa do promitente comprador", que a agravante alega omissa (e-STJ fl. 420).
+4. Com efeito, em observância ao acórdão do TJ/RS, lê-se expressamente que "porque ausente fruição do imóvel, já que a parte autora sequer chegou a imitir -se na posse do terreno, o qual permanece vazio, não há margem à incidência da taxa de fruição" (e-STJ fl. 225).
+5.Não há qualquer reparo a ser feito na decisão agravada, pois, de fato, o colegiado estadual analisou essa questão.
+- Do prequestionamento em relação aos arts. 406, 421 e 421-A do Código Civil
+6. A decisão monocrática agravada dispôs que "o TJ/RS não decidiu, sequer implicitamente, acerca dos arts. 406, 421 e 421-A do Código Civil, indicados como violados, tampouco se manifestou sobre os argumentos deduzidos nas razões recursais acerca dos referidos dispositivos legais (revisão contratual e aplicação da Taxa SELIC)".
+7. Em agravo interno, alega a MMJD que "a questão da taxa SELIC na atualização dos valores é matéria de ordem pública" (e-STJ fl. 421) e que "a jurisprudência desta Corte Superior consagra a tese do prequestionamento implícito" (e-STJ fl. 422).
+8. Contudo, a jurisprudência deste STJ é firme no sentido de que "ainda que se trate de matéria de ordem pública, é exigido o prequestionamento da tese aventada em sede de recurso especial ou contrarrazões ao recurso especial, sendo vedado o julgamento, por esta Corte, de temas que constituam inovação recursal, sob risco de supressão de instância e de ofensa aos princípios do duplo grau de jurisdição e do devido processo legal" (AgInt nos EDcl no AREsp n. 2.430.680/SP, Terceira Turma, DJe de 25/10/2024).
+9. Anote-se que os embargos de declaração opostos em face do acórdão de apelação não alegam omissão em relação ao argumento revisional.
+10. Portanto, de fato, a matéria não foi prequestionada.
+- Dos honorários e das despesas administrativas
+11. Alega a agravante que todas as retenções que pretende estão previstas contratualmente, além de serem embasadas em legislação e entendimento jurisprudencial atual.
+12. Contudo, como apontou a decisão agravada, além de inexistir impugnação específica ao fundamento de que o percentual de 20% seria suficiente para cobrir os valores em questão (Súmula 282/STF), alterar o decidido no acórdão impugnado, no que se refere à incidência de honorários contratuais e despesas administrativas, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.
+13. Nesse sentido, seria obrigatório a esta Corte ler e interpretar as cláusulas contratuais para verificar a legalidade das retenções; mais do que isso, seria necessário calcular os honorários e as taxas administrativas, para verificar se realmente ultrapassam o percentual de 20%.
+14. Portanto, nenhum reparo a se fazer na decisão monocrática.
+- Da taxa de fruição (Súmula 568/STJ)
+15. Alega a agravante que, ao contrário do disposta na decisão agravada, "Este STJ tem entendido de forma favorável a fixação do percentual de 25% à título de cláusula penal, e que plenamente possível a sua cumulação com a incidência da taxa de fruição por todo período que o adquirente esteve na posse do bem, por se tratarem de tratos geradores distintos" (e-STJ fl. 431). Cita o julgamento do REsp 2.024.829/SC, por esta Terceira Turma (DJe de 10/3/2023).
+14. O julgado em questão, todavia, aplica-se para a hipótese de imóvel edificado. Por isso, fixa a tese de que "a indenização pelo tempo de utilização do imóvel tem natureza jurídica de aluguéis", determinando compensação "pelo tempo em que a recorrida residiu no imóvel".
+15. Para situações de venda de lote não edificado, o entendimento do STJ é no sentido de ser indevida taxa de ocupação após desfazimento de promessa de compra, haja vista que a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor. Nesse sentido: AgInt no AREsp 1.942.925/PR, Terceira Turma, DJe de 30/6/2023; AgInt no R Esp 2.060.756/SP, Terceira Turma, DJe de 9/6/2023; AgInt no REsp 2.034.710/SP, Quarta Turma, DJe de 26/4/2023 e AgInt no AREsp 2.044.026/RS, Quarta Turma, DJe de 26/8/2022.
+16. Nenhum reparo a fazer, portanto, quanto à aplicação da Súmula 586/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
