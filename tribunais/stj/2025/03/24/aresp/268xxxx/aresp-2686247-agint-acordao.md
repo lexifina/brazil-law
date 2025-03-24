@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  IRREGULARIDADE  DE  REPRESENTAÇÃO.  INEXISTÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.
+1.  Para  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  inexiste  irregularidade  de  representação  a  ensejar  a  nulidade  do  processo,  seria  necessário  o  revolvimento  de  circunstâncias  fático-probatórias  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+2.  Consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  de  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+  Trata-se  de  agravo  interno  interposto  por  MARISTELA  KORBES  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ  (e-STJ  fls.  1.055/1.056).
+Nas  presentes  razões,  a  agravante  aduz  que
+"(..)  não  se  faz  necessário  revolver  o  conjunto  fático  probatório  além  do  que  o  acórdão  já  contem  por  suas  próprias  palavras.  A  questão  é  que  a  valoração  jurídico  legal  e  os  fundamentos  legais  adotados  pelo  acórdão  recorrido  no  REsp,  não  guardam  relação  com  os  fatos.
+(..)"  (e-STJ  fl.  1.093).
+Impugnação  às  e-STJ  fls.  1.104/1.106.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  IRREGULARIDADE  DE  REPRESENTAÇÃO.  INEXISTÊNCIA.  REVISÃO.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  ANÁLISE  PREJUDICADA.
+1.  Para  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  inexiste  irregularidade  de  representação  a  ensejar  a  nulidade  do  processo,  seria  necessário  o  revolvimento  de  circunstâncias  fático-probatórias  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+2.  Consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  de  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+3.  Agravo  interno  não  provido.
+VOTO
+O  agravo  interno  não  merece  prosperar.
+No  caso,  não  há  como  afastar  o  óbice  da  Súmula  nº  7/STJ  para  se  analisar  a  alegada  divergência  jurisprudencial  e  a  violação  dos  artigos  7º,  8º,  9º,  10,  103,  104  §  2º  e  833,  IV  do  Código  de  Processo  Civil  e  50  do  Código  Civil.
+De  fato,  a  partir  dos  fatos  e  das  provas  dos  autos,  o  tribunal  de  origem  decidiu  que  inexiste  irregularidade  de  representação  a  ensejar  a  nulidade  do  processo.
+É  o  que  se  colhe  nos  seguintes  trechos  do  acórdão  recorrido:
+"(..)
+Isso  porque,  a  renúncia  não  foi  levada  a  termo,  pois  os  patronos  seguiram  apresentando  manifestações  nos  autos.  Tais  manifestações  denotam  verdadeira  revogação  tácita  do  pedido  de  renúncia  dos  poderes  outorgados  pela  parte,  o  que  impede  o  reconhecimento  de  nulidade.
+Importante  se  observar  que  não  se  tratou  de  revogação  dos  poderes  pela  parte  que  os  outorgou,  o  que  muitas  das  vezes  ocorre  devido  à  quebra  de  confiança,  mas  de  renúncia  por  parte  dos  patronos  aos  poderes  que  lhes  foram  outorgados,  que  geralmente  é  ocasionada  por  desentendimentos  entre  cliente  e  advogado  ou  foro  íntimo  deste  ou  até  mesmo  inadimplência  da  contraprestação  de  serviços  advocatícios.  Hipóteses  estas  passíveis  de  reconsideração.
+Ademais,  depreende-se  da  análise  dos  autos  que  a  agravante  já  exerceu  seu  direito  constitucional  de  defesa  ao  apresentar  manifestação  às  fls.  351/37  e  contraminuta  nos  autos  do  recurso  de  agravo  de  instrumento  nº  2129022-48.2021.8.26.0000,  ainda  que  por  intermédio  de  advogados  renunciantes.  Na  ocasião  não  foi  apontado  nenhum  vício  processual,  tampouco  impugnação  específica.  Tanto  que  o  v.  Acórdão  deu  provimento  ao  recurso  e  o  r.  Despacho  proferido  nos  autos  daquele  recurso  em  27.01.2022  (fls.  338)  não  reconheceu  as  supostas  nulidades  ventiladas,  que  deixaram  de  ser  arguidas  na  primeira  oportunidade  em  que  a  parte  compareceu  aos  autos.
+Com  efeito,  conquanto  cuidando-se  de  questão  de  ordem  pública,  tendo  a  parte  comparecido  aos  autos  e  ofertado  a  proteção  legal  cabível,  competia-lhe  ter  concentrado  todas  as  teses  de  defesa  possíveis  no  momento.  Afinal,  as  matérias  ora  arguidas  eram  do  seu  conhecimento  naquela  oportunidade.  Olvidando  fazê-lo,  deixou  precluir  sua  oportunidade  para  tanto,  impossibilitando  a  retroação  da  marcha  processual  na  hipótese.
+(..)
+Outrossim,  a  agravante  não  demonstra  que  a  defesa  anterior  foi  inócua  ou  que  tenha  lhe  causado  prejuízos,  não  havendo  nulidade  a  ser  declarada,  porquanto,  não  há  nulidade  sem  demonstração  de  prejuízo.
+(..)"  (e-STJ  fls.  865/867).
+Com  efeito,  para  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  de  que  inexiste  irregularidade  de  representação  a  ensejar  a  nulidade  do  processo,  seria  necessário  o  revolvimento  de  circunstâncias  fático-probatórias  dos  autos,  o  que  é  inviável  no  recurso  especial  pela  incidência  da  Súmula  nº  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RECONHECIMENTO  E  DISSOLUÇÃO  CONSENSUAL  DE  UNIÃO  ESTÁVEL  CUMULADA  COM  PARTILHA.  REVOGAÇÃO  DA  PROCURAÇÃO  OUTORGADA  AO  ADVOGADO.  DEMANDA  QUE  DEVERIA  TER  SIDO  SUSPENSA  ATÉ  A  REGULARIZAÇÃO  PROCESSUAL.
+1.  Não  há  violação  dos  arts.  489  e  1.022  do  CPC/2015  quando  o  Tribunal  aprecia  a  controvérsia  de  forma  completa  e  devidamente  fundamentada,  não  incorrendo  em  omissão,  contradição  ou  obscuridade.
+2.  Segundo  a  jurisprudência  do  STJ  "a  ausência  de  representação  processual  devidamente  comprovada  constitui  nulidade  absoluta  que  pode  e  deve  ser  conhecida  de  ofício  pelo  julgador  a  qualquer  tempo,  pois,  além  de  refletir  diretamente  no  direito  de  defesa  do  réu,  a  capacidade  processual  e  a  representação  judicial  das  partes  são  pressupostos  processuais  de  validade  do  processo  (art.  485,  IV,  CPC)  que  devem  ser  examinadas  de  ofício  pelo  juiz,  a  qualquer  tempo  e  em  qualquer  grau  de  jurisdição,  sendo  insuscetíveis  de  preclusão  (art.
+485,  IV,  e  337,  IX  e  §  5º,  CPC)"  (RMS  69.817/SP,  Relator  Ministro  REYNALDO  SOARES  DA  FONSECA,  Quinta  Turma,  julgado  em  14/2/2023,  DJe  de  27/2/2023).
+3.  Na  hipótese,  modificar  o  que  foi  decidido  pela  Corte  de  origem,  no  tocante  à  efetiva  irregularidade  da  representação  processual  (revogação  da  procuração  outorgada  ao  advogado  em  momento  anterior  ao  julgamento  da  demanda,  tendo-se  informado  na  primeira  oportunidade  que  teve  para  falar  nos  autos)  e  à  existência  de  efetivo  prejuízo,  implicaria  o  revolvimento  do  conteúdo  fático-  probatório  dos  autos,  providência  incabível  no  recurso  especial,  ante  o  óbice  previsto  na  Súmula  7  desta  Corte.
+4.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.157.951/SC,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  9/9/2024,  DJe  de  16/9/2024).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  EFEITO  SUSPENSIVO.  REQUISITOS.  REEXAME  DE  PROVAS.  SÚMULA  N.  7/STJ.  JULGAMENTO  DO  MÉRITO.  EXAURIMENTO  DO  OBJETO.  CONFISSÃO  DE  DÍVIDA.  PREENCHIMENTO  DOS  REQUISITOS.  TÍTULO  EXTRAJUDICIAL.  SÚMULA  N.  83/STJ.  REVISÃO.  SÚMULA  N.  7/STJ.  DESNECESSIDADE  DE  CAUÇÃO  NOS  CASOS  DE  EXECUÇÃO  DE  TÍTULO  EXECUTIVO  EXTRAJUDICIAL.  SÚMULA  N.  83/STJ.  REGULARIDADE  DA  REPRESENTAÇÃO  PROCESSUAL.  REEXAME.  ÓBICE  DA  SÚMULA  N.  7/STJ.  LEGITIMIDADE  DA  MATRIZ.  REVISÃO.  SÚMULA  N.  7/STJ.  LIQUIDEZ  DO  TÍTULO.  REVOLVIMENTO  DE  CLÁUSULAS  CONTRATUAIS,  FATOS  E  PROVAS.  ÓBICE  DAS  SÚMULAS  N.  5  E  7/STJ.  FUNDAMENTO  INATACADO.  SÚMULA  N.  283/STJ.  APRESENTAÇÃO  DA  MEMÓRIA  DE  CÁLCULO.  REEXAME.  SÚMULA  N.  7/STJ.  APLICAÇÃO  DO  CÓDIGO  DE  DEFESA  DO  CONSUMIDOR.  TEORIA  FINALISTA.  INSUMO  DE  PRODUÇÃO.  AUSÊNCIA  DE  RELAÇÃO  DE  CONSUMO.  MULTA  DO  ART.  1.021,  §  4º,  DO  NCPC.  ANÁLISE  CASUÍSTICA.  INOCORRÊNCIA,  NA  ESPÉCIE.  AGRAVO  INTERNO  IMPROVIDO.
+(..)
+4.  A  controvérsia  a  respeito  da  irregularidade  da  representação  processual  da  parte  apelada  foi  solvida  sob  premissas  fáticas,  inviáveis  de  reexame  no  recurso  especial.  Dessa  maneira,  como  é  cediço,  aplica-se  a  Súmula  n.  7  do  STJ  à  hipótese.
+(..)
+12.  Agravo  interno  improvido"  (AgInt  no  AREsp  1.611.588/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  24/8/2020,  DJe  de  1º/9/2020).
+Por  fim,  consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  de  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+A  propósito:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL.  AÇÃO  DE  COBRANÇA.  SEGURO  DE  VEÍCULO.  ROUBO.  MÁ-FÉ  NÃO  DEMONSTRADA.  CDC.  ÔNUS  DA  PROVA.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DO  ACÓRDÃO  RECORRIDO.  SÚMULA  283/STF.  REEXAME  DE  CLÁUSULAS  E  PROVA.  IMPOSSIBILIDADE.  SÚMULAS  5  E  7  DO  STJ.  PREJUDICADA  A  ANÁLISE  DO  DISSÍDIO  JURISPRUDENCIAL  POR  INCIDIR  A  SÚMULA  7/STJ.  AGRAVO  IMPROVIDO.
+(..)
+3.  A  análise  do  dissídio  jurisprudencial  fica  prejudicada  em  razão  da  aplicação  do  enunciado  da  Súmula  n.  7/STJ,  porquanto  não  é  possível  encontrar  similitude  fática  entre  o  aresto  combatido  e  os  arestos  paradigmas,  uma  vez  que  as  suas  conclusões  díspares  ocorreram,  não  em  razão  de  entendimentos  diversos  sobre  uma  mesma  questão  legal,  mas,  sim,  em  razão  de  fundamentações  baseadas  em  fatos,  provas  e  circunstâncias  específicas  de  cada  processo.
+(..)
+5.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  802.924/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  15/12/2015,  DJe  3/2/2016).
+"PROCESSO  CIVIL.  AGRAVO  REGIMENTAL.  SERVIDOR  PÚBLICO.  BACEN.  VIOLAÇÃO  DO  ART.  535  DO  CPC.  AUSÊNCIA.  OFENSA  À  COISA  JULGADA.  INCIDÊNCIA  DA  SÚMULA  7/STJ.
+(..)
+5.  A  inadmissibilidade  do  recurso  especial  pelo  óbice  da  Súmula  7/STJ,  bem  como  a  ausência  de  prequestionamento  quanto  ao  momento  da  compensação  prejudica,  in  casu,  a  análise  da  divergência  jurisprudencial,  seja  pela  impossibilidade  de  se  demonstrar  a  similitude  fática  entre  os  arestos  trazidos  a  confronto,  seja  porque  o  prévio  debate  da  matéria  na  instância  ordinária  também  é  requisito  do  apelo  nobre  fundamentado  no  dissídio  pretoriano.
+6.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  REsp  1.224.745/RS,  Rel.  Ministro  OG  FERNANDES,  Segunda  Turma,  julgado  em  26/8/2014,  DJe  8/9/2014).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+  o  voto.
