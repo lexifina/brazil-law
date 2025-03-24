@@ -1,0 +1,44 @@
+DECISÃO
+PAULO CESAR VARGAS MARTINS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no HC n. 5020779-07.2025.8.21.7000.
+O ora paciente teve sua prisão preventiva decretada pela suposta prática de crime de homicídio qualificado tentado.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para justificar a prisão preventiva do réu, visto que ele "confessou ter efetuado a lesão corporal em legítima defesa" (fl. 7).
+Destaca, ainda, a primariedade do acusado, e afirma que os registros mencionados pelo Juízo singular são muito antigos, referentes a fatos ocorridos há mais de 12 anos.
+Além disso, registra inexistir risco de fuga, tanto que o mandado de prisão preventiva foi cumprido no endereço residencial do acusado.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória.
+O caso comporta o julgamento antecipado, visto que se adequa a pacífica orientação desta Corte para casos similares.
+A prisão preventiva do paciente foi decretada pelos seguintes fundamentos (fls. 69-71, grifei):
+Do que se depreende do expediente, a vítima, Alexandre Ely, estava dentro do seu carro, em frente ao Tele Breja, na Av. São Borja, nº 533, bairro Rio Branco, em São Leopoldo-RS, quando iniciou uma discussão com clientes do estabelecimento. Cessada a discussão, o suspeito teria ido embora, retornando ao local logo em seguida. Ao retornar, o investigado teria estacionado seu carro atrás do da vítima e se dirigido ao banco do motorista - onde Alexandre permanecia sentado -, tendo, neste momento, supostamente desferido-lhe três facadas, uma no abdomên, outra na perna e outra nas costas.
+ ..
+No que se refere ao periculum libertatis, requisito preenchido quando a liberdade do indivíduo possa causar risco à ordem pública, à ordem econômica, à instrução criminal ou à aplicação da lei penal, tenho que está devidamente demonstrado diante da necessidade de se garantir a ordem pública, atingida pela conduta, em tese, de grave e contemporânea imputação de crime qualificado tentado contra a vida, o que exige uma resposta imediata do Estado. Ademais, não há como desconsiderar a personalidade impulsiva e agressiva do suspeito, já, em virtude de uma mera discussão, aparentemente por motivo banal, atentou contra à vida de uma pessoa.
+Outrossim, há de se frisar que há elementos no expediente que fazem crer que o investigado empreendeu fuga para o litoral. Consoante o Relatório de Investigação nº 02, os policiais encontraram uma passagem do automóvel VW/Gol, placa AHL2301, na tarde do mesmo dia 26.10.2024, por uma câmera do cercamento eletrônico localizada na ERS-030, a qual liga o município de Osório a Tramandaí. Na imagem obtida, é possível perceber que o motorista veste uma camiseta de cor azul, mesma tonalidade da utilizada por CESINHA na madrugada dos fatos (evento 1, OUT4, págs. 4-5).
+Sendo assim, verificado o risco que o investigado representa ao meio social e o perigo de fuga, imperiosa a decretação da prisão preventiva para acautelar a ordem pública e garantir a aplicação da lei penal.
+A defesa postulou a concessão de liberdade provisória ao réu, que foi indeferida pelo Juízo singular. Confira-se (fl. 75, destaquei):
+Conforme já referido na decisão que decretou a prisão preventiva, a prisão do acusado se justifica em razão do cometimento de delito grave contra a vida, utilizando-se de arma branca, por conta de uma mera discussão com a vítima, tendo resultado em lesões no abdômen, perna e costas do ofendido. Além da gravidade concreta do delito, cabe destacar que o investigado possui antecentes policias por tráfico de entorpecentes (evento 1, OUT2), bem como registros policiais que demonstram o seu comportamento violento em situações anteriores que também estava alcoolizado (evento 44, ANEXO2, B.O. 6016/1998/100917 e B.O. 14907/2012/100917). Pela soma de todos esses elementos citados é que se denota a periculosidade que o acusado, se posto em liberdade, pode trazer ao meio social.
+Ainda, segundo o relatório de análise do celular apreendido em poder do investigado (evento 3, OUT16), há indícios de que o suspeito empreendeu fuga para o litoral e pretendia evadir-se da autoridade policial após o cometimento do delito, restando evidente o risco à aplicação da lei penal.
+Presente, portanto, prova da existência do crime e indícios suficientes da autoria delitiva, com o que preenchidos os requisitos exigidos pela legislação processual penal, inclusive aquele previsto no artigo 313, inciso I, do CPP.
+No que diz respeito à alegação defensiva do acusado de que teria agido em legítima defesa, saliento que a análise acerca da tese trazida por ele será feita quando da prolação da sentença de pronúncia, tendo em vista que demanda adequada e aprofundada análise da prova produzida nos autos, o que não cabe no presente momento. Isso porque, no momento, a análise se restringe à manutenção dos elementos que deram ensejo à segregação cautelar, os quais seguem presentes.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local, que denegou a ordem.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, verifico que são idôneos os motivos elencados pelas instâncias ordinárias justificar a decretação da prisão preventiva, porquanto contextualizaram, em dados concretos, o periculum libertatis.
+Com efeito, o Juízo singular ressaltou a gravidade da conduta em tese perpetrada pelo réu - em razão de mera discussão, desferiu três facadas contra a vítima, que foi atingida no abdômen, na perna e nas costas -, o risco de reiteração delitiva, evidenciado pelo registro de outros procedimentos investigatórios contra ele, além da presença de indícios (obtidos pela análise de câmeras de segurança e pelo exame do celular apreendido em poder do investigado) de que ele pretendia fugir do município em que ocorreram os fatos.
+Para afastar a conclusão das instâncias ordinárias e acolher os pleitos defensivos relacionados à configuração de legítima defesa e à suscitada ausência de elementos indicativos do risco de fuga do réu, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+Ressalto, por fim, que Corte Superior concluiu pela idoneidade dos motivos ensejadores da prisão cautelar em casos semelhantes ao presente. A propósito:
+ ..
+2. A medida cautelar foi devidamente fundamentada, pois destacou-se a gravidade concreta do crime, porque se trata de tentativa de homicídio qualificado (art. 121, § 2º, II, c/c o art. 14, II, ambos do Código Penal), além da reincidência e a fuga do réu do local dos fatos.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 193.035/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024, destaquei)
+ ..
+2. No caso, a prisão preventiva encontra-se devidamente fundamentada na necessidade de garantir a ordem pública, tendo em vista a gravidade concreta da conduta imputada ao paciente, acusado de participar do assassinato da vítima, em razão de uma dívida de R$ 46,00, referente ao valor de 2 caixas de cerveja, tendo levado executor até a residência da vítima para que ele a matasse.
+3. A propósito, "A gravidade em concreto do crime e a periculosidade do agente, evidenciada pelo modus operandi, constituem fundamentação idônea para a decretação da custódia preventiva" (HC 212647 AgR, Relator Ministro ANDRÉ MENDONÇA, Segunda Turma, julgado em 05/12/2022, DJe 10/01/2023).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 936.004/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 1º/10/2024, grifei)
+ ..
+5. Sobre o tema, urge consignar também que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016.)
+6. Agravo regimental não provido.
+(AgRg no HC n. 912.267/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+A fundamentação exarada pelas instâncias ordinárias é suficiente, ainda, para ilustrar a insuficiência e inadequação das cautelares diversas,.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
