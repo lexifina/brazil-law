@@ -1,0 +1,74 @@
+DECISÃO
+Em an álise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por CIA LATINO AMERICANA DE MEDICAMENTOS, contra o acórdão assim ementado:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DELIMITAÇÃO DE HORÁRIO DE FUNCIONAMENTO DE FARMÁCIAS. LEGISLAÇÃO MUNICIPAL QUE INSTITUI REGIME DE PLANTÃO NA MODALIDADE DE RODÍZIO. ALEGADA VIOLAÇÃO À LIVRE INICIATIVA, AO LIVRE DESENVOLVIMENTO ECONÔMICO, AO DIREITO FUNDAMENTAL À SAÚDE E À RELEVÂNCIA PÚBLICA DAS ATIVIDADES DE ASSISTÊNCIA À SAÚDE. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DA PARTE AUTORA.
+1. A Constituição Federal, em seu art. 30, inciso I, conferiu aos municípios a competência para legislar sobre os assuntos de interesse local, dentre os quais se insere a organização e o funcionamento do comércio e a instituição de plantões, incidindo, no caso, o enunciado da Súmula Vinculante n. 38, de cumprimento obrigatório, segundo a qual "É competente o Município para fixar o horário de funcionamento de estabelecimento comercial".
+2 . A jurisprudência desta Corte de Justiça se envereda, em sua maioria, em sentido contrário ao defendido pela parte impetrante, preponderando o entendimento de que os municípios, no exercício da legislatura de interesse local, podem estipular expediente diferenciado (sistema de rodízio em regime de plantão) para os seus estabelecimentos farmacêuticos.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte agravante alegou violação dos arts. 489 e 1.022, II do CPC; 1º, §§ 1º e 2º, e 3º, II, da Lei 13.847/2019; 3º da Lei 13.021/2014; e 56 da Lei 5.991/1973, além de divergência jurisprudencial.
+A irresignação não foi admitida, por ausência de vício de fundamentação, por aplicação das Súmulas 211/STJ e 280/STF e em vista da natureza constitucional da fundamentação do acórdão recorrido.
+No agravo, sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Reitera a deficiência da prestação jurisdicional. Afirma o prequestionamento ficto. Diz que não é preciso a análise de legislação local. Assevera que a decisão foi proferida à luz de norma constitucional e de norma legal. Renova a alegação de dissídio de jurisprudência.
+Contraminuta apresentada (fls. 591-595).
+É o relatório.
+Passo a decidir.
+Quanto à apontada violação aos arts. 489 e 1.022, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fls. 352-353):
+ ..
+Em síntese, o demandante/apelante se insurge contra dispositivos legais municipais que restringem o horário de funcionamento de seu estabelecimento comercial, estabelecendo regime de plantão para as farmácias naquela municipalidade (Fraiburgo/SC).
+De fato, a Lei Complementar Municipal n. 98/20082, que trata sobre a utilização do espaço do município de Fraiburgo e bem estar público - Código de Postura - e dá outras providências, estabelece:
+Art. 168. A abertura e o fechamento dos estabelecimentos comerciais e industriais do Município obedecerão aos preceitos da legislação federal que regula o contrato de duração e as condições do trabalho.
+ ..
+§ 3º. Os horários normais de funcionamento de estabelecimentos comerciais e industriais é das 08:30 às 18:30 horas de segunda a sexta-feira e aos sábados das 08:00 às 12:00 horas.
+Art. 169. Estão sujeitos a horários especiais:
+ ..
+IV - horário especial de funcionamento das farmácias:
+a) de segundas às sextas-feiras das 19:30 às 07:30 horas;
+b) aos sábados das 12:00 às 07:30 horas de segunda-feira.
+§ 1º Para funcionamento em feriados, estarão autorizados os estabelecimentos acima elencados nos incisos I, II e III deste artigo, mediante autorização do Município e recolhimento da respectiva taxa, conforme previsto na Tabela 25 da Lei complementar nº 053/2003.
+§ 2º As farmácias, quando fechadas, poderão em caso de urgência atender o público a qualquer hora do dia ou da noite.
+Segundo o Decreto n. 86/2017, que regulamenta licença especial para funcionamento das farmácias no município de Fraiburgo e dá outras providências (Evento 1 - OUT5, Eproc 1G):
+Art. 1 º. Fica concedida licença especial para funcionamento das farmácias nos seguintes dias e horários:
+a) de segundas às sextas-feiras das 07:30 às 19:30, horas para as farmácias localizadas no centro e entornos;
+b) de segundas às sextas-feiras das 07:30 às 20:00, horas para as farmácias localizadas no bairro São Miguel;
+c) aos sábados, das 07:30 às 12:00 horas, para as farmácias localizadas no bairro centro e entornos;
+d) aos sábados, das 07:30 às 18:00 horas, para as farmácias localizadas no bairro São Miguel;
+e) aos domingos, das 08:00 às 12:00 horas, para as farmácias localizadas no bairro São Miguel;
+f) em feriados que ocorram de segunda a sexta-feira, das 07:30 às 18:00 horas, para as farmácias localizadas no bairro São Miguel.
+Art. 2º. As farmácias localizadas no centro e entornos, excluídas as do bairro São Miguel, as que venham a se tornar muito distantes para atendimento da população e as constituídas a menos de 6 (seis) meses, estão obrigadas a participar do regime de plantão, inclusive em domingos e feriados, das 12:00 horas do sábado até as 12:00 horas do sábado subsequente. Parágrafo único. Todas as farmácias estão obrigadas a fixar em local visível (faixada), placa indicativa com o nome e endereço da farmácia que estiver de plantão.
+ ..
+Diversamente do que sustenta o apelante, tal como consignou o douto magistrado, a Constituição Federal, em seu art. 30, inciso I, conferiu aos municípios a competência para legislar sobre os assuntos de interesse local, dentre os quais se insere a organização e o funcionamento do comércio e a instituição de plantões, incidindo, no caso, o enunciado da Súmula Vinculante n. 38, de cumprimento obrigatório, segundo a qual "É competente o Município para fixar o horário de funcionamento de estabelecimento comercial".
+A despeito da existência de precedente3 favorável à tese defendida pelo demandante, conforme referido nas razões de seu apelo, a jurisprudência desta Corte de Justiça se enverada, em sua maioria, em sentido contrário, preponderando o entendimento de que os municípios, no exercício da legislatura de interesse local, podem estipular expediente diferenciado (sistema de rodízio em regime de plantão) para os estabelecimentos farmacêuticos.
+ ..
+E ainda, no julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 394):
+ ..
+Isso, porque a o questionamemto trazido a juízo diz com a competência dos municípios para legislar sobre assuntos de interesse local (art. 30, inciso I, da CF), independentemente de se tratar a impetrante de "estabelecimento comercial" ou "estabelecimento de saúde", de modo que deve obediência à lei municipal que estipula o horário de funcionamento das farmácias que, naquela localidade (Fraiburgo), decidam se instalar, quais sejam, a Lei Complementar Municipal n. 98/2008, que trata sobre a utilização do espaço do município de Fraiburgo e bem estar público - Código de Postura - e dá outras providências, e o Decreto n. 86/2017, que regulamenta licença especial para funcionamento das farmácias no município de Fraiburgo e dá outras providências.
+Ademais, a argumentação ora aventada é inovadora em relação àquela contida não só na exordial, mas também nas razões do recurso de apelação cível, oportunidades em que o ora embargante se incluiu na categoria de "estabelecimento comercial", defendendo, no entanto, a não incidência irrestrita do enunciado sumular n. 38 do STF e tecendo comentários, inclusive, sobre competição dentre estabelecimentos comerciais e redução de concorrência, matérias tipicamente concernentes aos que detêm finalidade primordial de lucro e não aquelas voltadas às ações de serviço de saúde, como quer fazer convencer nas razões dos presentes embargos.
+Sabe-se que é vedada a inovação recursal em sede de embargos de declaração, ainda que sobre matéria considerada de ordem pública, conforme pacífica jurisprudência desta Corte de Justiça.
+ ..
+Como se vê, a negativa de prestação jurisdicional não restou configurada, sendo certo que irresignação veiculada em aclaratórios diz sobre a justiça da decisão, o que não é adequado à espécie recursal eleita. Com efeito, o Tribunal de origem deixa expresso o indistinto tratamento conferido a estabelecimentos comercial ou de saúde, no que concerne à competência municipal de regulação da atividade.
+Por outro lado, como se denota dos excertos transcritos, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Quanto ao mais, é notório que a decisão de origem foi proferida à luz de argumento de natureza constitucional (competência legislativa do Município), bem como por interpretação de norma local, o que torna inviável a análise da controvérsia nesta instância.
+A alteração dos argumentos do órgão a quo daria ensejo à usurpação dos poderes conferidos à Suprema Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E CONSTITUCIONAL. JUROS DE MORA ENTRE A DATA DA EXPEDIÇÃO DO PRECATÓRIO E A DATA DO DEPÓSITO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. COMPETÊNCIA DO STF.
+1. Em relação à incidência de juros de mora entre a expedição do precatório e o seu efetivo pagamento, verifica-se que o fundamento adotado pelo Corte a quo é eminentemente constitucional, com amparo na jurisprudência do Supremo Tribunal Federal, no art. 100 da Carta Magna e na Súmula Vinculante 17.
+2. Não cabe ao Superior Tribunal de Justiça examinar a questão, porquanto reverter o julgado significaria usurpar competência que, por expressa determinação do art. 102, III, da Constituição Federal, pertence ao Supremo Tribunal Federal.
+3. Recurso Especial não conhecido (REsp n. 1.814.286/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/6/2019, DJe de 1/7/2019).
+ADMINISTRATIVO. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. PRECATÓRIOS. EC 30/2000. COISA JULGADA. FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO RECORRIDO. RECURSO ESPECIAL. INVIABILIDADE.
+1. Inexiste contrariedade ao art. 535 do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. O acórdão recorrido entendeu pela inexistência de violação da coisa julgada a partir da interpretação de dispositivos constitucionais (ADCT, art. 78, e EC 30/2000).
+3. A análise da fundamentação constitucional do acórdão recorrido é de competência da Suprema Corte, por reserva expressa da Constituição Federal. Precedentes.
+4. Agravo conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento (AREsp 729.156/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018).
+Ademais, a Súmula 280 do STF impede seja aferida a interpretação da legislação local considerada no acórdão recorrido, ainda que a pretensão do recorrente esteja sustentada com base em suposta violação à lei federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. COMPENSAÇÃO DE CRÉDITO. POSSIBILIDADE. DECISÃO FUNDAMENTADA EM LEI LOCAL. SÚMULA 280.
+1. A Corte regional dirimiu a controvérsia nestes termos (fls. 58-63, e-STJ, grifei): "No mesmo sentido, pelo desprovimento do recurso, o percuciente parecer de lavra do Procurador de Justiça atuante no feito, Dr. Eduardo Roth Dalcin, que acrescentou, ainda, que "os créditos devidos ao Estado a título de honorários advocatícios de sucumbência não integram o patrimônio econômico dos procuradores do estado, motivo pelo qual é inviável receberem o mesmo tratamento dado aos créditos devidos aos advogados privados, não se aplicando os artigos 85, § 14, do CPC  Os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial  e 23 da Lei nº 8.906/1994  Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor . A correção deste entendimento fica mais evidente a partir da análise da Lei Estadual nº 10.298/1994, que "Extingue o Fundo de Assistência Judiciária e cria o Fundo de Reaparelhamento da Procuradoria-Geral do Estado e o Fundo de Aparelhamento da Defensoria Pública", regulamentada pelo Decreto Estadual nº 54.454/2018  Dispõe sobre o Fundo de Reaparelhamento da Procuradoria-Geral do Estado - FURPGE, de que trata a Lei nº 10.298, de 16 de novembro de 19941  e pela Resolução nº 151/2019  estabelece o pagamento de prêmio de produtividade aos procuradores do Estado , que estabeleceu o prêmio de produtividade aos procuradores do Estado. O FURPGE é composto, exclusivamente, pelos valores arrecadados dos honorários de sucumbência devidos em razão da vitória da PGE/RS em ações judiciais, a indicar que integram o patrimônio do ente público, razão pela qual é viável a compensação pretendida e deferida".
+2. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei Estadual 10.298/1994, Decreto Estadual 54.454/2018 e Resolução 151/2019). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF.
+3. A decisão impugnada encontra-se em conformidade com a jurisprudência do STJ de que os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público do ente público, de modo a permitir, nessa hipótese, a compensação da verba honorária devida ao ente público com o montante a que o credor tem direito de receber do Estado, via precatório.
+4. Agravo Interno não provido (AgInt no AREsp n. 2.330.769/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/10/2023, DJe de 18/12/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+ EMENTA
