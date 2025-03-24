@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de JONATHAN DOS SANTOS BAPTISTA contra acórdão assim ementado (fls. 250-251):
+APELAÇÃO Tráfico de Drogas - Recurso Ministerial de Defensivo Sentença condenatória Preliminar: Nulidade da Prisão em flagrante efetuada por guardas municipais - ilicitude da prova de materialidade - Atuação de guardas civis Agentes que podem agir na prevenção da prática de crimes Inexistência de nulidade Artigo 301 do CPP Preliminar afastada - Pedido de absolvição - Descabimento Conduta que se amolda ao artigo 33, caput, da Lei nº 11.343/06 Conjunto probatório robusto Depoimentos dos policiais coerentes e coesos, os quais têm o condão de embasar o decreto condenatório Pena-base fixada no mínimo, que se mantém Agravante da reincidência que deve ser reconhecida, pois o réu possui condenação anterior por prática de infração penal, cuja pena foi julgada extinta pelo cumprimento em 08/04/2015, dentro, portanto, do interstício de cinco anos contados entre a data da extinção da pena da condenação anterior e o novo fato (06/03/2020), tudo nos termos dos artigos 63 e 64, I, ambos do Estatuto Repressivo Circunstância preponderante sobre a confissão - Impossibilidade de aplicação da causa de diminuição da pena prevista no artigo 33, § 4º, da Lei de Drogas, uma vez que o recorrente é reincidente Em face da reincidência, malgrado a favorabilidade na primeira etapa dosimétrica e a pena corporal seja superior a 4 e não exceda a 8 anos, o regime inicial não pode ser diverso do fechado (CP, art. 33, § 2º, "b", e § 3º), descabendo cogitar in casu no regime intermediário, tampouco no aberto Na medida em que a sanção reclusiva ultrapassa os respectivos limites legiferados, incabíveis na espécie a sua substituição por restritivas de direitos (art. 44, I, do CP:
+"superior a 4 anos") e também o sursis penal (art.
+77, caput, do CP: "superior a 2 anos") Recurso defensivo Improvido e Recurso ministerial Provido.
+O paciente foi condenado, como incurso no art. 33, caput, §4º, da Lei 11.343/06, às pena de 1 ano e 8 meses de reclusão, em regime inicial aberto, e 167 dias-multa, substituída a pena reclusiva por restritivas de direitos.
+Interpostos recursos de apelação. Foi desprovido o recurso defensivo e provido o recurso interposto pelo MP para reconhecer a agravante da reincidência e afastar a minorante, aumentando-se as penas para 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa.
+No presente writ, alega o impetrante, em suma, constrangimento ilegal ante o afastamento da atenuante da confissão espontânea.
+Requer, assim, seja concedida a ordem, com o reconhecimento da confissão e sua consequente compensação com a agravante da reincidência.
+Prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento ou concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle de legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostra-se inadequado à estreita via do habeas corpus, por exigirem, em regra, revolvimento probatório.
+Visa o impetrante ao reconhecimento da atenuante da confissão espontânea, questão assim tratada no acórdão impugnado (fl. 266):
+De outra banda, não era mesmo caso de se considerar a atenuante da confissão espontânea, eis que o acusado Jonathan confessou os fatos em situação de flagrância. Confessou, na verdade, o que não haveria como rechaçar, diante de sua prisão em flagrante de posse de substâncias entorpecentes.
+Como se sabe, a prisão em situação flagrancial é refratária à atenuante da confissão, porquanto reservada a situações de legítima espontaneidade e colaboração com a busca da verdade real, o que evidentemente não ocorre quando o indivíduo apenas confirma os fatos já descortinados pela diligente atuação estatal através do poder de polícia que lhe é inerente.
+Desta feita, a confissão do réu não foi considerada na valoração das provas, pois a r. sentença proferida lançou mão de outros elementos de convicção para sustentar o decreto condenatório.
+Por fim, na terceira fase do cálculo, deve ser afastado a figura do "trafico privilegiado" como quer o d. representante do Ministério Público.
+Com efeito, descabe na hipótese a figura do tráfico privilegiado (artigo 33, § 4º, da Lei nº 11.343/06), diante da recidiva.
+Como se vê, o entendimento das instâncias ordinárias, ao não reconhecer a atenuante da confissão, porquanto "o acusado Jonathan confessou os fatos em situação de flagrância", não se alinha à orientação desta Corte, cristalizada na Súmula 545/STJ, especialmente quando utilizada para formar o convencimento do julgador.
+Passa-se, então, ao redimensionamento das penas.
+Fixada a pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa, permanece no mesmo patamar na segunda etapa, não obstante a atenuante da confissão ora reconhecida e a agravante da reincidência, que se compensam, porquanto ambas preponderantes, tornando-se definitivas nesse patamar, à míngua de outras causas modificativas.
+Ante o exposto, concedo o habeas corpus para reduzir as penas do paciente, a 5 anos de reclusão, e 500 dias-multa, mantida, no mais, a condenação.
+Comunique-se.
+Publique-se.
+Intimem-se.
+EMENTA
