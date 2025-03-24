@@ -1,0 +1,43 @@
+DECISÃO
+
+    Trata-se de reclamação ajuizada por Neivaldo da Fonseca contra acórdão proferido pela 1ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, no processo nº 0004907-09.2023.8.16.0190, que, ao julgar a ação movida pelo reclamante, reconheceu que a rubrica “Prêmio Produtividade Quotas Var. Esf. Fiscal” deve ser excluída da base de cálculo da conversão das licenças especiais do autor em pecúnia, e dos embargos de declaração opostos, que mantiveram o entendimento.
+
+    O reclamante argumenta que a decisão do TJPR descumpre a modulação de efeitos determinada pelo STF na ADI 5.510/PR, que reconheceu a inconstitucionalidade da transposição funcional de Agente Fiscal para Auditor Fiscal, mas preservou as promoções e vantagens concedidas sob a vigência das Leis Complementares Estaduais nº 92/2002 e 131/2010. Sustentam que a decisão do TJPR viola o art. 988, II, do Código de Processo Civil (CPC) e o art. 102, I, "l", da Constituição Federal, que garantem a autoridade das decisões do STF.
+
+    É o relatório. Decido.
+
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+
+    Nos termos do parágrafo único do art. 161 do Regimento Interno do Supremo Tribunal Federal (RISTF), “o Relator poderá julgar a reclamação quando a matéria for objeto de jurisprudência consolidada do Tribunal”. É o caso dos autos.
+
+    Transcrevo a ementa do acórdão reclamado (eDoc. 4 - fl 84):
+
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO DE INDENIZAÇÃO. PEDIDO DE CONVERSÃO DE LICENÇAS-PRÊMIO NÃO USUFRUÍDAS EM PECÚNIA. PERDA DE VÍNCULO COM A ADMINISTRAÇÃO PÚBLICA A PARTIR DO ATO DE APOSENTAÇÃO DO SERVIDOR PÚBLICO. BASE DE CÁLCULO CORRESPONDENTE A SUA ÚLTIMA REMUNERAÇÃO, DESCONTADO OS VALORES PAGOS A TÍTULO DE VANTAGENS PECUNIÁRIAS TRANSITÓRIAS. SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO INICIAL, DETERMINANDO A OBSERVÂNCIA DO TETO REMUNERATÓRIO MENSAL DO FUNCIONALISMO PÚBLICO ESTADUAL NA BASE DE CÁLCULO DA INDENIZAÇÃO. APELAÇÃO DO ESTADO DO PARANÁ E REEXAME NECESSÁRIO, CONHECIDO DE OFÍCIO. AUTOR QUE FOI INVESTIDO NO CARGO DE AUDITOR FISCAL POR TRANSPOSIÇÃO DE CARREIRA. PROVIMENTO DERIVADO RECONHECIDO COMO INCONSTITUCIONAL PELO ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA E PELO STF. PRÊMIO DE PRODUTIVIDADE PAGO IRREGULARMENTE AO AUTOR, POIS PERTENCEM EXCLUSIVAMENTE A SERVIDORES LEGITIMAMENTE INTEGRANTES DA CARREIRA DE AUDITOR FISCAL. NECESSÁRIA EXCLUSÃO DAS VERBAS PAGAS A ESSE TÍTULO QUANDO DO CÁLCULO DA INDENIZAÇÃO DEVIDA AO AUTOR. ABONO DE PERMANÊNCIA QUE DEVE INCIDIR APENAS SOBRE VERBAS PERMANENTES E REGULARMENTE PAGAS. EXCLUSÃO DA RUBRICA “PRÊMIO PRODUTIVIDADE QUOTAS VAR. ESF. FISCAL”. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELA METADE QUE SE MOSTRA POSSÍVEL NO CASO. ART. 90, § 4º DO CPC. ESTADO DO PARANÁ QUE NÃO APRESENTOU OPOSIÇÃO AO PEDIDO. RECURSO PROVIDO E SENTENÇA PARCIALMENTE REFORMADA EM SEDE DE REEXAME NECESSÁRIO.”
+
+    No paradigma apontado como violado - ADI 5510 -, o STF decidiu que:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. TRANSPOSIÇÃO. PROVIMENTO DERIVADO DE CARGOS PÚBLICOS. AUDITORES FISCAIS. ART. 37, II, DA CARTA FEDERAL. CONCURSO PÚBLICO. INOBSERVÂNCIA. ARTS. 156, I, II e III, DA LEI COMPLEMENTAR Nº 92/2002 E AO ART. 150, I, II e III, DA LEI COMPLEMENTAR Nº 131/2010, AMBAS DO ESTADO DO PARANÁ. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. PROCEDÊNCIA PARCIAL. SEGURANÇA JURÍDICA. MODULAÇÃO TEMPORAL DOS EFEITOS DO ACÓRDÃO EM MAIOR EXTENSÃO. 1. Ação direta de inconstitucionalidade, com pedido de medida cautelar, proposta pelo Procurador-Geral da República, em face dos arts. 150, I a VI e § 1°, e 156 da Lei Complementar nº 131, de 29.09.2010, e dos arts. 156, I a VI e § 2°, e 157 da Lei Complementar nº 92, de 05.07.2002, ambas do Estado do Paraná. As normas dispuseram sobre a reestruturação da carreira de Agente Fiscal da Coordenação da Receita do Estado do Paraná. 2. Nos termos do art. 27 da lei n.º 9.868/99 que autoriza, por razões de segurança jurídica ou excepcional interesse social, a restrição dos efeitos da declaração de sua inconstitucionalidade, modulo os efeitos da decisão (i) para que produza efeitos a partir de 2 (dois) anos contados da publicação da Ata deste julgamento; (ii) para preservar os atos praticados pelos servidores investidos irregularmente no cargo de Auditor Fiscal, inclusive nesse período de 2 (dois) anos; (iii) para congelar, na data da publicação da Ata deste julgamento, o valor nominal das remunerações dos servidores afetados pela decisão, até que a diferença recebida com base na lei ora declarada inconstitucional seja absorvida por aumentos futuros; (iv) para preservar as situações até aqui consolidadas exclusivamente para fins de aposentadoria, ou seja, os aposentados e os indivíduos que implementaram os requisitos para a aposentadoria até a data da publicação da Ata deste julgamento e, divergindo do Relator, modulo em maior extensão os efeitos da decisão, de modo a também (v) preservar as promoções concedidas na vigência das Leis Complementares nº 92/2002 e 131/2010 do Estado do Paraná, como também para preservar o quadro funcional dos agentes fiscais 3 que tiveram seus cargos transformados em auditores fiscais e os atos por eles executados. 3. Pedido na ação direta de inconstitucionalidade julgado parcialmente procedente, para conferir interpretação conforme à Constituição ao art. 156, I, II e III, da Lei Complementar nº 92/2002, e ao art. 150, I, II e III, da Lei Complementar nº 131/2010, ambas do Estado do Paraná, de modo a afastar qualquer aplicação que possibilite a investidura de outrora ocupantes do cargo de Agente Fiscal 3 (AF-3) em cargo de Auditor Fiscal. Modulação de efeitos em maior extensão.”
+
+    (ADI 5510, Relator(a): ROBERTO BARROSO, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado em 05-06-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 07-08-2023 PUBLIC 08-08-2023)
+
+    O paradigma invocado - ADI 5510 - não tratou especificamente da inclusão ou exclusão da rubrica “Prêmio Produtividade Quotas Var. Esf. Fiscal” na base de cálculo para fins de conversão de licenças especiais em pecúnia, razão pela qual não há aderência estrita entre a decisão apontada como paradigma e o conteúdo do acórdão reclamado. Em consequência, a modulação dos efeitos realizada no julgamento da ADI 5.510 não se aplica à hipótese dos autos, pois a situação ora discutida — relativa à base de cálculo da indenização por licenças não usufruídas — não foi objeto de apreciação direta ou mesmo implícita na referida ação de controle concentrado.
+
+    Em caso idêntico ao dos autos (Rcl 70.360), o Ministro Alexandre de Moraes adotou o mesmo entendimento ressaltando que “o ato impugnado não se ajusta ao contexto do parâmetro de controle apontado, tendo em vista que o ato reclamado apreciou pedido de pagamento do prêmio de produtividade, ao passo que o acórdão prolatado nos autos da ADI 5.510 tratou tão somente da constitucionalidade da Lei Complementar 98/2001, no ponto em que ‘unificou as carreiras de ‘Agente Arrecadador de Tributos Estaduais’ e de ‘Agente de Fiscalização e Arrecadação de Tributos Estaduais’ em carreira única denominada ‘Agente de Tributos Estaduais’”.
+
+    Ademais, conforme consignado no acórdão reclamado, não houve afronta à modulação de efeitos, especialmente porque a inconstitucionalidade da transposição funcional prevista nas Leis Complementares Estaduais nº 92/2002 e 131/2010 já havia sido reconhecida pelo Órgão Especial do Tribunal de Justiça do Estado do Paraná, em momento anterior à fixação da tese pelo Supremo Tribunal Federal, nos termos do artigo 297 do Regimento Interno daquele Tribunal. Dessa forma, o órgão fracionário estava vinculado ao entendimento firmado nos Incidentes de Declaração de Inconstitucionalidade nº 315.883-8/01 e nº 1.225.403-2/01. Assim, não é possível nem sequer afirmar que se está diante de “situação consolidada” preservada pela modulação de efeitos determinada pelo STF, sendo inaplicável a proteção excepcional conferida na ADI 5.510.
+
+    Portanto, a aderência estrita (condição essencial para a interposição da via reclamatória) entre o ato reclamado e o conteúdo do paradigma apontado como violado não se verificou na espécie, tornando inadmissível a presente Reclamação (nesse sentido: RCL 36688 AgR, RCL 50423 AgR e Rcl 50296 AgR, todas julgadas pelo Tribunal Pleno desta Corte).
+
+    Por essas razões, nego seguimento à reclamação, nos termos do art. 21, §1º, do RISTF.
+
+    Sem condenação em honorários, uma vez que não houve citação da parte adversa.
+
+    Publique-se.
+
+    Brasília, 24 de março de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
