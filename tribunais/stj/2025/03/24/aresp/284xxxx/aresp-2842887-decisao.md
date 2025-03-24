@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO FRANCISCO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o recurso especial, manejado em face de acórdão assim ementado (fl. 29):
+Agravo Interno. Decisão interlocutória pela qual foi indeferido o benefício da justiça gratuita. Ausência de comprovação da hipossuficiência econômica financeira. Agravante recebe rendimentos líquidos de aproximadamente R$ 6.000,00. Decisão mantida. Recurso improvido.
+Nas razões do recurso especial (fls. 50-71), interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte agravante aponta violação dos arts. 99, §§ 2º e 3º, 100, 101, 489, § 1º, incisos IV e VI, e 1.022, inciso II e parágrafo único, inciso II, do Código de Processo Civil, sustentando que:
+ ..  o salário-mínimo não é parâmetro, muito menos isolado, de subsistência digna e, principalmente, do chamado mínimo existencial que se encontram, no caso, aviltados com a revogação da gratuidade.
+7. Verifica-se, com efeito, que o recorrente é pessoa idosa e aufere, ao que consta, rendimentos líquidos no total de R$ 5.776,97,  .. , o que reforça sobremaneira a presunção de veracidade da sua declaração de hipossuficiência econômica, à luz do art. 99, § 3º, CPC, que, embora aplicado, não foi adequadamente interpretado pelo E. Tribunal Paulista.
+ ..
+13. Ocorre que nada, absolutamente nada, foi dito em relação ao salário-mínimo necessário e a impossibilidade de tomá-lo como parâmetro exclusivo da revogação do benefício da justiça gratuita, à luz do decisum paradigma oriundo do C. Superior Tribunal de Justiça.
+ ..
+37. Ao contrário da premissa estabelecida em segundo grau de jurisdição, os benefícios da justiça gratuita não se destinam, apenas e tão somente, a litigantes com dificuldades financeiras, mas todos aqueles que, à luz do art. 98, caput, do CPC, possuam ".. insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios.." . É, como se vê, o caso do recorrente.
+Ao final, requer o provimento do recurso especial.
+Sem contrarrazões (fl. 299), o recurso foi inadmitido na origem (fls. 308-309).
+É o relatório.
+Decido.
+A Corte Especial deste Tribunal Superior decidiu afetar os Recursos Especiais n. 1.988.686/RJ, 1.988.687/RJ e 1.988.697/RJ, de relatoria do Min. Og Fernandes, à sistemática dos recursos repetitivos, com o fim de " d efinir se é legítima a adoção de critérios objetivos para aferição da hipossuficiência na apreciação do pedido de gratuidade de justiça formulado por pessoa natural, levando em conta as disposições dos arts. 98 e 99, § 2º, do Código de Processo Civil" (Tema n. 1.178), havendo determinação de suspensão da tramitação de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça.
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do Código de Processo Civil.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADA a análise do agravo em recurso especial e, com fundamento no art. 256-L, inciso I, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação dos acórdãos dos recursos representativos da controvérsia (Tema n. 1.178 do STJ), sejam observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS (TEMA N. 1.178 DO STJ). DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. ANÁLISE DO AGRAVO EM RECURSO ESPECIAL PREJUDICADA, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
