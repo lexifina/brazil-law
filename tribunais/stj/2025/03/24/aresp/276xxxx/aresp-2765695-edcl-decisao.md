@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, embargos de declaração opostos por MARCELLO OLIVEIRA DA CUNHA, contra decisão que conheceu do agravo para negar provimento ao recurso especial.
+A parte embargante aponta omissão quanto ao seguinte (fl. 1.050):
+i) MARCELLO foi excluído do certame por meio de ato precário, sem exposição de motivos e sem direito ao contraditório e à ampla defesa (fls. 369/360);
+(ii) MARCELLO foi excluído quatro dias antes do exame final do curso de formação, sendo obrigado a impetrar mandado de segurança para garantir a realização da prova (fls. 397/419);
+(iii) Apenas por meio da ação ordinária anulatória, MARCELLO descobriu que sua exclusão decorreu de uma resposta espontânea no Questionário de Levantamento de Dados Biográficos (QLDB), na qual relatou ter experimentado entorpecentes isoladamente na adolescência (fls. 423/445; 446/455; 456/457; 458/466; 467/472; 473/476);
+(iv) A exclusão de MARCELLO foi baseada em critérios subjetivos, sem fundamentos objetivos e sem qualquer repercussão cível, administrativa ou penal (fls. 378/381; 382; e 383/384);
+(v) O ato de exclusão foi posteriormente declarado ilegítimo pelo Poder Judiciário, com a chancela do Ministério Público, por extrapolar os princípios da razoabilidade, proporcionalidade e adequação (fls. 458/466; 467/472; 473/476);
+(vi) A exclusão foi fundamentada exclusivamente na declaração espontânea de experimentação de substância entorpecente no passado, desconsiderando sua capacidade intelectual, física e emocional para ocupar o cargo público; e
+(vii) A exclusão configura contradição da Administração Pública, que penaliza a omissão dolosa de informações no QLDB, mas também pune a declaração honesta de fatos passados, impondo uma sanção desproporcional e permanente.
+Requer, ao final, o acolhimento do recurso.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+De se ver, então, serem limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+Na decisão embargada constou expressamente as razões pelas quais não foi reconhecido o direito do recorrente ao ressarcimento, bem como à indenização, demonstrando-se, inclusive, que o entendimento do STJ sobre o tema não ampara a pretensão recursal.
+Verifica-se que o embargante busca, por meio das omissões apontadas, ver reconhecida a arbitrariedade do ato administrativo que o eliminou do certame, a fim de justificar o ressarcimento e a indenização pretendida. Ocorre que, tal como constou na decisão embargada, a inversão do acórdão recorrido, neste ponto, encontra óbice na Súmula 7/STJ.
+Assim, não há vício formal no decisum, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Concorde-se ou não com o resultado do julgamento, não é possível alegar obscuridade, porque a solução apresentada resolveu suficientemente a questão.
+Na jurisprudência do STJ:
+ ..  não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida"  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016  (AgInt no AREsp 2.417.452/PR, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Isso posto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
