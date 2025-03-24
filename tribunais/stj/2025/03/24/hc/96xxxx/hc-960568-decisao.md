@@ -1,0 +1,26 @@
+DECISÃO
+DIONE SOUZA DE OLIVEIRA alega sofrer coação em seu direito de locomoção em face de acórdão do Tribunal de Justiça do Estado da Bahia que denegou a ordem no HC n. 0000316-49.2017.8.05.0051.
+Nas razões deste habeas corpus, a defesa requer a desconstituição da decisão constritiva da liberdade do paciente e aponta o não preenchimento dos requisitos para a imposição da medida extrema do art. 312 do Código de Processo Penal, além da falta de fundamentação concreta do decreto prisional, pautado exclusivamente na gravidade abstrata do delito, em tese, por ele perpetrado, qual seja, homicídio qualificado (art. 121, § 2º, I, do Código Penal).
+Em reforço ao argumento da ilegalidade da custódia preventiva, ressalta que houve má interpretação do Magistrado quanto à suposta tentativa de suborno de testemunha, informação colhida no âmbito da fase instrutória, e alega que o paciente dispõe dos predicados favoráveis, motivos pelos quais pede as providências elencadas no art. 319 do CPP.
+O pedido de urgência foi por mim indeferido às fls. 172-173 e, instado a se manifestar, o Ministério Público Federal opinou, preliminarmente, pelo não conhecimento do writ e, no mérito, pela denegação da ordem de habeas corpus.
+Decido.
+Inicialmente, observo que as alegações relativas à materialidade implicariam procedimento inviável no âmbito do habeas corpus ou do recurso ordinário, pois demandaria a avaliação do contexto fático-probatório.
+I. Contextualização
+O insurgente foi denunciado pela suposta prática do delito de homicídio qualificado - previsto no art. 121, § 2º, I, do Código Penal (fls. 23-24).
+O Juiz de primeiro grau manteve a decretação da custódia preventiva do réu por ocasião da prolação da sentença de pronúncia, sob os termos que ora transcrevo (fls. 29-34, grifei):
+ .. o acusado se encontra pronunciado por crime doloso contra vida, cuja pena máxima em abstrato supera 4 (quatro) anos de reclusão, satisfeito o art. 313, I do CPP. Revelam-se também presentes, o fumus commissi delicti e o periculum libertatis. Há prova de materialidade e indícios suficientes de autoria conforme fundamentos desta sentença  .. .
+ ..  a prisão mostra-se necessária diante da conveniência da instrução processual penal, pois o acusado, por meio de seu pai Joao Xavier de Oliveira, deu dinheiro à testemunha Izaque Jose de Souza, a pretexto de modificar seu depoimento. O que foi descoberto por depoimento prestado pelo próprio senhor Joao Xavier de Oliveira; do risco à ordem pública, tendo em vista a gravidade concreta do delito, que envolveu homicídio com possível motivo torpe e uso de arma branca; da aplicação da lei penal, pois, o acusado procurado em seu endereço para cumprimento do mandado de prisão não foi localizado, encontrando-se foragido  .. .
+A Corte estadual, ao chancelar os argumentos da referida decisão constritiva, negou provimento ao recurso em sentido estrito interposto pela defesa, registrou (fls. 162-164):
+ ..  o Paciente se encontra foragido, circunstância apta a autorizar, de igual modo, a custódia cautelar para garantir a aplicação da lei penal. Vale anotar que, apesar da prisão preventiva ser sempre a ultima ratio, a sua imposição não está condicionada à previa adoção de cautelares menos gravosas  .. .
+II. Prisão preventiva
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é indispensável a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de sua segregação.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva. Salientou que, desde a descoberta da prática do fato típico, o réu se evadiu do distrito da culpa, razão pela qual a medida cautelar mais extrema afigurou-se necessária e adequada para assegurar a aplicação da lei penal e acautelar a ordem pública. Ademais, no decorrer das investigações, o genitor do paciente haveria fornecido quantia em dinheiro para testemunha, a fim de declarar nova dinâmica dos fatos, para favorecer o postulante.
+Conforme as informações contidas no ofício do Juízo competente, acostado à fls. 197-198 dos presentes autos, em 18/2/2025, " o  paciente DIONE SOUZA DE OLIVEIRA  ..  continua até a presente data como "procurado"".
+A jurisprudência do Superior Tribunal de Justiça entende que "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC n. 133.180/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/8/2021).
+Assim, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais, também diante da gravidade do fato (homicídio qualificado por emprego de faca e decorrente de motivação fútil).
+Por fim, destaco que é a compreensão do Subprocurador-Geral Paulo Thadeu Gomes da Silva, nessa perspectiva (fls. 206-207).
+III. Dispositivo
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
