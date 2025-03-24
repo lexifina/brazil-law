@@ -1,0 +1,5 @@
+DECISÃO
+Nas razões do agravo interno de fls. 542/545, a recorrente Associação Nacional dos Servidores da Polícia Federal - ANSEF informa que "o juízo da 1ª Vara Federal da Seção Judiciária de Alagoas proferiu sentença decretando a extinção da execução da qual se originou este recurso especial (processo nº 0807312-05.2022.4.05.8000). Foi interposta apelação pelos ora exequentes, a qual ventila a mesma questão discutida no agravo de instrumento e trazida a esta Corte pelo recurso especial, e que, inclusive, foi julgada em sentido diverso do constante na decisão do agravo aqui impugnado. Assim, diante da prolação de sentença extintiva da execução com base nos mesmos fatos e fundamentos jurídicos do agravo de instrumento, o conteúdo da decisão objeto do agravo é absorvido pela sentença. O recurso manejado da decisão interlocutória torna-se completamente inútil, pelo que perde objeto e fica prejudicado, prestigiando-se, assim, a decisão com maior cognição." (fl. 544)
+Assim, julgo prejudicado o agravo interno, em razão da superveniente perda do seu objeto.
+Publique-se.
+EMENTA
