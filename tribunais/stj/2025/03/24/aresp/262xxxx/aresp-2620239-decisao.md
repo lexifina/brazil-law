@@ -1,0 +1,25 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo Município de Vitória de Santo Antão, com fundamento na falta de prequestionamento (Súmulas 282 e 356 do STF), na necessidade de revolvimento de matéria fático-probatória (Súmula 7 deste STJ).
+A parte agravante alega, em síntese, ter ocorrido violação aos arts. 8º, 17 e 373, I, do Códig o de Processo Civil, sustentando que tais dispositivos foram implicitamente prequestionados no Tribunal de origem e que o exame do mérito não dependeria de reexame de fatos e provas. Aduz, ainda, que suas razões foram suficientemente claras para afastar o óbice de fundamentação deficiente.
+Contrarrazões apresentadas nas 1.010-1.015.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+A ausência de prequestionamento impede o conhecimento do recurso especial quando a tese jurídica fundada no dispositivo supostamente violado não é examinada de forma explícita ou implícita pelo Tribunal de origem.
+No caso, embora a parte agravante invoque os arts. 8º, 17 e 373, I, do CPC, não há registro de debate quanto ao conteúdo desses artigos no acórdão recorrido. O Tribunal local não abordou a aplicação específica das normas citadas, limitando-se a resolver a controvérsia a partir de outros fundamentos, sem sequer referir-se, ainda que de modo indireto ou implícito, aos dispositivos federais invocados.
+Cumpre destacar que, para configurar prequestionamento válido, é necessário que o órgão colegiado enfrente o argumento jurídico central do recorrente à luz dos textos legais que ele indica como violados. Simples menções gerais, como "houve exame de legitimidade passiva" ou "houve apreciação do ônus da prova", não suprem essa exigência, se não estiver devidamente claro que o Tribunal enfrentou, no âmago, a tese jurídica decorrente de tais preceitos.
+A jurisprudência do Superior Tribunal de Justiça reforça que a ausência de deliberação expressa ou ao menos implícita acerca do tema legal impede o acesso à instância especial, nos termos das Súmulas 282 e 356 do STF (aplicáveis, por analogia) e da Súmula 211 deste STJ:
+"É inadmissível o recurso especial quanto a questão que, a despeito da oposição de embargos de declaração, não foi apreciada pelo Tribunal a quo."
+Ademais, não basta que a parte recorrente apenas cite determinados dispositivos para satisfazer a exigência de prequestionamento. É imprescindível que o Tribunal de segunda instância lhes dê enfrentamento efetivo, mesmo que sem mencionar nominalmente o artigo, mas analisando, de maneira inequívoca, a tese veiculada. Na presente hipótese, o Tribunal local não analisou o aspecto jurídico específico dos referidos artigos, limitando-se a outras considerações fáticas e legais.
+Além da falta de prequestionamento, o deslinde da controvérsia exigiria a revisão dos elementos de prova relativos à jornada efetivamente prestada, às contribuições previdenciárias recolhidas e às circunstâncias da licença-prêmio, o que se revela incompatível com a via do recurso especial. Incide, no caso, a Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Por fim, a fundamentação da pretensão recursal mostra-se genérica, sem correlação específica entre os artigos de lei apontados e a suposta ilegalidade no julgamento de origem. A parte agravante não demonstra, de maneira clara e detalhada, como a eventual ofensa aos arts. 8º, 17 e 373, I, do CPC implicaria modificação do resultado. Tal inconsistência argumentativa configura fundamentação deficiente.
+Nesse panorama, aplica-se, por analogia, a Súmula 284 do STF, que obsta o conhecimento de insurgências cujos fundamentos não explicitam precisamente a controvérsia. Conforme o entendimento consolidado, não é suficiente mencionar dispositivos legais sem demonstrar, de modo objetivo, em que ponto concreto eles teriam sido indevidamente afastados ou contrariados.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista prévia fixação de honorários advocatícios, majoro-os em favor da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa ou sobre o proveito econômico obtido, observando-se os limites legais do § 3º do art. 85 do CPC.
+Intimem-se.
+ EMENTA
