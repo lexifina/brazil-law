@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado por DERSA - DESENVOLVIMENTO RODOVIÁRIO S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 89):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. Pedido voltado ao reconhecimento da impossibilidade de cumprimento da ordem de penhora em razão da liquidação da DERSA. Descabimento. Aprovação Lei estadual nº 17.148/2019 que determinou providências necessárias à dissolução e liquidação da executada com posterior extinção da pessoa jurídica não interfere na constrição judicial determinada nestes autos, tampouco no prosseguimento da execução até integral satisfação do débito. Decisão mantida. RECURSO NÃO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 115/119).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 805, 835 e 866 do CPC. Sustenta a impossibilidade de penhora do faturamento da empresa agravante tendo em vista que "a DERSA é empresa estatal dependente da Administração do Estado de São Paulo" (fl. 133), o que torna inócua a constrição deferida. Aduz que a agravante se encontra em "processo avançado de extinção, com a liquidação de ativos e passivos, que certamente serão absorvidos pelo Estado de São Paulo, detentor de 100% das cotas" (fl. 128). Alega, por fim, que a penhora do faturamento não condiz com o princípio da menor onerosidade da execução.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Corte Estadual consignou (fls. 90/91):
+Em reiterados recursos oriundos da ação de origem, indeferiu-se o pedido voltado ao reconhecimento da impossibilidade de cumprimento da ordem de penhora em razão da liquidação da DERSA.
+Com efeito, no Agravo de Instrumento nº 2021082-24.2021.8.26.0000, de minha relatoria, julgado em24/06/2021, restou consignado que a Lei estadual nº 17.148/2019, que determinou providências necessárias à dissolução e liquidação da executada com posterior extinção da pessoa jurídica, não interfere na constrição judicial determinada nestes autos, tampouco no prosseguimento da execução até integral satisfação do débito.
+Nesse sentido, até o momento, tem-se que o processo de liquidação não impede que a executada seja contratada, ou contrate, ou realize quaisquer atos necessários para cumprir com as finalidades da liquidação. Ou seja, a sua personalidade jurídica está mantida, justamente, para alcançar essas finalidades, dentre as quais está o pagamento do passivo da empresa, inclusive, do crédito do exequente. Por esses fundamentos, deve ser mantida a ordem de penhora de eventuais valores devidos à executada.
+Verifica-se que a instância a quo, com base nos elementos probatórios dos autos, concluiu que não ficou comprovada a finalização do processo de extinção da empresa, assim como considerou viável a manutenção da penhora. Assim, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS. CUMPRIMENTO DE SENTENÇA. EMPRESA EXECUTADA. FATURAMENTO MENSAL. PENHORA. REDUÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever a conclusão do aresto impugnado acerca da razoabilidade da penhora no valor de 15% (quinze por cento) sobre o faturamento mensal da empresa encontra os óbices das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça. 3. A incidência da Súmula nº 7/STJ obsta o seguimento do recurso por qualquer das alíneas do permissivo constitucional. Precedente.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.332.766/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/3/2019, DJe de 21/3/2019.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
