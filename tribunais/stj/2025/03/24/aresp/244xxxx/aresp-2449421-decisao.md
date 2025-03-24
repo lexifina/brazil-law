@@ -1,0 +1,37 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DO SERGIPE agrava de decisão que inadmitiu seu recuso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado na Apelação Criminal n. 202200323040.
+O recorrente suscita negativa de vigência ao art. 319 do Código Penal Militar, por considerar que há nos autos "acervo cognitivo pleno e capaz de sustentar a condenação dos demandados" (fl. 651).
+Aduz que "não há que se falar em ausência de provas capazes de sustentar um decreto condenatório em desfavor do acusado, pois diante da percuciente análise acerca do que consta nos autos, é imperioso concluir, sem sobressaltos, que os increpados cometeram o ilícito previsto no art. 319, do CPM" (fl. 661). Transcreve excerto das contrarrazões à apelação, em que foi realizada análise das provas colhidas para respaldar o pedido de manutenção da condenação.
+Postula o restabelecimento da sentença condenatória.
+A Corte distrital inadmitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+O agravo é tempestivo e infirmou as razões exaradas em juízo prévio de admissibilidade. Passo ao exame do recurso especial.
+Extrai-se dos autos que o agravado foi condenado, em primeira instância, pela prática do crime previsto no art. 319 do Código Penal Militar, à pena de 1 ano e 22 dias de detenção, em regime inicial aberto, concedida a suspensão condicional da pena pelo período de 2 anos, na forma dos arts. 84 do Código Penal Militar.
+Irresignada, a defesa recorreu. O Tribunal a quo deu parcial provimento ao apelo, a fim de reduzir as penas impostas aos réus. Ao rejeitar o pleito absolutório, o acórdão consignou que (fls. 641-646, grifei):
+Conquanto o réu apresente diferentes argumentos para colocar em dúvida a credibilidade de depoimento de Policial Civil que fora ouvido como testemunha, alegando que o réu estava de folga e que não estava com o suspeito sob custódia, mas apenas seguindo eventual paradeiro fornecido por um informante, esta Relatora, assim como o Juízo a quo, restou convencida de que a versão dos fatos apresentadas pelo réu não guarda qualquer verossimilhança, além de restar infirmada pelas provas colhidas na audiência de instrução, de modo que prevalecem, a meu sentir, as informações prestadas pelas testemunhas arroladas pela acusação, notadamente a testemunha Ivan Lopes de Azevedo Filho.
+Transcrevo, a seguir, trecho da sentença contendo compilação dos depoimentos colhidos de duas testemunhas e interrogatório do réu, além do exame dessas provas pelo Magistrado:
+ ..
+Reitero que esta Relatora considerou o acervo probatório suficiente para comprovar que o réu deixou de conduzir suspeito de roubo à delegacia. O suspeito que já "estava na mão", sem qualquer explicação, somente fora preso depois de alguns dias por outros policiais em outro contexto.
+Em relação à motocicleta, diante da informação contida na própria denúncia, não há prova concreta qual teria sido a conduta do réu, tendo surgido suspeita de eventual corrupção, a qual não restou comprovada, já que mesmo diante do fato de que um terceiro indivíduo, com relação próxima ao acusado, chegou a procurar o proprietário da motocicleta, mas este recusou proposta de pagar para ser recuperado o veículo, não restou provado que o réu, ora Apelante, tivesse conhecimento nem fosse beneficiário da referida tratativa.
+Ocorre que em relação ao crime de prevaricação contido na denúncia, mesmo diante da premissa de ausência da condução do preso à delegacia juntamente com a motocicleta subtraída, a responsabilização criminal do agente dependeria de prova do dolo específico de satisfação de sentimento pessoal, aspecto em que esta Relatora, mesmo após detido exame dos autos, concluiu diferentemente do que consta da sentença.
+Ora, não obstante o réu devesse cumprir o dever funcional, cujo descumprimento, por si só, mereceu apuração em sede de Inquérito Policial Militar, a responsabilização criminal dependia de prova do dolo específica, mas esta não fora demonstrada pelo Ministério Público mesmo diante do esforço empregado para atingir tal objetivo.
+Para demonstração do dolo específico do artigo 319 do CPM não se revela suficiente a menção genérica ao suposto sentimento pessoal de desídia, tal qual previsto na denúncia e acolhido na sentença, havendo necessidade de demonstração de alguma característica afetiva em relação à atuação.
+Poder-se-ia cogitar como hipótese de prevaricação eventual liberação de um indivíduo por sentimento de dó do policial para com a pessoa abordada. De igual modo, haveria o dolo específico da infração em comento eventual liberação do indivíduo por eventualmente o policial simpatizar com o suspeito. Ocorre que nada há nestes autos a indicar qualquer sentimento pessoal do réu seja em relação ao suspeito do crime de roubo de motocicleta seja em relação à vítima do roubo.
+Neste caso concreto, não se vislumbrou informação sobre qualquer relação com essas premissas de motivação afetiva, nem, houve, tampouco, prova, tendo sido dito pela testemunha ouvida em juízo desconhecimento da razão pela qual o réu não conduziu autor de roubo da motocicleta à delegacia.
+ ..
+Em síntese, conquanto tenha o réu, ora Apelante, deixado de cumprir o respectivo dever funcional, não restou demonstrado nestes autos o que o moveu, sendo insuficiente para condenação pelo crime de prevaricação previsto no artigo 319 do CPP a informação genérica de sentimento pessoal de desídia, não havendo prova do dolo específico, consoante delineado na fundamentação deste voto, notadamente nas considerações contidas no acórdão lavrado no precedente supramencionado (TJ/SE ACrim 202100313206 - Câmara Criminal - Rel. Juíza Convocada Simone de Oliveira Fraga - DJE 21/10/2022).
+Pela leitura do excerto transcrito, noto que a Corte local, após minuciosa análise do acervo carreado aos autos, concluiu pela insuficiência de provas a indicar o dolo do ora agravado e, por conseguinte, pela ausência de elementos idôneos para lastrear sua condenação.
+Logo, para se entender pela configuração do delito e restabelecer a sentença condenatória, seria necessária a incursão no conjunto fático-probatório, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça. Nesse sentido, mutatis mutandis:
+ ..
+2. A absolvição pretendida, fundada na ausência de provas de autoria e materialidade e na alegação de que a vítima teria criado a situação de privação da liberdade e lesionado a si própria, implica, necessariamente, o reexame de todo o conjunto fático-probatório (Súmula 7/STJ).
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 625.214/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2015, DJe de 30/3/2015.)
+ ..
+A pretensão do agravante de reverter a condenação para que seja absolvido do delito de cárcere privado implicaria necessariamente análise do conjunto probatório, o que é inviável na via eleita, ante o óbice da Súmula 7 do STJ.
+Consoante entendimento desta Corte, o não conhecimento do recurso especial pela alínea "a" do permissivo constitucional, em face da incidência da Súmula 7 do STJ, prejudica o exame do dissídio jurisprudencial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 710.396/ES, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 27/10/2015, DJe de 13/11/2015.)
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
