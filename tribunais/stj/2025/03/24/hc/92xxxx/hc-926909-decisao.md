@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JONATAS PRACHEDES DA ROCHA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Consta dos autos que a Primeira Câmara Criminal do Tribunal de origem proveu agravo de execução penal interposto pelo Ministério Público do Estado do Espírito Santo e, assim, cassou a decisão do Juízo de primeira instância que havia reconhecido ao impetrante o direito ao livramento condicional em relação às penas por crimes comuns.
+A Defensoria Pública do Estado do Espírito Santo alega que a vedação do livramento condicional em relação a todas as condenações do paciente caracterizaria constrangimento ilegal, uma vez que o impedimento somente seria aplicável às condenações por crimes hediondos ou equiparados a estes.
+Por essa razão, pede a concessão da ordem, para reconhecer o direito do paciente ao livramento condicional em relação às penas de condenações por crimes comuns.
+As instâncias inferiores prestaram as informações solicitadas (fls. 85-115, 121-128 e 130-137).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, no caso de conhecimento, opinou pela denegação da ordem (fls. 139-144).
+É o relatório.
+No julgamento de embargos de declaração no Agravo de Execução Penal n. 5005849-63.2023.8.08.0000, a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo proveu o recurso ministerial e reformou a decisão de primeira instância que havia restringido a vedação do livramento condicional do paciente às penas que lhe foram aplicadas em condenação por crime equiparado a hediondo.
+O voto condutor do acórdão impugnado foi fundamentado nos seguintes termos:
+Compulsando os autos verifiquei que, à época da decisão recorrida, o reeducando contava, nas ações em que importam para a elucidação dos fatos, com duas guias de execução:
+a) Processo nº 0027268-41.2012.8.08.0024 (crime de tráfico de drogas - fatos cometidos em 23/07/2012, sentença em 28/06/2015, com trânsito em julgado na data de 07/08/2015).
+b) Processo nº 0031251-43.2015.8.08.0024 (crime de tráfico de drogas - fatos cometidos em 29/09/2015, sentença em 08/03/2016, com trânsito em julgado na data de 06/12/2016).
+Diante de tais elementos, restou inequívoca a reincidência específica de Jonatas em crimes de natureza hedionda, especificamente nos delitos de tráfico de drogas.
+Ocorre que, em consulta ao atestado de pena, pude observar que foi fixada a fração 1/2 (um meio) para fins de concessão de livramento condicional.
+Conforme entendimento exarado por esta Corte e pelo Superior Tribunal de Justiça, a reincidência, por se tratar de condição pessoal do reeducando, deverá recair sobre a totalidade das penas impostas ao apenado, assim como foi permitido o reconhecimento da reincidência pelo juízo da execução (TJ-ES - EP: 00071831920218080024, Relator: ELISABETH LORDES, Data de Julgamento: 16/06/2021, PRIMEIRA CÂMARA CRIMINAL, Data de Publicação: 25/06/2021).
+Ademais, o art. 83 do Código Penal, afirma que, para a concessão do livramento condicional, necessário se faz o preenchimento dos seguintes requisitos:
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+ ..
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir.
+Nessa vertente, verifica-se que a reincidência específica, mencionada no dispositivo legal acima transcrito e ostentada pelo reeducando Jonatas Prachedes Da Rocha, constitui óbice à concessão de livramento condicional (STJ - AgRg no HC: 559112 SP 2020/0020108-3, Relator: Ministro NEFI CORDEIRO, Data de Julgamento: 10/03/2020, T6 - SEXTA TURMA, Data de Publicação: DJe 16/03/2020).
+Assim, entendo que o pleito ministerial deve ser acolhido para vedar, quanto à integralidade da execução, a concessão de livramento condicional ao apenado, em razão da reincidência específica do mesmo em crimes de natureza hedionda, como o tráfico de drogas.
+Diversamente do que alega o impetrante, o entendimento exposto acima guarda consonância com a jurisprudência do Superior Tribunal de Justiça e, portanto, não re presenta nenhuma ilegalidade.
+Com efeito, esta Corte Superior firmou o entendimento de que a reincidência é circunstância que repercute sobre toda a execução penal, o que impede que o paciente se beneficie do livramento condicional por ser reincidente específico no crime de tráfico de drogas, segundo interpretação do art. 83, V, in fine, do CP.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DA REINCIDÊNCIA. CARÁTER PESSOAL DA RECIDIVA. INCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. REINCIDENTE ESPECÍFICO EM CRIME HEDIONDO. VEDAÇÃO AO LIVRAMENTO CONDICIONAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, "a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios". (AgRg no HC n. 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+2. "A Lei n. 13.964/2019, ao alterar as regras da progressão de regime, não revogou o art. 44 da Lei n. 11.343/2006, tácita ou expressamente, pois não enunciou ou regulou o livramento condicional na situação de reincidência específica em crime hediondo, ou outro a ele equiparado. Remanesce intangível a formatação do Código Penal e da Lei de Drogas, visto que não houve conflito de normas, as quais, em verdade, são complementares. O Pacote Anticrime recrudesceu a execução penal na hipótese do art. 112, VI, da LEP, pois a vedação ao benefício do art. 83 do CP passou a alcançar, também, os condenados primários, que cumprem pena pela prática de crime hediondo ou equiparado, com resultado morte" (AgRg no HC 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+3. Agravo regimental desprovido.
+(AgRg no HC n. 815.437/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 11/6/2024, DJe de 14/6/2024, sem grifos no original.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. VEDAÇÃO LEGAL. REINCIDENTE ESPECÍFICO EM CRIME HEDIONDO. ADVENTO DA LEI N. 13.964/2019. REVOGAÇÃO TÁCITA. INOCORRÊNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. RECURSO DESPROVIDO.
+1. É firme a jurisprudência deste Tribunal Superior no sentido de que a Lei n. 13.964/2019 não revogou, tácita ou expressamente, a vedação ao livramento condicional aos condenados reincidentes em crimes hediondos.
+2. Inclusive, o entendimento pacificado por esta Corte é no sentido de que o chamado Pacote Anticrime recrudesceu a hipótese prevista no art. 112, inciso VI, da Lei de Execução Penal, pois a vedação contida no art. 83 do Código Penal foi ampliada para alcançar também os condenados, ainda que primários, que cumprem pena por crime hediondo ou equiparado com resultado morte.
+3. No caso dos autos, sendo o agravante reincidente específico em crime hediondo, não há que se falar em constrangimento ilegal a ser sanado pela via do habeas corpus.
+4. Agravo regimental desprovido, mantida a decisão agravada por seus próprios fundamentos.
+(AgRg no HC n. 822.874/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem.
+Publique-se. Intimem-se.
+ EMENTA
