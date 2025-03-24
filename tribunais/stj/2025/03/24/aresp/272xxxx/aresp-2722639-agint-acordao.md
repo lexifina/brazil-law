@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por BESOURO VEÍCULOS LTDA., LUIZ CARLOS DA SILVA ALBUQUERQUE, ELIANE ALBUQUERQUE DE ARAUJO, CRISTINA MARIA ALBUQUERQUE FERREIRA, LEONARDO SOTER FERREIRA JUNIOR e LUIZ DRUMOND ALBUQUERQUE contra decisão da Presidência desta Corte, que não conheceu do agravo em recurso especial.
+Ação: dissolução parcial de sociedade cumulada com apuração de haveres, em fase de liquidação de sentença por arbitramento, ajuizada por ANOMAR DE SOUZA REZENDE FILHO, representado por WILMA CARNEIRO REZENDE em face dos agravantes.
+Decisão: determinou o rateio dos honorários periciais, intimando as partes para que depositassem suas cotas partes relativas aos honorários periciais.
+Acórdão: deu provimento ao agravo de instrumento interposto pelos agravados para revogar a decisão agravada e determinar que os honorários periciais sejam arcados pelos agravantes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DISSOLUÇÃO PARCIAL DE SOCIEDADE C/C APURAÇÃO DE HAVERES. FASE DE LIQUIDAÇÃO DE SENTENÇA. DECISÃO AGRAVADA QUE DETERMINA RATEIO DOS HONORÁRIOS PERICIAIS. INCONFORMISMO DA PARTE AUTORA. Caso em que, muito embora a sentença tenha determinado a apuração dos haveres do sócio retirante, através de liquidação de sentença por arbitramento, nomeando perito judicial, e que as partes tenham dado início ao incidente, restou firmada no tese no Tema 871 pelo STJ, por ocasião do julgamento do R Esp 1.274.466/SC, submetido ao rito dos recursos repetitivos, segundo a qual, após o trânsito em julgado da sentença, os encargos relacionados à fase de liquidação devem ser imputados à parte que foi derrotada, a fim de se garantir a observância da regra geral que impõe ao vencido o pagamento das despesas processuais. Entendimento adotado pelo STJ de que, para fins de rateio das custas relativas a processo de dissolução parcial de sociedade, deve haver o cumprimento de uma condição específica: manifestação expressa e unânime das partes pela concordância da dissolução. Circunstância que não está presente no presente caso, considerando que a parte agravada, ao contestar a ação, foi contra o pedido de dissolução, havendo, portanto, resistência por parte dos réus, motivo pelo qual não incide a norma disposta no art. 603, caput e § 1º, do CPC. Inaplicáveis as regras dos artigos 82 e 95 do CPC, uma vez extrapolada a fase de conhecimento, e que, com a prolação da sentença, já se sabe que a parte ré é a parte vencida na demanda originária, a qual caberá o custeio da prova pericial. Reforma da decisão que se impõe para revogar a decisão agravada, determinando que os honorários periciais, na apuração de haveres, sejam arcados pelos réus. RECURSO AO QUAL SE DÁ PROVIMENTO. (e-STJ, fls. 32/33)
+Decisão agravada proferida pela Presidência desta Corte: não conheceu do agravo em recurso especial interposto pelos agravantes, em razão da ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: alegam que rebateram todos os óbices apresentados e requerem a reconsideração do decisum.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ, porque os agravantes deixaram de impugnar, especificamente, dois dos fundamentos invocados pelo Tribunal de origem para inadmitir o apelo extremo, quais sejam, a ausência de indicação do ponto omisso, contraditório ou obscuro (Súmula 284/STF) e a inexistência de afronta ao art. 1.022 do CPC.
+Da análise da s razões do agravo em recurso especial, verifica-se que, de fato, não houve a adequada impugnação aos referidos óbices. Deveras, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, o que não ocorreu na espécie.
+Assim, a ausência de impugnação específica e consistente de todos os fundamentos utilizados pelo Tribunal de origem para negar seguimento ao recurso especial importa no não conhecimento do recurso, ante a aplicação da Súmula 182/STJ, como acertadamente asseverou a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo.
