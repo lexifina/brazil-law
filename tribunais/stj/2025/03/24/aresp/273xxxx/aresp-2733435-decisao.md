@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial pelo qual JOSÉ PAULO MARTINS GARCIA se insurgira contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO de fl. 85.
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 200/201):
+"Do primeiro dispositivo se extrai a sistemática legal do IRDR, que dispõe acerca da suspensão dos processos pendentes que versarem sobre questão idêntica à discutida em incidente. Essa suspensão é imperativa, cessando somente na hipótese de não interposição de recurso especial e/ou extraordinário contra a decisão proferida em IRDR.
+Em complemento à lógica legal, o dispositivo transcrito na sequência prevê a suspensão automática dos processos que tratam da matéria objeto do IRDR enquanto não julgados os recursos excepcionais interpostos contra a decisão do incidente. O propósito legal é evitar a pluralidade de atos processuais desnecessários, especialmente de recursos, que ocorreria caso se permitisse o seguimento dos processos pendentes antes do julgamento do apelo excepcional. Isso porque, aqueles inconformados com a tese firmada em IRDR ou pela sua não aplicação serão obrigados a recorrer para evitar a coisa julgada antes do julgamento final do IDPJ.
+Além disso, a suspensão dos processos pendentes até o julgamento dos recursos nos tribunais superiores assegura a uniformização das decisões judiciais em casos análogos, garantindo a segurança jurídica e a isonomia de tratamento dos jurisdicionados."
+A parte adversa apresentou contrarrazões (fls. 224/230 ).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A questão debatida nos autos foi afetada à Primeira Seção do Superior Tribunal de Justiça (STJ) para ser decidida sob o rito de recursos repetitivos (Tema 1.209) e foi assim delimitada:
+"Definição acerca da (in)compatibilidade do Incidente de Desconsideração de Personalidade Jurídica, previsto no art. 133 e seguintes do Código de Processo Civil, com o rito próprio da Execução Fiscal, disciplinado pela Lei n. 6.830/1980 e, sendo compatível, identificação das hipóteses de imprescindibilidade de sua instauração, considerando o fundamento jurídico do pleito de redirecionamento do feito executório" (REsps 2.039.132/SP, 2.13.920/RJ, 2.035.296/SP, 1.971.965/PE e 1.843.631/PE, relator Ministro Francisco Falcão).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
