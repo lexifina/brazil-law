@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o re curso especial interposto por ITAU UNIBANCO S.A, com fundamento na ausência de violação dos arts. 489 e 1022 do CPC.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 489, II e § 1º, IV e VI, e 1.022, II, do CPC, sob o argumento de que "muito embora o acórdão recorrido tenha definido o "adiantamento a depositantes" como atividade de levantamento de informações para a análise da viabilidade de concessão do empréstimo emergencial, não se atentou ao conceito de serviço, que impede a incidência de ISS sobre atividades-meio envolvendo obrigações de dar, mesmo que remuneradas por tarifa" (fl. 684) e que "o acórdão recorrido também não se pronunciou a respeito do argumento apresentado pelo recorrente de que o serviço em questão, na verdade, é prestado em favor do próprio banco. Ou seja: o cliente não é o tomador do serviço, o que descaracteriza a prestação de serviços para fins de incidência do ISS" (fl. 684).
+Em seu agravo, sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "é evidente a nulidade perpetrada pelo TJBA no julgamento dos embargos de declaração, ao se negar a corrigir pronunciamento omisso, que não analisou pontos fundamentais ao deslinde da controvérsia" (fl. 843).
+Assevera, ainda, que a "Corte local deixou de verificar as particularidades da atividade autuada, deixando de realizar o juízo de correspondência entre a rubrica, o conceito de serviço e o fato gerador do imposto. Desse modo, ao fim e ao cabo, o Tribunal a quo incorreu em omissão quanto à natureza da atividade bancária autuada" (fl. 843).
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+Ao decidir a lide, o Tribunal de origem consignou:
+Cumpre ressalvar que o crédito tributário exequendo abrange o período compreendido entre fevereiro de 2011 a janeiro de 2013, conforme Certidão de Dívida Ativa acostada às fls. 02/07 dos autos da Execução Fiscal nº 0759160- 38.2016.8.05.0001. Regulados, portanto, pela Lei Complementar 116/2003, de 31/07/2003, que revogou a Lei Complementar 56/87 que, por sua vez, deu nova redação ao Decreto-Lei nº 406/1968.
+ ..
+Quanto a "Tarifa de Adiantamento a Depositantes", sustenta a instituição bancária que a tarifa é desempenhada exclusivamente para viabilizar a operação de crédito principal, configurada como "atividade-meio, preparatória da operação de crédito, e, assim, não dotada da autonomia necessária para caracterizar a prestação de "serviço" tributável pelo ISS".
+Entretanto, o que se observa é que a rubrica (Tarifa de Adiantamento a Depositantes) encontra correspondência no item 15.08 (Emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito; estudo, análise e avaliação de operações de crédito; emissão, concessão, alteração ou contratação de aval, fiança, anuência e congêneres; serviços relativos a abertura de crédito, para quaisquer fins), por tratar de "levantamento de informações e avaliação de viabilidade e de riscos para a concessão de crédito para cobertura de saldo devedor em conta-corrente de depósitos à vista e de excesso sobre o limite previamente pactuado de cheque especial", segundo definição do Banco Central do Brasil (vide a Circular nº 3.371/2007).
+Logo, trata-se de serviço bancário que possui valor pré-fixado, efetuando o cliente o pagamento de uma tarifa em razão de um ato praticado pelo Banco, e não sobre o capital disponibilizado, afigurando-se legítima a cobrança do ISS por se enquadrar no item 15.08 da referida Lista Anexa de Serviços.
+A negativa de prestação jurisdicional não ficou configurada.
+Ademais, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489 e 1.022 do CPC.
+Isso posto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
