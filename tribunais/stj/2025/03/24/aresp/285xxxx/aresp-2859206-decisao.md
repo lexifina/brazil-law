@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ESTADO DO MARANHÃO à decisão que não admitiu seu Recurso Espe cial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EXTINÇÃO POR ABANDONO. INTIMAÇÃO PESSOAL DA PARTE EXEQUENTE REALIZADA. INÉRCIA EM ATENDER AO COMANDO JUDICIAL. ART. 485, INCISO III DO CPC. OBSERVÂNCIA. EXTINÇÃO. SENTENÇA MANTIDA. 1. A PRIMEIRA SEÇÃO DO COLENDO STJ, NO JULGAMENTO DO RESP 1.120.097/SP, FIRMOU O ENTENDIMENTO DE QUE, NAS EXECUÇÕES FISCAIS NÃO EMBARGADAS, A INÉRCIA DA EXEQUENTE, DIANTE DA INTIMAÇÃO PESSOAL PARA PROMOVER O ANDAMENTO DO FEITO, CONFIGURA ABANDONO DE CAUSA, CABENDO AO JUIZ DETERMINAR A EXTINÇÃO DO PROCESSO EX OFFICIO, SEM JULGAMENTO DE MÉRITO, AFASTANDO A INCIDÊNCIA DA SÚMULA 240/STJ. (RESP N. 1.435.717/RN, RELATOR MINISTRO OG FERNANDES, SEGUNDA TURMA, JULGADO EM 28/11/2017, DJE DE 5/12/2017.) 2. EXPEDIDA INTIMAÇÃO PESSOAL ELETRÔNICA PARA A PARTE EXEQUENTE DAR ANDAMENTO NO FEITO, TENDO A MESMA QUEDADO INERTE, DEVE SER MANTIDA A SENTENÇA EXTINTIVA. 3. APELAÇÃO CONHECIDA E NÃO PROVIDA.
+Quanto à controvérsia, a parte recorrente alega violação do art. 485, § 1º, do CPC, no que concerne à nulidade do acórdão recorrido, porquanto extinguiu o processo sem resolução de mérito, por abandono da causa, sem que tenha determinado a intimação pessoal prévia da recorrente para manifestar interesse no feito, trazendo a seguinte argumentação:
+A sentença de base extinguiu a execução fiscal sem resolução do mérito com fundamento no abandono da causa (CPC 485, III).
+Essa sentença deve ser anulada, porque antes de extinguir o processo com fundamento no abandono da causa, o Juízo de base deveria ter determinado a intimação pessoal do exequente para, no prazo de 05 (cinco) dias, suprir a falta, conforme art. art. 485, § 1º, do CPC/15.
+Dessa forma, diante do transcurso em branco do prazo de 30 dias para exequente impulsionar a execução fiscal, o Juízo de base deveria ter determinado a intimação pessoal do exequente para suprir essa falta, intimação que não foi realizada neste processo
+ ..
+Assim, incabível a extinção do feito sem resolução do mérito com fundamento no abandono da causa antes da intimação pessoal da parte, sob pena de restar violado art. 485, §1º, do CPC/15, razão pela qual a sentença recorrida deve ser anulada, determinando-se o prosseguimento da execução.
+Portanto o decisum impugnado merece reforma. Uma vez que não foi observado o procedimento do art. 485, §1º, do CPC/15 (fls. 89-91).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Quanto à intimação pessoal eletrônica, o STJ tem entendimento consolidado acerca da sua validade quando o ente é credenciado na forma da regulamentação interna do Tribunal (fl. 75).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ademais, o Tribunal a quo se manifestou nos seguintes termos:
+Compulsando os autos, observo que foi expedida intimação eletrônica para a parte autora, conforme se depreende dos expedientes de ID"s 34925042 e 34925045.
+Os expedientes foram direcionados à Procuradoria Geral do Estado do Maranhão, por ato ordinatório, com os seguintes comandos:
+"ID 68937169 - pje1: Intime-se o exequente para se manifestar sobre o teor da certidão de ID 68449105, requerendo o que entender de direito, no prazo de 10 dias.
+ID 80661576 - pje1: Intime-se a Fazenda Pública para manifestar-se nos autos, na forma anteriormente determinada, zelando pelo regular andamento do feito, no prazo de 10 (dez) dias, sob pena de extinção do feito."
+Ressalte, esta última com prazo máximo para manifestação em 13/12/2022 23:59:59.
+Expedida a intimação pessoal, mesmo que eletronicamente, consta o recebimento pessoal pelo representante do Apelante, mesmo com ciência automática, pois a Procuradoria Geral do Estado do Maranhão é cadastrada no sistema de autos eletrônicos.
+Verifica-se, portanto, que no casso "sub examine" merece manutenção a aplicação do art. 485, III, em razão do abandono da causa (fls. 72-73).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
