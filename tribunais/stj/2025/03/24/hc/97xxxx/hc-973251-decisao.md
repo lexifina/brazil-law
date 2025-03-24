@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALEXANDRE FISCHER DA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ nos autos do Recurso em Sentido Estrito n. 0012729-61.2024.8.16.0013.
+Consta dos autos que foi impetrado, perante o Juízo da 12ª Vara Criminal de Curitiba, habeas corpus preventivo em favor do paciente, objetivando salvo-conduto para "compelir que tais autoridades indicadas como coatoras, abstenham-se da prática de atos constritivos da liberdade do paciente, no que tange à apreensão de insumos relacionados com a planta conhecida como essa utilizada por meio de extrato - óleo - para tratamento medicinal" (fl. 36). A ordem foi denegada.
+Inconformada, a defesa interpôs Recurso em Sentido Estrito, que foi desprovido pelo Tribunal de Justiça, nos termos do acórdão assim ementado: (fls. 27/28)
+PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. DECISÃO QUE NEGOU HABEAS CORPUS PREVENTIVO. SALVO- CONDUTO PARA O CULTIVO DE COMCANNABIS SATIVA FINALIDADE TERAPÊUTICA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+I. Caso em Exame Recurso em sentido estrito interposto em face da decisão que negou o salvo- conduto para o cultivo doméstico de lastreado em prescrição Cannabis sativa odontológica de canabidiol para o tratamento de bruxismo.
+II. Questão em discussão
+1. A controvérsia recursal diz respeito à autorização para o cultivo doméstico de trinta e oito plantas de em estágio de floração por mês para aCannabis sativa extração de CBD.
+III. Razões de decidir
+2. Caso concreto distinto dos precedentes envolvendo a concessão do salvo- conduto para o cultivo de aos portadores de outras enfermidades. Cannabis
+3. Impossibilidade de aferição da quantidade de plantas necessárias ao suprimento da prescrição. Plano de cultivo subscrito por profissional sem registro regular junto ao conselho profissional.
+4. Salvo-conduto postulado para conduta penalmente atípica. Pretensão de regularização da produção doméstica existente que deve ser submetida ao órgão de vigilância sanitária ou, subsidiariamente, à jurisdição cível.
+5. Excepcionalidade para a utilização da droga com fins terapêuticos e incapacidade financeira do recorrente para a importação do produto não demonstradas.
+IV. Dispositivo e tese Recurso conhecido e desprovido.
+O impetrante sustenta que o paciente é portador de "CID 10 R52 (Dor Crônica) , F41.2 (Transtorno de Ansiedade Generalizada) e F33.3 (Transtorno Depressivo Recorrente), e para viver com dignidade necessita o paciente do cannabidiol" (fl. 4) e que "consta autorização da ANVISA para importação de medicamento derivado do Canabidiol, laudo e receituário médico diploma do curso de cultivo e laudo agronômicos, a evidenciar a justa causa para concessão de salvo-conduto para o plantio de Cannabis sativa L" (fl. 11).
+Afirma que "há, no caso concreto, vasta documentação médica atestando a necessidade de o tratamento médico dos pacientes ser feito com medicamentos à base de canabidiol, inclusive com relato de expressivas melhoras na condição de saúde deles e esclarecimento de que diversas vias tradicionais de tratamento foram tentadas, mas sem sucesso, circunstância que reforça ser desnecessária a realização de dilação probatória com perícia médica oficial" (fl. 12).
+Aduz ainda que "pela vasta documentação médica anexo, as pretensões do paciente são unicamente com a finalidade medicinal, pois o direito da saúde está previsto tanto na Constituição Federal, quanto na Estadual do Paraná bem como na lei orgânica do município de Curitiba" (fl. 18).
+Requer, liminarmente e no mérito, a concessão de salvo-conduto para assegurar que "as autoridades de segurança pública se abstenham de adotar quaisquer medidas tendentes a cercear a liberdade do paciente, bem como de apreender e destruir as sementes, plantas e insumos destinados à produção do medicamento para uso próprio e medicinal" (fl. 25) e que seja "autorizado o paciente a cultivar 38 plantas de cannabis medicinal em floração mensalmente em sua residência, bem como, o porte e transporte do medicamento, visto que se trata de Direito e Garantia fundamental, além de, garantia do princípio da dignidade da pessoa humana" (fl. 25).
+Indeferida a liminar (fls. 106/107).
+Prestadas as informações pelo Juízo de primeiro grau (fls. 114/115) e pela autoridade coatora (fls. 122/124).
+Parecer do Ministério Público Federal pela denegação da ordem (fls. 136/146).
+É o relatório.
+Decido.
+Verifico que o presente writ constitui mera reiteração do pedido formulado pelo impetrante no HC n. 955442/PR, já tendo este Tribunal Superior se manifestado a esse respeito, com decisão de minha relatoria, publicada no DJe em 30/10/2024 e trânsito em julgado em 11/11/2024.
+E, como se sabe, a reiteração de pedido em habeas corpus já impetrado e julgado inviabiliza o conhecimento do novo writ, conforme precedentes do Superior Tribunal de Justiça, pois configura duplicidade processual sem novos fundamentos, conforme se observa nos seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PENAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. WRIT INDEFERIDO LIMINARMENTE POR SER TRATAR DE REITERAÇÃO DE PEDIDO JÁ APRECIADO POR ESTA CORTE SUPERIOR. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos da Súmula n.º 568/STJ e do art. 255, § 4.º, do RISTJ, é possível que o Ministro Relator decida monocraticamente o recurso especial quando o apelo nobre for inadmissível, estiver prejudicado ou houver entendimento dominante acerca do tema. Além disso, a interposição do agravo regimental devolve ao Órgão Colegiado a matéria recursal, o que torna prejudicada eventual alegação de ofensa ao princípio da colegialidade" (AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 7/2/2019, DJe 1º/3/2019).
+2. Ainda, conforme asseverado na decisão monocrática ora combatida, o pedido feito no presente habeas corpus consiste em reiteração do pedido de desclassificação anteriormente julgado por esta Corte, de modo que do writ não se poderia conhecer em razão de ser repetição do HC n. 813.608/MG.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 870.767/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. REITERAÇÃO DE PEDIDO. IMPETRAÇÃO ANTERIOR JÁ JULGADA. NÃO CONHECIMENTO DO WRIT. AGRAVO DESPROVIDO.
+I. CASO EM EXAME1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, no âmbito da Apelação Criminal n.º 1504076-90.2020 .8.26.0228. O recorrente sustenta, no habeas corpus, tese de abrandamento do regime prisional inicial e de aplicação do princípio da insignificância. Contudo, foi constatado que a pretensão é mera reiteração de pedido já formulado em impetração anterior (HC n.º 878.183/SP), ajuizada pelo mesmo advogado, em favor do mesmo paciente, e contra o mesmo acórdão.
+II . QUESTÃO EM DISCUSSÃO2. Há duas questões em discussão: (i) definir se a reiteração de pedido em habeas corpus anteriormente impetrado torna inviável o conhecimento da nova impetração; e (ii) estabelecer se a Corte pode analisar o pedido relacionado à aplicação do princípio da insignificância, não apreciado no acórdão impugnado.
+III. RAZÕES DE DECIDIR
+3 . A reiteração de pedido em habeas corpus já impetrado e julgado inviabiliza o conhecimento do novo writ, conforme precedentes do Superior Tribunal de Justiça, pois configura duplicidade processual sem novos fundamentos.
+4. A tese remanescente relativa à aplicação do princípio da insignificância não foi apreciada no acórdão impugnado. Logo, o conhecimento do pedido implicaria em indevida supressão de instância, o que não é permitido.
+5. Precedentes mencionam que, em casos de reiteração de pedidos, o recurso deve ser desprovido liminarmente, conforme o art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+IV . AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no HC: 933288 SP 2024/0283561-4, Relator.: Ministra DANIELA TEIXEIRA, Data de Julgamento: 23/10/2024, T5 - QUINTA TURMA, Data de Publicação: DJe 30/10/2024)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. PROCESSUAL PENAL. FURTO QUALIFICADO. PRISÃO PREVENTIVA. CONDENAÇÃO EM REGIME FECHADO. DIREITO DE RECORRER EM LIBERDADE NEGADO. CORTE ESTADUAL NÃO CONHECEU DA TESE. REITERAÇÃO DE ALEGAÇÃO DEDUZIDA EM WRITS ANTERIORES. SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. Compete ao Superior Tribunal de Justiça, na estreita via do habeas corpus - e do recurso que lhe faz as vezes -, apreciar atos oriundos dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais, sendo-lhe vedada a análise per saltum da pretensão defensiva, sob pena de se incorrer em indevida supressão de instância.
+2. No caso, o acórdão impugnado pelo ora agravante não conheceu da tese que alega a ilegitimidade da negativa ao seu direito de recorrer em liberdade, por se tratar de mera reiteração de pedido já deduzido, analisado e rejeitado em outros habeas corpus.
+3. Agravo regimental não provido.
+(AgRg no HC: 888656 SP 2024/0031517-3, Relator.: Ministro OTÁVIO DE ALMEIDA TOLEDO DESEMBARGADOR CONVOCADO DO TJSP, Data de Julgamento: 24/06/2024, T6 - SEXTA TURMA, Data de Publicação: DJe 27/06/2024)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
