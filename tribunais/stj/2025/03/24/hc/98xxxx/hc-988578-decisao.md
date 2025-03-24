@@ -1,0 +1,16 @@
+DECISÃO
+ELITON DE SOUZA SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que indeferiu a comutação de suas penas (Decreto Presidencial n. 11.846/2023), em relação a duas condenações por roubos circunstanciados.
+A defesa sustenta que o crime não deve ser classificado como hediondo, uma vez que o fato ocorreu antes da vigência da Lei 13.964/2019, a qual modificou o rol da Lei 8.072/1990 para incluir o roubo com emprego de arma de fogo e concurso de pessoas.
+Decido.
+Tem razão a impetrante.
+O apenado tem a seguinte condenação:
+- 0064334-12.2011.8.26.0114, condenado a pena de 5 anos e 6 meses de reclusão por infração ao art. 157, § 2º, incisos I, II, ambos todos do Código Penal;
+O roubo praticado pelo reeducando ocorreram em 20/4/2011. No momento do fato, os crimes não era considerado como de natureza hedionda, pois não estava incluídos no rol da Lei n. 8.072/1990. Assim, observada a lei penal vigente à época da infração criminal e a natureza comum dos ilícitos, não se aplica a vedação ao indulto.
+O ilícito em apreço era de natureza comum e não pode ser alcançado pela vedação legal ao indulto/comutação; somente passaram a ser considerados hediondos com a vigência da Lei 13.964/2019, em 24/1/2020. Dessa forma, a lei penal mais gravosa não pode retroagir para prejudicar o condenado e impedir a incidência do Decreto Presidencial 11.846/2023.
+Aplica-se ao caso a compreensão de que, "atendido os demais requisitos legais, não pode ser negado o direito ao indulto ou a comutação das penas ao sentenciado cujos crimes, na época em que foram praticados, não eram considerados hediondos, pois entendimento contrário acarretaria em violação ao princípio da irretroatividade da lei penal mais severa" (HC n. 221.535/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 13/3/2012, DJe de 2/4/2012.)
+Mudando o que deve ser mudado, o "Superior Tribunal de Justiça possui entendimento consolidado de que, não dispondo o Decreto Presidencial de regência de maneira contrária, não é possível indeferir benefícios de comutação ou indulto aos condenados por crimes que passaram a constar do rol de crimes hediondos, praticados antes da entrada em vigor da Lei n. 8.072/90 (Lei de Crimes Hediondos) e da Lei n. 8.930/94" (HC n. 334.923/RJ, relator Ministro Ericson Maranho (Desembargador Convocado do Tj/sp), Sexta Turma, julgado em 3/11/2015, DJe de 19/11/2015).
+Deveras, "não há como indeferir os pleitos de indulto/comutação das penas com base na existência de condenação por crimes  ..  praticados antes da edição da Lei n. 8.930/94, que incluiu os referidos delitos no rol dos crimes hediondos, sob pena de ofensa aos princípios constitucionais da anterioridade, da irretroatividade da lei penal mais gravosa e da legalidade" (HC n. 209.861/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 4/8/2015, DJe de 20/8/2015).
+A decisão proferida pelo Juízo da Vara de Execuções e Contravenções Penais da Comarca de Porto Velho não foi juntada ao habeas corpus, motivo pelo qual não é possível restabelecer o ato judicial.
+À vista do exposto, concedo o habeas corpus, in limine, para restabelecer a decisão de primeiro grau, que concedeu o indulto ao paciente.
+Publique-se e intimem-se.
+EMENTA
