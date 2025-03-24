@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto por DIRCEU ANDRÉ ORTEGA contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - ACIDENTE DE TRÂNSITO - CONDUTOR QUE INVADIU A CONTRAMÃO DE DIREÇÃO -CIRCUNSTÂNCIA DETERMINANTE PARA A OCORRÊNCIA DO EVENTO - VÍTIMA QUE ESTAVA EM ALTA VELOCIDADE - AUSÊNCIA DE PROVA - DANO MATERIAL - LUCROS CESSANTES - DANO MORAL E ESTÉTICO. A responsabilidade civil traduz o dever de reparar o prejuízo em consequência de ofensa causada a um direito alheio, portanto, todo aquele que cause dano a outrem é obrigado a repará-lo (art. 186 e 927, do Código Civil). Evidenciado o fato determinante para o acidente (invasão na contramão de direção) e não tendo a parte demonstrado a alegada alta velocidade do outro condutor, deverá responder integralmente pelos danos. Se o importe necessário ao reparo do veículo sinistrado supera consideravelmente o seu valor de mercado, deve a reparação por dano material ser fixada segundo a tabela FIPE. Provimento em outro sentido implicaria em reconhecer ao lesado mais do que o suficiente para a recomposição do seu patrimônio, em detrimento da regra do art. 944, do Código Civil, que estabelece a mensuração da indenização pela extensão do dano. Demonstrada a incapacidade laborativa da parte, é cabível a apuração dos lucros cessantes em liquidação de sentença. Lesões corporais, ainda que sem sequelas permanentes, ensejam dano moral indenizável. O dano moral deve ser fixado em observância à razoabilidade, proporcionalidade e o grau de culpa do ofensor. O dano estético é devido quando verificada debilidade permanente na vítima.
+Alega o agravante, em breve síntese, que o acórdão recorrido violou os arts. 186, 927, 944 e 950 do Código Civil, bem como os arts. 373, I, 371 e 375 do Código de Processo Civil.
+Sustenta que a valoração das provas dos autos ocorreu de forma equivocada, "eis que embasou a condenação do Recorrente em conjecturas". Defende, ainda, que a parte autora não se desincumbiu do ônus de comprovar quem deu causa ao acidente.
+Subsidiariamente, requer a redução dos valores fixados a título de danos morais e estéticos.
+Contrarrazões apresentadas.
+Assim posta a questão, passo a decidir.
+Cuida-se, no presente caso, de ação de indenização ajuizada por CRISTIANO GUILHERME DOS PASSOS e DIVA FERREIRA DE LIMA em face de DIRCEU ANDRÉ ORTEGA, em virtude da colisão do veículo do réu com a motocicleta em que estavam os autores.
+Em primeiro grau, após a instrução probatória, os pedidos da inicial foram julgados procedentes. O réu foi condenado a pagar (i) R$ 6.413,00 ao autor CRISTIANO, referentes ao conserto do veículo (danos materiais); (ii) R$ 3.105,07 aos autores (solidariedade ativa), referente às despesas médicas (danos materiais); (iii) R$ 15.000,00 ao autor CRISTIANO, a título de indenização por danos morais; (iv) R$ 10.000,00 ao autor CRISTIANO, a título de indenização por danos estéticos; e (v) R$ 30.000,00 ao autor CRISTIANO, a título de indenização por lucros cessantes.
+Quanto à culpa pelo acidente, o magistrado consignou o seguinte:
+A primeira questão controvertida diz respeito justamente à culpa pelo acidente.
+Analisei detidamente os autos e constatei que assiste razão aos autores, pois a culpa pelo acidente, sem nenhuma dúvida, foi do requerido.
+Justifico.
+Os autores seguiam de motocicleta pela Rodovia MG-455, sentido São Paulo. O requerido, conduzindo seu veículo VW-Parati, vinha pela mesma Rodovia, em sentido contrário.
+Porém, o requerido, aparentemente por ter dormido ao volante, invadiu sua contramão de direção e atingiu a motocicleta que era conduzida pelo autor CRISTIANO, estando a autora DIVA na garupa. A testemunha FLÁVIO PEREIRA GUIMARÃES, ouvida em Juízo, devidamente compromissada, declarou que viu o exato momento do acidente, merecendo transcrição o seguinte trecho:
+(a partir de 15min.32seg.)
+JUIZ: O senhor testemunhou esse acidente
+FLÁVIO: Eu estava presente no momento.
+JUIZ: Quando o senhor viu, o acidente já tinha acontecido ou o senhor viu o exato momento que o carro bateu com a moto
+FLÁVIO : Eu estava atrás da Parati (veículo do requerido).. que ela começou a comera faixa eu tava atrás dela, só tava eu.
+ ..
+O depoimento acima foi prestado de maneira muito firme e convincente. A testemunha narrou os fatos com naturalidade, sem nenhum indício de que tenha intenção de prejudicar ou beneficiar quem quer que seja.
+Portanto, trata-se de prova de grande valor.
+É importante destacar que o veículo do requerido (VW-Parati), após o acidente, ficou parado no acostamento de "quem sobe", ou seja, totalmente em sua contramão de direção (fato incontroverso).
+Esse fato, ao contrário do que o requerido tenta fazer parecer, demonstra que quem invadiu a contramão, exatamente como declarado pela testemunha presencial, foi o próprio requerido, e não a motocicleta.
+A alegação de que as marcas de frenagem do veículo do requerido começam ainda em sua mão de direção, além de não estar provada, também não é relevante. Ora, essas supostas marcas podem ser das rodas traseiras, ou seja, as rodas dianteiras já estariam na contramão.
+E a outra alegação de que a testemunha não estava presente no momento do acidente também não encontra nenhum respaldo nos autos. O fato de seu nome não constar do boletim de ocorrência não prova que a testemunha não presenciou o acidente. Inclusive, o Sr. FLÁVIO explicou que assim que ouviu o SAMU chegando, ele foi embora, pois sua esposa e seu filho estavam muito nervosos.
+Além disso, o próprio requerido, mesmo negando a culpa, acabou fornecendo importantes indícios que reforçam a versão dos autores, confirmada pela testemunha acima mencionada.
+ ..  Feita toda essa análise, estabeleço, como permissão básica da presente sentença, que a culpa do acidente foi total e exclusivamente do requerido, o qual invadiu sua contramão e bateu de frente com a motocicleta que era conduzida pelo autor CRISTIANO, estando a requerida DIVA na garupa.
+Interposta apelação, o TJMG deu a ela parcial provimento, a fim de (i) reduzir a indenização pelos danos materiais decorrentes do reparo com a motocicleta do autor CRISTIANO para R$ 4.162,00, valor referente à Tabela FIPE do bem; e (ii) determinar a apuração do valor referente aos lucros cessantes em liquidação de sentença.
+Em embargos de declaração, a Câmara Julgadora estabeleceu o limite de R$ 30.000,00 para a apuração dos lucros cessantes em sede de liquidação de sentença, caso efetivamente demonstrado prejuízo em quantia superior, por força do princípio da vedação da reforma para pior (non reformation in pejus).
+Feita essa breve contextualização, verifico que o recurso não merece ser provido.
+No caso ora em exame, as instâncias de origem, após a oitiva de testemunhas e análise dos demais elementos fático-probatórios dos autos, consignaram que a responsabilidade pelo acidente ocorrido foi do réu, ora agravante, que "invadiu sua contramão e bateu de frente com a motocicleta".
+A alteração das premissas estabelecidas pelas decisões das instâncias de origem, tal como pretende o agravante, implicaria necessariamente o reexame fático-probatório, o que é vedado na via do recurso especial, por força da Súmula 7/STJ.
+Ressalte-se que a errônea valoração da prova que pode dar ensejo ao recurso especial é aquela de direito, ou seja, quando há equívoco ou má aplicação de norma jurídica pertencente ao ca mpo probatório, o que não se confunde com as conclusões alcançadas pelo Tribunal local no exame dos elementos informativos do processo.
+Quanto à quantia fixada a título de indenização por danos morais e estéticos, destaco que a jurisprudência deste Tribunal somente admite que essa seja reexaminada, em recurso especial, quando manifestamente irrisória ou exagerada.
+Não é esse o caso dos autos.
+Na hipótese dos autos, a indenização por danos morais e estéticos foi assim fundamentada na origem:
+Quanto aos danos morais, não há dúvidas de que os autores sofreram sérios abalos psíquicos em virtude do acidente automobilístico causado por culpa do requerido.
+Ambos os autores sofreram lesões graves e se submeteram a tratamento médico por tempo considerável (sem contar o período de internação hospitalar), o que impossibilitou que exercessem sua atividade laboral. Portanto, é inegável o abalo moral causado aos autores.
+Além disso, após a internação hospitalar, o autor ficou mais de um ano afastado de seu trabalho para que pudesse se reestabelecer fisicamente sem, contudo, a possibilidade de se recuperar integralmente, uma vez que o acidente deixou graves sequelas.
+Assim, por óbvio, tais fatos não podem ser considerados como meros aborrecimentos e devem ser indenizados pelo requerido, na proporção de seus danos.
+Os danos estéticos, por sua vez, estão relacionados diretamente com as sequelas físicas de um acidente, com modificação física externa, permanente ou não. O autor, conforme explanado anteriormente, sofreu lesões de natureza grave, as quais deixaram sequelas.
+Conforme analisado por ocasião da inspeção judicial, o autor possui diversas cicatrizes, além da dificuldade de andar normalmente, precisando do auxílio de uma bengala, pois uma de suas pernas ficou mais curta que a outra.
+Com base na situação de fato descrita pelas instâncias de origem, nota-se que a verba indenizatória arbitrada na origem (15.000,00 por danos morais e R$ 10.000,00 por danos estéticos) não se mostra exorbitante para justificar a excepcional intervenção desta Corte Superior.
+Sobre o tema, vide AgInt no AREsp n. 2.328.122/SP, de minha relatoria, Quarta Turma, julgado em 20/11/2023, DJe de 24/11/2023 e AgInt no AREsp n. 1.520.386/MA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 17/2/2020, DJe de 20/2/2020.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da justiça gratuita.
+Intimem-se.
+EMENTA
