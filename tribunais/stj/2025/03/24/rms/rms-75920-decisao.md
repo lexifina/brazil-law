@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Paulo Sergio Carvalho, Simone Lazzeris Carvalho, Joao Paulo Lazzeris Carvalho e S Lazzeris Carvalho Ltda contra o acórdão do Tribunal Regional Federal da 1ª Região no Agravo Interno em Mandado de Segurança n. 1030699-49.2024.4.01.0000.
+Eis a ementa do julgado (fls. 1.270/1.271):
+PROCESSO PENAL. AGRAVO INTERNO. MANDADO DE SEGURANÇA. DECISÃO JUDICIAL PASSÍVEL DE RECURSO. EXCEPCIONALIDADE. NÃO DEMONSTRAÇÃO.
+1.Origina-se o recurso de decisão monocrática que indeferiu a petição inicial de mandado de segurança que impugna decisão judicial passível de recurso (sequestro).
+2.Cuidando-se de decisão com via recursal prevista em lei (CPP art. 593, II - apelação), a admissão de mandado de segurança em casos como o ora sub examine se dá com a nota da excepcionalidade, uma vez demonstrado tratar-se de decisão flagrantemente ilegal. Precedentes do STJ e desta Corte.
+3. Não se vislumbrando ilegalidade flagrante no ato apontado coator, por se tratar de decisão fundamentada, a qual se sustenta em provas obtidas pela Autoridade Policial, as quais apontam a participação dos Impetrantes em ações que ocasionaram os danos apontados, é força reconhecer, destarte, estar configurada hipótese de indeferimento da inicial, ex vi dos arts. 10, caput e 5º, III, da Lei nº 12.016/2009.
+4. Afigura-se inadmissível escolha da via mandamental quando a argumentação do impetrante se refere, sumamente, a temas que se distanciam da cognição estreitíssima do mandado de segurança, cuja prova deve ser pré-constituída, sem discussão de matéria fática (a matéria deve ser, patentemente, de direito).
+5. Agravo interno a que se nega provimento.
+Os recorrentes afirmam que a decisão do Juízo de primeiro grau que deferiu medidas cautelares de constrição patrimonial em seu desfavor está fundamentada em elementos frágeis, insustentáveis, e que necessita de maior instrução probatória para gerar suficientes indícios de autoria e materialidade (fl. 1.285).
+Sustentam que a controvérsia posta no presente recurso ordinário centra-se em saber se houve violação a direito líquido e certo pela decisão que determinou o bloqueio do cadastro ambiental rural do único imóvel dos recorrentes sem qualquer nexo de causalidade com o possível dano ambiental (fl. 1.286).
+Alegam que o único pedido é que este Superior Tribunal permita que eles exerçam sua atividade principal de agricultores (fl. 1.286), aduzindo que isso em nada prejudicará o processo (fl. 1.286), pois a área produtiva dos impetrantes não possui qualquer vínculo com a área pertencente ao Sr. Manuel, objeto de investigação (fls. 1.286/1.287).
+Dizem que a ordem de suspensão do cadastro ambiental rural da principal propriedade rural dos impetrantes  ..  condena de morte toda a família (fl. 1.287).
+Defendem que a via mandamental não se afigura apenas a recomendável, mas a única que se revela útil e adequada ao propósito perseguido de restabelecer o direito líquido e certo dos impetrantes em exercerem suas atividades (fl. 1.288).
+Requerem, assim (fl. 1.289):
+a) a concessão de tutela antecipada recursal para para determinar o efeito suspensivo ativo ao recurso ordinário, concedendo a segurança para garantir a baixa da suspensão do cadastro ambiental rural da fazenda barra bonita de propriedade dos impetrantes até julgamento do mérito do presente Recurso Ordinário;
+b) ao final, que seja conhecido e provido o presente Recurso para conceder a segurança com vistas a anular a decisão impugnada a fim de que o Desembargador Relator aprecie a nulidade suscitada.
+É o relatório.
+A insurgência é manifestamente descabida.
+De acordo com a jurisprudência desta Corte, o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal ou teratológico e não houver instrumentos recursais próprios da via ordinária, previstos na legislação processual, de modo a impedir lesão ou ameaça de lesão a direito líquido e certo, cuja comprovação dispensa instrução probatória.
+No caso, contra a decisão que indefere a restituição de valores bloqueados, o instituto processual cabível, pelo réu, é a apelação .
+Nesse sentido:
+PROCESSUAL PENAL. RECURSO ESPECIAL. OPERAÇÃO ZELOTES. PEDIDO DE RESTITUIÇÃO DE VALORES BLOQUEADOS. MANDADO DE SEGURANÇA. INADMISSIBILIDADE. DECISÃO PASSÍVEL DE RECURSO DE APELAÇÃO. ART. 593, II, DO CPP. SÚMULA 267/STF. RECURSO PROVIDO.
+1. Não é admissível a impetração de mandado de segurança contra ato jurisdicional que defere o bloqueio de bens e valores, por se tratar de decisão definitiva que, apesar de não julgar o mérito da ação, coloca fim ao procedimento incidente.
+2. É incabível o conhecimento de mandado de segurança impetrado contra decisão que indefere o pleito de restituição dos bens sequestrados, porquanto é cabível a interposição de apelação, consoante previsto no art. 593, II, do Código de Processo Penal, o que atrai a incidência da Súmula n. 267 do Supremo Tribunal Federal, mormente diante da necessidade de dilação probatória para a apreciação do pedido (AgInt no RMS 53.637/PE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+3. Recurso especial provido para restabelecer a decisão que decretou o sequestro/bloqueio em desfavor dos recorridos até o julgamento da apelação pelo Tribunal de origem.
+(REsp n. 1.719.845/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 21/8/2018, DJe de 3/9/2018 - grifo nosso)
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO QUE INDEFERIU RESTITUIÇÃO DE VALORES APREENDIDOS. OPERAÇÃO MONTE CARLO. INDÍCIOS DE ORIGEM ILÍCITA DA VERBA. AÇÃO MANDAMENTAL. VIA INADEQUADA. SÚMULA 267 DO STF. AUSÊNCIA DE ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. RECURSO NÃO PROVIDO.
+1. O mandado de segurança não é o meio processual idôneo para desconstituir decisão que indeferiu pedido de restituição de bem apreendido. Nesse sentido: "As Turmas que compõem a 3ª Seção desta Corte vêm reputando descabida a utilização do mandado de segurança como forma de impugnar decisões judiciais proferidas em medidas cautelares de natureza penal (sequestro de bens, intervenção judicial em pessoa jurídica, quebra de sigilo bancário etc.), ante a proibição de manejo do mandado de segurança como substituto recursal - óbices do art. 5º, II, da Lei n. 12.016/2009 e do enunciado n. 267 do STF: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição". (RMS 44.807/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/8/2016, DJe 26/8/2016).
+2. Como na espécie foi inadmitida a apelação, caberia à parte interessada manejar recurso em sentido estrito (art. 581, XVI, do Código de Processo Penal), em vez de impetrar diretamente o mandamus.
+3. Apenas em hipóteses excepcionais, quando demonstrada, de modo claro e indiscutível, a ilegalidade no ato judicial impugnado - o que não ocorre no caso dos autos -, esta Corte tem abrandado referido posicionamento.
+4. A restituição das coisas apreendidas, mesmo após o trânsito em julgado da ação penal, está condicionada tanto à ausência de dúvida de que o requerente é seu legítimo proprietário, quanto à licitude de sua origem, conforme as exigências postas nos arts. 120 e 121 do CPP, c/c o art. 91, II, do Código Penal.
+5. Na hipótese dos autos, constatou-se que o indeferimento do pedido de restituição decorreu em razão de se tratar de bens que constituem instrumentos, produtos diretos e proveito do crime.
+6. Recurso ordinário em mandado de segurança a que se nega provimento.
+(RMS n. 32.644/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2017, DJe de 22/9/2017 - grifo nosso)
+Assim, incide à espécie o óbice da Súmula 267/STF: não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Nesse contexto, o pedido de suspensão do bloqueio do cadastro rural nem sequer foi enfrentado pelo Tribunal a quo, de maneira que a apreciação do tema, nesta oportunidade, implicaria indevida supressão de instância.
+Pelo exposto, não conheço do recurso em mandado de segurança.
+Publique -se.
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. BLOQUEIO DE BENS E VALORES. PRETENSÃO DE REVOGAÇÃO DA MEDIDA. WRIT IMPETRADO COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO DA VIA MANDAMENTAL. SÚMULA 267/STF. SUPRESSÃO DE INSTÂNCIA.
+Recurso ordinário em mandado de segurança não conhecido.
