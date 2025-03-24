@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fls. 1195-1196):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ARTS. 108 E 110 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARTS. 3º, CAPUT, 7º, INC. II, 8º, §1º, E 11 DA LEI 7713/88; 108, 110 E 111 DO CTN; 14 DA LEI 6015/73. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Os agravantes alegam que uma questão apresentada no agravo em recurso especial não foi observada na decisão ora agravada (chamamento do feito à ordem, devido à existência de preliminar de nulidade), pois "Quando interposto o Agravo em Recurso Especial, em sede de preliminar, apontou-se nulidade da decisão alvo daquele recurso, uma vez que teria sido proferida sem fundamentação." (fl. 1215). Assim, o vício deve ser sanado.
+Sustentam que "(..), a r. decisão não seguiu a melhor técnica jurídica, pois a necessidade de alegar a violação ao artigo 1.022 do Código de Processo Civil, após a interposição de embargos de declaração com fins prequestionadores, vai no sentido contrário aos novos entendimentos jurisprudenciais e doutrinários. Em resumo, prequestionamento por meio de embargos de declaração é conhecido na doutrina e jurisprudência como "ficto", conforme previsto no artigo 1.025 do Código de Processo Civil. (..) Nesse contexto, observa-se que a exigência de alegar as violações aos artigos que regulam os embargos de declaração após a interposição dos aclaratórios com fins prequestionadores é arbitrária." (fls. 1220-1221). Tratam do AgInt no AREsp 1935622/SP, alegando que a mesma orientação deve ser adotada no caso concreto.
+Defendem a inaplicabilidade da Súmula 283/STF porque impugnaram o fundamento do acórdão recorrido tido na decisão agravada por não combatido, ao que mencionam trechos do seu recurso a fim de atestar que "(..), sustentou-se no Recurso Especial que restou demonstrada a violação aos artigos 3º, caput, 8º, §1º, e 11, todos da Lei nº 7.713/88 c/c o artigo 14 da Lei nº 6.015/73 c/c o artigo 108 da Lei nº 5.172/66 (CTN), porquanto, contrário ao mencionado no v. acórdão, os repasses se amoldam à definição de emolumentos (lato senso) e, com base em tais dispositivos, devem se sujeitar ao recolhimento do Imposto de Renda mediante Carnê- Leão Mensal, e também violação aos artigos 110 e 111 do CTN, afastando-se o trecho que visa dar interpretação restritiva ao art. 11 da Lei nº 7.713/88, para, assim, reconhecer que a sujeição dos repasses à sistemática que admite a dedução de despesas, reafirmando-se a ilegalidade de sua sujeição ao IRRF." (fl. 1225).
+Finalmente, afirmam que "(..), ao contrário do que foi decidido, os arts. 3º, caput, 7º, inciso II, 8º, §1º, e 11 da Lei nº 7.713/88, bem como os arts. 108, 110 e 111 do Código Tributário Nacional (CTN) e o art. 14 da Lei nº 6.015/73, estão diretamente relacionados à temática recursal, ao tratar da possibilidade de recolhimento do Imposto de Renda mediante Carnê- Leão Mensal. Dessa forma, afasta-se o fundamento da r. decisão agravada, permitindo o prosseguimento e julgamento do Recurso Especial interposto" (fl. 1231).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+3. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+4. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Quanto à aventada omissão acerca do pedido de chamamento do feito à ordem, devido à existência de preliminar de nulidade na decisão de inadmissibilidade do recurso especial, esclarece-se que não se verificou qualquer vício na mencionada decisão, que fundamentadamente inadmitiu o apelo nobre, não havendo falar em "decisão padronizada", como argumentaram os agravantes.
+De fato, conquanto de forma sucinta, a decisão registrou que a parte apenas reiterou, no seu recurso especial, os argumentos da sua apelação, sem atentar para a impugnação objetiva e específica acerca de como se teria dado a violação dos dispositivos apontados, o que é descabido em conformidade com a jurisprudência desta Corte Superior. E ainda acrescentou que a revisão pretendida do acórdão recorrido encontraria óbice na Súmula 7/STJ.
+À fl. 1056 os agravantes acusam a nulidade do decisum porque "(..) não especifica o motivo pelo qual não haveria violação aos dispositivos legais abordados no Recurso Especial, além de se limitar a dizer que as "revisitar  a  conclusão pressupõe revolvimento do acervo fático-probatório", sendo que se trata de matéria puramente de direito.".
+Ora, para além de não ser cabível, no juízo prévio de admissibilidade, analisar eventual ofensa ou não aos artigos de mérito eventualmente indicados no recurso especial, o fato de a parte considerar que a discussão proposta é meramente de direito não conduz à nulidade da decisão que entendeu de forma contrária.
+Nesse contexto, repisa-se que esta relatoria não verificou qualquer vício na questionada decisão, e, assim, deixou de atender ao pedido de sua nulidade, passando a analisar não apenas o agravo em recurso especial como, observada a devida impugnação aos fundamentos da decisão obstativa , o próprio recurso especial.
+Veja-se que "A decisão de admissibilidade proferida pelo Tribunal local não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, sendo o STJ competente para nova análise dos pressupostos recursais" (AgInt no REsp 1.948.071/MA, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 30/3/2022).
+Pois bem.
+Isso esclarecido, os agravantes sustentam não ser hipótese para a aplicação do enunciado da Súmula 211/STJ.
+Ocorre que o prequestionamento é requisito previsto no inc. III do art. 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se pronunciou a respeito dos arts. 108 e 110 do CTN (ou das teses a eles vinculadas), não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+Sobre o ponto, impõe-se repisar, como já assentado na decisão ora agravada, que não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pelos recorrentes.
+Tal como dito, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+Nesse sentido, naquilo que aqui interessa, os seguintes e atuais precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO, AÇÃO DE RESSARCIMENTO AO ERÁRIO. ARQUITETO DEMITIDO A BEM DO SERVIÇO PÚBLICO, UMA VEZ QUE DESCUMPRIU O REGIME DE DEDICAÇÃO PROFISSIONAL EXCLUSIVA. RDPE. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CÓDIGO FUX. NÃO APLICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - (..)
+II - No que diz respeito ao art. 6º da LINDB; ao art. 14, § 3º, ao art. 15, e ao art. 17, § 6º e § 11, da Lei n. 8.429/1992, vinculados às teses irretroatividade da Lei de Improbidade Administrativa e de desrespeito a procedimento específico próprio do regime jurídico de improbidade, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão.
+III - Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+IV - A falta de exame de questão constante de normativo legal apontado pelo recorrente, nos embargos de declaração, não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+V - In casu, não há falar em prequestionamento ficto, previsão do art. 1.025 do CPC/2015, isso porque, em conformidade com a jurisprudência do STJ, para sua incidência deve a parte ter alegado, devidamente em suas razões recursais, ofensa ao art. 1022 do CPC/2015, de modo a permitir sanar eventual omissão por meio de novo julgamento dos embargos de declaração, ou a análise da matéria tida por omissa diretamente por esta Corte. Tal não se verificou no presente feito.
+VI - (..)
+VII - (..)
+VIII - (..)
+IX - (..)
+X - (..)
+XI - (..)
+XII - (..)
+XIII - Agravo interno improvido.
+(AgInt no AREsp 1.985.699/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJEN de 23/12/2024)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CITAÇÃO GERAL DE ARTIGOS. DEFICIÊNCIA TÉCNICA. PREQUESTIONAMENTO. INEXISTÊNCIA. FUNDAMENTO AUTÔNOMO. IMPUGNAÇÃO. AUSÊNCIA.
+1. (..)
+2. A jurisprudência do Tribunal Superior firmou-se no sentido de que o reconhecimento do prequestionamento ficto previsto no art. 1025 do CPC/2015 pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite, nas razões do recurso especial, violação do art. 1022 do CPC/2015, por negativa de prestação jurisdicional, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Precedentes.
+3. No caso, consta do apelo especial apenas a expressão, "embora a inaplicabilidade desses dispositivos legais não tenha sido objeto do v. acórdão recorrido", excerto que evidentemente não atende minimamente a necessidade técnica de indicação precisa de violação do supracitado art. (1.022, II do CPC).
+4. (..)
+5. (..)
+6. Agravo interno desprovido.
+(AgInt no REsp 1.863.790/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 23/8/2024)
+Outrossim, oportuno ainda salientar que razão não assiste aos agravantes no tocante ao precedente indicado neste agravo interno (AgInt no AREsp 1935622/SP), o qual representaria uma alegada superação do entendimento jurisprudencial acima referido acerca do prequestionamento ficto.
+Com efeito, no AgInt no AREsp 1935622/SP tratou-se da "Superação do óbice contido na Súmula n. 284/STF, mitigado o rigor processual e assentada a cognoscibilidade do Recurso Especial quando a alegação de violação ao art. 1.022 do CPC/2015 vier desacompanhada da indicação do(s) inciso(s) correspondente(s), desde que, inequivocamente demonstrado, nas razões recursais, de qual(ais) vício(s) integrativo(s) padeceria o provimento jurisdicional recorrido e sua importância para a solução da controvérsia." (grifa-se), sendo clara e evidente a distinção da hipótese com a ora examinada (ocorrência ou não de prequestionamento ficto, considerando a ausência de indicação de ofensa ao art. 1022 do CPC/2015).
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Os agravantes sustentam também não ser hipótese para a aplicação do enunciado da Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a seguinte fundamentação contida no acórdão recorrido (fl. 688):
+"A metodologia adotada para o recolhimento do tributo, por sua vez, não traz nenhum benefício econômico substancial ao destinatário.
+Isso porque o pagamento mensal do Imposto de Renda Pessoa Física - IRPF se trata de mera antecipação. Realmente, os valores pagos ao longo do ano deverão ser abatidos da base de cálculo, para fins de apuração do tributo devido e, caso haja excesso, ele será restituído devidamente atualizado, após o processamento da Declaração de Ajuste Anual - DAA."
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Os agravantes sustentam, por fim, não ser hipótese para a aplicação do enunciado da Súmula 284/STF.
+Ocorre que o recurso especial contém alegações, no que diz respeito a suposta violação dos arts. 3º, caput, 7º, inc. II, 8º, §1º, e 11 da Lei 7713/88; 108, 110 e 111 do CTN; 14 da Lei 6015/73, que não têm em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
