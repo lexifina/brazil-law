@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 649):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do que dispõem os arts.
+932, inc. III, do CPC/2015 e 253, parágrafo único, inc. I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+O embargante sustenta que o acórdão contém o seguinte vício: a) erro material. Afirma que o julgado se pautou em elementos que não correspondem ao caso em concreto, pois "(..) a decisão recorrida afirmou a consonância do entendimento fixado pela decisão com o entendimento do STJ, sob o fundamento de que a empresa comerciante varejista de combustível, contribuinte de fato, não tem legitimidade ativa para pleitear a exclusão do ICMS-ST da base de cálculo do PIS e da COFINS. Todavia, no agravo interno interposto, a Embargante esclareceu que ao analisar o sistema das contribuições ao PIS e a COFINS, abordou expressamente em seu agravo em recurso especial sobre a legitimidade ativa para o pleito, demonstrando que a decisão recorrida não se encontra em consonância com o entendimento exarado pelo Superior Tribunal de Justiça, colacionando, inclusive trechos do agravo em recurso especial que comprovam referida impugnação." (fl. 663). Argumenta que "Assim, apesar de não abrir capítulo específico para tanto, é certo que a Embargante impugnou os argumentos da decisão recorrida, não havendo que se falar em violação ao princípio da dialeticidade e a Súmula 182 do STJ." (fl. 665).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado resolveu a controvérsia ao assentar que tendo a decisão de não admissão do recurso especial sido respaldada nos fundamentos da consonância do acórdão recorrido com a jurisprudência do STJ e da incidência da Súmula 7/STJ, a parte então agravante deixou de impugnar, como de mister, a referida fundamentação.
+E xplicitou que ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Explicitou também que quanto ao fundamento da consonância do acórdão recorrido com o entendimento desta Corte, para que seja considerado combatido a contento, é preciso que a parte desenvolva uma argumentação demonstrando a inaplicabilidade ao caso do referido entendimento e, concomitantemente, colacione julgados do STJ - atuais - em sentido contrário ao do acórdão recorrido, é dizer, no mesmo sentido da tese defendida no recurso especial cuja ascensão é buscada.
+Por fim, quanto à Súmula 7/STJ, explicitou que se exige da parte que ela desenvolva uma argumentação demonstrando a desnecessidade de revolvimento do conjunto fático-probatório dos autos, seja porque a questão é meramente de interpretação jurídica - e aí deve comprovar tal circunstância, não apenas alega-la -, seja porque os fatos e provas necessários à adequada solução da controvérsia já tenham sido devidamente delineados no julgado recorrido - e aí deve transcrever os trechos do julgado em que constem tais fatos e provas e conectá-los à violação legal apontada, comprovando, assim, que não é preciso para a solução do caso rever, nesta Corte Superior, aquele conjunto.
+Na espécie, nenhuma das providências foi observada, daí advindo o não conhecimento do agravo em recurso especial e a negativa de provimento ao agravo interno interposto nesta Corte.
+Frisa-se, por oportuno, que a jurisprudência do STJ é firme no sentido de que "Ocorre erro material quando há mero equívoco relacionado à grafia ou a cálculos consignados nos autos, o que não se confunde com discordância acerca dos critérios de cálculo a serem utilizados na fixação do quantum debeatur, tais como incidência de expurgos inflacionários, de índices de correção monetária e de juros." (REsp 702.073/PB, Rel. Min. João Otávio de Noronha, 2ª Turma, DJ de 3/82006). Mutatis mutandi, isso quer dizer que o erro material é aquele equívoco singelo, verificável de plano, que diz respeito a aspecto fático mencionado na decisão em desacordo com a realidade dos autos, não se confundindo com a mera discordância da parte com os fundamentos da decisão recorrida. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. ERRO MATERIAL. INEXISTÊNCIA. REDISCUSSÃO. PRETENSÃO DE REEXAME. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+2. O erro material sanável na via dos embargos de declaração é aquele conhecível de plano, isto é, sem que sejam necessárias deliberações acerca dos elementos dos autos e que dizem respeito a incorreções internas do próprio julgado.
+3. No caso dos autos, o suposto erro material diz respeito a incorreção, em tese, do próprio conteúdo da decisão, configurando inconformismo da parte com a conclusão a que chegou o órgão julgador.
+4. Não havendo omissão, obscuridade, contradição ou erro material, devem ser rejeitados os embargos declaratórios interpostos com o propósito infringente.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 2.006.905/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 17/10/2022)
+Nesse contexto, não há falar no vício indicado nos presentes embargos.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
