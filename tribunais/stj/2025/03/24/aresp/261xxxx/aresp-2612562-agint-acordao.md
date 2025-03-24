@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO INTERLOCUTÓRIA. REJEIÇÃO DAS PRELIMINARES DE ILEGITIMIDADE DO EXEQUENTE E IMPOSSIBILIDADE DO PEDIDO. IRRECORRIBILIDADE IMEDIATA. SÚMULA 568/STJ. DECISÃO MONOCRÁTICA RECONSIDERADA.
+1. Ação de embargos à execução.
+2. Dado que natureza jurídica dos embargos à execução é, conforme remansosa doutrina e jurisprudência, de ação de conhecimento incidental, a ele se aplica a regra de recorribilidade das interlocutórias prevista no art. 1.015, caput e incisos, não havendo justificativa lógica ou teórica para equiparar os embargos à execução ao processo de execução, na medida em que nessa ação de conhecimento incidental se resolverá em sentença, de modo que a maioria das questões incidentes - como a legalidade ou não da emenda à inicial dos embargos à execução - poderá, em princípio, ser suscitada na apelação ou em suas contrarrazões.
+3. Decisão monocrática reconsiderada. Agravo conhecido. Recurso especial conhecido e provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Em virtude das razões apresentadas no agravo de fls. 935/946 (e-STJ), reconsidero a decisão de fls. 928/931 (e-STJ) e passo a novo exame do agravo em recurso especial interposto por CRISTIANE MENDES DE SOUSA OLIVEIRA, JOEL DE PAIVA OLIVEIRA e MARIA CONCEICAO NUNES DE FREITAS OLIVEIRA contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: embargos à execução opostos pelos agravantes em face de ELIEL DE PAIVA OLIVEIRA.
+Sentença: julgou improcedentes os embargos.
+Acórdão: conheceu parcialmente da apelação interposta pelos agravantes e, na extensão, negou-lhe provimento, nos termos da seguinte ementa (e-STJ, fls. 603):
+EMENTA: APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - PRELIMINARES REJEITADAS NO DESPACHO SANEADOR - PRECLUSÃO - NULIDADE DA SENTENÇA - PRINCÍPIO DA CONGRUÊNCIA - PRELIMINAR AFASTADA - OBRIGAÇÃO CONTRATUAL - ÔNUS DA PROVA - NÃO DESINCUMBÊNCIA - REJEIÇÃO DOS EMBARGOS. 1. Se questão preliminar debatida foi analisada e rejeitada por intermédio do despacho saneador, contra o qual a parte apelante não se insurgiu a tempo e modo, incidem os efeitos da preclusão consumativa. 2. Em harmonia com as garantias constitucionais do contraditório e da ampla defesa, o princípio da congruência, previsto nos art. 141 e 492 do CPC, impede o julgamento fora (decisão extra petita), além (decisão ultra petita) ou aquém (decisão citra petita) do pedido deduzido na petição inicial. Em sendo a lide decidida nos limites postulados, impõe-se a rejeição da preliminar de nulidade por ofensa ao princípio da congruência. 3. Não se desincumbindo os executados/embargantes de seu ônus de demonstrar o cumprimento da obrigação executada, a rejeição dos embargos à execução é medida que se impõe.
+Embargos de declaração: nã o foram opostos.
+Recurso Especial: alegaram violação dos arts. 1.009, §1º, e 1.015, ambos do CPC, no que se refere à irrecorribilidade imediata da decisão interlocutória. Violação dos arts. 783, 786 e 803, do CPC, quanto à alegada perda do objeto da execução. Por fim, violação do art. 492 do CPC, pela nulidade da sentença.
+Agravo interno: Sustentam os agravantes que a decisão recorrida partiu de premissa equivocada, tendo em vista que a decisão interlocutória foi proferida em embargos à execução, procedimento que ostenta natureza de ação de conhecimento e que não é alcançado pela regra do art. 1.015, parágrafo único, do CPC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO INTERLOCUTÓRIA. REJEIÇÃO DAS PRELIMINARES DE ILEGITIMIDADE DO EXEQUENTE E IMPOSSIBILIDADE DO PEDIDO. IRRECORRIBILIDADE IMEDIATA. SÚMULA 568/STJ. DECISÃO MONOCRÁTICA RECONSIDERADA.
+1. Ação de embargos à execução.
+2. Dado que natureza jurídica dos embargos à execução é, conforme remansosa doutrina e jurisprudência, de ação de conhecimento incidental, a ele se aplica a regra de recorribilidade das interlocutórias prevista no art. 1.015, caput e incisos, não havendo justificativa lógica ou teórica para equiparar os embargos à execução ao processo de execução, na medida em que nessa ação de conhecimento incidental se resolverá em sentença, de modo que a maioria das questões incidentes - como a legalidade ou não da emenda à inicial dos embargos à execução - poderá, em princípio, ser suscitada na apelação ou em suas contrarrazões.
+3. Decisão monocrática reconsiderada. Agravo conhecido. Recurso especial conhecido e provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+No caso, o TJ/MG conheceu parcialmente da apelação interposta pelos agravantes, sob o fundamento de que as preliminares de ilegitimidade ativa do exequente e impossibilidade jurídica do pedido foram rejeitadas por decisão interlocutória preclusa, por não ter sido impugnada a tempo e modo devidos.
+Assim, entendeu pelo não cabimento da apelação sobre tais pontos.
+- Da irrecorribilidade imediata de decisão interlocutória proferida em embargos à execução (Súmula 568/STJ)
+O TJ/MG, ao reconhecer - em processo de embargos à execução - a preclusão das questões referentes à ilegitimidade ativa do exequente e de impossibilidade de cumprimento da obrigação de fazer, por terem sido rechaçadas por decisão proferida na origem e não impugnada oportunamente, não observou a jurisprudência deste STJ no sentido de que a natureza jurídica dos embargos à execução é de ação de conhecimento incidental, de modo que "a ele se aplica a regra de recorribilidade das interlocutórias prevista no art. 1.015, caput e incisos, não havendo justificativa lógica ou teórica para equiparar os embargos à execução ao processo de execução, na medida em que nessa ação de conhecimento incidental se resolverá em sentença, de modo que a maioria das questões incidentes - como a legalidade ou não da emenda à inicial dos embargos à execução - poderá, em princípio, ser suscitada na apelação ou em suas contrarrazões" (REsp 1682120/RS, Relatora Ministra Nancy Andrighi 3ª Turma, DJe de 01/03/2019).
+Assim, tendo a decisão interlocutória proferida em embargos à execução rechaçado as preliminares de ilegitimidade ativa do exequente e impossibilidade jurídica do pedido, não se justificaria a interposição de agravo de instrumento (Tema 988/STJ), sendo plenamente possível a impugnação em preliminar de apelação.
+Nesse sentido, também: AgInt no AgInt no AREsp 1630140 / SP , 4ª Turma, DJe de 04/09/2020; AgInt no AREsp 2430725/RJ, 3ª Turma, DJe de 06/03/2024.
+Dessa forma o acórdão recorrido merece reforma, nos termos da Súmula 568/STJ.
+Prejudicadas as demais matérias do recurso especial.
+DISPOSITIVO
+Forte nessas razões, reconsidero a decisão de e-STJ fls. 928/931 e, por conseguinte, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para anular o acórdão recorrido e determinar o retorno ao Tribunal de origem, para que observe a jurisprudência desta Corte, nos termos da fundamentação.
