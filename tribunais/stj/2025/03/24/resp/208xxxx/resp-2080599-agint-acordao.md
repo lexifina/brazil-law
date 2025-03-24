@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do agravo nos próprios autos.
+II. Razões de decidir
+2. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a Súmula n. 182/STJ.
+IV. Dispositivo
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 840/847) interposto contra decisão desta relatoria, que negou provimento ao recurso especial.
+Em suas razões, a parte reitera a alegação de que não foram observadas as provas produzidas na contestação, tampouco o pedido de produção de prova pericial
+Reitera argumentos do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foi apresentada impugnação (e-STJ fls. 852/866).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que não conheceu do agravo nos próprios autos.
+II. Razões de decidir
+2. A ausência de impugnação específica dos fundamentos da decisão agravada atrai a Súmula n. 182/STJ.
+IV. Dispositivo
+3. Agravo interno não conhecido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 834/837):
+Trata-se de recurso especial interposto contra acórdão do TJRJ assim ementado (e-STJ fl. 722):
+Agravo Interno na Apelação Cível. Decisão monocrática da Relatora que negou provimento ao recurso. Inexistência de argumento novo capaz de alterar a decisão, que assim restou ementada:
+"Apelação Cível. Ação Reivindicatória. Direitos Reais. Aquisição de imóvel por escritura pública e registro. Comodato Verbal. Alegação de esbulho possessório. Sentença de procedência. Manutenção. Via adequada para retomada do domínio pelo proprietário de quem a ocupe indevidamente. Inteligência do art. 1.228 do CC. Conceito de posse injusta que, no âmbito da ação reivindicatória, não se infere apenas da violência, precariedade ou clandestinidade, mas compreende a detenção sem título de propriedade ou sem caráter de posse direta pelas vias adequadas. Desdobramento da posse. Ausência de exercício da posse direta pela proprietária durante longo período de tempo, in casu, que foi plenamente justificada, tendo em vista que passou a residir fora do país, mas permanecendo com a posse indireta. Comodato verbal entre as partes durante certo período, seguido de recusa de desocupação pela possuidora, mesmo depois de notificada a fazê-lo. Ré que alega promessa de doação do imóvel e benfeitorias. Ré que não se desincumbiu do ônus probatório imposto pelo art. 373, II, do CPC. Majoração dos honorários sucumbenciais, na forma do art. 85, §11, do CPC.
+Jurisprudência e Precedentes citados: 0005987- 04.2014.8.19.0040 - APELAÇÃO - Des(a). REGINA LUCIA PASSOS - Julgamento: 03/10/2017 - VIGÉSIMA PRIMEIRA CÂMARA CÍVEL; 0000172- 44.1999.8.19.0204 - APELAÇÃO Des(a). HELENO RIBEIRO PEREIRA NUNES - Julgamento: 31/01/2017 - QUINTA CÂMARA CÍVEL; 0021340- 46.2015.8.19.0203 - APELAÇÃO - 1ª Ementa - Des(a). CARLOS JOSÉ MARTINS GOMES - Julgamento: 27/11/2018 - DÉCIMA SEXTA CÂMARA CÍVEL e 1650905-43.2011.8.19.0004 - APELAÇÃO - 1ª Ementa - Des(a). ODETE KNAACK DE SOUZA - Julgamento: 30/01/2018 - VIGÉSIMA SEGUNDA CÂMARA CÍVEL. DESPROVIMENTO DO RECURSO." DESPROVIMENTO DO AGRAVO INTERNO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 761/766).
+Nas razões do recurso (e-STJ fls. 768/775), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente aponta ofensa ao art. 1.022, I, do CPC/2015 em razão das seguintes omissões no acórdão recorrido (e-STJ fl. 774):
+(i) nos aclaratórios não foram esclarecidos os motivos em que se apoiaram para NÃO CONSIDERAR A VASTA QUANTIDADE DE PROVAS EXISTENTES E AS A PRODUZIR EM ESPECIAL NA PECA DE RECONVENCÃO EM APENSO A AÇÃO PRINCIPAL o que leva a um injusto CERCEAMENTO DO DIREITO DE DEFESA ASSIM COMO A NÃO PRESTAÇAO JURISDICIONAL DEVIDA PELO ESTADO.
+(ii) nos julgamentos afirmou-se, em síntese, que o julgador não está obrigado a rebater, um a um, os argumentos suscitados pela parte, em caso de procedencia, porém o r juízo considerou somente os autos da Ação principal no nlindo toldos os fundamentos da reconvenção no nlindo totalmente o contido na RECONVENÇÃO ONDE O R JUIZO DECLARA TRATAR-SE DE AÇÃO REIVINDICATORIA E NÃO REITEGRATORIA COMO AFIRMA O OUTRO JUIZ PROLATOR DA SENTENÇA COMBATIDA, ou seja nos fundamentos da decisão da ação principal, o juiz decidiu ter a presente ação natureza possessária na Reconvenção declara ter a referida ação principal natureza dominial.
+Foram apresentadas contrarrazões (e-STJ fls. 795/802).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 823/825), os autos vieram a esta Corte.
+É o relatório
+Decido.
+Na origem, a ora recorrida ajuizou ação reivindicatória de posse, com pedido de liminar, cumulada com danos morais e materiais, contra a recorrente. Citada, a recorrente apresentou contestação e reconvenção.
+O TJRJ confirmou a sentença que julgou parcialmente procedente a ação, deferindo a imissão da autora na posse do imóvel, e improcedente a reconvenção, mediante os seguintes fundamentos (e-STJ fls. 726/728):
+Trata-se de pedido reivindicatório, de caráter petitório, constituindo a via adequada para aquele que, sendo proprietário, postule a retomada de seu domínio, em face do possuidor não proprietário. Representa, portanto, a pretensão do titular do direito subjetivo de excluir terceiros de indevida ingerência sobre a coisa.
+ ..
+Assim, para o acolhimento do pedido reivindicatório, deve o demandante demonstrar o seu direito subjetivo da titularidade da propriedade, não se questionando se a posse do demandado é exercitada com boa ou má-fé. Afere-se, na verdade, se tal posse é contraposta ao título de domínio, o qual assegura ao proprietário o exercício pleno de todos os poderes inerentes à propriedade. Logo, a posse não tem de ser necessariamente viciosa.
+E ao réu cabe provar que sua posse não é injusta e, se não lograr êxito em provar que possui causa jurídica, a reivindicatória será procedente.
+No caso dos autos, observa-se, pela escritura de 26/03/1997 (indexador 16) que a autora pactuou compra e venda, sendo incontroverso que se trata de proprietária do bem.
+A Apelada, por sua liberalidade, firmou contrato de comodato verbal com a Apelante, permitindo que ela permanecesse no imóvel enquanto residia na Holanda, com a condição de que ao retornar para o Rio de Janeiro ficasse também no local. Nesse período, inclusive, realizava pagamentos mensais para cobrir com as despesas do imóvel.
+Ocorre que, a Apelada retornou para o Brasil, quando teve ciência que não só a Apelante estava residindo no imóvel, mas também a sua família, o que não permitia que usufruísse do seu imóvel conforme a sua vontade. Por conta disso, requereu o fim do comodato firmado com a Apelante, a notificando extrajudicialmente para deixar o imóvel em 30 dias.
+Frise-se, nessa esteira, que a ausência de exercício da posse pela proprietária durante longo período de tempo foi plenamente justificada, pois passou a residir na Holanda.
+Destaque-se, ainda, que, durante certo período, havia sim um comodato verbal entre as partes, pois a proprietária concordou que a ré permanecesse no imóvel. No entanto, não era à título de dona. Isso porque, a Apelada permaneceu realizando os pagamentos das despesas condominiais, de IPTU, também contribuindo com a subsistência da Apelante, que confirmou não trabalhar mais durante esse período, o que reforça não só a propriedade da Apelada, mas a sua posse indireta.
+E, ainda que assim não fosse, considerando-se que o pedido reivindicatório discute tão somente a propriedade, e o direito aquisitivo restou cabalmente demonstrado pela autora, conclui-se que faz jus ao exercício do Direito de usar e fruir livremente do imóvel, pois adquiriu o domínio sobre o mesmo.
+Ademais, a ré sequer demonstrou que sua posse é justa, ou que possui título que a embase. No mesmo sentido, não comprovou que as benfeitorias realizadas foram por ela pagas. Pelo contrário, afirma a todo tempo que recebia dinheiro da Apelada para sua subsistência, bem como para honrar com as despesas do apartamento.
+Por conseguinte, é certo que não se desincumbiu do ônus probatório imposto pelo art. 373, II, do CPC. Assim, escorreita a R. Sentença.
+A Corte estadual apresentou, de forma clara e suficiente, os fundamentos pelos quais concluiu que era caso de reconhecer a procedência do pedido reivindicatório, tendo a autora comprovado a propriedade do imóvel e sem que a ré tenha cumprido com seu ônus de demonstrar a existência de posse justa.
+As questões que a parte afirma que não foram omitidas - relativas à alegada falsidade dos fatos narrados pela parte autora, o fato da ré ser analfabeta, haver suposta contradição na sentença a respeito da natureza da ação, se petitória ou possessória - não são relevantes para o julgamento da ação reivindicatória, tampouco da reconvenção, de modo que não há a alegada ofensa ao art. 1.022 do CPC/2015.
+Ademais, o fato de o Tribunal de origem, após a análise do conjunto fático-probatório, ter decidido de forma contrária aos interesses da recorrente não configura ofensa a aludido dispositivo processual.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Em face do exposto, NEGO PROVIMENTO ao recurso especial.
+Publique-se e intimem-se.
+Em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No agravo interno (e-STJ fls. 840/847), todavia, a parte agravante limitou-se a reproduzir os argumentos do recurso especial, sem proceder à impugnação do fundamento da decisão monocrática de que não há ofensa ao art. 1.022 do CPC/2015 e de que o exame de algumas das questões apontadas como omitidas não modificaria o resultado do julgamento.
+Deixando a parte recorrente de rebater especificamente o ponto da decisão ora agravada, incide a Súmula n. 182/STJ.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
