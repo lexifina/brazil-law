@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEXANDRE ACCIOLY ROCHA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (fls. 248/271).
+Os embargos de declaração opostos foram rejeitados (fls. 238/240).
+Nas razões de seu recurso especial, a parte ora agravante alega (fls. 258/259):
+36. O e. Tribunal a quo ao dar provimento o Agravo de Instrumento interposto pelo ora Recorrido se limitou a transcrever ipsis litteris o parecer do Ministério Público de fls. 143/155, sem tecer qualquer consideração própria na análise das contrarrazões de fls. 46/57. Ou seja, o E. Tribunal a quo lançou mão exclusivamente da técnica de motivação por referência, baseando-se integralmente no parecer do Ministério Público, sem acrescentar nenhum fundamento para a decisão tomada.
+37. O v. acórdão recorrido, assim, deixou de afastar as teses defensivas, de se manifestar sobre a jurisprudência invocada pelo ora Recorrente e de apresentar fundamento próprio.
+38. Ao agir assim, o v. acórdão recorrido violou o disposto no art. 489, II e § 1º, IV e V, do Código de Processo Civil, que impõe o dever de fundamentação das decisões judiciais, razão pela qual deve ser anulado, in verbis:
+ ..
+39. Não se propõe neste recurso resistir ao difundido e legal emprego da fundamentação per relationem, mas, sim, à sua utilização como atalho para que julgamentos aconteçam sem que o magistrado verdadeiramente desça ao caso concreto. Contudo, a simples transcrição do parecer do Ministério Público não pode ser considerada como a adoção da técnica de fundamentação per relationem.
+40. Para que o julgador possa se valer dessa técnica de fundamentação referencial é necessário que faça referência concreta às peças que pretende encampar, transcrevendo delas partes que julgar interessantes para legitimar o raciocínio lógico que embasa a conclusão a que se quer chegar, o que não se verifica no caso vertente.
+41. Não por outro motivo, aliás, a jurisprudência dos Tribunais pátrios é no sentido de admitir decisões judiciais que façam remissão a alegações de uma das partes, a parecer do Ministério Público, a precedente ou a decisão anterior nos autos do mesmo processo, desde que haja um mínimo de fundamento. As razões de decidir do acórdão não podem se basear, exclusivamente, na remissão à peça/parecer/decisão anterior nos autos do mesmo processo, verbis:
+A parte adversa apresentou contrarrazões (fls. 509/535 ).
+O Ministério Público Federal ofertou parecer nestes termos (fls. 590/593):
+RECURSOS ESPECIAIS. AÇÃO CIVIL PÚBLICA. DEMOLIÇÃO DE CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO. EXECUÇÃO DE SENTENÇA. COISA JULGADA. REEXAME DE CIRCUNSTÂNCIAS FÁTICAS. I - Modificar as conclusões do julgado exigiria o reexame de todo o material fático-probatório constante dos autos, procedimento incompatível com a Súmula nº 7/STJ. II - Parecer pelo não conhecimento dos recursos especiais.
+É o relatório.
+A questão debatida nos autos foi afetada à Corte Especial do Superior Tribunal de Justiça para ser decidida sob o rito de recursos repetitivos (Tema 1.306), e foi assim delimitada:
+"Definir se a fundamentação por referência (per relationem ou por remissão) - na qual são reproduzidas as motivações contidas em decisão judicial anterior como razões de decidir - resulta na nulidade do ato decisório, à luz do disposto nos artigos 489, § 1º, e 1.022, parágrafo único, inciso II, do CPC de 2015." (REsp 2.148.059/MA, REsp 2.148.580/MA, REsp 2.150.218/MA, relator Ministro Luis Felipe Salomão).
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos de controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se. Intimem-se.
+ EMENTA
