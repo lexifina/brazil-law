@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMPENSATÓRIA POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de compensação por danos morais.
+2. A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284/STF. Precedentes.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+RELATÓRIO
+Examina-se de agravo interno, interposto por JOSEFA MARIA DOS SANTOS E OUTROS, contra a decisão conheceu do agravo para não conhecer do seu recurso especial.
+Ação: compensatória por danos morais ajuizada por JOSEFA MARIA DOS SANTOS E OUTROS, em face de BRASKEM S/A, objetivando ressarcimentos pelos danos advindos dos prejuízos e transtornos causados pela atividade de mineração exercida pela recorrida.
+Decisão interlocutória: julgou parcialmente extinto o feito, sem resolução do mérito, "ante a perda do objeto da demanda decorrente da ausência superveniente de interesse de agir processual em relação às partes demandantes Josefa Maria dos Santos, Josefa Gomes Medeiros, Josenilda de Souza e Josefa Ferreira de Lima, cumprindo a estes o pagamento proporcional das custas processuais e dos honorários advocatícios, estes no patamar de 10% (dez por cento) sobre o valor atualizado da causa, condenações essas que devem ficar sob condição suspensiva de exigibilidade, a teor do art. 98, §3º, do CPC. Por fim, determino que a presente demanda prosseguir quanto aos requerentes Josiete Rodrigues da Silva, Josicleide dos Santos, Josenildo Farias, Josefa Eugenio da Silva e Josefa Tenório Cavalcante." (e-STJ fl. 222).
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da ementa a seguir transcrita:
+"DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EVENTOS GEOLÓGICOS QUE ATINGIRAM DIVERSOS BAIRROS DA CAPITAL ALAGOANA. ATIVIDADE DE EXPLORAÇÃO MINERAL. AGRAVO DE INSTRUMENTO. DECISÃO QUE EXTINGUIU PARCIALMENTE A AÇÃO COM RESOLUÇÃO DE MÉRITO EM VIRTUDE DA REALIZAÇÃO DE ACORDO FIRMADO NA AÇÃO CIVIL PÚBLICA. QUITAÇÃO IRREVOGÁVEL À BRASKEM EM RELAÇÃO AOS DANOS EXTRAPATRIMONIAIS COM RENÚNCIA E DESISTÊNCIA EXPRESSAS A EVENTUAIS DIREITOS REMANESCENTES. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO." (e-STJ, fl. 221)
+Embargos de declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação aos artigos 85, §14, 90, caput, e §2º, e 1.022, II, do CPC; 14, §1º, e 51, I, IV e §1º, do CDC; 186, 421, 424 e 927 do CC; 51, I e IV, e §1º, do CDC; 22, caput, e 34, VIII, da Lei 8.906/94 (EOAB), sustentando: i) omissão do julgado; ii) que o acordo celebrado não abrange as questões de direitos requeridas na ação individual de compensação moral ajuizada, pois a empresa impõe os termos da indenização por valor único quando o valor corresponde apenas por dano material (consistentes em danos mensuráveis financeiramente, como ocorre in casu, nos quais o afundamento do solo, ocasionado pela atividade da Recorrida, ocasionou perdas materiais - como casas e terrenos na região.", não abrangendo os danos morais, portanto, sendo descabida a extinção do feito; iii) que devem ser respeitados os contratos celebrados entre o presente patrono e a parte recorrente, devendo ser retido 20% (vinte por cento) sobre o valor da causa dada em favor de cada morador envolvido.
+Decisão agravada: não conheceu do agravo ante a incidência da Súmula 182/STJ, em razão da incidência das Súmulas Súmulas 5 e 7/STJ, 283 e 284/STF.
+Agravo interno: alega ter preenchido os requisitos para a interposição do
+recurso, pugnando pelo afastamento das Súmulas aplicadas.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMPENSATÓRIA POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de compensação por danos morais.
+2. A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284/STF. Precedentes.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada na incidência das Súmulas 5 e 7/STJ, 283 e 284/STF.
+- Da violação ao artigo 1.022 do CPC
+Inicialmente, a apontada violação ao artigo 1.022 do CPC não pode ser conhecida na medida em que o recurso especial apenas trouxe alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284/STF, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada situação, os seguintes precedentes desta Corte Superior: AgInt no AR Esp n. 1.346.358/RJ, Terceira Turma, D Je de 29/5/2019; e AgInt no R Esp n. 1.734.203/RS, Quarta Turma, D Je de 4/6/2019.
+- Do reexame de fatos e provas
+A despeito das demais questões aventadas pela parte recorrente, em nova análise, verifica-se que o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu:
+"(..) imperioso consignar que, em consulta ao processo originário, verifica-se a existência de certidão de objeto e pé exarada pela 3ª Vara da Justiça Federal em Cumprimentos de Sentença (fls. 1143/1144, 1310/1311, 1314/1315, 1320/1321), atestando a realização de acordos entre a Recorrida e as partes Autoras/Recorrentes, a qual confere quitação irrevogável à Braskem/Agravada em relação a danos extrapatrimoniais, inclusive com renúncia e desistência expressas a eventuais direitos remanescentes (..) Desta forma, em sede de cognição sumária, não restou demonstrada a verossimilhança das alegações recursais. Ao contrário, o caderno processual revela que os Autores/Recorrentes de fato celebraram transação com a Braskem, incluindo a indenização a título de danos morais, motivo porque há de se concluir que não persiste o interesse processual na demanda originária, a qual trata justamente de reparação por prejuízos extrapatrimoniais." (e- STJ, fls. 224/225).
+Portanto, rever tais fundamentos do acórdão recorrido, de fato, demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas e das cláusulas contratuais, procedimento vedado em recurso especial, ante o teor das Súmulas 5 e 7/STJ.
+Nesse sentido, guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes desta Corte Superior: AgInt no AREsp n. 1.925.105/PR, Terceira Turma, DJe de 5/10/2022; AgRg no AR Esp n. 182.361/SP, Terceira Turma, D Je de 10/5/2016; AgInt no AR Esp n. 1.698.665/SP, Quarta Turma, D Je de 18/11/2020; e AgInt no AR Esp n. 1.621.499/DF, Quarta Turma, D Je de 24/9/2020.
+- Da existência de fundamento não impugnado
+Por fim, a parte agravante não impugnou o fundamento utilizado pelo Tribunal de origem, no sentido de que:
+"Quanto ao pleito subsidiário no sentido de que seja ".. realizada a fixação e retenção do percentual de 20% (vinte por cento) sobre o valor da causa dada em favor de cada morador envolvido e integrante no polo ativo do presente processo judicial, conforme acordado em contrato firmado entre o(s) Agravante(s) e os advogados que esta subscrevem" (sem grifos no original), compreendo que não deve ser deferido, na medida em que, a meu ver, trata-se de matéria alheia àquela discutida nos autos originários, devendo ser tratada em ação própria." (e-STJ, fl. 227)
+Por esta razão, incida, à hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no R Esp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+Deve, portanto, ser mantida a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
