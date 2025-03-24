@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de impugnação oposta pela União ao cumprimento de sentença, iniciado por HAROLDO DA SILVA ALVES, referente a mandado de segurança no qual foi concedida a ordem para restabelecer a validade da Portaria anistiadora do Ministério da Justiça nº. 3.252, de 3 de novembro de 2004. Como reflexo financeiro da aludida decisão, a impetrante promoveu a execução das parcelas da prestação mensal, permanente e continuada não pagas durante o período em que a portaria de anistia esteve anulada.
+A UNIÃO impugnou a execução, aduzindo: a) a inexigibilidade do título, já que há a possibilidade de revisão da portaria anistiadora; b) deve ser atribuído efeito suspensivo automático à execução, nos termos do art. 535, §3º, do CPC/15; e c) ilegitimidade ativa, pois houve o falecimento do impetrante.
+Pediu a procedência da impugnação e a condenação do exequente ao pagamento de honorários advocatícios sucumbenciais.
+Em resposta, o exequente defendeu a legitimidade dos herdeiros, pois o valor da indenização ingressou a esfera patrimonial do espólio. Alegou, também, que não há fundamento jurídico para sobrestar o processo, o que, por sinal, acarretaria violação à razoável duração do processo. Pediu o julgamento de improcedência da impugnação apresentada pela UNIÃO.
+Na sequência, a decisão de fls. 92-94 afastou a preliminar de ilegitimidade ativa. Interposto agravo interno, o recurso foi parcialmente conhecido e não provido, conforme acórdão às fls. 148-154.
+A UNIÃO foi intimada a informar se houve a anulação da portaria anistiadora, porém, às fls. 209-210, noticiou que o procedimento revisional ainda não foi concluído, por ausência de notificação dos interessados.
+É o relatório. Decido.
+Passo a apreciar as matérias ainda não tratadas na impugnação à execução da UNIÃO de fls. 20-78.
+AUSÊNCIA DE SUSPENSÃO AUTOMÁTICA DA EXECUÇÃO
+A UNIÃO advoga a tese de que uma vez impugnada a execução, decorre sua suspensão automática, nos termos do art. 535, §3º, do CPC/15. Contudo, esta Corte Superior entende que "eventual suspensão do pagamento do precatório relativo à parcela incontroversa do crédito, correspondente ao valor nominal da portaria de anistia, ou bloqueio do respectivo pagamento, condiciona-se à demonstração, pelo ente público executado, de que pretende, efetivamente, instaurar procedimento de revisão do ato de concessão da anistia." (AgInt na ExeMS n. 21.229/DF, relator Ministro Benedito Gonçalves, Primeira Seção, DJe de 20/8/2020.).
+Dessa forma, a suspensão da execução não é automática em razão da apresentação da impugnação por parte da UNIÃO, mas depende da comprovação da instauração de procedimento revisional, com iminente anulação da portaria anistiadora, o que não houve no caso em tela, considerando que sequer as partes interessadas foram notificadas do andamento do procedimento revisional, conforme informado pelo próprio ente público.
+Assim, não procede o pedido de suspensão do presente feito
+PORTARIA ANISTIADORA NÃO ANULADA
+O título judicial que agora se executa concedeu a segurança para determinar o pagamento dos valores que constam na portaria anistiadora, ressalvando-se "a possibilidade de se tornar prejudicada a concessão do presente mandamus se, antes do efetivo pagamento, sobrevier decisão administrativa revogando ou anulando o ato de concessão da anistia" (fl. 212, dos autos do MS 18.171/DF).
+Dessa forma, no caso em tela, conclui-se que permanece hígida a portaria de anistia objeto da presente execução (Portaria n. 3.252, de 3/11/2004, do Ministro de Estado da Justiça), uma vez que a UNIÃO não comprovou a anulação da portaria anistiadora.
+Se o ente público sequer cientificou os interessados da revisão instaurada, desatendendo à exigência do devido processo legal versada no julgamento do RE 817.338/DF (Tema 839), a situação não autoriza a sobrestar o feito executivo.
+O processo não pode permanecer paralisado indefinidamente à espera da Administração. É imprescindível que ela envide os esforços necessários para rever, com a desejável brevidade, os inúmeros casos de concessão de anistia política em que reputa não comprovada a perseguição exclusivamente política, sob pena de violação ao princípio da razoável duração do processo.
+Em todo caso, com base na ressalva feita por esta Corte Superior na QO no MS 15.706/DF, uma vez comprovada posteriormente a anulação da anistia política, com observância das garantias processuais, até o levantamento dos valores requisitados, deverá ser extinta a execução em curso, bem como cancelado o precatório expedido.
+CONCLUSÃO
+Pelo exposto, julgo improcedente a impugn ação à execução oposta pela UNIÃO ao cumprimento de sentença.
+Afasto o pedido feito pela UNIÃO, às fls. 209-210, de intimar os herdeiros para fornecer os endereços atualizados, uma vez que tais informações já constam nos presentes autos.
+Sem condenação em honorários advocatícios, conforme decidido no Tema n. 1.232/STJ, oportunidade em que se fixou a seguinte tese jurídica: "Nos termos do art. 25 da Lei n. 12.016/2009, não se revela cabível a fixação de honorários de sucumbência em cumprimento de sentença proferida em mandado de segurança individual, ainda que dela resultem efeitos patrimoniais a serem saldados dentro dos mesmos autos.".
+Preclusas as vias impugnativas em relação às matérias tratadas na presente decisão, deverá ser expedido o precatório referente ao crédito em nome do espólio.
+Publique-se.
+Intimem-se.
+EMENTA
