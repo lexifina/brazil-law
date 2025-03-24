@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ILEGITIMIDADE PASSIVA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de indenização por danos materiais e morais sob a alegação de desvalorização do imóvel objeto do contrato de compra e venda firmado entre as partes, ao argumento de que o loteamento não dispõe de serviços básicos, como segurança e portaria, além de encontrar-se abandonado, sem a realização das manutenções e dos reparos necessários para o bom funcionamento e valorização do imóvel.
+2. A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, exige comprovação mediante a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Sendo assim, não é bastante a simples transcrição de ementas sem o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu no caso dos autos.
+3. Agravo conhecido para não conhecer do recuso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por RITZ PROPERTY INVESTIMENTOS IMOBILIÁRIOS LTDA. (RITZ PROPERTY) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. AQUISIÇÃO DE TERRENO NO CONDOMÍNIO PALM SPRINGS. ALEGADA ILEGITIMIDADE PASSIVA AFASTADA. DESVALORIZAÇÃO DO EMPREENDIMENTO. DANOS EVIDENCIADOS. PROVAS DESFAVORÁVEIS À APELANTE. SENTENÇA MANTIDA. MANEJO DA TÉCNICA PER RELATIONEM, AUTORIZADA PELO STJ. ADOÇÃO DA FUNDAMENTAÇÃO TECIDA NA SENTENÇA. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 298).
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ILEGITIMIDADE PASSIVA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO NOS MOLDES LEGAIS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de indenização por danos materiais e morais sob a alegação de desvalorização do imóvel objeto do contrato de compra e venda firmado entre as partes, ao argumento de que o loteamento não dispõe de serviços básicos, como segurança e portaria, além de encontrar-se abandonado, sem a realização das manutenções e dos reparos necessários para o bom funcionamento e valorização do imóvel.
+2. A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional, nos termos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, exige comprovação mediante a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Sendo assim, não é bastante a simples transcrição de ementas sem o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu no caso dos autos.
+3. Agravo conhecido para não conhecer do recuso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Trata-se de ação de indenização por danos materiais e morais ajuizada por JOSÉ HUMBERTO CABRAL MICUSSI contra RITZ PROPERTY, alegando desvalorização do imóvel objeto do contrato de compra e venda firmado entre as partes, sob o argumento de que o loteamento não dispõe de serviços básicos, como segurança e portaria, além de encontrar-se abandonado, sem a realização das manutenções e dos reparos necessários para o bom funcionamento e valorização do imóvel.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea c, da CF, RITZ PROPERTY alegou divergência jurisprudencial com precedentes de outros tribunais, sustentando sua ilegitimidade para integrar o polo passivo da ação, uma vez que não possui responsabilidade pelos supostos danos sofridos pelo autor, tendo em vista que as irresignações deduzidas estão relacionadas aos atos de administração do condomínio, em relação aos quais a incorporadora não possui nenhuma ingerência.
+Da divergência jurisprudencial
+Da análise das razões suscitadas, é possível verificar que a ora insurgente não se desincumbiu da tarefa de demonstrar o dissídio interpretativo viabilizador do recurso especial, que não foi comprovado nos termos exigidos pela legislação e pelas normas regimentais.
+Isso porque, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário realizar o cotejo analítico, demonstrando-se a identidade das situações fáticas e a interpretação diversa dada ao mesmo dispositivo legal, o que não se satisfaz pela simples transcrição de ementas dos acórdãos confrontados.
+Portanto, não foram preenchidos os requisitos dos arts. 1.029, § 1º, do CPC, e 255, § 1º, do RISTJ, o que inviabiliza o exame da divergência jurisprudencial.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANO MORAL. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.017.293/SC, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 29/8/2022, DJe de 31/8/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ALEGAÇÃO DE INDEVIDA NEGATIVAÇÃO DO NOME DOS CONSUMIDORES EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. PEDIDO INDENIZATÓRIO. FUNDAMENTAÇÃO DEFICIENTE QUANTO À ALEGADA VIOLAÇÃO AOS DISPOSITIVOS ELENCADOS. SÚMULA 284/STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIA NÃO COMPROVADO.
+1. A parte recorrente olvidou-se da indicação clara e inequívoca sobre como teria se dado a violação aos arts. 186 e 927 do CC/02 e art. 14 do CDC, o que caracteriza deficiência na fundamentação recursal. Assim, a fundamentação do recurso é deficiente, aplicando-se, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Rever a conclusão a que chegou o Tribunal local, acolhendo a tese da parte recorrente no sentido de que houve configuração de dano moral indenizável, pois a negativação dos nomes dos consumidores se deu de forma indevida, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. O Tribunal de origem, apesar de opostos embargos declaratórios pela parte Recorrente, não se manifestou acerca dos mencionados argumentos, a demonstrar a ausência de prequestionamento da matéria, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice da Súmula 211 do Superior Tribunal de Justiça.
+4. Divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+AGRAVO DESPROVIDO.
+(AgInt no AREsp n. 2.037.628/SP, relator Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado aos 29/8/2022, DJe de 1º/9/2022 - sem destaque no original)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. CORREÇÃO MONETÁRIA. SÚMULA 5 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há violação do art. 535 do CPC/73 quando o eg. Tribunal estadual aprecia a controvérsia em sua inteireza e de forma fundamentada.
+2. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+3. Não é possível alterar o entendimento da Corte de origem quanto ao valor da correção monetária, mormente porque a referida análise foi realizada com base no instrumento contratual, incidindo, no ponto, a Súmula 5 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.005.410/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 15/8/2022, DJe de 26/8/2022 - sem destaque no original)
+Nessas condições , CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
