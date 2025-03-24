@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE GOIÁS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal (CF), contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVO INTERNO. DUPLA APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. FALECIMENTO DO AUTOR NO CURSO DA AÇÃO, EM DATA ANTERIOR À PROLAÇÃO DA SENTENÇA. PROCESSO EXTINTO. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DO PRINCÍPIO DA CAUSALIDADE. EQUIDADE. IMPOSSIBILIDADE.
+1. Embora o fármaco em questão não integre os protocolos do Sistema Único de Saúde, o que, em tese, atrairia a incidência do tema 1234/STF, com a cassação da sentença, inclusão da União na lide e remessa dos autos à Justiça Federal, na hipótese, tais providências se mostram incabíveis e despiciendas, dada a impossibilidade de continuidade da ação em razão do falecimento da parte autora, restando ao ente público demandado o uso da via administrativa para a satisfação da sua pretensão ressarcitória.
+2. A condenação em honorários advocatícios é pautada pelo princípio da causalidade, pelo qual aquele que deu causa à propositura da demanda deve arcar com o pagamento da verba.
+3. No regime atual, a equidade apresenta-se como critério excepcional, subsidiário, não vinculado às causas em que for vencida a Fazenda Pública (tese 1.076/STJ).
+4. Ausentes fatos ou argumentos novos a indicar a necessidade de reconsideração da conclusão desenvolvida na decisão anteriormente proferida por esta relatoria, o desprovimento do interno é a medida que se impõe.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+É o relatório.
+A questão debatida nos autos, qual seja, "saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do C PC) ", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.313), dos REsp"s 2.169.102/AL e 2.166.690/RN, de relatoria da Ministra MARIA THEREZA DE ASSIS MOURA.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
