@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de ação de anulação de ato administrativo c. c. obrigação de fazer c. c. indenizatória em face da Junta Comercial do Estado do Rio De Janeiro - JUCERJA e CHARLES CHUFF NOCHITA MATERIAIS DE CONSTRUÇÃO EPP. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 15.000,00 (quinze mil reais).
+O recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, foi interposto no TRIBUNAL DE JUSTIÇA D O ESTADO DO RIO DE JANEIRO contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE C/C INDENIZATÓRIA. REGISTRO CONTRATUAL DE SOCIEDADE EMPRESÁRIA. ALEGAÇÃO DE FRAUDE. SENTENÇA DE PROCEDÊNCIA. IRRESIGNAÇÀO DA RÉ. AFASTADA A PRELIMINAR DE ILEGITIMIDADE PASSIVA. FRAUDE GROSSEIRA. RESPONSABILIDADE OBJETIVA. DANO MORAL IN RE IPSA. QUANTUM INDENIZATÓRIO DEVIDAMENTE ARBITRADO NO VALOR DE R$ 7.000,00 (SETE MIL REAIS). MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Nessa esteira, as divergências apresentadas levam à conclusão de existência de fraude praticada por terceiro, o que não tem o condão de elidir a responsabilidade do réu. Logo, a fraude em comento configura fortuito interno, restando demonstrado que houve a conduta omissiva da apelante.
+Assim sendo, deixou a ré de observar seu dever de cuidado, devendo, em razão de omissão específica, responder objetivamente pelos danos morais, com base na teoria do risco administrativo.
+Quanto a fixação do quantum, este deve se dar de forma que o valor arbitrado seja suficiente para reparar o dano sofrido, sem jamais se constituir em fonte de enriquecimento indevido para aquele que sofreu a ofensa.
+Forçoso reconhecer se tratar de uma situação anormal capaz de acarretar infortúnios à parte autora que transcendem a esfera do mero aborrecimento, frustrando a sua legítima expectativa e lhe causando abalo emocional e psíquico, fatores suficientes para a caracterização de dano moral passível de reparação.
+ ..
+Hipótese que atrai o verbete sumular nº 343: "a verba indenizatória do dano moral somente será modificada se não atendidos pela sentença os princípios da proporcionalidade e da razoabilidade na fixação do valor da condenação".
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (artigos 3º e 7º, IV da Lei n.º 8.935/94), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
