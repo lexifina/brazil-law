@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ESPÓLIO DE ANTONIO LUIZ FERREIRA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" , da Constituição Federal.
+Ação: monitória apresentada pelo BANCO DO BRASIL S/A em face do agravante, visando receber o crédito decorrente de uma cédula rural hipotecária, julgada procedente.
+Acórdão: negou provimento ao recurso interposto pelo agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. EMBARGOS REJEITADOS. CERCEAMENTO DEFESA. NÃO CONFIGURADO. EXCESSO. AUSÊNCIA DE INDICAÇÃO DO VALOR DEVIDO. QUITAÇÃO SUBSTANCIAL DO DÉBITO. AUSÊNCIA DE PROVA. HONORÁRIOS SUCUMBENCIAIS. VALOR. BASE DE CÁLCULO. 1. Inexiste nulidade processual consubstanciada em cerceamento ao direito de defesa quando o julgador detecta a presença de dados suficientes à formação do convencimento e a prova documental apresentada pelas partes for suficiente para embasar sua convicção. 2. Nos termos do artigo 700 do Código de Processo Civil, a ação monitória é cabível para pleitear a cobrança de pagamento de soma em dinheiro, entrega de coisa fungível ou de determinado bem móvel com base em prova escrita sem eficácia de título executivo. 3. Consoante a literalidade do artigo 702, § 2º, do CPC, quando o réu alegar que o autor pleiteia quantia superior à devida, cumprir-lhe-á declarar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado da dívida. 4. In casu, a parte autora apresentou prova escrita (Cédula Rural Pignoratícia e Hipotecária) apta à demonstração do crédito (art. 700 do CPC). O embargante, por outro lado, não indicou o valor que entende devido, a subsidiar a alegação de excesso (artigo 702, § 2º, CPC), tampouco comprovou a aventada quitação substancial do débito. Logo, há de ser mantida a sentença conforme proferida. 5. Nos termos do CPC, artigo 85, § 11, desprovido o recurso, necessária se faz a majoração da verba honorária anteriormente fixada. APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA.
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial em razão do seguinte fundamento:
+i) incidência da Súmula 282/STF (artigos 28, §1º, I, da Lei n. 10.931 e 1º do Decreto Lei n. 22.626/33).
+Agravo em recurso especial: nas razões do presente recurso o agravante aduz a inaplicabilidade da Súmula 282/STF.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte fundamento:
+i) incidência da Súmula 282/STF (artigos 28, §1º, I, da Lei n. 10.931 e 1º do Decreto Lei n. 22.626/33).
+Ressalte-se que, quanto ao fundamento relativo à incidência da Súmula 282/STF, caberia à parte agravante apontar de que maneira o Tribunal de origem teria abordado as questões trazidas no recurso especial, bem como a discussão acerca dos dispositivos legais tidos por violados, o que não ocorreu.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+a
