@@ -1,0 +1,53 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por JOSENILDA SILVA DE SOUZA, com fundamento na incidência das Súmulas 83 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois existe interpretação uniforme a respeito do direito federal e m questão.
+Assevera, ainda, que "a aplicação, ao caso concreto a restituição de pagamento em duplicidade e indenização por danos morais formulada pela consumidora lesada, que recebera aviso de suspensão de fornecimento de energia" (fl. 394).
+Contraminuta apresentada (fls. 402-407).
+É o relatório.
+Passo a decidir.
+A Corte de origem, no julgamento da apelação, consignou:
+Da análise detida dos autos, evidencia-se a ausência de efetiva suspensão no serviço de energia elétrica por parte da apelante, tampouco existe a comprovação de negativação indevida acerca do referido débito, de modo que a simples cobrança/ameaça de corte prevista contratualmente não gera direito à percepção de indenização por danos morais de forma automática, consoante entendimento do SUPERIOR TRIBUNAL DE JUSTIÇA: EMENTA: CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL. CONTRATAÇÃO ILEGÍTIMA. COBRANÇA INDEVIDA. DANOS MORAIS. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. Segundo a jurisprudência desta Corte Superior, a mera cobrança indevida de débitos ou o simples envio de cartão de crédito ao consumidor não geram danos morais. Precedentes. 2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ). 3. No caso concreto, para alterar a conclusão do Tribunal de origem e reconhecer a existência de dano moral por causa de cobranças indevidas no cartão de crédito com reserva de margem consignável, seria imprescindível nova análise da matéria fática, inviável em recurso especial. 4. Agravo interno a que se nega provimento. (AgInt no AR Esp n. 2.110.525/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.) (sem grifos no original) (fls. 271-273).
+Por outro lado, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SENTENÇA QUE DECLAROU A EXTINÇÃO DA EXECUÇÃO. PRECLUSÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 85, § 7º, DO CPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, ao decidir a controvérsia, o Tribunal a quo estabeleceu que "não merece reparo a sentença declaratória de extinção da execução, ora guerreada, não havendo que se falar na alvitrada necessidade de intimação "para comprovar a implantação da revisão objeto do pedido exordial, antes da extinção da execução", por tratar-se de matéria superada pela preclusão consumativa, à míngua de manifestação oportuna da parte interessada a esse respeito, por ocasião do despacho do evento 348, DESPADEC96/JFRJ".
+2. A recorrente, por sua vez, deixou de impugnar tal fundamento, que é apto, por si só, para manter o acórdão recorrido. Aplica-se à espécie, por analogia, o óbice do enunciado n. 283 da Súmula do STF.
+3. Segundo a jurisprudência desta Corte, "não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada" (AgInt no REsp n. 2.062.255/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/4/2024, DJe de 26/4/2024).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.132.773/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO ANULATÓRIA DE REGISTRO IMOBILIÁRIO CUMULADA COM PERDAS E DANOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INDEFERIMENTO DE PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRINCÍPIOS DA LIVRE ADMISSIBILIDADE DA PROVA E DA PERSUASÃO RACIONAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO EM MATÉRIA PROBATÓRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. ENUNCIADO 284/STF. INATACADO FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. VERBETE 283/STF.
+1. Afasta-se a alegada ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Nos termos da jurisprudência do STJ, "os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento" (AgInt no AREsp 1.911.181/SP, rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/2/2022, DJe de 15/3/2022).
+3. A alteração das premissas adotadas pela Corte de origem quanto à não ocorrência de cerceamento de defensa demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. A jurisprudência deste Tribunal Superior assevera que "não há falar em preclusão pro judicato em matéria de instrução probatória, não havendo preclusão para o Magistrado nos casos em que é indeferida a produção de prova que foi anteriormente autorizada" (AgInt no AREsp 118.934/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 22/11/2016, DJe de 6/12/2016).
+5. O apelo nobre deixou de impugnar fundamento basilar que ampara o acórdão recorrido e, portanto, a irresignação esbarra no obstáculo do Enunciado 283/STF.
+6. A ausência de indicação do dispositivo legal tido por violado revela a deficiência de fundamentação da insurgência especial, atraindo o impedimento da Súmula 284/STF.
+7. O Tribunal a quo, com arrimo no acervo probatórios dos autos, consignou que "de forma alguma poderia se dizer que existiria a propriedade dos autores sobre o imóvel ou direitos possessórios passíveis de ser indenizados" (fl. 2.939). Nesse contexto, a alteração de tais circunstâncias na atual quadra processual se revela inviável, nos termos do Verbete 7/STJ.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 1.796.195/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+De acordo com a orientação deste Tribunal Superior, a responsabilidade, in casu, não é in re ipsa. Assim, cabe à parte demonstrar o dano efetivamente sofrido para que a concessionária prestadora do serviço de telefonia seja condenada a indenizá-la por danos morais.
+Na espécie, em consonância com essa jurisprudência do STJ e com base nos elementos fático-probatórios dos autos, a Corte local concluiu pela inexistência de dano moral, consignando que as circunstâncias dos autos constituem aborrecimentos e transtornos que não superam os aborrecimentos inerentes à vida moderna. Vejamos (fl. 272):
+em seu art. 927, institua a obrigação de reparação do dano por quem o tenha causado, dentre os quais incluem-se os danos morais (art. 186, do Código Civil), inexiste nos autos demonstração da lesão efetivamente suportada em razão da conduta comissiva em discussão, razão pela qual compreende-se que não há que se falar em reparação por dano moral.
+Nesse contexto, rever o entendimento da Corte local quanto à inexistência de danos morais e acolher a pretensão recursal demanda inegável necessidade de incursão na seara fático-probatória dos autos, providência vedada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte Superior.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. CONTRATO DE PRESTAÇÃO DE SERVIÇO. TELECOMUNICAÇÕES. DANO MORAL NÃO CONFIGURADO. MERO ABORRECIMENTO. COMPROVAÇÃO. REEXAME DE PROVAS. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem afastou o pedido de indenização por danos morais, pois não foi demonstrada infringência a direitos de personalidade do autor em razão do descumprimento de contrato de prestação de serviços de internet banda larga pela empresa agravada, reconhecendo que a situação experimentada pelo consumidor não passou de mero aborrecimento. A revisão desse entendimento demandaria o reexame de provas, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1722042/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2021, DJe 25/11/2021);
+ADMINISTRATIVO. TELEFONIA FIXA. REPETIÇÃO DE INDÉBITO DE TARIFAS. ART. 475-B, § 1º, DO CÓDIGO DE PROCESSO CIVIL. DISPOSITIVO NÃO PREQUESTIONADO. SÚMULAS 282 E 356/STF. INDENIZAÇÃO PELOS DANOS MORAIS NÃO CONFIGURAÇÃO. REVISÃO. ÓBICE NA SÚMULA 7/STJ.
+ ..
+2. Conforme se depreende dos autos, o Tribunal a quo, soberano das
+circunstâncias fáticas e probatórias da causa, consignou a não
+configuração do dano moral, entendendo que o simples descumprimento
+contratual não gera danos morais, cabendo a demonstração de abalo íntimo
+sofrido pela parte, o que não ocorreu na espécie.
+3. A pretensão de simples reexame de provas, além de escapar da função
+constitucional deste Tribunal, encontra óbice na Súmula 7/STJ, cuja
+incidência é induvidosa no caso sob exame.
+Agravo regimental improvido.
+(AgRg no REsp 1516802/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA,
+julgado em 28/04/2015, DJe 06/05/2015).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
