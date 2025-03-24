@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DOS DESCONTOS NA FOLHA DE PAGAMENTO. MULTA COMINATÓRIA. EXECUTADO INTIMADO PESSOALMENTE. VALIDADE. SÚMULA 410/STJ. VALOR DA MULTA COMINATÓRIA. SÚMULA 7/STJ AFASTADA. REDUÇÃO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Mantém-se a condenação do executado ao pagamento de multa cominatória, na hipótese em que ele é intimado pessoalmente para o cumprimento da obrigação de fazer. Inteligência da Súmula 410/STJ.
+2. Nos termos da jurisprudência do STJ, a redução ou majoração do valor da multa cominatória, em sede de recurso especial, só é admitida em situações excepcionais. No caso, além de o valor da multa cominatória (R$ 120.000,00) superar a quantia do próprio contrato objeto de revisão, não guarda nenhuma correspondência com o efetivo prejuízo sofrido pelo autor, em razão do atraso da instituição financeira em cumprir a obrigação de regularizar os descontos do contrato de empréstimo na folha de pagamento do demandante. Dessa forma, para evitar o enriquecimento ilícito do ora agravado, impõe-se o afastamento do óbice da Súmula 7/STJ para reduzir o valor da multa cominatória para R$ 20.000,00.
+3. Agravo interno provido, para dar parcial provimento ao recurso especial.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BANCO PAN S/A em face de decisão desta relatoria, que conheceu do agravo para negar provimento ao recurso especial.
+O agravante alega, em síntese: (a) "o acordão guerreado manteve a condenação da instituição ao pagamento de MAIS DE CEM MIL REAIS, somente a título de astreinte, em total dissonância ao valor auferido pela Recorrida com a obrigação principal, qual seja, de condenação R$ 20.312,60, referente aos danos morais e honorários" (fl. 347); (b) a multa cominatória é indevida, se não há a intimação pessoal da parte para o cumprimento da ordem judicial que fixa obrigação de fazer ou não fazer; e (c) é lícita a cobertura securitária na hipótese em que o segurado omite doenças preexistentes ao contrato.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado competente (fls. 343/352).
+Impugnação às fls. 355/366.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DOS DESCONTOS NA FOLHA DE PAGAMENTO. MULTA COMINATÓRIA. EXECUTADO INTIMADO PESSOALMENTE. VALIDADE. SÚMULA 410/STJ. VALOR DA MULTA COMINATÓRIA. SÚMULA 7/STJ AFASTADA. REDUÇÃO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Mantém-se a condenação do executado ao pagamento de multa cominatória, na hipótese em que ele é intimado pessoalmente para o cumprimento da obrigação de fazer. Inteligência da Súmula 410/STJ.
+2. Nos termos da jurisprudência do STJ, a redução ou majoração do valor da multa cominatória, em sede de recurso especial, só é admitida em situações excepcionais. No caso, além de o valor da multa cominatória (R$ 120.000,00) superar a quantia do próprio contrato objeto de revisão, não guarda nenhuma correspondência com o efetivo prejuízo sofrido pelo autor, em razão do atraso da instituição financeira em cumprir a obrigação de regularizar os descontos do contrato de empréstimo na folha de pagamento do demandante. Dessa forma, para evitar o enriquecimento ilícito do ora agravado, impõe-se o afastamento do óbice da Súmula 7/STJ para reduzir o valor da multa cominatória para R$ 20.000,00.
+3. Agravo interno provido, para dar parcial provimento ao recurso especial.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A decisão agravada merece reparos.
+De início, não se conhece do capítulo do agravo interno relativo à cobertura securitária, porque está dissociada da discussão dos autos, centrada na exigência de multa cominatória, em cumprimento de sentença relativo a contrato de mútuo bancário.
+Deve-se rejeitar a alegação de ofensa à Súmula 410 do STJ ("A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer"). Segundo o Tribunal de origem:
+"(..) o agravante, Banco Pan S. A., está devidamente cadastrado no sistema PJe como "parceiro para expedição eletrônica", exatamente na forma preconizada pelos dispositivos legais acima transcritos, de modo que não há violação à tese vinculante prevista no referido enunciado da súmula do c. STJ, pois a intimação eletrônica é considerada, também, como intimação pessoal.
+(..)
+Assim, não subsiste a alegação de ausência de intimação pessoal para cumprimento da obrigação de fazer, sob pena de multa." (fl. 175)
+Logo, intimado o executado pessoalmente, não se cogita do afastamento da multa cominatória.
+Por último, há de se destacar que o STJ só revisa o valor da multa cominatória em situações muito excepcionais, quando é manifesta a desproporção ante as circunstâncias da causa. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CASO DE URGÊNCIA/EMERGÊNCIA. RECUSA. NÃO CUMPRIMENTO DO PRAZO DE CARÊNCIA PARA ATENDIMENTO EMERGENCIAL. 24 HORAS. LIMITAÇÃO DA INTERNAÇÃO POR 12 HORAS. CARÁTER ABUSIVO. SÚMULAS N. 302 E 597 DO STJ. NEGATIVA INDEVIDA. OBRIGATORIEDADE DE ATENDIMENTO. DANO MORAL. CONFIGURAÇÃO. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. REVISÃO. NÃO CABIMENTO. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. ASTREINTES. IMPOSIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. VALOR. RAZOABILIDADE E PROPORCIONALIDADE. ACERVO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA N. 7 DO STJ. ARTS. 412 E 413 DO CC. MERA INDICA ÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não é abusiva a cláusula contratual que prevê prazo de carência para os serviços prestados pelo plano de saúde. No entanto, configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora.
+2. É abusiva a cláusula contratual que, em casos de urgência ou emergência, limita o período de internação ao período de 12 horas ou prevê carência para utilização dos serviços de assistência médica após ultrapassado o prazo máximo de 24 horas da contratação, conforme disposto nas Súmulas n. 302 e 597 do STJ.
+3. Havendo, em razão do período de carência estipulado no contrato, a indevida recusa de atendimento pela operadora do plano de saúde em caso de urgência ou emergência, é cabível a indenização por danos morais.
+4. Tendo o tribunal de origem concluído, mediante a análise do acervo probatório dos autos, pelo cabimento da multa cominatória por ausência de demonstração do cumprimento integral de obrigação, revisar referida conclusão encontra óbice na Súmula n. 7 do STJ.
+5. A questão relativa à redução/aumento das astreintes não pode ser revista na instância especial, pois tal procedimento implica reexame das circunstâncias fáticas que delimitaram a controvérsia (Súmula n. 7 do STJ), salvo se o arbitramento for excessivo ou ínfimo.
+6. Aplica-se a Súmula n. 284 do STF quando não for possível aferir de que maneira o acórdão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.858.967/CE, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+No caso, apesar de o Tribunal de origem ter mantido, por maioria, a condenação do ora agravante ao pagamento da multa cominatória no valor total de R$ 120.000,00, o voto divergente do acórdão já havia registrado a necessidade de redução dessa quantia, pois supera, inclusive, o valor do contrato que se pretendia revisar, na fase de conhecimento. Veja-se:
+"Por todas essas razões, entendo que a sua fixação é indevida.
+Se superado, sugiro a redução da astreinte para o importe total de R$ 10.000,00, pois arbitrada em valor superior ao contrato que se objetivava revisar (R$ 77.141,74) e ao atribuído à causa (R$ 95.658,84), tornando-se evidentemente abusiva e excessiva." (fl. 181)
+A ressalva do prolator do voto dissidente, na origem, está correta e é preciso acrescentar: além de o valor da multa cominatória superar a quantia do próprio contrato objeto de revisão, não guarda nenhuma correspondência com o efetivo prejuízo sofrido pelo autor, em razão do atraso do Banco Pan em cumprir a obrigação de regularizar os descontos do contrato de empréstimo na folha de pagamento do demandante.
+Dessa forma, para evitar o enriquecimento ilícito do ora agravado, impõe-se o afastamento do óbice da Súmula 7/STJ para reduzir o valor da multa cominatória para R$ 20.000,00.
+Ante o exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em novo julgamento, dar parcial provimento ao recurso especial, a fim de reduzir o valor da multa cominatória aplicada ao ora agravante para R$ 20.000,00 (vinte mil reais).
+É como voto.
