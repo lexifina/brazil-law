@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOAO LUIS GOMES CURTI - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1500327-36.2022.8.26.0603), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 1ª Vara Criminal da comarca de Araçatuba/SP (Ação Penal n. 1500327-36.2022.8.26.0603), ao argumento de que a busca pessoal que ensejou a prisão em flagrante não foi precedida de fundada suspeita da prática de crime.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois consta do auto de prisão em flagrante que ocorreu ordem de parada, tendo em vista que além da sacola plástica o condutor do veículo ao visualizar a viatura passou a transitar em velocidade incompatível com a via. A ordem de parada não foi obedecida. Iniciou-se uma perseguição que culminou na realização de uma busca pessoal, após o garupa do veículo, PABLO HENRIQUE DOS SANTOS DIAS, descer e tentar empreender fuga correndo (fl. 132).
+No mesmo sentido: a fuga do paciente ao avistar a equipe policial constitui elemento suficiente para configurar fundada suspeita, justificando a abordagem e a realização de busca pessoal, conforme jurisprudência consolidada desta Corte Superior (RHC n. 158.580/BA e AgRg no HC n. 913.025/SP) - (HC n. 809.094/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+Assim, inexistente flagrante ilegalidade na abordagem policial. Ademais, para entender que os fatos não se deram exatamente da forma como apresentados pelas instâncias ordinárias seria necessário o reexame de provas, o que se mostra inviável em sede de habeas corpus.
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. FUNDADA SUSPEITA. EXISTÊNCIA. FUGA AO AVISTAR OS POLICIAIS E POSSE DE SACOLA. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
