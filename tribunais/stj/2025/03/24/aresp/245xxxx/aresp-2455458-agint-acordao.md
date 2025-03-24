@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DE NORMA LEGAL SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação (Súmula n. 284 do STF).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS  contra  decisão  singular  da lavra da Ministra Presidente do STJ  que  não conheceu do  recurso  especial  em  virtude  do  óbice  da  Súmula  284  do  STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça do recurso não supre a exigência constitucional.
+Nas  razões  do  presente  agravo,  a parte agravante afirma que "no tocante à aplicação do enunciado em referência, nota-se que o recurso manejado apresentou, de forma clara, a fundamentação e os argumentos pelos quais entende que o v. acórdão recorrido violou o art. 884 do Código Civil, revelando-se inadequada a incidência do enunciado nº 284 do STF" (fl. 310).
+Aduz que "o referido Agravo de Instrumento questiona o excesso de execução na atualização monetária e na base de cálculo apresentados pela parte agravada, que, apesar de terem sido apontadas as impugnações aos cálculos, a manifestação ao cálculo da executada foi rejeitada equivocadamente em sede de decisão interlocutória do e. Juízo do Tribunal de Justiça do Estado de São Paulo. Frise -se, portanto, que não há o questionamento acerca da coisa julgada, mas a impugnação específica em relação aos cálculos de atualização monetária e de base de cálculo apresentados" (fl. 313).
+Defende que é inequívoca, assim, a clareza das razões para a reforma do v. acórdão recorrido, dada a sua clara contrariedade à disposição do art. 884 do Código Civil.
+A  impugnação  não  foi  apresentada .
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DE NORMA LEGAL SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação (Súmula n. 284 do STF).
+2. Agravo interno a que se nega provimento.
+VOTO
+O  recurso  não  merece  prosperar.
+Como  constou  na  decisão  agravada,  "a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no AR Esp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020).
+Da acurada análise das razões do recurso especial interposto pela parte ora agravante, verifico que a tese recorrida se resumiu: (i) a existência de erro material, sob o fundamento de que não há valor incontroverso indicado, e sim valor a ser restituído; (ii) os cálculos apresentados e aceitos ferem diversos parâmetros dispostos no Regulamento do Plano Petros do Sistema Petrobras ao elaborar o cálculo da suplementação inicial com base na data de concessão do INSS, haja vista a desconsideração total do teto previsto e a falta de demonstração das parcelas utilizadas para apuração dos salários de cálculo e participação; (iii) sobre o cálculo da suplementação do agravado deve ser acrescido do percentual de equivalência apurado com base nos 60 últimos meses anteriores à data início de benefício determinada pelas decisões do processo; (iv) os salários de cálculo e participação devem ser apurados considerando os tetos previstos no Regulamento do Plano; (v) a necessidade de prévio custeio, nos termos do Tema 955 do STJ (fls. 72/93).
+Como se vê, a parte agravante apenas indicou a violação ao seu regulamento interno e ao Tema 955 do STJ.
+Quanto ao mais, a pretensão de indicação da violação do art. 884 do Código Civil, somente ocorreu nas razões do presente recurso, o que não se admite, motivo pelo qual deve ser mantido o óbice da Súmula 284 do STF.
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego  provimento  ao  agravo  interno.
+É  como  voto.
