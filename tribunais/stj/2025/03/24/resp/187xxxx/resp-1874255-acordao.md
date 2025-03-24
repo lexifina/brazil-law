@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. MIGRAÇÃO PARA PLANO INDIVIDUAL. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Ação de obrigação de fazer em que as partes autoras pretendem a migração para plano de saúde individual ou familiar, após a não renovação do plano empresarial. Sentença de primeiro grau condenou a operadora a garantir a migração. A Corte estadual manteve a sentença, fundamentando-se na Resolução CONSU n. 19/1999 e no Código de Defesa do Consumidor.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a operadora de plano de saúde pode ser compelida a migrar beneficiários de plano coletivo para plano individual, mesmo sem comercializar essa modalidade, em caso de não renovação do plano coletivo.
+III. RAZÕES DE DECIDIR
+3. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+4. A recorrente não refutou adequadamente os fundamentos do Tribunal de origem, especialmente quanto à aplicação do CDC e à análise das cláusulas contratuais, sendo caso de aplicação da Súmula n. 283 do STF.
+5. A revisão das conclusões das instâncias de origem referentes à comercialização de plano individual demandaria reexame de provas, o que é incabível em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+7. Recurso não conhecido.
+Tese de julgamento: "1. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impõe o não conhecimento do recurso especial, nos termos da Súmula n. 282 do STF. 2. A ausência de impugnação dos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF. 3. A revisão de elementos probatórios dos autos é incabível em recurso especial."
+Dispositivos relevantes citados: CDC, art. 47; CPC, art. 77; Resolução CONSU n. 19/1999, art. 1º.
+Jurisprudência relevante citada: Não há jurisprudência relevante citada.
+RELATÓRIO
+Trata-se de recurso especial interposto por UNIMED SEGUROS SAÚDE S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS em apelação nos autos de ação de obrigação de fazer.
+O julgado foi assim ementado (fl. 598):
+EMENTA: APELAÇÃO CÍVEL. PLANO DE SAÚDE COLETIVO. NÃO RENOVAÇÃO. MIGRAÇÃO PARA PLANO INDIVIDUAL OU COLETIVO. POSSIBILIDADE. EMPRESA QUE COMERCIALIZA PLANOS COLETIVOS E INDIVIDUAIS. ARTIGO 1º DA RESOLUÇÃO 19 DA CONSU. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. PRINCIPIO DA BOA-FÉ. RECUSA INDEVIDA. Caso ocorra o cancelamento do plano de saúde unilateralmente junto à empresa, "as operadoras de planos ou seguros de assistência à saúde, que administram ou operam planos coletivos empresariais ou por adesão para empresas que concedem esse benefício a seus empregados, ou ex-empregados, deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, no caso de cancelamento desse benefício, sem necessidade de cumprimento de novos prazos de carência", conforme estabelece o artigo 1º da Resolução nº. 19 do Conselho de Saúde - CONSU. No momento em que a entidade atua como fornecedora de serviço de cobertura médico-hospitalar resta caracterizada a relação de consumo.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, a parte recorrente aponta ofensa aos seguintes artigos:
+a) 421 e 422 do CC, pois não pode ser compelida a manter vinculação nos mesmos termos da apólice anterior, havendo ofensa aos princípios basilares da função dos contratos, equilíbrio contratual e pacta sunt servanda;
+b) 774 e 796 do CC, por ser legal a contratação por prazo determinado de seguro e, assim, a não renovação está em total consonância também com o previsto no art. 774 do CC; e
+c) 13 da Lei n. 9.656/1998, pois o dispositivo legal não se aplica aos contratos de planos de saúde coletivos empresariais, mas apenas aos planos individuais/familiares. Pontua ser possível a rescisão/não renovação de plano coletivo e que, o prazo de vigência do contrato coletivo venceu em 31/5/2017 e a operadora optou por não renová-lo. Aduz que não se trata de rescisão unilateral ou cancelamento de contrato, mas sim de não renovação, não havendo, assim, desequilíbrio contratual.
+Alega que, de acordo com o art. 3º da Resolução CONSU n. 19/1999, a obrigatoriedade de disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários não se aplica ao caso, pois a recorrente não comercializa contratos na modalidade individual ou familiar.
+Defende que, conforme os art. 1º e 3º da CONSU n. 19/1999, inexiste a obrigatoriedade de manutenção do contrato de seguro e ainda, principalmente no caso em questão, por não comercializar planos individuais aos beneficiários que se encontram na iminência de terem seus contratos rescindidos, ou mesmo ingresso de novos beneficiários nesta modalidade.
+Sustenta que o contrato em questão deve ser analisado à luz do art. 760 do CC, onde a apólice deverá indicar o início e o fim de sua validade, evidenciado a ciências das partes de seu termo final.
+Requer que o recurso seja provido, reconhecendo a legalidade da conduta recorrente de não renovação de contrato coletivo de seguro saúde após o término da sua vigência anual, bem como que não há obrigação da recorrente em migrar os recorridos para plano de saúde individual, não comercializado pela seguradora.
+É o relatório.
+Parecer do Ministério Público Federal às fls. 835-839.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. MIGRAÇÃO PARA PLANO INDIVIDUAL. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Ação de obrigação de fazer em que as partes autoras pretendem a migração para plano de saúde individual ou familiar, após a não renovação do plano empresarial. Sentença de primeiro grau condenou a operadora a garantir a migração. A Corte estadual manteve a sentença, fundamentando-se na Resolução CONSU n. 19/1999 e no Código de Defesa do Consumidor.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a operadora de plano de saúde pode ser compelida a migrar beneficiários de plano coletivo para plano individual, mesmo sem comercializar essa modalidade, em caso de não renovação do plano coletivo.
+III. RAZÕES DE DECIDIR
+3. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+4. A recorrente não refutou adequadamente os fundamentos do Tribunal de origem, especialmente quanto à aplicação do CDC e à análise das cláusulas contratuais, sendo caso de aplicação da Súmula n. 283 do STF.
+5. A revisão das conclusões das instâncias de origem referentes à comercialização de plano individual demandaria reexame de provas, o que é incabível em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+7. Recurso não conhecido.
+Tese de julgamento: "1. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impõe o não conhecimento do recurso especial, nos termos da Súmula n. 282 do STF. 2. A ausência de impugnação dos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF. 3. A revisão de elementos probatórios dos autos é incabível em recurso especial."
+Dispositivos relevantes citados: CDC, art. 47; CPC, art. 77; Resolução CONSU n. 19/1999, art. 1º.
+Jurisprudência relevante citada: Não há jurisprudência relevante citada.
+VOTO
+A controvérsia diz respeito à ação de obrigação de fazer em que as partes autoras pretendem a migração para plano de saúde individual ou familiar, nos mesmos moldes de cobertura e carência, após a informação de que o plano empresarial não seria renovado.
+Na sentença, o Juízo de primeiro grau condenou a operadora do plano de saúde a garantir aos usuários do plano de saúde a migração para modalidade individual/familiar. Destacou que, em se tratando de plano de saúde coletivo empresarial, a Resolução ANS n. 195/2009, admite sua rescisão unilateral pela operadora do plano de saúde, desde que esgotado o prazo contratado, e mediante notificação prévia do contratante.
+Registrou que, nos termos da Resolução CONSU n. 19/1999, deve ser assegurado aos beneficiários do contrato de plano de saúde empresarial, na hipótese de rescisão da avença, a disponibilidade de sua migração para a modalidade individual e/ou familiar, o que não ficou demonstrado nos autos.
+A Corte estadual manteve a sentença concluindo que seria devida a migração dos beneficiários para plano de saúde individual/familiar. Destacou que a disponibilização de plano individual aos empregados em caso de cancelamento do plano coletivo, está disposta no art. 1º da Resolução n. 19/1.999 do Conselho de Saúde Suplementar.
+Fundamentou-se também nas normas do Código de Defesa do Consumidor, devendo ser observado de maneira explícita os princípios da informação e da transparência, os quais são consectários da boa-fé objetiva. Além disso, registrou que as cláusulas contratuais devem ser analisadas de modo mais favorável ao consumidor.
+Destacou que não seria caso de onerar a parte apelante, mas de cumprir o que dispõe a norma legal, de disponibilização de plano individual aos empregados em caso de cancelamento do plano coletivo, a teor do que dispõe o art. 1º da Resolução n. 19/1999 do Conselho de Saúde Suplementar.
+Ressaltou que a simples alegação de não comercializar o plano individual não ampara a atitude pela empresa deixando as partes sem cobertura.
+Decidiu que deveria ser mantida a sentença, uma vez que, diante dos princípios da transparência e da boa fé que regem os contratos consumeristas e em atendimento ao princípio de probidade e lealdade, conforme dispõe o art. 77 do CPC, o direito à saúde supera as questões postas pela operadora do plano, que pertence ao grupo econômico que comercializa, como sabido, planos coletivos e individuais.
+No entanto, nas razões do recurso especial, a parte recorrente limitou-se a afirmar que não pode ser compelida a manter vinculação nos mesmos termos da apólice anterior; ofensa ao princípio pacta sunt servanda e à função dos contratos; que o art. 13 da Lei n. 9.656/1.998, não se aplica aos contratos de planos de saúde coletivos empresariais, mas apenas aos planos individuais/familiares; que os arts. 1º e 3º da Resolução CONSU n. 19/1999, dispõem que inexiste a obrigatoriedade de manutenção do contrato de seguro; e que não comercializa plano na modalidade individual.
+Assim, a recorrente deixou de refutar os fundamentos do Tribunal de origem a respeito da aplicação do CDC ao caso sob análise, que a cláusula deveria ser analisada de modo favorável ao consumidor (art. 47 do CDC), que a questão deve ser analisada a luz dos princípios da informação e da transparência, os quais são consectários da boa-fé objetiva e em atendimento ao princípio de probidade e lealdade, conforme dispõe o art. 77 do CPC, o direito à saúde supera as questões postas pela operadora do plano.
+Além disso, acrescente-se ainda que a questão relativa à alegada ofensa aos arts. 421 e 422 do CC e ao art. 13 da Lei n. 9.656/1998, pois o dispositivo legal não se aplica aos contratos de planos de saúde coletivos empresariais, não foi objeto de debate no acórdão recorrido, tampouco no aresto que julgou os embargos de declaração.
+De igual modo, com relação à alegada ofensa aos arts. 774 e 796 do CC, ao argumento de ser legal a contratação por prazo determinado de seguro e, assim, a não renovação está em total consonância também com o previsto no art. 774 do CC, o Tribunal de origem não analisou a controvérsia sob esse aspecto, tendo se fundamentado especificamente nas previsões do CDC.
+Desse modo, não tendo as sobreditas teses sido analisadas pelo Tribunal de origem sob o viés alegado na petição do recurso especial, é caso, pois, de aplicação das Súmulas n. 282 do STF e 211 do STJ.
+Ressalte-se, nessa hipótese, que, para viabilizar o conhecimento do recurso especial, caberia à parte recorrente alegar ofensa ao art. 1.022 do CPC.
+Ademais, a Corte estadual, mantendo a sentença que concluíra que a exceção disposta no art. 3º da Resolução CONSU n. 19/1999, não diz respeito à requerida, que detém com ercialização de planos coletivos e individuais/familiares, não se enquadrando como operadora de autogestão e/ou de caráter fechado, e acrescentando que "empresa esta que pertence ao grupo econômico da UNIMED, maior operador de plano de saúde do Brasil, e que comercializa, como sabido, planos coletivos e individuais" (fl. 606).
+Assim, para re ver as conclusões das instâncias de origem de modo a concluir que não é devida a migração do plano por não haver comercialização na modalidade individual, seria necessário o reexame de provas, o que é incabível em recurso especial ante o óbice da Sumula n. 7 do STJ.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
