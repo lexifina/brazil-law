@@ -1,0 +1,125 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PEDIDO GENÉRICO. CABIMENTO EXCEPCIONAL. CPC/2015, ART. 324, § 1º, II. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de reparação por dano material cumulada com compensação por dano moral.
+2. Ausentes os vícios d o art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Admite-se o pedido genérico nas hipóteses em que não se faz possível determinar, desde logo, as consequências do evento danoso. Aplicação do comando inserto no art. 324, § 1º, II, do CPC.
+6. Isso porque, muito embora a lei processual imponha que o pedido seja certo e determinado não obsta que o mesmo seja genérico, como, "in casu", em que foi requerida a indenização pelos danos materiais e morais sem definição, "initio litis", do "quantum debeatur"".
+7. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interposto por ERBE INCORPORADORA 037 S. A. contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpusera para, nessa parte, negar-lhe provimento.
+Ação: de reparação por dano material cumulada com compensação por dano moral, ajuizada pela agravada, em face da agravante, devido à ocorrência de de vícios de construção em imóvel residencial.
+Sentença: julgou extinto o processo, sem resolução de mérito, nos termos do art. 485, IV e VI, do CPC.
+Acórdão: deu provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. SFH. PROGRAMA MINHA CASA, MINHA VIDA. VÍCIOS CONSTRUTIVOS. DANOS MATERIAIS E MORAIS. INTERESSE DE AGIR. PRÉVIO REQUERIMENTO ADMINISTRATIVO. PRESCINDIBILIDADE. DETALHAMENTO DO PEDIDO. INÉPCIA DA INICIAL. INOCORRÊNCIA. PERÍCIA TÉCNICA. JUNTADA DE CONTRATO DE FINANCIAMENTO PELA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE. ANULAÇÃO DA SENTENÇA. RECURSO PROVIDO.
+1. Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+2. Conforme decidiu o Supremo Tribunal Federal "o acionamento do Poder Judiciário não exige demonstração de prévia tentativa frustrada de entendimento entre as partes: basta a demonstração da necessidade da tutela jurisdicional, o que pode ser feito, por exemplo, a partir da narrativa de que um direito foi violado ou está sob ameaça" (RE 631.240, Rel. Ministro Roberto Barroso, j. em 03.09.2014).
+3. A inicial permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+4. A jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata.
+5. O princípio constitucional do devido processo legal impõe que se conceda aos litigantes o direito à produção de provas, devendo facultar-se amplos meios para que se possa comprovar os fatos que amparam o direito disputado em juízo.
+6. Mesmo que na espécie os vícios sejam estruturais e comuns às diversas unidades do conjunto imobiliário, há vícios construtivos, apontados pela autora, específicos de sua unidade habitacional, que tornam individualizado o seu pedido e podem ser objeto de apuração no curso da instrução. Isso reforça a necessidade de provimento jurisdicional, com a realização de perícia técnica.
+7. Reconhecer a carência da ação por "inadequação da demanda individual", causaria sim efetivo dano, mas à parte autora, em flagrante violação ao contraditório, à ampla defesa e ao devido processo legal.
+8. Apelação provida. Sentença anulada. (e-STJ Fls. 791/792)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 17, 319, IV, 489, § 1º, IV, e 1.022, II, parágrafo único e II, do CPC. Além de negativa de prestação jurisdicional, sustenta a inépcia da petição inicial, sob o fundamento de que o pedido formulado pela parte adversa é indeterminado. Afirma, ainda, a falta de interesse de agir da parte agravada, eis que ausente a comprovação de resolução administrativa do litígio.
+Decisão unipessoal: conheceu do agravo para conhecer parcialmente do recurso especial para, nessa parte, negar-lhe provimento.
+Agravo interno: nas razões do presente recurso, além da negativa de prestação jurisdicional, a agravante sustenta que a análise das razões recursais independe do revolvimento do acervo fático-probatório carreado aos autos. Insurge-se, por fim, contra a incidência da Súmula 568/SSTJ à espécie.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANO MATERIAL CUMULADA COM COMPENSAÇÃO POR DANO MORAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PEDIDO GENÉRICO. CABIMENTO EXCEPCIONAL. CPC/2015, ART. 324, § 1º, II. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de reparação por dano material cumulada com compensação por dano moral.
+2. Ausentes os vícios d o art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Admite-se o pedido genérico nas hipóteses em que não se faz possível determinar, desde logo, as consequências do evento danoso. Aplicação do comando inserto no art. 324, § 1º, II, do CPC.
+6. Isso porque, muito embora a lei processual imponha que o pedido seja certo e determinado não obsta que o mesmo seja genérico, como, "in casu", em que foi requerida a indenização pelos danos materiais e morais sem definição, "initio litis", do "quantum debeatur"".
+7. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada foi assim fundamentada, na parte em que impugnada pela agravante:
+- Da delimitação da controvérsia
+Registra-se, inicialmente, que a Segunda Seção desta Corte afetou para julgamento sob o rito dos recursos especiais repetitivos a seguinte questão jurídica: "possibilidade de o juiz, vislumbrando a ocorrência de litigância predatória, exigir que a parte autora emende a petição inicial com apresentação de documentos capazes de lastrear minimamente as pretensões deduzidas em juízo, como por exemplo: procuração atualizada, declaração de pobreza e de residência, cópias do contrato e dos extratos bancários" (ProAfR no REsp 2.021.665/MS, Segunda Seção, DJe 9/5/2023, Tema 1198).
+Foi determinada, ainda, "a suspensão dos processos pendentes, individuais ou coletivos, que tramitam no TJMS e nas Comarcas do Estado de Mato Grosso do Sul, que versem acerca das questões afetadas ao julgamento deste recurso especial". Verifica-se, portanto, que o presente julgamento não versa sobre a específica controvérsia a ser discutida no Tema 1198/STJ.
+Com efeito, na hipótese dos autos, não houve nenhuma discussão nas instâncias de origem a respeito de eventuais indícios de litigância predatória.
+Desse modo, o presente julgamento versa sobre a questão em uma perspectiva geral, não discutindo sobre a possibilidade de adoção das referidas medidas quando houver indícios de litigância predatória, que será objeto de apreciação por esta Corte no Tema 1198/STJ.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da regularidade da petição inicial e do interesse de agir da parte agravada, de maneira que os embargos de declaração opostos pelo agravante/recorrente de fato não comportavam acolhimento. Confira-se:
+PROCESSUAL CIVIL. SFH. PROGRAMA MINHA CASA, MINHA VIDA. VÍCIOS CONSTRUTIVOS. DANOS MATERIAIS E MORAIS. INTERESSE DE AGIR. PRÉVIO REQUERIMENTO ADMINISTRATIVO. PRESCINDIBILIDADE. DETALHAMENTO DO PEDIDO. INÉPCIA DA INICIAL. INOCORRÊNCIA. PERÍCIA TÉCNICA. JUNTADA DE CONTRATO DE FINANCIAMENTO PELA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE. ANULAÇÃO DA SENTENÇA. RECURSO PROVIDO.
+1. Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+2. Conforme decidiu o Supremo Tribunal Federal "o acionamento do Poder Judiciário não exige demonstração de prévia tentativa frustrada de entendimento entre as partes: basta a demonstração da necessidade da tutela jurisdicional, o que pode ser feito, por exemplo, a partir da narrativa de que um direito foi violado ou está sob ameaça" (RE 631.240, Rel. Ministro Roberto Barroso, j. em 03.09.2014).
+3. A inicial permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+4. A jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata.
+5. O princípio constitucional do devido processo legal impõe que se conceda aos litigantes o direito à produção de provas, devendo facultar-se amplos meios para que se possa comprovar os fatos que amparam o direito disputado em juízo.
+6. Mesmo que na espécie os vícios sejam estruturais e comuns às diversas unidades do conjunto imobiliário, há vícios construtivos, apontados pela autora, específicos de sua unidade habitacional, que tornam individualizado o seu pedido e podem ser objeto de apuração no curso da instrução. Isso reforça a necessidade de provimento jurisdicional, com a realização de perícia técnica.
+7. Reconhecer a carência da ação por "inadequação da demanda individual", causaria sim efetivo dano, mas à parte autora, em flagrante violação ao contraditório, à ampla defesa e ao devido processo legal.
+8. Apelação provida. Sentença anulada. (e-STJ Fls. 791/792)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à regularidade da petição inicial, bem como em relação à existência de interesse de agir da parte adversa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+O TRF3, ao decidir pela possibilidade de formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: EDcl no REsp n. 1.540.580/DF, Quarta Turma, DJe de 15/10/2024 e REsp n. 1.837.436/SP, Terceira Turma, DJe de 12/3/2020.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.(e-STJ Fls. 974/977)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da delimitação da controvérsia
+Registra-se, inicialmente, que a Segunda Seção desta Corte afetou para julgamento sob o rito dos recursos especiais repetitivos a seguinte questão jurídica: "possibilidade de o juiz, vislumbrando a ocorrência de litigância predatória, exigir que a parte autora emende a petição inicial com apresentação de documentos capazes de lastrear minimamente as pretensões deduzidas em juízo, como por exemplo: procuração atualizada, declaração de pobreza e de residência, cópias do contrato e dos extratos bancários" (ProAfR no REsp 2.021.665/MS, Segunda Seção, DJe 9/5/2023, Tema 1198).
+Foi determinada, ainda, "a suspensão dos processos pendentes, individuais ou coletivos, que tramitam no TJMS e nas Comarcas do Estado de Mato Grosso do Sul, que versem acerca das questões afetadas ao julgamento deste recurso especial". Verifica-se, portanto, que o presente julgamento não versa sobre a específica controvérsia a ser discutida no Tema 1198/STJ.
+Com efeito, na hipótese dos autos, não houve nenhuma discussão nas instâncias de origem a respeito de eventuais indícios de litigância predatória.
+Desse modo, o presente julgamento versa sobre a questão em uma perspectiva geral, não discutindo sobre a possibilidade de adoção das referidas medidas quando houver indícios de litigância predatória, que será objeto de apreciação por esta Corte no Tema 1198/STJ.
+2. Da violação do art. 1.022 do CPC
+Consoante consignado na decisão impugnada, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da regularidade da petição inicial e do interesse de agir da parte agravada, de maneira que os embargos de declaração opostos pelo agravante/recorrente de fato não comportavam acolhimento. Confira-se:
+PROCESSUAL CIVIL. SFH. PROGRAMA MINHA CASA, MINHA VIDA. VÍCIOS CONSTRUTIVOS. DANOS MATERIAIS E MORAIS. INTERESSE DE AGIR. PRÉVIO REQUERIMENTO ADMINISTRATIVO. PRESCINDIBILIDADE. DETALHAMENTO DO PEDIDO. INÉPCIA DA INICIAL. INOCORRÊNCIA. PERÍCIA TÉCNICA. JUNTADA DE CONTRATO DE FINANCIAMENTO PELA INSTITUIÇÃO FINANCEIRA. POSSIBILIDADE. ANULAÇÃO DA SENTENÇA. RECURSO PROVIDO.
+1. Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+2. Conforme decidiu o Supremo Tribunal Federal "o acionamento do Poder Judiciário não exige demonstração de prévia tentativa frustrada de entendimento entre as partes: basta a demonstração da necessidade da tutela jurisdicional, o que pode ser feito, por exemplo, a partir da narrativa de que um direito foi violado ou está sob ameaça" (RE 631.240, Rel. Ministro Roberto Barroso, j. em 03.09.2014).
+3. A inicial permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+4. A jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata.
+5. O princípio constitucional do devido processo legal impõe que se conceda aos litigantes o direito à produção de provas, devendo facultar-se amplos meios para que se possa comprovar os fatos que amparam o direito disputado em juízo.
+6. Mesmo que na espécie os vícios sejam estruturais e comuns às diversas unidades do conjunto imobiliário, há vícios construtivos, apontados pela autora, específicos de sua unidade habitacional, que tornam individualizado o seu pedido e podem ser objeto de apuração no curso da instrução. Isso reforça a necessidade de provimento jurisdicional, com a realização de perícia técnica.
+7. Reconhecer a carência da ação por "inadequação da demanda individual", causaria sim efetivo dano, mas à parte autora, em flagrante violação ao contraditório, à ampla defesa e ao devido processo legal.
+8. Apelação provida. Sentença anulada. (e-STJ Fls. 791/792)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC.
+De rigor, portanto, a incidência da Súmula 568/STJ quanto ao ponto.
+3. Da violação do art. 489 do CPC
+De outra parte, conforme consignado na decisão agravada, não há que se falar em ofensa ao art. 489 do CPC. Com efeito, a questão da da regularidade da petição inicial e do interesse de agir da parte agravada foi devidamente fundamentada, de sorte que restaram afastados os argumentos expostos pela parte agravante mediante a análise das circunstâncias delineadas nos autos.
+Ademais, saliente-se que o exame da suposta violação de tal dispositivo foi realizado de forma conjunta com a incidência do óbice da Súmula 7/STJ, razão pela qual a decisão agravada não merece reforma.
+4. Do reexame de fatos e provas
+No mais, acerca da inaplicabilidade da Súmula 7/STJ, no que se refere à regularidade da petição inicial, bem como em relação à existência de interesse de agir da parte adversa, tem-se que o Tribunal de origem ao manifestar-se acerca da matéria entendeu que:
+ ..
+" A matéria inicialmente em análise refere-se à imprescindibilidade ou não do prévio requerimento na via administrativa, como condição para o ingresso na via judicial, da pretensão de ressarcimento por danos decorrentes de vícios construtivos em imóvel residencial, no âmbito do Programa Minha Casa Minha Vida.
+Obstar a tutela jurisdicional somente porque a parte autora não buscou, na esfera administrativa, obter tal ressarcimento, poderia vir a causar vilipêndio não só aos princípios da proporcionalidade e da razoabilidade, como também infirmar o acesso à Justiça, assegurado no art. 5º, inc. XXXV, da Constituição Federal pois, em última análise, acabaria por inibir o particular de judicializar demandas de tal ordem.
+Conforme decidiu o Supremo Tribunal Federal "o acionamento do Poder Judiciário não exige demonstração de prévia tentativa frustrada de entendimento entre as partes: basta a demonstração da necessidade da tutela jurisdicional, o que pode ser feito, por exemplo, a partir da narrativa de que um direito foi violado ou está sob ameaça" (RE 631.240, Rel. Ministro Roberto Barroso, j. em 03.09.2014).
+(..)
+No caso, a apelante encaminhou notificação à CEF, comunicando as falhas construtivas no imóvel. Os elementos dos autos demonstram que não obteve nenhuma resposta (ID 273511258 e 273511259). Além disso, as corrés insurgiram-se com relação ao mérito do pedido em suas contestações, estando presente o interesse de agir, ante a resistência à pretensão autoral.
+(..)
+Compulsando os autos, nota-se que a parte autora busca a indenização por danos materiais e morais em razão de vícios construtivos observados em imóvel adquirido por meio do Programa Minha Casa Minha Vida, financiado pela Caixa Econômica Federal-CEF e edificado pela construtora.
+(..)
+A demandante salientou, também, que "os danos poderão ser constatados de forma técnica e específica quando da realização da perícia no imóvel, já pleiteada na exordial".
+Para comprovar a sua condição de mutuária, a parte autora juntou documento de identificação pessoal (ID 273511216), recibo de pagamento - habitação do mês 11/2022 (ID 273511263), declaração de quitação anual de débitos do contrato de financiamento habitacional nº 1.7100.0789.055-6 do ano-base de 2016, demonstrativo de valores cobrados no ano-base de 2018 e extrato de imposto de renda do ano-base de 2021 (ID 273511260 a 273511262), todos emitidos pela CEF.
+Muito embora não tenha havido a juntada do contrato de financiamento habitacional, a CEF apresentou, na contestação, planilha de evolução do financiamento, demonstrativo de débito, Anotação de Responsabilidade Técnica - ART, alvará de licença, habite-se, manual do usuário, relatório de acompanhamento de empreendimento e minuta do contrato (ID 273511232 a 273511234).
+Em sendo indispensável a juntada do contrato de financiamento habitacional celebrado entre as partes, pode ser determinada à CEF, na fase probatória.
+(..)
+É firme a jurisprudência do Supremo Tribunal Federal (Ação Direta de Inconstitucionalidade nº 2.591-DF, DJ 29/09/2006, p. 31) e do Superior Tribunal de Justiça (Súmula nº 297) quanto à aplicabilidade dos princípios do Código de Defesa do Consumidor aos contratos celebrados no âmbito do Sistema Financeiro de Habitação.
+A inicial, portanto, permite a identificação do pedido e da causa de pedir. Apresenta, também, correlação lógica e correta fundamentação, indicação dos fatos e documentos essenciais.
+Destaco que a jurisprudência do Superior Tribunal de Justiça admite a formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata: (e-STJ Fls. 797/802)
+ ..
+E, conforme consignado na decisão agravada, observa-se que o Tribunal a quo ao apreciar a questão, baseou-se no conjunto fático-probatório dos autos, pelo que rever aquele entendimento é obstado devido à aplicação da Súmula 7 desta Corte.
+Cumpre ainda ressaltar que a jurisprudência desta Corte admite que se promova a requalificação jurídica dos fatos ou a revaloração da prova. Trata-se, pois, de expediente diverso do reexame vedado pela Súmula 7/STJ, pois consiste "em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias" (AgInt no REsp 1.494.266/RO, 3ª Turma, DJe 30/08/2017).
+Frise-se, por oportuno, que, na hipótese em tela, não se cuida de valoração de prova, o que é viável no âmbito do recurso especial, mas de reapreciação da prova buscando sufragar reforma na convicção do julgador sobre o fato, para, in casu, se ter como não provado o que a Corte de origem afirmou estar.
+5. Da Súmula 568 do STJ
+De fato, o TRF3, ao decidir pela possibilidade de formulação de pedido genérico em relação ao dano material, na impossibilidade de sua quantificação imediata, alinhou-se ao entendimento do STJ quanto à matéria. Nesse sentido: E Dcl no R Esp n. 1.540.580/DF, Quarta Turma, D Je de 15/10/2024 e R Esp n. 1.837.436/SP, Terceira Turma, D Je de 12/3/2020.
+Ressalta-se que a aplicação da Súmula 568/STJ somente é devidamente impugnada quando a parte agravante demonstra, de forma fundamentada, que o entendimento esposado na decisão agravada não se aplica à hipótese em concreto ou, ainda, que é ultrapassado, o que se dá mediante a colação de arestos mais recentes do que aqueles mencionados na decisão hostilizada. Isso, contudo, não ocorreu na espécie.
+Assim, deve ser mantida a aplicação da Súmula 568/STJ.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
