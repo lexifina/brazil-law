@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. INOCORRÊNCIA.
+1. É deficiente o recurso especial cuja argumentação está dissociada da fundamentação empregada no acórdão recorrido. Inteligência da Súmula 284 do STF.
+2. Impossível a apreciação de recurso especial fundado em divergência jurisprudencial quando o recorrente não demonstra o alegado dissídio, nos moldes legais e regimentais.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por IAGO DE JESUS NETO que desafia decisão da Presidência do STJ, proferida às e-STJ fls. 569/571, que conheceu do agravo para não conhecer do recurso especial, com base nos seguintes fundamentos: (I) incidência da Súmula 284/STF; (II) a divergência jurisprudencial não foi demonstrada nos moldes legais e regimentais; e (III) divergência jurisprudencial prejudicada.
+No presente agravo interno, a parte agravante sustenta que não incide óbice sumular, bem como que permanece o dissenso pretoriano.
+Requer, assim, a reconsideração da decisão impugnada ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 593/602.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. COMPROVAÇÃO. INOCORRÊNCIA.
+1. É deficiente o recurso especial cuja argumentação está dissociada da fundamentação empregada no acórdão recorrido. Inteligência da Súmula 284 do STF.
+2. Impossível a apreciação de recurso especial fundado em divergência jurisprudencial quando o recorrente não demonstra o alegado dissídio, nos moldes legais e regimentais.
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão agravada, nas suas razões, a parte recorrente apontou, além de divergência jurisprudencial, violação do art. 1.015, XI, do CPC/2015 e defendeu a possibilidade de discussão, em sede de agravo de instrumento, acerca do cabimento de prova testemunhal.
+O Tribunal de origem esclareceu que "no caso em apreço, nota-se que inexiste urgência a justificar a interposição do presente agravo de instrumento, notadamente porque não haverá inutilidade da questão quando do julgamento da apelação, sendo que a matéria deve ser levantada nas preliminares do recurso apelatório, caso seja interposto, tendo em vista que não são atingidas pela preclusão, nos termos do artigo 1.009, parágrafo 1º, do Código de Processo Civil" (e-STJ fls. 507/508).
+Contudo, a leitura das razões do apelo nobre demonstra que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. ENCONTRO DE CONTAS. INSURGÊNCIA. REDISCUSSÃO EM EXECUÇÃO FISCAL. PRECLUSÃO PRO JUDICATO. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF.
+ ..
+IV - São deficientes os argumentos do recurso especial que apresentam razões recursais dissociadas, incapazes de infirmar os fundamentos do julgado impugnado. Aplicação, por analogia, das Súmulas n. 283 e 284 do STF.
+V - Agravo Interno desprovido. (AgInt no REsp n. 2.151.197/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJEN de 29/11/2024.)
+Ademais, mostra-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, não atendendo, portanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, preconizados pelos arts. 1.029, § 1º, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+Com efeito, o Superior Tribunal de Justiça já decidiu: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório" (AgInt no AREsp n. 1.242.167/MA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5.4.2019).
+Ainda nesse sentido: "A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal" (AgInt no REsp n. 1.903.321/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 16.3.2021).
+Confiram-se também os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, Rel. Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º.8.2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 13.8.2020; AgRg no AREsp n. 1.422.348/RS, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.456.746/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 3.6.2020; AgInt no AREsp n. 1.568.037/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.5.2020; AgInt no REsp n. 1.886.363/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 28.4.2021; AgRg no REsp n. 1.857.069/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 5.5.2021.
+Além disso, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial que tem por objeto a mesma questão aventada sob os auspícios da alínea "a" do permissivo constitucional, que, por sua vez, foi obstaculizada pela ausência de impugnação específica dos fundamentos do acórdão recorrido.
+Assim, quando remanesce incólume fundamento capaz por si só de manter o acórdão recorrido, impõe-se o reconhecimento da inexistência de identidade jurídica entre os arestos confrontados, requisito indispensável ao conhecimento do Recurso Especial pela alínea "c".
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
