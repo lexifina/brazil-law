@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação revisional de contrato.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de admissibilidade: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de admissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: revisional de contrato de empréstimo pessoal, ajuizada por VALDEMIRO ACOSTA, em face da agravante, visando reduzir encargos que julga abusivos.
+Sentença: julgou procedentes os pedidos para limitar os juros remuneratórios à taxa média de mercado, descaracterizar a mora e autorizar a restituição de valores na forma simples.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - PRELIMINARES DE AUSÊNCIA DE FUNDAMENTAÇÃO, CERCEAMENTO DE DEFESA, DA INÉPCIA DA PETIÇÃO INICIAL E DA PRESCRIÇÃO AFASTADAS - DO MÉRITO - DOS JUROS REMUNERATÓRIOS - ABUSIVIDADE VERIFICADA - DA MORA - DO PACTA SUNT SERVANDA - SENTENÇA MANTIDA - RECURSO IMPROVIDO. I - Estando a sentença de primeiro grau suficientemente motivada e não havendo violação às garantias constitucionais, deve ser afastada a alegação de nulidade por ausência de fundamentação. II - Incumbe ao julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indeferir pedido de produção de outras provas. Cabe ao juiz, como destinatário da prova, decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, indeferindo aquelas que se mostrarem inúteis ou protelatórias. III - Se a petição inicial indicou de forma suficiente, clara e precisa a causa de pedir e o pedido e veio acompanhada dos documentos indispensáveis para a propositura da ação ( CPC, artigos 319 e 320), não há que se falar em inépcia da inicial. IV - "A prescrição da pretensão de revisar cláusulas contratuais de contrato de empréstimo bancário é decenal, porquanto a ação é de natureza pessoal, estando tal prazo prescricional regulado pela regra do artigo 205, do Código Civil. Jurisprudência do STJ". (TJMS. Apelação Cível n. 0817527-50.2022.8.12.0001, Campo Grande, 2ª Câmara Cível, Relator (a): Des. Lúcio R. da Silveira, j: 13/09/2023, p: 18/09/2023). V - Havendo significativa discrepância entre o índice pactuado a título de juros remuneratórios e a média praticada pelo mercado ao tempo da contratação, a sentença deve ser mantida neste ponto, para que os juros remuneratórios obedeçam à média do Banco Central. VI - Havendo revisão dos encargos e fixados de acordo com a taxa média de mercado, ocorre a descaracterização da mora. VII - O princípio "pacta sunt servanda" não é absoluto, devendo ser interpretado de forma relativa, em virtude do caráter público das normas violadas no contrato. (e-STJ, fls. 807/808)
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão que inadmitiu o recurso especial.
+Agravo interno: alega, em síntese, que seu recurso especial preencheu os requisitos de admissibilidade exigidos, asseverando ainda, que rebateu todos os fundamentos da decisão denegatória de processamento do recurso.
+Afirma que "a agravante apresentou de forma clara a divergência jurisprudencial, nos termos do artigo 1.029, § 1º, do CPC, colacionando o acórdão paradigma que aborda o mesmo tema com solução jurídica diversa. Assim, restou cumprido o requisito essencial para o conhecimento do Recurso Especial, sendo necessário que o mérito seja apreciado por esta Corte."
+Sustenta que "ao contrário do entendimento firmado na decisão agravada, a aplicação das Súmulas 5 e 7 do STJ não se justifica no presente caso, uma vez que a controvérsia em análise não requer o reexame de provas ou interpretação de cláusulas contratuais, mas sim a divergência jurisprudencial ocorrida no caso."
+Requer, assim, o provimento do agravo para que seja determinado o processamento do recurso especial e apreciado o mérito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Ação revisional de contrato.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação dos seguintes fundamentos da decisão de admissibilidade: i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ); ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ); iii) dissídio jurisprudencial prejudicado.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de admissão do recurso especial. Precedentes.
+4. Agravo interno não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial, com fundamento no art. 932, III, do CPC, ante a ausência de impugnação dos seguintes fundamentos da decisão de admissibilidade proferida pelo TJ/MS:
+i) necessidade de reexame de contexto fático-probatório (Súmula 7/STJ);
+ii) necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ);
+iii) dissídio jurisprudencial prejudicado.
+1. Do reexame de contexto fático-probatório (Súmula 7/STJ) e do reconhecimento da necessidade de interpretação de cláusulas contratuais (Súmula 5/STJ)
+Da leitura dos autos, verifica-se que a parte agravante, sequer, tangenciou os referidos fundamentos nas razões do agravo em recurso especial, só findo a fazê-lo, extemporaneamente, no agravo interno.
+2. Da deficiência na demonstração do dissídio jurisprudencial;
+De igual forma, a agravante deixou de impugnar o fundamento da decisão de admissibilidade, segundo o qual: "inadmitido o recurso especial pela impossibilidade do reexame de provas ou, ainda, pelo fato de que o acórdão recorrido se encontra em conformidade com a jurisprudência dominante do Tribunal Superior, ou mesmo com Súmula ou, ainda, com precedentes ou temas debatidos naquela mesma instância, toma-se inadmissível seu processamento por alegação de suposto enquadramento na alínea "c" do mesmo dispositivo constitucional (dissídio jurisprudencial), eis que ausente, em tese, a similitude fática entre os acórdãos, consoante exaustivamente tem sido afirmado pacificado pelo mesmo Colendo Superior Tribunal de Justiça."
+Ademais, com o objetivo de impugnar o óbice da ausência de comprovação da divergência jurisprudencial, deve a parte agravante comprovar que realizou uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ, o que não se verificou nas razões do agravo em recurso especial.
+Nesse sentido: AgInt no REsp n. 1.813.194/ES, Terceira Turma, DJe de 29/2/2024 e AgInt no REsp n. 2.041.495/RN, Quarta Turma, DJe de 20/12/2023.
+Em atenção ao princípio da dialeticidade, cumpre à parte agravante apontar que, nas razões do agravo em recurso especial, combateu os fundamentos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade nas razões do agravo interno.
+Assim sendo, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Nesse sentido: AgInt no AREsp 2.152.939/RS, Terceira Turma, DJe de 18/8/2023 e AgInt no AREsp 1.895.548/GO, Quarta Turma, DJe de 18/3/22.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo.
