@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL  CIVIL.  PREPARO  RECURSAL.  INTIMAÇÃO  PARA  REGULARIZAÇÃO.  DESCUMPRIMENTO.  DECRETAÇÃO  DA  DESERÇÃO.  SÚMULA  N.  187/STJ.
+Tendo  sido  oportunizada  à  parte  a  regularização  do  preparo  e/ou  comprovação  de  ser  beneficiária  da  justiça  gratuita,  e  não  o  fazendo  no  prazo  legal,  legítima  a  decretação  de  deserção  do  recurso.  Incidência  da  Súmula  n.  187/STJ.
+Agravo  interno  improvido.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+Cuida-se  de  agravo  interno  interposto  por  CAIXA  DE  ASSISTENCIA  DOS  ADVOGADOS  DO  ESTADO  DO  RJ  contra  decisão  monocrática  da  Presidência  do  STJ  que  não  conheceu  do  recurso  especial  interposto  (fls.  147-148).
+Em  suas  razões  recursais,  a  parte  agravante  defende  que  (fls.  151-153):
+Contudo,  por  erro  material,  a  Agravante,  que  recolheu  corretamente  as  custas,  efetuou  o  respectivo  protocolo  do  comprovante  nos  autos  do  processo  AR  Esp  2600543  (2024/0087023-1),  dentro  do  prazo  correto  para  o  cumprimento  do  despacho  de  fls.  140  dos  presentes,  conforme  se  pode  analisar  no  Doc  00  -  Protocolo  -  Petição  STJ  -  AR  Esp  2600543,  Doc.  07  -  COMPROVANTE  -  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  -  10-06-2024  e  Doc.  08  -  PROTOCOLADA  -  PETIÇÃO  DE  JUNTADA  -  AR  Esp  2648524RJ,  todos  em  anexo.
+Importa  ressaltar  que  a  publicação  da  mencionada  Certidão  de  Saneamento  de  Óbices  se  deu  em  07.06.2024  e  o  protocolo,  feito  erroneamente,  em  11.06.2024,  portanto  dentro  do  prazo  de  5  dias.
+Desta  forma,  diante  da  ausência  do  protocolo,  Vossa  Excelência  considerou  deserto  o  presente  recurso.  Todavia,  em  razão  da  realização  de  todos  os  atos  processuais  tempestivamente,  mas  protocolados  erroneamente  nos  autos  do  AREsp  2600543  (2024/0087023-1),  conforme  mencionado  nos  parágrafos  anteriores,  em  homenagem  ao  princípio  do  acesso  à  justiça,  previsto  no  art,  52,  XXXV  da  Constituição  da  República,  bem  como  ao  da  instrumentalidade  das  formas,  tendo  em  vista  que  o  ato  cumpriu  sua  finalidade,  é  possível  haver  reconsideração  da  decisão  de  fls.  147/148,  que  julgou  deserto  o  Agravo  em  Recurso  Especial  da  CAARJ.
+Nesse  sentido,  cumpre  transcrever  aresto  desta  própria  Corte  que,  em  casos  de  erros  de  protocolo,  em  autos  diversos,  ausente  a  hipótese  de  má-fé,  como  in  casu,  vem  admitindo  o  seguimento  dos  recursos,  verbis-.
+ ..
+Diante  de  todo  o  exposto,  requer:
+1.  Seja  integralmente  reconsiderada  a  decisão  de  fls.  147/148  para  que  não  seja  negado  seguimento  ao  recurso  em  questão,  considerando  a  ausência  de  má-fé  no  erro  de  protocolo  realizado  pela  Agravante.
+É,  no  essencial,  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL.  PREPARO  RECURSAL.  INTIMAÇÃO  PARA  REGULARIZAÇÃO.  DESCUMPRIMENTO.  DECRETAÇÃO  DA  DESERÇÃO.  SÚMULA  N.  187/STJ.
+Tendo  sido  oportunizada  à  parte  a  regularização  do  preparo  e/ou  comprovação  de  ser  beneficiária  da  justiça  gratuita,  e  não  o  fazendo  no  prazo  legal,  legítima  a  decretação  de  deserção  do  recurso.  Incidência  da  Súmula  n.  187/STJ.
+Agravo  interno  improvido.
+VOTO
+O  EXMO.  SR.  MINISTRO  HUMBERTO  MARTINS  (relator):
+A  irresignação  recursal  não  merece  prosperar.
+Na  espécie,  a  Presidência  desta  Corte  Superior  não  conheceu  do  recurso  especial  em  razão  de  sua  deserção,  conforme  se  pode  observar  da  leitura  do  seguinte  trecho  (fls.  147-148):
+Mediante  análise  do  recurso  de  CAIXA  DE  ASSISTENCIA  DOS  ADVOGADOS  DO  ESTADO  DO  R  J,  o  recurso  especial  não  foi  instruído  com  a  guia  de  custas  devidas  ao  STJ  e  o  respectivo  comprovante  de  pagamento.
+Ademais,  o  recurso  especial  não  foi  instruído  com  a  guia  de  custas  devidas  ao  STJ  e  o  respectivo  comprovante  de  pagamento.
+Antes  de  o  Tribunal  de  origem  proceder  à  intimação  para  o  recolhimento  em  dobro,  previsto  no  §  4º  do  art.  1.007  do  Código  de  Processo  Civil,  a  parte  juntou  a  guia  de  recolhimento  e  o  respectivo  comprovante  de  pagamento;  no  entanto,  de  forma  simples.
+Outrossim,  percebeu-se,  no  STJ,  haver  irregularidade  no  recolhimento  do  preparo.  A  parte,  embora  regularmente  intimada  para  sanar  referido  vício,  nos  termos  do  §  2º  c/c  o  §  4º  do  art.  1.007  do  Código  de  Processo  Civil,  deixou  o  prazo  transcorrer  in  albis.
+Dessa  forma,  o  recurso  especial  não  foi  devida  e  oportunamente  preparado,  incidindo,  na  espécie,  o  disposto  na  Súmula  n.  187  deste  Tribunal,  o  que  leva  à  deserção  do  recurso.
+ ..
+Ante  o  exposto,  com  base  no  art.  21-E,  V,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  recurso.
+Com  efeito,  verifica-se  que  a  decisão  da  Presidência  está  em  plena  consonância  com  a  jurisprudência  firmada  por  esta  Corte  Superior,  uma  vez  que  o  STJ  adota  o  entendimento  de  que,  "tendo  sido  oportunizada  à  parte  a  regularização  do  preparo  e/ou  comprovação  de  ser  beneficiária  da  justiça  gratuita,  e  não  o  fazendo  no  prazo  legal,  legítima  a  decretação  de  deserção  do  recurso.  Incidência  da  Súmula  n.  187/STJ"  (AgInt  no  AREsp  n.  2.353.061/RJ,  relator  Ministro  Humberto  Martins,  Terceira  Turma,  julgado  em  11/9/2023,  DJe  de  13/9/2023).
+Nesse  mesmo  sentido, cito :
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ADVOGADA  SUBSCRITORA  DO  RECURSO  ESPECIAL  E  DO  AGRAVO  SEM  PROCURAÇÃO  NOS  AUTOS.  INTIMAÇÃO  PARA  REGULARIZAR  A  REPRESENTAÇÃO  PROCESSUAL  NÃO  ATENDIDA.  APLICAÇÃO  DO  DISPOSTO  NO  ART.  76,  §  2º,  DO  NCPC.  ART.  1.017,  §  5º,  DO  NCPC.  INAPLICABILIDADE.  CORTES  SUPERIORES.  ACESSO  AOS  AUTOS  ELETRÔNICOS  ORIGINÁRIOS.  INVIABILIDADE.  INCIDÊNCIA  DA  SÚMULA  N.  115  DO  STJ.  DESERÇÃO  DO  APELO  NOBRE.  AUSÊNCIA  DE  GUIA  DE  RECOLHIMENTO  DO  PREPARO  MESMO  APÓS  A  INTIMAÇÃO  PARA  JUNTADA.  SÚMULA  N.º187  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Conforme  o  disposto  no  art.  76,  §  2º,  I,  do  NCPC,  não  se  conhece  do  recurso  quando  a  parte  recorrente  descumpre  a  determinação  para  regularização  da  representação  processual.
+2.  À  dispensa  de  juntada  de  peças  prevista  no  art.  1.017,  §  5º,  do  CPC  aplica-se  a  interposição  do  agravo  de  instrumento  e  está  voltada  à  primeira  e  à  segunda  instâncias  de  jurisdição,  não  alcançando  as  instâncias  superiores,  diante  da  impossibilidade  de  acesso  deste  Tribunal  Superior  aos  autos  eletrônicos  originais.  Precedentes.
+3.  É  inexistente  o  recurso  dirigido  à  instância  superior  desacompanhado  da  cadeia  completa  de  procurações  ou  substabelecimentos  à  luz  da  Súmula  n.  115  do  STJ.
+4.  A  ausência  da  guia  de  recolhimento  do  preparo  ou  a  sua  juntada  sem  a  observância  dos  requisitos  exigidos  é  suficiente  para  interditar  o  conhecimento  do  apelo  nobre,  porque  constitui  ônus  do  recorrente  fazer  juntar  aos  autos,  em  tempo  oportuno,  o  comprovante  de  recolhimento  de  preparo  e  a  guia  de  recolhimento,  sob  pena  de  deserção,  caso  não  atendida  a  intimação  para  sua  regularização.
+Incidência  da  Súmula  n.  187  do  STJ.
+5.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.621.865/SP,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  23/9/2024,  DJe  de  25/9/2024.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECOLHIMENTO  DO  PREPARO  RECURSAL  NO  ATO  DE  INTERPOSIÇÃO  DO  RECURSO  ESPECIAL  NÃO  COMPROVADO.  ERRO  NA  INDICAÇÃO  DO  NÚMERO  DO  PROCESSO  DE  ORIGEM.  INTIMAÇÃO  PARA  REGULARIZAÇÃO.  DESCUMPRIMENTO  DO  ART.  1.007,  §  4º,  DO  CPC/2015.  DESERÇÃO.  INSTRUMENTALIDADE  DAS  FORMAS  INAPLICÁVEL.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou-se  no  sentido  de  que  "a  ausência  de  regular  comprovação  do  preparo,  no  ato  de  interposição  do  recurso,  implica  a  incidência  do  §  4º  do  art.  1.007  do  CPC/2015.  Quem  não  prova  o  pagamento  a  tempo  e  modo,  sem  o  amparo  de  justa  causa  (§  6º),  nem  efetua  o  recolhimento  em  dobro  quando  intimado  (§§  4º  e  5º),  sofre  a  pena  da  deserção  (Súmula  187/STJ)"  -  (AgInt  no  REsp  n.  1.856.622/RS,  Relator  o  Ministro  Og  Fernandes,  Segunda  Turma,  julgado  em  15/6/2020,  DJe  de  24/6/2020).
+2.  Na  hipótese  dos  autos,  foi  determinada  a  intimação  da  recorrente  para,  no  prazo  de  5  (cinco)  dias,  sanar  a  irregularidade.  No  entanto,  a  parte  não  o  fez,  subsistindo  o  defeito  no  preenchimento  da  guia  do  preparo,  consistente  na  indicação  errônea  do  processo  na  origem.
+3.  Não  saneado  o  defeito  constatado  no  preparo  do  recurso  especial,  após  a  intimação  da  parte  recorrente,  impositivo  o  não  conhecimento  do  recurso  especial,  considerando  que  "caracteriza  deserção  recursal,  a  atrair  o  óbice  da  Súmula  187/STJ,  a  irregularidade  no  preenchimento  das  guias  do  preparo  consistente  na  indicação  errônea  do  campo  referente  ao  "Processo  na  Origem"  que  não  for  oportunamente  corrigida"  (AgInt  no  AREsp  n.  2.170.480/GO,  Relator  o  Ministro  Afrânio  Vilela,  Segunda  Turma,  julgado  em  26/2/2024,  DJe  de  29/2/2024).
+4.  Esclareça-se,  ao  ensejo,  que  "a  consequência  prevista  expressamente  na  lei  processual  civil  para  a  ausência  de  regularização  do  preparo  no  prazo  designado  é  o  reconhecimento  da  deserção  e  o  não  conhecimento  do  recurso,  motivo  pelo  qual  não  procede  a  alegação  no  sentido  de  que  deve  ser  aplicado  ao  caso  o  princípio  da  instrumentalidade  das  formas,  sobretudo  quando  foi  concedida  à  parte  oportunidade  de  sanar  o  vício"  (AgInt  no  AREsp  n.  1.900.761/RJ,  relator  o  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  30/5/2022,  DJe  de  2/6/2022).
+5.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  1.473.139/MG,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  12/8/2024,  DJe  de  15/8/2024.)
+Dessarte,  não  foram  apresentados  elementos  aptos  a  modificar  o  decidido.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  como  penso.  É  como  voto.
