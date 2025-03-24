@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por FLAVIO AUGUSTO FERREIRA MENK à decisão de fl. 541, que não conheceu do recurso.
+Sustenta a parte embargante:
+Colhe-se dos autos, que o acórdão objeto do Recurso Especial, proferido na origem em sede de apelação (fls. 467/476) foi publicado em 05.02.2024 (fls. 477) e republicado em 21/02/2024 (fls. 481), em face do v. acórdão foram opostos os embargos de declaração (fls. 482/491), os quais foram julgados nos termos do v. acórdão de fls. 493/499 e disponibilizado no DJE em 26/04/2024, considerando-se a data de publicação em 30.04.2024, em razão do feriado nacional de 29.04.2024 (Sexta-Feira Santa). Considerando-se ainda o feriado nacional de 01.05.2024 (Dia do Trabalho), o prazo recursal iniciou-se em 02.05.2024.
+ ..
+Com a devida vênia, a decisão embargada apresenta uma contradição e obscuridade evidente ao não considerar os feriados nacionais que impactaram diretamente a contagem do prazo recursal. É imperativo esclarecer que a contagem correta dos dias úteis demonstra a tempestividade do recurso interposto pelo Embargante.
+A decisão embargada se equivocou em abordar de forma clara e detalhada a contagem dos prazos, desconsiderando os feriados de 29 de abril de 2024 (Sexta-Feira Santa) e 1º de maio de 2024 (Dia do Trabalho).
+ ..
+A decisão embargada foi disponibilizada no DJE em 26 de abril de 2024 e publicada em 30 de abril de 2024, devido ao feriado nacional de 29 de abril de 2024. Considerando que o dia 1º de maio de 2024 também foi feriado nacional, o prazo recursal iniciou-se em 2 de maio de 2024. Portanto, ao interpor o recurso em 22 de maio de 2024, o Embargante agiu dentro do prazo legal, respeitando os 15 dias úteis estabelecidos pela legislação processual.
+Aduz ainda que:
+Além disso, a decisão embargada promoveu a majoração dos honorários advocatícios em 15% sobre o valor já arbitrado, em desfavor da parte embargante, com base na intempestividade do recurso. No entanto, essa majoração não se sustenta, uma vez que o recurso foi interposto dentro do prazo legal.
+Portanto, a decisão embargada incorre em contradição ao aplicar uma penalidade baseada em uma premissa incorreta (fls. 545/546).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em sentido contrário ao alegado, nos autos há apenas a certidão de fl. 500, atestando a disponibilização ocorrida em 26 .4.2024, com a publicação no próximo dia útil subsequente, ou seja, 29.4.2024 Além disso, não há nenhum documento do Tribunal a quo certificando o exposto pela parte.
+Cabia a esta fazer prova de sua argumentação, por meio de certidão expedida pelo Tribunal, em que constaria a publicação supostamente equivocada no ato de interposição do recurso. Se assim não fez, não há como acolher a sua alegação. Nesse sentido: AgInt no AREsp 1349668/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 27.2.2019; e AgInt no AREsp 1329622/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 17.12.2018.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+É certo que o feriado nacional de 1º.5.2024 não precisa ser comprovado. Porém, o dia 29.4.2024 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Registre-se que o feriado de sexta-feira da paixão no ano de 2024, ocorreu no dia 29 de março e não no dia 29 de abril como informado pela parte.
+Ressalte-se, ainda, que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Quanto aos honorários, o novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Observe-se que, no presente caso, não há omissão, porquanto o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
