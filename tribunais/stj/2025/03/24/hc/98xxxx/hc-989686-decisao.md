@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DINARTE AIRES DE CARVALHO, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (n. 5376459-35.2024.8.21.7000).
+Consta dos autos que foi decretada a prisão preventiva do paciente pela suposta prática do delito de integração em organização criminosa voltada ao tráfico de drogas e lavagem de dinheiro.
+Irresignada, a defesa impetrou a ordem originária na Corte estadual. Contudo, o Tribunal de Justiça de origem denegou a ordem, de acordo com a seguinte ementa (e-STJ fls. 18):
+HABEAS CORPUS. CRIMES RELACIONADOS AO TRÁFICO DE DROGAS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. LEGALIDADE DA PRISÃO PREVENTIVA JÁ APRECIADA POR ESTA CORTE. FUMUS COMMISSI DELICTI E PERICULUM LIBERTATIS EVIDENCIADOS NOS AUTOS. A necessidade e a legalidade da prisão preventiva do paciente já foi analisada por esta Corte quando do julgamento do Habeas Corpus nº 5249676-95.2024.8.21.7000. Não há perder de vista que o fato imputado ao paciente é grave e não sobreveio aos autos fato novo e hábil a afastar os fundamentos da prisão preventiva. Ainda que o paciente tenha realizado cirurgia gástrica no ano de 2021, não ficou minimamente demonstrada a necessidade de tratamento especial, tampouco que o estabelecimento prisional não possa fornecê-lo. Caso necessário, é relevante pontuar, a análise pormenorizada da situação do paciente deve se dar primeiramente pelo Juízo de origem, sob pena de supressão de instância. A permanência dos motivos que ensejaram a prisão preventiva da paciente é fundamento idôneo a justificar a manutenção da medida cautelar extrema (AgRg no RHC n. 164.953/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022). ORDEM DENEGADA.
+Na presente oportunidade, o impetrante sustenta a ausência de fundamentação do decreto preventivo, lastreada na gravidade em abstrato do delito.
+Aduz que a prisão é desproporcional, acrescentando que a paciente é primária e possui estado de saúde debilitado em razão de cirurgia gástrica efetuada em 2021 .
+Aponta, ainda, para ausência de contemporaneidade do decreto preventivo.
+Aduz ser possível a aplicação de medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a revogação da prisão, com ou sem a incidência de medidas cautelares diversas ou, subsidiariamente, a domiciliar (e-STJ fl. 2/17).
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque a defesa não juntou aos autos cópia de peças processuais indispensáveis para a compreensão da controvérsia, ou seja, o decreto preventivo e o inteiro teor do acórdão impugnado.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ausente a prova pré-constituída do direito alegado, o não conhecimento do mandamus é medida que se impõe.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente presente habeas corpus.
+Intimem-se.
+EMENTA
