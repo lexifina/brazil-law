@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por AMAZONAS COMÉRCIO DE COMBUSTÍVEIS LTDA contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REVENDA DE COMBÚSTIVEIS. CONTRIBUIÇÃO AO PIS E COFINS. TRIBUTOS COM INCIDÊNCIA MONOFÁSICA. MANUTENÇÃO DE CRÉDITOS. ACÓRDÃO RECORRIDO PELA INEXISTÊNCIA DO DIREITO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+3. Consoante pacífica orientação jurisprudencial deste Tribunal Superior, "as receitas provenientes das atividades de venda e revenda sujeitas à contribuição ao PIS e à Cofins, em regime especial de tributação monofásica, não permitem o creditamento pelo revendedor das referidas contribuições" (AgInt nos EDcl nos EAREsp n. 1.542.750/PE, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 15/10/2024, DJe de 21/10/2024). Observância de tese firmada em precedentes qualificados (tema 1093).
+4. No caso dos autos, considerada a premissa de que a pretensão da parte recorrente se relaciona com aquisição de mercadorias sujeitas à tributação monofásica das referidas contribuições, calculadas mediante a adoção da alíquota zero, percebe-se que o conhecimento do recurso encontra óbice na Súmula 83 do STJ, pois o acórdão recorrido está em conformidade com a pacífica orientação jurisprudencial deste Tribunal Superior. Precedentes.
+5. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 224/225):
+Não houve a apreciação da tese recursal veiculada no item 2.2 do agravo interno, no sentido da inaplicabilidade da Súmula 83/STJ ao caso concreto. Isso porque, como defendido naquele item, a fixação desta tese no Tema 1.093/STJ é anterior à entrada em vigor do art. 9º, caput e § 2º, da Lei Complementar nº 192/2022 apontado como violado pela embargante. Não há dúvidas de que o entendimento adotado na origem foi o de que "o art. 9º da Lei Complementar n. 192/2022 não autorizou a constituição de créditos de PIS/COFINS em decorrência da aquisição, por comerciantes varejistas e atacadistas de combustíveis, de produtos sujeitos à tributação monofásica". Justamente por considerar equivocada essa premissa que a embargante interpôs recurso especial requerendo a prestação de nova tutela jurisdicional e, consequentemente, a reforma do acórdão, em razão da violação ao art. 9º, caput e § 2º, da Lei Complementar nº 192/2022.
+Sem impugnação da parte agravada (fl. 201).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada; e só se verifica a intenção da parte embargante de rediscutir a matéria por via recursal inadequada a essa finalidade.
+De fato, o voto condutor do acórdão consignou (fl. 210):
+O órgão julgador concluiu: "o art. 9º da Lei Complementar n. 192/2022 não autorizou a constituição de créditos de PIS/COFINS em decorrência da aquisição, por comerciantes varejistas e atacadistas de combustíveis, de produtos sujeitos à tributação monofásica; assegurou, apenas, a manutenção dos créditos já constituídos em relação às mercadorias sujeitas à tributação plurifásica, em linha com o art. 17 da Lei nº 11.033/2004"  ..  considerada a premissa de que a pretensão da parte recorrente se relaciona com aquisição de mercadorias sujeitas à tributação monofásica das referidas contribuições, calculadas mediante a adoção da alíquota zero, percebe-se que o conhecimento do recurso encontra óbice na Súmula 8 3 do STJ, pois o acórdão recorrido está em conformidade com a pacífica orientação jurisprudencial deste Tribunal Superior".
+No contexto, portanto, não há omissão a ser sanado e parte embargante só pretende rediscutir a decisão contrária a seu interesse por via recursal inadequada a esse fim.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
