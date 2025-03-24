@@ -1,0 +1,21 @@
+DECISÃO
+Na origem, trata-se de ação de cobrança objetivando a condenação do INSS ao pagamento das prestações devidas. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi . O valor da causa foi fixado em R$ 256.609,46.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. ABSOLUTAMENTE INCAPAZ. PRESCRIÇÃO. EFEITOS FINANCEIROS. VALORES ATRASADOS. PAGAMENTO DESDE O ÓBITO ATÉ A DER.
+1. A formalização tardia da inscrição de dependente absolutamente incapaz para a concessão do benefício de pensão por morte não impede a percepção dos valores que lhe são devidos desde a data do óbito, não obstante os termos do inciso II do artigo 74 da Lei nº 8.213/91, instituído pela Lei nº 9.528/97, pois não pode ser prejudicado pela inércia de seu representante legal, até porque contra ele não corre prescrição, a teor do art. 198, inciso I, do Código Civil c/c os artigos 79 e 103, parágrafo único da Lei de Benefícios.
+2. A teor do art. 103, parágrafo único, da Lei nº 8.213/91, a prescrição quinquenal atinge a pretensão ao recebimento dos créditos anteriores a cinco anos do ajuizamento da ação, ressalvando o direito de menores, incapazes e ausentes. No mesmo sentido, o art. 198 do Código Civil e o art. 79 da Lei nº 8.213/91, igualmente põem a salvo o direito dos incapazes.
+3. Hipótese em que a parte autora faz jus ao recebimento de parcelas atrasadas do benefício concedido administrativamente, desde o óbito do instituidor até a DER.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Embora o Código Civil considere apenas os menores de 16 anos absolutamente incapazes, entendo que tal disciplina não possui o condão de permitir o transcurso do prazo prescricional contra aqueles que não possuam aptidão para, sozinhos, desempenharem os atos da vida civil. Entendimento contrário iria de encontro aos objetivos da Lei 13.146/2015 - que foi proteger os deficientes, não desproteger.
+A formalização tardia da inscrição de dependente absolutamente incapaz para a concessão do benefício de pensão por morte não impede a percepção dos valores que lhe são devidos desde a data do óbito, não obstante os termos do inciso II do artigo 74 da Lei nº 8.213/91, instituído pela Lei nº 9.528/97, pois não pode ser prejudicado pela inércia de seu representante legal, até porque contra ele não corre prescrição, a teor do art. 198, inciso I, do Código Civil c/c os artigos 79 e 103, parágrafo único da Lei de Benefícios.
+A teor do art. 103, parágrafo único, da Lei nº 8.213/91, a prescrição quinquenal atinge a pretensão ao recebimento dos créditos anteriores a cinco anos do ajuizamento da ação, ressalvando o direito de menores, incapazes e ausentes:
+ ..
+Dessa forma, entendo, igualmente, que é cabível o pagamento das parcelas atrasadas do benefício, NB 202.067.008-3, já concedido administrativamente, desde o óbito do instituidor (02/01/2016) até a DER (14/12/2021), conforme fundamentação supra.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
