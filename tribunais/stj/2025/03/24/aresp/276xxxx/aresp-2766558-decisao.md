@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por N. M. Q. (MENOR) e OUTROS contra a decisão que inadmitiu o recurso especial com fundamento na não demonstração de violação dos arts. 944 do Código Civil e 926 do Código de Processo Civil e pela incidência da Súmula n. 7 do STJ (fls. 261-262).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que não ficou demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar as premissas nas quais assentada a decisão, e requer a manutenção da decisão de inadmissão do recurso especial (fls. 278-280).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação indenizatória por danos morais e materiais.
+O julgado foi assim ementado (fl. 212):
+Apelação - Voo internacional dano moral - Fixação que deve servir como repreensão do ato ilícito - Enriquecimento indevido da parte prejudicada - Impossibilidade - Razoabilidade do quantum indenizatório. - A fixação de indenização por danos morais deve servir como repreensão do ato ilícito e pautada no princípio da razoabilidade sem que se transforme em fonte de enriquecimento indevido da parte prejudicada. - Bem por isso, à luz do princípio da razoabilidade, a indenização por danos morais fixada em favor do consumidor deve ser mantida. Recurso não provido.
+Os embargos de declaração opostos foram decididos nesses termos (fls. 228-229):
+Embargos de declaração - Hipóteses do artigo 1.022, incisos I, II, III e parágrafo único, do CPC/2015 - Inexistência - Acolhimento do recurso - Impossibilidade: Não se admitem embargos de declaração à vista do não preenchimento das hipóteses do artigo 1.022, incisos I, II, III e parágrafo único, do CPC/2015. Embargos de declaração rejeitados.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 944 do Código Civil, pois a indenização deve ser medida de acordo com a extensão do dano, e o valor fixado foi ínfimo frente aos transtornos sofridos pelos agravantes (fls. 235-236);
+b) 926 do Código de Processo Civil, visto que os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente (fls. 235-236).
+Sustenta que o Tribunal de origem divergiu do entendimento do STJ ao fixar indenização por danos morais em valor ínfimo, contrariando precedentes que estabelecem valores mais elevados em casos semelhantes (fls. 235-236).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, aumentando o valor da indenização por danos morais.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido, pois não há demonstração de violação dos dispositivos legais mencionados, e requer a manutenção da decisão de inadmissão (fls. 251-260).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (fls. 301-304).
+É o relatório. Decido.
+O valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se apresentar-se irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 2.500 para cada autor, totalizando o montante de R$ 10.000,00, houve moderação, visto que não concorreu para o enriquecimento indevido da vítima e que foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e o porte socioeconômico do causador do dano. Confira-se trecho do julgado (fls. 216- 217):
+No caso sob exame, é manifesto o vício na prestação do serviço, haja vista restar incontroverso que o voo com previsão de saída de Nova Iorque no dia 09/08/2022 e destino em Tóquio, no dia 10/08/2022, foi cancelado, e, que apenas na véspera do embarque os autores tiveram conhecimento, quando tentaram realizar o check in, sendo oferecido voo com chegada ao destino no dia 11/08/2022 e com conexão.
+ ..
+Quanto à fixação da quantia atribuída a título de danos morais, é forçoso reconhecer que o montante da indenização deve observar os limites da razoabilidade. A ação indenizatória não pode servir para o enriquecimento do ofendido, e tampouco deve ser fixada em valor ínfimo, devendo servir como forma de repreensão ao ofensor, de modo que não mais repita tal prática e prejudique outrem. Logo, cabe ao magistrado, quando da fixação da indenização, agir com ponderação e equilíbrio adequados, uma vez que o seu valor se apura por arbitramento judicial.
+Assim, tenho que a quantia de R$ 10.000,00 (R$2.500,00 para cada autor), arbitrada na origem, mostra-se adequada à necessária compensação dos prejuízos experimentados, sendo capaz de reparar dignamente as vítimas do evento danoso, desestimulando condutas semelhantes do réu, sem ter o condão de acarretar o enriquecimento ilícito de quem quer que seja.
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
