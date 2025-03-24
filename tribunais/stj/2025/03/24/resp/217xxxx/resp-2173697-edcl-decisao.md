@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, embargos de declaração opostos por SUPERMERCADO LAZZA RI S.A contra decisão que não conheceu do recurso especial em razão da inviabilidade de análise de dispositivos constitucionais e de norma infralegal em sede de recurso especial.
+A parte embargante aponta a existência de omissão, erro material e contradição na decisão embargada.
+Alega que "há omissão na decisão porque não se enfrentou o argumento central de que a Instrução Normativa estaria inovando a legislação tributária, restringindo um direito assegurado por lei ordinária, o que caracterizaria ilegalidade" (fl. 255).
+Argumenta que "a omissão na decisão embargada reside mais especificamente no cotejo entre a limitação prevista pelo art. 3º, §2º, inciso II das Leis nº 10.637/2002 e nº 10.833/2003 e a limitação prevista pela RFB no agora revogado art. 170 da IN 2121, atualmente substituído pelo art. 171, parágrafo único, inciso III da mesma norma" (fl. 256).
+Sustenta, ainda, que "o que se exige, na verdade, é um simples cotejo entre o texto da lei federal e a instrução normativa da Receita Federal do Brasil (RFB), o que demonstraria que a decisão proferida pelo tribunal de origem acabou por chancelar um ato administrativo considerado ilegal" (fls. 257-258).
+Defende, por fim, que, "quando uma norma infralegal altera a interpretação sobre um direito tributário, restringindo-o, isso configura inovação no ordenamento jurídico e não mera regulamentação. Logo, a decisão embargada deveria ter analisado a alegação de que a IN RFB 2.121/2022 extrapolou seu poder regulamentar, o que não ocorreu" (fl. 258).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação (fl. 267).
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou que, "quanto aos arts. 150, I, e 195, § 6º, da Constituição Federal, não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal" (fl. 247).
+Constou também da decisão embargada que, "embora a parte recorrente alegue violação a normas de lei federal, verifica-se que, a rigor, a controvérsia envolve a definição acerca da legalidade ou não da atual redação da IN RFB 2.121/2022, o que demandaria a interpretação de normas que não se enquadram no conceito de lei federal" (fls. 248-249).
+Destacou-se, ainda, que, "nesse quadro, "a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é incabível o recurso especial, porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exigiria um juízo anterior de norma infralegal, o que refoge à competência do Superior Tribunal de Justiça"" (fl. 249).
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundaentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
