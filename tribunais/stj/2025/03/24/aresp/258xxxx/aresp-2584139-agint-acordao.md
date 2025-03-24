@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO DE FORNECIMENTO DE GASES INDUSTRIAIS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno ajuizado em face da decisão proferida às fls. 1.861-1.866 (e-STJ), em que neguei provimento ao agravo em recurso especial interposto pela parte ora recorrente.
+Nas razões do presente recurso, a parte agravante afirma que houve negativa de prestação jurisdicional na hipótese dos autos. Aponta que não cabe a incidência da Súmula 7/STJ no caso.
+Sustenta que: "A Agravante demonstrou pormenorizadamente que a referida prova pericial corroborou de forma cabal com todas as alegações apresentadas por ela em sua contestação no sentido de não haver qualquer comprovação de descumprimento contratual por parte desta em relação aos reajustes aplicados ao longo da relação contratual e que, ao contrário do que afirmou a r. sentença e concluiu o v. acórdão recorrido, o laudo pericial não concluiu que a Agravante cobrou valores em desconformidade com o contrato. Não se trata, portanto de ter o magistrado "interpretado as conclusões do perito de forma diversa daquela defendida pela parte" - como limitou-se a afirmar o v. acórdão recorrido, mas de ser a sentença dissociada da conclusão do laudo pericial" (fl. 1.876 e-STJ).
+Alega que: "Possível observar, portanto, que não se pretende que seja analisada a matéria fática, mas tão somente que seja analisada a violação dos arts. 85, §2º, 86, 156, 369, 371, 373, inciso I, 375, 489, § 1º, inciso IV, e ao art. 1.022, incisos I e II, do CPC, e arts. 187, 422 e 877, do CC, e seja dada a correta valoração às provas dos autos que, se corretamente aplicados ao caso concreto, certamente levarão ao provimento do recurso especial interposto pela Agravante" (fl. 1.879 e-STJ).
+Foi apresentada impugnação pela parte recorrida (fls. 1.887-1.910 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO DE FORNECIMENTO DE GASES INDUSTRIAIS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O agravo interno não merece prosperar.
+Anoto, preliminarmente, que a questão federal foi decidida de modo suficiente, motivo pelo qual rejeito a alegação de ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015.
+O Tribunal de origem enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Com efeito, verifico que a Corte local decidiu a questão tratada na presente demanda nos seguintes termos (fls. 1.622-1.625):
+Como se observa do item B.3 dos pedidos da inicial, houve expressa limitação do valor requerido a título de repetição do indébito, de R$ 232.764,70, sem menção à pretensão de recebimento de outras montas a tal título ou ao fato de que se trataria de mera estimativa.
+Ao longo da inicial, inclusive, foi referido que o valor integral devido pela ora apelante era de exatos R$ 232.764,70, corrigido até a data da propositura do processo (04/09/2017), conforme laudo técnico juntado naquela oportunidade (evento 2, INIC E DOCS1, p. 12):
+(..).
+De se salientar que, na decisão recorrida, foi determinada a correção da monta de R$ 491.752,67 desde a data do laudo pericial (30/07/2019), sem ressalva quanto à necessidade de se observar o limite do pedido, ou seja, a monta requerida de R$ 232.764,70, atualizada até 04/09/2017.
+Voto, pois, pelo reconhecimento da nulidade da sentença em relação ao que excedeu o valor do pedido, por ser ultra petita.
+A nulidade absoluta é decretada apenas no tocante ao que excedeu o valor do pedido, não ensejando a nulidade da sentença como um todo.
+(..).
+Não merece reparo a sentença recorrida em relação ao acolhimento do pedido indenizatório.
+Os critérios para o reajuste dos preços foram previstos na cláusula quarta do negócio jurídico celebrado entre as partes (evento 2, DOC1, p. 34):
+(..).
+Contrariamente ao referido pela apelante, não se contestou a necessidade, em si, do reajuste dos preços pela oscilação do custo com a utilização da energia elétrica para o fornecimento de gases industriais, porquanto a insurgência se relaciona apenas à aplicação da fórmula de reajuste prevista contratualmente, fundamento pelo qual não apresentam relevo os argumentos da apelação no sentido de que deve haver o reajuste e o reequilíbrio econômico-financeiro do contrato, bem como de que não pode existir interferência indevida na relação contratual.
+No mesmo sentido, o argumento sobre a suposta conduta contraditória da apelada, ao concordar com o reajuste de preços por mais de dez anos, não influencia o acolhimento ou não do pedido, por justamente estar pretendendo a apuração da correção da fórmula aplicada para a definição do percentual de reajuste, não a exclusão do reajuste na forma em que contratado.
+No tocante à forma de apuração do reajuste, comprovou a perícia, a partir dos dados constantes nos documentos juntados pelas partes no processo, ter ocorrido equívoco na aplicação dos critérios determinados contratualmente, resultando em diferença a maior paga pela apelada contratante, como se observa da síntese conclusiva do laudo pericial (evento 2, DOC6, p. 9 a 13).
+A apelante WHITE MARTINS GASES INDUSTRIAIS LTDA, por sua vez, não comprovou a presença de equívoco nas conclusões do laudo pericial, tampouco a correção do cálculo por ela realizado quando do reajuste dos preços.
+No ponto, a apelante não juntou a documentação solicitada pelo perito, relacionada à forma de apuração dos reajuste aplicados aos produtos comercializados e aos valores de energia elétrica adquiridos no mercado cativo ou livre em cada período (evento 2, DOC13, p. 47):
+(..).
+A documentação somente poderia ser anexada pela apelante, já que detentora das informações relevantes sobre os reajustes, em especial dos específicos dados que foram considerados em cada variável da fórmula matemática de apuração do reajuste final e dos preços adimplidos para a aquisição dos insumos, a exemplo da energia elétrica em cada mercado (livre ou cativo).
+Importante considerar que, como a aquisição de energia elétrica pode ocorrer tanto no mercado cativo, como no livre, com preços diferenciados, inviável acolher a tese da apelante de que realizou, corretamente, o reajuste, sem que sejam esclarecidos os dados apontados pelo perito, em especial, o preço pago pela energia elétrica em cada período, permitindo a comparação entre o preço efetivamente adimplido e aquele que corresponde à média típica daquele mercado específico.
+A omissão na juntada da documentação, a que tem acesso a apelante, não permite afastar as conclusões do laudo pericial, para fins de se entender que os reajustes foram aplicados em patamar adequado e correto, porquanto, sem maiores informações concretas, somente restou a possibilidade de apuração da média de mercado praticada no mercado cativo, como explicado pelo perito.
+A própria apelante referiu que somente adquire a energia elétrica no mercado livre nos "momentos em que há falta, irregularidade ou restrição de abastecimento para os grandes consumidores eletrointensivos no mercado tradicional", do que se depreende que o mercado livre é uma opção suplementar, não principal, para a compra (evento 48, DOC1, p. 14).
+Sendo mercado complementar, a média a ser utilizada no específico caso (em que não há dados concretos sobre o preço adimplido em cada período) deve corresponder ao mercado principal (cativo), como corretamente considerado no laudo pericial.
+Provado o equívoco na aplicação da fórmula contratada para o reajuste dos preços, devida a repetição do indébito, correspondente à diferença entre os montantes pagos pela apelada contratante ao longo da relação contratual e os valores que seriam, de fato, devidos se tivesse sido aplicada, corretamente, a integralidade dos critérios matemáticos para a apuração dos percentuais de reajuste.
+Devida a manutenção, portanto, da condenação da sentença, apenas com a ressalva da limitação da monta ao pedido.
+O limite da indenização corresponde ao valor do pedido, de R$ 232.764,70, a ser atualizado desde o dia 04/09/2017, pelo IGP-M, e agregado de juros de mora de 1% ao mês, a contar da citação, devendo este limite ser apurado quando do cumprimento de sentença, vedada a cobrança de indenização que o exceda.
+Nesse contexto, verifico que o Tribunal de origem entendeu que: "A apelante WHITE MARTINS GASES INDUSTRIAIS LTDA, por sua vez, não comprovou a presença de equívoco nas conclusões do laudo pericial, tampouco a correção do cálculo por ela realizado quando do reajuste dos preços. No ponto, a apelante não juntou a documentação solicitada pelo perito, relacionada à forma de apuração dos reajuste aplicados aos produtos comercializados e aos valores de energia elétrica adquiridos no mercado cativo ou livre em cada período (evento 2, DOC13, p. 47)" (fl. 1.623).
+Ademais, o Tribunal local concluiu que: "A omissão na juntada da documentação, a que tem acesso a apelante, não permite afastar as conclusões do laudo pericial, para fins de se entender que os reajustes foram aplicados em patamar adequado e correto, porquanto, sem maiores informações concretas, somente restou a possibilidade de apuração da média de mercado praticada no mercado cativo, como explicado pelo perito. (..). Provado o equívoco na aplicação da fórmula contratada para o reajuste dos preços, devida a repetição do indébito, correspondente à diferença entre os montantes pagos pela apelada contratante ao longo da relação contratual e os valores que seriam, de fato, devidos se tivesse sido aplicada, corretamente, a integralidade dos critérios matemáticos para a apuração dos percentuais de reajuste" (fl. 1.624).
+Assim, a alteração dessas premissas firmadas pela Corte estadual esbarraria nas vedações de novo reexame do conjunto fático-probatório por esta via do recurso especial, o que é inviável, diante da incidência da Súmula 7 desta Corte, no caso.
+No mais, o Colegiado local entendeu que (fl. 1.628):
+(..) atribuir o ônus sucumbencial somente à parte contrária (WHITE MARTINS GASES INDUSTRIAIS LTDA), que ficará responsável pelo pagamento da integralidade das despesas processuais, incluindo os honorários periciais, e dos honorários advocatícios de sucumbência de 10% sobre o valor da condenação.
+Nesse sentido, a jurisprudência desta Casa proclama que a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame no âmbito do recurso especial, por envolver aspectos fáticos e probatórios, sendo inafastável a incidência da Súmula 7/STJ no caso. A propósito, vejam-se:
+AGRAVO INTERNO. RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. PLANO DE SAÚDE. CONTRATO COLETIVO. REAJUSTE. ABUSIVIDADE. NÃO CONFIGURAÇÃO. SUCUMBÊNCIA RECÍPROCA. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. (..).
+3. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1915821/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO EM DOBRO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. TARIFA DE ÁGUA. CONSUMO MÍNIMO. CÁLCULO TARIFÁRIO INDEVIDO. REPETIÇÃO DO INDÉBITO. DANO MORAL. INEXISTÊNCIA.EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA. AFASTAMENTO. SÚMULA N. 7 DO STJ. SUCUMBÊNCIA. SÚMULA N. 7 DO STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA.
+(..).
+V - No que diz respeito à verba honorária, melhor sorte não socorre ao recorrente, já que a jurisprudência do STJ é firme também sobre a incidência da Súmula n. 7/STJ no tocante à análise da sucumbência mínima ou recíproca. Nesse sentido, os seguintes precedentes: AgInt no AREsp n. 1.329.349/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2021, DJe 26/8/2021 e AgInt no AREsp n. 1.883.184/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe 22/9/2021.
+VI - O referido óbice também se aplica ao recurso interposto com base em divergência jurisprudencial.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1951180/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 29/11/2021, DJe 01/12/2021.)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
