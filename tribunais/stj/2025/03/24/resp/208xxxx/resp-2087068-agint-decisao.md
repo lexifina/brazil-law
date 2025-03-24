@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto por ASPLENIO DA COSTA RIBEIRO e OUTROS da decisão em que conheci parcialmente do recurso especial e, nessa extensão, a ele neguei provimento (fls. 750/756).
+A parte agravante afirma:
+(1) a existência de fato novo, pois "Em 16/11/2023, ou seja, após a interposição do recurso especial pelos agravantes, foi publicada a decisão proferida no RE n. 1.466.180/AP, que tem origem no AI n. 0001605-88.2021.8.03.0000 (ação coletiva n. 0049767- 29.2012.8.03.0001 - mesmo título ora em execução). Na referida decisão, o Min. Relator Alexandre de Moraes reconheceu que a sentença executada não restringiu o alcance da decisão apenas aos servidores constantes da lista apresentada pelo sindicato juntamente com a inicial.  .. . Posteriormente, em decisão publicada em 06/03/2024, a col. Primeira Turma do eg. STF negou provimento ao agravo interno do Estado do Amapá, confirmando a decisão do Min. Relator no sentido da ausência de limitação subjetiva na sentença e da ampla legitimidade do sindicato para atuar como substituto processual" (fls. 762/763);
+(2) "apesar da juntada do rol exemplificativo de substituídos, o comando sentencial não limitou o alcance dos beneficiários do título executivo e tal circunstância foi desconsiderada pelo acórdão recorrido" (fl. 765);
+(3) o deslinde da controvérsia não depende do reexame do conjunto probatório da demanda, o que afasta a incidência da Súmula 7/STJ; e
+(4) existência de negativa de prestação jurisdicional diante de omissão quanto à tese de que a sentença exequenda não estabeleceu qualquer limitação à execução do título.
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 827/835).
+É o relatório.
+A questão debatida nos autos, qual seja, "definir, caso não limitado expressamente na sentença, se todos os servidores da categoria são legitimados para propor o cumprimento individual de sentença decorrente de ação coletiva proposta por sindicato, independentemente de filiação ou de constar em lista", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.302), dos REsp"s 2.146.834/AP e 2.146.839/AP, de relatoria do Ministro Teodoro Silva Santos.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, torno sem efeito a decisão de fls. 750/756 e determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
