@@ -1,0 +1,26 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por SIDNEI CARGNIN, com fundamento na incidência  da Súmula 83 deste STJ e, por analogia, das Súmulas 282 e 356 do STF.
+Para melhor contextualização, colho trechos do acórdão de fls.1.162-1.168:
+O acionante foi condenado criminalmente pela prática de peculato: em 2007, época em que atuava como técnico em necropsia no Instituto Geral de Perícias, aproveitando-se de suas funções se apropriou de celular que se encontrava nas roupas de uma vítima de homicídio.
+Como, porém, dois anos depois passou a exercer o cargo de agente de polícia, defende não ser possível que o efeito secundário da condenação lhe traga consequências.
+Não houve, contudo, nomeação nova.
+É dizer, o autor não passou em outro concurso, tampouco passou a integrar cargo comissionado de natureza distinta.
+Não houve a quebra do vínculo funcional anterior.
+O que ocorreu foi uma forma de reenquadramento: com a edição da Lei Complementar Estadual 374/2007, permitiu-se que os técnicos em necropsia optassem pela transposição para o Grupo Segurança Pública - Polícia Civil, cujo servidor acabou por ocupar referido cargo (de agente de polícia) em 2009.
+Houve mudança formal na relação, mas sem que daí tenha surgido vero provimento originário na medida em inexistiu ineditismo quanto ao sinalagma em vigor - e o efeito secundário da condenação criminal, tivesse inexistido esse rearranjo administrativo, atingiria o servidor de todo modo.
+É dizer, em razão unicamente do cargo anterior é que se permitiu remanejamento, podendo-se dizer que o elo não sofreu alteração a ponto de lhe alijar puramente do posto e criar uma nova relação jurídica.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois "o precedente permite o juízo de correlação entre atribuições do cargo apenas no momento da sentença criminal". "O recorrente já ocupava o novo cargo em 2009, sendo que a ação criminal transitou em julgado quase dez anos após, conforme relato dos fatos na inicial", sendo assim o "PONTO CHAVE quanto à não aplicação da Súmula 83 do STJ". É "vedado ao Estado de Santa Catarina e ao TJSC, em momento posterior, substituir ou complementar a sentença condenatória".
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+De início, a ausência do prequestionamento (incidência das Súmulas 282 e 356 do STF) se deu em razão da afirmação de que "o Órgão Fracionário não se debruçou acerca da tese afeta à irretroatividade da Lei Federal 14.230/2021" ou "a respeito do art. 92, inc. I, do Código Penal" e, "tampouco, foi provocado, via aclaratórios". É inviável o conhecimento de recurso especial cuja matéria controvertida consta apenas de comentário feito em obiter dictum pelo Desembargador Relator, uma vez que os argumentos de reforço não se enquadram no conceito de causa decidida do art. 105, III, da Constituição Federal (AgRg no AREsp 2.260.751/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 3/10/2023, DJe de 11/10/2023).
+O Tribunal apontou que é incontroverso que "o autor foi condenado criminalmente em razão da prática do crime de peculato (CP, art. 312), por fato ocorrido em 24.10.2007"; que "a alteração do cargo - de técnico de necropsia para agente de Polícia Civil - derivou de ato ope legis e não da aprovação em novo concurso público"; e que "não houve a quebra do vínculo funcional anterior".
+Assim como posta a causa, o acórdão não diverge do entendimento de que:
+"Em regra, a pena de perdimento deve ser restrita ao cargo público ocupado ou função pública exercida no momento do delito. Assim, a perda do cargo público, por violação de dever inerente a ela, necessita ser por crime cometido no exercício desse cargo, valendo-se o envolvido da função para a prática do delito", se o novo cargo guardar "correlação com as atribuições do anterior, ou seja, naquele em que foram praticados os crimes, mostra-se devida a perda da nova função" (REsp n. 1.452.935/PE, Relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/3/2017, DJe 17/3/2017).
+Portanto, incide a Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional, nos termos da jurisprudência desta Corte.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da inexistência de quebra do vínculo funcional anterior, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios (fls. 1.101 e 1. 167) em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC.
+Intimem-se.
+EMENTA
