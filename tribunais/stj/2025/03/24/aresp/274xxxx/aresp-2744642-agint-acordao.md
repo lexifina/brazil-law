@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVAÇÃO INDEVIDA. VIOLAÇÃO DE NORMA LEGAL SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação (Súmula n. 284 do STF).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BOA VISTA SERVIÇOS S.A. contra  decisão  singular  da lavra do Ministro Presidente do STJ  que  não conheceu do  recurso  especial  em  virtude  do  óbice  da  Súmula  284  do  STF, uma vez que a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal.
+Nas  razões  do  presente  agravo,  a parte agravante afirma que "foi interposto Recurso Especial, com fundamento no artigo 105, inciso III, alíneas a e c, da Constituição Federal, pelo qual a Agravante requereu a aplicação da Súmula 385 do STJ, de acordo com os acórdãos paradigmas apresentados" (e-STJ, fl. 425).
+Aduz que demonstrou no recurso especial a existência de dissídio jurisprudencial por meio do cotejo analítico entre o caso em tela e os acórdãos paradigmas, sendo devido o afastamento da Súmula 284 do STF.
+A  impugnação  não  foi  apresentada .
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVAÇÃO INDEVIDA. VIOLAÇÃO DE NORMA LEGAL SEM INDIVIDUALIZAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O argumento de violação de normas legais sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, isto é, sem a específica indicação numérica do artigo de lei, parágrafos e incisos e das alíneas, e a citação de passagem de artigos sem a efetiva demonstração de contrariedade de lei federal impedem o conhecimento do recurso especial por deficiência de fundamentação (Súmula n. 284 do STF).
+2. Agravo interno a que se nega provimento.
+VOTO
+O  recurso  não  merece  prosperar.
+Como  constou  na  decisão  agravada,  "a ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF" (AgInt no AR Esp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020).
+Quanto ao mais, a tese de violação da Súmula 385 do STJ não comporta análise no recurso, uma vez que não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Da acurada análise das razões do recurso especial interposto pela parte ora agravante, verifico que a tese recorrida se resumiu desta forma : (i) a inscrição anterior em banco de negativações, afasta a indenização por danos morais, nos termos da Súmula 385 do STJ; (ii) a inaplicabilidade ao caso concreto do entendimento expresso pela Súmula nº 518 do STJ; (iii) interposição do recurso especial, consta o previsto na alínea "c", por meio da qual se pretende a adequação do v. acórdão subjugado ao entendimento pacificado perante outros tribunais quanto ao afastamento da indenização por danos morais quando o nome do consumidor está inscrito no cadastro de restrição de crédito em decorrência de débito preexistente ao discutido (e-STJ, fls. 326/343).
+Como se vê, a parte agravante apenas indicou a violação à Súmula 385 do STJ e a existência de dissídio jurisprudencial, sem indicar os artigos tido por violados, o que não se admite, motivo pelo qual deve ser mantido o óbice da Súmula 284 do STF.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. VÍCIO SANÁVEL. PROCURAÇÃO JUNTADA AOS AUTOS. INTIMAÇÃO QUE NÃO FOI REALIZADA. AÇÃO DE INDENIZAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALEGAÇÃO DE QUITAÇÃO DA OBRIGAÇÃO. EXAME DE CONTRATOS E CLÁUSULAS, QUE AFASTARAM TAL OCORRÊNCIA. REVISÃO. NÃO CABIMENTO. APLICAÇÃO DA SÚMULA 7/STJ. IMÓVEL GRAVADO COM USUFRUTO. PENHORA DA NUA-PROPRIEDADE. POSSIBILIDADE. PRECEDENTES. ALEGAÇÃO DE DECISÃO SURPRESA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. PREQUESTIONAMENTO. NÃO OCORRIDO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. DEFICIÊNCIA. NÃO INDICAÇÃO DO ARTIGO DE LEI FEDERAL VIOLADO. SÚMULA 284/STF. MULTA DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. NÃO ACOLHIMENTO. AGRAVO DESPROVIDO.
+ ..
+5. Considerando que constam do recurso argumentações carentes da devida indicação do dispositivo infraconstitucional supostamente violado, de rigor a incidência da Súmula 284 do Supremo Tribunal Federal, inclusive para o dissídio jurisprudencial.
+6. A jurisprudência do Superior Tribunal de Justiça não admite a majoração de honorários de sucumbência por ocasião do julgamento de agravo interno, tendo em vista que a interposição do mencionado recurso não inaugura nova instância.
+7. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa - a ser analisada em cada caso concreto, em decisão fundamentada - pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+8. Não pode ser considerada como litigância de má-fé a interposição de recurso previsto no ordenamento jurídico, quando não ficar evidenciado o seu intuito protelatório. Inaplicabilidade da multa prevista no art. 80 do CPC/2015.
+9. Agravo interno desprovido.
+(AgInt no AREsp n. 2.327.282/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2024, DJe de 19/6/2024.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO DE SENTEÇA COLETIVA. TERMO INICIAL DOS JUROS REMUNERATÓRIOS. SÚMULA N. 596/STJ. VIOLAÇÃO. IMOSSIBILIDADE. SÚMULA N. 518/STJ. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INEXISTÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+1. A tese de violação da Súmula n. 596/STJ não comporta análise no recurso. Nesse sentido: "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+3. Divergência jurisprudencial não comprovada, ante a incidência da Súmula n. 284/STF. Além disso, "o dissídio jurisprudencial com súmula não autoriza a interposição do recurso especial fundado na letra "c" do permissivo constitucional" (AgRg no Ag n. 1.135.323/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/6/2010, DJe 18/6/2010).
+4. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.932.569/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego  provimento  ao  agravo  interno.
+É  como  voto.
