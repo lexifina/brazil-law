@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por REISANGELA SARAIVA SANTOS à decisão de fls. 619/620, que não conheceu do recurso.
+Sustenta a parte embargante:
+Aos 16 de dezembro de 2024, esta defesa vem embargar a decisão retro, pois a mesma julga erroneamente sobre o agravo interposto.
+O douto juiz não se ateve aos autos, pois esta defesa juntou no processo o devido agravo que o caso requer, veja os eventos nº 79, do Processo nº 5270089-28.2022.8.09.0051 que tramita na 14ª Vara Cível e Ambiental da Comarca de Goiânia/GO: foi feito um agravo em recurso especial.
+Portanto, é o recurso correto, por fim, peço a retratação por meio destes embargos de declaração (fl. 629).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme já consignado na decisão embargada, o Agravo interposto pela parte às fls. 249/261, com fundamento no art. 1.015 do CPC, destina-se, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição, não se enquadrando nas hipóteses de cabimento que atraem a competência dessa Corte, que se restringem àquelas previstas no art. 1.027, § 1.º, e no art. 1.042, do Código de Processo Civil.
+No que se refere ao Agravo em Recurso Especial interposto às fls. 262/274, ressalte-se que "É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos pela mesma parte e contra a mesma decisão impede o conhecimento daqueles que foram apresentados após o primeiro recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade". Nesse sentido:
+PROCESSUAL CIVIL. PEDIDOS DE RECONSIDERAÇÃO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA NO RECURSO ESPECIAL. ACOLHIMENTO COMO AGRAVO INTERNO. INTERPOSIÇÃO DE DOIS RECURSOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO, E, COMO TAL, NÃO CONHECIDO.
+I - Pedidos de reconsideração formulados contra decisão de minha lavra que não conhecera do pedido de assunção de competência em recurso especial.
+II - No que tange ao pedido de reconsideração contra decisão monocrática, apesar de não possuir previsão normativa - seja à luz do CPC/1973 ou do CPC vigente -, tem sido admitida pelo Superior Tribunal de Justiça a sua conversão em agravo regimental ou interno, desde que não tenha sido utilizada com má-fé, não decorra de erro grosseiro e tenha sido apresentada dentro do prazo legal.
+III. É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos pela mesma parte e contra a mesma decisão impede o conhecimento daqueles que foram apresentados após o primeiro recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no RE no AgRg nos EDcl no AgRg nos EDcl no AREsp n. 501.366/RS, realatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/11/2018; AgInt no MS n. 24.022/DF, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 20/8/2018; AgInt no AREsp n. 872.839/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 29/5/2018; AgInt no REsp n. 1.661.733/PE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/9/2017.
+IV - Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último" (STJ, EDv no AgInt nos EAREsp n. 955.088/RS, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 13/9/2018).
+V - Pedido de reconsideração, de fls. 1.311-1.314, recebido como agravo interno, e, como tal, não conhecido.
+(RCD no REsp n. 2.060.495/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJEN de 17.2.2025.)
+Ainda que fosse superado o óbice da preclusão consumativa e da unicidade recursal, permaneceria o óbice da Súmula n. 281/STF, o qual não poderia ser ultrapassado.
+Veja que o STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal a quo antes de buscar a instância especial, ou seja, a apresentação de Recurso Especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem, o que não ocorreu no caso.
+Confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 1571531/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 20.5.2020; AgInt no AREsp 879.030/RO, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 25.5.2020; e AgInt no AREsp 1591427/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8.5.2020.
+No caso, a parte interpôs Recurso Especial diretamente contra decisão monocrática (fls. 189/194), sem o necessário exaurimento de instância.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Deixo de apreciar os embargos de declaração de fls. 623/626, em razão da preclusão consumativa.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
