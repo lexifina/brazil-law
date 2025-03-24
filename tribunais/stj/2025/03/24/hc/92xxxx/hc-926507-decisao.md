@@ -1,0 +1,32 @@
+DECISÃO
+LUCAS WENDEL MEIRELES DO NASCIMENTO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na HC n. 0035934-77.2024.8.19.0000.
+A defesa aduz, em síntese, que o reconhecimento fotográfico do paciente foi realizado em desacordo com o art. 226 do CPP e que não há fundamentação idônea para a decretação de sua prisão temporária. Dessa forma, requer a revogação da segregação cautelar.
+Indeferida a liminar (fls. 335-337), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 355-356).
+Decido.
+I. Reconhecimento pessoal - supressão de instância
+Em relação à ilegalidade do reconhecimento fotográfico do paciente, realizado na fase indiciária, observo que o Tribunal de origem não analisou a tese suscitada, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste writ.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+II. Prisão temporária
+Em relação à prisão temporária, tal modalidade de prisão cautelar é disciplinada pela Lei n. 7.960/89, e é admitida no curso da investigação preliminar, a fim de viabilizar a rápida colheita de elementos de informação sobre crimes graves, desde que haja fundadas razões de autoria/participação do indiciado em tais crimes, definidos em rol taxativo (art. 1º, III, da referida lei).
+Em acréscimo ao rol taxativo previsto no dispositivo legal supracitado, há, em suma, dois requisitos alternativos para a decretação da prisão temporária: imprescindibilidade para a investigação (art. 1º, I, da referida lei) ou ausência de elementos necessários ao esclarecimento da identidade ou da residência fixa do investigado (art. 1º, II, da referida lei).
+Ao dar interpretação conforme à Constituição ao art. 1º da Lei n. 7.960/89, o Supremo Tribunal Federal fixou a orientação de que:
+ A  decretação de prisão temporária autoriza-se quando, cumulativamente:
+1) for imprescindível para as investigações do inquérito policial (art. 1º, I, Lei 7.960/1989) (periculum libertatis), constatada a partir de elementos concretos, e não meras conjecturas, vedada a sua utilização como prisão para averiguações, em violação ao direito à não autoincriminação, ou quando fundada no mero fato de o representado não possuir residência fixa (inciso II);
+2) houver fundadas razões de autoria ou participação do indiciado nos crimes previstos no art. 1º, III, Lei 7.960/1989 (fumus comissi delicti), vedada a analogia ou a interpretação extensiva do rol previsto no dispositivo;
+3) for justificada em fatos novos ou contemporâneos que fundamentem a medida (art. 312, § 2º, CPP);
+4) a medida for adequada à gravidade concreta do crime, às circunstâncias do fato e às condições pessoais do indiciado (art. 282, II, CPP);
+5) não for suficiente a imposição de medidas cautelares diversas, previstas nos arts. 319 e 320 do CPP (art. 282, § 6º, CPP)
+(STF, ADI n. 3.360/DF e ADI n. 4.109/DF, Red. Acd. Min. Edson Fachin, Plenário, j. 11.2.2022, grifei).
+No julgamento acima, o STF consignou fundamentos insuficientes para a decretação da prisão temporária, entre os quais o "simples fato de o representado não possuir endereço fixo" e a "finalidade de interrogar o indiciado, porquanto ninguém pode ser forçado a falar ou a produzir prova contra si".
+No caso, o Juízo singular assim fundamentou a decretação da prisão temporária (fl. 116, sem grifos no original):
+In casu, percebo que a existência material da infração penal restou provada, havendo indícios de autoria na pessoa dos investigados com relação ao artigo 1º, incisos I e III, alíneas "c" e "l", da Lei n º 7.960/89.
+Além disso, também se encontra presente a hipótese prevista no inciso I do artigo 1º da Lei acima mencionada, fato este que confere sustentação ao pedido formulado pela Autoridade Policial. De fato, uma análise detalhada do teor dos depoimentos prestados em sede policial (id. 107226095, 107226097, 107226100 e 107229754), em conjunto com as demais informações contidas nos autos, destacando-se - o registro de ocorrência (id. 107226094); aditamento (id. 107229753); as imagens constantes na representação policial do id. 107229756; laudo de perícia papiloscópica (id. 107229765); e auto de reconhecimento (id. 107229766, 107229767, 107229769 e 107229770) - indica que a presente medida é necessária para o prosseguimento das investigações, tendo em vista a necessidade de identificação dos outros autores do crime, bem como o fato de que, em liberdade, poderiam os indiciados coagir as testemunhas do delito, aspecto este que causaria grave prejuízo para a investigação.
+Da leitura dos fundamentos para a decretação da prisão temporária, verifico que, quanto ao periculum libertatis  relacionado à imprescindibilidade para as investigações, a segregação cautelar não foi imposta a partir de elementos concretos, mas sim a partir de meras conjecturas. É dizer, o Juízo singular ponderou que a medida seria necessária para a identificação e outros autores do crime, mas sem esclarecer a correlação entre a prisão e a identificação dos demais agentes do delito. Em seguida, afirmou que os indiciados poderiam coagir as testemunhas do delito, sem, todavia, indicar os indícios dessa possível coação, a configurar mera conjectura.
+Logo, noto que, no caso, não estão presentes os requisitos legais para a decretação da prisão temporária.
+III. Dispositivo
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, concedo a ordem a fim de cassar a decisão de prisão temporária do paciente, ressalvada a possibilidade de decretação de outra medida cautelar em seu desfavor, desde que por decisão concretamente fundamentada, com a demonstração de sua efetiva necessidade, adequação e proporcionalidade em relação aos fins perseguidos.
+Determino a imediata expedição de contramandado de prisão ou alvará de soltura em favor do recorrente, conforme o caso, se por outro motivo não estiver preso.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
