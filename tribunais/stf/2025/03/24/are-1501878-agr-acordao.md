@@ -1,0 +1,593 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 13
+
+24/03/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.501.878 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+
+: MIN. LUIZ FUX
+: MUNICÍPIO DE SÃO PAULO
+: PROCURADOR-GERAL DO MUNICÍPIO DE SÃO
+PAULO
+: 21 PROMOCOES E EVENTOS LTDA
+: ALECIO CIARALO FILHO
+: RODRIGO JANUÁRIO CALABRIA
+
+EMENTA:
+AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO.
+ISSQN. INCIDÊNCIA. CESSÃO DE USO DE IMAGEM, VOZ E
+APELIDOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+POTENCIAL OFENSA INDIRETA À CONSTITUIÇÃO. FATOS E
+PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 279 DO STF.
+RECURSO INTERPOSTO COM BASE NA ALÍNEA “B” DO
+PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE DECLARAÇÃO
+FORMAL DE INCONSTITUCIONALIDADE DE TRATADO OU LEI
+FEDERAL. INADMISSIBILIDADE. MANIFESTA IMPROCEDÊNCIA
+DO AGRAVO. MANDADO DE SEGURANÇA. INAPLICABILIDADE
+DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. AGRAVO
+INTERNO DESPROVIDO, COM IMPOSIÇÃO DE MULTA DE 5%
+(CINCO POR CENTO) DO VALOR ATUALIZADO DA CAUSA, NOS
+TERMOS DO ARTIGO 1.021, § 4º, DO CÓDIGO DE PROCESSO
+CIVIL, CASO SEJA UNÂNIME A VOTAÇÃO.
+ACÓRDÃO
+A Primeira Turma do Supremo Tribunal Federal, na conformidade
+da ata de julgamento virtual de 14 a 21/3/2025, por unanimidade, negou
+provimento ao agravo e condenou a parte agravante ao pagamento de
+multa de 5% (cinco por cento) do valor atualizado da causa, na forma do
+artigo 1.021, § 4º, do Código de Processo Civil. Ademais, por se tratar de
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F341-012D-63F2-8BE5 e senha 78D8-E0C6-F389-C474
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+ARE 1501878 AGR / SP
+mandado de segurança, não há majoração de honorários advocatícios
+(Súmula 512 do STF), tudo nos termos do voto do Relator.
+Brasília, 24 de março de 2025.
+Ministro LUIZ FUX - RELATOR
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F341-012D-63F2-8BE5 e senha 78D8-E0C6-F389-C474
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+24/03/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.501.878 SÃO
+PAULO
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+ADV.(A/S)
+
+: MIN. LUIZ FUX
+: MUNICÍPIO DE SÃO PAULO
+: PROCURADOR-GERAL DO MUNICÍPIO DE SÃO
+PAULO
+: 21 PROMOCOES E EVENTOS LTDA
+: ALECIO CIARALO FILHO
+: RODRIGO JANUÁRIO CALABRIA
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+interno interposto contra decisão monocrática assim ementada:
+“RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO TRIBUTÁRIO. ISSQN. INCIDÊNCIA. CESSÃO DE
+USO DE IMAGEM, VOZ E APELIDOS. ANÁLISE DE
+LEGISLAÇÃO
+INFRACONSTITUCIONAL.
+POTENCIAL
+OFENSA INDIRETA À CONSTITUIÇÃO. FATOS E PROVAS.
+REEXAME. IMPOSSIBILIDADE. SÚMULA 279 DO STF.
+RECURSO INTERPOSTO COM BASE NA ALÍNEA B DO
+PERMISSIVO
+CONSTITUCIONAL.
+AUSÊNCIA
+DE
+DECLARAÇÃO FORMAL DE INCONSTITUCIONALIDADE DE
+TRATADO OU LEI FEDERAL. INADMISSIBILIDADE.
+NEGADO SEGUIMENTO AO AGRAVO.”
+
+A parte agravante sustenta a inexistência dos óbices apontados e
+reitera os argumentos apresentados no recurso extraordinário.
+Não foi aberto prazo para contrarrazões, considerados o princípio da
+celeridade processual e a inexistência de prejuízo à parte agravada.
+É o relatório.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AC8B-4671-6F6D-5A82 e senha 9778-B757-BE3E-DAF5
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+24/03/2025
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.501.878 SÃO
+PAULO
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): A presente irresignação
+não merece prosperar.
+Em que pesem os argumentos expendidos no agravo interno, resta
+evidenciado que a parte agravante não trouxe nenhum elemento capaz de
+infirmar a decisão hostilizada, razão pela qual deve ela ser mantida por
+seus próprios fundamentos.
+Com efeito, o acórdão objeto de recurso extraordinário decidiu a
+controvérsia nos seguintes termos:
+“Apelações e Reexame Necessário - Mandado de Segurança ISSQN - Ação visando o reconhecimento de inexigibilidade do ISSQN
+- Cabimento - Cessão de uso de imagem, voz e apelido de artista Obrigação que não consiste em prestação de serviços - Ressarcimento
+das quantias (pretéritas) pagas a tal título - Descabimento - Súmula
+271 (STF) - Precedentes desta E. 18ª Câmara de Direito Público Sentença concessiva mantida - Recursos oficial e voluntários
+improvidos.”
+
+Nesse contexto, conforme asseverado na decisão ora agravada,
+observa-se que para se acolher a pretensão da parte agravante e
+ultrapassar o entendimento do Tribunal de origem acerca da incidência
+do ISSQN sobre a cessão de uso de imagem, voz e apelidos, seria
+necessário analisar a legislação infraconstitucional pertinente, o que não é
+cabível em sede de recurso extraordinário, pois a afronta ao texto
+constitucional, acaso existente, seria meramente indireta ou reflexa, bem
+como reexaminar o acervo fático-probatório dos autos, que esbarra no
+óbice da Súmula 279 do STF. Nesse sentido:
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+ARE 1501878 AGR / SP
+
+“DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ISS. CESSÃO DE DIREITO DE USO
+DE IMAGEM. CONTROVÉRSIA SOBRE A EXISTÊNCIA DE PRESTAÇÃO DE
+SERVIÇO. NECESSIDADE DE ANÁLISE DAS CLÁUSULAS CONTRATUAIS E
+REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. HIPÓTESE QUE
+ATRAI A INCIDÊNCIA DAS SÚMULAS Nº 454 E 279/STF. 1. Agravo
+interno contra decisão que negou seguimento a recurso extraordinário
+interposto para impugnar acórdão que manteve sentença de
+improcedência da ação. 2. Para dissentir do que decidido pelo Tribunal
+a quo, necessária seria a análise das cláusulas contratuais, bem como o
+reexame do conjunto fático-probatório dos autos, o que atrai a
+incidência das Súmulas nº 279 e 454 desta Corte. Precedentes. 3. Nos
+termos do art. 85, § 11, do CPC/2015, fica majorado em 10% o valor
+da verba honorária fixada anteriormente, observados os limites legais
+do art. 85, §§ 2º e 3º, do CPC/2015 e a eventual concessão de justiça
+gratuita. 4. Agravo interno a que se nega provimento, com a aplicação
+da multa de 1% (um por cento) sobre o valor atualizado da causa, nos
+termos do art. 1.021, § 4º, do CPC/2015.” (ARE 1.454.909-AgR,
+Plenário, Rel. Min. Luiz Roberto Barroso - Presidente, DJe de
+20/2/2024)
+“DIREITO TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS
+DE QUALQUER NATUREZA - ISS. INCIDÊNCIA SOBRE
+CESSÃO DOS DIREITOS DE EXPLORAÇÃO COMERCIAL DE
+USO DE IMAGEM, DA VOZ E DE APELIDOS. LEGISLAÇÃO
+INFRACONSTITUCIONAL.
+AUSÊNCIA
+DE
+QUESTÃO
+CONSTITUCIONAL. OFENSA REFLEXA NÃO VIABILIZA O
+APELO EXTREMO. AGRAVO NÃO PROVIDO. 1. A controvérsia,
+conforme já asseverado na decisão guerreada, não alcança estatura
+constitucional. Não há falar em afronta aos preceitos constitucionais
+indicados nas razões recursais. Compreensão diversa demandaria a
+análise da legislação infraconstitucional encampada na decisão da
+Corte de origem, a tornar oblíqua e reflexa eventual ofensa à
+Constituição, insuscetível, como tal, de viabilizar o conhecimento do
+recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+ARE 1501878 AGR / SP
+Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. As
+razões do agravo interno não se mostram aptas a infirmar os
+fundamentos que lastrearam a decisão agravada. 3. A teor do art. 85, §
+11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários
+fixados anteriormente levando em conta o trabalho adicional realizado
+em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a
+6º, sendo vedado ao tribunal, no cômputo geral da fixação de
+honorários devidos ao advogado do vencedor, ultrapassar os
+respectivos limites estabelecidos nos §§ 2º e 3º para a fase de
+conhecimento’. 4. Agravo interno conhecido e não provido.” (ARE
+1.428.418-AgR, Plenário, Rel. Min. Rosa Weber - Presidente, DJe
+de 4/9/2023)
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO
+COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO SOBRE
+SERVIÇOS DE QUALQUER NATUREZA - ISSQN.
+INCIDÊNCIA. CESSÃO DE DIREITO DE USO DE IMAGEM.
+CARACTERIZAÇÃO DE AGENCIAMENTO, CORRETAGEM
+OU
+INTERMEDIAÇÃO.
+LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E
+PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES.
+AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é
+instrumento de impugnação de decisão judicial inadequado para a
+análise de matéria infraconstitucional, bem como para a valoração e
+exame minucioso do acervo fático-probatório engendrado nos autos
+(Súmula 279 do STF). 2. Agravo interno desprovido, com imposição
+de multa de 5% (cinco por cento) do valor atualizado da causa (artigo
+1.021, § 4º, do CPC), caso seja unânime a votação. 3. Honorários
+advocatícios majorados ao máximo legal em desfavor da parte
+recorrente, caso as instâncias de origem os tenham fixado, nos termos
+do artigo 85, § 11, do Código de Processo Civil, observados os limites
+dos §§ 2º e 3º e a eventual concessão de justiça gratuita.” (ARE
+1.387.363-AgR, Plenário, Rel. Min. Luiz Fux - Presidente, DJe de
+9/9/2022)
+“Agravo regimental no recurso extraordinário com agravo.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+ARE 1501878 AGR / SP
+Direito Tributário. ISS. Incidência sobre cessão dos direitos de
+exploração comercial de uso da imagem, da voz e de apelidos.
+Discussão. Fatos e provas. Reexame. Impossibilidade. Legislação
+infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se presta o
+recurso extraordinário para o reexame dos fatos e das provas
+constantes dos autos, tampouco para a análise da legislação local.
+Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não
+provido, com imposição de multa de 1% (um por cento) do valor
+atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia
+fixação de honorários advocatícios pelas instâncias de origem, seu
+valor monetário será majorado em 10% (dez por cento) em desfavor da
+parte recorrente, nos termos do art. 85, § 11, do Código de Processo
+Civil, observados os limites dos §§ 2º e 3º do referido artigo e a
+eventual concessão de justiça gratuita.” (ARE 1.242.883-AgR,
+Plenário, Rel. Min. Dias Toffoli - Presidente, DJe de 14/5/2020)
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. 1.
+Incidência de Imposto sobre Serviços de Qualquer Natureza - ISSQN.
+Contrato de cessão de direito de uso de imagem. Interpretação de
+normas infraconstitucionais. Ofensa constitucional indireta. 2.
+Natureza jurídica do contrato: necessidade de reexame de fatos e
+provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo
+regimental ao qual se nega provimento.” (ARE 688.978-AgR,
+Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 18/9/2012)
+
+Outrossim, a interposição do recurso extraordinário com
+fundamento na alínea “b” do permissivo constitucional pressupõe a
+declaração formal de inconstitucionalidade de tratado ou lei federal pelo
+plenário ou órgão especial do Tribunal a quo, o que não se verificou no
+presente caso. Nesse sentido, confira-se o ementário abaixo citado:
+“AGRAVO
+INTERNO
+NO
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+DIREITO
+TRIBUTÁRIO. CREDITAMENTO. ICMS. RESOLUÇÃO SEFA
+N.
+38/2018.
+INTERPOSIÇÃO
+DO
+RECURSO
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+ARE 1501878 AGR / SP
+EXTRAORDINÁRIO COM FUNDAMENTO NAS ALÍNEAS B
+E D DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA
+NA
+FUNDAMENTAÇÃO.
+SÚMULA
+284
+DO
+STF.
+LEGISLAÇÃO
+INFRACONSTITUCIONAL.
+OFENSA
+REFLEXA. FATOS E PROVAS. REEXAME. AGRAVO
+INTERNO DESPROVIDO. PRECEDENTES. 1. O recurso
+extraordinário é inadmissível quando a deficiência de sua
+fundamentação não permitir a exata compreensão da controvérsia, ex
+vi do enunciado 284 da Súmula do Supremo Tribunal Federal.
+Precedentes: ARE 1.185.152-AgR, Primeira Turma, Rel. Min. Rosa
+Weber, DJe de 29/05/19; ARE 707.173AgR, Primeira Turma, Rel.
+Min. Roberto Barroso, DJe de 23/04/15; ARE 822.208-AgR, Segunda
+Turma, Rel. Min. Cármen Lúcia, DJe de 10/12/14. 2. O recurso
+extraordinário interposto com fundamento na alínea b do
+permissivo constitucional pressupõe a declaração formal de
+inconstitucionalidade de tratado ou lei federal pelo plenário ou
+órgão especial do Tribunal a quo, o que não ocorreu na espécie.
+3. A interposição do recurso extraordinário com fundamento na alínea
+d do permissivo constitucional demanda a demonstração de conflito de
+competência legislativa entre o ente federativo local e a União, o que,
+in casu, não ocorreu. 4. Não se presta o recurso extraordinário para a
+análise de matéria infraconstitucional, tampouco para o reexame dos
+fatos e das provas (Súmula 279 do STF). 5. Agravo interno
+desprovido, com imposição de multa de 5% (cinco por cento) do
+valor atualizado da causa (artigo 1.021, § 4º, do CPC), na hipótese de
+votação unânime. 6. Honorários advocatícios majorados ao máximo
+legal em desfavor da parte recorrente, caso as instâncias de origem os
+tenham fixado, nos termos do artigo 85, § 11, do Código de Processo
+Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de
+justiça gratuita.” (ARE 1.381.943-AgR, Plenário, Rel. Min. Luiz
+Fux - Presidente, DJe de 27/6/2022, grifos nossos)
+“DIREITO
+PROCESSUAL
+PENAL.
+AGRAVO
+REGIMENTAL EM RECURSO EXTRARDINÁRIO COM
+AGRAVO. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE
+AFRONTA AO PRINCÍPIO DO JUIZ NATURAL. ANÁLISE DA
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+ARE 1501878 AGR / SP
+LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS
+AUTOS.
+SÚMULA
+279/STF.
+CRIAÇÃO
+DE
+VARA
+ESPECIALIZADA
+POR
+MEIO
+DE
+RESOLUÇÃO.
+POSSIBILIDADE.
+INTERPOSIÇÃO
+DO
+RECURSO
+EXTRAORDINÁRIO COM FUNDAMENTO NAS ALÍNEAS B, C
+E D DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF.
+JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1.
+Esta Corte já decidiu tratar-se de matéria infraconstitucional a
+questão relativa à afronta ao princípio do juiz natural. Nessa linha,
+vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa; o AI 735.009, Rel.
+Min. Cezar Peluso; o AI 681.668-AgR, Relª. Minª. Ellen Gracie; o AI
+845.223-AgR-ED, Rel. Min. Luiz Fux; e o RE 255.639, Rel. Min.
+Ilmar Galvão. 2. A parte recorrente se limita a postular a análise da
+legislação infraconstitucional pertinente (Lei estadual 6.982/1996 e
+Instrução Normativa 026/97, da Corregedoria-Geral de Justiça do
+Estado da Bahia), e uma nova apreciação dos fatos e do material
+probatório constante dos autos, o que não é possível nesta fase
+processual. Nessas condições, a hipótese atrai a incidência da Súmula
+279/STF. 3. A criação de ‘varas especializadas, por resolução
+administrativa do tribunal, baixada com base em lei de organização
+judiciária, não afronta o princípio do juiz natural’ (ARE 1.215.318AgR, Rel. Min. Luiz Fux). Precedentes: RE 830.851-AgR, Relª.
+Minª. Cármen Lúcia; HC 113.102, Rel. Min. Marco Aurélio; HC
+113.018, Rel. Min. Ricardo Lewandowski; RE 819.642 Rel. Min.
+Teori Zavascki; RE 984.841, Rel. Min. Luiz Fux; ARE 1.352.428AgR, de minha relatoria; ARE 1.183.510, Rel. Min. Celso de Mello; e
+HC 102.150, Rel. Min. Teori Zavascki. 4. Quanto à interposição
+do recurso extraordinário pelas alíneas b e c do permissivo
+constitucional, ‘a parte recorrente não demonstrou a existência
+de declaração formal de inconstitucionalidade de tratado ou lei
+federal pelo Plenário ou órgão especial do Tribunal a quo,
+conforme entende ser necessária a jurisprudência desta
+Suprema Corte, bem como não demonstrou de que forma o acórdão
+impugnado julgou válida lei local contestada em face da Constituição
+Federal. Desse modo, incide na hipótese a Súmula 284 desta Corte’
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+ARE 1501878 AGR / SP
+(ARE 1.341.812-AgR, Rel. Min. Luiz Fux). 5. A admissão do ‘recurso
+extraordinário pela alínea d do inciso III do art. 102 da Constituição
+Federal pressupõe a ocorrência de conflito de competência legislativa
+entre os entes da Federação. Dessa forma, é incabível o apelo extremo,
+fundado no aludido dispositivo, cuja pretensão seja provocar o
+reexame da interpretação de norma infraconstitucional conferida pelo
+Juízo de origem’ (ARE 1.370.379-AgR, Rel. Min. Ricardo
+Lewandowski). 6. Agravo a que se nega provimento.” (ARE
+1.369.209-AgR, Primeira Turma, rel. Min. Roberto Barroso, DJe
+de 29/8/2022, grifos nossos)
+“Agravo regimental em recurso extraordinário com agravo.
+Direito Penal. Crime de homicídio no trânsito. Apelo extremo
+deduzido com fundamento nas alíneas a e b do permissivo
+constitucional. Alegada violação do art. 97 da Constituição Federal.
+Prequestionamento. Ausência. Violação. Inexistência. Acórdão
+recorrido em que não se declarou a inconstitucionalidade formal de
+dispositivo legal ou se afastou sua aplicação com base em fundamentos
+constitucionais. Precedentes. Agravo regimental não provido. 1. É
+inadmissível o recurso extraordinário se os dispositivos
+constitucionais que nele se alega violados não estão devidamente
+prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2.
+Segundo a pacífica jurisprudência da Corte, não há violação do art. 97
+da Constituição Federal quando o Tribunal de origem, sem declarar a
+inconstitucionalidade da norma nem afastá-la com fundamento na
+contrariedade à Constituição Federal, se limita a interpretar e aplicar
+a legislação infraconstitucional ao caso concreto. 3. A interposição
+de recurso extraordinário com fundamento na alínea b do
+permissivo constitucional pressupõe a ocorrência de
+declaração formal de inconstitucionalidade pela Corte de
+origem. 4. Agravo regimental ao qual se nega provimento.” (ARE
+1.319.444-AgR, 1ª Turma, Rel. Min. Dias Toffoli, DJe de
+17/3/2022, grifos nossos)
+“AGRAVO
+REGIMENTAL
+NO
+EXTRAORDINÁRIO.
+AUSÊNCIA
+
+RECURSO
+DE
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+ARE 1501878 AGR / SP
+PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS
+282/STF E 356/STF. DEMONSTRAÇÃO DO REQUISITO DA
+REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE.
+RECURSO INCABÍVEL PELA ALÍNEA B DO ART. 102 DA
+CONSTITUIÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO,
+COM APLICAÇÃO DE MULTA. I - É inviável o recurso
+extraordinário cuja questão constitucional nele arguida não tiver sido
+prequestionada. Incidência das Súmulas 282 e 356/STF. II - A mera
+alegação, nas razões do recurso extraordinário, de existência de
+repercussão geral das questões constitucionais discutidas, desprovida
+de fundamentação adequada que demonstre seu efetivo preenchimento,
+não satisfaz a exigência prevista no art. 1.035, § 2º, do CPC. III - A
+interposição de recurso extraordinário com base na alínea b do
+art. 102 da Constituição demanda a existência de declaração
+formal de inconstitucionalidade, nos termos do art. 97 da
+Constituição. IV - Agravo regimental a que se nega provimento, com
+aplicação de multa (art. 1.021, § 4º, do CPC).” (RE 1.189.677-AgR,
+Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de
+13/5/2019, grifos nossos)
+
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM
+RECURSO
+EXTRAORDINÁRIO.
+RECURSO
+EXTRAORDINÁRIO INTERPOSTO PELA ALÍNEA ‘B’ DO
+ART. 102, III, DA CF. CABIMENTO SOMENTE QUANDO
+HOUVER PRÉVIA MANIFESTAÇÃO DO PLENÁRIO DO
+TRIBUNAL
+DE
+ORIGEM
+SOBRE
+A
+INCONSTITUCIONALIDADE, NOS TERMOS DO ART. 97
+DA CF. CONSTITUCIONALIDADE DAS MAJORAÇÕES DE
+ALÍQUOTA DO FINSOCIAL VEICULADAS PELOS ARTS. 7º DA
+LEI 7.787/89, 1º DA LEI 7.894/89 E 1º DA LEI 8.147/90 PARA AS
+EMPRESAS
+EXCLUSIVAMENTE
+PRESTADORAS
+DE
+SERVIÇOS. PRECEDENTES. AUSÊNCIA DE INFORMAÇÕES
+CONCRETAS NOS AUTOS QUANTO À CONDIÇÃO DA
+RECORRIDA. IMPOSSIBILIDADE DE APLICAÇÃO DO
+ENTENDIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+ARE 1501878 AGR / SP
+PROVIMENTO.” (RE 487.659-AgR, Segunda Turma, Rel. Min.
+Teori Zavascki, DJe de 1º/10/2013, grifos nossos)
+
+Destarte, o agravo interno se revela manifestamente infundado.
+Ex positis, DESPROVEJO o agravo interno e, por ser manifestamente
+improcedente o recurso, condeno a parte agravante ao pagamento de
+multa de 5% (cinco por cento) do valor atualizado da causa, ex vi artigo
+1.021, § 4º, do Código de Processo Civil, na hipótese de votação unânime.
+Por se tratar de mandado de segurança, não há majoração de
+honorários advocatícios (Súmula 512 do STF).
+É como voto.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C39F-ECA2-4129-403D e senha 69E2-806E-BA9B-F1DA
+
+Supremo Tribunal Federal
+Extrato de Ata - 24/03/2025
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO COM AGRAVO 1.501.878
+PROCED. : SÃO PAULO
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : MUNICÍPIO DE SÃO PAULO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO MUNICÍPIO DE SÃO PAULO
+AGDO.(A/S) : 21 PROMOCOES E EVENTOS LTDA
+ADV.(A/S) : ALECIO CIARALO FILHO (297037/SP)
+ADV.(A/S) : RODRIGO JANUÁRIO CALABRIA (195152/SP)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+interno e condenou a parte agravante ao pagamento de multa de 5%
+(cinco por cento) do valor atualizado da causa, na forma do artigo
+1.021, § 4º, do Código de Processo Civil. Ademais, por se tratar
+de mandado de segurança, não há majoração de honorários
+advocatícios (Súmula 512 do STF), tudo nos termos do voto do
+Relator. Primeira Turma, Sessão Virtual de 14.3.2025 a 21.3.2025.
+Composição: Ministros Cristiano Zanin (Presidente), Cármen
+Lúcia, Luiz Fux, Alexandre de Moraes e Flávio Dino.
+
+Cintia da Silva Gonçalves
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C636-27DD-B8F7-36F5 e senha 68A7-93E6-357A-30DE
