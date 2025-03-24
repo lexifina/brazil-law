@@ -1,0 +1,40 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interp osto pela AGENCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com fundamento na incidência  da Súmula  7/STJ e na ausência de violação do art. 1022 do CPC.
+O acórdão ora recorrido foi assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. IMPENHORABILIDADE. ART. 835, V, DO CPC. BENS NECESSÁRIOS AO DESENVOLVIMENTO DAS ATIVIDADES EMPRESARIAIS. 1. Conforme precedentes do STJ, a impenhorabilidade é matéria de ordem pública e não se sujeita à preclusão temporal, podendo ser alegada em qualquer fase do processo. 2. A impenhorabilidade referida no art. 833, V, do CPC beneficia a pessoa jurídica desde que se enquadre como microempresa ou empresa de pequeno porte, e haja prova da imprescindibilidade dos veículos penhorados ao exercício de suas atividades. (fl. 62).
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta violação ao art. 1.022, II, do CPC, por negativa de prestação jurisdicional, aduzindo, em síntese, que "persistiu a Corte de origem na omissão da matéria arguida, não se pronunciando sobre a oposição da exceção de pré-executividade após o decurso do prazo para oposição de embargos à execução" (fl. 93).
+Alega, ainda, violação aos arts. 505 e 507 do Código de Processo Civil, defendendo que se operou a preclusão, pois não cabe exceção de pré-executividade após o decurso do prazo dos embargos.
+Em seu agravo, sustenta o preenchimento dos requisitos de admissibilidade do recurso especial.
+Assevera que, "não tendo havido análise da arguição de omissão quanto aos pontos ventilados, evidenciando efetiva ofensa ao art. 1022 do CPC, gera-se a necessidade de anulação do julgado" e que "não cabe o conhecimento da exceção de pré-executividade após o manejo dos embargos ou após a preclusão do uso dos mesmos" (fls. 123-124).
+Contraminuta apresentada (fls. 130-134).
+É o relatório.
+Passo a decidir.
+A irresignação não merece amparo.
+Preliminarmente, quanto à apontada violação do art. 1.022, II, do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta. No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, de modo que não ficou configurada a negativa de prestação jurisdicional. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+A Corte a quo assim se manifestou (fls. 64-65):
+O pedido liminar foi assim fundamentado:
+"O veículo de placas AIX 1192 foi penhorado na data de 08/01/2021 (evento 45, AUTOPENHORA3), tendo a parte executada sido intimada nesta mesma data na pessoa do seu representante legal (evento 45, CERT1).
+A parte exequente requereu em 16/03/2021 a realização de hasta pública do bem penhorado (evento 49, PET1), tendo o magistrado de origem determinado, em 20/04/2021, a designação de data para leilão (evento 51, DESPADEC1).
+Apenas em 13/05/2021 a parte executada apresentou exceção de pré- executividade alegando a impenhorabilidade do veículo constrito (evento 57, EXCPRÉEX1).
+No entanto, o STJ tem precedentes no sentido de que a impenhorabilidade é matéria de ordem pública e não se sujeita à preclusão temporal, podendo ser alegada em qualquer fase do processo (AgInt no AREsp 1424720 / SP), salvo se tiver havido decisão anterior sobre o tema (AgInt no AREsp 773213 / SP).
+No caso, na exceção de pré-executividade anteriormente oposta não houve decisão acerca da impenhorabilidade do ônibus (processo 5003726- 06.2019.4.04.7105/RS, evento 10, DOC1), razão por que o pedido poderia ter sido novamente formulado (processo 5003726-06.2019.4.04.7105/RS, evento 57, DOC1), sem que se possa cogitar acerca da ocorrência preclusão.
+No caso, a executada é microempresa que possui como atividade econômica o "transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional" e houve a penhora de um ônibus de transporte de passageiros. Trata-se da penhora de um bem imprescindível ao desempenho da atividade econômica e, em princípio, protegido pela impenhorabilidade:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IMPENHORABILIDADE. ART. 835, V, DO CPC. BENS NECESSÁRIOS AO DESENVOLVIMENTO DAS ATIVIDADES EMPRESARIAIS. AUSÊNCIA DE COMPROVAÇÃO. INAPLICABILIDADE.
+A impenhorabilidade referida no art. 833, V, do CPC beneficia a pessoa jurídica desde que se enquadre como microempresa ou empresa de pequeno porte, e desde que haja prova da imprescindibilidade dos veículos penhorados ao exercício de suas atividades.5004525- 97.2019.4.04.9999. Rel. Juiz Federal ALEXANDRE ROSSATO DA SILVA ÁVILA
+Embora não exista probabilidade do direito, há risco de o credor sofrer dano na hipótese de o devedor alienar o veículo enquanto não julgado este incidente, razão por que a decisão agravada deve ser parcialmente suspensa, mantendo-se a penhora até decisão final pelo Colegiado.
+Ante o exposto, defiro em parte o pedido para suspender os efeitos da r. decisão agravada nos pontos em que determinou o levantamento da penhora e o registro no RENAJUD."
+Não tendo sido noticiados fatos novos, tampouco deduzidos argumentos suficientemente relevantes ao convencimento em sentido contrário, mantenho a decisão proferida por seus próprios fundamentos. Ante o exposto, voto por negar provimento ao agravo de instrumento.
+Assim, não se pode falar em nulidade do julgamento por negativa de prestação jurisdicional.
+Ademais, a alteração dessa conclusão ensejaria o necessário reexame da matéria fático-probatória dos autos e atrai, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.  ..  ÔNUS DE ILIDIR A PRESUNÇÃO DE LIQUIDEZ E CERTEZA DA CDA QUE COMPETE AO CONTRIBUINTE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AFERIÇÃO DOS REQUISITOS DE VALIDADE DA CDA. NECESSIDAD E DE DILAÇÃO PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DESCABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRECEDENTE EM SEDE DE RECURSO ESPECIAL REPETITIVO.
+ ..
+2. O Tribunal de origem foi claro ao assentar que a CDA ora atacada preenche todos os requisitos legais. Nesse contexto, a revisão do acórdão recorrido, para a verificação de eventuais vícios nos requisitos de validade da certidão de dívida ativa, pressupõe reexame de matéria fática, inviável no âmbito do recurso especial, nos termos da Súmula 7 do STJ. A propósito: AgRg no AREsp 832.015/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 19/04/2016, DJe 27/05/2016.
+ ..
+4. O acórdão recorrido não destoa da jurisprudência desta Corte segundo a qual a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória. (REsp 1.110.925/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 04/05/2009). Revisar o entendimento do tribunal local quanto à necessidade de dilação probatória demandaria revolvimento de matéria fático-probatória a atrair o óbice da já citada Súmula n. 7 do STJ: "A pretensão de simples reexame de provas não enseja recurso especial".
+5. Agravo interno não provido (AgInt no AREsp n. 2.330.938/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 9/10/2023, DJe de 11/10/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
