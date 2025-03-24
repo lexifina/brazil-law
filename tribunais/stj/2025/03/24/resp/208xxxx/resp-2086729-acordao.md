@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA, por unanimidade, dar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Regina Helena Costa, Gurgel de Faria, Paulo Sérgio Domingues (Presidente) e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. INTEGRAÇÃO DO VALOR DO AUXÍLIO-ACIDENTE COMO SALÁRIO DE CONTRIBUIÇÃO (ART. 36, § 6º, DO DECRETO N. 3.048/1999). DISPOSITIVO REGULAMENTAR AMPARADO NO ART. 31 DA LEI N. 8.213/1991. APARENTE CONFLITO ENTRE O DISPOSTO NOS ARTS. 31 E 39, I, DA LEI DE BENEFÍCIOS. APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO MISERO.
+1. O Tribunal de origem considerou que o disposto no art. 36, § 6º, do Decreto n. 3.048/1999 extrapolaria seu poder regulamentar, por ausência de previsão legal.
+2. Entretanto, o art. 31 da Lei n. 8.213/1991 determina que " o  valor mensal do auxílio-acidente integra o salário-de-contribuição, para fins de cálculo do salário-de-benefício de qualquer aposentadoria".
+3. Embora o art. 31 da Lei de Benefícios esteja em aparente conflito com o art. 39, I, dessa mesma lei, que fixa o valor do salário de benefício da aposentadoria por idade do segurado especial em um salário mínimo, restringir o alcance da expressão "qualquer aposentadoria" seria proceder contrariamente ao entendimento pacificado neste Superior Tribunal de que, em matéria de Direito Previdenciário, deve ser adotada a interpretação mais favorável ao segurado (in dubio pro misero).
+4. Nesse contexto, pode-se considerar o art. 31 da Lei n. 8.213/1991 como fundamento legal a amparar o disposto no § 6º do art. 36 do Decreto n. 3.048/1999, não havendo falar em extrapolação do poder regulamentador.
+5. Recurso especial provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de recurso especial manejado por Wilmar Stinghen, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de Santa Catarina, assim ementado (fl. 167):
+APELAÇÃO. AÇÃO ACIDENTÁRIA. SENTENÇA DE IMPROCEDÊNCIA.
+APELO DO AUTOR. PLEITO DE SOMA DA RENDA MENSAL DO AUXÍLIO-ACIDENTE AO VALOR DA APOSENTADORIA POR IDADE RURAL, NOS TERMOS DO ART. 36, § 6º DO DECRETO 3.048/1999. IMPOSSIBILIDADE. HIPÓTESE EXCEPCIONAL NÃO PREVISTA NA LEI FEDERAL. FUNÇÃO E FINALIDADE DO DECRETO REGULAMENTADOR EXTRAPOLADAS. PERMISSÃO,POR VIA TRANSVERSA, DE CUMULAÇÃO, DE BENEFÍCIOS INACUMULÁVEIS. ILEGALIDADE. RMI LIMITADA A 1 (UM) SALÁRIO-MÍNIMO NA ESPÉCIE (ART. 39, I, DA LEI 8.213/91). DECISUM MANTIDO.
+RECURSO CONHECIDO E DESPROVIDO.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 31, 34, II, da Lei n. 8.213/1991; e 36, § 6º, do Decreto n. 3.048/1999. Sustenta, em síntese, que, "em se tratando de segurado especial (o que é ocaso dos autos) ,  a integração do valor do auxílio-acidente ao salário-de-contribuição da aposentadoria opera-se mediante a soma do valor da aposentadoria à renda mensal do auxílio-acidente vigente na data de inicio da referida aposentadoria" (fl. 181).
+Sem contrarrazões (fl. 188).
+Apresentada petição do recorrente informando sobre a tese firmada no julgamento do Tema n. 322 da Turma Nacional de Uniformização (fls. 215/216).
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. INTEGRAÇÃO DO VALOR DO AUXÍLIO-ACIDENTE COMO SALÁRIO DE CONTRIBUIÇÃO (ART. 36, § 6º, DO DECRETO N. 3.048/1999). DISPOSITIVO REGULAMENTAR AMPARADO NO ART. 31 DA LEI N. 8.213/1991. APARENTE CONFLITO ENTRE O DISPOSTO NOS ARTS. 31 E 39, I, DA LEI DE BENEFÍCIOS. APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO MISERO.
+1. O Tribunal de origem considerou que o disposto no art. 36, § 6º, do Decreto n. 3.048/1999 extrapolaria seu poder regulamentar, por ausência de previsão legal.
+2. Entretanto, o art. 31 da Lei n. 8.213/1991 determina que " o  valor mensal do auxílio-acidente integra o salário-de-contribuição, para fins de cálculo do salário-de-benefício de qualquer aposentadoria".
+3. Embora o art. 31 da Lei de Benefícios esteja em aparente conflito com o art. 39, I, dessa mesma lei, que fixa o valor do salário de benefício da aposentadoria por idade do segurado especial em um salário mínimo, restringir o alcance da expressão "qualquer aposentadoria" seria proceder contrariamente ao entendimento pacificado neste Superior Tribunal de que, em matéria de Direito Previdenciário, deve ser adotada a interpretação mais favorável ao segurado (in dubio pro misero).
+4. Nesse contexto, pode-se considerar o art. 31 da Lei n. 8.213/1991 como fundamento legal a amparar o disposto no § 6º do art. 36 do Decreto n. 3.048/1999, não havendo falar em extrapolação do poder regulamentador.
+5. Recurso especial provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O recurso comporta êxito.
+De início, como informado pelo recorrente, observo que a Turma Nacional de Uniformização já tratou da questão aqui discutida, quando do julgamento do Tema n. 322, no qual se proferiu acórdão assim ementado:
+REPRESENTATIVO DE CONTROVÉRSIA. TEMA 322. SEGURADO ESPECIAL BENEFICIÁRIO DE AUXÍLIO-ACIDENTE. APOSENTADORIA POR IDADE RURAL. AUSÊNCIA DE RECOLHIMENTOS DE CONTRIBUIÇÕES PREVIDENCIÁRIAS COMO FACULTATIVO. DIREITO AO CÔMPUTO DOS VALORES RECEBIDOS A TITULO DE AUXÍLIO-ACIDENTE NA RENDA MENSAL INICIAL DA APOSENTADORIA POR IDADE RURAL. FIXAÇÃO DE TESE.
+1. Fixação da seguinte tese para o Tema 322: Devem ser computados os valores percebidos a título de auxílio-acidente no período básico de cálculo (PBC) da aposentadoria por idade rural do segurado especial, para fins de incremento da renda mensal inicial (RMI), independentemente do recolhimento de contribuições facultativas, a teor do inciso II do artigo 34 da Lei n. 8.213/91, excetuadas as hipóteses de cumulação de benefícios contempladas na Súmula 507 do STJ.
+2. Devolução dos autos à Turma Recursal de origem, a fim de que matéria seja reanalisada à luz das provas juntadas aos autos, nos termos da Questão de Ordem nº 20 da TNU.
+(PEDILEF 5014634-54.2021.4.04.7202/SC, Relatora Juíza Federal Luciana Ortiz Tavares Costa Zanoni, julgado em 24/11/2023, transitado em julgado em 29/1/2024, Repositório TNU, versão atualizada em 20/3/2024, in https://www.cjf.jus.br/cjf/corregedoria-da-justica-federal/turma-nacional-de-uniformizacao/publicacoes-1/repositorio-tnu/repositorio-tnu/@@download/arquivo, acesso em 5/4/2024.)
+No presente feito, o fundamento adotado pelo Tribunal de origem para afastar a possibilidade de integrar o valor do auxílio-acidente ao salário de benefício da aposentadoria foi a falta de previsão legal, nestes termos (fl. 168):
+A parte autora percebeu auxílio-acidente desde 08/07/2001 (DIB ANT) até 30/05/2021 (DCB), pois em 31/05/2021 foi implementada em seu favor a aposentadoria por idade rural, observando assim o art. 86, § 1º da Lei n. 8.213/91.
+A Lei n. 8.213/91 traz, no inciso I do seu artigo 39, a regra geral relacionada à RMI da aposentadoria por idade rural do segurado especial: um salário mínimo (mesmo parâmetro replicado no art. 39, § 2º do Decreto n. 3.048/1999) - regra esta aplicada no caso em comento.
+O autor discute em seu apelo, unicamente essa questão. Aduz ser possível majorar a renda mensal inicial em seu caso, nos termos do art. 36, § 6º do Decreto n. 3.048/1999, o qual dispõe que, em síntese, para o segurado especial, será somado "ao valor da aposentadoria a renda mensal do auxílio-acidente vigente na data de início da referida aposentadoria, não sendo, neste caso, aplicada a limitação contida no inciso I do § 2º do art. 39 e do art. 183".
+Referida compreensão efetivamente implicaria em uma renda mensal de um salário mínimo e meio.
+Porém, a hipótese não está prevista em lei, apenas no decreto, em evidente descompasso a função e finalidade para a qual editado: regulamentar a Lei Federal para garantir sua fiel execução (art. 84, inciso IV da Constituição Federal).
+Friso que o Decreto n. 3.048/1999 é ato normativo infralegal e tira da lei seu fundamento de validade, e não o contrário, razão pela qual não pode inová-la nem tampouco contrariá-la, como fez no § 6º de seu art. 36 ao prever e viabilizar, ainda que por via transversa, a possibilidade de cumulação de benefícios legalmente inacumuláveis por meio da aglutinação das rendas mensais numa única benesse.
+É, afinal, como bem fundamentou a I. Juíza Federal Substituta Marta Weimer ao solucionar entrave idêntico "É sabido que o poder regulamentar deve ser exercido nos limites da lei, razão pela qual não pode criar barreiras não previstas em lei à concessão do benefício, tampouco ampliar situações para majorar os valores dos benefícios sem previsão legal. Ora, em momento algum a lei de regência reconheceu a possibilidade de a aposentadoria por idade rural ser superior a um salário mínimo e tampouco criou exceção para a acumulação do benefício de auxílio-acidente após as alterações realizadas pela Lei 9.528/97" (AC 50098526720224047202, 1ª Turma Recursal da Justiça Federal da 4ª Região, por unanimidade, julgado em 29/11/2022).
+(Grifos acrescidos)
+Entretanto, há o art. 31 da Lei n. 8.213/1991, cuja redação dada pela Lei n. 9.528/1997 determina o seguinte:
+Art. 31. O valor mensal do auxílio-acidente integra o salário-de-contribuição, para fins de cálculo do salário-de-benefício de qualquer aposentadoria, observado, no que couber, o disposto no art. 29 e no art. 86, § 5º.
+(Grifo acrescido)
+Ainda que se considere que o salário de benefício para aposentadoria por idad e do segurado especial é, em regra, fixado em um salário mínimo (art. 39, I, da Lei n. 8.213/1991), afastar a aplicação do referido art. 31 da Lei de Benefícios a essa categoria de segurados, restringindo o alcance da expressão "qualquer aposentadoria", seria proceder contrariamente ao entendimento pacificado neste Superior Tribunal de que, em matéria de Direito Previdenciário, deve ser adotada a interpretação mais favorável ao segurado (in dubio pro misero).
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. DOENÇA PREEXISTENTE. INCAPACIDADE A PARTIR DO LAUDO PERICIAL. RECONHECIMENTO. PRINCÍPIO IN DUBIO PRO MISERO. SÚMULA 7/STJ. AFASTAMENTO.
+1. A jurisprudência desta Corte Superior segue entendimento de que a aplicação do princípio in dubio pro misero deve prevalecer diante de relevante valor social de proteção ao trabalhador segurado e ante as dificuldades de apresentação de provas em juízo.
+2. A dúvida em laudo pericial quanto ao exato início da incapacidade laboral do segurado é questão substancial para aplicação do princípio suscitado em favor do segurado.
+3. Afastada a alegada incidência da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 900.658/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/12/2018, DJe de 10/12/2018.)
+Assim, pode-se considerar o art. 31 da Lei n. 8.213/1991 como fundamento legal a amparar o disposto no § 6º do art. 36 do Decreto n. 3.048/1999, não havendo falar em extrapolação do poder regulamentador.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar a inclusão do valor do auxílio-acidente no valor do salário de benefício da aposentadoria do recorrente, nos termos do art. 36, § 6º, do Decreto n. 3.048/1999.
+É como voto.
