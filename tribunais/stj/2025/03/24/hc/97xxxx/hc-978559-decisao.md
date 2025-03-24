@@ -1,0 +1,37 @@
+DECISÃO
+DEIVISON FERNANDO GARGIONI RODRIGUES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução nº 0013422-54.2024.8.26.0502.
+A defesa aduz, em síntese, que o paciente está sofrendo constrangimento ilegal em sua liberdade de locomoção devido à decisão que reconheceu a prática de falta grave, baseada em fatos ocorridos em 28/04/2024, quando sua companheira foi flagrada tentando ingressar em estabelecimento prisional com drogas. A defesa argumenta que não há provas do envolvimento do paciente no crime praticado por sua companheira, invocando o princípio da intranscendência, que impede a responsabilização penal por atos de terceiros.
+O parecer do Subprocurador-Geral da República Mario Luiz Bonsagli, fls. 123-132, foi pela concessão da ordem de habeas corpus, argumentando que não há evidências concretas do envolvimento do sentenciado na tentativa de introdução de drogas no presídio. O parecer destacou o princípio da intranscendência penal, que impede a responsabilização por atos de terceiros.
+Decido.
+A decisão de primeira instância - depois mantida pela Corte estadual - considerou que:
+No mérito, as provas contra o acusado são robustas diante das declarações dos funcionários que afirmaram que no momento da visita, a companheira do sentenciado, Ágata Larissa Dias, passou pelo scanner corporal que identificou objeto em seu corpo. Indagada, disse que havia ingerido porções de drogas e estava passando mal, solicitando que fosse encaminhada ao pronto-socorro. Após ser internada e medicada, expeliu 16 porções de substância análoga à droga. Na ocasião, informou que tentaria entrar com a droga na unidade como forma de pagamento de uma dívida de seu companheiro (fls. 479/480 e 481/482).
+A companheira do sentenciado confirma os fatos. Alega que no dia dos fatos, ao passar pelo scanner corporal foi observado uma mancha em seu corpo e confessou que engoliu vários invólucros de drogas e pediu que fosse conduzida ao hospital (fl. 470).
+O sentenciado nega. Afirma que não tinha conhecimento de que sua companheira tentaria entrar na unidade com ilícito (fl. 483).
+Em que pese as alegações do sentenciado, não encontram amparo no restante das provas colhidas. Os elementos dos autos dão conta de que a visitante era sua companheira (fl. 468) e foi surpreendida tentando entrar na unidade com 16 embalagens de substância ilícita (fl. 471).
+Segundo o que consta, a companheira confirmou ao agente penitenciário que a droga seria para pagamento de dívida do sentenciado (fl. 480). Nada nos autos aponta vontade dos agentes de imputar falsamente a prática da infração ao executado.
+As provas produzidas são suficientes para a formação da convicção do juízo quanto à materialidade e à autoria da falta grave, diante das declarações dos funcionários e pelas circunstâncias da apreensão dos ilícitos laudo químico-toxicológico positivo para TETRAHIDROCANNABIDIOL às fls. 509/511. (fls.86-87, grifei)
+Em vista desses elementos, considerou a prática de falta grave pelo reeducando, em dispositivo assim redigido:
+Em consequência, HOMOLOGO a conclusão da sindicância e determino regressão do(a) sentenciado(a) Deivison Fernando Gargioni Rodrigues, Penitenciária "João Batista de Arruda Sampaio" - Itirapina II  Anexo Penitenciário, ao regime fechado, bem como a anotação da falta no prontuário do(a) sentenciado(a) e a perda de um sexto dos dias remidos anteriormente à falta grave praticada. (fls.88, grifei)
+O ato atacado não está em consonância com a jurisprudência deste Superior Tribunal.
+Como se observa, foi reconhecida falta grave em desfavor do paciente por haver ele, em tese, solicitado que sua companheira ingressasse no estabelecimento prisional com entorpecentes para o pagamento de dívidas.
+A jurisprudência majoritária desta Corte é firme em assinalar que o reeducando não pode ser responsabilizado por conduta praticada por terceiro, de forma automática, sem suporte probatório mínimo que se permita concluir pela sua efetiva participação nos fatos, haja vista o princípio da personalidade (art. 5º XLV, da CF), que assume relevo tanto para o processo de conhecimento, quanto para a execução penal.
+O paciente não teve contato algum com o entorpecente e o Tribunal de Justiça não indicou prova concreta de que ele solicitou ou tinha conhecimento da conduta de sua companheira.
+O vínculo afetivo não pode ensejar, por si só, o reconhecimento da autoria da falta grave. Ainda que sejam fortes as suspeitas que recaem sobre o reeducando, a ilação subjetiva, desamparada de qualquer outro sinal exterior que indique a provocação do fato e, portanto, sua participação no tráfico de drogas, é insuficiente para o reconhecimento da falta grave.
+Ilustrativamente:
+ ..
+1. O reconhecimento da prática de falta grave em razão, tão somente, de conduta praticada por visitante de estabelecimento prisional, sem a demonstração de elementos concretos que evidenciem o conluio do apenado recluso, viola o princípio constitucional da intranscendência (art. 5.o, inciso XLV, da Constituição da República), o qual preconiza que ninguém pode ser responsabilizado por ato praticado por terceira pessoa.
+2. No caso, a autoridade administrativa e os órgãos do Poder Judiciário concluíram que houve a prática de falta grave por parte do Paciente com base, unicamente, no fato de que a tentativa de introdução do aparelho de telefonia celular no estabelecimento prisional foi realizada por sua companheira/visitante. Em nenhum momento foram apresentados fatos ou provas capazes de demonstrar, concretamente, que o Apenado estava em conluio com a visitante ou que, ao menos, tinha conhecimento da tentativa de introdução do objeto no presídio.
+3. Agravo regimental desprovido.
+(AgRg no HC 567.191/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/6/2020)
+Embora seja grande a probabilidade de anuência do detento, sua responsabilização não pode derivar de mera presunção. Não houve registro de provas ou indícios que sinalizassem a prévia solicitação da encomenda pelo reeducando. A responsabilização por ato de terceiro está lastreada, exclusivamente, em conjectura não respaldada por elemento concreto a indicar a ciência ou a participação do reeducando na conduta de terceiro.
+Mutatis mutandis:
+ ..
+1. O princípio da personalidade, também conhecido como princípio da intranscendência penal, assume relevo tanto para o processo de conhecimento, quanto para o processo de execução penal.
+2. Por esse princípio, compreende-se que a pena não pode passar da pessoa do autor ou partícipe do crime. O raciocínio deve ser estendido para os casos em que se apura a prática de falta grave no âmbito da execução penal, em decorrência das implicações que sofrerá o condenado com a constatação do ato de indisciplina.
+3. Ainda que sejam fortes as suspeitas de que algum reeducando tenha solicitado a terceiros o envio, via correios, de aparelho celular, tal ilação, desamparada de outro elemento probatório concreto que indique a anuência com o ato de terceiro ou a solicitação da encomenda pelo preso, não se mostra suficiente para o reconhecimento da falta grave.
+4. Agravo regimental não provido.
+(AgRg no HC 723.120/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/3/2022)
+À vista do exposto, concedo a ordem para cassar a decisão que reconheceu a prática de falta grave pelo paciente e afastar seus consectários legais.
+Comunique-se, com urgência , o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
