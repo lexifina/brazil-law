@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 18/03/2025 a 24/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NONEGO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA DE MULTA CONTRATUAL, DANOS MATERIAIS E DANOS MORAIS. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de obrigação de fazer c/c cobrança de multa contratual, danos materiais e danos morais.
+2. É firme, nesta Corte, o entendimento de que o art. 932 do CPC/2015 e a Súmula 568/STJ admitem que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por PAULO RENATO DE OLIVEIRA FIGUEIREDO em face da decisão monocrática que, a par de reconsiderar decisão proferida pela Presidência do STJ e conhecer do agravo, não conheceu do recurso especial que interpusera.
+Ação: de obrigação de fazer c/c cobrança de multa contratual, danos materiais e danos morais, ajuizada pelo agravante em face de MNZ AUTOMAÇÃO RESIDENCIAL LTDA e SMS TECNOLOGIA ELETRÔNICA LTDA, sucedida pela GL ELETRO-ELETRÔNICOS LTDA.
+Sentença: julgou procedentes os pedidos iniciais, para condenar solidariamente as rés na obrigação de restituírem os valores desembolsados pelo autor para a contratação do serviço e os despendidos para a instalação dos equipamentos e restituição do imóvel ao estado anterior à instalação e os prejuízos causados na residência do autor, verbas que serão objeto de liquidação, bem como para condenar as réus ao pagamento da multa diária de 0,5% do valor do contrato que incidirá desde a data da primeira instalação até a presente data e ao pagamento de compensação por danos morais à parte autora, no valor de R$ 30.000 (trinta mil reais).
+Acórdão: integralizado pelo acórdão de e-STJ fls. 665/666, negou provimento ao recurso de apelação interposto pela GL ELETRO-ELETRÔNICOS LTDA, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. FALHA NA PRESTAÇÃO DOS SERVIÇOS CONTRATADOS PELO AUTOR. DANOS MATERIAIS E MORAIS ALEGADOS. INCONFORMISMO DA SEGUNDA DEMANDADA. PRELIMINARES REJEITADAS.
+1. No caso, verifica-se que as insurgências manifestadas neste recurso devem prosperar parcialmente, eis que, a despeito de restar devidamente comprovada a responsabilidade solidária das rés, pela prestação defeituosa dos serviços adquiridos pelo consumidor litigante, as verbas indenizatórias fixadas, a título de danos material e moral, devem ser corrigidas, em razão da equivocada interpretação do douto magistrado de origem.
+2. Em relação à cláusula penal moratória, verifica-se que, diante de os fatos evidenciarem a ocorrência de vícios de qualidade do serviço, e não de atraso na entrega do mesmo (circunstância exposta na inicial), a incidência da referida multa é incabível. A inaplicabilidade de tal multa é reforçada pela demonstração de inutilidade do serviço (art. 395, parágrafo único, do CC).
+3. Quanto aos danos materiais, apesar do acerto da condenação das rés ao pagamento da verba de desembolso, representada nos valores da contratação (R$110.000,00), implementação de estrutura necessária ao serviço e à restituição do imóvel ao estado anterior - montantes a serem aferidos em sede de liquidação, a parcela relativa aos prejuízos causados na residência do autor está ligada à situação indeterminada e não comprovada, devendo, portanto, ser excluída da condenação imposta.
+4. Por fim, observa-se que a frustração do autor de não obter o correto funcionamento do serviço, associada aos transtornos das constantes visitas técnicas e reclamações (fato prolongado por mais de 2 anos), evidenciam os danos morais sofridos. Verba indenizatória fixada em valor desproporcional (R$30.000,00), devendo ser reduzida para a quantia da R$15.000,00.
+RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Recurso especial: aponta violação ao art. 397 do CC, sob o argumento de que, como os equipamentos instalados nunca funcionaram, está caracterizada a mora das rés.
+Decisão monocrática: a par de reconsiderar decisão proferida pela Presidência do STJ e conhecer do agravo, não conheceu do recurso especial interposto pelo agravante, em razão da incidência da Súmula 211 do STJ.
+Agravo interno: nas razões do presente recurso, o agravante, em síntese, alega violação ao princípio da colegialidade, ante o julgamento monocrático do recurso que interpusera, bem como afirma que nos embargos declaração opostos em face do acórdão recorrido teria sido prequestionada a infringência do art. 397 do CC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NONEGO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA DE MULTA CONTRATUAL, DANOS MATERIAIS E DANOS MORAIS. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de obrigação de fazer c/c cobrança de multa contratual, danos materiais e danos morais.
+2. É firme, nesta Corte, o entendimento de que o art. 932 do CPC/2015 e a Súmula 568/STJ admitem que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+1. Do julgamento por decisão monocrática
+Com efeito, no que se refere à alegação do agravante acerca da impossibilidade de julgamento monocrático, razão não lhe assiste, pois, como já decidido pela Segunda Seção desta Corte, "a jurisprudência do STJ orienta-se no sentido de que o art. 932 do NCPC e a Súmula nº 568 do STJ admitem que o relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte" (AgInt na Rcl 42.176/SP, Segunda Seção, DJe 16/3/2022).
+Esse é o entendimento de todas as Turmas deste STJ, conforme os seguintes precedentes: AgInt no AREsp 2.021.455/SP, 1ª Turma, DJe 4/5/2022; AgInt no REsp 1.897.534/DF, 1ª Turma, DJe 30/3/2022; AgInt no AgInt no AREsp 1.794.853/RJ, 2ª Turma, DJe 25/10/2021; AgInt no REsp 1.705.857/RS, 2ª Turma , DJe de 23/4/2021; AgInt no AREsp 934.618/PR, 3ª Turma, DJe 18/6/2020; AgInt no AREsp 1.435.896/PE, 3ª Turma, DJe 29/11/2019; AgInt nos EDcl no REsp 1.960.828/SC, 4ª Turma, DJe 19/4/2022; AgInt nos EDcl no REsp 1.960.828/SC, 4ª Turma, DJe 19/4/2022; AgRg no REsp 1468085/PA, 5ª Turma, DJe 20/4/2020; AgRg no REsp n. 1.957.376/PR, 5ª Turma, DJe 25/2/2022; AgRg no REsp n. 1.575.569/SP, 6ª Turma, DJe 10/4/2019; AgRg no RHC 136.854/RJ, 6ª Turma, DJe 15/12/2020.
+Registre-se, ademais, que "a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, 4ª Turma, DJe 29/3/2019; AgInt no REsp 1.975.899/DF, 3ª Turma, DJe 29/4/2022).
+2. Da ausência de prequestionamento
+Outrossim, a despeito das alegações do agravante, o que se verifica é que, apesar da oposição de embargos de declaração, realmente não houve pronunciamento do Tribunal de origem acerca do art. 397 do CC, indicado como violado, circunstância que impede a apreciação da insurgência, pois não satisfeito o requisito do prequestionamento.
+Frisa-se, além disso, que, conforme salientado na decisão agravada, acerca do prequestionamento ficto, previsto no art. 1.025 do CPC, tem-se que esse só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente venha a suscitar devidamente a violação do art. 1.022 do CPC nas razão do recurso especial, porquanto, somente dessa forma poderá o órgão julgador verificar a existência do vício e proceder à supressão de grau, o que, contudo, não ocorreu na hipótese em exame. Nesse sentido: AgInt no REsp 1.855.026/MA, 3ª Turma, DJe de 10/6/2020 e AgInt no AREsp 1.206.045/RN, 4ª Turma, DJe de 10/9/2018.
+Logo, permanece a aplicação da Súmula 211 do STJ no particular.
+Por todo o exposto, não merece reforma a decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
