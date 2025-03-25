@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de Agravo apresentado por OSVALDO RASMUSSEN JUNIOR e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+RESPONSABILIDADE CIVIL. Ação de indenização por danos morais e materiais. Acidente de trânsito. Veículo dos réus que adentrou pela contramão na rotatória do trevo. Colisão com o veículo dos autores Sentença de parcial procedência. 3 apelações, dos quatro réus.
+RECURSO DOS RÉUS - OSVALDO RASMUSSEN JUNIOR e ROENG COMÉRCIO DE MATERIAIS ELÉTRICOS LTDA. - Preliminar de ilegitimidade passiva do proprietário do veículo OSVALDO RASMUSSEN JUNIOR. Não acolhimento. Decisão saneadora que sinalizou a necessidade de dilação probatória em relação à questão. Inércia dos réus. Insuficiência do contrato particular de compra e venda celebrado entre os requeridos, sem reconhecimento de firma, sem identificação das testemunhas e desacompanhado de outras provas. Documento devidamente impugnado pelos autores. Preliminar rejeitada.
+INSURGÊNCIAS COMUNS A TODOS OS RÉUS.
+(1) Pedido de reconhecimento de culpa exclusiva e/ou concorrente. Não acolhimento. Réu que, tendo ingressado na contramão para realizar o cruzamento da rodovia, interceptou o trajeto preferencial do veículo dos autores. Falta de cautela.
+Conversão imprudente em local proibido. Depoimentos do réu condutor e do passageiro que confirmam que o apelante faltou com cuidado. Alegação de que o veículo do autor estaria com as luzes apagadas não comprovada. Informações constantes no Boletim de Ocorrência não elididas. Velocidade excessiva do veículo-vítima também não comprovada. Circunstância, ademais, que não se sobressairia ao fato de que a conversão do réu partiu de local proibido. Réus que não se desincumbiram do ônus de comprovar fatos extintivos, impeditivos ou modificativos dos direitos dos autores. Culpa exclusiva mantida.
+(2) Insurgência contra a condenação por Lucros Cessantes. Não acolhimento. Autora que laborava como diarista. Atividade suficientemente comprovada por meio de declarações e depoimentos testemunhais. Indenização devida.
+(3) Pensionamento. Laudo pericial é claro ao apontar que a autora sofreu incapacidade laboral em 100% para o ofício que realizava.
+RECURSO DOS RÉUS - OSVALDO RASMUSSEN JUNIOR e ROENG COMÉRCIO DE MATERIAIS ELÉTRICOS LTDA. - CONHECIDO E DESPROVIDO (fls. 1.663/1.665).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à necessidade de redução do valor exorbitante fixado a título de danos morais, sob pena de enriquecimento ilícito da parte recorrida, trazendo a seguinte argumentação:
+A decisão do tribunal a quo manteve o valor da compensação por danos morais em R$ 20.000,00, como decidido pelo juiz de primeiro grau.
+Em razão do valor exorbitante, o direito não foi aplicado de forma correta, violando expressamente dispositivos do Código Civil.
+ ..
+Ora, a compensação por dano moral deve restituir a parte ao estado anterior, mas não causar o enriquecimento sem causa dos recorridos - situação que é expressamente vedada pela lei (art. 884, CC).
+ ..
+A decisão se remeteu a julgado da própria câmara que considerou a necessidade de intervenção cirúrgica e prolongado período de recuperação.
+Embora tais circunstâncias possam ensejar a configuração de dano moral, não devem ensejar a ancoragem em valor tão exorbitante do ordinário.
+ ..
+Assim, a indenização no valor fixado na origem destoa completamente da jurisprudência desta Corte Superior, bem como da doutrina especializada, configurando verdadeira teratologia e, assim, está justificado o conhecimento do recurso, sem que se haja de falar em aplicação do óbice do enunciado n. 7 da súmula deste tribunal.
+Pelo exposto, indubitável é a violação à legislação federal devendo o valor de compensação ser reduzido a patamar razoável. Sugere-se o valor de R$ 5.000,00, valor este adequado e proporcional à situação concreta (fls. 1.701/1.704).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 284/STF devido à ausência de comando normativo dos dispositivos apontados como violados para sustentar a tese recursal, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+Ressalte-se, por oportuno, que a indicação genérica do artigo de lei que teria sido contrariado induz à compreensão de que a violação alegada é somente de seu caput, pois a ofensa aos seus desdobramentos também deve ser indicada expressamente.
+Nesse sentido, vale citar os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. IMUNIDADE. FUNDAMENTAÇÃO DEFICIENTE. EXECUÇÃO FISCAL. RFFSA E UNIÃO. TRANSFERÊNCIA PATRIMONIAL. CURSO DA DEMANDA. SUCESSORA. REDIRECIONAMENTO. POSSIBILIDADE. SUBSTITUIÇÃO DA CDA. DESNECESSIDADE.
+1. Os apontados arts. 130 e 131 do CTN não têm comando normativo para amparar a tese de imunidade do IPTU em favor da RFFSA, visto que tais dispositivos legais cuidam de tema diverso, referente à responsabilidade tributária por sucessão, sendo certo que a deficiência da irresignação recursal nesse ponto enseja a aplicação da Súmula 284 do STF.
+ ..  (AgInt no REsp n. 1.764.763/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 27.11.2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CERTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). PREQUESTIONAMENTO. AUSÊNCIA. FUNÇÃO DESEMPENHADA PELO CÉRTIFICADO DE DEPÓSITO INTERBANCÁRIO (CDI). REEXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+4. No que tange à aduzida ofensa ao art. 12, § 1º, VI, da Lei n. 10.931/04, o presente recurso não merece prosperar, porquanto o referido dispositivo não confere sustentação aos argumentos engendrados. Incidência da Súmula 284/STF.
+5. O mesmo óbice representado pelo enunciado da Súmula 284/STF incide no que diz respeito à alegada ofensa aos arts. 421 e 425 do Código Civil, que veiculam comandos normativos demasiadamente genéricos e que não infirmam as conclusões do Tribunal de origem.
+ ..
+7. Agravo interno não provido. (AgInt no AREsp n. 1.674.879/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.3.2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.798.903/RJ, Rel. para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30.10.2019; AgInt no REsp n. 1.844.441/RN, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 14.8.2020; AgInt no AREsp n. 1.524.220/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 18.5.2020; AgRg no AREsp n. 1.280.513/RJ, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27.5.2019; AgRg no REsp n. 1.754.394/MT, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 17.9.2018; AgInt no REsp n. 1.503.675/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27.3.2018; AgInt no REsp n. 1.846.655/PR, Terceira Turma, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 23.4.2020; AgInt nos EDcl no REsp n. 1.709.059/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 18.12.2020; e AgInt no REsp n. 1.790.501/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.3.2021.
+No mais, o Tribunal a quo se manifestou nos seguintes termos:
+Os recorrentes também pediram o afastamento da condenação por danos morais e, sucessivamente, pela minoração.
+A r. sentença (mov. 477.1), condenou os réus/apelantes ao pagamento de indenização por danos morais fixada em , deduzindo do valor, a quantia recebida a título de R$20.000,00 seguro DPVAT (R$8.065,57), de modo que o valor definitivo passou a ser de R$11.934,43 (onze mil, novecentos e trinta e quatro reais e quarenta e três centavos).
+No presente caso, conforme já foi exposto, em virtude do acidente de trânsito ocasionado pelos requeridos, a autora foi submetida à realização de cirurgia para fixação da fratura, diversos exames e consultas médicas, fisioterapia, precisou ser afastada das suas atividades profissionais, com redução permanente de sua capacidade física, e ainda sofre de quadros de dor, sem previsão de alta médica.
+Diante das circunstâncias, fica mais do que evidente que o dano sofrido supera o mero dissabor, sendo passível de indenização.
+Quanto ao valor estabelecido em primeiro grau, igualmente não comporta reparo, pois é razoável e proporcional às peculiaridades do caso, estando ainda de acordo com o usualmente fixado por esta 9ª Câmara:
+ ..
+Dessa forma, não merece reparo a sentença, restando os pedidos. desprovidos (fl. 1.687).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 8.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 27.8.2020; AgInt no AREsp 1.533.714/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 28.8.2020; e AgInt no AREsp 1.533.913/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 31.8.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
