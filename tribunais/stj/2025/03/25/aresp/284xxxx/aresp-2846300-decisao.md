@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 50 DO CC. PARA QUE SEJA POSSÍVEL A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA, MISTER SEJAM ATENDIDOS OS REQUISITOS DO ART. 50 DO CÓDIGO CIVIL, CONSUBSTANCIADOS PELO ABUSO DA PERSONALIDADE JURÍDICA, CARACTERIZADO PELO DESVIO DE FINALIDADE, OU PELA CONFUSÃO PATRIMONIAL ENTRE A EMPRESA E SEUS SÓCIOS, O QUE FLAGRANTEMENTE NÃO SE COADUNA AO CASO EM COMENTO. AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME.
+Alegou-se, no especial, violação dos artigos 1.022 e 774 do Código Civil e 50 do Código de Processo Civil sob os argumentos de que o acórdão local é omisso e que estão presentes os requisitos para a desconsideração da personalidade jurídica.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, de início, motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em omissão ou negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Sobre o tema, os seguintes precedentes: AgRg no REsp 965.541/RS, Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011, e AgRg no Ag 1.160.319/MG, Desembargador Convocado Vasco Della Giustina, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+O Tribunal local, no mais, consignou e concluiu que, para a "desconsideração da personalidade jurídica, devem ser atendidos os requisitos do art. 50 do Código Civil, a saber, (i.) abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou (ii.) confusão patrimonial entre a empresa e seus sócios.
+Na hipótese dos autos, em que pese a formação de grupo econômico, não restou demonstrado abuso da personalidade jurídica ou desvio de finalidade, sequer sendo inequívoca a incapacidade de pagamento da devedora principal" (e-STJ, fl. 42).
+A par de o entendimento, estar de acordo com a jurisprudência desta Corte Superior, as premissas fáticas adotadas são imunes ao crivo do recurso, o que torna invencível a atração dos verbetes n. 83 e 7 da Súmula.
+A propósito:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. FALÊNCIA. EXTENSÃO DOS EFEITOS A EMPRESAS DO MESMO GRUPO ECONÔMICO. DESVIO DE FINALIDADE OU CONFUSÃO PATRIMONIAL. ART. 50 DO CÓDIGO CIVIL. NECESSIDADE DE INDICAÇÃO ESPECÍFICA E INEQUÍVOCA DOS REQUISITOS PELO TRIBUNAL DE ORIGEM.
+1. Não há que se falar em ofensa ao art. 1.022 do Código de Processo Civil se o Tribunal de origem se pronuncia suficientemente sobre as questões postas a debate, apresentando fundamentação adequada à solução adotada.
+2. O tipo de relação comercial ou societária travada entre as empresas, ou mesmo a existência de grupo econômico, por si só, não é suficiente para ensejar a desconsideração da personalidade jurídica.
+3. No caso, a extensão da responsabilidade pelas obrigações da falida às empresas que nela fizeram investimentos dependeria, como sustentado pelo Ministério Público em primeira instância, da "eventual concentração de prejuízos e endividamento exclusivo de apenas uma, ou algumas, das empresas participantes falidas", o que, todavia, não foi comprovado pela perícia para tal fim determinada, a qual o acórdão recorrido consignou não haver "apontado, ou descartado, a existência dos critérios mencionados pelo MP, nem elaborado o histórico de pagamento e a comparação pedida".
+4. Para ensejar a desconsideração da personalidade e a extensão da falência, seria necessário demonstrar quais medidas ou ingerências, em concreto, foram capazes de transferir recursos de uma empresa para outra, ou demonstrar o desvio da finalidade natural da empresa prejudicada.
+5. Fatos assentados pelo acórdão recorrido que não configuram abuso de personalidade, desvio de finalidade ou confusão patrimonial, pressupostos necessários, à luz do art. 50 do Código Civil, para a desconsideração das personalidades jurídicas das empresas envolvidas nas transações, a fim de justificar lhes fosse estendida a falência.
+6. Razões de recurso especial do segundo recorrente que, além da carência de interesse em recorrer, não impugnam especificamente os fundamentos do acórdão recorrido, atraindo o verbete nº 283 da Súmula do Supremo Tribunal Federal.
+7. Recurso especial parcialmente conhecido e, nesta parte, provido para afastar a decisão de extensão dos efeitos da falência na origem.
+(REsp n. 1.900.149/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
