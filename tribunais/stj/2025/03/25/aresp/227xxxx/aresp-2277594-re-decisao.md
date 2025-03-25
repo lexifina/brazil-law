@@ -1,0 +1,55 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que, ao não conhecer do agravo interno, manteve a decisão de não conhecimento do agravo em recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fl. 2.043):
+PROCESSUAL CIVIL - AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA - ARTIGO 1.021, § 1º, DO CPC/2015 E SÚMULA 182 DO STJ - AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ, a parte agravante deve infirmar, especificamente, nas razões do Agravo interno, os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Agravo interno não conhecido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 2.107-2.111/2.145-2.150).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LIV, LV e LX, e 93, IX, da Constituição Federal.
+Nesse sentido, sustenta que o acórdão impugnado seria omisso, pois não teria se manifestado sobre a tese referente à nulidade absoluta da sentença proferida na origem, por ofensa ao princípio da publicidade, ante a ausência de intimação para o comparecimento na segunda etapa da audiência de instrução e julgamento.
+Afirma que, mesmo após a oposição de embargos de declaração, esta Corte não teria examinado a referida alegação, em patente ofensa aos princípios do devido processo legal, do contraditório, da ampla defesa e da publicidade dos atos processuais.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LIV e LV, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fl. 2.046), bem como dos julgados referentes aos embargos de declaração opostos na sequência (fls. 2.109-2.111/2.149):
+Segundo a decisão ora agravada, a parte agravante deixou de impugnar especificamente a ausência de afronta ao art. 1.022 do CPC/2015.
+Novamente, no presente Agravo interno, não houve a impugnação específica aos fundamentos da decisão ora agravada.
+Deveria a parte agravante ter demonstrado, de forma clara e fundamentada, que impugnara especificamente todos os fundamentos da decisão que inadmitiu o Recurso Especial, o que não o fez, ensejando, mais uma vez, a aplicação da Súmula 182/STJ.
+Com efeito, a dialeticidade recursal é um princípio fundamental da validade dos recursos, a partir do qual entende-se que o agravante deve atacar os argumentos da decisão, e não somente manifestar a vontade de recorrer, ou aduzir razões genéricas.
+ ..
+Portanto, na forma da jurisprudência desta Corte, à luz do que dispõem o artigo 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, não se conhece do agravo interno quando ausente impugnação específica aos fundamentos da decisão agravada.
+ ..
+Não se constata no acórdão ora embargado o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+No acórdão embargado foram expostos de forma clara os motivos pelos quais o agravo interno não deveria ser conhecido, constando, expressamente, que:
+ ..
+Portanto, não tendo sido conhecido o recurso, inviável a análise das teses relacionadas ao mérito da controvérsia, porquanto a via especial não foi aberta, impedindo a aplicação do direito à espécie, por força do art. 1.034 do CPC/2015; do art. 255, § 5º, do RISTJ; e da Súmula 456/STF, in verbis:
+ ..
+Esta Corte, em casos análogos, concluiu que:
+Não há que se falar na aplicação ao presente feito do Tema 1.199/STF, o qual decidiu acerca da retroatividade das alterações promovidas pela Lei 14.230/2021 na Lei 8.429/1992. Esta Corte Superior possui entendimento de que, não tendo o recurso ultrapassado o juízo de admissibilidade, não pode a matéria de mérito ser objeto de exame, mesmo que a controvérsia seja objeto de Recurso Repetitivo (AgInt no REsp 1.814.371/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.9.2020). No caso dos autos, o Recurso Especial não foi conhecido, monocraticamente, e a referida decisão está sendo mantida no presente Agravo Interno. Nesse mesmo sentido: AgInt nos EDcl no AREsp 1.808.426/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 25.11.2021; REsp 1.367.108/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 30.3.2022; e AgInt no AREsp 2.000.334/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.4.2022 (AgInt no REsp 1.940.076/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/4/2023, DJe de 28/6/2023).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+ ..
+De fato, a questão reputada como omissa pela parte embargante não foi objeto das razões do recurso especial, tratando-se de indevida inovação recursal, em sede de embargos de declaração.
+Cabe esclarecer que, segundo entendimento desta Corte:
+A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, já que não preenchido o requisito constitucional do prequestionamento, exigido inclusive para as matérias de ordem pública (AgInt no AREsp n. 2.344.775/SC, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/3/2024, D Je de 7/3/2024, grifo nosso).
+No mesmo sentido:
+Ademais, é pacífico o entendimento desta Corte no sentido de que " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (R Esp 1.439.866/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, D Je 6/5/2014, grifo nosso).
+Assim, não há vício formal no aresto, mas tão somente pretensão da parte embargante de rediscutir matéria já decidida, o que não se admite, ante a especialidade da via eleita.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
