@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. OPERAÇÃO DINHEIRO SUJO. FRAUDE À LICITAÇÃO. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INDEPENDÊNCIA DE INSTÂNCIAS. PRECEDENTE.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Nabil Nazih Dahdah contra a decisão monocrática de minha lavra, na qual neguei provimento ao recurso ordinário, conforme os termos da seguinte ementa (fl. 7.291):
+RECURSO EM HABEAS CORPUS. OPERAÇÃO DINHEIRO SUJO. FRAUDE À LICITAÇÃO. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. REVOLVIMENTO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. INDEPENDÊNCIA DE INSTÂNCIAS. PRECEDENTE.
+Recurso em habeas corpus improvido.
+O agravante alega, em síntese, que a lisura do contrato investigado já foi reconhecida em ação de improbidade transitada em julgado.
+Sustenta que a falta de justa causa para o prosseguimento do inquérito policial é evidente, pois os fatos investigados já foram analisados e considerados lícitos na esfera administrativa, conforme documentos pré-constituídos nos autos, sem necessidade de incursão probatória.
+Argumenta que o Tribunal local esvaziou a discussão sobre a tipicidade objetiva e subjetiva, assentando não ter havido dolo em lesar o erário.
+Pede a reconsideração da decisão ou o provimento do agravo regimental, a fim de que seja determinado o trancamento parcial do inquérito policial em relação ao Contrato n. 183/2014, por falta de justa causa (fls. 7.299/7.305).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. OPERAÇÃO DINHEIRO SUJO. FRAUDE À LICITAÇÃO. PEDIDO DE TRANCAMENTO DO INQUÉRITO POLICIAL. AUSÊNCIA DE JUSTA CAUSA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INDEPENDÊNCIA DE INSTÂNCIAS. PRECEDENTE.
+Agravo regimental improvido.
+VOTO
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+No mérito, todavia, não deve ser provido, devendo a decisão ser mantida por seus próprios fundamentos.
+Conforme destaquei na decisão agravada, o Tribunal local denegou a ordem aos seguintes fundamentos (fls. 935/936):
+Conforme narrado pelo MPDFT na representação pela busca e apreensão (Id. 413860154) e conforme exposto na decisão que ratificou as medidas cautelares, extrai-se que a SES/DF contratou a empresa NJ LAVANDERIA, de propriedade do paciente, sem licitação, nos termos do art. 24, inciso IV, da Lei 8.666/93, por meio de processos administrativos com indícios de irregularidades, direcionamento e sobrepreço.
+Pelos elementos acostados aos autos, sustenta-se a hipótese de que o ex- gerente de hotelaria da Secretaria de Estado de Saúde, DANIEL VERAS DE MELO, e o paciente, proprietário da empresa NJ LAVANDERIA, em conluio com outros servidores e particulares vinculados, supostamente, criaram situação artificial de calamidade pública a fim de justificar o direcionamento de contratações emergenciais e se apropriarem de recursos públicos.
+Nesse sentido, DANIEL VERAS DE MELO teria recebido, via TED, nos dias 07/01/2015 e 08/01/2015, valores no montante de R$ 4.900,00 e R$ 4.850,00, respectivamente, de NABIL NAZIH DAHDAH (paciente), representante da empresa NJ LAVANDERIA.
+Apontou-se também que DANIEL mantinha contatos habituais com NABIL, uma vez que, da análise dos documentos referentes à quebra de sigilo telefônico de DANIEL, verificou-se a ocorrência de nada menos do que 538 diálogos entre os dois investigados, no período de vigência da medida, incluindo as datas em que foram realizadas as transferências bancárias acima citadas.
+Em suma, segundo o parquet, há indícios de irregularidades nos procedimentos administrativos nº 060.004.615/2013-SES/DF, nº 060.013.309/2013 e nº 060.006.067/2014, apontando para suposto direcionamento que rendeu, à NJ LAVANDERIA, o montante aproximado de 38 milhões de reais, já que DANIEL, dentre outras condutas, teria inviabilizado a utilização de preços mais vantajosos advindos de pregões eletrônicos como comparativos de preço de mercado, mediante imposição de exigência sem relevância.
+Há, ainda, evidências de outras irregularidades, como a possível existência de um núcleo empresarial com as empresas ACQUA PREMIUM, LAVEBRÁS, LVB HOLDING e NJ LAVANDERIA, que viabilizava falsas disputas nos procedimentos analisados, com o intuito de fraudar o caráter competitivo das contratações emergenciais, monopolizando os contratos de lavanderia hospitalar mediante pagamento de vantagens ilícitas a servidores públicos responsáveis pelos procedimentos fraudados.
+Essa hipótese, aliás, se mostra em consonância com um fato citado na sentença da ação de improbidade administrativa.
+Segundo exposto, a empresa AQUA PREMIUM apresentou a melhor proposta de preço no procedimento controvertido, mas teria sido desclassificada por não apresentar Laudos de Conformidade dos produtos de uso na lavanderia com a RDC nº 59/2010/ANVISA, conforme exigência do Projeto Básico.
+A empresa, então, impetrou o Mandado de Segurança nº 2014.01.1.049798- 5, tendo conseguido medida liminar para suspender o certame, mas, em seguida, sem explicitar suas razões, pediu a desistência da ação mandamental.
+Portanto, em virtude da complexidade da demanda e das teses contraditórias, não é possível analisar, de plano e sem necessidade de dilação probatória, os argumentos da parte impetrante, matéria que deve ser debatida durante a instrução processual, pelo Juízo competente para o julgamento da causa, sendo inadmissível sua análise na via estreita do writ.
+Em relação ao pedido de trancamento da ação penal, a providência perseguida somente é possível, na via estreita do habeas corpus, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito (AgRg no RHC n. 122.377/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/9/2020).
+As questões de ordem probatória, na fase de recebimento da denúncia, são analisadas sob o filtro da justa causa. E, nesse ponto, o habeas corpus não se apresenta como via adequada ao trancamento da ação penal, quando o pleito se baseia em falta de justa causa (ausência de suporte probatório mínimo à acusação), não relevada, primo oculi. Intento que demanda revolvimento fático-probatório, não condizente com a via restrita do writ (HC n. 412.093/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/10/2017).
+A eventual discussão sobre a ausência de dolo em relação ao Contrato n. 183/2014, de modo mais aprofundado, não pode ser objeto de análise na via do habeas corpus, cabendo à defesa formular as questões perante o Juízo natural.
+O eventual trancamento da respectiva ação cível não tem o condão, por si, de afastar a investigação no âmbito penal, tendo em vista a independência das instâncias cível, administrativa e penal.
+ ..
+IV - Da análise do acórdão recorrido, verifica-se que não se trata de procedimento investigatório ao qual falta justa causa, como alegado pela Defesa, pois ainda que tenha havido o arquivamento de procedimento abertos em sede de inquérito civil ou mesmo processo administrativo disciplinar, disso não decorre a impossibilidade de novas investigações na seara penal, diante da consabida independência entre as instâncias civil, administrativa e penal.
+V - Nessa perspectiva, a fim de desconstituir as conclusões das instâncias ordinárias, e acolher a tese defensiva de falta de justa causa para prosseguimento do inquérito, seria necessário o amplo revolvimento de matéria fático-probatória, procedimento incompatível com a via estreita do habeas corpus e do respectivo recurso ordinário.
+VI - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai o Enunciado Sumular n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no RHC n. 136.151/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 18/11/2022).
+É preciso destacar que a presente investigação não tem o mesmo objeto da menc ionada ação de improbidade, abrangendo outro contrato, o de n. 184/2014.
+Além disso, a ação de improbidade cuidou de questões relativas à irregularidades no processo de contratação que teriam lesado o erário (fl. 64).
+Conforme delineou o acórdão, o ex-gerente de hotelaria da Secretaria de Saúde teria recebido valores do ora recorrente, representante da NJ Lavanderia, empresa que teria recebido aproximadamente R$ 38 milhões de reais dos contratos direcionados. Não está, assim, evidente a coincidência de objeto entre a ação de improbidade e a presente investigação para fins de trancamento da ação penal.
+No caso, o agravante não demonstrou a ausência de dolo ou qualquer outra causa extintiva de punibilidade, ao mencionar a autoridade da decisão proferida na ação de improbidade. Não há, assim, como afastar a investigação penal, considerando a possibilidade de formulação dos argumentos perante o juízo natural da ação.
+Ausente, assim, flagrante ilegalidade a ser sanada.
+Ante o exposto, nego provimento ao agravo regimental.
