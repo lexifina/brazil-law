@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por WILLIANS CORREA SILVA contra decisão do Tribunal de origem, denegatória de seguimento ao recurso especial ali manejado com fundamento no art. 105, III, "a", da CF, no qual se apontou contrariedade ao art. 28 da Lei n. 11.343/06.
+Consta dos autos que o agravante foi condenado inicialmente à pena de 6 (seis) anos e 9 (nove) meses e 20 (vinte) de reclusão em regime fechado, como incurso no artigo 33 da Lei 11.343/06.
+Interposta apelação, o Tribunal local deu parcial provimento ao recurso da defesa para reduzir a reprimenda para 5 (cinco) anos e 10 (dez) meses de reclusão em regime inicial fechado (fls. 311-323).
+Interposto recurso especial, sustentando a negativa de vigência ao art. 28 da Lei 11.343/06, registrou a Defesa que: "No entanto, em nenhum momento, o recorrente foi flagrado ou observado em ação de comercialização da droga, expondo à venda, entregando ou fornecendo drogas a consumo de terceiros. Também não há nenhuma referência a prévio monitoramento de suas atividades, afim de eventualmente comprovar a alegação do Parquet de que o réu foi surpreendido trazendo consigo para fins de tráfico, 23 (vinte e três) porções de crack" (fls . 334-345).
+O Tribunal de origem inadmitiu recurso (fls. 375-377). Adveio o presente agravo em recurso especial (fls. 380-392).
+O Ministério Público Federal se manifestou pelo conhecimento do agravo para não dar provimento ao recurso especial (fls. 415-418).
+É o relatório. DECIDO.
+O presente agravo impugna especificamente a fundamentação da decisão agravada, de modo que, estando satisfeitos os demais requisitos, merece ser conhecido, a fim de permitir a análise do recurso especial.
+O recurso especial não deve prosperar.
+Em relação ao pedido de desclassificação para o crime de posse de drogas para consumo, o Tribunal de origem asseverou que:
+Na espécie, a condenação dos réus não se deu por mera conjectura, mas sim por um conjunto de indícios que possibilitaram ao julgador firmar sua convicção, sendo certo que o MM. Magistrado analisou o conjunto probatório corretamente. ale observar que o fato de ser usuário não o impede de ser traficante, uma vez que muitos usuários vendem drogas para sustentar o próprio vício. Além disso, à quantidade e natureza da droga apreendida, evidenciam que o entorpecente se destinava ao comércio ilícito. Observa-se que a droga apreendida com os acusados estava fracionada, pronta para a venda e apresentavam características semelhantes. Houve delação anônima no sentido que dois indivíduos estariam vendendo drogas em uma barbearia, tendo sido citado vulgo "boneco", o qual o próprio acusado Leonardo reconheceu como sendo seu. A testemunha Giovane disse que a barbearia era conhecida como ponto de drogas, sem falar que Leonardo e duplamente reincidente específico. A condenação de ambos, portanto, era de rigor e fica mantida.
+Da análise do trecho retro, não se verifica de plano inidoneidade na motivação utilizada pelo Tribunal de origem para condenação do agravante. O acórdão reconheceu a prática de posse de entorpecentes, com finalidade de traficância, com base nas provas produzidas nos autos
+Logo, rever tais fundamentos, para reconhecer a posse para consumo próprio, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer d o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
