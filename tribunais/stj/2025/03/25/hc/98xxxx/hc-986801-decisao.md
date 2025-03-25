@@ -1,0 +1,19 @@
+DECISÃO
+LEANDRO WESLEY DOS SANTOS alega sofrer coação ilegal diante de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500342-95.2023.8.26.0594.
+O paciente, condenado a 7 anos, 3 meses e 15 dias de reclusão, mais multa, por tráfico de drogas, se insurge contra a dosimetria da pena. Argumenta que o Tribunal de origem, embora haja reconhecido a confissão espontânea, deixou de proceder à compensação de referida atenuante com a agravante da reincidência.
+O MPF, em parecer do Subprocurador-Geral da República Onofre De Faria Martins, opinou pelo não conhecimento do writ, mas pela concessão da ordem, de ofício.
+Decido.
+O acórdão apontado como ato coator transitou em julgado. Este habeas corpus é substitutivo de revisão criminal de competência do Tribunal de Justiça.
+Em regra, "não se conhece de habeas corpus impetrado contra acórdão com trânsito em julgado, porquanto manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (AgRg no HC n. 898.778/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/4/2024, D Je de 23/4/2024).Página 1 de 3
+Com efeito, "depois de já transitada em julgado a condenação, revela-se inviável  o uso do remédio constitucional , notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal  ..  (AgRg no HC n. 713.747/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe 24/2/2022 grifei).
+Porém, é hipótese de concessão da ordem de ofício, nos termos do art. 654, § 2º, do CPP.
+A instância de origem reconheceu a atenuante da confissão espontânea, mas deixou de compensar a atenuante com a agravante do art. 63 do CP "considerando que se trata de reincidente específico  e, nesse caso , a compensação integral não se mostra adequada" (fl. 41).
+Entretanto, aplica-se ao caso a tese jurídica fixada no Tema Repetitivo n. 585, pois: "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade".
+Deveras, "no julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal" (AgRg no HC n. 906.858/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, REPDJe de 11/09/2024, DJe de 22/8/2024.)
+As circunstâncias genéricas são igualmente preponderantes, de acordo com o art. 67 do CP e, somente na hipótese de multirreincidência, a agravante preponderaria sobre a confissão espontânea. Essa situação não foi mencionada no acórdão recorrido. Assim, impõe-se a compensação integral na segunda fase da dosimetria.
+Passo à readequação da pena.
+A pena-base foi aumentada em 1/6, em razão da quantidade de drogas, o que resulta em 5 anos e 10 meses de reclusão, e 583 dias-multa, sanção que estabeleço, em definitivo, pois, em seguida, fica compensada a confissão espontânea com a reincidência e, na terceira fase, não há causas de aumento ou de diminuição da pena.
+Permanecem inalteradas as demais considerações do acórdão.
+À vista do exposto, não conheço do habeas corpus. Entretanto, concedo a ordem de ofício para compensar a reincidência e a confissão espontânea, e readequar em 5 anos e 10 meses de reclusão, mais 583 dias-multa, a pena final do paciente.
+Publique-se e intimem-se.
+EMENTA
