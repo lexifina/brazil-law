@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EDILSON BENEDITO DE OLIVEIRA COSTA, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: declaratório de inexistência de débito com nulidade contratual, restituição de valores e compensação por danos morais movida pelo agravante contra BANCO PAN S.A..
+Acórdão: negou provimento ao recurso de apelação do agravante, nos termos da seguinte ementa:
+"AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C NULIDADE CONTRATUAL, RESTITUIÇÃO E INDENIZAÇÃO POR DANO MORAL - CARTÃO DE CRÉDITO CONSIGNADO (RMC) - PRELIMINAR DE AUSÊNCIA DE INTIMAÇÃO - REJEITADA - CARTÃO DE CRÉDITO CONSIGNADO - PEDIDO DE CONVERSÃO PARA EMPRÉSTIMO CONSIGNADO AFASTADO - COMPROVAÇÃO DE UTILIZAÇÃO DO CARTÃO PARA A REALIZAÇÃO DE COMPRAS - CONTRATO ASSINADO - ÔNUS DA PROVA - SENTENÇA IMPROCEDENTE - RECURSO DESPROVIDO.
+Conforme dispõe o art. 373, inc. I e II, do CPC, cabe a autora comprovar o fato constitutivo de seu direito, determinando que é ônus do réu apresentar provas hábeis a demonstrar fato impeditivo, modificativo ou extintivo do direito por aquele postulado.
+In casu, logrando a instituição financeira demonstrar a relação firmada entre as partes, apresentando as faturas com gastos pessoais e diversas compras no comércio local, descontadas diretamente de seu holerite, a demanda deve ser julgada improcedente.
+Apesar do apelante alegar a abusividade da avença, mesmo que a apelante não tivesse a intenção de contratar um cartão crédito de na forma consignada, esta passou a utilizá-lo de forma reiterada, afastando as alegações de vício de consentimento e de falha no dever de informação". (e-STJ fls. 626)
+Decisão de admissibilidade do TJ/MT: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. Súmula 284/STF e
+ii. Súmula 283/STF (ausência de dialeticidade do recurso).
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante, Edilson Benedito de Oliveira Costa, insurge-se contra a decisão monocrática da Vice-Presidente do Tribunal de Justiça do Estado de Mato Grosso, que inadmitiu o Recurso Especial sob o fundamento de ausência de fundamentação precisa nas razões recursais, conforme Súmula n. 284 do STF (fls. 958-959). O agravante alega que a decisão merece reforma, pois o acórdão recorrido não se manifestou expressamente sobre a violação de diversos princípios e normas do Código de Defesa do Consumidor, como a boa-fé negocial e a transparência nas relações de consumo (fls. 963-964).
+O agravante argumenta que houve abusividade contratual por parte do Banco Pan S.A., ao realizar descontos de origem desconhecida em seu contracheque, atrelados a um cartão de crédito, sem a devida informação ao consumidor sobre a natureza da operação de crédito (fls. 961-962). Alega que a modalidade de empréstimo via cartão de crédito com reserva de margem consignável é nula, pois viola os direitos do consumidor, como o direito à informação e à transparência (fls. 966).
+Além disso, o agravante sustenta que os descontos mensais inviabilizam a quitação da dívida, gerando parcelas infindáveis e onerosidade excessiva ao consumidor, e que a instituição financeira agiu de má-fé ao celebrar contrato diverso daquele pretendido pela parte autora (fls. 966-967). Por fim, requer a reforma do acórdão recorrido, a devolução dos valores descontados indevidamente e a remessa dos autos ao Superior Tribunal de Justiça (fls. 967).
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. Súmula 283/STF (ausência de dialeticidade do recurso).
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram a inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ªTurma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em mais 1%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
