@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em benefício de RICARDO HENRIQUE DA SILVA - denunciado, no Processo n. 0098303-79.2012.8.26.0050, como incurso no art. 180, caput, do Código Penal -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2046387-68.2025.8.26.0000).
+Busca-se a concessão da ordem para reconhecer a nulidade da citação por edital levada a efeito, com a declaração de extinção da punibilidade pela prescrição da pretensão punitiva, nos termos do art. 107, inc. IV, do CP (fl. 11). Em sede de liminar, pede-se o sobrestamento do curso da ação penal.
+Alega-se que foi fixado o defensor dativo ao réu, após 11 anos, vindo de uma citação editalícia invalida, tendo em vista, o não esgotamento da citação, ainda que a única e exclusiva citação tenha sido realizado no endereço fornecido pelo réu no início da instrução, necessário ocorrer o cumprimento legal do rito processual, o que não foi feito no presente caso (fl. 4).
+Afirma-se que a citação por edital é considerada ficta e somente poderá ser utilizada quando esgotadas todas as possibilidades de encontrar-se o réu para realizar-se a citação real (fl. 4).
+Argumenta-se que, no caso em análise, não houve nenhuma tentativa de pesquisa do endereço do réu, como exemplo, por meio da Justiça Eleitoral, empresas de energia ou água, pesquisas estas, que com certeza retornariam positivas com o endereço acima qualificado, tendo ocorrido uma única vez sua citação através do oficial de justiça em um único endereço e telefone indicado por terceiros (fl. 9).
+Aduz-se, ademais, que, considerando-se o recebimento da denúncia em 19 de setembro de 2012 e a contagem na forma do art. 10 do CP, o último dia do prazo prescricional deu-se em 21 de setembro 2020, restando, portanto, prescrita a pretensão punitiva estatal (fl. 10).
+É o relatório.
+É inadmissível o ajuizamento de habeas corpus quando o acórdão atacado encontra respaldo na jurisprudência desta Corte, como na espécie.
+Com efeito, há aqui o entendimento de que não cabe ao Poder Judiciário realizar diligências para localizar o paradeiro do condenado quando frustradas as tentativas de intimação no endereço por ele fornecido (AgRg no RHC n. 135.185/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/8/2021). Vale dizer, a citação por edital exige a realização de diligências e o esgotamento dos endereços completos indicados nos autos. Não se extrai daí a obrigação de realização de buscas em todo e qualquer órgão que possa conter informações do acusado. Precedentes (AgRg no RHC n. 186.133/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 23/8/2024).
+No caso, conforme consignado no acórdão, não se verifica irregularidade a infirmar q ualquer ato processual, mesmo porque se procurou o paciente no endereço por ele próprio fornecido, sem sucesso (fls. 41 dos autos subjacentes), vedado à parte obter proveito da própria torpeza (fl. 16).
+Diante da ausência de flagrante ilegalidade, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. RECEPTAÇÃO. CITAÇÃO POR EDITAL. NULIDADE. INEVIDÊNCIA. PACIENTE NÃO LOCALIZADO NO ENDEREÇO POR ELE FORNECIDO NOS AUTOS. ACÓRDÃO ALINHADO À JURISPRUDÊNCIA DO STJ. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE.
+Writ indeferido liminarmente.
