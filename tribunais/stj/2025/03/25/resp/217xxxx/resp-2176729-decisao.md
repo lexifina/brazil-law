@@ -1,0 +1,17 @@
+DECISÃO
+O Ministério Público do Distrito Federal e dos Territórios interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele do DF na Apelação Criminal n. 0722757-69.2023.8.07.0001.
+Em suas razões, o Parquet aponta a violação dos arts. 33, §§ 2º e 3º, e 59, III, ambos do CP, sob a tese de que a presença de circunstância judicial desfavorável exige a fixação do regime inicial mais gravoso.
+O Tribunal de origem decidiu pela admissibilidade do recurso (fls. 592-594).
+O Ministério Público Federal opinou pelo provimento do especial para que seja fixado o regime fechado (fls. 613-617).
+Decido.
+I. Inadmissibilidade
+Verifico que o especial não suplanta o juízo de prelibação, haja vista a incidência da Súmula n. 283 do STF.
+O Tribunal, ao julgar o recurso de apelação e os embargos de declaração, fixou o regime inicial semiaberto, amparado nos seguintes fundamentos (fls. 445 e 545, destaquei):
+Em razão do quantum de pena aplicado, e sendo o acusado tecnicamente primário, é cabível a fixação do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+Com efeito, percebe-se que o estabelecimento do regime inicial semiaberto teve como justificativa a primariedade do réu e quantidade de pena aplicada. Como se vê da dosimetria ora transcrita, o réu não ostenta maus antecedentes, tampouco é reincidente. Considerando a condenação a 5 anos de reclusão e ser o apenado tecnicamente primário e de bons antecedentes, o art. 33, § 2º, alínea "b", do Código Penal, prevê o cumprimento inicial da pena no regime inicial semiaberto, porquanto a reprimenda corporal não excede 8 anos. Não se desconhece a disposição contida no §3º do mesmo dispositivo legal, no sentido de ser necessários observar os critérios previstos no art. 59, do Código Penal, para determinar o regime inicial de cumprimento de pena. No entanto, a norma legal não impõe o regime mais gravoso quando da presença de apenas uma circunstância judicial negativa, sobretudo tratando-se de réu não reincidente. Ademais, de acordo com o Enunciado 719 da Súmula do STF, a necessidade de fixação de regime mais gravoso ser devidamente fundamentada à luz do caso concreto. Assim, a quantidade de pena e a análise negativa de uma circunstância judicial informam ser razoável a fixação do regime inicial semiaberto.
+Verifico, portanto, que na espécie incide o óbice da Súmula n. 283 do STF, uma vez que a parte deixou de atacar fundamentos autônomos e suficientes para manter o julgado, quais sejam, o fato de a norma não exigir a fixação de regime mais gravoso quando houver apenas uma circunstância judicial negativa, somado ao fato de o réu ser primário e ter bons antecedentes. Além disso, não refutou a aplicação da Súmula n. 719 do STF e a necessidade de fundamentação de regime mais gravoso com base no caso concreto.
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles""(AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018).
+II. Dispositivo
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
