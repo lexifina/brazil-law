@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (fls. 68):
+"RECURSO EM SENTIDO ESTRITO - SEQUESTRO DE BEM MÓVEL - OPOSIÇÃO DE EMBARGOS DE TERCEIRO DE BOA-FÉ - REGRAMENTO DO ART. 130, PARÁGRAFO ÚNICO DO CPP - INAPLICABILIDADE - TERCEIRO QUE NÃO ADQUIRIU O BEM DO ACUSADO - NECESSIDADE DE PROSSEGUIMENTO REGULAR DO FEITO, INDEPENDENTEMENTE DA RESOLUÇÃO DO PROCESSO-CRIME PRINCIPAL - LEVANTAMENTO DO SEQUESTRO COM A ISENÇÃO DO PAGAMENTO DE TAXAS DE LOCOMOÇÃO E ESTADIA NO PATIO DO DETRAN - SUPRESSÃO DE INSTÂNCIA - RECURSO PARCIALMENTE PROVIDO."
+Nas razões do recurso especial (fls. 101/109), o Ministério Público alega violação aos artigos 129 e 130, II e parágrafo único, do Código de Processo Penal, sustentando que o Tribunal de Justiça mineiro deu interpretação equivocada à norma do art. 129 do CPP, aplicável apenas nos casos em que há erro na constrição judicial, e desconsiderou que o veículo sequestrado estava sob uso dos denunciados na ação penal originária, sem comprovação de sua propriedade. Requer, portanto, a suspensão dos embargos de terceiro até o trânsito em julgado da ação penal respectiva.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 137/141).
+Às fls. 143/148, a defesa de Hélio Rossini requereu a juntada da decisão proferida nos autos do processo originário nº 0112.21.000854-9, que tramita na Comarca de Campo Belo-MG, em que foram julgados procedentes os embargos de terceiro, com manifestação favorável do Ministério Público do Estado de Minas Gerais, ora recorrente, determinando-se a restituição do veículo ao embargante, ora recorrido.
+Encaminhados os autos novamente ao Ministério Público Federal, este se manifestou no sentido de que o presente recurso seja julgado prejudicado, ante a perda superveniente do interesse de agir (fls. 158).
+É  o  relatório.  DECIDO.
+Com efeito, verifico que as teses suscitadas no presente recurso especial encontram-se prejudicadas.
+Através da análise da petição apresentada pelo recorrido às fls. 143/148, na qual se requereu a anexação da decisão proferida no processo originário nº 0112.21.000854-9, da Comarca de Campo Belo-MG, verifica-se que os embargos de terceiro por ele opostos foram julgados procedentes, com manifestação favorável do Ministério Público do Estado de Minas Gerais, tendo sido determinada a devolução do veículo ao embargante, ora recorrido.
+Diante disso, ficou esvaziado o objeto do presente recurso especial, em razão da superveniente perda do interesse processual.
+Ante o exposto, com fulcro no art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se.  Intimem-se.
+EMENTA
+PROCESSO  PENAL.  AGRAVO  EM  RECURSO  ESPECIAL.  FURTO  QUALIFICADO.  BUSCA  PESSOAL  REALIZADA  POR  GUARDAS  MUNICIPAIS.  FLAGRANTE DELITO CONFIGURADO.  PROVA  LÍCITA.  AGRAVO  CONHECIDO  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.
