@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por VICTOR ABEL DUARTE NUNES com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Em suas razões recursais (fls. 484-491), o recorrente aponta violação ao art. 33, § 4º, da Lei nº 11.343/2006, sob o argumento de ausência de fundamentação concreta para o afastamento da causa de diminuição de pena do tráfico privilegiado. Requer a reanálise do feito, para aplicação da causa de diminuição de pena no patamar máximo de 2/3 (dois terços), já que presentes os requisitos autorizadores da redutora.
+Apresentadas contrarrazões (fls. 501-503), o recurso foi admitido e os autos encaminhados a esta Corte Superior de Justiça (fls. 507-510).
+O Ministério Público Federal opina pelo não conhecimento do recurso especial (fls. 524-526).
+É  o  relatório. DECIDO.
+O recurso especial interposto é intempestivo.
+Compulsando os autos, verifico que o acórdão que deu parcial provimento à apelação foi publicado em 12/07/2023, tendo a defesa do recorrente sido efetivamente intimada em 23/07/2023 e opostos embargos de declaração apenas em 31/07/2023 (fl. 417).
+Por ocasião do julgamento dos referidos embargos, o Tribunal de origem deixou de conhecê-los pela sua intempestividade, concluindo serem manifestamente incabíveis. Veja (fls. 470-471):
+Analisando os autos, observa-se, de fato, como bem apontado pelo ilustre Procurador, a existência de matéria preliminar que impede o conhecimento dos embargos, pois o mesmo encontra-se extemporâneo, não estando presentes os requisitos necessários a um juízo de prelibação positivo, em especial a tempestividade, nos termos do art. 619 do Código de Processo Penal.
+Verifica-se que a publicação do v. Acórdão embargado se deu em 12/07/2023 (mov. 36 da apelação), sendo a Defesa de Victor Abel Duarte Nunes intimada na mesma data (mov. 37). Tal intimação, por sua vez, foi efetivada em 23/07/2023 (mov. 43), iniciando no dia seguinte (segunda-feira) o decurso do prazo de dois dias para a oposição de embargos, prazo este, assim, escoado em 26/07/2023 (quarta-feira).
+Desta maneira, como o protocolo da petição de embargos declaratórios ocorreu apenas em 31 /07/2023 (mov. 44 da apelação e 1.1 destes autos), inevitável reconhecer que o prazo respectivo já havia se encerrado há dias, sendo intempestiva a irresignação.
+ ..
+Resta caracterizada, portanto, sua extemporaneidade, situação que obsta o seu conhecimento.
+Nesse contexto, segundo a jurisprudência desta Corte, a não admissão dos embargos de declaração, por inadmissíveis ou intempestivos, não tem o condão de suspender o prazo para a interposição do recurso cabível contra o acórdão embargado, neste caso, o recurso especial.
+Nesse sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO. CRIMES DE INSERÇÃO DE DADOS FALSOS EM SISTEMA INFORMÁTICO PRATICADOS EM CONTINUIDADE DELITIVA AO LONGO DE ANOS. INTEMPESTIVIDADE. RECURSO NÃO CONHECIDO.
+I - O prazo para interposição de agravo regimental, em processo penal, é de 5 (cinco) dias, de acordo com os arts. 39 da Lei n. 8.038/1990 e 258 do Regimento Interno deste Tribunal.
+II - No caso concreto, os embargos de declaração não foram conhecidos, por serem manifestamente inadmissíveis, não interrompendo nem suspendendo o prazo para interposição de outros recursos.
+II I- Na espécie, a decisão monocrática foi disponibilizada no Diário da Justiça Eletrônico em 26/08/2024 e considerada publicada em 27/08/2024(fl. 1682), findando-se o prazo em 02/09/2023. O agravo regimental, contudo, foi interposto apenas em 16/09/2024, sendo manifesta a sua intempestividade.
+Agravo regimental não conhecido.
+(AgRg nos EDcl no REsp n. 2.157.607/RN, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/9/2024, DJe de 27/9/2024.)
+" ..  III - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IV - Esta Corte Superior como também o excelso Supremo Tribunal Federal firmou o entendimento no sentido de que os recursos manifestamente inadmissíveis ou intempestivos são incapazes de suspender ou interromper os prazos para a interposição de novos recursos, como meio de assegurar o devido processo legal e a duração razoável do processo.
+V - Como os embargos de declaração não foram conhecidos, o agravo interno protocolizado em 15/6/2020 é intempestivo, uma vez que a decisão foi publicada em 28/4/2020, com início do prazo em 4/5/2020 o término do prazo recursal terminou em 22/5/2020.
+VI - Embargos de declaração rejeitados."
+(EDcl no AgInt no CC n. 167.949/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 2/3/2021, DJe de 10/3/2021.) (grifei)
+Nesse mesmo sentido é o parecer do Ministério Público Federal que destaca, ainda, a ausência de qualquer impugnação pelo recorrente no recurso especial acerca da intempestividade dos embargos de declaração. Veja (fl. 525):
+Com efeito, verifica-se que o v. aresto recorrido foi objeto de embargos de declaração não conhecidos na origem, de modo que insuscetível à suspensão do prazo para o recurso especial interposto, o qual, bem por isso, deve ser tido por intempestivo.
+Ao que se extrai dos autos, tal aresto, prolatado nos aclamatórios, deixou de ser impugnado pelo recorrente, não havendo referência, s. m. j., sobre a tempestividade do apelo em suas razões recursais (fls. 484-491).
+Desse modo, tendo o recurso especial sido interposto apenas em 18/10/2023 (fls. 484-491), verifico que é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Diante do exposto, e nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA NULIDADE DAS PROVAS OBTIDAS POR INGRESSO EM DOMICÍLIO SEM JUSTA CAUSA. MEDIDA CAUTELAR FUNDADA EM SITUAÇÃO FLAGRANCIAL, DENÚNCIA ANÔNIMA E CONSENTIMENTO EXPRESSO DO PROPRIETÁRIO DO IMÓVEL. ALTERAÇÃO DA CONCLUSÃO. NECESSÁRIO REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PRECEDENTES. DOSIMETRIA. AUMENTO DA PENA-BASE. NATUREZA NOCIVA DA DROGA. QUANTIDADE QUE NÃO EXTRAPOLA O TIPO PENAL. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. ATENUANTE DA CONFISSÃO. RECONHECIMENTO. CIRCUNSTÂNCIA UTILIZADA NA FUNDAMENTAÇÃO DA CONDENAÇÃO. PRECEDENTES. PLEITO DE INCIDÊNCIA DO TRÁFICO PRIVILEGIADO. HABITUALIDADE DELITIVA. QUANTIDADE DE DROGAS ACRESCIDA DE APREENSÃO DE APETRECHOS RELACIONADOS À TRAFICÂNCIA. SIMULACRO DE FUZIL. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. SÚMULA N. 568/STJ. PRECEDENTES. REDIMENSIONAMENTO DAS PENAS. FIXAÇÃO DE REGIME INICIAL INTERMEDIÁRIO PARA UM DOS RECORRENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, PARCIALMENTE PROVIDO.
