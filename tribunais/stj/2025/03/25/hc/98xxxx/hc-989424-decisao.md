@@ -1,0 +1,19 @@
+DECISÃO
+O presente writ, impetrado em benefício de DANIEL ALEX COSTA DO NASCIMENTO e ELISSON DA SILVA BARBOSA - condenados como incursos nos crimes de tráfico e associação para o tráfico de drogas majorados -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0263511-48.2021.8.19.0001), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente do crime de associação para o tráfico de drogas, atribuído na ação penal que tramitou perante o Juízo de Direito da 1ª Vara Criminal da comarca de Belford Roxo/RJ, ao argumento de que não há provas suficientes para a condenação pelo delito  .. , pois não foram demonstrados os elementos de estabilidade e permanência necessários para caracterizar o vínculo associativo (fls. 27/30).
+Ocorre que a via eleita foi indevidamente utilizada para revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível.
+Ademais, da atenta análise da sentença condenatória, observa-se que o Magistrado singular logrou demonstrar a estabilidade da associação, assim como a divisão de tarefas, ao sustentar que a materialidade do delito atribuído ao acusado restou demonstrada pela prova oral e documental produzida nos autos, as quais revelam que os réus e os demais traficantes da comunidade Santa Tereza, mantinham associação estável e permanente para a prática de delitos de tráfico de drogas. Em relação à autoria, restou evidenciada, diante da robusta prova oral produzida em Juízo, em especial o depoimento dos policiais militares de que a área em que os réus foram presos é ponto de tráfico, sendo de ordinário conhecimento de que somente aqueles que estão associados é que conseguem atuar na localidade. Por certo que em todos os processos os diferentes policiais relatam que não é possível vender drogas no local sem estar associado à facção criminosa dominante, o que é de notório conhecimento. (fl. 139), indispensáveis à tipicidade do crime de associação para o tráfico.
+A propósito:
+ ..
+III - No presente caso, as instâncias ordinárias fundamentaram devidamente a condenação pelo crime de associação para o tráfico, com fulcro em robusto conjunto probatório, restando configurada a estabilidade e a permanência da associação, bem como a função da agravante e dos demais integrantes, com hierarquia e divisão de tarefas.
+IV - O rito do habeas corpus não admite o revolvimento de matéria fático-probatória, de modo que não há que se falar em desconstituição da conclusão bem exarada pelo Tribunal local.
+ ..
+(AgRg no HC n. 929.583/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 17/9/2024).
+Assim, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+Sobre a dosimetria da pena, não verifiquei o alegado constrangimento, pois a reprimenda foi exasperada com fundamento na relevante quantidade de droga apreendida (307 g de maconha, 107 g de cocaína e 40 g de crack) - fl. 147.
+A condenação pelo delito de associação para o tráfico de drogas impede o reconhecimento da minorante do tráfico privilegiado.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADOS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. ABSOLVIÇÃO. INVIABILIDADE. CONDENAÇÃO CONSUBSTANCIADA EM PROVAS QUE DENOTAM A DIVISÃO DE TAREFAS E O VÍNCULO DOS ACUSADOS COM FACÇÃO CRIMINOSA (TERCEIRO COMANDO PURO). CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE FUNDAMENTADA NA QUANTIDADE DE DROGA APREENDIDA (307 G DE MACONHA, 107 G DE COCAÍNA E 40 G DE CRACK). POSSIBILIDADE. CONDENAÇÃO PELO DELITO DE ASSOCIAÇÃO QUE IMPEDE O RECONHECIMENTO DO REDUTOR.
+Inicial indeferida liminarmente.
