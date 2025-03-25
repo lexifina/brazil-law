@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por WILSON JOSÉ MACIEL, contra decisão que não admitiu recurso especial. O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 121, e-STJ):
+TUTELA ANTECIPADA DE URGÊNCIA. Alienação fiduciária em garantia. Leilão extrajudicial de imóvel. Alegação de falta de intimação pessoal acerca da consolidação da propriedade e do leilão, bem como inaptidão do leiloeiro. Pretensão de suspender a consolidação da propriedade do imóvel e de qualquer ato posterior tendente à imissão na posse pelo terceiro adquirente. Impossibilidade. Ausentes os requisitos do art. 300 do CPC. Autor que não demonstrou nenhuma condição e/ou interesse em efetivamente purgar a mora, nem mesmo se valendo da prerrogativa da consignação. Inaptidão e vícios de intimação ainda não suficientemente esclarecidos. Decisão mantida. Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fl. 136, e-STJ.
+A parte recorrente aponta violação aos arts. 166, incisos I e VII; 168, parágrafo único; 169 do Código Civil; 26, § 1º, 3º da Lei 9.514/97. Sustenta, em síntese: a) nulidade do negócio jurídico; b) cumprimento dos requisitos para a antecipação de tutela.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 163-181, e-STJ).
+É o relatório.
+Decide-se.
+A pretensão não merece prosperar.
+1. O Tribunal local compreendeu pelo não preenchimento dos requisitos para a concessão da tutela de urgência, conforme se verifica do seguinte trecho (fls. 122-123, e-STJ):
+Com efeito, em 02.04.2024, o agravante ajuizou tutela cautelar antecedente pleiteando a suspensão imediata dos efeitos da consolidação da propriedade do imóvel e de qualquer ato posterior tendente à imissão na posse pelo terceiro adquirente (sic) (fls. 31), a aduzir, em suma, que não foi pessoalmente intimado das designações dos leilões, bem como a inidoneidade do leiloeiro.
+Afirmou, ainda, que a falta de intimação lhe frustrou o direito de purgar a mora e de exercer sua preferência na arrematação (fls. 22/26), embora não tenha demonstrado nenhuma condição e/ou interesse de efetivamente fazê-los, nem mesmo se valendo da prerrogativa da consignação.
+Observe-se, a propósito, que o agravante esclareceu que providenciaria a emenda à exordial com os pedidos principais no prazo de 30 (trinta) dias a contar da efetivação do presente pedido, nos termos do artigo 308 do Código de Processo Civil para o ingresso de ação anulatória de ato jurídico cumulada com revisional de contrato (sic) (fls. 32 - g. n.).
+ ..
+Vale lembrar que a tutela provisória de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito (fumus boni iuris ou plausibilidade do que se invoca) e o perigo de dano (tutela satisfativa) ou o risco ao resultado útil do processo (tutela cautelar), ex vi do art. 300 do CPC.
+No caso sub examine, em análise perfunctória, os requisitos preconizados em lei não se mostraram presentes, e, assim, a medida não se justifica.
+Conforme a orientação jurisprudencial adotada por este STJ, é incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Incidência da Súmula 735 do STF.
+Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (art. 300 do CPC/15) e das razões que levaram a Corte de origem a manter a decisão reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TUTELA DE URGÊNCIA. LIQUIDAÇÃO DE SENTENÇA. REINTEGRAÇÃO DE POSSE. ESBULHO. PROBABILIDADE DO DIREITO NÃO EVIDENCIADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. MEDIDA LIMINAR. REQUISITOS. SÚMULA N. 735 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SUPERVENIÊNCIA DE SENTENÇA NO PROCESSO ORIGINÁRIO. DECISÃO MANTIDA.
+ ..
+5. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide analogicamente o enunciado n. 735 da Súmula do STF.
+6. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+ ..
+(AgInt no AREsp n. 2.670.470/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Corroborando este entendimento: AgInt no AREsp n. 2.592.306/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024; AgInt na TutCautAnt n. 589/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024; AgInt no AgInt no AREsp n. 2.539.395/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024; AgInt no AREsp n. 1.972.132/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.
+Portanto, não prospera a insurgência.
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
