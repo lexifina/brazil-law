@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Carlos Cini Marchionatti (Desembargador Convocado TJRS), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO. JULGAMENTO DE AGRAVO REGIMENTAL QUE INDEPENDE DE PAUTA. ENTREGA DE MEMORIAIS. FACULTADE DAS PARTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O julgamento de agravo regimental independe de inclusão em pauta e de prévia intimação, cabendo as partes, a despeito da possibilidade de sustentação oral, acompanharem a inclusão do processo em mesa.
+2. A entrega de memoriais é sempre uma faculdade e estratégia das partes, que devem avaliar o momento oportuno para que assim proceda. Não se justifica, portanto, que um processo, indicado para julgamento em mesa, seja excluído da deliberação pelo órgão julgador, a fim de que sejam oferecidos memoriais, já que essa conduta pode ser adotada até mesmo no momento da distribuição do processo ao relator.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+RAFAEL MARQUES SIMÕES opõe embargos de declaração contra o acórdão de fls. 1.329-1.331, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 1.327):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE EXAME DE MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 315 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inadmissão do recurso especial, em razão da incidência da Súmula n. 182 do STJ, impede, a teor do enunciado contido na Súmula n. 315 desta Corte, a oposição de embargos de divergência para discutir o mérito da questão ventilada no especial.
+2. Agravo regimental não provido.
+Em suas razões, sustenta o embargante a omissão do acórdão, visto que não foi analisado o pedido defensivo no qual requereu a retirada do processo de pauta, a fim de que a defesa pudesse enviar memoriais e efetuar a sustentação oral, situação que imporia a nulidade de julgamento ou a inobservância do contraditório e da ampla defesa.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO. JULGAMENTO DE AGRAVO REGIMENTAL QUE INDEPENDE DE PAUTA. ENTREGA DE MEMORIAIS. FACULTADE DAS PARTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O julgamento de agravo regimental independe de inclusão em pauta e de prévia intimação, cabendo as partes, a despeito da possibilidade de sustentação oral, acompanharem a inclusão do processo em mesa.
+2. A entrega de memoriais é sempre uma faculdade e estratégia das partes, que devem avaliar o momento oportuno para que assim proceda. Não se justifica, portanto, que um processo, indicado para julgamento em mesa, seja excluído da deliberação pelo órgão julgador, a fim de que sejam oferecidos memoriais, já que essa conduta pode ser adotada até mesmo no momento da distribuição do processo ao relator.
+3. Embargos de declaração rejeitados.
+VOTO
+De início, registro que o julgamento de agravo regimental independe de inclusão em pauta. De fato, " n ão existe previsão regimental no sentido de se incluir em pauta agravo regimental em matéria penal, tampouco há previsão de intimação da parte interessada a respeito do julgamento (art. 258 do RISTJ). Cabe à parte interessada acompanhar a inclusão do processo em mesa, anunciada no sítio eletrônico do Superior Tribunal de Justiça (AgRg no HC n. 829.480/CE, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 18/4/2024)" (EDcl no AgRg no AREsp n. 2.715.729/RJ, relator Ministro Reynaldo Soares da Fonseca, DJe 23/12/2024, destaquei).
+Por isso, cabe ao interessado, repita-se o que que foi afirmado no referido precedente, acompanhar a inclusão do processo em mesa. Além disso, a entrega de memoriais é sempre uma faculdade e estratégia das partes, que devem avaliar o momento oportuno para que assim proceda.
+Não se justifica, portanto, que um processo indicado para julgamento em mesa, seja excluído da deliberação pelo órgão julgador, a fim de que as partes ofereçam memoriais, já que essa diretriz pode ser feita até mesmo no momento da distribuição do processo ao relator.
+Não menos relevante é destacar que o julgamento de agravo regimental, prescinde de prévia intimação para julgamento em mesa. A despeito da possibilidade de sustentação oral por ocasião do seu julgamento pelo colegiado, tal circunstância não altera o procedimento regimental adotado para sua inclusão em mesa.
+Nesse sentido é a torrencial orientação desta Corte: "Incabível o pedido de intimação prévia da data de realização da sessão de julgamento do recurso, porque o julgamento do agravo regimental na esfera criminal, embora admita a sustentação oral (art. 7º, § 2º-B, VI, da Lei n. 8.906/1994), independe de prévia inclusão em pauta, uma vez que são levados em mesa para julgamento, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça" (EDcl no AgRg no HC 871.486/SP, relator Ministro Og Fernandes, DJe 16/12/2024).
+Ante o exposto, rejeito os embargos de declaração.
