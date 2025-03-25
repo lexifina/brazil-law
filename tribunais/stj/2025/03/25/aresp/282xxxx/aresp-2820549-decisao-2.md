@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por WEVERTON ANTONY DA SILVA BATISTA e GEORGE EDUARDO DA SILVA DE SOUSA contra a decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu o recurso especial apresentado na Apelação Criminal n. 0726063-85.2019.8.07.0001.
+O Ministério Público Federal apresentou parecer opinando pelo desprovimento do agravo em recurso especial (fls. 4.371/4.377).
+É o relatório.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula 7 do Superior Tribunal de Justiça.
+Contudo, os agravantes, nas razões do agravo em recurso especial, restringiram -se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Não obstante isso, como bem anotado no parecer ministerial, cujas razões adoto como fundamento para decidir, o Tribunal de origem fundamentou devidamente a condenação dos agravantes pelo crime de associação para o tráfico de drogas. Ao contrário do alegado pela defesa, a decisão está amparada em provas robustas, produzidas em observância aos princípios do contraditório e da ampla defesa (fl. 4.377).
+Restou destacado que os recorrentes atuavam em conjunto na comercialização de drogas em festas "rave" realizadas no Distrito Federal. Nesse contexto, ficaram evidentes a divisão de tarefas entre os agentes e o animus associativo, em que George foi identificado como o principal fornecedor de drogas, Weverton como responsável pela entrega a terceiros e Yves pelo recebimento e revenda dos entorpecentes para outros traficantes. Tais fatos foram comprovados não apenas por testemunhos, mas também pelos diálogos obtidos por meio da quebra de sigilo dos dados telefônicos (fl. 4.377 - grifo nosso).
+Por fim, assentou-se que, para se infirmar o que restou decidido pela Corte a quo, absolvendo os réus por insuficiência de provas, seria necessário o reexame de provas, providência inadmissível em sede de recurso especial em face do óbice da Súmula 7/STJ (fl. 4.377 - grifo nosso).
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
