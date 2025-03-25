@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de pedido formulado em favor de RAFAEL DA VITÓRIA, no qual se requer a extensão dos efeitos das decisões proferidas às e-STJ fls. 1483/1496, que beneficiou os corréus.
+Sustenta a defesa, no presente pleito, que o requerente se encontra na mesma situação fático-jurídica de FLÁVIA VIEIRA LIMA e GIRLAN SANTOS DA SILVA, no que tange a fixação da pena-base do crime de associação para o tráfico e da incidência da causa de aumento do do art. 40, inciso V, da Lei n. 11.343/2006, no patamar de 1/6.
+Ao final, pede que os efeitos da decisão sejam estendidos ao requerente.
+Instado a se manifestar, o Ministério Público Federal opinou pelo deferimento do pedido (e-STJ fls. 26/28 - expediente avulso)
+É o relatório. Decido.
+Como é cediço, o deferimento do pedido de extensão exige que a parte postulante esteja na mesma situação fático-processual daquela já beneficiada, de forma que a motivação da decisão não seja de caráter exclusivamente pessoal, a teor do art. 580 do Código de Processo Penal.
+Verifica-se que a fixação da pena-base no crime de associação para o tráfico, para o ora acusado foi realizado com os mesmos fundamentos do recorrente GIRLAN SANTOS DA SILVA, não tendo sido apontado qualquer elemento subjetivo apto a afastar a identidade fático-processual entre os acusados, o que impõe a extensão da referida concessão. Vejamos.
+A Corte de origem, ao fixar a pena-base para o crime de associação criminosa para o ora acusado, consignou que, como a quantidade e a variedade de entorpecentes apreendidos servem de parâmetro para exaspera a reprimenda de seu mínimo legal, característica atinente a todos os réus, julgo prudente equipará-las com a fixada para Flávia Vieira Lima em 5 (cinco) anos de reclusão (e-STJ fl. 1.169).
+Ocorre que, como se observa no julgamento dos embargos de declaração apresentados por Flávia Vieira Lima (e-STJ fls. 1.247/1.257), a pena-base para o crime de associação para o tráfico foi fixada em 4 anos de reclusão, devendo esta ser estabelecida para o ora requerente.
+Assim, fixada a pena-base em 4 anos de reclusão para o crime do art. 35 da Lei n. 11.343/2006, mantidos os critério da Corte de origem, fica a reprimenda em 4 anos e 8 meses de reclusão e pagamento de 816 dias-multa, que somada a pena do crime de tráfico (8 anos e 2 meses de reclusão e 583 dias-multa), resulta em uma pena definitiva de 12 anos e 10 meses de reclusão e pagamento de 1.399 dias-multa.
+Salienta-se que, no tocante à incidência da causa de aumento do art. 40, inciso V, da Lei n. 11.343/2006, para os crimes dos artigos 33 e 35 da Lei n. 11.343/06, esta já fora realizada no patamar de 1/6.
+Ante o exposto, defiro o pedido de extensão formulado em favor de RAFAEL DA VITÓRIA CORREA, para reconhecer erro material no cálculo dosimétrico do crime de associação para o tráfico, redimensionando sua reprimenda definitiva para 12 anos e 10 meses de reclusão e pagamento de 1.399 dias-multa, pelos crimes dos artigos 33 e 35 da Lei n. 11.343/06, mantidos os demais termos da condenação
+Intimem-se.
+EMENTA
