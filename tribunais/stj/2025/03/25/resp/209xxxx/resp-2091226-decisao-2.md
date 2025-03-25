@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fundamento no artigo 105, inciso III, alínea "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça dessa mesma unidade federativa.
+Em suas razões recursais (fls. 438-446), o parquet aponta violação ao art. 33, § 3º, do Código Penal, ao argumento de que a modificação do regime inicial de cumprimento de pena para o aberto, realizada pelo Tribunal de Justiça, desconsiderou a existência de circunstância judicial desfavorável, especificamente a culpabilidade acentuada do réu, que exercia a função de síndico e se valeu dessa posição para praticar os delitos. Requer a reforma do acórdão para restabelecer o regime inicial semiaberto para o cumprimento da pena, conforme determinado na sentença.
+Apresentadas contrarrazões (fls. 589-599), o recurso foi admitido e os autos encaminhados a esta Corte Superior de Justiça (fls. 638-640).
+O Ministério Público Federal opina pelo provimento do recurso especial (fls. 524-526).
+À fl. 726 foi juntada certidão de óbito atestando o falecimento do recorrido em 02/03/2025.
+É  o  relatório. DECIDO.
+A declaração da extinção da punibilidade, em razão do óbito do recorrido, é medida imperativa.
+Com o falecimento do recorrido, devidamente comprovado por atestado de óbito acostado à fl. 726, extingue-se a punibilidade do réu, nos termos do art. 107, inciso I, do Código Penal.
+Nesse sentido: AgRg no REsp n. 1.815.736/MG, Sexta Turma, relator Ministro Sebastião Reis Júnior, DJe de 26/11/2019.
+Ante o exposto, com fulcro no art. 107, inciso I, do Código Penal, declaro extinta a punibilidade do recorrido e, com base no artigo do no art. 255, § 4º, inciso I, do RISTJ, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGADA NULIDADE DAS PROVAS OBTIDAS POR INGRESSO EM DOMICÍLIO SEM JUSTA CAUSA. MEDIDA CAUTELAR FUNDADA EM SITUAÇÃO FLAGRANCIAL, DENÚNCIA ANÔNIMA E CONSENTIMENTO EXPRESSO DO PROPRIETÁRIO DO IMÓVEL. ALTERAÇÃO DA CONCLUSÃO. NECESSÁRIO REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. PRECEDENTES. DOSIMETRIA. AUMENTO DA PENA-BASE. NATUREZA NOCIVA DA DROGA. QUANTIDADE QUE NÃO EXTRAPOLA O TIPO PENAL. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. ATENUANTE DA CONFISSÃO. RECONHECIMENTO. CIRCUNSTÂNCIA UTILIZADA NA FUNDAMENTAÇÃO DA CONDENAÇÃO. PRECEDENTES. PLEITO DE INCIDÊNCIA DO TRÁFICO PRIVILEGIADO. HABITUALIDADE DELITIVA. QUANTIDADE DE DROGAS ACRESCIDA DE APREENSÃO DE APETRECHOS RELACIONADOS À TRAFICÂNCIA. SIMULACRO DE FUZIL. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. SÚMULA N. 568/STJ. PRECEDENTES. REDIMENSIONAMENTO DAS PENAS. FIXAÇÃO DE REGIME INICIAL INTERMEDIÁRIO PARA UM DOS RECORRENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, PARCIALMENTE PROVIDO.
