@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  KELLY  FERNANDA  DOS  SANTOS  apontando  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SÃO  PAULO  (HC  n.  2291911-12.2022.8.26.0000).
+Consta  dos  autos  que  a  Juíza  das  execuções  criminais  indeferiu  o  pleito  de  prisão  domiciliar  à  paciente,  condenada  à  pena  de  25  anos  de  reclusão,  ao  argumento  de  que,  não obstante seus  filhos  terem  8  e  16  anos  de  idade,  ela  já  se  encontra  presa  há  9  anos,  lapso  de  tempo  que  se  iniciou  na  Turquia,  onde  foi  surpreendida  na  prática  de  tráfico  internacional  de  drogas.  Acrescentou  que  a  prisão  domiciliar  é  benefício  concedido  às  genitoras  que  se  encontram  em  regime  aberto,  estando  a  paciente  em  regime  fechado  desde  que  apreendida  no  outro  país,  não  sendo  este  o  caso  de  concessão  excepcional  da  prisão  domiciliar  a  mãe  de  crianças  menores  que  está  em  regime  diverso  do  aberto  (e-STJ  fls.  25/26  e  29/31).
+No  writ  originário,  a  Corte  de  origem  denegou  a  ordem,  nos  termos  da  seguinte  ementa  (e-STJ  fl.  42):
+"Habeas  Corpus".  Pretendida  cassação  da  decisão  que  indeferiu  pleito  de  prisão  albergue  domiciliar.  Inviabilidade  de  exame  da  pretensão  em  via  estreita  de  "Habeas  Corpus",  que  não  permite  exame  aprofundado  de  provas.  Ordem  denegada.
+No  presente  writ,  a  defesa  alega  a  possibilidade  de  concessão  do  benefício  da  prisão  domiciliar  a  custodiadas  que  sejam  genitoras,  sendo  possível  a  flexibilização  do  art.  117  da  Lei  de  Execução  Penal  para  que  se  defira  o pleito  mesmo  estando  a  paciente  em  regime  fechado,  notadamente  porque  o  crime  cometido  foi  um  ato  isolado  em  sua  vida,  inclusive  "tendo  já  implementado  o  lapso  para  o  regime  semiaberto  e  aberto  (considerando-se  a  decisão  que  deferiu  o  lapso  de  1/8  para  progressões)"  (e-STJ  fl.  4)  e  se  tratando  de  crime  praticado  sem  violência  ou  grave  ameaça.
+Acrescenta  que  a  imprescindibilidade  dos  cuidados  maternos  à  prole  é  presumida  pelo  STJ  quando  se  trata  de  filhos  menores  de  12  anos,  como  no  caso,  em  que  um  dos  filhos  da  paciente  possui  8  anos.
+Requer,  assim,  em  liminar,  seja  a  paciente  posta  em  prisão  domiciliar,  à  luz  do  art.  117,  III,  da  LEP,  com  a  confirmação  da  liminar  no  julgamento  do  mérito.  Subsidiariamente,  "pugna-se  pela  concessão  da  ordem  em  menor  extensão,  tão  somente  para  determinar  que  o  Tribunal  de  Justiça  do  Estado  de  São  Paulo  analise  o  mérito  do  habeas  corpus  lá  impetrado"  (e-STJ  fl.  8).
+Indeferido o pedido de liminar (e-STJ fls. 48/50) e prestadas as informações solicitadas (e-STJ fls. 58/63 e 71/78), o Ministério Público Federal opinou pelo não conhecimento da impetração (e-STJ fls. 82/83).
+É o relatório.
+Decido.
+A impetração está prejudicada.
+Isso, porque, das informações obtidas no site do Tribunal de origem, verifica-se ter sido proferido decisum concedendo progressão ao regime aberto à paciente, razão pela qual fica esvaziado o objeto desta impetração.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
