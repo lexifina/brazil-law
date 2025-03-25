@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANTÔNIO BENÍCIO OLIVEIRA DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta dos autos que o paciente foi condenado à pena de 16 anos de reclusão no regime inicial fechado, como incurso nas sanções do art. 121, § 2º, II e IV, do Código Penal.
+Houve recurso da defesa e do Ministério Público contra a sentença de primeiro grau. O recurso da defesa foi provido para redimensionar a pena para 15 anos, 11 meses e 10 dias de reclusão, no regime inicial fechado.
+Por sua vez, o recurso da acusação foi desprovido.
+Agora em habeas corpus, a impetrante sustenta a ausência de fundamentação idônea para a negativação dos vetores da culpabilidade, do motivo e das circunstâncias do crime.
+Afirma, ainda, a ocorrência de erro material no cálculo da terceira fase da dosimetria da pena.
+Requer, liminarmente e no mérito, o decote do desvalor conferido aos vetores culpabilidade, motivos e circunstâncias do delito e a readequação da pena na terceira fase dosimétrica, após a aplicação da fração de 1/3 referente à minorante da tentativa.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer da impetração.
+De acordo com entendimento desta Corte Superior, a dosimetria da pena é matéria afeta a certa discricionariedade do magistrado, dentro do livre convencimento motivado, não sendo cabível a revisão em habeas corpus, salvo em casos excepcionais, quando constatada, sem a necessidade de incursão no acervo fático-probatório, a inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI Nº 11.343/2006. REDUÇÃO DA PENA. DISCRICIONARIEDADE JUDICIAL. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. PRECLUSÃO TEMPORAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado em favor de paciente condenada pelo crime de tráfico de drogas (art. 33, caput, da Lei nº 11.343/06), à pena de 4 anos e 2 meses de reclusão, em regime semiaberto, e multa. A defesa pleiteia a aplicação da fração máxima de 2/3 prevista no art. 33, § 4º, da Lei de Drogas, em razão da primariedade e bons antecedentes da paciente, para redução da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) verificar se o habeas corpus pode ser utilizado como sucedâneo de revisão criminal para discutir a dosimetria da pena; (ii) avaliar se houve flagrante ilegalidade na aplicação da fração de 1/6 da minorante prevista no art. 33, § 4º, da Lei de Drogas.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é meio processual adequado para a reanálise da dosimetria da pena ou para substituir a revisão criminal, especialmente quando a decisão condenatória já transitou em julgado, conforme entendimento consolidado no Superior Tribunal de Justiça.
+4. A preclusão temporal impede o conhecimento de alegações que poderiam ter sido suscitadas oportunamente em momento anterior, sendo a segurança jurídica e a lealdade processual princípios que limitam a reabertura de discussões sobre decisões definitivas.
+5. No que se refere à dosimetria da pena, o juízo de origem exerceu sua discricionariedade ao aplicar a fração de 1/6 da minorante do art. 33, § 4º, da Lei de Drogas, considerando a quantidade e natureza das substâncias apreendidas. Não há flagrante ilegalidade na decisão que justifique a concessão da ordem de ofício.
+6. A jurisprudência da Corte é pacífica no sentido de que a dosimetria da pena, inclusive a aplicação da fração redutora do art. 33, § 4º, da Lei nº 11.343/06, deve ser analisada com base nas particularidades do caso concreto e não pode ser revista por meio de habeas corpus, exceto em casos de manifesta arbitrariedade.
+IV. AGRAVO REGIMENTAL DESPROVIDO (AgRg no HC n. 861.092/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+No caso dos autos, não observo ilegalidade a ser sanada no procedimento dosimétrico adotado pelas instâncias ordinárias, sobremaneira, no tocante à exasperação da pena base com a valoração negativa da circunstâncias judiciais da culpabilidade, do motivo e das circunstâncias do crime.
+Nesse sentido, recordo que o acórdão proferido pelo Tribunal local utilizou de fundamentação e de justificativa condizente com o aumento na primeira fase de dosimetria de pena (fls. 760-764, destaquei):
+No que diz respeito à culpabilidade, entendo que deve ser mantida sua negativação, vez que fundamentada, pois restou comprovado nos autos que o crime teria sido premeditado pelo réu, o que demonstra uma maior reprovabilidade da conduta do apelante.  ..  Quanto à conduta social do apelante, fundamentou corretamente o juiz a quo no fato de que o apelante seria integrante de facção criminosa, estando de acordo com o entendimento jurisprudencial do Superior Tribunal de Justiça:  ..  ..  No que diz respeito às circunstâncias do crime, entendo que, igualmente, deve ser mantida sua negativação, uma vez que devidamente fundamentada nos elementos concretos do crime, pois "cometido em concurso de pessoas, em atividade típica de pistolagem" (fl. 547), o que demonstra uma maior gravidade da conduta do agente.  ..  Quanto às consequências do crime, também deve ser mantida a sua desvaloração, pois consoante as declarações prestadas pela vítima, esta ficou paraplégica em razão dos disparos.  ..  Por fim, quanto aos motivos do delito, entendo que deve ser mantida tal negativação, vez que o crime se deu em razão de atividades de facções criminosas, da qual o apelante é integrante. Assim, remanescendo apenas 05 (cinco) circunstâncias judiciais desfavoráveis ao apelante, deve a pena-base ser fixada em 23 (vinte e três) anos e 03 (três) meses de reclusão. Na segunda fase, não foram reconhecidas circunstâncias agravantes ou atenuantes, restando a pena intermediária mantida em 23 (vinte e três) anos e 03 (três) meses de reclusão.
+Da mesma forma, na terceira fase de dosimetria de pena, houve utilização da fração mínima de 1/3 para reduzir a pena em favor do réu diante do caminho percorrido, chegando muito próximo da consumação, conforme decisão (fls. 760-764, destaquei):
+Na terceira fase, ausentes causas de aumento de pena. Presente a causa de diminuição de pena referente à tentativa art. 14, II, CP), reduz-se a pena em 1/3 (um terço), mesma fração utilizada pelo magistrado de origem, em razão do iter criminis percorrido pelo apelante, restando a pena definitiva fixada em 15 (quinze) anos, 11 (onze) meses e 10 (dez) dias de reclusão. Desse modo, resta a pena definitiva do apelante Antônio Benício Oliveira da Silva redimensionada, do patamar de 16 (dezesseis) anos de reclusão, 15 (quinze) anos, 11 (onze) meses e 10 (dez) dias de reclusão. Quanto ao regime de cumprimento de pena, este deve ser mantido no fechado (art. 33, § 2º, "a", CP).
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
