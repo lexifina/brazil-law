@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CECÍLIA HELENA CARVALHO FRANCHINI, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 137):
+Agravo de instrumento. Cumprimento de sentença. Habilitação de crédito. Concurso de credores. Decisão que determinou a aplicação analógica do artigo 83, I, da Lei 11.101/05, a fim de limitar o pagamento dos créditos preferenciais, inicialmente, a 150 salários-mínimos. Pretensão à reforma. Desacolhimento. Admissibilidade de aplicação analógica da regra de limitação da preferência dos créditos oriundos de relação trabalhista e honorários advocatícios ao patamar estabelecido pelo artigo 83, I, da Lei 111.101/05. Precedentes do STJ e desta Corte. Pluralidade da credores com elevados valores a receber que justifica a limitação determinada, em observância ao princípio da efetividade do processo executivo. Recurso não provido.
+Os embargos de declaração opostos por Cecilia Helena Carvalho Franchini, ora recorrente, bem como aqueles opostos pelo escritório de advocacia foram rejeitados (fls. 255-259 e 278-281, respectivamente).
+Nas razões do presente recurso especial (fls. 157-182), o recorrente resume seus pleitos nos seguintes termos (fl. 182):
+a) Reconhecer a violação à Lei Federal, art. 962 do CC/2002, para afastar a aplicação, por analogia, do art. 83, I, da LFRE, ao Concurso Particular de Credores e sua limitação a 150 (SM) por credor;
+b) Reconhecer a divergência jurisprudencial quanto a inaplicabilidade por analogia do art. 83, I, da LFRE, cuja interpretação é restritiva, reconhecendo-se sua aplicabilidade apenas a situações que envolvem concurso universal de credores e,
+c) Reconhecer a divergência jurisprudencial constante na interpretação do art. 186 do CTN, para atribuir preferência absoluta ao crédito da Recorrente, em detrimento dos demais créditos de natureza alimentar, inclusive de honorários advocatícios, posto se tratar de crédito decorrente da legislação do trabalho.
+Apresentadas as contrarrazões (fls. 337-347), sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 355-356).
+É, no essencial, o relatório.
+Em razão do provimento dado ao recurso de Ferro, Castro Neves & Daltro Borges Sociedade de Advogados, observa-se que o recurso especial de Cecília Helena Carvalho Franchini perdeu supervenientemente seu objeto, seja porque sua tese de inaplicabilidade do art. 83, I, da Lei n. 11.101/2005 foi acolhida naquele provimento, seja porque, ao determinar que "a partilha do produto da arrematação observe a proporcionalidade dos créditos privilegiados, nos termos do art. 962 do CC" acabou rechaçando sua tese de que seu crédito privilegiado oriundo de demanda trabalhista se sobrepunha ao crédito também privilegiado decorrente de honorários, visto a equivalência entre ambos.
+Ante o exposto, não conheço do recurso especial em razão de sua superveniente perda de objeto.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, visto que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. PROVIMENTO DADO AO RECURSO ESPECIAL DA SOCIEDADE ADVOCATÍCIA. PREJUDICIALIDADE SUPERVENIENTE DO APELO NOBRE DIVERSO. RECURSO ESPECIAL NÃO CONHECIDO.
