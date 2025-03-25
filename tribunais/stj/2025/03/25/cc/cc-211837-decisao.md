@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PORTO SEGURO - BA, suscitante, e o JUÍZO DE DIREITO DA 9ª VARA CRIMINAL DE VITÓRIA - ES, suscitado.
+Consta dos autos que o interessando LINCOLN DA SILVEIRA COIMBRA foi condenado pelo Juízo de Direito de Vila Velha - ES às penas de 05 (cinco) anos e 04 (quatro) meses de reclusão e 500 (quinhentos) dias-multa, como incurso no art. 33 da Lei n. 11.343/2006, tendo a execução tramitado perante o Juízo de Direito de Porto Seguro - BA.
+Cumprida a pena privativa de liberdade, o Juízo suscitado devolveu os autos da Execução n. 0031204-02.2016.8.08.0035 à VEP de Porto Seguro - BA, uma vez que a execução tramitou naquele Juízo, e o apenado reside no referido município (fl. 270).
+O Juízo de Direito de Porto Seguro - BA, por sua vez, suscitou conflito de competência sob o seguinte argumento:
+Trata-se de execução penal movida em face de, LINCOLN DA SILVEIRA COIMBRA condenado pelo à pena de 5 anos e 4 meses de Juízo da 3ª Vara Criminal de Vila Velha-ES reclusão e 500 dias-multa, por infração ao art. 33 da Lei nº 11.343/06.
+A execução da pena privativa de liberdade tramitou perante esta Vara de Execuções Penais de Porto Seguro/BA, tendo sido declarada extinta pelo seu integral cumprimento (ID).48.1
+Posteriormente, ao remeter os autos para execução da pena de multa, o Juízo da 9ª Vara Criminal de Vitória - ES declinou de sua competência, determinando a devolução do feito a este juízo, sob o fundamento de que o apenado possui domicílio nesta comarca (ID).88.1 O Ministério Público manifestou-se pelo não reconhecimento da competência deste juízo, pugnando pela suscitação de conflito negativo de competência (ID).97.1
+(..).
+O cerne da questão reside em definir o juízo competente para a execução da pe na de multa quando o apenado reside em comarca diversa daquela onde foi condenado, notadamente após as alterações promovidas no art. 51 do Código Penal pela Lei nº 13.964/19. Nesse contexto, imperioso destacar que o Superior Tribunal de Justiça consolidou entendimento no sentido de que a mera mudança de domicílio do condenado não modifica a competência da execução penal. Com efeito, apenas a fiscalização do cumprimento da pena pode ser delegada ao juízo do novo domicílio, mediante carta precatória, permanecendo os atos decisórios sob a responsabilidade do juízo da condenação.
+(..).
+Tal sistemática corrobora o entendimento de que a competência para a execução da pena de multa permanece com o juízo da condenação, onde foi formado o título executivo e onde se encontra a documentação necessária à sua cobrança. Ademais, o STF, ao julgar a ADI 3.150, definiu que a execução da pena de multa compete ao Ministério Público perante a Vara de Execuções Penais, observado o procedimento da LEP, o que reforça a necessidade de manutenção da competência no juízo originário. O Ato Normativo do TJES, invocado pelo juízo suscitado, não pode se sobrepor às normas federais e ao entendimento consolidado dos Tribunais Superiores sobre a matéria, sob pena de violação ao princípio da hierarquia das normas (fls. 312-313).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito para que seja declarada a competência do Juízo suscitante (fls. 323-323).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea ""d"", da Constituição Federal.
+Acerca da controvérsia, a Terceira Seção do Superior Tribunal de Justiça firmou o entendimento de que compete ao Juízo da condenação a execução das penas impostas, de modo que eventual mudança de domicílio do apenado não implica deslocamento da competência.
+Nesse sentido, entende-se que a competência para a execução de eventual pena de multa é do mesmo Juízo que executa a pena privativa de liberdade.
+A propósito:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. MUDANÇA DE ENDEREÇO. EXPEDIÇÃO DE CARTA PRECATÓRIA PARA FISCALIZAÇÃOE ACOMPANHAMENTO DA PENA IMPOSTA. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+Terceira Seção já pacificou o entendimento no sentido de que a competência para atos decisórios na execução penal continua sendo do juízo que proferiu a condenação, ainda que o condenado venha a mudar de domicílio, cabendo apenas a expedição de precatória para a fiscalização das condições e medidas impostas.
+Agravo regimental desprovido (AgRg no CC n. 198.819/DF, relator Ministro Messod Azulay Neto, Terceira Seção, julgado em 17/10/2023, DJe de 25/10/2023, grifamos).
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA DE MULTA. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS. UNICIDADE DA EXECUÇÃO. IMPOSSIBILIDADE DE CISÃO DA EXECUÇÃO DAS PENAS. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+1. A execução penal é una, não sendo possível cindir o processo executivo para que a execução da pena privativa de liberdade seja processada perante o Juízo das Execuções Penais de um estado da federação e a execução da pena de multa imposta na mesma condenação penal seja processada em Juízo de estado diverso.
+2. A execução da pena de multa compete ao mesmo Juízo que executa a pena privativa de liberdade cumulativamente imposta.
+3. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DO 1.º JUIZADO DA VARA DE EXECUÇÕES CRIMINAIS DE NOVO HAMBURGO/RS (CC n. 189.130/SC, relatora Ministra Laurita Vaz, Terceira Seção, julgado em 14/09/2022, DJe de 28/09/2022, grifamos).
+No mesmo norte: CC n. 202.958/RS, rel. Min. Reynaldo Soares da Fonseca, DJe de 08/05/2024; CC n. 203.271 /PR, rel. Min. Joel Ilan Paciornik, DJe de 03/06/2024, e CC n. 204.033/SC, rel. Min. Sebastião Reis Júnior, DJe de 03/05/2024.
+Na hipótese, verifica-se que a execução da pena privativa de liberdade tramitou perante a Vara de Execuções Penais de Porto Seguro/BA, conforme consignado pelo próprio Juízo Suscitante (fl. 312).
+Assim, considerando que a execução da pena de multa compete ao mesmo Juízo que executa a pena privativa de liberdade cumulativamente imposta (CC n. 189.130/SC, Ministra Laurita Vaz, Terceira Seção, DJe 28/09/2022), compete ao Juízo de Direito da 1ª Vara Criminal de Porto Seguro - BA executar não só a pena privativa de liberdade (art. 65 da LEP), mas também a pena de multa imposta no édito condenatório.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE PORTO SEGURO - BA, ora suscitante.
+Publique-se. Intimem-se.
+EMENTA
