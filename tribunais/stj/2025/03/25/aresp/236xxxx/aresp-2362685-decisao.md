@@ -1,0 +1,72 @@
+DECISÃO
+Cuida-se de agravo interposto por FUNDAÇÃO DE ROTARIANOS DE SÃO PAULO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 334):
+"ESTABELECIMENTO DE ENSINO DANOS MORAIS - Ação julgada procedente para condenar a ré ao pagamento de R$ 15.000,00 a título de indenização por danos morais - Autor que se matriculou no curso de graduação em Produção Audiovisual da requerida e foi surpreendido com uma mensagem na área do aluno, comunicando que os cursos seriam transferidos e passariam a ser ministrados pela União Bandeirante de Educação e Cultura S/A, sendo garantido que o curso não teria prejuízo pedagógico alegação de que nunca foi contatado, recebendo a informação de que não haveria turma para o terceiro semestre do curso, bem como que a ré não forneceu, em tempo hábil, sua documentação para poder pedir transferência para outras universidades - Evidente que o aluno se inscreve em determinado curso com a expectativa de conclusão nos termos contratados e, no caso de mudança de estabelecimento de ensino, espera que seja oferecido e ministrado nas mesmas condições do anterior contrato Cerceamento de defesa Inocorrência - A prova oral de fato não se justifica, pois os documentos trazidos aos autos demonstram a relação jurídica entre as partes Apelante que não logrou demonstrar ser imprescindível o depoimento pessoal e a oitiva de testemunhas Denunciação a lide Inocorrência Inexistência de relação jurídica Sentença mantida pelos seus próprios fundamentos Verba honorária majorada Recurso improvido. "
+Rejeitados os embargos de declaração opostos (fls. 353-356).
+No recurso especial, alega, preliminarmente, ofensa ao arts. 489 e 1022, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 373, II, 125, II, e 355, I, do CPC, 186 e 927 do CC e 14, III, do CDC, ao manter a condenação por danos morais sem considerar que: (i) prestou as informações ao aluno dentro do prazo razoável; (ii) a não abertura da turma decorreu da falta de número mínimo de alunos, conforme contrato; (iii) a UNB assumiu todas as obrigações a partir de 20/12/2019; e (iv) a demora na entrega dos documentos resultou do fechamento das instituições pela pandemia. Subsidiariamente, pleiteia a redução da indenização por danos morais, por considerá-la excessiva.
+Sustenta, ainda, cerceamento de defesa pelo julgamento antecipado da lide, que impediu a produção de provas sobre a transferência da mantença e a ausência de sua responsabilidade.
+Foram oferecidas contrarrazões ao recurso especial (fls. 412-423).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 430-432), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 479-780).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação dos arts. 489 e 1.022 do CPC
+Inicialmente, não há falar em ofensa ao artigo 1.022 do CPC uma vez que o Tribunal de origem, de forma clara e fundamentada, manifestou-se sobre os pontos alegados como obscuros.
+É o que se extrai dos seguintes trechos (fls. 337-341):
+A insurgência da requerida versa sobre o julgamento antecipado da lide, o que impediu a produção de prova oral e documental com o fim de comprovar que forneceu adequada e prévia informação quanto à transferência, bem como que foi ofertado ao aluno, continuar no curso (ainda que em outro local), inclusive, com a concessão de desconto de 50% (cinquenta por cento) nas mensalidades.
+E neste ponto, observo que na hipótese dos autos a prova oral de fato não se justifica, pois os documentos trazidos aos autos demonstram a relação jurídica entre as partes e a apelante não logrou demonstrar ser imprescindível o depoimento pessoal e a oitiva de testemunhas, não havendo nenhuma irregularidade no julgamento sem realização de audiência prévia de instrução e julgamento.
+A requerida rescindiu o contrato de prestação de serviços educacionais de maneira unilateral e, pelos documentos juntados aos autos, bem como pelas mensagens trazidas, demonstrou abandono com os alunos, que se encontram em desvantagem, visto que a UNB simplesmente informou que não havia número de alunos para prosseguimento do curso.
+Resta evidente que o aluno se inscreve em determinado curso com a expectativa de conclusão nos termos contratados e no caso de mudança de estabelecimento de ensino, espera que seja oferecido e ministrado nas mesmas condições do anterior contrato.
+E ainda, observo que não há que se falar em denunciação da lide da União Bandeirante de Educação e Cultura S/A (UNB), que importaria em trazer aos autos discussão estranha ao autor (obrigações assumidas entre as instituições de ensino), em claro prejuízo do ora apelado.
+ ..
+Assim, o curso deixou de ser ministrado pela requerida e o autor teve que se submeter a outro estabelecimento, diverso daquele que inicialmente contratou e, ao final, apenas foi informado que não haveria turma necessária para a continuação do curso, causando dissabor e preocupação; quando recebeu a informação (via wattsapp) de que não haveria formação de turma para seu curso, buscou informação via e-mail para confirmar tal notícia, mas nunca recebeu resposta (fls. 42).
+E ainda, não recebeu sua documentação, em tempo hábil, para transferência a outras universidades.
+Diante de todo o exposto, transcrevo a conclusão exposta pelo juízo de origem em sentença, que bem sintetiza o ocorrido:
+"É fato incontroverso que o autor foi aluno do curso de graduação em Produção Audiovisual da requerida, iniciado no primeiro semestre de 2019, com duração de dois anos (fls. 32/35). Entretanto, depois de aprovado em todas as disciplinas (fls. 36/37) ao final do primeiro ano, o curso foi transferido à União Bandeirante de Educação e Cultura S/A, mediante regular cessão de direitos de mantença (fls. 38/39).
+Na oportunidade, a requerida afirmou que não haveria aumento do tempo original de duração do curso, bem como que os alunos teriam descontos expressivos nas mensalidades, além de manutenção das bolsas (fls. 40).
+Entretanto, não foi o que ocorreu.
+Na mensagem de WhatsApp de fls. 42 a UNB informou que não haveria formação de turma para o curso do autor, que, como os demais alunos, deveria retirar seus documentos e solicitar reembolso do valor pago. Igualmente, na mensagem de fls. 48 a UNB informou que sua intenção era manter todos os cursos, mas, como muitos desistiram, não foi possível abrir turma para um número muito pequeno de alunos. Também na mensagem de fls. 50 a UNB confirma que só foi aberta turma para o curso do autor para o primeiro período; para o terceiro, que era a situação acadêmica dele, não foi aberta.
+Diante da situação posta (impossibilidade de continuidade do curso), o autor solicitou sua documentação escolar em março/20, porém esta só foi entregue dois meses depois, em maio/20 (fls. 51/54).
+A conduta da ré de não oferecer ao aluno alternativa compatível com o curso que vinha frequentando, além de demorar a providenciar sua documentação escolar, afronta o princípio da boa-fé objetiva (Código Civil, art. 187), gerando dano moral.
+Não se discute a possibilidade de extinção do curso pela instituição educacional, no exercício de sua autonomia universitária, desde que forneça adequada e prévia informação de encerramento, além de ofertar alternativas ao aluno, com iguais condições e valores, de forma a minimizar os prejuízos advindos com a frustração em não poder mais cursar a faculdade escolhida, o que não se verificou no caso." (fls. 237/238).
+Assim, a indenização por danos morais é de ser mantida no valor fixado, cujos parâmetros se mostram adequados à hipótese dos autos. A propósito:
+ ..
+Com efeito, o arbitramento deve ser realizado à luz das finalidades compensatória, punitiva e preventiva do instituto, devendo levar em conta ainda os princípios da razoabilidade e da proporcionalidade e os parâmetros consagrados na jurisprudência.
+ ..
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+- Cerceamento de defesa. Súmula n. 7/STJ
+Com efeito, conforme trechos do acórdão já mencionados, o Tribunal de origem rejeitou a alegação de cerceamento de defesa, considerando que os documentos nos autos eram suficientes para comprovar a relação jurídica entre as partes e que a prova oral não era imprescindível.
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência do cerceamento de defesa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. EMBARGOS PROTELATÓRIOS. MULTA. CABIMENTO. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA. COISA JULGADA. CERCEAMENTO DE DEFESA. INTERESSE DE AGIR. REVISÃO DO JULGADO. IMPOSSIBILIADE. INCIDÊNCIA DOS ENUNCIADOS N. 5 E 7/STJ.
+ ..
+4. Desconstituir o entendimento proferido no acórdão recorrido quanto à inexistência de cerceamento de defesa, exige o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante o óbice do Enunciado n. 7, do STJ.
+5. Na hipótese, rever o entendimento do tribunal de origem, que reconheceu a inexistência do interesse de agir e a legitimidade das partes, demandaria o reexame das provas dos autos, procedimento obstado pelo ditame do Enunciado n. 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp n. 1.923.503/PR, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DECLARAÇÃO DE NULIDADE DE CONTRATO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO NOBRE. INSURGÊNCIA DA PARTE AUTORA.
+ ..
+3. Rever a conclusão do Tribunal a quo acerca da ocorrência de cerceamento de defesa, no caso em análise, demandaria o reexame de provas, providência que encontra óbice na Súmula 7 desta Corte Superior. Precedentes.
+4. Conforme o entendimento do STJ, "preclui o direito à prova se a parte, intimada para especificar as que pretendia produzir, não se manifesta oportunamente, e a preclusão ocorre mesmo que haja pedido de produção de provas na inicial ou na contestação, mas a parte silencia na fase de especificação" (AgRg no AREsp 645.985/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 16/06/2016, DJe 22/06/2016). Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.400.403/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/5/2024, DJe de 22/5/2024.)
+- Danos morais. Súmula n. 7/STJ
+Em relação à condenação por danos morais, o Tribunal de origem consignou que a rescisão unilateral do contrato, sem alternativas viáveis para continuidade do curso e com demora na entrega da documentação, causou prejuízos ao recorrido, reconhecendo o dever de indenizar e mantendo a quantia de R$ 15.000,00, por considerá-la adequada e proporcional.
+Portanto, eventual revisão dos fundamentos do acórdão recorrido para afastar a condenação ou reduzir o valor da indenização demandaria reexame de fatos e provas, providência vedada em recurso especial, nos termos da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. POSSIBILIDADE DE CANCELAMENTO DO PLANO, DESDE QUE HAJA NOTIFICAÇÃO PRÉVIA. NÃO OCORRÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. DANOS MORAIS CONFIGURADOS. PRECEDENTES. REEXAME DE FATOS E PROVAS. SÚMULAS N. 7 E 83/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. O Tribunal de origem concluiu pela abusividade no cancelamento do plano de saúde, em razão da falta de notificação prévia à autora do suposto inadimplemento, sendo inviável o acolhimento da pretensão recursal por demandar o revolvimento do conjunto fático-probatório dos autos, nos termos da Súmula n. 7/STJ.
+3. Relativamente aos danos morais, a jurisprudência desta Corte Superior é firme no sentido de que o mero descumprimento contratual não gera, por si só, dano moral indenizável, entretanto, devem ser verificadas as peculiaridades do caso concreto, a fim de avaliar se a conduta ilícita ultrapassou o mero inadimplemento contratual .
+3.1. No caso, a Corte local, mediante análise do conjunto fático-probatório dos autos, concluiu pela configuração dos danos morais, arbitrando o valor de R$ 5.000,00 (cinco mil reais) . Assim, além de estar o posicionamento da instância originária amparado na orientação jurisprudencial deste Tribunal Superior, seus fundamentos, por estarem alicerçados em elementos de fatos e provas existentes nos autos, não podem ser revistos em julgamento de recurso especial, ante o impedimento imposto pela Súmula n. 7/STJ.
+ ..
+5. Agravo interno improvido .
+(AgInt no AREsp n. 2446072/PE, Rel. Min. MARCO AURÉLIO BELLIZZE, Data de Julgamento: 26/02/2024, TERCEIRA TURMA, DJe 28/02/2024)
+Em reforço, é assente nesta Corte o entendimento de que "a revisão do valor fixado a título de danos morais somente é permitida quando irrisório ou exorbitante o valor. Ausente tais circunstâncias, a análise encontra óbice na Súmula nº 7 do STJ" (AgInt no AREsp n. 1.269.703/RJ, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 1/6/2020, DJe de 4/6/2020).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial, e na parte conhecida, negar-lhe provimento.
+- Honorários recursais
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 14% sobre o valor atualizado da condenação.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ESTABELECIMENTO DE ENSINO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DANOS MORAIS CONFIGURADOS. PRETENSÃO DE REEXAME DE FATOS E PROVAS. SÚMULAS N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
