@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação previdenciária ajuizada por CLAUDIOMIRO ROSTIROLLA contra Instituto Nacional do Seguro Social.
+A ação foi aviada perante o Juizado Especial Federal Previdenciário de Jaraguá do Sul - SC, que declinou de sua competência para a Justiça Estadual de Santa Catarina.
+Distribuído o feito à Vara da Faz enda Pública, Acidentes do Trab. e Registros Públicos da Comarca de Jaraguá do Sul, foi suscitado o conflito negativo perante o Superior Tribunal de Justiça, tendo o suscitante consignado que o segurado não apresentou pretensão correlacionada ao acidente de trabalho, o que afasta a competência da Justiça Estadual.
+O Ministério Público Federal ofereceu parecer no sentido do conhecimento do conflito para declarar competente o Juízo Federal suscitado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. AUXÍLIO-ACIDENTE. CONCESSÃO. MATÉRIA PREVIDENCIÁRIA. AUSÊNCIA DE RELAÇÃO COM ACIDENTE DE TRABALHO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ART. 109, I, DA CF/88. PRECEDENTES DA CORTE: PARECER PELA COMPETÊNCIA DO JUÍZO SUSCITADO.
+É o relatório. Decido.
+Na ação previdenciária de origem pretende-se o reconhecimento da incapacidade laborativa, decorrente de acidente de qualquer natureza, de que lhe resultou amputação da falange distal do 2º quirodáctilo esquerdo, do que resultou limitação funcional.
+Nessas circunstâncias, sobressai-se a regra geral prevista no art. 109, I, da Constituição Federal, que institui a competência da Justiça Federal.
+Na linha do parecer ministerial:
+9. No caso dos autos, o Juízo estadual entendeu pela natureza previdenciária do benefício, verbis: "(..) No caso, infere-se que consta expressamente na petição inicial que "no dia 18 de março de 2005 a parte autora sofreu um acidente de qualquer natureza". Ou seja, a causa de pedir desta ação é previdenciária, e não acidentária. No laudo pericial, realizado em juízo, o perito também afirmou que não se trata de acidente de trabalho (Evento 19), inexistindo, portanto, nexo causal acidentário. (..)" (fl. 30; g. n). De fato, colhe-se da própria exordial que "(..) a parte autora teve concedido o benefício de auxílio-doença previdenciário no período de 18/03/2005 a 08/06/2005, (NB 31-1373721232), conforme se denota dos dados constantes na planilha do CNIS em anexo.(..)" (fl. 05, g. n.). Desta forma, sendo a competência determinada pela natureza jurídica da pretensão deduzida, reconhecida a feição previdenciária do pleito, a competência para processar e julgar a ação é inequivocamente da Justiça Federal, o que é referendado pela jurisprudência hegemônica do STJ.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juizado Especial Federal Previdenciário de Jaraguá do Sul - SC, o suscitado.
+Publique-se. Intimem-se.
+EMENTA
