@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se embargos de declaração opostos por IVANILDE CARDOSO BASTOS contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DESCUMPRIMENTO DE OBRIGAÇÃO DE FAZER. IMPUGNAÇÃO JULGADA IMPROCEDENTE. EXTINÇÃO DA EXECUÇÃO. ASTREINTES. EXTINÇÃO. CABIMENTO . PRECLUSÃO PROJUDICATO. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Impugnação ao cumprimento de sentença ajuizada nos autos do cumprimento de sentença, visando reconhecer o excesso de execução, bem como o afastamento da multa cominatória.
+2. Segundo a jurisprudência desta Corte, é possível que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC seja alterado pelo juiz a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo preclusão ou ofensa à coisa julgada. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido."
+Em suas razões recursais, a parte embargante aponta omissões e contradições na decisão embargada nos seguintes pontos:
+i) nulidade do acórdão estadual quanto ao dever de motivar as decisões; ii) que o juiz não pode alterar ou reduzir o valor das astreintes a qualquer tempo; iii) falta de decisão anterior reduzindo ou alterando o valor da multa cominatória; iv) sobre a violação dos arts. 58, 59, 494, 966, V e VIII, do CPC; v) ofensa aos princípios da vedação da decisão surpresa e do impulso oficial.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Todavia, não há que se falar omissão. Isso porque, a decisão embargada apreciou a demanda de forma clara e precisa, ressaltando que a decisão do acórdão do TJPA está em harmonia com a jurisprudência desta Corte Superior (Tema 706) no sentido de que: "o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC/2015 seja alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo falar em preclusão ou ofensa à coisa julgada" (AgInt no AREsp 2.692.825/DF, Terceira Turma, DJe 16/10/2024.
+Nesse mesmo sentido: AgInt no AREsp 2.574.206/SP, Quarta Turma, DJe 3/10/2024; REsp n. 1.862.279/SP, Terceira Turma, julgado em 19/5/2020, DJe de 25/5/2020.
+Além disso, as duas Turmas de Direito Privado do STJ firmaram entendimento de que "a decisão que fixa multa por descumprimento de ordem judicial não preclui nem faz coisa julgada material, podendo ser modificada a requerimento da parte ou de ofício, para aumentar ou diminuir o valor da multa ou, ainda, para suprimi-la" (AgInt no AREsp n. 1.519.862/SP, Terceira Turma, DJe de 11/4/2024).
+A esse respeito: AgInt nos EDcl no REsp n. 2.104.125/MG, 4ª Turma, DJe de 11/3/2024; AgInt no AREsp n. 2.401.413/RJ, 3ª Turma, DJe de 8/3/2024; e AgInt no AREsp n. 2.322.957/BA, 4ª Turma, DJe de 21/12/2023.
+Na hipótese, o Tribunal de origem consignou que (e-STJ, fls. 775):
+" ..
+Como se verifica, em face do reconhecimento da mora do executado, o magistrado de origem reputou como correto o valor indicado pelo exequente, dando efetividade a sentença condenatória, independentemente da apresentação de qualquer informação por parte do devedor. A solução adotada pelo magistrado se mostrou como forma alternativa à determinação da obrigação de fazer, tornando desnecessária a aplicação de multa diária ao executado.
+Ademais, diversamente do alegado pela apelante, a decisão que comina astreintes não preclui e não faz coisa julgada 2 , podendo o juiz, mesmo na fase de execução, alterar o valor da multa, suprimi-la ou substituí-la por outra forma de dar efetividade ao comando judicial, como ocorreu no caso em tela.
+Por sua vez, contra a referida decisão não foi interposto qualquer recurso por parte da exequente, o que deveria ter sido feito na medida em que pretende discutir a incidência de multa diária no período compreendido entre 30/05/2008 (data do protocolo de petição em cumprimento a determinação de indicação do valor detalhado a ser pago à autora) e 06/08/2009 (data da decisão que definiu o valor devido à autora), ou seja, interstício anterior a decisão prolatada.
+Em verdade, compulsando os autos verifico que a parte exequente passou a requerer a incidência da multa diária, nos termos ora requeridos, apenas em 16 de maio de 2016 (ID 2390129 - Pág. 30/33), após o retorno dos autos do contador do juízo, quando já havia feito, inclusive o levantamento do valor considerado como devido pelo magistrado de origem, pretendendo reavivar discussão já superada há muitos anos, o que não se admite.
+Assim, entendo acertada a sentença que afirmou a impossibilidade de discussão de matéria já decidida, tendo se instaurado a preclusão pro judicato, nos termos do artigo 505 do NCPC:
+Art. 505. Nenhum juiz decidirá novamente as questões já decididas relativas à mesma lide, salvo:
+I - se, tratando-se de relação jurídica de trato continuado, sobreveio modificação no estado de fato ou de direito, caso em que poderá a parte pedir a revisão do que foi estatuído na sentença;
+II - nos demais casos prescritos em lei.
+O instituto da preclusão pro judicato atinge diretamente o exercício da função jurisdicional, sendo imperioso o seu reconhecimento pelo magistrado, independentemente da provocação das partes, para a preservação da ordem pública e da segurança jurídica (EDcl no REsp 1513017/MA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 13/06/2017, DJe 14/09/2017).
+Dito isto, não merece reforma a sentença recorrida, complementada pelo julgamento dos embargos de declaração, no ponto em que ressaltou que pretende a exequente rediscutir matéria já decidida nos autos, registrando a preclusão da questão com o reconhecimento da plena satisfação do crédito."
+Portanto, o acórdão encontra-se em harmonia com a jurisprudência do STJ, o que fez incidir o óbice da Súmula 568/STJ.
+Demais disso, a revisão dos fundamentos do acórdão impugnado, no que se refere à modificação do valor da multa cominatória, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Assim, dissociado o pleito de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO JULGADA IMPROCEDENTE. PAGAMENTO DO DÉBITO PELO EXEQUENTE. EXECUÇÃO EXTINTA. EXTINÇÃO DAS ASTREINTES. POSSIBILIDADE. PRELCUSÃO PRO JUDICATO. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REEXAME DE FATOS E PROVAS. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. A jurisprudência desta Corte é firme no sentido de ser possível que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC seja alterado pelo juiz a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante, não havendo preclusão ou ofensa à coisa julgada. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Embargos de declaração no agravo em recurso especial rejeitados.
