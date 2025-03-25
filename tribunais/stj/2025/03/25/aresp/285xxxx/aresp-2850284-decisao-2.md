@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo de TIAGO RIGUE contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL que não conheceu do recurso especial interposto com fundamento no art. 105, III, alínea "a" e "c", da Constituição Federal, contra acórdão proferido no julgamento dos Embargos Infringentes e de Nulidade de n. 5000204-30.2016.8.21.0133.
+Consta dos autos que o agravante foi condenado pela prática dos crimes descritos no artigo 33, caput, c/c o artigo 40, inciso V, da Lei nº 11.343/06 (FATO 02); no artigo 35, caput, da Lei nº 11.343/06 (FATO 01); e no artigo 180, caput, do Código Penal, duas vezes (FATOS 03 e 04), na forma do artigo 69, caput, também do Código Penal, à pena de 20 anos e 08 meses de reclusão, em regime inicial fechado, além de 1.440 dias-multa.
+Recurso de apelação interposto pela defesa foi parcialmente provido, por maioria, para declarar de ofício a extinção da punibilidade em face de todos os réus, pela prescrição da pretensão punitiva para os crimes de receptação dolosa (3º ao 5º fato) com base no artigo 107, IV, do Código Penal, rejeitar a preliminar de inépcia da denúncia e no mérito, dar parcial provimento aos apelos, para absolver os réus do delito de associação para o tráfico de drogas, mantidas as demais cominações legais (fl. 1531). A pena imposta foi redimensionada para 11 anos e 8 meses de reclusão e 600 dias-multa.
+Embargos infringentes e de nulidade opostos não foram acolhidos, por maioria. O acórdão ficou assim ementado:
+"EMBARGOS INFRINGENTES. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. MINORANTE D O §4º DO ART. 33 DA LEI Nº 11.343/06. INAPLICABILIDADE. MANUTENÇÃO DO VOTO MAJORITÁRIO. 1. A dedicação às atividades criminosas é um elemento de conteúdo aberto à valoração judicial a partir da análise do fato em julgamento e suas circunstâncias. 2. Os acusados, mediante a utilização de veículos em situação irregular (clonados ou roubados), com veículos "batedores", transportaram, entre os Estados do Paraná, Santa Catarina e Rio Grande do Sul, 624,737kg de maconha, divididos em 608 tijolos, a denotar traficância em nível profissional, em descompasso com a referida minorante. A quantidade de drogas, somada ao modus operandi da prática delitiva, com rota interestadual, não deixa dúvida acerca da dedicação dos recorrentes às atividades criminosa. Além disso, as drogas aprendidas no presente caso representariam, no varejo, valores entre R$ 436.000,00 e R$ 811.200, de modo que, independentemente da posição assumida em grupo criminoso a que eventualmente pertençam ou as razões pelas quais os recorrentes transportavam os entorpecentes, induvidoso que se dedicavam a atividades criminosas. 3. Mantida a decisão proferida pela douta maioria quando do julgamento do recurso originário, que não reconhecia a incidência da minorante do §4º do art. 33 da Lei de Drogas. EMBARGOS INFRINGENTES DESACOLHIDOS. POR MAIORIA."(fl. 1644)
+Contra o referido acórdão, a defesa interpôs agravo em recurso especial, com fundamento no art. 1042 do CPC (fls. 1683/1739), no qual apontou violação aos arts. 155, 156 e 386, VI, todos do CPP e ao art. 5º, LVI da CF, alegando, em síntese, ausência de prova suficiente e apta para demonstrar a autoria delitiva e justificar a condenação.
+Pondera, ainda, que, caso mantida a condenação, o recorrente faz jus ao reconhecimento do tráfico privilegiado, com a redução da pena e a fixação de regime prisional mais brando.
+Requer a absolvição ou o redimensionamento da pena, com fixação do regime aberto.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL (fls. 11898/1900).
+O recurso especial não foi conhecido TJRS, pela existência de erro grosseiro na interposição equivocada do agravo previsto no art. 1042 do CPP (fls. 1911/1912).
+Em agravo em recurso especial interposto pela defesa (fls. 1976/1985).
+Contraminuta do Ministério Público (fls. 1997/1999).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do agravo (fls. 2012/2015).
+É o relatório.
+Decido.
+O agravo em recurso especial não merece ser conhecido, por ser manifestamente incabível.
+Isso porque o agravo em recurso especial é cabível contra decisão de presidente ou vice presidente do tribunal recorrido, que inadmitir o recurso especial ou o recurso extraordinário, nos termos do previsto no art. 1042 do CPC, in verbis:
+Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos.
+Todavia, conforme relatado, na hipótese dos autos a interposição do agravo em recurso especial, com fundamento no art. 1042 do CPC se voltou contra decisão do Tribunal de origem que não conheceu do recurso interposto, considerando o erro grosseiro verificado.
+Assim, observa-se novo erro grosseiro na interposição do agravo em recurso especial no art. 1042 do CPC contra decisão que não conheceu do recurso na origem.
+Ademais, ainda que assim não fosse, observa-se da leitura do agravo em recurso especial que o agravante não impugnou especificamente o fundamento de não conhecimento do recurso especial, tendo em vista que apenas reiterou as razões de mérito apontadas no recurso.
+Dessa forma, faz-se necessária a aplicação dos arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 - CPC e da Súmula n. 182 do STJ, que consideram ser inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/5/2021.)
+Ante o exposto, com fundamento nos arts. 932, III, do CPC, e 253, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
