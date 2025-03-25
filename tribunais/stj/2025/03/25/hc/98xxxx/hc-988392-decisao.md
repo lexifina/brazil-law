@@ -1,0 +1,32 @@
+DECISÃO
+Estes autos foram a mim distribuídos em razão de conexão com o HC n. 843.181/MG.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DORIVAL PINHEIRO BARBOSA JUNIOR, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi condenado pelo Juízo de Direito da 1ª Vara Criminal e de Execuções Penais da comarca de Frutal/MG, como incurso no art. 157, § 2º, II e V, e § 2º-A, do Código Penal, à pena de 11 anos e 8 meses de reclusão, a ser inicialmente cumprido em regime fechado, além do pagamento de 25 dias-multa, tendo-lhe sido negado o direito de recorrer em liberdade (Ação Penal n. 0007871-07.2023.8.13.0271 - fls. 10/31).
+A defesa alega que o paciente se encontra preso preventivamente há mais de dois anos, sem que tenha sido julgado o recurso de apelação interposto, configurando excesso de prazo. Sustenta que não há fundamentação idônea para a decretação e manutenção da custódia cautelar, pois não foram cumpridos os requisitos do art. 312 do Código de Processo Penal. Afirma que não há elementos concretos que indiquem a periculosidade do réu ou a possibilidade de reiteração criminosa. Aduz que ele possui condições pessoais favoráveis. Além disso, alega que o acusado é inocente, pois não tinha conhecimento da origem ilícita do gado que transportava.
+Requer, no âmbito liminar e no mérito, a revogação da custódia, ou que seja determinado ao Tribunal de Justiça que esclareça o motivo da demora em julgar a apelação interposta.
+Antes de qualquer ato decisório, solicitei informações ao Tribunal a quo (fl. 1.116), que foram prestadas às fls. 1.123/1.125.
+É o relatório.
+Inicialmente, assevero que, para que fosse possível a análise da autoria delitiva, seria imprescindível o exame dos elementos fáticos da lide, o que é inviável na estreita via do habeas corpus, que possui rito célere e cognição sumária.
+Depois, verifico que o Juízo de primeiro grau, ao condenar o ora paciente, negou-lhe o direito de apelar em liberdade, idoneamente, sob a seguinte fundamentação (fls. 25/26 - grifo nosso):
+Considerando o regime prisional estabelecido e a incontroversa presença dos requisitos elencados nos artigos 312 e seguintes, do Código de Processo Penal, evidenciada pela indicação de que o réu é efetivamente reincidente e responde pela prática de crimes graves, como homicídio qualificado e porte de arma de uso restrito, NEGO a ele direito de recorrer em liberdade.
+Por outro lado, não houve qualquer alteração substancial que pudesse justificar o afastamento da medida mais gravosa, de modo que, em atendimento aos comandos elencados no artigo 316, parágrafo único, do Código de Processo Penal, mantenho a prisão preventiva decretada nos autos.
+Ora, conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019) - (AgRg no RHC n. 211.901/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 19/3/2025 - grifo nosso).
+No mesmo sentido: HC n. 803.198/ES, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/10/2024.
+Quanto ao mais, o Desembargador Relator da apelação interposta pela defesa, assim informa (fl. 1.124):
+Contra a sentença foi interposto recurso de apelação pela acusação e pela defesa dos dois acusados, separadamente.
+Recebido os autos de apelação, foi cumprida a determinação legal de remessa dos autos a douta Procuradoria-Geral de Justiça, que solicitou o cumprimento de diligência para que as defesas dos acusados fossem intimadas para apresentar contrarrazões ao recurso ministerial.
+Buscando evitar eventuais nulidades, foi determinado o cumprimento da diligência, e, após, foi determinada nova remessa dos autos a Procuradoria- Geral de Justiça.
+Após a juntada de parecer da Procuradoria-Geral de Justiça, foi, ainda, apresentada petição pela defesa do acusado Dorival Pinheiro Barbosa Júnior, a qual foi dada resposta.
+Assim, tenho que a demora para julgamento do recurso se justifica em razão das diligencias realizadas, considerando a quantidade de recursos e de partes a se manifestarem dentro dos prazos legais.
+Ademais, não houve descumprimento de prazo previsto pelo Conselho Nacional de Justiça.
+Ora, como se vê, o processo segue seu regular processamento, não havendo falar em desídia por parte do Tribunal a quo que justifique o relaxamento da prisão por excesso de prazo.
+No caso, o paciente foi condenado à pena de 11 anos e 8 meses de reclusão, pela prática do crime de roubo circunstanciado. Assim, apesar de ter sido sentenciado em 22/12/2023, de acordo com o que consta no portal eletrônico do Tribunal de origem, paira sobre o réu reprimenda de montante relevante, não estando caracterizada mora irrazoável, tendo em conta o decurso do prazo de 1 ano e 3 meses desde a data da prolação da sentença.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fim de análise de suposta ocorrência de excesso de prazo no julgamento da apelação.
+A propósito, confiram-se: AgRg no HC n. 883.271/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 15/8/2024; AgRg no HC n. 787.527/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2023; e AgRg no HC n. 812.677/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 30/8/2023.
+No entanto, embora não esteja caracterizada demora suficiente para fulminar a legalidade da prisão preventiva, faz-se necessário empreender celeridade no julgamento da apelação.
+Ante o exposto, indefiro liminarmente o habeas corpus, com recomendação para que o Tribunal de Justiça de Minas Gerais empreenda esforços para julgar com celeridade a apelação criminal interposta.
+Comunique-se.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO CAUTELAR MANTIDA NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO IDÔNEA. REINCIDÊNCIA. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO CRIMINAL. VIOLAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. NÃO OCORRÊNCIA. ELEVADA REPRIMENDA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ indeferido liminarmente, com recomendação para que seja dada celeridade no julgamento da apelação.
