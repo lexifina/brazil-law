@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado pela Defensoria Pública em favor de JOSÉ CARLOS LIMA DE CARVALHO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento da apelação criminal n. 1515939-04.2024.8.26.0228.
+Consta dos autos que o paciente foi condenado à pena de 7 anos, 8 meses e 4 dias de reclusão em regime fechado e ao pagamento de 18 dias-multa, como incurso no art. 157, § 2º, VII, do Código Penal (fls. 17-22).
+A defesa interpôs recurso de apelação perante o Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, conforme acórdão de fls. 37-51.
+No presente writ, a defesa alega que houve majoração da pena em 1/5 na segunda fase da dosimetria, em razão da reincidência específica, o que contraria o tema 1.172 do Superior Tribunal de Justiça, que estabelece que a fração de aumento deve ser de 1/6, salvo fundamentação concreta e idônea para fração diversa (fls. 17-22).
+Sustenta que a permanência do paciente no cárcere, sem a devida redução da pena, aumenta os riscos à sua vida e integridade física e psíquica (fl. 6).
+Requer, assim, em caráter liminar no mérito, a concessão da ordem para que seja aplicada a fração de 1/6 na segunda fase da dosimetria da pena (fl. 6).
+É o relatório. DECIDO.
+A controvérsia diz respeito a possível ilegalidade na negativa de aplicação da fração usual de 1/6 pela reincidência específica ostentada pelo paciente.
+A Terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 738.224/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2023, DJe de 12/12/2023.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 857.913/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal, analiso a pretensão defensiva.
+Quanto ao aumento operado pela reincidência, como é cediço, o Código Penal não estabelece limites mínimo e máximo de aumento ou diminuição da pena em razão de circunstâncias agravantes ou atenuantes, cabendo ao magistrado fixar o patamar necessário dentro de parâmetros razoáveis e proporcionais.
+Nesse contexto, predomina nesta Corte o entendimento de que o aumento da pena em patamar superior a 1/6, em virtude da incidência de circunstância agravante, demanda fundamentação concreta e específica para justificar o incremento em maior extensão.
+Nesse sentido:
+"HABEAS CORPUS. CRIME DE TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. (I) REPRIMENDA BÁSICA ACIMA DO MÍNIMO LEGAL. AFIRMAÇÕES CONCRETAS RELATIVAS À PERSONALIDADE E AOS ANTECEDENTES DO RÉU. JUSTIFICATIVAS INERENTES AO TIPO PENAL NO TOCANTE À CULPABILIDADE, MOTIVOS E CONDUTA SOCIAL. (II) AGRAVANTE DA REINCIDÊNCIA. AUMENTO EM PATAMAR SUPERIOR A 1/6 (UM SEXTO). AUSÊNCIA DE MOTIVOS CONCRETOS. DESPROPORCIONALIDADE.
+ ..
+8. O Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena em razão da incidência das agravantes e atenuantes genéricas. Diante disso, a doutrina e a jurisprudência pátrias anunciam que cabe ao magistrado sentenciante, nos termos do princípio do livre convencimento motivado, aplicar a fração adequada ao caso concreto, em obediência aos princípios da razoabilidade e da proporcionalidade. Precedentes.
+ ..
+10. Ordem concedida em parte para, redimensionando a pena imposta, estabelecê-la em 7 (sete) anos, 11 (onze) meses e 8 (oito) dias de reclusão, mais o pagamento de 793 (setecentos e noventa e três) dias-multa, mantido, no mais, o acórdão estadual" (HC n. 387.586/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 17/4/2017).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. EXASPERAÇÃO DA PENA-BASE. MAUS ANTECEDENTES. QUATRO CONDENAÇÕES ANTERIORES TRANSITADAS EM JULGADO. FUNDAMENTAÇÃO IDÔNEA. AUMENTO PROPORCIONAL. AGRAVANTE DA REINCIDÊNCIA. BIS IN IDEM NÃO VERIFICADO. CONDENAÇÕES DISTINTAS. APLICAÇÃO DA FRAÇÃO DE 1/6. PATAMAR RAZOÁVEL. REGIME PRISIONAL. PENA SUPERIOR A OITO ANOS DE RECLUSÃO. MODO FECHADO. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO.
+ ..
+5. Conforme reiterada jurisprudência desta Corte, a aplicação de fração superior a 1/6, pelo reconhecimento das agravantes, exige motivação concreta e idônea. Sendo, na espécie, apenas uma a condenação residual existente contra o paciente, para valoração na segunda fase da dosimetria, o agravamento da pena em dois anos mostra-se excessivo. Necessidade de readequação da pena para se adotar o patamar de aumento em 1/6.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a reprimenda final do paciente para 8 anos, 10 meses e 5 dias de reclusão" (HC n. 298.050/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017).
+No caso, o Tribunal de origem manteve a fração de aumento decorrente da reincidência em 1/5 (um quinto) (e-STJ fl. 50), apenas pelo fato de ser específica para o incremento superior a 1/6 (um sexto).
+Entretanto, resulta imperativo considerar o entendimento firmado no julgamento do HC n. 365.963/SP (Rel. Min. Felix Fischer, DJe de 23/11/2017), oportunidade em que a Terceira Seção desta Corte pacificou entendimento no sentido de que a reincidência, seja ela específica ou não, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não foi ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito.
+Referido julgamento assentou-se na premissa de que o réu, mesmo ostentando condenação anterior por delito idêntico, não merece maior reprovabilidade na sua conduta, haja vista que, após a reforma da Parte Geral do Código Penal, operada em 11/7/1984, não há mais distinção entre os efeitos da reincidência genérica e específica, sendo inadmissível que o aplicador da lei assim o proceda, sob pena de ofensa aos princípios da legalidade e da proporcionalidade.
+Nesse contexto, alinhado à jurisprudência que se firmou no âmbito da Terceira Seção, extrai-se que a reincidência específica, justamente por não possuir maior desvalor no confronto com a atenuante da confissão espontânea, também não pode ensejar maior incremento da pena quando incidir, de forma isolada, na segunda fase da dosimetria. A propósito: AgRg no HC n. 440.349/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/6/2018; e HC n. 405.157/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/12/2017.
+Desse modo, passo ao redimensionamento da pena:
+Na primeira-fase, preservo a pena-base acima do mínimo legal em 4 anos, 9 meses e 18 dias de reclusão, mais pagamento de 12 dias-multa.
+Na segunda etapa, estabeleço a fração de 1/6 pela reincidência ostentada pelo paciente, para fixar a pena provisoriamente em 5 anos, 7 meses e 6 dias de reclusão, mais 14 dias- multa. Ausente circunstância atenuante.
+No último estágio, presente a majorante do inciso VII do § 2º do artigo 157 do Código Penal (violência exercida com emprego de arma branca), conservo a fração de 1/3 para fixar a pena definitivamente em 7 anos, 5 meses e 18 dias de reclusão, mais 19 dias-multa. Ausente causa de diminuição.
+O regime fechado permanecerá, em razão da presença de circunstâncias judiciais desfavoráveis (maus antecedentes) e da reincidência, nos termos do artigo 33, § 2º e 3º, do Código Penal.
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo da ordem, de ofício, para fixar a fração de 1/6 pela reincidência ostentada, redimensionando a pena do paciente para 7 anos, 5 meses e 18 dias de reclusão, em regime fechado, mais 19 dias-multa, mantidos os demais termos da condenação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
