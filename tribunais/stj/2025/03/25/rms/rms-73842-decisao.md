@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança, com pedido de liminar, interposto por RAFAEL FALCAO LEAO contra acórdão do Tribunal de Justiça do Estado da Paraíba que, nos autos n. 0805914-81.2024.8.15.0000, denegou a segurança, mantido o indeferindo do pedido de restituição do automotor apreendido (fls. 122/127).
+Neste recurso sustenta o recorrente que é legítimo proprietário do FIAT/DOBLO ADV 1.8 FLEX, Ano 2010/2011, Cor Cinza, Placa NQH-2979/PB, Chassi 9BD1194009B1073095, Renavan nº 0025528146-3, que está apreendido sem motivação idônea, em razão da operação policial que deu origem à ação penal n. 0004601-39.2018.8.15.2002, onde se apura a prática de tráfico de drogas por Diego Neves Bonifácio.
+Defende que o veículo pertence à sua empresa, na qual Diego Bonifácio trabalhava como motorista.
+Foi determinada a manifestação do Ministério Público Federal, que propôs o não conhecimento do recurso e, eventualmente, o não provimento (fls. 237 e 240/246).
+É o relatório.
+DECIDO.
+O Tribunal a quo denegou a segurança sob os seguintes fundamentos (fls. 122/127 - grifamos):
+Trata-se de mandado de segurança c/c pedido de liminar, impetrado por Rafael Falcão Leal, através de seu Raphael Gusmão Luna Lins  sic , arrimado no art. 5º, LXIX, da Carta Magna, e art. 1º da Lei nº 12.016/2009, em face de decisão do Juízo da Vara de Entorpecentes da Capital, lançada no Processo n. 0004601-39.2018.8.15.2002, que determinou o confisco do veículo apreendido.
+Narra a exordial que o impetrante pleiteou a restituição de seu veículo nos autos de EXIBIÇÃO DE DOCUMENTO OU COISA CRIMINAL 0808465-81.2020.8.15.2002 (FIAT/DOBLO ADV 1.8 FLEX, Ano 2010/2011, Cor Cinza, Placa NQH-2979/PB, Chassi 9BD1194009B1073095, Renavan nº 0025528146-3), apreendido em poder do réu do Processo de origem, Diego Neves Bonifácio, tendo sido indeferido o pedido.
+Alega-se, em síntese, que não há como se dar o perdimento do bem em favor da União uma vez que o bem é de terceiro de boa fé, e este não foi intimado sobre o teor das decisões daquela ação.
+Registra, ainda, que o réu Diego Neves Bonifácio, apelou da sentença, onde pugnou pela restituição do veículo, tendo sido decidido que o apelante não era parte legítima para pleitear a liberação.
+Pugnou, pois, pela concessão do benefício da Justiça gratuita; que seja concedida a imediata restituição do bem ao seu legítimo proprietário, isento de taxas e custos de remoção e estadia no pátio.
+ ..
+No presente caso, temos que o Juiz de Direito da 1ª Vara de Entorpecentes da Comarca da Capital, nos autos de Restituição de Bem Apreendido de nº 0808465-81.2020.8.15.2002, indeferiu o pedido de restituição, uma vez que havia interesse processual na apreensão do veículo acima referido, com fulcro no artigo 62 da Lei nº. 11.343/2006 e artigo 118 do Código de Processo Penal e nos autos da ação principal de nº 0004601-39.2018.8.15.2002, determinou o seu confisco.
+O impetrante alega que o veículo estava de posse de Diego Neves Bonifácio, pois este prestava serviços a empresa do promovente, que tem como atividade secundária transporte rodoviário coletivo de passageiros, que estava utilizando-o na realização de passeios turísticos. No entanto, apesar de ser terceiro de boa-fé, a magistrada atuante da 1ª Vara de Entorpecentes indeferiu o pedido de restituição.
+A ordem, no entanto, deve ser denegada.
+Sabe-se que é permitida a apreensão de quaisquer objetos que guardem relação com o fato criminoso sob apuração, pouco importando sua origem lícita ou ilícita. Além disso, a Constituição Federal no art. 243 e a Lei de Drogas no art. 63, preveem o perdimento de bens e valores utilizados na prática do crime de tráfico de drogas como efeito decorrente da condenação, sendo desnecessária a demonstração de habitualidade e reiteração no uso do bem em tráfico de drogas para que seja efetuado o confisco.
+ ..
+Em que pese às alegações do impetrante, de que o veículo não foi por ele utilizado na prática de qualquer conduta delitiva, sendo emprestado para atuar na realização de passeios turísticos, verifica-se que há sérios indícios de ligação entre o referido veículo e o crime de tráfico, que impede a restituição pretendida.
+Conforme se depreende das informações prestadas pela dita autoridade coatora, que indeferiu o pedido de restituição (id. 26705850), "Há nos autos indícios de prova de que o veículo é produto ou proveito do crime, sob a finalidade de sua manutenção pelo poder público ainda ser necessária, uma vez que no feito principal de nº 0004601-39.2018.8.15.2002, embora os ocupantes do veículo não se encontrassem com drogas nas vestes, mas, em revista realizada no interior do veículo, foi encontrada considerável quantidade de substância estupefaciente, positivada para "Cannabis Sativa Linneu", popularmente conhecida por "Maconha".
+Registre-se, que em sede de Mandado de Segurança as provas devem ser pré-constituídas, não cabendo dilação probatória.
+Posto isto, observa-se que o impetrante não demonstrou, a contento, que o bem em questão foi adquirido por meios lícitos, pois sequer foi juntado comprovação da data da compra do veículo, bem como do cadastro deste junto ao órgão competente, que regulamenta os veículos destinados a passeios turísticos.
+Ademais, verifica-se que não se comprovou a atual propriedade do carro, visto que no documento juntado aos autos (id. 26341043), não consta o ano do licenciamento do automóvel, ou qualquer outra data. Ressalta-se também, que o antigo proprietário, no referido documento, vem a ser Diego Neves Bonifácio, pessoa que estava na posse do veículo no dia do fato delituoso, e que veio a ser condenado pela prática do crime de tráfico de drogas, sucede ainda, que os entorpecentes apreendidos, foram encontrados no interior do carro, objeto de pedido de restituição.
+Destarte, à míngua da existência de direito líquido e certo capaz de ser tutelado na via estreita do mandado de segurança, a denegação da ordem é mesmo medida que se impõe.
+Neste panorama, fundamentaram as Instâncias Ordinárias que o recorrente não tem direito à restituição do referido automóvel porque o veículo foi apreendido sendo empregado no transporte de drogas e por não ter Rafael comprovado que é proprietário do bem.
+Deste modo, a apreensão do veículo observa o disposto no art. 243, da Constituição da República, e no art. 343, da Lei Antidrogas, não havendo direito líquido e certo a ser reparado.
+Confira-se:
+AGRAVO REGIMENTAL EM RECURSO EM MANDADO DE SEGURANÇA. DIREITO PENAL. APREENSÃO DE VEÍCULO AUTOMOTOR. PEDIDO DE RESTITUIÇÃO. SUPOSTA PROPRIEDADE DE TERCEIRO. AUSÊNCIA DE DEMONSTRAÇÃO DE DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. PARECER MINISTERIAL ADOTADO.
+1. (..).
+2. Nos termos da dominante jurisprudência deste Superior Tribunal, o cabimento do mandado de segurança está vinculado à existência de direito líquido e certo a ser tutelado, não podendo ser utilizado o remédio heroico para impugnar decisões judiciais das quais caibam recurso próprio, exceto quando evidenciada flagrante ilegalidade ou teratologia que se pretenda desconstituir (RMS n. 50.246/AP, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2018).
+3. A pretensão do ora agravante envolve, para seu julgamento, o revolvimento fático-probatório, ou seja, havendo dúvida fundada sobre a origem lícita do bem apreendido, não se vislumbra a existência de direito líquido e certo a ser garantido por meio do mandamus, pois a manutenção da medida tem como escopo evitar possível irreparabilidade do dano (AgRg no RMS n. 70.449/MG, Ministro Ribeiro Dantas, Quinta Turma, DJe 27/4/2023).
+4. A parte agravante não reuniu elementos suficientes para infirmar o decisum agravado, o que autoriza a sua manutenção.
+5. Agravo regimental improvido .
+(AgRg no RMS n. 70.884/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/8/2023, DJe de 25/8/2023.)
+RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL PENAL. APREENSÃO DE VEÍCULO AUTOMOTOR. RESTITUIÇÃO INDEVIDA.
+1. Nos termos do art. 118 do Código de Processo Penal, autoriza-se a apreensão dos instrumentos utilizados na consecução do delito e dos objetos que guardem relação com o processo, antes de transitar em julgado a sentença penal.
+2. Deve permanecer retido veículo automotor, por haver evidências de que era utilizado em outros delitos (foi apreendido com várias armas, munições, granadas, explosivos) e possibilidade de que sua aquisição venha a decorrer de proveito auferido pela prática de fatos criminosos.
+3. Recurso ordinário em mandado de segurança não provido.
+(RMS n. 21.294/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/10/2014, DJe de 3/11/2014.)
+Logo, o acórdão impugnado coaduna-se com a jurisprudência firmada por esta Corte Superior, não havendo nos autos a comprovação de direito líquido e certo do recorrente a se impor a reforma da decisão recorrida.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
