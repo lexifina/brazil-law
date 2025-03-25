@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O acórdão recorrido, no julgamento do agravo em execução, declarou a nulidade do reconhecimento de falta grave, porquanto não realizada prévia audiência de justificação para oitava pessoal do reeducando (fls. 89-94).
+Sobreveio recurso especial ministerial, interposto com fundamento no art. 105, inciso III, "a", da Constituição, para alegar negativa de vigência ao art. 118, § 2º, da Lei de Execução Penal (fls. 109-118).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 148-151).
+É o relatório. DECIDO.
+A controvérsia dos autos cinge-se a examinar a prescindibilidade da prévia realização de audiência de justificação para a oitava do apenado, quando instaurado procedimento administrativo disciplinar em que restou reconhecida a prática de falta grave.
+O Tribunal de Justiça assentou que "a existência de PAD acerca da falta grave não afasta a necessidade da realização da audiência de justificação, haja vista a independência das instâncias e a jurisdicionalização da execução penal" (fl. 91).
+Pois bem.
+O art. 118 da Lei de Execução Penal estipula:
+Art. 118. A execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado:
+I - praticar fato definido como crime doloso ou falta grave;
+II - sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime (artigo 111).
+O parágrafo segundo do dispositivo consolida a audiência de justificação, assegurando ao reeducando o direito de ser previamente ouvido pelo juízo da execução penal antes da regressão da execução da pena na hipótese de prática de fato definido como crime doloso ou falta grave.
+Por outro lado, deverá, em regra, ser instaurado procedimento administrativo disciplinar, no âmbito do estabelecimento penitenciário, a fim de se apurar a infração supostamente cometida pelo apenado, nos termos do art. 59 da LEP, com respeito ao devido processo legal, bem como às garantias do contraditório e da ampla defesa.
+Nessa linha, o Supremo Tribunal Federal, no julgamento do RE n. 972598, fixou o Tema n. 941 da Sistemática da Repercussão Geral, assentando que a audiência de justificação realizada na presença do defensor e de membro do Ministério Público afasta a necessidade de prévio Procedimento Administrativo Disciplinar, assim como supre eventual ausência ou insuficiência técnica no PAD instaurado para apurar falta grave cometida no curso do cumprimento da pena.
+Por outro lado, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido da desnecessidade de prévia audiência de justificação quando o reconhecimento da falta grave decorreu de regular processo administrativo disciplinar, em que assegurado o contraditório e a ampla defesa do reeducando (AgRg no HC n. 799.007/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/9/2023, DJe de 27/9/2023; AgRg no HC n. 790.497/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2023, DJe de 13/2/2023.).
+Na espécie, o recorrente argumenta que o procedimento administrativo disciplinar se desenvolveu regularmente, com a observância das garantias constitucionais. Assevera ser "incontroverso que foi realizado o competente procedimento administrativo disciplinar (SEEU, seq. 98.1), no qual foi assegurado ao condenado o contraditório e a ampla defesa, inclusive com a participação de defesa técnica" (fl. 116).
+Todavia, a assertiva ministerial não é dedutível do acórdão recorrido. Isto é, o acórdão não fornece elementos que assegurem que o processo administrativo disciplinar foi regularmente realizado, de acordo com os princípios do devido processo legal, do contraditório e da ampla defesa. Isso porque a matéria não foi debatida pelo Tribunal de origem, nem tampouco foram opostos embargos de declaração pelo Ministério Público, a fim de suscitar debate sobre a forma em que se deu o procedimento administrativo disciplinar.
+Tal circunstância revela a falta de prequestionamento da questão e atrai a aplicação da Súmula n. 211, STJ, bem como das Súmulas n. 282 e 356, STF.
+Além disso, o acolhimento do pleito recursal, quanto à prescindibilidade da prévia audiência de justificação na espécie, esbarra na Súmula n. 7, STJ, porquanto reclama o revolvimento de fatos e provas, o que não se admite na via do recurso especial (AgRg no AREsp n. 2.684.625/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/9/2024, DJe de 16/9/2024.).
+Ante o exposto, nos termos do art. 255, § 4º, inciso I, do RISTJ, não conheço o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
