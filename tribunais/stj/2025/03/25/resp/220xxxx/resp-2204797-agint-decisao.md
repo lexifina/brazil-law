@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MERCABENCO ADMNISTRADORA DE CONSORCIO LTDA. contra decisão monocrática de minha relatoria que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182/STJ (fls. 51-522).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 345):
+AÇÃO DECLARATÓRIA. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO DA AUTORA PARCIALMENTE PROVIDA.
+CONTRATO DE CONSÓRCIO. INEFICÁCIA DA PRORROGAÇÃO DO ENCERRAMENTO DO GRUPO EM RELAÇÃO À AUTORA. Por meio da sua empresa, o marido da autora firmou contrato de consórcio com a empresa ré. Diante do inadimplemento no pagamento das parcelas, houve a exclusão do grupo. E após o falecimento do consorciado, a autora requereu a devolução dos valores, sem a inclusão dos prazos de prorrogação do grupos decididos em assembleias extraordinárias. Sentença de improcedência. Recurso da autora. A dilação do prazo para encerramento do grupo para agosto de 2025, conforme constou nas atas das assembleias extraordinárias (fls. 210/213) não deve ser eficácia perante à autora, pois a colocaria em posição de extrema desvantagem (art. 51, IV do CDC), já que foi excluída do grupo e não podia sequer participar daquela deliberação. Além disso, não houve informação adequada no momento da contratação, violando-se a boa-fé contratual (art. 422 do CC) e também o direito à informação (artigo 6, inciso III do CDC).
+MULTA PENAL COMPENSATÓRIA. REJEIÇÃO A imposição da multa mostra-se abusiva, uma vez que não há prova nos autos de que a desistência da autora tenha causado prejuízos ao grupo consorciado ou à administradora do consórcio. Precedentes da Turma julgadora.
+JUROS E CORREÇÃO MONETÁRIA. Os juros de mora de 1% (um por cento) ao mês deverão ser contados após 30 dias da data do encerramento do grupo, sem as prorrogações, quando cabia à ré ter promovido a devolução dos valores à autora. No que se refere à correção monetária, a devolução dos valores deverá ocorrer com base no percentual amortizado do valor do bem vigente à data da restituição, nos termos do artigo 30, da Lei nº 11.795/08. Afasto a incidência de correção monetária. Ação parcialmente procedente em segundo grau.
+SENTENÇA REFORMADA. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do agravo interno, alega a agravante que não se aplica o óbice da Súmula n. 182/STJ, porquanto o agravo encontra-se adequadamente fundamentado.
+Sustenta, outrossim, que "não houve qualquer argumento genérico para impugnar a súmula 7 do STJ, muito pelo contrário, houve o detalhamento da matéria a ser discutida SEM QUALQUER MENÇÃO A DOCUMENTAÇÃO JUNTADA AOS AUTOS. Assim, requer-se que o presente agravo interno seja provido, a fim de que seja constatada a inexistência de impugnação genérica à súmula 7 do STJ, com o consequente conhecimento do agravo em recurso especial de fls. 465/488 e provimento ao recurso especial de fls. 370/400." (fl. 529).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contrarrazões (fls. 534-541)
+É, no essencial, o relatório.
+Após atenta análise dos autos, verifica-se que assiste razão à agravante quanto à não incidência da Súmula n. 182/STJ, tendo em vista que, nas razões do agravo de fls. 465-488, foi impugnado especificamente o fundamento da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal a quo.
+Ante o exposto, torno sem efeito a decisão de fls. 517-522 e julgo prejudicado o agravo interno.
+Determino a autuação do agravo como recurso especial, nos termos do art. 34, XVI, do RISTJ, para melhor exame da matéria, sem prejuízo de futuro reexame dos pressupostos de admissibilidade recursal.
+À Coordenadoria para as providências cabíveis.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182 DO STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO. AGRAVO INTERNO PREJUDICADO. CONVERSÃO DO AGRAVO EM RECURSO ESPECIAL.
