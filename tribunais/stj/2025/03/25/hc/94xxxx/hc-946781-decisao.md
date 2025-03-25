@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  LUAN BARBOSA DA SILVA  apontando  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  PERNAMBUCO (Apelação  Criminal n.  0000727-51.2020.8.17.1410).
+Os  autos  dão  conta  de  que  o  paciente  foi  condenado,  por  sentença  prolatada  em  20/12/2021,  à  pena  total de  4  anos  e 4 meses de  reclusão,  em  regime  inicial  semiaberto,  como incurso no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006 e no art. 180 do CP, pois,  "no dia 23.09.2020,  ..  policiais militares flagraram o denunciado LUAN BARBOSA DA SILVA, trazendo consigo 20 porções da substância popularmente conhecida por maconha, 05 gramas de maconha, 06 porções de cocaína e 01 aparelho celular, sem autorização e em desacordo com determinação legal e regulamentar, destinados ao tráfico ilícito de droga" (e-STJ  fls.  42/48).
+Em  10/4/2024,  o  Tribunal  de  origem  deu parcial provimento  à  apelação  defensiva, para reduzir as penas-base dos dois delitos ao mínimo legal, aplicar a causa de aumento da interestadualidade do tráfico de drogas à fração de 2/3, e alterar para 2/3 a redução da pena pelo reconhecimento da minorante do tráfico privilegiado. Assim, a pena total foi redimensionada para 3 anos, 9 meses e 10 dias de reclusão, em regime inicial aberto, e substituída por sanções restritivas de direitos (e-STJ fls. 21/39) .
+Em 31/7/2024, a Corte local rejeitou os embargos de declaração defensivos, nos termos do acórdão de e-STJ fls. 11/20, assim ementado:
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS INTERESTADUAL. RECEPTAÇÃO. ALEGAÇÃO DE ERRO MATERIAL NA DOSIMETRIA DA PENA. CORREÇÃO DE OMISSÃO. NÃO CONFIGURAÇÃO DE REFORMATIO IN PEJUS. JURISPRUDÊNCIA DO STJ. EMBARGOS CONHECIDOS E REJEITADOS.
+1. Os embargos de declaração têm função específica e delimitada pelo Código de Processo Penal, destinando-se ao saneamento de ambiguidade, obscuridade, contradição ou omissão, conforme disposto no art. 619 do CPP.
+2. No presente caso, a defesa alega erro material na aplicação da causa de aumento do tráfico interestadual, resultando em uma pena incorreta.
+3. O acórdão explanou detalhadamente a aplicação da causa de aumento prevista no art. 40, V, da Lei 11.343/06, justificando sua necessidade para a devida punição pelo delito cometido.
+4. Foi reconhecido no dispositivo da sentença do juiz de primeiro grau a condenação pelo tráfico interestadual, mas houve omissão na dosimetria. O voto corrigiu essa omissão sem representar aumento da sanção final, conforme entendimento do STJ, que permite a revisão dos fundamentos apresentados na dosimetria da pena, sem incorrer em reformatio in pejus, desde que a situação final do réu não seja agravada.
+5. A dosimetria foi fundamentada de acordo com os parâmetros legais e jurisprudenciais vigentes, não havendo elementos que justifiquem a alteração da decisão.
+6. Embargos de declaração conhecidos e, no mérito, rejeitados.
+No  presente  writ,  impetrado  em  18/9/2024,  a  defesa  sustenta  que  há  constrangimento  ilegal  na  dosimetria  da  pena  imposta  ao  paciente,  consistente  no aumento, à  fração de 2/3, pela majorante da interestadualidade do delito de tráfico de drogas, operado pelo Tribunal estadual em recurso de apelação exclusivo da defesa, mediante reformatio in pejus, tendo em vista que a sentença condenatória não aplicou tal causa de aumento prevista no art. 40, inciso V, da Lei n. 11.343/2006.
+Requer, inclusive liminarmente, que seja determinada, "na terceira fase da dosimetria, a exclusão do aumento na fração de 2/3 (dois terços) pela causa de aumento do inciso V, do art. 40, da Lei nº 11.343/2006" (e-STJ fl. 9).
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem, nos termos da seguinte ementa (e-STJ fl. 337):
+Direito Penal e Processual Penal. Habeas corpus. Tráfico de drogas e receptação. Aplicação, em recurso exclusivo da defesa, de causa de aumento de pena reconhecida na sentença mas não considerada no momento da dosimetria. Correção de erro material. Ausência de reforma em prejuízo.
+- Requer-se a denegação da ordem.
+É  o  relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No entanto, no caso, não há que se falar em flagrante ilegalidade apta a ensejar a superação do supracitado entendimento.
+No ponto, cumpre destacar que "a revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido" (HC n. 339.769/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2017, DJe de 2/10/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
