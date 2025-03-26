@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. ALEGADA INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO. PRETENSÃO ABSOLUTÓRIA. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A  tese  de  inversão do ônus da prova  efetivamente  não  foi  objeto  de  debate  pelo Tribunal de origem,  mesmo  após a provocação por meio de  embargos  de  declaração.  Assim,  inviável  o  conhecimento  da  matéria,  ante  a  ausência  do necessário  prequestionamento.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova aptos a manter a condenação do envolvido como autor do crime do art. 306 do CTB. Assim, rever os fundamentos utilizados pela Corte de origem, para decidir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo a Súmula 7/STJ.
+2. Agravo em recurso especial a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ADER APARECIDO DE ALMEIDA, contra decisão que negou seguimento ao recurso especial interposto, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fls. 592):
+EMENTA: APELAÇÃO CRIMINAL - PORTE ILEGAL DE ARMA DE FOGO E EMBRIAGUEZ AO VOLANTE - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEMONSTRADAS - SUFICIÊNCIA PROBATÓRIA - ESTADO DE EMBRIAGUEZ COMPROVADO PELA PROVA DOCUMENTAL E PELOS DEPOIMENTOS DAS TESTEMUNHAS - LIVRE CONVENCIMENTO MOTIVADO - CONDENAÇÃO MANTIDA - REDUÇÃO DAS PENAS-BASE - IMPOSSIBILIDADE -GRATUIDADE JUDICIÁRIA - MATÉRIA AFETA AO JUÍZO DA EXECUÇÃO. A segura prova testemunhal é suficiente para a manutenção da condenação, em conformidade com o sistema do livre convencimento motivado. Estando demonstrado pela prova documental, bem como pelos depoimentos das testemunhas, que o autor encontrava-se em evidente estado de embriaguez na condução de seu veículo, necessária se faz a sua condenação. Examinadas com acuidade as circunstâncias judiciais do art.59 do CP e fixadas penas com razoabilidade e proporcionalidade, dentro do poder discricionário do julgador, não há que se falar em redução das sanções. A condenação do vencido ao pagamento das custas decorre de expressa previsão legal (art. 804 do CPP), sendo que eventual impossibilidade de pagamento deverá ser analisada pelo juízo da execução, quando exigível o encargo.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 668 - 672).
+Nas razões do recurso especial, a defesa alega divergência jurisprudencial e negativa de vigência ao artigo 156 do Código de Processo Penal. Busca a absolvição, sustentando que houve uma inversão indevida do ônus da prova, uma vez que o recorrente foi condenado por não conseguir comprovar sua inocência.
+Apresentadas contrarrazões (e-STJ fls. 758 - 761), o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo.
+O Ministério Público Federal, nesta instância, opinou pelo não provimento do recurso (e-STJ fls. 703/707).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. ALEGADA INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO. PRETENSÃO ABSOLUTÓRIA. IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A  tese  de  inversão do ônus da prova  efetivamente  não  foi  objeto  de  debate  pelo Tribunal de origem,  mesmo  após a provocação por meio de  embargos  de  declaração.  Assim,  inviável  o  conhecimento  da  matéria,  ante  a  ausência  do necessário  prequestionamento.
+2. O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova aptos a manter a condenação do envolvido como autor do crime do art. 306 do CTB. Assim, rever os fundamentos utilizados pela Corte de origem, para decidir pela absolvição, por ausência de prova concreta para a condenação, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo a Súmula 7/STJ.
+2. Agravo em recurso especial a que se nega provimento.
+VOTO
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+No  caso,  verifica-se  que  a  tese  de  inversão do ônus da prova  efetivamente  não  foi  objeto  de  debate  pelo Tribunal de origem,  mesmo  após a provocação por meio de  embargos  de  declaração.  No  contexto,  caberia  à  parte  recorrente  apontar,  em  seu  recurso  especial,  violação  do  art.  619  do  Código  de  Processo  Penal,  o  que  não  se  verifica  no  caso.  Dessa  forma,  conforme  a orientação jurisprudencial desta Corte,  inviável  o  conhecimento  da  referida  matéria,  ante  a  ausência  de  prequestionamento,  a  teor  das  Súmulas  n.  211/STJ  e  n. 282/STF.
+Por oportuno, vale esclarecer que esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses suscitadas no recurso especial tenham sido efetivamente apreciadas pelo Tribunal de origem, o que não ocorreu no caso.
+De toda sorte, ainda que fosse possível superar o referido entendimento, verifica-se que o Tribunal de origem reputou o conjunto probatório hígido e suficiente para corroborar a condenação do recorrente pela prática de embriaguez ao volante, inviável, assim, entender de modo diverso, dada a necessidade de reexame de elementos fático-probatórios, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. DEPOIMENTO DOS POLICIAIS. PROVA SUFICIENTE PARA CONDENAÇÃO. TESE ABSOLUTÓRIA. SÚMULA 7/STJ. SUBSTITUIÇÃO DA PENA. REINCIDÊNCIA E CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. INVIABILIDADE. SUSPENSÃO DO DIREITO DE DIRIGIR. TEMPO DE DURAÇÃO APLICADO DE FORMA RAZOÁVEL E PROPORCIONAL. AGRAVO NÃO PROVIDO.
+1. A partir dos depoimentos dos policiais, a Corte Estadual concluiu que "o acusado se encontrava com sinais notórios de embriaguez, tais como: olhos avermelhados, agressividade considerada, hálito etílico, diálogo desconexo e fala arrastada" (e-STJ, fl. 258), restando devidamente caracterizado o crime.
+Incidência da Súmula 7/STJ.
+2. Embora este relator concorde com o argumento defensivo sobre a impossibilidade de a comprovação de qualquer elemento do crime repousar apenas no testemunho do policial, minha visão sobre o tema restou vencida no âmbito da Quinta Turma no julgamento do AREsp 1.936.393/RJ.
+3. Assim, ressalvo meu ponto de vista pessoal e sigo o entendimento firmado pelo colegiado no referido precedente, que se encontra em sintonia com a orientação adotada pelo Tribunal de origem ao se valer dos depoimentos dos policiais militares para condenar o réu.
+4. "A partir do advento da Lei 12.760/2012, que alterou a redação do art. 306 do Código de Trânsito Brasileiro, entende-se ser despicienda a submissão do acusado a teste de etilômetro, sendo admitida a comprovação da embriaguez por vídeo, testemunhos ou outros meios de prova admitidos em direito, observado o direito à contraprova" (AgRg no AREsp n. 2.189.576/RO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 20/6/2023, DJe de 23/6/2023).
+ .. .
+7. Agravo regimental não provido.
+(AgRg no AREsp n. 2.553.462/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/8/2024, DJe de 13/8/2024.)
+Além disso, de interesse frisar que é firme a jurisprudência desta Corte Superior no sentido de que não se configura inversão do ônus da prova quando a condenação do agente encontra respaldo nos elementos probatórios dos autos e a defesa não logra êxito em desconstituí-los.
+Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTORSÃO QUALIFICADA. INSUFICIÊNCIA DE PROVAS. NECESSIDADE DE REEXAME DE PROVAS. INVERSÃO DO ÔNUS. IMPOSSIBILIDADE. PALAVRA DA VÍTIMA. RELEVÂNCIA. RECONHECIMENTO DA ATENUANTE. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de que as provas produzidas são insuficientes para atestar a conduta criminosa, exigiria o reexame do conjunto fático-probatório dos autos, inviável na via do recurso especial, ante o óbice da Súmula n. 7/STJ.
+2. Ademais, "Inexiste inversão do ônus da prova quando a acusação produz arcabouço probatório suficiente à formação da certeza necessária ao juízo condenatório" (AgRg nos E Dcl no R Esp 1292124/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 14/9/2017, D Je 20/9/2017).
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AgRg no AR Esp 1681146/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 6/10/2020, D Je 15/10/2020).
+Ante o exposto, nego provimento ao agravo em recurso especial.
+É o meu voto.
