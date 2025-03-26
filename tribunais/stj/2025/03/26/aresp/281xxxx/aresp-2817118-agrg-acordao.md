@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. RÉU CONDENADO POR HOMICÍDIO DUPLAMENTE QUALIFICADO. ALEGAÇÃO DE DECISÃO CONTRÁRIA À PROVA DOS AUTOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO EM SEDE DE RECURSO ESPECIAL. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A desconstituição das conclusões alcançadas pela Corte a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, para abrigar a tese de que a decisão dos jurados foi manifestamente contrária à prova dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ. Precedentes" (AgRg no AREsp n. 2.059.620/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022).
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JOSE ANDERSON DA COSTA contra decisão monocrática da Presidência desta Corte (e-STJ fl. 735) que não conheceu do agravo em recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ assim ementado:
+"EMENTA: PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. ART. 121, §2º, II e IV, DO CÓDIGO PENAL BRASILEIRO. SENTENÇA CONDENATÓRIA. RECURSOS DEFENSIVOS.
+(..)
+RECURSO INTERPOSTO POR JOSÉ ANDERSON DA COSTA . 2.1. PEDIDO DE ANULAÇÃO DO JULGAMENTO E DE DECOTE DAS CIRCUNSTÂNCIAS QUALIFICADORAS. NÃO CONHECIMENTO . APELAÇÃO INTERPOSTA COM FULCRO NO ART. 593, INCISO I DO CPP. AUSÊNCIA DE INDICAÇÃO DO INCISO CORRETO E DA ALÍNEA CORRESPONDENTE QUANDO DA INTERPOSIÇÃO DO RECURSO. APELO CONTRA DECISÃO DO TRIBUNAL DO JÚRI QUE DEVE SE PAUTAR NO ART. 593, INCISO III, ALÍNEAS "A", "B", "C" E/OU "D", DO CPP. VÍCIO NÃO SANADO DENTRO DO QUINQUÍDIO LEGAL. LIMITAÇÃO DO EFEITO DEVOLUTIVO DO APELO AO FUNDAMENTO DE SUA INTERPOSIÇÃO. SÚMULA 713 DO STF. RAZÕES RECURSAIS APRESENTADAS EM SEGUNDA INSTÂNCIA, A DESTEMPO. IMPOSSIBILIDADE DE CONHECIMENTO DO APELO. PRECEDENTES. AUSÊNCIA DE PATENTE ILEGALIDADE A SER SANADA DE OFÍCIO POR ESTA CORTE DE JUSTIÇA. Recurso interposto por Everton Felipe Sousa de Araújo conhecido e provido, redimensionando a pena imposta para o patamar de 13 (treze) anos, 11 (onze) meses e 23 (vinte e três) dias de reclusão, a ser cumprida inicialmente em regime fechado. Recurso interposto por José Anderson da Costa não conhecido, mantendo- se incólume a sentença vergastada em todos os temos."
+A parte recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 742-749).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental (e-STJ fl. 778).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. RÉU CONDENADO POR HOMICÍDIO DUPLAMENTE QUALIFICADO. ALEGAÇÃO DE DECISÃO CONTRÁRIA À PROVA DOS AUTOS. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO EM SEDE DE RECURSO ESPECIAL. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A desconstituição das conclusões alcançadas pela Corte a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, para abrigar a tese de que a decisão dos jurados foi manifestamente contrária à prova dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ. Precedentes" (AgRg no AREsp n. 2.059.620/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022).
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não merece prosperar o recurso especial interposto pela parte agravante.
+Embora a apelação interposta pelo ora agravante não tenha sido conhecida na origem, o Tribunal a quo analisou sua irresignação nos seguintes termos (e-STJ fls. 637-638):
+"Por respeito ao debate, e sem prejuízo da fundamentação exarada acima, em análise detida das razões do recurso, vejo que a condenação de José Anderson, diferentemente do que sustenta a defesa, encontra-se amparada no acervo probante amealhado aos autos, especialmente no depoimento de Maria Ediciana Aguiar, irmã da vítima e testemunha ocular dos fatos, que, em Juízo, relatou com riqueza de detalhes toda a dinâmica fática, descrevendo que o recorrente José Anderson auxiliou o corréu Everton Felipe na empreitada criminosa, aguardando-o enquanto este executava o ofendido e, após, empreendendo fuga do local. Ressalte-se, ainda, que a citada testemunha afirmou, por mais de uma vez, que reconheceu, sem sombra de dúvidas, ambos os agentes como os autores do crime.
+Ademais, por ser matéria de ordem pública, procedi com a reanálise da dosimetria da pena, azo em que não verifiquei nenhuma patente ilegalidade na dosimetria a ser corrigida de ofício, uma vez que realizada em estrita obediência aos ditames legais e jurisprudenciais, devendo ser mantida nos mesmos moldes fixados na origem, em decorrência da conjuntura fática delineada nos autos.
+Em arremate, considerando a higidez dos referidos atos decisórios, inclusive no tocante à necessidade da constrição para a garantia da ordem pública, especialmente considerando a gravidade concreta do delito e aplicação da lei penal, mantenho negada ao recorrente a faculdade de recorrer em liberdade, tendo em vista que persistem os motivos que ensejaram a prisão preventiva. "
+Com efeito, "a desconstituição das conclusões alcançadas pela Corte a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, para abrigar a tese de que a decisão dos jurados foi manifestamente contrária à prova dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada em sede de recurso especial. Incidência da Súmula n. 7/STJ. Precedentes" (AgRg no AREsp n. 2.059.620/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022).
+Sendo assim, a pretensão de revisão do julgado esbarra inexoravelmente no óbice da Súmula 7 desta Corte.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
