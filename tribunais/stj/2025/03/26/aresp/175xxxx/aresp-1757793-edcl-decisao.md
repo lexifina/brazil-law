@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por AGOSTINHO SERÓDIO BOECHAT contra a decisão de minha relatoria de fls. 1.886/1.897
+A parte embargante alega que a decisão embargada é contraditória porque concluiu pela devolução dos autos à instância a quo para reexame de questões fático-probatórias, apesar de já ter reconhecido a atipicidade da conduta e a improcedência do pedido condenatório por improbidade administrativa com base no art. 11 da LIA.
+Enfatiza que a decisão também compreendeu que a mera inobservância de normas técnicas não satisfaz o requisito para condenação por improbidade administrativa, pois não há demonstração de intenção de alcançar resultado ilícito, mas, ainda assim, determinou o retorno dos autos para conformação.
+Requer que o recurso seja acolhido com efeitos infringentes.
+A parte adversa apresentou impugnação (fls. 1.915/1.920).
+É o relatório.
+Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Na decisão recorrida, a controvérsia foi solucionada nestes termos (fls. 1.895/1.896):
+As condutas imputadas aos réus não mais se inserem dentre aquelas previstas no art. 11 da LIA, razão por que a improcedência do pedido condenatório com base neste dispositivo legal é imperiosa.
+Por outro lado, o acórdão reconhece a presença de ato ímprobo tipificado no então vigente art. 10, XII, da Lei 8.429/1992 (permitir, facilitar ou concorrer para que terceiro se enriqueça ilicitamente), dispositivo que, à época, contentava-se com, no mínimo, a culpa para o reconhecimento da improbidade administrativa, razão por que o Supremo determinou que fossem, agora, avaliados os fatos devidamente comprovados sob os influxos da novel legislação.
+Na espécie, em que pese o aresto recorrido faça menção à presença de dolo (cogitando inclusive a sua figura eventual) e de má-fé, ao descrever as condutas dos réus limita-se a afirmar que os médicos deixaram de observar regulamentos quando da realização das perícias.
+A propósito, a afirmação contida à fl. 1.425 no sentido de que "a má-fé, no caso em questão, é ínsita ao ato que, praticado em total desconformidade com a lei, afronta aos princípios da Administração Pública, o que, por sua vez, importa em improbidade administrativa, restando incontroverso o dolo".
+É preciso enfatizar que uma tão só inobservância de normas técnicas, em que pese possa configurar uma ilegalidade, não satisfaz o requisito para a condenação por improbidade administrativa, impondo-se que esteja presente "a vontade livre e consciente de alcançar o resultado ilícito tipificado nos arts. 9º, 10 e 11 desta Lei, não bastando a voluntariedade do agente" (art. 1º, §2º, da LIA).
+Nessas hipóteses, entendo que há a necessidade de retorno dos autos ao Tribunal de origem para fins do disposto no art. 1.040, II, do CPC/2015, visto que, após o julgamento do recurso extraordinário, submetido ao regime de repercussão geral, "o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior".
+A respeito da questão apontada no recurso ora examinado, deixou-se clara a atipicidade da condenação com base no art. 11 da LIA.
+Enfatizou-se, ainda, haver menção no acórdão recorrido acerca da existência de má-fé dos réus, de dolo eventual e, ainda, quando da descrição das suas condutas, atos que poderiam bem se amoldar à existência de culpa, razão da necessidade de conformação na origem ao que reconhecido pelo STF quando do julgamento do Tema 1.199, em que se determinou a aplicação da Lei 14.230/2021 acerca da necessidade de elemento subjetivo doloso para a condenação com base no art. 10 da LIA .
+O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC).
+Rever as matérias alegadas no recurso ora examinado acarretaria rediscutir entendimento já manifestado e devidamente embasado. O recurso integrativo não se presta à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
