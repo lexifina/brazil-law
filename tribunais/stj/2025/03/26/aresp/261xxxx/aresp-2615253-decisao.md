@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FREDERICO MARTINS MOTTA e OUTRA contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ e na ausência de violação dos arts. 489 e 1.022 do CPC (fls. 425-429). Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em apelação nos autos de ação indenizatória por danos morais e materiais.
+O julgado foi assim ementado (fls. 343-352):
+AÇÃO DE INDENIZAÇÃO. TRANSPORTE AÉREO. CANCELAMENTO DE VÔO. FORTUITO EXTERNO. CONDIÇÕES CLIMÁTICAS ADVERSAS. FECHAMENTO DO AEROPORTO LOCAL. COMPROVAÇÃO NOS AUTOS. DEVER DE INDENIZAR. NÃO CONFIGURADO. RECURSO NÃO PROVIDO 1. Em casos de condições climáticas adversas, devidamente comprovadas, constituem fortuito externo e afastam a responsabilidade objetiva, não configurando o dever de indenizar pelos danos sofridos pelo consumidor. 2. Recurso não provido.
+Os embargos de declaração opostos foram decididos nesses termos (fls. 370-375):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL - REQUISITOS DO ART. 1.022 CPC. 1. Os embargos de declaração, ainda que para fins de prequestionamento, tem, necessariamente, de se adequar às hipóteses do art. 1.022, CPC. Ausente omissão, contradição, obscuridade ou erro material do julgado a ser suprido, não há como se acolher os embargos. 2. Embargos rejeitados.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 6º, VI, 14, 22, caput, parágrafo único, 39, todos da Lei n. 8.078/1990, pois não foi assegurada a justa indenização dos danos morais e materiais suportados pelos recorrentes, visto que o cancelamento do voo e a ausência de assistência material configuram conduta ilícita e nexo causal entre a conduta e o dano (fls. 380-390);
+b) 1.022, I e II, do CPC, porquanto não houve o esclarecimento de obscuridade indicada no acórdão que julgou a apelação, visto que as tabelas colacionadas pelos recorrentes atestam que apenas o voo objeto da demanda foi cancelado, demonstrando a fragilidade da narrativa de que o aeroporto foi fechado naquela data (fls. 392-395).
+Sustenta que o Tribunal de origem divergiu ao considerar as condições climáticas como fortuito externo, apto a excluir a responsabilidade da empresa aérea, enquanto o Tribunal de Justiça de São Paulo considera as condições climáticas como fortuito interno, inerente ao risco da atividade econômica exercida, conforme acórdão paradigma do TJSP no julgamento da Apelação Cível nº 1025930-28.2022.8.26.0003 (fls. 396-397).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, julgando-se totalmente procedentes os pedidos iniciais.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. (não há informações sobre a certidão de não interposição de contrarrazões).
+É o relatório. Decido.
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da alegada violação do art. 6º, VI, 14, 22, caput, parágrafo único, 39, todos da Lei n. 8.078/1990
+A jurisprudência firmada por esta Corte estabelece a responsabilidade civil objetiva do transportador, o qual deverá responder pelos danos causados às pessoas transportadas e suas bagagens, salvo a existência de alguma excludente de responsabilidade, como motivo de força maior, caso fortuito, culpa exclusiva da vítima ou de terceiro (REsp 1.354.369/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/5/2015, DJe de 25/5/2015).
+Veja-se: REsp n. 1.984.282/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2022, DJe de 22/11/2022; REsp n. 1.728.068/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2018, DJe de 8/6/2018.
+No caso, o Tribunal de Justiça, amparado no acervo fático-probatório dos autos, concluiu que restou demonstrada a situação climática imprevisível que impossibilitava a prestação de serviço aéreo (caso fortuito externo), o que afasta a responsabilidade objetiva pelo atraso no voo e a indenização por danos morais.
+Nesse contexto, a inversão de entendimento, para fins de se acolher a tese lançada pela agravante no sentido de afastar a ocorrência de fortuito externo, importa, inexoravelmente, no revolvimento do acervo fático-probatório dos autos, o que é vedado pelo enunciado n. 7 da Súmula desta Corte. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRANSPORTE AÉREO. CANCELAMENTO DE VOO. FORTUITO EXTERNO COMPROVADO. DANO MORAL NÃO VERIFICADO. IMPOSSIBILIDADE DE ALTERAÇÃO DO QUANTUM FIXADO. REVISÃO. ÓBICE DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, tampouco a interpretação de cláusulas contratuais, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem, com base nos elementos fáticos dos autos, concluiu que não foi comprovado ato ilícito da primeira recorrida e que a responsabilidade da segunda recorrida seria afastada pela ocorrência de força maior. Alterar tais conclusões demandaria reexame de prova, inviável em recurso especial.
+3. Agravo regimental a que se nega provimento. (AREsp n. 851.703/RJ, Relator Ministro Antonio Carlos Ferreira, DJe 2/5/2016.)
+III- Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 8% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
