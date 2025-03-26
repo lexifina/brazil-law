@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de CARLOS EDUARDO MARQUES FINOTO contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2048117-17.2025.8.26.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante delito, com posterior conversão em prisão preventiva, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/06.
+O Tribunal a quo indeferiu o processamento do habeas corpus, conforme a seguinte ementa:
+HABEAS CORPUS. PRISÃO PREVENTIVA. INDEFERIMENTO DO WRIT. 1. Pedido de habeas corpus contra decisão que decretou a prisão preventiva do paciente. Alegação de ausência de fundada suspeita para abordagem e busca pessoal, violação de domicílio e abuso de autoridade. Paciente primário, com residência fixa e sem indícios de envolvimento em atividades criminosas. 2. A questão em discussão consiste na insuficiência de documentos para comprovar as alegações de ilegalidade ou abuso de poder na prisão preventiva do paciente. 3. A inicial não está acompanhada de documentos indispensáveis à comprovação das alegações, inviabilizando a análise do writ. 4. A jurisprudência do Supremo Tribunal Federal exige que o habeas corpus seja instruído com provas pré-constituídas para demonstrar a ilegalidade da coação. 5. Indeferimento do processamento do habeas corpus.
+Tese de julgamento: 1. A impetração de habeas corpus sem prova pré-constituída não pode ser deferida. 2. É ônus do impetrante instruir adequadamente o writ com os documentos necessários.
+Legislação Citada: Código de Processo Penal, art. 660, § 2º; art. 663. Jurisprudência Citada: STF, Habeas Corpus, não conhecimento por instrução deficiente. (e-STJ, fl 129)
+Neste writ , sustenta a impetrante, em síntese, constragimento ilegal a ser apreciado, devendo ser superada a Súmula n. 691 do STF. Alega que não existem fundamentos para a manutenção da prisão preventiva do paciente.
+Requer, assim, liminarmente e no mérito, a revogação da custódia cautelar para que o réu possa responder a ação penal em liberdade ou mediante a aplicação de medidas cautelares.
+É o relatório.
+Decido.
+O mandamus não pode ser examinado.
+A tese de ausência de motivação na prisão cautelar não foi examinada pelo Tribunal de origem, como se observa dos seguintes trechos:
+"Nota-se que a inicial não está acompanhada de documentos indispensáveis à comprovação das alegações que nela contém, sendo que a estreita via do remédio heroico não comporta dilação probatória, de modo que, no momento da impetração, o writ deve estar suficientemente instruído com as provas pré-constituídas, necessárias à demonstração da ilegalidade ou abuso de poder supostamente praticado pela autoridade apontada como coatora.
+Não se juntou, à guisa de exemplo, boletim de ocorrência, depoimento de eventuais testemunhas, interrogatório, auto de apreensão e laudos periciais.
+ ..
+Destarte, por não se apresentar a petição inicial desta ação constitucional devidamente instruída com os documentos minimamente necessários à pronta demonstração do alegado constrangimento, a solução mais adequada e consentânea com o caso dos autos repousa em indeferir-se o processamento do presente mandamus.
+Presente a hipótese do artigo 663 do Código de Processo Penal, deixa-se de requisitar informações e de colher a manifestação da Procuradoria Geral de Justiça.
+Ante o exposto, indefere-se o processamento da ação de habeas corpus, em consonância com a regra do artigo 248 do Regimento Interno" (e-STJ, fls. 130-132)
+Portanto, não é possível a este Superior Tribunal de Justiça substituir a Corte de origem, o que implicaria em indevida supressão de instância, na apreciação da matéria.
+Vejamos a jurisprudência sobre o tema:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. MATÉRIAS NÃO ANALISADAS PELA CORTE DE ORIGEM - SUPRESSÃO DE INSTÂNCIA. ASSOCIAÇÃO PARA O TRÁFICO - ESTABILIADE E PERMANÊNCIA - REEXAME D PROVAS. TRÁFICO PRIVILEGIADO - NÃO PREENCHIMENTO DOS REQUISITOS. SÚMULA 231 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+2. Para se desconstituir a estabilidade e permanência destacada pela Corte local, quando da análise da caracterização do crime de associação para o tráfico, seria necessário reexame aprofundado do conjunto probatório produzido, procedimento vedado pelos estreitos limites da presente via.
+3. Mantida a condenação pelo crime previsto no art. 35, caput, da Lei n. 11.343/06, fica obstado o reconhecimento do tráfico privilegiado.
+4. O acórdão do Tribunal local acompanha a orientação da Súmula n. 231/STJ, no sentido de que a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+5. Agravo regimental não provido (AgRg no HC n. 913.671/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. EXCESSO DE PRAZO QUANTO À PROLAÇÃO DA SENTENÇA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. FUNDAMENTOS DA PRISÃO. POSIÇÃO DE LIDERANÇA NA ORGANIZAÇÃO CRIMINOSA. FUGA DO DISTRITO DA CULPA. VALIDADE. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegação de excesso de prazo quanto à prolação da sentença não foi debatida no acórdão recorrido e não pode ser analisada diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado, desde que não assuma natureza de antecipação da pena, e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315, ambos do CPP).
+3. A necessidade de conter a atuação de organização criminosa, mais especificamente de seus líderes, justifica a prisão preventiva sob a perspectiva de resguardar a ordem pública. Precedentes.
+4. "A fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal, bem como justifica a contemporaneidade da medida em apreço" (AgRg no HC n. 914.054/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+5. No caso, o pedido de extensão dos efeitos da decisão que revogou a prisão preventiva dos corréus foi corretamente indeferido, pois em situação diferente deles, os ora recorrentes supostamente integram organização criminosa voltada para o tráfico na condição de líderes, o que demonstra a gravidade concreta da conduta apurada e a necessidade de se interromper a atuação do grupo criminoso. Ademais, milita em desfavor do acusado Celso o fato de ele estar foragido.
+6. Embora consideradas as condições pessoais dos réus, as apontadas circunstâncias dos fatos não indicam ser adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282, c/c o art. 319 do CPP).
+7. Agravo regimental não provido. (AgRg no RHC n. 205.388/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
