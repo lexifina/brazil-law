@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. PRISÃO PREVENTIVA. GENITORA DE CRIANÇA MENOR DE 12 ANOS. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONAL A JUSTIFICAR O INDEFERIMENTO DO PEDIDO. COMERCIALIZAÇÃO E ARMAZENAMENTO DE DROGAS NA RESIDÊNCIA DA PACIENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de Ana Clara de Oliveira Lopes, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL (HC n. 1400064-44.2025.8.12.0000).
+Narram os autos que a paciente está presa preventivamente em razão da suposta prática do crime de tráfico de drogas, mas possui filho com 4 anos de idade, motivo pelo qual faz jus à substituição da prisão preventiva pela prisão domiciliar.
+Sustenta, ainda, que a paciente é a única responsável pelos cuidados do menor, bem como que o pai da criança é trabalhador rural e está impedido de trabalhar ante a necessidade de cuidar desta (fl. 5).
+Além disso, afirma que a suposta conduta imputada à paciente não foi realizada com emprego de violência ou grave ameaça e tampouco em desfavor do menor.
+Argumenta que a solução adotada configuraria desrespeito ao entendimento estabelecido pelo Supremo Tribunal Federal no julgamento do HC n. 143.641/SP.
+Aduz que a paciente possui predicados pessoais favoráveis (primariedade e endereço fixo) e que não foi comprovada a condição perniciosa à menor no lar quando em companhia da mãe, apontando que a apreensão de entorpecentes no interior da residência não constitui motivação válida para denegar a prisão domiciliar.
+Requer, assim, a concessão da prisão domiciliar, conforme previsão do art. 318, V, do Código de Processo Penal.
+Indeferida a liminar (fls. 42/43), prestadas as informações de praxe (fls. 47/59 e 60/64), o Ministério Público Federal opinou pela denegação da ordem (fls. 69/76).
+É o relatório.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. PRISÃO PREVENTIVA. GENITORA DE CRIANÇA MENOR DE 12 ANOS. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONAL A JUSTIFICAR O INDEFERIMENTO DO PEDIDO. COMERCIALIZAÇÃO E ARMAZENAMENTO DE DROGAS NA RESIDÊNCIA DA PACIENTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+VOTO
+De início, verifica-se que a impetração não prospera, pois, segundo o entendimento desta Corte Superior, o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício (AgRg no HC n. 779.155/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/2/2023).
+Afora isso, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado, porquanto, conforme jurisprudência consolidada do STJ, a concessão de prisão domiciliar à mãe de criança menor de 12 anos não é automática e deve ser analisada à luz do caso concreto. Quando há evidências de que o ambiente doméstico foi utilizado para a prática criminosa, a prisão domiciliar não pode ser deferida, pois tal medida exporia ainda mais a criança a riscos (HC n. 838.754/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 29/10/2024).
+No presente caso, apesar de a paciente ser genitora e ter sob sua guarda uma criança menor de doze anos de idade, há a constatação de situação excepcional capaz de justificar a manutenção da prisão preventiva, qual seja, o fato de que ela supostamente estava comercializando e armazenando drogas dentro da própria residência (mais de 4 kg de maconha e 128 g de pasta de cocaína - fls. 27/28), associada a seu irmão, o que demonstra que o menor estava submetido a ambiente altamente nocivo.
+Extrai-se do acórdão impugnado que (fl. 15):
+  Na hipótese dos autos, a paciente é genitora de 5 filhos menores de idade, e declarou que um deles estava sob sua guarda, cuidados e convivia consigo e seu companheiro no local em que foi presa. Entretanto, as circunstâncias do caso concreto traduzem excepcionalidade à norma supramencionada. Relevante destacar que a paciente foi presa na posse entorpecentes e, a princípio, armazenava e comercializava drogas em sua residência, o que demonstra excepcional gravidade concreta do delito a afastar a possibilidade da conversão da prisão preventiva em domiciliar. Ademais, a convivência perniciosa a que a criança poderia ser submetida desautoriza a custódia domiciliar  .. .
+Observa-se, portanto, que a decisão impugnada está em conformidade à jurisprudência desta Corte, no sentido de que o caso aqui retratado trata de hipótese excepcional que justifica o indeferimento da prisão domiciliar, pela necessidade da custódia preventiva para garantir a ordem pública, tendo em vista a utilização da residência da agravante para as práticas criminosas. Jurisprudência do STJ (AgRg no HC n. 841.705/RN, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 15/12/2023 - grifo nosso).
+Ante o exposto, denego a ordem de habeas corpus.
