@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS à decisão de fls. 1263/1264, que não conheceu do recurso.
+Sustenta a parte embargante:
+Nobre Ministro, conforme pode se observar abaixo, a decisão que inadmitiu o Recuso Especial fora disponibilizada em 14/03/2024. Assim, conforme preconiza o artigo 1.070 do Código de Processo Civil, esta Seguradora embargante teria 15 dias para interpor o Agravo Interno:
+ ..
+Neste norte, conforme o artigo mencionado, o prazo para interposição do recurso findaria tão somente em 09/04/2024 (terça-feira), tendo em vista feriados de Semana Santa - 27 a 31 de março previstos na Portaria STJ/GP n. 2 de 4 de janeiro de 2024, e igualmente na legislação (LEI Nº 5.010, DE 30 DE MAIO DE 1966), e Feriado Nacional de Sexta-Feira Santa, em 29/03, com base na LEI Nº 9.093, DE 12 DE SETEMBRO DE 1995.
+Destarte, apesar do entendimento de que o recurso seria intempestivo, alegando a data do protocolo como tendo sido realizada apenas em 10/04/2024, conforme se pode observar nos autos o recurso em comento foi interposto no prazo legal, mais especificamente em 02/04/2024, vejamos chancela do protocolo devidamente realizado:
+ ..
+Com bastante surpresa, entretanto buscando compreender o entendimento deste Ilustre Ministro, fora observado pela ora embargante que igualmente consta, de fato, outra chancela no documento, datada de 10/04/2024, a qual corresponde a data da juntada do documento nos autos uma vez que o protocolo do recurso fora realizado através do sistema de protocolo integrado, o que esclarece a existência das duas sinalizações no referido recurso.
+A realização de protocolo integrado encontra previsão legal, devendo ser considerada a data da realização do mesmo e não da efetiva juntada nos autos, como no caso em comento, este é o entendimento pacificado do Tribunal de origem (TJSP):
+ ..
+Destacamos ainda que, conforme Capítulo IX dos Provimentos Nºs 50/1989 e 30/2013 da Corregedoria Geral da Justiça do Estado de São Paulo, há demonstração do cabimento da utilização do serviço de protocolo integrado para o TJSP, assim como esclarecido sobre a efetuação das duas chancelas, como no presente caso. Vejamos:
+ ..
+Portanto, percebe-se que o TJSP seguiu conforme previsto na normativa acima, resultando no equívoco ora demonstrado, quando da intepretação das duas chancelas por este Ministro.
+ ..
+Em complemento ao exposto, a Cia. apresenta também a sua CÓPIA física do protocolo integrado realizado, que juntamos abaixo, destacando que nesta inexiste a segunda chancela (de 10/04/2024), visto que a mesma é realizada pelo Tribunal quando do recebimento do petitório:
+ ..
+Diante de todo o exposto, não há o que falar da intempestividade do recurso, visto que o mesmo foi protocolado em 02/04/2024, como demonstrado, portanto, dentro do prazo legal de 15 dias, tratando-se de mero erro material da decisão ora embargada (fls. 1269/1273).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, cabe ressaltar que na petição do Agravo em Recurso Especial há apenas um carimbo legível à fl. 1230 atestando que o protocolo do recurso ocorreu em 10.04.2024. Ou seja, não há documento do Tribunal a quo certificando o alegado pela parte.
+Cumpre esclarecer que o Superior Tribunal de Justiça pacificou o entendimento de que, "é dever da parte, constatada a ilegibilidade do carimbo de protocolo, providenciar certidão da secretaria de protocolo do Tribunal de origem para possibilitar a verificação da tempestividade recursal" (AgInt no AREsp 1555513/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17.6.2020.), o que não ocorreu no caso destes autos.
+Outrossim, conforme jurisprudência assente desta Corte, "a mera alegação de erro de digitalização sem a certidão comprobatória oriunda do Tribunal de origem não é apta a afastar o não conhecimento do recurso por falha em sua instrução". (AgInt no AREsp 1449432/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12.5.2020.)
+Ademais, está pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+É certo que o feriado nacional de 29.3.2024 não precisa ser comprovado. Porém, os dias 27.3.2024 e 28.3.2024 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC (redação anterior à Lei n. 14.939/2024).
+Observe ainda que, nos termos da jurisprudência desta Corte, "a segunda-feira de Carnaval, a quarta-feira de cinzas, os dias da Semana Santa que antecedem a Sexta-Feira da Paixão, o dia de Corpus Christi e o do servidor público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt no AREsp n. 2.495.948/PE, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 2.5.2024).
+Ressalte-se que em observância ao princípio do tempus regit actum, o entendimento da Lei n. 14.939/2024 só será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Além disso, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o Agravo e o Recurso Especial interpostos são endereçados ao Presidente do Tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local.
+Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 14.5.2020 e o AgInt no AREsp 1514470/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5.12.2019.
+N o mais, as disposições da Lei n. 5.010/66, usada pelo ora embargante como fundamento para justificar a suspensão do expediente não o socorrem, porquanto a referida lei somente diz respeito à Justiça Federal e aos Tribunais Superiores, não se aplicando as suas disposições aos Tribunais de justiça estaduais. (AgInt no AREsp 1576616/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 26.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
