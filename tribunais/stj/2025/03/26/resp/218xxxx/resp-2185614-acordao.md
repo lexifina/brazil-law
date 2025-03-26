@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Sebastião Reis Júnior.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+Direito processual penal. Recurso especial. Execução penal. Livramento condicional. VIOLAÇÃO DO ART. 619 DO CPP. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 83 DO CP E 131 DA LEP. AFERIÇÃO DO Requisito subjetivo CALCADA NO HISTÓRICO PRISIONAL, LEGALIDADE. TEMA N. 1.161/STJ. Recurso PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra os acórdãos do Tribunal de Justiça do Tocantins que reformaram decisão concessiva de livramento condicional ante a ausência de preenchimento do requisito subjetivo.
+2. O Tribunal de origem considerou o histórico prisional do recorrente, incluindo a prática de novo crime e violações durante o regime semiaberto, para indeferir o benefício.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que indeferiu o livramento condicional por comportamento insatisfatório durante a execução da pena, considerando todo o histórico prisional, está em conformidade com o art. 83 do Código Penal e a jurisprudência do STJ.
+4. Outra questão é a alegada violação do art. 619 do CPP, referente à suposta omissão do Tribunal de origem em enfrentar questões levantadas nos embargos de declaração.
+III. Razões de decidir
+5. A fundamentação do recurso especial - no tópico em que foi alegada violação do art. 619 do CPP - foi considerada deficiente, pois o recorrente não indicou, de forma clara e específica, o vício no provimento jurisdicional atacado, incidindo a Súmula 284/STF.
+6. Ainda que fosse possível superar o vício de fundamentação do reclamo, verifica-se que o Tribunal de origem não foi omisso, pois apresentou fundamentação suficiente para manter a decisão que indeferiu o livramento condicional, considerando o histórico prisional do recorrente.
+7. A jurisprudência do STJ, conforme o Tema 1.161, permite a consideração de todo o histórico prisional para a valoração do requisito subjetivo para concessão do livramento condicional.
+IV. Dispositivo e tese
+8. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+Tese de julgamento: "1. A fundamentação deficiente do recurso especial impede o seu conhecimento (Súmula 284/STF). 2. A consideração de todo o histórico prisional é válida para a valoração do requisito subjetivo para concessão do livramento condicional, conforme a jurisprudência do STJ".
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 83; LEP, art. 131.
+Jurisprudência relevante citada: STJ, REsp 1.970.217/MG, Tema 1161; AgRg no HC 612.296/MG, Rel. Min. Laurita Vaz, Sexta Turma, DJe 26/10/2020; AgRg no HC 624.403/RS, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/12/2020.
+RELATÓRIO
+Trata-se de recurso especial interposto por Nelmarque Teixeira das Neves, fundado no art. 105, III, a, da Constituição Federal, contra os acórdãos proferidos pelo Tribunal de Justiça do Tocantins no julgamento do Agravo de Execução Penal n. 0009689-55.2024.8.27.2700/TO e dos Embargos de Declaração no Agravo de Execução Penal n. 0009689-55.2024.8.27.2700/TO, assim ementados (fls. 51 e 113):
+EMENTA: PENAL. PROCESSUAL PENAL. EXECUÇÃO PENAL. AGRAVO DE EXECUÇÃO PENAL. IRRESIGNAÇÃO MINISTERIAL. REFORMA DA DECISÃO QUE CONCEDEU LIVRAMENTO CONDICIONAL. POSSIBILIDADE. AUSÊNCIA DE REQUISITO SUBJETIVO. COMPORTAMENTO INSATISFATÓRIO DURANTE A EXECUÇÃO DA PENA. ARTIGO 83, INCISO III DO CÓDIGO PENAL. RECURSO CONHECIDO E PROVIDO.
+1 - A questão em análise cinge-se à possibilidade de concessão do livramento condicional ao reeducando, ora agravado, mediante o exame do preenchimento ou não do requisito subjetivo previsto em lei.
+2 - Na análise dos autos, verifica-se que o reeducando, ora agravante, não demonstrou comportamento satisfatório durante a execução da pena, tendo praticado novo crime quando cumpria pena em regime semiaberto, descumprindo assim, a condições impostas no cumprimento da mesma.
+3 - O STJ - em recurso repetitivo vinculante (Tema 1161)-, já unificou o entendimento no sentido de que a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4 - Recurso conhecido e provido.
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO DE EXECUÇÃO PENAL. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DE VÍCIOS COMBATÍVEIS NA ESTREITA VIA RECURSAL. INTENTO DE REDISCUSSÃO DO JULGADO. ACLARATÓRIO CONHECIDO E IMPROVIDO. ACÓRDÃO MANTIDO.
+1. O recurso de embargos de declaração tem efeito vinculado e restrito, encontrando abrigo no artigo 619 do CPP, tendo por finalidade precípua a integração ou modificação do julgado omisso, contraditório, obscuro ou que contenha erro material, não se prestando, evidentemente, para rediscussão de matérias.
+2. Hipótese em que o acórdão enfrentou toda a matéria devolvida ao tribunal, observando-se as normas regentes, não havendo omissão a ser sanada.
+3. Os embargos de declaração não constituem meio hábil para o fim que se propõe o recorrente, qual seja, "corrigir" os fundamentos da decisão, alterando-se o resultado do julgamento.
+4. Aclaratório conhecido e improvido. Acórdão mantido.
+Nas razões, aponta violação do art. 619 do Código de Processo Penal, bem como dos arts. 83 do Código Penal e 131 da Lei de Execução Penal (fls. 123/137).
+Contrarrazões juntadas às fls. 142/150, o recurso especial foi admitido na origem (fls. 156/158).
+O Ministério Público Federal opina pelo provimento da insurgência, em parecer assim ementado (fl. 165):
+Processo penal. R Esp. Execução penal. Pleito de concessão de livramento condicional. 1. A concessão do livramento condicional exige que o apenado possua comportamento satisfatório durante toda a execução da pena, e não apenas nos últimos doze meses de cumprimento, nos termos da alínea "a" do inciso III do artigo 83 da LEP. Na espécie, o Tribunal a quo concluiu que o recorrente possui um histórico prisional conturbado, de modo que não cumpre o requisito subjetivo para a concessão de livramento condicional, na linha do entendimento do STJ e da tese fixada no Tema 1161. Incidência do óbice do enunciado 83 da Súmula do STJ. 2. Pelo desprovimento do recurso especial.
+É o relatório.
+EMENTA
+Direito processual penal. Recurso especial. Execução penal. Livramento condicional. VIOLAÇÃO DO ART. 619 DO CPP. INADMISSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 83 DO CP E 131 DA LEP. AFERIÇÃO DO Requisito subjetivo CALCADA NO HISTÓRICO PRISIONAL, LEGALIDADE. TEMA N. 1.161/STJ. Recurso PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+I. Caso em exame
+1. Recurso especial interposto contra os acórdãos do Tribunal de Justiça do Tocantins que reformaram decisão concessiva de livramento condicional ante a ausência de preenchimento do requisito subjetivo.
+2. O Tribunal de origem considerou o histórico prisional do recorrente, incluindo a prática de novo crime e violações durante o regime semiaberto, para indeferir o benefício.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a decisão que indeferiu o livramento condicional por comportamento insatisfatório durante a execução da pena, considerando todo o histórico prisional, está em conformidade com o art. 83 do Código Penal e a jurisprudência do STJ.
+4. Outra questão é a alegada violação do art. 619 do CPP, referente à suposta omissão do Tribunal de origem em enfrentar questões levantadas nos embargos de declaração.
+III. Razões de decidir
+5. A fundamentação do recurso especial - no tópico em que foi alegada violação do art. 619 do CPP - foi considerada deficiente, pois o recorrente não indicou, de forma clara e específica, o vício no provimento jurisdicional atacado, incidindo a Súmula 284/STF.
+6. Ainda que fosse possível superar o vício de fundamentação do reclamo, verifica-se que o Tribunal de origem não foi omisso, pois apresentou fundamentação suficiente para manter a decisão que indeferiu o livramento condicional, considerando o histórico prisional do recorrente.
+7. A jurisprudência do STJ, conforme o Tema 1.161, permite a consideração de todo o histórico prisional para a valoração do requisito subjetivo para concessão do livramento condicional.
+IV. Dispositivo e tese
+8. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+Tese de julgamento: "1. A fundamentação deficiente do recurso especial impede o seu conhecimento (Súmula 284/STF). 2. A consideração de todo o histórico prisional é válida para a valoração do requisito subjetivo para concessão do livramento condicional, conforme a jurisprudência do STJ".
+Dispositivos relevantes citados: CPP, art. 619; CP, art. 83; LEP, art. 131.
+Jurisprudência relevante citada: STJ, REsp 1.970.217/MG, Tema 1161; AgRg no HC 612.296/MG, Rel. Min. Laurita Vaz, Sexta Turma, DJe 26/10/2020; AgRg no HC 624.403/RS, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/12/2020.
+VOTO
+No que se refere à suposta violação do art. 619 do CPP, o recurso especial padece de fundamentação deficiente, ante a ausência de indicação, clara e específica, do tópico tido como objeto de omissão reiterada na Corte de origem.
+Veja-se que, ao apontar violação da norma processual em comento, o recorrente se limitou a transcrever o que foi alegado nos aclaratórios opostos na origem, alegando que a omissão ali apontada não foi extirpada (fl. 129):
+ ..
+Nos termos do art. 619 do Código de Processo Penal CPP, é cabível a oposição de embargos de declaração quando a decisão judicial incidir em omissão, obscuridade, contradição ou erro material, não se constituindo em crítica ao julgador, mas em necessário melhoramento da prestação jurisdicional.
+A omissão relatada foi suscitada perante o Tribunal de origem, onde o recorrente apontou :
+"Nas razões dos embargos declaratórios4, a defesa assevera que a Corte tocantinense foi omissa no enfrentamento da questão, pois não observou que o apenado já cumpriu mais de 55% (cinquenta e cinco por cento) da sanção total, além de não ter apresentado nenhum incidente desfavorável após a concessão da benesse.
+Reitera que a última falta grave aconteceu no dia 29/11/2017 e, em que pese o Tema Repetitivo 1161/STJ, a existência de faltas disciplinares "muito antigas e já reabilitadas não constituem fundamentação idônea a justificar o indeferimento de benefícios no âmbito da execução pena" (sic).
+Sustenta não ser razoável a utilização de fatos muito antigos para justificar o indeferimento do benefício de livramento condicional, pois a Constituição Federal veda punições de caráter perpétuo.
+Pleiteia sejam acolhidos os embargos, para que seja reconhecido o direito do embargante a continuar o cumprimento da pena em livramento condicional, pois preenchidos os requisitos objetivos e subjetivos."
+Contudo, de forma genérica, sem enfrentamento da matéria omissa, a Egrégia 2ª Câmara Criminal do Tribunal de Justiça do Estado do Tocantins decidiu, por unanimidade, NEGAR PROVIMENTO aos Embargos de Declaração.
+A omissão apontada não foi apreciada pelo Tribunal de origem, razão pela qual requer o reconhecimento da violação ao art. 619 do Código de Processo Penal.
+ ..
+Tal fundamentação, no entanto, revela-se deficiente, pois se afigura imprescindível a indicação clara e exata de qual vício no provimento jurisdicional atacado não foi suprimido a contento:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. VÍCIO DE FUNDAMENTAÇÃO DO ACÓRDÃO APELATÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA N. 284/STF. INCIDÊNCIA. ABSOLVIÇÃO. INSUFICIÊNCIA PROBATÓRIA. REVERSÃO DO JULGADO. REVOLVIMENTO PROBATÓRIO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. ALTERAÇÃO DE FRAÇÃO APLICADA. 1/6 (UM SEXTO) SOBRE A PENA MÍNIMA. 1/8 (UM OITAVO) SOBRE A MÉDIA DOS EXTREMOS. ESCOLHA PELO JULGADOR. DISCRICIONARIEDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A análise das alegadas violações dos arts. 619 do Código de Processo Penal, 1.022, incisos I e II, parágrafo único, inciso II, c/c 489, § 1º, incisos IV e VI, ambos do Código de Processo Civil demanda fundamentação específica. Não obste o Parquet alegue carente de fundamentação o acórdão apelatório, não indicou quais pontos do acórdão recorrido estariam eivados pelos vícios da omissão, ambiguidade, obscuridade ou contradição, bem como não esclareceu, de forma concreta, a relevância da análise dos eventuais vícios para o correto deslinde da controvérsia, motivo pelo qual incide o comando da Súmula n. 284/STF. Precedentes.
+2. O Tribunal de Apelação, soberano na análise dos elementos de convicção, concluiu que o acervo probatório era insuficiente para relacionar o acusado Relton com a droga apreendida no imóvel em que se encontrava, não havendo demonstração de que tenha incorrido em quaisquer dos núcleos verbais do art. 33, caput, da Lei Antidrogas.
+Para dissentir da conclusão a que chegou à instância ordinária, de modo a vislumbrar elementos suficientes para sua condenação, seria necessário profundo reexame probatório, juízo que encontra óbice na Súmula n. 7/STJ.
+3. Embora não exista direito subjetivo do acusado ou do sujeito-acusação a aplicação de determinada fração de acréscimo da pena-base pela valoração de cada uma das vetoriais do art. 59 do Código Penal, a jurisprudência desta Corte Superior reputa como razoáveis tanto a fração de 1/6 (um sexto) sobre a pena mínima, ou seja, o coeficiente aplicado na decisão ora agravada, como aquela pretendida pelo Ministério Público nas razões deste agravo regimental, vale dizer, 1/8 (um oitavo) sobre a média dos extremos previstos para o tipo. Assim, tendo-se optado por uma das frações tidas, a princípio, como proporcionais para o recrudescimento da pena basilar, a reforma do julgado, além de não promover alteração significativa da pena definitiva, avilta a discricionaridade do julgador na fixação da pena adequada.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 2.273.777/MG, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 18/12/2024, DJEN 23/12/2024 - grifo nosso).
+Logo, é de rigor a incidência da Súmula 284/STF nesse tópico.
+Ainda que fosse possível ultrapassar o vício acima circunstanciado, não diviso nenhuma omissão no provimento jurisdicional exarado em segundo grau de jurisdição, pois o Tribunal a quo lançou fundamentação suficiente para reformar a decisão concessiva de livramento condicional.
+Rememoro que, a teor da jurisprudência desta Corte, os embargos declaratórios não se prestam para forçar o ingresso na instância extraordinária se não houver omissão a ser suprida no acórdão, nem fica o juiz obrigado a responder a todas as alegações das partes quando já encontrou motivo suficiente para fundar a decisão (AgRg no Ag n. 372.041/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 4/2/2002), de forma que não há falar em negativa de prestação jurisdicional apenas porque o Tribunal local não acatou a pretensão deduzida pela parte (AgRg no REsp n. 1.220.895/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 10/9/2013).
+Na realidade, ao apontar negativa de vigência do art. 619 do Código de Processo Penal, busca a defesa o rejulgamento da causa, providência incompatível com a via estreita do recurso integrativo. Veja-se: AgRg no REsp n. 1.356.603/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/6/2014.
+De outra parte, no que se refere à suposta violação dos arts. 83 do Código Penal e 131 da Lei de Execução Penal, a insurgência também não merece acolhida.
+Ao julgar o Tema n. 1.161, a Terceira Seção fixou a seguinte tese (grifo nosso):
+A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal
+No caso, a Corte de origem não dissentiu dessa orientação, ao contrário, aderiu explicitamente a esse entendimento, na medida em que valorou o histórico prisional do recorrente para manter a decisão que indeferiu o benefício (fls. 62/63 - grifo nosso):
+ ..
+A questão em análise cinge-se à possibilidade de concessão do livramento condicional ao reeducando, ora agravado, mediante o exame do preenchimento ou não do requisito subjetivo previsto em lei.
+Na análise dos autos, verifico que o agravado não demonstrou comportamento satisfatório durante a execução da pena, tendo inclusive cometido novo crime durante o cumprimento da pena, "em 29/11/2017 quando foi preso em flagrante (eventos 172 e 189 dos autos 0010184- 14.2016.8.27.2722 via e-Proc); pelo cometimento de falta grave o Procedimento Administrativo Disciplinar nº 002/2018 (evento 223 SEEU); e durante o regime semia-berto, violou as regras do monitoramento eletrônico, sendo regredido ao regime fechado (evento 172 SEEU)".
+ ..
+Muito embora a prática da última falta disciplinar tenha ocorrido há mais de 12 (doze) meses, seu comportamento insatisfatório durante o cumprimento da pena impede a concessão do mencionado benefício, por ausência de requisito subjetivo, qual seja, comportamento satisfatório durante o cumprimento da pena.
+Impende ressaltar que recentemente no julgamento do REsp 1970217/MG, sob a sistemática dos repetitivos (Tema 1161), firmou tese no sentido de que "A valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal".
+A execução penal tem como um dos seus objetivos a reintegração gradual do condenado à sociedade, analisando o senso de responsabilidade, a disciplina e o comportamento do apenado.
+Sendo assim, verifica-se que o recorrente demonstrou comportamento inadequado, não possuindo responsabilidade e disciplina suficiente, o que leva a crer que a vigilância do Estado se faz necessária.
+Ex positis, voto no sentido de conhecer do recurso, por próprio e tempestivo, DANDO-LHE PROVIMENTO para cassar a decisão proferida na instância singela.
+ ..
+Logo, não há falar em ilegalidade no acórdão atacado.
+Em suporte: HC n. 612.296/MG, da minha relatoria, Sexta Turma, DJe 26/10/2020; AgRg no HC n. 624.403/RS, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 938.047/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe de 11/12/2024; e AgRg no HC n. 898.604/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJ/SP), Sexta Turma, DJe de 9/12/2024.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
