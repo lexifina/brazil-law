@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela DEFENSORIA PÚBLICA DO ESTADO DE MATO GROSSO DO SUL contra acórdão prolatado, por unanimidade, pela 2ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul no julgamento de Remessa Necessária e Apelação, em juízo de retratação, assim ementado (fl. 614e):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER - RETORNO DA VICE-PRESIDÊNCIA PARA JUÍZO DE RETRATAÇÃO - CONDENAÇÃO DO ESTADO AO PAGAMENTO DE HONORÁRIOS EM FAVOR DA DEFENSORIA PÚBLICA - POSSIBILIDADE - APLICAÇÃO DO TEMA N.º 1.002, DO STF - JUÍZO DE RETRATAÇÃO EXERCIDO - RECURSO DA DEFENSORIA PARCIALMENTE PROVIDO. Consoante Tema n.º 1.002, do STF: "É devido o pagamento de honorários sucumbenciais à Defensoria Pública, quando representa parte vencedora em demanda ajuizada contra qualquer ente público, inclusive aquele que integra".
+Opostos embargos de declaração, foram rejeitados (fls. 650/655e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos arts. 141, 492, caput, e 1.013, caput, do Código de Processo Civil, alegando-se, em síntese, que "o Tribunal de Justiça de Mato Grosso do Sul, embora tenha, corretamente, dado provimento, em juízo de retratação, à apelação da Recorrente para o fim de condenar o Estado de Mato Grosso do Sul a arcar com as verbas sucumbenciais, adotou medida inusitada: em vez de fixar um valor autônomo para tais honorários, determinou o rateio, entre o Estado e o Município, da condenação sucumbencial estipulada em desfavor deste na sentença" (fl. 687e).
+Com contrarrazões (fls. 701/707e), o recurso foi inadmitido (fls. 710/715e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 1.005e).
+O Ministério Público Federal manifestou-se, na qualidade de custos iuris, às fls. 1.019/1.022e.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, mediante decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+No caso, o tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, em juízo de retratação, após o julgamento do Tema n. 1.022 pelo STF, consignou a fixação da verba honorária em relação ao Estado de Mato Grosso do Sul, em 50% dos honorários arbitrados na sentença, nos seguintes termos (fls. 615/616e):
+Diante do julgamento do Tema n.º 1.002, do STF, o Vice-Presidente deste Tribunal determinou o retorno do feito à Câmara Cível para juízo de retratação.
+ ..
+Nesse contexto, impõe-se a condenação do Estado ao pagamento de honorários advocatícios em favor da Defensoria Pública.
+Registro ainda que os Tribunais Superiores entendem ser desnecessário aguardar o trânsito em julgado do recurso paradigma para a sua aplicação, que deve ser imediatamente observada. A respeito:
+ ..
+Diante do exposto, em juízo de retratação, dou parcial provimento ao recurso da Defensoria para, reformando em parte a sentença apelada, condenar o Estado de Mato Grosso do Sul ao pagamento de 50% dos honorários advocatícios arbitrados na sentença (destaques meus).
+Por ocasião do julgamento dos embargos de declaração, restaram complementadas as razões expostas no sentido de o acórdão não ter extrapolado os limites da lide, tampouco de ter ocorrido a violação ao princípio do reformatio in pejus (fls. 653/654e):
+Infere-se dos autos que a parte embargante pretende apenas a rediscussão da matéria já debatida por ocasião do julgamento, o que não é permitido em sede de embargos de declaração.
+No caso vertente, o acórdão ora embargado deu parcial provimento ao recurso interposto pela Defensoria Pública para condenar o Estado de Mato Grosso do Sul ao pagamento de 50% dos honorários advocatícios arbitrados na sentença, cujo montante fora de R$ 2.000,00.
+Contudo, ao contrário das alegações da embargante, o fato de ter havido o rateio entre os entes públicos (município e Estado) não acarretou na redução dos honorários, uma vez que a recorrente irá receber exatamente o montante de R$ 2.000,00 fixado na sentença, porém de forma rateada entre os requeridos.
+Da mesma forma, constato que o acórdão não extrapolou os limites da lide, na medida que atendeu aos pedidos da embargante quanto à condenação do Estado ao pagamento dos honorários.
+E mais, afasta-se também a alegada violação ao princípio recursal da vedação da reformatio in pejus, tendo em vista que o julgado não prejudicou a situação da recorrente, na medida que sequer reduziu a condenação da verba sucumbencial.
+Outrossim, o fato de o ente público municipal não ter interposto recurso objetivando a reforma da sentença quanto os ônus sucumbenciais, não impede de o acórdão determinar o rateio dos valores devidos pelos requeridos, nos termos do art. 87, §1º, do CPC:
+ ..
+Destarte, não se verifica no acórdão a alegada omissão/contradição, porquanto o julgado analisou detidamente as provas e fatos apresentados pelas partes. Eventual descontentamento com o resultado do acórdão deve ser objeto de recurso próprio, não constituindo os presentes embargos a via adequada para a rediscussão do julgado (destaques meus).
+Nesse contexto, rever tal entendimento, com o objetivo de acolher a pretensão recursal, qual seja, reconhecer (i) a violação aos arts. 141, 492 e 1.013 do CPC, tendo em vista que a decisão extrapolou os limites da matéria devolvida ao Poder Judiciário, (ii) a violação ao princípio do non reformatio in pejus e (iii) que o valor da verba sucumbencial é diminuto, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial". Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE AUTOMOBILÍSTICO. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL A QUO MEDIANTE FUNDAMENTAÇÃO SUFICIENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. FILHO MENOR. PARÂMETROS DA PENSÃO MENSAL. PRECEDENTE. MODIFICAÇÃO DAS PREMISSAS ADOTADAS NO ACÓRDÃO A QUO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1.  ..
+3. A modificação das premissas adotadas pela Corte de origem acerca dos termos da indenização, a fim de verificar se os cálculos em questão constituiriam reformatio in pejus e analisar a própria motivação que ensejou a fixação destes, conforme suscitado nas razões recursais, exigiria um novo exame do conjunto fático-probatório dos autos. Todavia, tal providência é vedada em recurso especial, conforme a restrição prevista na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.567.387/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 9/12/2024, DJEN de 12/12/2024 - destaque meu).
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. REJULGAMENTO PELA INSTÂNCIA DE ORIGEM. DEVOLUÇÃO DE TODA A MATÉRIA OBJETO DE EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. NÃO OCORRÊNCIA. VALOR NÃO IRRISÓRIO. REVISÃO. SÚMULA N. 7 DO STJ. RECURSO DESPROVIDO.
+1. Uma vez reconhecida a omissão do julgamento na origem, toda a matéria julgada nos embargos de declaração é devolvida para novo julgamento. Carece de fundamento a alegação de que o tribunal de origem deveria apenas complementar a motivação da decisão anulada, mantendo o que fora decidido (fixação em 10% dos honorários).
+2. A alegação de inovação recursal não procede, pois o reexame necessário devolve ao tribunal toda a matéria, dispensando a expressa impugnação pela Fazenda Nacional.
+3. A revisão dos honorários advocatícios em sede especial encontra óbice na Súmula n. 7 do STJ, exceto em casos de valores flagrantemente irrisórios ou exorbitantes, o que não se verifica no presente caso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.664.003/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 26/2/2025, DJEN de 6/3/2025 - destaque meu).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
+EMENTA
