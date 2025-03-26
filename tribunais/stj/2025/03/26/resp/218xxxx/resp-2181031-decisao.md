@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO AUTO/RE COMPANHIA DE SEGUROS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 426-431, e-STJ):
+APELAÇÃO CÍVEL. SEGURO DE IMÓVEL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. SEGURO RESIDENCIAL. INCÊNDIO. PERDA TOTAL. VALOR MÁXIMO PREVISTO EM APÓLICE. INDENIZAÇÃO DEVIDA. O CONTRATO DE SEGURO FIRMADO PELAS PARTES PREVÊ O PAGAMENTO DE INDENIZAÇÃO EM CASO DE OCORRÊNCIA DE SINISTRO. COMPROVADA A PERDA TOTAL DO IMÓVEL EM DECORRÊNCIA DO INCENDIO OCORRIDO, FATO INCONTROVERSO. EVENTO DANOSO PREVISTO CONTRATUALMENTE. É DEVIDO AO SEGURADO O PAGAMENTO DO PRÊMIO INTEGRAL PREVISTO NA APÓLICE. A INTERPRETAÇÃO DO CONTRATO DE SEGURO DEVE OCORRER EM FAVOR DO CONSUMIDOR CONSOANTE A PREVISÃO DOS ARTIGOS 6º, IV E VIII, E 47, AMBOS DO CDC. A CLÁUSULA QUE IMPÕE A APLICAÇÃO DO PERCENTUAL RELATIVO À DEPRECIAÇÃO DO BEM E DOS OBJETOS QUE INTEGRAM O BEM NO MOMENTO DO SINISTRO SE REVESTE DE ABUSIVIDADE, POIS COLOCA O SEGURADO EM SITUAÇÃO DE DESVANTAGEM, E DESNATURANDO O OBJETO DO CONTRATO. NEGARAM PROVIMENTO AO APELO. UNÂNIME.
+Opostos embargos de declaração, esses foram parcialmente acolhidos, sem efeitos infringentes (fls. 452-455, e-STJ).
+Nas razões do recurso especial (fls. 462-482, e-STJ), a recorrente, além de dissídio jurisprudencial, aponta violação seguintes artigos:
+(i) 489 do CPC/2015, pois os argumentos apontados pela ora recorrente foram ignorados pelo Tribunal local;
+(ii) 757, 781 e 884 do Código Civil, em razão do desrespeito ao princípio indenitário;
+Contrarrazões às fls. 513-520, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Inicialmente, pontua-se que, consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Salienta-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que, em sua decisão, discorra sobre todas as questões fundamentais para a correta solução da controvérsia.
+No caso em tela, verifica-se que o Tribunal de origem expressamente reconheceu a necessidade de pagamento do teto do valor da indenização securitária, ante a ocorrência de perda total.
+Nota-se, portanto, que as alegações vertidas pela insurgente não denotam omissões, contradições ou obscuridades do aresto impugnado, mas tão somente traduzem seu inconformismo em relação ao acolhimento da tese jurídica defendida pela parte adversa.
+Assim, não há se falar em violação ao art. 1022 do CPC/2015 na espécie, uma vez que a Corte local, de modo satisfativo e sólido, apreciou todos os pontos necessários para o julgamento do caso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NÃO OCORRÊNCIA DE VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015 E AO ART. 93, IX, DA CF/88. DECISÃO MONOCRÁTICA - ORA AGRAVADA - DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL QUE EXAMINOU OS PONTOS ESSENCIAIS AO DESLINDE DA CONTROVÉRSIA. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 139, I, E 373, II, DO CPC/2015 E ART. 324 DO CÓDIGO CIVIL. PRETENSÃO DE REDISCUTIR MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os vícios a que se refere o art. 1.022 do CPC/2015 - art. 535 do CPC/73 - são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. Na espécie, deve ser rejeitada a violação ao art. 1.022 do CPC/2015, pois não existem vícios no v. acórdão estadual, que examinou os pontos essenciais ao desate da lide.
+(..)
+3. Agravo interno não provido.
+(AgInt no AREsp 1015125/AC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 17/04/2018, DJe 24/04/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - CUMPRIMENTO PROVISÓRIO DE SENTENÇA - HONORÁRIOS ADVOCATÍCIOS - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO A DELIBERAÇÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DO EXECUTADO PARA EXCLUIR A VERBA HONORÁRIA DA CONDENAÇÃO.
+INSURGÊNCIA DO EXEQUENTE.
+1. Violação ao artigo 535 do CPC/73, atual 1.022 do NCPC, não configurada. Acórdão desta Corte Superior que analisou detidamente todos os pontos necessários ao deslinde da controvérsia. Recurso dotado de caráter meramente infringente.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/02/2018, DJe 27/02/2018)
+2. No que toca às demais questões suscitadas, merece acolhida o apelo.
+Segundo a jurisprudência desta Corte, em caso de perda total do bem segurado, a indenização securitária deve corresponder ao valor do efetivo prejuízo experimentado no momento do sinistro, observado, contudo, o valor máximo previsto na apólice do seguro de dano. Nesse sentido:
+DIREITO CIVIL. RECURSO ESPECIAL. SEGURO DE DANO. INCÊ NDIO. IMÓVEL. PERDA TOTAL. VALOR DA INDENIZAÇÃO. EFETIVO PREJUÍZO. MOMENTO DO SINISTRO. PRINCÍPIO INDENITÁRIO. RECURSO PROVIDO.
+1. Em caso de perda total do bem segurado, a indenização securitária deve corresponder ao valor do efetivo prejuízo experimentado no momento do sinistro, observado, contudo, o valor máximo previsto na apólice do seguro de dano, nos termos dos arts. 778 e 781 do CC/2002.
+2. Recurso especial provido para cassar a sentença e determinar o retorno dos autos ao Juízo de origem, para que seja apurado o prejuízo decorrente da perda total do bem imóvel no momento da ocorrência do sinistro, a fim de fixar o valor a ser pago a título de indenização securitária.
+(REsp n. 1.955.422/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/6/2022, DJe de 1/8/2022.)
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. SEGURO EMPRESARIAL CONTRA INCÊNDIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. SEGURO CONTRATADO PARA PROTEÇÃO DO PATRIMÔNIO DA EMPRESA. INCIDÊNCIA DO CDC. NULIDADE DO CONTRATO EM RAZÃO DE IRREGULARIDADES NA CONSTITUIÇÃO DA SOCIEDADE. VÍCIOS QUE NÃO IMPLICARAM AGRAVAMENTO DO RISCO NEM SEQUER CONFIGURARAM MÁ-FÉ DA SEGURADA. VALIDADE DO NEGÓCIO JURÍDICO. ALEGAÇÃO DE FRAUDE/MÁ-FÉ QUE NÃO PODE SER ACOLHIDA SEM REVISÃO DE FATOS E PROVAS. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS CIVIL E PENAL. DESINFLUÊNCIA PARA O RESULTADO DO JULGAMENTO. SEGURO DE DANO. NECESSIDADE DE OBSERVÂNCIA DO PRINCÍPIO INDENITÁRIO. LIMITAÇÃO DA INDENIZAÇÃO AO PREJUÍZO EFETIVAMENTE EXPERIMENTADO. COINCIDÊNCIA, NA HIPÓTESE, ENTRE O VALOR DO BEM SEGURADO E O DA APÓLICE. JUROS LEGAIS E CORREÇÃO MONETÁRIA. TAXA SELIC. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO EM PARTE.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não há falar em negativa de prestação jurisdicional quando o órgão julgador examina, de forma fundamentada, todas as questões submetidas à sua apreciação na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário a pretensão da parte.
+3. O seguro contratado por pessoa jurídica para proteção do seu patrimônio está submetido às regras protetivas do CDC. Precedentes.
+4. O Tribunal estadual consignou que eventual vício nos atos constitutivos da sociedade segurada não seria suficiente para afastar o dever de indenizar, porque as declarações informadas foram verdadeiras, a seguradora vistoriou os bens segurados, aceitou o negócio e recebeu o prêmio, não havendo, portanto, como negar eficácia ao negócio jurídico.
+5. No caso, não há como desautorizar essas premissas fáticas sem revisar fatos e provas, o que veda a Súmula nº 7 do STJ.
+6. Impossível alterar as conclusões fixadas pelo Tribunal estadual com relação a ausência de má-fé e de fraude contra seguros, tendo em vista tambémo óbice da Súmula nº 7 do STJ.
+7. A alegação de ofensa ao princípio da autonomia entre as instâncias civel e penal não pode prosperar porque o acórdão recorrido mencionou a ausência de processo criminal para apuração de crime de incêndio apenas como reforço de argumento. Súmula nº 284 do STF.
+8. De acordo com o art. 778 do CC/02:Nos seguros de dano, a garantia prometida não pode ultrapassar o valor do interesse segurado no momento da conclusão do contrato. Por outro lado, o art. 781 do mesmo diploma legal determina que a indenização securitária não pode ultrapassar o valor do interesse segurado no momento do sinistro, e, em hipótese alguma, o limite máximo da garantia fixado na apólice, salvo em caso de mora do segurador.
+9. Conjugando essas duas regras, tem-se que o valor atribuído ao bem segurado no momento da contratação é apenas um primeiro limite para a indenização securitária, uma vez que, de ordinário, corresponde ao valor da apólice. Como segundo limite se apresenta o o valor do bem segurado no momento do sinistro, pois é esse valor que representa, de fato, o prejuízo sofrido em caso de destruição do bem.
+10. Assim, nas hipóteses de perda total do bem segurado, o valor da indenização só corresponderá ao montante integral da apólice se o valor segurado, no momento do sinistro, não for menor.
+11. No caso dos autos, o sinistro ocorreu poucos dias após a contratação do seguro, não havendo motivo para se cogitar de desvalorização do bem. Além disso, a seguradora vistoriou o imóvel e o estoque, aquiescendo com as estimativas econômicas dos bens que aceitou segurar. Razoável admitir, portanto, que o valor do bem segurado coincidia com o da apólice no momento do sinistro.
+12. Não incidem, no caso, juros de mora legais, tendo em vista previsão contratual expressa. De qualquer forma, os juros referidos pelo art. 406 do CC/02 não correspondem à Taxa SELIC, mas sim, àqueles de 1% ao mês, previstos no art. 161, § 1º, do CTN.
+13. Recurso especial não provido.
+(REsp n. 1.943.335/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+No caso em tela, a Corte local não se filiou a tal entendimento, ao determinar o pagamento integral do limite do capital segurado, em razão da ocorrência de perda total do imóvel.
+Nesse contexto, de rigor o provimento do apelo, com a consequente determinação de que a indenização securitária corresponda ao valor do bem no momento imediatamente anterior ao sinistro, a ser apurado em liquidação de sentença.
+3 . Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, dou provimento ao recurso especial. Considerando-se a sucumbência mínima da parte recorrida, mantém-se a divisão dos ônus sucumbenciais estipulada na origem.
+Publique-se.
+Intimem-se.
+EMENTA
