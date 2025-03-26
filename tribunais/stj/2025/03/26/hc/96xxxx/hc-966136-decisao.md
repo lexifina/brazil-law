@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de FELIPE DIAS RESENDE DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus Criminal n. 2331823-45.2024.8.26.0000.
+Extrai-se dos autos que o Juízo da Vara de Execução Penal indeferiu pedido de indulto formulado pelo paciente, com base no Decreto Presidencial n. 11.846/23.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu parcialmente do writ e, nessa extensão, denegou a ordem, nos termos do acórdão de fls. 40/45 (sem ementa).
+No presente writ, a defesa sustenta que o paciente preenche todos os requisitos para a concessão do indulto com base no Decreto Presidencial n. 11.846/23, pois na data de referência do indulto (25/12/2023) encontrava-se em livramento condicional, a pena restante não ultrapassava seis anos e já havia cumprido mais de um terço da pena imposta.
+Do mesmo modo, alega que a decisão do Tribunal de Justiça do Estado de São Paulo que cassou o livramento condicional, em 18/7/2024, não possui efeito retroativo (ex tunc) e, portanto, não deve interferir na análise dos requisitos para concessão do indulto, que deve ser considerada com base na situação fática existente na data de referência estabelecida pelo decreto presidencial.
+Por fim, argumenta que o referido decreto estabelece de forma taxativa os requisitos para o indulto, sem prever qualquer restrição adicional. Assim, a decisão que impõe condicionantes não previstas no decreto viola a norma aplicável.
+Requer, em liminar e no mérito, a concessão da ordem para que seja concedido o indulto, com a consequente expedição de alvará de soltura em favor do paciente.
+Medida liminar indeferida conforme decisão de fls. 51/52.
+Informações prestadas às fls. 59/71 e 73/77.
+Parecer ministerial de fls. 82/85 pelo não conhecimento da impetração.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+O Juízo de primeiro grau indeferiu a concessão do indulto ao paciente, sob a fundamentação de não preenchimento do requisito objetivo exigido pelo Decreto n. 11.846/2023.
+Do acórdão indigitado coator, cumpre colacionar os seguintes excertos:
+" ..
+Segundo os autos da execução (Execução de Pena nº 0032898-23.2018.8.26.0071) foi realizado pedido de indulto, com base no Decreto Presidencial nº 11.846/23, indeferido pelo MM. Juízo, em 25.10.2024, por ausência do requisito objetivo (fls. 844/846).
+Correta a decisão do MM. Juízo a quo que indeferiu o pleito do ora paciente.
+Com a devida vênia, a manifestação lançada pelo Procurador de Justiça oficiante, em sede de parecer, equaciona a questão, ao sustentar, verbis:
+"De acordo com os dados dos autos, o paciente foi beneficiado com livramento condicional, contra o que se insurgiu o Ministério Público e, antes mesmo do julgamento do Agravo interposto, surgiu informe sobre prisão decorrente de prática de novo crime, razão motivadora da suspensão do benefício. O recurso ministerial foi provido, é dizer, reconheceu-se inexistente o direito do paciente à multicitada benesse. Daí ter o juízo a quo mencionado não se poder considerar que o sentenciado estava em gozo do benefício o qual não teria direito, conforme o v. Acórdão. Assim, deve-se considerar que o sentenciado estava em regime fechado na data do Decreto (v. fl. 24, ipsis verbis)." (fls. 49/50).
+O paciente foi condenado e cumpre sentenças por crimes de roubo majorado e furto qualificado.
+O Decreto Presidencial nº 11.846/23 não previa o indulto para pessoas que teriam cometido crime com grave violência ou ameaça (como é o caso do roubo), exceto para aquelas que se encontravam em liberdade condicional: Art. 2º Concede-se o indulto coletivo às pessoas, nacionais e migrantes: XIV - condenadas a pena privativa de liberdade, que estejam em livramento condicional ou cumprindo pena em regime aberto, cujas penas remanescentes, em 25 de dezembro de 2023, não sejam superiores a oito anos, se não reincidentes, e a seis anos, se reincidentes, desde que tenham cumprido um quarto da pena, se não reincidentes, ou um terço da pena, se reincidentes.
+A decisão que havia concedido o livramento condicional ao paciente em 18.12.2023 (fls. 606/608) foi cassada pelo acórdão proferido por esta 11ª Câmara, nos autos do agravo em execução nº 0000207-81.2024.8.26.0026, de minha relatoria, na data de 18.07.2024.
+Destarte, não se verificou o cumprimento do requisito objetivo imposto pelo Decreto Presidencial para concessão do indulto, uma vez que não lhe fora concedido, em caráter definitivo, o benefício do livramento condicional.
+Dessarte, forçoso reconhecer que não restou comprovado qualquer constrangimento ilegal contra o paciente a ser sanado pelo writ." (fls. 40/45)
+O art. 2º, XIV, do Decreto 11.846/23, expressamente, veda o deferimento do indulto as pessoas "condenadas a pena privativa de liberdade, que estejam em livramento condicional ou cumprindo pena em regime aberto, cujas penas remanescentes, em 25 de dezembro de 2023, não sejam superiores a oito anos, se não reincidentes, e a seis anos, se reincidentes, desde que tenham cumprido um quarto da pena, se não reincidentes, ou um terço da pena, se reincidentes".
+Com efeito, na esteira do decidido pelo Tribunal de origem, não se verificou o cumprimento do requisito objetivo imposto pelo Decreto Presidencial para concessão do indulto, uma vez que não lhe fora concedido, em caráter definitivo, o benefício do livramento condicional.
+Conforme destacado no parecer ministerial da lavra da douta Subprocuradora-Geral da República SONIA MARIA DE ASSUNÇÃO MACIEIRA " A  Corte estadual interpretou o dispositivo em comento de forma literal, de maneira que não prospera a insurgência defensiva. Ora, havendo a incidência do art. 2º do referido decreto, é de rigor o indeferimento do indulto, ante a ausência do cumprimento dos requisitos necessários para a concessão do benefício " (fl. 85).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus .
+Publique-se.
+Intimem-se.
+EMENTA
