@@ -1,0 +1,47 @@
+DECISÃO
+VITOR HENRIQUE CANDIDO SILVA interpõe recurso especial contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação Criminal n. 0001808-62.2023.8.16.0115).
+Consta dos autos que o recorrente foi condenado a 7 anos e 3 meses de reclusão, em regime semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa pede o redimensionamento da pena-base e a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Contrarrazões às fls. 549-556 e decisão de admissibilidade às fls. 560-561.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+Decido.
+I. Pena-base
+O Tribunal de origem manteve a análise negativa da culpabilidade e da natureza da droga, nos seguintes termos (fls. 506-507, grifei):
+Na análise das circunstâncias judiciais, previstas no artigo 59 do Código Penal, combinado com o artigo 42 da Lei nº 11.343/06, a r. sentença considerou desfavorável ao réu a sua culpabilidade e a natureza de parte das drogas apreendidas (cocaína em pó) e, assim, fixou a pena base em 07 (sete) anos e 03 (três) meses de reclusão e 725 (setecentos e vinte e cinco) dias-multa.
+O exame da culpabilidade, para fins de aplicação da pena, refere-se ao maior ou menor grau de reprovabilidade da conduta praticada.
+ ..
+Assim, o que autoriza a elevação da pena base por força da avaliação negativa da culpabilidade é a presença de fatos que revelem mais acentuada censura da ação criminosa, a ser exposta por fundamentação vinculada.
+No caso, o réu praticou o crime de tráfico de drogas no interior do imóvel em que residia com a sua avó, o que, por si só, indica a maior reprovabilidade da conduta e, então, autoriza maior repreensão, uma vez que colocou a avó em risco.
+Sobre isso, conforme bem exposto pelo MM. Juiz sentenciante, o que se adota como razão de decidir, "Em algumas conversas extraídas do aplicativo whatsapp, o réu comunica os usuários que o entorpecente não deve ser retirado em sua habitação, porque mora com sua avó, sendo perigoso".
+Por isso, em razão de a culpabilidade ter sido avaliada como desfavorável ao réu por meio de fundamentação idônea, o respectivo aumento decorrente da avaliação negativa dessa circunstância judicial deve ser mantido.
+E o artigo 42 da Lei Antidrogas prevê que a natureza e a quantidade da substância ilícita e a personalidade e a conduta social do agente devem preponderar sobre as circunstâncias judiciais do artigo 59 do Código Penal.
+Então, natureza de uma das drogas apreendidas (cocaína em forma de pó) serve, sim, como parâmetro para a elevação da pena base.
+ ..
+Portanto, é idônea e deve ser mantida a fundamentação exposta para a avaliação negativa dessa circunstância judicial, uma vez que a apreensão de 39g (trinta e nove gramas) de cocaína em pó caracteriza, sem dúvida, uma quantidade relevante, o que autoriza a valoração negativa de sua natureza (cocaína em forma de pó).
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal. Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+No tocante à culpabilidade, o Tribunal de origem manteve a negativação, pois o réu "praticou o crime de tráfico de drogas no interior do imóvel em que residia com a sua avó, o que, por si só, indica a maior reprovabilidade da conduta e, então, autoriza maior repreensão, uma vez que colocou a avó em risco" (fl. 507 grifei). Assim, constato que, de fato, a conduta reveste se de maior reprovabilidade, a ensejar o aumento da pena.
+No tocante à natureza do entorpecente (39 g de cocaína e 77 g de maconha), destaco que embora constitua, de fato, circunstância preponderante a ser considerada na dosimetria da reprimenda e, apesar de uma das drogas ser, realmente, de alto poder viciante, entendo que a quantidade das drogas apreendidas não foi tão expressiva a ponto de justificar o aumento da pena base, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, somente tal elemento para justificar a exasperação da pena-base.
+Ademais, entendo que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Diante de tais considerações, porque verificada a inadequação parcial da análise das circunstâncias judiciais (natureza da droga) e porque remanesce desfavorável a culpabilidade, deve o recurso ser provido em parte, a fim de reduzir a pena-base de 7 anos e 3 meses de reclusão e 725 dias multa para 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+II. Minorante do art. 33, § 4º da Lei n. 11.343/2006
+O Tribunal de origem manteve a não aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, nos seguintes termos (fls. 508, grifei):
+Então, a causa de diminuição de pena prevista no §4º do artigo 33 da Lei nº 11.343/06 é aplicável somente no caso do tráfico ocasional.
+E, no caso, resultou demonstrado nos autos que Vitor Henrique não era traficante eventual, seja pela existência de diversas mensagens extraídas de seu telefone celular, que comprovam a prática do crime de tráfico de drogas de forma habitual (cf. laudo pericial de mov. 115.1), seja pela apreensão de drogas variadas (cocaína em pó e maconha) em sua residência.
+Além disso, os Policiais Civis Jackson Antonio Longen e Rosana Claudia Botelho atestaram em Juízo (movs. 88.3 e 88.4) que havia denúncias de que o réu Vitor Henrique era o responsável por praticar o comércio de entorpecentes no local, o que é mais um fator a indicar que ele se dedica ao tráfico habitual.
+Então, porque o conjunto das circunstâncias fáticas revela que o réu Vitor Henrique se dedicava a atividades criminosas, realmente não era possível a aplicação da regra do §4º do artigo 33 da Lei nº 11.343/06.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, a instância de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, noticiou a existência de diversas mensagens extraídas do celular do réu, que comprovam a prática do crime de tráfico de drogas de forma habitual; bem como a apreensão de drogas variadas (cocaína em pó e maconha) em sua residência.
+Ressaltou, ainda, que "os Policiais Civis Jackson Antonio Longen e Rosana Claudia Botelho atestaram em Juízo (movs. 88.3 e 88.4) que havia denúncias de que o réu Vitor Henrique era o responsável por praticar o comércio de entorpecentes no local" (fl. 508, grifei).
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o recorrente se dedicaria a atividades criminosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência inviável em recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, fica afastada a apontada violação legal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+III. Nova dosimetria
+Diante do redimensionamento da pena-base, deve ser realizada nova dosimetria da pena.
+Na primeira fase, a pena-base foi fixada em 5 anos e 10 meses de reclusão e 583 dias-multa, conforma acima analisado. Na segunda etapa, ausentes atenuantes ou agravantes.
+Na terceira fase, não há causas de aumento ou diminuição da pena, motivo pelo qual fica a sanção do réu definitivamente estabelecida em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+Mantido o regime inicial semiaberto de cumprimento de pena.
+IV. Dispositivo
+À vista do exposto, dou parcial provimento ao recurso especial, somente para redimensionar a pena-base do réu e, por conseguinte, reduzir a sua reprimenda para 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa, mantido o regime semiaberto.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
+EMENTA
