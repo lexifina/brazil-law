@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, sem pedido de liminar, impetrado em benefício de ALEXANDRE SANTOS GONZAGA e HENRIQUE BEZERRA DA SILVA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1529722-34.2022.8.26.0228.
+Extrai-se dos autos que o paciente ALEXANDRE SANTOS GONZAGA foi condenado pela prática do crime previsto no art. 155, § 4º, I e IV, c/c o art. 14, II, do CP (furto qualificado tentado), às penas de 1 ano e 3 meses de reclusão, em regime inicial semiaberto, e 6 dias-multa. Já o paciente HENRIQUE BEZERRA DA SILVA foi condenado pela prática dos crimes previstos no art. 155, § 4º, I e IV, c/c o art. 14, II, do CP (furto qualificado tentado) e no art. 329, caput (resistência), do CP, às penas de 1 ano e 9 meses de reclusão, em regime inicial fechado, e 7 dias-multa, e de 2 meses e 21 dias de detenção, em regime inicial semiaberto (fl. 75).
+Irresignada, a defesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de origem em acórdão assim ementado:
+"APELAÇÃO TENTATIVA DE FURTO QUALIFICADO E RESISTÊNCIA, EM CONCURSO MATERIAL Recurso defensivo visando a absolvição dos réus por insuficiência probatória e, subsidiariamente, a redução das reprimendas impostas e o abrandamento dos regimes prisionais Autoria, dolo e materialidade devidamente demonstrados Sentenciados reincidentes Pena e regime prisional fixados mediante boa ponderação dos critérios legais, não comportando nenhuma alteração nesta Sede - Recurso desprovido" (fl. 12).
+A condenação transitou em julgado.
+No presente writ, sustenta a parte impetrante a ausência de fundamentação concreta para exasperar as penas-base dos pacientes pela prática do delito de furto no período de repouso noturno, contrariando o entendimento firmado no julgamento do Tema Repetitivo n. 1087 do STJ. Defende, assim, seja excluída a referida circunstância judicial negativa.
+Aduz, ademais, que o paciente ALEXANDRE SANTOS GONZAGA faz jus ao regime inicial aberto, haja vista ser primário e as circunstâncias judiciais do art. 59 do CP serem majoritariamente favoráveis. Alega que o regime inicial mais gravoso foi aplicado com lastro na gravidade abstrata do crime.
+Requer, assim, seja afastada a exasperação das penas-base dos pacientes pelo repouso noturno, reduzindo as penas para patamar proporcional e, em favor do paciente ALEXANDRE SANTOS GONZAGA, seja imposto o regime inicial aberto.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 119/121).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Inicialmente, verifica-se que o Tribunal estadual entendeu pela manutenção da majoração da pena-base nos seguintes termos (grifos nossos):
+"Na primeira fase, a pena-base do réu ALEXANDRE foi fixada, na base, em 1/4 acima do mínimo legal (02 anos e 06 meses de reclusão e 12 dias-multa), tendo em vista a presença da segunda qualificadora do furto e a circunstância de ter o furto sido praticado durante o repouso noturno. Quanto ao réu HENRIQUE, a pena-base relativa ao delito de furto foi fixada em metade acima do mínimo (03 anos de reclusão e 12 dias-multa), tendo em vista as duas circunstâncias judiciais desfavoráveis acima mencionadas e, também, os seus maus antecedentes (autos nº 0108670-65.2012.8.26.0050). De outra parte, a pena-base relativa ao delito de resistência praticado por HENRIQUE restou fixada em 1/6 acima do mínimo (02 meses e 10 dias de detenção), ante a presença dos maus antecedentes.
+ ..
+Ainda na primeira etapa, embora não caiba aplicar a majorante do "repouso noturno" às figuras qualificadas do furto (conforme tese fixada no julgamento do tema de recursos repetitivos nº 1087 do C. STJ), é forçoso convir que nada impedia que esse aspecto do fato fosse admitido como circunstância judicial desfavorável.
+De fato, o C. Superior Tribunal de Justiça já decidiu pela possibilidade de valoração do "repouso noturno" como circunstância judicial desfavorável na hipótese de cometimento de furto qualificado, conforme se infere da ementa do seguinte julgado  .. " (fl. 20).
+Como se vê, a conclusão do Tribunal de origem encontra-se em consonância com o entendimento desta Corte Superior, no sentido de ser possível ao julgador exasperar a pena-base em razão de o delito de furto qualificado ter sido cometido durante o repouso noturno. Tal compreensão advém das premissas apresentadas no julgamento do Tema Repetitivo n. 1087/STJ.
+No mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ARTIGO 155, § 4º, INCISOS I e IV, DO CP. REPOUSO NOTURNO. UTILIZAÇÃO PARA FIXAÇÃO DA PENA-BASE. POSSIBILIDADE. REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - A decisão agravada está correta, pois observou o entendimento, fixado pela Terceira Seção deste Superior Tribunal no Tema Repetitivo n. 1087, de que ""A causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)" (REsp n. 1.888.756/SP, Rel. Ministro João Otávio de Noronha, 3ª S., DJe 27/6/2022), onde restou admitido, por compreensão majoritária, a possibilidade de a prática do furto durante o período de repouso noturno ser considerada na primeira fase da dosimetria (art. 59 do CP).
+II - Assentada a possibilidade de consideração da causa de aumento do repouso noturno como circunstância judicial desfavorável (art. 59 do CP) quando do cometimento do furto qualificado, verifica-se, da análise do excerto colacionado, que, nesse ponto, a Corte de origem invocou fundamentos para manter a valoração negativa culpabilidade e, por conseguinte, exasperar a pena-base do crime de furto, não se verificando flagrante ilegalidade.
+III - Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo para reconhecer o pleito defensivo, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 2.145.238/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/6/2023, DJe de 26/6/2023.)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO QUALIFICADO. POSSIBILIDADE DE UTILIZAÇÃO DA PRÁTICA DO DELITO NO REPOUSO NOTURNO COMO CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAJORAÇÃO DA PENA-BASE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. O acórdão está em consonância com a jurisprudência desta Corte no sentido de que, "é razoável admitir a possibilidade de, diante das circunstâncias fáticas, a prática do furto durante o período de repouso noturno ser levada em consideração na dosimetria da pena. Em outras palavras, se a incidência da majorante no furto qualificado mostra-se excessiva, poderá ser utilizada como circunstância judicial negativa na primeira fase da dosimetria (art. 59 do CP).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 762.963/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/6/2023, DJe de 9/6/2023.)
+Quanto ao regime prisional, o Tribunal de origem entendeu ser "de rigor a manutenção do semiaberto em face do réu ALEXANDRE e do fechado em face de HENRIQUE, tendo em vista a gravidade concreta do furto (o qual foi praticado em concurso de agentes, mediante rompimento de obstáculo e durante o repouso noturno), além da reincidência e dos maus antecedentes de HENRIQUE".
+De fato, no tocante ao paciente ALEXANDRE, a despeito da pena ter sido fixada em patamar inferior a 4 anos de reclusão - 1 ano e 3 meses de reclusão - mostra-se cabível a fixação do regime inicial semiaberto, em razão da existência de circunstância judicial desfavorável.
+Esse entendimento está em consonância com o disposto no art. 33, § § 2º e 3º, c/c art. 59 do CP, e com a jurisprudência desta Corte Superior.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. REGIME PRISIONAL. PENA INFERIOR A 4 ANOS DE RECLUSÃO. SERGIO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA E REINCIDÊNCIA. REGIME FECHADO. CAÍQUE. CIRCUNSTÂNCIA JUDICIAL NEGATIVA. REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para o recorrente Sérgio: considerando a pena aplicada (2 anos, 8 meses e 20 dias de reclusão), a existência de circunstância judicial desfavorável e a reincidência, correta a fixação do regime fechado.
+2. Para o recorrente Caíque: Tendo em conta a pena aplicada (2 anos e 4 meses de reclusão) e a existência de circunstância judicial desfavorável, impõe-se o regime semiaberto para o cumprimento da reprimenda.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.793.210/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025.)
+DIREITO PENAL. HABEAS CORPUS. ESTELIONATO. REGIME PRISIONAL MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. I. CASO EM EXAME
+1. Habeas corpus impetrado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios que manteve a condenação do paciente à pena de 1 ano e 3 meses de reclusão em regime semiaberto, pela prática do crime de estelionato.
+2. A defesa alega desproporcionalidade na fixação do regime inicial semiaberto, fundamentado apenas nos antecedentes, e requer a fixação do regime aberto. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a fixação do regime inicial semiaberto, com base em circunstâncias judiciais desfavoráveis, é válida, mesmo quando a pena é inferior a 4 anos e o réu não é reincidente. III. RAZÕES DE DECIDIR
+4. O habeas corpus não é admitido como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.
+5. A fixação do regime inicial de cumprimento de pena deve considerar o quantum da pena e as circunstâncias judiciais do art. 59 do Código Penal.
+6. A jurisprudência do STJ e do STF exige fundamentação específica e concreta para a imposição de regime mais gravoso, não bastando a gravidade abstrata do delito.
+7. No caso, o Tribunal de origem considerou válidas as circunstâncias judiciais desfavoráveis para justificar o regime semiaberto, não havendo ilegalidade flagrante a ser corrigida em habeas corpus.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 861.165/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 11/12/2024.)
+Ante o exposto, com fundamento no art. 34, XVIII, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
