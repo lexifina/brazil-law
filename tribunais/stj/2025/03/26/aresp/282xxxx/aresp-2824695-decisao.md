@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo manejado por BCN - DROGARIA LTDA. contra decisão que, negando seguimento pela conformidade do acórdão aos Temas 779 e 780, do STJ, inadmitiu, na parte remanescente, recurso especial interposto contra acórdão, assim ementado (fl. 322):
+MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. PIS E COFINS. CREDITAMENTO. CONCEITO DE INSUMO. CRITÉRIO DA ESSENCIALIDADE E RELEVÂNCIA. DESPESAS COM PUBLICIDADE E PROPAGANDA. IMPOSSIBILIDADE. APELO IMPROVIDO.
+1. Cinge-se o objeto da controvérsia na possibilidade de apuração e compensação de créditos de PIS e COFINS, sobre todas as despesas relativas a publicidade e propaganda.
+2. É bem de ver que o c. Superior Tribunal de Justiça, no julgamento do REsp nº 1.221.170/PR, pelo rito dos Recursos Repetitivos, decidiu que o conceito de insumo deve ser analisado casuisticamente à luz dos critérios da essencialidade ou relevância, considerando-se a imprescindibilidade de determinado item (bem ou serviço) para o desenvolvimento da atividade econômica desempenhada pelo contribuinte.
+3. Diante disso, se faz necessária uma ponderação quanto a atividade fim da apelante, já que somente os recursos financeiros aportados que sejam essenciais para a viabilização da atividade específica da empresa é que podem ser considerados insumos para fins do benefício fiscal prescrito nos art. 3º das Leis nº 10. 637/2002 e 10.833/2003.
+4. De acordo com a cláusula 4ª do contrato social (ID 165149521) a sociedade tem por objeto social o ramo de Comércio Varejista de Medicamentos, Cosméticos, Produtos de Perfumarias e de Higiene Pessoal.
+5. Consoante interpretação literal dos dispositivos legais em apreço, os insumos que ensejam o creditamento de PIS e COFINS são tão somente aqueles bens ou serviços diretamente ligados à produção dos produtos destinados à venda ou prestação dos serviços do estabelecimento comercial correspondente, segundo sua atividade fim.
+6. A tributação da COFINS e PIS segue a discricionariedade do legislador, prevalecendo o direito ao creditamento das contribuições incidentes sobre os insumos, despesas decorrentes da atividade produtiva em si e não sobre a totalidade dos custos e despesas.
+7. Na espécie, em que pese reconhecer que as despesas relativas a publicidade e propaganda representam um valor relevante para os contribuintes, elas não são essenciais ao processo produtivo ou à prestação de serviços e, por esta razão, não comportam a pretendida caracterização como insumos, de modo a não ser cabível o creditamento postulado nestes autos.
+8. Apelo improvido.
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, a todos os fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade. Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+Na espécie, as razões do AREsp não impugnam especificamente a inadmissão do recurso especial pelo óbice da Súmula 7/STJ, aplicado ao fundamento de que demanda reexame de fatos e provas rever a conclusão do acórdão que, analisando as provas dos autos e a atividade econômica desempenhada conforme o objeto social definido no contrato social, concluiu que as despesas efetuadas para serviços de publicidade e propaganda não se enquadram no conceito de insumo, à luz dos critérios de essencialidade ou relevância, conforme definição dada pelo STJ, no julgamento dos Temas 779/STJ e 780/STJ.
+Assim o diz, uma vez que a agravante cinge-se a afirmar que é varejista, que investe em publicidade e propaganda de sua marca, sendo essa despesa essencial e relevante para a consecução de seu objeto social, e analisar isso não envolveria reexame de fatos e provas.
+Com efeito, em relação à Súmula 7/STJ, a jurisprudência do STJ entende que não basta sustentar genericamente que a matéria seria apenas jurídica; cabe à parte demonstrar de que maneira a análise da tese recursal não dependeria do reexame de provas, vedada a modificação das premissas fáticas assentadas no acórdão - o que não ocorreu no caso.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito, na parte que interessa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DO DEMANDANTE.
+1. Consoante expressa previsão contida nos arts. 932, III, do CPC e 253, I, do RISTJ, e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte recorrente, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.199.998/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 6/3/2023, DJe de 10/3/2023)
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO INATACADO.  ..
+ ..
+5. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+ ..
+(AgInt no AREsp n. 1.715.725/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/2/2021, DJe de 1/3/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC/2015 (artigo 544, § 4º, I, do CPC/1973).
+ ..
+(AgInt no AREsp 993.261/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017)
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
