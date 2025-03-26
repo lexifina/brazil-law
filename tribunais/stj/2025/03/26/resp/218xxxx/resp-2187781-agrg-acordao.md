@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Convocado o Sr. Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. ABSOLVIÇÃO IMPRÓPRIA. MEDIDA DE SEGURANÇA. INTERNAÇÃO. FUNDAMENTAÇÃO IDÔNEA. RECONHECIDA A URGÊNCIA, A NECESSIDADE E A PERICULOSIDADE DO AGENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante destacado pelas instâncias ordinárias, a internação provisória foi determinada com fundamento na imprescindibilidade e no caráter de urgência da medida, considerando a efetiva periculosidade do agente que, ao ter ciência de que estava sendo investigado, evadiu-se do distrito da culpa, não havendo demonstração de prejuízo decorrente da ausência de prévia manifestação da defesa, no caso concreto .
+2. Agravo regimental não provido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por JOSE GONCALVES DA SILVA contra decisão de e-STJ fls. 584/587, de minha relatoria, em que conheci e neguei provimento ao seu recurso especial.
+A defesa insiste na tese de afronta os arts. 282, § 3º, 619 e 620 do Código de Processo Penal. Afirma que a medida de internação foi imposta sem observância do contraditório e da ampla defesa. Alega, ainda, que a ausência de manifestação prévia da defesa caracteriza nulidade absoluta, por restringir sua possibilidade de impugnação da decisão no momento processual adequado.
+Objetiva, assim, a reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma, a fim de que o agravo seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. ABSOLVIÇÃO IMPRÓPRIA. MEDIDA DE SEGURANÇA. INTERNAÇÃO. FUNDAMENTAÇÃO IDÔNEA. RECONHECIDA A URGÊNCIA, A NECESSIDADE E A PERICULOSIDADE DO AGENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante destacado pelas instâncias ordinárias, a internação provisória foi determinada com fundamento na imprescindibilidade e no caráter de urgência da medida, considerando a efetiva periculosidade do agente que, ao ter ciência de que estava sendo investigado, evadiu-se do distrito da culpa, não havendo demonstração de prejuízo decorrente da ausência de prévia manifestação da defesa, no caso concreto .
+2. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+De início, conforme consignado na decisão agravada, extrai-se dos autos que no curso da apuração do crime de homicídio triplamente qualificado, instaurou-se incidente de insanidade mental e, após a devida homologação, sobreveio absolvição imprópria com aplicação de medida de segurança de internação pelo período mínimo de 3 anos.
+A Defensoria Pública interpôs recurso em sentido estrito apontando a nulidade da decisão por ausência da prévia oitiva da defesa para se manifestar no prazo de 5 (cinco) dias, nos termos do art. 282, § 3º, do Código de Processo Penal.
+O Tribunal estadual negou provimento ao recurso destacando destacando a imprescindibilidade e o caráter de urgência da medida. Na oportunidade, entendeu "constatada a real necessidade da medida, para tanto consideradas as circunstâncias do crime e a gravidade em concreto da conduta, conquanto expressão objetiva da periculosidade do acriminado, somado ao fato de que, declarado inimputável, o Recorrente permaneceria evadido" (e-STJ fls. 486/487).
+Assim, as questões suscitadas oportunamente pela defesa, relevantes ao deslinde do feito foram suficientemente apreciadas, razão pela qual foram rejeitados os aclaratórios, ainda que com resultado diverso do almejado pela parte recorrente. Nesse contexto, o fato de não ter sido acolhida a irresignação da parte não revela violação do art. 619 do Código de Processo Penal.
+De rigor destacar que o magistrado é livre para formar sua convicção com fundamentos próprios, não estando obrigado a ficar adstrito aos argumentos trazidos pelas defesa ou pela acusação, nem tendo que responder, de forma pormenorizada, a cada uma das alegações das partes, bastando que exponha as razões do seu convencimento, ainda que de maneira sucinta.
+Com efeito, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado fundamento suficiente para proferir a decisão.
+No caso, consta do acórdão recorrido que "consoante bem o observou o PARQUET, nesta Instância, "a medida excepcional traduz-se como a mais adequada, diante da notória periculosidade do acusado revelada através do modus operandi por ele utilizado, posto que, consoante relatado na peça acusatória, "a vítima foi atingida pelas costas por projétil de arma de fogo de espingarda calibre 32 e que esta ainda estava viva, quando fora golpeada no pescoço com objeto cortocontundente. Ademais, visa garantir ainda a instrução da lei penal, tendo em vista que, além da própria violência empregue contra a vítima nesses tipos de caso, o representado, posteriormente, ao ter ciência de que estava sendo investigado, evadiu-se do distrito da culpa"." (e-STJ fl.486).
+Deste modo, consoante destacado pelas instâncias ordinárias, a internação provisória foi determinada com fundamento na imprescindibilidade e no caráter de urgência da medida, considerando a efetiva periculosidade do agente, que não foi localizado, não havendo demonstração de prejuízo decorrente da ausência de prévia da defesa.
+Sobre a matéria, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO QUALIFICADO. ABSOLVIÇÃO IMPRÓPRIA. APLICAÇÃO DE MEDIDA DE SEGURANÇA. INTERNAÇÃO. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+1. Tendo em vista que a medida de internação foi aplicada fundamentadamente, considerando-se não somente a gravidade da conduta, mas o laudo pericial que indicou a inteira incapacidade de o agente entender o caráter ilícito do fato imputado, bem como a necessidade de tratamento psiquiátrico em regime hospitalar, apontando a periculosidade e a possibilidade de reincidência por parte do recorrente, não se verifica, no caso, violação da norma legal, estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior.
+2. A pretensão de obter a aplicação da medida de tratamento ambulatorial, com a apreciação de novos atestados e receituários médicos, demandaria o reexame fático-probatório, o que enseja a aplicação da Súmula n. 7/STJ.
+3. Agravo regimental des provido.
+(AgRg no AREsp n. 2.235.569/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO IMPRÓPRIA. INTERNAÇÃO. APELAÇÃO EM TRÂMITE. PEDIDO DE CONVERSÃO DE JULGAMENTO EM DILIGÊNCIA PELO TRIBUNAL. INDEFERIMENTO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O art. 319, V, do CPP prevê a hipótese de internação provisória (cautelar) nos casos de crimes praticados com violência ou grave ameaça quando os peritos concluírem pela inimputabilidade do acusado e houver risco de reiteração.
+2. A medida de segurança de internação é aplicada após a sentença absolutória imprópria, por tempo indeterminado, de 1 a 3 anos, e perdurará enquanto não for averiguada, mediante perícia, a cessação de periculosidade. O exame realizar-se-á ao termo do prazo mínimo fixado pelo julgador e deverá ser repetido de ano em ano, ou a qualquer tempo, se o determinar o juiz da execução.
+3. O agravante cumpre internação provisória em clínica particular, visto que demonstrada, por documentos médicos, sua inimputabilidade ao tempo do homicídio qualificado de seu genitor, por ser portador de doença psiquiátrica que requer tratamento durante a vida.
+Sobreveio a absolvição imprópria, refutada por apelação (ainda em trâmite).
+4. O Desembargador relator indeferiu o pedido de conversão do julgamento em diligência para averiguar a cessação de periculosidade. A decisão singular, além de não haver sido desafiada por agravo regimental, está conforme o art. 97, § 2º, do CP, pois o último exame pericial do apelante ocorreu há menos de um ano.
+5. Agravo regimental não provido.
+(AgRg no HC n. 747.773/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. ABSOLVIÇÃO IMPRÓPRIA. MEDIDA DE SEGURANÇA. INTERNAÇÃO. HOMICÍDIO. CRIME APENADO COM RECLUSÃO. PERICULOSIDADE COMPROVADA POR LAUDO PERICIAL. INVIABILIDADE DE EXAME NA VIA ESTREITA DO WRIT.
+1. Com relação à imposição de medida de segurança para inimputável (caput do art. 97 do CP), "esta Corte de Justiça firmou entendimento de que o tratamento ambulatorial é exceção, possível apenas nos casos de crimes punidos com detenção, desde que observadas as condições de periculosidade do agente, à luz do livre convencimento motivado do magistrado" (HC n. 313.907/SP, Quinta Turma, Rel. Min. Gurgel de Faria, julgado em 28/4/2015, DJe de 18/5/2015).
+2. No caso, o Tribunal de origem aplicou a medida de internação ao agravante, com fundamento na sua periculosidade, tendo em vista que o laudo pericial havia constatado que o paciente tem surtos psicóticos extremamente graves desde que prestou o serviço militar obrigatório.
+3. A análise acerca da possibilidade de imposição da medida de tratamento ambulatorial ao agravante, ao fundamento de que não há nenhuma comprovação de que ofereça risco à sociedade, é questão que não pode ser dirimida em habeas corpus, por demandar o reexame aprofundado das provas a serem produzidas no curso da instrução criminal, vedado na via sumária eleita.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 512.766/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 10/9/2019, DJe de 25/9/2019.)
+Além disso, de interesse registrar que o no art. 282, § 3º, do Código de Processo Penal, expressamente autoriza a não intimação da defesa em casos urgentes ou naqueles em que há a possibilidade de a medida se mostrar inútil.
+A respeito, esta Corte Superior já se manifestou no sentido de que "A legislação vigente permite ao magistrado a imposição de providências cautelares, inclusive a mais onerosa, sem a oitiva prévia da parte contrária, desde que a urgência ou o perigo de ineficácia da medida as justifiquem" (AgRg no HC n. 816.533/RS, relator Ministro Roge rio Schietti Cruz, Sexta Turma, julgado em 28/8/2023, D Je de 30/8/2023).
+Por fim, como é de conhecimento, não se proclama uma nulidade sem que se tenha verificado prejuízo concreto à parte, sob pena de a forma superar a essência. Vigora o princípio pas de nulitté sans grief, a teor do que dispõe o art. 563 do Código de Processo Penal: "nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa".
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
