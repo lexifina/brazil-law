@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EVERALDO SANTOS SANT ANNA - preso porque condenado em primeiro grau à pena de 5 anos de reclusão em regime inicial fechado e ao pagamento de 500 dias-multa, de valor unitário mínimo legal, por infração ao art. 33, caput, da Lei n. 11.343/06 (fls. 8/15) -, em que se aponta como autoridade coatora a Quarta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo (Apelação criminal n. 1500494-47.2023.8.26.0626/SP).
+A defesa sustenta que a negativa da aplicação do redutor do art. 46 da Lei de Drogas foi fundamentada na ausência de laudo pericial comprovando a dependência química, mesmo havendo depoimento policial e interrogatório do paciente que indicam sua condição de dependente químico (fls. 3/5). Argumenta que não é imprescindível a instauração de incidente de insanidade mental para comprovar a dependência química, pois outros meios de prova são suficientes (fl. 4).
+Afirma que a presunção de veracidade dos agentes públicos deve ser aplicada, tal como na constatação do estado de embriaguez nos crimes de trânsito (fl. 5).
+No mérito, a defesa requer a concessão da ordem para aplicar a benesse do art. 46 da Lei de Drogas em grau máximo, resultando em regime inicial aberto (fls. 6/7).
+É o relatório.
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau, explicitou que o regime inicial fechado se justifica pela reincidência verificada no espécie, o que coaduna com a jurisprudência deste Superior Tribunal, ou seja, a manutenção do regime mais gravoso para o início do cumprimento da pena é justificada pelos maus antecedentes e reincidência (AgRg no HC n. 926.893/SP, Ministro Messod Azulay Neto, Quinta Turma, DJEN de 18/3/2025.)
+Nesse sentido: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022 eAgRg no HC n. 742.806/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/10/2022).
+De mais a mais, assentado pelas instâncias ordinárias que o paciente, ao tempo da ação, tinha plena capacidade de entender o caráter ilícito do fato, e que não há prova acerca do preenchimento dos requisitos do art. 46, caput, da Lei de Drogas, a desconstituição de tal conclusão demanda necessário revolvimento de todo o conjunto fático-probatório, incabível em sede de habeas corpus (AgRg no HC n. 737.970/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe de 14/6/2022.)
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. REINCIDÊNCIA. SENTENÇA CONDENATÓRIA COM REGIME INICIAL FECHADO. FUNDAMENTAÇÃO SUFICIENTE. ART. 46 DA LEI N. 11.343/2006. ESTREITA VIA DO WRIT NÃO SE PRESTA A REVER CONTEXTO FÁTICO-PROBATÓRIO. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
