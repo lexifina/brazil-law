@@ -1,0 +1,29 @@
+DECISÃO
+DEUSDEDITI DO NASCIMENTO interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios na Apelação Criminal n. 0002073-15.2020.8.07.0020.
+Nesta oportunidade, a defesa sustenta a violação dos arts. 155, § 4º, I e II, do Código Penal e 158 do Código de Processo Penal. Para tanto, alega a ausência de laudo pericial para a comprovação das qualificadoras do rompimento de obstáculo e de escalada e pretende o restabelecimento da sentença, que condenou a ré por furto simples.
+O recurso especial foi inadmitido no Juízo prévio de admissibilidade realizado pelo Tribunal a quo, o que ensejou a interposição deste agravo.
+O Ministério Público Federal, em seu parecer, opinou pelo conhecimento do agravo, a fim de que não seja provido o especial.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O especial, por sua vez, suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Consta dos autos que a ré foi condenada, em primeira instância, pela prática do delito de furto simples. A sentença registrou a ausência de comprovação das qualificadoras do rompimento de obstáculo e de escalada, nos seguintes termos (fl. 329):
+No que se refere as qualificadoras do rompimento de obstáculo e da escalada, verifica-se que não estão presentes no conjunto probatório elementos suficientes que atestem a ocorrência das qualificadoras mencionadas.
+Nota-se que, embora esteja presente nos autos as fotografias indicando o telhado danificado, não houve a realização de perícia no local com a produção do competente laudo pericial atestando a narrativa presente na denúncia.
+Ademais, os depoimentos colhidos tanto na fase policial como em juízo não apontam a incidência do arrombamento e da escalada quando da subtração dos objetos, uma vez que a conduta do acusado foi notada pelos populares quando já havia deixado o imóvel portando os objetos subtraídos.
+Do mesmo modo a vítima declara que não estava presente no momento da ação delitiva e que apenas tomou conhecimento dos fatos após regressar a sua residência e encontrar o réu detido e, na sequência, reconhecendo os objetos que foram furtados da sua casa em sua posse.
+Com isso não há outros elementos probatórios para suprir a ausência do exame pericial do local, que apenas pode ser afastado quando restar justificada a impossibilidade de realizá-lo e houver outros elementos aptos a comprovar o arrombamento e a escalada.
+O Tribunal estadual, contudo, deu provimento ao apelo da acusação e reconheceu a incidência das qualificadoras. Salientou que, "em que pese a não existência do laudo pericial, tem-se a categórica identificação da destruição do telhado e da porta da casa da vítima reproduzida pelas fotos encartadas aos autos" (fl. 426).
+A respeito do tema, registro que, no julgamento do REsp n. 1.320.298/MG, ocorrido no dia 15/12/2015, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Na oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante na Corte. Porém, levado referido recurso a julgamento, meu voto não foi acolhido pela Sexta Turma, ficando como relator para o acórdão o Ministro Nefi Cordeiro, que consignou o entendimento da maioria sob a seguinte ementa:
+ ..
+1. Consoante orientação jurisprudencial desta Corte, o reconhecimento da qualificadora da escalada, prevista no art. 155, § 4º, II, do Código Penal, exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Recurso provido para afastar a qualificadora da escalada da condenação do recorrente pelo delito de furto.
+(REsp n. 1.320.298/MG, Rel. Ministro Rogerio Schietti, Rel. p/ acórdão Ministro Nefi Cordeiro, 6ª T., DJe 23/2/2016)
+Com relação à qualificadora do rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova, quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+A partir de então, com a ressalva de meu entendimento pessoal, aderi ao entendimento da Sexta Turma, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação do rompimento de obstáculo.
+Na hipótese dos autos, é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo e as instâncias ordinárias não demonstraram nenhuma excepcionalidade que justificasse a sua ausência. Ademais, o Juiz de primeiro grau ressaltou que "não há outros elementos probatórios para suprir a ausência do exame pericial do local" (fl. 329).
+Assim, devem ser afastadas as referidas qualificadoras.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art.
+253, parágrafo único, II, "c", parte final, do RISTJ, conheço do agravo para dar provimento ao recurso especial, a fim de restabelecer a sentença condenatória.
+Publique-se e intimem-se.
+EMENTA
