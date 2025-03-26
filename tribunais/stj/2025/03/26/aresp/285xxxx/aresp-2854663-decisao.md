@@ -1,0 +1,35 @@
+DECISÃO
+ANDRESSA DA SILVA SALES agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Piauí (Apelação Criminal n. 0807624-30.2022.8.18.0031).
+Consta dos autos que a ora agravante foi condenada, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos, 2 meses e 15 dias de reclusão, mais multa, em regime semiaberto.
+Nas razões do recurso especial, a defesa alega a violação do art. 33, § 4º, da Lei n. 11.343/2006, sob a tese de ausência de fundamentos idôneos para negar a aplicação da minorante pelo tráfico privilegiado em seu patamar máximo.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com base na Súmula n. 7 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (fls. 1.706-1.711).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+II. Minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso em análise, as instâncias originárias modularam a aplicação da redutora, sob os seguintes fundamentos (fl. 1.578, destaquei):
+No caso, não há nos autos elementos que demonstrem a dedicação dos agentes à atividade criminosa. Todavia, diante do contexto fático de flagrância em que foram presos, com simulacros de arma de fogo, entendo ser adequado ao caso concreto a fração de 1/6 para redução da pena. Redimensionando a pena, tem-se o montante de 05 (cinco) anos, 02 (dois) meses e 15 (quinze) dias de reclusão, e 525 (quinhentos e vinte e cinco) dias-multa. (06a3m - 1/6 = 05a02m15d).
+Segundo o excerto, pode-se inferir que o patamar usado para aplicação da minorante do tráfico privilegiado, em 1/6, se deu com base nas circunstâncias do delito, no fato, de além dos entorpecentes, terem sido apreendidos simulacros de arma de fogo com a ré, o que indicaria uma imersão mais significativa em atividades ilícitas.
+Tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: HC n. 379.203/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/2/2017.
+Assim, considero adequada a fundamentação usada pelas instâncias originárias para modular a fração de redução, entretanto, com base nos critérios de proporcionalidade e reprovabilidade da conduta, julgo que tal circunstância deve implicar a redução intermediária da pena, no patamar de 1/2.
+Ante o exposto, verificada a violação do art. 33, § 4º, da Lei n. 11.343/2006, passo à análise da dosimetria.
+III. Nova dosimetria
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, nos arts. 5º, XLVI, da Constituição Federal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de sanção a ser aplicada ao condenado criminalmente, com vistas à prevenção e à reprovação do delito perpetrado.
+Para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto e deve, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal.
+No caso em análise, as instâncias originárias negativaram, na primeira fase da dosimetria, a circunstância judicial natureza e quantidade de entorpecentes e fixaram a pena-base em 6 anos e 3 meses de reclusão, mais multa.
+Segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, entendo que a quantidade não foi excessivamente elevada - 6,7 g de cocaína e 15 g de maconha -, de maneira que se mostra manifestamente desproporcional sopesar, no caso, somente a sua natureza para justificar a exasperação da pena-base.
+Assim, afasto de ofício a referida circunstância judicial e fixo a pena-base em 5 anos de reclusão, mais 500 dias-multa.
+Na segunda fase não foram valoradas agravantes ou atenuantes, motivo pelo qual a reprimenda se mantém inalterada.
+Na terceira fase, aplicado o redutor do art. 33, § 4º, da Lei n. 11.343/2006, emprego a fração de 1/2 para diminuir a reprimenda. Consequentemente, estabeleço a sanção da recorrente em 2 anos e 6 meses de reclusão, mais 250 dias-multa.
+Fixo o regime inicial aberto, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal, com observância também do preconizado pelo art. 42 da Lei n. 11.343/2006.
+Por fim, entendo que a favorabilidade das circunstâncias mencionadas evidencia que a substituição da sanção se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal, de maneira que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+IV . Dispositivo
+À vista do exposto, conheço do agravo a fim de dar parcial provimento ao recurso especial para: a) reduzir de ofício a pena-base; b) aplicar o patamar de 1/2 para a minorante do art. 33, § 4º, da Lei n. 11.343/2006; c) consequentemente, reduzir a pena privativa de liberdade imposta à ré para 2 anos e 6 meses de reclusão, mais 250 dias-multa; d) substituir a pena privativa de liberdade por duas restritivas de direitos, a serem estabelecidas pelo Juízo das Execuções Penais.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
+EMENTA
