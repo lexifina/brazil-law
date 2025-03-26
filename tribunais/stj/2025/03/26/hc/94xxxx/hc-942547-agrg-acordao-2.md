@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Convocado o Sr. Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS).
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. CASO DE DECRETAÇÃO DA PRISÃO PRVENTIVA E NÃO DE EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, embora tenha mencionado um julgado do Supremo Tribunal Federal sobre execução provisória, se limitou a decretar a prisão preventiva do réu. Tratando-se, portanto, de prisão preventiva decretada sem fatos novos, forçoso reconhecer a ilegalidade da medida, como reconhecida na decisão agravada, que deve ser mantida por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público do Estado de Goiás contra a decisão monocrática que, em sede de habeas corpus, não conheceu da impetração, mas concedeu a ordem de ofício para assegurar a liberdade provisória ao paciente Josemar Rodrigues dos Santos, mediante o cumprimento das medidas cautelares anteriormente fixadas (e-STJ fls. 368/374).
+O paciente foi condenado pelo Tribunal do Júri à pena de 17 anos, 1 mês e 19 dias de reclusão, em regime inicial fechado, pela prática dos crimes previstos no art. 121, §2º, IV, e art. 211, ambos do Código Penal. Na sentença condenatória, foi determinada a execução imediata da pena, em observância ao art. 492, I, "e", do Código de Processo Penal.
+A defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de Goiás, sustentando a ausência de fundamentação idônea para a prisão do paciente e argumentando que este respondeu boa parte do processo em liberdade, sem qualquer descumprimento das medidas impostas. O Tribunal estadual, por maioria, denegou a ordem.
+A decisão ora agravada, proferida monocraticamente, não conheceu do habeas corpus, mas, de ofício, concedeu a ordem para assegurar a liberdade provisória do paciente, mediante o cumprimento das mesmas medidas cautelares que estavam em vigor até a sentença condenatória. Fundamentou-se na ausência de elementos concretos e contemporâneos que justificassem a prisão e na necessidade de isonomia entre os corréus.
+Irresignado, o Ministério Público do Estado de Goiás interpõe o presente agravo regimental, argumentando que a decisão agravada desconsiderou o caráter definitivo da condenação, equiparando a execução da pena a uma simples prisão cautelar. Defende que a determinação de cumprimento imediato da pena decorreu do entendimento consolidado do STF no Tema n. 1068, segundo o qual a so berania dos veredictos do Tribunal do Júri autoriza a execução provisória da pena, independentemente do tempo da condenação. Sustenta, ainda, que o STJ já consolidou entendimento no mesmo sentido, tornando-se incabível a concessão de habeas corpus que contrarie essa orientação.
+Ao final, requer a reconsideração da decisão monocrática, para restabelecer o cumprimento imediato da pena, ou, subsidiariamente, o julgamento do agravo regimental pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. HOMICÍDIO QUALIFICADO. PACIENTE CONDENADO PELO TRIBUNAL DO JÚRI. CASO DE DECRETAÇÃO DA PRISÃO PRVENTIVA E NÃO DE EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Caso em que o magistrado Presidente do Tribunal do Júri, ao proferir a sentença, embora tenha mencionado um julgado do Supremo Tribunal Federal sobre execução provisória, se limitou a decretar a prisão preventiva do réu. Tratando-se, portanto, de prisão preventiva decretada sem fatos novos, forçoso reconhecer a ilegalidade da medida, como reconhecida na decisão agravada, que deve ser mantida por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+VOTO
+Não assiste razão ao órgão ministerial.
+O entendimento consolidado pelo Supremo Tribunal Federal no Tema n. 1068, que versa sobre a execução provisória das penas aplicadas a réus condenados pelo Tribunal do Júri, é amplamente reconhecido.
+No dia 13/9/2024, o Plenário do Supremo tribunal Federal, por maioria de votos, apreciando o tema 1.068 da repercussão geral, "deu interpretação conforme à Constituição, com redução de texto, ao art. 492 do CPP, com a redação da Lei n. 13.964/2019, excluindo do inciso I da alínea "e" do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados" e fixou a seguinte tese:
+"A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada". Tudo nos termos do voto do Relator, Ministro Luís Roberto Barroso (Presidente), vencidos os Ministros Gilmar Mendes, Ricardo Lewandowski e Rosa Weber, que negavam provimento ao recurso, e os Ministros Edson Fachin e Luiz Fux, que davam provimento ao recurso nos termos de seus votos. Não votaram os Ministros Flávio Dino e Cristiano Zanin, sucessores, respectivamente, dos Ministros Rosa Weber e Ricardo Lewandowski, que proferiram seus votos em assentada anterior. Plenário, 12.9.2024.
+Não é essa a hipótese dos autos.
+Embora a sentença mencione um julgado da época sobre execução provisória, o HC n. 118.770, de 7/3/2017, o juiz de primeiro grau se limitou a decretar a prisão preventiva do réu. Confira-se (e-STJ fl. 30 ):
+Pelo exposto, face a natureza hedionda do crime de homicídio e, regime de cumprimento de pena imposto (fechado), NEGO aos sentenciados o recurso em liberdade, ao tempo em que decreto a prisão preventiva de Alessandro Rodrigues da Silva e Josemar Rodrigues dos Santos, para garantia da ordem pública e aplicação da lei penal. Expeçam-se mandados de prisão em desfavor dos réus Alessandro Rodrigues da Silva e Josemar Rodrigues dos Santos, para imediato cumprimento
+Tratando-se, portanto, de prisão preventiva decretada sem fatos novos, forçoso reconhecer a ilegalidade da medida, como reconhecida na decisão agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
