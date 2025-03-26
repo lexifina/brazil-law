@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Requisitos legais. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário constitucional em habeas corpus, mantendo a prisão preventiva do agravante, acusado de comércio ilegal de arma de fogo, conforme art. 17 da Lei n. 10.826/2003.
+2. A decisão de prisão preventiva foi fundamentada na periculosidade do agravante, evidenciada pelo modus operandi e pelos antecedentes criminais, incluindo condenações por tráfico de entorpecentes e porte ilegal de arma de fogo com numeração suprimida.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada nos requisitos do art. 312 do Código de Processo Penal, considerando a alegada falta de motivos e a possibilidade de aplicação de medidas cautelares diversas da prisão.
+4. Outra questão em discussão é a alegação de que a prisão preventiva foi decretada com base em argumentos abstratos e genéricos sobre a gravidade do delito e a periculosidade social do agravante.
+III. Razões de decidir
+5. A decisão de prisão preventiva está fundamentada em elementos concretos que indicam a necessidade de resguardar a ordem pública, devido à periculosidade do agravante e ao risco de reiteração delituosa.
+6. A jurisprudência do Superior Tribunal de Justiça sustenta que a prisão preventiva é justificada pela gravidade concreta do crime e pela periculosidade do acusado, não sendo suficiente a existência de condições pessoais favoráveis para afastar a custódia.
+7. A aplicação de medidas cautelares diversas da prisão é inviável, pois a gravidade da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+IV. Dispositivo e tese
+8. Agravo não provido.
+Tese de julgamento: "1. A prisão preventiva é justificada pela gravidade concreta do crime e pela periculosidade do acusado. 2. A existência de condições pessoais favoráveis não é suficiente para afastar a custódia quando presentes os requisitos legais. 3. A aplicação de medidas cautelares diversas da prisão é inviável quando a gravidade da conduta delituosa indica risco à ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319; Lei n. 10.826/2003, art. 17.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 175.703/ES, Rel. Min. Jesuíno Rissato, Sexta Turma, DJe 22/6/2023; STJ, AgRg no HC n. 812.413/GO, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 16/6/2023; STJ, AgRg no HC 618.887/PR, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 14/04/2021.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 293-299, que negou provimento ao recurso ordinário constitucional em habeas corpus interposto por GEOVANE LEUTZ FURTADO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos a prisão em flagrante do agravante, posteriormente convertida em custódia preventiva, decorrente da suposta prática do delito capitulado no art. 17 da Lei n. 10.826/2003.
+Irresignada, a defesa, impetrou prévio writ perante o Tribunal de origem, que, denegou a ordem, em acórdão assim ementado:
+" ..  HABEAS CORPUS. CRIME DE COMÉRCIO ILEGAL DE ARMA DE FOGO (ART. 17 DA LEI N. 10.826/03). PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SUSTENTADA FALTA DE MOTIVOS E REQUISITOS PARA A PRISÃO. OBSERVÂNCIA AO PRINCÍPIO DA CONFIANÇA NO JUIZ DA CAUSA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. PACIENTE POSSUIDOR DE ANTECEDENTES (PELOS DELITOS DE TRÁFICO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA). NECESSIDADE DE SE EVITAR A REITERAÇÃO DELITUOSA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO QUE SE MOSTRA INSUFICIENTE. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA.  .. " (fl. 113).
+Nas razões do presente inconformismo, o Agravante repisa os argumentos deduzidos no writ, alega a ocorrência de constrangimento ilegal e argumenta: a) "a prisão preventiva foi decretada sob o influxo de alegações abstratas e genéricas sobre a gravidade do delito e a suposta periculosidade social do Recorrente" (fl. 123); b) revelam-se adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP; e c) deixou de ser observado o princípio da homogeneidade das medidas cautelares porque, em caso de eventual condenação, ele será submetido a regime inicial de cumprimento da pena mais brando que o fechado.
+Requer a reconsideração da decisão hostilizada, para que se revogue a prisão preventiva do agravante, com a imposição de medidas cautelares pertinentes.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Requisitos legais. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento ao recurso ordinário constitucional em habeas corpus, mantendo a prisão preventiva do agravante, acusado de comércio ilegal de arma de fogo, conforme art. 17 da Lei n. 10.826/2003.
+2. A decisão de prisão preventiva foi fundamentada na periculosidade do agravante, evidenciada pelo modus operandi e pelos antecedentes criminais, incluindo condenações por tráfico de entorpecentes e porte ilegal de arma de fogo com numeração suprimida.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada nos requisitos do art. 312 do Código de Processo Penal, considerando a alegada falta de motivos e a possibilidade de aplicação de medidas cautelares diversas da prisão.
+4. Outra questão em discussão é a alegação de que a prisão preventiva foi decretada com base em argumentos abstratos e genéricos sobre a gravidade do delito e a periculosidade social do agravante.
+III. Razões de decidir
+5. A decisão de prisão preventiva está fundamentada em elementos concretos que indicam a necessidade de resguardar a ordem pública, devido à periculosidade do agravante e ao risco de reiteração delituosa.
+6. A jurisprudência do Superior Tribunal de Justiça sustenta que a prisão preventiva é justificada pela gravidade concreta do crime e pela periculosidade do acusado, não sendo suficiente a existência de condições pessoais favoráveis para afastar a custódia.
+7. A aplicação de medidas cautelares diversas da prisão é inviável, pois a gravidade da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do agravante.
+IV. Dispositivo e tese
+8. Agravo não provido.
+Tese de julgamento: "1. A prisão preventiva é justificada pela gravidade concreta do crime e pela periculosidade do acusado. 2. A existência de condições pessoais favoráveis não é suficiente para afastar a custódia quando presentes os requisitos legais. 3. A aplicação de medidas cautelares diversas da prisão é inviável quando a gravidade da conduta delituosa indica risco à ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 319; Lei n. 10.826/2003, art. 17.
+Jurisprudência relevante citada: STJ, AgRg no RHC n. 175.703/ES, Rel. Min. Jesuíno Rissato, Sexta Turma, DJe 22/6/2023; STJ, AgRg no HC n. 812.413/GO, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 16/6/2023; STJ, AgRg no HC 618.887/PR, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 14/04/2021.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 293-299. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+A prisão preventiva, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+No caso em tela a decisão que decretou a prisão preventiva do agravante está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pela periculosidade e pelo modus operandi da conduta.
+Por oportuno, transcrevo trechos do acórdão hostilizado do Tribunal de origem:
+" ..  Percebe-se que a decisão do magistrado singular está ancorada nos requisitos do art. 312 do Código do Processo Penal, pois nelas foram consideradas as circunstâncias dos fatos e as condições subjetivas do paciente e constatadas, corretamente, que a ordem pública restou debilitada, além do fato de não haver qualquer garantia de que o acusado solto não voltaria a delinquir.
+Foram apreendidos grande quantidade de armamento. A denúncia narra que "em busca veicular, os Policiais Militares localizaram 2 (duas) caixas de armas da marca Taurus, sendo que no interior de uma caixa estava 1 (uma) pistola Taurus 1911, calibre 45 e com numeração ABA240068, 14 (quatorze) munições calibre 45 e 7 (sete) munições calibre 357. Na segunda caixa, foram encontrados 1 (um) tambor de revólver, calibre 9mm, 17 (dezessete) munições de calibre 9mm. Outrossim, foi encontrado um compartimento secreto no porta luvas do veiculo, contendo 1 (um) revólver do calibre 357, marca Taurus e com numeração ADH602506". E, em "busca domiciliar, sendo encontrado no interior da residência do denunciado GEOVANE LEUTZ FURTADO uma caixa de munição, calibre 357, conforme Auto de Exibição e Apreensão de fl. 2 - ev. 1, Auto de Prisão em Flagrante 5, dos autos 5003454-57.2024.8.24.0505".
+A prisão ainda faz referências aos antecedentes do paciente e, apesar da insurgência da defesa, os registros indicam a possibilidade concreta de reiteração delituosa. Conforme evento 3 da origem, o paciente possui condenações por tráfico de entorpecentes (extinção das penas no ano 2018) e por porte de arma com numeração suprimida (condenação transitada em julgado em outubro de 2018). Além disso, de acordo com o referido registro, o paciente possui processo suspenso na forma do art. 366 do CPP.  .. " (fl. 111).
+A propósito:
+" ..  A jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. .. " (AgRg no RHC n. 175.703/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, D Je de 22/6/2023).
+" ..  No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do agravante está evidenciada no modus operandi do ato criminoso.  .. " (AgRg no HC n. 812.413/GO, relator Ministro Ribeiro Dantas, Quinta Turma, D Je de 16/6/2023).
+" ..  Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. ..  (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, D Je 12/03/2019)" (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+Presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do CPP, não há que se falar em violação ao princípio de presunção de inocência.
+Demais disso:
+" ..  A imposição da constrição processual em nada fere o princípio da presunção de inocência quando lastreada em elementos concretos dos autos que demonstram o perigo que a liberdade do agravante pode representar para a ordem pública. Precedentes  .. " (AgRg no HC 618.887/PR, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 06/04/2021, D Je 14/04/2021).
+Ademais, cumpre consignar que a inversão do que restou decidido pelas instâncias ordinárias, demandaria, impreterivelmente, revolvimento de matéria fático- probatória, procedimento vedado na estreita via do habeas corpus, ainda mais quando não se demonstrou de plano a existência das alegações do agravante, e não há manifesta ilegalidade ou teratologia identificadas.
+Nesse sentido:
+" ..  O paciente não demonstrou a sua imprescindibilidade aos cuidados das menores. Rever tal posicionamento demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta via mandamental  .. " (AgRg no HC n. 754.776/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, D Je de 16/8/2023).
+Quanto ao argumento de que, em caso de condenação terá direito a regime diverso do fechado, deve-se ressaltar que não se presta a via do habeas corpus para análise de desproporcionalidade da prisão em face de eventual condenação do réu, uma vez que tal exame só poderá ser realizado pelo Juízo de primeiro grau, após cognição exauriente de fatos e provas do processo, a fim de definir, se for o caso, a pena e o regime a serem aplicados.
+A respeito:
+" ..  O argumento de desproporcionalidade da custódia cautelar à provável futura pena do paciente não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se o acusado será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual  .. " (AgRg no HC n. 779.709/MG, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/12/2022).
+A existência de condições pessoais favoráveis, mesmo quando devidamente comprovadas, não é apta a afastar a custódia quando existentes os pressupostos legais, posto que "condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar a sua necessidade" (STJ -SEBASTIÃO REIS JÚNIOR, Data de Julgamento: 24/09/2019, T6 -SEXTA TURMA, Data de Publicação: D Je 03/10/ 2019).
+No mais:
+" ..  Condições subjetivas favoráveis ao agravante não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes  .. " (AgRg no HC 640.821/RS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/03/2021, D Je 08/04/2021).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Assim:
+" ..  É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do réu  .. " (AgRg no HC 619.400/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/04/2021, DJe 30/ 04/2021).
+A Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual:
+"o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema. "
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
