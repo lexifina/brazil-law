@@ -1,0 +1,11 @@
+DECISÃO
+ELTON FERREIRA DO NASCIMENTO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no HC n. 2385572-74.2024.8.26.0000.
+A defesa busca a expedição de alvará de soltura em favor do recorrente e que seja determinado o início de cumprimento da pena nos termos da Resolução n. 474/2022 do CNJ. Para tanto, argumenta que não há cadastramento da guia de execução no SEEU até a presente data, que impede o recambiamento do insurgente para unidade prisional adequada ao regime semiaberto.
+Decido.
+Infere-se dos autos que o insurgente foi condenado, pelo Juízo da 30º Vara Criminal de São Paulo/SP, definitivamente, à pena de 4 anos de reclusão, em regime inicial semiaberto, pela prática do delito de roubo circunstanciado. Após o trânsito em julgado da condenação - em 7/5/2019 -, foi determinada a expedição de mandado de prisão, em 14/5/2019, que só foi cumprido em dezembro de 2024, em outro estado da Federação - Bahia.
+Ao argumento de que o sentenciado estaria sofrendo constrangimento ilegal em razão da demora para expedição da guia de recolhimento e de estar encarcerado no regime fechado, a defesa impetrou prévio writ, cuja ordem foi denegada. Na oportunidade, o Tribunal estadual esclareceu que a guia foi expedida em 19/12/2024 e que o reeducando, "conforme atestado pela Secretaria de Administração Penitenciária e Ressocialização (SEAP) do Estado da Bahia, o sentenciado, "nesta data (06/01/2025), cumpre pena no regime SEMIABERTO nesta Unidade"" (fl. 472).
+A presente insurgência foi interposta em 4/2/2025. Entretanto, em consulta ao SEEU, colhe-se a informação de que foi distribuído o Processo de Execução n. 2000359-24.2025.8.05.0001, circunstância que evidencia a perda de objeto desta insurgência.
+De fato, "nos termos da jurisprudência dominante nesta Corte Superior, uma vez já tendo sido efetuada a prisão do paciente, assegurado o cumprimento da pena no regime adequado, não há interesse de agir no pleito de intimação para início do cumprimento da pena nos termos da Resolução n. 474/2022 do CNJ"(AgRg no HC n. 951.632/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2024, DJEN de 9/12/2024)
+À vista do exposto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
+EMENTA
