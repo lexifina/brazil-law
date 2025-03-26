@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de de habeas corpus com pedido liminar impetrado em favor de TIAGO SANTIAGO LIMA FREIRE DE ANDRADE no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Agravo em Execução n. 5002006 -39.2023.8.19.0500, de relatoria da Desembargadora Katya Maria Monnerat).
+Depreende-se dos autos que o Juízo da Vara de Execuções Penais indeferiu ao paciente a saída temporária na modalidade de visitação à família (e-STJ fls. 16/17).
+Contra essa decisão, a defesa interpôs agravo em execução, tendo o Tribunal de origem negado provimento ao recurso, em acórdão assim ementado (e-STJ fls. 18/19):
+Agravo de Execução Penal. Visita periódica ao lar. Indeferimento. Recurso da defesa. Em bem fundamentada decisão, esclareceu o magistrado que o apenado torturou e matou sua enteada, uma criança de tenra idade e, acaso deferido o benefício, passará a ter contato com sua filha, o que exige cautela na análise do pedido. Remanescente da pena a ser cumprida é de 43%, superando 06 anos e 08 meses. Em que pese o exame criminológico não ter sido desfavorável, não consta o laudo psiquiátrico circunstanciado, que deveria ter sido elaborado conforme decisão. Ainda que assim não fosse, o magistrado não está vinculado a relatórios técnicos, mas deve, com base na livre apreciação de outros elementos de convicção, decidir, fundamentadamente, sobre o benefício pleiteado. Concessão que não se coaduna com os objetivos da reprimenda em estrita observância aos requisitos previstos no artigo 123, incisos I, II e III, da Lei de Execução Penal -lei 7210/841. Recurso desprovido.
+Neste writ, a Defensoria Pública sustenta que a quantidade de pena remanescente e a instabilidade emocional do paciente não são fundamentos idôneos para o indeferimento do benefício.
+Ressalta que "não há nenhum elemento negativo ocorrido no curso do cumprimento da pena que desaconselhe o deferimento do pedido de visita periódica à família nessa oportunidade" (e-STJ fl. 8).
+Pontua que, no caso, encontram-se preenchidos tanto os requisitos objetivos quanto os subjetivos para a concessão e manutenção da saída temporária.
+Dessa forma, requer, inclusive liminarmente, "a concessão da saída temporária para visita a família" (e-STJ fls. 9/10).
+Indeferida a liminar (e-STJ fls. 107/108) e prestadas as informações (e-STJ fls. 115/117 e 121/131), manifestou-se o Ministério Público Federal, nesta instância, pela denegação da ordem (e-STJ fls. 133/137).
+É o relatório.
+Decido.
+O habeas corpus perdeu seu objeto.
+Isso, porque, em consulta ao Sistema Eletrônico de Execução Unificado, foi deferido em 25/10/2024 o livramento condicional ao paciente, benefício mais amplo que o pretendido na presente impetração.
+Este é o teor da decisão
+2) Para a concessão do livramento condicional, verifica-se que TIAGO SANTIAGO LIMA FREIRE DE ANDRADE preenche o requisito objetivo, uma vez que fez jus ao tempo para o benefício em 11/09/2024, quando cumpriu a fração de 2/3, conforme cálculos do sistema. Em adição, preenche também os requisitos subjetivos para a concessão do benefício já que, como visto, não registra o cometimento de faltas disciplinares nos últimos anos e possui índice de comportamento carcerário "Excepcional", conforme TFD juntada na seq. Seq. 321.1.
+O precípuo fim da execução penal, como já alude o art. 1º da LEP, é, para além de efetivar as disposições de sentença ou decisão criminal, proporcionar condições para a harmônica integração social do condenado.
+Assim, presentes os requisitos legais autorizadores, CONCEDO o livramento condicional, na forma do art. 83, do CP.
+Ficam estabelecidas as seguintes condições ao liberado condicionalmente, nos termos do artigo 132, §1º da LEP :
+a) obter ocupação lícita, dentro de prazo razoável, se for apto para o trabalho;
+b) comunicar direta e imediatamente ao Patronato Magarinos Torres o atual endereço, bem como QUALQUER mudança de endereço neste Estado; (ATENÇÃO )
+c) não se ausentar deste Estado sem autorização judicial ou transferir sua residência para outro Estado da Federação sem prévia autorização deste Juízo;
+d) proibição de ausentar-se da comarca, por prazo superior a 5 dias, sem prévia autorização do Juízo;
+e) Fica determinado o comparecimento no Patronato Magarinos Torres em 30 dias contados de sua soltura, tempo necessário comunicação da presente decisão, e, a partir de então, trimestralmente, para assinar boletim de frequência e manter informados/atualizados seu endereço e suas atividades.
+Deverá o apenado até o segundo comparecimento no PMT apresentar seu comprovante de residência (se em nome de terceiro com declaração de concordância do titular) ou justificar no ato do seu comparecimento a ausência da documentação.
+Expeça-se Carta, nos termos do artigo 132, §1º, da LEP, ficando o Sr. Oficial de Justiça designado para a realização da cerimônia de livramento condicional, na forma do art. 137 da Lei de Execução, notadamente quanto à assinatura do Termo de Livramento Condicional e o recebimento do Salvo-Conduto. Caso conste no BNMP o status "em liberdade" (mesmo estando preso), configurando impedimento de cumprimento de ordem pelo Sistema SEEU, e considerando que em razão das regras técnicas estabelecidas pelo BNMP 2.0, a expedição de alvará de soltura só é possível quanto o "status" do apenado no Banco Nacional de Mandados de Prisão apresenta o conceito de "preso" fazendo-se necessário alimentar o sistema BNMP 2.0 com o mandado de prisão , ainda que o apenado já esteja preso. Expeça-se mandado de prisão para fins de registro do BNMP (validade 02 dias), com a imediata emissão de certidão de cumprimento de mandado no SEEU, para, enfim, emitir-se imediatamente a ordem de soltura (livramento condicional, prisão domiciliar e alvará de soltura), sem necessidade de nova conclusão.
+Diante do exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
