@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AMBIENTAL. RESERVA LEGAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por VICENTE AULININO - ESPÓLIO contra acórdão proferido pela Segunda Turma do Superior Tribunal de Justiça, que deu provimento ao recurso especial interposto pelo Ministério Público do Estado de Minas Gerais.
+Eis a ementa do aresto (fl. 1.050/1.051):
+AMBIENTAL. PROCESSUAL CIVIL. INSTITUIÇÃO DE ÁREA DE RESERVA LEGAL. OBRIGAÇÃO PROPTER REM E EX LEGE. DEVER DE AVERBAÇÃO. TEMPUS REGIT ACTUM.
+1. É pacífica a jurisprudência do STJ ao reconhecer a natureza propter rem da Reserva Legal e a obrigatoriedade e vinculação para o proprietário atual e o Poder Público. "Nos termos do artigo 16 c/c art. 44 da Lei 7.771/65, impõe-se aos proprietários a averbação da reserva legal à margem de matrícula do imóvel, ainda que não haja na propriedade área florestal ou vegetação nativa. Em suma, a legislação obriga o proprietário a manter e, eventualmente, recompor a fração da propriedade reservada por lei" (cfr. REsp 865.309/MG, Segunda Turma, Min. Castro Meira, DJe de 23.10.2008. No mesmo sentido, RMS 18.301/MG, Segunda Turma, Rel. Min. João Otávio de Noronha, DJ de 3.10.2005; RMS 22.391/MG, Primeira Turma, Min. Denise Arruda, DJe de 3.12.2008; REsp 973.225/MG, Segunda Turma, Min. Eliana Calmon, DJe de 3.9.2009; REsp 927.979/MG, Primeira Turma, Min. Francisco Falcão, DJ de 31.5.2007; REsp 821.083/MG, Primeira Turma, Min. Luiz Fux, DJe de 9.4.2008; EDcl no Ag 1.224.056/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6.8.2010; AgRg no REsp 1.206.484/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 29.3.2011).
+2. A Segunda Turma do STJ firmou a orientação de inaplicabilidade de norma ambiental superveniente de cunho material aos processos em curso, seja para proteger o ato jurídico perfeito, os direitos ambientais adquiridos e a coisa julgada, seja para evitar a redução do patamar de proteção de ecossistemas frágeis sem as necessárias compensações ambientais.
+3. Recurso Especial provido.
+Alega a embargante as seguintes omissões (fls. 1.075/1.076):
+i) Preliminar de inadmissibilidade do REsp pela vedação da Súmula 7 do STJ;
+ii) Preliminar de vedação de recurso especial solitário. Súmula 126 do S. T. J;
+iii) Preliminar de questão não apreciada pelo Tribunal a quo. Súmula 211 do STJ;
+iv) Questão de mérito: modulação dos efeitos retrospectivos da declaração de inconstitucionalidade da lei estadual 14.309/2002 e do decreto estadual nº 43.710/2004 - direito adquirido assegurado - ato jurídico perfeito reconhecido pelo Tribunal de Justiça do Estado de Minas Gerais;
+v) Questão de mérito: da constituição de reserva legal no mesmo bioma. previsão no código florestal revogado. interpretação sistemática da lei federal.
+Requer, ao final, o conhecimento e acolhimento dos embargos de declaração, a fim de que sejam sanados os vícios existentes no acórdão.
+Intimada, a parte embargada apresentou impugnação às fls. 1.104/1.107.
+É o relatório.
+EMENTA
+AMBIENTAL. RESERVA LEGAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. PRETENSÃO DE NOVO EXAME. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material da decisão atacada.
+2. Não pode tal meio de impugnação ser utilizado como forma de se insurgir quanto à matéria de fundo, quando foram analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos não comportam acolhimento.
+Os embargos de declaração têm âmbito de cognição restrito às hipóteses do artigo 1.022 do Código de Processo Civil, quais sejam, esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir eventual erro material.
+Na espécie, da leitura do acórdão que deu provimento ao recurso especial observa-se que não há omissão a ser suprida.
+De início, o embargante sustenta que há omissão no julgado em questões relativas à sua admissibilidade. No entanto, verifica-se que a decisão embargada apreciou o mérito recursal para dar provimento ao recurso especial.
+Registre-se que o juízo de admissibilidade pode ocorrer de forma implícita, não havendo obrigatoriedade de exposição dos motivos. O simples exame de mérito implica o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de admissibilidade do recurso, não configurando omissão a ser suprida.
+Neste sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. EXAME DO MÉRITO. DISPENSA. PREQUESTIONAMENTO IMPLÍCITO. DISCUSSÃO DA TESE PELO TRIBUNAL DE ORIGEM. OCORRÊNCIA. MULTA DECENDIAL. NÃO CABIMENTO DE JUROS E CORREÇÃO MONETÁRIA. PROVIMENTO NEGADO.
+1. O exame do mérito dispensa a necessidade de pronunciamento expresso sobre o atendimento dos requisitos de admissibilidade.
+2. O prequestionamento implícito ocorre quando o tribunal de origem se manifesta de forma clara sobre a tese apresentada no recurso especial, mesmo sem indicar explicitamente os dispositivos legais que fundamentaram a decisão contestada.
+3. Conforme entendimento do Superior Tribunal de Justiça, "a multa decendial, devida em função do atraso no pagamento da indenização objeto do seguro obrigatório, nos contratos vinculados ao Sistema Financeiro da Habitação, é devida aos mutuários, dado o caráter acessório que ostenta em relação à indenização securitária e deve estar limitada ao valor da obrigação principal" (AgInt no AREsp 1.984.533/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/10/2022, DJe de 21/10/2022).
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.507.254/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/12/2024, DJe de 13/12/2024.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO CIVIL. URP/1989. DANO AO ERÁRIO. VALOR DESCONTADO DA REMUNERAÇÃO. ADMINISTRATIVO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária, objetivando a determinação para que a ré se abstenha de proceder a quaisquer atos de cobrança, a título de reposição ao erário, de valores que lhe foram pagos entre maio de 2002 e julho de 2007. Na sentença o pedido foi julgado procedente. No Tribunal a quo, a sentença foi mantida.
+II - A Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp 1.119.820/PI, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgInt no REsp 1.865.084/MG, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe 26/8/2020; AgRg no REsp 1.429.300/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014.)
+III - A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido da necessidade de devolução pelo servidor público dos valores recebidos a título de tutela antecipada ou sentença posteriormente reformada pelo Tribunal de origem. Nesse sentido:
+AgInt no REsp n. 1.877.556/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 3/5/2023; AgInt no AREsp n. 2.187.514/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023; AgInt no AgRg no AgRg no REsp n. 1.512.477/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 6/3/2023, DJe de 15/3/2023.
+IV - Agravo interno improvido.
+(AgInt no REsp n. 2.173.721/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2024, DJe de 9/12/2024.)
+Ademais, o Superior Tribunal de Justiça não aprecia a constitucionalidade de lei estadual, não devendo se vincular a eventual modulação de efeitos decorrente de declaração de inconstitucionalidade de lei estadual reconhecida pelo Tribunal de Justiça do Estado de Minas Gerais.
+Quanto ao mérito, insiste o embargante em rediscutir a questão referente à legislação aplicável à compensação ambiental de reserva legal em imóvel rural. Ocorre que o acórdão embargado apreciou especificamente o tema apontado ao decidir que (fl. 1.054/1.055):
+Outrossim, o acórdão objurgado destoa do entendimento desta Corte Superior.
+É pacífica a jurisprudência do STJ ao reconhecer a natureza propter rem da Reserva Legal e a obrigatoriedade e vinculação para o proprietário atual e o Poder Público. "Nos termos do artigo 16 c/c art. 44 da Lei 7.771/65, impõe-se aos proprietários a averbação da reserva legal à margem de matrícula do imóvel, ainda que não haja na propriedade área florestal ou vegetação nativa. Em suma, a legislação obriga o proprietário a manter e, eventualmente, recompor a fração da propriedade reservada por lei" (cfr. REsp 865.309/MG, Segunda Turma, Min. Castro Meira, DJe de 23/10/2008. No mesmo sentido, RMS 18.301/MG, Segunda Turma, Rel. Min. João Otávio de Noronha, DJ de 3.10.2005; RMS 22.391/MG, Primeira Turma, Min. Denise Arruda, DJe de 3/12/2008; REsp 973.225/MG, Segunda Turma, Min. Eliana Calmon, DJe de 3/9/2009; REsp 927.979/MG, Primeira Turma, Min. Francisco Falcão, DJ de 31/5/2007; REsp 821.083/MG, Primeira Turma, Min. Luiz Fux, DJe de 9/4/2008; EDcl no Ag 1224056/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010; AgRg no REsp 1206484/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 29/3/2011).
+Especificamente quanto à questão da irretroatividade da lei nova, frise-se que a Segunda Turma desta Corte Superior firmou a orientação de inaplicabilidade de norma ambiental superveniente de cunho material aos processos em curso, seja para proteger o ato jurídico perfeito, os direitos ambientais adquiridos e a coisa julgada, seja para evitar a redução do patamar de proteção de ecossistemas frágeis sem as necessárias compensações ambientais.
+Com efeito, a adoção do princípio tempus regit actum impõe obediência à lei em vigor quando da ocorrência do fato.
+Ao que parece, pretende a parte embargante, inconformada com o entendimento adotado por esta Corte, apenas rediscutir, com efeitos infringentes, questões decididas quando do julgamento do recurso especial, o que é inviável em sede de embargos declaratórios.
+A esse respeito, colaciono os seguintes precedentes do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL. AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. A omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022 do CPC/2015, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.
+(EDcl no AgInt no AgInt no AREsp n. 1.545.376/SP, rel. Min. Afrânio Vilela, Segunda Turma, DJe de 15/8/2024)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. MERO INCONFORMISMO. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A parte embargante discorda da conclusão alcançada no acórdão embargado que, com sólida fundamentação, rejeitou os embargos declaratórios anteriormente opostos. No caso, existe mero inconformismo da parte com o resultado do julgamento proferido, que lhe foi desfavorável, o que não viabiliza o cabimento de embargos de declaração, nos termos do art. 1.022, inciso II, do CPC/2015.
+2. É defeso a esta Corte Superior de Justiça levar a efeito exame de pretensa afronta a dispositivos constitucionais em sede de recurso especial, mesmo com o fito de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 2.338.340/SE, rel. Min. Teodoro Silva Santos, Segunda Turma, DJe de 23/4/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material no decisum embargado.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado embargado, traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.436.416/MS, rel. Min. Sérgio Kukina, Primeira Turma, DJe de 15/8/2024)
+Outrossim, de acordo com entendimento pacífico desta Corte Superior, o julgador não está obrigado a responder um a um todos os argumentos trazidos pelas partes, visando à defesa da teoria que apresentaram, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC. AUSÊNCIA DE OMISSÕES. REAJUSTE DE 3,17%. INCIDÊNCIA SOBRE AS QUANTIAS DECORRENTES DE QUINTOS/DÉCIMOS INCORPORADOS ANTERIORMENTE A DEZEMBRO DE 1994. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se não ter ocorrido ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.082.059/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 7/3/2024)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.
+(..)
+3. O órgão julgador não está obrigado a enfrentar todos os argumentos, quando por outros motivos apresente razões satisfatórias para solucionar a lide.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.891.964/TO, rel. Min. Herman Benjamin, Segunda Turma, DJe de 25/4/2022)
+Por fim, impende advertir a parte de que a reiteração injustificada dos embargos de declaração, versando sobre o mesmo assunto, acarretará a consideração de recurso manifestamente protelatório, ensejando a imposição do pagamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
