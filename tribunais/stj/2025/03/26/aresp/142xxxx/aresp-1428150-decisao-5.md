@@ -1,0 +1,18 @@
+DECISÃO
+DANIEL DA SILVA VILLAR interpõe o AREsp de fls. 25.186-25.205, contra a decisão que inadmitiu o seu recurso especial de fls. 12.852-12.866.
+O recorrente foi condenado à pena privativa de liberdade de 2 anos e 10 dias-multa, por incursão no art. 90 da Lei nº 8.666/1990, substituída por prestação de serviços à comunidade, nos termos do art. 44 do Código Penal.
+No REsp, a defesa afirma a violação dos arts. 155 e 386, V e VII, do CPP, pois assinala que a condenação foi baseada em presunções. Argumenta que o "processo licitatório pode até estar  ..  visceralmente viciado, mas isso não remete à conclusão inequívoca de que o vencedor do certame era sabedor das ilicitudes" (fl. 12.863).
+A decisão agravada está às fls. 18.122-18-226. O recurso de Daniel foi inadmitido por aplicação das Súmulas n. 7 do STJ e 284 do STF. No AREsp, o insurgente alega:
+ ..
+a condenação do ora agravante baseia-se unicamente em conjecturas e convicções que não encontram lastro em nenhuma prova produzida nos autos. Ao contrário, a presunção de que Daniel necessariamente encontrava-se mancomunado com os demais réus vai de encontro à prova constante dos autos  ..
+Além disso, o ora agravante jamais suscitou, em suas razões de Recurso Especial, a tese de que a função social da empresa impede a decretação de proibição de contratar com o Poder Público  ..  (fls. 25.189-25.190).
+Vê-se que as considerações impugnam a Súmula n. 7 do STJ. A parte argumentou que a decisão agravada está dissociada do conteúdo do RESP e que o fato de ter obtido êxito no certamente não é suficiente para fundamentar a condenação.
+Apesar do conhecimento do agravo, está correta a inadmissão do recurso especial por incidência da Súmula n. 7 do STJ. Diversamente do que assinala a defesa, a condenação do réu não está baseada em conjecturas, mas em fatos objetivos identificados durante a instrução, delineados no acórdão, suficientes a evidenciar a autoria delitiva.
+Constou do acórdão que, no Pregão Presencial n. 003/2012, relacionado à aquisição de material de didático, a empresa D-TRADE COMÉRCIO E SERVIÇOS LTDA, pertencente ao acusado DANIEL venceu o processo licitatório, o qual foi iniciado por ordem do Prefeito Evandro Capixaba, sem a indicação da justificativa para contratação, com o preço exorbitante de R$ 1.169.634,47.
+Ainda, foi determinada a não publicação do aviso de licitação n. 6056/11. O resultado da licitação foi assinado em 1º/2/2012, com Daniel e Tania Maria. Além das diversas irregularidades aparentes do certame , em especial o valor da contratação, outro aspecto foi considerado pela relatora, qual seja, o fato de irmão de Danial, o corréu Victor Manuel, também haver participado de diversas licitações fraudadas, por meio de empresas distintas.
+Nesse contexto, está correta a decisão agravada, pois a pretensão é de reexame de prova e não enseja recurso especial.
+Conforme a interpretação fixada pela Terceira Seção, no EAREsp n. 386.266/SP, relator Ministro Gurgel de Faria, DJe de 3/9/2015), não verifico, de plano, a ocorrência da prescrição penal, haja vista a retroatividade do trânsito em julgado da condenação.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+A pena aplicada ao réu, substituída por restritivas de direitos, não é absurda. O processo é numeroso (mais de 27 mil páginas) e seu andamento é complexo, o que prejudica a constatação, de plano, de patentes ilegalidades passíveis de correção de ofício, o que ocorre por iniciativa do julgador. Não há prejuízo de, uma vez subsistente o risco a direito de locomoção, a matéria seja arguida em habeas corpus, ou em revisão criminal, pois não houve o avanço de mérito para a sua análise por esta Corte.
+Publique-se e intimem-se.
+EMENTA
