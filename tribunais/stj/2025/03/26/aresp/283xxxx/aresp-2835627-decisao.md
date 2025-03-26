@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MARCIA K REZENDE à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLANO DE SAÚDE - AÇÃO MONITORIA (CUMPRIMENTO DE SENTENÇA) - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - ACOLHIMENTO - ATENDIMENTO DOS REQUISITOS DO ART. 50 DO CÓDIGO CIVIL - AGRAVANTE SITUADA NO MESMO ENDEREÇO DA EXECUTADA ORIGINÁRIA, AMBAS EXERCENDO A MESMA ATIVIDADE COMERCIAL E USO DO MESMO NOME FANTASIA - DESVIO DE FINALIDADE E CONFUSÃO PATRIMONIAL, CONFIGURADOS NA HIPÓTESE - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, a parte recorrente alega violação do art. 50 do CC, no que concerne ao afastamento da desconsideração da personalidade jurídica, eis que não há elementos suficientes que comprovem a existência de confusão patrimonial ou de condutas ilícitas por parte dos sócios, trazendo a seguinte argumentação:
+Houve no presente caso violação a dispositivo da lei federal nº 10.406/2002, principalmente no que tange a desconsideração da personalidade jurídica, matéria explorada pelo artigo 50 da referida lei.
+Conforme amplamente demonstrado nos autos de origem, não há elementos suficientes que comprovem a existência de confusão patrimonial ou de condutas ilícitas por parte dos sócios, elementos estes indispensáveis para a correta aplicação do referido dispositivo legal.
+ ..
+Contudo, no presente caso não foram apresentadas provas robustas que demonstrassem a existência de confusão patrimonial entre os bens da empresa e os bens pessoais dos sócios. A confusão patrimonial requer evidências concretas de que os ativos da empresa estão sendo utilizados para fins pessoais dos sócios, ou vice-versa, o que não foi demonstrado de maneira inequívoca nos autos.
+A ausência de tais provas indica que a personalidade jurídica da empresa foi desconsiderada de maneira precipitada e sem o devido amparo legal (fl. 60).
+Quanto à segunda controvérsia, a parte recorrente alega violação do art. 28 do CDC, no que concerne ao afastamento da desconsideração da personalidade jurídica, ante à ausência dos requisitos da teoria menor da desconsideração, trazendo a seguinte argumentação:
+Houve, ainda, violação a dispositivo da lei federal nº 8.078/1990. No presente caso, a decisão de desconsiderar a personalidade jurídica da empresa recorrente com base no artigo 28 do Código de Defesa do Consumidor foi errônea e deve ser reformada.
+A aplicação da teoria menor da desconsideração exige evidências claras de que a personalidade jurídica está sendo utilizada como um obstáculo ao ressarcimento de prejuízos causados ao consumidor. Contudo, não há qualquer indício de que a empresa recorrente tenha agido de tal maneira.
+Pelo contrário, a empresa possui ativos suficientes para cumprir suas obrigações, tornando a desconsideração uma medida desnecessária e injustificada (fl. 61).
+É o relatório.
+Decido.
+Quanto à primeira controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em que pesem os reclamos da agravante, reputo correta a r. decisão guerreada, conquanto presentes os requisitos do art.
+50 do Código Civil, notadamente o desvio de finalidade e confusão patrimonial.
+ ..
+Ao que se extrai dos autos principais, restaram demonstrados tais requisitos, eis que ambas as empresas se encontram estabelecidas no mesmo endereço, atuando no mesmo ramo de atividade comercial e, ainda, utilizam o mesmo nome fantasia ("APATITA UNIFORMES").
+Reitere-se, a aplicação da teoria da "disregard of legal entity" pressupõe a presença dos requisitos previstos no já citado art. 50 do Código Civil, ônus do qual a agravada se desincumbiu, conforme claramente se depreende do parágrafo anterior. Em outras palavras, verificada a existência de intuito fraudulento e confusão patrimonial (fls. 51-53).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Quanto à segunda controvérsia, não houve o prequestionamento do artigo de lei federal apontado como violado, porquanto não ocorreu o devido e necessário debate a respeito deste dispositivo no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimento u o entendimento segundo o qual é "inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da oposição de embargos de declaração" (AgInt no REsp n. 1.858.639/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 31.8.2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.883.703/ES, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º.9.2022; REsp n. 1.666.862/CE, Rel. Ministro Francisco Falcão, Rel. para acórdão Ministro Og Fernandes, Segunda Turma, DJe de 8.9.2022; AgRg no AREsp n. 2.089.384/RN, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22.8.2022; AgInt no AREsp n. 2.101.047/MA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.8.2022; AgInt no AREsp n. 2.033.678/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19.8.2022; AgInt no AREsp n. 1.812.402/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 17.6.2022; AgInt no AREsp n. 743.795/RN, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 28.4.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
