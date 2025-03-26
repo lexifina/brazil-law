@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interno interposto por Idelbrando de Brito Leite contra decisão de fls. 378-382.
+A agravante sustenta que o Tribunal local violou os artigos 85, parágrafos 2º e 8º-A, e 1.022, I e II do Código de Processo Civil, ao fixar os honorários por equidade, quando deveria fixar os honorários sucumbenciais, no presente caso, no limite mínimo de 10% do valor da causa.
+Com impugnação.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que merece acolhida a argumentação apresentada pela parte agravante.
+Ante o exposto, dou provimento ao agravo interno para, exercendo o juízo de retratação, tornar sem efeito a decisão de fls. 378-382, nos termos do art. 259, § 6º, do RISTJ, combinado com o § 2º do artigo 1.021 do CPC/2015.
+Passo a nova análise do agravo em recurso especial.
+Inicialmente, verifica-se que o recurso especial versa sobre a possibilidade, ou não, de fixação dos honorários advocatícios por equidade nos casos de demandas na área de saúde.
+A Primeira Seção desta Corte Superior, na sessão eletrônica iniciada em 05/2/2025 e finalizada em 11/2/2025, por unanimidade, decidiu afetar os REsp 2.169.102/AL e REsp 2.166.690/RN ao rito dos recursos repetitivos (RISTJ, art. 257- C) para delimitar a seguinte tese controvertida: "Saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do CPC).", e, igualmente por unanimidade, nos termos do art. 1.037, II, do CPC/15, suspender o processamento de todos os processos, individuais ou coletivos, que versem sobre a mesma matéria, nos quais tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ, observada a orientação prevista no art. 256-L do RISTJ, conforme proposta da Sra. Ministra Relatora Maria Thereza de Assis Moura.
+A propósito, confira-se:
+Processo civil. Recurso especial. Indicação como representativo de controvérsia. Honorários sucumbenciais. Prestações em saúde. Arbitramento com base no proveito econômico, no valor atualizado da causa ou por equidade. Afetação ao rito dos repetitivos.
+I. Caso em exame 1. Recursos especiais selecionados como representativos de controvérsia relativa ao arbitramento de honorários advocatícios em prestações de saúde.
+II. Questão em discussão 2. Saber se, nas demandas em que se pleiteia do Poder Público prestações em saúde, os honorários advocatícios devem ser fixados com base no valor do proveito econômico (art. 85, parágrafos 2º e 3º, do CPC), ou no valor atualizado da causa, (art. 85, parágrafos 4º, III, do CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do CPC).
+III. Razões de decidir 3. Os recursos especiais selecionados são admissíveis e representam controvérsia repetitiva sobre a interpretação da legislação federal.
+IV. Dispositivo e tese4. Afetação dos recursos especiais ao rito previsto nos arts. 1.036 e 1.037 do CPC e nos arts. 256 ao 256-X do RISTJ.
+5. Delimitação da controvérsia afetada: Saber se, nas demandas em que se pleiteia do Poder Público o fornecimento de prestações em saúde, os honorários advocatícios devem ser fixados com base no valor da prestação ou do valor atualizado da causa (art. 85, §§ 2º, 3º e 4º, III, CPC), ou arbitrados por apreciação equitativa (art. 85, parágrafo 8º, do CPC).
+6. Suspensão de todos os processos pendentes em que tenha havido a interposição de recurso especial ou de agravo em recurso especial, na segunda instância, ou que estejam em tramitação no STJ.
+(ProAfR no REsp 2.169.102/AL, Rel. Ministra Maria Thereza de Assis Moura, Primeira Seção, DJEN 16/12/2024.)
+Diante disso, observa-se que a matéria deduzida no presente recurso, que contempla controvérsia a respeito dos critérios de fixação de honorários advocatícios em demandas prestacionais de saúde envolvendo o Poder Público, é objeto de análise pelo Superior Tribunal de Justiça, sob o rito dos recursos repetitivos (Tema 1313). Assim, torna-se impositiva a suspensão dos feitos pendentes que tratem da mesma matéria, nos termos do art. 1.036 do CPC/2015.
+Ante o exposto, julgo prejudicado o recurso, determinando a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
