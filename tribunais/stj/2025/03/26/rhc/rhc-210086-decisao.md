@@ -1,0 +1,102 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, interposto por GILBERTO OLIVEIRA CLEMENTE, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo - HC 2306541-05.2024.8.26.0000.
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada, pela suposta prática do delito tipificado no artigo 121, § 2º, incisos I e IV, c/c art. 14, inciso II, do Código Penal.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"Ementa: PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. DECRETAÇÃO DE PRISÃO. GARANTIA DA ORDEM PÚBLICA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. DENEGAÇÃO DO WRIT.
+I. CASO EM EXAME
+Trata-se de habeas corpus impetrado em favor de GILBERTO OLIVEIRA CLEMENTE contra decisão que decretou sua prisão preventiva nos autos da Ação Penal nº 1500422-77.2024.8.26.0415, pela prática de homicídio qualificado tentado.
+O impetrante alega falta de fundamentação adequada da ordem prisional, ausência de intenção homicida, e requer a revogação da prisão ou a aplicação de medidas alternativas.
+II. QUESTÃO EM DISCUSSÃO
+A questão central consiste em saber se: (i) a decisão que decretou a prisão preventiva possui fundamentação idônea; (ii) estão presentes os requisitos do art. 312 do CPP.
+III. RAZÕES DE DECIDIR
+A decisão de prisão preventiva foi fundamentada em provas da materialidade e indícios de autoria, incluindo gravações de câmeras de segurança.
+O juiz destacou a gravidade da conduta, que envolveu ataque em grupo e uso de arma branca, além da reincidência do paciente em delitos.
+A necessidade de manutenção da prisão preventiva foi justificada pela garantia da ordem pública, considerando a periculosidade do paciente e o risco de reiteração delitiva.
+IV. DISPOSITIVO E TESE DENEGO o pedido de habeas corpus.
+Tese de julgamento: "1. A decisão que decreta a prisão preventiva está adequadamente fundamentada. 2. A gravidade concreta da conduta justifica a manutenção da prisão cautelar."
+Legislação e Jurisprudência Relevantes Citadas:
+Legislação: CPP, arts. 312 e 313.
+Jurisprudência: STJ, HC nº 711.556, Rel. Min. Ribeiro Dantas, 26/04/2022; STJ, HC nº 727.045, Rel. Min. Ribeiro Dantas, 19/04/2022." (e-STJ, fl. 213).
+Nesta Corte, a defesa sustenta, em síntese, a existência de constrangimento ilegal em face do acusado, decorrente da ausência de fundamentação idônea para a manutenção da segregação cautelar, visto que não se encontram presentes os requisitos legais autorizadores, previstos no art. 312 do Código de Processo Penal.
+Pontua, ainda, que não há prova suficiente da intenção homicida, devendo a conduta ser desclassificada para lesão corporal.
+Destaca também que o recorrente se apresentou voluntariamente às autoridades.
+Requer, assim, a revogação da custódia preventiva, com ou sem a aplicação das medidas cautelares diversas.
+É o relatório.
+Decido.
+Inicialmente, quanto à intenção homicida, verifica-se que a matéria não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte Superior:
+"(..).
+4. Quanto ao pleito de substituição da prisão preventiva pela domiciliar, sua análise implicaria supressão de instância, tendo em vista que a matéria não foi examinada pelo Tribunal de origem.
+(..)."
+(AgRg no HC n. 950.835/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025).
+"(..).
+5. A alegada violação aos princípios da ampla defesa e do contraditório, sob o argumento de que "a defesa técnica, por não ter sido regularmente intimada da data de realização da sessão de julgamento, foi impedida de exercer um de seus direitos mais fundamentais: o de realizar a sustentação oral perante o tribunal" (e-STJ fl. 179), não foi debatida pelo Tribunal de origem, o que impede sua análise por esta Corte Superior, sob pena de indevida supressão de instância.
+6. Agravo regimental desprovido."
+(AgRg no RHC n. 206.031/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Ainda que assim não fosse, cumpre ressaltar que alterar o entendimento firmado pelas instâncias ordinárias sobre a existência de animus necandi na conduta - como pretende a defesa - demandaria necessariamente o reexame do conjunto fático-probatório dos autos, inviável na estreita via do recurso em habeas corpus.
+A propósito do tema, trago à colação os seguintes julgados:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO. PRISÃO PREVENTIVA. ALEGAÇÃO DE LEGÍTIMA DEFESA E AUSÊNCIA DE ANIMUS NECANDI. INADEQUAÇÃO DA VIA ELEITA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA. RISCO DE FUGA. SEGRAGAÇÃO NECESSÁRIA PARA GARANTIR A ORDEM PÚBLICA E A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inicialmente, os julgados aos quais se refere o agravante foram utilizados para ilustrar o entendimento consolidado dos Tribunais Superiores no sentido de que (i) a gravidade concreta da conduta justifica a prisão preventiva; e (ii) as condições pessoais favoráveis do agente não obstam a segregação cautelar.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Julgados do STF e STJ.
+3. As teses de que o agravante não tinha a intenção de matar a vítima e agiu em legítima defesa consistem em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório. Assim, as provas dos autos devem ser apreciadas durante a instrução criminal, sob o crivo do contraditório, não sendo esta a via adequada para a sua revisão.
+ ..
+9. Agravo regimental desprovido."
+(AgRg no HC n. 894.873/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/4/2024, DJe de 24/4/2024, grifou-se).
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. RECLAMO NÃO PROVIDO. TENTATIVA DE FEMINICÍDIO E DE DOIS HOMICÍDIOS TRIPLAMENTE QUALIFICADOS. DECISÃO UNIPESSOAL DO RELATOR. PREVISÃO REGIMENTAL E SUMULADA. AUSÊNCIA DE ANIMUS NECANDI. VIA ELEITA INCOMPATÍVEL. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. AGRAVO NÃO PROVIDO.
+1. Com lastro no art. 34, XX e XVIII, "b", do Regimento Interno deste Superior Tribunal, autoriza-se ao Relator proferir decisão unipessoal, se o decisum rechaçado se conformar com as diretrizes sedimentadas sobre a matéria pelas Cortes Superiores, sejam ou não sumuladas, ou as confrontar. Não há falar, pois, em afronta ao princípio da colegialidade.
+2. Segundo a orientação deste Tribunal Superior, "No que tange ao pedido de desclassificação por ausência da demonstração do animus necandi na conduta do acusado, ressalta-se que maiores incursões sobre o tema demandariam revolvimento fático-probatório dos autos, o que não se coaduna com a via eleita" (AgRg no HC n. 866.374/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+ ..
+5. Agravo regimental não provido."
+(AgRg no RHC n. 188.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE AUSÊNCIA DE ANIMUS NECANDI E PLEITO DE DESCLASSIFICAÇÃO DO DELITO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INADEQUAÇÃO NA ESTREITA VIA DO WRIT. PRONÚNCIA. EXCESSO DE LINGUAGEM, INEXISTÊNCIA. ALEGAÇÃO QUE SE BASEOU APENAS EM TESTEMUNHOS DE "OUVI DIZER". PRESENÇA DE OUTROS ELEMENTOS PROBATÓRIOS. EXCLUSÃO DE QUALIFICADORAS NÃO MANIFESTAMENTE IMPROCEDENTES. NÃO CABIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGRAVANTE EVIDENCIADA PELO MODUS OPERANDI. MEDIDAS CAUTELARES DIVERSAS. INVIABILIDADE. TESE DE EXISTÊNCIA DE FATOS NOVOS COM A EXECUÇÃO DA PENA POR CRIME DIVERSO. INOVAÇÃO RECURSAL. AGRAVO DESPROVIDO.
+1. Alterar o entendimento firmado pelas instâncias ordinárias sobre a existência de animus necandi na conduta, bem como quanto ao pleito de desclassificação do delito de homicídio, levaria necessariamente ao revolvimento de matéria fático-probatória, inviável na estreita via do habeas corpus.
+ ..
+11 . Agravo regimental desprovido."
+(AgRg no HC n. 767.714/SP, minha relatoria, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022, grifou-se).
+No mais, havendo prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+O Juízo processante decretou a prisão preventiva pelos seguintes fundamentos:
+" ..  No caso concreto há prova de materialidade e indícios de autoria, de que os réus estejam envolvidos na prática de tentativa de homicídio qualificado (pena máxima de 20 anos de reclusão).
+No que tange aos requisitos cautelares, a prova da materialidade e os indícios de autoria emergem do boletim de ocorrência de fls. 04/06, pelos depoimentos colhidos pela autoridade policial de fls. 07,08, 21/22, 23/24,e 25/26 e 30, pelo termo de declarações de fls. 09/10, relatório do Setor de Investigação de fls. 32/40, e imagens da câmera de segurança. Estes indicam que, supostamente, os investigados, por motivo torpe e com intenção homicida, desfiram socos e chutes contra a vítima e posteriormente, o acusado Gilberto que se encontrava na posse de uma faca, deferiu um golpe no abdômen da vítima, que caiu ao solo desacordada.
+A prisão cautelar mostra-se necessária para a garantia da ordem pública, em face da gravidade concreta da conduta supostamente praticada - tentativa de homicídio duplamente qualificado. Em especial porque consta que a vítima sofreu diversos golpes, como socos, chutes, facada no abdômen, lesões corporais nos olhos, hematomas no rosto, braço e pescoço.
+A vítima desvencilhou-se dos agressores e correu para a rua, sendo perseguido pelos acusados, que novamente conseguiram aborda-la e desferiu diversos socos e chutes. Gilberto, que se encontrava na posse de uma faca, desferiu ao menos um golpe no abdômen da vitima, colocando em risco potencial os presentes no local.
+Não bastasse, os acusados ostentam outros registros criminais. A folha de antecedentes de Gilberto indica que é reincidente por tráfico de drogas (fl. 115) e Jonas é réu pela acusação de lesão corporal (art. 129, § 13, do Código Penal, fl.122). Necessária, portanto, a decretação da prisão preventiva como forma de acautelar o meio social e socorrer à ordem pública, de modo a evitar a prática de novos crimes pelos requeridos.
+A prática do crime imputado aos réus é de extrema gravidade concreta. E a gravidade concreta da infração, em razão das circunstâncias em que venha a ser praticada, revela a periculosidade, a qual, por si só, pode perfeitamente legitimar a custódia cautelar, ainda que se trate de pessoa primária e com bons antecedentes.
+ ..
+Diante do exposto, DECRETO a prisão preventiva de GILBERTO OLIVEIRA CLEMENTE, vulgo "Juninho", qualificado a fls. 84/85, e JONAS DA CRUZ FILHO, vulgo "Joninha", qualificado as fls. 88/89, o que faço com esteio nos arts. artigos 312 e 313, do CPP." (e-STJ, fls. 150-153, grifou-se).
+O Tribunal de origem se manifestou nos termos a seguir transcritos, no pertinente:
+" ..  Respeitado o entendimento porventura divergente, impõe-se reconhecer que a r. decisão acima destacada foi proferida com claro senso de responsabilidade pela D. Autoridade Judicial apontada como coatora, alinhada com a preservação dos valores maiores da nossa sociedade, encontrando-se adequadamente fundamentada nos termos do artigo 93, IX, da Constituição Federal.
+Os pressupostos de admissibilidade, consubstanciados pela materialidade delitiva e indícios suficientes de autoria estão demonstrados pelo boletim de ocorrência (fls. 04/06, dos autos de origem), relatório final de inquérito policial (fls. 91/99, dos autos de origem), prontuário médico da vítima (fls. 46/47, dos autos de origem) e depoimentos colhidos na fase policial que apontam, ao menos em tese, o paciente como o autor dos crimes que lhe foram imputados na exordial.
+Já no que se refere ao periculum libertatis exigido pelo art. 312, do Código de Processo Penal, cumpre asseverar que há indícios suficientes de envolvimento do paciente em delitos de elevada gravidade concreta, porquanto, em sede de cognição sumária, constata-se que ele foi um dos autores do delito de homicídio tentado contra a vida de JOÃO BARBOSA, praticado em superioridade numérica e com emprego de arma branca.
+Nesse contexto, imperioso mencionar que é pacífico no C. STJ o entendimento segundo o qual a gravidade em concreto das condutas perpetradas é elemento válido para manutenção do decreto cautelar com fundamento na garantia da ordem pública, in verbis:
+ ..
+Mas para além da gravidade em concreto das condutas daquele que, em tese, atenta contra a vida de outro cidadão, há de se mencionar que o paciente é considerado reincidente, porquanto ostenta condenação definitiva pela prática do crime de tráfico de drogas nos autos do proc. 0000547-66.2017.8.26.0415 - fls. 115, do principal , circunstância que também autoriza a manutenção do decreto cautelar com fundamento na garantia da ordem pública, conforme entendimento do c. STJ, é de se ver:
+ ..
+Não bastante, a reincidência delitiva é causa autônoma de denegação da liberdade provisória, nos termos do art. 310, § 2º, do Código de Processo Penal1, o que, por si só, já seria suficiente rechaço da ordem pleiteada.
+Daí que, em casos como o ora em análise, em que há indícios de autoria e prova da materialidade dos crimes sobre os quais recai a mais severa repugnância social, não se pode cogitar a concessão da liberdade provisória ou qualquer outra medida cautelar diversa da prisão (art. 319, CPP), alternativas que seriam insuficientes para evitar o perigo gerado na sociedade advindo de um prematuro estado de liberdade do acusado." (e-STJ, fls. 218-222, grifou-se).
+No caso, a custódia preventiva está adequadamente motivada em elementos concretos extraídos dos autos, que indicam a necessidade de se resguardar a ordem pública, pois a periculosidade social do recorrente está evidenciada no modus operandi do ato criminoso e na reiteração delitiva do acusado.
+Segundo delineado pelas instâncias ordinárias, o recorrente teria tentado matar a vítima, junto com o corréu, mediante socos, chutes e uma facada no abdômen, deixando a vítima desacordada e caída no solo. Além disso, consta que o recorrente é reincidente pelo delito de tráfico de drogas.
+Com efeito, é firme a jurisprudência desta Corte no sentido de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019).
+Nesse sentido, os seguintes precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL. PRISÃO PREVENTIVA. DECRETAÇÃO DE OFÍCIO. NULIDADE NÃO CONFIGURADA. POSTERIOR REPRESENTAÇÃO DA AUTORIDADE POLICIAL E MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. IRREGULARIDADE SUPERADA. FUNDAMENTAÇÃO IDÔNEA DA CUSTÓDIA. PERICULOSIDADE DO AGENTE. GRAVIDADE CONCRETA. MODUS OPERANDI. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO ORDINÁRIO DESPROVIDO.
+ ..
+2. No caso dos autos, a prisão preventiva foi adequadamente motivada, tendo sido demonstradas com base em elementos concretos, a gravidade da conduta e a maior periculosidade do recorrente, ante o modus operandi do delito, uma vez que o agente atingiu a vítima com golpes de faca que ocasionaram sua morte, tão somente em razão de o ofendido ter bebido sua vodka. Tais circunstâncias, somadas ao risco real de reiteração delitiva, considerando que o recorrente possui em curso um processo pela prática do delito de tráfico de drogas, que se encontra suspenso em razão de estar foragido, demonstram a necessidade da manutenção da segregação antecipada para garantia da ordem pública.
+3. Conforme orientação jurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva.
+4. Recurso ordinário em habeas corpus desprovido."
+(RHC 137.202/BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021, grifou-se).
+"AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE POR FALTA DE INCLUSÃO EM PAUTA E EVENTUAL DIREITO DE SUSTENTAÇÃO ORAL. INEXISTÊNCIA. SUPERVENIÊNCIA DE DECISÃO DE PRONÚNCIA. AUSÊNCIA DE NOVOS FUNDAMENTOS A EMBASAR A MANUTENÇÃO DA CUSTÓDIA. INSURGÊNCIA NÃO PREJUDICADA. PRISÃO PREVENTIVA. ESPECIAL GRAVIDADE DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.
+ ..
+3. No caso, não há óbice à análise de mérito da prisão preventiva, já que o Magistrado entendeu por manter a prisão do Pronunciado com o mesmo fundamento mencionado no anterior decreto de prisão preventiva.
+4. A custódia cautelar foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, sobretudo em razão do modus operandi do delito, já que o crime de homicídio qualificado foi realizado mediante violência exacerbada consubstanciada por golpes de faca, inclusive, em região vital (peito) da Vítima, por motivos de revide/vingança à identificação do Réu como autor de furto, o que denota a especial gravidade dos fatos, a justificar a segregação cautelar para garantia da ordem pública.
+5. Agravo regimental desprovido."
+(AgRg no RHC 139.758/BA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/06/2021, DJe 21/06/2021, grifou-se).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA, FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DO AGRAVANTE EVIDENCIADA PELO MODUS OPERANDI. PLEITO DE PRISÃO DOMICILIAR. PANDEMIA. COVID-19. GRUPO DE RISCO. SITUAÇÃO DE VULNERABILIDADE CONCRETA NÃO EVIDENCIADA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO NÃO PROVIDO.
+1. A teor do disposto no art. 312 do Código de Processo Penal, havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. A colocação do recorrente em liberdade representa risco concreto ao meio social, dada sua periculosidade concreta verificada no modus operandi do delito.
+3. Hipótese em que a custódia provisória está suficientemente motivada na garantia da ordem pública, tendo em vista a periculosidade do agravante, que se evidencia na gravidade concreta da conduta delitiva. Segundo consta, o agravante teria desferido golpes de faca na vítima em razão desta ter-lhe pedido alguns cigarros.
+ ..
+7. Agravo regimental não provido."
+(AgRg no HC 582.576/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/08/2020, DJe 03/09/2020, grifou-se).
+Nesse contexto, é inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública (AgRg no HC n. 823.816/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+Ademais, é entendimento do Superior Tribunal de Justiça que as condições favoráveis do acusado, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada (AgRg no HC n. 928.532/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024).
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
