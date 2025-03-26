@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por Rodovias das Colinas S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.136):
+Ação anulatória. Concessionária de rodovia. Multa lavrada pela ARTESP. Descumprimento do Contrato com relação à Conservação Especial de Pavimento em trechos de rodovia sob administração da autora. Infração prevista no Termo Aditivo e Modificativo Coletivo/2006/01 - Anexo 1, Diretoria de Investimentos 16. Pavimento, Item 1, Grupo ARTESP I, Nível ARTESP B. Configuração. Autuação pertinente. Regular apuração em expediente administrativo. Penalidades atinentes a múltiplas infrações, em trechos distintos (13 vezes), isoladamente considerados. Cabimento. Entendimento neste E. Tribunal de Justiça. Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 8º do CPC, sustentando a inocorrência de justa solução à lide, tendo sido fixada uma penalidade desproporcional. Alega que a quantidade de infrações consideradas pela agência reguladora (que são treze) em apenas um procedimento administrativo difere do previsto no contrato de concessão, devendo a multa ser reduzida. Afirma que os contratos administrativos regem-se por lei própria. Aduz que, "Independentemente da quantidade de quilômetros de pavimento fora dos parâmetros exigidos, a infração é única e decorre dos defeitos presentes na rodovia, ou seja, a constatação apurada pela agência reguladora quando das vistorias ao revés do que consignado no processo administrativo" (fl. 1.156).
+Foram ofertadas contrarrazões às fls. 1.168/1.178.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar. Com efeito, a matéria pertinente ao art. 8º do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF. Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE COBRANÇA. CONTRATO ADMINISTRATIVO. CORREÇÃO MONETÁRIA E JUROS DE MORA. JUROS DE MORA. TERMO INICIAL. OBRIGAÇÃO POSITIVA E LÍQUIDA. DATA DO VENCIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A Corte a quo, apesar de reconhecer se tratar de obrigação positiva e líquida, negou provimento ao recurso com base na ausência de notificação extrajudicial em momento anterior ao da citação, divergindo da jurisprudência do STJ, que possui entendimento consolidado no sentido de que o termo inicial de incidência de juros moratórios de obrigação líquida ocorre no vencimento da obrigação;
+se ilíquida, o termo inicial será a data da citação judicial.
+Precedentes.
+2. O Tribunal de origem não apreciou as seguintes teses: a) a ausência de pagamento ocorreu por decisão do TCE/AM e não por fato imputável ao agravante; e b) somente há mora do Estado após o decurso do prazo de trinta dias do atesto do serviço prestado. A parte recorrente, por sua vez, não opôs embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356, ambas do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.620.664/AM, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
