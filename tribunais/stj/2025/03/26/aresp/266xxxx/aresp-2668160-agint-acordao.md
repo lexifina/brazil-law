@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ELEMENTO SUBJETIVO DOLOSO E LESÃO AO ERÁRIO RECONHECIDOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, com base na análise dos elementos fático-probatórios, concluiu pela existência de dolo e lesão ao erário por parte da empresa recorrente, ao receber pagamentos sem a devida contraprestação de serviços, o que configura ato de improbidade administrativa.
+2. Para modificar a conclusão do acórdão recorrido, seria necessário o reexame de provas, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por D PAULA TERRAPLENAGEM E CONSTRUÇÃO CIVIL LTDA contra a decisão de minha relatoria que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, conforme ementa a seguir transcrita (fls. 10026-10029):
+AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO QUE RECONHECEU A PRÁTICA DE ATO DOLOSO POR PARTE DA EMPRESA. AUSÊNCIA DE DEFICIÊNCIA NA FUNDAMENTAÇÃO DA DECISÃO. ALEGAÇÃO DE INEXISTÊNCIA DE COMPROVAÇÃO DO ELEMENTO VOLITIVO. NECESSIDADE DE REVISITAÇÃO DO CONTEXTO FÁTICO. SÚMULA 7/STJ. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+No presente agravo interno, a parte agravante, em síntese, argumenta que a decisão monocrática incorreu em erro ao aplicar a Súmula n. 7 do STJ, pois a questão seria exclusivamente de direito, relacionada à aplicação da Lei Federal n. 8.429/92, com redação da Lei n. 14.230/21, e não demandaria reexame de provas. A agravante sustenta que não há comprovação do dolo específico necessário para a configuração de improbidade administrativa e que a decisão recorrida contraria o disposto nos arts. 373, inciso I, e 489 do Código de Processo Civil, ao impor à agravante a demonstração de sua inocência, violando o princípio constitucional da presunção de inocência. Alega ainda divergência jurisprudencial sobre a exigência do dolo específico para configuração de improbidade administrativa (fls. 10081-10095).
+O Ministério Público do Estado de São Paulo apresentou contraminuta ao agravo interno (fls. 10103-10108).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ELEMENTO SUBJETIVO DOLOSO E LESÃO AO ERÁRIO RECONHECIDOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem, com base na análise dos elementos fático-probatórios, concluiu pela existência de dolo e lesão ao erário por parte da empresa recorrente, ao receber pagamentos sem a devida contraprestação de serviços, o que configura ato de improbidade administrativa.
+2. Para modificar a conclusão do acórdão recorrido, seria necessário o reexame de provas, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento. A Corte de origem, ao examinar as provas constantes dos autos, concluiu pela demonstração do elemento subjetivo necessário à configuração da improbidade administrativa, qual seja, o dolo, bem como pela existência de lesão ao erário público, conforme demonstram os trechos a seguir (fls. 9816-9818):
+Quanto à requerida D Paula Terraplanagem e Construção Civil LTDA., vencedora do Pregão Presencial nº 03112010, igualmente ocorreu fraude na execução do contrato. Os documentos juntados no inquérito civil (apenso 09), dão conta de que a empresa recebeu da municipalidade o pagamento por inúmeras horas de locação de máquinas e mão de obra, sem que os serviços tivessem, de fato, sido prestados.
+ ..
+A empresa D"Paula, a seu turno, inobstante, de fato, não ter concorrido para a fraude perpetrada por EDE e Comandaí, igualmente incorreu em ato de improbidade na medida em que, também ela, recebeu do erário por obras e serviços realizados pela Municipalidade.
+ ..
+Para além da individualização da conduta dos réus destaca-se, ainda, o perfazimento do elemento objetivo do ato, qual seja, a lesão ao erário, sendo que em relação aos réus EDE," D"Paula e Carlos Roberto, o prejuízo consistiu no pagamento realizado pela Fazenda Municipal sem a devida contraprestação (afinal, as obras e serviços contratados foram, ao menos em parte, realizados pela própria Municipalidade, repita-se).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+Quanto à questão da alegada ausência de dolo específico, a Corte de origem afirmou, expressamente, que "a empresa recebeu da municipalidade o pagamento por inúmeras horas de locação de máquinas e mão de obra, sem que os serviços tivessem, de fato, sido prestados" (fl. 9816). Tal afirmação não deixa dúvidas quanto à existência de dolo específico, pois não se pode argumentar que uma empresa que receba dinheiro público sem a contraprestação de serviços não tenha a intenção de se apropriar indevidamente de recursos do erário.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. IMPROBIDADE ADMINISTRATIVA TIPIFICADA NO ART. 10, VIII E IX, DA LEI 8.429/1992. DOLO VERIFICADO PELO TRIBUNAL DE ORIGEM. SÚMULA 7 DO STJ. EMBARGOS ACOLHIDOS APENAS PARA PRESTAR ESCLARECIMENTOS.
+ ..
+5. Reconhecida a conduta dolosa no acórdão de origem, não há que se aplicar a Lei 14.230/2021 ao caso em tela. Dessa forma, não há como rever as conclusões alcançadas pelo Tribunal de origem sobre o elemento subjetivo, porquanto o seu exame implicaria o revolvimento de fatos e provas, o que não é possível na via do Recurso Especial, em razão da Súmula 7 do STJ. Nesse sentido: AgInt no AR Esp n. 2.117.559/PR, Rel. Ministro Herman Benjamin, Segunda Turma, D Je de 18.12.2023; e AR Esp n. 2.031.414/MG, Rel. Ministro Gurgel de Faria, Primeira Turma, D Je de 15.8.2023.
+6. Embargos de Declaração acolhidos apenas para prestar esclarecimentos. (E Dcl nos E Dcl no R Esp n. 1.788.624/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, D Je de 22/8/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS NO AGRAVO INTERNO. PRECLUSÃO. ALEGAÇÃO DE QUE NÃO ESTÃO PRESENTES ELEMENTOS OBJETIVOS E SUBJETIVOS PARA O RECONHECIMENTO DA CONDUTA IMPUTADA. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PLEITO PELA APLICAÇÃO RETROATIVA DA LEI N. 14.230/2021. IMPOSSIBILIDADE. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A conclusão da decisão agravada não impugnada nas razões do agravo interno atrai a incidência da preclusão.
+2. A Corte de origem concluiu que foram demonstrados todos os elementos subjetivos e objetivos necessários à caracterização das condutas imputadas, bem como terem sido respeitados os princípios da razoabilidade e da proporcionalidade na aplicação das sanções. Portanto, a inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+3. In casu, tendo o acórdão recorrido reconhecido o dolo na conduta da parte ora embargante, inviável a aplicação das inovações instituídas pela Lei n. 14.230/2021.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido. (AgInt no AR Esp n. 2.432.962/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, D Je de 21/5/2024.)
+Assim, merece ser mantida a decisão ora agravada, por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
