@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manejado por Estado do Rio Grande do Norte, em face de decisão denegatória de recurso especial, este interposto com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado (fl. 298):
+CONSTITUCIONAL. TRIBUTÁRIO. MANDADO DE SEGURANÇA. SENTENÇA QUE CONCEDEU PARCIALMENTE A ORDEM. REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. DIFERENCIAL DE ALÍQUOTA DE ICMS. INCIDÊNCIA NAS OPERAÇÕES ENVOLVENDO A COMERCIALIZAÇÃO DE GASOLINA NOS TERMOS DA LEI COMPLEMENTAR Nº 261/2003. CARÁTER ESSENCIAL DA GASOLINA. ISENÇÃO. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. REMESSA NECESSÁRIA E APELO CONHECIDOS E DESPROVIDOS.
+Opostos embargos declaratórios, foram rejeitados (fls. 327/328).
+A parte recorrente aponta violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC. Sustenta, em síntese, que a Corte de origem manteve-se omissa quanto a questões relevantes ao deslinde da controvérsia, a saber, "deixou de analisar os argumentos da Fazenda Pública aqui recorrente, especialmente, quanto à necessidade de declaração da inaplicabilidade da lei local depender da análise do Plenário do e. TJRN, nos termos dos artigos 948 e 949 do CPC, interpretado a partir do entendimento da Súmula Vinculante nº 10 do STF" (fl. 341);
+Foram ofertadas contrarrazões às fls. 359/366.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta guarida quanto à alegada violação ao art. 1.022, II, do CPC.
+A parte ora agravante, nos aclaratórios opostos na origem, referiu omissão perpetrada pelo acórdão recorrido ao não se manifestar acerca da alegada necessidade de declaração da inaplicabilidade da lei local depender da análise do órgão plenário da Corte de origem uma vez que "o acórdão embargado findou por declarar a inconstitucionalidade de tal norma, desconsiderando os dispositivos legais e a súmula vinculante transcritos alhures" (fls. 311/312); , nos seguintes termos (fl. 312):
+Em que pese o ente ora embargante tenha defendido em seu apelo a impossibilidade de afastar a aplicabilidade da Lei Complementar Estadual nº 261/2003, com as alterações da LCE 450/210 , uma vez que a sua legalidade e constitucionalidade foram expressamente convalidadas pelo art. 4 o , da Emenda Constitucional 42/2003, esta Colenda Câmara Cível se manteve silente quanto ao ponto, mantendo hígida a decisão que determinou à autoridade coatora que se abstenha de exigir da impetrante o adicional FECOP de 2% (dois por cento) do ICMS incidente nas operações com gasolina C.
+Pois bem.
+Ao afastar a validade da Lei Complementar Estadual nº 261/2003, com as alterações da LCE 450/210, o Acórdão embargado findou por declarar a inconstitucionalidade de tal norma, desconsiderando os dispositivos legais e a súmula vinculante transcritos alhures.
+Ocorre que é pacífico na jurisprudência do Supremo Tribunal Federal que a decisão de afastar a aplicabilidade de determinada norma é equivalente à declaração de inconstitucionalidade e, portanto, só podería ser realizada pelo Plenário do Tribunal.
+Assim, para afastar a aplicação da referida norma, a matéria da inconstitucionalidade não podería ter sido tratada implicitamente, pelo contrário, a questão deveria ter sido submetida ao Plenário do Tribunal, sob pena de incorrer em violação à Súmula Vinculante nº 10 . In verbis" (omissis)
+Tais alegações foram oportunamente suscitadas (fls. 307/318), surgindo a partir do julgamento da apelação pelo acórdão recorrido de fls. 298/306.. Todavia, a Corte origem se limitou a reproduzir trechos do acórdão embargado, em que "o produto se enquadra como supérfluo, sendo necessário afastar a legislação estadual que estipulou o pagamento do adicional, em conformidade com o § I o , do art. 82, da ADCT da Constituição Federal" (cf fl. 329) e a pronunciar-se no sentido de que não haveria qualquer um dos vícios elencados no art. 1.022 do CPC.
+Em outras palavras, o Tribunal de origem quedou-se silente sobre tais argumentações, rejeitando os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. JULGAMENTO ANTECIPADO. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA CASO CONCRETO. OCORRÊNCIA.
+1. Configura cerceamento de defesa o procedimento adotado pelo magistrado que indefere o pedido de produção de provas oportunamente especificadas e, na sequência, julga improcedente o pedido exatamente por falta de comprovação do alegado. Precedentes.
+2. Hipótese em que o magistrado julgou antecipadamente improcedente ação indenizatória, por ausência de provas, mas não permitiu a sua produção devidamente requerida.
+3. Agravo interno não provido
+(AgInt no AREsp n. 1.406.156/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 28/6/2021, DJe de 1/7/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA POR AUSÊNCIA DE PROVAS. CERCEAMENTO DE DEFESA CONFIGURADO. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A decisão que não conheceu do agravo em recurso especial deve ser reconsiderada, pois presente a dialeticidade recursal.
+2. No mérito, há cerceamento de defesa quando o juiz indefere a realização de prova requerida oportuna e justificadamente pela parte autora, com o fito de comprovar suas alegações, e o pedido é julgado improcedente por falta de provas. Precedentes.
+3. Agravo interno provido. Decisão reconsiderada. Agravo conhecido para dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.780.166/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/6/2021, DJe de 1/7/2021.)
+Uma vez reconhecida a negativa de prestação jurisdicional, resta por ora prejudicada a apreciação dos demais pontos suscitados no recurso especial.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, por violação ao art. 1.022 do CPC, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração, nos termos da fundamentação.
+Publique-se.
+EMENTA
