@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TRAVESSIA ASSESSORIA FINANCEIRA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PEDIDO DE LEVANTAMENTO DE VALORES PENHORADOS - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA AFASTADA NO JULGAMENTO DO AGRAVO DE INSTRUMENTO  2094568-37.2024.8.26.0000 COM AFASTAMENTO DA PENHORA DOS VALORES BLOQUEADOS - PERDA DE OBJETO DO PRESENTE RECURSO - EXAME PREJUDICADO.
+Quanto à controvérsia, a parte recorrente alega violação do art.313, V, a, do CPC, no que concerne à necessária suspensão do presente recurso até o trânsito em julgado do interposto pela parte recorrida, porquanto a decisão final daquele afetará o prosseguimento deste e há risco de decisões conflitantes, trazendo a seguinte argumentação:
+24. Conforme amplamente debatido, a Recorrente interpôs agravo de instrumento em face da decisão proferida nos autos principais do incidente de desconsideração de personalidade jurídica que, apesar de ter acolhido a pretensão exposta, determinou que o levantamento dos valores bloqueados da Recorrida em forma liminar apenas poderá ocorrer com o decurso do prazo recursal da decisão.
+25. Entretanto, tal questão sequer chegou a ser apreciada pelo Tribunal de Justiça de São Paulo, tendo em vista que foi proferido Acórdão que julgou o recurso prejudicado ante o provimento do recurso de agravo de instrumento de nº 2094568-37.2024.8.26.0000 interposto pela Recorrido, o qual afastou a desconsideração da personalidade jurídica anteriormente concedida pelo D. Juízo a quo.
+ ..
+27. Ora, Excelência, por certo, o presente recurso necessita ser suspenso até o trânsito em julgado do recurso interposto pela Potência, não podendo ser julgado prejudicado neste momento, ante o período processual que o outro recurso ainda se encontra.
+28. Isto porque, a decisão final daquele recurso afetará o prosseguimento ou não deste recurso, questão esta que é exatamente a disposta no artigo violado acima, tratando-se de clara situação de prejudicialidade externa.
+29. Considerando que a Recorrente inclusive já recorreu do Acórdão proferido no recurso de agravo de instrumento interposto pela Recorrida, necessário que este recurso seja suspenso até o trânsito em julgado daquela decisão, tendo em vista a clara possiblidade de existirem decisões conflitantes (fls. 50-51).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
