@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por WAGNER DE GODOI MAJOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - TJRJ no julgamento do Habeas Corpus Criminal n. 0097513-26.2024.8.19.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante no dia 17/10/2024, teve convertida a custódia em prisão preventiva e restou denunciado pela suposta prática do crime tipificado no art. 155, § 4º, IV, c/c o art. 14, II, do Código Penal - CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem objetivando a revogação da custódia cautelar, contudo, o TJRJ denegou a ordem, consoante o acórdão assim ementado:
+"EMENTA - HABEAS CORPUS - FURTO QUALIFICADO PELO CONCURSO DE AGENTES (FIOS) - ARTIGO 155, §4º, IV, N/C DO ART. 14, II, AMBOS DO CÓDIGO PENAL - PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA - IMPOSSIBILIDADE - DECISÃO QUE CONVERTEU O FLAGRANTE EM PRISÃO PREVENTIVA, ALÉM DAQUELA QUE INDEFERIU PEDIDO DE LIBERDADE, BEM FUNDAMENTADAS - PRESENTES O FUMUS COMISSI DELICTI, BEM COMO O PERICULUM IN LIBERTATIS - GARANTIA DA ORDEM PÚBLICA E DE EVENTUAL APLICAÇÃO DA LEI PENAL, ALÉM DE EVITAR REITERAÇÃO CRIMINOSA - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1-Conforme consta da denúncia, no dia 17 de outubro de 2024, por volta das 19h10, na Av. Coronel Phidia Távora, em frente à empresa Nexans, Pavuna, nesta cidade, os denunciados, de forma consciente e voluntária, em comunhão de ações e desígnios entre si, fazendo uso de uma catraca própria para tração de fios, tentaram subtrair cabos de cobre de um bueiro lá existente, os quais passavam na rede subterrânea da aludida via. Para tanto, os denunciados abriram o bueiro da rua e engataram a ponta do fio de cobre na aludida catraca, a qual era utilizada para puxar os cabos. Ocorre que policiais militares faziam patrulhamento na região e tiveram sua atenção despertada para os imputados, em plena prática delitiva, razão pela qual resolveram abordá-los. Durante a abordagem, os imputados confessaram aos agentes da lei que pretendiam subtrair os cabos de cobre que ali passavam, aduzindo que usuários de crack costumam subtrair cabos ali e, por isso, eles decidiram fazer o mesmo.
+2-A decisão que converteu o flagrante em prisão preventiva, bem como aquela que indeferiu pedido de liberdade, encontram-se bem fundamentadas na existência de indícios de autoria e prova da materialidade. Conduta que fere, substancialmente, a ordem pública e gera prejuízo à toda coletividade, em razão da indisponibilidade do serviço prestado pela concessionária lesada.
+3-O fato do paciente ser primário, ter bons antecedentes e residência fixa, por si só, não obstam a decretação da prisão cautelar, como vêm decidindo os Tribunais Superiores
+4-Não se perca de vista que o ora paciente já foi condenado por furto qualificado, a 04 anos de reclusão, no regime semiaberto, além do pagamento de 20 dias-multa, nos autos do processo crime nº 0297980-86.2022.8.19.0001, por sentença proferida em 04-04- 2023. O recurso defensivo foi julgado pela 3ª Câmara Criminal- TJERJ, que negou provimento, em sessão de julgamento realizada em 05-03-2024. Os recursos especiais interpostos pelas defesas de Wagner e do corréu José Eduardo Silva Dantas não foram admitidos, por decisão proferida pela Segunda Vice-Presidência, em 26-06-2024. Dessa forma, a prisão se mostra até mesmo necessária para evitar a reiteração criminosa.
+5-Eventual aplicação da lei penal há de ser garantida, pois não veio qualquer comprovação de residência fixa no distrito da culpa, bem como comprovante de atividade laborativa lícita do paciente.
+6-O Magistrado examinou a pertinência e a necessidade da prisão preventiva, considerando a situação concreta e as circunstâncias que envolvem o fato.
+7-Considerando a aplicação do binômio necessidade e adequação, estão afastadas a adoção das medidas cautelares previstas no art. 319 e seguintes, todos do Código de Processo Penal.
+8- Alegações de mérito devem ser analisadas em momento oportuno e não pela via estreita do habeas corpus. Inexistência de constrangimento ilegal. DENEGAÇÃO DA ORDEM." (fls. 41/42)
+Nas razões recursais, a defesa aduz violação aos princípios da razoabilidade e proporcionalidade, pois a custódia processual submete o paciente a um regime prisional análogo ao fechado (devido às condições carcerárias do Rio de Janeiro), enquanto uma eventual condenação, considerando a detração penal, possibilitaria o cumprimento de pena em regime aberto ou semiaberto.
+Sustenta que não estão presentes os requisitos estabelecidos no art. 312 do Código de Processo Penal - CPP para a decretação da prisão preventiva.
+Destaca a possibilidade de substituição do cárcere por medidas cautelares previstas no art. 319 do CPP.
+Requer o conhecimento e o provimento do recurso para, em liminar e no mérito, conceder liberdade provisória ao recorrente, ainda que mediante o cumprimento de condições alternativas à prisão.
+Contrarrazões do Ministério Público do Estado do Rio de Janeiro (fls. 97/105).
+Liminar indeferida às fls. 261/263.
+Informações prestadas às fls. 268/273.
+O Ministério Público Federal opinou pela prejudicialidade do recurso, conforme parecer de fls. 276/277.
+É o relatório.
+Decido.
+Conforme informações prestadas às fls. 268/273, verifica-se que, em 21/1/2025, foi proferida sentença condenatória em desfavor do paciente, ora recorrente, ocasião em que foi estabelecido o regime aberto para cumprimento de pena e determinada a expedição de alvará de soltura, ocasionando a perda do objeto do presente recurso.
+Ante o exposto, com base no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
