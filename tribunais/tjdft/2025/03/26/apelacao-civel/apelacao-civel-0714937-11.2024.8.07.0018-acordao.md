@@ -1,0 +1,118 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0714937-11.2024.8.07.0018APELANTE(S)ORLANDO GOMES DE SOUZAAPELADO(S)COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL e COMPANHIA IMOBILIÁRIA DE BRASÍLIA - TERRACAPRelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1984338
+
+EMENTA
+
+Processual Civil. Ação declaratória. Contrato particular de cessão de direitos relativos a imóvel pertencente à Terracap. Quitação. Pedido de reconhecimento da validade de avenças particulares e transmissão do domínio. Inépcia da inicial. Sentença extintiva. Conclusão que não deriva logicamente dos fatos narrados (CPC, Art. 330, §1º, III). Apelo do autor. Argumentos dissociados da sentença. Princípio da dialeticidade. Inobservância. Fatos e fundamentos aptos a aparelharem o inconformismo e a ensejarem a reforma do decidido. Inexistência. Argumentos passíveis de infirmar as premissas sentenciais. Ausência. Inépcia da peça recursal. Não conhecimento. Apelação não conhecida. Sentença mantida.
+
+I. Caso em exame.
+
+1.                  Cuida-se de apelação interposta em face de sentença que, resolvendo ação declaratória de validade de negócio jurídico aviada pelo apelante, extinguira o feito sem julgamento do mérito, reconhecendo a inépcia da inicial, sob o fundamento de que, conquanto assegurada oportunidade para saneamento da peça de ingresso, dos fatos e fundamentos alinhavados não derivava a conclusão, deixando os argumentos alinhados de conferirem lastro e suporte ao almejado, enquadrando-se a situação ao disposto no art. 330, §1º, III, do CPC.
+
+II. Questão em discussão.
+
+2.                  A questão objeto do apelo cinge-se à aferição da aptidão técnica da inicial que aparelhara a pretensão deduzida pelo apelante visando, em derradeira ratio, o reconhecimento da higidez do negócio jurídico no qual figurara como cessionário dos direitos pertinentes a imóvel inserido em programa habitacional e da viabilidade de ser-lhe assegurada a transmissão da titularidade do bem negociado, apreensão a ser ultimada no ambiente de apuração se os fatos e fundamentos alinhados guardam conformidade e conduzem à conclusão e pedido deduzidos, viabilizando o processamento da pretensão como expressão do direito subjetivo de ação que assiste o postulante, devendo, antes dessa apuração, ser apreendido se o recurso se afina com o princípio da dialeticidade, estando devidamente aparelhado.
+
+III. Razões de decidir.
+
+3.                  Ao exigir que o recurso derive de fatos e fundamentos aptos a infirmarem o originariamente decidido e ensejar sua reforma, o legislador processual debitara à parte recorrente o ônus de, ao exercitar o direito subjetivo que lhe é ressalvado de recorrer como expressão do princípio do duplo grau de jurisdição que permeia o sistema processual, alinhavar lastro passível de efetivamente infirmar o decisório recorrido como forma de resguardar o objetivo teleológico do recurso, incorrendo em inépcia o apelo que alinhava argumentos inteiramente dissociados do aduzido na sentença impugnada e da resolução que empreendera, legitimando que lhe seja negado conhecimento.
+
+4.                  O processo, conquanto paramentado por atos concatenados e legalmente ordenados traduzidos no procedimento, tem como alcance o postulado pela parte ao aviar a inicial, que demarca a natureza e objeto da prestação que almeja, e, assim estabelecidos os contornos processuais, cumprido o ritual procedimental, sobrevirá sentença pautada pela lide submetida a exame, assistindo à parte inconformada o direito subjetivo ao recurso, que, a seu turno, deve dialogar tecnicamente com o resolvido, buscando infirmar as premissas de fato e de direito que o modularam, incorrendo em inépcia a peça recursal que se distancia desses parâmetros.
+
+IV. Dispositivo.
+
+5.                  Apelo não conhecido. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador CARLOS PIRES SOARES NETO, em proferir a seguinte decisão: NÃO CONHECER DO RECURSO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 03 de Abril de 2025
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de apelação[1] interposta por Orlando Gomes de Souza em face da sentença[2] que, resolvendo a ação declaratória de validade de negócio jurídico que aviara em desfavor dos apelados – Companhia de Desenvolvimento Habitacional do Distrito Federal e Companhia Imobiliária de Brasília – almejando o reconhecimento e irradiação dos efeitos inerentes ao negócio jurídico de cessão de direitos concernentes à unidade autônoma situada na QS 04, Conjunto 01, Lote 17, Riacho Fundo – DF, matriculado sob nº 68870 no 4º Ofício de Registro de Imóveis do Distrito Federal,  e ao mandato com cláusula in re suam que exibira, a fim de que as rés providenciem a transferência de titularidade do bem imóvel em seu favor, indeferira a petição inicial e, com lastro no art. 485, inciso I, do CPC, extinguira o processo sem julgamento de mérito. Como corolário dessa resolução, o Juízo de origem debitara ao autor o pagamento das custas processuais, deixando, contudo, de condená-lo ao pagamento de honorários advocatícios.
+
+Essa resolução fora empreendida sob o prisma de que a exordial aviada, após aditamento instado pelo Juízo a quo, reformulando o pleito veiculado na peça primitiva, na qual vindicava a adjudicação compulsória de imóvel, formulara pleito declaratório, objetivando o reconhecimento da validade do negócio jurídico particular envolvendo cessão de direitos aquisitivos de imóvel e um contrato de mandato, ambos entabulados com terceiro estranho ao processo, pretendendo, conseguintemente, a transmissão registral da propriedade imobiliária objeto da controvérsia. Acentuara o magistrado primevo que, conquanto a retificação imprecada nas peças postulatórias, a causa de pedir içada pelo autor estribara-se exclusivamente em fundamento imbricado à adjudicação compulsória do imóvel.
+
+Pontuara, ademais, que ressentira a exordial apresentada de individualização do negócio jurídico cujo reconhecimento de validade e irradiação dos efeitos almejava, notadamente a aludida cessão de direitos do imóvel havida entre particulares, que sequer foram incluídos na lide, desguarnecendo a fundamentação de razões aptas a subsidiar o aduzido. Consignara, alfim, que a inicial revelara-se inepta, porquanto dos fundamentos lançados não se permite alcançar o pedido formulado, desconexão a implicar na extinção do feito sem julgamento de mérito.
+
+Inconformado, o autor apela almejando a cassação do provimento monocrático, a fim de que tenha regular trâmite a ação que aviara, ou, subsidiariamente, sob o édito da causa madura, sejam julgados procedentes os pedidos que formulara. Como estofo da pretensão que veiculara, argumentara, em suma, que a jurisprudência é convergente na admissão da adjudicação compulsória na hipótese envolvendo a CODHAB, desde que preenchidos os requisitos aptos à transmissão do domínio ao adquirente, como, sob sua ótica, restara sobejamente demonstrado nos autos, assim como instrumentalizara o fólio processual de documentos hábeis à demonstração da cessão dos direitos relativos ao imóvel objeto da controvérsia, tudo a legitimar a concretização da transmissão do registro. Outrossim, aventara que é prescindível a inclusão dos cedentes no polo passivo da contenda adjudicativa, que deve ser limitada ao proprietário do imóvel, que tem aptidão jurídica a realizar a transferência almejada.
+
+Devidamente intimados, apenas a primeira ré – Codhab – apresentara contrarrazões, agitando, preliminarmente, sua ilegitimidade para compor a angularidade passiva da ação, propugnando, no mérito, em suma, pelo desprovimento do recurso[3]. A Terracap, de seu turno, deixara transcorrer in albis o prazo que lhe fora assinalado para esse desiderato[4].
+
+O apelo é tempestivo, está subscrito por advogado devidamente constituído e municiado de capacidade postulatória[5], fora preparado[6] e corretamente processado.
+
+É o relatório.
+
+[1] - Apelação ID 65944347 (fls. 251/269).
+
+[2] - Sentença ID 65944345 (fls.: 245/249).
+
+[3] - Contrarrazões ID 65944357 (fls.: 281/286).
+
+[4] - Certidão de ID 67894053 (fl. 299).
+
+[5] - Procuração do autor ID 65944329 (fl.: 17).
+
+[6] - Guia e comprovante – IDs 65944348 e 65944349 (fls.: 270/271).
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - Relator
+
+Cuida-se de apelação interposta por Orlando Gomes de Souza em face da sentença que, resolvendo a ação declaratória de validade de negócio jurídico que aviara em desfavor dos apelados – Companhia de Desenvolvimento Habitacional do Distrito Federal e Companhia Imobiliária de Brasília – almejando o reconhecimento e irradiação dos efeitos inerentes ao negócio jurídico de cessão de direitos concernentes à unidade autônoma situada na QS 04, Conjunto 01, Lote 17, Riacho Fundo – DF, matriculado sob nº 68870 no 4º Ofício de Registro de Imóveis do Distrito Federal,  e ao mandato com cláusula in re suam que exibira, a fim de que as rés providenciem a transferência de titularidade do bem imóvel em seu favor, indeferira a petição inicial e, com lastro no art. 485, inciso I, do CPC, extinguira o processo sem julgamento de mérito. Como corolário dessa resolução, o Juízo de origem debitara ao autor o pagamento das custas processuais, deixando, contudo, de condená-lo ao pagamento de honorários advocatícios.
+
+Inconformado, o autor apela almejando a cassação do provimento monocrático, a fim de que tenha regular trâmite a ação que aviara, ou, subsidiariamente, sob o édito da causa madura, sejam julgados procedentes os pedidos que formulara. Assim pautada a controvérsia, afere-se que, conquanto agitado tempestivamente, subscrito por advogado devidamente constituído e corretamente processado, o mérito do inconformismo não merece ser levado ao exame do órgão colegiado ante a manifesta e irreversível inadmissibilidade do apelo. Conforme emerge do aduzido, os argumentos alinhados na via recursal não guardam simetria com o assinalado na sentença, desconsiderando, pois, o princípio da dialeticidade, que apregoa que o recurso deve ser pautado pela matéria posta em juízo e pelo decidido, devendo desqualificar criticamente o acentuado no decisório arrostado.
+
+Conforme pontuado, o eminente sentenciante salientara que a extinção do feito restara fundamentada no fato de que, dado que o autor fora instado a emendar a inicial para adequá-la ao direito perseguido, reformulara o pedido para o viés declaratório, pugnando pelo reconhecimento da validade do negócio envolvendo cessão de direitos aquisitivos do imóvel e um contrato de mandato, ambos entabulados com terceiro estranho à lide, insistindo, alfim, pela transmissão da propriedade, pleito que afigura-se desconectado com a causa de pedir desenvolvida ao longo da peça pórtico, estribada no preenchimento dos requisitos necessários à adjudicação compulsória do imóvel objeto da controvérsia. Ou seja, o provimento terminativo arrostado fora arrimado no fato de que o autor, conquanto tenha alterado o requesto formulado, reprisara os fundamentos aduzidos na peça vestibular primitiva, incorrendo, assim, em inépcia da inicial, porquanto “da narração dos fatos não decorrer logicamente a conclusão”, consoante art. 330, §1º, III, do CPC.
+
+Sob essa incontornável realidade, o apelante, ao se inconformar com o decidido, deveria infirmar a resolução que fora empreendida, desqualificando o argumentado mediante impugnação específica dos fundamentos da decisão recorrida, afastando a contradição içada como fundamento para o reconhecimento da inépcia da inicial, seja apontando nulidade na diligência que o intimara para aditamento da inicial, seja pela demonstração de que os fundamentos alegados na exordial sustentam adequada e logicamente o pedido declaratório formulado.
+
+No entanto, ignorando o ônus que lhe estava afeto, o apelante alinhara argumentação dissonante do resolvido, restringindo-se a sustentar o preenchimento dos requisitos autorizadores da adjudicação compulsória, considerando que integrara a cadeia dominial do imóvel, sobejamente demonstrado pela avença havida entre particulares que lhe cedera os direitos inerentes à propriedade do imóvel, acompanhado com o correlato instrumento de mandato outorgando-lhe os poderes necessários ao aperfeiçoamento da transmissão do bem. Acrescentara, ainda, que a ausência dos cedentes no polo passivo da ação não prejudica o pleito vertido na adjudicação do imóvel, porquanto bastante a inclusão daqueles proprietários que detêm o nome registral e, conseguintemente, a aptidão jurídica para efetuar a transmissão do registro.
+
+Sob esse espectro, ressai plácido que os fundamentos que o apelante içara em sua peça recursal não guardam consonância com a sentença arrostada, porquanto cingira-se a tecer considerações acerca da regularidade documental e do preenchimento dos requisitos para a adjudicação compulsória, olvidando-se, contudo, de infirmar especificamente os fundamentos que ensejaram a extinção do feito. Assim é que, estando a análise da matéria que ora pretende discutir nessa instância recursal obstada pelo efeito devolutivo que está impregnado na gênese da apelação, porquanto esse sobeja pautado pela matéria que fora efetivamente elucidada na sentença e devolvida a reexame, fica patente, assim, que o apelo, não guardando simetria com o decidido, não deve ser conhecido, na medida em que, frise-se, invocara fundamento cujo enfrentamento, no caso concreto, importaria ao fim e ao cabo, na prolação de decisão marcada pela supressão de instância, posto que a matéria não fora decidida pelo magistrado primevo.
+
+Emerge dessas circunstâncias a inexorável inépcia da peça recursal por incorrer em evidente incongruência entre o que ficara decidido e o que restara plasmado em suas razões recursais, razão por que, não impugnando especificamente o que restara assentado, não fora o apelo apto a infirmar o que restara resolvido como expressão da correta e exata materialização do direito. Como é consabido, a peça através da qual é agitado o recurso está volvida a infirmar o que restara originariamente decidido e a reclamar sua reforma na exata medida do veiculado e da intenção manifestada pela parte recorrente. Omitindo-se a peça recursal quanto ao alinhamento dos argumentos aptos a ensejarem a desqualificar o que ficara decidido, ressente-se, pois, de regularidade formal, infirmando o conhecimento do recurso, conforme autorizado pelo disposto no art. 932, III, do Código de Processo Civil[1], pois patente sua inépcia. Esse é a dicção que emerge do art. 1.010, incisos II e III, do estatuto processual civil vigente[2].
+
+Destarte, patenteado que o apelante efetivamente não cuidara de infirmar o acerto do que restara emoldurado pela sentença, restringindo-se a aduzir argumentação que não rechaçara especificamente o que nela ficara acentuado, sobeja evidenciado que o apelo, menosprezando o princípio da congruência, padece de deficiência formal, ensejando a qualificação da peça recursal como inepta e elidindo o seu conhecimento. Ora, ao exigir que o recurso derive de fatos e fundamentos aptos a infirmarem o originariamente decidido e ensejar sua reforma, o legislador debitara à parte recorrente o ônus de, ao exercitar o direito subjetivo que lhe é ressalvado de recorrer como expressão do princípio do duplo grau de jurisdição que permeia o sistema processual brasileiro, alinhavar, impugnando especificamente os fundamentos da decisão recorrida, lastro passível de infirmar o decisório de acordo com o nele assentado.
+
+Os argumentos ora trazidos à baila se conformam com o entendimento estratificado pela egrégia Corte Superior de Justiça, que, objetivando resguardar sua destinação teleológica, assentara que o recurso carente de fundamentação ou cujas razões são inteiramente dissociadas do que a sentença decidira não é passível de ser conhecido, conforme testificam os julgados adiante sumariados:
+
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 458 E 535 DO CPC/73 NÃO DEMONSTRADA. RAZÕES RECURSAIS DISSOCIADAS DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. JULGAMENTO DO AGRAVO INTERNO. REGIME DO CPC/73. DESNECESSÁRIA INCLUSÃO DO FEITO EM PAUTA E IMPOSSIBILIDADE DE SUSTENTAÇÃO ORAL. (...) 2. A decisão agravada aplicou a Súmula 284/STF diante da ausência de indicação do dispositivo legal tido por violado. No entanto, o agravo interno defende a tese de que a falta de indicação da alínea a do permissivo constitucional não atrai a aplicação do referido verbete sumular. Assim, é inadmissível o recurso que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostas no acórdão recorrido, o que atrai a incidência, por analogia, da Súmula 284/STF. (...) 4. Agravo interno a que se nega provimento.” (AgInt no REsp 1191084/GO, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/10/2016, DJe 04/11/20016)
+
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, CPC. APELAÇÃO. RAZÕES DISSOCIADAS DO QUE DISCUTIDO EM JUÍZO NA PETIÇÃO INICIAL E NA SENTENÇA. NEGATIVA DE CONHECIMENTO. ART. 514, II, CPC. (...) 2. As razões de apelação dissociadas do que levado a juízo pela petição inicial e é decidido pela sentença equiparam-se à ausência de fundamentos de fato e de direito, exigidos pelo art. 514, II, do CPC, como requisitos de regularidade formal da apelação. 3. Não se conhece de apelação cujas razões estão dissociadas da sentença que a decidiu. 4. Recurso especial não provido.” (REsp 1209978/RJ, 2ª Turma, Relator Ministro Mauro Campbell Marques, julgado em 03/05/2011, DJe 09/05/2011)
+
+ O mesmo posicionamento é perfilhado por esta egrégia Casa de Justiça, consoante asseguram os arestos que estampam as seguintes ementas:
+
+“APELAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA SENTENÇA. NÃO CONHECIMENTO. Não se conhece de apelação em que as razões, completamente dissociadas dos fundamentos da sentença, não ataca os fundamentos dessa. Apelação não conhecida.” (APC20070310365039, 6ª Turma Cível, Relator Desembargador Jair Soares, DJ 04/08/2011, pág. 138).
+
+“PROCESSO CIVIL. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA. QUANTIA CERTA. PRELIMINAR. ILEGITIMIDADE PASSIVA. COISA JULGADA. PRINCÍPIO DA DIALETICIDADE. INÉPCIA DA PEÇA RECURSAL. INOVAÇÃO E AUSÊNCIA DE INTERESSE RECURSAL. RECURSO NÃO CONHECIDO. 1. O princípio da dialeticidade, que informa o sistema recursal, exige a indicação precisa dos motivos pelos quais a parte pretende que a sentença seja modificada. Se a parte não logra êxito em demonstrar a sua insatisfação com a decisão recorrida, não atende o requisito de regularidade formal, consoante art. 932, III, do CPC. 2. As questões decididas em sentença transitada em julgado não são passíveis de discussão na fase de cumprimento de sentença (art. 502 do CPC). 3. É inepta a peça recursal com razões e pretensão dissociadas dos fundamentos da sentença que se pretende atacar (art. 1.010, inc. II e III, do CPC). 4. Não se conhece de pedido formulado no apelo quando o pleito caracterizar inovação da lide (art. 1.014 do CPC) ou quando não tenha interesse recursal manifesto (art. 996 do CPC). 5. Recurso não conhecido. Honorários advocatícios majorados em 2%, totalizando 12% do valor da condenação do cumprimento da sentença.” (Acórdão n.1025817, 20150110871689APC, Relator: SANDRA REVES 2ª TURMA CÍVEL, Data de Julgamento: 14/06/2017, Publicado no DJE: 10/07/2017. Pág.: 402/436)
+
+“DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE NEGOU SEGUIMENTO À APELAÇÃO. RAZÕES RECURSAIS DISSOCIADAS DA SENTENÇA. DECISÃO MANTIDA. I. À luz do princípio da dialeticidade, incumbe ao recorrente investir contra a sentença recorrida mediante articulação de argumentos fáticos e jurídicos hábeis à sua reforma. II. É manifestamente inadmissível a apelação cujas razões são completamente dissociadas da sentença impugnada. III. Agravo Interno desprovido.” (Acórdão n.1028707, 20140111671319APC, Relator: JAMES EDUARDO OLIVEIRA 4ª TURMA CÍVEL, Data de Julgamento: 21/06/2017, publicado no DJE: 05/07/2017. Pág.: 265/274)
+
+Na espécie, conforme acentuado, o apelante não cuidara de infirmar o assentado na sentença que reputara inepta a inicial, uma vez que, cingindo-se a tecer considerações no sentido de preencher os requisitos autorizadores da adjudicação compulsória, sustentando, outrossim, estar o pleito regularmente guarnecido dos documentos válidos, cujos efeitos irradiadores permitem o requestado, além de aventar a prescindibilidade da inclusão dos cedentes no polo passivo da demanda, não alinhavara argumentos hábeis a infirmar a resolução extintiva empreendida, obstando, por conseguinte, o conhecimento do apelo que aviara ante a ausência de impugnação específica dos fundamentos da decisão recorrida.
+
+Emerge do alinhavado, em suma, que, não havendo simetria entre as razões recursais e o decidido, não estando a argumentação desenvolvida destinada a ensejar resolução diversa da empreendida, ficando patenteado que os argumentos desenvolvidos deixaram de dialogar com o resolvido, o apelo não se encontra, em absoluto, aparelhado de argumentação apta a descredibilizar o que restara assentado na sentença como expressão da correta materialização do direito, tornando imperioso que seja afirmada a inépcia da peça recursal sob o prisma de que não observara o princípio da dialeticidade, que é mero corolário do princípio dispositivo, consoante enuncia o art. 1.010, incisos II e IV, do estatuto processual.
+
+Alinhados esses argumentos e afigurando-se despiciendo serem aduzidos outros fundamentos ante a irreversível constatação de que a argumentação aduzida pelo apelante afigura-se dissociada do que efetivamente fora resolvido e invocado como sustentação para a conclusão alcançada pela sentença, apura-se que o apelo ressente-se de sustentação material por não estar devidamente aparelhado por fundamentação apta a infirmar o originariamente decidido e desqualificá-lo, não podendo ser conhecido, por não suplantar o pressuposto objetivo de admissibilidade pertinente à sua aptidão traduzida na regularidade formal da peça através da qual fora interposto. Alfim, a despeito da negativa de seguimento ao apelo, inviável se cogitar da incidência, em desfavor do autor, de honorários de sucumbência recursal, porquanto alforriado na instância de origem, consoante a tese firmada pelo STJ no ambiente do Tema 1.059.
+
+Diante desses argumentos, não conheço do apelo por ausência do pressuposto objetivo de admissibilidade pertinente à regularidade formal, por ter deixado de veicular impugnação específica aos fundamentos da sentença recorrida, incorrendo a peça recursal em inépcia por não ter dialogado tecnicamente com o originalmente decidido em conformidade com o princípio da dialeticidade. Sem honorários.
+
+É como voto.
+
+[1] CPC, “Art. 932. Incumbe ao relator(...) III - não conhecer de recurso inadmissível,prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;(...)
+
+[2] CPC, “Art. 1.010. A apelação, interposta por petição dirigida ao juízo de primeiro grau, conterá: (...) II – a exposição do fato e do direito; III – as razões do pedido de reforma ou de decretação de nulidade; (...)”
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+NÃO CONHECER DO RECURSO. DECISÃO UNÂNIME
