@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS, DANO QUALIFICADO E DESOBEDIÊNCIA. NULIDADE PROBATÓRIA E REVISÃO DA DOSIMETRIA. NECESSIDADE DE REEXAME PROBATÓRIO. IMPOSSIBILIDADE. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+1. Hipótese em que a conclusão sobre a legalidade da busca e apreensão domiciliar e a dedicação a atividades criminosas está devidamente fundamentada no acórdão hostilizado. Alterar tal conclusão demandaria reexame probatório, inviável na via eleita.
+2. Considerando o quantum de pena, não há ilegalidade na fixação do regime semiaberto e no indeferimento da substituição por restritiva de direitos.
+3. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de FELIPE DE NORONHA PEREIRA - condenado por tráfico de drogas, dano qualificado e desobediência -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de São Paulo (fls. 116/128).
+Busca a impetração a absolvição do paciente, com o reconhecimento da nulidade das provas decorrente de busca domiciliar - alegando que as autoridades policiais não observaram as formalidades legais ao adentrar na residência do réu, pois o mandado de busca e apreensão não foi exibido e lido ao morador antes de adentrarem na residência, o que configuraria uma nulidade da prova indiciária (fl. 7) - ou, subsidiariamente, a revisão da dosimetria imposta - na condenação proferida na Ação Penal n. 1515172-42.2023.8.26.0602 (fls. 102/115, da 2ª Vara Criminal da comarca de Sorocaba/SP), alterada em grau de apelação -, com:
+a) a aplicação da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), em seu grau máximo, sustentando inexistência de provas de dedicação a atividades criminosas (destacando que o paciente trabalha como ajudante geral em uma marcenaria, o que demonstra seu compromisso com o trabalho honesto e legal - fl. 14) e que a quantidade de drogas apreendida não é suficiente, por si só, para afastar a aplicação da causa especial de redução de pena (fls. 11/13); e
+b) a fixação do regime aberto e substituição da pena privativa de liberdade por restritiva de direitos, aduzindo que o paciente é primário e possui bons antecedentes, o que são fatores que favorecem a fixação de um regime mais brando, como o regime aberto, e a substituição da pena privativa de liberdade por restritiva de direitos (fls. 10/14).
+Indeferido o pedido liminar (fls. 139/141), foram prestadas informações (fls. 147/148) e o Ministério Público Federal opinou pela não admissão da impetração, considerando-a substitutivo de recurso especial, cujo prazo ainda está em andamento. Alegou que a leitura do mandado de busca e apreensão foi devidamente realizada e que a fundamentação para afastar a minorante do tráfico privilegiado foi idônea, baseada na quantidade e variedade das drogas apreendidas e na habitualidade do tráfico pelo paciente (fls. 179/183).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS . TRÁFICO DE DROGAS, DANO QUALIFICADO E DESOBEDIÊNCIA. NULIDADE PROBATÓRIA E REVISÃO DA DOSIMETRIA. NECESSIDADE DE REEXAME PROBATÓRIO. IMPOSSIBILIDADE. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+1. Hipótese em que a conclusão sobre a legalidade da busca e apreensão domiciliar e a dedicação a atividades criminosas está devidamente fundamentada no acórdão hostilizado. Alterar tal conclusão demandaria reexame probatório, inviável na via eleita.
+2. Considerando o quantum de pena, não há ilegalidade na fixação do regime semiaberto e no indeferimento da substituição por restritiva de direitos.
+3. Ordem denegada.
+VOTO
+A impetração - que busca a absolvição do paciente ou, subsidiariamente, a revisão da dosimetria imposta na condenação por tráfico de drogas (221,66 g de haxixe, 3 cigarros eletrônicos com maconha, 653 g de maconha e 66,72 g de ecstasy - fl. 98), dano qualificado e desobediência a 5 anos de reclusão, 6 meses e 15 dias de detenção, e 20 dias-multa, proferida na Ação Penal n. 1515172-42.2023.8.26.0602 (fls. 102/115, da 2ª Vara Criminal da comarca de Sorocaba/SP), alterada em grau de apelação - não deve ser acolhida.
+Isso porque não foi demonstrado o alegado constrangimento ilegal, pois:
+a) para rever a conclusão do acórdão hostilizado acerca da legalidade da busca e apreensão domiciliar - fundamentada no acórdão da apelação no fato de que a alegação de que o mandado não foi lido antes do ingresso foi considerada isolada e não comprovada (fl. 120), além da ausência de comprovação do prejuízo (fl. 120) -, seria necessário reexame probatório, inviável na via eleita;
+b) para rever a conclusão das instâncias ordinárias acerca da dedicação a atividades criminosas - fundamentada no fato de que o benefício deve ficar reservado àqueles pequenos traficantes, chamados de "primeira viagem", mas Felipe não se enquadra nessa situação, já que anunciava a venda de entorpecentes pelas redes sociais e certamente está envolvido com outros grupos maiores, que fomentam a distribuição de entorpecentes diversos (fl. 126) -, também demandaria reexame probatório, inviável na via eleita; e
+c) considerando o quantum de pena, tem-se que não há ilegalidade na fixação de regime semiaberto e indeferimento da substituição da pena.
+Em razão disso, denego a ordem.
