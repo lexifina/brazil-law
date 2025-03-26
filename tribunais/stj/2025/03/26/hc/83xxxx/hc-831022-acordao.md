@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DE PROVAS. QUEBRA DE CADEIA DE CUSTÓDIA. NÃO CONFIGURADA. DOSIMETRIA DA PENA. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+1. Não evidenciado constrangimento ilegal no caso, pois a alegação de quebra de cadeia de custódia foi afastada com base em entendimento consolidado desta Corte Superior, que dispensa a perícia de voz quando o conjunto probatório é suficiente para a identificação das vozes, e permite a transcrição de conversas por agente da Polícia Civil, sem exigência de perícia específica. Precedentes.
+2. Não há ilegalidade na dosimetria da pena, considerando a quantidade e natureza da droga apreendida (50 comprimidos de ecstasy ), justificando a pena-base acima do mínimo legal.
+3. A pretensão de alteração da fração de aumento da agravante da reincidência não foi apreciada pela Corte estadual, configurando indevida supressão de instância.
+4. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de Valdeci Nazareno da Luz Ataide - condenado por tráfico de drogas (fls. 316/322 - Ação Penal n. 5004242-88.2022.8.24.0037, da Vara Criminal da comarca de Joaçaba/SC) -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 61/67).
+Busca a impetração a declaração de nulidade de provas, decorrente de quebra de cadeia de custódia, com os argumentos de ausência de perícia de voz - sustentando que as transcrições de áudios extraídos do WhatsApp foram realizadas sem a devida perícia de reconhecimento de voz, o que compromete a identificação dos interlocutores (fls. 5/7) -, e de que os dados foram extraídos pela própria polícia civil na delegacia, sem que houvesse a preservação dos arquivos de mídia das conversas, impossibilitando a identificação dos interlocutores e a realização do contraditório no âmbito processual (fl. 7).
+Subsidiariamente, pleiteia a revisão da dosimetria imposta com:
+a) o afastamento da exasperação da pena-base em razão da quantidade e natureza dos entorpecentes apreendidos (3 g de maconha e 50 comprimidos de ecstasy), sustentando que tal montante é ínfimo e não justifica o aumento da reprimenda (fls. 8/12); e
+b) a alteração da fração de aumento da agravante da reincidência para 1/5, aduzindo que a pena foi exasperada em 1/4 na segunda fase da dosimetria, sem fundamentação idônea (fls. 12/13).
+Indeferido o pedido liminar (fls. 490/491), foram prestadas informações (fls. 499/500 e 541/543) e o Ministério Público Federal opinou pelo não conhecimento da impetração, argumentando que se trata de substitutivo de recurso cabível. Destacou que não houve quebra da cadeia de custódia, pois as provas foram validadas pelo Juízo de origem, e que a quantidade de droga apreendida (50 comprimidos de ecstasy) justifica a pena-base acima do mínimo legal. Além disso, a questão da fração de aumento pela reincidência não foi apreciada pelo Tribunal local (fls. 548/556).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DE PROVAS. QUEBRA DE CADEIA DE CUSTÓDIA. NÃO CONFIGURADA. DOSIMETRIA DA PENA. ILEGALIDADE MANIFESTA. AUSÊNCIA.
+1. Não evidenciado constrangimento ilegal no caso, pois a alegação de quebra de cadeia de custódia foi afastada com base em entendimento consolidado desta Corte Superior, que dispensa a perícia de voz quando o conjunto probatório é suficiente para a identificação das vozes, e permite a transcrição de conversas por agente da Polícia Civil, sem exigência de perícia específica. Precedentes.
+2. Não há ilegalidade na dosimetria da pena, considerando a quantidade e natureza da droga apreendida (50 comprimidos de ecstasy ), justificando a pena-base acima do mínimo legal.
+3. A pretensão de alteração da fração de aumento da agravante da reincidência não foi apreciada pela Corte estadual, configurando indevida supressão de instância.
+4. Ordem denegada.
+VOTO
+A impetração - que busca a declaração de nulidade de provas, decorrente de quebra de cadeia de custódia, ou, subsidiariamente, a revisão da dosimetria imposta na condenação do paciente por tráfico de drogas (3 g de maconha e 50 comprimidos de ecstasy - fl. 100) a 9 anos, 4 meses e 15 dias de reclusão, e a 937 dias-multa, proferida na Ação Penal n. 5004242-88.2022.8.24.0037 (da Vara Criminal da comarca de Joaçaba/SC) - não deve ser acolhida.
+Inicialmente, porque o acórdão afastou a alegação de quebra da cadeia de custódia, com fundamentação consoante entendimento desta Corte Superior. Confira-se:
+a) desnecessidade de perícia de voz, apontando ser prescindível a degravação integral dos diálogos e sua perícia, desde que as partes tenham acesso ao material (fls. 62/63), concordando com a jurisprudência do STJ  que  dispensa a realização de perícia para identificação das vozes, desde que o conjunto probatório seja suficiente para essa identificação (AREsp n. 2.658.747/MG, Ministra Daniela Teixeira, Quinta Turma, DJEN 9/12/2024); e
+b) ausência de irregularidade, pois não há exigência legal de que a transcrição de conversas obtidas por meio da análise de dados de celular apreendido seja realizada por um perito, sendo possível sua realização por agente da Polícia Civil (fl. 63). Nesse sentido: AgRg no RHC n. 191.287/GO, Ministra Daniela Teixeira, Quinta Turma, DJe 29/8/2024.
+Ademais, também não foi demonstrado o alegado constrangimento ilegal na dosimetria da pena, pois:
+a) não há ilegalidade na consideração da quantidade e natureza da droga apreendida (50 comprimidos de ecstasy) para justificar a pena-base acima do mínimo legal (fls. 66/67); e
+b) a pretensão de alteração da fração de aumento da agravante da reincidência de 1/4 para 1/5 não foi apreciada pela Corte estadual no acórdão hostilizado - por considerá-la inovação recursal (a defesa não abordou essa matéria no momento processual adequado, configurando inovação recursal ao tentar introduzi-la nos embargos de declaração - fls. 88/89) -, o que configuraria prestação jurisdicional em indevida supressão de instância. Ainda que assim não fosse, a fração de 1/4 não se mostra desproporcional, por se tratar de duas condenações (fls. 320/321).
+Ante o exposto, denego a ordem.
