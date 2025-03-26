@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto MUNICÍPIO DE POMPÉU contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7/STJ.
+O agravante sustenta a violação dos arts. 21, parágrafo único, 460 e 535 do CPC/1973 e 1º-F da Lei 9.494/1997. Alega, em síntese, que não há necessidade de revolvimento de fatos e provas para examinar suas teses de: a) ausência de prestação jurisdicional (art. 535 do CPC/1973), pois o Tribunal local não teria apreciado de forma completa pontos fundamentais, implicando julgamento ultra petita; b) erro no enquadramento jurídico, por supostamente ter-se extrapolado o pedido relativo às diferenças de 13º salário; e c) distribuição equivocada dos ônus sucumbenciais.
+Sem contrarrazões apresentadas, certidão na fl. 520.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Prefacialmente, não se configura violação ao art. 535 do CPC/1973 quando o Tribunal a quo profere manifestação clara e fundamentada sobre os aspectos essenciais para a resolução da disputa, expondo as razões do seu entendimento, mesmo que contrárias aos interesses da parte, como observado no caso em análise. De acordo com a jurisprudência consolidada desta Corte e corroborada pelo art. 489 do CPC/2015, o julgador não necessita responder a todas as questões levantadas pelas partes se já existir fundamento suficiente para a decisão. A obrigação restringe-se ao enfrentamento das questões que possam refutar a conclusão alcançada na decisão contestada. A jurisprudência desta Corte Superior é firme em afirmar que, quando os fundamentos adotados são suficientes para sustentar a conclusão da decisão, não há obrigação por parte do julgador de refutar individualmente cada argumento apresentado pela parte.
+No caso em exame, o Tribunal local, ao rejeitar os embargos de declaração, deixou assentado (fl. 403):
+"Verifica-se que o acórdão embargado, atento às razões trazidas pelas partes, aborda, de maneira lógica e fundamentada os tópicos que conduziram à conclusão adotada, por unanimidade, por esta Turma Julgadora.
+Destaca-se, neste aspecto, que a referida decisão demonstrou, de forma clara, que a Lei n. 11.738/2008 estabelece alguns critérios para o pagamento do piso salarial os quais, em razão do julgamento da Ação Direta de Inconstitucionalidade n. 4.167, só se mostram aplicáveis a partir de 27 de abril de 2011, não se vislumbrando, dessarte, a suscitada omissão ou contradição."
+Assim, a Corte local deixou consignado que apreciara devidamente tais matérias, revelando-se inexistente qualquer negativa de prestação jurisdicional.
+A pretensão da parte recorrente, relativa à violação dos arts. 460 do CPC/1973 e à distribuição dos ônus sucumbenciais (art. 21 do CPC/1973), exigiria rediscussão dos elementos de prova para aferir (i) se o 13º salário teria sido, de fato, requerido apenas até determinado ano ou (ii) se a extensão do pedido alcançava também outros períodos e valores, o que encontra óbice na Súmula 7/STJ.
+Com efeito, para aferir suposta extrapolação do pedido (ou a ausência dele) em relação às diferenças de 13º salário e para avaliar a proporção de sucumbência de cada parte (distribuição dos ônus), seria imprescindível analisar o teor exato da petição inicial, do acervo documental e dos parâmetros adotados pela sentença e pelo acórdão local.
+Nesse sentido:
+PROCESSUAL CIVIL.  .. APLICAÇÃO DA SÚMULA N. 7/STJ.
+I -  ..
+VI - Consoante a jurisprudência desta Corte, "É inviável a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, a teor do disposto na Súmula 7 do STJ" (AgInt nos EDcl no REsp n. 2.001.322/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/4/2023, DJe de 11/4/2023). No mesmo sentido: AgInt no AREsp n. 2.090.303/CE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/6/2023, DJe de 29/6/2023, e AgInt no REsp n. 1.374.977/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 22/5/2023, DJe de 29/5/2023.
+VII - Agravo interno improvido (AgInt no REsp n. 2.082.084/PB, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/5/2024, DJe de 29/5/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista prévia fixação de honorários advocatícios, majoro-os em favor da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa ou sobre o proveito econômico obtido, observando-se os limites legais do § 3º do art. 85 do CPC.
+Intimem-se.
+ EMENTA
