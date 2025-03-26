@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ASSOCIACAO ESCOLA GRADUADA DE SÃO PAULO, com fundamento na incidência  da Súmula  7/STJ, em referência a multa do art. 1.026 do CPC; na impossibilidade de análise, em recurso especial, de violação de norma constitucional e na ausência de violação do art. 1.022 do CPC.
+O agravo interno não provido (fls. 405-420) foi submetido ao recurso extraordinário (fls. 405-420) ensejando o juízo de adequação não retratado (fls. 470-477).
+A rejeição embargos de declaração, com manifesto caráter infringente, por ausência dos vícios de obscuridade, contradição, omissão ou erro material, acarretou em multa de 2,00% sobre o valor corrigido da causa originária.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois ao contrário do que afirmado pela decisão agravada, "o recurso especial interposto pela ora agravante não demanda que esse C. STJ analise a conformidade ou não com os dispositivos constitucionais que preveem a imunidade tributária", mas sim que esse C. STJ analise a nulidade do v. acórdão em razão da ausência de apreciação pelo E. Tribunal a quo dos pontos submetidos à apreciação por meio dos embargos de declaração, uma vez que a conclusão poderia ter sido favorável a Agravante, o que é suficiente, conforme dispõe o artigo 1.022, II, do CPC, para justificar a anulação do acórdão recorrido".
+Prossegue (fls. 620-641):
+- O objeto do recurso especial é a violação do v. acórdão aos artigos 1.022, inciso II e 1.026, ambos do Código de Processo Civil.
+- A r. decisão agravada não poderia ter inadmitido o recurso especial sob o fundamento de ausência de violação ao artigo 1.022 do Código de Processo Civil.
+- ao contrário do que afirmado pela r. decisão agravada, o recurso especial interposto pela ora Agravante não demanda que esse C. STJ reveja a conclusão do Tribunal de origem quanto ao preenchimento dos requisitos legais para fruição da imunidade, mas sim que esse C. STJ conclua pela nulidade do v. acórdão em razão da ausência de apreciação pelo E. Tribunal a quo dos pontos submetidos à apreciação por meio dos embargos de declaração, uma vez que a conclusão poderia ter sido favorável a Agravante, o que é suficiente, conforme dispõe o artigo 1.022, II, do CPC, para justificar a anulação do acórdão recorrido.
+- O que se pretende no apelo especial em relação ao artigo 1.026, § 2º, do Código de Processo Civil é que esse E. STJ analise o aspecto de que, ao condenar a Agravante ao pagamento de multa no valor de 2% (dois por cento) sobre o valor atualizado, por entender protelatórios os embargos de declaração opostos, o v. aresto violou flagrantemente o referido dispositivo legal.
+- De forma contrária ao propugnado pela r. decisão, a Corte Superior desse E. Superior Tribunal de Justiça afasta o óbice da Súmula nº 07 e examina a questão, propugnando pelo afastamento da multa do artigo 538 do CPC/73 (atual 1.026, § 2º, CPC/15) por não se caracterizarem protelatórios os embargos de declaração com intuito prequestionador.
+- Demonstrado que a verificação de eventual caráter protelatórios dos declaratórios não demanda reexame de fatos, mas apenas a leitura do v. acórdão recorrido para constatar a completa omissão quanto aos aspectos sustentados pela Agravante, deve ser afastado o óbice da Súmula nº 7/STJ ao caso.
+Sem contraminuta (fl. 678).
+É o relatório.
+Passo a decidir.
+De início, deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+A análise, em recurso especial, da conformidade ou não com os dispositivos constitucionais que preveem a imunidade tributária, é vedada.
+O Tribunal a quo, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula 7 desta Corte. Neste sentido: AgInt nos EDcl no REsp 1.950.462/RJ, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/2/2022, DJe 24/2/2022.
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios (fls. 334) em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC.
+Intimem-se.
+EMENTA
