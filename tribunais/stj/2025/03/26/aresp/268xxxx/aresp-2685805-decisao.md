@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE PATROCÍNIO PAULISTA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+Recurso Especial e extraordinário. Juízo de retratação. Controvérsia relacionada à definição da base de cálculo do ITBI. O acórdão fixou que deve ser utilizado o valor da transação ou da base de cálculo do IPTU, o que for maior, para apuração do citado imposto.
+A parte recorrente alega violação dos arts. 35, 36 e 37 do Código Tributário Nacional - CTN e sustenta a incorreção do valor atribuído pelo contribuinte ao bem imóvel incorporado ao patrimônio de pessoa jurídica como forma de integralização de capital e, de consequência, a regularidade do arbitramento administrativo do valor da terra nua - VTN e do lançamento suplementar de Imposto Sobre Transmissão de Bens Imóveis - ITBI sobre a respectiva diferença (fls. 261/269).
+Com contrarrazões da parte recorrida, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmula 282 do STF, situação que deu ensejo à interposição do Agravo em Recurso Especial, no qual a parte defende o preenchimento dos requisitos necessários ao conhecimento do especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que é pertinente, esta é a fundamentação adotada pelo acórdão recorrido (fls. 255/259):
+O acórdão objeto de retratação deve ser modificado. Com efeito, vê-se que aresto reexaminado determinou a utilização do que fosse maior entre o valor da transação/operação imobiliária e a base de cálculo do IPTU para apuração do ITBI.
+No caso, esta é maior do que aquela, situação que chancelou o lançamento fiscal efetuado com base em arbitramento e não no valor da transação.
+Ocorre que, como visto, sobreveio - após o julgamento do acórdão por esta Câmara precedente do STJ no qual foi asseverado que a base de cálculo do ITBI deve ser o valor da transação/operação imobiliária ou de integralização do capital social.
+Logo, deve ser retratado o acórdão em apreço a fim de determinar-se a apuração do ITBI com base no valor da transação/operação, apenas.
+Ante o exposto, por determinação do STJ, adequa-se o julgado reexaminado para alterar o parâmetro pelo qual deve ser apurada a base de cálculo do ITBI, nos termos do acórdão, com devolução dos autos à Presidência de Direito Público.
+Assim, em razão do recurso especial do Município, os autos retornaram para outro juízo de conformação, ocasião em que não houve retratação; esta, a fundamentação (fls. 291/296):
+O acórdão ora reexaminado aplicou o entendimento firmado pelo Tema nº 1.113 do STJ e, consequentemente, modificou o aresto anterior ao reconhecer que deveria prevalecer como base de cálculo para o ITBI o valor do negócio jurídico/valor do imóvel, no caso, o declarado pela impetrante (por gozar da presunção de que é condizente com o valor de mercado), invalidando-se, assim, o valor venal do ITR do imóvel em questão, o qual havia sido estipulado pela Prefeitura e reconhecido outrora como legítimo para compor a base de cálculo do imposto.
+Dessa forma, então, não se discutiu mais o alcance da imunidade constitucional do ITBI, pois reconheceu-se a imunidade em favor da impetrante até o limite do seu capital social a ser integralizado, em plena conformidade com o disposto art. 156, § 2º, I, da CF, na medida em que o bem integrado ao capital social correspondeu exatamente ao valor da quota social da empresa.
+Desse modo, inoportuna a análise do cabimento da retratação em tela com base no RE nº 796.376, Tema nº 796 do STF, pois tal hipótese apenas teria lugar caso fosse reconhecido excesso de patrimônio com relação ao valor da quota a ser integralizada ao capital social, ocasião em que seria analisada a extensão da benesse.
+Pois bem.
+Com relação ao recurso especial, em razão de o órgão julgador ter decidido a respeito da base de cálculo do ITBI, percebe-se a ausência de prequestionamento dos arts. 35, 36 e 37 do Código Tributário Nacional - CTN.
+De fato, ao considerar somente o valor atribuído pelo contribuinte para fins de manutenção do lançamento, o órgão julgador a quo não analisou bem a situação fática descrita na inicial do mandamus, a qual revela a ocorrência de lançamento tributário suplementar, posterior à declaração do contribuinte. E, ainda assim, a municipalidade não opôs embargos de declaração nem apontou violação do art. 148 do Código Tributário Nacional - CTN, o que impede o conhecimento do especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ITBI. BASE DE CÁLCULO. AUSÊNCIA DE PREQUESTIONAMENTO. INADMISSIBILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
