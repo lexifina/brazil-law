@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Messod Azulay Neto votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO  AGRAVADA  QUE  NÃO  CONHECEU  DO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL. DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, no qual a defesa pretendia a extinção da ação penal pela prescrição em perspectiva.
+2. A agravante foi denunciada pelos crimes de falsidade ideológica (art. 299 do CP) e falsa identidade (art. 307 do CP). A denúncia foi rejeitada e a ação penal extinta sem resolução do mérito, por falta de interesse processual, sob o argumento de prescrição da pretensão punitiva retroativa.
+3. O Tribunal de origem deu parcial provimento ao apelo ministerial, anulando a sentença e determinando o prosseguimento da ação penal em relação ao crime de falsidade ideológica, afastando a prescrição virtual.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a decisão que inadmitiu o recurso especial por ausência de impugnação específica aos fundamentos da decisão agravada deve ser mantida.
+III. RAZÕES DE DECIDIR
+5. A ausência de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial obsta ao conhecimento do agravo, conforme arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, e Súmula 182 do STJ.
+6. A defesa não demonstrou a inaplicabilidade dos precedentes indicados na decisão agravada, nem colacionou precedentes contemporâneos ou supervenientes que comprovassem entendimento diverso do STJ.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  FRANCISCA CELIA SOUSA DO VALE  contra  decisão que  não conheceu do agravo em recurso especial.
+Consta  dos  autos  que  a  agravante  foi denunciada pela prática dos crimes de falsidade ideológica (art. 299 do CP) e falsa identidade (art. 307 do CP) por ter, em 6 de setembro de 2018, apresentado cédula de identidade falsa nas dependências da Delegacia de Defraudações e Falsificações (e-STJ, fls. 111-114).
+A denúncia foi rejeitada e ocorreu a extinção da ação penal sem resolução do mérito, por falta de interesse processual, nos termos do art. 395, II, do CPP, sob o argumento da ocorrência da prescrição da pretensão punitiva retroativa (e-STJ, fls. 214-218).
+O Tribunal de origem, por unanimidade, deu parcial provimento ao apelo ministerial para anular a sentença e determinar o retorno dos autos à origem para seu prosseguimento em relação ao crime de falsidade ideológica, assim ementado (e-STJ, fls. 279-280):
+PENAL E PROCESSUAL PENAL. RECURSO MINISTERIAL. APELAÇÃO CRIMINAL RECEBIDA COMO RECURSO EM SENTIDO ESTRITO. ART. 581, INCISO VIII, DO CPP. PRINCÍPIO DA FUNGIBILIDADE. PEDIDO DE AFASTAMENTO DA PRESCRIÇÃO VIRTUAL RECONHECIDA NA SENTENÇA. POSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. SÚMULA Nº 438, DO STJ. SENTENÇA ANULADA. PRECEDENTES 1a CÂMARA CRIMINAL DO TJCE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO, EM CONSONÂNCIA COM O PARECER DA PGJ.
+1. Cuida-se de Apelação Criminal interposta pelo Ministério Público do Estado do Ceará (fls. 229/237), objurgando a sentença (fls. 221/225) proferida pela 6aVara Criminal da Comarca de Fortaleza, a qual extinguiu a presente ação penal, sem resolução de mérito, diante da ausência de interesse processual (CPP, artigo 395, II), ante a prescrição virtual do crime;
+2. De início, recebo o Recurso de Apelação Criminal como Recurso em Sentido Estrito, visto que, nos termos do art. 581, inciso VIII, do CPP, contra Sentença que decreta a prescrição, é cabível Recurso em Sentido Estrito. Portanto, considerando que o presente recurso observou o prazo recursal, bem como inexiste má-fé na sua interposição, conheço do presente recurso;
+3. Diversamente do que consignou o juízo de origem, só seria possível reconhecer a prescrição pela pena concreta aplicada na Sentença condenatória com o trânsito em julgado para a acusação ou, antes do trânsito em julgado, a partir da pena abstrata prevista para o crime a que fosse condenado, ou seja, regulando-se pelo máximo da pena corporal para os delitos tipificado nos artigos 299 c/c 307, ambos do Código Penal Brasileiro;
+4. Acerca do assunto, impende mencionar que o Supremo Tribunal Federal já firmou entendimento no sentido da impossibilidade de reconhecimento da prescrição virtual, ou projetada, ou em perspectiva da pretensão punitiva. O Superior Tribunal de Justiça, no mesmo sentido, editou o Enunciado 438, afirmando que é inadmissível a extinção da punibilidade pela prescrição da pretensão punitiva com fundamento em pena hipotética - como é o caso da prescrição virtual;
+5. A prescrição em abstrato ocorre sobre a pena máxima do crimes cominados: em relação ao art. 299 do CP é de 5 anos; em relação ao crime previsto no art. 307, do CP, é de 1 ano. Assim, o prazo prescricional previsto para as infrações em debate é fixado em 12 anos e 4 anos, respectivamente, nos termos do art. 109, inciso III e V, do Código Penal.
+6. No entanto, entre o recebimento da delatória (20/09/2018 - fl. 116) e a data da publicação da decisão recorrida (31/08/2023 - fl.228) decorreu o prazo de cerca de 4 anos, 11 meses e 12 dias. Nessa senda, houve prescrição referente ao crime previsto no art. 307, do CP, porém, não há que se falar na prescrição decorrente do crime previsto no art. 299, do CP, ante a ausência do decurso prescricional mencionado, permanecendo assim íntegro o poder punitivo estatal.
+7. Considerando que o juiz a quo julgou extinto o processo, sem apreciação do mérito, diante da ausência de interesse processual superveniente, que nada mais é do que a modalidade de prescrição penal que consiste no reconhecimento antecipado da prescrição retroativa, no curso da ação penal, e antes da prolação da sentença, com base numa pena que provável ou possivelmente seria imposta ao réu no caso de uma condenação, a sentença recorrida deve ser anulada, sendo determinado o retorno dos autos à origem para o regular prosseguimento da ação criminal, porém, apenas em relação ao crime previsto no art. 299, do CP (falsidade ideológica), ante a prescrição em abstrato do crime previsto no art. 307, do CP (falsa identidade).
+8. Recurso conhecido e parcialmente provido, em consonância com o parecer da PGJ.
+Foi  interposto,  então,  recurso  especial, com  fundamento  no  art.  105,  III,  a,  da  Constituição (e-STJ, fls. 298-321),  no  qual  a  defesa  indicou  violação  dos  arts. 395, II, do Código de Processo Penal e 107, III, do Código Penal e inaplicabilidade da Súmula 438/STJ, alegando que " ..  há ausência de interesse de agir pela perspectiva de que o processo é improfícuo, sendo cabível o seu arquivamento, em face da ausência de condição para o exercício da ação penal." (e-STJ, fl. 308).
+Ademais, pretendeu:
+ ..
+5.1. Anular a condenação do recorrente em virtude do veredito ter sido contrário à prova constante dos autos;
+5.2. Caso não seja esse o vosso entendimento, que seja dado provimento ao pedido, no sentido de reformar a dosimetria da pena imposta, para redimensiona-la no patamar minimo, em face da ausência de fundamentação idônea para a sua exasperação, conforme exaustiva exposição da defesa, por ser tal medida de inteira JUSTIÇA. (fl. 321).
+Apresentada  as  contrarrazões  (e-STJ, fls.  355-364  ),  o  recurso  foi  inadmitido  na  origem,  em  razão  do óbice da Súmula 83 do STJ (e-STJ, fls. 375-378).
+Contra  a  decisão  que  não  admitiu  o  recurso  especial,  foi  manejado,  com  base  no  art.  1.042  do  CPC,  agravo  em  recurso  especial,  o qual não foi conhecido por decisão de e-STJ, fls. 502-504.
+Daí  o  presente  agravo  regimental,  em  que  a  defesa  aponta  que  " ..  o argumento da decisão do Tribunal Estadual de que o acórdão impugnado apresentou fundamentação de acordo com o entendimento pacífico desta Corte foi devidamente enfrentado." (e-STJ, fl. 512).
+O  Ministério  Público  do  Estado  do Ceará  se  manifestou  pelo  não conhecimento  do  recurso  (fls.  522-527).
+Por  manter  a  decisão  agravada,  submeto  o  feito  à  Quinta  Turma para julgamento.
+É  o  relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO  AGRAVADA  QUE  NÃO  CONHECEU  DO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL. DECISÃO MANTIDA.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, no qual a defesa pretendia a extinção da ação penal pela prescrição em perspectiva.
+2. A agravante foi denunciada pelos crimes de falsidade ideológica (art. 299 do CP) e falsa identidade (art. 307 do CP). A denúncia foi rejeitada e a ação penal extinta sem resolução do mérito, por falta de interesse processual, sob o argumento de prescrição da pretensão punitiva retroativa.
+3. O Tribunal de origem deu parcial provimento ao apelo ministerial, anulando a sentença e determinando o prosseguimento da ação penal em relação ao crime de falsidade ideológica, afastando a prescrição virtual.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em saber se a decisão que inadmitiu o recurso especial por ausência de impugnação específica aos fundamentos da decisão agravada deve ser mantida.
+III. RAZÕES DE DECIDIR
+5. A ausência de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial obsta ao conhecimento do agravo, conforme arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, e Súmula 182 do STJ.
+6. A defesa não demonstrou a inaplicabilidade dos precedentes indicados na decisão agravada, nem colacionou precedentes contemporâneos ou supervenientes que comprovassem entendimento diverso do STJ.
+IV. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+Em  que  pesem  os  argumentos  da  parte  agravante,  não  vislumbro  elementos  hábeis  a  alterar  a  decisão  monocrática.  Ao  contrário,  os  argumentos  ali  externados  merecem  ser  ratificados  por  este  colegiado  julgador.
+  Extrai-se  dos  autos  que  a  defesa  pretende  a  reconsideração  da  decisão  agravada  para  que haja a extinção da ação penal pela prescrição em perspectiva.
+Por oportuno, reproduzo o seguinte trecho da decisão monocrática agravada (e-STJ, fls. 503-504, destaquei):
+O agravo em recurso especial é tempestivo, mas, conforme corretamente apontado pelo Ministério Público Federal, não infirmou o argumento da decisão do Tribunal a quo de que o acórdão impugnado apresentou fundamentação de acordo com o entendimento pacífico desta col. Corte (óbice da súmula 83 do STJ).
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame. Nesse sentido:
+ ..
+No entanto, nas razões de agravo, houve somente a repetição do argumento apresentado nas razões do recurso especial de que o enunciado da súmula 438 do STJ não se aplicaria ao caso em questão. Não demonstrou como o fundamento do acórdão impugnado estaria em desacordo com o entendimento pacífico desta col. Corte, o que impede o conhecimento do agravo.
+Ressalto que cabe a parte agravante demonstrar o equívoco da decisão contra a qual se insurge, sendo imprescindível a impugnação específica a todos os óbices por ela apontados, obrigação da qual não se desincumbiu.
+Com efeito: "Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ." (AgRg no AREsp 1728545/BA, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe 26/02/2021).
+No mesmo sentido, destaco o seguinte precedente desta Corte Superior de Justiça:
+PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INCIDÊNCIA  DA  SÚMULA  N.  182/STJ.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  ENTENDIMENTO  DO  STJ.  SÚMULA  N.  83  DO  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.  CONCESSÃO  DE  HABEAS  CORPUS  DE  OFÍCIO.
+1.  Não  havendo  impugnação  específica  de  todos  os  fundamentos  da  decisão  que  deixou  de  admitir  o  recurso  especial,  deve  ser  aplicado,  por  analogia,  o  teor  da  Súmula  n.  182  deste  Tribunal  Superior.
+2.  Inadmitido  o  apelo  extremo  com  base  no  verbete  sumular  n.  83/STJ,  incumbiria  à  parte  interessada  apontar  precedentes  contemporâneos  ou  supervenientes  aos  citados  na  decisão  impugnada,  procedendo  ao  cotejo  analítico  entre  eles,  de  forma  a  demonstrar  que  outra  é  a  orientação  jurisprudencial  nesta  Corte  Superior,  o  que  não  ocorreu  na  espécie.
+3.  O  entendimento  desta  Corte  Superior  é  o  de  que  "a  incidência  da  Súmula  n.  83/STJ  não  se  restringe  aos  recursos  especiais  interpostos  com  fundamento  na  alínea  "c"  do  permissivo  constitucional,  sendo  também  aplicável  nos  reclamos  fundados  na  alínea  "a",  uma  vez  que  o  termo  "divergência",  a  que  se  refere  a  citada  súmula,  relaciona-se  com  a  interpretação  de  norma  infraconstitucional"  (AgRg  no  AREsp  n.  679.421/RJ,  relator  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  17/3/2016,  DJe  31/3/2016).
+ ..
+5.  Agravo  regimental  desprovido.  Concessão  de  habeas  corpus  de  ofício.  (AgRg  no  AREsp  n.  1.814.381/RJ,  Sexta  Turma,  Rel.  Min.  Antonio  Saldanha  Palheiro,  DJe  de  2/5/2022).
+Na esteira do entendimento pavimentado por esta Corte Superior: "A ausência de impugnação específica ao fundamento da decisão que inadmitiu o recurso especial obsta ao conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia". (AgRg no AREsp 1790013/SP, Sexta Turma, rel. Min. Nefi Cordeiro, DJe 26/ 2/2021).
+Portanto, em respeito ao princípio da dialeticida de, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
