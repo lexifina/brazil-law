@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de DANIEL HELOI DA SILVA - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (Apelação Criminal n. 700257-86.2019.8.02.0001), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 15ª Vara Criminal da Capital/AL, ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada sem fundada suspeita. Subsidiariamente, pede a revisão da dosimetria da pena, pois a quantidade de droga apreendida não justifica a exasperação da pena-base.
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No caso dos autos, não há falar em discussão sobre a existência, ou não, de fundada suspeita da prática de crime, diante da existência de autorização do morador para a entrada no recinto, pois, conforme consta do acórdão hostilizado a busca domiciliar também não possui irregularidades, visto que o próprio interrogado relatou em audiência que a polícia perguntou se podia entrar em sua casa e ele autorizou a entrada (fl. 26).
+Sobre a dosimetria da pena, também não verifiquei o alegado constrangimento, pois a quantidade de droga apreendida é capaz de justificar o aumento da pena-base (350 g da maconha).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. DISPENSA. EXISTÊNCIA DE AUTORIZAÇÃO DO MORADOR. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DE DROGA APREENDIDA (350 G DE MACONHA). CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
