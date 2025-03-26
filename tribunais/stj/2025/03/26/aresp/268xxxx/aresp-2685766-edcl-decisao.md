@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de segundos embargos de declaração opostos por Iraide Benini Gusson, contra decisão de fls. 680/682, na qual não conheci dos anteriores embargos, porquanto, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada, sequer adentrou no mérito, tendo em vista o óbice sumular nº 7 desta Corte.
+A parte embargante, em suas razões sustenta, "O que se defendeu a título de omissão é exatamente que seja observada a segurança jurídica em razão de decisão anterior que já validou os documentos juntados como início de prova material" (fl. 687).
+Argumenta que, "em momento algum, ao analisar a questão relativa à coisa julgada, haveria hipótese de incidência da Súmula 07 do STJ, pelo contrário, a alegação versa apenas questão de direito. Nem de longe haveria a análise de questões fáticas" (fl. 687).
+Ao final, requer o acolhimento dos presentes embargos, "para analisar a implementação dos requisitos legais à concessão do benefício vindicado, vez que os documentos anexados aos autos já foram reconhecidos e validados como início de prova material, por ser medida de efetiva aplicação da almejada JUSTIÇA" (fl. 688).
+Sem impugnação, conforme certidão de fl. 701.
+É O RELATÓRIO. PASSO A FUNDAMENTAÇÃO
+Os embargos não comportam acolhida.
+Consoante o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida
+Essa é a razão pela qual a jurisprudência desta Corte é firme no sentido de que "Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida" (EDcl no AgRg no REsp 1.990.855/AP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 29/9/2022).
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. A análise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt EXC no MS n. 17.449/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 6/9/2022.)
+No caso, a decisão embargada examinou detidamente a controvérsia, e, à saída, afastou suposta ofensa ao art. 1.022, I, do CPC, visto que o Tribunal de origem dirimiu, fundamentadamente, a s questões que lhe foram submetidas e apreciou integralmente a causa posta nos autos, não se podendo, de acordo com a jurisprudência do Superior Tribunal de Justiça, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional (AgInt no AREsp 1678312/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/3/2021, DJe 13/4/2021).
+O mesmo decisório destacou, também, que o Tribunal de origem não reconheceu o labor rurícola alegado pelo autor, por compreender que não houve comprovação do exercício de atividade rural, no período de carência. Em razão desse contexto, afirmou-se que a alteração das premissas adotadas pela tribunal demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ .
+Assim, não há omissão a suprir, obscuridade a esclarecer ou, ainda, contradição a sanar. Por outras palavras, na situação em análise o recorrente não demonstra existir vícios que pudessem autorizar o emprego dos embargos, o que impossibilita o êxito do recurso. O que requer, na verdade, é o reexame do julgado, insistindo em debater matéria já decidida. Assim, o argumento autoral denuncia, tão somente, o inconformismo com a solução que lhe foi desfavorável e que busca reverter. A esse propósito, porém, não se presta o recurso integrativo.
+ANTE O EXPOSTO: rejeito também, os segundos embargos.
+Publique-se.
+EMENTA
