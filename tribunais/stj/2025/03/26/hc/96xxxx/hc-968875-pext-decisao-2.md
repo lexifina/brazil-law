@@ -1,0 +1,10 @@
+DECISÃO
+SIDNEI CARLOS ALACRINO DE OLIVEIRA ajuíza pedido de extensão da decisão de fls, , que concedeu a ordem ao paciente THIAGO DE MOURA ARANTES, para substituir a sua custódia preventiva por medidas cautelares diversas da prisão.
+O peticionário alega que a situação é idêntica à do paciente.
+Decido.
+A decisão ora invocada pelo peticionário aduziu que, "conquanto as circunstâncias mencionadas pelo Juízo singular revelem a necessidade de algum acautelamento da ordem pública, entendo que não se mostram tais razões bastantes, em juízo de proporcionalidade, para manter a paciente sob o rigor da cautela pessoal mais extremada, mormente em razão de ser primário, além de, aparentemente, não ter posição de destaque ou liderança na referida organização, visto que a denúncia limita-se a descrever depósitos na conta de um integrantes do bando.
+Todavia, quanto ao peticionário, o decreto preventivo afirma que "os denunciados ROBSON LOPES ALVES, vulgo TOBAH, e SIDNEI CARLOS ALACRINO DE OLIVEIRA, vulgo FOCA, conscientes e voluntariamente integram a organização criminosa e utilizam a estrutura criminosa do tráfico de drogas de GENARO (criminosos, armas, barricadas) como escudo e como facilitador de suas atividades ilícitas, podendo desmanchar, transportar e armazenar as peças dos veículos roubados com tranquilidade, para posterior revenda", concluindo serem "eles  ..  os principais responsáveis pela aquisição, desmanche, transporte, armazenamento de veículos roubados, com a posterior revenda e distribuição de suas peças e componentes".
+Salienta, ainda, que "o denunciado Sidnei Carlos, vulgo Foca, movimentou no período de seis meses, cerca de R$ 7.369.450,00, valor incompatível com a sua renda declarada", além de "transaciona r  com contrapartes do ramo de alimentos, ou seja, sem qualquer relação com a sua atividade declarada de compra e venda de veículos, em nítida tentativa de dissimular a origem ilícita dos valores obtidos" (fl. 91).
+À vista do exposto, indefiro o pedido de extensão formulado em favor de SIDNEI CARLOS ALACRINO DE OLIVEIRA .
+Publique-se. Intimem-se.
+EMENTA
