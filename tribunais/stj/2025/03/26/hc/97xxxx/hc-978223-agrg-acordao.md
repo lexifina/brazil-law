@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Convocado o Sr. Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CAUSA DE AUMENTO DE PENA PELO EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E PERÍCIA. OUTROS MEIOS DE PROVA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+2. A jurisprudência desta Corte é pacífica no sentido da desnecessidade de apreensão e perícia da arma de fogo para a incidência da majorante do art. 157, § 2º, I, do Código Penal, notadamente quando comprovada sua utilização por outros meios de prova, tais como a palavra da vítima. Precedentes.
+3. Não tendo apresentado argumentos aptos a alterar a compreensão anteriormente firmada, a manutenção da decisão agravada é medida que se impõe.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MANOEL DE SOUZA LIMA NETO contra decisão de minha lavra, pela qual não conheci o habeas corpus (e-STJ fls. 83/87).
+Consta dos autos que o paciente foi condenado, em primeira instância, a cumprir pena de 19 anos, 5 meses e 28 dias de reclusão, em regime inicial fechado, e 31 dias-multa, como incurso no art. 157, § 2º, incisos II e V e § 2º-A, inciso I, do Código Penal, e art. 288, parágrafo único, do Código Penal, combinado com os arts. 1º, II, "a" e "b" (1ª figura) e 8º, "caput", ambos da Lei n. 8.072/1990, na forma do art. 383 do Código de Processo Penal, com incidência das agravantes atinentes à reincidência e calamidade pública, em concurso material e de agentes. (e-STJ fls. 49/80).
+Irresignada, a defesa interpôs recurso de apelação, que foi desprovido (e-STJ, fls. 7/27), nos termos da ementa seguinte:
+Apelação Criminal. Roubo e associação criminosa. Porte de munição. Recursos defensivos. Materialidade e autoria demonstradas. Prova bastante. Majorantes do emprego de arma de fogo, restrição da liberdade e concurso de agentes. Concurso material de crimes. Manutenção da condenação. Penas bem dosadas e individualizadas, inclusive com o reconhecimento da agravante da calamidade pública. Precedentes. Dosimetria sem reparos, portanto, fundamentada. Regime fechado bem fixado diante da pena aplicada e gravidade concreta dos delitos de roubo e associação. Impossibilidade de qualquer benefício liberatório imediato. Segregação correta. Detração e isenção de custas a cargo do juízo próprio. Recursos desprovidos.
+No presente writ (e-STJ fls. 2/6), o impetrante sustenta que o paciente está sofrendo constrangimento ilegal, em razão do reconhecimento da majorante da arma de fogo. Argumenta, em síntese, que não há prova da utilização de arma de fogo, destacando que a própria vítima informou não ter visto nenhuma arma.
+Requer, assim, na liminar e no mérito, o afastamento da aludida majorante.
+Em decisão acostada às e-STJ fls. 83/87, este Relator não conheceu da impetração.
+A defesa opôs embargos de declaração, os quais foram rejeitados (e-STJ fls. 99/102).
+Na ocasião, a defesa apresenta agravo (e-STJ fls. 106/108), no qual se insurge sobre o reconhecimento da majorante da arma de fogo, alegando que não deveria ter sido aplicada.
+Pleiteia, assim, a reconsideração da decisão a gravada ou, caso contrário, sua submissão ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. CAUSA DE AUMENTO DE PENA PELO EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E PERÍCIA. OUTROS MEIOS DE PROVA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+2. A jurisprudência desta Corte é pacífica no sentido da desnecessidade de apreensão e perícia da arma de fogo para a incidência da majorante do art. 157, § 2º, I, do Código Penal, notadamente quando comprovada sua utilização por outros meios de prova, tais como a palavra da vítima. Precedentes.
+3. Não tendo apresentado argumentos aptos a alterar a compreensão anteriormente firmada, a manutenção da decisão agravada é medida que se impõe.
+4. Agravo regimental não provido.
+VOTO
+A despeito das alegações do agravante, entendo que a decisão impugnada deve ser mantida por seus próprios fundamentos.
+Busca-se, no caso, o afastamento da majorante do emprego de arma de fogo.
+No que tange à causa de aumento do delito de roubo prevista no art. 157, § 2º-A, inciso I, do Código Penal, a Terceira Seção deste Tribunal Superior decidiu ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva (EREsp n. 961.863/RS, Relator Ministro CELSO LIMONGI - Desembargador Convocado do TJ/SP), Relator p/ acórdão Ministro GILSON DIPP, Terceira Seção, julgado em 13/12/2010, DJe 6/4/2011).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. VIOLAÇÃO AO ART. 226 DO CÓDIGO DE PROCESSO PENAL - CPP. NULIDADE AFASTADA. OBEDIÊNCIA AO DISPOSITIVO LEGAL. EXISTÊNCIA DE OUTRAS PROVAS. PLEITO ABSOLUTÓRIO QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. PENA-BASE. FRAÇÃO DE AUMENTO. MAUS ANTECEDENTES. PROPORCIONALIDADE. MAJORANTE. EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE APREENSÃO E PERÍCIA. PALAVRAS DAS VÍTIMAS. AFASTAMENTO QUE ENCONTRA ÓBICE NA SÚMULA N. 7 DO STJ. CUMULAÇÃO DE MAJORANTES. ART. 68 DO CÓDIGO PENAL - CP. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em nulidade no reconhecimento do réu. Isso porque, conforme se verifica dos autos, após o delito, as vítimas, na delegacia, descreveram com detalhes o modus operandi do crime além das características físicas e das vestimentas utilizadas pelos agentes na ocasião (fls. 3/6), procedendo posteriormente seu reconhecimento pessoal, indicando, sem sombra de dúvida, a autoria.
+Em juízo as vítimas realizaram novo reconhecimento pessoal do recorrente.
+2. A autoria delitiva não tem como único elemento de prova o reconhecimento feito pelo ofendido, tendo em vista sua constatação por outros elementos probatórios provenientes não somente do inquérito policial, mas também da instrução processual, notadamente nos depoimentos das vítimas e no reconhecimento pessoal realizado em juízo, além da apreensão do bem subtraído na posse do recorrente (fl. 251).
+3. O acórdão está em consonância com a orientação jurisprudencial desta Corte, no sentido de que eventual inobservância do rito legal previsto no art. 226 do CPP não conduz necessariamente ao desfecho absolutório, se houver outras provas aptas a confirmar a autoria delitiva, como é a hipótese dos autos.
+4. Para se acatar o pleito absolutório fundado na suposta ausência de provas suficientes para a condenação, seria inevitável o revolvimento fático-probatório do feito, vedado pela Súmula n. 7 deste STJ.
+5. O Tribunal de Justiça aplicou a fração de 1/5 considerando os maus antecedentes do agente, que conta com duas condenações anteriores. T al entendimento encontra amparo na jurisprudência desta Corte Superior, segundo a qual a existência de multiplicidade de condenações valorada s a título de maus antecedentes, justifica o incremento da pena-base em fração mais gravosa, exatamente como se verificou na hipótese, não havendo falar em desproporcionalidade na pena aplicada.
+6. O entendimento do Tribunal de origem está de acordo com a jurisprudência desta Corte, que se fixou no sentido da prescindibilidade da apreensão da arma de fogo e da realização de perícia para a incidência da referida causa de aumento, caso comprovado seu emprego por outros meios de prova.
+7. Esta Corte possui o entendimento de que " ..  a interpretação correta do art. 68, parágrafo único, do Código Penal, permite a aplicação de duas causas de aumento quando existe fundamentação concreta para tanto" (AgRg no REsp n. 1.872.157/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/2/2021).
+8. No caso, verifica-se que as instâncias ordinárias, ao aplicar cumulativamente as majorantes do concurso de agentes e emprego de arma de fogo, respectivamente em 1/3 (um terço) e 2/3 (dois terços), indicou fundamentação concreta e suficiente para justificar o referido incremento, destacando a maior gravidade da conduta, verificada pelo modus operandi, tendo em vista que praticado por dois agentes, com emprego de duas armas tipo pistola, inclusive tendo um deles encostado a arma na cabeça de uma das vítimas.
+Precedentes.
+9 . Agravo regimental desprovido.
+(AgRg no REsp n. 2.114.612/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBOS MAJORADOS. CONCLUSÕES DA DECISÃO AGRAVADA NÃO IMPUGNADAS. PRECLUSÃO. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. TESE DE QUE A CONDENAÇÃO ESTÁ AMPARADA APENAS EM PROVAS COLHIDAS NA FASE INQUISITORIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF E 356/STF. TESES DE: A) NULIDADE NO DEPOIMENTO DE TESTEMUNHA E, POR CONSEQUÊNCIA, NO RECONHECIMENTO DO CONCURSO FORMAL; B) ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA; E C) INEXISTÊNCIA DE PROVAS QUANTO AO EMPREGO DE ARMA DE FOGO. SÚMULA N. 7/STJ. CAUSA DE AUMENTO RELATIVA AO EMPREGO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA. DESNECESSÁRIAS. ELEMENTOS PROBATÓRIOS DIVERSOS (PALAVRA DA VÍTIMA). PRECEDENTES. REGIME INICIAL ADEQUADO: FECHADO. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. As conclusões da decisão agravada não impugnadas nas razões do agravo regimental atraem a incidência da preclusão.
+2. Não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pelo texto constitucional ao Supremo Tribunal Federal.
+3. Não foi analisada pelo Tribunal a quo, nos exatos termos expostos no apelo nobre, a tese de que a condenação está lastreada apenas em elementos probantes colhidos durante a fase inquisitorial e não repetidos sem juízo, nem tal argumento foi objeto dos embargos de declaração opostos na origem. Incidência das Súmulas 282/STF e 356/STF.
+4. As alegações de que há nulidade no depoimento de uma das testemunhas, de que não foram apresentadas provas suficientes para a condenação e de que não foi devidamente comprovado o emprego de arma de fogo incide a Súmula 7/STJ.
+5. É dispensável a apreensão e a perícia da arma de fogo para a incidência da respectiva causa de aumento de pena no crime de roubo, quando evidenciada a sua utilização no delito por outros meios de prova, tais como a palavra da vítima ou o depoimento de testemunhas.
+6. Considerando as circunstâncias apreciadas na formulação da nova dosimetria estabelecida na decisão agravada, o quantum de pena e a existência de circunstância judicial negativa, o regime inicial adequado é o fechado, nos termos da alínea a do § 2.º do art. 33 do Código Penal.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.
+(AgRg no AREsp n. 2.282.032/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/9/2023, DJe de 11/9/2023.)
+No caso dos autos, foi consignado que A majorante do emprego da arma, com o devido respeito ao asseverado pelo i. Procurador de Justiça, deve prevalecer, dada as investigações que apontaram que os acusados estavam associados para a prática de crimes com uso de armas e a vítima relatou que foi ameaçada de morte com disparo na cabeça (e-STJ fl. 25).
+Assim, correta a manutenção da referida causa de aumento.
+Ademais, a inversão do julgado demandaria revolvimento do acervo fático-probatório, procedimento inviável em sede de habeas corpus.
+Dessa forma, na espécie, a pretensão formulada pelo impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, revelando-se manifestamente improcedente.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
