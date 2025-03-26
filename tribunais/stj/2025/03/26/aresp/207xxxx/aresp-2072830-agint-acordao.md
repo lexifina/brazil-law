@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. É inviável o recurso especial que busca a reavaliação do conjunto probatório dos autos, e não apenas a requalificação jurídica dos fatos já reconhecidos pela instância ordinária, nos termos da Súmula n. 7 do STJ.
+2. No caso, o Tribunal de origem foi categórico ao afirmar que ficou devidamente comprovado, por meio de perícia técnica, o recolhimento parcial do ISS pelo tomador, conclusão que não pode ser desconsiderada pela municipalidade. A revisão desse entendimento demandaria o reexame do acervo probatório, o que não é cabível em sede de recurso especial.
+3. O prequestionamento implícito não ampara a pretensão recursal, pois a controvérsia não se limita à ausência de citação do dispositivo legal no acórdão recorrido, mas, sim, à falta de manifestação expressa sobre a tese recursal. A ausência de embargos de declaração pela parte agravante atrai a aplicação, por analogia, das Súmulas n. 282 e 356 do STF, impedindo a análise da questão em recurso especial.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão monocrática de minha relatoria, que conheceu do agravo para não conhecer do recurso especial, assim ementada (fl. 832):
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. ISS. PERÍCIA TÉCNICA. REEXAME DE MATÉRIA FÁTICA-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. SUCUMBÊNCIA RECÍPROCA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte recorrente opôs embargos de declaração (fls. 840-842), os quais foram rejeitados, nos termos da seguinte ementa (fl. 856):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VÍCIOS ALEGADOS PELA EMBARGANTE NÃO SE VERIFICAM. EMBARGOS REJEITADOS.
+Nas razões do agravo interno, a parte recorrente se insurge contra a referida decisão. Alega que "toda a argumentação foi fundamentada nas mesmas premissas fáticas adotadas pelo acórdão", quais sejam: (i) o serviço prestado não se enquadra nas hipóteses de responsabilidade tributária previstas na legislação municipal; (ii) a autora, ou seja, o contribuinte, não recolheu o tributo; (iii) o tomador de serviços não é responsável tributário; (iv) o tomador de serviços, por equívoco, recolheu parcialmente o ISS (fl. 864).
+Sustenta que "não pretende que seja revista nem alterada nenhuma dessas premissas fáticas" e que "essas premissas fáticas que fundamentam a pretensão à alteração apenas da conclusão jurídica adotada" (fl. 206).
+Por fim, aduz que, quanto ao art. 86 do CPC, "houve o prequestionamento implícito, uma vez que não foi observada a regra de isenção de condenação para a parte vencedora na maior parte dos pedidos, que no caso foi o Município." (fl. 867)
+Impugnação apresentada (fls. 896-913)
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. É inviável o recurso especial que busca a reavaliação do conjunto probatório dos autos, e não apenas a requalificação jurídica dos fatos já reconhecidos pela instância ordinária, nos termos da Súmula n. 7 do STJ.
+2. No caso, o Tribunal de origem foi categórico ao afirmar que ficou devidamente comprovado, por meio de perícia técnica, o recolhimento parcial do ISS pelo tomador, conclusão que não pode ser desconsiderada pela municipalidade. A revisão desse entendimento demandaria o reexame do acervo probatório, o que não é cabível em sede de recurso especial.
+3. O prequestionamento implícito não ampara a pretensão recursal, pois a controvérsia não se limita à ausência de citação do dispositivo legal no acórdão recorrido, mas, sim, à falta de manifestação expressa sobre a tese recursal. A ausência de embargos de declaração pela parte agravante atrai a aplicação, por analogia, das Súmulas n. 282 e 356 do STF, impedindo a análise da questão em recurso especial.
+4. Agravo interno desprovido.
+VOTO
+A irresignação não prospera, tendo em vista que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao colegiado para serem confirmados (fls. 196-200):
+Conheço do agravo, pois próprio e tempestivo, bem como combateu os fundamentos da decisão agravada.
+Ao julgar a apelação, o Tribunal local consignou que (fls. 744-745; grifos no original):
+O caso dos autos.
+No caso dos autos, discutem-se serviços de guarda e estacionamento de veículos prestados pela autora à Sociedade Beneficente Israelita Brasileira Hospital Albert Einstein e à Nova Gaule Comércio e Participações S/A. Referidos serviços estão previstos no subitem 11.01 da lista de serviços contida na Lei Municipal nº 13.701/2003:
+11.01 - Guarda e estacionamento de veículos terrestres automotores, de aeronaves e de embarcações.
+Observa-se que referida prestação de serviço não se enquadra em nenhuma das hipóteses de responsabilidade tributária previstas na legislação municipal.
+Contudo, realizada a perícia técnica, o perito concluiu que houve recolhimento parcial do ISS referente a tais serviços pela tomadora Sociedade Beneficente Israelita Brasileira Hospital Albert Einstein, em razão de equívoco no preenchimento do código de serviço, uma vez que foi utilizado código da tabela própria dos serviços sujeitos à responsabilidade tributária (fls. 436/439):
+ ..
+Nesse sentido, constou nos esclarecimentos adicionais prestados pelo perito (fls.585/586):
+"Nos autos o agente fiscal atribui o código dos serviços como nº 07811"Guarda e estacionamento de veículos terrestres automotores" de acordo com Anexo 1, IN. SUREM n.º 08/2011, enquanto que os documentos trazidos pelo Requerente acerca de recolhimentos efetuados pelo HIAE, o código de serviço constante é o de nº 09687 constantes nas DAMSP"s como "serviços tomados do grupo guarda e locação".
+Em que pese a diferença apenas situar-se o plano da nomenclatura, mostra-se oportuno salientar que o tributo foi efetivamente recolhido e conduzido aos cofres da Requerida sob o código nº 09687, no importe de 5% sobre o valor dos serviços, sendo a natureza dos serviços e seu conteúdo os mesmos apontados pelo município, sem quaisquer prejuízos arrecadatórios para a Requerida." (grifo nosso)
+Assim, embora de fato o serviço discutido não esteja previsto entre aqueles que ensejam a responsabilidade tributária pelo tomador, no caso restou comprovado que ocorreu o recolhimento parcial do ISS pelo tomador, o que não pode ser desconsiderado pela municipalidade.
+O fato de o recolhimento não ter se dado na forma determinada pela legislação municipal, ou seja, pelo prestador dos serviços, pode, em tese, ensejar a aplicação de penalidade em razão de eventual descumprimento de obrigações acessórias, mas não a cobrança de tributo que já foi recolhido.
+Com isso, deve ser afastada a cobrança dos valores comprovadamente recolhidos pelo tomador.
+Com efeito, conforme apontado acima, o Tribunal de origem, com base no exame dos elementos fáticos, mormente em perícia técnica realizada nos autos, entendeu pelo recolhimento parcial do ISS pelo tomador e afastou a cobrança dos valores comprovadamente recolhidos.
+Nesse contexto, diante da fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o revolvimento fático-probatório da causa, o que é vedado no âmbito do recurso especial nos termos do entendimento consolidado na Súmula n. 7 do STJ. A propósito:
+ ..
+Outrossim, o Tribunal de origem não apreciou a suposta ofensa ao art. 86 do CPC/2015, sem que a parte recorrente tenha oposto embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356, ambas do STF.
+Nesse sentido: AgInt no REsp n. 2.097.628/TO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 26/2/2024, DJe de 28/2/2024; AgInt no AREsp n. 1.377.204/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 23/10/2023, DJe de 25/10/2023.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo n. 7/STJ, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+No caso em análise, ao contrário do alegado pelo agravante, o recorrente busca a reavaliação do conjunto probatório, e não apenas a requalificação jurídica dos fatos já reconhecidos pela instância ordinária. Ressalte-se que o Tribunal de origem foi categórico ao afirmar que ficou devidamente comprovado, por meio de perícia técnica, o recolhimento parcial do ISS pelo tomador, conclusão que não pode ser desconsiderada pela municipalidade. Afastar esse entendimento demandaria o reexame do acervo probatório dos autos, providência inviável em sede de recurso especial, nos termos da Súmula n. 7 do STJ, que veda o reexame de fatos e provas.
+Ademais, o alegado prequestionamento implícito, invocado nas razões do agravo interno, não ampara a pretensão recursal. Isso porque a controvérsia não se limita à mera ausência de citação do dispositivo de lei federal no acórdão recorrido, mas, sim, à falta de manifestação expressa sobre a tese recursal, incluindo, mas não se restringindo, à valoração do artigo de lei indicado no recurso especial.
+Conforme destacado na decisão agravada, a parte agravante sequer opôs embargos de declaração, circunstância que atrai a aplicação, por analogia, das Súmulas n. 282 e 356 do STF.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA DAS CONDIÇÕES. DISSÍDIO NÃO COMPROVADO. MERA TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 284/STF
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto nas Súmula n. 282 e 356 do Supremo Tribunal Federal.
+2. O prequestionamento implícito consiste no debate de matérias atinentes à lei federal sem que haja citação expressa dos dispositivos objeto de interpretação. O prequestionamento ficto, por sua vez, depende da oposição de embargos de declaração suscitando a omissão na análise de determinada matéria, nos termos do art. 1.025, CPC.
+3. o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas, que não se satisfaz com a mera transcrição de ementas, a fim de demonstrar que as soluções encontradas, tanto na decisão recorrida quanto nos paradigmas, tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias.
+Agravo interno improvido. (AgInt no AREsp n. 2.503.857/PE, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
