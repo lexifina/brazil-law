@@ -1,0 +1,48 @@
+DECISÃO
+MICHAEL FREIRE DE SOUSA agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1508004-79.2018.8.26.0564).
+Consta dos autos que o ora agravante foi condenado pela prática do delito previsto no art. 33, § 1º, I, da Lei n. 11.343/2006, à pena de 6 anos de reclusão, em regime fechado, mais multa.
+Nas razões do recurso especial, a defesa sustenta a negativa de vigência e a interpretação jurisprudencial divergente do art. 33, § 4º, da Lei n. 11.343/2006, pois considera que o réu preenche os requisitos para a aplicação do benefício.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com base nos óbices processuais das Súmulas n. 7 do STJ e 284 do STF (fundamentação deficiente e ausência de comprovação do dissídio), o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 754-756).
+Decido.
+I. Agravo em recurso especial
+O agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao inadmitir o recurso especial. Em obediência ao princípio da dialeticidade, a impugnação não pode ser genérica.
+Ademais, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+Deveras:
+ ..  o entendimento pacífico desta Corte é o da imprescindibilidade da impugnação de todos os fundamentos da decisão de inadmissibilidade, sejam eles autonômos ou não, "pois não existe identidade entre a lógica da Súmula n. 182 do STJ e a da Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial, do agravo em especial, obriga a Corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico" (AgRg no AREsp n. 68.639/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/2/2012).
+(EDcl no AgInt no AREsp n. 1.413.506/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/6/2019)
+No caso, a Corte de origem inadmitiu a pretensão com base nas Súmulas n. 7 do STJ e 284 do STF (fundamentação deficiente e ausência de comprovação do dissídio).
+Neste agravo a parte deixou de refutar, de forma direta e objetiva, os motivos pelos quais o AREsp não foi conhecido. Com efeito, a defesa apenas fez considerações genéricas e reiterou a fundamentação explicitada no recurso especial quanto às teses de mérito, circunstância que atrai a incidência, por analogia, do enunciado na Súmula n. 182 do STJ.
+Portanto, verifica-se que o agravante não rebateu, concretamente, todos os óbices da inadmissão do recurso especial. Assim, é inegável a aplicação, na espécie, da Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Nesse sentido, menciono o seguinte julgado:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. É inviável o processamento de agravo regimental que deixa de impugnar, de modo específico, os fundamentos da decisão agravada, relacionados às Súmulas N. 7 e 83 do STJ. Aplicação do enunciado sumular n. 182 desta Corte.
+2. Agravo regimental não conhecido.
+(AgRg Resp 1.300.642/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/11/2016).
+II. Flagrante ilegalidade
+Conquanto se trate de hipótese de aplicação da Súmula n. 182 do STJ, identifico flagrante ilegalidade nos autos, que enseja a concessão de habeas corpus de ofício, segundo o permissivo contido no art. 654, § 2º, do Código de Processo Penal.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso em análise, o Tribunal de origem afastou a aplicação da redutora, pelos seguintes fundamentos (fl. 638):
+Na terceira fase não houve causa de aumento ou diminuição da pena, restando a pena definitiva em 7 anos de reclusão e o pagamento de 700 dias multa. Destaco que, como bem colocado pelo juízo coator, a grande quantidade de insumos apreendidos, indicam que os dois faziam de tal atividade ilícita com habitualidade, incabível a aplicação do redutor do § 4º do artigo 33 da Lei de Drogas.
+Conforme visto, o fundamento empregado para negar a aplicação do benefício foi a quantidade de insumos apreendidos, que levaria à conclusão da dedicação do réu a atividades ilícitas.
+Entretanto, registro que, em sessão realizada no dia 9/6/2021, por ocasião do julgamento do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), a Terceira Seção desta Corte Superior de Justiça decidiu que:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+Consequentemente, tratando-se de acusado primário, com bons antecedentes, deve a ordem ser concedida, a fim de aplicar o benefício do § 4º do art. 33 da Lei n. 11.343/2006.
+No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais descritas no art. 59 do Código Penal, sobretudo o disposto no art. 42 da Lei de Drogas.
+Na espécie, uma vez que já valorada a quantidade de entorpecente na primeira fase da dosimetria e atendendo à orientação da Terceira Seção desta Corte (HC n. 725.534/SP, Rel. Ministro Ribeiro Dantas, 3ª S., DJe 1º/6/2022), reduzo a pena no patamar máximo (2/3).
+Apenas ad cautelam, friso que, especificamente no caso dos autos, a conclusão pela possibilidade de aplicação da referida minorante não demanda o revolvimento de matéria fático-probatória. Este recurso, diversamente, requer apenas a revaloração de questões incontroversas que já estão delineadas nos autos e nas provas que foram devidamente colhidas ao longo de toda a instrução probatória -, bem como a discussão, meramente jurídica, acerca da interpretação a ser dada sobre os fundamentos apontados pela instância de origem para negar ao réu a incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Realizo, portanto, nova dosimetria.
+III. Dosimetria
+Na primeira fase, foi valorada corretamente a circunstância judicial da expressiva quantidade dos insumos apreendidos, razão pela qual a pena-base permanece em 6 anos de reclusão e 600 dias-multa.
+Na segunda etapa, ausentes agravantes e atenuantes, a pena intermediária se mantém inalterada.
+Na terceira fase, aplico o redutor do art. 33, § 4º, da Lei n. 11.343/2006 e diminuo a reprimenda em 2/3. Consequentemente, torno a sanção do agravante definitiva em 2 anos de reclusão, mais 200 dias-multa.
+Como consectário da redução efetivada na pena do acusado, deve ser feito o ajuste no regime inicial do seu cumprimento. Uma vez condenado a reprimenda inferior a 4 anos, sendo primário ao tempo do delito, com bons antecedentes e beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser fixado o regime inicial aberto, nos termos do art. 33, § 2º, "c", do Código Penal.
+Entretanto, entendo que a desfavorabilidade das circunstâncias judiciais, em virtude da grande quantidade de insumos apreendidos, evidencia que a substituição da sanção por restritiva de direitos não se mostra medida socialmente recomendável, de acordo com o art. 44, III, do Código Penal.
+IV. Dispositivo
+À vista do exposto, não conheço do agravo em recurso especial, mas concedo de ofício a ordem, para aplicar a minorante do art. 33, § 4º, da Lei 11.343/2006 no patamar de 2/3 e reduzir a sanção imposta ao réu para 2 anos de reclusão, em regime aberto, mais 200 dias-multa.
+Publique-se e intimem-se.
+EMENTA
