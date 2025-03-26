@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por ISAIAS DE JESUS VINHAS FILHO e JEAN DAVID COSTA BITENCOURT contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA assim ementado:
+"EMENTA: APELAÇÕES CRIMINAIS. CRIME TIPIFICADO NO ART. 157, §§2º, II, E 2º-A, I, DO CÓDIGO PENAL BRASILEIRO. 1 - PLEITO PELA ABSOLVIÇÃO. INVIABILIDADE. ARCABOUÇO PROBATÓRIO HÍGIDO. MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE COMPROVADAS AO LONGO DA PERSECUÇÃO PENAL. PALAVRA DA VÍTIMA E PROVA TESTEMUNHAL. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. D E S C A B I M E N T O . C R I T É R I O D O S I M É T R I C O D E V I D A M E N T E A N A L I S A D O E FUNDAMENTADO PELO MAGISTRADO SENTENCIANTE. MAUS ANTECEDENTES. ÉDITO CONDENATÓRIO ANTERIOR JÁ TRANSITADO EM JULGADO. MANUTENÇÃO DA SENTENÇA OBJURGADA. 2 - CONCLUSÃO: CONHECIMENTO E IMPROVIMENTO."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 545-551).
+Contrarrazões apresentadas (e-STJ fls. 555-558).
+O Ministério Público Federal manifestou-se "pelo desprovimento do presente agravo" (e-STJ fls. 578-581).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados pela parte agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão que inadmitiu o recurso especial, que merece ser mantida por seus próprios fundamentos.
+Em relação ao pleito absolutório, verifico que o acórdão recorrido apresenta fundamentação suficientemente idônea na apreciação do arcabouço fático e das provas colhidas para manter a condenação da parte ré pelo crime de roubo majorado. A desconstituição das premissas fáticas adotadas na origem demandaria ampla incursão no conjunto fático-probatório constante dos autos, o que é sabidamente incabível em sede de recurso especial, ante o óbice da Súmula 7 desta Corte. Nesse sentido:
+"Constatado que a condenação encontra-se devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à absolvição do recorrente, não se coaduna com a estreita via do especial, dada a necessidade de reexame de fatos e provas, a teor do disposto na Súmula 7/STJ."
+(AgRg no REsp n. 1.961.534/TO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 21/6/2022, DJe de 24/6/2022)
+Com efeito , "o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal" (AgRg no AREsp n. 2.409.008/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024).
+Ademais, "a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, de minha relatoria, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
