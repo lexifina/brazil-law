@@ -1,0 +1,28 @@
+DECISÃO
+
+Trata-se  de  habeas  corpus  substitutivo  de  recurso  próprio,  com pedido de liminar,  impetrado  em  favor  de  MARCOS DA SILVA OLIVEIRA  contra  acórdão  do  Tribunal  de  Justiça  do Estado do Rio Grande do Sul (HC 5188102-71.2024.8.21.7000).
+Consta dos autos que o paciente é acusado dos delitos previstos no art. 121, § 2º, I e IV, c/c art. 29, caput, e art. 288, § único, na forma do art. 69, caput, todos do Código Penal.
+Nesta  Corte,  a  defesa  sustenta  falta de justa causa para a ação penal, uma vez que o paciente nunca foi mencionado na investigação até a juntada de um relatório de extração de dados. Alega que o telefone, onde supostamente estavam as mensagens incriminadoras, foi apreendido em uma investigação na qual o acusado não estava envolvido (e-STJ, fl. 2-39).
+Alega que há evidente quebra da cadeia de custódia, uma vez que lhe foi negado o acesso à fonte da prova, bem como aos meios de prova (e-STJ, fl. 2, 28-38). Destaca a necessidade de uma análise técnica aprofundada das evidências digitais, apontando defeitos na produção probatória e a fragilidade dos elementos de convicção da acusação.
+Requer, liminarmente, o sobrestamento da ação penal nº. 5057307- 95.2019.8.21.0001, e, no mérito, a concessão da ordem de habeas corpus para declarar, nos termos do artigo 157 do Código de Processo Penal, a ilicitude dos elementos informativos e eventuais provas produzidas em desfavor do paciente.
+É  o  relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+No caso, os autos não foram instruídos com cópia do acórdão impugnado na íntegra, peça imprescindível para análise do habeas corpus, o que inviabiliza o conhecimento da impetração.
+Saliente-se que a juntada apenas do relatório e do voto do relator (e-STJ, fls. 44-48) não supre a referida lacuna, sendo necessário também colacionar aos autos o extrato de julgamento pelo órgão colegiado.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. DECISÃO IMPUGNADA. INVIABILIDADE DE EXAME. DECISÃO LIMINAR. SÚMULA 691 STF. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO. 1. A ausência nos autos de habeas corpus do acórdão ou da decisão combatida torna inviável o exame da controvérsia. Precedentes. 2. A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022). 3. Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular. 4. Agravo regimental não provido. (AgRg no HC n. 880.491/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. NULIDADE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente o inteiro teor do acórdão hostilizado, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Ademais, "é inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 936.782/AC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADA. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À DEFESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência dessa Corte, "a prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental." (AgRg no REsp 1.322.181/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+2. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+3. In casu, não foi juntado, aos autos, o inteiro teor do acórdão proferido em sede de apelação, o qual é imprescindível para a análise da impetração, não foram juntadas aos presentes autos.
+4 . Agravo regimental não provido.
+(AgRg no HC n. 774.358/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
