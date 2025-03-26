@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se  de  habeas  corpus,  sem  pedido  de  liminar,  impetrado  em  favor  de  WELLISON MAXIMO DE MEDEIROS,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  SANTA CATARINA  no  Agravo  em  Execução  n.  8000519-22.2024.8.24.0075.
+Consta  dos  autos  que  o  paciente  teve deferido pelo Juízo de Execução o  reconhecimento  de  remição  da  pena  em  razão  de  aprovação  parcial  no  Exame  Nacional  do  Ensino  Médio  -  ENEM/2023,  ante  sua  aprovação  em 4 (quatro) das  05  (cinco)  áreas  do  conhecimento  contempladas pelo exame.
+Interposto  Agravo  em  Execução  pelo Ministério Público,  o  Tribunal  de  origem  deu  provimento  ao  recurso, sob o fundamento de que, já tendo sido o apenado beneficiado com a remição pela aprovação no exame do ENEM/2022, seria descabida nova remição por estudo já reconhecidamente realizado em momento anterior.
+Neste  writ,  a  impetrante  aponta  a  ocorrência  de  constrangimento  ilegal,  decorrente  do  indeferimento  da  remição  em  razão  da  aprovação  parcial  no  referido  exame.
+A impetrante sustenta não haver previsão legal que impeça, para fins de remição, que o reeducando preste novamente exame no qual foi aprovado anteriormente.
+Alega que o paciente obteve aprovação em 4 (quatro) das 5 (cinco) áreas de conhecimento do ENEM, fazendo jus à remição relativa à aprovação no exame.
+Requer, liminarmente e no mérito, a cassação do ato coator, deferindo-se a remição pelo estudo.
+Liminar indeferida e requisitadas  informações  (fls.  24/25).
+Informações  acostadas  (fls.  32/34 e 46/48).
+Manifestação  do  Ministério  Público  Federal,  pela denegação da ordem  (fls.  50/51).
+Vieram  os  autos  conclusos  (fl.  53).
+É  o  relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020,  e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O Juízo de Execução, ao prestar informações a esta Corte Superior, assim comunicou (fl. 46):
+Em 28/10/2024 este juízo concedeu a remição de 80 dias de pena pela aprovação em 04 áreas de conhecimento na prova do ENEM 2023 (seq. 167.1). O Ministério Público foi contrário ao pleito porque o detento já havia obtido remição de 100 dias de pena pela provação integral no exame do ENEM 2022.
+Irresignado, interpôs agravo em execução que foi provido pela 7ª Câmara Criminal do Tribunal de Justiça Gaúcho - agravo nº 8001052-12.2024.8.21.0027/RS -, sob o fundamento de que "já tendo o apenado sido beneficiado anteriormente com a remição de pena pelo estudo em razão da aprovação no ENEM 2022, observados os critérios de cálculo previstos na Recomendação n.º 44/2013 do CNJ, descabida nova remição por nova certificação, ainda que parcial, da mesma etapa de ensino ( ensino médio - ENEM 2023) e áreas de conhecimento, eis que revela, somente, o reconhecimento do conhecimento por estudo já realizado anteriormente e já objeto de remição",
+Do acórdão atacado, cumpre colacionar o seguinte trecho, extraído do respectivo voto condutor  (fls.  15/16):
+(..) na espécie, já tendo o apenado sido beneficiado anteriormente com a remição de pena pelo estudo em razão da aprovação no ENEM 2022, observados os critérios de cálculo previstos na Recomendação n.º44/2013 do CNJ, descabida nova remição por nova certificação, ainda que parcial, da mesma etapa de ensino (ensino médio - ENEM 2023) e áreas de conhecimento, eis que revela, somente, o reconhecimento do conhecimento por estudo já realizado anteriormente e já objeto de remição.
+A lógica da remição pelo estudo é, justamente, estimular a prática e a continuidade do estudo pelo apenado para a aquisição de novos conhecimentos.
+Assim, não demonstrada a realização de novos estudos, inviável a remição da pena.
+A decisão do Tribunal a quo está em consonância com o entendimento desta Corte Superior, pois, caso reconhecida a remição nos termos pretendidos pelo impetrante, ocorreria indevida cumulação dos dias já remidos por aprovação em edição anterior do ENEM, consequentemente, não se mostra admissível, por se tratar de duplicidade de benefícios pelo mesmo fato gerador, sob pena de bis in idem.
+Ademais, a jurisprudência desta Corte é no sentido de que
+o objetivo da remição é de recompensar o preso pelo esforço que demonstra em crescer intelectualmente por galgar os diversos níveis de educação, não simplesmente reduzir a pena. A realização do mesmo exame não demonstra evolução, mas a mera reiteração da realização de uma prova para abatimento de pena, o que, obviamente, constitui concessão em duplicidade do benefício pelo mesmo fato, não restando configurado qualquer acréscimo intelectual. (AgRg no HC nº 592.511/SC, Quinta Turma, Rel. Min. Félix Fischer, julgado em 8/9/2020).
+Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. REMIÇÃO APROVAÇÃO ENEM. APROVAÇÃO ANTERIOR NO ENCCEJA. BIS IN IDEM. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É " p acífica a jurisprudência desta Corte quanto à impossibilidade de conceder o benefício da remição da pena em duplicidade (AgRg no HC n. 734.881/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022).
+2. No caso, o acórdão recorrido, justificadamente, negou provimento à insurgência defensiva, uma vez que "na hipótese em apreço, extrai-se da decisão vergastada que o Togado a quo deixou de conceder a remição pela participação no Exame Nacional do Ensino Médio - ENEM 2023 (evento 1.2), porquanto o reeducando já foi agraciado com a remição em razão da aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA preteritamente".
+3. Agravo regimental não provido.
+(AgRg no HC n. 960.607/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DE PENA. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS. APROVAÇÃO PARCIAL NO ENEM E NO ENCCEJA. MESMAS ÁREAS DO CONHECIMENTO. DUPLICADE DE BENEFÍCIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, uma vez que a remição de pena, em razão de aprovação do paciente no exame ENCCEJA, configuraria bis in idem de remição na mesma execução penal, tendo em vista que já fora agraciado em razão de sua aprovação, em 2015, no Exame Nacional do Ensino Médio (ENEM) (AgRg no HC n. 627.958/SC, relator Ministro Jesuíno Rissato (Desembargador Conv ocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021). Ainda que se trate de exames distintos, as provas se referem à certificação de conclusão pelo mesmo nível (médio) educacional, inviabilizando a concessão do benefício em apreço pelo mesmo fato gerador, pois configurada a sua duplicidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 842.165/SP, Rel. Min. Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se  e  intimem-se.
+
+EMENTA
