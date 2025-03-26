@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por RODRIGO LEONEL DA SILVA contra a decisão do Tribunal de Justiça de Alagoas que inadmitiu recurso especial dirigido contra a Apelação Criminal n. 700146-06.2016.8.02.0067.
+O Ministério Público Federal apresentou parecer opinando pelo parcial provimento do agravo em recurso especial, apenas para reduzir a fração de aumento referente à pena-base (fls. 463/464).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão.
+A decisão agravada negou seguimento ao recurso especial com base na Súmula 7 do Superior Tribunal de Justiça, afirmando que a análise dos pedidos formulados no recurso demanda reexame de prova.
+O agravante interpôs o recurso especial fundamentado na alínea a do inciso III do art. 105 da Constituição Federal, alegando violação do art. 59 do Código Penal e do art. 42 da Lei n. 11.343/2006. Sustenta a ausência do óbice da Súmula 7 do Superior Tribunal de Justiça, considerando que não pretende rediscutir fatos. Argumenta que pretende a análise dos fundamentos utilizados pelo Tribunal a quo (ou da ausência deles) para justificar a elevação da pena-base acima do mínimo legal, atividade que se cumprirá com a simples leitura do acórdão impugnado por meio do recurso especial (fl. 434).
+Considerando a pretensão do recurso especial de afastar a valoração negativa da quantidade de droga apreendida, com a consequente redução proporcional da pena-base ou, subsidiariamente, a aplicação do critério de 1/6 da pena mínima, verifico que ausente o óbice da Súmula 7/STJ , não demandando o recurso reincursão no acervo probatório.
+O Tribunal de origem assim analisou os critérios de aplicação das penas ao agravante Rodrigo (fls. 383/384 - grifo nosso):
+22. Quanto ao recorrente Rodrigo Leonel da Silva, o Juiz negativou os vetores dos antecedentes e circunstâncias do crime. O primeiro em razão de condenação anterior transitada em julgado e o segundo em razão da quantidade de drogas apreendidas com este réu (31 trouxinhas de maconha). Desta forma, percebe-se que não merece reparos na pena-base, que foi exasperada com fundamentação idônea.
+23. Seguindo, na segunda fase da dosimetria, os apelantes pleiteiam o reconhecimento da confissão na forma qualificada.
+24. Ocorre que, este pleito também não merece prosperar. Isto porque, os apelantes não confessaram a prática delitiva, nem tampouco a propriedade das drogas, eles tão somente afirmaram ser usuário de entorpecentes.
+25. Neste ponto, é entendimento pacífico no Superior Tribunal de Justiça que, para a incidência da atenuante da confissão no crime de tráfico, necessário se faz o reconhecimento da traficância pelo acusado, não sendo suficiente assumir a propriedade da droga, destinando-a ao uso próprio.
+ ..
+27. Dito isto, não há que se reconhecer a incidência da confissão qualificada, quando, ainda que os apelantes tivessem confessado a propriedade da droga (que não foi o caso) para o consumo próprio, ainda assim não iria incidir a atenuante prevista no art. 65, III, "d", do CP.
+Merece acolhimento o recurso, ante a ausência de fundamentação idônea para o aumento da pena-base em um ano exclusivamente com base na natureza e quantidade de droga apreendida. Não pode ser tida por elevada a quantidade de 30 g de maconha apreendida com o agravante, a ensejar a incidência de circunstância judicial negativa na primeira fase da fixação da pena. Nesse sentido: AgRg no HC n. 669.286/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 30/6/2021; REsp n. 2.136.624/PA, Ministra Daniela Teixeira, Quinta Turma, DJe 25/2/2025; e HC n. 359.914/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 2/9/2016.
+Ainda, conforme jurisprudência do Superior Tribunal de Justiça, razoável a aplicação no caso da fração de 1/6 de aumento, a partir da pena mínima em abstrato para cada circunstância judicial desfavorável, ou a fração de 1/8 entre a pena mínima e a máxima cominada ao delito. Ilustrativamente AgRg no AREsp n. 2.581.310/DF, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/10/2024; e HC n. 827.542/MS, Ministra Daniela Teixeira, Quinta Turma, julgado em 22/10/2024, DJe 29/10/2024.
+Fixadas essas premissas e obedecidas as demais diretrizes estabelecidas pela instância de origem, passo a redimensionar a pena do agravante.
+Excluída a natureza e quantidade da droga apreendida como circunstância negativa, mas persistindo a circunstância negativa dos maus antecedentes, resta a pena mínima em 6 anos de reclusão e 600 dias-multa, ficando definitiva ante a inexistência de agravantes ou atenuantes e causas de aumento ou diminuição da pena, conforme a sentença, mantida em segundo grau.
+Ante condenação definitiva considerada como mau antecedente, não faz jus o agravante ao redutor da pena decorrente do tráfico privilegiado.
+Resta mantido o regime de cumprimento da pena fixado: regime fechado, não sendo objeto do recurso.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, excluindo a quantidade e natureza da droga como fator negativo a ensejar aumento da pena na primeira fase, redimensionando a pena definitiva em 6 anos de reclusão e 600 dias-multa .
+Comunique-se.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SÚMULA 7/STJ. AUSÊNCIA DO ÓBICE. APLICAÇÃO DE AUMENTO DA PENA-BASE COM FUNDAMENTO INIDÔNEO, UMA VEZ QUE NÃO APREENDIDA SIGNIFICATIVA QUANTIDADE DE DROGA - 30 G DE MACONHA. ALTERAÇÃO DA PENA APLICADA.
+Agravo conhecido para dar provimento ao recurso especial.
