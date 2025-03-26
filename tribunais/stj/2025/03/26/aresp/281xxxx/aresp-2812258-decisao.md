@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROBSON SILVA SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO que inadmitiu o recurso especial porque "para rever a conclusão adotada no acórdão recorrido sobre a existência de elementos probatórios mínimos a lastrear a acusação, imprescindível o reexame do quadro fático-probatório dos autos" (fl. 545).
+Nas razões recursais, o agravante afirma que a Súmula n. 7, STJ, deve ser afastada porque a pretensão não visa a discutir fatos e provas, e sim que a denúncia seria inepta por não "realizar a exposição escorreita do suposto fato criminoso, com todas as suas circunstâncias, consoante o que determina o artigo 41, do Código de Processo Penal"
+O Ministério Público do Estado de Mato Grosso pugna pelo não conhecimento do agravo, nos termos da Súmula n. 182, STJ, ou a manutenção da inadmissão do recurso especial, também com base na Súmula n. 83, STJ (fls. 565-569).
+O Ministério Público Federal opinou pelo não conhecimento ou desprovimento do agravo (fls. 588-590).
+É o relatório. DECIDO.
+Compulsando os autos, verifico que o Tribunal de origem deu provimento ao recurso em sentido estrito do Ministério Público para receber a denúncia, sob o seguinte fundamento (fl. 494):
+"No caso, observa-se que a denúncia preencheu os requisitos legais do artigo 41do CP, descrevendo que a ré Maria Luiza, no dia de visita ao seu marido o réu Robson na unidade prisional, foi evidenciada com quantidade de drogas em suas partes íntimas, caracterizando assim a existência do delito e indícios de autoria que pesam sobre os dois acusados, já que a denunciada possuía carteira de visitante para o acusado Robson. Narra ainda a denúncia, que a droga seria destinada ao acusado Robson.
+Apesar da Magistrada, arguir lastro probatório mínimo para deflagração da ação penal em relação ao réu Robson, por outro lado não restaram demostradas, no caso, as hipóteses de rejeição, previstas no art. 395 do CP.
+Destarte esclarecer que o recebimento da denúncia não exige a exposição detalhada dos fatos, é necessário o contexto da peça acusatória relatando o fato criminoso, os elementos e indícios de envolvimento do acusado, data do crime, permitindo assim o exercício da ampla defesa e contraditório."
+O recorrente, ao seu turno, afirma que "é certo que todas essas circunstâncias amealhadas e reportadas com minudência pelo Tribunal local não foram reunidas na denúncia" (fls. 525-526), sendo que a aferição dessa assertiva só seria possível mediante o aprofundamento sobre o acervo fático-probatório. Não se trata, portanto, de matéria exclusivamente jurídica, conforme ale ga o agravante.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
