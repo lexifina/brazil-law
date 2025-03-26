@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ANTONIO MARCOS DE SOUSA PASSOS à decisão de fls. 721/722, que não conheceu do recurso.
+Sustenta a parte embargante:
+Para emprestar fundamentação ao agravo em recurso especial criminal, interposto a partir da pág. 688 dos autos da Ação Penal n. 0008255- 24.2012.8.06.0182, dito como não conhecido pela presidência desta ínclita corte, como de fato fora dito nos termos do édito e-STJ Fl. 721, decisum da lavra do insigne Ministro Presidente desse Tribunal da Cidadania, datada de 28 de fevereiro, observo que emprestei o devido esmero em apontar quais seriam os dispositivos de lei federal observados como violados, a saber, o art. 20, § 1º, c/c art. 25, ambos do Código Penal, como adiante colaciono print extraído da pág. 701 do processo de conhecimento:
+ ..
+Mencionei tanto a respeito do compêndio criminal a que se encontrava a malversação de lei federal como um todo, e ainda indiquei, valendo-me do vocábulo topologicamente, isto é, indicando a precisão quase que "geográfica" do dispositivo jurídico violado, assinalando o art. 20, § 1º, c/c art. 25, ambos do Código Penal, tudo isto dando-se inserido em um tópico a que tive por bem denominar "Das razões do presente agravo em recurso especial". Bem por isso, não alcanço a plenitude da exegese jurídica do decisum embargado, considerando que este ventila de uma "indicação genérica de violação de lei federal, sem particularizar quais dispositivos teriam sido contrariados", o que, por certo, não encontra abrigo no caso concreto dos autos, eis que há indicação negritada, assinalando especificamente qual o dispositivo jurídico oriundo de lei penal substantiva objeto da controvérsia recursal legitimamente instaurada na origem pela defesa do recorrente (fls. 729/730).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os Embargos de Declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide a Súmula n. 284/STF, porquanto a parte embargante, em sua petição recursal, indicou genericamente violação de lei federal sem particularizar quais dispositivos teriam sido contrariados ou objeto de divergência jurisprudencial.
+Em outras palavras, para que haja a admissão do Recurso Especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera indicação genérica de lei federal, sem particularizar seus dispositivos.
+Neste ponto, impende salientar que a parte ora embargante, na petição do Recurso Especial, menciona genericamente violação de lei federal, sem, contudo, apontar especificamente qual artigo considerava violado.
+Consigne, ainda, que não prosperam os argumentos do embargante quanto à indicação dos artigos de lei violados, porquanto foram mencionados somente na petição de Agravo em Recurso Especial. Neste ponto, impende salientar que se mostra inviável a indicação posterior do dispositivo violado pois os requisitos do Recurso Especial necessariamente devem ser preenchidos em concomitância com a sua interposição.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes Embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
