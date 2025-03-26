@@ -1,0 +1,147 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0715794-61.2022.8.07.0007APELANTE(S)PALHA INDUSTRIA E COMERCIO DE ALIMENTOS EIRELIAPELADO(S)MARIA APARECIDA CUNHA SILVA,P&A DISTRIBUIDORA DE PRODUTOS ALIMENTICIOS EIRELI e PATRICIA GOMES DA SILVARelatorDesembargador ALVARO CIARLINI
+ Acórdão Nº1984550
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. ERRO MATERIAL. OMISSÃO. DISPARIDADE ENTRE A SENTENÇA E O RELATÓRIO DO ACÓRDÃO. NECESSIDADE DE CORREÇÃO. OCORRÊNCIA. EMBARGOS PARCIALMENTE PROVIDOS.
+
+1. De acordo com o disposto no artigo 1022 do Código de Processo Civil os embargos de declaração têm por objetivo o esclarecimento de obscuridade, a eliminação de contradição, a supressão de omissão e a correção de erro material.
+
+2. Verifica-se a ocorrência de erro material na ementa do acórdão ora embargado, o que deve ser agora corrigido.
+
+3. Quanto ao mais, o ordenamento jurídico pátrio não impõe ao Poder Judiciário manifestar-se a respeito de todas as alegações articuladas pelas partes, mas apenas em relação às questões que possam infirmar as conclusões adotadas na instância de origem.
+
+4. Embargos de declaração conhecidos e parcialmente providos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALVARO CIARLINI - Relator, RENATO RODOVALHO SCUSSEL - 1º Vogal e FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal, sob a Presidência do Senhor Desembargador HECTOR VALVERDE SANTANNA, em proferir a seguinte decisão: CONHECIDO. PARCIALMENTE PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 02 de Abril de 2025
+
+Desembargador ALVARO CIARLINIRelator
+
+RELATÓRIO
+
+Trata-se de embargos de declaração interpostos pela entidade empresária Palha Indústria e Comércio de Alimentos – Eireli contra o acórdão (Id. 67410256) que deu parcial provimento ao recurso de apelação manejado pela ora embargada.
+
+Em suas razões recursais (Id. 67977049) a embargante afirma que o acórdão recorrido incorreu em omissão ao deixar analisar todos os argumentos articulados pelos recorrentes, notadamente em relação à legitimidade da inscrição da hipoteca em relação imóvel em questão, e ao ônus de sucumbência.
+
+Alega, ainda, que o acórdão incorreu em erro material, em razão da divergência entre o teor da sentença e do relatório do acórdão embargado.
+
+Por essa razão requer o provimento dos embargos de declaração para que seja eliminada a omissão apontada.
+
+Os embargados ofereceram contrarrazões, oportunidade em que pugnaram pelo desprovimento do recurso (Id. 68619179).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALVARO CIARLINI - Relator
+Presentes os requisitos de admissibilidade, conheço os embargos de declaração.
+
+De acordo com a regra prevista no art. 1022 do Código de Processo Civil justifica-se a interposição dos embargos de declaração diante da existência de obscuridade, contradição, omissão ou erro material no acórdão.
+
+A embargante sustenta a ocorrência de omissão e erro material no acórdão recorrido.
+
+A omissão consiste em uma das justificativas para a admissibilidade dos embargos de declaração, e não há grandes questionamentos a esse respeito, pois o próprio art. 1022, inc. II, do CPC, a define como o “ponto ou questão sobre o qual devia se pronunciar o Juízo singular de ofício ou a requerimento”.
+
+O erro material, por sua vez, consiste essencialmente na incorreção do modo como o conteúdo do ato decisório é expresso e pode ser reconhecido de ofício. Em geral, o exemplo mais comum é o erro de grafia cometido na redação de algum termo empregado no ato decisório.
+
+A esse respeito atente-se à lição doutrinária de Araken de Assis[1]:
+
+“O erro material, ou a inexatidão material, como o designa o art. 494, I, distingue-se dos demais defeitos típicos do ato decisório - omissão, obscuridade, contradição e dúvida - porque não se cuida de um vício lógico do provimento, mas engano ou lapso na sua expressão através de palavras ou de números. Em outros termos, verifica-se discordância entre a ideia e a fórmula”.
+
+Verifica-se, no presente caso, que a sentença recorrida (Id. 62725383) proferida pelo Juízo da 3ª Vara Cível da Circunscrição Judiciária de Taguatinga, ao revogar a tutela antecipada anteriormente deferida, julgou o pedido originário improcedente e parcialmente procedente o pedido reconvencional.
+
+Ocorre que o relatório do acórdão ora embargado assim foi redigido:
+
+“Trata-se de recurso de apelação interposto por Maria Aparecida Cunha Silva contra a sentença (Id. 62725383) proferida pelo Juízo da 3ª Vara Cível da Circunscrição Judiciária de Taguatinga que, ao revogar a tutela antecipada anteriormente deferida, julgou o pedido originário procedente e parcialmente procedente o pedido reconvencional.”
+
+Com efeito, é possível observar a ocorrência do erro material apontada pela embargante devido à divergência entre o teor da sentença e do relatório do acórdão embargado, devendo o referido equívoco ser corrigido.
+
+Em relação à alegada omissão, não há qualquer justificativa jurídica para o pretendido acolhimento dos embargos interpostos.
+
+Com efeito, os argumentos expostos pelos recorrentes revelam que a insurgência ora manifestada não se ajusta às hipóteses previstas no art. 1022 do CPC. Trata-se, em verdade, de mero inconformismo com o resultado do julgamento, o que pode ser veiculado por meio das vias recursais adequadas.
+
+É evidente que o recurso de embargos de declaração é o instrumento processual cuja fundamentação tem natureza “vinculada” e cujo efeito devolutivo a ele concernente evidencia natureza “restrita”, tendo em vista que o seu conteúdo deve ser limitado às hipóteses previstas no art. 1022 do Código de Processo Civil.
+
+Convém destacar que a mera divergência entre as razões de decidir adotadas na fundamentação da decisão e as alegações articuladas pelos embargantes, como é elementar, não se ajusta às hipóteses de omissão, contradição ou obscuridade.
+
+Deve-se registrar, assim, que de acordo com as regras previstas no art. 489, § 1°, do Código de Processo Civil e no art. 93, inc. IX, da Constituição Federal, para que seja considerada suficiente a fundamentação da decisão judicial recorrida deve ser constatada a devida apreciação das questões suscitadas pelas partes, com a exposição do encadeamento lógico dos argumentos decisórios, ainda que de modo sucinto, correspondente às peculiaridades do caso concreto, diante do necessário relato a respeito das razões de fato e de direito que subsidiaram a respectiva decisão. Essas diretrizes foram devidamente observadas no voto proferido.
+
+É preciso ressaltar também que o ordenamento jurídico pátrio não impõe ao Poder Judiciário manifestar-se a respeito de todas as alegações oferecidas pelas partes, mas singelamente em relação às questões capazes de infirmar as conclusões adotadas pelo Juízo singular.
+
+A propósito, examinem-se as seguintes ementas promanadas deste Egrégio Tribunal de Justiça:
+
+“EMBARGOS DE DECLARAÇÃO. APELAÇÃO. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO. ACLARATÓRIO NÃO PROVIDO.
+
+1.Não existe qualquer omissão ou contradição, como quer argumentar o Embargante. O que pretende é rediscutir o teor da decisão proferida, a fim de que a prestação jurisdicional se coadune às suas pretensões, o que é incabível em sede de embargos de declaração.
+
+2.Ausentes os requisitos previstos no Art. 1.022 do CPC, mostra-se impositivo a rejeição dos Embargos de Declaração.
+
+3.Ainda que as decisões judiciais devam ser necessariamente fundamentadas, é certo que o magistrado não está obrigado a responder a todos os questionamentos formulados pelas partes, salvo aqueles capazes de modificar a decisão recorrida, nos termos do art. 489, § 1º, inc. IV, do CPC.
+
+4. Embargos de declaração não provido.”
+
+(Acórdão nº 1430351, 07011553920218070018, Relator: Roberto Freitas Filho, 3ª Turma Cível, data de julgamento: 9/6/2022). (Ressalvam-se os grifos)
+
+“PROCESSO CIVIL. MONITÓRIA. PRELIMINAR. NULIDADE SENTENÇA. REJEITADA. DUPLICATA. SEM ACEITE. NOTAS FISCAIS. RESPECTIVOS PROTESTOS. DIREITO CREDITÓRIO. COMPROVAÇÃO. FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO. ÔNUS DA PROVA.
+
+1. Nos termos do artigo 489, § 1°, IV, do Código de Processo Civil, o julgador não está obrigado a responder toda e qualquer alegação das partes nem a rebater todos os seus argumentos, quando o fundamento é incapaz de infirmar a conclusão adotada. Não há violação ao artigo se os termos constantes da sentença são suficientes para afastar a tese de nulidade por carência de fundamentação.
+
+2. A ação monitória pode ser acompanhada de documento escrito que, a despeito de não conter a eficácia inerente aos títulos executivos, deve se mostrar hábil a comprovar indícios de existência de relação obrigacional que possa vincular o devedor, de modo a possibilitar ao magistrado inferir a plausibilidade do direito vindicado. Inteligênciado artigo 700.
+
+3. A duplicata, mesmo sem aceite, configura título hábil para instruir ação monitória se acompanhada das notas fiscais que descrevam as mercadorias e respectivos protestos.
+
+4. Incumbe ao réu o ônus de comprovar fatos extintivos, impeditivos ou modificativos do direito do autor, nos termos do artigo 373, inc. II, do Código de Processo Civil.
+
+5.Preliminar nulidade da sentença rejeitada.
+
+6. Recurso conhecido e desprovido.”
+
+(Acórdão nº 1425251, 07257663820208070003, Relator: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 19/5/2022) (Ressalvam-se os grifos)
+
+No caso dos autos, portanto, o acórdão embargado está de acordo com o modelo imposto pela Constituição Federal e pelo Código de Processo Civil, pois foram devidamente analisadas as teses suscitadas, os requerimentos formulados e as provas coligidas aos autos.
+
+Aliás, a respeito do prequestionamento, convém ressaltar que a regra prevista no art. 1025 do Código de Processo Civil preceitua que devem ser considerados incluídos no acórdão os argumentos articulados pelo embargante ainda que os embargos de declaração sejam inadmitidos ou rejeitados.
+
+É prescindível, também por essa razão, o pronunciamento a respeito de todos os dispositivos legais mencionados nas razões recursais articuladas pela embargante, com a finalidade de obter o prequestionamento almejado.
+
+A esse respeito atente-se à seguinte ementa promanada do Colendo Superior Tribunal de Justiça:
+
+“RECURSO ESPECIAL. PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. CONTRATO ADMINISTRATIVO. REAJUSTE. REEXAME DO CONJUNTO
+
+FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. INOVAÇÃO RECURSAL. DIVERGÊNCIA NÃO DEMONSTRADA. ARTS. 421, 422 E 884 DO CC/2002. AUSÊNCIA DE PREQUESTIONAMENTO.
+
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+
+2. No tocante à alegada violação dos arts. 421, 422 e 844 do CC/2002, a irresignação não merece prosperar, uma vez que o Tribunal de origem não emitiu juízo de valor sobre os dispositivos legais cuja ofensa se aduz. Incide, na espécie, a Súmula 211/STJ.
+
+3. Não há contradição em reconhecer a ausência de prequestionamento e a inocorrência de violação ao art. 535 do CPC, porquanto, como acima ressaltado, o órgão julgador deve enfrentar a demanda, analisando as questões imprescindíveis à sua resolução, mas não é obrigado a rebater todos os argumentos trazidos pelas partes para defesa de suas teses.
+
+4. Com relação à citada afronta ao art. 20, § 4º, do CPC/1973, a tese suscitada pelo recorrente foi deduzida somente no Recurso Especial, caracterizando-se, por isso, intolerável inovação recursal.
+
+5. É inviável analisar as teses defendidas no Recurso Especial, de que a recorrente que teria direito ao reajuste e de que o pedido alternativo decorreria da inicial, pois não é possível rever o conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido, nem interpretar cláusulas contratuais. Aplicam-se os óbices da Súmulas 5 e 7 do Superior Tribunal de Justiça.
+
+6. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.”
+
+(REsp 1667630-SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 13/6/2017) (Ressalvam-se os grifos)
+
+Feitas essas considerações, dou parcial provimento aos presentes embargos de declaração apenas para, ao corrigir o erro material apontado, alterar parcialmente a redação contida no enunciado do relatório do acórdão embargado (Id. 67410256), que passa a ter o seguinte teor:
+
+“Trata-se de recurso de apelação interposto por Maria Aparecida Cunha Silva contra a sentença (Id. 62725383) proferida pelo Juízo da 3ª Vara Cível da Circunscrição Judiciária de Taguatinga que, ao revogar a tutela antecipada anteriormente deferida, julgou o pedido originário improcedente e parcialmente procedente o pedido reconvencional.”
+
+É como voto.
+
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - 1º Vogal Com o relatorO Senhor Desembargador FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PARCIALMENTE PROVIDO. UNÂNIME.
