@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CARLOS ALVERTO SOARES DA SILVA JUNIOR contra decisão do Tribunal de Justiça do Distrito Federal e Territórios, que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alínea "c", da Constituição Federal, contra acórdão proferido no julgamento de apelação criminal n. 0727495-94.2023.8.07.0003.
+O agravante foi condenado à pena de 8 meses e 10 dias de detenção, em regime inicial semiaberto, pela prática do crime descrito no art. 331, caput, do Código Penal.
+O recurso de apelação da defesa foi desprovido, nos termos do acórdão assim ementado (fls. 334-340):
+"PENAL E PROCESSUAL PENAL. APELAÇÃO. DESACATO AUTORIA E MATERIALIDADE. CONJUNTO PROBATÓRIO SUFICIENTE. DEPOIMENTO DOS POLICIAIS. DOSIMETRIA. PRIMEIRA FASE. CRITÉRIO DE EXASPERAÇÃO DA PENA-BASE. FRAÇÃO DE 1/8 (UM OITAVO). RECURSO NÃO PROVIDO. 1. Os depoimentos dos policiais possuem especial relevância e podem fundamentar o decreto condenatório, pois são agentes públicos que, no exercício das suas funções, praticam atos administrativos que gozam do atributo da presunção de legitimidade, notadamente quando corroborados por outras provas e sem indicação de qualquer atitude dos agentes com o propósito de prejudicar os réus. 2 2. A alegação de contradição nos depoimentos dos policiais sobre aspectos secundários não é apta a infirmar a conclusão acerca da autoria e materialidade do delito, obtida a partir da análise do manancial probatório produzido. 3. Considerando a existência de 08 (oito) circunstâncias judiciais no artigo 59 do Código Penal, a jurisprudência do TJDFT adota, no mais das vezes, a fração de 1/8 (um oitavo) do intervalo entre as penas mínima e máxima abstratamente previstas, como patamar de aumento de cada circunstância valorada negativamente na primeira fase da dosimetria, o que bem atende à proporcionalidade. 4. Recurso conhecido e não provido."
+No recurso especial, a defesa sustentou dissídio jurisprudencial referente à fração de aumento da pena-base.
+Requereu, ao final, o provimento do recurso, para aplicar a exasperação da pena-base na fração de 1/6 para cada circunstância judicial desfavorável, com a readequação do regime prisional.
+Apresentadas as contrarrazões (fls. 403-406), o recurso foi inadmitido por incidência da Súmula 83/STJ (fls. 411-413).
+No agravo em recurso especial, a defesa reiterou os argumentos constantes no recurso especial e impugnou o referido óbice (fls. 425-436).
+Contraminuta do Ministério Público local (fl. 444).
+O Ministério Público Federal, às fls. 510-512, opinou pelo conhecimento do agravo para negar seguimento ao recurso especial.
+É o relatório.
+Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso, considerando o enunciado da Súmula 83/STJ. Entretanto, o agravante não impugnou adequadamente o mencionado óbice.
+A impugnação à aplicação da Súmula n. 83/STJ exige a demonstração de que os precedentes citados na decisão agravada são inaplicáveis ao caso concreto, além da apresentação de precedentes contemporâneos ou supervenientes que evidenciem entendimento diverso no STJ. No entanto, isso não ocorreu, de modo que o acórdão do Tribunal de origem está alinhado à jurisprudência atual do STJ, que estabelece: "Não há fração fixa obrigatória para o aumento da pena-base por questões judiciais negativas. A majoração em 1/2 foi devidamente fundamentada pelas circunstâncias do caso concreto, não se configurando flagrante desproporcionalidade ou ilegalidade." (AgRg no REsp n. 2.172.575/SP, rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 26/2/2025, DJEN de 7/3/2025).
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
