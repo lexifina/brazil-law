@@ -1,0 +1,14 @@
+DECISÃO
+WESLEY MAYQUEM DO NASCIMENTO alega ser vítima de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de Goiás, que indeferiu a liminar do HC n. 5127825-39.2025.8.09.0000.
+A defesa busca o trancamento do processo-crime em que é imputado ao paciente o crime de difamação, por suposta decadência do direito de queixa.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Infere-se dos autos que o Juízo de primeiro grau designou audiência de instrução e julgamento, na ação penal objeto deste writ, para o dia 25/3/2025, não havendo notícia de que haja analisado a alegada decadência do direito de queixa.
+Impetrado habeas corpus perante o Tribunal estadual, a liminar foi indeferida, oportunidade na qual o Desembargador relator entendeu que "o exame aprofundado da decadência do direito de queixa e de eventual extinção da punibilidade demanda análise mais detalhada, incompatível com a via estreita do pedido liminar" (fl. 189).
+Pela análise dos autos, constato que, de fato, a medida de urgência formulada perante a Corte estadual confunde-se com o próprio mérito do writ, motivo pelo qual deverá ser analisada em momento oportuno pelo órgão colegiado competente, quando serão minuciosamente examinados os fundamentos embasadores dos pedidos.
+Não identifico, portanto, manifesta ilegalidade que permita inaugurar a competência constitucional deste Tribunal Superior. Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada da Corte estadual.
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se e intimem-se.
+EMENTA
