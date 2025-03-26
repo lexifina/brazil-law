@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS PELA ABSOLVIÇÃO DO ACUSADO. IRRESIGNAÇÃO DO ASSISTENTE DE ACUSAÇÃO. PRETENDIDA CONDENAÇÃO. IMPRESCINDIBILIDADE DO REVOLVIMENTO FÁTICO-PROBATÓRIO. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias, após ampla instrução, entenderam pela ausência de elementos que comprovem, indubitavelmente, a autoria e materialidade da apropriação indébita imputada, concluindo pela absolvição. Assim sendo, inviável entender de modo diverso em sede especial, dada a necessidade de reexame de elementos fático-probatórios, providência vedada nos termos da Súmula n. 7/STJ.
+2. Agravo e recurso especial a que se nega provimento.
+RELATÓRIO
+Agrava-se da decisão que não admitiu recurso especial interposto por MARCELO BIESEK, assistente de acusação, fundado na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fls. 294):
+APELAÇÃO CRIMINAL. RECURSO DO ASSISTENTE DE ACUSAÇÃO. CRIMES CONTRA O PATRIMÔNIO. APROPRIAÇÃO INDÉBITA. SENTENÇA ABSOLUTÓRIA. MANUTENÇÃO.
+No processo penal, o ônus da prova sobre o fato atribuído ao réu incumbe exclusivamente à parte acusadora, da qual se exige prova para além de qualquer dúvida razoável, permitindo juízo de certeza. À defesa, em decorrência do princípio do in dubio pro reo, basta suscitar dúvida. No caso, a prova produzida não faz recair sobre o réu, de forma inequívoca, a autoria delitiva. A versão apresentada pelo assistente de acusação encontra-se isolada nos autos, visto que enfraquecida pela palavra do réu e pelo depoimento do informante. O conjunto probatório apenas evidencia a existência de vínculo obrigacional entre as partes, não havendo suficiente comprovação da materialidade e autoria delitiva. A prova produzida não alcança o standard rígido exigido para fins de condenação, situação a atrair a incidência do princípio in dubio pro reo. Sentença absolutória mantida, com fundamento no art. 386, inciso VII, do Código de Processo Penal.
+APELO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 168, § 1º do Código Penal e do art. 386, VII, do Código de Processo Penal. Alega que o réu, "na condição de locatário da oficina do recorrente, teve a posse das ferramentas descritas no contrato de locação. Ocorre que, ao final do contrato, ele não as devolveu, apropriando-se indevidamente de tais bens" (e-STJ fl 307). Sustenta a presença de provas suficientes e hábeis a formar o convencimento pela conclusão condenatória, bem como o equívoco na invocação do princípio in dubio pro reo.
+Requer o provimento do recurso para que seja reformado o acórdão recorrido com a condenação do acusado pelo crime de apropriação indébita.
+Apresentadas contrarrazões (e-STJ fls. 317/325), o recurso não foi admitido com fundamentos nos óbices das Súmulas 7/STJ e 284/STF (e-STJ fls. 328/331).
+O Ministério Público Federal opinou pelo conhecimento do agravo para não se conhecer do recurso especial (e-STJ fls. 377/380).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS PELA ABSOLVIÇÃO DO ACUSADO. IRRESIGNAÇÃO DO ASSISTENTE DE ACUSAÇÃO. PRETENDIDA CONDENAÇÃO. IMPRESCINDIBILIDADE DO REVOLVIMENTO FÁTICO-PROBATÓRIO. PROVIDÊNCIA INCÁBÍVEL EM SEDE ESPECIAL. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. As instâncias ordinárias, após ampla instrução, entenderam pela ausência de elementos que comprovem, indubitavelmente, a autoria e materialidade da apropriação indébita imputada, concluindo pela absolvição. Assim sendo, inviável entender de modo diverso em sede especial, dada a necessidade de reexame de elementos fático-probatórios, providência vedada nos termos da Súmula n. 7/STJ.
+2. Agravo e recurso especial a que se nega provimento.
+VOTO
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+No caso dos autos, o Tribunal de origem, concluiu pela manutenção da sentença absolutória por entender que, após ampla instrução, não emergiram elementos que comprovem, indubitavelmente, a autoria e materialidade da apropriação indébita imputada, concluindo pela absolvição.
+No contexto, entender de modo diverso, para firmar entendimento pela condenação dos acusados, não prescinde do revolvimento de fatos e provas, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+A propósito, vale registrar que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado n. 7 da Súmula desta Corte (AgRg no AREsp n. 1.150.564/SC, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 15/2/2018).
+Além disso, é assente o entendimento de que não se pode conhecer de recurso especial fundado em divergência jurisprudencial quando a parte recorrente não realiza o necessário cotejo analítico entre os acórdãos confrontados, a fim de evidenciar a similitude fática e a adoção de teses divergentes, sendo insuficiente a mera transcrição de ementas dos julgados apontados como paradigmas.
+No caso dos autos, o recorrente não realizou o devido cotejo analítico entre os acórdãos confrontados, limitando-se a transcrever trechos do acórdão recorrido e daquele tipo como paradigma, sem evidenciar a necessária similitude fática, impede o conhecimento do recurso especial pela alínea "c do permissivo constitucional. Incide, no ponto, o óbice da Súmula n. 284/STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+É o meu voto.
