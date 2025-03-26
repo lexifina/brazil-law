@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CLÁUDIO ARANHA SCHELINI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO INTERCORRENTE. EXCEÇÃO DE P R É - EXECUÇÃO DE PRÉ-EXECUTIVIDADE. INÉRCIA DO CREDOR NÃO CONFIGURADA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 921, § 4º, do CPC, no que concerne à desnecessidade de prévia intimação do exequente para dar andamento ao feito como condição para que tenha curso a prescrição intercorrente, trazendo a seguinte argumentação:
+Ficou assentado, então, que a prévia intimação do exequente para promover o andamento do processo definitivamente não é condição para que seja decretada a prescrição intercorrente. A intimação é necessária tão somente a fim de oportunizá-lo o exercício do contraditório no sentido de opor algum fato impeditivo à caracterização da prescrição. A propósito, eis as ementas de outros julgados recentes desta Corte Superior neste mesmo sentido:
+ ..
+Portanto, por qualquer ângulo em que se analise a questão em discussão, se revela flagrante que a conclusão adotada pelo acórdão recorrido ofende frontalmente os ditames do § 4º, do art. 921, do CPC, vigente ao tempo dos fatos, bem como a jurisprudência consolidada deste Tribunal Superior, no sentido de ser completamente descabida a prévia intimação do exequente para dar andamento ao feito, como condição para decretação da prescrição intercorrente (fls. 81-82).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública." (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+No mais, o acórdão recorrido assim decidiu:
+Por oportuno, cumpre mencionar que o exequente/agravado se diligenciou em identificar a existência de processos em que os executados codevedores figuram como autores, tendo logrado êxito na penhora dos direitos por eles postulados no rosto dos autos nºs 0289204-83.2015.8.09.0175 e 0113554- 64.2000.8.09.0137 (mov. 52). Infere-se, ainda, que após a citação do executado/agravante (mov. 70) o exequente manifestou requerendo a penhora on-line de ativos financeiros do devedor (mov. 73).
+Assim, não há se falar em prescrição intercorrente, pois a ação executiva não ficou paralisada em razão de inércia ou desídia da parte exequente (fl. 66).
+Aplicável, portanto, a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
