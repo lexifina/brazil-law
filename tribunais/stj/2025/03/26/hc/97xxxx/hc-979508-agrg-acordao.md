@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito penal. Agravo regimental. Regime inicial de cumprimento de pena. Gravidade concreta do delito. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus, mantendo o regime prisional fechado para o início do cumprimento da pena.
+2. A defesa pleiteia a fixação do regime semiaberto, argumentando que, apesar da primariedade do réu e da inexistência de circunstâncias judiciais desfavoráveis, o regime inicial foi fixado no fechado, em contrariedade ao artigo 33, § 2º, "b", do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a fixação do regime inicial fechado, fundamentada na gravidade concreta do delito, é válida, mesmo diante da primariedade do réu e da ausência de circunstâncias judiciais desfavoráveis.
+III. Razões de decidir
+4. A jurisprudência admite a fixação de regime mais gravoso quando demonstrada a gravidade concreta do delito, mesmo que a pena-base tenha sido fixada no mínimo legal.
+5. A decisão está devidamente fundamentada em elementos concretos, como o modus operandi do crime, que justifica a imposição do regime fechado.
+6. Não há ofensa aos enunciados das Súmulas 440 do STJ e 718 e 719 do STF, pois a fixação do regime prisional é baseada na gravidade concreta do delito.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A fixação de regime inicial fechado é válida quando fundamentada na gravidade concreta do delito, mesmo que a pena-base tenha sido fixada no mínimo legal. 2. A gravidade concreta do delito pode justificar a imposição de regime mais severo, não havendo ofensa às Súmulas 440 do STJ e 718 e 719 do STF".
+Dispositivos relevantes citados: Código Penal, art. 33, §§ 2º e 3º; art. 59.
+Jurisprudência relevante citada: STJ, AgRg no HC 890.250/SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 04.11.2024; STJ, AgRg no AgRg no AREsp 2.521.948/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 14.05.2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DIEGO LIRA DE ARAUJO contra a decisão que indeferiu liminarmente o habeas corpus, ficando mantido o regime prisional fechado para o início do desconto da reprimenda.
+Em razões, a defesa reitera o pleito de fixação do regime semiaberto, pois, não obstante a primariedade do réu e a inexistência de circunstâncias judiciais desfavoráveis, o regime inicial de cumprimento de pena foi fixado no fechado, contrariando a regra do artigo 33, § 2º, "b", do Código Penal.
+Pugna, assim, pelo provimento do agravo para conceder a ordem, a fim de modificar o regime de pena.
+É o relatório.
+EMENTA
+Direito penal. Agravo regimental. Regime inicial de cumprimento de pena. Gravidade concreta do delito. Agravo improvido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus, mantendo o regime prisional fechado para o início do cumprimento da pena.
+2. A defesa pleiteia a fixação do regime semiaberto, argumentando que, apesar da primariedade do réu e da inexistência de circunstâncias judiciais desfavoráveis, o regime inicial foi fixado no fechado, em contrariedade ao artigo 33, § 2º, "b", do Código Penal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a fixação do regime inicial fechado, fundamentada na gravidade concreta do delito, é válida, mesmo diante da primariedade do réu e da ausência de circunstâncias judiciais desfavoráveis.
+III. Razões de decidir
+4. A jurisprudência admite a fixação de regime mais gravoso quando demonstrada a gravidade concreta do delito, mesmo que a pena-base tenha sido fixada no mínimo legal.
+5. A decisão está devidamente fundamentada em elementos concretos, como o modus operandi do crime, que justifica a imposição do regime fechado.
+6. Não há ofensa aos enunciados das Súmulas 440 do STJ e 718 e 719 do STF, pois a fixação do regime prisional é baseada na gravidade concreta do delito.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A fixação de regime inicial fechado é válida quando fundamentada na gravidade concreta do delito, mesmo que a pena-base tenha sido fixada no mínimo legal. 2. A gravidade concreta do delito pode justificar a imposição de regime mais severo, não havendo ofensa às Súmulas 440 do STJ e 718 e 719 do STF".
+Dispositivos relevantes citados: Código Penal, art. 33, §§ 2º e 3º; art. 59.
+Jurisprudência relevante citada: STJ, AgRg no HC 890.250/SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 04.11.2024; STJ, AgRg no AgRg no AREsp 2.521.948/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 14.05.2024.
+VOTO
+Razão não assiste ao agravante.
+Está inscrito na decisão ora impugnada:
+"Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto ao regime inicial de cumprimento da pena: Desse modo, considerando-se as circunstâncias do crime praticado, mediante o concurso de agentes e emprego de ameaça à vítima, constrangida pelos agentes a sacar valores provenientes de origem ilícita, não há como modificar o regime fechado imposto na r. sentença. Com efeito, a despeito da primariedade do réu, as circunstâncias do delito revelam a gravidade concreta da infração praticada, bem como a reprovabilidade da conduta perpetrada, recomendando-se, desse modo, a imposição do regime mais gravoso fechado.  ..  Assim, dada a reprovabilidade da conduta, o modus operandi em que se deu ação crimonosa, entende-se mais adequado à espécie o regime inicial fechado, em resposta a repressão e prevenção do crime praticado, de modo atender o princípio da suficiência da pena (fls. 12/13). Nos termos dos §§ 2º e 3º do art. 33 do Código Penal, para a fixação do regime inicial de cumprimento de pena o julgador deverá observar a quantidade de pena aplicada, a primariedade do réu e a eventual existência de circunstâncias judiciais desfavoráveis. Além disso, devem ser observados os enunciados das Súmulas n. 440 do Superior Tribunal de Justiça, e nºs. 718 e 719 do Supremo Tribunal Federal, segundos os quais é vedada a fixação de regime prisional mais gravoso do que o cabível em razão da sanção imposta somente com base na gravidade abstrata do delito. Ademais, segundo a jurisprudência do STJ e a legislação pátria, acima citada, é considerada motivação idônea para o fim de imposição de regime mais severo do que a pena aplicada: a) a reincidência, ainda que não seja específica (§ 2º do art. 33 do CP); b) a existência de circunstância judicial desfavorável, nos termos do art. 59 do CP (§ 3º do art. 33 do CP) e; c) a gravidade concreta do delito. Nesse sentido, vale citar os seguintes julgados: ER Esp n. 1.970.578/SC, Rel. Ministro Joel Ilan Paciornik, Terceira Seção, D Je de 6.3.2023; AgRg no AgRg no AR Esp n. 2.435.525/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, D Je de 6.6.2024; AgRg no HC n. 836.416/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, D Je de 3.5.2024; AgRg no HC n. 859.680/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, D Je de 14.2.2024; AgRg no HC n. 842.514/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, D Je de 3.7.2024; AgRg no HC n. 901.630/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, D Je de 3.7.2024; AgRg no HC n. 905.390/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, D Je de 12.6.2024; AgRg no AR Esp n. 2.465.687/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, D Je de 11.6.2024. Acresça-se que, de acordo com a Súmula n. 269 do STJ, é admissível a adoção do regime prisional semiaberto para reincidentes condenados a pena igual ou inferior a quatro anos, se favoráveis as circunstâncias judiciais. Nessa linha, o julgado impugnado não diverge da jurisprudência desta Corte, pois, conforme se extrai do trecho do acórdão supratranscrito, há elementos idôneos para a fixação do regime fechado, em especial a gravidade concreta do delito. Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício" (e-STJ, fls. 35-36).
+Com efeito, o regime fechado foi fundamentada na gravidade concreta do delito, evidenciada pelo modus operandi, o que justifica a imposição de regime mais severo.
+A jurisprudência admite a fixação de regime mais gravoso quando demonstrada a gravidade concreta do delito, mesmo que a pena-base tenha sido fixada no mínimo legal, não havendo falar em ofensa aos enunciados das Súmulas 440 do STJ e 718 e 719 do STF, pois a decisão está devidamente fundamentada em elementos concretos.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. DIREITO PENAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ROUBO MAJORADO. AUTORIA. RECONHECIMENTO PESSOAL. EXISTÊNCIA DE OUTROS MEIOS DE PROVA IDÔNEOS E INDEPENDENTES DO ATO. REGIME PRISIONAL INICIAL FECHADO. GRAVIDADE CONCRETA DOS FATOS. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e de habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade. Precedentes.
+2. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a condenação do agravante não se ampara exclusivamente em seu reconhecimento pessoal pela vítima do crime patrimonial, tendo sido mencionada expressamente a existência de outros elementos dentro do acervo probatório disponível capazes de lhe atribuir a autoria delitiva do roubo majorado.
+3. A fixação do regime fechado para o início do cumprimento da pena foi justificada pelas circunstâncias concretas do roubo majorado, evidenciadas pelo modus operandi empregado na execução do delito, o qual, além do concurso de pessoas, foi marcado pelo emprego de violência efetiva contra a vítima, que foi agredida com chutes pelos autores do crime.
+4. Consoante a jurisprudência desta Corte Superior, "inexiste violação das Súmulas n. 440 desta Corte Superior, 718 e 719, ambas do Supremo Tribunal Federal, quando a fixação do regime prisional é baseada na gravidade concreta do delito. No caso, considerou-se, para a fixação do regime inicial fechado, que o Paciente praticou os delitos, em concurso de agentes, com emprego de arma de fogo e grave ameaça, circunstâncias que demonstram maior reprovabilidade da conduta delituosa" (HC n. 470.750/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/2/2019, DJe de 19/2/2019.).
+5. Agravo regimental improvido."
+(AgRg no HC n. 890.250/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024.);
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REGIME MAIS GRAVOSO QUE O PREVISTO PARA A QUANTIDADE DE PENA. FUNDAMENTAÇÃO VÁLIDA A DESPEITO DAS CIRCUNSTÂNCIAS FAVORÁVEIS E DA PRIMARIEDADE DO AGENTE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante jurisprudência das Cortes Superiores - Súmulas n. 718 e 719 do STF e 440 do STJ -, a fixação da pena-base no mínimo legal e a primariedade do acusado não impedem a aplicação de regime mais gravoso, desde que devidamente justificado com base nas peculiaridades do caso analisado, conforme feito na hipótese dos autos, em que foi indicada a prática de dois roubos em sequência com o emprego de arma branca.
+2. Segundo entendimento desta Corte, a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso nos pontos em que suscita divergência jurisprudencial se o dissídio alegado diz respeito aos mesmos dispositivos legais ou teses jurídicas, como na espécie.
+3. Agravo regimental não provido."
+(AgRg no AgRg no AREsp n. 2.521.948/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/5/2024, DJe de 23/5/2024.).
+Ante o exposto, nego provimento ao agravo.
+É o voto.
