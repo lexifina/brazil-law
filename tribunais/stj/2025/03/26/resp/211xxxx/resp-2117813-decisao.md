@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DE MINAS GERAIS contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 108):
+AGRAVO INTERNO - ARGUMENTOS INSUBSISTENTES - DECISÃO MONOCRÁTICA QUE SE MANTÉM. Não há como prover o agravo interno se insubsistentes os argumentos expendidos pela parte e, ademais, porque se encontra esta devidamente fundamentada.
+Os embargos de declaração na origem foram rejeitados (fls. 125-130).
+Nas razões recursais, sustenta o recorrente, preliminarmente, violação aos arts. 489, §1º, IV, e 1.022, I e II, do CPC, aduzindo negativa de prestação jurisdicional. No mérito, alega violação ao art. 345, II, do CPC, ao argumento de que "inadmitir seu recurso por (falta) dialeticidade equivale a aplicar-lhe tais efeitos, negando-se vigência à inexistência de confissão quanto a direito indisponível, que se enquadra nas exceções do artigo 345 do CPC de 2015, especialmente em seu inciso II" (fl. 144).
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Não foi apresentada contraminuta ao recurso (fl. 149).
+É o relatório.
+Passo a decidir.
+Quanto à negativa de prestação jurisdicional, com razão a parte recorrente.
+O Tribunal de origem, ao negar provimento ao agravo interno interposto, assentou, em síntese, o seguinte entendimento (fls. 109-110):
+Com a análise dos autos, tem-se que a decisão proferida anteriormente e que originou este agravo interno, como ali anotado, deve ser mantida por seus próprios fundamentos. De fato, conforme já asseverado na decisão monocrática, ora vergastada, o Estado de Minas Gerais apresentou petição no juízo primevo, requerendo a extinção do feito, devido ao cancelamento da certidão de dívida ativa; tendo a sentença apenas homologado a desistência da Execução Fiscal. Em sua peça recursal, o ente estadual limita-se a afastar a ocorrência da prescrição intercorrente; o que, repisa-se, não foi objeto de análise pela sentença. Com efeito, embora alegue equívoco ao peticionar pela extinção da execução, sequer alega/comprova que a Certidão de Dívida Ativa não havia sido cancelada ou, ainda, que o seu cancelamento havia sido invalidado pela Administração. Destarte, no caso concreto, o recurso de apelação não faz qualquer menção ao teor do que foi efetivamente decidido na sentença, isto é, a homologação da desistência da execução fiscal, decorrente do CANCELAMENTO da CDA, deixando de impugnar o fundamento que embasou a decisão de primeira instância.
+Nos embargos de declaração opostos na origem, o recorrente apontou omissão do acórdão defendendo que (fls. 114-115):
+E mais, no que tange ao não conhecimento da apelação sob o argumento de suposta falta de dialeticidade, o acórdão foi omisso quanto ao fato de a discussão dizer respeito a crédito público, que se trata de matéria de ordem pública por excelência, a impedir o não conhecimento por inovação recursal. Neste ponto, ao deixar de conhecer da apelação do ente público por suposta inovação recursal, o acórdão foi omisso no que se refere ao art. 345, II do CPC de 2015, que dispõe o seguinte:
+ ..
+Como se vê, o acórdão foi omisso quanto à inaplicabilidade ao ente público dos efeitos da revelia: considerar que a apelação não teria rebatido de modo suficiente o argumento da sentença equivale a aplicar-lhe a pena de revelia. Por esta razão, requer seja atribuído efeito infringente ao presente recurso para que se analise totalmente seu recurso de apelação.
+Ao rejeitar os embargos de declaração, o Tribunal de origem se limitou a afirmar (fls. 128-129):
+O acórdão embargado foi expresso quanto ao motivo da ausência de dialeticidade, "in verbis":
+ ..
+Ora, a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada consubstancia mera insatisfação com o resultado da demanda, inviável, pois, pela via dos aclaratórios.
+ ..
+Vale ressaltar que a contradição, pressuposto dos embargos de declaração é aquela interna, isto é, "do julgado com ele mesmo, jamais a contradição com a lei ou com o entendimento da parte" (STJ-4ªT., R Esp 218.528-SP-E Dcl, rel. Min. Cesar Rocha, j. 7.2.02, rejeitaram os embs., DJU 22.4.02, p.210). Em verdade, constata-se que os embargos ora manejados não se coadunam com os limites certos e estreitos previstos no art. 1.022 do CPC, eis que pretendem apenas reformar/rediscutir o acórdão, por sua irresignação com o resultado.
+Como se vê, tem-se caracterizada infringência ao art. 1.022, II, do CPC.
+Ora, "conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida" (REsp 1.819.062/RJ, relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/2/2020, DJe de 13/2/2020).
+A princípio, os argumentos suscitados pelo recorrente revelam-se essenciais para o correto deslinde da controvérsia, uma vez que não houve o devido enfrentamento da tese veiculada sobre o art. 345, II, do CPC. Assim, considerando a controvérsia versada nos autos, é natural que haja pronunciamento do Tribunal de origem a respeito das questões levantadas pelo recorrente nos embargos de declaração.
+Isso posto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial a fim de, anulando o acórdão que rejeitou os embargos de declaração, determinar o retorno dos autos ao Tribunal de origem para sanar concretamente todos os vícios apontados.
+Intimem-se.
+EMENTA
