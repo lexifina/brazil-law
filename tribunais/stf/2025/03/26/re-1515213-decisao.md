@@ -1,0 +1,45 @@
+Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina - TJSC, assim ementado:
+
+    AÇÃO CIVIL PÚBLICA. DESPEJO DE ESGOTO. RIO CRICIÚMA. EXISTÊNCIA DE DELIBERAÇÃO JUDICIAL EM DEMANDA SEMELHANTE QUANTO AO SANEAMENTO BÁSICO EM TODO O TERRITÓRIO DO MUNICÍPIO. IMPOSSIBILIDADE, PORÉM, DE SE DETERMINAR INVESTIMENTOS MACIÇOS NESSA RELEVANTE ÁREA SEM QUE HAJA INGERÊNCIA INDEVIDA DO PODER JUDICIÁRIO NA ATUAÇÃO DO ADMINISTRADOR PÚBLICO. HIPÓTESE EM QUE A RELOCAÇÃO DE RECURSOS POSSIVELMENTE ACARRETARIA ESCASSEZ DE INVESTIMENTOS EM SETORES NÃO MENOS RELEVANTES, COMO SAÚDE, EDUCAÇÃO OU SEGURANÇA PÚBLICA. AUSÊNCIA DE OMISSÃO ESPECÍFICA A JUSTIFICAR A INTERVENÇÃO JUDICIAL. PRECEDENTES DESTA CORTE EM DEMANDAS SIMILARES, ENVOLVENDO OUTROS MUNICÍPIOS. IMPROCEDÊNCIA DOS PEDIDOS. SENTENÇA MANTIDA. RECURSO CONHECIDO E DESPROVIDO (doc. 43, p. 1).
+
+    O recorrente, fundado no art. 102, III, a, da Constituição Federal, alega, em suma, afronta aos arts. 6º; 23, IX; 165, III; 167, I; e 225 da Constituição da República (doc. 52).
+
+    Antes da remessa dos autos ao Supremo Tribunal Federal, o 2º Vice Presidente do TJSC, com base no julgamento do RE 684.612/RJ (Tema 698 da Repercussão Geral) pelo Supremo Tribunal Federal, devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.030, II, do Código de Processo Civil – CPC (doc. 91).
+
+    Na sequência, a 1ª Câmara de Direito Público do TJSC manteve o seu entendimento por verificar alinhamento aos parâmetros delineados no Tema 698 do STF (doc. 111).
+
+    Posteriormente, o recurso extraordinário foi admitido e remetido ao Supremo Tribunal Federal (doc. 127).
+
+    O recurso não merece acolhida.
+
+    É que o TJSC, ao realizar o juízo de adequação, concluiu:
+
+    A ordem judicial exarada na decisão colegiada (e. 79.41) revela-se alinhada aos parâmetros delineados no Tema 698 do STF, cuja tese firmada se transcreve:
+
+    [...]
+
+    No caso, "deve-se avaliar se há uma sensível deficiência no atendimento a direito fundamental (ou mesmo uma ausência, como alertado pela Corte Máxima)" (TJSC, Apelação n. 0900166-06.2015.8.24.0012, rel. Des. Hélio do Valle Pereira, Quinta Câmara de Direito Público, j. em 21-11-2023). A ação civil pública fundamenta-se no diagnóstico realizado a partir de estudo ambiental que baseou a instauração de inquérito civil para apurar as responsabilidades atinentes ao baixo índice de saneamento básico no Município de Criciúma. Na presente situação, ainda que se possa falar em precariedade no sistema de esgoto do Município de Criciúma, a excepcionalidade não se mostra flagrante. Esta Primeira Câmara de Direito Público apreciou questão idêntica em relação ao Município de Nova Veneza, cujo relator, Exmo. Sr. Dr. Paulo Henrique Moritz Martins da Silva, lançou a ementa:
+
+    [...]
+
+    Como dito, sabe-se que casos extremos de omissão específica do Poder Executivo podem gerar a intervenção do Judiciário para garantir direitos impostergáveis, como a saúde, por exemplo. No entanto, não cabe ao Poder Judiciário, em princípio, ditar a atividade do administrador público, impondo-lhe a realização de investimentos em uma determinada área quando possivelmente haja a necessidade de dispêndios em searas não menos relevantes. Não se pode perder de vista que muitos municípios têm de arcar com inúmeras demandas para efetivar direitos constitucionalmente garantidos, mas não dispõem dos recursos necessários para tanto. Por isso, a execução das políticas administrativas compete ao Poder Executivo, inclusive a implementação do seu orçamento, com base nas prioridades que estabelece. Na situação em análise, não se verifica, pela prova dos autos, que o Município de Criciúma tenha se omitido de modo específico no enfrentamento do problema. Afirmou-se no decorrer da instrução que já repassou, por concessão, a prestação e execução à empresa contratada para este fim – Casan – e, ainda, editou legislação e regulamentos para melhoria do saneamento básico municipal e controle de poluição dos recursos hídricos, os quais estão em revisão por empresa especializada para posterior implantação. Os documentos evidenciam que o esgotamento sanitário coletivo já está instalado em, pelo menos, metade do seu território, o que vem se alterando pouco a pouco, com instalação de estações de tratamento. Igualmente, há plano municipal integrado. Logo, o Município demonstrou que não está totalmente inerte, pois tem buscado obter recursos financeiros para efetivar a execução do projeto de coleta e tratamento de esgoto sanitário (doc. 111, pp. 2-3).
+
+    Nesse contexto, para divergir desse entendimento e apurar a ocorrência de ausência ou grave deficiência do serviço público ora discutido, aptas a ensejar a intervenção do Poder Judiciário, seria necessário o reexame do conjunto-fático probatório dos autos, o que é vedado pela Súmula 279/STF. Com essa orientação, destaco os seguintes julgados:
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. IMPLEMENTAÇÃO DE POLÍTICA PÚBLICA. AUSÊNCIA DE OMISSÃO ESTATAL ASSEVERADA NO ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS: INVIABILIDADE NO CAMPO EXTRAORDINÁRIO. ÓBICE DO ENUNCIADO Nº 279 DA SÚMULA DO STF. 1. É inviável, em recurso extraordinário, o reexame dos elementos probatórios que fundamentam o acórdão recorrido. Incidente o óbice do enunciado nº 279 da Súmula do STF. 2. No caso, o Tribunal de origem, com base nos pressupostos fáticos constantes dos autos, asseverou não haver qualquer omissão do Estado de Goiás no tocante à realização de políticas públicas relacionadas ao direito à saúde dos habitantes do Município de Novo Gama/GO. 3. Ademais, o Supremo Tribunal Federal já firmou a orientação no sentido de que a determinação de implementação de políticas públicas pelo Poder Judiciário só pode ocorrer em situações excepcionalíssimas, sob pena de ofensa ao princípio constitucional da separação dos Poderes. 4. Agravo regimental ao qual se nega provimento (ARE 1.384.688 AgR/GO, Rel. Min. André Mendonça, DJe 21/11/2023 — grifei).
+
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. UNIDADE DE CONSERVAÇÃO. MEIO AMBIENTE. DETERMINAÇÃO DO PODER JUDICIÁRIO DE POLÍTICAS PÚBLICAS. AUSÊNCIA DE COMPROVAÇÃO DE OMISSÃO OU INÉRCIA DO PODER PÚBLICO. IMPOSSIBILIDADE DE REEEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA. I - Para chegar-se à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. II – Agravo regimental a que se nega provimento, com aplicação de multa (ARE 1.458.475 AgR/RS, da minha relatoria, DJe 15/2/2024 — grifei).
+
+    AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. REPASSE FINANCEIRO. FORNECIMENTO DE APARELHOS DE AMPLIAÇÃO SONORA INDIVIDUAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DOS ENUNCIADOS N. 279 E 280 DA SÚMULA DO SUPREMO. 1. Havendo o Colegiado a quo decidido a questão a partir de interpretação conferida à legislação infraconstitucional de regência, não cabe o recurso extraordinário. 2. Dissentir da conclusão alcançada pelo Tribunal de origem demandaria reanálise do conjunto probatório e da legislação local de regência, providências vedadas na via estreita do recurso extraordinário, ante os óbices dos enunciados n. 279 e 280 da Súmula do Supremo. 3. Agravo interno desprovido (RE 1.455.225 AgR/SP, Rel. Min. Nunes Marques, DJe 9/9/2024 — grifei).
+
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 12.01.2024. AÇÃO CIVIL PÚBLICA. NORMAS DE SEGURANÇA CONTRA INCÊNDIO. OBRAS DE ADEQUAÇÃO. AUTO DE VISTORIA. ESCOLA PÚBLICA. OMISSÃO DO PODER PÚBLICO NÃO CONFIGURADA. PRINCÍPIO DA SEPARAÇÃO DOS PODERES. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRECEDENTES. 1. A jurisprudência desta Corte é assente no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação dos poderes. 2. Eventual divergência em relação ao entendimento adotado pelo Tribunal de origem que, ao concluir que não houve omissão do Poder Público, no caso concreto, reformou a sentença e afastou a necessidade de intervenção judicial, demandaria o reexame de fatos e provas (Súmula 279 do STF), o que impede o trânsito do recurso extraordinário. 3. Agravo regimental a que se nega provimento. Sem honorários, por se tratar de ação civil pública (art. 18 da Lei 7.347/1985) (RE 1.468.522 AgR/PR, Rel. Min. Edson Fachin, DJe 28/5/2024 — grifei).
+
+    Posto isso, nego provimento ao recurso (art. 932 do CPC).
+
+    Publique-se.
+
+    Brasília, 26 de março de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
