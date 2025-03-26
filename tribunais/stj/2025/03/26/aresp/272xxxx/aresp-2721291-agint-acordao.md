@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA APLICADA PELA ANS. PRESCRIÇÃO QUINQUENAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS LEGAIS VIOLADOS OU OBJETO DE DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de particularização do dispositivo legal supostamente violado ou objeto de dissídio jurisprudencial atrai a aplicação da Súmula n. 284 do STF, configurando deficiência na fundamentação.
+2. O agravo interno não é meio adequado para suprir eventuais falhas na fundamentação do recurso especial, em razão da preclusão consumativa.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 595-597) interposto pela UNIMED DE BAURU COOPERATIVA DE TRABALHO MÉDICO contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso especial, em razão da incidência da Súmula n. 284 do STF (fls. 252-253).
+O recurso especial foi interposto contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado (fl. 545):
+EMBARGOS À EXECUÇÃO FISCAL. ANS. PRESCRIÇÃO. APLICABILIDADE DA LEI 9.656/98. MULTA. APELAÇÃO IMPROIVIDA.
+1. A Certidão de Dívida Ativa apresenta a fundamentação legal necessária à verificação da origem da dívida, dos seus valores principais e a forma de calcular os encargos legais, de modo que a mera afirmação da ocorrência de irregularidades não é argumento suficiente para desconstituir sua intrínseca presunção de certeza e liquidez.
+2. Quanto à prescrição, a jurisprudência do Superior Tribunal de Justiça e desta Corte são pacíficas no sentido de que aplicável o prazo quinquenal, na forma do Decreto n.º 20.910/1932, com as normas de suspensão e interrupção contidas na Lei n.º 6.830/80 aos créditos de natureza não tributária de titularidade dos entes públicos, sendo que o tal prazo não é afetado ou reduzido durante a deflagração do processo administrativo destinado à constituição do crédito, conforme entendimento da Súmula 467/STJ. No caso, considerando que o auto de infração foi lavrado em 23 de abril de 2009, que houve a impugnação administrativa cuja data da decisão da Diretoria Colegiada ocorreu em 22 de novembro de 2013, com ofício comunicando a operadora da decisão datado de 30 de setembro de 2013 e o respectivo ajuizamento do executivo fiscal deu-se em 3 de dezembro de 2014, o confrontar das datas afasta a tese prescricional.
+3. Pacífico o entendimento no sentido da aplicabilidade das penas previstas no art. 25 da Lei 9.656/98 ao descumprimento de contratos celebrados antes de sua vigência, conforme expressamente estipulado. Ressalte-se que inexiste contradição com o estipulado no art. 35 daquela Lei, que apenas confere ao beneficiário de plano de saúde já firmado o direito de pleitear sua adaptação às condições e especificações estabelecidas pela Lei, se assim desejar. Enquanto contrato de trato sucessivo, ficam as partes sujeitas a norma superveniente relativa à produção de seus efeitos, como o caso de penalidade se descumpridos os termos contratuais, inexistindo violação ao princípio da legalidade ou da irretroatividade.
+4. Devida a autuação uma vez que a executada foi penalizada por recusar indevidamente cobertura de atendimento médico, o que segundo a legislação de regência (art. 25 da Lei n.º 9.656/98 e art. 4º, inciso XVII. da Lei n.º 9.961/00 e infralegais art. 78 da RN n.º 124/2006) impõe o dever da operadora de plano de saúde assegurar aos consumidores de planos privados de assistência à saúde o cumprimento de obrigação de natureza contratual, o que não respeitado no caso.
+5. Apelação improvida.
+Sustenta a parte agravante, em síntese, que a decisão monocrática recorrida incorreu em equívoco ao não conhecer do recurso especial, fundamentando-se indevidamente na Súmula n. 284 do STF.
+Argumenta que expôs de maneira clara e suficiente os dispositivos federais violados, a divergência jurisprudencial e os pontos controversos do acórdão recorrido, demonstrando a inaplicabilidade da referida súmula.
+Transcorreu in albis o prazo para a contraminuta. (fl. 604).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA APLICADA PELA ANS. PRESCRIÇÃO QUINQUENAL. AUSÊNCIA DE INDICAÇÃO PRECISA DOS DISPOSITIVOS LEGAIS VIOLADOS OU OBJETO DE DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. A falta de particularização do dispositivo legal supostamente violado ou objeto de dissídio jurisprudencial atrai a aplicação da Súmula n. 284 do STF, configurando deficiência na fundamentação.
+2. O agravo interno não é meio adequado para suprir eventuais falhas na fundamentação do recurso especial, em razão da preclusão consumativa.
+3. Agravo interno desprovido.
+VOTO
+Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+No caso em análise, verifica-se, nas razões do recurso especial, a indicação genérica de violação de lei federal, sem particularizar quais dispositivos teriam sido contrariados ou quais dispositivos legais da lei seriam objeto de dissídio interpretativo, de modo a atrair a incidência da Súmula n. 284 do STF, consoante se nota a seguir (fl. 553):
+Diante da natureza da causa, não se faz possível a condenação desta recorrente/embargante ao pagamento de honorários advocatícios uma vez que a CDA executada já contempla também a cobrança do encargo previsto no DL 1.025/69, que, portanto, substitui a verba sucumbencial, na forma da Súmula 168 do extinto TFR.
+Condenar esta recorrente ao ônus sucumbencial além daqueles encargos já contemplados na CDA executada caracteriza evidente bis in idem.
+Nota-se que a condenação como mantida acaba de fato a contrariar o DL 1.025/69 e a Súmula 168 do extinto TFR.
+ ..
+As decisões ordinárias ao improverem os embargos de devedor e condenarem esta recorrente a arcar com honorários advocatícios sucumbenciais em favor dos procuradores da embargada/recorrida, também decidiram em desalinhamento das decisões oferecidas a casos similares por esta E. Corte Superior.
+Essa falta de clareza quanto ao dispositivo legal supostamente violado ou objeto de dissídio interpretativo enseja a aplicação do óbice da Súmula n. 284 do STF, em razão da ausência de delimitação precisa da controvérsia.
+A propósito:
+ ..
+1. A falta de indicação pela parte recorrente de qual o dispositivo legal teria sido violado ou objeto de interpretação jurisprudencial divergente implica deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, por analogia.
+2. Esta Corte firmou "o entendimento de que não é possível, pela via do Recurso Especial, a análise de eventual ofensa a decreto regulamentar, resoluções, portarias ou instruções normativas, por não estarem tais atos administrativos compreendidos no conceito de lei federal, nos termos do art. 105, III, da Constituição Federal".
+3. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.368.250/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Ademais, é importante destacar que o agravo interno não constitui meio apropriado para suprir eventuais falhas na fundamentação do recurso especial, em razão da preclusão consumativa, conforme entendimento consolidado desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTIGO FEDERAL NÃO PARTICULARIZADO. SÚMULA N. 284/STF. SANEAMENTO DA DEFICIÊNCIA RECURSAL NO AGRAVO INTERNO. INVIABILIDADE. PRECLUSÃO CONSUMATIVA.
+1. A recorrente, nas razões do recurso especial, limitou-se a apontar a violação do art. 537 do CPC, sem particularizar seu caput, ou algum de seus parágrafos, o que atrai a incidência do óbice na Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia". Precedentes.
+2. Convém destacar que não é possível a correção da deficiência recursal nas razões do agravo interno em razão da preclusão consumativa. Precedente. Agravo interno improvido. (STJ - AgInt no AREsp: 2226939 SC 2022/0320116-4, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 27/03/2023, T2 - SEGUNDA TURMA, Data de Publicação: DJe 30/03/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. CORREÇÃO NO ÂMBITO DO AGRAVO INTERNO. DESCABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. INSURGÊNCIA NÃO CONHECIDA, EVIDENCIANDO O NÃO CABIMENTO DO EFEITO SUSPENSIVO. GRATUIDADE DE JUSTIÇA DEFERIDA PARA TODA A TRAMITAÇÃO NESTA INSTÂNCIA. DESNECESSIDADE DE NOVO PLEITO. AGRAVO DESPROVIDO.
+1. A parte insurgente limitou-se a defender genericamente a negativa de prestação jurisdicional no acórdão estadual, sem especificar, nas razões do apelo especial, sobre quais questões teria a Corte de origem deixado de se manifestar. Incidência do enunciado sumular n. 284/STF.
+2. Conforme entendimento deste Tribunal Superior, "o agravo interno não é o meio adequado para correção de deficiência do recurso especial" (AgInt no AREsp 1.384.311/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 29/04/2019, DJe 06/05/2019).
+3. A demonstração da divergência não se perfaz pela simples transcrição de ementas e fragmentos de votos, mas com o confronto entre trechos, tanto do acórdão recorrido quanto da decisão apontada como divergente, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi feito na espécie.
+4. Se, no presente caso, conheceu-se do agravo para não conhecer do apelo especial, mostra-se clara a ausência dos requisitos necessários à concessão do efeito suspensivo, evidenciando o motivo de se ter considerado prejudicado o referido pedido, sem exigência de maiores digressões sobre o assunto.
+5. A gratuidade de justiça foi deferida para toda a tramitação processual ocorrida nesta instância, não sendo necessário um novo requerimento a cada recurso interposto perante o Superior Tribunal de Justiça.
+6. Agravo interno desprovido. (STJ - AgInt no AREsp: 1464702 RS 2019/0067237-9, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 04/05/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 08/05/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
