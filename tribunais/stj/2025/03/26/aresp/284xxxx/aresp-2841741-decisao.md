@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ISMD - INSTITUTO SUPERIOR DE MEDICINA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA EM AÇÃO MONITORIA. DECISÃO QUE ACOLHEU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE APRESENTADA E JULGOU EXTINTA A EXECUÇÃO COM FULCRO NO ART. 924, I. E NA FORMA DO ART. 925 DO CÓDIGO DE PROCESSO CIVIL. INSURGÊNCIA. NA PRESENTE HIPÓTESE, NÃO HÁ DECISÃO INTERLOCUTÓRIA, SENDO INEQUÍVOCA A EXPRESSA EXTINÇÃO DA EXECUÇÃO NOS TERMOS DO ART. 924,1, E 925 DO CPC, TRATANDO-SE, PORTANTO, DE SENTENÇA. CONTRA A DECISÃO QUE EXTINGUIU A EXECUÇÃO ERA CABÍVEL A INTERPOSIÇÀO DE RECURSO DE APELAÇÃO. ART. 1.009. CAPUT, DO CPC. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE EM CASOS DE INTERPOSIÇÀO DO RECURSO INCABÍVEL, EM VIRTUDE DA AUSÊNCIA DE DÚVIDA OBJETIVA. PRECEDENTE DO STJ. RECURSO NÃO CONHECIDO (fl. 836).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte alega violação dos arts. 5º e 188 do CPC, no que concerne à aplicação dos princípios da fungibilidade e da instrumentalidade das formas quando a parte recorrente interpôs o agravo de instrumento induzido a erro pelo sistema do tribunal, agindo com boa-fé, trazendo a seguinte argumentação:
+Todavia, data maxima venia, o entendimento proferido pelo Egrégio Tribunal de Justiça a quo se mostra absolutamente equivocado, na medida em que o erro no sistema do tribunal induziu o Recorrente ao erro, desencadeando todos os atos posteriores.
+Como é cediço, os sistemas dos Tribunais devem conter informações corretas e precisas para não induzir o advogado ao erro e prejudica-lo no curso do processo, não podendo constar qualquer informação equivocada, ainda que mínima.
+Conforme se denota do andamento processual, tanto no sistema E-SAJ quanto na própria peça recorrida, consta a informação de que foi proferida uma decisão, e não uma sentença.
+ ..
+Desse modo, o Recorrente foi induzido ao erro pelo sistema do Tribunal de Justiça, de modo que, por se tratar supostamente de decisão proferida pelo D. Juízo de primeiro grau, interpôs o recurso de agravo de instrumento.
+Não há, portanto, de se falar em "ausência de dúvida objetiva", uma vez que o próprio Tribunal cometeu equívoco que gerou dúvida objetiva no operador de direito, ao nomear como decisão o expediente proferido em sede de cumprimento de sentença, o que ensejaria a interposição de Agravo de Instrumento.
+ ..
+Veja que essa C. Corte aceita que a parte atue de forma diversa do quanto prescrito em lei, em atenção ao princípio da instrumentalidade das formas e seus correlatos para que os atos alcancem sua finalidade, tal como a possibilidade da emenda da petição inicial, sem consentimento do réu, após a contestação.
+ ..
+Pelo exposto, diante da demonstrada violação aos artigos 5º e 188, ambos do Código de Processo Civil, uma vez que todos os envolvidos no curso do processo devem se comportar de boa-fé, não apenas as partes, mas também o Juiz, não podendo o Recorrente, que agiu de boa-fé, ser prejudicado pelo erro procedimental que o Poder Judiciário deu causa (gerando dúvida objetiva ao advogado), requer-se a reforma do v. acórdão recorrido, a fim de que o agravo de instrumento interposto pela Recorrente seja recebido e conhecido com base no princípio da fungibilidade (fls. 854/857 ).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: " ..  o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública." (AgInt no AREsp n. 1.582.679/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.5.2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; AgInt no AREsp 965.710/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 4.5.2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
