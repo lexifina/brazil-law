@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO E/OU CADEIA DE SUBSTABELECIMENTO OUTORGANDO PODERES À ADVOGADA SUBSCRITORA DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. VÍCIO NÃO SANADO. INCIDÊNCIA DA SÚMULA N. 115/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, verificando-se inexistente instrumento de mandato e respectiva cadeia de substabelecimento outorgando poderes ao subscritor de recurso para a instância superior, nos termos dos artigos. 76 e 932, parágrafo único, do CPC, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo, nos termos da Súmula 115/STJ (Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos).
+2. Ademais, a jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido realizada em data anterior à da interposição do recurso. Precedentes
+3 . Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ULISSES ALVES JÚNIOR (e-STJ fls. 1219/1222) contra decisão monocrática de e-STJ fls. 1215, proferida pelo Ministro Presidente HERMAN BENJAMIN, que não conheceu do recurso, em razão da incidência da Súmula n. 115/STJ.
+A parte agravante sustenta que a procuração outorgando poderes aos advogados subscritores foi devidamente juntada aos autos antes da prolação da decisão agravada na fl. 1212 . Aduz que o agravante foi representado pelos mesmos advogados em todos os atos processuais, inclusive em audiências, petições e demais manifestações, evidenciando a continuidade e regularidade da representação (e-STJ fls. 1220).
+Instado a se manifestar, o Ministério Público Federal opinou pela intimação do Parquet estadual (e-STJ fls. 1236).
+É o relatório
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PROCURAÇÃO E/OU CADEIA DE SUBSTABELECIMENTO OUTORGANDO PODERES À ADVOGADA SUBSCRITORA DO AGRAVO E DO RECURSO ESPECIAL. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. VÍCIO NÃO SANADO. INCIDÊNCIA DA SÚMULA N. 115/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior de Justiça, verificando-se inexistente instrumento de mandato e respectiva cadeia de substabelecimento outorgando poderes ao subscritor de recurso para a instância superior, nos termos dos artigos. 76 e 932, parágrafo único, do CPC, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo, nos termos da Súmula 115/STJ (Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos).
+2. Ademais, a jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido realizada em data anterior à da interposição do recurso. Precedentes
+3 . Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+É que, nos termos da jurisprudência desta Corte Superior de Justiça, verificando-se inexistente instrumento de mandato e respectiva cadeia de substabelecimento outorgando poderes ao subscritor de recurso para a instância superior, nos termos dos artigos. 76 e 932, parágrafo único, do CPC, a parte deverá ser intimada para regularizar a representação processual, sob pena de não conhecimento do apelo, nos termos da Súmula 115/STJ (Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos).
+Ademais, a jurisprudência desta Corte entende que para suprir eventual vício de representação processual não basta a juntada de procuração ou substabelecimento, é necessário que a outorga de poderes tenha sido realizada em data anterior à da interposição do recurso. Precedentes: AgInt no AREsp n. 2.735.913/MT, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025; AgInt no REsp n. 2.126.470/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/12/2024, DJEN de 20/12/2024; AgInt no AREsp n. 2.609.060/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024; AgRg no AREsp n. 2.516.455/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024; AgRg no AREsp n. 2.465.065/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/11/2023, DJe de 21/12/2023.
+No presente caso, os poderes consignados no instrumento de mandato de e-STJ fls. 1212 foram outorgados à subscritora do recurso em data posterior à sua interposição.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto
