@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CARLOS DE SOUZA MOREIRA contra acórdão assim ementado (fl. 18):
+HABEAS CORPUS. PRISÃO PREVENTIVA. EXTORSÃO MAJORADA E USURA PECUNIÁRIA. GRAVIDADE CONCRETA DA CONDUTA. AMEAÇAS COM USO DE ARMA DE FOGO. REITERAÇÃO CRIMINOSA. FUNDAMENTAÇÃO IDÔNEA. IMPOSSIBILIDADE DE MEDIDAS CAUTELARES DIVERSAS. ORDEM DENEGADA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado em favor de réu com prisão preventiva decretada em 05/07/2024 pela suposta prática dos crimes de extorsão majorada e usura pecuniária. A defesa alega ausência de fundamentação concreta para a medida extrema, possibilidade de imposição de medidas cautelares alternativas e desproporcionalidade da segregação cautelar.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) se a decisão que decretou e manteve a prisão preventiva do paciente está devidamente fundamentada nos requisitos do art. 312 do CPP; (ii) se a gravidade concreta da conduta imputada ao paciente justifica a segregação cautelar; e (iii) se há possibilidade de substituição da prisão preventiva por medidas cautelares alternativas.
+III. RAZÕES DE DECIDIR
+3. A prisão preventiva encontra-se devidamente fundamentada na necessidade de garantir a ordem pública, ante a gravidade concreta da conduta imputada ao paciente, consistente no suposto constrangimento da vítima, sob ameaça de arma de fogo, ao pagamento de valores indevidos com juros abusivos, além da invasão da residência da ofendida durante o período noturno.
+4. A reiteração criminosa do paciente, evidenciada por recente condenação provisória por delitos idênticos (processo nº 5033807-37.2023.8.21.0008), demonstra a necessidade de intervenção estatal para prevenir novos delitos e resguardar a estabilidade social.
+5. A gravidade concreta da conduta e o modus operandi empregado revelam a periculosidade do paciente, justificando a segregação cautelar e afastando a possibilidade de substituição da prisão por medidas cautelares alternativas, nos termos do art. 282, II, do CPP.
+6. A jurisprudência dos Tribunais Superiores reconhece que a prisão preventiva pode ser mantida quando demonstrado o risco de reiteração delitiva e a necessidade de preservar a ordem pública, independentemente de condições pessoais favoráveis do réu.
+7. A decisão que manteve a prisão preventiva está devidamente fundamentada e é válida a utilização da técnica da motivação per relationem, desde que acompanhada de elementos concretos que justifiquem a necessidade da medida extrema.
+IV. DISPOSITIVO E TESE
+8. Ordem denegada.
+Consta dos autos que foi decretada a prisão preventiva do paciente em razão da suposta prática dos crimes de extorsão majorada e usura pecuniária (art. 158, §1º, do CP, e art. 4º, a, da Lei n.º 1.521/51, na forma do art. 69 do CP).
+Sustenta a defesa, em síntese, que "o decreto prisional não possui os critérios necessários para que seja mantido na situação fático-particular do Paciente, conforme a lei processual, especificamente o art. 312 do CPP" (fl. 4).
+Afirma que "o que se percebe é a ABUSIVIDADE DO CRITÉRIO DE ORDEM PÚBLICA, sem uma fundamentação concreta, generalizando a situação pessoal dos acusados, sem uma análise da situação pessoal em particular deste Paciente, já que possui condições satisfatórias em responder ao processo em liberdade" (fl. 5).
+Alega que "há plausibilidade jurídica para que o Paciente responda ao processo em liberdade, considerando que o mesmo não oferece perigo à sociedade, haja vista que o mesmo é réu primário, tem residência fixa, possui ocupação lícita e não lhe foi oferecida outra medida cautelar menos gravosa" (fl. 5).
+Informa que "ocorreu mudança de endereço. Atualmente, mora na Cidade ILHA DE ITAMARACÁ-PE, conforme comprovante de residência, em anexo, por uma necessidade material, já que possui ocupação lícita, trabalha com sua companheira, como comerciante no ramo de confecções naquela localidade" (fl. 6).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a aplicação de medidas cautelares alternativas.
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva do paciente teve a seguinte fundamentação (fls. 108-109):
+II - DA PRISÃO PREVENTIVA
+A materialidade do crime de extorsão ficou demonstrada nos registros das ocorrências, além disso, fortes os indícios de autoria, baseados nas conversas de whatsapp da vítima, além do reconhecimento dos representados mediante fotografia.
+Os investigados DAVID, CARLOS e BRUNO foram reconhecidos pela vítima por fotografias.
+DAVID, certa vez, realizou chamada de vídeo para ela, dirigindo-lhe ameaças. Ele, em tese, integra o grupo que realiza extorsões, juntamente com CARLOS e BRUNO. O empréstimo contraído junto a DAVID gerava valores depositados por CARLOS.
+Tanto DAVID quanto CARLOS, anteriormente, já foram investigados pela Autoridade Policial por crimes de extorsão, inclusive, sendo expedidos mandados de prisão temporária por outras investigações, que restaram expirados.
+Em outra oportunidade, a vítima foi ameaçada por mensagem que fazia referência à "tropa do gordão", sendo este o apelido de CARLOS.
+De igual forma, o investigado BRUNO está segregado preventivamente, pelo processo de n.º 5023149- 51.2023.8.21.0008. Como anteriormente referido, BRUNO era o único que sabia o endereço residencial da vítima e informou que cobrava dívidas para DAVID.
+Pois bem, destaco que a prisão preventiva é medida excepcional, apenas cabível quando se faça absolutamente necessária para garantir a manutenção da ordem pública ou econômica, para assegurar a aplicação da lei penal ou por conveniência da instrução criminal, o que verifico no caso em tela.
+Insta frisar que o crime de extorsão, tem pena máxima abstratamente cominada superior a quatro anos, o que atrai a hipótese do inciso I do artigo 313 do Código de Processo Penal.
+Além disso, na lição de Guilherme de Souza Nucci "a garantia da ordem pública pode ser visualizada por vários fatores, dentre os quais: gravidade concreta da infração  repercussão social  periculosidade do agente" (in Manual de Processo Penal e Execução Penal, Editora Revista dos Tribunais, 2013, p. 622).
+Assim, diante do narrado, bem como dos elementos colhidos durante a investigação, entendo que a medida extrema se justifica, no caso, para garantia da ordem pública e para conveniência da instrução criminal. Colima-se resguardar a segurança da vítima, já foi intimada.
+Demais, disso, tem-se claro cenário de reiteração delitiva, pelo fato de os investigados responderem a outros processos de igual natureza.
+Como relatado pela Autoridade Policial, o grupo, supostamente, faz da agiotagem e extorsão seu meio de subsistência, causando grande desordem na comunidade. As noticiadas cobranças, que envolvem a família da vítima, trouxeram traumas significativos, levando a mãe da vítima a tentar suicídio.
+Cumpre, ainda, considerar que, dentre as vítimas, há dois menores de dezoito anos, um deles com autismo. Com efeito, entendo que a única medida capaz interromper a reiteração criminosa é a prisão preventiva.
+Pelo seu caráter cautelar, a medida não fere o princípio da inocência, tampouco caracteriza antecipação da pena, quando presentes os requisitos, o que verifico no caso em apreço.
+Ante o exposto, presentes os permissivos do art. 312 do CPP, decreto a prisão preventiva de CARLOS DE SOUZA MOREIRA, DAVID WILLIAN CHAVES PLATIZ e BRUNO DOS SANTOS MARCELI.  ..
+Verifica-se que a prisão preventiva foi decretada com fundamentação idônea, lastreada na gravidade concreta das condutas imputadas e no risco de reiteração delitiva. O paciente integra, em tese, grupo dedicado a realizar extorsões e entre as vítima há menores de idade, inclusive um portador de autismo, e que as "noticiadas cobranças, que envolvem a família da vítima, trouxeram traumas significativos, levando a mãe da vítima a tentar suicídio". Além disso, "os investigados responderem a outros processos de igual natureza".
+Com efeito, "Esta Corte possui jurisprudência consolidada no sentido de que "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do Agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 687.840/MS, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe 19/12/2022)" (AgRg no HC n. 939.735/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/10/2024, DJe de 5/11/2024.)
+Além disso, "Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/3/2019)" (AgRg no RHC n. 187.651/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Desse modo, "tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas" (AgRg no HC n. 965.960/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+Devidamente fundamentada a prisão preventiva do paciente, não se verifica flagrante ilegalidade capaz de justificar a sua revogação.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
