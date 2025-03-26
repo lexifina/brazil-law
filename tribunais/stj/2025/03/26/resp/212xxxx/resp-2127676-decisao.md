@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por MONIZE PIVOTTO DOS SANTOS com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de obrigação de fazer c/c indenização por danos morais.
+O julgado foi assim ementado (fl. 235):
+Ação de obrigação de fazer c/c indenização por danos morais. Plano de saúde. Negativa de cobertura ao custeio do medicamento "Dupixent" (Dupilumabe). Autora que é portadora de "Dermatite Atópica Grave" (CID10 L20.9). Medicamento de uso domiciliar. Custeio pela Operadora. Não obrigatoriedade. Modificação do entendimento que vinha sendo adotado por esta Câmara, de modo a adequá-lo ao do Superior Tribunal de Justiça, a partir do julgamento do REsp 1.692.938/SP. Precedentes. Sentença de improcedência mantida. Honorários sucumbenciais majorados para 11% do valor da causa (art. 85, § 11, do CPC), observada a Justiça gratuita deferida à Autora. Recurso não provido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta divergência jurisprudencial em relação ao art. 10, VI, da Lei n. 9.656/1998, pois o medicamento Dupixent não é de uso domiciliar, e sim injetável, necessitando de supervisão direta de profissional de saúde, sendo, então, devido o custeio pelo plano de saúde.
+Pondera que o Tribunal de origem divergiu do entendimento do STJ, especialmente no REsp 1.692.938/SP, ao considerar o medicamento como de uso domiciliar, quando, na verdade, é injetável e requer supervisão profissional (fls. 250-261).
+Requer o provimento do recurso para que se reconheça a obrigatoriedade de fornecimento do medicamento pela operadora de saúde.
+Nas contrarrazões, a parte recorrida aduz que do recurso especial não se deve conhecer, pois não houve demonstração de divergência jurisprudencial e o medicamento é de uso domiciliar, conforme entendimento consolidado do STJ (fls. 369-378).
+O recurso especial foi admitido (fls. 385-386).
+É o relatório. Decido.
+A irresignação não reúne condições de prosperar.
+A controvérsia diz respeito ao dever da operadora do plano de saúde de fornecer o medicamento Dupixent (dupilumabe) à autora, portadora de dermatite atópica grave.
+A sentença julgou improcedente o pedido autoral e afastou a obrigatoriedade de cobertura do medicamento com base nos arts. 10, VI, e 12, I, c, e II, g, da Lei n. 9656/1998, por ser o medicamento de uso domiciliar. Destacou que o medicamento pode ser aplicado em qualquer farmácia sem necessidade de assistência.
+O Tribunal de origem manteve a sentença, ressaltando o entendimento consolidado no STJ de não ser devida a cobertura pelo plano de saúde de medicamentos para uso domiciliar.
+No caso, para rever a conclusão da Corte de origem quanto ao uso domiciliar da medicação prescrita e da desnecessidade de nenhuma assistência, podendo ser aplicada em qualquer farmácia que realize a venda do produto, seria necessário o revolvimento fático probatório dos autos, o que não é possível na via eleita, ante o óbice da Súmula n. 7 do STJ.
+Ademais, a Corte estadual decidiu em sintonia com a orientação do Superior Tribunal de Justiça de que "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
