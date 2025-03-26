@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 20/03/2025 a 26/03/2025, por unanimidade, conhecer parcialmente do writ e, nessa parte, denegar a ordem , nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. DESOBEDIÊNCIA. NEGATIVA DE AUTORIA. NULIDADE DECORRENTE DA VIOLAÇÃO DE DOMICÍLIO. SUBSTITUIÇÃO DA PRISÃO EM RAZÃO DA EXISTÊNCIA DE FILHOS MENORES. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA. GRANDE QUANTIDADE DO ENTORPECENTE APREENDIDO. 4,560 KG DE COCAÍNA E 572 UNIDADES DE ECSTASY. CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO. RISCO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em benefício de FABIO DE OLIVEIRA LOURENCO - preso preventivamente pela prática dos delitos de tráfico de drogas, posse ilegal de arma de fogo e munições e desobediência -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PARANÁ, que denegou a ordem na parte conhecida (Habeas Corpus n. 0106131-41.2024.8.16.0000), mantendo a segregação cautelar imposta pelo Juízo da 2ª Vara Criminal de Colombo/PR (Autos n. 0001174-02.2024.8.16.0028).
+Sustenta a impetrante constrangimento ilegal na manutenção da segregação cautelar do paciente, tanto pela ausência de fundamentação concreta quanto pela nulidade decorrente da violação de domicílio.
+Alega, ainda, que o paciente é pai de três crianças menores de idade que dependem financeiramente dele.
+Aduz que o imóvel em que as drogas e armas foram apreendidas, estava locado a um terceiro, incorrendo em insuficiência de indícios de autoria.
+Requer a concessão da ordem liberatória; subsidiariamente, seja substituída a prisão preventiva por medidas cautelares alternativas.
+As informações foram prestadas (fls. 66/70 e 72/80), e o Ministério Público Federal, em seu parecer, opinou pela concessão parcial da ordem (fls. 117/124).
+É o relatório.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. DESOBEDIÊNCIA. NEGATIVA DE AUTORIA. NULIDADE DECORRENTE DA VIOLAÇÃO DE DOMICÍLIO. SUBSTITUIÇÃO DA PRISÃO EM RAZÃO DA EXISTÊNCIA DE FILHOS MENORES. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA. GRANDE QUANTIDADE DO ENTORPECENTE APREENDIDO. 4,560 KG DE COCAÍNA E 572 UNIDADES DE ECSTASY. CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO. RISCO DE REITERAÇÃO DELITIVA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.
+VOTO
+Inicialmente, nota-se que não há manifestação da Corte estadual sobre a nulidade decorrente da violação de domicílio, substituição da prisão em razão da existência de filhos menores e a negativa de autoria. Isso inviabiliza, a priori, a análise da questão por este Tribunal Superior em razão do nítido intento de supressão de instância.
+Quanto ao mais, inexiste, na espécie, o alegado constrangimento ilegal. As instâncias ordinárias decidiram na linha da jurisprudência do Superior Tribunal de Justiça. Não há falar em revogação da prisão preventiva imposta ao paciente.
+O Magistrado singular, ao decretar a prisão preventiva do paciente, fundamentou a decisão nestes termos (fls. 56/57 - grifo nosso):
+ ..
+No caso concreto, presente a condição de admissibilidade do art. 313, I e II, do CPP, vez que os crimes cometidos, em tese, pelo autuado (delitos previstos no art. 33 da Lei nº 11.343/2006, art. 14 da Lei nº 10.826 /03 e art. 330 do Código Penal) têm penas máximas cominadas que superam o patamar legal de 04 anos e o autuado é reincidente em crime doloso, conforme extrato do oráculo de mov. 17.1.
+Portanto, presente a condição de admissibilidade para a segregação cautelar.
+De igual modo, existem pressupostos suficientes para a decretação da prisão preventiva, extraindo-se dos elementos colhidos no inquérito policial o fumus comissi delicti , ante a prisão em flagrante do increpado, os depoimentos das testemunhas (mov. 1.4 e 1.6), o auto de exibição e apreensão (mov. 1.7 e 1.8), auto de constatação provisória da droga apreendida (mov. 1.10) e auto de constatação provisória de prestabilidade de arma de fogo (mov. 1.11).
+De outra parte, a manutenção do autuado em custódia cautelar revela-se necessária para garantia da ordem pública (art. 312, CPP).
+Neste passo, não vejo como ignorar que o indiciado conta com extensa folha de anotações criminais (mov. 17.1), inclusive com duas condenações definitivas, cujas penas foram extintas há menos de cinco anos, de modo a configurar o conceito legal de reincidência (art. 63, do Código Penal).
+Logo, vê-se que, solto, é acentuado o risco de reiteração criminosa por parte do increpado, tendo em conta o seu histórico de vida, ligado à prática de crimes.
+ ..
+Além mais, a grande quantidade de droga apreendida (4,650 quilogramas de cocaína e 572 unidades de ecstasy) e a sua qualidade (cocaína) extremamente nociva à saúde humana faz indicar a gravidade em concreto da conduta praticada e, desta circunstância, a periculosidade social do flagrado, circunstância que recomenda a sua custódia cautelar para fins de acautelamento da ordem pública.
+Pois bem, de acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+Dessa forma, deve ser demonstrada, nessa fase, com fundamento em dados concretos dos autos, a existência de pelo menos um dos fundamentos da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Conforme consta nos autos, as instâncias ordinárias fundamentaram as decisões na gravidade concreta da conduta, que se evidencia pela significativa quantidade de entorpecentes, armas e munições apreendidos, bem como no risco de reiteração delitiva. Entre os itens encontrados, estavam 4,560 kg de cocaína e 572 unidades de ecstasy , além armas e munições. Esses elementos corroboram a necessidade da manutenção da segregação cautelar do acusado, justificando adequadamente a decisão do Juiz de primeira instância.
+Nesse sentido: AgRg no HC n. 901.054/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 26/6/2024; e AgRg no HC n. 918.150/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/6/2024.
+Ademais, conforme entendimento desta Corte Superior de Justiça, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, j. em 24/5/2022).
+Conclui-se, então, que a impetração não evidenciou o alegado constrangimento ilegal na manutenção da prisão preventiva imposta ao paciente.
+Ante o exposto, conheço parcialmente do writ e, nessa extensão, denego a ordem.
