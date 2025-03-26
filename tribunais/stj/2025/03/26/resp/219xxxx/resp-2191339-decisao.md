@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA DE VAPORES GRIEG S.A., com fundamento nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA. NATUREZA JURÍDICA DE CRÉDITO TRIBUTÁRIO. AUSÊNCIA DE PRESCRIÇÃO INTERCORRENTE ADMINISTRATIVA. ART. 37 DO DL 37/66. RESPONSABILIDADE DO AGENTE MARÍTIMO. PREQUESTIONAMENTO.
+1. Os embargos de declaração são cabíveis nas hipóteses de omissão, contradição ou obscuridade, bem como para correção de erro material, nos termos do art. 1.022 do CPC, não sendo o meio adequado para modificação ou reexame de matéria analisada pelo órgão julgador.
+2. A prescrição intercorrente administrativa é questão de ordem pública, podendo ser apreciada a qualquer tempo e em qualquer grau de jurisdição.
+3. A penalidade imposta em face do descumprimento de obrigação tributária acessória possui natureza jurídica de crédito tributário. O Decreto n.º 70.232/72, que regulamenta o processo administrativo fiscal, não prevê hipótese de prescrição intercorrente e tampouco estabelece um prazo específico para a conclusão do processo. A hipótese de prescrição intercorrente administrativa prevista na Lei n.º 9.873/99 não se aplica ao contencioso administrativo de natureza fiscal, por conta do princípio da especialidade.
+4. O art. 37 do Decreto-lei nº 37/66 atribui explicitamente tal responsabilidade tanto ao transportador quanto ao agente de cargas, sendo este qualquer pessoa que, em nome do importador ou exportador, dentre outras atividades, consolide ou desconsolide cargas e preste serviços conexos, a norma finda por equiparar o agente marítimo ao agente de carga, sendo expressa em atribuir ao agente de carga a responsabilidade pela prestação de informações sobre operações que execute e respectivas cargas.
+5. Embargos de declaração acolhidos, sem efeitos infringentes.
+Em suas razões, a recorrente aponta violação do art. 1º, § 1º, da Lei n. 9.783/1999; art. 37, § 1º, artigo 95, I e 107, inc. IV, alínea "e", do Decreto-Lei n. 37/1966, além de dissídio jurisprudencial.
+Defende, em suma, o reconhecimento da prescrição intercorrente com base no art. 1º, §1º da Lei n. 9.873/1999, com relação à multa prevista no art. 107, IV, "e" do DL 37/1966.
+Aduz, ainda, que o agente marítimo não é responsável pelas multas administrativas impostas ao transportador marítimo ou ao agente de carga, conforme o art. 107, IV, "e" do Decreto-Lei 37/66.
+Passo a decidir.
+A Primeira Seção do STJ, na sessão do dia 12/03/2025, ao apreciar os REsps n. 2.147.578/SP e 2.147.583/SP, submetidos a julgamento sob a sistemática dos recursos repetitivos, Tema 1.239, fixou as seguintes teses jurídicas:
+1. Incide a prescrição intercorrente prevista no art. 1º, § 1º, da Lei 9.873/1999 quando paralisado o processo administrativo de apuração de infrações aduaneiras, de natureza não tributária, por mais de 3 anos.
+2. A natureza jurídica do crédito correspondente à sanção pela infração à legislação aduaneira é de direito administrativo (não tributário) se a norma infringida visa primordialmente ao controle do trânsito internacional de mercadorias ou à regularidade do serviço aduaneiro, ainda que, reflexamente, possa colaborar para a fiscalização do recolhimento dos tributos incidentes sobre a operação.
+3. Não incidirá o art. 1º, § 1º, da Lei 9.873/99 apenas se a obrigação descumprida, conquanto inserida em ambiente aduaneiro, destinava-se direta e imediatamente à arrecadação ou à fiscalização dos tributos incidentes sobre o negócio jurídico realizado.
+Nesse contexto, julgado o tema pela sistemática dos recursos repetitivos, esta Corte Superior orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Registre-se que essa medida busca evitar eventual ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Ante o exposto, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
+EMENTA
