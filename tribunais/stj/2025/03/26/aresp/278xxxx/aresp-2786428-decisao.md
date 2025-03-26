@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por LEONIDAS DE MORAES ALMEIDA e FERNANDA SANTIAGO DE OLIVEIRA ALMEIDA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 288):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. DIREITO DO CONSUMIDOR. OFERTA DE PORTABILIDADE DE FINANCIAMENTO IMOBILIÁRIO COM PRAZO DE QUATRO MESES PARA REALIZAÇÃO DA SIMULAÇÃO DE CRÉDITO. AUTOR QUE DÁ ACEITE TRÊS MESES APÓS A OFERTA. CONCLUSÃO POSITIVA DE CRÉDITO E REALIZAÇÃO DA PROPOSTA QUE PRECEDE O CONTRATO, NOS TERMOS DA OFERTA, A EXCEÇÃO DA TAXA DE JUROS QUE SEGUIU A PRATICADA NO MOMENTO DA CONTRATAÇÃO. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA AUTORA QUE BUSCA A CONDENAÇÃO DO BANCO NA REALIZAÇÃO DO FINANCIAMENTO IMOBILIÁRIO, SEM SOFRER COM A VARIAÇÃO DOS JUROS, BEM COMO NA INDENIZAÇÃO MATERIAL E MORAL. AUTORA QUE NÃO LOGRA ÊXITO EM COMPROVAR A EXISTÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO PELO APELADO. EM QUE PESE SE TRATAR DE UM DOS PRINCÍPIOS FACILITADORES DA DEFESA DO CONSUMIDOR, A INVERSÃO DO ÔNUS DA PROVA NÃO EXIME O AUTOR DE FAZER PROVA MÍNIMA DO FATO CONSTITUTIVO DE SEU DIREITO. INTELIGÊNCIA DO VERBETE SUMULAR Nº 330, DO TJRJ. A MERA SIMULAÇÃO DE FINANCIAMENTO IMOBILIÁRIO NÃO POSSUI O CONDÃO DE VINCULAR A INSTITUIÇÃO FINANCEIRA OFERECER TAIS CONDIÇÕES EM CONTRATO ESPECIALMENTE, SOBRE A TAXA DE JUROS QUE É FLUTUANTE EM NOSSO PAÍS. SOMENTE APÓS A ANÁLISE DO CRÉDITO E DOS DOCUMENTOS DO CLIENTE PODERÁ SER FEITA A PROPOSTA DO CONTRATO. APELANTE QUE NÃO ANUIU COM O CONTRATO APRESENTADO, QUANTO AOS VALORES NELE APRESENTADOS A TÍTULO DE JUROS E PARCELAS. LIBERAÇÃO DE UM FINANCIAMENTO IMOBILIÁRIO EXIGE DA INSTITUIÇÃO FINANCEIRA A OBSERVAÇÃO DE TRÂMITES FORMAIS QUE PODEM PERDURAR POR UM TEMPO RAZOÁVEL. FALHA NA PRESTAÇÃO DE SERVIÇOS POR PARTE DO APELADO NÃO COMPROVADA.
+RECURSO CONHECIDO E DESPROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 85, I e IV, do CPC, dos arts. 422, 423 e 427, todos do Código Civil, bem como dos arts. 30, 34 e 35, I, todos do CDC.
+Alega que o banco agravado recusou cumprir os termos da oferta de portabilidade de crédito imobiliário, o que viola os artigos do CDC e do Código Civil mencionados acima. Ainda nesse sentido, afirmam que a proposta foi aceita dentro do prazo de validade e que o banco deveria ter mantido as condições oferecidas, especialmente a taxa de juros (fls. 332-336).
+Requer, nesse sentido, condenação por danos morais e materiais e ao cumprimento integral dos termos da proposta formulada.
+Contesta, ainda, a condenação ao pagamento dos honorários advocatícios sucumbenciais, argumentando que não é cabível o arbitramento de verba de sucumbência em favor do réu revel, ainda que vitorioso em razão da sentença de improcedência, conforme o art. 85, I e IV, do CPC (fls. 336-337).
+Foram oferecidas contrarrazões ao recurso especial (fls. 349-359).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 361-366), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 399-410).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que, em relação à apontada ofensa aos artigos do Código Civil e do CDC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, e alterar o decidido no acórdão impugnado, no que se refere à ausência de prova para comprovar os fatos impeditivos, modificativos ou extintivos do direito do autor, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. MÚTUO VERBAL. PRAZO PRESCRICIONAL. DEZ ANOS. AUSÊNCIA DE INSTRUMENTO. DOCUMENTO. CONCEITOS DIVERSOS. INTERPRETAÇÃO RESTRITIVA. CERCEAMENTO DEFESA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. PREQUESTIONAMENTO. INOCORRÊNCIA. MAJORAÇÃO DOS HONORÁRIOS. PARÂMETRO ADEQUADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A Terceira Turma firmou entendimento de que se aplica o prazo geral de dez anos à pretensão relativa a contrato verbal de mútuo, não materializado em instrumento, não incidindo o prazo quinquenal, previsto para hipóteses em que não pairem dúvidas quanto a existência e o valor, bem como que a dívida esteja materializada em instrumento, do qual se diferenciaria o conceito de documento.
+3. Em matéria de prescrição, as regras devem ser interpretadas restritivamente. Precedente.
+4. O Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do NCPC.
+Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula nº 7 do STJ.
+5. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto somente na hipótese em que, não sanada a omissão no julgamento de embargos de declaração, é alegada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não ocorreu .
+6. Não se afigura cabível a pretendida revisão dos honorários majorados de 10% para 15%, na medida em que o acréscimo encontra-se dentro dos parâmetros definidos nos arts. 85, §§ 2º e 11, do NCPC.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.248.140/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/8/2020, DJe de 14/8/2020.)
+Quanto à alegação de que não são cabíveis honorários advocatícios por ser o réu revel, observa-se que tal ponto não foi debatido na instância de origem, o que impede esta Corte Superior de apreciar a questão ante a falta de prequestionamento, como prenunciado pelas Súmulas n. 282 e 356/STF, e que também não foram interpostos embargos de declaração para suscitar o debate do Tribunal de origem.
+Ademais, rever tal circunstância encontra óbice na Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OFERTA DE PORTABILIDADE DE FINANCIAMENTO. ACEITE. COMPROVAÇÃO. REVISÃO. SÚMULA N. 7/STJ. HONORÁRIOS SUCUMBENCIAIS. RÉU REVEL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO IMPROVIDO.
