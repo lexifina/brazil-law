@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual o MUNICÍPIO DE ARACAJU se insurgira contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE de fl. 243/247.
+A parte agravante aponta a inaplicabilidade da súmula 83 do Superior Tribunal de Justiça (STJ), bem como a usurpação de competência na análise do mérito recursal, nos seguintes termos (fl. 294):
+" ..  a Súmula em foco, como soa evidente, só detém aplicação, quando o recurso excepcional é fundado em divergência jurisprudencial (art. 105, III, alínea c da CF., não possuindo, portanto, aplicação, quando o recurso especial é fundado em outras hipóteses de cabimento. Sucede que, conforme se ressume das razões do recurso especial inadmitido, este se lastreia, em verdade, na hipótese de cabimento estampada no art. 105, III, alínea a, da CF  que torna cabível o especial contra acórdão que "contrariar tratado ou lei federal, ou negar-lhes vigência"  , não detendo aplicação, in casu, o entendimento sumulado em apreço.
+ ..
+Para tentar justificar a conclusão no sentido de negar seguimento ao recurso especial, a decisão agravada simplesmente apresenta argumentos que configuram flagrante e inadmissível invasão da competência do E. STJ pela Presidência do E. TJSE.
+Isso porque a decisão agravada, em lugar de se restringir à simples análise dos pressupostos de admissibilidade do recurso especial, proferiu julgamento  à sua maneira e a pretexto de análise dos pressupostos intrínsecos  acerca da existência ou não da violação aos dispositivos apontados pelo Município de Aracaju, apreciou o mérito do recurso especial."
+Requer o provimento de seu recurso.
+A parte adversa não apresentou contraminuta.
+É o relatório.
+Da irresignação não é possível conhecer porque a parte agravante não refutou adequadamente a decisão agravada.
+O recurso especial não foi admitido porque o acórdão recorrido estaria alinhado a entendimento do Superior Tribunal de Justiça (STJ) quanto à prescrição intercorrente na execução fiscal. Na ocasião foi aplicado o enunciado 83 da Súmula deste Tribunal.
+Em seu agravo em recurso especial, a parte agravante não trouxe argumentação idônea a indicar que o óbice em questão teria sido mal aplicado pela instância ordinária.
+O Superior Tribunal de Justiça possui o entendimento de que, inadmitido o recurso especial em razão de divergência entre a pretensão recursal e sua jurisprudência, a parte recorrente deve, obrigatoriamente, apresentar julgados deste Tribunal contemporâneos ou supervenientes aos mencionados na decisão de admissibilidade, realizando o cotejo analítico entre eles. Ou, a depender do caso, pode ainda demonstrar que a questão tratada no processo em nada se assemelha àquelas citadas na decisão agravada.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO COMPULSÓRIO. ELETROBRÁS. JUROS REMUNERATÓRIOS E MORATÓRIOS. IMPUTAÇÃO DE PAGAMENTO. INADMISSÃO COM FUNDAMENTO NA SÚMULA 83 DO STJ. AUSÊNCIA DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR. NECESSIDADE DE REEXAME PROBATÓRIO. INADMISSIBILIDADE.
+ ..
+2. Na hipótese em que o recurso especial não é admitido com apoio na Súmula 83 do STJ, na impugnação recursal, devem-se apontar julgados deste Tribunal Superior contemporâneos ou supervenientes em sentido contrário aos precedentes indicados na decisão de inadmissão, ou indicar a distinção entre os casos julgados. Precedentes.
+3. No caso dos autos, o julgado da Segunda Turma invocado para a inadmissão do especial externa que "a parcela referente aos juros remuneratórios reflexos, inconfundível com os juros moratórios, compõe o principal do débito exequendo, de modo a ensejar, na imputação de pagamento, a aplicação do art. 354 do CC/2002" (REsp n. 1.810.639/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/6/2020, DJe de 18/9/2020), mas a parte recorrente não aponta nenhum precedente que, tratando da mesma situação fático-jurídica, tenha chegado à outra conclusão.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, a empresa agravante não infirma especificamente a tese de que o acórdão recorrido estaria em consonância com o entendimento deste STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. Incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos referidos na decisão combatida, procedendo ao cotejo analítico entre eles.
+4. O disposto nos arts. 932, parágrafo único, e 1.029, § 3º, do Código de Processo Civil de 2015 não é aplicável na hipótese de incidência da Súmula 182 do Superior Tribunal de Justiça. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.112.333/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 21/3/2019, DJe de 28/3/2019.)
+No mesmo sentido, entre outros: AgInt nos EDcl no AREsp 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023; AgInt no AREsp 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt nos EDcl no AREsp 2.271.129/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp 1.902.574/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.
+Nesse contexto, em razão de o agravo não superar o juízo de admissibilidade, incide no presente caso, a impedir seu conhecimento, o óbice da Súmula 182/STJ, aplicável por analogia.
+Sobre a alegação de usurpação de competência do STJ, por ter o Tribunal local supostamente adentrado o mérito da controvérsia, conforme tem reiteradamente decidido esta Corte, "é possível o juízo de admissibilidade adentrar o mérito do recurso, visto que o exame da sua admissibilidade, pela alínea a, tendo em vista os seus pressupostos constitucionais, envolve o próprio mérito da controvérsia" (AgRg no Ag 173.195/SP, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, Quarta Turma, DJe 21.9.1998).
+Esse entendimento, aliás, foi cristalizado na Súmula 123 do STJ: " A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ANÁLISE DO MÉRITO DO APELO NOBRE QUANDO DO EXAME DE ADMISSIBILIDADE PELA CORTE DE ORIGEM. POSSIBILIDADE. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há usurpação da competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, uma vez que constitui atribuição do Tribunal a quo o exame dos pressupostos específicos do apelo nobre relacionados ao mérito da controvérsia, nos termos da Súmula n. 123 desta Corte Superior de Justiça.
+2. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento relativo à ausência de nulidade decorrente da falta de procuração em primeira instância (Súmula n. 115/STJ, a contrario sensu). Incidência da Súmula n. 182/STJ.
+3. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade 4. Diante da ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.032.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXISTÊNCIA. SÚMULA N. 123 DO STJ. ART. 619 DO CPP. VIOLAÇÃO. NÃO OCORRÊNCIA. EXASPERAÇÃO DA PENA-BASE. UTILIZAÇÃO DE UMA CIRCUNSTÂNCIA JUDICIAL NEGATIVA. FRAÇÃO DE 1/3. REDUÇÃO. CABIMENTO. AGRAVO REGIMENTAL CONHECIDO. PROVIMENTO DO RECURSO ESPECIAL.
+1. Afasta-se a alegação de usurpação de competência do Superior Tribunal de Justiça se o tribunal a quo, ao exercer o juízo de admissibilidade do recurso especial, examina tangencialmente o mérito para concluir pela inviabilidade recursal.
+2. Não ocorre violação do art. 619 do Código de Processo Penal quando o acórdão recorrido decide expressamente a questão objeto do recurso especial.
+3. A exasperação da pena-base na fração de 1/6 para cada circunstância judicial negativa atende os princípios da razoabilidade e da proporcionalidade.
+4. Agravo regimental conhecido para dar provimento ao recurso especial.
+(AgRg no AREsp n. 1.893.552/GO, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+Dessa feita, ao contrário do afirmado pela parte agravante, a alegação de suposta usurpação de competência desta Corte, por si só, não é suficiente para cumprir com o dever de impugnação aos fundamentos de inadmissibilidade do recurso especial.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
