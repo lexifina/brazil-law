@@ -1,0 +1,93 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5001760-05.2023.8.08.0062
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: OLINDA PERLA PULLIG VALLADAO
+RECORRIDO: NU PAGAMENTOS S.A.
+RELATOR(A):
+DOUGLAS DEMONER FIGUEIREDO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+EMENTA. RECURSO INOMINADO – JUIZADO ESPECIAL CÍVEL –– TRANSAÇÃO REALIZADA COM USO DE CARTÃO COM CHIP – NÃO CONFIGURADA FALHA NA PRESTAÇÃO DO SERVIÇO – CULPA EXCLUSIVA DA VÍTIMA – SENTENÇA MANTIDA.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer em parte o recurso, e, nesta parte, negar-lhe provimento, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 5ª Turma Recursal - Gabinete 1
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+PROCESSO Nº 5001760-05.2023.8.08.0062
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: OLINDA PERLA PULLIG VALLADAO
+RECORRIDO: NU PAGAMENTOS S.A.
+
+VOTO
+
+DR. DOUGLAS DEMONER FIGUEIREDO - RELATOR
+
+Conheço do recurso, eis que se encontram preenchidos os requisitos de admissibilidade, recebendo-o, apenas, em seu efeito devolutivo, eis que ausentes quaisquer das hipóteses que justifiquem a concessão do efeito suspensivo previsto no art. 43 da lei nº 9.099/95.
+
+EMENTA. RECURSO INOMINADO – JUIZADO ESPECIAL CÍVEL –– TRANSAÇÃO REALIZADA COM USO DE CARTÃO COM CHIP – NÃO CONFIGURADA FALHA NA PRESTAÇÃO DO SERVIÇO – CULPA EXCLUSIVA DA VÍTIMA – SENTENÇA MANTIDA. (1). TESE AUTORAL
+. TRATA-SE DE
+“AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, C/C RESTITUIÇÃO DE VALORES PAGOS C/C DANOS MORAIS”
+AJUIZADA POR
+OLINDA PERLA PULLING VALLADÃO
+EM DESFAVOR DE
+NU PAGAMENTOS S/A
+. ADUZIU A REQUERENTE TER SIDO SURPREENDIDA COM UMA COMPRA EM SEU CARTÃO DE CRÉDITO, NO VALOR DE R$ 907,41, DATADA DE 15/04/2023. ALEGOU QUE FEZ O REGISTRO FORMAL DE IMPUGNAÇÃO, TODAVIA, A REQUERIDA INFORMOU QUE NÃO PODERIA REEMBOLSAR A COMPRA, VISTO QUE REALIZADA ATRAVÉS DO CARTÃO FÍSICO MEDIANTE SENHA PESSOAL, TENDO O ESTABELECIMENTO ENDEREÇO À RUA MONTE BELO, CRUZEIRO DO SUL, CARIACICA, ES. ARGUMENTOU QUE NO DIA DA OCORRÊNCIA, POUCO TEMPO ANTES DA COMPRA QUESTIONADA, UTILIZOU O CARTÃO EM ITAIPAVA E PIÚMA, O QUE, EM RAZÃO DA DISTÂNCIA ENTRE AS LOCALIDADES, ROBUSTECE A FRAUDE. RELATOU, AINDA, QUE NÃO PERDEU O CARTÃO E TAMPOUCO LHE EMPRESTOU PARA TERCEIRA PESSOA. INFORMOU QUE PAGOU O VALOR DA COMPRA, PARA NÃO HAVER INCIDÊNCIA DE JUROS, BEM COMO QUE CANCELOU O CARTÃO. REQUEREU, AO FINAL, A RESTITUIÇÃO EM DOBRO DO VALOR DA COMPRA, BEM COMO INDENIZAÇÃO POR DANOS MORAIS, ESTES ESTIMADOS EM R$ 5.000,00.
+(2) ANTÍTESE
+. EM SEDE DE CONTESTAÇÃO, O REQUERIDO ALEGOU, PRELIMINARMENTE, ILEGITIMIDADE PASSIVA, PORQUANTO SERIA APENAS O RESPONSÁVEL PELA ADMINISTRAÇÃO DO CARTÃO. NO MÉRITO, DEFENDEU QUE A TRANSAÇÃO IMPUGNADA FOI REALIZADA VIA CARTÃO FÍSICO E MEDIANTE SENHA PESSOAL, INEXISTINDO QUALQUER DEFEITO NO SERVIÇO PRESTADO.
+(3) DISPOSITIVO DA SENTENÇA
+.
+“(...)Diante do exposto, com base no art. 487, inc. I, do CPC,
+JULGO IMPROCEDENTE
+a pretensão exordial. (...)”.
+
+(4) RECURSO INOMINADO INTERPOSTO PELA AUTORA.
+EM SUMA, A RECORRENTE RENOVA OS FUNDAMENTOS APRESENTADOS NA INICIAL.
+(5) CONTRARRAZÕES
+. PUGNOU-SE PELA MANUTENÇÃO DA SENTENÇA PROFERIDA.
+(6) GRATUIDADE PLEITEADA PELOS RECORRENTE.
+A JURISPRUDÊNCIA DO C. SUPERIOR TRIBUNAL DE JUSTIÇA É FIRME EM ORIENTAR QUE A SIMPLES DECLARAÇÃO DE POBREZA POSSUI PRESUNÇÃO LEGAL
+JURIS TANTUM
+, DE FORMA QUE BASTA O SIMPLES REQUERIMENTO PARA A CONCESSÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA, SEM, POR ÓBVIO E CONTUDO, QUE SE IMPEÇA O INDEFERIMENTO DO PLEITO, MORMENTE QUANDO O MAGISTRADO SE CONVENCER, COM BASE NOS ELEMENTOS DOS AUTOS, DE QUE NÃO SE TRATA DE HIPÓTESE DE MISERABILIDADE JURÍDICA (AGINT NO ARESP N. 1.716.192/SC, RELATOR MINISTRO RAUL ARAÚJO, QUARTA TURMA, JULGADO EM 30/11/2020, DJE 18/12/2020). NO CASO DOS AUTOS, NOTA-SE QUE INEXISTEM ELEMENTOS A EVIDENCIAR A FALTA DOS PRESSUPOSTOS LEGAIS PARA A CONCESSÃO DA GRATUIDADE. DEFIRO.
+(7) MÉRITO RECURSAL.
+EM QUE PESE AS ALEGAÇÕES DO RECORRENTE, ENTENDO QUE A SENTENÇA DEVE SER MANTIDA. NO MÉRITO, DESTACO QUE SE APLICAM À PRESENTE DEMANDA AS DISPOSIÇÕES ESTABELECIDAS PELO CÓDIGO DE DEFESA DO CONSUMIDOR, PORQUANTO AS PARTES SE ENQUADRAM PERFEITAMENTE NOS CONCEITOS EXARADOS PELOS ARTS. 2º E 3º DO REFERIDO DIPLOMA. TRATANDO-SE DE RELAÇÃO DE CONSUMO, IMPENDE DESTACAR QUE TODOS INTEGRANTES DA CADEIA DE FORNECIMENTO DE SERVIÇOS RESPONDEM PELOS VÍCIOS PORVENTURA PRESENTES DE FORMA OBJETIVA.
+OUTROSSIM,
+DE ACORDO COM O CÓDIGO DE DEFESA DO CONSUMIDOR, O FORNECEDOR DE PRODUTOS OU SERVIÇOS POSSUI RESPONSABILIDADE OBJETIVA (ARTS. 12 E 14), OU SEJA, DEVE RESPONDER POR PREJUÍZOS CAUSADOS A TERCEIROS INDEPENDENTEMENTE DA EXISTÊNCIA DE CULPA. ASSIM, EM CASO DE REPARAÇÃO DE DANO, CABE AO CONSUMIDOR DEMONSTRAR O DEFEITO DO PRODUTO OU SERVIÇO, O PREJUÍZO SOFRIDO E O NEXO DE CAUSALIDADE ENTRE ELES.
+POIS BEM. APÓS ANÁLISE DETIDA DO CADERNO PROCESSUAL, VEJO QUE O RECORRIDO COMPROVOU QUE A TRANSAÇÃO CONTESTADA FOI REALIZADA COM APRESENTAÇÃO FÍSICA DO CARTÃO E MEDIANTE SENHA PESSOAL DO CORRENTISTA. DESSE MODO, DE ACORDO COM O ENTENDIMENTO FIRMADO PELO PRÓPRIO C. STJ, NÃO HÁ DE SE FALAR EM FALHA NA PRESTAÇÃO DE SERVIÇO DA INSTITUIÇÃO FINANCEIRA. VEJAMOS:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR SAQUES IRREGULARES EM CONTA CORRENTE. TRANSAÇÕES REALIZADAS COM USO DE CARTÃO COM CHIP E SENHA PESSOAL DO CORRENTISTA. DISSÍDIO JURISPRUDENCIAL CONFIGURADO. 1
+. De acordo com a jurisprudência do Superior Tribunal de Justiça, não há como atribuir responsabilidade à instituição financeira em caso de transações realizadas com a apresentação do cartão físico com chip e a pessoal do correntista, sem indícios de fraude. 2. O cartão magnético e a respectiva senha são de uso exclusivo do correntista, que deve tomar as devidas cautelas para impedir que terceiros tenham acesso a eles. 3. Tendo a instituição financeira demonstrado, no caso, que as transações contestadas foram feitas com o cartão físico dotado de chip e o uso de senha pessoal do correntista, passa a ser dele o ônus de comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega do dinheiro.
+4. Recurso especial provido.
+(REsp n. 1.898.812/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/8/2023, DJe de 1/9/2023). No mesmo sentido se dá a jurisprudência:
+EMENTA: APELAÇÃO - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - TRANSFERÊNCIA VIA PIX - ALEGAÇÃO DE FRAUDE - TRANSAÇÃO REALIZADA MEDIANTE SENHA PESSOAL E TOKEN - CULPA EXCLUSIVA DA VÍTIMA - FALHA NA PRESTAÇÃO DE SERVIÇOS - INOCORRÊNCIA. -
+A utilização dos serviços fornecidos pelo Banco, por meio de aparelhos eletrônicos (celular ou computador), ou de plástico (com chip e utilização de senha), é privativa do consumidor titular do cartão. - A senha pessoal é de inteira responsabilidade do correntista ou do responsável pela movimentação bancária, não podendo a instituição financeira ser responsabilizada por seu uso indevido, pelo repasse dela ou até mesmo pela falta de zelo em deixá-la disponível a terceiros. - Ocorrida a transação por meio de aplicativo, mediante senha pessoal de uso pessoal e intransferível e validação por Token, não há se falar em falha na prestação de serviços do Apelado
+.
+(TJMG - Apelação Cível 1.0000.24.264986-1/001, Relator(a): Des.(a) Habib Felippe Jabour , 18ª CÂMARA CÍVEL, julgamento em 13/08/2024, publicação da súmula em 14/08/2024) (GRIFO NOSSO). DESSE MODO, TEM-SE QUE A SENHA PESSOAL É DE INTEIRA RESPONSABILIDADE DO CORRENTISTA OU DO RESPONSÁVEL PELA MOVIMENTAÇÃO BANCÁRIA, NÃO PODENDO A INSTITUIÇÃO FINANCEIRA SER RESPONSABILIZADA POR SEU USO INDEVIDO, PELO REPASSE DELA OU ATÉ MESMO PELA FALTA DE ZELO EM DEIXÁ-LA DISPONÍVEL A TERCEIROS. POR ESSAS RAZÕES, MANTENHO A SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS.
+(7).
+RECURSO CONHECIDO E IMPROVIDO
+. SENTENÇA DE PISO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NA FORMA DO ART. 46 DA LEI Nº 9.099/95. (8).
+POR FORÇA DA SUCUMBÊNCIA RECURSAL, CUSTAS PROCESSUAIS DEVIDAS, ASSIM COMO OS HONORÁRIOS ADVOCATÍCIOS, SENDO ESTES FIXADOS NO IMPORTE DE 20% SOBRE O VALOR DA CAUSA, OBSERVADO O DEFERIMENTO DA GRATUIDADE.
+
+ISABELA GONÇALVES ADRIANO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator
+DR. DOUGLAS DEMONER FIGUEIREDO
+– Nos termos da Resolução TJES nº 12/2020, HOMOLOGO a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
