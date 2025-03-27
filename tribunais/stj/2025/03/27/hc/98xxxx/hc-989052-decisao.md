@@ -1,0 +1,9 @@
+DECISÃO
+ARYSON DA CRUZ FERNANDES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 1.0000.24.403996-2/001, em que foi mantida a decisão "que indeferiu os pedidos comutação com base no Decreto n. 11.846/23 e de reconhecimento da continuidade delitiva entre as condenações por delitos de furto qualificado" (fl. 12).
+Assere a defesa que "próprio dispositivo legal expressamente autoriza o deferimento de nova comutação, mesmo quando o reeducando já tiver sido beneficiado anteriormente com o mesmo instituto" (fl. 6).
+Ao manter o decisum, salientou o Tribunal a quo que, "em que pesem os argumentos apresentados pelo agravante e o preenchimento dos requisitos objetivo e subjetivo para a concessão da comutação previstos no Decreto n. 11.846/23, exceto em relação à pena cumprida por crime impeditivo (autos n. 0004859-08.2020.8.13.0459), é inviável a concessão do benefício em razão do óbice expressamente previsto no art. 4º do referido ato normativo" (fl. 13).
+De fato, nos termos do parágrafo único do artigo 4º do Decreto n. 11.846/2023, " c oncede-se comutação às pessoas condenadas a pena privativa de liberdade que atendam aos requisitos estabelecidos neste Decreto e que não tenham, até 25 de dezembro de 2023, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior" (destaquei).
+Em conjuntura assemelhada, já salientou o Superior Tribunal de Justiça que "o paciente foi agraciado com a comutação da pena, com base nos decretos anteriores, dos anos de 2011 e 2012, relacionados às mesmas reprimendas, razão pela qual não restou preenchido o requisito objetivo" (AgRg no HC n. 763.863/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/2/2023.)
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
