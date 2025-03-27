@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por MASSA FALIDA DE COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DE PORTO ALEGRE - MUNICRED contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/11/2024.
+Concluso ao gabinete em: 20/03/2025.
+Ação: revisional de empréstimos consignados, ajuizada por ANGELA MARIA JARA DE MATTOS, em face da agravante.
+Sentença: julgou procedente o pedido, para: a) limitar os juros remuneratórios fixados nos contratos discutidos às taxas médias divulgadas pelo BACEN; b) determinar a descaracterização da mora da parte autora; c) determinar a repetição de indébito, de forma simples, dos valores pagos a maior pela demandante à instituição financeira requerida, autorizada a compensação.
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. EMPRÉSTIMO PESSOAL. PRELIMINAR CONTRARRECURSAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE. INOCORRÊNCIA. MÉRITO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA. ONEROSIDADE EXCESSIVA NO CASO CONCRETO. SUPERAÇÃO DA TAXA MÉDIA DO BACEN PARA ALÉM DA FAIXA RAZOÁVEL. INSTITUIÇÃO FINANCEIRA QUE NÃO APRESENTOU JUSTIFICATIVA INDIVIDUALIZADA PARA EXIGIR DA PARTE AUTORA, NO CASO CONCRETO, JUROS SUPERIORES À TAL PATAMAR. AUSÊNCIA DE INFORMAÇÕES MÍNIMAS, A CARGO DA PARTE DEMANDADA, QUANTO AO PERFIL DE RISCO DO TOMADOR E OUTROS DADOS INDIVIDUALIZADOS DA CONTRATAÇÃO QUE AO BANCO CUMPRIA INFORMAR. COMPENSAÇÃO. RESTITUIÇÃO DE VALORES. SENTENÇA MANTIDA.
+Recurso especial: alega violação do art. 373, I, do CPC, bem como dissídio jurisprudencial. Sustenta que: i) "o reconhecimento de uma relação contratual como sendo de consumo não gera a inversão de ônus de prova de maneira automática, sendo necessário atender aos requisitos previstos em lei, especialmente no que diz respeito à verossimilhança das alegações ou comprovação de hipossuficiência do autor"; ii) caberia à agravada comprovar que, com base nos diversos fatores mercadológicos, econômicos e financeiros, as taxas de juros contratadas causaram vantagem desproporcional à instituição financeira, o que não ocorreu; iii) "o simples cotejo entre a taxa pactuada e a taxa média de mercado publicada pelo Bacen não comprova a excessiva vantagem à instituição financeira, ou enseja a revisão contratual".
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 373, I, do CPC, indicado como violado, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à abusividade na cobrança de juros remuneratórios, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+O TJ/RS, ao concluir acerca dos juros remuneratórios, alinhou-se ao entendimento do STJ, firmado sob o rito dos recursos repetitivos, no sentido de que a taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil (REsp 1.061.530/RS, 2ª Seção, DJe de 10/3/2009).
+Além disso, o acórdão recorrido aplicou corretamente a jurisprudência do STJ no sentido de que, para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto (AgInt no AREsp n. 1.942.512/RS, 4ª Turma, DJe de 10/3/2022; AgInt no AREsp n.1.823.166/RS, 4ª Turma, DJe de 24/2/2022; AgInt no REsp n. 1.930.618/RS,3ª Turma, DJe de 27/4/2022; e AgInt no AREsp n. 1.643.166/SP, 3ª Turma, DJe de 27/11/2020).
+Na hipótese dos autos, o Tribunal de origem concluiu que a taxa de juros remuneratórios pactuada é muito superior à taxa média de mercado, caracterizando abusividade.
+Logo, o recurso especial não merece provimento.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.500,00 (e-STJ fl. 283) para R$ 2.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE EMPRÉSTIMOS CONSIGNADOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. JUROS REMUNERATÓRIOS. ABUSIVIDADE CARACTERIZADA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação revisional de empréstimos consignados.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado. Precedente Repetitivo da 2ª Seção.
+5. Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto. Precedentes.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
