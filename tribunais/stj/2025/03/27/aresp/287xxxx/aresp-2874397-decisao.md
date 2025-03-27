@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo MUNICIPIO DE PENEDO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim resumido:
+CIVIL E PROCESSUAL CIVIL. APELAÇÕES EM AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, MATERIAIS E ESTÉTICOS DECORRENTE DE ATO ILÍCITO, COM PEDIDO DE LIMINAR. PASSAGEIRA DE ÔNIBUS VÍTIMA DE ACIDENTE AO DESCER DO COLETIVO. SENTENÇA DE PROCEDÊNCIA PARCIAL QUE CONDENOU OS DEMANDADOS A INDENIZAR A DEMANDANTE O DANO MORAL SOFRIDO. PEDIDO, REQUERIDO PELA TRANSCOPE, DE CONCESSÃO DE BENEFÍCIO DA JUSTIÇA GRATUITA. NÃO ACOLHIDO. ENTIDADE SEM FINS LUCRATIVOS - OBRIGATORIEDADE DE COMPROVAÇÃO DA NECESSIDADE. AUSÊNCIA DE PROVAS DE INSUFICIÊNCIA DE RECURSOS. PRELIMINAR, ARGUIDA PELO MUNICÍPIO DE PENEDO NAS SUAS RAZÕES RECURSAIS, DE NULIDADE DA PROVA TESTEMUNHAL, EM VISTA DA SUSPEIÇÃO DA TESTEMUNHA E ARROLAMENTO A DESTEMPO, OFENDENDO AO DEVIDO PROCESSO LEGAL. PRELIMINAR NÃO ACOLHIDA. AUSÊNCIA DE FATO CONCRETO QUE COMPROVASSE O INTERESSE DA TESTEMUNHA NO JULGAMENTO DO FEITO OU A EXISTÊNCIA DE AMIZADE ÍNTIMA PARA COM A VÍTIMA A PONTO DE DESVIRTUAR A VERDADE. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO ADIADA. GARANTIA DO CONTRADITÓRIO ASSEGURADA. JUIZ QUE DEFERIU A OITIVA DA TESTEMUNHA POR ACHAR IMPRESCINDÍVEL PARA BUSCA DA VERDADE REAL. PRINCÍPIO DO LIVRE CONVENCIMENTO. MÉRITO: OBRIGAÇÃO DE INDENIZAR RECONHECIDA. É DE RIGOR RECONHECER QUE A SITUAÇÃO NARRADA ULTRAPASSOU O MERO DISSABOR SOCIALMENTE ACEITÁVEL, SOBRETUDO PORQUE SUJEITOU A AUTORA, ORA APELADA, À LESÃO FÍSICA, À CONDUÇÃO HOSPITALAR, CIRURGIA, ACARRETANDO PREJUÍZO DE ORDEM FÍSICA E PSICOLÓGICA. VALOR INDENIZATÓRIO REDUZIDO PARA R$ 8.000,00 (OITO MIL REAIS). SENTENÇA ALTERADA NO PONTO TRAZIDO PELO MUNICÍPIO DE PENEDO/AL. FIXAÇÃO, DE OFÍCIO, DOS CONSECTÁRIOS LEGAIS. APELAÇÃO DO PRIMEIRO DEMANDADO CONHECIDA E NÃO PROVIDA. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA, POR FORÇA DO ART. 85, § 11, DO CPC. APELAÇÃO DO SEGUNDO DEMANDADO CONHECIDA E PARCIALMENTE PROVIDA. DECISÃO UNÂNIME.
+Quanto à controvérsia, a parte recorrente aduz, além de divergência jurisprudencial, ofensa ao art. 86, parágrafo único, do Código de Processo Civil. Sustenta que ficou sucumbente em parte mínima dos pedidos formulados pela parte demandante, devendo esta responder, por inteiro, pelas despesas processuais e pelos honorários, trazendo a seguinte argumentação:
+É cediço que, nas hipóteses em que o litigante decai em parte mínima do pedido, incumbe a outra parte responder, por inteiro, pelas despesas e honorários advocatícios, conforme expressa disposição do art. 86, parágrafo único, do Código de Processo C ivil. In verbis:
+ ..
+Pois bem.
+No caso em tela, levando-se em consideração os vários pleitos indenizatórios requeridos pela autora/recorrida, verifica-se que o município recorrente sucumbiu em parte mínima dos pedidos e, sendo assim, os ônus sucumbenciais devem recair exclusivamente sobre a parte recorrida, por força da regra insculpida no dispositivo processual acima citado.
+A parte recorrida formulou os seguintes pleitos:
+i) R$ 15.000,00 (quinze mil reais) referentes à indenização por danos
+patrimoniais - IMPROCEDENTE;
+ii) R$ 80.000,00 (oitenta mil reais) referentes à indenização pelo dano
+estético - IMPROCEDENTE;
+iii) R$ 5.000,00 (cinco mil reais) referentes à indenização pelos lucros
+cessantes e danos emergentes - IMPROCEDENTE;
+iv) R$ 900.000,00 (novecentos mil reais) referentes à indenização pelos
+danos morais - procedente em parte mínima na 1ª instância com condenação em RS 20.000,00 (vinte mil reais) e, em sede de recurso, o Eg. Tribunal acolheu o pleito formulado pelo município de Penedo, determinando a fixação da referida indenização no montante de R$ 8.000,00 (oito mil reais), valor correspondente a menos de 1% da quantia pleiteada.
+Ou seja, de um total de quatro pedidos indenizatórios, que resultam no montante de R$ 1.000.000,00 (um milhão de reais), a parte autora/recorrida sucumbiu integralmente em três deles, e teve procedência parcial, em proporção mínima, em apenas um dos pedidos, sendo deferido, tão somente, o quantum de R$ 8.000,00 (oito mil reais).
+Desse modo, evidencia-se que a recorrida decaiu quase que na integralidade dos seus pleitos e, nos termos do parágrafo único do art. 86 do CPC, "se um litigante sucumbir em parte mínima do pedido, o outro responderá, por inteiro, pelas despesas epelos honorários".
+Corroborando com a questão ora aventada, traz-se à baila entendimento sedimentado por este Eg. Superior Tribunal de Justiça:
+ ..
+Por fim, ainda que não se admitisse que o ente municipal recorrente sucumbiu em parte mínima do pedido, em mero amor ao debate, tem-se a regra imperiosa do caput do citado art. 86. Veja-se:
+Art. 86. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas.
+Assim, uma vez evidenciado o município recorrente sucumbiu em parcela mínima dos pedidos da parte autora, ora recorrida, deve-se atribuir a esta parte, com fulcro no art. 86, § único, do CPC, a integralidade da responsabilidade pelos encargos sucumbenciais.
+Logo, em virtude das razões acima expostas, requer-se a imediata reforma do acórdão recorrido, a fim de que a parle recorrida seja condenada ao pagamento das custas judiciais e honorários advocatícios, nos termos do art. 86, § único, do CPC (fls. 422-425).
+É o relatório.
+Decido.
+Quanto à controvérsia, incide a Súmula n. 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, Rel. Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19.10.2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, Rel. Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29.8.2005; AgInt no AREsp n. 1.264.021/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º.3.2019; AgInt no AREsp n. 953.171/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 23.8.2022; AgInt no AREsp n. 1.506.939/MS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.8.2022; AgRg no AREsp 1.647.409/SC, Rel. Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º.7.2020; AgRg no REsp n. 1.850.296/PR, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 18.12.2020; AgRg no REsp n. 2.004.417/MT, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
