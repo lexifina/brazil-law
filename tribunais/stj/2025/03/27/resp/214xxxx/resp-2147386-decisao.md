@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIO JORGE SARAIVA PINTO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 990):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECLAMAÇÃO. INDEFERIMENTO LIMINAR. AGRAVO INTERNO. AUSÊNCIA DE ORDEM DE SUSPENSÃO DOS PROCESSOS PARALELOS ANTERIORMENTE À PROLAÇÃO DO ACÓRDÃO PROFERIDO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 9 (PROCESSO Nº 5050013-65.2020.4.04.0000/RS). CARÁTER RECURSAL. INADMISSIBILIDADE DA RECLAMAÇÃO.
+1. Agravo interno interposto contra decisão que inadmitiu a reclamação proposta com o objetivo de garantir a autoridade da decisão proferida no Incidente de Assunção de Competência nº 9 (processo nº 5050013-65.2020.4.04.0000/RS) em face de julgamento de agravo de instrumento que manteve a decisão interlocutória que reduziu de ofício o valor da causa originária para, então, declinar da competência da Justiça Comum para o Juizado Especial Federal.
+2. Sendo o acórdão reclamado anterior ao julgamento do Incidente de Assunção de Competência nº 9, no qual não houve determinação de suspensão pelo Relator originário dos processos paralelos que discutiam a matéria, inexistia precedente proferido em incidente de assunção de competência ao qual se devesse observância quando julgado o agravo de instrumento.
+3. Outrossim, verifica-se que o acórdão reclamado foi atacado por recurso especial e, posteriormente, por agravo em recurso especial. Ou seja, houve recurso pendente para discutir a mesma matéria que deu origem à presente reclamação. Nessa hipótese, o Superior Tribunal de Justiça tem vedado reclamações, já que caracterizada, de modo inequívoco, a tentativa de atribuir à ação caráter recursal.
+4. Agravo interno a que se nega provimento em face da inadmissibilidade da reclamação.
+Em suas razões recursais, a parte recorrente aponta ofensa aos arts. 988, IV, do Código de Processo Civil (CPC), ao argumento de que "o precedente oriundo do incidente de assunção de competência cuja observância é pretendida por meio da reclamação apresentada na origem foi proferido antes do trânsito em julgado do agravo de instrumento no qual foi proferida a decisão reclamada" (fl. 1.003).
+Não foram apresentadas contrarrazões (fl. 1.011).
+O recurso foi admitido na origem (fl. 1.014).
+É o relatório.
+Para o Superior Tribunal de Justiça, é inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. É o caso dos autos.
+No caso em exame, o Tribunal de origem indeferiu liminarmente a reclamação, diante da sua inadmissibilidade, fundamentando que (i) não se enquadraria nas hipóteses taxativas do art. 988 do Código de Processo Civil (CPC), que visam evitar seu uso como sucedâneo recursal; (ii) o julgamento do agravo de instrumento ocorreu antes do Incidente de Assunção de Competência 5050013-65.2020.4.04.0000/RS, não havendo, portanto, precedente vinculante a ser observado; (iii) não houve determinação de suspensão dos processos pelo relator do incidente, cabendo ao juízo da causa decidir sobre a conveniência de tal suspensão; (iv) a reclamação não pode substituir os recursos cabíveis, e, na ausência de precedente vinculante ou ordem expressa de suspensão, ela não é cabível; e (v) o acórdão reclamado foi atacado por recurso especial e agravo em recurso especial, caracterizando tentativa de atribuir à ação caráter recursal, o que é vedado pelo Superior Tribunal de Justiça (fls. 987/989).
+Contudo, em suas razões recursais, a parte recorrente limita-se a sustentar que "o precedente oriundo do incidente de assunção de competência cuja observância é pretendida por meio da reclamação apresentada na origem foi proferido antes do trânsito em julgado do agravo de instrumento no qual foi proferida a decisão reclamada" (fl. 1.003), estando, portanto, dissociadas das premissas jurídicas expostas pelo acórdão recorrido, pois não foram impugnados todos os fundamentos adotados pelo Tribunal de origem.
+Por essa razão, incidem no presente caso, por analogia, os enunciados 283 e 284 da Súmula do Supremo Tribunal Federal (STF), que estabelecem: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles " e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+A propósito, confiram-se os seguintes julgados desta Corte Superior:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . RAZÕES RECURSAIS DISSOCIADAS DO JULGADO. SÚMULA 284/STF.
+ ..
+3. É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+ ..
+7. Agravo interno conhecido parcialmente para, na parte conhecida, negar-se-lhe provimento.
+(AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 26/4/2021, DJe de 29/4/2021, sem destaques no original.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONVÊNIO. MODERNIZAÇÃO DA GUARDA MUNICIPAL. EXECUÇÃO. NÃO COMPROVAÇÃO. RESSARCIMENTO. MUNICÍPIO. INTIMAÇÃO ELETRÔNICA DA SENTENÇA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+ ..
+III - A jurisprudência do Superior Tribunal de Justiça, é firme no sentido de que se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo acórdão recorrido, o recurso especial é deficiente na sua fundamentação, o que atrai a aplicação por analogia da Súmula n. 284 do STF.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp n. 1.806.873/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/11/2020, DJe de 25/11/2020, sem destaques no original.)
+Em feito análogo ao presente assim já decidiu esta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECLAMAÇÃO AJUIZADA NA ORIGEM. INADMISSIBILIDADE. FUNDAMENTO SUFICIENTE PARA MANTER O JULGADO INATACADO. SÚMULA Nº 283/STF. RECURSO NÃO PROVIDO.
+1. Não infirmado fundamento suficiente, por si só, para manter o julgado recorrido, qual seja, o de que não se admite o ajuizamento de reclamação como sucedâneo recursal, tem incidência o enunciado nº 283/STF.
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.109.074/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 14/10/2024, DJe de 17/10/2024, sem destaques no original.)
+Na mesma linha, monocraticamente: (1) REsp 2.155.426/RS, relator Ministro Gurgel de Faria, DJe de 29/7/2024; (2) REsp 2.149.225/RS, relator Ministro Gurgel de Faria, DJe de 29/7/2024; (3) REsp 2.115.501/RS, relator Ministro Gurgel de Faria, DJe de 29/7/2024; (4) REsp 2.156.642/RS, relator Ministro Gurgel de Faria, DJe de 26/7/2024; (5) REsp 2.109.074/RS, relator Ministro Herman Benjamin, DJe de 7/5/2024.
+Outrossim, tendo o Tribunal de origem decidido que o julgado reclamado é anterior ao julgamento do julgado tido por descumprido, entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
