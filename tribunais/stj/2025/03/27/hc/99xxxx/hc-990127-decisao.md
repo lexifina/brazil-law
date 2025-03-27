@@ -1,0 +1,15 @@
+DECISÃO
+JULIANO GOMES DE LEMOS BRAZ alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, no Agravo em Execução n. 0019904-90.2024.8.27.2700.
+A defesa busca o restabelecimento da decisão que deferiu a progressão prisional ao paciente, independentemente da realização de exame criminológico.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência pacífica sobre o tema.
+Com a Lei n. 10.792/2023, o exame criminológico deixou de ser obrigatório para fins de progressão de regime, mas não foi proibido pelo legislador e subsistiu a possibilidade de sua determinação, desde que de forma fundamentada. Nesse sentido foram editadas a Súmula Vinculante n. 26 e a Súmula n. 439 do STJ.
+Somente após a Lei n. 14.843/2024, aplicável aos crimes praticados durante a sua vigência, o art. 112, § 1º, da LEP passou a dispor: "Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão".
+No caso, a defesa formulou, em favor do paciente, pedido de progressão ao regime semiaberto, que foi deferido pelo Juízo da execução. Entretanto, o referido benefício foi cassado pelo Tribunal estadual, que determinou a realização de exame criminológico para aferir a presença do requisito subjetivo, pois "com o advento da Lei 14.843/2024, a exigência do exame criminológico deixou de ser discricionária e passou a ser obrigatória" (fl. 83).
+Mencionou, ainda, que "as peculiaridades do caso em questão, assim como a natureza e o modo como o delito foi praticado, constituem elementos suficientemente robustos para justificar a necessidade de realização do exame criminológico" (fl. 84).
+Aplica-se ao caso a compreensão de que "a simples referência à gravidade abstrata do delito e à longevidade da pena, desvinculados de algum elemento concreto da execução da pena, são considerados insuficientes para fundamentar a exigência de exame criminológico, na linha da orientação jurisprudencial desta Corte. Precedentes do STJ" (AgRg no REsp n. 2.002.906/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022, grifei).
+O Tribunal estadual determinou o exame criminológico sem a indicação de fundamento idôneo, relacionado à execução penal, na medida em que indicou a imediata vigência da Lei n. 14.843/2024, a gravidade do delito e a longa pena a cumprir.
+A motivação não explica a dúvida sobre a falta de capacidade do apenado de ajustar-se, com autodisciplina e senso de responsabilidade, ao novo regime.
+À vista do exposto, concedo a ordem de habeas corpus, para cassar a determinação de exame criminológico, estabelecer a irretroatividade do art. 112, § 1º, da LEP ao caso concreto e, em consequência, restabelecer a decisão de origem, que concedeu ao paciente a progressão ao regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
