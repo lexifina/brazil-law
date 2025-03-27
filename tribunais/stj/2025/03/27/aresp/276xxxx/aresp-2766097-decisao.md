@@ -1,0 +1,33 @@
+DECISÃO
+E m análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT, contra o acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. TUTELA DE URGÊNCIA. PATRIMÔNIO HISTÓRICO. PATRIMÔNIO CULTURAL FERROVIÁRIO. IPHAN. TOMBAMENTO.
+1. Trata-se de ação civil pública ajuizada pelo Ministério Público Federal com vistas à preservação e restauração do imóvel conhecido como "Casa de Pernoite da Estação Ferroviária Uruguai", bem como à sua inclusão na Lista do Patrimônio Cultural Ferroviário, entre outras medidas
+requeridas à exordial, inclusive em sede de tutela de urgência.
+2. Da análise dos mencionados pareceres técnicos, observo que, embora a edificação ainda não tenha sido incluída definitivamente na Lista do Patrimônio Cultural Ferroviário, resta suficientemente demonstrada a probabilidade do direito, pressuposto da antecipação da tutela pleiteada, materializada na constatação técnica preliminar de que "a edificação possui inegável valor cultural".
+3. O perigo de dano é patente, observado o estado do imóvel em fotografias acostadas ao Inquérito Civil e à exordial do presente recurso, restando suficientemente demonstrada a urgência de providências voltadas à manutenção/recuperação do patrimônio público longamente negligenciado, bem como à conclusão do procedimento administrativo de inclusão do imóvel na Lista do Patrimônio Cultural Ferroviário.
+4. É dizer, sendo dever do Poder Público como um todo a preservação do patrimônio histórico-cultural brasileiro, por diversas formas de acautelamento e preservação, entendo que o múnus da execução das medidas ora determinadas recai sobre os órgãos inseridos no polo passivo,.
+Os embargos de declaração de fls. 131-137 foram providos, sem efeitos infringentes, apenas para suprimir do voto matéria estranha à lide.
+Em seu recurso especial, a parte agravante alegou violação do art. 1022, II, 489, II, § 1º, IV, do CPC; 2º, II, 8º, I, II, III e IV, e 22 da Lei 11.483/2007; e 82, XVII, da Lei 10.233/2001, o que não foi admitido, por ausência de vício de fundamentação e por aplicação da Súmula 7/STJ.
+Em suas razões de agravo, a parte recorrente sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Alega que "não discute os fatos, mas sim a imputação de responsabilidade sobre bens não operacionais herdados da RFFSA" (fl. 245). Diz também que a pretensão recursal se harmoniza com a jurisprudência do STJ, bem como houve omissão sobre questão relevante.
+Contraminuta apresentada (fls. 255-275).
+É o relatório.
+Passo a decidir.
+De início, observo que a parte recorrente discute a legitimidade para suportar os efeitos da decisão liminar deferida. Nesse sentido, debate requisito de concessão da medida, razão pela qual rejeito a pretensão do recorrido de aplicação da Súmula 735 do STF.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TUTELA DE URGÊNCIA. INDISPONIBILIDADE DE BENS. IMPROBIDADE ADMINISTRATIVA. SÚMULA 735 DO STF. SUPERAÇÃO. ALTERAÇÃO LEGISLATIVA. APLICAÇÃO IMEDIATA.
+1. O STJ vem mitigando a aplicação da Súmula 735 do STF nas hipóteses em que a concessão da medida liminar e o deferimento da antecipação de tutela caracterizar ofensa direta à lei federal que o regulamenta, desde que dispense a interpretação das normas concernentes ao mérito da causa. (AgInt no AREsp 1.112.803/SP, rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 28/04/2021).
+2. No caso presente, a discussão trazida a esta Corte versa a respeito da presença, ou não, dos requisitos para a concessão da medida cautelar de indisponibilidade de bens no bojo de ação de improbidade administrativa, não sendo a hipótese de aplicação do óbice constante da Súmula 735 do STF.
+3. A nova redação da Lei n. 8.429/1992, dada pela Lei n. 14.230/2021, passou a exigir a demonstração do requisito da urgência, além da plausibilidade do direito invocado, para o deferimento da indisponibilidade de bens em sede de ação de improbidade administrativa.
+4. Por possuir natureza de tutela provisória de urgência cautelar, podendo ser revogada ou modificada a qualquer tempo, a decisão de indisponibilidade de bens reveste-se de caráter processual, de modo que, por força do art. 14 do CPC/2015, a norma mencionada deve ter aplicação imediata ao processo em curso.
+5. No caso, o acórdão impugnado, a despeito de ter sido prolatado anteriormente à edição do novo diploma legal, consignou a necessidade da demonstração do requisito da urgência, na linha adotada pela Lei n. 14.230/2021.
+6. Agravo interno parcialmente provido (AgInt no AREsp n. 2.272.508/RN, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 6/2/2024, DJe de 21/3/2024).
+Quanto à alegação de deficiência da prestação jurisdicional, sobressai claramente do acórdão vergastado que, na ausência de definição quanto ao valor artístico, histórico e cultural do bem objeto da lide, remanesce ao DNIT, na qualidade de proprietário, a responsabilidade de conservação.
+Nesse cenário, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+Ademais, a consideração da natureza operacional ou de reserva técnica passa necessariamente pelo exame da prova havida nos autos. Nesse contexto, a alteração da conclusão do Tribunal a quo, acerca legitimidade do DNIT, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+ EMENTA
