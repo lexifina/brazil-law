@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FERNANDO DE ALMEIDA DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 6 anos de reclusão no regime fechado, mais 600 dias-multa, como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006.
+A defesa alega que o paciente estaria sendo submetido a constrangimento ilegal, apontando a existência de excesso de prazo para o julgamento da apelação.
+Sustenta que a manutenção da prisão preventiva é injustificada e afronta os princípios da razoabilidade e da proporcionalidade, além de não haver complexidade no caso que justifique a morosidade.
+Afirma que o paciente é réu primário, de bons antecedentes, e que o Juiz de primeiro grau não fundamentou adequadamente a negativa do direito de apelar em liberdade.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, com a substituição por medidas cautelares diversas.
+Por meio da decisão de fls. 64-65, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 70-102), bem como a manifestação do Ministério Público Federal, opinando pela concessão parcial da ordem (fls. 105-113).
+É o relatório.
+A prisão cautelar não possui um prazo determinado por lei, devendo sua manutenção obedecer a critérios verificados judicialmente conforme os parâmetros fático-processuais de cada caso, como a quantidade de crimes, a pluralidade de réus, o número de defensores envolvidos e, em alguns casos, a própria conduta adotada pela defesa.
+Por isso, o eventual reconhecimento da ilegalidade da prisão por excesso de prazo não decorre da mera aplicação de critério matemático, exigindo a prevenção de eventual retardamento demasiado e injustificado da prestação jurisdicional.
+Esse é o sentido da pacífica jurisprudência do Superior Tribunal de Justiça. A esse respeito, confiram-se os seguintes julgados: AgRg no RHC n. 187.959/CE, de minha relatoria, Sexta Turma, julgado em 30/9/2024, DJe de 3/10/2024; HC n. 876.102/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/9/2024, DJe de 27/9/2024; e HC n. 610.097/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 27/04/2021, DJe de 30/04/2021.
+Ao prestar informações a esta Corte Superior de Justiça, o Desembargador Presidente da Seção Criminal consignou que (fls. 71-72):
+ ..  Os autos da apelação criminal deram entrada nesta Casa aos 05 de abril de 2024 e, distribuídos ao Desembargador Miguel Marques e Silva, foi colhido o parecer da Procuradoria Geral de Justiça, sendo conclusos para estudo.
+Em 22 de julho seguinte, em virtude de permuta deferida, a relatoria foi transferida para o Desembargador Amaro Thomé, com quem o feito está concluso.
+No caso, o paciente foi condenado a uma pena total de 6 anos de reclusão, com a sentença condenatória proferida em 9/2/2024. Assim, não se revela irrazoável, nem se configura excesso de prazo, o tempo decorrido para o julgamento da apelação criminal, tendo em vista o intervalo de aproximadamente 10 meses desde a sua interposição.
+Vale assinalar que, apesar de a legislação processual não fixar prazo para o julgamento de apelação criminal, a jurisprudência do Superior Tribunal de Justiça estabelece que a análise do excesso de prazo deve considerar a pena aplicada na sentença condenatória. Sobre o tema: AgRg no HC n. 883.271/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024; e AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO PARA O JULGAMENTO DO APELO. NÃO CONFIGURADO. PRISÃO PREVENTIVA. GRAVIDADE DO FATO. GARANTIA DA ORDEM PÚBLICA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que as penas impostas na sentença condenatória devem ser consideradas para fins de análise de suposto excesso de prazo no processamento da apelação. No caso, levando-se em conta a pena total imposta ao agravante (6 anos, 2 meses e 19 dias de reclusão), não se verifica, por ora, o excesso de prazo no julgamento do recurso.
+2. Na hipótese, após investigação no bojo da "Operação Turfe", concluiu-se que o acusado integrou organização criminosa voltada para o tráfico transnacional de cocaína, em posição de destaque, sendo um dos líderes e corresponsável pela logística de importação da droga no Brasil e garantia a segurança dos negócios do grupo em território paraguaio. A jurisprudência pacífica do Supremo Tribunal Federal, seguida por esse Superior Tribunal de Justiça, entende-se que "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva".
+3. Agravo regimental não provido.
+(AgRg no HC n. 904.049/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/6/2024, DJe de 1/7/2024, grifo próprio.)
+Ademais, em consulta processual ao Tribunal de origem, verifica-se que houve inclusão do processo em pauta de julgamento 25/2/2025.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO CAUTELAR. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. DECURSO DE TEMPO COMPATÍVEL COM OS PARÂMETROS FÁTICO-PROCESSUAIS. ORDEM DENEGADA.
