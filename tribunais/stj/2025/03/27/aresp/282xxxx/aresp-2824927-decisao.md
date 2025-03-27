@@ -1,0 +1,18 @@
+DECISÃO
+Em análise, recurso especial interposto em face de acórdão assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DO ISS, PIS E COFINS DA BASE DE CÁLCULO DO IRPJ E CSLL. REGIME LUCRO PRESUMIDO. APLICAÇÃO DO RE 574.706/PR. ANALOGIA. IMPOSSIBILIDADE. REMESSA NECESSÁRIA E APELAÇÃO PROVIDAS.
+- Merece reforma a sentença concessiva da segurança permitindo a exclusão do ISS, do PIS e da COFINS da base de cálculo do e da apurados pelo lucro presumido IRPJ CSLL
+- As bases de cálculo do IRPJ e da CSLL, apurados pelo lucro presumido, têm por parâmetro a aplicação de determinado percentual sobre a receita bruta, e não sobre a receita líquida, conforme determina a legislação pertinente (art. 25 e 29 da Lei nº 9.430/96 e art. 20 da Lei n. 9.249/95).
+- A apuração do IRPJ e da CSLL pelo lucro presumido é uma faculdade do contribuinte, tendo o mesmo a opção de efetuar a apuração desses tributos pelo lucro real, situação em que pode deduzir como custos os impostos incidentes sobre as vendas. Ao optar pela referida tributação, se submete às deduções e presunções próprias do sistema.
+- Não se pode tolerar que empresa tributada pelo lucro presumido exija os benefícios da tributação pelo lucro real, mesclando os dois regimes.
+- O recente entendimento do STF sobre o descabimento da inclusão do ICMS na base de cálculo do PIS e da COFINS firmado no RE nº 574.706/PR não se aplica, por analogia, ao presente caso, já que a situação não é idêntica, pois o PIS e a COFINS possuem como base de cálculo o faturamento ou a receita (art. 2º da Lei nº 9.718/98), e o IRPJ/CSLL o lucro presumido (artigos 15 e 20 da Lei nº 9.249/95).
+- Não configurado o indébito fiscal, não há que se falar em compensação.
+- Remessa necessária e apelação providas. (fl. 633, grifo nosso).
+Com efeito, verifico que uma das controvérsias devolvidas ao conhecimento desta Corte Superior, mediante o recurso especial em epígrafe, foi afetada ao procedimento do art. 1.036 do Código de Processo Civil de 2015, no Tema 1312/STJ, cuja questão submetida a julgamento é: "definir se as contribuições PIS/COFINS compõem a base de cálculo do IRPJ/CSLL quando apurados na sistemática do lucro presumido."
+Nesse co ntexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, de acordo com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que, eventualmente, não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Isso posto, determino a devolução dos autos ao Tribunal de origem para que o recurso permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, esta decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§ 9º e 10, IV, do CPC, sendo que não será conhecido eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Intimem-se.
+EMENTA
