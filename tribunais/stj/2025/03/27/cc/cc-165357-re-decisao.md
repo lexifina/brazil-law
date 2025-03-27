@@ -1,0 +1,14 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 345-353) interposto contra acórdão no qual foi estabelecido que, considerando que, na origem, trata-se de ação de obrigação de fazer e cobrança, ajuizada pelo Sindicato dos Servidores da Socioeducação e Secretaria da Família e Desenvolvimento Social - PR em face do Estado do Paraná, visando o desconto e posterior repasse, ao autor, da contribuição sindical dos servidores da base territorial representada pelo referido Sindicato, compete à Justiça do Trabalho, e não à Justiça Comum Estadual, processar e julgar a causa.
+Às fls. 365-367 o recurso foi sobrestado em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral acerca da matéria no Tema n. 994 do STF.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 994 do STF, foram os autos encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fls. 373-378).
+O órgão julgador exerceu o juízo de retratação em acórdão assim ementado (fl. 406):
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SINDICAL DOS SERVIDORES PÚBLICOS ESTATUTÁRIOS. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. TESE FIRMADA PELO STF EM SEDE DE REPERCUSSÃO GERAL. EXERCÍCIO DO JUÍZO DE CONFORMAÇÃO PARA OBSERVÂNCIA DO TEMA N. 994/STF.
+1. Em atenção ao disposto no art. 1.040, II, do CPC/15, os autos foram devolvidos pela Vice-Presidência deste STJ para adequação do julgamento do presente conflito de competência ao entendimento firmado pelo STF no autos do RE RG nº 1.089.282/AM.
+2. Conforme a tese fixada pelo Supremo Tribunal Federal por ocasião do julgamento do Tema 994, compete à justiça comum processar e julgar as demandas em que se discute o recolhimento e o repasse de contribuição sindical de servidores públicos regidos pelo regime estatutário (RE nº 1.089.282/AM, Tribunal Pleno, Rel. Min. Gilmar Mendes, julgado em sessão virtual de 27.11.2020 a 4.12.2020).
+3. Acórdão reformado para, em juízo de conformação, declarar a competência da 2ª Vara da Fazenda Pública da Comarca de Curitiba para processar e julgar ação ordinária ajuizada por sindicato para assegurar o desconto e posterior repasse da contribuição sindical incidente sobre a remuneração dos servidores públicos estatutários que compõem a respectiva base territorial.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questõ es, fica prejudicado o recurso extraordinário de fls. 345-353, em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
