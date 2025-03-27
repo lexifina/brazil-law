@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, recurso especial interposto pelo ESTADO DO CEARÁ, com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo TJCE, assim ementado (fl. 302):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM APELAÇÃO CÍVEL. APELO DESPROVIDO. AUSÊNCIA DE AFRONTA ESPECÍFICA DO CONTEÚDO ESPOSADO NO DECISUM HOSTILIZADO. IRRESIGNAÇÃO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO RECORRIDA. ATO JUDICIAL QUE SE AMPAROU EM JURISPRUDÊNCIA PACÍFICA DESTE SODALÍCIO. AFRONTA AO PRINCÍPIO DA DIALETICIDADE. ÓBICE À PROLAÇÃO DE UM JUÍZO POSITIVO DE ADMISSIBILIDADE. APLICAÇÃO DA SÚMULA 43 DO TJCE. MANIFESTA INADMISSIBILIDADE DO AGRAVO CONSTATADA. RECURSO NÃO CONHECIDO.
+1. O cerne da questão cinge-se em averiguar a higidez da decisão monocrática promanada por esta Relatora que desproveu o Apelo interposto pelo Estado do Ceará.
+2. Hipótese em que a parte Agravante se limitou a copiar, ipsis litteris, os mesmos argumentos esposados em sede de apelação, o que demonstra o descuido e a ausência de afronta direta e específica para com a manifestação unipessoal recorrida.
+3. A decisão monocrática enfrentou, fundamentadamente, todos os pontos questionados, razão pela qual vislumbro simples recorrência de argumentos outrora elencados, o que atrai a aplicação da Súmula 43 do TJCE, assim editada: "não se conhece de recurso quando não é feita a exposição do direito e das razões dos pedidos de nova decisão".
+4. Assim, sem maiores digressões, considerando que o agravante deixou de infirmar frontalmente os fundamentos delineados na decisão agravada, há obstáculo à prolação de um juízo positivo de admissibilidade.
+5. Recurso não conhecido.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 489, IV e 1.022, II, do CPC, argumentando que o "acórdão não enfrentou os contornos fáticos e evidências no sentido de que a invalidez da autora só foi atestada em 2008, ao passo que o óbito do instituidor da pensão de deu no longínquo ano de 1987, se limitando a reproduzir trecho de atestado médico indicando que "Liduína Maria dos Santos está sob nossos cuidados desde 1984", mas não afirma que esta é inválida desde tal data (fl. 247).
+Proferido juízo positivo de admissibilidade, os autos foram remetidos ao STJ.
+É o relatório.
+Passo a decidir.
+No caso, não prospera a alegada violação dos arts. 489 e 1.022 do CPC/2015, isto porque o Tribunal de origem expôs de maneira clara e fundamentada os motivos pelos quais deveria ser reconhecida a invalidez da ora recorrida e o seu direito à pensão por morte.
+Confira-se, por oportuno, o seguinte excerto do acórdão recorrido:
+Desse modo, após análise dos documentos anexados aos autos, verifica-se que os atestados médicos comprovam que a autora era inválida antes do óbito de seu genitor, estando acometida por diversas doenças e sendo submetida a diversos tratamento médicos devido aos sérios problemas de saúde que enfrentava (fl.62-64).
+Cabe salientar ainda, que a Secretaria de Planejamento e Gestão SEPLAG, forneceu Laudo Médico Pericial, diagnosticando NEOPLÁSIA MALIGNA DO SISTEMA NERVOSO CENTRAL e INVÁLIDA total e permanente para atividades laborativas, não havendo dúvidas quanto a sua incapacidade e dependência do seu genitor (fl.94).
+Nesse prisma, importante frisar que nesse caso, é necessário apenas a comprovação da invalidez do dependente, pois, a Lei n. 10.776/82, vigente a época, não exigia a demonstração de dependência econômica, vindo este requisito somente ser exigido com a entrada em vigor da Lei Complementar n. 12 de 1999, após o falecimento do ex-servidor.
+Porquanto, é incontestável que a promovente preencheu todos os requisitos necessário para a concessão da pensão por morte, demonstrando sua invalidez, e embora a lei não solicitasse a comprovação da dependência econômica, observou-se nos autos um vasto acervo probatório que comprovam essa condição. Portanto, conclui-se que a requerente faz jus ao benefício (fls. 304/305, grifos acrescidos).
+Assim, não se constata a existência de vícios, revelando-se, na verdade, mero inconformismo da parte.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, nego provimento ao recurso especial. Sem condenação em honorários advocatícios recursais, em razão da ausência de liquidez da sentença, de forma que a majoração dos honorários advocatícios para remunerar o trabalho dispendido neste recurso deverá ser realizada pelo juízo da liquidação, com fundamento no art. 85, §§ 2º, 3º, e 11 do CPC, observada eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
