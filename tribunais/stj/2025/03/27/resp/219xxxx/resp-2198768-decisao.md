@@ -1,0 +1,28 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 405/412, in verbis:
+Cuidam os autos de recurso especial interposto por CLAUDIO ALBERTO DA SILVA , com arrimo no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao apelo por ele interposto, mantendo a sentença que condenou o referido acusado como incurso nas sanções do art. 157, caput, do CP, aplicando-lhe as penas de 05 (cinco) anos, 03 (três) meses e 29 (vinte e nove) dias reclusão, em regime fechado, e 13 (treze) dias-multa. O acórdão atacado teve a seguinte ementa, fls. (e-STJ) 352:
+"EMENTA: APELAÇÃO CRIMINAL - ROUBO - DESCLASSIFICAÇÃO PARA FURTO - INVIABILIDADE. CONFISSÃO ESPONTÂNEA - ATENUANTE NÃO CONFIGURADA. RECURSO NÃO PROVIDO. I - É inviável promover a uma desclassificação para o crime previsto no art. 155 do CP, se a subtração dos bens se deu mediante emprego de violência, circunstância especial que diferencia o roubo do furto, tornando imperiosa a condenação do apelante nas iras do art. 157 do CP. II - Inviável é o reconhecimento da atenuante da confi ssão espontânea quando o agente, denunciado pelo crime de roubo, admite ter prati cado a subtração dos bens, mas nega ter empregado qualquer violência ou grave ameaça contra a pessoa, visando, com isso, receber uma penalidade mais branda ".
+Nesta sede, alega que o acórdão recorrido ofendeu ao disposto no artigo 65, inciso III, alínea "d", do Código Penal, quando deixou de aplicar a atenuante da confissão espontânea no âmbito da segunda fase de dosimetria da pena imposta pelo crime de roubo, sem fundamentação idônea.
+Argumenta que "conforme se depreende da leitura do acórdão impugnado, o egrégio Tribunal a quo, apesar de reconhecer que a recorrente admitiu a subtração, não reconheceu a atenuante da confissão espontânea ".
+Destaca que "ao admiti r a subtração da coisa móvel, o recorrente admiti u ainda que em parte a autoria em relação ao delito cuja tipicidade foi reconhecida no art. 157, caput, do Código Penal, tendo o acórdão se uti lizado da confissão parcial para manter a condenação. ".
+Aponta que "o entendimento atual adotado pela Superior Tribunal de Justiça é no senti do de que o acusado fará jus à atenuante da confissão espontânea nas hipóteses em que houver confessado a autoria do crime perante a autoridade, ainda que a confissão não tenha sido uti lizada pelo julgador como um dos fundamentos da condenação ".
+Requer o conhecimento e provimento do recurso para, "reconhecendo a circunstância atenuante da confissão espontânea, reduzir a quantidade de pena aplicada ao recorrente".
+O MPMG apresentou contrarrazões às fls. (e-STJ) 377/379.
+Admiti do o recurso, fls. (e-STJ) 384/386, foram os autos remeti dos a esse Superior Tribunal de Justiça, de onde, após regular distribuição, vieram com vistas ao Parquet Federal, para análise e emissão de opinativo.
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+Tenho que assiste razão à defesa.
+É que, na linha da jurisprudência deste Tribunal Superior, "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada" (REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+No mesmo sentido, cito os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA DA PENA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO. CONFISSÃO PARCIAL. RECONHECIMENTO. NECESSIDADE.
+1. O Juízo de primeiro grau, mais próximo dos fatos, dos testemunhos e da ação penal, entendeu que o ora agravado confessou sua participação no crime, fazendo incidir a respectiva atenuante.
+2. Tendo o paciente reconhecido seu envolvimento no delito, pois confessou parcialmente sua participação, dizendo que fez coisa errada, mas negando ter encostado a mão nas vítimas, deve haver a incidência da atenuante da confissão.
+3. Nos termos da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para motivar a sua condenação (AgRg no AgRg no HC n. 700.192/SC, Ministro Olindo Menezes - Desembargador convocado do TRF/1ª Região, Sexta Turma, DJe 21/2/2022).
+4. O réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada (REsp n. 1.972.098/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe de 20/6/2022).
+5. Agravo regimental improvido.
+(AgRg no HC n. 736.096/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022, grifei.)
+Portanto, não havendo dúvidas quanto à ocorrência da confissão, faz jus o recorrente à incidência da suscitada atenuante, de modo que, procedendo-se à compensação da agravante da reincidência com a confissão espontânea, a sua pena deve ser reduzida para 4 anos, 6 meses e 25 dias de reclusão.
+À vista do exposto e acolhendo o parecer do Ministério Público Federal, dou provimento ao recurso para, nos termos acima deduzidos, reduzir a pena do recorrente para 4 anos, 6 meses e 25 dias de reclusão, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
