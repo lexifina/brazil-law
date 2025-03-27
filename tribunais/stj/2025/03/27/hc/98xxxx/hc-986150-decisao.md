@@ -1,0 +1,15 @@
+DECISÃO
+THIAGO HENRIQUE FRESSATTI alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0001854-23.2021.8.26.0154.
+Consta dos autos que foi mantida a decisão de reconhecimento da prática de falta grave, interrupção do lapso temporal para progressão de regime e perda de 1/3 dos dias remidos (fls. 15-16).
+A defesa aduz, em síntese, que o Processo Administrativo Disciplinar (PAD) n. 77/2019, instaurado contra o paciente, padece de vícios e inconstitucionalidades, especialmente pela ausência de defesa técnica durante a oitiva das testemunhas acusatórias, o que violaria os princípios do contraditório e da ampla defesa (fls. 9-13).
+O parecer do Subprocurador-Geral da República Luciano Mariz Maia foi pelo não conhecimento do writ, no qual destaca que não há ilegalidade no feito e que a matéria da nulidade do PAD não foi analisada pelo Tribunal de origem, o que impede a apreciação pelo Superior Tribunal de Justiça (fls. 139-142).
+Decido.
+O Juízo do Deecrim 8ª RAJ - SP, ao afastar as alegações de atipicidade da conduta por parte da defesa, considerou que (fl. 74):
+ ..  o ato de realizar tatuagens no próprio corpo ou de outrem, bem como a de posse de máquina ou de instrumento apto para tanto, caracteriza desobediência às ordens do estabelecimento prisional e, dependendo da situação, posse de instrumento capaz de ofender a integridade física de outrem (LEP, art. 50, III e VI, este c. c. o art. 39, II e V).
+O acórdão apontado como ato coator confirmou o entendimento de primeiro grau e realizou a classificação da conduta à hipótese descrita no art. 50, VI c/c o art. 39, II, da LEP (fls.16):
+Mérito. Homologação de falta grave. Conduta de confecção de tatuagem, ligada à posse, uso ou ocultação de objetos com potencial lesividade à integridade física. Descumprimento das normas disciplinares. Prioritária orientação legal pelo rigor disciplinar visando à segurança do corpo de funcionários e da massa carcerária. Subsunção clara ao art. 50, VI, c/c art. 39, II, da LEP. Clara tipicidade. Inviabilidade da desclassificação para falta leve ou média. Homologação mantida.
+O habeas corpus se baseia na nulidade do procedimento administrativo pela ausência de defesa técnica durante a oitiva das testemunhas acusatórias. Entretanto, a tese em questão não foi discutida no acórdão combatido. Como se observa na petição do agravo em execução (fls. 28-34), ela nem sequer foi suscitada, tampouco analisada pelo Tribunal de origem, o que impede a sua apreciação diretamente por esta Corte Superior de Justiça, sob pena de, se assim o fizer, incidir em indevida supressão de instância.
+Ilustrativamente: "Evidenciado que os temas levantados não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância" (HC n. 164.785/MS, Rel. Ministro Gilson Dipp, 5ª T., DJe 8/6/2011).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
