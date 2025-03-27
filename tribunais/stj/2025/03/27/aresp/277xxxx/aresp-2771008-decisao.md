@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra o acórdão proferido pelo Tribunal de Justiça de Goiás (Recurso em Sentido Estrito n. 0133508-66.2019.8.09.0158) que manteve a decisão que pronunciou Fabricio Madson da Luz como incurso no crime de homicídio qualificado.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos arts. 155 e 414, ambos do Código de Processo Penal, apontando que a decisão de pronúncia se baseou em provas exclusivamente do inquérito e testemunhos indiretos (fls. 659/677).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls. 705/708).
+Contra o decisum a defesa interpôs o presente agravo (fls. 711/732).
+Instado a se manifestar como custos legis, o Ministério Público Federal opinou pelo conhecimento do agravo para negar provimento ao recurso especial, em parecer assim ementado (fl. 756):
+AGRAVO EM RECURSO ESPECIAL. DESPRONÚNCIA. IMPOSSIBILIDADE. MATERIALIDADE COMPROVADA E EXISTENCIA INDÍCIOS DE AUTORIA. TESTEMUNHOS EFICAZES. NECESSIDADE DE REVOLVIMENTO PROBATÓRIO. TRIBUNAL DO JÚRI. SOBERANIA DOS FATOS. PARECER PELO CONHECIMENTO DO AGRAVO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+De outra parte, no que se refere à suposta violação dos arts. 155 e 414, ambos do Código de Processo Penal, não há dúvida de que a insurgência defensiva encontra óbice na Súmula 7/STJ.
+Ora, a Corte de origem firmou a existência de indícios suficientes de autoria para pronúncia do agravante, concluindo que há provas colhidas em inquérito, corroboradas em juízo (fls. 623/626 - grifo nosso):
+ ..
+No ponto, registre-se que a decisão que pronunciou o réu não foi fundada em depoimentos indiretos (testemunhas de "ouvir dizer") como alega a defesa, mas em testemunhas, ouvidas em juízo, que confirmaram seus depoimentos prestados na fase inquisitorial, bem como em uma investigação acerca de uma organização criminosa especializada em roubos e furtos de aparelhos celulares autorizada, pela 5ª Vara Criminal de Brasília/DF, da qual o acusado foi investigado, mediante interceptações telefônicas. No curso das diligências investigatórias, a Polícia Civil do Distrito Federal (mov.1, arq.4, fls. 58/68) constatou que:
+ ..  " conversas por ligações telefônicas obtidas do prefixo de um dos investigados, conhecido como LEO, em que o recorrente Fabrício Madson da Luz, vulgo "Abajur", ligou para o investigado LEO para buscar um revólver com a pessoa de ROBINHO, pois a vítima Leandro da Silva Couto, vulgo "BATATA", havia "sangrado" ele"  ..
+ .. Constou das interceptações telefônicas, ainda, conversas da sogra de Fabrício Madson da Luz, a informante MARIA DO SOCORRO PEREIRA DO NASCIMENTO, dando detalhes do delito, relatando a um terceiro que houve um desentendimento entre o recorrente e a vítima. Narrou que, durante a noite, o recorrente Fabrício Madson da Luz foi até a residência da vítima Leandro e, no momento em que esta chegou em sua residência, ao guardar sua motocicleta, o recorrente surpreendeu-a com disparos de arma de fogo, momento em que a vítima caiu no chão e que o recorrente desferiu outro disparo contra a nuca da vítima, a fim de assegurar a consumação do crime  .. .
+Conforme consta na movimentação 1, folhas 58/68 dos autos, a investigação realizada pela Polícia Civil do Distrito Federal foi compartilhada com a Polícia Civil do Estado de Goiás, mediante autorização do Juízo da 5ª Vara Criminal de Brasília/DF.
+ ..
+Os indícios de autoria decorrem da prova oral produzida através dos depoimentos da testemunha, Gina Araújo da Silva, ouvida como informante, cita-se:
+ ..  "disse que confirma o depoimento realizado na delegacia, que confirma o reconhecimento realizado através de fotografias da pessoa do acusado, que no dia do fato, estava em um bar; que ouviu alguém chamando seu nome e dizendo que seu primo Leandro estava envolvido numa briga do lado de fora do bar, relatou disse que não tomou conhecimento de quem matou a vítima Leandro, que não ouviu nenhuma ameaça proferida por parte do indivíduo conhecido como "Fufu" no dia da briga envolvendo a vítima; que a vítima Leandro tinha vários inimigos na cidade; que não conhecia o réu Fabrício.  .. .
+Com efeito, a partir da apuração dos elementos probatórios acima, evidencia- se a presença de materialidade e indícios suficientes de autoria para a pronúncia do acusado, ante a suposta prática do crime de homicídio qualificado em desfavor de Leandro da Silva Couto.
+Isso porque, a despeito dos argumentos invocados pela defesa (ausência de provas da autoria delitiva), vê-se que os elementos probatórios apurados sob o crivo do contraditório e ampla defesa no bojo do juízo da formação da culpa (judicium accusatione) indicam a existência de crime doloso contra a vida.
+ ..
+Tal o contexto e, ao contrário do alegado, não se verifica na espécie uma situação da chamada hearsay testemony, mas, sim, a indicação pela Corte de Justiça dos elementos probatórios, produzidos em inquérito e corroborados em juízo, como depoimento de testemunha que presenciou discussão anterior entre vítima e acusado, bem como dados extraídos de interceptações telefônicas. Dessa forma, rever a conclusão adotada, como pretende o agravante, encontra óbice na Súmula 7/STJ, que veda o reexame probatório.
+Nesse contexto, tenho que o acórdão recorrido vai ao encontro da jurisprudência reiterada do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JURI. PRONÚNCIA. REVERSÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A pronúncia é decisão interlocutória mista, que julga admissível a acusação, remetendo o caso à apreciação do Tribunal do Júri. É mero juízo de admissibilidade, e não de mérito. Não devem seguir a Júri os casos rasos em provas, fadados ao insucesso, merecedores de um fim, desde logo.
+4. Hipótese em que o Tribunal a quo, ao apreciar o recurso em sentido estrito, entendeu que, diante do teor dos depoimentos, é perfeitamente lícito estabelecer o liame entre a conduta do denunciado na intenção de matar, ainda que a tentativa não tenha produzido lesões. Assim, "havendo prova da materialidade e indícios suficientes de autoria apontando o réu como autor do fato, a questão deverá ser decidida pelo Tribunal do Júri, que é quem detém a competência constitucional".
+5. A reversão das premissas fáticas do acórdão encontra óbice na Súmula n. 7 desta Corte Superior de Justiça.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 2.110.968/TO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe 8/4/2024 - grifo nosso).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ACÓRDÃO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155 E 414, AMBOS DO CPP. PLEITO DE IMPRONÚNCIA EM RAZÃO DE TESTEMUNHO INDIRETO. PROVA EXCLUSIVAMENTE DO INQUÉRITO. TRIBUNAL AFIRMA QUE PRONÚNCIA ESTÁ FUNDADA EM ELEMENTOS INFORMATIVOS CORROBORADOS EM JUÍZO. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
