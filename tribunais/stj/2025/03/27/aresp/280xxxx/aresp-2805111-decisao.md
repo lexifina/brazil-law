@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo ESTADO DO PIAUÍ, com fundamento na incidência , por analogia, da Súmula 284 do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois a "controvérsia cinge-se quanto a violação de dispositivos federais, especificamente os artigos 1º, 3º e 4º da Lei nº 8.437/92 e da Lei nº 9.494/97" (fl. 368).
+Assevera, ainda, que:
+O douto vice-presidente do Tribunal entendeu que a ADI 4.296 declarou a inconstitucionalidade do art. 7º, §2º, da Lei do Mandato de Segurança e que, por consequência, os dispositivos citados das leis federais mencionadas também teriam sido afetados e não existiria mais óbice legal para a concessão de liminar em sede de mandado de segurança, o que implicaria a prejudicialidade das alegações.
+Todavia, com a máxima vênia, isso não é verdade.
+Quando o Supremo Tribunal Federal foi provocado ao julgamento da normativa do art. 7º da Lei 12.016/2009 e entendeu por sua inconstitucionalidade, especificamente em relação ao inciso III e ao § 2º, o dispositivo questionado foi única e exclusivamente este e todos os efeitos da decisão apenas atingem os casos específicos a eles relacionados.
+No presente caso, tem-se um Ação Civil Pública, em que foi aplicado dispositivo de norma distinta, ainda que possua teor relativamente próximo. A lei se presume constitucional até que seja questionada no Tribunal Maior, então, ao menos em tese, o óbice estipulado pela Lei nº 8.437/92 permanece hígido.
+Não se, pode presumir a inconstitucionalidade da norma, sem o devido julgamento por quem tem o condão de fazê-lo, no caso, o Supremo Tribunal Federal (fl. 368).
+Contraminuta apresentada às fls. 387-405.
+É o relatório.
+Passo a decidir.
+De início, tem-se que quanto à apontada violação aos arts. 1º, 3º e 4º da Lei 8.437/92, não pode ser conhecido o Recurso Especial, incidindo o teor da Súmula 211/STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo ").
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO ANULATÓRIA DE ATOS JURÍDICOS. ERRO MATERIAL. REVER A CONCLUSÃO A QUE CHEGOU A COTE DE ORIGEM PARA ENTENDER QUE HOUVE ERRO QUANTO A CONCLUSÃO DO ARESTO DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. VIOLAÇÃO AOS ARTS. 14, 18, 109 E 933 DO CPC. MATÉRIA SEM PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO NÃO REFUTADO PELAS RAZÕES DO ESPECIAL. SÚMULA 283/STF. VIOLAÇÃO DA LINDB. MATÉRIA CONSTITUCIONAL.
+1. Rever a conclusão a que chegou o Tribunal de origem para entender que houve erro material quanto a origem do imóvel em questão, ou seja, que a venda foi feita diretamente pelo ora recorrente, demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. Quanto ao mérito, no que concerne a suposta violação ao art. 1211 do CPC/73 e aos arts. 14, 18, 109 e 933 do CPC/2015 verifica- se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial, motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283/STF: "é inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. Não possível a análise de suposta violação ao art. 6º, §1º, da LINDB, pois "o Superior Tribunal de Justiça pacificou o entendimento de que a matéria contida no art. 6º da Lei de Introdução às Normas do Direito Brasileiro (antiga LICC) tem caráter nitidamente constitucional, razão pela qual é inviável sua apreciação em recurso especial" (AgInt no REsp n. 1.970.807/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.).
+5. AGRAVO A QUE SE NEGA PROVIMENTO (AgInt no AREsp n. 2.177.415/SC, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/4/2023, DJe de 27/4/2023).
+Além disso, os dispositivos indicados como violados não possuem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, o que atrai, por analogia, o óbice da Súmula 284 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. COMANDO NORMATIVO INSUFICIENTE. SÚMULA Nº 284/STF. LUCROS CESSANTES. LOCATIVO MENSAL. VALOR INFERIOR. ACOLHIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, ainda que de forma sucinta, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284 do Supremo Tribunal Federal.
+3. Os dispositivos legais indicados como malferidos não têm comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela ora agravante, situação em que a jurisprudência desta Corte Superior considera deficiente a fundamentação recursal a atrair a aplicação da Súmula nº 284/STJ.
+4. Tendo a cláusula penal moratória a finalidade de indenizar pelo adimplemento tardio da obrigação e sendo estabelecida em valor equivalente ao locativo, não pode ser cumulada com lucros cessantes
+5. Não há como rever o entendimento firmado pelas instâncias ordinárias, a partir da tese de que os lucros cessantes foram fixados em valor inferior ao locativo mensal, sem a revisão de fatos e de provas dos autos, o que é inviável no recurso especial pela incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido (AgInt no AREsp n. 2.337.368/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Não sendo caso de má-fé, descabe a incidência de honorários de sucumbência em ação civil pública, inclusive a título recursal.
+Intimem-se.
+EMENTA
