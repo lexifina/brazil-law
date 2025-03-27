@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de DILSON JOSÉ DOS SANTOS contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, nos autos do Agravo em Execução n. 0020803-86.2024.8.26.0996, negou provimento à insurgência defensiva, mantendo o indeferimento da remição pretendida (Execução n. 0001891-52.2021.8.26.0509, DEECRIM 5ª RAJ - Presidente Prudente/SP).
+A defesa alega, em síntese, que a lei não exige que as atividades pedagógicas sejam certificadas pelas autoridades e instituições públicas e oficiais do Estado, bastando que sejam certificadas pelas respectivas autoridades dos cursos ministrados. Logo, depreende-se dos atestados juntados que as atividades de estudo foram devidamente certificadas pelas autoridades competentes dos cursos ministrados, de modo que o apenado preenche às exigências legais (fl. 11 - sem os grifos do original).
+Pede a remição das horas estudadas (fls. 2/13).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O Tribunal de origem destacou que, no caso concreto, o curso na modalidade EAD apresentado as fls. 12/15 não apresenta nenhuma comprovação de ser conveniado, ou autorizado pelo Poder Público, para o fim a que se prestou, a teor do que dispõe o artigo 2º, II, da Resolução nº 391/2021, do CNJ, decorrendo de tal que todos os requisitos necessários para a concessão da remição não foram demonstrados na espécie (fl. 21).
+Pois bem, verifica-se que as instâncias ordinárias decidiram nos termos do entendimento firmado nesta Corte, no sentido de que a realização de estudo na modalidade a distância, para fins de remição da pena, deve atender a critérios mínimos, inclusive convênio prévio entre a unidade prisional e o poder público, a fim de demonstrar a sua sintonia e adequação aos propósitos da Lei de Execução Penal, sendo indispensável, ainda, a supervisão pela unidade prisional, o acompanhamento pelo Juiz da execução e a fiscalização pelo Ministério Público, além de atender a critérios mínim os, incluindo a certificação das autoridades educacionais.
+Nos termos do art. 126, § 2º, da Lei de Execução Penal, a remição de pena em virtude de estudo realizado pelo apenado, seja presencialmente, seja na modalidade à distância, exige tanto a apresentação de certificado emitido por entidade educacional devidamente credenciada perante o Ministério da Educação, a fim de cumprir os requisitos exigidos na Recomendação n. 44 do Conselho Nacional de Justiça, quanto à demonstração de que o reeducando participou efetivamente das atividades educacionais (AgRg no HC n. 721.471/SP, de minha relatoria, Sexta Turma, DJe 31/3/2022).
+Ainda sobre o tema: AgRg no HC n. 578.7 65/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/10/2021; AgRg no HC n. 687.437/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/9/2021.
+Assim, ausente flagrante ilegalidade a ser sanada.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. CURSO PROFISSIONALIZANTE A DISTÂNCIA. INSTITUIÇÃO DE ENSINO NÃO AUTORIZADA OU CONVENIADA. FALTA DE CONTROLE SOBRE AS HORAS EFETIVAMENTE ESTUDADAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Petição inicial indeferida liminarmente.
