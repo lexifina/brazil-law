@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por MUNICÍPIO DE FORTALEZA, contra o acórdão assim ementado:
+CONSTITUCIONAL. ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SERVIDORES PÚBLICOS MUNICIPAIS DO MAGISTÉRIO DE FORTALEZA. FÉRIAS ANUAIS. 30 (TRINTA) DIAS APÓS CADA SEMESTRE LETIVO. POSSIBILIDADE. LEI MUNICIPAL Nº 5.895/84. INCIDÊNCIA DO TERÇO CONSTITUCIONAL SOBRE O PERÍODO INTEGRAL DE FÉRIAS. PRECEDENTES. RESTITUIÇÃO, EM DOBRO, DOS VALORES DEVIDOS. IMPOSSIBILIDADE. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA. SENTENÇA REFORMADA
+Em seu recurso especial, a parte agravante alega violação dos arts. 272, § 8º, e 1.003, § 5º, do CPC, o que não foi admitido, por aplicação da Súmula 7 deste STJ, dando origem à irresignação em exame.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Alega que a controvérsia cinge-se à tempestividade do recurso de apelação, o que não demanda reanálise da prova.
+Contraminuta apresentada (fls. 253-259).
+É o relatório.
+Passo a decidir.
+Sobre a matéria devolvida a este Tribunal Superior, extraio do acórdão vergastado (fl. 183):
+ ..
+Verifica-se dos autos, que a intimação da sentença foi realizada em nome
+do Dr. Hesíodo Gadelha Castelo Barros, OAB 25832/CE (págs. 106/107), em desconformidade ao requerido expressamente pela parte na exordial (pág. 02), em que foram apontados os causídicos a serem intimados dos atos processuais.
+Assim, impõe-se tornar sem efeito o trânsito em julgado certificado à pág.
+109 e tornar nula a intimação da sentença, não cabendo, todavia, a remessa dos autos ao primeiro grau para tão somente reabertura do prazo recursal, tendo em vista que a parte interpôs recurso de apelação, inclusive contrarrazoado pela parte contrária.
+Nessa premissa, vejo que os autores peticionaram a respeito da nulidade da intimação, não obtendo, contudo, resposta judicial e, posteriormente, interpuseram recurso de apelação, antes mesmo de qualquer manifestação por parte do juízo sentenciante.
+ ..
+Nesse cenário, não há como constatar se correta a afirmação de "intempestividade recursal, uma vez que, da manifestação autoral sobre a nulidade ((17/11/2016) até a interposição da apelação (20/04/2020), ultrapassa em muito o prazo de quinze dias para interposição da apelação, fixado no art. 1.003, § 5º, do CPC", sem o regresso aos documentos dos autos, atraindo, por conseguinte, a incidência da Súmula 7/STJ, o que inviabiliza o conhecimento do recurso especial.
+A propósito:
+ADMINISTRATIVO. CONCURSO PÚBLICO DESTINADO A SELEÇÃO DE SOLDADOS DA POLÍCIA MILITAR. CANDIDATO AFASTADO DO CERTAME POR REPROVAÇÃO EM INVESTIGAÇÃO SOCIAL. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O entendimento do Superior Tribunal de Justiça é no sentido de que a Investigação Social não se resume a analisar a vida pregressa do candidato quanto às infrações penais que eventualmente tenha praticado, mas também quanto à conduta moral e social no decorrer de sua vida, objetivando analisar o padrão de comportamento do candidato à carreira policial em razão das peculiaridades do cargo que exigem retidão, lisura e probidade do agente público.
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Nota-se que, ao contrário do defendido pelo demandante, o mesmo foi reprovado em uma das fases do concurso, qual seja, a Pesquisa Social. Observa-se pelos documentos de fls. 281 e seguintes, que o Apelante passou à condição de reprovado no concurso público de admissão ao Curso de Formação de Soldados da PMERJ, após o surgimento de fatos novos relativos à pesquisa social, que culminou com a edição de dois atos administrativos para desliga-lo do curso de formação (fl. 289, IE 281) e licenciá-lo (fl.291, IE 281), sendo, portanto, despicienda a instauração de procedimento administrativo. Registra-se que o ato que declarou a insubsistência da "nomeação do autor como soldado aluno" foi exarado em decorrência de ato administrativo proferido pelo Centro de Recrutamento e Seleção de Praças (CRSP), que atestou a reprovação do autor no concurso público. Destaca-se que a época em que foi desligado do Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - 5ª Turma (CFSD V/13) e licenciado dos quadros da Corporação, o Apelante ostentava a condição de candidato no concurso público em questão, e não servidor militar como alega".
+3. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça, que assim estabelece: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido (AgInt no AREsp n. 1.919.722/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022).
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal.
+Intimem-se.
+ EMENTA
