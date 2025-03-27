@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 300):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - INSTRUMENTO CONTRATUAL NÃO JUNTADO - INTIMAÇÃO DA PARTE RÉ - INÉRCIA - SANÇÃO PREVISTA NO ART. 400 DO CPC - INCIDÊNCIA - JUROS REMUNERATÓRIOS - LIMITAÇÃO À TAXA MÉDIDA DE MERCADO - MANUTENÇÃO - CAPITALIZAÇÃO DE JUROS - CONTRATAÇÃO NÃO DEMONSTRADA - EXCLUSÃO DEVIDA - COMISSÃO DE PERMANÊNCIA - AUSÊNCIA DE PROVA DA CONTRATAÇÃO - COBRANÇA INDEVIDA - Em se tratando de exibição incidental de documentos, em caso de descumprimento da ordem judicial, os fatos alegados que deveriam ser comprovados por meio dos documentos presumem-se verdadeiros, nos termos do ad. 400, inciso 1, do CPC. - Não há como prevalecer aquilo que restou pactuado entre as partes, se o requerido não trouxe aos autos o contrato firmado e não se desincumbiu do seu ônus de comprovar que efetuou a cobrança corretamente. - Diante da omissão por parte da requerida, a taxa dos juros remuneratórios deve ser limitada à taxa média de mercado divulgado pelo Banco Central. - - Ausente a prova da contratação da capitalização mensal de juros revela-se ilegal a sua prática. - Deve ser mantida a declaração de ilegalidade da cobrança de comissão de permanência, se não houver prova de sua contratação.
+Rejeitados os embargos de declaração opostos com aplicação de multa (fl. 318).
+No recurso especial, alega a parte recorrente violação do art. 400 do CPC, sob o argumento de que o acórdão aplicou equivocadamente a presunção de veracidade dos fatos devido à ausência de contrato bancário nos autos, pois os documentos juntados seriam suficientes para comprovar a legitimidade das cobranças.
+Alega ainda que os embargos de declaração foram opostos para sanar omissões no acórdão, especialmente quanto à desconsideração dos documentos apresentados, e que a aplicação da multa foi indevida, violando o art. 1.026, § 2º, do CPC.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 345 - 347), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem consignou que não houve juntada do contrato pelo banco recorrente, de forma que não é possível a cobrança de juros acima da média, de capitalização de juros e de comissão de permanência, pois não há como averiguar se foram contratados regularmente (fls. 302-307):
+No caso, embora a parte ré tenha sido intimada para juntar a cópia do contrato bancário firmado entre as partes, sob pena de aplicação do disposto no art. 400, inciso 1, do CPC, tem-se que tal instrumento não foi apresentado.
+Dessa feita, não há como aferir a abusividade dos juros remuneratórios contratados.
+Logo, como não há prova da taxa de juros pactuada nos contratos celebrados entre as partes, deveria ser aplicado ao caso o disposto no enunciado da Súmula 530 do Superior Tribunal de Justiça, segundo o qual "nos contratos bancários, na impossibilidade de comprovar a taxa de juros efetivamente contratada - por ausência de pactuação ou pela falta de juntada do instrumento aos autos -, aplica-se a taxa média de mercado, divulgada pelo Bacen, praticada nas operações da mesma espécie, salvo se a taxa cobrada for mais vantajosa para o devedor."
+(..)
+Todavia, como dito, o contrata bancário celebrado entre as partes não veio aos autos, mesmo sendo a requerida intimada a assim fazê-lo, sob pena de se considerarem verdadeiras os fatos que por meio dele pretendia a parte autora provar, nos termos do ad. 400, inciso 1, do CPC.
+Ademais, do exame de todo o conjunto probatório, jg se extrai dos autos demonstrativo de que a parte ré tenha estabelecido com a parte autora, expressamente, a cobrança dos juros remuneratórios capitalizados mensalmente.
+(..)
+Vê-se, pois, que a cobrança da comissão de permanência, por si só, não caracteriza ilegalidade.
+(..)
+No entanto, neste caso, também não seria possível a sua cobrança, pois, como já visto, o Banco apelante não juntou o contrato para que pudesse ser aferida se houve a sua pactuação.
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. AÇÃO REVISIONAL DE CONTRATO. CAPITALIZAÇÃO MENSAL DOS JUROS. NÃO PACTUADO. IMPROCEDÊNCIA. PRETENSÃO DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Inexiste a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+2.Verifica-se que o Tribunal de origem entendeu, com base no conjunto probatório dos autos e em cláusulas contratuais, que procedente a limitação dos juros remuneratórios à taxa média de mercado, e que ausente pactuação expressa acerca de incidência de capitalização mensal dos juros no contrato em análise, assim inviável sua cobrança em qualquer periodicidade 3. Logo, rever tal entendimento, ao ensejar novo juízo acerca de fatos e provas, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos e em cláusulas contratuais.
+Incide, pois, no caso, as Súmulas n. 5 e 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Agravo interno improvido.
+(AgInt no REsp n. 2.079.295/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Por fim, da análise dos autos, percebe-se que os embargos de declaração interpostos pela parte recorrente não possuem intuito protelatório, razão pela qual a aplicação da multa prevista no art. 1.026, § 2º, do CPC deve ser afastada.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e dar-lhe provimento apenas para afastar a multa do art. 1.026, § 2º, do CPC.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial obteve provimento, o que faz incidir os preceitos do Tema n. 1.059/STJ: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação".
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INSTRUMENTO CONTRATUAL NÃO JUNTADO. TAXA DE JUROS, CAPITALIZAÇÃO E COMISSÃO DE PERMANÊNCIA. CONTRATAÇÃO NÃO COMPROVADA. SÚMULA N. 7/STJ. MULTA DO ART. 1.026, 2º, DO CPC. INCABÍVEL. EMBARGOS COM FINALIDADE DE PREQUESTIONAMENTO. AGRAVO CONHECIDO. RECURSO CONHECIDO EM PARTE E PROVIDO PARA AFASTAR A MULTA APLICADA.
