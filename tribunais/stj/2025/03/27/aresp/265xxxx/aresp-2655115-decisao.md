@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por V.TAL - REDE NEUTRA DE TELECOMUNICACOES S.A. contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA, que inadmitiu recurso especial interposto contra acórdão proferido na Apelação Cível n. 832130-66.2020.8.23.0010 que foi assim ementado (fls. 507-511):
+APELAÇÃO CÍVEL - DIREITO TRIBUTÁRIO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA - TRANSFERÊNCIA DE BENS ENTRE FILIAIS DA MESMA EMPRESA - IMPOSSIBILIDADE DE INCIDÊNCIA DE ICMS - PEDIDO DE EFEITOS PROSPECTIVOS A CASOS VINDOUROS - AUSÊNCIA DE CIRCUNSTÂNCIA CONCRETA E ATUAL - PEDIDO GENÉRICO, AMPLO E FUTURO -INVIABILIDADE DO PODER JUDICIÁRIO IMPEDIR QUE A FAZENDA PÚBLICA REALIZE FISCALIZAÇÕES DE MANEIRA ABSTRATA E HIPOTÉTICA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Opostos embargos declaratórios, esses foram rejeitados (fls. 552-555).
+No recurso especial interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a recorrente, ora agravante, alegou violação do art. 19, inciso I, do Código de Processo Civil, sustentando, em síntese, que o provimento declaratório que reconheceu não haver fato gerador de ICMS sobre as transferências de bens entre estabelecimentos do mesmo contribuinte deve albergar situações futuras, desde que sejam da mesma natureza daquelas narradas na petição inicial.
+O Tribunal de origem inadmitiu o apelo nobre em decisão de fls. 687-690.
+Houve interposição de agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos recursais, razão pela qual passo à análise do recurso especial.
+O voto condutor do acórdão recorrido foi assim fundamentado:
+Da análise dos autos, verifica-se que o apelo não merece prosperar. Isso porque, como bem fundamentado pelo juízo a quo, a parte recorrente não pode se valer de um salvo-conduto do Poder Judiciário para que não seja fiscalizado pelo Fisco Estadual em situações que não são concretas e atuais, ainda que se trate de ação declaratória de inexistência de relação jurídico-tributária.
+Ora, o que se buscou na inicial foi atribuição de efeitos à sentença de forma abstrata, genérica, futura e incerta para situações que poderão vir a ocorrer, o que não pode ser admitido, sob pena de inviabilizar a competência fiscal da Fazenda Pública.
+Por certo, inadmissível que o Judiciário impossibilite o Fisco, ampla e genericamente, de analisar circunstâncias outras que possam ensejar a cobrança de tributos ou mesmo de multa por descumprimento de alguma condição legalmente exigida.
+ ..
+Como já mencionado, a ação declaratória de existência de relação-jurídica busca proteger situações concretas e atuais e não meramente exemplificativas, futuras e incertas (fls. 508-509)
+Contrariamente ao que foi decidido pelo acórdão objeto do presente recurso, o entendimento desta Corte Superior é no sentido de que podem ser reconhecidos os efeitos prospectivos à pretensão declaratória de inexistência de relação jurídica tributária deferida na sentença, enquanto inalteradas as circunstâncias fáticas e normativas que motivaram esse provimento declaratório.
+É o que se extrai do seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. EFEITOS PROSPECTIVOS. CABIMENTO.
+1. Embargos de divergência em recurso especial nos quais se discute o cabimento, ou não, de ação declaratória para obter o reconhecimento de inexistência de relação jurídica-tributária que iniba a Administração Tributária de promover a autuação fiscal relativa a operações futuras concernentes à atividade profissional da contribuinte.
+2. Cabe ação declaratória para obter o reconhecimento de inexistência de relação jurídica-tributária para fins prospectivos, quando o contribuinte demonstra que o fato jurídico suscitado diz respeito ao cotidiano de suas atividades e que há conduta rotineira do fisco infirmando o direito alegado já manifestada em outros casos análogos, seja por meio de indeferimento de pedido administrativo ou de lavratura de auto de infração.
+3. No caso dos autos, a empresa contribuinte logrou demonstrar que a sua pretensão declaratória não é meramente abstrata, mas, ao contrário disso, que seu justo receio é concreto e iminente, uma vez que já foi autuada pela administração municipal para recolher o ISS sobre as operações de leasing de veículos comercializadas com os consumidores lá residentes.
+4. Embargos de divergência providos. (EREsp 1135878/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/06/2013, DJe 02/08/2013, sem grifos no original).
+Com efeito, procede a irresignação da parte recorrente, no sentido de que não é objetivamente vedado ao Poder Judiciário reconhecer efeitos prospectivos ao provimento declaratório que reconheceu não haver fato gerador de ICMS sobre as transferências de bens entre estabelecimentos do mesmo contribuinte.
+Por outro lado, cabe ao Tribunal de origem, à luz da jurisprudência do STJ e do acervo fático-probatório dos autos, analisar se o fato jurídico suscitado diz respeito ao cotidiano das atividades do contribuinte e se há conduta rotineira do fisco, infirmando o direito alegado, já manifestada em outros casos análogos.
+Ante o exposto, CONHEÇO do agravo para dar PARCIAL PROVIMENTO ao recurso especial e cassar o acórdão recorrido, determinando o retorno doas autos ao Tribunal de origem, para a realização de novo julgamento nos termos da fundamentação exposta.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICO-TRIBUTÁRIA. TRANSFERÊNCIA DE BENS ENTRE FILIAIS DA MESMA EMPRESA. IMPOSSIBILIDADE DE INCIDÊNCIA DE ICMS. PEDIDO DE EFEITOS PROSPECTIVOS. CABIMENTO. JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
