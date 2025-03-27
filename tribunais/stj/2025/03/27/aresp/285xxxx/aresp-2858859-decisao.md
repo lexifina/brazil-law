@@ -1,0 +1,7 @@
+DECISÃO
+Encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.090), os Recursos Especiais 2.082.072/RS, 2.080.584/PR e 2.116.343/RJ, de minha relatoria, a questão debatida nos autos, qual seja, "1) Saber se a anotação positiva no Perfil Profissiográfico Previdenciário (PPP) quanto ao uso do Equipamento de Proteção Individual (EPI) eficaz comprova o afastamento da nocividade da exposição aos agentes químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física e 2) Saber a qual das partes compete o ônus da prova da eficácia do Equipamento de Proteção Individual (EPI), em caso de contestação judicial da anotação positiva no Perfil Profissiográfico Previdenciário (PPP)".
+Nos termos do art. 34, XXIV, c/c o art. 256-L, I, ambos do Regimento Interno do Superior Tribunal de Justiça, a admissão de recurso especial como representativo da controvérsia impõe a devolução ao Tribunal de origem dos processos em que foram interpostos recursos cuja matéria identifique-se com o tema afetado, para nele permanecerem suspensos até o fim do julgamento qualificado.
+Pelo exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do Código de Processo Civil (CPC), após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do mesmo CPC.
+Publique-se.
+Intimem-se.
+EMENTA
