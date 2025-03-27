@@ -1,0 +1,27 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 938-939):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE EXECUTADA.
+1. Quando a sentença que extingue a execução em razão do reconhecimento da prescrição intercorrente é prolatada após 26/8/2021 - data da entrada em vigor da Lei n. 14.195/2021, que alterou o art. 921, § 5º, do CPC -, não cabe mais a condenação ao pagamento de custas e honorários de sucumbência. Precedentes.
+1.1. Essa compreensão alinha-se ao entendimento firmado pela Corte Especial no julgamento do EAREsp n. 1.255.986/PR (rel. Min. Luis Felipe Salomão, DJe 6/5/2019), segundo o qual o marco temporal para a aplicação das regras sucumbenciais do novo diploma deve ser a data da prolação da sentença (ou do ato jurisdicional equivalente, na competência originária dos tribunais), que correspondem ao "nascedouro do direito à percepção dos honorários advocatícios".
+2. Não há falar em decisão surpresa no tocante à adequação dos honorários advocatícios à literalidade do texto legal (art. 921, § 5º, do CPC), em decorrência do acolhimento parcial do recurso especial e reconhecimento da prescrição intercorrente. Com efeito, "descabe alegar surpresa se o resultado da lide encontra- se previsto objetivamente no ordenamento disciplinador do instrumento processual utilizado e insere-se no âmbito do desdobramento causal, possível e natural, da controvérsia. Cuida- se de exercício da prerrogativa jurisdicional admitida nos brocados iura novit curia e da mihi factum, dabo tibi ius" (AgInt no AREsp n. 1.215.746/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/4/2020, DJe de 24/4/2020).
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fl. 989).
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXVI, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que não cabe aplicar a Lei n. 14.195/2021 nos casos de a prescrição intercorrente ter sido materializada e postulada antes da data da entrada em vigor do referido diploma legal.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 1.096-1.109.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+No caso dos autos, o exame da alegada ofensa ao art. 5º, XXXVI, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fl. 941):
+para as hipóteses em que a sentença extintiva da execução em razão do reconhecimento da prescrição intercorrente é prolatada após 26/8/ 2021 - data da entrada em vigor da Lei n. 14.195/2021, que alterou o art. 921, § 5º, do CPC -, as Turmas integrantes da Seção de Direito Privado entendem ser incabível a condenação ao pagamento de custas e honorários de sucumbência.
+Tal compreensão decorre da circunstância de que "A legislação que versa sobre honorários advocatícios possui natureza híbrida (material-processual), de modo que o marco temporal para a aplicação das novas regras sucumbenciais deve ser a data de prolação da sentença (ou ato jurisdicional equivalente, quando diante de processo de competência originária de Tribunal)." (REsp n. 2.075.761/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2023, DJe de 9/10/2023).
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
