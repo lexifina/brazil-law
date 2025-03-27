@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por ANA CRISTINA DA SILVA, fundado no art. 105, III, "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 887/895):
+Apelação. Prestação de serviços educacionais. Declaratória c. c indenizatória por danos morais. Autora que não comprovou o preenchimento de todos os requisitos necessários à sua participação no programa "Uniesp Paga". Parte que não se desincumbiu do ônus do artigo 373, inciso I, do CPC/15. Sentença mantida. Recurso desprovido.
+Em suas razões recursais, a parte recorrente alegou violação ao art. 6º, inciso IV, do Código de Defesa do Consumidor, sustentando, em síntese, a ocorrência de prática abusiva por parte da parte recorrida, na medida em que incluiu, unilateralmente, cláusula contratual em que se exige, como requisito para ser beneficiária do programa "UNIESP paga", nota mínima no ENADE.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+Cinge-se a controvérsia em definir se houve prática abusiva da parte recorrida quanto à alegada falha no dever de informação em relação à cláusula 3.4 do contrato objeto da lide.
+Pois bem, o Tribunal de origem expressamente se manifestou à respeito das cláusulas que estabelecem os requisitos necessários para que fosse a recorrente beneficiária do programa "UNIESP paga", concluindo que a estudante foi devidamente cientificada a respeito das exigências do programa de financiamento estudantil, in verbis (e-STJ, fls. 893/893):
+"Malgrado ciente das condições para se beneficiar do programa, a demandante não logrou demonstrar o cumprimento das suas obrigações, notadamente, a cláusula 3.4.
+Com efeito, a autora não foi dispensada da realização do exame concluinte (fls. 47 e 49, ENADE concluinte) de modo que a nota obtida em 2015 foi de 45,2 de 100 pontos (fls. 170/171), o que equivale a 2,26, e, assim, abaixo do mínimo de 3,0 estabelecido, como bem explicado pela defesa (fls. 362).
+(..)
+Destarte, afigurou-se precisa a consideração do d. magistrado a quo segundo a qual "as cláusulas não são abusivas, nem a suposta alteração realizada posteriormente, já que a autora foi devidamente cientificada e com os requisitos devidamente descritos no contrato de garantia de pagamento das prestações do FIES, como se vê às fls. 247/250 e 387/389, de modo que incumbia à autora cumprir os requisitos para fazer jus ao benefício de pagamento do financiamento pela UNIESP".
+Como visto, o Tribunal de origem, segundo as provas dos autos, concluiu que, apesar de ter a recorrente tomado ciência dos requisitos do programa de financiamento estudantil, não os cumpriu integralmente. Dessa forma, a pretensão recursal, no sentido de nulificar a cláusula 3.4 do contrato em questão, em razão de falha no dever de informação da instituição recorrida, demandaria o revolvimento do acervo fático-probatório dos autos, situação insindicável de ser apreciada em recurso especial, ante o óbice da Súmula 7 do STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. O objeto da controvérsia é definir se a instituição de ensino ré, no programa denominado Uniesp Paga, teria omitido da parte autora informações a respeito dos requisitos para obter a isenção de débito contraído com base no Fundo de Financiamento Estudantil (FIES).
+2. O Tribunal de origem afastou a alegação de que não foi observado o dever de informação acerca dos termos do programa e concluiu que a autora não fez jus à obtenção do benefício, pois não cumpriu um dos requisitos necessários (excelência acadêmica). A alteração de tal entendimento demandaria o reexame das provas dos autos e a interpretação de cláusula do contrato celebrado entre as partes, providências vedadas, em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.972.359/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 9/5/2022, DJe de 10/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. OFENSA A DISPOSITIVO DE LEI FEDERAL. EXPRESSA. DEMONSTRAÇÃO. AFASTAMENTO DA SÚMULA N. 284 DO STF. CIVIL. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Aplica-se a Súmula n. 7 do STJ ao caso em que a adoção de conclusões diversas das expostas pela instância de origem, implicar, necessariamente, o reexame do conjunto fático-probatório dos autos.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.737.409/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. REEXAME DE FATOS E PROVAS. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. O objeto da controvérsia é definir se a instituição de ensino ré, no programa denominado Uniesp Paga, teria omitido da parte autora informações a respeito dos requisitos para obter a isenção de débito contraído com base no Fundo de Financiamento Estudantil (FIES).
+2. O Tribunal de origem afastou a alegação de que não foi observado o dever de informação acerca dos termos do programa e concluiu que a autora não fez jus à obtenção do benefício, pois não alcançou pontuação mínima no Exame Nacional de Desempenho dos Estudantes - Enade, conforme dispunha o regulamento do programa da instituição. A alteração de tal entendimento demandaria o reexame das provas dos autos e de cláusula do contrato celebrado entre as partes, providência vedada, em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.695.499/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 7/12/2020, DJe de 1/2/2021.)
+Diante do exposto, deixo de conhecer do recurso especial.
+Publique-se.
+EMENTA
