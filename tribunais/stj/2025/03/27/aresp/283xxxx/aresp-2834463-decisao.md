@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UNIMED DE SANTOS COOPERATIVA DE TRABALHO MÉDICO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. TUTELA DE URGÊNCIA. TRATAMENTO PARA AUTISMO. MÉTODO MIG. PRESENÇA DOS PRESSUPOSTOS DO ART. 300 DO CPC. OBRIGAÇÃO DE COBERTURA, NOS TERMOS DA RN 539 DA ANS, QUE ATUALIZOU O ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA REFERIDA AGÊNCIA REGULADORA. PERICULUM IN MORA DECORRENTE DA NECESSIDADE IMEDIATA DE TRATAMENTO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação do art. 300 do CPC, no que concerne à revogação da tutela concedida à parte recorrida, vez que não restaram demonstradas a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, trazendo a seguinte argumentação:
+Como bem se observa, o Acórdão recorrido entendeu estarem presentes os requisitos exigidos pelo art. 300 do Código de Processo Civil.
+Ocorre que tal entendimento se mostra absolutamente equivocado, configurando violação ao dispositivo legal, pois de fato não se verifica a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Com o devido acato, a probabilidade do direito e o perigo de dano NÃO estão presentes, uma vez que o tratamento pelo método MIG não possui comprovação científica de eficácia e, portanto, seus resultados são incertos.
+ ..
+Assim, nos cabe pontuar que a ausência da probabilidade do direito e do perigo de dano está consubstanciada, essencialmente, no fato de o método MIG ser EXPERIMENTAL (sem comprovação de eficácia), além de não contar com recomendação da CONITEC ou de qualquer outro órgão de avaliação de tecnologias de renome internacional (fls. 180-181)
+É o relatório.
+Decido.
+Quanto à controvérsia, incide, por analogia, a Súmula n. 735/STF, pois, conforme a orientação jurisprudencial do Superior Tribunal de Justiça, é inviável, em regra, a interposição de Recurso Espec ial que tenha por objeto o reexame do deferimento ou indeferimento de tutela provisória, cuja natureza precária permite sua reversão a qualquer momento pela instância a quo.
+Nesse sentido: "É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735/STF). O juízo de valor precário, emitido na concessão de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da referida Súmula 735/STF"". (AgInt no AREsp 1.598.838/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 21.8.2020.)
+Confira-se ainda o seguinte precedente: AgInt no AREsp 1.571.882/BA, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 1º.7.2020; AgInt no REsp 1.830.644/RO, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 26.6.2020; AREsp 1.610.726/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 26.6.2020; AgInt no AREsp 1.621.446/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; AgInt no AREsp 1.571.937/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 13.4.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
