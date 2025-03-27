@@ -1,0 +1,13 @@
+DECISÃO
+F. D. opõe embargos de declaração contra decisão de minha relatoria, em que indeferi liminarmente o habeas corpus, no qual a defesa pleiteava a concessão de salvo-conduto para cultivo de Cannabis sativa com finalidade medicinal.
+A defesa alega, em síntese, que "houve a omissão do Superior Tribunal de Justiça quanto ao ausência de concessão do Habeas Corpus ex of cio, nos termos dos art. 647 e 647-A do Código de Processo Penal; e contradição, tendo em vista que o indeferimento liminar do pedido de Habeas Corpus amplia o risco à liberdade do Paciente e compromete os disposto nos art. 23 do Código penal e do 654 do Código de Processo Penal" (fl. 104).
+Requer, assim, o acolhimento dos embargos, para que seja sanada a omissão e concedido o habeas corpus.
+Decido.
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese dos autos, verifico que a decisão embargada não foi omissa, tampouco contraditória, porquanto explicitou, de maneira clara e concretamente fundamentada, os motivos pelos quais o habeas corpus deveria ser indeferido liminarmente.
+Conforme explicitado na decisão agravada, o acórdão apontado como ato coator é objeto de impugnação nesta Corte Superior no REsp n. 2.184.431, o qual está pendente de julgamento. O pedido aqui deduzido, será, portanto, objeto de análise no recurso já interposto, o qual tem o mesmo objeto que este habeas corpus.
+Destaco que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), bem como à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus - situação que não pode ser constatada, de plano, porque o exame das alegações defensivas demanda análise aprofundada dos autos.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável, não havendo nenhum fundamento que justifique a oposição de embargos de declaração.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
