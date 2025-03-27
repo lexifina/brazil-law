@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de reclamação constitucional ajuizada por RODRIGO FERNANDO DE AZEVEDO contra ato do Desembargador Nelson Fonseca Júnior, do TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+Sustenta o reclamante que a ação tem o fito de preservar a autoridade de decisões deste Superior Tribunal de Justiça e assegurar a observância ao princípio da imparcialidade objetiva do julgador, ofendida no caso sub judice por manifesta hipótese de impedimento legal, tal como disciplinado no art. 252, III, do Código de Processo Penal (fl. 2).
+Aduz que o mandado de segurança impetrado na origem com o fim de sanar nulidades processuais gravíssimas que contaminaram sua condenação penal (fl. 2) foi distribuído ao mesmo Desembargador que atuou como relator na Apelação n. 1505710-23.2020.8.26.0099, na qual se manteve a referida condenação, e o mesmo magistrado vem atuando reiteradamente como relator de diversas outras medidas impetradas pelo reclamante, todas relativas ao mesmo contexto fático e jurídico (fl. 3).
+Argumenta que, em todas essas oportunidades, negou-se sistematicamente a existência de ilegalidade (fl. 3), e tais manifestações reiteradas configuram violência à imparcialidade objetiva, conforme sedimentado no art. 252, III, do CPP, sendo nula de pleno direito a manutenção de magistrado que já tenha se pronunciado sobre o mérito condenatório (fl. 3).
+Aponta violação a súmulas e precedentes do STF e do STJ.
+Busca a concessão de medida liminar para suspender os efeitos dos atos decisórios proferidos pelo magistrado reclamado (fl. 6); e, ao final, a procedência da Reclamação, com a consequente declaração de nulidade dos atos praticados e a redistribuição do feito a outro Relator imparcial (fl. 6).
+É o relatório.
+O pedido, no entanto, é manifestamente inadmissível.
+Ora, verifica-se que a competência originária deste Superior Tribunal para julgar reclamações para preservação de sua competência e garantia da autoridade de suas decisões, na forma dos arts. 105, I, f, da Constituição Federal e 187 do RISTJ, pressupõe a concreta demonstração da não observância de determinação emanada em processo específico.
+É certo que, de acordo com a jurisprudência desta Corte, o cabimento da reclamação calcada na garantia da autoridade das decisões do tribunal (art. 988, II, CPC) surge por ocasião de eventual descumprimento de ordens emanadas desta Corte aplicáveis especificamente para o caso concreto (AgInt na Rcl n. 32.938/MS, Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe 7/3/2017 - grifo nosso).
+Ou seja, a reclamação de que trata a alínea f do permissivo constitucional não é via adequada para preservar a jurisprudência do Superior Tribunal de Justiça, mas, sim, a autoridade de decisão tomada em caso concreto, que envolva as partes postas no litígio do qual oriunda a reclamação.
+Nesse sentido: AgRg na Rcl n. 44.904/SP, Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 15/5/2023; AgInt na Rcl n. 42.365/SE, Ministro Herman Benjamin, Primeira Seção, DJe 28/3/2022; e AgInt na Rcl n. 41.958/DF, Ministro Luis Felipe Salomão, Segunda Seção, DJe 7/12/2021.
+No caso, o pedido não se enquadra em nenhuma das hipóteses previstas, não tendo a parte insurgente logrado êxito em identificar com precisão o ato reclamado.
+Não sendo o caso de usurpação de competência deste Superior Tribunal ou de ofensa direta à decisão aqui proferida, não há como se admitir o processamento da ação, ficando evidenciado o intuito da sua utilização como sucedâneo recursal.
+De qualquer maneira, observo que a hipótese de impedimento prevista no art. 252, III, do Código de Processo Penal busca evitar que um único órgão judicante aprecie a mesma matéria, de fato ou de direito, em instâncias diversas, impedindo a realização efetiva e independente do duplo grau de jurisdição. No caso, a atuação do Desembargador em processos distintos se deu na mesma instância, situação que não guarda relação com a hipótese prevista no citado dispositivo legal.
+Ante o exposto, não conheço da presente reclamação, nos termos do art. 34, XVIII, a, do RISTJ.
+Publique-se.
+EMENTA
+RECLAMAÇÃO. PEDIDO QUE NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES CONSTITUCIONAIS OU LEGAIS. INADMISSIBILIDADE.
+Reclamação não conhecida (art. 34, XVIII, a, do RISTJ).
