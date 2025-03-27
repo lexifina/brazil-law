@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DE MATO GROSSO DO SUL objetivando a reforma da decisão que inadmitiu o Recurso Especial.
+Consta nos autos que o agravado Johnny Gomes Pedroso foi condenado pela prática do crime de tráfico de drogas, à pena de 6 anos de reclusão, em regime semiaberto e pagamento de 600 dias-multa; e o agravado Carlos Eduardo dos Santos Flores pela prática do crime de tráfico de drogas, à pena de 7 anos de reclusão, em regime fechado e pagamento de 700 dias-multa.
+A 2ª Câmara Criminal do Tribunal de Justiça/MS, por unanimidade, deu parcial provimento ao recurso defensivo do réu Johnny e o estendeu ao corréu Carlos Eduardo, reduzindo a pena.
+O Ministério Público Estadual interpôs recurso especial visando negativar a quantidade da droga, conforme determinam os artigos 59 do CP e art. 42, da Lei 11.343/06 (fls. 493-498).
+Inadmitido pelos óbices das Súmulas 7 e 83, STJ (fls. 549-551). Adveio o presente agravo em recurso especial em cujas razões o agravante alega, em síntese, a não incidência do referido óbice ao processamento do recurso (fls. 560-566).
+O Ministério Público Federal se manifestou pelo não provimento do recurso (fl. 643).
+É o relatório. DECIDO.
+O presente agravo impugna especificamente a fundamentação da decisão agravada, de modo que, estando satisfeitos os demais requisitos, merece ser conhecido, a fim de permitir a análise do recurso especial.
+O recurso especial, porém, não deve prosperar.
+O Tribunal de origem, ao afastar a circunstância judicial asseverou que:
+Da fundamentação acima, percebe-se que o magistrado singular considerou desfavorável ao réu a quantidade da droga, exasperando a pena-base em 01 (um) ano de reclusão e 100 dias-multa. Sabidamente, na aplicação da pena-base o julgador pauta-se pelos oito fatores indicativos relacionados no caput do art. 59, do Código Penal e, tratando-se de crime previsto na Lei de Drogas, como na espécie, deve considerar, ainda, e com preponderância sobre o previsto no mencionado dispositivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no art. 42, da Lei nº 11.343/06. No caso em questão, o magistrado singular exasperou a pena-base exclusivamente em razão da quantidade do entorpecente apreendido (8,775g de "maconha"). Todavia, a meu ver, o montante do entorpecente em voga não é vultoso, cuja natureza não é considerada das mais deletérias, quando comparada com as demais existentes, razão pela qual não reclama imposição de maior reprovabilidade à conduta a ensejar o aumento da reprimenda basilar. Assim, diante do afastamento de único vetor desfavorável, reduzo a pena-base ao mínimo legal, qual seja, 05 anos de reclusão e 500 dias-multa. Pelos mesmos fundamentos, de ofício, reduzo a pena basilar do réu Carlos.
+A respeito da presente controvérsia, ressalto, inicialmente, que o entendimento desta Corte se firmou no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve obedecer aos princípios da razoabilidade e proporcionalidade.
+Nesse contexto, a ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade vinculada, devendo o Direito pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça.
+No caso em tela, o Tribunal de origem, dentro da sua discricionariedade, entendeu que diante da análise conjunta da natureza e da quantidade da droga, a pena-base não deveria ser exasperada.
+Rever tais fundamentos, para revalorar a pena-base, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
