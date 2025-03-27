@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Rio Grande do Norte contra a decisão que inadmitiu o recurso especial (fundado no art. 105, III, a, da Constituição Federal) apresentado contra os acórdãos proferidos pelo Tribunal de Justiça local (Apelação Criminal n. 0101008-28.2018.8.20.0108 e Embargos de Declaração n. 0101008-28.2018.8.20.0108) que alteraram parcialmente a sentença que absolveu sumariamente Sueudo Bessa Reges para manter a imputação do art. 306 do Código de Trânsito Brasileiro, determinando retorno dos autos ao juízo a instância ordinária.
+Nas razões do recurso especial, o órgão ministerial suscitou violação do art. 619 do Código de Processo Penal, apontando omissão nos votos quanto a elementos de prova aptos a pronunciar o recorrido. Requer, ainda, seja reconhecido o prequestionamento ficto, com a pronúncia do acusado (fls. 1.644/1.664).
+A Corte de origem inadmitiu o recurso apontando que o fundamento na Súmula 83/STJ (fls. 1.724/1.728).
+Contra o decisum o órgão ministerial interpôs o presente agravo (fls. 1.730/1.757).
+Instado a se manifestar como custos legis, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 1.832/1.838).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Da leitura das razões do recurso especial, verifica-se que o órgão ministerial suscitou omissão do Tribunal a quo na analise de provas que, sob a perspectiva do órgão acusatório, seriam aptas a subsidiar a pronúncia do recorrido pelos crimes de homicídio, quais sejam: a) a prova técnica colacionada aos autos que demonstra, aliada aos depoimentos testemunhais prestados em juízo, a ocorrência do delito previsto no art. 121 do Código Penal (3x) em concurso formal; b) a versão de Allan Reyberg Souza Raulino, primo de uma das vítimas; e c) a análise da existência de crime remanescente com o afastamento do dolo, embora somente em tese se admita, da conduta típica penal (fl. 1.658).
+O órgão ministerial assim destacou em suas razões recursais (fls. 1.658/1.659):
+ ..
+A prova técnica indigitada, além de atestar a alta velocidade com que o réu trafegava na via pública antes da colisão (quase 100 km/h), a força do impacto, a ausência de defeitos no veículo por ele conduzido antes do acidente fatal e a inexistência de marcas de frenagem no local até o momento da batida, ainda constatou "que, nas simulações, com velocidade moderado, o condutor da caminhonete EM ESTADO DE ALERTA E COM CONDIÇÕES FÍSICAS E PSICOLÓGICAS NORMAIS para perceber obstáculo inesperado, momento 3, teria espaço suficiente para reagir e empreender desaceleração de seu veículo. Lembrando que o obstáculo, ciclomotor, encontrava-se em deslocamento, aumentando, desse modo, a possibilidade de escape".
+ ..
+Com efeito, cotejando as razões recursais com o voto condutor exarado no julgamento da apelação criminal, verifica-se que, embora a Corte de origem tenha se manifestado sobre a testemunha Allan, não foi objeto de cotejo a prova técnica mencionada pelo órgão ministerial, tampouco apreciada a tese de possível crime remanescente culposo.
+O acórdão exarado no julgamento dos aclaratórios também nada acresceu a esse respeito (fls. 1.630/1.633). Sendo certo que o órgão ministerial apontou, oportunamente, omissão na análise desses elementos (fls. 1.551/1.560).
+Assim, entendo que a manutenção da sentença, desacompanhada de menção e cotejo desses elementos probatórios, consubstancia clara omissão, já que tal prova ostenta aptidão jurídica para repercutir na convicção no sentido de suficiência de indícios para eventual pronúncia ou desclassificação para crime culposo.
+Assim, o recurso ministerial deve ser acolhido, a fim de anular o acórdão exarado no julgamento dos embargos de declaração, determinando que a Corte de origem renove o julgamento daquele recurso, suprindo a omissão na análise dos elementos de prova acima referidos, cotejando esses elementos com os demais produzidos na instrução.
+O pedido subsidiário para pronúncia do acusado fica prejudicado.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, nos moldes acima explanados.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. VIOLAÇÃO DO ART. 619 DO CPP. SUPOSTA OMISSÃO NO PRONUNCIAMENTO EXARADO EM SEGUNDO GRAU. PROCEDÊNCIA. AUSÊNCIA DE EXAME DE ELEMENTO PROBATÓRIO RELEVANTE NO VOTO CONDUTOR DO ACÓRDÃO IMPUGNADO. OMISSÃO NÃO SUPRIDA NO JULGAMENTO DOS ACLARATÓRIOS. NULIDADE. RETORNO DOS AUTOS AO TRIBUNAL A QUO PARA RENOVAÇÃO DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+Agravo conhecido para dar provimento ao recurso especial.
