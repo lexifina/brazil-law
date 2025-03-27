@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado por SESAMM - SERVICOS DE SANEAMENTO DE MOGI MIRIM S.A., desafiando decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial com base nos seguintes fundamentos: (i) ausência de violação ao art. 1.022 do CPC; (ii) incidência da Súmula 7/STJ.
+Nas razões do agravo, a parte agravante alega, em síntese, que: "deve ser cassada a r. decisão agravada em razão de seu caráter genérico e da ausência de adequada fundamentação relativa ao recurso especial em concreto.  ..  todas as premissas fáticas estão assentadas no V. acórdão, bastando a esse Col. Superior Tribunal de Justiça que examine o acerto ou equívoco na aplicação das normas jurídicas que levaram à imposição da condenação da agravante. Daí também porque o recurso especial é plenamente admissível, pois a matéria em discussão é exclusivamente jurídica, não se cogitando da aplicação da súm. 7 dessa Col. Corte" (fls. 548/557).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, em suas razões de agravo, a parte agravante deixou de rebater, de modo específico, tanto a fundamentação a respeito da ausência de violação ao art. 1.022 como a incidência da Súmula 7/STJ ao caso concreto.
+Com efeito, a efetiva impugnação à incidência da Súmula 7/STJ deve se caracterizar pela especificação de quais seriam as provas objeto de revaloração ou a tese de direito a ser analisada, não bastando o argumento genérico de que não se pretende o reexame de provas mas a correta aplicação de dispositivo de lei federal. Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+2. Conforme a jurisprudência, "inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão" (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.462.244/GO, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/12/2024, DJEN de 17/12/2024.)
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo em recurso especial.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
