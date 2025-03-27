@@ -1,0 +1,63 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 70-71):
+DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE DA CONDENAÇÃO. INVIOLABILIDADE DE DOMICÍLIO. BUSCA E APREENSÃO SEM MANDADO JUDICIAL. EXPRESSO E ESCRITO CONSENTIMENTO PARA O INGRESSO. DESCLASSIFICAÇÃO PARA O DELITO PREVISTO NO ART. 28 DA LEI DE DROGAS. PEQUENA QUANTIDADE DE DROGAS. AUSÊNCIA DE INDICAÇÃO DE OUTROS ELEMENTOS A EVIDENCIAR A MERCÂNCIA. ORDEM PARCIALMENTE CONCEDIDA.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que validou o ingresso de policiais em domicílio sem mandado judicial, com fundamento em justa causa, em razão de fundadas razões que indicavam a prática de crime de tráfico de drogas, configurado como crime permanente, bem como denegou a desclassificação da conduta para o tipo previsto no art. 28 da Lei n. 11.343/2006.
+II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se o ingresso em domicílio sem mandado judicial é válido em casos de flagrante delito permanente, como o tráfico de drogas; (ii) estabelecer se a existência de fundadas razões, justificadas a posteriori, constitui requisito suficiente para mitigar o direito à inviolabilidade domiciliar e (iii) possibilidade de desclassificar a conduta.
+III. RAZÕES DE DECIDIR
+3. O ingresso em domicílio sem mandado judicial é lícito quando há flagrante delito, conforme o art. 5º, XI, da Constituição Federal, sendo o crime permanente uma hipótese de flagrância que se protrai no tempo.
+4. A limitação constitucional de ingresso durante o período noturno se aplica apenas aos casos em que a busca ocorre por ordem judicial; não se estende às hipóteses de flagrante delito, desastre ou prestação de socorro.
+5. A entrada forçada em domicílio exige justa causa, consubstanciada em fundadas razões que indiquem, de forma objetiva, a prática de crime no interior da residência. A mera constatação posterior de flagrância não valida a medida se não houver tais elementos prévios.
+6. A ausência de controle judicial, mesmo que posterior à medida, compromete a garantia de inviolabilidade do domicílio e configura ingerência arbitrária, devendo haver fiscalização judicial das justificativas que respaldaram a ação.
+7. No caso concreto, houve o expresso e escrito consentimento prévio do paciente no ingresso dos policiais, devidamente juntada nos autos por meio de prova documental, não havendo que se falar em nulidade por este fundamento.
+8. A distinção entre os delitos de tráfico de drogas e posse para consumo próprio depende da análise da quantidade de droga, da sua fragmentação e das circunstâncias do caso concreto, conforme prevê o art. 28, § 2º, da Lei n. 11.343/2006.
+9. A jurisprudência consolidada admite a revaloração de fatos incontroversos para fins de desclassificação, sem que haja necessidade de revolvimento fático-probatório. No presente caso, embora a quantidade de droga apreendida (25g de maconha) seja compatível com o consumo pessoal, o fracionamento em 69 trouxinhas foi considerado pelas instâncias de origem como indicativo de mercancia, por si só, não é suficiente para a condenação por tráfico de drogas, devendo prevalecer o princípio in dubio pro reu .
+10. Ordem parcialmente concedida, para desclassificar a conduta do paciente para o tipo previsto no art. 28 da Lei n. 11.343/2006.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, XXXV, XXXVI e LV, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que a decisão do STJ ignorou a impropriedade do meio impugnativo utilizado, adentrando em matéria fática e probatória de forma indevida.
+Aduz que a decisão colegiada afronta a jurisprudência consolidada da Suprema Corte, que não permite o uso do habeas corpus como substitutivo de recurso, especialmente quando há necessidade de dilação probatória.
+Nesse sentido, argumenta que o acórdão pode gerar insegurança jurídica, uma vez que teria contrariado a sistemática processual penal e a jurisprudência do Supremo Tribunal Federal.
+Requer, assim, a admissão e o provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 109).
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660 do STF, fixou-se a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+Na hipótese, o exame do alegado desrespeito do art. 5º, XXXVI e LV, da CF dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 81-83):
+Da leitura dos tipos penais em questão, é possível observar que ambos criminalizam as condutas de "ter em depósito e trazer consigo" drogas sem autorização ou em desacordo com determinação legal ou regulamentar.
+A diferença entre elas está na destinação que o portador da droga pretende conferir a ela. Isso porque o tipo penal do art. 28 da Lei n. 11.343/2006 criminaliza tais condutas quando o indivíduo tiver por objetivo o "consumo pessoal". Já o art. 33 da mesma Lei não exige especial destinação.
+O §2º do art. 28 ainda apresenta os parâmetros para se definir se a destinação da droga era para consumo próprio ou não, que são: (i) natureza da droga; (ii) quantidade da substância; (iii) local e as condições em que se desenvolveu a ação; (iv) as circunstâncias sociais e pessoais e (v) conduta e antecedentes.
+Nesse sentido, em recente decisão, o Supremo Tribunal Federal houve por bem firmar a seguinte tese: "Nos termos do § 2º do artigo 28 da Lei 11.343/2006, será presumido usuário quem, para consumo próprio, adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, até 40 gramas de cannabis sativa ou seis plantas-fêmeas, até que o Congresso Nacional venha a legislar a respeito" (Tema 506).
+No presente feito, a condenação foi calcada nos seguintes elementos (e-STJ fls. 28-29)
+No caso em tela, foram apreendidos 25g (vinte e cinco gramas) de maconha (fl.12). Friso que essa quantidade não é significativa e, por si só, não dá ensejo à conclusão da destinação da droga apreendida ao tráfico, sendo, em verdade, comumente enquadrada como consumo pessoal, como entende esta Câmara:
+ ..
+Em que pese a quantidade seja compatível com o uso próprio, como acima exposto, tal droga estava fracionada em 69 (sessenta e nove)trouxinhas, motivo pelo qual se elide a possibilidade de enquadramento do delito contido no art.28, para fins de desclassificação.
+Observa-se, portanto, que o Tribunal de origem houve por bem apontar como elementos indicadores da traficância a quantidade de droga e o acondicionamento em diversas porções.
+Ocorre que a revaloração das provas não permite afirmar, com a segurança necessária ao édito condenatório, que a substância entorpecente que o paciente tinha consigo era destinada à venda ou oferta.
+De fato, em se tratando da apreensão de apenas 25g de maconha, não se pode cogitar, na forma da jurisprudência desta Corte, da tipificação do delito na modalidade "ter em depósito".
+Efetivamente, considerando o princípio do in dubio pro reo, há de prevalecer a alegação do paciente de que seria usuário de drogas, respaldada pela quantidade apreendida.
+A jurisprudência do Superior Tribunal de Justiça vem se posicionando de maneira clara acerca da necessidade da consolidação de quadro seguro sobre a autoria e a materialidade para que se possa dar o réu por incurso no delito de tráfico, prevalecendo, em caso de dúvida, o tipo do art. 28 da Lei n. 11.343/2006.
+Nesse sentido, cito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. LASTRO PROBATÓRIO INSUFICIENTE. DESCLASSIFICAÇÃO. ART. 28 DA LEI N.11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+1. É possível examinar em habeas corpus a legitimidade da condenação imposta desde que não seja necessário que se proceda à dilação probatória.
+2. Para a imposição de uma condenação criminal, faz-se necessário que seja prolatada uma sentença, após regular instrução probatória, na qual haja a indicação expressa de provas suficientes acerca da comprovação da autoria e da materialidade do delito, nos termos do art. 155 do Código de Processo Penal.
+3. Insta salientar, ainda, que a avaliação do acervo probatório deve ser realizada balizada pelo princípio do favor rei. Ou seja, remanescendo dúvida sobre a responsabilidade penal do acusado, imperiosa será a sua absolvição, tendo em vista que sobre a acusação recai o inafastável ônus de provar o que foi veiculado na denúncia.
+4. A apreensão da droga em poder do acusado, por si só, não indica a realização do tipo inserto no art. 33 da Lei de Drogas, notadamente se considerada a pouca quantidade que foi encontrada. Além disso, não foram localizados petrechos comuns a essa prática (balança de precisão, calculadora, recipientes para embalar a droga, etc). Em suma, baseou-se a sentença apenas na apreensão dos entorpecentes, cuja quantidade, a meu ver, "42,2gramas de maconha, em 50 porções; 2,38 gramas de cocaína, em12 porções; e 4,34 gramas de crack, em 22 porções" (e-STJ fls.151/152), ajusta-se ao que prescreve o art. 28 da Lei de Drogas, autorizando concluir que o réu a tinha para uso próprio.
+5. Agravo regimental a que se nega provimento (AgRg no HC n. 687674/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, j. em 15/2/2022, DJe de 18/2/2022).
+Ante o exposto, concedo em parte a ordem de habeas corpus para desclassificar a conduta do paciente para a prevista no art. 28 da Lei n. 11.343/2006 e determinar que as sanções administrativas lhe sejam aplicadas pelo Juízo de origem.
+ .. .
+3. Ademais, no julgamento do RE n. 956.302-RG, a Suprema Corte firmou o entendimento de que a questão relativa à possível violação do princípio da inafastabilidade de jurisdição possui natureza infraconstitucional "quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição Federal ou análise de matéria fática".
+A referida orientação foi consolidada no Tema n. 895 do STF, nos seguintes termos:
+A questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(RE n. 956.302-RG, relator Ministro Edson Fachin, Tribunal Pleno, julgado em 19/5/2016, DJe de 16/6/2016.)
+No caso dos autos, a apreciação da apontada ofensa ao art. 5º, XXXV, da CF demandaria o exame de normas infraconstitucionais, motivo pelo qual se aplica a conclusão do STF no Tema n. 895.
+Do mesmo modo, trata-se de entendimento firmado na sistemática da repercussão geral e, portanto, de observância cogente (art. 1.030, I, a, do CPC).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA, BEM COMO À SEGURANÇA JURÍDICA. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA N. 660 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
