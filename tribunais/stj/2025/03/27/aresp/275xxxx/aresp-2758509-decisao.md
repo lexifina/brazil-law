@@ -1,0 +1,34 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por FRIGORIFICO BXB LTDA contra contra decisão que inadmitiu recurso especial com fundamento na aplicação da Súmula 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a, da Constituição Federal.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, cumpre registrar que não é o caso de sobrestar o recurso em razão do Tema 1255/STF. Isso porque não está em discussão a "possibilidade da fixação dos honorários por apreciação equitativa (artigo 85, § 8º, do Código de Processo Civil) quando os valores da condenação, da causa ou o proveito econômico da demanda forem exorbitantes". A controvérsia destes autos cinge-se, em suma, à verificação da aplicabilidade do art. 827 do CPC/2015 às execuções fiscais.
+Quanto ao mais, o recurso especial não merece prosperar.
+Este Superior Tribunal de Justiça possui entendimento pacificado no sentido de que a partir da "análise do art. 827 do CPC/2015, verifica-se que o legislador, ao determinar o arbitramento, no início da execução, de honorários no percentual de 10%, buscou atender ao interesse do credor, entretanto, sem esquecer de mitigar os honorários quando satisfeita a execução, disposições que vão ao encontro do princípio da maior efetividade da execução" (AREsp n. 1.798.708/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 3/8/2021, DJe de 10/8/2021).
+Oportuno registrar que o referido regramento também deve ser observado em solo de execução fiscal de título executivo extrajudicial (CDA), por representar, igualmente, uma execução por quantia certa, capítulo no qual está inserido o art. 827 do CPC/2015.
+Confira-se o entendimento desta Corte em julgados semelhantes:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS. FIXAÇÃO INICIAL. ART. 827 DO CPC/2015. PERCENTUAL TARIFADO. OBSERVÂNCIA.
+1. O Código de Processo Civil de 2015 dispõe de regra própria para o estabelecimento da verba honorária inicial em execução de título executivo extrajudicial, gênero que também contempla a espécie Certidão de Dívida Ativa (CDA), o que afasta a disciplina geral preconizada no art. 85 do aludido Codex.
+2. O art. 827 do referido diploma processual dispõe que, ao despachar a inicial de execuções de título extrajudicial, o juiz fixará, de plano, os honorários advocatícios de dez por cento, a serem pagos pelo executado.
+3. O referido dispositivo prevê percentual tarifado de honorários de sucumbência a ser fixado, de plano, pelo juiz em favor do exequente, bem como a sua redução ou majoração a depender da sorte da execução (pagamento imediato do débito ou impugnação por embargos).
+4. Contrariamente ao afirmado no acórdão recorrido, a aplicação do regramento do art. 827 do CPC/2015 às execuções fiscais não cuida de estabelecer uma vantagem pecuniária desarrazoável para a Fazenda Pública, mas de reconhecer o maior interesse do credor, a máxima efetividade da execução e de manter a isonomia entre os exequentes independentemente de quem sejam eles.
+5. Agravo conhecido para dar provimento ao recurso especial (AREsp n. 1.720.769/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/3/2021, DJe de 19/4/2021).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CDA. FIXAÇÃO DE VERBA HONORÁRIA NO DESPACHO INICIAL. APLICAÇÃO DO ART. 827 DO CPC/2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - No despacho inicial em execução fiscal - execução de título extrajudicial - CDA -, impõe-se a fixação de honorários advocatícios no percentual de 10% (dez por cento), a teor do disposto no art. 827 do CPC/2015. Precedentes.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido (AgInt no AgInt no REsp n. 1.912.918/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 7/6/2021, DJe de 9/6/2021)
+No particular, o Tribunal de origem, ao analisar a controvérsia posta nos autos, entendeu aplicável ao caso a regra prevista no art. 827 do CPC/2015, nos seguintes termos:
+Com efeito, o art. 827 do CPC, aplicável às Execuções Fiscais por força do disposto no art. 1º da Lei nº 6.830/80, estabelece que o juiz, ao despachar a inicial, "fixará, de plano, os honorários advocatícios de dez por cento, a serem pagos pelo executado", sendo que tal montante "será reduzido pela metade" na hipótese de integral pagamento do débito no prazo de 3 (três) dias.
+Na hipótese, não se pode olvidar que o regramento da execução é específico e constituiu a opção legislativa estabelecer honorários em parâmetros fixos, conquanto seja possível elevar a mencionada verba "até vinte por cento, quando rejeitados os embargos à execução, podendo a majoração, caso não opostos os embargos, ocorrer ao final do procedimento executivo, levando-se em conta o trabalho realizado pelo advogado do exequente" (§ 2º). E, justamente por se tratar de um regramento especial, não se aplica, por exemplo, o § 3º do art. 85 do CPC, que prevê parâmetros de honorários advocatícios na fase de conhecimento:
+ ..
+Frise-se, os honorários iniciais fixados na execução são provisórios e devem servir de estímulo ao executado para adimplir voluntariamente o débito, independentemente do montante objeto da cobrança, daí por que não pode ser afastada para incidência da regra do art. 85 do CPC.
+Assim, por estar de acordo com o entendimento do Superior Tribunal de Justiça a respeito da matéria, não merece reforma o acórdão recorrido.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
