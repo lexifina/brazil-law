@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração contra a decisão de fls. 80-81 que indeferiu liminarmente a petição inicial do habeas corpus, nos seguintes termos:
+A presente impetração não tem como prosperar, sendo evidente a inadequação da via eleita.
+Nos termos do art. 5º, LXVIII, da Constituição Federal, "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Como a referida liberdade de locomoção diz respeito a pessoa natural, o writ é incabível quando se trata de pessoa jurídica.
+Nesse sentido: RHC n. 161.149/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/03/2022, DJe de 24/3/2022; RHC n. 88.264/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/2/2018, DJe de 21/2/2018; RHC n. 48.172/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 20/10/2015, DJe de 10/11/2015; e PExt no RHC n. 42.618/SP, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 5/5/2015, DJe de 19/5/2015.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se.
+Intimem-se.
+O impetrante opõe embargos de declaração, às fls. 82-87, com fulcro no art. 1.022 do Código de Processo Civil, apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+Omissão: A decisão em questão omite-se quanto ao reconhecimento do caráter sui generis da ANEEL como pessoa jurídica de direito público, cuja atuação e interesse na causa são de natureza pública e afetam diretamente a ordem pública, a economia pública e o interesse coletivo.
+Contradição: A decisão contém contradição ao não se aprofundar na análise da diferenciação entre a liberdade de locomoção de uma pessoa natural e a atuação regulatória de uma agência pública, que, embora não tenha liberdade de locomoção no sentido estrito, possui um interesse de ordem pública que deveria ser protegido pelo writ constitucional.
+Obscuridade: A decisão é obscura na medida em que não esclarece como a proteção da ordem pública, a economia pública e o interesse público não podem ser discutidos através de um habeas corpus quando se trata de uma agência reguladora pública como a ANEEL, especialmente considerando a jurisprudência que reconhece a extensão do habeas corpus para além da mera proteção da liberdade de locomoção.
+Às fls. 102-106, o Ministério Público manifestou-se pela rejeição dos declaratórios.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+Nos termos do art. 1022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+Não há vício a ser sanado na decisão na decisão embargada que entendeu incabível, nos termos da jurisprudência desta Corte Superior, a impetração de habeas corpus em favor de pessoa jurídica.
+No mesmo sentido inclina a jurisprudência do Supremo Tribunal Federal:
+EMENTA AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CRIME AMBIENTAL. PESSOA JURÍDICA. MANDADO DE SEGURANÇA COMO SUBSTITUTIVO DE HABEAS CORPUS. ATO EMANADO DE TRIBUNAL DE JUSTIÇA. IMPETRAÇÃO NO SUPERIOR TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DECLARADA PELA CORTE SUPERIOR. ART. 105, INC. I, AL. "B", DA CRFB. ROL TAXATIVO. 1. O Superior Tribunal de Justiça declarou-se absolutamente incompetente para processar e julgar mandado de segurança impetrado naquela Corte contra ato da 1ª Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso do Sul, pelo qual mantida a responsabilização da pessoa jurídica ora agravante por crime ambiental. 2. Não podendo a pessoa jurídica lançar mão do habeas corpus, instrumento processual destinado à tutela da liberdade de locomoção, o remédio constitucional subsidiariamente cabível para fazer cessar lesão ou ameaça de lesão a direito por parte do Poder Público, inclusive em sede de ação penal por crime ambiental, é o mandado de segurança. 3. As hipóteses de impetração do mandado de segurança no âmbito do Superior Tribunal de Justiça estão definidas, numerus clausus, no art. 105, inc. I, al. "b" da CRFB, não sendo aquela Corte competente para julgar mandado de segurança impetrado contra atos emanados de outros tribunais. Precedentes. 4. O direito da pessoa jurídica à impetração de mandado de segurança como substitutivo do habeas corpus não dispensa a observância das regras de repartição de competência jurisdicional constitucionalmente fixadas. 5. Agravo regimental ao qual se nega provimento, mantendo-se a decisão de não provimento do recurso ordinário em mandado de segurança. (RMS 39028 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 21-11-2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 05-12-2023 PUBLIC 06-12-2023)
+Os argumentos trazidos pelo embargante configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em sede de declaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
