@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de ALLAN CARLOS ARRUDA DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (habeas corpus nº 2038948-06.2025.8.26.000).
+Consta dos autos que o paciente cumpre pena em regime aberto e teve reconhecida, contra si, falta de natureza grave, em razão de ter sido preso em flagrante por suposta infração ao artigo 33 da Lei de Drogas.
+O Tribunal de origem denegou o habeas corpus impetrado mantendo a decisão do Juiz da Execução que regrediu o ora paciente ao regime semiaberto, em razão da suposta prática de crime doloso.
+Daí o presente writ, no qual a defesa sustenta que o paciente está indevidamente recolhido no regime semiaberto, apesar de ter garantido o direito ao regime aberto, tendo em vista que não houve falta de natureza grave no caso concreto.
+Alega que, "em audiência de instrução e julgamento, sua conduta foi desclassificada para o artigo 28 da Lei nº 11.343/2006 (porte para consumo próprio), ou seja, um ato que sequer caracteriza crime, conforme jurisprudência consolidada do Supremo Tribunal Federal (STF)" (fl. 3).
+A impetrante aduz que não subsiste o fundamento para a regressão de regime uma vez que: "a) Não houve falta disciplinar grave; b) O porte de droga para consumo próprio não configura crime (STF, RE 635.659); e c) O paciente já cumpriu tempo suficiente no regime mais gravoso, mesmo que fosse considerada eventual falta de natureza média" (fl. 4).
+Requer o imediato reestabelecimento do regime aberto, com a expedição de alvará de soltura.
+Informações (fls. 44-47 e 48-62).
+O MPF oficiou pelo não conhecimento do habeas corpus (fls. 65-69).
+É o relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A controvérsia cinge-se a saber se a homologação da falta grave, nos moldes em que imposta, teria se dado de forma correta.
+A moldura fática do acórdão impugnado indica que (fls. 9-11 ):
+ ..  Insurge-se a Impetrante contra ato do digno Juízo apontado como coator que regrediu o Paciente ao regime semiaberto, embora ausente a prática de falta grave ou crime doloso, entretanto, consta da r. decisão, que:
+".. Na situação ora em apreço, conforme se infere dos autos nº1500218-07.2024.8.26.0622, o reeducando praticou fato definido como crime doloso durante o cumprimento da pena em meio aberto. Com efeito, aludidos autos dão conta que o reeducando foi preso em flagrante e teve a prisão convertida em preventiva em razão da suposta prática do crime de tráfico de drogas (art. 33, "caput", da Lei 11.343/06). ..
+Posto isso, com fundamento no art. 118, I, da Lei de Execução Penal, DECRETO a regressão cautelar do regime aberto de cumprimento de pena que usufrui o reeducando ALLAN CARLOS ARRUDA DOS SANTOS para o REGIME SEMIABERTO.." (fls. 20/25).
+Em seguida, sobreveio sentença condenatória desclassificando a conduta do Paciente para o previsto no art. 28, da Lei nº 11.343/06 (fls. 07/12).
+Inicialmente, destaco que a prática de novo crime durante o regime aberto, implica, obrigatoriamente, na regressão de regime prisional, nos termos do art. 118, I, da Lei de Execução Penal.
+Portanto, acertada a decisão do d. Juízo apontado como coator ao determinar a regressão cautelar do Paciente ao regime semiaberto, pois acabou sendo condenado por novo crime e, conforme dispõe o art. 118, da Lei de Execução Penal, a regressão de regime pode se dar "para qualquer dos regimes mais gravosos".
+Importante ressaltar que a regressão foi cautelar, devido a ausência de trânsito em julgado da r. sentença condenatória, o que não demonstra, ao menos no momento, qualquer constrangimento ilegal em desfavor do Paciente.
+Se transitada em julgado a sentença condenatória, e se entender o Paciente proferida com erro judiciário, a ele cumprirá desconstituí-la pela via própria para, após sim, afirmar que não penderia contra ele condenação por crime praticado no curso do cumprimento da pena em regime aberto.
+Ante todo o exposto, DENEGO a presente ordem de habeas corpus, impetrada em favor de ALLAN CARLOS ARRUDA DOS SANTOS, qualificado nos autos, devendo aguardar como se encontra nos autos de Execução Criminal nº 0006797-77.2019.8.26.0502 DEECRIM - 3ª RAJ da Comarca de Bauru. (grifei)
+Esses fatores, considerados em conjunto, levaram o Tribunal à conclusão de que o paciente deveria sofrer a regressão cautelar de regime, nos moldes exatos em que fora imposta, até que haja o trânsito em julgado da respectiva condenação, seja por uso de drogas, seja por seu tráfico, quando, então, poderá haver qualquer eventual readequação pelo Juízo da Execução.
+Com efeito, para que fosse possível desconstituir essas premissas, devidamente fundamentadas em fatos concretamente extraídos dos autos, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+A esse respeito:
+ ..  De tal modo, não é possível na via eleita desconstituir referida conclusão, porquanto demandaria indevido revolvimento de fatos e provas  ..  (AgRg no HC n. 904.707/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024)
+ ..  A reforma das conclusões a que chegaram as instâncias ordinárias constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito  ..  (AgRg no HC n. 903.566/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/6/2024, DJe de 12/6/2024)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
