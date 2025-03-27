@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO CRIMINOSA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, com base na garantia da ordem pública, para evitar o risco de reiteração criminosa. Nesse sentido: AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+3. Nesse contexto, verifica-se, da leitura do decreto prisional, que o custodiado responde a outra ação penal por suposto crime de roubo, conforme o art. 157, § 2º, II, do Código Penal, na qual foi citado por edital, mas não compareceu nem nomeou advogado.
+4. No caso concreto, as medidas alternativas à prisão se mostram insuficientes .
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS VINICIUS MUNIZ DE SOUZA contra a decisão de fls. 204-206 que negou provimento ao recurso em habeas corpus.
+Nas razões deste recurso, a defesa aduz a ausência de requisitos para a prisão preventiva, bem como a aplicabilidade ao caso concreto das medidas cautelares diversas da prisão.
+Destaca que a argumentação genérica sobre a gravidade abstrata do delito não justifica prisão cautelar, apontando que as razões fáticas da necessidade da medida deveriam ser explicitadas, o que não ocorreu, configurando ilegalidade da coação.
+Requer, ao final, o acolhimento do agravo, pretendendo a reconsideração da decisão proferida, a fim de obter a concessão da ordem.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REITERAÇÃO CRIMINOSA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade, com base na garantia da ordem pública, para evitar o risco de reiteração criminosa. Nesse sentido: AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+3. Nesse contexto, verifica-se, da leitura do decreto prisional, que o custodiado responde a outra ação penal por suposto crime de roubo, conforme o art. 157, § 2º, II, do Código Penal, na qual foi citado por edital, mas não compareceu nem nomeou advogado.
+4. No caso concreto, as medidas alternativas à prisão se mostram insuficientes .
+5. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam nenhum equívoco na decisão recorrida.
+A decisão que denegou o recurso em habeas corpus foi assim fundamentada (fls. 204-206):
+A prisão cautelar foi assim fundamentada (fl. 65 - grifei):
+Na hipótese, estão presentes os requisitos autorizadores da prisão preventiva.
+O fumus commissi delicti está evidenciado pela prova da materialidade (laudo preliminar confirmando que as substâncias apreendidas são cocaína e maconha) e pelos indícios de autoria (confissão do autuado e depoimentos dos policiais).
+Quanto ao periculum libertatis, verifica-se que a prisão preventiva é necessária para garantia da ordem pública e para assegurar a aplicação da lei penal. A reiteração criminosa representa perigo concreto que justifica a segregação cautelar.
+Ademais, o delito em exame é crime doloso apenado com pena privativa de liberdade superior a quatro anos (art. 313, I, do CPP).
+Assim, as circunstâncias e os elementos apurados até o momento permitem a conclusão, em cognição sumária, pela gravidade concreta do crime e do risco à ordem pública e, assim, resta presente o perigo atual e contemporâneo gerado pelo estado de liberdade do imputado (art. 312, § 2º, do CPP). Logo, a prisão preventiva é necessária como garantia da ordem pública e, por consequência, resta inviabilizada a adoção de medidas cautelares diversas da prisão (art. 282, § 6º, do CPP).
+Diante do exposto, HOMOLOGO o presente Auto de Prisão em Flagrante e CONVERTO a prisão em flagrante em prisão preventiva em desfavor de MARCOS VINÍCIUS MUNIZ DE SOUZA, qualificado nos autos, sem prejuízo de posterior revisão pelo Juízo de Direito competente à luz do disposto no art. 316 do CPP.
+Ainda, segundo a decisão que manteve a prisão preventiva (fl. 101 - grifei):
+O custodiado responde a uma ação penal pela suposta prática de crime previsto no art. 157, parágrafo 2º, inciso II, do Código Penal, na Comarca de Vitória da Conquista (autos de nº 0503743-36.2019.8.05.0274 - ID 474960080 - Pág. 1).
+Frise-se que na referida ação penal o réu foi citado por edital, não compareceu, nem constituiu advogado.
+Assim, a custódia cautelar é necessária em razão do fundado perigo gerado pelo estado de liberdade do agente, garantindo-se a ordem pública em razão da periculosidade em concreto do indivíduo aliada à real possibilidade de reiteração delitiva, resguardando-se, desse modo, a sociedade de maiores danos.
+A existência de inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública. Nesse sentido  ..
+A leitura dos excertos revela que, apesar de a quantidade de drogas apreendidas não ser expressiva (21,20 g de maconha e 3,60 g de cocaína), a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, em razão do risco concreto de reiteração delitiva, pois, segundo consignado pelo Juízo de primeiro grau, o recorrente responde a uma ação penal pela suposta prática do crime de roubo. Além disso, na referida ação penal, o réu foi citado por edital, não compareceu nem constituiu advogado.
+Tal entendimento está alinhado com a jurisprudência consolidada do Superior Tribunal de Justiça de que a periculosidade do acusado, evidenciada pela reiteração de condutas delitivas, constitui fundamento idôneo para a decretação da prisão cautelar, visando à garantia da ordem pública, como ocorre no caso em questão. Nesse sentido: AgRg no HC n. 837.919/TO, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; e AgRg no HC n. 856.044/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024.
+Nesse contexto, esta Corte Superior de Justiça tem, reiteradamente, decidido, por ambas as Turmas que compõem a Terceira Seção, que "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, nos termos do art. 34, XVIII, b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso em habeas corpus.
+Conforme consignado, a prisão preventiva encontra-se devidamente fundamentada na garantia da ordem pública a fim de evitar a reiteração delitiva. A decisão monocrática acima transcrita vai ao encontro do entendimento desta Corte Superio r de Justiça, que legitima a segregação cautelar de indivíduos reincidentes ou que possuam ações penais em curso, com a finalidade de salvaguardar a ordem pública e evitar o cometimento de novos delitos. Nesse sentido: (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
