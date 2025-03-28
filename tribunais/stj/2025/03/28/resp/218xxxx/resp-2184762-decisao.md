@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RAFAEL LOPES DOS SANTOS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS em julgamento da Revisão Criminal n. 807368-93.2023.8.02.0000.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, à pena de 6 anos de reclusão, além de 600 dias-multa (fl. 305).
+A revisão criminal proposta foi julgada improcedente (fl. 308). O acórdão ficou assim ementado:
+"REVISÃO CRIMINAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE ILEGALIDADE DA PRISÃO EM FLAGRANTE DO RÉU EM RAZÃO DA NULIDADE DA BUSCA PESSOAL QUE TERIA SE BASEADO EXCLUSIVAMENTE EM "DENÚNCIA ANÔNIMA", O QUE CONTRARIARIA O ENTENDIMENTO CONSOLIDADO DO STJ. NÃO ACOLHIDA. SENTENÇA PROFERIDA EM DEZEMBRO DE 2019, COM TRÂNSITO EM JULGADO EM MAIO DE 2020. ENTENDIMENTO JURISPRUDENCIAL DA ÉPOCA DA PROLAÇÃO DA SENTENÇA ERA NO SENTIDO DE QUE A BUSCA PESSOAL PODERIA SER FEITA DURANTE DILIGÊNCIA POLICIAL PARA APURAR A VERACIDADE DE NOTÍCIA CRIME ANÔNIMA DA PRÁTICA DE CRIME DE TRÁFICO DE DROGAS. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DE MUDANÇA NO ENTENDIMENTO JURISPRUDENCIAL, SOB PENA DE VIOLAÇÃO DA SEGURANÇA E DA ESTABILIDADE JURÍDICA. PRECEDENTES DO TJAL E DO STJ. REVISÃO CRIMINAL IMPROCEDENTE
+1 - O requerente foi condenado, em dezembro de 2019, a pena de 6 (seis) anos de reclusão pelo cometimento do crime de tráfico de drogas. O trânsito em julgado da sentença ocorreu em maio de 2020.
+2 - O conceito de justa causa apta a justificar a busca pessoal deve ser avaliado de acordo com o entendimento jurisprudencial vigente à época da prolação da sentença, que era no sentido de que era possível a busca pessoal ser realizada durante diligência policial que apurasse a veracidade de notícia crime anônima da prática do crime de tráfico de drogas.
+3 - A presente revisão criminal pretende a aplicação retroativa de precedentes do STJ firmados em 2022 e 2023 que alterou o entendimento até então vigente. Acolher tal pretensão significaria violar os princípios da segurança jurídica e da estabilidade jurídica, nos termos da jurisprudência do TJAL (0809461-63.2022.8.02.0000 e 0801142-72.2023.8.02.0000) e do STJ (AgRg no HC n. 814.053/SP).
+4 - Revisão Criminal julgada improcedente." (fl. 303)
+Em sede de recurso especial (fls. 316/325), a defesa apontou violação aos arts. 157, 240, §2º e 244, todos do Código de Processo Penal - CPP. Para tanto, assevera que "no caso em exame, os policiais que realizaram a busca pessoal no recorrente não apresentaram qualquer dado concreto capaz de indicar a existência de fundada suspeita de que o mesmo estivesse "na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito". Dos seus relatos colhidos no inquérito resta claro que a busca foi realizada unicamente com base em denúncia anônima, o que, nos termos do entendimento firmado por esta Augusta Corte, não constitui justa causa para a realização da medida invasiva" (fl. 324).
+Requer a declaração da nulidade da busca pessoal e da ilegalidade das provas, com a consequente absolvição do recorrente.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS (fls. 332/339).
+Admitido o recurso no TJ (fls. 341/343), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo não conhecimento do recurso especial (fls. 355/359).
+É o relatório.
+Decido.
+De plano, verifica-se que o Tribunal a quo não se manifestou acerca das teses de ilicitude das provas e de nulidade da busca pessoal previstas nos arts. 157, 240, § 2º e 244, todos do CPP.
+Dessa forma, o recurso carece do adequado e indispensável prequestionamento. Incidentes, por analogia, as Súmulas n. 282 (" é  inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada") e 356 (" o  ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), ambas do STF.
+Inviável, pois, o conhecimento do apelo nobre quanto ao ponto.
+Nesse sentido, confiram-se precedentes:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N.ºS 282 E 356, AMBAS DO STF. DECISÃO MANTIDA.
+I - Como se sabe, o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a decisão agravada por seus próprios fundamentos.
+II - Com efeito, constato que a matéria, da forma como trazida nas razões recursais, não foi objeto de debate na instância ordinária, o que inviabiliza a discussão da matéria em sede de recurso especial, por ausência de prequestionamento.
+III - Nos termos da jurisprudência deste Superior Tribunal, "Incidem as Súmulas n. 282 e 356 do STF quando a questão suscitada no recurso especial não foi apreciada pelo tribunal de origem e não foram opostos embargos de declaração para provocar sua análise" (AgRg nos EDcl nos EDcl no AREsp n. 1.727.976/DF, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 10/6/2022).
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.948.595/PB, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 24/10/2023, DJe de 6/11/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ART. 171, § 3.º, DO CÓDIGO PENAL. PLEITO DE APLICAÇÃO DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DA SUPREMA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pleito de concessão do Acordo de Não Persecução Penal não foi objeto de apreciação pela Corte de justiça de origem e não se opuseram embargos de declaração. Ausência de prequestionamento. Incidência das Súmulas n. 282/STF e 356/STF.
+2. In casu, quando do julgamento dos embargos de declaração, que ocorreu em 09/03/2020, a Lei n. 13.964/2019 já estava em vigor e a prestação jurisdicional não estava encerrada e, assim, não há falar em impossibilidade de levar o tema à apreciação da Corte a quo.
+3. E ainda que se trate de matéria de ordem pública, o requisito do prequestionamento se mostra indispensável a fim de evitar supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.065.090/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 8/8/2023, DJe de 15/8/2023.)
+Ainda que se assim não fosse, a insurgência não prosperaria, já que o entendimento do Tribunal de origem está de acordo com o desta Corte no sentido de que "o novo entendimento jurisprudencial, ainda que mais benéfico ao réu, não autoriza a revisão do édito condenatório após o trânsito em julgado, conforme precedentes do STJ e do STF" (AgRg no HC n. 928.702/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+Ante o exposto, não conheço do recurso especial, com fundamento no art. 932, III, do Código de Processo Civil - CPC.
+Publique-se. Intimem-se.
+ EMENTA
