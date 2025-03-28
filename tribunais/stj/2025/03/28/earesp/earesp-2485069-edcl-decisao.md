@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de fls. 950/955, em que dei provimento ao agravo regimental para conhecer do agravo em recurso especial e negar provimento ao recurso especial, ao entendimento de que foram apresentados elementos probatórios, independentes do reconhecimento fotográfico, que atestaram a autoria d elitiva, além de ser desnecessário o referido procedimento na hipótese em que a víti ma é capaz de individualizar o agente.
+A defesa do embargante aponta omissão e contradição do julgado, alegando que a decisão foi omissa quanto à fundamentação, além de ser inaplicável a Súmula 568/STJ.
+Pleiteia, assim, o acolhimento dos embargos de declaração para sanar os vícios apontados.
+É o relatório. Decido.
+Os aclaratórios não merecem acolhimento.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado. Na espécie, a decisão embargada não ostenta nenhum dos aludidos vícios.
+As teses trazidas no recurso especial quanto à nulidade do procedimento legal de reconhecimento de pessoas e a modificação da fração da minorante da tentativa foram abordadas na decisão embargada, mediante seguinte fundamentação (fls. 951/955):
+"Embora a jurisprudência desta Corte seja firme no sentido de que "O reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa", no caso dos autos, foram apresentados outros elementos probatórios, independentes do reconhecimento fotográfico, que atestaram a autoria delitiva. Nesse contexto, torna-se inviável o acolhimento do pleito absolutório.
+ ..
+Ademais, " ..  O art. 226, antes de descrever o procedimento de reconhecimento de pessoa, diz em seu caput que o rito terá lugar "quando houver necessidade", ou seja, o reconhecimento de pessoas deve seguir o procedimento previsto quando há dúvida sobre a identificação do suposto autor. Se a vítima é capaz de individualizar o agente, não é necessário instaurar a metodologia legal" (AgRg no HC n. 769.478/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/4/2023).
+Quanto ao pleito subsidiário, "Fixada a redução da pena em razão da tentativa com observância do iter criminis percorrido apurado nos autos, descabe em recurso especial a alteração da fração redutora, pois tal providência enseja o revolvimento fático-probatório, vedado pela Súmula n. 7/STJ" (AgRg no AREsp n. 1.321.942/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/8/2019, DJe de 26/8/2019)."
+Portanto, a matéria recursal foi examinada de forma fundamentada, não havendo falar em qualquer dos vícios elencados no art. 619 do CPP.
+Do mesmo modo, "A decisão monocrática proferida com fundamento na Súmula n. 568 do STJ não viola o princípio da colegialidade, sendo eventual vício suprido com o julgamento do agravo regimental" (AgRg no AREsp n. 2.642.552/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024).
+Ante o exposto, com fulcro no art. 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
