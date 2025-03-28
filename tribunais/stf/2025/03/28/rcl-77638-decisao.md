@@ -1,0 +1,67 @@
+RECLAMAÇÃO. DIREITO DO TRABALHO. ALEGAÇÃO DE OFENSA À DECISÃO VINCULANTE PROFERIDA NA ADC 48. DESCABIMENTO. AUSÊNCIA DE ESTRITA ADERÊNCIA. DECISÃO RECLAMADA QUE ASSENTOU A COMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA O JULGAMENTO DA LIDE. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+
+    DECISÃO: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Focus Serviços Veterinários contra decisão proferida pelo Tribunal Regional do Trabalho da 23ª, nos autos do Processo nº 0000213-75.2024.5.23.0009, sob a alegação de inobservância da decisão vinculante proferida pelo Plenário deste Supremo Tribunal Federal no julgamento da ADC 48.
+
+    Narra a reclamante tratar-se, na origem, de reclamação trabalhista ajuizada pela ora beneficiária, objetivando o reconhecimento de vínculo empregatício, nada obstante a existência de contrato de sociedade, que estabeleceu relação comercial societária, de natureza civil entre as partes.
+
+    Relata que o Juízo de origem, ao reconhecer a competência da Justiça do Trabalho para julgar e processar a lide, violou a ADC 48, “a qual fixou tese determinando que, em caso de contrato de prestação de serviços, o litígio deve ser dirimido pela Justiça Comum” (doc. 1, p. 4).
+
+    Requer a concessão de medida liminar, para suspender a decisão proferida no Processo nº 0000213-75.2024.5.23.0009. No mérito, pugna pela procedência da reclamação, para cassar definitivamente a decisão reclamada, determinando-se a observância do que decidido na ADC 48.
+
+     Dispensa-se, no caso concreto, a requisição de informações da autoridade reclamada e a manifestação da Procuradoria-Geral da República, em homenagem ao princípio da celeridade processual e com esteio no art. 52, parágrafo único, do RISTF.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a reclamação, por expressa determinação constitucional, destina-se a preservar a competência desta Suprema Corte e a garantir a autoridade de suas decisões, ex vi do artigo 102, inciso I, alínea l, além de salvaguardar a estrita observância de preceito constante em enunciado de Súmula Vinculante, nos termos do artigo 103-A, § 3º, ambos da Constituição Federal.
+
+    Nada obstante já encontrasse previsão na legislação anterior, a reclamação adquiriu especial relevo no atual Código de Processo Civil, enquanto meio assecuratório da observância da jurisprudência vinculante dos Tribunais Superiores e no afã da criação de um sistema de precedentes no processo civil brasileiro. Nesse sentido, o Código passou a prever, além das hipóteses diretamente depreendidas do texto constitucional (art. 988, I, II e III), o cabimento da reclamação para a garantia da “observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência” (artigo 988, IV).
+
+    Embora tenha sistematizado a disciplina jurídica da reclamação e ampliado em alguma medida seu âmbito de aplicação, o novo diploma processual não alterou a natureza eminentemente excepcional do instituto. Deveras, a excepcionalidade no manejo da reclamação é depreendida a todo tempo da redação do novo CPC, seja pela vedação de sua utilização como sucedâneo de ação rescisória (art. 988, §5º, I), seja pela exigência de prévio esgotamento das instâncias ordinárias, no caso de reclamação fundada na inobservância de tese fixada em recurso extraordinário com repercussão geral reconhecida (art. 988, §5º, II).
+
+    A propósito, a jurisprudência desta Suprema Corte fixou diversas condições para a utilização da via reclamatória, de sorte a manter a logicidade do sistema recursal previsto no CPC e evitar o desvirtuamento do objetivo precípuo do Código, de racionalização e diminuição da litigiosidade em massa pela criação do microssistema de julgamento de casos repetitivos. Afirma-se, destarte, por exemplo, (i) a inviabilidade da reclamação para o revolvimento de fatos e provas adjacentes aos processos de origem, (ii) a necessidade de existência de estrita aderência entre a decisão reclamada e o conteúdo do paradigma invocado e (iii) a necessidade de demonstração de teratologia na aplicação de tese firmada sob a sistemática da repercussão geral. Neste sentido, os seguintes precedentes da Primeira Turma da Corte:
+
+    “Agravo regimental em reclamação. Alegação de violação do entendimento firmado na ADPF nº 828/DF-MC. Reclamação que objetiva o reexame de decisão fundamentada no conjunto fático-probatório dos autos. Sucedâneo recursal. Impossibilidade. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, da CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, da CF/88). 2. A reclamação não pode ser utilizada como sucedâneo de recurso ou de ações judiciais em geral, tampouco para reanálise de fatos e provas. Precedentes. 3. Agravo regimental não provido.” (Rcl 50.238-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 24/5/2022 - grifei).
+
+    “DIREITO CONSTITUCIONAL E DIREITO TRABALHISTA. AGRAVO INTERNO EM RECLAMAÇÃO. COMPETÊNCIA. CAUSA INSTAURADA ENTRE O PODER PÚBLICO E SERVIDOR. VÍNCULO CELETISTA. LEI FEDERAL Nº 11.350/2006. AGENTE COMUNITÁRIO DE SAÚDE E AGENTE DE COMBATE ÀS ENDEMIAS. ALEGADA AFRONTA À ADI 3.395. AUSÊNCIA DE ESTRITA ADERÊNCIA. 1. Agravo interno em reclamação ajuizado em face de decisão que afirmou a competência da Justiça do Trabalho, sob o fundamento de inexistir lei local inserindo os agentes comunitários de saúde no regime estatutário, na forma do art. 8º da Lei nº 11.350/2006. Alegação de violação à ADI 3.395. 2. A decisão da ADI 3.395 refere-se a causas envolvendo o Poder Público e seus servidores públicos, vinculados por relação estatutária ou de caráter jurídico-administrativo. Desse modo, não há relação de estrita aderência entre o ato reclamado e o paradigma invocado, requisito indispensável à propositura da reclamação. 3. Agravo interno a que se nega provimento.” (Rcl 54.159-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 15/9/2022 - grifei).
+
+    “CONSTITUCIONAL, TRABALHISTA E PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. SUPOSTA AFRONTA AO TEMA 932 DA REPERCUSSÃO GERAL. AUSÊNCIA DE TERATOLOGIA. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUBSTITUTIVO DE RECURSOS DE NATUREZA ORDINÁRIA OU EXTRAORDINÁRIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. 1. O Tribunal reclamado decidiu em consonância com as diretrizes fixadas pelo Tema 932, pois assentou que em se tratando de embarcações que operam em alto mar, não pode ser considerada como imprevisível, dado o fato de que faz parte, da prática da navegação, a rotina de manter contato com a Capitania dos Portos, que desempenha a função de manter as embarcações avisadas a respeito dos fenômenos climáticos em curso. Nesse sentido, se a embarcação estava realmente equipada com instrumentos de salvamento, estes deveriam ter sido acionados, não havendo prova nos autos nesse sentido. Logo, caracterizado o risco da atividade a ensejar a responsabilização objetiva da reclamada, a esta incumbe responder pela reparação dos danos havidos. 2. Desse modo, cotejando a decisão reclamada com o paradigma de confronto apontado, e respeitado o âmbito cognitivo deste instrumental, não se constata teratologia no ato judicial que se alega afrontar o precedente deste TRIBUNAL. 3. Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880-AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013). 4. Recurso de agravo a que se nega provimento.” (Rcl 54.142-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe de 23/8/2022 - grifei).
+
+    Fixadas as premissas, verifico que a presente reclamação tem como fundamento a alegação de ofensa ao que decidido no julgamento da ADC 48.
+
+    Com efeito, o julgamento da Ação Declaratória de Constitucionalidade 48, Rel. Min. Roberto Barroso, DJe de 19/05/2020, recebeu a seguinte ementa:
+
+    “DIREITO DO TRABALHO. AÇÃO DECLARATÓRIA DA CONSTITUCIONALIDADE E AÇÃO DIRETA DE INCONSTITUCIONALIDADE. TRANSPORTE RODOVIÁRIO DE CARGAS. LEI 11.442/2007, QUE PREVIU A TERCEIRIZAÇÃO DA ATIVIDADE-FIM. VÍNCULO MERAMENTE COMERCIAL. NÃO CONFIGURAÇÃO DE RELAÇÃO DE EMPREGO.
+
+    1. A Lei nº 11.442/2007 (i) regulamentou a contratação de transportadores autônomos de carga por proprietários de carga e por empresas transportadoras de carga; (ii) autorizou a terceirização da atividade-fim pelas empresas transportadoras; e (iii) afastou a configuração de vínculo de emprego nessa hipótese.
+
+    2. É legítima a terceirização das atividades-fim de uma empresa. Como já foi decidido pelo Supremo Tribunal Federal, a Constituição não impõe uma única forma de estruturar a produção. Ao contrário, o princípio constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias empresariais dentro do marco vigente (CF/1988, art. 170). A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988, art. 7º). Precedente: ADPF 524, Rel. Min. Luís Roberto Barroso.
+
+    3. Não há inconstitucionalidade no prazo prescricional de 1 (um) ano, a contar da ciência do dano, para a propositura de ação de reparação de danos, prevista no art. 18 da Lei 11.442/2007, à luz do art. 7º, XXIX, CF, uma vez que não se trata de relação de trabalho, mas de relação comercial.
+
+    4. Procedência da ação declaratória da constitucionalidade e improcedência da ação direta de inconstitucionalidade. Tese: ‘1 – A Lei 11.442/2007 é constitucional, uma vez que a Constituição não veda a terceirização, de atividade-meio ou fim. 2 – O prazo prescricional estabelecido no art. 18 da Lei 11.442/2007 é válido porque não se trata de créditos resultantes de relação de trabalho, mas de relação comercial, não incidindo na hipótese o art. 7º, XXIX, CF. 3 – Uma vez preenchidos os requisitos dispostos na Lei nº 11.442/2007, estará configurada a relação comercial de natureza civil e afastada a configuração de vínculo trabalhista’” .
+
+    Na ocasião, o Plenário desta Corte, ao julgar procedente o pedido formulado na ação, reconheceu a constitucionalidade da Lei nº 11.442/2007, que dispõe sobre o transporte rodoviário autônomo de cargas, assentando ser legítima a terceirização desse tipo de atividade pelas empresas transportadoras, não se configurando vínculo de emprego entre as partes nessa hipótese.
+
+    Pois bem. O cotejo analítico entre a tese firmada no julgamento da ADC 48 e a decisão reclamada revela de plano a carência, in casu, do requisito da estrita aderência entre a controvérsia de origem e o paradigma invocado. Isto porque a decisão do Tribunal Regional do Trabalho da 23ª Região apenas reconhece a competência da Justiça do Laboral, determinando o retorno dos autos à origem, sem abordar a questão de mérito relativa ao reconhecimento de vínculo ou terceirização de atividade-fim da empresa reclamante, consoante se extrai da ementa do acórdão impugnado (doc. 6, p. 2):
+
+    “CONTROVÉRSIA SOBRE VÍNCULO DE EMPREGO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. A competência material é fixada diante do exame da causa de pedir e do pedido deduzidos em juízo, de molde que, se ventilada como fundamento para o pedido a existência de uma relação de emprego, bem assim se o pedido consistir em consectários de um contrato de trabalho, a competência material será necessariamente da Justiça do Trabalho, conforme o art. 114, incisos I e IX da Constituição Federal, porquanto a hipótese trazida é de um conflito entre empregado e empregador.”
+
+    Ante a ausência de estrita aderência entre o caso concreto e o paradigma invocado, revela-se incabível a presente reclamação, visto ser este instrumento via de cognição estreita e que não se presta ao papel de sucedâneo recursal. Neste sentido já decidiu a Primeira Turma desta Corte em caso análogo:
+
+    “Agravo interno. Reclamação constitucional. Ação civil pública. Cumprimento de noras relativas ao meio ambiente de trabalho. Competência da justiça do trabalho. Afronta ao decidido na ADI 3.395/DF. Ausência de estrita aderência entre o ato reclamado e a decisão paradigma.
+
+    1. Na hipótese ajuizada ação civil pública com objetivo de impor ao Estado o cumprimento de normas relativas ao meio ambiente de trabalho, de modo que não há identidade material entre o paradigma invocado (ADI 3.395/DF) e o ato reclamado. Precedentes: Rcl 20.744-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma, DJe 24.02.2016 e Rcl 42.011-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma, DJe 10.9.2020.
+
+    2. Agravo interno conhecido e não provido com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação”. (Rcl 49.516 AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe 21/06/2022).
+
+     Ex positis, NEGO SEGUIMENTO à presente reclamação, com fundamento nos artigos 932, VIII, do CPC e 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, prejudicada a análise do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 28 de março de 2025.
+
+    Ministro LUIZ FUX
+
+    Relator
+
+    Documento assinado digitalmente
