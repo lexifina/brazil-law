@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 490 e-STJ):
+EMENTA - PLANO DE SAÚDE - AÇÃO DE OBRIGAÇÃO DE FAZER C. C. INDENIZAÇÃO POR DANOS MORAIS - Demanda ajuizada pela viúva, pleiteando sua permanência junto ao plano coletivo, após o falecimento do cônjuge (beneficiário titular) - Decreto de parcial procedência Inconformismo da operadora ré - Não acolhimento - Abusiva a conduta da operadora ao excluir a viúva, idosa, do plano de saúde - Direito desta última em ser mantida como beneficiária do plano, por tempo indeterminado (desde que esta arque com o pagamento integral das mensalidades) - Precedentes, inclusive desta Câmara - Sentença mantida - Recurso improvido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 523-525 e-STJ).
+Em suas razões de recurso especial (fls. 528-539 e-STJ), a parte recorrente aponta violação aos seguintes dispositivos legais:
+(i) artigo 1.022, II, do Código de Processo Civil, sob a alegação da existência de omissão no acórdão recorrido acerca da matéria suscitada nas razões dos embargos de declaração; e
+(ii) artigo 30, §§ 1º e 3º, da Lei n. 9.656/1998, sustentando, em suma, o não cabimento da manutenção de dependente em plano de saúde coletivo após a morte do titular, tendo em vista a ocorrência da extinção do contrato entre as partes.
+Contrarrazões às fls. 558-577 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 582-584 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 1.022, II, do CPC/2015; b) não ter sido demonstrada a alegada vulneração aos dispositivos arrolados; e c) aplicação do óbice da Súmula 7 do STJ.
+Daí o agravo (fls. 587-593 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 610-619 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Afasta-se, de início, a alegação de negativa de prestação jurisdicional. Não se verifica ofensa ao artigo 1.022, inc. II, do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito. Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional.
+Alega a parte recorrente que o acórdão impugnado restou omisso sobre a alegação de "inexistência de legitimidade contratual da parte adversa para tornar-se titular do contrato, sendo isso tão verdade, que a própria lei estabelece no art. 30, §1º, da Lei 9.656/98 um prazo finito para que os beneficiários não fiquem desamparados de plano de saúde com a morte do titular, porém não os eleva a condição de legitimados para sub-rogar o falecido".
+Todavia, conforme trecho a seguir citado, o Tribunal local tratou expressamente das questões essenciais ao deslinde da controvérsia. Confira-se (fls. 491-493 e-STJ):
+Em que pesem os reclamos da recorrente, reputo correto o decreto de parcial procedência da ação de obrigação de fazer cumulada com indenização, em face dela ajuizada.
+Com efeito, ao contrário do que sustenta a ré no apelo que interpõe, a legislação que rege a matéria assegura que o falecimento do titular do plano de saúde, seja na categoria familiar ou coletivo (ainda que por adesão), não gera automaticamente a extinção da relação contratual entre o beneficiário e plano de saúde. Nem mesmo após o decurso do prazo de remissão.
+Isso porque a Lei nº 9.656/98, ao dispor sobre os planos e seguros privados de assistência à saúde, prevê expressamente a permanência dos dependentes, cobertos pelo plano de saúde, desde que assumam o pagamento do prêmio, como se depreende da jurisprudência e artigo 30, § 3º, "verbis": (..).
+Aludida norma jurídica faz referência aos contratos coletivos e, conforme dispõe a Resolução Normativa nº 254/2011 da ANS, a extinção do vínculo com o titular do plano de saúde coletivo por adesão não extingue o contrato, assegurada aos dependentes já inscritos a manutenção das mesmas cláusulas contratuais. Vejamos: (..).
+Como demonstrado pelos artigos supracitados, por suceder o direito do antigo titular do plano e falecido, a autora tem escolha de manter o contrato original ou migrar para plano de saúde individual, mantendo as mesmas condições anteriormente pactuadas.
+Como visto, as teses da insurgente foram apreciadas pelo Tribunal a quo, que as afastou apontando os fundamentos jurídicos para tal.
+Não há que se falar, portanto, em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Nesse sentido: REsp 1432879/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/10/2018, DJe 19/10/2018; EDcl nos EDcl no REsp 1641575/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/09/2018, DJe 01/10/2018; EDcl no AgInt no REsp 1666792/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2018, DJe 22/05/2018; AgInt no AREsp 1179480/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 06/03/2018; AgInt no REsp 1598364/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/08/2017, DJe 22/08/2017; EDcl no AgInt no AREsp 471.597/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/06/2017, DJe 20/06/2017.
+Afasta-se, portanto, a alegada violação ao artigo 1.022, inc. II, do CPC/15.
+2. No mérito, cinge-se a pretensão recursal à verificação acerca da possibilidade de manutenção do dependente em plano de saúde após o falecimento do titular.
+Como visto acima, o Tribunal de origem, ao analisar a questão, manteve a sentença de procedência do pedido inicial, condenando a operadora do plano de saúde requerida na manutenção da parte autora como beneficiária da apólice em questão.
+Com efeito, o acórdão recorrido amolda-se à jurisprudência desta Corte Superior sobre o tema, no sentido de que, após o óbito do beneficiário titular, os dependentes possuem o direito de permanecer no plano de saúde coletivo, mantidas as condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+Nesse sentido, confira-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ART. 30, §§ 1º E 3º, DA LEI N. 9.656/1998. SÚMULA N. 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO POR OUTROS FUNDAMENTOS.
+1. Nos contratos de saúde por adesão, ocorrendo o óbito do beneficiário titular, seus dependentes podem permanecer no plano de saúde coletivo, nas mesmas condições anteriormente contratadas, desde que assumam as obrigações dele decorrentes.
+2. Inadmissível recurso especial quando o entendimento adotado pelo tribunal de origem encontra-se em harmonia com a jurisprudência do STJ (Súmula n. 83 do STJ).
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.864.110/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 24/6/2024, DJe de 27/6/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E CONSUMIDOR. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FALECIMENTO DO TITULAR. CONTINUAÇÃO DA DEPENDENTE ASSUMINDO CONDIÇÃO DE TITULAR. POSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do STJ orienta que, "Falecendo o titular do plano de saúde coletivo, seja este empresarial ou por adesão, nasce para os dependentes já inscritos o direito de pleitear a sucessão da titularidade, nos termos dos arts. 30 ou 31 da Lei nº 9.656/1998" (AgInt no REsp 1.751.973/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 18/3/2024, DJe de 21/3/2024).
+2 O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.453.523/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO. 1. ÓBITO DO BENEFICIÁRIO TITULAR. MANUTENÇÃO DO DEPENDENTE. POSSIBILIDADE. PRECEDENTES. 2. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. 3. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 4. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, ante o falecimento do titular, os seus dependentes dispõem do direito de continuar no plano de saúde, preservadas as condições anteriormente contratadas, desde que assumindo as obrigações dele decorrentes.
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Segundo orientação desta Corte, não haverá a majoração de honorários de sucumbência prevista no art. 85, §11, do CPC/2015, quando do julgamento de agravo interno ou embargos de declaração. Precedentes.
+4. Agravo interno improvido. (AgInt no AgInt no AREsp 1839311/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/10/2021, DJe 06/10/2021)  grifou-se
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. FALECIMENTO DO TITULAR. DIREITO DE MANUTENÇÃO DOS DEPENDENTES. SÚMULA N. 83 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+1. "(..) Com a morte do titular, permitida a permanência de seus dependentes no plano de saúde com a manutenção das mesmas condições, desde que assumam as obrigações dele decorrentes" (AgInt no REsp n. 1.765.995/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/6/2020, DJe 12/6/2020). Súmula n. 83 do STJ.
+2. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Súmula n. 211 do STJ.
+3. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 1 0/4/2017), o que não ocorreu no caso.
+4. Agravo interno a que se nega provimento (AgInt no REsp 1931064/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)  grifou-se
+Inviável, portanto, o provimento do recurso especial, diante da incidência do óbice da Súmula 83/STJ.
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
