@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto por RODRIGO MAKANSI NASCIMENTO, com base nos arts. 105, II, b, da Constituição da República e 1.027, II, a, do Código de Processo Civil de 2015, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina no julgamento de apelação, assim ementado (fls. 695/696e):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. POLÍCIA CIVIL DO ESTADO DE SANTA CATARINA. APRESENTAÇÃO DE CERTIFICADO DE CONCLUSÃO DE CURSO DE CAPACITAÇÃO DE TRÂNSITO PARA FINS DE PROMOÇÃO NA CARREIRA DE AGENTE DA POLÍCIA CIVIL. INDEFERIMENTO PELA COMISSÃO ADMINISTRATIVA RESPONSÁVEL. EXIGÊNCIA DE QUE AO CURSO SEJA ATRIBUÍDO O MESMO GRAU DE ESCOLARIDADE IMPOSTO PARA O CARGO EXERCIDO PELO SERVIDOR. EXEGESE DA LEI COMPLEMENTAR ESTADUAL N. 453/2009 E DO DECRETO ESTADUAL N. 2.669/2009. CURSO DE CAPACITAÇÃO REALIZADO EM INSTITUIÇÃO NÃO RECONHECIDA COMO DE ENSINO SUPERIOR. DIREITO LÍQUIDO E CERTO NÃO DEMONSTRADO. SENTENÇA MANTIDA.
+1. Nos termos da Lei Complementar estadual n. 453/2009 e do Decreto estadual n. 2.699/2009, os cursos para promoção na carreira na Polícia Civil devem guardar relação com o cargo exercido pelo(a) servidor(a).
+2. O impetrante realizou curso de capacitação em instituição não registrada no Ministério da Educação (MEC), ou em outro órgão competente, razão pela qual tal curso não pode ser aproveitado para fins de pontuação no processo promocional da carreira de agente de polícia civil, o qual se qualifica como cargo de nível superior.
+3. Sentença denegatória da segurança mantida. RECURSO CONHECIDO E DESPROVIDO.
+O recorrente volta-se contra ato administrativo do Presidente da Comissão Permanente de Promoção do Grupo Polícia Civil - Subgrupo Agente de Polícia Civil, pleiteando o reconhecimento do certificado de "Curso de Capacitação para Examinador de Trânsito" para fins de progressão na carreira, alegando violação aos princípios da legalidade, motivação e segurança jurídica.
+Argumenta que a decisão administrativa violou o princípio da legalidade ao não reconhecer a promoção, mesmo com o preenchimento dos requisitos legais. Além disso, alega que a decisão da Secretaria de Segurança Pública de Santa Catarina não enfrentou os argumentos apresentados em sede administrativa, utilizando fundamentação estranha ao processo nas decisões que não deram provimento ao recurso administrativo.
+Sustenta que outros policiais civis tiveram suas pontuações reconhecidas com o mesmo certificado, sem manifestação da administração pública sobre o tema quando provocada, destacando a violação ao princípio da isonomia.
+Contrarrazões às fls. 728/732e, subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 741/743 e, pelo não conhecimento do recurso.
+Feito breve relato, decido.
+Nos termos do art. 932, III, do Código de Processo Civil, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O presente recurso é manifestamente inadmissível, porquanto foi interposto contra acórdão proferido em julgamento de apelação.
+A Constituição da República restringe o uso do Recurso Ordinário à impugnação de acórdão que denega a segurança em sede de mandados de segurança decididos em única instância pelos tribunais regionais federais ou pelos tribunais de justiça dos Estados e do Distrito Federal e Territórios.
+Com efeito, é firme o posicionamento desta Corte segundo o qual constitui erro grosseiro a interposição de Recurso Ordinário, quando cabível o recurso especial, o que afasta a aplicação do princípio da fungibilidade.
+Destaco, nesse sentido, os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO EM MANDADO DE SEGURANÇA. INTERPOSIÇÃO CONTRA ACÓRDÃO QUE DECIDE APELAÇÃO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. AUSÊNCIA DE DÚVIDA OBJETIVA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Segundo o disposto no art. 105, II, b, da CF/1988, compete ao Superior Tribunal de Justiça julgar, em recurso ordinário, mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão.
+2. Assim, configura erro grosseiro a impedir a aplicação do princípio da fungibilidade recursal a interposição de recurso ordinário contra acórdão que decide a apelação em mandado de segurança, diante da ausência de dúvida objetiva quanto ao recurso cabível.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no RMS n. 68.388/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL. ADMINISTRATIVO-DISCIPLINAR. POLICIAL MILITAR. MANDADO DE SEGURANÇA. CONCESSÃO DA ORDEM EM PRIMEIRO GRAU PARA RECONHECER A OCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA DA ADMINISTRAÇÃO. RECURSO ORDINÁRIO. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. RECEBIMENTO COMO RECURSO ESPECIAL. IMPOSSIBILIDADE. PRINCÍPIO DA FUNGIBILIDADE. ERRO GROSSEIRO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra ato administrativo emanado no Conselho de Justificação. A sentença concedeu a segurança para se reconhecer a prescrição da pretensão punitiva administrativa. O Tribunal a quo, a sentença foi reformada.
+II - Mediante análise dos autos, verifica-se que o acórdão na origem se trata de apelação, à qual foi dado provimento.
+III - Nos termos do art. 105, II, b, da Constituição da República, o recurso ordinário constitucional é cabível contra decisão denegatória proferida em mandado de segurança pelos Tribunais Regionais Federais ou por Cortes Estaduais.
+IV - Por outro lado, nos ditames do art. 105, III, da Constituição Federal, contra as causas decididas em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal e Territórios, é cabível o recurso especial, a ser interposto perante a Presidência do Tribunal de origem, na forma do art. 1.029 do Código de Processo Civil.
+V - Assim, a interposição de recurso ordinário, quando cabível o recurso especial, constitui-se equívoco inescusável e grosseiro, sendo impossível a aplicação do princípio da fungibilidade recursal.
+(AgRg no Ag n. 1.434.293/AC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/10/2019.) VI - Agravo interno improvido.
+(AgInt no RMS n. 69.233/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Ordinário.
+Publique-se e intimem-se.
+EMENTA
