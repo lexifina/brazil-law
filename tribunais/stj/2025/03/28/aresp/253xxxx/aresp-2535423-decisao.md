@@ -1,0 +1,17 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por ESTADO DO RIO DE JANEIRO, contra o acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. ATO QUE EXCLUIU POLICIAL MILITAR DA CORPORAÇÃO. REVISÃO. POSSIBILIDADE. AUSÊNCIA DE ELEMENTOS. Não é desconhecida a independência de instâncias (administrativa e penal). No entanto, o ato administrativo de exclusão deve ser motivado. Ato que adotou a sentença, exclusivamente, como ato suficiente a aplicação da punição. Impossibilidade, considerando que a mesma foi revista. Ausência de outros elementos que pudessem acarretar a punição. Decisão do Comandante da Polícia Militar que se mostra nula, considerando a ausência de fundamentação. Aplicação da teoria dos motivos determinantes, considerando que utilizada, exclusivamente, a sentença como fundamento para a punição do apelante. Recurso conhecido e provido, nos termos do voto Desembargador Relator designado.
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, a parte ora agravante defende a regularidade do ato administrativo; a independência de instâncias; e a violação do art. 884 do Código Civil. O apelo não foi admitido, por aplicação da Súmula 7/STJ.
+Em suas razões de agravo, a parte recorrente sustenta o preenchimento dos requisitos de admissibilidade do recurso especial. Diz que a controvérsia cinge-se a questões jurídicas, que prescindem do reexame da prova.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+O órgão julgador a quo definiu que o decisum de primeiro grau está fundado exclusivamente na condenação criminal de primeira de instância, estando "destituído de qualquer outro acervo probatório, o que se mostra insuficiente para reconhecer como válido o ato administrativo, sem que implique em violação a separação dos Poderes" (fl. 702).
+Nesse cenário, não há como negar que a alteração dessas conclusões passaria necessariamente pelo reexame da prova, uma vez que seria preciso aferir se existem nos autos outros elementos probatórios capazes de ensejar a manutenção da sentença. Em outras palavras, a alteração da conclusão da Corte estadual acerca da ausência de suporte probatório, ensejaria o necessário reexame da matéria fática dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Observo, por oportuno que, exceto pelo art. 884 do Código Civil, que diz respeito à matéria sucessiva, a indicação específica dos dispositivos de lei federal que o recorrente julga ofendidos somente ocorreu no âmbito do agravo em exame, sendo certo que no recurso especial não se identifica delimitação de infringência 66 do Código Penal e 935 do Código Civil, o que deixa evidente a sua deficiência de fundamentação.
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo e nego-lhe provimento, mantendo a decisão que inadmitiu o recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
