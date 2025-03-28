@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL HENRIQUE PEREIRA PORTO em que se aponta como autoridade coator o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2009734- 67.2025.8.26.0000).
+Consta dos autos que o Juízo de primeiro grau decretou a prisão preventiva do paciente por descumprimento das condições da liberdade provisória em razão da suposta prática de novo delito (crime de ameaça). O Tribunal de origem denegou a ordem de habeas corpus.
+A impetrante sustenta a ilegalidade da prisão preventiva, aduzindo que não estão presentes os requisitos do artigo 312 do Código de Processo Penal. Argumenta que o paciente possui condições pessoais favoráveis, sendo primário, com bons antecedentes, residência fixa e ocupação lícita. Acrescenta que a suposta ameaça decorreu de uma discussão entre o casal, que estava nervoso após a audiência, não havendo violência real.
+Alega ainda que a manutenção da prisão trará enormes prejuízos ao paciente e sua família, inclusive financeiros.
+Requer, liminarmente, a revogação da prisão preventiva com expedição de alvará de soltura e, no mérito, pleiteia a concessão da ordem para que o paciente possa aguardar o julgamento de seu recurso de apelação em liberdade.
+Decisão pelo indeferimento do pedido liminar às fls. 33-34.
+Informações prestadas às fls. 40-49.
+Parecer do Ministério Público Federal, às fls. 61-64, pelo não conhecimento do mandamus.
+É o relatório.
+DECIDO.
+A ordem deve ser denegada.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, ressaltou o seguinte (fl.19):
+O flagrante encontra-se formalmente em ordem, não sendo caso de relaxamento da prisão em flagrante (art. 310, I, CPP). O caso concreto autoriza a prisão preventiva. O delito foi cometido minutos após a concessão de liberdade provisória ao indiciado, momento em que foi advertido (fls. 57/59) de que a prática de novos delitos ensejaria a conversão em prisão preventiva. Logo após a advertência quanto às condições da liberdade provisória, o indiciado ameaçou gravemente a vítima Aline (também indiciada nos autos do tráfico) e assim o fez na presença dos policiais. Houve, portanto, descumprimento das condições da liberdade provisória imediatamente após a audiência de custódia, de modo que a prisão cautelar revela-se necessária para garantia da ordem pública, tratando-se, ao menos por ora, do meio adequado a impedir a reiteração delitiva (arts. 312 e 314, CPP), de forma que as medidas cautelares diversas da prisão mostram-se insuficientes (art. 282, § 6º do CPP). Os elementos de convicção contidos nos autos não revelam a existência das excludentes previstas no art. 23, incisos I, II e III, do Código Penal. Ante o exposto, com fundamento no arts. 310, II, 312, § 1º e 315, todos do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de GABRIEL HENRIQUE PEREIRA PORTO em PRISÃO PREVENTIVA.
+O Tribunal de origem, por sua vez, assim manteve a segregação cautelar, com base na seguinte ementa (fl. 24):
+HABEAS CORPUS Tráfico de entorpecentes Prisão preventiva Presença dos requisitos autorizadores da custódia cautelar Gravidade concreta da conduta Paciente que, ademais, cometeu novo delito, ainda nas dependências do Fórum, desta feita, de ameaça contra a coindiciada, logo após ter sido beneficiado com a liberdade provisória Constrangimento ilegal não demonstrado. Ordem denegada.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltado o risco de reiteração delitiva do paciente, que praticou novo delito minutos depois de ter tido o benefício da liberdade provisória na audiência de custódia pelo crime de tráfico de drogas. Além do novo delito ter ocorrido dentro do fórum e na presença dos policiais, o paciente mostrou extrema audácia delitiva e repugnância pelo Poder Judiciário local, demonstrando que não sabe conviver em sociedade sem reiterar na prática delitiva.
+Tudo isso demonstra a potencial periculosidade do agente e é apta a justificar sua segregação cautelar para garantia da ordem pública.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+(..)
+4. Agravo regimental improvido.
+(AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+(..)
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
