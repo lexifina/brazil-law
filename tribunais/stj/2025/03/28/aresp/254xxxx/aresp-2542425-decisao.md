@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LU BARBOSA E EVENTOS LTDA. e TATIANA CAMILA PEREIRA MONTEOLIVA contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 22/09/2023.
+Concluso ao gabinete em: 21/11/2024.
+Ação: de execução de título extrajudicial, ajuizada pelas ora agravantes, em face de CERVEJARIA PETROPOLIS S/A - EM RECUPERACAO JUDICIAL.
+Foram opostos embargos à execução pela ora agravada.
+Sentença: julgou improcedentes os embargos à execução opostos, determinando o prosseguimento do processo, bem como determinou que, "Em razão da sucumbência, deverá a parte embargante arcar com as custas e despesas processuais bem como com os honorários advocatícios, fixados em R$ 2.500,00, nos termos do artigo 85, parágrafos 2º e 8º, do Código de Processo Civil" (e-STJ fl. 341).
+Acórdão: negou provimento à apelação interposta pela parte ora agravada, nos termos da seguinte ementa (e-STJ fl. 432):
+"EXECUÇÃO DE TÍTULO EXTRAJUDICIAL Contrato de prestação de serviços Divulgação de marcas e licença de uso de imagem e voz Inadimplemento incontroverso Rescisão contratual não aceita pelas contratadas Ação de rescisão julgada improcedente Contrato vigente Obrigação líquida, certa e exigível Prescrição não verificada: Instrumento particular em que consta obrigação de pagar quantia líquida e certa Inadimplemento assumido pela devedora Exigibilidade verificada Notificação de rescisão contratual que foi respondida pelas contratadas, as quais condicionaram a rescisão ao pagamento de multa, o que não ocorreu Ação de rescisão proposta pela contratante julgada improcedente Contrato que permaneceu plenamente eficaz Prescrição interrompida por notificação judicial Inteligência do artigo 202, inc. V, do Código Civil. RECURSO NÃO PROVIDO."
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: alega violação do art. 85, §2º, do CPC, sustentando, em síntese, que: (i) a Corte de origem se equivocou ao fixar honorários por equidade, quando deveria ter aplicado a regra geral, considerando o valor da causa; (ii) a fixação dos honorários por apreciação equitativa não é permitida quando os valores da causa ou do proveito econômico são elevados; (iii) "a preclusão só teria se configurado caso nenhuma apelação tivesse sido interposta e a r. sentença tivesse transitado em julgado" (e-STJ fl. 490); (iv) não houve preclusão, tendo em vista que a fixação de honorários é matéria de ordem pública.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A parte agravante não impugnou o fundamento utilizado pelo TJ/SP, no sentido de que "Verifica-se que na sentença de primeira instância os honorários advocatícios de sucumbência foram fixados com base no critério da equidade e as ora embargantes não interpuseram recurso de apelação requerendo a reforma do julgado nesse aspecto" (e-STJ fl. 477).
+Assim, caso a parte agravante não ofereça argumentos suficientes para contestar o fundamento utilizado pelo Tribunal de origem no acórdão recorrido, como ocorreu na hipótese ora apreciada, este deve ser mantido. Aplica-se, na hipótese, a Súmula 283/STF.
+Nesse sentido: AgInt no REsp 2.072.391/SP, 4ª Turma, DJe de 25/4/2024; e AgInt no REsp n. 2.013.576/SP, 3ª Turma, DJe de 11/4/2024.
+- Da Súmula 568 do STJ
+Ademais, a jurisprudência do STJ se posiciona no sentido de que se sujeitam "à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio" (REsp 1.745.408/DF, Terceira Turma, DJe de 12/04/2019). No mesmo sentido: AgInt nos EDcl no AgInt no AREsp 791.090/SP, Quarta Turma, DJe de 11/10/2023; AgInt no AREsp 1.668.790/MT, Terceira Turma, DJe de 08/09/2020.
+A Corte de origem, ao julgar os embargos de declaração opostos pela parte agravante, concluiu o seguinte (e-STJ fls. 477/478):
+"Verifica-se que na sentença de primeira instância os honorários advocatícios de sucumbência foram fixados com base no critério da equidade e as ora embargantes não interpuseram recurso de apelação requerendo a reforma do julgado nesse aspecto.
+Tratando-se de parte da sentença que não foi impugnada, a questão resta preclusa. Evidente que este Tribunal não pode reformar de ofício o critério da fixação dos honorários ou seu percentual.
+Desse modo, à míngua de recurso das exequentes embargadas, não cabia a alteração do critério de fixação de honorários. Mantidos os honorários de sucumbência fixados em primeira instância, apenas foram fixados honorários recursais, pelo mesmo critério, nos termos do artigo 85, § 11, do Código de Processo Civil.
+E, tendo em vista que na sentença foi arbitrado o valor de 2.500,00, a majoração para R$ 4.000,00, em razão do não provimento do recurso interposto pelos executados embargantes, mostra-se adequada, proporcional ao trabalho realizado pelo advogado das apeladas." (grifou-se)
+Da leitura dos trechos acima, verifica-se a decisão proferida pelo Tribunal local, ao julgar preclusa a pretensão da parte ora agravante, uma vez que não foi objeto de impugnação recursal no momento próprio, está em consonância com jurisprudência do STJ, não merecendo reparo - incidência da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, condeno a parte agravante, a título de honorários recursais, ao pagamento de R$ 500,00 (quinhentos reais) em favor do procurador da parte agravada, observados os efeitos de eventual concessão do benefício de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO.  FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. QUESTÃO DE ORDEM PÚBLICA. PRECLUSÃO. SÚMULA 568/STJ.
+1. Ação de execução de título extrajudicial. Embargos à execução.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. A jurisprudência do STJ se posiciona no sentido de que se sujeitam "à preclusão consumativa as questões decididas no processo, inclusive as de ordem pública, que não tenham sido objeto de impugnação recursal no momento próprio" (REsp 1.745.408/DF, Terceira Turma, DJe de 12/04/2019).
+4. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
