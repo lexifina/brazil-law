@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de Habeas Corpus impetrado em benefício de IVONE PEREIRA DE OLIVEIRA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESTADO DE GOIÁS no julgamento da Apelação Criminal n. 5167071.59.2020.8.09.0051
+Extrai-se dos autos que que a paciente foi condenada a 3 anos de reclusão, em regime aberto, pena substituída por 2 restritivas de direitos e pagamento de prestação pecuniária, pela prática do delito capitulado no art. 180, § 1º, do Código Penal.
+O Tribunal de origem negou provimento ao recurso de apelação interposto pela paciente. Confira-se a ementa do acórdão (fl. 186):
+"DIREITO PENAL. APELAÇÃO CRIMINAL. RECEPTAÇÃO QUALIFICADA. RECURSO DO 2º APELANTE PARCIALMENTE PROVIDO E OS DEMAIS DESPROVIDOS.
+I. CASO EM EXAME
+1. Apelações criminais interpostas contra sentença que condenou os réus pela prática de receptação qualificada (CP, art. 180, § 1º). Os apelantes foram condenados a penas de reclusão, em regimes inicial aberto e semiaberto, substituídas por penas restritivas de direitos para o réu Ivone Pereira de Oliveira. A defesa dos apelantes sustentou nulidade por violação domiciliar, pedido de absolvição por insuficiência de provas e desclassificação da receptação qualificada para simples ou culposa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em: (i) saber se houve nulidade processual por violação domiciliar; (ii) saber se as provas são suficientes para manter a condenação; e (iii) saber se a conduta dos apelantes poderia ser desclassificada para receptação simples ou culposa.
+III. RAZÕES DE DECIDIR
+3. A análise das provas indicou que a entrada no domicílio foi consentida por um dos apelantes, afastando a tese de nulidade.
+4. Os depoimentos e demais provas colhidas corroboraram a prática do delito de receptação qualificada, conforme previsto no art. 180, § 1º, do Código Penal, sendo desnecessária a desclassificação para receptação simples ou culposa.
+5. Quanto ao apelante João José Fernandes Neto, verificou-se erro na consideração de antecedentes criminais, o que justifica o afastamento da reincidência e a redução de sua pena.
+IV. DISPOSITIVO E TESE
+6. Recurso parcialmente provido para reduzir a pena do apelante João José Fernandes Neto, afastando a reincidência. Recursos de Ivone Pereira de Oliveira e Bruno Henrique Lopes desprovidos.
+Tese de julgamento: "1. A autorização para entrada em domicílio afasta a nulidade por violação de domicílio. 2. A prova robusta mantém a condenação por receptação qualificada. 3. Correção de pena em razão de erro na avaliação de antecedentes criminais."
+Daí o presente writ, em que o impetrante sustenta a ocorrência de constrangimento ilegal devido à nulidade do flagrante em razão da violação de domicílio realizada sem fundadas razões e sem autorização judicial, sendo ilícitas as provas dela derivadas, bem como que a confiabilidade da prova foi comprometida pelas divergências nos depoimentos dos policiais.
+Requer a cassação da sentença e do acórdão proferido na origem, a absolvição da paciente, o desentranhamento das provas ilícitas e delas derivadas, bem como, subsidiariamente, a redução da prestação pecuniária fixada.
+A liminar foi indeferida (fls. 1925/1926).
+A Corte Estadual e o Juízo de primeiro grau prestaram informações (fls. 1933/1935 e 1937/1940).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 1946/1956).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio ou Revisão Criminal, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+A sentença de primeiro grau assim discorreu a respeito do ingresso em domicílio:
+"No que tange aos pedidos de declaração de nulidade do feito, sob o argumento de que houve violações de domicílios por parte da polícia, vislumbra-se que não procedem.
+Inexistem, nos autos, quaisquer elementos que atestem as violações alegadas, pois, a instrução processual, ratificando os elementos indiciários, demonstrou que a prisão dos acusados ocorreu em decorrência de abordagem realizada ao acusado Bruno Henrique após atitude suspeita do referido acusado e confirmação por parte dele de que tinha algumas televisões e posterior indicação do acusado João José como sendo o vendedor, situação que deflagrou a apreensão de outros televisores e abordagem aos demais acusados.
+A instrução processual revelou que os próprios réus autorizaram a entrada das equipes policiais em suas residências e indicaram os locais em que as televisões estavam ocultadas, ratificando a informação inicial repassada pelo acusado Bruno Henrique." (fl. 1580)
+A irresignação da defesa quanto à nulidade do flagrante foi apreciada pela Corte estadual, em suma, com estes fundamentos (fl. 182):
+"Pois bem. Como se infere dos elementos colhidos na fase investigativa e no contraditório judicial, os policiais militares abordaram o apelante Bruno, pois além de possuírem informações de que no local de sua residência estavam sendo vendidas televisores, ciente de sua procedência ilícita, ele apresentou nervosismo ao avistar a viatura policial, sobretudo por ele utilizar tornozeleira eletrônica. Na sequência, ele autorizou a entrada dos policiais na residência, afirmando ter adquiridos os televisores de João José, tendo os policiais se dirigido à residência dele, onde foram apreendidos mais televisores de origem ilícita. Ainda, Bruno admitiu ter vendido televisores para Ivone, com quem foi apreendido 6 dos objetos ilícitos."
+O art. 5º, inciso XI, da Constituição Federal assegura a inviolabilidade do domicílio. No entanto, consoante disposição expressa do dispositivo constitucional, tal garantia não é absoluta, admitindo relativização em caso de flagrante delito.
+Acerca da interpretação que deve ser conferida à norma que excepciona a inviolabilidade do domicílio, o Supremo Tribunal Federal, por ocasião do julgamento do RE n. 603.616/RO, assentou o entendimento de que a "entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade dos atos praticados".
+No mesmo sentido, esta Corte Superior possui o entendimento de que as hipóteses de validação da violação domiciliar devem ser restritivamente interpretadas, mostrando-se necessário para legitimar o ingresso de agentes estatais em casa alheia a demonstração, de modo inequívoco, do consentimento livre do morador ou de que havia fundadas suspeitas da ocorrência do delito no interior do imóvel.
+A interpretação jurisprudencial relativa à aferição da presença de justa causa (fundadas razões) que legitime a mitigação do direito fundamental em questão, ainda que com viés restritivo, admite que a suposição acerca da ocorrência de crime no interior da residência esteja amparada em contexto fático anterior ao ingresso domiciliar, que indique a situação de ilicitude necessária à concretização da diligência (HC n. 598.051/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/3/2021, DJe de 15/3/2021).
+Verte dos autos, colacionando excerto da sentença, que houve "abordagem realizada ao acusado Bruno Henrique após atitude suspeita do referido acusado e confirmação por parte dele de que tinha algumas televisões e posterior indicação do acusado João José como sendo o vendedor, situação que deflagrou a apreensão de outros televisores e abordagem aos demais acusados".
+Do contexto apresentado, portanto, não reluz a alegada mácula atribuída à atuação policial.
+Ademais, para se poder chegar às pretensões apresentadas pelo impetrante, seria imprescindível a reanálise do acervo fático-probatório, providência esta incabível na via estreita do habeas corpus. Sobre a inviabilidade de dilação probatória na via mandamental e da exigência de prova pré-constituída das alegações:
+" ..
+5. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, sobretudo quando se tratar de advogado constituído, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração, iniciativa que não se desincumbiu o impetrante.
+ .. " (AgRg no HC n. 937.078/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+" ..
+III - O habeas corpus é ação autônoma de impugnação, de natureza constitucional, voltada à tutela da liberdade de locomoção, contra ilegalidade ou abuso de poder, cujos limites cognitivos estreitos não admitem dilação probatória, somente se permitindo a análise de provas pré-constituídas que demonstrem, de maneira inequívoca, o alegado constrangimento ilegal.
+ .. " (AgRg no RHC n. 179.686/PE, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024)
+A respeito da redução da prestação pecuniária, a Corte Estadual assim apreciou (fl. 184):
+"Quanto ao apelante Ivone Pereira de Oliveira, a sentença fixou a pena-base em 3 anos de reclusão, mínimo legal, e 10 dias-multa, a qual se tornou definitiva à míngua de outras circunstâncias modificadoras da pena.
+O regime inicial foi fixado no aberto, em vista do montante da pena (CP, art. 33, § 2º, "c").
+Na sequência, a pena foi substituída por duas restritivas de direitos, consistentes em prestação de serviços comunitários e prestação pecuniária, no valor de R$ 3.960,00.
+Segundo precedente superior, "a fixação do valor da prestação pecuniária deve observar o montante do dano a ser reparado e a capacidade econômica do condenado" (STJ, AgRg no AREsp n. 2.460.435/MG, Rel. Min. Reynaldo Soares da Fonseca, 5ª Turma, j. em 30/11/2023).
+No caso dos autos, a prestação pecuniária não tem caráter reparatório, uma vez que será destinada a entidade pública, ao passo que a pena-base foi aplicada no mínimo legal previsto para o tipo penal.
+Destaque-se que o apelante, na fase judicial, narrou ser revendedor de rodas, bem assim admitiu que supostamente teria comprado os televisores por cerca de R$ 600,00 cada e, com ele, foram apreendidos oito televisores.
+Assim, não se mostra desproporcional a pena de prestação pecuniária aplicada, a qual poderá ser inclusive parcelada no Juízo de Execução."
+Verifica-se que a prestação pecuniária foi fixada em R$ 3.960,00, ou seja, em três vezes o salário mínimo vigente à época da sentença (R$ 1.320,00 em março de 2023), dentro dos parâmetros legais estabelecidos no art. 45, §1º, do Código Penal, e proporcional ao quantum da pena corporal substituída, qual seja, três anos de reclusão.
+A análise a respeito da situação econômica do réu demandaria reexame fático-probatório, inviável nessa via estreita mandamental. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SONEGAÇÃO FISCAL. ICMS. CONDENAÇÃO CONFIRMA PELO TRIBUNAL A QUO. ALEGADA NECESSIDADE DE MAJORAÇÃO DA PRESTAÇÃO PECUNIÁRIA JÁ AUMENTADA PELA CORTE ESTADUAL. ÓBICE DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. VALORAÇÃO NEGATIVA DE CIRCUNSTÂNCIA JUDICIAL. CONSEQUÊNCIAS DO CRIME. VALOR DEVIDO CONSIDERADO NÃO EXPRESSIVO DIANTE DO MONTANTE ARRECADADO PELO ESTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que, nos termos do art. 45 do CP, a fixação do valor da prestação pecuniária deve observar o montante do dano a ser reparado e a capacidade econômica do condenado.
+2. O art. 45, § 1.º, do Código Penal estabelece que o valor da prestação pecuniária será fixado pelo juiz em valor não inferior a 1 (um), nem superior a 360 (trezentos e sessenta) salários mínimos.
+Assim, estabelecido o valor da prestação pecuniária dentro dos limites legalmente fixados e com amparo na análise do caso concreto, o acolhimento do pleito de majoração da quantia imposta exigiria reexame fático-probatório, o que não é possível em recurso especial, nos termos da Súmula 7 desta Corte Superior. Precedentes.  ..
+5. Agravo regimental não provido." (AgRg no AREsp n. 2.460.435/MG, relato Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 30/11/2023, DJe de 5/12/2023.)
+Desse modo, forçoso concluir que inexiste flagrante constrangimento ilegal que autorize a concessão da ordem, ainda que de ofício.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
