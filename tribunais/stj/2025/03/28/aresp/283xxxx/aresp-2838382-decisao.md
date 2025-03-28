@@ -1,0 +1,54 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo CONDOMINIO RESIDENCIAL ILHA DA MADEIRA, com fundamento na incidência  da Súmula  7 do STJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois pretende a revaloração das provas, e não seu reexame.
+Assevera, ainda, que a responsabilidade objetiva da concessionária foi reconhecida, mas que o acórdão ignorou a vulnerabilidade e hipossuficiência técnica do consumidor e que foram apresentadas provas suficientes, enquanto a recorrida não apresentou documentos ou provas em sua defesa.
+Contraminuta apresentada às fls. 809-819.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Conforme assentado no acórdão recorrido, o Tribunal enfatiza que a inversão do ônus da prova não exime o autor de apresentar prova mínima do direito alegado. Foi destacado, ainda, que o recorrente não conseguiu demonstrar o nexo de causalidade entre os danos e a conduta da concessionária, sendo considerados insuficientes os documentos apresentados, que foram produzidos unilateralmente.
+Confira-se (fls. 707-709):
+Com efeito, o ordenamento jurídico adota a responsabilidade objetiva, na modalidade denominada pela doutrina como "risco administrativo", que somente é excluída se o ente público comprovar que o evento lesivo foi provocado por culpa exclusiva da vítima ou de terceiro, caso fortuito ou força maior.
+Todavia, não se exime o consumidor de provar, minimamente, o fato constitutivo do seu direito nos termos do art. 373, inciso I, do Código de Processo Civil, ainda que tenha sido deferida a inversão do ônus da prova, já que a possibilidade prevista no art. 6º, inciso VIII, do Código de Defesa do Consumidor, não tem o condão de eximir a parte autora do dever de produzir prova mínima do direito invocado.
+ ..
+Vê-se que, in casu, a controvérsia recursal cinge-se em verificar o preenchimento dos pressupostos necessários para configuração do dano decorrente de interrupções no fornecimento de energia elétrica da unidade consumidora do condomínio autor, ora apelante.
+Nesse cenário, para a procedência dos pedidos iniciais, torna-se necessária a comprovação do fato, do dano causado e do nexo causal entre o prejuízo e a conduta praticada, nos termos das normas aplicáveis à espécie.
+A propósito, seguem as disposições previstas na vigente Resolução Aneel nº 1.000/2021, senão vejamos:
+"Art. 620. A distribuidora responde, independentemente da existência de dolo ou culpa, pelos danos elétricos causados a equipamentos elétricos instalados em unidade consumidora.
+Art. 621. A distribuidora só pode eximir-se do dever de ressarcir no caso de:
+I - comprovar a inexistência de nexo causal, nos termos do art. 611;
+II - o consumidor, no pedido de ressarcimento feito com mais de 90 dias da data provável da ocorrência do dano elétrico, informar mesma data e horário de ocorrência do dano de solicitação anterior que já tenha sido deferida pela distribuidora, de que trata o § 4º do art. 602;
+III - ocorrer impedimento de acesso às instalações da unidade consumidora ou aos equipamentos objeto da solicitação, que impeçam a distribuidora de verificar no local ou retirar o equipamento para análise, nos termos do parágrafo único do art. 612;
+IV - comprovar que o dano foi ocasionado pelo uso incorreto do equipamento ou por defeitos gerados a partir da unidade consumidora, inclusive uso de carga que provoca distúrbios e danos ao sistema elétrico de distribuição;
+(..).
+É cediço, ademais, que a Resolução Aneel nº 956/2021, que trata do procedimento de ressarcimento de danos elétricos, impõe o exame de nexo causal consistente em averiguar se houve perturbação no sistema elétrico, e se a perturbação registrada poderia ter causado o dano reclamado, exceto, em resumo, se constatada inadequação nas instalações elétricas da unidade consumidora ou uso incorreto do equipamento, o que deve ser averiguado pela concessionária durante o procedimento de ressarcimento.
+Percebe-se, então, que a concessionária de serviços públicos responde objetivamente pelos atos de seus agentes, cumprindo-lhe o dever de indenizar os danos deles decorrentes, independentemente da demonstração de culpa, desde que comprovado o nexo causal necessário, ou seja, desde que os danos a serem indenizados tenham sido provocados pela oscilação de energia no sistema de transmissão de rede elétrica.
+Verifica-se, na espécie, todavia, que o condomínio autor, ora apelante, não logrou êxito em demonstrar o nexo de causalidade entre os danos narrados e a suposta conduta ilícita da distribuidora apelada, de forma apta a configurar o dever de indenizar.
+Isso porque, os documentos colacionados aos autos, especificamente o laudo apresentado no arq. 08, do evento nº 01, aponta, de forma genérica, a ocorrência de distúrbios elétricos que danificaram o equipamento (inversor de frequência - marca Yaskawa, modelo CIMR - LE4A0030DAC L1000E), sem atestar, de forma verossímil, que o dano decorreu da rede da concessionária de serviço público.
+Outrossim, o condomínio não demonstrou haver disponibilizado à concessionária, à época do fato, acesso ao equipamento danificado para produção de prova técnica qualificada, necessária à comprovação de que não houve adulteração, bem como para investigar a existência do nexo de causalidade, conforme as disposições previstas nas resoluções supramencionadas.
+Ademais, o posicionamento majoritário deste Tribunal é no sentido da imprestabilidade da prova unilateral, bem como pela necessidade de viabilizar à concessionária, à época do ocorrido, acesso ao equipamento danificado, para produção de prova técnica por profissional especializado, a fim de atestar cabalmente o nexo causal.
+Consoante a jurisprudência desta Corte Superior, "a inversão do ônus da prova não dispensa a comprovação mínima, pela parte autora, dos fatos constitutivos do seu direito" (AgInt no Resp 1.717.781/RO, rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 05/06/2018, DJe de 15/06/2018).
+Portanto, discutir sobre a idoneidade do acervo probatório, no que tange ao nexo causal e à ulterior responsabilização civil, bem como a necessidade de inversão do ônus da prova, encontra óbice na Súmula 7/STJ. Isso porque, para alterar as conclusões do órgão julgador seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 505 DO CPC. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. MERCADO DE AÇÕES. INVERSÃO DO ÔNUS PROBATÓRIO. VULNERABILIDADE. HIPOSSUFICIÊNCIA. VIOLAÇÃO DO ART. 6º, VIII, DO CDC. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Não há violação do art. 505 do CPC, na hipótese em que o Tribunal a quo reanalisa a matéria objeto do acórdão e dos atos processuais subsequentes por ele proferidos e cassados pelo STJ.
+3. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Precedentes.
+4. Rever as conclusões do Tribunal de origem, a fim de a caracterização da vulnerabilidade do recorrido, deixando de aplicar a regra da inversão do ônus da prova, demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido (AgInt nos EDcl no AREsp n. 2.091.099/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/11/2024, DJe de 26/11/2024).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. RELAÇÃO CONSUMERISTA. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. É aplicável o enunciado da Súmula 7/STJ quando não é possível, da análise dos fatos e das provas dos autos, vislumbrar a existência de nexo de causalidade, apto a legitimar a pretensão indenizatória.
+2. A natureza consumerista da relação não exime o autor de comprovar minimamente as alegações deduzidas, não havendo violação ao art. 373, I, do CPC, quando a parte não o faça.
+3. Agravo interno a que se nega provimento (AgInt no AgInt no AREsp n. 2.187.042/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/8/2024, DJe de 19/8/2024).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+2. Para alterar as conclusões contidas no decisum, no sentido de afastar a condição de consumidora da parte e, consequentemente, não aplicar as normas consumeristas ao caso, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. Rever o entendimento do Tribunal local, no sentido de verificar se o acervo probatório foi ou não suficiente para embasar o decisum atacado, se a parte autora trouxe ou não aos autos provas para demonstrar o fato constitutivo do direito alegado, e se estão presentes ou não os requisitos necessários para a inversão do ônus da prova, forçosamente ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido (AgInt no AREsp n. 2.098.730/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC.
+Intimem-se.
+EMENTA
