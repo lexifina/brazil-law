@@ -1,0 +1,22 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por EDI SILIPRANDI - ESPÓLIO , com fundamento na ausência de prequestionamento dos arts. 178 e 184 do CPC/1973; na incidência da Súmula 7/STJ, quanto às supostas violações aos arts. 5º da Lei 11.419/2006 e 14, 230, 269, 270 e 1.046 do CPC/2015, ao argumento de que a apreciação das teses exigiria revolvimento fático-probatório; e na inexistência de ofensa aos arts. 489 e 1.022 do CPC/2015, pois não haveria omissão, contradição ou obscuridade a justificar a oposição de embargos declaratórios.
+A agravante sustenta: que houve prequestionamento dos arts. 178 e 184 do CPC/1973, pois a matéria teria sido tratada pelo Tribunal de origem ou ao menos deveria ter sido objeto de manifestação em embargos declaratórios; que não se está diante de revolvimento fático-probatório ao tratar dos arts. 5º da Lei 11.419/2006 e 14, 230, 269, 270 e 1.046 do CPC/2015, mas apenas de enquadramento jurídico para definir qual legislação processual regeria a contagem do prazo recursal; e que houve omissões no acórdão, violando os arts. 489 e 1.022 do CPC/2015, pois o Tribunal não teria apreciado aspectos relevantes sobre a boa-fé processual e a segurança jurídica, muito menos se manifestado, de forma suficiente, quanto às datas de disponibilização e publicação da sentença no sistema eletrônico.
+Nas razões do recurso especial, a recorrente alega que o Tribunal de origem aplicou, de forma incorreta, as regras do CPC/1973 para avaliar a tempestividade da apelação. Aduz que a sentença foi disponibilizada ou publicada quando o CPC/2015 já estava em vigor, de modo que o prazo deveria ser contado em dias úteis (art. 219 do CPC/2015), conforme se infere dos arts. 5º da Lei 11.419/2006 e 14, 230, 269, 270 e 1.046 do CPC/2015.
+Sem contraminuta.
+Parecer do Ministério Público Federal pelo conhecimento do agravo e provimento do recurso especial nas fls. 2.047-2.052.
+É o relatório.
+Passo a decidir.
+De acordo com o Enunciado Administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista  ". Em contrapartida, quando a publicação/intimação da decisão ocorrer de 18/3/2016 em diante, deve-se aplicar o CPC/2015, inclusive no tocante à contagem de prazos (art. 219 do CPC/2015).
+Na hipótese, apesar de a sentença ter sido inserida no sistema eletrônico em 17/03/2016, a parte agravante foi intimada em 18/3/2016 e teria tomado ciência efetiva dias depois, já sob a égide do novo CPC. Em tais circunstâncias, a jurisprudência consolidada do Superior Tribunal de Justiça assinala ser aplicável a contagem de prazos em dias úteis, consoante a disciplina do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO INDIVIDUAL DE TÍTULO JUDICIAL EM AÇÃO COLETIVA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7/STJ.
+ ..
+II - O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+ ..
+(AgInt no REsp n. 2.131.107/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024.)
+A adoção das regras do CPC/2015 leva ao reconhecimento de que a apelação do Espólio foi, em verdade, protocolizada dentro do prazo legal, sendo incorreta a alegação de intempestividade firmada pelo Tribunal de origem. Ademais, ressalta-se não se tratar de revolvimento de provas (Súmula 7/STJ), mas de mera verificação do termo inicial para contagem do prazo recursal, circunstância que se resolve por simples cotejo das datas de intimação.
+Também não se sustenta a ausência de prequestionamento. A controvérsia relativa à aplicação do CPC/2015  e, portanto, a contagem em dias úteis  foi suscitada já em agravo interno e embargos declaratórios, indicando que a questão foi suficientemente devolvida ao Tribunal.
+Constata-se que a decisão de inadmissão do recurso especial merece reparo, pois o fundamento da intempestividade do recurso apelatório contraria o entendimento pacífico deste Tribunal da Cidadania.
+Isso posto, conheço do agravo para dar provimento ao recurso especial e anular o acórdão que considerou a apelação intempestiva e determinar o retorno dos autos ao Tribunal de origem para julgamento do mérito recursal.
+Intimem-se.
+ EMENTA
