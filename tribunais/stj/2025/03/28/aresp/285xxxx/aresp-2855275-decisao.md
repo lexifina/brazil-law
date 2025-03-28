@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado por Rumo Malha Sul S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 120):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AGRAVOS INTERNOS. REINTEGRAÇÃO/MANUTENÇÃO DE POSSE. ART. 109, I, CF. COMPETÊNCIA. JUSTIÇA FEDERAL. AUSÊNCIA DE INTERESSE NO FEITO. DECLINAÇÃO DA COMPETÊNCIA. JUSTIÇA ESTADUAL. SÚMULAS 150 E 224 DO STJ.
+A 2ª Seção desta Corte, ao apreciar a questão de ordem suscitada na apelação cível n.º 5003692-65.2014.4.04.7118/RS, firmou o entendimento no sentido de que, em tais litígios, não há interesse federal, a justificar a competência da Justiça Federal, e, com suporte nas súmulas n.ºs 150 e 224 do Superior Tribunal de Justiça, declinou-a para a Justiça Estadual.
+Opostos embargos de declaração pelo Ministério Público Federal, foram rejeitados (fls. 235/239).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, II, do CPC, 8º, I, e 22 da Lei n. 11.483/2007, 82, XVII e § 4º, da Lei n. 10.233/2001; 98 do Código Civil. Sustenta que: (I) a rejeição dos embargos de declaração implica ofensa à norma do CPC; (II) todos os bens da antiga RF FSA são bens públicos da União e pertencem ao DNIT por força de lei, o qual, portanto, deve participar das ações possessórias nas quais se discute a respeito dos referidos imóveis e (II) evi dencia-se, ainda, o interesse da Agência Nacional de Transportes Terrestres - ANTT, uma vez que cabe a ela o controle patrimonial dos bens operacionais na atividade ferroviária.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo provimento do recurso (fls. 711/719).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Inicialmente, verifica-se que, na espécie, não houve oposição de embargos de declaração perante a Corte de origem. Assim, ao indicar violação ao art. 1.022 do CPC, revela-se manifesta a deficiência na fundamentação do recurso especial. Imperiosa, portanto, a incidência do óbice constante da Súmula 284/STF, segundo a qual é "inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.".
+De outro turno, a questão da competência do juízo foi assim enfrentada pela instância a quo (fls. 117/118):
+É firme, na jurisprudência, a orientação no sentido de que:
+(1) a competência do juízo federal define-se pela participação na lide de um dos entes/entidades elencados no artigo 109, inciso I, da Constituição Federal;
+(2) a assistência é modalidade de intervenção de terceiros voluntária (artigos 50 a 55 do CPC/1973 e artigos 119 a 124 do CPC/2015), não cabendo a imposição de ingresso de assistentes ainda que, eventualmente, possa existir interesse federal envolvido na lide, e
+(3) incumbe à Concessionária promover a defesa da posse dos bens que lhe foram confiados, por força de disposição contratual.
+Nessa perspectiva, a manifestação de ausência de interesse de ente/entidade federal em integrar o polo ativo ou passivo do feito enseja o reconhecimento da incompetência da Justiça Federal:
+O Tribunal de origem, ao decidir a questão relativa à competência do juízo, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgInt no AREsp n. 2.130.207/GO, relator Ministro Afrânio Vilela, Segunda Turma, DJe de 23/5/2024; AgInt no AgInt no AREsp n. 2.367.865/MA, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/4/2024.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
