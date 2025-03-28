@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS S.A. ESPÓLIO, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPRA E VENDA Restituição de quantias pagas Inadimplência dos compradores autores Ré que adjudicou os imóveis extrajudicialmente nos moldes do art. 63 da Lei nº 4.591/64 e cláusulas contratuais que mencionam tal dispositivo legal, sem restituição de qualquer quantia paga Procedimento, entretanto, atinente aos empreendimentos soerguidos na modalidade a preço de custo ou por administração, em que a obra é custeada pelos próprios condôminos Hipótese dos autos em que a venda à apelada se deu a preço fechado Precedentes Autora que faz jus à restituição de 80% dos valores pagos Permitida, ainda, a retenção de taxa de fruição de 0,5% do valor contratual do bem, por mês de ocupação, e IPTU e condomínio abertos e não pagos durante a ocupação - Apelo provido em parte" (e-STJ fl. 628).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 643/645).
+Nas razões do recurso especial (e-STJ fls. 648/658), o recorrente sustenta violação dos artigos 1.022 do Código de Processo Civil; 53 do Código de Defesa do Consumidor e 405 do Código Civil.
+Aduz omissão no julgado.
+Sustenta que os juros de mora incidentes sobre o valor a ser restituído não devem ser calculados a partir da citação pois a rescisão contratual se deu por culpa do comprador.
+Pleiteia pela majoração do percentual de retenção.
+Contrarrazões às e-STJ fls. 666/678.
+É o relatório.
+DECIDO.
+A insurgência não merece prosperar.
+De início, a recorrente sustenta omissão no julgado com relação a incidência de juros sobre a taxa de fruição e juros de mora. No entanto, observa-se dos autos que nos aclaratórios opostos na origem houve alegação, apenas, a respeito da sucumbência.
+Dessa forma, tais matérias não foram sequer suscitadas nos embargos de declaração, o que configura, inclusive, a ausência de prequestionamento atraindo a incidência da Súmula nº 282/STF.
+Importa ressaltar que, para que ocorra o prequestionamento é necessário que a Corte local se pronuncie especificamente acerca da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto.
+Nem há falar na tese de matéria de ordem pública cognoscível a qualquer tempo, porquanto o Superior Tribunal de Justiça tem entendimento de que até mesmo as matérias de ordem pública necessitam do prequestionamento para serem analisadas em recurso especial.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 492 DO CPC. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO STF. MATÉRIA DE ORDEM PÚBLICA. FALTA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE ANÁLISE. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO. DANOS MORAIS. RESPONSABILIDADE CIVIL. PRESSUPOSTOS. CULPA EXCLUSIVA. VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. QUANTUM INDENIZATÓRIO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. INEXISTÊNCIA DE SIMILITUDE. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de enfrentamento pelo tribunal de origem da questão objeto da controvérsia impede o acesso à instância especial e o conhecimento do recurso especial, nos termos da Súmula n. 282 do STF.
+2. Mesmo as matérias de ordem pública necessitam do prequestionamento para ser analisadas em recurso especial.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. Tratando-se de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+5. Agravo interno desprovido."
+(AgInt no REsp 2.080.298/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 1º/7/2024, DJe de 8/7/2024.)
+Por fim, é admitida a flutuação do percentual da retenção pelo vendedor entre 10% a 25% do total da quantia paga nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador, pelo que não há falar na utilização do valor atualizado do contrato como base de cálculo dos valores a serem restituídos.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA EVENDA DE IMÓVEL EM CONSTRUÇÃO. ART. 1.022 DO CPC/2015. AUSÊNCIA DEVIOLAÇÃO. RETENÇÃO INTEGRAL DE SALDO REMANESCENTE APÓS LEILÃOEXTRAJUDICIAL. MATÉRIA NÃO ENFRENTADA PELO TRIBUNAL DE ORIGEM SOB OENFOQUE PRETENDIDO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REVISÃODO JULGADO. OFENSA A ENUNCIADO DE SÚMULA. NÃO CABIMENTO DO APELO ESPECIAL.SÚMULA 518/STJ. RESTITUIÇÃO DOS VALORES PAGOS. SÚMULA 543/STJ.IMPOSSIBILIDADE DE REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOSAUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. DATADO TRÂNSITO EM JULGADO. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensãonão caracteriza falta de prestação jurisdicional.
+2. Nos termos da jurisprudência vigente no Superior Tribunal de Justiça,rescindido o contrato de promessa de compra e venda de imóvel (anterior àLei n. 13.786/2018) por culpa do comprador, é possível a retenção dopercentual de 10% a 25% dos valores pagos pelo contratante durante avigência do pacto. Incidência da Súmula 83/STJ.
+3. "Nas hipóteses de rescisão do compromisso de compra e venda porinadimplência dos promitentes compradores, os juros de mora relativos àsparcelas pagas incidem a partir do trânsito em julgado da decisão.Precedentes" (AgInt no REsp n. 1.355.223/MT, relator Ministro RicardoVillas Bôas Cueva, Terceira Turma, julgado em 22/6/2020, DJe de26/6/2020.).
+4. O mero não conhecimento ou a improcedência de recurso interno nãoenseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015,devendo ser analisado caso a caso.
+5. Agravo interno improvido" (AgInt no AgInt no AREsp n. 1.658.108/RJ,relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em16/10/2023, DJe de 18/10/2023).
+Ademais, rever a questão do percentual de retenção demandaria reapreciar o conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PERCENTUAL DE RETENÇÃO DAS PARCELAS PAGAS. PARTICULARIDADES. INCIDÊNCIA DAS SÚMULAS N. 5, 7 E 83/STJ. DIVERGÊNCIA PREJUDICADA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Com efeito, quando do julgamento do REsp n. 1.723.519/SP, rel. Min. Maria Isabel Gallotti, DJe 2/10/2019, ficou estabelecido que, nos contratos de compra e venda de imóvel anteriores à Lei n. 13.786/2018, havendo rescisão contratual pelo promitente comprador, é garantida, em favor do promitente vendedor, a retenção de 25% (vinte e cinco por cento) das parcelas pagas, salvo peculiaridade do caso concreto, que autorize a fixação em percentual menor. Incide, no ponto, o óbice da Súmula 83/STJ.
+2.1. Na hipótese, rever a conclusão do Tribunal de origem (acerca da existência de particularidade a justificar a redução do parâmetro jurisprudencial) demanda o reexame das provas produzidas no processo e de termos contratuais, o que é defeso na via eleita, nos termos dos enunciados n. 5 e 7 da Súmula do Superior Tribunal de Justiça.
+3. De acordo com o entendimento do Superior Tribunal de Justiça, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. A jurisprudência do Superior Tribunal de Justiça, "interpretando o art. 1.043, incisos I e III, do CPC, firmou a orientação de que decisão monocrática não pode ser adotada como paradigma para fins de comprovação da divergência" (AgInt nos EAREsp 1.185.827/ES, Rel. o Ministro Jorge Mussi, Corte Especial, julgado em 22/6/2021, DJe 24/6/2021).
+5. Agravo interno a que se nega provimento"
+(AgInt no AREsp n. 2.635.950/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/10/2024, DJe de 28/10/2024.)
+Ante o exposto, não conheço do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA. OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PERCENTUAL DE RETENÇÃO. REANÁLISE. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em omissão no julgado, pois as matérias referentes aos juros na taxa de fruição e juros de mora não foram suscitadas nos aclaratórios opostos na origem, o que também caracteriza ausência de prequestionamento, óbice da Súmula nº 282/STF.
+2. É admitida a flutuação do percentual da retenção pelo vendedor entre 10% (dez por cento) a 25% (vinte e cinco por cento) do total da quantia paga nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador. Precedentes.
+3. Rever os fundamentos trazidos no acórdão recorrido quanto ao percentual de retenção demandaria reapreciar o conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+4 . Recurso especial não conhecido.
