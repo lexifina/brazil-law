@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ JACINTO ALVES FILHO contra decisão do Tribunal Regional Federal da 3ª Região que não admitiu o recurso especial.
+O recorrente foi denunciado pela prática do crime descrito no artigo 1º, inciso I, c/c o artigo 12, inciso I, ambos da Lei n. 8.137/90, em continuidade delitiva, por prestar declarações falsas às autoridades fazendárias, em Declarações de Compensação (PER/DCOMP) transmitidas entre julho de 2011 e agosto de 2013, compensando indevidamente o montante de R$ 1.262.217,09 a título de IPI devido à União Federal (fls. 61-63).
+A defesa, em sede de resposta à acusação, suscitou a existência de causa extintiva da punibilidade consubstanciada na modalidade de pagamento do crédito tributário por meio de ações de consignação em pagamento (fls. 63-64).
+O juízo de primeiro grau rejeitou o pedido sob o fundamento de que ausente causa extintiva da punibilidade do agente (fls. 63-64).
+O Tribunal Regional Federal da 3ª Região negou provimento ao recurso em sentido estrito, por unanimidade, ao entender que não há demonstração inequívoca do pagamento integral do débito para fins de extinção da punibilidade (fls. 65).
+O embargante opôs embargos de declaração, alegando omissão no acórdão quanto ao reconhecimento da extinção da punibilidade do agente em virtude dos pagamentos realizados nas ações cíveis (fls. 105-106).
+Os embargos de declaração foram rejeitados, por unanimidade (fls. 109).
+O recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, alegando violação aos artigos 397, inciso IV, do Código de Processo Penal e 156, inciso VIII, do Código Tributário Nacional (fls. 124-134).
+O recurso especial foi inadmitido ante a incidência da Súmula n. 7, STJ, e por ausência de demonstração de dissídio jurisprudencial (fls. 173-178).
+No presente agravo, a defesa sustenta que a análise da pretensão recursal não demandaria o reexame de provas, mas sim a revaloração jurídica dos fatos já delineados (fls. 186-197).
+O Ministério Público Federal se manifestou pelo desprovimento do agravo em recurso especial (fls. 247-250).
+É o relatório. DECIDO.
+Entendo que, no agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido, uma vez que, como bem analisou a controvérsia, a Corte de origem justificou a impossibilidade de seguimento do recurso com base nos seguintes fundamentos: a) incidência da Súmula n. 7, STJ; e b) ausência de demonstração de dissídio jurisprudencial.
+No que concerne à Súmula n. 7, STJ, embora a jurisprudência do Superior Tribunal de Justiça admita a revaloração das premissas fáticas no âmbito do recurso especial, não basta a mera alegação de que a pretensão visa tão somente ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar, de forma cuidadosa, que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora aplicada pelo julgador. A propósito:
+"É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016)"
+(AgRg no AREsp n. 2.153.967/TO, Sexta Turma, Rel. Min. Jesuíno Rissato - Desembargador Convocado do TJDFT, DJe de 23/6/2023).
+É possível observar que Tribunal a quo, após analisar o acervo fático-probatório, concluiu, de modo fundamentado, pela inexistência de demonstração inequívoca do pagamento integral do débito ou do depósito do valor total do quantum debeatur para fins de extinção da punibilidade do recorrente.
+Alterar tal entendimento demandaria o reexame de fatos e provas, providência inadmitida na via eleita, nos termos da Súmula n. 7, STJ. Nesse sentido:
+"A pretensão recursal que objetiva a desclassificação da conduta do agravante ou a sua absolvição, seja por atipicidade formal, pela ausência de prejuízo à vítima ou pelo reconhecimento da inexistência de dolo, demandaria a ampla reanálise do conjunto fático-probatório do feito, o que é vedado nesta via especial, conforme preconizado pela Súmula n. 7 do Superior Tribunal de Justiça. Precedentes." (AgRg no AREsp n. 2.385.603/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 20/5/2024)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RESP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. A defesa deixou de combater, de forma efetiva e suficiente, o seguinte fundamento nas razões do AREsp: Súmula n. 7 do STJ.
+3. Ademais, a parte não impugnou, nas razões o recurso especial, o fundamento do acórdão recorrido que considerou preclusa a nulidade da prova (prints de conversa de whatsApp), o que ensejaria a incidência do disposto na Súmula n. 283 do STF.
+4. A pretensão absolutória - por ausência de dolo e insuficiência da prova - implica a necessidade de reexame fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+5. Quanto à pena-base, a compreensão desta Corte Superior é de que a condição de advogado pode dar ensejo à elevação da pena-base, conforme ocorrido nos autos, o que atrai a incidência do entendimento da Súmula n. 83 do STJ.
+6. Cumpre manter a compreensão de que a impugnação dos óbices apontados no decisum que inadmitiu a circunstância que ensejou o não conhecimento do AREsp.
+7. Agravo regimental não provido." (AgRg no AREsp n. 2.522.092/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/4/2024,)
+Por fim, não restou demonstrada pelo recorrente a alegada divergência jurisprudencial, como bem destacado na decisão agravada, já que não evidenciada de maneira adequada e efetiva, a identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional.
+Ademais, "não cabe o apelo nobre, mesmo pela alínea c do permissivo constitucional, quando o julgado a quo estiver alicerçado no revolvimento do conjunto fático-probatório constante dos autos, pois o mencionado recurso é admitido tão somente para a análise de matérias referentes à interpretação de normas infraconstitucionais" (AgRg no AREsp n. 1.657.974/SE, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 2/6/2020, DJe de 16/6/2020.).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art . 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.  Intimem-se.
+EMENTA
