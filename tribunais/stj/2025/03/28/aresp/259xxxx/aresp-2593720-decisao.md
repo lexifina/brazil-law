@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, agravo de decisão que inadmitiu recurso especial interposto pelo MUNICÍPIO DE SERTANIA, contra acórdão proferido pelo TJPE, assim ementado (fl. 276):
+CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. MUNICÍPIO DE SERTÂNIA. VERBAS SALARIAIS NÃO ADIMPLIDAS. FICHA FINANCEIRA. DOCUMENTO UNILATERAL. NÃO COMPROVAÇÃO DA QUITAÇÃO DAS VERBAS. RECURSO PROVIDO. DECISÃO NÃO UNÂNIME.
+1. Devidamente comprovada a relação laboral com o ente público, faz jus o servidor, ou empregado público, ao recebimento das verbas salariais não pagas como contraprestação dos serviços prestados.
+2. Cabe ao município apontado como inadimplente, demonstrar nos autos o pagamento do valor cobrado, a fim de se desincumbir da obrigação. Vale dizer, a teor do art. 373, II, do CPC/2015 é ônus do réu constituir prova dos fatos impeditivos, modificativos e extintivos do direito do autor, e, não o tendo feito, deve arcar com o pagamento da remuneração reclamada.
+3. Assim sendo, a ficha financeira não constitui prova suficiente para comprovar o adimplemento da verba cobrada, vez que se trata de documento produzido unilateralmente pela municipalidade, que serve tão somente para demonstrar o seu lançamento no sistema informatizado da edilidade, não tendo o condão de atestar que o recorrente se desincumbiu do ônus probatório que lhe é inerente.
+4. O reconhecimento nesta ocasião acerca da inexistência de pagamento das verbas pleiteadas na exordial, não afasta a possibilidade de a fazenda pública antes mesmo do trânsito em julgado, comprovar o efetivo pagamento das verbas mediante os instrumentos aqui referidos de modo a evitar eventual pagamento em duplicidade.
+5. Recurso provido para condenar o MUNICÍPIO DE SERTÂNIA ao pagamento de décimo terceiro salário e férias acrescidas do terço constitucional, respeitada a prescrição quinquenal de valores anteriores a 22/06/2005, mantendo incólume a sentença nos demais termos.
+6. Decisão não unânime. Técnica de julgamento ampliado.
+Nas razões do recurso especial inadmitido, o recorrente aponta violação dos arts. 373, I e 374, IV, do CPC, aos seguintes fundamentos (fls. 296-297):
+(..) enquanto atos provenientes da Administração Pública, os registros financeiros que foram acostados para comprovar o adimplemento das férias integrais e proporcionais e do 13º salário gozam da presunção de legitimidade e de veracidade, sendo a primeira uma relação de conformidade do ato com a lei e a segunda a relação entre o ato e os fatos alegados pela Administração.
+Desta forma, para se desconstituir os referidos atos administrativos é necessária prova capaz de afastar tal presunção legal. No caso em comento, é perceptível que a Autora não apresentou prova que aponte invalidade das informações contidas nas fichas financeiras, devendo prevalecer presunção de veracidade das informações contidas nos registros financeiros, considerando-os, assim, como documentos hábeis para demonstrar o adimplemento das verbas remuneratórias aqui reclamadas como inadimplidas.
+Defende, por fim, que caberia à parte autora a prova dos fatos constitutivos de seu direito.
+Contrarrazões apresentadas às fls. 308-313.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso, no entanto, não comporta conhecimento.
+A questão controvertida assim foi decidida pelo Tribunal de origem:
+Comprovado o vínculo funcional, cabe ao servidor público (Recorrente) o direito ao recebimento de seus direitos constitucionalmente reconhecidos, porém não pagos, de modo que a Municipalidade não venha a se locupletar com o dinheiro alheio, dando azo ao enriquecimento sem causa, sob pena de afronta aos princípios da legalidade e da moralidade.
+No entanto, tenho que as fichas financeiras não são hábeis a comprovar o pagamento. É que tal documento público não tem o condão de comprovar o PAGAMENTO, mas tão somente destacar que no mês discriminado são devidas ao agente público aludido as parcelas ali inseridas.
+Noutros termos, as fichas financeiras se prestam a demonstrar o valor devido ao agente público no mês referido, mas não o pagamento em si, o qual, aliás, deve ser comprovado mediante comprovante (i) de transferência bancária; (ii) de depósito bancário; (iii) de ordem de pagamento bancário; (iv) etc.
+(..)
+Como se vê, para se desincumbir do ônus que lhe é próprio, deveria a Fazenda Pública ter colacionado aos autos não as fichas financeiras, mas, sim, comprovantes de pagamentos.
+Ademais, não vislumbro que ficha financeira constitua prova suficiente do adimplemento das verbas cobradas, vez que se trata de documento produzido unilateralmente pela municipalidade que serve, tão somente, para demonstrar o seu lançamento no sistema informatizado da edilidade, não tendo o condão de atestar que o recorrente se desincumbiu do ônus probatório que lhe é imposto.
+(..)
+Impende ressaltar, por fim, que o reconhecimento nesta ocasião acerca da inexistência de pagamento das verbas exequendas, não afasta a possibilidade de a fazenda pública antes mesmo do trânsito em julgado da execução, comprovar o efetivo pagamento das verbas mediante os instrumentos aqui referidos de modo a evitar eventual pagamento em duplicidade. (fls. 278-281).
+Para infirmar a conclusão concernente à parte processual a quem seria mais fácil comprovar o pagamento das verbas salariais, seria imprescindível o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ. Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SERVIDORES PÚBLICOS MUNICIPAIS. EXECUÇÃO DE SENTENÇA EM MANDADO DE SEGURANÇA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. ARTS. 128, 337, 525, I E II, E 557, CAPUT, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. OFENSA À LEI MUNICIPAL 538/2003. SÚMULA 280/STF. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. MERO RESTABELECIMENTO DE VALORES. INTERPRETAÇÃO RESTRITIVA DO ART. 2º-B DA LEI 9.494/1997. INVERSÃO DO ÔNUS DA PROVA. REVISÃO. SÚMULA 7/STJ
+(..).
+10. O STJ entende ser inaferível eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+11. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada na apreciação do Recurso Especial pela alínea "a" do permissivo constitucional.
+12. Recurso Especial não conhecido (REsp n. 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe de 29/10/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR MUNICIPAL. COBRANÇA DE VERBAS SALARIAIS. ALEGAÇÃO DE RECONHECIMENTO DA DÍVIDA. AUSÊNCIA DE PROVA. ÔNUS QUE COMPETIA AO MUNICÍPIO. SÚMULA 7/STJ.
+1. Considerou o Tribunal de origem que: "(..) aduz o apelante  Município de Boa Vista  que houve erro do servidor que realizou os cálculos no procedimento administrativo e que a administração pública pode rever seus atos e anulá-los quando ilegais. Contudo, o apelante não se desincumbiu do ônus de comprovar o alegado, pois considerando que os atos administrativos têm presunção de veracidade, o Município não juntou aos autos qualquer prova de que aqueles cálculos foram anulados e quais seriam os corretos.
+2. Para que fosse possível a revisão dos fundamentos do acórdão recorrido seria imprescindível o reexame dos elementos fáticos constantes dos autos, o que é defeso em sede de recurso especial.
+Incidência da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no AREsp n. 503.703/RR, relator Ministro Og Fernandes, Segunda Turma, julgado em 4/11/2014, DJe de 28/11/2014).
+Isso posto, conheço do agravo para não conhecer do recurso especial. Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
