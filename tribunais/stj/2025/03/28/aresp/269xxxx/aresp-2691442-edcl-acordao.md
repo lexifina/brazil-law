@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração e determinar a certificação do trânsito em julgado e a imediata remessa dos autos para o Supremo Tribunal Federal, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+1. O aresto impugnado - e também o proferido quando do julgamento do agravo regimental -, a despeito das alegações da parte embargante, não padece de quaisquer dos vícios preconizados no art. 619 do CPP.
+2. A simples oposição ao desfecho do julgamento que lhe foi adverso não autoriza a oposição de embargos de declaração
+3. Embargos de declaração rejeitados. Determinada a certificação do trânsito em julgado e a imediata remessa dos autos para o STF.
+RELATÓRIO
+Trata-se de novos embargos de declaração opostos por MURILO POSTIGLIONI NEME ao acórdão de minha relatoria, por meio do qual o recurso anterior da mesma natureza foi rejeitado, nos termos da seguinte ementa (fl. 3.552):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA.
+1. Nos termos do comando normativo insculpido no art. 619 do CPP, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial.
+2. A intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+A parte embargante, nas razões do presente recurso integrativo, insiste na alegação de omissão acerca da impugnação dos fundamentos tidos por não atacados.
+Diz que o mero emprego do conceito de genericidade constitui afronta ao disposto no art. 315, inciso II, do Código de Processo Penal, na medida em que não esclareceu em que medida houve matéria não enfrentada dialeticamente por esta defesa. O que se busca por meio dos presentes embargos não é, necessariamente, a revisão da decisão prolatada nas fls. 3534, mas sim a devida apreciação da integralidade dos pontos contidos no agravo regimental de fls. 3494. Não se olvida o entendimento jurisprudencial de que não há necessidade de enfretamento de todos os argumentos apresentados. Contudo, por expressa decisão legal, necessária a apreciação integral de todos os argumentos que possam infirmar a decisão adotada (fl. 3.563).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA.
+1. O aresto impugnado - e também o proferido quando do julgamento do agravo regimental -, a despeito das alegações da parte embargante, não padece de quaisquer dos vícios preconizados no art. 619 do CPP.
+2. A simples oposição ao desfecho do julgamento que lhe foi adverso não autoriza a oposição de embargos de declaração
+3. Embargos de declaração rejeitados. Determinada a certificação do trânsito em julgado e a imediata remessa dos autos para o STF.
+VOTO
+O recurso não deve ser acolhido.
+Com efeito, o aresto impugnado - e também o proferido quando do julgamento do agravo regimental -, a despeito das alegações da parte embargante, não padece de quaisquer dos vícios preconizados no art. 619 do Código de Processo Penal, conforme é possível se depreender das razões de decidir daquele decisum (fls. 3.554/3.555 - grifo nosso):
+Nos termos do comando normativo insculpido no art. 619 do Código de Processo Penal, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou ambiguidades eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia e conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que o embargante, nas razões do agravo em recurso especial, deixou de se insurgir, específica e concretamente, contra todos os fundamentos do decisum por meio do qual não foi conhecido o respectivo recurso especial, o que implicou na manutenção da Súmula 182/STJ ao agravo, obstando a análise das questões de mérito elencadas no recurso especial.
+Por conseguinte, tendo em vista o antes citado empecilho processual ao conhecimento do agravo em recurso especial, insubsistente a alegação de que existem omissões no tocante à análise das matérias de mérito contidas no bojo do apelo nobre, tal como pretendido pela parte embargante.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Na hipótese dos autos, a rigor, a parte embargante apenas veicula discordância no tocante às conclusões plasmadas nos acórdãos prolatados, respectivamente, a propósito do agravo regimental e do recurso integrativo anteriormente apresentados.
+Por oportuno, anoto os seguintes excertos do acórdão que negou provimento ao agravo regimental (fls. 3.537/3.538 - grifo nosso):
+Na espécie, o agravo em recurso especial interposto pela parte agravante não foi conhecido porque deixaram de ser impugnados os fundamentos da decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ que não admitiu o apelo nobre acerca das Súmulas 283 e 284 do STF e 7 do STJ, o que atraiu a incidência da Súmula 182/STJ (fls. 3.489).
+Todavia, a parte agravante, neste agravo regimental, limitou-se a argumentar de forma genérica a incidência dos referidos fundamentos.
+Dessa forma, é inarredável aplicar, também para o presente recurso, o Verbete Sumular 182/STJ, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+ ..
+De outra parte, ao se insurgir contra alguns dos fundamentos de que lançou mão o Tribunal de origem para inadmitir o apelo nobre, pretende a parte agravante, neste agravo regimental, corrigir a fundamentação deficiente do agravo em recurso especial, desiderato que é inexequível, dada a preclusão consumativa.
+A propósito: AgRg no AREsp n. 2.235.899/MG, Ministra Laurita Vaz, Sexta bTurma, DJe 30/8/2023; e AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Por derradeiro, não tendo sido este agravo regimental conhecido e, por conseguinte, mantida a decisão que não conheceu do agravo em recurso especial, é incabível o exame das matérias veiculadas no recurso especial não admitido. Ilustrativamente: EDcl no AgRg no AREsp n. 2.343.897/MG, Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/8/2023, DJe 15/8/2023.
+Tal o contexto, ressalto que o fato de a parte não concordar com as soluções contidas nos citados arestos não implica que esses provimentos judiciais estejam maculados pela omissão, ambiguidade, contradição ou obscuridade. Deve-se ressaltar que a simples oposição ao desfecho do julgamento que lhe foi adverso não autoriza a oposição de embargos de declaração. Ilustrativamente: EDcl no AgRg no HC n. 850.007/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/11/2023.
+Nesse contexto, verificada a intenção protelatória e o abuso do direito de recorrer, há a possibilidade de determinar-se a certificação do trânsito em julgado nesta Corte e a baixa dos autos à origem, ainda que pendente a publicação do respectivo acórdão, a fim de que tenha início o cumprimento da pena ou para que se prossiga no andamento do processo (EDcl nos EDcl no AgRg no AREsp n. 2.036.994/SC, Ministra Laurita Vaz, Sexta Turma, DJe 25/4/2022).
+Ante o exposto, rejeito os embargos de declaração e determino a certificação do trânsito em julgado nesta Corte e a remessa dos autos ao STF para julgamento do agravo em recurso extraordinário (fls. 3.457/3.472), antes mesmo da publicação do presente acórdão e independentemente da interposição de novos recursos pela parte embargante.
