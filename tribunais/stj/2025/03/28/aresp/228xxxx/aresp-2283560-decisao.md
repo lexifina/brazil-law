@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por LEONARDO RODRIGUES FERNANDES contra a decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu o recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1.0699.19.007156-2/001.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento e provimento do agravo para que, mantendo-se a condenação do agravante pela prática do delito previsto no art. 33 da Lei n. 11.343/2006, seja revista a dosimetria da pena a ele imposta e, consequentemente, o regime de seu cumprimento (fls. 654/657).
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre, considerando que o recurso especial visa reexame de matéria fático-probatório, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+Dos termos do presente agravo, colhe-se que a parte agravante restringe-se a afirmar, de maneira genérica, a ausência de prova judicializada para a condenação, que o ônus da prova é da acusação, que cabível a aplicação da redutora do tráfico privilegiado e que a dosimetria da pena restou fora dos parâmetros e moduladores, acrescentando que a aplicação do patamar redutor de 2/3 é medida de justiça que no presente caso deve ser aplicada para possibilitar ao Agravante ter aplicado o regime de pena menos rigoroso assim como permitir a substituição da pena privativa de liberdade por restritiva de direito (fl. 624).
+Verifico que não foi apresentado fundamento no agravo em relação ao óbice da Súmula 7/STJ.
+Carece ainda o agra vo do necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no recurso especial. Ainda, o agravante nem sequer especifica a situação do caso concreto, de forma a demonstrar que sua pretensão, através do recurso especial, não envolve análise de questões fáticas, relacionadas ao conjunto da prova coletada no curso da ação penal e forma como considerada na decisão de segundo grau. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
