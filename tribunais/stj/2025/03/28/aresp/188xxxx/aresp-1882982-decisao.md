@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que não admitiu o recurso especial pelo qual o CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO ESTADO DE SÃO PAULO se insurgira, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 377):
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONSELHO PROFISSIONAL. CREASP. RESOLUÇÃO Nº 218/73. DIREITO AO EXERCÍCIO DE PROFISSÃO. PRINCÍPIO DA LEGALIDADE. IMPOSSIBILIDADE DE RESTRIÇÕES IMPOSTAS POR ATO INFRALEGAL. APELAÇÃO PROVIDA.
+1. A questão posta nos autos centra-se na alegação de que o CREA-SP estaria restringindo sua atuação profissional às atividades elencadas no artigo 9º da Resolução CONFEA nº 218/1973, por entender que sua formação profissional não se mostraria suficiente para possibilitar também o desempenho das atividades relacionadas no artigo 8º da resolução em apreço.
+2. Não há previsão legal ou constitucional para a restrição à liberdade de exercício profissional pelo motivo aduzido pelo Conselho Regional de Engenharia e Agronomia do Estado de São Paulo - CREA/SP, o qual deve observar o título do interessado, expedido por instituição regular e credenciada e já chancelado pelo Ministério da Educação.
+3. É manifestamente ilegal o ato que impede o apelante - profissional habilitado, por curso reconhecido pelo MEC e com validade nacional - de desempenhar suas atividades, por óbices criados por resolução do Conselho, sem o devido amparo legal.
+4. A restrição à atividade profissional não pode ser imposta com base apenas em resolução do Conselho Federal. O poder regulamentar do Conselho deve estabelecer as condições para o cumprimento da lei, mas não pode trazer inovações que imponham limitações não previstas em lei.
+5. A conduta perpetrada pelo apelado, consistente na restrição das atividades do apelante em seus quadros, por entender que a grade do curso de graduação não o habilita ao desempenho integral das funções de engenheiro eletricista, afigura-se desarrazoada e desproporcional, porquanto extrapola não apenas os limites da atribuição conferida pela Constituição Federal às entidades fiscalizadoras de profissão regulamentada, mas também limita indevidamente o exercício da profissão.
+6. Apelação provida.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente alega violação aos arts. 45 e 46, d, da Lei 5.194/1966 e ao art. 9º, X, da Lei 9.396/1996, ao argumento de que a legislação não autoriza a concessão automática de registro de qualquer curso, cabendo a ela analisar a qualificação na área tecnológica e a formação profissional.
+Requer o conhecimento e o provimento do recurso.
+A parte adversa apresentou contrarrazões (fls. 418/422).
+O recurso não foi admitido, razão pela qual foi interposto o agravo em recurso especial ora em análise.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Na origem, trata-se de mandado de segurança em que a parte ora recorrida postulou a concessão da segurança para o fim de que lhe fosse assegurado o registro no Conselho Regional de Engenharia e Agronomia (CREA) de São Paulo das atribuições previstas no art. 8º da Resolução 218/1973 do Conselho Federal de Engenharia e Agronomia (CONFEA).
+O Tribunal de origem solucionou a controvérsia nos seguintes termos (fls. 360/362):
+Pertinente anotar que o título de Engenheiro Eletricista do impetrante é reconhecido em duas certidões de registro profissional emitidas pelo CREA-SP. Numa delas constam as atribuições do artigo 9º da Resolução CONFEA 218/1973 (Certidão CI nº 1371449/2016 - Id nº 32848627). Na outra, há menção às atribuições do artigo 8º da resolução em apreço, porém a título provisório (Certidão CI nº 1201486/2015 - Id nº 32848628).
+O deslinde da controvérsia, portanto, requer o cotejo da documentação apresentada pelo impetrante com o teor das disposições dos artigos 8º e 9º da Resolução nº 218/1973 do CONFEA, dispositivos assim redigidos:
+"Art. 8º - Compete ao ENGENHEIRO ELETRICISTA ou ao ENGENHEIRO ELETRICISTA, MODALIDADE ELETRO TÉCNICA:
+I - o desempenho das atividades 01 a 18 do artigo 1º desta Resolução, referentes à geração, transmissão, distribuição e utilização da energia elétrica; equipamentos, materiais e máquinas elétricas; sistemas de medição e controle elétricos; seus serviços afins e correlatos.
+Art. 9º - Compete ao ENGENHEIRO ELETRÔNICO ou ao ENGENHEIRO ELETRICISTA, MODALIDADE ELETRÔNICA ou ao ENGENHEIRO DE COMUNICAÇÃO:
+I - o desempenho das atividades 01 a 18 do artigo 1º desta Resolução, referentes a materiais elétricos e eletrônicos; equipamentos eletrônicos em geral; sistemas de comunicação e telecomunicações; sistemas de medição e controle elétrico e eletrônico; seus serviços afins e correlatos. "
+Antes, porém, cumpre anotar que a Resolução CONFEA nº 218/1973 foi editada com a finalidade de discriminar as atividades das diferentes modalidades profissionais da área de Engenharia, Arquitetura e Agronomia, ante a ausência de disposição legal específica sobre a matéria. Com efeito, a Lei nº 5.194/1966, ao regular o exercício destas profissões, atribuiu ao CONFEA, em especial em seu artigo 27, alínea "f" , o mister de baixar resoluções com a finalidade de regulamentar sua execução. E, no que concerne ao âmbito da discussão travada nestes autos, não se identifica que a resolução questionada tenha ultrapassado os limites legais.
+ ..
+Noutro passo, da transcrição dos artigos 8º e 9º da Resolução CONFEA nº 218/1973, verifica-se que as atribuições do artigo 9º são afetas aos engenheiros eletrônicos, assim também aos engenheiros eletricistas (modalidade eletrônica) e aos engenheiros de comunicação. Em contrapartida, as atividades elencadas no artigo 8º também são de competência dos engenheiros eletricistas, porém com ênfase na modalidade eletrotécnica, especialidade que, ao contrário da eletrônica, possibilita ao profissional o exercício de trabalhos com alta tensão.
+Observo que o acórdão recorrido foi proferido com base na Resolução 218/1973 do CONFEA, de maneira que a revisão das conclusões nele adotadas passaria necessariamente pela análise dessa resolução, que não se enquadra no conceito de legislação federal, nos termos do art. 105, III, a, da Constituição Federal.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. RECUPERAÇÃO DE CONSUMO. FRAUDE NO MEDIDOR. ART. 1022 DO CPC. OMISSÃO NÃO CONFIGURADA. ÔNUS DA PROVA. COMPROVAÇÃO DO DANO MORAL. ACÓRDÃO RECORRIDO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. SUSPENSÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. TEMA DIRIMIDO COM BASE NA ANÁLISE DE RESOLUÇÃO.
+ ..
+4. O tema relacionado ao procedimento para a suspensão do fornecimento de energia elétrica foi analisado com base na Resolução n. 414/2010. Assim, o exame da controvérsia demandaria a interpretação da referida resolução, ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.772.515/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/8/2021, DJe de 18/8/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO CABIMENTO DE RECURSO ESPECIAL ALEGANDO VIOLAÇÃO DE ATO INFRALEGAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Em relação à questão de fundo, tem-se que a alegada violação de dispositivo de lei federal seria meramente reflexa. Assim porque a pretensão recursal esbarra na legalidade da Instrução Normativa n. 28/2020, ato normativo de natureza infralegal, o que implica a inviabilidade do recurso especial, haja vista que o conceito de tratado ou lei federal, inserto na alínea a do inciso III do art. 105 da Constituição Federal, deve ser considerado em seu sentido estrito. Nesse sentido: AgInt no REsp n. 2.082.967/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/12/2023, DJe de 19/12/2023; AgInt nos EDcl no AREsp n. 2.308.031/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/11/2023, DJe de 1º/12/2023
+VI - Agravo interno improvido.
+(AgInt no REsp n. 2.165.043/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
