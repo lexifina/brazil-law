@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado por Município de Manaus contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado (fls. 172/173):
+AMBIENTAL APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA DANOS AMBIENTAIS. CONSTRUÇÃO IRREGULAR LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO OCORRÊNCIA PRECEDENTE DO STJ. SENTENÇA ANULADA RECURSO CONHECIDO E PROVIDO.
+1. A controvérsia de mérito, cinge-se a reforma da sentença de extinção sem resolução do mérito, em que o Juízo de Direito da Vara Especializada do Meio Ambiente e Questões Agrárias, apontou a necessidade de identificação de todos os moradores da Área de Preservação, objeto de tutela na Ação Civil Pública intentada, com a consequente formação de litisconsórcio passivo;
+2. O Superior Tribunal de Justiça firmou entendimento no sentido de que, em matéria ambiental, em regra, não há obrigatoriedade na formação de litisconsórcio passivo, porquanto a responsabilidade entre os agentes poluidores pela reparação do dano é solidária;
+3. Imperioso o retorno dos autos ao Juízo a quo, a fim de que o mérito carente de apreciação, seja devidamente enfrentado;
+4. Apelação, conhecida e provida, em consonância com o parecer do Ministério Público.
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação ao art. 114 do CPC, sustentando a existência de litisconsórcio passivo necessário, ressaltando que poderá haver lesão a direito de terceiros. Alega que "há risco de ineficácia da coisa julgada material resultante do feito em caso de a responsabilidade do custeio do projeto de regularização fundiária for de seus potenciais beneficiários e não do Município, e, principalmente, em caso da necessidade de demolição, verificada após o procedimento de pesquisa, uma vez que a sentença faz coisa julgada somente às partes entre as quais é dada, conforme art. 506, do CPC/2015" (fl. 192)
+Foram ofertadas contrarrazões às fls. 200/211.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo provimento do agravo e do recurso especial (fls. 260/266).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Ao tratar do tema, o Tribunal de origem destacou (fls. 175/177):
+A controvérsia de mérito, cinge-se a reforma da sentença de extinção sem resolução do mérito, em que o Juízo de Direito da Vara Especializada do Meio Ambiente e Questões Agrárias, apontou a necessidade de identificação de todos os moradores da Área de Preservação, objeto de tutela na Ação Civil Pública intentada, com a consequente formação de litisconsórcio passivo.
+Pois bem. O Superior Tribunal de Justiça firmou entendimento no sentido de que, em matéria ambiental, em regra, não há obrigatoriedade na formação de litisconsórcio passivo, porquanto a responsabilidade entre os agentes poluidores pela reparação do dano é solidária, conforme o precedente colacionado a seguir.
+ ..
+Desse modo, a indicação dos proprietários, para fins de formação subjetiva da demanda, é meramente facultativa, não sendo o Órgão Ministerial obrigado a identificar todos os proprietários que eventualmente respondam pelos danos identificados.
+De fato, nos termos da jurisprudência firmada no âmbito do STJ, "a responsabilidade por danos ambientais é solidária entre o poluidor direto e o indireto, o que permite que a Ação seja ajuizada contra qualquer um deles, sendo facultativo o litisconsórcio. Tal conclusão decorre da análise do inciso IV do art. 3º da Lei 6.938/1981, que considera "poluid or, a pessoa física ou jurídica, de direito público ou privado, responsável, direta ou indiretamente, por atividade causadora de degradação ambiental". Precedentes do STJ." (AgInt no AREsp n. 2.009.721/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/5/2024, DJe de 26/6/2024.)
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. LITISCONSÓRCIO PASSIVO FACULTATIVO. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. A jurisprudência desta Corte entende que, nas ações civis públicas, em relação aos danos ambientais, não existe a obrigatoriedade de litisconsórcio passivo necessário entre os eventuais corresponsáveis, sendo, em regra, hipótese de litisconsórcio facultativo. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.860.338/AM, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 8/2/2021, DJe de 11/2/2021 - g.n.)
+PROCESSUAL CIVIL. LOTEAMENTO CLANDESTINO. RECURSO DO PROPRIETÁRIO A QUE SE NEGA PROVIMENTO, EM VIRTUDE DE SUA RESPONSABILIDADE PELA VENDA DE PARTE DA ÁREA E SUBSEQUENTE DIVISÃO EM LOTES QUE PERMITIRAM OCUPAÇÃO AO ARREPIO DA LEI 6.766/1979. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA
+DIVERGÊNCIA. 1. No campo dos loteamentos, todos os sujeitos que integram a cadeia irregular de transferências do imóvel podem, em tese, em litisconsórcio facultativo, figurar no polo passivo das ações judiciais que daí decorram.
+2. Matéria pacificada no STJ. Segundo a jurisprudência da Corte, no dano ambiental e urbanístico a "responsabilidade (objetiva) é solidária" (REsp 604.725/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 22.8.2005, p. 202), tratando-se de hipótese de "litisconsórcio facultativo" (REsp 884.150/MT, Rel. Ministro Luiz Fux, Primeira Turma, DJe 7.8.2008), pois, mesmo havendo "múltiplos agentes poluidores, não existe obrigatoriedade na formação do litisconsórcio", abrindo-se ao autor a possibilidade de "demandar de qualquer um deles, isoladamente ou em conjunto, pelo todo" (REsp 880.160/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.5.2010).
+3. Recurso Especial não provido.
+(REsp n. 1.338.823/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 1/9/2015, DJe de 30/10/2019.)
+Desse modo, estando o acórdão recorrido em consonância com a jurisprudência desta Corte, incide o óbice da Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
