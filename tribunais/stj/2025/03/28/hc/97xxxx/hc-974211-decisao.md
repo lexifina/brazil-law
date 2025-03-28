@@ -1,0 +1,12 @@
+DECISÃO
+DANIEL OLIVEIRA DA SILVA e JOSE HENRIQUE LIMA DA SILVA alegam sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação Criminal n. 0000609-67.2023.8.12.0001.
+Nesta Corte, a defesa postula "seja concedida a ordem de habeas corpus  ..  reformando-se o v. Acórdão proferido pela Terceira Câmara do Colendo Tribunal de Justiça de Mato Grosso do Sul, para o fim de  manter  a sentença de primeiro grau, absolvendo o paciente com fundamento no artigo 386, VII, do Código Processual Penal" (fl. 20).
+Decido.
+Este habeas corpus se insurge contra acórdão proferido em 29/10/2024. Conforme destacado pela Subprocuradora-Geral da República Ana Borges Coêlho Santos, "foi certificado o trânsito em julgado da condenação, com baixa definitiva dos autos em 12/12/2024" (fl. 601, grifei). A impetração em análise foi manejada em 13/1/2025, após o trânsito em julgado da condenação, de modo que o presente writ é substitutivo de revisão criminal.
+Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe no STJ julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Importante destacar que esta Corte, em diversas ocasiões, reconheceu a impossibilidade de uso do habeas corpus em substituição à revisão criminal, posicionando-se no sentido de que "o trânsito em julgado do acórdão que julga a apelação criminal, sem que haja a inauguração da competência deste Sodalício, torna incognoscível o pedido de habeas corpus" (AgRg no HC n. 805.183/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024.).
+Na mesma direção, cito, ainda, as seguintes decisões monocráticas: HC n. 905.628/SP, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe 17/4/2024; HC n. 905.340/SP, Rel. Ministra Daniela Teixeira, DJe 17/4/2024; HC n. 905.232/SP, Rel. Ministro Messod Azulay Neto, DJe 17/4/2024; HC n. 904.932/PR, Rel. Ministro Antonio Saldanha Palheiro, DJe 16/4/2024.
+Ademais, observo que a análise do pleito absolutório, nos moldes delineados na inicial da impetração, enseja reexame das provas amealhadas aos autos, medida incabível na via estreita do habeas corpus.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
