@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MARIA LARA SILVA FEITOSA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Narra a defesa que a recorrente teve a prisão preventiva decretada em 30/08/2022 pela suposta prática do crime de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que não conheceu do habeas corpus, com recomendação em acórdão de fls. 115-126.
+Na hipótese, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado no excesso de prazo para a formação da culpa.
+Aduz, ainda, que a recorrente é mãe de criança menor de 12 anos fazendo jus à substituição da prisão preventiva por domiciliar.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a substituição pela prisão domiciliar.
+Pedido de liminar indeferido às fls. 159-160.
+Informações prestadas às fls. 167-175. O Ministério Público Federal em parecer, às fls. 178-181, manifestou pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+Primeiramente, no que tange ao pleito da substituição da prisão preventiva pela prisão domiciliar, da leitura do acórdão objurgado verifica-se que tal matéria não foi alvo de deliberação pelo Tribunal de origem, circunstância que impede qualquer manifestação desta Corte Superior de Justiça sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Sobre o tema, os seguintes precedentes: AgRg no HC n. 865.449/SC, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 26/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024; AgRg no HC n. 901.024/GO, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 3/6/2024 e AgRg no HC n. 877.777/PE, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 18/4/2024.
+Quanto ao alegado excesso de prazo, depreende-se dos autos que a recorrente encontra-se presa desde 30/08/2022, e foi pronunciada em 04/07/2024, o que atrai a incidência da súmula 21 desta Corte Superior, segundo o qual "pronunciado o réu, fica superada a alegação de constrangimento ilegal da prisão por excesso de prazo na instrução". Houve a interposição de recurso em sentido estrito em 15/07/2024. Segundo informações, a prisão vem sendo reavaliada e atualmente os autos aguardam o julgamento do Recurso em Sentido Estrito interposto contra a sentença de pronúncia.
+Ressalte-se que a ação penal tramita com regularidade sem qualquer elemento que evidenciasse a desídia do aparelho judiciário na condução do feito, o que não permite a conclusão, ao menos por ora, da configuração de constrangimento ilegal passível de ser sanado pela presente via.
+A propósito:
+"A análise do excesso de prazo deve considerar a razoabilidade e as particularidades do caso concreto, incluindo a complexidade e a pluralidade de réus".(AgRg no RHC n. 205.652/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 10/12/2024.)
+"Para a aferição do excesso de prazo, devem ser sopesados não só o tempo da prisão provisória, mas, também, as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal" (HC n. 604.980/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020).(AgRg no HC n. 953.059/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 10/12/2024, DJEN de 17/12/2024.)
+Ante o exposto, conheço em parte do recurso e, na parte conhecida, nego provimento ao recurso ordinário em habeas corpus. Expeça-se, contudo, recomendação ao Tribunal de origem para que imprima maior celeridade possivel no julgamento do Recurso em Sentido Estrito.
+Publique-se. Intimem -se.
+EMENTA
