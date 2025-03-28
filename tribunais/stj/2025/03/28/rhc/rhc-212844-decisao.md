@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por GLEILSON ALVES DA CUNHA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do crime de homicídio qualificado.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que manteve a prisão e denegou a ordem, em acórdão de fls. 101-109.
+No presente recurso alega a defesa, em síntese, a falta de fundamentação à manutenção da prisão.
+Sustenta, ainda, a ausência de contemporaneidade dos fatos.
+Requer a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+O Ministério Público Federal em parecer, às fls. 178-182, manifestou-se pelo desprovimento do recurso.
+É o relatório. DECIDO.
+In casu, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista, que o recorrente, em concurso de agentes, mediante violação de domicílio, cometeu o crime de homicídio qualificado contra uma vítimas, que foi executada em sua cama durante o repouso noturno em sua residência, enquanto a outra vítima conseguiu fugir após ser atingida com alguns disparos, tendo o crime ocorrido em razão de disputa entre as facções criminosas Comando Vermelho e Massa Carcerária, pelo comando do tráfico de drogas na região - fl. 105.
+Destaca-se a jurisprudência deste Superior Tribunal de Justiça:
+"As instâncias originárias destacaram que a prisão preventiva do paciente está fundamentada no modus operandi e na gravidade concreta do delito: o recorrente, juntamente a outros 06 (seis) agentes, mediante diversos disparos de arma de fogo, teria ceifado a vida da primeira vítima e tentado matar a sua companheira, quando eles saíam de casa, tudo em virtude de disputas envolvendo o tráfico de drogas na região. A ação estaria vinculada ainda à facção criminosa "Trem Bala" e ao PCC. Consignou-se, ainda, que o recorrente possui (4) quatro condenações pretéritas e responde a outras 3 (três) ações, todas de natureza penal, incluindo a prática de outro crime de homicídio tentado. Por fim, o agravante se encontra foragido.
+4. Gravidade concreta da conduta. A conduta dos agentes, sem prejuízo da conclusão a ser aferida após a instrução do processo, extrapola os limites objetivos do tipo penal envolvido e evidencia, ao menos para fins de decretação da prisão preventiva e a priori, a periculosidade social do agente e justifica a prisão, nos termos do art. 312 do Código de Processo Penal" (AgRg no RHC n. 198.810/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/9/2024).
+No mesmo sentido: AgRg no RHC n. 196.620/MA, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJe de 28/8/2024; AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1/12/2023 e AgRg no RHC n. 184.703/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 11/10/2023.
+Outrossim, como bem destacado pelo tribunal de origem "não há que se falar em ausência de contemporaneidade da prisão em decorrência da data do delito (31/8/2024), tendo em vista a periculosidade do paciente manifestada em seu modus operandi, bem como pelo risco de reiteração delitiva, haja vista o paciente responder a outras ações penais por tráfico de drogas" - fls. 107-108.
+Ressalte-se, que a contemporaneidade da prisão preventiva diz respeito aos motivos ensejadores da prisão e não decurso do tempo da prática do fato ilícito.
+A propósito:
+"Em relação à suscitada ausência de contemporaneidade, recordo que ela diz com os motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, ou seja, é desimportante que o fato ilícito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos do risco à ordem pública" (AgRg no RHC n. 204.161/BA, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29/11/2024).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
