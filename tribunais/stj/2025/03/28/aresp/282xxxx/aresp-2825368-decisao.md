@@ -1,0 +1,24 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA S.A. contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/09/2024.
+Concluso ao gabinete em: 20/03/2025.
+Ação: de obrigação de fazer, ajuizada por MINISTÉRIO PÚBLICO DO ESTADO DE PERNAMBUCO, em face de HAPVIDA ASSISTÊNCIA MÉDICA S/A, na qual requer o custeio do tratamento pelo método PediaSuit para beneficiária menor de idade portadora de paralisia cerebral.
+Decisão interlocutória: concedeu a tutela de urgência, determinando à Hapvida que, em 15 dias, disponibilizasse o tratamento indicado pelo médico fisioterapeuta à autora, pelo método PediaSuit.
+Acórdão: negaram provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+EMENTA. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. PARALISIA CEREBRAL. FISIOTERAPIA INTENSIVA. MÉTODO PEDIASUIT. ROL DA ANS. CDC. CÓDIGO CIVIL. DIREITO À SAÚDE. DIGNIDADE HUMANA. PERIGO DA DEMORA INVERSO. RECURSO DESPROVIDO. 1 - Há nos autos criança com paralisia cerebral para quem foi prescrito tratamento fisioterapêutico específico, por meio de cinesioterapia intensiva com vestes terapêuticas em gaiola de habilidades através do método PediaSuit. 2 - Se o contrato não exclui a doença, não pode o plano de saúde obstar ou restringir a medida a ser adotada, devendo ser obedecida a prescrição médica sob pena de frustrar a legítima expectativa do consumidor de receber a assistência médica adequada em momento de necessidade, prejudicando o direito à saúde e impondo à relação de consumo desequilíbrio ainda maior. 3 - A não inclusão de determinado procedimento no rol da ANS não afasta o dever de cobertura da seguradora, porquanto se trata de lista onde não constam todos os tratamentos que devem ser cobertos pelas operadoras. Entendimento diverso lançado pelo STJ no EREsp 1886929 e 1889704 não tem força vinculante. 4 - Cumpre, em sede de cognição sumária, atentar para os riscos ao resultado útil do processo e destacar a relevância dos valores jurídicos em questão, notadamente o direito saúde, a dignidade humana e os ditames do CDC e da Lei Civil (boa-fé contratual e função social do contrato), os quais prevalecem sobre o interesse econômico da recorrente. 5 - Ausentes nos autos os requisitos ensejadores da liminar perseguida. Configurado o perigo da demora inverso, ante o potencial risco a que seria submetida a criança acaso privada da cobertura para o tratamento indicado. 6 - Agravo de instrumento NÃO PROVIDO. (e-STJ, fls. 147/148)
+Recurso especial: alega violação dos arts. 10, II, da Lei 9.656/98, e 421 e 422 do CC, bem como dissídio jurisprudencial. Sustenta a taxatividade do rol da ANS, razão pela qual não há a obrigatoriedade do custeio do tratamento. Afirma que os estudos científicos não evidenciaram a superioridade do método pleiteado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Não cabimento de recurso especial contra decisão que concede tutela provisória - Súmula 735/STF.
+A jurisprudência deste Superior Tribunal de Justiça é pacífica no sentido que, quando se trata de recurso especial interposto contra medida que concede ou indefere tutela provisória, seu objeto deve focar nas condições legais de sua concessão.
+Nesse sentido: AgInt no Aresp 1.248.498/SP, 3ª Turma, DJe de 29/06/2018; e AgInt no Aresp 980.165/BA, 4ª Turma, DJe 09/02/2018.
+Considerando a precariedade da decisão que deferiu a tutela provisória, a qual pode ser alterada a qualquer tempo, desaconselha-se o conhecimento e julgamento de recurso especial que verse sobre o tema, exceto quando tratar dos requisitos legais de concessão da tutela antecipada e não exigir o reexame de matéria fática e probatória, o que não se coaduna com a hipótese dos autos.
+Dessa forma, não é possível discutir, em recurso interposto contra decisão que concede a tutela provisória, a questão de fundo do direito (obrigatoriedade do custeio do procedimento) sobre o qual versa a controvérsia.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, § 11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. TUTELA PROVISÓRIA DEFERIDA. SÚMULA 735/STF.
+1. Ação de obrigação de fazer.
+2. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes.
+3. Agravo conhecido. Recurso especial não conhecido.
