@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo BANCO BRADESCO S.A. contra a decisão de minha lavra em que determinei o retorno dos autos ao tribunal de origem para aguardar o julgamento pelo Supremo Tribunal Federal do recurso extraordinário referente ao Tema 1.255 do STF.
+A parte embargante alega, em síntese, que há omissão na decisão monocrática que teria desconsiderado o fato de a edilidade embargada não ter comprovado o feriado local para a mitigação da intempestividade de seu recurso especial.
+Sustenta que "a decisão monocrática foi proferida sob omissão, considerando que, apesar do entendimento apresentado pelo Exmo. Ministro Relator, a intempestividade do Recurso Especial não foi reconhecida pelo Tribunal de origem apenas por erro no prazo do sistema eletrônico PJE, mas sim, em razão da própria Municipalidade ter deixado de apresentar os documentos hábeis capazes de comprovar a existência de feriado local no ato da interposição do recurso" (e-STJ fl. 1150).
+Contraminuta apresentada.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+Como consignado na decisão ora embargada, o recurso especial foi inadmitido por intempestividade, fundamento atacado no agravo, em que se alega que o termo final do prazo utilizado pela edilidade para a apresentação do recurso especial foi dado pelo sistema eletrônico do tribunal, já consideradas as datas decorrentes dos feriados locais.
+Com efeito, o argumento trazido pela edilidade em seu agravo é o de que a decisão de prelibação do Tribunal pernambucano, ao negar seguimento ao recurso especial por intempestividade, sem levar em consideração que o próprio Tribunal local determinou e publicou ato com os referidos feriados e lançou essa informação do seu Sistema de Processos Eletrônicos (PJE), contraria o princípio da instrumentalidade do processo, pois impede o acesso à justiça e a efetivação do direito de defesa do Município de Olinda.
+A esse respeito, consta da decisão embargada o fundamento de que esta Corte de Justiça definiu a orientação de mitigação de entendimento consolidado anterior para declarar que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso", para afastar a decretação da intempestividade do recurso em razão da apresentação do motivo justo (EAREsp 1.759.860/PI, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/3/2022, DJe de 21/3/2022).
+Constata-se, assim, que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
