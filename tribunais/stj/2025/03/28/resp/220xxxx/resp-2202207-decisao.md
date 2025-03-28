@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 135):
+PRESTAÇÃO DE SERVIÇOS. Fornecimento de água, coleta e tratamento de esgoto. Ação de cobrança. Decreto de prescrição. Apelo da autora. Desprovimento.
+Opostos embargos declaratórios, foram rejeitados (fls. 149/151).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos arts. 1.022, II , do CPC; e 205 e 2.028 do CC. Sustenta, em resumo, que: (I) o acórdão recorrido não se manifestou sobre os argumentos apresentados no apelo, deixando de apreciar os mesmos, o que poderia infirmar a conclusão adotada pelo julgador; e (II) a prescrição decenal deveria ser aplicada, considerando que a ação foi distribuída em 09 de janeiro de 2013, dentro do prazo prescricional, e não em 16 de janeiro de 2013, como considerado pelo acórdão recorrido.
+Aberta vista à parte recorrida, decorreu in albis o prazo para apresentação de contrarrazões (fl. 190).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Ademais, ao tratar da prescrição, o Tribunal local consignou que (fl. 136):
+Cobrança de tarifas de serviços de fornecimento de água, coleta e tratamento de esgoto, crédito de natureza pessoal, aqui remontando ao período de novembro de 1998, ainda relativo aos meses de junho e julho de 2.000, aplicada regra de direito intertemporal, a que alude o artigo 2.028, do Código Civil, indicando a observância de novo limite de prescrição, de dez anos (dip. cit., artigo 205), a incidir desde a vigência do novo estatuto civil (12 de janeiro de 2.003), com a distribuição da demanda em 16 de janeiro de 2.013 (fl. 01), tem-se por configurada hipótese de prescrição.
+Dessa forma, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional, porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
+EMENTA
