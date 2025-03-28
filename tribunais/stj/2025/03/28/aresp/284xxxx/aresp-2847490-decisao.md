@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por T amara Fabiola Olinto Nascimento, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fls. 312/313):
+EMENTA. DIREITO ADMINISTRATIVO. A P E L A Ç Ã O C Í V E L . A Ç Ã O D E CONHECIMENTO COM PEDIDOS D E C L A R A T Ó R I O S E CONDENATÓRIOS. SERVIDORA PÚBLICA MUNICIPAL. AUXILIAR DE A T I V I D A D E S E D U C A T I V A S . EQUIPARAÇÃO INDIRETA AO CARGO D E P R O F E S S O R . C O N C U R S O PÚBLICO. FUNÇÕES DIFERENTES. PERCEPÇÃO DO PISO NACIONAL. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CRITÉRIO LEGAL ESPECÍFICO. REFORMA DA SENTENÇA DE OFÍCIO. APELO DESPROVIDO. HONORÁRIOS R E C U R S A I S . S U S P E N S Ã O D A E X I G I B I L I D A D E D A V E R B A S U C U M B E N C I A L . P A R T E SUCUMBENTE BENEFICIÁRIA DA GRATUIDADE DA JUSTIÇA.
+1. O cargo de auxiliar de atividades educativas, embora inserido na educação básica, possui atribuições distintas das de professor, sendo inaplicável o piso salarial previsto na Lei nº 11.738/2008. A jurisprudência consolidada do Tribunal de Justiça do Estado de Goiás reforça tal entendimento.
+2. A sentença recorrida aplicou corretamente a correção monetária e os juros, com base na legislação vigente, incluindo a aplicação da taxa SELIC após a EC 113/2021.
+3 . O s h o n o r á r i o s a d v o c a t í c i o s sucumbenciais, por se tratar de sentença ilíquida, devem ser arbitrados na fase de liquidação de sentença, conforme o artigo 85, § 4º, II, do CPC. Sentença reformada de ofício.
+4. Desprovido o apelo interposto pela parte autora, são devidos honorários recursais, na forma do art. 85, § 11, do CPC.
+5. Suspende-se a exigibilidade da verba sucumbencial imposta à parte autora, mormente beneficiária da gratuidade da justiça (CPC, art. 98, § 3º).
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+SENTENÇA REFORMADA DE OFÍCIO.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 61 a 67 da Lei 9.394/96 e 2º, § 2º, da Lei 11.738/08. Sustenta, em resumo, que "o acórdão desconsiderou a formação pedagógica da Recorrente e as atividades de suporte pedagógico por ela desempenhadas, o que torna aplicável o Piso Nacional dos Profissionais da Educação, conforme regulamentado pela legislação federal." (fl. 329).
+Contrarrazões (fls. 340/344).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Com efeito, destaca-se ao acórdão recorrido a seguinte fundamentação (fls. 315/318):
+O cargo de auxiliar de atividades educativas enquadra-se na definição de profissional da educação básica, assim como o professor, como estatui o inciso III do art. 61 da Lei n 9.394/96, entretanto, tal fato não resulta, por si só, a aplicação da Lei Federal nº 11.738/2008 e a determinação do piso salarial para o referido cargo.
+Nesta senda, a Lei de Diretrizes e Bases da Educação Nacional e a Lei nº 11.738/2008, não promoveram a equiparação automática do Auxiliar de Atividades Educativas ao cargo de Professor, cujas atribuições são distintas, com maiores responsabilidades para o último, uma vez que é função dos professores ministrar aulas, aplicar avaliações e, por conseguinte, atribuir notas aos alunos.
+Neste viés, embora a autora possua diploma de licenciatura no curso de pedagogia, importante destacar que ela não foi aprovada em concurso público para o exercício do magistério, mas, sim, para o cargo de auxiliar de atividades educativas, portanto, não faz jus à percepção do piso nacional do magistério, uma vez que atua no cargo de auxiliar de atividade educativa.
+Nesse sentido, orienta a jurisprudência do Egrégio Tribunal de Justiça do Estado de Goiás, in verba magistri:
+ ..
+Neste jaez, não há se falar em reforma da sentença recorrida, que aplicou, à parte autora, o direito que lhe é devido, qual seja das diferenças salariais a que faz jus pelo exercício do seu cargo de auxiliar de atividades educativas, não se equiparando ao piso salário de magistério, vez que funções distintas regidas por leis que não se comunicam à pretensão de equiparação formulada na exordial e no apelo interposto.
+Declarado o direito a que faz jus a percepção pela autora, quais sejam de diferenças salariais, reserva-se à fase de cumprimento de sentença a liquidação dos montantes indicados na sentença. Lado outro, não há se falar em reforma da sentença para equiparação ao piso salarial de magistério pugnada na apelação interposta, consoante remansosa jurisprudência desta Corte de Justiça
+Diante desse contexto, a alteração das premissas adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o Enunciado Sumular 7 do STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
+EMENTA
