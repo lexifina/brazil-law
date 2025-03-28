@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial, interposto contra acórdão proferido pelo TRF 3ª Região, que trata da legitimidade ativa dos servidores para propor execução de ação coletiva, dispensada a exigência nominal em listagem (fls.212-225).
+O recorrente alega, em suma, que "tendo em vista que os efeitos da sentença proferida na respectiva ação coletiva estendem-se a todos os integrantes das categorias representadas pelo sindicato, conferindo a cada uma destas legitimidade para propositura individual da execução de sentença, resta evidente o enquadramento do exequente aos termos do título executivo judicial formado" (fl. 245).
+É o relatório. Passo a decidir.
+A suspensão do feito é medida necessária.
+Em suma, verifica-se que a questão dos autos versa sobre legitimidade para cumprimento individual de sentença decorrente de ação coletiva proposta por sindicato.
+Ocorre que esta matéria foi objeto de afetação pelo Superior Tribunal de Justiça nos autos dos REsps 2146834/AP e 2146839/AP - Tema 1302/STJ, Rel. Min. Teodoro Silva Santos, DJEN 18/12/2024, delimitando a seguinte questão controvertida: "Definir, caso não limitado expressamente na sentença, se todos os servidores da categoria são legitimados para propor o cumprimento individual de sentença decorrente de ação coletiva proposta por sindicato, independentemente de filiação ou de constar em lista".
+Assim, em observância à decisão de afetação, é caso de se determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, após a publicação do acórdão proferido sob a sistemática dos recursos repetitivos, e em observância aos artigos 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; ou b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGITIMIDADE PARA PROPOR CUMPRIMENTO INDIVIDUAL DE SENTENÇA DECORRENTE DE AÇÃO COLETIVA AJUIZADA POR SINDICATO INDEPENDENTE DE FILIAÇÃO OU DE CONSTAR EM LISTA. MATÉRIA A SER JULGADA NO RITO DOS RECURSOS REPETITIVOS (TEMA 1. 302/STJ). DEVOLUÇÃO DOS AUTOS À ORIGEM.
