@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo MUNICÍPIO DE CURITIBA, para alegar omissão quanto à fixação de honorários, na forma do art. 85, § 11, do CPC/2015.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A respeito da regra do § 11 do art. 85 do CPC/2015, este Tribunal firmou orientação jurisprudencial segundo a qual é necessária a majoração, pelo Ministro relator ou pelo órgão colegiado, na hipótese em que, tendo ocorrido a publicação do acórdão recorrido a partir de 18 de março de 2016 (início de vigência do CPC/2015), o recurso especial não for conhecido ou não for provido e houver anterior condenação ao pagamento dos honorários de sucumbência, sendo desnecessário para essa providência o trabalho adicional do advogado.
+A propósito: AgInt nos EAREsp 762.075/MT, Rel. p/ Acórdão Ministro Herman Benjamin, Corte Especial, julgado em 19/12/2018, DJe 07/03/2019; AgInt no AREsp 1740329/CE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/11/2021, DJe 30/11/2021; EDcl no REsp 1932864/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 03/11/2021, DJe 08/11/2021; AgInt no AREsp 1294059/GO, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 25/10/2021, DJe 28/10/2021.
+No caso, posto o acórdão recorrido tenha sido proferido sob o CPC/2015, a fixação dos honorários pela sentença deu-se com fulcro no art. 20 do CPC/2015, porquanto prolatada sob a égide do CPC/1973 (fl. 1.863), não estando preenchido requisito necessário para a majoração dos honorários, na forma do art. 85, § 11, do CPC/2015.
+Neste sentido, a orientação da Corte Especial do STJ:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova. 2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado.
+Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos.
+(EAREsp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/3/2019, DJe de 6/5/2019)
+Citem-se também: EDcl no AgInt no AREsp n. 1.679.411/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt no REsp n. 1.889.198/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Isso considerado, inexiste qualquer vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Ante todo o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS. MAJORAÇÃO. SENTENÇA SOB A ÉGIDE DO CPC/1973. INEXISTÊNCIA DE VÍCIOS. EMBARGOS REJEITADOS.
