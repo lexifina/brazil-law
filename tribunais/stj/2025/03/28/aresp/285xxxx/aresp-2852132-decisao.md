@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SIMIONATO COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DA CDA. NÃO CONFIGURADA. JUNTADA DO PROCESSO ADMINISTRATIVO. DESNECESSIDADE. 1. PARA A VALIDADE DO TÍTULO EXECUTIVO EMBASADOR DA EXECUÇÃO FAZ-SE MISTER O PREENCHIMENTO DOS REQUISITOS DO ART. 202 DO CTN, REPETIDOS NO ART. 2º, § 5º, DA LEI DE EXECUÇÃO FISCAL. 2. O ACESSO AO PROCESSO ADMINISTRATIVO NA REPARTIÇÃO PÚBLICA COMPETENTE É FACULTADO AO CONTRIBUINTE, A QUEM INCUMBE A EXTRAÇÃO DAS CÓPIAS QUE ENTENDER NECESSÁRIAS À SUA DEFESA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 202, II e III, do CTN e ao art. 2º, §5º, II e IV da LEF, no que concerne à nulidade da CDA, visto que não cumpre com os requisitos formais, especialmente no que se refere à forma de calcular os juros de mora, ao marco inicial de incidência dos juros moratórios, ao índice utilizado para atualização e à ausência da cópia dos processos administrativos que discutem os débitos por suposta multa de infração, ferindo os direitos à ampla defesa e ao contraditório. Argumenta:
+O acórdão recorrido, ao manter a decisão objeto do presente Agravo de Instrumento, incorre em violação direta aos art. 202, incisos II e III, do Código Tributário Nacional (CTN) e art. 2, parágrafo 5º, inciso II e IV, da Lei nº 6.830/80 (Lei de Execução Fiscal), porquanto inobservado os requisitos formais a serem assegurados no Ato-Procedimento de Controle Administrativo de legalidade que se formaliza na Inscrição de Dívida Ativa.
+ ..
+Sendo ao certo que, a ausência de quaisquer um destes requisitos, ensejam, automaticamente, no cerceamento de defesa do Contribuinte, ao passo que este não se consegue aferir se os valores cobrados estão corretos.
+ ..
+Ocorre que, tal direito somente poderá ser exercido quando atendidos os pressupostos acima mencionados, o que não ocorreu no caso sub litis pois, repisa-se, a Fazenda Nacional deixou de indicar a forma de calcular os juros de mora, tampouco mencionou o marco inicial de incidência dos juros moratórios nas certidões de dívida ativa e o índice utilizado para atualização.
+Ainda, o Ente Fazendário não trouxe aos autos cópia dos processos administrativos, que discutem os débitos por suposta multa de infração a lei, inviabilizando a defesa da Recorrente à extinção do crédito tributário.
+ ..
+É latente a nulidade dos títulos executivos, pois não atenderam à previsão legal, que exige a devida apresentação de todos os requisitos formais, tal como o termo inicial e da forma de cálculo dos juros de mora e dos demais encargos. Ademais, informações básicas quanto ao valor - base de cálculo do imposto - viriam dispostos em processo administrativo, o qual, o Excipiente teria oportunidade de oferecer defesa.
+Outrossim, a ausência de juntada do processo administrativo acaba por ferir os direitos de Ampla Defesa e Contraditório, visto que, a multa dele se originou, e a excipiente sequer tomou conhecimento dos fatos que levaram à sua ocorrência. Imperioso, assim, a reforma da decisão proferida na origem, aos efeitos de declarar a nulidade do processo executivo (fls. 56 - 60).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Para a validade do título executivo embasador da execução, imprescindível o preenchimento dos requisitos do art. 202 do CTN, repetidos no art. 2º, § 5º, da Lei de Execução Fiscal.
+No caso em exame, a certidão de dívida ativa executada refere o processo administrativo que precedeu a sua emissão, os fundamentos legais do débito executado - onde também é especificada a sua natureza - e o período da dívida executada. A certidão especifica, ainda, a disposição legal correta sobre a multa, juros e encargos. Desse modo, constato estarem presentes os requisitos legais na CDA que embasa a execução fiscal.
+ ..
+No caso, porém, não há qualquer indicativo de que tenha sido negado ao contribuinte o acesso ao processo administrativo, não sendo o caso de determinar-se que a providência seja realizada pela exequente (fl.40-41).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
