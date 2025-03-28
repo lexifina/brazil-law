@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto MUNICIPIO DE SAO CRISTOVAO contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 deste STJ e na Súmula 280 do STF.
+O ente municipal sustenta violação aos arts. 15, 16 e 21 da Lei Complementar 101/2000 e 1º, I e II, da Lei 8.852/1994, ao argumento de que a controvérsia seria unicamente de direito, por envolver a correta interpretação do "piso salarial nacional dos professores" (Lei 11.738/2008) e do conceito de vencimento inicial versus vencimento básico, afastando, assim, qualquer reexame fático-probatório. Defende, também, que não incidiria a Súmula 280 do STF, pois a discussão não se restringiria à Lei Complementar municipal 7/2009.
+Contrarrazões nas fls. 392-412.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+A pretensão da parte recorrente, relativa à violação aos arts. 15, 16 e 21 da Lei Complementar 101/2000, encontra óbice na Súmula 7/STJ. Para confirmar se ocorreu (ou não) aumento de despesa sem a devida dotação orçamentária, bem como se foram seguidos os requisitos legais de impacto orçamentário-financeiro, seria indispensável analisar dados concretos do ente público (contracheques, empenhos, orçamentos, etc.), o que exige revolvimento do conjunto fático-probatório, providência vedada em recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+A controvérsia envolve, ainda, a aplicação da Lei Complementar municipal 7/2009, responsável por estruturar o plano de carreira e a incidência do piso salarial nos níveis e classes do magistério. O exame de eventual desacordo com norma local não ingressa no âmbito do recurso especial, pois se trata de matéria regida pela Súmula 280 do STF, que impede a apreciação, na via excepcional, de suposta ofensa a direito local.
+Por fim, nenhuma das disposições legais federais invocadas encontra menção específica no decis um impugnado, de modo a possibilitar o juízo de violação ou negativa de vigência. Sem debate explícito ou implícito dos arts. 15, 16 e 21 da Lei Complementar 101/2000 e 1º, I e II, da Lei 8.852/1994, permanece ausente o requisito do prequestionamento.
+Diante deste cenário, aplica-se a Súmula 211/STJ, que estabelece: "É inadmissível o recurso especial relativo a questões não examinadas pelo Tribunal de origem, apesar da oposição de embargos declaratórios." Importante ressaltar que a falta de análise de determinada questão contida em normativo legal citado pelo recorrente nos embargos de declaração não configura, necessariamente, uma omissão. Isso ocorre quando o Tribunal a quo fundamentadamente rejeita a questão ou, mesmo sem abordá-la, não há demonstração analítica e detalhada pelo recorrente da importância dessa análise para a resolução do caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DA QUANTIA DE ATÉ 40 SALÁRIOS-MÍNIMOS. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NECESSIDADE DE REVOLVIMENTO DE PROVA. ÓBICE DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA N. 83/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - (..)
+(..)
+V - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+VI - (..)
+VII -(..).
+VIII - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Nesse sentido: (AgInt no AREsp n. 2.372.050/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023, AgInt no AREsp n. 2.257.786/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023, AgInt no AREsp n. 2.126.980/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+IX - Agravo interno improvido (AgInt no AREsp n. 2.311.068/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+Ainda: AgInt no REsp 1.035.738/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, publicado no DJe em 23/2/2017 e AgRg no REsp 1.581.104/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/4/2016, publicado no DJe em 15/4/2016.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
