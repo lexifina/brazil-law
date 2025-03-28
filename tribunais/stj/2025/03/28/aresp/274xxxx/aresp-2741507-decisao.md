@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE S.A. contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 223 e-STJ):
+Seguro saúde. Descredenciamento de clínica em razão da migração da Sompo para a Sul América. Ausência de comunicação do descredenciamento ao autor, bem como de comprovação de substituição da clínica anteriormente credenciada por equivalente. Ausência de procedimento regular de descredenciamento. Inteligência do artigo 17 da Lei n. 9.656/98. Descumprimento do dever de informação ao consumidor. Frustração de legítima expectativa. Necessidade de garantir equivalência de padrão de atendimento havida na rede, o que envolve a disponibilização das mesmas terapias e a distribuição geográfica adequada das clínicas conveniadas, especialmente em um município como São Paulo, de grande extensão territorial. Sentença mantida. Recurso desprovido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 256-265 e-STJ)
+Em suas razões de recurso especial (fls. 236-249 e-STJ), a parte recorrente aponta violação aos artigos 17 da Lei n. 9.656/1998; 421 e 757 do Código Civil, além de dissídio jurisprudencial, sustentando, em suma, a não obrigatoriedade de reembolsar despesas efetuadas pelos beneficiários com assistência à saúde quando realizado por profissionais ou clínicas não credenciadas.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade (fls. 269-271 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) não ter ficado demonstrada a alegada vulneração aos dispositivos legais arrolados; e b) aplicação dos óbices das Súmulas 5 e 7 do STJ.
+Daí o agravo (fls. 274-284 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a controvérsia recursal à verificação acerca da legalidade da negativa de cobertura de procedimento médico no caso dos autos.
+No caso em tela, o Tribunal de origem, ao analisar os elementos fáticos e probatórios dos autos, entendeu que foi indevida a negativa de cobertura na espécie, sob o fundamento de que a operadora do plano de saúde não logrou comprovar que cumpriu com o dever de comunicação ao consumidor sobre o descredenciamento da entidade hospitalar procurada, pronunciando-se nos seguintes termos (fls. 232-233 e-STJ):
+Pois, sobrevinda instrução probatória, não se entende alterado o panorama analisado no agravo.
+Primeiro, em relação à necessidade comunicação aos beneficiários acerca do descredenciamento da clínica, reitera-se que, diversamente do sustentando pela ré, a hipótese dos autos não afasta a incidência do art. 17 da LPS. Assim, era necessário, conforme o parágrafo 1º do art. 17 da LPS, a devida e específica comunicação a cada consumidor acerca do descredenciamento, o que incontroversamente não ocorreu, já que a ré reconhece que informou aos prestadores sobre o descredenciamento para que eles informassem os segurados, sem que tenha apontado a comunicação direta ou afinal ocorrida, que, insista-se, seria devida.
+No mais, embora a ré sustente no apelo que haja prestadores aptos à realização dos tratamentos em sua rede credenciada remanescente, vê-se que os prestadores indicados (fls. 208), de acordo com o relatado pelo autor, não seriam aptos à prestação adequada do serviço, uma vez que não disponibilizariam o tratamento neurológico de que necessita.
+Nesse contexto, tal qual indicado na sentença, caberia à ré demonstrar que, a despeito do descredenciamento da Clínica Morumbi, a rede credenciada acabou mantida nas mesmas condições, disponibilizando os serviços/terapias de modo equivalente, o que, contudo, não foi realizado a contento.
+A ré apenas apresentou uma lista com três clínicas credenciadas, sem indicar se ofereceriam todos os tratamentos de que necessita o autor, tampouco sua disponibilidade e proximidade da residência do requerente. Questionada, ainda, pelo autor, a oferta pelas clínicas indicadas do tratamento neurológico de que necessita, a ré se limitou a afirmar que o autor "não faz qualquer prova do alegado, apenas "joga" informações sem qualquer comprovação de contato com as clínicas indicadas não possuíam o tratamento pleiteado" e, instada a especificar provas, disse que não tinham outras a produzir (fls. 190/192). Ou seja, deixou a ré de demonstrar que o descredenciamento da Clínica Morumbi efetivamente não trouxe prejuízos ao autor, ônus que lhe competia, daí porque deve ser mantida a cobertura do tratamento médico indicado ao autor junto à Clínica Morumbi, nos termos estabelecidos na sentença.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame do não cumprimento do dever de informação ao consumidor - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDADA.
+1. A Corte de origem manifestou-se expressamente acerca dos temas necessários a solução da controvérsia, de modo que, ausente qualquer omissão, contradição ou obscuridade, não se verifica a ofensa ao artigo 1.022 do CPC.
+2. Rever a conclusão das instâncias ordinárias, no sentido de que foi indevida a negativa de cobertura na espécie, eis que a operadora do plano de saúde não logrou comprovar que cumpriu com o dever de comunicação ao consumidor sobre o descredenciamento da entidade hospitalar procurada, demandaria, inevitavelmente, o reexame de matéria fática, providência inviável nesta sede especial, a teor do enunciado da Súmula 7/STJ.
+3. A revisão da conclusão do Tribunal de origem, acerca do dever de reparação civil do dano moral, bem como da adequação do valor da indenização, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.628.509/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. DANOS MORAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE SIMILITUDE FÁTICA. MAJORAÇÃO DA VERBA HONORÁRIA. POSSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova, concluiu que a falta de comunicação do descredenciamento do hospital causou danos morais à autora. Entender de modo contrário implicaria reexame de matéria fática, o que é vedado em recurso especial.
+3. Para análise da admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, é necessário similitude fática entre o acórdão recorrido e o paradigma confrontado, de forma a evidenciar o dissídio jurisprudencial.
+4. Correta a decisão que, ao negar provimento ao agravo nos próprios autos, majorou em 20% (vinte por cento) o valor dos honorários advocatícios arbitrados na origem, nos estritos limites do art. 85, § 11, do CPC/2015, levando em conta os requisitos previstos nos incisos I a IV do § 2º do mesmo dispositivo.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1271400/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTOS DO ACÓRDÃO. AUSÊNCIA DE IMPUGNAÇÃO. APLICAÇÃO DA SÚMULA Nº 283 DO SUPREMO TRIBUNAL FEDERAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Rever a conclusão do aresto impugnado acerca da urgência do procedimento cirúrgico e da falta de informação quanto ao descredenciamento do hospital encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no REsp 1675850/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/11/2017, DJe 23/11/2017)
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majora-se os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
