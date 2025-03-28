@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANA CLAUDIA DA SILVA LOURENCO, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, nos autos da Apelação n. 0812026-58.2020.4.05.8200.
+Na origem, em sede de ação de rito comum ajuizada pela ora recorrente em desfavor do Instituto Chico Mendes de Conservação da Biodiversidade ICMBio, na qual se visava à anulação de ato administrativo, foi julgado extinto o feito sem resolução do mérito (fls. 476-479).
+O Tribunal Regional deu parcial provimento aos apelos interpostos pelas partes para afastar a multa, por extemporaneidade, restituir os efeitos da decisão administrativa que homologou o auto de infração quanto à demolição do imóvel e determinou o retorno dos autos ao juízo de primeiro grau para efetivar perícia acerca da compensação a que faz jus a ora recorrente, em acórdão assim ementado (fl. 814-816):
+CONSTITUCIONAL, PROCESSUAL CIVIL E AMBIENTAL. APELAÇÕES CÍVEIS. ICMBIO. AUTO DE INFRAÇÃO. CONSTRUÇÃO EM ÁREA DE PROTEÇÃO PERMANENTE (APP). RESTINGA. LICENÇA AMBIENTAL. AUSENTE. DEMOLIÇÃO. PRECEDENTES. ERROR IN POR PARTE DO ESTADO. MULTA ADMINISTRATIVA. DISPENSADA. VIGILANDO DIREITO A COMPENSAÇÃO. POSSIBILIDADE DE ATUAÇÃO DO PODER JUDICIÁRIO. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM PARA INSTRUÇÃO. SENTENÇA REFORMADA. APELAÇÕES A QUE SE DÁ PARCIAL PROVIMENTO.
+Os embargos de declaração opostos ao julgado foram rejeitados (fl. 861).
+Nas razões do recurso especial, a parte recorrente aduz violação dos arts.: (a) 5º, inciso LIV, da CF, em face do cerceamento de defesa decorrente da ausência de intimação pessoal da Defensoria Pública da União; (b) 5º, inciso XXIII, da CF, diante da ofensa ao direito de moradia, decorrente da homologação do auto de infração de demolição de imóvel construído com baixo impacto ambiental.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 912-914).
+É o relatório. Decido.
+As razões do recurso especial indicaram como violado o art. 5º, incisos XXIII e LIV, da CF/1988. No entanto, a via do recurso especial, destinada a uniformizar a interpretação do direito federal infraconstitucional, não se presta à análise da alegação de ofensa a dispositivo da Constituição da República. A propósito: AgInt no AREsp n. 2.298.562/PR, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 4/12/2023, DJe de 11/12/2023; AgInt no AREsp n. 2.085.690/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 812), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. AMBIENTAL. AUTO DE INFRAÇÃO. OFENSA A DISPOSITIVO DE NATUREZA CONSTITUCIONAL. VIA INADEQUADA. RECURSO NÃO CONHECIDO.
