@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por JOSE HONORIVAL ALVES RODRIGUES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO cuja ementa guarda os seguintes termos (fl. 344):
+EMENTA: APELAÇÃO - ASSISTÊNCIA JUDICIÁRIA GRATUITA - PRESUNÇÃO LEGAL - CONTRATO DE PROMESSA DE COMPRA E VENDA - ANULAÇÃO - OMISSÃO DOLOSA - DANO MORAL NÃO CONFIGURADO - RECURSO CONHECIDO E IMPROVIDO.
+1. Com relação à assistência judiciária gratuita, por serem ambas as partes pessoas físicas e mesmo diante da documentação carreada aos autos, deve prevalecer a presunção de veracidade estatuída no § 3º, do art. 99, do CPC.
+2. Ainda que o contrato de promessa de compra e venda de um imóvel tenha sido anulado diante da existência de omissão dolosa por parte dos apelados quanto a informações relevantes sobre o terreno e mesmo que tal fato tenha causado no recorrente sentimentos como desapontamento, frustração, raiva ou mesmo dor, não se pode confundir a existência destes elementos eminentemente subjetivos, com a concepção jurídica do que vem a ser o dano moral.
+3. Não alteradas as conclusões alcançadas pela sentença a quo, não há que se falar em alteração das verbas sucumbenciais. Recurso conhecido e improvido.
+Os embargos de declaração foram acolhidos em parte para sanar omissão acerca da condição suspensiva de exigibilidade da condenação ao pagamento das obrigações decorrentes da sucumbência, uma vez que o recorrente é beneficiário da assistência judicial gratuita (fls. 367-376).
+No recurso especial, a parte recorrente alega violação dos arts. 147 e 422 do Código Civil, 85, § 2º, e 86, ambos do Código de Processo Civil, e aponta divergência jurisprudencial.
+Argumenta que a omissão dolosa dos recorridos ao não informar sobre restrições do terreno configura dano moral. Cita jurisprudência que reconhece a indenização por dano moral em casos de dolo intencional que impede a fruição do bem adquirido (fls. 384-386).
+Ainda, sobre a distribuição das despesas processuais, defende que a condenação do requerente a suportar 70% dos encargos é desproporcional. Requer a distribuição proporcional em casos de sucumbência recíproca (fls. 395-396).
+Sem contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 429-431), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+De início, ao sustentar a tese do dano moral, observa-se que, nas razões do recurso especial, a recorrente deixou de estabelecer qual o dispositivo de lei federal que considera violado para sustentar sua irresignação tanto pelas alíneas "a" e "c" do permissivo constitucional.
+Ressalte-se que a mera menção ao tema em debate, sem que se aponte com precisão a contrariedade ou a negativa de vigência pelo julgado recorrido não preenche o requisito formal de admissibilidade recursal.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais o recorrente visa à reforma do julgado, de modo que a "simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF" (EDcl no AgRg no AREsp n. 402.314/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 22/9/2015).
+Diante da deficiência na fundamentação, o conhecimento do recurso especial encontra óbice na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, vê-se que o agravante apontou violação ao art. 5º, inciso X, da Constituição Federal como fundamento ao dano moral. Ocorre que não comporta conhecimento o recurso especial quanto à alegação de malferimento de artigos constitucionais por ser a via inadequada, sob pena de usurpação de competência atribuída exclusivamente à Suprema Corte:
+3. Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar a violação de dispositivos constitucionais, porquanto matéria afeta à competência do Supremo Tribunal Federal.
+(AgInt no AREsp n. 1.325.875/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Quanto ao mais, verifica-se que, em relação à apontada ofensa aos arts. 85, §2º, e 86 do CPC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ e alterar o decidido no acórdão impugnado, no que se refere à redistribuição dos ônus sucumbenciais, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+PROCESSO CIVIL. DIREITO CIVIL. INTERMEDIAÇÃO DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. LEGITIMIDADE DO EMPRESÁRIO INDIVIDUAL PARA REPRESENTAR A PESSOA JURÍDICA EM JUÍZO. COMISSÃO DE CORRETAGEM ACORDADA EM CONTRATO VERBAL. POSSIBILIDADE DE COMPROVAÇÃO EXCLUSIVAMENTE POR TESTEMUNHA. SÚM. 83 DO STJ. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚM. 5 E 7 DO STJ. PEDIDOS CUMULATIVOS COM ACOLHIMENTO APENAS DO PEDIDO MENOS ABRANGENTE. SUCUMBÊNCIA RECÍPROCA. SÚM. 83/STJ. REVISÃO DO DECAIMENTO DE CADA PARTE NO PEDIDO E DA DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. SÚM. 7 DO STJ. INCOGNOSCIBILIDADE DA DIVERGÊNCIA JURISPRUDENCIAL DIANTE DOS ÓBICES SUMULARES INCIDENTES À INTERPOSIÇÃO PELA ALÍNEA "A" DO ART. 105, III, DA CF.
+1. Não há falar em negativa de prestação jurisdicional nem vícios tão somente porque o acórdão recorrido, embora tenha enfrentado de modo fundamentado e claro as questões essenciais ao deslinde da controvérsia, profere decisão contrária à pretensão da parte recorrente.
+2. A "empresa individual" é uma ficção que não pressupõe a existência de uma pessoa jurídica para exploração da atividade, pois é o próprio empresário (pessoa física) quem exerce o comércio em nome próprio e responde (com seus bens) pelas obrigações firmadas pela empresa individual. Súmula 83 do STJ.
+3. Na intermediação de venda de imóvel e seus respectivos efeitos e obrigações, admite-se decisão judicial baseada exclusivamente em prova testemunhal.
+4. A interpretação de cláusulas contratuais e a análise do conjunto fático-probatório dos autos não se coadunam com os fins do recurso especial. Súmulas 5 e 7 do STJ.
+5. Quando houver na exordial formulação de pedidos cumulativos em ordem sucessiva, a improcedência do mais amplo, com o consequente acolhimento do menos abrangente, configurará sucumbência recíproca.
+6. A redistribuição de honorários advocatícios para adequá-los à proporção em que cada parte foi sucumbente é providência inviável em recurso especial. Súmula 7 do STJ.
+7. O revolvimento da distribuição dos ônus sucumbenciais para aferir o decaimento das partes nas instâncias de origem não é compatível com a via do recurso especial. Súmula 7 do STJ.
+8. Não se conhece do recurso especial interposto pela alínea "c" do permissivo constitucional, quando a interposição pela alínea "a" tem seu conhecimento obstado por enunciados sumulares, pois, consequentemente, advirá o prejuízo da análise da divergência jurisprudencial.
+Agravo interno improvido.
+(AgInt no REsp n. 2.059.044/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/3/2024, DJe de 20/3/2024.)
+Por fim, a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado do proveito econômico, observada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO DOLOSA. CONTRATO DE COMPRA E VENDA. DANO MORAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL APONTADO COMO VIOLADO. DISTRIBUIÇÃO SUCUMBÊNCIA. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO IMPROVIDO.
