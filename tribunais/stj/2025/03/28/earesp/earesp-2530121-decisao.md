@@ -1,0 +1,77 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos por JAIR ANTONIO MORGAN contra acórdão lavrado pela Primeira Turma do Superior Tribunal de Justiça, de relatoria do Ministro Benedito Gonçalves, em decisão assim ementada (fl. 5.100):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+Embargos de declaração rejeitados (fl. 5.147):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+Alega a parte embargante divergência jurisprudencial com relação à incidência da Súmula 182/STJ.
+Sustenta que (fl. 5.165):
+ ..  no r. acórdão ora embargado, apesar de da leitura das razões do recurso especial ser possível constatar a devida fundamentação jurídica, com a impugnação específica da Súmula nº 83/STJ, a e. Primeira Turma aplicou a Súmula 182/STJ ante a suposta ausência de impugnação específica da decisão que inadmitiu o recurso especial.
+Por outro lado, na r. decisão paradigma, a c. 2ª Turma desse e. STJ afastou a aplicação da Súmula 182/STJ justamente ao fundamento de que a impugnação, ainda que de forma sucinta, de todos os fundamentos da decisão de inadmissão do recurso especial por meio do agravo, afasta a incidência da Súmula 182/STJ.
+Aduz, ainda, que (fl. 5.171):
+No r. acórdão ora embargado, apesar de da leitura das razões do recurso especial ser possível constatar a devida fundamentação jurídica, a e. Primeira Turma aplicou a Súmula 182/STJ ante a suposta ausência de impugnação específica sobre a não incidência da Súmula nº 83/STJ. P
+or outra volta, no r. acórdão paradigma, a e. Quinta Turma afastou a aplicação da Súmula 182/STJ justamente ao fundamento de que, "A impugnação, ainda que de forma sucinta, de todos os fundamentos da decisão de inadmissão do recurso especial por meio do agravo, afasta a incidência da Súmula 182/STJ. Logo, preenchidos os requisitos de admissibilidade do agravo, correta a decisão que determinou a reautuação dos autos em recurso especial" (AgRg no AgRg nos E Dcl no AR Esp 499.574/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/08/2014, D Je 25/08/2014)."
+Eis as ementas dos acórdãos apontados como paradigmas:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO INADMISSÃO. CONHECIMENTO DO RECURSO.
+1. A impugnação, ainda que de forma sucinta, de todos os fundamentos da decisão de inadmissão do recurso especial por meio do agravo, afasta a incidência da Súmula 182/STJ. Logo, preenchidos os requisitos de admissibilidade do agravo, correta a decisão que determinou a reautuação dos autos em recurso especial.
+2. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp n. 499.574/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/8/2014, DJe de 25/8/2014.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. IMPUGNAÇÃO DOS FUNDAMENTOS DE INADMISSIBILIDADE DO RECURSO. SÚMULA 182/STJ. INCIDÊNCIA AFASTADA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO. PRIMAZIA DA RESOLUÇÃO DE
+MÉRITO. 1. "A impugnação, ainda que de forma sucinta, de todos os fundamentos da decisão de inadmissão do recurso especial por meio do agravo, afasta a incidência da Súmula 182/STJ. Logo, preenchidos os requisitos de admissibilidade do agravo, correta a decisão que determinou a reautuação dos autos em recurso especial" (AgRg no AgRg nos EDcl no AREsp 499.574/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/08/2014, DJe 25/08/2014).
+2. Ademais, não se pode perder de vista a finalidade instrumental do processo, que não pode ser concebido como um fim em si mesmo, mas como um instrumento para a concretização de um direito material.
+Este é o posicionamento adotado pelo Código de Processo Civil de 2015, que traz como diretriz a primazia da resolução de mérito, cuja aplicação ao processo penal é autorizada em razão da previsão contida no art. 3º do CPP. REGIME INICIAL DE CUMPRIMENTO DA PENA. GRAVIDADE ABSTRATA DO DELITO. REGIME PRISIONAL SEMIABERTO. NÃO CABIMENTO. INSURGÊNCIA DESPROVIDA.
+1. Nos termos da jurisprudência desta Corte, não é viável o estabelecimento de regime prisional diverso daquele, em tese, cabível, tendo em vista o total da sanção fixada, sem a apresentação de aspectos concretos da conduta criminosa, indicando-se peculiaridades específicas do delito em questão, sendo insuficiente, como procedido in casu, a menção à gravidade abstrata do crime de roubo majorado.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.093.249/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 26/9/2017, DJe de 6/10/2017.)
+É, no essencial, o relatório.
+Os presentes embargos de divergência não reúnem condições de admissibilidade.
+Verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182/STJ.
+Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Nesse senti do, cito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÉRITO DA CONTROVÉRSIA NÃO EXAMINADO NO ACÓRDÃO EMBARGADO. SÚMULA Nº 182/STJ. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA Nº 315/STJ. RECURSO NÃO PROVIDO.
+1. A teor do contido na súmula nº 315/STJ, não são cabíveis embargos de divergência quando não examinado o mérito do recurso especial, como na presente hipótese em que o acórdão embargado aplicou o óbice sumular nº 182/STJ.
+2. Agravo interno não provido.
+(AgInt nos EDcl nos EAREsp n. 2.425.723/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 8/10/2024, DJe de 14/10/2024.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE NÃO ANALISA O MÉRITO DO APELO NOBRE. NÃO CABIMENTO. SÚMULA N. 315/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. PRECEDENTE FIRMADO EM SEDE DE HABEAS CORPUS. AUSÊNCIA DE DEMONSTRAÇÃO DE DISSÍDIO INTERNO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os arts. 1.043, inciso I, do Código de Processo Civil e 226 do Regimento Interno do Superior Tribunal de Justiça restringem a possibilidade de interposição dos embargos de divergência à impugnação de acórdãos em que tenha sido analisado o mérito ou, ao menos, apreciada a controvérsia meritória, o que não ocorreu na hipótese, na qual o julgado embargado se limitou a confirmar decisão monocrática do Ministro Relator, que não conheceu do agravo em recurso especial, nos termos do art. 932, inciso III, do CPC e da Súmula n. 182/STJ. Incidência da Súmula n. 315/STJ.
+2. Não merecem ser conhecidos os embargos de divergência quando a parte, nas razões recursais, deixa de proceder ao cotejo analítico entre o acórdão recorrido e ao paradigmático, conforme determina o art. 266, § 4º, do RISTJ. Não atende à norma regimental a mera transcrição, nas razões do recursais, do interior teor do acórdão paradigma.
+3. Nos termos da iterativa jurisprudência do Superior Tribunal de Justiça, é inviável a demonstração de dissídio jurisprudencial tendo como paradigma acórdão proferido em ações constitucionais, como é o caso do habeas corpus. Tal vedação decorre da maior amplitude cognitiva dos remédios constitucionais em relação ao recurso especial, cujo espectro está circunscrito, precipuamente, à aplicação e à interpretação da lei federal.
+4. Agravo regimental não provido.
+(AgRg nos EAREsp n. 2.286.980/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Terceira Seção, julgado em 20/8/2024, DJe de 23/8/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE APRECIAÇÃO DO MÉRITO DO RECURSO ESPECIAL. SÚMULA 315/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS. RECURSO NÃO PROVIDO.
+1. Mediante análise dos autos, verifica-se que o Agravo em Recurso Especial não mereceu conhecimento, monocraticamente, em razão da incidência da Súmula 182/STJ (fls. 2.428-2.430, e-STJ). Interposto Agravo Interno, a Quarta Turma negou provimento ao Recurso (fls. 2.946-2.950, e-STJ).
+2. Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os Embargos de Divergência são cabíveis contra acórdão que, em Recurso Especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conheçam do Recurso, tenham apreciado a controvérsia.
+3. Como se vê, não é admissível o recurso de Embargos de Divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia, como é o caso dos autos. Desse modo, incide o óbice da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". A propósito: AgRg nos EAREsp n. 2.098.823/PR, Rel. Min. Laurita Vaz, Terceira Seção, DJe de 14/2/2023 e AgInt nos EREsp 1.848.530/DF, Rel. Min. Francisco Falcão, Corte Especial, DJe 07/12/2020.
+4. Acrescente-se que não há similitude fático-jurídica, pois o acórdão apontado como paradigma reconheceu o equívoco na incidência da Súmula 182 do STJ, ao afirmar ter havido impugnação específica de todos os argumentos da decisão denegatória de origem. Tal averiguação ocorreu com base na análise casuística dos autos e do caso concreto específico daquele processo. Assim, não há confronto de teses jurídicas apto a embasar o cabimento dos Embargos de Divergência.
+5. Agravo Interno não provido.
+(AgInt nos EAREsp n. 2.325.522/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 12/3/2024, DJe de 6/5/2024.)
+Além disso, o acórdão embargado decidiu consoante a jurisprudência pacífica desta Corte, segundo a qual "é inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada", incidindo, na espécie, a Súmula 182/STJ.
+A propósito, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INÉPCIA. SÚMULA 182/STJ. MANIFESTA INADMISSIBILIDADE. MULTA. CONDICIONAMENTO AO DEPÓSITO PRÉVIO.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada.
+Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido, com imposição de multa, condicionada a interposição de qualquer outro recurso ao depósito prévio.
+(AgInt nos EDcl nos EDcl nos EAREsp n. 2.437.081/BA, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 25/2/2025, DJEN de 28/2/2025.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INDEFERIMENTO LIMINAR. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. Na espécie, a decisão de indeferimento liminar dos embargos de divergência assentou que, em sede de Embargos de Divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como Habeas Corpus, Recurso Ordinário em Habeas Corpus, Mandado de Segurança, Recurso Ordinário em Mandado de Segurança, Habeas Data e Mandado de Injunção. No entanto, a Defesa limitou-se a reiterar as razões recursais, sem impugnar especificamente os fundamentos apresentados pela Presidência do STJ.
+3. Esta Corte Superior pacificou o entendimento de que a ausência de efetiva impugnação dos fundamentos da decisão agravada impede o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+4. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 2.337.358/RN, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Terceira Seção, julgado em 11/12/2024, DJEN de 18/12/2024.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL. NECESSIDADE DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS.
+1. A Corte Especial consolidou a orientação de que, para se viabilizar o conhecimento do agravo em recurso especial, é necessário que a recorrente impugne especificamente a integralidade dos fundamentos da decisão agravada, autônomos ou não.
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão que não admite o recurso especial, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, inciso III, do CPC).
+3. Agravo interno não provido.
+(AgInt nos EAREsp n. 2.163.552/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 8/10/2024, DJe de 14/10/2024.)
+In casu, incide a Súmula 168 do STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado
+Ante o exposto, indefiro liminarmente os embargos de divergência.
+Deixo de majorar os honorários advocatícios, tendo em vista que o recurso especial foi interposto contra sentença publicada na vigência do CPC/1973, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. SÚMULA 182/STJ. REGRA TÉCNICA DE CONHECIMENTO. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 315/STJ. INPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. JURISPRUDÊNCIA PACÍFICA. SÚMULA 168/STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA.
