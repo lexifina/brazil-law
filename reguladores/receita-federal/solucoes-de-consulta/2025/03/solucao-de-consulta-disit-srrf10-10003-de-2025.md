@@ -1,0 +1,15 @@
+Solução de Consulta Disit/SRRF10 nº 10003, de 27 de março de 2025
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+INCIDÊNCIA NA FONTE. RENDIMENTOS PAGOS POR PESSOAS JURÍDICAS A OUTRAS PESSOAS JURÍDICAS. DISPENSA DE RETENÇÃO.
+No caso da incidência na fonte do Imposto sobre a Renda de que tratam os arts. 714, 716, 718, 719 e 723 do Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza (RIR/2018), aprovado pelo Decreto nº 9.580, de 2018, a dispensa de retenção prevista no art. 67 da Lei nº 9.430, de 1996 (valor igual ou inferior a R$ 10,00 - dez reais), aplica-se a cada pagamento ou crédito realizado pela pessoa jurídica a outra pessoa jurídica, levando-se em consideração o total pago ou creditado nessa ocasião, ainda que se refira a mais de um documento fiscal.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 258, DE 17 DE SETEMBRO DE 2024.
+Dispositivos Legais: Lei nº 9.430, de 1996, art. 67; Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza (RIR/2018), aprovado pelo Decreto nº 9.580, de 2018, arts. 714, 716, 718, 719 e 723; Ato Declaratório Normativo Cosit nº 15, de 1997.
+Assunto: Normas de Administração Tributária
+INCIDÊNCIA NA FONTE. CSLL, COFINS E CONTRIBUIÇÃO PARA O PIS/PASEP. ART. 30 DA LEI Nº 10.833, DE 2003. DISPENSA DE RETENÇÃO.
+Na hipótese de incidência na fonte da Contribuição Social sobre o Lucro Líquido (CSLL), da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins) prevista no art. 30 da Lei nº 10.833, de 2003, é dispensada a retenção de valor igual ou inferior a R$ 10,00 (dez reais), exceto na hipótese de Documento de Arrecadação de Receitas Federais (Darf) eletrônico efetuado por meio do Sistema Integrado de Administração Financeira do Governo Federal (Siafi). Para fins de verificação do limite para dispensa de retenção, deve ser considerado o valor a ser retido sobre cada pagamento, apurado mediante a aplicação do percentual correspondente à soma das alíquotas das três contribuições, ainda que a fonte pagadora realize mais de um pagamento no mesmo dia.
+INCIDÊNCIA NA FONTE. IRPJ. CSLL, COFINS E CONTRIBUIÇÃO PARA O PIS/PASEP. ART. 64 DA LEI Nº 9.430, DE 1996. DISPENSA DE RETENÇÃO.
+Na hipótese de retenção de tributos na fonte na forma do art. 64 da Lei nº 9.430, de 1996, é dispensada a retenção quando o valor a ser retido for inferior a R$ 10,00 (dez reais), exceto na hipótese de Documento de Arrecadação de Receitas Federais (Darf) eletrônico efetuado por meio do Sistema Integrado de Administração Financeira do Governo Federal (Siafi). Esse limite deve ser verificado a cada pagamento sujeito a retenção, mesmo que a fonte pagadora realize mais de um pagamento no mesmo dia.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 258, DE 17 DE SETEMBRO DE 2024.
+Dispositivos Legais: Lei nº 9.430, de 1996, art. 64; Lei nº 10.833, de 2003, arts. 30 e 34; Instrução normativa RFB nº 1.234, de 2012, art. 3º, § 6º.
+IOLANDA MARIA BINS PERIN
+Chefe
