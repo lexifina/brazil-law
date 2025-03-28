@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JACKSON OTAVIO CARDOSO com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS em julgamento do Recurso em Sentido Estrito n.1.0000.24.185108-8/001.
+Consta dos autos que o recorrente foi denunciado (fls. 2/5) pela prática do delito tipificado no art. art. 33, caput c/c art. 40, III, da Lei nº 11.343/2006 (tráfico de drogas), tendo sido a denúncia rejeitada (fl. 203).
+Recurso em sentido estrito interposto pela acusação foi provido para receber a denúncia em relação ao recorrido Jackson Otavio Cardoso, quanto aos delitos previstos no art. 33, caput c/c art. 40, III, ambos da Lei nº 11.343/2006 (fl. 295). O acórdão ficou assim ementado:
+"RECURSO EM SENTIDO ESTRITO - RECURSO MINISTERIAL - TRÁFICO DE DROGAS NO INTERIOR DE PRESÍDIO - AGENTE QUE NÃO CHEGOU A RECEBER A DROGA - RECEBIMENTO DA DENÚNCIA - NECESSIDADE - RECORRIDO QUE TINHA CONHECIMENTO DO FATO E DOMINIO SOB A CONDUTA DA CORRÉ - AUSENCIA DE ATOS MERAMENTE PREPARATÓRIOS - ENTENDIMENTO DO STJ - REQUISITOS DO ART. 41 DO CÓDIGO DE PROCESSO PENAL ATENDIDOS. - Conforme entendimento do Superior Tribunal de Justiça, para que haja a configuração do crime de tráfico de drogas não é necessário que as substâncias cheguem ao destinatário final, bastando apenas que este tenha conhecimento do fato e domínio da conduta praticada pela corré, o que é o caso. Portanto, não há que se falar em atos meramente preparatórios e deve a denúncia ser recebida.  " (fl. 289)
+Em sede de recurso especial (fls. 307/318), a defesa apontou violação ao art. 41 do CPP e ao art. 33 da Lei n. 11.343/2006, porque o TJ reformou a decisão do Juízo de primeiro grau e recebeu a denúncia ajuizada em face do recorrente.
+Requer, por fim, seja reconhecida a atipicidade da conduta e, por conseguinte, a absolvição do recorrente, nos termos do art. 397, III do CPP.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS (fls. 322/324).
+Admitido o recurso no TJ (fls. 327/329), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento/provimento do recurso especial (fls. 345/348).
+É o relatório.
+Decido.
+Sobre a violação ao art. 41 do CPP e ao art. 33 da Lei n. 11.343/2006, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS reformou a decisão do Juízo de primeiro grau e recebeu a denúncia em face do recorrente, nos seguintes termos do voto do relator:
+" ..  a respeito dos fatos, a denúncia elucida que no dia 10 de novembro de 2023, no interior do Presídio Jaraguá, localizado na cidade de Montes Claros/MG, a denunciada Janaína da Silva Rodrigues trazia consigo 01 invólucro contendo 64g (sessenta e quatro gramas) de maconha, o qual seria entregue ao seu companheiro, detento na unidade prisional, o ora recorrido Jackson Otavio Cardoso.
+Diante disso, com a devida vênia ao entendimento manifestado pela douta magistrada a quo, entendo que a denúncia deve ser recebida.
+Isso porque, a meu ver, não estamos diante, ao menos prima facie, de atos meramente preparatórios.
+Ao que tudo indica, os denunciados detêm estreita relação, com vínculo amoroso, de modo que o ora recorrido teria requerido à sua companheira que lhe remetesse drogas, ainda que dentro do estabelecimento prisional, cuja a destinação não pode ser mensurada neste momento.
+Indo além, ao menos pelas provas até então juntadas aos autos, há indícios de que o recorrido detinha conhecimento do fato e pleno domínio da ação de sua companheira que, como dito, a seu mando, iria efetuar a entrega de substâncias entorpecentes.
+A este respeito, vejo que o Colendo Superior Tribunal de Justiça já consolidou o entendimento de que, para a configuração do crime de tráfico de drogas, não é necessário que os entorpecentes cheguem de fato ao seu destinatário final, bastando que o investigado (pessoa que iria receber as drogas) tenha conhecimento e pleno domínio dos atos praticados pela corré.
+ ..
+Assim, vejo que a fundamentação lançada na decisão combatida não deve prevalecer, vez que há a possibilidade de o agente ter incorrido nas iras do art. 33, caput, c/c art. 40, inciso III, ambos da Lei nº 11.343/06, ainda que as drogas possivelmente por ele requeridas não tenham chegado até a sua posse.
+Portanto, estando a denúncia em conformidade com as disposições do art. 41 do Código de Processo Penal e não sendo o ato narrado na denúncia em desfavor do ocorrido, em uma primeira análise, mera conduta preparatória, tem-se que a denúncia deve ser recebida." (fls. 293/294).
+O entendimento do TJ acima exposto está em dissonância com a jurisprudência consolidada mais recentemente por esta Corte no sentido de que a mera solicitação, sem entrega efetiva, de drogas a serem entregues em presídio configura mero ato preparatório (fato atípico, portanto) e não o delito de tráfico de drogas consumado na modalidade de "adquirir", nos termos do art. 33, caput, da Lei n. 11.343/2006.
+Nesse sentido, citam-se precedentes (grifos nossos):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SOLICITAÇÃO PARA INGRESSO DE ENTORPECENTES EM PRESÍDIO. ATOS PREPARATÓRIOS. ATIPICIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada concedeu habeas corpus de ofício, absolvendo o paciente ao reconhecer que sua conduta, consistente em solicitar à companheira que ingressasse com drogas no presídio, configurou, no máximo, ato preparatório, impunível nos termos da legislação penal.
+2. A jurisprudência consolidada desta Corte Superior diferencia atos preparatórios de atos executórios em crimes de tráfico de drogas, considerando atípica a mera solicitação quando a substância é interceptada antes da entrega ao destinatário.
+3. Decisão monocrática devidamente fundamentada e em consonância com os precedentes do STJ, como nos AgRg no REsp n. 1.937.949/MG e AgRg no REsp n. 1.999.604/MG.
+4. Agravo regimental não provido."
+(AgRg no HC 903205/ES, Relator Ministro REYNALDO SOARES DA FONSECA, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 4/02/2025, Data da Publicação/Fonte: DJEN 13/02/2025).
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. SOLICITAÇÃO DE ENTREGA DE ENTORPECENTES. ATOS PREPARATÓRIOS. ABSOLVIÇÃO MANTIDA. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto pelo Ministério Público do Estado de Minas Gerais contra decisão que absolveu a agravada do crime de tráfico de drogas, sob o fundamento de que a mera solicitação de entrega de entorpecentes, sem a efetiva posse ou comprovação de propriedade, configura ato preparatório e, portanto, impunível.
+II. Questão em discussão2. A questão em discussão consiste em saber se a mera solicitação de entrega de drogas, sem a efetiva posse ou comprovação de propriedade, pode configurar o início do iter criminis do delito de tráfico de entorpecentes.
+3. Outra questão é se a interceptação da droga antes da entrega ao destinatário impede a configuração do crime de tráfico de drogas na modalidade "adquirir".
+III. Razões de decidir4. A jurisprudência do Superior Tribunal de Justiça entende que a mera solicitação de entrega de entorpecentes, sem a efetiva posse ou comprovação de propriedade, configura ato preparatório e, portanto, impunível.
+5. A interceptação da droga antes de ser entregue ao destinatário impede a ocorrência da conduta típica do art. 33, caput, da Lei n. 11.343/2006 na modalidade "adquirir".
+6. No caso, não há provas de que a agravada tenha praticado qualquer conduta que possa configurar o início do iter criminis do delito de tráfico de drogas, limitando-se a solicitar a entrega da droga.
+IV. Dispositivo e tese7. Agravo regimental desprovido."
+(AgRg nos EDcl no HC 920907/MG, Relator Ministro RIBEIRO DANTAS, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 18/12/2024, Data da Publicação/Fonte: DJEN 23/12/2024).
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para restabelecer a decisão do Juízo de primeiro grau que, com fundamento no art. 395, I e III, do CPP, rejeitou a denúncia em relação ao recorrente, tendo em vista a atipicidade da conduta imputada .
+Publique-se. Intimem-se.
+EMENTA
