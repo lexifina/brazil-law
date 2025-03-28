@@ -1,0 +1,34 @@
+DECISÃO
+Tendo em vista as orientações e valores destacados no Pacto Nacional do Judiciário pela Linguagem Simples, o qual está pautado em instrumentos internacionais de direitos humanos e de acesso à Justiça, adoto em parte o relatório de fls. 497/501 (e-STJ).
+Parecer ministerial pelo conhecimento do agravo para negar provimento ao recurso especial (e-STJ fls. 497/501).
+É o relatório.
+Decido.
+O agravo em recurso especial é tempestivo e infirmou os argumentos da decisão do Tribunal a quo, razão pela qual, nos termos do art. 253, parágrafo único, inc. II, do RISTJ, conheço do agravo e passo ao exame do recurso especial.
+O recurso especial é tempestivo e está com a representação processual correta.
+O recorrente indicou os permissivos constitucionais que embasam o recurso e o dispositivo de lei federal supostamente violado, demonstrando pertinência na fundamentação (não incidência da súmula nº 284 do STF).
+Observa-se, ainda, que o acórdão recorrido examinou expressamente a matéria arguida pelo recurso, cumprindo com a exigência do prequestionamento (não incidência da súmula 282 do STF).
+Ademais, o acórdão apresentou fundamentos de cunho infraconstitucional (não incidência da súmula 126 do STJ), todos rebatidos nas razões recursais (não incidência da súmula 283 do STF).
+Não é necessário o reexame de provas para decidir se procedimentos fiscais em curso obstam a aplicação do princípio da insignificância na imputação do crime de descaminho (não incidência da súmula 7 do STJ).
+Com efeito, a defesa sustenta que o princípio da insignificância deve ser aplicado, pois o valor do prejuízo ao erário é inferior ao montante mínimo exigido para ajuizamento de execuções fiscais pela Fazenda Nacional (R$ 20.000,00, conforme Portaria MF nº 77/2012). Além disso, argumenta que a reiteração delitiva não impede a aplicação do princípio, pois apenas aspectos objetivos da conduta devem ser analisados.
+Requer, ao final, o provimento do recurso especial para reconhecer a atipicidade da conduta, com base no princípio da insignificância, resultando na absolvição do recorrente.
+Sobre o ponto, a Corte de orige m assim entendeu (e-STJ fls. 430):
+Em sede de apelação, a defesa alegou ser de rigor a absolvição pela atipicidade material da conduta, aplicando-se o princípio da insignificância (Id n. 288070749).
+Não lhe assiste razão.
+O réu praticou vários delitos de forma reiterada, conforme comprovado pelos registros em sua folha de antecedentes, dentre os quais há condenação, em 03.01.08, pelo crime previsto pelo art. 334, § 1º, e , do Códigoc d Penal (Id n. 288070474, fls. 17/20), o que obsta a aplicação do princípio da insignificância.
+Na forma do entendimento jurisprudencial deste Superior Tribunal, não se aplica o princípio da insignificância ao delito de descaminho quando cometido com habitualidade, pois isso acabaria por servir como verdadeiro incentivo à prática delituosa.
+Nesse contexto, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do Tema Repetitivo n. 1218, fixou a seguinte tese:
+(..) a reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho - independentemente do valor do tributo não recolhido -, ressalvada a possibilidade de, no caso concreto, se concluir que a medida é socialmente recomendável. A contumácia pode ser aferida a partir de procedimentos penais e fiscais pendentes de definitividade, sendo inaplicável o prazo previsto no art. 64, I, do CP, incumbindo ao julgador avaliar o lapso temporal transcorrido desde o último evento delituoso à luz dos princípios da proporcionalidade e razoabilidade (REsp n. 2.083.701/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 28/2/2024, DJe de 5/3/2024).
+No caso concreto, as instâncias ordinárias destacaram que o recorrente possui diversos outros registros do mesmo tipo, tanto em sede administrativa como no âmbito criminal, o que demonstra a reiteração delitiva.
+Ressalta-se que a jurisprudência desta Corte não requer um número mínimo de autuações fiscais para reconhecer a habitualidade. Assim, até mesmo uma única autuação é suficiente para caracterizar a habitualidade. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. PRINCÍPIO DA
+INSIGNIFICÂNCIA. INAPLICABILIDADE. HABITUALIDADE CARACTERIZADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reiteração delitiva afasta a aplicação do princípio da insignificância nos crimes de descaminho. Precedentes. 2. No caso dos autos, consta o registro de um processo administrativo-fiscal contra o réu, por conduta semelhante ao fato que lhe é imputado, circunstância hábil a afastar a incidência do princípio da insignificância. 3. Agravo regimental não provido.
+(AgRg no REsp n. 1.889.516/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. IRRESIGNAÇÃO MINISTERIAL. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO PELO TRIBUNAL DE ORIGEM. REGISTROS PENAIS E ADMINISTRATIVOS ANTERIORES. EXCEPCIONAL CABIMENTO. MEDIDA SOCIALMENTE RECOMENDÁVEL. JUSTIFICATIVA PLAUSÍVEL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do Tema Repetitivo n. 1218, fixou a tese no sentido de que "a reiteração da conduta delitiva obsta a aplicação do princípio da insignificância ao crime de descaminho - independentemente do valor do tributo não recolhido -, ressalvada a possibilidade de, no caso concreto, se concluir que a medida é socialmente recomendável. A contumácia pode ser aferida a partir de procedimentos penais e fiscais pendentes de definitividade, sendo inaplicável o prazo previsto no art. 64, I, do CP, incumbindo ao julgador avaliar o lapso temporal transcorrido desde o último evento delituoso à luz dos princípios da proporcionalidade e razoabilidade" (REsp n. 2.083.701/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 28/2/2024, DJe de 5/3/2024).
+2. Na hipótese, o entendimento apresentado pelo Tribunal de origem encontra amparo na jurisprudência desta Corte Superior, pois foi devidamente justificada, com lastro no caso concreto, em especial do considerável lapso temporal transcorrido entre a data do fato criminoso em análise e o último evento delituoso praticado pelo agravado, a aplicação excepcional do princípio da insignificância à conduta do agente, mesmo diante da existência de registros penais e fiscais anteriores. Desse modo, a conclusão da Corte a quo no sentido de a medida ser socialmente recomendável merece ser mantida.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.153.506/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
