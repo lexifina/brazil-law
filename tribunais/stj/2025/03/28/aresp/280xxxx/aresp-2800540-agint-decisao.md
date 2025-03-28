@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado da Bahia desafiando decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, ante a incidência da Súmula 182/STJ (fls. 428/429).
+A parte demandante, em suas razões, defende que "Consoante se pode observar pelos argumentos e dispositivos apresentados existe impugnação especifica sobre a decisão que originou a interposição do agravo de destrancamento do recurso especial. Torna-se flagrante que as razões do agravo atacam, estritamente os fundamentos obstativos do julgado, mas cumpre asseverar também que reiteram os temas antes levantados nas várias peças processuais mencionadas, o que não é vedado pelo ordenamento jurídico, pois, visam reforçar a pretensão requerida. Nesse contexto, conclui-se pela não incidência, no particular, do art. 932, inciso III, do NCPC, impondo-se o conhecimento total do Recurso Especial, de modo a viabilizar o julgamento integral do mérito recursal pelo colegiado. Nas razões do recurso especial, o Estado trouxe argumento apto a impugnar o entendimento consignado no julgamento recorrido, sendo inaplicável a incidência da súmula 182/STJ." (fl. 437).
+Aberta vista à parte agravada, decorreu in albis o prazo para impugnação (fl. 441).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 428/429), tornando-a sem efeito.
+Passo a novo exame do agravo em recurso especial.
+Trata-se de agravo manejado pelo Estado da Bahia contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça da Bahia, assim ementado (fl. 219):
+APELAÇÃO. PROMOÇÃO. CONTAGEM DE ANTIGUIDADE. MILITAR REINTEGRADO POR DECISÃO JUDICIAL. NECESSIDADE DE OBSERVÂNCIA AO ESTATUTO DA CORPORAÇÃO CASTRENSE. HIPÓTESE DE PROMOÇÃO EM RESSARCIMENTO DE PRETERIÇÃO. PREVISÃO LEGAL. EXISTÊNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. O apelante foi reintegrado à corporação militar, em virtude de decisão judicial que anulou seu desligamento compulsório levado a efeito em 11 de julho de 2014. Decisão judicial com efeito ex tunc.
+2. Deve ser aplicado o Estatuto da Polícia Militar, Lei nº 7.990/2001, na parte em que cuida da promoção em ressarcimento de preterição, hipótese reservada ao militar que foi impedido de ascender na carreira em razão de processo administrativo disciplinar e/ou judicial.
+3. Direito ao cômputo do período em que esteve afastado para todos os fins legais, inclusive promocionais.
+4. Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 288/307).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 140 e 1.022, II, do CPC. Sustenta negativa de prestação jurisdicional "por violação aos arts. 140 e 1.022, inciso II, do Código de Processo Civil, impondo a declaração de nulidade do acórdão que julgou os embargos declaratórios opostos e sua conseqüente cassação, determinando-se a manifestação explícita acerca das matérias de lei federal que compõem o mérito do apelo especial." (fl. 258).
+É O RELATÓRIO. SEGU E A FUNDAMENTAÇÃO.
+Com efeito, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 140 e 1.022, II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
