@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIEL MACIEL RODRIGUES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5332361-62.2024.8.21.7000).
+De início, ressalto que, em sede de habeas corpus, faz-se necessário que a prova se constitua previamente, devendo a impetração vir instruída de toda a documentação necessária para a análise do pleito.
+No caso em tela, todavia, constato que a parte impetrante não juntou aos autos cópia da íntegra do acórdão com o respectivo voto , peça que se revela essencial para a devida compreensão da controvérsia.
+O impetrante juntou aos autos apenas a ementa do acórdão relacionado ao paciente e outro acórdão que se refere a indivíduo diverso, portanto, não comportando conhecimento .
+Dessa forma, a pretensão ora formulada não pode ser conhecida, porque a defesa não se desincumbiu do seu ônus de instruir devidamente o feito.
+Nesse sentido: RCD no HC n. 860.640/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 27/11/2023, DJe de 29/11/2023; AgRg no HC n. 837.638/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/10/2023, DJe de 19/10/2023; e AgRg no HC n. 827.576/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 28/8/2023, DJe de 30/8/2023.
+Ademais, consoante jurisprudência desta Corte, A inicial de habeas corpus deve estar acompanhada de todos os documentos necessários a sua análise no momento da impetração, sendo inadmitida a juntada posterior, como ocorreu na espécie (AgRg no HC n. 834.028/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024).
+Confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. GESTÃO FRAUDULENTA. EVASÃO DE DIVISAS. FORMAÇÃO DE QUADRILHA. PROVA PRÉ-CONSTITUÍDA. SENTENÇA. JUNTADA POSTERIOR. IMPOSSIBILIDADE. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE PRONUNCIAMENTO DA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA.
+1. Embora tenha o ora agravante, por ocasião dos embargos de declaração, encartado aos autos cópia da sentença condenatória, é consabido que o rito do habeas corpus exige prova pré-constituída do direito alegado, de modo que "a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem. Precedentes.
+(RHC n. 122.600/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 05/03/2020)" (AgRg no HC n. 640.839/MS, relator Ministro FELIX Fischer, Quinta Turma, julgado em 13/4/2021, DJe 19/4/2021).
+2. O pleito defensivo de reconhecimento da confissão espontânea, da forma como deduzido nas razões iniciais da impetração, não foi objeto de prévia análise de mérito pelas instâncias ordinárias, não havendo como se afastar a conclusão de que o exame inaugural da controvérsia, diretamente por esta Corte, esbarraria no óbice da supressão de instância.
+3. Agravo regimental improvido. (AgRg nos EDcl no HC n. 652.561/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/8/2021, DJe de 31/8/2021, grifamos).
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
