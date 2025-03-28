@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interno interposto pela Cafeeira Bertin Ltda. desafiando decisão que negou provimento ao agravo em recurso especial e, nessa extensão, negou-lhe provimento, sob os fundamentos de que: (I) não se verifica ofensa ao art. 1.022, II, do CPC porquanto o acórdão recorrido analisou integralmente a controvérsia; (II) aplica-se a Súmula n. 7/STJ, tendo em vista que a verificação da alegada ilegitimidade ativa da parte agravada demandaria o reexame de matéria fático-probatória; e (III) não se conhece do dissídio jurisprudencial invocado em face dos arts. 10 do Decreto n. 3.365/41 e 3º da Lei Complementar n . 73/96 tendo em vista que os referidos dispositivos de lei federal não foram apreciados pela instância judicante de origem, nem foram suscitados nos embargos de declaração opostos pela parte agravante para suprir eventual omissão, atraindo o óbice da Súmula 282/STF.
+Inconformada, a parte agravante sustenta que: (I) o acórdão recorrido padece de omissão em relação à ilegitimidade passiva da ora agravante ; (II) não incide a Súmula 7/STJ relativamente ao tema da ilegitimidade das partes por se tratar de questão de direito; (III) deve ser afastada a Súmula 282/STF pois "no presente caso, a questão foi adequadamente discutida no tribunal a quo" (fl. 1.161); e (IV) o dissídio jurisprudencial está devidamente demonstrado no caso concreto.
+Requerem a reconsideração do decisório agravado ou a submissão do feito ao julgamento colegiado.
+Transcorreu, in albis, o prazo para impugnação, conforme certificado à fl. 1.186.
+É o breve relatório.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à análise do recurso:
+Trata-se de agravo manejado por Cafeeira Bertin Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 823):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃODE FAZER DO INCRA. PROCEDIMENTOS PARAIMPLEMENTAÇÃO DA REFORMA AGRÁRIA. IMÓVELDECLARADO DE INTERESSE PÚBLICO POR DECRETOPRESIDENCIAL. LEGITIMIDADE ATIVA DAASSOCIAÇÃO. ARTIGO 5º, V, DA LEI DE AÇÃO CIVILPÚBLICA. RECURSO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 845/855).
+Nas razões do recurso especial, a parte agravante aponta, além de divergência jurisprudencial, violação aos arts. 485, VI, e 1.022 do CPC; 24 da Lei n. 4.504/64; 10 do Decreto-Lei n. 3.365/41; e 3º da Lei Complementar 73/96. Sustenta que: (I) o Tribunal de origem não se manifestou sobre questão relevante para o deslinde da controvérsia, concernente à ilegitimidade passiva da ora agravante, ressaltando que a "Cafeeira não é proprietária do imóvel quanto menos detém a posse do referido imóvel" (fl. 918); (II) a associação agravada não tem legitimidade para a propositura da ação; e (III) verifica-se a caducidade do decreto expropriatório, de modo que "não há como dar continuidade ao processo de desapropriação" (fl. 919).
+O Ministério Público Federal opinou pelo não conhecimento do agravo ou, se conhecido, pelo não provimento, nos termos assim resumidos (fl. 1.108):
+DESAPROPRIAÇÃO POR INTERESSE SOCIAL PARA REFORMA AGRÁRIA. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 182/STJ. IMPOSTO DE RENDA E GANHO DA CAPITAL. ISENÇÃO. EMPREENDIMENTOS IMOBILIÁRIOS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. REEXAME PROBATÓRIO.
+1. Aplica-se analogicamente a Súmula 182 do STJ quando o agravo em recurso especial não impugna todos os fundamentos da decisão agravada, no caso, o óbice da Súmula 7/STJ.
+2. Constata-se que não se afigura ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+3. Esbarra na Súmula 7/STJ rever o entendimento da Corte a quo.
+4. O exame do recurso especial pela alínea "c" fica prejudicado pelos óbices para a análise pela alínea "a". Parecer pelo não conhecimento do agravo e, acaso conhecido, pelo seu não provimento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte insurgente, nas razões dos embargos de declaração a ora agravante alegou (fl. 850):
+Nas contrarrazões de Apelação apresentadas pela Embargante Cafeeira Bertin Ltda ficou demonstrada a sua ilegitimidade passiva para figurar no polo passivo da demanda, uma vez que não detém a posse quanto menos a propriedade da referida área.
+Como demonstrado nas contrarrazões, assim como na contestação apresentada pela Embargante Cafeeira, a mesma não possui mais a posse do imóvel em questão na presente ação, Fazenda Aracanguá, há mais de 10 (dez) anos.
+Contudo, mesmo não possuindo qualquer relação com o imóvel em questão, a Embargante Cafeeira foi incluída no polo passivo da demanda, sendo que não poderia de forma alguma atender nenhum dos pedidos feitos na exordial, por não ser proprietária ou mesmo possuidora do imóvel em discussão.
+Em que pese referida argumentação apresentada nas contrarrazões de apelação, o Acórdão embargado nada falou sobre a ilegitimidade, sendo omisso quanto a ilegitimidade passiva da Apelada, ora Embargante Cafeeira Bertin Ltda.
+E nas razões d o recurso especial, a omissão foi assim demonstrada (fls. 917/919):
+DA AFRONTA AOS ARTIGOS 485, VI E 1.022 DO CÓDIGO DE PROCESSOCIVIL
+Outro artigo de Lei Federal violado quando do julgamento do Acórdão pelo Tribunal Regional Federal da 3S Região foi o artigo 485 do Código de Processo Civil, uma vez que a ilegitimidade passjva da Recorrente Cafeeira Bertin Ltda é clara no processo em questão.
+Todos os pedidos feitos na peça inicial do processo dizem respeito a propriedade matriculada junto ao CRI de Araçatuba-SP no 8.680, contudo a Recorrente Cafeeira não é proprietária do imóvel quanto menos detém a posse do referido imóvel. Logo é latente a ilegitimidade da Recorrente para figurar no polo passivo da presente Ação Civil Pública.
+Contudo, foi violado o contido no artigo 485, VI do Código do Processo Civil, vez que o Acórdão recorrido deu provimento ao recurso de Apelação, mantendo a Recorrida Cornapi no polo passivo da demanda mesmo sendo essa parte ilegítima:
+ ..
+Vendo que o Acórdão havia sido omisso quanto a argumentação da ilegitimidade passiva da Recorrente, a mesma apresentou Embargos de Declaração visando que a Primeira Turma do Tribunal Regional Federal da 3 Região sanasse a omissão quanto a ilegitimidade passiva da Recorrida, contudo o mesmo não foi conhecido em detrimento do constante no artigo 1.022 do Código de Processo Civil:
+ ..
+Assim demonstrada a violação ao artigo 485, VI do Código de Processo Civil e 1.022 do Código de Processo Civil, uma vez que o feito deveria ter sido extinto sem resolução de mérito face a Recorrente que é parte ilegítima para figurar no polo passivo da demanda.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios da parte ora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. AÇÃO ORDINÁRIA. CONTRATOS. RETENÇÃO DE VALORES PELA ADMINISTRAÇÃO PÚBLICA. IRREGULARIDADE TRABALHISTA. ORDEM JUDICIAL PRÉVIA DE BLOQUEIO E PENHORA. OMISSÃO DO ACÓRDÃO RECORRIDO. VIOLAÇÃO DOS ART. 489 E 1.022 DO CPC/2015. ANULAÇÃO DO ACÓRDÃO E DEVOLUÇÃO PARA ANÁLISE DAS QUESTÕES SUSCITADAS. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+1. Sendo constatado que o acórdão recorrido deixou de manifestar sobre matéria relevante para a resolução da controvérsia, que foi devidamente alegada pela parte, persistindo a omissão ao rejeitar embargos declaratórios, é impositivo reconhecer a violação aos arts.
+489 e 1.022, do Código de Processo Civil de 2015, porquanto a análise da matéria poderia, em tese, modificar o resultado do julgamento.
+2. Recurso Especial conhecido e provido, a fim de anular o acórdão e determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos Embargos de Declaração.
+(REsp n. 2.013.590/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/2/2024, DJe de 29/2/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. MATÉRIA PRELIMINAR. VIOLAÇÃO. OCORRÊNCIA. QUESTÕES DE MÉRITO. PREJUDICIALIDADE. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, a despeito da oposição de aclaratórios, não se manifesta sobre questão relevante ao deslinde da controvérsia, sendo de rigor o retorno dos autos à origem para sanar o vício de integração, notadamente quando relacionado a matéria fático-probatória.
+2. O acolhimento da preliminar de nulidade do acórdão, por negativa de prestação jurisdicional, prejudica a análise das questões de mérito suscitadas pelas partes, tendo em conta que será renovado o julgamento dos embargos de declaração.
+3. É inviável a análise de alegações voltadas à desconstituição do julgado que não foram suscitadas nas razões do recurso especial, por se tratar de indevida inovação recursal.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp n. 1.995.199/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2023, DJe de 9/5/2023.)
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos declaratórios, desta feita com o expresso enfrentamento das questões omitidas.
+Publique-se.
+EMENTA
