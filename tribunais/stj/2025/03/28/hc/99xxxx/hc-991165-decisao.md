@@ -1,0 +1,15 @@
+DECISÃO
+JOÃO PAULO SILVA CUSTÓDIO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, no HC n. 0003224-67.2025.8.19.0000.
+A defesa busca seja concedida ao paciente o livramento condicional ou a progressão ao regime aberto, ao argumento de que estariam preenchidos os requisitos objetivo e subjetivo para tal fim
+Decido.
+O sentenciado cumpre pena privativa de liberdade de 6 anos, 9 meses e 20 dias de reclusão, com término da execução previsto para 18/5/2025.
+O Magistrado de origem ideferiu o pleito formulado em favor do paciente de progressão ao regime aberto ou livramento condicional, por meio de decisão na qual ressaltou que o reeducando "não registra atividades laborativas e/ ou educacionais no interior da unidade prisional, apesar de se encontrar preso desde 07/10/ 2017, não demostrando qualquer tentativa de ressocialização e aptidão para o trabalho", e acrescentou: "se trata de apenado que descumpriu o Livramento Condicional, mediante a prática de novos crimes (processo nº0000512-45.2023.8.19.0010)" (ambos à fl. 13).
+O Tribunal estadual ratificou a decisão supra.
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que as instâncias de origem ressaltaram que o reeducando teria empreendido cometido novo delito quando beneficiado, anteriormente, com a saída temporária, de modo a macular o preenchimento do requisito de ordem subjetiva.
+Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse pretendida.
+Por essas razões, não constato nenhuma ilegalidade no acórdão proferido pela Corte de origem, uma vez que os benefícios em tela foram indeferidos com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+À vista do exposto, denego a ordem de habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
