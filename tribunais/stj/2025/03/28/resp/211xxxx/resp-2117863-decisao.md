@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOÃO MATHEUS BERG, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO, JUÍZO DE CONFORMAÇÃO. TEMA 981 DO STJ. OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL NÃO VERIFICADOS. REDISCUSSÃO DA MATÉRIA. DESCABIMENTO. PREQUESTIONAMENTO. REFERE O ACÓRDÃO EMBARGADO A SÚMULA 435, STJ, FUNDAMENTO DO DEFERIMENTO DA INCLUSÃO DOS SÓCIOS NO POLO PASSIVO DA DEMANDA, NÃO HAVENDO SE FALAR EM NULIDADE OU ILEGITIMIDADE DA PARTE. AUSENTE OMISSÃO NO JULGADO. EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+A parte recorrente aponta violação do art. 135, III, do CTN.
+Afirma que " ..  quando for realizado pedido de redirecionamento, é necessário que o Requerente comprove o dolo, ou seja, não é permitida a atribuição de responsabilidade de forma objetiva, ou sequer alegada culpa lato sensu - negligência, imprudência ou imperícia, elementos mais adequados aos fatos demonstrados  .. " (e-STJ fls. 644/645). Diz, outrossim, não haver comprovação de que atuou com excesso de poder ou em infração à lei e que o débito de tributos não é suficiente para impor a responsabilização do gestor.
+Sustenta também que " ..  o responsável/administrador da sociedade empresária limitada, além de estar dotado do poder por meio de contrato social ou outro documento que lhe atribua tais poderes, deve exercê-los, de fato, o que não se verifica no caso do Recorrente" (e-STJ fl. 645).
+Alega que, conforme o entendimento do STJ, somente é possível o redirecionamento da execução fiscal contra os sócios que, de fato, exerciam os poderes de administração tanto na época do fato gerador quanto na de eventual dissolução da empresa (e-STJ fl. 647).
+Destaca que foi sócio da empresa entre 29/1/2004 e 15/11/2007, tendo transferido suas quotas antes do encerramento das atividades. Diz que " ..  as provas acostadas aos autos comprovam que o Recorrente não exercia qualquer poder de administração na data em que se presumiu a dissolução irregular da sociedade, sendo que sequer era sócio da empresa à época de tal fato" (e-STJ fl. 654).
+Contrarrazões às e-STJ fls. 668/670.
+O Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Na origem, tem-se embargos ajuizados pelo ora recorrente à execução fiscal proposta pelo ESTADO DO RIO GRANDE DO SUL, cujos pedidos foram julgados improcedentes em primeira instância.
+O Tribunal a quo, no julgamento da apelação, manteve a sentença. Na oportunidade, registrou que, após a não localização da empresa no endereço indicado, foi redirecionada a execução contra o sócio Oziel Tiago Rodrigues, citado em 27/9/2011, e, posteriormente, contra o ora recorrente, citado em 16/11/2012. Essas providências foram tomadas à luz do seguinte (e-STJ fl. 418):
+No entanto, conforme tabelas de cálculo da Delegacia da Receita Federal de Novo Hamburgo, fls. 115/117, no período de apuração (01/04/2004 a 31/07/2007) do Auto de Lançamento de nº 0015821803 correspondente à DAT nº 086/1423542, o sócio administrador da empresa era JOÃO MATHEUS BERG, responsável pela porcentagem de 86,8656% da responsabilidade do débito.
+No período de apuração (01/11/2007 a 31/03/2008) o sócio administrador era o já executado OZIEL TIAGO RODRIGUES, sendo responsável portanto, do percentual de 13,1344% do débito.
+De fato, a sociedade contribuinte, no período entre abril de 2004 e março de 2008, deixou de recolher imposto devido, mediante a apropriação de créditos fiscais indevidos em sua conta-corrente fiscal de ICMS, assim reduzindo o imposto a pagar.
+Entendeu-se, por conseguinte, que a sociedade foi irregularmente dissolvida e, além disso, " ..  a prova colhida evidencia ter o recorrente figurado como "laranja", tendo outorgado os poderes, entretanto, para sua genitora administrar a empresa, além de manter vínculo com a mesma atuando em outras áreas, o que não afasta a sua responsabilidade  .. " (e-STJ fls. 418/419). Disse-se ainda ter-se hipótese de sonegação fiscal, que configura infração à lei.
+Os embargos de declaração opostos na sequência foram rejeitados.
+Interposto um primeiro recurso especial, ele não foi conhecido por decisão da Presidência do STJ. Examinando agravo interno, reconsiderei esse decisum e determinei a devolução dos autos à origem para a adoção de uma das providências descritas no art. 1.040 do CPC, em razão do julgamento do Tema 981 do STJ.
+No novo exame da insurgência, a Corte de origem fez o seguinte registro (e-STJ fl. 623):
+E neste ponto, com base na própria prova produzida pela parte embargante, se constata que esse figurava como "laranja", tendo outorgado os poderes, entretanto, para sua genitora administrar a empresa, além de manter vínculo com a mesma atuando em outras áreas.
+Ademais, ao contrário do que aduz, o recorrente possuía plena consciência a respeito da falsidade de sua participação como sócio-gerente, de acordo com os depoimentos colhidos nos autos da ação penal (evento 7, INIC E DOCS11, pág. 10).
+A alegação de que assinou procuração para sua genitora também não afasta sua responsabilidade, pois, na condição de mandante, possui deveres e responsabilidades na forma da lei (arts. 663, 675, 679 e outros, do CC).
+Se não bastasse, em depoimento pessoal do próprio embargante, recebia remuneração da empresa, possuindo, portanto interesse pessoal nesta (evento 7, INIC E DOCS11, págs. 15/16), sucumbindo assim sua afirmação de que não possuía mais relação com esta.
+Assim, uma vez constituída a pessoa jurídica em infração à lei, viável a aplicação da regra do art. 135, inciso III do CTN, ainda que para responsabilizar o sócio-administrador que apenas consta formalmente nos quadros da empresa, em razão do conluio perpetrado.
+Ademais, configurada situação de sonegação fiscal - no caso, a execução fiscal tem por objeto cobrança de ICMS não informado - tem-se admitido o redirecionamento decorrente de infração à lei.
+Em resumo, definiu-se a possibilidade do redirecionamento da execução fiscal contra os sócios porque: (i) houve dissolução irregular da empresa; e (ii) atuou o sócio-gerente em infração à lei, por assumir a condição de "laranja" ao outorgar os poderes para sua genitora, tendo consciência da falsidade de sua situação, agindo em conluio e recebendo remuneração.
+Pois bem.
+O recurso especial não merece conhecimento.
+Como se vê, dois foram os fundamentos para justificar o redirecionamento da execução fiscal na hipótese, ambos suficientes para manter a solução adotada na instância inferior.
+Por outro lado, no recurso especial, além das questões pertinentes ao não exercício da gerência na data em que se presumiu irregularmente dissolvida a sociedade empresária, argumentou-se não haver comprovação de que o sócio atuou com excesso de poder ou em infração à lei.
+Ocorre que essa afirmação contraria premissa fática estabelecida pelo acórdão recorrido, que, como apresentado acima, consignou ter o sócio-gerente cometido ilegalidade. Desse modo, inviável a análise do apelo nobre, em vista do óbice descrito na Súmula 7 do STJ.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ÓBICE DA SÚMULA 284/STF. EXECUÇÃO FISCAL. REDIRECIONAMENTO. PRÁTICA DE ATO COM INFRAÇÃO À LEI RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ.
+ ..
+2. É pacífico nesta Corte Superior que o redirecionamento da execução fiscal contra o sócio-gerente da empresa, com fundamento no art. 135 do CTN, somente é possível quando ficar demonstrado que o administrador agiu com excesso de poderes, infração à lei ou contra o estatuto, ou, ainda, no caso de dissolução irregular da empresa.
+3. In casu, a alteração das conclusões adotadas pela Corte de origem quanto à existência de atos praticados com infração à lei, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 654.135/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/3/2015, DJe de 13/3/2015.)
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado , nos termos do art. 85, § 11, do CPC, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
