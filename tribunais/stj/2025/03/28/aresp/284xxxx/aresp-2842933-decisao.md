@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manejado por URBANIZADORA MUNICIPAL SA URBAM contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.273):
+APELAÇÃO. MANDADO DE SEGURANÇA. ANULAÇÃO DE EXCLUSÃO DE PREGÃO ELETRÔNICO. Concessão parcial da segurança. Considera-se interposta remessa necessária, por força do disposto no art. 14, §1º, da Lei nº 12.016/09. Empresa vencedora de certame que não cumpriu as condições necessárias para assinatura do contrato. Ausência de comprovação de hospital para pronto socorro em Jacareí. Lista unilateral elaborada pela impetrante que não é suficiente para comprovar que há em sua rede credenciada atendimento de pronto socorro no Município de Jacareí. Possibilidade de averiguação pela Administração das informações prestadas pela vencedora. Poder Geral de Cautela da Administração. Um dos meios hábeis para verificar a veracidade das informações é precisamente a consulta de sua rede assistencial disponibilizada no portal corporativo da empresa na internet, por ser uma exigência da Agência Nacional de Saúde, nos termos da Resolução Normativa ANS nº 285/2011. Em 15/03/2023 não constava o Hospital Alvorada SC no site da empresa como hospital credenciado. Multa de Edital desarrazoada e excessiva, sem correspondência com prejuízo ao ente licitante, à continuidade da prestação dos serviços ou ao processo licitatório. Afastamento de rigor. Sentença mantida. Recursos desprovidos.
+Nas razões do recurso especial, além de dissídio jurisprudencial, a parte agravante aponta violação ao art. 7º da Lei n. 10.520/2002, sustentando a existência do violação ao princípio da vinculação ao instrumento convocatório. Alega que a penalidade é válida e proporcional e que as sanções de multa, advertência e suspensão temporária poderão ser aplicadas conjuntamente. Afirma que a parte recorrida não cumpriu as condições do edital.
+Foram ofertadas contrarrazões às fls. 1.336/1.348.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do agravo (fls. 1.415/1.423).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Quanto à matéria de fundo, o Tribunal de origem destacou (fls. 1.280/1.281):
+Em relação à multa aplicada, apesar de não se tratar de uma multa por inexecução de contrato administrativo, mas sim de multa expressamente prevista no edital, no caso concreto, não há que se falar em sua incidência.
+ ..
+Em consonância com o referido dispositivo legal, o item 13.6 previu a aplicação de multa caso não fossem apresentados os documentos necessários à assinatura do contrato.
+ ..
+Analisando as disposições contidas no edital, que devem ter interpretação restritiva, verifica-se que no caso concreto a empresa não praticou nenhuma das condutas descritas no item 13.3, porque não se recusou a assinar o contrato, na verdade foi considerada inabilitada e impedida para tanto pela Administração, e tampouco deixou de apresentar a documentação exigida exigidos no item 13.4.
+ ..
+O que aconteceu, no caso, foi que a apresentação da documentação foi considerada insuficiente e insatisfatória pela Administração, em relação à apenas um Município, e o arcabouço fático-probatório é suficiente para afastar a prática de conduta desleal, inidônea, abusiva, fraudulenta, eivada de má-fé, dolo ou até mesmo culpa, para configurar o ilícito ou a infração administrativa e, sem isso, a sanção administrativa do artigo 7º da Lei nº 10.520/2002 não se sustenta.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame das cláusulas do edital, bem como de matéria fático-probatória, procedimentos que, em sede especial, encontram óbice nas Súmulas 5 e 7/STJ, aplicáveis em ambas as alíneas autorizadoras.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LICITAÇÃO. AÇÃO DE INDENIZAÇÃO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTENTE. PLEITOS PARA QUE A AGRAVADA SEJA CONDENADA A INDENIZAR A AGRAVANTE POR LUCROS CESSANTES, COM VALOR ATUALIZADO ATÉ A DATA DA RESCISÃO CONTRATUAL; PELA DEPRECIAÇÃO DOS EQUIPAMENTOS ADQUIRIDOS; JUROS PELO CAPITAL IMOBILIZADO; E PERDA DE OPORTUNIDADE PARA REALIZAR OUTROS NEGÓCIOS. INVERSÃO DO JULGADO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7, AMBAS DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pela parte agravante. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão, bem como apresentou fundamentação concreta e suficiente.
+2. Alterar as conclusões do Tribunal a quo, no sentido de fazer prevalecer os pleitos recursais, para determinar que: a) a correção monetária seja calculada desde a data de assinatura do contrato; e b) haja indenização pela depreciação dos equipamentos, juros sobre o capital imobilizado e perda de oportunidade de realizar outro negócio, encontra óbice nas Súmulas n. 5 e 7, ambas do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.142.663/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+ EMENTA
