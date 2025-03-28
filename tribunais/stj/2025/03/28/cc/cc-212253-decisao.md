@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por GILLIARD MACHADO DA SILVA contra Município de Primeira Cruz/MA, objetivando o recebimento de incentivo adicional financeiro.
+A ação foi aviada perante o Juízo de Direito da Vara Única de Humberto Campos-MA que declinou da competência para o Juízo Laboral.
+O feito foi sentenciado pelo juízo singular. Em sede recursal, o Tribunal Regional do Trabalho da 16ª Região suscitou o presente conflito perante o Superior Tribunal de Justiça.
+Estando os autos devidamente instruídos com as informações necessárias para julgamento, dispenso a oitiva das autoridades em conflito, nos termos do art. 197 do Regimento Interno desta Corte.
+Desnecessária a oitiva do Ministério Público Federal (art. 951, parágrafo único, do CPC/2015).
+É o relatório. Decido.
+A Primeira Seção do STJ, em harmonia com as decisões recentes do STF, tem adotado o entendimento de que a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes. Nesse sentido: CC 160.769/PE, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 14/11/2018, DJe 26/02/2019.
+Assim, cabe à justiça trabalhista o exame das relações empregatícias regidas pela CLT e à Justiça Comum, Federal ou Estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo, ainda que a contratação seja mediante assinatura de carteira de trabalho. Precedentes: AgInt no CC 160.975/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 20/08/2019, DJe 29/08/2019; CC 129.447/RN, Rel. Ministro Sérgio Kukina, Primeira SEÇÃO, julgado em 9/9/2015, DJe 30/9/2015; CC 125.666/RS, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 9/9/2015, DJe 6/10/2015; AgRg no CC 125.129/RJ, Rel. Ministra Marga Tessler (Juíza Federal Convocada do TRF 4ª Região), Primeira Seção, julgado em 11/2/2015, DJe 19/2/2015.
+As exceções à regra, dependem da existência de legislação local e das peculiaridades sobre a matéria.
+O art. 8º da Lei n. 11.350/2006 estabeleceu o regime celetista nas hipóteses de contratação de agente comunitário de saúde, salvo se o ente público adotar forma diversa por meio de lei local, de modo que "será celetista o regime aplicável apenas se Estados, Distrito Federal e Municípios não dispuserem de forma diversa" (AgRg no CC 136.320/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Primeira Seção, julgado em 12/11/2014, DJe 17/11/2014. Nesse sentido: AgInt no CC 160.975/PE, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 20/08/2019, DJe 29/08/2019).
+No caso dos autos, diante da inexistência de legislação municipal adotando regime diverso do celetista para os agentes comunitários de saúde, tenho que a competência seja da justiça especializada.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Tribunal Regional do Trabalho da 16ª Região, para prosseguir no julgamento.
+Publique-se. Intimem-se.
+EMENTA
