@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANILENE PINTO DE ALMEIDA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ fl. 350):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. POLICIAL MILITAR MORTO EM SERVIÇO. PENSÃO POST MORTEM. NATUREZA INFORTUNÍSTICA. ART. 85, LEI ESTADUAL Nº 10.990/97. CUMULAÇÃO COM PENSÃO PREVIDENCIÁRIA. POSSIBILIDADE. RETENÇÃO DE IMPOSTO DE RENDA. CABIMENTO.
+TENDO A PENSÃO INSTITUÍDA PELO ARTIGO 85 DA LEI ESTADUAL Nº 10.990/97, NATUREZA INFORTUNÍSTICA, DESTINADA A COMPENSAR OS DEPENDENTES DO POLICIAL MILITAR MORTO, DECORRENTE DOS SERVIÇOS DE RISCO PRESTADOS AO ESTADO, NÃO SE CONFUNDINDO, POIS, COM AS FINALIDADES DO PENSIONAMENTO PREVIDENCIÁRIO, POSSÍVEL A CUMULAÇÃO DE UMA E OUTRA VERBA.
+INCIDÊNCIA DE IMPOSTO DE RENDA.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 376/378).
+A recorrente alega violação dos arts. 489, § 1º, VI, e 1.022, I e II, do CPC, aduzindo negativa de prestação jurisdicional. Aponta ofensa aos arts. 6º, IV, da Lei n. 7.713/1988; 43, 108, 111, 175 e 176 do CTN; e 35 do Decreto n. 9.580/2018, por entender ser isenta de imposto de renda a pensão especial recebida.
+Contrarrazões às e-STJ fls. 433/438. Sustenta o recorrido a incidência dos óbices das Súmulas 7 do STJ e 280 do STF. Defende a incidência de imposto de renda sobre a pensão em debate.
+O recurso especial foi admitido na origem (e-STJ fls. 442/445).
+Passo a decidir.
+O Tribunal de origem deu parcial provimento à apelação e reformou a sentença, julgando improcedente o pedido de isenção de imposto de sobre pensão, de caráter indenizatório e especial, concedida a viúva de policial morto em serviço.
+Quanto à alegada ausência de prestação jurisdicional, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder todas as alegações das partes nem tampouco a rebater, um a um, todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgInt no REsp n. 1.646.468/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 20/04/2020, DJe 24/04/2020; e AgInt no AREsp n. 1.604.913/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 14/03/2022, DJe 17/03/2022.
+O acórdão recorrido atuou em desarmonia com a orientação jurisprudencial desta Corte Superior, segundo a qual a pensão recebida em caráter indenizatório, tal como ocorre no presente caso, é isenta de imposto de renda.
+Nessa linha, refiro-me aos seguintes julgados:
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. IMPOSTO DE RENDA. ISENÇÃO. ANISTIA. CONCESSÃO, TAMBÉM, ÀQUELES ANISTIADOS ANTERIORMENTE À LEI N. 10.559/02. OMISSÃO NO ACÓRDÃO EMBARGADO. VÍCIO NÃO EVIDENCIADO. VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS. NÃO OCORRÊNCIA.
+1. Como cediço, os embargos de declaração, ainda que manejados com o propósito de prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, nos ditames do artigo 535, I e II, do CPC, bem como para sanar a ocorrência de erro material, vícios inexistentes na espécie.
+2. No caso concreto, o acórdão embargado foi claro ao consignar que a " a  Primeira Seção desta Corte, interpretando os artigos 9º e 19 da Lei 10.559/2002 e o Decreto 4.897/2003, consolidou orientação no sentido de que os militares anistiados têm direito à isenção de imposto de renda sobre seus proventos ou pensões, tendo em vista sua natureza indenizatória, ainda que tenham sido anistiados em razão de atos normativos que antecederam a Lei 10.559/2002, como ocorre no caso em análise".
+3. O entendimento desta Corte Superior sobre a matéria de fundo não ofende os preceitos constitucionais ventilados, relativos à concessão da reparação aos anistiados (artigo 8º do ADCT), da isonomia (artigo 150, II) e da competência legislativa da União para instituir o imposto sobre a renda (artigo 153, III), mas, apenas, dá a correta interpretação quanto a quem aproveita a isenção concedida pela Lei n. 10.559/2002.
+4. Embargos de declaração rejeitados.
+(EDcl no MS n. 16.201/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 26/10/2011, DJe de 7/11/2011.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. POLICIAL FALECIDA EM SERVIÇO. PENSÃO ESPECIAL DE CARÁTER INDENIZATÓRIO. ISENÇÃO DE IMPOSTO DE RENDA.
+1. As questões jurídicas foram levantadas em torno dos dispositivos mencionados. O Superior Tribunal de Justiça entende ser inadmissível o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pela instância de origem, a despeito da oposição de Embargos de Declaração e ainda que se trate de matéria de ordem pública, como a prescrição, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. Ademais, o Superior Tribunal de Justiça decidiu que, "ainda que a indenização seja paga sob a forma de pensionamento mensal, os pagamentos não perdem a natureza indenizatória, não subsistindo razão para a retenção de imposto de renda na fonte" (AgRg no REsp 1.457.830/RS, Rel. Min. Humberto Martins, Segunda Turma, julgado em 16/9/2014, DJe 23/9/2014)
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.142.844/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Cabe ressaltar que a hipótese não demanda reexame de provas, tampouco a análise de lei local, não atraindo a incidência das Súmulas 7 do STJ e 280 do STF, na medida em que a natureza jurídica do pensionamento em debate se encontra perfeitamente delineada no acórdão recorrido.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de restabelecer os efeitos da sentença.
+Publique-se. Intime-se.
+EMENTA
