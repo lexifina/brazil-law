@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INCIDÊNCIA DA SÚMULA 284/STF. ALEGAÇÃO DE OMISSÃO QUANTO AO MÉRITO. VÍCIO INEXISTENTE.
+1. Os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente, com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional. Precedentes.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Jose Pereira da Silva opõe embargos de declaração ao acórdão da Sexta Turma desta Corte, assim ementado (fl. 2.760):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL AUTORIZADOR DO RECURSO. INCIDÊNCIA DA SÚMULA 284/STF. PRECEDENTES. INOVAÇÃO RECURSAL EM SEDE DE AGRAVO REGIMENTAL. DESCABIMENTO. PRECLUSÃO CONSUMATIVA.
+1. A ausência de indicação do permissivo constitucional que autoriza a interposição do recurso especial torna sua fundamentação deficiente, a atrair a incidência da Súmula 284/STF. Precedentes.
+2. Não é admissível a inovação recursal em sede de agravo regimental. Precedentes.
+3. Agravo regimental improvido.
+Sustenta a parte embargante, em suma, a existência de omissão quanto à tese de violação dos arts. 413 e 414 do Código de Processo Penal (fls. 2.768/2.769).
+Insiste em que a pronúncia do embargante, na origem, foi lastreada em elementos extremamente frágeis, insuficientes para configurar os indícios mínimos exigidos pela legislação para autorizar a pronúncia (fl. 2.770).
+Requer, ao final, o suprimento da omissão apontada, bem como que haja manifestação, de forma expressa, sobre as matérias constitucionais prequestionadas, em especial os arts. 5º, LV e LIV, além do art. 93, IX, todos da Constituição Federal de 1988, para viabilizar eventual interposição de recurso extraordinário, ou, subsidiariamente, na hipótese de que se entenda por qualquer óbice para o seguimento do feito, requesta-se pela concessão de habeas corpus de ofício, conforme autoriza o art. 654, § 2º, do CPP (fl. 2.771).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INCIDÊNCIA DA SÚMULA 284/STF. ALEGAÇÃO DE OMISSÃO QUANTO AO MÉRITO. VÍCIO INEXISTENTE.
+1. Os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente, com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional. Precedentes.
+3. Embargos de declaração rejeitados.
+VOTO
+Sem razão a parte embargante.
+Os embargos de declaração são recursos com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostra ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal (EDcl no AgRg no AREsp n. 2.013.024/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 11/4/2022).
+In casu, não se verifica que o acórdão embargado apresente qualquer vício que permitem o manejo da insurgência. Ao contrário, ostenta fundamentação clara e suficiente para sustentar a conclusão nele estabelecida.
+Esclareceu-se expressamente (fls. 2.762/2.763 - grifo nosso):
+ ..  Da leitura do recurso especial, infere-se que a defesa realmente não apontou o permissivo constitucional que fundamenta a interposição do apelo extremo, isto é, a norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105), circunstância impeditiva do conhecimento do recurso pela deficiência na fundamentação, mostrando-se correta, pois, a aplicação do enunciado da Súmula 284/STF, por analogia.
+ ..
+Incensurável, portanto, a decisão agravada.
+Por derradeiro, a tese de que a decisão de pronúncia teve como fundamento apenas provas testemunhas indiretas e elementos de informação colhidos unicamente em fase de investigação, tendo sido baseada exclusivamente em informações coletadas na fase extrajudicial (fl. 2.736), consiste em inovação de tema não suscitado anteriormente e nem sequer analisado pelas instâncias ordinárias, o que impede o conhecimento da pretensão. Confiram-se: AgRg no AREsp n. 2.675.906/RJ, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024; AgRg no HC n. 910.233/SP, Ministro Og Fernandes, Sexta Turma, DJe 25/10/2024 e AgRg nos EDcl no AREsp n. 1.800.259/MS, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022.  ..
+Como se percebe, a prestação jurisdicional se exauriu satisfatoriamente, não se constatando a presença de quaisquer dos vícios elencados no art. 619 do Código de Processo Penal, ou mesmo ofensa ao art. 93, IX, da Constituição Federal.
+Ora, segundo entendimento deste Superior Tribunal, a ausência de análise do mérito recursal, devido à constatação de um impedimento ao seu conhecimento, não configura omissão . A esse respeito: EDcl no AgRg nos EDcl no AREsp n. 2.611.063/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 23/12/2024; e AgRg no AgRg nos EDcl no AREsp n. 2.503.298/PB, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/9/2024.
+Logo, a mera irresignação com o entendimento apresentado na decisão embargada não viabiliza a oposição dos aclaratórios. Confiram-se: EDcl no AgRg no AREsp n. 2.242.887/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 7/12/2023; (EDcl no REsp n. 2.082.894/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; EDcl no AgRg no AREsp n. 2.274.684/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 10/5/2023; e EDcl no AgRg nos EREsp n. 1.878.394/PR, Ministra Laurita Vaz, Terceira Seção, DJe 4/5/2021.
+Na verdade, o manejo de embargos de declaração para apontar vícios notoriamente inexistentes expõe claro desvirtuamento do recurso integrativo, retardando indevidamente o encerramento da prestação jurisdicional. A propósito: EDcl nos EDcl no AgInt nos EAREsp n. 1.770.875/RS, Ministra Laurita Vaz, Corte Especial, DJe 28/3/2022.
+Desse modo, cumpre advertir o embargante de que a oposição de novos embargos de declaração (manifestamente improcedentes) ensejará a aplicação dos consectários delineados na jurisprudência desta Corte, inclusive a determinação de baixa dos autos à origem, com certificação do trânsito em julgado. Nessa linha: EDcl nos EDcl no AgRg no AREsp n. 869.043/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/6/2018.
+Por fim, não compete a este Superior Tribunal a análise de suposta violação de dispositivos constitucionais, mesmo com o cunho de prequestionamento, por ser matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+E, quanto ao pleito subsidiário, esclareço que o habeas corpus de ofício não se presta a burlar as regras processuais de admissibilidade recursal. Nos termos do art. 654, § 2º, do CPP, a concessão da ordem parte da iniciativa do próprio órgão julgador quando este detecta ilegalidade flagrante, o que não ocorre na hipótese dos autos (AgRg no AREsp n. 2.732.377/SP, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 24/10/2024).
+Ante o exp osto, rejeito os embargos de declaração.
