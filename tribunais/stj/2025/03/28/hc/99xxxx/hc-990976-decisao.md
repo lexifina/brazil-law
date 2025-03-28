@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RESSE CLAUDIA ALVES DE ALMEIDA, contra decisão monocrática proferida por Desembargador do Tribunal de Justiça do Estado do Ceará (ação cautelar inominada criminal n. 0634356-90.2024.8.06.0000).
+Narram os autos que a paciente foi investigada por supostas irregularidades na locação de veículos e na celebração de contrato de aquisição de combustíveis, quando ocupava o cargo de Secretária de Educação do Município de Iracema/CE. A investigação foi instaurada no mesmo dia em que a paciente foi exonerada do cargo, em 31/01/2024.
+Sustenta a defesa que a decisão que impôs medidas cautelares à paciente carece de fundamentação concreta e individualizada, em afronta ao artigo 315, §2º, do Código de Processo Penal, e que a investigação se baseia em denúncia anônima sem elementos fáticos específicos.
+Alega que a decisão está em descompasso com a atuação da paciente, pois foi exonerada antes da decisão que impôs as medidas cautelares.
+Afirma que inexiste qualquer indício de conduta da paciente apta a ensejar sua responsabilização penal, impondo-se o reconhecimento da ausência de justa causa para a persecução criminal.
+Aponta a nulidade absoluta nos autos do processo 0622138-30.2024.8.06.0000, por violação ao princípio do contraditório, e ofensa ao princípio da contemporaneidade, pois a paciente já não ocupava o cargo de Secretária de Educação quando da instauração do PIC.
+Requer, liminarmente e no mérito, a concessão da ordem, para revogar as medidas cautelares e afastar a paciente da investigação por manifesta ausência de justa causa. Subsidiariamente, pede o reconhecimento da ilegalidade manifesta e a concessão da ordem de ofício, nos termos do art. 654, §2º, do CPP. Pede, ainda, a declaração de nulidade da investigação nos autos do PIC nº 06.2024.00000237-7, por violação ao princípio da contemporaneidade e ao princípio do contraditório e da ampla defesa .
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A competência do STJ é inaugurada, nos termos do art. 105, II, "a", da CF, com o esgotamento da instância ordinária, o que não ocorreu no caso.
+Na hipótese, a paciente se insurge contra decisão monocrática de relator já mencionada, em face da qual não foi interposto o recurso devido a fim de levar o pedido à análise do colegiado competente.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe, ao Superior Tribunal de Justiça, a apreciação do pedido. Nesse sentido, confiram-se:
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangi mento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido. (AgRg no HC 401.079/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 05/12/2017, DJe 12/12/2017)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes do STJ e do STF.
+- Agravo regimental desprovido. (AgRg no HC 332.057/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/03/2016, DJe 28/03/2016).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
