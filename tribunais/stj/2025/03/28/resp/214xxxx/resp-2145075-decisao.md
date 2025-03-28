@@ -1,0 +1,12 @@
+DECISÃO
+Por meio da Petição n. 00159549/2025 (fls. 9/20 do Expediente Avulso), o Ministério Público do P araná argumenta que a competência para o oferecimento de Acordo de Não Persecução Penal (ANPP) em processos criminais de âmbito estadual recai sobre os órgãos ministeriais estaduais, conforme entendimento do Supremo Tribunal Federal no HC n. 185.913/DF. Destaca, no ponto, que o Ministério Público Federal não tem atribuição para oferecer ANPP em processos criminais estaduais, atuando apenas como fiscal da lei.
+Sustenta que Loreno Bernardo Tolardo não faz jus ao benefício do ANPP, pois, apesar de o delito não envolver violência ou grave ameaça e ter pena mínima inferior a 4 anos a sua conduta, ter utilizado indevidamente bens e serviços públicos para benefício próprio, é de alta reprovabilidade e não atende aos requisitos de necessidade e suficiência para reprovação e prevenção do crime, conforme o art. 28-A do CPP. Assevera que a celebração do ANPP não seria recomendável, considerando o desrespeito à lei penal e aos princípios da administração pública, e que a medida não cumpriria as funções do direito penal.
+Ao final do requerimento, se manifesta pelo retorno dos autos a esta instância rara, para prosseguimento do julgamento do Recurso Especial em epígrafe, uma vez que o acusado não faz jus ao benefício do acordo de não persecução penal. (fl. 20 do Expediente Avulso).
+É o relatório.
+No dia 18/9/2024, ao julgar o Habeas Corpus n. 185.913/DF, da relatoria do Ministro Gilmar Mendes, a Corte Suprema pacificou a controvérsia a respeito da retroatividade do acordo de não persecução penal, tendo firmado, dentre outras, a seguinte tese: Compete ao membro do Ministério Público oficiante, motivadamente e no exercício do seu poder-dever, avaliar o preenchimento dos requisitos para negociação e celebração do ANPP, sem prejuízo do regular exercício dos controles jurisdicional e interno; grifo nosso.
+Dessa forma, levando em consideração a marcha processual vigente ao tempo da manifestação de fls. 6.210/6.213, verifica-se que o Ministério Público Federal detinha, regularmente, a competência para avaliar o preenchimento dos requisitos para a proposta de ANPP.
+Ante o exposto, indefiro o pedido.
+Publique-se.
+EMENTA
+PETIÇÃO EM RECURSO ESPECIAL. ANPP. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL AMPARADA NOS TERMOS DE TESE FIXADA PELO STF NO HABEAS CORPUS N. 185.913/DF. REGULARIDADE CONSTATADA.
+Pedido indeferido.
