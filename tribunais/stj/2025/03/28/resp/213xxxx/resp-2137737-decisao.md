@@ -1,0 +1,83 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA. PROVISÃO PARA PERDAS PROVÁVEIS. COMPROVAÇÃO DE PERDA PERMANENTE PROVISIONADA.
+Após determinação desta Corte para nova apreciação dos embargos de declaração opostos por ambas as partes (fls. 1.687-1.691), apenas o recurso da cont ribuinte foi acolhido, majorando a verba honorária em 1% (fls. 1.760-1.769).
+Os segundos aclaratórios da União foram rejeitados (fls. 1.823-1.830).
+Nas razões do recurso, interposto com fundamento no art. 105, III, "a", da Constituição da República, a recorrente aponta violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015; aos arts. 97, IV e VI, e 111 do CTN; e ao art. 321 do RIR/1980.
+Preliminarmente, aponta nulidade no acórdão recorrido, pois o Tribunal de origem não se manifestou sobre questões essenciais ao deslinde da controvérsia, notadamente quanto aos seguintes fatos:
+a) a provisão de perda provável feita pela TUDOR antes de sua incorporação não atendia aos requisitos de dedutibilidade previsto no art. 321 do RIR/80, razão pela qual foi levada à livre tributação;
+b) No ato da incorporação, a participação na NORSUL foi adquirida já descontando o valor deduzido anteriormente pela TUDOR ;
+c) A autora/apelada alienou sua participação na NORSUL pelo mesmo valor que a adquiriu na incorporação, de modo que não houve qualquer perda de investimento (não houve manifestação pela Turma sobre o fato de não ter havido perda de investimento para a incorporadora);
+d) Considerando que tal alienação, sem perda de investimento, não convalida a perda de provisão provável feita pela TUDOR, a incorporadora, ora Apelada, agiu de forma errônea ao não lançar tal provisão no seu lucro real (o acórdão nega vigência aos artigos 2º e 150, § 6º, da Constituição Federal, bem como dos artigos 97, IV e VI, e 111, do CTN, precisando enfrentar tais dispositivos legais).
+No mérito, sustenta que as exclusões da base de cálculo do IRPJ devem ocorrer nos estritos limites da lei; assim, não havendo previsão expressa, a incorporadora não pode beneficiar-se do favor fiscal decorrente da provisão de perdas de investimento suportadas pela empresa incorporada. Acrescenta que, nesses casos, não se aplica o art. 132 do CTN e art. 227 da Lei 6.404/1976, por não haver direito a ser sucedido.
+Contrarrazões apresentadas às fls. 1.904-1.919.
+É o relatório.
+Passo a decidir.
+I. Do caso concreto
+Na origem, CARBOINDUSTRIAL S/A (atual ELKEM PARTICIPAÇÃOES, INDÚSTRIA E COMÉRCIO LTDA) ajuizou ação anulatória para desconstituição dos autos de infração 2.223/1991 e 2.226/1991, decorrentes da atuação fiscal que considerou indevido o abatimento de provisões para perdas de investimentos suportadas pela empresa incorporada da base de cálculo do lucro da incorporadora, ante a ausência de embasamento legal.
+A sentença que julgara procedentes os pedidos foi mantida pelo Tribunal de origem nos seguintes termos:
+Conforme relatado, cuida-se de remessa necessária e recurso de apelação cível interposto pela União/Fazenda Nacional contra sentença prolatada onde o juízo julgou procedente o pedido para determinar a nulidade dos autos de infração n. 2223/91 e 2226/9, oriundos dos processos administrativos nº 10783.017622/91-71 e 10783.017625/91 e extinguiu o feito, conforme o art. 487, I, do CPC.
+Em seu recurso de apelação cível, a União requer, em síntese, a reforma da sentença. Sustenta a Fazenda que não tem razão a parte autora quando se insurge contra a glosa de provisão na importância de Cz$ 61.450.000,00, na declaração de IRPJ do exercício de 1987 (período base de 01/07 a 31/12/1986), eis que se trata de provisão para perda provável efetuada pela empresa incorporada que não restou caracterizada como permanente, conforme o art. 321 do RIR/1980.
+No presente caso, a empresa CARBOINDUSTRIAL S/A (atual ElKEM PARTICIPAÇÕES, INDÚSTRIA E COMÉRCIO LTDA), incorporou em 29/12/1986, a empresa TUDOR DO BRASIL, que tinha participação na empresa NORSUL OFFSHORE.
+Assim, verifico que a empresa TUDOR DO BRASIL, ao tempo da desvalorização da NORSUL OFFSHORE, empresa na qual tinha participação, registrou a provisão de perdas prováveis para fins de avaliação de seu ativo, conforme o art.183, III e IV da Lei 6.404/76.
+A TUDOR DO BRASIL foi incorporada pela CARBOINDUSTRIAL S/A (atual ElKEM PARTICIPAÇÕES, INDÚSTRIA E COMÉRCIO LTDA), em 29/12/1986, pelo valor de seu ativo, onde se incluía a participação na empresa NORSUL, constante do balanço levantado naquela data: Cz$ 26.927.609,20, ou seja:
+Participações (NORSUL) Cz$ 88.377.609,00
+Perda provável (-) Cz$ 61.450.000,00
+Ativo líquido Cz$ 26.927.609,00
+A apelada, a empresa CARBOINDUSTRIAL S/A (atual ElKEM PARTICIPAÇÕES, INDÚSTRIA E COMÉRCIO LTDA) levou consigo tal histórico fiscal, passando a incorporadora a dar continuidade à administração da incorporada, alienando a participação na empresa NORSUL pelo mesmo valor que integrou o seu ativo, já computada a desvalorização provisionada.
+Com efeito, os registros fiscais da TUDOR DO BRASIL foram sucedidos pela apelada, e, no momento da alienação da participação da empresa NORSUL, ocorreu a convalidação da provisão de perdas prováveis feita pela incorporada.
+De acordo com o art. 321 do Regulamento do IR/80 que:
+Art. 321. A provisão para perdas prováveis na realização do valor de investimentos será, para efeito de determinar o lucro real, adicionada ao lucro líquido do exercício, salvo se (Decreto-Lei nº 1.598/77, art. 32):
+I - constituída depois de 3 (três) anos da aquisição do investimento;
+II - a perda for comprovada como permanente, assim entendida a de impossível ou improvável recuperação.
+§ 1º Cabe à pessoa jurídica o ônus da prova da perda permanente que justifique a constituição da provisão (Decreto-Lei nº 1.598/77, art. 32, § 1º).
+Assim, os registros fiscais da empresa TUDOR foram sucedidos pela autora, ora apelada, e, no momento da alienação da participação da empresa NORSUL, ocorreu a convalidação da provisão feita pela incorporada.
+A alienação da participação comprovou a perda permanente provisionada, o que não era dedutível passou a ser, razão pela qual entendo justificada a não inclusão no lucro real, pela autora, da perda já registrada e tributada pela incorporada antes da incorporação.
+Ante o exposto, voto no sentido de negar provimento à remessa necessária e ao recurso de apelação cível da União/Fazenda Nacional (fls. 1.437-1.438).
+No julgamento dos embargos declaratórios, esclareceu-se ainda que:
+Pois bem. Impõe-se analisar duas omissões do aresto impugnado. A primeira, acerca do argumento da UNIÃO sobre "o valor da alienação ter sido, basicamente, o mesmo pelo qual o investimento foi incorporado pela interessada, não havendo registro de perda". A segunda aventada por ELKEM PARTICIPAÇÕES, INDÚSTRIA E COMÉRCIO LTDA, sobre não ter havido manifestação acerca dos honorários de sucumbência recursal.
+Para dirimir qualquer dúvida acerca da nulidade dos Autos de Infração n.s 2223/91 e 2226/91, oriundos dos Processos Administrativos n.s 10783.017622/91-71 e 10783.017625/91, que ensejaram as inscrições em dívida ativa n.s 72.2.97.004576-57 e 72.7.98.000350-09, agrego às razões de decidir os seguintes fundamentos.
+O direito de excluir a provisão para perdas na apuração do lucro real passou da TUDOR para Autora (CARBOINDUSTRIAL atualmente ELKEM PARTICIPAÇÕES) com base na sucessão empresarial prevista no art. 132 do Código Tributário Nacional (CTN) e no art. 227 da Lei n. 6.404/76, que dispõe sobre as Sociedades por Ações. Assim sendo, a TUDOR transferiu para a Autora todas as suas obrigações (passivos) e direitos (ativos):
+Lei n. 6.404/1976:
+Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações.
+Lei n. 5.172/1966:
+Art. 132. A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até à data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+A Autora pode excluir do seu demonstrativo do lucro real da Declaração de Informações Econômico- Fiscais da Pessoa Jurídica (DIPJ) e do Livro de Apuração do Lucro Real (LALUR) o valor da provisão já tributada na empresa incorporada (TUDOR).
+Esse procedimento fiscal afigura-se como a formalização do ajuste da base de cálculo do Imposto sobre a Renda da Pessoa Jurídica (IRPJ) como consequência do direito decorrente da sucessão empresarial previsto no CTN e na Lei n. 6.404/1976. Caso contrário, a provisão seria tributada duas vezes, uma vez apurada pela TUDOR e outra pela Autora.
+Em 30/12/1986, o Conselho de Administração da CARBOINDUSTRIAL aprovou a venda da participação da NORSUL por Cr$26.928.032,13. Assim, a CARBOINDUSTRIAL entendeu que poderia excluir do lucro real a provisão formada pela empresa incorporada, tendo em vista que ela foi oferecida à tributação no exercício anterior, tornando-se uma "provisão livre".
+O valor da alienação foi basicamente o mesmo do investimento incorporado, ou seja, não houve registro de perda. Todavia, não existia condição legal prevista na legislação tributária, especialmente no Regulamento do Imposto sobre a Renda vigente à época (RIR/80), determinando que a exclusão da provisão para perdas somente poderia ser executada caso o investimento tenha sido alienado com prejuízo ou perda de capital.
+Nesse contexto, não houve irregularidade nos lançamentos contábeis da empresa Autora, que ensejaram a lavratura dos Autos de Infração n.s 2223/91 e 2226/91.
+Registre-se que o laudo elaborado pelo Perito do Judicial (evento 184, fls. 3/12), bem como os esclarecimentos prestados por ele posteriormente (evento 184, fls. 96/97), não apontam incorreção na escrituração contábil da Autora. Quando questionado sobre a regularidade do procedimento fiscal adotado pela Contribuinte, o Perito consignou que o mérito da causa deve ser julgado pelo Juízo e que "tecnicamente não existe uma fundamentação específica que permita atestar se o procedimento adotado estar correto".
+Reforço que o Perito do Juízo não indicou erro no recolhimento do Imposto de Renda da Contribuinte, que não é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude da lei, conforme prevê o art. 5º, II, da Constituição Federal, no capítulo dos Direitos e Garantias Fundamentais.
+A Autora, na condição de sucessora da TUDOR, tem o direito de excluir a provisão para perdas na apuração do lucro real.
+Reforço que o procedimento fiscal de excluir do demonstrativo do lucro real da Declaração de Informações Econômico-Fiscais da Pessoa Jurídica (DIPJ) e do Livro de Apuração do Lucro Real (LALUR) o valor da provisão já tributada na empresa incorporada (TUDOR), foi a formalização do ajuste da base de cálculo do Imposto de Renda (IRPJ), como consequência do direito previsto no CTN (Lei n. 5.172/1966) e na legislação societária (Lei n. 6.404/1976).
+Impõe-se desprover os embargos de declaração (evento 234) opostos pela UNIÃO, com base nos fundamentos acima somados àqueles consignados no acórdão do evento 251 (fls. 1.765-1.766).
+II. Da negativa de prestação jurisdicional
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, concluindo que a provisão para perdas feita pela empresa incorporada, cuja convalidação somente ocorreu na gestão da empresa incorporadora, pode ser abatida de seu lucro real em razão da sucessão de direitos estabelecida pelo art. 227 da Lei 6.404/1976.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Inexiste, portanto, violação aos arts. 489, § 1º, IV, e 1.022, II, parágrafo único, II, do CPC.
+III. Do mérito recursal
+A Fazenda Nacional, com fundamento nos arts. 97 e 111 do CTN e 321 do RIR/1980, sustenta a higidez do auto de infração, argumentando que não havia amparo legal para que a contribuinte excluísse de seu lucro a provisão para perda de investimento suportada pela empresa incorporada.
+O Tribunal de origem, por sua vez, considerando a jurisprudência desta Corte, bem como a norma contida no art. 227 da Lei 6.404/1976, que estabelece que a sucessão por incorporação determina a extinção da personalidade jurídica da empresa incorporada, com a transmissão de seus direitos e obrigações à incorporadora, reconheceu a nulidade da atuação fiscal.
+A propósito:
+Art. 227 da Lei 6.404/1976. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações.
+Para fins do art. 543-C do CPC: 1.1. A sucessão, por incorporação, de empresas, determina a extinção da personalidade jurídica da incorporada, com a transmissão de seus direitos e obrigações à incorporadora (REsp n. 1.322.624/SC, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 12/6/2013, DJe de 25/6/2013).
+Como se vê, a utilização da provisão para perda, devidamente contabilizada pela empresa incorporada, deu-se com fundamento no art. 227 da Lei 6.404/1976 c/c o art. 321 do RIR/1980, in verbis:
+Art. 321. A provisão para perdas prováveis na realização do valor de investimentos será, para efeito de determinar o lucro real, adicionada ao lucro líquido do exercício, salvo se (Decreto-Lei nº 1.598/1977, art. 32):
+ ..
+II - a perda for comprovada como permanente, assim entendida a de impossível ou improvável recuperação.
+Desse modo, não merece prosperar a alegação da Fazenda Pública quanto à inexistência de previsão legal para a conduta da contribuinte, com fundamento no fato de que a perda de investimento foi suportada pela empresa incorporada.
+Primeiramente, porque a provisão para perda não se originou de registro realizado pela incorporadora, e sim da sucessão de direitos decorrente do ato incorporação.
+Depois, porque o simples fato de a empresa absorvida não ter atendido, à época da incorporação, aos requisitos de dedutibilidade não impede que a incorporadora, como sucessora, utilize a provisão para perdas convalidada na sua gestão, notadamente nos casos em que a referida verba já tenha sido oferecida à tributação pela sucedida, circunstância que nem sequer foi considerada pelo ente público ao desenvolver sua tese recursal.
+Por outro lado, constata-se a ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido, qual seja, o fato de a provisão de perdas já ter sido oferecida à tributação no exercício anterior pela empresa incorporada, atraindo, por analogia, o óbice da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE. CUMULAÇÃO DE PENSÃO EXCEPCIONAL DE ANISTIADO COM PENSÃO POR MORTE. LEI 10.559/2009. IMPOSSIBILIDADE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. A Lei 10.559/02 reforçou a disposição normativa anterior ao dispor que não é possível acumulação de pagamentos ou benefícios ou indenização com o mesmo fundamento, facultando-se a opção mais favorável, nos moldes do art. 16 da mencionada lei.
+4. Agravo interno não provido (AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
