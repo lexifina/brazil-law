@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Campo Limpo Paulista contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 33):
+Agravo de Instrumento - Cumprimento de Sentença - Verbas estatutárias sonegadas pelo Município - Dano moral em prol da servidora-agravada - Arbitramento em R$ 2.000,00 - Recurso pelo Município de Campo Limpo Paulista - Desprovimento de rigor.
+Valor adequado e consentâneo ao já arbitrado em outras demandas idênticas - Binômio de que a indenização não pode ser nem excessiva sob pena de constituir o enriquecimento sem causa do lesado e tampouco ínfima sob pena de servir a um só tempo desmerecer o lesado e servir de estímulo a novas práticas indevidas.
+R. decisão mantida, com majoração dos ônus sucumbenciais
+(Tese fixada pelo E. STJ) - Recurso desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 8º do CPC; e 5º da LINDB. Sustenta que: "diante do já comprovado cumprimento das obrigações pelo Município recorrente, o montante arbitrado no V. Acórdão se mostra excessivo, resultando, com isso, em pretenso enriquecimento ilícito.  ..  O caso em comento versa sobre ações em massa, que envolve mais de dois mil servidores a serem indenizados, e tal fato deve ser rigorosamente ponderado por ocasião da fixação do quantum indenizatório, pois do contrário, a manutenção da condenação inviabilizará os atendimentos do bem comum e os investimentos sociais, bem como poderá concorrer para a quebra das finanças públicas" (fls. 46/48).
+Foram ofertadas contrarrazões às fls. 57/64.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida.
+Com efeito, o Tribunal de origem decidiu a questão com base nos seguintes fundamentos (fls. 32/37):
+Diversos casos semelhantes contra a Municipalidade de Campo Limpo Paulista foram e são distribuídos a este Relator. Em resumo, tratam de indenização por dano moral ao servidor que teve verbas estatutárias sonegadas pelo referido Município. O arbitramento, atual, está assentado em R$ 2.000,00, tal qual a decisão agravada.
+Em síntese, após debate noutros feitos, alcançou-se tal valor adequado e homogêneo, observado o binômio de que a indenização não pode ser nem excessiva sob pena de constituir o enriquecimento sem causa do lesado e tampouco ínfima sob pena de servir a um só tempo desmerecer o lesado e servir de estímulo a novas práticas indevidas, além da comprovação de que era servidor ativo durante a gestão do requerido Roberto Antônio no Município de Campo Limpo Paulista.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, O Tribunal de origem não se manifestou sobre a alegação de que "O caso em comento versa sobre ações em massa, que envolve mais de dois mil servidores a serem indenizados, e tal fato deve ser rigorosamente ponderado por ocasião da fixação do quantum indenizatório, pois do contrário, a manutenção da condenação inviabilizará os atendimentos do bem comum e os investimentos sociais, bem como poderá concorrer para a quebra das finanças públicas", tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
