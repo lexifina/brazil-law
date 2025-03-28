@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de DOUGLAS SILVEIRA DA COSTA - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0003241-28.2020.8.16.0044) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 0010149-96.2023.8.16.0044), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente, ao argumento de nulidade da prisão em flagrante, em razão da busca domiciliar efetivada sem fundada suspeita, pois a denúncia anônima desacompanhada de elementos preliminares indicativos de crime, ainda que associada à visão do agente empreendendo fuga para o interior de sua residência, não constitui justa causa para o ingresso forçado de autoridades policiais na residência do apelante, mesmo que se trate de crime permanente (fl. 3), além do que não houve consentimento do paciente e dos moradores da residência para que vários policiais ingressassem na casa foi claramente viciado, não sendo possível resistir a este consentimento solicitado por vários policiais militares armados (fl. 9).
+Inicialmente, tem-se que a Sexta Turma deste Tribunal Superior, no julgamento do HC n. 598.051/SP, assentou que o ingresso regular em domicílio alheio é possível apenas quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência - cuja urgência em sua cessação demande ação imediata -, definindo condições e procedimentos para ingresso domiciliar sem autorização judicial (HC n. 598.051/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+No entanto, este Superior Tribunal tem adotado o entendimento do Supremo Tribunal, de que a fuga para o interior da residência configura fundada suspeita para a busca domiciliar.
+A propósito:
+2. Na espécie, os policiais realizaram a abordagem pessoal e a busca domiciliar por terem fundadas razões para suspeitar de situação de flagrante do crime de tráfico de drogas, após o embargado ter empreendido fuga para o interior da residência para se furtar à operação policial.
+(RE 1.491.517, Ministra Cármen Lúcia, Tribunal Pleno, Publicado em 28/11/2024)
+Segundo consta, após informações prévias de que o denunciado comercializava drogas no local, os Policiais Militares deram-lhe voz de abordagem, momento em que se evadiu para a residência localizada no endereço acima mencionado. E, ao ser contido, a Equipe Policial realizou buscas pelo local e localizou a referida porção da substância entorpecente (fl. 26).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indef iro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. BUSCA E APREENSÃO DOMICILIAR. FUNDADA SUSPEITA. EXISTÊNCIA. FUGA PARA O INTERIOR DA RESIDÊNCIA. ENTENDIMENTO DO STF. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
