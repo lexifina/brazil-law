@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIANO DE OLIVEIRA SALLES JUNIOR, contra a decisão do Tribunal de Justiça do Estado do Espírito Santo que não ad mitiu o recurso especial devido à incidência da Súmula n. 83, STJ (fls. 192-196).
+O agravante foi condenado como incurso nas sanções do art. 155, § 4º, inciso I, do Código Penal, a 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, e 13 (treze) dias- multa (fls. 33-34).
+O Tribunal negou provimento, por unanimidade, à apelação em que a defesa requeria o abrandamento do regime prisional (fls. 119-133).
+O recurso especial inadmitido havia sido interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 33, § 2º, alínea "c", e § 3º, do Código Penal (fls. 170-182).
+Neste agravo, a defesa sustenta que foram cumpridos os requisitos necessários para viabilizar a análise do mérito do recurso especial (fls. 200-206).
+O Ministério Público do Espírito Santo apresentou contrarrazões pelo desprovimento do agravo (fls. 208-212).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo seu desprovimento (fls. 231-237).
+É o relatório. DECIDO.
+O direito processual é regido pelo princípio da dialeticidade, segundo o qual os recursos devem impugnar, concreta e especificamente, os fundamentos da decisão recorrida, demonstrando, ponto a ponto, os motivos do eventual desacerto do julgado contestado. Na espécie, entretanto, o agravante não enfrentou adequadamente os fundamentos que ensejaram a aplicação da Súmula n. 83, STJ.
+Para afastar a Súmula n. 83, STJ, incumbe à parte demonstrar, de modo preciso, que os precedentes citados na decisão recorrida não se aplicam à situação dos autos, ou, ainda, indicar precedentes contemporâneos ou supervenientes que demonstrem o desacerto da inadmissão do recurso interposto, o que não ocorreu.
+A propósito:
+"(..) para impugnar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula" (AgInt no AREsp n. 2.224.460/DF, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023)" (AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023).
+No mesmo sentido: AgRg no AREsp n. 2.346.991/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/8/2023; AgRg no AREsp n. 2.223.178/BA, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/6/2023; AgRg no AREsp n. 2.231.715/PB, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 14/4/2023; AgRg no AREsp n. 1.995.672/PA, Sexta Turma, Rel. Min. Olindo Menezes (Desembargador Convocado do TRF 1ª Região), DJe de 7/4/2022.
+No caso, o acórdão indicado à fl. 205 não preenche o requisito exigido pelos precedentes desta Corte Superior, porque é anterior aos indicados na decisão agravada (fls. 194-195). Houve, portanto, manifesta ofensa ao princípio da dialeticidade, o que reclama a aplicação, por analogia, da Súmula n. 182, STJ: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Diante do exposto, não conheço do agravo, nos termos do art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO DE USO PERMITIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO RECORRIDA. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 182, STJ. AGRAVO NÃO CONHECIDO.
