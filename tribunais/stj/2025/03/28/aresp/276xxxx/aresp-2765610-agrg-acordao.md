@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL . AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. DESCABIMENTO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA E EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não trazendo o agravante tese jurídica capaz de modificar o posicionamento anteriormente firmado, é de se manter a decisão agravada por seus próprios fundamentos.
+2. No caso, o Tribunal de origem ressaltou que a substituição da pena privativa de liberdade por restritiva de direitos não se revela socialmente recomendável, pois o acusado, além de reincidente, é detentor de maus antecedentes, sendo que os delitos anteriores apresentam uma relação de dependência com o delito de contrabando apurado nestes autos, o que não destoa da jurisprudência desta Corte Superior.
+3. Agravo regimental improvido.
+RELATÓRIO
+Thiago Candido Amorim da Silva interpõe agravo regimental contra a decisão de fls. 567/572, de minha lavra, assim resumida:
+PENAL. PROCESSO PENAL AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. INVIABILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. TESE DE FATO LONGÍNQUO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA.
+Agravo conhecido para negar provimento ao recurso especial.
+Nas razões do regimental, aduz a defesa, em síntese, que, considerando a pena imposta, é cabível a substituição da pena privativa de liberdade do agravante por pena restritiva de direitos, nos termos do artigo 44, Código Penal, tendo em vista que a pena cominada não foi superior a 4 anos e o crime não foi cometido com violência ou grave ameaça à pessoa; que o contexto do crime faz com que a substituição por pena restritiva de direitos seja suficiente para a reprovação e prevenção do crime em pauta, e que a substituição pleiteada é benéfica para a sociedade que prefere que os acusados prestem serviços comunitários do que sejam dessocializados no cárcere, com alto custo humano e monetário, acrescentando não se tratar de reincidência específica (fl. 581).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL . AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. DESCABIMENTO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. REINCIDÊNCIA. FUNDAMENTAÇÃO IDÔNEA E EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não trazendo o agravante tese jurídica capaz de modificar o posicionamento anteriormente firmado, é de se manter a decisão agravada por seus próprios fundamentos.
+2. No caso, o Tribunal de origem ressaltou que a substituição da pena privativa de liberdade por restritiva de direitos não se revela socialmente recomendável, pois o acusado, além de reincidente, é detentor de maus antecedentes, sendo que os delitos anteriores apresentam uma relação de dependência com o delito de contrabando apurado nestes autos, o que não destoa da jurisprudência desta Corte Superior.
+3. Agravo regimental improvido.
+VOTO
+Não merece acolhimento a pretensão do agravante.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Consoante assinalado na decisão agravada, não se mostra possível acolher a tese da defesa.
+No julgamento da apelação, a Corte de origem, soberana na análise do acervo fático-probatório presente nos autos, afirmou que a substituição pretendida não é socialmente recomendável, porque, além da reincidência, o réu é detentor de maus antecedentes, sendo que os delitos anteriores apresentam relação de dependência com o delito de contrabando apurado nestes autos (fls. 467/468), inexistindo, com isso, ilegalidade a ser reparada.
+Dado isso, está a decisão do Tribunal de origem em conformidade com a jurisprudência desta Corte, que considera a reincidência e os maus antecedentes como impeditivos para a substituição da pena privativa de liberdade por restritiva de direitos, em razão da medida não se mostrar socialmente recomendável.
+Em reforço aos precedentes anteriormente citados, confiram-se mais estes: AgRg no HC n. 953.795/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 23/12/2024; AgRg no HC n. 853.820/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 27/8/2024; AgRg no AREsp n. 2.408.378/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 7/6/2024; AgRg no HC n. 670.010/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/5/2023; AgRg no HC n. 784.789/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 20/4/2023; AgRg no AREsp n. 2.060.562/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/3/2023; AgRg no HC n. 712.102/SP, Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 21/10/2022, entre vários.
+Por fim, não se mostra possível, em sede de recurso especial, alterar as premissas estabelecidas pelo Tribunal de origem, ante o óbice da Súmula 7/STJ (AgRg no AREsp n. 1.997.477/DF, Ministro Messod Azulay Neto, Quinta Turma, DJe 26/6/2023).
+Assim, os frugais argumentos apresentados não são aptos para desconstituir a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
