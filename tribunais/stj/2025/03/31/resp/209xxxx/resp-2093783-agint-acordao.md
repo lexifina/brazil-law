@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 843):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+O agravante sustenta que impugnou a Súmula 7/STJ. para tanto, aduz que "no item "-DA NÃO INCIDÊNCIA DA SÚMULA 07/STJ" é abordado especificamente que a Agravante não pugna pela revaloração das provas ou revisão dos fatos dos autos por este Colendo Superior Tribunal, mas sim, que seja reafirmada a vigência dos artigos de Lei Federal, com a consequente devolução dos autos a inferior instância para readequação" (fl. 856).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnados, especificamente, a integralidade dos fundamentos da decisão que inadmitiu o recurso na Corte de origem.
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial no tocante à aplicação da Súmula 7/STJ.
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Verifica-se que, ao pretexto de impugnar a Súmula 7/STJ, a parte agravante fez breve menção à tese sustentada, enfatizando que basta a revaloração das provas, mas se mostra imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+Reitere-se que, para afastar a aplicação da Súmula 7/STJ, não basta a mera afirmação de não cabimento desse óbice sumular, devendo a parte apresentar argumentos suficientes a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário o reexame de fatos e provas da demanda.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DEIMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015; E SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Diante da ausência de impugnação específica dos fundamentos da decisão agravada, deve ser mantida a decisão que deixou de conhecer do agravo em recurso especial, com fundamento no art. 932, III, do CPC/2015; e na Súmula 182 do STJ.
+2. Conforme a jurisprudência, "inadmitido o recurso especial com base na Súmula 7 do STJ, não é suficiente a afirmação genérica de que é desnecessário o reexame de provas, ainda que seja feita uma breve menção à tese sustentada, ou simplesmente a insistência no mérito da controvérsia. É indispensável o cotejo entre o acórdão recorrido e a argumentação trazida no recurso especial que possa justificar o afastamento do óbice processual em questão" (AgInt no AREsp n. 1.991.801/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 17/3/2023).
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.462.244/GO, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 4/12/2024, DJEN de17/12/2024.) (Grifei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DEINADMISSIBILIDADE. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. SÚMULA 182/STJ.PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREVISÃO LEGAL. INAPLICABILIDADE DAS NORMAS CONSTANTES NA LEI 14.230/2021 QUANTO À PRESCRIÇÃO. TEMA 1.199/STF. SUPERVENIÊNCIA DA LEI 14.230/2021. DOLO ESPECÍFICO CONFIGURADO. NECESSIDADE DE ADEQUAÇÃO DAS PENAS À NOVA PREVISÃO LEGAL. AGRAVO PARCIALMENTE PROVIDO.
+1. A decisão recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 7 do Superior Tribunal de Justiça (STJ).
+2. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil.
+3. A mera afirmação de que o caso não demanda o reexame de fatos, ou a menção às razões expostas no recurso especial, não basta para infirmar a incidência da Súmula 7/STJ.
+4. Em nova análise do agravo interposto, vê-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a decisão que não conheceu de seu recurso.
+5. A prescrição intercorrente não se aplica aos atos de improbidade administrativa anteriores à Lei 14.230/2021, conforme decidido pelo Supremo Tribunal Federal (STF) quanto ao Tema 1.199.
+6. Alteração da Lei 8.429/1992 pela Lei 14.230/2021, passando a exigir a tipificação de uma das hipóteses previstas nos incisos do art. 11 da Lei de Improbidade Administrativa (LIA). Reconhecimento na origem de conduta enquadrada no inciso III do art. 11 da LIA. Atual exigência de dolo específico que foi identificado nos presentes autos.
+7. Apesar disso, as penas aplicadas com base no art. 11 da LIA devem observar o que atualmente dispõe o inciso III do art. 12 da Lei de Improbidade Administrativa, que não mais admite a suspensão dos direitos políticos de três a cinco anos. Assim, a condenação dos réus deve estar de acordo com a nova previsão legal, devendo ser afastada a pena de suspensão dos direitos políticos por três anos.
+8. Agravo interno a que se dá parcial provimento, afastando a pena de suspensão dos direitos políticos. (AgInt no AREsp n. 1.600.888/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/11/2024,DJe de 22/11/2024.) (Grifei).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. ARTS. 932, III, E 1.021, §1º, DO CPC. SÚMULA182/STJ APLICADA POR ANALOGIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. "Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não se conhece do agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932,III, e 1.021, § 1º, do CPC/2015" (AgInt no AREsp n. 2.590.320/SP, rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 15/8/2024).
+2. No tocante ao enunciado n. 7 da Súmula do STJ, exige-se que, além da contextualização do caso concreto, o recurso explicite as razões pelas quais se entende ser possível o conhecimento da pretensão sem a necessidade de se examinar os fatos e as provas dos autos.
+3. Agravo interno não conhecido. (AgInt no AREsp n. 2.172.770/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em7/10/2024, DJe de 14/10/2024.) (Grifei).
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
