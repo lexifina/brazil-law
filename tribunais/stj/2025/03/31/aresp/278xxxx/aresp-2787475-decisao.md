@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  por  BANCO  BRADESCO  S.A.  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+
+Extrai-se  dos  autos  que  o  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO  DE  MATO  GROSSO  cuja  ementa  guarda  os  seguintes  termos  (fls.  986-987 ):
+APELAÇÃO CÍVEL - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS - REJEIÇÃO DAS PRELIMINARES DE JULGAMENTO EXTRA PETITA, INÉPCIA DA INICIAL E CARÊNCIA DA AÇÃO - CONTRATO DE PRESTAÇÃO DE SERVIÇO - CONTRATO DE HONORÁRIOS AD EXITUM POR CONCLUSÃO DE ETAPAS PROCESSUAIS - RESCISÃO UNILATERAL IMOTIVADA PELO CONTRATANTE - SITUAÇÃO QUE NÃO OBSTA O ARBITRAMENTO JUDICIAL DE HONORÁRIOS PELOS SERVIÇOS ADVOCATÍCIOS EFETIVAMENTE PRESTADOS - VERBA HONORÁRIA FIXADA EM VALOR ADEQUADO - MANUTENÇÃO - RECURSOS DE AMBAS AS PARTES DESPROVIDO.
+1. Em ação de arbitramento de honorários advocatícios, é inidônea preliminar de "inépcia da inicial" e "carência de ação" arrimada na suposta existência de previsão de cláusula contratual a respeito da verba profissional devida para a hipótese versada. Inteligência arts. 267, VI, 269, I e II, e do art. 22, §2º, da Lei nº 8.906/1994.
+2. Segundo o STJ, "o fato de haver contrato escrito, com previsão de pagamento de parte dos honorários antecipadamente e parte em percentual sobre o êxito da ação, não retira o interesse na ação de (AgInt no AR Esp quando a avença é rescindida antecipadamente pelo contratante". arbitramento de honorários, n. 2.073.253/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, D Je de 18/8/2022.)
+3. Em ação de arbitramento de honorários advocatícios, deve o julgador se nortear, equitativamente, pela proporcionalidade, de acordo com as circunstâncias dos autos, tais como o zelo do profissional, o lugar da prestação do serviço, a complexidade da causa, o trabalho realizado pelo advogado, o tempo exigido para o serviço e, ainda, o valor econômico da questão (CPC, art. 85, §2º), analogicamente, do art. 22, §2º, da Lei nº 8.906/1994, e do princípio da razoabilidade.
+Rejeitados  os  embargos  de  declaração  opostos  (fls.  1.060-1.067).
+No  recurso  especial,  a parte recorrente alega,  preliminarmente,  ofensa  ao  art.  1.022  do  CPC,  porquanto,  apesar  da  oposição  dos  embargos  de  declaração,  o  Tribunal  de  origem  não  se  pronunciou  sobre  pontos  necessários  ao  deslinde  da  controvérsia,  especialmente  sobre a validade do contrato e a forma de remuneração em caso de rescisão (fls. 1.085-1.086).
+Aduz,  no  mérito,  que  o  acórdão  contrariou  a  disposição  contida  no  art.  22,  §  2º,  da  Lei  n.  8.906/1994 (Estatuto da OAB).
+Aponta  divergência  entre  o  entendimento  do  TJ/MT  e  o  do  Tribunal  de  Justiça  do  Mato  Grosso  do  Sul  (TJ/MS).
+Sustenta,  em  síntese,  que o TJ/MT desconsiderou cláusulas contratuais válidas que estipulavam a forma de pagamento de honorários de êxito, violando o princípio pacta sunt servanda e o disposto no §2º do art. 22 do Estatuto da OAB (fls. 1090-1096).
+Foram  oferecidas  contrarrazões  ao  recurso  especial  (fls. 1.191-1.202).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  1.225-1.235),  o  que  ensejou  a  interposição  do  presente  agravo.
+Apresentada  contraminuta  do  agravo  (fls. 1.293-1.304).
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+De início, n ão  há  falar  em  ofensa  ao  art.  1.022  do  CPC,  uma  vez  que  o  Tribunal  de  origem  deixou  claro  que  (fl. 1.000-1.004):
+Sucedeu, porém, que, em 19/11/2020, o Banco Bradesco rescindiu unilateralmente o contrato (cf. Id. nº 202875398 e 202875399), e, por conta disso, deixou de receber os honorários referentes ao trabalho prestado nas citadas lides executivas, daí o ajuizamento da presente ação de arbitramento de honorários advocatícios contratuais.
+ ..
+Deste modo, com a revogação o mandato, o advogado deixa de atuar na lide; portanto, não poderá envidar esforços para que o banco apelado seja vencedor ao final do processo, portanto, a sua remuneração fica sujeita ao êxito do serviço prestado por terceiro. Logo, conclui-se que o próprio Banco Apelante, ao revogar o mandato de forma imotivada, inviabilizou o implemento da condição que remuneraria o trabalho da Apelante, de modo que evidencia a legitimidade do Apelado para figurar no polo passivo da ação.
+Desta feita, muito embora tenha ocorrido pactuação acerca da forma de remuneração no período de vigência do contrato, não há previsão da forma de remuneração em caso de rescisão contratual unilateral e imotivada, porquanto as cláusulas acima citadas vinculam o pagamento ao término e sucesso da ação, e, não disciplinam a forma de pagamento quando da rescisão unilateral.
+ ..
+Portanto, demonstrado que a parte apelante/autora efetivamente prestou os serviços contratados e só não os concluiu porque teve o seu mandato revogado, é certo que faz jus aos honorários advocatícios, sendo necessária a aferição do valor por meio da competente ação de arbitramento de honorários, a luz do que prescreve o Art. 5º, XXXV da Constituição Federal.
+ ..
+Tem-se, portanto, que a rescisão unilateral e injustificada, como a realizada pelo Banco Bradesco na hipótese discutida nos autos, gera o direito do advogado ao recebimento dos honorários, mesmo que se trate de contrato com cláusula ad exitum ", o que não fere os princípios da liberdade de contratar, da força vinculativa do contrato, ou qualquer outro.
+Observa-se,  portanto,  que  a  lide  foi  solucionada  em  conformidade  com o  que  foi  apresentado  em  juízo.  Verifica-se  que  o  acórdão  recorrido  possui  fundamentação  suficiente,  inexistindo  omissão  ou  contradição.
+A  propósito,  cito  os  seguintes  precedentes:
+ADMINISTRATIVO  E  PROCESSUAL  CIVIL.  DANO  MORAL.  SUSPENSÃO  DO  FORNECIMENTO  DO  SERVIÇO  DE  ÁGUA  .  DEMORA  INJUSTIFICADA  NO  RESTABELECIMENTO  DO  SERVIÇO.  ARTS.  489,  §  1º,  E  1022,  II,  DO  CPC.  OMISSÃO  NÃO  CONFIGURADA.  DEVER  DE  INDENIZAR.  REQUISITOS  PARA  A  RESPONSABILIZAÇÃO  DA  CONCESSIONÁRIA.  ACÓRDÃO  ANCORADO  NO  SUBSTRATO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  7/STJ.  VALOR  DA  INDENIZAÇÃO.  EXCESSO  NÃO  CARACTERIZADO.
+1.  Cuida-se  de  ação  de  procedimento  ordinário  ajuizada  em  desfavor  de  SAMAR  -  Soluções  Ambientais  de  Araçatuba,  com  o  fim  de  obter  indenização  pelos  danos  morais  que  alega  ter  sofrido  com  suspensão  do  serviço  de  água  na  residência  da  autora.
+2.  Verifica-se,  inicialmente,  não  ter  ocorrido  ofensa  aos  arts.  489,  §  1º,  e  1.022,  II,  do  CPC,  na  medida  em  que  o  Tribunal  de  origem  dirimiu,  fundamentadamente,  as  questões  que  lhe  foram  submetidas  e  apreciou  integralmente  a  controvérsia  posta  nos  autos.
+ ..
+6.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.118.594/SP,  relator  Ministro  Sérgio  Kukina,  Primeira  Turma,  julgado  em  22/11/2022,  DJe  de  25/11/2022. Grifo  meu.)
+No  mérito,  maior  sorte  não  assiste  ao  recorrente.
+Nos  termos  da  jurisprudência  pacífica  do  STJ,  quando  a  revogação  do  mandato  ocorre  por  iniciativa  do  constituinte  (mandante),  é  facultado  ao  advogado  mandatário  propor  ação  de  arbitramento  judicial  dos  honorários  advocatícios  contratuais,  ainda  que  avençados  sob  a  cláusula  ad  exitum  (AgInt  no  AREsp  n.  338.397/RS,  relator  Ministro  Antonio  Carlos  Ferreira,  Quarta  Turma,  julgado  em  3/3/2020,  DJe  de  6/4/2020).
+No  mesmo  sentido,  cito  os  seguintes  precedentes:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  HONORÁRIOS  ADVOCATÍCIOS  CONTRATUAIS.  CLÁUSULA  DE  ÊXITO.  REVOGAÇÃO  DO  MANDATO  POR  INICIATIVA  DO  CONSTITUINTE  (MANDANTE).  AÇÃO  DE  ARBITRAMENTO.  POSSIBILIDADE.  PRECEDENTES.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Quando  a  revogação  do  mandato  ocorre  por  iniciativa  do  constituinte  (mandante),  é  facultado  ao  advogado  mandatário  propor  ação  de  arbitramento  judicial  dos  honorários  advocatícios  contratuais,  ainda  que  avençados  sob  a  cláusula  ad  exitum.  Precedentes.
+2.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015  não  é  automática,  porquanto  a  condenação  da  parte  agravante  ao  pagamento  da  aludida  multa  -  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada  -  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que  não  se  verifica  na  hipótese  examinada.
+3.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.382.957/SC,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  16/10/2023,  DJe  de  18/10/2023.)
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  ARBITRAMENTO  DE  HONORÁRIOS  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DO  DEMANDADO.
+1.  Nas  hipóteses  em  que  a  revogação  do  mandato  dá-se  por  iniciativa  do  constituinte  (mandante),  é  facultado  ao  advogado  mandatário  propor  ação  de  arbitramento  judicial  dos  honorários  advocatícios  contratuais,  ainda  que  avençados  sob  a  cláusula  ad  exitum.  Incidência  da  Súmula  83/STJ.
+2.  Não  cabe,  em  recurso  especial,  a  interpretação  de  cláusulas  contratuais  e  o  reexame  do  conjunto  fático-probatório  dos  autos,  a  teor  das  Súmulas  5  e  7/STJ.
+3.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  1279164/RS,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  26/11/2019,  DJe  de  27/11/2019)
+Dessarte,  estando  o  acórdão  recorrido  em  conformidade  com  a  jurisprudência  pacífica  desta  Corte,  aplica-se  ao  caso  o  entendimento  consolidado  na  Súmula  n.  83/STJ.
+Ademais,  os  argumentos  utilizados  pela  parte  recorrente  somente  poderiam  ter  sua  procedência  verificada  mediante  o  necessário  reexame  de  matéria  fático -probatória  e  interpretação  das  cláusulas  contratuais,  procedimentos  vedados  a  esta  Corte,  em  razão  dos  óbices  das  Súmulas  n.  5  e  7/STJ.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se.  Intimem-se.
+EMENTA
+  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE ARBITRAMENTO  JUDICIAL  DE  HONORÁRIOS  CONTRATUAIS.  CLÁUSULA  DE  ÊXITO.  REVOGAÇÃO  DO  MANDATO  POR  INICIATIVA  DO  CONSTITUINTE.  POSSIBILIDADE  DE  ARBITRAMENTO.  PRECEDENTES.  SÚMULA  N.  83/STJ.  REEXAME  DE  CLÁUSULAS  CONTRATUAIS.  SÚMULAS  N.  5  E  7  DO  STJ.  AGRAVO  CONHECIDO.  RECURSO  ESPECIAL  NÃO  CONHECIDO.
