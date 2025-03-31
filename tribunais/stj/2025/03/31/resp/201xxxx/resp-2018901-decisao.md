@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fl. 246):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXPEDIÇÃO DE MANDADO DE CONSTATAÇÃO. VERIFICAÇÃO DO FUNCIONAMENTO DA SOCIEDADE EMPRESÁRIA. PRECEDENTES DESTE TRIBUNAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Compete à exequente, antes de dar continuidade aos atos executivos, diligenciar para a verificação do encerramento irregular da sociedade empresária, não cabendo a expedição de mandado de constatação para verificação do regular funcionamento da pessoa jurídica executada. Precedentes.
+2. Agravo regimental não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 280/282).
+A parte recorrente alega violação aos seguintes artigos:
+(1) art. 1.022 do Código de Processo Civil (CPC) pois há "omissões quanto a dispositivos de lei federal e questões relevantes ao deslinde da controvérsia, sobretudo quanto ao fato de que a certidão do oficial de justiça, por ser ato público, por deter presunção de legitimidade, é o único meio pelo qual possa ser constatado se a empresa continua em atividade, e para tanto se possui bens" (fls. 291/292); e
+(2) arts. 1º e 6º, § 3º, da Lei 6.830/1980 c/c 440, 441, 442 e 443 do Código de Processo Civil de 1973 (CPC/1973) (atuais arts. 481 a 484 do CPC/2015) e 659, § 3º, do CPC/19 73 (art. 836 do CPC/2015) pois, considerando que "a confiabilidade da dissolução irregular da sociedade depende de diligência do Oficial de Justiça, por ser dotada de fé pública, torna- se necessária a expedição do mandado de constatação como único meio aceito pela jurisprudência para comprovar a dissolução irregular da sociedade" (fl. 297).
+Requer o provimento de seu recurso.
+A parte adversa apresentou contrarrazões (fls. 302/310).
+O recurso foi admitido na origem (fls. 322/326).
+É o relatório.
+A parte recorrente opôs embargos de declaração na origem com estes argumentos (fl. 263):
+À fl. 187v, o Oficial de Justiça deixou de penhorar bens da empresa executada por não localizar bens passíveis de penhora. Não deixou claro, contudo, se a não localização de bens da empresa executada se deveu ao fato de a mesma ter se dissolvido irregularmente.
+De posse de tal informação, a União requereu que fosse expedido mandado de constatação para que o oficial de justiça através de ato público detentor de presunção de legitimidade, possa ser constatado se a empresa continua em atividade, e para tanto possui bens (mesmo que impenhoráveis ou foi dissolvida irregularmente).
+Ao apreciar o recurso integrativo, o Tribunal de origem decidiu o seguinte (fl. 281):
+Os precedentes do e. Superior Tribunal de Justiça e desta Corte que arrimaram o julgado em debate, subsumem-se perfeitamente à questão tratada nos autos, qual seja, a impossibilidade de se exigir do Poder Judiciário a expedição de mandado de constatação, uma vez que a dissolução irregular da sociedade empresária é de exclusiva responsabilidade do exequente.
+Cabe salientar que o embargante invoca apenas razões que demonstram o seu inconformismo com o entendimento adotado pela Turma julgadora, restando evidente que sua pretensão limita-se à rediscussão da matéria, o que, entretanto, deve ser objeto do recurso apropriado.
+O Tribunal de origem decidiu em sentido contrário à pretensão da parte recorrente, entendendo que seriam de sua responsabilidade as diligências acerca da dissolução irregular da empresa.
+Inexiste a alegada violação do art. 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa ao dispositivo de lei invocado.
+A argumentação acerca da violação aos arts. 1º e 6º, § 3º, da Lei 6.830/1980, 440, 441, 442 e 443 do CPC/1973 foi alegada somente em embargos de declaração opostos perante o Tribunal de origem. Assim, a argumentação não deve prosperar uma vez que não foi alegada no momento oportuno, ocorrendo a preclusão consumativa; trata-se de inovação recursal.
+A propósito, cito os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A arguição da questão tida por omitida somente nos embargos de declaração e não nas contrarrazões de apelação, peça, no caso, sequer apresentada na origem, manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver negativa de prestação jurisdicional. Precedentes.
+2. Examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF.
+3. O reconhecimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.681.491/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024, sem destaque no original.)
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE AO ART. 1.022 DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. MATÉRIA SÓ AVENTADA NOS SEGUNDOS ACLARATÓRIOS. INOVAÇÃO RECURSAL, PRECLUSÃO CONSUMATIVA E AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA AOS ARTS. 203 DO CTN E 2º, §8º, DA LEI Nº 6.830/80. NULIDADE DA CDA RECONHECIDA NAS INSTÂNCIAS ORDINÁRIAS. PLEITO DE REVERSÃO. VIOLAÇÃO AO ART. 1.026, §2º, DO CPC. APLICAÇÃO DE MULTA DADO O CARÁTER PROTELATÓRIO DOS EMBARGOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. "A tese  ..  apresentada apenas quando da oposição dos segundos embargos de declaração, configura inadmissível inovação recursal e afasta a alegada omissão, não sendo possível sua análise também por ausência de prequestionamento". (EDcl nos EDcl no AgInt no REsp n. 1.852.349/RJ, rel. Min. Regina Helena Costa, Primeira Turma, DJe de 20/10/2021)
+2. "É inviável a oposição de novos embargos de declaração fundados em questões não suscitadas no primeiro recurso integrativo, porquanto atingidas pela preclusão consumativa". (EDcl nos EDcl no REsp n. 681.847/RJ, rel. Min. Marco Buzzi, Quarta Turma, DJe de 4/9/2014)
+3. "O STJ tem decidido reiteradamente que não cabe apreciar, em Recurso Especial, se a CDA que instrui a Execução Fiscal preenche os requisitos formais para instauração do feito, por demandar exame da matéria fático-probatória (Súmula 7/STJ)". (REsp n. 1.724.366/SP, relator Min. Herman Benjamin, Segunda Turma, DJe de 25/5/2018).
+4. "O afastamento da multa do art. 1.026, § 2º, do CPC, aplicada pelo tribunal de origem por considerar protelatórios os embargos de declaração opostos com a finalidade de rediscutir tema que já havia sido apreciado naquela instância, é inviável por demandar reexame de matéria fático-probatória, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ". (AgInt no AREsp n. 2.347.413/DF, rel. Min. João Otávio de Noronha, Quarta Turma, DJe de 16/10/2024).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.421.900/GO, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024, sem destaque no original.)
+A parte recorrente alegou violação ao art. 659, § 3º, do CPC/1973, uma vez que, "consoante o referido dispositivo legal, cumpre ao Oficial de Justiça, na hipótese de não encontrar quaisquer bens penhoráveis, descrever os bens que guarnecem a residência ou o estabelecimento do devedor" (fl. 298).
+O acórdão recorrido concluiu que (fl. 248):
+Assim, com fundamento na legislação de regência e amparado no entendimento desta Corte, compete à exequente, antes de dar continuidade aos atos executivos, diligenciar para a verificação do encerramento irregular da sociedade empresária, não cabendo a expedição de mandado de constatação para verificação do regular funcionamento da pessoa jurídica executada.
+Desse modo, considerando que as razões do regimental não infirmam a fundamentação da decisão agravada, a qual está em consonância com a jurisprudência do STJ e desta Corte, impõe-se a negativa de provimento ao recurso.
+Não é possível conhecer do recurso quanto ao ponto porque o dispositivo em questão não contém comando normativo capaz de infirmar a decisão recorrida que decidiu no sentido de ser responsabilidade da parte exequente diligenciar para verificar o regular funcionamento da empresa.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Ante o exposto, conheço em parte do recurso especial e, nessa parte, a ele nego pro vimento.
+Publique-se. Intimem-se.
+EMENTA
