@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. EXTENSÃO DO PROVEITO ECONÔMICO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 2. REFORMATIO IN PEJUS. LEGALIDADE. FALTA DE APONTAMENTO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Rever as conclusões quanto à extensão do proveito econômico aferido pela instância ordinária, demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n. 7 do STJ.
+2. Não foi indicado, de forma clara e precisa, os artigos tidos por contrariados a fim de se demonstrar a irresignação da parte ao que ficou decidido pelo Tribunal estadual, o que acarreta a aplicação da Súmula n. 284 do STF.
+3. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por MGW ATIVOS - GESTÃO E ADMINISTRAÇÃO DE CRÉDITOS FINANCEIROS LTDA. e MGW ATIVOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO PADRONIZADOS (MGW e outra), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do ilustre Relator FÁBIO PODESTÁ, assim ementado:
+AÇÃO DECLARATÓRIA - Sentença de parcial procedência - Réus que não se desincumbiram do ônus probatório de comprovar a contratação que teria dado ensejo à inscrição do nome do autor na plataforma "Serasa Limpa Nome" - APELAÇÃO DO RÉU - Preliminares afastadas - Interesse de agir configurado - Ilegitimidade passiva rejeitada ante a responsabilidade da ré pela cobrança da dívida - HONORÁRIOS ADVOCATÍCIOS - Aplicação do art. 85, §§ 2º c. c. art. 86, caput, ambos do CPC - Sentença reformada nesse ponto - RECURSO DO AUTOR - Inadmissibilidade - DANO MORAL - Inocorrência - Inscrição na ferramenta "Serasa Limpa Nome" que não é restrição desabonadora, tampouco integra o "Score" do autor - Precedente desta C. Câmara - Sucumbência recursal - art. 85, §§ 2º e 11 do CPC - RECURSO DO RÉU PROVIDO EM PARTE E DESPROVIDA A APELAÇÃO DO AUTOR.(e-STJ, fls. 246/251).
+Os embargos de declaração opostos por MGW e outra foram rejeitados (e-STJ, fls. 309/313).
+Nas razões do presente recurso, MGW e outra alegaram a violação dos arts. 85, § 2º, 982, I, do CPC, ao sustentarem que (1) os honorários advocatícios foram fixados de forma desproporcional, pois o proveito econômico obtido pelo autor foi de R$ 3.324,76 e não de R$ 332.476,38; (2) houve erro na aplicação do Tema n. 1.076 do STJ ao fixar os honorários sobre o valor da dívida e não da proposta de acordo inserida na plataforma de negociação; (3) a majoração dos honorários sucumbenciais configura reformatio in pejus, diante da ausência de recurso da parte interessada.
+Não foram apresentadas contrarrazões (e-STJ, fl. 316).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. EXTENSÃO DO PROVEITO ECONÔMICO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. 2. REFORMATIO IN PEJUS. LEGALIDADE. FALTA DE APONTAMENTO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Rever as conclusões quanto à extensão do proveito econômico aferido pela instância ordinária, demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n. 7 do STJ.
+2. Não foi indicado, de forma clara e precisa, os artigos tidos por contrariados a fim de se demonstrar a irresignação da parte ao que ficou decidido pelo Tribunal estadual, o que acarreta a aplicação da Súmula n. 284 do STF.
+3. Recurso especial não conhecido.
+VOTO
+(1) Da base de cálculo dos honorários advocatícios
+Como emana dos autos, THIAGO PEREIRA DOS REIS (THIAGO) interpôs a presente ação declaratória de inexistência de relação jurídica cumulada com indenização por danos morais, julgada parcialmente procedente, com a condenação solidária das corrés ao pagamento dos honorários advocatícios fixados em R$ 10% sobre o valor da causa (e-STJ, fls. 153/164).
+Interposta apelação por ambas as partes, o Tribunal de Justiça de São Paulo deu parcial provimento ao recurso de MGW e outra e negou provimento ao do THIAGO, repartindo as verbas sucumbenciais nos seguintes termos:
+Por fim, reconhecida a sucumbência recíproca, ratearão as partes na proporção de 30% (trinta por cento) para o autor e 70% (setenta por cento) entre as rés, as custas e despesas processuais (art. 86, caput, do CPC), além de verba honorária que fixo devida pelo autor em favor da ré/apelante em 15% (quinze por cento) sobre o valor atualizado da causa e, majorando-se os honorários advocatícios devidos ao autor para 10% (dez por cento) sobre o valor do benefício econômico (declaração de inexistência da dívida), já considerado o trabalho recursal, ficando ressalvada a gratuidade processual conferida ao autor (art. 85, §§ 2º e 11, do CPC). (e-STJ, fl. 251).
+Foi destacado ainda no julgamento dos embargos de declaração que:
+Cumpre ressaltar que o proveito econômico obtido com a presente demanda consiste na declaração de inexistência da dívida - cujo valor atual é de R$ 332.476,38 (fl. 15) -, e os honorários advocatícios foram fixados de acordo com os percentuais previstos no § 2º do art. 85 do CPC, atendendo, ainda, a jurisprudência do C. STJ conforme Tema 1076 (e-STJ, fl. 311)
+THIAGO interpôs o presente recurso especial com o objetivo central de impugnar o valor utilizado como base de cálculo dos honorários advocatícios, defendendo que o proveito econômico deve ser de R$ 3.324,76 (três mil, trezentos e vinte e quatro reais e setenta e seis centavos), correspondente à proposta de acordo inserida na plataforma de negociação, e não de R$ 332.476,38 (trezentos e trinta e dois mil, quatrocentos e setenta e seis reais e trinta e oito centavos), relacionado ao valor da dívida.
+Entretanto, rever as conclusões quanto à extensão do proveito econômico aferido pela instância ordinária demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n. 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO JULGADOS PROCEDENTES. RECURSO ESPECIAL MANEJADO PELA ALÍNEA "C". EQUÍVOCO NA INDICAÇÃO DA ALÍNEA FUNDAMENTADORA DO RECURSO. MITIGAÇÃO. POSSIBILIDADE. HONORÁRIOS SUCUMBENCIAIS. EXTENSÃO DO PROVEITO ECONÔMICO. REVISÃO. SÚMULA 7 DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Não é obstáculo ao conhecimento do recurso o fato de o recorrente ter interposto o recurso especial com fundamento na alínea "c", e fundamentado a insurgência na ofensa à lei federal, demonstrando ter apenas se equivocado na indicação da alínea fundamentadora do recurso"(REsp 1.661.120/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/05/2017, DJe de 16/05/2017).
+2. Consideradas as peculiaridades do caso concreto, a verificação da extensão do proveito econômico, apontado pelos agravantes como base de cálculo para os honorários sucumbenciais, implicaria desconstituir as conclusões adotadas pelo Tribunal de Justiça, com o reexame de matéria fático-probatória, contrariando o disposto na Súmula 7 do STJ.
+3. Agravo interno provido para, em nova análise, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.844.717/PE, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 13/12/2021, DJe de 16/12/2021)
+(2) Da proibição da reformatio in pejus
+O Tribunal paulista afastou referida tese por entender que a verba honorária é matéria de ordem pública, cognoscível de ofício (e-STJ, fls. 312).
+Com relação ao tema mencionado vale pontuar que, na via estreita do recurso especial, é exigível a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação de dispositivos infraconstitucionais tidos como contrariados ou a alegação genérica de ofensa a lei caracterizam deficiência de fundamentação, em conformidade com a Súmula n. 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Da leitura das razões do especial, verificou-se que MGW e outra não indicaram clara e precisamente os artigos tidos por contrariados a fim de se demonstrar sua irresignação ao que ficou decidido pelo Tribunal estadual, o que acarreta a aplicação do referido enunciado sumular.
+Sobre o tema, vejam-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF. INDENIZAÇÃO. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF.
+ ..
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.117.115/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022, sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AUSÊNCIA DE RESPONSABILIDADE DA ENDOSSATÁRIA. CONCLUSÃO FUNDADA EM FATOS E PROVAS. REVISÃO. SÚMULA 7/STJ. DESCABIMENTO DA MULTA. MONTANTE INDENIZATÓRIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.150.453/MG, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 9/11/2022, DJe de 18/11/2022, sem destaque no original)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 1% o valor dos honorários advocatícios anteriormente fixados em favor de THIAGO, limitados a 20%, nos termos do art. 85, § 11, do CPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
