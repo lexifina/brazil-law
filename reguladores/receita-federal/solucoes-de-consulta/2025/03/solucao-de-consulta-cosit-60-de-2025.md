@@ -1,0 +1,18 @@
+Solução de Consulta Cosit nº 60, de 27 de março de 2025
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. SOCIEDADE LIMITADA UNIPESSOAL (SLU). REDUÇÃO DO PERCENTUAL DE PRESUNÇÃO. APLICABILIDADE.
+Para fins de aplicação do percentual de presunção de 8% (oito por cento), a ser aplicado sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo do IRPJ, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002.
+Para fazer jus ao percentual de presunção referido, a prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa.
+A pessoa jurídica organizada sob a forma de Sociedade Limitada Unipessoal - SLU preenche o requisito de ser uma sociedade empresária se de fato exercer profissionalmente atividade econômica organizada para a produção ou circulação de bens ou serviços, de sorte a haver a necessária organização econômica da atividade empresarial, mediante alocação dos fatores de produção.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 19 DE ABRIL DE 2016.
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, "a" e 2º; IN RFB nº 1.700, de 2017, arts. 26, 33 e 215, caput; IN RFB nº 1.234, de 2012, art. 30 (com redação dada pela IN RFB nº 1.540, de 2015); Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52; Lei nº 10.406, de 2002 (Código Civil), arts. 966, 981, 982, 983 e 1.052; Lei nº 14.195, de 2021, art. 41.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+RESULTADO PRESUMIDO. SERVIÇOS HOSPITALARES. SOCIEDADE LIMITADA UNIPESSOAL (SLU). REDUÇÃO DO PERCENTUAL DE PRESUNÇÃO. APLICABILIDADE.
+Para fins de aplicação do percentual de presunção de 12% (doze por cento), a ser aplicado sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo da CSLL, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002.
+Para fazer jus ao percentual de presunção referido, a prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa.
+A pessoa jurídica organizada sob a forma de Sociedade Limitada Unipessoal - SLU preenche o requisito de ser uma sociedade empresária se de fato exercer profissionalmente atividade econômica organizada para a produção ou circulação de bens ou serviços, de sorte a haver a necessária organização econômica da atividade empresarial, mediante alocação dos fatores de produção.
+SOLUÇÃO DE CONSULTA VINCULADA PARCIALMENTE À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 19 DE ABRIL DE 2016 ).
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 20,III; IN RFB nº 1.234, de 2012, art. 30 (com redação dada pela IN RFB nº 1.540, de 2015); IN RFB nº 1.700, de 2017, arts. 26, 34 e 215, § 1º; Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52; Lei nº 10.406, de 2002 (Código Civil), arts. 966, 981, 982, 983 e 1.052; Lei nº 14.195, de 2021, art. 41.
+[arquivo anexo: SC Cosit nº 60-2025.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
