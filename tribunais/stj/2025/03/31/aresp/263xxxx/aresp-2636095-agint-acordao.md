@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS ADOTADOS PELA DECISÃO LOCAL QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico e individualizado, todos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial. Incidência da Súmula 182 do STJ. Nesse sentido: EAREsp 701.404/SC, Corte Especial, relator para o acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Ministério Público Federal desafiando a decisão de fls. 1.113/1. 114, que não conheceu do agravo em recurso especial, em razão de a parte recorrente não ter rebatido, de forma específica, todos os alicerces adotados pelo juízo negativo de admissibilidade, atraindo a incidência da Súmula 182 desta Corte Superior.
+Inconformada, a parte agravante sustenta que não é a hipótese de aplicação do referido óbice sumular, uma vez que atacou todos os fundamentos adotados no decisório agravado.
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 1.133).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS ADOTADOS PELA DECISÃO LOCAL QUE INADMITIU O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico e individualizado, todos fundamentos adotados pelo Tribunal de origem para inadmitir o recurso especial. Incidência da Súmula 182 do STJ. Nesse sentido: EAREsp 701.404/SC, Corte Especial, relator para o acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não pode ser acolhida.
+Como antes assentado no decisum, observa-se que o agravo em recurso especial não ultrapassa a barreira do conhecimento, pois a parte agravante não rebateu, de modo específico e individualizado, todos os motivos adotados pela decisão que inadmitiu o apelo especial, deixando de discorrer sobre a a incidência da Súmula 7/STJ.
+Nota-se, à fl. 989, que referido pilar restou não atacado:
+Inicialmente, quanto à tese referente à inaplicabilidade da teoria do fato consumado, melhor sorte não socorre ao recorrente, pois a revisão do entendimento adotado pelo órgão colegiado local demandaria da Corte Superior, de maneira inevitável, o revolvimento do suporte fático-probatório constante dos autos, providência para a qual não se presta o recurso especial, nos termos do enunciado sumular n. 7 do Superior Tribunal de Justiça, para o qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, a alegação genérica de que não é hipótese de incidência da Súmula 7/STJ não tem o condão de infirmar o juízo formulado pelo decisório agravado, o que atrai a incidência, por analogia, da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. RECURSO DESFUNDAMENTADO. SÚMULAS 283 E 284 DO STF. MATÉRIA CONSTITUCIONAL. SÚMULA 126 DO STF. INCIDÊNCIA. ART. 1.032 DO CPC. NÃO APLICAÇÃO. SÚMULA 7/STJ. REVOLVIMENTO DE FATOS E PROVAS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Não prospera a irresignação quanto à suposta violação do art. 1.022 do CPC, uma vez que o agravante limita-se a reafirmar, genericamente, que não foram apreciados alguns de seus argumentos, sem demonstrar, com transparência e precisão, qual seria a importância deles para o deslinde da controvérsia, e sem combater especificamente a decisão agravada. Incidência, na hipótese, das Súmulas 283 e 284 do STF.
+2. No tocante à aplicação do art. 1.032 do CPC ("Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional."), pois o Recurso Especial não versa sobre questão constitucional.
+3. A impugnação da Súmula 7 do STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele conferida e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída.
+4. O Recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário revolver o acervo fático-probatório dos autos para a análise da insurgência.
+5. A falta de arrazoado jurídico impugnativo congruente com os fundamentos do acórdão que embasam o Especial caracteriza argumentação deficiente a impossibilitar a compreensão exata da controvérsia, atraindo a Súmula 284/STF (AgInt no AREsp 1.308.166/MA, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 28.6.2019).
+6. Agravo Interno não provido.
+(AgInt no AREsp 2.371.208/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. SÚMULA 182/STJ. DECISÃO MONOCRÁTICA MANTIDA. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA NEGATIVA DE SEGUIMENTO. TEMA REPETITIVO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL. PROVIMENTO NEGADO.
+1. A decisão recorrida não conheceu do agravo em recurso especial em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 7 do Superior Tribunal de Justiça (STJ). Por conta disso, consignou-se a incidência, por analogia, da Súmula 182/STJ.
+2. Para ver examinado por esta Corte Superior seu recurso especial, a parte recorrente precisa, primeiro, desconstituir os fundamentos da decisão que não o admitiu, sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois não é admitida a impugnação tardia, com o objetivo de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+5. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, segundo preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182/STJ, aplicável por analogia.
+6. A mera afirmação de que o caso não demanda o reexame de fatos e provas ou então a menção às razões expostas no recurso especial não bastam para infirmar a incidência da Súmula 7/STJ. A jurisprudência do Superior Tribunal de Justiça (STJ) entende que, para comprovar a inaplicabilidade do enunciado sumular em questão, a parte agravante deve realizar o cotejo entre o acórdão recorrido e a tese recursal.
+7. Em nova análise do agravo interposto vê-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência da Súmula 182/STJ no presente caso.
+8. Não se cogita do princípio da fungibilidade recursal quando inexiste dúvida razoável acerca de qual recurso é cabível contra uma determinada decisão, uma vez que há previsão legal e robusta jurisprudência sobre a controvérsia. Portanto, é inequívoca a ocorrência de erro grosseiro.
+9. Agravo interno a que se nega provimento.
+(AgInt no AREsp 2.302.127/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 3/6/2024, DJe de 7/6/2024.)
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, ao julgar os EAREsps 701.404/SC e 831.326/SP, rel. Min. João Otávio de Noronha, rel. p/ acórdão Ministro Luis Felipe Salom ão, DJe de 30/11/20 18.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
