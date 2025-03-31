@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO PARA TRATAMENTO DOMICILIAR. INEXISTÊNCIA DE COBERTURA OBRIGATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. Segundo a jurisprudência desta Corte, é lícita a negativa de cobertura de medicamento para tratamento domiciliar que não se enquadre em nenhuma das hipóteses de cobertura determinadas pela Lei 9.656/1998. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por EDERLI VIOTTO, contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, ajuizada pelo recorrente em face de GEAP AUTOGESTAO EM SAUDE, na qual requer o custeio do medicamento "Prolia (Denosumabe) 60mg", a ser aplicado a cada seis meses, necessário ao tratamento de sua doença (osteoporose).
+Sentença: julgou parcialmente procedente o pedido para condenar a recorrida a custear o medicamento solicitado, bem como ao pagamento de R$ 1.164,65 (mil cento e sessenta e quatro reais e sessenta e cinco centavos) a título de danos materiais.
+Acórdão: deu provimento à apelação interposta pela recorrida, para julgar improcedentes os pedidos, nos termos da seguinte ementa:
+Apelação cível. Plano de saúde. Cobertura para medicamento Prolia, prescrito para tratamento de osteoporose. Danos morais e materiais. Sentença de procedência parcial. Recursos da paciente e da operadora. Preliminar. Reiteração de argumentos da contestação não impede o conhecimento do recurso. Argumentos relacionam-se com os fundamentos da sentença. Princípio da dialeticidade não violado. Preliminar rejeitada. Preliminar. Cerceamento de defesa. Perícia. Rejeição. Prova não requisitada no momento processual oportuno. Preclusão. Não há alegação de que a prescrição médica é inadequada; tampouco cabe ao perito indicar tratamentos alternativos eventualmente existentes no rol. Tarefa que cabe à ré. Mérito. RN 465/21 da ANS define que medicamento domiciliar é aquele "prescrito pelo médico assistente para administração em ambiente externo ao de unidade de saúde" (art. 17, VI). Esse é o caso dos autos. Medicamento injetável por via subcutânea, sem necessidade de supervisão de profissional de saúde. Aplicação pode ser feita pelo próprio paciente, conforme instruções da bula. Não há cobertura obrigatória para medicamentos de uso domiciliar, exceto antineoplásicos e os destinados a tratar os efeitos adversos do tratamento de câncer. Inteligência do Art. 10, VI da Lei 9656/98. Ausência de condições financeiras do paciente. Questão não é oponível às operadoras de plano de saúde. Interpretação analógica da exceção prevista na Lei 9656/98 descabida no caso dos autos. Autora não é portadora de doença grave. Tratamento envolve aplicações de custo relativamente alto, porém semestrais. Sentença reformada. Apelação da ré provida. Não provida apelação da autora.
+Recurso Especial: sustenta que o medicamento é de uso ambulatorial ou espécie de medicação assistida e que, portanto, não se trata de medicamento domiciliar. Afirma a existência de dissídio jurisprudencial, tendo em vista que o medicamento foi considerado de uso ambulatorial em acórdãos paradigmas, afastando, portanto, a incidência dos arts. 17, VI, da RN 465/21 da ANS e 10, VI, da Lei 9656/98.
+Decisão unipessoal: conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, em razão da incidência das Súmulas 7 e 568 do STJ, bem como da prejudicialidade da análise do dissídio jurisprudencial.
+Agravo interno: nas razões do presente recurso, aduz que a "operadora de plano de saúde não pode restringir o tipo de tratamento adequado, especialmente em casos de doenças graves, como a osteoporose, cujas complicações (como fraturas ósseas) representam risco elevado à vida do paciente." (e-STJ, fls. 584). Afirma que o medicamento se trata de solução injetável que necessita de intervenção de profissional habilitado para sua administração, o que afasta seu caráter domiciliar. Assevera que o medicamento tem registro na ANVISA e sua eficácia é comprovada por evidências científicas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO PARA TRATAMENTO DOMICILIAR. INEXISTÊNCIA DE COBERTURA OBRIGATÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. Segundo a jurisprudência desta Corte, é lícita a negativa de cobertura de medicamento para tratamento domiciliar que não se enquadre em nenhuma das hipóteses de cobertura determinadas pela Lei 9.656/1998. Precedentes.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno no recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por EDERLI VIOTTO, contra decisão que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, em razão da incidência das Súmulas 7 e 568 do STJ, bem como da prejudicialidade da análise do dissídio jurisprudencial.
+- Da ausência de obrigação de a operadora de plano de saúde custear medicamento para tratamento domiciliar
+Consoante asseverado na decisão agravada, as duas Turmas que compõem a Segunda Seção do STJ já decidiram que, independentemente da discussão a respeito da natureza do rol da ANS, "é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, 3ª Turma, julgado em 27/4/2021, DJe de 4/5/2021; e REsp 1.883.654/SP, 4ª Turma, julgado em 08/6/2021, DJe de 02/8/2021). Nesse mesmo sentido, colhe-se os seguintes precedentes: AgInt no AgInt no REsp 2.071.979/SP, 4ª Turma, DJe de 2/5/2024; AgInt no AgInt nos EDcl no AREsp 1.860.635/MS, 3ª Turma, DJe de 20/12/2023.
+Na hipótese dos autos, o TJ/BA aduz que se trata de medicamento de uso domiciliar, não listado no rol da ANS ou nas hipóteses legais de custeio, conforme se extrai (e-STJ, fls. 511/512):
+No mérito, a negativa está baseada na alegação de que o medicamento é domiciliar, bem como não consta no rol da ANS.
+Quanto ao primeiro ponto, a RN 465/21 da ANS define que medicamento domiciliar é aquele "prescrito pelo médico assistente para administração em ambiente externo ao de unidade de saúde" (art. 17, VI). Esse é o caso dos autos.
+Consultando a bula do medicamento Prolia (Fls. 340), verifica-se que se trata de substância injetável por via subcutânea e não requer a supervisão de profissional de saúde. Há, inclusive, instruções para autoadministração do medicamento. Ou seja, o próprio paciente pode fazer a aplicação sozinho.
+Assim sendo, a aplicação em farmácia, ou clínica, ocorre por escolha e conveniência do paciente e não desnatura a característica domiciliar do medicamento.
+Nos termos da lei 9656/98, não há cobertura obrigatória para medicamentos de uso domiciliar, exceto antineoplásicos e os destinados a tratar os efeitos adversos do tratamento de câncer (art. 10, VI).
+Como o medicamento Prolia destina-se a tratar osteoporose, a negativa da ré é legítima.
+O argumento de que a autora não tem condições financeiras de arcar com o tratamento não é oponível às operadoras de plano de saúde, vez que prestam serviço mediante pagamento e nos limites do contrato.
+É certo que, em algumas situações excepcionais, a Jurisprudência adota uma interpretação analógica do art. 10, VI da Lei 9656/98, para conceder a tutela a medicamentos não neoplásicos. Porém, no presente caso, essa interpretação não tem cabimento, vez que a autora não é portadora de doença grave, cuja definição está no art. 1.048, I do Código de Processo Civil.
+Com efeito, o entendimento adotado pelo Tribunal de Justiça de São Paulo está alinhado com a orientação desta Corte, levando à conclusão de que não há obrigação para a operadora do plano de saúde custear medicamentos de uso domiciliar que não estão listados no rol da ANS.
+Inafastável, portanto, a incidência da Súmula 568 do STJ.
+- Do reexame de fatos e provas
+Quanto à aplicação da Súmula 7/STJ, essa merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem acerca da constatação de que se trata de medicamento de uso domiciliar, não demandaria o reexame de fatos e provas.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+- Da divergência jurisprudencial
+Ademais, deve ser mantido o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei.
+Isso porque a Súmula 7/STJ também se aplica aos recursos especiais interpostos pela alínea "c", do permissivo constitucional. Nesse sentido: AgInt nos EDcl no AREsp 1041244/RJ, 4ª Turma, DJe de 22/11/2019; AgInt no AREsp n. 821.337/SP, 3ª Turma, DJe de 13/03/2017; e AgInt no AREsp n. 964.391/SP, 3ª Turma, DJe de 21/11/2016.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
