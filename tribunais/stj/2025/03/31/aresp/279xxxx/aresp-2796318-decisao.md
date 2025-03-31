@@ -1,0 +1,54 @@
+DECISÃO
+Na origem, Viação Motta Limitada impetrou mandado de segurança, com pedido de liminar, visando provimento mandamental que possibilite à impetrante limitar a base de cálculo das contribuições sociais destinadas a terceiros, previstas nos arts. 149 e 240 da Constituição Federal, incidentes sobre sua folha de salários, no percentual máximo de 20 (vinte) salários mínimos (art. 4º da Lei n 6.950/1981) e informando que está sujeita ao recolhimento das seguintes contribuições: Salário-Educação (FNDE), INCRA, SESC, SENAC e SEBRAE.
+O Magistrado de primeiro grau concedeu a ordem.
+A União interpôs apelação (e-STJ, fls. 137-150).
+SEST - Serviço Social do Transporte e SENAT - Serviço Nacional de Aprendizagem do Transporte então peticionaram nos autos buscando o deferimento para intervirem no feito como assistentes litisconsorciais da União ou assistentes simples, o que foi indeferido pelo Desembargador-Relator, em decisão monocrática (e-STJ, fls. 362-366).
+Interposto agravo interno, o Tribunal Regional Federal da 3ª Região negou-lhe provimento em acórdão assim ementado (fl. 455, e-STJ):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. SEST e SENAT. PEDIDO DE INGRESSO NA LIDE COMO TERCEIRO INTERESSADO. ASSISTÊNCIA. INTERESSE JURÍDICO. AUSÊNCIA. RECURSO DESPROVIDO.
+- Compete à Secretaria da Receita Federal do Brasil a fiscalização, arrecadação cobrança e recolhimento das contribuições devidas a terceiros. Inteligência dos artigos 2º e 3º da Lei n.º 11.457/07. - Na qualidade de destinatários dos recursos arrecadados, os agravantes têm apenas interesse econômico na demanda, mas não jurídico que autorize a sua admissão na relação processual.
+- Agravo interno desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 499-506, e-STJ).
+Nas razões do recurso especial (fls. 512-536, e-STJ), deduzido com base no art. 105, a e c, da Constituição Federal, SEST - Serviço Social do Transporte e SENAT - Serviço Nacional de Aprendizagem do Transporte apontaram, além de dissídio jurisprudencial, violação dos arts. 119, 124 e 996 do Código de Processo Civil de 2015.
+Sustentaram, em síntese, a necessidade de sua admissão no feito na condição de assistente litisconsorcial, considerando serem destinatários das receitas tributárias em discussão, que lhes servem para custeio e manutenção de suas atividades, e serão diretamente impactadas pela decisão proferida no processo no qual pretendem ingressar.
+Em juízo de admissibilidade (fls. 555-556, e-STJ), a corte de origem não admitiu o processamento do recurso especial ante a aplicação da Súmula 83/STJ, o que ensejou a interposição do presente agravo às fls. 564-581(e-STJ).
+Contraminuta às fls. 587-592 (e-STJ.
+Brevemente relatado, decido.
+No caso em estudo, a Corte de origem não reconheceu o interesse jurídico exigido pela lei processual civil para as entidades recorrentes figurarem na condição de assistentes litisconsorciais da União, de acordo com os seguintes fundamentos (e-STJ, fls. 450-453, sem destaques no original):
+Agravo interno interposto pelo SERVIÇO SOCIAL DO TRANSPORTE - e pelo, SEST SERVIÇO NACIONAL DE APRENDIZAGEM DO TRANSPORTE - SENAT (Id. 261192830) contra decisão que indeferiu seu pedido de intervenção no feito como assistente litisconsorcial da União (Id. 260570288).
+A partir da edição da Lei n. º 11.457/07, é de competência da Secretaria da Receita Federal do Brasil a fiscalização, arrecadação cobrança e recolhimento das contribuições devidas a terceiros, na forma dos artigos 2º e 3º, verbis:
+Art. 2º. Secretaria da Receita Federal, cabe à Secretaria da Receita Federal do Brasil planejar, executar, acompanhar e avaliar as atividades relativas a tributação, fiscalização, arrecadação, cobrança e recolhimento das contribuições sociais previstas nas alíneas a, b e c do parágrafo único do art. 11 da Lei n.º 8.212, de 24 de julho de 1991, e das contribuições instituídas a título de substituição. As atribuições de que trata o art. 2º desta Lei se estendem às
+Art. 3º. contribuições devidas a terceiros, assim entendidas outras entidades e fundos, na forma da legislação em vigor, aplicando-se em relação a essas contribuições, no que couber, as disposições desta Lei.
+Assim, na qualidade de destinatárias dos recursos arrecadados, as instituições têm apenas interesse econômico na demanda, mas não jurídico que autorize a sua admissão no polo passivo da ação, de maneira que a legitimidade passiva pertence à União. Nesse sentido:
+ ..
+Correta, portanto, a decisão agravada. A legislação apontada (Lei nº 11.457/2007, Lei nº 8.706/93, art. 7º, inc. I, e §1º, CPC, arts. 119, par. único, e 124) não afasta referido entendimento.
+Com efeito, a Primeira Seção desta Corte Superior, no julgamento do EREsp 1.619.954/SC, firmou o entendimento de que "não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico- tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica".
+Confira-se:
+PROCESSUAL CIVIL, FINANCEIRO E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇOS SOCIAIS AUTÔNOMOS. DESTINAÇÃO DO PRODUTO. SUBVENÇÃO ECONÔMICA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA.
+1. O ente federado detentor da competência tributária e aquele a quem é atribuído o produto da arrecadação de tributo, bem como as autarquias e entidades às quais foram delegadas a capacidade tributária ativa, têm, em princípio, legitimidade passiva ad causam para as ações declaratórias e/ou condenatórias referentes à relação jurídico-tributária.
+2. Na capacidade tributária ativa, há arrecadação do próprio tributo, o qual ingressa, nessa qualidade, no caixa da pessoa jurídica.
+3. Arrecadado o tributo e, posteriormente, destinado seu produto a um terceiro, há espécie de subvenção.
+4. A constatação efetiva da legitimidade passiva deve ser aferida caso a caso, conforme a causa de pedir e o contexto normativo em que se apoia a relação de direito material invocada na ação pela parte autora.
+5. Hipótese em que não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica.
+6. Embargos de divergência providos para declarar a ilegitimidade passiva ad causam do SEBRAE e da APEX e, por decorrência do efeito expansivo, da ABDI.
+(EREsp 1.619.954/SC, Rel. Ministro Gurgel de Faria, Primeira Seção, DJe 16.4.2019)
+Nessa linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRIBUIÇÃO AO SISTEMA "S". HIGIDEZ DA COBRANÇA. QUESTIONAMENTO JUDICIAL. ILEGITIMIDADE DAS ENTIDADES DESTINATÁRIAS. PRECEDENTES.
+1. Não há ofensa ao art. 1.022 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe foram submetidas e aprecia integralmente a controvérsia posta nos autos.
+2. A hodierna jurisprudência do STJ é no sentido de que "não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica" (EREsp 1.619.954/SC, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 10/04/2019, DJe 1º/07/2019).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.509.165/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. SERVIÇOS SOCIAIS AUTÔNOMOS. DISCUSSÃO ACERCA DA INEXIGIBILIDADE. ILEGITIMIDADE PASSIVA. SÚMULA 83/STJ.
+1. O Agravo Interno não procede.
+2. Está fixado no acórdão que o caso em comento trata de ação na qual se discute a legitimidade passiva das partes para figurar em ações que questionem a "inexigibilidade das contribuições às terceiras entidades sobre verbas indenizatórias" (fl. 1.269, e-STJ).
+3. Em nenhum momento, portanto, a questão cuida de "legitimidade ativa do SENAI para arrecadar, fiscalizar e cobrar a contribuição que lhe é devida" (fl. 1.829, e-STJ, grifou-se), como se argumenta no Agravo Interno.
+4. Assim, como realçado anteriormente, a irresignação não procede, pois no EREsp 1.619.954/SC, a Primeira Seção do STJ firmou a compreensão de que "não se verifica a legitimidade dos serviços sociais autônomos para constarem no polo passivo de ações judiciais em que são partes o contribuinte e o/a INSS/União Federal e nas quais se discutem a relação jurídico-tributária e a repetição de indébito, porquanto aqueles (os serviços sociais) são meros destinatários de subvenção econômica". Incidência da Súmula 83/STJ.
+5. "A orientação das Turmas que compõem a Primeira Seção deste Tribunal Superior firmou-se no sentido de que as atividades referentes à tributação, à fiscalização, à arrecadação, à cobrança e ao recolhimento das contribuições sociais vinculadas ao INSS (art.
+2º da Lei n. 11.457/2007), bem como as contribuições destinadas a terceiros e fundos, tais como SESI, SENAI, SESC, SENAC, SEBRAE, INCRA, APEX, ABDI, consoante a expressa previsão contida no art. 3º da referida norma, foram transferidas à Secretaria da Receita Federal do Brasil, órgão da União, cuja representação, após os prazos estipulados no seu art. 16, ficou a cargo exclusivo da Procuradoria-Geral da Fazenda Nacional para eventual questionamento quanto à exigibilidade das contribuições, ainda que em demandas que têm por objetivo a restituição de indébito tributário. Precedentes:
+AgInt nos EDcl no Ag 1.319.658/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 9/3/2017; AgInt no REsp 1.605.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2016." (REsp 1.698.012/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe 18.12.2017).
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.070.652/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/9/2022, DJe de 5/12/2022.)
+Assim, estando o acórdão recorrido em consonância com o entendimento deste Tribunal Superior a respeito da matéria, não há razões para a sua alteração, incidindo, na espécie, a Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. SERVIÇOS SOCIAIS AUTÔNOMOS. DESTINAÇÃO DO PRODUTO. SUBVENÇÃO ECONÔMICA. LEGITIMIDADE PASSIVA AD CAUSAM. LITISCONSÓRCIO. INEXISTÊNCIA. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
