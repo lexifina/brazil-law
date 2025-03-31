@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MORA DOS ADQUIRENTES. INEXISTÊNCIA. APLICAÇÃO DA LEI N. 9.514/1997. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, "em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor" (Recursos Especiais n. 1.891.498/SP e 1.894.504/SP, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 26/10/2022, DJe 19/12/2022). Precedentes
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por DRS INCORPORADORA SPE 04 LTDA (DRS) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL (TERRENO) COM PACTO DE ALIENAÇÃO FIDUCIÁRIA. DESFAZIMENTO DO AJUSTE POR DESINTERESSE DA COMPRADORA. AUTORA NÃO CONSTITUÍDA EM MORA. PREVALÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA APLICAÇÃO DA LEI ESPECIAL (ARTS. 26 E 27 DA LEI Nº 9.514/97). REFORMA DO ENTENDIMENTO. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 294).
+Nas razões do presente inconformismo, repisando os argumentos trazidos nas razões recursais, alegou que há entendimento diverso sobre o tema e que a reanálise do caso não demandaria reexame de fatos e provas.
+Não houve impugnação ao recurso (e-STJ, fl. 314).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MORA DOS ADQUIRENTES. INEXISTÊNCIA. APLICAÇÃO DA LEI N. 9.514/1997. DESCABIMENTO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, "em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor" (Recursos Especiais n. 1.891.498/SP e 1.894.504/SP, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 26/10/2022, DJe 19/12/2022). Precedentes
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, quanto à aplicação da Lei n. 9.514/1997, o entendimento adotado pelo Tribunal local consignou ser inviável a aplicação da Lei n. 9.514/1997, pois, no presente caso, a ora recorrida não foi validamente constituída em mora, não tendo, assim, ocorrido a consolidação da propriedade em favor da recorrente, nos seguintes termos:
+II.2. Definida pelo Superior Tribunal de Justiça a tese jurídica de aplicação obrigatória, nos termos do art. 927, inciso III, do Código de Processo Civil, análise dos contornos fáticos e a dinâmica contratual indicam que é caso de preservar a solução dada ao impasse em primeiro grau, tendo em vista que o caso concreto não se enquadra nas hipóteses em que é afastada a incidência do Código de Defesa do Consumidor.
+A tese jurídica do Tema nº 1.095 foi fixada nos seguintes termos:
+"Em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor".
+É diversa, porém, a situação das partes, de sorte a obstar a aplicação do precedente qualificado. É que, na situação em exame, não se tem notícias de que fora encaminhada notificação para constituir a apelada em mora antes de efetivada a citação da ré nestes autos.
+Portanto, uma vez que a apelada não foi validamente constituída em mora, não ocorreu a consolidação da propriedade em favor da apelante. Por isso, não tem aplicação a Lei nº 9.514/97, mas sim o Código de Defesa do Consumidor.
+ ..
+É oportuno destacar que a tutela antecipada deferida na origem teve âmbito restrito à suspensão de cobranças de parcelas vincendas e à abstenção de inscrição do nome da autora em cadastro de inadimplentes. Nada foi então deliberado acerca da constituição em mora (fls. 105/106).Assim, a partir das diretrizes estabelecidas pelo Superior Tribunal de Justiça, em precedente qualificado, é cabível a aplicação ao caso dos ditames do Código de Defesa do Consumidor, dada a ausência de constituição da autora em mora antes do ajuizamento da ação e a relação de consumo existente entre as partes.
+II.3. Nesses termos, descabe cogitar de aplicação irrestrita do princípio pacta sunt servanda, cuja mitigação é autorizada pela legislação consumerista se verificadas abusividade na conduta do fornecedor e onerosidade excessiva imposta ao consumidor.
+Não há óbice, portanto, à rescisão do contrato por ato de vontade da compradora, mediante restituição parcial dos valores pagos a título de preço pelo imóvel, tendo em vista que a retenção de parte do que foi pago é admitida e se justifica para que haja ressarcimento de despesas administrativas e demais gastos tidos pela vendedora, conforme entendimento sedimentado por este E. Tribunal de Justiça
+(e-STJ, fl. 259/261 - sem destaques no original).
+Nesse contexto, o Tribunal local estaria em conformidade com a jurisprudência da Segunda Seção do STJ, firmada na sistemática dos recursos repetitivos no sentido de que, "em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor" (Recursos Especiais n. 1.891.498/SP e 1.894.504/SP, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 26/10/2022, DJe 19/12/2022). Precedentes. Incidindo, assim, a Súmula n. 83 do STJ.
+Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA NO CONTRATO DE COMPRA E VENDA. REQUISITOS. REEXAME. SÚMULA N. 7/STJ.
+1. O STJ no julgamento do Tema n. 1095 firmou a seguinte tese: "Em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor".
+2. Na hipótese dos autos, o Tribunal de origem afastou a aplicação da lei de alienação fiduciária, aplicando o Código de Defesa do Consumidor à espécie por entender que não houve mora dos devedores e os requisitos da referida lei não foram satisfeitos, em especial a notificação dos devedores.
+3. Rever as conclusões adotadas pelo tribunal de origem para afastar a incidência do CDC demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável devido à Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.079.045/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/5/2024, DJe de 22/5/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE COMPRA E VENDA COM GARANTIA EM ALIENAÇÃO FIDUCIÁRIA. CDC. APLICAÇÃO. CONSTITUIÇÃO EM MORA. REGISTRO. ACOLHIMENTO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O entendimento do tribunal de origem está em consonância com a jurisprudência desta Corte no sentido de que quando o devedor não for constituído em mora e quando não houver registro do contrato de compra e venda de imóvel com garantia de alienação fiduciária deve ser afastado o regime especial da Lei nº 9.514/1997, aplicando-se o Código de Defesa do Consumidor.
+2. Rever a conclusão firmada pelas instâncias ordinárias, a partir da tese de que a devedora foi constituída em mora e de que a garantia está devidamente registrada na matrícula do imóvel, demandaria a análise de fatos, de provas e de cláusulas contratuais, o que é inviável no recurso especial pela incidência das Súmulas nºs 5 e 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.647.833/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/10/2024, DJe de 17/10/2024)
+Ademais, rever a conclusão firmada da constituição em mora e de que a garantia está devidamente registrada demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. ESCRITURA PÚBLICA. RESCISÃO. INADIMPLÊNCIA. VENDEDOR. CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ARTS. 26 E 27 DA LEI Nº 9.514/1997. INAPLICABILIDADE. MORA DA CONSTRUTORA. SÚMULAS NºS 5 E 7/STJ.
+1. O Superior Tribunal de Justiça firmou entendimento no sentido de que a existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts.
+26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+2. Alterar as conclusões do acórdão, para afastar o entendimento de que houve mora da empresa agravante, demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.413.284/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/9/2024, DJe de 12/9/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA NO CONTRATO DE COMPRA E VENDA. REQUISITOS. REEXAME. SÚMULA N. 7/STJ.
+1. O STJ no julgamento do Tema n. 1095 firmou a seguinte tese: "Em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor".
+2. Na hipótese dos autos, o Tribunal de origem afastou a aplicação da lei de alienação fiduciária, aplicando o Código de Defesa do Consumidor à espécie por entender que não houve mora dos devedores e os requisitos da referida lei não foram satisfeitos, em especial a notificação dos devedores.
+3. Rever as conclusões adotadas pelo tribunal de origem para afastar a incidência do CDC demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável devido à Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt nos EDcl no REsp n. 2.079.045/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 20/5/2024, DJe de 22/5/2024)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
