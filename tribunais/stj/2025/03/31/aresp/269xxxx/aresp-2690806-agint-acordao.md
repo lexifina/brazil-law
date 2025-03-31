@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, aplicando ao caso analogicamente a Súmula n. 182 do STJ por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+2. A agravante defende a inaplicabilidade da Súmula n. 182 do STJ, alegando ter impugnado especificamente todos os fundamentos utilizados para a inadmissão do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a parte agravante impugnou especificamente todos os fundamentos da decisão que inadmitira o recurso especial, de modo a afastar a aplicação da Súmula n. 182 do STJ.
+III. RAZÕES DE DECIDIR
+4. A decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, conforme entendimento da Corte Especial do STJ.
+5. A agravante não impugnou especificamente e adequadamente os fundamentos da decisão denegatória do recurso especial referente às Súmulas n. 83 do STJ e 284 do STF.
+6. A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu no caso em análise.
+7. Para afastar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência do Superior Tribunal de Justiça, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não ocorreu.
+IV. DISPOSITIVO E TESE
+8 . Agravo interno desprovido.
+Tese de julgamento: "A decisão de inadmissibilidade do recurso especial deve ser impugnada em sua integralidade, sob pena de aplicação da Súmula n. 182 do STJ."
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022; STJ, AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022; EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018; STJ, AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022; STJ, AgInt no AREsp n. 1.475.222/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2019; STJ, AgInt no AREsp n. 1.999.923/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022.
+RELATÓRIO
+HAPVIDA ASSISTÊNCIA MÉDICA S.A. interpõe agravo interno contra a decisão de fls. 1109-1113, que não conheceu do agravo em recurso especial ante a incidência da Súmula n. 182 do STJ.
+Nas razões do presente recurso, a agravante sustenta que, nas razões do agravo em recurso especial, demonstrou a impugnação específica de todos os fundamentos da decisão monocrática que inadmitiu o recurso especial.
+Afirma que indicou a inaplicabilidade da Súmula n. 83 do STJ, pois o acórdão recorrido não está em consonância com a jurisprudência do STJ e da Súmula n. 7 do STJ, por não pretender o reexame de provas.
+Requer, assim, seja reconsiderada a decisão agravada ou seja o agravo julgado pelo colegiado.
+As contrarrazões não foram apresentadas, conforme a certidão de fl. 1.167.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, aplicando ao caso analogicamente a Súmula n. 182 do STJ por ausência de impugnação específica de todos os fundamentos da decisão agravada.
+2. A agravante defende a inaplicabilidade da Súmula n. 182 do STJ, alegando ter impugnado especificamente todos os fundamentos utilizados para a inadmissão do recurso especial.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a parte agravante impugnou especificamente todos os fundamentos da decisão que inadmitira o recurso especial, de modo a afastar a aplicação da Súmula n. 182 do STJ.
+III. RAZÕES DE DECIDIR
+4. A decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, conforme entendimento da Corte Especial do STJ.
+5. A agravante não impugnou especificamente e adequadamente os fundamentos da decisão denegatória do recurso especial referente às Súmulas n. 83 do STJ e 284 do STF.
+6. A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu no caso em análise.
+7. Para afastar a incidência da Súmula n. 83 do STJ, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência do Superior Tribunal de Justiça, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não ocorreu.
+IV. DISPOSITIVO E TESE
+8 . Agravo interno desprovido.
+Tese de julgamento: "A decisão de inadmissibilidade do recurso especial deve ser impugnada em sua integralidade, sob pena de aplicação da Súmula n. 182 do STJ."
+Dispositivos relevantes citados: CPC, art. 932, III; RISTJ, art. 253, parágrafo único, I.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022; STJ, AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022; EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018; STJ, AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022; STJ, AgInt no AREsp n. 1.475.222/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2019; STJ, AgInt no AREsp n. 1.999.923/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022.
+VOTO
+O recurso não merece prosperar.
+O recurso especial foi inadmitido devido à incidência da Súmulas n. 83 do STJ, por estar em conformidade com a jurisprudência do STJ, quanto à cobertura de tratamento após o e ntendimento firmado no EREsp n. 1.889.704/SP e no EREsp 1.886.929/SP, e na Lei n. 14.454/2022.
+A ora agravante interpôs agravo em recurso especial contra decisão do Tribunal a quo, do qual não se conheceu do recurso por concluir que a parte deixara de impugnar o referido fundamento.
+Conforme bem pontuado na decisão ora agravada, a parte agravante não contestou adequadamente o fundamento da decisão que inadmitira o recurso especial, na medida em que, no agravo em recurso especial, limitou-se a defender a inaplicabilidade da Súmula n. 83 do STJ, aduzindo razões dissociadas da demanda - "entendimento de que a cláusula contratual que prevê prazo de carência utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência" (fl. 1.022), deixando de refutar especificamente o óbice imposto à admissão do recurso.
+Não obstante a alegação aduzida neste agravo interno, a argumentação constante do agravo em recurso especial não constitui impugnação específica da aplicação da Súmula n. 83 do STJ, pois, segundo o entendimento do Superior Tribunal de Justiça, é necessária a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial é inaplicável ao caso ou foi superado pela jurisprudência desta Corte, colacionando-se precedentes contemporâneos ou supervenientes, ou de que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da referida súmula, o que não foi feito pela parte agravante.
+Nesse sentido: AgInt no AREsp n. 2.072.074/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 23/6/2022, DJe de 2/8/2022; AgInt no AREsp n. 1.475.222/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 28/10/2019, DJe de 30/10/2019; AgInt no AREsp n. 1.999.923/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022, DJe de 26/9/2022.
+Além disso, a aplicação da Súmula n. 284 do STF - por não ter sido demonstrado de forma clara e específica como o acórdão teria violado o art. 405 do CC - também não foi refutada, uma vez que, nas razões do agravo em recurso especial, limitou-se a afirmar que o óbice teria sido imposto pois "a Operadora não especificou qual lei foi violada para justificar a interposição do recurso constitucional denegado", e que, no recurso especial, indicou os "Art. 12, V, "b" da Lei nº 9.656/1998; Art. 35-C, § único da Lei nº 9.656/1998; Art. 10, § 4º da Lei nº 9.656/1998; Art. 2º da Lei nº 9.961/2000; Art. 3º da Lei nº 9.961/2000; Art. 51 e 54, § 3º do CDC; Art. 16, VI da Lei nº. 9656/1998; Art. 186, 187 e 188, I do CC/2002; Art. 944 do CC/2002; Art. 405 do CC/2002".
+De igual modo, deixou de impugnar de forma específica a Súmula n. 7 do STJ, pois limitou-se a alegar, de forma genérica, que a pretensão do recurso era a análise da ofensa aos arts. 10, § 4º, 12, V, b, 16, VI, 35-C, parágrafo único, da Lei n. 9.656/1998; 2º e 3º da Lei n. 9.961/2000; 51 e 54, § 3º, do CDC; 186, 187 e 188, I, do CC/2002 e 405 do CC/2002, quando o óbice foi imposto na decisão de inadmissibilidade do recurso especial em relação à indenização por danos morais, pois para afastar a configuração do ato ilícito e a ocorrência ou não de dano moral seria necessário o reexame de provas.
+A alegação apontada nas razões do agravo em recurso especial e reiteradas nesse agravo interno não são suficientes para a impugnação do referido óbice.
+Como destacado na decisão agravada caberia à agravante, no agravo em recurso especial, demonstrar que a análise da tese jurídica referente à indenização por danos morais não demandaria reexame de fatos e provas dos autos, o que definitivamente não ocorreu.
+O entendimento do STJ, é no sentido de que "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias" (AgInt no AR Esp n. 1.969.273/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/12/2021, D Je de 16/12/2021).
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Portanto, a parte agravante não logrou êxito em demonstrar situação superveniente que justificasse a alteração da decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
