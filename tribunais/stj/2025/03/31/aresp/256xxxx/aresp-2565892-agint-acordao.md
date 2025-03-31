@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. INOVAÇÃO RECURSAL. VEDAÇÃO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE. LEI LOCAL. EXAME. INVIABILIDADE.
+1. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+2. Há manifesta ausência de prequestionamento, a atrair a aplicação das Súmulas 211 do STJ e 282 do STF, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada aos dispositivos de lei supostamente violados, mesmo após opostos embargos de declaração.
+3. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+4. Infirmar o entendimento alcançado pela Corte local demandaria análise de legislação estadual, o que é incabível em recurso especial, nos termos da Súmula 280 do STF.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RINALDO DARCIEL BORELLI contra decisão proferida às e-STJ fls. 846/849, em que conheci do agravo para não conhecer do recurso especial, considerando a incidência das Súmulas 282 e 284 do STF e 7 e 211 do STJ.
+A parte agravante alega, em síntese, que não se aplicam os referidos óbices sumulares, pois existiram questões omissas no acórdão recorrido, houve prequestionamento das teses recursais, e a questão de fundo é exclusivamente de direito.
+Impugnação às e-STJ fls. 874/879.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. INOVAÇÃO RECURSAL. VEDAÇÃO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE. LEI LOCAL. EXAME. INVIABILIDADE.
+1. É vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa.
+2. Há manifesta ausência de prequestionamento, a atrair a aplicação das Súmulas 211 do STJ e 282 do STF, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada aos dispositivos de lei supostamente violados, mesmo após opostos embargos de declaração.
+3. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+4. Infirmar o entendimento alcançado pela Corte local demandaria análise de legislação estadual, o que é incabível em recurso especial, nos termos da Súmula 280 do STF.
+4. Agravo interno desprovido.
+VOTO
+Impende consignar que a tese da parte agravante, particularizando as questões supostamente omissas pelo acórdão recorrido, não pode ser analisada no presente agravo interno.
+Nas razões recursais do agravo interno, a parte recorrente sustenta que o Tribunal de origem foi omisso quanto às teses de que (a) "o ora agravante figurou expressamente como substituído processual na lista anexada à ação coletiva, ainda durante a fase de conhecimento, sem qualquer insurgência tempestiva pelo devedor, não sendo possível o acolhimento da pretensão da parte recorrida na fase de liquidação/cumprimento da sentença, por estar preclusa essa faculdade processual, nos termos do inciso VI do art. 535 do CPC"; e (b) "ofensa à coisa julgada, eis que, em revista ao título executivo, verifica- se claramente que apenas um único critério subjetivo foi fixado para que o substituído processual possa ser beneficiado com a coisa julgada coletiva, qual seja, ser filiado ao SINDIRETA/DF, sem qualquer limitação de ordem espacial ou temporal, sendo evidente a legitimidade ativa da parte requerente, e, assim, por força do transporte in utilibus da coisa julgada coletiva para o plano individual (art. 103, §3º, do CDC), devem ser obrigatoriamente observadas, sob pena de afronta ao disposto nos arts. 505, caput, 507, 508 e 509, §4º, do CPC" (e-STJ fl. 859).
+Contudo, em relação ao ponto, a parte ora agravante somente alegou nas razões do apelo nobre que, "se, o que se admite apenas para argumentar, o acórdão que julgou os embargos de declaração não apreciou por completo os temas recursais ventilados, principalmente quanto a não observância dos comandos normativos presentes nos arts. 103, §3º, 505, caput, 507, 508, 509, §4º, 535, VI, todos do CPC, impõe-se sua anulação, ante à afronta ao disposto no art. 1.022, II, do CPC, (..)" (e-STJ fl. 766).
+Assim, em nenhum momento os ora agravantes discutiram a omissão sobre as teses acima expostas no recurso especial.
+Esta Corte tem o entendimento de que é defeso examinar em sede de agravo interno argumentos não suscitados oportunamente pelas partes nas razões recursais, dada a inovação recursal e a preclusão consumativa. Nesse sentido, merecem destaque julgados desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO ACERCA DE DISPOSITIVO SUSCITADO NO AGRAVO INTERNO. CONFIGURAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. EMBARGARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Nas razões dos presentes aclaratórios, sustenta-se que a decisão embargada deixou de se manifestar acerca do art. 374, II e III, do CPC, suscitado no agravo interno. O dispositivo de fato não foi analisado na decisão embargada.
+2. Entretanto, da leitura do recurso especial, verifica-se que o art. 374, II e III, do CPC não foi alvo das razões recursais. Dessa forma, a alteração da argumentação apenas em sede de agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+3. Embargos de declaração acolhidos sem efeitos modificativos. (EDcl no AgInt no AREsp n. 2.099.824/RS, rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe de 19/12/2022). (Grifos acrescidos).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. OCORRÊNCIA. DILIGÊNCIAS INFRUTÍFERAS. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. INOVAÇÃO DE TESE RECURSAL EM AGRAVO INTERNO. EXAME. IMPOSSIBILIDADE
+1. O Superior Tribunal de Justiça tem entendido que "requerimentos para realização de diligências que se mostraram infrutíferas em localizar o devedor ou seus bens não suspendem nem interrompem o prazo de prescrição intercorrente."
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre a interrupção da prescrição demanda o reexame de fatos e provas, o que é vedado no âmbito do recurso especial. Súmula 7/STJ.
+3. Nos termos da jurisprudência desta Corte, "é vedada a inovação recursal no âmbito do agravo interno, mediante o suscitar de questão não ventilada no apelo especial, haja vista a preclusão consumativa" (AgInt nos EDcl no REsp n. 1.949.934/MG, relator Ministro Gurgel de Faria, Primeira Turma, DJe 3/10/2022).
+4. Agravo interno improvido. (AgInt no AREsp n. 1.909.848/PR, rel. Ministro BENEDITO GONÇALVES, Primeira Turma, DJe de 30/11/2022). (Grifos acrescidos).
+Quanto às demais alegações, verifico que a pretensão não pode ser conhecida, diante da ausência de prequestionamento da matéria suscitada.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente.
+Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 do STF e 211 do STJ:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 211 - Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Impende registrar que no recurso especial a alegação de nulidade do acórdão recorrido por violação do art. 1.022 do CPC/2015 foi deficiente, circunstância que obsta a aplicação do prequestionamento ficto previsto no art. 1.025 do CPC/2015. A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. É inadmissível Recurso Especial quanto à questão (art. 21, parágrafo único, do CPC/1973) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. De acordo com a jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+3. Ademais, o acórdão hostilizado consignou que a matéria devolvida na Apelação voluntária do ente público era restrita à discussão: a) quanto ao caráter confiscatório da multa, e b) da perda de interesse processual, depois da superveniência de lei local que reduziu a multa de 200% para 100%. Assim, ao negar provimento à Apelação e manter "incólumes todos os termos da sentença guerreada" (fl. 159, e-STJ), a Corte regional dá a entender que a divisão equânime dos encargos sucumbenciais fora definida já na sentença do juízo de primeiro grau, sem impugnação no recurso voluntário interposto pelo ente público - situação que gera preclusão contra o ente fazendário.
+4. Recurso Especial não conhecido. (REsp 1.812.100/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2019, DJe 17/06/2019) (Grifos acrescidos).
+Além disso, o Tribunal de origem, ao analisar a controvérsia, assentou que (e-STJ fl. 720):
+ ..
+Ocorre que, com a vigência da Lei Distrital 117/90, os dispositivos da Lei Distrital 38/89 foram revogados, e em obediência à nova política de reajuste salarial por aquela fixada, os servidores passaram a ter acréscimos remuneratórios de acordo com sua respectiva data-base.
+Impende salientar que, com o reajuste concedido a todos os servidores, ocorrido em 1º de janeiro de 1991, presumem-se zeradas as perdas salariais ocorridas no período de vigência da Lei Distrital 38/89.
+Assim, considerando que os reajustes salariais posteriores à Lei Distrital 117/90 abarcaram eventuais perdas advindas durante a vigência da Lei Distrital 38/89, o pedido de incorporação, ao salário do autor, dos percentuais referentes à inflação do período de abril a julho de 1990 não merece acolhida.
+Não se pode falar em direito adquirido à incorporação se a legislação que previu os reajustes sequer estava em vigor no momento da admissão do referido servidor. Em outros termos, a Lei Distrital 38/89 apenas teve eficácia no período de sua vigência, incidindo sobre os servidores em exercício e cessando seus efeitos com a sua revogação.
+Com efeito, revogada a Lei Distrital 38/89 pela Lei Distrital 117, de 23 de julho de 1990, os servidores que ingressaram no serviço público após esta data não possuem direito aos reajustes salariais concedidos àqueles que já se encontravam em exercício.
+Afinal, não se afigura possível admitir, perpetuamente, a incorporação às remunerações futuras de reflexos inflacionários anteriores, mormente porque outros reajustes salariais concedidos posteriormente já compensaram eventuais perdas.
+Entender-se de modo diverso acarretaria evidente bis in idem, na medida em que o Poder Público se veria obrigado a pagar retroativamente aos servidores todas as perdas salariais decorrentes do Plano Collor, as quais foram recompostas e abarcadas por aumentos posteriores.
+Dessa forma, correta a sentença ao extinguir o feito sem julgamento de mérito, por carência de ação, em relação ao autor que à época dos fatos narrados não havia ingressado no serviço público local.
+Pois bem. A verificação dos limites do título executivo não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ. Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO COLETIVA AJUIZADA PELO SINDICATO DOS TRABALHADORES FEDERAIS EM SAÚDE, TRABALHO E PREVIDÊNCIA NO ESTADO DO RIO DE JANEIRO - SINDPREV/RJ. ALCANCE DO TÍTULO EXECUTIVO RESTRITO ÀS PESSOAS DA CATEGORIA DOS TRABALHADORES DA PREVIDÊNCIA SOCIAL. ILEGITIMIDADE DA REQUERENTE VINCULADA AO MINISTÉRIO DA SAÚDE. ACÓRDÃO RECORRIDO EM SINTONIA COM O ATUAL ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. CONCLUSÕES ALCANÇADAS PELO ÓRGÃO JULGADOR QUANTO À COISA JULGADA. ALTERAÇÃO. IMPOSSIBILIDADE. REEXAME DOS FATOS E PROVAS CONSTANTES NOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. Ademais, ainda que assim não fosse, para alterar as conclusões alcançadas pelo órgão julgador quanto à coisa julgada, acolhendo-se as alegações recursais, seria necessário o reexame dos fatos e provas constantes nos autos, o que é vedado na via eleita ante a incidência da Súmula 7/STJ.
+4. Agravo Interno não provido. (AgInt no REsp 2.086.059/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. MANDADO DE SEGURANÇA COLETIVO. EXTENSÃO A TODA A CATEGORIA. PRECEDENTES. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. A revisão do entendimento do Tribunal de origem, no que se refere aos limites subjetivos da coisa julgada, a fim de afastar a conclusão pela legitimidade do servidor, ora agravado, demandaria necessariamente o reexame do conteúdo fático-probatório dos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.349.224/TO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 4/3/2024, DJe de 7/3/2024).
+Além disso, infirmar o entendimento alcançado pela Corte local demandaria análise de legislação estadual, incabível em recurso especial, nos termos da Súmula 280 do STF.
+Por fim, embora não merecedor de acolhimento, o agravo interno, não caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não d eve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
