@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE USUCAPIÃO EXTRAORDINÁRIO. ALEGAÇÃO DE NULIDADE NA INTIMAÇÃO DA AUTORA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 489 e 1.022 do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Maria Cristina Moreira Bárbara, em face da decisão de fls. 1.895/1.899, por meio da qual neguei provimento ao agravo em recurso especial, ao fundamento de ausência de violação aos artigos 489 e 1.022 do Código de Processo Civil, bem como pela incidência da Súmula 7/STJ.
+Nas razões do recurso, sustenta, em síntese, que "o que se pretende discutir com o apelo especial é a existência de omissões e contradição no Acórdão exarado pelo TJPR sobre as circunstâncias relativas à ausência de intimação da Agravante para que se manifestasse acerca da sentença. O reexame do acervo fático-probatório dos autos é absolutamente desnecessário para esse fim. De qualquer forma, o acórdão exarado em sede de apelação, complementado pela decisão dos aclaratórios subsequentemente interpostos, descreve todas as circunstâncias relevantes para o julgamento do pleito veiculado pelo recurso especial da Agravante. Nessa decisão, foram explicitadas as circunstâncias relativas (i) à ausência de intimação pessoal da Agravante; (ii) à (suposta) intempestividade da apelação por ela interposta; e (iii) à existência de litisconsórcio ativo" (fl. 1.908).
+Impugnação ao recurso às fls. 1.915/1919.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE USUCAPIÃO EXTRAORDINÁRIO. ALEGAÇÃO DE NULIDADE NA INTIMAÇÃO DA AUTORA. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 489 e 1.022 do Código de Processo Civil.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O presente recurso não merece prosperar.
+Cumpre reproduzir a decisão agravada, que segue mantida por seus próprios fundamentos:
+Trata-se de agravo interposto por Maria Cristina Moreira Barbara contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 1.540):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA E USUCAPIÃO EXTRAORDINÁRIO - SENTENÇA QUE JULGA IMPROCEDENTE A PRETENSÃO INICIAL - ALEGAÇÃO DE NULIDADE NA INTIMAÇÃO DA AUTORA MARIA CRISTINA MOREIRA BARBARA - INTIMAÇÕES FEITAS DURANTE O TRÂMITE PROCESSUAL APENAS EM NOME DO AUTOR JOSÉ DUQUE BARBARA, O QUAL POSSUI O MESMO ADVOGADO CONSTITUÍDO DA APELANTE - AUSÊNCIA DE PREJUÍZO - MANIFESTA INTEMPESTIVIDADE DO APELO - AUSÊNCIA DE PREENCHIMENTO DO REQUISITO EXTRÍNSECO DA TEMPESTIVIDADE - NÃO CONHECIMENTO. RECURSO DE APELAÇÃO NÃO CONHECIDO.
+Opostos embargos de declaração, foram eles julgados, sendo proferido o seguinte acórdão (fl. 1.613):
+EMBARGOS DE DECLARAÇÃO 1 E 2. JULGAMENTO CONJUNTO. AÇÃO DECLARATÓRIA DE NULIDADE DE ESCRITURA PÚBLICA E REGISTRO IMOBILIÁRIO C/C INDENIZATÓRIA POR DANOS MORAIS, CANCELAMENTO DE DÍVIDA E RECONHECIMENTO DE USUCAPIÃO. IMPROCEDÊNCIA NA ORIGEM. ED 1. OMISSÃO NO TOCANTE À FIXAÇÃO DOS HONORÁRIOS RECURSAIS. VÍCIO CONSTATADO E SANEADO. PEDIDO DE FIXAÇÃO DE MULTA. NÃO ACOLHIDO. AUSÊNCIA DE CARÁTER PURAMENTE PROTELATÓRIO. ED 2. APELAÇÃO INTERPOSTA PELA AUTORA. NÃO CONHECIDA POR INTEMPESTIVIDADE. ALEGAÇÕES DE OMISSÃO E DE CONTRADIÇÃO. AUSÊNCIA DE INTIMAÇÃO. ARGUIÇÃO DE NULIDADE. REQUERENTES LITISCONSORTES QUE DEVERIAM TER SIDO INTIMADOS DE TODOS OS ATOS DO PROCESSO. TESES NÃO ACOLHIDAS. LITISCONSORTES QUE POSSUEM O MESMO PROCURADOR CONSTITUÍDO NOS AUTOS. AUSÊNCIA DE PREJUÍZO. PRETENSÃO DE REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. DESCABIMENTO. APLICAÇÃO DO ART. 1025 DO CPC. EMBARGOS DE DECLARAÇÃO 1 ACOLHIDO, COM EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO 2 REJEITADO.
+Nas razões do recurso especial, interposto com fundamento no artigo 105, III, "a", da Constituição Federal, a parte ora agravante aponta violação aos artigos 113, 117,118, 272, §§ 2º, 3º, 8º, 489, § 1º, e 1.022 do Código de Processo Civil, ao argumento de que questões relevantes não foram decididas pelo Tribunal de origem quando do julgamento dos embargos de declaração e, ainda, que o processo é nulo, pois não foi intimada acerca dos atos processuais, sendo irrelevante o fato de que possui o mesmo advogado dos demais litisconsortes, afirmando, também, que referida nulidade foi arguida oportunamente, "razão pela qual é imperiosa a reforma do acórdão para declarar nula a intimação da Recorrente e a consequente tempestividade do recurso de apelação interposto".
+Contrarrazões às fls. 1.849/1.858 e 1.860/1.865.
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+O Tribunal de origem, ao analisar a demanda, adotou os seguintes fundamentos para o julgamento da controvérsia, in verbis:
+Preliminarmente, os autores/apelantes alegam a nulidade da intimação expedida após a decisão que julgou os embargos de declaração, porquanto houve a intimação somente do autor José Duque Barbara. Em contrapartida, os requeridos alegam a intempestividade do recurso de apelação interposto pelos requerentes.
+Pois bem, da leitura atenta dos autos, depreende-se que a parte autora é composta do litisconsórcio entre José Duque Barbara e Maria Cristina Moreira Barbara, os quais são representados pelo mesmo patrono, Dr. Altimar Pasin de Godoy.
+Durante o trâmite processual, observa-se que as intimações foram expedidas em nome apenas do autor José Duque Barbara, na pessoa de seu advogado Altimar Pasin de Godoy.
+A exemplo desta prática observa-se a intimação da sentença parcial de mérito prolatada no mov. 99.1, em que a intimação foi expedida apenas em nome do autor José Duque Barbara (mov. 101) e o ato cumprido pela parte (mov. 104), com a interposição de Agravo de Instrumento em nome de ambos os autores (mov. 113.1).
+Desse modo, na espécie, as intimações não foram expedidas em nome da autora Maria Cristina Moreira Barbara, o que não impediu a requerente de se manifestar nos autos, através de seu patrono constituído.
+Sabe-se que a irregularidade formal na expedição de intimações não resulta em nulidade dos atos processuais por ser passível de saneamento, mas está sujeita a preclusão, se não alegada em momento imediatamente posterior a primeira oportunidade de se falar aos autos.
+Sobre a nulidade relativa e o momento para sua arguição dispõe o art. 278 do Código de Processo Civil:
+Art. 278. A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.
+Acerca da necessidade das alegações das nulidades processuais sanáveis serem feitas no primeiro momento em que se fala aos autos, é a jurisprudência do Superior Tribunal de Justiça:
+(..)
+Nota-se que os autores deixaram durante o processo de levantar a questão da irregularidade das intimações feitas em nome somente do autor José Duque Barbara, trazendo a arguição apenas nesta oportunidade.
+Não fosse isso, verifica-se que a autora Maria Cristina Moreira Barbara possui o mesmo advogado do autor José Duque Barbara, o qual foi devidamente intimado dos atos processuais e, por conta disso, teve seu direito ao contraditório e ampla defesa garantidos.
+Portanto, inexistindo prejuízos à autora no decorrer do trâmite processual, e em obediência o princípio do pas de nullité sans grief não cabe neste momento alegar a nulidade relativa, ao passo que não o fez na primeira oportunidade a falar nos autos, estando preclusa a questão.
+No mais, deve ser analisada a alegação de intempestividade do presente recurso arguida pelos réus em contrarrazões do apelo.
+De acordo com o disposto no § 5º do artigo 1.003 do Código de Processo Civil, o prazo para a interposição dos recursos é 15 (quinze) dias, : in verbis
+(..)
+No caso, a contagem do prazo para a interposição do recurso de apelação contra a sentença que julgou os embargos de declaração iniciou-se em 04/10/2021 (segunda-feira), vez que a leitura da intimação direcionada ao autor José Duque Barbara ocorreu em 1º/10/2021 (sexta-feira) (mov. 318).
+Nesta senda, o recurso de apelação deveria ter sido protocolado até o dia 26/10/2021, considerando que houve feriado de Nossa Senhora de Aparecida no dia 12 de outubro e a suspensão do expediente forense, no âmbito do Judiciário paranaense, em 11 de outubro, Decreto Judiciário nº 597/2020 do TJPR.
+Portanto, tendo em vista que o apelo dos autores somente foi protocolizado em 27/10/2021 (mov.323.1) evidente a sua intempestividade, circunstância que obsta o exame do mérito da pretensão recursal.
+Desta feita, tendo em vista que não há que se falar em nulidade da intimação, bem como ante a interposição extemporânea do presente apelo, não há que se conhecer do recurso.
+Desse modo, não há que falar em violação aos artigos 489 e 1.022 do Código de Processo Civil, quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+É certo que o Juiz não está obrigado a responder a todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundamentar a decisão, nem se obriga a ater-se aos fundamentos por elas indicados, tampouco a responder um a um a todos os seus argumentos. Nesse sentido: "não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte" (AgInt no AREsp 629.939/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 19/6/2018).
+Ademais, fica claro que a revisão das premissas adotadas no acórdão recorrido demandaria, necessariamente, o reexame de fatos e provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ, que, por si só, inviabiliza o recurso especial.
+Nesse sentido são os seguintes julgados desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO E DECLARATÓRIA DE RESTITUIÇÃO DE VALORES, COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DA OBRA. CULPA DO VENDEDOR. RESTITUIÇÃO INTEGRAL. SÚMULA 83/STJ. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO NÃO CONFIGURADA. REEXAME DE PROVA. SÚMULA 7/STJ. JUROS DE MORA. TERMO INICIAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. (..)
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que houve inadimplemento contratual por parte da vendedora, e que não ficou configurada a pretensão de devolução dos valores relativos à comissão de permanência. A modificação de tal entendimento demandaria a interpretação de cláusulas contratuais e o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. É vedado à parte inovar suas razões recursais em sede de agravo interno, trazendo novas questões não suscitadas oportunamente em sede de recurso especial, tendo em vista a configuração da preclusão consumativa.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.119.524/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 5/6/2023, DJe de 13/6/2023.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO SUFICIENTE. OMISSÃO. INEXISTÊNCIA. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. SÚMULA 385/STJ. PREEXISTÊNCIA DE ANOTAÇÃO LEGÍTIMA. HARMONIA DO JULGADO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7 DO STJ.
+1. Se as questões trazidas a julgamento foram decididas, pelo Tribunal de origem, mediante fundamentação clara e suficiente, sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos arts. 489, § 1º, inciso IV, e 1.022, incisos I e II, do Código de Processo Civil.
+2. (..)
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83/STJ).
+4. Inviável, em recurso especial, reexaminar matéria fático-probatória. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.954.442/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 9/5/2022, DJe de 12/5/2022.)
+Ademais, não se trata de mera revaloração da matéria, mas de afastar as premissas fáticas delineadas, claramente, pelo Tribunal quanto à controvérsia levada ao seu exame, que não se resume à simples análise de alegada violação a dispositivo de lei federal.
+Desse modo, fica claro que alterar ou interpretar de outra forma a conclusão a que chegou o Tribunal de origem demandaria, necessariamente, o reexame de fatos e provas, o que é inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Ademais, conforme já destacado, não se trata de mera revaloração da matéria, mas de se afastar as premissas fáticas delineadas pelo Tribunal quanto à controvérsia levada ao seu exame.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
