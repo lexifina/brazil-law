@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DO DEMANDADO.
+1. A concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Precedentes.
+1.1. A conclusão a que chegou o Tribunal de origem, relativa à ausência de prova da precariedade do quadro financeiro da pessoa jurídica, a impossibilitar o deferimento da gratuidade de justiça, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+2. Os óbices que impedem o conhecimento do apelo extremo pela alínea "a" do permissivo constitucional também obstam pela "c". Precedentes.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por AMAZONAS INDUSTRIA E COMERCIO LTDA, em face da decisão acostada às fls. 826-829, e-STJ, da lavra da Presidência deste STJ, que conheceu do agravo para não conhecer do recurso especial.
+O agravo (art. 1.042 do CPC) foi interposto contra decisão que não admitiu recurso especial. O apelo extremo, fundamentado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 698, e-STJ):
+AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO PELA QUAL FORAM INDEFERIDOS BENEFÍCIOS DA GRATUIDADE REQUERIDOS PELA AGRAVANTE, O QUE SE DEU EM APRECIAÇÃO DE RECURSO DE APELAÇÃO - ALEGAÇÃO DE INCORREÇÃO, COM PEDIDO DE REFORMA MANUTENÇÃO DA R. DECISÃO, PORQUE ADEQUADA AO CASO EM ANÁLISE - GRATUIDADE A PESSOA JURÍDICA NECESSÁRIA DEMONSTRAÇÃO DA INCAPACIDADE FINANCEIRA INSUFICIENTE COMPROVAÇÃO DE QUE NÃO CONTA COM CONDIÇÕES DE ARCAR COM OS CUSTOS INERENTES AO PROCESSO JUDICIAL APLICAÇÃO DA SÚMULA Nº 481, NOS MOLDES EM QUE EDITADA PELO C. STJ - INSUFICIENTE DEMONSTRAÇÃO DE QUE NÃO CONTA A RECORRENTE COM CONDIÇÕES DE ARCAR COM AS DESPESAS PROCESSUAIS, CIRCUNSTÂNCIA QUE IMPEDE, INCLUSIVE, O ACOLHIMENTO DA PRETENSÃO DIRECIONADA AO DIFERIMENTO NO RECOLHIMENTO MANUTENÇÃO DA DECISÃO COMO PROFERIDA - RECURSO NÃO PROVIDO.
+A parte recorrente aponta violação aos arts. 98 e § 7º do art. 99 do Código de Processo Civil. Sustenta, em síntese, a necessidade de concessão do benefício da gratuidade de justiça, considerando a situação financeira delicada da empresa, agravada pela pandemia de COVID-19, e a aplicação dos princípios da função social e preservação da empresa.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao agravo (fls. 787-794, e-STJ).
+A decisão monocrática de fls. 826-829, e-STJ conheceu do agravo para não conhecer do recurso especial em virtude do óbice da Súmula 7/STJ.
+Então o presente agravo interno (fls. 833-841, e-STJ) por meio do qual o insurgente busca a reforma do pronunciamento singular, aduzindo, em síntese, que não incide o referido óbice na espécie.
+Impugnação às fls. 844-849, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+INSURGÊNCIA DO DEMANDADO.
+1. A concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Precedentes.
+1.1. A conclusão a que chegou o Tribunal de origem, relativa à ausência de prova da precariedade do quadro financeiro da pessoa jurídica, a impossibilitar o deferimento da gratuidade de justiça, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+2. Os óbices que impedem o conhecimento do apelo extremo pela alínea "a" do permissivo constitucional também obstam pela "c". Precedentes.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de derruir a fundamentação expedida no decisum monocrático.
+1. O Tribunal local indeferiu o benefício da gratuidade de justiça à insurgente em virtude desta não ter demonstrado os requisitos para tanto, conforme se verifica do seguinte excerto (fls. 770-773, e-STJ):
+Diante do quanto exposto, é certo que os documentos juntados a fls. 643/669 do feito principal, se mostram insuficientes para tanto, por outro lado, indicam que a recorrente se encontra em plena atividade, inexistindo quaisquer indícios de que não conte a inconformada com condições de arcar com os custos da demanda, isto porque, seguramente, não basta para tanto a simples presença de indicativos de dívidas e/ou protestos, ou mesmo a pretensiosa alegação de que a pandemia que assola a humanidade prejudicou o normal desenvolvimento de suas atividades.
+Não bastasse o quanto exposto, é caso de se acrescentar também, o fato de que a inconformada além de contar com patrimônio expressivo, participa de diversas empresas, inclusive em outros países, conforme constou da Decisão recorrida, valendo anotar ainda que eventual deferimento da benesse agora pranteada por outro Juízo não se mostra suficiente para vincular o acolhimento da pretensão deduzida nos presentes autos, sendo fato, ademais, que existem diversos julgados pelos quais resultaram indeferidos os benefícios igualmente pretendidos pela agravante, e por conseguinte bem se ajustam ao posicionamento adotado nos autos por este Relator.
+ ..
+Diante do quanto exposto, não se mostram presentes, muito menos atendidos elementos que permitam concluir pela impossibilidade do recolhimento das custas e despesas, notadamente porque dispõe o art. 5º, inc. LXXIV, da Constituição Federal de 1988, que a assistência jurídica integral e gratuita deve ser, apenas e tão somente concedida aos que comprovarem que não contam com recursos financeiros que lhes permitam, ao mesmo tempo, subsistir e demandar, o que não resultou comprovado nos autos.
+Superado esse primeiro tópico, e no que se refere ao pedido direcionado ao diferimento das custas, é de se dizer que igualmente não comporta acolhida a insurgência como apresentada pela inconformada, pois como já destacado, inexiste nos autos suporte probatório a alegada incapacidade financeira, repita- se, ainda que momentânea, de sorte a que esteja a recorrente impedida de arcar com custas e despesas processuais, incapacidade esta que, caso demonstrada, poderia funcionar como elemento autorizador do diferimento pretendido, o que se tem em atenção aos termos do quanto vem definido pelo artigo 5º, "caput", da Lei Estadual 11.608/2003.
+O entendimento exposto pela Corte local está em sintonia com a jurisprudência deste STJ, atraindo o óbice da Súmula 83/STJ, senão vejamos:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DESERÇÃO DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+ ..
+3. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+4. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência vedada nesta instância, nos termos da Súmula 7/STJ.
+5. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+6. Agravo interno provido para conhecer do recurso especial e negar-lhe provimento.
+(AgInt no REsp n. 2.149.406/AC, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Corroborando este entendimento: AgInt no AREsp n. 2.593.630/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024; AgInt no AREsp n. 2.472.813/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 1/7/2024, DJe de 2/8/2024.
+Ainda, para derruir as conclusões expostas pela Corte local - no sentido da não demonstração da precariedade da situação financeira da pessoa jurídica - seria imprescindível o revolvimento do acervo fático-probatório, providência vedada pelo óbice da Súmula 7 do STJ. Citem-se: AgInt no AREsp n. 2.709.209/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024; AgInt no AREsp n. 2.593.630/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 26/8/2024, DJe de 28/8/2024.
+Portanto, não prospera a insurgência em virtude dos óbices das Súmulas 7 e 83 do STJ.
+2. Os óbices que impedem o conhecimento do apelo extremo pela alínea "a" do permissivo constitucional também obstam pela "c". Precedentes: AgInt no AREsp n. 2.437.988/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024; AgInt no REsp n. 1.940.930/SE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024; AgInt no AREsp n. 2.365.401/RO, relator Ministro Humberto Martins, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.
+É de rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
