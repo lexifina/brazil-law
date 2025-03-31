@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.NEG
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. DÍVIDA PRESCRITA. COBRANÇA EXTRAJUDICIAL. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração do entendimento consignado pela c. Câmara julgadora no sentido que teria ocorrido uma cobrança abusiva pela recorrida não seria possível sem incursão no acervo fático-probatório enfeixado nos autos. Assim, impossível a admissão do presente recurso, por expressa vedação contida na Súmula 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por OSWALDO GALVÃO ANDERSON JUNIOR e GIGANTE DA SERRA OGAJ SUPER POSTO LTDA (OSWALDO e GIGANTE) contra decisão de relatoria da Ministra Presidente desta Corte, que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7 do STJ.
+Nas razões do presente inconformismo, OSWALDO e GIGANTE defenderam que a matéria discutida não demanda reexame de provas, mas sim uma análise de direito, especificamente sobre a violação dos artigos 85, §2º, do CPC e 43, §1º, do CDC. Alegaram que o acórdão recorrido incorreu em erro ao aplicar o princípio da causalidade, pois a ação foi motivada pela prática abusiva da recorrida.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. DÍVIDA PRESCRITA. COBRANÇA EXTRAJUDICIAL. SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração do entendimento consignado pela c. Câmara julgadora no sentido que teria ocorrido uma cobrança abusiva pela recorrida não seria possível sem incursão no acervo fático-probatório enfeixado nos autos. Assim, impossível a admissão do presente recurso, por expressa vedação contida na Súmula 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece acolhida.
+Na origem, OSWALDO e GIGANTE ajuizaram ação declaratória de inexigibilidade de débito contra ATIVOS S/A SECURITIZADORA DE CRÉDITOS FINANCEIROS (ATIVOS), a qual foi julgada parcialmente procedente, para "declarar a prescrição da dívida atinente ao contrato de nº 60600778, com vencimento em 17/08/2005, bem como sua inexigibilidade, e ainda, para condenar a ré na remoção do registro de tais dívidas de seus bancos de dados, no prazo de 48 (quarenta e oito horas), ficando, ainda, vedada a cobrança dos débitos impugnados, seja judicialmente, seja extrajudicialmente" (e-STJ, fls. 214).
+Inconformada, ATIVOS interpôs recurso de apelação para inverter os ônus sucumbenciais, com base no princípio da causalidade, argumentando que OSWALDO e GIGANTE deram causa à ação.
+O Tribunal de Justiça do Distrito Federal e Territórios deu provimento ao recurso, sob o fundamento de que "não restou demonstrada a cobrança da dívida judicialmente ou por meios administrativos abusivos, o nome não chegou a ser negativado e não houve medidas legais para fins de recebimento do suposto débito" (e-STJ, fls. 355). Confira-se:
+In casu, o autor apelado relatou ser proprietário de uma fazenda onde cria vacas nelore, e ao solicitar um financiamento do tipo FCO - Fundo do Centro Oeste - junto ao Banco do Brasil, lhe foi informado que o processo de financiamento não poderia ter seguimento em face de uma pendência com o Banco do Brasil (ID 58947678 - Pág. 5).
+Realizadas buscas no sistema de computadores do Banco do Brasil, foi apontada uma pendência financeira do Gigante da Serra, transferida via cessão de direitos para a ré-apelante, todavia o autor apelado não reconheceu a dívida, e alegou a prescrição, pois a pendência financeira é de agosto de 2005.
+Na contestação apresentada (ID 58947705) a Ativos S. A. ora apelante relatou ter adquirido onerosamente do Banco do Brasil S. A., mediante contrato de cessão de direitos, crédito de diversos devedores daquela instituição financeira amparada na Resolução CMN/Banco Central do Brasil nº 2686 de 26.01.2000 e art. 286 e seguintes do Código Civil Brasileiro (ID 58947706).
+(..)
+Desse modo, o autor- apelado deverá arcar com as despesas processuais, conforme o princípio da causalidade, pois buscou o conforto pessoal de obter uma sentença declaratória com o fim de reconhecer a prescrição. Todavia, não houve abusividade na cobrança, não sendo necessário o ajuizamento.
+Em suas razões de recurso especial, OSWALDO e GIGANTE alegaram que a ação foi proposta em razão de uma cobrança extrajudicial indireta, o que, segundo eles, configuraria conduta abusiva por parte da ATIVOS.
+De acordo com a regra da causalidade, quem deve suportar as despesas da instauração do processo é quem deu causa à existência do litígio e, no caso dos autos, restou incontroverso que o real motivo para a propositura da demanda foi o fato de que OSWALDO, na condição de sócio da empresa, teve um pedido de empréstimo negado pelo Banco do Brasil S/A, devido a uma pendência financeira junto ao próprio banco, em nome da pessoa jurídica GIGANTE.
+Fica evidente, portanto, que a ATIVOS não deu causa à pre sente ação, uma vez que não realizou qualquer cobrança direta ou indireta contra OSWALDO e GIGANTE. O verdadeiro motivo da negativa de crédito foi a existência de uma pendência financeira junto ao Banco do Brasil, e não a inclusão do nome dos recorrentes em cadastros de inadimplentes. Tanto é assim que a r. sentença reconheceu expressamente que a ATIVOS não possui qualquer ingerência sobre os dados mantidos pelo Banco do Brasil, sendo este o único responsável por sua própria base de informações.
+Dessa forma, não há fundamento para atribuir à ATIVOS a obrigação de retirar eventuais restrições existentes no banco de dados do Banco do Brasil, tampouco para responsabilizá-la por eventual negativa de crédito decorrente de informações que não estão sob seu controle.
+Ressalte-se que os próprios recorrentes, na petição inicial, reconheceram que a ATIVOS, cessionária dos direitos, não incluiu o nome da pessoa jurídica nos cadastros de inadimplentes, nem tomou qualquer medida judicial ou administrativa para a cobrança do débito (e-STJ, fls. 7). Essa afirmação, inclusive, foi corroborada pelo acórdão recorrido, conforme supramencionado.
+Nesse contexto, OSWALDO e GIGANTE atraíram para si o ônus de arcar com as verbas sucumbenciais, conforme o princípio da causalidade.
+A alteração do entendimento consignado pela c. Câmara julgadora no sentido que teria ocorrido uma cobrança abusiva pela ATIVOS não seria possível sem incursão no acervo fático-probatório enfeixado nos autos. Assim, impossível a admissão do presente recurso, por expressa vedação contida na Súmula 7 do STJ.
+Nesta toada, como OSWALDO e GIGANTE não demonstraram o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
