@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA FAVORÁVEL À PARTE RECORRENTE. FALTA DE INTERESSE RECURSAL. NÃO CONHECIMENTO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que deu provimento a recurso.
+II. Razões de decidir
+2. Falta à agravante interesse processual quando pleiteia a reforma de decisão que lhe foi favorável, reiterando razões acolhidas na decisão monocrática, o que evidencia a ausência de prejuízo a ser reparado.
+III. Dispositivo
+3. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 461-474) interposto contra decisão desta relatoria, que deu provimento ao recurso (fls. 454-547).
+Em suas razões, a parte impugna a decisão que inadmitiu o recurso especial (fls. 463-467).
+Defende que o recurso especial não busca o reexame de provas, mas sim a correta qualificação jurídica dos fatos incontroversos, especialmente no que tange à responsabilidade do consórcio e de suas consorciadas, conforme o artigo 28, § 3º, do CDC. Alega que a decisão do Tribunal a quo interpretou equivocadamente as figuras jurídicas do consórcio e das consorciadas (fls. 467-470).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fl. 477).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO RECORRIDA FAVORÁVEL À PARTE RECORRENTE. FALTA DE INTERESSE RECURSAL. NÃO CONHECIMENTO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que deu provimento a recurso.
+II. Razões de decidir
+2. Falta à agravante interesse processual quando pleiteia a reforma de decisão que lhe foi favorável, reiterando razões acolhidas na decisão monocrática, o que evidencia a ausência de prejuízo a ser reparado.
+III. Dispositivo
+3. Agravo interno não conhecido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 454-457):
+Trata-se de agravo nos próprios autos interposto por CONSORCIO OPERACIONAL BRT contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 404/410).
+O acórdão recorrido encontra-se assim ementado (e-STJ fl. 349):
+APELAÇÃO. RELAÇÃO DE CONSUMO. ACIDENTE EM PLATAFORMA DO BRT. PARTE AUTORA QUE LOGROU COMPROVAR O FATO CONSTITUTIVO DO SEU DIREITO. AUSÊNCIA DE PROVA CAPAZ DE AFASTAR A RESPONSABILIDADE DO TRANSPORTADOR. DANO MORAL CONFIGURADO. PROVA PERICIAL CONCLUSIVA. MANUTENÇÃO DA SENTENÇA.
+1. Tese quanto à ilegitimidade passiva afastada.
+2. Os acidentes ocorridos na plataforma em razão do grande número de usuários não configuram hipóteses excludentes de responsabilidade e estão dentro da margem de gerenciamento da ré (fortuito interno), cabendo a ela envidar esforços no sentido de oferecer a segurança necessária à execução do seu serviço essencial.
+3. As imagens, a prova documental e a pericial demonstram a ocorrência do acidente e também do dano sofrido pela autora, que teve uma fratura no tornozelo esquerdo; sendo uma lesão de grau médio; que, como qualquer queda, gerou risco para a gestação; que necessitou de intervenção cirúrgica com colocação de placa e parafusos e ocasionou uma incapacidade total e temporária por 45 dias.
+4. Situação que ultrapassa o mero aborrecimento. Dano moral. Verba indenizatória que não comporta a redução pretendida.
+5. Termo inicial dos juros de mora na condenação por dano moral que se dá a partir da citação ou do evento danoso, conforme se trate de responsabilidade contratual ou extracontratual, respectivamente, devendo ser afastada a tese do réu/recorrente de incidência a partir do arbitramento da indenização.
+6. Negado provimento ao recurso.
+Os embargos de declaração foram rejeitados (e-STJ fls. 369/378).
+Nas razões do recurso especial (e-STJ fls. 380/396), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) arts. 489, § 1º, VI, e 1.022, II, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matérias deduzidas nos embargos de declaração,
+(ii) arts. 278, § 1º, da Lei n. 6.404/1976, 265 do CC/2002, 70 e 75 do CPC/2015 e 33, V, da Lei n. 8.666/1993, afirmando que "há responsabilidade solidária entre as consorciadas, não entre elas e o consórcio, como já reconhecido pelo Superior Tribunal de Justiça " (e-STJ fl. 387); e
+(iii) arts. 884 e 944 do CC/2002, destacando que "o valor arbitrado a título de indenização por danos morais encontra-se desproporcional e desarrazoado, constituindo-se em verdadeiro enriquecimento indevido da parte autora" (e-STJ fl. 394).
+No agravo (e-STJ fls. 420/436), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fl. 440).
+É o relatório.
+Decido.
+A controvérsia consiste em saber se o consórcio possui legitimidade para constar do polo passivo de demanda indenizatória ajuizada por consumidor em razão de acidente causado por transporte coletivo.
+O Tribunal de origem concluiu pela legitimidade passiva do consórcio, nos seguintes termos (e-STJ fls. 352/353):
+Os consórcios, embora não possuam personalidade jurídica, como dispõe o art. 278, §1º, da Lei nº 6.404/76, são dotados de capacidade para ser parte, conforme previsto no art. 75, inciso IX, do Código de Processo Civil. Vale destacar que, o consórcio integra, solidariamente, a cadeia de consumo que tem como objetivo comum o sucesso do negócio objeto da demanda.
+Ademais, no caso específico do BRT, em razão de seu funcionamento articulado, com plataformas de embarque/desembarque e sua aparência fica inviabilizada a identificação por parte do usuário de qual sociedade empresária seria responsável por determinado trecho ou serviço. O próprio contrato de constituição do consórcio esclarece que o BRT possui características próprias que o diferencia do transporte rodoviário convencional, este sim, identificável sem maiores dificuldades pelos seus usuários.
+As próprias imagens acostadas pelo réu sobre o ocorrido demonstram a impossibilidade para qualquer consumidor identificar quais as sociedades empresárias estariam unidas para a execução do serviço, já que se apresentam perante a população como um único fornecedor.
+Em razão disso e também do enunciado na cláusula 5ª do referido contrato de constituição, tem a atual jurisprudência do Superior Tribunal de Justiça se manifestado no sentido de que, na hipótese de responsabilidade derivada de relação de consumo, afasta-se a regra geral da ausência de solidariedade entre as consorciadas, por força da disposição expressa contida no art. 28, § 3º, do CDC. Na esteira dos argumentos acima, vale destacar que essa exceção em matéria consumerista justifica-se também pela necessidade de se atribuir máxima proteção ao consumidor, mediante o alargamento da base patrimonial hábil a suportar a indenização. Lado outro, justamente por se tratar de uma excepcionalidade, essa previsão de solidariedade deve ser interpretada restritivamente, de maneira a abarcar apenas as obrigações resultantes do objeto do consórcio.
+Segundo a jurisprudência desta Corte, a regra geral da ausência de solidariedade entre as consorciadas, prevista no art. 28, § 3º, do CDC, é afastada no caso de responsabilidade derivada de relação de consumo. Todavia, foi estabelecido que a exceção em questão não abarca o próprio consórcio, que somente responderá solidariamente com suas integrantes se houver previsão contratual nesse sentido:
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. CONSÓRCIO. RESPONSABILIDADE SOLIDÁRIA. NECESSIDADE DE PREVISÃO CONTRATUAL. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. "Segundo a jurisprudência desta Corte, havendo previsão contratual de responsabilidade solidária, o consórcio responderá, juntamente com suas integrantes consorciadas, pelos prejuízos causados aos usuários e a terceiros" (AgInt no AREsp n. 1.661.864/RJ, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/5/2022, DJe de 19/5/2022).
+2. No caso em exame, no entanto, o Tribunal de origem concluiu pela legitimidade do consorcio sem analisar se havia previsão contratual acerca da responsabilidade solidária, dependendo o adequado deslinde da demanda, portanto, da análise do instrumento contratual, o que é vedado pelas Súmulas 5 e 7/STJ, razão pela qual devem os autos retornar à origem para que se examine a questão à luz do entendimento do Superior Tribunal de Justiça sobre a matéria.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial, determinando-se o retorno dos autos às instâncias ordinárias.
+(AgInt no AREsp n. 2.279.084/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/5/2023, DJe de 17/5/2023.)
+DIREITO CIVIL E DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATROPELAMENTO EM VIA PÚBLICA. ÔNIBUS DO TRANSPORTE COLETIVO URBANO. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. CONSÓRCIO DE EMPRESAS. RELAÇÃO DE CONSUMO. SOLIDARIEDADE ENTRE AS CONSORCIADAS. ART. 28, § 3º, DO CDC. ILEGITIMIDADE DO PRÓPRIO CONSÓRCIO.
+ ..
+5. Como regra geral, as sociedades consorciadas apenas se obrigam nas condições previstas no respectivo contrato, respondendo cada uma por suas obrigações, sem presunção de solidariedade, de acordo com o disposto no art. 278, § 1º, da Lei das Sociedades Anônimas (Lei 6.404/76).
+6. Essa regra, no entanto, não é absoluta, havendo no ordenamento jurídico diversas normas que preveem a solidariedade entre as sociedades consorciadas, notadamente quando está em jogo interesse que prepondera sobre a autonomia patrimonial das integrantes do consórcio.
+7. Na hipótese de responsabilidade derivada de relação de consumo, afasta-se a regra geral da ausência de solidariedade entre as consorciadas por força da disposição expressa contida no art. 28, § 3º, do CDC. Essa exceção em matéria consumerista justifica-se pela necessidade de se atribuir máxima proteção ao consumidor, mediante o alargamento da base patrimonial hábil a suportar a indenização.
+8. Não obstante, é certo que, por se tratar de exceção à regra geral, a previsão de solidariedade contida no art. 28, § 3º, do CDC deve ser interpretada restritivamente, de maneira a abarcar apenas as obrigações resultantes do objeto do consórcio, e não quaisquer obrigações assumidas pelas consorciadas em suas atividades empresariais.
+9. Ademais, a exceção em comento não alcança o próprio consórcio, que apenas responderá solidariamente com suas integrantes se houver previsão contratual nesse sentido.
+10. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido.
+(REsp n. 1.635.637/RJ, Relatora MINISTRA NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/9/2018, DJe de 21/9/2018.)
+A Corte de origem não examinou o contrato que estabeleceu o consórcio, razão pela qual não é possível analisar, nesta instância, a (i) legitimidade do consórcio recorrente, especialmente diante das Súmulas n. 5 e 7 do STJ, razão pela qual deve ser determinado o retorno dos autos à origem para que se reexamine a questão considerando as diretrizes jurisprudenciais desta Corte Superior.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial do CONSORCIO OPERACIONAL BRT, a fim de determinar o retorno dos autos à origem para que seja analisado o instrumento contratual firmado entre o consórcio e as sociedades consorciadas.
+Publique-se e intimem-se.
+A parte r ecorrente, ao interpor o agravo interno, reitera as razões acolhidas na decisão monocrática que deu provimento ao recurso especial, determinando o retorno dos autos à origem para reexame da questão contratual.
+Nesse contexto , não há interesse recursal, pois a decisão monocrática foi favorável à parte recorrente. Assim, o agravo interno não deve ser conhecido por falta de interesse recursal, uma vez que não há prejuízo a ser reparado ou decisão desfavorável a ser modificada.
+Diante do exposto, NÃO CONHEÇO ao agravo interno.
+É como voto.
