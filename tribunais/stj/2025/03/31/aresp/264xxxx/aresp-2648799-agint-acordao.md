@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ÇÃO DE CANCELAMENTO DE REGISTRO IMOBILIARIO CUMULADO COM INDENIZATÓRIA. PREQUESTIONAMENTO. AUSENCIA. FUNDAMENTO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE.
+1. Ação de cancelamento de registro imobiliário c/c indenizatória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A ausência de demonstração sobre como o acórdão recorrido violou os artigos tidos como violados importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+5. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por JOSÉ CARLOS DA SILVA em face de decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: de cancelamento de registro imobiliário c/c indenização por perdas e danos, ajuizada por JOSÉ CARLOS DA SILVA em face de ROBSON RANGEL e MÁRIO SILVIO PANIZE.
+Decisão interlocutória: rejeitou a prejudicial de prescrição e converteu o julgamento em diligência.
+Acórdão: deu provimento ao recurso interposto pelo recorrido, nos termos assim ementados:
+"AGRAVO DE INSTRUMENTO. AÇÃOD E C A N C E L A M E N T O D E R E G I S T R O S I M O B I L I Á R I O S C / C I N D E N I Z A Ç Ã O P O R PERDAS E DANOS. DIALETICIDADE. CÓDIGO CIVIL DE 1916. APLICAÇÃO. PRESCRIÇÃO. DIREITO PESSOAL. SIMULAÇÃO. EFEITO T R A N S L A T I V O A O A G R A V O D E INSTRUMENTO. POSSIBILIDADE. EXTINÇÃO DO FEITO ORIGINÁRIO COM RESOLUÇÃO DE MÉRITO. POSSIBILIDADE. HONORÁRIOS. PARTE SUCUMBENTE. 1. O princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito de admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando). 2. Considerando-se a alegação de simulação na realização do negócio jurídico, já que a parte autora, ora agravada, alega que a transferência das propriedades dos imóveis foi efetivada mediante a utilização de assinaturas falsas do promovente e da tabeliã, necessário verificar-se a adequação deste instituto, a fim de identificar a existência de negócio jurídico nulo ou anulável, para a aplicação da correta tipificação legal, conforme estipula o caput, do art. 2.035, do CC/02. 3. Ainda que a atual interpretação do STJ em relação aos artigos 167 e 169 do CC/2002, já tenha se consolidado no sentido de que a simulação é causa suficiente para declarar-se a nulidade do negócio jurídico, situação diversa ocorre nos processos ainda regidos pelo antigo Código Civil, ao qual a legislação civil anterior atribuía a característica de negócio jurídico anulável, conforme arts. 147, inciso II e 178, § 9º, ambos do CC/1916. 4. O art. 178, § 9º, inc. V, alínea "b", do CC/16 previa prazo prescricional de 4 anos para anular os contratos contado do dia em que se realizar o ato, que no caso conta-se a partir do registro do título translativo no Registro de Imóveis (art. 1.245 do CC), o qual deu publicidade ao ato. 5. Em observância à regra de transição prevista no artigo 2.028 c/c o art. 2.035 do Código Civil de 2002, aliada às disposições do art. 147, inciso II do CC/16 e consequente aplicação da teoria do tempus regit actum, forçoso reconhecer que restou operada a prescrição prevista no art. 178, § 9º, inciso V, do CC/16. 6. Decretada a prescrição da pretensão do agravado, no tocante ao cancelamento de registro imobiliário, imperiosa a concessão de efeito translativo ao agravo de instrumento para, nos termos do art. 487, inciso II, do Código de Processo Civil, julgar extinto o processo com resolução de mérito. 7. Por consectário, nos termos do art. 85 do Código de Processo Civil, a condenação dos a u t o r e s a o p a g a m e n t o d o s h o n o r á r i o s sucumbenciais no importe de 10% sobre o valor atualizado da causa é medida impositiva. 8. AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO."
+Embargos de Declaração: opostos pelo recorrente, foram acolhidos somente para determinar a suspensão da exigibilidade das custas e honorários advocatícios nos termos do art. 98, § 3º do Código de Processo Civil, em decorrência da gratuidade da justiça concedida ao embargante no juízo de origem. (e-STJ Fl.158)
+Recurso especial: alega violação dos arts. 145, 145, 167 e 169 do CC/02 e art. 130, 134, 145 do CC/16. Argumenta que mesmo sob a ótica do CC/02 o negócio deve ser considerado nulo quando não tiver sido revestido das formalidades legais.
+Agravo interno: em síntese, sustenta que não há prescrição de negócio jurídico nulo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.ÇÃO DE CANCELAMENTO DE REGISTRO IMOBILIARIO CUMULADO COM INDENIZATÓRIA. PREQUESTIONAMENTO. AUSENCIA. FUNDAMENTO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE.
+1. Ação de cancelamento de registro imobiliário c/c indenizatória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. A ausência de demonstração sobre como o acórdão recorrido violou os artigos tidos como violados importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+5. Agravo interno não provido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+- Da ausência de prequestionamento
+Na espécie, aduz o recorrente que o negócio jurídico em comento é nulo, sob a luz do CPC/73, porquanto despido das formalidades legais. Ocorre que o acórdão recorrido não decidiu acerca dos arts. 130, 134, 145 do CC/16, indicados como violados, não tendo a recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem quanto a este ponto. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+O recorrente não impugnou o fundamento utilizado pelo Tribunal de origem no que tange à anulabilidade do negócio e do consequente prazo prescricional aplicado, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pelo recorrente não demonstram efetivamente como o acórdão recorrido violou o art. 2.035 do CC/02, limitando-se a afirmar que "o ato jurídico não foi constituído entre as partes, havendo simulação", o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
