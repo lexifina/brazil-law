@@ -1,0 +1,679 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+31/03/2025
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.535.460 R IO GRANDE DO
+NORTE
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. DIAS TOFFOLI
+: DEFENSORIA PÚBLICA DA UNIÃO
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+EMENTA
+
+Agravo regimental em recurso extraordinário. Matéria criminal.
+Execução penal. Monitoramento de comunicação entre detento e
+advogado/defensor público. Uso de medida excepcional para coibir
+articulação de organização criminosa. Alegação de violação de preceitos
+da Constituição Federal. Ofensa reflexa. Reexame de fatos e provas.
+Óbice da Súmula nº 279 do STF. Precedentes. Regimental não provido.
+1. Para se divergir da conclusão adotada pelo Tribunal de Origem,
+como pretendido, seria necessário analisar a causa à luz da interpretação
+dada à legislação infraconstitucional, o que caracterizaria ofensa reflexa
+ao texto constitucional.
+2. As alegadas contrariedades à Constituição Federal reclamam o
+reexame aprofundado do contexto fático-probatório dos autos, o qual é
+inviável na via eleita, consoante o enunciado da Súmula nº 279/STF.
+3. Agravo regimental ao qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, na conformidade da ata do julgamento, por
+unanimidade de votos, em negar provimento ao agravo regimental, nos
+termos do voto do Relator. Segunda Turma, Sessão Virtual de 21.3.2025 a
+28.3.2025.
+Brasília, 31 de março de 2025.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 99CB-26A8-D640-7130 e senha ABA8-70BF-599E-FF64
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+RE 1535460 AGR / RN
+
+Ministro Dias Toffoli
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 99CB-26A8-D640-7130 e senha ABA8-70BF-599E-FF64
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+31/03/2025
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.535.460 R IO GRANDE DO
+NORTE
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. DIAS TOFFOLI
+: DEFENSORIA PÚBLICA DA UNIÃO
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: MINISTÉRIO PÚBLICO FEDERAL
+: PROCURADOR-GERAL DA REPÚBLICA
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Cuida-se de tempestivo agravo regimental interposto pela
+Defensoria Pública da União contra decisão mediante a qual neguei
+seguimento ao recurso com base na jurisprudência desta Corte (e-doc.
+99).
+Inconformada, a parte ora agravante deduziu o presente agravo
+regimental, sustentando que a alegada contrariedade à Constituição seria
+direta, pois teria afrontado o art. 22, inciso I, da Constituição Federal e o
+art. 8.2(d) da Convenção Americana de Direitos Humanos (e-doc. 103).
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 03C3-F17F-5135-4F50 e senha 976C-4294-DDB2-FFD6
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+31/03/2025
+
+SEGUNDA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.535.460 R IO GRANDE DO
+NORTE
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+A irresignação não merece prosperar, porquanto o agravante não
+apresentou fundamentos aptos a modificar o entendimento
+anteriormente adotado.
+Com efeito, a decisão ora atacada não merece reforma, uma vez que
+seus fundamentos se harmonizam estritamente com o entendimento
+consolidado por esta Suprema Corte.
+Ademais, o presente recurso mostra-se inviável, na medida em que
+contém apenas a reiteração dos argumentos de defesa anteriormente
+expostos, sem, no entanto, revelar quaisquer elementos capazes de afastar
+as razões expressas na decisão agravada, a qual deve ser mantida por
+seus próprios fundamentos.
+Nesse sentido, transcrevo a decisão questionada:
+“Vistos.
+Trata-se de agravo interposto pela Defensoria Pública da
+União contra a decisão que não admitiu recurso extraordinário
+interposto contra acórdão do Tribunal de Regional Federal da 5ª
+Região, assim ementado:
+'PENAL E PROCESSUAL PENAL. AGRAVO DE
+EXECUÇÃO PENAL. SISTEMA PENITENCIÁRIO
+FEDERAL.
+COMUNICAÇÃO
+SIGILOSA
+ENTRE
+DETENTO E ADVOGADO/DEFENSOR PÚBLICO.
+DIREITO NÃO ABSOLUTO. RENOVAÇÃO DE ESCUTA
+AMBIENTAL. POSSIBILIDADE. PREVALÊNCIA DO
+INTERESSE COLETIVO SOBRE O INDIVIDUAL. NÃO
+PROVIMENTO DO AGRAVO. 1. Trata-se de Agravo em
+Execução Penal interposto pela DEFENSORIA PÚBLICA
+DA UNIÃO contra decisão do Juízo da Corregedoria
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+RE 1535460 AGR / RN
+Judicial da Penitenciária Federal do Rio Grande do Norte
+que deferiu a renovação do prazo de 360 (trezentos e
+sessenta) dias, com início em 3 de junho de 2022 e término
+em 28 de maio de 2023, do monitoramento, escuta e
+gravação ambiental de conversas produzidas nas áreas
+dentro do estabelecimento carcerário, onde haja encontros
+e diálogos decorrentes do atendimento jurídico prestados
+por advogados ou defensores públicos aos presos, mesmo
+no parlatório, sendo permitida a utilização das gravações
+apenas em relações a ações ilícitas futuras. 2. Em suas
+razões, o agravante sustenta: 1) ilegitimidade ativa do
+diretor da penitenciária para iniciar ação coletiva e
+requerer monitoramento ambiental, nos termos da Lei
+9.296, de 24 de julho de 1996 (Lei de Interceptações
+Telefônicas); 2) a medida vem sendo renovada há quase
+uma década, transformando em regra de funcionamento
+ordinário do presídio situação que deveria ser excepcional
+e transitória; 3) é nítida a afronta à prerrogativa dos
+defensores privados (advogados) de comunicarem-se
+reservadamente com seus clientes e assistidos, como prevê
+a Lei nº 8.906/94, bem como em relação aos defensores
+públicos, nos termos da Lei Complementar nº 80/1994; 4)
+os causídicos envolvidos em atividades suspeitas são
+devidamente identificados na investigação, conforme se
+depreende dos autos, de maneira que, eventual decisão
+restritiva de direito fundamental deveria ser objeto de
+processo individualizado, com autorização específica, nos
+termos das leis 11.671/2008 e 9.296/1996, permitindo,
+inclusive, o direito de manifestação e contraditório dos
+investigados; 5) a captação ambiental não poderá exceder
+o prazo de quinze dias, renovável por decisão judicial por
+iguais períodos, se comprovada a indispensabilidade do
+meio de prova e quando presente atividade criminal
+permanente, habitual ou continuada; 6) ilegal tratamento
+conferido aos membros de instituições essenciais à Justiça.
+3. Quanto à preliminar de inadequação da via eleita,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RE 1535460 AGR / RN
+suscitada pelo MPF em contrarrazões, não merece
+prosperar, porquanto o Art. 197 da Lei nº 7.210/1984,
+expressamente prevê: 'Das decisões proferidas', o que
+também inclui decisões que versampelo Juiz caberá
+recurso de agravo, sem efeito suspensivo sobre a
+competência administrativa do presídio, como na espécie,
+que se insere no âmbito de competência do Juízo Federal
+Corregedor de Presídio no tocante à adoção de medidas
+de segurança em estabelecimento penal federal de
+segurança máxima, conforme previsão no art. 3º, §2º, da
+Lei nº 11.671/2008. 4. De igual modo, também não merece
+prosperar a preliminar de intempestividade do recurso. A
+intimação da decisão agravada ocorreu em 20 de maio de
+2022, sexta-feira (certidão 4058400.11306832 dos autos
+principais) de modo que o prazo para o agravo começou
+em 23 de maio e findou em 1º de, junho de 2022 já que o
+prazo para interpor agravo em execução penal é de cinco
+dias, que deve ser, contado em dobro, por força do art. 44,
+inciso I, da Lei Complementar 80, de 12 de janeiro de 1994
+(Lei Orgânica da Defensoria Pública da União). Na
+espécie, a interposição ocorreu em 1º de junho de 2022,
+evidenciando, portanto, a tempestividade do recurso (id.
+4058401.11466673), razão pela qual se rechaça a preliminar
+de intempestividade. 6. No tocante à tese encetada pelo
+agravante - de ausência de legitimidade ativa do diretor
+da penitenciária para iniciar a 'ação coletiva - também não
+merece prosperar. Conforme bem exposto pelo' Juízo de
+origem, o pedido formulado pela Direção da Penitenciária
+Federal é atinente à adoção de uma medida de segurança
+prevista no art. 3º, § 2º, da Lei nº 11.671, de 2008, assim
+disposto: 'Art. 3º (...) § 2º Os estabelecimentos penais
+federais de segurança máxima deverão dispor de
+monitoramento de áudio e vídeo no parlatório e nas áreas
+comuns, para fins de preservação da ordem interna e da
+segurança pública, vedado seu uso nas celas e no
+atendimento advocatício, salvo expressa autorização
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RE 1535460 AGR / RN
+judicial em' . De tal modo, observa-se que o pedido é
+inerente à própria administração do estabelecimento penal
+federal de segurança máxima, não sendo referente à
+investigação criminal ou instrução de processo, tal como
+previsto no art. 3º, I e II, da Lei nº 9.296/1996, razão pela
+qual não se aplica tal lei de regência ao caso em comento,
+afastando, por conseguinte, a fixação do prazo de 15
+(quinze) dias pleiteado pelo agravante. 7. O Juízo de
+origem, ao deferir o monitoramento, escuta e gravação
+ambiental de conversas produzidas nas áreas dentro do
+estabelecimento carcerário, onde haja encontros e diálogos
+decorrentes do atendimento jurídico prestados por
+advogados ou defensores públicos aos presos, justificou,
+dentre outros argumentos, que 'mesmo com o
+monitoramento das conversas, os advogados são
+utilizados para transmissão de ordens a companheiros do
+interno, que se encontram custodiado no sistema
+penitenciário estadual; tratativas relativas a valores
+repassados a familiares de interno; transmissão de recados
+por meio de mensagens cifradas; cobrança e administração
+de valores de detento; e mensagens para detentos'.
+custodiados em outros presídios referentes à decisão do
+'tribunal do crime' 8. Da decisão vergastada, destaca-se,
+inclusive, o conteúdo de conversas entre os presos e os
+advogados, reportado no requerimento feito pela
+autoridade requerente: '(...) g) Em 17/01/2022, o preso
+atendido, integrante do PCC, pretendeu que o advogado
+transmitisse mensagem destinada a detentos custodiados
+em outros presídios, relativa a decisão proferida em
+'tribunal do crime'. No transcorrer do diálogo o interno
+pediu ao advogado que entrasse em contato com sua
+esposa, para que ela informasse a seus comparsas que um
+determinado membro do PCC não teria 'mais nenhum
+vínculo' com a Orcrim. Destaque-se que o interno
+reforçou, em várias oportunidades, que o advogado teria
+que fazer a notícia chegar ao 'pessoal lá (...)', fazendo
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RE 1535460 AGR / RN
+referência a ex interno da PFMOS e membro do PCC em
+Minas'.
+Gerais
+(RELINT
+Nº
+006/2022
+DINT/PFMOS/DISPF/DEPEN/MJSP). 9. Observa-se, ainda,
+que o Juízo de origem esclareceu que o monitoramento
+das conversas não tem como finalidade investigar as
+atividades criminosas, representando uma 'medida
+necessária para que a Penitenciária Federal em
+Mossoró/RN cumpra a sua finalidade, qual seja, evite que
+os presos, mesmo recolhidos ao cárcere, permaneçam em
+contato permanente com outros membros de organização
+'Ademais, justificou a necessidade da criminosa e, dessa
+forma, consigam continuar praticando crimes. medida em
+relação aos presos assistidos pela Defensoria Pública:
+'caso a medida seja parcial, os outros presos e advogados
+que ficarem livres do monitoramento serão coagidos a
+transmitir as mensagens. Aliás, isso seria até prejudicial
+aos advogados que trabalham corretamente e não aceitam
+ser instrumento de mensagens relativas a atividades
+criminosas. Isso implica dizer que a medida deve
+abranger, igualmente, os Defensores Públicos, em que
+pese a manifestação em contrário. Não se enxergue na
+extensão da medida aos Defensores Públicos qualquer
+insinuação ou sugestão de que eles se prestam a enviar
+mensagens dos presos. Não se trata disso. Aqui, as razões
+para alargar o alcance da medida são as mesmas que
+justificam incluir os advogados contra os quais não há
+nenhuma prova ou 'indício de que praticam conduta desse
+jaez 10. Com efeito, o justificou a renovação da medida a
+partir da necessidade, adequação, razoabilidade,
+abarcando, de forma isonômica, não apenas advogados e
+defensores públicos, mas também servidores públicos e o
+próprio Juiz Corregedor. Quer dizer: todas as pessoas que
+ingressarem naquela unidade de custódia receberão o
+mesmo tratamento e estarão sujeitas às mesmas regras. 11.
+Conforme jurisprudência assentada por esta Corte
+Regional: 'o entendimento pela escuta de sons e conversas
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RE 1535460 AGR / RN
+dos presos com sua defesa no parlatório vem devidamente
+justificado pela premissa de garantia da segurança pública
+e do regular cumprimento de penas no estabelecimento
+penitenciário federal, o que deve ser feito de maneira
+irrestrita em relação a todos os presos em atendimento
+efetivado por sua defesa, seja constituída, seja promovida
+pela DPU, com o registro de sigilo absoluto quanto às
+conversações gravadas. 7. Sopesa-se, de um lado, o direito
+individual dos encarcerados e dos advogados envolvidos,
+entre eles os membros da DPU, em manter conversas
+reservadas tanto na relação familiar como naquela clienteprofissional e, de outro lado, o interesse público na adoção
+de medidas necessárias para que a Penitenciária Federal
+em Mossoró/RN cumpra a sua finalidade, qual seja, evitar
+que os presos, mesmo recolhidos ao cárcere, permaneçam
+em contato permanente com outros membros de' .
+(PROCESSO: organização criminosa e, dessa forma,
+consigam
+continuar
+praticando
+crimes
+08050282220214058400, AGRAVO DE EXECUÇÃO
+PENAL,
+DESEMBARGADOR
+FEDERAL
+BRUNO
+LEONARDO CAMARA CARRA (CONVOCADO), 4ª
+TURMA, JULGAMENTO: 26/10/2021). 12. Consoante
+cediço, o sistema constitucional brasileiro não comporta
+direitos ou garantias que se revistam de caráter absoluto,
+inclusive, o Superior Tribunal de Justiça possui o
+entendimento de que 'O direito à inviolabilidade da
+intimidade e do exercício da advocacia não é absoluto,
+razão pela qual o monitoramento realizado por escuta e a
+gravação ambiental em estabelecimento prisional podem
+ser' . (STJ - AgRg no R Esp: 1691324 PE 2017/02094957,utilizados quando devidamente justificados Relator:
+Ministro ANTONIO SALDANHA PALHEIRO, Data de
+Julgamento: 12/12/2022, T6 - SEXTA TURMA, Data de
+Publicação: D Je 15/12/2022) 13. Assim sendo, tratando-se
+de medida devidamente justificada, em caráter
+excepcional, justificada a partir de elementos concretos e
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RE 1535460 AGR / RN
+adotada no resguardo da Segurança Pública, ainda, em
+respeito ao critério isonômico, não se identifica qualquer
+violação aos direitos e garantias fundamentais previstos
+no art. ,5º incs. e , da , tampouco violação ao sigilo
+profissional da advocacia, privada ouX XII Carta Magna
+pública, porquanto cientificado às partes, sendo permitida
+a utilização das gravações apenas em relação a ações
+ilícitas futuras. 14. Desprovimento do Agravo em
+Execução Penal'. (edoc. 54)
+No recurso extraordinário, a recorrente alega violação aos
+artigos 5º, II, XII, XLVI, LV, LXIII, LXIV; 22, I, e 134, todos da
+Constituição Federal, bem como ao artigo 8, 2, d, da Convenção
+Americana de Direitos Humanos, ao argumento de que a escuta
+e gravação ambiental de todas as conversas produzidas nas
+áreas internas de presídio federal, inclusive entre os
+custodiados e seus advogados, fere o núcleo essencial do direito
+à defesa técnica (edoc. 72).
+Examinados os autos,decido.
+Analisados os autos, colhe-se do voto condutor do
+acórdão atacado a seguinte fundamentação:
+'(...)
+O Juízo de origem, ao deferir o monitoramento,
+escuta e gravação ambiental de conversas produzidas nas
+áreas dentro do estabelecimento carcerário, onde haja
+encontros e diálogos decorrentes do atendimento jurídico
+prestados por advogados ou defensores públicos aos
+presos, justificou, dentre outros argumentos, que
+'mesmo com o monitoramento das conversas, os
+advogados são utilizados para transmissão de ordens a
+companheiros do interno, que se encontram custodiado
+no sistema penitenciário estadual; tratativas relativas a
+valores repassados a familiares de interno; transmissão
+de recados por meio de (e-STJ Fl.314) Documento
+recebido eletronicamente da origem mensagens cifradas;
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RE 1535460 AGR / RN
+cobrança e administração de valores de detento; e
+mensagens para detentos custodiados em outros
+presídios referentes à decisão do 'tribunal do crime'',
+tendo mencionado, inclusive, o conteúdo de conversas
+entre os presos e os advogados, mencionado no
+requerimento feito pela autoridade requerente, confirase excerto:
+'a) Em 12/08/2021, um dos líderes da facção
+criminosa 'Os Manos', oriundo do Estado do Rio
+Grande do Sul, utilizou-se do tempo disponível
+para entrevista com seu advogado para transmitir
+ordens a comparsas reclusos no sistema prisional
+de seu estado e reajustar os valores da ajuda
+financeira pagos a seus familiares. Rotineiramente,
+o interno em questão, durante os atendimentos com
+advogados ou mesmo nas visitas com a sua esposa,
+atribui a um suposto 'irmão' a responsabilidade por
+tratar das movimentações financeiras do preso e o
+identifica como um indivíduo preso em 18/01/2019
+no Rio Grande do Sul, apontado pelas autoridades
+como seu sucessor no braço da facção. O interno
+utiliza mecanismos para ocultar os valores reais a
+serem repassados aos familiares, como suprimir o
+dígito '0' dos valores informados. (RELATÓRIO DE
+INTELIGÊNCIA [RELINT] Nº 080/2021 D I N T / P F
+M O S / D I S P F / D E P E N / M J S P)
+b) No dia 1º/09/2021, um dos líderes da facção
+criminosa 'Primeiro Comando da Capital' (PCC) no
+estado do Mato Grosso do Sul e sua advogada
+trocaram recados suspeitos, através de mensagens
+codificadas. A advogada iniciou o atendimento
+atualizando o preso sobre a situação processual do
+genitor dele, que estaria sendo investigado e acusado
+de ser dono de 'umas bocadas' em Florianópolis. A
+advogada afirmou que tem falado com o pai do
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RE 1535460 AGR / RN
+interno com uma certa frequência e que ele teria dito
+estar 'em um caminhão no meio da estrada, sem
+fazer contato com ninguém'. Ela transpareceu estar
+muito confortável ao conversar sobre os assuntos
+envolvendo a vida pessoal e os negócios escusos do
+interno e é possível que tenha se tornado para o
+preso um importante elo com o mundo exterior, já
+que este perdeu contato com seu pai, que era uma
+pessoa importante para a manutenção dos seus
+negócios'
+(RELINT
+Nº
+096/2021
+DINT/PFMOS/DISPF/DEPEN/MJSP).
+(...)
+Nesse contexto, o juízo de origem justificou e
+esclareceu que o monitoramento das conversas não tem
+como finalidade investigar as atividades criminosas,
+representando uma 'medida necessária para que a
+Penitenciária Federal em Mossoró/RN cumpra a sua
+finalidade, qual seja, evite que os presos, mesmo
+recolhidos ao cárcere, permaneçam em contato
+permanente com outros membros de organização
+criminosa e, dessa forma, consigam continuar praticando
+crimes.'
+Ademais, registre-se que o juízo também justificou
+a necessidade da medida em relação aos presos
+assistidos pela Defensoria Pública: 'caso a medida seja
+parcial, os outros presos e advogados que ficarem livres
+do monitoramento serão coagidos a transmitir as
+mensagens. Aliás, isso seria até prejudicial aos advogados
+que trabalham corretamente e não aceitam ser
+instrumento de mensagens relativas a atividades
+criminosas. Isso implica dizer que a medida deve
+abranger, igualmente, os Defensores Públicos, em que
+pese a manifestação em contrário. Não se enxergue na
+extensão da medida aos Defensores Públicos qualquer
+insinuação ou sugestão de que eles se prestam a enviar
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RE 1535460 AGR / RN
+mensagens dos presos. Não se trata disso. Aqui, as razões
+para alargar o alcance da medida são as mesmas que
+justificam incluir os advogados contra os quais não há
+nenhuma prova ou indício de que praticam conduta desse
+jaez.'
+De igual modo, o juízo de origem também justificou
+a extensão da medida aos servidores (agentes
+penitenciários) e ao próprio magistrado: 'Aliás, é
+importante, como previsto em lei, que o monitoramento se
+estenda aos servidores, ou seja, aos agentes penitenciários
+e a todos os que trabalham no interior do presídio. Este
+juiz até mesmo utiliza equipamento para que toda a
+conversa mantida com os presos, durante as visitas
+mensais, seja devidamente documentada, com som e
+imagem. Essa providência é salutar porque todo o contato
+resta adequadamente registrado e evita algum problema
+futuro. Inclusive, as conversas com os internos realizadas
+por videoconferência ficam documentadas por sistema
+audiovisual.' Ainda,
+em
+atenção
+às
+garantias
+constitucionais da inviolabilidade da intimidade e da
+advocacia, o juízo de origem determinou que, 'antes de
+iniciar a captação de áudio dos diálogos dos presos com os
+seus advogados, o Diretor do Presídio terá de comunicar a
+todos os internos, por escrito, e colocar, na área do
+parlatório, comunicado dando ciência da medida'.
+Com efeito, observa-se que o decisum justificou a
+necessidade da medida a partir da necessidade,
+adequação e razoabilidade, com extensão, de forma
+isonômica, não apenas em relação a advogados e
+defensores públicos, mas também aos servidores
+públicos e ao próprio Juiz Corregedor. Quer dizer: todas
+as pessoas que ingressarem naquela unidade de custódia
+receberão o mesmo tratamento e estarão sujeitas às
+mesmas regras'. (edoc. 54, p. 1-3, grifamos)
+Com efeito, é imperioso concluir que o Juízo a quo, ao
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+RE 1535460 AGR / RN
+dirimir a questão posta no apelo extremo, apontou a existência
+de diálogos e troca de informações entre presos e advogados
+estranhas ao exercício da advocacia, com conteúdo
+relacionado à atividade externa das facções criminosas, o que
+justifica a medida excepcional adotada na Penitenciária
+Federal em Mossoró/RN.
+É certo que superar a conclusão adotada pelo Tribunal de
+origem, como pretendido, seria necessário analisar a causa à
+luz da interpretação dada à legislação infraconstitucional
+pertinente e demandaria um reexame aprofundado do
+contexto fático probatório dos autos que justificou a
+excepcionalidade da medida, o que é inviável na via eleita.
+Incidência, portanto, da Súmula nº 279/STF.
+Perfilhando esse entendimento, destaco os seguintes
+julgados:
+'AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. ART.
+5°, XXXVIII, d, DA CF. REAPRECIAÇÃO DO CONJUNTO
+FÁTICO-PROBATÓRIO. SÚMULA 279/STF. AGRAVO
+REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Para
+se chegar à conclusão contrária à adotada pelo acórdão
+recorrido, necessário seria o reexame do conjunto fáticoprobatório constante dos autos. Óbice da Súmula 279/STF.
+IV - Agravo regimental a que se nega provimento.' (ARE
+nº 1.106.179-AgR/MG, Segunda Turma, Relator o Ministro
+Ricardo Lewandowski, DJe de 30/4/18).
+'Agravo regimental no recurso extraordinário com
+agravo. Matéria criminal. Ofensa reflexa à Constituição.
+Precedentes. Pretendida desclassificação da conduta
+delituosa. Reexame de fatos e provas, inviável na via
+extraordinária, a teor da Súmula nº 279. Agravo não
+provido. 1. A jurisprudência da Suprema Corte é assente
+no sentido de que a afronta aos princípios da legalidade,
+do devido processo legal, da ampla defesa, do
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RE 1535460 AGR / RN
+contraditório, dos limites da coisa julgada ou da prestação
+jurisdicional, quando depende, para ser reconhecida como
+tal, da análise de normas infraconstitucionais, não
+configura ofensa direta e frontal à Constituição da
+República. 2. Pressupõe o reexame de fatos e provas, não
+admitido na via extraordinária, a teor da Súmula nº
+279/STF, avançar na análise da pretendida desclassificação
+do crime de peculato para o de apropriação indébita. 3.
+Agravo regimental a que se nega provimento.' (ARE nº
+827.045/DF-AgR, Segunda Turma,de minha relatoria, DJe
+de 13/4/16)
+Ante o exposto, nos termos do artigo 21, § 1º, do
+Regimento Interno do Supremo Tribunal Federal, nego
+seguimento ao recurso.
+Publique-se.”
+
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 5858-4948-D8D7-9700 e senha E310-EE2C-564B-2BF9
+
+Supremo Tribunal Federal
+Extrato de Ata - 31/03/2025
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 1.535.460
+PROCED. : RIO GRANDE DO NORTE
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : DEFENSORIA PÚBLICA DA UNIÃO
+PROC.(A/S)(ES) : DEFENSOR PÚBLICO-GERAL FEDERAL
+AGDO.(A/S) : MINISTÉRIO PÚBLICO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DA REPÚBLICA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto do Relator. Segunda Turma, Sessão
+Virtual de 21.3.2025 a 28.3.2025.
+Composição: Ministros Edson Fachin (Presidente), Gilmar
+Mendes, Dias Toffoli, Nunes Marques e André Mendonça.
+Hannah Gevartosky
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4B18-F303-3159-EBE7 e senha AE01-771B-3C53-54FD
