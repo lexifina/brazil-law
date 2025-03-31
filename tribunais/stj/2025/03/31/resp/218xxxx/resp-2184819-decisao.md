@@ -1,0 +1,23 @@
+DECISÃO
+CRISTIAN LUIS AMORIM DIAS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação n. 0016977-97.2014.8.14.0006.
+Depreende-se dos autos que o réu foi condenado a 6 anos e 6 meses, em regime semiaberto, mais 60 dias-multa, pela prática do crime previsto no art. 157, caput, do CP.
+O Tribunal de origem deu provimento à apelação defensiva, a fim de ajustar a pena para 5 anos e 5 meses de reclusão mais 29 dias-multa.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 59 do CP, ao argumento de que os antecedentes foram considerados desfavoráveis, mediante fundamentação inidônea. Sustenta que "nesta Certidão  de antecedentes  há outros processos contra o recorrente, este e mais que não constam com trânsito em julgado. Sabe-se que é entendimento pacífico dos Tribunais Superiores que ações penais em curso ou mesmo que possuam condenações, todavia sem trânsito em julgado, são imprestáveis para exasperar a pena-base" (fl. 171).
+Requer seja reduzida a pena-base.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal, no Parecer do Subprocurador-Geral Augusto Aras, opinou pelo seu provimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Embora não tenham sido sobrepesados os antecedentes criminais - referentes ao envolvimento do agente com fatos criminosos pretéritos, não se podendo utilizar inquéritos policiais e ações penais em curso para negativá-los (Súmula 444/STJ) e se devendo observar situações de reincidência - apreendo-os, conforme certidão Num. 7752488 - Págs. 1 a 2 dos presentes autos e a confirmação correspondente no Sistema Libra deste Egrégio Tribunal, como existentes, haja vista, inclusive, porque o conceito de maus antecedentes atinge não somente as condenações definitivas por fatos anteriores cujo trânsito em julgado deu-se anteriormente à prática do delito em apuração, mas, também, aquelas transitadas em julgado no curso da respectiva ação penal (como o Proc. 0040778-08.2015.8.14.0006, com trânsito em julgado em 09/01/17)  ..
+Desse modo, passo a valorá-los como negativos.
+(fls. 158-159, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+Os registros de vida pregressa devem ser entendidos como elementos objetivos que revelam o histórico penal do agente, relevante para configurar reincidência ou maus antecedentes.
+O exame desses dados alinha-se com o princípio da isonomia e da individualização da pena, pois devem ser sopesados no cálculo dosimétrico como maneira de diferenciar réus que reiteram na prática delitiva dos que gozam de primariedade.
+Para tanto, é necessário identificar reincidência e antecedentes como categorias lógicas que se vinculam a dois requisitos: anterioridade à conduta descrita nos autos e definitividade do registro de vida pregressa (trânsito em julgado), previamente à sentença que reconhece a configuração das referidas agravante e vetorial.
+Assim, são irrelevantes na dosimetria da reprimenda fatos delitivos cometidos posteriormente ao crime descrito nestes autos, ainda que a condenação haja transitado em julgado antes da sentença deste processo.
+Na espécie, como bem observou o parecer do MPF, o Tribunal de origem computou como maus antecedentes condenação definitiva referente a crime ocorrido em momento posterior (11/9/2015) à conduta objeto destes autos (26/10/2014, fl. 45), o que evidencia a sua inaptidão para fundamentar a exasperação da sanção-base.
+Feitas essas considerações, passo à nova dosimetria.
+A pena-base foi fixada, com fundamento nas consequências do crime e nos maus antecedentes, em 5 anos, 5 meses e 29 dias de reclusão mais 96 dias-multa. Considerada neutra a vetorial relativa aos antecedentes, mantenho negativas as consequências do crime para reduzir a reprimenda-base proporcionalmente para 4 anos, 8 meses e 29 dias de reclusão mais 48 dias-multa, que coincide com a final à míngua de elementos dosimétricos relevantes na segunda e terceira etapas.
+Diante do exposto, dou provimento ao recurso especial, com a finalidade de reduzir a sanção para 4 anos, 8 meses e 29 dias de reclusão mais 48 dias-multa.
+Publique-se e intimem-se.
+EMENTA
