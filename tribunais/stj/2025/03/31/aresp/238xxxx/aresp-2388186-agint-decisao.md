@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo ESTADO DA PARAÍBA da decisão da Presidência do Superior Tribunal de Justiça (STJ) que não conheceu do agravo em recurso especial com fundamento na incidência da Súmula 182 do STJ (fls. 231/233).
+A parte agravante alega que impugnou todos os fundamentos de inadmissibilidade recursal, incluindo a alegada deficiência no cotejo do dissídio pela ausência de demonstração de similitude fática, conforme as razões que ora aduz (fls. 239/244).
+Requer a reconsideração da decisão ou a apresentação do processo ao órgão colegiado competente.
+A parte agravada não apresentou impugnação (fl. 248).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo ao exame do recurso.
+O recurso especial foi interposto, com fundamento no art.  105,  inciso III,  alíneas a e c, da Constituição Federal (CF), do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA assim ementado (fls. 172/173):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PRISÃO. IMPUTAÇÃO DE ADULTERAÇÃO DE PLACA DE VEÍCULO. ACUSAÇÃO INFUNDADA. INSTRUÇÃO CRIMINAL. INEXISTÊNCIA DO FATO. ERRO CRASSO DA AUTORIDADE POLICIAL. ABSOLVIÇÃO CRIMINAL. ABALO MORAL CONFIGURADO. INDENIZAÇÃO DEVIDA. "QUANTUM" INDENIZATÓRIO CORRETAMENTE FIXADO. ACERTO DA DECISÃO RECORRIDA. DESPROVIMENTO DO RECURSO.
+A prisão do Apelado em razão da imputação de fato inexistente, a saber, adulteração de placa de veículo, fato que seria facilmente verificável por simples consulta ao Detran, submetendo-o ao cárcere privado indevidamente é fato ensejador de dano moral.
+A indenização deve ser medida pela extensão do dano. "In casu", não se pode ter dúvidas de que as consequências geradas pela atitude do Policial Militar foi grave, de grande repercussão, e que ocorreu efetiva ofensa à dignidade do Promovente, que ainda teve que suportar todo o constrangimento de uma Ação Penal injustamente movida contra ele.
+Não foram opostos embargos de declaração.
+Nas razões de seu recurso especial, a parte recorrente suscita as seguintes violações:
+(a) aos arts. 186 e 927 do Código Civil (CC), ao argumento de que não ficou suficientemente demonstrada a ocorrência do dano e a responsabilidade do ente estatal no fato, incumbindo à parte comprovar a ilegalidade na prisão por intermédio de nulidades nos procedimentos, bem como que a indenização concedida no patamar de R$ 50.000,00 mostra-se desproporcional e excessiva; e
+(b) ao art. 1º-F da Lei 9.494/1997, aduzindo que deve ser observada a jurisprudência das Cortes Superiores para a fixação dos juros e correção monetária contra a Fazenda Pública.
+A parte recorrida não apresentou contrarrazões (fl. 197).
+É o relatório.
+Primeiramente, quanto aos arts. 186 e 927 do Código Civil, e nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre a responsabilidade civil do recorrente no caso (fl.175):
+No caso dos autos, apesar dos argumentos do Recorrente, restou patente o constrangimento ilegal suportado pelo Autor, tendo em vista a prisão do Apelado em razão da imputação de fato inexistente, a saber, adulteração de placa de veículo, fato que não ocorreu e que seria facilmente verificável por simples consulta ao Detran, mas em razão do erro crasso do policial militar, o Promovente foi submetido ao cárcere privado indevidamente por 27 dias, ensejando dano moral indenizável.
+Dessa forma, restou configurado o dano moral, considerando o erro crasso cometido pelo policial, que acarretou vergonha, humilhação e abalo à imagem do Autor, pessoa sem antecedentes criminais, que prestou relevantes serviços a Polícia Militar da Paraíba, durante mais de 30 (trinta) anos, sendo reformado como segundo sargento PM, sem qualquer anotação desabonadora em sua ficha funcional, que, inclusive, possui anotação de comportamento excepcional, gozando de conceito perante os membros da corporação onde prestava os seus serviços.
+O Tribunal de origem reconheceu, com base no arcabouço fático e probatório dos autos, que há provas e fundamentação jurídica suficientes para reconhecer tanto a ilegalidade na prisão, ocasionando constrangimento ilegal, como a existência de dano moral reparável como consequência do evento, razão pela qual fixou a respectiva indenização em R$ 50.000,00 (cinquenta mil reais).
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto.
+Incide no presente caso a Súmula 7 do Superior Tribunal de Justiça (STJ), segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Quanto à tese de excessividade na monta fixada, não é possível conhecer do recurso porque os dispositivos em questão - arts. 186 e 927 do CC - não contêm comando normativo capaz de sustentar a tese de desproporcionalidade da indenização concedida.
+Incide no presente caso, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Por fim, no que diz respeito ao art. 1º-F da Lei 9.494/1997, verifico que tanto o dispositivo quanto a tese a ele vinculada não foram apreciados pelo Tribunal de origem, e não foram opostos embargos de decla ração com o objetivo de sanar eventual omissão da questão de direito controvertida.
+A ausência de enfrentamento no acórdão recorrido da matéria objeto do recurso impede o acesso à instância especial por não ter sido preenchido o requisito constitucional do prequestionamento.
+Incidem no presente caso, por analogia, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Ausente pronunciamento do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA sobre o ponto, caberia, inicialmente, suscitá-lo em embargos de declaração. Mantida a omissão, deveria a parte interessada deduzir a nulidade do julgamento por violação do art. 1.022 do Código de Processo Civil, o que não foi feito no caso dos autos.
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, reconsidero a decisão de fls. 231/233 e, na sequência, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
