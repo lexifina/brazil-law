@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" do art. 105, III, da Constituição Federal, em razão da incidência do óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão mediante a qual neguei provimento ao agravo em recurso especial.
+Em suas razões, a parte agravante defende a inaplicabilidade da Súmula 7/STJ ao caso e a necessidade de fixação de honorários sucumbenciais em seu favor em razão da procedência da ação consignatória.
+Pondera que a causa do ajuizamento da ação consignatória foi o falecimento da locadora original e a dúvida acerca dos favorecidos no recebimento das verbas locatícias, o que claramente reforça a o interesse jurídico, necessidade e utilidade do processo judicial. Insiste existir litígio nos autos.
+Sustenta que o direito autoral foi reconhecido e, por isso, deveria haver condenação ao pagamento de honorários advocatícios.
+Argui a existência de dissídio jurisprudencial sobre o tema.
+Impugnação às fls. 582/593.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Fica prejudicado o exame da divergência jurisprudencial quando a tese já foi afastada na análise do recurso especial pela alínea "a" do art. 105, III, da Constituição Federal, em razão da incidência do óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+O recurso não merece provimento.
+Reforço que não há que se falar em negativa de prestação jurisdicional ou omissão no acórdão recorrido, na medida em que o Tribunal de origem se pronunciou sobre a matéria acerca da qual a parte alegar existir omissão.
+Ademais, conforme consta na decisão agravada, a pretensão de majoração do valor fixado pelo Tribunal de origem a título de multa cominatória, esbarra no óbice da Súmula 7/STJ.
+Consta no acórdão recorrido (fls. 444/447):
+Ao que se colhe dos autos, a Companhia Brasileira de Distribuição firmou a relação locatícia em causa com Iracema Conceição Cividanes Bailão no dia 01 de agosto de 2013, com prazo de cinco (5) anos, tendo como objeto o imóvel consistente na Loja 05, com entrada pelo nº 346 da Rua Apeninos, no Edifício Três Lírios, situado na Rua Apeninos, 362, Liberdade, nesta Capital, CEP 01533-000, figurando como fiadora inicialmente a Empresa Sé Supermercados Ltda. (fls. 52/60), tendo sido sucessivamente renovado o prazo contratual com vigência até 31 de julho de 2023.
+Consta que a locadora autorizou de forma expressa o pagamento dos alugueis diretamente ao seu Advogado, Dr. Alexandre Pinheiro Brevillieri.
+Consta ainda que a locadora faleceu no dia 15 de dezembro de 2019 e que, em razão desse falecimento, o correquerido Caio Bailão Leite, filho de irmão da falecida, notificou a autora no dia 03 de fevereiro de 2020 para suspender o pagamento dos alugueis ao Advogado, passando ao depósito judicial até a nomeação de Inventariante Judicial. Consta, por fim, que a autora tomou conhecimento após pesquisa eletrônica, da pendência da Ação de Inventário nº 1009478-11.2020.8.26.0100 na 5ª Vara da Família e das Sucessões do Foro Central da Comarca de São Paulo, ajuizada pelo correquerido Caio, e de Pedido de Abertura de Testamento Particular ajuizado pela correquerida Fernanda, na condição de herdeira testamentária, anotando a inclusão da correquerida Maria Cristina, também como herdeira testamentária. Ante a ausência de nomeação de Inventariante, a autora ajuizou a Ação com fundamento nos artigos 539 e seguintes do Código de Processo Civil e no artigo 67 da Lei nº 8.245/91 (fls.
+1/8). Concedida a liminar, a autora passou a efetuar o depósito dos locativos mensais (fls. 160, 176/177, 276/277 e 349/350).
+Conforme se verifica dos autos, os requeridos foram citados e apresentaram manifestação nos autos, sem resistência ao pedido consignatório (v. fls. 178/180, 184/185 e 211/217), sobrevindo a r. sentença que acolheu o pedido consignatório para declarar a autora liberada da obrigação, reconhecendo o Espólio como titular dos depósitos comprovados nos autos, sem condenação dos requeridos no pagamento de verbas sucumbenciais ante a ausência de resistência (fls. 257/261).
+Já se viu, o Escritório de Advocacia constituído pela autora para o ajuizamento desta Ação apela da sentença visando à condenação dos requeridos ao pagamento de honorários advocatícios em quantia equivalente a dez por cento (10%) do valor atualizado da causa, invocando a aplicação dos artigos 85, §2º, e 90, "caput", ambos do Código de Processo Civil, e ainda o princípio da causalidade (fls. 303/313).
+Sem razão contudo o Escritório apelante, porquanto não resistida a pretensão consignatória pelo herdeiro legal, tampouco pelas herdeiras testamentárias, que disputam entre si o patrimônio da locadora falecida nos autos do Inventário em curso na 5ª Vara da Família e das Sucessões do Foro Central da Comarca de São Paulo (Capital). Ressalta-se que, reconhecida na sentença a titularidade dos depósitos ao Espólio, não houve qualquer resistência recursal no tocante (fls. 257/261).
+Não acode ao Escritório apelante a invocação dos artigos 85, §2º, e 90, "caput", ambos do Código de Processo Civil, tampouco do princípio da causalidade, porquanto não configurada a litigiosidade na causa em questão. A circunstância que deu causa ao ajuizamento do Pedido Consignatório foi a morte da locadora. A própria autora, representada pelo Escritório apelante, afirma que já havia sido ajuizado o processo de Inventário quando do ajuizamento, circunstância que dava a ela, autora, a possibilidade de depositar os alugueis à disposição do Juízo da causa sucessória. Somente se saberá qual dos disputantes é o credor dos alugueis devidos pela autora quando do desfecho do Inventário em curso, com o exame da validade ou não do mencionado Testamento Particular. Por ora, cabe à pessoa nomeada para o Cargo de Inventariante a representação do Espólio, com prestação de contas ao Juízo correspondente.
+No que tange ao Apelo do corre querido Caio Bailão Leite, em relação à determinação de expedição de mandado de levantamento, a sentença declarou o Espólio da locadora falecida como titular dos alugueis consignados, restando patente que o valor em causa deve ser colocado, mediante transferência, à disposição do r. Juízo do Inventário em curso na 5ª Vara da Família e das Sucessões da Comarca da Capital (processo nº 1009478-11.2020.8.26.0100).
+Assim, rever a conclusão firmada no acórdão recorrido, que asseverou expressamente ausência de resistência da parte recorrida, bem como a falta de interesse de agir diante da possibilidade de depositar os aluguéis à disposição do Juízo da causa sucessória, uma vez que já ajuizado o processo de inventário, demanda o reexame do contexto probatório dos autos.
+Outrossim, a parte recorrente não impugnou o fundamento de possibilidade de depositar os aluguéis à disposição do Juízo da causa sucessória, uma vez que já ajuizado o processo de inventário, o que atrai o óbice previsto na Súmula 283 do STF.
+Quanto à interposição pela alínea "c" do art. 105, III, da Constituição Federal, esta Corte tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso com base na qual deu solução à causa o Tribunal de origem.
+Dessa forma, não trazendo a parte agravante nenhum fundamento capaz de desconstituir a decisão ora agravada, deve ela ser mantida por seus próprios fundamentos.
+Em face no exposto, nego provimento ao agravo interno.
+É como voto.
