@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  S EMBARGOS DE DECLARAÇÃO NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  MULTA.  NÃO  CABIMENTO.  HONORÁRIOS.  MAJORAÇÃO  INCABÍVEL.
+1.  É  incabível  a  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC,  porquanto  esta  não  é  automática,  haja  vista  não  se  tratar  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso  a  autorizar  sua  aplicação,  o  que  não  ocorreu  na  hipótese.  Precedentes.
+2.  A  jurisprudência  desta  Corte  firmou  o  entendimento  de  que  é  incabível  a  majoração  dos  honorários  recursais  no  julgamento  do  agravo  interno  e  dos  embargos  de  declaração  oferecidos  pela  parte  que  teve  seu  recurso  integralmente  não  conhecido  ou  não  provido.
+3.  Embargos  de  declaração  acolhidos,  sem  efeitos  infringentes.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  GIOVANNA  BORGES  e  OUTROS  ao  acórdão  assim  ementado:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  IMPUGNAÇÃO  ESPECÍFICA.  DECISÃO  AGRAVADA.  FUNDAMENTOS  DEPENDENTES  OU  FUNDAMENTO  ÚNICO.  ARTIGO  1.021,  §  1º,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  SÚMULA  Nº  182/STJ.  SUCUMBÊNCIA.  SÚMULA  Nº  7/STJ.
+1.  A  ausência  de  impugnação  de  fundamentos  autônomos  não  acarreta  o  não  conhecimento  do  recurso,  mas,  tão  somente,  a  preclusão  do  tema,  o  que  não  se  aplica  em  caso  de  decisão  com  fundamento  único  ou  com  capítulos  que  dependam  um  do  outro.  Precedente  da  Corte  Especial.
+2.  No  caso,  constatada  a  ausência  de  impugnação  específica,  incide  o  disposto  no  artigo  1.021,  §  1º,  do  Código  de  Processo  Civil  e  no  entendimento  jurisprudencial  do  Superior  Tribunal  de  Justiça,  reproduzido  na  redação  da  Súmula  nº  182/STJ.
+3.  Esta  Corte  possui  entendimento  pacificado  no  sentido  de  que  a  alteração  da  distribuição  da  sucumbência  fixada  pelas  instâncias  ordinárias  demanda  necessário  revolvimento  do  conteúdo  fático-probatório  dos  autos,  o  que  atrai  o  óbice  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  parcialmente  conhecido  e,  nessa  parte,  não  provido"  (e-STJ  fl.  1.052).
+No  presente  recurso,  os  embargantes  apontam  a  existência  de  omissão  quanto  ao  requerimento  realizado  nas  contrarrazões  do  agravo  interno  (e-STJ  fls.  1.009/1.014),  no  sentido  de  se  condenar  a  ora  embargada  ao  pagamento  da  multa  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil.
+Impugnação  às  e-STJ  fls.  1.072/1.073.
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  S EMBARGOS DE DECLARAÇÃO NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  MULTA.  NÃO  CABIMENTO.  HONORÁRIOS.  MAJORAÇÃO  INCABÍVEL.
+1.  É  incabível  a  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC,  porquanto  esta  não  é  automática,  haja  vista  não  se  tratar  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso  a  autorizar  sua  aplicação,  o  que  não  ocorreu  na  hipótese.  Precedentes.
+2.  A  jurisprudência  desta  Corte  firmou  o  entendimento  de  que  é  incabível  a  majoração  dos  honorários  recursais  no  julgamento  do  agravo  interno  e  dos  embargos  de  declaração  oferecidos  pela  parte  que  teve  seu  recurso  integralmente  não  conhecido  ou  não  provido.
+3.  Embargos  de  declaração  acolhidos,  sem  efeitos  infringentes.
+VOTO
+Procede  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+De  fato,  reconhece-se  a  omissão  no  aresto  combatido  quanto  ao  pedido  realizado  nas  contrarrazões  do  agravo  interno  (e-STJ  fls.  1.009/1.014),  no  sentido  de  se  condenar  ao  pagamento  da  multa  do  art.  1.021,  §  4º,  do  CPC.
+Contudo,  o  Superior  Tribunal  de  Justiça  entende  ser  incabível  a  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC,  porquanto  esta  não  é  automática,  haja  vista  não  se  tratar  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime.
+Na verdade,  a  análise  é  realizada  no  caso  concreto  e  a  consequente  condenação  da  recorrente  ao  pagamento  da  aludida  multa  deve  ser  feita  em  decisão  fundamentada.
+Ademais,  o  agravo  interno  deve  ser  manifestamente  inadmissível  ou  improcedente  de  tal  forma  que  evidenciado  de  plano  como  abusivo  ou  protelatório,  o  que  não  ocorreu  no  caso  em  apreço.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DIVERGÊNCIA  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AGRAVO  CONHECIDO  APENAS  NO  CAPÍTULO  IMPUGNADO  DA  DECISÃO  AGRAVADA.  ART.  1.021,  §  1º,  DO  CPC/2015.  EMBARGOS  DE  DIVERGÊNCIA  APRECIADOS  À  LUZ  DO  CPC/73.  ACÓRDÃO  EMBARGADO  QUE  NÃO  CONHECEU  DO  RECURSO  ESPECIAL.  APLICAÇÃO  DA  SÚMULA  7/STJ.  PARADIGMAS  QUE  EXAMINARAM  O  MÉRITO  DA  DEMANDA.  DISSÍDIO  JURISPRUDENCIAL  NÃO  DEMONSTRADO.  REQUERIMENTO  DA  PARTE  AGRAVADA  DE  APLICAÇÃO  DA  MULTA  PREVISTA  NO  §  4º  DO  ART.  1.021  DO  CPC/2015.  AGRAVO  INTERNO  PARCIALMENTE  CONHECIDO  E,  NESSA  EXTENSÃO,  IMPROVIDO.
+1.  Nos  termos  do  art.  1.021,  §  1º,  do  CPC/2015,  merece  ser  conhecido  o  agravo  interno  tão  somente  em  relação  aos  capítulos  impugnados  da  decisão  agravada.
+2.  Não  fica  caracterizada  a  divergência  jurisprudencial  entre  acórdão  que  aplica  regra  técnica  de  conhecimento  e  outro  que  decide  o  mérito  da  controvérsia.
+3.  A  aplicação  da  multa  prevista  no  §  4º  do  art.  1.021  do  CPC/2015  não  é  automática,  não  se  tratando  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime.  A  condenação  do  agravante  ao  pagamento  da  aludida  multa,  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada,  pressupõe  que  o  agravo  interno  mostre-se  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  ocorreu  na  hipótese  examinada.
+4.  Agravo  interno  parcialmente  conhecido  e,  nessa  extensão,  improvido"  (AgInt  nos  EREsp  1.120.356/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Segunda  Seção,  julgado  em  24/8/2016,  DJe  29/8/2016).
+"PROCESSUAL  CIVIL.  ADMINISTRATIVO.  AGRAVO  INTERNO  EM  RECURSO  ORDINÁRIO  EM  MANDADO  DE  SEGURANÇA.  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APLICABILIDADE.  CONCURSO  PÚBLICO.  CANDIDATO  APROVADO  FORA  DO  NÚMERO  DE  VAGAS  PREVISTAS  EM  EDITAL.  SURGIMENTOS  DE  NOVAS  VAGAS.  TEMA  JULGADO  EM  REPERCUSSÃO  GERAL.  MERA  EXPECTATIVA  DE  DIREITO  À  NOMEAÇÃO.  AUSÊNCIA  DE  PRETERIÇÃO  ARBITRÁRIA  E  IMOTIVADA  DA  ADMINISTRAÇÃO.  DIREITO  À  NOMEAÇÃO.  NÃO  DEMONSTRADO.  APLICAÇÃO  DE  MULTA.  ART.  1.021,  §  4º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  DESCABIMENTO.
+(..)
+V.  Em  regra,  descabe  a  imposição  da  multa,  prevista  no  art.  1.021,  §  4º,  do  Código  de  Processo  Civil  de  2015,  em  razão  do  mero  improvimento  do  Agravo  Interno  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso  a  autorizar  sua  aplicação,  o  que  não  ocorreu  no  caso.
+VI.  Agravo  Interno  improvido"  (AgInt  no  RMS  62.540/MG,  Rel.  Ministra  REGINA  HELENA  COSTA,  Primeira  Turma,  julgado  em  8/9/2020,  DJe  14/9/2020).
+  Ante  o  exposto,  acolho  os  embargos  de  declaração  para  sanar  a  omissão  apontada,  sem  efeitos  infringentes.
+É  o  voto.
