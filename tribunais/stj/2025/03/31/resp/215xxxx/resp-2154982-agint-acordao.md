@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRETENSÃO DE REVISÃO DO ÔNUS PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Em relação à comprovação do fato constitutivo do direito autoral, o Tribunal local destacou que, diante da inversão do ônus da prova, não foi apresentada evidência de que a medição do consumo contestado tenha ocorrido por meio de leitura do medidor, mantendo a sentença. Incidência do Enunciado 7/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela Companhia Estadual de Águas e Esgotos - Cedae contra a decisão de fls. 362/367, que conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimento, sob os fundamentos de que não houve violação ao art. 1.022 do CPC e de que incidem os óbices das Súmulas 7/STJ e 284/STF.
+A parte agravante, em suas razões, sustenta que o acolhimento do inconformismo não exige o revolvimento de matéria fática.
+Requer a reconsideração do decisum alvejado ou a submissão da insurgência ao órgão colegiado.
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 400).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PRETENSÃO DE REVISÃO DO ÔNUS PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Em relação à comprovação do fato constitutivo do direito autoral, o Tribunal local destacou que, diante da inversão do ônus da prova, não foi apresentada evidência de que a medição do consumo contestado tenha ocorrido por meio de leitura do medidor, mantendo a sentença. Incidência do Enunciado 7/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não merece prosperar.
+Em relação à comprovação do fato constitutivo do direito autoral, o Tribunal local destacou que, diante da inversão do ônus da prova, não foi apresentada evidência de que a medição do consumo contestado tenha ocorrido por meio de leitura do medidor. Dessa forma, a sentença deve ser mantida. (fl. 238):
+Em resposta, a ré alegou genericamente não haver erro nas cobranças, apresentando um "histórico de débitos" (fls.41). Afirmou que aquelas cobranças foram efetuadas "pelo medido e pela média" (fls.42). Observou que nas faturas seguintes houve uma queda de consumo e, como elas não foram impugnadas, alegou não haver defeito na aferição. Mais adiante, em manifesta contradição, "esclareceu que o consumo por média se faz necessário quando, por qualquer motivo, não há condições de verificar o real consumo do imóvel servido por água".
+Invertido o ônus da prova (fls.100), a ré informou não possuir novas provas e ratificou os termos da defesa (fls.94).
+Nesse contexto, pela ausência de carga probatória hábil demonstrando que a aferição do consumo se deu por leitura de medidor, e não por estimativa, ratifica-se a sentença ora alvejada.
+Dessa forma, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. COBRANÇA INDEVIDA. VIOLAÇÃO AOS ARTS. 165, 458, II E III E 535, II DO CPC. INOCORRÊNCIA. ARTS. 55, I DO DECRETO 553/76; 6o., § 3o., II DA LEI 8.987/95; 40, V DA LEI 11.445/07; 22 DO CDC E 476 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INVERSÃO DO ÔNUS DA PROVA E VERIFICAÇÃO DE FALHAS NA PRESTAÇÃO DE SERVIÇOS. NECESSIDADE DE REEXAME DO MATERIAL FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade, razão pela qual não há que se falar em violação aos arts. 165, 458 e 535 do CPC.
+2. As matérias relativas aos arts. 55, I do Decreto 553/76; 6o., §3o., II da Lei 8.987/95; 40, V da Lei 11.445/07; 22 do CDC e 476 do CC não foram prequestionadas, ainda que implicitamente, ou seja, sobre eles não se manifestou o Tribunal de origem. Incide, à espécie, portanto, a Súmula 211 do STJ.
+3. O acolhimento das alegações deduzidas no Apelo Nobre, a fim de promover a inversão do ônus da prova, bem como verificar a existência ou não de falhas na prestação de serviços e a avaliação do real consumo de água da parte autora, ora agravado, demandaria necessariamente a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo Regimental da CEDAE desprovido.
+(AgRg no AREsp 18.462/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 20/3/2014, DJe de 31/3/2014.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA MOEDA EM UNIDADE REAL DE VALOR (URV). LEI N. 8.880/1994. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. DATA DO PAGAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. INCIDÊNCIA. APURAÇÃO DA EFETIVA DEFASAGEM REMUNERATÓRIA EM LIQUIDAÇÃO DE SENTENÇA. PRECEDENTES DO STJ, EM CASOS IDÊNTICOS. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, trata-se de demanda objetivando o direito de a parte autora receber diferenças remuneratórias em decorrência da conversão de seus vencimentos em URV (Unidade Real de Valor), na forma da Lei 8.880/94.
+2. Em relação ao art. 535 do CPC/1976, deve-se ressaltar que o acórdão recorrido não possui omissão suscitada pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável.
+3. Com relação ao art. 1º do Decreto n. 20.910/1932, a jurisprudência desta Corte firmou-se no sentido de que não se opera a prescrição do direito de ação, nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula n. 85 desta Corte.
+4. No que se refere à alegação de não observância da distribuição legal do ônus da prova, a jurisprudência desta Corte orienta-se no sentido de que verificar a violação ao citado dispositivo demandaria, necessariamente, revisão do quadro fático-probatório dos autos, o que é vedado, nesta instância, conforme a Súmula 7 desta Corte.
+5. Na forma da jurisprudência desta Corte, "rever o entendimento do Tribunal de origem, no sentido de que o Recorrente não comprovou a data de pagamento dos vencimentos da Autora, bem como que deverão ser apuradas em liquidação de sentença as diferenças eventualmente devidas, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ" (AgInt no REsp n. 1.627.052/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 29/03/2017).
+6. Em casos idênticos, esta Corte firmou compreensão no sentido de que, "em liquidação de sentença, há de se apurar a efetiva defasagem remuneratória devida aos servidores públicos decorrente do método de conversão aplicado pelo Estado em confronto com a legislação federal, de modo a evitar eventual pagamento em duplicidade e o enriquecimento sem causa" (AgInt no REsp n. 1.602.406/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 27/04/2017).
+7. Com relação ao art. 460 do CPC/73, a jurisprudência desta Corte considera que, quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284 do STF.
+8. Quanto à violação ao art. 22 da Lei n. 8.880/1994, cabe salientar que somente em liquidação de sentença há de se apurar a efetiva defasagem remuneratória devida aos servidores públicos, decorrente do método de conversão aplicado pelo Estado do Rio de Janeiro, em face da legislação federal.
+9. Agravo interno improvido.
+(AgInt no REsp 1.589.534/RJ, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 20/5/2024, DJe de 27/5/2024.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+É como voto.
