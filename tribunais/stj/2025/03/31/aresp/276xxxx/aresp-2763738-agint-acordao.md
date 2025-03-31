@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Estado de Minas Gerais desafiando decisão que negou provimento a agravo em recurso especial, sob o fundamento de que aplicável a Súmula 284/STF, ante a deficiência de sua fundamentação recursal.
+A parte agravante, em suas razões, sustenta que "o Estado/recorrente não apontou, de forma genérica, e sim específica, a ofens a aos arts. 489, caput, IV e IV a VI do §1º e 1.022, I e II do CPC, como se observa das razões do Recurso Especial, na medida em que o Tribunal a quo omitiu-se em apreciar argumentos aptos à modificação do julgado" (fl. 808).
+Transcorreu in albis o prazo para resposta (fls. 814/815).
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, bem como da sua relevância para a correta solução da controvérsia. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão agravada:
+Trata-se de agravo manejado pelo Estado de Minas Gerais desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 642):
+EMENTA: AGRAVO DE INSTRUMENTO - AÇAO ANULATORIA DE DEBITO FISCAL - SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO - ARTIGO 151, V DO CTN - REQUISITOS PARA CONCESSÃO DA TUTELA ANTECIPADA PREENCHIDOS - AUSÊNCIA DE GARANTIA DO JUÍZO - POSSIBILIDADE - HIPÓTESE EXTRAORDINÁRIA - RECURSO PROVIDO. As hipóteses de suspensão da exigibilidade do crédito tributário são taxativas
+e estão presentes no artigo 151 do CTN, que prevê, em seu inciso V, a concessão de tutela antecipada em ação judicial como uma dessas hipóteses. No caso concreto, encontram-se presentes a probabilidade do direito e o perigo de demora, requisitos para concessão da tutela antecipada. Noutro vértice, os contornos fáticos da lide apresentam hipótese em que se permite a mitigação extraordinária da garantia do juízo para suspensão da exigibilidade do crédito controvertido, a fim de que não se coloque em risco as atividades econômicas de pequeno comércio bairro, considerando que pairam fundadas dúvidas quanto à legalidade do crédito executado.
+AGRAVO DE INSTRUMENTO-CV  1.0000.22.275718-9/001 - COMARCA DE BELO HORIZONTE - AGRAVANTE(S): RAVEL QUEIROZ DA VEIGA E SOUSA, SOLSETE MUSICAL LTDA - AGRAVADO(A)(S): ESTADO DE MINAS GERAIS
+Opostos embargos declaratórios, foram rejeitados (fls. 686).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, caput, II e IV a VI do §1º e 1.022, I e II, do CPC. Sustenta que "não se está cobrando ICMS por substituição tributária nas saídas (vendas) sem nota fiscal, mas apenas nas aquisições sem nota fiscal. Como não foram emitidas notas em todas as aquisições, não é possível afirmar qual a mercadoria adquirida, mas é possível afirmar qual a preponderância daquilo que foi objeto de registro nas compras e vendas, sendo certo que o percentual das mercadorias sujeitas à substituição tributária, declarado pelo contribuinte, foi o utilizado no arbitramento" (fls. 715/716).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, caput, II e IV a VI do §1º e 1.022, I e II, do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+No apelo raro inadmitido (fls. 702/717), o ora embargante apontou violação, unicamente, aos arts. 489, caput, § 1º, II e IV a VI, e 1.022, I e II do CPC.
+Ocorre que, a esse respeito, cingiu-se a parte recorrente a fazer alegações genéricas de que "não se está cobrando ICMS por substituição tributária nas saídas (vendas) sem nota fiscal, mas apenas nas aquisições sem nota fiscal " (fl. 715), sem, contudo, proceder à demonstração objetiva da pecha, bem como da sua importância para o correto deslinde do feito.
+Logo, deficiente a fundamentação recursal a atrair o óbice sumular 284/STF.
+Nessa mesma linha de intelecção:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇOS PÚBLICOS ESSENCIAIS, SEM FINALIDADE LUCRATIVA E NATUREZA CONCORRENCIAL. PRESCRIÇÃO QUINQUENAL. DECRETO N. 20.910/1932. APLICABILIDADE. PRECEDENTES. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. PRETENSÃO DE REVISÃO DE JULGAMENTO LASTREADO EM INTERPRETAÇÃO DE CLÁUSULAS DE CONTRATO ADMINISTRATIVO. INVIABILIDADE. SÚMULAS NS. 5 E 7/STJ. PRECEDENTES.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o CPC/2015.
+II - De acordo com a jurisprudência deste Superior Tribunal de Justiça, aplica-se a prescrição quinquenal do Decreto n. 20.910/1932 às empresas estatais prestadoras de serviços públicos essenciais, não dedicadas à exploração de atividade econômica com finalidade lucrativa e natureza concorrencial, porquanto fazem as vezes do ente político ao qual se vinculam. Precedentes.
+III - Não se pode conhecer da alegação de ofensa aos arts. 489 e 1.022 do estatuto processual quando o recurso se cinge a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, o que atrai o óbice da Súmula n. 284 do Supremo Tribunal Federal.
+IV - A revisão do entendimento adotado pelo Tribunal "a quo", a partir das cláusulas do contrato administrativo firmado entre as partes, demanda necessária interpretação de suas cláusulas, além do imprescindível revolvimento de matéria fática, providência inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas ns. 5 e 7 desta Corte.
+V - Recurso Especial da COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL - CAESB não provido e Recurso Especial da ENGEAGRO CONSTRUÇÕES LTDA não conhecido.
+(REsp 1.635.716/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/10/2022, DJe de 11/10/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. COMPROVAÇÃO DA ATIVIDADE RURAL. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Em relação à alegada violação do art. 535 do CPC, deve ser aplicado o óbice da Súmula 284/STF, pois o agravante limitou em sustentar que não houve manifestação acerca dos pontos suscitados na petição dos embargos de declaração, sem, contudo, apontar ponto a ponto os fundamentos tidos por omitidos.
+2. A questão jurídica posta no recurso especial gira em torno da caracterização da condição de segurado especial, para fins de concessão de aposentadoria rural por idade.
+3. O Tribunal "a quo" afastou a referida condição, tendo em vista que o agravante possui significativos vínculos urbanos, o que lhe afastaria da condição de segurado especial.
+4. Se o Tribunal "a quo", com base no conjunto probatório constante dos autos, consignou que não ficou comprovado a condição de trabalhador rural, em regime de economia familiar, em razão de existência de vínculo empregatício urbano com registro na CTPS, rever tal entendimento demandaria o reexame do conjunto fático-probatório, vedado pela Súmula 7/STJ.
+5. Por fim, cumpre asseverar que a análise do dissídio jurisprudencial está prejudicada, em razão da aplicação da Súmula 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+6. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 786.360/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/12/2015, DJe de 14/12/2015.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
