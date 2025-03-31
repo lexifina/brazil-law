@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Reclamação Repetitivos sem pedido de liminar, manejada por RODOBENS INCORPORADORA IMOBILIÁRIA 363 - SPE LTDA, "com fulcro nos artigos 105, I, alínea f, da Constituição Federal, dos artigos 13 e 18, da Lei de nº 8.038/1990, bem como nos termos dos artigos 319 e seguintes do Atual Código de Processo Civil" (na fl. 3), em face de decisão do em. Presidente da Seção de Direito Privado eg. Tribunal de Justiça do Estado de São Paulo, negando seguimento a recurso especial movido pelo reclamante.
+É o relatório.
+Passo a decidir.
+A presente reclamação é manifestamente inadmissível.
+De início, destaque-se que a reclamação, nas vertentes 1- constitucional, II- processual e III- regimental, destinam-se à:
+I- Reclamação constitucional:
+I-a garantia da autoridade dos comandos judiciais específicos emanados em
+suas decisões em casos concretos (Reclamação Constitucional Autoridade) (CF, art 105, I, f; CPC, art. 988, I e II; RISTJ, art. 187) e
+I-b preservação da competência do Tribunal (Reclamação Constitucional
+Competência) (CF, art 105, I, f; CPC, art. 988, I e II; RISTJ, art. 187);
+II - garantia da observância de tese vinculante hierarquicamente consolidada (CPC, art. 988, IV e § 5º, II) em julgamento de:
+II-a - incidente de resolução de demandas repetitivas (Reclamação IRDR);
+II-b - de incidente de assunção de competência (Reclamação IAC) ou
+II-c- de recurso especial repetitivo (Reclamação RRC), nesse caso, quando
+esgotadas as instâncias ordinárias.
+III - garantia da regularidade dos serviços judiciais, conforme eventualmente prevista nos Regimentos Internos dos Tribunais e demais normas de organização judiciária (Reclamação Correcional).
+No presente caso, a parte reclamante não comprovou que tenha sido esgotada a instância de origem, pois não juntou aos autos o acórdão de julgamento, pelo Órgão Especial da Corte de origem, do agravo interno previsto no art. 1.030, § 2º, do CPC/2015, interposto contra a decisão de inadmissão do recurso especial, manejado contra o aresto que promoveu o juízo de retratação no Tribunal reclamado.
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, "a", do RISTJ, não conheço da Reclamação.
+Publique-se.
+EMENTA
