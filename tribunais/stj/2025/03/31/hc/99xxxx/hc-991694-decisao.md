@@ -1,0 +1,13 @@
+DECISÃO
+CLAUDEMIR CESAR DE OLIVEIRA, acusado por furto qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que denegou a ordem impetrada naquela Corte, na qual pretendia a revogação da prisão preventiva, objetivo este reiterado nesta oportunidade.
+O caso comporta o julgamento antecipado, visto que se adequa à pacífica orientação desta Corte em casos similares, a qual é contrária a pretensão defensiva.
+Com efeito, conforme tenho assinalado em diversas oportunidades, a prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela.
+No caso, extrai-se da decisão de primeiro grau que decretou a preventiva, a qual foi referenciada pelo acórdão impugnado, as seguintes passagens (fl. 40, destaquei):
+Ademais, pela análise de sua FAC, observa-se que o custodiado ostenta condenações anteriores pela prática de outros furtos, que caracterizam maus antecedentes, o que revela o risco concreto de e a necessidade da prisão cautelar como reiteração delitiva garantia da ordem pública.
+No particular, destacou ainda o acórdão: "embora se trate de crime cometido sem violência ou grave ameaça contra pessoa, o decreto prisional menciona o fato de que o Paciente ostenta condenações pretéritas definitivas pela prática de crimes da mesma espécie; assim, o seu histórico se apresenta como fundamento válido da decisão guerreada" (fl. 18, grifei).
+De fato, como assinalado na origem e a despeito do crime praticado não envolver violência ou grave ameaça a pessoa, houve a explicitação, pela decisão constritiva, da existência de diversos registros criminais pela prática de idêntico delito.
+Tal fundamentação, na linha da orientação que tem sido adotada por esta Corte, justifica a custódia cautelar, a fim de evitar a reiteração delitiva e, também, afasta a possibilidade de concessão de medidas cautelares alternativas.
+Nessa direção, é firme a orientação deste Superior Tribunal, de que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, relator Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Diante do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
