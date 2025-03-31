@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. NECESSIDADE. ACOLHIMENTO. EFEITOS INFRINGENTES. AGRAVO INTERNO. INTEMPESTIVIDADE. AFASTADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC. APELO NOBRE. PRESSUPOSTOS DE ADMISSIBILIDADE. APLICAÇÃO. SÚMULA Nº 735/STF.
+1. Verificada a ocorrência de erro material no acórdão embargado, que partiu de premissa inexistente no caso concreto, os embargos de declaração devem ser acolhidos para repará-lo.
+2. Na hipótese, considerando a data da intimação ficta e a comprovação da suspensão dos prazos no curso do prazo recursal, o agravo interno merece ser provido para afastar a intempestividade do apelo nobre.
+3. É dever da parte agravante demonstrar o desacerto da decisão atacada a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, consoante determinam o art. 932, III, do CPC e a Súmula nº 182/STJ.
+4. O acórdão recorrido consiste em provimento judicial de natureza precária, portanto, não configurado o pressuposto de causa decidida, conforme o art. 105, III, da Constituição Federal. Súmula nº 735/STF. Incidência.
+5. Embargos de declaração acolhidos com efeitos modificativos.
+RELATÓRIO
+Trata-se  de  embargos  de  declaração  opostos  por  ESTRADA DE FERRO PARANÁ OESTE S.A  ao  acórdão  da  Terceira  Turma  assim  ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO. FERIADO LOCAL. ARTIGO 1.003, § 6º, DO CPC. REGRAMENTO PROCESSUAL EXPRESSO. LEI NOVA. NÃO RETROATIVIDADE. ARTIGO 14 DO CPC.
+1. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o artigo 1.003, § 5º, c/c artigo 219, caput, do CPC.
+2. Os recursos interpostos perante a instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual.
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso, a teor do que dispõe o artigo 1.003, § 6º, do CPC. Precedente da Corte Especial.
+4. A jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que a existência de feriado local, paralisação ou interrupção de expediente forense deve ser demonstrada por documento oficial ou certidão expedida pelo tribunal de origem, que comprove o período no qual ocorreu eventual suspensão de prazos.
+5. A Lei nº 14.939/2024 modificou o texto do art. 1.003, § 6º do CPC, introduzindo a possibilidade de correção do erro ou sua desconsideração se a informação já estiver no processo eletrônico. Contudo, essa nova norma só se aplica a recursos apresentados após sua entrada em vigor, não afetando o caso em análise.
+6. Nos termos do artigo 14 do CPC, a norma processual não terá efeito retroativo e será aplicada imediatamente aos processos em andamento, resguardando os atos processuais realizados e as situações jurídicas consolidadas durante a vigência da norma anterior.
+7. Agravo interno não provido"  (e-STJ  fl.  752).
+Nas  presentes  razões  (e-STJ  fls.  767/780),  a  embargante  alega  ,  em  síntese,  que o acórdão é contraditório e contém erro de formal, haja vista que a decisão que julgou o agravo de instrumento "foi juntada aos autos em data de 28/02/2024, sendo que a intimação acerca do referido acórdão foi realizada em data de 11/03/2024, por meio de leitura automática" (e-STJ fl. 770).  Desse modo, o recurso especial interposto no dia 3/4/2024 é tempestivo.
+Salienta que a certidão de e-STJ fl. 506 se refere aos "Embargos de Declaração Cível 0092060-68.2023.8.16.0000, do qual a embargante não recorreu" (e-STJ fl. 774).
+Defende que o recurso especial se volta contra o acórdão que julgou o "AGRAVO DE INSTRUMENTO, nº. 0045954- 48.2023.8.16.0000 - fls. 1 à 35, conforme certidão de fl. E-STJ 374" (e-STJ fl. 774), o que demonstra a tempestividade do apelo nobre.
+Em suma, diz que o aresto pautou-se em falsa premissa fática ao considerar a intempestividade do recurso especial, motivo pelo qual os embargos devem ser acolhidos com efeitos infringentes.
+Impugnação  às e-STJ  fl.  783/785.
+É  o  relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CONFIGURAÇÃO. CORREÇÃO. NECESSIDADE. ACOLHIMENTO. EFEITOS INFRINGENTES. AGRAVO INTERNO. INTEMPESTIVIDADE. AFASTADA. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC. APELO NOBRE. PRESSUPOSTOS DE ADMISSIBILIDADE. APLICAÇÃO. SÚMULA Nº 735/STF.
+1. Verificada a ocorrência de erro material no acórdão embargado, que partiu de premissa inexistente no caso concreto, os embargos de declaração devem ser acolhidos para repará-lo.
+2. Na hipótese, considerando a data da intimação ficta e a comprovação da suspensão dos prazos no curso do prazo recursal, o agravo interno merece ser provido para afastar a intempestividade do apelo nobre.
+3. É dever da parte agravante demonstrar o desacerto da decisão atacada a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, consoante determinam o art. 932, III, do CPC e a Súmula nº 182/STJ.
+4. O acórdão recorrido consiste em provimento judicial de natureza precária, portanto, não configurado o pressuposto de causa decidida, conforme o art. 105, III, da Constituição Federal. Súmula nº 735/STF. Incidência.
+5. Embargos de declaração acolhidos com efeitos modificativos.
+VOTO
+O recurso merece acolhimento.
+Consoante o disposto no art. 1.022 do Código de Processo Civil os embargos de declaração são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca da qual deveria se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC, que configurariam a carência de fundamentação válida, e (c) corrigir o erro material.
+No caso, de fato, o acórdão decidiu com base em premissa equivocada, pois pela decisão de e-STJ 378, verifica-se que a intimação ficta do acórdão e-STJ fls. 362/371 se deu em 11/3/2024.
+Nesse cenário, os presentes aclaratórios devem ser acolhidos para correção do equívoco apontado e, consequentemente, para possibilitar um novo exame do agravo interno anteriormente interposto (e-STJ fls. 703/731) e do agravo em recurso especial.
+Assim, acolho os presentes embargos de declaração com efeitos infringentes para tornar sem efeito o acórdão de e-STJ fls. 752/753, passando a julgar os referidos agravos, em atenção ao princípio da duração razoável do processo expresso no art. 5º, LXXVIII, da CF: "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação em atenção ao princípio da celeridade".
+O agravo interno merece ser provido.
+Pela decisão de e-STJ fls. 699/700, a Presidência do Superior Tribunal de Justiça não conheceu do recurso especial porque entendeu que foi interposto fora do prazo legal.
+Nas razões do agravo interno (e-STJ fls. 703/731), a agravante alega que o recurso foi protocolado no prazo legal, pois
+"(..) a decisão recorrida foi publicada em 28/02/2024, com intimação em 29/02/2024 e a leitura da intimação ocorrendo em 11/03/2024, perfeitamente tempestiva a interposição do recurso na presente data, (03/04/2024)" (e- STJ fls. 704/705).
+Destaca que houve feriados nos dias 28 e 29 de março de 2024, conforme decretos do tribunal de origem, juntados quando da interposição do recurso, culminando com a suspensão dos prazos processuais. Assim, não há falar em leitura do acórdão em 05/3/2024.
+De fato, o recurso especial foi interposto contra o acórdão e-STJ fls. 362/371, cuja leitura automática ocorreu em 11/3/2024, primeiro dia útil seguinte ao término da intimação eletrônica, nos termos do art. 5º, § 3º, da Lei nº 11.419/2006, que estabelece o prazo de 10 (dez) dias corridos, contados da data do envio da intimação.
+Ressalte-se que, consoante preceitua o art. 231, V, do CPC, salvo disposição em sentido diverso, considera-se dia do começo do prazo:
+"V - o dia útil seguinte à consulta ao teor da citação ou da intimação ou ao término do prazo para que a consulta se dê, quando a citação ou a intimação for eletrônica."
+Assim, a contagem do prazo recursal se iniciou em 12/3/2024 e findou no dia 3/4/2024, considerando que restou comprovada a suspensão dos prazos nos dias 28 e 29 de março/2024 (e-STJ fls. 582/599), sendo, pois, tempestivo o recurso (e-STJ fls. 568/581.
+A propósito:
+"(..) o prazo de dez dias previsto no art. 5º, § 3º, da Lei n. 11.419/2006 diz respeito ao lapso para que seja considerada a leitura ficta da intimação, passando a contar, a partir de então, o prazo legal de interposição do recurso cabível (no caso da carta testemunhável, 48h); isto é, a parte tem dez dias para tomar ciência da decisão e, caso não o faça, considera-se a existência de ciência ficta e inicia-se o prazo para recurso no dia subsequente a esse interregno" (AgRg no HC 706.389/AM, Relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/5/2022, DJe de 12/5/2022- grifou-se).
+Desse modo, deve ser provido o agravo interno pra reconsiderar a decisão e-STJ fls. 699/700, que entendeu pela intempestividade do recuso especial.
+Nesse contexto, passa-se à análise do agravo em recurso especial (e-STJ fls. 661/682).
+Todavia, o agravo não pode ser conhecido.
+Isso porque, a denegação do apelo nobre se deu pela aplicação: (i) das Súmulas nºs 5 e 7/STJ, em virtude da impossibilidade de rever as provas dos autos e da interpretação de cláusula contratual, e (ii) Súmula nº 283/STF, pois não foram impugnados os fundamentos do aresto atacado.
+Nas razões do agravo (e-STJ fls. 661/682), a agravante alega, em síntese, que não pretende o reexame de provas ou interpretação de cláusula contratual, além de sustentar que a matéria está prequestionada.
+Constata-se que as razões do agravo deixaram de impugnar de modo específico a aplicação da Súmula nº 283/STF, atraindo, portanto, a aplicação do disposto no art. 932, III, do Código de Processo Civil, que impõe ao relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+De fato, é dever da parte agravante demonstrar o desacerto da decisão atacada a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, consoante determinam o art. 932, III, do CPC e a Súmula nº 182/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. RECURSO ESPECIAL DAS RÉS. PRETENSÃO DE AFASTAMENTO DA REPARAÇÃO EXTRAPATRIMONIAL. NÃO INCIDÊNCIADA SÚMULA 7/STJ. DANO MORAL NÃO CARACTERIZADO. MERODESCUMPRIMENTO CONTRATUAL. ACÓRDÃO ESTADUAL EM DISSONÂNCIA AO ENTENDIMENTO DO STJ. SUCUMBÊNCIA MÍNIMA NÃO CONFIGURADA. DECAIMENTO DOS AUTORES EM PARTE SUBSTANCIALDOS PEDIDOS. RECURSO ESPECIAL DOS AUTORES. DECISÃODENEGATÓRIA DO RECURSO BASEADA EM RECURSO REPETITIVO.AGRAVO DO ART 1.042 DO CPC/2015. ERRO GROSSEIRO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A UM DOS FUNDAMENTOS DE INADMISSÃO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. EXAME DO MÉRITO DA INSURGÊNCIA. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A conclusão desta relatoria no sentido da ausência de consignação, no acórdão estadual, de fato extraordinário capaz de caracterizar a ofensa a direito de personalidade, decorreu apenas da revaloração daquilo que constou no próprio aresto impugnado, não incidindo a Súmula 7 do STJ.
+2. A jurisprudência desta Casa é assente no sentido do descabimento da reparação moral nos casos em que ocorre o mero atraso na entrega do imóvel, pois o aborrecimento inerente à expectativa frustrada decorrente do inadimplemento contratual está inserido no cotidiano das relações comerciais, não implicando lesão à honra ou vulneração à dignidade humana.
+3. Não há que se falar em sucumbência mínima dos autores da demanda, tendo em vista o seu decaimento em parte substancial dos pedidos.
+4. A insurgência contra ponto da decisão que negou seguimento ao recurso especial, com base no art. 1.030, I, b, do CPC/2015, deve se dar exclusivamente por meio de agravo interno dirigido ao Tribunal local, configurando erro grosseiro a interposição de agravo em recurso especial para a impugnação dessa parte da deliberação unipessoal.
+5. Nos termos da jurisprudência desta Corte, a falta de combate efetivo a quaisquer dos fundamentos de inadmissão do recurso especial impede o conhecimento do respectivo agravo.
+6. A falta de atendimento dos requisitos de admissibilidade do agravo em recurso especial obsta o exame das teses de mérito.
+7. Agravo interno desprovido" AgInt no AREsp 2.395.421/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024).
+Ademais, ainda que superado tal óbice, o apelo nobre não ultrapassa os pressupostos de admissibilidade.
+Cuida-se, na origem, de agravo de instrumento interposto contra decisão que deixou de conceder pedido de antecipação de tutela de urgência.
+Com efeito, nos termos da pacífica jurisprudência desta Corte, é inviável, em regra, a interposição de recurso especial cujo objeto seja o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária do juízo de mérito, cuja reversão é possível a qualquer momento pela instância primeva.
+Não se verifica, portanto, o pressuposto constitucional relativo ao esgotamento da via recursal ordinária, requisito imprescindível ao trânsito do apelo extraordinário, circunstância a atrair, por analogia, o óbice da Súmula nº 735/STF: "não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE TERCEIRO. TUTELA DE URGÊNCIA INDEFERIDA.
+NATUREZA PRECÁRIA DA DECISÃO. SÚMULAS 735/STF E 7/STJ. DISPOSITIVO TIDO POR VIOLADO NÃO PRESQUESTIONADO. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É firme "a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos processuais a concessão de tutela de urgência, em razão do óbice da Súmula 735 do STF, bem assim da Súmula 7 do STJ" (AgInt no AREsp n. 2.064.236/MG, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal de origem (Súmula 211/STJ). Também não é o caso de se considerar a ocorrência do prequestionamento ficto previsto no art. 1.025 do CPC/2015.
+3. Agravo interno desprovido." (AgInt no AREsp 2.663.721/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 4/11/2024)
+"AGRAVO INTERNO NA TUTELA ANTECIPADA ANTECEDENTE. PROCESSUAL CIVIL. EFEITO SUSPENSIVO. RECURSO ESPECIAL. JUÍZO DE ADMISSIBILIDADE. TRIBUNAL DE ORIGEM. AUSÊNCIA. ARRENDAMENTO RURAL. TUTELA DE URGÊNCIA. DESPEJO. REANÁLISE. FATOS. PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DECISÃO. NATUREZA PRECÁRIA. SÚMULA Nº 735/STF. INCIDÊNCIA.
+1. A concessão de efeito suspensivo antes da admissibilidade recursal pela Corte local constitui medida excepcional e pressupõe a aferição da existência de decisão teratológica ou manifestamente contrária à jurisprudência do STJ, o que não se verifica no caso.
+Precedentes.
+2. As circunstâncias acerca da irreversibilidade da medida foram consideradas pelo Tribunal de origem, sendo inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. O acórdão recorrido consiste em provimento judicial de natureza precária, portanto, não configurado o pressuposto de causa decidida, conforme o art. 105, III, da Constituição Federal. Súmula nº 735/STF. Incidência.
+4. Agravo interno não provido."AgInt na TutAntAnt n. 178/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 26/8/2024, DJe de 29/8/2024- grifou-se)
+Ante o exposto, acolho os embargos com efeitos infringentes para tornar sem efeito o acórdão de e-STJ fls. 752/754, por conseguinte, dar provimento ao agravo interno para reconsiderar a decisão e-STJ fls. 699/700, afastando a intempestividade do recurso especial.
+Finalmente, em atenção ao princípio da celeridade, não conheço do agravo em especial, por aplicação do art. 932, III, do CPC.
+Deixo de majorar os honorários recursais pela ausência de fixação na origem.
+  É  o  voto.
