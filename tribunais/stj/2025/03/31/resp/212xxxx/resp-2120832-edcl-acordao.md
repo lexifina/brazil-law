@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. INVIABILIDADE.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. As alegações da parte embargante não foram apresentadas nas contrarrazões ao recurso especial interposto pelo Distrito Federal, o que configura indevida inovação recursal, insuscetível de conhecimento.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por JOAO VIEIRA GONCALVES NETO contra acórdão, de minha relatoria, proferido pela Primeira Turma desta Corte, que deu parcial provimento ao recurso especial da parte contrária e foi assim ementado (e-STJ fl. 492):
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. SERVIDOR PÚBLICO. PENALIDADE ADMINISTRATIVA. ANULAÇÃO. CUMPRIMENTO DE SENTENÇA. AÇÃO PENAL. TRÂNSITO EM JULGADO. PENA DE PERDA DO CARGO. PAGAMENTO DE RETROATIVOS. INEXIGIBILIDADE.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. Na origem, foi interposto agravo de instrumento contra decisão que rejeitou a impugnação ao cumprimento de sentença, no qual a parte ora recorrida pretendia o pagamento de retroativos e promoção na carreira, após ser reinserido às fileiras da Polícia Militar do Distrito Federal, em razão da nulidade dos atos administrativos que resultaram em sua exclusão da PMDF.
+3. O trânsito em julgado de acórdão penal determinando a perda do cargo ao servidor exequente, fato incontroverso nos autos, revela a existência de coisa julgada criminal impeditiva de produção de efeitos executivos do título judicial objeto do presente cumprimento de sentença, consistente no pagamento de retroativos.
+4. Recurso especial parcialmente provido.
+A parte embargante alega (a) a violação dos arts. 5º, II, XXXVI, 41, § 2º, da Constituição Federal; (b) que o acórdão recorrido desrespeitou a coisa julgada concretizada no HC 200.344/DF, uma vez que este reduziu a pena privativa de liberdade aplicada, afastando os efeitos da condenação de perda do cargo; e (c) a contradição no julgado, uma vez que não ocorreu condenação a perda de cargo público.
+Impugnação às e-STJ fls. 546/551, na qual o Distrito Federal aduz que (e-STJ fl. 548):
+consoante se extrai dos argumentos da parte embargante, em que pese não ter suscitado a redução da pena em momento algum durante o trâmite dos presentes autos, o acórdão proferido HC 200.344/DF teria o condão de afastar a pena de decretação de perda de cargo.
+Trata-se, contudo, de evidente tentativa de induzir este Superior Tribunal de Justiça em erro, na medida que, mesmo com a redução de poucos meses da penalidade imposta a cada um dos crimes praticados (furto qualificado e formação de quadrilha), ainda sim a penalidade ultrapassou o limite mínimo de 4 (quatro anos), previsto no art. 92, I, "b", do Código Penal.
+Isso porque, a despeito da citada redução, a totalidade da condenação, que antes figurava no patamar de 5 (cinco) anos e 5 (cinco) meses de reclusão (e-STJ fl. 509), atingiu 5 (cinco) anos e 2 (dois) meses, decorrente do somatório de 3 (três) anos e 4 (quatro) meses, por furto qualificado, com 1 (um) ano e 8 (oito) meses, por quadrilha, conforme se depreende do trecho pertinente do acórdão proferido no r. HC (e-STJ fl. 530):
+ ..
+Não por outro motivo que, afora a redução de 3 (meses) da totalidade das condenações, os demais termos da sentença foram mantidos.
+Nesses termos, a conduta processual da parte embargante configura evidente litigância de má-fé, nos termos do art. 80, I, II, V e VI, na medida que altera as verdades dos fatos com a nítida tentativa de induzir este Colegiado em erro.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. INVIABILIDADE.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. As alegações da parte embargante não foram apresentadas nas contrarrazões ao recurso especial interposto pelo Distrito Federal, o que configura indevida inovação recursal, insuscetível de conhecimento.
+4. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+A princípio , cumpre destacar que, no tocante à apontada violação dos arts. 5º, II e XXXVI, e 41, § 2º, da Constituição Federal, observa-se que, de acordo com a jurisprudência do STJ, "não cabem aclaratórios com o propósito de prequestionar matéria constitucional" (EDcl no AgRg nos EREsp 1.902.308/RS, rel. Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 12/9/2023, DJe de 26/9/2023). Ainda nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL REPETITIVO. TEMA 1.229 DO STJ. REQUISITOS. AUSÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto os vícios alegados pela embargante, na realidade, manifestam seu inconformismo com a tese jurídica firmada no julgamento do Tema 1.229 do STJ, de que "À luz do princípio da causalidade, não cabe fixação de honorários advocatícios na exceção de pré-executividade acolhida para extinguir a execução fiscal em razão do reconhecimento da prescrição intercorrente, prevista no art. 40 da Lei n. 6.830/1980".
+3. Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp n. 2.046.269/PR, de minha relatoria, Primeira Seção, DJEN de 29/1/2025)
+Quanto à alegação de que o acórdão recorrido desrespeitou a coisa julgada concretizada no HC 200.344/DF, uma vez que este reduziu a pena privativa de liberdade aplicada, afastando os efeitos da condenação de perda do cargo, vale destacar que a questão arguida somente nos embargos de declaração e não nas contrarrazões de recurso especial, peça, no caso, nem sequer apresentada na origem, manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver negativa de prestação jurisdicional. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A arguição da questão tida por omitida somente nos embargos de declaração e não nas contrarrazões de apelação, peça, no caso, sequer apresentada na origem, manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver negativa de prestação jurisdicional. Precedentes.
+2. Examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF.
+3. O reconhecimento do prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, exige a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015, especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso presente.
+4. Agravo interno desprovido.
+(AgInt no AREsp 2.681.491/SP, de minha relatoria, Primeira Turma, DJe de 22/11/2024).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA UNIVERSIDADE ESTADUAL DE MARINGÁ (UEM) PARA PROVIMENTO DE CARGOS DE AGENTE UNIVERSITÁRIO. SECRETÁRIO EXECUTIVO. CERTAME NÃO HOMOLOGADO. EXIGÊNCIA NÃO PREVISTA NA LEI DE REGÊNCIA. EXERCÍCIO DA AUTOTUTELA. REGULARIDADE. PROCESSO ADMINISTRATIVO PRÉVIO. INOVAÇÃO RECURSAL. RECURSO DESPROVIDO.
+1. A insurgência se concentra na pretensão da recorrente de ver reformada a decisão por meio da qual foi negado provimento ao recurso em mandado de segurança, pretendendo a concessão da segurança postulada na origem, "para que seja homologado o concurso público na parte que se refere ao cargo de secretário executivo, conforme edital 279/2013-PRH, da Universidade Estadual de Maringá, objeto da Resolução nº 13.055, de 104 junho de 2014".
+2. A decisão da Administração Pública de não homologar o certame decorreu da constatação de que teria exigido no edital requisitos que extrapolam os limites da lei. Logo, agiu no exercício da autotutela, a partir da qual administração pública não fica obrigada a homologar ato administrativo ilegal ou inoportuno.
+3. A tese de ilegalidade do ato em virtude da ausência de processo administrativo prévio somente foi arguida nos embargos de declaração opostos contra a decisão ora recorrida, o que configura inovação recursal.
+4. É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de que é inadmissível inovação recursal em sede de agravo interno ou de embargos de declaração. Precedente.
+5. Recurso desprovido.
+(AgInt nos EDcl no RMS 53.611/PR, rel. Ministro Afrânio Vilela, Segunda Turma, DJe de 10/10/2024).
+Além disso, o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficou decidido na instância a quo, ou entre ele e outras decisões do STJ (EDcl no AgRg nos EAREsp 252.613/MG, rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 14/08/2015). No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL RECONHECIDO. CONTRADIÇÃO E OBSCURIDADE. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REDISCUTIR A CAUSA. EMBARGOS PARCIALMENTE ACOLHIDOS PARA CORRIGIR VERBETAÇÃO DA EMENTA.
+1. O art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se neste último as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) o erro material.
+2. No caso, observa-se ter ocorrido erro material na ementa do acórdão impugnado, porquanto a verbetação não corresponde ao restante do texto.
+3. Quanto às demais questões suscitadas no recurso, não ficou demonstrada contradição interna no julgado ou obscuridade. Na hipótese, a parte não pretende esclarecer algum ponto do acórdão que não tenha ficado claro, mas questiona os próprios fundamentos nele adotados para fazer prevalecer a pretensão recursal.
+4. Embargos de declaração acolhidos, sem efeitos modificativos, apenas para a correção do erro material apontado.
+(EDcl no AgInt no AREsp 1.227.397/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/05/2020, DJe 14/05/2020).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR DANO AMBIENTAL. ART. 1022 DO CPC/2015. CONTRADIÇÃO. OFENSA NÃO CONFIGURADA. CERCEAMENTO DO DIREITO DE DEFESA. NECESSIDADE DE PRODUÇÃO PROBATÓRIA. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No tocante ao tema da proporção dos honorários de sucumbência, não cabe falar em ofensa ao art. 1022 do CPC/2015. Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativo ou prova. 2. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede. Portanto, não há contradição interna a ser sanada.
+3. Conforme a legislação de regência, cumpre ao magistrado, destinatário da prova, valorar sua necessidade. Assim, tendo em vista o princípio do livre convencimento motivado, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de prova, seja ela testemunhal, pericial ou documental.
+4. A alteração das conclusões adotadas pela Corte de origem, tal como colocada nas razões recursais, de modo a se chegar à conclusão de que seria necessária a produção da prova pericial requerida pela parte agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.224.070/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/10/2019, DJe 04/10/2019).
+No caso, ficou explicitamente registrado no acórdão recorrido o fato de "ser incontroverso que, em processo distinto (Ação Penal 2005.05.1.009778-9) do que originou o presente cumprimento de sentença, o ora recorrido foi condenado (em decisão transitada em julgado) à perda do cargo" (e-STJ fl. 499), razão pela qual restou obstada a produção dos efeitos financeiros da decisão judicial cível, concluindo pela extinção do cumprimento de sentença.
+Destacou-se, ainda, "neste processo, reconhece-se apenas a inexigibilidade do título, em razão de causa autônoma que impede a produção dos seus efeitos, qual seja, a ação penal transitada em julgado determinando a perda do cargo, mas não se está discutindo sobre a continuidade ou não do exequente no serviço público, tema que deve ser tratado como efeito material da sentença produzida no processo penal" (e-STJ fl. 502).
+Portanto, inexiste contradição interna do julgado a sanar.
+Por fim, no que tange ao pedido do Distrito Federal de condenação da parte ora embargante em litigância de má-fé, por supostamente ter alterado a verdade dos fatos relativos ao HC 200.344/DF, com a nítida tentativa de induzir este Colegiado em erro, não há como analisar o tema, diante do r econhecimento de inovação recursal quanto à questão da coisa julgada formada no referido habeas corpus.
+Advirto a parte embargante de que a oposição de novos embargos de declaração, reiterando vício já rejeitado em recurso anterior enseja a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, porquanto reputados manifestamente protelatórios.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
