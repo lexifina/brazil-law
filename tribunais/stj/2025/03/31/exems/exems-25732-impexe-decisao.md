@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO ao cumprimento de sentença iniciado por RICARDO BRANCO objetivando o recebimento de valores pretéritos no período em que "permaneceu indevidamente sem receber seus proventos, de 09/12/2019 até março de 2023", referentes ao cargo de agente de polícia federal.
+Requerendo preliminarmente a concessão de efeito suspensivo automático, nos termos do art. 535, §3º, do CPC/15, a parte executada alegou excesso de execução, apontando que: a) "Não é devido o mês de dezembro/2019, pois consta na ficha financeira o pegamento dele"; b) "Não calcularam os valores devidos de PSS"; e c) "A base de cálculo está majorada, posto que o exequente considerou o valor mensal de R$ 20.330,45" e "o correto seria considerar o valor do momento da cessação dos pagamentos em ficha financeira (R$ 19.019,73)". Por fim, ressaltou que a conta do exequente, "seq. 22 da nup 0405.011806/2025-37", não está detalhada. Diante disso, requereu fosse determinada a intimação da parte exequente a apresentar o detalhamento necessário para fins de impugnação aos cálculos.
+Na sequência (fls. 52-53), o exequente anuiu com a conta apresentada pela executada.
+É o relatório. Decido.
+Diante da concordância do exequente com a conta apresentada pela executada, reconheço o excesso apontado para julgar procedente a impugnação à execução e homologar o cálculo da UNIÃO no valor de R$ 1.165.335,52 (um milhão, cento e sessenta e cinco mil, trezentos e trinta e cinco reais e cinquenta e dois centavos). Via de consequência, expeça-se, de imediato, o requisitório de pagamento, com destaque de honorários advocatícios contratuais, se for o caso.
+Por fim, julgo prejudicados os pedidos da UNIÃO de atribuição de efeito suspensivo automático a esta execução e de intimação da parte exequente a detalhar o cálculo que apresentou, uma vez que a concordância das partes em relação aos valores ora pleiteados, leva, inevitavelmente, ao prosseguimento e cumprimento desta execução.
+Sem honorários advocatícios a teor do Tema 1.232/STJ.
+Publique-se. Intimem-se.
+ EMENTA
