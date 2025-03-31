@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em favor de GUILHERME HENRIQUE DE MELO GONCALVES - condenado pela prática do crime do art. 129, § 13, do Código Penal, ao cumprimento de 1 ano de reclusão, em regime inicial aberto -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Revisão Criminal n. 2007703-74.2025.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a absolvição do paciente, diante de provas novas, as quais não foram aceitas pelo tribunal de forma ilegal (fl. 9).
+Ocorre que, em consulta à página eletrônica do Tribunal a quo, verifiquei que o habeas corpus foi impetrado concomitantemente à interposição de recurso especial, a evidenciar ofensa ao princípio da unirrecorribilidade e utilização abusiva da via eleita, o que torna inadmissível o conhecimento do pedido. Ora, a jurisprudência desta Corte não admite a tramitação concomitante de recursos e habeas corpus manejados contra o mesmo ato (AgRg no HC n. 678.593/SP, Ministra Laurita Vaz, Sexta Turma, DJe 27/9/2022).
+Ademais, não se percebe a ocorrência de constrangimento ilegal manifesto, considerando que os autos não foram suficientemente instruídos, uma vez que ausente cópia da sentença condenatória; e a pretensão de absolvição esbarra na necessidade de profunda incursão em matéria fático-probatória, tanto mais se, pelo que se extrai do acórdão ora impugnado, as supostas novas provas da inocência do acusado prints de conversas por aplicativo de mensagens, fotografias e uma gravação de áudio (cf. fls. 5/9) produzidas unilateralmente - não são suficientes para desconstituir a coisa julgada, sobretudo porque não foram obtidas em contraditório, perfeitamente possível à defesa, já que essas provas eram do conhecimento do peticionário há muito tempo (fl. 16 - grifo nosso).
+Sobre o tema: AgRg no HC n. 815.249/SE, Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe 16/10/2023.
+Pelo exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ART. 129, § 13, DO CP. ABSOLVIÇÃO. PROVA NOVA. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL EM FACE DO MESMO ACÓRDÃO DA CORTE A QUO. INADMISSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+Writ indeferido liminarmente.
