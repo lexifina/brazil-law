@@ -1,0 +1,116 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Câmara Cível
+Processo N.AÇÃO RESCISÓRIA 0713339-13.2023.8.07.0000AUTOR(S)DISTRITO FEDERALREU(S)RIEDEL RESENDE E ADVOGADOS ASSOCIADOSRelatorDesembargador GETÚLIO MORAES OLIVEIRA
+ Acórdão Nº1986093
+
+EMENTA
+
+DIREITO PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VIOLAÇÃO MANIFESTA DE NORMA JURÍDICA. INEXISTÊNCIA. PEDIDO IMPROCEDENTE.
+
+(I)-. CASO EM EXAME
+
+1. Trata-se de ação rescisória ajuizada com fundamento no art. 966, V, do Código de Processo Civil, sob a alegação de violação manifesta de norma jurídica em decisão que fixou honorários advocatícios no cumprimento de sentença contra a Fazenda Pública. O requerente sustenta que a decisão rescindenda interpretou erroneamente a norma legal aplicável.
+
+(II)-. QUESTÃO EM DISCUSSÃO
+
+2. A questão em discussão consiste em saber se a decisão impugnada violou de forma manifesta norma jurídica, autorizando a rescisão do julgado. (i) Se a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública respeitou o entendimento consolidado do Superior Tribunal de Justiça. (ii) Se a decisão rescindenda afrontou a literalidade do art. 85, §§ 3º e 5º, do Código de Processo Civil. (III)-. RAZÕES DE DECIDIR 3. A violação manifesta de norma jurídica, apta a ensejar a rescisão do julgado, ocorre quando a decisão impugnada ignora, nega vigência ou colide frontalmente com a literalidade do texto legal. O erro de interpretação da norma não configura, por si só, fundamento para a ação rescisória. 4. A decisão rescindenda observou a jurisprudência do Superior Tribunal de Justiça, que admite a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública quando esta impugna toda a execução. 5. O acórdão rescindendo fixou os honorários dentro dos percentuais estabelecidos no art. 85, §§ 3º e 5º, do Código de Processo Civil, não havendo demonstração de que a condenação tenha inobservado os parâmetros legais. 6. O Distrito Federal anuiu expressamente aos cálculos de honorários apresentados pela contadoria judicial, inclusive após a propositura da rescisória, o que reforça a ausência de violação manifesta de norma jurídica. (IV)-. DISPOSITIVO 7. Pedido rescisório improcedente.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Câmara Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, GETÚLIO MORAES OLIVEIRA - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal, ROBERTO FREITAS FILHO - 2º Vogal, LUÍS GUSTAVO B. DE OLIVEIRA - 3º Vogal, FÁBIO EDUARDO MARQUES - 4º Vogal, CARLOS PIRES SOARES NETO - 5º Vogal, LUCIMEIRE MARIA DA SILVA - 6º Vogal, ROBSON BARBOSA DE AZEVEDO - 7º Vogal e MAURICIO SILVA MIRANDA - 8º Vogal, sob a Presidência da Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA, em proferir a seguinte decisão: AÇÃO RESCISÓRIA ADMITIDA E JULGADA IMPROCEDENTE. UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 10 de Abril de 2025
+
+Desembargador GETÚLIO MORAES OLIVEIRARelator
+
+RELATÓRIO
+
+Trata-se de ação rescisória proposta pelo DISTRITO FEDERAL contra RIEDEL RESENDE E ADVOGADOS ASSOCIADOS, visando desconstituir o acórdão (proc. n. 0717033-58.2021.8.07.0000) da eg. 4a. Turma Cível, Relator o Des. Fernando Habibe, que negou provimento ao agravo que combatia a fixação de honorários advocatícios em cumprimento de sentença, além de supostamente fixados fora dos parâmetros do art. 85, §3º e §5º, CPC, o que implicaria, em seu entender, em violação a literal disposição de lei.
+
+A ação foi proposta inicialmente contra as partes do processo; ao depois, entretanto, foi incluído o escritório de advocacia. Finalmente, por decisão mantida em agravo interno, permaneceu no polo passivo apenas o titular dos honorários, ou seja, o referido escritório.
+
+O réu contestou e aduziu o descabimento da rescisória, o transcurso de todos os prazos de recursos ordinários e especiais, a correta fixação de honorários tanto quanto à sua incidência, quanto ao valor fixado conforme os parâmetros do art. 85, CPC.
+
+As partes manifestaram-se em alegações finais.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador GETÚLIO MORAES OLIVEIRA - Relator
+
+Conforme relatado, trata-se de ação rescisória proposta pelo DISTRITO FEDERAL contra RIEDEL RESENDE E ADVOGADOS ASSOCIADOS, visando desconstituir o acórdão (proc. n. 0717033-58.2021.8.07.0000) da eg. 4a. Turma Cível, Relator o Des. Fernando Habibe, que negou provimento ao agravo que combatia a fixação de honorários advocatícios em cumprimento de sentença, além de supostamente fixados fora dos parâmetros do art. 85, §3º e §5º, CPC, o que implicaria, em seu entender, em violação a literal disposição de lei.
+
+A ação rescisória, prevista no artigo 966 do Código de Processo Civil (CPC), constitui instrumento processual excepcional de fundamentação vinculada, destinado a desconstituir a coisa julgada em situações taxativamente previstas em lei. Dentre essas hipóteses, destaca-se a violação manifesta de norma jurídica (inciso V), que se revela como um mecanismo de preservação da integridade e da supremacia do ordenamento jurídico.
+
+A correta compreensão da "violação manifesta de norma jurídica" é necessária para a adequada aplicação desse instituto, sob pena de se banalizar a ação rescisória e fragilizar a segurança jurídica, pilar essencial da estabilidade da ordem jurídica. Nesse sentido, a doutrina e a jurisprudência são uníssonas em afirmar que não se admite a ação rescisória fundada em suposto erro de interpretação ou erro de entendimento da lei pelo julgado rescindendo.
+
+ A ação rescisória ampara-se na prevalência do direito contra erros manifestos, normas jurídicas violadas literalmente de maneira clara, o que não se confunde com a mera interpretação das normas. Como ensina Humberto Theodoro Jr., a rescisória não é remédio próprio para verificação do acerto ou da injustiça da decisão judicial, nem tampouco meio de reconstituição de fatos ou provas deficientemente expostos e apreciados em processo findo. (in Curso, vol. 1, pg. 646 - Forense, 24™ ed.). Citando Liebman, acrescenta que "uma vez atingido o estágio da coisa julgada, a eficácia da sentença supera qualquer problema da validade, ou da justiça do decisório, tornando a sua eficácia indiferente a qualquer indagação sobre a conformidade com o direito"; justamente porque a ação rescisória não é juízo de reexame ou retratação, não é recurso, mas remédio processual extremo de ataque à sentença defeituosa e de desconstituição da coisa julgada, cujas causas de rescindibilidade estão expressamente enumeradas [...] (in O processo Civil Brasileiro no Limiar do Novo Século - Forense - 1999 - pág. 209).
+
+A distinção entre o mero inconformismo com a interpretação conferida à norma e a violação manifesta é relevante. A violação manifesta que autoriza a rescisão do julgado, se configura quando a decisão impugnada ignora, nega vigência ou colide frontalmente com a literalidade do texto legal. Em outras palavras, trata-se de hipótese em que a ofensa à norma jurídica é flagrante, evidente, incontestável, não se admitindo a rescisória como sucedâneo recursal para rediscutir a justiça ou a adequação da interpretação dada à lei.
+
+O erro de interpretação, por outro lado, reside na esfera da hermenêutica jurídica, ou seja, no processo intelectivo de atribuição de sentido à norma natural que, diante de um caso concreto, existam diferentes perspectivas interpretativas, todas, em tese, plausíveis e razoáveis. A opção por uma dessas interpretações, ainda que contrária à pretensão da parte, não configura, por si só, violação manifesta de norma jurídica apta a ensejar a rescisão do julgado.  Nesse cenário, caberia à parte, dentro do sistema recursal, insurgir-se contra o acórdão mediante recurso aos Tribunais Superiores.
+
+ De igual modo, o erro de entendimento, relacionado à compreensão do contexto fático e à subsunção dos fatos à norma, também não se confunde com a violação literal de disposição de lei.  A apreciação da prova e a definição do quadro fático competem ao juiz da causa, sendo inviável a reanálise dessa matéria em sede de ação rescisória, salvo nas hipóteses estritas de erro de fato, previstas em lei.
+
+Portanto, a ação rescisória fundada em violação manifesta de norma jurídica exige a demonstração inequívoca de que o julgado rescindendo repudiou, de forma clara e indubitável, o comando normativo expresso na legislação, não se prestando a corrigir supostos erros de interpretação ou de entendimento.  A mera discordância com a interpretação conferida à norma ou com a valoração dos fatos não autoriza a desconstituição da coisa julgada, sob pena de se desvirtuar a finalidade da ação rescisória e se comprometer a estabilidade das relações jurídicas.
+
+A jurisprudência do c. Superior Tribunal de Justiça é no sentido de que "a violação da lei que autoriza o remédio extremo da ação rescisória é aquela que consubstancia desprezo pelo sistema de normas no julgado rescindendo". Isso porque "para que a ação rescisória fundada no art. 485, V, do CPC, prospere, é necessário que a interpretação dada pelo decisum rescindendo seja de tal modo aberrante que viole o dispositivo legal em sua literalidade" (AgRg no Ag 854.368/RS, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 04/03/2008,  DJe 7/5/2008).
+
+No mesmo sentido, também do STJ, a orientação:
+
+"[...] 1. A ação rescisória, com base no artigo 485, V, do CPC/1973 (966, V, do CPC/2015), pressupõe  ofensa direta e frontal a dispositivo legal, por isso que, tratando-se, como na espécie, de decisão que adota uma dentre duas ou mais interpretações  possíveis para o mesmo regramento, não se poder·, em tal contexto, descortinar hipótese de violação literal de lei, capaz de legitimar o emprego  do mecanismo corretivo rescisório. 2. Vale destacar que "O cabimento da Ação Rescisória com base em violação à disposição literal de lei  somente se justifica quando a ofensa se mostre aberrante, cristalina, observada primo ictu oculi, consubstanciada no desprezo do sistema jurídico  (normas e princípios) pelo julgado rescindendo[...] (AgInt no REsp 1710870/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,  julgado em 03/05/2018, DJe 09/05/2018).
+
+Consoante doutrina de Marinoni, Arenhart e Mitidiero sobre a importância do exame  dos requisitos da ação rescisória, especialmente no que se refere ao inciso V do art. 966 do CPC, in verbis: A ação rescisória constitui remédio  extremo e assim não pode ser confundida com mero recurso. Em outras palavras: a sentença que possui interpretação divergente daquela que é estabelecida pela doutrina e pelos tribunais, exatamente pelo fato de que interpretações diversas são plenamente vi·veis e lícitas enquanto  inexistente precedente constitucional ou federal firme sobre a quest„o, n„o abre ensejo para a ação rescisória.(MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz. MITIDIERO, Daniel. Novo curso de processo civil. Volume  2. 3™ ed. São Paulo: Revista dos Tribunais, 2017, p. 465).
+
+ Na espécie, dois são os temas a discutir.
+
+ O primeiro diz respeito ao cabimento da fixação de sucumbência no cumprimento de sentença; o segundo diz respeito à apuração se o valor dos honorários contra a Fazenda Pública obedeceu ao comando do art. 85, §3º e §5º, CPC.
+
+Para melhor compreensão transcrevo a fundamentação do acórdão rescindendo:
+
+"[...] 1. A ação rescisória, com base no artigo 485, V, do CPC/1973 (966, V, do CPC/2015), pressupõe  ofensa direta e frontal a dispositivo legal, por isso que, tratando-se, como na espécie, de decisão que adota uma dentre duas ou mais interpretações  possíveis para o mesmo regramento, não se poderá, em tal contexto, descortinar hipótese de violação literal de lei, capaz de legitimar o emprego  do mecanismo corretivo rescisório. 2. Vale destacar que "O cabimento da Ação Rescisória com base em violação à disposição literal de lei  somente se justifica quando a ofensa se mostre aberrante, cristalina, observada primo ictu oculi, consubstanciada no desprezo do sistema jurídico  (normas e princípios) pelo julgado rescindendo[...] ((AgInt no REsp 1710870/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,  julgado em 03/05/2018, DJe 09/05/2018).
+
+Consoante doutrina de Marinoni, Arenhart e Mitidiero sobre a importância do exame  dos requisitos da ação rescisória, especialmente no que se refere ao inciso V do art. 966 do CPC, in verbis: A ação rescisória constitui remédio  extremo e assim não pode ser confundida com mero recurso. Em outras palavras: a sentença que possui interpretação divergente daquela que  é estabelecida pela doutrina e pelos tribunais, exatamente pelo fato de que interpretações diversas são plenamente viáveis e lícitas enquanto  inexistente precedente constitucional ou federal firme sobre a questão, não abre ensejo para a ação rescisória.(MARINONI, Luiz Guilherme. ARENHART, Sérgio Cruz. MITIDIERO, Daniel. Novo curso de processo civil. Volume  2. 3ª ed. São Paulo: Revista dos Tribunais, 2017, p. 465).
+
+Na espécie, dois são os temas a discutir.
+
+O primeiro diz respeito ao cabimento da fixação de sucumbência no cumprimento de sentença; o segundo diz respeito à apuração se o valor dos honorários contra a Fazenda Pública obedeceu ao comando do art. 85, §3º e §5º, CPC.
+
+Para melhor compreensão transcrevo a fundamentação do acórdão rescindendo:
+
+"[...]O Senhor Desembargador FERNANDO HABIBE - Relator A decisão agravada assim fixou (id 92544361): "Em face das considerações alinhadas REJEITO A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA e fixo o seu valor em R$ 2.509.852,53 (dois milhões, quinhentos e nove mil, oitocentos e cinquenta e dois reais e cinquenta e três centavos), conforme cálculos de ID 88064558, pg. 717. Condeno o réu ao pagamento dos honorários advocatícios fixados em 10% (dez por cento) sobre o valor atualizado do débito." Não há dúvidas de que não são devidos honorários advocatícios no caso de rejeição à impugnação ao cumprimento de sentença (Corte Especial, Resp. 1.134.186, Min. Luis Felipe Salomão, 2011). Entretanto, no caso dos autos, os honorários não foram fixados em virtude da sucumbência na impugnação, mas decorrência do próprio cumprimento de sentença para expedição de precatório, impugnado (CPC 85, § 7º, a contrario sensu), Veja-se a decisão id. 63932430 (autos de origem) que recebeu o pedido de cumprimento de sentença: "Cuida-se de pedido de cumprimento de sentença contra a Fazenda Pública do Distrito Federal com base no título executivo de ID 61261440 e ID 61261442, pelo valor indicado na planilha de ID 61231424 e com base nos cálculos homologados em fase de liquidação de sentença (ID 61264303, pág. 168). Manifeste-se o réu no prazo de trinta dias, nos termos do artigo 535 do Código de Processo Civil. Não havendo impugnação, remetam-se os autos ao contador para atualizar o valor e indicar discriminadamente valor total do crédito, valor do principal corrigido, valor dos juros, percentual dos juros de mora, data-base, número de meses referentes a RRA (rendimentos recebidos acumuladamente, se cabível no caso do crédito requisitado), e contribuição previdenciária, em cumprimento da Portaria GPR 7/2019, deste Tribunal. Em seguida, expeçam-se precatórios". Nos termos do CPC 85, § 7º, não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Assim, ante a impugnação, a fixação de honorários referentes à fase de cumprimento de sentença é medida que se impõe. Atente-se para a jurisprudência do STJ: Atente-se para os precedentes do STJ: Ementa PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7°, DO CPC. CABIMENTO 1. "Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Ora, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõem ao cumprimento da obrigação prevista no título executivo. A não ser que se queira ignorar o comando implícito da norma, a interpretação possível é que, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019 e REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020" (AgInt no REsp 1889664/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/12/2020, DJe 10/12/2020). 2. Agravo interno não provido. (1ª T., AgInt no REsp 1.905.400, Min. Benedito Gonçalves, julgado em 2021); Quanto à base de cálculos, diferente do alegado pelo agravante, a impugnação não se limitou ao excesso de execução de R$ 73.315,07 (setenta e três mil e trezentos e quinze reais e sete centavos). O referido excesso foi apresentado como pedido subsidiário, o pedido principal foi de reconhecimento da prescrição da pretensão executória: Confira-se (id. 66956715 - autos de origem): "ANTE O EXPOSTO, o Distrito Federal requer (a) o recebimento desta impugnação, conferindo-lhe efeito suspensivo para o fim de sustar o curso do cumprimento de sentença até sua resolução; (b) a intimação do exequente para, querendo, responder aos termos desta; (c) o seu acolhimento para declarar prescrita a pretensão e, subsidiariamente,, reconhecer o excesso de execução e decotar o valor de R$ 73.316,07; e (d) a condenação do exequente ao pagamento de custas e honorários advocatícios (art. 85, parágrafo 1º, do CPC)". Verifica-se que a impugnação visou extinguir integralmente o cumprimento de sentença, mediante o reconhecimento da prescrição. Assim, correta a fixação dos honorários sobre o valor atualizado do débito executado.  Posto isso, nego provimento ao agravo de instrumento.  O Senhor Desembargador ARNOLDO CAMANHO - 1º Vogal Com o relator O Senhor Desembargador SÉRGIO ROCHA - 2º Vogal Com o relator [...]".
+
+Vê-se pelos fundamentos do julgado rescidendo, que a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, é devida, inclusive com respaldo em orientação reiterada do Superior Tribunal de Justiça, transcrita no acórdão.
+
+  No mesmo sentido a abalizada jurisprudência colacionada aos autos, também do STJ:
+
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. 1. Ressalte-se que não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Ora, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõem ao cumprimento da obrigação prevista no título executivo. A não ser que se queira ignorar o comando implícito da norma, a interpretação possível é que, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019 e REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020" (AgInt no REsp 1889664/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 7/12/2020, DJe 10/12/2020). 2. Agravo interno não provido. (AgInt no AREsp n. 1.979.458/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)"
+
+"PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO PARCIAL. BASE DE CÁLCULO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA EXECUÇÃO. EXCLUSÃO DA PARCELA INCONTROVERSA DO CRÉDITO. 1. Consoante o entendimento do STJ, não haverá necessidade de fixação de honorários advocatícios previstos no art. 85, § 7º, do CPC/2015 quando a Execução não tiver sido impugnada e seu pagamento ocorrer por precatório. 2. No entanto, oferecida resistência à Execução da Sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade. 3. Insurge-se a parte exequente, ora agravante, contra a base de cálculo dos honorários,  pugnando pela adoção do valor total do cumprimento de sentença, e não sobre o valor do excesso apresentado na impugnação. 4. Todavia, verifica-se que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que admite a condenação em honorários advocatícios sobre o valor controverso da Execução, que, no caso, é o excesso de Execução apresentado na impugnação rejeitada. 5. Agravo Interno não provido. (AgInt no REsp n. 1.785.417/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/11/2022, DJe de 13/12/2022.)".
+
+Por conseguinte, em lugar de violação a dispositivo de lei, o acórdão seguiu a orientação promanada do Superior Tribunal de Justiça, salientando que, conforme exposto no acórdão, não se opôs resistência apenas a possível excesso de execução, mas a toda ela, invocando-se a prescrição. Reproduzo o trecho do acórdão:
+
+"[...]Verifica-se que a impugnação visou extinguir integralmente o cumprimento de sentença, mediante o reconhecimento da prescrição. Assim, correta a fixação dos honorários sobre o valor atualizado do débito executado.[...]".
+
+No tocante ao valor fixado pelo juiz, e confirmado pela 4a. Turma Cível, situou-se dentro dos percentuais previstos no art. 85, §3º e §5º, CPC, não havendo demonstração em sentido contrário pelo Distrito Federal de que a condenação tenha inobservado a escala do art. 85,§3º e §5º,CPC. A incidência do percentual devido é calculada sobre o valor puro da condenação, não sobre o valor corrigido.
+
+Assim, também não restou demonstrada violação a literal disposição de lei.
+
+Por fim, conforme consta do processo originário, feitos os cálculos dos honorários, o Distrito Federal com eles anuiu expressamente, inclusive após a propositura da rescisória (11/04/2023).
+
+Veja-se:
+
+"[...]O DISTRITO FEDERAL, vem, com o devido respeito, perante V. Excelência, informar que os cálculos apresentados pela d. Contadoria encontram-se corretos razão pela qual concordamos. Brasília/DF, 6 de janeiro de 2024[...]". (ID 183042678 dos autos de origem).
+
+Ante o exposto e o que mais dos autos consta, julgo improcedente o pedido rescisório, atribuindo ao autor a sucumbência, honorários fixados em R$1.000,00 (hum mil reais).
+
+É como voto.
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorO Senhor Desembargador ROBERTO FREITAS FILHO - 2º Vogal Com o relatorO Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 3º Vogal Com o relatorO Senhor Desembargador FÁBIO EDUARDO MARQUES - 4º Vogal Com o relatorO Senhor Desembargador CARLOS PIRES SOARES NETO - 5º Vogal Com o relatorA Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - 6º Vogal Com o relatorO Senhor Desembargador ROBSON BARBOSA DE AZEVEDO - 7º Vogal Com o relatorO Senhor Desembargador MAURICIO SILVA MIRANDA - 8º Vogal Com o relator
+
+DECISÃO
+
+AÇÃO RESCISÓRIA ADMITIDA E JULGADA IMPROCEDENTE. UNÂNIME
