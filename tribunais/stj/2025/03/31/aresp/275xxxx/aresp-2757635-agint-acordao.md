@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa aos arts. 4 89 e 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A alteração das conclusões do acórdão recorrido quanto à regularidade da intimação exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. A pretensão de rediscutir de quem teria sido a falha na prestação de serviço e a consequente atribuição da responsabilidade de forma diversa do que foi concluído pela Corte local exigiria o revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, situação que faz incidir o enunciado da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por SAINT-GOBAIN DO BRASIL PRODUTOS INDUSTRIAIS E PARA CONSTRUÇÃO LTDA em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 952):
+BEM MÓVEL COMPRA E VENDA AÇÃO DE REPARAÇÃO DE DANOS. Elementos dos autos que corroboraram a alegação da autora no sentido de que suportou problemas com a utilização do impermeabilizante adquirido junto à ré, que se revelou ineficiente ao fim destinado. Parte requerida que não se desincumbiu do ônus de comprovar fatos extintivos, modificativos ou impeditivos do direito da autora. Inteligência ao art. 373, I e II, do CPC. Sentença de procedência mantida. RECURSO DA RÉ DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 973-977).
+Nas razões do especial (e-STJ, fls. 980-997), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 272 e 346 do CPC/2015 e 5º da Lei n. 11.419/2006, defendendo a nulidade por falta de intimação do julgamento do recurso de apelação;
+c) arts. 374 e 389 do CPC/15, apontando a necessidade de se reconhecer a falha na execução de serviços, pois feita por empresa sem expertise necessária para aplicação do produto, declarada sem ter ART - Anotação de Responsabilidade Técnica, o que causou os prejuízos as recorrentes.
+Oferecidas as contrarrazões às fls. 1047-1058 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fls. 1059-1062, e-STJ), o que ensejou o manejo do agravo (fls. 1065-1077, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 1100-1105), este signatário negou provimento ao recurso especial em razão da ausência de negativa de prestação jurisdicional e incidência da Súmula 7/STJ.
+No presente agravo interno (e-STJ, fls. 1115-1166), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1171-1178 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Não há falar em ofensa aos arts. 4 89 e 1022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A alteração das conclusões do acórdão recorrido quanto à regularidade da intimação exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+3. A pretensão de rediscutir de quem teria sido a falha na prestação de serviço e a consequente atribuição da responsabilidade de forma diversa do que foi concluído pela Corte local exigiria o revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, situação que faz incidir o enunciado da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Consoante asseverado na decisão singular, a apontada violação aos arts. 489 e 1.022 do CPC/15 não se configura. Constata-se, da leitura do aresto objurgado, que a Corte estadual, ao apreciar o recurso interposto pela parte, dirimiu a controvérsia e decidiu as questões postas à apreciação de forma suficientemente fundamentada, sem omissões, manifestando-se expressamente acerca da ausência de nulidade e da suficiência da prova pericial realizada, porém, em sentido contrário ao pretendido pela recorrente, o que não configura negativa de prestação jurisdicional ou deficiência de fundamentação.
+Assim constou do acórdão (fl. 975-976, e-STJ):
+Não há que se cogitar em nulidade, eis que a parte não apresentou oposição à realização do julgamento na modalidade virtual, embora regularmente intimada, nos termos do art. 1º da Resolução 549/2011, com redação estabelecida pela Resolução 772/2017, ambas do Órgão Especial deste Tribunal, conforme publicação realizada no DJe de 16.03.2023.
+Quanto ao mais, conforme ressaltado na ocasião, o douto togado de 1º grau deu adequada solução à lide, mediante sentença percucientemente fundamentada, que não reclama modificação, não tendo as alegações apresentadas o condão de esvaziar os sólidos fundamentos do édito monocrático recorrido, que bem analisou os elementos de prova colhidos sob o crivo da ampla defesa e do contraditório.
+Registrou-se, ainda, que a prova pericial (fls. 713/779) corroborou a alegação da embargada, no sentido de que o produto fornecido pela embargante não apresentou a eficiência esperada para o fim destinado, tendo o perito judicial analisado, com riqueza de detalhes, a problemática enfrentada pelas partes, debruçando-se em torno da argumentação ventilada e avaliando as especificações técnicas do produto, o projeto construtivo, as variadas fotografias e ilustrações insertas no feito, tudo para chegar à conclusão em torno da responsabilidade da recorrente em relação aos danos coma aplicação do produto (fls. 764, 776 e 777), o que também se extrai das respostas aos quesitos formulados pelas partes.
+Consignou-se, também, que a prova pericial demonstrou, claramente, que o prejuízo apontado pela recorrida é de responsabilidade da parte acionada, inexistindo suficiente conclusão técnica em sentido contrário, não tendo a embargante se desincumbido do ônus de comprovar que o problema, na realidade, guardava relação com a ocorrência de vícios construtivos, o que lhe incumbia, nos termos do art. 373, II, do Código de Processo Civil.
+Tem-se, portanto, que a argumentação ventilada pela parte foi devidamente levada em consideração quando da prolação do aresto embargado, embora o desfecho tenha sido realizado de maneira desfavorável aos interesses da parte, inexistindo qualquer tipo de omissão, contradição ou obscuridade no exame da matéria.
+Não é demais lembrar a orientação desta Corte no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIÊNCIA. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE PÔS TERMO À EXECUÇÃO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE, PORQUANTO NÃO HÁ DÚVIDA A RESPEITO DO RECURSO ADEQUADO. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A interposição de agravo de instrumento contra sentença que extingue processo de execução configura erro grosseiro e inviabiliza a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1520112/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+(..)
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ressalta-se que não há falar em omissão quando não acolhida a tese ventilada pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes ao deslinde do feito, como ocorre na hipótese.
+Inexiste, portanto, violação ao artigo 1.022 do CPC/15, visto que as questões foram apreciadas pelo Tribunal de origem, cuja fundamentação foi clara e suficiente para o deslinde da controvérsia.
+2. No tocante à apontada ofensa aos arts. 272 e 346 do CPC/2015 e 5º da Lei n. 11.419/2006, a parte alegou a falta de intimação do julgamento do recurso de apelação.
+Sobre o tema, confira-se (e-STJ, fl. 975):
+Não há que se cogitar em nulidade, eis que a parte não apresentou oposição à realização do julgamento na modalidade virtual, embora regularmente intimada, nos termos do art. 1º da Resolução 549/2011, com redação estabelecida pela Resolução 772/2017, ambas do Órgão Especial deste Tribunal, conforme publicação realizada no DJe de 16.03.2023.
+Nesse contexto, a reforma das conclusões do acórdão recorrido quanto à regularidade da intimação exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n.º 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. NULIDADE DE INTIMAÇÃO. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE MANIFESTAÇÃO NA PRIMEIRA OPORTUNIDADE. PRECLUSÃO. SÚMULA Nº 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A alteração das conclusões do acórdão recorrido quanto à inexistência de irregularidade da intimação do advogado exige a reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+2. A nulidade por ausência de intimação do advogado indicado pela parte deve ser alegada na primeira oportunidade em que couber à parte falar aos autos, sob pena de preclusão.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.201.561/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023.)
+3. Por fim, em relação à apontada violação aos arts. 374 e 389 do CPC/15, a parte sustentou a necessidade de se reconhecer a falha na execução de serviços, pois feita por empresa sem expertise necessária para aplicação do produto, declarada sem ter ART - Anotação de Responsabilidade Técnica, o que causou os prejuízos as recorrentes.
+Acerca dessa temática, extrai-se o seguinte excerto do acordão recorrido (e-STJ, fl. 956-957):
+A prova pericial (fls. 713/779) corroborou a alegação da autora, no sentido de que o produto fornecido pela ré não apresentou a eficiência esperada para o fim destinado. O experto analisou, comriqueza de detalhes, a problemática enfrentada pelas partes, debruçando-se emtorno da argumentação ventilada e analisando as especificações técnicas do produto, o projeto construtivo, as variadas fotografias e ilustrações insertas no feito, tudo para chegar à conclusão em torno da responsabilidade da requerida em relação aos danos com a aplicação do produto (fls. 764, 776 e 777), o que também se extrai das respostas aos quesitos formulados pelas partes. O fato é que a prova pericial demonstrou, claramente, que o prejuízo apontado pela autora é de responsabilidade da parte acionada, inexistindo suficiente conclusão técnica em sentido contrário. A ré não se desincumbiu do ônus de comprovar que o problema, na realidade, guardava relação com a ocorrência de vícios construtivos, o que lhe incumbia, nos termos do art. 373, II, do Código de Processo Civil.
+Os orçamentos de fls. 90/93, que não foram alvo de específica impugnação, não deixam dúvidas acerca dos prejuízos suportados pela autora, a justificar a condenação imposta na sentença. Quanto ao mais, embora a requerida alegue que a autora indicou notas fiscais de outra construção, não é possível compreender, através da narrativa apresentada, de que forma tal circunstância teve o condão de interferir no desfecho conferido à lide. E uma vez reconhecida sua responsabilidade pelo ocorrido, queda sem sentido sua insurgência em relação à necessidade de acolhimento do pedido de "assistência" a fim de que terceiro seja integrado à lide para partilhar a obrigação que lhe compete.
+Dessa forma, a pretensão de rediscutir de quem teria sido a falha na prestação de serviço e a consequente atribuição da responsabilidade de forma diversa do que foi concluído pelo Tribunal de origem exigiria o revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, situação que faz incidir o enunciado da Súmula 7 do STJ.
+No mesmo sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO . IRRESIGNAÇÃO RECURSAL DA PARTE AUTORA.
+1. A teor do que dispõe a Súmula 518 desta Corte Superior, "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alega da violação de enunciado de súmula".
+2. A pretensão recursal de reconhecimento de falha na prestação de serviço ensejando a responsabilidade da instituição financeira pela realização de duas transferências mediante fraude de terceiros exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, situação que faz incidir o enunciado da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.206.195/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
