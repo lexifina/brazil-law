@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por ANDRÉ LUIZ DIAS contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento de agravo em execução penal n. 0004367-14.2024.8.26.0071.
+O agravante requereu o indulto da pena de multa com base no art. 2º, inciso X, do Decreto Presidencial nº 11.846/23, argumentando que a pena de multa possui natureza jurídica de dívida de valor, sendo autônoma e independente da pena corporal, não cabendo distinção quanto à sua origem.
+O juízo da execução indeferiu o pedido de indulto, fundamentando que a pena de multa adveio de crime hediondo, situação não abrangida pelo referido decreto presidencial.
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 54):
+Agravo em Execução Penal Pretensão à concessão do indulto da pena de multa, com base no artigo 2º, inciso X, do Decreto Presidencial nº 11.846/2023 Inviabilidade Condenação pelo crime de roubo qualificado pelo concurso de agentes e pela restrição da liberdade da vítima, tratando- se de delito impeditivo à concessão da benesse, a teor do artigo 1º, inciso I, do Decreto Presidencial Decisão mantida Recurso de agravo desprovido.
+Interposto recurso especial, com fulcro no art. 105, III, alínea "a", da Constituição Federal, a defesa alegou violação ao art. 51 do Código Penal e ao art. 2º, inciso X, do Decreto Presidencial nº 11.846/23, sustentando a necessidade de reconhecimento do indulto independentemente da natureza do crime praticado (e-STJ fls. 65-77).
+O recurso especial foi inadmitido na origem, ao argumento de ausência de prequestionamento (e-STJ fls. 89-91), o que ensejou a interposição do presente agravo, no qual o agravante sustenta que não incidem os óbices apontados pela decisão agravada, pleiteando o conhecimento e provimento do recurso especial para que seja reconhecido o direito ao indulto da pena de multa (e-STJ fls. 97-114).
+Contraminuta apresentada (e-STJ fls. 179-184).
+O Ministério Público Federal manifestou-se pelo conhecimento e desprovimento do agravo em recurso especial (e-STJ fls. 204-207).
+É o relatório.
+Decido.
+O agravo é tempestivo e foi impugnado o fundamento do despacho de inadmissibilidade.
+Passo a analisar o recurso especial.
+Insurge-se a defesa contra acórdão que, mantendo decisão de primeira instância, indeferiu o indulto de multa originária de condenação por crime hediondo.
+Prosseguindo na análise das teses defensivas, não vejo como prover o recurso especial.
+Conforme a jurisprudência desta Corte superior, o indulto da pena de multa que ora se pretende não encontra respaldo no próprio arcabouço legal do Decreto referido, que é expresso em negar os seus benefícios àqueles apenados condenados para prática de delitos equiparados a hediondos, hipótese dos autos, e também aqueles próprios hediondos praticados após a edição das Leis n 8.072/1990, 8.930/1994, 9.695/1998, 11.464/2007, e 12.015/2009. Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO DA PENA DE MULTA. APENADA CONDENADA POR TRÁFICO ILÍCITO DE ENTORPECENTES. CRIME EQUIPARADO A HEDIONDO. VEDAÇÃO LEGAL PREVISTA NA CONSTITUIÇÃO FEDERAL E NO DECRETO N. 7.046/09 (ART. 8º, INCS. I E II). CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Inviável a concessão de indulto da pena de multa aos condenados por delitos equiparados a hediondo, sobretudo àqueles condenados por tráfico ilícito de drogas, como no caso, por expressa vedação do Decreto n. 7.046/09 (art. 8º, incs. I e II) e também por expressa vedação constitucional.
+3. Habeas corpus não conhecido.
+(HC n. 249.333/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/10/2016, DJe de 28/10/2016.) (grifei).
+Da mesma forma, o Supremo Tribunal Federal consolidou sua jurisprudência "no sentido de que o instituto da graça, previsto no art. 5.º, inc. XLIII, da Constituição Federal, engloba o indulto e a comutação da pena, estando a competência privativa do Presidente da República para a concessão desses benefícios limitada pela vedação estabelecida no referido dispositivo constitucional" (HC 115.099/RS, Rel. Ministra CÁRMEN LÚCIA, SEGUNDA TURMA, DJe 14/3/2013).
+Desse modo, estando vedada a concessão de indulto aos condenados por crime hediondo pela Constituição Federal, não merece prosperar a discussão acerca da possibilidade de concessão do referido benefício ao agravante condenado por crime hediondo, com base no Decreto citado, devendo ser preservado o acórdão impugnado em sua integralidade, porque não destoa da jurisprudência.
+De fato, como pontuado pelo Ministério Público Federal, "por se tratar de condenação por crime impeditivo, o agravante não faz jus ao indulto, diante da vedação contida no Decreto em comento, que não faz distinção entre as espécies de pena (Privativa De Liberdade, Restritiva De Direitos Ou Pena De Multa)" (e-STJ fl. 208).
+Portanto, a harmonia do acórdão recorrido com a jurisprudência superior desta Corte atrai a incidência da Súmula 83/STJ, a obstar o conhecimento do recurso especial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
