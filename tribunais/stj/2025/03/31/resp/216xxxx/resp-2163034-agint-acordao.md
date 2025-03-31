@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RETENÇÃO DE 25% DOS VALORES PAGOS. JURISPRUDÊNCIA SEDIMENTADA NA SEGUNDA SEÇÃO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga.
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas n. 5 e 7, ambas do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PATRIANI INCORPORAÇÃO 17 SPE LTDA. (PATRIANI) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. AÇÃO RESOLUÇÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS. INICIATIVA DOS COMPRADORES. VIOLAÇÃO DO ART. 67-A, § 5º DA LEI Nº 13.786/2018 (LEI DO DISTRATO). PLEITO DE RETENÇÃO DE 50% DOS VALORES PAGOS. IMPOSSIBILIDADE. INEXISTÊNCIA DE PROVA DE QUE A INCORPORAÇÃO ESTEJA SUBMETIDA AO REGIME DE PATRIMÔNIO DE AFETAÇÃO. REFORMA DO ENTENDIMENTO. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ, POR AMBAS AS ALÍNEAS DO PERMISSIVO CONSTITUCIONAL. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 393).
+Nas razões do presente inconformismo, alegou (1) a inaplicabilidade das Súmulas n. 5 e 7 do STJ, por não se pretender o reexame da prova, mas sua valorização, bem como a questão não se referir a interpretação de cláusula contratual; e (2) comprovou a divergência jurisprudencial.
+Houve impugnação ao recurso (e-STJ, fls. 416/423).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RETENÇÃO DE 25% DOS VALORES PAGOS. JURISPRUDÊNCIA SEDIMENTADA NA SEGUNDA SEÇÃO. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga.
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas n. 5 e 7, ambas do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, o Tribunal local, no que concerne ao adquirente possuir a faculdade de requerer a rescisão contratual e devolução de parte dos valores pagos, manifestou-se nos seguintes termos:
+A ação foi ajuizada pelos promitentes compradores para resolução de compromisso de venda de imóvel, com pedido de restituição de 90% das quantias pagas, aduzindo impossibilidade de continuar arcando com as prestações.
+O d. Magistrado a quo julgou a ação procedente, para escindir o contrato e condenar a Ré a devolver aos Autores 90% dos valores pagos.
+No tocante ao pleito de rescisão, conforme remansosa jurisprudência, inclusive súmula desta Corte, é faculdade do comprador rescindir o compromisso de compra e venda, ainda que se encontre inadimplente.
+Do que consta dos autos, ficou incontroverso que a rescisão se deu a pedido dos Autores, de modo que é devida a retenção de valores em favor da Ré.
+Em que pese isso, convém ressaltar que em havendo a intenção de rescisão do contrato por vontade dos Autores, e lembrando que a natureza da relação entre as partes é consumerista, possível analisar a validade das cláusulas contratuais à luz das regras do CDC, invalidando as disposições que as contrariem.
+Dessa forma, o reiterado entendimento deste E. Tribunal em hipóteses análogas, é de que seja autorizada retenção de percentual para cobrir as despesas administrativas, sendo que, na resolução do contrato, as partes devem ser restituídas à situação em que se encontravam antes da celebração do negócio, como dispõe a Súmula nº 1 desta C. Corte:
+"O compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem."
+Acerca do percentual de retenção, a Ré requereu na defesa fosse aplicado ao caso a Lei de Distrato.
+O contrato em questão foi firmado em setembro de 2022 (fls. 34 e ss), portanto a Lei nº 13.786/18 deve ser observada no caso,vez que a avença foi celebrada entre as partes já sob sua vigência.
+Por sinal, esta C. Câmara possui o entendimento que, em regra, apenas não se aplicam as disposições da sobredita lei aos contratos celebrados antes de sua vigência.
+Não desconsidero que há julgados desta E. Corte que admitem a retenção de 50% da quantia paga a título de cláusula penal, nos termos do art. 67-A, § 5º, da Lei 4.591/64, com a redação dada pela Lei 13.786/18, desde que a incorporação esteja submetida ao regime de patrimônio de afetação.
+ ..
+Na hipótese, porém, considero inaplicável o sobredito dispositivo legal, haja vista que a Ré Apelante não trouxe aos autos qualquer prova documental hábil a comprovar que a incorporação está, de fato, submetida ao regime de patrimônio de afetação.
+ ..
+Por essa razão, há de se observar na hipótese entendimento consolidado do C. STJ e desta E. Corte, no sentido de que a denúncia de compromisso de compra e venda pelo comprador justifica a perda entre 10 e 25% do valor pago, sob pena de violação da proibição de abusividade (CDC, art. 51, IV):
+ ..
+In casu, tendo em vista a possibilidade da Ré comercializar o bem novamente, entendo que o percentual de retenção deve ser fixado em 25%, sendo adequado ao caso em apreço, vez que lhe indeniza suficientemente pelas despesas administrativas com a venda do imóvel.
+ ..
+Assim, fica mantida a resolução do contrato firmado, por culpa exclusiva dos compradores, com determinação de devolução das quantias pagas e retenção de 25% a título de pena convencional, nos termos acima consignado. O pedido inicial é, portanto, parcialmente procedente (e-STJ, fls. 229/301 - sem destaques no original .
+Nesse contexto, o Tribunal local estaria em conformidade com a jurisprudência firmada no sentido de que, nas hipóteses de rescisão do contrato de promessa de compra e venda por inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga. Precedentes. Incidindo, assim, a Súmula n. 83 do STJ.
+Nesse sentido, vejam-se os seguintes julgados:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. LOTE URBANO NÃO EDIFICADO EM QUE HOUVE A CONSTRUÇÃO DE MORADIA. DESISTÊNCIA POR INICIATIVA DOS COMPRADORES. RETENÇÃO DE 25% DOS VALORES PAGOS. JURISPRUDÊNCIA SEDIMENTADA NA SEGUNDA SEÇÃO. SÚMULA N.º 568 DO STJ. ALEGAÇÃO DE IMPOSSIBILIDADE DA RETENÇÃO DE VALORES CUMULATIVAMENTE COM A COBRANÇA DE TAXA DE OCUPAÇÃO. INOVAÇÃO DE ARGUMENTO. IMPOSSIBILIDADE. MATÉRIA PRECLUSA. AGRAVO INTERNO NÃO PROVIDO.
+1. O recurso especial da incorporadora foi parcialmente provido, apenas para majorar o percentual de retenção de 20% para 25% dos valores pagos pelos compradores, conforme orientação fixada pela eg. Segunda Seção desta Corte, no julgamento do REsp n. 1.723.519/SP, no qual se concluiu pela possibilidade da rescisão de contratos de promessa de compra e venda de imóvel por interesse exclusivo dos adquirentes, mesmo em contratos firmados antes da vigência da Lei nº 13.786/2018, como no caso.
+2. A alegação pelos adquirentes, em agravo interno, de que a retenção de parte dos valores pagos não poderia ser cumulada com a cobrança da taxa de ocupação, configura inovação de argumento, inadmissível na via eleita, por se tratar de questão que não foi suscitada, oportunamente, nas instâncias ordinárias, tendo sido alcançada pela preclusão c onsumativa.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.068.367/SP, de minha relatoria, Terceira Turma, julgado em 2/10/2023, DJe de 4/10/2023)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. "A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" - (REsp 1723519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/10/2019).
+2. A Segunda Seção desta Corte, no julgamento do Resp nº 1.723.519/SP, em 28/08/2019, de relatoria da Ministra Maria Isabel Gallotti, reafirmou a orientação pela adoção de um padrão-base de cláusula penal - retenção de 25% dos valores pagos - nos casos de desistência imotivada pelo comprador de imóvel, em que o acórdão recorrido não menciona qualquer circunstância específica apta a justificar a redução do parâmetro jurisprudencial, isto é, aquém do percentual de 25%. Precedentes.
+3. A jurisprudência desta Corte Superior é assente em afirmar que, em caso de rescisão de contrato de compra e venda de imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide sobre cada desembolso.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.987.552/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022)
+Ademais, para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas n. 5 e 7, ambas desta Corte: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO POR CULPA DOS COMPRADORES. RETENÇÃO DE 10% DOS VALORES PAGOS. REVISÃO DE CLÁUSULAS CONTRATUAIS, FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. PERCENTUAL FIXADO NA ORIGEM DE ACORDO COM A JURISPRUDÊNCIA DO STJ.
+1. A modificação do percentual fixado na origem demanda a interpretação de cláusula contratual e o reexame do acervo fático-probatório dos autos, procedimentos inviáveis em recurso especial (Súmulas n. 5 e 7/STJ).
+2. A jurisprudência desta Corte, diante de resilição contratual por iniciativa do comprador, sedimentou-se acerca das balizas para a aplicação da cláusula penal, permitindo a retenção no percentual entre 10% e 25% dos valores pagos.
+Agravo interno improvido
+(AgInt no AREsp n. 2.701.096/GO, relator Ministro Humberto Martins, Terceira Turma, julgado em 2/12/2024, DJEN de 5/12/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISPRUDENCIAL. INEXISTÊNCIA. SUFICIÊNCIA NA FUNDAMENTAÇÃO. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO COMPRADOR. COMISSÃO DE CORRETAGEM. INEXISTÊNCIA DE PREVISÃO CONTRATUAL. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegação de violação aos arts. 489, § 1º, IV, 1.022 II, do CPC/2015 não ficou configurada, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte. Registre-se que o julgador não está obrigado a analisar todos os argumentos invocados pela parte quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+2. O Tribunal estadual concluiu que não foram cumpridos os requisitos exigidos para a referida cobrança da comissão de corretagem, por ausência de previsão contratual. Desse modo, o entendimento do acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, sendo aplicável a Súmula 83/STJ à hipótese.
+3. A modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal, demandaria o reexame do acervo fático-probatório dos autos e análise e interpretação de cláusulas contratuais, procedimentos inviáveis no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça "é no sentido de permitir a retenção no percentual de 10% a 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do promitente-comprador, bem como proibir a revisão do valor estabelecido nesta circunstância, por implicar em reexame fático- probatório" (AgInt no AREsp n. 2.579.263/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.649.414/RN, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024)
+Por derradeiro, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/5/2018, DJe 15/5/2018)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
