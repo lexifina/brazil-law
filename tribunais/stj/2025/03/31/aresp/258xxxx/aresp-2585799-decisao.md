@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto JOÃO BATISTA PALERMO contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 750):
+"AGRAVO REGIMENTAL Decisão que indeferiu os benefícios da justiça gratuita ao ora agravante Razoabilidade Ausência de evidências da condição de hipossuficiência financeira - Decisão mantida - Regimental improvido."
+Nas razões do apelo nobre (fls. 754-793), JOÃO BATISTA PALERMO aponta, além de divergência jurisprudencial, violação ao art. 99, §7º, do CPC/15, ao argumento, entre outros, de que "(..) ao contrário do que sustenta a decisão de fls. 673/675 reprochado, há muito se encontra pacificado na jurisprudência do E. STJ que a simples afirmação de carência econômica na própria petição inicial é suficiente para concessão do benefício da justiça gratuita" (fls. 768-769 - destaques no original).
+Aduz, também, que "(..) condicionar a apreciação do pedido de gratuidade à apresentação de outro documento, além da declaração da própria pobreza juntada aos autos e documentos de fls. 538, 539, 540, 541/547, é o mesmo que indeferir a benesse pretendida, pois, como já dito, a parte interessada está diante da "prova diabólica", ou prova negativa, já que tem que provar que nada tem" (fls. 775).
+Aduz, ainda, que "(..) cuidando-se de pessoa natural, basta o simples requerimento para a concessão do benefício da assistência judiciária gratuita, sendo dispensável a comprovação, de plano, de sua condição de miserabilidade. Trata-se, é claro, de presunção relativa, podendo ser refutada por prova em contrário, cujo ônus, a princípio, é da parte ex adversa e não do próprio Recorrente, ou pelo(a) magistrado(a), havendo fundadas razões, como no exemplo supra ofertado" (fls. 776 - destaques no original).
+Intimados, JOSE AIRTON PALERMO JUNIOR E OUTROS apresentou contrarrazões (fls. 842-844), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 849-852), motivando o agravo em recurso especial (fls. 894-923) em testilha.
+Não foi apresentada contraminuta (vide certidão à fl. 931).
+É o relatório. Passo a decidir.
+Sobre o tema, oportuno consignar que em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o singelo requerimento para concessão da assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+No caso em testilha, o eg. TJ-SP, com arrimo no acervo fático-probatório carreado aos autos, indeferiu o pedido de assistência judiciária gratuita formulado pelo ora Agravante, assentando, entre outros fundamentos, que "(..) a situação de hipossuficiência alegada pelo embargado/apelante não restou eficazmente comprovada". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 751-752):
+"A propósito, constou da r. decisão monocrática: ".. Nos termos do que dispõe o art. 98, do Código de Processo Civil (Lei 13.105/2015): "A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei".
+Assim, tem-se que o benefício da justiça gratuita pode ser usufruído por qualquer pessoa que seja parte no processo, observando-se que não basta a mera declaração da impossibilidade de arcar com as custas e despesas processuais, porque a concessão do benefício somente é admissível em condições excepcionais, se comprovado que efetivamente não ostentam possibilidade alguma de arcar com as custas do processo e os honorários advocatícios.
+Na espécie, tenho que a situação de hipossuficiência alegada pelo embargado/apelante não restou eficazmente comprovada.
+Ele se qualifica como produtor rural, almejando, por meio da execução de título extrajudicial correlata, benefício econômico da ordem de aproximadamente R$ 200.000,00, correspondentes a 300 sacas de café.
+Não trouxe, ademais, suficiente documentação buscando evidenciar sua efetiva situação econômico-patrimonial.
+Optou por trazer simples declaração de isenção de declaração de imposto de renda elaborada de forma unilateral.
+Outrossim, no feito executivo, recolheu as custas iniciais e despesas com oficial de Justiça e afins, o que faz com que o pedido de concessão da benesse da gratuidade, apenas em sede recursal nestes embargos de terceiro, adquira contornos de subterfúgio ao pagamento do preparo.
+Ora, pretensões como a presente, a exemplo dos demais pedidos judiciais, devem ser fundamentadas e comprovadas de maneira eficaz.
+Pelo exposto, indefiro o pedido de justiça gratuita, bem como os pedidos subsidiários, e concedo o prazo de cinco dias para o recolhimento do valor do preparo recursal em ambos os embargos de terceiro, sob pena de deserção dos apelos interpostos nos dois feitos..".
+Reforço que meras alegações, sem comprovação documental, não servem ao fim pretendido, de concessão da benesse da gratuidade."
+(g. n.)
+Nesse contexto, não se infere ofensa ao art. 99, §7º, do CPC/15, uma vez que o entendimento do eg. TJ-SP coaduna com a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes julgados:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. RESCISÃO CONTRATUAL. CULPA DO COMPRADOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. INVIABILIDADE, NO CASO. OBSERVADO O DEVER DE INFORMAÇÃO. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, tratando-se de concessão do benefício de gratuidade da justiça a pessoa física, há presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família. Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente. Precedentes.
+(..)
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 2.294.878/RJ, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. GRATUIDADE DA JUSTIÇA. ARTS. 98 E 99 DO CÓDIGO DE PROCESSO CIVIL. PRESUNÇÃO RELATIVA DE HIPOSSUFICIÊNCIA. PRESUNÇÃO ILIDIDA. PRECEDENTES. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. O benefício, todavia, pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica. Precedentes.
+2. Na hipótese, o Tribunal de origem negou provimento ao recurso porque verificou nos autos elementos que afastavam a condição de miserabilidade jurídica.
+3. Modificar a conclusão do Tribunal de origem - sobre a real necessidade da parte agravante de arcar com as custas processuais ou não - implicaria reexame de matéria fático-probatória, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.040.477/DF, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 11/9/2023, DJe de 14/9/2023 - g. n.)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.257.915/CE, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. AFASTAR CLÁUSULA RESTRITIVA. DEVER DE INFORMAÇÃO. FUNDAMENTOS SUFICIENTES NÃO IMPUGNADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA N. 283 DO STF. SÚMULA N. 83 DO STJ. INCIDÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A Súmula n. 83 do STJ tem aplicação aos recursos especiais interpostos tanto pela alínea c quanto pela alínea a do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.074.830/RS, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023 - g. n.)
+Ademais, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n.7/STJ. Nessa linha de intelecção, destacam-se os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. SÚMULAS N. 7 DO STJ.
+1. "O pedido de justiça gratuita pode ser formulado em qualquer momento do processo. Para fins de concessão, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo sem comprometer o próprio sustento ou de sua família, podendo o magistrado indeferir o pedido apenas se encontrar elementos que infirmem a alegada hipossuficiência (CPC/2015, arts. 98 e 99)" (AgInt no AREsp 1791835/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2021, DJe 18/06/2021).
+2. "Se não verificar a presença dos pressupostos legais, pode o julgador indeferir o pedido de gratuidade, após dispensar à parte oportunidade de apresentação de documentos comprobatórios (art. 99, § 2º, do CPC/15)" (REsp 1837398/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 25/05/2021, DJe 31/05/2021).
+3. Na hipótese, o magistrado de piso e o Tribunal de origem, com base na análise das circunstâncias do caso, rejeitaram a concessão do benefício da justiça gratuita. Entender de forma diversa demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súm 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no REsp n. 1.610.443/RS, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUSTIÇA GRATUITA. REQUISITOS. COMPROVAÇÃO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. IMPUGNAÇÃO AO BENEFÍCIO. CAPACIDADE. ÔNUS DO IMPUGNANTE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrente quanto à ausência de demonstração pela agravada dos requisitos para a concessão da assistência judiciária gratuita demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+3. "Além disso, na hipótese de impugnação do deferimento da assistência judiciária gratuita, cabe ao impugnante comprovar a ausência dos requisitos legais para a concessão do benefício, ônus do qual não se incumbiu a parte ora agravante, segundo assentado pelo acórdão recorrido. Incidência da Súmula 83 do STJ" (AgInt no AREsp 1023791/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/03/2017, DJe 29/03/2017).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.115.603/RJ, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 10/10/2017, DJe de 17/10/2017 - g. n.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
