@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de NALBERT SILVA SOLANO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação n. 0003137- 54.2019.8.07.0001).
+Depreende-se dos autos que o réu foi condenado a 8 anos de reclusão, no regime inicialmente semiaberto, pela prática de tráfico de drogas e associação para o mesmo fim, sendo-lhe negado o direito de recorrer em liberdade.
+Interposta apelação, o Tribunal de origem negou provimento ao recurso (e- STJ fls. 2.196/2.241).
+Daí o presente writ, no qual alega a defesa incompatibilidade entre a custódia cautelar e o regime semiaberto fixado na sentença.
+Aponta a falta de prova suficiente da autoria e materialidade quanto ao crime de tráfico de drogas.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+A liminar foi indeferida (e-STJ fls. 2349/2350).
+As informações foram prestadas (e-STJ fls. 2357/2361 e 2362/2387).
+O Ministério Público Federal manifestou-se pela parcial concessão da ordem para tão somente "determinar a imediata transferência do paciente para o estabelecimento penal adequado com o regime semiaberto, caso isto ainda não tenha ocorrido" (e-STJ fl. 2396).
+O impetrante apresentou memoriais às e-STJ fls. 2399/2404.
+É o relatório.
+Decido.
+Insta consignar, inicialmente, ser "plenamente possível que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral" (AgRg no HC n. 764.854/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 21/12/2022)" (AgRg no RHC n. 179.956/MT, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/12/2023, DJe de 18/12/2023).
+Noutro giro, a jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+Entretanto, tal não é o caso do presente writ, na medida em que não se verifica a ocorrência de flagrante ilegalidade apta a ensejar a concessão da ordem de ofício.
+Em primeiro lugar, verifico que, para se infirmar a conclusão das instâncias ordinárias acerca da materialidade e da autoria do crime de tráfico de drogas imputado ao paciente, forçoso seria o revolvimento fático-probatório da matéria, o que é incabível na via estreita do mandamus.
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO ABSOLUTÓRIO. REEXAME FÁTICO-PROBATÓRIO. INADEQUAÇÃO DA VIA ELEITA. I. CASO EM EXAME
+ ..
+3. A análise do pedido de absolvição ou desclassificação do crime depende de revolvimento fático-probatório, o que não é permitido na via estreita do habeas corpus.
+4. A condenação pelo crime de tráfico de drogas está devidamente fundamentada na materialidade delitiva, comprovada pela apreensão de entorpecentes e laudos periciais.
+5. A autoria delitiva está demonstrada pelos depoimentos consistentes e harmônicos dos policiais que participaram da operação, os quais confirmaram a posse dos materiais apreendidos pelo agravante e sua participação no tráfico.
+6. A associação para o tráfico também restou comprovada pela conduta do agravante, vinculado de forma permanente a uma facção criminosa que opera na região, conforme as circunstâncias da diligência e os depoimentos dos policiais.
+7. O acórdão recorrido está alinhado com a jurisprudência da Quinta Turma do STJ, que reconhece a inviabilidade de reanálise de fatos e provas por meio de habeas corpus.
+IV. ORDEM NÃO CONHECIDA.
+(HC n. 841.224/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 11/11/2024, negritos aditados)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO FÁTICOPROBATÓRIO. PENA-BASE ACIMA DO MÍNIMO. QUANTIDADE DE DROGA APREENDIDA E MAUS ANTECEDENTES. REDUTOR. INVIABILIDADE. REGIME FECHADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez que as instâncias ordinárias concluíram haver elementos concretos e coesos o bastante para ensejar a condenação pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006), mostra-se inviável a absolvição do agravante, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+2. Para entender-se pela absolvição do paciente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível na via estreita do habeas corpus, de cognição sumária.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 917.180/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024, negritos aditados)
+Inexiste, portanto, flagrante ilegalidade em relação à conclusão obtida pelas instâncias de origem, mesmo porque a condenação do paciente é lastreada em elementos probatórios idôneos, coesos e hígidos consubstanciados nos depoimentos dos agentes de segurança responsáveis pela apreensão do material entorpecente, bem como da autoridade policial que presidiu as investigações, restando delineada a conduta descrita no art. 33, caput, da Lei de Drogas que fora desenvolvida pelo paciente, sendo de se destacar que, além da apreensão de material ilícito em sua residência, há diálogos interceptados com autorização judicial que evidenciam a prática de tal delito.
+Em relação à tese defensiva concernente à incompatibilidade entre a fixação do regime inicial semiaberto e a manutenção da prisão cautelar, o entendimento deste Tribunal é no sentido de "não haver incompatibilidade entre a negativa do recurso em liberdade e a fixação do regime semiaberto, sendo apenas necessária a compatibilização da custódia com o regime imposto" (AgRg no HC n. 829.686/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023), sendo de se destacar que o paciente, conforme informado pela Defesa às e-STJ fls. 2399/24020, já se encontra no regime semiaberto, tendo ocorrido, portanto, a readequação do regime prisional, atendendo, pois, aos ditames delineados por esta Corte. Não se vislumbra, assim, flagrante ilegalidade quanto ao ponto.
+Quanto à necessidade da prisão cautelar, restou delineado na r. sentença condenatória que o paciente permaneceu foragido durante a instrução processual (e-STJ fl. 1977). Assim, tenho que a cautelar máxima deve ser mantida, com vistas a assegurar a aplicação da lei penal, diante do evidente risco de fuga do paciente - notadamente no presente estágio processual, em que já fora prolatada sentença condenatória, ante o risco de o paciente se furtar do cumprimento da reprimenda penal que lhe fora imposta.
+Na forma da jurisprudência desta Corte, "Ao que se vê, os fundamentos da prisão preventiva são robustos, relacionando a excepcional gravidade concreta da conduta, sinalizada pelas circunstâncias e pela forma de cometimento do crime contra a vida, bem como o risco à aplicação da lei penal evidenciado pela aparente fuga do distrito da culpa, tudo a justificar a custódia processual" (AgRg no HC n. 955.125/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024).
+Ademais, "Condições subjetivas favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória" (AgRg no HC n. 953.819/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+Por fim, o quadro acima exposto denota a insuficiência das medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal, visto não possibilitarem a obtenção do mesmo resultado prático ofertado pela prisão preventiva no que atine à garantia da ordem pública e da aplicação da lei penal.
+Inexiste, portanto, flagrante ilegalidade a ser sanada por intermédio do presente writ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
