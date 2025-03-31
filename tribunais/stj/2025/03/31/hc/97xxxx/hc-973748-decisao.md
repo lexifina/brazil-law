@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de ANTONIO MENDES DA SILVA NETO - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0744701-64.2022.8.07.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 1ª Vara de Entorpecentes do Tribunal de Justiça do Distrito Federal e dos Territórios, e mantida pelo Tribunal, ao argumento de que a minorante do tráfico privilegiado foi fixada na fração de 1/6 quando deveria ser fixada na fração máxima, de 2/3, já que o fundamento utilizado, na sentença, foi o mesmo usado no aumento da pena-base (fls. 2/8).
+Em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, percebo a ocorrência do ilegal constrangimento.
+Do atento exame dos autos observa-se que o Magistrado exasperou a pena-base para 6 anos e 3 meses de reclusão, e 625 dias-multa, valorando assim a vetorial da conduta social (fls. 286/287 - grifo nosso):
+ ..
+c) Conduta social: quanto à interação do acusado com o meio em que vive (sociedade, ambiente de trabalho, família, vizinhos). Em relação à circunstância judicial em análise, observa-se que o sentenciado vem agindo com verdadeira habitualidade criminosa, fazendo da traficância o seu meio ordinário de subsistência, pois, de acordo com os diálogos estampados no Laudo de Exame de Informática elaborado a partir da quebra de sigilo de dados telemáticos sobre os aparelhos celulares do réu autorizada por este Juízo, era quase que diariamente acionado por usuários/compradores de drogas interessados na aquisição de entorpecentes, o que ocorria pelo menos desde 1º/08/2021, isto é, atividade lícita, poderíamos afirmar que diante dos fatos apresentados, tal situação poderia configurar o exercício da empresa, conforme o conceito constante do art. 966 do Código Civil, o que autoriza a conclusão de que o acusado apresenta viés de conduta social desajustada, porquanto faz da conduta ilícita o seu habitual de vida, denotando incapacidade de viver com observância das regras sociais de regular convívio social, razão pela qual valoro negativamente a presente circunstância.
+ ..
+Como verificado, o fundamento para o aumento da pena-base foi o fato de estar o paciente fazendo da traficância o seu meio ordinário de subsistência (fl. 286) e, na terceira fase, para fixar a causa de diminuição da pena, na fração de 1/6, o Magistrado entendeu que o acusado se encontra em situação limítrofe entre ser considerado traficante eventual ou contumaz (fl. 288). Trata-se da mesma fundamentação, com a utilização de palavras diversas. Diante disso, a fração de redução da pena deve ser elevada para 2/3, como requer a defesa .
+Redimensionando-se a reprimenda imposta, temos:
+Como consta na sentença, a pena-base foi fixada em 6 anos e 3 meses de reclusão, e ao pagamento de 625 dias-multa.
+Na segunda fase, não houve o reconhecimento de circunstâncias agravantes. No entanto, aplicadas as atenuantes de menoridade relativa e confissão espontânea, a pena foi reduzida a 5 anos de reclusão e ao pagamento de 500 dias-multa, em face da Súmula 231 do STJ.
+Por fim, na terceira fase, reconhecida a causa de diminuição da pena, agora fixada na fração de 2/3, a pena se torna definitiva em 1 ano e 8 meses de reclusão, e 166 dias-multa.
+O regime inicial deverá ser mantido o semiaberto, nos termos do art. 33, § 3º, do Código Penal.
+Ante o exposto, concedo a ordem de habeas corpus, para redimensionar a pena do paciente para 1 ano e 8 meses de reclusão, em regime semiaberto, e ao pagamento de 166 dias-multa.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO EM SUA FRAÇÃO MÁXIMA. POSSIBILIDADE. FUNDAMENTAÇÃO PARA REDUÇÃO DA FRAÇÃO JÁ UTILIZADA NA PRIMEIRA FASE DA DOSIMETRIA. EXISTÊNCIA DE BIS IN IDEM. FRAÇÃO FIXADA EM 2/3. REDIMENSIONAMENTO DA PENA. MANTIDO O REGIME SEMIABERTO. EXISTÊNCIA DE VETORIAL NEGATIVA.
+Ordem concedida.
