@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, EM FASE DE CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. ASTREINTES. REVISÃO DO VALOR. SÚMULA 7/STJ. AUSÊNCIA DE MANIFESTA IRRISORIEDADE. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer, em fase de cumprimento de sentença.
+2. A alteração da conclusão do Tribunal de origem e o consequente acolhimento da tese recursal que pleiteia o aumento do valor das astreintes, demandaria o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Este impedimento, conforme estabelecido por esta Corte Superior, só admite exceções nas hipóteses de valores manifestamente irrisórios ou exorbitantes, o que não se aplica ao presente caso.
+3. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por H D M, B H D C, contra decisão que conheceu do agravo para não conhecer do recurso especial.
+Ação: de obrigação de fazer, em fase de cumprimento de sentença, ajuizado pelo agravante, em face de AMIL ASSISTENCIA MEDICA INTERNACIONAL S.A., na qual requer o custeio de tratamento multidisciplinar a menor diagnosticado com transtorno do espectro autista.
+Decisão interlocutória: rejeitou a impugnação ao cumprimento provisório de decisão e a impugnação à penhora via SISBAJUD, apresentadas pela executada.
+Acórdão (e-STJ, fls. 51/61): deu parcial provimento ao agravo de instrumento interposto pela agravada, para reduzir o valor das "astreintes", nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ASTREINTES. Recurso interposto em face de decisão interlocutória que rejeitou a impugnação ao cumprimento provisório de decisão e a impugnação à penhora via SISBAJUD, apresentadas pela executada. Insurgência. Alegação de cumprimento da tutela de urgência. Não acolhimento. Descumprimento da liminar inicialmente deferida que já foi analisado nos autos principais, com decisão confirmada por esta Câmara, nos autos do Agravo de Instrumento 2096423-22.2022.8.26.0000. Novo descumprimento da liminar, após a majoração da multa, que também resta demonstrado a partir da própria narrativa da agravante. Aplicação e execução provisória das astreintes que são acertados. Valor bloqueado a título de astreintes, no entanto, que alcançou o patamar de R$ 492.000,00. Possibilidade de revisão a qualquer tempo, quando constatada a exorbitância da importância acumulada, em ofensa aos princípios da razoabilidade e da proporcionalidade. Precedente do STJ nesse sentido. Caso em que, sopesando as peculiaridades da demanda, à luz do princípio da proporcionalidade, justifica-se a redução das astreintes para a importância de R$ 100.000,00. Precedente desta Câmara. Decisão parcialmente reformada. RECURSO PARCIALMENTE PROVIDO."
+Recurso Especial: alega violação dos arts. 497, 537 e 814 do CPC, bem como dissídio jurisprudencial. Argumenta que a redução do valor estabelecido a título de "astreintes" resulta em uma desproporção, incentivando o não cumprimento das ordens judiciais. Destaca que houve o descumprimento reiterado das decisões judiciais, totalizando 125 dias.
+Parecer do MPF: da lavra do I. Subprocurador-Geral RENATO BRILL DE GÓES, opina pelo conhecimento do agravo para não conhecer do recurso especial.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7 do STJ.
+Agravo interno: nas razões do presente recurso, alega a inadequação da redução das astreintes impostas ao plano de saúde, que descumpriu ordem judicial para cobertura de tratamento médico. A multa foi reduzida de R$ 492.000,00 para R$ 100.000,00, o que se mostra desproporcional e inadequado, violando os artigos 497, 537 e 814 do CPC. Argumenta que a aplicação da Súmula 7 do STJ foi indevida, pois a questão envolve a interpretação de normas jurídicas, não reexame de provas. A parte requer a reforma da decisão para que o recurso especial seja conhecido e provido, mantendo-se a multa em valor que assegure a efetividade da decisão judicial
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, EM FASE DE CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. ASTREINTES. REVISÃO DO VALOR. SÚMULA 7/STJ. AUSÊNCIA DE MANIFESTA IRRISORIEDADE. DISSÍDIO PREJUDICADO.
+1. Ação de obrigação de fazer, em fase de cumprimento de sentença.
+2. A alteração da conclusão do Tribunal de origem e o consequente acolhimento da tese recursal que pleiteia o aumento do valor das astreintes, demandaria o reexame dos fatos e das provas dos autos, providência vedada na via estreita do recurso especial, ante o teor da Súmula 7/STJ. Este impedimento, conforme estabelecido por esta Corte Superior, só admite exceções nas hipóteses de valores manifestamente irrisórios ou exorbitantes, o que não se aplica ao presente caso.
+3. Agravo interno no agravo em recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por H D M, B H D C, contra decisão que conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7 do STJ.
+- Do reexame de fatos e provas
+A aplicação da Súmula 7/STJ merece ser mantida, haja vista que os argumentos trazidos pela parte agravante não são capazes de demonstrar como alterar o decidido pelo Tribunal de origem não demandaria o reexame de fatos e provas.
+Como exposto na decisão agravada, o TJ/SP ao julgar o recurso interposto pela parte agravada assim decidiu (e-STJ fls. 57/60):
+Contudo, considerando que foi bloqueado o valor de R$ 492.000,00 a esse título, prosperam, em parte, os argumentos da parte agravante para redução equitativa.
+Conforme o art. 537 do CPC, a multa deve ser suficiente e compatível com a obrigação, podendo ser revista a qualquer tempo, caso se revele insuficiente ou excessiva.
+O valor cobrado a título de astreintes, igualmente, pode ser revisto a qualquer tempo, quando constatada a exorbitância da importância acumulada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+(..)
+No caso dos autos, é de se observar que: i) conquanto descumprida a ordem liminar, o menor não foi prejudicado em seu tratamento, pois vem realizado na rede particular, diante da insuficiência da clínica indicada pela operadora e, ainda que não tenha sido feito o pagamento integral da clínica, não houve notícia de interrupção, sendo que os valores em aberto, por vezes, são objeto de bloqueio das contas da executada; ii) o valor não pode ensejar enriquecimento ilícito ao menor; iii) o valor da causa no processo principal é de R$ 305.640,00, equivalentes a 12 meses de tratamento; iv) a agravante optou por não cumprir integralmente a liminar em todas as oportunidades, mesmo após a majoração das astreintes.
+Sopesando tais peculiaridades da demanda, à luz do princípio da proporcionalidade, impõe-se a redução das astreintes para a importância de R$ 100.000,00. Tal valor se aproxima daquele adotado no mencionado precedente do C. STJ e daquele recentemente adotado por esta Câmara, com base na vedação ao enriquecimento sem causa: (..).
+Conforme mencionado na decisão agravada, nos termos da jurisprudência desta Corte Superior, a Súmula 7 do STJ limita a revisão dos valores das "astreintes", possibilitando ajustes apenas quando a quantia é manifestamente irrisória ou excessiva. A esse respeito, destacam-se: AgInt no REsp n. 1.839.244/MG, Quarta Turma, DJe de 29/2/2024; e AgInt no AgInt no AREsp n. 2.346.356/SP, Terceira Turma, DJe de 28/2/2024.
+Na hipótese, o Tribunal de origem, que detém soberania para analisar as provas, considerou as circunstâncias de reincidência no cumprimento da obrigação, fixando a multa em R$ 100.000,00 (cem mil reais). Este valor não é considerado irrisório, e qualquer aumento é inviável.
+A adequação entre o valor da multa e o bem jurídico protegido foi ponderada com base nas evidências específicas do caso, o que impede sua revisão no âmbito limitado do recurso especial.
+Desse modo, rever tal entendimento, de fato, implicaria em reexame do acervo fático-probatório, o que é obstado pelo enunciado sumular nº 7/STJ.
+- Da divergência jurisprudencial
+Ademais, deve ser mantido o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei.
+Isso porque a Súmula 7/STJ também se aplica aos recursos especiais interpostos pela alínea "c", do permissivo constitucional. Nesse sentido: AgInt nos EDcl no AREsp 1041244/RJ, 4ª Turma, DJe de 22/11/2019; AgInt no AREsp n. 821.337/SP, 3ª Turma, DJe de 13/03/2017; e AgInt no AREsp n. 964.391/SP, 3ª Turma, DJe de 21/11/2016.
+Dessa forma, a despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
