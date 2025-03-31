@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECLARAÇÃO DE INCONSTITUCIOALIDADE PELO SUPREMO TRIBUNAL FEDERAL. MODULAÇÃO DOS EFEITOS NA VIA DO ESPECIAL. NÃO CABIMENTO. VIOLAÇÃO À LEI FEDERAL. NÃO INDICAÇÃO. INADMISSIBLIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz do art. 105, inc. III, da Constituição Federal, a via do recurso especial não é adequada para provocar a modulação dos efeitos da declaração de inconstitucionalidade. Só ao Supremo Tribunal Federal cabe o pronunciamento sobre a modulação dos efeitos de suas decisões.
+3. Não se conhece do recurso especial, na hipótese em que a petição recursal não especifica qual o artigo de lei federal estaria sendo violado pelo acórdão recorrido. Observância da Súmula 284 do STF.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por MANOEL MAXIMIANO JUNQUEIRA FILHO contra decisão que, com apoio no art. 105, inc. III, da Constituição Federal e nas súmulas 282 e 284 do STF, não conheceu de recurso especial em que discute a necessidade de modulação dos efeitos da declaração de inconstitucionalidade do art. 52, parágrafo único, do Código de Processo Civil - CPC/2015, na ADI 5.492/DF e na ADI 5.737/DF, pelo Supremo Tribunal Federal.
+A parte agravante não concorda com os óbices sumulares ao conhecimento do recurso e sustenta, em síntese (fls. 1649/1672):
+O que ocorrerá com o prestígio e conceito do advogado para com seu cliente, e da advocacia como um todo, na hipótese de não ocorrer modulação temporal e de ter o causídico de informar ao interessado que não obstante já ter ele pagado parte da honorária e de ter suportado as custas de ajuizamento e de recursos, a ação de seu interesse foi interrompida ou desfeita pelo supremo  Por causa dessas dúvidas e hiatos é que se postula a modulação temporal dos efeitos do julgamento proferido nas ações de controle direto em epígrafe, a fim de que todos os profissionais do direito tenham rumo certo a seguir, evitando-se o desenrolar de demandas sem bússola.
+ ..
+é bem conhecida a competência ratione materiae do próprio supremo para modular os efeitos de suas decisões proferidas em adins. O problema surge, todavia, quando o supremo nega-se a dizer qual o efeito que incidirá sobre a declaração de inconstitucionalidade de lei ou de texto de lei. Como regra geral, toda lei votada, aprovada e promulgada goza de presunção ivris tantvm de legitimidade e de constitucionalidade. deve ser cumprida até que se ventile e se apure eventual vício formal, material, ou de desconformidade com a constituição. o efeito prospectivo, é dizer, a eficácia pro futuro constitui a regra geral, de maneira que a retro eficácia, ou o efeito retroativo exige manifestação expressa naquele sentido. No caso dos autos, não houve nenhuma declaração da eficácia ex tvnc, ou seja, a contar da entrada em vigor do artigo 52, § único, do NCPC, vigente desde março de 2016, porém de vida curta, já que foi extirpado em julho de 2023. Da mesma forma em que o supremo tem tomado a liderança nas hipóteses de letargia ou de falta de vontade política do congresso em legislar sobre causas relevantes, pensamos que os tribunais têm todo o direito de também se manifestar sobre eventual desconformidade com a constituição de decisões proclamadas pelo próprio supremo, com o que estarão proporcionando à suprema corte a chance de rever eventuais desacertos.
+Sem impugnação pela parte agravada (fl. 1683).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECLARAÇÃO DE INCONSTITUCIOALIDADE PELO SUPREMO TRIBUNAL FEDERAL. MODULAÇÃO DOS EFEITOS NA VIA DO ESPECIAL. NÃO CABIMENTO. VIOLAÇÃO À LEI FEDERAL. NÃO INDICAÇÃO. INADMISSIBLIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. À luz do art. 105, inc. III, da Constituição Federal, a via do recurso especial não é adequada para provocar a modulação dos efeitos da declaração de inconstitucionalidade. Só ao Supremo Tribunal Federal cabe o pronunciamento sobre a modulação dos efeitos de suas decisões.
+3. Não se conhece do recurso especial, na hipótese em que a petição recursal não especifica qual o artigo de lei federal estaria sendo violado pelo acórdão recorrido. Observância da Súmula 284 do STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois, à luz do art. 105, inc. III, da Constituição Federal, a via do recurso especial não é adequada para provocar a modulação dos efeitos da declaração de inconstitucionalidade. De fato, só ao Supremo Tribunal Federal cabe o pronunciamento sobre a modulação dos efeitos de suas decisões.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. OMISSÃO INEXISTENTE. PRECATÓRIO PAGO. CORREÇÃO MONETÁRIA. MODULAÇÃO DE EFEITOS. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Não há a alegada violação do art. 535 do CPC, porquanto efetivamente enfrentada a questão jurídica suscitada pela parte quando da interposição de agravo de instrumento, qual seja, a alegação de que faria jus a diferenças não contempladas no precatório já pago, visto que não observada a declaração de inconstitucionalidade do art. 5º da Lei 11.960/2009, cuja modulação de efeitos estaria restrita aos estados e municípios e não contemplaria a União Federal.
+2. A conclusão da origem no sentido de que o precatório foi pago dentro dos moldes legais, com aplicação da TR em razão da modulação de efeitos promovida em ADI, decorreu da aplicação de entendimento do STF, o que demonstra a inadequação do recurso especial para modificar o entendimento exarado, sob pena de usurpação da competência do STF. Precedentes.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.577.707/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/3/2016, DJe de 11/3/2016.)
+De outro lado, tal como consignado na decisão monocrática, a parte recorrente não especifica qual o artigo de lei federal que estaria sendo violado pelo acórdão recorrido, razão pela qual a Súmula 284 do STF é óbice ao conhecimento do recurso. E, se a intenção era apontar eventual violação do art. 27 da Lei n. 9.868/1999, a Súmula 282 do STF impede o conhecimento do especial, pois não está prequestionado.
+No contexto, portanto, deve ser mantida a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
