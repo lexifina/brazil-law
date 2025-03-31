@@ -1,0 +1,22 @@
+DECISÃO
+NILTON ANTONIO DE OLIVEIRA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0000969-08.2012.8.26.0030.
+Depreende-se dos autos que o réu foi condenado a 7 anos de reclusão, em regime semiaberto, mais 16 dias-multa, pela prática do crime previsto no art. 157, §§ 1º e 2º, I e II, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou os arts. 29, § 2º, e 155, § 4º, do CP, ao argumento de que o réu teria aderido à prática de furto, e não de roubo, de maneira que deve ser reconhecida cooperação dolosamente distinta. Sustentou que foi o partícipe que empregou arma de fogo, sem a concordância do ora agravante.
+Requer "seja reformado  o acórdão , já que ofende diretamente o exposto nos arts. 155, § 4º c.c. art. 29, § 2º , ambos do Código Penal, devendo ser a pena do Recorrente redimensionada, bem como o regime inicial de cumprimento" (fl. 530).
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Já o apelante Valtair Araújo, interrogado em juízo, confessou a prática delitiva.
+ ..  narrou que o réu Nilton quem teve a ideia de praticar o crime e quem levou a arma de fogo; disse que efetuou disparos de arma de fogo para cima, porque suspeitou que tinha alguém por perto já que a porteira estava fechada; que o objetivo foi assustar as pessoas;  ..  a vítima Evandro confirmou os fatos narrados na denúncia.  ..  tentaram fechar a porteira para evitar que os indiciados fugissem, mas ao perceberem, um deles sacou um revólver e disparou quatro tiros para abrir a porteira e assim conseguiram fugir;  ..  Em juízo confirmou parcialmente a versão, acrescentando que acha que os réus perceberam a presença deles, porque atiraram;  ..
+O roubo impróprio, figura prevista no artigo 157, § 1º, do Código Penal, é definido na doutrina como sendo o roubo cuja violência ou grave ameaça são praticadas logo depois da subtração para assegurar a impunidade do crime ou a detenção da coisa subtraída.
+Exige-se, portanto, para a caracterização desse delito que, anteriormente à consumação do furto, ou seja, depois de subtraída a coisa e antes da posse mansa e pacífica do bem, o agente faça uso da violência ou grave ameaça sobre a pessoa que presenciou o fato e procurou impedir sua consumação.
+É exatamente o que aconteceu no presente caso, após a consumação do furto, quando a res já estava no veículo do corréu Nilton, ao perceberem alguém fechou a porteira, concluindo que havia mais pessoas no sítio, Valtair utilizou a arma de fogo de Nilton, para efetuar disparos com o intuito de assustar as pessoas, ou seja, empregou de grave ameaça, para garantir a fuga do local e consequente posse mansa e pacífica do bem.
+(fls. 504-506, destaquei)
+No julgamento do Recurso Especial Representativo de Controvérsia n. 1.499.050/RJ, a Terceira Seção do STJ acolheu voto de minha relatoria para firmar: "Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+Na espécie, houve efetiva violência, consistente em disparos de arma de fogo pelos agentes assim que percebeu que a vítima havia fechado a porteira para impedir a sua fuga.
+Nesse ponto, as instâncias ordinárias ressaltaram que o veículo e o armamento bélico utilizados durante a conduta delitiva eram de propriedade do ora agravante, bem como o produto do crime seria destinado a abastecer o seu estabelecimento comercial.
+Com efeito, "a violência ou grave ameaça caracterizadoras do crime de roubo podem ocorrer antes, durante ou logo após a subtração do bem, razão pela qual ainda que o agente tenha iniciado a conduta delitiva sem violência, se empregá-la para garantir a posse do bem subtraído ou a impunidade do delito, exatamente como ocorreu na espécie, pratica o crime de roubo impróprio, não havendo que se falar em desclassificação para o delito de furto" (AgRg no HC n. 556.935/MS, Rel. Ministro Jorge Mussi, 5ª T., DJe 7/4/2020, destaquei).
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
