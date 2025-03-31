@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 64, de 27 de março de 2025
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+INTERPRETAÇÃO LITERAL DE NORMA ISENTANTE. DESCABIMENTO DE INTERPRETAÇÃO EXTENSIVA. REQUISITO MATERIAL. ASSOCIAÇÃO CIVIL SEM FINS LUCRATIVOS. VEDAÇÃO À APROPRIAÇÃO PARTICULAR DO SUPERÁVIT DESTA PELOS SÓCIOS FUNDADORES, A QUALQUER TÍTULO, E AO "ANIMUS DISTRIBUENDI" .
+Para fins de manutenção da isenção prevista no art. 15 da Lei nº 9.532, de 1997, as associações civis sem fins lucrativos não poderão destinar, a nenhum título, eventual superávit a seus sócios fundadores, ainda que organizados sob a forma de entidade sem fins lucrativos, mesmo que os citados recursos sejam aplicados por estes na realização dos seus próprios objetivos estatutários, visto que a apropriação particular dos resultados positivos e a intenção de fazê-lo ( "animus distribuendi" ) são incompatíveis com a natureza jurídica da associação, sob pena de perda da isenção.
+Dispositivos legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 111, inciso II; Lei nº 9.532, de 1997, arts. 12 e 15; Decreto nº 9.580, de 2018 (Regulamento do Imposto sobre a Renda), arts. 181, § 2º, e 184, § 2º; Instrução Normativa RFB nº 1.700, de 2017, arts. 10, § 2º, e 13, § 3º.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+INTERPRETAÇÃO LITERAL DE NORMA ISENTANTE. DESCABIMENTO DE INTERPRETAÇÃO EXTENSIVA. REQUISITO MATERIAL. ASSOCIAÇÃO CIVIL SEM FINS LUCRATIVOS. VEDAÇÃO À APROPRIAÇÃO PARTICULAR DO SUPERÁVIT DESTA PELOS SÓCIOS FUNDADORES, A QUALQUER TÍTULO, E AO "ANIMUS DISTRIBUENDI" .
+Para fins de manutenção da isenção prevista no art. 15 da Lei nº 9.532, de 1997, as associações civis sem fins lucrativos não poderão destinar, a nenhum título, eventual superávit a seus sócios fundadores, ainda que organizados sob a forma de entidade sem fins lucrativos, mesmo que os citados recursos sejam aplicados por estes na realização dos seus próprios objetivos estatutários, visto que a apropriação particular dos resultados positivos e a intenção de fazê-lo ( "animus distribuendi" ) são incompatíveis com a natureza jurídica da associação, sob pena de perda da isenção.
+Dispositivos legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 111, inciso II; Lei nº 9.532, de 1997, arts. 12 e 15; Decreto nº 9.580, de 2018 (Regulamento do Imposto sobre a Renda), arts. 181, § 2º, e 184, § 2º; Instrução Normativa RFB nº 1.700, de 2017, arts. 10, § 2º, e 13, § 3º.
+[arquivo anexo: SC Cosit nº 64-2025.pdf]
+RODRIGO AUGUSTO VERLY DE OLIVEIRA
+Coordenador-Geral
