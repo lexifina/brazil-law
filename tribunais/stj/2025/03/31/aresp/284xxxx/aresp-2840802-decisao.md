@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FERRASUL COMERCIO VAREJISTA E ATACADISTA DE FERRAMENTAS E EQUIPAMENTOS DE SEGURANCA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+CANCELAMENTO DE PROTESTO - PROTESTO INDEVIDO - ILEGITIMIDADE PASSIVA - BANCO - ENDOSSO MANDATO. Como o endosso mandato não transfere ao endossatário a propriedade ou os direitos inerentes aos títulos, mas somente outorga poderes para que atue em nome do endossante, conclui-se que banco é parte ilegítima para compor o polo passivo da lide, quer com relação ao pedido de declaração de inexistência de débito, quer com relação ao pedido de indenização por danos morais.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega dissídio jurisprudencial violação aos arts. 186 e 927 do CC, no sentido de que o protesto indevido configura o dever de compensação por danos morais, respondendo o endossatário-mandatário, tendo em vista que mesmo não sendo o proprietário do título "ele responde pelos atos praticados em nome do endossante, especialmente em situações em que o protesto indevido causa prejuízos à parte devedora" (fls. 270), trazendo a seguinte argumentação:
+No presente caso, o protesto de um título quitado, ainda que praticado por um mandatário (no caso, o Banco Bradesco S/A), configura ato ilícito, pois causou prejuízos morais à Recorrente, que teve seu nome inscrito indevidamente nos cadastros de inadimplentes, gerando uma situação de constrangimento e perda de credibilidade no mercado. Ao afastar a responsabilidade do Banco Bradesco, o Tribunal desconsiderou a relação de causalidade direta entre o ato de protesto e o dano sofrido pela Recorrente, infringindo o disposto no artigo 186.
+Ademais, o Banco Bradesco S/A, como mandatário, detém o dever de verificar a regularidade do título que leva a protesto, atuando com o devido zelo, para evitar o cometimento de atos que possam ensejar prejuízos a terceiros, o que não ocorreu no presente caso. Sua conduta omissiva ao protestar um título já quitado gera o dever de indenizar.
+ ..
+O protesto indevido causou dano moral à Recorrente, configurando ato ilícito, e, portanto, impõe-se a obrigação de reparação por parte do Banco Bradesco S/A, independentemente de ter atuado como mandatário. O Tribunal de origem, ao eximir o Banco dessa responsabilidade, violou a norma expressa no artigo 927, ao não reconhecer a responsabilidade objetiva da instituição financeira em relação aos atos praticados em nome de seu cliente (Adelpack Indústria e Comércio de Soluções para Embalagens Ltda).
+ ..
+O entendimento adotado pelo Tribunal de Justiça de Minas Gerais diverge da jurisprudência de outras cortes superiores e regionais, as quais reconhecem a legitimidade passiva do endossatário-mandatário em situações de protesto indevido.
+O Superior Tribunal de Justiça já decidiu reiteradamente que o endossatário-mandatário responde pelos atos praticados em nome do endossante, especialmente quando ocorre protesto indevido. Isso se deve ao fato de que a responsabilidade por atos ilícitos está vinculada à efetiva prática de atos que causam dano a terceiros, independentemente da natureza jurídica da relação entre endossante e endossatário. O STJ consolidou esse entendimento:
+ ..
+A instituição financeira deve verificar com cautela a higidez dos títulos antes de protestá-los, porquanto sua responsabilidade por protesto indevido é objetiva.
+A mera existência de endosso mandato, não exime o mandatário do dever de verificar a regularidade do título de crédito enviado a protesto para cobrança (fls. 269/270).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Para que seja aferida a responsabilidade do Apelante é indispensável examinar como lhe foi transmitido o título levado a protesto, se através de endosso mandato ou através de endosso translatício.
+Pelo endosso mandato, o endossante apenas constitui o endossatário seu procurador, não sendo transmitida a propriedade do título, razão pela qual o mandatário não assume qualquer.
+ ..
+Como a transferência dos títulos se deu através de endosso mandato, conforme doc. 66, resta configurada a ilegitimidade passiva do Banco endossatário.
+Ora, o endosso mandato não transfere ao endossatário a propriedade ou os direitos inerentes aos títulos, mas somente outorga poderes para que atue em nome do endossante, concluindo-se que o Apelante é parte ilegítima para compor o polo passivo da lide (fls. 262/264)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM DANOS MORAIS. PROTESTO INDEVIDO. DUPLICATA RECEBIDA POR ENDOSSO-MANDATO. ENDOSSATÁRIO. NECESSIDADE DE CULPA. DEVER DE INDENIZAR NÃO RECONHECIDO. INCIDÊNCIA DAS SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento do Tribunal de origem encontra amparo na jurisprudência do STJ no sentido de que "o endossatário de título de crédito por endosso-mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário" (Súmula n. 476/STJ). Incidência da espécie a Súmula n. 83/STJ.
+2. Rever a conclusão que chegou o Tribunal de origem acerca da conduta culposa da instituição financeira, demandaria o reexame de circunstâncias fáticos-probatórias, procedimento inviável em sede de recurso especial, em razão do óbice da Súmula n. 7 d o STJ.
+3. Agravo interno não provido. (AgInt no AREsp n. 2.075.621/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 9/9/2022.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
