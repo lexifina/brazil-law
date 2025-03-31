@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo interno contra decisão da Presidência do STJ, de fls. 814/815 (e-STJ), que não conheceu do agravo em recurso especial que interpusera, em razão da incidência da Súmula 182/STJ.
+Em face das razões de fls. 819/833 (e-STJ), torno sem efeito a decisão e passo a novo exame do agravo interposto por BANCO ITAUCARD S.A. contra decisão que não admitiu o recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 31/07/2024.
+Concluso ao gabinete em: 18/12/2024.
+Ação: de regresso, ajuizada pela parte ora agravante, em face de PAGSEGURO INTERNET INSTITUICAO DE PAGAMENTO S.A., ora agravada.
+Pugna pela "procedência da ação para condenar a ré a pagar o valor de R$9.526,69" (e-STJ fl. 519).
+Sentença: julgou improcedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela parte agravante, conforme ementa a seguir (e-STJ fl. 691):
+"*Ação regressiva - Improcedência - Cerceamento de defesa Inocorrência Não há cerceamento de defesa quando as provas produzidas autorizavam o julgamento antecipado do mérito Preliminar rejeitada. Nulidade da sentença, por ausência de fundamentação Inocorrência Sentença fundamentada, preenchendo os requisitos do art. 489 do CPC Preliminar rejeitada. Ação de regresso objetivando indenizar os prejuízos sofridos pelo Banco autor em ação ajuizada por seu cliente visando a devolução do pagamento de compras realizadas com cartão de crédito mediante fraude, pelo "golpe do motoboy" Descabimento Plataforma da ré atua como prestadora de serviços recebendo os pagamentos eletrônicos, não se beneficiando dos valores direcionados a terceiro, que se utilizou dos serviços de intermediação de pagamento para a venda impugnada pelo titular do cartão Ausência de qualquer indício de participação da ré, intermediadora de pagamentos na fraude, rompendo o nexo causal, afastando a responsabilidade da requerida Precedentes do TJSP - Sentença mantida Adoção dos fundamentos da sentença pelo Tribunal Incidência do art. 252 do RITJSP - Recurso negado.*"
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 10 da Lei n. 9.613/1998; 7º, caput, e V, da Lei n. 12.865/2013; 373, II, e 1022, II, do CPC; 14 e 18 do CDC; e 927, parágrafo único, do CC, sustentando, em síntese, que: (i) a Corte de origem teria sido omissa no tocante a pontos cruciais ao deslinde do processo, especialmente sobre a responsabilidade civil solidária e objetiva da agravada; (ii) a agravada, como credenciadora, possui responsabilidade solidária e objetiva por danos causados a consumidores, devido ao risco da atividade desenvolvida; (iii) a agravada tem o dever de due diligence, vigilância e monitoramento das transações para combater fraudes; (iv) a agravada se beneficia das transações registradas nas máquinas de cartão, inclusive as fraudulentas, pois cobra taxas sobre o montante movimentado; (v) compete à agravada provar que cumpriu com seus deveres de vigilância e monitoramento, inerentes à sua atividade.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da questão da inexistência de responsabilidade da agravada, de maneira que, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação do art. 1.022 do CPC.
+- Do reexame fático e probatório
+Outrossim, no que tange aos elementos informativos do processo e à questão da responsabilidade, extrai-se do acórdão recorrido (e-STJ fls. 694/695):
+"Não prospera a pretensão de obrigar a ré apelada a indenizar, em ação regressiva, os prejuízos sofridos pelo Banco autor apelante na ação ajuizada por seu cliente objetivando a restituição do pagamento de despesas realizadas mediante fraude com cartão de crédito.
+Denota-se que as transações impugnadas foram realizadas em 18/3/2020, nos valores de R$3.986,50 e R$2.999,99, figurando como beneficiário "DigerlanSilva", que mantinha conta na plataforma de pagamentos eletrônicos gerenciada pela ré apelada Pagseguro.
+Conforme decidido da ação declaratória, o cliente foi vítima do denominado golpe do motoboy, situação em que o fraudador retirou o cartão de crédito na residência do consumidor, como suposto representante da instituição financeira. Assim, tem o Banco apelante a responsabilidade de reparar os danos decorrentes de falha de segurança na prestação do serviço, por se tratar de fortuito interno, que integra o risco da sua atividade, a ser suportado pelo prestador do serviço (fls. 221/224 e 348/353).
+O Banco autor, por seu turno, não comprovou o fato constitutivo de seu direito à cobrança em face da ré, em ação regressiva, do valor ressarcido ao cliente vítima de fraude, ônus seu (art. 373, I, do CPC).
+A ré apelada atuou como mera intermediadora financeira da compra fraudada, não se beneficiando dos valores ilicitamente direcionados à terceiro que utilizou os serviços de intermediação de pagamento de sua plataforma para realizar a venda impugnada, não apontando o Banco autor apelante qualquer conduta imputável à requerida de participação na fraude.
+(..)
+O fato de administrar a conta que recebeu o valor da transação por cartão mediante fraude não torna a ré, por si só, responsável pela fraude, por não possuir ingerência sobre os negócios efetuados pelos usuários cadastrados em sua plataforma de pagamentos eletrônicos, o que rompe o nexo causal, afastando a responsabilidade da requerida."
+Assim, nota-se que alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Forte nessas razões, nos termos do parágrafo 2º do artigo 1.021 do CPC/2015, RECONSIDERO a decisão de fls. 814/815 (e-STJ), para CONHECER do agravo e, com fundamento no artigo 932, III e IV, "a", do CPC/2015, bem como na Súmula n. 568/STJ, CONHECER PARCIALMENTE do recurso especial para, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REGRESSO.  EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de regresso.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Torno sem efeito a decisão de fls. 814/815 (e-STJ). Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
