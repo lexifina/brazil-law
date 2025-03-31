@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROVA.PERICIAL. DESNECESSIDADE. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO. SÚMULAS Nº 5 E 7/STJ. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ERRÔNEA VALORAÇÃO. MULTA. ART. 1.021 DO CPC. NÃO AUTOMÁTICA.
+1. Na hipótese, a verificação da violação do art. 464 do Código de Processo Civil demandaria o revolvimento das circunstancias fáticas dos autos e a interpretação de cláusula contratual, o que é vedado pelos óbices das Súmulas nºs 5 e 7/STJ.
+2. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+3. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  REFRIGERANTE COROA LTDA. e OUTROS  contra  a  decisão  desta relatoria que  conheceu  do  agravo  para não conhecer do recurso especial por aplicação das Súmulas nºs 5 e 7/STJ.
+Nas  razões  do  presente  agravo  (e-STJ  fls.  282/287),  os  agravante  s  sustentam,  em  síntese,  que  não há falar em aplicação da Súmula nº 7/STJ, tendo em vista que busca
+"(..) a análise da violação do direito à prova pericial, o que configura matéria de direito e não de fato. A negativa de realização da perícia contábil impede a aferição objetiva da legalidade das cobranças, violando os princípios do contraditório e ampla defesa (artigo 5º, LV, da Constituição Federal" (e-STJ fl. 283).
+No ponto, aduzem que a revaloração da prova consiste na atribuição de um novo valor jurídico aos fatos já reconhecidos e incontroversos.
+Defendem a inaplicabilidade da Súmula nº 5/STJ, já que "a questão debatida refere-se à garantia constitucional da ampla defesa e ao direito à produção de provas, e não à interpretação de cláusulas contratuais" (e-STJ fl. 284).
+Salientam que o que se pretende é o reconhecimento da violação do art. 464 do CPC, diante do indeferimento da produção de prova pericial, em verdadeiro cerceamento de defesa.
+Ao  final,  requer  em  a  reforma  da  decisão  atacada ou a sua submissão ao julgamento pelo colegiado.
+Devidamente  intimada,  a  parte  agravada  ofereceu  impugnação  (e-STJ  fls. 290/296), pleiteando a aplicação da multa prevista no art. 1.021, § 4, do CPC.
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROVA.PERICIAL. DESNECESSIDADE. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO. SÚMULAS Nº 5 E 7/STJ. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ERRÔNEA VALORAÇÃO. MULTA. ART. 1.021 DO CPC. NÃO AUTOMÁTICA.
+1. Na hipótese, a verificação da violação do art. 464 do Código de Processo Civil demandaria o revolvimento das circunstancias fáticas dos autos e a interpretação de cláusula contratual, o que é vedado pelos óbices das Súmulas nºs 5 e 7/STJ.
+2. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+3. O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.
+4. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhida.
+Nas razões do especial (e-STJ fls. 197/206), os recorrentes apontam negativa de vigência do art. 464 do CPC. Defendem, em síntese, a imprescindibilidade da prova pericial, tendo em vista que "não sabemos ao certo como o Recorrido obteve os valores cobrados. gerando dúvidas e não sendo possível auferir se no valor da base dos cálculos há a incidência de juros, multas ou comissões de permanência que não devem incidir" (e-STJ fl. 205).
+O Tribunal de Justiça do Estado do Espírito Santo dirimiu a controvérsia com base nos seguintes fundamentos:
+"Preliminarmente, os apelantes sustentam que houve cerceamento de defesa, pois pleitearam a produção de prova pericial contábil em sede de embargos monitórios, a qual era imprescindível para a demonstração das abusividades contratuais alegadas, mas o magistrado realizou o julgamento antecipado da lide.
+De fato, observa-se dos embargos monitórios que os apelantes pugnaram pela realização de perícia contábil, aduzindo os apelantes que, como o contrato que embasa a ação monitória foi celebrado para liberar recursos a fim de quitar contratos anteriores, a perícia seria sobre todas as contratações firmadas entre as partes, para se apurar quanto foi disponibilizado e quanto foi amortizado e pago por cada contrato, momento em que não se concluiria pelo endividamento da pessoa jurídica.
+Ocorre que, o instrumento contratual colacionado às fls. 07/16 não se trata de renegociação de dívidas, e sim de Contrato de Abertura de Crédito  BB Giro Empresa Flex", cujo objeto era disponibilizar à pessoa jurídica recorrente um rédito rotativo até o limite de R$ 400.000,00 (quatrocentos mil reais), tendo seu vencimento final em 21.12.2009.
+Ademais, ainda que assim o fosse, a renegociação teria sido expressamente anuída pela empresa apelante com o objetivo de extinguir e substituir as dívidas anteriores, sendo cediço a inaplicabilidade de revisão de contratos anteriores a renegociação de dívida, de modo que a prova seria realizada apenas sobre os encargos contratuais utilizados nesta operação e discriminadas no contrato colacionado.
+Aliás, a produção de prova pericial contábil para demonstrar as abusividades dos encargos sequer era necessária no caso em apreço e segundo a jurisprudência pacifica do colendo Superior Tribunal de Justiça, o cerceamento de defesa não resta configurado quando é desnecessária a produção da prova pretendida pela parte, sendo perfeitamente cabível. o julgamento antecipado da lide em que se controverte apenas sobre matéria de direito, em obediência aos princípios da economia e da celeridade processuais. (STJ, REsp 797. 184/DF, Rel. Ministro Luiz Fux, Primeira Turma, DJ 09/04/2008; REsp 897.499/SP, Rel. Ministro João Otávio de Noronha, Segunda Turma, DJ 20/04/2007)." (e-STJ fls. 189/190- grifou-se)
+Tal como posta a questão, não há como afastar a aplicação das Súmulas nºs 5 e 7/STJ, pois o acolhimento da pretensão recursal para verificar a apontada violação do art. 464 do Código de Processo Civil demandaria, na hipótese, o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos inviáveis ante a natureza excepcional.
+Registre-se que a errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório, não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+Por fim, registra-se que não é possível a aplicação da multa prevista no § 4º do art. 1.021 do CPC, requerida em contrarrazões, pois tal penalidade não é automática, haja vista não se tratar de mera decorrência lógica do não provimento do agravo interno em votação unânime.
+A condenação dos agravantes ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+Assim, as razões do recurso não são capazes de infirmar a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
