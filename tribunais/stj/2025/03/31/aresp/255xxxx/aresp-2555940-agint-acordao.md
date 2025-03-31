@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. PROTESTO INDEVIDO. PROVA DA QUITAÇÃO DÍVIDA. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  FUNDO DE INVESTIMENTOS EM DIREITOS CREDITÓRIOS MULTISETORIAL HOPE LP contra  decisão  singular  de  minha  lavra  na  qual  neguei  provimento  ao  agravo em  recurso  especial  em  virtude  da ausência de violação do art. 1.022 do Código de Processo Civil/2015 e do  óbice  da  Súmula 7  do  STJ (fls. 715/719).
+Nas  razões  do  presente  agravo,  a parte agravante afirma que foi comprovada a violação do art. 1.022, II, do Código de Processo Civil/2015, sustentando que a questão central do recebimento do valor pelo credor não foi devidamente esclarecida.
+Aduz que "o Tribunal tenha reconhecido o pagamento pela agravada Gapski, a falta de confirmação explícita de que o credor efetivamente recebeu o valor devido constitui uma omissão relevante. Ao limitar-se a afirmar que "ao que tudo indica" o pagamento foi supostamente repassado ao Banco Bradesco, o E. Tribunal deixou de cumprir sua obrigação de análise exaustiva dos fatos, utilizando uma linguagem vaga e imprecisa que não oferece a segurança jurídica necessária em um caso de tal importância" (fl. 726).
+Afirma que foi comprovada a culpa exclusiva de terceiro, ao ter a Cooperativa de Crédito Sicoob efetuado a digitação incorreta do código de barras, o que foi devidamente reconhecido nas instâncias inferiores, motivo pelo qual não pode ser condenado ao pagamento da indenização por danos morais.
+A  impugnação  não  foi  apresentada .
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. PROTESTO INDEVIDO. PROVA DA QUITAÇÃO DÍVIDA. REEXAME DE PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O  recurso  não  merece  prosperar.
+Como  constou  na  decisão  agravada,  se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil de 2015.
+No caso dos autos, o Tribunal de origem consignou no acórdão do julgamento do recurso de apelação que (i) o título protestado foi quitado pela parte agravada na data do vencimento; (ii) o pagamento foi realizado diretamente no caixa da Cooperativa de Crédito Sicoob, com o registro de autenticação mecânica; (iii) diante da quitação do título na data do vencimento pela parte, não há como considerar que o protesto foi legítimo; e (iv) pagamento foi efetuado em estabelecimento aceito pela parte agravante e, se houve erro de digitação, leitura do código de barras ou repasse nos valores, esse fato não pode ser imputado à agravada adimplente com sua obrigação. Confira-se:
+Pois bem. Diante de todo o exposto, é incontroverso o fato de que o título protestado no valor de R$ 1.718,28 com vencimento em 5-10-2016 foi quitado pela parte autora apelante na datado vencimento (doc 13). Outrossim, infere-se do documento que o pagamento foi realizado diretamente no caixa da Cooperativa de Crédito Sicoob, com o registro de autenticação mecânica.
+Ademais, tanto nos e-mails acostados aos autos pela ré apelada Fundo de Investimentos em Direitos Creditórios Multisetorial Hope LP (doc 108), quanto na informação fornecida pela Cooperativa de Crédito Sicoob (evento 14), pode se inferir que, apesar do equívoco na digitação ou leitura no código de barras, o valor quitado em nenhum momento foi restituído à autora apelante e, ao que tudo indica foi repassado ao Banco Bradesco S.A., que consta na intimação do protesto como apresentante do título.
+Salienta-se que antes do efetivo protesto do título, a apelante entrou em contato coma emitente da nota fiscal-sacador a fim de comunicar o ocorrido (doc 16), todavia, não obteve qualquer solução e o protesto foi efetivado (doc 17).
+Sendo assim, diante da quitação do título na data do vencimento pela parte apelante, não há como considerar que o protesto foi legítimo (docs 15 e 17).
+Ademais, o pagamento foi efetuado em estabelecimento aceito pela parte apelada, e se houve erro de digitação, leitura do código de barras ou repasse nos valores, esse fato não pode ser imputado à apelante adimplente com sua obrigação  ..  (e-STJ, fls. 577/578).
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido. Nesse sentido: EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016.
+Sobre o protesto indevido e, portanto, a ocorrência do dano moral, o Tribunal de origem consignou que, "uma vez reconhecido o protesto indevido do título, fica evidenciada a ilicitude da conduta da parte apelada e, assim, presumido o dano moral. Como é sabido, nesses casos, o dano decorrente de inscrição nos órgãos de proteção ao crédito ou protesto indevido de título de pessoa jurídica que "pode sofrer dano moral" (súmula 227, do STJ) é presumido (in re ipsa) e dispensa efetiva comprovação, porque vinculado à própria existência do fato". Confira-se:
+Assim, reconhecida a irregularidade do protesto, deve a parte apelada reparar o dano causado em decorrência do ato ilícito, nos termos dos arts. 186 e 927 do Código Civil.
+ ..
+Sustenta a apelante que suportou danos morais em razão do protesto indevido do título. Com razão.
+Isso porque uma vez reconhecido o protesto indevido do título, fica evidenciada a ilicitude da conduta da parte apelada e, assim, presumido o dano moral. Como é sabido, nesses casos, o dano decorrente de inscrição nos órgãos de proteção ao crédito ou protesto indevido de título de pessoa jurídica que "pode sofrer dano moral" (súmula 227, do STJ) é presumido (in re ipsa) e dispensa efetiva comprovação, porque vinculado à própria existência do fato.
+ ..
+Dessa forma, condena-se a parte apelada de forma solidária ao pagamento de compensação por danos morais no valor de R$ 8.000,00 (oito mil reais), com correção monetária pelo INPC a partir do arbitramento (Súmula 362 STJ) e juros de mora de 1% (um por cento) ao mês a contar da citação  ..  (e-STJ, fls. 579/580)
+O Tribunal de origem destacou que "antes do efetivo protesto do título, a apelante entrou em contato com a emitente da nota fiscal-sacador a fim de comunicar o ocorrido (doc 16), todavia, não obteve qualquer solução e o protesto foi efetivado (doc 17)" (fls. 577/578).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela comprovação do pagamento e da existência de protesto indevido, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego  provimento  ao  agravo  interno.
+É  como  voto.
