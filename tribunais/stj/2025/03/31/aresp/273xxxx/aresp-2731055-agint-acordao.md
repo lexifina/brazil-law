@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. URV. CUMPRIMENTO DE SENTENÇA. LEIS DE REESTRUTURAÇÃO DE CARREIRA. PERDA SALARIAL DEMONSTRADA. ART. 489 DO CPC/15. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. PREQUESTIONAMENTO FICTO. TESE DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA .
+1. Cuida-se, na origem, de agravo de instrumento interposto contra decisão que negou provimento ao pedido de reabertura de instrução processual a fim de esclarecer se as Leis de Reestruturação de Carreira Estadual absorveram eventual perda salarial decorrente da errônea conversão da URV.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do recurso especial. Incide ao caso a Súmula 280/STF.
+4. Conforme pacífico entendimento jurisprudencial sedimentado nas Súmulas 211 do STJ e 282 do STF, não se conhece de recurso especial, na hipótese em que a matéria recursal não foi prequestionada, ao tempo em que o prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, está condicionado à tese de violação do art. 1.022 do CPC/2015, ausente no caso dos autos.
+5. Agravo interno não provido.
+RELATÓRIO
+O SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por ESTADO DE MATO GROSSO, contra decisão, assim ementada (fl. 267):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280/STF. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DO VERBETE SUMULAR N. 211/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
+O agravante alega em suas razões (a) que "observa-se que o Agravante, por sua vez, apontou de forma clara e objetiva os fundamentos do acórdão recorrido, motivo pelo qual o Enunciado da Súmula 284/STF, quanto á suposta existência de razões dissociadas, não deve ser aplicado ao caso"; (b) que "verifica-se, com isso, que a tese aventada pelo ora Agravante foi analisada pelo Tribunal a quo, por meio, inclusive, de consignação expressa no acórdão, o que afasta, portanto, a incidência da Súmula 211/STJ, uma vez que atendido o requisito do prequestionamento" e (c) que "a pretensão recursal diz respeito à aplicabilidade do Art. 22, §§ 3º e 4º da Lei nº 8.880/1994, que, diferente do que consta da decisão agravada, é Lei Federal."
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. URV. CUMPRIMENTO DE SENTENÇA. LEIS DE REESTRUTURAÇÃO DE CARREIRA. PERDA SALARIAL DEMONSTRADA. ART. 489 DO CPC/15. ARGUMENTAÇÃO DISSOCIADA. SÚMULA 284/STF. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. PREQUESTIONAMENTO FICTO. TESE DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA .
+1. Cuida-se, na origem, de agravo de instrumento interposto contra decisão que negou provimento ao pedido de reabertura de instrução processual a fim de esclarecer se as Leis de Reestruturação de Carreira Estadual absorveram eventual perda salarial decorrente da errônea conversão da URV.
+2. A falta de argumentação ou sua deficiência implica não conhecimento do recurso especial quanto a questão deduzida, pois não permite a exata compreensão da controvérsia. Incidência da Súmula 284/STF.
+3. A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do recurso especial. Incide ao caso a Súmula 280/STF.
+4. Conforme pacífico entendimento jurisprudencial sedimentado nas Súmulas 211 do STJ e 282 do STF, não se conhece de recurso especial, na hipótese em que a matéria recursal não foi prequestionada, ao tempo em que o prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, está condicionado à tese de violação do art. 1.022 do CPC/2015, ausente no caso dos autos.
+5. Agravo interno não provido.
+VOTO
+O SR. MINISTRO BENEDITO GONÇALVES (Relator):
+Consigne-se que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, o presente recurso não merece prosperar, tendo em vista que, dos argumentos apresentados no agravo interno, não se vislumbram razões para reformar a decisão agravada.
+Cuida-se de agravo de instrumento interposto contra decisão que negou provimento ao pedido de reabertura de instrução processual a fim de esclarecer se as Leis de Reestruturação de Carreira absorveram eventual perda salarial decorrente da errônea conversão da URV.
+A respeito ao art. 489 do CPC/15, tem-se que o recurso especial contém alegações genéricas, imprecisas no que diz respeito a suposta violação. É dizer, o alegado pelo agravante sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Com relação à ofensa ao artigo 22 da Lei n. 8.880/94, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento nas Leis Estaduais de Reestruturação de Carreira de Professor de Educação Básica (fl. 170), razão pela qual o recurso especial não deve ser conhecido nesta Corte Superior, por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula n. 280/STF.
+A propósito:
+ADMINISTRATIVO. SERVIDOR. URV. ABSORÇÃO. REESTRUTURAÇÃO DE CARREIRA. PERCEPÇÃO AD AETERNUM DE PARCELA REMUNERATÓRIA. IMPOSSIBILIDADE.
+1. O término da incorporação, na remuneração do servidor, do percentual devido em razão da ilegalidade na conversão de Cruzeiros Reais em URV deve ocorrer no momento em que a carreira do servidor passa por uma restruturação remuneratória (Tema nº 5/STF).
+2. ""Não há direito à percepção ad aeternum de parcela de remuneração por servidor público" (RE 561.836, Relator Ministro LUIZ FUX, Tribunal Pleno, julgado em 26/9/2013, DJe de 10/2/2014)" (AgInt no REsp 1577459/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23/11/2018).
+3. "O exame acerca da existência de lei reestruturadora e seus limites demandaria análise de legislação estadual, incabível em recurso especial, ante a aplicação analógica da Súmula n. 280/STF" (AgInt no AREsp 1308444/MT, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 29/03/2019).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.139.228/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/4/2023, DJe de 20/4/2023.)
+Por fim, verifica-se que não houve o prequestionamento da tese recursal relacionada aos artigos 477, §2º, 489, 502 e 509 do CPC/15, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente, o que atrai a incidência da Súmula 211 do STJ.
+Ocorre que o prequestionamento é requisito previsto no inc. III do art. 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se pronunciou a respeito dos artigos mencionados, não obstante terem sido opostos e julgados os embargos de declaração, o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.
+Veja-se que, no caso, não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente, providência esta não observada pela recorrente em relação aos dispositivos em exame.
+Outrossim, nos termos do art. 1025 do CPC/2015, o reconhecimento do prequestionamento ficto depende de que esta Corte Superior reconheça ocorrido qualquer dos vícios autorizativos previstos no art. 1022 do mesmo códex (erro, omissão, contradição ou obscuridade) - daí advindo a exigência de indicação da sua ofensa. No caso, a ofensa ao art. 1.022 do CPC/2015 não foi indicada no apelo nobre.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO A RECURSO COM APOIO EM TESE FIRMADA EM PRECEDENTE QUALIFICADO. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. PREQUESTIONAMENTO FICTO. TESE DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NECESSIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não cabe Agravo em Recurso Especial contra decisão que nega seguimento ao especial com apoio em tese firmada em precedente qualificado; nessa hipótese, o único recurso cabível é o agravo interno, a ser interposto perante o tribunal prolator da decisão.
+Precedentes.
+3. Conforme pacífico entendimento jurisprudencial sedimentado nas Súmulas 211 do STJ e 282 do STF, não se conhece de recurso especial, na hipótese em que a matéria recursal não foi prequestionada, ao tempo em que o prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, está condicionado à tese de violação do art. 1.022 do CPC/2015, ausente no caso dos autos. Precedentes.
+4. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp n. 2.382.668/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/3/2024, DJe de 14/3/2024.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
