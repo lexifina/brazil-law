@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ENGEGLOBAL CONSTRUÇÕES LTDA. - EM RECUPERAÇÃO JUDICIAL e OUTRAS contra a decisão de fls. 303/305, que negou provimento a seu agravo em recurso especial, por meio do qual buscava reformar acórdão do Tribunal de Justiça do Mato Grosso assim ementado:
+AGRAVO DE INSTRUMENTO - HABILITAÇÃO DE CRÉDITO - DECISÃO QUE ORDENOU A INCLUSÃO DO CRÉDITO PROPORCIONALMENTE À RESPONSABILIDADE DA RECUPERANDA CONSORCIADA - RESPONSABILIDADE INTEGRAL ASSUMIDA EM MEMORANDO E AVERBADO MUITO TEMPO DEPOIS DA CONSTITUIÇÃO DO CRÉDITO - INOPONIBILIDADE A TERCEIROS ANTES DA AVERBAÇÃO NA JUNTA COMERCIAL - DECISÃO MANTIDA - RECURSODESPROVIDO. A Lei das Sociedades Anônimas (Lei nº 6.404/76) dispõe que a constituição de consórcio tem natureza contratual, não implicando, portanto, perda da personalidade jurídica própria das empresas consorciadas, que permanecem respondendo cada uma por suas obrigações sem presunção de solidariedade, exceto se houver estipulação expressa em contrário no ato constitutivo (arts. 278 e 279), e, sendo assim, a responsabilidade integral pelas dívidas e obrigações da coligadas, definida posteriormente à constituição do consórcio, só se propõe em relação a terceiros após a efetiva averbação da modificação do contrato na Junta Comercial (CC, art. 1.003), de modo que, se o crédito foi constituído muito antes dessa averbação, prevalece a responsabilidade proporcional das recuperandas.
+Alegam as agravantes que a decisão agravada deve ser parcialmente reformada, pois foi proferida em "confronto com jurisprudência, lei civil e o ordenamento jurídico empresarial brasileiro" (fl. 318).
+Reiteram as razões do recurso especial.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que as agravantes não atacaram especificamente todos os fundamentos da decisão agravada.
+A decisão agravada negou provimento ao agravo em recurso especial nos seguintes termos:
+Cuida-se, neste caso, de impugnação à relação de credores de recuperação judicial oposta pela parte ora agravada, SILVANO LUCHTENBERG, para inclusão de crédito no quadro geral de credores das recuperandas, oriundo de notas fiscais emitidas pela prestação de serviços em favor do Consórcio Marechal Rondon.
+O Juízo de primeira instância julgou parcialmente procedente o pedido de impugnação de crédito e determinou a inclusão do crédito, na proporção da participação da recuperanda no consórcio (75%).
+A recuperanda interpôs agravo de instrumento defendendo que o valor integral do crédito existente deveria ser submetido à recuperação judicial e não apenas a parte proporcional à sua cota-parte, em razão de acordo celebrado entre as consorciadas, por meio do qual a recuperanda assumiu de forma definitiva a totalidade de "direitos e obrigações, débitos e créditos, lucros ou prejuízos, decorrente da execução dos contratos para os quais foram firmados".
+O TJMT negou provimento ao agravo de instrumento, consignando que não existe presunção de solidariedade na formação de consórcios. Ademais, ressaltou que os efeitos de acordo celebrado entre as consorciadas "somente se operam após a efetiva averbação da modificação do contrato na Junta Comercial" (fl. 110).
+Feitos esses breves esclarecimentos, verifico que o recurso não comporta provimento.
+O acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que " v ia de regra, as sociedades consorciadas apenas se obrigam nas condições previstas no respectivo contrato, respondendo cada uma por suas obrigações, sem presunção de solidariedade, de acordo com o disposto no art. 278, § 1º, da Lei das Sociedades Anônimas (Lei 6.404/76)" (REsp n. 1.787.947/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2019, DJe de 23/4/2019).
+Vide, a esse respeito, apenas a título de exemplo, REsp n. 1.804.804/MS, relator Ministro Antonio Carlos Ferreira. Quarta Turma, julgado em 7/3/2023, DJe de 13/3/2023 e REsp n. 1.835.585/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2019, DJe de 18/5/2020.
+Especificamente quanto ao acordo celebrado entre as consorciadas no caso, observa-se que não houve impugnação por parte das agravantes quanto ao fundamento adotado pelo acórdão recorrido sobre o momento de sua averbação, atraindo a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+Ainda assim, irretocável a conclusão do TJMT quanto à não operação de efeitos do acordo suscitado em relação a terceiros antes da sua averbação na Junta Comercial, por inteligência dos arts. 1.003 e 1.032 do Código Civil.
+Por fim, não foi comprovado o alegado dissídio jurisprudencial, uma vez que as agravantes não realizaram o indispensável cotejo analítico a fim de demonstrar a existência de identidade jurídica e similitude fática entre o acórdão recorrido e o paradigma indicado, nos termos do art. 1.029, §1º, do Código de Processo Civil e do art. 255, §§ 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça.
+Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todas as razões da decisão recorrida.
+Especificamente com relação à aplicação da Súmula 83/STJ, a impugnação adequada pressupõe a demonstração por meio de julgados atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido ou de que o caso em exame apresentaria distinção em relação aos precedentes invocados. A propósito, vide AgInt no AREsp n. 2.474.777/AM, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/5/2024, DJe de 15/5/2024; e AgInt no REsp n. 2.061.878/SP, de minha relatoria, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ocorre que os argumentos jurídicos apresentados pela parte agravante neste agravo interno não rebatem de forma específica os fundamentos da decisão agravada nem demonstraram a distinção do caso com relação aos precedentes citados na decisão agravada. Ao contrário, mostram-se uma mera reprodução parcial das razões do seu recurso especial.
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno, como ensina o art. 932, III, do mesmo Diploma e o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo interno.
+É como voto
