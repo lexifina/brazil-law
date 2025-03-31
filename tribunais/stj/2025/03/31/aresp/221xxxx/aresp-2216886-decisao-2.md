@@ -1,0 +1,20 @@
+DECISÃO
+Cui da-se de agravo interposto por BANCO DO BRASIL S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fl. 363):
+CIVIL. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. MONITÓRIA. SOCIEDADE EMPRESÁRIA. CAPITAL DE GIRO. CERCEAMENTO DE DEFESA. PERÍCIA. DESNECESSIDADE. ADSTRIÇÃO. JUROS REMUNERATÓRIOS. LIMITAÇÃO DE 12% (DOZE POR CENTO) AO ANO. INSTITUIÇÕES FINANCEIRAS. INAPLICÁVEL. COMISSÃO DE PERMANÊNCIA. SUCUMBÊNCIA. 1. Demonstrado que as taxas empregadas nos relatórios de atualização do numerário devido guardam similitude com aquelas constantes da cédula de crédito bancário, afigura-se prescindível a produção de prova pericial invocada pelo devedor. 2. A sentença deve limitar-se ao pedido, tendo em vista a vinculação do Julgador ao alcance estabelecido pela lide (partes, causa de pedir e pedido), observando, desse modo, o princípio da congruência ou da adstrição. 3. A cobrança dos juros remuneratórios, em si, não é ilegal e, em regra, o Judiciário tem entendido que aqueles pactuados, mesmo acima de 12% (doze por cento) ao ano, não são abusivos. 4. A utilização da taxa média de mercado como balizador para todas as operações de crédito determinaria um tabelamento de preços em detrimento da livre concorrência, extremamente saudável ao consumidor, pois se existe uma taxa média é porque algumas instituições cobram taxas superiores e outras inferiores, permitindo ao consumidor a melhor escolha. 5. Se as disposições contratuais apresentadas nos autos pela parte autora não revelam o expresso ajuste sobre a comissão de permanência, então não há como ter por imprópria a fixação de outros parâmetros na sentença recorrida, que terminou por afastar a utilização dessa espécie de encargo moratório. 6. Quando ambos os litigantes perdem, os ônus de sucumbência devem ser distribuídos de forma proporcional, nos termos do caput do artigo 86 do Código de Processo Civil. 7. Recursos não providos.
+Sem embargos de declaração.
+No recurso especial, alega violação do art. 422 do Código Civil, defendendo de modo genérico a validade das cláusulas contratuais.
+Argumenta de que a comissão de permanência é legal e não cumulada com outros encargos, conforme resolução do Banco Central.
+Afirmativa de que os valores cobrados estão de acordo com o contrato e não apresentam excesso.
+Foram oferecidas contrarrazões ao recurso especial (fls. 459 - 472).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 489 - 490), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 527 - 533).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O acórdão recorrido não se manifestou acerca do art. 422 do CC, indicado como violado, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula n. 356/STF.
+Quanto à legalidade da cobrança de comissão de permanência e à ausência de excesso de execução, verifica-se, das razões do recurso especial, que o recorrente deixou de estabelecer, com a precisão necessária, quais os dispositivos de lei federal considera violados, para sustentar a irresignação pela alínea "a" do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da condenação.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. BOA-FÉ CONTRATUAL. MATÉRIA NÃO PREQUESTIONADA. LEGALIDADE DA COBRANÇA. COMISSÃO DE CORRETAGEM. NÃO OCORRÊNCIA DE EXCESSO DE EXECUÇÃO. NÃO INDICADO O DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
