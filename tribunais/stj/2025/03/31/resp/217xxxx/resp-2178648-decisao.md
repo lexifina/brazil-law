@@ -1,0 +1,23 @@
+DECISÃO
+GILMARA BRUGNOLI NUNES interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, na Apelação Criminal n. 1523227-37.2023.8.26.0228.
+Consta dos autos que o recorrente foi condenado pelo crime de tráfico de drogas.
+A defesa aponta violação dos arts. 386, II e VII, do CPP. Aduz que são ilícitas as provas derivadas da busca pessoal, por desvio de função da atuação da guarda municipal. Requer a absolvição.
+O Ministério Público Federal apresentou parecer pelo provimento do recurso (fls. 331-336).
+Decido.
+I. Admissibilidade
+De início, constato a tempestividade do recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, e verifico o preenchimento dos requisitos constitucionais, legais e regimentais para seu processamento.
+Houve prequestionamento do tema objeto da impugnação e exposição dos dispositivos de lei presumidamente contrariados, além dos fatos e do direito, de modo a permitir o exame da aventada questão jurídica controversa.
+II. Atuação das guardas municipais
+A respeito da atuação das guardas municipais, a Terceira Seção desta Corte Superior havia firmado o entendimento de que, "salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários, o que não se confunde com permissão para desempenharem atividades ostensivas ou investigativas típicas das polícias militar e civil para combate da criminalidade urbana ordinária em qualquer contexto" (HC n. 830.530/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 4/10/2023).
+Todavia, o Supremo Tribunal Federal, no julgamento do RE n. 608.588/SP (Rel. Min. Luiz Fux, j. 20/2/2025), com repercussão geral reconhecida (Tema n. 656 da repercussão geral), firmou a tese de que " é  constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional".
+Por conseguinte, em atenção ao dever de uniformização, estabilidade, integridade e coerência da jurisprudência pelos Tribunais (CPC, art. 926, c/c CPP, art. 3º), e com ressalva da minha posição pessoal sobre o tema, deve ser aplicada ao caso a nova tese firmada pelo Supremo Tribunal Federal no julgamento supracitado.
+III. O caso dos autos
+O Tribunal de origem validou a atuação da guarda municipal com base nos seguintes fundamentos (fls. 228-229):
+Destarte, no presente caso não se evidencia a ilicitude das provas obtidas pelos guardas civis municipais, pois "(..) havendo fundada suspeita a configurar situação de flagrante delito, mostra-se lícita a abordagem pessoal feita pela Guarda Civil Municipal, que não atua, nessa hipótese, como polícia investigativa. (..)". (AgRg no HC 695.254/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/10/2021, D Je 04/11/2021). Desse modo, não se extrai ilegalidade na abordagem e apreensão realizadas pelos guardas civis municipais, tampouco nulidade das provas por eles obtidas.
+ ..
+Destaca-se, ainda, que o crime de tráfico de entorpecentes, quando praticado nas modalidades "transportar", "trazer consigo" e "guardar", é caracterizado como crime permanente, o que torna constante o estado de flagrância do agente enquanto perdurar a prática dos referidos verbos nucleares, tornando legítima a abordagem e a revista pessoal por guardas civis municipais.
+Diante dos fatos reconhecidos pelas instâncias ordinárias, verifico que a guarda municipal atuou no desempenho de policiamento ostensivo e comunitário, sem a assunção de atividade de polícia judiciária, nos termos da decisão proferida pelo Plenário do STF no Tema de Repercussão Geral n. 656, acima mencionado, razão pela qual deve ser rejeitada a tese de desvio de função na atuação da guarda municipal na espécie.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "b", do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
