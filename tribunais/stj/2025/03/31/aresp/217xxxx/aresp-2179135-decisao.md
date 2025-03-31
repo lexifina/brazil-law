@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EUROSILICONE BRASIL IMPORTAÇÃO E EXPORTAÇÃO LTDA. e OUTRO contra a decisão que inadmitiu o recurso especial com fundamento na ausência de violação dos arts. 370, 375 e 464 do CPC, pela incidência da Súmula n. 7 do STJ (fls. 787-789). Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso especial não deve ser conhecido por ausência de prequestionamento e falta de amparo legal, devendo ser repelida a pretensão do recorrente (fls. 779-785).
+O recurso especial foi interposto, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de indenização por danos estéticos e morais.
+O julgado foi assim ementado (fls. 728-730):
+RESPONSABILIDADE CIVIL  Danos estéticos e morais. Alegação da empresa ré de que a ruptura de prótese mamária não decorreu necessariamente de falha do produto. Descabimento. Hipótese em que a prótese foi recolhida pela empresa, a quem passou a incumbir o ônus de demonstrar estar em perfeitas condições o produto que ficou em sua posse, sendo certo que sofreu ruptura muito antes do que deveria. Sentença mantida. Recurso não provido.
+Os embargos de declaração opostos foram decididos nesses termos (fls. 743-745):
+Embargos de declaração. Omissão. Acórdão que deixou de arbitrar honorários recursais nos termos do § 11 do art. 85 do CPC. Honorários elevados de 12% para 15% do valor da condenação. Embargos acolhidos.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 370 e 464 CPC, pois o acórdão recorrido aplicou equivocada valoração à prova dos autos, insuficiente para a correta solução da lide (fls. 755-768);
+b) 12, § 3º, III da Lei n. 8.078/1990, visto que a perícia não afasta a possibilidade de intercorrência de ações ou eventos externos causadores da alegada ruptura, afastando qualquer hipótese de defeito na fabricação das próteses (fls. 755-768).
+Sustenta que o Tribunal de origem divergiu ao entender que a responsabilidade do fabricante se configurou sem que a prova pericial atestasse hipótese de defeito de produto, contrariando a jurisprudência do STJ que exige demonstração de defeito para responsabilização (fls. 755-768).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, julgando improcedente a ação com a inversão dos ônus sucumbenciais.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não deve ser conhecido por ausência de prequestionamento e falta de amparo legal, devendo ser repelida a pretensão do recorrente (fls. 779-785).
+É o relatório. Decido.
+Segundo as regras ordinárias acerca da distribuição do ônus da prova, conforme disposto no art. 373 do CPC, cabe ao autor provar o fato constitutivo do seu direito e ao réu, a existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Nesse sentido, a jurisprudência do STJ:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. REINCLUSÃO DO FEITO PARA JULGAMENTO. PRAZO RAZOÁVEL. NOVA PUBLICAÇÃO. DESNECESSIDADE. NULIDADE INEXISTENTE. SÚMULA 83/STJ. ÔNUS DA PROVA. AUTOR. FATO CONSTITUTIVO. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. "A jurisprudência do STJ é firme no sentido de que após o processo ter sido regularmente incluído em pauta, tendo sido as partes devidamente intimadas da data da sessão de julgamento, que, contudo, não se realiza no dia designado, não é necessário sua reinclusão em pauta ou nova intimação das partes, mormente quando o feito é levado a julgamento em tempo razoável" (AgInt no REsp 1.858.976/AM, Relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 7/12/2020, DJe de 11/12/2020).
+2. "Consoante as regras de distribuição do ônus probatório, atribui-se ao autor o ônus de provar os fatos constitutivos de seu direito, e ao réu, os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do art. 373, I e II, do CPC/2015 (art. 333, I e II, do CPC/73)" (AgInt no AREsp 1.694.758/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe de 18/06/2021).
+3. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.457.480/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+No caso, o Tribunal a quo destacou que a perícia realizada concluiu que a prótese teve ruptura espontânea, a qual pode ou não estar ligada a algum defeito na sua fabricação.
+Contudo, incumbia à parte recorrente efetuar os testes apropriados para afastar qualquer suspeita de que a ruptura teria se dado por defeito do produto, ainda mais tendo-se em conta que ocorreu muito antes de se esgotar a sua validade, o que não aconteceu.
+Assim, a parte recorrente deixou de demonstrar fato impeditivo, modificativo ou extintivo do direito da autora, nos termos do art. 373, II, do CPC. Rever tal conclusão implicaria no reexame de provas e fatos dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+No mais, q uanto à suficiência da perícia realizada, convém mencionar que a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional (AgInt no AREsp n. 2.089.543/MG, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+Rever as conclusões do Tribunal a quo, que se basearam no convencimento motivado e na persuasão racional ao analisar as provas e concluir pela responsabilidade da recorrente exigiria reexame do acervo fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
