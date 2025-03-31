@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2261, de 28 de março de 2025
+Altera a Instrução Normativa RFB nº 2.209, de 6 de agosto de 2024, que alterou a Instrução Normativa SRF nº 588, de 21 de dezembro de 2005, que dispõe sobre a tributação dos planos de benefício de caráter previdenciário, Fapi e seguros de vida com cláusula de cobertura.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto tendo em vista o disposto nos § 6º e § 8º do art. 1º da Lei nº 11.053, de 29 de dezembro de 2004, e na Lei nº 14.803, de 10 de janeiro de 2024, resolve:
