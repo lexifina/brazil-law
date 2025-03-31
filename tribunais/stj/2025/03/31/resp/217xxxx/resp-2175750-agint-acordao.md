@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ESPECIFICIDADE DA SUSPENSÃO DO PRAZO PRESCRICIONAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. A Corte de Origem assentou a suspensão do prazo prescricional, tendo em vista a convenção das partes e também a ordem do Estado-juiz, enfatizando a complexidade da demanda. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl.154):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. AGRAVO DE INSTRUMENTO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA AFASTADA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFERIMENTO DO PEDIDO DE SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA PARA TENTATIVA DE ACORDO POR CONVENÇÃO DAS PARTES E ORDEM DO ESTADO-JUIZ. COMPLEXIDADE DA DEMANDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. RECURSO NÃO CONHECIDO.
+O agravante alega que "inexiste fundamento decisório inatacado pelo recurso especial, não tendo aplicação as Súmulas 283 do STF" (fl. 170), reiterando ser hipótese de aplicação do Tema 880/STJ.
+Refere que a tese recursal visa reconhecer que a execução da obrigação de fazer proposta pelo sindicato com fundamento no art. 536 do CPC não suspende ou interrompe o prazo prescricional da obrigação de pagar, argumentando que os processos, procedimentos e objetivos do cumprimento de fazer e pagar são distintos e que o recurso especial foi taxativo nesse sentido, de modo que inaplicável a Súmula 283/STF.
+Impugna a aplicação da Súmula 7/STJ, ao argumento de que as premissas fixadas no aresto proferido pelo TJPR (que fixam os marcos temporais necessários ao reconhecimeto da prescrição) não influem no acolhimento da tese recursal.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ESPECIFICIDADE DA SUSPENSÃO DO PRAZO PRESCRICIONAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. A Corte de Origem assentou a suspensão do prazo prescricional, tendo em vista a convenção das partes e também a ordem do Estado-juiz, enfatizando a complexidade da demanda. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, no presente caso, em que pesem os argumentos trazidos neste agravo interno, não se verifica que o recurso especial tenha impugnado alicerce basilar que ampara o acórdão recorrido, fundamentado nos seguintes termos (fls. e-STJ, 52-55):
+ ..
+Verifica-se, assim, que o processo esteve suspenso por convenção de ambas as partes conforme previsão do art. 313, inc. II, do CPC (mov. 84 e 85 dos autos mencionados) e, também, por ordem do Estado-Juiz, o qual tem o dever de tentar buscar a solução consensual de conflitos (art.139, V, do CPC) 19 .
+Mesmo que a suspensão do processo não esteja no rol taxativo de causas suspensivas da prescrição, previstas no Código Civil de 2002 (lei geral), que por força da súmula n.150 STF reflete na fase executiva, neste caso concreto deve ser observado o princípio da especialidade.
+A (Lei 13.140, publicada em 26.06.2015 e que entrou em vigor 180 dias Lei de Mediação depois, conforme art. 47) expressamente prevê sua aplicabilidade aos processos judiciais (arts. 24 a 29), buscando a solução de controvérsias e a autocomposição de conflitos também envolvendo a Fazenda Pública. Trata-se de lei especial (prevalece sobre a lei geral, ) lex specialis derrogat lex generalis que dispõe expressamente em seu art. 17, parágrafo único, que: "Enquanto transcorrer o procedimento de mediação, ficará suspenso o prazo prescricional" e mais, no art. 34, que: "A instauração de procedimento administrativo para a no resolução consensual de conflito âmbito da administração pública suspende a prescrição" (destaquei).
+ ..
+O Código de Processo Civil, de 2015, incentiva a busca por decisões consensuais. Não entender a suspensão da fluência do prazo prescricional durante os períodos em que as partes requereram a suspensão para buscar uma solução consensual, bem como em relação àqueles determinados de ofício pelo Estado-Juiz, seria ir em sentido contrário à própria sistemática processual.
+ ..
+Isso significa que, ao manifestar em juízo que havia espaço para a autocomposição, o agravante tornou admissível o que é referido no § 1º, do art. 340 da Lei 13.140, de 2015, e, portanto, a partir de então, a prescrição esteve suspensa.
+Diante do contexto, o Estado requereu a suspensão do processo coletivo, n. 0008041- 64.2016.8.16.000, (mov. 84.1), em 06.10.2020, ou seja, quando já era aplicável a tese do tema 880, do STJ (julgado em 28/6/2017), de que o prazo prescricional para a execução não sofre qualquer suspensão ou interrupção pelo fato de aguardar o cumprimento de diligência para obtenção de fichas financeiras ou outros documentos junto à Administração ou terceiros.
+Entender que o prazo prescricional para o cumprimento da decisão teria decorrido diante da dispensabilidade de apresentação das fichas financeiras, olvidando-se de analisar o comportamento do Estado desde o início do pedido de apresentação da documentação (art. 188, do CPC) 20 , em 2016, seria o mesmo que beneficiar a Fazenda Pública que, agora, assume comportamento contraditório, com afronta direta aos princípios de cooperação processual, boa-fé objetiva, entre outros, art.5º do CPC. (Grifei).
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ademais, acerca da conclusão da Corte a quo pela suspensão do prazo prescricional, tendo em vista a convenção das partes e também a ordem do Estado-juiz, assentando ainda a complexidade da demanda, está correta a decisão ao observar que a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o obstáculo previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE TÍTULO COLETIVO CONTRA A FAZENDA.
+I. ALEGAÇÃO DE PRESCRIÇÃO DA EXECUÇÃO INDIVIDUAL, EM FEITO COM PECULIARIDADES, PORQUE HOUVE DEFERIMENTO PELO ESTADO JUIZ DE DOIS PEDIDOS CONJUNTOS DE SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA, PARA TENTATIVA DE ACORDO. CAUSA SUSPENSIVA DO PRAZO PRESCRICIONAL. POSSIBILIDADE. APLICAÇÃO DA LEI ESPECIAL N. 13.140/2015 (LEI DA MEDIAÇÃO), QUE PREVALECE SOBRE A GERAL. INCENTIVO ÀS SOLUÇÕES CONSENSUAIS. NECESSÁRIO RESPEITO AOS PRINCÍPIOS DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA BOA-FÉ OBJETIVA.
+II. IMPOSSIBILIDADE DE REVISÃO DAS ESPECIFICIDADES DAS SUSPENSÕES DO PRAZO PRESCRICIONAL, SEM REVOLVER FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ.
+III. CUMPRIMENTO DE SENTENÇA COM TRÂNSITO EM JULGADO EM 08/04/2016. CPC/2015. NÃO ATRAÇÃO DA MODULAÇÃO DA TESE DO TEMA 880/STJ.
+IV. RAZÕES DE AGRAVO QUE NÃO TRAZEM ARGUMENTOS SUFICIENTES À IMPUGNAÇÃO DA APLICAÇÃO DA SÚMULA 7/STJ. RAZÕES RECURSAIS DISSOCIADAS DO QUANTO DECIDIDO PELO TRIBUNAL DE ORIGEM: DEFICIÊNCIA NA FUNDAMENTAÇÃO QUE ATRAI OS ÓBICES DAS SÚMULA 283 E 284/ STF.
+V. AGRAVO DESPROVIDO. (AgInt no REsp n. 2.149.291/PR, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024.) (Grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
