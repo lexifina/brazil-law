@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de VOLMAR SILVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ na Apelação n. 0015629-79.2016.8.16.0083.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no artigo 302, § 1º, inciso II, do Código de Trânsito Brasileiro, à pena de 02 (dois) anos e 08 (oito) meses de detenção, em regime inicial aberto, além de 02 (dois) meses e 20 (vinte) dias de suspensão da habilitação para dirigir.
+O Tribunal de origem não conheceu do recurso de apelação interposto pela Defesa por entender que houve ofensa ao princípio da dialeticidade.
+Neste writ, a Defesa sustenta a inexistência de ofensa ao princípio da dialeticidade, argumentando que a mera reiteração de argumentos já apresentados em outros momentos processuais não impede o conhecimento do recurso, conforme jurisprudência do Superior Tribunal de Justiça.
+Aduz que o recurso de apelação esclareceu o desacerto da sentença condenatória e apresentou os motivos de fato e de direito para sua reforma, em observância ao princípio da dialeticidade.
+Acrescenta que recentes decisões do STJ em casos análogos têm determinado que o Tribunal de Justiça do Estado do Paraná examine o mérito dos recursos não conhecidos por suposta ofensa à dialeticidade.
+Requer, liminarmente, que seja determinado ao Tribunal de Justiça local que conheça do recurso em questão e se pronuncie quanto ao mérito arguido pela Defesa. No mérito, pleiteia a concessão da ordem para que seja reconhecida a ilegalidade do acórdão e determinado o conhecimento e julgamento do recurso de apelação pelo Tribunal de origem.
+Liminar indeferida (fls. 64/65) .
+Vieram as informações (fls. 73/86).
+Manifestação do Ministério Público Federal pela denegação da ordem (fls. 91/94).
+É o relatório.
+DECIDO.
+Esta Corte - HC n. 535.063/SP, Terceira Seção, relator Ministro Sebastião Reis Junior, julgado em 10/06/2020, DJe de 25/08/2020 - e o Supremo Tribunal Federal - AgRg no HC n. 180.365/PB, Primeira Turma, relatora Ministra Rosa Weber, julgado em 27/03/2020, DJe de 02/04/2020, e AgRg no HC n. 147.210/SP, Segunda Turma, relator Ministro Edson Fachin, julgado em 30/10/2018, DJe de 20/02/2020 - pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Quanto ao tema tratado no remédio heroico, o Tribunal de origem assim consignou (fls. 12/14):
+Presentes os pressupostos de admissibilidade recursal em parte, deixo conhecer o recurso. Explica-se. Consoante muito bem apontado pela d. PGJ, as razões recursais do presente recurso deixaram de atacar os fundamentos que calcaram o dispositivo da sentença ora vergastada. Tem-se, apenas, simples reprodução, em boa parte, dos termos das alegações finais ispis litteris apresentadas pela defesa. Sabe-se que "no processo em geral, a regra é que os recursos, além de delimitar a matéria impugnada, devem conter também a fundamentação da inconformidade, até mesmo para melhor atender ao princípio do contraditório".  ..  Incumbe, pois, ao recorrente apresentar as teses que reputa cabível à modificação da decisão, expondo os motivos de seu convencimento (causa de pedir), senão bastaria ao sucumbente interpor o recurso cabível e esperar que o segundo grau de jurisdição revisasse toda a matéria julgada. Sendo assim, é certo que a exposição dos motivos da reforma da decisão proferida na primeira instância é indispensável para que o Juízo possa avaliar a necessidade - ou não - da medida ad quem pretendida.  ..  Deixo de conhecer o recurso de apelação crime em apreço em razão de clara ofensa à dialeticidade, conforme acima declinado.
+Observa-se que o Tribunal de Justiça, quando do julgamento do recurso de apelação, deixou de apreciar o pedido de absolvição por ausência de provas sob o fundamento de ofensa ao princípio da dialeticidade.
+Contudo, é assente nesta Corte o entendimento de que a simples reiteração das alegações finais nas razões do recurso de apelação não configura afronta ao princípio da dialeticidade, considerando o efeito devolutivo do recurso.
+Confiram-se:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. AUSENTE IMPUGNAÇÃO ESPECÍFICA. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu do recurso por ausência de indicação de dispositivos legais federais violados, tendo o agravante apontado apenas dispositivos constitucionais.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de impugnação específica dos fundamentos da decisão agravada impede o conhecimento do agravo regimental.
+3. Em atenção ao parecer do MPF, surge outra questão, qual seja, saber se Corte a quo agiu conforme entendimento desta Corte ao não conhecer da apelação defensiva por constatação de mera reprodução das razões das alegações finais.
+III. Razões de decidir
+4. A ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência da Súmula n. 182 do STJ, tornando inviável o conhecimento do agravo regimental.
+5. A jurisprudência do STJ entende que a repetição das razões das alegações finais em apelação, por si só, não viola o princípio da dialeticidade, dado o efeito devolutivo do recurso.
+IV. Dispositivo e tese
+6. Agravo regimental não conhecido. Ordem de habeas corpus concedida de ofício para que o Tribunal de origem, ressalvado outro óbice, analise o mérito do recurso de apelação.
+Tese de julgamento: "1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do agravo regimental. 2. A repetição das razões das alegações finais em apelação não viola o princípio da dialeticidade, considerando o efeito devolutivo do recurso".
+Dispositivos relevantes citados: CPC, arts. 932, III, e 1021, § 1º;
+CPP, arts. 647-A e 654, § 2º. Jurisprudência relevante citada: STJ, AgInt nos EREsp 1.544.786/RS, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 16/6/2020; STJ, AgRg no REsp 1.550.399/SC, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 21/9/2022. (AgRg no AREsp n. 2.516.460/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 22/10/2024, DJe de 25/10/2024).
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRINCÍPIO DA DIALETICIDADE. OFENSA. INÉPCIA DA INICIAL. INTIMAÇÃO. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Não é possível a extinção da ação, por inépcia da inicial, sem que o autor seja intimado para suprir a falha" (AgInt no AREsp n. 2.121.287/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 13/3/2023, DJe de 16/3/2023).
+3. Segundo jurisprudência desta Corte Superior, "a repetição, pelo recorrente, nas razões da apelação, do teor da petição inicial, ou no caso das razões finais, não ofende o princípio da dialeticidade, quando puderem ser extraídos do recurso fundamentos suficientes, notória intenção de reforma da sentença" (AgInt no REsp n. 1.896.018/PB, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021).
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.422.939/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/05/2024, DJe de 29/05/2024).
+Ante o exposto, não conheço do habeas corpus, no entanto, concedo a ordem, de ofício para determinar que o Tribunal de Justiça do Estado do Paraná ana lise o mérito do recurso de apelação, n a parte não conhecida, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
