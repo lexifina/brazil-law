@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por EDILENE GONCALVES DA CUNHA , em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa é a seguinte (e-STJ fl. 671):
+PENAL. PROCESSO PENAL. CRIME DE TRÁFICO. RECURSO DA DEFESA. ABSOLVIÇÃO. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. DEPOIMENTO DOS POLICIAIS ENVOLVIDOS NA OPERAÇÃO. VALIDADE. PROVA PERICIAL E MATERIAL. REFORÇO PROBATÓRIO. SENTENÇA MANTIDA. 1. A palavra dos policiais, no exercício da função, tem fé pública. Na hipótese, de forma uníssona e coerente, os agentes trouxeram aos autos o cenário da abordagem, não havendo quaisquer elementos que ao menos abalem a credibilidade das afirmações, tampouco motivos que pudessem imputar falsamente a ré, os fatos apurados. 2. A apreensão de entorpecente na residência da ré, assim como materiais comumente utilizados para o tráfico (balança de precisão e dinheiro em espécie), somados aos diálogos existentes no celular apreendido, corroboram o arcabouço probatório, demonstrando a traficância por ela exercida. 3. O crime de tráfico de droga é plurinuclear, cuja ação, fundada em quaisquer dos verbos descritos no tipo penal, por si só, configura o crime de tráfico de drogas. 4. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 693/701), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação do artigo 28 da Lei n. 11.343/2006 e do artigo 386, inciso VII, do CPP. Sustenta a desclassificação do crime para a conduta do artigo 28 da Lei n. 11.343/2006.
+Apresentadas contrarrazões (e-STJ fls. 714/717), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 723/725), tendo sido interposto o presente agravo (e-STJ fls. 735/746).
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do agravo, caso conhecido, pelo não provimento do recurso especial (e-STJ fls. 784/788).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergiram elementos suficientemente idôneos de prova, colhidos nas fases inquisitorial e judicial, aptos a condenar a acusada pelo delito de tráfico (e-STJ fls. 677/681).
+Assim, rever os fundamentos utilizados pela Corte de origem, para concluir pela desclassificação do crime para a conduta do artigo 28 da Lei n. 11.343/2006, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
