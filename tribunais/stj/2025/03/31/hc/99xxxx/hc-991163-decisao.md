@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EVERTON CESAR TORRES DE ALMEIDA contra acórdão proferido pelo Tribunal de Justiça de São Paulo, no julgamento da Apelação Criminal n. 1501866-69.2019.8.26.0400. A impetração tem como fundamento o art. 5º, inciso LXVIII, da Constituição Federal e os arts. 647 e 648, I e VI, do Código de Processo Penal.
+Consta dos autos que o paciente foi sentenciado pela prática do crime previsto no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, às penas de 15 anos de reclusão, em regime prisional inicial fechado, e 1.500 dias-multa.
+Interposto recurso de apelação, a pena foi parcialmente reformada pelo Tribunal de Justiça do Estado de São Paulo, sendo reduzida para 7 anos, 11 meses e 8 dias de reclusão, além do pagamento de 793 dias-multa, mantido o regime prisional inicialmente fechado.
+A defesa sustenta, em síntese, que o Tribunal de origem deixou de desclassificar a infração penal do art. 33, caput, para o art. 28, caput, da Lei n. 11.343/2006, não reconhecendo a natureza da conduta do paciente como de mero porte para consumo pessoal. Aponta, ainda, que a quantidade de entorpecentes apreendida é ínfima, compatível com uso individual, e que o paciente encontra-se em tratamento em clínica de recuperação, o que corroboraria a alegação de dependência química.
+Sustenta também ilegalidade na majoração da pena-base na primeira fase da dosimetria, sob fundamento de que o tráfico teria sido cometido próximo a complexo turístico de grande circulação. Alega que essa fundamentação não possui respaldo na denúncia, não tendo sido demonstrada qualquer conexão direta entre a localidade e maior reprovabilidade da conduta, o que violaria o princípio da individualização da pena. Defende, portanto, o afastamento do aumento arbitrado de 1/6 na pena-base.
+Por fim, a impetração questiona a aplicação da causa de aumento prevista no art. 40, VI, da Lei n. 11.343/2006, sob o argumento de que não foi comprovada a participação do paciente em tráfico de drogas com envolvimento de menor de idade. Ressalta que a configuração da causa de aumento exige demonstração inequívoca da intenção de atingir ou envolver menores, o que não teria ocorrido no caso concreto. Acrescenta que a menor mencionada não imputou qualquer conduta ao paciente, o que afastaria a incidência da referida majorante.
+Diante disso, os impetrantes requerem, liminarmente e no mérito, a concessão da ordem para reformar o acórdão impugnado, desclassificando a conduta para o delito previsto no art. 28 da Lei n. 11.343/2006 ou, subsidiariamente, para que seja afastada a exasperação da pena-base e excluída a causa de aumento do art. 40, VI, da Lei de Drogas.
+É o relatório. Decido.
+A matéria aqui suscitada foi também objeto do Recurso Especial n. 2.148.453/SP, o qual já foi apreciado por decisão transitada em julgado.
+Inviável, assim, o conhecimento do presente writ, por figurar como reiteração de pedido já devidamente analisado por esta Corte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO REGIM ENTAL NO HABEAS CORPUS. NULIDADE. ALEGADA VIOLAÇÃO DE DOMICÍLIO. ENTRADA FRANQUEADA PELO ACUSADO. REITERAÇÃO DE PEDIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A matéria relativa à violação do domicílio já foi decidida por esta Corte Superior no julgamento do HC n. 692.133/SP. Deste modo, diante da inadmissível reiteração de pedidos, inviável o conhecimento do writ.
+2. Apesar da alegação de se tratar de impugnação de atos processuais distintos (recebimento da denúncia e decretação da prisão preventiva), nota-se que a matéria de direito discutida nos presentes autos é a mesma daquela deduzida na impetração primeva, qual seja, a ilicitude do flagrante e das provas colhidas mediante a suposta indevida violação de domicílio, sem que as instâncias ordinárias tenham analisado qualquer novo elemento de prova.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 721.544/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 7/6/2022, DJe de 10/6/2022.)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
