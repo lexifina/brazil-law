@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 25/03/2025 a 31/03/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. INTIMAÇÃO VÁLIDA. JURISPRUDÊNCIA. CONSONÂNCIA. SÚMULA Nº 568/STJ. HONORÁRIOS ADVOCATÍCIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. No caso, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte, o que atrai o disposto na Súmula nº 568 do Superior Tribunal de Justiça. Precedentes.
+3. Diante de decisão que nega seguimento a recurso extraordinário latu sensu em razão de tese firmada em recurso repetitivo ou repercussão geral, cabe ao STJ apenas a análise da questão residual. Precedentes.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  DISCOVER BRASIL LTDA.  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  em parte  do  recurso  especial  e,  nesta  extensão,  negar-lhe  provimento em  virtude  da ausência de deficiência na fundamentação e  da  incidência  da  Súmula  nº  568/STJ.
+Em suas alegações,  o  agravante  ratifica  as  razões  de  seu  recurso  especial,  insistindo  na  nulidade absoluta da intimação realizada por correio, já que houve erro na entrega da correspondência em endereço antigo, situação que não teria sido adequadamente apreciada. Além disso, argumenta a necessidade de revisão do valor exorbitante fixado a título de honorários advocatícios, argumentando a necessidade de aplicação excepcional do arbitramento por equidade.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  para  que  seja  determinado  o  regular  processamento  do  apelo  nobre.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  às e-STJ  fls.  2.988/2.995.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. INTIMAÇÃO VÁLIDA. JURISPRUDÊNCIA. CONSONÂNCIA. SÚMULA Nº 568/STJ. HONORÁRIOS ADVOCATÍCIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Não viola os artigos 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. No caso, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte, o que atrai o disposto na Súmula nº 568 do Superior Tribunal de Justiça. Precedentes.
+3. Diante de decisão que nega seguimento a recurso extraordinário latu sensu em razão de tese firmada em recurso repetitivo ou repercussão geral, cabe ao STJ apenas a análise da questão residual. Precedentes.
+4. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à mudança de endereço, bem como aos efeitos decorrentes da ausência de observância do dever de comunicação ao juízo, conforme se verifica do seguinte trecho do acórdão:
+"A "assinatura do recebedor" e a "data de entrega" presentes no aviso de recebimento visível no evento 166 do caderno originário, não especificamente impugnadas pela apelante, são suficientes para comprovar o recebimento da carta de intimação pessoal, pouco ou nada importando informações outras lançadas no sistema virtual ou no código de rastreio.
+O endereço para onde remetida a carta, ademais, é exatamente aquele apontado pela petição inicial, o que permitiria a aplicação como que analógica do artigo 274 do Código de Processo civil mesmo que não recebida no destino.
+Caracterizado o abandono processual e apresentado pela parte adversa requerimento terminativo, limitou-se o decreto recorrido a bem aplicar a consequência processual estabelecida para a inércia da própria parte." (e-STJ fls. 2.447).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Além disso, o aresto combatido encontra-se alinhado à jurisprudência do Superior Tribunal de Justiça, que entende ser válida a intimação pessoal realizada no endereço informado nos autos, quando há violação do dever de comunicar a mudança de endereço.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO FICTA. ENDEREÇO INFORMADO. PROCESSO DE CONHECIMENTO. VALIDADE.
+1. A controvérsia dos autos está em reconhecer a validade da intimação na fase de cumprimento de sentença fictamente realizada no endereço informado pelo devedor na fase de conhecimento.
+2. É dever da parte comunicar ao juízo qualquer mudança de endereço, sendo válida a intimação fictamente realizada na fase de cumprimento de sentença no endereço informado na fase de conhecimento. Precedentes.
+3. Agravo interno não provido."
+(AgInt no REsp n. 2.009.555/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/10/2023, DJe de 27/10/2023 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RENÚNCIA DE MANDATO. REPRESENTAÇÃO PROCESSUAL. REGULARIZAÇÃO. INTIMAÇÃO DA PARTE. MUDANÇA DE ENDEREÇO NÃO COMUNICADA. VALIDADE DA INTIMAÇÃO. AGRAVO INTERNO NÃO CONHECIDO.
+1. No caso de renúncia de mandato, se a parte, instada a regularizar a representação processual, não o faz no prazo assinado, não se conhece do pleito recursal, de acordo com o art. 76, § 2º, I, c/c o art. 932, parágrafo único, do Código de Processo Civil de 2015.
+2. A jurisprudência do STJ entende que, conforme disposto nos arts. 77, V, e 274, parágrafo único, do CPC/2015, é dever da parte e de seus procuradores manter os seus dados cadastrais atualizados, presumindo-se válidas as intimações não recebidas pessoalmente pelo interessado, se a modificação temporária ou definitiva não tiver sido devidamente comunicada ao juízo.
+3. Agravo interno não conhecido."
+(AgInt no AREsp n. 1.903.488/RJ, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/12/2022, DJe de 15/12/2022 grifou-se).
+Logo, não merece reparos o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Já no que toca aos honorários advocatícios sucumbenciais importa esclarecer que o recurso especial teve seu seguimento negado pela Corte de origem, nos termos do art. 1.030, I, "b", c/c 1.040, I, do CPC/15, em razão da incidência do Tema Repetitivo 1076/STJ. Assim, a questão escapa ao conhecimento desta Corte Superior, porquanto este capítulo somente poderia ser impugnado pela via do agravo interno.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSIBILIDADE HÍBRIDA. TEMA A QUE FOI NEGADO SEGUIMENTO. ART. 1.030, I, "B", DO CPC. IMPUGNAÇÃO POR MEIO DE AGRAVO INTERNO NA ORIGEM. REITERAÇÃO DO TEMA EM AGRAVO NOS PRÓPRIOS AUTOS. DESCABIMENTO. MANOBRA PROCESSUAL VEDADA. MULTA. COMPENSAÇÃO E HONORÁRIOS. RAZÕES DO RECURSO INTERNO DISSOCIADAS. SÚMULAS N. 284/STF E 182/STJ. APLICAÇÃO DA SÚMULA N. 568/STJ. AUSÊNCIA DE ADEQUADA IMPUGNAÇÃO. ARTS. 932, III, E 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ.
+1. Exarada decisão de (in)admissibilidade híbrida (que nega seguimento a recurso extraordinário latu sensu em razão de tese firmada em recurso repetitivo ou repercussão geral e inadmite quanto a outras teses recursais), cabe ao STJ apenas a análise da questão residual.
+2. O inconformismo quanto à aplicação de tema firmado em recurso repetitivo ou repercussão geral deve ser manifestado por meio de agravo interno dirigido ao próprio Tribunal de origem, órgão que exerce, nessa particularidade, competência própria, sobre a qual não é admitida a apreciação de acerto ou desacerto, de modo que não há amparo legal para que, em razão da questão residual, a parte aproveite a oportunidade da análise de seu recurso sobre os temas residuais para, de forma reflexa e ardil, ressuscitar a referida temática, cuja apreciação se encontra vedada ao STJ. Precedentes.
+3. A manobra processual utilizada reflete o desrespeito da agravante com a sistemática legal decorrente da implementação dos recursos repetitivos latu sensu e deve ser amplamente rechaçada, o que impõe, no ponto, a fixação da multa previsto no art. 1.021, § 4º, do CPC.
+4. Quanto à compensação, houve provimento de apelo nobre da parte autora, sem qualquer alusão à incidência da Súmula n. 83/STJ no ponto, o que demonstra que a alegação de inaplicabilidade da referida súmula mostra-se totalmente dissociadas das razões da decisão agravada, pois tal óbice não foi em nenhum momento aplicado, o que atrai a incidência concomitante dos preceitos das Súmulas n. 284/STF e 182/STJ.
+5. Não há espaço para revisão da verba honorária, visto que a autora saiu-se vencedora em sua ação, na qual foi reconhecida uma obrigação de fazer devida pela entidade de previdência privada, de modo que não há como fixar a sucumbência com base em evento futuro e incerto, qual seja, aguardar a opção por parte da autora de adimplir a reserva matemática para ver alterado o seu benefício, como se depreende das alegações da parte agravante.
+6. Outrossim, descabida a revisão, em recurso especial, do quanto as partes decaíram e da inadequação dos percentuais fixados, visto que, observada o mínimo e o máximo legalmente estabelecido, a alteração esbarra no óbice da Súmula n. 7/STJ.
+Agravo interno conhecido em parte e improvido, com aplicação de multa."
+(AgInt no REsp n. 2.145.261/DF, relator Ministro Humberto Martins, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024 - grifou-se).
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PREQUESTIONAMENTO. COMPENSAÇÃO DE VALORES. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. DECISÃO MANTIDA.
+I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir 2. Conforme a jurisprudência desta Corte, não cabe o agravo previsto no art. 1.042, caput, do CPC contra decisão que nega seguimento a recurso especial por considerar ter havido, quanto ao tema impugnado, decisão alinhada a precedente submetido ao rito dos repetitivos (art. 1.030, I, "b", do CPC).
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+4. "É possível, em liquidação de sentença, a compensação das cotas a serem recolhidas para a recomposição da reserva matemática com o resultado da revisão do benefício de previdência complementar a receber" (AgInt no AREsp n. 2.222.745/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/11/2023, DJe de 30/11/2023).
+5. A compensação tem por pressuposto a prévia constituição da integralidade da reserva técnica - momento a partir do qual o autor reunirá os requisitos de fato para gozar do direito, em face da entidade de previdência, à complementação do benefício -, sendo possível, portanto, que da cifra alcançada pelo cálculo atuarial desconte-se o crédito a que fará jus o autor na data-base considerada para determiná-la (valores atrasados do benefício recalculado na referida data-base).
+III. Dispositivo e Tese 6. Agravo interno desprovido.
+Tese de julgamento: "1. Não cabe agravo contra decisão que nega seguimento a recurso especial alinhado a precedente repetitivo. 2. A compensação de valores em previdência complementar é possível após a constituição da reserva técnica."
+Dispositivos relevantes citados: CPC/2015, art. 1.030, I, "b"; art. 85, § 11; CC, art. 422.Jurisprudência relevante citada: STJ, EREsp 1557698/RS, Rel. Min. Ricardo Villas Bôas Cueva, DJe 28/8/2018; AgInt no REsp 2.035.456/DF, Rel. Min. Marco Buzzi, Quarta Turma, j. 6/3/2023."
+(AgInt no AREsp n. 2.475.878/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024 - grifou-se).
+Nesse  contexto,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
