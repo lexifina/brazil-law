@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecedente formulado por JAÍRA CAPISTRANO DA CRUZ SOARES e GUSTAVO FERRO GUIMARÃES com a finalidade de atribuir efeito suspensivo ao recurso especial, este interposto contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado da Bahia, que negou provimento ao recurso de agravo de instrumento, assim ementado:
+"AGRAVO DE INSTRUMENTO EM AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. PROCESSUAL CIVIL. VALOR DA CAUSA BASEADO EM PROVEITO ECONÔMICO OBTIDO. AÇÃO DE INVENTÁRIO, CUJOS BENS ESTÃO AVALIADOS EM MILHÕES DE REAIS. VALOR ATRIBUÍDO À CAUSA EXTREMAMENTE INCOMPATÍVEL. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. Os Agravantes ajuizaram Ação de Arbitramento de honorários advocatícios, para a determinação de reserva no rosto dos autos dos processos que tramitam perante a 4.ª Vara de Sucessões e a 17.ª Vara Cível e Relações de Consumo, do percentual de 10% (dez por cento) sobre os bens/valores a serem recebidos pelas Agravadas, tendo indicado o valor de R$ 1.320,00 (mil trezentos e vinte reais), como valor da causa e o juízo primevo determinou que, no prazo de 15 (quinze) dias, fosse realizada a emenda da inicial, adequando-se o pedido de fixação dos honorários e o valor da causa.
+2. Obviamente, na Ação de Arbitramento de Honorários não é possível se atribuir à causa o valor do proveito econômico pretendido, na medida em que, nesse tipo de ação não há valor econômico imediato. No entanto, nas ações nas quais os Agravantes requereram a reserva de honorários já existe avaliação dos bens. Logo, a verdade é que não há óbice para a correta delimitação do valor da causa, considerado o percentual apontado pelos advogados, ainda mais que se trata de valor que chega à casa dos milhões de reais.
+3. Foi correta a decisão agravada, na medida em que reconhece, que no caso, existe sim conteúdo econômico delimitável, pois o valor de R$ 1.320,00 (mil trezentos e vinte reais) atribuído à causa é extremamente incompatível com o que se busca nas Ações n.º 0119719-80.2008.8.05.0001 e n.º 0576424- 52.2016.8.05.0001.
+Agravo não provido. Decisão mantida." (fls. 62-63)
+A parte requerente justifica a concessão do efeito suspensivo pleiteado afirmando, em síntese, que "buscam os Autores: a) a antecipação de tutela para determinar a suspensão da decisão que determinou a emenda da inicial no processo nº 8112235- 47.2023.8.05.0001, para correção do pedido e do valor da causa com consequente prosseguimento do feito até julgamento em razão da interposição do Recurso Especial interposto no agravo de instrumento nº 8050688-09.2023.8.05.0000" (fl. 12).
+Relativamente ao periculum in mora, aduz que "o requisito do perigo de dano, por sua vez, se justifica na medida a não concessão da medida cautelas imporia aos autores a emenda à petição inicial com consequente obriga ção de recolhimento de vultosas custas processuais além das já adimplidas, o que inevitavelmente desbordaria em extinção do feito em razão do não recolhimento das altas custas, destoando, assim, do entendimento deste próprio Superior Tribunal de Justiça. Rememora-se que se trata de ação para reconhecimento de contraprestação pelos cuidadosos serviços prestados, na qualidade de advogados das demandadas" (fl. 13).
+É o relatório. Passo a decidir.
+Acerca da tutela provisória, importante destacar os seguintes artigos do novo Código de Processo Civil:
+Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental.
+Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito.
+Art. 300. A tutela de urgência será concedida quando houver elementos que
+evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+O mesmo Codex, com as alterações estabelecidas pela Lei nº 13.256/2016, assim dispõe acerca da concessão de efeito suspensivo a recurso especial:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo; (Redação dada pela Lei nº 13.256, de 2016) (Vigência)
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Nos termos do artigo supra transcrito, verifica-se que a competência do Superior Tribunal de Justiça para analisar pedidos de efeito suspensivo a recurso especial somente se inaugura após a realização do juízo de prelibação na eg. Corte Estadual.
+Deste modo, enquanto pendente o exame de admissibilidade, estes pedidos devem ser formalizados, nos próprios autos, perante a eg. Instância a quo.
+No caso em liça, não há informação acerca da realização do juízo da admissibilidade do recurso especial, o que evidencia a incompetência desta Corte Superior para examinar o presente pedido de efeito suspensivo.
+Ante o exposto, não se conhece do presente pedido, nos termos dos arts. 34, XVIII, letra "a", e 288, § 2º, do RISTJ.
+Publique-se.
+EMENTA
