@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por SANTANDER CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S. A. em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 92):
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INCIDENTE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO AO CRÉDITO. TRANSAÇÃO ANTERIOR À SENTENÇA. INEXISTÊNCIA DE CAUSA SUPERVENIENTE. PRECLUSÃO. NEGADO PROVIMENTO. I. CASO EM EXAME
+1. Agravo de instrumento interposto contra decisão que rejeitou impugnação ao crédito em incidente de cumprimento de sentença de ação de exigir contas. A agravante sustenta que a impugnação deve ser acolhida, pois houve transação entre as partes, o que configura causa modificativa da obrigação. A agravada alega que a transação ocorreu antes da sentença, configurando preclusão. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a transação realizada anteriormente à sentença pode ser considerada como causa modificativa da obrigação para fins de impugnação ao cumprimento de sentença. III. RAZÕES DE DECIDIR
+3. Nos termos do art. 525, VII, do CPC, a impugnação ao cumprimento de sentença deve se basear em causa modificativa ou extintiva superveniente à sentença. No caso, a transação alegada pela agravante ocorreu antes da sentença, o que impede sua invocação como causa extintiva.
+4. Além disso, o art. 509, § 4º, do CPC veda a rediscussão da lide ou a modificação da sentença na fase de liquidação. IV. DISPOSITIVO E TESE
+5. Agravo de instrumento conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 105-110).
+Nas razões de recurso especial (e-STJ, fls. 971-981), a recorrente apontou a violação dos arts. 5º, 6º, 80, 489, 502, 506, 507, 509, § 4º, 525, VII, 1022 do Código de Processo Civil de 2015; e 884 do Código Civil de 2002, sustentando, em síntese, que houve desrespeito à coisa julgada material decorrente de transação celebrada entre as partes, que deveria encerrar todas as demandas decorrentes da relação de direito material que as envolve; e que o cumprimento de sentença deveria ser extinto, devido à formação da coisa julgada na ação monitória.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.003-1.014).
+O Tribunal de origem não admitiu o recurso especial em razão da ausência de violação dos arts. 489 e 1.022 do CPC/2015; a falta de comprovação de ofensa aos dispositivos apontados; e da incidência da Súmula 7/STJ (e-STJ, fls. 141-143).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Inicialmente, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil do 2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia relativa às questões apontadas senão vejamos (e-STJ, fls. 94-96):
+"Sustenta a executada que a ação de prestação de contas nº 1044981-98.2017.8.26.0100, a ação revisional nº 1051371-84.2017.8.26.0100 e a ação monitória nº 5456608-87.2017.8.09.0051, tem como objeto questões relacionadas ao saldo devedor da mesma conta corrente nº 01.016160.1, pois nesta conta havia a movimentação dos recursos financeiros que suportaram as transações de ações.
+Com efeito, a sentença que estabeleceu a necessidade de prestação de contas foi publicada em 12/9/2017 (fls. 111/113 dos autos principais). O recurso contra referida decisão foi julgado em segunda instância em 14/6/2018 (fls. 171/180 dos autos principais). Por sua vez, a transação celebrada pelas partes ocorreu em 27/12/2017.
+Na segunda fase, foi proferida sentença que julgou procedente a ação de prestação de contas, reconhecendo o débito em favor do autor de R$ 212.704,64. Referida sentença foi publicada em 11/9/23 (fls. 1.420/1.425 dos autos principais). Recurso interposto pela ora agravante foi improvido, com julgamento em 30/1/24 (fls. 1.504/1.513 dos autos principais).
+Em nenhum momento, no curso da trabalhosa segunda fase da ação de prestação de contas, a agravante cuidou de noticiar a existência do referido ajuste para a competente análise de seus termos e possíveis consequências.
+(..)
+Desse modo, conforme dispositivo acima transcrito, na impugnação, o executado poderá alegar qualquer causa modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que supervenientes à sentença.
+Ora, evidente que a possibilidade de arguir causas modificativas ou extintivas da obrigação, por transação, restou há muito preclusa, pois o ajuste ocorreu muitos anos antes que fosse apurada na sentença a existência de crédito em favor do agravado.
+Ademais, conforme consignado pelo ilustre Magistrado "a quo", o §4º, do art. 509, do CPC, veda expressamente que, na liquidação, seja rediscutida a lide ou modificada a sentença que a julgou." (Sem grifo no original).
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à alegada ocorrência de coisa julgada, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Neste sentido, guardadas as devidas particularidades:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PLANO DE SAÚDE. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA. CARATER ABUSIVO DOS VALORES COBRADOS NÃO DEMONSTRADO. INADIMPLÊNCIA. ENVIO DE NOTIFICAÇÃO PRÉVIA COMPROVADO. CANCELAMENTO. LEGALIDADE. REEXAME DE FATOS E PROVAS. ÓBICE DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A Corte de origem consignou que na ação anterior foi determinada apenas a inclusão do recorrente em carteira de plano médico destinado aos inativos, que não se constatou o caráter abusivo nos valores cobrados e que as recorridas comprovaram o regular envio de notificações comunicando sobre o inadimplemento das mensalidades e a possibilidade de cancelamento do plano.
+2. A modificação de tal entendimento lançado no v. acórdão recorrido, para reconhecer a existência de ofensa à coisa julgada, a ilegalidade dos valores cobrados e do cancelamento do plano, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.458.720/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b , do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
