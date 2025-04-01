@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno manejado por Jose Roberto Batista, desafiando decisão de fls. 527/528, proferida pela presidência desta Corte de Justiça, que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ.
+A parte agravante, em suas razões, sustenta a inaplicabilidade do referido óbice, eis que, "Está comprovado, à exaustão, que a pseudo necessidade de reexame de fatos e provas em que se alicerçou a r. decisão do Tribunal de origem, carece de lastro legítimo" (fl. 536)
+Devidamente intimada, a parte agravada não apresentou impugnação, conforme certidão de fl. 544.
+Colhe-se dos autos que o subjacente agravo em recurso especial foi interposto contra decisão de inadmissibilidade do recurso especial, manejado com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 453):
+DIREITO PREVIDENCIÁRIO. APELAÇÃO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. REVISÃO. ATIVIDADE ESPECIAL. RUÍDO. COMPROVAÇÃO EM PARTE. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL. HONORÁRIOS DE ADVOGADO. SUCUMBÊNCIA RECÍPROCA.
+1. Rejeito a preliminar arguida pelo autor, uma vez que não há nulidade por cerceamento da defesa, pois cabe ao Magistrado, no uso do seu poder instrutório, deferir ou não, determinada prova, de acordo com a necessidade e para a formação do seu convencimento.
+2. Os períodos laborados pelo autor entre 06/03/1997 a 01/10/2015 na empresa Robert Bosch Ltda., na função de "planejador técnico" não podem ser reconhecidos como insalubres, pois esteve exposto a nível de ruído de 78,23 dB (A), abaixo do limite considerado nocivo pela legislação previdenciária (laudo técnico judicial, id 258569862, e Perfil Profissiográfico Previdenciário, id 258569846), conforme previsão dos Decretos n. 2.172/97 e 3.048/99 (STJ, R Esp 1398260/PR, Relator Ministro Herman Benjamin, Primeira Seção, j. 14/05/2014, D Je 05/12/2014).
+3. Computando-se os períodos de atividades especiais reconhecidos na r. sentença, verifica-se que a parte autora não implementou os requisitos legais para a concessão da aposentadoria por tempo de contribuição, sem a incidência do fator previdenciário (MP 676/2015, convertida na Lei 13.183/2015).
+4. Reconhecidas as atividades especiais, deve o INSS proceder ao recálculo da renda mensal inicial (RMI) do benefício da parte autora.
+5. Juros e correção monetária. Aplicação dos índices previstos no capítulo 4.3, do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, alterado pela Resolução CJF nº 784/2022, de 08 de agosto de 2022, ou daquele que estiver em vigor na data da liquidação do título executivo judicial.
+6; Honorários advocatícios. Sucumbência recíproca.
+7. Sentença corrigida de ofício. Preliminar rejeitada. Apelação, no mérito, parcialmente provida.
+Opostos embargos declaratórios, foram rejeitados (fl. 478).
+Aponta a recorrente, nas razões do recurso especial, violação aos arts. 85, § §, 2º e 3º, I e § 4º, e 1.022, I, do CPC, sustentando, além de negativa de prestação jurisdicional, que, ""e fato notório que, na hipótese dos autos, o valor da condenação não será superior a 2.000 (dois mil) salários mínimos. Isto posto, ressai notório que simplesmente não há cabimento algum em se fixar os honorários à ordem de 5%" (fl. 490)
+Defende que "é certo que não se pode ignorar o fato de que, mantendo-se a verba tal como estabelecida, tal quantia será aviltante, notadamente porque não se mostra(rá) suficiente, tão pouco justa, para remunerar condignamente todo o trabalho desenvolvido e desempenhado até aqui" (fl. 491).
+Ao final, requer a reforma do "v. acórdão recorrido deve ser reformado, para que os honorários de sucumbência sejam fixados conforme o escalonamento previsto no art. 85, § 3º do CPC" (fl. 491).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto ao agravo interno, com razão, a parte agravante, pois, de uma leitura atenta aos autos, verifica-se, que de fato, às fls. 507, houve impugnação da incidência, à espécie, do óbice previsto na Súmula 7 do STJ.
+Dessa forma, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada de fls. 527/528, tornando-a sem efeito, pelo que prossigo para o exame do agravo em recurso especial.
+Nesse ponto, a irresignação não merece acolhida, pelas razões que passo a declinar.
+Inicialmente, verifica-se, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que diz respeito aos honorários, o Tribunal de origem, a o solucionar a controvérsia, adotou as seguintes razões de decidir (fl. 482):
+Com efeito, face à ocorrência de sucumbência recíproca (art. 86, caput, CPC), considerando-se que a parte autora sucumbiu em parte do pedido exordial (reconhecimento como especial do período de 06.03.97 a 01.10.2015, assim como do pedido de afastamento do fator previdenciário), a decisão embargada condenou ambas as partes ao pagamento de honorários à razão de 5% do valor da condenação, observada a concessão da gratuidade em favor da parte autora (ID 268709404/4).
+Nesse contexto, consoante a jurisprudência do STJ, "a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ". (AgInt no AREsp n. 866.420/MS, relator Ministro Marco Buzzi, Quarta Turma, DJe 3/3/2020.)
+No mesmo sentido, confira-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. RECONHECIMENTO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. À luz do princípio da causalidade, o Tribunal de origem entendeu que o reconhecimento da existência de excesso de execução não induz à condenação da parte agravada ao pagamento de honorários advocatícios, pois (a) os cálculos foram elaborados segundo o entendimento que então prevalecia no âmbito da jurisprudência do Tribunal de origem, que (b) somente foi alterado a partir do julgamento do IAC n. 18.193, situação que revela (c) a inexistência de má-fé da parte exequente.
+2. A revisão das premissas fáticas delineadas no acórdão recorrido esbarra no óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 2.175.551/MA, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 17/2/2025.)
+ANTE O EXPOSTO, dou provimento ao agravo interno e reconsidero a decisão de fls. 527/528, tornando-a sem efeito.
+Porém, pelas razões supra, conheço em parte do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se.
+EMENTA
