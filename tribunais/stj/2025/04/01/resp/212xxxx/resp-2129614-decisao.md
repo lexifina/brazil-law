@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEE BROCK CAMARGO ADVOGADOS, com fundamento no art. 105, III, "a" e "c", contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo (TJ-MT), assim ementado:
+"AGRAVO DE INSTRUMENTO. Execução de título extrajudicial. Decisão agravada que indeferiu o pedido do escritório de advocacia recorrente de reserva de valores a título de honorários advocatícios sucumbenciais, pois sua apuração exige via processual própria para tal fim. Inconformismo do escritório de advocacia. Sem razão. Questão que deverá ser dirimida pela via processual adequada, ou seja, por meio do ajuizamento de demanda autônoma com esse objetivo. Precedentes deste Tribunal e do STJ. Decisão mantida. Recurso não provido." (fl. 41)
+Os embargos de declaração opostos foram rejeitados (fls. 59/60).
+Nas razões do recurso especial (fls. 62/76), a parte recorrente aponta ofensa ao artigo 23 da Lei 8.906/94 , além de divergência jurisprudencial, sustentando, em síntese, que, por ter atuado no processo desde a sua origem, a ora Recorrente possui plena legitimidade para atuar de forma autônoma nos presentes autos, no intuito de realizar a cobrança dos honorários nos mesmos autos da execução.
+Apresentadas contrarrazões às fls. 100/102.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Na hipótese, o Tribunal de origem indeferiu o do escritório de advocacia recorrente de reserva de valores a título de honorários advocatícios sucumbenciais, tendo em vista que, ante à renúncia do mandato e constituição de novos patronos, sua apuração exige via processual própria para tal fim. É o que se observa do trecho do v. acórdão recorrido:
+"Não se discute que são devidos os honorários em proporção ao tempo em que os recorrentes atuaram no caso, conforme disposto no art. 23 da Lei nº 8.906/1994.
+Ocorre que, em se tratando de pretensão ao arbitramento e fixação de honorários, nos termos dos dispositivos legais invocados pelo escritório agravante, não se pode dispensar o ajuizamento de demanda autônoma com esse objetivo, momento em que poderão realizar as provas necessárias à aferição e apuração dos honorários advocatícios reclamados." (fl. 44)
+Nos termos da jurisprudência deste Superior Tribunal de Justiça, em havendo renúncia/revogação do mandato, não se mostra possível executar diretamente, nos próprios autos, os honorários fixados na sentença, mas mediante ação autônoma. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS AGRAVANTES.
+1. Em havendo renúncia/revogação do mandato, o advogado deverá buscar a execução da verba honorária em ação autônoma. Precedentes.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.098.182/PR, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/10/2022, DJe de 4/11/2022, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TESTAMENTO PÚBLICO. CLÁUSULA QUE ESTABELECE RESERVA DE VALOR DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DOS FILHOS DO TESTADOR. CADUCIDADE. POSTERIOR SUBSTABELECIMENTO DOS PODERES DE REPRESENTAÇÃO, SEM RESERVAS, EM FAVOR DA VIÚVA, SÓCIA DO TESTADOR. RENÚNCIA APENAS DO PODER DE REPRESENTAÇÃO, NÃO DO DIREITO A HONORÁRIOS PROPORCIONAIS. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência do STJ, o substabelecimento, sem reserva de poderes, caracteriza renúncia ao poder de representação em juízo, e não aos honorários advocatícios proporcionais à participação do advogado substabelecente no processo. Apenas não se mostra possível executar diretamente, nos próprios autos, os honorários fixados na sentença, mas mediante ação autônoma.
+Precedentes.
+2. Nesses termos, o substabelecimento dos poderes de representação, sem reserva de poderes, em favor da viúva, não resulta na caducidade da cláusula testamentária que, anteriormente, reservara às filhas do testador valor relativo aos honorários advocatícios originados de sua atuação na demanda.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.231.781/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/10/2022, DJe de 28/10/2022, g.n.)
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUBSTABELECIMENTO SEM RESERVA DE PODERES. INAPLICABILIDADE DAS REGRAS PREVISTAS NOS ARTS. 23 E 26 DA LEI 8.906/94. PRETENSÃO DE HONORÁRIOS, POR PARTE DO ADVOGADO SUBSTABELECENTE SEM RESERVA DE PODERES, QUE DEVE SER VEICULADA EM AÇÃO AUTÔNOMA. PRECEDENTE.
+1. O direito autônomo para executar a sentença na parte relativa aos honorários incluídos na condenação, por arbitramento ou condenação, previsto no art. 23 da Lei 8.906/94, é assegurado ao advogado constituído nos autos, habilitado para representar a parte em juízo, na forma do art. 36 do CPC, de modo que não abrange o advogado que substabeleceu sem reserva de poderes, sobretudo porque o substabelecimento, sem reserva de poderes, caracteriza renúncia ao poder de representar em juízo (REsp 713.367/SP, 1ª Turma, Rel. Min. Luiz Fux, DJ de 27.6.2005; AgRg nos EREsp 36.319/GO, Corte Especial, Rel. Min. Dias Trindade, DJ de 8.5.95).
+2. Por outro lado, o art. 26 da Lei 8.906/94 impede que o advogado substabelecido, com reserva de poderes, efetue a cobrança de honorários sem a intervenção daquele que lhe conferiu o substabelecimento. Extrai-se, a contrario sensu, que não há óbice para que o advogado substabelecido, sem reserva de poderes, efetue a cobrança de honorários, sendo descabida a intervenção do advogado substabelecente. Assim, não há falar em ofensa ao artigo em comento.
+3. No mais, o acórdão recorrido está em consonância com a jurisprudência desta Corte, que se firmou no sentido de que "a controvérsia quanto ao percentual de honorários advocatícios que cada advogado que atuou na causa deve receber, tendo em vista a revogação do mandato e substituição dos causídicos, deve ser solucionada em ação autônoma" (REsp 766.279/RS, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 18.9.2006).
+4. Recurso especial não provido."
+(REsp n. 1.207.216/SP, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/12/2010, DJe de 3/2/2011, g.n.)
+Assim, estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, incide, na espécie, o óbice da Súmula 83/STJ.
+Ante o exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
