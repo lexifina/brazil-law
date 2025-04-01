@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno (fls. 722-734) interposto contra decisão da então Ministra Presidente desta Corte que não conheceu do recurso, por aplicação da Súmula n. 284/STF.
+Em suas razões, a agravante alega que o recurso especial preenche os requisitos de admissibilidade.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou contrarrazões (fls. 752-758).
+É o relatório.
+Decido.
+A então Ministra Presidente desta Corte, às fls. 717/718, não conheceu do recurso por aplicação da Súmula n. 284/STF.
+Entretanto, a jurisprudência desta Corte tem permitido o afastamento da referida súmula quando, apesar de não haver no recurso a indicação de qual das alíneas do permissivo constitucional o embasa, houver, em suas razões, expressa demonstração de ofensa a dispositivo de lei federal, como ocorreu no caso em estudo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL. OFENSA A DISPOSITIVO DE LEI FEDERAL. EXPRESSA. DEMONSTRAÇÃO. AFASTAMENTO DA SÚMULA N. 284 DO STF. CIVIL. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Afasta-se a incidência da Súmula n. 284 do STF quando, apesar da não indicação de qual das alíneas do permissivo constitucional embasa o recursal especial, nas suas razões, há expressa demonstração de ofensa a dispositivo de lei federal.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.737.409/RS, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Dessa forma, a decisão merece ser reconsiderada, a fim de que seja afastado o não conhecimento do agravo interposto, prosseguindo-se com seu exame.
+O acórdão recorrido está assim ementado (fl. 576):
+DUPLA APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE DO RÉU DEVIDAMENTE DEMONSTRADA. DANOS MATERIAIS E LUCROS CESSANTES NÃO COMPROVADOS. SENTENÇA PARCIALMENTE REFORMADA. PEDIDOS INICIAIS JULGADOS IMPROCEDENTES. 1. Evidenciada a responsabilidade do réu pelo acidente narrado nos autos, objeto da ação, deve ser mantida a sentença na parte que declarou neste sentido. 2. A existência do dano material, quantificada na inicial, desacompanhada a prova de sua extensão, não se presta à condenação pecuniária respectiva. 3. "Para que seja devido a indenização por danos materiais, há necessidade de prova específica concernente ao prejuízo material sofrido, uma vez que não pode se presumir a ocorrência de danos materiais." (TJGO, Recurso Inominado Cível 5026873-69, DJe de 10/10/2022). 4. A apuração do valor da reparação material somente é relegada à fase de liquidação de sentença, na impossibilidade de se quantificar de imediato. 5. A declaração unilateral do contado r da empresa demandante, quantificando lucros cessantes, desacompanhada de outras provas públicas e oficiais, tais como declaração de imposto de renda, extratos bancários, contratos de prestação de serviços, de fácil apresentação pela parte demandada, não se presta aos fins desejados, mormente quando contém dados irreais e questionáveis. 6. 1º RECURSO CONHECIDO E PROVIDO. 2º RECURSO PREJUDICADO.
+Os embargos de declaração opostos pela agravante foram rejeitados e os do agravado foram acolhidos, conforme ementa que segue (fl. 611):
+DUPLOS EMBARGOS DE DECLARAÇÃO NA DUPLA APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE DO RÉU DEVIDAMENTE DEMONSTRADA. DANOS MATERIAIS E LUCROS CESSANTES NÃO COMPROVADOS. SENTENÇA PARCIALMENTE REFORMADA. PEDIDOS INICIAIS JULGADOS IMPROCEDENTES. OMISSÃO. ART. 1.022 DO CPC/15. OCORRÊNCIA. PREQUESTIONAMENTO. ARTIGO 1.025 DO CPC/15. 1. Acolhem-se os embargos de declaração caso ocorram as hipóteses previstas no artigo 1.022 do Código de Processo Civil/15. 2. Para fins de prequestionamento, desnecessária a manifestação expressa do órgão julgador quanto aos dispositivos legais debatidos, sendo suficiente a devida apreciação da matéria por eles abrangida, nos termos do artigo 1.025 do CPC/15, o qual dispõe que "consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade." 3. PRIMEIROS EMBARGOS DE DECLARAÇÃO CONHECIDOS E ACOLHIDOS. SEGUNDOS EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+Nas razões do especial (fls. 623-635), a recorrente apontou ofensa aos arts. 5º, LV, da CF, 10, 371 e 373, I e II, do CPC/2015.
+Alegou ter havido ofensa aos princípios do contraditório e da ampla defesa, uma vez que seu pedido de lucros cessantes havia sido acolhido em sentença, mas, no julgamento da apelação da parte contrária, o Tribunal de origem, entendendo que as provas eram insuficientes, deu provimento ao recurso sem oportunizar a produção de novas provas, especialmente a pericial que havia sido indeferida pelo Juízo de primeira instância. Afirmou ter juntado com a inicial declaração de seu faturamento, o que comprovaria os lucros cessantes pleiteados, documento esse que não teria sido questionado pelo recorrido e que foi declarado pelo Magistrado de primeiro grau como incontroverso.
+Foram apresentadas contrarrazões (fls. 649-657).
+No agravo (fls. 683-701), declara a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 703-711.
+A irresignação não merece prosperar.
+Inicialmente, destaco não ser viável apreciar, em recurso especial, a tese de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa ao art. 5º, LV, da CF.
+No que interessa ao presente recurso, o Tribunal de origem assim se manifestou (fls. 572-574):
+Entrementes, não se pode olvidar que, na espécie, a autora QUANTIFICOU os danos materiais e os lucros cessantes que diz ter sofrido (R$ 100.000,00 mais R$ 12.500,00 mensais). Assim, deveria ter instruído a inicial com os documentos aptos a comprovar as suas alegações (art. 434 do CPC/15), a saber, a de que seu prejuízo material, com a perda total do veículo, foi de R$ 100.000,00, e que os lucros cessantes foram de R$ 12.500,00 mensais. Não há nota fiscal, recibo, nada.
+ ..
+É verdade que foi juntada às fls. 34 dos autos físicos, uma declaração do contador da empresa autora, indicando que a carreta e caminhão faturam em média, R$ 25.000,00 mensais.
+Ocorre que se trata de prova frágil, já que emitida por profissional que trabalha de modo direto com a autora, sendo imprestável para fins de mister, mormente por não estar acompanhada de outras provas engajadas. Documentos públicos ou oficiais, tais como a declaração de imposto de renda, extratos bancários, contratos de prestação de serviços, de fácil exibição pela parte autora, seriam úteis à pretensão inicial.
+ ..
+Inclusive, chama a atenção o teor da declaração lançada pelo contador. Nela, o profissional declara que o faturamento da autora é referente aos meses de março de 2014 a fevereiro de 2015. Ora, o acidente ocorreu no dia 01/12/2014; daí, como uma carreta que sofreu perda total pode ter faturado nos meses de janeiro e fevereiro do ano de 2015
+Assim, ainda que comprovada a culpa do réu pelo acidente, de outro modo, não diligenciou a parte autora em colacionar provas do alegado valor dos danos materiais e lucros cessantes sofridos.
+Vê-se que o comando normativo do art. 10 do CPC/2015 não foi objeto de exame pela Corte local.
+A alegação de cerceamento de defesa, por sua vez, foi examinada apenas quanto ao indeferimento da prova técnica requerida para apurar a dinâmica do acidente.
+A tese apresentada no especial de que não poderia o TJGO considerar o pedido de lucros cessantes improcedente p or falta de provas, sem possibilitar sua produção, especialmente quando havia pedido nesse sentido, não foi examinada pela Corte local, nem mesmo após a oposição de embargos de declaração.
+Assim, há de se considerar a falta de prequestionamento a ensejar a aplicação da Súmula n. 211/STJ.
+Ante o exposto, RECONSIDERO a decisão da Presidência desta Corte de fl s . 717-718 para afastar o não conhecimento do agravo em recurso especial e NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+EMENTA
