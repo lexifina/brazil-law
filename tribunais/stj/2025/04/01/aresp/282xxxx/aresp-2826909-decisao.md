@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por ANTONIO CARLOS DAS DORES em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+" EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA C.C. INDENIZATÓRIA. CARTÃO DE CRÉDITO CONSIGNADO. ERRO SUBSTANCIAL. DECADÊNCIA. ART. 178, II, DO CÓDIGO CIVIL.
+PREJUDICIAL ACOLHIDA. 1 - Nos termos do art. 178, II, do Código Civil, o reconhecimento do vício de consentimento decorrente de erro substancial ou dolo na contratação submete-se ao prazo decadencial de quatro anos a contar da data da celebração do contrato. 2 - Constatando-se que a ação foi proposta após o transcurso do prazo decadencial, impõe-se o acolhimento da prejudicial." (e-STJ fls. 416)
+Nas razões do recurso especial, a recorrente alega, de início, violação aos arts. 167 e 169 do CC, sustentando que houve uma evidente simulação de negócio jurídico por parte do recorrido, que apresentou uma determinada transação para o recorrente (empréstimo consignado comum) e efetivou a contratação de outro negócio (cartão de crédito consignado) e que os negócios jurídicos simulados, por serem nulos, não se submetem aos prazos decadenciais e/ou prescricionais.
+Alega, ainda, que nos casos de obrigação de trato sucessivo, o prazo para ajuizamento da ação mandamental renova-se mês a mês, não podendo se falar em decadência e que é de 10 anos o prazo prescricional para pleitear perdas e danos decorrente de uma relação contratual.
+É o relatório. Decido.
+No que se refere às teses levantadas no recurso especial (simulação de negócio jurídico, ausência de decadência quanto a obrigação de trato sucessivo e prazo prescricional para pleitear perdas e danos), verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foram apreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão.
+Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. DEVEDORA EM RECUPERAÇÃO JUDICIAL. ALEGAÇÃO DE SOLIDARIEDADE SOCIAL. AUSÊNCIA DE EXAME. SÚMULAS N. 282 E 356/STF. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. SÚMULA N. 581/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. "O processamento de pedido de recuperação judicial da empresa que tem a sua personalidade jurídica desconsiderada não impede o prosseguimento da execução redirecionada contra os sócios, visto que eventual constrição dos bens destes não afetará o patrimônio da empresa recuperanda, tampouco a sua capacidade de soerguimento."
+(REsp n. 2.034.442/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.066.039/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)(grifei)
+Em verdade, as razões expostas no recurso especial encontram dissociadas do que fora decidido pela Corte de origem, uma vez que a Corte de origem analisou a ocorrência de vício de consentimento decorrente de erro substancial ou dolo na contratação, enquanto a recorrente trata do vício de simulação, matéria completamente distinta.
+Tal situação atrai a incidência da Súmula n. 284/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia ". Sobre o tema:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. RESPONSABILIDADE CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. INDENIZAÇÃO. TELEFONIA. COBRANÇA INDEVIDA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 e 1.022 DO CPC/2015. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA N. 284/STF. DANOS MATERIAIS E MORAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. A dissociação entre as razões recursais e os fundamentos do acórdão recorrido obsta o conhecimento do recurso especial, ante a incidência da Súmula n. 284 do STF.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.
+7/STJ).
+4. No caso concreto, a reforma do acórdão recorrido, que afastou a ocorrência de danos materiais e morais, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1576529/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+Por fim, quanto às teses de que nos casos de obrigação de trato sucessivo, o prazo para ajuizamento da ação mandamental renova-se mês a mês, não podendo se falar em decadência e de que é de 10 anos o prazo prescricional para pleitear perdas e danos decorrente de uma relação contratual, tem-se que a parte recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. SERVIÇOS HOSPITALARES. DESCREDENCIAMENTO. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESCISÃO CONTRATUAL. REGULARIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DANOS MATERIAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+(..)
+3. Acerca da regularidade da resilição do contrato, incide a Súmula n. 284 do STF, pois a agravante não indica qual dispositivo de lei teria sido violado, o que caracteriza deficiência na fundamentação recursal.
+(..)
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.812.602/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/5/2021, DJe de 28/5/2021.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 10% sobre o valor da causa para 11% do respectivo valor, ressalvada eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
