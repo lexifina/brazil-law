@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por ANTÔNIO MARIOSA MARTINS e OUTRO, em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO DE INSTRUMENTO - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - RELAÇÃO CÍVEL - TEORIA MAIOR - ATOS ABUSIVOS - CONFUSÃO PATRIMONIAL - DESVIO DE FINALIDADE - AUSÊNCIA DOS REQUISITOS AUTORIZADORES - DECISÃO MANTIDA.
+- A desconsideração da personalidade jurídica é medida excepcional que só deve ser deferida quando se mostrarem presentes os requisitos previstos no art. 50 do Código Civil, a saber, desvio de finalidade ou confusão patrimonial, de forma inequívoca.
+- A mera existência de grupo econômico e a ocorrência de cessão de quotas não gera presunção de fraude ou ainda de desvio de finalidade no intuito de lesar credores.
+- A ausência de comprovação das alegações implica a impossibilidade de que se reconheça a desconsideração da personalidade jurídica., devendo ser mantida a decisão impugnada." (e-STJ fls.712)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 133 e 134, do Código de Processo Civil, e 50, do Código Civil, bem como dissídio jurisprudencial, sustentando, em síntese que: 1) a Corte de origem realizou julgamento extra petita, ao não se restringir à matéria objeto da controvérsia e estabelecendo premissa diversa daquela colocada pelo juízo de Primeiro Grau para manter a sentença e 2) restaram configurados os requisitos para desconsideração da personalidade jurídica da parte recorrida, quais sejam, desvio de finalidade e/ou confusão patrimonial, não sendo a ausência de bens condição indispensável ao pedido de desconsideração.
+É o relatório. Decido.
+No que se refere à tese de julgamento extra petita, verifica-se que o tema não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. DEVEDORA EM RECUPERAÇÃO JUDICIAL. ALEGAÇÃO DE SOLIDARIEDADE SOCIAL. AUSÊNCIA DE EXAME. SÚMULAS N. 282 E 356/STF. PERSONALIDADE JURÍDICA. DESCONSIDERAÇÃO. SÚMULA N. 581/STJ. NÃO PROVIMENTO.
+1. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. "O processamento de pedido de recuperação judicial da empresa que tem a sua personalidade jurídica desconsiderada não impede o prosseguimento da execução redirecionada contra os sócios, visto que eventual constrição dos bens destes não afetará o patrimônio da empresa recuperanda, tampouco a sua capacidade de soerguimento."
+(REsp n. 2.034.442/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2023, DJe de 15/9/2023).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.066.039/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 1/7/2024, DJe de 3/7/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. REPETIÇÃO DO INDÉBITO EM DOBRO. MÁ-FÉ CARACTERIZADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de má-fé na cobrança de dívida quitada. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1663414/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Já quanto à alegação de que Restaram configurados os requisitos para desconsideração da personalidade jurídica da parte recorrida, quais sejam, desvio de finalidade e/ou confusão patrimonial, não sendo a ausência de bens condição indispensável ao pedido de desconsideração. a Corte de origem assim decidiu:
+"Verticalizando tais premissas e examinando com acuidade o caso dos autos, verifica-se que não há acervo probatório mínimo apto a motivar o deferimento do pedido de desconsideração da personalidade jurídica, mormente porque a mera cessão de quotas sociais e a configuração de eventual grupo econômico não gera presunção de fraude.
+(..)
+Nessa toada, tem-se que o simples fato de existir correlação entre as empresas, sem maiores provas, não é capaz de evidenciar a ocorrência de desvio de finalidade, especialmente em razão do fato de que não comprovado o intento de lesar credores.
+De mesmo modo, não se vê qualquer prova contunde de que tenha ocorrido confusão patrimonial entre os bens da pessoa jurídica executada e dos sócios ou administradores, bem como entre as empresas integrantes do suposto grupo econômico.
+Sendo assim, considerando-se que a desconsideração da personalidade jurídica denota medida extrema, faz-se imprescindível a existente de provas inequívocas acerca da ocorrência dos requisitos legalmente previstos ao seu deferimento. O que, como o visto, não se verificou na hipótese.
+(..)
+Acresce-se a isso, o fato de que ocorreu nos autos a penhora de bem de elevado valor em prol da parte exequente, de modo que não se pode falar em esvaziamento patrimonial por parte da empresa executada, apto a sinalizar a ocorrência de fraude no intuito de lesar credores.
+Nesse ponto, relevante pontuar que, inobstante o esforço argumentativo perpetrado pelos agravantes, não se verifica real impossibilidade do recebimento do crédito por eles pretendido, isto porque embora existam vários credores preferenciais, o imóvel penhorado possui valor cerca de vinte vezes maior do que o débito exequendo, além de inexistir qualquer comprovação de que a soma dos créditos com preferência de fato ultrapasse aludida monta.
+Face o exposto, não há razões para o deferimento do pedido de desconsideração da personalidade jurídica para que os bens patrimoniais dos sócios, administradores e das demais sociedades sejam submetidos à satisfação do crédito dos agravantes." (e-STJ fls.717/721)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AUSÊNCIA DOS REQUISITOS. AGRAVO INTERNO DESPROVIDO.
+1. O mero inadimplemento, a inexistência de bens para garantir o crédito executado e a existência de grupo empresarial familiar não são suficientes para a desconsideração da personalidade jurídica se não há provas consistentes de abuso da personalidade jurídica por meio de desvio de finalidade ou confusão patrimonial, nos termos do art. 50 do Código Civil.
+2. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 2.425.931/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DESCONSIDERAÇÃO INVERSA DA PERSONALIDADE JURÍDICA. RECONHECIMENTO DA EXISTÊNCIA DE GRUPO ECONÔMICO. MODIFICAÇÃO DAS PREMISSAS FÁTICAS. INVIABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, uma vez "reconhecido o grupo econômico e verificada confusão patrimonial, é possível desconsiderar a personalidade jurídica de uma empresa para responder por dívidas de outra, inclusive em cumprimento de sentença, sem ofensa à coisa julgada" (AgRg no AREsp 441.465/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/06/2015, DJe de 03/08/2015).
+2. Sendo afirmado pela Corte de origem que estão preenchidos os requisitos necessários para o reconhecimento de um grupo econômico com confusão patrimonial, a alteração das premissas fáticas estabelecidas no v. acórdão recorrido, tal como propugnada, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.454.382/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/5/2024, DJe de 4/6/2024.)
+Ademais, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Neste sentido:
+RECURSO ESPECIAL. CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. MÉRITO. ART. 50, § 4º, DO CÓDIGO CIVIL. GRUPO ECONÔMICO. INSUFICIÊNCIA. SOLIDARIEDADE PASSIVA. INEXISTÊNCIA.
+1. A controvérsia dos autos resume-se em definir se a existência de grupo econômico é suficiente para ao deferimento do pedido de desconsideração da personalidade jurídica.
+2. O simples fato de sociedades empresárias integrarem o mesmo grupo econômico não autoriza a atribuição de responsabilidade solidária ou a desconsideração da autonomia patrimonial, exceto quando presentes os pressupostos do art. 50, caput, do Código Civil.
+3. Como a verificação da presença dos requisitos do art. 50 do Código Civil demanda o revolvimento de aspectos fáticos da causa, inviável no âmbito dessa instância especial, há necessidade de retorno dos autos à origem para que, superada essa questão, aplique o entendimento jurisprudencial desta Corte à espécie.
+4. Recurso especial provido.
+(REsp n. 2.180.804/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/2/2025, DJEN de 21/2/2025.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
