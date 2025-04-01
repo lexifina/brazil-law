@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por IRACEMA ROSA DE PAULA, fundado no art. 105, III, "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fls. 360/377):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA COM INDENIZAÇÃO POR DANOS MORAIS E REPETIÇÃO DE INDÉBITO. CONTRATO DE EMPRÉSTIMO CONSIGNADO. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO POR EQUIPARAÇÃO. NEGÓCIO JURÍDICO INEXISTENTE. AUTENTICIDADE DA ASSINATURA NÃO DEMONSTRADA. REPETIÇÃO DO INDÉBITO SIMPLES. DANOS MORAIS NÃO CARACTERIZADOS. MERO ABORRECIMENTO. SENTENÇA PARCIALMENTE REFORMADA.
+I - Verifica-se típica relação de consumo em demanda que verse sobre a inexistência de negócio jurídico, na qual é aplicado o microssistema de defesa consumerista, no que couber, a fim de se amenizar a condição de hipossuficiente do autor, que se apresenta como consumidor equiparado, nos termos do artigo 17 do Código de Defesa do Consumidor.
+II - O Superior Tribunal de Justiça, en tese firmada no R Esp 1.846.649/MA, julgado sob o rito de recursos repetitivos (Tema Repetitivo 1061), fixou que: "Na hipótese em que o consumidor/autor impugnar a autenticidade da assinatura constante em contrato bancário juntado ao processo pela instituição financeira, caberá a esta o ônus de provar a sua autenticidade (CPC, arts. 6º, 368 e 429, II).".
+III - Considerando que a instituição financeira não pugnou pela produção de prova pericial que corroborasse a autenticidade da assinatura aposta no contrato de empréstimo consignado, conclui-se que não restou comprovada a avença questionada, sobretudo quando há visível diferença entre a rubrica do consumidor e aquela impugnada no negócio jurídico.
+IV - Em contratos celebrados anteriormente à 30/03/2021, deverá ser observado o antigo entendimento do STJ, o qual impõe que a repetição do indébito em dobro somente ocorrerá mediante demonstração de má- fé do credor.
+V - A restituição de valores referentes a descontos indevidos lançadas no benefício previdenciário do consumidor deverá se dar de forma simples quando embasada em transações oriundas de fraude praticadas por terceiro, visto que não é possível qualificar a conduta da fornecedora de serviços como contrária à boa-fé objetiva.
+VI - Descontos indevidos em benefício previdenciário não geram danos morais in re ipsa, sendo do consumidor o ônus de comprovar a efetiva ofensa causada a seus direitos da personalidade.
+VII - Mostra-se necessária a demonstração de que o consumidor sofreu ofensa grave à honra ou à sua intimidade, de modo que os aborrecimentos e meros dissabores do cotidiano não ensejam a referida indenização.
+VIII - Não há que se falar em indenização por danos morais se os descontos efetuados mensalmente benefício previdenciário do consumidor são ínfimos e, ainda, se não foi comprovado que comprometeram o sustento.
+XI - Recurso conhecido e parcialmente provido.
+Em suas razões recursais, a parte recorrente alegou, além de divergência jurisprudencial, violação aos arts. 186 e 927, ambos do Código Civil, sustentando, em síntese, ter sofrido prejuízos devido à celebração de contratos fraudulentos em seu nome, ocasionados pela conduta negligente da instituição financeira, o que impõe ao banco a obrigação de reparar os danos morais por ela sofridos.
+Sustenta que os valores efetivamente descontados de seu benefício previdenciário é muito maior do que consignado pelo acórdão recorrido.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+Reside a controvérsia em determinar se os descontos indevidos, efetivados nos proventos de aposentadoria da parte recorrente, são suficientes para configurar dano moral indenizável.
+A este respeito, o eg. Tribunal de Justiça do Estado de Minas Gerais (TJ-MG), reformando sentença, deu parcial provimento à apelação da instituição financeira ora recorrida, para excluir sua condenação ao pagamento de danos morais à recorrente, sob o fundamento, entre outros, de que "(..) a parte apelada não demonstrou nenhum abalo a um direito existencial, tendo justificado seu pedido apenas no fato de que houve indevidos descontos em seu benefício previdenciário, isso sem autorização, o que não se refere à repercussão na sua dignidade, mas à possível causa de uma eventual lesão que, no caso, não restou provada.". É o que se infere da leitura do seguinte trecho do v. acórdão estadual (e-STJ, fls. 374/375):
+" Registro que a mera ocorrência de descontos indevidos em conta corrente ou em aposentadoria não enseja danos morais in re ipsa, mostrando-se imprescindível a comprovação dos aborrecimentos danosos e vexaminosos vivenciados por ela.
+Conforme entendimento do colendo Superior Tribunal de Justiça (R Esp 1881453 / RS), os chamados danos in re ipsa, são configurados em hipóteses excepcionais. Observemos:
+No direito brasileiro, a regra é que os danos sejam comprovados pelo ofendido para que se justifique o arbitramento judicial de indenização. Entretanto, em hipóteses excepcionais, são admitidos os chamados danos in re ipsa, nos quais o prejuízo, por ser presumido, independe de prova.
+É possível citar como exemplo de caso configurador de dano in re ipsa a inscrição ou manutenção indevida do nome do consumidor em cadastro de inadimplentes, circunstância que, por si só, gera o dever de indenizar.
+Não sendo esse o contexto observado no presente recurso, e, ainda, levando em consideração que este caso não se enquadra nas demais hipóteses excepcionais abordadas, restou afastada a ocorrência de dano in re ipsa, levando-me a averiguar os fundamentos concretos ensejadores dos danos morais pretendidos.
+Na hipótese, não vislumbro a demonstração de elementos efetivos que provem o comprometimento do sustento da apelada ou a sua necessidade de recorrer a auxílios financeiros de terceiros para sua subsistência, em decorrência dos abatimentos em seu benefício previdenciário.
+Mais além, a parte apelada não demonstrou nenhum abalo a um direito existencial, tendo justificado seu pedido apenas no fato de que houve indevidos descontos em seu benefício previdenciário, isso sem autorização, o que não se refere à repercussão na sua dignidade, mas à possível causa de uma eventual lesão que, no caso, não restou provada.
+Além disso, destaco que, conforme Consulta de Empréstimo Consignado (evento de ordem 13), os descontos nos benefícios previdenciários da parte apelada, no período de 2011 a 2016, perfizeram o total mensal de R$ 32,15 (trinta e dois reais e quinze centavos).
+Partindo do pressuposto que a renda mensal auferida pela parte apelada, em julho de 2011, correspondeu a um salário mínimo, ou seja, R$ 540,00 (quinhentos e quarenta reais), é possível presumir (uma vez que a autora não informou o valor do seu benefício previdenciário à época) que era suprimido, por mês, o montante correspondente a, aproximadamente, 6% (seis por cento) do importe recebido a título de pensão por morte.
+Posto isto, concluo que, não obstante terem sido irregularmente e abusivamente descontados do supramencionado benefício previdenciário da apelada, tratam-se de valores ínfimos, não comprometendo o seu sustento.
+(..)
+Dessa forma, ante a inexistência de resultado lesivo à esfera íntima e pessoal da apelada, não vislumbro alternativa que não seja reformar a sentença de origem e excluir a condenação da apelante ao pagamento de compensação por danos morais.
+Nesse cenário, deve ser rejeitada a alegada violação aos arts. 186 e 927 do Código Civil, uma vez que o entendimento do eg. TJ-MG coaduna com a jurisprudência desta eg. Corte, como se infere da leitura dos julgados destacados na decisão vergastada:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS CUMULADA COM DANOS MORAIS. DESCONTO INDEVIDO. BENEFÍCIO PREVIDENCIÁRIO. DANO MORAL INEXISTENTE. MERO ABORRECIMENTO. SÚMULA 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A caracterização do dano moral exige a repercussão na esfera dos direitos da personalidade.
+2. Nessa perspectiva, a fraude bancária, ensejadora da contratação de empréstimo consignado, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.157.547/SC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 12/12/2022, DJe de 14/12/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. CUMULADA. DANOS MORAIS. CONTRATO DE EMPRÉSTIMO. INEXISTÊNCIA. DANO EXTRAPATRIMONIAL. DEMONSTRAÇÃO. AUSÊNCIA. ORIGEM. REVERSÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Nos termos da orientação firmada nesta Corte, a fraude bancária, ensejadora da contratação de empréstimo, por si só, não é suficiente para configurar o dano moral, havendo necessidade de estar aliada a circunstâncias agravantes. Precedentes.
+2. Na hipótese, rever o entendimento firmado pelo tribunal de origem acerca da ausência de dano moral indenizável pela inexistência de contrato de empréstimo bancário, demandaria a incursão nos aspectos fático-probatórios dos autos, procedimento inadmissível em recurso especial em virtude do disposto na Súmula nº 7/STJ.
+3. A necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.149.415/MG, relator MINISTRO RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 29/5/2023, DJe de 1/6/2023 - g. n.)
+Nesse contexto, considerando que o v. acórdão recorrido está em consonância com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, os seguintes precedentes somam-se àqueles já homenageados na decisão agravada:
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROTESTO JUDICIAL INTERRUPTIVO DE PRESCRIÇÃO. NATUREZA DE JURISDIÇÃO VOLUNTÁRIA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. DEFERIMENTO DE PROTESTO JUDICIAL NÃO CONTÉM JUÍZO MERITÓRIO SOBRE A OBRIGAÇÃO. A CORTE A QUO DECIDIU DE ACORDO COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+(..)
+3. Indubitável a incidência, no caso, da Súmula n. 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", à qual se aplicam as hipóteses das alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal. Agravo interno improvido."
+(AgInt no AREsp n. 2.089.161/RJ, relator MINISTRO HUMBERTO MARTINS, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024 - g. n.)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. CONTRATO DE ALUGUEL DE COFRE. ROUBO. CLÁUSULA LIMITATIVA DE USO. VALIDADE. PRECEDENTES DO STJ.
+(..)
+2. O óbice da Súmula n. 83 do STJ é aplicável aos recursos especiais tanto fundados na alínea a quanto na alínea c do permissivo constitucional. 3. Agravo interno desprovido."
+(AgInt no REsp n. 1.746.238/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024 - g. n.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+2. Segundo a orientação jurisprudencial firmada por este Superior Tribunal de Justiça, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no AgInt no AREsp n. 2.257.915/CE, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 14/8/2023, DJe de 17/8/2023 - g. n.)
+Registre-se, ainda, que a eventual ocorrência de equívoco do eg. TJ-MG, quanto aos valores efetivamente descontados dos proventos da parte recorrente, deveria ter sido esclarecida com a oposição de embargos de declaração ainda na eg. instância a quo, o que não ocorreu.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Publique-se.
+EMENTA
