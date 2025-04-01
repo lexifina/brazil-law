@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (fl. 476):
+APELAÇÃO - PLANO DE SAÚDE - AÇÃO COMINATÓRIA CUMULADA COM PEDIDO INDENIZATÓRIO - MANUTENÇÃO DE APOSENTADO EM PLANO DE SAÚDE - INEXISTÊNCIA DE CONTRIBUIÇÃO. Recurso contra sentença que julgou extinto ação em face do ex-empregador estipulante e improcedente em face da operadora do plano de saúde, considerando tese firmada em sede de julgamento de recursos repetitivos pelo STJ - Insurgência que se desacolhe - Estipulante é parte ilegítima para figurar em ação cuja pretensão é a manutenção do plano, após a extinção do contrato de trabalho, sendo obrigação a ser cumprida apenas pela operadora - A despeito da aposentadoria, após mais de duas décadas de vínculo empregatício, o ex-funcionário só tem o direito previsto no artigo 31, da Lei 9656/98, se existente anteriores contribuições no pagamento das prestações, do que não se trata, quando os custos eram suportados exclusivamente pelo empregador - Ausência de provas da contribuição mensal pelo beneficiário - Aplicação do entendimento adotado pelo Recurso Repetitivo (Tema 989) decidido pelo C.STJ - Recurso Especial nº 1.680.318/SP - Sentença mantida - Recurso desprovido.
+Em suas razões (fls. 620-672), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 141 e 492 do CPC/2015.
+Insurge-se contra a conclusão da Corte local de que os "demais documentos aventados pela autora, produzidos pela empregadora, não dão conta do alegado direito, apenas trazem linhas gerais contidas na lei, cujos requisitos devem ser cumpridos pelo interessado, daí a prevalecer o termo específico já referido" (fl. 482).
+A parte afirma violação dos arts. 141 e 492 do CPC/2015, pois "o Egrégio Tribunal a quo realizou um julgamento extra petita, considerando que, inicialmente, o Juiz de piso singular, proferiu sentença, com entendimento de tese não arguida na defesa das Requeridas, ora Recorridas, bem como, o Tribunal a quo, foi pelo mesmo entendimento do juízo singular" (fl. 635).
+Contrarrazões apresentadas às fls. 712-720 e 722-730.
+Na fase do art. 1.030, II, do CPC/2015, a Corte local manteve o acórdão recorrido, sob a seguinte ementa (fl. 614):
+APELAÇÃO - AÇÃO DE OBRIGAÇÃO DE FAZER - Retorno dos autos por despacho do d. Presidente da Seção de Direito Privado - Reapreciação à luz de precedente do E. STJ - Art. 1.030, II, do CPC - Fundamento da ação distinto do precedente invocado - Impossibilidade de resilição do contrato de plano de saúde enquanto estiver o beneficiário em tratamento essencial à sua vida ou incolumidade física e psíquica - Tema repetitivo 1.082, do E. STJ - Caso, porém, que trata não de resilição contratual, mas da expiração do tempo de permanência, de acordo como art. 31, da lei 9.656/98 - Apelo desprovido. Acórdão mantido.
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+A controvérsia tem origem na notificação por meio da qual a operadora de plano de saúde informou à ex-empregada do banco ora recorrido que "o período de  ..  benefício se encerrará em 31/07/2022, data que cessarão todos os efeitos do contrato de seguro" (fl. 3).
+A ex-empregada ajuizou ação pretendendo permanecer no plano de saúde por tempo indeterminado, mas a sentença julgou improcedente o pedido, porque "a autora não demonstrou efetiva contribuição, parcial ou integral, com o custeio do plano coletivo de saúde pelo período indicado" (fl. 388).
+O acórdão recorrido manteve a sentença.
+As razões do recurso especial não permitem a exata compreensão da controvérsia.
+Por um lado, a parte admitiu, na inicial, que o direito de manutenção é vitalício apenas na hipótese de o ex-empregado "possuir 120 meses (10 anos) ou mais de descontos fixos mensais com o plano médico, enquanto esteve ativo na empresa, sem interrupção" (fl. 4).
+Mas, por outro, declarou que "juntou nos autos os 3 (três) últimos comprovantes de pagamentos" (fl. 633).
+Ora, se era necessário comprovar 120 contribuições, caberia à parte juntar os 120 comprovantes ou pl eitear a inversão do ônus da prova, mas nenhuma dessas providências foi tomada no caso dos autos, razão pela qual o pedido foi julgado improcedente, não sendo possível compreender em que consistiria o alegado julgamento extra petita.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ainda que assim não fosse, registre-se que "Não se pode afirmar que a sentença que julgou improcedente o pedido com base em tese jurídica não trazida em contestação é extra petita, sobretudo quando encontra ela respaldo na causa de pedir posta pela inicial" (AgRg no Ag n. 1.342.343/SP, relator Ministro Sidnei Beneti, Terceira Turma, julgado em 21/6/2011, DJe de 28/6/2011).
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
