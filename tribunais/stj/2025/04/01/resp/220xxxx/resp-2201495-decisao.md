@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMARAL SOARES, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 386, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE NULIDADE/CANCELAMENTO DE CONTRATO BANCÁRIO E INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO CONSIGNADO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DAS PARTES
+EMPRÉSTIMO CONSIGNADO CONTRATADO EM AGOSTO DE 2016. INÉRCIA DA PARTE AUTORA/CONTRATANTE POR QUASE 7 (SETE) ANOS DESDE O INÍCIO DOS DESCONTOS EM SEU BENEFÍCIO PREVIDENCIÁRIO. VALORES CONTRATADOS COLOCADOS À DISPOSIÇÃO DA PARTE AUTORA E NÃO DEVOLVIDO À INSTITUIÇÃO FINANCEIRA REQUERIDA. APLICAÇÃO DO INSTITUTO DA SUPRESSIO AO CASO CONCRETO. INÉRCIA DA PARTE AUTORA QUE GEROU EXPECTATIVA DE DIREITO AO BANCO RÉU. CONVALIDAÇÃO DA CONTRATAÇÃO EVIDENCIADA. NECESSIDADE DE REFORMA DA SENTENÇA. IMPROCEDÊNCIA DA DEMANDA QUE SE IMPÕE. ÔNUS DE SUCUMBÊNCIA REDISTRIBUÍDOS. RECURSO DA AUTORA PREJUDICADO. APELO DO REQUERIDO CONHECIDO E PROVIDO, POR FUNDAMENTO DIVERSO.
+"A supressio inibe o exercício de um direito, até então reconhecido, pelo seu não exercício. Por outro lado, e em direção oposta à supressio, mas com ela intimamente ligada, tem-se a teoria da surrectio, cujo desdobramento é a aquisição de um direito pelo decurso do tempo, pela expectativa legitimamente despertada por ação ou comportamento" (REsp n. 1.338.432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/10/2017, D Je de 29/11/2017).
+Os embargos de declaração opostos foram rejeitados (fls. 420-423, e-STJ).
+Nas razões do recurso especial (fls. 431-442, e-STJ), o insurgente aponta a violação dos artigos 489, inciso II, e §1º, inciso IV; 1.022, inciso II, e parágrafo único, inciso II; e 1.026, §2º, do CPC/2015; 169 do CC; 39, inciso III e VI, do CDC.
+Sustenta, preliminarmente, a nulidade do acórdão por negativa de prestação jurisdicional. No mérito, defende a reforma do decisum impugnado, sob a alegação de: (a) inaplicabilidade do instituto jurídico da supressio ao caso concreto, por se tratar de demanda que discute a inexistência de negócio jurídico e, consequentemente, a nulidade absoluta ; e (b) não incidência da muta prevista no art. 1.026, §2º, do CPC/2015, pois os embargos de declaração opostos pela parte recorrente tiveram como escopo precípuo o prequestionamento da matéria objeto do recurso especial.
+As contrarrazões foram ofertadas às fls. 447-454, e-STJ.
+Admitido o recurso na origem (fls. 457-459, e-STJ), ascenderam os autos a esta Corte Superior de Justiça.
+É o relatório. Decido.
+O inconformismo merece prosperar em parte no que diz respeito à aventada negativa de prestação jurisdicional.
+1. Inicialmente, o recorrente alega a nulidade do acórdão, por negativa de prestação jurisdicional, tendo em vista a ausência de manifestação do Colegiado de origem, quanto à questão de alta relevância ao deslinde da causa, mencionada nos embargos de declaração, com relação à impossibilidade de convalidação de negócio jurídico nulo pelo decurso do tempo, com fundamento na aplicação do disposto no artigo 169 do Código Civil.
+Da leitura do acórdão que julgou os embargos de declaração opostos pelo ora recorrente, verifica-se que a questão foi, de fato, oportunamente suscitada nos embargos de declaração, no entanto, deixou de ser analisada pelo Tribunal de piso sob o prisma sustentando pelas insurgentes.
+Nesse contexto, esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de negativa de prestação jurisdicional quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de ponto relevante para o deslinde do feito.
+Nesse sentido, confira-se:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pela ora embargante, configurada está a ofensa ao artigo 1.022 do Código de Processo Civil, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos.
+Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgInt no AREsp 1.624.710/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2021, DJe 09/06/2021) grifou-se
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. SERVIÇOS ADVOCATÍCIOS. ADVOGADO CREDENCIADO A SINDICATO. ATUAÇÃO NEGLIGENTE. DISCUSSÃO SOBRE A POSSIBILIDADE DE RESPONSABILIZAÇÃO SOLIDÁRIA DO CAUSÍDICO E DA ENTIDADE SINDICAL. OMISSÃO. EXISTÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA NOVO JULGAMENTO.
+1. No recurso em julgamento, a controvérsia reside sobre a possibilidade de responsabilizar o sindicato, solidariamente com o advogado a ele credenciado, por ato negligente praticado pelo causídico.
+2. É verdade que, nos termos da jurisprudência do STJ, "é admitido ao Tribunal de origem, no julgamento da apelação, utilizar, como razões de decidir, os fundamentos delineados na sentença (fundamentação per relationem), medida que  por si só  não implica negativa de prestação jurisdicional" (AgInt no AREsp 1779343/DF, Terceira Turma, DJe 15/04/2021; AgInt no AREsp 855.179/SP, Quarta Turma, DJe 05/06/2019). Entretanto, restará configurada a negativa de prestação jurisdicional, se o órgão julgador "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador" (art. 489, IV, do CPC/2015).
+3. No caso dos autos, o Tribunal de origem deixou de se manifestar sobre alegações fundamentais ao deslinde da controvérsia, sendo imperativa a cassação do acórdão recorrido.
+4. Recurso especial conhecido e provido, com o retorno dos autos à Corte de origem.
+(REsp 1908213/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/05/2021, DJe 20/05/2021) grifou-se
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das matérias alegadas pela parte então embargante.
+Acolhida a preliminar aventada, fica prejudicado o exame das demais questões alegadas no reclamo em estudo.
+2. Diante do exposto, conheço em parte do recurso especial, e, nessa extensão, dou-lhe provimento a fim de anular o acórdão que julgou os embargos de declaração (fls. 420-423, e-STJ), determinando o retorno dos autos ao Tribunal de origem para que profira novo julgamento, com o enfrentamento dos pontos tidos por omissos, como entender de direito.
+Restam prejudicadas, por ora, a análise das demais alegações do reclamo.
+Publique-se. Intimem-se.
+EMENTA
