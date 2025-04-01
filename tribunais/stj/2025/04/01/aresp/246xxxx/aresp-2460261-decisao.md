@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por LAERTE LIMPO contra decisão que inadmitiu recurso especial com fundamento no art. 105, III, "a", da Constituição Federal.
+O agravante foi condenado pelo Tribunal do Júri à pena de 13 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 58 dias-multa, como incurso no art. 121, caput, c/c art. 14, II, por duas vezes; art. 180, caput, e art. 157, § 2º, II, e § 2º-A, I, por três vezes, em continuidade delitiva (art. 71, parágrafo único), todos do Código Penal, em concurso material.
+Interposta apelação, a 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso.
+No recurso especial (fls. 1062-1076), o recorrente apontou negativa de vigência ao art. 564, parágrafo único, do Código de Processo Penal. Alegou que houve contradição nas respostas do Conselho de Sentença acerca da materialidade delitiva em relação aos dois crimes contra a vida, considerando que o corréu Naelson foi absolvido, com resposta negativa ao quesito sobre materialidade, enquanto o recorrente foi condenado.
+O recurso especial não foi admitido na origem ao fundamento de que, além de não terem sido devidamente atacados todos os argumentos do acórdão, incide ao caso a Súmula 7/STJ.
+No presente agravo (fls. 1097-1106), o agravante insiste na tese de que o recurso especial preenche os requisitos do art. 1.029 do Código de Processo Civil e não atrai a incidência da Súmula 7/STJ. Sustenta que o acórdão recorrido, apesar de reconhecer expressamente a contradição entre as respostas dos jurados, negou vigência ao art. 564, parágrafo único, do CPP, ao presumir a vontade do Conselho de Sentença e manter a condenação do agravante.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 1125-1127).
+É o relatório.
+DECIDO.
+O agravo não merece provimento.
+De início, verifica-se que as razões do agravo não impugnaram especificamente o fundamento da decisão agravada referente à aplicação da Súmula 182/STJ, pois o agravante não demonstrou como teria atacado todos os argumentos do aresto impugnado. O agravante limitou-se a afirmar que houve o devido preenchimento dos requisitos do art. 1.029 do CPC, sem fazer menção ao óbice específico apontado na decisão de inadmissibilidade.
+Tal deficiência atrai a incidência da Súmula 182/STJ: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ademais, o Tribunal de origem firmou seu entendimento com base na análise do conjunto fático-probatório, concluindo que não havia contradição a ser reconhecida nas respostas dos jurados. Extrai-se do acórdão recorrido (fl. 1056):
+E ainda que Naelson tenha sido absolvido quanto aos delitos de homicídio tentado - o que sequer foi objeto de apelo por parte da acusação -, resta claro que a decisão dos jurados deu-se por não ter sido ele quem efetuara os disparos contra as vítimas, pois era ele quem conduzia o veículo em fuga, o que foi amplamente comprovado nos autos, inclusive, no próprio interrogatório do apelante.
+Desta feita, não há contradição a ser reconhecida, restando afastada a nulidade aventada, já que constatada a real vontade do Conselho de Sentença, qual seja, condenar Laerte pelos homicídios tentados, porém absolvendo Naelson de sua prática.
+O Tribunal ainda esclareceu que a quesitação foi separada em séries distintas para cada um dos acusados, para cada delito individualmente imputado, considerando, ainda, cada vítima do homicídio tentado, nos termos do art. 483, § 6º, do CPP.
+A contradição que autoriza a aplicação do art. 490 do CPP é aquela verificada no interior de uma mesma série de quesitos, não se aplicando a séries diferentes que dizem respeito a acusados distintos, conforme jurisprudência deste Superior Tribunal de Justiça:
+A contradição de que trata o art. 490 do Código de Processo Penal é aquela verificada no interior de uma mesma série de quesitos, sendo perfeitamente viável que determinada circunstância fática seja reconhecida pelo Conselho de Sentença em determinada série e afastada em outra, já que cada uma delas diz respeito a um acusado distinto. (HC n. 448.085/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/8/2019, DJe de 22/8/2019)
+Nesse contexto, para acolher a pretensão recursal e reconhecer a existência de contradição nas respostas dos ju rados, seria necessário o reexame do contexto fático-probatório dos autos e a reanálise das respostas dadas pelo Conselho de Sentença, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
+EMENTA
