@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por BRENO RIOS LACERDA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 1503456-22.2023.8.26.0536 (fls. 414/423), com a seguinte ementa:
+ROUBO MAJORADO. PROVA. RECONHECIMENTO RATIFICADO EM JUÍZO. SUFICIÊNCIA. CONDENAÇÃO. NECESSIDADE. DESCLASSIFICAÇÃO PARA O DELITO DE FURTO. GRAVE AMEAÇA. IMPOSSIBILIDADE. RECURSO IMPROVIDO. 1. O reconhecimento seguro dos agentes pela vítima, ratificado em juízo, somado à prisão em flagrante, torna certa a autoria do delito, afastando a tese absolutória fundada na falta de provas da autoria. 2. Não há nulidade no reconhecimento quando as formalidades do art. 226 do CPP não são rigorosamente observadas, desde que o juiz não o considere isoladamente, mas sim em conjunto com os demais elementos de prova. 3. Como reiteradamente decidido, o reconhecimento policial realizado em desobediência ao disposto no art. 226 do CPP é mera irregularidade, no entanto, no caso concreto, as recomendações foram atendidas. 4. Inviável a desclassificação da conduta para o delito de furto vez que restou devidamente comprovada a grave ameaça elementar típica do art. 157, caput, do CP. 5. Rejeitada a preliminar, recursos improvidos.
+No recurso especial (fls. 439/454), a defesa requereu, em síntese, a declaração de nulidade do reconhecimento pessoal realizado, com a consequente absolvição do réu, em razão da insuficiência de provas.
+Inadmitido o recurso na origem (fls. 497/499), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 506/525).
+O Ministério Público Federal opinou pelo conhecimento do agravo e não conhecimento do recurso especial, em parecer com a seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. DIREITO PRO- CESSUAL PENAL. DIREITO PENAL. ROUBO MAJO- RADO. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DAS DIRETRIZES LEGAIS. NULI- DADE. INOCORRÊNCIA. DESPROVIMENTO. 1. Não caracteriza nulidade, por si só, o reconhecimento pessoal realizado na fase inquisitiva, sem a total observância das regras contidas no art. 226 do CPP, quando verificado que a condenação está amparada em outros meios de prova. 2. Parecer pelo conhecimento do agravo, para não conhecer do recurso especial.
+É o relatório.
+O agravo é inadmissível.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: ausência de fundamentação necessária e inviabilidade de reexame de prova (Súmula 7/STJ).
+Todavia, a parte agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, os fundamentos para inadmissão do apelo nobre. Limitou-se, em suas razões de agravo, a repisar os argumentos trazidos por ocasião da interposição do recurso especial.
+Não foi realizado o necessário cotejo entre o explicitado na decisão que não admitiu o recurso especial e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Por conseguinte, aplica-se, à hipótese dos autos, o art. 932, inciso III, do CPC, c/c o art. 3º do CPP, e a Súmula 182 do Superior Tribunal de Justiça, in verbis: é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
