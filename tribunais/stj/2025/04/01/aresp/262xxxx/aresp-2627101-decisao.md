@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por DOUGLAS DE OLIVEIRA IZA E OUTROS contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL- EMBARGOS À EXECUÇÃO- PRELIMINAR DE FALTA DE DIALETICIDADE - REJEIÇÃO - ALONGAMENTO DE DÍVIDA - CRÉDITO RURAL - REQUISITOS LEGAIS - AUSÊNCIA DE DEMONSTRAÇÃO - SEGURO DE VIDA - REPETIÇÃO DO INDÉBITO EM DOBRO - AUSÊNCIA DE MÁ-FÉ - IMPOSSIBILIDADE.
+- O princípio da dialeticidade exige a apresentação dos motivos do inconformismo de forma congruente à fundamentação da decisão, sendo suficiente a exposição de fatos e direitos que impugnam especificamente.
+- Nos termos da Súmula nº 298 do STJ, o alongamento da dívida é direito dos produtores, cuja concessão é obrigatória, desde que preenchidos os pressupostos legais.
+- Não cabe a repetição do indébito em dobro se não há comprovação de má-fé da instituição financeira.
+V.V. EMBARGOS À EXECUÇÃO - CONTRATO BANCÁRIO - CÓDIGO CIVIL - CDC - INAFASTABILIDADE - REQUISITOS DE VALIDADE - AUSÊNCIA - ILÍCITO - PRONUNCIAMENTO JUDICIAL - DEVER DE OFÍCIO. Ainda que não se reconheça a revogação da Lei 4.595/64, os contratos "bancários" estão sujeitos às regras do negócio jurídico conforme se vê do Código civil, submetendo-se também aos requisitos do Código de Defesa do Consumidor. Ausente qualquer dos requisitos do artigo 166 do Código Civil, os negócios jurídicos são nulos de pleno direito. Pela dicção do Parágrafo único do artigo 168 do Código Civil, "as nulidades devem ser pronunciadas pelo juiz, quando conhecer do negócio jurídico ou dos seus efeitos e as encontrar provadas, não lhe sendo permitido supri-las, ainda que a requerimento das partes". (e-STJ fls. 661).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 714/724).
+No recurso especial, os recorrentes alegam violação do artigo 620 do Código de Processo Civil, sob a tese de que a cobrança/execução do crédito rural não observou o modo menos gravoso para o devedor, pois lhe é assegurado o direito à renegociação em sede administrativa.
+Sem as contrarrazões, o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+O tribunal de origem confirmou a sentença no sentido de indeferir o alongamento (securitização) da dívida rural no caso concreto, sob o fundamento de que as partes não atenderam a os requisitos exigidos pela legislação para a concessão do referido instituto, conforme se extrai do seguinte excerto:
+"O Conselho Monetário Nacional, constantemente, expede normas observando as constantes mudanças climáticas, entre outras, as quais, para melhor compreensão, são consolidadas no Manual de Crédito Rural.
+Assim, ao tratar das condições básicas do Crédito Rural, em seu capítulo 6, seção 2, referido Manual dispôs sobre a possibilidade de prorrogação da divida proveniente de cédula de crédito rural, desde que cumpridos os requisitos nele previstos. Vejamos:
+"9 - Independentemente de consulta ao Banco Central do Brasil, é devida a prorrogação da dívida, aos mesmos encargos financeiros antes pactuados no instrumento de crédito, desde que se comprove incapacidade de pagamento do mutuário, em consequência de:
+a) dificuldade de comercialização dos produtos;
+b) frustração de safras, por fatores adversos;
+c) eventuais ocorrências prejudiciais ao desenvolvimento das explorações." No presente caso, extrai-se que as partes firmaram cédula de crédito rural hipotecária, emitida em 15/04/2020, que teve por finalidade financiar a realização de formação de lavoura de eucalipto (madeira para lenha) no imóvel rural de propriedade do apelante (ordem 17).
+Entretanto, não há nos autos qualquer indicação de que a parte embargante, ora apelante, tenha formulado pedido administrativo de alongamento da dívida executada, com a demonstração de informação formal das adversidades sofridas em razão da crise eventualmente vivenciada. Tampouco, verifica-se a existência de recusa do apelado ao alongamento do débito.
+Na hipótese, limita-se o recorrente a sustentar o direito à prorrogação do vencimento da dívida, sem comprovar, contudo, o preenchimento dos requisitos para tanto legalmente exigidos.
+Neste ponto, ressalta-se, ainda, que o banco é o responsável por verificar se o requerente preenche os requisitos para obter a prorrogação da dívida. Somente após a negativa é que se deve recorrer ao Poder Judiciário, conforme entendimento já fixado por este Tribunal." (e-STJ fls. 674/675).
+Neste contexto, nota-se que a modificação de tais entendimentos lançados no v. acórdão recorrido para aferir se as partes fazem jus ao alongamento da dívida demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO. EMBARGOS À EXECUÇÃO. CRÉDITO RURAL. ALONGAMENTO DA DÍVIDA. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. SÚMULA 83/STJ. REEXAME DE PROVA. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. REDISTRIBUIÇÃO DOS ÔNUS RECURSAIS. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. Não se configura cerceamento de defesa quando o juiz da causa entender suficientemente instruído o feito, declarando a prescindibilidade de dilação probatória, por se tratar de matéria eminentemente de direito ou de fato que deve ser provado documentalmente.
+2. Nos termos da jurisprudência do STJ, "apesar de ser direito do devedor, nos termos da Lei 9.138/95, para o alongamento das dívidas originárias de crédito rural é necessário preencher requisitos legais, que são aferidos pelas instâncias ordinárias" (AgRg no Ag 882.975/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 9/12/2014, DJe de 27/4/2015).
+3. Na hipótese, as instâncias locais concluíram que a parte ora agravante não preencheu os requisitos para alongamento da dívida contida na cédula de crédito rural, consignando que "apenas a produtividade abaixo do esperado nas três fazendas que os apelantes cultivam não é suficiente para demonstrar que atendem os requisitos legais exigidos para o alongamento da dívida, tendo em vista o valor da dívida, o tamanho da área plantada e o percentual de perda em cada fazenda. Além disso, os apelantes não comprovaram o prévio requerimento administrativo junto à instituição financeira, que também é um dos requisitos para o obter o alongamento da dívida".
+4. A pretensão de modificar tal entendimento demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.426.163/MG, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/4/2024, DJe de 19/4/2024.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRORROGAÇÃO DE DÉBITO AGRÁRIO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. "A aplicação do princípio da não surpresa não impõe, portanto, ao julgador que informe previamente às partes quais os dispositivos legais passíveis de aplicação para o exame da causa. O conhecimento geral da lei é presunção jure et de jure". (AgInt no AREsp 978.277/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 15/3/2018).
+3. No caso, o Tribunal estadual não julgou baseado em fatos e circunstâncias que as partes não tivessem tomado conhecimento prévio, e sim concluiu que de não houve o preenchimento dos requisitos previstos para possibilitar o alongamento de dívida rural pretendido. Fica afastada a alegação de violação ao princípio da não surpresa.
+4. A análise da tese recursal, no sentido de que foram preenchidos requisitos para a prorrogação das dívidas rurais demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.353.708/RS, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/2/2024, DJe de 28/2/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CRÉDITO RURAL. ALONGAMENTO DA DÍVIDA. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. REEXAME DE PROVA. SÚMULA 7/STJ.
+1. Na hipótese, rever a conclusão do aresto impugnado acerca do atendimento aos requisitos por parte dos devedores para o alongamento da dívida rural encontra óbice na Súmula nº 7/STJ.
+2. Agravo conhecido para não conhecer do recurso especial.
