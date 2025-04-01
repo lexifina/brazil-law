@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (fls. 1.134-1.139).
+O acórdão recorrido encontra-se assim ementado (fl. 868):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATO. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+RECURSO DO BANCO RÉU.
+PRELIMINARES. AVENTADO CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. MATÉRIA DE DIREITO, CUJA SOLUÇÃO NÃO DEMANDA DE PERÍCIA. DESNECESSIDADE DE REALIZAÇÃO DE PROVA TÉCNICA. PREFACIAL AFASTADA.
+NULIDADE DA SENTENÇA, SOB O FUNDAMENTO DA AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE AFASTADA. DECISÃO DEVIDAMENTE FUNDAMENTADA.
+PLEITO OBJETIVANDO A EXPEDIÇÃO DE OFÍCIO AO NUMOPEDE, À OAB/SC E À DELEGACIA DE POLÍCIA LOCAL. INACOLHIMENTO. AUSÊNCIA DE INDÍCIOS DE QUE A DEMANDA É FRAUDULENTA OU PREDATÓRIA. ADEMAIS, PROVIDÊNCIA QUE PODE SER EFETIVADA PELA PRÓPRIA PARTE. DESNECESSIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO.
+TESE EM COMUM. JUROS REMUNERATÓRIOS. ÍNDICES EXPRESSOS QUE FICAM MUITO ACIMA DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN. OBSERVÂNCIA DA ORIENTAÇÃO FIRMADA PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP. N. 1.061.530/RS, JULGADO NO SISTEMA REPRESENTATIVO DE CONTROVÉRSIA. TAXA MÉDIA DE MERCADO ESTABELECIDA PELO BANCO CENTRAL DO BRASIL QUE SERVE COMO REFERÊNCIA, NÃO COMO MEDIDA LIMITADORA PARA FIXAÇÃO DA TAXA DE JUROS REMUNERATÓRIOS. NECESSÁRIA ANÁLISE INDIVIDUAL DE CADA CASO, OBSERVANDO AS CARACTERÍSTICAS DO CONTRATO. EXISTÊNCIA DE ONEROSIDADE EXCESSIVA. LIMITAÇÃO À TAXA MÉDIA DE MERCADO ACERTADA, TODAVIA SEM O ACRÉSCIMO DE 50%. RECURSO DA PARTE AUTORA PROVIDO NO PONTO E RECURSO DO BANCO DESPROVIDO.
+ILEGALIDADE DA REPETIÇÃO. DESPROVIMENTO. REPETIÇÃO DO INDÉBITO PLENAMENTE VIÁVEL, PORQUANTO DECORRENTE DO RECONHECIMENTO DE ABUSIVIDADES NAS CLÁUSULAS CONTRATADAS.
+RECURSO DA PARTE AUTORA.
+HONORÁRIOS ADVOCATÍCIOS. PRETENSA MAJORAÇÃO DA RESPECTIVA VERBA. ACOLHIMENTO EM PARTE. CASO EM DISCUSSÃO QUE ENVOLVE CAUSA DE PEQUENA COMPLEXIDADE E REDUZIDO VALOR ECONÔMICO. SENTENÇA REFORMADA NO PONTO PARA FIXAR A VERBA HONORÁRIA POR EQUIDADE. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 85, § 8º-A, DO CPC. PRECEDENTES.
+RECURSO DO AUTOR CONHECIDO E PARCIALMENTE PROVIDO.
+RECURSO DO BANCO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 958-963).
+Nas razões do recurso especial (fls. 975-1.009), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação:
+(i) do art. 421 do CC, pois (fl. 984):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão.
+(ii) dos arts. 355, I e II, e 356, I e II, do CPC/2015, porque (fl. 995):
+ ..  entende a Recorrente ser imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual, principalmente considerando que na prática os julgadores estão, em sua maioria, limitando-se a seguir com a utilização da "taxa média de mercado" como ferramenta de aferição quanto a suposta abusividade da taxa de juros fixada e para definir o novo percentual a ser aplicado.
+No agravo (fls. 1.147-1.156), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 1.166-1.172).
+É o relatório.
+Decido.
+Quanto ao cerceamento de defesa, a Corte local entendeu que (fl. 860):
+ ..  a ação de revisão de contrato visa tão somente a análise da existência, ou não, de encargos abusivos, o que pode ser averiguado por meio dos documentos juntados aos autos, tornando, a toda evidência, desnecessária a realização de prova pericial.
+Cediço que a finalidade da prova no processo é permitir ao juiz, que é o destinatário final da prova, formar convicção quanto à existência do fato e daí extrair sua consequência jurídica.
+Assim, modificar o entendimento do acórdão impugnado e reconhecer a existência de cerceamento de defesa, pelo julgamento antecipado da lide e pela desnecessidade de prova pericial, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal a quo concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, sem, todavia, fundamentar o caráter abusivo dos juros remuneratórios no caso concreto (fl. 863 ):
+Quanto à abusividade, denota-se que foram estabelecidas taxas de juros em patamares bem acima da taxa média divulgada pelo Bacen, o que representa abusividade na interpretação assente do Superior Tribunal de Justiça (REsp n. 1.061.530/RS), bem como em relação aos parâmetros adotados por esta Câmara.
+Diante disso, superando, em muito, as taxas fixadas no contrato à média de mercado, a respectiva limitação é devida.
+A jurisprudência do STJ, ademais, orienta-se pela adoção da chamada "taxa média de mercado" somente nos casos em que não é possível aferir o percentual pactuado e, fora dessa hipótese, o índice apenas fornece ao julgador uma referência para a avaliação de eventual abuso, que "haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação" (AgInt no AREsp n. 1.493.171/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021).
+Aliás, "foi expressamente rejeitada pela Segunda Seção a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média" (AgInt no AREsp n. 1.987.137/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 3/10/2022, DJe de 7/10/2022).
+Assim, destaca-se que "a redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado  apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen  ..  está em confronto com a orientação firmada no REsp. 1.061.530/RS" (AgInt no AREsp n. 1.493.171/RS, relatora para acórdão Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/11/2020, DJe de 10/3/2021).
+No mesmo sentido:
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. JUROS REMUNERATÓRIOS. REVISÃO. CARÁTER ABUSIVO. REQUISITOS. NECESSIDADE DE FUNDAMENTAÇÃO ADEQUADA.
+ ..  3- A Segunda Seção, no julgamento REsp n. 1.061.530/RS, submetido ao rito dos recursos especiais repetitivos, fixou o entendimento de que "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+ ..  5- São insuficientes para fundamentar o caráter abusivo dos juros remuneratórios: a) a menção genérica às "circunstâncias da causa" - ou outra expressão equivalente; b) o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo BACEN e c) a aplicação de algum limite adotado, aprioristicamente, pelo próprio Tribunal estadual.  ..
+7- Recurso especial parcialmente provido.
+(REsp n. 2.009.614/SC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+Conclui-se, portanto, que esse entendimento não está de acordo com a jurisprudência do STJ, pois a Corte local utilizou como único parâmetro a taxa média de mercado divulgada pelo Banco Central, deixando de analisar efetivamente eventual vantagem exagerada, que justificaria a limitação determinada para os contratos de empréstimo pessoal.
+Dessa forma, é necessário o retorno dos autos ao Tribunal de origem para que, à luz dos requisitos estabelecidos pela jurisprudência desta Corte Superior, proceda a novo julgamento, considerando as particularidades do caso concreto e assim verificando a existência de abusividade dos juros remuneratórios.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, para determinar a devolução dos autos à origem para que novo julgamento seja realizado, avaliando-se eventual abusividade dos juros remuneratórios de acordo com os parâmetros estabelecidos pela jurisprudência do STJ.
+Publique-se e intimem-se.
+EMENTA
