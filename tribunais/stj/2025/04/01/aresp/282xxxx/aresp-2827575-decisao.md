@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial fundado no art. 105, III, alínea "a" e "c", da Constituição Federal, interposto por RODRIGO OLIVEIRA SANTOS contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+BEM MÓVEL COMPRA E VENDA DE VEÍCULO USADO AÇÃO DE INDENIZAÇAO POR DANOS MATERIAIS E MORAIS Veículo do apelante dado como parte no pagamento - Obrigação da loja vendedora arcar com as parcelas do IPVA não demonstrada Ausência de prova quanto à origem do protesto - Não comprovação do fato constitutivo do direito alegado - Art. 373, I, do CPC - Ação improcedente Recurso desprovido, com observação.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 4º, caput, e 6º, VI, do CDC. Sustenta, em síntese, que "fica INCONTROVERSA a existência de protesto nos autos, além da impossibilidade de se proceder com empréstimo, o que independe do modo que foi requerido, já que a negativa é do banco, como a própria Recorrida RECONHECE. É nítido que há um grande prejuízo manifesto ao Recorrente, visto que a loja Recorrida não cumpriu com as obrigações firmadas entre as partes, logo, demais disso, quis imputar a responsabilidade a um terceiro, que sequer faz relação ao caso, que comprou o carro possivelmente sem saber da existência de débitos." (fl. 216)
+É o relatório. Decido.
+A irresignação não comporta provimento.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+"Com efeito, embora incidentes as regras de consumo à espécie, o apelante não se desincumbiu de provar o fato alegado, consoante o disposto no artigo 373, I, do CPC, na medida em que inexiste demonstração, como de rigor, de que os acontecimentos se deram conforme narrados na inicial, notadamente que o protesto levado à efeito se refere ao IPVA do veículo que a apelada teria assumido a responsabilidade de quitação. A despeito de ser incontroverso que a apelada efetuou o pagamento do IPVA do veículo "Gm/Ônix" (fls. 50), não há provas de que assumiu tal obrigação, pois, no contrato juntado às fls. 46, consta apenas a obrigação do apelante em quitar o IPVA do veículo de adquiriu na loja/apelada ("Citroen C4"). Além disso, dada a oportunidade ao apelante para comprovar que o protesto no valor de R$1.945,56 apontado na informação do Serasa (fls. 44/45), se refere ao IPVA do veículo "Gm/Ônix", este não trouxe nenhuma prova nesse sentido, juntado apenas uma certidão negativa de protesto emitida pelo 10º Tabelionato de Notas de São Paulo (fls. 170), não comprovando, como de rigor, qual a origem do protesto.
+Nesse sentido, bem pontuou o d. magistrado de primeiro grau, nos seguintes termos: "No que concerne ao protesto do título, observo que, de fato, em 18.12.2021 houve o protesto junto ao 10º Tabelionato de Notas de São Paulo (fls. 44/45).
+Entretanto, desconhece-se a identificação do título levado a protesto, seu emissor e o apresentante, não tendo o autor sequer acostado a documentação necessária no prazo conferido, ônus que lhe era atribuído, nos termos do art. 373, inc. I, do Código de Processo Civil.
+Em outras palavras, não comprovou o autor que o protesto decorreu do não pagamento do IPVA do veículo Ônix.
+Sendo assim, não é possível atribuir à requerida a responsabilidade pela restrição de crédito." (fls. 175/176).
+E, as demais provas coligidas, não demonstram que houve má-fé na negociação ou ausência de informação por parte da apelada.
+Portanto, não comprovado nos autos a origem do protesto em nome do apelante, não há como impor à apelada a responsabilidade pelos danos materiais e morais alegados.
+Deste modo, a r. sentença recorrida não comporta modificação, cuja manutenção pelos seus próprios fundamentos é medida que se impõe. E, por força do §11 do art. 85, os honorários advocatícios são majorados a 15% sobre o valor atualizado da causa, observado o disposto no §3º, do art. 98, ambos do CPC."
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que "não comprovado nos autos a origem do protesto em nome do apelante, não há como impor à apelada a responsabilidade pelos danos materiais e morais alegados"
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DE DECISÃO DA PRESIDÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 505 DO CPC. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. MERCADO DE AÇÕES. INVERSÃO DO ÔNUS PROBATÓRIO. VULNERABILIDADE. HIPOSSUFICIÊNCIA. VIOLAÇÃO DO ART. 6º, VIII, DO CDC. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022 do CPC quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+2. Não há violação do art.505 do CPC, na hipótese em que o Tribunal a quo reanalisa a matéria objeto do acórdão e dos atos processuais subsequentes por ele proferidos e cassados pelo STJ.
+3. A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor.
+Precedentes.
+4. Rever as conclusões do Tribunal de origem, a fim de a caracterização da vulnerabilidade do recorrido, deixando de aplicar a regra da inversão do ônus da prova, demandaria o necessário reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+5. A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+6. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.091.099/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 18/11/2024, DJe de 26/11/2024.)
+Ademais, a incidência da Súmula 7/STJ pela alínea "a" também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios sucumbenciais de 15% para 16% sobre o valor atualizado da causa, observando eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
+EMENTA
