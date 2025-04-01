@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GUSTAVO VICENTE PREUSS contra ato do MM. Juiz de Direito da Vara de Execuções Penais da Comarca de Paranavaí/PR (e-STJ fl. 2).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos, 9 meses e 15 dias de relcusão, em regime inicial semiaberto, e 713 dias-multa, pela prática do crime previsto no art. 33 c/c o 40, inciso I, ambos da Lei n. 11.343/2006 (e-STJ fls. 12/44).
+Posteriormente, foi novamente condenado, dessa vez às penas de 8 meses e 5 dias de detenção, em regime inicial semiaberto, 22 dias-multa e suspensão ou proibição de se obter a permissão ou habilitação para dirigir veículo automotor (e-STJ fl. 65).
+Em sede de execução, as penas do paciente foram unificadas, com o estabelecimento do regime fechado (e-STJ fl. 68).
+No presente mandamus (e-STJ fls. 2/11), a impetrante sustenta que o paciente sofre constrangimento ilegal.
+Em relação à condenação pelo crime de tráfico de drogas, aponta ilegalidade em razão da não aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, pois preenche os requisitos legais para a incidência do benefício. Para tanto, aduz que a quantidade das drogas apreendidas não é fundamento idôneo e suficiente para concluir pela dedicação do agente a atividades criminosas e destaca que o paciente atuou na condição de batedor da carga, o que seria função periférica.
+Ainda em relação a esse crime, afirma que o paciente confessou a prática delitiva, razão pela qual faz jus à atenuante da confissão espontanea.
+Por fim, aduz ser descabido o estabelecimento do regime fechado em sede de execução, pois a unificação de penas somente deve ensejar regressão de regime quando a pena superveniente for incompatível com o cumprimento da pena anterior.
+Ao final, formula pedido liminar para que o paciente possa aguardar em regime semiaberto o julgamento definitivo deste writ. No mérito, pede a concessão da ordem para que a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 seja aplicada e a confissão reconhecida na dosimtria do crime de tráfico de drogas, além da desconstituição da decisão que fixou o regime fechado em sede de execução.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não vejo como dar seguimento ao presente writ, sob pena de supressão de instância, tendo em vista que as insurgências voltam-se contra atos proferidos por Juízos de primeiro grau.
+Assim, em virtude da não incidência do disposto no art. 105, inciso I, alínea c, da Constituição Federal, flagrante é a incompetência desta Corte Superior de Justiça para processar e julgar originariamente este habeas corpus.
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. AUTORIDADE APONTADA COMO COATORA. INCOMPETÊNCIA DO STJ. 1. Nos termos do art. 210 do RISTJ, o relator indeferirá liminarmente o pedido quando for manifesta a incompetência do Tribunal para dele conhecer originariamente. 2. Hipótese em que o decisum agravado fez prevalecer aquela previsão regimental, ao constatar que o writ aponta como coatora autoridade não sujeita à competência deste Tribunal, em confronto com o disposto no art. 105, I, "c", da CF. 3. Agravo regimental desprovido (AgRg no HC n. 340.893/PR, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 1º/2/2016).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REVOGAÇÃO DA PRISÃO PREVENTIVA. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. ATO COATOR PRATICADO POR JUIZ DE PRIMEIRA INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO. Não compete a esta Corte apreciar habeas corpus impetrado contra ato de juiz de primeira instância. (Precedente). Agravo regimental desprovido (AgRg no HC n. 330.195/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 25/11/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+EMENTA
