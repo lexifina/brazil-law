@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração, com efeitos infringentes, opostos por ROBERT DIAS SILVA BEZERRA contra decisão monocrática por mim proferida que denegou o habeas corpus no qual figurou como paciente.
+Em suas razões, afirma o embargante que houve omissão na referida decisão, alegando que esta foi proferida sem analisar todos os pedidos (principais e subsidiários) (fl. 302).
+Alega que a decisão ora embargada
+apenas analisou o pedido principal, e mais, unicamente, sob a ótica adotada pelo Tribunal (transcrevendo grande parte da decisão dos Desembargadores), sem a efetiva análise do que foi exposto pela defesa (notadamente quanto ao uso do incidente de excesso e desvio, que tem como finalidade justamente corrigir erros de forma extemporânea - de sorte que não há falar também em nulidade de algibeira) e, se cabível, rebatimento de todos os argumentos ali expostos (fl. 303).
+Desse modo, requer o embargante,
+o recebimento destes embargos de declaração e o provimento para sanar omissão quanto aos argumentos atinentes discorridos no habeas corpus, sendo eles (i) possibilidade do Incidente de Excesso ou desvio na Execução Penal, (ii) impossibilidade de preclusão em se tratando de matéria de ordem pública, distinguindo, se necessário, dos precedentes deste Tribunal, (iii) devolução ao juízo de origem para análise do mérito (fl. 304).
+O Ministério Público Federal, por sua vez, manifestou-se no sentido de que,
+ a inda que a decisão tenha adotado posicionamento contrário ao interesse da parte, inexiste lacuna na prestação jurisdicional. Os embargos de declaração veiculam mero inconformismo e têm indevido propósito infringente.
+Na linha da jurisprudência do STJ não é cabível a oposição de embargos declaratórios quando a decisão impugnada resolveu a controvérsia fundamentadamente ou se o embargante busca o mero reexame do mérito da causa (fl. 318).
+O Ministério Público estadual, em sua impugnação, argumenta, em suma, que
+os presentes embargos de declaração não trazem em seu bojo a necessidade de sanar eventuais vícios que poderiam macular a prestação jurisdicional, mas sim reverter posicionamento firmado em decisão monocrática que denegou o habeas corpus (fl. 321).
+Vieram os autos conclusos (fl. 324).
+É o relatório.
+DECIDO.
+De início, registro que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+Dito isso, tenho que o recurso não merece provimento, posto que devidamente enfrentadas as matérias trazidas em sede de habeas corpus.
+Confira-se os excertos da decisão contra os quais se insurge o recorrente (fls. 302/303):
+"a homologação da falta grave ocorrida em 07/01/2021, foi proferida em 14/04/2021 e desafiada por agravo em execução, tendo o Tribunal de origem negado provimento.
+No tocante ao pedido de nulidade do Processo Administrativo Disciplinar, o Tribunal de origem consignou que tanto a nulidade, como a demonstração de efetivo prejuízo acarretado, deveriam ter sido questionados no primeiro agravo, que naquela oportunidade já eram conhecidos os integrantes que participaram da Comissão do aludido PAD."
+Ao examinar as razões apresentadas nos presentes embargos em contraposição ao teor da decisão proferida, verifica-se que a pretensão da defesa consiste em modificar o entendimento aplicado no referido decisum, valendo-se dos mesmos argumentos utilizados na impetração, os quais foram devidamente enfrentados.
+Com efeito, a decisão embargada, ao enfrentar o tema, demonstrou o alinhamento do acórdão estadual com a jurisprudência deste Tribunal Superior, segundo a qual, descabe o reconhecimento posterior de eventual nulidade de procedimento administrativo quando não questionada a matéria em via própria, sobretudo se tratando de matéria que sequer foi arguida nas instâncias ordinárias, e se pretende ver analisada diretamente nesta Instância Superior (AgRg no HC n. 736.555/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022; AgRg no HC n. 761.655/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+Vale dizer, ainda, que, não demonstrado o efetivo prejuízo da parte, não se há que falar em nulidade do procedimento sem o revolvimento fático-probatório do acervo reunido da origem, o que, sabe-se, é providência inadmissível na estreita via de cognição disponível em sede de habeas corpus.
+Ademais, os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, de modo que não está o julgador obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento (AgRg nos EDcl no REsp n. 2.024.785/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/05/2024; AgRg no AREsp n. 2.218.757/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/2/2023).
+Verifico, destarte, que a decisão ora embargada não padece da omissão sustentada.
+Ante o exposto, rejeito os embargos de declaração.
+EMENTA
