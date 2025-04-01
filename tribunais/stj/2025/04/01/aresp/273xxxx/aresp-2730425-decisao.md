@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ e ausência de similitude fática no dissídio jurisprudencial (fls. 504-512).
+O acórdão recorrido encontra-se assim ementado (fl. 583):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL - REVISIONAL - JUROS REMUNERATÓRIOS EXCESSIVAMENTE SUPERIORES A TAXA MÉDIA DE MERCADO - ABUSIVIDADE RECONHECIDA - ADEQUAÇÃO A TAXA MÉDIA DE MERCADO - RECURSO AO QUAL SE NEGA PROVIMENTO.
+Inegável a abusividade dos juros inseridos nos contratos postos a análise do judiciário neste processo. Aliás, a abusividade toma mais aclarada quando em contrato idêntico, firmado com o mesmo consumidor, no mesmo dia, os juros destoam significativamente. Em um o mensal é de 13% e no outro 13%, enquanto o anual, naquele é de 333,45% e neste 987,22%, ao passo que a taxa média divulgada pelo Banco Central no período era de 5,53% ao mês e 84,45% ao ano.
+Os embargos de declaração não foram providos (fls. 597-600).
+Nas razões do recurso especial (fls. 468-484), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos arts. 421 do CC e 927 do CPC, pois (fl. 475):
+ ..  no julgamento do Recurso Especial nº 1.061.530/RS, escolhido como representativo da controvérsia em Incidente de Processo Repetitivo, ao tratar do assunto juros remuneratórios aplicados por instituição financeira, o Superior Tribunal de Justiça fixou orientação vinculante no sentido de que, a instituição de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade, bem como que é admitida a revisão das taxas em situações excepcionais, desde gue caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+Foram apresentadas contrarrazões (fls. 496-502).
+No agravo (fls. 514-522), afirma a presença dos requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 526-533).
+Juízo negativo de retratação (fl. 535).
+É o relatório.
+Decido.
+O Tribunal a quo não se pronunciou sobre o conteúdo normativo dos arts. 421 do CC e 927 do CPC/2015 sob o enfoque dado pela parte, circunstância que impede o conhecimento da insurgência por falta de prequestionamento, conforme a Súmula n. 282 do STF, aplicada por analogia.
+Ainda que superado o enunciado do STF, observo que, ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios (fls. 585-586):
+Como reconhece a agravante, os precedentes qualificados emanados do STJ, é permitida a revisão das taxas de juros quando os contratados forem abusivos.
+É evidente que a abusividade não está caracterizada pelo fato de os contratados estarem acima da taxa média de mercado. No entanto, a construção jurisprudencial admite a revisão quando são eles capazes de colocar o consumidor em desvantagem exagerada.
+É exatamente a situação vertente. Aliás, este feito tem uma particularidade que merece ser pontuada: ambos os contratos foram firmados no dia 10.02.2021, no entanto, os juros convencionados são totalmente disformes, pois em um deles o mensal é de 13% e anual 333,45% e no outro 22% mensal e 987,22% anual.
+Aliás está disparidade põe pá de cal na alegação da agravante de ".. os juros estão intimamente ligados aos riscos assumidos pela instituição financeira em suas operações de crédito, uma vez que: quanto maior o grau de risco de crédito, maior será a taxa de juros incidente (ponto bem explicitado no parecer coligido aos autos)" (f. 6). Ora, se o mesmo cliente, no mesmo dia, contratou dois contratos de mútuo é injustificável a disparidade entre tais contratos.
+A diferença entre os juros fixados pelo Banco Central - 5,53%/mês e 84,85%/ano - e os contratos - 13% e anual 333,45% e no outro 22% mensal e 987,22% anual - evidentemente que coloca o consumidor em desvantagem exagerada, gerando onerosidade excessiva a este, de modo a ofender diretamente o equilíbrio e a boa-fé objetiva das relações jurídicas.
+O entendimento está de acordo com a jurisprudência desta Corte. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Incide a Súmula n. 83 do STJ, aplicável aos recursos interpostos com base tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+Ademais, rever a conclusão do acórdão, quanto às peculiaridades que envolvem a contratação e que evidenciam a abusividade das taxas de juros contratadas, demandaria reavaliação do contrato e incursão no campo fático-probatório, providências vedadas na via especial, conforme as Súmulas n. 5 e 7 do STJ.
+Nesse sentido, em casos análogos: AgInt no AREsp n. 2.311.111/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023; e AgInt no AgInt no AREsp n. 2.027.066/RS, de minha relatoria, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.
+Outrossim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
