@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de DALMIR SCHLICKMANN DE OLIVEIRA - já condenado pela prática do crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SANTA CATARINA (Habeas Corpus n. 5000435-06.2024.8.24.0000), encontra-se prejudicado.
+Busca a impetração o reconhecimento da nulidade da busca pessoal e domiciliar para fins de trancamento da ação penal, ao argumento de que os Impetrantes reputam o procedimento ilegal, porquanto os agentes não visualizaram contexto fático algum, anterior à medida, apto a atrair fundada suspeita de que o Paciente estivesse na posse de arma proibida, ou de qualquer objeto constitutivo do corpo de delito, como demanda o artigo 244 do CPP (fl. 5), e que em relação à busca domiciliar, a justificativa para a violação foi exclusivamente o encontro de entorpecentes com o paciente na via pública, não existindo relato anterior de ocorrência de tráfico de drogas na residência (fl. 9).
+Requer, também, diante das ilegalidades apontadas, a concessão da liberdade provisória.
+Ocorre que, em consulta realizada na página eletrônica do Tribunal local, obtive a informação de que, em 16/4/2024 e 5/9/2024, sobreveio o julgamento da sentença e da apelação então interposta pelo paciente, respectivamente, com o trânsito em julgado da condenação na data de 30/10/2024, tendo sido mantida a condenação do paciente à pena privativa de liberdade de 2 anos e 6 meses de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos, consistentes em prestação de serviços à comunidade ou entidades públicas.
+Assim, diante da modificação do cenário a ser debatido e uma nova realidade processual de maior amplitude em relação à considerada no momento da formalização deste feito, o presente remédio constitucional resta prejudicado.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. APREENSÃO DE 17,29 G DE COCAÍNA E 3,37 G DE MACONHA. PRISÃO PREVENTIVA. TRANCAMENTO DA AÇÃO PENAL. NULIDADE DA BUSCA PESSOAL E DOMICILIAR. SUPERVENIÊNCIA DE TRÂNSITO EM JULGADO DA CONDENAÇÃO. PERDA DO OBJETO.
+Writ prejudicado.
