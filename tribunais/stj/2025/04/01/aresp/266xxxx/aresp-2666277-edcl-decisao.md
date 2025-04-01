@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CAIXA DE ASSISTÊNCIA DO MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO à decisão monocrática desta relatoria (e-STJ, fls. 1.506-1.509), que, em reconsideração, conheceu do agravo para dar provimento ao seu recurso especial, a fim de afastar as condenações, impostas à ora embargante, consistentes no pagamento de indenização por danos morais e de multa pela oposição de embargos de declaração.
+Em suas razões recursais, a parte embargante alega a omissão da decisão, consistente na ausência de modificação da sucumbência, em decorrência do afastamento de metade dos pedidos autorais, a fim de que a parte autora arque com metade das custas e seja condenada ao pagamento de honorários advocatícios. Aduz a necessidade de afastamento da majoração dos honorários advocatícios efetuada por ocasião do julgamento do recurso de apelação, que teve o resultado alterado pela decisão embargada.
+Impugnação não apresentada (e-STJ, fl. 1.520).
+É o relatório. Decido.
+Assiste razão à parte embargante.
+Na origem, a parte autora, ora embargada, propôs ação de obrigação de fazer visando à condenação da parte ré, ora embargante, ao custeio do tratamento recomendado pelo médico assistente, bem como à indenização pelos danos morais em razão da negativa de cobertura, julgada procedente pelas instâncias ordinárias, as quais condenaram a parte embargante ao pagamento dos ônus sucumbenciais.
+Em seu recurso especial, a parte embargante defendeu o descabimento da indenização por danos morais e da imposição de multa pela oposição de embargos de declaração.
+A decisão monocrática ora embargada deu provimento ao recurso especial, motivo por que, ao final, houve a parcial procedência da ação, para condenar a parte embargante ao custeio do tratamento recomendado.
+Desse modo, em razão do resultado realmente era devida a modificação da sucumbência atribuída integralmente à parte embargante pelas instâncias ordinárias.
+Por fim, cumpre destacar que devido a alteração da sucumbência é desnecessário excluir expressamente a insubsistente majoração de honorários efetuada pelo Tribunal de origem.
+Diante do exposto, acolho os embargos de declaração, a fim de integrar a decisão embargada pelos esclarecimentos ora prestados, passando a constar do dispositivo o seguinte acréscimo em relação à sucumbência: "Em razão do resultado, redistribuo a sucumbência do seguinte modo: a) a parte ré arcará com metade das despesas processuais e honorários advocatícios de 10% sobre o valor atualizado da sua condenação ao custeio do tratamento, consistente na soma das parcelas vencidas até a data do proferimento da sentença; e b) a parte autora, com a outra metade das despesas processuais e honorários advocatícios de 10% sobre o valor atualizado da causa".
+Publique-se.
+EMENTA
