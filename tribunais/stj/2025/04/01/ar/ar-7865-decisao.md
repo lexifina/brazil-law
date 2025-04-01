@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por MUNICÍPIO DE SALESÓPOLIS, alegando que houve incorreta certificação do trânsito em julgado do acórdão proferido no AgInt no RE no AgInt no AREsp 2.370.106/SP, porquanto a Coordenadoria não observou que a "Fazenda Pública possui o prazo legal de 30 dias úteis para interposição de recurso extraordinário, conforme dispõe o art. 183 do CPC. Inclusive há Portarias do próprio Superior Tribunal de Justiça (STJ/GP n.º 2/2024 e 581/2024) que instituíram feriados e pontos facultativos durante o mês de outubro e novembro de 2024, impactando diretamente a contagem dos dias úteis na ocasião em destaque. 05. A Procuradoria Jurídica do Município elaborou tabela official, calcada no art 183 do CPC e nas Portarias do STJ demonstrando que o prazo final seria 03/12/2024".
+Requer, com isso: (i) "a concessão liminar de tutela provisória recursal, sem a oitiva da parte contrária (art. 300, §2º, CPC), para determinar a SUSPENSÃO IMEDIATA dos dois cumprimentos de sentença nº 000015-78.2025.8.26.0523 e nº 0000004-49.2025.8.26.0523, oficiando pelo malote eletrônico, com urgência, ao MM. Juízo da Vara Única da Comarca de Salesópolis/SP, comunicando-se a suspensão"; (ii) "ao final, seja confirmada a liminar através da rescisão do v. acórdão lançado no Recurso Especial n.º 2023/0169796, da Corte Especial, com trânsito em julgado irregular, reconhecendo- se o vício processual (erro de fato) e reabrindo-se o prazo recursal da Fazenda Pública".
+É o relatório. Decido.
+De início, nos termos do art. 966 do Código de Processo Civil, cabe ação rescisória contra decisões judiciais, nas hipóteses elencadas no aludido dispositivo legal, in verbis:
+Art. 966. A decisão de mérito, transitada em julgado, pode ser rescindida quando:
+I - se verificar que foi proferida por força de prevaricação, concussão ou corrupção do juiz;
+II - for proferida por juiz impedido ou por juízo absolutamente incompetente;
+III - resultar de dolo ou coação da parte vencedora em detrimento da parte vencida ou, ainda, de simulação ou colusão entre as partes, a fim de fraudar a lei;
+IV - ofender a coisa julgada;
+V - violar manifestamente norma jurídica;
+VI - for fundada em prova cuja falsidade tenha sido apurada em processo criminal ou venha a ser demonstrada na própria ação rescisória;
+VII - obtiver o autor, posteriormente ao trânsito em julgado, prova nova cuja existência ignorava ou de que não pôde fazer uso, capaz, por si só, de lhe assegurar pronunciamento favorável;
+VIII - for fundada em erro de fato verificável do exame dos autos.
+§ 1º Há erro de fato quando a decisão rescindenda admitir fato inexistente ou quando considerar inexistente fato efetivamente ocorrido, sendo indispensável, em ambos os casos, que o fato não represente ponto controvertido sobre o qual o juiz deveria ter se pronunciado.
+§ 2º Nas hipóteses previstas nos incisos do caput , será rescindível a decisão transitada em julgado que, embora não seja de mérito, impeça:
+I - nova propositura da demanda; ou
+II - admissibilidade do recurso correspondente.
+§ 3º A ação rescisória pode ter por objeto apenas 1 (um) capítulo da decisão.
+§ 4º Os atos de disposição de direitos, praticados pelas partes ou por outros participantes do processo e homologados pelo juízo, bem como os atos homologatórios praticados no curso da execução, estão sujeitos à anulação, nos termos da lei.
+§ 5º Cabe ação rescisória, com fundamento no inciso V do caput deste artigo, contra decisão baseada em enunciado de súmula ou acórdão proferido em julgamento de casos repetitivos que não tenha considerado a existência de distinção entre a questão discutida no processo e o padrão decisório que lhe deu fundamento.
+§ 6º Quando a ação rescisória fundar-se na hipótese do § 5º deste artigo, caberá ao autor, sob pena de inépcia, demonstrar, fundamentadamente, tratar-se de situação particularizada por hipótese fática distinta ou de questão jurídica não examinada, a impor outra solução jurídica.
+No caso dos autos, contudo, a presente ação rescisória impugna não propriamente o acórdão proferido em sede de AgInt no RE no AgInt no AREsp 2.370.106/SP, que é o ato decisório, mas a certidão de trânsito em julgado expedida por este STJ, por intermédio da Coordenadoria de Processamento de Decisões Estrangeiras e Recursos para o STF (fl. 21).
+Alega, para tanto, que, em razão da certificação do trânsito em julgado em data incorreta, não pode interpor o devido recurso. Afirma que, ao contrário do certificado nos autos, o prazo final seria apenas 3/12/2024 e não em 4/11/2024.
+Como se vê, o Município autor, em momento algum, insurge-se contra o conteúdo do aresto proferido em agravo interno pela colenda Corte Especial (fls. 12/19), afirmando ter este incorrido em alguma das hipóteses previstas no referido art. 966 do CPC. Ao reverso, insiste no argumento que houve erro de fato, consubstanciado na "certificação de trânsito sem apreciação judicial sobre o marco final do prazo recursal da Fazenda Pública. A certidão presumia decurso de prazo inexistente, em flagrante erro de fato e não existiu pronunciamento judicial sobre o ponto. Trata-se de erro material, que independe de prova nova, pois os elementos para apuração (datas de publicação, feriados e contagem de prazo) já constavam dos autos no momento da certificação".
+Nesse contexto, a presente rescisória mostra-se incabível, porquanto não foi ajuizada contra ato judicial, mas mero ato cartorário.
+Com efeito, a ação rescisória tem o seu cabimento restrito para impugnar decisões, especialmente as de mérito, de modo que, por falta de pressuposto de constituição e desenvolvimento válido e regular do processo, deve ser extinta sem resolução do mérito.
+Além disso, em análise dos atos praticados nos autos do AREsp 2.370.106/SP, verifica-se que não houve erro algum na certidão de trânsito em julgado, porquanto contra o acórdão em agravo interno que confirmou a inadmissão de recurso extraordinário somente seria possível interpor embargos de declaração, cujo prazo recursal é de cinco ou dez dias, se contado em dobro, nos termos dos arts. 183 e 1.023 do CPC. Assim, a certificação do trânsito em julgado, em 4/11/2024, atendeu devidamente aos prazos estabelecidos pela legislação de regência.
+Diante do exposto, indefiro a petição inicial e julgo extinto o processo, sem resolução do mérito, nos termos do art. 485, IV, c/c art. 932, VIII, do CPC/2015 e c/c art. 34, XVIII, a, do RISTJ.
+Julgo prejudicado o pedido de concessão de liminar.
+Publique-se. Intimem-se.
+EMENTA
