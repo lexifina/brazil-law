@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por EMPREENDIMENTO SPE ANÁPOLIS IV LTDA e outra contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DE IMÓVEL. TERMO FINAL DO PRAZO ESTIPULADO. LUCROS CESSANTES PRESUMIDO. DANO MORAL CONSTATADO. 1. As correspondências eletrônicas (e-mails) inseridas com a inicial demonstram que, mesmo após a expedição da certidão de conclusão de obra ("Habite-se"), os imóveis ainda não ostentavam plenas condições de habitabilidade, porque as partes tratavam, naquele momento, da necessidade de execução de instalações elétricas e hidráulicas, além da instalação de gesso. Ademais, o "Habite-se" é o primeiro passo para a entrega do imóvel, que somente se perfectibiliza com a entrega das chaves que, no caso, ocorreu após a assinatura do Termo de Recebimento do Imóvel. 2. Constatado o atraso na entrega da obra, verifica-se acertada a responsabilização da construtora pelos danos experimentados pelos compradores, bem como a determinação de devolução de valores pagos, referentes a IP Tll e taxa condominiais, dentre outros, durante o período em que os imóveis não estavam disponíveis aos apelados. 3. A jurisprudência deste Tribunal de Justiça e do STJ está sedimentada no sentido de que os lucros cessantes são presumidos, no caso de atraso na entrega de imóvel em contrato de promessa de compra e venda, já considerado o decurso do prazo de tolerância. 4. No que tange aos danos morais, não há dúvida de que os apelados amargaram o prejuízo extrapatrimonial, porque adquiriram os imóveis, mas não puderam havê-los dentro do prazo estipulado, de modo que resta evidenciada a violação a direito da personalidade, com frustração de justa expectativa dos compradores, que ultrapassa os limites do mero dissabor. APELAÇÃO CÍVEL CONHECIDA DESPROVIDA. SENTENÇA MANTIDA." (e-STJ fls. 456/457)
+As recorrentes apontam a violação dos arts. 421, 421-A, 422, 425 do Código Civil e 373, I, do Código de Processo Civil, bem como dissídio jurisprudencial.
+Sustentam, em resumo, que o Tribunal de origem calculou incorretamente o prazo para a entrega do imóvel e que, na verdade, não houve atraso no cumprimento da obrigação das construtoras.
+Assinalam que os autores, na tentativa de comprovar os lucros cessantes, em razão do atraso na entrega do bem, juntaram aos autos contrato de locação sem a assinatura das partes, documento apócrifo que não pode ser admitido como prova.
+No capítulo relativo ao dissídio jurisprudencial, defendem a legalidade da cláusula de tolerância de 180 (cento e oitenta) dias, inserida em contratos de promessa de compra e venda de imóvel.
+Contrarrazões às e-STJ fls. 549/563.
+O recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial
+O recurso não merece prosperar.
+Acerca do prazo para a entrega do imóvel, o Tribunal de origem anotou que, segundo a "cláusula terceira, item I  do ajuste " (e-STJ fl. 458), o prazo de tolerância pactuado foi de "90 (noventa) dias, e não 180 (cento e oitenta), como  alegaram  as apelantes" (e-STJ fl. 458).
+A reforma dessa conclusão, contudo, só seria possível mediante novo exame das cláusulas da promessa de compra e venda, juízo vedado pela Súmula n. 5/STJ.
+Em razão da incidência da Súmula n. 5/STJ, também fica prejudicado o exame do dissídio jurisprudencial.
+Por último, o Tribunal de origem confirmou que os autores juntaram aos autos contrato de locação sem assinatura, na tentativa de comprovar a existência de lucros cessantes, mas registrou que isso foi irrelevante para o desfecho da lide, porque "o juízo de 1 o grau não utilizou esse documento  contrato sem assinatura  em sua decisão, já que postergou a definição do valor dos alugueis suportados pelos apelados para a fase de liquidação de sentença" (e-STJ fl. 460).
+Esse fundamento do acórdão de 2º grau, no entanto, não foi impugnado pelas recorrentes, circunstância que atrai a Súmula n. 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL. ATRASO NA ENTREGA DO BEM. PRAZO DE TOLERÂNCIA. 90 (NOVENTA) DIAS. REEXAME. SÚMULA N. 5/STJ. COMPROVAÇÃO DOS LUCROS CESSANTES. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. No caso, o Tribunal de origem consignou que o prazo de tolerância para a entrega do imóvel era de 90 (noventa) dias, e não de 180 (cento e oitenta) dias, segundo cláusula expressa do contrato. A reforma dessa conclusão encontra óbice na Súmula n. 5/STJ.
+2. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. Agravo conhecido para não conhecer do recurso especial.
