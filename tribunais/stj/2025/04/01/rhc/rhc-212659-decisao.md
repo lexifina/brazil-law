@@ -1,0 +1,29 @@
+DECISÃO
+WELLINGTON MACEDO DE SOUZA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no HC n. 0753410-23.2024.8.07.0000.
+A defesa requer, em liminar e no mérito, seja garantido ao paciente o direito de apelar em liberdade, diante da incompatibilidade, em seu entender, entre a prisão preventiva e o regime semiaberto, que cumpre em decorrência de condenação em primeiro grau.
+Decido.
+Depreende-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 6 anos de reclusão, em regime inicial fechado, mais multa, pela suposta prática dos crimes previstos nos arts. 251, caput, e §2º, c/c art. 250, §1º, II, "f", ambos do Código Penal.
+Naquela ocasião, a prisão preventiva foi mantida com base na seguinte fundamentação (fls. 45-46, grifei):
+O acusado está foragido desde 05/01/2023, data em que foi decretada a sua prisão preventiva (Autos n. 0700278-82.2023.8.07.0001, feito associado). No dia seguinte ao fato, ele rompeu a tornozeleira eletrônica e, desde então, seu paradeiro é desconhecido. Não há fato novo que justifique a revogação do decreto prisional, até porque as circunstâncias do fato indicam periculosidade concreta, presentes, ainda, a necessidade de preservar a ordem pública e assegurar a aplicação da lei penal, mantenho a prisão preventiva.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal a quo que denegou a ordem nos seguintes termos (fls. 117-119, grifei):
+Como noticiado pelo impetrante, em 13/12/2024, o paciente progrediu para o regime semiaberto, nos termos da Execução Penal n. 8000263-66.2022.8.06.0167.
+Nesse contexto, ante o cumprimento de pena no regime semiaberto, o impetrante sustenta, em síntese, que não há falar em manutenção da prisão preventiva e, consequentemente, da execução provisória da pena, devendo ser concedida a liberdade provisória ao paciente.
+Todavia, não vejo configurada ilegalidade ou abuso de poder que justifique o reconhecimento, pela presente via constitucional, da alegada coação ilegal imposta ao paciente.
+ ..
+Na hipótese, como consignado na decisão em que indeferi a liminar, entendo que se trata de um caso excepcional, sobretudo pelo rompimento da tornozeleira eletrônica e pela fuga já empreendida pelo paciente no curso do processamento da ação penal.
+ ..
+Assim, impõe-se reconhecer, nos termos dos artigos 312, caput e 313, inciso I, do Código de Processo Penal, que persistem as razões justificadoras da prisão preventiva, ainda que o paciente tenha progredido para o regime semiaberto, ressaltando que, no caso concreto, na decisão que concedeu a progressão para o regime semiaberto, o d. juízo garantiu ao sentenciado a adequação do regime e o usufruto dos benefícios dele decorrentes (mov. 290.1).
+Ressalta-se que, posteriormente, a mencionada decisão foi parcialmente revogada (mov. 296.1), para suspender a autorização para trabalho externo e saídas temporárias, pois o sentenciado possui medida cautelar determinada pelo Ministro Alexandre de Moraes em processo distinto, conforme mandado de prisão no BNMP.
+Como se vê, não há falar em coação ilegal, inclusive porque o Juízo da Execução determinou a adequação ao regime e o usufruto dos benefícios dela decorrentes, dentro das especificidades do caso concreto.
+Com efeito, é sólida a orientação deste Superior Tribunal de que "não há incompatibilidade entre a manutenção da prisão cautelar e a fixação do regime semiaberto para o inicial cumprimento de pena" (AgRg no HC n. 779.532/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe de 19/12/2022).
+No mesmo sentido: "É pacífico o entendimento deste Tribunal Superior no sentido de que a manutenção da prisão preventiva pelo juiz sentenciante é compatível com a fixação do regime semiaberto, desde que ocorra a devida adequação da segregação cautelar com o regime estabelecido pela sentença condenatória" (AgRg no HC n. 783.309/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/2/2023).
+Ademais, ressalto a conclusão do Ministério Público Federal, em parecer elaborado pelo Sub-Procurador Geral da República Paulo Roberto Berenger Alves Carneiro (fls. 342):
+No caso concreto, a excepcionalidade que justifica a manutenção da prisão preventiva, mesmo após a progressão ao regime semiaberto, está devidamente demonstrada.
+A prisão preventiva foi decretada e mantida, em sentença, com fundamento na periculosidade concreta do recorrente, evidenciada pelo modus operandi do delito (explosão majorada, com o objetivo de causar comoção social e, em última análise, a decretação de estado de sítio) e, principalmente, pela fuga do distrito da culpa e rompimento da tornozeleira eletrônica, após ter sido beneficiado com medidas cautelares diversas da prisão (e-STJ fl. 46).
+Tais condutas demonstram, de forma inequívoca, o risco concreto e efetivo à ordem pública e à aplicação da lei penal. O recorrente, ao fugir e romper a tornozeleira eletrônica, revelou total desprezo pelas ordens judiciais e intenção de se furtar à aplicação da lei penal.
+Ademais, é importante ressaltar que a progressão de regime ocorreu em 13/12/2024 (e-STJ fl. 60), ou seja, em data posterior à sentença condenatória (17/08/2023 - e-STJ fl. 22) e à decretação da prisão preventiva, não havendo, portanto, qualquer ilegalidade na coexistência das medidas.
+A decisão que deferiu a progressão ao regime semiaberto, inclusive, expressamente consignou a necessidade de adequação do regime, em razão da manutenção da prisão preventiva.
+Por fim, as alegações fáticas de que o rompimento da tornozeleira eletrônica e a fuga não dizem respeito ao processo destes autos não podem, ser conhecidas. Além da necessidade de dilação probatória, providência inviável em habeas corpus, tais circunstâncias não foram dirimidas no acórdão impugnado e sua análise evidenciaria indevida supressão de instância.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
