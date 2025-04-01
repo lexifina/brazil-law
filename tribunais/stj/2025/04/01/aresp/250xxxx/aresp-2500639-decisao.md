@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto JAQUELINE CORDEIRO DA SILVA contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 deste STJ.
+Sustenta a agravante, em síntese, que a controvérsia gira em torno de questões exclusivamente de direito, em especial, a compatibilidade ou não da Gratificação de Ação Policial (GAP) com o regime de subsídio e a (in)existência de revogação tácita pela Lei estadual 6.682/2006, de modo que não se exigiria incursão no conjunto probatório. Alega, ainda, que o acórdão recorrido teria violado diversos dispositivos federais, dentre eles: o art. 2.º, §§ 1º e 2º do Decreto-Lei 4.657/1942 (LINDB); 85, 489, § 1º, II, e 926 do CPC; e 9º da Lei Complementar estadual 107/2001. Ao final, requer o afastamento do óbice sumular e o provimento do Recurso Especial para ver reconhecido seu direito ao recebimento da aludida gratificação.
+Contrarrazões nas fls. 462-471.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+A pretensão da parte recorrente, ao insistir em demonstrar a vigência do diploma anterior que instituíra a gratificação, depende da análise factual do momento de ingresso no cargo e da própria natureza jurídica da rubrica. Assim, afastar as conclusões do Tribunal de origem sobre a suposta incompatibilidade da GAP com o regime de subsídio exigiria revolvimento do acervo probatório, inadmissível em recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+No que tange aos arts. 85, 489, § 1º, II, e 926 do CPC e 9º da LC 107/2001, observa-se a ausência de deliberação por parte do Tribunal a quo sobre as questões elencadas nesses dispositivos, apesar da interposição de embargos de declaração para destacar a suposta omissão. Assinalo ainda que o recorrente não alegou violação ao art. 1.022 do CPC de modo a ensejar eventual retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração no caso de matéria imprescindível ao deslinde da controvérsia, alegada pela parte e não analisada no Tribunal a quo.
+Nesse cenário, aplica-se a Súmula 211/STJ, que estabelece: "É inadmissível o recurso especial relativo a questões não examinadas pelo Tribunal de origem, apesar da oposição de embargos declaratórios." Importante ressaltar que a não análise de determinada questão contida em normativo legal citado pelo recorrente nos embargos de declaração não configura, necessariamente, uma omissão. Isso ocorre quando o Tribunal a quo fundamentadamente rejeita a questão ou, mesmo sem abordá-la, não há demonstração analítica e detalhada pelo recorrente da importância dessa análise para a resolução do caso.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ART. 927, III, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já se firmou no sentido de que "não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo Tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado" (AgInt no AREsp n. 2.536.934/BA, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024).
+2. A despeito da oposição de embargos de declaração, não foi configurado o prequestionamento exigido para o recurso especial, nos termos do enunciado n. 211 da Súmula do STJ.
+ ..
+4. Agravo interno não provido (AgInt no AREsp n. 2.578.117/RN, Relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 7/10/2024, DJe de 14/10/2024).
+Por fim, o recorrente, ao forçar a adequação do presente apelo às suas razões recursais, não enfrentou devidamente os fundamentos específicos da decisão da instância originária, fazendo alegações genéricas. Tal omissão configura deficiência de fundamentação, fazendo incidir, por analogia, a Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. LEI FEDERAL. OFENSA. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. INCAPACIDADE LABORATIVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme ressaltado na decisão agravada, não é possível conhecer do Recurso Especial no que tange aos arts. 371, 473, II e IV, 475 e 479 do Código de Processo Civil/2015, uma vez que as razões recursais não explicitam de forma clara e direta como os citados dispositivos legais teriam sido violados pelo Tribunal de origem.
+Portanto, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal.
+5. Agravo Interno não provido (AgInt no AREsp n. 1.931.611/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/12/2021).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+ EMENTA
