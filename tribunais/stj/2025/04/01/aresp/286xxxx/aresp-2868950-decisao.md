@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE JUNDIAI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - ALEGAÇÃO DE PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO - OCORRÊNCIA - NOTÍCIA DE PARCELAMENTO DO DÉBITO ANTES DO AJUIZAMENTO DA DEMANDA - ALEGAÇÃO DOCUMENTALMENTE COMPROVADA - INTERRUPÇÃO DA PRESCRIÇÃO - INTELIGÊNCIA DO ART. 174, IV, DO CTN - PRAZO QUE SE REINICIA A PARTIR DO DESCUMPRIMENTO DO PACTO - DOCUMENTAÇÃO DOS AUTOS QUE INDICA QUE O DESCUMPRIMENTO SE DEU EM FEVEREIRO DE 2016 - AJUIZAMENTO DA EXECUÇÃO EM AGOSTO DE 2021 - DECURSO DE LAPSO TEMPORAL SUPERIOR A 5 ANOS - PRESCRIÇÃO ORIGINÁRIA DO DÉBITO - DECISÃO REFORMADA PARA EXTINGUIR A EXECUÇÃO FISCAL - CONDENAÇÃO DA MUNICIPALIDADE EM HONORÁRIOS ADVOCATÍCIOS - RECURSO PROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 151, VI, e 174 do CTN, no que concerne à não incidência da prescrição dos créditos tributários ora cobrados, porquanto, em razão do parcelamento da dívida, o prazo prescricional se manteve suspenso, trazendo a seguinte argumentação:
+O acórdão proferido considerou que teria ocorrido a prescrição do crédito tributário, desconsiderando a celebração do acordo de parcelamento dos débitos e a quantidade de parcelas
+Decidiu-se pela prescrição do crédito, visto que os débitos cobrados são referentes ao IPTU de 2014, bem como que a execução fiscal teria sido ajuizada em 2021, ou seja, tendo ultrapassado prazo superior a 5 anos.
+Com todo o respeito, mas estas alegações também não podem prosperar.
+Primeiramente, frise-se que os acordos de parcelamento do débito foram juntados às fls. 40/45, os quais foram assinados pela recorrida, demonstrando a má-fé da mesma ao alegar a inexistência de acordo.
+Os débitos de IPTU e Taxa de Coleta de Lixo são referentes ao exercício de 2014.
+Em fevereiro de 2015 a agravante procurou a municipalidade e firmou acordo de parcelamento do débito, se comprometendo a pagar a dívida em 120 (cento e vinte) parcelas mensais.
+Importante mencionar que o parcelamento dos débitos é causa suspensiva da exigibilidade do crédito tributário, conforme dispõe o artigo 151, IV, do Código Tributário Nacional.
+ ..
+A alegação da ora recorrente que o débito foi lançado em 11/02/2015 e, que por este motivo, a prescrição teria começado a correr nesta data não condiz com a realidade, visto que o acordo de parcelamento do débito foi firmado exatamente nesta data, razão pela qual o prazo prescricional foi suspenso.
+Assim, não foi ultrapassado o prazo de 05 anos, previsto no artigo 174, do CTN (fls. 58-59).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+Com efeito, os créditos cuja prescrição se discute foram objeto de parcelamento formalizado com a executada (fl. 40/45), firmado em 11 de fevereiro de 2015, pela executada "Deolinda Maria dos Santos Iobbi", em 120 parcelas mensais iguais e consecutivas.
+As CDAs que constam na iniciam indicam que o acordo restou descumprido na parcela de nº 12 em diante, com vencimento em 11/02/2016 (fls. 2/3).
+Como é cediço, o parcelamento do débito é uma das causas de interrupção do prazo prescricional para a ação de cobrança do crédito tributário, prevista no inciso IV do artigo 174 do CTN, e, também, permanece suspenso o prazo prescricional enquanto em vigor o parcelamento, tornando a ser contado quando o pacto vem a ser descumprido, nos termos do art. 151, VI, do CTN.
+ ..
+Logo, o prazo prescricional foi interrompido pela celebração do acordo de parcelamento, sendo certo que somente a partir da data do rompimento do acordo.
+No caso dos autos, à míngua de outros elementos quanto à data exata do inadimplemento do pacto, ainda que seja considerada a melhor data em favor da Fazenda Pública a que consta na CDA ainda assim fulminada a pretensão e o crédito tributário pela prescrição, uma vez que entre o inadimplemento provável (11/02/2016) e a propositura da demanda (06/08/2021), decorreu lapso temporal superior a 5 anos (fls. 50-51).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2.5.2018.
+Ademais, considerando ainda trecho do acórdão impugnado acima transcrito, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
