@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE EDIMAR ALMEIDA AMARAL, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL no HC n. 5276794-46.2024.8.21.7000.
+Consta nos autos que o paciente foi preso preventivamente em 17/07/2024, por decisão do Juízo da 1ª Vara Judicial da Comarca de Nova Prata/RS, pela suposta prática dos crimes de tráfico e associação para o tráfico de drogas.
+Neste writ, a Defesa sustenta a ocorrência de constrangimento ilegal, aduzindo, em síntese: a) ausência dos requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal; b) falta de fundamentação idônea nas decisões de primeiro e segundo graus; c) excesso de prazo para conclusão do inquérito policial; d) condições pessoais favoráveis do paciente, que é primário, possui residência fixa e trabalho lícito; e) desproporcionalidade da medida, considerando que eventual condenação não exigiria o cumprimento de pena em regime fechado.
+Acrescenta que é suficiente a aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente, a expedição de alvará de soltura em favor do paciente. No mérito, pleiteia a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares alternativas.
+Decisão pelo indeferimento do pedido liminar às fls. 37-39.
+Informações prestadas às fls. 48-51.
+Parecer do Ministério Público Federal, às fls. 54-60, pelo não conhecimento do habeas corpus.
+É o relatório.
+DECIDO .
+A ordem deve ser denegada.
+No caso, o Juízo de primeiro grau, ao decretar a prisão preventiva do paciente, ressaltou o seguinte (fls. 31-32):
+No caso dos autos, quanto à prova da existência do crime e dos indícios suficientes de autoria, teço as seguintes considerações.
+Conforme se depreende da representação policial, em diligência policial, ocorrida no dia 14/06/2024, os investigados Jose, Kelvin e Alysson foram flagrados praticando o delito, em tese, de tráfico de drogas. Na ocasião, José e Alysson foram flagrados praticando delito contra as relações de consumo, além de ter sido visualizada arma de fogo em posse Jose.
+Seguidas as investigações, a Autoridade Policial localizou mais duas porções de substâncias similares à cocaína, em uma máquina de cartão apreendida em um dos estabelecimentos de Jose Edimar Almeida Amaral, a qual não possuía bobina térmica e, ao ser aberta, foram localizadas as mencionadas porções de entorpecentes. Ainda, foram localizadas gravações de disco rígido do DVR apreendido no estabelecimento de Jose Edimar, as quais demonstravam como Jose e Alysson ocultavam os entorpecentes e efetuavam a cobrança dos usuários.
+Está presente uma das hipóteses de admissibilidade da prisão preventiva, pois o delito em tese praticado é doloso e apenado com pena privativa de liberdade superior a 04 (quatro) anos (art. 313, inc. I, do CPP c/c art. 121, § 2º, incisos II, III e IV, do CP).
+Apresenta-se evidente a necessidade de manter-se o encarceramento cautelar diante da possibilidade de reiteração delitiva, já que os investigados foram flagrados em outras oportunidades praticando o mesmo delito ora imputado, no caso, o tráfico de entorpecentes (ocorrência policial n.º 986/2023/151734 - José Edimar de Almeida Amaral e ocorrência policial n.º 653/2007/250152 - Alysson Sberse Lopes).
+Além disso, a segregação cautelar deve ser decretada para garantia da ordem social. A traficância, pelos seus diversos modos de ação, causa impacto negativo na ordem pública e social com afetação coletiva e transindividual.
+Por fim, destaco que nenhuma das cautelares previstas no art. 319 mostram-se adequadas ou suficientes, inexistindo meio idôneo de fiscalização da conduta dos investigados, caso sejam postos em liberdade.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltado a gravidade em concreto dos crimes em tese praticados pelo paciente, diante do modus operandi empregado - houve a apreensão de duas porções de cocaína dentro de uma máquina de cartão apreendida no estabelecimento comercial, além de localizadas gravações, no DVR, em que os dois pacientes apareceram guardando e comercializando entorpecentes no local.
+Ademais, encontra-se presente o risco de reiteração delitiva, porque não é a primeira vez que o paciente responde por crime de tráfico, tendo ele e o corréu respondido anteriormente pelo mesmo delito.
+Tudo isso demonstra a potencial periculosidade do agente e é apta a justificar sua segregação cautelar para garantia da ordem pública.
+Com efeito,
+(c)onforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (HC 682.732/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/11/2021, DJe de 26/11/2021).
+Exemplificativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. TRÁFICO DE DROGAS (143 G DE MACONHA, 42 G DE COCAÍNA E 29 G DE CRACK). PRISÃO PREVENTIVA. RISCO DO ESTADO DE LIBERDADE PARA A ORDEM PÚBLICA. REITERAÇÃO DELITIVA E EXISTÊNCIA DE ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. NEGATIVA DO RECURSO EM LIBERDADE. REGIME SEMIABERTO. COMPATIBILIDADE COM A PRISÃO PREVENTIVA. PRISÃO MANTIDA. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+1. Deve ser mantida a decisão hostilizada que manteve a conversão da prisão em flagrante do agravante em preventiva, pela prática, em tese, do crime de tráfico de drogas.
+2. Isso porque não evidenciado constrangimento ilegal na fundamentação do decreto preventivo, que se encontra justificado na existência de antecedentes e reiteração delitiva do agente.
+(..)
+4. Agravo regimental improvido.
+(AgRg no HC n. 867.234/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. PRISÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+(..)
+2. No caso, a prisão preventiva do paciente está devidamente fundamentada na garantia da ordem pública, ante a "multirreincidente, estando, inclusive, em cumprimento de pena por uma condenação anterior pelo crime de tráfico de drogas."
+3. Não obstante a pouca quantidade de entorpecentes apreendidos, "justifica-se a imposição da prisão preventiva da agente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública". (AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023).
+4. Assim, considerando a indicação de fundamentos concretos para justificar a custódia cautelar, incabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 866.638/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/3/2024, DJe de 21/3/2024; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, alega a Defesa a existência de excesso de prazo para a conclusão do inquérito policial. No entanto, consta que o inquérito policial foi encerrado e o Ministério Público ofereceu denúncia, sendo recebida pelo juízo a quo em 29/11/2024. Portanto, uma vez oferecida a denúncia, encerra-se a discussão quanto ao excesso de prazo do inquério policial, verbis :
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. EXCESSO DE PRAZO. NÃO OCORRÊNCIA. ALEGADO EXCESSO DE PRAZO PARA CONCLUSÃO DO INQUÉRITO POLICIAL. TESE SUPERADA. DENÚNCIA OFERECIDA.
+1. Hipótese que retrata feito complexo, com pluralidade de réus, havendo a indicação de que vários são integrantes da organização criminosa, o que naturalmente enseja maior delonga no curso processual. Os autos estiveram em constante movimentação, seguindo a sua marcha regular, não se verificando desídia por parte do Estado. 2. "Oferecida a denúncia, fica superada a discussão de excesso de prazo para conclusão do inquérito policial" (HC 534.352/GO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/02/2020, DJe 17/02/2020).
+3. Agravo regimental improvido. (AgRg no HC 648.585/MS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 09/11/2021, DJe 16/11/2021; grifamos).
+Ante o exposto, conheço em parte da impetração e, nessa extensão, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
