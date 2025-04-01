@@ -1,0 +1,17 @@
+DECISÃO
+
+Cuida-se  de  habeas  corpus,  sem  pedido  de  liminar,  impetrado  em  favor  de  VICTOR MANOEL DE JESUS FORTUNATO,  em  que  se  aponta  como  autoridade  coatora  o  TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO  na  Apelação  Criminal  n.  0007348-62.2023.8.08.0035.
+Consta  dos  autos  que  o  paciente  foi  condenado  às penas de 6 anos de reclusão e 4 meses de detenção, em regime inicial fechado, além de 600 dias-multa, como incurso no art. 33 da Lei n. 11.343/2006 e no art. 307 do Código Penal.
+Neste  writ,  a  Defesa  alega  que houve indevida negativação do vetor "maus antecedentes" na primeira fase da dosimetria da pena, sem comprovação nos autos acerca da existência dos aludidos antecedentes, o que teria impedido a aplicação da causa especial de diminuição de pena do tráfico privilegiado.
+Sustenta que a certidão acostada nos autos não contém informações essenciais para aferir os maus antecedentes ou a reincidência, como a data do trânsito em julgado de processos anteriores, cumprimento de pena ou extinção da pena, sendo vaga e genérica.
+Afirma que, diante da inconsistência da certidão, deve ser afastada a negativação da circunstância judicial "antecedentes", e aplicada a causa especial de diminuição de pena do tráfico privilegiado, prevista no art. 33, § 4º da Lei n. 11.343/2006, em sua fração máxima (2/3).
+Requer a concessão da ordem de habeas corpus para afastar a negativação do vetor antecedentes na primeira fase da dosimetria da pena, reduzindo-se proporcionalmente a pena-base e adequando as demais fases dosimétricas, além de aplicar a causa especial de diminuição de pena do tráfico privilegiado.
+Informações  prestadas  às  fls.  43/46.
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício. Isso porque, restou consignado no acórdão guerreado que "considerando que há registros nos autos acerca dos antecedentes do réu, entendo que o Magistrado de 1º grau agiu de forma acertada ao valorar negativamente os maus antecedentes" (fl. 29). Dessa forma, não é possível rever tal entendimento sem analisar o conjunto fático-probatório dos autos, procedimento que é incompatível com a estreita via do mandamus.
+Assim,  h avendo a eg. Corte de origem consignado, explicitamente, após a análise da do cumentação acostada aos autos, que existiria anotação criminal idônea para a caracterização da reincidência, a reforma desse juízo demandaria amplo reexame probatório, a que a via estreita do habeas corpus não se presta (HC n. 436.307/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/8/2018, DJe de 24/8/2018).
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
