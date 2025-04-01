@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por KANADÁ ARMAZENS LTDA e BUSATTO & BASTOS LTDA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (e-STJ Fl.42):
+"AGRAVO DE INSTRUMENTO RECURSO DAS EXECUTADAS - CUMPRIMENTO DE SENTENÇA MÉRITO - CONDENAÇÃO POR DÍVIDA CIVIL - PRETENSÃO DE APLICAÇÃO DOS CONSECTÁRIOS LEGAIS PELA TAXA SELIC - IMPOSSIBILIDADE - DECISÃO MANTIDA RECURSO CONHECIDO E NÃO PROVIDO.
+I - Até o final julgamento perante o Superior Tribunal de Justiça do Recurso Repetitivo REsp nº.1.795.982/SP, no qual aquela Corte definirá a pertinência da adoção da Taxa Selic nos casos de condenação por dívida civil, não existe decisão vinculante sobre a incidência ou não da mencionada taxa SELIC às relações de direito privado, como tentam fazer crer os agravantes.
+II - Além disso , não há falar em aplicação do Tema 176/STJ à hipótese dos autos, visto que a sentença foi prolatada na vigência do CC/02."
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustentam as recorrentes que ao rejeitar a aplicação da SELIC como critério de juros de mora do artigo 406 do Código Civil, o Tribunal a quo contraria jurisprudência com caráter vinculante do STJ.
+As contrarrazões ao recurso especial foram apresentadas a fls. 131/138.
+É o relatório. Passo a decidir.
+Relativamente à SELIC, assiste razão à recorrente.
+Com efeito, a Corte Especial do Superior Tribunal de Justiça reafirmou a jurisprudência do STJ no sentido de que a taxa de juros moratórios a que se refere o art. 406 do Código Civil é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC -, que não pode ser cumulada com a aplicação de outros índices de atualização monetária.
+Confiram-se os precedentes colacionados:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. TAXA SELIC. PARCIAL PROVIMENTO.
+I. Caso em exame 1. Agravo interno interposto contra decisão monocrática que negou provimento ao agravo nos próprios autos, relacionado à liquidação de sentença em ação indenizatória, envolvendo a desvalorização de marca.
+2. A agravante alega omissão no julgado quanto ao acervo probatório e aos índices de atualização e compensação da mora, defendendo a aplicação da Taxa Selic como índice de correção monetária.
+II. Questão em discussão 3. A questão em discussão consiste em saber se houve omissão no julgado e se a Taxa Selic deve ser aplicada como critério para incidência de juros moratórios e atualização monetária em substituição ao IPCA acrescido de taxa de juros utilizados pela perícia judicial.
+III. Razões de decidir 4. Não se verifica omissão relevante no acórdão recorrido.
+5. A jurisprudência do STJ determina a aplicação da Taxa Selic como taxa de juros moratórios e índice de correção monetária quando não há determinação específica de outro índice no título transitado em julgado.
+6. A reavaliação das conclusões periciais encontra óbice na Súmula n. 7 do STJ, impedindo a revisão do acervo fático-probatório.
+IV. Dispositivo e tese 7. Agravo interno parcialmente provido para determinar a aplicação da Taxa Selic em substituição ao IPCA e à taxa relativa aos juros moratórios, vedada sua acumulação com qualquer outro índice de atualização monetária. Tese de julgamento: "A Taxa Selic deve ser aplicada como juros moratórios quando não há determinação específica de outro índice no título judicial, vedada sua acumulação com qualquer outro índice de atualização monetária. Quando não houver cumulação de encargos, deve ser aplicada a Taxa Selic no período de incidência dos juros de mora, deduzido o o índice do Índice Nacional de Preços ao Consumidor Amplo (IPCA), ainda que as obrigações tenham sido constituídas antes da alteração legislativa".
+Dispositivos relevantes citados: CPC/2015, arts. 489, § 1º, IV e VI, 1022, II; Código Civil, art. 406.Jurisprudência relevante citada: STJ, REsp 1.795.982/SP, Rel. Min. Raul Araújo, Corte Especial, julgado em 21/8/2024."
+(AgInt no AREsp 2.059.743/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/02/2025, DJe de 20/02/2025)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC.
+A Corte Especial firmou entendimento no sentido de que "A SELIC é taxa que vigora para a mora dos impostos federais, sendo também o principal índice oficial macroeconômico, definido e prestigiado pela Constituição Federal, pelas Leis de Direito Econômico e Tributário e pelas autoridades competentes. Esse indexador vigora para todo o sistema financeiro-tributário pátrio. Assim, todos os credores e devedores de obrigações civis comuns devem, também, submeter-se ao referido índice, por força do art. 406 do CC". (REsp n. 1.795.982/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024.) Agravo interno improvido."
+(AgInt no AREsp 2.396.802/PE, Rel. Ministro HUMBERTO MARTINS, TERCEIRA TURMA, julgado em 02/12/2024, DJe de 05/12/2024)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INÉRCIA INJUSTIFICADA DO CREDOR. SÚMULA 83/STJ. REPERSONIFICAÇÃO DA INSTITUIÇÃO BANCÁRIA. NÃO INCIDÊNCIA DO ART. 9º DA LEI 8.177/91. JUROS. APLICAÇÃO DA TAXA SELIC. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que a prescrição intercorrente da pretensão executiva pressupõe inércia injustificada do credor, o que não se verificou no presente caso. Incidência da Súmula 83/STJ.
+2. No julgamento do REsp 1.838.257, de relatoria do em. Ministro Paulo de Tarso Sanseverino, este Tribunal Superior entendeu que, em razão da repersonificação da massa liquidanda do Banco Bamerindus na figura do Banco Sistema, "não haveria falar na incidência do quanto disposto no art. 9º da Lei 8.177, pois a instituição devedora não mais se encontra em liquidação". 3. O entendimento desta Corte Superior é de que a taxa dos juros moratórios - a que se refere o art. 406 do CC/2002 - é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, que se revela insuscetível de cumulação com quaisquer índices de correção monetária, sob pena de bis in idem.
+4. Agravo interno parcialmente provido, apenas para aplicar a taxa Selic na hipótese em exame."
+(AgInt no AREsp 2.569.229/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/11/2024, DJe de 29/11/2024)
+Dessa forma, entende-se que o acórdão recorrido merece ser reformado, para que seja observada a SELIC como índice econômico de correção do débito.
+Diante do exposto, conheço do recurso especial e dou-lhe provimento, para determinar a observância da SELIC.
+Publique-se.
+EMENTA
