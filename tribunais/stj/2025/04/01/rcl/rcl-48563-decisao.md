@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de reclamação ajuizada por ALVARO AUGUSTO ALVES PINTO, AMAURY SIMOES DOS SANTOS, DILSON CORREA DE SA E BENEVIDES, MILTON BRAZ PAGANI, PAULO CESAR MIRANDA DE AZEVEDO, RUBENS CARLOS SILVEIRA, RUTHENIO FERREIRA DO VALLE, SYDNEY VIEIRA BRAGA FILHO e JORGE FERREIRA DA ROCHA contra decisão proferida "pela Vice-Presidência do Eg. TRIBUNAL REGIONAL FEDERAL DA PRIMEIRA REGIÃO, nos autos da AC n.º 1048559-87.2020.4.01.3400, que, ao não conhecer do Agravo em Recurso Especial dos Autores, usurpou da competência dessa C. Corte Superior, em violação ao art. 1.042, § 4º, do CPC" (fl. 4).
+Aduzem os reclamantes que há "DUPLA FUNDAMENTAÇÃO na decisão que negou seguimento ao recurso especial: uma atrelada à consonância do acórdão recorrido ao entendimento firmado no TEMA 516/STJ e o outro atinente à incidência da Súmula 7/STJ". E, por isso:
+ ..  ingressaram com os DOIS RECURSOS previstos na lei processual: AGRAVO INTERNO (art. 1030, I, do CPC), para demonstrar o distinguishing entre o v. acórdão recorrido e o acordão representativo da controvérsia no Tema 516/STJ, mencionado pelo decisum agravado (Doc. 13); AGRAVO EM RECURSO ESPECIAL (art. 1042, do CPC), demonstrando a não incidência, ao caso, do óbice da Súmula n.º 7/STJ, diante da matéria de direito veiculada no recurso especial, inclusive diante da divergência jurisprudencial, analiticamente demonstrada naquele recurso (Doc. 14) (fl. 7).
+As judiciosas informações foram prestadas pela autoridade reclamada às fls. 96-100.
+O Ministério Público Federal ofereceu o parecer de fls. 104-107, consoante a seguinte ementa:
+PROCESSUAL CIVIL. UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. NÃO CABIMENTO. PRECEDENTES DO STJ. PARECER PELO NÃO CONHECIMENTO DA RECLAMAÇÃO.
+Os reclamantes atravessaram petição às fls. 110-112, reiterando as razões e o pleito.
+É o relatório.
+Decido.
+A reclamação procede.
+No caso em apreço, a ilustre Vice-Presidência do Tribunal de origem, ao realizar o juízo prévio de admissibilidade do apelo nobre (fls. 54-57), apesar de dizer ao final "não admito o recurso especial", o fez sob os seguintes fundamentos: (i) não teria havido violação ao art. 1.022 do CPC/2015; (ii) o acórdão recorrido estaria em consonância com o entendimento fixado no Tema 516 do STJ; (iii) incidência da Súmula n. 7 do STJ para a revisão da tese relacionada à prescrição.
+Portanto, considerando os fundamentos adotados na decisão, a despeito da inadequação da parte dispositiva - que deveria conter "nego seguimento" em relação à questão atrelada ao tema repetitivo; e "não admito", quanto ao mais - é sabido que, contra o óbice do tema repetitivo, o único recurso cabível é o agravo interno (art. 1.030, inciso I, alínea b e § 2º, c.c. o art. 1.042, in fine, do CPC) perante o próprio Tribunal recorrido; e, contra o restante, o agravo em recurso especial (art. 1.042 do CPC), este, evidentemente, para o Superior Tribunal de Justiça, sem juízo prévio de admissibilidade.
+Não obstante, o acórdão reclamado, de forma equivocada, data venia, aplicou a preclusão consumativa e o princípio da unirrecorribilidade, para não conhecer de nenhum dos dois recursos (fls. 67-70), em vez de processá-los separadamente, já que ambos são cabíveis na espécie.
+Com efeito, " é  certo que apenas a parte do recurso especial onde houve aplicação do rito dos recursos repetitivos merece impugnação por agravo ao Tribunal a quo. Quanto aos demais fundamentos do apelo raro, referentes a matéria não solucionada em recurso repetitivo, cabe agravo em recurso especial dirigido ao Superior Tribunal de Justiça, caso inadmitida a insurgência" (AgInt no AgInt nos EDcl no REsp n. 1.707.507/ES, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 21/5/2024, DJe de 27/5/2024).
+Constata-se, assim, clara usurpação de competência deste Superior Tribunal de Justiça, a quem compete a análise do agravo em recurso especial.
+No mesmo sentido:
+PROCESSUAL CIVIL. RECLAMAÇÃO. AGRAVO EM RECURSO ESPECIAL. EXAME. STJ. COMPETÊNCIA.
+1. A competência para o julgamento do agravo previsto no art. 1.042 do CPC é do tribunal superior para o qual é dirigido.
+2. Diversamente do ocorre com os recursos especial e extraordinário, esse agravo não está sujeito a juízo de prelibação pela Corte a quo (art. 1.042, § 4º, do CPC).
+3. Hipótese em que, embora correta a assertiva contida na decisão reclamada, de que a negativa de seguimento do recurso especial fundada em precedente obrigatório formado em julgamento de recurso repetitivo desafia o agravo interno previsto no art. 1.030, § 2º, do CPC, não compete ao Tribunal de origem decidir sobre o cabimento do agravo em recurso especial interposto no processo, mas a este Superior Tribunal de Justiça.
+4. Reclamação procedente.
+(Rcl n. 39.515/PE, relator Ministro Gurgel de Faria, Primeira Seção, julgado em 10/6/2020, DJe de 29/6/2020.)
+Anoto, obiter dictum, que não se está a tratar da pertinência do mérito recursal, mas tão somente do cabimento, em tese, dos recursos manejados e da competência para cada um deles.
+Ante o exposto, JULGO PROCEDENTE o pedido deduzido na reclamação para, cassando o acórdão reclamado, DETERMINAR a remessa do agravo em recurso especial para este Superior Tribunal de Justiça, depois de o Tribunal a quo analisar o agravo interno.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+PROCESSO CIVIL. RECLAMAÇÃO. JUÍZO NEGATIVO DE ADMISSIBILIDADE DO RESP NA ORIGEM. PARTE RELACIONADA A TEMA REPETITIVO DO STJ. CABIMENTO DO AGRAVO INTERNO PERANTE O PRÓPRIO TRIBUNAL, EM RELAÇÃO AO TEMA REPETITIVO; E, NO MAIS, AGRAVO EM RECURSO ESPECIAL PARA O STJ. IMPERTINÊNCIA DO JUÍZO PRÉVIO DE ADMISSIBILIDADE DO AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE COMPETÊNCIA DO STJ. RECLAMAÇÃO PROCEDENTE.
