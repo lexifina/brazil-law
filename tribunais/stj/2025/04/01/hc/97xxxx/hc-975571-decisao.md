@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEANDRO STEIN SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em razão do julgamento da revisão criminal n. 2277742-49.2024.8.26.0000.
+Consta dos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de São Vicente, à pena de 9 (nove) anos de reclusão, a ser cumprida em regime inicial fechado, e ao pagamento de 610 (seiscentos e dez) dias-multa, por infração ao artigo 33, caput, da Lei n. 11.343/2006 e ao artigo 16, § 1º, inciso IV, da Lei n. 10.826/2003 (fls. 61-68).
+A defesa interpôs apelação criminal ao Tribunal de Justiça, que deu parcial provimento ao recurso, reduzindo a pena do paciente para 8 (oito) anos e 10 (dez) meses de reclusão e 593 (quinhentos e noventa e três) dias-multa, mantidos os demais termos da sentença (fls. 69-82).
+A defesa ajuizou revisão criminal, mas em decisão monocrática teve seu pedido liminarmente indeferido (fls. 27-34).
+Na presente impetração, busca-se a con cessão da ordem de modo a: (i) aplicar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, (ii) rever a aplicação da pena-base em razão de bis in idem, (iii) aplicar o princípio da insignificância ou atipicidade da conduta, com consequente absolvição do paciente.
+As informações foram prestadas (fls. 573-607 e 611-614).
+O Ministério Público Federal opinou pelo não conhecimento (fls. 616-623).
+É o relatório. DECIDO.
+A presente impetração questiona a decisão monocrática do Desembargador relator da revisão criminal n. 2277742-49.2024.8.26.0000 (fls. 27-34), que indeferiu liminarmente o pedido revisional. Não há registro de que a decisão tenha sido submetida ao órgão colegiado do Tribunal de Justiça do Estado de São Paulo.
+Segundo o artigo 105, I, "c", e II, da Constituição Federal, o Superior Tribunal de Justiça não possui competência para analisar habeas corpus impetrado contra ato de desembargador. A esse respeito, cito o seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPUGNANDO DECISÃO MONOCRÁTICA DE RELATOR DO TRIBUNAL A QUO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO REGIMENTAL. NECESSIDADE DE EXAURIMENTO DA INSTÂNCIA ORDINÁRIA. 1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça. 2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016) 3. Agravo regimental improvido. (AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de ser necessária a análise da matéria pelo colegiado do Tribunal local, sob pena de supressão de instância com relação às questões trazidas aos autos.
+De toda sorte, não vislumbro nenhuma ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
