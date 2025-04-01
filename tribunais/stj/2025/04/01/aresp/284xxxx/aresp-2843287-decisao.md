@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por PEDRO ITIRO TAGLIARI KOYANAGI contra decisão de inadmissibilidade do recurso especial proferida pela Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo (e-STJ, fls. 1.504-1.505), fundamentada nos seguintes motivos: a) deficiência das razões recursais, por ausência de indicação do dispositivo da Lei 5.250/1967 apontado como violado; b) ausência de demonstração da violação dos demais dispositivos legais arrolados; e c) incidência do óbice da Súmula 7/STJ, devido à necessidade de reexame fático-probatório para a revisão do acórdão recorrido.
+Nas razões do presente agravo, a parte agravante alega a citação dos artigos legais violados, inclusive o art. 52 da supracitada lei, referido no corpo da jurisprudência indicada; a usurpação da competência do STJ pelo Tribunal de origem no exame da violação dos dispositivos legais; a inexistência de coisa julgada; e o prequestionamento da matéria. Reitera razões de mérito de recurso especial sobre o valor excessivo da indenização arbitrada.
+É o relatório. Decido.
+Do agravo em recurso especial não se pode conhecer.
+Com efeito, o agravo previsto no art. 1.042 do Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pelo Tribunal de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada, impugnando de forma específica a integralidade de seus fundamentos, autônomos ou não, conforme orientação consolidada pela Corte Especial, com ressalva de entendimento pessoal desta relatoria em sentido contrário (cf. EAREsp n. 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, relator para acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe de 30/11/2018.).
+Desse ônus, contudo, não se desincumbiu a parte agravante, que, como visto, não atacou especificamente a incidência do óbice da Súmula 7/STJ, devido à necessidade de reexame fático-probatório para a revisão do acórdão recorrido, motivo nem sequer mencionado no presente agravo.
+Portanto, é inviável o conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de 12% para 13% sobre o valor atualizado da condenação.
+Publique-se.
+EMENTA
