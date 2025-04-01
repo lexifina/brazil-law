@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por B1 EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra a decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, impugna o acórdão proferido pelo Tribunal de Justiça do Estado de Goiás - TJGO assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. COMPRA E VENDA. LOTE NÃO EDIFICADO. LEI DO DISTRATO NÃO APLICÁVEL. MULTA RESCISÓRIA INDEVIDA. PERCENTUAL DE RETENÇÃO CONTRATUAL APLICADO. TAXA DE FRUIÇÃO AFASTADA. IMPOSTOS RELATIVOS AO PERÍODO DA POSSE DEVIDOS. RESTITUIÇÃO IMEDIATA DE UMA SÓ VEZ. 1. As disposições da Lei 13.786/18 aplicam-se, tão somente, aos contratos celebrados após a sua vigência. Precedentes STJ. 2.Tratando-se de lote sem edificação, não se há falar em taxa de fruição, por inexistir proveito econômico proporcionado pelo terreno. 3. A previsão contratual de retenção de 20% sobre as quantias pagas para a composição das despesas coaduna com os parâmetros dos precedentes do Superior Tribunal de Justiça (retenção de 10% a 25% dos valores pagos), por isso dever ser observado, mesmo porque não comprovada eventual insuficiência para a composição a que se destina. 4. Os valores pagos a título de sinal ou arras representam início de pagamento e, por isso, integram o preço do bem. 5. A estipulação de cláusula penal juntamente a outra multa cominatória caracteriza bis in idem, de modo que descabe a retenção de multa convencional quando já permitida a retenção de percentual para a composição do prejuízo, sob pena de enriquecimento ilícito da vendedora. 6. A restituição de valores ao comprador deve ser feita nos termos da Súmula 543 do STJ (parcial, de uma só vez e imediatamente), por se tratar de contrato celebrado antes da Lei do Distrato. APELAÇÃO CONHECIDA, MAS NÃO PROVIDA." (e-STJ fl. 219)
+Os embargos de declaração foram rejeitados (e-STJ fls. 244/253).
+A recorrente aponta a violação dos arts. 389, 402 do Código Civil e 1.022, parágrafo único, II, do Código de Processo Civil, bem como dissídio jurisprudencial.
+Defende que, diante da desistência da promessa de compra e venda de imóvel pelo promitente-comprador, o promitente-vendedor tem direito de reter 25% (vinte e cinco por cento) dos valores pagos pelo contrato, como compensação pelos custos do empreendimento.
+Indica que o Tribunal de origem, ao permitir a retenção de apenas 20% (vinte por cento), contraria precedentes desta Corte Superior.
+Postula, ainda, a declaração de nulidade do acórdão de 2º grau, porque a Corte de origem, apesar da oposição de embargos de declaração, negou-se a examinar a aplicabilidade dos precedentes do STJ acerca da matéria.
+O recorrido apresentou contrarrazões (e-STJ fls. 312/317). Indicou, em resumo, que a matéria debatida no recurso especial não foi prequestionada (Súmula n. 282/STF) e que a reforma do acórdão de 2º grau reclama novo exame das provas dos autos (Súmula n. 7/STJ)
+O recurso especial foi obstado na origem, o que deu ensejo à interposição deste agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial
+O recurso deve ser parcialmente conhecido e, na extensão, não provido.
+De início, nota-se que não há omissão no acórdão de 2º grau. O eg. TJGO, com fundamentação suficiente, autorizou a retenção de 20% (vinte por cento) dos valores pagos pelos adquirentes, diante da desistência da promessa de compra e venda de imóvel, porque o contrato celebrado prevê a retenção desse percentual. Cita-se do aresto:
+"No pacto celebrado entre as partes há previsão de multa rescisória de 10% (dez por cento) sobre o valor do contrato (cláusula 12.1) e cláusula penal compensatória (13), que prevê a cumulação de perda do sinal com a retenção de 20% sobre o valor pago para fins de ressarcimento de despesas administrativas, tributárias, entre outras, IPTU"s relativos ao período da posse, e indenização de 0,25% ao mês do valor atualizado do contrato a título de fruição durante o período compreendido entre a assinatura e a rescisão do contrato ou a devolução da posse precária, o que ocorrer por último.
+Na sentença, o juiz a quo reconheceu a pertinência tão somente do encargo previsto na cláusula 13.2.3 (retenção de 20% dos valores pagos), além da dedução dos valores vinculados ao IPTU incidentes sobre o imóvel durante o período de existência do contrato, condicionada à comprovação do efetivo pagamento ou inadimplência da obrigação.
+Destarte, tratando-se de lote sem edificação, não se há falar em taxa de fruição, por inexistir proveito econômico proporcionado pelo terreno.
+Por outro lado, a retenção permitida (20%) encontra previsão no próprio contrato e, uma vez em consonância com os parâmetros dos precedentes do Superior Tribunal de Justiça (retenção de 10% a 25% dos valores pagos), deve ser observado o pacto, mesmo porque não restou comprovada eventual insuficiência para a composição das perdas ou custos." (e-STJ fls. 216/217)
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A respeito da questão de fundo, o recurso não deve ser conhecido. Como visto, a decisão do Tribunal de origem, de limitar a retenção a 20% (vinte por cento) dos valores pagos pelo adquirente, fundamentou-se em cláusula expressa do contrato, de modo que a revisão do acórdão recorrido demandaria novo exame das disposições do ajuste.
+Incide, portanto, o óbice da Súmula n. 5/STJ.
+Fica prejudicada a análise da alegação de dissídio jurisprudencial, tendo em vista a impossibilidade de se discutir, nesta sede, o conteúdo de cláusula contratual, na forma da citada Súmula n. 5/STJ. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DE CAPÍTULO AUTÔNOMO EM DECISÃO MONOCRÁTICA DO RELATOR EM AGRAVO INTERNO. PRECLUSÃO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULAS 5 E 7 DO STJ. PREJUDICADO.
+(..)
+4. A incidência das Súmulas 5 e 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.707.544/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/2/2025, DJEN de 14/2/2025. - grifos acrescidos)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, na extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 13% (treze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. OMISSÃO. INEXISTÊNCIA. DESISTÊNCIA DO CONTRATO. RETENÇÃO LIMITADA A 20% DO VALOR PAGO PELO ADQUIRENTE. CLÁUSULA EXPRESSA. REEXAME. SÚMULA N. 5/STJ.
+1. Não há falar em falha na prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, ainda que em desacordo com a expectativa da parte.
+2. No caso, rever a conclusão do Tribunal de origem, de que o contrato limita a retenção a 20% (vinte por cento) dos valores pagos pelo adquirente, na hipótese de desistência do ajuste, encontra óbice na Súmula n. 5/STJ.
+3. A incidência do óbice da Súmula n. 5/STJ impede o exame da alegação de dissídio jurisprudencial.
+4 . Agravo conhecido para conhecer em parte do recurso especial e, na extensão, negar-lhe provimento.
