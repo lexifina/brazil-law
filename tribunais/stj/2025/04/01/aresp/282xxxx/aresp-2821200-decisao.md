@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que negou seguimento ao recurso especial interposto por SAFECARE -SERVIÇOS ESPECIALIZADOS EM SAÚDE LTDA- com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (e-STJ Fl.38):
+"CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DECISÃO QUE APLICOU EM DESFAVOR DA AGRAVANTE MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA, PELO NÃO CUMPRIMENTO A COMANDO JUDICIAL ESPECÍFICO. INSURGENTE QUE DIZ DESCONHECER O INDIVÍDUO QUE SUBSCREVEU O AVISO DE RECEBIMENTO RELATIVO À ORDEM JUDICIAL NÃO CUMPRIDA. ENVIO DA CORRESPONDÊNCIA (AR) AO ENDEREÇO COMERCIAL DA AQUI AGRAVANTE, CONSTANTE NO CADASTRO NACIONAL DE PESSOAS JURÍDICAS. APLICAÇÃO DA TEORIA DA APARÊNCIA. PRECEDENTES DO STJ. RECURSO CONHECIDO E DESPROVIDO."
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que a imputação de ato atentatório à dignidade da justiça não é cabível, pois ausente o elemento subjetivo, na melhor interpretação do art. 77, IV, do CPC/2015.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu in albis.
+O referido recurso especial não foi admitido por se entender incidente na espécie, essencialmente, a Súmula 7/STJ.
+Daí porque foi interposto o presente recurso.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial tem origem em agravo de instrumento interposto contra decisão proferida em autos de cumprimento de sentença, que aplicou em desfavor da ora agravante multa por ato atentatório à dignidade da justiça, com arrimo no art. 77, IV, §§1º e 3º, do CPC/2015.
+Acerca do elemento subjetivo, o Tribunal a quo, ao negar provimento ao agravo de instrumento, para manter a condenação por ato atentatório à dignidade da justiça, asseverou que a intimação foi encaminhada ao endereço constante no Cadastro Nacional da Pessoa Jurídica, portanto, onde a empresa, ora agravante, tem o endereço comercial. Concluiu que a conduta de não cumprir com exatidão decisão judicial reiterada, configurou no presente caso ato atentatória à dignidade da justiça.
+Consoante art. 77 do CPC/2015, a multa por ato atentatório à dignidade da justiça deve ser reservada para a parte que se vale de comportamento desleal no processo, provocando incidentes meramente protelatórios, inovando estado de fato de bens ou direitos litigiosos, opondo embaraços ao cumprimento das decisões judiciais.
+A propósito:
+"CIVIL. PRESTAÇÃO DE SERVIÇOS. RECURSO ESPECIAL. QUEBRA DE CLÁUSULA DE EXCLUSIVIDADE. RESPONSABILIDADE CONTRATUAL. CUMPRIMENTO DE SENTENÇA. FASE DE LIQUIDAÇÃO. (1) ALEGADA EXISTÊNCIA DE RECURSO DE APELAÇÃO REGULARMENTE RECEBIDO COM EFEITO SUSPENSIVO A OBSTAR O PROSSEGUIMENTO EXECUTÓRIO. VIOLAÇÃO DOS ARTS. 520, CAPUT, 523, CAPUT, 1.010 CAPUT E § 3º, 1.012, CAPUT, DO NCPC. AUSÊNCIA DE DEBATE PRÉVIO DA MATÉRIA. SÚMULA 282/STF. (2) MULTA POR LITIGÂNCIA DE MÁ-FÉ. ATUAÇÃO CANHESTRA DA PRÓPRIA PARTE QUE A CONDUZIU A PERDA DE OPORTUNIDADE IMPUGNATIVA. AUSÊNCIA DE DOLO PROCESSUAL. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Se a respeito do fundamento principal do recurso (recebimento regular de apelação em ambos os efeitos como óbice ao prosseguimento do cumprimento de sentença) não houve o debate prévio, não se implementa a condição para abertura do especial. Súmula 282/STF.
+2. A multa por litigância de má-fé e ato atentatório à dignidade da justiça deve ser reservada para a parte que se vale de comportamento desleal no processo, provocando incidentes meramente protelatórios, inovando estado de fato de bens ou direitos litigiosos, opondo embaraços ao cumprimento das decisões judiciais (NCPC, arts. 77 e 80).
+3. Em regra, a própria atitude canhestra e contraditória da recorrente que perde chance defensiva por conta de erro grosseiro na interposição do recurso cabível, p. ex., já retira o elemento subjetivo do dolo processual necessário à caracterização da conduta desleal passível de repreensão.
+4. Recurso especial não conhecido."
+(REsp 2.164.371/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, jugado em 15/19/2024, DJe de 18/10/2024)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. AUSÊNCIA DE VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. IMPOSIÇÃO DE MULTA PELA CORTE DE ORIGEM. AGRAVO INTERNO DESPROVIDO.
+1. Não houve ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. Na hipótese, deve ser mantida a multa por ato atentatório à dignidade da justiça, aplicada pela Corte de origem, em virtude da renitência em cumprir a obrigação imposta, concernente ao refazimento da rede de distribuição de gás do autor, em conformidade com as normas técnicas e com o projeto de instalação apresentado à Municipalidade, e ao reparo da fachada do prédio, com a aplicação correta do revestimento de cerâmica, agindo a agravante, pois, de forma não cooperativa e contrária à boa-fé ao criar embaraço à efetivação da decisão judicial.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.900.590/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/02/2024, DJe de 29/02/2024)
+Deveras, a recalcitrância injustificada no cumprimento de decisão judicial atrai a imposição de multa como penalização da prática de ato atentatório à dignidade da Justiça.
+Dessa forma, o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial. E, quanto ao ônus da sucumbência recursal, deixo de majorar a verba honorária na forma do art. 85, §11, do CPC/2015, posto que o recurso especial tem origem em agravo de instrumento.
+Publique-se.
+EMENTA
