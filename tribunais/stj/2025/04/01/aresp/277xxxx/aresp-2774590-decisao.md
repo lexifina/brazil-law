@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, agravo de decisão que inadmitiu recurso especial interposto pelo SINDICATO DOS PROFESSORES PUBLICOS MUNICIPAIS - SINDPROFM - NO ESTADO DE PERNAMBUCO, contra acórdão proferido pelo TJPE, assim ementado (fl. 307):
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE LEGALIDADE DE GREVE. EDUCAÇÃO. SERVIÇO ESSENCIAL. DESATENDIMENTO DOS PRECEITOS DA LEI FEDERAL Nº 7.783/1989. GREVE ILEGAL. IMPROCEDÊNCIA DA PRETENSÃO AUTORAL. DECISÃO UNÂNIME.
+1. A teor do entendimento esposado pelo Supremo Tribunal Federal, quando do julgamento do MI nº 708-0/DF, não restam dúvidas de que a educação, em que pese não estar prevista no art. 10 da Lei 7.783/1989, afigura-se como atividade essencial, razão pela qual, na espécie, o movimento paredista deve ser analisado à luz dos dispositivos da Lei de Greve atinentes às atividades essenciais.
+2. In casu, a rigor, foram constatas algumas ilegalidades na greve deflagrada pelos professores do Município de Carpina, como a falta de: (i) prova da comunicação da deflagração da greve aos usuários do serviço - pais ou responsáveis pelos alunos (art. 13 da Lei nº 7.783/1989 - Lei de Greve); (ii) indicação de medidas para assegurar a prestação mínima dos serviços educacionais durante a paralisação (art. 11 da Lei de Greve) e (iii) esgotamento da via negocial (art. 3º da referida Lei).
+3. Pedido autoral julgado improcedente, com fulcro no art. 14 da Lei nº 7.783/1989. Condenação do Sindicato autor aos ônus sucumbenciais. Fixação da verba honorária na forma do art. 85, §§ 8º e 8º-A, do CPC. Suspensa a exigibilidade da condenação (art. 98, § 3º, do CPC). Decisão unânime.
+Nas razões do recurso especial inadmitido, o recorrente aponta, além de divergência jurisprudencial, violação à Lei 7.783/1989, e argumenta que "a decisão desconsiderou que o serviço de educação não deve ser considerado como serviço essencial" (fl. 351).
+Acrescenta que, "se a prestação do serviço pode ser alvo de reposição de aulas sem quaisquer prejuízos ao ano letivo e/ou aprendizado do alunado, não há o que se falar sobre caráter de urgência e perigo à sobrevivência, saúde ou segurança da população com a paralisação do serviço, sendo certo que o próprio princípio da continuidade é respeitado, pois não há característica de atividade ininterrupta (fl. 353).
+Por fim, afirma que o movimento grevista foi realizado nos termos da legislação de regência.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+O recurso, no entanto, não comporta conhecimento.
+Com efeito, a admissibilidade do recurso especial, tanto pela alínea a, quanto pela alínea c do permissivo constitucional, exige a clareza na indicação dos dispositivos de lei federal supostamente violados, assim como a demonstração efetiva da alegada contrariedade, sob pena de incidência da Súmula 284 do STF.
+Nas razões do recurso especial, a parte recorrente deixou de indicar precisamente os dispositivos de lei federal violados ou objeto de interpretação divergente, limitando-se a afirmar que houve violação da Lei Federal 7.783/1989.
+Nesse sentido: "O recurso excepcional possui natureza vinculada, exigindo, para o seu cabimento, a imprescindível demonstração do recorrente, de forma clara e precisa, dos dispositivos apontados como malferidos pela decisão recorrida juntamente com argumentos suficientes à exata compreensão da controvérsia estabelecida, sob pena de inadmissão" (AgInt no AREsp n. 2.372.506/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/10/2023, DJe de 26/10/2023).
+Isso posto, conheço do agravo para não conhecer do recurso especial. Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
