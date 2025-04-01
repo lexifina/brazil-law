@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por alegação de violação de normas constitucionais e ausência de afronta aos arts. 489, § 1º, e 1.022 do CPC/2015 (fls. 241-243).
+O acórdão recorrido está assim ementado (fl. 199):
+AGRAVO DE INSTRUMENTO - Decisão que julgou improcedente incidente de desconsideração da personalidade jurídica - Julgamento prematuro após a apresentação de contestação - Cerceamento de defesa - Decisão de improcedência do incidente pautada na ausência de provas de inadimplemento do débito por abuso de direito - Indispensável a abertura de instrução probatória para oportunizar à agravante a produção de prova a demonstrar o fato constitutivo de seu direito - Prejudicada a apreciação das demais teses expostas - Decisão anulada - RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 221-225).
+No recurso especial (fls. 207-214), interposto com fundamento no art. 105, III, "a" da CF, a recorrente alegou ofensa ao art. 1.022, II, do CPC/2015.
+Insurgiu-se contra a conclusão da Corte local, que, ao prover o recurso da parte agravada, entendeu pela anulação da decisão que julgou improcedente incidente de desconsideração da personalidade jurídica, ante a ocorrência de cerceamento de defesa, por falta de abertura de prazo para réplica de produção de provas.
+Sustentou omissão no acórdão recorrido por deixar de se manifestar so bre o argumento "de que as alegações apresentadas pela recorrida não podem servir de fundamento para um pedido de desconsideração da personalidade jurídica, e, desta forma, não haveria utilidade na produção de provas, em relação aos fatos por ela alegados" (fl. 210), e também quanto à ocorrência de prescrição da pretensão de execução dos títulos de crédito em razão do transcurso do prazo de mais de três anos entre o trânsito em julgado do acórdão que reconheceu a possibilidade de execução das duplicatas nos autos da ação originária e a distribuição do cumprimento de sentença.
+Defendeu que caberia a apreciação pela Câmara julgadora da não utilidade da produção de provas sobre os fatos alegados pela agravada, que não constituem pressupostos para a desconsideração da personalidade jurídica, pois não se sujeitam às hipóteses de incidência do artigo 50 do Código Civil, que exige abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial.
+Ao final, requereu o provimento do recurso, a fim de que seja proferido novo julgamento, sanando-se os vícios apontados.
+Foram apresentadas contrarrazões (fls. 229-240).
+No agravo (fls. 246-254), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (fls. 257-267).
+Juízo negativo de retratação ( fl. 268).
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022, II, do CPC/2015, quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, assim entendeu (fls. 202-204):
+A preliminar de nulidade da decisão agravada por cerceamento de defesa, por falta de abertura de prazo para réplica e de produção de provas, deve ser acolhida.
+De fato, desconsiderando o pedido expresso do agravante "para provar o alegado por todas as provas em direito admitidas, em especial pelo depoimento pessoal da Executada, sob pena de confissão, oitiva de testemunhas, juntada de novos documentos, além de todos os demais que sejam necessários no curso deste incidente" (fl. 8 dos autos do incidente), deixando de oportunizar a produção da prova nos termos em que requerida, veio a M Ma. Juíza a quo a julgar o pedido antecipadamente (e conforme se denota da r. Decisão) fundamentando a rejeição exatamente na premissa de que o agravante "não se desincumbiu de seu ônus de comprovar de forma inconteste tenha ele agido em abuso de direito (desvio de finalidade ou confusão patrimonial)".
+Sob esta relevante circunstância, não há como deixar de reconhecer o cerceamento de defesa pois a prova cuja ausência foi fundamento da rejeição não se produziu justamente porque se deu o precipitado julgamento do incidente. Violados, então, princípios constitucionais que integram o due process of law, padece a r. decisão de vício insanável que a inquina de nulidade.
+A propósito, prova que se faz também necessária (como a própria r. decisão veio a proclamar) para configuração da prática do "abuso de direito (desvio de finalidade ou confusão patrimonial)" tanto dos sócios atuais como dos retirantes à época em que integravam o quadro societário, lembrando que o limite temporal de responsabilidade do sócio retirante, previsto nos artigos 1.003, parágrafo único e 1.032, do Código Civil, aplica-se apenas às obrigações ordinárias contraídas enquanto integrante da sociedade empresária, excluídas as marcadas pela excepcionalidade do abuso.
+Desta forma, como exposto, patente o cerceamento de defesa, eis que após a contestação apresentada, o julgamento antecipado impossibilitou a oportunidade da parte agravante de comprovar suas alegações, desconsiderando seu pedido para tanto.
+A nulidade há de ser reconhecida, como de fato se reconhece, anulando a r. decisão para que se confira ao agravante e até mesmo aos agravados a oportunidade para produção de provas que entendam necessárias à comprovação dos fatos segundo os ônus impostos pelo artigo 373 do Código de Processo Civil.
+Nesse sentido, já se manifestou este E. Tribunal:
+ ..
+Feitas tais considerações, anulada a r. decisão agravada em razão do cerceamento de defesa, restam prejudicadas a apreciação das demais teses expostas.
+O caso, portanto, é de reforma da r. decisão para dar provimento ao recurso, anulando-se a decisão agravada permitindo-se o prosseguimento do incidente para a produção de provas.
+Por fim, sedimentado entendimento de que não está obrigado o julgador a citar todos os artigos de lei e da Constituição Federal para fins de prequestionamento, ficando, então, consideradas prequestionadas toda a matéria e disposições legais discutidas pelas partes.
+Extrai-se ainda do acórdão dos embargos de declaração (fls. 223-224):
+O V. Acórdão bem fundamentou que foi desconsiderado o pedido expresso da embargada/agravante para produção de prova e o feito foi julgado antecipadamente fundamentando a rejeição exatamente na premissa de que a recorrida/agravante não se desincumbiu de forma inconteste do seu ônus de comprovar que a embargante/agravada agiu em abuso de direito/desvio de finalidade ou confusão patrimonial  .. :
+  ..
+Quanto à alegação de prescrição, constou expressamente do V. Acórdão que uma vez anulada a r. decisão agravada em razão do cerceamento de defesa, restam prejudicadas a apreciação das demais teses expostas, dentre elas a prejudicial de mérito suscitada.
+Não há que se cogitar em carência de fundamentação do r. Julgado, tampouco afronta ao disposto no artigo 93, IX da Constituição Federal e artigo 489 do Código de Processo Civil, por apresentar argumentação contrária aos interesses da parte.
+Os embargos de declaração não se prestam a forçar debate acerca de critérios utilizados pela Turma Julgadora para resolução da lide, tampouco para forçar debate sobre os elementos de convencimento, de cognição que nortearam a fundamentação lastro do Julgado sob rubrica de omissão.
+Desse modo, não assiste razão à parte agravante, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Ademais, modificar o entendimento do acórdão impugnado que concluiu pela anulação da decisão agravada em razão de cerceamento de defesa, bem como pela prejudicialidade na apreciação da prescrição, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
