@@ -1,0 +1,80 @@
+DECISÃO
+Cuida de agravo (art. 1.042 do CPC/15), interposto por ITAU UNIBANCO S.A e ITAU SEGUROS S/A, contra decisão que não admitiu o recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, alínea "a", do permissivo constitucional, desafia acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 2985-2987, e-STJ):
+APELAÇÃO CÍVEL - AÇÃO DE PRESTAÇÃO DE CONTAS - Primeira fase - Alusão a coisa julgada - Ações diversas com pedidos diversos - Possibilidade de a ação de exigir contas - Eventual discussão sobre o mérito dos valores aplicados ou mesmo de seu resgate não obsta o pleito de pedir contas - Apelo provido.
+Os embargos de declaração opostos foram parcialmente acolhidos, nos seguintes termos (fls. 2999-3001, e-STJ):
+EMBARGOS DE DECLARAÇÃO - APELAÇÃO CÍVEL - Esclarecimento quanto à necessidade de atualização da verba honorária - Pedido de fixação de juros de mora - Impossibilidade - Embargos acolhidos parcialmente.
+Opostos novos aclaratórios, foram acolhidos conforme a seguinte ementa (fls. 3014-3018, e-STJ):
+EMBARGOS DE DECLARAÇÃO - AÇÃO DE PRESTAÇÃO CONTA - Equívoco ao reconhecer que a ação estaria na sua primeira fase, enquanto o correto seria segunda fase - Rejeição de coisa julgada, pois as ações têm fundamento diverso - Viabilidade legal do autor de pedir conta mesmo tendo sido vencido em outra ação na qual requeria restituição de valores - Embargos acolhidos para reconhecer o erro material e determinar o prosseguimento da ação.
+Os últimos embargos de declaração opostos foram rejeitados (fls. 3024-3026, e-STJ).
+Nas razões de recurso especial (fls. 3029-3041, e-STJ), a insurgente apontou violação aos seguintes artigos:
+a) 489, §1º, IV, e 1.022, II, parágrafo único, II, do CPC, pois o acórdão recorrido não se manifestou sobre o fato de que a questão objeto da ação de prestação de contas já foi analisada e sobre ela recai o manto da coisa julgada material;
+b) 502 do CPC, ao argumento de que o recorrido já postulou demanda com o mesmo objeto da presente. Portanto, a decisão recorrida viola a coisa julgada.
+Contrarrazões às fls. 3046-3054, e-STJ.
+Em razão do juízo negativo de admissibilidade na origem, fora interposto o presente agravo (fls. 3060-3069, e-STJ), visando destrancar o processamento da insurgência.
+Contraminuta às fls. 3072-3075, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a insurgente aponta violação aos artigos 489 e 1.022 do CPC/15, ao argumento de que o Tribunal a quo não se manifestou sobre o fato de que a questão objeto da ação de prestação de contas já foi analisada e sobre ela recai o manto da coisa julgada material
+Todavia, da leitura do acórdão recorrido (fls. 2985-2987, e-STJ), denota-se que a questão apontada como omissa fora apreciada pelo órgão julgador, de forma ampla e fundamentada, consoante se infere dos seguintes trechos:
+Inconformado, apela o autor alegando não haver coisa julgada, posto que, o objeto da ação e o pedido são diversos daquela que requer o ressarcimento de danos materiais e morais. Nesta, a condenação resume-se na prestação de contas, portanto, não se pode afirmar a existência de coisa julgada.
+ ..
+Nesta fase, o que se analisa é tão somente a obrigação da parte em prestar contas. Ora, havendo aplicação, por parte do autor, de valores em investimentos geridos pelas rés, decorre naturalmente deste fato a necessidade da prestação de contas, em que serão estabelecidos o valor aplicado, sua rentabilidade, eventual saque e nada mais. Todo o restante, poderá ser objeto de outro pleito, caso, não tenha sido abrangido naquela ação.
+Desta maneira, não vislumbro a existência de coisa julgada, pois este pedido é diverso daquele outro. Além disso, e improcedência de ação em se que pugna por indenização não elimina a viabilidade da prestação de contas.
+No acórdão proferido em embargos de declaração (fls. 3014-3018, e-STJ), o Tribunal complementa a decisão com a seguinte fundamentação:
+A presente ação tem como fundamento a afirmação do embargado de que firmou contrato com as embargantes de plano de previdência -VGBL- e de que foi notificado da ocorrência do bloqueio de valores.
+Obteve a informação de que os valores foram bloqueados judicialmente e de que sua conta estaria zerada.
+Em face disto, foi ajuizada esta ação para as embargantes prestarem contas.
+A r. sentença de fl. 2.611 julgou extinta a ação, admitindo a coisa julgada, posto que o pretendido já fora objeto de outra ação com igual teor.
+Houve recurso por parte do embargado que foi acolhido, sendo anulada a sentença.
+Retornando os autos à Vara de Origem, novamente o ilustre Magistrado reconheceu a existência de coisa julgada e extinguiu a ação.
+Em sua razão de apelo, o embargado alega que esta ação tem pedido totalmente diverso daquela, pois esta tem como objeto a prestação de contas enquanto a outra, a restituição de débito indevido.
+ ..
+Ao analisar a segunda fase, o Magistrado reconheceu haver coisa julgada pois tramitou perante a Primeira Vara Cível ação que teria o mesmo pleito e que foi julgada improcedente. Assim por consequência, há coisa julgada.
+A sentença afirmada na decisão está às fls. 2.559/ 2.560 e se refere a ação de restituição.
+Efetuada esta digressão do que consta dos autos, é de se admitir a ocorrência de erro no acórdão ao afirmar que se tratava da primeira fase da ação de exigir contas, pois esta obrigação já estaria reconhecida.
+No entanto, com o devido respeito a entendimento diverso, creio, tal como consta no acórdão, não haver coisa julgada, eis que os temas são diversos. A ação a que se refere a parte tem como finalidade a devolução de valores, ação está já julgada.
+Todavia, mesmo ocorrendo esta circunstância, há viabilidade da parte pedir contas sobre o ocorrido.
+Assim, os embargos devem ser acolhidos para os seguintes fins:
+a) Reconhecer que a ação está na segunda fase.
+b) Reconhecer a inexistência de coisa julgada, devendo, portanto, a ação prosseguir. Para que não ocorra prejuízo, devido à extinção da ação, deve ser possibilitada aos embargantes a apresentação das contas.
+Não se vislumbra, portanto, a omissão apontada.
+Ademais, consoante entendimento desta Corte, não configura ofensa ao art. 489 do CPC, o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, quando encontrou razões suficientes para a decisão, como ocorre na hipótese. Nesse sentido, confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. VIOLAÇÃO AO ART. 489 DO NCPC. NÃO OCORRÊNCIA. INCLUSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS AO QUAL O ASSISTIDO ESTÁ VINCULADO. AUSÊNCIA DE PRÉVIA FORMAÇÃO DA RESERVA MATEMÁTICA. INVIABILIDADE. PRECEDENTES. AGRAVO NÃO PROVIDO. 1. Não configura ofensa ao art. 498, II, § 1º, e IV, do Novo Código de Processo Civil o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.  ..  3. Agravo interno ao qual se nega provimento. (AgInt no REsp 1693508/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ANULATÓRIA. ESCRITURA PÚBLICA DE COMPRA E VENDA. EXCEÇÃO DE USUCAPIÃO. REQUISITOS. AUSÊNCIA. MÁ-FÉ COMPROVADA. MATÉRIA PROVA. SÚMULA Nº 7/STJ. OMISSÃO. INEXISTÊNCIA. LITIGÂNCIA DE MÁ-FÉ. CERCEAMENTO DE DEFESA. RECURSO. FUNDAMENTAÇÃO. DEFICIÊNCIA. SÚMULA Nº 284/STF. 1. Não há ofensa aos arts. 489 e 1.022 do CPC/2015 se o tribunal de origem se pronuncia fundamentadamente a respeito das questões postas a exame, dando suficiente solução à lide, sem incorrer em nenhum vício capaz de maculá-lo.  ..  5. Agravo interno não provido. (AgInt nos EDcl no AREsp 1094857/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018)  grifou-se
+A propósito, o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, tampouco mencionar todos os dispositivos legais apontados nas razões recursais, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu no caso em apreço.
+Nesse sentido, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE DE VEÍCULOS.  ..  OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO DO JULGADO. IMPROCEDÊNCIA DA ALEGAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ESBULHO. SÚMULA N. 7/STJ. 1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 165, 458, II e 535 do Código de Processo Civil.  ..  4. Agravo regimental a que se nega provimento. (AgRg no Ag 1067781/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/04/2015, DJe 17/04/2015)  grifou-se
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGOS 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. 1. Não viola os artigos 165, 458 e 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.  ..  5. Agravo regimental não provido. (AgRg no REsp 1417828/AC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/09/2014, DJe 01/10/2014)  grifou-se
+Afasta-se, portanto, a alegada ofensa aos artigos 489 e 1.022 do CPC/15.
+2. A recorrente afirma ainda, que o acórdão ora impugnado violou o art. 502 do CPC, ao argumento de que o recorrido já postulou demanda com o mesmo objeto da presente. Portanto, a decisão recorrida viola a coisa julgada.
+No caso concreto, o Tribunal local, após analisar conjunto fático-probatório dos autos, entendeu que a questão não estaria acobertada pelo manto da coisa julgada.
+Confira-se trecho extraído do aresto hostilizado (fls. 3017, e-STJ):
+No entanto, com o devido respeito a entendimento diverso, creio, tal como consta no acórdão, não haver coisa julgada, eis que os temas são diversos. A ação a que se refere a parte tem como finalidade a devolução de valores, ação está já julgada.
+Todavia, mesmo ocorrendo esta circunstância, há viabilidade da parte pedir contas sobre o ocorrido.
+Assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. BEM DE FAMÍLIA. IMPENHORABILIDADE. PRECLUSÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, não é possível rever a conclusão do acórdão recorrido em relação à questão discutida estar acobertada pela coisa julgada e pela preclusão, uma vez que seria necessário o reexame do conjunto fático-probatório dos autos, que é vedado em razão do óbice da Súmula 7 do STJ.
+2. O STJ possui firme o entendimento no sentido de que "ainda que a questão seja de ordem pública, há preclusão consumativa se a matéria tiver sido objeto de decisão anterior definitivamente julgada" (AgRg no AREsp 630.587/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/6/2016, Dje 1/7/2016).
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1064314/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/08/2018, DJe 28/08/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PRESTAÇÃO DE CONTAS. COISA JULGADA. VIOLAÇÃO DO ARTIGO 1022 DO CPC/15. NÃO OCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/73. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A Corte local, com base nos elementos fático-probatórios dos autos e na interpretação da decisão exequenda, afastou a alegação de que a recorrente não dispõe dos meios para cumprir a obrigação de prestar contas, bem como consignou a incidência da coisa julgada sobre a questão da apresentação dos documentos hábeis a demonstrar a correção de tais contas. Assim, resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso. Ademais, "em regra, a interpretação das instâncias ordinárias acerca do título exequendo, ainda que judicial, não se submete ao crivo do recurso especial, por encontrar o óbice de que trata o enunciado n. 7, da Súmula" (AgRg no AREsp 10.737/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/03/2012, DJe 22/03/2012).
+3. Agravo interno não provido.
+(AgInt no AREsp 1036919/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/04/2018, DJe 20/04/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. PERDA SUPERVENIENTE DE OBJETO RECONHECIDA. DESACERTO DA DECISÃO AGRAVADA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. LAUDO PERICIAL. OFENSA A COISA JULGADA. ÓBICE DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS. PRECLUSÃO. SÚMULA 283/STF. AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão que julgou prejudicado o recurso especial pela superveniente perda de objeto. Reconsideração.
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+3. Não é possível, na via especial, a modificação das premissas lançadas no v. acórdão recorrido acerca da adequação do cálculo elaborado pelo perito judicial com a coisa julgada, tal como propugnada, pois a isso se opõe o óbice contido na Súmula 7 do STJ.
+4. A fundamentação apresentada pelo Tribunal de origem, relativa à preclusão da questão relativa ao termo a quo dos juros, não foi impugnada nas razões do recurso especial. Súmula 283/STF.
+5. Agravo interno provido para negar provimento ao recurso especial.
+(AgInt no OF no AREsp 708.474/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 30/08/2018, DJe 04/09/2018)  grifou-se
+Inafastável, portanto, a incidência da Súmula 7/STJ.
+Advirta-se, por derradeiro, que eventual interposição de recurso manifestamente inadmissível ou protelatório poderá ensejar, conforme o caso, a aplicação de multa calculada sobre o valor atualizado da causa (arts. 1.021, § 4º e 1.026, § 2º, CPC/2015).
+3. Do exposto, conheço do agravo e nego provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
