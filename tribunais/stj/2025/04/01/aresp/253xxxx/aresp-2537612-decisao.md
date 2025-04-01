@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da alegação de deserção (fls. 2.352-2.353).
+O acórdão recorrido encontra-se assim ementado (fl. 2.018):
+CIVIL. PROCESSO CIVIL. APELAÇÃO EM AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SFH. APELAÇÃO DA CAIXA SEGURADORA. 1) PREJUDICIAL DE MÉRITO DE PRESCRIÇÃO. REJEITADA À UNANIMIDADE. 2) PRELIMINARES DE INCOMPETÊNCIA, ILEGITIMIDADE PASSIVA, INEXISTÊNCIA DE VÍNCULO COM O SFH, ILEGITIMIDADE ATIVA, INÉPCIA, FALTA DE INTERESSE DE AGIR, CERCEAMENTO DE DEFESA, E CARÊNCIA DA AÇÃO REJEITADAS À UNANIMIDADE. 3) MÉRITO - VÍCIOS DE CONSTRUÇÃO COMPROVADOS. RESPONSABILIDADE DA SEGURADORA CONFIGURADA. APLICABILIDADE DO CDC. CABIMENTO. PRECEDENTES DO STJ. MULTA DECENDIAL. CABIMENTO. PREVISÃO CONTRATUAL. LIMITAÇÃO DO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. QUANTUM APURADO EM PERÍCIA. JUROS DE MORA E CORREÇÃO MONETÁRIA CORRETAMENTE FIXADOS. RECURSO IMPROVIDO À UNANIMIDADE. RECURSO DE RUBEM CARLOS BATISTA DO EGITO, WELLIGTON JOSÉ LEÃO E ILA MARIA NUNES DE CASTRO. HONORÁRIOS DO ASSISTENTE TÉCNICO E RESSARCIMENTO DOS CUSTOS DO PROJETO DE REFORÇO ESTRUTURAL REALIZADO PELOS AUTORES. ÔNUS DA PARTE VENCIDA. RESTITUIÇÃO DEVIDA. REVOGAÇÃO DE MANDATO NO CURSO DA DEMANDA. PEDIDO DE FIXAÇÃO DA PROPORCIONALIDADE DOS HONORÁRIOS SUCUMBENCIAIS. PRETENSÃO ACOLHIDA ATENDENDO AOS PARÂMETROS DO ART. 85 §2º DO NCPC. APELAÇÃO A QUE SE DÁ PROVIMENTO. SENTENÇA REFORMADA. DECISÃO UNÂNIME.
+Os embargos de declaração foram rejeitados (fls. 2092).
+Nas razões do recurso especial (fls. 2483), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos "artigos 45, 64, §1º, 125 II, 371, 373, 485, VI, 487,11, 1.040 do Código de Processo Civil de 2015, afrontando ainda os artigos 1º e 1º-A da Lei 12.409/2011 e 3º, 4º e 5º da Lei 13.000/2014 e artigos 408, 413, 757, 758, 768, 781, 784 do CC/02 e o art. 1º, p. ú., da Lei nº 8.004/90, com redação que lhe foi dada pela Lei nº 10.150/00, bem como o princípio do devido processo legal e da instrumentalidade das formas" (fl. 2.123).
+No agravo (fls. 2.481-2.572), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 2.578-2.594).
+É o relatório.
+Decido.
+Apesar de intimada a recolher as custas em dobro, a parte agravante juntou o comprovante do preparo anteriormente recolhido e recolheu novo preparo na forma simples, sob o fundamento de que, "como as custas forma devidamente quitadas desde a interposição do recurso e o preparo do STJ no ano de 2018 era no valor de R$ 179,37 (cento e setenta e nove reais e trinta e sete centavos), efetuou o pagamento de R$ 192,83 (cento e noventa e dois reais e oitenta e três centavos) referente ao valor atualizado de 2019" (fl. 2.335).
+Assim, não havendo o recolhimento do preparo em dobro, em desobediência à determinação judicial, é caso de não conhecimento do agravo por deserção.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Publique-se e intimem-se.
+ EMENTA
