@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por BOTAFOGO DE FUTEBOL E REGATAS em face da decisão acostada às fls. 277-284 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 72-80 e-STJ, proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. REGIME CENTRALIZADO DE EXECUÇÕES. LEI Nº 14.193/202 (LEI DA SOCIEDADE ANÔNIMA DE FUTEBOL). PLANO DE PAGAMENTO DE CREDORES.1. Decisão que julgou improcedente a impugnação apresentada pelos ora agravantes, pela qual postularam o aditamento do Plano para que fosse incluído na "Lista de Credores em Execução" o valor atualizado do crédito da Novonor Participações S. A. - em recuperação judicial ("NPI"). Requereram também a inclusão, na lista de credores trabalhistas, dos honorários advocatícios de seus patronos, os quais têm natureza alimentar, devendo ser fixados em 10% (dez por cento) do valor do débito. Por fim, solicitaram a retificação do Plano para que fossem incluídas as receitas provenientes da cessão de direitos dos jogadores do agravado (Botafogo Futebol e Regatas) na lista de receitas destinadas ao pagamento dos credores. 2. O crédito titularizado pela NPI foi objeto de execução de título extrajudicial, concernente a contratos de mútuo celebrados em 13.10.2013 e 12.02.2014. Exceção de pré-executividade rejeitada. Embargos à execução e ação anulatória que não retiram a liquidez e certeza da dívida. 3. A Lei nº 14.193/2021exige unicamente que a dívida seja objeto de execução, uma vez que são justamente os feitos em fase executória que sofrem a suspensão pelo deferimento do RCE. Crédito que deve ser listado como "em execução", assim como os honorários advocatícios, fixados por força do art. 827 do CPC/2015. 4. Receita oriunda de cessão de direitos desportivos dos atletas que deve ser incluída para fins de pagamento das dívidas. Lei que restringe o conceito de receita apenas para fins tributários. Os direitos desportivos, como bens incorpóreos, não têm existência materializável, porém existem juridicamente, inserindo-se no patrimônio dos devedores, constituindo garantia de pagamento dos seus credores.5. RECURSO A QUE SE DÁPROVIMENTO.
+Opostos embargos declaratórios (fls. 99-101 e-STJ), não foram acolhidos, conforme acórdão de fls. 128-137 e-STJ.
+Nas razões de recurso especial (fls. 155-167 e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 1.022, I, do CPC/15; (ii) arts. 4º e 5º da LINDB; (iii) art. 10, I c/c art. 32, § 1º, da Lei nº 14.193/2021 e Norma ITG 2003 do Conselho Federal de Contabilidade.
+Aduziu, em síntese, que houve omissão no aresto guerreado, bem como houve equívoco ao afastar a interpretação sistemática na solução da lide, incluindo as cessões de direitos federativos nas receitas destinadas ao cumprimento das obrigações previstas no plano.
+Contrarrazões às fls. 251-271 e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre por ausência de omissão no aresto guerreado e ante a incidência da Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 302-314 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 318-337 e-STJ.
+É o relatório.
+Decide-se.
+1. Atendidos os pressupostos de admissibilidade do agravo.
+Da análise do recurso especial, constata-se a relevância das razões deduzidas, o que autoriza a reautuação dos autos, nos termos do art. 34, XVI, do RISTJ, sem prejuízo do ulterior juízo definitivo de admissibilidade acerca do apelo extremo.
+2. Do exposto, dá-se provimento ao agravo para determinar a reautuação dos autos como recurso especial, para melhor exame da controvérsia.
+Publique-se.
+Intimem-se.
+EMENTA
