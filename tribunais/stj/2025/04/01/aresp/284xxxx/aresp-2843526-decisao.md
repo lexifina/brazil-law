@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1.042, do CPC/15), interposto por LUIZ FERNANDO CARDOSO RAMOS, contra decisão que negou seguimento a recurso especial, com fundamentos no enunciado contido na Súmula 283/STF, por deficiência de fundamentação, consubstanciada na subsistência de fundamento válido não atacado, apto por si só para manter a integridade do julgado (fls. 534/535, e-STJ):
+Em suas razões de agravo, buscando destrancar o processamento do apelo nobre (fls. 542/545, e-STJ), o recorrente refuta o emprego da Súmula 7/STJ e alega, de maneira superficial, haver impugnado "todos os pontos e fundamentos da decisão impugnada" (fl. 544, e-STJ).
+Contraminuta às fls. 550/553 (e-STJ).
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1. Em um exame acurado das razões de agravo (art. 1.042, do CPC/15), observa-se que o recorrente limitou-se a renegar, genericamente, o juízo de admissibilidade realizado na origem, reafirmando os argumentos deduzidos no apelo nobre, sem, contudo, efetivamente demonstrar a inadequação do óbice invocado.
+Em juízo prévio de admissibilidade negou-se seguimento ao recurso especial com fulcro na Súmula 283/STF, por deficiência de fundamentação, consubstanciada na subsistência de fundamento válido não atacado, apto por si só para manter a integridade do julgado.
+Conforme destacado na decisão recorrida, "a parte recorrente discorre, genericamente, acerca do preenchimento dos requisitos para o benefício da gratuidade de justiça, sem formular argumentação específica, capaz de derruir a conclusão do acórdão recorrido pautada na intempestividade do agravo interno" (fl. 534, e-STJ).
+Em suas razões de agravo (art. 1.042, do CPC/15), com o propósito de infirmar o emprego do referido óbice sumular, ateve-se o recorrente a alegar, de maneira superficial e genérica, que "a decisão denegatória incorre em equívoco, pois, conforme se demonstrará, a peça recursal efetivamente rebate todos os pontos e fundamentos da decisão impugnada" (fl. 544, e-STJ).
+Todavia, olvidou de demonstrar, analiticamente, em que trecho das razões do recurso especial houve a efetiva impugnação do fundamento relacionado com a intempestividade do agravo interno, com vistas a afastar o emprego da Súmula 283/STF.
+Em reforço, traz-se à colação o seguinte trecho do julgado recorrido (fl. 465, e-STJ):
+Não conheço do agravo interno.
+O recorrente busca, com a interposição deste reclamo, irresignar-se contra decisão que lhe indeferiu a justiça gratuita. Em suas razões, portanto, alega que através das documentações colacionadas aos autos demonstrou devidamente seu direito à gratuidade.
+Verificando o caderno, entretanto, noto que a decisão que negou o beneplácito ao agravante foi proferida em 12.03.2024 (ev. 46, 2G). Dessa forma, aberto o prazo para interposição de recurso (15 dias) em 25.03.2024, esse findou-se em 16.04.2024 (ev. 47, 2G). Interposto o agravo somente em 17.05.2024 (ev. 55, 2G), sem mais, este encontra-se evidentemente intempestivo.
+Salienta-se que o prazo de 15 (quinze) dias para interposição de recursos, com exceção dos embargos de declaração, é matéria prevista no diploma processual civil, de conhecimento do profissional da advocacia. É seu dever, por isso mesmo, atentar-se aos prazos lançados a fim de que a prática dos atos processuais ocorra a tempo e modo.
+No caso em tela, observo que, na verdade, o recurso foi interposto no prazo aberto pela decisão de ev. 50, 2G, seguinte à atacada. Todavia, é de se ressaltar, esse decisum não decidiu sobre a concessão ou não da justiça gratuita, razão da irresignação deste recurso, mas sim julgou deserta a apelação interposta pelo agravante, tendo em vista a ausência de recolhimento do preparo recursal, oportunizado no ev. 50, 1G.  grifou-se
+Em suas razões de recurso especial, amparado nas alíneas "a" e "c" do permissivo constitucional (fls. 474/489, e-STJ), o recorrente apontou, além de dissenso interpretativo, ofensa ao art. 99, §§ 2º e 3º, do CPC/15, defendendo a existência de elementos suficientes para o acolhimento da pretensão voltada para o deferimento do pedido de assistência judiciária, dada sua condição de hipossuficiente.
+Neste contexto, além da subsistência de fundamento válido não atacado a atrair a incidência da Súmula 283/STF, deveria incidir sobre a espécie, também, o óbice da Súmula 284/STF, por deficiência de fundamentação, calcada no descompasso argumentativo entre os fundamentos que embasaram o aresto hostilizado e a tese defendida pela parte em suas razões recursais.
+Como é cediço, a falta de ataque específico aos fundamentos da decisão agravada encontra óbice na Súmula 182/STJ e no artigo 932, III, do NCPC:
+Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (grifos acrescidos)
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 26.11.2008 - grifos nossos).
+E, ainda, "Inexistindo impugnação específica ao decisum impugnado, restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro Jorge Mussi, Corte Especial, DJe 14/12/2015).
+2. Do exposto, com fulcro no art. 932, III, do CPC/2015, e na aplicação, por analogia, do Enunciado n. 182 da Súmula deste STJ, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
