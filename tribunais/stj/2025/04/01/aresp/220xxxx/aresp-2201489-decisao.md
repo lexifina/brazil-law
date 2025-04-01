@@ -1,0 +1,91 @@
+DECISÃO
+1. Trata-se de agravo de decisão que inadmitiu recurso especial interposto por TNH TRANSPORTES E LOGISTICA EIRELI E OUTROS fundado no art. 105, III, alínea "a" da Constituição Federal contra v. acórdão do TJ, assim ementado:
+CIVIL. PROCESSUAL. ADMINISTRATIVO. CONTRATO DE MÚTUO BANCÁRIO. MONITÓRIA. 1. Não havendo provas da ocorrência da Assembleia Geral da Recuperação Judicial, é temerária a extinção do processo em face da pessoa jurídica devedora. 2. A fiança/aval é um ato cambiário pelo qual uma pessoa, o fiador/avalista, compromete-se a pagar um título de crédito nas mesmas condições do devedor. Com ele, fica estabelecida uma obrigação autônoma, paralela e equivalente a do avalizado, por meio da qual fica possibilitada a exigência da dívida, pelo credor, diretamente do avalista/fiador, mesmo se o avalizado não a puder cumprir.
+(fls. 351-352)
+Em suas razões recursais, as agravantes alegam violação aos arts. 1.022 do CPC, arts. 49 e 59 da LREF.
+Sustenta, em síntese, que:
+i) o acórdão recorrido foi omisso;
+ii) deve ocorrer "a extinção da demanda monitória diante da submissão do crédito aos efeitos da recuperação judicial da Recorrente TNH, tramitando perante a Primeira Vara da Comarca de Imbituba, do Estado de Santa Catarina (autos nº 5000214- 69.2020.8.24.0030), o que foi devidamente conhecido no incidente de impugnação nº 5003993-32.2020.8.24.0030 (evento 15, out2)".
+iii) "o crédito postulado é inexigível, porquanto a decisão que deferiu o processamento da Recuperação Judicial determinou expressamente o afastamento da mora também em razão dos fiadores e, havendo a novação do crédito por expressa disposição do plano de recuperação judicial".
+iv) "os créditos serão pagos conforme previsto no plano e não de acordo com o originalmente pactuado, porque não mais subsiste o valor originalmente contratado, mas sim o valor constante no título judicial".
+Contrarrazões apresentadas às fls. 428-433.
+É o relatório. Passo a decidir.
+2. Em relação à omissão do julgado, é firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+Na espécie, verifica-se que o acórdão recorrido decidiu fundamentadamente sobre o porquê da homologação do plano de recuperação judicial (novação do crédito, por conseguinte) não extinguir a execução frente aos devedores solidários da recuperanda, de maneira que os embargos de declaração opostos pela agravantes, de fato, não comportavam acolhimento.
+Assim, não há falar em omissão.
+3. Quanto ao mérito, o Tribunal de origem decidiu que:
+Caso Concreto
+AÇÃO MONITÓRIA E A RECUPERAÇÃO JUDICIAL
+A sentença considerou temerária a extinção do processo em face da pessoa jurídica, porquanto o processo de recuperação judicial estar carente de desfecho.
+Compulsando os autos, entendo por correta a sentença no ponto.
+Com efeito, após o pedido da CEF para inclusão do crédito ora controverso no plano de recuperação judicial (ev. 22, OUT4, origin), em que pese a concordância da embargante (ev. 22, OUT6, origin), não foi juntada nenhuma decisão daquele juízo quanto ao ponto.
+Ademais, ainda que a embargante noticie a ocorrência da Assembleia Geral da Recuperação Judicial em 23.07.2021, não juntou nenhum documento que comprove o alegado.
+Da mesma forma, por ocasião do apelo, também não trouxe comprovação de que ocorrera a Assembleia Geral de Recuperação Judicial, devendo ser mantido o decidido em sentença quanto à pessoa jurídica.
+Outrossim, quanto às pessoas físicas, imperioso destacar que os embargantes estão sendo executados na condição de sócios da pessoa jurídica em recuperação judicial, mas na condição de avalistas da dívida executada (ev. 1, CONTR6, fl. 9, origin).
+Acerca da matéria, a 2ª Seção do Superior Tribunal de Justiça, no julgamento do RESP nº 1.333.349/SP, sob o rito dos recursos repetitivos (Tema 885), fixou a seguinte tese:
+A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005.
+No mesmo sentido, foi editada a Súmula 581 pelo STJ:
+Súmula 581 - A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória.
+Do voto condutor da decisão proferida no RESP nº 1.333.349/SP, da lavra do Ministro Luis Felipe Salomão, destaca-se os seguintes fundamentos, que bem esclarecem a questão:
+(..)
+3.1. Deferimento do processamento da recuperação judicial - arts. 6º, caput, e 52, inciso III, da Lei n. 11.101/2005
+Apresentado o pedido por empresa que busca o soerguimento, estando em ordem a petição inicial - com a documentação exigida pelo art. 51 da Lei n. 11.101/2005-, o juiz deferirá o processamento da recuperação judicial (art. 52), iniciando-se em seguida a fase de formação do quadro de credores, com apresentação e habilitação dos créditos. Portanto, uma vez deferido o processamento da recuperação, entre outras providências a serem adotadas pelo magistrado, determina-se a suspensão de todas as ações e execuções, nos termos dos arts. 6º e 52, inciso III, da Lei n. 11.101/2005:
+Art. 6º. A decretação da falência ou o deferimento do processamento da recuperação judicial suspende o curso da prescrição e de todas as ações e particulares do sócio solidário.
+ ..
+Art. 52. Estando em termos a documentação exigida no art. 51 desta Lei, o juiz deferirá o processamento da recuperação judicial e, no mesmo ato:
+ ..
+III - ordenará a suspensão de todas as ações ou execuções contra o devedor, na forma do art. 6º desta Lei, permanecendo os respectivos autos no juízo onde se processam, ressalvadas as ações previstas nos §§ 1º, 2º e 7º do art. 6º desta Lei e as relativas a créditos excetuados na forma dos §§ 3º e 4º do art. 49 desta Lei;
+Em muitos casos analisados por esta Corte, os devedores solidários da obrigação - que tem como devedor principal a empresa recuperanda - indicam a parte final do caput do art. 6º como fundamento do pedido de suspensão das ações individuais ajuizadas contra si, invocando a redação que determina a suspensão das ações não apenas contra o devedor principal, mas também "aquelas dos credores particulares do sócio solidário", sendo certo que, em não raras vezes, o devedor solidário é também sócio da pessoa jurídica em recuperação.
+A mencionada tese, todavia, se bem analisada, baralha os conceitos de sócio solidário e de devedor solidário e, de fato, não se sustenta.
+É que o caput do art. 6º da Lei n. 11.101/2005, no que concerne à suspensão das ações por ocasião do deferimento da recuperação, alcança os sócios solidários, figuras presentes naqueles tipos societários em que a responsabilidade pessoal dos consorciados não é subsidiária ou limitada às suas respectivas quotas/ações, como é o caso, por exemplo, da sociedade em nome coletivo (art. 1.039 do CC/2002) e da sociedade em comandita simples, no que concerne aos sócios comanditados (art. 1.045 do CC/2002).
+A razão de ser da norma que determina, tanto na falência quanto na recuperação judicial, a suspensão das ações dos credores particulares dos sócios solidários repousa no fato de que, na eventualidade de decretação da falência da sociedade, os efeitos da quebra estendem-se àqueles, nos mencionados tipos societários menores, mercê do que dispõe o art. 81 da Lei n. 11.101/2005:
+Art. 81. A decisão que decreta a falência da sociedade com sócios ilimitadamente responsáveis também acarreta a falência destes, que ficam sujeitos aos mesmos efeitos jurídicos produzidos em relação à sociedade falida e, por isso, deverão ser citados para apresentar contestação, se assim o desejarem.
+Assim, na falência, a vis attractiva do Juízo universal determina a suspensão das ações individuais contra o falido (inclusive as ajuizadas contra os sócios solidários), devendo o crédito ser habilitado na execução concursal.
+Na recuperação judicial, por sua vez, a crise da empresa revela-se como aquela do próprio sócio ilimitada e solidariamente responsável, devendo este participar ativamente do processo de soerguimento da sociedade - e dele próprio - sob pena de, futuramente, ser-lhe decretada a falência por extensão da quebra da pessoa jurídica.
+Nesse sentido, e por todos, confira-se o magistério de Fábio Ulhoa Coelho:
+Quando, por outro lado, se trata de sociedade de tipo menor, é necessário distinguir a situação jurídica do sócio com responsabilidade ilimitada (qualquer um, na sociedade em nome coletivo; comanditado, na sociedade em comandita simples; acionista-diretor, na comandita por ações) da dos que respondem limitadamente (comanditário, na comandita simples e o acionista não diretor, na comandita por ações) pelas obrigações sociais. Na falência, de sociedade de tipo menor, os bens dos sócios de responsabilidade ilimitada são arrecadados pelo administrador judicial juntamente com os da sociedade. Estão, assim, sujeitos à mesma constrição judicial do patrimônio da falida (COELHO, Fábio Ulhoa. Curso de direito comercial. volume 3. 10 ed. São Paulo: Saraiva, 2009, p. 286)
+A situação é bem diversa, por outro lado, em relação aos devedores solidários ou coobrigados. Para eles, a disciplina é exatamente inversa, prevendo a Lei expressamente a preservação de suas obrigações na eventualidade de ser deferida a recuperação judicial do devedor principal.
+Nesse sentido é o que dispõe § 1º do art. 49 da Lei:
+Art. 49
+(..)
+§ 1º Os credores do devedor em recuperação judicial conservam seus direitos e privilégios contra os coobrigados, fiadores e obrigados de regresso.
+Portanto, não há falar em suspensão da execução direcionada a codevedores ou devedores solidários pelo só fato de o devedor principal ser sociedade cuja recuperação foi deferida, pouco importando se o executado é também sócio da recuperanda ou não, uma vez não se tratar de sócio solidário.
+Na I Jornada de Direito Comercial realizada pelo CJF/STJ foi aprovado o Enunciado n. 43, com a seguinte redação: "A suspensão das ações e execuções previstas no art. 6º da Lei n. 11.101/2005 não se estende aos coobrigados do devedor".
+Como se denota dos fundamentos do julgado citado, os quais adoto por razão de decidir, os benefícios da Lei 11.101/2005, dentre eles a suspensão das execuções, abrangem apenas a pessoa jurídica que postula sua recuperação judicial e eventuais sócios solidários, ou seja, sócios de responsabilidade ilimitada, que respondem com seu patrimônio pessoal pelas obrigações da pessoa jurídica. Isso porque tais sócios solidários têm seu patrimônio pessoal abrangido pelo plano de recuperação judicial da empresa e, em caso de decretação de falência da pessoa jurídica, estendem-se a eles os efeitos da quebra.
+No caso em exame, observa-se que a devedora principal TNH HATEM AHMAD MUSTAFA EIRELI não é empresa de responsabilidade ilimitada, mas limitada, de modo que não possui sócios solidários. Assim, seus sócios não terão seu patrimônio pessoal abrangido pelo plano de recuperação judicial, de modo que também não se beneficiam dos feitos daquele procedimento.
+Desse modo, nega-se provimento à apelação.
+Honorários Advocatícios
+O atual CPC inovou de forma significativa com relação aos honorários advocatícios, buscando valorizar a atuação profissional dos advogados, especialmente pela caracterização como verba de natureza alimentar (§ 14, art. 85, CPC) e do caráter remuneratório aos profissionais da advocacia.
+Cabe ainda destacar que o atual diploma processual estabeleceu critérios objetivos para fixar a verba honorária que buscam valorizara advocacia, evitando o arbitramento de honorários em percentual ou valor aviltante que, ao final, poderia acarretar verdadeiro desrespeito à profissão. Ao mesmo tempo, objetiva desestimular os recursos protelatórios pela incidência de majoração da verba em cada instância recursal.
+A partir dessas considerações, tenho que os honorários advocatícios devidos à taxa de 10% sobre o valor da causa foram adequadamente fixados, pois conforme previsto no art. 85 do novo CPC.
+Assim sendo, em atenção ao disposto no art. 85, § 2º c/c § 11, do novo CPC, majoro a verba honorária para o patamar de 12% incidentes sobre o mesmo valor.
+Prequestionamento
+Objetivando possibilitar o acesso das partes às Instâncias Superiores, considero prequestionadas as matérias constitucionais e/ou legais suscitadas nos autos, conquanto não referidos expressamente os respectivos artigos na fundamentação do voto, nos termos do art. 1.025 do Código de Processo Civil.
+Conclusão
+- apelação improvida;
+- honorários advocatícios majorados na instância recursal.
+Dispositivo
+Ante o exposto, voto por negar provimento à apelação.
+(fls. 353-358)
+Dessarte, verifica-se que o acórdão recorrido está em harmonia com a jurisprudência do STJ, definida em sede de recurso repetitivo, no sentido de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005" (REsp n. 1.333.349/SP, relator Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 26/11/2014, DJe de 2/2/2015.).
+Da mesma forma, decidiu esta Corte Superior que a "cláusula que amplia os efeitos da novação aos coobrigados é válida e oponível somente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não tendo efeito sobre os credores ausentes na Assembleia Geral, tampouco em relação aos que se abstiveram de votar ou se opuseram a essa disposição" (REsp 1.830.550/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 23/4/2024, DJe de 30/4/2024).
+Nesse sentido, ainda:
+PROCESSUAL CIVIL E EMPRESARIAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA GARANTIA SEM ANUÊNCIA DO CREDOR. MANUTENÇÃO DA EXECUÇÃO PROMOVIDA EM FACE DO AVALISTA. POSSIBILIDADE. DECISÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.333.349/SP, submetido ao rito dos recursos repetitivos, consolidou o entendimento de que a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei 11.101/2005.
+2. Outrossim, a jurisprudência desta Corte se firmou no sentido de que a "cláusula que amplia os efeitos da novação aos coobrigados é válida e oponível somente aos credores que aprovaram o plano de recuperação sem nenhuma ressalva, não tendo efeito sobre os credores ausentes na Assembleia Geral, tampouco em relação aos que se abstiveram de votar ou se opuseram a essa disposição" (REsp 1.830.550/SP, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, j. em 23/4/2024, DJe de 30/4/2024).
+3. Sob pena de esvaziamento da conservação, pelo credor, de direitos e privilégios em relação aos coobrigados, a anuência do titular da garantia é indispensável também na hipótese em que o plano de recuperação judicial prevê a suspensão ou substituição (REsp 2.059.464/RS, Relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, j. em 17/10/2023, DJe de 14/11/2023).
+4. No caso dos autos, contrariando as compreensões acima, o eg. Tribunal de Justiça confirmou a suspensão das garantias prestadas em relação aos contratos da sociedade empresária recuperanda, diante da expressa disposição a esse respeito pelo plano de recuperação judicial aprovado, embora tenha consignado que a instituição financeira agravante não fora considerada apta a votar.
+5. Agravo interno provido. Recurso especial provido.
+(AgInt no REsp n. 1.940.442/AC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 4/11/2024, DJEN de 29/11/2024.)
+_____________
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO DE RECUPERAÇÃO. GARANTIAS. SUSPENSÃO. CONSENTIMENTO. CREDOR TITULAR. NECESSIDADE.
+1. A questão controvertida resume-se a definir se a cláusula do plano de recuperação judicial que pr evê a suspensão da exigibilidade das garantias tem eficácia, obrigando a todos os credores.
+2. Com a suspensão das garantias, busca-se impedir os credores de exercerem seus direitos e privilégios contra os coobrigados após a aprovação do plano de recuperação judicial, o que resulta na extensão da novação para além das empresas em recuperação.
+3. A cláusula que prevê a suspensão das garantias, assim como a que prevê a supressão das garantias, é legítima e oponível apenas aos credores que aprovaram a recuperação sem nenhuma ressalva, não sendo eficaz em relação aos credores ausentes da assembleia geral, aos que se abstiveram de votar ou se posicionaram contra tal disposição.
+4. A anuência do titular da garantia é indispensável na hipótese em que o plano de recuperação judicial prevê a sua supressão, suspensão ou substituição.
+5 . Recurso especial provido.
+(REsp n. 2.059.464/RS, relator para acórdão Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 17/10/2023, DJe de 14/11/2023.)
+4. Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC/2015, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Publique-se.
+EMENTA
