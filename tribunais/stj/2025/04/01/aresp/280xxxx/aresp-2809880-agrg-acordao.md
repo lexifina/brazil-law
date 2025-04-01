@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+2. Para se concluir pela absolvição do réu seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+RELATÓRIO
+IGOR DAMÁSIO DA SILVA interpõe agravo regimental contra a decisão de fls. 589-592, na qual conheci do agravo para negar provimento ao recurso especial.
+A defesa alega que "o julgado não condiz com a situação real, posto que, no caso em tela, os depoimentos policiais encontram- se isolados dos demais relatos e provas, pois o Tribunal desconsiderou os depoimentos de outras três testemunhas que afirmaram que não tinham conhecimento sobre o envolvimento do acusado com o tráfico de drogas" (fl. 600).
+Aduz que "não é possível lastrear toda condenação com base exclusivamente no depoimento dos policiais, sem que existam outros indícios que corroborem com os depoimentos" (fl. 600).
+Requer, dessa forma, caso não haja reconsideração do decisum anteriormente proferido, seja o feito submetido à apreciação do órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE ABSOLVIÇÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+2. Para se concluir pela absolvição do réu seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+VOTO
+Apesar dos esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+Na hipótese, observo que o decisum agravado foi claro ao mostrar que a Corte estadual, após minuciosa análise do acervo carreado aos autos, entendeu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+Ainda, evidenciou que para se concluir pela absolvição do recorrente seria necessária a incursão no conjunto fático-probatório delineado nos autos, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça. Confira-se (fls. 590-591, grifei):
+No que tange à pretendida absolvição do réu, faço lembrar que, no processo penal brasileiro, em razão do sistema da persuasão racional, o juiz forma sua convicção "pela livre apreciação da prova" (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante a devida e suficiente fundamentação.
+O Tribunal de origem entendeu pela condenação do réu pela prática do crime de tráfico de drogas, consoante os seguintes fundamentos (fls. 480-485, grifei):
+A materialidade delitiva restou sobejamente caracterizada por meio da apreensão da substância entorpecente, conforme se verifica por meio do auto de prisão em flagrante (mov. 1.4), boletim de ocorrência (mov. 1.5), auto de exibição e apreensão (mov. 1.6), auto de constatação provisória de droga (mov. 1.8), laudo pericial (mov. 60.1), bem como demais provas colhidas durante a persecução criminal.
+Com relação à autoria, esta também se confirmou recaindo sobre o apelado.
+ ..  Nesse diapasão, verifica-se que os policiais responsáveis pela abordagem declararam de forma clara, uníssona e precisa que já estavam recebendo informações acerca da prática da mercancia de substância entorpecente pelo ora apelado e que, no dia dos fatos, receberam uma denúncia de que o acusado estaria traficando no interior do parque e ao chegarem no referido local, estacionaram a viatura na parte de fora do parque e fizeram progressão a pé até o local onde o acusado se encontrava e ali permaneceram em campana, aproximadamente 10 metros de distância.
+Relataram ainda que, durante a campana, a equipe policial visualizou indivíduos se dirigindo até o acusado, oportunidade em que pegavam algo com ele, lhe entregavam dinheiro e iam embora. Afirmaram que o mesmo ia até um pé de bananeira pegava algo e depois voltava.
+Após certo tempo, os policiais realizaram a abordagem do acusado e relataram que em busca pessoal localizaram um aparelho celular, uma porção de maconha e, ainda, o montante de R$ 81,00 (oitenta e um reais) em notas fracionadas e junto ao pé de bananeira encontraram mais duas porções grandes de maconha, pesando aproximadamente 1kg (um quilograma).
+Os policiais relataram ainda que o acusado assumiu a propriedade da droga apreendida, contudo, negando a prática do delito da traficância.
+Neste ponto é necessário esclarecer que, ao contrário do disposto na r. sentença ora combatida, em que pese constar no auto de exibição e apreensão, a apreensão de um cartão alimentação, junto à fl. 4 do mov. 1.6 verifica-se a fotografia do dinheiro em espécie apreendido, nos moldes dos relatos dos policiais.
+Ademais, verifica-se ainda, fotografia da apreensão do entorpecente totalizando o peso de 1kg (um quilograma), conforme se verifica à fl. 5 do mov. 1.6.
+Demais disso, observa-se que as testemunhas arroladas pela defesa, em nada esclareceram sobre os fatos.
+ ..  Registre-se ainda, por oportuno, que mesmo se levado em consideração ser o réu usuário de drogas, tal fato não elide, por si só, a concomitante atividade de traficância, merecendo destaque a quantidade do entorpecente apreendido - 1kg (um quilograma) da substância entorpecente conhecida como maconha.
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta do acórdão recorrido, verifico que a instância ordinária, depois de minuciosa análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos a ensejar a condenação do acusado pelo crime de tráfico ilícito de entorpecentes (art. 33, caput, da Lei n. 11.343/2006).
+Aliás, no tocante à valoração dos depoimentos prestados pelos policiais, é de salutar importância registrar o entendimento desta Corte Superior de que "a eficácia probatória do testemunho da autoridade policial não pode ser desconsiderada tão somente pela sua condição profissional, sendo plenamente válida para fundamentar um juízo, inclusive, condenatório" (HC n. 485.765/TO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/2/2019, grifei) Para desconstituir a conclusão alcançada pelas instâncias ordinárias - como pretende a defesa -, seria necessário, nesta oportunidade, realizar revolvimento de todo o conjunto fático-probatório produzido nos autos, procedimento vedado segundo o teor da Súmula n. 7 do STJ.
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
