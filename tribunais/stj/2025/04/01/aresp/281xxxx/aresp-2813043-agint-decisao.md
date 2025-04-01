@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto por VIASOL INDÚSTRIA E COMÉRCIO DE AQUECEDORES SOLAR LTDA contra decisão monocrática proferida pela Presidência desta Corte (e-STJ, fls. 1.020-1.021), que não conheceu do agravo em recurso especial, por deficiência das razões recursais, óbice da Súmula 284/STF, ante a ausência de indicação dos dispositivos legais considerados violados.
+Em suas razões recursais, a parte agravante alega a indicação dos dispositivos legais violados na peça recursal e não se tratar de reexame fático-probatório.
+Impugnação não apresentada (e-STJ, fl. 422).
+É o relatório. Decido.
+Afiguram-se relevantes as alegações deduzidas pela parte agravante, motivo pelo qual, reconsidera-se a decisão agravada.
+Entretanto, permanece inviável o conhecimento do agravo em recurso especial, por outro fundamento.
+Com efeito, a decisão proferida pela Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo (e-STJ, fls. 367-370) inadmitiu o recurso especial, com fundamento no seguinte: a) necessidade de reexame fático-probatório, óbice da Súmula 7/STJ, quanto às teses; b) ausência de demonstração da violação dos demais dispositivos legais apontados como violados; e c) inexistência de cotejo analítico para a configuração do dissídio jurisprudencial.
+Nas razões de agravo em recurso especial (e-STJ, fls. 373-386), a parte agravante alega a ilegitimidade ativa, afirma a demonstração da violação legal e a existência de dissídio jurisprudencial, conforme confronto apresentado. Aduz a necessidade de produção probatória, além da existência de provas da inadequação da residência para a instalação do aquecedor solar, em vez de falha de seu produto ou serviço, bem como de que este fato era conhecido pela parte adquirente.
+O agravo previsto no art. 1.042 do Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pelo Tribunal de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada, impugnando de forma específica a integralidade de seus fundamentos, autônomos ou não, conforme orientação consolidada pela Corte Especial, com ressalva de entendimento pessoal desta relatoria em sentido contrário (cf. EAREsp n. 701.404/SC, 746.775/PR e 831.326/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, relator para acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe de 30/11/2018.).
+Desse ônus, contudo, não se desincumbiu a parte agravante, que apresentou alegações que, como visto, não atacaram especificamente a incidência da Súmula 7/STJ. Ao contrário, a parte deduz argumentação que confirma a incidência do óbice sumular, consistente na existência de provas da inadequação da residência para a instalação do aquecedor solar, em vez de falha de seu produto ou serviço, bem como de que este fato era conhecido pela parte adquirente.
+Portanto, é inviável o conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC/2015.
+Diante do exposto, em reconsideração, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
