@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UNIMED VALE DO ACO COOPERATIVA DE TRABALHO MEDICO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO - AÇÃO ORDINÁRIA - DANOS MORAIS E MATERIAIS - PLANO DE SAÚDE - ROL DE PROCEDIMENTOS DA ANS - NATUREZA EXEMPLIFICATIVA - LEI nº 14.454/22 - RECURSO PROVIDO.
+1. O rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS) não é taxativo, mas exemplificativo, constituindo-se como referência básica para cobertura assistencial mínima nos planos privados de assistência à saúde. 2. Os planos de saúde não podem estabelecer quais doenças estão excluídas da cobertura securitária, não lhes é dado a escolha dos exames ou do tratamento, cujas definições cabem, exclusivamente, ao médico que assiste ao paciente. 3. A negativa de autorização para cobertura de tratamento da doença afeta os atributos da personalidade da paciente que já se encontra em situação de fragilidade emocional. 4. Recurso parcialmente conhecido e, nessa parte, provido.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente alega dissídio jurisprudencial violação ao art. 10, VI, e 12, II, "g", da Lei n. 9.656/1998, no que concerne à nulidade da determinação de cobertura/custeio de medicamento prescrito de uso domiciliar, eis que permitida sua exclusão da cobertura obrigatória, trazendo a seguinte argumentação:
+Trata-se de Ação de Obrigação de Fazer c/c Pedido de Tutela Antecipada em face da Unimed Vale do Aço, visando que a Recorrente seja compelida a fornecer o medicamento Enoxaparina 40 mg, que não possui cobertura obrigatória pelo plano de saúde, uma vez que o fármaco não faz parte do Rol obrigatório definido pela agência reguladora.
+ ..
+Dessa forma, a jurisprudência, a Lei 9.656/98 e o próprio contrato firmado entre as partes afastam a obrigatoriedade do plano de saúde a custear medicamento de uso domiciliar, o qual é facilmente adquirido em farmácias, fato este que consequentemente afasta a probabilidade do direito invocado.
+Conforme consta nos autos, a única exceção constante na legislação para que as operadoras forneçam medicamentos domiciliares é na hipótese de tratamento oncológico, não sendo este o caso em tela, haja vista que a própria Recorrida aduz que o uso da Enoxaparina foi indicado por quadro de trombose.
+ ..
+Todavia, o TJ/PR, ao impor à Recorrente, operadora de plano de saúde, a cobertura contratual para medicamento de inequívoco caráter domiciliar, indubitavelmente violou a legislação federal, in casu, os artigos 10, VI, e 12, II, "g", todos da Lei Federal nº 9.656/1998.
+No entanto, nota-se Nobres Julgadores que trata-se de medicamento que, por ser de uso domiciliar, é excluído, legal e contratualmente, quanto ao fornecimento pelo plano de saúde.
+Nesse sentido, verifica-se que o medicamento pleiteado pela parte Recorrida é de uso domiciliar, sendo a Enoxoparina 40mg um medicamento injetável (injeção).
+Dessa forma, a jurisprudência, a Lei nº 9.656/98 e o próprio contrato firmado entre as partes afastam a obrigatoriedade do plano de saúde a custear medicamento de uso domiciliar, o qual é facilmente adquirido em farmácias, fato este que consequentemente afasta a probabilidade do direito invocado.
+Ademais, conforme brilhantemente apontado no voto vencido, a questão socioeconômica para custeio do tratamento foge da responsabilidade da operadora de plano de saúde e é coberta pelo Estado, pois o fármaco é fornecido pelo SUS e está incluso na Relação Nacional de Medicamentos Essenciais - RENAME.
+Neste diapasão, a única exceção constante na legislação para que as operadoras forneçam medicamentos domiciliares é na hipótese de tratamento oncológico, não sendo este o caso em tela, haja vista que a própria Recorrida aduz que o uso da Enoxaparina foi indicado por quadro de trombose.
+ ..
+Por sua vez, a ANS é enfática quanto a exclusão de cobertura dos medicamentos domiciliares, nos termos do que prevê a Resolução Normativa nº 465/2021:
+ ..
+De se reconhecer, portanto, que a recusa da Operadora foi lícita e autorizada pela Lei dos Planos de Saúde.
+ ..
+Conforme preconizado pela jurisprudência do STJ, as únicas exceções a essa regra seriam fármacos antineoplásicos orais; medicação assistida (na modalidade de hospitalização em domicílio); e remédios incluídos no rol (a exemplo daqueles para controle de efeitos adversos de antineoplásicos) (fls. 612/619).
+É o relatório.
+Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+O art.197, da Constituição Federal, prescreve que, "são de relevância pública as ações e serviços de saúde, cabendo ao poder público dispor, nos termos da lei, sobre sua regulamentação, fiscalização e controle, devendo sua execução ser feita diretamente ou através de terceiros e, também, por pessoa física ou jurídica de direito privado.".
+Conclui-se que a intenção do constituinte foi assegurar a todo cidadão, independentemente de sua condição econômica e social, o direito à saúde, A existência de termos contratuais, que excluem/limitam a cobertura de diversos tipos de serviços e tratamentos, essenciais à manutenção da saúde do conveniado da empresa requerida, constitui evidente contradição quanto à finalidade e natureza do instrumento de prestação de assistência médico-hospitalar.
+A simples limitação prevista no rol de procedimentos da Agência Nacional de Saúde (ANS), por si só, não é capaz de afastar a cobertura do medicamento pleiteado, uma vez que o mencionado rol não é taxativo, servindo apenas como referência para os planos de saúde privados.
+Nesse contexto, a recusa ao fornecimento do medicamento comprovadamente prescrito pelo médico que assiste a apelante é indevida (fls. 570/571).
+Da análise dos autos, percebe-se que há fundamento constitucional autônomo no acórdão recorrido e não houve interposição do devido recurso ao Supremo Tribunal Federal.
+Aplicável, portanto, o óbice da Súmula n. 126/STJ, uma vez que é imprescindível a interposição de recurso extraordinário quando o acórdão recorrido possui, além de fundamento infraconstitucional, fundamento de natureza constitucional suficiente por si só para a manutenção do julgado.
+Nesse sentido: " ..  firmado o acórdão recorrido em fundamentos constitucional e infraconstitucional, cada um suficiente, por si só, para manter inalterada a decisão, é ônus da parte recorrente a interposição tanto do Recurso Especial quanto do Recurso Extraordinário. A existência de fundamento constitucional autônomo não atacado por meio de Recurso Extraordinário enseja aplicação do óbice contido na Súmula 126/STJ". (AgInt no AREsp 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.)
+Confiram-se ainda os seguintes precedentes: REsp 1.684.690/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe de 16/4/2019; AgRg no REsp 1.850.902/MT, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 29/6/2020; REsp 1.644.269/RS, Rel. Ministro Og Fernandes, Segunda Turma, Dje de 7/8/2020; AgRg no REsp 1.855.895/SC, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; AgInt no AREsp 1.567.236/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 4/6/2020; AgInt no AREsp 1.627.369/PE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
