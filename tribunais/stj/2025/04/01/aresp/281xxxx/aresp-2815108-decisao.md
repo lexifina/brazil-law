@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado por Município de Rio de Janeiro contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 136):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. INSURGE-SE CONTRA DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECURSO COM BASE NO PRINCÍPIO DA ADSTRINGÊNCIA. INTEMPESTIVIDADE. Observou-se que os argumentos trazidos no agravo se referiam diretamente à decisão anterior contida no indexador.695. Agravo foi interposto a pretexto de modificar a decisão que rejeitou os embargos de declaração, todavia, em verdade, pretende ver alterada a decisão que lhe deu causa. Não especificou o agravante quais seriam as omissões, obscuridades e contradições da decisão que rejeitou os embargos, evidenciando- se mero inconformismo. De acordo com o princípio da adstringência, cabe a esta Corte avaliar se o agravo apontou devidamente as falhas da decisão atacada. Decisão monocrática que não merece reforma. Recorrente que não traz argumentos suficientes para alterar a decisão agravada. AGRAVO CONHECIDO E DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 183/189).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.:
+a) 1.022 do CPC, sustentando que a decisão declarou a intempestividade do recurso, sem observar a oposição de embargos de declaração na origem. Afirma que os embargos de declaração foram julgados de modo genérico;
+b) 492 e 1.021 do CPC, afirmando a necessidade de se observar o princípio da adstrição e da dialeticidade. Alega que "houve impugnação especificada no agravo de instrumento, atacando-se de maneira fundamentada a decisão que decidiu os embargos de declaração, e não a decisão anterior, como equivocadamente decidiu o Egrégio TJRJ" (fl. 212);
+c) 1º do Decreto n. 20.910/32 e 202 do CC, aduzindo a ocorrência de prescrição.
+Resume, em suma, que "o objeto do presente apelo raro é responder se  à luz do efeito interruptivo dos aclaratórios oportuna e tempestivamente opostos, bem como pela plena observância desse ao princípio da adstrição  , se o agravo de instrumento e o agravo interno interpostos pelo ente local são tempestivos ou não, e se houve impugnação especificada à decisão recorrida" (fl. 215).
+Foram ofertadas contrarrazões às fls. 233/252
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Outrossim, ao tratar da matéria de fundo, o Tribunal de orige m destacou (fls. 141/142):
+Ocorre que, pelo princípio da adstringência, congruência ou correlação, observa-se que o agravo de instrumento contido no indexador.2, foi interposto a pretexto de modificar a decisão que rejeitou os embargos de declaração, todavia, em verdade, pretendia ver alterada a decisão que lhe deu causa.
+Como já sinalizado no decisum (index. 61) a parte recorrente deve impugnar, especificamente, os fundamentos da decisão agravada, tendo em vista o princípio recursal da dialeticidade.
+Portanto, não especificou a agravante quais seriam as omissões, obscuridades e contradições da decisão que rejeitou os embargos, evidenciando mero inconformismo, ademais, observa-se que os argumentos trazidos no agravo atingem diretamente à decisão contida no indexador. 695 dos autos principais, proferida em 18/11/2022.
+Destarte, infere-se que o recurso é intempestivo, pois o agravo interposto aos 23/07/2023 não ataca a decisão que rejeitou os embargos, mas aquela acostada no indexador. 695, proferida em 18/11/2022.
+Ademais, como já esclarecido em decisão monocrática, "a pretensão de que, em sede de agravo de instrumento, seja revista a questão da prescrição do crédito cobrado no que se refere os valores da correção monetária, ventiladas na decisão anterior à dos declaratórios, sobeja ao limite, uma vez que protocolizado contra decisão que rejeitou embargos de declaração, estando este colegiado adstrito à verificação da existência de omissão, obscuridade e contradição na decisão contida no indexador 815 dos autos originários, as quais não foram devidamente apontadas."
+E complementa no acórdão dos declaratórios (fl. 186):
+No caso sob exame, o acórdão é expresso e claro ao dispor sobre as razões que conduziram ao desprovimento do agravo interno interposto.
+Inexiste qualquer vício a ser sanado no Acórdão embargado (index.137).
+Assim, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. PENHORA. SUSPENSÃO. INDEFERIMENTO. PEDIDO DE RECONSIDERAÇÃO. RECURSO. NÃO CABÍVEL. AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. INTERRUPÇÃO DO PRAZO. AUSÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Discute-se nos autos a tempestividade do agravo de instrumento interposto na origem.
+2. É pacífico o entendimento do Superior Tribunal de Justiça no sentido de que a interposição de recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição do recurso adequado.
+3. Na hipótese, rever a conclusão do aresto impugnado quanto à intempestividade do agravo de instrumento em virtude da apresentação de pedido de reconsideração demandaria o reexame fático- probatório dos autos, providência que encontra óbice na Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AR Esp n. 2.375.456/SC, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/10/2023, D Je de 19/10/2023.)
+Diante desse contexto, ressoa nítido que os argumentos postos no presente apelo a respeito da ocorrência da prescrição não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados: AgInt no REsp n. 2.141.648/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/11/2024, DJe de 19/11/2024; AgInt nos EDcl no AREsp n. 2.489.961/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 21/10/2024, DJe de 28/10/2024; AgInt no REsp n. 1.844.995/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 9/9/2024, DJe de 13/9/2024.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
