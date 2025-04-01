@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 5 e 7 do STJ (fls. 1.418-1.422).
+O acórdão do TJRN traz a seguinte ementa (fls. 856-857):
+EMENTA: CONSUMIDOR. APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. REVISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. TESE DE ILEGITIMIDADE PASSIVA. REJEIÇÃO. CONTRATOS DE CESSÃO DE CRÉDITO QUE NÃO ROMPEM O LIAME JURÍDICO DOS RÉUS AO AUTOR. SENTENÇA EXTRA PETITA. REJEIÇÃO. DECISÃO QUE NÃO EXTRAPOLOU OS LIMITES DO PEDIDO.
+CAPITALIZAÇÃO ATESTADA NO LAUDO PERICIAL. AUSÊNCIA DE PREVISÃO CONTRATUAL (TEMAS 246 E 247 DO STJ). CONSTRUTORA QUE, POR NÃO SER INTEGRANTE DO SISTEMA FINANCEIRO, NÃO PODE PACTUAR JUROS CAPITALIZADOS. CAPITALIZAÇÃO INDEVIDA. JURISPRUDÊNCIA DO STJ. SUCUMBÊNCIA QUE É MENSURADA PELO NÚMERO DE PEDIDOS FEITOS E DEFERIDOS. SUCUMBÊNCIA RECÍPROCA NO CASO CONCRETO. DISTRIBUIÇÃO PROPORCIONAL DAS DESPESAS PROCESSUAIS E DOS HONORÁRIOS SUCUMBENCIAIS. ARTIGO 86, CAPUT, DO CPC.
+Os embargos de declaração foram decididos nos termos da ementa a seguir (fls. 884-885):
+EMENTA: EMBARGOS DE DECLARAÇÃO. APELAÇÕES CÍVEIS. OMISSÃO VERIFICADA. NÃO APRECIAÇÃO DO PEDIDO DE JUSTIÇA GRATUITA. EXAME. DEMONSTRAÇÃO DA HIPOSSUFICIÊNCIA ECONÔMICA. BENESSE DEFERIDA. SENTENÇA ULTRA PETITA. COMPLEMENTAÇÃO DO JULGADO. MONTANTE DE R$ 2.263,54 QUE CORRESPONDE À TAXA DE ASSESSORIA JURÍDICA, DEVIDAMENTE ANALISADA NA SENTENÇA. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA. INEXISTÊNIA DE CONTRADIÇÃO NO LAUDO PERICIAL. INSURGÊNCIA CONTRA O MÉRITO. INVIABILIDADE. LEGITIMIDADE PASSIVA DA SPE 7. PERTINÊNCIA SUBJETIVA DEVIDAMENTE DEMONSTRADA E ABORDADA NO ACÓRDÃO EMBARGADO. AUSÊNCIA DE VÍCIOS DO ARTIGO 1.022 DO CPC. ACOLHIMENTO PARCIAL DOS EMBARGOS DA CHB E REJEIÇÃO DOS EMBARGOS DA SPE 7.
+No recurso especial (fls. 891-905), fundamentado no art. 105, III, "a", da CF, a recorrente alegou contrariedade aos arts. 286 do CC/2002 e 28 da Lei n. 9.514/1997, porque seria parte ilegítima para responder solidariamente pela reparação dos danos reclamados pela parte recorrida.
+Nesse contexto, defendeu que "o financiamento que se busca revisar não foi instrumentalizado pela Promessa de Compra e Venda, mas sim pelo instrumento particular de contrato de compra e venda, de financiamento imobiliário, de alienação fiduciária em garantia, emissão de cédula de crédito imobiliário e outros pactos. Tal conjectura foi observada desde a sentença" (fl. 903).
+No agravo (fls. 1.423-1.430), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 28 da Lei n. 9.514/1997 sob o enfoque pretendido pela parte recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 do STF e 211 do STJ.
+O Tribunal de origem, interpretando os contratos de cessão de crédito, assentou que a recorrente era parte legítima para responder solidariamente pelos danos reclamados pela compradora, porque a cessão de crédito não ensejou, no caso concreto, a transferência da posição contratual da cedente no compromisso de compra e venda imobiliário. Confira-se o seguinte excerto (fls. 857-858):
+Inicialmente, necessário pontuar que, em pese demonstradas as cessões de crédito ocorridas entre a Capuche SPE 7, CHB e ISEC, das quais o Apelado foi cientificado, penso que não se exauriu a pertinência subjetiva dos Apelantes.
+Com relação à Capuche SPE 7, o contrato de cessão de crédito de ID 17979524 (Pág. 3), cuja cessionária é a CHB, prevê o seguinte:
+"1.2 Posição Contratual: Fica desde já ajustado entre as Partes que a presente cessão se limita à Cessão de Créditos, não representando, em qualquer momento, presente ou futuro, e em nenhuma hipótese, a assunção, pela CESSIONARIA, da posição contratual da CEDENTE nas Promessas de Compra e Venda"
+Diante disso, penso que remanesce a pertinência subjetiva da referida empresa, haja vista a sua vinculação contratual com o Apelado, sendo descabido o reconhecimento de sua ilegitimidade.
+Ao rejeitar os aclaratórios da recorrente, o colegiado esclareceu ainda que (fl. 889):
+Conforme destacado no acórdão embargado, o contrato de cessão de crédito celebrado entre as partes, bem como os demais elementos constantes nos autos, evidenciam a vinculação contratual da embargante com o embargado. Dessa forma, a embargante não pode se eximir de responsabilidade perante o embargado.
+Dissentir de tal entendimento, a fim de acolher a tese de que a empresa recorrente seria parte ilegítima no feito, conforme defendido no especial, exigiria nova interpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, medidas vedadas pelas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça no juízo de admissibilidade (fl. 1.419), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
