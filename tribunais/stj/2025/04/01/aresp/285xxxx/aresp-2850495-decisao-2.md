@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por UNIMED DO ESTADO DO RIO DE JANEIRO - FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 7/STJ ( fls. 1.370-1.371).
+O acórdão do TJRJ traz a seguinte ementa (fls. 565-566):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. PLANO DE SAÚDE. RECUSA PARA REALIZAÇÃO DE PROCEDIMENTO DE URGÊNCIA E FORNECIMENTO DE MATERIAL CIRÚRGICO NA FORMA INDICADA PELO MÉDICO ASSISTENTE. CIRURGIA QUE SOMENTE OCORREU APÓS O DEFERIMENTO DA TUTELA PROVISÓRIA DE URGÊNCIA. SENTENÇA QUE JULGOU PROCEDENTES O PEDIDO DE OBRIGAÇÃO DE FAZER E O DE REPARAÇÃO MORAL. RECURSO DA 1ª RÉ PRETENDENDO A REFORMA INTEGRAL DO JULGADO OU, SUBSIDIARIAMENTE, A REDUÇÃO DO MONTANTE FIXADO PARA OS DANOS MORAIS. RECURSO DA PARTE AUTORA REQUERENDO A MAJORAÇÃO DA VERBA EXTRAPATRIMONIAL E A ALTERAÇÃO DA BASE DE CÁLCULO PARA INCIDÊNCIA DO PERCENTUAL FIXADO PARA OS HONORÁRIOS SUCUMBENCIAIS. ABUSIVIDADE DA CONDUTA PERPETRADA PELAS RÉS. RESPONSABILIDADE FRENTE AO CONSUMIDOR É OBJETIVA. PARTE RÉ QUE NÃO SE DESINCUMBIU DO ÔNUS DE PROVAR A INEXISTÊNCIA DE SUA RESPONSABILIDADE PELA FALHA NA PRESTAÇÃO DO SERVIÇO. TEORIA DO RISCO DO EMPREENDIMENTO. DANOS MORAIS CARACTERIZADOS. VALOR FIXADO NA SENTENÇA QUE OBSERVA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE, BEM COMO PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA EM CASOS ANÁLOGOS. SÚMULAS Nº 209, 211, 339 E 343 DO TJRJ. ENTENDIMENTO SEDIMENTADO NA CORTE SUPERIOR NO SENTIDO DA OBRIGATORIEDADE DE FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS NA ORDEM DE GRADAÇÃO ESTABELECIDA NO ARTIGO 85, § 2º DO CPC. VALOR DA CONDENAÇÃO QUE FOI ADEQUADAMENTE UTILIZADO COMO PARÂMETRO PARA INCIDÊNCIA DA VERBA SUCUMBENCIAL FIXADA. OBRIGAÇÃO DE FAZER DETERMINADA NO JULGADO (FORNECIMENTO DE MATERIAL CIRÚRGICO) QUE CORRESPONDE À PRESTAÇÃO DE SERVIÇO REMUNERADO PELO PRÊMIO PAGO, NÃO SE TRATANDO DE PROVEITO ECONÔMICO. HONORÁRIOS RECURSAIS FIXADOS NOS TERMOS DO ARTIGO 85, § 11, DO CPC. RECURSOS DESPROVIDOS.
+Os embargos de declaração foram decididos nos termos da ementa a seguir (fls. 772-773):
+EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA ACÓRDÃO QUE, POR UNANIMIDADE DE VOTOS, NEGOU PROVIMENTO AOS RECURSOS DE APELAÇÃO INTERPOSTOS PELA 1ª RÉ E PELA PARTE AUTORA. EMBARGOS DE DECLARAÇÃO MANEJADOS PELA PARTE AUTORA OBJETIVANDO SUPRIR ALEGADA CONTRADIÇÃO RELACIONADA À ALTERAÇÃO DA BASE DE CÁLCULO PARA INCIDÊNCIA DO PERCENTUAL FIXADO PARA OS HONORÁRIOS SUCUMBENCIAIS, ALÉM DO PREQUESTIONAMENTO PARA ENCAMINHAR A MATÉRIA ÀS INSTÂNCIAS SUPERIORES. NÃO OCORRÊNCIA DO VÍCIO APONTADO. TENTATIVA DE MODIFICAÇÃO DO JULGADO POR VIA TRANSVERSA, COM A CONCESSÃO DE EFEITO INFRINGENTE. MATÉRIA QUE RESTOU ENFRENTADA E QUE, PORTANTO, ADMITE PREQUESTIONAMENTO IMPLÍCITO. INTELIGÊNCIA DA SÚMULA 52 DESTE ETJ. INCONFORMISMO MANIFESTADO PELA VIA INADEQUADA. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA 2ª RÉ. VERIFICADA A OMISSÃO QUANTO A INEXISTÊNCIA DE MANIFESTAÇÃO ACERCA DA RESPONSABILIDADE QUANTO AO PAGAMENTO DOS HONORÁRIOS MAJORADOS. EMBARGOS DE DECLARAÇÃO CONHECIDOS, SENDO REJEITADOS OS DA PARTE AUTORA E ACOLHIDOS OS DA 2ª RÉ.
+No recurso especial (fls. 1.229-1.250), fundamentado no art. 105, III, "a", da CF, a recorrente indicou violação:
+(i) dos arts. 489 e 1.022 do CPC/2015, afirmando haver negativa de prestação jurisdicional, e
+(ii) dos arts. 186, 884 e 944 do CC/2002 e 373, I, do CPC/2015 , pois não teria praticado ato ilícito para justificar a condenação por danos morais. Subsidiariamente, requereu a revisão do valor da mencionada indenização - por considerar excessiva a quantia de R$ 5.000,00 (cinco mil reais) para cada autora.
+Foram ofertadas contrarrazões, requerendo a condenação da recorrente ao pagamento de multa por litigância de má-fé, assim como o arbitramento de honorários recursais (fls. 1.309-1.360).
+No agravo (fls. 1.398-1.406), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Conforme o entendimento do STJ, "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973, na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/6/2016, DJe 13/6/2016).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional. Precedentes.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.385.697/MA, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/5/2019, DJe 3/6/2019.)
+Ainda nesse sentido: AgInt no REsp n. 1.691.379/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 12/3/2018, e AgInt no AREsp n. 1.069.244/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.
+No caso, a parte alegou negativa de prestação jurisdicional, a despeito da ausência da oposição de aclaratórios ao acórdão recorrido, o que atrai a incidência da Súmula n. 284/STF.
+Para a jurisprudência do STJ, "a negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente" (AgInt no REsp n. 1.973.706/SP, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/6/2022, DJe de 15/6/2022).
+Do mesmo modo:
+AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO MÉDICO. NEGATIVA DE COBERTURA. DANOS MORAIS. NÃO CONFIGURAÇÃO. DÚVIDA RAZOÁVEL. PRECEDENTES DESTA CORTE SUPERIOR. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+1. A recusa da cobertura de tratamento por operadora de plano de saúde, por si só, não configura dano moral, notadamente quando fundada em razoável interpretação contratual. Precedentes.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.876.718/DF, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/6/2022, DJe de 21/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO C/C PEDIDO DE REEMBOLSO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA PARA REALIZAÇÃO DE EXAME PET-SCAN. ÍNDOLE ABUSIVA. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Nas hipóteses em que há recusa injustificada, por parte da operadora do plano de saúde, de cobertura para tratamento do segurado, com abalo emocional reconhecido, justificadamente, pela instância ordinária, como no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento. Precedentes.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.962.572/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/2/2022, DJe de 14/3/2022.)
+O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, assentou que a recusa da cobertura médica provocou abalos morais na contraparte, pois a situação a que foi exposta ultrapassou o mero dissabor, ante o agravamento da sua aflição psicológica e de sua angústia, razão pela qual admitiu a incidência de indenização sob esse título (fls. 574-575).
+Rever o entendimento da Corte local, quanto às circunstâncias específicas que originaram os danos morais, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Inalterada tal premissa fática, verifica-se que o aresto impugnado está conf orme a jurisprudência assente nesta Corte Superior, motivo por que incide, mais uma vez, a Súmula n. 83/STJ no caso em apreço.
+Conforme entendimento pacífico do STJ, a modificação do valor da indenização por danos morais é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+A quantia estabelecida pelas instâncias de origem - R$ 5.000,00 (cinco mil reais) para cada autora - não enseja a intervenção do STJ (fl. 576).
+Por fim, rejeito o pedido de condenação da recorrente à multa por litigância de má-fé, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
