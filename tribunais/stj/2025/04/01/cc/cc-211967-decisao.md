@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito envolvendo o r. juízo da 3ª Vara Cível de Joinville - SC e o r. juízo da 12ª Vara Cível do Foro Central de São Paulo - SP.
+Discutem, ambos os juízos, acerca da competência para o julgamento de ação de rescisão contratual (fls. 57-58 e 87-88, e-STJ).
+O MPF ofertou parecer no sentido da prescindibilidade de sua manifestação quanto ao mérito (fls. 93-98, e-STJ).
+É o relatório.
+Decide-se.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020).
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, o entendimento do STJ firmou-se no sentido de que o art. 63, §§ 1º e 5º, do CPC apenas tem aplicação, com a declinação de ofício pelo magistrado nas hipóteses de cláusula com escolha aleatória de foro, nas ações ajuizadas após a vigência da Lei nº 14.879/2024 que introduziu tal possibilidade no sistema processual brasileiro. A propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. ART. 63, §§ 1º E 5º, DO CPC. ALTERAÇÃO DADA PELA LEI 14.879/2024. CLÁUSULA DE ELEIÇÃO DE FORO. AUSÊNCIA DE PERTINÊNCIA COM O DOMICÍLIO OU RESIDÊNCIA DAS PARTES OU COM O NEGÓCIO JURÍDICO. JUÍZO ALEATÓRIO. PRÁTICA ABUSIVA. DECLINAÇÃO DE OFÍCIO. AÇÃO AJUIZADA ANTES VIGÊNCIA DA NOVA LEI. IMPOSSIBILIDADE.
+1. Conflito negativo de competência suscitado em 25/7/2024 e concluso ao gabinete em 1/8/2024.
+2. O propósito do conflito de competência consiste em estabelecer o Juízo competente para o processamento da demanda quando a ação for ajuizada no foro de eleição e este for considerado abusivo.
+3. A Lei n. 14.879/2024 alterou o art. 63 do CPC no que diz respeito aos limites para a modificação da competência relativa mediante eleição de foro. A nova redação do § 1º do dispositivo dispõe que "a eleição de foro somente produz efeito quando constar de instrumento escrito, aludir expressamente a determinado negócio jurídico e guardar pertinência com o domicílio ou a residência de uma das partes ou com o local da obrigação, ressalvada a pactuação consumerista, quando favorável ao consumidor".
+4. Como consequência da não observância dos novos parâmetros legais, será considerada prática abusiva o ajuizamento de demanda em foro aleatório, sem qualquer vinculação com o domicílio ou residência das partes ou com o negócio jurídico, podendo o Juízo declinar de ofício da competência, nos termos do § 5º do art. 63 do CPC.
+5. Com a vigência da nova legislação, tem-se a superação parcial da Súmula 33/STJ, segundo a qual "a incompetência relativa não pode ser declarada de ofício".
+6. Aplica-se a nova redação do art. 63, §§ 1º e 5º, do CPC aos processos cuja petição inicial tenha sido ajuizada após 4/6/2024, data da vigência da Lei n. 14.879/2024 (art. 2º). O estabelecimento desse marco temporal decorre da interpretação conjugada do art. 14 do CPC, que estabelece a Teoria do Isolamento dos Atos Processuais, e do art. 43 do CPC, segundo o qual a competência será determinada no momento do registro ou da distribuição da petição inicial.
+7. Por outro lado, a nova legislação não será aplicada às demandas ajuizadas em momento anterior à sua vigência, sobrevindo a prorrogação da competência relativa - pelo foro de eleição - em razão da inércia da contraparte e da incidência da Súmula 33/STJ.
+8. No conflito sob julgamento, a ação foi ajuizada em 27/1/2023, antes vigência da nova lei, sendo descabida a declinação de ofício da competência em razão da prorrogação da competência relativa.
+9. Conflito de competência conhecido para declarar competente o Juízo da 38ª Vara Cível do Foro Central da Comarca de São Paulo/SP, ora suscitante.
+(CC n. 206.933/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 6/2/2025, DJEN de 13/2/2025.)
+No caso em análise, a ação foi ajuizada em 12/12/2024 (fls. 6-25, e-STJ), portanto após a vigência da referida lei em 05/06/2024. Assim, a nova legislação pode ser aplicada às demandas ajuizadas em momento anterior à sua vigência. No presente caso, as partes residem em Pelotas/RS e Joinville/SC, sendo que a controvérsia em debate envolve franquias nas cidades de Tramandaí e Capão da Canoa, ambas no estado do Rio Grande do Sul.
+Neste ínterim, o r. juízo suscitado reconheceu a abusvidade da cláusula de eleição de foro em virtude da sua aleatoriedade, devendo ser reconhecida a competência do r. juízo suscitante por ser o foro de domicílio da ré.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, conhece-se do presente conflito e, por conseguinte, declara-se a competência do r. juízo da 3ª Vara Cível de Joinville - SC.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos.
+EMENTA
