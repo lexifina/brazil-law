@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de CARLOS APARECIDO BARBOSA - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1501088-83.2022.8.26.0630), comporta acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 2ª Vara Criminal do Foro de Americana/SP (Ação Penal n. 1501088-83.2022.8.26.0630), ao argumento de ilegalidade na exasperação da pena-base, com fundamento na natureza e quantidade de droga apreendida, pois manter o entendimento esposado na sentença seria generalizar o aumento das básicas para todas as hipóteses em que há a apreensão de cocaína - grande parte da totalidade das apreensões policiais (fl. 4). Afirma que a quantidade de drogas não se mostrou excessiva (0,7 g de cocaína, 8,1 g de crack e 9,4 g de maconha).
+De fato, em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+O Magistrado singular, corroborado pelo Tribunal de origem, aumentou a pena na primeira fase, com fundamento no art. 42 da Lei n. 11.343/2006, considerando a natureza e quantidade de droga apreendida. No entanto, no caso concreto, a quantidade do entorpecente confiscado não é capaz de justificar a exasperação, uma vez que não desborda do tipo penal ou denota maior periculosidade do acusado.
+A propósito: HC n. 868.502/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 19/11/2024.
+Redimensionando-se a reprimenda imposta, temos:
+Fixada a pena-base no mínimo legal, fica a reprimenda provisoriamente fixada em 5 anos de reclusão e 500 dias-multa. Na segunda etapa, foi reconhecida a agravante de reincidência, e a pena elevada em 1/6, portanto, fixada em 5 anos e 10 meses de reclusão, e 583 dias-multa. Na terceira etapa, não há como ser reconhecida a minorante do tráfico privilegiado, em face da reincidência, resultando a pena em 5 anos e 10 meses de reclusão, e 583 dias-multa, a qual torno definitiva, em razão da ausência de outras circunstâncias legais.
+O regime de cumprimento da pena deverá permanecer o fechado, por ser o paciente reincidente.
+Em face do exposto, concedo a ordem impetrada para afastar a consideração negativa da quantidade de droga apreendida na pena-base, resultando a reprimenda definitiva em 5 anos e 10 meses de reclusão, em regime fechado, e ao pagamento de 583 dias-multa (Ação Penal n. 1501088-83.2022.8.26.0630 - Juízo de Direito da 2ª Vara Criminal do Foro de Americana/SP).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. REPRIMENDA-BASE EXASPERADA COM FUNDAMENTO NA NATUREZA E QUANTIDADE DE DROGA APREENDIDA (0,7 G DE COCAÍNA, 8,1 G DE CRACK E 9,4 G DE MACONHA). QUANTUM QUE NÃO DESBORDA DO TIPO PENAL OU DEMONSTRA A MAIOR PERICULOSIDADE CONCRETA DA CONDUTA. REDUÇÃO QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
