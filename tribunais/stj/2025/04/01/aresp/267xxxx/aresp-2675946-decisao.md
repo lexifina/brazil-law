@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial (fls. 159-163), porque ausente ofensa ao art. 1.022 do CPC/2015 e por incidência das Súmula n. 5, 7, 83 e 211 do STJ.
+O acórdão recorrido encontra-se assim ementado (fl. 77):
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. FUNDO 157. SEGUNDA FASE. A INVERSÃO DO ÔNUS DA PROVA NÃO DESOBRIGA A PARTE AUTORA DE PRODUZIR PROVA MÍNIMA DO DIREITO ALEGADO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I. HIPÓTESE EM QUE DEVE SER FEITA, À LUZ DA BOA-FÉ OBJETIVA (ART. 422 DO CC), A PONDERAÇÃO ENTRE O DEVER DO BANCO DE GUARDAR OS DOCUMENTOS REFERENTES AO INVESTIMENTO REALIZADO NA DÉCADA DE 1970 E, EM CONTRAPARTIDA, O DEVER DO AUTOR DE MITIGAR O PRÓPRIO DANO (DUE TO MITIGATE THE LOSS). CC).
+II. A INVERSÃO DO ÔNUS DA PROVA NÃO DESOBRIGA A PARTE AUTORA DE PRODUZIR PROVA MÍNIMA DO DIREITO ALEGADO. CASO EM QUE CABERÁ AO REQUERENTE DEMONSTRAR AS DATAS E OS VALORES APORTADOS, UMA VEZ QUE NÃO CONCORDOU COM AS CONTAS PRESTADAS PELO BANCO AGRAVADO.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME.
+Os embargos de declaração foram rejeitados (fls. 101/108).
+Nas razões do recurso especial (fls. 114/140), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente aponta violação dos arts. 502, 550, § 5º, e 551 do CPC/2015, por ofensa à coisa julgada. Afirma que não foi observada a determinação na sentença proferida na primeira fase da ação de prestação de contas, na qual se reconheceu a obrigação da recorrida de prestar contas relativas à integralidade do período de administração do fundo 157, sem limitação de período.
+Indica ofensa aos arts. 10, 3, do Código Comercial, 187, 422 e 1.194 do CC/2002, alegando que a aplicação do due to mitigate the loss pelo Tribunal de origem "protege o descumpridor não só de sua obrigação de prestar contas, mas também de guardar os documentos" (fls. 123). Sustenta que o dever de guarda de todos os documentos subsiste enquanto não ocorrida a prescrição.
+Suscita contrariedade aos arts. 373, I, do CPC/2015 e 6º, VIII, do CDC, alegando que é ônus do recorrido provar os valores investido, "na medida em que esta informação nada mais é do que o conteúdo dos próprios extratos" (fl. 131).
+Afirma que houve violação do art. 1.022, II, do CPC/2015, porque, apesar da oposição dos embargos para apontar "omissão acerca do dever de guarda dos documentos e da alegada incidência do dever de mitigação do dano" (fl. 136), o fato de a prescrição ter sido afastada e de existir prova da relação contratual, referidas questões não foram analisadas.
+No agravo (fls. 170-194), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 199-208).
+É o relatório.
+Decido.
+A matéria controvertida foi analisada pelo Tribunal de origem nos seguintes termos (fls. 74-76):
+Examinando os autos, verifica-se que o banco agravado foi condenado a prestar contas à parte autora (evento 3, DOC4, p. 8/12), nos termos do art. 550 e seguintes do CPC.
+Instaurou-se, então, discussão sobre as contas prestadas e os valores investidos; a instituição financeira afirmou que o saldo do autor seria de R$ 0,81 (p. 28/34 do evento 3, DOC4).
+Já a parte ora recorrente impugnou as contas prestadas (p. 41/47 do evento 3, DOC4), postulando, assim, a intimação da instituição financeira para que apresente a evolução dos investimentos feitos pelo ora agravante.
+Após sucessivas manifestações das partes, sobreveio a decisão ora agravada (evento 103, DESPADEC1), determinando que a parte autora comprovasse ao menos o valor investido.
+A propósito da matéria em questão, sabe-se que os demais órgãos fracionários deste Tribunal, além desta Câmara, vêm entendendo boas as contas prestadas pela instituição financeira administradora do Fundo 157, em sede de segunda fase de exigir contas, ainda que não englobem a totalidade do período reclamado, senão veja-se:
+ ..
+Ademais, deve ser feita, à luz da boa-fé objetiva (art. 422 do CC), a ponderação entre o dever do banco de guardar os documentos referentes ao investimento realizado no final dos anos 1970, e, em contrapartida, o dever do autor de mitigar o próprio dano (due to mitigate the loss). Ora, não é razoável que o demandante tenha aguardado todas estas décadas para se informar sobre o aporte financeiro realizado, vindo a pleitear valores calculados com critério próprio, e valendo-se da ausência de documentos referentes à integralidade da contratação.
+Aliás, no caso concreto, salta aos olhos não ser possível constatar que o autor realizou prova do valor afirmadamente aportado. Ou seja, se o próprio requerente não foi diligente no interregno dos mais de 40 anos em que alega ter depositado os valores, como exigir do requerido que ainda tenha em sua posse todos os inúmeros documentos referentes às negociações feitas em tal período
+Por fim, necessário ressaltar que mesmo com a inversão do ônus da prova por força do art. 6º, VIII do CPC, não está o demandante desobrigado de realizar prova mínima de suas alegações, motivo pelo qual a manutenção da decisão agravada é medida que se impõe.
+Ausente ofensa ao art. 1.022 do CPC/2015, pois a Corte estadual apresentou, de forma clara e suficiente, os fundamentos pelos quais negou provimento ao agravo de instrumento interposto contra decisão de primeiro grau que, em ação de prestação de contas, determinou que a parte autora comprovasse o valor investido no Fundo 157.
+Apesar de alegar omissão, a parte agravante não demonstra a efetiva existência do vício, mas apenas inconformismo com as conclusões do julgado.
+No mais, o acórdão recorrido está em consonância com a jurisprudência do STJ, segundo a qual cabe ao consumidor apresentar prova mínima de suas alegações, ainda que haja inversão do ônus da prova previsto no CDC. O reconhecimento, na primeira fase da ação, do dever da instituição financeira de de prestar contas não modifica tal ônus processual. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. FUNDO 157. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. INVERSÃO DOS ÔNUS DA PROVA. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A matéria posta sub judice, qual seja a admissibilidade da ação de exigir contas para a obtenção de demonstrativo detalhado de investimentos realizados entre 1967 e 1983, sob a sistemática conhecida como Fundo 157, foi objeto de recente apreciação no âmbito da Quarta Turma do Superior Tribunal de Justiça (REsp 1.994.044/RS, Relatora Min. MARIA ISABEL GALLOTTI, j. em 13/6/2023, DJe de 10/8/2023). Na oportunidade, concluiu-se pela inexigibilidade da guarda de documentos relativos a fundos de investimento por período superior aos 5 (cinco) anos, conforme Instrução da Comissão de Valores Mobiliários nº 555, de 17 de dezembro de 2014.
+2. Na hipótese, o eg. Tribunal de origem, ao julgar o agravo de instrumento interposto pelo ora agravante, deu-lhe provimento, a fim de inverter o ônus da prova e determinar que o ora agravado trouxesse aos autos da ação de exigir contas, já em segunda fase, documentos que demonstrassem a aplicação inicial, bem como a integralidade dos extratos e certificados de investimento.
+3. Esse entendimento, todavia, destoa da conclusão desta Corte Superior, no sentido da referida inexigibilidade de apresentação de documentos, devendo ser mantida, pois, a decisão monocrática.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.101.973/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/12/2023, DJe de 20/12/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. SEGUNDA FASE. FUNDO 157. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DAS CONTAS PRESTADAS DE FORMA FUNDAMENTADA. ENTENDIMENTO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. A INVERSÃO DO ÔNUS DA PROVA NÃO DISPENSA O AUTOR DE DEMONSTRAR MINIMAMENTE OS FATOS CONSTITUTIVOS DE SEU DIREITO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal estadual, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte.
+2. "Nos termos da jurisprudência pacífica do STJ, apesar de o art. 6º, VIII, do CDC prever a inversão do ônus da prova para facilitação da defesa, a aplicação do Código de Defesa do Consumidor não exime o autor do ônus de apresentar prova mínima dos fatos constitutivos de seu direito. Precedentes." (AgInt no AREsp 2298281 / RJ, Rel Ministro HUMBERTO MARTINS, Terceira Turma, j. 20/11/2023).
+3. A Corte estadual concluiu que o banco recorrido demonstrou de forma satisfatória qual é o saldo de ações titulado pelo recorrente, o que, consequentemente, afasta a aplicação do art. 400, I, do CPC.
+4. A análise da tese recursal, no sentido de que a prestação das contas teria sido irregular demandaria o reexame de fatos e provas constantes dos autos, o que é vedado pela Súmula n.º 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.593.853/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Em tais condições, incide no caso a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
