@@ -1,0 +1,29 @@
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, d o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, GRID e outro alegaram a violação dos arts. 489 e 1.022 do CPC ao sustentarem que há negativa da prestação jurisdicional, diante da ausência de enfrentamento da questão acerca da tese de que a descaracterização da inércia para fins de obstar a prescrição intercorrente pressupõe a prática de diligências úteis, necessárias e concretas, que demonstrem que o recorrido busca a efetiva satisfação do crédito perseguido, não se admitindo a postergação indefinida da fluência do prazo prescricional calcada em medidas desprovidas de efetividade e eficácia.
+Da alegada omissão
+Verifica-se que o TJRS se pronunciou sobre a controvérsia a que GRID e outro reputaram não ter sido enfrentada, consignando o seguinte:
+Conforme alega a parte agravante, após o levantamento de valores arrecadados com o leilão, em 23/04/2015, o agravado postulou a penhora de veículos e que a intimação para indicá-los não foi atendida, resumindo-se a postular dilação de prazo. Após o pedido de desarquivamento, somente em 29/03/2019, segundo afirma, foi requerido o prosseguimento do feito. Defende o transcurso do prazo prescricional entre 23/11/2025 e 23/11/2018. A considerar as alegações da parte recorrente, vê-se que, no caso, após infrutífera busca de valores nas contas da parte executada (Certidão expedida em 16/04/2015 - fl. 04 - evento 5, PROCJUDIC9), a parte foi intimada para indicar outros bens à penhora. Em 23/04/2015, postulou a exequente pesquisa/restrição de veículos pelo sistema RENAJUD, sendo intimada para indicar os bens sobre os quais pretendia recair a penhora (certidão expedida dia 13/11/2015). Requereu, então, a concessão de prazo para referido fim (23/11/2015) e vista dos aut0s aos novos procuradores (02/03/2016). Em 29/03/2016, certidão de ausência de manifestação da parte autora (fl. 16 do evento 5-PROCJUDIC9). Na data 13/06/2016, foi expedida certidão de intimação acerca do interesse do autor no prosseguimento do feito (fl. 17). A ausência de manifestação do exequente foi certificada em 08/08/2016, depreendendo-se arquivado o feito. Na data de 05/02/2019 (fl. 19 - evento 5- PROCJUDIC9), foi requerida pela parte agravada o desarquivamento do processo, o que foi certificado em 27/02/2019 (fl. 26 do referido evento). Em 29/03/2019, a parte autora veio autos requerer pesquisa no sistema BACENJUD e, alternativamente, RENAJUD e INFOJUD (fl. 28 do referido evento), quando foi solicitado pelo julgador a apresentação dos cálculos atualizados (certidão expedida em 22/08/2019). Diferente do sustentado pela parte recorrente, em nenhum momento o processo permaneceu sem movimentação processual por período superior a 03 (três) anos, prazo do direito material vindicado pela parte exequente, a teor dos artigos 70 e 77, da LUG, combinado com o artigo 206-A, do Código Civil.
+ ..
+Induvidoso, a exequente não restou inerte no curso da demanda executiva por prazo superior ao da prescrição do direito material, devendo ser mantida a decisão que afastou a prescrição intercorrente, com o consequente prosseguimento da execução (e- STJ, fls. 59/60)
+Assim, inexiste o vício elencado no art. 1.022, II, do Código de Processo Civil, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE RECONSIDERAÇÃO NA EXCEÇÃO DE SUSPEIÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. CARÁTER PROTELATÓRIO. MULTA. APLICAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da
+lide.
+2. Nos termos dos arts. 219 e 1.023 do CPC/2015, são intempestivos os embargos de declaração opostos após o prazo de cinco dias úteis. 3. Consoante disposto no art. 224, § 3º, do CPC/2015, "a contagem do prazo terá início no primeiro dia útil que seguir ao da publicação".
+4. A reiteração de argumentos, nos terceiros embargos de declaração, já repelidos nos acórdãos anteriormente proferidos, por meio de fundamentos claros e coerentes, destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do CPC de 2015.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl no RCD na ExSusp 187/SP, Rel. Ministro RAUL ARAÚJO, Corte Especial, julgado em 10/12/2019, DJe 18/12/2019)
+Afasta-se, portanto, a alegada violação.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA. PRESCRIÇÃO INTERCORRENTE NÃO VERIFICADA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO CONFIGURADA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GRID ASSESSORIA E CONSULTORIA EMPRESARIAL EIRELI e outro (GRID e outro) contra decisão que negou seguimento ao seu apelo nobre.
+Foi apresentada contraminuta.
