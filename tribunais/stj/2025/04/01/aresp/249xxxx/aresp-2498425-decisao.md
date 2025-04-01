@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto MUNICIPIO DE BELEM contra decisão que inadmitiu o recurso especial com fundamento na incidência Súmula 126/STJ, diante da presença de matéria de cunho constitucional suficiente, por si só, para manter o acórdão recorrido, sem que houvesse interposição do correspondente recurso extraordinário.
+O ente agravante sustenta, em suma, ofensa ao art. 373, I, do Código de Processo Civil, ao argumento de que não estaria comprovado o direito ao FGTS pelo recorrido. Afirma que a decisão de inadmissibilidade teria incorrido em error in procedendo ao aplicar o óbice sumular, requerendo o destrancamento do recurso especial para que seja reconhecida a suposta violação de lei federal. Ao final, pugna pelo conhecimento e provimento do agravo, bem como pela reforma integral do acórdão recorrido.
+Sem contrarrazões, certidão fl. 251.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+No presente caso, o Tribunal a quo entendeu que se configurou violação a preceitos constitucionais (art. 5º da CF), por suposta demora na análise de recurso, reconhecendo direito líquido e certo. Assim, ainda que a parte agravante invoque eventual ofensa a lei federal, percebe-se que a ratio decidendi primordial do acórdão decorreu de fundamento constitucional não atacado por recurso extraordinário. Logo, a questão posta extrapola os limites cognitivos do recurso especial, cuja fundamentação é vinculada (art. 105, III, da CF). Nesse contexto, incide o óbice da Súmula 126 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISCUSSÃO ACERCA DA RESPONSABILIDADE PARA ARCAR COM OS CUSTOS DE REMANEJAMENTO DE POSTES EM FAIXA DE DOMÍNIO LOCALIZADA AO LONGO DE RODOVIA. ACÓRDÃO E RAZÕES DE RECURSO ESPECIAL COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL (ARTIGO 102, INCISO III, ALÍNEA "A", DA CONSTITUIÇÃO FEDERAL). PRECEDENTES DO STJ. ALÍNEA "C". ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA ANTE O ÓBICE SUMULAR.
+ ..
+4. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+5. Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+6. O Tribunal a quo fundamenta suas razões em matéria de cunho constitucional, conforme se extrai do seguinte excerto (fl. 816, e-STJ): "(..) ao meramente declarar que o Decreto nº 84.398/80 não está mais em vigor, o entendimento proferido por esta Douta Câmara Julgadora vai de encontro ao quanto previsto no artigo 949 do Código de Processo Civil e, também, ao artigo 97 da Constituição, igualmente suscitado no Recurso Extraordinário interposto conjuntamente pela Recorrente, restando caracterizada, assim, nítida ofensa ao estatuto processual vigente".
+7. Infere-se que o acórdão decidiu a controvérsia, acerca da responsabilidade de custear o remanejamento de postes de energia elétrica ao longo de faixa de domínio localizada em rodovia, sob o enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal sua eventual reforma, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+8. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+9. Agravo Interno não provido (AgInt no AREsp n. 2.370.268/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDEF. HONORÁRIOS ADVOCATÍCIOS. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de agravo de instrumento no qual a Corte local apreciou a questão referente à retenção de honorários advocatícios contratuais em crédito relativo ao FUNDEF concedido por via judicial, entendendo pela impossibilidade.
+2. Interposto recurso especial, os ora agravantes apontaram ofensa ao art. 22, § 4º, da Lei n. 8.906/94, alegando a possibilidade de retenção das verbas honorários contratuais.
+3. O acórdão recorrido decidiu por aplicar à hipótese o entendimento do STF acerca da questão. Trata-se, portanto, de acórdão amparado em fundamento constitucional, o que inviabiliza a reforma da decisão por esta Corte sob pena de usurpação da competência da Suprema Corte.
+4. Agravo interno não provido(AgInt no REsp n. 2.081.698/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 30/11/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+ EMENTA
