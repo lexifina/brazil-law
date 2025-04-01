@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial (fls. 294-297), porque não demonstrada a ofensa aos dispositivos legais invocados, tampouco a divergência, e por incidência da Súmula n. 7 do STJ.
+O acórdão recorrido encontra-se assim ementado (fl. 170):
+Arrendamento mercantil - "Leasing" financeiro - Ação de restituição de quantias pagas - Demanda de arrendatário em face de empresa arrendadora Fase de cumprimento de sentença Decisão que afastou a arguição de prescrição relacionada aos créditos da arrendadora - Manutenção Cabimento Prescrição - Matéria acobertada pela coisa julgada material Impossibilidade de modificação - Precedentes jurisprudenciais. Recurso do agravante desprovido.
+Os primeiros embargos de declaração foram rejeitados (fls. 195-199) e os segundos acolhidos nos termos da seguinte ementa (fl. 218):
+Embargos declaratórios Alegações relacionadas à existência de contradição e omissão Acolhimento em parte, para esclarecimentos - Prequestionamento da matéria Inadmissibilidade. Embargos acolhidos tão somente para esclarecimentos, e com observação.
+Nas razões do recurso especial (fls. 226-246), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta violação do art. 1.022 do CPC/2015 porque não examinados os artigos legais e a jurisprudência invocados nos embargos de declaração, pugnando para que seja reconhecido o prequestionamento da matéria consoante previsão do art. 1.025 do CPC/2015.
+Indica ofensa ao art. 193 do CC/2002, alegando que a prescrição não foi anteriormente examinada e que deveria ser apreciada pelo Tribunal de origem por se tratar de matéria de ordem pública.
+Suscita contrariedade aos arts. 190 e 206, § 5º, I, do CC/2002 e divergência jurisprudencial. Argumenta que "o prazo prescricional do banco para pleitear o ressarcimento das quantias vencidas e não pagas até agosto de 2011,  ..  é quinquenal" (fl. 233) e que a exceção prescreve no mesmo prazo que a pretensão, portanto não é possível compensar o crédito prescrito com valor que ainda pode ser cobrado.
+Afirma que houve negativa de vigência aos arts. 189, 368, 369 e 882 do CC/2002 e indica dissídio. Sustenta que "a exigibilidade do crédito é pressuposto necessário da compensação legal, sem a qual não há que se cogitar sua imposição", "portanto, não pode a C. Câmara permitir a inclusão no cálculo de valores inexigíveis judicialmente pelo banco Recorrido" (fl . 240).
+No agravo (fls. 300-309), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 312-321).
+É o relatório.
+Decido.
+Ausente ofensa ao art. 1.022 do CPC/2015, pois o acórdão recorrido apresentou, de forma clara e suficiente, os fundamentos pelos quais negou provimento ao agravo do ora recorrente. Confira-se o seguinte excerto (fls. 171-173):
+Consta dos autos que o agravante moveu ação de restituição de valores pagos, fundada em contrato de arrendamento mercantil, modalidade leasing financeiro.
+Foi proferida sentença de procedência, parcialmente reformada pelo V. Acórdão de fls. 52/62, em que restou anotado que eventual devolução de valores a título de VRG dependia da apuração de débitos e créditos entre as partes, mediante análise do pagamento das contraprestações, pelo autor, enquanto na posse do bem, assim como com relação ao montante obtido pela arrendadora com a venda do bem a terceiro.
+Tal Acórdão transitou em julgado em 28.02.2020 fls. 75.
+Em fase de liquidação do julgado o exequente arguiu ocorrência de prescrição quinquenal relativamente aos créditos da executada decorrentes das contraprestações vencidas e não pagas entre janeiro e agosto de 2011.
+Contudo, operado nos autos principais o efeito da coisa julgada que, na lição de Costa Machado, não só convalida todas as nulidades eventualmente verificadas no processo, como em relação ao mérito, faz presumir, de forma absoluta, que todos os fatos e argumentos fáticos e jurídicos dedutíveis, mas não deduzidos pelo autor e pelo réu para fortalecer o fundamento jurídico do pedido e o fundamento da defesa, foram rechaçados pela sentença definitiva ("Código de Processo Civil Interpretado e Anotado" - pág. 811).
+A prescrição ora arguida se refere a período anterior à prolação da sentença (fase de conhecimento) e, embora seja matéria de ordem pública, não pode modificar o título judicial legalmente constituído.
+ ..
+Logo, o direito à compensação de débitos e créditos, relacionados ao contrato em questão, deriva do título executivo judicial, não havendo que se falar em prescrição.
+No julgamento dos segundos aclaratórios, acrescentou-se (fl. 219):
+O julgado ora combatido se manteve claro quando fundamentou que se tratava de ação de restituição de valores proposta pelo ora embargante e que era o caso de cumprir o determinado em Acórdão que transitou em julgado em 28.02.2020, onde anotado que eventual devolução de valores a título de VRG dependeria da apuração de débitos e créditos entre as partes, mediante análise do pagamento das contraprestações, pelo autor, enquanto na posse do bem, assim como com relação ao montante obtido pela arrendadora com a venda do bem a terceiro.
+Consequentemente, afastou a arguição de ocorrência de prescrição quinquenal relativamente aos créditos da executada, decorrentes das contraprestações vencidas e não pagas, na medida em que a prescrição não significa perda do direito material, mas apenas do direito de ação.
+Ressalto, nesta oportunidade, que tal como decidido pelo ilustre Desembargador Luis Fernando Nishi nos autos do agravo de instrumento nº 2008731-24.2018.8.26.0000, julgado em 07.06.2018, mesmo se houvesse prescrição das prestações vencidas e não pagas, do contrato de arrendamento mercantil, seria possível a compensação com eventual valor a ser restituído ao embargante.
+O simples fato de a parte não concordar com a conclusão do Tribunal de origem não configura ofensa ao dispositivo legal invocado.
+No mais, o especial não pode ser conhecido por incidência das Súmulas n. 283 e 284 do STF.
+O fundamento do acórdão recorrido foi de que, na fase de cumprimento de sentença, não é possível discutir questões que estão acobertadas pela coisa julgada. Contudo, no especial, a parte não apresentou dispositivo legal apto a desconstituir o fundamento do acórdão recorrido, não sendo aptos os dispositivos de lei material indicados pela parte.
+O mesmo óbice impede o exame do especial fundamentado na alínea "c" do permissivo constitucional.
+Acrescente-se que, nos termos da jurisprudência do STJ, "a pretensão de restituição de quantias em razão de contrato de leasing, a título de valor residual garantido (VRG), e a compensação do seu valor com outras despesas ou encargos, possuem natureza contratual, devendo ser aplicado o prazo prescricional decenal previsto no art. 205 do Código Civil" (AgInt nos EDcl no AREsp n. 1.951.664/SP, relator Ministro M arco Buzzi, Quarta Turma, julgado em 2/5/2022, DJe de 6/5/2022).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
