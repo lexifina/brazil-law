@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (fls. 690-695).
+O acórdão recorrido encontra-se assim ementado (fls. 501-502):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL - SENTENÇA QUE JULGA PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS - INCONFORMISMO DA INSTITUIÇÃO FINANCEIRA - ALEGAÇÃO DE PRÁTICA DE ADVOCACIA PREDATÓRIA PELO ADVOGADO DA PARTE AUTORA - REQUERIMENTO DE EXPEDIÇÃO DE OFÍCIO AO NUMOPEDE - NÃO ACOLHIDO - PARTE QUE PUGNA PELO JULGAMENTO PRESENCIAL - IMPOSSIBILIDADE DE DEFERIMENTO NESTE MOMENTO - PROCURADOR QUE DEVE SEGUIR O CONTIDO NO ART. 198 DO REGIMENTO INTERNO DESTA CORTE DE JUSTIÇA - ALEGAÇÃO DE IMPOSSIBILIDADE DE LIMITAÇÃO DE TAXAS DE JUROS - PRETENSÃO DE MANUTENÇÃO DOS JUROS REMUNERATÓRIOS SEGUNDO AS TAXAS PACTUADAS NOS CONTRATOS - ABUSIVIDADE CARACTERIZADA - TAXAS PACTUADAS QUE SUPERAM EM MUITO A UMA VEZ E MEIA A MÉDIA APURADA PELO BACEN ENTRE AS INSTITUIÇÕES ATUANTES NO MERCADO DE CRÉDITO - NECESSIDADE DE LIMITAÇÃO À TAXA MÉDIA DE MERCADO - ALEGAÇÃO DE IMPOSSIBILIDADE DE REPETIÇÃO DE INDÉBITO DE FORMA DOBRADA - POSSIBILIDADE DE RESTITUIÇÃO EM DOBRO SEM COMPROVAÇÃO DE MÁ-FÉ NA FORMAÇÃO OU EXECUÇÃO DO CONTRATO APÓS 30/03/2021 - RESTITUIÇÃO QUE DEVE SE DAR DE FORMA SIMPLES ATÉ A DATA DA PUBLICAÇÃO DO REFERIDO ACÓRDÃO - ENTENDIMENTO DE QUE O RECONHECIMENTO DA ABUSIVIDADE POR SI SÓ NÃO IMPLICA NA RESTITUIÇÃO /COMPENSAÇÃO DOBRADA DOS VALORES PAGOS SEM COMPROVAÇÃO DE MÁ-FÉ - CASO CONCRETO ANTERIOR AO REFERIDO ACÓRDÃO - SENTENÇA REFORMADA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 536-542)
+Nas razões do recurso especial (fls. 547-580), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação do art. 421 do CC, pois (fl. 556):
+ o acórdão recorrido  invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado" (..)
+No agravo (fls. 743-752), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 761-766).
+É o relatório.
+Decido.
+Ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios ( fls. 509-510):
+Já em relação ao segundo argumento da apelante, relativo ao fato de que os juros contratados são superiores em virtude do risco decorrente da condição pessoal do tomador, muitas vezes inscrito em órgãos de proteção ao crédito, de igual modo não se sustenta, na medida em que inexiste nos autos qualquer prova ou mesmo indício de que a autora estivesse na época da primeira contratação inscrita em tais cadastros, ou mesmo que por qualquer outro motivo exibisse indícios de que o risco da operação seria maior do que aquele comum em operações do gênero, circunstância que particularmente considerada desautoriza até mesmo o acolhimento da pretensão alternativa formulada pela apelante, de redução dos juros remuneratórios para uma vez e meia a média de mercado, pois como visto, o risco da operação situou-se justamente na média de todas as instituições que nele operam, como medida de restabelecimento do equilíbrio contratual.
+Assim sendo, não merece prosperar a alegação da instituição financeira a respeito da impossibilidade de limitação das taxas de juros remuneratórios, havendo amplo entendimento jurisprudencial acerca da verificação da abusividade em relação à média das taxas reconhecida pelo Banco Central ao momento da contratação.
+(..)
+Dessa forma, adota-se o referencial de uma vez e meia a taxa média de mercado, para a aferição de eventual abusividade das taxas de juros aplicadas pela instituição financeira.
+(..)
+Desta forma, constatado que as taxas pactuadas foram muito superiores a uma vez e meia a taxa divulgada pelo BACEN em todos os contratos impugnados pela parte autora, quais a abusividade deve ser reconhecida.
+Assim, efetuada a cobrança abusiva na taxa de juros remuneratórios nos instrumentos firmados, esta deve ser limitada à taxa média de mercado, impossibilitando a manutenção dos juros remuneratórios como os pactuados em contrato.
+Dessa forma, a limitação da taxa de juros remuneratórios pactuada deve se dar à média do mercado reconhecida pelo BACEN na época da contratação, não havendo que se falar em limitação a uma vez e meia a média aplicada, mesmo porque tal referencial é adotado apenas para fins de verificação de abusividade, sendo este o entendimento aplicado por esta C. Câmara.
+O entendimento está de acordo com a jurisprudência desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Incide, portanto, a Súmula n. 83/STJ.
+Ainda, desconstituir a convicção formada pelas instâncias de origem acerca das peculiaridades do contrato e da ausência de prova por parte da recorrente, para assim acolher os argumentos do recurso especial, é inviável em razão das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
