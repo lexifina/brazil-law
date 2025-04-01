@@ -1,0 +1,11 @@
+DECISÃO
+ANDREA DOS SANTOS ROSA, condenada por tráfico de drogas e associação para o tráfico, a cumprir 12 anos, 5 meses e 10 dias de reclusão, alega sofrer coação ilegal diante de acórdão do Tribunal do Espírito Santo, que indeferiu o pedido de substituição de sua prisão preventiva pela domiciliar, o qual reitera a esta Corte, diante de suas condições de saúde e responsabilidades familiares.
+Decido.
+Não estamos mais diante de discussão sobre a aplicação do art. 318-A do CPP.
+A defesa pede a substituição da prisão preventiva por domiciliar, porque a ré é a principal responsável pelos cuidados de seus filhos, sendo um deles menor de 11 anos e o outro maior, diagnosticado com transtorno do espectro autista, além de cuidar de uma neta de 4 anos, portadora de síndrome de Down. Argumentou, ainda, que a denunciada é soropositiva para HIV, apresenta imunossupressão crônica e possui histórico de tratamento contra câncer de mama.
+No entanto, a condenação da paciente já transitou em julgado. Trata-se de prisão pena. O pedido de prisão domiciliar durante o regime fechado, com fundamento na excepcional aplicação do art. 117 da LEP, nem sequer foi analisado pelo Juiz da VEC. Ressalte-se que o Magistrado pode determinar a realização de provas para exame da pretensão, como estudo social para verificar se a condenada, foragida, convive com os menores e é imprescindível aos seus cuidados, além de perícia médica para atestar suas condições de saúde. Essas diligências não são cabível em habeas corpus.
+Infere-se dos autos que "as condições de saúde da paciente e suas responsabilidades familiares não foram suficientemente comprovadas nos autos como imprescindíveis, pois os documentos médicos estão desatualizados e insuficiente para demonstrar a inviabilidade de tratamento em unidade prisional" (fl. 18).
+Nesse contexto, nem sequer é possível a concessão da ordem, de ofício. Nos termos do art. 105 da CF, o "exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus" (AgRg no HC 563.878/MG, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/0/2021).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
