@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por DAVID MARTINEZ e OUTRA em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO. Rescisão contratual cumulada com indenização por perdas e danos. Promessa de compra e venda de imóvel com dação em pagamento. Não comprovado o inadimplemento da ré, promissária compradora. Não atendida a condição à alteração do contrato social (inclusão dos autores como sócios da requerida "SPE") e ao regular prosseguimento/conclusão da obra. Exceção de contrato não cumprido pelos apelantes. Art. 476 do Código Civil. Sentença de improcedência. Ação de obrigação de fazer em apenso julgada procedente. Partes invertidas. Recusa imotivada dos apelantes à transferência da propriedade do imóvel. Outorga de escritura pelos promissários-compradores à ré apelada.
+Sentença mantida. Recurso desprovido." (e-STJ fls. 1301)
+Os embargos de declaração foram rejeitados. (e-STJ fls. 1315/1321)
+Nas razões do recurso especial, a recorrente alega violação aos arts. 489, II, e 1022, II, do CPC, sustentando, em síntese que o acórdão recorrido foi omisso sobre a não fixação de um prazo para a entrega das unidades habitacionais aos Recorrentes, uma vez que todos os prazos contratuais já estão vencidos.
+É o relatório. Decido.
+No que se refere à tese de omissão sobre a não fixação de um prazo para a entrega das unidades habitacionais aos Recorrentes, uma vez que todos os prazos, a Corte de origem assim decidiu:
+"Outrossim, de todo despropositada a pretensão de fixação imediata de prazo para o cumprimento da obrigação pela embargada (entrega das unidades imobiliárias) sem que antes os embargantes cumpram com sua obrigação: outorga de escritura para transferência do imóvel à embargada tal qual assentada no Acórdão (fls. 1.307/1.308)" (e-STJ fls. 1319)
+Como visto, a Corte de origem consignou expressamente que não é possível a fixação imediata de prazo para o cumprimento da obrigação pela embargada (entrega das unidades imobiliárias) sem que antes os embargantes cumpram com sua obrigação: outorga de escritura para transferência do imóvel.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO EVIDENCIADA. ALEGAÇÃO DE BEM DE FAMÍLIA NÃO ANALISADA. JUNTADA DE DOCUMENTOS. IMPOSSIBILIDADE. PRECLUSÃO DA MATÉRIA. DECISÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+(..)
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 2.047.817/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE LOTE. RESCISÃO CONTRATUAL. DESISTÊNCIA DOS COMPRADORES. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 11, 489, 1.022 E 1.025 DO CPC/2015. COMPETÊNCIA. DOMICÍLIO DOS CONSUMIDORES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO . INEXISTÊNCIA. SÚMULA N. 182/STJ. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 11, 489, 1.022 e 1.025 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.2. Tratando-se de relação consumerista, a competência territorial é absoluta, sendo facultado à parte autora escolher ajuizar a demanda no local em que melhor possa deduzir sua defesa, optando entre seu foro de domicílio, no de domicílio do réu, no do local de cumprimento da obrigação, ou no foro de eleição contratual, caso exista. Contudo, está vedada e eleição de foro aleatório. Precedentes.
+(..)
+5. Agravo interno parcialmente conhecido e, na parte conhecida, desprovido.
+(AgInt no AREsp n. 2.718.480/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INFECÇÃO HOSPITALAR. MORTE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. AUSÊNCIA. PROVA PERICIAL. NEXO DE CAUSALIDADE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA N. 7 DO STJ. DANOS MORAIS. VALOR. REVISÃO. IMPOSSIBILIDADE. PENSÃO MENSAL. QUANTIA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. TERMO FINAL. FILHOS DA VÍTIMA. 25 ANOS DE IDADE. JUROS MORATÓRIOS. SELIC. PRECLUSÃO. MATÉRIA DECIDIDA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexistem omissão, contradição ou obscuridade, vícios elencados nos arts. 489 e 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostentava caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+(..)
+8. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.652.788/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional, ou ausência de fundamentação.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos à parte recorrida de 12% para 13% sobre o valor da causa, ressalvada eventual concessão de justiça gratuita.
+Publique-se.
+EMENTA
