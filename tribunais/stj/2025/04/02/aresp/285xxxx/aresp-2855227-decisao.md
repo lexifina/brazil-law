@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO PIAUÍ e FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUI - FUESPI contra decisão do Tribunal de Justiça daquela unidade da Federação, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fls. 607/608):
+EMENTA: MANDADO DE SEGURANÇA. CONCURSO DE PROFESSORES. PEDIDO DE NOMEAÇÃO. CANDIDATAS APROVADAS FORA DAS VAGAS PREVISTAS NO EDITAL. ALEGAÇÃO DE PRETERIÇÃO POR CONTRATAÇÃO DE PROFESSORES SUBSTITUTOS. NÃO COMPROVAÇÃO. CONCESSÃO. INVIABILIDADE. DESISTÊNCIAS DE CANDIDATOS MELHOR CLASSIFICADOS DENTRO DO PRAZO DE VALIDADE DO CERTAME. DIREITO SUBJETIVO À NOMEAÇÃO.
+1. A jurisprudência pátria consolidou-se no sentido de que os candidatos aprovados fora do número de vagas previsto no edital não possuem direito líquido e certo à nomeação, salvo nas hipóteses de preterição arbitrária e imotivada por parte da Administração.
+2. No presente caso não restou demonstrado a contratação de professores provisórios para o Campus que a impetrante foi aprovada, inviabilizando a concessão do mandamus, em razão da ausência de direito líquido e certo à nomeação.
+3. A jurisprudência dos Tribunais Superiores firmou-se, no sentido de que, no caso de desistência de candidatos melhor classificados, fazendo com que os seguintes passem a constar dentro do número de vagas ofertadas pelo edital, dentro do prazo de validade do certame, a expectativa de direito se convola em direito líquido e certo, garantindo o direito à vaga disputada.
+4. In casu, a expectativa de direito da impetrante MARIA ANDREIA NUNES convolou-se em direito subjetivo à nomeação para o cargo de professor efetivo de Ciências Biológicas, classe adjunto 40h, no campus de Corrente-PI, tendo em vista que, ante a desistência de um candidato nomeado para a vaga prevista na cidade de Corrente- PI, a mesma passou a figurar dentro das vagas ofertadas pelo edital do concurso.
+5. Mandado de Segurança concedido à impetrante MARIA ANDREIA NUNES e denegado quanto ao pedido da impetrante JANILDE DE MELO NASCIMENTO. Decisão unânime.
+Acolhidos, com efeitos modificativos, os aclaratórios por aresto da seguinte forma resumido (e-STJ fls. 696/697):
+EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA. CORREÇÃO DE CONTRADIÇÃO EXISTENTE. NECESSIDADE. EMBARGOS ACOLHIDOS. CANDIDATA APROVADA FORA DAS VAGAS PREVISTAS NO EDITAL. PRETERIÇÃO POR CONTRATAÇÃO DE PROFESSOR SUBSTITUTO. COMPROVAÇÃO. CONCESSÃO DA SEGURANÇA PARA NOMEAÇÃO DA IMPETRANTE. OBRIGATORIEDADE.
+1. Os embargos de declaração visam a sanar ambiguidade, obscuridade, contradição ou omissão do julgado, admitindo a jurisprudência o seu uso para a correção de erro material.
+2. Ocorrendo efetiva contradição no acórdão, são cabíveis embargos de declaração, para análise e correção da matéria contraditória.
+3. In caso, verificou-se contradição entre a jurisprudência acostada aos autos e a decisão embargada.
+4. A jurisprudência pátria consolidou-se no sentido de que os candidatos aprovados fora do número de vagas previsto no
+edital não possuem direito líquido e certo à nomeação, salvo nas hipóteses de preterição arbitrária e imotivada por parte da Administração.
+5. No presente caso restou comprovada a preterição da impetrante/embargante, em razão da contratação de professor provisório para o Campus que a mesma foi aprovada, viabilizando a concessão da segurança, em razão da existência do direito líquido e certo à nomeação.
+6. Embargos de Declaração conhecidos e providos para sanar a contradição verificada e, em consequência conceder a segurança, para determinar a nomeação e posse da embargante JANILDE DE MELO NASCIMENTO no cargo de professora efetiva de Ciências Biológicas, (CLASSE ASSISTENTE-40H), para o Campus Ariston Dias Lima, em São Raimundo Nonato/PI, comprovada a titulação de mestrado.
+Decisão por maioria de votos.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 1º da Lei n. 12.016/2009, 9, II, 20 II, "c", e 22, parágrafo único, IV, da Lei Complementar n. 101/2000, sustentando que não comprovado o direito líquido e certo a nomeação a cargo público, bem como a existência de restrição orçamentária a inviabilizar a pretensão.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem; no tocante à matéria repetitiva, a negativa de seguimento se deu com fundamento no Tema 784 do STF (e-STJ fls. 796/799).
+O Ministério Público Federal opina pelo desprovimento do agravo (e-STJ fls. 877/880).
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No tocante à matéria não abrangida com fundamento em Tema da Repercussão Geral, o Superior Tribunal de Justiça possui entendimento de que aferir a existência de prova pré-constituída, em sede de mandado de segurança, bem como de direito líquido e certo, demanda a análise do conteúdo fático-probatório constante nos autos, o que é inviável, nos termos da Súmula 7 do STJ.
+Nesse sentido: AgRg no AREsp 826.971/MT, rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 22/03/2016; AgRg no AREsp 704.731/RS, rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe de 14/09/2015; AgRg no AREsp 621.251/PE, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe de 21/05/2015; e AgRg no AREsp 264.840/CE, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 10/06/2015.
+No pertinente aos arts. 9, II, 20 II, "c", e 22, parágrafo único, IV, da Lei Complementar n. 101/2000, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
