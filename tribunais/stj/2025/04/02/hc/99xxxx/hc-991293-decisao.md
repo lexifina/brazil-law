@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EDVALDO MACENA BRITO, com pedido liminar, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1500174-13.2023.8.26.0556.
+Consta dos autos que o Ministério Público de São Paulo ofereceu denúncia contra o paciente, porque, no dia 18/3/2023, trazia consigo drogas, para fins de tráfico, consistentes em 2,00 g (dois gramas) de cocaína, acondicionada em 10 (dez) eppendorfs, bem como por se associar ao corréu (Valdinei), para o fim de praticar, reiteradamente ou não, o crime de tráfico ilícito de drogas (fl. 168 - grifo nosso). Após a prisão em flagrante, foi concedida liberdade provisória (fls. 78/80).
+Em 24/1/2025, o Juízo de primeiro grau condenou o paciente às penas de 8 anos de reclusão, em regime inicial fechado, e 1.200 dias-multa, como incurso nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006 (fl. 371).
+O Tribunal local deu provimento parcial ao apelo defensivo, absolvendo os corréus da imputação pela prática do crime previsto no art. 35, caput, da Lei 11.343/2006, e redimensionou a pena do ora paciente para 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa (fl. 446).
+Neste writ, segundo a defesa, a condenação se baseou em provas obtidas de forma ilícita, em razão de abordagem pessoal realizada sem justa causa (fls. 6/13).
+Sustenta a defesa que os autos não contêm elementos que configurem traficância, mas apenas a conduta tipificada no art. 28 da Lei n. 11.343/2006 (fls. 13/14).
+Requer, inclusive liminarmente, a declaração de ilicitude das provas e a absolvição do paciente; ou subsidiariamente, a desclassificação para o crime do art. 28 da Lei n. 11.343/2006; ou ainda a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da referida lei, com todos os seus consectários legais.
+É o relatório.
+Segundo o art. 244 do Código de Processo Penal, a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+Observo que a instância ordinária concluiu pela legalidade da atuação policial. Contudo, o Tribunal local limitou-se a registrar que os policiais militares - os quais teriam recebido denúncias anônimas apontando o estabelecimento do corréu como ponto de tráfico de drogas - avistaram o paciente portando um volume na cintura e apresentando atitudes suspeitas em sua companhia, circunstâncias que motivaram a abordagem de ambos, conforme se observa às fls. 452/453.
+A expressão "atitude suspeita" - que justificou a abordagem - revela-se incontrolável, pois somente o agente que a enunciou pode atribuir-lhe significado, o que caracteriza a ilicitude da prova.
+A jurisprudência desta Corte Superior é dominante no sentido de que meras intuições subjetivas dos policiais não satisfazem o requisito de fundada suspeita (ver, nesse sentido, o RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+Ad argumentandum tantum, cumpre ainda destacar que o paciente foi condenado por tráfico de drogas embora: a) fosse primário; b) ostentasse bons antecedentes; c) a quantidade de entorpecente apreendido fosse ínfima (2 g de cocaína); e d) os autos não contivessem qualquer elemento indicativo de efetiva destinação comercial da substância.
+No processo penal, compete ao Ministério Público provar os elementos do fato típico e, na espécie, não se pode concluir pela prática do crime de tráfico de drogas com base na quantidade e natureza do entorpecente apreendido na posse do paciente.
+Ante o exposto, concedo liminarmente a ordem de habeas corpus para, reformando o acórdão impugnado, reconhecer a nulidade das provas obtidas na busca pessoal, bem como as delas derivadas, e absolver o paciente. Ademais, de ofício, estendo os efeitos desta decisão ao corréu VALDINEI OLIVEIRA VICENTE (art. 580 do CPP) no Processo n. 1500174-13.2023.8.26.0556.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Intime-se o Minist ério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. ALEGAÇÃO VAGA DE "ATITUDE SUSPEITA". INSUFICIÊNCIA. ILICITUDE DA PROVA OBTIDA. ABSOLVIÇÃO. PRECEDENTE.
+Ordem concedida liminarmente, com extensão dos efeitos da decisão ao corréu VALDINEI OLIVEIRA VICENTE, de ofício, nos termos do dispositivo.
