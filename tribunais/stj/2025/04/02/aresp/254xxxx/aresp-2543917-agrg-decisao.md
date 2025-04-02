@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo regimental interposto em favor de WASHINGTON DINIZ COSTA ALENCAR contra decisão proferida pela Presidência desta Corte às fls. 912/913 que, com base no art. 21-E, V, c/c o art. 253, parágrafo único, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, não conheceu do seu agravo em recurso especial, eis que incidente a Súmula n. 182 do Superior Tribunal de Justiça - STJ.
+No presente regimental (fls. 919/922), a Defesa alega que impugnou de forma específica a incidência do enunciado da Súmula n. 7/STJ, não incidindo, pois, a Súmula n. 182/STJ.
+Pugnou, dessarte, pelo provimento do presente agravo regimental a fim de que o seu recurso especial seja conhecido e provido.
+O Ministério Público do Estado do Rio Grande do Norte apresentou contrarrazões (fls. 952/956) e o Ministério Público Federal - MPF apresentou parecer pelo não conhecimento ou desprovimento do agravo regimental (fls. 960/9648).
+É o relatório.
+Decido.
+A decisão agravada não conheceu do agravo em recurso especial ao fundamento de que o agravante teria deixado de impugnar especificamente o fundamento de incidência do Enunciado n. 7 da Súmula do STJ (fls. 912/913).
+De fato, na petição de agravo em recurso especial (fls. 886/893), verifica-se que o agravante impugnou de forma suficiente o óbice invocado.
+Assim, com estas considerações, reconsidero a decisão agravada, com fundamento no art. 258, § 3º, do RISTJ, para conhecer do agravo em recurso especial, eis que também atendidos os demais pressupostos de admissibilidade.
+Passo à análise do recurso especial.
+Cuida-se de recurso especial interposto por WASHINGTON DINIZ COSTA ALENCAR com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE - TJRN em julgamento da Apelação Criminal n. 0800270-37.2023.8.20.5600, que manteve a negativa da incidência da atenuante da confissão espontânea, em acórdão assim ementado:
+"PENAL E PROCESSUAL PENAL. APCRIM. ROUBO MAJORADO (ART. 157, §2º, II E §2º-A, I DO CP). ÉDITO CONDENATÓRIO. INSURGÊNCIA ADSTRITA A DOSIMETRIA. ROGO PELA ATENUANTE DO ART. 65, III, "D" DO CP. CONFISSÃO NÃO EVIDENCIADA. TESE IMPRÓSPERA. INCONFORMISMO RELATIVO AO CÚMULO DAS MAJORANTES (EMPREGO DE ARMA DE FOGO E CONCURSO DE AUSÊNCIA DE MOTIVOS CONCRETOS A RESPALDAREM AAGENTES). MÚLTIPLA INCIDÊNCIA. REFORMADO EM PARTE. DECISUM CONHECIMENTO E PROVIMENTO PARCIAL". (fl. 820).
+Em sede de recurso especial (fls. 865/870), a defesa aponta violação ao art. 65, III, alínea "d", ao argumento de que deve ser reconhecida a atenuante da confissão espontânea, ainda que feita de forma qualificada. Nesse sentido, destaca que, "apesar de ter alegado não saber que as pessoas que consigo estavam iriam praticar o crime de roubo, uma vez confessando ser ele o autor do carro utilizado no crime e tal confissão ter servido a sua identificação, não se pode obstar o reconhecimento da atenuante" (fl. 866).
+Requer seja conhecido e provido o recurso especial para reconhecer a atenuante da confissão espontânea.
+Na hipótese, o TJRN manteve o afastamento d a aplicação da atenuante da confissão espontânea nos seguintes termos do voto do relator (grifos nossos):
+"9. A priori, quanto ao reconhecimento da atenuante do art. 65, III, "d" do CP (subitem 3.1), tenho-a por improsperável.
+10. Com efeito, malgrado alegue ter dirigido o veículo utilizado no dia do roubo, durante a AIJ, em momento algum reconheceu a prática delitiva sob a retórica de desconhecer o intuito dos demais agentes.
+11. Logo, inexiste o direito supra requerido, como esposado no édito em vergasta (ID 20613771):
+".. deixo de considerá-la, uma vez que o acusado não confessou a prática delitiva, pois afirmou que deu carona, sem ter conhecimento de que se praticaria o crime ora em análise..".
+12. Em linhas propositivas, assim se manifestou a douta PJ (ID 20730646):
+".. Com acerto agiu o Juiz primevo, vez que em nenhum momento o ora apelante admitiu a prática dos crimes de roubo, ao contrário, ao ser inquirido em Juízo, disse que foi tirar o carro de Jailson do prego e, na volta para casa, os outros acusados lhe pediram uma carona para Major Sales/RN, dando como contrapartida o combustível. Como se vê, não existe confissão para fundamentar a sentença condenatória. Mais ainda, no caso em apreço, sequer pode se falar em confissão qualificada. Logo irretocável a sentença nesse tópico.." (fls. 821/822).
+Extrai-se do trecho acima que as instâncias do origem afirmaram que o recorrente não confessou a prática do crime de roubo qualificado.
+Desse modo, para divergir da conclusão da Corte local e acolher a pretensão defensiva no ponto seria necessário o revolvimento do acervo fático-probatório, o que é vedado neste instante processual ante a incidência do óbice da Súmula n. 7 do STJ. Nesse sentido (grifos meus):
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. RÉU QUE NÃO ADMITIU A PRÁTICA DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do REsp 1.972.098/SC, de minha Relatoria, esta Quinta Turma do Superior Tribunal de Justiça, ao examinar a correta interpretação do art. 65, III, "d", do Código Penal, em conjunto com a Súmula 545/STJ, adotou a seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+2. Na hipótese, contudo, consta dos autos que o recorrente permaneceu silente em sede policial e, em juízo, negou a prática do delito, o que afasta a possibilidade de reconhecimento da atenuante do art. 65, III, "d", do CP. Noutro giro, entender em sentido diverso demandaria revolvimento fático-probatório dos autos, incabível na presente via (Súmula 7 do Superior Tribunal de Justiça).
+3. Ademais, " ..  na fundamentação da sentença não se identifica alusão às declarações prestadas pelo Acusado no momento da abordagem policial para respaldar a condenação, tendo o Juízo singular apontado à suposta confissão informal apenas por ocasião da transcrição do depoimento da testemunha" (AgRg no HC n. 786.036/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/3/2023, DJe de 23/3/2023).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.566.373/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 23/5/2024.)
+Ante o exposto, do u provimento ao agravo regimental para conhecer do agravo e não conhecer do recurso especial, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
