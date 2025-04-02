@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado por CGHM-Administração de Bens Próprios e Participações Ltda contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 123):
+Agravo de instrumento - Precatório - Habilitação de empresa cessionária de honorários contratuais - Descabimento - Contrato de cessão de honorários firmado entre o patrono da credora originária e empresa terceira - Relação estranha ao feito executivo subjacente, instaurado em face da Fazenda Pública com relação ao débito principal - Agravante que, em caso de descumprimento, deve socorrer-se das vias próprias para cobrar eventual repasse de verba honorária Decisão mantida Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 140/143).
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos:
+I - arts. 1.022, do CPC, ao fundamento de existência de omissão no julgado recorrido;
+II - 104 do CC, 22, § 4º da Lei n. 8.906/1994, 778, § 1º, III e 8º do CPC, ao argumento de que ".. no presente caso, não haverá dedução da quantia a ser recebida pelo credor autor para quitação do contrato particular de honorários, isso porque o credor autor já recebeu o valor devido, tendo ficado estabelecido desde logo, com a cessão inicial do crédito e o acordo com a Fazenda Estadual, que o crédito remanescente era para pagamento do contrato e da honorária de sucumbência, portanto, crédito do advogado constituído, não havendo qualquer disposição legal que impeça a cessão feita por ele." (fl. 165);
+III - art. 5º da Lei de Introdução às Normas do Direito Brasileiro, porque ".. a nova norma processual civil buscou fornecer ao julgador uma interpretação das normas jurídicas de forma mais aberta, estabelecendo modos para a compreensão do ordenamento jurídico, elegendo o fundamento legal mais adequado para o caso concreto e sua interpretação adequando o direito a fim de atender aos fins sociais e às exigências do bem comum, como preceituado pelo art. 8º, do CPC, cujo enunciado é semelhante ao art. 5º, da lei de Introdução ao Direito Brasileiro." (fl. 166).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+Cuida-se, na origem, de agravo de instrumento apresentado por CGHM Administração de Bens Próprios e Participações Ltda., tirado de decisão que negou sua inclusão no polo ativo para executar honorários advocatícios cedidos por contrato.
+Alega, a parte ora agravante, que Elena Vieira Macedo cedeu seus créditos à Hurst Capital Ltda., que, após habilitação, firmou acordo judicial com a Fazenda Estadual para receber valor menor, homologado.
+Aduz, ainda, que o advogado da parte Elena, Dr. Adão dos Santos Nascimento, OAB/SP 200.542, também teria cedido à CGHM os honorários contratuais e sucumbenciais, já reservados nos autos.
+A empresa afirma que Elena já recebeu sua parte, e o saldo pertence ao advogado, que o cedeu, logo, a anuência da referida se verifica na cessão, excluindo honorários em favor do advogado. Por isso, a empresa solicita habilitação no incidente para executar os honorários.
+Conclui-se, assim, que o incidente busca a habilitação da empresa agravante no polo ativo para executar honorários advocatícios cedidos pelo advogado da exequente.
+E tenho que o recurso não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No que mais remanesce, é de se observar o entendimento firmado pela Corte de origem que, ao dirimir a celeuma, assim consignou (fls. 125/126):
+Com efeito, em análise ao substrato probatório coligido aos autos, tem-se que a cessão de honorários firmada entre o patrono da exequente (Dr. Adão dos Santos Nascimento, OAB/SP 200.542) e a empresa agravante Cghm Administração de Bens Próprios e Participações Ltda. (cessionária com relação aos honorários), não diz respeito à relação jurídica estabelecida naquele feito executivo, em face da Fazenda Pública, figurando como titular do direito a exequente (Elena Vieira Macedo), que efetuou cessão de seus créditos à empresa Hurst Capital (cessionária crédito principal), atual credora.
+Assim, tanto os honorários contratuais quanto os sucumbenciais não foram objeto do acordo entre a cessionária (Hurst Capital) e a executada, de sorte que eventual obrigação de repasse de honorários advocatícios contratuais decorre de relação jurídica alheia àquela demanda, não sendo aplicável, pois, o disposto no art. 778, §1º, III, do CPC.
+Portanto, nota-se que a alteração das conclusões adotadas pela Corte de origem, no sentido de que as verbas honorárias debatidas não foram objeto de acordo entre as partes, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e também a interpretação das cláusulas do contrato, providências vedadas em recurso especial, conforme os óbices previstos nas Súmulas 5/STJ e 7/STJ.
+Neste mesmo sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. ACÓRDÃO BASEADO NA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E NO ACERVO PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ.
+1. A revisão das conclusões do Tribunal de origem acerca da legalidade das multas aplicadas à empresa agravante, em razão dos reiterados atrasos na coleta de lixo, exige o reexame dos fatos e provas constantes nos autos, bem como a interpretação das cláusulas do contrato firmado entre as partes, o que é vedado no âmbito do recurso especial, nos termos das Súmula 5 e 7/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.341. 768/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/06/2019, DJe 26/06/2019)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
