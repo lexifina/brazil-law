@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública do Estado do Rio Grande do Sul, em favor de CARLOS REGIS DE VASCONCELOS e GUILHERME HENRIQUE ALMADA LERMEN, contra ato coator consistente na decisão proferida pelo AL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que deu provimento ao recurso interposto pelo Ministério Público para receber integralmente a denúncia, anteriormente rejeitada parcialmente em relação ao crime previsto no artigo 4º, inciso I, da Lei nº 8.137/90, em virtude de suposta inépcia.
+Referido acórdão foi assim ementado (fls. 16-17):
+RECURSO EM SENTIDO ESTRITO. CARTEL. ARTIGO4º, INCISO I, DA LEI 8.137/90. FRAUDE À LICITAÇÃO. ARTIGO 90 DA LEI 8.666/93. REJEIÇÃO PARCIAL DA DENÚNCIA NA ORIGEM. ALEGADO BIS IN IDEM NÃO VERIFICADO. DENÚNCIA QUE DESCREVE SUFICIENTEMENTE O DELITO DE CARTEL. REJEIÇÃO AFASTADA.
+1. Não há conflito aparente de normas entre o crime do art. 4º,inciso I, da Lei nº 8.137/90 e o delito do art. 90 da Lei 8.666/93. Conquanto apresentem determinadas elementares em comum, descrevem, em verdade, condutas distintas e situadas em contextos distintos, além de tutelarem bem jurídicos diversos, não havendo qualquer impossibilidade de que sejam praticados, em determinados casos, em concurso.
+2. Denúncia que narra de forma suficiente de que forma as condutas dos denunciados atingiram a ordem econômica deforma a ensejar a imputação pelo crime do art. 4º, inciso I, da Lei 8.137/90.
+3. O fato de o delito de cartel ter sido supostamente praticado através de inúmeras fraudes à licitação não descaracteriza o crime do art. 4º, inc. I, da Lei 8.137/90, nem configura bis in idem. É exatamente na reiteração das condutas fraudulentas que reside, ao menos em tese, a cartelização denunciada, não havendo qualquer ilegalidade na valoração jurídico-penalde condutas que, transcendendo o âmbito dos procedimentos licitatórios fraudados, acabam por afetar a ordem econômica
+.4. Demonstração de que as condutas dos denunciados afetaram a ordem econômica de tal forma que as consequências do delito transcenderam o mero âmbito do procedimento licitatório para atingir o mercado é matéria de prova, a ser enfrentada no momento oportuno, não se podendo tolher o Órgão da acusação de demonstrar a hipótese cujo reconhecimento pretende. Denúncia recebida na sua integralidade.
+RECURSO PROVIDO.
+Em suas razões, sustenta inépcia da denúncia em relação ao crime de cartel por ausência de descrição das condutas que configurariam o domínio de mercado com abuso do poder econômico. Alega bis in idem na imputação dos crimes de cartel e fraude à licitação.
+A defesa pede a concessão de liminar para suspender os efeitos do acórdão e, no mérito, o trancamento da ação penal quanto ao crime de cartel, mantendo a decisão de primeiro grau que rejeitou parcialmente a denúncia.
+A medida liminar pleiteada foi indeferida (fls. 132).
+As informações foram prestadas (fls. 139/143/191).
+O Ministério Público Federal opina pelo não conhecimento da impetração, e, subsidiariamente, pela denegação da ordem, em parecer assim ementado (fls. 196):
+Habeas corpus impetrado como sucedâneo de recurso próprio. Formação de cartel e fraude à licitação.
+- Trancamento da ação penal. Impossibilidade. Denúncia que atende aos requisitos do artigo 41 do Código de Processo Penal. Indícios suficientes de autoria e materialidade. Necessidade de incursão fático-probatória, incabível nesta via mandamental.
+- Promoção pelo não conhecimento do writ, ou, caso conhecido, pela denegação da ordem.
+É o relatório. DECIDO.
+O presente writ foi impetrado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, em substituição a recurso próprio. Diante dessa situação, não deve ser conhecido, nos termos da jurisprudência do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO. POSSIBILIDADE. DELITOS DE ROUBO EM CONCURSO MATERIAL. CUMULAÇÃO DE CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Conforme consignado na decisão agravada, o presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, a existência de flagrante ilegalidade justifica a concessão da ordem de ofício.
+2.  ..
+3. Agravo regimental desprovido." (AgRg no HC n. 738.224/SP Quinta Turma, Min. Rel. Joel Ilan Paciornik, DJe de 12/12/2023.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DAS DROGAS ISOLADAMENTE. ELEMENTOS INSUFICIENTES PARA DENOTAR A HABITUALIDADE DELITIVA DA AGENTE. INCIDÊNCIA NA FRAÇÃO MÁXIMA (2/3). REGIME ABERTO. ADEQUADO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+6. Agravo regimental não provido." (AgRg no HC n. 857.913/SP, Quinta Turma, Min. Rel. Ribeiro Dantas, DJe de 1/12/2023.)
+Tendo em vista, contudo, o disposto no artigo 654, § 2º, do Código de Processo Penal, passo à análise de possível ilegalidade flagrante que autorize a concessão da ordem de ofício.
+O ponto central da discussão consiste em verificar se a decisão que recebeu a denúncia apresenta fundamentação suficiente ou se padece de vício insanável por ausência de motivação.
+No caso em análise, o recebimento da denúncia está fundamentado, ainda que de forma sucinta, tendo a magistrada analisado a presença dos requisitos legais do art. 41 do CPP e a ausência das hipóteses de rejeição do art. 395 do mesmo diploma, não havendo falar em decisão genérica ou desprovida de fundamentação.
+A decisão de recebimento da denúncia foi lavrada nos seguintes termos (fls. 24):
+Alegam os réus ser a denúncia inepta, pois genérica. Ainda, defendem a inexistência de justa causa para prosseguimento da ação penal. Analisando os autos, verifica-se que a denúncia descreveu os fatos alegadamente criminosos com todas as suas circunstâncias, qualificou os acusados e classificou os delitos a eles imputados, indicando, ainda, o rol de testemunhas (Evento3, ProcJudic01/03, fls. 02/50, 01/50 e 01/19). Registro, por oportuno, que no caso dos autos, havendo concurso de agentes, não há necessidade de descrição pormenorizada da conduta individual de cada agente. Nesse sentido é o entendimento do Superior Tribunal de Justiça:
+ ..
+Ainda, em relação à justa causa, os elementos probatórios até então produzidos demonstram que existente suporte fático e fundamento jurídico indícios mínimos de materialidade e autoria, estando, assim, autorizado o prosseguimento da ação penal.
+Com efeito, não sendo a hipótese de absolvição sumária do acusado, a decisão que recebe a denúncia não demanda fundamentação complexa, sob pena de antecipação prematura de um juízo de mérito que deve ser naturalmente realizado ao término da instrução criminal, em estrita observância aos princípios da ampla defesa e do contraditório.
+Sobre o tema, destaca-se julgado que porta a seguinte ementa:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRANCAMENTO DE AÇÃO PENAL. IMPROCEDENTE.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se alegava inépcia da denúncia e nulidade da decisão de seu recebimento por falta de fundamentação. A acusada, secretária da Comissão Permanente de Licitação, foi apontada por frustrar a competitividade de certame público.
+II. Questão em discussão2. A questão em discussão consiste na possibilidade de trancamento da ação penal por meio de habeas corpus, alegando inépcia da denúncia e ausência de fundamentação na decisão de seu recebimento.
+III. Razões de decidir3. O trancamento de ação penal por habeas corpus é medida excepcional, cabível apenas quando há comprovação inequívoca de atipicidade da conduta, extinção da punibilidade ou ausência de indícios de autoria ou materialidade.
+4. A denúncia apresentou narrativa clara e suficiente para o exercício da defesa, não sendo necessária descrição minuciosa dos fatos na fase inicial.
+5. A decisão de recebimento da denúncia não demanda fundamentação exaustiva, dada sua natureza interlocutória, conforme jurisprudência consolidada.
+IV. Dispositivo e tese6. Agravo regimental desprovido. Tese de julgamento: 1. O trancamento de ação penal por habeas corpus é excepcional e exige comprovação inequívoca de atipicidade, extinção da punibilidade ou ausência de indícios. 2. A denúncia deve permitir o exercício da defesa, sem necessidade de detalhamento exaustivo. 3. A decisão de recebimento da denúncia não requer fundamentação complexa.
+Dispositivos relevantes citados: CPP, art. 41; CPP, art. 395; CPP, art. 396; CPP, art. 397.Jurisprudência relevante citada: STJ, AgRg no HC 857.496/AM, Min. Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024; STJ, AgRg no AREsp 1.831.811/SP, Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/6/2021; STJ, RCD no HC 474.949/PR, Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 6/11/2018.
+(AgRg no HC n. 936.033/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2024, DJe de 6/11/2024.)
+Ressalte-se que a denúncia foi recebida e a instrução criminal está em curso, sendo aquela a sede adequada para ampla produção de provas e exercício do contraditório, quando as teses defensivas poderão ser devidamente analisadas.
+O acórdão impugnado, portanto, mostra-se escorreito, especialmente considerando os limites cognitivos da via eleita.
+De todo modo, não verifico no acórdão nenhuma teratologia ou coação ilegal que autorize a concessão da ordem nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
