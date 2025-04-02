@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 83 do STJ e 284 do STF (fls. 321-324).
+O acórdão do TJGO traz a seguinte ementa (fl. 281):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO INDENIZATÓRIO. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. ATRASO NA ENTREGA DA OBRA DE INFRAESTRUTURA DE LOTEAMENTO. IMÓVEL CAUCIONADO. IMPOSSIBILIDADE DE FRUIÇÃO PELO ADQUIRENTE. CULPA EXCLUSIVA DA VENDEDORA. DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS PELO ADQUIRENTE. CONSECTÁRIOS LEGAIS. CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO INICIAL. INVERSÃO DA CÁUSULA PENAL EM FAVOR DO CONSUMIDOR. DANOS MORAIS CONFIGURADOS. VALOR MANTIDO.
+1. Inegável que a relação formada entre o promitente vendedor e o adquirente do imóvel é de consumo, tendo de um lado uma fornecedora de produtos e de outro adquirente desse produto - no caso, o imóvel prometido à venda, incidindo, assim, o Código de Defesa do Consumidor.
+2. Evidenciada que a rescisão do contrato se deu por culpa exclusiva da empresa vendedora do imóvel (lote), não se há falar de retenção de qualquer valor pago, sendo impositiva a devolução integral e imediata dos valores adimplidos pelo adquirente do imóvel em litígio, nos termos da súmula 543, do Superior Tribunal de Justiça.
+3. Sobre o valor integral a ser restituído ao adquirente do bem devem incidir correção monetária, a partir de cada desembolso, e juros de mora, a partir da citação, e não a contar do trânsito em julgado da sentença, porquanto a rescisão se deu por culpa exclusiva da parte vendedora.
+4. É possível a inversão, em desfavor da incorporadora, da cláusula penal (10%) estipulada exclusivamente para o caso de inadimplência do comprador, a fim de garantir reciprocidade entre as penalidades impostas à adquirente e à fornecedora.
+5. A demora excessiva e injustificada na entrega das obras de infraestrutura do loteamento, bem como a impossibilidade de registro e transferência de domínio do imóvel ultrapassam o mero inadimplemento do contrato e o mero dissabor ou aborrecimento, o que caracteriza dano moral indenizável, uma vez que além da frustração da expectativa, o autor ficou Impossibilitado de usufruir do imóvel adquirido.
+6. Deve ser mantido o valor arbitrado a título de danos morais, pois dentro dos parâmetros da razoabilidade e da proporcionalidade.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+No recurso especial (fls. 295-305), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e desrespeito:
+(i) ao art. 2º do CDC aduzindo que inexistiria relação de consumo entre as partes, pois o comprador não seria o destinatário final do imóvel, e
+(ii) aos arts. 421 e seguintes do CC/2002, porque, "ao enquadrar o presente litígio como uma demanda consumerista, entendendo o cabimento da incidência do Código de Defesa do Consumidor, o respectivo decisum acabou por inviabilizar a aplicação das normas atinentes ao Direito Civil, especialmente no tocante à matéria dos contratos" (fl. 298).
+Foram ofertadas contrarrazões (fls. 315-318).
+No agravo (fls. 328-341), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 358-361).
+É o relatório.
+Decido.
+O Tribunal a quo aplicou as disposições do CDC ao caso, tendo em vista que (e-STJ fl. 282):
+Em proêmio, convém salientar que não prospera a tese da recorrente, no sentido de que não se aplicam as normas consumeristas ao caso vertente, tendo em vista que a relação jurídica se amolda aos conceitos delineados nos artigos 2o e 3o, da Lei nº 8.078/90, já que a sociedade empresária recorrente atua no comércio de empreendimentos imobiliários e o autor, figurando na qualidade de promissário comprador, adquire o produto como destinatário final, tendo em vista a ausência de demonstração de qualquer intuito empresarial ou desiderato de exploração.
+Ademais, é imperativo observar que a jurisprudência deste Tribunal consolidou entendimento no sentido da aplicabilidade do Código de Defesa do Consumidor nos casos de compromisso de compra e venda de imóveis firmados entre pessoas físicas e empreendimentos imobiliários. Veja:
+Não há como ultrapassar os fundamentos do aresto impugnado, a fim de afastar a incidência da legislação consumerista à espécie, nos moldes sustentado pela recorrente. Isso porque, para tanto, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Ademais, "em que pese o contrato de incorporação ser regido pela Lei n. 4.591/64, admite-se a incidência do Código de Defesa do Consumidor, devendo ser observados os princípios gerais do direito que buscam a justiça contratual, a equivalência das prestações e a boa-fé objetiva, vedando-se o locupletamento ilícito" (AgRg no REsp n. 1.006.765/ES, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 12/5/2014).
+Na mesma linha:
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE INCORPORAÇÃO IMOBILIÁRIA. RELAÇÃO DE CONSUMO. VÍCIO DO SERVIÇO. DENUNCIAÇÃO DA LIDE. NÃO CABIMENTO. ENTENDIMENTOS ADOTADOS NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1. "Em que pese o contrato de incorporação ser regido pela Lei nº 4.591/64, admite-se a incidência do Código de Defesa do Consumidor, devendo ser observados os princípios gerais do direito que buscam a justiça contratual, a equivalência das prestações e a boa-fé objetiva, vedando-se o locupletamento ilícito. 3. O incorporador, como impulsionador do empreendimento imobiliário em condomínio, atrai para si a responsabilidade pelos danos que possam resultar da inexecução ou da má execução do contrato de incorporação, incluindo-se aí os danos advindos de construção defeituosa" (AgRg no REsp 1006765/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 12/5/2014).
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado nº 83 da Súmula do STJ.
+(..)
+4. Agravo interno a que se nega provimento.
+AgInt no AREsp n. 1.240.516/SC, Relator Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/3/2019, DJe 29/3/2019.)
+Dessa maneira, incide a Súmula n. 83/STJ, aplicável a recursos interpostos com base nas alíneas "a" e "c" do permissivo constitucional.
+A utilização de expressões genéricas para indicar a afronta a dispositivos legais - arts. 421 e seguintes do CC/2002 -, segundo a jurisprudência do STJ torna a fundamentação recursal deficitária e inviabiliza o conhecimento do recurso, devido à aplicação analógica da Súmula n. 284/STF. Sobre o tema:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 914 "E SEGUINTES" DO CPC/1973. FALTA DE ESPECIFICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. DISSÍDIO JURISPRUDENCIAL. SIMPLES TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. "O uso da fórmula aberta "e seguintes" para a indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula n. 284/STF. Isso porque o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgRg no REsp n. 1.124.819/AM, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 3/6/2014, DJe 12/6/2014).
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.648.982/SP, de minha Relatoria, QUARTA TURMA, julgado em 27/6/2017, DJe 1/8/2017.)
+A Corte local não se manifestou quanto ao art. 421 do CC/2002 sob o ponto de vista da recorrente. Dessa forma, sem ter sido objeto de debate na decisão recorrida e ante a falta de aclaratórios no ponto, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
