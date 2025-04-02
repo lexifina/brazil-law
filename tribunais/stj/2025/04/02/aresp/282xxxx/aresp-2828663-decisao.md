@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por EMÍLIO ROSSATO NETO contra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 280):
+AÇÃO REGRESSIVA. INSS. ACIDENTE DE TRABALHO. NEGLIGÊNCIA DA EMPREGADORA. COMPROVAÇÃO. CULPA CONCORRENTE DA VÍTIMA. AUSÊNCIA DE COMPROVAÇÃO. APELAÇÃO DO INSS PROVIDA E DO RÉU IMPROVIDA.
+1. No que tange à responsabilidade civil nas hipóteses envolvendo acidente do trabalho, duas situações merecem destaque. A primeira, de que há presunção de culpa por parte do empregador quanto à segurança dos trabalhadores a ele vinculados, recaindo sobre aquele o ônus de provar a adoção de medidas preventivas ao acontecimento de infortúnios no ambiente laboral. A segunda, o fato de que cabe ao empregador a direção e a fiscalização no andamento das atividades com observância das diretrizes de segurança e saúde do trabalho.
+2. O empregador não demonstrou a contento que preparou o empregado para desemprenhar as tarefas utilizando tratores e maquinário potencialmente perigosas. A forma do acidente demonstra a imperícia do operador/empregado. Tal fato deixa evidente que a empresa foi negligente ao encaminhar o empregado para a máquina potencialmente lesiva sem treinamento.
+3. Apesar dos informantes alegarem conhecimento do empregado falecido na operação de máquinas e tratores o tipo do acidente demonstra o contrário: faltou instrução e treinamento ao mesmo para evitar o acidente. A ausência de treinamento próprio enseja, ao contrário do entendido pelo Juízo a quo, responsabilidade integral do empregador pelo infortúnio.
+4. Apelação do INSS provida e do réu improvida.
+Embargos de declaração rejeitados (e-STJ fls. 307/310).
+No recurso especial obstaculizado, a parte recorrente apontou violação dos arts. 406 do CC/2002, 13 da Lei n. 9.065/1997 e 39, § 4º, da Lei n. 9.250/1995, sustentando que os juros moratórios sobre os valores a serem ressarcidos, a título de benefício previdenciário, quando não convencionados, devem ser fixados segundo a taxa vigente para a mora do pagamento de impostos devidos à Fazenda Nacional, que é a Taxa Selic. Ressaltou que o aresto impugnado desconsiderou essa disposição legal, aplicando indevidamente o IPCA-E e juros de mora de 1% ao mês (e-STJ, fls. 324/325).
+Além disso, o recorrente sustenta que a jurisprudência do Superior Tribunal de Justiça pacificou a aplicação da Taxa Selic como índice geral e supletivo de juros moratórios.
+Contrarrazões às e-STJ fls. 337/342
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 345/346).
+Passo a decidir.
+Considerando que os fundamentos da decisão de inadmissibilidade foram devidamente atacados (e-STJ fls. 354/357), é o caso de examinar o recurso especial.
+No que toca à alegação de contrariedade aos arts. 406 do CC/2002, 13 da Lei n. 9.065/1997 e 39, § 4º, da Lei n. 9.250/1995 (juros pela taxa Selic), registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição das Súmulas 282 e 356 do STF:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Em situações como esta, caberia à parte, opor embargos de declaração para corrigir os prováveis vícios que entende existentes e, nas razões do seu especial, "alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito" (AgRg no AREsp 650.702/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/08/2016, DJe 09/08/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, em 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
