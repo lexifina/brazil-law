@@ -1,0 +1,142 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0716769-52.2023.8.07.0006EMBARGANTE(S)BANCO ITAUCARD S.A.EMBARGADO(S)TEREZINHA LOPES DA SILVA RIBEIRORelatorDesembargador TEÓFILO CAETANO
+ Acórdão Nº1987599
+
+EMENTA
+
+Embargos de declaração. Civil, direito do consumidor e processual civil. Ação de declaração de inexistência de débito cumulada com indenização por danos morais. Serviços bancários. Relação de consumo. Contrato de cartão de crédito. Furto do cartão de crédito. Consumidora. Imediata comunicação à instituição financeira operadora. Bloqueio do cartão de crédito. Compras não reconhecidas pela titular. Operações realizadas mediante fraude. Transações atípicas consumadas. Utilização dissonante do perfil da cliente. Valores substanciosos. Atuação preventiva do banco. Ausência. Desídia. Falha na prestação dos serviços. Fortuito interno. Risco inerente ao empreendimento (STJ, Súmula 479). Dano moral. Falha no serviço. Segurança, informação e boa-fé. Vulneração.  Consumidora. Cobrança indevida. Desequilíbrio financeiro. Afetação da economia pessoal. Ofensa extrapatrimonial. Afetação da incolumidade e do equilíbrio psicológico. Qualificação. Compensação pecuniária devida. Quantum. Adequação aos princípios da razoabilidade e da proporcionalidade. Apelação conhecida e desprovida. Acórdão. Contradição e Omissões. Inexistência. Rediscussão da causa. Via inadequada. Rejeição.
+
+I. Caso em exame
+
+1. Cuida-se de embargos de declaração opostos em face do acórdão que, por unanimidade, dera provimento ao apelo interposto pela embargada em face da sentença que, resolvendo a ação de declaração de inexistência de débito cumulada com indenização por danos morais, com pedido de tutela provisória de urgência, por ela manejada em desfavor do embargante, julgara parcialmente procedente a pretensão autoral, tendo o julgado colegiado reformado parcialmente o singular de forma a condenar o embargante ao pagamento de verba compensatória a título de danos extrapatrimoniais.
+
+II. Questão em discussão
+
+2. A questão objeto dos embargos de declaração cinge-se à aferição da subsistência dos vícios imputados pela parte embargante – contradição e omissão – ao acórdão quanto à resolução que empreendera à matéria devolvida a reexame, encerrando o provimento do apelo aviado pela ora embargada com a condenação do embargante ao pagamento da quantia a título de compensação por danos morais, acrescida de correção monetária a partir da prolação do acórdão e de juros de mora a partir da citação, nos termos do artigo 406 do Código Civil.
+
+III. Razões de decidir
+
+3. Os embargos de declaração consubstanciam instrumento de aperfeiçoamento da prestação jurisdicional, destinando-se etiologicamente a purificar o julgado das omissões, contradições ou obscuridades que o enodoam, não traduzindo o instrumento adequado para rediscussão das questões elucidadas nem para o reexame da causa, pois, examinando de modo exauriente as matérias debatidas e entregando a tutela reclamada, o decisum esgota sua destinação e o seu alcance.
+
+4. Aferido que as questões reprisadas foram objeto de expressa e literal resolução, ensejando a apreensão de que o julgado não deixara remanescer nenhuma matéria pendente de elucidação, e que a resolução que empreendera é clara o suficiente para viabilizar a assimilação do decidido sem qualquer trabalho exegético ante a literalidade do que nele está estampado, obstando a qualificação de vício apto a tornar opaco o desenlace ao qual chegara, denotando que a parte almeja simplesmente rediscutir o decidido, a rejeição da pretensão declaratória consubstancia imperativo legal.
+
+5. A contradição que enseja o aviamento de embargos de declaração cinge-se à contraposição interna, ou seja, quando o julgado encerrara afirmações dissonantes ou quando a argumentação que alinhavara se mostra desconforme com a conclusão alcançada, rompendo a formação dum silogismo jurídico retratado numa decisão devidamente concatenada, não se divisando quando, a par da simetria entre os fundamentos desenvolvidos e a conclusão externada, o ventilado à guisa de contradição deriva do fato de que os argumentos desenvolvidos e a conclusão alcançada dissentem das expectativas da parte.
+
+6. A circunstância de não se conformar com a exegese defendida pela parte acerca dos dispositivos que conferem tratamento normativo às matérias controvertidas e nortearam a conclusão que estampa não tem o condão de ensejar sua caracterização como omisso, contraditório ou obscuro, pois, tendo apreciado as questões controvertidas, conferindo-lhes o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato e exaurira o ofício que lhe estava debitado.
+
+IV. Dispositivo
+
+7. Embargos conhecidos e desprovidos. Unânime.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, TEÓFILO CAETANO - Relator, RÔMULO DE ARAÚJO MENDES - 1º Vogal e DIVA LUCY DE FARIA PEREIRA - 2º Vogal, sob a Presidência do Senhor Desembargador CARLOS PIRES SOARES NETO, em proferir a seguinte decisão: CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME. , de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Abril de 2025
+
+Desembargador TEÓFILO CAETANORelator
+
+RELATÓRIO
+
+Cuida-se de embargos de declaração[1] opostos por Banco Itaucard S. A. objetivando aclarar o acórdão[2] que, à unanimidade, dera provimento ao apelo interposto por Terezinha Lopes da Silva Ribeiro em face da sentença[3] que, resolvendo a ação de declaração de inexistência de débito cumulada com indenização por danos morais, com pedido de tutela provisória de urgência, manejada pela embargada em face do embargante, julgara parcialmente procedentes os pedidos iniciais, declarando a inexistência dos débitos lançados na fatura do cartão de crédito de sua titularidade e rejeitando a pretensão de condenação do banco réu ao pagamento de compensação sob a insígnia de danos morais. Como corolário dessa resolução, apreendendo pela sucumbência recíproca, condenara ambas as partes, à fração de 50% (cinquenta por cento) para cada, ao pagamento das custas processuais e dos honorários advocatícios, estes fixados no equivalente a 10% (dez por cento) do valor do proveito econômico obtido, nos moldes do art. 85, § 2º, do Código de Processo Civil.
+
+O acórdão agora embargado, por sua vez, dando provimento ao apelo manejado pela autora, reformara parcialmente a sentença arrostada, condenando o embargante ao pagamento da quantia de R$ 3.000,00 (três mil reais), a título de compensação por danos morais, acrescida de correção monetária a partir da prolação do acórdão e de juros de mora a partir da citação, nos termos do artigo 406 do Código Civil. Como corolário dessa resolução, redistribuíra os ônus sucumbenciais, imputando-os integralmente ao embargante, fixando os honorários advocatícios em 10% (dez por cento) do valor da condenação (CPC, art. 85, §§ 2º e 8º), porquanto sucumbira integralmente na pretensão que fora aviada em seu desfavor.
+
+De seu turno, objetiva o embargante a declaração do julgado ao argumento de que estaria permeado por contradição e omissões. Como sustentação material hábil a pretensão aclaratória, argumentara que o julgado se descerraria contraditório no tocante ao valor fixado a título de indenização por danos morais, uma vez que o acórdão fizera a indicação de dois valores pertinentes a tanto, dificultando o reconhecimento do montante efetivamente devido e sendo o esclarecimento imprescindível ao cumprimento da obrigação.
+
+Alegara que a decisão colegiada fora omissa em relação ao termo inicial de fluência dos juros de mora, deixando de observar os preceitos do artigo 405 do Código Civil e a Súmula 362 do STJ, os quais respectivamente determinam que “Contam-se os juros de mora desde a citação inicial” e que “A correção monetária do valor da indenização do dano moral incide desde a data do arbitramento”. Destacara que decisões mais recentes desta egrégia Corte de Justiça e do colendo Superior Tribunal de Justiça foram alinhadas no sentido de que tanto a correção monetária quanto os juros de mora seriam contados a partir da fixação do dano, com o arbitramento de seu valor em dinheiro na sentença de mérito.
+
+Asseverara, nessa toada, que, sendo os juros de mora matéria de ordem pública, também mostrar-se-ia necessária a reforma da decisão vergastada por tê-los fixado em desacordo com o preceituado pelo diploma legal, já que os artigos 389 e 406 do Código Civil passaram a ter redação atualizada pela Lei nº 14.905/2024, com entrada em vigor em 28/08/2024, adotando expressamente a vinculação dos índices IPCA e SELIC para cômputo da correção monetária e dos juros de mora, respectivamente.
+
+Enfatizara que o IPCA, além de padronizar o entendimento sobre o tema, demanda que as partes sejam submetidas a algum prejuízo, na medida em que remunera o saldo devido preservado sem que haja prejuízo ao credor no respeitante à desvalorização da moeda ou o enriquecimento ilícito do devedor no referente ao saldo a ser adimplido, uma vez que esse índice reflete as condições econômicas reais do país e é adotado pelo Banco Central no que tange à orientação da política monetária brasileira.
+
+No tocante à SELIC, verberara ser adequada a sua aplicação ao caso em análise porquanto a nova redação conferida ao artigo 406 do Código Civil estabelecera sua aplicação como índice legal de atualização dos juros de mora nas hipóteses de ausência de previsão contratual ou legal específica. Ressaltara que, por ser a taxa básica de juros da economia nacional fator que também adequa o valor devido ao cenário real, ou seja, por agregar a SELIC correção e juros de mora, ressoa imperiosa a dedução do IPCA do valor condenatório final para que não haja dupla imputação em seu detrimento.
+
+Com lastro nesses argumentos e acentuando que, patente o vício em que incorrera, o julgado arrostado deve ser complementado de forma a não deixar pendente de resolução nenhuma questão atempadamente suscitada, defendera o conhecimento e provimento dos embargos de forma a serem saneados, agregando-se-lhes efeitos infringentes.
+
+É o relatório.
+
+[1] Embargos de declaração de ID 67775453 (fls. 281/288).
+
+[2] Acórdão de ID 67362341 (fls. 249/261).
+
+[3] Sentença de ID 62287191 (fls. 206/210).
+
+VOTOS
+
+O Senhor Desembargador TEÓFILO CAETANO - RelatorCabíveis e tempestivos, suprindo, pois, os pressupostos objetivos e subjetivos de recorribilidade que lhes são próprios, conheço dos embargos.
+
+Cuida-se de embargos de declaração opostos por Banco Itaucard S. A. objetivando aclarar o acórdão que, à unanimidade, dera provimento ao apelo interposto por Terezinha Lopes da Silva Ribeiro em face da sentença que, resolvendo a ação de declaração de inexistência de débito cumulada com indenização por danos morais, com pedido de tutela provisória de urgência, manejada pela embargada em face do embargante, julgara parcialmente procedentes os pedidos iniciais, declarando a inexistência dos débitos lançados na fatura do cartão de crédito de sua titularidade e rejeitando a pretensão de condenação do banco réu ao pagamento de compensação sob a insígnia de danos morais. Como corolário dessa resolução, apreendendo pela sucumbência recíproca, condenara ambas as partes, à fração de 50% (cinquenta por cento) para cada, ao pagamento das custas processuais e dos honorários advocatícios, estes fixados no equivalente a 10% (dez por cento) do valor do proveito econômico obtido, nos moldes do art. 85, §2º, do Código de Processo Civil.
+
+O acórdão agora embargado, por sua vez, dando provimento ao apelo manejado, reformara parcialmente a sentença arrostada, condenando o embargante ao pagamento da quantia de R$ 3.000,00 (três mil reais), a título de compensação por danos morais, acrescida de correção monetária a partir da prolação do acórdão e de juros de mora a partir da citação, nos termos do artigo 406 do Código Civil. Como corolário dessa resolução, redistribuíra os ônus sucumbenciais, imputando-os integralmente ao embargante, fixando os honorários advocatícios em 10% (dez por cento) do valor da condenação (CPC, art. 85, §§ 2º e 8º), porquanto sucumbira integralmente na pretensão que fora aviada em seu desfavor.
+
+De seu turno, objetiva o embargante a declaração do julgado ao argumento de que estaria permeado por contradição e omissões. A argumentação alinhada pelo embargante e os vícios que imputara ao acórdão quanto à resolução que empreendera à questão devolvida a reexame destoam e desconsideram por completo o que nele está impregnado de forma literal, tangenciando comezinhos princípios de direito instrumental, pois, em sede de pretensão declaratória, almeja rediscutir as questões resolvidas e as matérias que, devolvidas a reexame, foram devidamente elucidadas. Ora, cotejando-o detidamente infere-se que o julgado cuja declaração é almejada não padece da contradição e das omissões que lhe foram imprecadas.
+
+Consoante se afere do nele estampado textualmente, verifica-se que elucidara específica e detalhadamente todas as questões reprisadas e reputadas relevantes para elucidação da matéria controversa, o que resultara no provimento do apelo manejado pela embargada e na derradeira reforma em parte da sentença arrostada, julgando procedentes todos os pedidos deduzidos na exordial. Com efeito, a decisão colegiada estabelecera que a importância de R$ 3.000,00 (três mil reais) revelara-se adequada à compensação do dano moral sofrido pela demandante, não estipulando nenhum outro valor a título de indenização por danos morais que impossibilitasse precisar o valor real da condenação como deduzira o embargante.
+
+Nesse diapasão, restara expressamente consignado que a importância delineada alhures afigurara-se em conformidade com os princípios da proporcionalidade e da razoabilidade, guardando consonância com os objetivos nucleares da compensação, que seriam conferir um lenitivo à lesada, de forma a assegurar-lhe um refrigério pelas ofensas que experimentara, e penalizar o ofensor pelo seu desprezo para-com os direitos alheios e as próprias obrigações que lhe estão destinadas na condição de prestador de serviços financeiros. Dessa forma não merece prosperar o aduzido pelo embargante no viés de que a decisão colegiada padece de contradição, porquanto só restara arbitrado o valor de R$ 3.000,00 (três mil reais) a título de compensação pelos danos extrapatrimoniais sofridos pela embargada.
+
+No tocante à alegação de que o acórdão fora omisso em relação à fixação do termo inicial da correção monetária e juros de mora, sobeja que carece de respaldo o arguido pelo embargante. Com efeito, a douta Turma julgadora apontara expressamente na parte dispositiva da decisão colegiada que, condenado o réu/embargante ao pagamento da quantia de R$ 3.000,00 (três mil reais), a título de compensação por danos morais, esta verba deveria ser acrescida de correção monetária a partir da prolação do acórdão e de juros de mora a partir da citação, nos termos do artigo 406 do Código Civil, afastando eventual compreensão na vertente de fluírem a atualização monetária e os juros de mora a partir da data de arbitramento – como pretende o embargante.
+
+Por   fim, quanto à aplicação do IPCA e da SELIC, de acordo com a redação atualizada pela Lei nº 14.905/2024, afere-se que o acórdão também não pode ser considerado omisso quanto ao ponto, uma vez que, quando da atualização do débito em sede de liquidação do julgado, aplica-se a lei vigente o tempo e, caso a referida atualização não guarde conformação com as determinações legais, nada obsta que as partes exerçam o seu direito ao contraditório, impugnando o débito final apresentado. Portanto, encerrando as questões matéria de ordem pública, o incremento do montante condenatório, cuja consubstanciação se dará na fase mencionada alhures, deverá observar, como cediço, o legalmente estabelecido e em vigor, ou seja, o disposto no artigo 406 e §§ do Código Civil, com a nova redação que lhes fora ditada pela Lei nº 14.905/2024.
+
+Fica patente, então, que o acórdão embargado não padece dos vícios que lhe foram acoimados, ilação que ressoa impassível dos excertos adiante reproduzidos, verbis:
+
+“(...)
+
+Consequentemente, aferido que a conjuntura delineada afetara sua tranquilidade, paz e vida cotidiana, insculpindo-se como fato gerador do dano moral, ressoa legítima a pretensão indenizatória volvida à concessão à apelante de compensação pecuniária compatível com o acontecido e consonante com os princípios da proporcionalidade e da razoabilidade. À guisa dos parâmetros alinhados, sucede-se que, levando-se em conta as circunstâncias que envolveram os fatos, a importância de R$ 3.000,00 (três mil reais) revela-se adequada à compensação do dano moral sofrido pela demandante.
+
+Dessas circunstâncias, sobreleva-se que a importância delineada alhures afigura-se em conformidade com os princípios da proporcionalidade e da razoabilidade, guardando consonância com os objetivos nucleares da compensação, que é conferir um lenitivo ao lesado, de forma a assegurar-lhe um refrigério pelas ofensas que experimentara, e penalizar o ofensor pelo seu desprezo para-com os direitos alheios e as próprias obrigações que lhe estão destinadas na condição de prestador de serviços financeiros. Ora, levando-se em consideração as nuanças que ensejaram o sucesso da prática fraudulenta e o comportamento do apelado diante do ocorrido – que negara a sua responsabilidade em face da fraude perfectibilizada, ao estofo de que inexistira nexo causal pela perduração de excludentes de responsabilidade civil, mesmo sabendo que sua responsabilidade é objetiva e após a consumidora ter empreendido tentativas para solucionar a controvérsia administrativamente – visualiza-se que a importância apontada guarda conformação com os danos derivados do ocorrido.
+
+Aliás, não pode ser desprezado, também, seu caráter pedagógico e profilático, que tem como escopo admoestar o ofensor e levá-lo a repensar sua forma de atuação e seus procedimentos administrativos, objetivando coibir a reiteração de atos idênticos. Para mais, importância inferior à mensurada, a par de desprezar esses parâmetros, converteria a reparação deferida em estímulo e prêmio para o ofensor e caracterizar-se-ia como mais uma ofensa direcionada à vítima, que veria os abalos que sofrera em sua dignidade serem compensados por uma quantia irrisória que não representa qualquer compensação, por mínima que seja, aos dissabores e transtornos que vivenciara.
+
+(...)
+
+Nesse ínterim, emerge que a ocorrência de fraude e/ou fato delituoso não pode ser alçada como fundamento idôneo a elidir a responsabilidade do réu pelos prejuízos de ordem extrapatrimonial causados à autora, derivados de transação fraudulenta posteriormente realizada em nome desta. Ora, rememore-se que os riscos inerentes à entabulação de operação financeira substancializada por meio de ardil inscrevem-se na álea ordinária da atuação da casa bancária, estando compreendidos nos riscos intrínsecos à sua atividade. Sob esse enfoque, a pretensão compensatória que aviara a autora/apelante reveste-se, portanto, de lastro material subjacente, donde emerge a ilação de que o apelo por ela manejado deve ser provido, ensejando, conseguintemente, a reforma do provimento sentencial vergastado, de molde a lhe ser atribuída a compensação pecuniária, no equivalente a R$ 3.000,00 (três mil reais), pelos danos extrapatrimoniais que comprovadamente experenciara.
+
+(...)
+
+Estofado nos argumentos alinhavados, conheço do apelo e dou-lhe provimento, para reformando parcialmente a ilustrada sentença arrostada, condenar o réu/apelado ao pagamento da quantia de R$ 3.000,00 (três mil reais), a título de compensação por danos morais, acrescida de correção monetária a partir da prolação do acórdão e de juros de mora a partir da citação, nos termos do artigo 406 do Código Civil. Como corolário dessa resolução, redistribuo os ônus sucumbenciais, imputando-os integralmente ao réu/apelado, fixando os honorários advocatícios em 10% (dez por cento) do valor da condenação (CPC, art. 85, §§ 2º e 8º), porquanto sucumbira integralmente na pretensão que fora aviada em seu desfavor.  No mais, mantenho intacta a ilustrada sentença vergastada.”[1]
+
+Aludidas assertivas, ademais, são corroboradas pelo retratado na ementa do julgado, verbis:
+
+“CIVIL, DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. SERVIÇOS BANCÁRIOS. RELAÇÃO DE CONSUMO. CONTRATO DE CARTÃO DE CRÉDITO. FURTO DO CARTÃO DE CRÉDITO. CONSUMIDORA. IMEDIATA COMUNICAÇÃO À INSTITUIÇÃO FINANCEIRA OPERADORA. BLOQUEIO DO CARTÃO DE CRÉDITO. COMPRAS NÃO RECONHECIDAS PELA TITULAR. OPERAÇÕES REALIZADAS MEDIANTE FRAUDE. TRANSAÇÕES ATÍPICAS CONSUMADAS. UTILIZAÇÃO DISSONANTE DO PERFIL DA CLIENTE. VALORES SUBSTANCIOSOS. ATUAÇÃO PREVENTIVA DO BANCO. AUSÊNCIA. DESÍDIA. FALHA NA PRESTAÇÃO DOS SERVIÇOS. FORTUITO INTERNO. RISCO INERENTE AO EMPREENDIMENTO (STJ, SÚMULA 479). DANO MORAL. FALHA NO SERVIÇO. SEGURANÇA, INFORMAÇÃO E BOA-FÉ. VULNERAÇÃO. CONSUMIDORA. COBRANÇA INDEVIDA. DESEQUILÍBRIO FINANCEIRO. AFETAÇÃO DA ECONOMIA PESSOAL. OFENSA EXTRAPATRIMONIAL. AFETAÇÃO DA INCOLUMIDADE E DO EQUILÍBRIO PSICOLÓGICO. QUALIFICAÇÃO. COMPENSAÇÃO PECUNIÁRIA DEVIDA. QUANTUM. ADEQUAÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. APELAÇÃO CONHECIDA E DESPROVIDA.
+
+1. Sob a teoria do risco do negócio encampada pelo legislador de consumo, o fornecedor de serviços bancários responde objetivamente pelas falhas advindas dos serviços que fomenta como inerentes à atividade lucrativa que desenvolve no mercado de consumo, não encerrando fato apto a ilidir sua responsabilidade a constatação de que os danos sofridos pela consumidora derivaram da atuação delituosa de terceiros por enquadrar-se a ocorrência como fortuito interno às atividades desenvolvidas e aos riscos que lhe são inerentes se não reprimidas operações dissonantes do histórico de operações até então mantido pela lesada.
+
+2. Evidenciado que, a despeito de atempadamente cientificado do fato criminoso que vitimara a titular do cartão de crédito, que tivera subtraído o instrumento de crédito de sua titularidade, o banco se recusara a cancelar as transações fraudulentamente empreendidas via do manejo fraudulento do instrumento creditício no lapso temporal havido entre a comunicação do furto à casa bancária e o efetivo bloqueio do uso do instrumento de crédito, ensejando a consumação de operações dissonantes do perfil de consumo que então apresentava, notadamente a ultimação de compra superior ao que aufere mensalmente como aposentada do regime geral de previdência, restam aperfeiçoados a falha em que incidira o fornecedor de serviços financeiros e os pressupostos necessários à sua responsabilização pelos efeitos que produzira, a par da desqualificação das operações ultimadas (CDC, art. 14, § 3º; STJ, súmulas 267 e 479).
+
+3. Patenteada a falha em que incidira a instituição financeira e apreendido que resultara no lançamento de débitos carentes de lastro subjacente em desfavor da consumidora e em cobranças indevidas, afetando sua tranquilidade, paz e vida cotidiana, insculpem-se os fatos como gerador do dano moral, ressoando legítima a concessão de compensação financeira à lesada compatível com o acontecido e consonante com os princípios da proporcionalidade e da razoabilidade.
+
+4. A compensação pecuniária devida à atingida por ofensas de natureza moral deve ser mensurada de conformidade com seus objetivos nucleares, que são a penalização do ofensor e a outorga de lenitivo à consumidora em ponderação com os princípios da proporcionalidade, atentando-se para a gravidade dos danos havidos, para o comportamento do ofensor e para a pessoa lesada no evento, e da razoabilidade, que recomenda que o importe fixado não seja tão excessivo a ponto de ensejar uma alteração na situação financeira da ofendida, nem tão inexpressivo que redunde em uma nova mágoa à vitimada.
+
+5. Apelação conhecida e provida. Unânime.”[2]
+
+Diante da literalidade do retratado na ementa trasladada depara-se com a irreversível evidência de que todas as questões reprisadas pelo embargante foram explícita e especificamente enfrentadas e elucidadas. Fica evidente, assim, que a contradição e as omissões imputadas ao julgado não subsistem, denotando que o embargante, em verdade, pretendera rediscutir a causa. Emerge dessas circunstâncias a certeza de que, promovido o correto e exato enquadramento de todas as questões pertinentes ao caso, restam desqualificados e infirmados os vícios imputados ao acórdão pelo embargante.
+
+Deve ser assinalado, por fim, que a contradição que enseja o aviamento de embargos de declaração cinge-se à contraposição interna, ou seja, quando o julgado encerrara afirmações dissonantes ou quando a argumentação que alinhavara se mostra desconforme com a conclusão alcançada, rompendo a formação dum silogismo jurídico retratado numa decisão devidamente concatenada. Considerando que, na espécie, o que vislumbrara o embargante como contradição é simplesmente o alinhamento de fundamentos dissonantes dos seus interesses, não subsistindo aludida inconsistência, inviável que seja reconhecido tal vício e declarado o julgado, notadamente quando o almejado, em verdade, é sua reforma.
+
+De conformidade com comezinhas regras de direito instrumental, os embargos de declaração destinam-se exclusivamente à aprimoração do julgado mediante sua purificação das lacunas que eventualmente o maculem, não se consubstanciando no instrumento apropriado para a rediscussão das mesmas questões suscitadas ou reexame da causa. Para esse desiderato, o legislador processual indicara os instrumentos recursais adequados de forma a, inclusive, a par de velar pelos princípios da efetividade e instrumentalidade processuais, coibir que o mesmo órgão jurisdicional reexamine as questões e matérias que elucidara em nítida ofensa ao princípio do duplo grau de jurisdição.
+
+Elucidadas as questões devolvidas à sua apreciação de conformidade com a apreensão que extraíra do aduzido e conferindo-lhes o enquadramento e tratamento que se afigurara adequado, o julgado cumprira seu desiderato. Insatisfeito com a resolução imprimida sem divergência ao apelo aviado pela embargada, compete ao embargante, em contrapartida, manejar os recursos extraordinários cabíveis objetivando reformar o decidido de forma a conformá-lo com o entendimento que sustenta ser o correto, e não perseguir sua reforma através de meio inteiramente inadequado e inidôneo para esse desiderato.
+
+Dos argumentos alinhados aflora, então, a certeza de que, devidamente apreciado o estofo material invocado e guardando os argumentos alinhados por ocasião da sua apreciação coerência lógica e se conformando perfeitamente com o correto e adequado enquadramento das questões suscitadas, a contradição e as omissões aventadas pelo embargante não coexistem. Ressalte-se, uma vez mais, que toda a argumentação alinhavada guarda conformação e se amolda nitidamente à conclusão que estampa o julgado desafiado, ensejando sua qualificação como um silogismo perfeito, inexistindo qualquer vício que o macule passível de ser sanado através da via escolhida.
+
+Deflui dessas circunstâncias a constatação de que, a par de o julgado hostilizado não estar acoimado pelos vícios que lhe foram imputados, afastando a contradição e as omissões que lhe foram imprecadas, o embargante, exacerbando-se no exercício do direito de defesa que constitucionalmente lhe é assegurado, manejara a pretensão declaratória que aduzira inteiramente desprovida de lastro material, objetivando simplesmente debater as mesmas questões já efetivamente apreciadas e elucidadas, não tendo, no entanto, apontado, em suma, nenhuma alegação que teria restado desprovida do devido exame, pretendendo simplesmente a obtenção de novo pronunciamento acerca da matéria equacionada.
+
+Esteado nesses argumentos e inexistindo qualquer contradição ou omissão afligindo o decisório hostilizado, nego provimento aos embargos.
+
+É como voto.
+
+[1] Acórdão de ID 67362341 (fls. 249/261).
+
+[2] Ementa de ID 66175882 (fl. 274).
+
+O Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 1º Vogal Com o relatorA Senhora Desembargadora DIVA LUCY DE FARIA PEREIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E NEGAR-LHE PROVIMENTO. DECISÃO UNÂNIME.
