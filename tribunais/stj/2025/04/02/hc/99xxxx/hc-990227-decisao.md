@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de BRUNO DOS SANTOS PEREIRA CARLOTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que o paciente foi condenado às penas de 13 anos e 6 meses de reclusão no regime inicial fechado, como incurso nas sanções dos art . 121, § 2º, I e IV, do Código Penal.
+O impetrante sustenta que o paciente foi julgado pelo crime de homicídio pelo Tribunal do Júri da Comarca de Sabará, sendo-lhe concedido o direito de recorrer em liberdade, por não haver elementos que indicassem a necessidade de decretação da prisão preventiva.
+Em apelação, a autoridade coatora reformou a sentença, reduzindo a pena do sentenciado, mas não se manifestou expressamente sobre o direito de recorrer solto.
+A defesa opôs embargos de declaração, os quais foram rejeitados ao argumento de que o pleito de recorrer em liberdade não se revelaria compatível com a via dos aclaratórios.
+No presente writ, o impetrante argumenta que não existem dados concretos que demonstrem que o paciente, em liberdade, constituiria ameaça à ordem pública, prejudicaria a instrução criminal ou se furtaria à aplicação da lei penal, tendo respondido todo o processo em liberdade.
+Afirma que o paciente possui trabalho e residência fixa, não se envolveu com criminalidade desde a época dos fatos e possui excelente conduta social.
+Requer, liminarmente e no mérito, a expedição de salvo-conduto, preservando o direito fundamental da liberdade física do paciente, nos termos do art. 660 do Código de Processo Penal.
+É o relatório.
+A defesa sustenta que o Tribunal estadual atendeu ao pedido de redução da pena imposta na sentença condenatória de primeiro grau, no que tange ao crime cometido pelo paciente. Contudo, não se manifestou de forma expressa acerca do direito de recorrer em liberdade.
+Nesse contexto, ao pleitear a expedição de salvo-conduto para assegurar o direito de recorrer em liberdade, não foi de forma clara demonstrada a existência de interesse jurídico. Isso porque o réu encontra-se em liberdade e não há elementos concretos que evidenciem alguma restrição à sua liberdade de locomoção, nem justificativa suficiente para a concessão da medida requerida.
+Em outras palavras, a defesa não conseguiu demonstrar, de forma inequívoca, como o direito de ir e vir do paciente está sendo concretamente ameaçado neste momento.
+Ademais, mesmo que se superasse a ausência de demonstração de interesse processual, o pedido formulado está  em tese  em desacordo com a jurisprudência consolidada no Tema n. 1.068 do Supremo Tribunal Federal, que estabelece que, após a condenação pelo Tribunal do Júri, a execução da pena imposta pelos jurados é imediata, salvo em situações excepcionais.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. EXECUÇÃO IMEDIATA INDEPENDENTEMENTE DA PENA APLICADA. TEMA 1.068/STF. ART. 492, § 4º DO CPP. INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO. APLICAÇÃO DO ENTENDIMENTO A FATOS ANTERIORES À ENTRADA EM VIGOR DA LEI Nº 13.964/2019. NORMA PROCESSUAL E AUSÊNCIA DE MODULAÇÃO DE EFEITOS PELA SUPREMA CORTE. CONSTRANGIMENTO ILEGAL AFASTADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O Pleno do Supremo Tribunal Federal, na sessão de julgamento do dia 12/9/2024, concluiu o julgamento do RE 1.235.340/SC (Tema 1.068 da Repercussão Geral), da relatoria do Ministro Roberto Barroso, dando interpretação conforme à Constituição Federal, com redução de texto, ao art. 492 do CPP, com a redação da Lei n. 13.964/2019, excluindo do inciso I da alínea e do referido artigo o limite mínimo de 15 anos para a execução da condenação imposta pelo corpo de jurados, em consequência, dos §§ 4º e 5º, inciso II, do mesmo art. 492 do CPP a referência ao limite de 15 anos, por arrastamento. Na oportunidade, firmou-se a tese de que a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução da condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada.
+2. Por outro lado, o art. 492, § 4º, do CPP é norma processual, podendo retroagir aos casos praticados antes de sua vigência.
+Ademais, ao examinar o Tema 1068, dando interpretação conforme à Constituição ao dispositivo, a Suprema Corte não estabeleceu modulação de efeitos do entendimento sufragado, podendo, pois, a orientação firmada ser aplicada aos casos anteriores à vigência da norma.
+3. Agravo regimental a que se nega provimento.
+(AgRg no RHC n. 210.097/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
