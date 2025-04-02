@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu recurso especial (fundado no art. 105, III, a, da CF) apresentado contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios (Apelação Criminal n. 0732333-51.2021.8.07.0003) que aumentou a reprimenda fixada em face de Raul dos Santos de Oliveira em razão de condenação pelos crimes de homicídio qualificado e porte ilegal de arma de fogo.
+Nas razões do recurso especial, a defesa do agravante suscitou violação do art. 59 do Código Penal. Alegou, em síntese, que fundamentação inidônea para valoração negativa das consequências do crime, apontando, ainda, ilegalidade no critério de aumento de pena na primeira fase da dosimetria (fls. 455/467).
+A Corte de origem inadmitiu o recurso com fundamento na Súmula 7/STJ (fls.479/780).
+Contra o decisum a defesa interpôs o presente agravo (fls. 485/497).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos termos da ementa (fl. 518):
+AGRAVO EM RECURSO ESPECIAL. PENAL. CRIME DE HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II, DO CP). CONDENAÇÃO À PENA DE 16 ANOS E 06 MESES DE RECLUSÃO EM REGIME FECHADO. DOSIMETRIA. 1ª FASE. PENA-BASE. CIRCUNSTÂNCIAS DO DELITO. VETOR QUE ENVOLVE O MODO DE EXECUÇÃO. JUSTIFICATIVA IDÔNEA NA ESPÉCIE. RÉU QUE PERSEGUIU A VÍTIMA E EFETUOU O DISPARO DENTRO DA RESIDÊNCIA NA PRESENÇA DA GENITORA DELA. CONSEQUÊNCIAS DO DELITO. VETOR QUE SE REFERE AO RESULTADO DA AÇÃO. VÍTIMA QUE DEIXOU FILHOS MENORES ÓRFÃOS, ELEMENTO NÃO INERENTE AO TIPO PENAL EM QUESTÃO. PRECEDENTES. FRAÇÃO DE AUMENTO. ELEVAÇÃO EM 48 MESES (OU 04 ANOS) QUE ATENDE AOS PARÂMETROS RECONHECIDOS COMO IDEAIS PELA JURISPRUDÊNCIA PÁTRIA (1/6 SOBRE A PENA MÍNIMA PARA CADA VETOR OU 1/8 SOBRE A DIFERENÇA ENTRE A PENA MÍNIMA E A MÁXIMA). AUSÊNCIA DE ILEGALIDADE. PARECER PELO NÃO PROVIMENTO DO PRESENTE AGRAVO.
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão. Em relação ao recurso especial, em si, não merece acolhimento.
+A defesa aponta violação do art. 59 do Código Penal, alegando fundamentação inidônea quanto a valoração negativa das consequências do crime.
+A Corte de origem assim se manifestou sobre o tema (fls. 437/438 - grifo nosso):
+ ..
+No concernente às consequências do crime, não se desconhece o entendimento no sentido de que a orfandade é consequência lógica e natural do crime, quando a vítima possui filhos menores.
+Entretanto, filio-me ao entendimento de que quando o homicídio enseja o desemparo de filhos menores, os quais possuem dependência emocional, afetiva e, também, financeira, tem-se uma consequência não natural do delito, sendo, portanto justificável a valoração negativa das consequências do crime.
+ ..
+De fato, como bem asseverou o Tribunal estadual, mostra-se legítima a fundamentação utilizada para negativar as consequências do crime, destacando o fato de a vítima ter deixado filhos menores dependentes financeiramente.
+Foram apontados elementos concretos devidamente extraídos dos autos, os quais transbordam daqueles ínsitos ao crime de homicídio, encontrando-se em perfeita sintonia com o princípio da individualização da pena e da discricionariedade regrada do juiz.
+Nessa linha: AgRg no AREsp n. 2.635.531/TO, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 27/9/2024; AgRg no AREsp n. 2.549.278/TO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 6/9/2024; AgRg no HC n. 861.089/ES, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/6/2024; AgRg no HC n. 821.673/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/12/2023; AgRg no HC n. 702.070/SP, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe 25/3/2022; AgRg no REsp n. 1.942.880/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 3/11/2021; AgRg no AREsp n. 1.820.500/MA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/9/2021; HC n. 623.819/PE, Ministro Felix Fischer, Quinta Turma, DJe 8/2/2021, dentre outros.
+Por fim, quanto à tese de ilegalidade do critério utilizado para exasperação da pena, a insurgência é admissível, mas, no mérito, não merece acolhida.
+A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria.
+Esta Corte Superior já definiu que a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias (AgRg no HC n. 718.681/SP, Quinta Turma, Ministro Ribeiro Dantas, DJe 30/8/2022 - grifo nosso).
+Confiram-se, ainda, o AgRg no HC n. 857.952/PA, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/4/2024; o AgRg no HC n. 778.266/MS, Ministro Teodoro Silva Santos, Sexta Turma, DJe 21/3/2024; o AgRg no HC n. 873.506/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/2/2024; o AgRg no AREsp n. 2.480.609/DF, Ministro Teodoro Silva Santos, Sexta Turma, DJe 14/2/2024; o AgRg no AREsp n. 1.937.429/PA, Ministro Messod Azulay Neto, Quinta Turma, DJe 26/6/2023; e o AgRg no HC n. 768.059/MS, de minha relatoria, Sexta Turma, DJe 20/6/2023.
+Logo, não há falar em critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EVASÃO DE DIVISAS. PENA-BASE. FIXAÇÃO ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE NA DECISÃO IMPUGNADA.
+1. A ponderação das circunstâncias judiciais do art. 59 do Código Penal não é uma operação aritmética, mas sim um exercício de discricionariedade vinculada, devendo o magistrado eleger a sanção que melhor servirá para a prevenção e repressão do fato-crime praticado, exatamente como realizado na espécie.
+2. Na hipótese, a decisão agravada, em observância ao princípio da individualização da pena, embora tenha alterado o quantum, manteve a exasperação da sanção inicial estabelecida na origem, considerando a vultuosa quantia de valores enviados ao exterior sem o conhecimento das autoridades brasileiras, fundamento que imprime maior reprovabilidade à conduta imputada, justificando o aumento procedido, nos termos da jurisprudência desta Corte Superior.
+ ..
+(AgRg no AREsp n. 1.218.352/MG, Ministro Jorge Mussi, Quinta Turma, DJe 5/12/2018).
+ ..
+2. In casu, as instâncias ordinárias fundamentaram expressamente a majoração da pena-base, considerando, em especial, a quantidade e a qualidade da droga apreendida - 6.020 g de cocaína -, nos termos do art. 42 da Lei n. 11.343/2006. Daí, não se mostra desproporcional ou desarrazoada, porquanto fundamentada a fração em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+ ..
+(AgRg no AREsp n. 1.195.931/SE, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/11/2018).
+ ..
+6. A orientação jurisprudencial desta Corte é no sentido de que a fixação da pena-base - com base nas circunstâncias judiciais do art. 59 do Código Penal - não se dá por critério puramente objetivo ou matemático, uma vez que é admissível certa discricionariedade do órgão julgador, desde que vinculada aos elementos concretos dos autos. E, no caso, os elementos sopesados justificam o incremento da pena na primeira fase da dosimetria.
+ ..
+(REsp n. 1.758.958/SP, de minha relatoria, Sexta Turma, DJe 25/9/2018).
+No caso, considerando que a Corte de origem aplicou um critério, dentro da discricionariedade vinculada que lhe é assegurada pela lei, e amplamente aceito por esta Corte, não há falar em ilegalidade.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 59 DO CP. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO. DOSIMETRIA. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS DO CRIME. FUNDAMENTOS CONCRETOS, RESPALDADOS PELA JURISPRUDÊNCIA DESTA CORTE SUPERIOR. ILEGALIDADE NO CRITÉRIO ADOTADO PELA CORTE DE ORIGEM PARA FIXAÇÃO DA PENA-BASE. IMPROCEDÊNCIA. INEXISTÊNCIA DE CRITÉRIO MATEMÁTICO IMPOSITIVO. DISCRICIONARIEDADE VINCULADA. PRECEDENTES DESTA CORTE.
+Agravo conhecido para negar provimento ao recurso especial.
