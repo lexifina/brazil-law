@@ -1,0 +1,52 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, para manter a decisão singular, que não conheceu do agravo em recurso especial, por falta de impugnação específica dos fundamentos da decisão de admissibilidade realizada pela Corte de origem.
+O julgado recorrido recebeu a seguinte ementa (fl. 650):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. De acordo com o disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 683-687).
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, LV, e 93, IX, da Constituição Federal.
+Nesse sentido, argumenta ter havido erro judicial no acórdão recorrido, a configurar decisão ultra petita, uma vez que a questão em debate não requer a análise de fatos, mas tão somente a verificação de contradição no julgamento da Corte local, que incluiu condenação por danos estéticos, a qual foi indeferida no primeiro julgamento e, depois, foi acolhido, sem que houvesse recurso da parte contrária.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 651-653):
+A parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto nos arts. 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015.
+No caso, o juízo de prelibação negativo proferido pelo Tribunal de origem ao inadmitir o recurso especial, consignou que, no acórdão integrativo, reconheceu-se a existência de erro material no aresto recorrido quanto à menção aos danos estéticos, uma vez que tratou-se apenas da quantificação do prejuízo imaterial (e-STJ fl. 572) e que a modificação da conclusão quanto ao valor indenizatório demanda a incursão no acervo probatório dos autos, o que atrai a incidência da Súmula 7 do STJ.
+Nas razões do agravo em recurso especial, a agravante não infirmou de forma clara e específica esse fundamento, em evidente desrespeito ao princípio da dialeticidade.
+Com efeito, a parte limitou-se a apontar suposta violação aos dispositivos legais indicados, nos seguintes termos (e-STJ fls. 586/587):
+Conforme já explanado, a parte Agravante não pretende que o STJ revolva diretamente os documentos ou outras provas colhidas. A controvérsia jurídica foi explanada do seguinte modo (fl. 488/489): "(..)".
+Logo, o que se impugnou foi a inovação inopinada do acórdão sobre pedido que foi considerado improcedente e, sem que houvesse recurso da parte, o tribunal reformou de ofício a sentença para acolher, sendo assim decisão "ultra petita", e com "reformatio in pejus".
+Esse vício procedimental foi apontado nos embargos de declaração no tópico, contudo, o Tribunal de origem, contudo, negou provimento aos aclaratórios com o vago argumento de que haveria simples inconformismo da parte Recorrente.
+Diante da persistência da Corte de piso em negar a discussão sobre a questão de direito processual levantada, suscitou-se explícito malferimento do art. 1.022, inciso II, do CPC, pois os embargos foram rejeitados sem o mínimo aprofundamento nos seus méritos, e ainda, considerando que o próprio acórdão reconhece o erro e mesmo assim manteve a condenação excessiva.
+Quanto aos dispostos nos arts. 372, 489, inciso IV, e 1.022, inciso II, do CPC, a parte Recorrente impugnou a alegação de nulidade da sentença por suposta ausência de prévio saneamento e de prévio anúncio.
+Não há, como se vê, em parte alguma a necessidade de reanálise dos fatos da causa ou mesmo das provas em si. Bastaria que o acórdão fosse complementado pelas teses levantadas nos embargos de declaração para que fosse anulado, mas, de acordo com o entendimento da Vice-Presidência do tribunal de origem, haveria esbarro na Súmula 7/STJ.
+ ..
+Outrossim, não assiste razão à Vice-presidência ao invocar o enunciado da Súmula 7/STJ, porque, como já dito, não se exige a revisão de fatos ou provas para constatar a violação objetiva dos artigos de lei federal mencionados.
+Como se vê, a argumentação apresentada apenas insiste na tese de que o acórdão recorrido teria incorrido em contradição e reformado de ofício a sentença, sem, todavia, contrapor frontalmente a fundamentação adotada pela decisão de inadmissibilidade.
+Isso porque, em observância ao princípio da dialeticidade, a impugnação deve ser feita, nas razões do agravo em recurso especial, de forma específica, concreta e pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto.
+Assim, em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, o que não ocorreu.
+A propósito:
+ ..
+Sendo assim, mostra-se inafastável o desprovimento do presente agravo interno.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
