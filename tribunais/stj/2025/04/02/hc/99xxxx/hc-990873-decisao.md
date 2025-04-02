@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de THIAGO TOFANETO, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado como incurso nos arts. 33, caput, da Lei n. 11.343/2006 e 16, parágrafo único, IV, da Lei n. 10.826/2003, às penas de 9 anos e 6 meses de reclusão, em regime, fechado, mais pagamento de 611 dias-multa.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao apelo ministerial, para exasperar as penas para 10 anos e 2 meses de reclusão, no regime inicial fechado, e pagamento de 677 dias-multa (e-STJ, fls. 48-55)
+Esta Corte Superior de Justiça, no julgamento do HC n.º 864.824/SP, de minha relatoria, em 30/10/2023, concedeu a ordem, de ofício, para reduzir a sanção final do paciente para 4 anos, 11 meses e 10 dias de reclusão mais pagamento de 204 dias-multa, mantido o regime fechado.
+Em sede revisional, foi indeferida a liminar pleiteada (e-STJ, fls. 23-26).
+Neste writ, a defesa alega, em suma, que, "no caso em debate, o enunciado 691 do STF, deve ser superado, tendo em vista a patente ilegalidade identificada nos autos (condenação do paciente em crimes autônomos - apreensão de arma de fogo em contexto de tráfico de drogas), havendo sério risco de prisão indevida, de modo que o entendimento pacificado do STJ sobre a matéria em pauta, deve ser imediatamente aplicada no caso em destaque, como melhor forma de aplicação da lei, do direito e da remansosa jurisprudência desta Corte de Justiça sobre o tema." (e-STJ, fl. 9)
+Assevera que "a apreensão da arma de fogo se deu dentro do contexto da prática do crime de tráfico de drogas (arma apreendida juntamente com os entorpecentes), de modo que o paciente não poderia ter sido condenado como incurso na prática de crimes autônomos (tráfico de drogas e posse de arma de fogo de numeração suprimida), mas sim como incurso na prática do crime de tráfico de drogas com a causa de aumento de pena prevista no artigo 40, inciso IV, da Lei 11.343/2006." (e-STJ, fl. 12)
+Aponta a possibilidade de aplicação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direito.
+Requer "Seja reformado o acordão guerreado para que seja aplicado para o caso em destaque o preconizado no arti go 40, inciso IV, da Lei 11.343/2006, nos termos da decisão de afetação do Tema 1259 do STJ, oportunidade em que deverá ser redimensionada a aplicação da dosimetria da pena do revisionando (observados os parâmetros estabelecidos na concessão da ordem de habeas corpus de nº. 864.824 do STJ), bem como fixado o regime inicial aberto para o cumprimento da pena, devendo ainda, ser substituída a pena corporal pelas restritivas de direito." (e-STJ, fl. 22)
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."
+(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido."
+(AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019)
+A decisão impugnada encontra-se fundamentada nos seguintes termos:
+"A Revisão Criminal, como sabido, só pode ser admitida nas hipóteses taxativas previstas no art. 621 do Código de Processo Penal, cabimento que não será verificado nesse momento, em face do pedido de liminar limitar-se à expedição de contramandado de prisão.
+Todavia, não se vislumbra no caso o fumus boni juris necessário à concessão da liminar pleiteada.
+O caso exposto já passou por julgamento com trânsito em julgado, de tal maneira que não se pode agora, neste momento processual, em cognição sumária, desautorizar o v. acórdão atacado.
+Ademais, o pleito antecipatório se confunde com o mérito da ação, já que a possibilidade do peticionário responder em liberdade está vinculada à suposta ausência de provas para sua condenação e tipificação correta, o que será analisada no momento oportuno.
+Assim, INDEFIRO a liminar, posto que ausentes os pressupostos autorizadores de sua concessão." (e-STJ, fl. 25)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
