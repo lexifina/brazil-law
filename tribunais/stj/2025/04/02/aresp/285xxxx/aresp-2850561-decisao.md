@@ -1,0 +1,30 @@
+DECISÃO
+JOÃO PEDRO CARMONA DE PAULO agrava da decisão que não admitiu o recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501107-66.2023.8.26.0594).
+Consta dos autos que o recorrente foi condenado pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 à pena de 5 anos de reclusão, mais multa, em regime semiaberto.
+Nas razões do recurso especial, a defesa aponta a negativa de vigência do art. 33, § 4º, da Lei n. 11.343/2006, pois considera que o recorrente preenche os requisitos para a aplicação do tráfico privilegiado. Sustenta que a fundamentação usada pelas instâncias originárias não se mostra suficiente e se refere a elementos genéricos.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, com fulcro no óbice processual da Súmula n. 7 do STJ, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 382-383).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+I. Negativa de vigência do art. 33, § 4º, da Lei n. 11.343/2006
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida" (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, o juízo de primeiro grau, ao realizar a dosimetria, assim justificou a reprimenda fixada (fls. 236-237, destaquei):
+A autoria da infração penal também é induvidosa. As testemunhas Marcos Moraes Bueno e Renan Fernandes Octaviani, que são policiais civis, foram ouvidas em juízo e afirmaram, em uníssono, que após terem recebido informações de que o réu estaria se encarregando de abastecer um movimentado ponto de venda de drogas, situado nas imediações da casa dele, passaram a monitorá-lo. Conseguiram, então, visualizar vários contatos dele com pessoas que vendiam drogas no varejo, com as quais ele mantinha gestual de troca que era característico do tráfico. De acordo com as testemunhas, o réu guardava as drogas em sua casa, e utilizava um veículo GM Astra de cor preta para levar as substâncias ao local da venda.
+ ..
+Também não há causas de diminuição ou de aumento de pena que possam ser consideradas, sendo importante registrar que o acusado, embora primário, já fazia do tráfico de drogas a sua atividade habitual, como esclareceram os policiais civis, que acompanharam a sua traficância diuturna. Essa circunstância, revelando o costumeiro envolvimento do acusado na prática ilícita do tráfico, inviabiliza, nos termos da Lei, a aplicação do redutor do art. 33, § 4º da Lei n. 11.343/06.
+O Tribunal, ao julgar o recurso de apelação, negou a aplicação da minorante do tráfico privilegiado, amparado nos seguintes fundamentos (fl. 322, grifei):
+Por fim, deve ser ressaltado que o não acolhimento da causa especial de diminuição de pena, prevista no artigo 33, parágrafo 4º, da Lei de Drogas foi corretamente fundamentada, em razão da dinâmica constatada pelos policiais civis, que bem demonstrou que João Pedro fazia da prática do narcotráfico o seu meio de vida (expressa vedação legal nesse sentido), exercendo a ilícita atividade diariamente ao longo do período de tempo em que sua rotina fora monitorada e, caso não houvesse sido impedido, continuaria a exercer aquela espúria atividade; portanto, inviável sua concessão.
+Observo que as instâncias originárias - dentro do seu livre convencimento motivado - apontaram elementos concretos dos autos, aptos a evidenciar a dedicação habitual do paciente ao comércio espúrio, fundados nas circunstâncias do delito, em que houve monitoramento prévio, em mais de uma oportunidade, em que se constatou que o recorrente desempenhava a função de vendedor e repositor da droga.
+Essas circunstâncias indicam que não se trata de mero traficante habitual, mas sim de indivíduo imerso de forma mais estável e desempenhando tarefa predeterminada no comércio ilícito de entorpecentes.
+Por fim, ressalto que a negativa de concessão da causa de diminuição de pena não se deu exclusivamente pela quantidade de entorpecentes, mas pelas circunstâncias do caso, obedecendo orientação da Terceira Seção desta Corte Superior de Justiça, conforme se observa:
+ ..
+7. A utilização concomitante da natureza e da quantidade da droga apreendida na primeira e na terceira fases da dosimetria, nesta última para descaracterizar o tráfico privilegiado ou modular a fração de diminuição de pena, configura bis in idem, expressamente rechaçado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral pelo Supremo Tribunal Federal (Tese de Repercussão Geral n. 712).
+8. A utilização supletiva desses elementos para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa.
+ ..
+(REsp n. 1.887.511/SP, Rel. Ministro João Otávio de Noronha, 3ª S., DJe 1º/7/2021, grifei).
+Assim, porque concretamente fundamentada a impossibilidade de incidência da referida minorante, não identifico a violação do art. 33, § 4º, da Lei n. 11.343/2006.
+II. Dispositivo
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
