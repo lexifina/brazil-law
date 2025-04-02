@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 424, e-STJ):
+EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - Sentença de improcedência - Inconformismo do executado - Não acolhimento - Contrato de licença de uso de software firmado entre as partes - Aditamento conferindo licença pelo período de 60 meses e que fez constar expressamente que, em caso de rescisão antecipada, seria devido o pagamento pelo período utilizado, sem o desconto concedido - O desconto concedido na anualidade estava condicionado ao cumprimento do contrato pelo prazo de 60 meses - Cláusula que não se mostra abusiva uma vez que confere benefício de desconto ao contratante e segurança para o cumprimento do contrato em prol da contratada - Título executivo que se consubstancia na cobrança da diferença entre o valor "cheio" e aquele pago com desconto - Sentença mantida - RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial (fls. 430/450, e-STJ), a recorrente aponta ofensa aos artigos 1.022 do CPC/2015; 412, 413, 783 e 803, I, do CC/2002.
+Sustenta, preliminarmente, entre as fls. 437/443, e-STJ, negativa de prestação jurisdicional, afirmando que o acórdão recorrido foi omisso sobre: (i) a ilicitude da pretensão da Recorrida, eis que busca receber 3 (três) vezes mais para se desobrigar do contrato, do que receberia para prestar serviços; e (ii) a iliquidez do título executivo.
+No mérito, alega que a disposição contratada entre as partes ("cláusula de perda de descontos") possui natureza jurídica de uma cláusula penal.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) ausência de ofensa ao artigo 1.022 do CPC/2015; (ii) não houve demonstração das vulnerações legais suscitadas; e (iii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 505/518 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Não se verifica ofensa ao artigo 1.022 do CPC/15 quando o Tribunal decide, de modo claro e fundamentado, as questões essenciais ao deslinde do feito.
+Ademais, não se deve confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional. Nesse sentido, citam-se os seguintes precedentes deste Superior Tribunal de Justiça: AgInt no REsp 1750080/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/08/2020, DJe 21/08/2020; AgInt no AREsp 1507690/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020.
+Alegou a recorrente que o acórdão impugnado restou omisso, pois não se manifestou sobre: (i) a ilicitude da pretensão da Recorrida, eis que busca receber 3 (três) vezes mais para se desobrigar do contrato, do que receberia para prestar serviços; e (ii) a iliquidez do título executivo.
+Todavia, conforme trecho a seguir citado, o Tribunal local reconheceu inexistir nenhum dos vícios ensejadores do acolhimento dos embargos de declaração, reconhecendo a nítida pretensão de se conferir efeito infringente ao recurso aclaratório.
+A esse respeito, confira-se trecho do acórdão proferido nos embargos de declaração (fl. 465, e-STJ):
+Busca, na verdade, o reexame da matéria já analisada por este Tribunal, por não se conformar com o resultado do julgado que lhe foi desfavorável.
+O que alega como sendo omissão é na verdade discordância com a interpretação contratual eleita pelo julgado, ou seja, discorda do ajustado entre as partes que estabeleceu a rescisão contratual com o consequente afastamento do desconto. Apesar das alegações da embargante, entende-se claramente do contrato que a fidelidade contratual por longo período de 60 meses confere expressivo desconto nos valores ajustados.
+Quanto ao mais, a embargante não demonstrou que os cálculos apresentados pela embargada não estão corretos.
+Não há que se falar em omissão, sendo certo que os embargos de declaração não se constituem via própria para rejulgamento da causa, não havendo espaço para análise de inconformismo quanto ao entendimento adotado.
+Afasta-se, portanto, a alegada violação ao artigo 1.022 do CPC/15.
+2. No mérito, a Corte de origem, ao negar provimento ao recurso de apelação da insurgente, adotou os seguintes fundamentos (fls. 425/428):
+Trata-se de embargos à execução de título executivo extrajudicial oriundo de contrato de licença de uso de software, firmado entre as partes em 13.09.2016 (fls. 53/60). Ainda, assinado primeiro Termo de Aditamento em 17.01.2018 (fls. 88/89), prorrogando o prazo de vigência das licenças, agora num total de 67 licenças, até 31.07.2022.
+Busca a exequente-embargada receber a quantia de R$ 262.362,24 representada pela nota fiscal nº 1719, que decorre da rescisão antecipada prevista no aditamento firmado entre as partes, do qual constou expressamente que:
+2. Acordam as partes que, única e exclusivamente, as licenças mencionadas no item "f" dos Considerandos acima poderão ser resilidas observando o prazo mínimo de vigência acordado entre as partes. Caso a LICENCIADA opte pelo encerramento da licença antes do prazo de 60 (sessenta) meses, será devido pela LICENCIADA o pagamento do período que a licença foi utilizada sem o valor do desconto concedido pela LICENCIANTE. (fl. 88)
+Ainda, as partes firmaram no aditamento alteração da cláusula quarta, que passou a vigorar com a seguinte redação:
+"CLÁUSULA QUARTA Preço e Condições de Pagamento 4.1. Pela licença de uso do Software ora concedida, a LICENCIADA pagará à LICENCIANTE o valor total descrito na Proposta Comercial/Técnica, mediante o encaminhamento pela LICENCIANTE da respectiva Nota Fiscal, no endereço da LICENCIADA, declinado no preâmbulo deste instrumento ou em outro eventualmente indicado por esta." (fl. 89)
+A proposta de licenciamento está encartada nos autos às folhas 90 e de fato descreve os valores (fl. 91 e 92), ressalvando que os preços serão reajustados anualmente pelo IGPM (fl. 93 primeiro parágrafo). Daí porque não há que se falar em iliquidez do título executivo, além de fls. 80/87.
+Ora, qualquer das partes pode vir a rescindir o contrato quando não mais lhe interessar o negócio, mas o encerramento prematuro implica em consequências, (perdas e danos), comumente desfavoráveis, para aquele que postula a resilição. Essas consequências por vezes estão expressamente previstas em contrato, e, no caso de omissão, podem incidir a regras legais.
+Na hipótese em comento, ficou estipulado entre as partes, expressamente, que, em caso de resilição antecipada, acarretaria para a licenciada (executada) o pagamento da diferença entre o valor "cheio" e aquele pago com desconto, referente ao período que foi utilizada a licença, como dito acima.
+Ao contrário do alegado pela apelante, não há que se discutir culpa pela rescisão contratual. As trocas de mensagens eletrônicas havida entre as partes (fl. 98/113) não deixam dúvidas quanto à intenção de rescisão contratual antecipada por parte da executada, que, todavia, ao ser advertida do valor então devido (decorrente da rescisão antecipada e previsto expressamente na citada clausula 2 de fl. 88) arrependeu-se e procurou manter o contrato até seu termo final.
+A despeito do teor do artigo 413 do Código Civil, que faculta ao Juiz reduzir o valor convencionado, no caso em debate não tem aplicação uma vez que não há que se falar em cláusula penal propriamente dita, mas sim revogação de desconto concedido que estava condicionado a longa duração do contrato firmado entre as partes (60 meses) como bem pontuado pela sentença.
+O abatimento do preço estava justificado pelo tempo estabelecido para vigência contratual.
+Deve se ter em mente que, ao firmar o contrato pelo período de 60 meses, a fidelidade conferia benefícios ao apelante lhe concedendo descontos na anualidade, e de outro lado, promovia a segurança para a apelada que teria assegurado o cumprimento do contrato por aquele período determinado.
+Assim, não há que se falar em falta de fundamentação da sentença, que embora suscinta abordou a questão no seu todo. Vale a pena transcrever o trecho de fls 276:
+Nessa toada, não se infere qualquer nulidade ou abusividade a ensejar o afastamento da obrigação fixada na avença, a qual, cumpre ressaltar, celebrado por pessoa jurídica de grande porte, a qual presume ter negociado os termos do contrato em igualdade, quiçá, superioridade de condições, não havendo indícios de que a embargante foi enganada.
+Ademais, referida cláusula buscava salvaguardar economicamente os investimentos realizados pela embargada, bem como, a expectativa de manutenção do seu contrato até o final.
+Aplicam-se, in casu, os princípios da "pacta sunt servanda" e boa-fé objetiva, que devem guiar a relação jurídica estipulada livremente pelas partes, desde que firmada até sua rescisão.
+Portanto, diante do cenário fático apresentado, devida a cobrança realizada em ação de execução pela ora embargada em face do embargante.
+Vale consignar que a apelante, em nenhum momento, impugnou a planilha de cálculos de fls. 125, que discrimina os valores pagos com desconto e o valor aferido sem desconto.
+Nestas condições, fica mantida a sentença por seus próprios fundamentos, além daqueles aqui acrescidos.
+Desse modo, inevitavelmente, para rever tais conclusões, seria imprescindível a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem.
+Publique-se. Intimem-se.
+EMENTA
