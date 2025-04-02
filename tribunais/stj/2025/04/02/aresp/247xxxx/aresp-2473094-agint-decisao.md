@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 766):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. COMPETÊNCIA DO STF. DISSÍDIO PREJUDICADO. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
+No presente recurso especial, aduz argumentação com vistas à reconsideração da decisão ora agravada, notadamente acerca de questão a respeito da qual foi reconhecida repercussão geral, Tema 1.217/STF.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, provocada pela interposição do agravo interno, reconsidero a decisão ora agravada de fls. 766-770, tornando-a sem efeitos, considerando a pertinência das razões declinadas.
+Com efeito, pela sistemática do julgamento dos recursos repetitivos disposta nos arts. 1.036 a 1.041 do CPC/2015, reconhecida a repercussão geral pelo Supremo Tribunal Federal, ou afetado o recurso especial para julgamento como repetitivo pelo Superior Tribunal de Justiça, o processo ficará suspenso até o julgamento do tema, quando então o tribunal a quo exercerá o juízo de conformidade entre o acórdão por ele proferido e a tese firmada pelo STF ou STJ.
+Nessas condições, ficam prejudicadas demais questões eventualmente suscitadas no especial, porquanto, "não é possível cindir o julgamento dos recursos especiais, de modo a julgar apenas aquele que não se refere à matéria afetada ao rito dos recursos repetitivos" (EDcl no REsp 1.568.817/MS, relatora Ministra Regina Helena Costa, DJe de 17/3/2016), sob pena de ofensa ao princípio da unirrecorribilidade ou da unicidade recursal.
+Nesse contexto, os autos devem retornar ao Tribunal de Justiça para que o recurso especial fique sobrestado até o exercício do juízo de conformação pelo órgão julgador a quo com a tese a ser definida pelo Supremo Tribunal Federal, no julgamento do Tema 1.217/STF.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial poderá voltar a ser encaminhado para esta Corte Superior, para análise de questões federais eventualmente remanescentes.
+Ante o exposto, reconsidero a decisão de fls. 766-770, tornando-a sem efeitos, para julgar prejudicado o recurso especial, neste momento processual, e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido pelo STF, o recurso especial: a) tenha seguimento negado, na hipótese de o acórdão recorrido coincidir com a tese definida pelo STF; ou b) seja, novamente, examinado, caso dela divirja (arts. 1039, 1040, I e II, e 1041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. REPERCUSSÃO GERAL TEMA 1.217/STF. DECISÃO RECONSIDERADA. RECURSO ESPECIAL PREJUDICADO. SOBRESTAMENTO. DEVOLUÇÃO DOS AUTOS À ORIGEM. RECURSO PREJUDICADO.
