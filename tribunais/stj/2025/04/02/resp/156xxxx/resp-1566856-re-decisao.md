@@ -1,0 +1,58 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 245):
+PREVIDENCIÁRIO. ACUMULAÇÃO DE BENEFÍCIOS. CONCESSÃO DA APOSENTADORIA APÓS A ALTERAÇÃO DO ART. 86 DA LEI N. 8.213/91. IMPOSSIBILIDADE. VIOLAÇÃO AO TEXTO CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.296.673/MG, Rel. Min. Herman Benjamim, sob o regime do art. 543-C do CPC, consolidou entendimento no sentido de que somente se revela possível a acumulação de auxílio-suplementar (auxílio-acidente) com aposentadoria, quando a lesão que deu origem ao benefício acidentário e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991.
+2. Na hipótese, não obstante a lesão incapacitante tenha ocorrido em 1996, portanto, anteriormente ao marco legal acima exposto, a aposentadoria por tempo de contribuição foi concedida apenas em 27/5/2009.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Agravo regimental a que se nega provimento.
+Os embargos declaratórios opostos na sequência foram rejeitados (fls. 260-263).
+Sustenta o recorrente que há repercussão geral na matéria discutida pelo acórdão recorrido, inclusive reconhecida pelo Supremo Tribunal Federal no RE n. 687.813/RS, apontando violação dos arts. 5º, XXXVI e LV, e 93, IX, da CF.
+Defende que o aresto impugnado padece de falta de fundamentação, porque não prestada devidamente a jurisdição.
+Argumenta, ainda, que possui direito adquirido ao recebimento vitalício do auxílio-acidente, sem qualquer óbice de cumulação do referido benefício com a aposentadoria.
+Requer, assim, a admissão e o provimento do recurso.
+Foram apresentadas as contrarrazões (fls. 295-298).
+Foi determinado o sobrestamento do recurso até a publicação da decisão de mérito acerca do Tema n. 599 do Supremo Tribunal Federal.
+Após o trânsito em julgado do RE n. 687.813/RS, leading case do referido tema de repercussão geral, os autos vieram conclusos para o julgamento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho dos embargos declaratórios (fl. 262):
+ ..
+Como se observa do julgado impugnado, o recurso especial do INSS foi provido a fim de se adequar o acórdão regional ao entendimento fixado sob o rito do art. 543-C, do CPC, no julgamento do REsp 1.310.034/PR, Rel. Ministro HERMAN BENJAMIN, o qual firmou a tese de que, para que o segurado faça jus à conversão de tempo de serviço comum em especial, é necessário que ele tenha reunido os requisitos para o benefício pretendido antes da Lei n. 9.032/95, de 28/4/95, independentemente do momento em que foi prestado o serviço.
+Também esclareceu-se que não seria possível a análise da questão sob o enfoque constitucional proposto, pois não cabe a esta Corte examinar no âmbito do recurs o especial, sequer a título de prequestionamento, eventual violação de dispositivo constitucional, tarefa reservada ao Pretório Excelso.
+Dessa forma, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 535 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ ..
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Verifica-se que o recurso extraordinário foi interposto contra acórdão que manteve a decisão que deu provimento ao recurso especial do INSS, para reformar a decisão do Tribunal de origem, o qual havia reconhecido a possibilidade de cumulação de auxílio-acidente deferido antes da vigência da Medida Provisória 1.596-14/1997, convertida na Lei 9.528/1997, com aposentadoria concedida em data posterior à publicação do referido diploma legal, que passou a vedar a percepção conjunta dos referidos benefícios.
+O Supremo Tribunal Federal, no julgamento do RE n. 687.813/RS, sob a sistemática da repercussão geral, fixou a seguinte tese vinculante (Tema n. 599):
+O auxílio-suplementar, concedido à luz do art. 9º da Lei nº 6.367/76, é cumulável com a aposentadoria por invalidez somente se as condições para a concessão dessa tiverem sido implementadas na vigência da Lei nº 8.213/91 e antes de 11/11/97, quando entrou em vigor a MP nº 1.596-14/97 (convertida na Lei nº 9.528/97).
+Confira-se, a propósito, a ementa do acórdão paradigma:
+EMENTA Direito previdenciário e constitucional. Recurso extraordinário. Repercussão geral. Tema nº 599. Auxílio-suplementar concedido à luz da Lei nº 6.367/76. Direito à aposentadoria por invalidez adquirido na vigência da Lei nº 8.213/91. Condições para cumulação. MP nº 1.596-14. Princípio do tempus regit actum. Recurso extraordinário provido.
+I. Caso em exame
+1. Recurso extraordinário interposto pelo Instituto Nacional do Seguro Social (INSS) contra acórdão em que foi reconhecida a possibilidade de cumulação do auxílio-suplementar (Lei nº 6.367/76) com a aposentadoria por invalidez com DIB em 14/7/05.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é possível, à luz dos art. 5º, inciso XXXVI; e 195, § 5º, da Constituição, a cumulação do auxílio-suplementar, concedido nos termos Lei nº 6.367/76, com a aposentadoria por invalidez cujas condições para concessão tiverem sido implementadas na vigência da Lei nº 8.213/91.
+III. Razões de decidir
+3. Com a vigência da Lei nº 8.213/91, o auxílio-suplementar (art. 9º da Lei nº 6.367/76) foi incorporado ao auxílio-acidente, passando a ser cumulável com aposentadoria cujas condições fossem implementadas a partir de então. Contudo, com o advento da MP nº 1.596-14/97 (convertida na Lei nº 9.528/97), tornou-se impossível cumular qualquer aposentadoria com tal benefício.
+4. O quadro indica que quem era beneficiário do auxílio-suplementar (Lei nº 6.367/76) e teve direito adquirido à aposentadoria por invalidez no ínterim que vai do início da vigência da Lei nº 8.213/91 até 10/11/97, véspera da entrada em vigor da MP nº 1.596-14/97, pode cumular ambos os benefícios. Já quem era beneficiário do auxílio-suplementar e teve direito adquirido à aposentadoria por invalidez a partir de 11/11/97, quando entrou em vigor a MP nº 1.596-14/97, não pode cumular esse benefícios. Se for recebida tal aposentadoria, deve ser cessado o recebimento do auxílio-suplementar. Precedentes do Superior Tribunal de Justiça na mesma direção.
+5. Tais entendimentos estão alinhados com a orientação da Corte de que inexiste direito adquirido a regime jurídico, sendo certo que, à luz do princípio do tempus regit actum, " o s benefícios previdenciários devem regular-se pela lei vigente ao tempo em que preenchidos os requisitos necessários à sua concessão" (RE nº 567.360/MG-ED, Rel. Min. Celso de Mello). IV. Dispositivo e tese
+6. Recurso extraordinário provido.
+Tese de julgamento para o Tema nº 599 da Repercussão Geral: "O auxílio-suplementar, concedido à luz do art. 9º da Lei nº 6.367/76, é cumulável com a aposentadoria por invalidez somente se as condições para a concessão dessa tiverem sido implementadas na vigência da Lei nº 8.213/91 e antes de 11/11/97, quando entrou em vigor a MP nº 1.596-14/97 (convertida na Lei nº 9.528/97)".
+(RE 687813, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 17-02-2025, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-s/n DIVULG 20-02-2025 PUBLIC 21-02-2025)
+Com efeito, restou consignado no voto condutor que "é possível a cumulação do benefício do auxílio-suplementar (Lei nº 6.367/76) com qualquer tipo de aposentadoria cujas condições para a concessão foram implementadas na vigência da Lei nº 8.213/91, mas antes de 11/11/97, início da vigência da MP nº 1.596-14. Afinal, a partir desse marco, tornou-se impossível cumular qualquer aposentadoria com auxílio-acidente, que incorporou o auxílio suplementar" (fls. 15-16 do voto proferido no julgamento do RE 687.813/RS).
+Na hipótese, esta Corte Superior se manifestou nos seguintes termos (fl. 243):
+ ..
+Dessarte, está firmada a compreensão no sentido de que é possível a cumulação dos benefícios de auxílio-suplementar (auxílio-acidente) com aposentadoria, desde que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991.
+Isso porque, até o advento da Medida Provisória 1.596-14/1997, em 11.11.1997, a qual foi convertida na Lei n. 9.528/1997, não havia vedação legal ao recebimento cumulativo desses benefícios.
+Na espécie, não obstante a lesão incapacitante tenha ocorrido em 1996, anteriormente ao marco legal acima exposto, o benefício de aposentadoria por tempo de contribuição foi concedido em momento posterior à Lei n. 9.528/1997, ou seja, em 27/5/2009 (fl. 115), motivo pelo qual a decisão agravada merece ser mantida.
+ ..
+Assim, constata-se que o julgado impugnado se encontra em harmonia com o entendimento da Suprema Corte consolidado no Tema n. 599 do STF.
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Registra-se que não é cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO. DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE CONCEDIDO ANTES DA EDIÇÃO DA LEI N. 9.528/97. CUMULAÇÃO COM APOSENTADORIA DEFERIDA APÓS A PUBLICAÇÃO DO REFERIDO DIPLOMA LEGAL. IMPOSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA. ACÓRDÃO RECORRIDO EM HARMONIA COM O ENTENDIMENTO DA SUPREMA CORTE, FIXADO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. TEMA N. 599 DO STF. NEGATIVA DE SEGUIMENTO.
