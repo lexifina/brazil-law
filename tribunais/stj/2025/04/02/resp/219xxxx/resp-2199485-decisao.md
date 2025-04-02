@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por AUTO POSTO REAL DE BANGU, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (e-STJ fl. 251):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO E REMESSA OFICIAL. CREDITAMENTO E EXCLUSÃO DO ICMS-ST DA BASE DE CÁLCULO DO PIS E DA COFINS. ILEGITIMIDADE ATIVA. LEI 9.990/00. COMERCIALIZAÇÃO DE COMBUSTÍVEIS E DERIVADOS DE PETRÓLEO.
+1. A partir da Lei nº 9.990/00, somente as refinarias de petróleo passaram a responder pela contribuição ao PIS e COFINS, nas operações com combustíveis derivados do petróleo, restando desonerados os demais integrantes da cadeia, razão pela qual a autora, consumidora final, carece de legitimidade ativa para discutir a exigibilidade dessas exações.
+2. Impõe-se a extinção do feito sem julgamento do mérito, em face da ilegitimidade ativa da Impetrante.
+3. Por outro lado, no que concerne à denegação da ordem, a sentença não deve ser mantida, sendo necessário esclarecer que não foi objeto do pedido a qualidade do impetrante de contribuinte substituído, embutido no preço das mercadorias que comercializa ao consumidor final vinculada à atividade de venda de lubrificantes e dos produtos comercializados em loja de conveniência, e outros serviços devendo esta parte da sentença ser anulada, eis que extra petita.
+4. Sentença mantida na parte que reconhece a ilegitimidade ativa da Impetrante quanto ao pedido de excluir da base de cálculo do PIS e da COFINS o valor do ICMS e ICMS-ST em relação à venda de combustível. A parte da denegação da ordem deve ser excluída por tratar-se de julgamento extra petita.
+5. Apelação da Impetrante desprovida. Remessa oficial provida.
+Em suas razões, o recorrente aponta violação dos arts. 110 do CTN; 1º, §§ 1º e 2º, das Leis n. 10.637/2002 e 10.833/2003; 1.013 do CPC; 12 do Decreto-Lei n. 1.598/1977 e 4º da Lei n. 9.718/1998, bem como dissídio jurisprudencial. Defende, em síntese, no que interessa, que, na condição de comerciante varejista de combustíveis, é parte legítima para pleitear o reconhecimento e consequente compensação no que concerne ao ICMS-ST incluído indevidamente nas bases de cálculo da Contribuição para o PIS e da COFINS apurados pelo regime monofásico.
+Contrarrazões apresentadas às e-STJ fls. 286/308.
+O recurso foi admitido na origem (e-STJ fls. 367/368).
+O Ministério Público Federal opina pelo desprovimento do recurso especial (e-STJ fls. 375/378).
+Passo a decidir.
+O recurso especial origina-se de mandado de segurança em que se objetiva a declaração de inconstitucionalidade da inclusão do ICMS-ST nas bases de cálculo do PIS e da COFINS tributados pelo regime monofásico.
+O Tribunal de origem manteve a sentença que julgou extinto o processo por ilegitimidade ativa.
+O recurso não merece ser conhecido.
+É que os conteúdos jurídicos insertos nos arts. 110 do CTN; 1º, §§ 1º e 2º, das Leis n. 10.637/2002 e 10.833/2003; 1.013 do CPC; 12 do Decreto-Lei n. 1.598/1977 e 4º da Lei n. 9.718/1998 não possuem comando normativo apto a respaldar a tese recursal do recorrente no sentido de que é parte legítima a pleitear o reconhecimento e consequente compensação no que concerne ao ICMS-ST que teria sido incluído indevidamente nas bases de cálculo da Contribuição para o PIS e da COFINS apurados pelo regime monofásico, visto que essas normas infraconstitucionais não cuidam de legitimidade, mas sim de temas relacionados a receita bruta, base de cálculo das contribuições, devolução de matéria ao tribunal e interpretação da lei tributária.
+Nesse sentido, a falta de pertinência temática dos artigos tidos por violados revela clara deficiência da irresignação recursal, nos termos da Súmula 284 do STF. Nesse sentido, cito o s seguintes julgados: REsp 2.199.659/SP, Ministra Regina Helena Costa, DJEN 7/3/2025; AREsp 2.551.115/SP, Ministro Sérgio Kukina, DJEN 27/2/2025; e AREsp 2.683.483/SP, Ministro Gurgel de Faria, DJEN 5/11/2024.
+Convém registrar que "a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
