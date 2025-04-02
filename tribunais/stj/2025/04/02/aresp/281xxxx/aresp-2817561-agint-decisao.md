@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial.
+O agravante sustenta que impugnou o fundamento da decisão agravada.
+Tendo em conta os fundamentos do agravante, reconsidera-se a decisão de e-STJ fls. 457-458.
+Com impugnação.
+É o relatório.
+De início, constata-se que a matéria deduzida no presente recurso especial, qual seja, a solidariedade entre os entes públicos nas ações prestacionais de saúde, notadamente no fornecimento de tratamento médico registrado na Anvisa e não incluído nas diretrizes do SUS, foi afetada pela Suprema Corte em decisão proferida no dia 11/04/2023, nos autos do RE n. 1.366.243/SC, que discute, à luz dos artigos 23, II, 109, I, 196, 197 e 198, I, da Constituição Federal, a obrigatoriedade de a União constar do polo passivo de lide que verse sobre a obtenção de medicamento ou tratamento não incorporado nas políticas públicas do SUS, embora registrado pela Anvisa, reconhecendo, assim, a repercussão geral da matéria, descrita no Tema 1234.
+Na ocasião, determinou-se a suspensão nacional do processamento dos recursos especiais e extraordinários que tratam da questão controvertida no aludido Tema 1234, inclusive dos processos em que se discute a aplicação do Tema 793 da Repercussão Geral, até o julgamento definitivo do recurso extraordinário, ressalvado o deferimento ou ajuste de medidas cautelares.
+Por conseguinte, o pretório excelso concedeu tutela provisória incidental no RE 1.366.243/SC, para estabelecer que, até o julgamento definitivo do Tema 1234 da Repercussão Geral, sejam observados os seguintes parâmetros:
+ ..
+5.1. nas demandas judiciais envolvendo medicamentos ou tratamentos padronizados: a composição do polo passivo deve observar a repartição de responsabilidades estruturada no Sistema Único de Saúde, ainda que isso implique deslocamento de competência, cabendo ao magistrado verificar a correta formação da relação processual;
+5.2. nas demandas judiciais relativas a medicamentos não incorporados: devem ser processadas e julgadas pelo Juízo, estadual ou federal, ao qual foram direcionadas pelo cidadão, sendo vedada, até o julgamento definitivo do Tema 1234 da Repercussão Geral, a declinação da competência ou determinação de inclusão da União no polo passivo;
+5.3. diante da necessidade de evitar cenário de insegurança jurídica, esses parâmetros devem ser observados pelos processos sem sentença prolatada; diferentemente, os processos com sentença prolatada até a data desta decisão (17 de abril de 2023) devem permanecer no ramo da Justiça do magistrado sentenciante até o trânsito em julgado e respectiva execução (adotei essa regra de julgamento em: RE 960.429 ED-segundos Tema 992, de minha relatoria, DJe de 5.2.2021);
+5.4. ficam mantidas as demais determinações contidas na decisão de suspensão nacional de processos na fase de recursos especial e extraordinário.
+(TPI no RE 1.366.243/SC, Rel. Ministro Gilmar Mendes, DJE 17/04/2023, referendada pelo Plenário Virtual em 18/04/2023.)
+Nesse panorama, torna-se impositiva a suspensão dos feitos pendentes que tratem da mesma matéria, nos termos do art. 1.036 do CPC/2015.
+Assim, uma vez julgado o tema pela sistemática dos recursos repetitivos ou sob o rito da repercussão geral, os recursos que tratem sobre a mesma controvérsia devem retornar ao Tribunal de origem para juízo de conformação, nos termos dos artigos 1.040 do CPC/2015 e 34, XXIV, do RISTJ.
+A propósito, nesse sentido: AgInt no REsp 2.002.884/MG, Rel. Min. Humberto Martins, Segunda Turma, 03/05/2023; REsp 1.993.008/MG, Rel. Min. Humberto Martins, Segunda Turma, 03/05/2023; REsp 179.004/CE, Rel. Min. Humberto Martins, Segunda Turma, 02/05/2023; AgInt no AREsp 2.243.886/RS, Rel. Min. Assusete Magalhães, Segunda Turma, 24/04/2023; AgInt no REsp 193.541/SC, Rel. Min. Assusete Magalhães, Segunda Turma, 24/04/2023.
+Ante o exposto, recondidero a decisão de fls. 457-458, determinando a devolução dos autos à origem, com a devida baixa nesta Corte, para que, considerando a publicação do acórdão submetido ao rito dos recursos repetitivos, aprecie o feito na forma dos artigos 1.040 e 1.041 do CPC/2015, realize o juízo de conformação ou manutenção do acórdão local, em razão do decidido pelo Plenário do STF no julgamento do Tema n. 1.234.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTROVÉRSIA SUBMETIDA À REPERCUSSÃO GERAL. RE N. 1.366.243/SC. TEMA N. 1.234/STF. DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
