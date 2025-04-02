@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULO BURACOF contra decisão em que conheci do agravo para não conhecer do seu recurso especial (e-STJ fls. 339/343).
+Em suas razões, o embargante sustenta que há omissão no decisum, pois teria deixado de se pronunciar a respeito da modulação dos efeitos do Tema n. 880/STJ.
+Impugnação não apresentada (e-STJ fl. 359).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial em que haja obscuridade, contradição, omissão ou erro material, vícios inexistentes na espécie.
+Isso porque a decisão foi clara ao dispor que "a Primeira Seção desta Corte, no julgamento do recurso representativo da controvérsia relativa ao Tema 880 do STJ, concluiu que, "a partir da vigência da Lei n. 10.444/2002, que incluiu o § 1º ao art. 604, dispositivo que foi sucedido, conforme Lei n. 11.232/2005, pelo art. 475-B, §§ 1º e 2º, todos do CPC/1973,  ..  incide o lapso prescricional, pelo prazo respectivo da demanda de conhecimento (Súmula 150 do STF), sem interrupção ou suspensão, não se podendo invocar nenhuma demora na diligência para obtenção de fichas financeiras ou outros documentos na administração ou junto a terceiros" (e-STJ fl. 340).
+Além disso, a decisão objurgada também decidiu pela aplicação da Súmula 7 à hipótese em razão da afirmação do acórdão recorrido de que, "como bem pontuado pelo juízo a quo, os dispositivos trazidos pelas portarias exaradas pelo CJF/TRF1/DIREF-MT não impediram a propositura do cumprimento de sentença e tampouco suspenderam os prazos prescricionais" (e-STJ fl. 241).
+A corroborar a incidência da Súmula 7 do STJ, verifica-se que a Corte Regional pontuou que "a alegação da ausência de conhecimento da condição de benefício é tese que não merece prosperar, considerando-se a ampla divulgação da sentença transitada em julgado, bem como a desnecessidade de informações da autarquia previdenciária para que se verificasse a integração à relação jurídico-processual" (e-STJ fls. 241/242).
+A par disso, verifica-se que o argumento trazido nas razões do apelo especial de que o título executivo é expresso no sentido de que a execução dependia de elementos de cálculos (e-STJ fl. 348) não foi objeto de debate pelo Tribunal a quo, o que inviabiliza a sua discussão em sede de recurso especial pela ausência de prequestionamento, não tendo sido opostos embargos de declaração para suprir eventual omissão, o que atrai a incidência das Súmulas 282 e 356 do STF.
+Do que se vê, ponderados esses elementos, constato que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
