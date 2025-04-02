@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo de HSIANG FU LIAO e YA LING CHI da decisão que inadmitiu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 290/291):
+DESEMBARAÇO ADUANEIRO - VIAGEM AO EXTERIOR - EMBARQUE COM PEDRAS SEMIPRECIOSAS - AUSÊNCIA DE DOCUMENTOS DE EXPORTAÇÃO (DU-E) - BAGAGEM ACOMPANHADA NÃO CONFIGURADA - IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - APELAÇÃO NÃO PROVIDA.
+1. Na bagagem da apelante YA LING CHI foram apreendidos 10 quilos de pedras semipreciosas  cordões e anéis no valor de US$ 2.000,00. Já na bagagem do apelante HSIANG FU LIAO foram apreendidos 33,65 Kg de pedras semipreciosas. Ocorre que, as apelantes não apresentaram os respectivos documentos de exportação (Documento Unificado de Exportação - DU-E), tendo exibido apenas notas fiscais e certificado de extração mineral.
+2. Não sendo apresentados documentos fidedignos autorizando a exportação e tendo-se em vista a quantidade transportada e havendo justa dúvidas quanto ao valor das mercadorias apreendidas, foi determina a respectiva apreensão com a elaboração do imprescindível laudo pericial de avaliação.
+3. As mercadorias apreendidas não poderiam ser tidas como bagagem acompanhada, posto que superam o limite de US$ 2.000,00 previsto no artigo 11 da Instrução Normativa 1.059/2010.
+4. Segundo o § 1º do artigo 11 da Portaria 1.059/2010 os bens constantes das bagagens levados por viajante que não se enquadrem como bagagem acompanhada deverão sofrer o tratamento da legislação de exportação comum.
+5. O artigo 185 da Portaria SECEX nº 23/2011 determina que as operações de exportação deverão ser objeto de registro na SISCOMEX, exceto os casos previstos no Anexo XV (artigo 1º, inciso V), ou seja, pedras preciosas e semipreciosas até o valor de US$ 300,00.
+6. O valor apreendido atinge um montante de US$ 8.259,43, portanto bem superior à previsão legal. Assim, também não se pode falar em aplicação do princípio da insignificância.
+7. Correta a pena de perdimento dos bens, objeto dos TRB nº 081760019098158TRB02 e TRB nº 081760019098160TR01a teor do Inciso VI do artigo 105 do Decreto 37/1966, posto que ausente documento indispensável ao embarque.
+8. Os apelantes descumpriram conscientemente a disposição legal, fato que justifica a improcedência da ação.
+9. Apelação não provida.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial, a ora agravante objetiva anular determinação da autoridade alfandegária que ordenou a retenção de seus bens, por entender que transportavam pedras preciosas sem o necessário DUE - Documento Único de Exportação, configurando descaminho.
+Contrarrazões às e-STJ fls. 329/334.
+O recurso especial foi inadmitido com fundamento na Súmula 284/STF, por não apontar, de forma precisa, os dispositivos de lei federal que teriam sido violados.
+Passo a decidir.
+Verifico que a insurgência não deve ser conhecida.
+À luz do princípio da dialeticidade, constitui ônus do recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida.
+Nas razões do agravo em recurso especial, a agravante não infirmou de forma clara e específica o fundamento relativo à incidência da Súmula 284 do STF, em evidente desrespeito ao referido princípio.
+Com efeito, no ponto, a parte limitou-se a alegar, de forma genérica, o seguinte (e-STJ fls. 347):
+Nobres julgadores, o que se busca por intermédio do Recurso Especial é solucionar exatamente uma controvérsia acerca da interpretação de normas federais, basta um breve leitura na argumentação da defesa apresentada no recurso.
+Destaca-se que, processo administrativo aduaneiro tem regência pelo Decreto Lei 37/1966 e regulamentação pela IN RFB nº 1059/2010. Portanto, os artigos violados e que são discutidos em sede recursal são:
+Nos termos do artigo 97, I e II, do Decreto-Lei 37/66 "Compete à autoridade julgadora:  ..  determinar a pena ou as penas aplicáveis ao infrator ou a quem deva responder pela infração, nos termos da lei;  ..  fixar a quantidade da pena, respeitados os limites legais."
+As penas previstas para o caso estão arroladas no artigo 96 do mesmo diploma, incisos I a IV, podendo ser aplicadas cumulativamente ou separadamente: "As infrações estão sujeitas às seguintes penas, aplicáveis separada ou cumulativamente:  ..  perda do veículo transportador;  ..  perda da mercadoria;  ..  multa;  .. proibição de transacionar com repartição pública ou autárquica federal, empresa pública e sociedade de economia mista.".
+Cumpre destacar que "os arts. 932, inciso III, e 1.042 do CPC/2015 estabelecem regras expressas autorizando o relator do agravo a deixar de conhecê-lo quando manifestamente inadmissível ou quando não atacar especificamente os fundamentos da decisão agravada, hipótese esta na qual se insere o caso em que o agravante, em vez de confrontar o juízo de admissibilidade da instância ordinária, limita-se a argumentar a usurpação de competência ou a falta dela, a reiterar com exatidão as razões do recurso especial ou, ainda, a impugnar apenas parte da motivação. Inteligência da Súmula 182/STJ" (AgInt no AREsp 1.490.462/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 26/11/2019, DJe 29/11/2019).
+Assim, há óbice ao conhecimento do agravo interposto, de acordo com o entendimento sufragado na Súmula 182 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 544, § 4º, I, DO CPC/73 (ATUAIS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ) E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+I. Trata-se de Agravo interno, interposto em 19/04/2016, contra decisão monocrática, publicada em 14/04/2016, na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela ausência de omissão no acórdão recorrido, pela incidência das Súmulas 284 e 356/STF e 7 e 83/STJ, bem como porque ausente a demonstração da divergência jurisprudencial invocada. O Agravo em Recurso Especial interposto não impugnou todos os óbices, o que conduziu ao seu não conhecimento, nos termos do art. 544, § 4º, I, do CPC/73 (atuais arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ), cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno, a parte recorrente apresenta razões outras, deixando de impugnar, novamente, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno sem infirmar, especificamente, os fundamentos da decisão agravada e apresentando, ainda, outra fundamentação, dela dissociada, constitui óbice ao conhecimento do inconformismo a Súmula 182 desta Corte, em face do art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Agravo interno não conhecido.
+(AgInt no AREsp 866.675/SP, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 25/05/2016).
+Cito, ainda, as seguintes decisões monocráticas: REsp 1.822.422/SP, rel. Min. REGINA HELENA COSTA, Primeira Turma, DJe 0 2/08/2019; REsp 1.830.256/SP, rel. Min. ASSUSETE MAGALHÃES, Segunda Turma, DJe 23/08/2016.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
