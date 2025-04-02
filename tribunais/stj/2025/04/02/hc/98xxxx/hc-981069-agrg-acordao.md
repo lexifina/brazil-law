@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/03/2025 a 02/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trago à análise da Turma agravo regimental de BRUNO HENRIQUE PINTO contra a decisão de fls. 646/648, mediante a qual indeferi liminarmente o pedido de habeas corpus. Eis a ementa do decisum (fl. 646):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL EM AÇÃO REVISIONAL. PRAZO PARA INTERPOSIÇÃO DO RECURSO CABÍVEL AINDA EM CURSO NA ORIGEM. INADEQUAÇÃO DA VIA ELEITA. DESVIRTUAMENTO DO USO DO WRIT. ROUBO QUALIFICADO PELA MORTE DA VÍTIMA (LATROCÍNIO). PRETENSÃO DE ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+Nesta via, o agravante reitera as alegações do habeas corpus, sustentando que não há provas relevantes que demonstrem sua autoria, havendo apenas elementos indiciários provenientes do inquérito, que falecem à determinação do art. 155 do Código de Processo Penal.
+Argumenta que, ao proferir o acórdão condenatório, a 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo levou em consideração depoimento dado por Guilherme de Oliveira Andrade no âmbito do inquérito, bem como a oitiva dos policiais envolvidos na operação que, por óbvio, simplesmente reiteraram o conteúdo do inquérito policial (fl. 658).
+Defende que a exigência legal não se satisfaz com a vinda dos policiais para deporem em juízo, mesmo porque, com relação à versão de Guilherme, os policiais são meras testemunhas de ouvir dizer, (hearsay testimony), cujos depoimentos não atendem o standard probatório mínimo para uma condenação (fl. 660).
+Requer a reconsideração da decisão agravada ou seja o recurso provido para conceder a ordem de habeas corpus pleiteada.
+Não abri prazo para a parte agravada apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. RAZÕES QUE NÃO INFIRMARAM TODOS OS FUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica de todos os fundamentos do decisum combatido, que foram assim expostos (fls. 647/648):
+ ..
+O writ não merece ir adiante.
+Segundo o entendimento do Superior Tribunal de Justiça, é incognoscível o writ impetrado quando em curso o prazo para a interposição do recurso cabível na origem, como na espécie.
+Com efeito, verifica-se a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus (AgRg no HC n. 733.563/RS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+De todo modo, inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado.
+Ao apreciar o pedido revisional, a Corte estadual afirmou que a defesa não apresentou provas novas, limitando-se a pleitear a reavaliação daquelas já constantes dos autos da ação penal (fl. 22).
+Concluiu, ademais, que a responsabilidade do paciente pelo crime imputado é inequívoca, detalhando os elementos informativos e as provas colhidas em juízo para tanto, sobretudo as trocas de mensagens acostadas aos autos, que evidenciam uma conversa na qual o réu assume a autoria do crime após receber o vídeo com imagens da câmera de monitoramento (fl. 27).
+Ora, o acórdão combatido está em consonância com o entendimento consolidado desta Corte de que a revisão criminal não pode ser utilizada para que a parte provoque a rediscussão de questões de mérito, fundada na mera irresignação quanto ao provimento jurisdicional obtido (AgRg no AREsp n. 2.459.771/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 15/2/2024).
+Em outras palavras, a pretensão da defesa recorrente não encontra guarida em nenhuma das hipóteses legais de cabimento da via revisional, porquanto se traduz, na verdade, em rediscussão ou em reavaliação das circunstâncias de fato (exame de provas já analisadas) que ensejaram a condenação (AgRg na RvCr n. 5.022/DF, Relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 24/6/2020, DJe de 1/7/2020) - (AgRg na RvCr n. 6.089/GO, Ministro Teodoro Silva Santos, Terceira Seção, DJe 5/3/2024).
+Afora isso, revisitar os elementos fáticos-probatórios para, eventualmente, reverter a conclusão da instância antecedente a respeito da autoria delitiva é providência inadmissível nos estreitos limites cognitivos do habeas corpus. Nesse sentido, por exemplo, AgRg no HC n. 702.504/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 12/11/2021; e AgRg no HC n. 857.857/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 7/3/2024.
+Por essas razões, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+As razões do agravo regimental são inaptas para desconstituir a motivação da decisão agravada, afinal, o agravante limitou-se a repetir a tese refutada, o que não basta. Ora, ele nada falou acerca da inadequação da via eleita, do desvirtuamento do uso writ e da impossibilidade de utilização da revisão criminal para provocar rediscussão de questões de mérito, tampouco conseguiu repelir a linha de entendimento de que era necessário o revolvimento fático-probatório da ação penal para se chegar à conclusão pretendida.
+De todo modo, repito, não há ilegalidade flagrante que justifique a concessão de habeas corpus de ofício, pois, segundo exposto no acórdão impugnado no writ, a responsabilidade do agravante pelo crime imputado é inequívoca. A Corte estadual detalhou, para tanto, os elementos informativos e as provas colhidas, especialmente as trocas de mensagens acostadas aos autos, que evidenciam uma conversa na qual o réu assume a autoria do crime após receber o vídeo com imagens da câmera de monitoramento (fl. 27).
+Além disso, não é demais lembrar que os depoimentos dos policiais, que participaram ativamente das investigações, não são considerados meros relatos indiretos, mas sim informações valiosas obtidas no curso das investigações (AgRg no AREsp n. 2.501.852/RJ, Ministro Messod Azulay Neto, Quinta Turma, DJe 30/10/2024).
+Assim, à falta de contrariedade, mantêm-se hígidos os motivos expendidos pela decisão recorrida. E não tendo o agravante, nas razões deste recurso, infirmado especificamente todos os fundamentos da decisão agravada, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior, segundo a qual "é inviável o Agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (AgRg no HC n. 782.971/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/9/2023).
+Ante o ex posto, não conheço do agravo regimental.
