@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por Ivan dos Santos Ferreira Mendes, contra acórdão proferido pela Terceira Turma desta Corte Superior, assim ementado (fl. 722):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PENHORA DE PERCENTUAL DOS PROVENTOS DA APOSENTADORIA DO DEVEDOR. REGRA. IMPOSSIBILIDADE. EXCEÇÃO. DEMONSTRAÇÃO, NO CASO CONCRETO, DE QUE A MEDIDA CONSTRITIVA NÃO COMPROMETE A SUBSISTÊNCIA DIGNA DO DEVEDOR E SUA FAMÍLIA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Execução, em cumprimento de sentença.
+2. No julgamento do REsp 1.815.055/SP (DJe de 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+3. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art.
+649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15), há firme orientação jurisprudencial no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, DJe de 16/10/2018).
+4. Assim, embora não se possa admitir, em abstrato, a penhora de salário com base no § 2º do art. 833 do CPC/15, é possível determinar a constrição, à luz da interpretação dada ao art.
+833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família. Precedentes.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo interno não provido.
+O embargante sustenta divergência jurisprudencial entre o acórdão embargado e os seguintes acórdãos paradigmas: EREsp n. 1.874.222/DF, Corte Especial; e AgInt no REsp n. 1.582.475/MG, Terceira Turma. Argumenta, em síntese, que deve prevalecer o entendimento segundo o qual é impenhorável os valores recebidos a título de aposentadoria para fins de pagamento de honorários advocatícios de sucumbência.
+O recurso foi admitido às fls. 1.001-1.002.
+O Ministério Público Federal deixou de se manifestar ao entendimento de que o caso não possui interesse público primário (fls. 1.018-1.021).
+O embargado impugnou o recurso e requereu a manutenção da penhora deferida, sob os seguintes argumentos: (a) o valor recebido pelo embargado a título de aposentadoria é superior a média brasileira e o devedor também possui imóvel utilizado para locação; (b) os honorários advocatícios de sucumbência também possuem caráter alimentar; e (c) o recurso é protelatório.
+É o relatório. Decido.
+A controvérsia apresentada no recurso de divergência foi dirimida nesta Corte Superior, o que autoriza a sua resolução por meio de decisão do relator, conforme determina o enunciado da Súmula 568/STJ.
+O embargante insurge-se contra acórdão proferido pela Terceira Turma que manteve acórdão da Corte de origem no qual foi determinada a penhora de parte dos seus proventos para fins de pagamento de honorários advocatícios sucumbenciais. Confira-se (fl. 123):
+Direito Processual Civil. Bloqueio e desconto de valores recebidos a título de aposentadoria. Impugnação sob o fundamento de que se trata de verba alimentar e, portanto, impenhorável. Não obstante a impenhorabilidade dos vencimentos, o art. 833, § 2º, do CPC estabelece exceções, como a penhora de verbas para execução de créditos de caráter alimentar. Honorários sucumbenciais que têm natureza alimentar. Possibilidade de penhora de verbas remuneratórias. Precedentes do STJ e do TJRJ. Penhora do percentual de 20% sobre os rendimentos do executado que não compromete a sua subsistência. Recurso desprovido. Agravo interno prejudicado.
+Com efeito, na sessão de 5 de junho de 2024 a Corte Especial apreciou os Recursos Especiais ns. 1.954.380/SP e 1.954.382/SP, submetidos a julgamento pelo rito dos recursos especiais repetitivos, e firmou, por maioria, a seguinte tese para o Tema n. 1.153/STJ: "A verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia)".
+No ponto, confira-se a ementa do acórdão proferido no Recurso Especial n. 1.954.380/SP:
+RECURSO ESPECIAL REPETITIVO. PROCESSUAL CIVIL. VERBAS REMUNERATÓRIAS. IMPENHORABILIDADE. ART. 833, IV, DO CPC/2015. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO. VERBA DE NATUREZA ALIMENTAR E PRESTAÇÃO ALIMENTÍCIA. DISTINÇÃO. ART. 833, § 2º, DO CPC/2015. EXCEÇÃO NÃO CONFIGURADA.
+1. Os autos buscam definir se os honorários advocatícios de sucumbência, em virtude da sua natureza alimentar, inserem-se ou não na exceção prevista no § 2º do art. 833 do Código de Processo Civil de 2015 - pagamento de prestação alimentícia.
+2. Tese para os fins do art. 1.040 do CPC/2015: a verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia).
+3. Recurso especial provido.
+(REsp n. 1.954.382/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 5/6/2024, DJe de 17/9/2024.)
+É dizer, embora os honorários advocatícios sucumbenciais possuam natureza alimentar, não se amoldam ao conceito de prestação alimentícia para fins de autorizar a penhora de verbas estabelecidas no inciso IV do artigo 833 do CPC.
+Ante o exposto, dou provimento aos embargos de divergência para cassar o acórdão embargado e prover o recurso especial a fim de cassar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (fls. 122-129, e-STJ) e a decisão de primeiro grau que haviam autorizado a penhora de parte dos proventos de aposentadoria do embargante.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PENHORA DE PROVENTOS PARA PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ART. 833, § 2º, DO CPC. IMPOSSIBILIDADE. TEMA 1.153/STJ. RECURSO PROVIDO.
