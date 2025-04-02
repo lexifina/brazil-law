@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo RUMO MALHA OESTE S.A. contra decisão de inadmissibilidade de recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão do Tribunal Regional Federal da 1ª Região assim ementado:
+DIREITO TRIBUTÁRIO. TRIBUTAÇÃO DE FÉRIAS. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. FATO GERADOR. MÊS DE REFERÊNCIA. MOMENTO DA AQUISIÇÃO DO DIREITO OU DA ANTECIPAÇÃO DA REMUNERAÇÃO. IRRELEVÂNCIA. INDÉBITO FISCAL INEXISTENTE.
+1. Segundo o artigo 116, CTN, "considera-se ocorrido o fato gerador e existentes os seus efeitos: I - tratando-se de situação de fato, desde o momento em que se verifiquem as circunstâncias materiais necessárias a que produz os efeitos que normalmente lhe são próprios; II - tratando-se de situação jurídica, desde o . momento em que esteja definitivamente constituída, nos termos de direito aplicável"
+2. O artigo 22, I, da Lei 8.212/1991, o § 14 do artigo 214 do Decreto 3.048/1999 e o artigo 52, III, , da INRFB 971/2009 deixam claro que o fato gerador da contribuição previdenciária patronal ocorre no mês a que se referem as férias, segundo o regime de tributação vigente, independentemente da legislação aplicável quando da aquisição do direito ou da antecipação do valor da remuneração respectiva, que importam no plano das garantias do trabalhador, mas não na definição do fato gerador e da legislação tributária incidente.
+3. Devido o recolhimento do tributo sobre férias quando não estava o contribuinte sob o regime de desoneração da folha de pagamentos, não existe direito à tributação com base na receita bruta nem indébito fiscal a ser ressarcido por pagamento supostamente a maior, prejudicada a pretensão de restituição ou compensação.
+4. A legislação específica, atinente à incidência da contribuição previdenciária sobre férias, não é afastada por normas regentes do direito material do trabalhador (artigos 7º, XVV, CF; e 146, CLT); por normas regulamentares de imposto de renda sobre dedução como custo ou despesa operacional de valores de provisão para pagamento de remuneração de férias (artigo 342 do Decreto 9.580/2018); nem por interpretação administrativa de normas de tributação de 13º salário (Solução de Consulta COSIT 174/2019).
+5. O fato gerador da contribuição previdenciária patronal sobre férias paga a trabalhadores é definido pela legislação tributária e não se confunde, como se quer, com a legislação trabalhista, que define o momento em que adquire o trabalhador o direito às férias. A alegação de que as férias são adquiridas mês a mês pelo trabalhador refere-se à ótica da legislação e dos direitos da relação de emprego e, assim, não autoriza dimensionar lesão à reserva legal ou à irretroatividade na aplicação de lei tributária, que identifica de forma diversa o fato gerador da contribuição previdenciária.
+6. Não existe, enfim, amparo constitucional ou legal à apuração da contribuição previdenciária patronal sobre férias de acordo com legislação revogada ao tempo do fato gerador respectivo, de modo a conferir ultratividade ao regime de desoneração da folha de salários apenas porque mais benéfico ao contribuinte.
+7. Apelação desprovida.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 261/264).
+Em suas razões, a contribuinte aponta violação do art. 22, I, da Lei n. 8.212/1991. Defende a não incidência de contribuição previdenciária patronal sobre as férias usufruídas.
+Contrarrazões apresentadas às e-STJ fls. 341/358.
+O recurso especial não foi admitido em razão da inviabilidade de análise de interpretação de atos normativos infralegais e da incidência no caso das Súmulas 284 do STF e 7 do STJ.
+Houve interposição de agravo em recurso especial (e-STJ fls. 363/368).
+Parecer do Ministério Público Federal pelo conhecimento do agravo e não conhecimento do recurso especial (e-STJ fls. 449/455).
+Passo a decidir.
+O tema trazido no recurso especial da contribuinte alçado para análise desta Corte Superior consiste na incidência da contribuição previdenciária patronal sobre férias gozadas.
+A Corte de origem, ao examinar o tópico, entendeu que o valor pago a título de férias usufruídas sofre a incidência da contribuição previdenciária patronal, conclusão que se encontra em sintonia com o entendimento do STJ, consoante o que se extrai dos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A FOLHA DE SALÁRIOS (COTA PATRONAL). ACÓRDÃO RECORRIDO EM CONFORMIDADE COM PACÍFICO ENTENDIMENTO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Este Superior Tribunal tem posicionamento consolidado segundo o qual incide a contribuição previdenciária, cota patronal, sobre os valores pagos a título de férias gozadas. Precedentes.
+3. Consolidou-se na Primeira Seção desta Corte Superior o entendimento de que, em razão da natureza remuneratória, incide a contribuição previdenciária sobre os adicionais noturno, de periculosidade, de insalubridade e de transferência; as horas extras e seu respectivo adicional. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.088.189/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 04/12/2023, DJe de 07/12/2023).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS GOZADAS. INCIDÊNCIA. PRECEDENTES.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa aos arts. 489 e 1.022 do CPC/2015.
+2. O aresto recorrido está em consonância com o entendimento firmado pelas Turmas que compõem a Primeira Seção do STJ, este no sentido deque, diante da sua natureza remuneratória, incide contribuição previdenciária a cargo do empregador sobre a verba concernente às férias gozadas. Precedentes: AgInt no AREsp n. 2.214.961/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023; AgInt no AgInt nos EDcl no AREsp n. 2.013.484/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/6/2023, DJe de 9/6/2023; AgInt no REsp n. 1.997.982/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/10/2022, DJe de 13/10/2022.
+3. Agravo interno não provido.
+(AgInt no REsp n. 2.073.789/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/10/2023, DJe de 5/10/2023.)
+Incide no caso, assim, a Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto aos com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
