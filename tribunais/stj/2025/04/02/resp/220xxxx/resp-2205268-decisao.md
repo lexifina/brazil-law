@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 459):
+TRIBUTÁRIO. EX-TARIFÁRIO. RECONHECIMENTO DA PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. ART. 19 DA LEI Nº 10.522/2002
+1. Em regra, a dispensa da União quanto ao pagamento de honorários advocatícios, na forma do art. 19, § 1º, I, da Lei 10.522/2002, é aplicável na hipótese de reconhecimento da procedência do pedido manifestado já na contestação do feito, nas hipóteses arroladas nos arts. 18 e 19 da Lei n. 10.522/02.
+2. Excepcionalmente, admite-se o afastamento dos honorários advocatícios, ainda que o reconhecimento da procedência do pedido não ocorra de forma expressa no momento da contestação, desde que (i) não haja pretensão resistida da União quanto ao mérito da demanda; (ii) a realização de prova pericial seja imprescindível para o julgamento do feito; e (iii) após a realização da perícia, a União reconheça expressamente a procedência do pedido, na forma do art. 19 §1º, inciso I, da Lei 10.522/02.
+3. Havendo pretensão resistida da União quanto ao mérito da demanda em contestação, o posterior reconhecimento da procedência do pedido não autoriza o afastamento de sua condenação ao pagamento de honorários advocatícios.
+Embargos de declaração rejeitados às fls. 484-486.
+O recorrente alega violação do artigo 1.022, II, do CPC/15, argumentando que houve erro material, apontando, às fls. 502-504, que:
+ ..
+iante da ausência de elementos suficientes a demonstrar quando da contestação que os maquinários eram exatamente aqueles constantes no ex-tarifário deferido pela citada resolução, a União não poderia reconhecer naquele momento o pedido do autor, sem as devidas comprovações.
+Tanto era essa a situação que, no curso do processo, a contraparte solicitou a produção de perícia judicial, com o intuito de provar que a mercadoria importada DI 22/0648653-8 era realmente a mercadoria objeto da Resolução Gecex nº 338/2022. Da mesma forma, a insuficiência das provas ficou evidenciada quando o DD. Juízo a quo, na decisão acostada ao evento 31, determinou a produção da prova pericial. E foi com o laudo apresentado pelo perito judicial que restaram então comprovadas as alegações da contraparte, ensejando assim o reconhecimento expresso do pedido do autor pela União.
+Cumpre ressaltar que a perícia somente foi necessária, porque o equipamento não sofreu nenhuma verificação fiscal e análise por parte da Receita Federal, uma vez que a DI foi parametrizada no canal verde. Ora, como a parte autora ajuizou a presente demanda sem comprovar que a mercadoria importada era efetivamente a mercadoria objeto do pedido de ex- tarifário, fato que somente se comprovou no curso da ação, a União não deve ser condenada em custas, honorários periciais e honorários advocatícios.
+ ..
+Presentes tais razões, é inegável a aplicabilidade à espécie da hipótese de dispensa de contestar e recorrer prevista no art. 19, VI, "a" c/c §1º, I, da Lei 10.522/2002. Como se vê, no final das contas, é inconteste que a União agiu em conformidade com a disposição legal prevista no art. 19, § 1º da Lei nº 10.522/2002. Significa dizer: não há cabimento na sua condenação ao pagamento de honorários advocatícios no caso em exame.
+Contrarrazões às fls. 514-520.
+Juízo positivo de admissibilidade à fl. 523.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Afasta-se a alegada violação do artigo 1.022 do CPC/15, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, evidencia-se que assim consignou o acórdão integrativo às fls. 484-485 (com grifo no original):
+ ..
+No caso concreto, não se verifica a ocorrência de quaisquer das hipóteses ensejadoras dos embargos de declaração previstas no art. 1.022 do CPC.
+A decisão está devidamente fundamentada, com a apreciação dos pontos relevantes e controvertidos da causa.
+Ao contrário do que aponta a parte embargante, não há erro material no acórdão embargado ao concluir que "não é possível o excepcional afastamento da condenação da União ao pagamento dos honorários advocatícios porque, embora tenha ocorrido o reconhecimento da procedência do pedido após a realização de perícia, houve efetiva pretensão resistida quanto ao mérito da demanda por ocasião da contestação, manifestando-se a União pelo julgamento de improcedência do pedido formulado pela parte autora (Ev. 8.1)"
+A leitura da contestação deixa claro que a União manifestava, na ocasião, insurgência quanto à possibilidade de aplicação do benefício fiscal a operação de importação realizada anteriormente à vigência da Resolução CAMEX, requerendo o julgamento de improcedência dos pedidos.
+Do excerto final do tópico "Mérito" da contestação, que foi reproduzido no acórdão, constou expressamente que "para obter o regime tributário que pretende, o bem de capital importado deve estar amparado por Resolução da CAMEX em vigor na data do registro da DI, momento em que perfectibilizado o fato gerador do Imposto de Importação. Fora da vigência de Resolução da CAMEX, não há falar-se em regime de tributação diferenciado, mas sim em aplicação da alíquota do Imposto de Importação em percentual ordinário, em observância à legislação aduaneira".
+Tal entendimento, caso adotado pelo juízo de origem, impediria o julgamento de procedência do pedido autoral, ainda que fosse reconhecido o enquadramento das mercadorias importadas pela parte autora por meio da DI de nº 22/0648653-8 no ex-tarifário descrito na Resolução Gecex nº 338/2022, como efetivamente ocorreu após a realização de perícia técnica.
+Nesse contexto, é incabível o afastamento da condenação da União ao pagamento de honorários advocatícios, ainda que tenha posteriormente reconhecido a procedência do pedido.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Ante o exposto, nego provimento ao recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
