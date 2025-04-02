@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela EQUATORIAL PIAUI DISTRIBUIDORA DE ENERGIA S.A. contra decisão proferida às e-STJ fls. 682/684, que não conheceu do agravo em recurso especial, com fulcro no disposto no art. 253, parágrafo único, I, do RISTJ, pois a recorrente não impugnou especificamente todos os fundamentos da decisão agravada, abstendo-se de atacar a incidência das Súmulas 7 do STJ e 284 do STF (no que tange à restituição do depósito rescisório).
+Sustenta a embargante, às e-STJ fls. 688/689, que a decisão embargada incorreu em omissão e erro material, uma vez que o tema "devolução do depósito" não foi objeto do recurso especial, além de omissão quanto à demonstração da não incidência dos óbices sumulares.
+Impugnação às e-STJ fls. 692/696
+Passo a decidir.
+O art. 1.024, § 2º, do CPC/2015 prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termos do art. 1.022 do mesmo diploma, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, não ocorreu nenhum dos vícios supracitados.
+O embargante alega suposto erro material na decisão embargada, porquanto o tema "devolução do depósito" não teria sido objeto do recurso especial interposto.
+Entretanto, o juízo de prelibação negativo proferido na origem consignou que "a análise do apelo não permite compreender a controvérsia, visto que requer a alteração do acórdão para que determine a restituição do depósito rescisório, muito embora o acórdão já tenha determinado o que se requer", questão sobre a qual incidiu a Súmula 284 do STF.
+Além disso, a inadmissão do recurso especial se deu ainda, entre outros fundamentos, com base na aplicação da Súmula 7 do STJ, em relação à alegada afronta i) aos arts. 82, § 2º, 85, caput, 966 e 974 do CPC; e ii) ao art. 85, § 2º e § 8º, do CPC.
+No caso, a decisão embargada consignou que a parte deixou de impugnar específica e adequadamente a incidência das Súmulas 7 do STJ e 284 do STF (relativamente à devolução do depósito).
+Como se vê, a motivação exposta no recurso não evidenciou nenhum indicativo de máculas no decisum ora embargado, que consignou que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ.
+Cumpre destacar que não é omisso nem desprovido de fundamentação o julgado em que o recurso deixa de ser conhecido pela ausência de pressupostos e são apontadas as razões que fundamentam tal conclusão.
+Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: EDcl nos EDcl no AgInt no REsp 1.816.994/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/12/2024, DJEN de 13/12/2024; REsp 1.975.020/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 10/9/2024, DJe de 17/9/2024; AgInt no REsp 1.859.197/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2022, DJe de 19/5/2022; e AgInt no AREsp 1.023.553/AC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 29/6/2020, DJe de 1/7/2020.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
