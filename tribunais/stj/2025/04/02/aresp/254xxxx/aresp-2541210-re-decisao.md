@@ -1,0 +1,49 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fl. 2.112):
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DIREITOS AUTORAIS. ECAD. CERCEAMENTO DE DEFESA. REVISÃO DO JULGADO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático-probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ.
+2. Segundo a jurisprudência do Superior Tribunal de Justiça, (i) a interpretação do art. 68, § 4º, da LDA que assegura maior espectro de proteção aos titulares de direitos autorais é aquela que reconhece como "empresário" toda pessoa, física ou jurídica, cuja atividade esteja indissociavelmente ligada à execução, em locais de frequência coletiva, de obras musicais, literomusicais ou fonogramas; e (ii) o art. 110 da LDA estabelece a responsabilidade solidária de todos os envolvidos na violação de direitos autorais: proprietários, diretores, gerentes, empresários e arrendatários, entre outros.
+3. A majoração do percentual fixado para os honorários advocatícios é devida independentemente da comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo aplicável mesmo quando não são apresentadas contrarrazões. Precedentes.
+4. Agravo interno não provido.
+As partes recorrentes alegam a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, ao art. 93, IX, da Constituição Federal.
+Nesse sentido, argumentam que o acórdão recorrido negou provimento ao agravo interno utilizando a mesma fundamentação da decisão monocrática anterior, o que, segundo alegam, configura ausência de fundamentação e, consequentemente, nulidade da decisão.
+Sustentam que a técnica de fundamentação per relationem, embora admitida, exige a apresentação de argumentos próprios que demonstrem a convicção do órgão julgador sobre o caso concreto, o que não teria ocorrido.
+Requerem , assim, a admissão e o provimento do recurso extraordinário.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da CF não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 2.113-2.117):
+Não colhe a inconformidade relacionada com o alegado cerceamento de defesa (arts. 373, inciso II, e 374, inciso IV, do Código de Processo Civil).
+No caso em apreço, o Tribunal de origem, à luz da prova dos autos, entendeu, em decisão devidamente fundamentada, que a solução da controvérsia posta nos autos prescinde da realização de outras provas, além daquelas que já constam dos autos.
+Confira-se:
+"(..)
+Não há que se falar em cerceamento de defesa, em razão do julgamento antecipado da lide e, tampouco, pela não produção de provas, uma vez que em decisão de mov. 35.1 o magistrado abriu prazo para que as partes apontassem: "de maneira clara, objetiva e sucinta, as questões de fato e de direito que entendem pertinentes ao julgamento da lide, bem como especifiquem as provas que pretendam produzir, justificando, fundamentadamente, sua relevância e pertinência, sob pena de indeferimento da prova pretendida. Alternativamente, digam as partes a respeito da possibilidade de julgamento antecipado do feito".
+Assim sendo, não ocorreu qualquer surpresa para os apelantes quanto ao julgamento antecipado da lide.
+Ainda, quanto ao alegado cerceamento de defesa, o juiz tem o dever de indeferir as provas inúteis ou protelatórias, sobretudo quando existirem nos autos elementos suficientes para elucidar a questão, como no caso dos autos.
+No caso em análise, é certo que a produção de provas pericial e testemunhal, conforme requerido pela apelante no mov. 40.1, não teria o alcance de modificar o resultado processual.
+Analisando detidamente cada um dos tópicos trazidos no mov. 40.1 e repetidos em sede de apelo, tem-se que a prova pericial e/ou testemunhal em nada alteraria a conclusão a que se chega através da prova documental produzida.
+Veja-se, a alegação de haver valores discrepantes entre o "demonstrativo de débito analítico (mov. 1.33) e o valor mencionado no mov. 1.28", não seria dirimida através das provas requeridas, mormente porque no mov. 1.28, no que interessa, não há qualquer indicação de valores, sendo apenas um cadastro do usuário. Ademais, eventual divergência de cálculos poderá ser solucionada em liquidação de sentença, o que afasta qualquer necessidade de aquiescência prévia em relação aos cálculos trazidos.
+Também não se verifica necessidade de, através de prova pericial ou testemunhal durante a instrução processual, ser explicitada a taxa de juros e a correção monetária empregadas no "Demonstrativo de Débito Analítico" (mov. 1.33). É certo que ao propor a demanda, a parte autora trouxe cálculo dos valores que entende devidos, nada impedindo que ao ser julgado o feito, fixe-se os juros e correção monetária de forma diferente do que foi trazido inicialmente pela parte. Tanto é assim que o sentenciante fixou os juros e correção monetária, os quais deverão ser observados nos cálculos a serem elaborados em liquidação de sentença.
+A questão da multa foi solucionada pelo magistrado de origem sem qualquer necessidade de prova pericial ou testemunhal e, ainda, foi afastada a aplicação da multa, de forma favorável à apelante. Da mesma forma, os esclarecimentos requeridos nos itens "h" e "i" (mov. 40.1) em nada poderiam ser solucionados com a realização das provas requeridas. Como já mencionado, o demonstrativo de cálculo trazido pela parte autora não tem o condão de fixar o valor devido, o qual será apurado, através das balizas do julgamento, em liquidação de sentença.
+Resta de fácil observação que a produção de provas requerida em nada contribuiria aos anseios da apelante, refletindo na inocorrência de cerceamento de defesa" (e-STJ fls. 1.684-1.685).
+Tendo o órgão julgador, destinatário da prova, concluído, com base nos elementos do processo, ser desnecessária a dilação probatória, inviável o acolhimento da pretensão recursal, pois demandaria o revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula nº 7/STJ.
+ ..
+Registre-se, ademais, que, também conforme firme jurisprudência deste Tribunal Superior, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+ ..
+No que se refere aos arts. 110 da Lei nº 9.610/1998, 1.052 do Código Civil e 1º, § 2º, da LINDB, o acórdão recorrido está em harmonia com a orientação desta Corte no sentido de que (i) a interpretação do art. 68, § 4º, que assegura maior espectro de proteção aos titulares de direitos autorais é aquela que reconhece como "empresário" toda pessoa, física ou jurídica, cuja atividade esteja indissociavelmente ligada à execução, em locais de frequência coletiva, de obras musicais, literomusicais ou fonogramas; e (ii) o art. 110 estabelece a responsabilidade solidária de todos os envolvidos na violação de direitos autorais: proprietários, diretores, gerentes, empresários e arrendatários, entre outros.
+ ..
+Incide, na espécie, a Súmula nº 568/STJ, segundo a qual "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto aos honorários recursais, vale anotar que, segundo a jurisprudência desta Corte, a majoração do percentual fixado para os honorários advocatícios é devida independentemente da comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo aplicável mesmo quando não são apresentadas contrarrazões.
+ ..
+Assim, não prosperam as alegações postas no agravo, incapazes de alterar os fundamentos da decisão impugnada.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme disposto no § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
