@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/03/2025 a 02/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TENTATIVA DE LESÃO CORPORAL PRATICADA CONTRA MULHER POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO. LESÕES CORPORAIS SIMPLES. DANO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus, no qual se alegava excesso de prazo para formação da culpa, com pedido de relaxamento da custódia preventiva.
+2. O agravante está preso cautelarmente há quase oito meses e o processo originário encontra-se em fase de apresentação de alegações finais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há excesso de prazo na formação da culpa que justifique o relaxamento da custódia preventiva do agravante.
+III. Razões de decidir
+4. A simples extrapolação de prazos processuais não implica, por si só, ilegalidade da prisão cautelar, devendo-se considerar, para o eventual reconhecimento de excesso de prazo, a razoabilidade e a proporcionalidade, além das particularidades do caso concreto.
+5. No caso, embora o agravante esteja preso cautelarmente desde 20/7/2024, verifica que já havia sido designada audiência de instrução para o dia 11/12/2024, a qual foi adiada para 19/2/2025, com a finalidade de promover a continuação da instrução, diante da necessidade de ouvida da vítima, a qual não compareceu na audiência anterior, além das testemunhas arroladas pelo Ministério Público. Saliente-se que o processo encontra-se em fase de apresentação de alegações finais. Assim, não se identifica, por ora, constrangimento ilegal decorrente de excesso de prazo para a formação da culpa, tendo em vista que o processo segue marcha regular, com expectativa de que a sentença será prolatada em breve, não havendo falar em desídia por parte do Poder Judiciário, que, ao que tudo indica, vem empreendendo esforços para finalizá-lo.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. Não há excesso de prazo para a formação da culpa no caso de prisão preventiva que perdura por oito meses, mas que o processo originário se encontra em fase de alegações finais, sendo que, anteriormente, foi preciso redesignar audiência de instrução, dada a necessidade de ouvida da vítima, a qual deixou de comparecer na audiência anterior, além das testemunhas arroladas pela acusação. "
+Dispositivos relevantes citados: CR /1988, art. 5º, LXXVIII.
+Jurisprudência relevante citada: STJ, AgRg no RHC 173.454/DF, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 22.05.2023; STJ, AgRg no RHC 120.245/AL, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 05.03.2020.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE WILSON DOS SANTOS SILVA contra decisão monocrática, por mim proferida, que negou provimento ao recurso em habeas corpus.
+O agravante sustenta, em síntese, que há excesso de prazo para formação da culpa, tendo em vista que está preso cautelarmente desde 20/7/2024 sem que tenha havido sentença, não tendo contribuído de qualquer forma para a demora na tramitação processual.
+Pleiteia o provimento do agravo regimental para que seja relaxada a custódia preventiva.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TENTATIVA DE LESÃO CORPORAL PRATICADA CONTRA MULHER POR RAZÕES DA CONDIÇÃO DO SEXO FEMININO. LESÕES CORPORAIS SIMPLES. DANO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus, no qual se alegava excesso de prazo para formação da culpa, com pedido de relaxamento da custódia preventiva.
+2. O agravante está preso cautelarmente há quase oito meses e o processo originário encontra-se em fase de apresentação de alegações finais.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se há excesso de prazo na formação da culpa que justifique o relaxamento da custódia preventiva do agravante.
+III. Razões de decidir
+4. A simples extrapolação de prazos processuais não implica, por si só, ilegalidade da prisão cautelar, devendo-se considerar, para o eventual reconhecimento de excesso de prazo, a razoabilidade e a proporcionalidade, além das particularidades do caso concreto.
+5. No caso, embora o agravante esteja preso cautelarmente desde 20/7/2024, verifica que já havia sido designada audiência de instrução para o dia 11/12/2024, a qual foi adiada para 19/2/2025, com a finalidade de promover a continuação da instrução, diante da necessidade de ouvida da vítima, a qual não compareceu na audiência anterior, além das testemunhas arroladas pelo Ministério Público. Saliente-se que o processo encontra-se em fase de apresentação de alegações finais. Assim, não se identifica, por ora, constrangimento ilegal decorrente de excesso de prazo para a formação da culpa, tendo em vista que o processo segue marcha regular, com expectativa de que a sentença será prolatada em breve, não havendo falar em desídia por parte do Poder Judiciário, que, ao que tudo indica, vem empreendendo esforços para finalizá-lo.
+IV. Dispositivo e tese
+6. Agravo regimental improvido.
+Tese de julgamento: "1. Não há excesso de prazo para a formação da culpa no caso de prisão preventiva que perdura por oito meses, mas que o processo originário se encontra em fase de alegações finais, sendo que, anteriormente, foi preciso redesignar audiência de instrução, dada a necessidade de ouvida da vítima, a qual deixou de comparecer na audiência anterior, além das testemunhas arroladas pela acusação. "
+Dispositivos relevantes citados: CR /1988, art. 5º, LXXVIII.
+Jurisprudência relevante citada: STJ, AgRg no RHC 173.454/DF, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 22.05.2023; STJ, AgRg no RHC 120.245/AL, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 05.03.2020.
+VOTO
+Esta Corte, ao interpretar a garantia constitucional prevista no art. 5º, LXXVIII, que assegura a razoável duração do processo, além dos meios que garantam a celeridade de sua tramitação, pacificou entendimento no sentido de que a simples extrapolação de prazos processuais previstos na legislação não implica, por si só, ilegalidade da prisão cautelar.
+A análise acerca de eventual excesso de prazo deverá levar em conta, à luz dos princípios da razoabilidade e da proporcionalidade, todas as particularidades do caso concreto, tais como o tempo de duração da prisão cautelar, bem como a complexidade e o modo com que o processo tem sido conduzido pelo Estado.
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. FURTO, ASSOCIAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. COMPLEXIDADE DO FEITO, COM DIVERSOS RÉUS E IMPUTAÇÃO DE VÁRIOS CRIMES. PRISÃO HÁ CERCA DE UM ANO. EXCESSO DE PRAZO NÃO CONFIGURADO. ALEGADA DESMARCAÇÃO DA AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO COM REABERTURA DO PRAZO PARA RESPOSTA À ACUSAÇÃO. SUPRESSÃO DE INSTÂNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Considerando que o feito tem sido regularmente processado, reputo plausíveis as razões consignadas pela instância antecedente para afastar a tese de ocorrência de excesso de prazo, mesmo considerando que a Agravante está segregada há cerca de um ano, visto que responde por diversos crimes, em ação penal complexa, onde foram requeridas inúmeras diligências, além de contar com nove réus, com patronos distintos, motivo pelo qual a demora na prolação de sentença não excede, até o momento, os limites da razoabilidade.
+2. A decisão agravada está fundamentada de acordo com as informações do acórdão recorrido e prestadas recentemente pelo Juízo de primeiro grau, não havendo qualquer indicativo de que o alegado constrangimento ilegal por excesso de prazo resultante do cancelamento da audiência de instrução e julgamento tenha sido suscitado nas instâncias ordinárias.
+3. A mudança da situação processual, após a publicação da decisão ora agravada, não tem o condão de impor a reanálise da tese de excesso de prazo, que deve ser trazida a esta Corte Superior na via processual adequada. De acordo com a jurisprudência desta Corte, no âmbito do agravo regimental não se admite que a parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir formuladas na petição inicial ou no recurso.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."
+(AgRg no RHC 173.454/DF, Relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE ILEGAL DE MUNIÇÃO. RECEPTAÇÃO. EXCESSO DE PRAZO PARA JULGAMENTO DA AÇÃO PENAL. TRÂMITE PROCESSUAL REGULAR. INSTRUÇÃO ENCERRADA. INCIDÊNCIA DA SÚMULA 52 DESTA CORTE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO IMPROVIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Estando o feito na fase do art. 402 do Código de Processo Penal - cumprimento de diligências, então, houve o fim da instrução, e incide na hipótese a Súmula n. 52 deste Superior Tribunal de Justiça.
+2. Não se verifica excesso de prazo da medida cautelar, visto que a prisão do agravante ocorreu em 4/1/2019, a denúncia foi oferecida 25/1/2019, os réus apresentaram resposta à acusação em 29/4/2019 e 22/5/2019, tendo sido designadas audiências de instrução para 18/9/2019 e 29/1/2020, estando atualmente o feito apenas aguardando a confecção do laudo toxicológico definitivo para a subsequente intimação das partes para apresentação de memoriais finais, o que sugere a proximidade da prolação da sentença.
+3. Agravo regimental improvido."
+(AgRg no RHC 120.245/AL, Relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/3/2020, DJe de 10/3/2020).
+Acerca do tema, assim se manifestou o Tribunal de origem, ao julgar, em 18/12/2024, o writ originário:
+"10. O prazo para a conclusão da instrução processual não é absoluto, devendo ser avaliado de acordo com as circunstâncias específicas de cada caso, considerando critérios de razoabilidade e as particularidades e complexidades envolvidas no processo.
+11. Na espécie em tela, não restou comprovada, durante o transcurso do processo de origem, negligência por parte do Juízo de primeiro grau, que tem praticado os atos processuais que lhe compete dentro de prazo razoável.
+12. Outrossim, verifica-se que o Juízo impetrado designou a audiência de instrução para 11/12/2024. Não obstante, atendendo a pedido da defesa, redesignou a audiência para continuação da instrução, que não foi concluída, a fim de se proceder ao depoimento pessoal da vítima ausente,  ..  A. DOS S. G. , e à inquirição das testemunhas arroladas pelo MP (págs. 235/236, origem).
+13. Vale destacar que os atrasos que possam sugerir excesso de prazo devem ser injustificados, caracterizando protelação indevida por parte do Estado-juiz ou do Ministério Público, o que, enfatize-se, não se verifica no presente caso." (e-STJ, fl. 228).
+No caso, embora o agravante esteja preso cautelarmente desde 20/7/2024, verifica-se que o Juízo de primeiro grau, que havia designado audiência de instrução para o dia 11/12/2024, redesignou a audiência para o dia 19/2/2025, com a finalidade de promover a continuação da instrução, diante da necessidade de ouvida da vítima, a qual não compareceu na audiência anterior, além das testemunhas arroladas pelo Ministério Público.
+Agora, em nova consulta ao sítio eletrônico do Tribunal de origem, observa-se que o processo originário encontra-se em fase de apresentação de alegações finais, o que, inclusive, atrai a incidência da Súmula 52 do Superior Tribunal de Justiça, que dispõe: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Assim, não se identifica, por ora, o alegado constrangimento ilegal decorrente de excesso de prazo para a formação da culpa, tendo em vista que o processo segue marcha regular, existindo, com o encerramento da instrução processual, expectativa de que a sentença será prolatada em breve, não havendo falar em desídia por parte do Poder Judiciário, que, ao que tudo indica, vem empreendendo esforços para finalizá-lo.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
