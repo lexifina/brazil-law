@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+TRIBUTÁRIO. IMUNIDADE RECÍPROCA. IPVA E TAXA DE LICENCIAMENTO DE VEÍCULO. ORDEM DE ABSTENÇÃO DE REGISTROS DE PENHORA E REGISTRO DE LICENCIAMENTO DO VEÍCULO. DESCABIMENTO.
+1. O Supremo Tribunal Federal assentou que a imunidade tributária recíproca dos entes políticos, prevista no art. 150, inc. VI, alínea a, da Constituição da República é extensiva às autarquias, na forma do §2º dispositivo, "no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes" (RE nº 203.839/SP, Plenário, Rel. Min. CARLOS VELLOSO, DJ 02/05/1997).
+2. A imunidade tributária recíproca, no entanto, é aplicável somente a impostos, não alcançando as taxas. Precedentes do STF.
+3. Constatada a omissão/inércia da instituição originária adjudicante do veículo (IBAMA) em promover a transferência de domínio do bem, não há falar em transferência direta para o ICM Bio no caso presente e sequer em deferimento de medida genérica (abstenção de registro de penhoras) ao respectivo Departamento de Trânsito, por importar descumprimento de ordem emanada de outro juízo.
+Os dois embargos de declaração opostos sucessivamente pelo instituto foram rejeitados.
+Nas suas razões, a parte recorrente, apontando violação do art. 515, §1º, do CPC/1973 e dos arts. 1.013, § 1º, e 1.022 do CPC, sustenta a nulidade do acórdão recorrido, por inobservância da extensão do efeito devolutivo da apelação, porquanto decidiu pela tributação pela taxa de licenciamento do veículo sem examinar a causa de pedir ventilada na petição inicial referente à inexistência do exercício do poder de polícia que ampare a cobrança. Para tanto, aduziu que a circulação do veículo está restrita aos limites de parque de conservação ambiental situado no Estado do Rio de Janeiro e administrado pelo instituto, não havendo tráfego em via pública que justifique a sua fiscalização pelo órgão de trânsito.
+Sem contrarrazões.
+Depois de mantido o acórdão recorrido em sede de juízo de conformação com o precedente que julgou o Tema 708 do STF, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Passo a decidir.
+Na origem, cuidam os autos de ação declaratória de inexistência de relação jurídico-tributária que respalde a exigência de IPVA e de Taxa de Licenciamento de veículo adjudicado pelo Ibama e hoje pertencente ao instituto, que é utilizado para o deslocamento de visitantes no Parque Nacional da Serra dos Órgãos/RJ.
+O magistrado de primeiro grau, por sentença cienficada ainda na vigência do CPC/1973, julgou o pedido procedente.
+Na sequência, o TRF4 deu parcial provimento à apelação do ESTADO DE SANTA CATARINA, para manter a exigência da Taxa de Licenciamento, sob o fundamento de que ela não estaria abrangida pela imunidade recíproca. Confira-se:
+Em relação à taxa de licenciamento anual, entretanto, não há falar em imunidade recíproca, eis que esta somente é aplicável aos impostos, nos termos do art. 150, VI, alínea a, da Constituição. Confira-se a jurisprudência do Supremo Tribunal Federal a esse respeito:
+ ..
+Em tal cenário, o apelo do ESTADO DE SANTA CATARINA enseja parcial provimento, para afastar a imunidade declarada em relação à taxa de licenciamento anual do veículo.
+Ocorre que o instituto recorrente opôs embargos de declaração para, com amparo no efeito devolutivo da apelação (art. 515, § 1º, do CPC/1973 e art. 1.013, § 1º, do CPC/2015), obter a manifestação do Colegiado local sobre a alegação contida na petição inicial relativa à inexistência, in casu, de poder de polícia específico que dê suporte à cobrança da Taxa de Licenciamento.
+No julgamento desses aclaratórios, o Tribunal regional afastou essa alegação de omissão ao fundamento de que "o apelo do Estado de Santa Catarina foi julgado com observância ao princípio do tantum devolutum quantum apelatum, nada tendo alegado o ICMBio, nas contrarrazões recursais, acerca da taxa de licenciamento anual do veículo, além de ter inovado em suas razões de embargos".
+Pois bem.
+No contexto dos autos, verifico que assiste razão ao instituto recorrente quanto à apontada violação do art. 515, § 1º, do CPC/1973, cuja redação era a seguinte:
+Art. 515. A apelação devolverá ao tribunal o conhecimento da matéria impugnada.
+§ 1º Serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que a sentença não a tenha julgado por inteiro.
+Na petição inicial, o instituto autor impugnou a exigência da Taxa de Licenciamento com base no fundamento de que inexiste, in concreto, poder de polícia que ampare a cobrança do tributo (e-STJ fls. 10/12).
+O magistrado de primeiro grau julgou procedente o pedido por entender que a imunidade recíproca infirmaria tanto a cobrança do IPVA quanto à cobrança da Taxa de Licenciamento.
+Irresignada, a Fazenda Pública estadual apelou para defender que a imunidade não alcançaria a taxa, argumento esse que veio a ser acolhido pelo TRF4.
+Entretanto, afastado o fundamento utilizado pela sentença, devia o Tribunal de origem examinar a causa de pedir que foi efetivamente agitada pela parte autora na petição inicial e que não veio a ser examinada na sentença em razão o magistrado ter adotado outro fundamento para o acolhimento da pretensão. Como assim não procedeu, está caracteriza a negativa da prestação jurisdicional almejada pela parte autora.
+Frise-se que esse entendimento não ofende o princípio do tantum devolutum quantum apelatum, uma vez que a ventilada causa de pedir contida na exordial e não examinada no acórdão recorrido guarda relação direta com pretensão deduzida no apelo fazendário, relativa à exigibilidade da cobrança da Taxa de Licenciamento.
+Nesse mesmo sentido, vide:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. VÍCIOS NO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TÍTULO EXECUTIVO EXTRAJUDICIAL. SÚMULAS 5 E 7 DO STJ. EFEITO DEVOLUTIVO AMPLO DA APELAÇÃO. RESPEITO À AUTONOMIA PRIVADA E À LIBERDADE DE CONTRATAR. CONTRATO DE PARCERIA PECUÁRIA. ENTREGA DE RESES PARA ENGORDA. NATUREZA JURÍDICA. CONTRATO REAL. NATUREZA JURÍDICA DO INSTRUMENTO CONTRATUAL FIRMADO PELAS PARTES NA HIPÓTESE DOS AUTOS. REAL INTENÇÃO DOS CONTRATANTES. CÂNONE HERMENÊUTICO DA TOTALIDADE E DA COERÊNCIA. FINS ALMEJADOS PELAS PARTES. MÚTUO COM CONFISSÃO DE DÍVIDA. SIMULAÇÃO. NÃO OCORRÊNCIA.
+ ..
+5- A apelação possui efeito devolutivo amplo, e a limitação quanto à "matéria impugnada", a que alude o art. 1.013, caput, do CPC, não implica, por óbvio, r estrição aos fundamentos jurídicos de que pode lançar mão o órgão ad quem, mesmo porque cabe a ele apreciar e julgar todas as questões suscitadas e discutidas no processo, ainda que não tenham sido previamente solucionadas. Precedentes.
+ ..
+(REsp 1.949.317/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/11/2021, DJe de 12/11/2021.).
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. EQUIPARAÇÃO À APELAÇÃO. ART. 540 DO CPC. EFEITO DEVOLUTIVO AMPLO. NÃO INCIDÊNCIA DA SÚMULA 283/STF. PEDIDO DE PROVIDÊNCIAS EMANADO PELO CONSELHO NACIONAL DE JUSTIÇA - CNJ. AFASTAMENTO DOS TITULARES DE SERVENTIAS EXTRAJUDICIAIS EFETIVADOS SEM CONCURSO PÚBLICO APÓS A CONSTITUIÇÃO FEDERAL DE 1988. DECRETO JUDICIÁRIO N. 525, DE 29 DE ABRIL DE 2008, EXPEDIDO PELO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS. MERO EXECUTOR DO ATO. CARÊNCIA DO DIREITO DE AÇÃO POR ILEGITIMIDADE PASSIVA AD CAUSAM.
+ ..
+2. A interposição do recurso ordinário em mandado de segurança implica devolução, ao Tribunal ad quem, de todas as questões já suscitadas nos autos, ainda que não apreciadas pela Corte de origem ou expressamente mencionadas no bojo do recurso, ressalvando a necessidade de respeito aos limites da lide e ao princípio tantum devolutum quantum apellatum. Precedentes: RMS 21925/SP, Relatora Ministra Denise Arruda, Relator para acórdão Ministro Benedito Gonçalves, Primeira Turma, DJ de 18 de março de 2009 e RMS 20.762/RJ, Relator Ministro Luiz Fux, Primeira Turma, DJ de 11 de setembro de 2008.
+ ..  (RMS 29.700/GO, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/9/2009, DJe de 16/9/2009.).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. EXISTÊNCIA. APELAÇÃO. EFEITO DEVOLUTIVO. JULGAMENTO EXTRA-PETITA. REFORMATIO IN PEJUS. INOCORRÊNCIA.
+ ..
+3. A título de argumentação obiter dictum, o efeito devolutivo coloca o Tribunal nas mesmas condições em que se encontrava o juiz no momento de decidir, adstrindo-se, todavia, sua atuação aos limites da impugnação, em atenção ao princípio tantum devolutum quantum appellatum. Inteligência do art. 515, § 1º, do CPC, verbis:
+Art. 515. A apelação devolverá ao tribunal o conhecimento da matéria impugnada.
+§ 1o Serão, porém, objeto de apreciação e julgamento pelo tribunal todas as questões suscitadas e discutidas no processo, ainda que a sentença não as tenha julgado por inteiro.
+ ..  (REsp 1.088.037/SP, relator Ministro Luiz Fux, Primeira Turma, julgado em 7/5/2009, DJe de 27/5/2009.).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de proceda a novo julgamento da apelação que contemple o exame da causa de pedir deduzida na petição para impugnar a cobrança da Taxa de Licenciamento, referente à alegada falta de poder de polícia que ampare a exação.
+Publique-se. Intimem-se.
+EMENTA
