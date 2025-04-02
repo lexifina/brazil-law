@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LORENA FÁTIMA MONTEIRO contra a decisão que inadmitiu o recurso especial com fundamento na vedação de reexame de matéria fático-probatória, pela incidência da Súmula 7 do STJ (fls. 419-423).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul em apelação cível nos autos de ação declaratória de nulidade de contrato com pedido de produção de provas antecipada.
+O julgado foi assim ementado (fl. 357):
+APELAÇÃO CÍVEL. CARTÃO DE CRÉDITO. AÇÃO DECLARATÓRIA DE NULIDADE DE CONTRATO COM PEDIDO DE PRODUÇÃO DE PROVAS ANTECIPADA. 1. PRELIMINAR RECURSAL. IMPUGNAÇÃO À GRATUIDADE JUDICIÁRIA. A REVOGAÇÃO DO BENEFÍCIO DA GRATUIDADE JUDICIÁRIA RECLAMA PROVA DA INEXISTÊNCIA OU DESAPARECIMENTO DOS REQUISITOS LEGALMENTE PREVISTOS PARA SUA CONCESSÃO. NA HIPÓTESE, NÃO HOUVE DEMONSTRAÇÃO DA ALTERAÇÃO DA SITUAÇÃO FINANCEIRA DA PARTE AUTORA APTA A ENSEJAR A REVOGAÇÃO DO BENEFÍCIO, O QUAL DEVE SER MANTIDO, NOTADAMENTE PORQUE A PARTE RÉ NÃO SE DESINCUMBIU DO ÔNUS DE EVIDENCIAR EVENTUAL CAPACIDADE FINANCEIRA DA PARTE AUTORA. 2. PRELIMINAR RECURSAL. SENTENÇA EXTRA PETITA. A PRELIMINAR RECURSAL CONFUNDE-SE COM O MÉRITO E COM ELE SERÁ ANALISADA. 3. RESPONSABILIDADE CIVIL DAS INSTITUIÇÕES FINANCEIRAS NAS RELAÇÕES DE CONSUMO. FALHA NA PRESTAÇÃO DO SERVIÇO. INOCORRÊNCIA. NO CASO EM TELA, NÃO RESTOU DEMONSTRADA A EXISTÊNCIA DE QUALQUER FALHA NA PRESTAÇÃO DE SERVIÇOS DA PARTE RÉ, SOBRETUDO PORQUE FORAM PRESTADAS INFORMAÇÕES CLARAS, ADEQUADAS E SUFICIENTES À DEMANDANTE EM RELAÇÃO AOS ENCARGOS COBRADOS EM CASO DE ATRASO NO PAGAMENTO DAS FATURAS E DE PARCELAMENTO DO SALDO DEVEDOR, EM CONFORMIDADE COM O DEVER DE INFORMAÇÃO EXPRESSAMENTE PREVISTO NO ART. 6º, III, DO CDC. À VISTA DISSO, CONSIDERANDO QUE A PARTE AUTORA NÃO LOGROU COMPROVAR O VÍCIO DO NEGÓCIO JURÍDICO, DEVE SER REFORMADA A SENTENÇA PARA JULGAR IMPROCEDENTE A AÇÃO. PREJUDICADA A PRELIMINAR RECURSAL DE SENTENÇA EXTRA PETITA. APÓS O VOTO DO RELATOR, DES. CABRAL, PARA AFASTAR A PRELIMINAR RECURSAL E PARA DAR PROVIMENTO À APELAÇÃO, O DES. MARASCHIN LANÇOU DIVERGÊNCIA NO SENTIDO DE NEGAR PROVIMENTO. O DES. CORSSAC ACOMPANHOU O RELATOR. SEGUINDO O PROCEDIMENTO DO ART. 942 CPC, O DES. ALTAIR ACOMPANHOU A DIVERGÊNCIA E O DES. CAIRO ACOMPANHOU O RELATOR. RESULTADO: POR MAIORIA, AFASTARAM A PRELIMINAR RECURSAL E DERAM PROVIMENTO AO APELO, VENCIDOS O DES. MARASCHIN E O DES. ALTAIR. REDATOR PARA O ACÓRDÃO: DES. CABRAL.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 186, 927, parágrafo único, do Código Civil, pois o acórdão recorrido não reconheceu a responsabilidade objetiva da instituição financeira pela falha na prestação de serviços, mesmo diante da ausência de anuência da consumidora na renegociação do débito (fls. 372-374);
+b) 373, caput, II, § 1º, do Código de Processo Civil, pois o acórdão atribuiu à consumidora o ônus de provar que foi induzida em erro, contrariando o regime de proteção ao consumidor e a distribuição do ônus da prova (fls. 374-376);
+c) 2º, 3º, caput, § 2º, 6º, VIII, 12, caput, § 1º, 14 do Código de Defesa do Consumidor, pois o acórdão não aplicou corretamente a responsabilidade objetiva e o dever de informação qualificado, desconsiderando a vulnerabilidade da consumidora (fls. 376-378).
+Requer o provimento do recurso para que seja reformado o acórdão recorrido, restabelecendo-se a sentença de primeiro grau que desconstituiu o débito.
+Contrarrazões de LUIZACRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO em que a parte recorrida aduz que o recurso especial não merece ser admitido, pois não há relevância na questão de direito discutida, além de ausência de prequestionamento e fundamentação deficiente (fls. 407-416).
+É o relatório. Decido.
+Trata-se de ação de declaração de nulidade de contrato com pedido de produção de provas antecipada em que a parte autora pleiteou a declaração de inexistência do contrato de renegociação e a condenação da demandada à repetição simples das cobranças efetuadas indevidamente.
+Na sentença, o Juízo de primeiro grau julgou parcialmente procedentes os pedidos da autora, declarando a inexistência do contrato de renegociação e condenando a demandada à repetição simples das cobranças indevidas, além de fixar honorários advocatícios.
+A Corte estadual reformou a sentença, julgando improcedente a ação, ao entender que não houve falha na prestação de serviços da instituição financeira e que a autora não comprovou o vício do negócio jurídico.
+I - Art. 186, 927, parágrafo único, do Código Civil
+No recurso especial, a parte recorrente alega que o acórdão recorrido não reconheceu a responsabilidade objetiva da instituição financeira pela falha na prestação de serviços, mesmo diante da ausência de anuência da consumidora na renegociação do débito.
+O acórdão recorrido entendeu que não houve falha na prestação de serviços, pois foram prestadas informações claras e adequadas à demandante.
+Transcrevo o seguinte trecho do acórdão recorrido (fl. 352):
+No caso em tela, entendo que não restou configurada falha na prestação de serviços da instituição financeira ré, conforme passo a demonstrar.
+Pois bem.
+Da leitura da inicial, extrai-se que a parte autora contratou um financiamento de cartão de crédito com a empresa ré, em 21/12/2019, no valor total de R$ 20.000,00, a ser pago em 36 parcelas mensais de R$1.269,17 (contrato nº 688983), tendo realizado o pagamento de 24 das 36 parcelas.
+Inviável, portanto, rever o referido entendimento ante o óbice da Súmula n. 7 do STJ.
+II - Art. 373, caput, II, § 1º, do Código de Processo Civil
+A recorrente afirma que o acórdão atribuiu à consumidora o ônus de provar que foi induzida em erro, contrariando o regime de proteção ao consumidor e a distribuição do ônus da prova.
+O acórdão recorrido considerou que a autora não se desincumbiu do ônus de provar o vício do negócio jurídico.
+Destaco o seguinte trecho do acórdão recorrido (fl. 352):
+Neste contexto, sob o fundamento de que não foram prestadas informações claras acerca da contratação, postula a demandante a nulidade da renegociação.
+Ocorre que, do exame dos autos, se observa que a parte autora não se desincumbiu do ônus que lhe cabia, de provar, a despeito do disposto no art. 373, I, do CPC, porquanto não logrou êxito em comprovar ter sido induzida em erro, eis que a renegociação ocorreu em 2021 e ela busca a nulidade um ano após, tendo, inclusive, já pago grande parte do refinanciamento.
+Por outro lado, a documentação aportada ao feito pela parte ré evidencia que a dívida controvertida da lide decorre de financiamentos do saldo devedor da fatura do cartão de crédito de titularidade da autora, realizado em 2019 (evento 21, ANEXO4 e evento 21, ANEXO5) e renegociado em 2021 (evento 11, FATURA5).
+No caso, também incide o óbice da Súmula n. 7 do STJ.
+III - Art. 2º, 3º, caput, § 2º, 6º, VIII, 12, caput, § 1º, 14 do Código de Defesa do Consumidor
+Sustenta que o acórdão não aplicou corretamente a responsabilidade objetiva e o dever de informação qualificado, desconsiderando a vulnerabilidade da consumidora.
+O acórdão recorrido concluiu que não houve falha na prestação de serviços e que as informações foram prestadas de forma clara e adequada.
+Transcrevo o seguinte trecho do acórdão recorrido (fl. 355):
+A bem da verdade, na hipótese, não se afere a existência de qualquer falha na prestação de serviços da parte ré, sobretudo porque foram prestadas informações claras, adequadas e suficientes à demandante em relação aos encargos cobrados em caso de atraso no pagamento das faturas e de parcelamento do saldo devedor, em conformidade com o dever de informação expressamente previsto no art. 6º, III, do CDC.
+Vale dizer, sob qualquer prisma que se analise a controvérsia, inexiste qualquer conduta faltosa da parte ré, seja porque os encargos cobrados pela inadimplência foram devidamente informados à demandante nas faturas de seu plástico e no contrato pactuado entre as partes, seja porque eventual prova de vício de consentimento na celebração das renegociações competia à autora e não fora por ela produzida.
+Neste ponto, rever o referido entendimento demandaria a revisão de fatos e provas, o que é obstado pela Súmula n. 7 do STJ.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+EMENTA
