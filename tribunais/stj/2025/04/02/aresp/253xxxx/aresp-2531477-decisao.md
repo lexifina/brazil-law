@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA cuja ementa guarda os seguintes termos (fl. 872):
+APELAÇÕES CÍVEIS. AÇÃO CIVIL PÚBLICA. EMPRÉSTIMO BANCÁRIO. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. DIREITOS INDIVIDUAIS HOMOGÊNEOS. PRESENÇA DE INTERESSE SOCIAL. PRECEDENTES DO STJ. TAXA DE REMUNERAÇÃO PARA OPERAÇÕES EM ATRASO. NATUREZA JURÍDICA DE COMISSÃO DE PERMANÊNCIA. LIMITAÇÃO. IMPOSSIBILIDADE DOS JUROS REMUNERATÓRIOS NA INADIMPLÊNCIA SUPERAREM O PERCENTUAL PREVISTO PARA O PERÍODO DA NORMALIDADE. SÚMULAS Nº 296 E 472 DO STJ. DEVOLUÇÃO EM DOBRO DO INDÉBITO. DESCABIMENTO. AUSÊNCIA DE DEMONSTRAÇÃO DE MÁ-FÉ DA INSTITUIÇÃO FINANCEIRA. RECURSOS CONHECIDOS E IMPROVIDOS.
+Sem embargos de declaração.
+No recurso especial, o Banco Bradesco alega violação dos arts. 51, IV e XIII, e 81, I e II, do CDC, sob o argumento que as cláusulas contratuais que permitem a variação unilateral dos encargos financeiros são abusivas e, portanto, nulas.
+Aduz contrariedade aos arts. 10 e 927, II e III, do CPC, alegando que houve erro na aplicação das normas processuais, especialmente no que diz respeito à análise das provas e à interpretação das cláusulas contratuais.
+O recorrente sustenta violação das Súmulas 296 e 382 do STJ, que tratam da cobrança de juros remuneratórios e comissão de permanência, alegando que o acórdão não aplicou corretamente esses entendimentos jurisprudenciais.
+Por fim, questiona a legitimidade do Ministério Público para propor a ação civil pública, alegando que não há interesse social ou direitos difusos, coletivos ou individuais homogêneos que justifiquem a atuação do parquet.
+Foram oferecidas contrarrazões ao recurso especial (fls. 945-970).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 978-987), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.041-1.064).
+É, no essencial, o relatório.
+O agravo não deve ser conhecido.
+Verifica-se, inicialmente, que a decisão ora agravada obstou o trânsito do recurso especial, por dois fundamentos, nestes termos (fls. 980-981):
+Outrossim, no que se refere à discussão acerca da abusividade da taxa de juros remuneratórios aplicáveis aos contratos bancários na modalidade CDC, o C. Superior Tribunal de Justiça enfrentou a questão pelo rito dos Recursos Repetitivos através do julgamento do REsp 1.061.530/RS (Temas 24 a 27), e fixou as seguintes teses:
+Tema 24 - As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF.
+Tema 25 - A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade.
+Tema 26 - São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02.
+Tema 27 - É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.
+Por meio da análise do acórdão vergastado, resta claro que, neste ponto, o acórdão recorrido se encontra em consonância com a jurisprudência qualificada do C. STJ.
+De outro turno, o Superior Tribunal de Justiça, enfrentando questão relativa à possibilidade de cobrança de comissão de permanência nos contratos bancários regidos pelo Código de Defesa do Consumidor, julgou o R Esp 1.058.114/RS e o REsp 1.063.343/RS (Tema 52), afetados sob a sistemática dos recursos repetitivos, firmando o seguinte posicionamento:
+Tema 52 - A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios e da multa contratual.
+Desse modo, constatada a consonância entre o posicionamento firmado pelo acórdão recorrido e o quanto estabelecido pela Corte Infraconstitucional nos julgados representativos das controvérsias repetitivas, imperiosa do art. 1.030, I, "b", do CPC/15.
+Ante o exposto, quanto aos Temas 24, 25, 26, 27 e 52 da sistemática dos recursos repetitivos, nego seguimento ao apelo extremo, e no que tange às demais questões suscitadas no feito, inadmito o recurso especial.
+Como visto, a decisão negou seguimento ao recurso especial com fundamento no art. 1.030, I, "b", do CPC e, ao mesmo tempo, em reforço argumentativo, inadmitiu-o devido à incidência das Súmulas n. 83, 5 e 7 do STJ.
+Assim, o Tribunal de origem, entendendo que as teses estavam vinculadas à aplicação da mesma matéria apreciada em regime de recursos repetitivos, deveria apenas ter negado seguimento ao recurso especial. A propósito, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMA JULGADO. SISTEMÁTICA DOS REPETITIVOS. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. OFENSA AO ART. 535 DO CPC/1973. VINCULAÇÃO.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Se a alegação de ofensa ao art. 535 do CPC/1973 ou 1.022 do CPC/2015 apresenta-se vinculada a vício de natureza processual quanto à aplicação da tese fixada no regime dos recursos repetitivos, o Tribunal a quo deve negar seguimento também nesse ponto, e não inadmitir o recurso especial.
+3. Hipótese em que a decisão do Tribunal a quo assentou que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior (Tema 162), que versa sobre a incidência de imposto de renda sobre aplicações financeiras de renda fixa e variável, à luz dos arts. 29 e 36 da Lei n. 8.541/1992, sendo certo que a menção sobre a existência de violação do art. 535 do CPC/1973 também se refere a essa mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.512.020/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/9/2022, DJe de 3/10/2022, destaquei.)
+Cabe destacar que, em razão da decisão híbrida que tanto inadmitiu o recurso especial quanto negou-lhe seguimento, cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in) conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo, a ser exercido por meio de agravo interno dirigido àquela Corte, faculdade essa, inclusive, já exercida pelo recorrente.
+Nesse sentido, cito:
+2. À questão da legitimidade/interesse da CEF foi negado seguimento ao recurso especial em razão de aplicação dos Temas n. 50/STJ e 51/STJ, enquanto à alegação de afronta aos arts. 489 e 1.022 do CPC o apelo nobre foi inadmitido.
+3. Nos casos em que a admissibilidade tem híbrida fundamentação, com aplicação de entendimento firmado em recurso repetitivo latu sensu a um dos pontos do recurso, cabe às Cortes Superiores apenas a análise da questão remanescente (que não teve aplicado o precedente paradigma vinculante), porquanto de competência da Corte de origem eventual análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma, por meio de agravo interno dirigido àquela corte, não cabendo ao Tribunal Superior a análise da referida questão. Precedentes.
+(AgInt no AREsp n. 1.840.822/MT, relator Ministro Humberto Martins, Terceira Turma, DJe de 3/11/2023.)
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Quanto à parte inadmitida, entendo, portanto, que o recurso não comporta conhecimento, pois, embora as questões sejam de competência do STJ, não há questão residual para análise perante esta Corte Superior, uma vez que, consoante acima relatado, as razões do recurso especial cerceiam apenas teses que já foram amplamente discutidas em recursos repetitivos.
+Ademais, observa-se que os argumentos trazidos nas razões do agravo em recurso especial, buscando demonstrar a violação dos arts. 51, IV e XIII, e 81, I e II, do CDC e o afastamento das Súmulas n. 83, 5 e 7 do STJ, referem-se à mesma questão, isto é, à abusividade dos juros remuneratórios, estando todos vinculados aos Temas n. 24, 25, 26, 27, e 52 do STJ.
+Por fim, quanto à alegada contrariedade às Súmulas n. 296 e 382 do STJ, cabe ressaltar que, para efeito "do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518/STJ).
+Ante o exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 20% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS. TEMAS 24, 25, 26, 27 E 52 DO STJ. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL NA ORIGEM. AUSÊNCIA DE QUESTÕES RESIDUAIS. AGRAVO NÃO CONHECIDO.
