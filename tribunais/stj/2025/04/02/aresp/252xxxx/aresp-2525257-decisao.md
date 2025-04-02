@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por FRIGORÍFICO JAHU LTDA., em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+PROCESSO CIVIL. LITISPENDÊNCIA CARACTERIZADA. IDENTIDADE JURÍDICA. EXTINÇÃO DO PROCESSO.
+1. Mandado de segurança impetrado em litisconsórcio ativo, no ano de 2017, visando afastar a exigência de contribuição para o FEEF, com base na Lei 7428/16, sob o fundamento de violação ao disposto no art. 178, do CTN e afronta ao disposto nos arts. 150 e 196, da CRFB.
+2. Posterior impetração de novo mandado de segurança, no ano de 2020, visando suspender a contribuição para o FEEF instituído pela Lei nº 7.428/2016 e regulamentado pelo Decreto nº 45.810/2016, diante da presença de violação aos arts. 146, III, "a", 148, 149, 150, I, e 167 da CRFB.
+3. Litispendência caracterizada, na medida em que as ações intentadas objetivam, ao final, o mesmo resultado.
+4. Extinção do processo sem resolução do mérito, dando-se por prejudicado o recurso.
+Os embargos de declaração opostos foram rejeitados.
+No apelo nobre, a recorrente aponta violação dos arts. 337, § 2º, 485, V, 489, § 1º, IV e VI, e 1.022, II, do CPC.
+Aduz que (e-STJ fl. 430):
+In casu, os argumentos expostos em cada um dos processos que se diz "litispendentes" deveriam ter sido minimamente clareados, para que não se crie óbice às instâncias superiores, e, ainda, para que não seja ceifada da verdade conclusão que se dá de toda essa celeuma, qual seja, que pouco importa se ambas ações buscam afastar a cobrança (ilegal) do FEEF, pois, sendo a "causa de pedir" absolutamente diferente, não há falar em litispendência  .. .
+Afirma que o TJRJ estabeleceu a configuração da litispendência sem observar o requisito legal de identidade de partes, causa de pedir e pedido.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial por entender suficiente a fundamentação do acórdão recorrido e incidente o óbice da Súmula 7 do STJ, fundamentação com a qual não concorda a agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, examinar o recurso especial.
+Na origem, cuidam os autos de mandado de segurança impetrado contra ato do Subsecretário Adjunto de Fiscalização do Estado do Rio de Janeiro, no qual se pretende o não pagamento da contribuição de 10% para o Fundo Estadual de Equilíbrio Fiscal - FEEF.
+A segurança foi denegada na primeira instância.
+O Tribunal de origem reformou a sentença para, de ofício, reconhecer a configuração de litispendência, uma vez que em outro mandado de segurança, impetrado em 2017, objetivava-se o mesmo resultado do presente writ. Confira-se (e-STJ fls. 364/366):
+Necessário checar a similitude entre a presente ação e aquela que tem curso perante a 11ª Vara da Fazenda Pública, tombada sob o nº 0077550- 73.2017.8.19.0001/RJ.
+Conforme bem salientado pela D. Procuradoria de Justiça, em ambas as demandas, a pretensão é a mesma: afastar a exigibilidade do recolhimento da contribuição de 10% para o Fundo Estadual de Equilíbrio Fiscal (FEEF), instituído pela Lei Estadual n. 7.428/16.
+Oportuno, sobre o dito, o seguinte trecho do parecer:
+"Com efeito, no Mandado de Segurança n. 0077550-73.2017.8.19.0001, distribuído em 31/03/2017, a despeito de também integrar o polo ativo da impetração outra sociedade empresária, o que se objetiva, assim como na presente impetração, é impedir que o recolhimento da contribuição de 10% para o Fundo Estadual de Equilíbrio Fiscal (FEEF), instituído pela Lei Estadual n. 7.428/16, cuja inconstitucionalidade é questionada em ambos os feitos, tanto que na presente impetração a Impetrante requer, ao final, o levantamento dos depósitos realizados no bojo da outra impetração, o que seria consequência natural no caso de procedência do pedido da outra ação mandamental.
+No ponto, ressalte-se que ambas as demandas já foram sentenciadas e aguardam julgamento de apelação, que dependem, para o seu julgamento, da resolução da mesma questão de direito, pelo que a presente ação mandamental, que fora distribuída em 06/01/2020, deve ser extinta, nos termos do artigo 485, inciso V, do CPC c/c artigo 6º, parágrafo 5º, da Lei n. 12.016/09" (fls. 349/350)
+Segundo orientação firmada no STJ, a litispendência se caracteriza quando há identidade jurídica, ou seja, quando as ações intentadas objetivam, ao final, o mesmo resultado. Neste sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LITISPENDÊNCIA. IDENTIDADE JURÍDICA. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. No caso em análise, o Tribunal de origem reconheceu a ocorrência de litispendência em relação a alguns dos autores, por haver processos pendentes que detêm o mesmo objeto jurídico, apesar de possuírem parcial diferença em relação ao polo passivo.
+2. A posição firmada no acórdão recorrido está em consonância com a jurisprudência desta Corte de que o fenômeno da litispendência se caracteriza quando há identidade jurídica, ou seja, quando as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas. Precedentes.
+3. Nesse sentido, para se verificar a existência de litispendência, seria necessário o cotejo entre as demandas, a fim de se analisar a identidade jurídica entre elas, o que é vedado na via especial, em face do óbice da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento" (AgInt no AREsp n. 1.851.059/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/3/2022, DJe de 7/4/2022.)
+Na doutrina válido citar a lição de DIDIER JR. E ZANET JR.: "há litispendência quando pendem processos com mesmo conteúdo. A mesma situação jurídica controvertida é posta em mais de um processo para ser resolvida. Enfim, há litispendência quando o Poder Judiciário é provocado a solucionar o mesmo problema em mais de um processo (Curso de Direito Processual Civil, vol. 4, Processo Coletivo, 7ª ed., Juspodivm).
+Aqui é o que se dá.
+Muito embora o ora impetrante tente descaracterizar a litispendência sob o argumento de que os fundamentos constantes das ações são diversos, a finalidade última é a mesma, qual seja: afastar a exigibilidade do recolhimento da contribuição de 10% para o Fundo Estadual de Equilíbrio Fiscal (FEEF).
+Desta forma, impõe-se a extinção do processo, sem resolução do mérito, na forma do art. 485, V, do CPC.
+Pelo exposto, reconheço, de ofício, diante da caracterização da litispendência, JULGO EXTINTO o processo, sem resolução do mérito, nos termos do art. 485, V, do CPC, dando-se por prejudicado o recurso interposto.
+Pois bem.
+Essa exposição demonstra que o julgado apresenta falha na fundamentação.
+Afinal, como se retira da transcrição, são distintos os fundamentos das duas ações, que, por outro lado, têm o mesmo propósito, qual seja, o não pagamento da contribuição para o FEEF.
+O julgado, porém, não expõe quais são esses fundamentos, de modo que, da sua leitura, não é possível afirmar a correção ou não da solução apresentada.
+Para tanto, era necessária a descrição dos fatos que justificam a invocação da tutela jurisdicional em cada ação, bem como a sua respectiva repercussão jurídica, para que se pudesse identificar a existência de uma única ou de mais de uma causa de pedir.
+Concluindo,  ..  um mesmo fato ou um complexo de fatos pode ou não dar ensejo a duas causas de pedir distintas e, consequentemente, pedidos diversos (REsp n. 622.316/RS, relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/12/2005, DJ de 19/12/2005).
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que as aludidas omissões sejam sanadas pela in stância ordinária, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido.
+(AgRg no REsp n. 1.346.569/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 25/11/2014.)
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp n. 1.313.492/SP, relatora Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe de 31/03/2016.)
+Ante o exposto, com fundamento no art. 34, XXV, e 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do AGRAVO para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão local que julgou os embargos de declaração, por violação do art. 1.022, II, do CPC, determinando o retorno dos autos ao Tribunal de origem para que reaprecie esses aclaratórios e sane os vícios de integração ora identificados.
+Publique-se. Intimem-se.
+EMENTA
