@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/02/2025.
+Concluso ao gabinete em: 26/03/2025.
+Ação: revisão de contrato, ajuizada por MARIANO DE OLIVEIRA BATISTA, em face de CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS.
+Sentença: julgou procedentes os pedidos, para limitar os juros remuneratórios do contrato de empréstimo nº 033130007916 à taxa média de mercado à época da contratação, de acordo com a taxa de juros estabelecida pelo Banco Central do Brasil na série 254641 (6,85% a. m.), afastando os efeitos da mora e condenando a parte agravante à devolução dos valores cobrados em excesso, subtraindo-os, se for o caso, das parcelas vincendas, com a repetição simples do indébito caso exista crédito em favor da parte agravada após a compensação dos valores. Por fim, condenou a parte agravante a arcar com o pagamento das custas e dos honorários, estes fixados em R$ 1.000,00. (e-STJ fls. 356/358)
+Acórdão: rejeitando as preliminares arguidas, conheceu parcialmente da Apelação interposta pela parte agravante e, na parte conhecida, negou-lhe provimento, nos termos da seguinte ementa:
+"Apelação. Negócios jurídicos bancários. Ação revisional. Pedido subsidiário. Ausência de interesse recursal.
+Não conheço do recurso quanto à aplicação da média de juros das operações de crédito pessoal não consignado, pois a pretensão subsidiária da demandada já foi acolhida na sentença, inexistindo interesse recursal no ponto.
+Nulidade da sentença. Prescrição. Cerceamento de defesa. Inocorrente.
+1. Em se tratando de ação revisional de contrato de empréstimo com pedido de repetição de indébito, aplica-se o prazo prescricional de 10 anos, na forma do art. 205 do CC. Precedentes do STJ e deste Tribunal.
+2. Inexiste nulidade ou cerceamento de defesa, pois a sentença está suficientemente relatada e fundamentada, de acordo com o disposto no art. 489 do CPC e no art. 93, inc. IX, da CF; não é genérica, tampouco deixou de analisar ou fundamentar as razões para julgar o caso, bem como a documentação apresentada pela demandada.
+Possibilidade de revisão contratual. Juros remuneratórios. Abusividade. Reconhecida. Taxas limitadas à média do BACEN. Particularidades do caso. Sentença mantida.
+1. Inobstante o princípio da força obrigatória dos contratos, as cláusulas contratuais firmadas, ainda que por parte capaz e ciente de seus termos, podem ser revistas em situações excepcionais, flexibilizando- se o pacta sunt servanda, especialmente como a dos autos, quando demonstrada a excessiva oneração e o flagrante desequilíbrio entre as partes, caracterizando a conduta abusiva, vedada pelo art. 39, inc. V, do CDC, autorizando a revisão, na forma do art. 6º, inc. V, do CDC.
+2. Mantida a limitação da taxa de juros remuneratórios pactuada, pois excede substancialmente a média praticada pelo mercado em operações similares, à época da contratação, inexistindo prova apta a justificar a adequação dos índices cobrados da consumidora, em razão da modalidade da operação controvertida. Precedentes do STJ e deste Tribunal.
+Descaracterização da mora. Compensação de valores. Repetição simples de indébito. Possível.
+Reconhecida a abusividade e revisado o contrato, é possível a descaracterização da mora, a compensação de valores e a repetição simples do indébito, como determinado na sentença.
+Má-fé. Inocorrente.
+O resultado do julgamento afasta, por consequência lógica, a tese sobre a litigância de má-fé da autora.
+Preliminares rejeitadas. Recurso parcialmente conhecido e desprovido na parte conhecida." (e-STJ fls. 633)
+Recurso especial: alega violação dos arts. 421, CC, 355, I, II, 356, I, II, 927, CPC, bem como dissídio jurisprudencial, sustentando que: i) houve flagrante violação ao disposto no art. 421 do Código Civil, visto que a Corte local se pautou unicamente na taxa média de mercado, sem se atentar as peculiaridades do caso concreto, as particularidades das contratações firmadas entre as partes e principalmente desconsiderando os altos riscos assumidos pela recorrente, riscos estes que sabidamente não são assumidos pelas demais instituições financeiras, para invalidar um ato jurídico perfeito; e, ii) o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso; e, iii) a Corte local deixou de observar as particularidades que envolvem a contratação e que culminaram na fixação da taxa de juros remuneratórios no patamar em que foi fixada e limitou-se a determinar a substituição com base na taxa média de mercado, sem a adequada análise do patamar mais adequado/viável na situação concreta e sem considerar as particularidades envolvidas; e, iv) apenas um expert no assunto, com o necessário conhecimento técnico e de confiança do juízo pode de fato analisar todas as particularidades e riscos envolvidos e indicar, quando for o caso, o percentual mais adequado a ser estabelecido. (e-STJ fls. 642/674)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 421, CC, 927, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a parte agravante não instruiu a contestação com prova suficiente para justificar a produção de prova pericial remanescendo a análise estritamente documental, sem violação ao art. 369 do CPC", bem como de que "a parte agravada logrou demonstrar a sua vulnerabilidade em relação à parte agravante e a excessiva onerosidade do contrato nº 033130007916, com juros estabelecidos em 22,00% ao mês, enquanto a média praticada pelo mercado era de 6,85% ao mês, em operações similares - séries 25464 e 20742", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.500,00 (e-STJ fl. 631) para R$ 3.000,00.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de revisão de contrato.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
