@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de TIAGO DA SILVA LOPES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi preso em flagrante no dia 28/11/2024 como incurso no art. 33, caput, da Lei n. 11.343/2006. A custódia foi convertida em preventiva.
+Sustenta a impetrante ilegalidade da prisão em flagrante efetuada por guarda civil municipal por ausência de atribuição de poder de polícia.
+Alega inexistência de fundamentação concreta da decisão que decretou a prisão preventiva e ausência dos pressupostos ensejadores da custódia cautelar.
+Menciona que as circunstâncias pessoais do paciente são favoráveis e que por isso a prisão é desproporcional e mais gravosa do que eventual pena, ao se levar em consideração que faria jus à minorante do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006) caso fosse condenado.
+Requer, liminarmente, o relaxamento da prisão ou a imed iata concessão de liberdade provisória do paciente. No mérito, pleiteia o reconhecimento da nulidade da prisão em flagrante ou da decisão que converteu a custódia em preventiva.
+Decisão indeferindo pedido liminar às fls. 79-80.
+Informações prestadas às fls. 84-86.
+Parecer do Ministério Público Federal, às fls. 90-96, pelo não conhecimento do mandamus, mas pela concessão de ofício.
+É o relatório.
+DECIDO.
+Ab initio, no tocante à tese da ilegalidade da prisão em flagrante efetuada por guarda civil municipal, constata-se que a matéria não foi apreciada no acórdão impugnado, o que impede o seu conhecimento por esta Corte Superior, sob pena de indevida supressão de instância (AgRg no HC n. 913.307/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1º/07/2024, DJe de 03/07/2024).
+No entanto, mesmo ao superar esse óbice, não se vislumbra ilegalidade na prisão em flagrante pelos guardas municipais.
+Com efeito, em casos envolvendo a atuação de guarda municipal, é imperioso verificar a natureza dos agentes que realizaram a busca pessoal - e, portanto, sua competência para a execução do ato.
+Isso porque, conforme assentado no HC 830.530/SP, de relatoria do Min. Rogerio Schietti, a realização de busca pessoal pelas guardas municipais exige, além da fundada suspeita, tratada acima, a pertinência com sua finalidade, para que seja válida. A tese fixada é a seguinte (grifamos):
+20.  ..  salvo na hipótese de flagrante delito, só é possível que as guardas municipais realizem excepcionalmente busca pessoal se, além de justa causa para a medida (fundada suspeita), houver pertinência com a necessidade de tutelar a integridade de bens e instalações ou assegurar a adequada execução dos serviços municipais, assim como proteger os seus respectivos usuários, o que não se confunde com permissão para desempenharem atividades ostensivas ou investigativas típicas das polícias militar e civil para combate da criminalidade urbana ordinária em qualquer contexto.
+Assim, a realização de busca pessoal pelas guardas municipais é excepcional e, para sua validade, deve demonstrar concretamente haver clara, direta e imediata relação com a sua finalidade.
+No caso em tela, a Guarda Municipal acompanhou a prática delitiva pelo monitoramento eletrônico existente, motivando seu dever de agir. Nesse sentido, os fatos foram os seguintes (fl.15):
+ ..  a Guarda Civil Municipal observou por meio do sistema de monitoramento existente no centro desta cidade que o denunciado estava na praça com um plástico aberto sobre uma mureta e mexendo deste pedaço de plástico. Observaram também que ele pegava algo e entregava para pessoas que ali chegavam e, em seguida, recebia algo destas pessoas. Sendo a ação do denunciado típica do tráfico de drogas, Guardas Civil Municipais foram até a praça e, quando o denunciado notou a aproximação dos Agentes, ele imediatamente arremessou o saco no chão, mas, em seguida foi abordado, e, verificado o conteúdo do saco, constatou-se que ele trazia no saco plástico diversas pedras de crack. Em revista pessoal foi apreendida a quantia de R$ 105,00 (cento e cinco reais), que TIAGO trazia em seu poder.
+Ademais, o respaldo da atuação no presente caso pode ser firmada na mais recente decisão do STF, no RE 608588, fixando a seguinte tese:
+É constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional.
+Superado esse óbice, passo ao mérito do presente mandamus.
+No caso, o Tribunal de origem assim manteve a segregação cautelar (fl. 13):
+HABEAS CORPUS. Tráfico de drogas. Prisão preventiva. Requerimento objetivando a concessão da ordem para revogar a segregação cautelar e conceder liberdade provisória. Alegação de inidoneidade na fundamentação da decisão que decretou a prisão preventiva, ausência de pressupostos e requisitos do art. 312 e seguintes do CPP. Descabimento. Inexistência de constrangimento ilegal. ORDEM DENEGADA.
+Verifico que a medida cautelar extrema foi, em princípio, suficientemente fundamentada pelas instâncias ordinárias, em virtude da especial gravidade dos fatos. No entanto, esta Corte Superior de Justiça possui o entendimento de que determinadas quantidades de entorpecentes, ainda que não possam ser consideradas irrelevantes, não permitem concluir, por si sós, pela necessidade da segregação provisória.
+Assim, considerando, na espécie, a apreensão de 11.52g de cocaína, bem como a primariedade do acusado, mostra-se possível, segundo a orientação da Sexta Turma deste Tribunal, a substituição da custódia por medidas cautelares diversas.
+Exemplificativamente:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. CAUTELAR EXTREMA DESPROPORCIONAL.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, embora não se possa falar que o decreto prisional é desprovido de motivação, pois invoca a quantidade e a forma de acondicionamento das drogas, a primariedade do acusado e a quantidade não exacerbada de entorpecentes apreendidos não se mostra excessiva, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+3 . Agravo regimental desprovido.
+(AgRg no HC n. 879.961/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. POSSIBILIDADE DE SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. AGRAVO IMPROVIDO.
+1. Tratando-se de réu tecnicamente primário, não sendo relevante a quantidade de entorpecente apreendido, em se considerando que o crime de tráfico de drogas não envolve violência ou grave ameaça à pessoa, tem-se por suficiente a substituição da custódia por medidas cautelares diversas.
+(..)
+3. Agravo regimental improvido.
+(AgRg no HC n. 821.552/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+Ante o exposto, concedo a ordem de habeas corpus para substituir a prisão preventiva do paciente, se por algum outro motivo não estiver preso, pelas medidas cautelares descritas nos incisos I (comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades); IV (proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução) e IX (monitoração eletrônica) do art. 319 do Código de Processo Penal.
+Ficará a cargo do Juízo de primeira instância especificar as condições e fiscalizar o cumprimento das medidas impostas, o qual poderá também acrescer outras cautelares necessárias, desde que devidamente justificadas.
+Alerte-se ao paciente que a prisão preventiva poderá novamente ser decretada em caso de descumprimento das referidas medidas (art. 282, § 4.º, c/c o art. 316 do Código de Processo Penal) ou de superveniência de fatos novos.
+Comunique-se ao Tribunal de origem e ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+ EMENTA
