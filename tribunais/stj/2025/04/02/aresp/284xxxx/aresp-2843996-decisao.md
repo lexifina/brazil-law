@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que negou seguimento ao recurso especial ante o Tema n. 1.062 do STJ e, no mais, o inadmitiu em razão da inexistência de prestação jurisdicional deficiente e da incidência da Súmula n. 7 do STJ (fls. 553-558).
+O acórdão recorrido encontra-se assim ementado (fls. 479-480):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. COBRANÇA INDEVIDA. DESCONTOS EM CONTRACHEQUE REFERENTES A EMPRÉSTIMOS QUE A AUTORA ALEGA NÃO TER CONTRATADO. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS, SOB O FUNDAMENTO DE QUE NÃO TERIA SIDO COMPROVADO O DIREITO ALEGADO. RECURSO DO AUTOR. BANCO RÉU QUE APRESENTA CONTRATO COM ASSINATURA MANUSCRITA. RÉPLICA DA AUTORA EM QUE QUESTIONA A AUTENTICIDADE DA ASSINATURA. RÉU, EMBORA INTIMADO PARA SE MANIFESTAR A RESPEITO DAS PROVAS QUE PRETENDIA PRODUZIR, SE LIMITA A REQUERER A PRODUÇÃO DE PROVA ORAL. DIANTE DA INVERSÃO DO ÔNUS, CABERIA AO RÉU A PROVA DA REGULARIDADE DA CONTRATAÇÃO E DE SOLICITAR EVENTUAL PERÍCIA GRAFOTÉCNICA. TEMA 1061 DO STJ, PELO QUE NA HIPÓTESE EM QUE O CONSUMIDOR/AUTOR IMPUGNAR A AUTENTICIDADE DA ASSINATURA CONSTANTE EM CONTRATO BANCÁRIO JUNTADO AO PROCESSO PELA INSTITUIÇÃO FINANCEIRA, CABERÁ A ESTA O ÔNUS DE PROVAR A AUTENTICIDADE (CPC, ARTS. 6º, 369 E 429, II). SENTENÇA QUE DEVE SER REFORMADA. DANO MORAL CARACTERIZADO IN RE IPSA. PRECEDENTES. VALOR ARBITRADO EM R$ 5.000,00 (CINCO MIL REAIS) EM RESPEITO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. DEVOLUÇÃO EM DOBRO DOS VALORES INDEVIDAMENTE COBRADOS, NA FORMA DO ART. 42, PARÁGRAFO ÚNICO DO CDC. DIANTE DA COMPROVAÇÃO DO CRÉDITO EM FAVOR DO AUTOR EM SUA CONTA CORRENTE E EM ATENÇÃO AO PRINCÍPIO QUE VEDA O ENRIQUECIMENTO SEM CAUSA, DEVEM AS RESPECTIVAS QUANTIAS SEREM ABATIDAS DO TOTAL DA CONDENAÇÃO. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 515-520).
+Nas razões do recurso especial (fls. 522-531), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou violação do art. 1.022, II, do CPC/2015, por omissão do Tribunal de origem quanto à apreciação das provas produzidas no sentido da licitude dos negócios jurídicos e acerca da modulação dos efeitos do que decidido no EAREsp n. 676.608/RS.
+No agravo (fls. 626-661), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 668-670.
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve omissão a respeito de questões pertinentes ao deslinde da causa, oportunamente suscitadas pela parte, quais sejam:
+(i) "pronunciamento a respeito das demais provas colacionadas pela instituição financeira no sentido da regularidade das contratações questionadas" (fl. 529), e
+(ii) modulação dos efeitos da decisão exarada no EAREsp n. 676.608/RS, para que o entendimento então fixado quanto à restituição em dobro do indébito seja aplicado apenas a partir da publicação do referido acórdão.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatados os vícios apontados pela parte agravante e considerando tanto a necessidade de prequestionamento das questões quanto a impossibilidade de incursão fático-probatória em sede especial, os autos devem retornar ao Tribunal a quo .
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
