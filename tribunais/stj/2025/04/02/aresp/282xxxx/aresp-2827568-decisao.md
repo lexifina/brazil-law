@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial, ante a aplicação da Súmula n. 7/STJ (fls. 507-508).
+O acórdão do TJRS traz a seguinte ementa (fl. 423):
+APELAÇÃO CÍVEL NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO INDENIZATÓRIA. EXTINÇÃO DO FEITO POR AUSÊNCIA DE INTERESSE PROCESSUAL QUE SE IMPÕE, VISTO QUE NÃO OCORREU QUALQUER DESCONTO NO BENEFÍCIO PREVIDENCIÁRIO DA AUTORA, PORQUANTO INEXISTIU A ALEGADA CONTRATAÇÃO. DOCUMENTAÇÃO DA INICIAL QUE DEMONSTRA A CIÊNCIA DA PENSIONISTA QUANTO À EXCLUSÃO DA SIMULAÇÃO DE EMPRÉSTIMO, HA QUASE TRÊS ANOS ANTES DO AJUIZAMENTO DA AÇÃO. MANTIDA A LITIGÃNCIA DE MÁ-FÉ. SENTENÇA CONFIRMADA. APELO DESPROVIDO.
+No recurso especial (fls. 431-438), fundamentado no art. 105, III, alíneas "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação do art. 80 do CPC/2015, alegando que, por não ter praticado condutas processuais dolosas, não mereceria ser multada por litigância de má-fé.
+Foram ofertadas contrarrazões, requerendo a condenação da recorrente ao pagamento de multa por litigância de má-fé , assim como o arbitramento de honorários recursais (fls. 443-447).
+No agravo (fls. 517-523), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 527-530).
+É o relatório.
+Decido.
+O Tribunal de origem assentou que as circunstâncias do caso concreto, verificadas à época do julgamento, autorizavam a aplicação da penalidade por litigância de má-fé à recorrente, pois ela teria alterado a verdade dos fatos. Confira-se o seguinte trecho (fls. 421-422):
+No caso, a autora nominou sua ação de condenatória e declaratória de empréstimo consignado indevido, em face da parte demandada, buscando a restituição, em dobro, de valores e danos morais, alegando ter percebido descontos indevidos em seu benefício no INSS atinentes ao contrato n.: 300997097, na quantia de R$ 7.381,92, incluído em 07/10/2020, no valor mensal de R$ 87,88, em oitenta e quatro (84) parcelas.
+Tais pedidos foram julgados extintos, sem resolução de mérito, por ausência de interesse de agir da autora, considerando a resposta pelo INSS, através do Ofício acostado no evento 52, DOC1, informando que não foram localizados descontos no benefício atinente ao contrato objeto da demanda, conforme se vê da seguinte imagem recortada do documento:
+ ..
+E no extrato de empréstimo bancário apresentado pela autora, em sua inicial, no evento 1, DOC7, à fl. 05, já constava a exclusão do empréstimo, em 14/10/2020, por iniciativa do banco demandado, que esclareceu, em sua contestação, no evento 28, DOC1, tratar-se de simulação de empréstimo incluído em 08/10/2020, razão da inexistência de qualquer desconto indevido.
+Informou ainda o demandado, em sua contestação, que há outros dezesseis processos ajuizados pela autora (5001009-89.2023.8.21.0083; 5001011-59.2023.8.21.0083, 5001014-14.2023.8.21.0083, 5001012- 44.2023.8.21.0083, 5001013-29.2023.8.21.0083, 5001015-96.2023.8.21.0083, 5001020-21.2023.8.21.0083, 5001021-06.2023.8.21.0083, 5001022-88.2023.8.21.0083, 5001019 36.2023.8.21.0083, 5001008- 07.2023.8.21.0083, 5001006- 37.2023.8.21.0083, 5001007-22.2023.8.21.0083, 5001005-52.2023.8.21.0083, 5001010-74.2023.8.21.0083, 5000993-38.2023.8.21.0083 e 5000974-32.2023.8.21.0083) envolvendo questão semelhante a dos autos, reportando-se aos documentos que evidenciam exclusão pelo banco de alguns contratos.
+Por aí se verifica que ao ajuizar a presente demanda, em 13/06/2023, quase três anos após a simulação do empréstimo, a autora deduziu pretensão contra texto expresso de lei e fato incontroverso, alterando a verdade dos fatos e usando do processo para conseguir objetivo ilegal.
+Com efeito, é dever das partes a exposição dos fatos de acordo com a verdade, o que não ocorreu, pois autora ajuizou demanda ciente de que não havia contrato entre as partes, sequer descontos indevidos, já que nenhum extrato de sua conta bancária foi apresentado, de modo a tentar obter vantagem. Logo, mantenho a condenação imposta.
+ ..
+Nessa senda, a extinção do feito por ausência de interesse processual se impõe, visto que inviável dar continuidade ao trâmite da pretensão apresentada em razão da inexistência do contrato objeto da ação, tampouco de algum desconto indevido, de modo a ser desprovido apelo, para manter-se a sentença por seus próprios fundamentos.
+Modificar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial, nos termos Súmula n. 7/STJ.
+Por fim, rejeito o pedido de condenação da recorrente à multa por litigância de má-fé na instância especial, visto que não ficou demonstrada conduta maliciosa ou temerária a justificar tal sanção, pois a parte tão somente intentava a reforma da decisão que lhe foi desfavorável.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (fl. 422), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
+EMENTA
