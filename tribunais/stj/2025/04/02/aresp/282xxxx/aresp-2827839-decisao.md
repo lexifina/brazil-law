@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ (fls. 128-130).
+O acórdão recorrido encontra-se assim ementado (fl. 65):
+EMENTA: APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO SOB FUNDAMENTO DE ABANDONO DA CAUSA. APELO DA DEMANDANTE. PLEITO DE CONCESSÃO/MANUTENÇÃO DOS BENEFÍCIOS DA GRATUIDADE DA JUSTIÇA. FALTA DE INTERESSE RECURSAL. NÃO CONHECIMENTO. PLEITO DE RECONHECIMENTO DE ERROR IN PROCEDENDO. NÃO ACOLHIMENTO. INTIMAÇÃO PESSOAL REALIZADA NO ENDEREÇO DECLINADO PELA PARTE. ASSINATURA POR TERCEIRO QUE NÃO RETIRA A VALIDADE DO ATO. DEVER DA PARTE DE MANTER ATUALIZADO SEU ENDEREÇO. PRECEDENTES DO STJ. MANUTENÇÃO DA DECRETAÇÃO DE EXTINÇÃO DO FEITO. REFORMA DA SENTENÇA PARA CONSIGNAR A SUSPENSÃO DA EXIGIBILIDADE DAS DESPESAS PROCESSUAIS. BENEFÍCIOS DA GRATUIDADE DA JUSTIÇA. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 95-99).
+Nas razões do recurso especial (fls. 104-112), interposto com fundamento no art. 105, III, "a" , da CF, a parte recorrente alegou violação do art. 485, III e § 1º, do CPC/2015, sustentando, em síntese, que "o juízo primário, antes de extinguir o feito sem exame do mérito, com fundamento no suposto abandono processual, deveria ter necessariamente advertido de que a falta de promoção dos atos e diligências que incumbiam à autora ocasionaria a extinção do feito com base no art. 485, III do CPC. Esta é a única exegese possível de ser extraída do §1º do mesmo art. 485 do Código de Processo Civil" (fl. 108).
+No agravo (fls. 136-141), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada.
+É o relatório.
+Decido.
+O TJAL reconheceu que "a extinção da demanda ocorreu sob fundamento de inércia da parte mesmo após sua intimação pessoal, fazendo incidir a norma do art. 485, III, do CPC, o que pressupõe a intimação pessoal determinada por seu § 1º, do CPC" (fl. 69)
+Acrescentou que "o juízo de primeiro grau procedeu com as diligências possíveis para o prosseguimento do feito, uma vez que expediu devidamente a carta de intimação e contou com o seu cumprimento. Por conseguinte, resta configurado o abandono de causa. Assim, o real intuito da peça recursal é modificar o posicionamento adotado por este órgão julgador, o que se mostra incabível em sede de embargos de declaração" (fl. 98).
+No caso, considerando a determinação da intimação pessoal sem qualquer advertência acerca da consequência do não atendimento da diligência (fl. 30), a decisão recorrida, ao reconhecer a extinção da demanda está em desconformidade com a jurisprudência desta Corte, no sentido de que, "p ara a extinção do processo, por abandono da causa, é necessária a intimação pessoal da parte para promover os atos de sua incumbência, com a advertência de que a falta acarretará a extinção, nos termos do art. 485, § 1º, do CPC/2015 (267, § 1º, do CPC/1973)" (AgInt no REsp n. 2.115.179/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/2/2025, DJEN de 27/2/2025 - grifou-se).
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. ABANDONO DO FEITO. EXTINÇÃO. INTIMAÇÃO PESSOAL. ART. 485, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. PROVAS. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que a hipótese de abandono do feito exige a intimação pessoal da parte, com a advertência de que a falta de promoção dos autos de sua incumbência no prazo acarretará a extinção do feito, nos termos do art. 485, § 1º, do CPC/2015.
+3. Na hipótese, o tribunal de origem consignou a ausência de intimação pessoal do agravado para dar prosseguimento ao feito. A revisão dos fundamentos do acórdão recorrido exigiria exceder os fundamentos do acórdão impugnado e o reexame de provas, procedimentos vedados em recurso especial, a teor da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.100.732/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/12/2022, DJe de 16/12/2022.)
+EXECUÇÃO FISCAL. ABANDONO DE CAUSA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. ABANDONO. ART. 267, INCISO III E § 1º, DO CPC/1973. INTIMAÇÃO PESSOAL PRÉVIA. NECESSIDADE.
+1. O término do processo sem resolução do mérito, na hipótese de abandono, Tem por premissa que a parte, por mais de trinta (30) dias, não promova os atos e/ou diligências que lhe competiam e exige que ela seja intimada prévia e pessoalmente, com a advertência de que a falta de promoção dos autos de sua incumbência, no prazo derradeiro, acarretará a extinção do feito. Evidente que tal intimação da parte deve ser feito antes de prolatada a decisão judicial, e não na própria sentença que reconhece o abandono, com dispositivo condicional.
+2. Recurso Especial provido.
+(REsp n. 1.750.306/MT, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2019, DJe de 25/10/2019.)
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial para, afastada a extinção do processo por negligência, determinar o prosseguimento do feito na origem, nos termos da jurisprudência desta Corte .
+Publique-se e intimem-se.
+EMENTA
