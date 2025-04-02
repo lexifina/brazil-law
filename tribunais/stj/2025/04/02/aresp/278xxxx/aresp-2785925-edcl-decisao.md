@@ -1,0 +1,29 @@
+DECISÃO
+Em análise, embargos de declaração opostos por TAIRA SHOP - ECOMMERCE E IMPORTACOES LTDA contra decisão que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+A parte embargante alega, em síntese, a existência de omissão na decisão recorrida, uma vez que não considerou que o arbitramento do ICMS no auto de infração ocorreu com base na alíquota de 18% sob o valor de saída das mercadorias e não sob o valor de aquisição.
+Assevera, ainda, que a decisão embargada incorreu em obscuridade ao afirmar que a análise da controvérsia enseja o reexame da matéria fático-probatória, uma vez que o Tribunal de origem não analisou a questão da responsabilidade solidária.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada expôs de forma suficiente e clara os motivos da conclusão alcançada na própria decisão no que diz respeito ao objeto em discussão e a correspondente responsabilidade solidária (fls. 2437-2442):
+Contudo, da análise dos autos, vislumbra-se que o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando (fls. 2232-2234):
+3- No caso dos autos, a empresa autora adquiriu mercadoria sem qualquer lastro fiscal e não refuta isso. Fundamenta a ausência de solidariedade por inexistência de interesse comum, pois não estaria no mesmo polo passivo de interesse jurídico da relação comercial, ou seja, por ser mera compradora de mercadoria, sendo inaplicável o artigo 11 do Decreto nº 45.490/2000 - RICMS, que dispõe:
+ ..  Todavia, a autuação não diz respeito ao recolhimento do tributo em si, mas da falta de cumprimento de obrigação acessória atinente a exigência de nota fiscal do fornecedor nos termos do artigo 203 do Decreto nº 45.490/2000 - RICMS:
+Artigo 203 - O destinatário da mercadoria ou do serviço é obrigado a exigir documento fiscal hábil, com todos os requisitos legais, de quem o deva emitir, sempre que obrigatória a emissão (Lei 6.374/89, § 1º, Convênio de 15-12-70 - SINIEF, art. 14, e Convênio SINIEF-6/89, art. 89, "caput").
+Parágrafo único - Aplica-se, no que couber, o disposto no artigo 184.
+Logo, não há qualquer necessidade de adentrar na discussão sobre responsabilidade tributária solidária.
+A obrigação acessória é de fazer, em sentido amplo, visando ao interesse arrecadatório ou fiscalizatório dos tributos.
+Inclusive, o Superior Tribunal de Justiça esclarece que a obrigação acessória possui caráter autônomo em relação à principal, pois mesmo não existindo obrigação principal a ser adimplida, pode haver obrigação acessória a ser cumprida, no interesse da arrecadação ou da fiscalização de tributos. "O STJ possui o entendimento de que "a obrigação acessória prevista no artigo 113, § 2º c/c 115, do CTN, constitui dever instrumental, independente da obrigação principal, e subsiste, ainda que o tributo seja declarado inconstitucional, principalmente para os fins de fis- calização da Administração Tributária" (AgRg no Ag 1.138.833/RJ, Rel. Ministro Luiz Fux, Primeira Turma, D Je 6.10.2009)" (AgRg no AR Esp 783.791/SP, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 15/12/2015, D Je 5/2/2016) (R Esp 1583022/RS, 2ª Turma, relator Ministro Humberto Martins, j. 05/04/2016).
+Não colacionou dos documentos fiscais exigidos. Logo, mantida a autuação.
+ ..  2 - Da incidência da Súmula 7/STJ e da Súmula 280/STF
+Ademais, no que tange à alegada violação ao art. 124, I, do CTN, vislumbra- se que para se chegar à conclusão acerca da responsabilidade pelo cumprimento da obrigação acessória relativa à entrega de nota fiscal, fez-se imperiosa a análise, por parte do Tribunal a quo, da documentação acostada nos autos, levando em consideração os fatos e circunstâncias relacionados à matéria.
+ ..  Portanto, observa-se que a alteração da conclusão do Tribunal a quo, cuja premissa foi firmada com base em prova pré-constituída, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+ ..  Do mesmo modo, denota-se que a apreciação da pretensão da recorrente, ainda que sustentada com base em suposta violação à lei federal, demandaria, necessariamente, a interpretação dos elementos estabelecidos no Decreto nº 45.490/2000 - RICMS analisado pelo acórdão recorrido, o que é inviável na estreita via do recurso especial, nos termos da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
