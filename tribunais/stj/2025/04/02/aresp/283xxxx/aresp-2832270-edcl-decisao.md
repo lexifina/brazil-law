@@ -1,0 +1,29 @@
+DECISÃO
+Examina-se embargos de declaração opostos por BRUNA MARKOWICZ TORO, BRUNA MARKOWICZ AMORIM DE SOUZA, contra decisão unipessoal que conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões recursais, a parte embargante alega omissão porquanto a decisão embargada deixou de enfrentar a tese de que não se trata de medicamento de uso domiciliar. Afirma que o medicamento é injetável e necessita de manuseio por profissional de saúde.
+Ainda, requer-se a correção de erro material constante na decisão embargada, visto que não há discussão sobre eventual dano moral, sendo discutida apenas a obrigação de fazer e a indenização por dano material.
+É O RELATÓRIO. DECIDO.
+Nos termos do art. 1.022 do CPC, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado.
+Em relação à omissão mencionada sobre a falta de enfrentamento da tese de que o medicamento não seria de uso domiciliar, ressalte-se que a decisão embargada foi clara e coerente aduzindo que o Tribunal de origem concluiu que o medicamento não era de uso ambulatorial ou hospitalar e que eventual modificação quanto à questão demandaria o reexame de fatos e provas e a interpretação de cláusulas contratuais, conforme se extrai:
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/PR ao analisar o recurso interposto pela agravante, concluiu o seguinte (e-STJ, fls. 414):
+Não menos importante, o contrato firmado entre as partes, em sua cláusula 2.7.5, prevê expressamente a exclusão da cobertura para fornecimento de medicamentos para tratamento domiciliar (eDoc. 13.6/orig., fls. 26.).
+Dentro desse panorama, destaca-se que se entende por medicamento de uso domiciliar aquele que é "prescrito para ser adquirido por pessoas físicas em farmácias de acesso ao público para administração em ambiente externo à unidade de saúde, que não exige a intervenção ou supervisão direta de profissional de saúde habilitado - é autoadministrado pelo paciente - e cuja indicação não tenha por fim substituir o tratamento ambulatorial ou hospitalar, nem esteja relacionada à continuidade da assistência prestada em âmbito de internação hospitalar. É, pois, o medicamento que pode ser adquirido diretamente pelo paciente para ser autoadministrado por ele em seu (REsp 1.927.566/RS, Relatora Ministra NANCY ANDRIGHI, ambiente domiciliar" TERCEIRA TURMA, julgado em 24/8/2021, D Je de 30/8/2021).
+É exatamente este o caso do medicamento pleiteado, o qual, conforme se constata da bula do remédio, é composto por injeções subcutâneas, conforme ilustrado na própria sentença. Observo ainda que não há na prescrição médica qualquer ressalva quanto à necessidade de ministração do fármaco em ambiente ambulatorial ou hospitalar (eDoc. 1.8 a 1.10/orig.)
+Portanto, verifica-se que não se cuida daqueles casos decididos as bateladas envolvendo rol exemplificativo ou taxativo ou não existir outra forma de controle; mas, sim, previsão legal expressa de que medicamentos domiciliares não são cobertos pelo seguro saúde.
+Alterar o decidido no acórdão impugnado, no que se refere à desnecessidade de ministração do fármaco em ambiente ambulatorial ou hospitalar e à caracterização do medicamento como domiciliar, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal. (e-STJ, fls. 580/581, sem grifos no original).
+Dessa forma, quanto ao ponto, verifica-se que a embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleçam o seu entendimento sobre o tema.
+Conclui-se, portanto, que o presente recurso não reúne os pressupostos específicos para o seu acolhimento quanto à alegada omissão.
+No entanto, na hipótese, de fato, verifica-se o erro material apontado, impondo-se a correção da nomenclatura da ação, tendo em vista que se trata de ação de obrigação de fazer cumulada com indenização por danos materiais.
+Dessa forma, o trecho da decisão embargada (e-STJ fls. 577/578) e a respectiva ementa passam a ter a seguinte redação:
+"Ação: de obrigação de fazer cumulada com indenização por danos materiais, ajuizada pela agravante, em face de UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MEDICOS, na qual requer o custeio do medicamento "Ajovy - Fremanezumabe 225mg", devido ao quadro de enxaqueca crônica (migrânea crônica)."
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO PARA TRATAMENTO DOMICILIAR. COBERTURA OBRIGATÓRIA. INEXISTÊNCIA.
+1. Ação obrigação de fazer cumulada com indenização por danos materiais.  .. "
+Forte nessas razões, ACOLHO os embargos de declaração, apenas para sanar erro material quanto à nomenclatura da ação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE OMISSÃO. CONSTATAÇÃO DE ERRO MATERIAL.
+1. Rejeitam-se os embargos de declaração quando ausente omissão na decisão.
+2. Acolhem-se os embargos de declaração para corrigir erro material identificado na decisão embargada.
+3. Embargos de declaração parcialmente acolhidos exclusivamente para correção de erro material.
