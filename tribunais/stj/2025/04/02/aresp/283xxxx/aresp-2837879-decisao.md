@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ e da falta de comprovação do dissídio jurisprudencial (fls. 286-288).
+O acórdão recorrido encontra-se assim ementado (fl. 208):
+APELAÇÃO - AÇÃO DE RESTITUIÇÃO C. C. INDENIZATÓRIA - Transferência a débito não reconhecida - Sentença de procedência - Insurgência recursal do réu - Preliminar afastada - Mérito - Autor que declarou, em boletim de ocorrência, que, instruído por pessoa que se identificou como funcionário do banco, acabou por acessar sua conta bancária e efetuar a transferência impugnada - Golpe do falso funcionário/falsa central - Inexistente informação sobre eventual invasão da conta por terceiros - Não configurado defeito da prestação de serviço - Fortuito externo configurado - Desídia do autor - Culpa exclusiva do consumidor - Excludente de responsabilidade civil e consumerista da instituição financeira demandada pelos prejuízos de cunho material e moral - Art. 14, § 3º, inc. II, do CDC - Atipicidade da movimentação bancária não configurada - Sentença reformada para julgar improcedente a ação - RECURSO PROVIDO.
+Nas razões do recurso especial (fls. 219-238), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega dissídio jurisprudencial e violação dos arts. 927, III do CPC/2015 e 6º, IV, e 14, § 3º, I e II, do CDC.
+Assevera que o Tribunal de origem "deixou de aplicar o decidido em sede de resolução de demandas repetitivas" (fl. 225), aduzindo que "o Acórdão recorrido, em síntese, afastou a responsabilidade da instituição financeira por suposta participação, ainda que involuntária (que denominou incúria), instruído por terceiro, teria permitido a concretização da fraude" (fl. 226).
+Ressalta que houve "violação de dados que somente o banco possuía, visto que o fraudador tinha informações acerca do gerente de conta, dados bancários do correntista, o que, na pior das hipóteses, afasta a exclusividade de culpa, única possibilidade prevista pela legislação para subsidiar excludente" (fl. 230).
+Ao final, requer o provimento do recurso para reformar a decisão recorrida e adotar a tese reconhecidamente acolhida por esse Excelso Superior Tribunal de Justiça" (fl. 238).
+No agravo (fls. 291-307), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 310-321).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem concluiu que (fls. 213-21):
+No caso, alegou o autor que, no dia 27/02/2023, terceiros teriam invadido a conta que mantém junto ao banco réu, efetuando uma transferência eletrônica (TED) a débito, no valor de R$ 38.300,00, para conta desconhecida.
+Disse que teria recebido ligação de pessoa desconhecida no dia anterior, pedindo confirmação de transações feitas na cidade de Taubaté, e envio de uma fotografia do autor, que não teria respondido tais indagações.
+No dia da transferência (27/02/2023), recebeu telefonema de pessoa que se identificou como "Jorge Fidelis", suposto funcionário do banco, o qual lhe comunicou a realização fraudulenta da referida TED, orientando-o a acessar sua conta bancária, com o fito de "impedir" a efetivação da transação.
+Mais tarde, constatou que a transferência foi efetivada.
+Ocorre que, por ocasião da lavratura do boletim de ocorrência de fls. 30/31, declarou o autor que acabou por seguir as instruções dadas pelo interlocutor "Jorge Fidelis", acessando o bankline e realizando a transferência da quantia, constatando, mais tarde, ter caído em um golpe.
+Nota-se que a sentença de procedência foi fundada em falha da prestação de serviços decorrente de fortuito interno, originado na invasão da conta do autor por terceiros, que possuíam seus dados sigilosos.
+Impõe observar que, de acordo com o art. 14, § 3º, inc. II, do CDC, "O fornecedor de serviços só não será responsabilizado quando provar (..); II - a culpa exclusiva do consumidor ou de terceiro." (g. n.)
+Na hipótese em apreço, o próprio autor declarou à autoridade policial ter acessado sua conta e efetuado a transferência a terceiros.
+Ora, a incúria do autor é patente, pois inexistente informação sobre eventual invasão da conta por terceiros, resta configurada a culpa exclusiva do consumidor, que, instruído por terceiro mal-intencionado, acabou sendo vitimado por golpe de engenharia social conhecido como "golpe do falso funcionário" ou como "golpe da falsa central de atendimento".
+Conclui-se, dessa forma, que o autor deixou de observar cuidados básicos em relação à sua conta bancária, pois é cediço que as instituições financeiras não atuam de forma tão paternal no cuidado com seus clientes, a ponto de um funcionário ligar para o correntista e orientá-lo a efetuar movimentações bancárias.
+Ainda, não há se falar em movimentação atípica a ensejar imediata atuação de bloqueio pelo banco, posto que, além de ter sido declaradamente efetuada pelo próprio correntista, a transação impugnada não destoa da movimentação anterior da conta, a ostentar três transferências a débito de R$ 10.000,00 cada, no mesmo dia (24/01), conforme fls. 32/37.
+Desse modo, verifica-se caracterizada a excludente de responsabilidade civil e consumerista da instituição financeira demandada pelos prejuízos de cunho material e moral alegados, nos termos do aludido art. 14, § 3º, inc. II, do CDC, pois verificada a culpa exclusiva do consumidor na guarda de sua conta bancária.
+Modificar o entendimento do acórdão impugnado quanto à culpa exclusiva do correntista, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da S úmula n. 7/STJ.
+Ademais, "consoant e iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional" (AgInt nos EDcl no REsp n. 1.662.160/DF, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
