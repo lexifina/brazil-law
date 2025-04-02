@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5, 7 e 83 do STJ e da ausência de divergência jurisprudencial (fls. 714/716).
+O acórdão recorrido encontra-se assim ementado (fl. 466):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. EMPRÉSTIMO NÃO CONSIGNADO. SENTENÇA DE PROCEDÊNCIA. PREJUDICIAL DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA REJEITADA. OPOSIÇÃO AO JULGAMENTO VIRTUAL PREJUDICADA POR AUSÊNCIA DE REITERAÇÃO DA PRETENSÃO NA OPORTUNIDADE REGIMENTAL (ART.248 DO REGIMENTO INTERNO). LIMITAÇÃO DOS JUROS REMUNERATÓRIOS À TAXA MÉDIA PREVISTA PELO BANCO CENTRAL PARA A ÉPOCA DA PACTUAÇÃO. O RISCO DA ATIVIDADE EMPRESARIAL QUE PERTENCE À INSTITUIÇÃO FINANCEIRA, NÃO PODENDO SER REPASSADO AO CONSUMIDOR, POIS DELA É A DISCRICIONARIEDADE DE CONTRATAR COM DETERMINADO SEGMENTO DA POPULAÇÃO. ANUÊNCIA DA PARTE AUTORA COM OS TERMOS DA CONTRATAÇÃO QUE NÃO OBSTA A REVISÃO DO CONTRATO, TENDO EM CONTA A VIABILIDADE DE ANULAÇÃO DAS CLÁUSULAS CONTRATUAIS QUE CONFIGUREM ONEROSIDADE EXCESSIVA, COMO COROLÁRIO DA FIXAÇÃO DE TAXA DE JUROS EM DISSONÂNCIA COM AS CONDIÇÕES CONTRATUAIS ESTABELECIDAS. REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES, POR NÃO HAVER VIOLAÇÃO DO PRINCÍPIO DA BOA FÉ OBJETIVA DA PARTE RECORRENTE, NOS MOLDES DO PEDIDO. DESCARACTERIZAÇÃO DA MORA DIANTE DO RECONHECIMENTO DA ABUSIVIDADE DOS ENCARGOS INCIDENTES AO PERÍODO DE NORMALIDADE DO CONTRATO. ENCARGOS SUCUMBENCIAIS MANTIDOS COM FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+Nas razões do recurso especial (fls. 514/561), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação, além de dissídio jurisprudencial:
+(i) do art. 421 do CC, pois (fl. 525):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado" (..)
+(ii) dos arts. 355, I e II, e 356, I e II, do CPC/2015, porque (fl. 529):
+ ..  evidente que a prova pericial se torna necessária e imprescindível, visto que apenas um expert no assunto, com o necessário conhecimento técnico e de confiança do juízo pode de fato analisar todas as particularidades e riscos envolvidos e indicar, quando for o caso, o percentual mais adequado a ser estabelecido.
+No agravo (fls. 725-733), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 738-743).
+É o relatório.
+Decido.
+Não houve pronunciamento do Tribunal a quo quanto à violação do art. 421 do CC nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Ademais, ao apreciar a questão relativa aos juros remuneratórios, o Tribunal de origem concluiu pela abusividade da taxa contratada em comparação com a média mensal apurada pelo Banco Central para operações da mesma espécie no período da contratação, fundamentando o caráter abusivo dos juros remuneratórios.
+O acórdão ora recorrido julgou abusivas as taxas de 22% a. m. e 987,22% ao ano, previstas nos contratos, e limitou os juros remuneratórios, respectivamente, a 5,27% a. m. e 85,30%, ao ano, índices correspondentes às médias de mercado nas respectivas modalidades de crédito (fl. 461).
+O entendimento está de acordo com a jurisprudência desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. LIQUIDAÇÃO EXTRAJUDICIAL. SUSPENSÃO DA AÇÃO. INAPLICABILIDADE. JUSTIÇA GRATUITA. AUSÊNCIA DE PROVEITO PARA A PARTE. MÉRITO. JUROS REMUNERATÓRIOS. CRÉDITO CONSIGNADO. NATUREZA ABUSIVA. TAXA MÉDIA DE MERCADO. REFERENCIAL. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+ ..  3. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp 1.061.530/RS, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 22/10/2008, DJe 10/03/2009)
+4. A taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle do abuso da taxa de juros remuneratórios contratada. Precedentes.
+5. "Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados" (REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.427.734/RS, de minha relatoria, Quarta Turma, julgado em 26/02/2024, DJe 29/02/2024.)
+Ainda, desconstituir a convicção formada pelas instâncias de origem quanto às peculiaridades do contrato e à ausência de prova por parte da recorrente, para assim acolher os argumentos do recurso especial, é inviável em razão das Súmulas n. 5 e 7 do STJ.
+Quanto ao cerceamento de defesa, a Corte local entendeu (fl. 457):
+No que tange ao suposto cerceamento de defesa, recordo que o diploma processualista permite o julgamento antecipado da lide quando não houver a necessidade de produção de provas para além dos documentos acostados pelas partes, inteligência que se extrai art. 355, inciso I, do CPC.
+Assim, como o julgamento do feito demanda análise de matéria de direito, crível que o julgamento antecipado não caracteriza cerceamento de defesa; até mesmo porque mesmo sem a determinação para inversão do ônus da prova, o dever de trazer os documentos que fossem capazes de fundamentar a tese da defesa e prejudicar os pedidos da exordial, eram da requerida/apelante, nos termos do que dispõe o art. 373, II do CPC.
+Assim, modificar o entendimento do acórdão impugnado e reconhecer a existência de cerceamento de defesa, pelo julgamento antecipado da lide e pela desnecessidade de prova pericial, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
