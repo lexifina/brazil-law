@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por JOAO VITOR LAURENTYS DE MEDEIROS contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. ART. 309 DO CÓDIGO CIVIL. PAGAMENTO PUTATIVO. À luz do art. 309 do Código Civil, o pagamento feito de boa-fé aos que, devidamente documentados, se apresentam como sendo os únicos beneficiários do seguro, é válido" (e-STJ fl. 347).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 397-400).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação dos artigos 2º, 3º, 6º, VIII, e 14 do Código de Defesa do Consumidor, 186, 308, 757, 792 e 937 do Código Civil.
+Sustenta que deve ser deferida a inversão do ônus da prova, visto que se trata de relação de consumo e há verossimilhança das alegações do consumidor.
+Argumenta que "com deferimento da inversão do ônus da prova, a Seguradora deverá ser compelida à produzir prova contrária ao alegado, visto que seria comprovado documentalmente o seu conhecimento acerca da existência do recorrente como beneficiário do seguro de vida contratado através da apólice nº 1711, certificado 142" (e-STJ fl. 411).
+Afirma que não há falar em credor putativo, visto que a tese somente foi levantada nas contrarrazões e que "a seguradora tinha mecanismos à sua disposição para verificar ser o recorrente, um dos legítimos beneficiários do seguro de vida contratado por seu pai, vítima de acidente de trânsito" (e-STJ fl. 416).
+Requer seja reconhecido o dever de indenização de 50% do capital segurado em favor do recorrente, na condição de beneficiário, com a incidência de correção monetária a partir da contratação e de juros de mora a partir da data do sinistro.
+Aduz que, no caso, a seguradora deve ser condenada ao pagamento de danos morais no valor de R$ 100.000,00 (cem mil reais), pois a recusa injustificada da seguradora ao pagamento da indenização securitária causou-lhe danos de natureza extrapatrimonial.
+Com as contrarrazões (e-STJ fls. 438-448), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere à ofensa aos arts. 2º, 3º, 6º, VIII, e 14 do Código de Defesa do Consumidor, verifica-se que a matéria versada no dispositivo apontado como violado no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e, apesar de opostos embargos declaratórios, nada foi decidido acerca da matéria.
+A despeito disso, não foi alegada a violação do art. 1.022 do Código de Processo Civil, com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A propósito:
+"(..) A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto apenas na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada a ofensa ao art. 1.022 do NCPC no recurso especial, o que não é o caso dos autos" (AgInt no AREsp n. 1.834.881/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/10/2022, DJe de 19/10/2022).
+De outro lado, o Tribunal de origem manteve a sentença que julgou improcedentes os pedidos autorais pelos seguintes fundamentos:
+"Após detida análise dos autos, concluo que o reclamo não merece provimento. Isto porque, como fundamentou o julgador monocrático, as provas vertidas ao feito revelam que, ao proceder à liquidação do sinistro, a seguradora apelada agiu de forma diligente, restando caracterizada no caso dos autos a figura do credor putativo prevista no art. 309, do Código Civil.
+(..)
+Consta das telas sistêmicas apresentadas pela ora apelada que o segurado não indicou beneficiários no ato da contratação do seguro de vida. Incumbe frisar que a ausência da cópia da apólice original não altera a sorte do apelante, pois, quando da contratação do seguro, ocorrida em 01/11/1999, este sequer havia nascido (18/08/2003).
+Na certidão de óbito de Geraldo da Luz Duque de Medeiros traz informação no sentido de que ele era solteiro, não havendo qualquer menção no tocante à existência de filhos. A documentação constante na regulação do sinistro, por sua vez, revela que o processo foi instaurado em 04/07/2012 pela filha do segurado, Melina Hester Vilela Medeiros, representada por sua genitora Marcian da Luz Vilela da Silva, a qual apresentou "Declaração de Herdeiros" na qual afirma que a sua filha era a única herdeira legal do segurado.
+No referido documento consta ressalva expressa no sentido de que, na hipótese da declaração não se coadunar com a expressão da realidade, a declarante responderá pelos prejuízos civis e criminais decorrentes, em específico pelo crime de falsidade ideológica tipificado pelo art. 299 do Código Penal. Referido documento também conta com a assinatura de duas testemunhas, devidamente identificadas, acompanhadas das cópias dos respectivos documentos.
+As provas apresentadas nos autos revelam que a seguradora procedeu com todas as cautelas para efetuar o pagamento da indenização do seguro, depositando o valor da indenização em favor de quem se apresentou como única herdeira do segurado.
+Por outro lado, não consta da apólice, tampouco existe previsão legal, no sentido de que a seguradora deve realizar pesquisas perante o INSS e o Poder Judiciário à procura de eventuais beneficiários do seguro, devendo ser salientado que os documentos apresentados no momento da instauração do sinistro não apontavam qualquer indício no sentido da sua existência.
+Destarte, não tendo se desincumbido o requerente, ora apelante, de comprovar a existência de negligência ou má-fé da demandada, ora apelada, quando do pagamento da integralidade do valor do seguro à sua irmã (que se valeu de declaração inverídica no sentido de ser a única beneficiária para receber a integralidade da indenização securitária), os pedidos vertidos na inicial, incluindo a indenização por danos morais, devem ser afastados" (e-STJ fls. 350-352 - grifou-se).
+Nesse contexto, rever a conclusão do tribunal local acerca da diligência da seguradora quanto à verificação dos herdeiros e ao pagamento da indenização a credor putativo, assim como no que diz respeito à inexistência de danos morais, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE COBRANÇA. SEGURO. INDENIZAÇÃO. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CREDOR PUTATIVO. DANOS MORAIS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Apesar de opostos embargos de declaração com a finalidade de sanar omissão, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil nas razões do especial, atraindo a incidência da Súmula nº 211/STJ.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
