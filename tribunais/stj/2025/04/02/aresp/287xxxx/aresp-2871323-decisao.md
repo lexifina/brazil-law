@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto por ADRIANA ALMEIDA DOS SANTOS FERREIRA DA ROCHA, contra decisão que inadmitiu o recurso especial, em razão da incidência das Súmulas n. 7 do STJ e 284 do STF (fls. 2.813-2.814).
+Nas razões deste recurso (fls. 2.970-2.975), a parte reitera as razões do especial.
+Contraminuta apresentada às fls. 2.979-2.989.
+É o relatório.
+Decido.
+O agravo que deixa de refutar especificamente os fundamentos da decisão agravada não é passível de conhecimento, em virtude de expressa previsão legal (art. 544, § 4º, I, do CPC/1973 e art. 932, III, do CPC/2015) e da aplicação, por analogia, da Súmula n. 182/STJ.
+O Tribunal de origem inadmitiu o recurso especial com base nos seguintes argumentos (fl. 2.813):
+Não é possível, na atual fase processual, acatar a suposta violação do artigo 507 do Código de Processo Civil, posto que a verificação da tese relativa à ocorrência da preclusão não prescinde da reanálise dos elementos informativos carreados aos autos, providência sabidamente vetada em sede de recurso especial, pelo óbice da Súmula 7 do Superior Tribunal de Justiça.  .. . Da mesma forma, não procede a alardeada violação aos artigos 489, § 1º, inciso IV; 1.022, inciso II, do Código de Processo Civil e 950 do Código Civil, também citados nas razões recursais, porquanto a Recorrente deixou de desenvolver argumentação que evidenciasse a alegada ofensa a partir das premissas adotadas no acórdão recorrido, tornando patente a falha de fundamentação do Recurso Especial, o que enseja a aplicação do óbice contido na Súmula 284 do Supremo Tribunal Federal.
+No caso, não foi impugnado o fundamento relativo à incidência da Súmula n. 284/STF.
+Cabe destacar que a Corte Especial do STJ, no julgamento dos EAREsp n. 746.775/PR, ocorrido na sessão de 19/9/2018 (Relator para acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018), firmou o entendimento de que, nas razões do agravo em recurso especial, o agravante deve rechaçar todos os motivos elencados na decisão de inadmissibilidade, sendo que a ausência de impugnação de um deles, ainda que referente a capítulo autônomo da decisão, enseja o não conhecimento do recurso. Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. CONFIRMAÇÃO. SÚMULA 168 E 182/STJ. AGRAVO DESPROVIDO. 1. A Corte Especial, por ocasião do julgamento dos EAREsp 701.404/SC, EAREsp 746.775/SC e EAREsp 831.326/SC (Relator para acórdão o Ministro Luis Felipe Salomão, DJe 30/11/2018), por maioria, firmou orientação no sentido de que, na interposição do agravo de que trata o art. 1.042 do CPC de 2015 (antigo art. 544 do CPC de 1973), deve o agravante impugnar todos os fundamentos, autônomos ou não, da decisão que não admitiu o recurso especial na origem. 2. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (Súmula 182/STJ). 3. Agravo regimental a que se nega provimento. (AgRg nos EDcl nos EAREsp n. 2.291.059/SP, Relator Ministro Raul Araújo, Corte Especial, julgado em 23/4/2024, DJe de 3/5/2024.)
+Assim, é inafastável a aplicação, por analogia, da Súmula n. 182 desta Corte.
+Ante o exposto, NÃO CONHEÇO do agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 2% (dois por cento) do valor arbitrado em desfavor da parte ora agravante, observando-se os limites dos §§ 2º e 3º do referido dispositivo e eventual gratuidade da justiça.
+Publique-se e intimem-se.
+ EMENTA
