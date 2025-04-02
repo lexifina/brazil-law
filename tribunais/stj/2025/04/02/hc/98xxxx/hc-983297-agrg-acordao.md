@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 27/03/2025 a 02/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE INDEFERIMENTO DE LIMINAR NA ORIGEM. ENUNCIADO Nº 691 DA SÚMULA DO STF. NÃO CABIMENTO. FUNDAMENTAÇÃO IDÔNEA DAS DECISÕES DE ORIGEM. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator considerou não estar presente constrangimento ilegal patente na custódia, a justificar o deferimento da liminar, devendo a questão ser melhor analisada por ocasião do exame do mérito.
+3. A decisão que decretou a prisão preventiva do agravante fundamentou-se na expressiva quantidade de entorpecentes apreendida (8.108,2g de maconha, 809g de haxixe e 26,1g de crack), indicativa de possível vínculo com organização criminosa, bem como na necessidade de garantir a aplicação da lei penal, sendo a segregação mantida por ocasião da sentença.
+4. Ausente flagrante ilegalidade, não há motivos para excepcionar a aplicação da Súmula 691 do STF, devendo a análise da matéria ser feita no julgamento do habeas corpus pelo Tribunal de Justiça do Estado de São Paulo.
+5. Agravo desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WAGNER HENRIQUE MENDONÇA DE OLIVEIRA contra a decisão monocrática que indeferiu liminarmente a impetração de habeas corpus, fundamentando-se na ausência de flagrante ilegalidade apta a justificar a superação do enunciado sumular n. 691 do Supremo Tribunal Federal.
+O paciente, ora agravante, foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de Campinas à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, além do pagamento de 583 dias-multa, pela prática do crime previsto no artigo 33, caput, da Lei 11.343/2006, tendo o Magistrado sentenciante indeferido ao réu o direito de apelar em liberdade.
+Impetrado habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, o Desembargador relator negou a liminar postulada.
+Em novo habeas corpus impetrado nesta Corte Superior, o impetrante alegou constrangimento ilegal, sustentando que o agravante preenche requisitos favoráveis, tais como primariedade, residência fixa e ocupação lícita, além de ser pai de menor de doze anos de idade, que dele depende financeiramente. Argumentou ainda que a decisão monocrática de primeiro grau não demonstrou elementos concretos que justificassem a necessidade da manutenção da prisão.
+A decisão ora agravada indeferiu liminarmente o writ, ao argumento de que a matéria não havia sido examinada pelo Tribunal de origem, que ainda não julgara o mérito do writ, aplicando-se, assim, a Súmula 691 do STF. Destacou que as decisões de origem não se revelam teratológicas e que não se verificava manifesta ilegalidade a justificar a superação do referido óbice processual.
+No presente agravo regimental, a defesa reitera as alegações de ilegalidade na manutenção da prisão, enfatizando que a decisão monocrática se limitou a aplicar o enunciado sumular sem demonstrar de que forma a situação concreta se adequa a seus fundamentos. Defende que a ausência de fundamentação idônea na sentença condenatória quanto à negativa do direito de recorrer em liberdade caracteriza flagrante constrangimento ilegal. Pugna, assim, pelo provimento do agravo para que seja concedida a ordem de habeas corpus, permitindo que o agravante aguarde em liberdade o julgamento da apelação.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE INDEFERIMENTO DE LIMINAR NA ORIGEM. ENUNCIADO Nº 691 DA SÚMULA DO STF. NÃO CABIMENTO. FUNDAMENTAÇÃO IDÔNEA DAS DECISÕES DE ORIGEM. AUSÊNCIA DE ILEGALIDADE PATENTE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Hipótese na qual o Desembargador Relator considerou não estar presente constrangimento ilegal patente na custódia, a justificar o deferimento da liminar, devendo a questão ser melhor analisada por ocasião do exame do mérito.
+3. A decisão que decretou a prisão preventiva do agravante fundamentou-se na expressiva quantidade de entorpecentes apreendida (8.108,2g de maconha, 809g de haxixe e 26,1g de crack), indicativa de possível vínculo com organização criminosa, bem como na necessidade de garantir a aplicação da lei penal, sendo a segregação mantida por ocasião da sentença.
+4. Ausente flagrante ilegalidade, não há motivos para excepcionar a aplicação da Súmula 691 do STF, devendo a análise da matéria ser feita no julgamento do habeas corpus pelo Tribunal de Justiça do Estado de São Paulo.
+5. Agravo desprovido.
+VOTO
+O agravo regimental interposto não merece provimento.
+De fato, verifica-se que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Aplica-se à hipótese o enunciado 691 da Súmula do STF:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.  ..  WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. INCIDÊNCIA DA SÚMULA n. 691/STF. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. PRISÃO DOMICILIAR. AUSÊNCIA DE PROVA INEQUÍVOCA DE QUE O RÉU ESTEJA EXTREMAMENTE DEBILITADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2.  ..
+3.  ..
+4. A demora ilegal não resulta de um critério aritmético, mas de aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo injustificado na prestação jurisdicional.
+5.  ..
+6. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 778.187/PE, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16.11.2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. PETIÇÃO INICIAL IMPETRADA CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR PROFERIDA EM HABEAS CORPUS PROTOCOLADO NA ORIGEM, CUJO MÉRITO AINDA NÃO FOI JULGADO. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE TERATOLOGIA. IMPOSSIBILIDADE DE SUPERAÇÃO DO ÓBICE PROCESSUAL REFERIDO NA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. WRIT INCABÍVEL. AGRAVO DESPROVIDO.
+1. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências). Na espécie, não há situação extraordinária que justifique a reforma da decisão em que se indeferiu liminarmente a petição inicial.
+2.  ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 763.329/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 27.9.2022.)
+No caso, ao ser decretada a prisão preventiva, o Magistrado destacou que "Embora tecnicamente primário, teria sido surpreendido de posse de considerável quantidade de entorpecentes, sobretudo maconha." (e-STJ fl. 30). Conforme se extrai dos autos, foram apreendidos 8.108,2g de maconha, 809g de haxixe e 26,1g de crack (e-STJ fl. 42). Além disso, consignou o decreto que "não se pode descartar a possibilidade de o autuado possuir vínculos com a organização criminosa ou mesmo integra-la, haja vista, repito, a considerável quantidade de entorpecentes de que tinha posse e os petrechos relacionados à traficância." (e-STJ fl. 31).
+Posteriormente, por ocasião da sentença, a segregação cautelar foi mantida ante o fato de o acusado já estar respondendo preso e com vistas a assegurar a efetiva aplicação da lei penal.
+Com efeito, " a  orientação do STF é no sentido de que a natureza e a quantidade da droga apreendida evidenciam a gravidade concreta da conduta capaz de justificar a ordem prisional (HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Relª. Minª. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux)". (AgRg no HC n. 210312, Rel. Ministro Roberto Barroso, Primeira Turma, julgado em 28/03/2022, DJe 31/3/2022).
+De outro vértice, considerando que o acusado permaneceu preso durante todo o processo, "não deve ser permitido o recurso em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em primeiro grau". (AgRg no HC n. 742.659/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/8/2022, DJe 22/8/2022).
+Portanto, inexistindo excepcionalidade que justifique a mitigação do entendimento sumulado, deve ser mantida a decisão que indeferiu liminarmente o habeas corpus, resguardando-se o exame da matéria pelo Tribunal de Justiça do Estado de São Paulo, que detém competência para a análise do mérito do writ originário.
+Diante do exposto, nego provimento ao agravo regimental.
+É como voto.
