@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravos em recurso especial apresentados por BADRA PECORA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e pelo MUNICÍPIO DE LEME contra decisão que inadmitiu os apelos nobres interpostos com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal.
+Parecer ministerial pelo não conhecimento dos agravos (e-STJ fls. 1.844/1.845).
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque, especificamente, todos os fundamentos da decisão agravada, nos termos dos arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida;
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar, especificamente, todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão do especial de BADRA PECORA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. se deu com base nos seguintes fundamentos: ausência de afronta a dispositivo legal (arts. 141, 405, 427 e 490 do CPC, e art. 40 da Lei n. 6.766/1993), Súmulas 5 e 7 do STJ, além de deficiência de cotejo analítico.
+Já o apelo nobre do MUNICÍPIO DE LEME foi inadmitido pelos seguintes óbices: Súmula 5 do STJ, Súmula 280 do STF e deficiência de cotejo analítico.
+Entretanto, os agravantes deixaram de impugnar específica e adequadamente os respectivos fundamentos.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível, do agravante, o efetivo ataque aos seus fundamentos.
+Nesse contexto, em observância ao princípio da dialeticidade, a impugnação deve ser feita, nas razões do agravo em recurso especial, de forma específica, concreta e pormenorizada, trazendo argumentações capazes de demonstrar o desacerto da decisão a quo, o que não ocorreu.
+Com efeito, tendo a decisão de inadmissibilidade do apelo nobre se fundamentado na ausência de afronta a dispositivo legal, caberia, à parte agravante, demonstrar, em específico, qual seria a suposta violação a cada artigo de lei federal indicado, não bastando a simples menção a alguns dos dispositivos legais tidos como violados.
+Em relação às Súmulas 5 e 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão, independentemente do revolvimento de fatos e de provas e da interpretação de cláusulas contratuais, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e na sua tese recursal, o que não ocorreu.
+Por fim, a mera alegação de que foi realizado o devido cotejo analítico não se mostra suficiente para infirmar o fundamento de inadmissão.
+Caberia à parte, nas razões de agravo em recurso especial, fazer referência ao próprio apelo nobre, demonstrando, efetivamente, que este recurso não se encontrava inquinado da apontada mácula, bem como foram preenchidos os requisitos legais para a comprovação do dissídio.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgInt no AREsp n. 2.107.891/PR, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/11/2022, DJe de 30/11/2022; AgInt no AREsp n. 2.164.815/RS, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 28/11/2022, DJe de 30/11/2022; e AgInt no AREsp n. 2.098.383/BA, Relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO dos agravos em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
