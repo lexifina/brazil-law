@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por DAGOBERTO JOSE EDUARDO DOS SANTOS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 479):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS. EMPRÉSTIMO CONSIGNADO EM BENEFÍCIO PREVIDENCIÁRIO. PRELIMINARES DE CERCEAMENTO DE DEFESA E DE VIOLAÇÃO AO PRINCÍPIO DA NÃO SURPRESA AFASTADAS. ALEGAÇÕES INICIAIS INVEROSSÍMEIS. AUSÊNCIA DE ATO ILÍCITO. SENTENÇA MANTIDA.
+1. Cabe ao juiz, como destinatário da prova, valorar a necessidade ou não de realização de prova pericial, devendo indeferi-la quando já existirem nos autos provas suficientes a formar o seu convencimento (Súmula 28/TJGO).
+2. Se o autor, intimado para se manifestar sobre a contestação e documentos, apresenta impugnação, não há razão para alegar cerceamento de defesa, e muito menos afronta ao princípio da não surpresa.
+3. A inversão do ônus da prova prevista no CDC (art. 6º, VIII) não tem o condão de eximir a parte autora do dever de produção de prova minimamente condizente com o direito vindicado, máxime quando suas alegações forem inverossímeis.
+6. Está devidamente comprovada a contratação do empréstimo consignado, bem como a autorização dos respectivos descontos, pois a peça defensiva veio acompanhada de comprovante de contratação (cédula de crédito bancário), procedimento de contração pela WEB, comprovantes da operação realizada e "TED" do valor creditado na conta do apelante, demonstrando a formalização do contrato (operação n. 22-847344816/20, de 04/09/2020). Ademais, o Banco apelado demonstrou que o valor do empréstimo foi liberado para o apelante no dia 08/09/2020, por meio de "TED" enviada à Caixa Econômica Federal, agência 1241, conta-corrente 000010359-0. E mais: a quantia de R$ 942,80 foi utilizada para pagamento do contrato objeto do refinanciamento n. 51-817188903/16, formalizado com a total ciência e anuência do apelante, quantia esta também depositada em sua conta bancária.
+7. Comprovada a ocorrência de dolo processual, deve ser mantida a condenação do apelante por litigância de má-fé. Apelação Cível desprovida.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação dos arts. 429, II, e 464 do Código de Processo Civil.
+Alega, ainda, a existência de dissídio jurisprudencial com base em precedentes do STJ que estabelecem que, na hipótese em que o consumidor impugna a autenticidade da assinatura em contrato bancário, cabe à instituição financeira o ônus de provar a sua autenticidade, conforme os arts. 6º, 368 e 429, II, do CPC, o que não ocorreu no presente caso (fl. 535).
+Sem contrarrazões ao recurso especial (fl. 519).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 522-527), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 541).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Em relação à apontada ofensa aos arts. 429, II, e 464 do Código de Processo Civil e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices na Súmula n. 7 do Superior Tribunal de Justiça, uma vez que o Tribunal alegou que "Destarte, conclui-se que o Banco apelado fez prova da operação bancária realizada com o apelan te, conforme previsto no art. 373, inc. II, do Código de Processo Civil".
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ. Alterar o decidido no acórdão impugnado, no que se refere à comprovação da contratação do empréstimo consignado e à total ciência do agravante, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRANSPORTE AÉREO. MALA DANIFICADA. OMISSÃO NO ACÓRDÃO RECORRIDO. OFENSA AO ART. 1.022 DO CPC. NÃO VERIFICAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. VIOLAÇÃO DO ART. 489 DO CPC. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. HONORÁRIOS ADVOCATÍCIOS. TEMA N. 1.076 DO STJ. ORDEM DE PREFERÊNCIA. ENTENDIMENTO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ. SÚMULA N. 83 DO STJ. INCIDÊNCIA. PROVA TESTEMUNHAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DANO MORAL. RESPONSABILIDADE CIVIL. PRESSUPOSTOS. NÃO VERIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando o tribunal de origem aprecia, com clareza e objetividade e de forma motivada, as questões que delimitam a controvérsia, ainda que não acolha a tese da parte insurgente.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC de 2015 é genérica, sem indicar, de forma clara e objetiva, o ponto em que, efetivamente, o acórdão impugnado foi omisso, o que atrai, por consequência, a incidência da Súmula n. 284 do STF.
+3. Não é admissível, em agravo interno, a apreciação de tese que configure inovação recursal, em razão da ocorrência da preclusão consumativa.
+4. O arbitramento dos honorários advocatícios deve seguir a regra geral estabelecida no art. 85, § 2º, do CPC, de acordo com a ordem de preferência nele estabelecida, a saber: 1º) nas causas em que houver condenação, este é o critério a ser utilizado pelo magistrado, observando o parâmetro legal entre 10% a 20%; 2º) nas causas em que não houver condenação, deve o magistrado arbitrar os honorários de acordo com o proveito econômico aferido; e 3º) não sendo possível mensurar o proveito econômico, sendo ele inestimável ou irrisório, a verba sucumbencial deve ser arbitrada de acordo com o valor da causa. Incidência da Súmula n. 83 do STJ.
+5. O magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional.
+6. Rever o entendimento do tribunal de origem acerca das premissas firmadas com base na análise do acervo fático-probatório dos autos atrai a incidência da Súmula n. 7 do STJ.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 2.074.197/RS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMPRÉSTIMO CONSIGNADO. ÔNUS PROBATÓRIO. REVISÃO DAS CIRCUNSTÂNCIAS FÁTICO-PROCESSUAIS. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
