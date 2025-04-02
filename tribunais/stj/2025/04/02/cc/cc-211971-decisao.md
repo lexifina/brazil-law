@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 23ª Vara Cível do Rio de Janeiro - RJ e o Juízo Federal da 40 ª Vara do Rio de Janeiro - SJ/RJ, nos autos de "ação previdenciária" ajuizada por Elane da Silva Amaral contra o Instituto Nacional do Seguro Social - INSS.
+É o relatório. Passo a decidir.
+Dispensa-se a oitiva do Ministério Público Federal, em prestígio aos princípios da celeridade e da economia processual, além do caso dos autos estar fora das hipóteses previstas no artigo 178 do CPC/2015.
+A questão posta nos autos cinge-se em definir a quem compete processar e julgar - se à Justiça Federal ou à Justiça Comum - pedido de "auxílio acidente".
+Diga-se que esta Corte Superior tem adotado o entendimento de que a competência para processar e julgar a ação que discute a concessão de benefício previdenciário deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial. No mesmo sentido:
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9) é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR.
+(CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022.)
+No caso, a autora fez constar na inicial que (fls. 3-6, e-STJ):
+ ..  requereu o primeiro beneficio 513.244.9863, com data de requerimento em 06/09/2004 sendo concedido, com constatação de incapacidade houve vários outros beneficio também deferido, houve também vários pedidos de prorrogação e reconsideração e sendo concedidos.
+Porém, houve a concessão de um ultimo beneficio com o numero 5353829910, também concedido até 13/05/2011 pela alta programada houve pedido de prorrogação sendo concedido até 09_/1112011 como também de alta programada.
+Interpôs mais uma vez pedido de prorrogação em 2611012011 não sendo reconhecido a incapacidade, após fez pedido de recurso a junta na espera da resposta mais que após visualizar em 16/0512012 sendo negado provimento ao recurso.
+Ocorre que a autora vem travando uma batalha, estando incapacitada desde o primeiro requerimento 22 0041 e conforme mencionado acima, após o ultimo beneficio foi indeferido.
+ ..  sua doença esta qualificada em: Quadro depressivo, ansiedade antecipatório . insônia, sintomas somáticos, epilepsia, com perda de consciência, mialgias, dores articulares em mãos com _ CID X F41. e F06  40. F07. F70. F20.9 -2, F40.5 5C10- 10. G40. F40.1 inclusive toma vários tipos de remédios controlados para amenizar o quadro incapacitante, com quadro de incapacidade e com indicação medica na especialidade: psiquiatria e neurologia.
+ ..  não tem a menor condição de labor, a autora fez também Mapeamento da Atividade Elétrica Cerebral, com conclusão Discreta disfunção de natureza inespecífica das estruturas centro encefálicas além de outras incapacidades conforme Nb<iyy ao0.mcO consta do documentos anexo.
+ ..  não existe qualquer justificativa para que a ré tenha agido desta maneira, uma vez que a autora esta incapacitada para as atividades laborativas, devendo permanecer em gozo de auxilio doença, ou alternativamente aposentadoria por invalidez, c
+Dessa forma, evidencia-se que a parte autora em suas razões não indica qualquer relação com atividade laboral, ou seja, pedido e causa de pedir possuem natureza previdenciária, cuja competência para processar e julgar a demanda é da Justiça Federal. No mesmo sentido, destaca-se o seguinte julgado: CC n. 211.998, Ministro Afrânio Vilela, DJEN de 26/3/2025.
+Ante o exposto, com fundamento no artigo 34 do RISTJ combinado com o artigo 955, parágrafo único, I, do CPC/2015, conheço do conflito e declaro competente o Juízo Federal da 40ª Vara do Rio de Janeiro - SJ/RJ, a fim de que, afastada a incompetência, prossiga no julgamento da demanda, decidindo-a a questão como entender de direito.
+Comunique-se, com urgência, aos Juízos, especialmente ao Juízo competente para que julgue a questão, visto que a ação teve início no ano de 2012, e ainda pende de análise o pedido de tutela de urgência.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO.. ACIDENTE SOFRIDO PELA AUTORA. NATUREZA LABORAL NÃO-COMPROVADA. PEDIDO E CAUSA DE PEDIR. COMPETÊNCIA DA JUSTIÇA FEDERAL.
