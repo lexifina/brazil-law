@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.243-1.259) opostos à decisão desta relatoria que deu provimento ao agravo nos próprios autos para afastar a intempestividade do recurso especial da embargante e, no mérito, negou provimento ao recurso, mantendo a inadmissibilidade do especial (fls. 1.235-1.240).
+A parte embargante afirma que o julgado monocrático apresentaria contradição, obscuridade, omissão e erro material, por confirmar o entendimento da Corte a quo sobre a aplicação da teoria da causa madura e ratificar a rejeição dos danos morais e do reembolso integral das despesas médicas, sob a justificativa de falta de prova dos abalos morais e no referente à indisponibilidade do tratamento de saúde na rede credenciada da parte embargada, circunstância que respaldaria o reembolso integral dos gastos médicos. Nesse contexto, sustenta a existência de cerceamento de defesa.
+Sustenta obscuridade na incidência da Súmula n. 283/STF quanto ao referido ressarcimento.
+É o relatório.
+Decido.
+A decisão não incorreu nos vícios apontados.
+A contradição que dá ensejo aos aclaratórios é a interna, quando, no contexto do próprio aresto embargado, existem afirmações inconciliáveis, situação não verificada nos presentes autos. A esse respeito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+ ..
+2. A contradição apta a abrir a via dos embargos declaratórios é aquela interna ao decisum, existente entre a fundamentação e a conclusão do julgado ou entre premissas do próprio julgado, o que não se observa no presente caso.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AgInt no AREsp n. 927.559/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/4/2017, DJe 28/4/2017.)
+Contradição externa, entre o julgado e as razões da parte, ou mesmo entre o julgado e a lei ou a jurisprudência, não dá ensejo a embargos declaratórios.
+Ademais, "o conceito de obscuridade, para embargos de declaração, somente se materializa se a decisão é ininteligível, seja por ilegível, seja por má redação. Não se confunde com interpretação do direito tida por inadequada pela parte. Se ela pode tecer argumentos contra a conclusão da Corte, é porque compreende a decisão, embora dela discorde; a decisão obscura é, a rigor, irrecorrível quanto a seus fundamentos, que nem sequer são passíveis de identificação racional articulada" (AgInt no REsp n. 1.859.763/AM, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 4/5/2021, DJe 19/5/2021), o que inexistiu.
+Do mesmo modo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. CRITÉRIO DE MAJORAÇÃO EM RESP ANTERIOR. PERCENTUAL SOBRE OS HONORÁRIOS ADVOCATÍCIOS. QUESTÃO PRECLUSA. NÃO PROVIMENTO. OBSCURIDADE E CONTRADIÇÃO. INEXISTÊNCIA. REJEIÇÃO.
+1. "O conceito de obscuridade, para embargos de declaração, somente se materializa se a decisão é ininteligível, seja por ilegível, seja por má redação. Não se confunde com interpretação do direito tida por inadequada pela parte. Se ela pode tecer argumentos contra a conclusão da Corte, é porque compreende a decisão, embora dela discorde; a decisão obscura é, a rigor, irrecorrível quanto a seus fundamentos, que nem sequer são passíveis de identificação racional articulada" (AgInt no REsp 1859763/AM, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 4/5/2021, DJe 19/5/2021).
+2. "A contradição que autoriza a oposição dos embargos é aquela interna ao julgado, existente entre a fundamentação e a conclusão."
+(AgInt nos EDcl no AREsp 187.905/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 9/8/2016, DJe 19/8/2016).
+3.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.925.050/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/3/2022, DJe 24/3/2022.)
+E ainda, "o erro material, passível de ser corrigido a qualquer tempo, é aquele relativo à inexatidão perceptível à primeira vista e cuja correção não modifica o conteúdo decisório do julgado. Caso contrário, trata-se de erro de julgamento, hipótese na qual a parte deve lançar mão das vias de impugnação apropriada" (AgInt nos EDcl no AREsp n. 1.616.321/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/9/2020, DJe 1º/10/2020), o que não ocorreu.
+Ademais, o juízo embargado deixou claros os motivos pelos quais incidiu a Súmula n. 7/STJ como empecilho à reforma do entendimento da Corte local sobre a presença dos requisitos da aplicação da teoria da causa madura, sem que tal proceder configurasse cerceamento de defesa, ante a suficiência da prova documental (fl. 1.237).
+Sobre os limites do reembolso das despesa médicas, aplicou-se a Súmula n. 83/STJ porque, considerada a premissa fática definida na origem a respeito da ausência de inadimplemento da embargada, a Corte a quo, ao restringir o ressarcimento aos limites contratuais, não divergiu da jurisprudência desta Corte Superior (fls. 1.237-1. 240).
+Além disso, a decisão recorrida aplicou a Súmula n. 283/STF, porque a parte não apontou a violação do art. 12, VI, da Lei n. 9.656/1998, fundamento da Corte local para limitar o reembolso aqui referido (fl. 1.239).
+Além disso, quanto ao dissídio jurisprudencial, constatou-se a inaptidão das razões recursais (Súmula n. 284/STF), visto que a parte não indicou com clareza os dispositivos legais objeto da interpretação divergente. Além disso, não realizou o adequado cotejo analítico, com a indicação de circunstâncias que assemelhem e identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), uma vez que as razões recursais limitaram-se à transcrição das ementas dos julgados comparados, o que é insuficiente (fls. 1.239-1.240).
+Com relação ao danos morais, à parte embargante não apontou claramente os dispositivos legais violados ou que tiveram sua vigência negada pelo TJPR, motivo pelo qual incide a Súmula n. 284/STF. Confira-se o seguinte trecho da petição recursal (fl. 1.131):
+Diante do acima exposto, acrescido do entendimento jurisprudencial e do grandioso saber jurídico de Vossas Excelências, respeitosamente, requer-se que o presente recurso seja admitido, conhecido e provido para o especial fim de reformar o Venerado Acórdão do Tribunal a quo, estabelecendo o pagamento integral da cirurgia de urgência, com juros de mora e correção monetária, realizado pelo especialista em recessão tumoral Dr. Márcio Moura, especialista indicado pela hospital credenciado da Requerida, devido a falta de médico especialista devidamente credenciado, mediante contrato escrito junto a Recorrida, na área de abrangência do contrato (Cascavel -PR), conforme previsto na Lei Federal ( 9.656, art. 17-A) e demais irregularidade anteriormente demonstrado, cumulado com danos morais, pela falha na prestação de serviço que superou o mero dissabor. (STJ (STJ - Resp. 71.8634-DF e 657717).
+Logo, não há falar em omissão.
+Os demais fundamentos são incompatíveis com a natureza de fundamentação vinculada do recurso declaratório.
+Na verdade, sob o pretexto de ver sanados supostos vícios de fundamentação, a parte traz argumentos referentes ao mérito do recurso, a fim de que ele seja revisto. O fato de não concordar com a conclusão do julgamento não configura negativa de prestação jurisdicional.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
