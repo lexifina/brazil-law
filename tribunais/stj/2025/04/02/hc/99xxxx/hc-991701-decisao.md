@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado de próprio punho por RAIMUNDO JOSÉ DOS REIS FILHO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Autos n. 5001309-23.2025.8.13.0271) .
+Consta da impetração, basicamente, que o "ora paciente encontra-se na iminência de não ver apreciadas as TORTURAS que sofreu, em decorrência das "ordens" emanadas pelo Juiz de Direito "Gustavo Moreira"; Isto porque o Representante do Ministério Público, naquela Comarca, que NUNCA ouviu a "vítima", ora paciente, ao INVEZ DE FAZER O QUE MANDA A LEI, optou por pedir o arquivamento da Ação Penal, em completo DESACORDO com o Ordenamento vigente  .. " (e-STJ fl. 3).
+Ao final, requer (e-STJ fls. 6/7):
+a - Se digne esta Corte Superior, em "Declarar" a INCOMPETENCIA do Juízo Criminal da Comarca de Frutal / MG, para julgar o caso, conforme disposto na CF / 88, vez que, envolve "diretamente" Juiz de Direito;
+b - Seja liminarmente "Reconhecido" a SUSPEIÇÃO do Juízo Processante, conforme os Arts. 254 e 274 do CPP, vez que, o Magistrado e a Escrivã, que conduzem o Feito, estão respondendo Processos (Criminais / Administrativos) movidos por este Advogado, então "vítima", e ora paciente;
+c - Seja "Declarado" a NULIDADE do Feito, quer seja pela OMISSÃO do Ministério Público, conforme (JÁ) Certificado pelo Judiciário; quer seja pelo DESACATO ao Comandos Legais (e "Resolução" do Conselho Nacional de Justiça..) quer seja pelos ABUSOS do Juízo Processante;
+d - Seja "Oficiado" a Procuradoria Geral de Justiça, do Estado de Minas Gerais, para conhecimento da conduta "abusiva", dos Representantes do MPMG, em Frutal / MG, que além de DESOBEDECER Ordens Judiciais (e Ofícios: da PGJ..), e de se "omitirem" diante dos fatos; também estão agindo apenas e tão somente, em perseguição e represália, contra este Advogado, ora paciente, pois estão, Advogando Administrativamente em favor de Servidores Públicos lotados em Frutal / MG, e usando deste Processo, para ATENTAR contra os direitos e garantias (profissionais..) deste Advogado, então "vitima" e ora paciente;
+Requer (INSISTE..) ainda, que seja "observado" o que DETERMINA o Art. 6 da Resolução 414 / 2021, e a Recomendação 123 / 2022, ambas do Conselho Nacional de Justiça, e o disposto no Decreto 678 / 92 (que "promulgou" a CIDH..) vez que, o caso em apreço, envolve "torturas" sofridas pelo paciente, comprovadamente "ordenadas" pelo Juiz de Direito, então Acusado, na presente Ação Penal;
+Seja "Oficiado" o Supremo Tribunal Federal, para REGISTRO do presente (Habeas Corpus, contra as TORTURAS ordenadas pelo Juiz "Gustavo Moreira"..) junto aos Autos do HC 181.918 / MG;
+Seja "Oficiado" o Conselho Nacional de Justiça, para REGISTRO do presente (Habeas Corpus, contra as TORTURAS ordenadas pelo Juiz "Gustavo Moreira"..) junto aos Autos 0008772 - 49 2018 2 00 0000;
+Insiste também, para que seja "Notificado" a Ordem dos Advogados do Brasil, para manifestação acerca dos fatos, em especial das TORTURAS sofridas por este Advogado, (por causa de suas atividades profissionais..) e principalmente para promover o que DETERMINA o Art. 44, II da Lei 8,906 / 94, senão para cumprir o Ofício / CNJ: 3337435 / 2018, sob pena de NULIDADE do Feito;
+Seja "Oficiado" a Corte Interamericana de Direitos Humanos, para registro dessas TORTURAS sofridas pelo paciente (e "ordenadas" pelo referido Juiz de Direito, então Acusado..), junto aos Autos: P - 725 - 21;
+Seja "Oficiado" o Tribunal Penal Internacional, para registro dessas TORTURAS sofridas pelo paciente (e "ordenadas" pelo referido Juiz de Direito, então Acusada..), junto aos Autos: OTP / CR - 134 / 2023;
+Seja "afastado" os efeitos da Sumula 691 do Supremo Tribunal Federal, vez que, o Tribunal de Justiça de Minas Gerais, tem pleno conhecimento dos fatos, mas RECUSA a tomar qualquer providencia;
+Por fim, seja garantido ao paciente, as prioridades (Processuais..) DETERMINADAS pelo Art. 9º, VII da Lei 13146 / 15, e pelo Art. 12, IV da Resolução 401 / 2021 do Conselho Nacional de Justiça, vez que, está nesta condição, em decorrência das TORTURAS sofridas, então objeto e "causa de pedir" em apreço;
+É, em síntese, o relatório.
+Decido.
+Não obstante as razões declinadas, o impetrante não instruiu os autos, pois neles consta somente a petição inicial e o ato coator de e-STJ fl. 8, o que, a toda evidência, impede o exame da tese suscitada.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC n. 48.939/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015.)
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
