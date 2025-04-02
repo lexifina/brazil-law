@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS GABRIEL BORGES DA SILVA contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Habeas Corpus n. 2206725-84.2023.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante em razão de suposta infração ao art. 33, caput, da Lei n. 11.343/2006.
+Contra a decisão que converteu a prisão em flagrante em prisão preventiva, o paciente impetrou habeas corpus no Tribunal local, que concedeu parcialmente a ordem para deferir o benefício da liberdade provisória, mediante a aplicação de medidas cautelares diversas da prisão.
+Daí o presente writ, em que a defesa sustenta a ocorrência da nulidade da busca pessoal em razão da violação ao art. 240, § 2º, do Código de Processo Penal. No ponto, assevera que "os policiais que realizaram a busca pessoal no paciente não apresentaram qualquer dado concreto capaz de indicar a existência de fundada suspeita de que o mesmo estivesse portando substâncias ilícitas".
+Requer a concessão da ordem para "reconhecer a violação ao art. 240, §2º, do Código de Processo Penal, e, com isso declarar nula a busca pessoal realizada, com o consequente reconhecimento da ilegalidade das provas e seu desentranhamento dos autos, nos termos do art. 157 do Código de Processo Penal e, como corolário lógico, a absolvição do réu por ausência de provas, nos termos do art. 386, VII, do Código de Processo Penal e consequente trancamento da ação penal originária."
+Foram solicitadas informações (fl. 127).
+O Ministério Público Federal emitiu parecer opinando pelo não conhecimento do habeas corpus e, se conhecido, pela denegação da ordem (fls. 159-164).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível nulidade da busca pessoal em razão da violação ao art. 240, § 2º, do Código de Processo Penal.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, constato a partir da leitura do acórdão impugnado que os policiais militares, ao receberem denúncia anônima de que um indivíduo praticava a traficância em um bar, dirigiram-se ao estabelecimento e encontraram o paciente com as exatas características informadas, momento em que o paciente, ao perceber a aproximação da viatura policial, levantou-se rapidamente com a intenção de se evadir do local, o que ensejou a busca pessoal e o encontro das drogas.
+Portanto, sendo estas as premissas fáticas da origem, concluo a busca pessoal foi justificada, de modo que não há constrangimento ilegal a se reconhecido neste habeas corpus.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. In timem-se.
+EMENTA
