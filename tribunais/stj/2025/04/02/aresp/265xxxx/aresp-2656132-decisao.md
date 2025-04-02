@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo da NEOSOLAR ENERGIA LTDA da decisão que inadmitiu recurso especial, interposto com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fls. 301/302):
+AÇÃO DE MANDADO DE SEGURANÇA - TRIBUTÁRIO - PIS E COFINS - MUDANÇA DE REGIME DE TRIBUTAÇÃO DE LUCRO PRESUMIDO (CUMULATIVO) PARA LUCRO REAL (NÃO CUMULATIVO) - ESTOQUE DE ABERTURA - BENS IMPORTADOS - CREDITAMENTO : IMPOSSIBILIDADE, POIS A NORMA, PARA A OPERAÇÃO EM CENA, ART. 11, LEI 10.637/2002, E ART. 12, LEI 10.833/2003, FRANQUEIA O CRÉDITO APENAS PARA OS PRODUTOS ADQUIRIDOS DE PESSOA JURÍDICA DOMICILIADA NO PAÍS - ESTRITA LEGALIDADE TRIBUTÁRIA - DESCABIMENTO DE ALARGAMENTO PELO JUDICIÁRIO - DENEGAÇÃO DA SEGURANÇA - IMPROVIMENTO À APELAÇÃO CONTRIBUINTE
+1 - Importante registrar que o regime do PIS e da COFINS não tem correlação com a não cumulatividade inerente ao ICMS e ao IPI, pois, quanto a estes dois últimos tributos, a própria Constituição Federal prevê a possibilidade de compensação com o montante cobrado nas operações anteriores, arts. 153, § 3º, II, e 155, II, § 2º, I.
+2 - A Lei Maior, relativamente ao PIS e à COFINS, delegou ao legislador infraconstitucional quais contribuições seriam não cumulativas, § 12 do art. 195.
+3 - As Leis 10.637/2002 (PIS) e 10.833/2003 (COFINS) foram editadas com a finalidade de tratar da não cumulatividade dos tributos enfocados, cujos artigos 11 e 12, respectivamente, autorizaram desconto específico para o estoque de abertura, quando da mudança de regime de tributação, expressamente delimitando a benesse aos bens adquiridos de "pessoa jurídica domiciliada no País".
+4 - Vaticina a Suprema Corte "que é inviável ao Poder Judiciário, com fundamento em ofensa ao princípio da isonomia, afastar limitação para concessão de benesse fiscal, de sorte a alcançar contribuinte não contemplado na legislação aplicável, ou criar situação mais favorável ao contribuinte, a partir da combinação - legalmente não permitida - de normas infraconstitucionais, sob pena de agir na condição anômala de legislador positivo" RE 742352 AgR, Relator Ricardo Lewandowski, Segunda Turma, julgado em 05/08/2014, processo eletrônico D Je-157 DIVULG 14-08-2014 PUBLIC 15-08-2014.
+5 - Inoponível o art. 15 da Lei 10.865/2004, porque não trata, especificamente, do estoque de abertura sob o flanco da mudança de regime de lucro presumido e cumulativo para o lucro real e não cumulativo, por isso incide a regra especial das Leis 10.637 e 10.833.
+6 - Ausentes honorários recursais, por indevidos desde o Primeiro Grau, E Dcl no AgInt no R Esp 1573573/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 04/04/2017, D Je 08/05/2017.
+7 - Improvimento à apelação. Denegação da segurança.
+Nas razões de recurso (e-STJ fls. 322/334), a recorrente aponta violação dos arts. 2º, 3º e 11 da Lei n. 10.637/2002, dos arts 2º, 3º e 12 da Lei n. 10.833/2003 e do art. 15 da Lei n. 10.865/2004. Em síntese, busca o direito ao crédito de PIS e COFINS sobre os estoques remanescentes de mercadorias importadas - estoque de abertura - quando da mudança do regime de apuração do lucro presumido para o lucro real (e-STJ fl. 334).
+As contrarrazões foram oferecidas às e-STJ fls. 368/370.
+O recurso foi admitido à e-STJ fl. 376/381.
+O Ministério Público Federal opinou pela não intervenção (e-STJ fls. 468/470).
+Passo a decidir.
+O recurso especial teve origem em mandado de segurança impetrado pela ora recorrente objetivando o direito a créditos presumidos de PIS e COFINS, atinentes a estoque de abertura consistentes em bens adquiridos no exterior, tendo migrado da tributação pelo lucro presumido e da cumulatividade, para o regime do lucro real e da não cumulatividade.
+A ordem foi denegada em primeiro grau de jurisdição.
+O Tribunal de origem negou provimento ao recurso de apelação. Destaco os fundamentos do voto condutor do acórdão (e-STJ fl. 299 ):
+De fato, importante registrar que o regime do PIS e da COFINS não tem correlação com a não cumulatividade inerente ao ICMS e ao IPI, pois, quanto a estes dois últimos tributos, a própria Constituição Federal prevê a possibilidade de compensação com o montante cobrado nas operações anteriores, arts. 153, § 3º, II, e 155, II, § 2º, I.
+Por outro lado, a Lei Maior, relativamente ao PIS e à COFINS, delegou ao legislador infraconstitucional quais contribuições seriam não cumulativas, § 12 do art. 195.
+Neste passo, as Leis 10.637/2002 (PIS) e 10.833/2003 (COFINS) foram editadas com a finalidade de tratar da não cumulatividade dos tributos enfocados, cujos artigos 11 e 12, respectivamente, autorizaram desconto específico para o estoque de abertura, quando da mudança de regime de tributação, expressamente delimitando a benesse aos bens adquiridos de "pessoa jurídica domiciliada no País":
+ ..
+Em tal contexto, vaticina a Suprema Corte "que é inviável ao Poder Judiciário, com fundamento em ofensa ao princípio da isonomia, afastar limitação para concessão de benesse fiscal, de sorte a alcançar contribuinte não contemplado na legislação aplicável, ou criar situação mais favorável ao contribuinte, a partir da combinação - legalmente não permitida - de normas infraconstitucionais, sob pena de agir na condição anômala de legislador positivo" RE 742352 AgR, Relator Ricardo Lewandowski, Segunda Turma, julgado em 05/08/2014, processo eletrônico D Je-157 DIVULG 14-08-2014 PUBLIC 15-08-2014.
+Portanto, inoponível o art. 15 da Lei 10.865/2004, porque não trata, especificamente, do estoque de abertura sob o flanco da mudança de regime de lucro presumido e cumulativo para o lucro real e não cumulativo, por isso incide a regra especial das Leis 10.637 e 10.833 :
+ ..
+Ausentes honorários recursais, por indevidos desde o Primeiro Grau, E Dcl no AgInt no R Esp 1573573/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 04/04/2017, D Je 08/05/2017.
+Por conseguinte, em âmbito de prequestionamento, refutados se põem os demais ditames legais invocados em polo vencido, art. 150, II, CF, Decreto 1.355/1994, art. 98, CTN, que objetivamente a não socorrerem, com seu teor e consoante este julgamento, ao mencionado polo (artigo 93, IX, CF).
+Ante o exposto, tudo na forma retro pelo improvimento à apelação, estabelecida.
+Pois bem.
+O recurso não merece prosperar.
+Não compete ao STJ rever julgado que resolveu a controvérsia com enfoque constitucional (no caso dos autos, o acórdão teve por fundamento o princípio da isonomia tributária).
+Sobre a questão, destaco:
+TRIBUTÁRIO. FUNRURAL. PRODUTOR RURAL PESSOA FÍSICA. AUSÊNCIA DE EMPREGADOS. INCONSTITUCIONALIDADE DE DISPOSITIVOS DA LEI 8212/91. CONTROVÉRSIA RESOLVIDA COM AMPARO EM FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NO ÂMBITO DO RECURSO ESPECIAL. REVISÃO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+1. Hipótese em que o Tribunal a quo entendeu que a declaração de inconstitucionalidade do art. 1º da Lei 8.540/92 (dando nova redação aos arts. 12, V; 25, I e II; e 30, IV, da Lei 8.212/91), levada a efeito pelo STF nos autos do RE 362.852/MG, não alcança os segurados especiais, tampouco aqueles produtores rurais autônomos sem empregados. Sendo assim, consignou que o produtor rural sem empregados e não enquadrado como segurado especial está obrigado a recolher o tributo nos termos do art. 12, V, "a", da Lei 8.212/91.
+2. A questão controvertida trata de matéria eminentemente constitucional, qual seja a declaração de inconstitucionalidade do art. 1º da Lei 8.540/1992, que deu nova redação aos arts. 12, V e VII, 25, I e II, e 30, IV, da Lei 8.121/1991 e tornou inexigível a contribuição incidente sobre a receita bruta proveniente da comercialização da produção rural de empregadores pessoas físicas. Assim, é inviável sua apreciação em Recurso Especial, sob pena de violação da competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+ ..
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.420.480/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/04/2014, DJe 15/04/2014).
+PROCESSUAL CIVIL. TRIBUTÁRIO. FUNRURAL. INEXIGIBILIDADE RESTRITA AO EMPREGADOR RURAL PESSOA FÍSICA. EXAÇÃO DEVIDA PELO SEGURADO ESPECIAL. ACÓRDÃO EMBASADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INADEQUAÇÃO DA VIA ESPECIAL. ENQUADRAMENTO DO CONTRIBUINTE. SÚMULA 7/STJ.
+1. Insurge-se a recorrente contra acórdão no qual o Tribunal de origem decidiu que a inconstitucionalidade da contribuição denominada Funrural aproveita somente aos contribuintes individuais pessoas físicas com empregados e, assim, a recorrente apenas obteria a anulação de seus débitos se comprovasse que todos os valores lançados pelo Fisco se referem a operações de compra e venda realizada com empregados rurais.
+2. Observa-se que o acórdão recorrido solucionou a controvérsia sob o enfoque eminentemente constitucional, o que enseja a incompetência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+3. Se atualmente a inexigibilidade da contribuição restringe-se ao empregador rural pessoa física e tendo a Corte de origem consignado que o autor não fez prova de tal condição, a modificação do julgado em sede de recurso especial encontra óbice nos preceitos da Súmula 7/STJ.
+4. O reconhecimento da repercussão geral pela Suprema Corte não enseja o sobrestamento do julgamento dos recursos especiais que tramitam neste Superior Tribunal de Justiça.
+Agravo regimental improvido.
+(AgRg no REsp 1.428.728/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/09/2015, DJe 23/09/2015).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
