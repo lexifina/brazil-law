@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 434-436) opostos por BANCO DO NORDESTE DO BRASIL S. A. à decisão desta relatoria que deu "provimento recurso para transferir o termo inicial dos juros de mora para a data do trânsito em julgado, 20/04/2017,  .. " (fls. 426-430).
+A parte embargante, sob o fundamento de omissão, pleiteia a condenação "dos recorridos/embargados ao pagamento de honorários advocatícios, no percentual de 20% - mesmo percentual arbitrado em favor destes, na origem - sobre o valor excedente" (fl. 436).
+Impugnação apresentada (fls. 442-445).
+Os embargos de declaração opostos por ROBERTO FERNANDO VASCONCELOS ALVES, DANIELLA RONCONI e VALDISIO VASCONCELOS DE LACERDA FILHO (fls. 446-459) serão apreciados em apartado.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Houve omissão na decisão embargada quanto aos honorários advocatícios, pois, embora a decisão agravada na origem (fls. 9-10) não tenha contemplado honorários de sucumbência, eles são devidos como consequência do provimento do recurso especial, pois a impugnação ao cumprimento de sentença, que havia sido rejeitada, passou a ser acolhida.
+O cabimento de honorários advocatícios na hipótese de acolhimento da impugnação ao cumprimento de sentença foi enunciado pelo STJ, na vigência do CPC/1973, na seguinte tese de recurso repetitivo:
+Tema Repetitivo n. 410/STJ - O acolhimento ainda que parcial da impugnação gerará o arbitramento dos honorários, que serão fixados nos termos do art. 20, § 4º, do CPC, do mesmo modo que o acolhimento parcial da exceção de pré-executividade, porquanto, nessa hipótese, há extinção também parcial da execução.
+Na vigência do CPC/2015, esse entendimento continuou a ser aplicado, com exceção do critério de arbitramento dos honorários, que passou da equidade para o proveito econômico, por força do art. 85, § 2º, do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TÍTULO EXECUTIVO JUDICIAL. COISA JULGADA. ALTERAÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. REDUÇÃO DO VALOR EXECUTADO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. AGRAVO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Com o trânsito em julgado da sentença, os litigantes ficam adstritos aos limites impostos pelo título judicial e não podem rediscutir o que não está assegurado na condenação na fase de cumprimento, sob pena de ofensa à coisa julgada.
+2. A Corte de origem consignou que não houve erro material ou omissão na sentença exequenda e que o título executivo judicial é claro quanto à base de cálculo dos honorários advocatícios a serem pagos por ambas as partes. A revisão desse entendimento exigiria o reexame da matéria fática, inviável em recurso especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, no caso de acolhimento da impugnação do cumprimento de sentença, ainda que parcial, é cabível o arbitramento de honorários advocatícios em benefício do executado. Entendimento consolidado pela Corte Especial no julgamento do Recurso Especial Repetitivo 1.134.186/RS.
+4. No caso em tela, o reconhecimento do excesso de execução em sede de impugnação do cumprimento de sentença resultou na redução da quantia a ser executada, de modo que o executado faz jus à fixação de honorários advocatícios em seu favor, fixados em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial.
+(AgInt no AREsp n. 1.724.132/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/4/2021, DJe de 24/5/2021 - grifei.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DE INDENIZAÇÃO POR DANOS MORAIS. TRANSAÇÃO HOMOLOGADA JUDICIALMENTE. FASE DE CUMPRIMENTO DE SENTENÇA. ACOLHIMENTO PARCIAL DA IMPUGNAÇÃO. REDUÇÃO DO VALOR EXECUTADO. SUCUMBÊNCIA DA PARTE EXEQUENTE. CONFIGURAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA FIXADOS NA DECISÃO AGRAVADA. NECESSIDADE.
+1. Ação de obrigação de fazer c/c de indenização por danos morais, na qual houve transação homologada judicialmente, atualmente em fase de cumprimento de sentença.
+2. Conforme a jurisprudência desta Corte, a fixação dos honorários em favor dos advogados da parte executada/impugnante é possível quando o acolhimento da impugnação ao cumprimento de sentença, ainda que parcial, resultar na extinção do procedimento executivo ou na redução do montante executado.
+3. No particular, o provimento do recurso pela decisão agravada, com o acolhimento parcial da impugnação ao cumprimento de sentença apresentada pela agravante (executada) resultou na redução da quantia executada, de modo que devem ser fixados honorários em favor dos seus advogados, fixados em percentual sobre o valor decotado, o qual correspondente ao proveito econômico obtido pela agravante, nos termos do art. 85, § 2º, do CPC. Precedentes.
+4. Agravo interno parcialmente provido, tão somente para redistribuir os ônus sucumbenciais, condenando apenas os exequentes (agravados) ao pagamento de custas e honorários advocatícios de sucumbência, fixados em 10% sobre o proveito econômico obtido pela executada (agravante).
+(AgInt no REsp n. 2.166.578/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/12/2024, DJEN de 19/12/2024.)
+Assim sendo, torna-se necessário sanar a omissão apontada, arbitrando honorários advocatícios em favor do banco executado.
+Ante exposto, ACOLHO os embargos de declaração, com efeitos modificativos, para condenar os exequentes a pagarem ao banco executado honorários advocatícios, os quais arbitro em 20% (vinte por cento) sobre o valor abatido do pedido de cumprimento de sentença.
+Sobre esse valor, incidirá correção monetária pelo IPCA desde a data do pedido de cumprimento de sentença até à data do trânsito em julgado da impugnação que deu origem ao presente recurso, incidindo, partir de então, a taxa SELIC, isoladamente, nos termos da Lei n. 14.905/2024.
+Publique-se e intimem-se.
+EMENTA
