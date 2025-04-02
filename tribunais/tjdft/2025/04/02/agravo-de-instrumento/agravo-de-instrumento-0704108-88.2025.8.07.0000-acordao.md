@@ -1,0 +1,188 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0704108-88.2025.8.07.0000AGRAVANTE(S)NOVACAP COMPANHIA URBANIZADORA DA NOVA CAPITAL e PROCURADORIA GERAL DO DISTRITO FEDERALAGRAVADO(S)CLEONILDA PEREIRA BRAGARelatorDesembargador RENATO RODOVALHO SCUSSEL
+ Acórdão Nº1987627
+
+EMENTA
+
+ DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. REJEIÇÃO DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INCIDÊNCIA DA SÚMULA 519 DO STJ. RECURSO PROVIDO.
+
+I. CASO EM EXAME
+
+1.     Agravo de instrumento interposto contra decisão que fixou honorários advocatícios em desfavor da Fazenda Pública, sob a alegação de rejeição da impugnação ao cumprimento de sentença. A agravante sustentou a inaplicabilidade de honorários advocatícios na fase de cumprimento de sentença contra a Fazenda Pública e a ausência de derrota em sua impugnação.
+
+II. QUESTÃO EM DISCUSSÃO
+
+2.     A questão em discussão envolve:
+
+(i)    a aplicabilidade do art. 85, § 7º, do CPC ao cumprimento de sentença submetido ao regime de precatórios;
+
+(ii)   a inaplicabilidade do Tema 1.190 do STJ ao caso concreto, considerando a modulação de efeitos fixada no julgamento do precedente vinculante;
+
+(iii)  verificar se é cabível a condenação em honorários advocatícios na hipótese de rejeição da impugnação ao cumprimento de sentença, e se houve desrespeito à súmula 519 do STJ.
+
+III. RAZÕES DE DECIDIR
+
+3.     O cumprimento de sentença está submetido ao regime de precatórios, sendo aplicável o § 7º do art. 85 do CPC, que dispensa o pagamento de honorários advocatícios contra a fazenda pública.
+
+4.     O Tema 1.190 do STJ não se aplica ao caso, pois refere-se ao regime de Requisição de Pequeno Valor (RPV), e o presente feito trata de precatório e a modulação de efeitos do precedente vinculante restringe sua aplicação aos cumprimentos de sentença iniciados após 01/07/2024, enquanto o cumprimento em análise teve início em 07/10/2022.
+
+5.     A jurisprudência consolidada do STJ, representada pela Súmula 519, estabelece que, em caso de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios.
+
+6.     Os artigos 926 e 927 do CPC determinam que os tribunais devem uniformizar a jurisprudência e observar os enunciados das súmulas do STJ em matéria infraconstitucional, com vistas à estabilidade, integridade e coerência das decisões judiciais.
+
+7.     Precedentes desta Turma e do STJ corroboram a impossibilidade de fixação de honorários advocatícios em decisão que rejeita a impugnação ao cumprimento de sentença, reforçando o dever de respeito à jurisprudência consolidada.
+
+IV. DISPOSITIVO E TESE
+
+8.     Recurso provido.
+
+Tese de julgamento: 1. Não cabe a condenação em honorários advocatícios na hipótese de rejeição da impugnação ao cumprimento de sentença, conforme a Súmula 519 do STJ. 2. No cumprimento de sentença contra a Fazenda Pública submetido ao regime de precatórios, não há fixação de honorários advocatícios, nos termos do art. 85, § 7º, do CPC.
+
+Dispositivos relevantes citados: CPC, arts. 926 e 927, IV; STJ, Súmula 519; Tema 1.190 do STJ.
+
+Jurisprudência relevante citada: Acórdão 1771642, 0766621-83.2021.8.07.0016, Relator(a): Álvaro Ciarlini, 2ª Turma Cível, j. 11/10/2023; Acórdão 1836935, 0738902-09.2023.8.07.0000, Relator(a): Fernando Tavernard, 2ª Turma Cível, j. 20/03/2024.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, RENATO RODOVALHO SCUSSEL - Relator, FERNANDO ANTONIO TAVERNARD LIMA - 1º Vogal e JOAO EGMONT - 2º Vogal, sob a Presidência do Senhor Desembargador HECTOR VALVERDE SANTANNA, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Abril de 2025
+
+Desembargador RENATO RODOVALHO SCUSSELRelator
+
+RELATÓRIO
+
+Trata-se de Agravo de Instrumento interposto pela CIA URBANIZADORA DA NOVA CAPITAL DO BRASIL – NOVACAP visando reformar a decisão ID origem 221227575, proferida pelo Juízo da Vara de Meio Ambiente, Desenvolvimento Urbano e Fundiário do DF, nos autos de cumprimento de sentença 0715930-25.2022.8.07.0018 ajuizado pela parte agravada CLEONILDA PEREIRA BRAGA.
+
+Na origem, trata-se de cumprimento de sentença cujo objeto é a execução de título judicial originário da ação 0046026-37.2003.8.07.0016, que condenou o agravante ao pagamento de indenização à parte agravada decorrente de desapropriação indireta de imóvel que esta tinha parcial titularidade.
+
+O juiz de primeiro grau fixou honorários advocatícios em desfavor da agravante, no importe de 10% sobre o valor da causa em razão do não acolhimento da impugnação ao cumprimento de sentença (ID origem 221227575):
+
+Ante o princípio da causalidade e em observação ao § 1º, do art. 523 e § 2º, do art. 85, ambos do Código de Processo Civil, fixo honorários advocatícios devidos pela executada no importe de 10% (dez por cento) sobre o valor atualizado da causa.
+
+Diante da referida decisão, a parte agravante apresentou o presente agravo de instrumento (ID 68545218), no qual alega que, por se tratar de cumprimento de sentença submetido ao regime de precatórios, não se faculta o pagamento voluntário da obrigação, de modo que não deu causa à instauração da fase executiva da dívida, de acordo com o princípio da causalidade.
+
+Aduz que a decisão agravada contraria o previsto no art. 85, §7º, do CPC: não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada. Alega, ainda, que a decisão contraria o entendimento firmado pelo STJ no Tema Repetitivo 1.190.
+
+Argumenta que o Tema Repetitivo nº 408 consolidou o entendimento que “não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença”.
+
+Sustenta que obteve êxito em sua impugnação, e só a ofereceu porque a parte agravada requereu o processamento da execução por rito processual inadequado, o que demandou uma atuação adicional dos procuradores, fato que justifica o pagamento de honorários aos Procuradores do GDF.
+
+Por fim, requer a reforma da decisão agravada para que a parte contrária seja condenada em honorários advocatícios ou que se afaste os honorários a que fora condenada em primeiro grau.
+
+Preparo juntado (ID 68545219).
+
+A parte agravada apresentou contrarrazões pugnando pelo não provimento do recurso (ID 69432198).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - Relator
+
+Conheço o recurso, pois estão presentes os requisitos de admissibilidade.
+
+A controvérsia recursal centra-se na condenação da agravante ao pagamento de honorários advocatícios após não acolhimento de sua impugnação ao cumprimento de sentença.
+
+A agravante argumenta que não são devidos honorários no cumprimento de sentença contra a Fazenda Pública. Aduz que a natureza vinculante da superveniente decisão sobre precatórios pela ADPF 949-STF não desqualifica seu trabalho advocatício realizado.
+
+Em análise ao processo de origem, verifica-se que a decisão recorrida (ID origem 221227575) fixou honorários advocatícios em desfavor da parte agravante no importe de 10% sobre o valor atualizado da causa.
+
+O caso em análise está submetido ao regime de precatórios, de modo que não se aplica a regra do § 1º do art. 85, mas se aplica o previsto no § 7º do art. 85 do Código de Processo Civil - CPC (não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada).
+
+Outrossim, não se aplica o Tema 1.190 do STJ por dois motivos: 1) o cumprimento de sentença em análise está submetido ao regime de Precatórios e não ao regime da Requisição de Pequeno Valor – RPV; e 2) o cumprimento de sentença foi iniciado em 07 de outubro de 2022 (ID origem 137795524) e, no julgamento do precedente vinculante, houve modulação de efeitos para ser aplicado somente aos cumprimentos de sentença iniciados a partir da publicação de seu acórdão, em 01 de julho de 2024.
+
+Sobre o exposto, colaciono os seguintes julgados:
+
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. OMISSÃO. VÍCIO ELENCADO NO ART. 1.022 DO CPC. INEXISTÊNCIA. INCONFORMISMO. REEXAME DA MATÉRIA. NÃO CABIMENTO. PREQUESTIONAMENTO. ART. 1.025 DO CPC.  EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+
+1. É possível a oposição de embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento, e corrigir erro material eventualmente verificado no decisum (art. 1.022 do CPC).
+
+2. A omissão ensejadora dos embargos de declaração caracteriza-se pela ausência de necessário pronunciamento, pelo julgador (quer monocrático, quer colegiado), a respeito de questões indispensáveis para a solução da lide. Não se confunde, assim, com eventual acolhimento ou rejeição da pretensão posta em juízo, em virtude de o posicionamento adotado ser contrário aos interesses das partes.
+
+3. Conforme entendimento do STJ, o art. 85, § 7º, do CPC, isenta a Fazenda Pública do pagamento de honorários advocatícios apenas em casos de precatórios, sendo inaplicável ao regime de Requisição de Pequeno Valor (RPV). 3.1 Não há que se falar de afetação pelo Tema Repetitivo n. 1.190, porquanto a suspensão do processamento dos recursos é relativa apenas aos Recursos Especiais e Agravos em Recursos Especiais na segunda instância e/ou no Superior Tribunal de Justiça, não afetando o trâmite do presente agravo de instrumento.
+
+4. Inexiste o vício de omissão apontado nos embargos de declaração quanto à não análise do disposto no art. 1º-D da Lei n. 9.494/97 se o embargante não se insurgiu na via adequada e em momento processual próprio sobre o ponto, qual seja, quando da interposição do recurso de agravo de instrumento. Incabível inovação recursal em embargos de declaração.
+
+5. O mero inconformismo da parte com os fundamentos jurídicos adotados no acórdão embargado não se ajusta à finalidade integrativo-retificadora e complementar dos embargos de declaração.
+
+6. Conforme previsão do art. 1.025 do CPC, a oposição de embargos de declaração pela parte, com observância dos limites previstos no art. 1.022 do CPC, já se mostra hábil a indicar o prequestionamento necessário para a viabilidade dos recursos especial e extraordinário.
+
+7. Embargos de declaração conhecidos e rejeitados.
+
+(Acórdão 1933076, 0749285-46.2023.8.07.0000, Relator(a): DIVA LUCY DE FARIA PEREIRA, 1ª TURMA CÍVEL, data de julgamento: 09/10/2024, publicado no DJe: 22/10/2024. - grifo nosso).
+
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL – INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA. EXIGIBILIDADE DE OBRIGAÇÃO DE PAGAR. REQUISIÇÃO DE PEQUENO VALOR (RPV). INEXISTÊNCIA DE IMPUNGAÇÃO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA CONTRA A FAZENDA PÚBLICA. TEMA Nº 1.190/STJ. MODULAÇÃO DOS EFEITOS. EMBARGOS DESPROVIDOS.
+
+1. Os embargos de declaração têm por finalidade eliminar eventual obscuridade, contradição, omissão ou a correção de erro material existente no julgado (art. 1.022 do CPC).
+
+2. A despeito da ausência de omissão quanto à fixação de honorários advocatícios sucumbenciais na fase de cumprimento de sentença contra a Fazenda Pública, ainda que sem impugnação, ressalta-se que o c. Superior Tribunal de Justiça firmou a seguinte tese no julgamento dos REsp 2.029.636-SP, REsp 2.029.675-SP, REsp 2.030.855-SP e REsp 2.031.118-SP, sob o rito dos recursos repetitivos (Tema nº 1.190): “Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor – RPV”. 2.1. Modulou-se efeitos da aplicação do referido precedente vinculante para os cumprimentos de sentença iniciados após a publicação do acórdão, que ocorreu em 01/07/2024. 2.2. Portanto, o referido julgado não se aplica ao cumprimento de sentença que originou o agravo de instrumento, tendo em vista que teve início em 29/11/2023.
+
+3. A rediscussão no que tange à interpretação jurídica do julgamento deve ser suscitada através de recurso próprio, ou seja, a divergência de interpretação sobre determinada situação fática, norma ou jurisprudência constitui contradição externa, que não pode ser impugnada por meio de embargos de declaração.
+
+4. EMBARGOS CONHECIDOS E DESPROVIDOS.
+
+(Acórdão 1923961, 0701880-77.2024.8.07.0000, Relator(a): ROBSON BARBOSA DE AZEVEDO, 7ª TURMA CÍVEL, data de julgamento: 18/09/2024, publicado no DJe: 30/09/2024. - grifo nosso).
+
+Ademais, o CPC preconiza, em seu artigo 926, que “os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente”.
+
+De igual modo, o artigo 927, inciso IV, do mesmo diploma legal dispõe sobre o dever de os juízes e tribunais observarem os enunciados das súmulas do STF em matéria constitucional e do STJ em matéria infraconstitucional, sendo esta última hipótese aplicada ao caso em análise.
+
+Há, inclusive, precedente desta Turma reconhecendo o caráter imperativo em acatar os enunciados de súmulas dos tribunais superiores:
+
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. DESNECESSIDADE DE ENFRENTAMENTO DE TODAS AS TESES. REQUERIMENTO DE SUSPENSÃO. SUPERVENIÊNCIA DA DECISÃO QUE RECONHECEU A REPERCUSSÃO GERAL DO RECURSO EXTRAORDINÁRIO Nº 1.366.243-SC. TEMA Nº 1.234. DETERMINAÇÃO DE SUSPENSÃO NACIONAL QUE EXPRESSAMENTE NÃO SE APLICA AO PRESENTE CASO. INDEFERIMENTO. DEFENSORIA PÚBLICA. HONORÁRIOS DE ADVOGADO. EMBARGOS DESPROVIDOS.
+
+1. De acordo com o disposto no art. 1022 do Código de Processo Civil os embargos de declaração têm por objetivo o esclarecimento de obscuridade, a eliminação de contradição, a supressão de omissão e a correção de erro material.
+
+2. Devem ser rejeitados os embargos diante da ausência de constatação das hipóteses previstas no art. 1022 do Código de Processo Civil.
+
+3. No caso em exame, em verdade, a embargante apenas suscitou, genericamente, suposto ponto de omissão no acórdão, pois pretendia o provimento do recurso apenas com a finalidade de prequestionamento.
+
+4. Para efeito de prequestionamento não há a necessidade de indicação, no acórdão, de todos os dispositivos legais destacados pelas partes ou de todas as teses suscitadas, se por outros fundamentos estiver devidamente decidida a controvérsia. 4.1. A regra prevista no art. 1025 do Código de Processo Civil preceitua que devem ser considerados incluídos no acórdão os argumentos articulados pela embargante ainda que os embargos de declaração sejam inadmitidos ou rejeitados.
+
+5. O requerimento referente à suspensão do curso do processo em razão da superveniência do reconhecimento, pelo Excelso Supremo Tribunal Federal, da repercussão geral no RE 1.366.243-SC, representativo do Tema nº 1234, não deve prosperar. 5.1. O Eminente Ministro Gilmar Mendes ao determinar a suspensão nacional dos processos que têm por objeto a mesma controvérsia asseverou que “(omissis) diante da complexidade e sensibilidade do tema, eventual ordem de suspensão do andamento processual nas instâncias ordinárias de todos os feitos sobre a temática poderia ocasionar graves e irreparáveis danos à saúde dos pacientes, de modo que é recomendável apenas a suspensão do processamento dos recursos especiais e extraordinários em que haja discussão sobre a necessidade de inclusão da União no polo passivo da demanda, nos moldes já implementados por esta Corte no tema 1199 da repercussão geral” (RE 1.366.243-SC, Supremo Tribunal Federal, Relator: Ministro Gilmar Mendes, Publicada no DJE: 12/04/2023, fl. 17).
+
+6. A despeito da autonomia administrativa e funcional atribuída à Defensoria Pública, ou da iniciativa de formulação de proposta orçamentária, é inegável que as suas atividades administrativas e institucionais são fomentadas por verbas públicas reservadas pelo próprio orçamento público da unidade da federação que a abriga.
+
+7. Diante da confusão existente entre credor e devedor, não são devidos honorários de advogado em favor da Defensoria Pública do Distrito Federal. Enunciado nº 421 da Súmula do Colendo Superior Tribunal de Justiça.
+
+8.  Convém não olvidar ainda que não existe "cadeia de comando" ou "hierarquia" entre o Supremo Tribunal Federal e o Superior Tribunal de Justiça, e que estamos, todos, submetidos à ordem constitucional em vigor em nosso país, razão pela qual, uma vez que a Colenda Corte Superior deliberou a respeito do tema versado no enunciado nº 421 de sua Súmula, no exercício de sua competência constitucional, devemos acatar a orientação aludida, nos moldes da regra prevista no art. 927, inc. IV, do CPC, expresso em determinar a imperatividade de acatamento dos enunciados das súmulas "do Superior Tribunal de Justiça em matéria infraconstitucional".
+
+9. Embargos de declaração conhecidos e desprovidos.
+
+(Acórdão 1771642, 0766621-83.2021.8.07.0016, Relator(a): ALVARO CIARLINI, 2ª TURMA CÍVEL, data de julgamento: 11/10/2023, publicado no DJe: 31/10/2023. - grifo nosso).
+
+Assim, o cumprimento dos artigos 926 e 927 do CPC reforça o dever dos tribunais de manter uma jurisprudência uniforme e coerente, com o propósito de assegurar a segurança jurídica e a previsibilidade das decisões judiciais. Ao respeitar os enunciados sumulares dos tribunais superiores, especialmente em matéria infraconstitucional, como prevê o artigo 927, inciso IV, evita-se divergências interpretativas que poderiam comprometer a integridade do sistema jurídico.
+
+O STJ, no julgamento do Tema Repetitivo 408, firmou a tese de que “não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença”. A presente tese deu origem à súmula 519 do STJ, com a seguinte redação: na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios.
+
+No presente caso, a aplicação da súmula 519 do STJ ilustra o dever de observância e respeito aos entendimentos consolidados, de forma a garantir que as decisões se mantenham em consonância com a jurisprudência dominante, promovendo maior estabilidade e integridade na prestação jurisdicional.
+
+Esta Turma tem aplicado o entendimento da referida súmula:
+
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. NÃO CABIMENTO DA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA DECISÃO DE REJEIÇÃO À IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRECEDENTES DO STJ. ALTERAÇÃO DA BASE DE CÁLCULO UTILIZADA NA FIXAÇÃO DAS VERBAS DE SUCUMBÊNCIA NA FASE DE CONHECIMENTO. REDISCUSSÃO DO MÉRITO. INADMISSIBILIDADE. RECURSO PARCIALMENTE PROVIDO.
+
+I. A matéria impugnada versa sobre a (im)possibilidade da fixação de honorários advocatícios na decisão de rejeição à impugnação ao cumprimento de sentença e sobre a ocorrência (ou não) de excesso de execução decorrente da base de cálculo utilizada na fixação dos honorários sucumbenciais (valor da causa).
+
+II. De acordo com a Súmula 519 do Superior Tribunal de Justiça não são devidos honorários advocatícios na decisão que rejeita a impugnação ao cumprimento de sentença. Decotada a condenação às verbas de sucumbência fixadas na decisão agravada.
+
+III. Inadmissível a modificação da base de cálculo da verba honorária na fase de cumprimento de sentença, diante da observância dos limites objetivos e amparados pela definitividade (coisa julgada).
+
+IV. Agravo conhecido e parcialmente provido.
+
+(Acórdão 1836935, 0738902-09.2023.8.07.0000, Relator(a): FERNANDO TAVERNARD, 2ª TURMA CÍVEL, data de julgamento: 20/03/2024, publicado no DJe: 03/04/2024. - grifo nosso).
+
+Deste modo, à luz do entendimento consolidado na súmula 519 do STJ, não é possível a condenação em honorários advocatícios na hipótese de rejeição da impugnação ao cumprimento de sentença, tampouco cabem honorários em favor da parte agravante, posto que a impugnação ao cumprimento de sentença não foi acolhida.
+
+Ante o exposto, CONHEÇO O RECURSO e a ele DOU PROVIMENTO para reformar a decisão agrava e afastar a condenação imposta em honorários advocatícios.
+
+É como voto.
+
+O Senhor Desembargador FERNANDO ANTONIO TAVERNARD LIMA - 1º Vogal Com o relatorO Senhor Desembargador JOAO EGMONT - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
