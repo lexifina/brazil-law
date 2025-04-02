@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FABRÍCIO APARECIDO DE LIMA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que, na execução penal, foi indeferido o pedido de remição de pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - Encceja, tendo sido mantida a decisão pelo Tribunal de origem.
+O impetrante sustenta que haveria o direito de cômputo dos dias de estudo referentes à aprovação no Encceja, no ano de 2022.
+Requer, liminarmente e no mérito, o deferimento da remição de pena pela aprovação no Encceja.
+Por meio da decisão de fls. 111-113, o pedido liminar foi indeferido. Em seguida, foram juntadas aos autos as informações prestadas pela origem (fls. 119-126 e 128 -144), bem como a manifestação do Ministério Público Federal, opinando pelo não conhecimento do habeas corpus, com a concessão da ordem de ofício (fls. 149-153).
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer da impetração.
+A existência de flagrante ilegalidade, contudo, autoriza a concessão da ordem pretendida de ofício.
+A Corte de origem manteve a decisão do Juízo da execução penal, que indeferiu o pedido de remição de pena pela aprovação do paciente no Encceja, nos seguintes termos (fls. 12-15, grifo próprio):
+Com a devida "vênia" do entendimento externado pelo d. Preopinante, infere-se que o recurso não vinga.
+De início, convém realçar que, embora não se ignore o louvável propósito voltado à criação do Conselho Nacional de Justiça no âmbito da denominada reforma do Judiciário (deflagrada pela Emenda Constitucional nº. 45/2.004), patente estar o poder regulamentar conferido pelo Constituinte derivado à instituição atrelado, em especial à atividade fiscalizatória para a qual o órgão é vocacionado.
+A propósito, dispõe o artigo 103-B, § 4º, da Carta Maior que "Compete ao Conselho o controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes, cabendo-lhe, além de outras atribuições que lhe forem conferidas pelo Estatuto da Magistratura: I zelar pela autonomia do Poder Judiciário e pelo cumprimento do Estatuto da Magistratura, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências".
+Vale dizer, a despeito da inegável importância de determinadas recomendações emitidas pela entidade, como forma de se definir um "norte comum" na aplicação de questões carentes de regulamentação legal, nítido que as disposições normativas editadas pelo Conselho não dispõem de força cogente, em atenção ao princípio da reserva legal (artigo 5º, II, da Constituição Federal), especialmente diante de matéria jurisdicional pura.
+Noutros termos, no ordenamento pátrio, apenas a lei pode criar ou extinguir direitos e obrigações, ressalvadas pontuais exceções contempladas no próprio texto constitucional diante de atos normativos com "força de lei" e, ainda assim, submetidos ao sistema de freios e contrapesos, mantendo, destarte, a harmonia entre os três poderes.
+Feito o necessário escorço introdutório, importa ponderar que o artigo 126 da Lei de Execução Penal, em face de alteração promovida pela Lei nº. 12.433/2.011, passou a contemplar e regulamentar a possibilidade de remição de pena pelo estudo, antes admitida por construção jurisprudencial.
+Busca-se, destarte, beneficiar o condenado que, empenhado no propósito ressocializador, dedica-se à atividade de estudo ou profissionalizante, otimizando, assim, seu período de expiação, mediante prova de frequência a curso presencial ou à distância.
+Já a Recomendação nº. 44/2013 do Conselho Nacional de Justiça, como o próprio nome sugere, propôs interpretação extensiva das atividades educacionais complementares, por meio da leitura ou aprovação em cursos de proficiência (como o ENEM e o ENCCEJA).
+Embora não se questione a constitucionalidade do ato, trata-se de proposta que, com a devida "vênia", não vincula a atuação jurisdicional, ainda mais em se tratando de abatimento de razoável período de pena (no caso, cento e trinta e três dias, conforme pretensão deduzida via recurso).
+"Como o próprio nome diz, a "norma" editada pelo Conselho Nacional de Justiça consiste em uma recomendação/sugestão e, por razões que me parecem óbvias, não tem efeito vinculante" (TJESP, Agravo em Execução nº. 7000291-60.2018.8.26.0482, Relator Desembargador SÉRGIO COELHO).
+Contudo, na hipótese de aprovação em exame, cabe analisar com parcimônia a importância da certificação, mesmo porque não se dispõe do histórico escolar do sentenciado ou de qualquer documento comprobatório do grau de instrução do recorrente ANTES de ingressar no sistema prisional, daí a impossibilidade de se afirmar que, durante o tempo de encarceramento, tenha ele logrado recuperar período de estudo equivalente à carga horária do ensino médio ou de curso supletivo.
+Veja-se, a respeito, que até mesmo a recomendação de remição de pena pela leitura exige comprovação mínima de aproveitamento intelectual mediante apresentação de resenhas de livros e atestado de leitura, precedida de aprovação por professor, situação a fornecer algum suporte probatório ao desconto de pena.
+A propósito, como bem destacou o Ministério Público em sede de contrarrazões, "Para que haja remição é necessário comprovar o desempenho de atividade de estudo ou trabalho durante o cumprimento da pena, não sendo suficiente mera aferição de conhecimento prévio. No caso em questão, não há qualquer comprovação que o Agravante vinha se dedicando ao estudo direcionado a sua aprovação e nem qualquer fiscalização nesse sentido" (fls. 45).
+Este, também, é o entendimento desta Colenda Câmara, litteris: "Ora, notavelmente, a remição de pena pelo estudo somente ocorre nos casos de atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional, não havendo qualquer menção sobre a simples aprovação no exame ora aduzido. A possibilidade de remição de penas através do estudo decorre de lei, não cabendo ao julgador inovar, ampliar ou equiparar a outras situações quando a própria lei regente não o fez. Da mesma forma não se pode conceder a remição de penas com base em Recomendação do Conselho Nacional de Justiça, já que não há amparo legal para tanto" (Agravo de Execução Penal nº. 7000293-65.2019.8.26.0071, Relator Desembargador MACHADO DE ANDRADE, julgado 1º-08-2019).
+Na hipótese, de qualquer forma, tem-se como não comprovada a aprovação em todas as matérias inerentes ao ENCCEJA, outra situação a obstaculizar o benefício aventado.
+Por todos os motivos esmiuçados e especialmente porque, de fato, ausente previsão legal a amparar o abatimento de pena proposto, incensurável a decisão de primeiro grau.
+À vista do exposto, pelo meu voto, NEGO PROVIMENTO AO RECURSO, mantendo a decisão impugnada.
+O entendimento do acórdão impugnado vai de encontro ao entendimento desta Corte Superior no sentido de que, apesar de inexistir previsão expressa no art. 126 da Lei de Execução Penal (LEP), é possível a remição por aprovação nos exames nacionais, como o Encceja.
+Ademais, deve ser ressaltado que a remição pela aprovação no Encceja não requer a conclusão do ensino médio durante o cumprimento da pena, bem como a aprovação em todas as matérias inerentes a ENCCEJA.
+Com efeito, "o Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP (D Je de 13/11/2023), da Terceira Seção, consolidou entendimento de que é admitida a remição da pena, por aprovação no ENEM ou no Encceja, dos apenados que ingressaram no sistema penitenciário após a conclusão do ensino médio" (AgRg no HC n. 896.787/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. APROVAÇÃO NO ENCCEJA - ENSINO FUNDAMENTAL. POSSIBILIDADE MESMO APÓS CONCLUSÃO DO ENSINO ANTES DA PENA. ORDEM CONCEDIDA DE OFÍCIO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado como substitutivo de recurso especial ou revisão criminal, objetivando reformar acórdão que negou remição de pena ao apenado que, antes do início da execução penal, já havia concluído o ensino fundamental, mas foi aprovado no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) durante o cumprimento da pena.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o habeas corpus pode ser utilizado como substitutivo de recurso próprio ou revisão criminal; (ii) se o apenado tem direito à remição de pena pela aprovação no ENCCEJA, mesmo tendo concluído o ensino fundamental antes do cumprimento da pena.
+III. RAZÕES DE DECIDIR
+3. Conforme entendimento sedimentado no Superior Tribunal de Justiça e no Supremo Tribunal Federal, o habeas corpus não pode ser utilizado como substitutivo de recurso especial ou revisão criminal, exceto em casos de flagrante ilegalidade que configurem constrangimento ilegal, o que autoriza a concessão da ordem de ofício.
+4. A jurisprudência consolidada do STJ, com base na interpretação extensiva do art. 126 da Lei de Execução Penal (LEP) e da Resolução CNJ nº 391/2021, reconhece que a aprovação em exames de certificação como o ENCCEJA é apta a gerar remição de pena, mesmo quando o apenado já possuía o grau de ensino antes do início da execução penal, valorizando o esforço e estudo realizado durante o cumprimento da pena.
+5. No caso concreto, o entendimento do Tribunal de origem, que negou a remição sob o argumento de que o apenado já havia concluído o ensino fundamental antes da execução, está em desacordo com a jurisprudência desta Corte, que admite a remição pela aprovação em exames como o ENCCEJA, independentemente de a certificação já ter sido obtida anteriormente.
+6. O paciente foi aprovado em todas as áreas de conhecimento do ENCCEJA/2022 - Ensino Fundamental, fazendo jus à remição de 133 dias de pena, conforme previsão do art. 126 da LEP.
+IV. DISPOSITIVO E TESE
+7. Habeas corpus não conhecido. Ordem concedida de ofício para cassar o acórdão do Tribunal de origem e restabelecer a decisão do Juízo da execução, que declarou remidos 133 dias da pena do paciente.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso especial ou revisão criminal, salvo em casos de flagrante ilegalidade que configure constrangimento ilegal.
+2. A aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) enseja a remição de pena, mesmo que o apenado já tenha concluído o nível de ensino correspondente antes do cumprimento da pena.
+(HC n. 925.437/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. APROVAÇAO NO ENCCEJA. CONCLUSÃO DO ENSINO MÉDIO ANTES DO ENCARCERAMENTO. REMIÇÃO. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. O fato de o apenado ter concluído o ensino médio antes do início da execução da pena não impossibilita a concessão da remição pelo estudo por conta própria (AgRg no HC n. 762.985/SP, desta Relatoria, DJe de 13/9/2022.).
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 2.069.823/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício para determinar ao Juízo da execução penal que analise o pedido de remição de pena pela aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - Encceja sem considerar como impedimento a ausência de previsão legal, a aprovação total e o eventual fato de o paciente ter concluído o ensino médio antes do início do cumprimento da pena.
+Comunique-se. Publique-se. Intimem-se.
+EMENTA
