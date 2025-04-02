@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de JOAB FREIRE DOS SANTOS contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA no julgamento do Habeas Corpus n. 0804296-43.2023.8.22.0000.
+Consta dos autos que o paciente foi condenado às penas de 02 (dois) anos e 07 (sete) meses de reclusão e ao pagamento de 12 dias-multa pela prática do crime previsto no art. 14 da Lei n. 10.826/2003, e às penas de 06 (seis) anos e 04 (quatro) meses de reclusão e pagamento de 640 dias-multa pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Ao final, foi fixado o regime fechado para início do cumprimento da pena.
+Contra a sentença condenatória, foi impetrado o Habeas Corpus na origem, ocasião em que foi requerida a declaração de nulidade da busca pessoal e de todas as demais provas que dela derivaram com a consequente absolvição do paciente. Subsidiariamente, a defesa requereu a expedição de alvará de soltura ou a imposição de regime inicial de cumprimento de pena menos gravoso.
+O Tribunal local denegou a ordem, mantendo, assim, a sentença condenatória.
+Daí o presente mandamus, no qual a Defesa busca, em suma, o trancamento da ação penal pelo reconhecimento da nulidade da busca pessoal e veicular em razão da ausência de fundadas razões para a abordagem policial, que não poderia ocorrer baseada apenas em suposta denúncia anônima.
+Explica que "a busca pessoal foi absolutamente ilegal, nos termos dos artigos 240, § 2º e 244, do Código de Processo Penal: é óbvio que o simples fato de o paciente estar procurando outra pessoa ou ainda estar nervoso não constitui "fundada suspeita".
+Requer, inclusive liminarmente, reconhecer a nulidade da prova inicial e da condenação, com a imediata liberdade do paciente, tudo a ser confirmado no mérito.
+A liminar foi indeferida (fls. 141-142).
+O Ministério Público Federal ofertou parecer opinando pela denegação da ordem (fls. 163-167).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível nulidade da busca pessoal e veicular em razão da ausência de fundadas razões para a abordagem policial.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, de acordo com o que foi apurado pela instância de origem, os policias receberam informações anônimas de que um veículo estaria transitando pela região em atitude suspeita, já que o condutor, o paciente, estaria visivelmente nervoso e parecia que estaria procurando por alguém no local. Também consta no acórdão impugnado que, quando a guarnição se deslocou ao local, o paciente ainda estaria realizando uma manobra com o veículo e aparentava nervosismo e que, ao avistar os policias, o paciente teria esboçado uma reação de fuga, que não foi concluída em razão da captura pelos policiais.
+Portanto, sendo estas as premissas fáticas da origem, concluo a busca pessoal foi justificada, de modo que não há constrangimento ilegal a se reconhecido neste habeas corpus.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
