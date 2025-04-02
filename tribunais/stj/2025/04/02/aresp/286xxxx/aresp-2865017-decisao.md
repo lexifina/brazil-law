@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por FERNANDA ANTONIA DAMASIO contra decisão que inadmitiu recurso especial em virtude da (i) inviabilidade de apreciação de ofensa à dispositivos da Constituição da República em sede de recurso especial; (ii) inexistência de violação dos arts. 489 e 1022 do CPC/2015 (iii) incidência da Súmula 7/STJ e (iv) aplicação do enunciado sumular n. 280/STF.
+É o relatório. Decido.
+Nos termos do que dispõe o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, a todos os fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+A respeito da impugnação à decisão de inadmissibilidade, a jurisprudência do STJ é pacífica no sentido de que " a  decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp n. 701.404/SC, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018).
+No caso dos autos, as razões do AREsp não impugnam especificamente os fundamentos utilizados pela Corte Regional, de (i) inviabilidade de apreciação de dispositivos constitucionais em sede de recurso especial; (ii) incidência da Súmula 7/STJ e (iii) aplicação do enunciado sumular n. 280/STF.
+Registre-se que, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, demonstrando, de forma clara, objetiva e concreta, o desacerto da decisão agravada - o que não ocorreu no caso dos autos - situação essa que impõe o não conhecimento do recurso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. REPETIÇÃO DE PARÁGRAFOS PADRONIZADOS. DIALETICIDADE DESCUMPRIDA. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão agravada. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. Neste recurso, a parte agravante igualmente não rebate as razões expostas na decisão que visa a impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável ao caso a Súmula 182 do STJ, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Para controverter a incidência da Súmula 182 do STJ, é dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do Tribunal de origem, o que não ocorreu.
+5. Apresentar o mesmo parágrafo, alterando apenas os dispositivos que fundamentaram a decisão ora agravada, alegando que os está infirmando, não se mostra, em nenhuma medida, impugnação suficiente e adequada.
+6. Ainda, a parte comete diversos erros de digitação que, muitas vezes, impedem, inclusive, o entendimento da mensagem que a parte agravante tentou transmitir e sequer transcreve corretamente a decisão que visa impugnar, apontando trecho que não se refere à citada decisão monocrática.
+7. Agravo interno não conhecido. (AgInt no AREsp 2135948/SP, Relator Ministro Paulo Sério Domingues, Primeira Turma, Julgado em 13/02/2023, DJe 16/02/2023).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DA INADMISSÃO DO RECURSO ESPECIAL NÃO COMBATIDAS NO AGRAVO INTERPOSTO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. É ônus do agravante infirmar as causas específicas da decisão agravada, sob pena de ofensa ao princípio da dialeticidade recursal.
+2. Ao interpor o agravo regimental, a defesa não apresentou nenhum argumento para refutar a aplicação do óbice da Súmula n. 7 do STJ à hipótese.
+3.Segundo o entendimento desta Corte Superior, revela-se insuficiente, para pedir o afastamento da Súmula n. 7 do STJ, alegar genericamente que não se pretende o reexame de provas. Há que se indicar qual premissa fática delineada e admitida pelo Tribunal a quo que, uma vez revalorada, permita o acolhimento do pedido.
+4. Logo, por não haver infirmado, de modo concreto, as razões da decisão agravada, a presente irresignação não cumpre com o dever de dialeticidade e, por isso mesmo, não comporta seguimento.
+5. (..)
+6 . Agravo não conhecido (AgInt no Aresp 2476861/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/08/2024, Dje de 30/08/2024).
+Ante o exposto, não conheço do agravo em recurso especial. Majoro os honorários sucumbenciais fixados anteriormente pelas instâncias ordinárias em 2% (dois por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e a concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
