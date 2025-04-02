@@ -1,0 +1,16 @@
+DECISÃO
+T rata-se de agravo interposto por AMABILE RUGGERI ARENA e OUTROS contra decisão que não admitiu recurso especial, que desafia acórdão assim ementado (e-STJ fl. 37):
+AGRAVO DE INSTRUMENTO Cumprimento individual de sentença coletiva Ação coletiva ajuizada pelo Sindicato dos Professores-APEOESP Recálculo da sexta-parte Decisão agravada que determinou que os exequentes com- provem sua filiação ao sindicato Título judicial expresso no sentido de restringir seus efeitos aos filiados da APEO- ESP Limites subjetivos da coisa julgada a serem obser- vados, inobstante a substituição ampla e irrestrita dos sindi- catos Relativização da coisa julgada Impossibilidade Afronta à segurança jurídica Decisão agravada mantida Recurso de agravo de instrumento desprovido.
+Rejeitados os aclaratórios
+No especial obstaculizado, a parte recorrente apontou que houve violação dos arts. 1.022, II, e 1.025, do CPC/2015, alegando, além de negativa de prestação jurisdicional, a possibilidade de execução individual por servidor não sindicalizado, pois "não há necessidade de comprovar filiação ao Sindicato, sendo suficiente comprovar que integra a categoria representada".
+Contrarrazões apresentadas.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Inicialmente, esta Corte Superior tem, reiteradamente, decidido que a alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Ressalte-se, por oportuno, não ser aplicável à espécie o art. 1.025 do CPC/2015 (prequestionamento ficto), pois essa questão não foi objeto de apelo no recurso especial, para fins de nulidade do acórdão recorrido por violação do art. 1.022 do CPC/2015, outro requisito para admissão de prequestionamento ficto (art. 1.025 do CPC/2015), na esteira da orientação jurisprudencial desta Corte.
+Por fim, quanto à tese de que não há necessidade de comprovar filiação ao Sindicato, sendo suficiente o servidor comprovar que integra a categoria representada, infere-se das razões do apelo nobre que a parte recorrente não apontou lei federal supostamente violada, sendo certo a incidência da Súmula 284 do STF.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Fica prejudicado o pedido de concessão de efeito suspensivo.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor d a parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
