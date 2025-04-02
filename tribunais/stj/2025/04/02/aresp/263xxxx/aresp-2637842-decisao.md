@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAL SAUDE SERVICOS MEDICOS ESPECIALIZADOS LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fls. 1.009-1.017):
+APELAÇÃO - RESPONSABILIDADE CIVIL - ERRO MÉDICO - CIRURGIA PARA RETIRADA DE TUMOR QUE ACARRETOU À PARESIA DAS CORDAS VOCAIS - PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - SENTENÇA DE PARCIAL PROCEDÊNCIA QUE CONDENOU SOLIDARIAMENTE O MÉDICO, O HOSPITAL E O PLANO DE SAÚDE NO PAGAMENTO DE R$30.000,00 ACRESCIDA DE JUROS A PARTIR DO EVENTO DANOSO - INCONFORMISMO DA AUTORA E DO PLANO DE SAÚDE - AÇÃO AJUIZADA ANTES DO DECURSO DE CINCO ANOS DA CIÊNCIA INEQUÍVOCA DO DANO - PRESCRIÇÃO AFASTADA - ERRO MÉDICO CONSTATADO EM PERÍCIA JUDICIAL - INDENIZAÇÃO BEM ARBITRADA EM R$30.000,00 LEVANDO EM CONTA O PERFIL DAS PARTES E A EXTENSÃO DO DANO - TERMO INICIAL DOS JUROS ALTERADO PARA A DATA DA CITAÇÃO CONSIDERANDO-SE A RELAÇÃO CONTRATUAL - INSURGÊNCIA RECURSAL QUE APROVEITA OS OUTROS RÉUS SOLIDÁRIOS - ART. 509 DO CPC - SENTENÇA REFORMADA EM PARTE - NEGARAM PROVIMENTO AO RECURSO DA AUTORA E DERAM PARCIAL PROVIMENTO AO RECURSO DO RÉU.
+No recurso especial, a parte recorrente aduz, no mérito, violação dos arts. 186, 187, 884 e 927 do Código Civil, sustentando que não houve falha na prestação dos serviços e nem prova de seu defeito, e que, portanto, não haveria responsabilidade civil de sua parte a ensejar indenização por danos morais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.060-1.064).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.071-1.072), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, em relação à apontada ofensa aos arts. 186, 187, 884 e 927 do Código Civil, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça, visto que revisar os parâmetros eleitos pelo Tribunal de origem acerca da responsabilidade civil e do dever de indenizar demandaria reexame de fatos e provas.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS POR ERRO MÉDICO COM PEDIDO DE TUTELA ANTECIPADA. LEGITIMIDADE PASSIVA. RECONHECIMENTO EM SEDE DE AGRAVO DE INSTRUMENTO. PRECLUSÃO. FUNDAMENTO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. OFENSA AOS ARTS. 480, CAPUT, E § 1º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO CPC/2015 EM RELAÇÃO À MATÉRIA. INEXISTÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. FALHA NA PRESTAÇÃO DOS SERVIÇOS DEVIDAMENTE COMPROVADA NOS AUTOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DANOS MORAIS. QUANTUM INDENIZATÓRIO ARBITRADO DENTRO DOS PARÂMETROS DE RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF, que assim dispõe:
+"É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. O Tribunal de origem, analisando as circunstâncias do caso, concluiu que ficou comprovada a falha nas prestação dos serviços hospitalares. Assim, a pretensão de modificar o entendimento firmado demandaria o reexame de fatos e provas, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. Na hipótese, verifica-se que os danos morais foram fixados em R$130.000,00 (cento e trinta mil reais), em comum, aos autores, além de um salário mínimo em favor da mãe do infante, enquanto perdurar sua condição exclusiva de cuidados com o filho, e de quatro salários mínimos ao menor, o que não se mostra desarrazoado, tendo em vista que a falha na prestação dos serviços resultou em lesões, tornando o menor dependente de cuidados especiais e incapacitado permanentemente.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.569.728/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/3/2025, DJEN de 25/3/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 15% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ERRO MÉDICO. DANOS MORAIS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
