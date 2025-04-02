@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A. contra a decisão que inadmitiu o recurso especial com fundamento na não demonstração de violação do art. 3º, § 6º, do Decreto-Lei n. 911/1969 e na incidência da Súmula n. 7 do STJ (fls. 88-90).
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que não há afronta aos dispositivos de lei federal e que o acórdão recorrido está em consonância com a jurisprudência do STJ, requerendo o não conhecimento do agravo interposto (fls. 104-108).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de alienação fiduciária.
+O julgado foi assim ementado (fls. 19-23):
+ALIENAÇÃO FIDUCIÁRIA. Busca e apreensão. Liminar deferida e executada. Pagamento da integralidade da dívida realizado tempestivamente pelo réu. Responsabilidade civil objetiva do credor fiduciário que obtém liminar, posteriormente revogada em sentença de extinção, e, ainda assim, realiza a venda do bem objeto de garantia, inviabilizando a restituição das partes ao estado anterior. Multa prevista no artigo 3º, § 6º, do Decreto-lei n. 911/69, devida. Decisão mantida. Recurso não provido.
+No recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 3º, § 6º, do Decreto-Lei n. 911/1969, pois a multa nele prevista só é cabível quando a sentença proferida nos autos da ação de busca e apreensão for improcedente, não podendo ser aplicada em casos de extinção da ação sem julgamento de mérito (fls. 27-29); e
+b) divergência jurisprudencial com o acórdão paradigma (AgInt no REsp n. 1.588.151/SC), que assentou que a multa imposta no art. 3º, e § 6º do Decreto-Lei n. 911/69 só pode ser imposta nos casos em que a ação de busca e apreensão for julgada improcedente (fls. 27-29).
+Requer o provimento do recurso para que se afaste a multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969.
+Nas contrarrazões, a parte recorrida aduz que o acórdão recorrido está em consonância com a jurisprudência do STJ, requerendo o não conhecimento do recurso especial (fls. 80-87).
+É o relatório. Decido.
+O recurso não merece prosperar.
+O caso dos autos tem origem em agravo de instrumento interposto pelo agravante contra decisão proferida pelo Juízo de primeiro grau que julgou extinta a ação de busca e apreensão, sem resolução de mérito, com fulcro no art. 485, IV, do CPC, reconhecendo a obrigação do credor fiduciário de indenizar o respectivo preço de mercado, em conformidade com a tabela Fipe, além de pagar a multa correspondente a 50% do valor do contrato, nos termos do art. 3º, §§ 6º e 7º, do Decreto-Lei n. 911/1969.
+O Tribunal de origem, por sua vez, negou provimento ao agravo de instrumento, sob o entendimento de que é cabível a aplicação da multa de 50% do valor originalmente financiado, devidamente atualizado, tal como prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969 e determinado na sentença (fls. 19-23).
+Contra o referido acórdão, foi interposto o competente recurso especial que passo a analisar.
+No que diz respeito à alegada violação do art. 3º, § 6º, do Decreto-Lei n. 911/1969 e do dissídio jurisprudencial suscitado, não assiste razão ao recorrente.
+O art. 3º, § 6º, do Decreto-lei n. 911/1969, estabelece que a sentença que decretar a "improcedência da ação" de busca e apreensão também condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado caso o bem apreendido já tenha sido alienado.
+De acordo com a orientação jurisprudencial do STJ, normas que impõem sanção devem ser interpretadas de forma restritiva, razão pela qual o referido dispositivo legal não se aplica aos casos de extinção do processo sem julgamento do mérito (AgInt no REsp n. 1.737.391/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022; AgInt no AREsp n. 1.761.953/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/6/2022, DJe de 1º/7/2022; REsp n. 1.933.739/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 15/6/2021, DJe de 17/6/2021; e AgInt no REsp n. 1.588.151/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2018, DJe de 19/12/2018).
+No caso, segundo delineado nos autos, é incontroverso que a ação de busca e apreensão foi julgada extinta sem julgamento de mérito.
+Contudo, acertadamente o Tribunal de origem manteve a decisão que reconheceu a aplicabilidade da multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/69. Confira-se (fls. 22-23):
+Na espécie, o veículo foi alienado em 10-02-2022 (cf. nota de venda de fls. 108), após o pagamento da integralidade da dívida pela ré (30-12-2021 fls. 96/97 dos autos de origem) e quase 3 meses antes de proferida a sentença ora recorrida (10-03-2022 fls. 103 dos autos de origem).
+Desse modo, entendo cabível a aplicação da multa de 50% do valor originalmente financiado, devidamente atualizado, tal como prevista no artigo 3º, § 6º, do Decreto-lei n. 911/69 e determinado na r. sentença de piso.
+A premissa adotada pelo Tribunal de origem não contraria a jurisprudência do Superior Tribunal de Justiça.
+Observe-se que, no caso em análise, não há similitude fática com a jurisprudência do STJ reivindicada no especial, visto que não obstante a ação de busca e apreensão tenha sido julgada extinta sem o julgamento de mérito, a alienação do veículo ocorreu antes de ter sido proferida a sentença, já com a ciência do credor fiduciário sobre o pagamento integral da dívida pelo devedor.
+No caso, como bem destacado no acórdão recorrido, o recorrente valeu-se da decisão precária para realizar a alienação do bem antes da publicação da sentença, o que atraiu a aplicação da multa prevista no art. 3º, § 6º, do Decreto-Lei n. 911/1969 .
+Nesse sentido, diferentemente do alegado pelo recorrente, verifico que o Tribunal de origem decidiu em consonância com a jurisprudência do STJ em relação ao tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO. IMPROCEDÊNCIA. CUMPRIMENTO DE SENTENÇA. MULTA DO ART. 3º, § 6º, DO DECRETO-LEI N. 911/1969. AUSÊNCIA DE PREVISÃO NO TÍTULO JUDICIAL. INCLUSÃO NOS CÁLCULOS DA EXECUÇÃO. IMPOSSIBILIDADE. FIDELIDADE AO TÍTULO. VIOLAÇÃO À COISA JULGADA. SÚMULA N. 83 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A sentença que decretar a improcedência da ação de busca e apreensão condenará o credor fiduciário ao pagamento de multa, em favor do devedor fiduciante, equivalente a cinquenta por cento do valor originalmente financiado, caso o bem apreendido já tenha sido alienado (art. 3º, § 6º, do Decreto-Lei n. 911/1969).
+2. A liquidação de sentença e o cumprimento de sentença, entretanto, estão limitados ao exato comando estabelecido no título executivo, sob pena de violação dos princípios da fidelidade ao título e da coisa julgada. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp n. 2.544.488/RS, de minha relatoria, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+Caso, pois, de incidência da Súmula n. 83 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
