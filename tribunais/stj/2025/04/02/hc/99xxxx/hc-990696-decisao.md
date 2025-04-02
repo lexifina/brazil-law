@@ -1,0 +1,31 @@
+DECISÃO
+
+Trata-se  de  habeas  corpus  substitutivo  de  recurso  próprio,  com pedido de liminar,  impetrado  em  favor  de  JULIO CESAR RODRIGUES VIEIRA  contra  acórdão  do  Tribunal  de  Justiça  do Estado de Goiás (HC 5039846-39.2025.8.09.0000).
+Consta dos autos que o paciente foi denunciado pela suposta prática dos delitos previstos nos artigos 121-A, §2º, incisos I (crime praticado contra mãe de criança) e III (na presença de ascendente da vítima) c/c artigo 14, inciso II, ambos do Código Penal, bem como artigo 12 da Lei nº 10.826/03.
+Nesta  Corte,  o impetrante busca, em primeiro lugar, a superação da Súmula 691 do Supremo Tribunal Federal em virtude das particularidades do caso em análise e da necessidade de garantir a ampla defesa e o contraditório em sua plenitude.
+Afirma não estarem presentes os requisitos previstos no art. 312 do Código de Processo Penal para a decretação da prisão preventiva, porquanto não foi demonstrada, de forma concreta e individualizada, a necessidade da medida extrema, em violação ao disposto no art. 93, IX, da Constituição Federal, principalmente considerando-se os predicados pessoais do acusado, que são favoráveis (e-STJ, fl. 3-26).
+Ressalta, ainda, a condição pessoal do paciente e argumenta que é responsável pelos cuidados dos pais idosos, que sua companheira está grávida e necessita de seu apoio e que é figura paterna essencial aos cuidados da enteada menor de 12 anos, circunstância que reforça a desnecessidade da prisão (e-STJ, fl. 26-35).
+A  defesa  sustenta, ainda, a  nulidade da busca domiciliar realizada na residência do paciente sem autorização judicial, o que torna ilícitas as provas dela derivadas (e-STJ, fl. 35-38).
+Diante disso, requer a concessão da medida liminar para que o paciente possa responder ao processo em liberdade ou a aplicação de medidas cautelares diversas da prisão, nos termos do art. 319 do CPP. Subsidiariamente, requer seja a prisão preventiva convertida em prisão domiciliar (e-STJ, fl. 35 e 41).
+Em petição de fls. 413-494 (e-STJ), a defesa registra que o habeas corpus foi julgado pelo Tribunal Estadual, na sessão de 18/3/2025.
+É  o  relatório.
+Decido.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo à parte apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+No caso, os autos não foram instruídos com cópia do acórdão impugnado na íntegra, peça imprescindível para análise do habeas corpus, o que inviabiliza o conhecimento da impetração.
+Saliente-se que a juntada apenas do extrato da ata de julgamento (e-STJ, fl. 487) não supre a referida lacuna.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. FALTA DE PEÇAS. DECISÃO IMPUGNADA. INVIABILIDADE DE EXAME. DECISÃO LIMINAR. SÚMULA 691 STF. AUSÊNCIA DE MANIFESTA ILEGALIDADE. RECURSO NÃO PROVIDO. 1. A ausência nos autos de habeas corpus do acórdão ou da decisão combatida torna inviável o exame da controvérsia. Precedentes. 2. A jurisprudência deste Superior Tribunal de Justiça firmou-se em que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, j. em 02/08/2022, DJe de 10/08/2022). 3. Verifica-se que não está caracterizada manifesta ilegalidade suficiente para superar o óbice do referido enunciado sumular. 4. Agravo regimental não provido. (AgRg no HC n. 880.491/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 9/4/2024, DJe de 16/4/2024.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. NULIDADE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Ausente o inteiro teor do acórdão hostilizado, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Ademais, "é inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada, por ser essa condição necessária à admissibilidade de qualquer recurso, conforme entendimento firmado pela Corte Especial. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos do recurso interposto" (AgRg no AREsp n. 1.941.517/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/2/2022, DJe 3/3/2022).
+3. Agravo regimental não conhecido.
+(AgRg no HC n. 936.782/AC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT NÃO CONHECIDO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE NÃO CONFIGURADA. INSTRUÇÃO DEFICIENTE. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À DEFESA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos da jurisprudência dessa Corte, "a prolação de decisão monocrática pelo ministro relator está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental." (AgRg no REsp 1.322.181/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+2. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo aos impetrantes apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+3. In casu, não foi juntado, aos autos, o inteiro teor do acórdão proferido em sede de apelação, o qual é imprescindível para a análise da impetração, não foram juntadas aos presentes autos.
+4 . Agravo regimental não provido.
+(AgRg no HC n. 774.358/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/12/2022, DJe de 15/12/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
