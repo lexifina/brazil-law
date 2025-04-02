@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de RAFAEL ALMEIDA DA SILVA JORGE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Narra a inicial que o paciente foi condenado às penas de 8 anos de reclusão em regime inicial fechado e pagamento de 1.200 dias-multa pela prática dos crimes previstos nos arts. 30, caput, e 35 da Lei n. 11.343/2006.
+A impetrante sustenta que teria havido ilegalidade na condenação pelo delito de associação para o tráfico, pois não teriam sido demonstrados os requisitos de estabilidade e permanência exigidos pelo art. 35 da Lei de Drogas.
+Afirma que o paciente é primário e possui bons antecedentes, militando em seu favor a presunção de que não se dedica a atividades criminosas.
+Alega que, com a absolvição pelo delito associativo, deveria ser reconhecida a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06, com a consequente fixação do regime aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+Defende o cumprimento da pena no regime semiaberto, caso não seja concedido o redutor.
+Requer a absolvição do paciente quanto ao delito de associação para o tráfico. Subsidiariamente, pugna pelo reconhecimento da minorante do tráfico privilegiado, com a substituição da pena privativa de liberdade por restritiva de direitos e fixação do regime aberto ou, em caso de não concessão do redutor, que "seja fixado o regime semiaberto em razão da absolvição do Paciente da imputação referente ao delito associativo" (fl. 13).
+É o relatório.
+É pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus, porquanto vinculado à demonstração de plano da ilegalidade alegada, exige provas pré-constituídas dos elementos fáticos essenciais para a apreciação do pedido, sendo ônus da parte impetrante juntar a documentação necessária no momento da impetração.
+No presente caso, o ato coator e os documentos constantes dos autos não se referem ao paciente RAFAEL ALMEIDA DA SILVA JORGE, mas a outra ação penal, com réu, crime e penas diferentes.
+Dessa forma, é inviável o exame pretendido, diante da insuficiência da documentação apresentada. Nesse sentido:
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. PEDIDO DE ANULAÇÃO DO JÚRI OU REVISÃO DA DOSIMETRIA DA PENA. DEFICIÊNCIA DE INSTRUÇÃO. PRECEDENTES. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. WRIT INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inicial do writ, contudo, não veio acompanhada de documentos aptos a comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que não foi juntada a cópia da sentença condenatória do paciente, pois a que instrui os autos, às e-STJ, fls. 1.877/2.048, se refere a réus e crimes diversos, além da íntegra do acórdão de apelação.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. Desse modo, é cogente ao impetrante apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Precedentes.
+3. Ademais, também verifico que a insurgência aduzida nesta impetração não foi analisada e debatida pela Corte estadual, por ocasião do julgamento da Revisão Criminal, tratando-se, portanto, de matéria nova, somente ventilada neste mandamus, não sendo possível sua análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+4. Habeas corpus indeferido liminarmente.
+5. Agravo regimental não provido.
+(RCD no HC n. 916.378/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024 - destaque próprio.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. LAPSO TRINTENÁRIO. AUSÊNCIA DE CÓPIA DA DECISÃO QUE ALTEROU A DATA-BASE. INSTRUÇÃO DEFICIENTE. REITERAÇÃO DE WRIT ANTERIOR. INADMISSIBILIDADE.
+1. O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ. Precedentes.
+2. Trata-se de caso em que o ora agravante não se desobrigou do ônus de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia da decisão do Juízo a quo que alterou a data-base.
+ ..
+(AgRg no HC n. 857.338/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - destaque próprio.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. NULIDADES PROCESSUAIS. CERCEAMENTO DE DEFESA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INSTRUÇÃO DEFICIENTE. AGRAVO DESPROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos.
+2. No caso, embora o agravante tenha alegado que diversas decisões proferidas por esta Corte, bem como pelo Supremo Tribunal Federal, estejam sendo descumpridas pelo Tribunal de Justiça do Estado de Minas Gerais, bem como pelo Juízo de primeiro grau, a única decisão acostada a estes autos diz respeito à ação penal diversa daquela citada na petição inicial deste recurso. Ademais, na referida decisão, relativa ao RHC n. 177.017/MG, o eminente relator Ministro Messod Azulay Neto nem sequer conheceu do recurso.
+3. Não demonstrada de forma suficiente a apontada nulidade ocorrida na ação penal, tampouco as supostas torturas sofridas pelo agravante, bem como não apresentada nenhuma prova documental acerca das alegações deduzidas, fica inviabilizado o conhecimento do recurso.
+4. "Cumpre salientar que a doutrina e a jurisprudência entendem que o habeas corpus, por constituir ação mandamental cuja principal característica é a sumariedade, não possui fase instrutória, vale dizer, "a inicial deve vir acompanhada de prova documental pré-constituída, que propicie o exame, pelo juiz ou tribunal, dos fatos caracterizadores do constrangimento ou ameaça, bem como de sua ilegalidade, pois ao impetrante incumbe o ônus da prova" (GRINOVER, A.P.; FILHO, A. M. G.; FERNANDES, A.S. Recursos no Processo Penal, ed. Revista dos Tribunais, 2011 p. 298)" (AgRg no HC n. 736.181/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+5 . Agravo regimental desprovido.
+(AgRg no RHC n. 181.549/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, DJe de 16/11/2023.)
+Portanto, o pedido não pode ser apreciado nesta ação, nada impedindo a apresentação de nova impetração, dotada de adequada instrução.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
