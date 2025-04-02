@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com respaldo na alínea "a" do permissivo constitucional, para impugnar acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl. 245):
+TRIBUTÁRIO. ENCAMINHAMENTO DE DÉBITOS PARA PGFN PARA INSCRIÇÃO. REQUISITO PARA TRANSAÇÃO. POSSIBILIDADE. RECURSO PROVIDO.
+1. Apelação interposta pela parte contribuinte contra sentença que, em mandado de segurança, denegou a ordem pleiteada no sentido de determinar que a parte requerida encaminhe os débitos da impetrante à Procuradoria Geral da Fazenda Nacional (PGFN), para fins de inscrição e viabilização da adesão da impetrante à transação tributária.
+2. Este Tribunal tem decidido no sentido de assegurar ao contribuinte o direito à remessa de seus débitos, no âmbito da Secretaria da Receita Federal, para a Procuradoria Geral da Fazenda Nacional, para fins de inscrição em dívida ativa e viabilização da adesão da contribuinte à Transação Tributária. Precedente: (TRF5, Proc. nº 08006173320214058109, Rel. Des. Fed. Paulo Roberto de Oliveira Lima, 16/11/2021).
+3. A parte contribuinte "não pode ser prejudicada com a mora da Receita Federal, a qual deveria ter encaminhado os débitos para a PGFN para inscrição em Dívida Ativa". Precedente: (TRF5, 0812441-16.2021.4.05.8100, Des. Carlos Rebêlo, 1ª T., julg. 17.03.2022; TRF5, 0816423-38.2021.4.05.8100, Sexta Turma, Rel. Leonardo Resende Martins, julg. 22.11.2022).
+4. Apelação provida, para determinar que a impetrada proceda a inscrição dos débitos da impetrante, a fim de viabilizar sua adesão à transação tributária.
+No seu recurso especial, a parte afirma que o acórdão recorrido teria violado o art. 171 do CTN e os arts. 17, caput, I e II, e 27 da Lei n. 13.988/2020.
+Para tanto, aduz (e-STJ fls. 412/415):
+(..) a eg. Turma deu provimento ao apelo do contribuinte por entender que a parte contribuinte "não pode ser prejudicada com a mora da Receita Federal, a qual deveria ter encaminhado os débitos para a PGFN para inscrição em Dívida Ativa, em observância às norma infralegais em questão."
+Na hipótese, o acórdão regional deferiu o pleito da Impetrante, autorizando que a totalidade dos débitos parcelados ou não parcelados, firmados com a Receita Federal, sejam encaminhados para a Procuradoria-Geral da Fazenda Nacional para inscrição em Dívida Ativa.
+A Impetrante alegou que tal encaminhamento pode ser feito e que tem encontrado óbice de natureza operacional e não cumprimento dos prazos pelo fisco, para incluí-los na chamada transação excepcional.
+A autoridade impetrada afirmou, com base em informação da Equipe de Cobrança - ECOB e Equipe de Parcelamento - EQPAR, que os créditos tributários devedores na conta corrente foram transferidos para o processo nº 10380.751884/2022-12 e serão enviados para a PFN, para fins de inscrição.
+No entanto, destacou que a impetrante possui parcelamentos junto à RFB em situação regular e em situação de inadimplência. Destacou, ainda, que, restam débitos que não podem ser inscritos.
+Nada obstante a existência de impeditivos para a remessa de alguns dos débitos do contribuinte à Procuradoria-Geral da Fazenda Nacional, além da observância dos prazos previstos na Portaria ME n. 447/2018 e no Decreto nº 70.235/1972, a eg. Turma deu provimento ao seu apelo, determinando a remessa dos débitos, sem distinção.
+Ao assim decidir, esta eg. Turma violou o disposto no art. 171 do CTN e no art. 17, caput, incisos I e II, e no art. 27 da Lei nº 13988/2020.
+Dispõe o art. 171 do Código Tributário Nacional:
+(..)
+A Lei nº 13.988/2020 por sua vez preceitua:
+(..)
+O prazo inicial da Portaria PGFN nº 14.402/2020 foi alterado e reaberto em diversas ocasiões, tendo a última Portaria PGFN nº 11.496/2021 (alterada pela Portaria PGFN nº 9.444/2022), assim estabelecido quanto a prazos e condições:
+(..)
+Vê-se que a demandante promoveu o ajuizamento do mandado de segurança em 30.11.2022, não havendo comprovação de pedido administrativo de remessa dirigido a RFB anteriormente a data de 31.10.2022 (data-limite de inscrição para viabilizar a transação nos termos da Portaria PGFN nº 9.444/2022).
+Ou seja, as iniciativas pela impetrante/recorrente foram promovidas após expirado o prazo-limite de inscrição para viabilizar a transação nos termos da Portaria PGFN nº 9.444/2022, exteriorizando a ausência de interesse de agir quanto ao pedido de garantia de adesão a transação.
+De salientar que todos os requisitos para a transação de débitos inscritos são estabelecidos segundo uma política fiscal a cargo do Poder Executivo. Assim, a alteração ou não aplicação das regras previstas em lei e regulamento, representaria uma indevida interferência quanto a critérios, estimativas e parâmetros definidos na elaboração/formatação da proposta de negociação (CF/88, art. 2º - Princípio da Separação dos Poderes).
+Dito de outra forma, por traduzir a transação um favor fiscal, a decisão sobre a oportunidade de sua concessão, e em que condições, cabe ao ente tributante, não sendo admissível a flexibilização de requisitos estabelecidos na lei e em regulamento a todos os contribuintes em idêntica situação.
+Assim, é inafastável a data-limite para inscrição de débitos prevista no regramento da transação, como condição para negociação.
+Deveras, existem critérios para a referida inscrição em DAU, que passam pela cobrança amigável, realizada no âmbito da RFB, e, por exemplo, pelo limite mínimo do débito para encaminhamento à Procuradoria-Geral da Fazenda Nacional - PGFN, que atualmente é de R$1.000,00 (mil reais), havendo vedação expressa na legislação à inscrição de débitos de valores igual ou inferior a mil reais (Portaria ME nº 75, de 2012).
+Vale acrescentar que a remessa de débitos à PGFN é atualmente feita eletronicamente e observa periodicidade automática definida pela Administração da RFB, de acordo com os requisitos da legislação, e não pode ser comandada indistintamente para todos os débitos, ao talante dos contribuintes, no prazo e na forma que desejarem, prejudicando o regular andamento de todo o procedimento de cobrança.
+É necessário salientar que não há dispositivo legal que permita ou obrigue a Autoridade Administrativa a priorizar débitos de um determinado contribuinte, para encaminhamento à PGFN e inscrição em DAU.
+E, nesse diapasão, há que se relembrar ainda que a Secretaria da Receita Federal do Brasil (RFB) e a Procuradoria-Geral da Fazenda Nacional (PGFN) são órgãos integrantes da estrutura do Ministério da Economia, todavia com autonomia administrativa e atribuições próprias legalmente definidas, sendo- lhes, por decorrência, vedada a interferência na seara de competência alheia. Assim, tanto a RFB como a PGFN emitem seus próprios atos normativos, que regulam os procedimentos e atividades em seus respectivos âmbitos.
+Os atos expedidos pela PGFN não podem afetar os procedimentos internos da RFB, em especial, a ordem de prioridade para a remessa eletrônica de débitos para inscrição em Dívida Ativa da União e a periodicidade programada nos sistemas, valendo salientar que o procedimento interno da RFB de envio de débitos para inscrição em DAU não é etapa prévia prevista no Programa de Transação estabelecido pela PGFN.
+Se considerarmos a absurda situação de que cada contribuinte busque subverter a ordem de remessa eletrônica de débitos, impondo a remessa manual de débitos para satisfazer a seus interesses próprios, nos veremos diante de circunstância que, por óbvio, causará graves transtornos ao controle e à cobrança da dívida pública, que pode vir a afetar consideravelmente sua eficiência.
+Reitere-se, por conseguinte, que não há norma legal que obrigue, ou mesmo autorize, a Autoridade Administrativa da RFB a priorizar débitos e agilizar o encaminhamento destes para a inscrição em Dívida Ativa da União, intercedendo no regular procedimento eletrônico de remessa e seus critérios, bem como na periodicidade automática estabelecida pela RFB, apenas para atender a interesse circunstancial de determinados contribuintes.
+Sem contrarrazões.
+Recurso especial admitido (e-STJ fl. 427).
+Passo a decidir.
+A irresignação não merece prosperar.
+Ao resolver a lide, assim se manifestou o Tribunal de origem no voto condutor do acórdão (e-STJ fls. 239/240):
+A pretensão deduzida em juízo buscou obrigar o Fisco a deferir a adesão da impetrante Transação Excepcional instituída pela Lei n. 13.988/2020 e regulamentada pela PGFN através das Portarias nº 14.402/2020, nº. 2.381/2021 e nº 11.496/2021, renovadas pela Portaria nº 9.444/2022.
+Este Tribunal Regional Federal da 5ª Região tem decidido no sentido de assegurar ao contribuinte o direito à remessa de seus débitos, no âmbito da Secretaria da Receita Federal, para a Procuradoria Geral da Fazenda Nacional, para fins de inscrição em dívida ativa e viabilização da adesão do contribuinte à Transação Tributária.
+Nesse sentido, transcreve-se o precedente abaixo:
+(..)
+Ademais, esta Corte já assentou que a parte contribuinte "não pode ser prejudicada com a mora da Receita Federal, a qual deveria ter encaminhado os débitos para a PGFN para inscrição em Dívida Ativa, em observância às normas infralegais em questão". Precedente: (TRF5, 0812441-16.2021.4.05.8100, Des. Carlos Rebêlo, 1ª T., julg. 17.03.2022).
+No caso, não haveria motivos para impedir o contribuinte de se beneficiar de condições favoráveis estipuladas por lei ao pagamento de obrigações tributárias vencidas.
+Aliás, esse é o entendimento desta egrégia Sexta Turma deste Tribunal: (TRF5, 0816423-38.2021.4.05.8100, Rel. Leonardo Resende Martins, julg. 22.11.2022).
+Diante do exposto, dou provimento à apelação interposta pela parte contribuinte, para determinar que a impetrada proceda a inscrição dos débitos da impetrante, a fim de viabilizar sua adesão à transação tributária em questão.
+É como voto.
+Conforme se observa do julgado e do próprio articulado recursal, a questão em comento consiste em saber se o contribuinte teria direito à imediata inscrição de seus débitos em dívida ativa, com vistas a viabilizar sua adesão a transação tributária.
+Em seu especial, a Fazenda Nacional sustenta que vários prazos teriam sido desrespeitados, de modo que não assistiria, à parte, o direito subjetivo alegado.
+Posta a questão, é evidente a impossibilidade de seu acertamento na presente via recursal. É que os prazos aludidos não foram fixados em lei (isto é, nos dispositivos legais indicados pela Fazenda Nacional em seu recurso especial), mas em Portarias baixadas pela RFB.
+Desse modo, eventual violação não teria sido perpetrada, diretamente, à norma de lei federal, mas à norma puramente regulamentar, cuja proteção escapa ao âmbito de cognição do recurso especial.
+À guisa de mera ilustração:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. ANTECIPAÇÃO DE DESPESA COM O DESLOCAMENTO DO OFICIAL DE JUSTIÇA PARA CITAÇÃO DA PARTE EXECUTADA. CABIMENTO. SÚMULA 190/STJ. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. LEIS ESTADUAIS E RESOLUÇÃO DO CNJ. CONCEITO DE LEI FEDERAL. NÃO ENQUADRAMENTO. INCIDÊNCIA DA SÚMULA 280/STF. APLICAÇÃO DA SÚMULA 284/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado n. 3/2016/STJ.
+2. Nos termos da Súmula 190/STJ, na execução fiscal processada perante a Justiça Estadual, cumpre à Fazenda Pública antecipar o numerário destinado ao custeio das despesas com o transporte dos oficiais de justiça.
+3. No julgamento do REsp 1.144.687/RS, Rel. Ministro Luiz Fux (DJe 21.5.2010), a Primeira Seção, sob o rito do art. 543-C do CPC/1973, reiterou a distinção entre os conceitos de custas e despesas processuais, ressaltando que estas últimas, quando destinadas à locomoção de oficiais de justiça, não estão abrangidas pela isenção prevista no art. 39 da Lei 6.830/1980, obrigando a Fazenda Pública Estadual a realizar o depósito prévio da quantia correspondente para a prática de atos processuais de seu interesse no bojo da execução fiscal processada na Justiça Estadual.
+4. Incabível a indicação de ofensa a dispositivo inserto em portaria ou resolução, porquanto tais regramentos não se caracterizam como "lei federal", a teor do disposto no art. 105, III, da Constituição Federal.
+5. No tocante à incidência da Súmula 284/STF, a ausência de impugnação específica ao fundamento da decisão agravada impõe o não conhecimento do recurso quanto ao ponto, incidindo também a Súmula 182/STJ.
+6. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+(AgInt no AREsp 2628976 / PB , Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/02/2025, DJe 21/02/2025).
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. RECURSO ESPECIAL. OFENSA A RESOLUÇÕES. DESCABIMENTO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE.
+1. Nos termos do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, os fundamentos da decisão combatida, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, alguns capítulos da decisão ora agravada (Súmulas 83 e 211 do STJ).
+3. Decidida a questão pelo Tribunal de origem com base nas disposições da Resolução nº 414/2010 da ANEEL, a eventual afronta à lei federal invocada no apelo especial é meramente reflexa, sendo certo que o recurso especial não constitui via adequada para a análise de eventual ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, de que trata o art. 105, III, "a", da Constituição Federal. Precedentes.
+4. Divergir do aresto recorrido para entender que a interrupção do serviço de energia foi ocasionada por caso fortuito reclama o reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 2740046/RS, de minha relatoria, PRIMEIRA TURMA, julgado em 17/02/2025, DJe 21/02/2025).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais, pois se cuida, na origem, de mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
