@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo interposto por ANNELISE HENTGES CAJAL e LIANA CLAUDIA HENTGES CAJAL c ontra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 58):
+AGRAVO DE INSTRUMENTO - AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS, MORAIS E ESTÉTICOS - DECISÃO QUE AFASTOU A PREJUDICIAL DE PRESCRIÇÃO - INSURGÊNCIA DA PARTE REQUERIDA. PRELIMINAR DE MÉRITO - ALEGAÇÃO FORMULADA PELA PARTE AUTORA EM SEDE DE CONTRARRAZÕES NO SENTIDO DE QUE A MATÉRIA RELACIONADA À PRESCRIÇÃO DEVE SER ANALISADA EM PRELIMINAR DE APELAÇÃO - QUESTÃO OPONÍVEL POR MEIO DE RECURSO DE AGRAVO DE INSTRUMENTO, SOB PENA DE INCIDIR HIPÓTESE DE PRECLUSÃO - POSIÇÃO ESTABELECIDA PELA CÂMARA - PRECEDENTES - PRELIMINAR DE MÉRITO REJEITADA. MÉRITO - PEDIDO FORMULADO PELA PARTE REQUERIDA OBJETIVANDO O PRONUNCIAMENTO DA PRESCRIÇÃO DA PRETENSÃO DA PARTE AUTORA - DESPACHO ORDENANDO A CITAÇÃO PROFERIDO ANTES DO DECURSO DO PRAZO PRESCRICIONAL, QUE PASSOU A RETROAGIR À DATA DA PROPOSITURA DA AÇÃO - DEMORA DA CITAÇÃO - FATO NÃO IMPUTADO À PARTE AUTORA - OBSERVÂNCIA DO ARTIGO 240, §§1º E 3º, DO CÓDIGO DE PROCESSO CIVIL, BEM COMO DA SÚMULA Nº 106 DO SUPERIOR TRIBUNAL DE JUSTIÇA - DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 112-116).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre ponto necessário ao deslinde da controvérsia, qual seja (fl. 143):
+ ..  o fato processual (perda de prazo para indicar a localização do destinatário da citação ou para requerer diligência para localizá-lo) que, apontado nas razões de referido recurso, consubstancia a desídia da autora na promoção da citação da herdeira Liana Claudia Hentges Cajal, mas, sequer tangenciando tal fato, voltou-se para outros que lhe são posteriores e que não ilidem seus efeitos, atinentes à realização de uma diligência de localização de tal pessoa, só requerida pela autora depois de perdido o prazo para tanto.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas no art. 1026, § 2º, do CPC e pugna pela exclusão da multa processual do referido dispositivo.
+Foram oferecidas contrarrazões ao recurso especial (fls. 169-183).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 196-197), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 216-229).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem ao negar provimento ao agravo de instrumento deixou claro que "as citações são válidas, tendo em vista que realizadas por meio de Oficial de Justiça, em conformidade com o artigo 246, § 1º-A, inciso II, do Código de Processo Civil" (fl. 65).
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Quanto ao mérito, observa-se que, da análise dos autos, percebe-se que os embargos de declaração interpostos pela parte recorrente não possuem intuito protelatório, razão pela qual a aplicação da multa prevista no art. 1.026, §2º, do CPC deve ser afastada.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar parcial provimento para afastar a multa do art. 1026, § 2º, do CPC.
+Publique-se. Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS, MORAIS E ESTÉTICOS. VIOLAÇÃO AOS ARTS. 489 E 1022 DO CPC. INEXISTÊNCIA. EXCLUSÃO DA MULTA DO ART. 1026, § 2º, DO CPC. POSSIBILIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
