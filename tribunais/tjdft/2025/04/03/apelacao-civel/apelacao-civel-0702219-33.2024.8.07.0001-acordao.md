@@ -1,0 +1,136 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.APELAÇÃO CÍVEL 0702219-33.2024.8.07.0001APELANTE(S)DAMASCO MATERIAIS PARA ACABAMENTO LTDA,SEVERINO MENDES DE SOUZA e ADRIANA GONCALVES DE SOUZAAPELADO(S)BRB BANCO DE BRASILIA S.A.RelatorDesembargador LUÍS GUSTAVO B. DE OLIVEIRA
+ Acórdão Nº1987894
+
+EMENTA
+
+APELAÇÃO CÍVEL. DIREITO CIVIL. GRATUIDADE. PRECLUSÃO. RECOLHIMENTO DO PREPARO. ATO INCOMPATÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONSUMIDOR. CÉDULA DE CRÉDITO BANCÁRIO. EMBARGOS À EXECUÇÃO. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. EXCESSO DE EXECUÇÃO. REVISÃO DOS JUROS REMUNERATÓRIOS. ABUSIVIDADE NÃO VERIFICADA. PLEITO REVISIONAL INCABÍVEL. RECURSO CONHECIDO E DESPROVIDO.
+
+1. O pedido de concessão da justiça gratuita resta prejudicado quando houver recolhimento do respectivo preparo pela parte interessada. Tal comportamento é incompatível com o pleito formulado, como também afasta a alegada presunção de hipossuficiência econômica, conditio sine qua non para a concessão do benefício processual.
+
+2.  Pessoa jurídica que realiza contrato de renegociação de débitos de natureza de capital de giro por meio de cédula bancária, para incremento da atividade comercial, não se enquadra no conceito de consumidor final, de modo que não se mostra possível a aplicação das regras de defesa do consumidor.
+
+3. Os Tribunais têm compreendido que a taxa média de juros divulgada pelo Banco Central serve de baliza para o mercado e para a análise de eventuais abusividades. Porém, não constitui seu tabelamento ou sua limitação, porque sua fixação obedece a livre convenção das partes.
+
+4. O Superior Tribunal de Justiça, no julgamento do REsp 1.061.530-RS, sob o rito dos recursos repetitivos, firmou a tese da possibilidade da revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e a abusividade (capaz de colocar o consumidor em desvantagem exagerada). Não demonstrado o abuso de direito, não é possível a declaração de nulidade ou afastar a incidência do encargo contratado.
+
+5. APELAÇÃO CONHECIDA E DESPROVIDA.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LUÍS GUSTAVO B. DE OLIVEIRA - Relator, FÁTIMA RAFAEL - 1º Vogal e ROBERTO FREITAS FILHO - 2º Vogal, sob a Presidência do Senhor Desembargador ROBERTO FREITAS FILHO, em proferir a seguinte decisão: CONHECER E NEGAR PROVIMENTO, UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 11 de Abril de 2025
+
+Desembargador LUÍS GUSTAVO B. DE OLIVEIRARelator
+
+RELATÓRIO
+
+Trata-se de apelação interposta por DAMASCO MATERIAIS PARA ACABAMENTO LTDA; SEVERINO MENDES DE SOUZA; ADRIANA GONCALVES DE SOUZA, em face à sentença que julgou improcedentes os seus pedidos iniciais formulados em embargos à execução opostos em desfavor do BRB BANCO DE BRASILIA S.A.
+
+Adota-se parcialmente o relatório da sentença ora transcrito:
+
+“Trata-se de ação sob o rito ordinário ajuizada por DAMASCO MATERIAIS PARA ACABAMENTO LTDA - ME, SEVERINO MENDES DE SOUZA e ADRIANA GONCALVES DE SOUZA contra BANCO DE BRASÍLIA SA.
+
+No mérito, pleiteia a limitação de juros do contrato às taxas médias de mercado divulgadas pelo Banco Central, utilizando-se a menor das taxas de juros entre a média de mercado e a taxa contratada para o contrato em comento, no período da contratação, reconhecendo-se o valor final devido como R$ 184.491,43.
+
+Indeferida a gratuidade de justiça ao autor na decisão de ID 187100994.
+
+O embargado foi citado e apresentou impugnação no ID 192343414, na qual pugnou pela improcedência dos pedidos autorais.
+
+Réplica no ID 195821163.
+
+Os autos, então, vieram conclusos para julgamento.”
+
+Sobreveio sentença que julgou improcedentes os pedidos iniciais (ID. 67422631).
+
+Os embargantes interpuseram apelação. Destacaram novamente os termos da petição inicial quanto: a aplicação do código do consumidor; a abusividade dos juros além da taxa média do mercado e possibilidade de sua revisão (ID. 67422635).
+
+Requereram a gratuidade de justiça.
+
+Preparo recolhido, ID.  68702811.
+
+Contrarrazões, ID. 67422638.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - Relator
+
+Ação ajuizada em 22/01/2024. Sentença proferida em 04/10/2024. Apelação interposta em 30/10/2024.
+
+Presentes os pressupostos intrínsecos e extrínsecos de admissibilidade, conheço o recurso.
+
+Da gratuidade de justiça
+
+Inicialmente, analiso o pedido de gratuidade de justiça.
+
+Os recorrentes postularam o benefício processual, porém recolheram o preparo.
+
+Nesse contexto, o pedido de concessão da justiça gratuita resta prejudicado quando houver recolhimento do respectivo preparo pela parte interessada. Tal comportamento é incompatível com o pleito formulado, como também afasta a alegada presunção de hipossuficiência econômica, conditio sine qua non para a concessão do benefício processual. Confira-se julgado nesse sentido:
+
+“APELAÇÃO CÍVEL. GRATUIDADE DE JUSTIÇA. RECOLHIMENTO DO PREPARO. ATO INCOMPATÍVEL. PRECLUSÃO LÓGICA. AÇÃO DE COBRANCA DE ALUGUÉIS E OUTROS ENCARGOS LOCATÍCIOS. REGRA DA DISTRIBUIÇÃO ESTÁTICA DO ÔNUS DA PROVA. AUSÊNCIA DE PROVA DO PAGAMENTO. RECURSO CONHECIDO E DESPROVIDO.
+
+1. O pedido de concessão da justiça gratuita resta prejudicado quando houver recolhimento do respectivo preparo pela parte interessada. Tal comportamento é incompatível com o pleito formulado, como também afasta a alegada presunção de hipossuficiência econômica, conditio sine qua non para a concessão do benefício processual.
+
+[...]
+
+3. RECURSO CONHECIDO E DESPROVIDO.
+
+(Acórdão 1945566, 0746673-35.2023.8.07.0001, Relator(a): LUÍS GUSTAVO B. DE OLIVEIRA, 3ª TURMA CÍVEL, data de julgamento: 13/11/2024, publicado no DJe: 28/11/2024.).”
+
+Portanto, preclusa a análise do pedido de gratuidade.
+
+Questão de fundo
+
+Cuida-se de apelação interposta contra sentença que julgou improcedente o pleito revisional do contrato de renegociação de débitos por meio da emissão de cédula bancária.
+
+O cerne da questão está na análise de aventada abusividade na utilização de juros remuneratórios supostamente acima da taxa média praticada no mercado.
+
+Primeiramente, cabe mencionar a não aplicação do Código de Defesa do Consumidor ao caso. A pessoa jurídica que realiza contrato de renegociação de débitos de natureza de capital de giro por meio de cédula bancária, para incremento da atividade comercial, como no caso, não se enquadra no conceito de consumidor final, de modo que não se mostra possível a aplicação das regras de defesa do consumidor.
+
+O Superior Tribunal de Justiça, no julgamento do REsp 1061530/RS, sob o rito dos recursos repetitivos, firmou a tese a seguir a respeito do tema:
+
+“DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONFIGURAÇÃO DA MORA. JUROS MORATÓRIOS. INSCRIÇÃO/MANUTENÇÃO EM CADASTRO DE INADIMPLENTES. DISPOSIÇÕES DE OFÍCIO. DELIMITAÇÃO DO JULGAMENTO. Constatada a multiplicidade de recursos com fundamento em idêntica questão de direito, foi instaurado o incidente de processo repetitivo referente aos contratos bancários subordinados ao Código de Defesa do Consumidor, nos termos da ADI n.º 2.591-1. Exceto: cédulas de crédito rural, industrial, bancária e comercial; contratos celebrados por cooperativas de crédito; contratos regidos pelo Sistema Financeiro de Habitação, bem como os de crédito consignado. Para os efeitos do § 7º do art. 543-C do CPC, a questão de direito idêntica, além de estar selecionada na decisão que instaurou o incidente de processo repetitivo, deve ter sido expressamente debatida no acórdão recorrido e nas razões do recurso especial, preenchendo todos os requisitos de admissibilidade. Neste julgamento, os requisitos específicos do incidente foram verificados quanto às seguintes questões: i) juros remuneratórios; ii) configuração da mora; iii) juros moratórios; iv) inscrição/manutenção em cadastro de inadimplentes e v) disposições de ofício. PRELIMINAR O Parecer do MPF opinou pela suspensão do recurso até o julgamento definitivo da ADI 2.316/DF. Preliminar rejeitada ante a presunção de constitucionalidade do art. 5º da MP n.º 1.963-17/00, reeditada sob o n.º 2.170-36/01. I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE. ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada, art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto.(...) (REsp 1061530/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, DJe 10/03/2009)”
+
+Desse modo, a revisão da taxa de juros somente é possível em casos excepcionais, ou seja, em que se observem os requisitos da abusividade e aplicação do Código de Defesa do Consumidor. E de acordo com a jurisprudência em curso, a simples cobrança de juros acima da média de mercado não caracteriza, por si só, a abusividade.
+
+In casu, o apelante comparou a taxa de juros contratada (2,29% ao mês e 31,71% ao ano) com a taxa média de mercado (1,52%% ao mês e 19,89% ao ano), publicada pelo Banco Central.
+
+No entanto, a diferença havida entre as taxas, em números absolutos, não se revelou desproporcional ou desarrazoada na situação analisada, pois as do contrato não se mostraram tão destoantes das do mercado. Logo, descabe falar que as taxas de juros remuneratórios aplicadas seriam abusivas e discrepariam das taxas médias adotadas para o mesmo tipo de contrato.
+
+Nesse sentido já decidiu o Tribunal Cidadão:
+
+“CONTRATO BANCÁRIO. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. ABUSIVIDADE DA TAXA CONTRATADA EM RELAÇÃO À TAXA MÉDIA DE MERCADO. NECESSIDADE DE DEMONSTRAÇÃO. SÚMULAS N. 5 E 7 DO STJ. TAXA DE ABERTURA DE CADASTRO (TAC). NULIDADE JÁ PRONUNCIADA. INEXISTÊNCIA DE INTERESSE RECURSAL.
+
+1. É inviável o afastamento da aplicação da taxa de juros remuneratórios pactuada no contrato na hipótese em que a Corte a quo verificou não ter sido cabalmente demonstrada sua abusividade em relação à taxa média do mercado. Incidência da Súmula n. 7 do STJ.
+
+2. Não há interesse em recorrer quando o pleito já foi atendido na decisão impugnada.
+
+3. Agravo regimental desprovido.
+
+(STJ - AgRg no AREsp 579.107/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 10/2/2015, DJe 13/2/2015)” .
+
+Portanto, é possível concluir que as taxas de juros remuneratórios utilizados pelo recorrido não colocaram o consumidor em extrema desvantagem, o que inviabiliza acolher a pretensão revisional do contrato.
+
+Importante registrar ainda que as instituições financeiras não estão obrigadas a observar as taxas médias de mercados apuradas pelo BACEN, porquanto estas são apenas parâmetros sugestivos para as instituições bancárias, aos consumidores e, inclusive, para o Poder Judiciário, na apuração de possível abusividade em determinado caso concreto.
+
+Ademais, ressalta-se que a taxa de juros do contrato era de conhecimento do recorrente, que aderiu de maneira voluntária, inexistindo motivo para suscitar eventual falta de informação ou abusividade.
+
+Conclusão, a sentença não merece reproche.
+
+Ante o exposto, CONHEÇO E NEGO PROVIMENTO AO RECURSO.
+
+Nos termos do artigo 85, §11 do Código de Processo Civil, majoro em 2% (dois por cento) os honorários devidos pelos autores.
+
+É como voto.
+
+A Senhora Desembargadora FÁTIMA RAFAEL - 1º Vogal Com o relatorO Senhor Desembargador ROBERTO FREITAS FILHO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER E NEGAR PROVIMENTO, UNÂNIME
