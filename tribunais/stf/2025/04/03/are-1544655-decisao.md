@@ -1,0 +1,49 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O recurso foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    TRIBUTÁRIO. LEGITIMIDADE ATIVA. PIS E COFINS. CIGARROS E CIGARRILHAS TEMA 228 DO STF. INAPLICABILIDADE.
+
+    1. No regime de substituição tributária, o substituído, relativamente às contribuições objeto da substituição, é o contribuinte de fato e de direito, agindo o substituto como mero arrecadador da exação, de modo que o substituído possui legitimidade para pleitear a restituição.
+
+    2. O Supremo Tribunal Federal, em julgamento realizado nos autos do RE 596.832 (Tema 228 do STF), em sede de repercussão geral, reconheceu o direito do contribuinte de reaver valores de PIS e Cofins recolhidos a maior em razão da divergência entre a base de cálculo estimada e a efetiva, ocasião em que fixou a tese de que "é devida a restituição da diferença das contribuições para o PIS e Cofins recolhidas a mais, no regime de substituição tributária, se a base de cálculo efetiva das operações for inferior à presumida". O RE 596.832, selecionado como representativo da controvérsia no Tema STF 228, foi interposto por dois postos de gasolina que pleiteavam a restituição dos valores recolhidos a maior sobre a comercialização de combustíveis, a título de contribuição para o Programa de Integração Social – PIS e de Contribuição para o Financiamento da Seguridade Social – Cofins, mediante o regime de substituição tributária previsto no artigo 150, § 7º, da Constituição Federal e a regulação estabelecida pelo art. 4º da Lei 9.718/98.
+
+    3. No entanto, referida tese não se aplica na hipótese dos autos, dada a diversidade dos regimes estabelecidos pelo legislador e a atipicidade do regramento jurídico-tributário dos produtos de fumo, de indiscutível caráter extrafiscal.
+
+    4. No RE 596.832, o Supremo Tribunal Federal considerou o regime estabelecido pelo art. 4º da Lei 9.718/1998, que estimava a base de cálculo mediante a multiplicação do preço de venda da refinaria por quatro. Nesse regime, havia efetivamente uma presunção da base de cálculo futura, desconhecida (valor de venda dos combustíveis pelos varejistas aos consumidores finais), o que é próprio do regime da substituição tributária "para frente". Diversamente, a base de cálculo relativa às operações com produtos de fumo não é presumida, é consciente e significativamente majorada com base em valores conhecidos, pré-determinados, o que denota a criação de um regime de substituição tributária atípico.
+
+    5. A atipicidade decorre da inexistência de uma base de cálculo presumida e do caráter extrafiscal do regime. Na substituição tributária "para frente", cobra-se de sujeito passivo situado em etapa antecedente da cadeia econômica (usualmente, o fabricante) o tributo que será devido em etapa sucessiva, em geral na etapa de venda pelo varejista ao consumidor final. Por se tratar de fato futuro e inexistir pré-determinação da base de cálculo da operação do substituído, presume-se o valor desta com base no valor da operação praticada pelo substituto ou em tabelas não vinculantes de preço de venda no varejo e, dessa forma, estabelece-se a base de cálculo do tributo devido por este, na condição de substituto tributário. Posteriormente, verificada venda ao consumidor final por valor inferior ao presumido, autoriza-se, segundo a jurisprudência atual do STF, a restituição da diferença ao substituído. De outro lado, na substituição tributária progressiva estabelecida pelo art. 3º da LC 70/1991 e pelo art. 5º da Lei 9.715/98, não se considera o valor da operação praticada pelo substituto e sequer se adotam os valores de tabelas de preço no varejo: determina-se a tributação sobre base de cálculo vultosamente ampliada, apurada pela multiplicação dos valores constantes nas tabelas de venda ao consumidor por aproximadamente três vezes.
+
+    6. É evidente que a intenção do legislador não é presumir a base de cálculo da operação do varejista, que, por sinal, é tabelada: é incrementar a tributação, utilizando-se de artifício diametralmente oposto ao da conhecida redução da base de cálculo para obter o efeito extrafiscal de reduzir o consumo de fumo. Caso fosse aplicada a tese do Tema nº 228 do STF ao caso dos autos, anular-se-ia por completo essa intenção do legislador, porquanto deixaria de haver uma ampliação da base de cálculo e, consequentemente, um incremento da tributação para se tributar precisamente os valores pré-definidos de venda a varejo, mediante as alíquotas aplicáveis às receitas auferidas com a venda de produtos em geral (3,65%).
+
+    7. Conclui-se que o Tema nº 228 do STF não pode ser aplicado ao regime atual de substituição tributária progressiva dos produtos de fumo, no contexto da COFINS e da contribuição ao PIS, haja vista que esse regime é atípico, visto não presumir um valor desconhecido de venda ao varejo, senão majorar intencionalmente a base de cálculo conhecida, pré-determinada. Noutros termos, a intenção do legislador não é a de tributar o valor de venda a varejo mediante a aplicação das alíquotas gerais, senão a de tributar o seu triplo, o que é instrumentalizado pela majoração da base de cálculo, para se incrementar o preço final dos produtos e, por consequência, inibir o consumo. Todas essas razões levam à improcedência da pretensão veiculada pela parte autora, que, caso acolhida, vilipendiaria a intenção do legislador e o dever fundamental do Estado de tutelar a saúde dos cidadãos, mediante "políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos" (art. 196 da Constituição da República de 1988).
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 150, §7º, e 153 da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/02/2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 06/12/2018).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 07/04/2016).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 3 de abril de 2025.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Presidente
+
+Documento assinado digitalmente
