@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DOROTHY MINITTI e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO. GRATUIDADE. DECISÃO RECORRIDA EM QUE SE RECONHECEU A AUSÊNCIA DE PROVA DA NECESSIDADE DOS APELANTES. REQUERIMENTO FORMULADO SOMENTE EM APELAÇÃO, POR ISSO SUJEITO MESMO À COMPROVAÇÃO. AUSENTE PRESUNÇÃO DE NECESSIDADE. PRECEDENTES. INDEFERIMENTO, AINDA, DO PEDIDO DE DIFERIMENTO. ENTENDIMENTO QUE NÃO SE ALTERA PELOS DOCUMENTOS JUNTADOS COM O AGRAVO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte recorrente aduz ofensa e interpretação divergente ao art. 98, § 1º, I, do CPC, no que concerne à necessidade de concessão da gratuidade de justiça, tendo em vista a demonstração da sua condição de hipossuficiência, trazendo a seguinte argumentação:
+Outrossim, a ação foi ajuizada em 2008, ou seja, há 16 (dezesseis) anos, sendo que, em tal período, a situação financeira dos Recorrentes mudou drasticamente.
+Assim, apesar da celebração do contrato de parceria imobiliária tratada nos autos há décadas, isso não é indicativo de que, atualmente, a situação financeira dos Recorrentes seja favorável, pois não é.
+Assim, apesar da Recorrente Dorothy ser servidora pública aposentada e o Recorrente Nelson ser médico, isso não significa que possuem recursos atualmente. No mais, são idosos, a primeira com 84 anos e o segundo com 80 anos de idade.
+Conforme exposto em sede de apelação, restou comprovado que o Sr.
+Nelson se encontra com gravíssimos problemas de saúde (portador de DRC- G5- dialítico), submetendo-se a sessões de hemodiálise 03 vezes por semana, para controle volêmico e metabólico , por tempo indeterminado, conforme demonstra o Relatório Médico novamente juntado (doc. 04), datado em 27.09.2023.
+De outra parte, a Sra. Dorothy, ora Recorrente, é mãe e curadora do Sr. Eduardo Luis Maiuri (docs. 05 e 06), sendo ele portador de Esquizofrenia, o que demanda diversos cuidados e gastos.
+Assim, nos termos dos Relatórios Médicos já juntados (docs. 07 e 08), em virtude da doença que acomete o Sr. Eduardo, ele se encontra totalmente impossibilitado de laborar, vivendo, portanto, desde o seu nascimento, às custas da mãe, a Sra. Dorothy, ora Recorrente.
+Outrossim, a Recorrente Dorothy tem gastos altíssimos com ela mesma que e é idosa e com o filho doente (doc. 09).
+Portanto, diante do quadro em que se encontram os Recorrentes (ambos idosos, um deles com doença grave e a outra, com mais de 80 anos - doc. 10 - e, ainda, sustentando, a vida inteira um filho doente), inegavelmente, não possuem recursos financeiros para arcar com todas as despesas e custas deste feito, sobretudo o preparo deste recurso de apelação, pelo que esperam e confiam na concessão do benefício ora requerido.
+Dessa forma, de rigor a concessão dos benefícios da justiça gratuita (fls. 1.456-1.457).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Neste sentido, constata-se que mesmo o interno não foi instruído com qualquer prova concreta que pudesse infirmar as razões acima repisadas e que, por isso, se ratificam, persistindo o panorama de ausência de prova da insuficiência financeira alegada.
+A esse respeito, nota-se que foram apresentados os mesmos documentos já apreciados, com acréscimo apenas de comprovante de rendimentos pagos ao plano "saúde caixa" (fls. 18), sem qualquer documentação apta a demonstrar a precária situação financeira anunciada pelos agravantes. Acresce que, se o valor do preparo é elevado, isto deriva justamente dos valores envolvidos no contrato de parceria imobiliária que os próprios agravantes celebraram, não demonstrada, como se viu, a impossibilidade financeira para pagamento.
+ ..
+Destarte, forçoso concluir, tal qual assentado na monocrática, que os recorrentes não se desincumbiram do ônus de demonstrar a necessidade do benefício (fls. 1.442-1.444).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16.8.2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 22.5.2020; AgInt no AREsp 1.564.850/MG, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.3.2020; AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 18.4.2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11.3.2019.
+Ademais, quanto à alínea "c", verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
