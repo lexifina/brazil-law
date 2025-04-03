@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso esp ecial em razão da Súmula n. 7/STJ e da ausência de violação dos dispositivos legais (fls. 190-197).
+O acórdão recorrido encontra-se assim ementado (fls. 78-79):
+Agravo de Instrumento. Ação de Obrigação de Fazer c/c Reparatória por Danos Morais. Relação de Consumo. Contrato de Plano de Saúde. Verbete nº 608 da Súmula do STJ. Demandante que objetiva a autorização do plano de saúde para realização dos tratamentos dentários prescritos por seu médico. Tutela de urgência inicialmente deferida. Pedido de emenda da inicial para incluir na tutela de urgência o fornecimento da prótese unilateral customizada requisitada pelo médico assistente. Decisão de indeferimento. Irresignação autoral. Requisitos do art. 300 do CPC. Laudo médico colacionado aos autos que atesta a necessidade da referida prótese dentária para o tratamento do Requerente, demonstrando a probabilidade do direito. Inteligência do Enunciado nº 210 da Súmula desta Corte Estadual, segundo o qual, " p ara o deferimento da antecipação da tutela contra seguro saúde, com vistas a autorizar internação, procedimento cirúrgico ou tratamento, permitidos pelo contrato, basta indicação médica, por escrito, de sua necessidade". Necessidade de perícia, aludida pela Agravada, que se mostra digna de cognição exauriente, não cabendo na cognição sumária própria ao Agravo de Instrumento e à tutela de urgência. Incidência, também, dos Verbetes Sumulares nos 211 ("Havendo divergência entre o seguro saúde contratado e o profissional responsável pelo procedimento cirúrgico, quanto à técnica e ao material a serem empregados, a escolha cabe ao médico incumbido de sua realização") e 340 ("Ainda que admitida a possibilidade de o contrato de plano de saúde conter cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento da doença coberta pelo plano") deste Tribunal de Justiça, visto ser o médico assistente quem detém o melhor conhecimento sobre a situação clínica e particularidades da paciente. Emenda que não modifica o pedido ou a causa de pedir, já que o material se mostra necessário à realização da intervenção cirúrgica necessária à correção dos problemas dentários do paciente. Probabilidade do direito configurada. Periculum in mora também demonstrado através do laudo médico. Presença dos requisitos do art. 300 do CPC, impondo-se a reforma do decisum para conceder o material requisitado. Conhecimento e provimento do recurso.
+Os embargos de declaração foram desprovidos (fls. 139-144).
+Nas razões do recurso especial (fls. 160-169), interposto com fundamento no art. 105, III, "a", da CF, a parte alegou violação dos arts. 489, § 1º, I, II e III, e 537, §1º, do CPC/2015.
+Insurge-se contra a conclusão da Corte local limitou o montante das astreintes, fixadas em R$ 500,00 (quinhentos reais) por dia, a R$ 10.000,00 (dez mil reais.
+A parte agravante afirma:
+(i) ofensa ao art. 489, § 1º, I, II e III, do CPC/2015, visto que (fls. 167-168):
+a.  a  multa foi reduzida conforme menção feita no último parágrafo do acórdão atacado, isto é, em seu dispositivo; e
+b.  t rata-se de emprego de conceito jurídico indeterminado, que não explica o motivo concreto de sua incidência e relação com o caso concreto, além de configurar motivo que se prestaria a justificar qualquer outra decisão judicial.
+(ii) violação do art. 537, §1º, do CPC/2015, argumentando que (fl. 166):
+a. entre a intimação para cumprir espontaneamente, sob pena de multa  .. , e o efetivo bloqueio de valores  .. , passaram-se cerca de 90 dias multa no valor de R$500,00, cenário que resulta em uma multa aproximada de R$45.000,00;
+b.  e sse valor virtual jamais poderia ser considerado excessivo em eventual execução, mas, ainda assim, se o fosse, poderia ser, nesse momento, reduzido;
+c. o juiz somente poderá modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que (I) se tornou insuficiente ou excessiva ou (II) o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento;
+No agravo (fls. 210-214), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 219-224).
+O Ministério Público apresentou parecer com a seguinte ementa (fls. 263-265):
+AGRAVO NO RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. TUTELA DEFERIDA PELA CORTE DE ORIGEM. TRATAMENTO DEVIDO. LIMITAÇÃO DO TETO DA MULTA COMINATÓRIA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO. REEXAME. S. 7/STJ. PARECER PELO NÃO CONHECIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Trata-se, na origem, de ação de obrigação de fazer cumulada com danos morais em que foi deferida tutela de urgência determinando a realização de procedimento cirúrgico bucomaxilofacial em favor do demandante, com utilização do material prescrito pelo médico assistente.
+Em seguida, o pedido foi aditado para inclusão de "prótese unilateral customizada, nos moldes indicados pela cirurgiã assistente do autor" (fl. 4).
+O Juízo, então, reconsiderou, em parte, a decisão anterior, para indeferir o pedido de cobertura do material cirúrgico e "fixar, também, como ponto controvertido a pertinência do material solicitado pelo médico assistente" (fls. 6-7).
+Houve agravo de instrumento, no curso do qual o relator, monocraticamente, deferiu tutela antecipada recursal para determinar a autorização da cirurgia "com todos os materiais indicados" (fl. 26), inclusive a prótese unilateral customizada, no prazo de 72 (setenta e duas) horas, sob pena de multa diária no valor de R$ 500,00 (quinhentos reais) por dia" (fl. 26).
+No julgamento de mérito do referido agravo, a Corte local confirmou a tutela recursal anteriormente concedida, mas limitou o montante das astreintes "a R$ 10.000,00 (dez mil reais)" (fl. 87).
+(I) Inexiste afronta ao art. 489, § 1º, I, II e III, do CPC, quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à limitação das astreintes, o Tribunal de origem assim se manifestou (fl. 143):
+ ..  a multa por descumprimento de obrigação de fazer não possui, nem pode possuir, caráter punitivo, mas tão somente coercitivo, visando a compelir a parte ré à satisfação da determinação judicial.
+Por isso, a fixação de seu patamar referencial não pode superar os parâmetros dos princípios da razoabilidade e da proporcionalidade ou proporcionar o enriquecimento sem causa da parte adversa, motivo pelo qual a limitação se mostra adequada.
+..
+Destarte, considerando o caráter coercitivo das astreintes, descabendo qualquer caráter reparatório, bem como a notícia de satisfação da obrigação nos autos originários  .. , revela-se descabida qualquer alteração do Acórdão impugnado.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos no art. 489, §1º, I, II e III, do CPC.
+(II) Verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base no art. 537, § 1º, do CPC/2015 - segundo o qual "O juiz poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la" -, porque a norma em referência diz respeito à modificação pelo mesmo órgão jurisdicional que fixou as astreintes, não à reforma por órgão jurisdicional de hierarquia superior, na via recursal, como ocorreu na hipótese.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários advo catícios, na forma do art. 85, § 11, do
+CPC/2015, porquanto não foram fixados nas instâncias originárias.
+Publique-se e intimem-se
+EMENTA
