@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurs o especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional, para desafiar acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 57):
+AGRAVO DE INSTRUMENTO. PERDA DE OBJETO. RECURSO NÃO CONHECIDO. Caso no qual a decisão agravada foi anulada. De tal modo, o feito perdeu o objeto e resta evidenciada a inutilidade de qualquer discussão acerca do ato jurisdicional agravado. Agravo de instrumento não conhecido.
+Embargos de declaração rejeitados (e-STJ fls. 80/82).
+Nas suas razões, a parte recorrente sustenta violação do art. 1.022, I e II, do CPC/2015, argumentando que "a União postulou o pronunciamento específico do Tribunal a quo sobre o fato de que a decisão objeto do recurso foi dividida em capítulos, sendo certo que a anulação ocorreu apenas em relação à homologação dos cálculos, nada dispondo sobre a rejeição da impugnação constante do mesmo ato judicial, notadamente em relação à arguição de que não há créditos a executar, matéria que, inclusive, não foi apreciada. Observe-se que a questão é antecedente lógico da liquidação, nos termos das razões recursais aduzidas. Observe-se que a questão é antecedente lógico da liquidação, nos termos das razões recursais aduzidas" (e-STJ fl. 92).
+Contrarrazões às e-STJ fls. 103/107.
+Juízo positivo de admissibilidade (e-STJ fls. 113/114).
+Passo a decidir.
+Verifico que a irresignação recursal não merece prosperar.
+Em relação à alegada ofensa do art. 1.022 do CPC/2015 , cumpre destacar que, ainda que a recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESCISÃO CONTRATUAL. PERDAS E DANOS. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DO BEM DE FAMÍLIA. EXCEÇÃO. INAPLICABILIDADE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE EMPREITADA. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não viola os arts. 1.022, parágrafo único, I, II e III, e 489, § 1º, V e VI, do Código de Processo Civil de 2015 nem importa em negativa de prestação jurisdicional o acórdão que adota fundamentação suficiente para a resolução da causa, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+3. Na hipótese, rever as premissas adotadas pelo tribunal de origem a partir das circunstâncias fático-probatórias dos autos, a fim de adotar o entendimento de que a dívida foi contraída para a construção da casa, encontra o óbice da Súmula nº 7/STJ.
+4. A incidência da Súmula nº 7/STJ inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional, restando prejudicado o exame da divergência jurisprudencial.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.580.632/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA julgado em 31/8/2020, DJe de 3/9/2020). (Grifos acrescidos).
+No caso, o Tribunal de origem decidiu integralmente a controvérsia. Mostra-se pertinente transcrever trecho do acórdão integrativo que se refere expressamente ao ponto suscitado (e-STJ fls. 80/81):
+Em seu recurso (evento 21), a parte embargante afirma que há omissão no julgado; que " ..  a decisão objeto do recurso foi dividida em capítulos, sendo certo que a anulação ocorreu apenas em relação à homologação dos cálculos, nada dispondo sobre a rejeição da impugnação constante do mesmo ato judicial, notadamente em relação à arguição de que não há créditos a executar, matéria que, inclusive, não foi apreciada."; que " ..  a promoção do Autor embargado, com base no título judicial, seria na graduação de Cabo, em conformidade com o art. 6º, §4º, da Lei nº 10.559/2002, sendo a opção natural do Agravado pela decisão administrativa concessiva de anistia, posto que mais benéfica."; que "Acrescente-se que não há respaldo jurídico para cisão de cumprimento de julgado como pretendido, ou seja, não seria possível juridicamente ignorar a obrigação de fazer decorrente do título judicial (que resultaria na redução da reparação econômica), a fim de se calcular apenas os seus efeitos na parte que não prejudica a parte recorrida."; que " ..  não há crédito a executar, consoante o disposto no art. 16 da Lei nº 10.559/02, notadamente porque os valores pagos a maior do que os garantidos pela coisa julgada teriam que ser compensados, zerando o crédito que se pretende executar (ou seja, a discussão não gira em torno apenas de parcelas vencidas, mas também de vincendas)."
+ ..
+Não existem os vícios do art. 1022, mas sim irresignação da embargante com o resultado do julgamento. A parte recorrente pretende conferir aos seus embargos declaratórios efeitos modificativos, com o reexame da questão, o que é incabível nas vias estreitas dos embargos.
+O acórdão embargado apreciou de modo suficiente a questão, conforme se depreende do voto condutor do evento 16. Confiram-se os trechos pertinentes:
+" ..  A União interpôs o presente recurso contra a decisão do evento 385, a qual foi anulada pela decisão do evento 400, conforme abaixo transcrito:
+"Cuida-se de embargos de declaração opostos por MANOEL NAZARENO FERNANDES sustentando a existência de omissão e contradição na decisão de evento 385 (evento 390).
+Contrarrazões da União pugnando pelo desprovimento do recurso (evento 397).
+É o necessário. Decido.
+O embargante alega que não foi respeitado o tema 1.170 e 810 da repercussão geral, uma vez que os juros moratórios não foram aplicados no percentual de 01% ao mês até a entrada em vigor da Lei 11.960, em 29/06/2009.
+De fato, o parecer da contadoria informa que os juros moratórios foram aplicados no percentual de 1% ao mês apenas até 08/2001, sendo de 6% ao ano até 07/2009 e depois juros de poupança até 11/2021, passando a incidir a SELIC a partir de 12/2021 (evento 374).
+Nessa toada, os juros foram fixados na sentença no percentual de 1% ao mês, o que deve ser seguido até a entrada em vigor da Lei 11.960 e, posteriormente, até a entrada em vigor da EC nº 113/2021.
+Logo, existe a contradição apontada pelo embargante.
+Diante do exposto, CONHEÇO dos embargos de declaração e DOU-LHES PROVIMENTO para afastar a homologação dos cálculos realizada no evento 385 e DETERMINAR nova remessa dos autos ao contador para que apure os juros moratórios na forma descrita acima.
+Por fim, saliento que a data-base dos cálculos deverá ser posicionada em 03/2022, a mesma utilizada pelas partes nos eventos 313 e 320."
+De tal modo, o feito perdeu o objeto e resta evidenciada a inutilidade de qualquer discussão acerca do ato jurisdicional agravado."
+Eventual divergência entre o resultado do julgamento e a análise de provas pretendida pelo interessado, ou entre o resultado e a interpretação da legislação desejada pela parte, não justificam a oposição de embargos de declaração. (Grifos acrescidos).
+Não há que falar, portanto, em negativa de prestação jurisdicional.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado , nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
+EMENTA
