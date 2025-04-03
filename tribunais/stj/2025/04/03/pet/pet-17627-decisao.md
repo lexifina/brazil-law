@@ -1,0 +1,18 @@
+DECISÃO
+É deste teor o pronunciamento do Ministério Público Federal (Subprocuradora-Geral Maria do Socorro Leite de Paiva):
+WELLINGTON CLAIR DE CASTRO peticiona requerendo o levantamento das medidas assecuratórias de arresto e sequestro de bens e valores, tendo em vista que não estão mais presentes os requisitos previstos nos arts. 125 e 136 do Código de Processo Penal.
+Sustenta que, uma vez absolvido pelo Tribunal de Justiça, a interposição de recurso especial e, após, agravo pelo Ministério Público não sustenta a manutenção das medidas, porquanto tais recursos não possuem efeito suspensivo.
+O art. 131, III do Código de Processo Penal estabelece que o sequestro de bens será levantado se o réu for absolvido por sentença transitada em julgado.
+Por sua vez, o art. 386, parágrafo único, II do referido Código dispõe que, na sentença absolutória, o juiz determinará a cessação das medidas cautelares e provisoriamente aplicadas.
+A aparente contradição entre os dispositivos foi solucionada pelo Superior Tribunal de Justiça relativizando a regra contida no art. 131, III do CPP que prevê a necessidade do trânsito em julgado para o levantamento das medidas assecuratórias.
+Essa egrégia Corte entendeu que a sentença absolutória, ainda que pendente de recurso, implica a revogação das medidas assecuratórias, desde que os bens não mais interessem ao processo, porquanto a absolvição, ainda que recorrível, afirma a presunção de inocência do acusado. Eis os seguintes precedentes:
+(..) 1. O Tribunal a quo baseou seu entendimento de denegação da ordem na inexistência de direito líquido e certo a amparar a concessão de mandado de segurança, tendo em vista que o indeferimento do pedido de levantamento das medidas constritivas impostas baseou-se no interesse dos mesmos ao processo. Assim sendo, não transitada em julgado a sentença absolutória e estando pendente o exame do recurso de apelação do Ministério Público, que inclusive insiste no perdimento do bens, necessário aguardar o trânsito em julgado.
+2. É certo que não há incompatibilidade entre os arts. 131, III, e 386, parágrafo único, II, do Código de Processo Penal - CPP. Ou seja, a sentença absolutória, ainda que recorrível, implica a revogação das medidas assecuratórias, desde que os bens objeto da constrição não mais interessem ao processo. No entanto, no caso dos autos, diante do interesse dos bens ao processo, impõe-se aguardar o trânsito em julgado.
+Precedentes.
+(..) (AgRg no RMS n. 68.825/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022) (..) 1. Não há incompatibilidade entre os arts. 131, III, e 386, parágrafo único, II, do Código de Processo Penal. A sentença absolutória, ainda que recorrível, implica a revogação das medidas assecuratórias, desde que os bens objeto da constrição não mais interessem ao processo. Caso contrário, impõe-se aguardar o trânsito em julgado. Sobre o tema, veja-se, do STF, a decisão proferida na AP 470, Rel. Ministro JOAQUIM BARBOSA, DJe 26/3/2013.
+2. O sequestro, de um lado, se justifica quando há indícios veementes da proveniência ilícita do bem, dando primazia à efetividade do processo penal. De outro lado, a absolvição, mesmo não transitada em julgado, afirma a presunção de inocência do acusado. Precedentes deste Superior Tribunal.
+(..) (RMS n. 49.801/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/4/2016, DJe de 15/4/2016)
+Com essas considerações, tendo em vista a absolvição do requerente, o Ministério Público Federal opina pelo deferimento do pedido.
+Acolhendo, pois, a manifestação ministerial, defiro o pedido formulado na inicial para determinar o levantamento dos valores sequestrados na Medida Cautelar n. 0010387-13.2020.8.13.0236.
+Publique-se. Intimem-se.
+EMENTA
