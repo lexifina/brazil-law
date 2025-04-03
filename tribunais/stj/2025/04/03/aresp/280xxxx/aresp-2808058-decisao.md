@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por EVERSON VOM STEIN contra decisão que não admitiu o recurso especial contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl.149):
+ACIDENTÁRIA - LESÕES NO MEMBRO SUPERIOR ESQUERDO - AÇÃO AJUIZADA ANTERIORMENTE AINDA EM TRÂMITE - LITISPENDÊNCIA CONFIGURADA.
+"Levando-se em conta ter o autor ajuizado demanda anterior, ainda em curso, pleiteando benefício acidentário em razão das mesmas lesões aqui consideradas, tem-se por configurada a litispendência a obstar o prosseguimento do presente feito".
+Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 168-171).
+Nas razões do recurso especial (e-STJ, fls. 177-205), o recorrente apontou violação aos arts. 5º, LIV e LV, 93, IX, da Constituição Federal; 337, VI, §§ 1º, 2º e 3º, 489, II e § 1º, III e IV, do CPC/2015.
+Sustentou, em síntese, negativa de prestação jurisdicional e deficiência na fundamentação do acórdão recorrido, por deixar de analisar os argumentos levantados e o contexto probatório, aptos a comprovar que, após o ajuizamento da primeira ação, o recorrente passou por nova cirurgia, que agravou seu quadro incapacitante.
+Defendeu a não ocorrência de litispendência entre o presente feito, que busca a concessão do benefício por incapacidade acidentária, e o processo 1059928- 94.2023.8.26.0053, que trata de auxílio-acidente e reabilitação.
+Alegou que houve cerceamento de defesa, por não ter sido oportunizada a realização de perícia médica.
+Sem contrarrazões (e-STJ, fl. 209).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, vale ressaltar que, concernente à alegação de ofensa aos arts. 5º, LIV e LV, 93 da CF/1988, é evidente a inadequação da via recursal eleita, porquanto "é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, trata-se de matéria própria do apelo extraordinário para o Supremo Tribunal Federal" (AgInt no AREsp n. 1.904.567/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024.)
+No tocante à apontada afronta ao art. 489 do Código de Processo de 2015, sem razão ao recorrente, uma vez que as questões deduzidas no processo foram resolvidas satisfatoriamente, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, conforme excerto do voto dos aclaratórios abaixo transcrito (e-STJ, fls. 168-171, sem grifo no original):
+O Acórdão foi absolutamente claro e inequívoco ao externar o fundamento no qual se embasou para reconhecer configurada a litispendência na hipótese a fomentar o decreto de extinção do processo sem exame do mérito, com enfoque no sentido de que nas ações acidentárias a espécie do benefício a ser deferido está condicionado à constatação da magnitude do prejuízo funcional a ser indenizado, o que, por óbvio, somente ocorre com a avaliação médica no curso do processo, de sorte que o mero pedido de benefício diverso formulado na ação anterior em curso não tem o condão de afastar a configuração da litispendência (inteiro teor do Acórdão nas páginas 148/152 dos autos principais).
+Assim, estando devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação ao referido dispositivo da legislação processual.
+A esse respeito, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DEMORA NA REALIZAÇÃO DE CIRURGIA ONCOLÓGICA. PERDA DA VISÃO E DEFORMAÇÃO DA FACE. ARTS. 489, § 1º, E 1.022, II, DO CPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. RESPONSABILIDADE CIVIL. REQUISITOS. NEXO DE CAUSALIDADE. VALOR DA INDENIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. Não se verifica ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.658.461/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. OFENSA AO ART.1.022 DO CPC/2015 NÃO CONFIGURADA. LITISPENDÊNCIA. SÚMULA 7/STJ. INCLUSÃO DO ACIDENTE DE TRAJETO NO CÁLCULO DO FAP. POSSIBILIDADE.
+1. Não há a ofensa ao art. 1.022 do CPC/2015, porque o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, embora contrariamente aos interesses da pare ora recorrente, observando as questões relevantes e imprescindíveis à sua resolução.
+2. O aresto vergastado decidiu existir litispendência e não prejudicialidade externa. Além disso, conclui pela regularidade dos elementos que compuseram o índice do FAP, dentre os quais os acidentes de trajeto. Ademais, anotou não haver prova de que o auxílio-doença previdenciário tenha sido incluído indevidamente no citado cálculo do FAP. Finalmente, julgou inviável examinar a alegada impossibilidade de inclusão de benefício previdenciário contestado administrativamente, por entender que tal tese configura inovação recursal.
+3. É inviável analisar a tese defendida no Recurso Especial de que há litispendência, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+(..)
+7. Recurso Especial parcialmente conhecido e não provido.
+(REsp n. 2.032.185/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/2/2023, DJe de 28/3/2023.)
+Em relação à litispendência, o Tribunal de origem apontou a existência de identidade das ações propostas, com duplicidade no pedido relacionado ao mesmo acidente de trabalho, razões pelas quais foi julgada extinto processo, sem resolução do mérito.
+Veja-se (e-STJ, fl. 151, sem destaque no original):
+É inequívoco, consoante se infere do contexto dos autos, ter o autor ajuizado anterior ação perante a Justiça Estadual (Processo 1059928- 94.2023.8.26.0053) embasada na mesma causa de pedir (lesões no membro superior esquerdo resultantes de acidente de trabalho), com sentença de procedência com a concessão de auxílio-acidente a partir do dia seguinte ao da cessação do auxílio-doença (02/11/2023), ainda não transitada em julgado, à vista dos correspondentes autos digitais.
+Inegável, a meu juízo, que o ajuizamento de ação anterior, ainda em curso, embasada na mesma causa implica conflito do interesse processual e traduz manifesta temeridade face à possibilidade, em tese, da prolação de julgados conflitantes gerando verdadeiro caos ao ordenamento jurídico. Outrossim, anoto que nas ações deste jaez a espécie do benefício a ser deferido está condicionado à constatação da magnitude do prejuízo funcional a ser reparado, o que, evidentemente, só se dá mediante avaliação médica no curso do feito, de modo que se na outra ação distribuída primeiro, e ainda em curso, tenha o autor formulado pedido de concessão de benefícios diversos, tal circunstância não tem o condão de afastar a litispendência configurada.
+Logo, se assim é, tem-se por configurada na hipótese a litispendência a obstar o prosseguimento da presente demanda.
+Nesse contexto, a revisão do julgado quanto à conclusão alcançada pela Corte de origem quanto à identidade das ações propostas e à litispendência importa necessariamente o reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado da Súmula n. 7 deste Superior Tribunal.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RELATIVIZAÇÃO DA COISA JULGADA AFASTADA. FUNDAMENTO CONSTITUCIONAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A controvérsia foi dirimida com fundamento eminentemente constitucional, especificamente com base no art. 58 do ADCT, bem como em julgados do Supremo Tribunal Federal, de modo que o Recurso Especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao STF.
+2. Na forma da jurisprudência dominante do Superior Tribunal de Justiça, analisar a alegada ofensa à litispendência e à coisa julgada importa em reexame de provas, aplicando-se o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.353.629/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/6/2024, DJe de 24/6/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. 1. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE EXAME PELO STJ. 2. OFENSA AO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. 3. LITISPENDÊNCIA RECONHECIDA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
