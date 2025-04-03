@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 211):
+CONSTITUCIONAL E PROCESSUAL CIVIL - Apelação Cível e Recurso Adesivo - Ação de obrigação de fazer c/c danos morais - Plano de saúde - Sentença julgada procedente em parte - Irresignação - Medicamento - Fornecimento - Entendimento do STJ - Medicamento quimioterápico - Obrigação - Dano moral - Existência - Previsão contratual - Pleito de majoração pela parte autora - Não cabimento - Razoabilidade e proporcionalidade - Honorários advocatícios - Fixação razoável - Manutenção da sentença - Desprovimento.
+- O entendimento recente do Superior Tribunal de Justiça é no sentido de não ser abusiva a restrição, por cláusula expressa do contrato de plano de saúde, de medicamentos de uso domiciliar, desde que não sejam fármacos antineoplásticos orais, utilizados em tratamento contra o câncer, medicação assistida para tratamentos em home care, além de medicamentos com cobertura exigida pela ANS e registrados na ANVISA.
+- O Superior Tribunal de Justiça vem decidindo que não gera dano moral quando o plano de saúde se nega a custear tratamento médico com base em previsão contratual que excluía expressamente a cobertura.
+- Ocorre que no caso em questão, houve a negativa do fornecimento do medicamento, mesmo existindo previsão contratual para o seu fornecimento, restando configurado o ato ilícito praticado, o que enseja a indenização por dano moral.
+- O propósito do valor indenizatório a ser arbitrado tem por fundamento não premiar aquele que sofreu o dano, e sim, desestimular a prática desses atos ilícitos, taxando uma sanção pecuniária ao infrator, por ser responsável pelo ato que foi a causa de pedir nesta ação indenizatória, e reparar o dano sofrido por aquele que não deu causa ao evento danoso.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 10 e 12 da Lei n. 9.656/98; arts. 186 e 927 do Código Civil; bem como divergência jurisprudencial.
+Sustenta, em síntese, que não possui obrigação legal ou contratual de custear o tratamento pleiteado, considerando que não se encontra previsto no rol de procedimentos da ANS, tendo este natureza taxativa.
+Alega que não existe razão para a condenação em danos morais, uma vez que não há dano pela simples negativa de cobertura.
+Não foram apresentadas contrarrazões.
+Assim delimitada a controvérsia, passo a decidir.
+Na origem, a autora propôs ação objetivando o custeio do restante do tratamento com o medicamento LUCENTIS (RANIBIZUMABE) e o reembolso do valor já despendido, haja vista o diagnóstico de "quadro de oclusão de veia central da retina com edema macular do olho esquerdo". Postulou ainda, pelo pagamento de indenização por danos morais.
+A sentença julgou procedentes em parte os pedidos, para condenar a ré a promover o tratamento da autora, além do pagamento de indenização por danos morais no valor de R$5.000,00.
+Interposta apelação por ambas as partes, o Tribunal local negou provimento aos recursos.
+Irresignada, a ré interpôs recurso especial, não admitido pelo Tribunal, o que ensejou a interposição do presente agravo.
+Em que pesem as alegações da parte recorrente, não merece reforma o acórdão recorrido.
+O Tribunal de origem, ao analisar a controvérsia, consignou ser abusiva a negativa de cobertura do procedimento solicitado, conforme segue (fls. 214-221):
+Compulsando os autos, verifica-se que a autora foi diagnosticada com sérios problemas oftalmológicos com patologia CID H34 - com quadro de oclusão da veia central de retina e edema macular do olho esquerdo, necessitando do tratamento quimioterápico com aplicação de três ampolas de LUCENTIS.
+Observa-se, ainda, que a autora afirmou que foi autorizada uma diária hospitalar e quimioterapia, mas a droga necessária (LUCENTIS) foi negada, tendo a família pago a ampola, no valor de R$ 3.000,00 (três mil reais).
+A atividade de prestação de plano de saúde objeto dos autos está abrangida pelo Código de Defesa do Consumidor, tendo em vista o disposto no art. 3º, § 2º, devendo suas cláusulas obedecerem às regras dispostas na legislação consumerista, a fim de evitar eventuais desequilíbrios entre as partes, especialmente em virtude da hipossuficiência do consumidor em relação ao fornecedor.
+Nesse sentido, já sumulou o Superior Tribunal de Justiça. Veja-se:
+Súmula 608: Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão".
+Ademais, é entendimento jurisprudencial dominante de que não cabe às seguradoras de assistência à saúde eleger o tipo de medicamento ou procedimento mais adequado para o tratamento da paciente, quando a doença que a acomete está dentro do plano de cobertura contratual. Veja-se:
+ ..
+Convém ressaltar que o entendimento recente do Superior Tribunal de Justiça é no sentido de não ser abusiva a restrição, por cláusula expressa do contrato de plano de saúde, de medicamentos de uso domiciliar, desde que não sejam fármacos antineoplásticos orais, utilizados em tratamento contra o câncer, medicação assistida para tratamentos em home care, além de medicamentos com cobertura exigida pela ANS e registrados na ANVISA. Observe-se:
+ ..
+No caso em questão, verifica-se que o medicamento solicitado Lucentis, é para tratamento quimioterápico, sendo administrado pelo oftalmologista como uma injeção no olho sob anestésico local, ou seja, não se trata de medicamento domiciliar, conforme disposto pelo apelante.
+Ademais, verifica-se que em consulta ao sítio da ANVISA na internet, o fármaco em questão foi registrado na agência reguladora sob o nº 1006810560032 com vencimento para 01/09/2027, conforme consulta ao site: https://www. smerp. com. br/anvisa/ ac=prodDetail&anvisaId=1006810560032.
+Dessa forma, é devido o fornecimento do tratamento pela parte promovida, uma vez que consta no contrato a previsão de tratamento quimioterápico.
+No tocante o dano moral, o Superior Tribunal de Justiça vem decidindo que não gera dano moral quando o plano de saúde se nega a custear tratamento médico com base em previsão contratual que excluía a cobertura. Veja-se:
+ ..
+Ocorre que, no caso em questão, houve a negativa do fornecimento do tratamento, mesmo existindo previsão contratual para custeio - Cláusula 3.5.3, in verbis:
+3.5.3 São de responsabilidade da contratada a prestação dos serviços de exames complementares indispensável para o controle da evolução do tratamento e elucidação diagnóstica, fornecimento de medicamentos, anestésicos, gases medicinais, transfusões e sessões de quimioterapia e radioterapia, conforme prescrição do médico assistente, realizados ou ministrados durante o período de internação hospitalar, desde que contemplados no rol de procedimentos da ANS - Agência Nacional de Saúde Suplementar, vigente à época do evento.
+Assim, é devida a indenização por dano moral.
+Note-se que a Corte local, soberana na análise das provas dos autos, consignou que o tratamento quimioterápico pretendido pela recorrida está previsto no contrato. Ainda, esclareceu que o medicamento encontra-se devidamente registrado na ANVISA e não é de uso domiciliar.
+Dessa forma, a revisão das premissas adotadas no acórdão recorrido demandaria, necessariamente, o reexame de cláusulas contratuais, fatos e provas, providência vedada em recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Ademais, não procede a alegação do recorrente de que o medicamento solicitado não está previsto no rol da ANS, constatou-se que o princípio ativo RANIBIZUMABE está listado no Anexo I da RN n. 387/2015, do Rol de Procedimentos e Eventos em Saúde da ANS, e foi objeto do Parecer Técnico da ANS N. 50/GEAS/GGRAS/DIPRO/2016.
+Quanto aos danos morais, não merece reparo, tendo em vista que o acórdão do Tribunal estadual concluiu pela abusividade na recusa de tratamento previsto no contrato e o valor arbitrado só pode ser revisto em casos excepcionais, quando identificada a estipulação de valores exagerados ou irrisórios. No caso, em que a compensação foi fixada no importe de R$ 5.000,00, entendo bem observados os padrões de razoabilidade e proporcionalidade, não se configurando situação cuja excepcionalidade justifique a intervenção deste Tribunal Superior. Conforme segue:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. RECUSA DE COBERTURA DE EXAMES. PACIENTE EM TRATAMENTO DE CÂNCER. RECUSA ABUSIVA. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. DANOS MORAIS. QUANTUM INDENIZATÓRIO. REDUÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..
+3. Consoante a jurisprudência do STJ, a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+4. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+5. O valor arbitrado pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto por esta Corte, tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade e proporcionalidade, o que não ocorreu na hipótese, em que a indenização foi fixada em R$ 10.000,00 (dez mil reais), em decorrência da recusa indevida de cobertura do procedimento indicado pelo médico assistente para o tratamento do câncer que acomete o segurado.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.722.775/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/2/2025, DJEN de 21/2/2025.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
