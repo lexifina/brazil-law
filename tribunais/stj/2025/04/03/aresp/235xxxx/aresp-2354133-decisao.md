@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial da parte agravante.
+O agravante requer, em síntese, o conhecimento e provimento do recurso de agravo para a retratação da decisão agravada. Sustenta que, quanto ao óbice da Súmula 7, não pretende reapreciar o conjunto fático-probatório, mas pretende a mera revaloração dos elementos utilizados para a fixação da pena e do regime inicial de cumprimento. Alega, em suma, que as temáticas debatidas no Recurso Especial não dependem da análise da prova (e-STJ fls. 443-449).
+Contraminuta apresentada (e-STJ fls. 452-456).
+Parecer do Ministério Público Federal pelo desprovimento do agravo (e-STJ fls. 473-476).
+É o relatório.
+Decido.
+O agravo é cabível, tempestivo e foram devidamente impugnados os fundamentos da decisão agravada, motivo pelo qual conheço do recurso.
+O Tribunal de origem inadmitiu o recurso especial interposto pelo agravante com amparo nos seguintes fundamentos (e-STJ fls. 436-437):
+"(..) Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, o recurso especial foi interposto sem a fundamentação necessária apta a autorizar o seu processamento, consoante determina o artigo 1.029 do Código de Processo Civil", pois não foram devidamente atacados todos os argumentos do aresto. Nessa linha, o entendimento do Superior Tribunal de Justiça2: "(..) Ausente a impugnação concreta aos fundamentos da decisão gravada, tem aplicação a Súmula n. 182 do Superior Tribunal de Justiça.".
+Outrossim, incide ao caso a Súmula nº 7, do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial; ou seja, há divergência quanto à situação reconhecida pelo Tribunal, não sendo possível emitir um juízo de valor sobre a questão de direito federal sem antes alterar os elementos de fato.
+ ..  Ante o exposto, não preenchidos os requisitos exigidos, NÃO ADMITO o recurso especial, nos termos do artigo 1.030, inciso V, do Código de Processo Civil. Procedidas as anotações de praxe, devolvam-se os autos à origem."
+Verifica-se que o recurso especial foi inadmitido com base no óbice previsto na Súmula 7 desta Corte.
+Nas razões recursais, o agravante aduz a inidoneidade das circunstâncias judiciais valoradas pela Origem e a consequente fixação do regime intermediário para cumprimento da pena. Constou, contudo, do acórdão vergastado (e-STJ fls. 394):
+"As penas não comportam reparo porque foram fixadas de acordo com os parâmetros previstos em lei, estão motivadas, individualizadas e adequadas à hipótese dos autos.
+A pena-base foi fixada acima do mínimo legal, em 01 ano e 02 meses de reclusão e pagamento de 11 dias- multa, uma vez que as receptações foram de peças de veículos, bens que possuem elevado valor econômico. Assim, diante da princípio da individualização das penas, tal fato deve ser considerado.
+ ..  Por isso, justificável a exacerbação da basilar, sendo certo que o réu não tem direito subjetivo à estipulação da sanção no mínimo legal, podendo o magistrado majorá-la a fim de alcançar os objetivos da pena (JCAT, 81-82/666). Ausentes causas capazes de modificar a pena do apelante, restou esta definitiva para cada delito. Ao final, foi reconhecido a modalidade do crime continuado, uma vez que os crimes ocorreram nas mesmas condições de tempo, local e modo de execução. Assim, a sanção foi acrescida em 1/6 e resultou em 01 ano, 04 meses e 10 dias de reclusão e pagamento de 12 dias- multa.
+O regime inicial de cumprimento a pena foi estabelecido no semiaberto e não se cogita alteração, uma vez que as circunstâncias judiciais são negativas. A determinação do regime inicial como diverso daquele previsto no artigo 33, § 2% do Código Penal, é faculdade do juiz, que pode dosar a qualidade da pena.
+ ..  , no caso dos autos, o acusado apresenta circunstâncias judiciais negativas, conforme explicado acima, na aplicação da dosimetria. Apesar das citadas circunstâncias, foi substituída a reprimenda corporal por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 01 salário mínimo, tudo a ser especificado pelo Juízo das Execuções."
+As irresignações do recorrente deixam de justificar-se. Frisa-se que, nas razões, retoma o agravante, elementos da instrução valorados pelo juízo a quo no tocante à natureza e valor da res receptada valorada pelo TJSP, cujo teor não pode ser objeto de reanálise por esta Corte frente ao óbice da Súmula 7.
+Logo, tendo o Tribunal a quo valorado negativamente circunstâncias judiciais, seguindo o comando trazido pelo artigo 59, do Código Penal, é inviável a esta Corte desconstituir a conclusão do juízo de origem a fim de se acolher o pleito defensivo; e reformar a dosimetria da pena, inevitavelmente, demandaria o reexame fático probatório, bem como a revaloração dos argumentos coligidos pelo agravante.
+Cumpre anotar que a jurisprudência desta Corte orienta-se no sentido de que, quanto ao regime inicial de cumprimento de pena, apesar do quantum da pena ser inferior a quatro e de se tratar de réu tecnicamente primário, a presença de circunstância judicial negativa autoriza a imposição do regime inicial mais gravoso, o semiaberto. A respeito:
+DIREITO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. REGIME INICIAL DE CUMPRIMENTO DE PENA MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+I. Caso em exame 1. Agravo regimental interposto contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento para redimensionar a pena aplicada.
+2. O agravante sustenta que a pretensão relacionada ao regime inicial de cumprimento da pena não demandaria reexame fático-probatório, mas apenas a revaloração jurídica dos fatos.
+II. Questão em discussão 3. A questão em discussão consiste em saber se o regime inicial de cumprimento de pena pode ser alterado sem reexame fático-probatório, considerando as circunstâncias judiciais desfavoráveis.
+III. Razões de decidir 4. O regime inicial fechado foi mantido em razão das circunstâncias judiciais desfavoráveis, mesmo sendo o réu primário.
+5. O entendimento consolidado do STJ permite regime prisional mais gravoso quando há circunstâncias judiciais negativas.
+6. A Súmula 7 do STJ não incide sobre o tema do regime inicial de cumprimento da pena, mas apenas sobre a fixação do valor do dia-multa.
+IV. Dispositivo e tese 7. Agravo não provido.
+Tese de julgamento: "1. É lícito o regime prisional mais gravoso quando existem circunstâncias judiciais desfavoráveis. 2. A Súmula 7 do STJ não impede a análise do regime inicial de cumprimento da pena, mas apenas a revisão do valor do dia-multa."
+Dispositivos relevantes citados: Código Penal, art. 33, §§ 2º e 3º;
+Súmula 7 do STJ.
+Jurisprudência relevante citada: STJ, AgRg no HC 766.531/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/5/2023; STJ, AgRg no REsp 1.735.388/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 7/12/2018.
+(AgRg no AREsp n. 2.411.378/TO, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 30/10/2024).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESACATO E
+RESISTÊNCIA. DOSIMETRIA. PENA INFERIOR A 04 (QUATRO) ANOS. FIXAÇÃO DO REGIME SEMIABERTO E AFASTAMENTO DA SUBSTITUIÇÃO DA SANÇÃO CORPORAL POR RESTRITIVAS DE DIREITOS. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso, embora o agravante tenha sido condenado a reprimenda inferior a 04 (quatro) anos de detenção, teve a pena-base fixada acima do mínimo legal em razão da desfavorabilidade da circunstância judicial (maus antecedentes), o que evidencia que o regime inicial semiaberto é o mais adequado para a prevenção e a repressão do delito praticado, ex vi do disposto no art. 33, § 2º, "b", e § 3º, do CP.
+2. A presença de circunstância judicial desfavorável (maus antecedentes) torna inviável a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44 do CP, uma vez que demonstra não ser a medida socialmente recomendável. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 2.139.617/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, julgado em 23/9/2024, DJe de 26/9/2024).
+Assim sendo, tendo sido fixado o regime inicial semiaberto ao recorrente mediante as circunstâncias judiciais negativas reconhecidas, a pretensão recursal esbarra no óbice prescrito na Súmula 83/STJ.
+Além disso, é assente o entendimento deste Superior Tribunal de que a existência de circunstância judicial desfavorável (art. 59, do CP) não apenas justifica a imposição de regime prisional mais gravoso, mas impediria a substituição da pena por restritivas de direitos, de acordo com o disposto no art. 44, inciso III, do CP. No caso, tendo o juízo concedido a substituição por duas restritivas de direitos ao recorrente, na realidade, seria vedado ao TJSP, em recurso exclusivo da defesa, revogar referida substituição, sob pena de reformatio in pejus.
+Após análise do conteúdo da documentação colacionada aos autos, portanto, não verifico, de plano, violação ao ordenamento jurídico e flagrante constrangimento ilegal, responsável por implicar ameaça de violência ou coação à liberdade de locomoção do agravante, nos termos do art. 647-A do Código de Processo Penal, incluído pela Lei 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
