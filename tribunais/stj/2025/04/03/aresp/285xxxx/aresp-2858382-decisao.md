@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por HELM DO BRASIL MERCANTIL LTDA., contra decisão que não admitiu o recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional, o qual foi apresentado em face de acórdão proferido pelo Tribunal do Estado de Mato Grosso, assim ementado (e-STJ, fl. 115):
+AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - CUMPRIMENTO DE SENTENÇA - PENHORA EM CONTA POUPANÇA - BLOQUEIO - IMPORTÂNCIA QUE NÃO EXCEDE 40 SALÁRIOS-MÍNIMOS - IMPENHORABILIDADE - ART. 833, INCISO X, DO CPC - PRECEDENTES DO STJ - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+O Superior Tribunal de Justiça, ao interpretar a norma legal, entendeu que a previsão contida no inciso X do art. 833 do CPC alcança também os valores constantes em conta corrente, aplicação financeira e até papel-moeda, ou seja, considera-se impenhorável o valor depositado em conta bancária até o limite de 40 salários-mínimos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 171-178).
+Em suas razões recursais (e-STJ, fls. 190-199), a parte recorrente apontou violação dos arts. 55, 337, §1º, §2º, §3º, 833, §2º, 1.022, I, do Código de Processo Civil de 2015; 394, 395 e 397 do Código Civil de 2002; bem como dissídio jurisprudencial.
+Sustentou, em síntese, que não foram juntados documentos que comprovem a origem dos recursos penhorados, ou de que a conta seria poupança. Desse modo, entende que deve ser afastadas a impenhorabilidade de tais verbas.
+Contrarrazões às fls. 210-221.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+No caso, o Tribunal de origem decidiu que "a impenhorabilidade do montante inferior a 40 salários-mínimos, nos termos definidos pelo STJ, alcança qualquer aplicação financeira, seja ela depositada em conta poupança ou conta corrente", in verbis (e-STJ, fls. 118-119):
+"O artigo 833 do Código de Processo Civil estabelece que são impenhoráveis os salários, as remunerações, os proventos de aposentadoria, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o §2º.
+Registra-se ainda que é impenhorável também a quantia depositada em caderneta de poupança até o limite de 40 salários-mínimos, nos termos do art. 833, inciso X, do CPC.
+Conforme extrato bancário anexado ao Id. 137545196 - Origem, é possível visualizar que o valor bloqueado é originado da "ContaMax", um serviço de aplicação e resgate automático que remunera o saldo parado em conta corrente.
+Além disso, há de se ressaltar que, o Superior Tribunal de Justiça, ao interpretar a aludida norma legal, entendeu que a previsão contida no referido inciso X do art. 833 do CPC alcança também os valores constantes em conta corrente, aplicação financeira e até papel-moeda (R Esp n. 1.230.060/PR).
+ ..
+Logo, na situação, se verifica motivos que justifiquem a reforma da decisão agravada, porquanto a impenhorabilidade do montante inferior a 40 salários-mínimos, nos termos definidos pelo STJ, alcança qualquer aplicação financeira, seja ela depositada em conta poupança ou conta corrente." (Sem grifo no original).
+A parte ora agravante opôs embargos de declaração questionando a ausência de documentos que comprovem a origem dos recursos penhorados, ou de que a conta seria poupança (e-STJ, fls. 146-155).
+Em resposta aos embargos de declaração, a Corte local esclareceu que seria irrelevante para a incidência da proteção legal a comprovação da origem das verbas ou do tipo de conta, como se depreende do seguinte trecho do acórdão (e-STJ, fls. 180-181):
+"O acórdão embargado expressamente destacou a previsão normativa que consagra a impenhorabilidade da quantia inferior a 40 salários-mínimos bem como o recente entendimento do Superior Tribunal de Justiça, que mantém a proteção da quantia, ainda que os valores estejam depositados em conta corrente, aplicação financeira ou até mesmo papel moeda.
+ ..
+Desta forma, como o acórdão expressamente destacou que os valores bloqueados, quando inferiores a 40 salários-mínimos são impenhoráveis e como a comprovação de depósito em conta poupança ou origem da verba é irrelevante para a incidência da proteção legal, não há que se falar em contrariedade, o que indica a intenção recursal de rediscussão da matéria."(Sem grifo no original).
+Ocorre que, a Corte Especial do STJ, quando do julgamento do REsp 1.677.144/R, de relatoria do em. Ministro Herman Benjamin, publicado no DJe 23/5/2024, passou a entender que, nos termos do art. 833, X, do CPC/2015, a garantia de impenhorabilidade do montante de até 40 salários mínimos é aplicável de forma automática exclusivamente aos depósitos em caderneta de poupança; e, eventualmente, aos valores mantidos em conta corrente ou em qualquer outra aplicação financeira. Nessa última hipótese, desde que comprovado, pela parte atingida, que o montante objeto da constrição constitui reserva de patrimônio destinado a assegurar o mínimo existencial. A propósito, confira-se a ementa do julgado:
+PROCESSUAL CIVIL. BLOQUEIO DE DINHEIRO VIA BACEN JUD. DINHEIRO DISPONÍVEL EM CONTA-CORRENTE, NÃO EM CADERNETA DE POUPANÇA. IMPENHORABILIDADE ABSOLUTA. ART. 833, X, DO CPC (ANTIGO ART. 649, X, DO CPC/1973). NORMA RESTRITIVA. INTERPRETAÇÃO AMPLIATIVA. IMPOSSIBILIDADE. PRESTÍGIO À JURISPRUDÊNCIA FIRMADA NESSE SENTIDO. AUSÊNCIA DE JUSTIFICATIVA EXCEPCIONAL OU RELEVANTES RAZÕES PARA ALTERAÇÃO. DEVER DOS TRIBUNAIS SUPERIORES DE MANTER SUAS ORIENTAÇÕES ESTÁVEIS, ÍNTEGRAS E COERENTES.
+DELIMITAÇÃO DA CONTROVÉRSIA
+1. A controvérsia cinge-se ao enquadramento das importâncias depositadas em conta-corrente até 40 (quarenta) salários mínimos na impenhorabilidade prevista no art. 649, X, do CPC/1973, atual art. 833, X, do CPC/2015.
+ ..
+SÍNTESE DA TESE OBJETIVA AQUI APRESENTADA
+23. A garantia da impenhorabilidade é aplicável automaticamente, no patamar de até 40 (quarenta), ao valor depositado exclusivamente em caderneta de poupança. Se a medida de bloqueio/penhora judicial, por meio físico ou eletrônico (Bacenjud), atingir dinheiro mantido em conta-corrente ou quaisquer outras aplicações financeiras, poderá eventualmente a garantia da impenhorabilidade ser estendida a tal investimento - respeitado o teto de quarenta salários mínimos -, desde que comprovado, pela parte processual atingida pelo ato constritivo, que o referido montante constitui reserva de patrimônio destinada a assegurar o mínimo existencial.
+HIPÓTESE DOS AUTOS
+24. No caso concreto, conforme descrito pela parte recorrida, a penhora incidiu sobre numerário em conta-corrente, constituindo-se, em tese, verba perfeitamente penhorável.
+25. Superada a exegese adotada na Corte regional, devem os autos retornar para que esta, em respeito ao princípio da não supressão de instância, prossiga no julgamento do Agravo de Instrumento, no que concerne aos demais argumentos veiculados pela parte contrária, isto é, de liberação da penhora em razão de: a) o débito se encontrar parcelado (importante identificar se eventual parcelamento foi concedido antes ou depois da medida constritiva); e b) necessidade de utilização dos valores para sobrevivência da parte devedora.
+26. Recurso Especial provido."
+(REsp n. 1.677.144/RS, relator Ministro HERMAN BENJAMIN, Corte Especial, julgado em 21/2/2024, DJe de 23/5/2024 - sem grifo no original).
+Desse modo, verifica-se que é relevante analisar a origem dos valores a serem penhorados, bem como o tipo de aplicação, e se o valore estiver em aplicação diferente da poupança, é necessário avaliar se constitui reserva de patrimônio destinado a assegurar o mínimo existencial, pontos que não podem ser avaliados em sede de recurso especial em razão do óbice da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para dar parcial provimento ao recurso especial, e determinar o retorno dos autos para que a Corte de origem julgue os embargos de declaração esclarecendo os pontos omissos.
+Em razão do provimento do art. 1.022, I, do CPC/15, fica prejudicada a análise dos demais pontos apontados como violados no recurso especial.
+Publique-se.
+EMENTA
