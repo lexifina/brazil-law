@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DO PIAUÍ contra decisão que não admitiu seu recurso especial, este por sua vez, manejado, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Piauí assim ementado (e-STJ, fl. 459):
+MANDADO DE SEGURANÇA. PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. MEMBRO INATIVO DO MINISTÉRIO PUBLICO. SEGURANÇA CONCEDIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 506-520).
+Nas razões do recurso especial (e-STJ, fls. 538-544), o insurgente apontou violação ao art. 14, § 4º, da Lei n. 12.016/2009.
+Sustentou, em síntese, que a impetrante utilizou o mandado de segurança como substitutivo de ação de cobrança, de modo que é devida a extinção do processo por inadequação da via eleita.
+Contrarrazões às fls. 549-561 (e-STJ).
+O Tribunal de origem não admitiu o recurso especial (e-STJ, fls. 596-597), o que levou o insurgente à interposição de agravo.
+Contraminuta às fl. 638-653 (e-STJ).
+Brevemente relatado, decido.
+Depreende-se dos autos que EDNA MARIA DA SILVA CAROCA LEÃO impetrou mandado de segurança visando fosse assegurado o direito ao recebimento de valores correspondentes à Parcela Autônoma de Equivalência (PAE) pagos aos membros ativos do Ministério Público do Estado do Piauí.
+O Tribunal estadual rejeitou as preliminares de não cabimento da ação e concedeu a segurança pleiteada, de acordo com as seguintes justificativas (e-STJ, fls. 461-469):
+2. PRELIMINARMENTE
+2.1. Não cabimento do writ: inexistência de ato coator (omissão) atribuível à autoridade impetrada
+Sustenta a Procuradora Geral de Justiça do Ministério Público do Estado do Piauí não ter restado configurada omissão (ato coator) atribuível à impetrada requerendo a extinção do feito sem resolução do mérito.
+Em que pese os argumentos da impetrada, de que não estava autorizada a pagar os créditos referentes à PAE aos membros do Ministério Público que não integravam os quadros da Instituição no período entre setembro de 1994 e janeiro de 2006, a presente preliminar não deve prosperar tendo em vista confundir-se logicamente com o próprio mérito do presente mandamus.
+(..)
+Não cabimento do writ: combater lei em tese
+No que atine à argüição de inadequação da via eleita do mandado de segurança, tenho que não merece prosperar, eis que a ação mandamental proposta, não afrontou a meu ver, lei em tese conforme disposto no verbete sumular nº 266 do Supremo Tribunal Federal, que estabelece que "Não cabe mandado de segurança contra lei em tese".
+(..)
+3. DO MÉRITO
+De acordo com o STF, a natureza jurídica da parcela autônoma correspondente à diferença decorrente da Lei nº 8.448/92 (art. 1º, parágrafo único) (parcela autônoma de equivalência) é a de vencimento, que, somado ao vencimento básico e à representação, compõe os vencimentos dos Ministros do STF, para todos os efeitos legais, exceto para o cálculo da representação, que leva em conta apenas o vencimento básico".
+(..)
+De acordo com o art. 40, §8º, da Constituição Federal (com redação anterior à Emenda Constitucional nº 41/2003), era assegurada aos aposentados e pensionistas a paridade de seus vencimentos com relação aos servidores em atividade, garantindo o mesmo tratamento aos inativos, no que se refere a quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade de mesmo nível, desde que baseados em critérios objetivos. E considerando que a mesma é pensionista desde 1991, em data anterior à EC 41, enquadrando-se na regra de transição.
+(..)
+Ademais a Resolução 13/ DO COLÉGIO DE PROCURADORES DE JUSTIÇA DO ESTADO DO PIAUÍ - CP/PI, no qual em seu art. 1º reza que : Art.1º Reconhecer o direito aos membros ativos e inativos do Ministério Público do Estado do Piauí, bem como dos respectivos pensionistas à percepção das diferenças remuneratórias decorrentes do recálculo da Parcela autônoma de equivalência-PAE, correspondente ao período de setembro de 1994 a janeiro de 2006.
+(..)
+O entendimento aqui exposto não diverge da jurisprudência firmada no âmbito do Supremo Tribunal Federal no sentido de que as vantagens de caráter geral, concedidas aos servidores da ativa, são extensíveis aos inativos e pensionistas, conforme disposto no art. 40, § 8º, da CF/1988. (Supremo Tribunal Federal. RE 752.493 AgR, rel. min. Rosa Weber, 1ª T, j. 12- 8-2014, DJE 165 de 27-8-2014.)
+Diante do exposto, rejeito as preliminares e confirmo a segurança para determinar à autoridade impetrada que proceda ao pagamento das diferenças remuneratórias decorrentes do Recálculo da Parcela Autônoma de Equivalência - PAE, na mesma proporção que já pagou aos demais membros do Ministério Público de 2ª instância.
+Diante desse contexto, no que diz respeito à apontada violação ao art. 14, § 4º, da Lei n. 12.016/2009, concernente à alegação recursal de vedação de utilização do mandado de segurança como ação de cobrança, nota-se, da leitura dos trechos acima, que o conteúdo normativo do referido dispositivo não foi objeto de análise pelo acórdão impugnado, sob o enfoque pretendido pelo ora recorrente, apesar da oposição dos embargos de declaração. Desatendido, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Para que se configure o prequestionamento, exigido inclusive para as matérias de ordem pública, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, portanto, a correta interpretação da legislação federal, o que não se deu na presente hipótese.
+O Código de Processo Civil de 2015, no art. 1.025, disciplinou a possibilidade de prequestionamento ficto de tese jurídica, quando, a despeito da oposição de embargos de declaração, o Tribunal estadual não se manifesta acerca do tema, considerando-se inclusas no aresto as questões deduzidas pela parte recorrente nos declaratórios.
+Contudo, o Superior Tribunal de Justiça possui jurisprudência no sentido de que o prequestionamento ficto só pode ocorrer quando, na interposição do recurso especial, a parte recorrente tiver sustentado violação ao art. 1.022 do CPC/2015 e esta Corte Superior houver constatado o vício apontado, o que não ocorreu no caso.
+Veja-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO, AÇÃO DE RESSARCIMENTO AO ERÁRIO. ARQUITETO DEMITIDO A BEM DO SERVIÇO PÚBLICO, UMA VEZ QUE DESCUMPRIU O REGIME DE DEDICAÇÃO PROFISSIONAL EXCLUSIVA. RDPE. AUSÊNCIA DE PREQUESTIONAMENTO. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CÓDIGO FUX. NÃO APLICADA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. ANÁLISE DA DIVERGÊNCIA PREJUDICADA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação pleiteando, em suma, ressarcimento de valores pagos ao servidor público em período trabalhado sob regime de dedicação exclusiva enquanto exercia atividade particular remunerada de forma paralela. A sentença julgou extinto o feito reconhecendo a prescrição. O Tribunal de Justiça do Estado de São Paulo reformou a sentença para condenar o servidor ao ressarcimento do dano ao erário.
+II - No que diz respeito ao art. 6º da LINDB; ao art. 14, § 3º, ao art. 15, e ao art. 17, § 6º e § 11, da Lei n. 8.429/1992, vinculados às teses irretroatividade da Lei de Improbidade Administrativa e de desrespeito a procedimento específico próprio do regime jurídico de improbidade, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão.
+III - Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que assim dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+IV - A falta de exame de questão constante de normativo legal apontado pelo recorrente, nos embargos de declaração, não caracteriza, por si só, omissão quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa.
+V - In casu, não há falar em prequestionamento ficto, previsão do art. 1.025 do CPC/2015, isso porque, em conformidade com a jurisprudência do STJ, para sua incidência deve a parte ter alegado, devidamente em suas razões recursais, ofensa ao art. 1022 do CPC/2015, de modo a permitir sanar eventual omissão por meio de novo julgamento dos embargos de declaração, ou a análise da matéria tida por omissa diretamente por esta Corte. Tal não se verificou no presente feito.
+ ..
+(AgInt no AREsp n. 1.985.699/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 6/8/2024, DJEN de 23/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ALEGADA UTILIZAÇÃO DO MANDAMUS COMO AÇÃO DE COBRANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ . AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
