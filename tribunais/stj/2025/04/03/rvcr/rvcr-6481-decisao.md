@@ -1,0 +1,16 @@
+DECISÃO
+ACÁCIO PAULINO, condenado por peculato, ajuíza revisão criminal, com fundamento no art. 621, I, do CPP, contra decisão proferida por esta Corte, no AREsp n. 1.964.182/SP, que manteve a pena imposta pelas instâncias ordinárias, a qual pretende seja reduzida em razão da desproporcionalidade e da ausência de fundamentação adequada.
+Não houve pedido de liminar. Encaminhados os autos ao Ministério Público Federal, este se manifestou pelo não conhecimento do pedido de revisão criminal (fls. 4.922-4.924).
+Decido.
+No agravo em recurso especial (AREsp n. 1.964.182/SP, DJe 3/12/2021), foi consignado por esta Corte, relativamente à fixação da pena, no que interessa, o seguinte:
+ ..
+Quanto à culpabilidade, a finalidade a que se destinavam os recursos desviados pelos réus - promover a erradicação de analfabetismo entre jovens e adultos - demonstra, efetivamente, a maior reprovabilidade da conduta. Tais montantes não se confundem simplesmente com a elementar "dinheiro, valor ou qualquer outro bem móvel, público", porque o TRF demonstrou que as verbas estavam vocacionadas ao atendimento de uma finalidade diferenciada, e isso é simplesmente ignorado pela defesa no recurso especial.
+A falsificação de documentos para prestação de contas, que motivou a negativação das circunstâncias do crime, também não diz respeito a nenhuma elementar do art. 312 do CP - nem a defesa indicou, precisamente, qual seria.
+Por fim, a subtração de R$ 2.000.000,00 torna bastante desfavoráveis as consequências do delito. Destaque-se que, embora a simples existência do prejuízo em si seja elemento objetivo do tipo penal, o montante do prejuízo pode ser analisado na dosimetria da pena, quando elevado; afinal, é até intuitiva a conclusão de que um peculato de dois milhões de reais tem gravidade concreta muito superior a um peculato de mil reais, por exemplo  .. .
+Como se observa, as vetoriais culpabilidade, circunstâncias e consequências do crime foram consideradas desfavoráveis por meio de decisão devidamente justificada e lastreada em pacífica orientação desta Corte sobre o tema.
+Logo, a alegação de inexistência de fundamentação na fixação da pena, feita pela defesa, não se coaduna nem com a jurisprudência desta Corte, tampouco se adequa às hipóteses de cabimento da revisão criminal, na qual é necessário que haja contrariedade ao texto expresso de lei.
+Some-se a isso o fato de que " e mbora seja possível rever a dosimetria da pena em revisão criminal, a utilização do pleito revisional é prática excepcional, somente justificada quando houver contrariedade ao texto expresso da lei ou à evidência dos autos" (AgRg no AREsp n. 734.052/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 16/12/2015)" (AgRg na RvCr n. 5.654/DF, relator Ministro Joel Ilan Paciornik, DJe 21/10/2021), situação não verificada na espécie.
+Realço que " a  revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido" (AgRg na RvCr n. 4.730/CE, relator Ministro Ribeiro Dantas, DJe 14/9/2020).
+Ante o exposto, à míngua de enquadramento na hipótese do art. 621, I, do CPP, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da presente revisão criminal.
+Publique-se e intimem-se.
+EMENTA
