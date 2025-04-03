@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE SANEAMENTO DO PARANÁ SANEPAR contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fls. 558-559):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CONSUMIDOR. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS C/C TUTELA ANTECIPADA EM CARÁTER DE URGÊNCIA. SENTENÇA DE PARCIAL PROCEDÊNCIA. ALEGAÇÃO DO APELADO EM SEDE RECURSAL DE AUSÊNCIA DE DIALETICIDADE RECURSAL - REJEIÇÃO - RAZÕES RECURSAIS QUE ENFRENTOU OS FUNDAMENTOS DA SENTENÇA. INSURGÊNCIA CONTRA A UTILIZAÇÃO DO LAUDO PERICIAL PRODUZIDO EM JUÍZO - PRETENSÃO DE UTILIZAÇÃO DO EXAME TÉCNICO EXTRAJUDICIAL ELABORADO POR PROFISSIONAL CONTRATADO PELA APELANTE - LAUDO PERICIAL QUE SOMADO AO CONJUNTO PROBATÓRIO SÃO SUFICIENTES AO DESLINDE DO FEITO - PREDOMINÂNCIA DE VALORAÇÃO DO LAUDO PERICIAL - JUIZ QUE É O DESTINATÁRIO DAS PROVAS, CONFORME ART. 370, DO CPC - LIVRE CONVENCIMENTO MOTIVADO PREVISTO NO ART. 371, DO CPC -RESPONSABILIZAÇÃO DA APELANTE PELOS DOS DANOS OCORRIDOS NO IMÓVEL EM RAZÃO DO ROMPIMENTO DA TUBULAÇÃO DE ÁGUA - SENTENÇA MANTIDA NESTE PONTO. AFASTAMENTO DOS LUCROS CESSANTES RELATIVOS AOS VALORES DESPENDIDOS À TITULO DE ALUGUERES - DANO MATERIAL QUE DEPENDE DE EFETIVA COMPROVAÇÃO -AUTORA QUE NÃO LOGROU ÊXITO EM DEMONSTRÁ-LO, ÔNUS QUE LHE COMPETIA NOS TERMOS DO ARTIGO 373, I, DO CPC. INDEVIDA RESTITUIÇÃO DOS VALORES PAGOS À TÍTULO DE HONORÁRIOS PARA CONFECÇÃO DE LAUDO TÉCNICO EXTRAJUDICIAL - VERBA NÃO CONTEMPLADA PELO DISPOSTO NO ART. 84 DO CPC. DANO MATERIAL RELATIVO À DESPESA COM MUDANÇA EM RAZÃO DO EVENTO DANOSO DEVIDAMENTE COMPROVADO. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS RECURSAIS NO CASO. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 592-595).
+Nas razões do recurso especial (e-STJ, fls. 601-604), a recorrente apontou violação ao art. 402 do Código Civil.
+Sustentou, em síntese, que não houve comprovação dos danos materiais alegados, consistente nas avarias no imóvel decorrentes de um vazamento de água da tubulação de propriedade da recorrente.
+Foram apresentadas contrarrazões (e-STJ, fls. 610-616).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+No tocante aos danos materiais referentes às avarias no imóvel, consta do acórdão recorrido (e-STJ, fls. 594-595, sem grifo no original):
+O acórdão tratou claramente a matéria relativa a indenização referente aos danos sofridos pelo imóvel: Vejamos:
+"(..)
+Pelo contido no laudo pericial, é possível concluir que, inexiste no imóvel falhas na edificação que pudessem acarretar no rompimento da tubulação, sendo certo de a tubulação de água que rompeu estava instalada à distância de 1,30 m da residência da apelada.
+Ainda, incerto no laudo que a pressão da água decorrente do vazamento veio a pressionar a estrutura acarretando no surgimento de fissuras no imóvel.
+Nesse sentido também constou no corpo do relatório emitido pelo Corpo de Bombeiro e pela Defesa Civil, acionados para ir ao local no dia do evento danoso (mov. 1.10 e 1.11):
+Além disso, consignou que a edificação possui ART de projeto estrutural, ou seja, traduz- se que a construção foi dimensionada dentro dos parâmetros normativos.
+(..)
+Nesse passo, a despeito do contido no laudo técnico anexado pela apelante (mov. 26.4), o conjunto probatório dos autos, demonstra o nexo causal entre as patologias e o evento danoso e a tubulação de água externa de propriedade da apelante, estando presente o dever de indenizar, que deverá ser apurado em liquidação de sentença. (..)"
+Extrai-se do trecho transcrito da decisão embargada que restando comprovado o nexo causal entre os danos ocorridos no imóvel, o evento danoso e a tubulação, o que evidencia o dever de indenizar.
+Ademais, diversamente do sustentado pelo embargante existem provas nos autos aptas a comprovar os danos sofridos, em especial o laudo pericial anexado em mov.26.4 - autos originários, restando tão somente a apuração do valor para a fase de liquidação de sentença.
+Logo, não há como desconstituir o entendimento delineado no acórdão impugnado (existência de provas do nexo causal entre o rompimento da tubulação de água externa de propriedade da insurgente e as avarias do imóvel), sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEXO CAUSAL ENTRE O ROMPIMENTO DA TUBULAÇÃO DE ÁGUA EXTERNA DE PROPRIEDADE DA RECORRENTE E AS AVARIAS DO IMÓVEL. DEVER DE INDENIZAR. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
