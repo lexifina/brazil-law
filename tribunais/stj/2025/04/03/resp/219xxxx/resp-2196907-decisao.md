@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por Aroc Corretora de Seguros LTDA em face de acórdão assim ementado (fl. 406):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REGRESSIVA DE COBRANÇA C/C PEDIDO DE TUTELA DE URGÊNCIA. AVAL. QUITAÇÃO INTEGRAL DA DÍVIDA. DIREITO DE REGRESSO AO AVALIZADO. COMPROVAÇÃO. COAVALISTA. AUSÊNCIA DE INTERESSE JURÍDICO. ILEGITIMIDADE PASSIVA. CORREÇÃO MONETÁRIA. IGP-M. JUROS DE MORA A CONTAR DA QUITAÇÃO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. MAJORAÇÃO.
+1. ILEGITIMIDADE PASSIVA. O COAVALISTA QUE NÃO PAGOU A DÍVIDA, EM QUE PESE CONSTAR COMO SÓCIO DA DEVEDORA PRINCIPAL, NÃO POSSUI INTERESSE JURÍDICO PARA ATUAR NO FEITO, UMA VEZ QUE AUSENTE ATOS APTOS A ATINGIR O SEU PATRIMÔNIO PARTICULAR.
+2. RESPONSABILIDADE DA DEVEDORA. A PESSOA JURÍDICA DEMANDADA CONSTA COMO DEVEDORA PRINCIPAL PELO DÉBITO INADIMPLIDO SOB O QUAL SE SUB-ROGOU, INTEGRALMENTE, O AVALISTA QUE PROPÔS A DEMANDA REGRESSIVA.
+3. CORREÇÃO MONETÁRIA PELA SELIC. A TAXA SELIC NÃO SE PRESTA À ATUALIZAÇÃO DO DÉBITO DECORRENTE DE RELAÇÕES OBRIGACIONAIS ENTRE PARTICULARES.
+4. MORA. VERIFICADO O VENCIMENTO DE OBRIGAÇÃO LÍQUIDA E POSITIVA, PREVISTA NO CONTRATO, TEM-SE CONSTITUÍDO EM MORA O DEVEDOR, NOS TERMOS DOS ARTIGOS 394 E SEGUINTES DO CÓDIGO CIVIL.
+RECURSO DESPROVIDO.
+Opostos os embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts. 85, § 2º, 371, 489, parágrafo único, inciso IV, e 1.022, inciso II, do Código de Processo Civil; bem como ao art. 406 do Código Civil.
+Sustenta que houve negativa de prestação jurisdicional, porquanto o acórdão foi omisso acerca das provas documental e testemunhal apresentadas nos autos, bem como deixou de analisar o tema relativo à simulação de aval prestado pelo recorrido.
+Afirma que a taxa de juros moratórios aplicável em caso de condenação é a Taxa SELIC.
+Alega que os honorários advocatícios foram fixados em patamar inferior ao mínimo determinado pela Lei, razão pela qual requer que estes sejam arbitrados no percentual de 10% (dez por cento) sobre o valor atualizado da causa.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se na origem de ação regressiva de cobrança proposta por Valdemar Posselt contra AROC Administradora e Corretora de Seguros Ltda. e Éder Azambuja Corá, na qual pretende o ressarcimento de valores pagos pelo autor decorrente de cédula de crédito bancário em que figurou como avalista.
+A sentença proferida julgou extinto o feito sem resolução do mérito em relação a Éder Azambuja Corá, por ilegitimidade passiva, e procedente em relação à AROC Corretora de Seguros Ltda., condenando-a ao pagamento de R$ 164.804,78 (cento e sessenta e quatro mil, oitocentos e quatro reais, e setenta e oito centavos), corrigidos monetariamente pelo IGP-M e acrescidos de juros de mora de 1% ao mês, a contar da data de quitação do débito.
+A Corte local, ao analisar a apelação da parte ré, negou provimento ao recurso e reafirmou a responsabilidade da Corretora de Seguros como devedora principal, mantendo a correção pelo IGP-M. Confira-se (e-STJ, fls. 402/404):
+Responsabilidade da devedora.
+Correta a conclusão do juízo de origem, no tocante à responsabilidade da pessoa jurídica de ressarcir o avalista pelo pagamento que quitou o contrato.
+Lídima a prova documental:
+(..)
+Por outro lado, a apelante não juntou nenhum comprovante de pagamento realizado em favor do Banco Sicoob (credor do financiamento), ou seja, não consta no caderno processual nenhuma prova de que a empresa apelada tenha quitado alguma parcela do empréstimo, confirmando a informação de que o apelado realmente assumiu toda a dívida, consoante os documentos carreados aos autos.
+A responsabilidade, na posição de devedora principal, recai sobre a empresa/apelante AROC CORRETORA DE SEGUROS LTDA da quantia de R$ 164.804,78, conforme parcelas pagas ( evento 1, OUT4, evento 1, OUT5, evento 1, OUT6) e recibo de quitação do débito emitida pela credora ( evento 1, OUT7, fl.02), o qual deverá ser corrigido monetariamente pelo IGP-M, e acrescido de juros de mora de 1% ao mês, ambos a contar da data de quitação da dívida (30.06.2020).
+A pretensão de correção pela taxa Selic não encontra amparo na ordem jurídica vigente.
+Segundo o BACEN 1 :
+(..)
+Por sua vez, o TJRS tem reiteradamente decidido pela inaplicabilidade da taxa Selic para dívidas civis, caso dos autos, pela falta de vinculação entre a natureza das relações obrigacionais entre particulares e as balizas estabelecidas pelo governo da condução das políticas macroeconômicas.
+No ponto (grifo pelo Relator):
+(..)
+Não há razões para reformar a sentença quanto aos consectários da condenação.
+Simulação.
+No que tange a alegação de simulação, a par da escassez de elementos neste sentido produzido nos autos, ainda assim, importante rememorar o teor da legislação aplicável:
+Art. 899. O avalista equipara-se àquele cujo nome indicar; na falta de indicação, ao emitente ou devedor final.
+§ 1º Pagando o título, tem o avalista ação de regresso contra o seu avalizado e demais coobrigados anteriores.
+§ 2º Subsiste a responsabilidade do avalista, ainda que nula a obrigação daquele a quem se equipara, a menos que a nulidade decorra de vício de forma.
+Mora e verba honorária.
+Novamente, a pretensão de inocorrência de mora pela apelante não prospera diante da ausência de prova a afastar a mora da apelante, que não se desincumbiu que juntar qualquer quitação relativa à cedula de crédito mencionada.
+Muito pelo contrário, na forma da lei civil, o ausência de pagamento de obrigação líquida e positiva, na data do vencimento, constitui em mora o devedor, independemente de notificação para pagamento.
+Art. 394. Considera-se em mora o devedor que não efetuar o pagamento e o credor que não quiser recebê-lo no tempo, lugar e forma que a lei ou a convenção estabelecer.
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores monetários segundo índices oficiais regularmente estabelecidos, e honorários de advogado.
+Nos termos do §11 do art. 85 do CPC, os honorários advocatícios serão majorados em caso de não conhecimento ou desprovimento do recurso. A sentença fixou honorários em 12% sobre o valor da condenação, e com o resultado do presente julgamento, impõe-se majorá-los para 15% do valor da condenação, devidos ao procurador da apelada.
+No intuito de evitar a oposição de embargos meramente prequestionadores, dou por prequestionadas as razões e dispositivos legais mencionados neste voto. Além disso, destaco que caso sejam opostos embargos protelatórios, a sanção prevista pelo art. 1.026, § 2º, do CPC, será observada.
+Por fim, ressalto que não está obrigado o julgador a manifestar-se acerca de todos os artigos de lei invocados pela parte ao longo da lide, bastando apenas fundamentar sua decisão, na forma dos artigos 489, inciso IV, e 1025, do Código de Processo Civil.
+Ante o exposto, VOTO por DESPROVER o recurso de apelação, mantendo-se hígida a sentença por seus próprios e jurídicos fundamentos.
+Quanto à suposta alegada negativa de prestação jurisdicional, não merece prosperar o recurso especial, uma vez que, no caso, a questão relativa à alegada simulação no aval prestado foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada sobre o assunto, ainda que em sentido contrário à pretensão da parte agravante/recorrente.
+Ressalto, no ponto, que, de acordo com a jurisprudência deste Tribunal, o julgador não é obrigado a abordar todos os temas invocados pela parte se, para decidir a controvérsia, apenas um deles é suficiente ou prejudicial dos outros (AgRg no AREsp n. 2.322.113/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/6/2023, DJe de 12/6/2023; AgInt no AREsp n. 1.728.763/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 21/3/2023, DJe de 23/3/2023; e AgInt no AREsp n. 2.129.548/GO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2022, DJe de 1/12/2022).
+No que se refere à apontada ofensa ao art. 85, § 2º, do CPC, verifico que o Tribunal de origem não apreciou a tese do recorrente, o que obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas 282 e 356 do STF e da Súmula 211 do STJ.
+No tocante à tese de violação ao art. 406, o Tribunal de origem concluiu que os valores referentes à apuração do saldo devido em ação regressiva de cobrança deveriam ser corrigidos pelo IGP-M, e não pela Taxa SELIC.
+Nesse ponto, o acórdão recorrido desviou-se da jurisprudência do Superior Tribunal de Justiça, segundo a qual a taxa dos juros moratórios a que se refere o art. 406 do Código Civil é a Taxa SELIC, vedada a cumulação daquela taxa com outro índice de correção monetária. Confira-se:
+CIVIL. RECURSO ESPECIAL. INTERPRETAÇÃO DO ART. 406 DO CÓDIGO CIVIL. RELAÇÕES CIVIS. JUROS MORATÓRIOS. TAXA LEGAL. APLICAÇÃO DA SELIC. RECURSO PROVIDO.
+1. O art. 406 do Código Civil de 2002 deve ser interpretado no sentido de que é a SELIC a taxa de juros de mora aplicável às dívidas de natureza civil, por ser esta a taxa "em vigor para a atualização monetária e a mora no pagamento de impostos devidos à Fazenda Nacional".
+2. A SELIC é taxa que vigora para a mora dos impostos federais, sendo também o principal índice oficial macroeconômico, definido e prestigiado pela Constituição Federal, pelas Leis de Direito Econômico e Tributário e pelas autoridades competentes. Esse indexador vigora para todo o sistema financeiro-tributário pátrio. Assim, todos os credores e devedores de obrigações civis comuns devem, também, submeter-se ao referido índice, por força do art. 406 do CC.
+3. O art. 13 da Lei 9.065/95, ao alterar o teor do art. 84, I, da Lei 8.981/95, determinou que, a partir de 1º de abril de 1995, os juros moratórios "serão equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para títulos federais, acumulada mensalmente".
+4. Após o advento da Emenda Constitucional 113, de 8 de dezembro de 2021, a SELIC é, agora também constitucionalmente, prevista como única taxa em vigor para a atualização monetária e compensação da mora em todas as demandas que envolvem a Fazenda Pública. Desse modo, está ainda mais ressaltada e obrigatória a incidência da taxa SELIC na correção monetária e na mora, conjuntamente, sobre o pagamento de impostos devidos à Fazenda Nacional, sendo, pois, inconteste sua aplicação ao disposto no art. 406 do Código Civil de 2002.
+5. O Poder Judiciário brasileiro não pode ficar desatento aos cuidados com uma economia estabilizada a duras penas, após longo período de inflação galopante, prestigiando as concepções do sistema antigo de índices próprios e independentes de correção monetária e de juros moratórios, justificável para uma economia de elevadas espirais inflacionárias, o que já não é mais o caso do Brasil, pois, desde a implantação do padrão monetário do Real, vive-se um cenário de inflação relativamente bem controlada.
+6. É inaplicável às dívidas civis a taxa de juros moratórios prevista no art. 161, § 1º, do CTN, porquanto este dispositivo trata do inadimplemento do crédito tributário em geral. Diferentemente, a norma do art. 406 do CC determina mais especificamente a fixação dos juros pela taxa aplicável à mora de pagamento dos impostos federais, espécie do gênero tributo.
+7. Tal entendimento já havia sido afirmado por esta Corte Especial, por ocasião do julgamento do EREsp 727.842/SP, no qual se deu provimento àqueles embargos de divergência justamente para alinhar a jurisprudência dos Órgãos Colegiados internos, no sentido de que "a taxa dos juros moratórios a que se refere o referido dispositivo é a taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, por ser ela a que incide como juros moratórios dos tributos federais" (Rel. Min. TEORI ALBINO ZAVASCKI, julgado em 8/9/2008 e publicado no DJe de 20/11/2008). Deve-se reafirmar esta jurisprudência, mantendo-a estável e coerente com o sistema normativo em vigor.
+8. Recurso especial provido.
+(REsp n. 1.795.982/SP, relator Ministro Luis Felipe Salomão, relator para acórdão Ministro Raul Araújo, Corte Especial, julgado em 21/8/2024, DJe de 23/10/2024.)
+Anoto, todavia, que os juros de mora legais, que continuam a incidir até a quitação, são regidos pelas sucessivas leis em vigor durante o decorrer do período de mora. Assim, a partir da entrada em vigor da Lei 14.905/24, devem as novas parcelas de juros ser calculadas com base na redação conferida ao art. 406 do Código Civil pela referida lei.
+Em face do exposto, conheço do recurso especial e a ele dou parcial provimento para determinar a incidência da Taxa SELIC, vedada a cumulação com qualquer outro índice de correção, até a entrada em vigor da Lei 14.905/24, quando deverá incidir a regra do art. 406 da referida lei.
+Intimem-se.
+EMENTA
