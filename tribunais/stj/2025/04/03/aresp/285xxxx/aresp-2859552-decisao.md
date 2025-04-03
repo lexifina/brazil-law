@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social -INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 322):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA RURAL POR IDADE. EXISTÊNCIA DE INÍCIO DE PROVA DOCUMENTAL NOS AUTOS APTA À COMPROVAÇÃO DA CONDIÇÃO DE SEGURADA ESPECIAL. PROVA DOCUMENTAL COMPLEMENTADA POR DEPOIMENTO PESSOAL SÓLIDO E COERENTE. APELAÇÃO IMPROVIDA.
+1. Apelação cível interposta pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS em face de JOSEFA ALVES DOS SANTOS NASCIMENTO contra sentença da 5ª Vara Federal da Seção Judiciária de Pernambuco que concedeu aposentadoria rural por idade à autora.
+2. A sentença fundamentou seu veredito alegando que a autora preencheu os requisitos de idade, condição de segurada especial e cumprimento do tempo legal de serviço para a concessão do benefício previdenciário pleiteado.
+3. Em suas razões recursais, a autarquia previdenciária alegou: a) preliminarmente, prescrição de fundo de direito contra a pretensão para impugnar o ato administrativo indeferitório do INSS; b) no mérito: i) apelada não teria provado a condição de segurada especial e o cumprimento do tempo legal de serviço para a concessão do benefício previdenciário; ii) subsidiariamente, que seja reconhecida a data de ajuizamento da ação como DIB.
+4. As contrarrazões recursais do apelado defenderam: a) inexistência de prescrição de fundo de direito, em razão do caráter social do Direito Previdenciário; b) qualidade de segurada especial e seu tempo de serviço rurícola teriam sido provadas documentalmente e por meios de outras provas.
+5. A apelada trouxe aos autos documentos previstos na legislação previdenciária como aptos a servirem de início de prova documental do exercício de atividade rural: (i) Carteira de Pescadora Profissional, na categoria de pesca artesanal, emitida pela Secretaria Especial de Aquicultura e Pesca - SEAP/PR, emitida em 23/10/2007, com validade até 17/07/2009  art. 116, inc. XXIII, da IN 128/2022 INSS ; (ii) Carteira de Identificação da Presidente da Colônia dos Pescadores Z-35, Cruzeta/RN, da Federação dos Pescadores do Rio Grande do Norte, emitida em 26/01/2010, com validade até 17/07/2010 (visto bienal após o prazo de validade, com nova validade até 17/07/2012)  art. 116, inc. XXIX, da IN 128/2022 INSS ; (iii) certidão eleitoral constando sua profissão como pescadora  art. 116, inc. XV, da IN 128/2022 INSS .
+6. Tais provas documentais foram corroboradas pelo seu depoimento pessoal coerente e sólido sobre seu exercício continuado do labor rurícola como pescadora. O depoimento pessoal, é útil lembrar, também é meio de prova previsto na legislação processual civil (art. 387 do CPC).
+7. Apelação improvida.
+Opostos embargos declaratórios, foram rejeitados (fl. 371).
+Aponta o recorrente, nas razões do apelo especial, violação aos arts. 1º do Decreto 20.910/32, 240 e 1.022, II, do CPC, sustentando, além de negativa de prestação jurisdicional, a "Necessidade de fixação do início do benefício (DIB) na data da citação, tendo em vista que a ação foi ajuizada há mais de cinco anos do seu indeferimento/cessação" (fl.384) .
+Defende que, "se insurge contra acórdão do Col. Tribunal que reconheceu o direito da parte autora à a quo concessão/restabelecimento do benefício pretendido, ressalvada a prescrição quinquenal das parcelas anteriores ao ajuizamento. Sustenta que, mesmo não sendo caso de extinção do feito pela prescrição, o benefício deve ser concedido tão somente a partir da citação" (fls. 386/387) .
+Aduz que, "com base no art. 240 do CPC, pela necessidade de fixação da DIB na data da citação, nos casos em que o benefício foi indeferido/cessado mais de cinco anos antes do ajuizamento da ação (art. 1º do Decreto nº 20.910/32). Na ausência de prévio requerimento administrativo (o último se encontra prescrito), é a partir da data da citação que a pretensão autoral se tornou litigiosa e se constituiu em mora o devedor (art. 240 do CPC" (fl. 388).
+Ao final, "requer-se o provimento do presente recurso para reformar o acórdão vergastado, a fim de fixar a DIB do benefício concedido a partir da citação" (fl. 388).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 395/416.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Na forma da jurisprudência desta Corte, "a existência de omissão e/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal local, caracteriza violação do art. 1.022 do NCPC" (AgInt no REsp 1.857.281/MG, Rel. Ministro Moura Ribeiro DJe 19/8/2021).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015 CONFIGURADA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. O embargante, ao opor os Embargos de Declaração de fls. 247-249, e-STJ, contra decisão que negou provimento ao Agravo de Instrumento, alegou que o Tribunal de origem deixou de analisar o fato de que é aposentado desde 30/8/2017, conforme Portaria de Aposentação de ID 6336636, homologada pelo TCE, para fins de isenção do IRPF sobre proventos de aposentadoria de portador de doença grave.
+2. Contudo, em vez de apreciar o ponto alegado como omisso pelo órgão embargante, o Tribunal a quo preferiu se esquivar do assunto, sob o
+argumento genérico de que se teria esgotado a prestação jurisdicional. Entretanto, era imprescindível que a Corte Julgadora se pronunciasse sobre tal tema, haja vista que é questão essencial para a solução da controvérsia.
+3. Assim, faz-se necessário o provimento do Recurso Especial por ofensa aos artigos 489 e 1022 do Código de Processo Civil, para fazer que a matéria volte ao Tribunal de origem a fim de se manifestar adequadamente sobre o ponto omisso.
+4. Embargos de Declaração acolhidos, com efeitos infringentes, para dar provimento ao Recurso Especial.
+(EDcl no AgInt nos EDcl no REsp 1.869.445/PE, Rel. Ministro Herman Benjamin, DJe 1º/7/2021)
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas nos embargos de declaração suscitou (fls. 335/338):
+Em suas razões recursais, o INSS argumentou ter ocorrido a prescrição de fundo de direito contra a pretensão para impugnar o ato administrativo indeferitório do INSS e, subsidiariamente , que seja reconhecida a data de ajuizamento da ação como DIB , consoante trechos da apelação a seguir transcritos:
+(..)
+III - DA QUESTÃO EVENTUAL - DATA DE INÍCIO DO BENEFÍCIO NA PROPOSITURA DA AÇÃO, CONFORME DECIDIDO PELO JUÍZO EM PRELIMINAR E NÃO NA DATA DE ENTRADA DO REQUERIMENTO, COMO CONSTA NO DISPOSITIVO.
+(..)
+Como se vê. cuida-se de impugnações específicas, de fácil apreciação mediante análise detalhada da legislação de regência, mas que não restaram devidamente apreciadas no julgado embargado.
+Tais argumentos, suficientes para infirmar parcialmente a conclusão do julgado, não foram enfrentados em momento algum pelo E. Tribunal, o que configura violação ao art. 489, II, e § Io, IV, do CPC, que assim dispõe:
+(..)
+Posto isso, a fim de afastar eventual nulidade do acórdão por ausência de fundamentação, requer a autarquia que sejam sanadas as omissões apontadas, com a manifestação expressa sobre os argumentos lançados na sua peça recursal, em especial em relação ao disposto no art. 1º do Decreto nº 20.910/32 e no art. 240 do CPC.
+PEDIDO
+Diante dos fundamentos expostos, o INSS requer o conhecimento e o provimento destes Embargos de Declaração para que sejam sanadas as omissões apontadas, com análise da questão jurídica veiculada no recurso da autarquia e atribuição de excepcionais efeitos infringentes, a fim de reconhecer a ocorrência da prescrição do indeferimento ou seja fixada a DIB no ajuizamento da presente demanda.
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022, II, do CPC.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial , em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
+EMENTA
