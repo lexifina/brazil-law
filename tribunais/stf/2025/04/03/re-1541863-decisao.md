@@ -1,0 +1,59 @@
+DECISÃO: Trata-se de recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Tiago Tadeu Gomes Girão, em face do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+
+    “DESOBEDIÊNCIA - preliminar de ilicitude de provas rejeitada - legalidade da atuação da guarda municipal - as provas produzidas nos autos são suficientes para a condenação - desobediência à ordem de parada emitida por guardas municipais - fração de aumento de pena aplicada na primeira e segunda fases da dosimetria, que contraria o entendimento do STJ - redução da pena que se impõe - regime prisional inicial corretamente fixado, diante da reincidência do réu - impossibilidade de substituição da pena privativa de liberdade por uma restritiva de direitos, em razão da insuficiência da medida - recurso parcialmente provido.”
+
+    Na minuta, sustenta-se violação ao art. 5º, inciso LVI, da Constituição da República.
+
+    Argumenta que os guardas municipais exorbitaram da sua competência funcional ao passarem a combater o tráfico de drogas, atuando como polícia ostensiva e investigativa. Sustenta que “conforme a novel jurisprudência do Supremo Tribunal Federal conquanto as Guardas Municipais façam parte do sistema da Segurança Pública (ADPF) 995, não pode atuar como polícia ostensiva, muito menos em diligência investigativa”.
+
+    Assim, requer a anulação dos elementos probatórios colhidos em razão da prisão em flagrante do recorrente e das provas derivadas, de forma que o recorrente seja absolvido do crime imputado e, subsidiariamente, pugna pela fixação do regime aberto ou pela substituição da pena privativa de liberdade por restritiva de direito.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    Da análise dos autos verifica-se que o entendimento acolhido no acórdão impugnado está alinhado à jurisprudência desta Suprema Corte.
+
+    No julgamento da ADPF nº 995, este Supremo Tribunal decidiu que “não se justifica, nos dias atuais da realidade brasileira, a atuação separada e estanque de cada uma das Polícias Federal, Civis e Militares e das Guardas Municipais; pois todas fazem parte do Sistema Único de Segurança Pública”, tendo em vista que também executam atividade de segurança pública (art. 144, § 8º, da CF), essencial ao atendimento de necessidades inadiáveis da comunidade (art. 9º, § 1º, da CF), possuindo, portanto, legitimidade inclusive para abordagem de suspeitos de crimes em geral, quando há fundadas razões para a ação.
+
+    Além disso, confirmando a licitude da busca pessoal realizada por guardas municipais, o Plenário deste Supremo Tribunal, em 20 de fevereiro de 2025, por maioria, no julgamento do Recurso Extraordinário 608.588-RG/SP (Tema 656 da Repercussão Geral), sob a relatoria do Ministro Luiz Fux, reconheceu a constitucionalidade da atuação da Guarda Municipal em ações de segurança urbana, incluindo o policiamento ostensivo e comunitário no âmbito municipal, razão pela qual não se verifica a alegada violação do dispositivo constitucional indicado nas razões recursais.
+
+     A tese fixada foi a seguinte:
+
+    “É constitucional, no âmbito dos municípios, o exercício de ações de segurança urbana pelas Guardas Municipais, inclusive policiamento ostensivo e comunitário, respeitadas as atribuições dos demais órgãos de segurança pública previstos no art. 144 da Constituição Federal e excluída qualquer atividade de polícia judiciária, sendo submetidas ao controle externo da atividade policial pelo Ministério Público, nos termos do artigo 129, inciso VII, da CF. Conforme o art. 144, § 8º, da Constituição Federal, as leis municipais devem observar as normas gerais fixadas pelo Congresso Nacional.”
+
+    No caso, a existência de fundadas razões está justificada, pois os “guardas Metropolitanos realizavam patrulhamento quando avistaram o réu numa motocicleta, saindo de um ponto de venda de drogas. Ao ver a viatura policial, entrou na contramão, ultrapassou o sinal fechado e passou no canteiro central de uma rua quase atingindo alguns pedestres, momento em que fez uma conversão à esquerda, bateu na guia e foi ao chão. Ao invés de atender ao mandamento policial, o réu empreendeu fuga, em manifesta desobediência à ordem emanada pelo funcionário público, havendo necessidade de perseguição para que pudesse ser abordado.” (Doc. 4).
+
+    Nessas circunstâncias, esta Suprema Corte tem entendido que há fundadas razões para legitimar a abordagem feita pelos agentes públicos. Nesse sentido:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E DOMICILIAR. EXISTÊNCIA DE FUNDADAS RAZÕES. ACÓRDÃO RECORRIDO EM DIVERGÊNCIA COM A JURISPRUDÊNCIA DO STF. JUSTA CAUSA CONFIGURADA. DESNECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. PROVIMENTO DO RECURSO EXTRAORDINÁRIO. AGRAVO INTERNO PROVIDO. 1. O acórdão impugnado não está alinhado à orientação desta Suprema Corte. Na hipótese, o Tribunal de origem desconsiderou a conduta suspeita do réu e a tentativa de evasão. Nessas circunstâncias, esta Suprema Corte tem entendido que estão presentes fundadas razões, que indiquem situação de flagrante delito. Precedentes. 2. Agravo interno conhecido e provido, para dar provimento ao recurso extraordinário.” (ARE 1520697 AgR, Relator(a): CRISTIANO ZANIN, Relator(a) p/ Acórdão: FLÁVIO DINO, Primeira Turma, DJe 13-03-2025)
+
+    “Direito processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Prisão em flagrante. Nulidade. Inexistência. Fatos e provas. Jurisprudência do Supremo Tribunal Federal. 1. Para além de observar que esta é a segunda vez que o acusado é preso em flagrante por tráfico de drogas, as instâncias de origem deixaram consignado que o paciente foi abordado e preso em situação de flagrante, motivo pelo qual os guardas civis municipais estavam legitimados, dentro do princípio da autodefesa da sociedade (trecho do acórdão estadual). Essas circunstâncias atraem a pacífica jurisprudência do Supremo Tribunal Federal no sentido de que [a] guarda municipal pode, e deve, prender quem se encontre em situação de flagrante delito, nos termos do art. 301 do CPP. (RE 1.282.774-AgR-ED-AgR, Redator para o acórdão Min. Luís Roberto Barroso). 2. Para dissentir das instâncias de origem no sentido de que não havia situação de flagrância, seria necessário o revolvimento do material fático-probatório dos autos, o que é inviável na via eleita. Precedente: HC 215.420-AgR, Relª. Minª. Rosa Weber. 3. Agravo regimental a que se nega provimento.” (HC 220.447-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 1º.12.2022)
+
+    “Direito processual penal. Agravo regimental em habeas corpus. Tráfico de drogas. Inviolabilidade de domicílio. Alegação de nulidade. Condenação transitada em julgado. Supressão de instâncias. Ausência de ilegalidade flagrante ou abuso de poder. 1. A orientação jurisprudencial desta Corte é no sentido de que o habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado (HC 118.292-AgR, Rel. Min. Luiz Fux). 2. As alegações da defesa não foram analisadas pelo Superior Tribunal de Justiça. Circunstância que impede o imediato exame da matéria pelo Supremo Tribunal Federal, sob pena de supressão de instância. 3. As peças que instruem a impetração não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. 4. A jurisprudência deste Tribunal é no sentido de que a “guarda municipal pode, e deve, prender quem se encontre em situação de flagrante delito, nos termos do art. 301 do CPP” (RE 1.282.774-AgR-ED-AgR, Redator para o acórdão o Min. Luís Roberto Barroso). 5. Agravo regimental a que se nega provimento.” (HC 222240 AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 06.02.2023)
+
+    “PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. TRÁFICO DE DROGAS. BUSCA PESSOAL REALIZADA POR GUARDAS MUNICIPAIS. FUNDADA SUSPEITA PARA A ABORDAGEM DEVIDAMENTE COMPROVADA. ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE NEGA PROVIMENTO. 1. As Guardas Municipais são previstas constitucionalmente no artigo 144, do Capítulo III, Título V (Da segurança pública), portanto, cumprem papel nas atividades estatais de segurança pública, conforme expressa previsão constitucional e regulamentação legal, desempenhando função pública essencial à manutenção da ordem pública, da paz social e da incolumidade das pessoas e do patrimônio público, em especial de bens, serviços e instalações do Município. 2. A tentativa de fuga do acusado ao avistar os guardas municipais, que se dirigiram ao local dos fatos - um conhecido ponto de tráfico de drogas - para atender uma ocorrência de perturbação do sossego, evidencia a existência de justa causa para revista pessoal, que resultou na apreensão de diversos entorpecentes destinados à mercancia ilícita. 3. Agravo Regimental a que se nega provimento.” (RE 1485776 AgR, Rel. Min. Alexandre de Moraes, 1ª Turma, DJe 03.06.2024)
+
+    Ademais, para dissentir das instâncias antecedentes e compreender de maneira diversa, seria necessário o revolvimento da moldura fática delineada, o que torna oblíqua e reflexa eventual ofensa à Constituição, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+
+    “Direito Penal e Processual Penal. Agravo regimental em recurso extraordinário. Flagrante realizado por guardas municipais. Abordagem pessoal. Reexame de provas. Súmulas 279 e 280/STF. 1. Agravo regimental contra decisão que negou seguimento a recurso extraordinário interposto para impugnar acórdão que absolveu os agravados. 2. Hipótese em que, para dissentir do entendimento firmado pelo Tribunal de origem, seria necessário analisar a legislação infraconstitucional aplicada ao caso, assim como reexaminar fatos e provas constantes dos autos, procedimentos vedados neste momento processual (Súmulas 279 e 280/STF). 3. Agravo regimental a que se nega provimento.”
+
+    (RE 1470510 AgR, Relator(a): LUÍS ROBERTO BARROSO (Presidente), Tribunal Pleno, DJe 10-04-2024)
+
+    “Agravo regimental em recurso extraordinário. Matéria criminal. Tráfico de drogas. Atuação da guarda civil municipal. Prisão em flagrante. Acórdão recorrido compatível com a jurisprudência do Supremo Tribunal Federal. Precedentes. Manutenção da decisão por seus próprios fundamentos. Agravo regimental a que se nega provimento. 1. O Supremo Tribunal Federal já firmou entendimento segundo o qual “[a] guarda municipal pode, e deve, prender quem se encontre em situação de flagrante delito, nos termos do art. 301 do CPP” (RE nº 1.282.774/SP-AgR-ED-AgR, Rel. Min. Alexandre de Moraes, red. do ac. Min. Roberto Barroso, Primeira Turma, DJe de 26/8/22). 2. A discussão acerca da existência (ou não) de situação de flagrância constitui matéria eminentemente fático-probatória, insuscetível de análise na via estreita do recurso extraordinário, por incidência do óbice consubstanciado no enunciado da Súmula nº 279 da Suprema Corte. 3. O agravante não apresentou fundamentos aptos a infirmar o entendimento anteriormente adotado, o qual deve ser preservado pelos seus próprios fundamentos. 4. A decisão ora atacada não merece reparos, porquanto seus fundamentos se harmonizam estritamente com o entendimento consolidado do Supremo Tribunal Federal. 5. Agravo ao qual se nega provimento.”
+
+    (RE 1530750 AgR, Relator(a): DIAS TOFFOLI, Segunda Turma, DJe 01-04-2025)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 3 de abril de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
