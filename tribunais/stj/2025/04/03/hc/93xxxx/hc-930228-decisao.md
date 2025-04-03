@@ -1,0 +1,17 @@
+DECISÃO
+DIEGO CARMO DE BARROS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro no Agravo em Execução n. 5005308-42.2024.8.19.0500.
+A defesa aduz, em síntese, que o paciente preenche os requisitos objetivos e subjetivos para a progressão de regime, e que a decisão do Tribunal desconsidera o comportamento carcerário excepcional e os exames criminológicos favoráveis, violando o princípio da legalidade estrita e impondo uma punição perpétua ao paciente.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, diante da ausência de ilegalidade, pela não concessão da ordem de ofício (fls. 111-116).
+Decido.
+O Juiz da Vara de Execuções Penais do Rio de Janeiro indeferiu o benefício da progressão de regime ao aberto sob o argumento de que (fl. 16, destaquei):
+Verifica-se que o caso analisado, pelas suas singularidades, demanda especial rigor na aferição dos requisitos subjetivos e concessão de benefícios que propiciarão maior contato do apenado com a sociedade, ante o histórico de crimes praticados com violência e grave ameaça.
+Registre-se que quando beneficiado com o livramento condicional, o penitente descumpriu o benefício, tendo sido preso pelo cometimento de novos delitos.
+O apenado não registra nenhuma atividade laborativa e/ou educacional no interior da unidade prisional, embora se encontre preso desde 23/06/2017, conforme TFD de seq. 242.1, o que impede a verificação de aptidão do apenado para o trabalho, nos termos do art. 114, I, da LEP.
+O acórdão do Tribunal de Justiça do Estado do Rio de Janeiro manteve a decisão, ao ponderar que (fl. 36, destaquei):
+Em que pese preenchido o lapso temporal exigido para sua transferência para o regime mais brando, o requisito de ordem subjetiva não foi atendido. Apenado que obteve livramento condicional em outra oportunidade e tornou a delinquir. Cometimento de crimes com violência contra a pessoa. Evidente, portanto, a necessidade de cuidado e cautela redobrados na apreciação e no deferimento do benefício, já que enseja a liberdade irrestrita do condenado e se apresenta em uma das últimas fases do processo de execução da pena. Concessão da benesse que não pode implicar na oportunidade de se furtar ao cumprimento da sanção penal ou, ainda, desmerecer os rigores do cárcere, suprimindo, assim, a reprovação daqueles que ainda têm uma longa pena a expiar. Acertada a decisão proferida pelo Juízo da VEP, devendo, portanto, ser mantida.
+Ao compulsar os Autos da Execução Penal de n. 0380543-26.2011.8.19.0001 pelo SEEU, constato que em 10/3/2025 foi deferido o benefício do Trabalho Externo Extramuros (TEE) ao paciente, o que corrobora o argumento utilizado para o indeferimento do pleito, na medida em que, até então, o apenado não iniciara atividade laboral.
+Em habeas co rpus, o controle que se faz do ato apontado como coator é de legalidade.
+Tendo em vista que a decisão que negou o benefício da progressão de regime fundamentou-se em elementos concretos, é inviável "a desconstituição da conclusão sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implicaria o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita" (AgRg no HC 444.379/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/10/2019).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
