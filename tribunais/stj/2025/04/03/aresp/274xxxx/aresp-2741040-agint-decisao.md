@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo interno interposto por PIRELLI TYRE S. P. A. e OUTRO contra decisão proferida pela Presidência do Superior Tribunal de Justiça, às fls. 1.302-1.303 (e-STJ), a qual não conheceu do agravo, nos seguintes termos:
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial.
+Contra o decisum foram opostos embargos de declaração que acabaram rejeitados (e-STJ, fls. 1.335-1.337).
+Em suas razões, a parte agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta, em síntese, que impugnou os fundamentos da decisão que inadmitiu o recurso especial de forma pormenorizada, notadamente em relação ao óbice da Súmula 83/STJ.
+Assevera ainda que conforme indicados nos recursos anteriores a discussão dos autos é a mesma do tema submetido à apreciação da sistemática dos recursos repetitivos, a qual deu origem ao Tema 1.287/STJ, requer, assim, que seja determinado o sobrestamento do feito até o julgamento do referido tema repetitivo, com a consequente devolução dos autos ao Tribunal de origem.
+A impugnação não foi apresentada, conforme certidão de fl. 1.376 (e-STJ).
+Brevemente relatado, decido.
+No caso, cumpre observar que a decisão do TRF da 3ª Região que não admitiu o recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 1.302-1.303 (e-STJ), tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC, e passo a novo exame do recurso especial.
+Entretanto, observo que a questão de direito tratada no recurso especial relativa à legalidade da incidência do IRRF sobre recursos remetidos ao exterior para pagamento de serviços prestados, sem transferência de tecnologia, por empresa sediada no Brasil à Itália foi afetada pela Primeira Seção do Superior Tribunal de Justiça como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Com efeito, as decisões de afetação nos autos dos REsps ns. 2.060.432/RS, 2.133.370/SP e 2.133.454/SP, relator Ministro Teodoro Silva Santos, julgadas em 8/10/2024, DJe de 14/10/2024, delimitaram o Tema 1.287 da seguinte forma: "Discutir a legalidade da incidência do IRRF sobre os recursos remetidos ao exterior para pagamento de serviços prestados, sem transferência de tecnologia, por empresas domiciliadas em países com os quais o Brasil tenha celebrado tratado internacional para evitar a bitributação".
+Confira-se a respectiva ementa (grifos no original):
+TRIBUTÁRIO. PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ARTS. 1.036, CAPUT E § 1º, 1.037 E 1.038, TODOS DO CPC/2015 C/C ART. 256- I DO RISTJ. IMPOSTO DE RENDA RETIDO NA FONTE. REMESSA DE VALORES AO EXTERIOR. PAGAMENTO DE SERVIÇO SEM TRANSFERÊNCIA DE TECNOLOGIA. EMPRESA SEDIADA NO EXTERIOR. TRATADO INTERNACIONAL CELEBRADO PELO BRASIL PARA EVITAR A BITRIBUTAÇÃO .
+I. Delimitação da controvérsia, para fins de afetação da matéria ao rito dos recursos repetitivos, nos termos do art. 1.036, caput e § 1º, do CPC/2015: "Discutir a legalidade da incidência do IRRF sobre os recursos remetidos ao exterior para pagamento de serviços prestados, sem transferência de tecnologia, por empresas domiciliadas em países com os quais o Brasil tenha celebrado tratado internacional para evitar a bitributação".
+II. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ, na redação da Emenda Regimental 24, de 28/9/2016)
+Nesse contexto, em observância ao princípio da economia processual à própria finalidade do CPC/2015, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, considera-se devido o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido no recurso afetado como representativo da controvérsia.
+Eis o teor da aludida disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, mediante juízo de retratação, determino a devolução dos autos à Corte de origem do recurso especial, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia vinculados ao Tema 1.287/STJ, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DESTA CORTE. IMPOSTO DE RENDA RETIDO NA FONTE. REMESSA DE VALORES AO EXTERIOR. PAGAMENTO DE SERVIÇO SEM TRANSFERÊNCIA DE TECNOLOGIA. MATÉRIA AFETADA AO RITO DOS RECURSOS ESPECIAIS REPETITIVOS. TEMA 1.287 DO STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM, MEDIANTE JUÍZO DE RETRATAÇÃO.
