@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de mandado de segurança contra ato atribuído à Ministra da Gestão e da Inovação em Serviços Públicos e à Fundação CESGRANRIO, consistente na eliminação do Impetrante pelo não atingimento da nota mínima de corte, relativo à prova objetiva, para habilitação à correção da prova discursiva.
+O Impetrante alega que teria cumprido os critérios de aprovação nas provas objetivas, conforme disposto nos itens 7.1.1.1.2.1 e 7.1.1.1.2.1.1.
+Defende, em síntese, que: a) a banca examinadora não disponibilizou a classificação detalhada; b) a banca examinadora não esclareceu os critérios que fundamentaram sua eliminação; e c) não teria sido concedido prazo para interposição de recurso administrativo contra a apontada exclusão do certame.
+Pugna pelo deferimento de medida liminar, com vistas a determinar a publicação da lista geral de classificação dos candidatos habilitados para a 2ª etapa do certame com as respectivas pontuações e, ainda, determinar a inclusão da prova discursiva do Impetrante no rol de correções, garantindo sua participação na segunda etapa do certame.
+Ao final, r equer a concessão da segurança nos seguintes termos:
+a) A condenação da autoridade coatora à publicação detalhada da classificação geral e das pontuações dos candidatos habilitados ao final de cada etapa, tanto nos resultados preliminares, quanto nos oficiais, de forma a garantir a transparência do concurso e a observância dos princípios da publicidade e isonomia;
+b) A confirmação da medida liminar, reconhecendo a nulidade do ato administrativo que eliminou o Impetrante com fundamento equivocado, determinando a correção de sua prova discursiva e a continuidade de sua participação no certame; (fls. 13-14)
+A segurança foi denegada às fls. 108-114.
+O Ministério Público Federal, às fls. 125-129, opôs embargos de declaração, em que aponta omissão quanto à presença da Fundação Cesgranrio no polo passivo do mandamus, o que possibilitaria a remessa dos autos ao juízo de primeiro grau sem acarretar na extinção do feito.
+Não foi apresentada impugnação.
+É o relatório. Decido.
+Nos termos do entendimento adotado no Superior Tribunal de Justiça, "A atribuição de efeitos infringentes aos Embargos de Declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária" (EDcl no AgInt no AREsp n. 2.499.632/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/8/2024, DJe de 20/8/2024).
+No caso dos autos, após a denegação da segurança em virtude da ilegitimidade passiva, o Embargante aponta omissão quanto à manutenção da Fundação Cesgranrio no polo passivo, o que acarretaria na remessa dos autos à primeira instância, obstando a denegação da segurança.
+Pois bem.
+Merece acolhimento o presente pedido aclaratório.
+De fato, nos termos do entendimento adotado pelo STJ, ao se reconhecer a ilegitimidade ativa de autoridade com prerrogativa de foro, em regra, há a extinção do processo (cf. AgInt no MS n. 26.574/DF, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Seção, julgado em 20/9/2022, DJe de 22/9/2022), consoante mencionado na decisão ora embargada.
+Todavia, em havendo duas autoridades apontadas como coatoras no polo passivo do mandamus, na hipótese de exclusão daquela com foro neste Tribunal Superior, o feito deve ser encaminhado ao juízo competente, nos termos do art. 64, § 3º, do CPC.
+Nessa mesma linha, mutatis mutandis:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DESCREDENCIAMENTO. CURSO ENSINO SUPERIOR. MINISTRO DE ESTADO DA EDUCAÇÃO. DIRETORIA DA SECRETARIA DE REGULAÇÃO E SUPERVISÃO DA EDUCAÇÃO SUPERIOR (SERES/MEC). ILEGITIMIDADE PASSIVA. REMESSA PARA O JUÍZO COMPETENTE. POSSIBILIDADE. APLICAÇÃO DO ART. 113, § 2º, DO CPC.
+(..)
+2. Como já sedimentado no âmbito desta Corte, a legitimidade para figurar no polo passivo do mandamus é da autoridade que detém atribuição para adoção das providências tendentes a executar o ato combatido e não daquele responsável pela edição da norma geral e abstrata. Precedentes.
+3. Aplica-se ao mandado de segurança a regra contida no art. 113, § 2º, do CPC, que autoriza o magistrado a encaminhar o processo para o juízo competente, nos casos em que reconhecer sua incompetência absoluta.
+4. A norma contida no art. 212 do RISTJ, que prevê a extinção do feito, deve ser utilizada quando a parte ingressa unicamente contra autoridade detentora de prerrogativa de foro e o órgão julgador reconhece sua ilegitimidade para figurar no mandamus. Nesse caso, descabe ao STJ substituir ex officio a autoridade eleita pelo impetrante, obrigando-lhe a litigar contra quem não deseja. Precedentes.
+5. Indeferida a petição inicial em relação ao Ministro de Estado da Educação, com extinção do presente mandamus sem apreciação do mérito, nos termos do art. 212 do RISTJ, art. 6º, § 5º, da Lei n. 12.016/2009 e art. 267, VI, do Código de Processo Civil. Devolução dos autos à Seção Judiciária da Justiça Federal no Distrito Federal (4ª Vara Federal), para processamento em relação à autoridade remanescente, nos termos do art. 113, § 2º, do CPC.
+(MS n. 21.744/DF, relator Ministro Og Fernandes, Primeira Seção, julgado em 23/9/2015, DJe de 5/10/2015.)
+Neste contexto, os embargos devem ser acolhidos, com efeitos infringentes, para, mantendo a ilegitimidade da Ministra da Gestão e da Inovação em Serviços Públicos, afastar a denegação da segurança e determinar a remessa dos autos à Justiça Federal da Subseção Judiciária de Maringá, dado que o Impetrante possui domicílio naquele Município (fl. 1) .
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para, com fulcro no art. 64, § 3º, do CPC, declarar a incompetência do Superior Tribunal de Justiça para o exame do mandado de segurança e determinar a remessa dos autos para à Justiça Federal da Subseção Judiciária de Maringá/PR, para processamento em relação à autoridade remanescente, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
