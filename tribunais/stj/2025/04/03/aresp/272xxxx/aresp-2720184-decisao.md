@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL LTDA em face da decisão que inadmitiu seu recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 81-85 e-STJ):
+CUMPRIMENTO DE SENTENÇA (HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS) - Decisão que deferiu a penhora no rosto dos autos - Alegação de violação ao princípio do contraditório e da ampla defesa, diante da ausência de prévia intimação acerca do pedido de penhora - Inocorrência Contraditório que, em caso de penhora de bens, é diferido, nos termos dos artigos 525, § 1º, IV, e 847 do CPC, os quais permitem ao devedor arguir a ocorrência de penhora incorreta ou excessiva, além de igualmente pugnar pela substituição da penhora - Alegação de que a penhora de faturamento exige o prévio esgotamento de todas as tentativas de constrição de outros bens - No caso, foi deferida, apenas, a penhora de eventuais créditos em nome da agravante, depositados em outra demanda, não havendo que se falar em penhora de faturamento - Agravante que reclama de violação à ordem prevista no art. 835 do CPC, bem como ao princípio da menor onerosidade - Descabimento - Devedora que sequer indicou os meios mais eficazes e menos onerosos (nos termos do parágrafo único do art. 805 do CPC), deixando de informar quais bens deveriam ser constritos em substituição à penhora no rosto dos autos - Decisão mantida - RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 76-78e-STJ).
+Nas razões de recurso especial, a insurgente alega que o acórdão recorrido violou os artigos 7º, 9º, 10 e 437, §1º, do Código de Processo Civil e art. 5, inciso LV, da Constituição Federal. Aduz, em suma, ofensa aos princípios da ampla defesa e do contraditório, bem como à vedação da decisão surpresa, porque não foi intimada para se manifestar previamente ao deferimento da penhora no rosto dos autos. Aduziu, ainda, estar configurado dissídio jurisprudencial sobre o tema.
+Contrarrazões às fls. 156-177 e-STJ.
+O apelo nobre foi inadmitido na origem (fls. 178-180 e-STJ), ensejando a interposição do presente agravo, com o objetivo de destrancar a insurgência (fls. 183-199 e-STJ).
+Contraminuta às fls. 202-232 e-STJ.
+Ascenderam os autos a esta Corte Superior.
+É o relatório.
+Decide-se.
+A irresignação não merece prosperar.
+1. De início, o reclamo não comporta conhecimento quanto à alegada ofensa ao artigo 5º, inciso LV, da Constituição Federal, pois a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, restando impossibilitado o exame de eventual violação a dispositivos e princípios constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+2. O Tribunal de origem afastou a alegada violação ao princípio do contraditório e da ampla defesa porque, em caso de penhora de bens, o contraditório é diferido, consignando que a recorrente teve a oportunidade de impugnar os cálculos apresentados pela parte adversa. Confira-se (fl. 83 e-STJ):
+Afinal, não se cogita de violação ao princípio do contraditório e da ampla defesa, notadamente porque, em caso de penhora de bens, o contraditório é diferido, conforme se depreende da leitura dos artigos 525, § 1º, IV, e 847 do CPC, os quais permitem ao devedor arguir a ocorrência de penhora incorreta ou excessiva, além de igualmente pugnar pela substituição da penhora.
+Além disso, ao contrário do arguido, a agravante teve a oportunidade de impugnar os cálculos apresentados pela agravada, tanto que apresentou impugnação as fls. 58/79 dos autos de origem, ainda pendente de apreciação pelo Juízo a quo.
+Acresça-se que a r. decisão agravada deferiu, apenas, a penhora de eventuais créditos existentes em nome da agravante, nos autos nº 0007417-07.2006.8.26.0224, não sendo possível compreender as razões pelas quais ela defende que tal medida se equipara a penhora de faturamento, já que se trata de empresa do ramo da construção civil.
+Não bastasse isso, embora a agravante invoque o princípio da menor onerosidade, certo que não indicou outros meios mais eficazes e menos onerosos, nos termos em que dispõe o parágrafo único do art. 805 do CPC/15, de modo que a penhora deve ser mantida.
+De igual maneira, apesar de a agravante reclamar de suposta violação à ordem de penhora estabelecida no art. 835 do CPC/15, vê-se que sequer indicou quais bens deveriam ser constritos, antes de determinada a penhora no rosto dos autos. De se destacar, ademais, que a ordem de penhora prevista no art. 835 do CPC não é absoluta: (..)  grifou-se
+Verifica-se que as razões do recurso especial não impugnam de modo específico os fundamentos do acórdão, amparados na interpretação dos artigos 525, § 1º, IV, e 847 do CPC, os quais permitiriam o contraditório diferido em caso de penhora de bens, bem como no fato de que a agravante pôde impugnar os cálculos da agravada.
+No apelo nobre, a insurgente limita-se a defender que, pelo teor dos arts. 7º, 9º, 10 e 437, §1º, do Código de Processo Civil, deveria ter-lhe sido assegurado o contraditório prévio a respeito do pedido de penhora.
+Dessa forma, conclui-se que as razões recursais são dissociadas do conteúdo do acórdão recorrido e não têm o poder de infirmá-lo, porquanto os fundamentos autônomos e suficientes à manutenção do aresto, no ponto, mantiveram-se inatacados e incólumes nas razões do recurso especial, atraindo, na hipótese, a incidência das Súmulas 283 e 284 do STF. Nesse sentido
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. VÍCIOS CONSTRUTIVOS. INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PRESCRIÇÃO DECENAL. ART. 205 DO CÓDIGO CIVIL. SÚMULA 83/STJ. FUNDAMENTOS NÃO IMPUGNADOS. RAZÕES DISSOCIADAS DA MOTIVAÇÃO DO JULGADO. SÚMULAS 283 E 284 DO STF. AGRAVO NÃO PROVIDO.
+(..)
+3. Inadmissível o recurso especial quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos. Incidência das Súmulas 283 e 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.394.798/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+3. Por fim, o dissídio jurisprudencial apontado não merece conhecimento, uma vez que, nos termos da Súmula 13/STJ, a divergência entre julgados do mesmo Tribunal não enseja a interposição de recurso especial.
+4. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de majorar os honorários advocatícios nos termos do artigo 85, § 11, do CPC, pois não foram fixados na origem.
+Publique-se.
+Intimem-se.
+EMENTA
