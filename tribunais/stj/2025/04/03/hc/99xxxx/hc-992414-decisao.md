@@ -1,0 +1,11 @@
+DECISÃO
+JULIANA SABINO DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução Penal n. 828796-37.2024.8.15.0000, em que foi indeferido o pleito de prisão domiciliar.
+Depreende-se dos autos que a paciente "cumpre pena de 06 (seis) anos de reclusão e 80 (oitenta) dias-multa, em regime fechado, por ter dentro de contexto de associação criminosa, efetuado várias compras de produtos diversos e em lojas diversas, através de cartões de crédito, os quais foram feitos com uso de documento público materialmente falso, incorrendo nos delitos dos arts. 171 (estelionato), 297 (falsificação de documento público) e 288 (associação criminosa), todos do Código Penal" (fl. 21).
+Sustentou a defesa, perante a Corte de origem, "o direito à prisão domiciliar com base no artigo 117, da LEP e no artigo 318, do Código de Processo Penal, mesmo nas hipóteses de cumprimento da pena em regime fechado quando as circunstâncias fáticas indicarem tal necessidade, como no caso dos autos em que alega ser a apenada necessária à assistência familiar de seus filhos, menores de 12 anos" (fl. 21).
+Decido.
+Na hipótese, ao manter o cumprimento da pena em regime fechado, a Corte de origem apontou que " v erifica-se na decisão que indeferiu o pedido, que no estudo social indica que os filhos da apenada encontram-se bem assistidos pela avó paterna, possuindo condições de continuar com o encargo" (fl. 22).
+Assim, evidencia-se a inviabilidade do acolhimento do pleito defensivo, visto que a instância ordinária salientou a inexistência de conjuntura apta a demonstrar a imprescindibilidade da paciente para o cuidado das crianças, as quais estão sob os cuidados da avó paterna.
+Portanto, para se infirmar a interpretação apresentada pelo Tribunal a quo acerca dos requisitos para concessão da prisão domiciliar, de forma a possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
