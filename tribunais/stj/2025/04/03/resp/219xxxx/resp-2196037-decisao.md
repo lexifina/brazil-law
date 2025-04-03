@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por SPE RESIDENCIAL PARQUE DOS IPÊS II EMPREENDIMENTOS IMOBILIÁRIOS LTDA, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 339):
+"COMPROMISSO DE COMPRA E VENDA - PRINCÍPIO DA DIALETICIDADE RESPEITADO - DESINTERESSE DOS AA. PELA CONTINUIDADE DO PACTO - CONTRATO REGIDO PELA LEI Nº 9.514/97 - FALTA DE REGISTRO DA GARANTIA - INADMISSIBILIDADE - INCIDÊNCIA DO CDC - ENTENDIMENTO DO C. STJ - RETENÇÃO DE 25% DOS VALORES PAGOS - SENTENÇA CONFIRMADA - APELOS DESPROVIDOS."
+Opostos embargos de declaração, foram rejeitados (fls. 375-377).
+A recorrente aponta violação dos artigos 927, III, e 1.022 do Código de Processo Civil; 26 e 27 da Lei 9.514/97.
+Sustenta negativa de prestação jurisdicional, visto que a Corte estadual não se manifestou em relação a ponto indispensável à solução da lide, relativo à comprovação, por parte da ré, da constituição em mora dos autores, com a consolidação da propriedade para a credora, registrada na matrícula do imóvel.
+Afirma a não aplicação do Código de Defesa do Consumidor à hipótese, em razão de lei específica que trata do tema - Lei 9.514/97.
+Aduz que "restou incontroverso que em decorrência do inadimplemento dos recorridos, a recorrente deu início aos atos de execução da garantia, com a devida constituição em mora da devedora fiduciante."
+Argumenta que, "considerando que o imóvel não foi arrematado em nenhum dos dois leilões, os lotes foram destinados à loteadora como forma de pagamento da dívida, resultando na extinção da obrigação pactuada, à luz do art. 27, § 5º da Lei 9.514/1997. Ou seja, não há que se falar em pagamento de qualquer valor à devedora fiduciária."
+Contrarrazões apresentadas às fls. 381-388.
+Assim delimitada a controvérsia, passo a decidir.
+Assiste razão à recorrente.
+O Tribunal de origem, ao analisar a controvérsia, assim se pronunciou (fls. 340-342):
+"No mais, ambas as insurgências não estão em obra de se receber, merecendo mantença a sédula decisão "a quo", que exata solução deu à lide.
+É que não há como fazer prevalecer a Lei nº 9.514/97 em face do Diploma consumerista, já que não registrada a garantia quando do ajuizamento do feito (fls. 271/272), nem provada a constituição do Autor em mora, com a consolidação da propriedade para a credora - tudo na esteira do Tema Repetitivo nº 1.095 do Magnífico SUPERIOR TRIBUNAL DE JUSTIÇA: "Em contrato de compra e venda de imóvel com garantia de alienação fiduciária devidamente registrado em cartório, a resolução do pacto, na hipótese de inadimplemento do devedor, devidamente constituído em mora, deverá observar a forma prevista na Lei nº 9.514/97, por se tratar de legislação específica, afastando-se, por conseguinte, a aplicação do Código de Defesa do Consumidor".
+O Contrato foi celebrado sob a égide da Lei Especial todavia, dispõe o Artigo 23 da citada Lei que "Constitui-se a propriedade fiduciária de coisa imóvel mediante registro, no competente Registro de Imóveis, do contrato que lhe serve de título". Na hipótese, ver que o Autor ajuizou a demanda em março de 2020, vendo-se que o Registro da garantia somente foi providenciado em março de 2021.
+ ..
+Assim, repetindo-se, não há como incidir na espécie a Lei Especial e ante a hialina relação de consumo entre as partes, de rigor a utilização do Código de Defesa do Consumidor; e nos termos da Súmula 543 do C. STJ, deverá a vendedora restituir parcialmente os valores adimplidos, ante o desfazimento do pacto por culpa exclusiva do comprador. "
+A recorrente opôs embargos de declaração, ressaltando que o acórdão era omisso quanto a ter ocorrido a comprovação, por parte da recorrente, da constituição em mora dos recorridos, com a consolidação da propriedade para a credora, registrada na matrícula do imóvel.
+O tribunal local, porém, rejeitou os embargos de declaração sob o fundamento de que "as omissões são fruto de dúvidas subjetivas da parte Embargante, cuidando-se apenas de malogrado interesse em ver reexaminada, de forma contrária ao C. P. C. que não é uma inutilidade o contexto probante dos autos" (fls. 376-377).
+Ocorre que é evidente a negativa de prestação jurisdicional no caso concreto, considerando que o Tribunal de origem quedou-se inerte quanto à alegação suscitada pela recorrente, reconhecendo-se, portanto, a violação do art. 1.022 do CPC.
+Do acima transcrito, verifica-se que o acórdão recorrido efetivamente foi omisso, não abordando a questão referente a ter ocorrido a comprovação, por parte da recorrente, da constituição em mora dos recorridos, com a consolidação da propriedade para a credora, registrada na matrícula do imóvel.
+Impõe-se, portanto, o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, para que tal omissão seja sanada.
+Em face do exposto, prejudicada a análise dos demais pontos, dou provimento ao recurso especial e determino a devolução dos autos ao Tribunal de origem, para que proceda a novo julgamento dos embargos de declaração (fls. 372-374), como entender de direito, apreciando detidamente todos os pontos suscitados pela embargante, nos termos da fundamentação acima.
+Intimem-se.
+EMENTA
