@@ -1,0 +1,14 @@
+DECISÃO
+Por meio deste writ, impetrado em benefício de Christian Charles Rodrigues Leite de Araujo - preso em flagrante em 16/9/2024, com conversão da prisão em preventiva em 17/9/2024, pelo Juízo de Direito da comarca de Belo Horizonte/Central de Audiência de Custódia - CEAC/MG, e encaminhado ao Hospital Odilon Behrens, em razão de fratura de fêmur, onde fora submetido à cirurgia de urgência e ainda permanece internado aguardando uma segunda cirurgia; acusado pela prática, em tese, do crime descrito no art. 311, § 2º, III, do Código Penal (APFD n. 5231960-53.2024.8.13.0024 - fls. 270/274) - contra acórdão denegatório do Tribunal de Justiça de Minas Gerais (HC n. 1.0000.24.460459-1/000 - fls. 13/21), a impetrante busca, inclusive em sede de liminar, a imediata revogação da custódia cautelar, aos argumentos, em suma, de nulidade da decisão que decretou a custódia cautelar e daquela que a manteve, uma vez que, no caso em tela, os fundamentos utilizados não condizem com os documentos juntados aos autos, bem como em nada remete ao caso em tela (fls. 4/5); de desnecessidade da referida segregação, ante as condições pessoais de favorabilidade do réu - primário, possui trabalho lícito, apesar de informal, e endereço fixo (fl. 6); e de suficiência, in casu, da aplicação de medidas cautelares diversas, previstas no art. 319 do Código de Processo Penal, em decorrência das questões de saúde.
+Estes autos foram a mim distribuídos por conexão (HC n. 960.572/MG).
+Liminar indeferida (fls. 482/483).
+Informações prestadas às fls. 490/500 e 503/526.
+Pedido de reconsideração da decisão indeferitória de liminar formulado em prol do ora paciente (fls. 529/530), com indeferimento às fls. 551/552.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpu s e, no mérito, pela denegação (fls. 557/564).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de Minas Gerais dão conta de que, em 30/1/2025, o Juízo de Direito da 2ª Vara Criminal da comarca de Belo Horizonte/MG relaxou a prisão preventiva do ora paciente e aplicou-lhe medidas cautelares diversas, com determinação para expedição do alvará de soltura em seu favor (Ação Penal n. 5246246-36.2024.8.13.0024), fato que esgota a pretensão contida na presente impetração, dada a superveniente alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 311, § 2º, III, DO CP. PRISÃO PREVENTIVA. PRETENSÃO DE REVOGAÇÃO. TESE DE INIDONEIDADE DE FUNDAMENTAÇÃO. SUPERVENIENTE DECISÃO DO JUÍZO SINGULAR RELAXANDO A CUSTÓDIA CAUTELAR. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. EXPEDIÇÃO DO ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
