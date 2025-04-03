@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 218/219):
+IRDR. REQUISITOS. NÃO ATENDIMENTO. INADMISSIBILIDADE.
+I. A controvérsia posta no presente caderno processual, é referente ao cabimento do IRDR referente às questões decorrentes da cobrança de tarifa bancária em conta destinada exclusivamente ao recebimento de salário/proventos dos consumidores.
+II. Esta Corte de Justiça já se debruçou sobre a suscitada controvérsia quando do julgamento do IRDR 0000340-95.2017.8.10.0000 (3.043/2017), sendo na oportunidade fixada a seguinte tese (Tema 04): "É ilícita a cobrança de tarifas bancárias para o recebimento de proventos e/ou benefícios previdenciários, por meio de cartão magnético do INSS e através da conta de depósito com pacote essencial, sendo possível a cobrança de tarifas bancárias na contratação de pacote remunerado de serviços ou quando excedidos os limites de gratuidade previstos na Res. 3.919/2010 do BACEN, desde que o aposentado seja prévia e efetivamente informado pela instituição financeira".
+III. Os julgados colacionados pelo Requerente, ainda que apresentem soluções jurídicas diversas quanto à legalidade da cobrança, sempre o fazem observando o citado precedente qualificado e após detida análise do cotejo fático existente nos autos.
+IV. Embora haja efetiva repetição de processos sobre a matéria suscitada, observo que, além das questões envolverem análise fática (dependente das peculiaridades de cada caso concreto), inexiste risco à isonomia e à segurança jurídica.
+V. Incidente de Resolução de Demandas Repetitivas que não se admite.
+Opostos os embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, IV, 926, 927, § 1º, 976, 978, 1.022, I, e II, do Código de Processo Civil.
+Sustenta que houve negativa de prestação jurisdicional.
+Defende a admissão do IRDR, diante da necessidade de uniformização da jurisprudência em razão do risco à isonomia.
+Contrarrazões não foram apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+No caso, a Corte local não admitiu o Incidente de Resolução de Demanda Repetitiva, pois além de as questões envolverem análise fática, inexiste risco à isonomia e à segurança jurídica, conforme se depreende do trecho do acórdão abaixo transcrito (e-STJ, fls. 228/230):
+Como relatado, a questão posta no presente caderno processual, é referente ao cabimento do IRDR referente às questões decorrentes da cobrança de tarifa bancária em conta destinada exclusivamente ao recebimento de salário/proventos dos consumidores.
+Registro que o art. 976 do CPC estabelece as balizas normativas para instauração do referido incidente. Transcrevo a citada norma:
+Art. 976. É cabível a instauração do incidente de resolução de demandas repetitivas quando houver, simultaneamente:
+I - efetiva repetição de processos que contenham controvérsia sobre a mesma questão unicamente de direito;
+II - risco de ofensa à isonomia e à segurança jurídica.
+Dissertando sobre o assunto, leciona Fredie Didier Jr que "esses requisitos são cumulativos. A ausência de qualquer um deles inviabiliza a instauração do IRDR. Não é sem razão, aliás, que o art. 976 do CPC utiliza a expressão simultaneamente, a exigir a confluência de todos esses requisitos".
+No caso dos autos, embora haja efetiva repetição de processos sobre a matéria suscitada, observo que, além das questões envolverem análise fática (dependente das peculiaridades de cada caso concreto), inexiste risco à isonomia e à segurança jurídica. Explico.
+Registro, por oportuno, que esta Corte de Justiça já se debruçou sobre a suscitada controvérsia quando do julgamento do IRDR 0000340-95.2017.8.10.0000 (3.043/2017), sob a relatoria do Des. Paulo Sergio Velten Pereira, sendo na oportunidade fixada a seguinte tese (Tema 04):
+"É ilícita a cobrança de tarifas bancárias para o recebimento de proventos e/ou benefícios previdenciários, por meio de cartão magnético do INSS e através da conta de depósito com pacote essencial, sendo possível a cobrança de tarifas bancárias na contratação de pacote remunerado de serviços ou quando excedidos os limites de gratuidade previstos na Res. 3.919/2010 do BACEN, desde que o aposentado seja prévia e efetivamente informado pela instituição financeira".
+Nesse passo, observo que os julgados colacionados pelo Requerente, ainda que apresentem soluções jurídicas diversas quanto à legalidade da cobrança, sempre o fazem observando o citado precedente qualificado e após detida análise do cotejo fático existente nos autos.
+Assim, além de inexistir o necessário risco à segurança jurídica ou isonomia, pois já existe orientação vinculante sobre a matéria, a resolução das controvérsias depende essencialmente da análise das questões fáticas, de forma que não se trata de questão unicamente de direito .
+A propósito:
+(..)
+Ademais, observo que o Requerente deixou de utilizar do instituto adequado para questionar a aplicação do teor do IRDR nº 3.043/2017, qual seja a reclamação, optando, ao que indica o teor da exordial, por valer-se de tão relevante instituto como mecanismo de revisão de julgado que não atendeu integralmente aos seus interesses, situação que acaba por macular a finalidade do sistema processual de uniformização da jurisprudência.
+Ante o exposto, inadmito o presente IRDR, consoante fundamentação supra.
+É como voto.
+Nesse contexto, nos termos da jurisprudência desta Corte Superior, não cabe recurso especial contra acórdão proferido pela Corte de origem que não admite a instauração de incidente de resolução de demandas repetitivas. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRDR. INSTAURAÇÃO INADMITIDA PELO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL. NÃO CABIMENTO.
+1. Na forma da jurisprudência desta Corte, "Não é cabível recurso especial em face do acórdão que inadmite a instauração do IRDR por falta de interesse recursal do requerente, pois, apontada a ausência de determinado pressuposto, será possível a instauração de um novo IRDR após o preenchimento do requisito inicialmente faltante, sem que tenha ocorrido preclusão, conforme expressamente autoriza o art. 976, §3º, do CPC/15", sendo certo, ademais, que "o descabimento do recurso especial na hipótese decorre ainda do fato de que o novo CPC previu a recorribilidade excepcional ao Superior Tribunal de Justiça e ao Supremo Tribunal Federal apenas contra o acórdão que resolver o mérito do Incidente, conforme se depreende do art. 987, caput, do CPC/15, mas não do acórdão que admite ou que inadmite a instauração do IRDR" (AgInt no AREsp n. 2.269.878/MA, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31/5/2023).
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.723.286/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. IRDR. ACÓRDÃO DE TRIBUNAL DE 2º GRAU QUE INADMITE A INSTAURAÇÃO DO INCIDENTE. RECORRIBILIDADE AO SUPERIOR TRIBUNAL DE JUSTIÇA. DESCABIMENTO. AUSÊNCIA DE INTERESSE RECURSAL. POSSIBILIDADE DE NOVO REQUERIMENTO DE INSTAURAÇÃO DO IRDR QUANDO SATISFEITO O REQUISITO AUSENTE POR OCASIÃO DO PRIMEIRO PEDIDO, SEM PRECLUSÃO. RECORRIBILIDADE AO STJ OU AO STF PREVISTA, ADEMAIS, SOMENTE PARA O ACÓRDÃO QUE JULGAR O MÉRITO DO INCIDENTE, MAS NÃO PARA O ACÓRDÃO QUE INADMITE O INCIDENTE DE CAUSA DECIDIDA. REQUISITO CONSTITUCIONAL DE ADMISSIBILIDADE DOS RECURSOS EXCEPCIONAIS. AUSÊNCIA. QUESTÃO LITIGIOSA DECIDIDA EM CARÁTER NÃO DEFINITIVO.
+1. Incidente de resolução de demandas repetitivas.
+2. Não é cabível recurso especial em face do acórdão que inadmite a instauração do IRDR por falta de interesse recursal do requerente, pois, apontada a ausência de determinado pressuposto, será possível a instauração de um novo IRDR após o preenchimento do requisito inicialmente faltante, sem que tenha ocorrido preclusão, conforme expressamente autoriza o art. 976, §3º, do CPC/15.
+3. De outro lado, o descabimento do recurso especial na hipótese decorre ainda do fato de que o novo CPC previu a recorribilidade excepcional ao Superior Tribunal de Justiça e ao Supremo Tribunal Federal apenas contra o acórdão que resolver o mérito do Incidente, conforme se depreende do art. 987, caput, do CPC/15, mas não do acórdão que admite ou que inadmite a instauração do IRDR.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.269.878/MA, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/5/2023, DJe de 31/5/2023.)
+Dessa forma, fica prejudicada a análise da violação dos dispositivos legais indicados, visto que não é cabível a interposição de recurso especial contra acórdão que não admitiu a instauração de IRDR.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
