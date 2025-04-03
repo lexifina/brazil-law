@@ -1,0 +1,85 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MATHEUS WILIAN SANTOS DA SILVA com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ - TJPA em julgamento da Apelação Criminal n. 002724-85.2020.8.14.0009.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no 33, caput, da Lei n. 11.343/06 (tráfico ilícito de entorpecentes), à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa (e-STJ fls. 30/42).
+Recurso de apelação interposto pela defesa foi desprovido (e-STJ fl. 133). O acórdão ficou assim ementado (e-STJ fl. 128):
+"APELAÇÃO PENAL. CRIME DO ARTIGO 33 DA LEI Nº 11.343/06. DA ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. AUTORIA E MATERIALIDADE COMPROVADAS NOS AUTOS. PROVAS QUE NÃO DEIXAM DÚVIDAS DO ENVOLVIMENTO DO APELANTE NO DELITO. DESCLASSIFICAÇÃO PARA USO PRÓPRIO. IMPOSSIBILIDADE. ACUSADO PRESO EM FLAGRANTE COM O REFERIDO ENTORPECENTE NÃO APRESENTANDO QUALQUER PROVA NO SENTIDO DE QUE A DROGA APREENDIDA SE DESTINAVA AO PRÓPRIO CONSUMO. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+1. Autoria e materialidade comprovadas nos autos A prova colhida sob o crivo do contraditório e da ampla defesa demonstra o envolvimento do recorrente no crime, ocorrendo a apreensão da substância entorpecente bem como sua prisão em flagrante, não havendo que se falar em insuficiência probatória;
+2. Da desclassificação para uso próprio. O recorrente foi preso em flagrante delito com o referido entorpecente e não apresentou qualquer prova no sentido de que a droga apreendida se destinava ao próprio consumo;
+3. Recurso conhecido e improvido. Decisão unânime."
+Embargos de declaração opostos pela defesa foram rejeitados (e-STJ fl. 162). O acórdão ficou assim ementado (e-STJ fl. 158):
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO PENAL. ALEGAÇÃO DE QUE HAVERIA OMISSÃO NO ACORDÃO VERGASTADO. NÃO ACOLHIMENTO. EMBARGOS CONHECIDOS E REJEITADOS. DECISÃO UNÂNIME.
+Segundo o art. 619 do CPPB, podem ser opostos Embargos de Declaração, quando houver ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. É instrumento usado pelas partes para que o mesmo órgão julgador explique a ambiguidade ou obscuridade porventura existente, lhe dirima a contradição ou supra a omissão apontada. In casu, o acórdão guerreado não guarda qualquer omissão, capaz de legitimar a interposição de embargos, tendo a Corte enfrentado, fundamentadamente, toda a controvérsia posta no recurso de apelação apresentado. Sabe-se que matéria inédita, isto é, não abordada no recurso ou durante o seu julgamento, não pode ser suscitada em embargos, a pretexto de viabilizar prequestionamento para futuro recurso especial. Na hipótese, observa-se que os argumentos do embargante não passam de mero inconformismo com a condenação imposta e em uma tentativa de fazer dos embargos de declaração um novo recurso de apelação, fato que não se deve admitir. Embargos de declaração conhecidos e rejeitados. Decisão unânime."
+Em sede de recurso especial (e-STJ fls. 164/172), a defesa apontou violação ao art. 28 da Lei n. 11.343/06, porque o TJPA manteve a condenação do recorrente pelo crime de tráfico ilícito de entorpecentes, rejeitando a desclassificação para o tipo de posse para consumo pessoal.
+Sustentou que as circunstâncias da prisão em flagrante e a quantidade de droga apreendida não são suficientes para concluir pela prática do crime de tráfico de drogas, indicando, ao revés, que a destinação era o consumo pessoal. Destacou, a propósito, que não foram flagrados atos de mercancia, tampouco foram apreendidos petrechos relacionados ao tráfico.
+Em seguida, a defesa apontou violação ao art. 619 do Código de Processo Penal - CPP e ao art. 33, § 4º, da Lei n. 11.343/06, porque o TJPA deixou de aplicar a causa de diminuição de pena do tráfico privilegiado, sem apresentar fundamentos idôneos, a despeito da oposição de embargos de declaração.
+Sustentou que o recorrente preenche os requisitos legais para a concessão do redutor de pena na fração máxima, uma vez que é primário, tem bons antecedentes, não se dedica a atividades criminosas nem integra organização criminosa. Ressaltou que inquéritos policiais e ações penais em andamento não constituem fundamento idôneo para negar o benefício.
+Requereu a desclassificação da conduta do recorrente para o crime de posse de drogas para consumo pessoal e, subsidiariamente, a aplicação da minorante do tráfico privilegiado na fração de 2/3 ou que seja determinado ao Tribunal a quo que se pronuncie sobre a matéria suscitada nos embargos de declaração.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ (e-STJ fls. 174/179).
+Admitido o recurso no TJPA (e-STJ fls. 180/185), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (e-STJ fls. 200/209).
+É o relatório.
+Decido.
+Sobre a violação ao art. 28, da Lei n. 11.343/06, o Tribunal de origem manteve a condenação do recorrente pelo delito de tráfico de drogas, rejeitando o pleito defensivo de desclassificação da conduta para o tipo de posse de drogas para consumo próprio, nos seguintes termos do voto do relator (e-STJ fl. 133):
+" ..
+O pleito tem como discussão a questão da droga apreendida ser destinada ao uso pessoal do apelado ou ao tráfico ilícito. Compulsando os autos, observa-se que foram apreendidos em poder do recorrente, 04 (quatro) petecas pesando 20g (vinte gramas), da substância Benzoilmetilecgonina, vulgarmente conhecida por COCAÍNA e mais 40 (quarenta) embalagens pesando 10g (dez gramas), da substância Tetrahidrocanabinol, princípio ativo do vegetal Cannabis sativa L, vulgarmente conhecida por MACONHA.
+Não merece amparo a referida tese de desclassificação, pois o réu, que foi preso em flagrante com o referido entorpecente não apresentou qualquer prova no sentido de que a droga apreendida se destinava ao próprio consumo, sendo que o ônus da prova, como sabido, é de quem alega, não merecendo, dessa forma, guarida, o pedido do recorrente de desclassificação da conduta de tráfico para o delito de uso de entorpecentes.
+ .. "
+Por seu turno, na sentença constou o seguinte sobre a questão em pauta (e-STJ fl. 33):
+" ..
+Verifico não ser caso de desclassificação para o crime do art. 28. da Lei de Drogas. Pela quantidade e diversidade da droga apreendida e, ainda, pelas circunstâncias da apreensão (após denúncia de tráfico apontando o acusado), tuco evidencia fins de traficância e não consumo pessoal.
+ .. "
+Da leitura atenta dos trechos acima, depreende-se que as instâncias ordinárias afastaram a desclassificação da conduta imputada para o delito de posse de drogas para consumo pessoal com base na quantidade de entorpecentes apreendidos. O magistrado sentenciante ainda referiu a existência e denúncia anônima de tráfico apontando o recorrente, e o Tribunal de origem destacou que a defesa não se desincumbiu do ônus de comprovar que a droga apreendida se destinava ao próprio consumo.
+Diante desse quadro, é caso de reformar o acórdão recorrido.
+Com efeito, " n ão se desconhece a copiosa manifestação desta Corte Superior no sentido de que o pleito de absolvição ou de desclassificação do crime de tráfico exige, em tese, o revolvimento de fatos e provas, providência não cabível no espectro de cognição do recurso especial. Contudo, é possível a esta Corte Superior verificar se a fundamentação utilizada pelas instâncias ordinárias é juridicamente idônea e suficiente para dar suporte à condenação, o que não configura reexame de provas, pois a discussão é eminentemente jurídica e não fático-probatória" (REsp n. 1.917.988/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/5/2021, DJe de 25/5/2021).
+Na hipótese, sem proceder ao revolvimento fático-probatório, faz-se possível verificar que a fundamentação utilizada pelas instâncias ordinárias para condenar o recorrente pelo crime de tráfico de drogas é inidônea. Isso porque está baseada, essencialmente, na quantidade de droga aprendida - 4 pedras de crack com 20g e 40 embalagens de maconha com 10 g - e em suposta denúncia anônima.
+Todavia, embora chame atenção o número de porções de maconha, a quantidade total de droga encontrada é reduzida, insuficiente para, por si só, concluir pela prática da traficância. De fato, o montante de 20 g de crack e 10 g de maconha não se apresenta incompatível com a condição de usuário.
+Ademais, o recorrente não foi flagrado em atos típicos de traficância, tampouco foram apreendidos em sua posse petrechos ou outros itens relacionados ao narcotráfico, sendo que a denúncia anônima não foi corroborada por outros elementos além da própria apreensão da droga.
+Portanto, no caso, não havendo provas da finalidade mercantil dos entorpecentes localizados, o que se conclui tão somente com base no cenário fático-probatório delimitado no acórdão recorrido, é de ser reconhecida a desclassificação da conduta para o crime de porte de drogas para consumo pessoal.
+No mesmo sentido é o parecer opinativo do Ministério Público Federal, do qual extraio o seguinte trecho (e-STJ fl. 205):
+" ..
+Apesar dos depoimentos dos policiais serem merecedores de credibilidade como elementos de convicção, na hipótese, não ficou suficientemente demonstrada a prática do tráfico pelo recorrente. Não foi flagrado em ação de comercialização da droga (expondo à venda, entregando ou fornecendo drogas a consumo de terceiros). Não foram encontrados com ele petrechos relacionados ao tráfico. A quantidade dos entorpecentes também não é relevante (20 gramas de cocaína e 10 gramas de maconha). Conclusão sobre a conduta do acusado decorreu de avaliação subjetiva.
+Conclusão sobre a conduta do acusado decorreu de avaliação subjetiva não amparada em substrato probatório suficiente para lastrear a condenação.
+Ressalta-se que as condutas imputadas ao acusado - guardar e ter em depósito - também estão previstas no caput do artigo 28 da Lei nº 11.343/2006.
+Dessa forma, inexistindo provas contundentes de que o recorrente pretendia comercializar os entorpecentes com ele apreendidos, de rigor a desclassificação para conduta de uso pessoal.
+ .. "
+Efetivamente, a jurisprudência desta Corte, em casos excepcionais, entende ser possível a desclassificação pretendida, quando, a partir dos fatos incontroversos delineados no acórdão e na sentença, verificar-se a inexistência de demonstração da finalidade mercantil dos entorpecentes encontrados, como ocorre na hipótese. Ademais, consolidou-se a orientação de que, em caso de dúvida, prevalece o entendimento mais favorável ao acusado.
+Confiram-se precedentes (grifos acrescidos):
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA POSSE DE ENTORPECENTES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão que desclassificou a conduta do agravado de tráfico de drogas para posse de entorpecentes para uso pessoal, nos termos do art. 28 da Lei n. 11.343/06.
+2. O agravado foi condenado por tráfico de drogas com base em depoimentos de policiais e na apreensão de 14,04g de maconha e 15, 36g de crack em sua residência. A defesa alegou que a droga era para consumo próprio.
+3. A instância anterior manteve a condenação por tráfico de drogas, mas a decisão monocrática desclassificou a conduta para posse de entorpecentes, considerando a ausência de provas seguras de tráfico.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a quantidade de drogas apreendidas e os depoimentos dos policiais são suficientes para manter a condenação por tráfico de drogas ou se a conduta deve ser desclassificada para posse de entorpecentes para uso pessoal.
+III. Razões de decidir
+5. A decisão monocrática considerou que a quantidade de drogas apreendidas não é relevante para configurar o crime de tráfico, e que não há provas de comportamento indicativo de difusão ilícita.
+6. A ausência de monitoramento do agravado em contato com outros possíveis usuários e a falta de apetrechos ou anotações típicas do tráfico reforçam a desclassificação da conduta.
+7. O princípio do in dubio pro reo foi aplicado, beneficiando o réu diante da dúvida sobre a destinação das drogas.
+IV. Dispositivo e tese
+8. Agravo desprovido.
+Tese de julgamento: "1. A quantidade de drogas apreendidas, por si só, não é suficiente para configurar o crime de tráfico de drogas. 2. Na ausência de provas seguras de tráfico, a conduta deve ser desclassificada para posse de entorpecentes para uso pessoal. 3. O princípio do in dubio pro reo deve ser aplicado em benefício do réu quando houver dúvida sobre a destinação das drogas".
+(AgRg no AgRg no AREsp n. 2.759.421/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/2/2025, DJEN de 18/2/2025.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DA CONDUTA PARA PORTE DE DROGAS PARA CONSUMO PESSOAL. INSUFICIÊNCIA DE PROVAS DA TRAFICÂNCIA. ELEMENTOS INDICANDO DESTINAÇÃO AO CONSUMO PRÓPRIO. MÍNIMA QUANTIDADE 19 GRAMAS DE COCAÍNA E CRACK. AGRAVO DESPROVIDO.
+ ..
+3. A desclassificação da conduta para o crime de porte de drogas para consumo pessoal é cabível quando as provas não indicam, de forma inequívoca, a destinação da droga para o comércio ilícito.
+4. No presente caso, o agravado foi flagrado com 19g de cocaína e crack, sem a apreensão de apetrechos relacionados à traficância e sem evidências claras de comercialização da droga. As instâncias inferiores basearam a condenação no relato de policiais e em uma denúncia, porém, não houve a demonstração de atos concretos que caracterizassem o tráfico.
+5. A quantidade de droga e as circunstâncias da apreensão, sem outros elementos de traficância, indicam que a droga era destinada ao consumo próprio, conforme o entendimento da jurisprudência do STJ em casos semelhantes.
+6. O reconhecimento do porte de drogas para consumo pessoal, previsto no art. 28 da Lei n. 11.343/2006, não implica revolvimento de provas, mas, sim, revaloração jurídica dos elementos fáticos apresentados.
+IV. Agravo regimental desprovido.
+(AgRg no HC n. 838.593/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/2/2025, DJEN de 13/3/2025.)
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA POSSE PARA CONSUMO PRÓPRIO. ORDEM CONCEDIDA. I. CASO EM EXAME
+ ..
+4. A quantidade de droga apreendida (36,12g de crack e 2,50g de cocaína) não é suficiente para caracterizar o tráfico, conforme jurisprudência.
+5. O princípio do in dubio pro reo deve prevalecer, considerando a alegação da paciente de ser usuária de drogas.
+IV. ORDEM CONCEDIDA.
+(HC n. 785.912/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 13/12/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL EM QUE INCIDE O ÓBICE DA SÚMULA N. 182/STJ. INVIABILIDADE DE EXAME DO RECURSO.
+ ..
+3. Constata-se, contudo, ilegalidade flagrante ensejadora de concessão de habeas corpus de ofício, tendo em vista que não foi produzida prova suficiente a demonstrar a realização do tipo descrito no art. 33 da Lei n. 11.343/2006.
+4. A apreensão da droga, após denúncia anônima, por si só, não indica a realização do tipo inserto no art. 33 da referida lei, notadamente se considerada a quantidade que foi encontrada (14g - quatorze gramas - de crack; 10,29g - dez gramas e vinte e nove centigramas de cocaína; e 4,19g - quatro gramas e dezenove centigramas de maconha). Além disso, é importante consignar que não foram localizados petrechos comuns a essa prática (balança de precisão, calculadora, material para embalar a droga, etc.), bem como que a testemunha da defesa narrou, em juízo, que "Heitor não trazia consigo qualquer invólucro. Registrou que havia mais um "moleque", pessoa que estava vendendo as drogas. Negou haver comprado drogas com o Heitor, que já estava no local quando chegou, motivo pelo qual acredita que Heitor também foi comprar droga".
+5. A condenação pressupõe prova robusta, que indique, sem espaço para dúvida, a existência do crime e a prova de autoria, situação que não ocorre na espécie, em que o Juízo condenatório apoiou-se em uma presunção.
+6. Agravo regimental não conhecido. Todavia, concedido habeas corpus, de ofício, para desclassificar a conduta para o art. 28 da Lei de Drogas.
+(AgRg no AREsp n. 2.316.213/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/5/2023, DJe de 26/5/2023.
+Diante do acolhimento do pleito principal, restam prejudicados os pedidos subsidiários.
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para desclassificar a conduta imputada ao recorrente para a prevista no art. 28 da Lei n. 11.343/06, devendo o Juízo de origem aplicar as sanções legais, como entender de direito.
+Publique-se. Intimem-se.
+ EMENTA
