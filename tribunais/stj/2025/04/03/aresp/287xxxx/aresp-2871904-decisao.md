@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por TRANSPORTADORA TININHO LTDA, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 556, e-STJ):
+Colisão traseira. Ação de cobrança movida contra as empresas ASTEP e UNICOON, que firmaram contrato com o Autor por força do qual se obrigaram a ressarcir os danos decorrentes do acidente; e ação indenizatória ajuizada contra a Transportadora Tininho, proprietária do caminhão cujo motorista deu causa ao acidente. Recolhimento do preparo que se mostra incompatível com o pedido de gratuidade da Justiça. Benefício indeferido. Dinâmica do acidente incontroversa. Inexistência de solidariedade entre a causadora do acidente e as empresas contratadas pelo requerente. Condenação da ASTEP e da UNICOON ao pagamento do valor do orçamento elaborado pela empresa conveniada, nos termos do contrato firmado com o Autor. Condenação da Transportadora Tininho ao pagamento do valor do menor orçamento trazido pelo Autor. Lucros cessantes não comprovados. Dano moral afastado. Ação parcialmente procedente. Recurso parcialmente provido.
+Embargos de declaração rejeitados (fls. 579/584, e-STJ).
+Em suas razões de recurso especial (fls. 586/600, e-STJ), a agravante aponta ofensa aos artigos 489, §1º, IV, e 1.022, I e II, do CPC, sustentando, em suma: (i) omissão na análise da alegação de que não existe o pedido para pagamento de indenização securitária, ultrapassando o pedido formulado pelo autor na inicial; (ii) obscuridade na definição da indenização a ser pagas pelas demandadas.
+Contrarrazões às fls. 637/648, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao recurso (fls. 649/650, e-STJ), dando ensejo à interposição de agravo (fls. 680/694, e-STJ), por meio do qual a agravante pretende a reforma da decisão impugnada e o processamento do apelo.
+Contraminuta às fls. 812/817, e-STJ.
+É o relatório.
+Decide-se.
+1. A agravante aponta negativa de prestação jurisdicional, afirmando que "a decisão do juízo a quo entendeu se tratar de duas ações distintas, que seriam: uma ação de cobrança contra a seguradora e outra ação de reparação de danos contra a Transportadora Tininho. O que, no entanto, não corresponde aos pedidos feitos pelo autor/recorrido em sua inicial, que foram: dano material, lucros cessantes, danos emergentes e dano moral. Portanto a decisão do Tribunal ultrapassa os limites em que a lide foi proposta, determinando uma providência jurisdicional diversa daquela postulada, por estas razões argumentou em seu recurso que a sentença se mostrou omissa, já que não existe o pedido para pagamento de indenização securitária, ultrapassando o pedido formulado pelo autor/recorrente.".
+Ademais, aponta obscuridade no acórdão hostilizado, na medida em que "Além de não estra definido com clareza, quando será considerada liquidada a obrigação desta ré/recorrente, visto que mesmo com o pagamento do valor de menor orçamento, a parte autora/recorrida ainda poderá exigir o pagamento da diferença".
+Observa-se que o Tribunal local, mesmo provocado a se manifestar pela oposição de embargos de declaração, não analisou suficientemente as referidas alegações, se limitando a afirmar que "o aresto respeitou os limites do pedido, definiu detalhadamente a condenação da Tininho e examinou detidamente o contrato firmado entre o Autor e a UNICOON." (fl. 583, e-STJ).
+Portanto, consoante entendimento deste Superior Tribunal de Justiça, deve ser reconhecida a negativa de prestação jurisdicional dos acórdãos que deixam de se manifestar satisfatoriamente sobre questões relevantes para o deslinde da controvérsia, como ocorre na hipótese sub judice.
+Confira -se os seguintes julgados:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA. OMISSÃO DO TRIBUNAL DE ORIGEM SOBRE QUESTÃO SURGIDA NO ACÓRDÃO RECORRIDO E SUSCITADA NOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o acórdão - proferido no julgamento dos embargos de declaração - que deixa de pronunciar-se sobre as questões surgidas por ocasião do julgamento da apelação, e suscitadas em tais embargos. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 839.708/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 27/9/2021, DJe de 30/9/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO. NULIDADE. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. DECISÃO MANTIDA.
+1. A falta de manifestação sobre questão relevante para a solução da causa, mesmo após a oposição de embargos de declaração, qualifica negativa de prestação jurisdicional e violação do art. 535, II, do CPC/1973, vigente ao tempo em que praticados os atos processuais. Precedentes.
+2. Reconhecida a violação ao art. 535, II, do CPC/1973, impõe-se a decretação de nulidade do acórdão dos aclaratórios, determinando-se a baixa dos autos ao Tribunal de origem, para novo julgamento do recurso.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 951.186/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+Com efeito, deve ser reconhecida a negativa de prestação jurisdicional, impondo-se a decretação de nulidade do acórdão que julgou os aclaratórios (fls. 579/584, e-STJ), determinando-se a baixa dos autos ao Tribunal de origem para novo julgamento dos embargos, a fim de que seja sanado o vício apontado.
+Fica prejudicada a análise do recurso especial de fls. 604/626, e-STJ.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568/STJ, conhece-se do agravo para dar provimento ao recurso especial, a fim de anular o julgamento dos embargos de declaração e determinar o retorno dos autos à origem para que sejam supridos os vícios apontados, consoante fundamentação supra.
+Publique-se.
+Intimem-se.
+EMENTA
