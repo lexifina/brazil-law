@@ -1,0 +1,2 @@
+Institui o Programa de Reconstrução Dentária para Mulheres Vítimas de Violência Doméstica, no âmbito do Sistema Único de Saúde (SUS), com vistas a garantir a prestação de serviços odontológicos para reconstrução e reparação dentária de mulheres vítimas de agressões que tenham causado danos à sua saúde bucal.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
