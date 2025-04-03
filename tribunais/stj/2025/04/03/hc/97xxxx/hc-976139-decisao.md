@@ -1,0 +1,29 @@
+DECISÃO
+CARLOS JOSÉ DA SILVA FERNANDES, alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 4ª Região no Agravo em Execução n. 9000452-14.2024.4.04.7000.
+Consta dos autos que foi negado o pedido de progressão de regime e mantida a permanência do paciente no Sistema Penitenciário Federal, sob a alegação de incompatibilidade entre a progressão de regime e a continuidade no sistema federal devido à alta periculosidade do reeducando.
+A defesa aduz, em síntese, que o paciente preenche os requisitos para progressão de regime, conforme o § 1º do art. 112 da LEP, pois está custodiado no sistema penitenciário federal há mais de 7 anos sem registro de falta disciplinar. Subsidiariamente, requer a devolução para o Sistema Penitenciário Estadual para que o Juízo Estadual decida acerca da progressão de regime (fls. 2-19).
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, por ser utilizado como sucedâneo da revisão criminal, e pela ausência de ilegalidade flagrante que justificasse a concessão de habeas corpus de ofício (fls. 89-98).
+Decido.
+O pedido de progressão de regime feito pelo impetrante foi negado sob o argumento de que a permanência no Sistema Penitenciário Federal obsta a concessão de benefícios liberatórios. O acórdão que negou o benefício da progressão de regime foi assim ementado (fls. 22-23, destaquei):
+AGRAVO DE EXECUÇÃO PENAL. SISTEMA PENITENCIÁRIO FEDERAL. PERMANÊNCIA. PROGRESSÃO DE REGIME. INCOMPATIBILIDADE.
+1. A inclusão e a permanência de presos em penitenciárias federais são medidas adotadas em situações excepcionais, entendidas como as que provocam desequilíbrio à ordem pública.
+2. Consoante Súmula 662 do STJ a prorrogação do prazo de permanência no Sistema Penitenciário Federal não necessita fato novo, bastando a persistência dos motivos que ensejaram a transferência inicial do apenado.
+3. A periculosidade de um indivíduo, verificável pelo histórico dos crimes por ele praticados, constitui fundamento hábil a justificar sua inclusão e manutenção em estabelecimento prisional com controle mais rigoroso.
+4. A permanência do custodiado no Sistema Penitenciário Federal evidencia a necessidade de sua sujeição a controle rigoroso, inviabilizando a progressão de regime.
+5. Conforme consolidado no Superior Tribunal de Justiça, os motivos autorizadores da inclusão do custodiado no Sistema Penitenciário Federal são incompatíveis com os benefícios da execução.
+A decisão encontra amparo na jurisprudência desta Corte Superior ao estabelecer que, justificada a hipótese de transferência ao Sistema Federal por razões de ordem pública, configura-se, enquanto perdurarem as razões que motivaram a transferência, situação de incompatibilidade com a progressão de regime. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INCLUSÃO DO APENADO NO SISTEMA PENITENCIÁRIO FEDERAL. PERMANÊNCIA DOS MOTIVOS. LIVRAMENTO CONDICIONAL. IMPOSSIBILIDADE DE DEFERIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. ""A concessão do benefício da progressão de regime ao apenado em presídio federal de segurança máxima fica condicionada à ausência dos motivos que justificaram a transferência originária para esse sistema ou, ainda, à superação de eventual conflito de competência suscitado. Tal entendimento jurisprudencial deriva da interpretação sistemática dos dispositivos legais que norteiam o ingresso no Sistema Penitenciário Federal, os quais demonstram a absoluta incompatibilidade entre os motivos que autorizam a inclusão do preso e os benefícios liberatórios da execução" (CC n. 125.871/RJ, Ministro Marco Aurélio Bellizze, Terceira Seção, DJe 7/6/2013) (AgRg no CC 131.887/RJ, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 3.4.2014)" (AgRg no CC n. 146.418/RJ, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção,DJe de 14/6/2016).
+2. Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 695.211/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/11/2022, DJe de 1/12/2022.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. CONDENADO QUE SE ENCONTRA EM PRESÍDIO FEDERAL. PERSISTÊNCIA DOS MOTIVOS QUE ENSEJARAM SUA TRANSFERÊNCIA. IMPOSSIBILIDADE DE PROGRESSÃO DE REGIME. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Somente é possível a concessão do benefício da progressão de regime, nos casos em que o apenado que se encontra em presídio federal, na hipótese de não mais subsistir motivos para sua permanência nesse sistema.
+2. A impossibilidade de progressão de regime em presídio federal, portanto, não se relaciona com a competência ou não para resolução de incidentes da execução, mas da absoluta incompatibilidade entre os motivos que autorizam a inclusão do preso no regime diferenciado e os benefícios da execução. Precedentes.
+3. Agravo regimental não provido.
+(AgRg nos EDcl no CC n. 183.975/MS, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 23/2/2022, DJe de 2/3/2022.)
+Assim, ausente flagrante ilegalidade a justificar a concessão da ordem.
+Por sua vez, quanto ao pedido subsidiário de devolução dos autos para o Sistema Penitenciário Estadual a fim de que o Juízo Estadual decida acerca da progressão de regime, está definido que a manutenção da custódia em estabelecimento penitenciário federal por razões de segurança pública acarreta " ..  absoluta incompatibilidade entre os motivos que autorizam a inclusão do preso no regime diferenciado e os benefícios da execução" (AgRg nos EDcl no CC n. 183.975/MS, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 23/2/2022, DJe de 2/3/2022.).
+Pelas razões acima expostas, entendo que o pedido subsidiário também não merece acolhida, já que o exame da matéria está prejudicado enquanto persistirem as razões que justifiquem a permanência no Sistema Penitenciário Federal.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
