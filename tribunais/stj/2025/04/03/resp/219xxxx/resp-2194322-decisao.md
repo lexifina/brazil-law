@@ -1,0 +1,8 @@
+DECISÃO
+Verifico que se discute, no recurso especial, a seguinte questão: definir se, em matéria de direitos do consumidor aplicáveis às práticas comerciais específicas dos bancos de dados e cadastros de consumidores, a notificação prévia ao consumidor por meios eletrônicos de comunicação - com finalidade de informar abertura de cadastro, ficha, registro e dados pessoais e de consumo - realizadas pelos referidos bancos e cadastros ou por serviços de proteção ao crédito e congêneres atende ao dever de comunicação por escrito, para fins de validade jurídica de comprovação da exigência do art. 43, § 2º, do CDC.
+A propósito, tal matéria foi afetada ao julgamento da Segunda Seção do Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos (arts. 1.036 a 1.041 do Código de Processo Civil), nos autos dos Recursos Especiais 2.175.268/RS, 2.171.003/RS e 2.171.177/RS, da relatoria da Ministra Nancy Andrighi, vinculados ao Tema Repetitivo nº 1.315/STJ.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, os presentes autos devem ser devolvidos à Corte de origem, nos termos do art. 256-L, inciso I, do Regimento Interno do STJ.
+Em face do exposto, com base no disposto no art. 1.037, inciso II, do CPC/2015, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá permaneçam sobrestados até o julgamento do mérito dos recursos especiais representativos da controvérsia, vinculados ao Tema nº 1.315/STJ.
+Após estabelecida a tese sobre a questão, proceda-se em conformidade com as disposições dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
+EMENTA
