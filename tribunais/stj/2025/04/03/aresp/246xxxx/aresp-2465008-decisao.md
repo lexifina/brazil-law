@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS em face de decisão oriunda do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que negou seguimento ao recurso especial.
+Segue trecho da referida decisão (e-STJ fls. 744/747):
+(..)
+Prima facie, constato que o juízo de admissibilidade a ser exercido, in casu, é negativo.
+Isso porque, no que concerne ao dispositivo legal apontado, verifico que o entendimento lançado no acórdão - quanto a coleta compulsória de material genético - vai ao encontro do entendimento firmado pelo Tribunal da Cidadania (STJ, (cf. STJ, RHC n. 162.703/R Si, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe de 6/10/2022), o que, por certo, faz incidir, in casu, o óbice da Súmula n. 83 daquela Corte Superior, aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional (STJ, 4ª Turma, AgInt no AR Esp n. 1298.126/RS, Rel. Min. Marco Buzzi, DJe de 24/09/2020).
+Isto posto, deixo de admitir o recurso.
+(..)
+Após a interposição da petição do agravo em recurso especial (e-STJ fls. 752/765), foi apresentada contraminuta do agravo (conforme e-STJ fls. 770/775), tendo sido, em sequência, os autos encaminhados a este Superior Tribunal de Justiça.
+Parecer do Ministério Público Federal em e-STJ fls. 785/790.
+É o relatório.
+Decido.
+Verifica-se que o Tribunal de origem não admitiu o recurso especial interposto pelo ora agravante fundamentando a decisão no texto da súmula n. 83 deste Superior Tribunal de Justiça, que assim prevê: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Em suas razões recursais, o ora agravante afirma não haver violação ao art. 9º-A da Lei de Execução Penal. Por outro lado, alega não ser o caso de aplicação da súmula n. 83 deste Superior Tribunal de Justiça, não devendo ao presente caso ser aplicado o precedente constante no RHC n. 162.703/RS, visto que, neste caso ora em exame, trata-se de pessoa condenada, enquanto que o referido precedente diz respeito a pessoa tão somente investigada. Requer, ao final, seja o agravo conhecido e provido, para que seja dado seguimento ao recurso especial (e-STJ fls. 752/765).
+Contudo, entendo ser o caso de aplicação do precedente referido (RHC n. 162.703/RS), pois tanto naquele caso, quanto neste, trata-se da impossibilidade de se determinar compulsoriamente a coleta de material genético para fins penais ou de investigação processual penal.
+A jurisprudência desta Corte Superior firmou-se no sentido de não ser possível a determinação compulsória de coleta de material genético, por ferimento ao princípio da não autoincriminação, nos exatos termos do precedente mencionado, cuja ementa assim prevê:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. COLETA COMPULSÓRIA DE MATERIAL ORGÂNICO DE INVESTIGADO. INCLUSÃO DOS DADOS BIOLÓGICOS EM BANCO NACIONAL DE PERFIS GENÉTICOS. DIREITO À NÃO AUTOINCRIMINAÇÃO. RECURSO PROVIDO.
+1. "Sob um processo penal de cariz garantista (é dizer, conforme os parâmetros e diretrizes constitucionais e legais), busca-se uma verdade processualmente válida, em que a reconstrução histórica dos fatos objeto do juízo se vincula a regras precisas, que assegurem às partes maior controle sobre a atividade jurisdicional" (HC n. 712.781/RJ, Rel. Ministro Rogério Schietti, 6ª T., DJe 22/3/2022).
+2. Uma das limitações cognitivas, de feição ética, ao poder-dever de apurar a verdade dos fatos, na persecução penal, é a impossibilidade de se obrigar ou induzir o investigado/acusado a colaborar com a averiguação das próprias condutas e cooperar com a sua incriminação, por meio de declarações ou com a provisão de elementos que contribuam ao interesse punitivo estatal.
+3. O STF reconheceu a repercussão geral da arguição de inconstitucionalidade do art. 9º-A da Lei n. 7.210/1984, que prevê a inclusão e a manutenção de perfil genético de condenados por crimes violentos ou hediondos em banco estatal (Tema n. 905).
+4. Muito embora o tema penda de análise, há discussão relevante no Pretório Excelso sobre a violação a direitos da personalidade na preservação de perfis biológicos de sentenciados e quanto à prerrogativa de os réus não se autoincriminarem - conforme, inclusive, orientação da Corte Européia de Direitos Humanos.
+5. A infração praticada não deixa vestígios, tampouco a autoridade policial noticiou de que forma a providência restritiva traria utilidade às investigações. Aliás, o órgão ministerial foi contrário à coleta de dados orgânicos do investigado, que, ao revés dos demais suspeitos, sequer havia sido denunciado.
+6. Os precedentes desta Corte Superior no sentido de que a extração de saliva não representa método invasivo da intimidade se referem a casos em que o material genético foi encontrado em objetos descartados - como cigarros jogados no lixo ou copos de plástico utilizados e eliminados - ou quando a arrecadação do elemento biológico é consentida.
+7. Recurso provido, para declarar a nulidade da coleta compulsória de material genético do recorrente e da inserção dos respectivos dados em banco estatal, além de determinar o desentranhamento das informações biológicas dos autos de eventual investigação ou processo em andamento, em desfavor do insurgente, por força dos atos descritos pelo Juízo Federal.
+(RHC n. 162.703/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe de 6/10/2022.)
+Nesse sentido é o entendimento esposado no acórdão proferido pelo Tribunal de origem no julgamento do Agravo em Execução Penal n. 5130385.22.2023.8.09.0000 (e-STJ fls. 671/679), em face do qual foi interposto recurso especial pelo ora agravante.
+Portanto, não merece reforma a decisão do Tribunal local quando inadmitiu o recurso especial (e-STJ fls. 744/747), visto que tal entendimento encontra-se em consonância com o entendimento desta Corte.
+Logo, verifico que não restou superada a fundamentação utilizada na decisão ora recorrida quanto à incidência da mencionada súmula n. 83 deste Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
