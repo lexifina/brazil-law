@@ -1,0 +1,11 @@
+DECISÃO
+O presente writ, impetrado em benefício de LEANDRO RODRIGUES DA ROCHA - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Apelação Criminal n. 1504781-48.2019.8.26.0576 e Revisão Criminal n. 2322672-55.2024.8.26.0000), não comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 4ª Vara Criminal da comarca de São José do Rio Preto/SP, argumentando, em síntese, nulidade das provas por quebra de cadeia de custódia e insuficiência probatória ou, subsidiariamente, incidência do redutor pelo tráfico privilegiado.
+Ocorre que, além de se tratar de writ utilizado como espécie de segunda revisão criminal, o que é inadmissível, decidir de modo diverso às conclusões a que chegaram as instâncias de origem, sobretudo quanto à idoneidade da prova, à autoria e à materialidade dos crimes, e, por conseguinte, absolver o ora paciente, demandaria o reexame aprofundado do conjunto fático-probatório, providência descabida na via eleita do habeas corpus.
+Sobre o tema, confiram-se os seguintes precedentes: AgRg no HC n. 636.980/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2021; AgRg no HC n. 650.766/SP, de minha relatoria, Sexta Turma, DJe 17/9/2021; e AgRg no HC n. 718.028/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022.
+No que tange à m inorante do tráfico privilegiado, é entendimento deste Superior Tribunal que a condenação por associação para o tráfico impede a incidência do redutor (HC n. 827.714/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. WRIT UTILIZADO COMO SEGUNDA REVISÃO CRIMINAL. INADMISSIBILIDADE. NULIDADE DAS PROVAS E ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. MINORANTE DO TRÁFICO PRIVILEGIADO. CONDENAÇÃO POR ASSOCIAÇÃO QUE IMPEDE A INCIDÊNCIA DO REDUTOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
