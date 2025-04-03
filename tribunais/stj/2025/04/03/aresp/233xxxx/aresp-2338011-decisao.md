@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Banco do Brasil S/A contra decisão que não admitiu o recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 65):
+BEM IMÓVEL - VÍCIOS DE CONSTRUÇÃO AÇÃO DE INDENIZAÇÃO - Demanda ajuizada em face do agente financeiro, atuante no âmbito do programa habitacional "Minha Casa Minha Vida" e como representante do Fundo de Arrendamento Residencial (FAR) - Insurgência adstrita ao indeferimento da denunciação à lide da construtora - Não acolhimento - Inadmissibilidade de denunciação à lide nos termos do art. 88 do CDC - Ausente hipótese do artigo 125 do CPC - Litisconsórcio necessário não caracterizado - Precedentes envolvendo demandas idênticas - Decisão mantida - Recurso improvido.
+Embargos de declaração foram opostos contra o acórdão recorrido, sendo rejeitados (fls. 111-113).
+Nas razões do recurso especial, o recorrente alega que o acórdão recorrido violou os arts. 116 e 130, inciso III, 1.022, I e II, e 489, § 1º, todos do Código de Processo Civil, além de divergência jurisprudencial.
+Defende que remanesceria omissão acerca da aplicabilidade do Código de Defesa do Consumidor e, ainda, acerca da responsabilidade da construtora para integrar a demanda ajuizada pelo adquirente, alegando vício de construção, em unidade imobilíaria por ela vendida.
+Sustenta que o agente financeiro seria parte ilegítima para integrar ação indenizatória ajuizada pelo adquirente da obra por vício de construção, autorizando a denunciação à lide da construtora, tratando-se da responsável técnica pelo empreendimento.
+Contrarrazões ao recurso especial às fls. 140-160.
+O recurso especial não foi admitido com base na ausência de demonstração da alegada violação aos dispositivos supostamente violados, além do que a análise da controvérsia devolvida implicaria o reexame de fatos e provas.
+Nas razões do seu agravo, a parte agravante alega que a decisão recorrida padeceria de vício insanável, consistente na ausência de fundamentação, e que não se requer o reexame de provas, senão que se reconheça o erro de interpretação na aplicação da norma.
+Foi apresentada impugnação às fls. 210-213..
+Assim delimitada a controvérsia, passo à análise do recurso.
+Trata-se de ação de indenização por vícios de construção ajuizada pelo Condomínio Residencial Portugal contra o Banco do Brasil S/A, atuante como representante do Fundo de Arrendamento Residencial no âmbito do programa habitacional "Minha Casa Minha Vida".
+A decisão recorrida indeferiu o pedido de denunciação à lide da construtora formulado pela instituição financeira, por considerar que seria aplicável o Código de Defesa do Consumidor na hipótese, que veda o exercício de ação regressiva pelo fornecedor nos mesmos autos da ação ajuizada pelo consumidor, decisão mantida pelo acórdão recorrido, que negou provimento ao agravo de instrumento interposto contra a referida decisão.
+No que se refere à violação dos artigos 489 e 1.022 do Código de Processo Civil, extraio do acórdão recorrido manifestação sobre os dois pontos supostamente omissos, quais sejam:
+(I) a aplicabilidade do Código de Defesa do Consumidor, para concluir pela inviabilidade do exercício da pretensão regressiva nos mesmos autos da ação ajuizada pelo consumidor;
+(II) a responsabilidade solidária do agente financeiro, na condição de executor do programa habitacional Minha Casa, Minha Vida e representante do Fundo de Arrendamento Residencial, justificando sua legitimidade passiva em ação ajuizada pelo consumidor em que se alega vício de construção em imóvel por ela financiado.
+A propósito, extraio do acórdão recorrido (fls. 66-67):
+E, a despeito da irresignação do agravante, a atuação deste, como representante do FAR (Fundo de Arrendamento Residencial), dá-se como executor do programa habitacional "Minha Casa Minha Vida" e representante do Fundo de Arrendamento Residencial.
+Possui, portanto, responsabilidade própria e não regressiva, eis que atua como agente operador do mencionado programa governamental, voltado à promover moradia à população de baixa renda.
+Tal circunstância, aliada à vedação contida no artigo 88 do CDC e, ainda, ausentes quaisquer das hipóteses previstas no artigo 125 do CDC, tornam descabida a denunciação postulada.
+Portanto, como o ponto supostamte omisso foi objeto de análise no acórdão recorrido, de modo suficiente ao provimento por ele adotado, não há cogitar-se de omissão ou obscuridade, razão pela qual afasto a alegação de contrariedade aos artigos 489 e 1.022 do Código de Processo Civil.
+No que se refere à controvérsia de fundo, envolvendo a inclusão do Banco do Brasil na lide, verifica-se, conforme aludido, que o Tribunal de Justiça do Estado de São Paulo afastou a preliminar de ilegtimidade passiva da instituição financeira, uma vez que teria atuado na condição de agente executora de política de habitação para pessoas de baixa renda, integrando a cadeia de consumo.
+A orientação adotada não destoa da jurisprudência desta Corte, segundo a qual a legitimidade do Banco do Brasil para integrar o polo passivo em demandas desse tipo depende de sua atuação no contrato firmado: " ..  é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro" (AgInt no AREsp n. 2.048.723/RS, relator Ministro Humberto Martins, Terceira Turma, julgado em 4/12/2023, DJe de 6/12/2023).
+Nesse mesmo sentido:
+ ..
+2. Agindo a Caixa Econômica Federal, na qualidade de agente executor e operador de políticas públicas para a promoção de moradia para consumidores de baixa renda, deve responder solidariamente com a incorporadora pelos danos causados ao consumidor em razão do atraso na entrega do imóvel.
+3. Havendo cláusula penal em favor da Caixa Econômica Federal, é legítima a condenação solidária pelo pagamento de valores devidos pela construtora a título de inversão da cláusula penal.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.871.457/RN, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.)
+No caso, pressuposta a atuação do Banco do Brasil S.A. como agente executor do programa habitacional "Minha Casa, Minha Vida", extravasando a atuação como agente financeiro, deve ser reconhecida sua legitimidade para integrar o polo passivo em ação indenizatória ajuizada pelo adquirente, por vício de construção no imóvel por ele adqurido e financiado com os recursos do programa.
+Ademais, "O entendimento do STJ é no sentido de que, em uma relação de consumo, são responsáveis solidários, perante o consumidor, todos aqueles que tenham integrado a cadeia de prestação de serviços."(AgInt no REsp n. 1.822.431/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/6/2020, DJe de 12/6/2020 ).
+Por fim, tratando-se de relação de consumo (contrato de compra e venda de imóvel celebrado com destinatário final), "descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor" (AgInt no AREsp 2.335.690/SP, Relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023).
+Dessa forma, como a orientação adotada no acórdão recorrido está em consonância com a jurisprudência desta Corte, o recurso especial não deve ser conhecido, em razão da incidência da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Deixo de arbitrar honorários de recurso, pois inexistente condenação na decisão de origem, vedando-se acréscimo posterior, conforme previsto nos §§ 2º e 11 do artigo 85 do CPC.
+Intimem-se.
+EMENTA
