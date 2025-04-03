@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MAYCON LUIZ MARIANO à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Em primeiro lugar, é imprescindível destacar que a prescrição é, indiscutivelmente, uma matéria de ordem pública. Isso significa que sua análise pode e deve ser realizada pelo juiz, independentemente de provocação das partes.
+A jurisprudência consolidada dos tribunais superiores é clara ao afirmar que, diante da ausência de análise da prescrição, há clara omissão que precisa ser sanada. Portanto, a decisão que ignora a prescrição, data máxima vênia  revela uma falha na apreciação do contexto legal aplicável, o que pode comprometer a segurança jurídica e a efetividade da tutela jurisdicional.
+Ainda, a análise da prescrição independe da discussão sobre a Súmula 284 do STF, a qual versa sobre a falta de prequestionamento de matéria para admissibilidade de recursos, o que não engloba e nem prejudica a análise das matérias de ordem pública. A questão da prescrição não submete-se a este caráter restrito, pois trata-se de um aspecto que transcende a posição das partes e busca a proteção e a manutenção da ordem pública, permitindo ao juiz intervir na defesa do interesse coletivo e da segurança jurídica, assegurando que ações prescritas não sobrecarreguem o sistema judiciário.
+Portanto, verifica-se que há omissão na respeitável decisão monocrática ao deixar de pronunciar sobre a prescrição e deixar de considerar que a prescrição é matéria de ordem pública que comporta análise e pronunciamento até mesmo de ofício. Assim, requer seja sanada a omissão mediante pronunciamento expresso e específico sobre isso (fls. 211/212).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
