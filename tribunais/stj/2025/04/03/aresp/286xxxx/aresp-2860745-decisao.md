@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANILDO MARTINS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. AÇÃO DECLARATÓRIA DE NULIDADE DE SENTENÇA EM AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO. QUERELA NULLITATIS. AUSÊNCIA DE NULIDADE DA CITAÇÃO. CARTA AR COM AVISO DE RECEBIMENTO. PREENCHIMENTO DE DADOS PELO CARTEIRO. PERÍODO DE PANDEMIA. POSSIBILIDADE. MANUTENÇÃO DA SENTENÇA. POSSÍVEL A ANULAÇÃO DA SENTENÇA PROFERIDA EM AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO, POR MEIO DE AÇÃO DE CONHECIMENTO (QUERELA NULLITATIS), QUANDO OCORRER VÍCIO GRAVE E INSANÁVEL. CONCRETAMENTE, NÃO HÁ FALAR EM NULIDADE DE CITAÇÃO REALIZADA POR CARTA AR EM QUE OS DADOS DO RECEBEDOR FORAM ANOTADOS PELO CARTEIRO, PORQUANTO DURANTE A PANDEMIA DA COVID 19 HAVIA A POSSIBILIDADE DESSA PRÁTICA VISANDO À MINIMIZAÇÃO DO CONTÁGIO PELO CORONAVÍRUS, NOS TERMOS DO BOLETIM N. 03 DOS CORREIOS. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 239, 242 e 248, § 1º, do CPC, no que concerne à nulidade da citação, porquanto indevida a diligência via entrega por carteiro, não se admitindo presunção de legitimidade do ato em contexto de pandemia, exigindo-se a citação pessoal ou por servidor com fé pública, trazendo a seguinte argumentação:
+A decisão proferida violou os arts. 239, 242 e 248, § 1º, ambos do CPC, tendo em vista que o Tribunal local negou provimento à apelação fundamentando que a citação ocorreu em período no qual vigentes normas de distanciamento decorrentes da pandemia COVID-19, atribuindo presunção de legitimidade ao ato de entrega da citação pelos Correios sem que o carteiro tenha fé pública, nos mesmos termos da sentença de 1º grau.
+ ..
+Houve violação dos artigos acima mencionados, visto que o CPC disciplina que as citações de pessoas físicas por carta AR, feitas pelos Correios, devem ser entregues ao próprio demandado que, devidamente identificado, deve apor sua assinatura no aviso de recebimento.
+ ..
+Vale dizer que, em se tratando de ato cabal para a observância de direito fundamental (devido processo legal e direito de defesa), não há falar em possibilidade de citação diversa da forma disposta em Lei. Ela deve ser pessoal ou subscrita por servidor dotado por fé pública. Não é o caso dos autos. Interpretação diferente disso restringiria direito fundamental sem o respaldo normativo necessário (fls. 293-294).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Aliás, no ponto, a sentença vergastada, da lavra da Doutora Eliane Aparecida Resende, mostrou-se precisa. Evitando-se desnecessária tautologia, adoto parte dos seus fundamentos no presente parecer, a saber:
+ ..
+Analisando os documentos acostados aos autos, verifica-se que o carteiro responsável anotou que a entrega do AR foi para ANILDO MARTINS (Evento 1, INIC1, p. 3):
+ ..
+O endereço do destinatário é o mesmo que constou da primeira carta AR encaminhada ao autor, a qual efetivamente chegou a seu conhecimento - fato incontroverso (art. 374, III do CPC) (Evento 1, INIC1, p. 2):
+ ..
+Não fosse isso, paragonando as informações constantes nos documentos dos autos, denota-se que no campo destinado ao preenchimento do documento do recebedor consta a mesma numeração do documento de identidade que o autor é portador (Evento 1, RG4 e Evento 1, INIC1, p. 3):
+ ..
+Além disso, vale destacar que a carta AR foi cumprida em 01/07/2020, ou seja, momento no qual vigentes normas de distanciamento decorrentes da pandemia de COVID-19, as quais também afetaram os serviços dos Correios (fls. 283-284 ).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
