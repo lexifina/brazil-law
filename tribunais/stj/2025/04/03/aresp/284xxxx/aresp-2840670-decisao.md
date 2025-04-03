@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravos interpostos contra as decisões que inadmitiram os recursos especiais manejados pelos ora agravantes.
+Os agravantes THIAGO DE LIMA JUNIOR e LEONARDO LUCAS OLIVEIRA ROSA foram condenados por infração do artigo 33, caput, da Lei nº 11.343/06, respectivamente, às penas de 6 anos, 9 meses e 20 dias de reclusão, em regime fechado, e 680 dias-multa, de unidade no piso, e de 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa, de valor unitário mínimo.
+Irresignados, interpuseram apelações, sendo negado provimento aos recursos (e-STJ fls. 462-475).
+Contra o acórdão do Tribunal de origem, foram interpostos recursos especiais (e-STJ fls. 481-495 e 497-511), nos quais requereram, em síntese, a declaração de nulidade da busca pessoal, pois ausentes fundadas razões para tanto; a absolvição, por insuficiência de provas; subsidiariamente, a desclassificação da conduta para uso próprio; a revisão da dosimetria da pena e a fixação de regime inicial menos gravoso.
+Os recursos especiais foram inadmitidos pelo óbice previsto na Súmula n. 7 do STJ (e-STJ fls. 585-587 e 588-590).
+As defesas interpuseram os presentes agravos (e-STJ fls. 593-599 e 601-615)
+Parecer do Ministério Público Federal pelo não conhecimento ou não provimento dos agravos pelas razões sintetizadas na seguinte ementa (e-STJ fls. 652-660):
+"AGRAVOS EM RECURSOS ESPECIAIS. TRÁFICO DE DROGAS. ART. 105, III, "A", DA CONSTITUIÇÃO FEDERAL. NÃO IMPUGNAÇÃO CONCRETA E PORMENORIZADA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. PRETENSÕES DE NULIDADE DA BUSCA PESSOAL E VEICULAR, DE ABSOLVIÇÃO, DE DESCLASSIFICAÇÃO DO DELITO, DE REVISÃO DA DOSIMETRIA, DE FIXAÇÃO DE REGIME MENOS GRAVOSO E DE RESTITUIÇÃO DE BENS APREENDIDOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. NECESSIDADE DE ANÁLISE DE PROVAS. SÚMULA 7/STJ. PELO NÃO CONHECIMENTO OU DESPROVIMENTO DOS AGRAVOS EM RECURSOS ESPECIAIS. "
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu os recursos especiais interpostos pelas partes agravantes com amparo nos seguintes fundamentos (e-STJ fls. 585-587 e 588-590):
+"Verifico que o reclamo é inadmissível diante da existência de óbice processual.
+Com efeito, a contrariedade à Constituição Federal somente deveria ser objeto de recurso extraordinário, não sendo preenchido, desse modo, o pressuposto objetivo da adequação. Importante salientar o entendimento firmado pelo Colendo Superior Tribunal de Justiça1:
+(..) 3. A alegação de violação a princípios e dispositivos constitucionais não pode ser apreciada em sede de recurso especial, uma vez que o exame de matéria é de competência do Supremo Tribunal Federal nos termos do art. 102, inciso III, da Carta Magna.
+Outrossim, incide ao caso a Súmula nº 7 do Superior Tribunal de Justiça, que dispõe: A pretensão de simples reexame de prova não enseja recurso especial, ou seja, não é possível emitir um juízo de valor sobre a questão de direito federal sem antes apurar os elementos de fato.
+A propósito, decidiu o Colendo Superior Tribunal de Justiça, no AgRg no AR Esp 593109/MT, Rel. Ministro Antonio Saldanha Palheiro, julgado em 23/11/2021, D Je 26/11/21, que:
+(..) para afastar as conclusões alcançadas pelas instâncias ordinárias, soberanas na análise do acervo fático-probatório, imperioso seria o reexame de fatos e provas, providência vedada na via eleita, tendo em vista a redação do enunciado n. 7 da Súmula desta Casa.
+Ante o exposto, não preenchidos os requisitos exigidos, NÃO ADMITO o recurso especial, nos termos do artigo 1.030, inciso V, do Código de Processo Civil.
+Como se observa do trecho acima transcrito, os recursos especiais foram inadmitidos com base no óbice previsto na Súmulas n. 7 do STJ.
+Nas razões do agravo em recurso especial, o agravante Thiago limitou-se a afirmar que "A questão jurídica posta em análise, trata-se da utilização dos critérios utilizados para negar vigência ao aludido dispositivo de Lei, ou seja, não se cuida de simples reexame da prova, mas de revaloração dos critérios jurídicos." (e-STJ fl. 597) e o agravante Leonardo apenas reiterou as razões que já haviam sido expostas no recurso especial (e-STJ fls. 601-615).
+Ocorre que, na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 7/STJ exige que o recorrente demonstre, de forma clara e objetiva, ser desnecessário o reexame de fatos e provas para alterar o entendimento das instâncias ordinárias, não bastando a mera alegação genérica de que busca a revaloração das provas ou o correto enquadramento jurídico dos fatos. Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. REEXAME DE PROVAS. AGRAVO NÃO CONHECIDO.
+(..)
+III. Razões de decidir 5. O entendimento desta Corte Superior é que a simples assertiva genérica de revaloração da prova não é suficiente para afastar o óbice da Súmula n. 7 do STJ, sendo necessário o cotejo com as premissas fáticas do acórdão recorrido.
+6. A incidência da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre, conforme jurisprudência consolidada.
+7. A ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre obsta o conhecimento do agravo, conforme precedentes desta Corte.
+IV. Dispositivo e tese8. Agravo não conhecido. (AREsp 2739086 / RN, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/02/2025, DJEN 25/02/2025)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. TIPICIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CONTINUIDADE DELITIVA. ÓBICE DA SÚMULA 283/STF. ATENUANTE INOMINADA DO ART. 66 DO CÓDIGO PENAL. SÚMULA 7/STJ. VALOR DA PRESTAÇÃO PECUNIÁRIA. SÚMULA 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No que diz respeito à atipicidade da conduta, em razão da ausência da alegada ausência de dolo, deve-se ressaltar que para afastar a incidência da Súmula 7 desta Corte exige-se a demonstração clara e objetiva de que a solução da controvérsia e a violação de lei federal independem do reexame do conjunto fático-probatório dos autos.
+(..) 5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.517.591/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA N. 182/STJ. ALEGAÇÃO DE INÉPCIA DA DENÚNCIA. SUPERADA PELA PROLAÇÃO DA SENTENÇA.
+1. A ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC; 253, parágrafo único, I, do RISTJ; e da Súmula n. 182 do STJ, aplicável por analogia.
+2. É entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp n. 600.416/MG, Segunda Turma, rel. Min. Og Fernandes, DJe 18/11/2016).
+3. Ademais, fica superada a alegação de inépcia da exordial acusatória com o advento da sentença condenatória, tendo em vista a cognição exauriente que se é feita nesta.
+4. Agravo regimental improvido. (AgRg no AREsp 2233529 / MG, Relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 19/03/2024, DJe 22/03/2024)
+Logo, "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Nesse sentido:
+PROCESSO PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COAÇÃO NO CURSO DO PROCESSO. ALEGADA VIOLAÇÃO AO ART. 619, CPP. INOCORRÊNCIA. MERA IRRESIGNAÇÃO. TESE DE ATIPICIDADE DAS CONDUTAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7, STJ. POSSIBILIDADE DE DECISÃO MONOCRÁTICA DO RELATOR. REGIMENTO INTERNO. PRECEDENTES. ALEGADA REVALORAÇÃO JURÍDICA. INOCORRÊNCIA. SÚMULA N. 182, STJ.
+(..)
+III - Não basta a mera alegação de que o recurso especial visa ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa da aplicada pelas instâncias ordinárias.
+(..) V - É inviável o conhecimento de agravo regimental que se funda em assertiva genérica de que o recurso especial prescinde do reexame de fatos e provas, bem como na reiteração do mérito da controvérsia. Incidência por analogia, da Súmula n. 182, STJ. Agravo regimental não conhecido e pedido de habeas corpus de ofício negado. (AgRg no AREsp 2090034 / MG, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/10/2023, DJe 24/10/2023)
+Ante o exposto, na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
