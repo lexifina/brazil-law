@@ -1,0 +1,80 @@
+DECISÃO
+Trata-se de agravo interposto pela IBJ COMÉRCIO DE CALÇ ADOS E CONFECÇÕES LTDA. contra decisão do Tribunal de Justiça do Estado de Sergipe, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 124):
+Agravo de Instrumento. Execução Fiscal. Exceção de pré-executividade não conhecida. ICMS. Alegação de nulidade dos autos de infração por ausência de indicação da base de cálculo e da alíquota em desrespeito ao art. 142 do CTN. Revendo o posicionamento. Não ocorrência. Origem da dívida. Prévio conhecimento do contribuinte. Validade do título. CDA com todos os requisitos exigidos pelo art. 202 do CTN e art. 2º, §5º, da Lei n. 6.830/80. Manutenção da decisão a quo. Agravo conhecido e não provido.
+No apelo raro (e-STJ fls. 136/148), a parte recorrente aponta violação dos arts. 142 e 203 do CTN e do art. 2º da LEF. Em síntese, diz que o julgado recorrido teria considerada válida certidão de dívida ativa pautada em auto de infração nulo por falta de indicação precisa da alíquota e da base de cálculo do tributo, informações necessárias ao exercício do contraditório e da ampla defesa.
+No que diz respeito à interposição recursal pela divergência, aponta dissídio com o decidido nos autos do REsp 1.490.108/MG, argumentando que o julgado recorrido teria aplicado indevidamente a Súmula 436 do STJ. Diz que a apresentação de notas fiscais não configura confissão do imposto nem é suficiente para dispensar a instauração de processo administrativo referente ao lançamento.
+As contrarrazões foram oferecidas.
+O Tribunal de origem inadmitiu o recurso especial, e a parte interpôs agravo em recurso especial.
+A contraminuta foi apresentada.
+Passo a decidir.
+O Tribunal de origem negou provimento ao agravo de instrumento interposto. Eis os fundamentos do julgado (e-STJ fls. 127/132):
+Inicialmente, cumpre assinalar que o recurso interposto preencheu todos os requisitos de admissibilidade. Merece, portanto, ser conhecido.
+IBJ COMÉRCIO DE CALÇADOS E CONFECÇÕES EIRELI interpôs o presente Agravo de Instrumento com pedido de efeito ativo, nos autos da Execução Fiscal promovida pelo ESTADO DE SERGIPE, inconformado com a decisão do juiz a quo que não conheceu a exceção de pré-executividade, nos seguintes termos:
+"Verifica-se, com efeito, que a hipóteses de admissibilidade da exceção de préexecutividade em sede de execução já se encontram sedimentadas na jurisprudência.
+A presente medida de defesa tem como fundamento a arguição de diversas questões atinentes aos títulos que aparelham a execução, desde a incosntitucionalidade de lei estadual até o reconhecimento de possível excesso na execução.
+Observa-se, com efeito, que a matéria de defesa objeto da exceção de préexecutividade aqui oposta não pode ser solvida no corpo do feito executório, por demandar dilação probatória necessária e suficiente para ratificar as alegações que a fundamentam e, via de consequência, ilidir os efeitos executivos, o que é vedado, em sede de objeção de pré executividade, como já reconhecido pelo Colendo STJ, vejamos:
+RECURSO ESPECIAL. EXCEÇÃO DE PRÉEXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INVIABILIDADE. PRECEDENTES. 1. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória. 2. A alegação de excesso de execução não é cabível em sede de exceção de pré-executividade, salvo quando esse excesso for evidente. Precedentes. 3. Recurso especial não provido. (grifei) (REsp n. 1.717.166 /RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/10/2021, DJe de 25/11/2021.)
+Observa-se, nesse sentido, que a confirmação das hipóteses levantadas necessitam, para a sua confirmação, da análise pormenorizada da documentação, e, até mesmo, de possível prova pericial contábil, procedimento inviável em sede de exceção de pré-executividade, somente possível em sede de embargos à execução.
+Pelos motivos de convencimento acima declinados, não conheço a presente exceção de pré-executividade.
+III - Dispositivo
+Pelo exposto, DEIXO DE CONHECER a presente Exceção de Pré-Executividade. Não cabível condenação em honorários advocatícios. 1 Publique-se. Registre-se. Intimem-se."
+O ICMS é um tributo sujeito ao lançamento por homologação, ou autolançamento, no qual, o próprio contribuinte declara as informações acerca do fato gerador, calcula o tributo, e paga o referido valor, cabendo à autoridade fiscal conferir a certeza dos valores (através da homologação).
+Infere-se dos autos que o Estado de Sergipe ajuizou uma execução fiscal contra a empresa agravante, visando o adimplemento da quantia de cerca de R$ 85.178,50 (oitenta e cinco mil, cento e setenta e oito reais e cinquenta centavos), referente a dívida com ICMS.
+Em análise dos autos, verifica-se consta dos autos de infração, as infrações cometidas, a base de cálculo, atualização, bem como extratos demonstrativos ICMS antecipado.
+O artigo 142 do CTN estabelece:
+Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e, sendo caso, propor a aplicação da penalidade cabível.
+Sobre a matéria, leciona o tributarista Kiyoshi Harada em seu artigo "Constituição definitiva do crédito tributário pelo lançamento", verbis:
+"Ao teor do art. 142, do CTN o lançamento é um procedimento administrativo em que um agente capaz procede a averiguação da subsunção do fato concreto à hipótese legal (ocorrência do fato gerador), a determinação da matéria tributável mediante a valoração dos elementos que integram aquele fato concreto (base de cálculo), a aplicação da alíquota prevista na lei para a apuração do montante do tributo devido, a identificação do sujeito passivo, e, sendo o caso, a propositura de penalidade cabível. Esta série de atos podem ser praticados, inclusive, em diferentes dias, mas no final da verificação dos requisitos previstos no art. 142 do CTN haverá sempre um documento exteriorizador daqueles atos, que é o lançamento eficiente para a constituição definitiva do crédito tributário." (In:www.fiscosoft.com.br/main_online_frame.php page=/index.php PID=244737&key=4976332)
+Não se visualiza ofensa ao art. 142 do CTN, pois os documentos impugnados referem-se ao lançamento da penalidade pecuniária e não ao imposto propriamente dito (ICMS), uma vez que este já havia sido lançado. Com a inadimplência do tributo, constitui-se fato gerador da multa fiscal, tratada no auto de infração.
+Como é cediço, o lançamento do ICMS devido em razão do não pagamento na antecipação tributária e o declarado e não recolhido, são efetivados mediante homologação.
+Nas execuções fiscais em que se visa o recebimento de crédito de ICMS, objeto de lançamento por homologação, o contribuinte antecipa o recolhimento do tributo, antes de qualquer providência da Administração, com base no montante que o contribuinte mensura, cabendo, posteriormente ao Fisco proceder à conferência do valor recolhido, homologando, nos termos do art. 150, do CTN.
+Assim, caso não haja o pagamento no prazo ou no valor devido, o débito pode ser imediatamente inscrito em dívida ativa, tornando-se exigível.
+Denotando-se que o contribuinte já possui ciência da origem da dívida.
+No caso dos autos, o lançamento de ICMS, que ocorreu em momento anterior ao auto de infração motivado pelo seu não recolhimento, não afronta a legislação tributária, pois ocorreu por Declaração do Contribuinte, através da Escrituração Fiscal Digital (EFD), conforme previsão no art. 147 do CTN e art. 48, XVIII, da Lei Estadual n. 3.796/96:
+Art. 147. O lançamento é efetuado com base na declaração do sujeito passivo ou de terceiro, quando um ou outro, na forma da legislação tributária, presta à autoridade administrativa informações sobre matéria de fato, indispensáveis à sua efetivação.
+§ 1º A retificação da declaração por iniciativa do próprio declarante, quando vise a reduzir ou a excluir tributo, só é admissível mediante comprovação do erro em que se funde, e antes de notificado o lançamento.
+§ 2º Os erros contidos na declaração e apuráveis pelo seu exame serão retificados de ofício pela autoridade administrativa a que competir a revisão daquela.
+**
+Art. 48. São obrigações do contribuinte:
+(..)
+XVIII - enviar arquivo digital relativo à escrituração fiscal, que terá caráter declaratório, constituindo confissão de dívida e instrumento hábil e suficiente para a exigência do imposto não recolhido. (Inciso XVIII acrescentado pela Lei nº 8.500/2018, efeitos a partir de 31.12.2018.)
+O art. 202 do CTN prevê:
+Art. 202. O termo de inscrição da dívida ativa, autenticado pela autoridade competente, indicará obrigatoriamente:
+I - o nome do devedor e, sendo caso, o dos co-responsáveis, bem como, sempre que possível, o domicílio ou a residência de um e de outros;
+II - a quantia devida e a maneira de calcular os juros de mora acrescidos;
+III - a origem e natureza do crédito, mencionada especificamente a disposição da lei em que seja fundado;
+IV - a data em que foi inscrita;
+V - sendo caso, o número do processo administrativo de que se originar o crédito.
+Parágrafo único. A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição
+Por sua vez, o Superior Tribunal de Justiça, já definiu por meio da Súmula 436:
+A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco.
+Nesse sentido a jurisprudência desta Corte de Justiça:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - ICMS - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA - NÃO OCORRÊNCIA - LANÇAMENTO POR HOMOLOGAÇÃO - PROCEDIMENTO QUE DISPENSA A INDICAÇÃO DE PROCESSO ADMINISTRATIVO FISCAL OU AUTO DE INFRAÇÃO - ORIGEM DA DÍVIDA - PRÉVIO CONHECIMENTO DO CONTRIBUINTE - VALIDADE DO TÍTULO - CDA COM TODOS OS REQUISITOS EXIGIDOS PELO ART. 202 DO CTN E ART. 2º, §5º, DA LEI Nº 6.830/80 - REJEIÇÃO DA EXCEÇÃO ESCORREITA - DECISÃO MANTIDA - PELO CONHECIMENTO E DESPROVIMENTO DO RECURSO - POR UNANIMIDADE. (Agravo de Instrumento Nº 202200813678 Nº único: 0005680-27.2022.8.25.0000 - 2ª CÂMARA CÍVEL, Tribunal de Justiça de Sergipe - Relator(a): Ana Bernadete Leite de Carvalho Andrade - Julgado em 11/11/2022)
+Desse modo, agiu com acerto o Juízo singular, visto que a impugnação aos autos de infração não merece prosperar.
+Ante o exposto, conheço do agravo para negar-lhe provimento, mantendo a decisão a quo.
+Pois bem.
+No caso dos autos, a Corte de origem manteve a decisão de primeira instância que não conheceu da exceção de pré-executividade em razão da necessidade de "análise pormenorizada da documentação, e, até mesmo, de possível prova pericial contábil, procedimento inviável em sede de exceção de pré-executividade, somente possível em sede de embargos à execução." (e-STJ fl. 128).
+Esse entendimento não diverge do posicionamento do STJ sobre a matéria. No tema:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PENHORA DE ATIVOS DE SOCIEDADE EMPRESÁRIA EM RECUPERAÇÃO JUDICIAL. LEGALIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA E EXCESSO DE EXECUÇÃO. EXAME DE PROVA. INADMISSIBILIDADE.
+ ..
+5. Nos termos de pacífico entendimento jurisprudencial, "a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória" (REsp n. 1.110.925/SP, relator Ministro Teori Albino Zavascki, Primeira Seção, julgado em 22/4/2009, DJe de 4/5/2009).
+ ..
+7. Agravo interno não provido.
+(AgInt no REsp 2.053.490/PE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 21/8/2023, DJe de 24/8/2023.).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE DE RECONHECIMENTO DA PREVENÇÃO SUSCITADA. MATÉRIA AFETA ÀS TURMAS DA PRIMEIRA SEÇÃO DO STJ. EXECUÇÃO FISCAL. ALEGADA VIOLAÇÃO AO ART. 1.022, DO CÓDIGO DE PROCESSO. INEXISTÊNCIA. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA 284, DO STF, POR ANALOGIA. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA IMPOSSIBILIDADE ANÁLISE DA QUESTÃO RELATIVA À PENHORA DE IMÓVEL EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+4. O acórdão impugnado, ao interpretar as provas produzidas, entendeu que a matéria controvertida, atinente à alegação de impenhorabilidade imóvel, demanda dilação probatória, o que impossibilita a análise do caso por meio da Exceção de Pré-Executividade, conforme reiterada jurisprudência deste Superior Tribunal de Justiça sedimentada na Súmula 393. Não se permite a modificação desse entendimento na via Especial, porquanto indispensável incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ 5. Agravo interno desprovido.
+(AgInt no AREsp 2.687.068/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 20/3/2025, DJEN de 27/3/2025.).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. EXCEÇÃO DE PRE-EXECUTIVIDADE. MATÉRIA FÁTICA. DILAÇÃO PROBATÓRIA. SÚMULA 7 DO STJ. JUÍZO DA EXECUÇÃO FISCAL. ATOS CONSTRITIVOS. CONTROLE DE TAIS ATOS CABE AO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES. RECURSO NÃO PROVIDO.
+ ..
+4. A Primeira Seção do STJ, ao julgar o Recurso Especial n. 1.110.925/SP, sob o rito dos Recursos Repetitivos, proclamou ser cabível a Exceção de Pré-Executividade para discutir questões de ordem pública na Execução Fiscal, como os pressupostos processuais, as condições da ação, os vícios objetivos do título executivo atinentes à certeza, liquidez e exigibilidade, desde que não demandem dilação probatória (REsp 1.110.925/SP, Rel. Min. Teori Albino Zavascki, DJe de 4.5.2009).
+5. Tal orientação foi posteriormente consolidada com a edição da Súmula 393 do STJ, segundo a qual "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+6. O aresto impugnado, ao interpretar as provas produzidas, entendeu que a matéria controvertida demanda dilação probatória, o que impossibilita a análise do caso por meio da Exceção de Pré-Executividade. Não se permite a modificação desse entendimento na via Especial, porquanto indispensável incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ. Nesse sentido: AgInt no AREsp n. 2.330.938/DF, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 11/10/2023, AgInt no REsp n. 2.053.490/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 24/8/2023 e EDcl no AREsp n. 2.209.881/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/5/2023.
+ ..
+8. Agravo Interno não provido.
+(AgInt no REsp 2.114.576/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/4/2024, DJe de 2/5/2024.).
+Incide, portanto, a Súmula 83 do STJ.
+Por fim, cabe destacar que "o não conhecimento do especial pelo conduto da alínea "a" do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano" (AgInt no REsp 1.601.154/PR, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/02/2018, DJe 06/04/2018).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
