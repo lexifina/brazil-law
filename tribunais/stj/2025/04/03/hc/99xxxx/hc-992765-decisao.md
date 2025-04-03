@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUCIMAR VITALI - condenado à pena de 8 anos de reclusão, em regime inicial semiaberto, pela prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (fls. 11/20) -, em que se aponta como autoridade coatora a OItava Câmara Criminal do Tribunal de Justiça de Minas Gerais (Habeas corpus n. 1.0000.25.054294-1/000).
+Na impetração, sustenta-se que há constrangimento ilegal, pois a prisão preventiva é incompatível com o regime semiaberto, conforme entendimento dos tribunais superiores (fls. 6/9). Afirma-se que a gravidade abstrata dos delitos não configura motivação idônea para a decretação da prisão preventiva (fls. 5/6).
+Destaca-se que o paciente é primário, possui bons antecedentes e que a pena foi fixada no mínimo legal (fls. 6/9).
+No mérito, requer-se a revogação da prisão preventiva do paciente, com a expedição de alvará de soltura, sem prejuízo da imposição de medidas cautelares diversas constantes no art. 319 do CPP, até o trânsito em julgado de eventual condenação (fls. 9/10).
+É o relatório.
+No caso, contravindo os argumentos dispostos neste writ, o voto condutor do acórdão impugnado, ao ratificar os termos da decisão do Juízo de Direito de primeiro grau - no sentido de preservar a ordem pública -, considerou adequada a determinação de prisão preventiva do paciente em decorrência da gravidade concreta do delito, pois foi condenado por integrar uma rede criminosa que opera na venda e distribuição de entorpecentes, com dezenas de envolvidos, em vasta área do estado de Minas Gerais, contribuindo para a manutenção e expansão das atividades ilícitas da organização, in verbis (fls. 17/18):
+ ..
+Com efeito, esta Corte reconheceu a existência do periculum libertatis do paciente, em virtude da gravidade concreta das condutas pelas quais ele foi condenado, tendo sido a prisão preventiva imposta como forma de resguardar a ordem pública e assegurar a aplicação da lei penal.
+Desse modo, não soa razoável a revogação de sua custódia cautelar, sobretudo diante da superveniência de sentença condenatória, a qual reforça, ainda mais, a necessidade da manutenção da medida extrema.
+Em outras palavras, considerando que o paciente permaneceu acautelado durante toda a instrução criminal e que subsistem os pressupostos e requisitos que ensejaram o decreto da prisão preventiva, a manutenção da prisão processual é necessária para a garantia da ordem pública e da aplicação da lei penal, de modo que seria um contrassenso colocá-lo em liberdade após a prolação de sentença condenatória.
+Com isto, os requisitos constantes dos artigos 312 e 313, ambos do Código de Processo Penal, encontram-se presentes, o que afasta as alegações defensivas de carência de fundamentação e ilegalidade da prisão.
+No tocante à alegação de que fora fixado regime menos gravoso que a prisão cautelar em primeiro grau, o Colendo Tribunal Superior de Justiça já se posicionou de forma contrária ao argumento tecido pelo impetrante, fixando entendimento no sentido de que não há incompatibilidade entre a prisão preventiva e o regime semiaberto, desde que aquela seja readequada às peculiaridades do regime imposto no édito constritivo. A propósito:
+ ..
+Cumpre consignar, ainda, que, em consonância à Súmula 716 do Supremo Tribunal Federal, é possível a execução provisória da pena e a concessão dos benefícios referentes a ela, antes do trânsito em julgado da sentença condenatória, de modo que a expedição da guia de execução provisória, em razão de prisão preventiva, não fere o princípio da inocência.
+Desse modo, não há constrangimento ilegal na vedação ao direito de apelar em liberdade, contudo, a execução provisória deve-se atentar ao regime prisional fixado na r. sentença condenatória, a fim de se evitar que o sentenciado permaneça em regime prisional mais gravoso que o devido.
+No presente caso, conforme indicado na sentença, foi determinada a expedição da guia de execução (fl. 23 da ordem 25).
+Assim, não há demonstração, de plano, que o paciente se encontra recolhido em regime mais gravoso ao qual foi condenado, o que afasta a alegação de constrangimento ilegal.
+ ..
+Por conseguinte, a custódia está corretamente motivada na garantia da ordem pública, diante do fundado risco de reiteração delitiva (AgRg no HC n. 957.932/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN 5/3/2025).
+Igualmente: AgRg no RHC n. 161.712/CE, da minha relatoria, Sexta Turma, DJe 9/5/2022.
+Inclusive, a fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória (AgRg no RHC n. 200.685/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 11/3/2025).
+Com efeito, o Supremo Tribunal Federal já se pronunciou no sentido de que não há ilegalidade na custódia devidamente fundamentada na periculosidade do agravante para a ordem pública, em face do modus operandi e da gravidade em concreto da conduta (HC n. 146.874 AgR, Ministro Dias Toffoli, Segunda Turma, julgado em 6/10/2017, DJe 26/10/2017) - (HC n. 459.437/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 7/11/2018).
+Igualmente: AgRg no RHC n. 152.073/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2022 .
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL E PROCESSO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O MESMO FIM. CONDENAÇÃO EM REGIME SEMIABERTO. PRISÃO CAUTELAR MANTIDA EM RAZÃO DA ASSOCIAÇÃO ORGANIZADA VOLTADA PARA O CRIME, EM VASTA REGIÃO E DEZENAS DE ENVOLVIDOS, SENDO AS FUNÇÕES BEM DELINEADAS E DISTRIBUÍDAS. PRESERVAÇÃO DA ORDEM PÚBLICA. COMPATIBILIDADE COM O REGIME SEMIABERTO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+Writ indeferido liminarmente.
