@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por ANA MARIA VALERIO CAPRIOGLIO, em que defende a admissibilidade de recurso especial manejado contra acórdão assim ementado:
+AÇÃO ANULATÓRIA - ITCMD - Doação de aeronave declarado no Imposto de Renda - Alegado equívoco no preenchimento de DIRPF não corroborado pelos elementos probatórios coligidos - Precedentes desta C. Corte - R. sentença de improcedência da ação mantida.
+Recurso improvido.
+Os embargos de declaração opostos pela parte adversária foram acolhidos para correção de erro material.
+No apelo nobre, a recorrente aponta, além de divergência jurisprudencial, violação dos arts. 538 e 1.667 do CC, sustentando que não incide o ITCMD na transferência de valores entre cônjuges casados sob o regime da comunhão universal de bens.
+Aduz que o lançamento do tributo decorre do fato de a recorrente haver registrado como doação, na declaração do imposto de renda, os valores recebidos de seu cônjuge para a aquisição de aeronave. Argumenta, porém, que a quantia permaneceu no mesmo acervo patrimonial, já que todos os bens são de propriedade comum. Cita, nesse sentido, o julgamento proferido pelo TJMG na AC n. 1.0000.19.107841-9/001.
+Depois de apresentadas as contrarrazões, o Tribunal de origem inadmitiu o recurso especial, por entender incidente o óbice da Súmula 7 do STJ, fundamentação com a qual não concorda a agravante.
+Oferecida contraminuta.
+Passo a decidir.
+Atendidos os pressupostos próprios, conheço do agravo para, desde logo, examinar o recurso especial.
+Na origem, cuidam os autos de ação anulatória visando à desconstituição de auto de infração aplicado em decorrência do não recolhimento de ITCMD referente ao recebimento de doação declarada em imposto de renda. O pedido foi julgado improcedente em primeira instância.
+O Tribunal a quo, no exame da apelação, manteve a solução, estabelecendo que, se a aquisição do bem foi declarada como uma doação, competia à autora retificar sua declaração de imposto de renda e que, de todo modo, incidiria o tributo sobre a transferência. Confira-se (e-STJ fls. 374/375):
+Trata-se de ação anulatória visando à desconstituição do auto de infração e imposição de multa AIIM nº 4.028.248-0, julgados improcedentes em Primeiro Grau conforme r. sentença de fls. 310/314.
+A questão suscitada por meio do apelo da parte autora tem sido apreciada por este Relator em, ao menos, três ocasiões diferentes, ajuizadas por partes diretamente interessadas que buscam a desconstituição do crédito tributário oriundo da possível doação de espaçonave, plasmado no AIIM nº 4.028.248-0 que, por mais de uma vez, mostrou-se descabido.
+No caso em tela, o Magistrado de Primeiro Grau houve por bem registrar que:
+"O avião declarado como de propriedade da autora, foi adquirido por meio de doação, conforme declaração prestada pela própria autora. Se houve equívoco do contador ao elaborar a Declaração de Imposto de Renda, deveria a autora ter efetuado a retificação de sua declaração de imposto de renda quando intimada para tanto. Se o contador ou o esposo da autora entenderem por bem colocar a aeronave em nome da autora e declarar que tal bem foi adquirido por meio de doação é porque naquele momento entenderam que tal ação melhor atendia seus interesses, mesmo porque, são pessoas instruídas e experientes em celebrar negócios jurídicos e recolher os correspondentes tributos, visto que se trata de empresário da área rural acostumado a realizar diversas negociações (fls. 03, parágrafos quarto, quinto e sexto). Inclusive a própria autora afirma que a aeronave foi colocada em seu nome para o marido receber os benefícios de carga tributária (fls. 03, quinto parágrafo)." (fls. 313/314).
+O que se vislumbrou em todas as oportunidades de análise do caso presente é que, se era conveniente à época de aquisição da aeronave declarar a ocorrência da doação, não há por que, após efetivada a transação de compra do bem, pleitear a inocorrência do fato gerador sob o argumento simplista de que houve equívoco do contador ao preencher a Declaração de Imposto de Renda.
+Assim, como também observado pelo Magistrado de Primeiro Grau, de uma forma ou de outra a aquisição da aeronave implicaria no pagamento de tributo, justamente o que se pretende elidir.
+Aliás, casos assim não são raros nesta Corte de Justiça, a saber:
+ ..
+Pois bem.
+Observo que os arts. 538 e 1.667 do CC não serviram de embasamento a nenhum juízo de valor emitido no acórdão recorrido. Portanto, incide o teor da Súmula 282 do STF, em razão da falta de prequestionamento das respectivas teses.
+Cumpre salientar que "a inadmissão do recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes" (AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
