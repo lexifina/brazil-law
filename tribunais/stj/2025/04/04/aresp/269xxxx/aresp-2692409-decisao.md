@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por RESIDENCIAL VILA MARIANA contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15 de maio de 2024.
+Concluso ao gabinete em: 08 de outubro de 2024.
+Ação: O Condomínio agravante ajuizou execução de título extrajudicial para cobrança de débitos condominiais inadimplidos pela agravada, DIVA DOS SANTOS, proprietária de um apartamento no condomínio. A agravada apresentou exceção de pré-executividade alegando excesso de execução, especialmente quanto à cobrança de honorários contratuais.
+Sentença: acolheu parcialmente a exceção de pré-executividade, reconhecendo a existência de excesso de execução e excluindo os honorários contratuais do débito exequendo.
+Acórdão: manteve a decisão interlocutória que acolheu a exceção de pré-executividade, reconhecendo a matéria como de ordem pública e passível de alegação em qualquer fase processual, inclusive em exceção de pré-executividade, nos termos da seguinte ementa (e-STJ, fls. 45):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO AGRAVADA QUE ACOLHEU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INSURGÊNCIA QUANTO A INADEQUAÇÃO DA VIA ELEITA. INOCORRÊNCIA. DISCUSSÃO SOBRE COBRANÇA DE TAXA REFERENCIAL (TR). ÍNDICE DIVERGENTE DO CONSTANTE NA CONVENÇÃO DE CONDOMÍNIO. HONORÁRIOS CONTRATUAIS. NÃO PREVISÃO EM CONTRATO. MATÉRIA DE ORDEM PÚBLICA. POSSIBILIDADE DE ALEGAÇÃO EM QUALQUER FASE PROCESSUAL, INCLUSIVE EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CONVENÇÃO DE CONDOMÍNIO QUE COMPROVA O DIREITO ALEGADO. PROVA PRÉ-CONSTITUÍDA. DECISÃO INTERLOCUTÓRIA MANTIDA. HONORÁRIOS RECURSAIS. ART. 85, § 11º, DO CPC. RECURSO CONHECIDO E DESPROVIDO."
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega dissídio jurisprudencial sobre a aplicação do artigo 917, inciso III, do CPC, sustentando que a matéria de honorários contratuais não deveria ser considerada de ordem pública e deveria ser objeto de embargos à execução.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+A ausência de prequestionamento do artigo sobre o qual se funda a divergência, qual seja, artigo 917, inciso III, do CPC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 2.391.548/SP, Terceira Turma, DJe de 20/3/2024, e AgInt no AREsp 2.314.188/SP, Quarta Turma, DJe de 21/12/2023.
+- Da Súmula 568 do STJ
+Ainda que assim não fosse, o Tirbunal de origem, ao julgar o recurso de agravo de instrumento interposto pelo agravante, concluiu em sintonia com a jurisprudência desta Corte, nos seguintes termos (e-STJ fls. 47/49):
+Como se sabe, a exceção de pré-executividade é cabível quando preenchidos simultaneamente os requisitos: a) matéria de ordem pública; e b) que a decisão possa ser tomada sem necessidade de dilação probatória.
+Segundo entendimento pacificado pelo Superior Tribunal de Justiça adequação do valor da execução é matéria de ordem pública, de modo que pode ser alegada em qualquer momento e grau de jurisdição. Veja-se:
+ ..
+Dessa forma, tal questão pode ser arguida em sede de exceção de pré-executividade, desde que a matéria possa ser demonstrada de plano por meio de prova documental, sem dilação probatória, ou apenas pela análise mais profunda de documentos já acostados nos autos (prova pré-constituída).
+Nesse sentido a jurisprudência Superior Tribunal de Justiça:
+ ..
+No caso, como a exceção de pré-executividade apresenta, no mov. 116.1, discute excesso na execução, por cobrança de valores não previstos na convenção de condomínio, decorrente de índice de correção diverso e honorários contratuais não entabulados, depreende-se que se trata de matéria de ordem pública, reconhecida pelo Superior Tribunal de Justiça.
+Além disso, a prova documental necessária a comprovar o alegado, já está acostada nos autos, inexistindo, então, a necessidade da dilação probatória.
+A matéria deduzida pela agravada na exceção de pré-executividade foi comprovada de plano, por meio da convenção de condomínio (movimentos 1.6 a 1.7).
+Assim, devidamente comprovado nos autos os requisitos para o cabimento exceção de pré- executividade, entendo correta a decisão agravada que conheceu do excesso na execução, em razão da taxa referencial ter sido cobrada por valor diverso da convenção de condomínio e a impossibilidade na cobrança contratuais, por ausência de previsão.
+Da leitura dos trechos acima, verifica-se a decisão proferida pelo Tribunal local encontra amparo na jurisprudência do STJ.
+As duas Turmas de Direito Privado do STJ entendem que a exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória (AgInt no AREsp 1580699/PR, 3ª Turma, DJe de 04/06/2020).
+Ainda nesse sentido: AgInt no AREsp 1593718/SP, 4ª Turma, DJe de 14/08/2020; AgInt no REsp 1.785.642/AC, 4ª Turma, DJe de 03/10/2019; AgInt no AREsp 1.361.836/SP, 3ª Turma, DJe de 06/05/2019; AgInt no AREsp 1.099.896/SP, 4ª Turma, DJe de 17/10/2017; e AgRg no AREsp 760.529/ES, 3ª Turma, DJe de 30/11/2015.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (excesso de execução como matéria de ordem pública e conclusão no sentido de que sua análise, no caso concreto, dispensa dilação probatória), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor do proveito econômico obtido (e-STJ fls. 51) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO. EXCESSO DE EXECUÇÃO. HONORÁRIOS CONTRATUAIS. ALEGAÇÃO EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DISSÍDIO PREJUDICADO. SÚMULA 7/STJ.
+1. Ação de execução de título extrajudicial.
+2. A ausência de prequestionamento do artigo sobre o qual se funda a divergência impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+3. A exceção de pré-executividade é cabível quando atendidos simultaneamente dois requisitos, um de ordem material e outro de ordem formal, ou seja: (a) é indispensável que a matéria invocada seja suscetível de conhecimento de ofício pelo juiz; e (b) é indispensável que a decisão possa ser tomada sem necessidade de dilação probatória. Precedentes. Ante o entendimento do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, na extensão, não provido.
