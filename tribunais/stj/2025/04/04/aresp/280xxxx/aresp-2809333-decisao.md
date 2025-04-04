@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ROSIANE GONÇALVES DOS SANTOS contra decisão que inadmitiu recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/10/2024.
+Concluso ao gabinete em: 19/12/2024.
+Ação: de reintegração de posse c/c indenização por perdas e danos ajuizada pelo agravado em desfavor da agravante, alegando que cedeu imóvel de sua propriedade por meio de comodato verbal, mas que, ao solicitar a desocupação do bem, no prazo indicado, a demandada permaneceu inerte.
+Sentença: julgou parcialmente procedentes os pedidos para determinar a reintegração de posse do imóvel, concedendo prazo de trinta dias para desocupação. Além disso, condenou a ré/agravada ao pagamento de aluguéis devidos pela posse do imóvel desde a notificação extrajudicial.
+Acórdão: negou provimento à apelação da agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE C/C PERDAS E DANOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DA PARTE RÉ. CESSÃO GRATUITA DE IMÓVEL PARA A MORADIA DA DEMANDADA COM SUA GENITORA (IRMÃ DO AUTOR). TESE DE CERCEAMENTO DE DEFESA ANTE O JULGAMENTO ANTECIPADO DA LIDE. PRETENSA PRODUÇÃO DE PROVA ORAL. REJEIÇÃO. PROVAS CONSTANTES NOS AUTOS SUFICIENTES A FORMAR O CONVENCIMENTO DO MAGISTRADO. APLICAÇÃO DO PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. EXEGESE DOS ARTS. 355, I, E 371 DO CPC. EVENTUAL PRODUÇÃO DE PROVAS QUE NÃO INFLUENCIARIA NO RESULTADO DA DEMANDA. PRETENSÃO DE REFORMA DA SENTENÇA. TESE DE EXERCÍCIO DE POSSE COM ANIMUS DOMINI. REJEIÇÃO. IMÓVEL CEDIDO PARA A MORADIA DA DEMANDADA PELO AUTOR. CONJUNTO PROBATÓRIO QUE DEMONSTRA A EXISTÊNCIA DE COMODATO VERBAL. EXERCÍCIO DE POSSE PRECÁRIA. AUSÊNCIA DE COMPROVAÇÃO DA ALEGADA DOAÇÃO DO BEM. NEGÓCIO JURÍDICO BENÉFICO QUE DEVE OBEDECER À SOLENIDADE PREVISTA NO ART. 541 DO CÓDIGO CIVIL. NOTIFICAÇÃO PARA A DESOCUPAÇÃO. INÉRCIA DA RÉ EM DEVOLVER O IMÓVEL. ESBULHO CONFIGURADO. TRANSMUDAÇÃO DA POSSE PARA INJUSTA. REQUISITOS DO ART. 561 DO CPC ATENDIDOS. RECURSO CONHECIDO E DESPROVIDO."
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 1.022 do Código de Processo Civil, aduzindo negativa de prestação jurisdicional, bem como dissídio jurisprudencial. Sustenta que o TJSC não se manifestou sobre o pedido de produção de prova oral, a fim de comprovar se a cessão do imóvel ocorreu por doação ou por comodato. Sustenta a ocorrência de cerceamento de defesa pelo indeferimento da produção da prova o ral requerida. Pugna, ao final, pela reforma do acórdão recorrido para julgar improcedente a ação de reintegração de posse. De forma alternativa, para declarar a nulidade da sentença para determinar a produção das provas requeridas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da desnecessidade de produção de provas, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+É o que se extrai da fundamentação da decisão (e-STJ, fl. 435):
+" ..  não se verifica nenhuma omissão no acórdão objurgado, porquanto constou expressamente no decisum que a doação de bem imóvel se comprova por meio de escritura pública ou instrumento particular, a teor do art. 541, do Código Civil, prova exclusivamente documental, de modo que a prova testemunhal se revela inócua para o fim pretendido pela insurgente (comprovação de doação verbal de imóvel).
+Portanto, a insurgência manifestada pela parte embargante revelou, em última análise, o seu inconformismo com o teor da decisão atacada, circunstância que desafia recurso próprio.
+Ademais, é pacífico que os aclaratórios não se prestam à reanálise de matéria já examinada, ainda que sob o argumento de apreciação deficiente dos fatos e dos elementos probantes."
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo quanto ao ponto a Súmula 568/STJ.
+- Do cerceamento de defesa
+Não bastasse isso, de acordo com a jurisprudência do STJ, o juiz, como destinatário da prova, pode, em conformidade com os princípios da livre apreciação da prova e do livre convencimento motivado, decidir pelo indeferimento da prova requerida sem que isso configure cerceamento de defesa. Nesse sentido: AgInt no REsp 1.429.272/MA, Quarta Turma, DJe de 20/8/2018; e AgInt no AREsp 1.015.060/RS, Terceira Turma, DJe de 12/5/2017.
+Ademais, alterar o decidido no acórdão recorrido, acerca da ausência de cerceamento de defesa, por ter sido indeferida a realização de alguma prova, demandaria o reexame de fatos e provas, o que não é permitido ante o óbice da Súmula 7 desta Corte. Na mesma linha: AgInt no AREsp 1634989/PR, Terceira Turma, DJe 28/05/2020; AgInt no AREsp 1632773/SP, Quarta Turma, DJe 05/06/2020.
+- Dispositivo
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% (quinze por cento) sobre o valor atualizado da condenação (e-STJ, fls. 392) para 18% (dezoito por cento), observado o deferimento da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE C/C PERDAS E DANOS. CESSÃO GRATUITA DE IMÓVEL POR COMODATO VERBAL. MORADIA DA DEMANDADA COM SUA GENITORA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de reintegração de posse c/c perdas e danos.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
