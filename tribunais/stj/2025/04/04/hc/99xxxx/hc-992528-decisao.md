@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus, com pedido liminar, impetrado em favor de MATHEUS DOS SANTOS TAVARES - condenado à pena total de 7 anos de reclusão, em regime inicial semiaberto, além do pagamento de 510 dias-multa, pela prática do crime de tráfico de drogas majorado pela interestadualidade do delito -, apontando-se como autoridade coatora a SEGUNDA CÂMARA CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação Criminal n. 5023516-54.2023.8.21.0015/RS), não comporta processamento.
+Busca-se, no presente writ, a reabertura do pra zo para a interposição da apelação, sob o argumento de deficiência da defesa técnica anteriormente constituída, o que resultou na perda do prazo para a interposição do recurso de apelação, circunstância que teria causado prejuízo irreparável ao paciente, nos termos da Súmula 523 do Supremo Tribunal Federal - STF, violando o princípio do duplo grau de jurisdição e a ampla defesa.
+É o relatório.
+O presente writ é substitutivo de recurso próprio, sendo certo que o habeas corpus tem suas hipóteses de cabimento restritas e não deve ser utilizado a fim de provocar a discussão de temas afetos a recurso de apelação criminal, a recurso especial, a agravo em execução e a recurso em sentido estrito.
+Ademais, não existe flagrante ilegalidade capaz de justificar a concessão da ordem de ofício, pois, conforme destacado pelo Tribunal de origem o acusado estava devidamente assistido por procurador constituído nos autos, o qual foi intimado da sentença, de modo que sua inércia, bem como a ausência de manifestação do próprio acusado quanto ao interesse de recorrer no prazo legal, resultam na intempestividade do recurso protocolado pela defesa ora constituída (fl. 20). Assim, constatada a regularidade da intimação levada a efeito pela instância ordinária, não há nenhuma ilegalidade a ser reparada.
+Registre-se, ainda, que a ausência de interposição de recurso não implica o reconhecimento de nulidade decorrente de deficiência na defesa, nos termos da Súmula 523 do STF.
+Nesse sentido: AgRg no HC n. 860.050/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/10/2024; e AgRg no HC n. 908.557/SC, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 19/9/2024.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. INTEMPESTIVIDADE DA APELAÇÃO CRIMINAL. DEFICIÊNCIA DE DEFESA. NÃO OCORRÊNCIA. CAUSÍDICA CONSTITUÍDA DEVIDAMENTE INTIMADA. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
