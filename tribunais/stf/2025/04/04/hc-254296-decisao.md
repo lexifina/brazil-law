@@ -1,0 +1,45 @@
+Habeas corpus. Tráfico de drogas. Busca veicular. Nulidade processual. Não exaurimento da instância antecedente. Não se conhece de habeas corpus impetrado contra decisão monocrática de Ministro de Tribunal Superior. Precedentes. Negativa de seguimento.
+
+    Trata-se de habeas corpus impetrado em favor de William Pompeo da Silva contra decisão monocrática do Relator HC 859.852/SP do Superior Tribunal de Justiça, que denegou a ordem (evento 5).
+
+    O paciente foi condenado à pena definitiva de 7 (sete) anos, 9 (nove) meses e 10 (dez) de reclusão, em regime inicial fechado, pela prática do delito de tráfico de entorpecentes, previsto no art. 33, caput, da Lei 11.343/06 (evento 3).
+
+    No presente writ, a Defesa sustenta a nulidade das provas que ensejaram a condenação. Argumenta a ilegalidade da busca veicular realizada, uma vez que sem fundadas razões, tendo ocorrido revista exploratória (fishing expedition) pelos policiais. Requer, em medida liminar, a suspensão da ação penal até o julgamento do writ. No mérito, pugna pelo trancamento da ação penal e reconhecimento da nulidade das provas obtidas pela busca veicular.
+
+    É o relatório. Decido.
+
+    Colho do ato apontado como coator (evento 7):
+
+    ”(...)
+
+    O paciente foi condenado pela prática do crime de tráfico de drogas. Depois do trânsito em julgado, a defesa ajuizou revisão criminal perante o Tribunal estadual com vistas ao reconhecimento da ilicitude da busca pessoal.
+
+    A Corte negou provimento ao apelo com base na seguinte fundamentação:
+
+    Todavia, no mérito, anoto que o pedido não pode ser deferido, uma vez que, analisando-se o conjunto probatório,verifica-se que ele foi avaliado com propriedade pelo Juízo sentenciante e por este E. Tribunal. Com efeito, não há que se falar em nulidade do auto de prisão em flagrante, pois agiram acertadamente os policiais realizando a abordagem do réu, após visualizá-lo em atitude suspeita, e, favorável à possibilidade de conhecimento do pedido revisional, quando a decisão condenatória se funda em erro técnico ou injustiça evidente. A propósito:“Impõe-se o conhecimento do pedido revisional fundado no artigo 621, incisos I e III, do Código de Processo Penal, se a alegação é de julgamento contrário a texto expresso da lei penal ou à evidência dos autos, assim como de circunstância que determine ou autorize diminuição especial da pena.”(TJMS. Revisão Criminal 2010.010310-1. Rel. Juiz Manoel Mendes Carli. Seção Criminal. j. 21/07/2010. DJ 26/07/2010). Verifica-se, portanto, que o reexame probatório é perfeitamente compatível com a Revisão Criminal, mormente quando se trata da hipótese prevista no inciso I, do art. 621, do CPP, em que o peticionário busca demonstrar a contrariedade da condenação em relação à evidência dos autos ou ao texto expresso da lei. Assim sendo, somente com o conhecimento do pedido é que será possível analisar se a condenação contraria (ou não) a evidência dos autos ou o texto expresso da lei. A propósito:"Em se tratando de Revisão Criminal, somente é possível aferir-se sobre eventual contrariedade à evidência dos autos mediante o conhecimento da pretensão" (RJTAcrim. vol.44/446). Desta forma, conheço o pedido revisional. Todavia, no mérito, anoto que o pedido não pode ser deferido, uma vez que, analisando-se o conjunto probatório,verifica-se que ele foi avaliado com propriedade pelo Juízo sentenciante e por este E. Tribunal. Com efeito, não há que se falar em nulidade do auto de prisão em flagrante, pois agiram acertadamente os policiais realizando a abordagem do réu, após visualizá-lo em atitude suspeita, e, depois da localização dos entorpecentes e de significativa quantia em dinheiro, também agiram corretamente os policiais realizando a prisão em flagrante quando constataram a prática do delito de tráfico de drogas,posteriormente conduzindo o réu à autoridade policial competente, que cumpriu as disposições legais, convalidando a ação dos policiais. Nada existe, portanto, de irregular ou ilícito. Frise-se que não se tratou de mera abordagem ocasional do acusado, já que, segundo consta, os policiais abordaram o réu porque, além de terem recebido denúncias dando conta da prática do tráfico de drogas por ele, visualizaram o peticionário, o corréu e mais um indivíduo conversando, estando, aparentemente, o primeiro em poder de uma sacolinha na mão; e, em determinado momento, avistaram o peticionário e o corréu subindo em uma moto e descendo a rua em velocidade, ocasião em que não obedeceram à ordem de parada, tendo o peticionário jogado a moto em cima da viatura e empreendido fuga, bem como passado algo para o corréu, que arremessou uma sacolinha branca,onde foi localizada significativa quantidade de drogas (32 pinos de cocaína, pesando 25,54g, e mais 4 tijolos da mesma droga, pesando 23,46g) e 15 eppendorfs vazios, sendo apreendida, ainda, a quantia de R$ 1.654,00 em notas miúdas em poder do réu. Nesse contexto, tratando-se de situação de fundada suspeita do cometimento de ilícito, a atuação dos policiais encontra-se revestida de legalidade, nos termos do artigo240, § 2º, e artigo 244, ambos do Código de Processo Penal. Anoto ainda que não se pode falar em ilegalidade na busca pessoal, pois, como exposto, o réu foi visto em atitudes suspeitas, sobretudo, por conduzir a motocicleta, em poder de uma sacola, em alta velocidade, desobedecendo à ordem de parada, inclusive jogando a motocicleta em cima da viatura, além de ter passado algo ao corréu, que arremessou uma sacola. Consigne-se que, in casu, as circunstâncias em que o réu foi abordado, como mencionado, justificaram a busca pessoal,a partir de experiências cotidianas adquiridas pelos policiais no contexto de combate à criminalidade e visando coibir delitos, agindo de forma preventiva, fundada na expertise da profissão e com respaldo legal no artigo 244 do Código de Processo Penal
+
+    Portanto, uma vez que a ação penal está lastreada em elementos mínimos que indicam o estado flagrancial, notadamente em virtude da prévia visualização da traficância pelos policiais e da fuga do acusado, não se verifica a ocorrência de nenhuma das hipóteses que autorizariam o trancamento do processo – o qual, repise-se, já conta com sentença penal condenatória transitada em julgado.
+
+    À vista do exposto, denego a ordem, in limine.”
+
+    Há óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Tribunal Superior antecedente. O ato impugnado é decisão monocrática e não o resultado de julgamento colegiado.
+
+    O exaurimento da instância no Tribunal Superior é condição para instaurar a competência desta Suprema Corte com base nos artigos 102, I, ‘i’, e 102, II, ‘a’, da Constituição Federal. Nesse sentido, a jurisprudência desta Suprema Corte afirma que “Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental” (HC 234.766-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 05.02.2024); “A não interposição de agravo regimental no Superior Tribunal de Justiça ou a ausência da análise da decisão monocrática pelo Colegiado daquela Corte impedem o conhecimento do habeas corpus pelo Supremo Tribunal Federal, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.” (HC 235.743-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 14.02.2024).
+
+    Na mesma linha: HC 235.631-ED, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 14.02.2024; HC 233.763-AgR, Rel. Min. André Mendonça, Segunda Turma, DJe 13.12.2023; HC 235.584-AgR, Rel. Min. Cristiano Zanin, Primeira Turma, DJe 09.02.2024; HC 232.665-AgR, Rel. min. Cármen Lúcia, Primeira Turma, DJe 26.10.2023; HC 233.620-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 09.01.2024; HC 234.766-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 05.02.2024; HC 228.740-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 228.740-AgR; HC 221.482-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 01.12.2022; HC 230.493-AgR, Rel. Min. Nunes Marques, Segunda Turma, DJe 09.01.2024; HC 225.698-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.4.2023; HC 218.742-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 20.9.2022.
+
+    Na esteira da orientação do Ministro Celso de Mello, ‘[e]sta Suprema Corte (...) compreende que a cognoscibilidade da ação de “habeas corpus” supõe, em contexto idêntico ao de que ora se cuida, a existência de decisão colegiada da Corte Superior apontada como coatora, situação inocorrente na espécie’ (HC 183.035/CE).
+
+    O caso concreto não autoriza superação desse entendimento, porquanto não identificadas situações excepcionais de flagrante ilegalidade ou de teratologia constatáveis de plano, ou, ainda, de decisão manifestamente contrária à jurisprudência desta Suprema Corte.
+
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 4 de abril de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
