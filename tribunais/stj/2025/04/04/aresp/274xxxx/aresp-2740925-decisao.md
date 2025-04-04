@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão do Tribunal de Justiça do Estado do Ceará que inadmitiu recurso especial interposto por CARLOS ANDRE FARIAS DE SOUSA em razão do óbice da Súmula 7 do Superior Tribunal de Justiça.
+Consta dos autos que o acórdão recorrido ratificou a pronúncia de Carlos André Farias de Sousa pela suposta prática de homicídio qualificado (art. 121, § 2º, I, III e IV, do Código Penal). O Tribunal de Justiça do Ceará, em sua decisão, considerou presentes a materialidade e indícios suficientes de autoria, confirmando a pronúncia e deliberando sobre o decote das qualificadoras, afirmando que a exclusão das qualificadoras só é permitida nos casos de manifesta improcedência, devendo ser analisada pelo Conselho de Sentença (e-STJ fls. 643/644).
+Em sede de recurso especial, a defesa alegou contrariedade aos artigos 155, 156, 157, 226 e 414 do Código de Processo Penal e ao artigo 121, § 2º, I, III e IV, do Código Penal. A defesa argumentou pela impossibilidade de aplicação do princípio in dubio pro societate, pela nulidade do reconhecimento pessoal, pela ausência de provas ou indícios suficientes de autoria, e pela exclusão das qualificadoras manifestamente improcedentes (e-STJ fls. 691).
+O recurso especial foi inadmitido com base no óbice da Súmula 7 do STJ, afirmando que a análise das provas e elementos existentes nos autos importaria em revolvimento fático-probatório, vedado em recurso especial (e-STJ fls. 783/786).
+Na inicial do agravo em recurso especial, a defesa reiterou os argumentos do recurso especial, destacando que a discussão é exclusivamente de matéria de direito e que não há necessidade de reanálise de fatos e provas, o que afastaria a aplicação da Súmula 7 do STJ. A defesa também argumentou pela exclusão das qualificadoras, por serem manifestamente improcedentes (e-STJ fls. 797/805).
+Parecer ministerial no sentido de que o recurso está prejudicado, uma vez que a Ministra Relatora, no julgamento do Habeas Corpus n. 931954/CE, concedeu a ordem de ofício para anular a decisão de pronúncia, sem prejuízo da formulação de nova decisão nos termos do art. 413 do Código de Processo Penal (e-STJ fls. 843/845).
+É o relatório.
+Decido.
+Da análise dos autos, em atenção ao parecer ministerial, observa-se que a defesa do agravante impetrou o Habeas Corpus n. 931954/CE, julgado em 25 de novembro de 2024 por esta Corte , ocasião em que foi concedida ordem de ofício para anular a decisão que pronunciou ANTONIO LEANDRO PAIVA BRANDAO e CARLOS ANDRÉ FARIAS DE SOUSA, ora agravante.
+Assim, com a anulação do ato decisório, o acórdão que ora se questiona não mais subsiste, o que indica a perda de objeto do presente agravo.
+Ante o exposto, julgo prejudicado o agravo em recurso especial, ante a anulação da decisão de pronúncia.
+Publique-se. Intimem-se.
+EMENTA
