@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por MAYCON COSTA DE SOUSA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO que denegou ordem no HC n. 0802063-38.2025.8.10.0000 (fls. 77/78).
+Consta dos autos que o recorrente foi condenado à pena de 8 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas, porte ilegal de arma de fogo de uso permitido e receptação, tendo- lhe sido negado o direito de recorrer em liberdade (fls. 9/25).
+No presente recurso, alega a parte recorrente, em síntese, constrangimento ilegal consistente na manutenção, pela sentença, da prisão cautelar sem fundamentação idônea, pois amparada em termos genéricos.
+Argumenta ser a medida desproporcional e defende a substituição da prisão por cautelares alternativas do art. 319 do CPP.
+Requer, inclusive liminarmente, o direito de recorrer em liberdade, ainda que mediante a fixação de medidas cautelares alternativas.
+É o relatório.
+Busca o presente recurso a concessão do direito de apelar em liberdade.
+No presente caso, verifica-se que encerrada a instrução criminal, o recorrente foi condenado pelos crimes de tráfico de drogas, receptação e porte ilegal de munições de uso permitido à pena de 8 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, sendo vedado o recurso em liberdade ao seguinte fundamento (fl. 23 - grifo nosso):
+ ..
+Não concedo ao réu o direito de em liberdade, tendo em vista que a sua soltura comprometerá a ordem pública, devido à possibilidade concreta de cometer crimes, já que a certidão de antecedentes de Id. 53805957 apresenta outros delitos, cuja autoria é atribuída ao acusado, fatos esse que autorizam a imposição da prisão preventiva, por isso que decreto, desde já, essa modalidade de encarceramento (artigo 312, Código de Processo Penal - CPP) em desfavor da ora acusado. Ressalte-se que os Policiais ouvidos em Juízo combatente do crime de forma constante nessa comarca afirmaram mais de uma vez que o acusado é conhecido por seu envolvimento com tráfico, demonstrando reiteração criminosa. Com efeito, o réu está sendo condenado por tráfico de drogas nesta sentença e deverá iniciar de imediato o cumprimento da sua pena em regime fechado, pois, caso seja posto em liberdade para recorrer, são significativas as chances de que ele volte a delinquir, até porque ele não comprovou que possui trabalho lícito, com imenso preju ízo a saúde e integridade física da comunidade local, além do que o tráfico de drogas fomenta a prática de diversos outros delitos.
+ ..
+O Tribunal de origem, por sua vez, afastou qualquer ilegalidade na custódia, consignando que (fls. 86/88 - grifo nosso):
+Verifica-se que a negativa de recorrer em liberdade foi motivada pela reiteração delitiva evidenciada nos autos e pela necessidade de resguardar a ordem pública.
+O art. 387, § 1º, do Código de Processo Penal dispõe o seguinte: "O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta." Este dispositivo estabelece a obrigação do magistrado de fundamentar sua decisão sobre a manutenção ou imposição da prisão cautelar na sentença condenatória. Isso significa que, ao proferir uma decisão condenatória, o juiz deve justificar, com base em elementos concretos dos autos, a necessidade de manter o réu preso ou de impor uma nova medida cautelar.
+Dessa forma, a análise do trecho transcrito demonstra que o referido dispositivo legal foi devidamente observado, uma vez que foram apresentados fundamentos concretos para justificar a manutenção da custódia cautelar anteriormente determinada.
+Verifica-se nos autos originários que há certidão positiva de antecedentes criminais (id. 129292282 - PJE 1º Grau), nesta constando delitos praticados recentemente e com caráter de elevada gravidade, demonstrando que o paciente tem sido contumaz em sua dinâmica delituosa.
+O Superior Tribunal de Justiça tem decidido que a reiteração criminosa e a periculosidade do agente justificam a manutenção da prisão preventiva, sobretudo quando a segregação já havia sido determinada durante a instrução criminal.
+ ..
+No presente caso, a decisão que negou ao paciente o direito de recorrer em liberdade alinhou-se a esse entendimento jurisprudencial, pois demonstrou, com base em elementos concretos dos autos, que há risco real de reiteração criminosa e necessidade de resguardar a ordem pública.
+Por fim, no que se refere à possibilidade de aplicação de medidas cautelares diversas da prisão, conforme art. 319 do CPP, estas só são cabíveis quando suficientes para resguardar a ordem pública e evitar a reiteração delitiva.
+Dessa forma, não há ilegalidade na decisão que negou o direito de recorrer em liberdade, uma vez que ela se baseia em elementos concretos que justificam a manutenção da custódia cautelar do réu.
+Tal o contexto, não diviso ilegalidade no acórdão atacado.
+Ora, a prisão preventiva, mantida na sentença, encontra-se devidamente justificada na garantia da ordem pública, vulnerada em razão da gravidade concreta do delito perpetrado e no risco de reiteração delitiva.
+Além disso, há precedentes de ambas as Turmas que compõem a Terceira Seção dispondo que, permanecido preso durante toda a instrução processual e demonstrada necessidade de se acautelar o meio social para que seja resguardada a ordem pública, nos termos do art. 312 do Código de Processo Penal, não deve ser permitido ao réu recorrer em liberdade.
+Nesse sentido: AgRg no RHC n. 193.603/MG, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 20/6/2024; AgRg no HC n. 857.434/DF, da minda relatoria, Sexta Turma, DJe de 29/11/2023; AgRg no HC n. 783.309/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/2/2023; e AgRg no HC n. 736.957/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 31/8/2022.
+Assim, há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva do recorrente, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, RECEPTAÇÃO E PORTE ILEGAL DE MUNIÇÕES. SENTENÇA CONDENATÓRIA. VEDAÇÃO DO RECURSO EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA.
+Recurso em habeas corpus improvido.
