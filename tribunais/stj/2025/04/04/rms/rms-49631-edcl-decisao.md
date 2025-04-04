@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, embargos de declaração opostos por RITA DE CASSIA CAVALCANTI contra decisão que negou provimento ao seu recurso em mandado de segurança.
+A parte embargante repisa as alegações de seu recurso ordinário, aduzindo que "toda a documentação referente a absorção do contrato de trabalho pela CAIXEGO, a rescisão do contrato da Embargante em razão da liquidação e seu impedimento de retorno ao seu órgão de origem, estão devidamente comprovados nestes autos. Preenche assim, os requisitos ensejadores da anistia, devendo ter sua cidadania resgatada em respeito ao que determina a Lei de Anistia n. 17.916/2019" (fl. 508).
+Impugnação da parte embargada pela rejeição rejeição dos embargos.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou que:
+O Tribunal de origem entendeu que não há direito líquido e certo, comprovado nos autos, das alegações da impetrante, capaz de infirmar a legalidade do ato impugnado, anotando que "não faz jus à anistia prevista na Lei Estadual 17.916/12, por não atender aos requisitos legais, porquanto a concessão do benefício, socorre apenas os empregados da extinta Caixa Econômica do Estado de Goiás (CAIXEGO), nada se referindo àqueles que foram cedidos por empresa pública ou órgão distintos; estando patenteado nos autos que a exclusão da mesma se deu de forma diversa na narrada na exordial (perseguição política)".
+Conforme se extrai do excerto acima colacionado e do exame dos autos, a recorrente não instruiu o mandado de segurança com a documentação necessária à comprovação da existência de direito líquido e certo, e a ação mandamental impõe a comprovação do direito invocado mediante prova pré-constituída.
+Com efeito, conforme colocado pelo parecer ministerial, o art. 1º da Lei 17.916/2012, determina que serão beneficiados com a anistia os empregados permanentes da extinta Caixa Econômica do Estado de Goiás - CAIXEGO.
+Nesse contexto, competia à impetrante demonstrar que titularizava um emprego permanente naquela instituição ao tempo da liquidação. Contudo, a documentação acostada aos autos demonstra que a impetrante jamais ocupou emprego permanente na CAIXEGO, e que trabalhou ali cedida por outro órgão e por um curto período de tempo (fl. 498-499).
+No caso dos autos, não se constata na decisão ora embargada o alegado vício de omissão, revelando-se, em verdade, mero inconformismo da parte embargante, de forma que é imperiosa a rejeição dos embargos de declaração.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
