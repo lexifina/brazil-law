@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por NESTLÉ BRASIL LTDA. contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a", "b" e "c" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 398):
+MANDADO DE SEGURANÇA - APELAÇÃO - IMPORTAÇÃO E DESEMBARAÇO DE MERCADORIAS - CRÉDITO ACUMULADO OU SALDO CREDOR DE ICMS - COMPENSAÇÃO - PROCEDIMENTO PRÉVIO, NOS TERMOS DA LEI ESTADUAL Nº 6.374/1989, ARTIGO 46, DECRETO Nº 59.654/ 2013 e PORTARIAS CAT 77/09 e 24/2020, A SEREM OBSERVADOS - VALIDADE DAS CONDIÇÕES IMPOSTAS PELO FISCO - INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO-CUMULATIVIDADE TRIBUTÁRIA - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 435/440).
+No recurso especial (e-STJ fls. 445/495), a recorrente aponta violação do art. 1.022, I, II e III, e do art. 489, § 1º, IV, do CPC. Indica ofensa aos arts. 19 e 20 da Lei Complementar n. 87/1996.
+Sustenta que "o v. acórdão recorrido privilegiou atos do Governo do Estado de São Paulo quando contestados, pela Recorrente, em face da Lei Complementar Federal n. 87/96" (e-STJ fl. 465).
+Diz que há dissídio jurisprudencial "no que tange à possibilidade de o contribuinte compensar débitos de ICMS- Importação com créditos do Saldo Credor do ICMS" (e-STJ fl. 470).
+As contrarrazões foram oferecidas.
+O recurso especial não foi admitido (art. 1.030, V do CPC/2015), com base na ausência de vício de integração, na incidência da Súmula 7 do STJ e da Súmula 280 do STF e na inexistência de ato de governo local contestado, em face de lei federal (e-STJ fls. 655/656).
+No agravo em recurso especial (e-STJ fls. 659/708), o agravante reitera o vício de integração. Alega: "resta demonstrada a ausência de violação à Súmula n. 07 deste E. Superior Tribunal de Justiça, de modo que os aspectos fáticos do debate são incontroversos e foram explorados nas decisões prolatadas nos autos" (e-STJ fl. 674). Quanto à incidência da Súmula 280 do STF, afirma: "na situação em que o acórdão recorrido privilegiar as disposições contidas em ato de governo local, contestadas pela parte em face de lei federal, é cabível o Recurso Especial pela alínea "b"" (e-STJ fl. 675). Ressalta: "Dúvidas não restam  ..  de que o v. acórdão recorrido privilegiou atos do Governo do Estado de São Paulo quando contestados, pela Agravante, em face da Lei Complementar Federal n. 87/96" (e-STJ fl. 681).
+Por fim, assevera que os requisitos do dissídio jurisprudencial "foram integralmente e devidamente cumpridos pela Agravante" (e-STJ fl. 682). No mais, reitera as razões do apelo extremo.
+A contraminuta foi apresentada.
+O agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário foi desprovido (e-STJ fls. 814/819).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (e-STJ fls. 851/855).
+Passo a decidir.
+Segundo relatado anteriormente, o Tribunal de origem não admitiu o recurso especial, dentre outras razões, devido à incidência da Súmula 7 do STJ (e-STJ fls. 655/656).
+Contudo, nas razões do agravo, a agravante limita-se a sustentar, genericamente, que "resta demonstrada a ausência de violação à Súmula n. 07 deste E. Superior Tribunal de Justiça, de modo que os aspectos fáticos do debate são incontroversos e foram explorados nas decisões prolatadas nos autos" (e-STJ fl. 674).
+Em momento algum evidencia, concretamente, que a análise da tese recursal dos autos, independe do reexame fático-probatório, por exemplo, mediante a indicação das premissas fáticas estabelecidas pelas instâncias ordinárias suficientes para o julgamento do recurso.
+Sendo assim, constata-se que a parte não impugnou, específica e adequadamente, a incidência do referido enunciado.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos moldes do art. 932, III, do CPC/2015, e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar, especificamente, todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Especificamente em relação à Súmula 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão, independentemente do reexame fático-probatório, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e na sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+Reitero que, "segundo a jurisprudência do STJ, "não basta a assertiva genérica de que não se pretende o reexame de provas, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual"" (STJ, AgInt no AREsp n. 1.463.467/RJ, Relator Ministro OG FERNANDES, Segunda Turma, DJe de 29/06/2020)" (EDcl no AgInt no AREsp n. 1.694.099/SP, Relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 25/4/2022, DJe de 29/4/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
