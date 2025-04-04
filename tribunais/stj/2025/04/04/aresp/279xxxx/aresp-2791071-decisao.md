@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. IMPRESCINDIBILIDADE DA PERÍCIA SOCIAL. CONJUNTO PROBATÓRIO ROBUSTO. EXISTÊNCIA DE OUTRAS PROVAS QUE DEMONSTRAM A HIPOSSUFICIÊNCIA ECONÔMICA. INCAPACIDADE. LAUDO MÉDICO PERICIAL. CONCESSÃO. POSSIBILIDADE. TERMO INICIAL. REQUERIMENTO ADMINISTRATIVO. PRESCRIÇÃO QÜINQÜENAL. AJUIZAMENTO DA AÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 1º do Decreto n. 20.910/32; e art. 240 do CPC, no que concerne à necessidade de fixação da DIB na data da citação, nos casos em que o benefício foi indeferido/cessado mais de cinco anos antes do ajuizamento da ação (fl. 274), trazendo a seguinte argumentação:
+A Autarquia se insurge contra acórdão do Col. Tribunal que reconheceu o direito da parte autora à a quo concessão/restabelecimento do benefício pretendido, ressalvada a prescrição quinquenal das parcelas anteriores ao ajuizamento. Sustenta que, mesmo não sendo caso de extinção do feito pela prescrição, o benefício deve ser concedido tão somente a partir da citação.
+É cediço que o Supremo Tribunal Federal, na ADI nº 6.096/DF, firmou entendimento no sentido de que o decurso do tempo não fulmina o direito ao benefício previdenciário.
+O voto condutor do Ministro Edson, na ADI nº 6.096/DF, ressalta, contudo, que a Fachin inconstitucionalidade do art. 103 da Lei nº 8.213/91, com a redação da Lei nº 13.846/19, tem por objetivo apenas impedir o comprometimento do direito à obtenção do benefício previdenciário, mas não garantir o recebimento retroativo das respectivas parcelas.
+ ..
+Adotando interpretação compatível com o do Eg. STF, o Col. Superior Tribunal de Justiça, em julgamento da sua Primeira Seção ( nº 1.803.530-PE), pacificou o entendimento de que, embora a REsp prescrição quinquenal não autorize a extinção da ação judicial, impõe a fixação da DIB na data da citação.
+ ..
+Assim, diante desse precedente, foi consolidado o posicionamento jurisprudencial, com base no art. 240 do CPC, pela necessidade de fixação da DIB na data da citação, nos casos em que o benefício foi indeferido/cessado mais de cinco anos antes do ajuizamento da ação (art. 1º do Decreto nº 20.910/32).
+Na ausência de prévio requerimento administrativo (o último se encontra prescrito), é a partir da data da citação que a pretensão autoral se tornou litigiosa e se constituiu em mora o devedor (art. 240 do CPC) (fls. 272-274).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
