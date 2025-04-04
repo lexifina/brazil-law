@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por LÚCIA PINHEIRO REIS RODRIGUES, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/09/2024.
+Concluso ao gabinete em: 28/10/2024.
+Ação: declaração de quitação de dívida cumulada com indenização pelos danos materiais e compensação pelos danos morais, ajuizada por LÚCIA PINHEIRO REIS RODRIGUES, em face de BANCO PAN S/A.
+Sentença: julgou improcedentes os pedidos, ante a ausência de demonstração da ilicitude do contrato e, consequentemente, dos descontos em seu contracheque, que decorreram de contrato de cartão de crédito com margem consignável regular que deve ser declarado válido e apto a produzir todos os efeitos legais, o que configura excludente de responsabilidade (art. 14, § 3º, inciso I, do CDC c/c art. 188, inciso I, do CC) e afasta o pedido de nulidade contratual, restituição dos valores descontados e de indenização pelos danos morais. Por fim, condenou a parte agravante ao pagamento das custas e dos honorários, ficando fixados em 10% sobre o valor da causa, suspensa a exigibilidade de tais verbas em razão da concessão do benefício da Justiça gratuita. (e-STJ fls. 581/588)
+Acórdão: não conheceu do agravo interno interposto pela parte agravante, nos termos da seguinte ementa:
+"Agravo Interno em Apelação Cível. Ação declaratória de inexistência de débito cumulada com pedido do indébito e indenização por danos morais. Tese fixada em IRDR. Inexistência de distinção. Art. 643, caput, do RITJMA. Não conhecimento. Recurso manifestamente inadmissível. Multa.
+1. O art. 643, caput, do Regimento Interno deste Tribunal de Justiça estabelece que "Não cabe agravo interno da decisão monocrática do relator com base no art. 932, IV, c e V, c, do Código de Processo Civil, salvo se demonstrada a distinção entre a questão controvertida nos autos e a que foi objeto da tese firmada em incidente de resolução de demandas repetitivas ou de assunção de competência."
+2. Observo que a agravante não logrou demonstrar a distinção entre a questão discutida nos autos a que foi objeto de análise no incidente, limitando-se a requerer a reforma da decisão proferida.
+3. Em atendimento ao art. 1.021, § 4º do CPC e ao art. 641, § 4º do RITJMA, aplico multa de 2% (dois por cento) sobre o valor da causa, visto que a insurgência da agravante contrariou precedente firmado em sede de IRDR (arts. 927 e 985, CPC; AgInt no REsp 1.718.408/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/10/2019, DJe 24/10/2019).
+4. Agravo interno não conhecido." (e-STJ fls. 1136/1147)
+Embargos de Declaração: opostos, pela parte agravante, foram rejeitados. (e-STJ fls. 1175/1187)
+Recurso especial: alega violação dos arts. 985, 1.022. II, 1.026, § 2º, CPC, 6º, III, IV, 39, V, 47, 51, IV, 52, Lei 8.078/90, Tema 1075/STF, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) a reconsideração das multas impostas à parte recorrente é necessária para garantir a justiça equitativa e proporcional, respeitando-se, assim, a condição de beneficiária da justiça gratuita; e, ii) claramente houve violação do IRDR fixado pela Corte local, eis que, embora a decisão tenha até mesmo mencionado este em sua fundamentação, houve aplicação deveras errônea, tendo se limitado tão somente à existência de assinatura da parte recorrente e registro de supostas compras realizadas; e, iii) a Corte local deu interpretação diversa aos artigos tidos por violados no tocante à legislação consumerista, além de fugir do conteúdo constante do apelo, merecendo ser anulado, a fim de que os termos da Apelação sejam debatidos corretamente; e, iv) resta violada a decisão fixada em ACP, eis que, nos termos do art. 93, inciso II do CDC c/c art. 16 da Lei nº. 7.347/85 (Lei da Ação Civil Pública), a decisão prolatada em sede de Ação Coletiva possui efeito erga omnes de competência nacional, conforme decidido pelo Supremo Tribunal Federal (STF); e, v) não há justificativa para a parte recorrente ser condenada em multa, conforme previsto no art. 1026, § 2º do CPC. (e-STJ fls. 1188/1229)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de tema
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca das condições estabelecidas entre as partes no momento da contratação, inclusive sobre as informações prestadas pela parte agravada, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 985, 1.026, § 2º, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 6º, III, IV, 39, V, 47, 51, IV, 52, Lei 8.078/90, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fl. 1014) para 20%, observada a concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE QUITAÇÃO DE DÍVIDA CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE TEMA. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de declaração de quitação de dívida cumulada com indenização por danos materiais e compensação por danos morais.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
