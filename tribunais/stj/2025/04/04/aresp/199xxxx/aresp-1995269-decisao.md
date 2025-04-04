@@ -1,0 +1,48 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TAC (TERMO DE AJUSTAMENTO DE CONDUTA). REGULARIZAÇÃO DO PORTAL DA TRANSPARÊNCIA. OBRIGAÇÃO ASSUMIDA PELO MUNICÍPIO DE PARANACITY, REPRESENTADO PELA PREFEITA MUNICIPAL NA GESTÃO. EX PREFEITA QUE NÃO PODE SER RESPONSABILIZADA POR ATO DESCUMPRIDO NA GESTÃO SEGUINTE. ILEGITIMIDADE PASSIVA CONFIGURADA. RECURSO PROVIDO.
+Os embargos de declaração foram rejeitados.
+Em seu recurso especial, o agravante alegou violação dos arts. 1.022, II, e 779, I, do CPC/2015, o que não foi admitido, por ausência de vício de fundamentação, e por ter sido a decisão recorrida proferida com escopo em fundamento constitucional.
+Em suas razões de agravo, sustentou o preenchimento dos requisitos de admissibilidade do recurso especial. Disse que foi usurpada a competência do STJ. Reiterou a deficiência da prestação jurisdicional. E aduziu a infraconstitucionalidade da controvérsia posta no apelo especial.
+O agravo em recurso especial foi apreciado, resultando no não conhecimento do apelo por esta Corte de Justiça, ao argumento de que a controvérsia possui natureza constitucional.
+Em virtude de recurso extraordinário, os autos foram remetidos ao Supremo Tribunal Federal, que definiu que a questão posta nos autos deve ser solucionada à luz de preceito infraconstitucional, devolvendo o processo ao STJ, nos termos do art. 1.033 do CPC/2015.
+É o relatório.
+Passo a decidir.
+A despeito do entendimento esposado no Superior Tribunal de Justiça, no sentido de que a decisão de origem foi proferida com arrimo em preceito constitucional, curvo-me à compreensão do Supremo Tribunal Federal e passo ao exame do recurso extraordinário, ora recebido como apelo especial, observado que as razões de não admissibilidade do recurso extremo foram afastadas pela Corte Suprema, que delimitou, nos seguintes termos, a questão jurídica a ser analisada: "definir a legitimidade passiva pessoal da ex-prefeita para responder pelo descumprimento de referido TAC" (fl. 419).
+A irresignação comporta provimento.
+A jurisprudência do STJ acolhe a racionalidade de que a cominação de multa pode ser direcionada não apenas ao ente estatal, mas também pessoalmente às autoridades ou aos agentes responsáveis pelo cumprimento das determinações judiciais.
+Nesse sentido:
+PROCESSUAL CIVIL. NEGATIVA DE TUTELA JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE FAZER E MULTA COMINATÓRIA. IMPOSIÇÃO DE OFÍCIO PELO JUIZ. PODER GERAL DE EFETIVAÇÃO DA DECISÃO JUDICIAL. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA. APLICAÇÃO EM DESFAVOR DO AGENTE PÚBLICO. POSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. QUANTUM DA SANÇÃO E INSUFICIÊNCIA DO PRAZO ASSINALADO PARA CUMPRIMENTO DA DECISÃO. REVISÃO. SÚMULA 7 DO STJ. APLICAÇÃO.
+(..)
+3. O Superior Tribunal de Justiça, sob o rito dos recursos representativos da controvérsia, firmou a compreensão de que o § 5º do art. 461 do CPC/1973 permite ao juiz que, diante do caso concreto, adote qualquer medida que se revele necessária à satisfação do bem da vida almejado pelo jurisdicionado. Trata-se do "poder geral de efetivação", concedido ao juiz para dotar de efetividade as suas decisões (REsp 1.474.665/RS, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe 22/06/2017).
+4. É possível ao juiz, de ofício ou a requerimento da parte, fixar multa diária cominatória (astreintes), ainda que contra a Fazenda Pública, em caso de descumprimento de obrigação de fazer, "independentemente de requerimento do autor", pois, nos termos do art. 11 da Lei n. 7.437/1985, "a hipótese de imposição de astreintes é ope legis e, em consequência, obrigatória, caso paire a mínima dúvida sobre o acatamento voluntário futuro da decisão judicial" (REsp 1.723.590/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 08/05/2018, DJe 26/11/2018).
+5. Hipótese em que o Tribunal de origem, ancorado naquele preceito do CPC/1973 e no âmbito do processo coletivo, afastou a alegação de julgamento extra petita, ao fundamento de que, embora inexistisse pedido expresso para fiscalizar outros empreendimentos, essas providências (obrigação de fazer) foram impostas para "evitar os loteamentos irregulares", com o fito de "garantir a efetivação de tutela especifica ou a obtenção do resultado prático equivalente".
+6. O art. 11 da Lei n. 7.347/85 autoriza o imposição de multa cominatória não apenas ao ente estatal "mas também pessoalmente às autoridades ou aos agentes públicos responsáveis pela efetivação das determinações judiciais" (REsp 1.111.562/RN, Rel. Ministro CASTRO MEIRA, Segunda Turma, julgado em 25/08/2009, DJe 18/09/2009).
+(..)
+11. Agravo interno desprovido (AgInt no AgInt no REsp 1.430.917/RN, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 12/12/2019).
+ADMINISTRATIVO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. EXECUÇÃO DE MULTA DIÁRIA IMPOSTA À PRÓPRIA AUTORIDADE COATORA E AO ENTE FEDERATIVO. LEGITIMIDADE PASSIVA AD CAUSAM DO AGENTE PÚBLICO.
+1. Conforme jurisprudência deste Tribunal Superior, inexiste óbice a que
+as astreintes possam também recair sobre a autoridade coatora recalcitrante que, sem justo motivo, cause embaraço ou deixe de dar cumprimento à decisão judicial proferida no curso da ação mandamental.
+2. Assim, o agente público que participou da relação processual mandamental detém legitimidade para figurar no polo passivo da pretensão que visa à execução das astreintes.
+3. Agravo interno não provido (AgInt no REsp 1.405.170/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 18/6/2019).
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PRESTAÇÃO DE MEDICAMENTO. ASTREINTES. POSSIBILIDADE.
+1. É possível a fixação de astreintes em mandado de segurança, inexistindo óbice à sua imposição sobre a autoridade coatora se esta, sem justo motivo, causar embaraço ou deixar de cumprir a obrigação de fazer. Precedentes.
+2. Na hipótese, a insurgência limita-se apenas ao cabimento da medida nessa ação. Por isso, deverá a instância inferior avaliar sua necessidade e a configuração dos requisitos legais.
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1.703.807/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/8/2018).
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. IMPOSIÇÃO DE MULTA DIÁRIA À PRÓPRIA AUTORIDADE COATORA. POSSIBILIDADE. APLICAÇÃO SUBSIDIÁRIA DO ART. 461, §§ 4º e 5º DO CPC. RECURSO ESPECIAL DO ESTADO DESPROVIDO.
+1. É pacífica, no STJ, a possibilidade de aplicação, em mandado de segurança, da multa diária ou por tempo de atraso prevista no art. 461, §§ 4º e 5º do CPC. Precedentes.
+2. Inexiste óbice, por outro lado, a que as astreintes possam também recair sobre a autoridade coatora recalcitrante que, sem justo motivo cause embaraço ou deixe de dar cumprimento a decisão judicial proferida no curso da ação mandamental.
+3. Parte sui generis na ação de segurança, a autoridade impetrada, que se revele refratária ao cumprimento dos comandos judiciais nela exarados, sujeita-se, não apenas às reprimendas da Lei nº 12.016/09 (art. 26), mas também aos mecanismos punitivos e coercitivos elencados no Código de Processo Civil (hipóteses dos arts. 14 e 461, §§ 4º e 5º).
+4. Como refere a doutrina, "a desobediência injustificada de uma ordem
+judicial é um ato pessoal e desrespeitoso do administrador público; não está ele, em assim se comportando, agindo em nome do órgão estatal, mas sim, em nome próprio" (VARGAS, Jorge de Oliveira. As consequências da desobediência da ordem do juiz cível. Curitiba: Juruá, 2001, p. 125), por isso que, se "a pessoa jurídica exterioriza a sua vontade por meio da autoridade pública, é lógico que a multa somente pode lograr o seu objetivo se for imposta diretamente ao agente capaz de dar atendimento à decisão jurisdicional" (MARINONI, Luiz Guilherme. Técnica processual e tutela dos direitos. São Paulo: RT, 2004, p. 662).
+5. Recurso especial a que se nega provimento (REsp 1.399.842/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 3/2/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REVISÃO DE PENSÃO. DEFERIMENTO DE LIMINAR. MULTA DIÁRIA DIRECIONADA À AUTORIDADE IMPETRADA. POSSIBILIDADE.
+1. A questão nos autos indaga saber se pode a multa cominatória ser direcionada ao agente público que figura como impetrado na ação mandamental.
+2. Segundo o Tribunal de origem, "a imposição da multa pessoal cominada ao Presidente do RIOPREVIDENCIA, vez que em consonância com o parágrafo único do art. 14 do CPC,  ..  tem por finalidade reprimir embaraços a efetivação do provimento judicial".
+3. A cominação de astreintes pode ser direcionada não apenas ao ente estatal, mas também pessoalmente às autoridades ou aos agentes responsáveis pelo cumprimento das determinações judiciais. (Precedente: REsp 1111562/RN, da relatoria do Ministro CASTRO MEIRA, SEGUNDA TURMA, publicado em 18/09/2009).
+4. Agravo regimental não provido (AgRg no AREsp 472.750/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 9/6/2014).
+Sendo assim, não há que se falar em ilegitimidade passiva da prefeita para responder por multa derivada do não cumprimento de Termo de Ajustamento de Conduta por si firmado, desde que limitada ao período de exercício do mandato, o que será esclarecido ao longo do processo principal.
+Isso posto, dou provimento ao recurso para restaurar a decisão de primeira instância, rejeitando a exceção de pré-executividade.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Intimem-se.
+ EMENTA
