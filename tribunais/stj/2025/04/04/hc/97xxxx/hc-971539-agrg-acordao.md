@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus de ofício. Tráfico de drogas. Redução de pena. Agravo REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público contra decisão que não conheceu do habeas corpus, mas concedeu a ordem de ofício para redimensionar a pena de condenado por tráfico de drogas, aplicando a causa de diminuição de pena do tráfico privilegiado no grau máximo.
+2. Fato relevante. O paciente foi condenado à pena de 4 anos de reclusão, substituída por duas penas restritivas de direitos, e multa, pela prática do delito de tráfico de drogas, com aplicação da minorante do tráfico privilegiado na fração de 1/5.
+3. As decisões anteriores. A liminar foi indeferida e o habeas corpus não foi conhecido, mas a ordem foi concedida de ofício para modificar a fração da privilegiadora e alterar as penas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a quantidade e a natureza das drogas apreendidas justificam a aplicação da minorante do tráfico privilegiado em grau inferior ao máximo legal.
+III. Razões de decidir
+5. A quantidade e a natureza do material apreendido não se mostram significativas para amparar a não aplicação da minorante na fração de 2/3.
+6. A dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando evidenciada flagrante ilegalidade.
+7. A jurisprudência desta Corte admite a aplicação da minorante do tráfico privilegiado no grau máximo quando a quantidade de droga apreendida é pequena e o réu é primário, com bons antecedentes.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A quantidade e a natureza das drogas apreendidas devem ser consideradas na aplicação da minorante do tráfico privilegiado, mas não justificam a aplicação em grau inferior ao máximo quando não significativas. 2. A revisão da dosimetria da pena em habeas corpus é possível apenas em casos de flagrante ilegalidade."
+Dispositivos relevantes citados: CPP, art. 647-A; Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, HC 356.882/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 28.06.2016; STJ, AgRg no AREsp 451.358/RS, Rel. Min. Laurita Vaz, Quinta Turma, julgado em 18.03.2014.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão, às fls. 97-101 que não conheceu do habeas corpus impetrado em favor de MARCIO PADILHA PEREIRA, mas concedeu a ordem, de ofício, para redimensionar sua pena para 01 (um) ano e 08 (oito) meses de reclusão, e multa pecuniária equivalente a 166 (cento e sessenta e seis) dias-multa, no regime inicial aberto.
+Depreende-se dos autos que o paciente foi condenado à pena de 4 (quatro) anos de reclusão, substituída por duas penas restritivas de direitos, e multa, pela prática do delito capitulado no art. 33, § 4º, da Lei n. 11.343/2006.
+Daí o presente habeas corpus, no qual a defesa sustenta que há constrangimento ilegal, porquanto inexiste fundamentação idônea para não se aplicar o patamar máximo de redução de pena referente à minorante do tráfico privilegiado, considerando que a quantidade ou variedade da droga não é fundamento suficiente para afastar a incidência da minorante ou modular a fração a ser aplicada. Postulou, em resumo, a aplicação da redutora do tráfico privilegiado em sua fração máxima, bem como a readequação da pena aplicada.
+A liminar foi indeferida (fls. 57-58) e, posteriormente, o habeas corpus não foi conhecido, mas concedida, de ofício, a ordem para modificar a fração da privilegiadora e modificar as penas, decisão objeto do presente agravo (fls. 97-101)
+Nas razões, o Agravante postula o restabelecimento do acórdão do Tribunal a quo, no que diz com a fração da redutora, argumentando que "essa Colenda Corte assentou a possibilidade de a quantidade, variedade e natureza dos entorpecentes apreendidos, precipuamente quando conjugados às demais circunstâncias do caso concreto, subsidiarem a aplicação da redutora em grau inferior ao máximo legal" (fls. 131-137).
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus de ofício. Tráfico de drogas. Redução de pena. Agravo REGIMENTAL desprovido.
+I. Caso em exame
+1. Agravo regimental interposto pelo Ministério Público contra decisão que não conheceu do habeas corpus, mas concedeu a ordem de ofício para redimensionar a pena de condenado por tráfico de drogas, aplicando a causa de diminuição de pena do tráfico privilegiado no grau máximo.
+2. Fato relevante. O paciente foi condenado à pena de 4 anos de reclusão, substituída por duas penas restritivas de direitos, e multa, pela prática do delito de tráfico de drogas, com aplicação da minorante do tráfico privilegiado na fração de 1/5.
+3. As decisões anteriores. A liminar foi indeferida e o habeas corpus não foi conhecido, mas a ordem foi concedida de ofício para modificar a fração da privilegiadora e alterar as penas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a quantidade e a natureza das drogas apreendidas justificam a aplicação da minorante do tráfico privilegiado em grau inferior ao máximo legal.
+III. Razões de decidir
+5. A quantidade e a natureza do material apreendido não se mostram significativas para amparar a não aplicação da minorante na fração de 2/3.
+6. A dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando evidenciada flagrante ilegalidade.
+7. A jurisprudência desta Corte admite a aplicação da minorante do tráfico privilegiado no grau máximo quando a quantidade de droga apreendida é pequena e o réu é primário, com bons antecedentes.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. A quantidade e a natureza das drogas apreendidas devem ser consideradas na aplicação da minorante do tráfico privilegiado, mas não justificam a aplicação em grau inferior ao máximo quando não significativas. 2. A revisão da dosimetria da pena em habeas corpus é possível apenas em casos de flagrante ilegalidade."
+Dispositivos relevantes citados: CPP, art. 647-A; Lei nº 11.343/2006, art. 33, § 4º.
+Jurisprudência relevante citada: STJ, HC 356.882/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 28.06.2016; STJ, AgRg no AREsp 451.358/RS, Rel. Min. Laurita Vaz, Quinta Turma, julgado em 18.03.2014.
+VOTO
+Não obstante os argumentos do recorrente, o recurso de agravo regimental não merece prosperar
+De início, registre-se que o art. 647-A do Código de Processo Penal permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção. Veja-se:
+"Art. 647-A. No âmbito de sua competência jurisdicional, qualquer autoridade judicial poderá expedir de ofício ordem de habeas corpus, individual ou coletivo, quando, no curso de qualquer processo judicial, verificar que, por violação ao ordenamento jurídico, alguém sofre ou se acha ameaçado de sofrer violência ou coação em sua liberdade de locomoção. (Incluído pela Lei n. 14.836, de 2024)
+Parágrafo único. A ordem de habeas corpus poderá ser concedida de ofício pelo juiz ou pelo tribunal em processo de competência originária ou recursal, ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal. (Incluído pela Lei n. 14.836, de 2024)."
+A ilegalidade passível de justificar a impetração de habeas corpus substitutivo deve ser manifesta, de constatação evidente, o que ocorreu na espécie.
+Na origem, foi aplicado o redutor do tráfico privilegiado, previsto no artigo 33, §4º, da Lei de Drogas, na fração de 1/5, com base na seguinte fundamentação (fls. 23-25):
+"Já na derradeira etapa, presente a minorante do § 4º, do art. 33, da Lei de Drogas.
+E, neste aspecto, ressalto que inexiste indicação, pelo legislador, de balizas para a fração da redução aludida, existindo, tão somente, apontamentos mínimo (1/6) e máximo (2/3) de arrefecimento.
+Necessário, então, dosar o quantum de redução em razão da privilegiadora do crime de tráfico de drogas reconhecida. E, neste aspecto, após muito refletir sobre o tema, embora não defenda que o melhor a ser seguido em matéria de aplicação de pena sejam critérios matemáticos estanques em razão da necessidade de observância das particularidades de cada caso concreto, entendo por bem referenciar algumas balizas, assim como vem sendo realizado pelas Cortes Superiores, a fim de impingir a necessária segurança jurídica exigível ao julgador.
+Sendo assim, pautado nos inafastáveis princípios da proporcionalidade e da suficiência, em atenção à necessária retribuição ao injusto cometido e em máxima atenção à razoabilidade, passo a aplicar alguns critérios para dosar o arrefecimento da sanção. Sendo assim, nos casos em que houver apenas a apreensão de uma substância entorpecentes, em pouca quantidade a depender de sua natureza -entenda-se até 100g de maconha, 05 porções de cocaína ou até 05 pedras de crack -, reconheço a possibilidade de aplicação da fração máxima de redução da privilegiadora em questão - 2/3 -, desde que não haja a apreensão conjugada de tóxicos.
+Em havendo conjugação de drogas apreendidas, em quantidades que não possam ser consideradas ínfimas, mas que também não se revelem de grande monta, o quantum de redução ideal passa a ser próximo de 1/2.
+Já nos casos em que haja variedade de entorpecentes - maconha, crack e cocaína conjuntamente apreendidos, por exemplo - ,demonstrativos de maior incursão do acusado na mercancia dos tóxicos, afixação do quantum se aproximará ou atingirá o patamar mínimo, qual seja, 1/6.
+Assim, a fixação do quantum de redução deverá sempre observaras circunstâncias do caso concreto, a depender da quantidade de drogas apreendidas e de sua natureza deletéria, tudo visando a atender a necessária observância ao princípio da isonomia e à primordial retribuição do ilícito praticado.
+Assentadas tais premissas e retornando ao exame do caso concreto, em que foram apreendidas 10 porções de maconha, pesando 19 gramas, 150 pedras de crack, pesando 20 gramas, e 2 pinos de cocaína, em atenção aos parâmetros acima destacados, aplico o quantum de redução pela privilegiadora prevista no § 4º do art. 33 da Lei nº 11.343/2006 no patamar de 1/5, conforme arbitrado pelo juízo sentenciante, e, assim, na ausência de outras causas modificativas, estabilizo a sanção definitiva em 04 (quatro) anos de reclusão."
+Cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório
+Não se desconhece a orientação desta Corte de que a quantidade e a natureza da droga apreendida constituem elementos aptos a justificar a não aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, no seu patamar máximo.
+Contudo, na espécie, tenho que a quantidade e a natureza do material apreendido - 20g de crack, 19g de maconha e 2 pinos de cocaína - não se mostram significativas para amparar a não aplicação da minorante na fração de 2/3 (dois terços).
+A propósito, confiram-se:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. APLICABILIDADE. PEQUENA QUANTIDADE DE DROGA APREENDIDA. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. RÉU PRIMÁRIO E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. POSSIBILIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício. 2. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de 1/6 (um sexto) a 2/3 (dois terços), quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+3. Segundo o art. 42 da Lei de Drogas, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente". 4. No caso, ao contrário do firmado pelo Tribunal de origem, entende-se que a quantidade do entorpecente apreendido - 21 invólucros de maconha (40,5g) - não se mostra elevada, fazendo jus o paciente à aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 no grau máximo, sobretudo quando considerada sua primariedade, bons antecedentes e a ausência, no caso concreto, de elementos indicativos de que integre organização criminosa ou de que se dedique à criminalidade.
+4.  ..
+5. Estabelecida a pena definitiva em 1 ano e 8 meses de reclusão, verificada a primariedade da agente e sendo favoráveis as circunstâncias judiciais, o cumprimento inicial em regime aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal.
+6. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritiva de direitos.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para aplicar a causa de diminuição de pena do art. 33, § 4º, da Lei n.11.343/06 no grau máximo (2/3), tornando a pena definitiva da paciente em 1 ano e 8 meses de reclusão, a ser cumprida em regime aberto, mais o pagamento de 166 diasmulta, substituída, ainda, a sanção corporal por pena restritiva de direitos, a ser fixada pelo Juízo da execução" (HC n. 356.882/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/6/2016, DJe 3/8/2016, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE DROGAS. ALTERAÇÃO DO QUANTUM DE REDUÇÃO PELA MINORANTE PREVISTA NO § 4.º DO ART. 33 DA LEI N.º 11.343/2006. PEQUENA QUANTIDADE DE DROGA (10,30G DE COCAÍNA). PATAMAR MÁXIMO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Fixada a pena-base no mínimo legal e apreendida pequena quantidade de droga (10,30 gramas de cocaína), legítima é a aplicação da minorante (art. 33, § 4º, da Lei nº 11.343/2006) pelo seu máximo, ou seja, dois terços. Precedentes.
+2. No mais, o Agravante não traz argumentos robustos o bastante a fim de repelir os fundamentos da decisão agravada, que deve ser mantida por seus próprios termos.
+3. Agravo regimental desprovido" (AgRg no AREsp n. 451.358/RS, relatora Ministra Laurita Vaz, Quinta Turma, julgado em 18/3/2014, DJe 28/3/2014, grifei ).
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
