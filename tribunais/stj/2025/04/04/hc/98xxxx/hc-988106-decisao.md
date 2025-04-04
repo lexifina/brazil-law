@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ROSIMEIRE BAPTISTA SIMÕES, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que a paciente foi presa em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei 11.343/2006 - apreensão de 1 (um) tablete de pasta de cocaína, pesando 508 gramas e 29.000 tubetes vazios, comumente utilizados para o acondicionamento. Na audiência de custódia o Juiz a quo concedeu a liberdade provisória, sem fiança, com imposição de medidas cautelares.
+Contra esta decisão, o Ministério Público Estadual interpôs o Recurso em Sentido Estrito, bem como a presente medida cautelar inominada, buscando a concessão de efeito efeito suspensivo ativo àquele recurso. O Tribunal julgou procedente o recurso e decretou a prisão preventiva da paciente em acórdão de fls. 30-43.
+No presente writ, a defesa alega que a prisão preventiva decretada pelo Tribunal de Justiça do Estado de São Paulo é arbitrária, fundamentada em afirmações genéricas e hipotéticas sobre a gravidade do delito de tráfico de drogas, sem elementos concretos que justifiquem a medida (fls. 5-6), defendendo que a paciente ostenta condições pessoais favoráveis.
+Argumenta que a prisão preventiva é desproporcional e que existem medidas cautelares alternativas à prisão que melhor se adequam à situação da paciente, uma vez que o crime imputado não foi cometido com violência ou grave ameaça à pessoa (fls. 10, 23).
+Requer a revogação da prisão preventiva, ou subsidiariamente, a aplicação de medidas cautelares previstas no art . 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 102-103.
+As informações foram prestadas às fls. 109-112 e 113-134. O  Ministério  Públ ico  Federal,  às  fls.  136-137,  manifestou pela denegação da ordem.
+É  o  relatório. DECIDO.
+A análise do acórdão impugnado que decretou a prisão preventiva permite a conclusão de que a prisão cautelar imposta a Paciente encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública, notadamente em razão da grande quantidade de droga apreendida:apreensão de 1 (um) tablete de pasta de cocaína, pesando 508 gramas, circunstância apta a ensejar a manutenção da segregação cautelar.
+A propósito:
+"A jurisprudência desta Corte sustenta a manutenção da prisão preventiva em casos de grande quantidade de drogas e risco à ordem pública"(RHC n. 192.177/PR, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 5/11/2024, DJe de 25/11/2024.)
+"A exorbitante quantidade de droga apreendida em poder do agente evidencia a gravidade concreta da conduta e se revela como motivo idôneo e apto a embasar o decreto prisional"(AgRg no RHC n. 200.130/MG, relator Ministro Og Fernandes, Sexta Turma, julgado em 27/11/2024, DJe de 2/12/2024.)
+Nesse mesmo sentido, confiram-se alguns precedentes: AgRg no HC n. 954.171/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/11/2024, DJe de 3/12/2024; (AgRg no HC n. 940.908/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/11/2024, DJe de 2/12/2024; AgRg no RHC n. 196.021/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 3/6/2024; AgRg no RHC n. 193.763/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 12/4/2024.
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem a paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
