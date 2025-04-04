@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA JAKELINE SILVA DOS SANTOS, com apoio na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS.
+Consta nos autos que a recorrente foi condenada a 5 (cinco) anos de reclusão, em regime semiaberto, e 500 (quinhentos) dias-multa (fls. 835-826), pelo delito de tráfico de drogas.
+O Tribunal de justiça de origem deu parcial provimento à apelação da defesa para compensar a reincidência com a confissão espontânea, redimensionando as penas aos montantes de 4 (quatro) anos e 2 (dois) meses de reclusão, em regime semiaberto, e 417 (quatrocentos e dezessete) dias-multa (fls. 933-935).
+Os embargos de declaração da defesa foram acolhidos, sem efeitos infringentes, para reconhecer o redutor da pena e fixá-lo na fração de 1/6 (um sexto) (fls. 971-975).
+Os embargos de declaração da defesa, de fls. 982-990, também foram acolhidos sem efeitos infringentes para fundamentar a fixação do redutor da pena em 1/6 (um sexto) (fls. 1004-1008).
+Nas razões do recurso especial, a defesa aponta violação ao art. 33, § 4º, da Lei de Drogas (fls. 944), alegando, em suma, ter sido fixada a redução mínima da pena sem fundamentação concreta para tanto (fls. 946-948).
+A acusação apresentou contrarrazões às fls. 1019-1023. O recurso especial foi admitido (fls. 1026-1029).
+O Ministério Público Federal opinou pelo provimento do recurso especial (fls. 1051-1058).
+É o relatório. DECIDO.
+Preenchidos os requisitos legais, conheço do recurso especial.
+A controvérsia trazida ao conhecimento e apreciação desta Corte diz respeito à fixação do redutor da pena na fração mínima sem fundamentação concreta para tanto (fls. 946-948).
+O Tribunal de justiça estadual pronunciou-se nestes termos acerca da fração de redução da pena (fls. 1006-1007, grifei):
+"12. Em exame dos autos, especialmente da denúncia (fls. 1-4), colhe-se que a embargante "seria a pessoa de confiança de BERINHO no comando do tráfico de drogas nos bairros Vila João XXIII, Alagadinho e Vila Maria, todos no Município de Palmeira dos Índios, sendo a responsável pelo transporte da droga até o referido Município".
+13. Já na instrução processual, quando da oitiva de testemunhas, colhe-se do depoimento de Edson da Silva, vulgo escurinho, que a embargante voltou de goiânia "aconteceu uns fatos envolvendo um homicídio e que acredita que ela teve participação em ter mandado". Além daquele prestado pelo policial Marquesan Barreto de Morais, de que ela era uma das pessoas ligadas ao tráfico de drogas da região.
+14. Além disso, vê-se que a embargante se dedica às atividades ilícitas, especialmente considerando informações dos autos de que ela responde a outros processos, sendo alvo de outras investigações criminais (fl. 91).
+15. Desta forma, na esteira do STJ, levando em consideração as circunstâncias do caso concreto, sobretudo a prática do tráfico de drogas, tendo noticia de que comanda algumas regiões e, ainda, notícias de outras práticas delitivas em seu desfavor, revela-se suficiente a aplicação do patamar de 1/6 (um sexto)."
+Decorre das transcrições que o Tribunal de justiça de origem fixou a redução da pena em 1/6 (um sexto) em razão de notícias de ser a recorrente a pessoa de confiança do agente que comanda o tráfico de drogas em dois bairros do Município de Palmeira dos Índios, sendo, inclusive, responsável pelo transporte da droga até esse município; e pelo fato de ela responder a outros processos .
+Verifico, conforme aponta a Defesa, a inidoneidade da fundamentação utilizada para aplicação da fração mínima da causa de diminuição de pena do tráfico privilegiado com base na suposta dedicação à atividade criminosa. Isso porque, nos presentes autos, a recorrente foi absolvida das acusações de associação para o tráfico e de organização criminosa. Ademais, a decisão judicial fundamentou a escolha da fração mínima com base na existência de processos em curso, o que contraria a jurisprudência deste Egrégio Tribunal Superior.
+Com efeito, é entendimento consolidado que a existência de ações penais em curso, sem trânsito em julgado, não constitui fundamento idôneo para afastar ou modular a fração de diminuição prevista no § 4º do art. 33 da Lei de Drogas, sob pena de violação ao princípio constitucional da presunção de inocência.
+Mutatis mutandis, a Terceira Seção, recentemente, em decisão unânime, quando do julgamento do EAREsp n. 1.852.098/AM, DJe de 03/11/2021, de relatoria do Ministro Joel Ilan Paciornik, chancelou entendimento no sentido de se considerar "inidôneo o afastamento da referida causa de diminuição de pena com base apenas em ações penais em andamento, em atenção ao princípio constitucional da presunção de não culpabilidade".
+Confira-se, por oportuno, a ementa do acórdão:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/06. TRÁFICO PRIVILEGIADO. CAUSA DE DIMINUIÇÃO DE PENA QUE NÃO PODE SER AFASTADA APENAS COM BASE NO FATO DO SENTENCIADO POSSUIR AÇÕES PENAIS EM ANDAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No acórdão paradigma, consignou-se que ações penais em andamento justificam, de forma idônea, o afastamento do art. 33, § 4º, da Lei n. 11.343/06.
+2. No acórdão embargado, por seu turno, adotou-se posicionamento contrário, em razão de precedentes de ambas as Turmas do SUPREMO TRIBUNAL FEDERAL  STF considerarem inidôneo o afastamento da referida causa de diminuição de pena com base apenas em ações penais em andamento, em atenção ao princípio constitucional da presunção de não culpabilidade.
+3. Consoante precedentes, verifica-se nesta Corte a adesão ao posicionamento advindo do STF, ou seja, a existência de ações penais em andamento não justifica a conclusão de que o sentenciado se dedica às atividades criminosas para fins de obstar a aplicação do art. 33, §4º, da Lei n. 11.343/06.
+4. Agravo Regimental desprovido" (AgRg no EAREsp n. 1.852.098/AM, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 03/11/2021)
+No caso, ainda, o Parquet consignou que, "embora a folha de antecedentes da recorrente registre o inquérito Policial 2401/2017, com o fim de apurar crime de homicídio, vê-se que a recorrente foi absolvida pela referida imputação nos autos n. 0701330-26.2017.8.02.0046 (Art. 121, § 2º, incisos I, II, IV do CPB), cujo trânsito em julgado ocorreu em 02/05/2019, o que impede que esse registro fulgure nas razões para afastar a aplicação máxima da minorante do tráfico privilegiado" (fls.1.055).
+Diante da ausência de fundamentação idônea e concreta para justificar a redução da pena na fração mínima, estabeleço o quantum equivalente a 2/3 (dois terços).
+Nesse sentido:
+" ..
+6. A quantidade e a natureza da droga apreendida, isoladamente, nem mesmo meras presunções de dedicação ao tráfico, não afastam a redutora do art. 33, § 4º, da Lei n. 11.343/2006, sendo aplicável a minorante da pena na fração de 2/3.
+ ..
+Tese de julgamento:  ..  2. A quantidade e a natureza das drogas apreendidas, isoladamente, nem mesmo meras presunções de dedicação ao tráfico, não afastam a aplicação da redutora do art. 33, § 4º, da Lei n. 11.343/2006.  .. " (AgRg no AREsp n. 2.851.524/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.).
+Dessa feita, estando o acórdão prolatado pelo Tribunal a quo em desconformidade com o entendimento desta Corte de Justiça quanto aos temas, incide, no caso o enunciado da Súmula n.º 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Necessário, portanto, refazer a dosimetria da pena.
+Na primeira fase, mantenho a pena-base ao mínimo de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa (fls. 835).
+Na segunda fase, ausentes agravante ou atenuante (fls. 836), as punições ficam mantida em 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na terceira fase, reconheço a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/2006, na fração máxima de 2/3 (dois terços), e fixo a pena definitiva em 1 (um) ano e 8 (oito) meses de reclusão, e a 166 (cento e sessenta e seis) dias-multa, no regime aberto.
+Por fim, fixo o regime aberto e substituo a pena corporal por duas restritivas de direitos por se tratar de ré tecnicamente primária, sem maus antecedentes, e com a fixação da pena-base no mínimo legal.
+Nessa mesma direção:
+" ..
+6. A primariedade dos recorrentes e a pequena quantidade de droga apreendida corroboram para a aplicação do redutor do tráfico privilegiado, com a fixação de regime inicial aberto e substituição da pena privativa de liberdade por restritivas de direitos.
+IV. Dispositivo e tese7. Recurso provido para afastar o vetor do art. 42 da Lei de Drogas da pena-base e aplicar a minorante do tráfico privilegiado em 2/3, redimensionando as penas finais para 01 ano e 08 meses de reclusão, em regime aberto, com substituição por penas restritivas de direito.
+ .. " (REsp n. 2.052.165/MT, relatora Ministra Daniela Teixeira, relator para acórdão Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/3/2025, DJEN de 20/3/2025.).
+Ante o exposto, nos termos do art. 255, § 4º, inciso III, do RISTJ, CONHEÇO e DOU PROVIMENTO ao recurso especial para fixar a redução da pena do crime de tráfico de drogas na fração de 2/3 (dois terços), de acordo com o redimensionamento das sanções realizado acima, determinando a conversão da reprimenda corporal em duas restritivas de direitos, a serem definidas pelo juízo das execuções.
+Publique-se. Intimem-se.
+EMENTA
