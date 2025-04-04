@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUIZ CÉLIO BOTTURA contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, conforme a seguinte ementa (fls. 181-186):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. MÉRITO RECURSAL NÃO APRECIADO PELO JUÍZO ORDINÁRIO. IMPOSSIBILIDADE DE ANÁLISE EM GRAU RECURSAL SOB PENA DE SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+O embargante alega que a decisão merece esclarecimento acerca da inaplicabilidade do art. 1.013, § 3º, do CPC.
+Requer sejam providos os embargos de declaração para esclarecimento se foi afastada, por violar princípio constitucional de duplo grau de jurisdição (ou seja, por fundamento constitucional), a norma imperativa ("o tribunal deve incidir desde logo o mérito quando") do art. 1.013, §3º, CPC (fls. 189-190).
+A embargada apresentou impugnação às fls. 169-199.
+É, no essencial, o relatório.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a corrigir erro material, esclarecer obscuridade, eliminar contradição ou suprir omissão existente na decisão embargada.
+No caso em exame, inexistem vícios no julgado.
+Não há obscuridade, omissão ou contradição porquanto a decisão monocrática deixou claro que, ao reconhecer a impossibilidade de análise do mérito recursal sob pena de supressão de instância, o Tribunal de origem decidiu em consonância com a jurisprudência do STJ, o que atrai o óbice da Súmula n. 83/STJ (fl. 184).
+Com efeito, o Tribunal de origem, ao julgar os embargos de declaração, deixou claro que, sob pena de supressão de instância, a matéria não poderia ser enfrentada em grau recursal ante a ausência de enfrentamento do mérito na instância ordinária, nos seguintes termos (fls. 81-82):
+Na espécie, não foi identificado qualquer vício no julgado, mas mero descontentamento com o resultado proclamado, porque a decisão do colegiado foi bem explícita e motivada, na medida em que reconheceu a configuração de decisão citra petita, mormente considerando a omissão da decisão singular quanto o questionamento da parcela do débito relativo à multa por litigância de má-fé, conforme a renúncia prevista no suposto acordo extrajudicial formalizado entre as partes.
+De modo que, diante da impugnação da autenticidade do acordo apresentado pelo executado, não foi possível o julgamento do mérito pelo colegiado, bem como descabida a pretendida produção probatória em sede recursal, uma vez que pendente prévia análise da matéria pelo juízo de origem, sob pena de supressão de instância, donde a exigência do enfrentamento pelo magistrado no feito executivo, justificando a desconstituição integral da decisão hostilizada para o regular enfrentamento dos pontos controvertidos e prestação da tutela jurisdicional.
+Aliás, constou expressamente do acórdão:
+ ..
+Daí a subsistência do julgado nos moldes originários, pois a insatisfação foi manejada contra o resultado adotado, mediante manifestação do inconformismo contra a própria essência da motivação fática e do conteúdo jurídico, utilizados pela turma para a formação do convencimento, tornando imprópria a via eleita para a finalidade modificadora/infringente perseguida, destarte estando exercido o prequestionamento dos temas para fins da futura utilização da via extraordinária e/ou especial.
+Observa-se, portanto, que, na verdade, a parte embargante não se conforma com a decisão embargada e, ainda neste momento, pleiteia novo julgamento da demanda. Todavia, os embargos de declaração não são a via adequada para se buscar o rejulgamento da causa.
+A propósito, cito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PRETENSÃO DE PARCELAMENTO DO DÉBITO EXEQUENDO. IMPOSSIBILIDADE. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. EMBARGOS REJEITADOS
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, os embargos de declaração são cabíveis apenas quando amparados em suposta omissão, contradição, obscuridade ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Na hipótese, o acórdão embargado encontra-se suficientemente fundamentado, em relação à aplicabilidade dos arts. 805 e 916, § 7º, do CPC, seja em relação à alínea a do permissivo constitucional seja em relação à alínea c.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.891.577/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/9/2022.)
+No mesmo sentido, cito: EDcl no AgInt no AREsp n. 1.896.238/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/3/2022; EDcl no AgInt no AREsp n. 1.880.896/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/5/2022.
+A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita. Portanto, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embarg os de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. MÉRITO RECURSAL NÃO APRECIADO PELO JUÍZO ORDINÁRIO. IMPOSSIBILIDADE DE ANÁLISE EM GRAU RECURSAL SOB PENA DE SUPRESSÃO DE INSTÂNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AUSÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
