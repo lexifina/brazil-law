@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por MEXTRA ENGENHARIA EXTRATIVA DE METAIS (em recuperação judicial) com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de habilitação de crédito. O julgado foi assim ementado (fl. 163):
+RECUPERAÇÃO JUDICIAL - Habilitação de crédito - Parcela vencida do Instrumento Particular de Cessão e Transferência de quotas da Sociedade Empresarial agravada - Decisão que determinou a suspensão da habilitação em razão de estarem em curso 3 (três) Embargos à Execução movidos pela agravada e relacionados a três execuções cujos objetos são distintos, outras parcelas -Prejudicialidade externa não verificada - Hipótese em que um dos Embargos à Execução já transitou em julgado e reconheceu a liquidez, certeza e exigibilidade do instrumento particular - Possibilidade de prosseguimento da habilitação Recurso provido.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos: a) 313, V, a, do CPC, porquanto a sentença de mérito depende do julgamento de outra causa; e b) 1.022, I, do CPC, visto que houve omissão na análise das questões suscitadas.
+Sustenta que o Tribunal de origem divergiu ao não reconhecer a prejudicialidade externa, mesmo com embargos à execução pendentes de julgamento, o que poderia influenciar na habilitação de crédito, conforme acórdãos divergentes.
+Requer o provimento do recurso para que se reconheça a prejudicialidade externa e se suspenda a habilitação de crédito até o trânsito em julgado dos embargos à execução.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece prosperar, pois não há decisão favorável às teses da recorrente, bem como que a prejudicialidade externa não foi demonstrada.
+O recurso especial foi admitido (fls. 230-231).
+É o relatório. Decido.
+Na origem, trata-se de pedido de habilitação de crédito retardatária formulado por Eduardo Barchiesi no processo de recuperação judicial da empresa MEXTRA ENGENHARIA EXTRATIVA DE METAIS LTDA. O crédito pleiteado refere-se à última parcela vencida (em 5/6/2018) do "Instrumento Particular de Cessão e Transferência de Quotas da Sociedade Empresarial".
+Paralelamente, o mesmo instrumento é objeto de três execuções de título extrajudicial e respectivos embargos à execução, em trâmite no Juízo cível comum. A recuperação judicial da Mextra está em curso, que pleiteou a suspensão da habilitação em razão da prejudicialidade externa desses embargos.
+O Tribunal de Justiça de São Paulo, porém, acolheu o agravo de Eduardo Barchiesi e permitiu o prosseguimento da habilitação, considerando o fato de que um dos recursos de embargos à execução já havia transitado em julgado e os demais versavam sobre parcelas distintas.
+Sobreveio o recurso especial.
+A respeito da ausência de prejudicialidade, o Tribunal a quo assim se manifestou (fls. 165-168):
+A controvérsia recursal cinge-se à análise da adequação da decisão que determinou a suspensão da habilitação de crédito originária em razão do processamento de 3 (três) Embargos à Execução, nºs 1008896-16.2017.8.26.0100, 1015063-15.2018.8.26.0100 e 1082458-87.2019.8.26.0100, os quais se relacionam a 3 (três) Execuções de Título Extrajudicial, referentes a parcelas vencidas do Instrumento Particular de Cessão e Transferência de quotas da sociedade empresarial agravada nas datas relacionadas a fls. 10/11 (anos 2 012 a 2 015).
+O agravante está querendo a habilitação do crédito de R$83.700,00 (oitenta e três mil e setecentos reais) referente a última parcela do mesmo instrumento, vencida no dia 5 de junho de 2 018.
+Com efeito, a decisão impugnada não deve prevalecer.
+Nas execuções individuais movidas pelo agravante, há cobrança de parcelas vencidas anteriormente ao ano de 2 015 (fls. 10/11), enquanto que na presente habilitação visa-se o reconhecimento do crédito supra relacionado à parcela do contrato vencida em 5 de junho de 2018. Ainda que se vislumbre eventual prejudicialidade externa decorrente de as parcelas serem originárias do mesmo contrato, é remota a hipótese de decisão conflitante.
+Sobre a finalidade do instituto, preleciona a doutrina comentando o art. 313, V, "a" do CPC:
+ ..
+Em dois dos embargos à execução supramencionados, este Sodalício refutou as teses defensivas da recuperanda e dos codevedores, reconhecendo a força executiva do contrato em questão.
+Destaca-se:
+ ..
+O terceiro Embargos à Execução ainda não teve seu mérito julgado neste Sodalício em razão do conflito de competência instaurado em segundo grau, contudo, em primeira instância, já havia sido rejeitado (fls. 257/262 Proc. 1082458-87.2019.8.26.0100).
+Inclusive, o acórdão do processo nº 1008896-16.2017.8.26.0100 transitou em julgado, conforme certidão expedida pelo E. STJ acostada a fl. 493 daqueles autos.
+Portanto, embora supostamente cabível o reconhecimento da prejudicialidade externa à época da prolação da decisão impugnada, hoje verifica-se que é remota a hipótese de decisão conflitante, tendo em vista o pleno reconhecimento da liquidez, certeza e exigibilidade do contrato em questão.
+Dessarte, o caso é de reforma para que o processamento da habilitação siga seu curso regular.
+Ante o exposto, dá-se provimento ao recurso.
+Dessa forma, para infirmar a conclusão do Tribunal de origem, de que a habilitação de crédito deve ser suspensa, haveria necessidade de reexame do conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos da Súmula n. 7 do STJ.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. INCLUSÃO DO CARREGAMENTO DO SINAL DA RECORRIDA NO PACOTE BÁSICO DE CANAIS DA OPERADORA DE TV POR ASSINATURA RECORRENTE . VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PREJUDICIALIDADE EXTERNA . SUSPENSÃO DO PROCESSO. CARÁTER NÃO OBRIGATÓRIO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ . PREJUDICIALIDADE EXTERNA NÃO EVIDENCIADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ . DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. Não se verifica a alegada violação ao art. 535 do CPC/1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. O entendimento jurisprudencial do STJ é de que "a paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto".Precedentes. Acórdão recorrido em consonância com a jurisprudência desta Corte Superior. Incidência da Súmula 83/STJ.
+3. Na hipótese, o egrégio Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos, da natureza da lide, concluiu que não há prejudicialidade externa apta a suspender o presente processo, pois "não se vislumbra, na espécie, a ocorrência de nenhuma das hipóteses previstas no art. 265, IV do Código de Processo Civil" e, ainda, "não há como se considerar que a sentença de mérito desta ação depende do julgamento da outra causa". A modificação da conclusão do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em recurso especial, a teor do que dispõe a Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.197.910/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
