@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por ANA LUIZA BERTASO MASON e OUTROS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. LOCAÇÃO. EMBARGOS Ã EXECUÇÃO. PROCEDÊNCIA. EXECUÇÃO EXTINTA. ILEGITIMIDADE PASSIVA DOS EXECUTADOS. DESCABIMENTO. AUSÊNCIA DE BENS A INVENTARIAR EM NOME DO DE CUJUS NÃO DEMONSTRADA EM CONCRETO PELOS SUCESSORES. SENTENÇA DESCONSTITUÍDA. ANÁLISE DAS DEMAIS QUESTÕES SUSCITADAS NOS EMBARGOS À EXECUÇÃO. POSSIBILIDADE. CAUSA MADURA. ART. 1.013, § 4º-, DO CPC. PRESCRIÇÃO INTERCORRENTE NÃO CARACTERIZADA. ALEGAÇÃO RELATIVA À INEXIGIBILIDADE DA OBRIGAÇÃO QUE SE CONFUNDE COM A TESE DE ILEGITIMIDADE PASSIVA, JÁ APRECIADA E REJEITADA NESTE ACÓRDÃO. JULGAMENTO DE IMPROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO. RECURSO DE APELAÇÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 1.792 do CC e 373, I, e 796 do CPC, no que concerne ao ônus da parte recorrida/exequente em comprovar a existência da partilha de bens para fins de executar o patrimônio dos herdeiros, trazendo a seguinte argumentação:
+Ao ser realizada a partilha, daí que nasce o direito por parte da Exequente, ora Recorrida, de redirecionar a execução aos herdeiros.
+Desta forma, o ato da partilha é que configura o fato constitutivo do direito, sendo o direito o redirecionamento da execução ao patrimônio dos herdeiros.
+Sendo assim, cabe à parte Exequente a demonstração da realização da partilha, conforme determina o art. 373, inciso I, do CPC
+ ..
+Isso porque, neste momento, não há aplicação do art. 1.796 do Código Civil, já que o direito de redirecionamento da execução aos herdeiros não configura fato impeditivo, modificativo ou extintivo de direito da parte Exequente.
+Tal direito somente nascerá a partir do momento em que ocorrer partilha de bens da herança. Desta forma, inexiste direito da parte Exequente enquanto não houver partilha de bens, não havendo direito a se "impedir, modificar ou extinguir".
+Portanto, como bem estabelece o art. 796 do CPC, a exceção da regra é alcançar o patrimônio dos herdeiros, o que somente ocorrerá na hipótese de realização de partilha. O ônus da prova quanto à partilha é da parte Exequente, demonstrando que com a partilha nasceu seu direito.
+Haveria uma inversão lógica entender pelo ônus da prova dos Recorrentes na figura de executados terem de demonstrar que o direito da Recorrida não existia, devendo comprovar a inocorrência de um ato, no caso a partilha.
+ ..
+Não buscam os Recorrentes demonstrar que comprovaram a inexistência de partilha ou de bens a se partilhar, mas que a obrigação de comprovar fato constitutivo de direito incumbia à Recorrida.
+Portanto, o que se verifica é que o acórdão recorrido violou os arts. 1.792, do CC/02, e os arts. 373, I, e 796, do CPC, ao deixar de exigir a comprovação de fato constitutivo de direito à parte Autora/Exequente/Embargada, ora Recorrida, e exigir a comprovação de fato impeditivo, modificativo ou extintivo dos Recorrentes, havendo assim violação a uma lei federal (fls. 222/223).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com os embargos à execução, foi juntada somente certidão judicial cível negativa do de cujus, indicando não haver distribuição de ação de família e sucessão contra si (evento 1, COMP4). Os novos documentos juntados posteriormente (evento 24, OUT2) também não se prestam a melhor esclarecer a situação patrimonial do falecido, por se tratar de certidões negativas de registros de imóveis, somente, o que naturalmente não abrange a integralidade do patrimônio que poderia ter o devedor.
+Ademais, da análise da certidão de óbito de Cláudio Marcelo, consta expressamente ter o falecido deixado bens em seu nome (evento 3, PROCJUDIC13, fl. 17). Outrossim, repare-se que, ainda que não remeta à informação atual, a Declaração de Imposto de Renda acostada aos autos dá concretos indícios de ser vasto o patrimônio detido em vida pelo devedor (evento 3, PROCJUDIC2, fls. 15-20).
+Dessa forma, não havendo informação inequívoca a respeito da ausência de bens a inventariar, inexistindo inclusive escritura pública de inventário negativo, é insuficiente a mera alegação dessa natureza, descabendo a extinção da demanda executiva com base em tese cuja veracidade não restou demonstrada nos autos (fl. 159).
+Tal o contexto , incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto ao ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que n ão é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 24.4.2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13.8.2020; AgInt no AREsp 1.060.371/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17.8.2020; e REsp 1.812.278/CE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 29.10.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
