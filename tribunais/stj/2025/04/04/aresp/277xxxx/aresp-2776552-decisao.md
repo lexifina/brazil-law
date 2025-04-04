@@ -1,0 +1,23 @@
+DECISÃO
+Em anális e, agravo em recurso especial interposto pelo MUNICÍPIO DA SERRA contra decisão que inadmitiu recurso especial com fundamento nas Súmulas 7 e 83 do STJ.
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+Houve contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, cumpre registrar que a controvérsia aqui discutida não se confunde com a do Tema 587/STJ. Isso porque a discussão, naquela ocasião, limitou-se à "possibilidade ou não de cumulação da verba honorária fixada nos embargos à execução com aquela arbitrada na própria execução contra a Fazenda Pública, vedada a sua compensação". De modo diverso, a discussão objeto dos autos cinge-se à verificação da possibilidade, ou não, da condenação em honorários advocatícios em razão de desistência de embargos à execução quando o contribuinte adere a programa fiscal previsto em lei local, em que já considerada a verba honorária pelo pagamento administrativo.
+O recurso especial não merece provimento.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que "nas hipóteses de renúncia ao direito sobre o qual se funda a ação (extinção com julgamento do mérito) ou desistência da ação (extinção sem julgamento do mérito) para fins de adesão de contribuinte a benefício fiscal, os honorários sucumbenciais do advogado devem observância à legislação de regência do respectivo benefício e, caso inexista, às regras gerais do Código de Processo Civil" (AgInt no AREsp n. 2.477.361/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 18/11/2024, DJe de 26/11/2024).
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de embargos à execução fiscal, objetivando a desconstituição de auto de infração por descumprimento de obrigação acessória. Na sentença foi julgado extinto o processo para homologar pedido de desistência em razão de adesão à programa de parcelamento, com condenação de custas e de honorários advocatícios de 10% sobre o valor da causa. No Tribunal de origem, a sentença foi mantida. Agravo interno interposto pelo Estado contra decisão que deu provimento ao recurso especial do contribuinte.
+II - Esta Corte Superior tem entendido que, havendo a previsão de pagamento, na esfera administrativa, dos honorários advocatícios, na ocasião da adesão do contribuinte ao programa de parcelamento fiscal, a imposição de pagamento da verba honorária, quando da extinção da execução fiscal ou dos embargos à execução, configura bis in idem, sendo vedada nova fixação da verba sucumbencial. Nesse mesmo sentido: AgInt no REsp n. 1.994.559/MG, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 14/11/2022, DJe de 22/11/2022. AgInt no REsp n. 2.086.336/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 8/4/2024, D Je de 11/4/2024.
+III - O provimento do recurso especial por um dos fundamentos torna prejudicado o exame da divergência jurisprudencial suscitada. Nesse sentido: AgInt no REsp n. 1.528.765/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/6/2019, DJe de 17/6/2019.
+IV - Agravo interno improvido (AgInt no REsp n. 2.075.549/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 28/10/2024, DJe de 30/10/2024).
+O Tribunal de origem, por sua vez, deu provimento à apelação interposta pelo particular para afastar a condenação aos honorários advocatícios em embargos à execução fiscal extintos por adesão à programa fiscal, em razão de previsão do benefício em lei local. Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Isso posto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Sem condenação em honorários advocatícios recursais em razão da ausência de fixação de honorários advocatícios sucumbenciais pela Corte de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
