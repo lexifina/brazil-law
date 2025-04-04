@@ -1,0 +1,24 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por BJMF SERVICOS LTDA, com fundamento na incidência  da Súmula  7 do STJ, na ausência de violação dos arts. 489 e 1022 do CPC e na deficiência no atendimento aos requisitos previsto nos arts. 1029, § 1º, do Código de Processo Civil e 255, § 1º, do RISTJ.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois a) "o r. decisum deixou de considerar que o C. Tribunal Mineiro se OMITIU totalmente no que tange à apreciação da matéria sub judice em cotejo com o que dispõe o art. 151, inc. IV, do CTN"; b) "apresentou fundamentação contraditória e eivada de erro de fato, o que torna nulo o provimento judicial proferido pelo órgão fracionário a quo"; e c) "impossível a aplicação do óbice sumular n. 7/STJ, no que tange à negativa de vigência ao art. 151, inc. IV e art. 206, ambos do Código Tributário Nacional, bem como ao art. 17, inc. V, da Lei Complementar n. 123/06".
+Contraminuta apresentada às fls. 633-655.
+É o relatório.
+Passo a decidir.
+De início, destaco que o pedido inicial visava "compelir a Ré  Municipalidade  a fazer constar, em seus sistemas, a suspensão da exigibilidade do crédito tributário em comento (em virtude de concessão de liminar em mandado de segurança, nos termos do inc. IV do art. 151 do mesmo dispositivo), a expedir, à Autora, a competente CPEN  ..  para que a autora possa continuar exercendo, regularmente, suas atividades laborais".
+O acórdão reformou a sentença (na qual parte dos débitos foram suspensos), pela superveniência do julgamento do Tema 300 pelo STF. Declarou que "as cobranças lançadas em face da apelada devem prosseguir".
+Foi fixada tese, desfavorável ao contribuinte, relativa ao Tema 300/STF, concluindo pela reafirmação da jurisprudência do STF.
+O Tribunal havia suspendido a exigibilidade do crédito tributário na Ação 0002974-12.2004.8.26.0053 até o julgamento do RE n. 603.136-RJ, em que foi reconhecida a existência de repercussão geral, porém sem se pronunciar sobre a determinação de suspensão.
+Colho trechos do acórdão integrativo de fls. 375-377:
+Inconformada, embarga a apelada (fls.1/5). Aduz que o acórdão padece de erro e omissão pois não se pronunciou sobre o objeto da lide, qual seja, a possibilidade de cobrança, pelo Fisco, de créditos tributários que se encontravam à época com a exigibilidade suspensa.
+ ..
+Com efeito, acórdão embargado assentou que, até o momento da prolação da sentença (que analisou a pretensão da ora embargante em suspender a exigibilidade de débitos de ISSQN incidente sobre serviços relacionados à atividade de franqueada dos Correios), encontrava-se pendente de julgamento o Tema 300 pelo STF.
+Constou, ademais, que o mencionado tema assentou a constitucionalidade da incidência de ISSQN sobre a atividade de franquia dos Correios, sendo que a Corte decidiu também pela não modulação dos efeitos da referida decisão e determinou eficácia imediata aos casos análogos, razão pela qual o acórdão embargado reformou a sentença para o fim de determinar o prosseguimento das cobranças.
+Vê-se, portanto, que o recorrente pleiteia a revisão do julgado por meio inapropriado, ao aduzir supostos vícios que, na verdade, são meios utilizados pela recorrente para tentar ver a questão reapreciada, mas a seu favor.
+O acórdão está devidamente fundamentado.
+Com efeito, "a alegação de afronta ao art. 1.022 do CPC, de forma genérica, sem a efetiva demonstração de omissão do acórdão recorrido no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial, ante a deficiência na fundamentação (Súmula 284 do STF)" (AgInt no AREsp n. 1.740.605/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+No caso, a parte recorrente não demonstra, de forma clara, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai a aplicação do óbice da Súmula 284 do STF, aplicável, por analogia, no âmbito desta Corte.
+Rever o acórdão para a manter a sentença, perfunctória e específica quanto aos contratos de franquia, também em relação à declaração de que a autora não afastou a situação legal estabelecida no auto de infração e à ausência de comprovação do erro na classificação, e declarar a suspensão da exigibilidade dos débitos em nome da autora, requer a revisão do conjunto fático probatório. Incide a Súmula 7/STJ.
+Isso posto, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios (fls. 312; 363 e 471) em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
