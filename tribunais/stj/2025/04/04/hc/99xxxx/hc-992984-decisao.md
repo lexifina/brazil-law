@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS DE OLIVEIRA MORENO - preso preventivamente pela prática, em tese, dos crimes de tráfico de drogas, resistência e desacato -, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Habeas Corpus n. 0020704-42.2025.8.16.0000).
+Busca-se, nesta impetração, a revogação da segregação cautelar imposta ao paciente pelo Juízo de Direito, com a substituição por medidas cautelares mais brandas, argumentando a ausência de fundamentação idônea no decreto prisional, o qual se basearia apenas na gravidade abstrata do crime e em argumentos genéricos.
+Sustenta-se que o paciente possui condições pessoais favoráveis, que foi apreendida uma quantidade inexpressiva de drogas e que ele é pai de uma criança menor que depende de seu auxílio financeiro, tornando cabível a aplicação de medidas cautelares menos gravosas.
+Alega-se, ainda, que, diferentemente do que consta nas decisões das instâncias ordinárias, o paciente não é reincidente específico, uma vez que suas condenações anteriores se referem a crimes de receptação.
+Foram apreendidos no total 13 g de crack (fls. 29/30).
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra fundamentada no risco concreto de reiteração delitiva. O Magistrado destacou que, segundo o relatório de "Informações Processuais" (seq. 18), o flagranteado possui condenação por delito patrimonial (CP, art. 180) e tráfico de drogas (Lei 11.343/2006, art. 33). Portanto, reincidente específico, sendo certo que quando da prisão cumpria pena em regime aberto ( a. 4000263-06.2023.8.16.0173) - fl. 41.
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais e, inclusive, cumpria pena em regime aberto quando supostamente praticou os delitos discutidos neste writ, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Ademais, muito embora a defesa tenha afirmado que o paciente não é reincidente específico, deixou de anexar aos autos sua folha de antecedentes criminais, o que impossibilita a aferição da veracidade de sua alegação.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS, RESISTÊNCIA E DESACATO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
