@@ -1,0 +1,54 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº 5005660-67.2023.8.08.0006
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ANTONIO CELSO GOMES WANDELKOOKEM e outros
+RECORRIDO: BANCO BMG SA e outros
+RELATOR(A):
+ANA FLAVIA MELO VELLO
+
+______________________________________________________________________________________________________________________________________________
+EMENTA
+Voto servindo como ementa.
+______________________________________________________________________________________________________________________________________________
+ACÓRDÃO
+Decisão
+: À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
+Órgão julgador vencedor
+: 2ª Turma Recursal - Gabinete 2
+______________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+_______________________________________________________________________________________________________________________________________________
+NOTAS TAQUIGRÁFICAS
+________________________________________________________________________________________________________________________________________________
+VOTO VENCEDOR
+VOTO
+Relatora: Dra. Ana Flávia Melo Vello
+
+Relatório dispensado (Enunciado 92 do FONAJE) e voto com fundamentação sucinta, na forma de ementa (Lei 9.099/95, art. 46).
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+Defiro o benefício da assistência judiciária gratuita à parte recorrente/autora.
+
+VOTO/EMENTA. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. CONTRATO DE EMPRÉSTIMO. ABUSIVIDADE DE JUROS. DANOS MORAIS NÃO CONFIGURADOS. AMBOS OS RECURSOS DESPROVIDOS. SENTENÇA MANTIDA.
+1. Relatório com base no ato sentencial: “Trata-se de Ação Indenizatória, ajuizada por ANTONIO CELSO GOMES WANDELKOOKEM em face de BANCO BMG S.A, na qual pretende a parte autora a restituição dos valores e recebimento de indenização por danos morais, nos termos da inicial. Para tanto, alega o requerente que contratou um empréstimo pessoal n.º4699956, na data de 10 de junho de 2022, no valor de R$ 3.862,15 (três mil oitocentos e sessenta e dois reais e quinze centavos), valores estes que o mesmo acreditava que seriam depositados em sua conta. Afirma que até o ajuizamento da ação pagou 16 parcelas no valor de R$ 613,85 (seiscentos e treze reais e oitenta e cinco centavos), totalizando R$ 9.821,60 (nove mil oitocentos e vinte um reais e sessenta centavos), restando duas parcelas a serem paga nesse valor, sendo assim, ao final do contrato o autor terá desembolsado R$11.049,30 (onze mil quarenta e nove reais e trinta centavos). Porém, sustenta o requerente que a taxa de juros contratada está muito acima da média de mercado divulgada pelo BACEN, o que é considerado abusivo, haja vista que causa um desequilíbrio financeiro, onerando demasiadamente o requerente. Assim, ingressou com a presente demanda requerendo a condenação da requerida ao pagamento de indenização a título de danos materiais e morais, nos termos da inicial. Devidamente citado, o banco réu apresentou contestação no ID34759527, na qual alegou, em síntese, a preliminar de ausência do interesse processual, vez que o contrato objetivo da lide já foi liquidado, antes do ajuizamento da ação, havendo liquidação deste apontado na inicial”.
+2. A sentença objurgada julgou parcialmente procedentes os pedidos da exordial para A) declarar a abusividade dos juros remuneratórios contratados, determinando a adequação ao dobro da taxa média do mercado no valor de R$9,65% ao mês, B) Condenar a requerida na restituição em forma simples da diferença paga a maior nas parcelas, com recálculo de juros à 9.65% a.m e C) Reconhecer a abusividade da cláusula de seguro e condenar a requerida na restituição de R$761,17.
+3. Através de recurso inominado, ambas as partes requerem a reforma do ato sentencial. Por via de contrarrazões, às recorrentes pugnam pela negativa do recurso contrário.
+4. A sentença deve ser mantida por seus próprios fundamentos, nos moldes do art. 46 da Lei n.º 9.099/95, de modo que são adotadas as suas razões de decidir (STF, Tema n.º 451 das Teses de Repercussão Geral: “Não afronta a exigência constitucional de motivação dos atos decisórios a decisão de Turma Recursal de Juizados Especiais que, em consonância com a Lei 9.099/1995, adota como razões de decidir os fundamentos contidos na sentença recorrida”).
+5.
+O PLEITO RECURSAL DA PARTE REQUERIDA
+Não merece acolhimento, uma vez que a ora recorrente não demonstrou qualquer fato impeditivo, extintivo ou modificativo do direito da parte autora, deixando, assim, de comprovar seu ônus probatório quanto ao ponto (CPC, art. 373, inciso II). A abusividade da taxa de juros aplicada no contrato encontra-se devidamente fundamentada com base nos documentos juntados aos autos e por via das informações públicas disponíveis junto ao Site da Banco Central, não estando a decisão eivada de erros ou nulidades capazes de gerar sua reforma, in verbis: “A discussão dos autos gira em torno da taxa de juros remuneratórios cobrada, conforme anteriormente discriminado, as quais teriam sido abusivas e ilegais onerando excessivamente o requerente, causando enorme desequilíbrio contratual, ainda mais considerando que a taxa média de mercado do Banco Central para a mesma operação (empréstimo pessoal, não consignado), à época (Junho de 2022), conforme extraído do site do BACEN, foi de 11,14% a.m e 255,14% a.a., ou seja, bem abaixo das taxas contratadas de 14,89% a.m e 475,61% a.a., conforme contrato de n.º4699956. A este respeito, observo que o requerente logrou êxito em comprovar, nos termos do art. 373, l, do CPC, através do documento juntado em ID33242092, emitido pelo BACEN, anteriormente mencionado, que a taxa de juros média de mercado, para operação de empréstimo pessoal, não consignado, como no caso do requerente, na mesma data em que houve a contratação (06/2022), foi efetivamente, de 11,14% a.m e 255,14% a.a. De fato, o requerente teve a opção de escolher, dentre as diversas instituições financeiras existentes, aquelas cujas taxas, melhor atendiam seus interesses. Contudo, havendo abusividade da instituição financeira na estipulação dos juros remuneratórios em relação aos contratos celebrados, é possível a revisão da cláusula, desde que haja discrepância substancial da taxa média aferida pelo Banco Central do Brasil BACEN, consoante precedente do Superior Tribunal de Justiça No caso em tela, a taxa de juros remuneratórios cobrada pela requerida no contrato celebrado (nº4699956 em Junho de 2022), respectivamente de 14,89% a.m e 475,61% a.a., ultrapassaram muito mais que o dobro da taxa média mensal de mercado divulgada pelo Banco Central (4,825 % a.m), sem que houvesse qualquer justificativa plausível para tanto, o que caracteriza abusividade dos juros remuneratórios cobrados, onerando excessivamente o requerente/consumidor. Diante da abusividade reconhecida, a fim de que seja aplicada nos contratos celebrados entre as partes a efetiva taxa média de mercado relativa às operações de concessão de crédito pessoal, não consignado, que perfaz 4,825% a.m. e 76,015% a.a., conforme consulta ao BACEN, entendo que deve ser recalculada as parcelas dos contratos, considerando-se o dobro da taxa média de mercado, ou seja, 9,65%, com a consequente restituição dos valores cobrados indevidamente”.
+6. No mesmo sentido, não restou comprovada que a contratação do seguro se deu de forma livre pelo consumidor, de forma que a decisão abarca as razões da sua declaração de abusividade de forma límpida, não sendo os argumentos apresentados suficientes para afastar o entendimento outrora demonstrado: “Com relação aos valores cobrados a título de seguro prestamista, imperioso registrar o entendimento o STJ por ocasião do julgamento dos Recursos Especiais Repetitivos 1.639.320/SP e 1.639.259/SP (tema 972), definiu a tese 2.2 a qual assim dispõe: 2.2 - Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada; Diante do caso concreto, em sede do REsp 1.639.259/SP, a posição do STJ no seguinte sentido: 3.2. Aplicação da tese 2.2 para declarar a ocorrência de venda casada no que tange ao seguro de proteção financeira. Na análise do voto formador da tese, resta claro que para o STJ a venda casada se caracteriza na medida em que mesmo sendo possível a contratação do seguro, não é possível ao consumidor a contratação do seguro com outro agente financeiro, sendo imposta a contratação da própria concedente do crédito ou de empresa por ela indicada. Prova em sentido contrário, a fim de afastar a caracterização da venda casada deveria ter sido produzida nos autos pela parte requerida, e isso não ocorreu”.
+7.
+O PLEITO RECURSAL DA PARTE AUTORA
+Não merece acolhimento, não obstante os fundamentos apresentados estes não são suficientes para afastar a fundamentação de piso que baseou-se no entendimento formalizado pela Turma de Uniformização de Jurisprudência do Colegiado Recursal, de forma que passo a referenciar a fundamentação a quo acerca do ponto: “Quanto aos danos morais, em que pese este juízo já ter se pronunciado em oportunidades outras no sentido da caracterização de danos morais em sede de cobranças indevidas, a Turma de Uniformização de Jurisprudência do Colegiado Recursal do TJES, por força do julgamento do procedimento 009/2013, sedimentou o entendimento de não restar caracterizado o dano moral em hipóteses de mera discussão acerca de cláusulas contratuais, se amoldando perfeitamente ao caso em apreço. A partir de tal paradigma, a 5ª TR-ES (Turma Norte), por sua composição atual, igualmente sedimentou entendimento no sentido de que não havendo outros fatores externos que possam levar ao reconhecimento dos danos morais, a mera discussão de cláusulas contratuais não é capaz de caracterizar fato passível de indenização extrapatrimonial”.
+7. Da conclusão. AMBOS OS RECURSOS CONHECIDOS E IMPROVIDOS. Sentença mantida por seus próprios fundamentos, nos termos do art. 46 da lei 9.099/95.
+8. Por força da sucumbência recursal (art. 55, 2ª parte, da Lei dos Juizados Especiais), Condena-se a parte recorrente/Ré no pagamento de custas e honorários no importe de 20% sobre o valor atualizado da condenação, ou, não havendo, sobre o valor da causa. Condena-se a parte recorrente/Autora no pagamento das custas e honorários advocatícios que fixo na quantia de R$500,00 (quinhentos reais), suspensa, todavia em razão do benefício da AJG.
+
+É como voto.
+
+_________________________________________________________________________________________________________________________________
+VOTOS ESCRITOS
+
+(EXCETO VOTO VENCEDOR)
