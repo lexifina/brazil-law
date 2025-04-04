@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interpos to por ALEF PEREIRA DE OLIVEIRA, fundado na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS, assim ementado:
+"PENAL. PROCESSUAL PENAL. RECEPTAÇÃO. PEDIDO DE REDIMENSIONAMENTO DA PENA. PENA-BASE PROPORCIONAL AO CASO CONCRETO. PLEITO DE RECONHECIMENTO DA CONFISSÃO. JÁ RECONHECIDO PELO MAGISTRADO DE PRIMEIRO GRAU. PEDIDO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR APENAS UMA RESTRITIVA DE DIREITOS. PENA PRIVATIVA DE LIBERDADE SUPERIOR A UM ANO. SEM RAZÃO. RECURSO IMPROVIDO. DECISÃO UNÂNIME.
+1- A fundamentação utilizada na sentença é capaz de demonstrar uma censurabilidade que ultrapasse aquela já prevista no tipo penal; afinal, o fato do réu conduzir o veículo automotor sabendo ser produto de crime e sem habilitação, ou seja, sem CNH, acentua o desvalor de seu comportamento contrário à lei, sendo circunstância suficiente, para tornar a reprovabilidade da conduta delitiva mais acentuada, de modo que mantenho a valoração negativa da culpabilidade.
+2- Quanto as circunstâncias do crime, percebe-se que o magistrado indicou que a apelante além de conduzir o veículo que sabia ser produto de roubo, escondeu-o para evitar ser descoberto e preso pela polícia, circunstância que justifica a valoração desfavorável desta circunstância e a exasperação da pena-base.
+3- Na segunda fase da dosimetria da pena, o Juízo "a quo" já analisou à aplicabilidade da atenuante de confissão espontânea, momento que reconheceu a presença desta circunstância atenuante.
+4- Quanto ao pedido de substituição da pena privativa de liberdade por apenas uma restritiva de direitos, observo que não merece prosperar, tendo em vista que a pena privativa de liberdade foi superior a um ano, podendo ser substituída por duas penas restritivas de direito, conforme preconiza o artigo 44, § 2o do Código Penal.
+5- Recurso Improvido. Unânime" (e-STJ, fl. 298 )
+No recurso especial, a defesa apontou violação ao art. 59 do Código Penal, por entender que a pena-base foi recrudescida com base na gravidade abstrata e de forma desproporcional, "em virtude de ter mantido, na dosimetria da pena, a valoração negativa das circunstâncias do crime sem fundamentação idônea;  ..  e ao utilizar método excessivo de exasperação da pena-base". (e-STJ, fl. 319)
+O recurso especial foi admitido na origem (e-STJ, fls. 368-369)
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal opinou pelo desprovimento do recurso especial (e-STJ, fls. 378-382).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Quanto à dosimetria da pena, o Tribunal de origem assim se manifestou:
+"O presente recurso foi interposto contra a sentença que condenou o apelante à pena privativa de liberdade tornando a pena em concreto e definitivo em 01 (um) ano, 05 (cinco) meses e 15 (quinze) dias de reclusão e 16 (dezesseis) dias-multa, em regime aberto, em razão da prática do crime de receptação, nos termos do art.180, caput, do Código Penal.
+A Defesa requer, primeiramente, o afastamento da culpabilidade e das circunstâncias do crime, na primeira fase da dosimetria.
+No entendimento de Ricardo Augusto Schimitt, a culpabilidade:
+"É o grau de censura da ação ou omissão do acusado que deve ser valorado a partir da existência de um plus de reprovação social da sua conduta. Está ligada à intensidade do dolo ou grau de culpa do agente, os quais devem ser graduados no caso concreto, com vistas à melhor adequação da pena-base. Como exemplos, podemos valorar a frieza, a brutalidade e a premeditação, que importam em um dolo mais intenso e, portanto, merecem uma maior censurabilidade, frente a acentuada intensidade no modo de agir do agente". 1
+Penso que a fundamentação utilizada na sentença é capaz de demonstrar uma censurabilidade que ultrapasse aquela já prevista no tipo penal; afinal, o fato do réu conduzir o veículo automotor sabendo ser produto de crime e sem habilitação, ou seja, sem CNH, acentua o desvalor de seu comportamento contrário à lei, sendo circunstância suficiente, para tornar a reprovabilidade da conduta delitiva mais acentuada, de modo que mantenho a valoração negativa da culpabilidade.
+Quanto as circunstâncias do crime, percebe-se que o magistrado indicou que a apelante além de conduzir o veículo que sabia ser produto de roubo, escondeu-o para evitar ser descoberto e preso pela polícia, circunstância que justifica a valoração desfavorável desta circunstância e a exasperação da pena-base" (e-STJ, fls. 300-301.)
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal.
+Na espécie, as instâncias ordinárias aumentaram a pena-base por considerar as circunstâncias delitivas especialmente gravosas, dado que o réu teria cometido dois dos núcleos previstos no caput do artigo: conduzir e ocultar coisa que sabe ser produto do crime.
+Contudo, tal situação configura dupla punição pelo mesmo fato, tendo em vista que o agente que conduz veículo produto do crime, em geral, também o oculta a fim de resguardar sua posse.
+Desse modo, a pena-base deve ser fixada em 1 (um) ano, 4 (quatro) meses e 15 (quinze) dias de reclusão, e 15 (quinze) dias-multa.
+Saliento que não há desproporcionalidade na fração de incremento da pena-base utilizada pelas instâncias de origem.
+Isso porque a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração específica para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias.
+Passo ao redimensionamento da pena.
+Fixo a pena-base em 1 (um) ano, 4 (quatro) meses e 15 (quinze) dias de reclusão, e 15 (quinze) dias-multa.
+Na segunda fase, presente a atenuante da confissão, reduz-se a pena em 1/6.
+Ausente causas de aumento ou diminuição.
+Assim, torno definitiva a pena do réu em 1 (um) ano, 1 (um) mês e 22 (vinte e dois) dias de reclusão, mais 10 (dez) dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, II e III, do Regimento Interno do STJ, dou parcial provimento ao recurso especial, a fim de reduzir a pena-base e fixar a pena do réu em 1 (um) ano, 1 (um) mês e 22 (vinte e dois) dias de reclusão, mais 10 (dez) dias-multa, mantidos os demais termos da sentença condenatória.
+Publique-se. Intimem-se.
+EMENTA
