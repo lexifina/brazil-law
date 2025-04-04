@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 606, DE 3 DE ABRIL DE 2025
+Estabelece orientações sobre o processo de elaboração e submissão da convenção que disporá sobre os eventos de crédito a serem utilizados pelas instituições autorizadas a funcionar pelo Banco Central do Brasil nas operações de derivativos de crédito contratadas no país ou na emissão de certificados de operações estruturadas (COE) na modalidade risco de crédito, conforme previsto na regulamentação específica desses produtos.
+O Chefe do Departamento de Regulação do Sistema Financeiro (Denor), no uso das atribuições que lhes confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base no art. 11, caput, inciso VIII, e § 4º, da Resolução CMN nº 5.070, de 20 de abril de 2023, e no art. 19, caput, inciso VIII, e § 4º, da Resolução CMN nº 5.166, de 22 de agosto de 2024,
+R E S O L V E :
