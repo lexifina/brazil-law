@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEONARDO GONÇALVES ROSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (HC n. 5011479-22.2024.8.24.0000).
+Infere-se dos autos que o paciente foi preso em flagrante, no dia 1º/2/2024, por ter, em tese, praticado o delito descrito no art. 171, § 2º-A, na sua forma tentada, c/c o art. 288, ambos do Código Penal. Em audiência de custódia, a prisão foi convertida em preventiva para a garantia da ordem pública.
+Impetrado prévio writ na origem, a ordem foi assim denegada (e-STJ fl. 31):
+HABEAS CORPUS. SUPOSTA PRÁTICA DOS CRIMES DE ASSOCIAÇÃO CRIMINOSA E DE FURTO (TENTADO OUCONSUMADO) COMETIDO MEDIANTE FRAUDE E COM UTILIZAÇÃO DE DISPOSITIVO ELETRÔNICO (QUATRO FATOS). CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA PARAA GARANTIA DA ORDEM PÚBLICA E PARA EVITAR A REITERAÇÃO DELITUOSA. PREENCHIMENTO DOS REQUISITOS EXIGIDOS PELOS ARTS. 312 E 313 DO CÓDIGO DE PROCESSO PENAL. GRAVIDADE EM CONCRETO DOS DELITOS. ALEGAÇÃO DE FLAGRANTE PROVOCADO. NECESSIDADE DEREEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS, PROCEDIMENTO INCOMPATÍVEL COM A ESTREITA VIA DO HABEAS CORPUS. ORDEM CONHECIDA EM PARTE E, NA EXTENSÃO CONHECIDA, DENEGADA.
+No presente writ, alega ausência de fundamentação jurídica idônea para a imposição da medida extrema, sendo suficiente a imposição de medidas cautelares diversas à prisão.
+Invoca o princípio da presunção de inocência e salienta as circunstâncias pessoais favoráveis ao paciente (tais como ocupação lícita, residência fixa, família, etc.).
+Defende a ilegalidade da prisão em flagrante, por entendê-la como preparada, destacando ser o crime impossível diante da ação controlada pela autoridade policial, que acessou o celular do paciente sem a sua autorização, o que invalidaria todos os atos subsequentes. Contesta a legalidade da busca e apreensão realizada no quarto do hotel, o qual é inviolável. Por fim, argumenta que ao acusado não foi permitida a entrevista reservada com o seu defensor antes da oitiva na fase policial.
+Argumenta que a manutenção da prisão preventiva afronta o princípio da homogeneidade, pois é justo entender que, ao final do processo, o paciente poderá cumprir a pena em regime prisional diferente do fechado.
+Requer, assim:
+a) LIMINARMENTE, a revogação da preventiva imposta ao PACIENTE nos termos do art. 316 do CPP;
+b) a consequente imposição das cautelares diversas, disponíveis no art. 319 do CPP, na hipótese de ser acatado o pedido anterior;
+c) ainda diante da possibilidade de ser o primeiro pedido, requer a determinação imediata do competente alvará de soltura;
+d) que seja reconhecido o crime impossível, nos moldes do art. 17 da Lei Penal;
+e) o desentranhamento de todas as provas oriundas da invasão do celular do PACIENTE bem como da invasão do quarto de hotel, com fulcro no art. 157 do CPP;
+f)que seja ainda, caso viável, avaliada a hipótese de absolvição nos termos do art. 386, III e VII, do CPP.
+Liminar indeferida às e-STJ fls. 56/58.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem (e-STJ fls. 204/211).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 9/7/2024, de sentença condenatória em desfavor do paciente na ação penal de que cuidam estes autos.
+Assim, fica sem objeto este writ, em razão da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito, guardadas as devidas particularidades:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS. CRIME DE HOMICÍDIO TRIPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE NOVO TÍTULO. SENTENÇA DE PRONÚNCIA. PREJUDICIALIDADE DO RECURSO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. JURISPRUDÊNCIA DO STJ.
+1. A superveniência de novo título, no caso, a sentença de pronúncia, torna prejudicado o recurso em habeas corpus que busca a revogação da prisão preventiva por ausência dos requisitos autorizadores da medida. Jurisprudência do STJ.
+2. Conforme jurisprudência desta Corte Superior, "é vedado, em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso, inovando questões não suscitadas anteriormente" (AgRg no REsp 1.592.657/AM, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 13/9/2016, DJe 21/9/2016)" (AgRg no HC n. 605.999/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021).
+3. Agravo regimental improvido. (AgRg nos EDcl no RHC n. 176.184/GO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO TRANSNACIONAL E INTERESTADUAL DE DROGAS. PRETENSA NULIDADE PROCESSUAL. TESE DE NEGATIVA DE AUTORIA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DAS INSURGÊNCIAS. IMPUGNAÇÃO À PRISÃO PREVENTIVA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO. IMPOSSIBILIDADE DE APRECIAÇÃO. AGRAVO DESPROVIDO.
+1. Hipótese em que há novo título a respaldar a custódia cautelar do Agravante, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foram complementadas pelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado.
+2. A verificação de eventual constrangimento ilegal, pelo desatendimento ao disposto no art. 387, parágrafo único, do Código de Processo Penal, por se tratar de novo título, em que foi agregada nova fundamentação, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso II, alínea a).
+3. Estão prejudicadas as teses relacionadas à suposta nulidade processual e à alegada negativa de autoria, tendo em vista que o Juízo sentenciante refutou, em cognição profunda e exauriente, as referidas insurgências. Precedente.
+4. Agravo regimental desprovido. (AgRg no RHC n. 163.428/MT, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023.)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC n. 78.448/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/3/2017, DJe 23/3/2017.)
+No tocante ao alegado crime impossível, pontuou o Tribunal a quo que, "em breve análise do auto de prisão em flagrante, conclui-se que a vítima e a polícia não induziram o paciente à prática do delito, limitando-se esta última, em atividade de monitoramento, a surpreendê-lo quando o crime já estava consumado" (e-STJ fl. 30).
+Desse modo, inexiste constrangimento ilegal a ser coibido.
+Nesse sentido, mutatis mutandis:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE EXCEPCIONALIDADE. 3. FLAGRANTE PREPARADO. CRIME IMPOSSÍVEL. SÚMULA N. 145/STF. NÃO VERIFICAÇÃO. 4. FLAGRANTE ESPERADO. RÉUS MONITORADOS. AUSÊNCIA DE ILEGALIDADE. 5. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. O trancamento da ação penal somente é possível, na via estreita do habeas corpus, em caráter excepcional, quando se comprovar, de plano, a inépcia da denúncia, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria ou de prova da materialidade do delito.
+3. O verbete n. 145 da Súmula do Supremo Tribunal Federal dispõe que "não há crime, quando a preparação do flagrante pela polícia torna impossível a sua consumação". Contudo, não se pode confundir o flagrante preparado - no qual a polícia provoca o agente a praticar o delito e, ao mesmo tempo, impede a sua consumação, cuidando-se, assim, de crime impossível - com o flagrante esperado - no qual a polícia tem notícias de que uma infração penal será cometida e aguarda o momento de sua consumação para executar a prisão.
+4. No caso dos autos, verificou-se que os pacientes já estavam sendo monitorados, não tendo havido provocação prévia dos policiais para que se desse início à prática do crime de tráfico de drogas.
+Ademais, consta do acórdão impugnado que as abordagens dos veículos ocorreram de forma autônoma, tendo a ligação telefônica apenas demonstrado o vínculo entre os pacientes, encontrando-se ambos em flagrante delito. Nesse contexto, não há se falar em flagrante preparado.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 438.565/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/6/2018, DJe de 29/6/2018, grifei.)
+Por fim, quanto às teses de ilegalidade da busca e apreensão realizada no quarto do hotel e de proibição da entrevista reservada entre o paciente e seu defensor, verifico que as matérias não foram analisadas pelo Tribunal de origem no acórdão impugnado, o que impede o exame das questões por esta Casa, sob pena de incorrer em indevida supressão de instância.
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão, julgo-o prejudicado.
+Publique-se. Intimem-se.
+EMENTA
