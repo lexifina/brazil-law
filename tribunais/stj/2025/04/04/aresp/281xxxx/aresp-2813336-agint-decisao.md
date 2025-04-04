@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que, aplicando a Súmula 284/STF, não conheceu do agravo em recurso especial, por entender que a parte não teria indicado em seu recurso especial o dispositivo tido por violado, acarretando, assim, deficiência na fundamentação.
+Em suas razões, a agravante sustenta que efetivamente indicou o dispositivo em seu recurso, qual seja, o art. 51, inciso IV e § 1º, do Código de Defesa do Consumidor.
+Impugnação às fls. 429/435 e-STJ.
+Em vista do alegado, confirmando a indicação do dispositivo na peça do recurso à fl. 328 e-STJ, reconsidero a decisão agravada e passo a novo exame dos autos.
+Trata-se de agravo apresentado por CRISTIANE FERMINO GABRIEL contra decisão que inadmitiu seu recurso especial interposto c ontra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+"RECURSO DE APELAÇÃO EM AÇÃO REVISIONAL DE CONTRATO COM RESTITUIÇÃO DE VALORES - ALEGAÇÃO DE SENTENÇA CITRA PETITA - AUSÊNCIA DE COMPROVAÇÃO - TAXA DE JUROS CONTRATADA É MENOR DO QUE A TAXA MÉDIA DE MERCADO DA ÉPOCA - RECURSO CONHECIDO - PRELIMINAR AFASTADA E MÉRITO DESPROVIDO"
+Alega a agravante, em seu recurso especial, que teria havido violação ao art. 51, inciso IV e § 1º, do Código de Defesa do Consumidor, sustentando abusividade na taxa de juros do contrato de mútuo estabelecido com a parte agravada.
+Contrarrazões às fls. 354/373 e-STJ.
+Juízo negativo de admissibilidade às fls. 375/385 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem afastou a tese de abusividade das taxas de juros pactuadas no contratos de empréstimo, nos seguintes termos:
+"É certo que é possível a estipulação de juros remuneratórios superiores a 12% ao ano, sem que isso implique em cláusula abusiva, o que via de consequência imediata não sujeita as instituições financeiras a essa limitação estabelecida pela Lei de Usura - Decreto n.º 22.626/33.
+O STJ uniformizando a jurisprudência, decidiu no REsp n.º 1.061.530-RS que a taxa de juros remuneratórios deve se limitar a taxa média de mercado divulgada pelo Banco Central do Brasil, sendo permitida sua revisão em situações excepcionais, desde que caracterizada relação de consumo e abusividade. Devendo-se todavia, avaliar o caso concreto para sua aplicação.
+Segundo entendimento explanado pela relatora no julgamento do Resp. 1.061.530/RS, " como média, não se pode exigir que todos os empréstimos sejam feitos segundo essa taxa. Se isto ocorresse, a taxa média deixaria de ser o que é, para ser um valor fixo. Há portanto, que se admitir uma faixa razoável para a variação dos juros." (grifei). E ainda complementa: "A jurisprudência, conforme registrado anteriormente, tem considerado abusivas taxas superiores a uma vez e meia (voto proferido pelo Min. Ari Pargendler no R Esp 271.214/RS, Rel. p. Acórdão Min. Menezes Direito, DJ de 04.08.2003), ao dobro (Resp 1.036.818, Terceira Turma, minha relatoria, DJe de 20.06.2008) ou ao triplo (REsp 971.853/RS, Quarta Turma, Min. Pádua Ribeiro, DJ de 24.09.2007) da média."
+Assim, diante do exposto e considerando as taxas de juros remuneratórios contratual (5,81% ao mês) e a da média da época (5,88%), verifica-se total ausência de abusividade, mesmo porque o valor contatado é inferior a da média de mercado, razão pela qual o contrato não padece de vício para serem revisados, quanto aos juros contratados.
+Verifica-se, assim, que rever a conclusão da Corte local quanto a ausência de abusividade das taxas de juros, no caso concreto, demandaria o reexame contratual e fático dos autos, situação vedada pelos óbices das Súmulas n. 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte agravada, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
+EMENTA
