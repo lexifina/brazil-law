@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. DESERÇÃO. SÚMULA N. 187/STJ.
+1. A jurisprudência do STJ assentou que a parte recorrente comprovará, no ato de interposição do recurso, quando exigido pela legislação pertinente, o respectivo preparo ou o benefício da justiça gratuita, sob pena de deserção.
+2 . Hipótese em que o recurso especial foi protocolado, na origem, sem a devida comprovação do pagamento das custas inerentes ao apelo.
+3. Tendo sido oportunizada à parte a regularização do preparo, e não o fazendo no prazo legal, legítima a decretação de deserção do recurso. Incidência da Súmula n. 187/STJ.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pela SMART CAR AUTO CLUBE DE BENEFICIOS contra decisão monocrática da Presidência do STJ, por meio da qual foi aplicada a Súmula n. 187 do STJ (fls. 1.576-1.577).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fls. 1.278-1.279):
+APELAÇÃO CÍVEL - AÇÃO COLETIVA DE CONSUMO - ASSOCIAÇÃO DE PROTEÇÃO VEÍCULAR - DEBATE QUANTO A REGULARIDADE DA ATIVIDADE EXPLORADA - SENTENÇA DE PROCEDÊNCIA - RECURSO DA RÉ.
+QUESTÕES PROCESSUAIS: I) EFEITOS DA AÇÃO CIVIL PÚBLICA AJUIZADA PELA SUSEP NA JUSTIÇA FEDERAL - INVIABILIDADE DA MODIFICAÇÃO DE COMPETÊNCIA POR CONEXÃO - FEITO SENTENCIADO - ART. 55, §1º DO CPC. II) PERDA DE OBJETO EM RAZÃO DO FECHAMENTO DA SEDE DA APELANTE NO ESTADO DO PARANÁ - INOCORRÊNCIA - FEITO QUE VERSA SOBRE EVENTOS PRETÉRITOS AO ENCERRAMENTO DO POSTO DE ATENDIMENTO - LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ OU COMPETÊNCIA DESTA CORTE QUE, PORTANTO, TAMBÉM NÃO SÃO AFETADOS PELO ENCERRAMENTO DA SEDE PARANAENSE. III) INTERESSE FEDERAL - AUSENTE - EXPRESSA MANIFESTAÇÃO DE DESINTERESSE DA SUSEP - UNIÃO QUE EXERCE FISCALIZAÇÃO DO RAMO SECURITÁRIO ATRAVÉS DA MENCIONADA AUTARQUIA - INEXISTÊNCIA DE LITISCONSÓRCIO ATIVO NECESSÁRIO. IV) INTERESSE DE AGIR - AFERIÇÃO ATRAVÉS DA TEORIA DA ASSERÇÃO. AUSÊNCIA DE INTERESSE PÚBLICO EM RELAÇÃO AO PEDIDO DE CONDENAÇÃO DA APELANTE AO PAGAMENTO DE EVENTUAIS INDENIZAÇÕES DEVIDAS AOS USUÁRIOS QUE ESTEJAM INADIMPLIDAS - DIREITO INDIVIDUAL HETEROGÊNEO - AUSÊNCIA DE INDICAÇÃO DE ORIGEM COMUM NOS SUPOSTOS INADIMPLEMENTOS - QUESTÃO QUE DEVE SER OBJETO DE AÇÕES INDIVIDUAIS AJUIZADAS PELOS USUÁRIOS, NAS QUAIS SE DELIBERARÁ CASUÍSTICAMENTE A RESPEITO DO DEVER DE COBERTURA - INADEQUAÇÃO DA VIA ELEITA - FEITO EXTINTO SEM EXAME DE MÉRITO EM RELAÇÃO A ESTE PEDIDO. DEMAIS PRETENSÕES QUE PREENCHEM AS CONDIÇÕES DA AÇÃO - CONFIGURADO INTERESSE COLETIVO - PRESENTES OS REQUISITOS DE NECESSIDADE, UTILIDADE E ADEQUAÇÃO. V) CERCEAMENTO DE DEFESA - INOCORRÊNCIA - PROVAS TESTEMUNHAIS PRETENDIDAS QUE EM NADA CONTRIBUIRIAM PARA A SOLUÇÃO DA CONTROVÉRSIA - INTERPRETAÇÃO DOS EFEITOS JURÍDICOS DA ATIVIDADE DESEMPENHADA PELA APELANTE - QUESTÃO DE DIREITO SOBRE FATOS INCONTROVERSOS.
+MÉRITO: 1) NATUREZA E REGULARIDADE DA ATIVIDADE REALIZADA PELA DEMANDANTE - INOBSTANTE A POSSIBILIDADE JURÍDICA DE CONSTITUIÇÃO DE GRUPO RESTRITO DE AJUDA MÚTUA, PRESENTES CARACTERÍSTICAS QUE DESNATURAM A SIMPLES ATIVIDADE ASSOCIATIVA - GRUPO ABERTO PARA A INCORPORAÇÃO INDETERMINADA DE MEMBROS - PUBLICIDADE OSTENSIVA - CARACTERIZAÇÃO DE ATIVIDADE COMERCIAL - MERA INTENÇÃO ASSOCIATIVA DESCARACTERIZADA - PRECEDENTES DO STJ - COBRANÇA DE CONTRIBUIÇÕES QUE, ADEMAIS, ULTRAPASSAM A ESFERA DA SIMPLES AJUDA E SOCORRO MÚTUO - EXPLORAÇÃO VELADA DE CONTRATO DE SEGURO - ATIVIDADE IRREGULAR - NECESSIDADE DE AUTORIZAÇÃO E FISCALIZAÇÃO DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - MANUTENÇÃO DA CONDENAÇÃO À REGULARIZAÇÃO DA ATIVIDADE. 2) EXEQUIBILIDADE DA MEDIDA - VERIFICADA - POSSIBILIDADE JURÍDICA DE CONVERSÃO DE ASSOCIAÇÃO EM SOCIEDADE ANÔNIMA - ARTS. 84 E 85 DA INSTRUÇÃO NORMATIVA 81/2020 DO MINISTÉRIO DA ECONOMIA. 3) DANOS MORAIS COLETIVOS - NÃO CONFIGURADOS - INSUFICIÊNCIA DE MERA EXISTÊNCIA DE UMA CONDUTA ANTIJURÍDICA - NECESSIDADE DE DEMONSTRAÇÃO DE LESÃO A VALORES FUNDAMENTAIS DA SOCIEDADE - ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA - ÔNUS PROBATÓRIO DA PARTE AUTORA - EM QUE PESE A IRREGULARIDADE DA ATIVIDADE E NECESSIDADE DE SUA ADEQUAÇÃO PERANTE A SUSEP, AUSENTE DEMONSTRAÇÃO DE QUE TAL CONDIÇÃO TENHA ENSEJADO A DESASSISTÊNCIA DOS USUÁRIOS QUANDO SOFRERAM UM SINISTRO - CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS COLETIVOS AFASTADA. 4) PEDIDO DE DEVOLUÇÃO DOS VALORES PAGOS PELOS USUÁRIOS DESDE O INÍCIO DAS ATIVIDADES DA APELANTE - ANÁLISE NA FORMA DO ART. 1.013, §3º, INCISO III DO CÓDIGO DE PROCESSO CIVIL - MEDIDA QUE ENSEJARIA O ENRIQUECIMENTO SEM CAUSA DOS USUÁRIOS, EM ESPECIAL DAQUELES QUE TIVERAM DANOS COBERTOS PELA APELANTE - IMPROCEDÊNCIA DO PEDIDO QUE SE IMPÕE.
+APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Embargos de declaração rejeitados (fl. 1.3656):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO- AÇÃO COLETIVA DE CONSUMO - ACÓRDÃO QUE REFORMOU PARCIALMENTE A SENTENÇA - CONTRADIÇÃO - INOCORRÊNCIA - AUSÊNCIA DE INCOERÊNCIA LÓGICA ENTRE OS ELEMENTOS DA DECISÃO - TESES DE PERDA DE OBJETO E COMPETÊNCIA DA JUSTIÇA ESTADUAL QUE FORAM ENFRENTADAS DE FORMA CLARA E EXPRESSA - PARTE QUE PRETENDE REDISCUTIR O MÉRITO DA DECISÃO - FINALIDADE ESTRANHA À NATUREZA DOS ACLARATÓRIOS - QUESTÕES SUSCITADAS PRE-QUESTIONADAS NA FORMA DO ART. 1.025 DO CPC, AINDA QUE AUSENTES VÍCIOS NA DECISÃO COMBATIDA.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+A parte agravante, nas razões do agravo interno, sustenta que (fl. 1.601):
+Dessarte, cumpridas as providências para conhecimento das razões perfilhadas com a interposição do Agravo de Instrumento, conforme se verifica nas guias judiciais acostadas nestes autos, faz-se necessário o conhecimento da irresignação recursal, tendo em vista a impugnação no modo oportuno, não se fazendo presente a incidência do verbete da Súmula desde Colendo Tribunal Superior.
+O r. despacho em decisão monocrática não consignou acerca das guias já amealhadas nos autos, pelas quais não há prejudicialidade ao conhecimento do agravado de instrumento ora interposto.
+No prazo concedido para regularização do vício, o recolhimento se deu no interregno do prazo, possibilitando o conhecimento do recurso.
+Já nas razões do Agravo em Recurso Especial, restou colacionado os precedentes desta Corte, tendo em vista a importância da matéria debatida na peça vestibular e o empenho demonstrado pela agravante.
+Pugna, por fim, pelo conhecimento e provimento de seu agravo interno.
+O agravado apresentou contrarrazões (fls. 1.614-1.619).
+É, no essencial, o relatório.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL E AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DO PREPARO. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. DESERÇÃO. SÚMULA N. 187/STJ.
+1. A jurisprudência do STJ assentou que a parte recorrente comprovará, no ato de interposição do recurso, quando exigido pela legislação pertinente, o respectivo preparo ou o benefício da justiça gratuita, sob pena de deserção.
+2 . Hipótese em que o recurso especial foi protocolado, na origem, sem a devida comprovação do pagamento das custas inerentes ao apelo.
+3. Tendo sido oportunizada à parte a regularização do preparo, e não o fazendo no prazo legal, legítima a decretação de deserção do recurso. Incidência da Súmula n. 187/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não merece provimento.
+A presidência do STJ não conheceu do recurso especial em razão do óbice da Súmula n. 187/STJ, uma vez que a agravante não juntou a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento. D estaco trechos da decisão ora agravada (fl. 534):
+ ..
+Mediante análise do recurso de SMART CAR AUTO CLUBE DE BENEFICIOS, a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgRg no AR Esp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, D Je de 23/6/2020; AgInt no R Esp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, D Je de 11/5/2020; e AgInt no AR Esp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, D Je de 20/3/2020.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis.
+Ressalte-se que a petição de fls. 1570/1573, trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+ ..
+A decisão agravada não merece reforma.
+Apesar de devidamente intimada a regularizar o referido vício, a parte recorrente não se desincumbiu de comprovar dentro do prazo concedido
+A jurisprudência do STJ, à luz do expressamente previsto no art. 1.007, § 4º, do CPC, já reiteradamente assentou que o recorrente comprovará, no ato de interposição do recurso, quando exigido pela legislação pertinente, o respectivo preparo ou comprovar ser beneficiário da justiça gratuita, sob pena de deserção e de incidência da Súmula n. 187/STJ.
+A propósito, cito julgado da Corte Especial do STJ:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREPARO RECURSAL. APRESENTAÇÃO DE COMPROVANTE DE AGENDAMENTO. IRREGULARIDADE. INTIMAÇÃO PARA RECOLHER EM DOBRO. JUNTADA POSTERIOR DA GUIA DE RECOLHIMENTO. PRECLUSÃO CONSUMATIVA. DESERÇÃO. SÚMULA 187/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. É deserto o recurso dirigido a esta Corte se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015. Precedentes.
+3. A juntada posterior de comprovante de pagamento de custas não é capaz de superar a deserção em razão da preclusão consumativa.
+4. Agravo interno não provido.
+(AgInt nos EREsp n. 1.848.579/CE, relator Ministro Benedito Gonçalves, Corte Especial, julgado em 27/9/2022, DJe de 3/10/2022.)
+Tendo sido oportunizada à parte a regularização do preparo e não o fazendo no prazo legal, legít ima a decretação de deserção do recurso:
+2. É deserto o recurso quando a parte recorrente, intimada efetuar o recolhimento do preparo, não cumpre a diligência no prazo fixado. Aplicação da Súmula 187 desta Corte. (AgInt no AREsp n. 2.064.741/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 8/6/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
