@@ -1,0 +1,11 @@
+DECISÃO
+Por meio deste writ, impetrado em benefício de Sidinei Araujo Santos - condenado à pena de 9 anos, 5 meses e 25 dias de reclusão, em regime inicial fechado, e ao pagamento de 21 dias-multa, como incurso no art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, vedado o recurso em liberdade (Processo n. 1501759-28.2022.8.26.0559 - 4ª Vara Criminal da comarca de São José do Rio Preto/SP - fls. 582/591) - contra acórdão denegatório do Tribunal de Justiça de São Paulo (HC n. 2004959-09.2025.8.26.0000 - fls. 5/10), o impetrante busca, em síntese, assegurar ao paciente o direito de recorrer em liberdade em face do reconhecimento do excesso de prazo para envio dos autos a instância superior com réu preso preventivamente e não tendo expectativa de julgamento do recurso de apelação (fl. 3), pois o Juízo de primeiro grau deu andamento para intimação de contrarrazões e sanear o processo, porém já se passaram 274 dias de inércia processual e sequer o processo foi distribuído para a turma (fl. 3).
+Liminar indeferida (fls. 804/805).
+Prestadas as informações (fls. 811/840 e 842/843), o Ministério Público Federal opinou pela prejudicialidade do habeas corpus (fls. 849/851).
+É o relatório.
+Com razão o parecer ministerial.
+Recaindo a presente insurgência em assegurar ao ora paciente o direito de recorrer em liberdade, ao argumento de excesso de prazo para o envio do processo (n. 1501759-28.2022.8.26.0559) à instância superior após a interposição do recurso de apelação pela defesa e, considerando a informação prestada pelo Presidente da Seção de Direito Criminal do Tribunal de Justiça de São Paulo, à fl. 812, dando conta de que os autos da apelação citada deram entrada nesta Casa aos 18 de fevereiro último e estão em fase de distribuição, resta, pois, prejudicado este habeas corpus, diante da superveniente alteração do panorama fático-processual (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 157, § 2º, II, E § 2º-A, I, DO CP. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. TESE DE EXCESSO DE PRAZO PARA O ENVIO DA APELAÇÃO À INSTÂNCIA SUPERIOR. SUPERVENIENTE ENCAMINHAMENTO DO RECURSO À CORTE A QUO. ALTERAÇÃO DO PANORAMA FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
