@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. Acórdão impugnado que expôs satisfatoriamente as razões pelas quais esta Corte se convenceu de que a parte agravante não rebateu todos os fundamentos da decisão que inadmitiu o recurso especial, não havendo que se falar em omissão.
+3. Na hipótese, a embargante aponta uma suposta contrariedade entre a fundamentação constante da decisão impugnada e aquela consignada na decisão de admissibilidade do recurso especial, proferida pelo Tribunal de origem, sugerindo que teria ocorrido erro material no julgamento do agravo, com a Corte enfrentando argumentos relativos a outro processo, e não ao que está sendo discutido. Tal argumentação escapa ao conceito de contradição para interposição de embargos de declaração, estando, portanto, ausente o interesse-adequação necessário ao conhecimento, neste ponto, dos presentes embargos.
+Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de embargos declaratórios em agravo em recurso especial opostos por HELIBOMBAS INDÚSTRIA E COMÉRCIO DE EQUIPAMENTOS HIDRÁULICOS LTDA., em que figura como embargada a CAIXA ECONÔMICA FEDERAL.
+O aresto impugnado foi assim ementado (fl. 802):
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ. 1. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. 2. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. Agravo interno improvido.
+Nas razões dos presentes embargos (fls. 810-816), aduz ocorrência de omissão no acórdão impugnado, que teria ignorado os argumentos constantes no agravo regimental interposto contra a decisão monocrática da presidência desta Corte.
+Alega ainda que o aresto apresenta contradições, tendo em vista que a decisão da presidência foi lançada às fls. 769-771 e não fls. 480-482. Além disso, a razão da inadmissão, em verdade, foi a aplicação do art. 932, III, do CPC e art. 253, parágrafo único, I, do Regimento Interno desta Corte Especial e não a Súmula 182 do STJ.
+Sustenta ainda que o acórdão embargado também consignou que o Tribunal de origem teria inadmitido o recurso especial por "ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula n. 284/STF, ausência de interesse recursal, Súmula n. 5/STJ, Súmula n. 7/STJ e Súmula n. 83/STJ". Novamente, a decisão de inadmissão do TRF3 não suscitou em nenhum momento a questão da ausência de indicação de ponto omisso, contraditório ou obscuro, tampouco fez referência à Súmula 284/STF, dando a entender que o acórdão enfrentou autos de processo diverso.
+Requer o provimento dos embargos para afastar as omissões e contradições apontadas.
+Devidamente intimado, o embargado apresentou contrarrazões (fls. 820-821), pugnando pela rejeição dos embargos.
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+2. Acórdão impugnado que expôs satisfatoriamente as razões pelas quais esta Corte se convenceu de que a parte agravante não rebateu todos os fundamentos da decisão que inadmitiu o recurso especial, não havendo que se falar em omissão.
+3. Na hipótese, a embargante aponta uma suposta contrariedade entre a fundamentação constante da decisão impugnada e aquela consignada na decisão de admissibilidade do recurso especial, proferida pelo Tribunal de origem, sugerindo que teria ocorrido erro material no julgamento do agravo, com a Corte enfrentando argumentos relativos a outro processo, e não ao que está sendo discutido. Tal argumentação escapa ao conceito de contradição para interposição de embargos de declaração, estando, portanto, ausente o interesse-adequação necessário ao conhecimento, neste ponto, dos presentes embargos.
+Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos declaratórios são o recurso interposto perante o órgão jurisdicional que proferiu a decisão no intuito de afastar obscuridade, suprir omissão ou eliminar contradição existente no julgado.
+Nos autos ora analisados, decerto não assiste razão à embargante ao alegar a existência de omissão e contradição no acórdão impugnado, conforme passo a demonstrar:
+A omissão consiste na falta de pronunciamento judicial sobre ponto ou questão suscitada pelas partes, ou que o Juiz ou Juízes deveriam pronunciar-se de ofício.
+Conclui-se, assim, que as questões que o Juiz não pode deixar de decidir são todas as questões relevantes postas pelas partes para a solução do litígio, bem como as questões de ordem pública, as quais o Juiz deve resolver de ofício. Deixando de apreciar algum desses pontos, ocorre a omissão.
+Todavia, não se pode confundir questão ou ponto com fundamento ou argumento que servem de base fática, lógica para a questão, pois o Juiz não está obrigado a examinar todos os fundamentos das partes, sendo importante que indique somente o fundamento em que apoiou sua convicção no decidir.
+In casu, não obstante as matizadas altercações postas à deliberação, é certo que o acórdão impugnado expôs satisfatoriamente as razões pelas quais esta Corte se convenceu de que a parte agravante não rebateu todos os fundamentos da decisão que inadmitiu o recurso especial.
+Quanto a esse aspecto, vejamos o seguinte trecho do acórdão impugnado (fls. 802-805):
+(..) O Tribunal de origem inadmitiu o recurso especial considerando: ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula n. 284/STF, ausência de interesse recursal, Súmula n. 282/STF, Súmula n. 5/STJ, Súmula n. 7/STJ e Súmula n. 83/STJ. No caso dos autos, não houve impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial. Do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu os Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial (..).
+Com efeito, impossível apor-se a tais argumentações a pecha de omissão.
+Quanto às alegações de que o aresto apresentaria contradições, a irresignação também não merece prosperar.
+Isso porque, para efeitos da interposição de embargos declaratórios, a contradição é o vício que se estabelece no âmbito interno do julgado embargado. É a incoerência entre uma afirmação anterior e outra posterior, referentes ao mesmo tema e no mesmo contexto, gerando a impossibilidade de compreensão do julgado.
+Em outras palavras, há contradição quando o julgado apresenta proposições entre si inconciliáveis.
+Na hipótese, a embargante aponta uma suposta contrariedade entre a fundamentação constante da decisão impugnada e aquela consignada na decisão de admissibilidade do recurso especial, proferida pelo Tribunal de origem, dando a entender que teria ocorrido erro material no julgamento do agravo, tendo esta Corte enfrentado argumentos referentes a outro processo que não o ora discutido.
+A argumentação utilizada nas razões dos embargos, portanto, escapa ao conceito de contradição para interposição de embargos de declaração, estando ausente, portanto, o interesse-adequação necessário ao conhecimento, neste ponto, dos presentes embargos.
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
