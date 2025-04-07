@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PENHORA REALIZADA ANTES DO PEDIDO DE RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL. IMPOSSIBILIDADE DE LEVANTAMENTO DOS VALORES PELO CREDOR. RECURSO NÃO CONHECIDO.
+1. Nos termos do art. 49 da Lei n. 11.101/2005, todos os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, estão sujeitos ao processo de soerguimento.
+2. A existência do crédito se determina pela data do fato gerador, conforme entendimento fixado pelo STJ no Tema Repetitivo n. 1.051, independentemente da data da penhora.
+3. A força atrativa do juízo universal prevalece sobre atos constritivos determinados em execuções individuais, mesmo que anteriores ao pedido de recuperação, em observância ao princípio da preservação da empresa.
+4. O entendimento consolidado do STJ impede o levantamento de valores penhorados antes do pedido de recuperação, pois a destinação dos bens da recuperanda deve ser decidida pelo juízo da recuperação judicial.
+5. O acórdão recorrido está em consonância com a jurisprudência pacífica do STJ, aplicando-se, assim, a Súmula 83 do STJ, que impede o conhecimento do recurso especial quando a decisão impugnada segue orientação já firmada pelo Tribunal Superior.
+6. Recurso especial não conhecido.
+RELATÓRIO
+Trata-se de recurso especial interposto por LET"S RENT A CAR S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de execução de título extrajudicial.
+O acórdão recorrido foi assim ementado (fls. 74-75):
+RECUPERAÇÃO JUDICIAL Constrição Decisão judicial que, em caráter de cooperação processual, solicitou que os valores penhorados em execução promovida pela agravante fossem liberados diretamente em favor da recuperanda Alegação de que que o processamento da recuperação judicial não possui efeitos ex tunc, e, portanto, não alcança atos expropriatórios consolidados antes da distribuição e/ou deferimento do procedimento recuperacional Descabimento Incontroverso no presente caso que o crédito do agravante sujeita-se à recuperação judicial Juízo Recuperatório competente para deliberar acerca do patrimônio da empresa recuperanda Manutenção da penhora acarreta sim benefício indevido à recorrente, sobretudo porque, enquanto não transferida ao credor, a quantia remanesce na esfera patrimonial da recuperanda Necessidade de o crédito ser listado na recuperação judicial Decisão mantida Agravo de instrumento não provido.
+Os embargos de declaração opostos foram rejeitados (fl. 101).
+No recurso especial, a parte alega violação dos seguintes artigos:
+a) 6º da Lei n. 11.101/2005, pois o acórdão permite o levantamento de constrições realizadas antes do pedido de recuperação judicial, contrariando o efeito ex nunc do stay period, que deveria suspender apenas futuras medidas de constrição (fls. 110-111);
+b) 52, III, da Lei n. 11.101/2005, porquanto o acórdão desrespeita o ato jurídico perfeito e a segurança jurídica, ao não preservar situações consolidadas antes do pedido de recuperação (fls. 110-111);
+c) 6º, caput, e § 1º do Decreto-Lei n. 4.657/1942, visto que o acórdão desrespeita o ato jurídico perfeito e a segurança jurídica, ao não preservar situações consolidadas antes do pedido de recuperação (fls. 110-111).
+Requer o provimento para que se reforme o acórdão recorrido e seja autorizado o imediato levantamento dos valores depositados na execução em favor da Recorrente (fl. 116).
+Nas contrarrazões, YELLOW SOLUÇÕES DE MOBILIDADE LTDA. e GRIN MOBILIDADE LTDA. (fls. 121-126) alegam que o recurso especial não deve ser admitido, pois não ataca os fundamentos do acórdão recorrido e a fundamentação é deficiente. No mérito, sustentam que a decisão está em harmonia com a LRF e a jurisprudência do STJ, requerendo o desprovimento do recurso.
+É o relatório.
+EMENTA
+DIREITO EMPRESARIAL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. PENHORA REALIZADA ANTES DO PEDIDO DE RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL. IMPOSSIBILIDADE DE LEVANTAMENTO DOS VALORES PELO CREDOR. RECURSO NÃO CONHECIDO.
+1. Nos termos do art. 49 da Lei n. 11.101/2005, todos os créditos existentes na data do pedido de recuperação judicial, ainda que não vencidos, estão sujeitos ao processo de soerguimento.
+2. A existência do crédito se determina pela data do fato gerador, conforme entendimento fixado pelo STJ no Tema Repetitivo n. 1.051, independentemente da data da penhora.
+3. A força atrativa do juízo universal prevalece sobre atos constritivos determinados em execuções individuais, mesmo que anteriores ao pedido de recuperação, em observância ao princípio da preservação da empresa.
+4. O entendimento consolidado do STJ impede o levantamento de valores penhorados antes do pedido de recuperação, pois a destinação dos bens da recuperanda deve ser decidida pelo juízo da recuperação judicial.
+5. O acórdão recorrido está em consonância com a jurisprudência pacífica do STJ, aplicando-se, assim, a Súmula 83 do STJ, que impede o conhecimento do recurso especial quando a decisão impugnada segue orientação já firmada pelo Tribunal Superior.
+6. Recurso especial não conhecido.
+VOTO
+Na origem, trata-se de execução de título executivo extrajudicial. O Juízo de primeiro grau deferiu o pedido de penhora on-line de ativos financeiros da executada YELLOW SOLUÇÕES DE MOBILIDADE LTDA., ora recorrida, resultando no bloqueio da quantia de R$ 84.294,74.
+Posteriormente, foi informado nos autos o ajuizamento do pedido de recuperação judicial da executada YELLOW. Em observância ao princípio da cooperação processual, o Juízo da recuperação judicial solicitou a liberação do valor bloqueado diretamente em favor da recuperanda.
+Diante dessa decisão, a ora recorrente interpôs recurso de agravo de instrumento, contudo, o Tribunal de Justiça estadual negou provimento ao recurso.
+Sobreveio o recurso especial.
+A questão cinge-se em decidir se é possível o levantamento, pelo credor, de penhora em data anterior ao do processamento da recuperação judicial da empresa devedora.
+Retornando ao presente caso, a penhora foi realizada em 8/7/2020, ao passo que o pedido de recuperação judicial foi distribuído em 29/7/2020.
+Nos termos do art. 49 da Lei n. 11.101/2005, "estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos".
+Assim, não são submetidos aos efeitos do processo de soerguimento aqueles credores cujas obrigações foram constituídas após a data em que o devedor ingressa com o pedido de recuperação.
+Questão relevante é definir quando o crédito se considera existente.
+Sobre o assunto, o STJ já se pronunciou no julgamento do Tema n. 1.051, em recurso especial repetitivo, fixando a seguinte tese: "Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador". Veja-se a ementa do julgado:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. PEDIDO. FATO GERADOR ANTERIOR. SUBMISSÃO. EFEITOS. NOVAÇÃO. CUMPRIMENTO DE SENTENÇA. PROSSEGUIMENTO. IMPOSSIBILIDADE. HONORÁRIOS. CAUSALIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se o crédito se submete aos efeitos da recuperação judicial e, nessa hipótese, se o cumprimento de sentença deve ser extinto.
+3. Nos termos da iterativa jurisprudência desta Corte, consolidada no julgamento de recurso repetitivo, para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+4. Na hipótese, o fato gerador - descumprimento do contrato de prestação de serviços firmado entre as partes - é anterior ao pedido de recuperação judicial, motivo pelo qual deve ser reconhecida a natureza concursal do crédito.
+5. O credor não indicado na relação inicial de que trata o art. 51, III e IX, da Lei nº 11.101/2005 não está obrigado a se habilitar, pois o direito de crédito é disponível, mas a ele se aplicam os efeitos da novação resultantes do deferimento do pedido de recuperação judicial.
+6. O reconhecimento judicial da concursalidade do crédito, seja antes ou depois do encerramento do procedimento recuperacional, torna obrigatória a sua submissão aos efeitos da recuperação judicial, nos termos do art. 49, caput, da Lei nº 11.101/2005.
+7. Na hipótese, a recuperação judicial ainda não foi extinta por sentença transitada em julgado, podendo o credor habilitar seu crédito, se for de seu interesse, ou apresentar novo pedido de cumprimento de sentença após o encerramento da recuperação judicial, observadas as diretrizes estabelecidas no plano de recuperação aprovado, diante da novação ope legis (art. 59 da LREF).
+8. Nos casos de extinção do processo sem resolução de mérito, a responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.
+9. Recurso especial conhecido e provido. (REsp n. 1.655.705/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 27/4/2022, DJe de 25/5/2022.)
+No caso dos autos, é induvidoso que o fato gerador ocorreu antes do pedido de recuperação judicial.
+Assim, o crédito possui natureza concursal.
+Ressalte-se que o fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal.
+Portanto, agiu corretamente o Juízo de primeiro grau ao determinar a liberação de valores bloqueados em nome da recuperanda, já que o juízo da recuperação judicial é competente para decidir sobre atos constritivos relativos aos bens da empresa recuperanda.
+Nesse sentido:
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RECUPERAÇÃO JUDICIAL. PENHORA DEFERIDA EM OUTRO PROCESSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. COMPETÊNCIA DO JUÍZO UNIVERSAL PARA DECIDIR ACERCA DA DESTINAÇÃO DOS BENS DA EMPRESA RECUPERANDA. ART. 47, Lei 11.101/2005. PRECEDENTES. VENDA DE IMÓVEL JÁ PENHORADO EM OUTRO PROCESSO. POSSIBILIDADE. HIPÓTESE EM QUE O BEM JÁ ESTAVA EXPRESSAMENTE DESTINADO À VENDA, NO PLANO DE RECUPERAÇÃO DA EMPRESA. PREVALÊNCIA DO PROCEDIMENTO DE SOERGUIMENTO PERANTE A AÇÃO INDIVIDUAL. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS AOS PARÂMETROS DA JURISPRUDÊNCIA DO STJ. IRRISORIEDADE DO VALOR ARBITRADO NA ORIGEM. RECURSO ESPECIAL DE INTERPART PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO. RECURSO ESPECIAL DE SÉRGIO E. I. PROVIDO.
+ ..
+3. Embargos de Terceiro ajuizados buscando o levantamento da penhora determinada nos autos da ação de despejo por falta de pagamento, em fase de cumprimento de sentença, ajuizada por INTERPART contra ZOOMP (em recuperação judicial), diante da venda do imóvel penhorado a SERGIO E.I. (embargante), nos autos da recuperação judicial desta última.
+4. A jurisprudência do STJ é pacífica no sentido de ser da competência do Juízo da recuperação judicial a análise e controle dos atos de constrição relativos aos bens da empresa recuperanda, em observância ao princípio da sua preservação.
+5. A norma contida no art. 47 da Lei nº 11.101/2005 se volta a possibilitar a recuperação da pessoa jurídica que se encontrar em desequilíbrio financeiro, favorecendo, dentro do possível, a sua preservação.
+ ..  (REsp n. 1.854.493/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 23/8/2022, DJe de 26/8/2022, destaquei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUTADA EM RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL. IMPOSSIBILIDADE.
+1. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido (ainda que não vencidos) e a aferição da existência ou não do crédito deve levar em consideração a data da ocorrência de seu fato gerador (fonte da obrigação).
+2. Resultando a obrigação de fato anterior ao pedido de recuperação, a ação de conhecimento somente deve prosseguir no juízo próprio até a formação do título. Ocorrido tal fato, não tendo transitado em julgado a recuperação judicial, o crédito deverá ser habilitado no quadro geral de credores. Precedentes.
+3. O fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal.
+4. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 1.878.985/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021, destaquei.)
+DIREITO CIVIL. AGRAVO INTERNO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE FALÊNCIA. EMPRESA EXECUTADA EM RECUPERAÇÃO JUDICIAL. SUSPENSÃO DO PROCESSO DURANTE O STAY PERIOD. DEPÓSITO ELISIVO. TRÂNSITO EM JULGADO DA AÇÃO DE FALÊNCIA POSTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. CONTROLE DOS ATOS DE EXECUÇÃO PELO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL.
+1. Nos termos da jurisprudência do STJ, em vista do princípio da preservação das empresas, os atos de execução contra o patrimônio de empresa em recuperação judicial devem ser objeto de controle no Juízo universal.
+ ..  (AgInt no AgInt no AREsp n. 1.901.739/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO CONSTITUÍDO ANTES DO DEFERIMENTO DO PLANO RECUPERACIONAL. VIOLAÇÃO DOS ARTS. 489 E 1.022, DO CPC. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 835, § 2º, DO CPC. EQUIPARAÇÃO DO SEGURO GARANTIA AO DEPÓSITO EM DINHEIRO. DESNECESSIDADE DE RENOVAÇÃO DA GARANTIA. SUBMISSÃO AO PLANO DE RECUPERAÇÃO. AGRAVO DESPROVIDO.
+ ..
+3. "Nos termos do entendimento firmado na Segunda Seção desta Corte, ainda que exista penhora anterior, uma vez deferido o processamento da recuperação judicial, os atos executórios subsequentes devem ser centralizados no juízo falimentar, sob pena de inviabilizar o plano apresentado" (AgInt nos EDcl no CC n. 152.650/PE, relator Ministro Marco Buzzi, Segunda Seção, julgado em 1/10/2019, DJe de 11/10/2019.)
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.642.182/RS, de minha relatoria, Quarta Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. PENHORA DETERMINADA EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. SUJEIÇÃO DO CRÉDITO AO PLANO DE SOERGUIMENTO. PRECEDENTES.
+1- Execução distribuída em 27/8/2013. Recurso especial interposto em 26/10/2015 e concluso à Relatora em 5/9/2016.
+2- Controvérsia que se cinge em definir se créditos penhorados anteriormente à data do pedido de recuperação judicial devem ou não sujeitar-se ao juízo universal.
+3- A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4- A penhora determinada em processo executivo anteriormente ao deferimento do pedido de recuperação judicial não obsta a inclusão do crédito respectivo no plano de reerguimento da sociedade empresária devedora.
+5- Recurso especial provido. (REsp n. 1.635.559 - SP, 2016/0236637-5, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/11/2016, DJe de 11/11/2016.)
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONFLITO DE COMPETÊNCIA. JUIZADO ESPECIAL CÍVEL. EXECUÇÃO SINGULAR MOVIDA CONTRA A RECUPERANDA. PRÁTICA DE ATOS DE CONSTRIÇÃO PATRIMONIAL. IMPOSSIBILIDADE. RELAÇÃO DE CONSUMO. IRRELEVÂNCIA.
+1- Conflito de competência suscitado em 9/11/2015. Recurso especial interposto em 28/3/2016 e concluso à Relatora em 30/9/2016.
+2- Controvérsia que se cinge em definir se o juízo onde se processa a recuperação judicial da recorrente é o competente para processamento e julgamento de ação indenizatória derivada de relação de consumo em fase de cumprimento de sentença.
+3- A interpretação conjunta das normas contidas nos arts. 6º, 47 e 49 da LFRE, bem como o entendimento do STJ acerca da questão, permitem concluir que o juízo onde tramita o processo de recuperação judicial - por ter à sua disposição todos os elementos que traduzem com precisão as dificuldades enfrentadas pelas devedoras, bem como todos os aspectos concernentes à elaboração e à execução do plano de soerguimento - é quem deve decidir sobre o destino dos bens e valores objeto de execuções singulares movidas contra a recuperanda, ainda que se trate de crédito decorrente de relação de consumo. (grifei)
+4- Recurso Especial Provido. (REsp 1630702/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/2/2017, DJe de 10/2/2017).
+Portanto, a conclusão do Tribunal de origem está em consonância com o entendimento desta Corte.
+É o caso, pois, de não conhecimento do recurso em razão da Súmula n. 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" ), aplicável também aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional. Nesse mesmo sentido: AgInt no AREsp n. 882.405/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 15/5/2018, DJe de 25/5/2018; AgInt no AREsp n. 746.784/RO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 20/3/2018, DJe de 23/3/2018; e AgRg no AREsp n. 230.500/AL, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/10/2013, DJe de 28/10/2013.
+Ante o exposto, não conheço do recurso especial.
+É o voto.
