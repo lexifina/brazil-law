@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de CARLOS GALDINO DA SILVA - condenado como incurso no crime de roubo simples -, em que se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DE PERNAMBUCO (Apelação n. 0002270-68.2019.8.17.1590), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta ao paciente inicialmente pelo Juízo de Direito da Vara Criminal da comarca de Gravatá/PE (Ação Penal n. 0002270-68.2019.8.17.1590), ao argumento de que a singela referência à premeditação, não pode, por si só, justificar a exasperação da reprimenda, como ocorreu no caso em tela (fl. 6).
+Ocorre que, conforme bem pontuado em sentença e confirmado pelo acórdão impugnado, as circunstâncias do crime foram devidamente valoradas, pois "são os elementos acidentais não participantes da estrutura do tipo, embora envolvendo delito. Um crime pode ser praticado, por exemplo, em local ermo, com premeditação, para dificultar a sua descoberta e a apuração do culpado, constituindo circunstância gravosa. No caso dos autos, pesa contra o agente a circunstância de, sendo conhecedor de informações sobre vítima (como afirmado em seu interrogatório), ter planejado crime, escolhendo horário local onde abordaria Adryell, assaltando-o quando este, após ter concluído sua jornada laboral, achava-se, por volta das 20h30, esperando esposa, no local do fato, para juntos irem para casa" (fl. 19 - grifo nosso).
+Com efeito, a premeditação e a ação planejada são elementos concretos que justificam a valoração negativa das circunstâncias do crime, em linha com a jurisprudência dessa Corte de Justiça (AREsp n. 2.361.171/RN, Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 16/1/2025).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO SIMPLES. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA. REVISÃO DA PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Inicial indeferida liminarmente.
