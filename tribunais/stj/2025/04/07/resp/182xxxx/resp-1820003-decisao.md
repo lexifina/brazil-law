@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE MACEIÓ, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado (fl. 117):
+APELAÇÃO CÍVEL. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. SENTENÇA QUE CONDENOU O MUNICÍPIO DE MACEIÓ AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. PRETENSÃO DE EXCLUSÃO DA CONDENAÇÃO À VERBA HONORÁRIA. RECONHECIMENTO DO DIREITO DA DEFENSORIA PÚBLICA À PERCEPÇÃO DESTA VERBA DE SUCUMBÊNCIA EM AÇÃO CIVIL PÚBLICA. PREVISÃO CONSTANTE NO ART. 4º, XXI, DA LEI COMPLEMENTAR N. 80/94, QUE NÃO CONFLITA COM AS ALTERAÇÕES INTRODUZIDAS PELA EMENDA CONSTITUCIONAL N. 80/2014. RECURSO CONHECIDO E NÃO PROVIDO.
+Em seu recurso especial, sustenta o recorrente, além da divergência jurisprudencial, violação aos artigos 17 e 18, ambos da Lei n. 7.347/85 e ao artigo 85, § 8º, do Código de Processo Civil, alegando que "se nos casos de improcedência da ação civil pública, o autor apenas será condenado ao pagamento de honorários advocatícios quando comprovada a má-fé, a ele também não deve ser devida tal verba nas hipóteses de procedência da ação" (fl. 143).
+Requer o provimento do recurso para que seja afastada a condenação do município de Maceió ao pagamento de honorários sucumbenciais.
+É o relatório.
+A insurgência merece prosperar.
+Da análise dos autos, verifica-se que o Tribunal a quo manteve a condenação do município ao pagamento de honorários advocatícios em sede de ação civil pública, nos seguintes termos, no que interessa (fls. 119-120):
+6 Observa-se dos autos que a Defensoria Pública do Estado de Alagoas, interpôs ação civil pública em beneficio de Giovanni Roncalli Casado de Souza, em face do Município de Maceió, com o objetivo de obter o fornecimento de medicamentos, tendo obtido provimento judicial favorável ao seu pleito, oportunidade em que o ente público municipal restou condenado, também, ao pagamento de honorários advocatícios fixados em R$ 100,00 (cem reais).
+7 A controvérsia instaurada cinge-se especificamente contra esta última parte da sentença, argumentando, o Município de Maceió, que é descabida sua condenação ao pagamento da referida verba, em razão da superveniência de alterações constitucionais introduzidas pela EC n. 80/2014, bem como por se tratar de uma ação civil pública.
+8 Primeiramente, quanto ao argumento do Município de Maceió de que não é cabível a fixação de honorários em sede de ação civil pública, passo a analisar o teor dos artigos 17 e 18 da lei n. 7.347/1985, ipsis literis:
+(..)
+9 Da simples leitura dos dispositivos, constata-se que a "lei expressamente dispensa o adiantamento das custas processuais e isenta o pagamento de honorários advocatícios em desfavor do demandante em sede de ações coletivas", com o objetivo de assegurar o acesso à justiça na defesa dos interesses difusos, coletivos e individuais homogêneos.
+10 Por esse motivo, a jurisprudência do Superior Tribunal de Justiça tem conferido uma "interpretação restritiva ao privilégio processual, limitando-o ao autor da demanda, pois não se revela razoável estender o beneficio àqueles que se encontram no polo passivo da relação processual".
+11 Assim, a dispensa de pagamento dos ônus sucumbenciais é direcionada apenas para o autor da demanda, devendo ser reconhecido o direito da parte vencedora ao recebimento dos honorários sucumbenciais.
+12 Dessa forma, à luz de uma interpretação sistemática entre o microssistema processual da ação civil pública e as regras gerais processuais, constata-se que o ônus sucumbencial na ação civil pública se sujeita a um duplo regime: (a) vencida a parte autora, aplicam-se as disposições especiais dos artigos 17 e 18 da lei n. 7.347/85, mas (b) quando vencedora, deve-se aplicar, subsidiariamente, o art. 85 do CPC/2015, na medida em que, omissa a regra especial, incide a lei geral, in casu, o Código de Processo Civil.
+Constata-se, pois, que o Tribunal de origem decidiu a questão em desacordo com o entendimento do Superior Tribunal de Justiça, que já estabeleceu que "em prestígio ao princípio da simetria, a isenção da parte autora do pagamento de honorários advocatícios, prevista no art. 18 da Lei n. 7.347/1985, deve ser estendida à parte ré, revelando-se cabível a condenação apenas diante da comprovação de má-fé" (AgInt no REsp n. 2.049.000/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/2/2024, DJe de 5/3/2024).
+No mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS. ISENÇÃO.
+1. "O acórdão recorrido adotou entendimento consolidado nesta Corte segundo o qual, em prestígio ao princípio da simetria, a isenção da parte autora do pagamento de honorários advocatícios, prevista no art. 18 da Lei n. 7.347/1985, deve ser estendida à parte ré, revelando-se cabível a condenação apenas diante da comprovação de má-fé" (AgInt no REsp n. 2.049.000/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 5/3/2024).
+2. Agravo interno não provido.
+(AgInt no REsp n. 2.116.980/BA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ISENÇÃO LEGAL QUE APROVEITA AMBAS AS PARTES. ENTENDIMENTO DESTA CORTE. PROVIMENTO NEGADO .
+1. O entendimento desta Corte Superior é o de que, em homenagem ao princípio da simetria, a isenção da parte autora do pagamento de honorários sucumbenciais na ação civil pública, prevista no art. art. 18 da Lei 7.347/1985, estende-se à parte ré, com exceção apenas dos casos em que comprovada a má-fé.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.970.152/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/11/2023, DJe de 17/11/2023.)
+Desse modo, estando o acórdão recorrido em confronto com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor o provimento do recurso especial, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para afastar a condenação do município de Maceió-AL ao pagamento de honorários de sucumbência.
+Publique-se.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. ISENÇÃO LEGAL QUE APROVEITA AMBAS AS PARTES. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
