@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto por AGATHA CHRISTE TRINDADE SILVA contra decisão que inadmitiu recurso especial contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+EMENTA: APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS - ARTIGOS 33 E 35 DA LEI Nº 11.343/06 - PRELIMINARES - ILICITUDE DA PROVA - EXTRAÇÃO DE DADOS DE CELULARES - QUEBRA DE SIGILO JUDICIALMENTE AUTORIZADA - REJEIÇÃO - VIOLAÇÃO DE DOMICÍLIO - AUTORIZAÇÃO PARA ENTRADA NO IMÓVEL - DESENECESSIDADE DE MANDADO DE BUSCA E APREENSÃO - VIOLAÇÃO DA CADEIA DE CUSTÓDIA - INOCORRÊNCIA - AUSÊNCIA DE PERITO OFICIAL NA ELABORAÇÃO DE LAUDO DE EXTRAÇÃO DE DADOS DE CELULAR - IRRELEVÂNCIA - ILICITUDE DA PROVA NÃO EVIDENCIADA - AUSÊNCIA DE LITISPENDÊNCIA - MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE COMPROVADAS - EXERCÍCIO DE COMANDO NA ORGANIZAÇÃO CRIMINOSA - RELATÓRIO CIRCUNSTANCIADO COM EXTRAÇÃO DE DADOS DE CELULAR APREENDIDO - COMPROVAÇÃO DO VÍNCULO ASSOCIATIVO ESTÁVEL - ARTIGO 42 DA LEI DE DROGAS - UTILIZAÇÃO NA CULPABILIDADE - POSSIILIDADE - AGRAVANTE DA LIDERANÇA - ARTIGO 62, I, DO CP - POSSIBILIDADE - MENORIDADE RELATIVA - RECONHECIMENTO - TRÁFICO PRIVILEGIADO - DESCABIMENTO - CONDENAÇÃO PELO CRIME DO ARTIGO 35 DA LEI DE DROGAS - ARTIGO 40, V E VI, DA LEI DE DROGAS - PARTICIPAÇÃO DE MENOR NOS FATOS - TRÁFICO INTERESTADUAL - COMPROVAÇÃO - PENA DE MULTA - PRECEITO SECUNDÁRIO - NECESSIDADE LEGAL - ISENÇÃO DAS CUSTAS PROCESSUAIS - EFEITO DA CONDENAÇÃO.
+1. Se há autorização judicial para a extração de dados de aparelhos celulares, não há que se falar em nulidade, conforme precedentes do STJ.
+2. Não há violação de domicílio quando o ingresso dos policiais na residência para realizar a busca e apreensão ocorreu mediante autorização da própria ré.
+3. Não basta a mera menção à mera irregularidade no curso do inquérito policial, devendo a parte arguir nos autos no momento oportuno, demostrando efetivo prejuízo à defesa, conforme artigo 563 do CPP.
+4. Não há nenhum óbice na elaboração de laudo pericial de extração de dados de celular por investigadores da polícia civil, sendo desnecessário que o estudo tenha sido realizado por profissional especializado ou perito oficial, precedente do E. STF.
+5. Inexistência de litispendência diante da ausência de identidade de pedido, partes e causa de pedir.
+6. Impõe-se a condenação quando comprovadas estão a autoria e a materialidade dos delitos de tráfico de droga e organização criminosa, afastando-se os pleitos absolutórios e desclassificatórios. Restando comprovado que os acusados se reuniram de forma estruturada para prática do tráfico de drogas, com divisão hierárquica e tarefas.
+7. É possível a utilização do artigo 42 da Lei de Drogas para fins de considerar desfavorável a culpabilidade, na primeira fase da dosimetria, conforme entendimento do E. STJ.
+8. Demonstrada a participação e efetiva liderança da associação criminosa, de rigor o reconhecimento fundamentado da agravante de liderança prevista no artigo 62, I, do CP.
+9. Os fatos foram praticados enquanto o réu era menor de 21 anos de idade, de modo a reconhecer a atenuante da menoridade relativa.
+10. A condenação pelo crime do artigo 35 da Lei de Drogas afasta a possibilidade de concessão da causa de diminuição de pena prevista no artigo 33, §4º, do mesmo diploma, porquanto evidencia a dedicação do agente à atividade criminosa.
+11. Comprovação de que o grupo utilizava menores de idade para prática do tráfico de drogas, bem com o tráfico interestadual de drogas, impondo a manutenção das causas de aumento previstas no artigo 40 da Lei nº 11.343/06.
+12. Pena de multa decorre de imperativo legal, prevista no preceito secundário dos delitos reconhecidos em sentença, impondo ao Juízo sentenciante a sua fixação. Valor fixado no mínimo legal.
+13. A condenação ao pagamento das custas processuais é um efeito da condenação criminal (CPP, art. 804), constatada a sua hipossuficiência financeira, as obrigações decorrentes da sucumbência têm exigibilidade suspensa pelo prazo de 05 (cinco) anos (CPC, art. 98, §§2º e 3º). Conforme entendimento firmando pelo STJ, a análise do pedido de isenção das custas processuais deve ser realizada pelo juízo da execução.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 4845/4849).
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (e-STJ fls. 5013/5016).
+É o relatório.
+Decido.
+Verifica-se que os pressupostos de admissibilidade recursal encontram-se presentes, de maneira que conheço do recurso de agravo em recurso especial.
+Por outro lado, tem-se que não é cabível recurso especial por meio do qual a parte recorrente pretende o reexame das provas produzidas durante a instrução processual, considerando o teor do enunciado da súmula n. 7 deste Superior Tribunal de Justiça, segundo o qual "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, verifica-se da petição do recurso especial interposto pelo recorrente ser este exatamente o caso, em que o recorrente pretende, por intermédio do referido recurso, reanálise e revaloração do contexto fático-probatório dos autos, circunstâncias vedadas pelo texto da referida súmula.
+Colaciona-se precedente no mesmo sentido:
+PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE DEVIDAMENTE FUNDAMENTADA, NA FORMA DO ART. 42 DA LEI DE DROGAS. NÃO INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO DECORRENTE DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que não admitiu o recurso especial, no qual se alegou violação aos arts. 33, § 4º, e 42 da Lei n. 11.343/2006, pleiteando a concessão de benefício legal e alegando bis in idem na dosimetria da pena, além da necessidade de redução da pena-base ao mínimo legal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve bis in idem na dosimetria da pena ao utilizar a quantidade de droga apreendida para aumentar a pena-base e para afastar a minorante do tráfico privilegiado, assim como se a quantidade de droga apreendida autoriza o aumento da basilar.
+3. A questão também envolve a análise da possibilidade de reexame de provas para verificar a dedicação dos recorrentes a atividades criminosas.
+III. RAZÕES DE DECIDIR
+4. A utilização da quantidade de droga para aumentar a pena-base e afastar a minorante não configura bis in idem, pois foram considerados elementos fáticos distintos, além da existência de outros elementos que evidenciam a dedicação a atividades criminosas.
+5. A reanálise do acervo fático-probatório é inviável em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+6. A majoração da pena-base é justificada com base na grande quantidade de droga apreendida (1 kg de maconha), sendo proporcional a fração de 1/6, na forma do art. 42 da Lei n. 11.343/2006.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.484.073/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJe de 12/12/2024.)
+Ademais, não merece acolhida o pleito de revisão da dosimetria da pena, tendo em vista que "a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, de minha relatoria, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO, FURTO E OCULTAÇÃO DE CADÁVER. DOSIMETRIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE, CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. ELEMENTOS QUE EXTRAPOLAM O TIPO PENAL. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte tem entendido que a dosimetria da pena só pode ser reexaminada em recurso especial quando se verificar, de plano, a ocorrência de erro ou ilegalidade, o que não se constata na hipótese em que o Tribunal de origem destacou fundamentação idônea para a valoração negativa das circunstâncias judiciais relativas à culpabilidade, circunstâncias e consequências do crime, destacando fundamentos que não integram o tipo penal.
+2. Inexistente erro ou ilegalidade na dosimetria da pena aplicada ao agravante, a desconstituição do entendimento firmado pelas instâncias ordinárias que, diante das peculiaridades do caso concreto, destacaram fundamentação idônea para majorar a pena-base do recorrente, incide à espécie o enunciado n. 7 da Súmula/STJ, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.598.714/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/6/2020, DJe de 29/6/2020, g.n.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
