@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de RENATO GOMES DE ALMEIDA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0003435-07.2022.8.19.0066), não comporta acolhimento.
+Com efeito, busca a impetração a absolvição pela ilicitude da prova obtida em desconformidade com o art. 158-A/F do CPP; nulidade da prisão em razão da suposta tortura sofrida; insuficiência probatória; subsidiariamente, o redimensionamento da pena-base para o mínimo legal (fl. 29).
+Informações prestadas (fls. 168/173), o Ministério Público Federal emitiu parecer pelo não conhecimento do mandamus (fl. 176).
+É o relatório.
+De plano, observo que, além de se tratar de writ destinado a revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, decidir de modo diverso às conclusões a que chegaram as instâncias de origem, sobretudo quanto à idoneidade da prova, à autoria e à materialidade dos crimes, e, por conseguinte, absolver o ora paciente, demandaria o reexame aprofundado do conjunto fático-probatório, providência descabida na via eleita do habeas corpus.
+Sobre o tema, confiram-se os seguintes precedentes: AgRg no HC n. 636.980/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2021; AgRg no HC n. 650.766/SP, de minha relatoria, Sexta Turma, DJe 17/9/2021; e AgRg no HC n. 718.028/PA, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/2/2022.
+Quanto à dosimetria, não verifico o alegado constrangimento, uma vez que a exasperação da pena-base, em razão da quantidade de drogas (5 anos e 10 meses), nos termos do art. 42 da Lei n. 11.343/2006, não ocorreu de forma desproporcional.
+Assim, mostra-se idônea a fundamentação, um a vez que, há muito tempo, a jurisprudência do STJ considera lídimo o recrudescimento da pena-base, tendo em vista a natureza e a quantidade da substância entorpecente. Precedentes (AgRg no HC n. 732.950/SP, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 30/5/2022).
+Ademais, segundo precedentes, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto (HC n. 557.108/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/6/2021).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE DAS PROVAS E ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. Ordem denegada.
