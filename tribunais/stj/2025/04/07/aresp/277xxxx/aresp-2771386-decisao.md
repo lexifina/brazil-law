@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por MAGNO JOSE TROVAO ARAUJO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO cuja ementa guarda os seguintes termos (fl. 1.286):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE INEXISTÊNCIA DE RELAÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. TESE FIXADA EM IRDR. INEXISTÊNCIA DE DISTINÇÃO. ART. 643, CAPUT, DO RITJMA. NÃO CONHECIMENTO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA.
+1. O art. 643, caput, do Regimento Interno deste Tribunal de Justiça estabelece que "Não cabe agravo interno da decisão monocrática do relator com base no art. 932, IV, c e V, c, do Código de Processo Civil, salvo se demonstrada a distinção entre a questão controvertida nos autos e a que foi objeto da tese firmada em incidente de resolução de demandas repetitivas ou de assunção de competência."
+2. Observo que o agravante não demonstrou distinção entre a questão discutida nos autos e a que foi objeto de análise no incidente, limitando-se a afirmar que buscou a instituição financeira para adquirir empréstimo na modalidade consignada, contudo, realizou a contratação de um cartão de crédito consignado, sendo que aquela contratação, em detrimento desta, possui juros e taxas altíssimos.
+3. Agravo interno não conhecido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 6º, III e IV, 39, V, 47, 51, IV, e §1º, III, e 52 do CDC, ao reconhecer como válida a contratação de cartão de crédito consignado sem que houvesse informação clara e adequada ao consumidor sobre os encargos, juros e forma de pagamento, gerando onerosidade excessiva e desequilíbrio contratual. Sustenta que a conversão do empréstimo consignado em cartão de crédito ocorreu sem ciência do consumidor, tornando a dívida impagável.
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1.413-1.430).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.432-1.433), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.449-1.475).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem de forma clara e fundamentada, manifestou-se sobre os pontos alegados como omissos.
+É o que se extrai dos seguintes trechos (fl. 1.290):
+O banco agravado conseguiu desconstituir as assertivas da parte autora, ora agravante, no sentido de que contratou o cartão de crédito consignado em evidência, conforme se verifica da análise do instrumento contratual e demais documentos colecionados (Id 26640995 e ss), o mesmo está devidamente preenchido com os dados do autor/agravante que coincidem com aqueles presentes na inicial; a parte referente às características da operação, tais como valor financiado, taxas e juros, data inicial e final dos descontos, entre outros, estão presentes, o que prova que não houve violação ao direito de informação.
+O contrato colecionado ao feito consta de forma clara e expressa em seu título se tratar de "Proposta de adesão à consignação de descontos para pagamento de empréstimos e cartão de crédito Bonsucesso". Assim, a instituição financeira cumpriu seu dever de informação, não havendo que se falar em qualquer irregularidade, entendimento este consolidado pelo STJ no julgamento do REsp 1.722.322 de relatoria do Min. Marco Aurélio Bellizze.
+Nesse contexto, a inversão do ônus da prova em causas dessa espécie é medida que se impõe (art. 6º, VIII, do CDC) e, no meu entender, o Banco Agravado conseguiu desconstituir as assertivas da parte autora, ora Agravante, no sentido de que contratou o cartão de crédito consignado em evidência.
+Resta incontroversa, portanto, a legalidade dos descontos no benefício previdenciário do agravante, vez que houve seu consentimento para tal prática e, indubitável a impertinência da condenação pelos danos morais, bem como da restituição das parcelas adimplidas.
+ ..
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Verifica-se que, em relação à apontada ofensa aos arts. 6º, III e IV, 39, V, 47, 51, IV, e §1º, III, e 52 do CDC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Como se vê, a questão foi resolvida com amparo nas cláusulas contratuais e nos elementos fáticos da demanda, de sorte que alterar a conclusão do Tribunal de origem, na forma como pretendido pela recorrente, demandaria a análise de cláusulas contratuais e o reexame do acervo fático-probatório, o que é vedado pelas Súmulas n. 5 e 7/STJ.
+Nesse sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO C/C REPARAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. CONTRATAÇÃO LEGÍTIMA. REVISÃO DESSE ENTENDIMENTO. SÚMULAS 5 E 7 DO STJ. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação, por analogia, da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. O acórdão recorrido, amparado na análise dos elementos fático-probatórios dos autos, concluiu que o contrato em questão não induz à conclusão de que seu objeto seria de empréstimo consignado, tendo constado de forma clara e transparente a informação de que o crédito se referia a saque no cartão de crédito consignado e a utilização da margem consignável do consumidor seria para a amortização ou liquidação do saldo devedor do cartão, se mostrando legítima a contratação do cartão de crédito em questão, tendo a parte efetivamente utilizado do serviço contratado, não havendo falar em abusividade ou ausência de informação.
+3. Para desconstituir a convicção formada pelas instâncias ordinárias a esse respeito, seria necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor das Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo em recurso especial.
+(AgInt no AREsp n. 1.980.044/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+A incidência da Súmula n. 7 do STJ quanto à interposição pela alínea "a" do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 20% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. CONSUMIDOR. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. LEGITIMIDADE DA CONTRATAÇÃO DE CARTÃO DE CRÉDITO CONSIGNADO. PRETENSÃO DE REVER A CONCLUSÃO. REEXAME DAS CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
