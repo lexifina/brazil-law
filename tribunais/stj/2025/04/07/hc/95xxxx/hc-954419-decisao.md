@@ -1,0 +1,18 @@
+DECISÃO
+O presente writ, impetrado em benefício de MAX LUAN DOS SANTOS ZAGUE - condenado como incurso no crime de furto simples -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1502221-29.2020.8.26.0664), comporta acolhimento.
+Busca a impetração a absolvição do paciente na ação penal que tramitou perante o Juízo de Direito da 1ª Vara Criminal da comarca de Votuporanga/SP, ao argumento de nulidade decorrente de ofensa ao disposto no art. 226 do Código de Processo Penal, bem como a ausência de outras provas suficientes para a comprovação da autoria delitiva. Subsidiariamente, pede a aplicação do princípio da insignificância.
+De início, observo tratar-se de habeas corpus impetrado com a intenção de revisar condenação transitada em julgado, o que é inadmissível, nos termos da jurisprudência deste Superior Tribunal.
+Todavia, constato a existência de ilegalidade manifesta, passível de justificar a superação do referido óbice ao conhecimento da impetração.
+De fato, da leitura do acórdão atacado, verifica-se que a prova da autoria decorreu do reconhecimento fotográfico feito em Delegacia e posteriormente confirmado em juízo, pois consta que a vítima reconheceu o apelante tanto em solo policial, por fotografia, sendo certo que, após a reconhecedora descrever as características do furtador, foram-lhe apresentadas diversas fotografias de pessoas semelhantes (fls. 6/7), como pessoalmente, em Juízo, pelo que não há nenhuma dúvida sobre a validade do reconhecimento (fl. 382).
+Diante do apurado, entendo que as provas são frágeis, já que formadas, basicamente, pelo reconhecimento inicial inválido (por fotografia) e pelo reconhecimento pessoal em juízo, que pode, inclusive, ter sido induzido pelo primeiro.
+É essencial mencionar que, uma vez que a testemunha ou a vítima reconhece alguém como o autor do delito, há tendência, por um viés de confirmação, a repetir a mesma resposta em reconhecimentos futuros, pois sua memória estará mais ativa e predisposta a tanto (HC n. 712.781/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/3/2022).
+E, conforme orientação do Superior Tribunal de Justiça, ainda que ratificado em juízo, o reconhecimento fotográfico não observou os requisitos formais previstos no art. 226 do CPP e não foi corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa, suficientes para amparar a condenação, verificando-se a ocorrência de manifesta ilegalidade (AgRg no HC n. 782.370/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 18/5/2023).
+Esclareço, ainda, que não houve, in casu, apreensão de qualquer objeto do crime com o réu nem colheita de imagens de câmera de vigilância.
+Portanto, evidenciado que há irregularidade incontroversa no reconhecimento realizado, bem como que inexistem provas independentes e suficientes produzidas sobre o crivo do contraditório e da ampla defesa que sustentem o édito condenatório, a absolvição é medida que se impõe.
+Ante o exposto, concedo a ordem de habeas corpus para absolver o paciente do delito que lhe foi imputado na Ação Penal n. 1502221-29.2020.8.26.0664, nos termos do art. 386, inciso V, do Código de Processo Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO SIMPLES. CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE REVISÃO. INADMISSIBILIDADE. EXISTÊNCIA, ENTRETANTO, DE FLAGRANTE ILEGALIDADE. RECONHECIMENTO PESSOAL. REALIZAÇÃO POR MEIO DE FOTOGRAFIA EM SEDE POLICIAL. RATIFICAÇÃO EM JUÍZO. IRRELEVÂNCIA. ABSOLVIÇÃO QUE SE IMPÕE.
+Ordem concedida.
