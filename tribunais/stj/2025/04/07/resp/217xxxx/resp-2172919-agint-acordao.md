@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo ESTADO DO RIO GRANDE DO SUL contra a decisão que conheceu em parte do seu Recurso Especial e, nessa extensão, negou-lhe provimento, assim fundamentada: ausência de omissão no julgado de origem e incidência da Súmula 284/STF.
+Sustenta a parte agravante, em síntese, que houve violação ao art. 1.022 do Código de Processo Civil pelo Tribunal de origem e não se aplica o óbice previsto na Súmula 284/STF.
+Ao final, requer o provimento do recurso, a fim de que seja dado total provimento ao seu recurso especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL. DESCABIMENTO.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Não assiste razão à parte agravante.
+Consoante o art. 1.022 do Código de Processo Civil, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas em seu art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Esposando tal entendimento, o precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO -, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+In casu, o tribunal de origem manifestou-se sobre os temas suscitados pela parte Recorrente, nos seguintes termos (fls. 99/101e):
+ .. , eis a fundamentação da decisão monocrática impugnada:
+"A jurisprudência do Superior Tribunal de Justiça encontra-se consolidada no sentido de que os critérios, os percentuais e a base de cálculo da verba honorária são insuscetíveis de modificação na execução ou na fase de cumprimento da sentença, sob pena de indevida ofensa à coisa julgada, consoante se observa dos seguintes precedentes:
+ ..
+Quer dizer, a base de cálculo da verba honorária é insuscetível de modificação na execução ou na fase de cumprimento da sentença, sob pena de ofensa à coisa julgada.
+Portanto, não verifico omissão acerca de questão essencial ao deslinde da demanda e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+No que tange à alegada ofensa aos arts. 502 e 537, § 1º, do Código de Processo Civil, observo que os argumentos da Recorrente são inidôneos a infirmar o fundamento adotado pela Corte de origem, porquanto ausente comando suficiente nos dispositivos apontados para alterar a mencionada conclusão.
+Considerando que a pretensão do Recorrente não é extraída do artigo de lei federal apontado, revela-se incabível conhecer-se do recurso especial, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO DE PESQUISA E LAVRA DE MINÉRIOS. PEDIDO PROTOCOLADO NO ÚLTIMO DIA DA LICENÇA ANTERIOR. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS CONSTANTES DOS AUTOS, SER DESARRAZOADO O INDEFERIMENTO DO REQUERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. ARTIGO 18, INCISO I, DO CÓDIGO DE MINERAÇÃO. DISPOSITIVO LEGAL QUE NÃO CONTEM COMANDO CAPAZ DE SUSTENTAR A TESE RECURSAL E INFIRMAR O JUÍZO FORMULADO PELO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF.
+ ..
+2. Não pode ser conhecido o recurso especial se o dispositivo apontado como violado não contem comando capaz de sustentar a tese recursal e infirmar o juízo formulado no acórdão recorrido. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+3. Agravo regimental não provido.
+(AgRg no AREsp 385.170/GO, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE. NÃO CONHECIMENTO DO ESPECIAL. SÚMULAS 282, 284, 356/STF E 7/STJ.
+ ..
+3. O fato de constar na Lei de Licitações a previsão de empreitada integral não infirma, de plano, os dizeres do acórdão no sentido de que não há empecilho à inclusão do fornecimento de imóvel. O conteúdo dos dispositivos mencionados no Especial não têm comando suficiente para alterar o acórdão. Incidência da Súmula 284/STF.
+4. Em relação ao índice de reajuste utilizado e à caracterização do ato ímprobo, o acórdão se amparou nas conclusões de laudo pericial e afastou o prejuízo ao Erário. Aplica-se a Súmula 7/STJ à espécie.
+Ressalto que o art. 11 da LIA nem sequer foi prequestionado, o que também sugere o óbice das Súmulas 282 e 356/STF.
+5. Agravo Regimental não provido.
+(AgRg no AREsp 229.402/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/03/2013, DJe 08/05/2013).
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual deixo de impor a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
