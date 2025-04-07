@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INOVAÇÃO RECURSAL. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF, POR ANALOGIA. ASTREINTES. REDUÇÃO. ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF, POR ANALOGIA. .AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não tendo havido impugnação expressa dos fundamentos do acórdão recorrido, sobretudo no tocante à inovação recursal, mostra-se inviável o processamento do especial, ante o óbice da Súmula n. 283 do STF.
+2. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre os preceitos legais alegadamente violados, o que não ocorreu na hipótese examinada, sendo de rigor a aplicação, por analogia, das Súmulas n. 282 e 356 do STF.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por SANTANDER LEASING S.A. - ARRENDAMENTO MERCANTIL (SANTANDER) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, de relatoria da Desembargadora MARIA IVATÔNIA, assim ementado:
+AGRAVO INTERNO. ARGUMENTOS RELACIONADOS AO AGRAVO DE INSTRUMENTO. RECURSO PREJUDICADO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. TRANSFERÊNCIA DE VEÍCULO. BANCO AGRAVANTE. ALEGAÇÃO DE IMPOSSIBILIDADE DE CUMPRIMENTO DA OBRIGAÇÃO. MATÉRIA PRECLUSA. ASTREINTES. MAJORAÇÃO. INOVAÇÃO RECURSAL. INTIMAÇÃO PESSOAL. DECISÃO MANTIDA.
+1. "O agravo interno, previsto no art. 1021 do Código de Processo Civil tem por objetivo levar a decisão monocrática ao órgão colegiado para reexame. Quando apresentado contra ato judicial que decide o pedido de antecipação da tutela recursal, o objeto do agravo interno coincide com o do próprio recurso principal, de modo que, julgado na mesma ocasião do julgamento deste, resta prejudicado por perda do objeto" (Acórdão 1826310, 07465001420238070000, Relator: AISTON HENRIQUE DE SOUSA, 4ª Turma Cível, data de julgamento: 29/2/2024, publicado no PJe: 15/3/2024. Pág.: Sem Página Cadastrada.) Agravo interno prejudicado.
+2. Na hipótese, no que se refere à transferência da propriedade do veículo e à baixa do gravame do veículo, o Banco agravante reitera o argumento de impossibilidade do cumprimento da obrigação fixada em sentença por não estar na posse do documento do veículo e ser inviável emitir segunda via do CRV (Certificado do Registro do Veículo). Referida tese já foi refutada e a matéria decidida em acórdão contra o qual não foi interposto recurso, restando preclusa sua discussão (art. 507 do CPC/2015: "é vedado à parte discutir, no curso do processo, as questões já decididas, a cujo respeito operou-se a preclusão").
+3. Matéria referente à majoração da multa não foi objeto da decisão agravada. E não tendo havido decisão no Juízo de origem, inviável o conhecimento da matéria suscitada em agravo de instrumento; indevida inovação recursal, tal impõe o não conhecimento de tal matéria (art. 932, III do CPC c/c art. 87, III do RITJDFT (e-STJ, fl. 214).
+Foi apresentada contraminuta (e-STJ, fls. 586/593).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INOVAÇÃO RECURSAL. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF, POR ANALOGIA. ASTREINTES. REDUÇÃO. ENRIQUECIMENTO ILÍCITO. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF, POR ANALOGIA. .AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Não tendo havido impugnação expressa dos fundamentos do acórdão recorrido, sobretudo no tocante à inovação recursal, mostra-se inviável o processamento do especial, ante o óbice da Súmula n. 283 do STF.
+2. É imprescindível que a Corte recorrida tenha emitido juízo de valor sobre os preceitos legais alegadamente violados, o que não ocorreu na hipótese examinada, sendo de rigor a aplicação, por analogia, das Súmulas n. 282 e 356 do STF.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, SANTANDER alegou a violação dos arts. 413, 884 do CC, e 537, § 1º, I, do CPC, Súmula n. 410 do STJ, ao sustentar que é excessivo e desproporcional o valor das astreintes, caracterizando-se enriquecimento ilícito da parte contrária. Requer a redução da penalidade.
+Inicialmente, quanto à violação da Súmula n. 410 do STJ, cabe ressaltar que o recurso especial não constitui via adequada para análise de eventual contrariedade a enunciado sumular, por não estar compreendido na expressão "lei federal", constante do art. 105, III, a, da CF, conforme previsto na Súmula n. 518 desta Corte: Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula.
+Das astreintes
+Sobre o tema, o TJDFT se pronunciou nos seguintes termos:
+De se observar que a matéria referente à majoração da multa não foi objeto da decisão agravada.
+Aliás, pela decisão, definido que: "Ao exequente para promover o andamento do processo, indicando os meios que pretende para cumprimento da obrigação de fazer, uma vez que nova majoração da multa não será suficiente para compelir o executado a cumprir a obrigação, sendo que a astreinte, também, não se destina ao enriquecimento da parte" - ID 190318625, autos de origem n. 0707706-52.2022.8.07.0001.
+E não tendo havido decisão no Juízo de origem, inviável o conhecimento da matéria suscitada em agravo de instrumento; indevida inovação recursal, tal impõe o não conhecimento de tal matéria (art. 932, III do CPC c/c art. 87, III do RITJDFT.
+Ademais, a multa fixada anteriormente em R$ 4.000,00 diários, limitação a R$ 40.000,00, é objeto de análise do AGI 0703308-94.2024.8.07.000.
+Em relação ao pedido da redução das astreintes, o TJDFT consignou que a majoração da multa não foi objeto da decisão agravada e, não tendo havido decisão, inviável o conhecimento da matéria suscitada em agravo de instrumento; configurando inovação recursal. Observa-se que SANTANDER não impugnou tal argumento, forçoso reconhecer a aplicação da Súmula n. 283 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido, o precedente abaixo ilustra o tópico:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO A DIREITO DA PERSONALIDADE. LEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ATO ILÍCITO. DANO MORAL. REVISÃO. SÚMULA 7/STJ. VALOR DA CONDENAÇÃO. REEXAME. EXORBITÂNCIA NÃO CONSTATADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "a falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial" (AgInt no AREsp 1.940.620/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 29/11/2021, DJe 01/12/2021).
+3. Para desconstituir o entendimento contido no aresto recorrido, concluindo pela inexistência de violação a direito da personalidade apta a ensejar a reparação moral, seria indispensável a incursão na seara fático-probatória dos autos, procedimento que se encontra obstado pelo verbete sumular n. 7 desta Corte.
+4. A revisão da conclusão do colegiado originário, a fim de acolher a pretensão recursal, referente ao afastamento da indenização por danos morais e ao valor arbitrado para a indenização, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+5. Agravo interno improvido.
+(AgInt no AREsp n. 1.955.096/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022, sem destaque no original)
+No mais, observa-se que o tema abordado nas razões do recurso especial (é excessivo e desproporcional o valor das astreintes, caracterizando-se enriquecimento ilícito da parte contrária) não foi objeto de debate no acórdão recorrido, tampouco foram opostos embargos de declaração para suprir eventuais omissões. Incidem, portanto, as Súmulas n. 282 e 356, ambas do STF.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1.  ..
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.578.006/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 9/3/2020, DJe 13/3/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. NEGATIVA INDEVIDA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DANO MORAL. VALOR. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. COBERTURA. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
