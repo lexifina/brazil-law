@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por Tarciso Alves Correia de Miranda, fundado no art. 105, III, a e c, da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento do Agravo em Execução Penal n. 0002069-92.2024.8.26.0477, assim ementado (fl. 45):
+AGRAVO EM EXECUÇÃO PENAL. Decisão pela qual foi indeferido o pedido de indulto formulado pelo sentenciado. Decreto nº 11.846/2023. Não preenchimento dos requisitos legais. Sentenciado condenado por crime impeditivo. Art. 1º, inciso XV, do Decreto nº 11.846/23. Comutação das penas referentes aos crimes não impeditivos deferidas na origem. AGRAVO NÃO PROVIDO.
+No recurso especial, o recorrente aponta violação dos seguintes dispositivos: arts 2º, §§ 2º e 4º, V, ambos da Lei n. 12.850/2013; art. 1º, caput e § 4º, da Lei n. 9.613/1998; art. 297, caput, do Código Penal; e art. 2º, I e II, do Decreto n. 11.846/2023
+Ressalta que, através do boletim informativo (fls.2628/2637), verificamos que das penas que são executadas com fulcro no Decreto 11.846, de 22/12/2023, o Reeducando preenche os requisitos do referido Decreto, além de ostentar BOM comportamento carcerário e não ostentar falta disciplinar por mais 15 (quinze) anos.! Não impedindo a aplicação de indulto presidencial ou subsidiariamente, de comutação de penas dos crimes não impeditivos, justamente por uma razão lógica, essa determinação de unificação e soma de penas não se aplica ao indulto do art. 5.º, uma vez que são disposições logicamente incompatíveis. Afinal, a "unificação e soma das penas" referem-se sempre às penas concretamente aplicadas, ao passo que o indulto do art. 5.º, como já dito, baseia-se exclusivamente na pena abstratamente cominada separadamente para cada delito  como, aliás, enfatiza o citado parágrafo único do art. 5.º da referida Lei (fl. 55).
+Pugna, assim, pela concessão do indulto.
+Oferecidas contrarrazões (fls. 67/70), o recurso especial foi admitido na origem (fls. 73/75).
+O Ministério Público Federal opina pelo desprovimento da insurgência, nos termos da seguinte ementa (fl. 100):
+RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. INADMISSIBILIDADE DO RECURSO EXCEPCIONAL. Impugnação. Deficiência da fundamentação. Súmula 284 do STF. Aplicabilidade. Simples menção ou transcrição de dispositivos legais. Insuficiência para fins de admissibilidade. Violação da regra legal. Demonstração efetiva. Ônus argumentativo imprescindível. Jurisprudência do STJ. Inobservância. INDULTO. Não cabimento. Existência de condenações por crimes impeditivos. Vedação à benesse pelo Decreto n. 11.846/2023 (art. 9º, parágrafo único). Precedentes relacionados a caso semelhante (regras do Decreto n. 11.302/22). Similitude fática caracterizada (art. 315, § 2º, V, CPP). Não caracterização de violação flagrante à lei.
+Parecer no sentido de negar seguimento ao recurso.
+É o relatório.
+A insurgência não merece acolhida.
+No que se refere ao indeferimento de indulto ao apenado, o Tribunal de origem, consignou o seguinte (fls. 47/48 - grifo nosso):
+ ..
+Conforme se infere dos autos, o agravante foi condenado à pena total de 12 (doze) anos e 01 (um) mês de reclusão, em regime fechado, pela prática dos crimes previstos no art. 2º, §§ 2º e 4º, inciso V, da Lei nº 12.850/2013, art. 1º, caput, §4º, da Lei nº 9.613/98 e art. 297, caput, do CP (fls. 719/722 dos autos de origem).
+ ..
+Dessa forma, embora o sentenciado tenha sido condenado pela prática de outros crimes e, teoricamente, estaria abrangido pelo Decreto Presidencial, é certo que ele também possui condenação por crime em relação ao qual é vedada a concessão de indulto, consoante expressa vedação retromencionada.
+Nos termos do artigo 9º do Decreto nº 11.846/23, as penas referentes a crimes distintos devem ser somadas até 25 de dezembro de 2023, sendo certo que, na hipótese de concurso de crimes, não será concedido o indulto ao condenado por crime não impeditivo, enquanto não houver o cumprimento de 2/3 da pena do crime impeditivo pelo condenado. A esse respeito, confira-se:
+ ..
+No caso dos autos, não houve concurso de crimes, mas sim unificação de penas, pois o sentenciado foi condenado em processos de conhecimento distintos. Daí porque resta afastada a possibilidade de concessão de indulto, como bem asseverou o juízo de origem.
+E quanto ao pedido subsidiário, não comporta conhecimento, uma vez ter o MM. Juízo da Execução concedido ao agravante a comutação de pena em relação ao delito não hediondo e não impeditivo, reduzindo-a em 1/4 (um quarto), conforme decisão de fls. 723 (autos nº 0005161-89.2018.8.26.0509).
+ ..
+Entendimento esse guarda perfeita harmonia com a orientação jurisprudencial consolidada nesta Corte:
+DIREITO PENAL. AGRAVO REGIMENTAL. COMUTAÇÃO DE PENA. DECRETO N. 11.843/2023. CRIME IMPEDITIVO. REQUISITO OBJETIVO. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu do habeas corpus, no qual se pleiteava a comutação de pena com base no Decreto Presidencial nº 11.846/2023, alegando-se que a soma das penas deveria ser considerada para o cálculo do tempo de cumprimento.
+2. O Tribunal de Justiça manteve o indeferimento da comutação de pena, fundamentando que o apenado não havia cumprido dois terços da pena referente ao crime impeditivo, conforme exigido pelo Decreto Presidencial.
+II. Questão em discussão3. A questão em discussão consiste em saber se, para a concessão da comutação de pena, deve-se considerar a soma das penas de crimes comuns e de crime impeditivo ou se é necessário o cumprimento individual de dois terços da pena do crime impeditivo.
+III. Razões de decidir4. O entendimento jurisprudencial desta Corte Superior é de que, para a concessão de indulto ou comutação de pena, é necessário o cumprimento dos requisitos previstos no decreto presidencial, incluindo o cumprimento de dois terços da pena do crime impeditivo.
+5. A soma das penas para fins de comutação deve respeitar a individualização do cumprimento da pena do crime impeditivo, conforme estabelecido no Decreto Presidencial nº 11.846/2023.
+6. A decisão do Tribunal de Justiça está em consonância com a orientação jurisprudencial, que exige o cumprimento individualizado da fração da pena do crime impeditivo para a concessão do benefício.
+IV. Dispositivo e tese7. Agravo desprovido.
+Tese de julgamento: "1. Para a concessão de indulto ou comutação de pena, deve-se considerar distintamente a contagem dos 2/3 da pena pelo crime hediondo e a fração da pena pelo crime comum, sem a soma das penas cumpridas. 2. O Decreto Presidencial n. 11.846/2023 não permite a soma das penas para o cumprimento do requisito de 2/3 do crime impeditivo".
+Dispositivos relevantes citados: Decreto Presidencial n. 11.846/2023, art. 9º.Jurisprudência relevante citada: STJ, AgRg no HC 406.582/SP, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 06.08.2019; STJ, HC 400.739/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07.12.2017; STJ, HC 366.164/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 20.09.2016.
+(AgRg no HC n. 940.307/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/2/2025, DJEN de 26/2/2025 - grifo nosso).
+DIREITO PENAL. HABEAS CORPUS. INDULTO NATALINO. DECRETO PRESIDENCIAL N. 11.846/2023. CRIMES IMPEDITIVOS. CONDENAÇÕES ANTERIORES. TRÁFICO DE DROGAS E ROUBO MAJORADO. SOMATÓRIO DAS PENAS. REINCIDÊNCIA. IMPOSSIBILIDADE. ORDEM NÃO CONHECIDA. I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que indeferiu pedido de indulto natalino, sob o argumento de que o paciente não cumpriu integralmente as penas dos crimes impeditivos, tráfico de drogas e roubo, conforme o Decreto n. 11.846/2023.
+2. A impetrante alega que o paciente já cumpriu a pena do crime de tráfico de drogas e que o crime de roubo, cometido antes da Lei n. 13.964/2019, não deveria ser considerado impeditivo, pois à época não era classificado como hediondo. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se o paciente faz jus ao indulto natalino, considerando a interpretação do Decreto n. 11.846/2023 em relação aos crimes de tráfico de drogas e roubo, e a aplicação retroativa da Lei n. 13.964/2019. III. RAZÕES DE DECIDIR
+4. O juízo da execução e o Tribunal de origem fundamentaram a negativa do indulto na existência de crimes impeditivos, tráfico de drogas e roubo, que impedem a concessão do benefício conforme o Decreto n. 11.846/2023, em razão do somatório das sanções.
+5. A Terceira Seção do STJ, em consonância com o STF, firmou entendimento de que o crime impeditivo do indulto deve ser considerado tanto no concurso de crimes quanto na unificação de penas, o que se aplica ao caso do paciente.
+6. A decisão impugnada está em conformidade com a jurisprudência atual, que não permite a concessão do indulto quando há condenação por crimes impeditivos, mesmo que não praticados em concurso.
+IV. ORDEM NÃO CONHECIDA.
+(HC n. 940.521/GO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 11.846/2023. NÃO CUMPRIMENTO DA PENA CORRESPONDENTE AO DELITO IMPEDITIVO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O agravante não cumpriu integralmente a pena correspondente a crime impeditivo (tráfico de drogas), consoante o disposto nos arts. 1º, incisos I e XVII, e 9º, parágrafo único, do Decreto n. 11.846/2023.
+2. A expressão "concurso de crimes", contida no parágrafo único do art. 9º do referido decreto, não diz respeito ao concurso de crimes previsto nos arts. 69, 70 e 71 do Código Penal, mas a condenações diversas cujas penas são somadas para fins de verificação de eventual direito ao benefício aqui pleiteado. Nessa linha, analisando dispositivo semelhante referente ao Decreto n. 11.302/2022, a Terceira Seção desta Corte Superior, alinhando seu posicionamento ao do Supremo Tribunal Federal, decidiu que "o crime impeditivo do benefício do indulto, fundamentado no Decreto Presidencial n. 11.302/2022, deve ser tanto o praticado em concurso como o remanescente em razão da unificação de penas", entendimento aplicável à espécie.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 916.517/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+Logo, é o caso de incidir a Súmula 568/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 2º, §§ 2º E 4º, V, AMBOS DA LEI N 12.850/2013; ART. 1º, CAPUT E § 4º, DA LEI N. 9.613/98; ART. 297, CAPUT, DO CÓDIGO PENAL; E ART. 2º, I E II, DO DECRETO N. 11.846/2023. INDULTO NEGADO PELO TRIBUNAL DE ORIGEM. POSSIBILIDADE. UNIFICAÇÃO DE PENAS. PENAS POR CRIMES IMPEDITIVOS NÃO CUMPRIDAS. JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 568STJ.
+Recurso especial desprovido.
