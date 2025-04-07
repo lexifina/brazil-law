@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. Recurso especial. Ausência de prequestionamento. SÚMULA N. 282 DO STF. Reexame de elementos fático-probatórios dos autos. Não cabimento. Aplicação da súmula n. 7 do STJ. Agravo interno DESprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial, mas não conheceu do recurso especial, fundamentando-se na ausência de prequestionamento e nas Súmulas n. 282 do STF e 7 do STJ.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se houve prequestionamento da matéria relativa à violação do art. 114 do CPC e se é possível o reexame de provas no recurso especial; e (ii) saber se o agravante tem legitimidade para impugnar o cumprimento de sentença, considerando que não figurou como parte na fase cognitiva do processo.
+III. Razões de decidir
+3. A ausência de prequestionamento impede o conhecimento do recurso especial, conforme as Súmula n. 282 do STF.
+4. A deficiência na fundamentação do recurso especial atrai a aplicação da Súmula n. 284 do STF.
+5. O reexame de provas é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. A ausência de prequestionamento impede o conhecimento do recurso especial. 2. A deficiência na fundamentação do recurso especial inviabiliza sua análise. 3. O reexame de provas é vedado em recurso especial".
+Dispositivos relevantes citados: CPC, arts. 114, e 525, § 1º, I.
+Jurisprudência relevante citada: STF, Súmulas n. 282, 284 e e 356; STJ, Súmula n. 7.
+RELATÓRIO
+BRB BANCO DE BRASILIA S.A. interpõe agravo interno contra a decisão de fls. 149-152, que conheceu do agravo em recurso especial, mas não conheceu do recurso especial.
+A decisão do STJ, proferida pelo Ministro Herman Benjamin, fundamentou-se na ausência de prequestionamento quanto à alegada violação do art. 114 do CPC, aplicando-se ao caso as Súmulas n. 282 e 356 do STF e na Súmula n. 284 do STF por deficiência na fundamentação do recurso especial, além da incidência da Súmula n. 7 do STJ, a impedir o reexame de provas.
+Nas razões do presente recurso, o agravante alega violação do art. 114 do CPC. Sustenta que a matéria foi debatida na origem, ainda que o dispositivo legal não tenha sido expresso no acórdão (fls. 158-161).
+Afirma que o acórdão do TJDFT abordou a questão do art. 525, § 1º, I, do CPC, visto que o recurso especial atacou precisamente os termos do acórdão recorrido, apontando a violação aos termos processuais (fls. 160-162).
+Sustenta que não há necessidade de verificação de fatos e provas, não incidindo na espécie a Súmula n. 7 do STJ, pois a instituição financeira deveria figurar no polo passivo da demanda (fl. 162).
+Requer o conhecimento do agravo em recurso especial a fim de que se conheça do apelo excepcional para ser provido, reformando-se a decisão recorrida (fl. 163).
+Contrarrazões às fls. 167-175, em que LAMARCIA MARTINS CLAUDINO sustenta que as alegações do agravante não infirmam a conclusão adotada pela decisão agravada, destacando a ausência de prequestionamento e a inadequação da via eleita para discussão das nulidades processuais. Requer o não provimento do agravo interno e a manutenção da decisão agravada em sua integralidade. Pede ainda que as publicações sejam feitas em nome do advogado Walter José Faiad de Moura, sob pena de nulidade.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. Recurso especial. Ausência de prequestionamento. SÚMULA N. 282 DO STF. Reexame de elementos fático-probatórios dos autos. Não cabimento. Aplicação da súmula n. 7 do STJ. Agravo interno DESprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu do agravo em recurso especial, mas não conheceu do recurso especial, fundamentando-se na ausência de prequestionamento e nas Súmulas n. 282 do STF e 7 do STJ.
+II. Questão em discussão
+2. Há duas questões em discussão: (i) saber se houve prequestionamento da matéria relativa à violação do art. 114 do CPC e se é possível o reexame de provas no recurso especial; e (ii) saber se o agravante tem legitimidade para impugnar o cumprimento de sentença, considerando que não figurou como parte na fase cognitiva do processo.
+III. Razões de decidir
+3. A ausência de prequestionamento impede o conhecimento do recurso especial, conforme as Súmula n. 282 do STF.
+4. A deficiência na fundamentação do recurso especial atrai a aplicação da Súmula n. 284 do STF.
+5. O reexame de provas é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo e tese
+6. Agravo interno desprovido.
+Tese de julgamento: "1. A ausência de prequestionamento impede o conhecimento do recurso especial. 2. A deficiência na fundamentação do recurso especial inviabiliza sua análise. 3. O reexame de provas é vedado em recurso especial".
+Dispositivos relevantes citados: CPC, arts. 114, e 525, § 1º, I.
+Jurisprudência relevante citada: STF, Súmulas n. 282, 284 e e 356; STJ, Súmula n. 7.
+VOTO
+A pretensão recursal não reúne condições de prosperar.
+A decisão agravada adotou os fundamentos abaixo (fls. 150-152):
+Quanto à primeira controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, D Je de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Quanto à segunda controvérsia, o acórdão recorrido assim decidiu:
+Sob essa ótica, o disposto no artigo 525, §1º, inciso I, do estatuto processual não aproveita o agravante, porquanto não integra a posição passiva da lide e, demais disso, não se está no ambiente de impugnação ao cumprimento de sentença. Se não figurara como parte no ambiente da fase cognitiva, por certo não lhe é permitido valer-se do instrumento de defesa pertinente à impugnação, pois adstrita ao alcançado pelo título judicial. Ora, o agravante, em verdade, visa invalidar todos os atos processuais por não ter participado do processo, não estando, pois, legitimado a valer-se, para tanto, da impugnação ao cumprimento de sentença. O indicativo do instrumento adequado está reservado, assinale-se, aos patronos do agravante, pois, nesse ambiente, se está na aferição da inviabilidade da via eleita para debate da arguição formulada.
+Assim é que, considerando que a sentença em execução há muito transitara em julgado, incabível sua desconstituição incidentalmente por arguição suscitada no ambiente de suposto cumprimento de sentença por terceiro estranho à relação processual. Como cediço, a sentença transitada em julgado se sujeita à regra geral de imutabilidade e o juiz não pode alterá-la provocado por simples petição nos autos. A imutabilidade reservada à res judicata, como cediço, encerra regramento inerente ao devido processo legal e de reserva da segurança jurídica, viabilizando que os litígios alcancem termo segundo o decidido.
+Aperfeiçoado o trânsito em julgado, sobejará soberana, transmudando-se em regulação imperativa no alcance subjetivo da ação e do resolvido.
+A alegação de nulidade do processo ou da sentença que transitara em julgado deve ser discutida no ambiente de ação anulatória ou querela nullitatis ou, ainda, no ambiente de ação rescisória, ressalvado o disposto no inciso I do §1º do artigo 525 do CPC, cujo manejo, contudo, é reservado ao executado. O Supremo Tribunal Federal, inclusive, possui o entendimento no sentido de que a eficácia da coisa julgada, ainda que sob o vício da inconstitucionalidade, deve ser questionada mediante a ação rescisória, como se infere do precedente abaixo reproduzido:
+ ..
+Como corolário dessas inequívocas inferências, deflui a certeza de que o que aduzira a agravante não se reveste de sustentação material. Essa apreensão obsta o acolhimento do inconformismo aviado (fls. 77/78).
+Aplicável, portanto, a Súmula n. 284/STF, tendo em vista que as razões delineadas no Recurso Especial estão dissociadas dos fundamentos utilizados no aresto impugnado, pois a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, Rel. Ministro Jorge Mussi, Quinta Turma, DJe de 24.8.2018.) Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 19.11.2019; AgInt no AREsp n. 1.637.445/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 13.8.2020; AgInt no AREsp n. 1.647.046/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 27.8.2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, D Je de 2.5.2018.
+Ademais, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, D Je de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+A decisão deve ser mantida por seus próprios fundamentos.
+No recurso especial, o recorrente, com amparo na alínea a do permissivo constitucional, alega afronta aos arts. 114 e 525, § 1º, I, do CPC.
+Reitere-se que a questão infraconstitucional relativa à violação do art. 114 do CPC não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Conforme exposto na decisão agravada, o Tribunal de origem, através da análise das provas dos autos, concluiu que "o disposto no artigo 525, § 1º, inciso I, do estatuto processual não aproveita o agravante, porquanto não integra a posição passiva da lide" (fl. 77).
+Acrescentou que "não se está no ambiente de impugnação ao cumprimento de sentença. Se não figurara como parte no ambiente da fase cognitiva, por certo não lhe é permitido valer-se do instrumento de defesa pertinente à impugnação, pois adstrita ao alcançado pelo título judicial. Ora, o agravante, em verdade, visa invalidar todos os atos processuais por não ter participado do processo, não estando, pois, legitimado a valer-se, para tanto, da impugnação ao cumprimento de sentença. O indicativo do instrumento adequado está reservado, assinale-se, aos patronos do agravante, pois, nesse ambiente, se está na aferição da inviabilidade da via eleita para debate da arguição formulada" (fl. 77)
+Verifica-se que a tese jurídica apresentada pelo recorrente - em relação a não integrar a posição passiva da lide - encontra-se dissociada dos fundamentos do acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a aplicação da Súmula n. 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Ademais, além de não ter sido demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, a adoção de conclusão contrária à do Tribunal de origem demandaria reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial, em face da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno .
+É o voto.
