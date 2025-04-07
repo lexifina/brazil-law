@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. OFENSA A SÚMULA. IMPOSSIBILIDADE. PRESCRIÇÃO. DEMORA NA CITAÇÃO. FALHA DO MECANISMO DA JUSTIÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. DECISÃO MANTIDA.
+1. Execução de título executivo extrajudicial.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105 da CF/88.
+5. Modificar a conclusão do Tribunal de origem no sentido de que a prescrição decorreu de ato do exequente implica reexame de fatos e provas. Súmula 7/STJ.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por DANIEL PROENÇA FEIJO contra decisão desta relatoria (e-STJ, fls. 530/534), que conheceu do agravo em recurso especial para conhecer em parte e negar provimento ao seu recurso especial.
+Ação: de execução de título extrajudicial proposta por DANIEL PROENÇA FEIJO em face de ARRUDA & LEMBECK TURISMO LTDA (Massa Falida/Insolvente), representada por MILTON DE ARRUDA (Administrador Judicial).
+Sentença: julgou extinto o feito com resolução do mérito.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos das seguinte ementa:
+"APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO E EXTINGUIU O FEITO COM RESOLUÇÃO DO MÉRITO. RECURSO DO EXEQUENTE. 1. PRELIMINAR. PRETENSO RECONHECIMENTO DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE RELATÓRIO. IMPOSSIBILIDADE. PRINCIPAIS OCORRÊNCIAS DO ANDAMENTO DA EXECUÇÃO CONSTANTES NO PRONUNCIAMENTO JUDICIAL RECORRIDO. SENTENCIANTE QUE SE MOSTROU CIENTE DAS SITUAÇÕES FÁTICA E JURÍDICA RETRATADAS NO FEITO. AUSÊNCIA DE PREJUÍZO À PARTE. PREFACIAL RECHAÇADA. 2. MÉRITO. PRESCRIÇÃO DIRETA DEVIDAMENTE DELINEADA. PROCESSO EXPROPRIATÓRIO EMBASADO EM NOTA PROMISSÓRIA. TRANSCURSO SUPERIOR A 3 (TRÊS) ANOS ENTRE O VENCIMENTO DO TÍTULO DE CRÉDITO E A ANGULARIZAÇÃO PROCESSUAL. DEMORA NO ATO CITATÓRIO QUE NÃO DECORREU POR CULPA DO SERVIÇO JUDICIÁRIO. DESÍDIA DO EXEQUENTE EM PROTOCOLIZAR A EXECUÇÃO FALTANDO APENAS 1 (UM) DIA PARA O LASTRO PRESCRICIONAL FINALIZAR. MANUTENÇÃO DA SENTENÇA EXTINTIVA QUE SE IMPÕE. 3. HONORÁRIOS RECURSAIS. NOVO REVÉS DO EXEQUENTE. MAJORAÇÃO DA VERBA HONORÁRIA ADVOCATÍCIA A QUE CONDENADO NA ORIGEM. INTELIGÊNCIA DO ARTIGO 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO." (e-STJ, fl. 418)
+Embargos de declaração: opostos pela agravante foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 219, §2º, do CPC/73, atual 240, §3º, CPC; 489 e 1.022 do CPC e a súmula 106 do STJ, sustentando: i) omissão e negativa de prestação jurisdicional; ii) a inocorrência de prescrição do seu direito.
+Decisão agravada: conheceu do agravo para conhecer em parte e negar provimento ao recurso especial interposto pelo agravante.
+Agravo interno: alega ter preenchido os requisitos para a interposição do recurso, pugnando pelo afastamento das Súmulas aplicadas. No mais, reitera os mesmos argumentos já expendidos anteriormente em defesa de suas teses.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. OFENSA A SÚMULA. IMPOSSIBILIDADE. PRESCRIÇÃO. DEMORA NA CITAÇÃO. FALHA DO MECANISMO DA JUSTIÇA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. DECISÃO MANTIDA.
+1. Execução de título executivo extrajudicial.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105 da CF/88.
+5. Modificar a conclusão do Tribunal de origem no sentido de que a prescrição decorreu de ato do exequente implica reexame de fatos e provas. Súmula 7/STJ.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada, fundamentada na ausência de violação dos arts 489 e 1.022 do CPC, na impossibilidade de apreciação da ofensa à Súmula, na incidência da Súmula 7/STJ e na ausência de demonstração do dissídio jurisprudencial, nos termos a seguir.
+- Da violação dos arts. 489 e 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, D Je de 16/02/2018.
+Em nova análise, verifica-se que o acórdão recorrido decidiu, de maneira fundamentada e expressa acerca das alegações de ausência de relatório da sentença, afastando as irregularidades por entender pela suficiência das informações constantes para a análise e julgamento da lide, o que revela a ausência dos vícios apontados.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, uma vez que a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Outrossim, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da ofensa a Súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+Relativamente à questão da prescrição, do acórdão recorrido restou clara a sua ocorrência, afastando a alegação de que a demora na citação decorreu de falha do serviço judiciário, nos seguintes termos:
+"Sustentou o apelante que deve ser afastada a prescrição, uma vez que a demora na perfectibilização do ato citatório não ocorreu por sua causa, porquanto sempre promoveu o andamento do feito quando instado para tanto.
+Razão não lhe assiste. Como dito no tópico anterior, o processo expropriatório encontra-se lastreado em nota promissória, no importe de R$ 35.000,00 (trinta e cinco mil reais), com vencimento em 1º de março de 2010 (EV. 70/1G - informação 5). Nessa espécie, o lastro prescricional é de 3 (três) anos, nos termos do art. 70 e do art. 77 da Lei Uniforme de Genebra, in verbis: (..) Desse modo, apenas seria possível o manejo da execução até o dia 1º de março de 2013, sendo esta proposta um dia antes de finalizar o transcurso do prazo prescricional, dado este extraído do protocolo que consta na inicial, o qual data de 28 de fevereiro do ano em questão (EV. 68/1G - petição 1). Houve a determinação da citação em 7 de março de 2013 (EV. 72/1G). Em 29 de abril de 2013, intimou-se o exequente para retirar a carta precatória emitida e comprovar a distribuição desta no Juízo Deprecado, no interregno de 30 (trinta) dias (EV. 74/1G - certidão 14). Distribui-se a Carta Precatória na data de 24 de junho de 2013 (EV. 76/1G - carta precatória 17), tendo a citação se perfectibilizado tão somente no dia 18 de novembro de 2014 (EV. 80/1G - carta precatória 39), não podendo a demora ser imputada ao serviço judiciário. Com isso, resulta devidamente delineada a prescrição direta da pretensão do exequente, ora apelante, uma vez que a angularização processual ocorreu após o transcurso de prazo superior a 3 (três) anos, contabilizado este do vencimento do título." (e-STJ, fl. 416)
+Alterar o decidido no acórdão impugnado, no sentido de afastamento da alegação da demora na citação ante a ocorrência da prescrição devido à sua conduta, e não por motivos inerentes aos mecanismos da justiça, a fim de justificar o acolhimento da arguição de prescrição, de fato, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Nesse sentido, confira-se: AgInt no AR Esp 726.188/SP, 4ª Turma, D Je de 2/05/2017; AgInt no AR Esp 787.216/SP, 4ª Turma, D Je de 23/08/2016; AgRg no R Esp 1417423/AC, 3ª Turma, D Je de 24/02/2014.
+- Da divergência jurisprudencial
+Por fim, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal.
+Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Deve, portanto, ser mantida a decisão agravada por seus próprios fundamentos.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
