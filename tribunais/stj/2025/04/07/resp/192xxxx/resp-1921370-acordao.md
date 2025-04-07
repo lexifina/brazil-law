@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DEVIDOS NA RECONVENÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DE FORMA AUTÔNOMA PARA O PEDIDO RECONVENCIONAL. TEMA NÃO PREQUESTIONADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há falar em omissão do Tribunal local quanto à necessidade de serem fixados honorários advocatícios de forma destacada para a reconvenção, porque ele expressamente afirmou que não poderia examinar referida pretensão uma vez que não deduzida em tempo oportuno.
+2. A alegação de que seria necessário fixar honorários advocatícios, de forma destacada, para a reconvenção carece, portanto, do devido prequestionamento. Súmula n. 211 do STJ.
+3. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+RELATÓRIO
+FRANCISCO ANSELMO ARRUDA DE BRITO (FRANCISCO) ajuizou ação de anulação contratual c/c pedido de restituição de importâncias pagas contra ANTONIO LEITE SILVA (ANTONIO).
+Citado, ANTONIO apresentou reconvenção.
+O juiz de primeira instância julgou improcedente o pedido principal, condenando FRANCISCO ao pagamento de 8% do valor da causa a título de litigância de má-fé, bem como às custas processuais e honorários advocatícios equivalentes a 20% do valor da causa. O pedido reconvencional foi julgado procedente para condenar FRANCISCO ao pagamento de R$ 31.533,86 (trinta e um mil, quinhentos e trinta e três reais e oitenta e seis centavos). A sentença não fixou sucumbência na reconvenção (e-STJ, fls. 23/25).
+Em seguida, FRANCISCO e NIZABETE PARECIDA MESQUITA DE BRITO (FRANCISCO e NIZABETE) interpuseram recurso de apelação que foi parcialmente provido pelo Tribunal de Justiça do Tocantins para afastar a multa aplicada por litigância de má-fé e reconhecer a onerosidade do contrato.
+Referido acórdão ficou assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE CONTRATO C/C RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS - ERRO - AUSÊNCIA DE INFORMAÇÃO - INEXISTÊNCIA DE COMPROVAÇÃO -INADIMPLEMENTO CONTRATUAL - APLICAÇÃO DA CLÁUSULA PENAL -CUMULAÇÃO NOCIVA ENCARGOS - IMPOSSIBILIDADE -RECONVENÇÃO - SUSPENSÃO DO PAGAMENTO -RESSARCIMENTO DEVIDO - LITIGÂNCIA DE MÁ-FÉ -DISCRIMINAÇÃO EQUIVOCADA DA REFERÊNCIA NOS RECIBOS -INEXISTÊNCIA DE INDUÇÃO EM ERRO - MÁ-FÉ AFASTADA -RECURSO CONHECIDO E PARCIALMENTE PROVIDO. 1- Em contrato de compra e venda entre pessoas físicas maiores e capazes, a sua nulidade só pode ser declarada quando demonstrada a existência de vício de consentimento das partes, ou seja, erro, dolo, coação, estado de perigo, lesão ou fraude contra credores, conforme estabelece o art. 171, inciso II, do Código Civil. 2- O desconhecimento da existência de dívida que exija prenotação registral não pode ser alegado com o escopo de anular o negócio jurídico, por tratar-se de informação pública de fácil acesso ao jurisdicionado. 3- Configura inegável enriquecimento sem causa a cumulação nociva de encargos, consubstanciados no pagamento de 100% (cem por cento) do valor do negócio jurídico, somados a multa de 100% (cem por cento) sobre o montante contratual, mais multa rescisória de 10% (dez por cento), e, ainda, multa de 20% (vinte por cento) em caso de arrependimento, já havendo previsão diversa de pagamento de vinte por cento sobre o valor total do contrato. 4- Não configura má-fé a interpretação equivocada dos fatos feita pelo magistrado que, ao analisar recibos apresentados pela parte, entendera que este tentou induzi-lo em erro ao supostamente afirmar tratar-se de pagamento do principal quando, em verdade, consignou na inicial tratar-se do pagamento apenas dos juros. 5- Apelação conhecida e parcialmente provida (e-STJ, fl. 97).
+Os embargos de declaração opostos por FRANCISCO e outra foram parcialmente providos, com efeitos infringentes, para reconhecer a existência de sucumbência recíproca na lide principal e promover nova distribuição dos ônus sucumbenciais (e-STJ, fls. 133/134).
+Em seguida, ANTONIO opôs embargos de declaração, alegando obscuridade, porque o TJTO não esclareceu sobre os honorários advocatícios sucumbenciais devidos na ação de reconvenção (e-STJ, fls. 141/145).
+Esses embargos foram rejeitados, sob o entendimento de que o acórdão embargado era claro ao estabelecer que a modificação da sucumbência dizia respeito apenas à lide principal e que ANTÔNIO pretendia, na realidade, discutir questões que não foram oportunamente submetidas a julgamento (e-STJ, fls. 173/175).
+ANTONIO e FRANCISCO apresentaram termo de acordo que expressamente excluiu verbas devidas aos seus respectivos advogados (e-STJ, fls. 181/185).
+Inconformado, ALEX RODRIGUES DE ABREU (ALEX), advogado de ANTONIO, interpôs recurso especial com fulcro no art. 105, III, "a", da CF, alegando a violação dos arts. (1) 1.022 do CPC, pois o Tribunal foi omisso quanto à necessidade de serem fixados, de forma destacada, honorários sucumbenciais na reconvenção; e (2) 85, § 1º, do CPC, porque faria jus ao recebimento de honorários sucumbenciais pelo acolhimento da reconvenção (e-STJ, fls. 201/206).
+Foram apresentadas as contrarrazões (e-STJ, fls. 215/220), e o apelo nobre foi admitido na origem (e-STJ, fls. 226/228).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS DEVIDOS NA RECONVENÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DE FORMA AUTÔNOMA PARA O PEDIDO RECONVENCIONAL. TEMA NÃO PREQUESTIONADO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não há falar em omissão do Tribunal local quanto à necessidade de serem fixados honorários advocatícios de forma destacada para a reconvenção, porque ele expressamente afirmou que não poderia examinar referida pretensão uma vez que não deduzida em tempo oportuno.
+2. A alegação de que seria necessário fixar honorários advocatícios, de forma destacada, para a reconvenção carece, portanto, do devido prequestionamento. Súmula n. 211 do STJ.
+3. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+A irresignação não merece prosperar.
+(1) Negativa de prestação jurisdicional
+Não há falar em omissão quanto à necessidade de serem fixados honorários advocatícios, de forma destacada, para a reconvenção, porque o TJTO foi claro em indicar que referida pretensão consistia inovação recursal, uma vez que deduzida apenas em âmbito de embargos de declaração, nos embargos de declaração no recurso de apelação.
+Confira-se:
+Em suas razões recursais, sustenta, em suma, a ausência de manifestação a respeito dos honorários sucumbenciais da reconvenção, além do pedido implícito da justiça gratuita no evento.
+ ..
+Outrossim, observo que o embargante traz matérias não ventiladas anteriormente, que deveriam ser atacadas no momento adequado (e-STJ, fls. 164 e 174).
+(2) Honorários advocatícios na reconvenção
+Conforme relatado, a sentença não fixou honorários advocatícios de forma autônoma para o pedido reconvencional.
+Confira-se:
+III- DISPOSITIVO
+Ante o exposto, JULGO IMPROCEDENTE o pedido formulado pelo Autor e CONDENO-O ao pagamento de 8% do valor da causa a título de litigância de má-fé, bem como às custas processuais e honorários advocatícios em 20% do valor da causa.
+DEFIRO o pedido de liminar de arresto ao imóvel situado na Arso 44 - Conjunto QI - 02, Lote-3, registrado no livro 00201-N, folhas 93 a 95, protocolo nº 0015540 e DETERMINO a expedição de ofício ao cartório de registro de imóveis de Palmas - TO, para que conste a presente lide na matrícula do imóvel.
+JULGO PROCEDENTE o pedido de reconvenção, em conseqüência fica o Reconvindo condenado a pagar o valor total de R$ R$ 31.533,86 (trinta e um mil e quinhentos e trinta e três reais e oitenta e seis centavos) referente as diferenças não pagas entres meses 07 a 10-2018, e ainda ao pagamento dos juros de 2%, bem como dos meses 10, 11 e 12 de 2018 (e-STJ, fl. 25)
+Contra a sentença nem ANTÔNIO nem seu advogado, ALEX, apresentaram recurso pleiteando honorários para a reconvenção. Com efeito, apenas FRANCISCO e NIZABETE interpuseram recurso de apelação.
+O TJTO deu parcial provimento a esse recurso e, no julgamento dos subsequentes embargos de declaração, reconheceu a existência de sucumbência recíproca em relação à lide principal.
+Anote-se:
+Da análise das pretensões deduzidas na petição inicial1 e no recurso de apelação2, extraem-se os seguintes pedidos: a) devolução da posse do bem objeto do contrato3; b) anulação do contrato, com a restituição das partes ao estado anterior; c) devolução de todo o valor pago, com os acréscimos legais, e d) subsidiariamente, a rescisão do contrato, devendo o comprador pagar-lhes o montante equivalente a 20% (vinte por cento), previsto na cláusula 14ª, em razão da ilegalidade da cláusula 8ª.
+Consoante exposto no voto, o contrato previa as seguintes penalidades em caso de rescisão motivada, pelo comprador: a) pagamento de 100% (cem por cento) do valor do negócio jurídico; b) multa de 100% (cem por cento) sobre o montante contratual; c) multa rescisória de 10% (dez por cento); d) multa de 20% (vinte por cento) em caso de arrependimento.
+Ao julgar a apelação, a Turma deu parcial provimento ao recurso, para extirpar a condenação em litigância de má-fé imposta pela sentença, e acolheu a alegação de onerosidade excessiva do contrato e as penalidades previstas nos itens "a", "b" e "c" do parágrafo anterior, alterando substancialmente a sucumbência.
+Em tais circunstâncias, conquanto os Embargantes não façam jus aos honorários sucumbenciais integrais - art. 85, §2º, CPC, conforme pleiteado, pois evidente que cada litigante foi em parte vencedor e vencido, sobressai o reconhecimento da sucumbência recíproca, e por consequência, deve ser proporcionalmente distribuída entre eles as despesas, conforme preceitua o art. 86, caput, do CPC.
+Portanto, necessário é o acolhimento parcial dos presentes embargos para distribuir as despesas processuais em 50% para cada uma das partes, bem como fixar os honorários advocatícios no importe de 10% sobre o valor da condenação em favor dos patronos de cada uma delas.
+Por todo o exposto, voto no sentido de CONHECER dos presentes Embargos de Declaração e, no mérito, DAR-LHES PARCIAL PROVIMENTO para, reconhecendo a omissão apontada, saná-la, distribuindo, as despesas processuais em 50% para cada uma das partes, bem como fixar os honorários advocatícios no importe de 10% sobre o valor da causa em favor dos patronos de cada uma delas (e-STJ, fl. 128)
+Observe-se que não houve nenhuma disposição sobre os honorários devidos em virtude da reconvenção.
+O tema, como se percebe, não está prequestionado, merecendo aplicação a Súmula n. 211 do STJ.
+Ressalte-se que referida conclusão não conflita com a alegação de ofensa ao art. 1.022 do CPC, porque, no caso, o Tribunal estadual apresentou fundamentação adequada para furtar-se à apreciação do tema.
+Nessas condições, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+DEIXO de majorar a verba honorária, na forma do art. 85, § 11, do CPC, porque incabível essa medida na espécie.
+É o voto.
