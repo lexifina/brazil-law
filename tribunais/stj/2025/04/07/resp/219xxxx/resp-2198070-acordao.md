@@ -1,0 +1,112 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. CULPA CONCORRENTE. INDENIZAÇÃO POR DANOS MORAIS. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Ceará que reconheceu a culpa concorrente em acidente de trânsito envolvendo um caminhão e um ciclista, resultando em óbito, e condenou a empresa ao pagamento de pensão mensal e indenização por danos morais.
+2. O acórdão recorrido fundamentou-se na responsabilidade civil e na culpa concorrente, estabelecendo pensão mensal e indenização por danos morais no valor de R$ 20.000,00.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve julgamento extra e ultra petita, bem como se a fundamentação do acórdão recorrido foi adequada, considerando a alegação de culpa exclusiva da vítima.
+4. A questão também envolve a análise da responsabilidade civil e da configuração de culpa concorrente entre o motorista do caminhão e o ciclista, além da adequação do quantum indenizatório fixado.
+III. RAZÕES DE DECIDIR
+5. A Corte de origem examinou e decidiu de modo claro e fundamentado as questões que delimitam a controvérsia, afastando a alegada ofensa aos arts. 489, II e § 1º, IV, e 1.022 do CPC.
+6. A questão infraconstitucional relativa à violação do art. 141 do CPC não foi objeto de debate no acórdão recorrido, aplicando-se a Súmula n. 282 do STF.
+7. O Tribunal de Justiça concluiu pela existência de culpa concorrente, com base no acervo fático-probatório, não sendo possível o reexame das provas em recurso especial, conforme a Súmula n. 7 do STJ.
+8. O valor da indenização por danos morais foi considerado moderado e proporcional, não havendo excepcionalidade que justifique a revisão pelo STJ.
+IV. DISPOSITIVO E TESE
+9. Recurso não conhecido.
+Tese de julgamento: "1. A análise de culpa concorrente em acidente de trânsito deve considerar o acervo fático-probatório, não cabendo reexame em recurso especial. 2. A indenização por danos morais deve observar os princípios da razoabilidade e proporcionalidade, sendo revisável apenas em casos de valor irrisório ou exorbitante".
+Dispositivos relevantes citados: CPC, arts. 489, II e § 1º, IV, 1.022; CC, arts. 186, 945; CTB, art. 192.
+Jurisprudência relevante citada: STJ, REsp n. 1.761.956/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12.2.2019.
+RELATÓRIO
+Trata-se de recurso especial interposto por NORSA REFRIGERANTES S.A., fundado no art. 105, III, a, da Constituição Federal, foi interposto contra o acórdão da 4ª Câmara de Direito Privado do Tribunal de Justiça do Ceará, que, em apelação, reconheceu a culpa concorrente no acidente de trânsito e condenou a Norsa Refrigerantes S.A. ao pagamento de pensão mensal e danos morais (fls. 448-450).
+O acórdão fundamentou-se na responsabilidade civil e na culpa concorrente, conforme fls. 459-4 70.
+O acórdão recorrido foi assim ementado (fls. 573-574):
+EMENTA; APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. 01. PRELIMINAR DE CONTRARRAZÕES. ILEGITIMIDADE ATIVA. PRECLUSÃO PRO JUDICATO. QUESTÃO JÁ DECIDIDA EM DESPACHO SANEADOR NÃO RECORRIDO. 02. AINDA QUE A PRELIMINAR SE TRATE DE MATÉRIA DE ORDEM PÚBLICA, JÁ TENDO SIDO APRECIADO PELO JULGADOR DE PISO SEM INTERPOSIÇÃO DE RECURSO, OPERA-SE A PRECLUSÃO. PRECEDENTES STJ E TJCE. PRELIMINAR RECHAÇADA. 03. MÉRITO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. DANO E NEXO CAUSAL DEVIDAMENTE COMPROVADOS. RECONHECIMENTO DE CULPA CONCORRENTE ENTRE OS ENVOLVIDOS. PENSÃO MENSAL DE UM TERÇO DO SALÁRIO-MÍNIMO À FAMÍLIA DO DE CUJUS. ARBITRAMENTO DE INDENIZAÇÃO A TÍTULO DE DANOS MORAIS NO IMPORTE DE R$ 20.000,00 (VINTE MIL REAIS). 04. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA PARCIALMENTE REFORMADA.
+01. A preliminar de ilegitimidade ativa esbarra em óbice intransponível, relativo à preclusão pro judicato, uma vez que tendo a parte ré arguido a tese em preliminar de contestação, a matéria foi devidamente enfrentada pelo d. julgador de planície, consoante se vê às fls. 101 dos autos, sem contudo ter havido a interposição de recurso;
+02. Ainda que se trate de matéria de ordem pública, portanto cognoscível de ofício, uma vez tendo sido decidido pelo magistrado e, sem insurgência recursal da parte que tenha decaído do pedido, não poderá o Tribunal de Justiça rever o julgamento, ante a preclusão operada e consumada desde 2013. Precedentes STJ e TJCE. Preliminar rejeitada.
+03. NO MÉRITO, acidente trânsito em que observada a concomitância de culpas entre o condutor e o de cujus, eis que, apesar de ter o ciclista descuidado ao tentar atravessa a via, o motorista do caminhão não atentou para manter distância segura para os demais transeuntes da via, como orienta o art. 192 do CTB. 04. Recurso conhecido e parcialmente provido.
+No julgamento dos embargos de declaração, a 4ª Câmara de Direito Privado rejeitou os embargos, afirmando que não havia contradição no acórdão embargado, que reconheceu a culpa concorrente no acidente (fls. 575-577).
+Os embargos de declaração opostos foram julgados nos termos da seguinte ementa (fl. 572):
+EMENTA: EMBARGOS DE DECLARAÇÃO. RECURSO DE APELAÇÃO. ALEGAÇÃO DE CONTRADIÇÃO. INEXISTÊNCIA. MERA TENTATIVA DE REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA Nº 18, TJ/CE. RECURSO CONHECIDO E NÃO PROVIDO. 1. Não há o que falar em contradição existente no v. ac órdão embargado, na medida em que analisou todo o contexto fático do acidente, incluindo a total ausência de perícia, mesmo quando o sinistro envolveu vítima fatal, além dos próprios relatos testemunhais, malgrado não se tenha vinculado a conclusão jurídica dada pelas testemunhas; 2. Constata-se que é inviável o manejo dos Embargos Declaratórios com o fim de rediscutir questões tratadas e devidamente fundamentadas incabíveis para provocar novo julgamento da lide. 3. Embargos conhecidos e desprovidos.
+No recurso especial, a parte alega, com base no art. 105, III, a, da Constituição Federal, violação dos seguintes dispositivos:
+a) 141 do CPC, alegando julgamento extra e ultra petita, pois a condenação em pensão não foi requerida na inicial (fls. 594-595).;
+b) 489, II e § 1, IV, e 1.022, do CPC, apontando ausência de fundamentação adequada no acórdão recorrido. Assevera que o acórdão encontra-se eivado de contradição, pois desconsiderou a prova testemunhal que apontava a culpa exclusiva da vítima pelo sinistro (fls. 599-600);
+c) 186 do CC, afirmando que não houve ato ilícito por parte da recorrente, pois a culpa foi exclusiva da vítima, que, ao tentar atravessar a pista de rolamento, não adotou o dever de precaução quanto à distância e à velocidade dos veículos que trafegavam na via (fls. 604-605);
+d) 945 do CC, argumentando que a culpa concorrente não foi adequadamente considerada, pois a vítima teve culpa exclusiva (fls. 606-607);
+e) 884 e 944 do CC, mencionando que a condenação em valores superiores ao pedido inicial configura enriquecimento sem causa (fls. 608-609).
+Requer a anulação do acórdão recorrido por julgamento extra e ultra petita e déficit de fundamentação, ou, no mérito, a reforma do julgado para afastar a responsabilização da recorrente (fls. 609-610).
+Contrarrazões às fls. 625-631.
+É o relatório. Decido.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. CULPA CONCORRENTE. INDENIZAÇÃO POR DANOS MORAIS. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Ceará que reconheceu a culpa concorrente em acidente de trânsito envolvendo um caminhão e um ciclista, resultando em óbito, e condenou a empresa ao pagamento de pensão mensal e indenização por danos morais.
+2. O acórdão recorrido fundamentou-se na responsabilidade civil e na culpa concorrente, estabelecendo pensão mensal e indenização por danos morais no valor de R$ 20.000,00.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve julgamento extra e ultra petita, bem como se a fundamentação do acórdão recorrido foi adequada, considerando a alegação de culpa exclusiva da vítima.
+4. A questão também envolve a análise da responsabilidade civil e da configuração de culpa concorrente entre o motorista do caminhão e o ciclista, além da adequação do quantum indenizatório fixado.
+III. RAZÕES DE DECIDIR
+5. A Corte de origem examinou e decidiu de modo claro e fundamentado as questões que delimitam a controvérsia, afastando a alegada ofensa aos arts. 489, II e § 1º, IV, e 1.022 do CPC.
+6. A questão infraconstitucional relativa à violação do art. 141 do CPC não foi objeto de debate no acórdão recorrido, aplicando-se a Súmula n. 282 do STF.
+7. O Tribunal de Justiça concluiu pela existência de culpa concorrente, com base no acervo fático-probatório, não sendo possível o reexame das provas em recurso especial, conforme a Súmula n. 7 do STJ.
+8. O valor da indenização por danos morais foi considerado moderado e proporcional, não havendo excepcionalidade que justifique a revisão pelo STJ.
+IV. DISPOSITIVO E TESE
+9. Recurso não conhecido.
+Tese de julgamento: "1. A análise de culpa concorrente em acidente de trânsito deve considerar o acervo fático-probatório, não cabendo reexame em recurso especial. 2. A indenização por danos morais deve observar os princípios da razoabilidade e proporcionalidade, sendo revisável apenas em casos de valor irrisório ou exorbitante".
+Dispositivos relevantes citados: CPC, arts. 489, II e § 1º, IV, 1.022; CC, arts. 186, 945; CTB, art. 192.
+Jurisprudência relevante citada: STJ, REsp n. 1.761.956/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12.2.2019.
+VOTO
+I - Da violação dos arts. 489, II e § 1º, IV, e 1.022 do CPC
+Afasta-se a alegada ofensa aos arts. 489, II e § 1º, IV, e 1.022 do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito, confira-se o seguinte trecho do acórdão que julgou os embargos de declaração (fls. 576-577):
+ ..
+Como se vê do trecho acima colacionado, a decisão não se mostra contraditória, na medida em que analisou todo o contexto tático do acidente, incluindo a total ausência de perícia, mesmo quando o sinistro envolveu vítima fatal, além dos próprios relatos testemunhais, malgrado não se tenha vinculado a conclusão jurídica dada pelas testemunhas.
+Noutros termos, os relatos testemunhais embasaram a conclusão do julgado de que os fatos se deram na forma narrada, todavia, exatamente pela dinâmica do evento narrado pelas testemunhas, é que se foi possível proceder com a conclusão jurídica de que houve culpa concorrente, como aplicada ao caso.
+Assim, não se verifica nenhum dos vícios delineados no artigo 1.022 do Código de Processo Civil, devendo os embargos ser rejeitados, sob pena de rediscussão da matéria já amplamente analisada durante o processo, o que, conforme o ordenamento jurídico pátrio e, na esteira de decisões dos tribunais pátrios, tem-se como inviável.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da alegada violação do art. 141 do CPC. Do julgamento extra e ultra petita
+A questão infraconstitucional relativa à violação dos artigos acima não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+III - Da alegada violação dos arts. 186 e 945 do CC
+O Tribunal de Justiça, amparado no acervo fático-probatório dos autos, concluiu pela existência de culpa concorrente entre o condutor do caminhão e o ciclista (vítima) pelo atropelamento que resultou em seu óbito.
+Afirma que, apesar de o ciclista ter descuidado ao tentar atravessar a via, o motorista do caminhão não atentou em manter a distância segura para os demais transeuntes da via, conforme orienta o art. 192 do CTB.
+A propósito, confira-se o seguinte trecho do acórdão recorrido (fl. 460):
+ ..
+Acerca da dinâmica do evento, extrai-se que o de cujus Auristênio Pereira vinha trafegando em uma bicicleta no acostamento, no anel viário de Maracanatj, quando o caminhão pertencente a empresa ré/apelada, sem adotar o dever de precaução, atropelou o ciclista que, no momento do sinistro, buscava atravessar a via.
+É digno de nota, que apesar de existir vítima no local do acidente, não foi acionada a perícia.
+Ademais, há relatos testemunhais que indicam que o condutor do caminhão conduzia o veículo em baixa velocidade e estava em sua mão de direção.
+A meu sentir, apesar da prova testemunhal ter indicado que o ciclista, ao tentar atravessar a via, teria invadido a faixa de direção em que se encontrava o caminhão da empresa demandada, apontando que houve efetivamente culpa da vítima, não se pode excluir em sua totalidade a culpa do condutor do caminhão, configurando-se a culpa concorrente na espécie.
+Explico. É que o Código de Trânsito Brasileiro (Lei Nº 9.503/1997) estabelece que devem ser respeitadas as normas de circulação e conduta estabelecidas em ordem decrescente, os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela incolumidade dos pedestres. Segundo o que disciplina o artigo 29, §2º do CTB:
+Art. 29. O trânsito de veículos nas vias terrestres abertas à circulação obedecerá às seguintes normas: § 2º: Respeitadas as normas de circulação e conduta estabelecidas neste artigo, em ordem decrescente, os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela incolumidade dos pedestres.
+Desta feita, resta observada a concomitância de culpas entre o condutor e o de cujus, eis que, apesar de ter o ciclista descuidado ao tentar atravessa a via, o motorista do caminhão não atentou para manter distância segura para os demais transeuntes da via, como orienta o art. 192 do CTB, abaixo transcrito:
+Art. 192. Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os demais, bem como em relação ao bordo da pista, considerando-se, no momento, a velocidade, as condições climáticas do local da circulação e do veículo;
+Essa orientação é sobretudo importante quando falamos de veículos de grande porte, nos quais existem pontos cegos relativos aos retrovisores. Assim, analisando a totalidade das circunstâncias, reconheço a culpa concorrente entre os envolvidos no sinistro.
+Sobre o tema, convém mencionar que o art. 945 do Código Civil dispõe que, para a configuração de culpa concorrente, exige-se a comprovação de uma conduta culposa (imprudente, negligente ou imperita) praticada pela vítima e da existência de nexo de causalidade entre essa conduta e o evento danoso.
+Por sua vez, convém mencionar que o Superior Tribunal de Justiça já decidiu no sentido de que, nos termos do art. 29 do CTB e do seu parágrafo 2º, "os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela incolumidade dos pedestres".
+E, no que tange especificamente à circulação de bicicletas, o art. 58 reforça a ideia de preferência destas sobre os veículos automotores, "nas vias em que não houver ciclovia, ciclofaixa, ou acostamento, ou ainda quando não for possível a utilização desses".
+A esse respeito:
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAL E ESTÉTICO. FUNDAMENTAÇÃO DEFICIENTE. SÚM. 284/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. ATROPELAMENTO DE CICLISTA POR CAMINHÃO. INOBSERVÂNCIA DO DEVER DE CUIDADO EXIGIDO PELA LEGISLAÇÃO. IMPRUDÊNCIA DO CAMINHONEIRO CONFIGURADA. JULGAMENTO: CPC/15.
+1. Ação de indenização por danos materiais e compensação por danos moral e estático ajuizada em 09/12/2014, da qual foi extraído o presente recurso especial, interposto em 27/02/2018 e distribuído ao gabinete em 08/08/2018.
+2. O propósito recursal é decidir sobre a negativa de prestação jurisdicional, bem como sobre a responsabilidade civil pelo atropelamento de ciclista, que lhe causou a amputação de uma das pernas.
+3. Devidamente analisadas e discutidas as questões de mérito, estando suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não se vislumbra a alegada violação do art. 1.022, II, do CPC/15.
+4. O art. 29 do CTB, ao elencar as normas a serem observadas por todos os condutores na circulação de veículos, determina, em seu § 2º, que, "os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela incolumidade dos pedestres". E, no que tange especificamente à circulação de bicicletas, o art. 58 reforça a ideia de preferência destas sobre os veículos automotores, nas vias em que não houver ciclovia, ciclofaixa, ou acostamento, ou ainda quando não for possível a utilização desses.
+5. A hierarquia a ser observada pelos condutores dos veículos que trafegam nas vias terrestres, da qual se extrai a regra, aplicável à espécie, de que o caminhão é responsável pela segurança da bicicleta, não afasta o dever, tanto do caminhoneiro como do ciclista, de observar as regras de circulação e conduta no trânsito.
+6. A bicicleta, assim como o caminhão, é considerada pelo CTB como veículo, e, dessa forma, respeitadas as peculiaridades contidas na legislação e ressalvadas as limitações eventualmente impostas pela autoridade competente, tem direito o ciclista, tanto quanto o caminhoneiro, de transitar nas vias terrestres, em condições seguras.
+7. A ausência de espaço próprio para o fluxo de bicicletas não é tida pelo CTB como circunstância proibitiva ou inibitória de sua circulação na via. 8. A legislação de trânsito exige daquele que deseja realizar uma manobra que se certifique de que pode executá-la sem perigo para os demais usuários da via que o seguem, precedem ou vão cruzar com ele, considerando sua posição, sua direção e sua velocidade, e que, durante a mudança de direção, o condutor ceda passagem aos pedestres e ciclistas, respeitadas as normas de preferência de passagem.
+9. Hipótese em que a análise do contexto delineado no acórdão, segundo as regras estabelecidas pelo CTB, permite deduzir que o caminhoneiro agiu de maneira imprudente, violando o seu dever de cuidado na realização de conversão à direita, ao se deslocar antes para a esquerda, abrindo a curva, sem observar a presença da bicicleta, vindo, assim, a colher o ciclista com a parte dianteira esquerda do caminhão.
+10. Recurso especial conhecido e provido. (REsp n. 1.761.956/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/2/2019, DJe de 15/2/2019.)
+Assim, a análise do contexto fático dos autos à luz das regras estabelecidas pelo CTB permite deduzir que o motorista agiu de maneira imprudente ao deslocar-se sem observar a presença e a preferência da bicicleta, razão pela qual incide a responsabilidade concorrente pelo acidente que vitimou o ciclista.
+Rever tal entendimento demandaria o necessário reexame do acervo fático-probatório dos autos, o que atrai a aplicação da Súmula n. 7 do STJ.
+IV - Do quantum indenizatório
+O valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se apresentar-se irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 20.000,00, houve moderação, visto que não concorreu para o enriquecimento indevido da vítima e que foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e o porte socioeconômico do causador do dano. Confira-se trecho do julgado (fl. 469):
+ ..
+Passa-se à análise do pedido de indenização por danos morais. Destaque-se, por oportuno, que a adequada reparação do dano moral cumpre o relevante papel de coibir a injustiça social e tolher qualquer forma de desvalorização da pessoa humana. Na observância do fundamento descrito no art. 1º, inc. III, da CF, representa importante instrumento para conferir efetividade ao princípio da dignidade, que é direito fundamental do cidadão e inspiração da ordem jurídica. Em suma, o valor deferido na ação de indenização deve se encontrar sempre com fundamento no princípio da razoabilidade, a justa equivalência entre a reparação e o dano. In casu, tratando-se de morte de ente próximo, é patente a dor, a angústia, a aflição espiritual, enfim o complexo de sentimentos tormentosos sofridos pelos membros da família. É inconteste o profundo abalo psicológico suportado pelos filhos e pela companheira, que abrupta e prematuramente perderam o familiar em acidente de trânsito.
+Outrossim, considerando o inestimável sofrimento com a morte do pai, o caráter repressivo e preventivo da fixação do quantum indenizatório, entendo que o valor de R$ 20.000,00 (vinte mil reais) atende satisfatoriamente os princípios da razoabilidade e proporcionalidade, máxime quando foi reconhecida a culpa concorrente.
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+V- Conclusão
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º d o referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
