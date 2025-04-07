@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. AUTORIA BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS INDEPENDENTES DO RE CONHECIMENTO PREVISTO NO ART. 226 DO CPP. COAUTORIA. CRIME COMETIDO COM NÍTIDA DIVISÃO DE TAREFAS. OMISSÕES E CONTRADIÇÃO. NÃO CONFIGURAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+2. As provas da autoria delitiva - imagens da câmera de segurança e depoimento dos policiais, que examinaram as mídias - foram produzidas por fonte independente da que culminou com o elemento informativo obtido por meio do reconhecimento realizado na fase inquisitiva, de maneira que, embora o ato haja sido feito em desacordo com o modelo legal e, assim, não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenação do réu, houve outras provas, independentes e suficientes, produzidas sob o crivo do contraditório e da ampla defesa, para sustentar o decreto condenatório.
+3. Embora o embargante não haja sido o executor direto da agressão, firmou-se como fato incontroverso a convergência de vontade dos agentes para a prática da violência contra a vítima, o que caracteriza coautoria, decorrente da nítida divisão de tarefas entre os criminosos.
+4. Não há necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas disc utidos. Em verdade, o embargante trata como omissões e contradição a sua irresignação com a solução prévia.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RAFAEL CHIAPARINE opõe embar gos de declaração ao acórdão de fls. 980-1.010 , em que não foi provido o agravo regimental interposto.
+A defesa alega os seguintes vícios (fl. 1.022):
+A primeira omissão se configura por ter o acórdão embargado deixado de se pronunciar a respeito da manifestação da 5ª Promotoria de Justiça da Comarca de Brusque/SC, na qual o MPSC afirma que as imagens das câmeras de segurança não são suficientes sequer como indícios suficientes de autoria (e-STJ p. 817).
+Aliás, o juízo de primeiro grau confirmou que as imagens das câmeras de segurança, sozinhas, não eram suficientes sequer para o oferecimento da inicial acusatória, e, por isso, revogou a prisão preventiva do embargante (e-STJ p 817), sobre o que o acórdão embargado também não se pronunciou.
+A segunda omissão se configura por ter o acórdão embargado deixado de se pronunciar a respeito do fato incontroverso, constante no acórdão do Tribunal a quo, de que quando a violência foi empregada contra vítima, o agente a quem é vinculado o embargante estava dentro de um veículo, sentado (e-STJ p. 830).
+E, ao não se pronunciar a respeito disso, o acórdão embargado também deixou de se pronunciar a respeito do precedente invocado, segundo o qual: "sendo uma elementar praticada fora do âmbito de atuação de um dos agentes, a este a elementar não pode ser estendida, e ele deve responder na medida de sua culpabilidade, com a cooperação dolosamente distinta" (AgRg R Esp 1245570/SP).
+A obscuridade, por sua vez, se configura por ter o acórdão embargado afirmado que houve a convergência prévia de vontade dos agentes para a prática da violência contra a vítima, sem, contudo, demonstrar em quais elementos essa afirmação encontra-se amparada.
+Requer que sejam supridas a imperfeições acima apontadas.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. AUTORIA BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS INDEPENDENTES DO RE CONHECIMENTO PREVISTO NO ART. 226 DO CPP. COAUTORIA. CRIME COMETIDO COM NÍTIDA DIVISÃO DE TAREFAS. OMISSÕES E CONTRADIÇÃO. NÃO CONFIGURAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O recurso integrativo é cabível tão somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+2. As provas da autoria delitiva - imagens da câmera de segurança e depoimento dos policiais, que examinaram as mídias - foram produzidas por fonte independente da que culminou com o elemento informativo obtido por meio do reconhecimento realizado na fase inquisitiva, de maneira que, embora o ato haja sido feito em desacordo com o modelo legal e, assim, não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenação do réu, houve outras provas, independentes e suficientes, produzidas sob o crivo do contraditório e da ampla defesa, para sustentar o decreto condenatório.
+3. Embora o embargante não haja sido o executor direto da agressão, firmou-se como fato incontroverso a convergência de vontade dos agentes para a prática da violência contra a vítima, o que caracteriza coautoria, decorrente da nítida divisão de tarefas entre os criminosos.
+4. Não há necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas disc utidos. Em verdade, o embargante trata como omissões e contradição a sua irresignação com a solução prévia.
+5. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e é inadmissível quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento do julgado, objetiva nova avaliação do caso.
+No que interessa, o ato embargado foi assim motivado (fls. 1.008-1.009):
+As provas acima mencionadas - imagens da câmera de segurança e depoimento dos policiais, que examinaram as mídias - foram produzidas por fonte independente da que culminou com o elemento informativo obtido por meio do reconhecimento realizado na fase inquisitiva, de maneira que, embora o ato haja sido feito em desacordo com o modelo legal e, assim, não possa ser sopesado, nem mesmo de forma suplementar, para fundamentar a condenação do réu, houve outras provas, independentes e suficientes, produzidas sob o crivo do contraditório e da ampla defesa, para sustentar o decreto condenatório.
+ ..
+O Colegiado estadual entendeu estarem caracterizados os elementos do tipo, pois, para assegurar a posse dos bens subtraídos, o corréu empregou violência contra a vítima, o que caracteriza a figura conhecida como roubo impróprio.
+ ..
+Como se observa, embora o recorrente não haja sido o executor direto da agressão, firmou-se como fato incontroverso a convergência de vontade dos agentes para a prática da violência contra a vítima, o que caracteriza coautoria, decorrente da nítida divisão de tarefas entre os criminosos.
+Não vejo necessidade de complementação ou de esclarecimento a respeito dos fundamentos da decisão recorrida, que é explícita e inequívoca sobre os temas discutidos. Em verdade, o embargante trata como omissões e contradição a sua irresignação com a solução prévia.
+À vista do exp osto, rejeito os embargos de declaração.
