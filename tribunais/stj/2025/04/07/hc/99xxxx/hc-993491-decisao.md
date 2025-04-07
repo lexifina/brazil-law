@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de GERLON COSTA DE AQUINO - condenado como incurso nos crimes de homicídio qualificado tentado (por duas vezes em concurso formal) e corrupção de menores (Ação Penal n. 0021201-57.2016.8.08.0012) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 4ª Vara Criminal da comarca de Cariacica/ES, ao argumento de que a pena-base foi exasperada com base em circunstâncias inerentes ao próprio tipo penal, além de ter sido aplicado percentual inadequado em razão da minorante da tentativa, uma vez que o iter criminis percorrido foi mínimo.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, além de a pena-base encontrar-se devidamente fundamentada (fls. 33/34), o Tribunal nem sequer debateu satisfatoriamente a questão do percentual relativo à tentativa, configurando supressão de instância.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO (DUAS VEZES EM CONCURSO FORMAL) E CORRUPÇÃO DE MENORES. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO PARA EXASPERAR A PENA-BASE. FUNDAMENTAÇÃO. EXISTÊNCIA. DISCRICIONARIEDADE REGRADA DO JULGADOR. DESPROPORCIONALIDADE NA ESCOLHA DO PERCENTUAL RELATIVO À TENTATIVA. SUPRESSÃO DE INSTÂNCIA. OBSERVÂNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
