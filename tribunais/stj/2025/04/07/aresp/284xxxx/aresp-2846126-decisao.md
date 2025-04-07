@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de Agravo apresentado por TANIA SCHLINDWEIN à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA C/C REPARAÇÃO DE DANOS. DECISÃO INTERLOCUTÓRIA DETERMINANDO QUE OS AUTOS AGUARDEM EM CARTÓRIO ATÉ QUE A DEMANDA CONEXA ESTEJA APTA PARA JULGAMENTO. INSURGÊNCIA DA AUTORA. ALEGADA INEXISTÊNCIA DE CONEXÃO. INACOLHIMENTO. DEMANDAS QUE VERSAM SOBRE O MESMO CONTRATO. EXISTÊNCIA DE POSSIBILIDADE DE DECISÕES CONFLITANTES CONCERNENTE A MESMA RELAÇÃO JURÍDICA. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 55 do CPC, no que concerne à inexistência de conexão entre as ações, tendo em vista que não possuem a mesma causa de pedir e o mesmo pedido, trazendo a seguinte argumentação:
+Não obstante, o respeitável saber jurídico dos Eminentes Desembargadores da 4ª Câmara de Direito Civil do Tribunal de Justiça do Estado de Santa Catarina, a decisão recorrida não merece ser mantida, porque da análise do processo mencionado pelos julgadores (50403573520218240008) e o processo (50414413720228240008), não se vislumbra qualquer vínculo, conexão, que possa ensejar a suspensão deste até conclusão daquele, para fins de prolação de sentença conjunta.
+ ..
+Não há conexão entre as ações, destarte, não há motivo para que o processo nº 50414413720228240008 fique suspenso até decisão final nos autos do processo nº 50403573520218240008, uma vez que as demandas não influenciam na conclusão uma da outra, tampouco, podem gerar decisões conflitantes, o pedido e a causa de pedir são, absolutamente, diversos, logo, não preenchidos os requisitos do artigo 55 do CPC.
+É inconteste a liminar deferida no processo nº 50403573520218240008 em que as partes discutem vício de contratação, fraude, falsificação de assinatura.
+Portanto, a controvérsia cinge-se em eventual descumprimento da referida decisão pela instituição financeira e, em caso positivo, os danos morais sofridos.
+O pedido de compensação pelos danos morais é passível de ser enfrentado em ação autônoma, até porque está calcado em fato novo, qual seja, o descumprimento de determinação judicial proferida nos autos do processo nº 5040357- 35.2021.8.24.0008/SC.
+Tem-se, assim, causa de pedir inédita e diversa daquela tratada na demanda anteriormente ajuizada, muito embora se reconheça a identidade entre as partes.
+Desta forma, considerando a decisão liminar proferida no processo nº 50403573520218240008 e descumprimento pela instituição financeira Recorrida, pois, efetivamente não observou a determinação exarada em sede de antecipação de tutela em anterior ação declaratória, notadamente no que tange à abstenção da cobrança do débito por qualquer meio, tem-se que o registro é indevido, logo, não há razão para concluir que a primeira demanda possa influenciar na conclusão da ação de origem, sobretudo, porque não há conexão entre elas.
+Aliás, a circunstância sequer é negada pelo Recorrido (fls. 126/131).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Isso porque, em análise das demandas consideradas conexas pelo Magistrado de primeiro grau, verifica-se que da fato possuem conexão, justificando sua reunião para julgamento em conjunto.
+A demanda de origem diz respeito a inscrição do nome da autora no Serasa, em desrespeito à decisão judicial exarada nos autos n. 5040357-35.2021.8.24.0008, na qual se discute a regularidade da contratação do empréstimo consignado n. 010018536908.
+Entretanto, as demandas devem sem julgadas em conjunto, visto que nos autos n. 5040357-35.2021.8.24.0008 será averiguada a regularidade da contratação do mútuo e, por consequência, da regularidade da anotação nos órgãos de proteção ao crédito referente ao mesmo contrato.
+Nesse sentido, a conclusão da primeira demanda poderá influenciar diretamente na conclusão da ação de origem, de modo que adequada sua reunião para julgamento, a fim de evitar decisões conflitantes (fl. 111).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "Rever o entendimento esposado no acórdão recorrido, a fim de afastar a conexão por meio da análise sobre a causa de pedir de cada uma das ações, demandaria reexame de fatos e provas, impossível nesta seara, ante ao óbice da Súmula n. 7/STJ, aplicável também à irresignação pela alínea c do permissivo constitucional." (AgInt no AREsp n. 1.980.346/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/3/2022, DJe de 30/3/2022.)
+Confira m-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
