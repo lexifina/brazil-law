@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. ACÓRDÃO RECORRIDO QUE ANULOU A SENTENÇA. NOVA SENTENÇA PROFERIDA. NOVO ACÓRDÃO LOCAL PROFERIDO EM APELAÇÃO. P ERDA SUPERVENIENTE DO PRESENTE RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Recurso especial interposto contra acórdão estadual que anulou a sentença. Perda superveniente do objeto recursal, ante a prolação de nova sentença e, inclusive, de novo acórdão de mérito. Provimento dotado de cognição exauriente que absorveu os efeitos do acórdão recorrido.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PETROPLASTIC LTDA contra a decisão de fls. 3407/3408, da lavra desta relatoria, que, com fundamento no art. 259, § 6º, do RISTJ, reconsiderou a decisão de fls. 2.983-2.985, para julgar prejudicado o recurso especial, nos termos do art. 34, XI, do mesmo diploma.
+Irresignada, a parte agravante pugna pela reforma da monocrática, aduzindo, em resumo, que a agravada "se manteve inerte quanto ao fato novo que - na sua exclusiva acepção - poderia ensejar a perda superveniente de interesse recursal, razão suficiente para ensejar a reforma da v. decisão ora agravada, para se afastar a conclusão referente à pretensa prejudicialidade do recurso" (fl. 3.420), e que "a intenção da Agravante é meramente de que, inclusive diante do entendimento anterior da D. Relatoria, a lei seja observada em sua integralidade, e não somente "por partes", como buscado pela BRASKEM - ao postular o reconhecimento da prejudicialidade de seu recurso, após ele ter sido provido -; isso infirma, portanto, qualquer alegação de reformatio in pejus e não seria alterado sob o ângulo da "aplicação do direito à espécie", como anteriormente foi sustentado pela Agravada" (fl. 3.421).
+Contrarrazões às fls. 3.430-3.451.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. ACÓRDÃO RECORRIDO QUE ANULOU A SENTENÇA. NOVA SENTENÇA PROFERIDA. NOVO ACÓRDÃO LOCAL PROFERIDO EM APELAÇÃO. P ERDA SUPERVENIENTE DO PRESENTE RECURSO ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+1. Recurso especial interposto contra acórdão estadual que anulou a sentença. Perda superveniente do objeto recursal, ante a prolação de nova sentença e, inclusive, de novo acórdão de mérito. Provimento dotado de cognição exauriente que absorveu os efeitos do acórdão recorrido.
+2. Agravo interno desprovido.
+VOTO
+De início, é mister recordar que a parte ora agravada, BRASKEM S/A, interpôs recurso especial contra o v. acórdão do eg. TJRS, que anulou a r. sentença de improcedência dos pedidos, sob fundamento de que esta seria nula por não ter sido reunida e julgada em conjunto com outra demanda conexa.
+Eis a ementa do julgado recorrido, in verbis:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO CONDENATÓRIA. DEMANDAS REUNIDAS EM RAZÃO DA CONEXÃO. JULGAMENTO DESMEMBRADO. NULIDADE. INCIDÊNCIA DO ARTIGO 105, DO CPC/73. CONTINÊNCIA. NECESSIDADE DE REUNIÃO E JULGAMENTO CONJUNTO DAS DEMANDAS. NULIDADE DA SENTENÇA. Diante das disposições constantes da legislação processual vigente à época (continência - artigo 105, do CPC/73), caberia à julgadora apensar as demandas e julgá-las de forma conjunta, não somente como forma de evitar eventuais decisões conflitantes, mas, sobretudo, pelas disposições do artigo 5º, inciso XXXV, da Constituição Federal. SENTENÇA DESCONSTITUÍDA, DE OFÍCIO. APELAÇAO PREJUDICADA." (fl. 2.716)
+Em julgamento monocrático, esta relatoria deu provimento ao recurso especial, reconhecendo violação ao art. 10 do CPC/2015, em razão de o v. acórdão recorrido não ter guardado homenagens ao princípio processual da não-surpresa, determinando-se, assim, o "retorno dos autos ao eg. Tribunal de Justiça do Estado do Rio Grande do Sul, a fim de que outro seja proferido em observância às normas processuais vigentes, na esteira do devido processo legal", nos termos da decisão monocrática de fls. 2.983/2.985 (e-STJ).
+Ocorre que, após a interposição do presente recurso, sobreveio nova sentença de mérito, desta feita proferida em conjunto com a outra demanda conexa, na forma em que exigida pelo Tribunal de Justiça no acórdão objeto do presente apelo nobre. Contra a nova sentença foi interposta apelação, também julgada pela eg. Corte local, conforme se infere da documentação anexa aos autos (e-STJ, fls. 3.003/3.058).
+Sem embargo de entendimento contrário, bem como do louvável esforço da parte ora agravante, PETROPLASTIC LTDA, para demonstrar o contrário, constata-se a perda superveniente do objeto do recurso especial, uma vez que a prolação de nova sentença e de novo acórdão de mérito absorveu as questões discutidas no recurso, tornando-o prejudicado, nos termos do art. 493 do CPC/2015.
+Assim, mostra-se escorreita a decisão agravada que julgou prejudicado o recurso especial.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
