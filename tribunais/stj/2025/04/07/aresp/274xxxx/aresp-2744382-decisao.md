@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por  HÉRCULES PEREIRA MARINHO,  contra  inadmissão,  na  origem,  de  recurso  especial  fundamentado  na  alínea  "a"  do  inciso  III  do  artigo  105  da  Constituição  Federal,  manejado  contra  acórdão  do  Tribunal  de  Justiça  do  Distrito Federal e dos Territórios  ,  assim  ementado  (fl.  600):
+APELAÇÃO CÍVEL. SERVIDOR. REINTEGRAÇÃO. IMPOSSIBILIDADE. FUNDAÇÃO EDUCACIONAL DO DISTRITO FEDERAL. VÍNCULO CELETISTA. ANTES DE 1988. CARTEIRA DE TRABALHO. RESCISÃO CONTRATUAL. IMPOSSIBILIDADE. LITIGÂNCIA DE MÁ-FÉ. DOLO. CARACTERIZAÇÃO.
+1. A Carteira de Trabalho e Previdência Social é um documento público emitido por órgão oficial do Governo Federal e suas informações possuem presunção de legitimidade e veracidade.
+2. Compete ao autor provar os fatos constitutivos de seu direito e ao réu os fatos impeditivos, modificativos e extintivos do direito do autor (CPC, art. 373).
+3. É incabível a reintegração de servidor público que pertencia aos quadros da Fundação Educacional do DF em período anterior a Constituição Federal de 1988, quando as informações em sua Carteira de Trabalho e Previdência Social comprovam que houve a rescisão contratual e extinção do vínculo com a Administração Pública.
+4. Demonstrado o descumprimento do dever de boa-fé e de lealdade processual, e evidenciada a conduta abusiva do autor por utilizar o processo para conseguir objetivo ilegal, é cabível a sua condenação por litigância de má-fé (CPC, art. 80, III).
+5. Recurso conhecido e não provido.
+Em  seu  recurso  especial  (fls.  609-620  ),  a  parte  recorrente alega violação ao art. 80, III, do CPC , ao argumento de que não tinha por finalidade qualquer pretensão ilegal que justifique a condenação em litigância de má-fé.
+O  Tribunal  de origem,  às  fls.  648-649,  não  admitiu  o  recurso  especial  sob  o  seguinte  argumento:
+(..)
+O recurso especial não reúne condições de prosseguir quanto à indicada violação ao artigo 80 do CPC, pois a convicção a que chegou o acórdão impugnado decorreu da análise do conjunto fático-probatório, e a apreciação da tese recursal demandaria o reexame do mencionado suporte, providência vedada à luz do enunciado 7 da Súmula do STJ.
+Nesse sentido: "A exclusão da multa por litigância de má-fé depende, no caso concreto, do reexame de fatos e provas, providência vedada na via eleita, ante a previsão contida no enunciado n. 7." (AgInt no AREsp n. 2.450.482/RS, relator Ministro Marco da Súmula do Superior Tribunal de Justiça Aurélio Bellizze, Terceira Turma, julgado em 27/5/2024, DJe de 29/5/2024).
+Em  seu  agravo,  às  fls.  841-848,  a  agravante  afirma  que o recurso especial não esbarra na Súmula 7, pois não se trata de reexame de provas, mas de valoração jurídica dos fatos e provas já cotejados pelas instâncias ordinárias e que a discussão é eminentemente de direito, especialmente no que tange à aplicação de multa por litigância de má-fé.
+  É  o  relatório.
+A  insurgência  não  pode  ser  conhecida.
+Verifica-se  que  não  foi  impugnada  a  integralidade  da  fundamentação  da  decisão  agravada,  porquanto  o  agravante  não  infirmou  especificamente  o  fundamento  utilizado  para  a  inadmissão  do  seu  recurso  especial.
+Em  verdade,  a  decisão  monocrática  que  negou  a  subida  do  apelo  raro,  ora  agravada,  assentou-se  na  incidência  do  enunciado  7  da  Súmula  do  STJ,  que  apregoa  ser  inadmissível  o  reexame  de  fatos  e  provas  na  instância  especial.
+Todavia,  no  seu  agravo,  a  parte  deixou  de  infirmar  adequada  e  detalhadamente  o  argumento  da  decisão  de  inadmissibilidade.
+Logo,  o  fundamento  da  decisão  agravada,  à  míngua  de  impugnação  específica  e  pormenorizada,  permanece  hígido,  produzindo  todos  os  efeitos  no  mundo  jurídico.
+Assim,  ao  deixar  de  infirmar  a  fundamentação  do  juízo  de  admissibilidade  realizado  pelo  Tribunal  de  origem,  o  agravante  fere  o  princípio  da  dialeticidade  e  atrai  a  incidência  da  previsão  contida  nos  artigos  932,  inciso  III,  do  Código  de  Processo  Civil,  e  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  STJ,  no  sentido  de  que  não  se  conhece  de  agravo  em  recurso  especial  que  "não  tenha  impugnado  especificamente  todos  os  fundamentos  da  decisão  recorrida".  Também  incide  à  espécie,  a  exegese  do  enunciado  182  da  Súmula  do  STJ,  que  reza:  "é  inviável  o  agravo  do  art.  545  do  CPC  que  deixa  de  atacar  especificamente  os  fundamentos  da  decisão  agravada".  Nesse  sentido:
+TRIBUTÁRIO.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSIBILIDADE.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+4.  A  falta  de  efetivo  combate  de  quaisquer  dos  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial  impede  o  conhecimento  do  respectivo  agravo,  consoante  preceituam  os  arts.  253,  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  e  932,  III,  do  Código  de  Processo  Civil  e  a  Súmula  182  do  STJ.
+5.  Agravo  interno  não  provido.
+(AgInt  no  AREsp  n.  2.419.582/SP,  rel.  Min.  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  14/3/2024)
+Ante  o  exposto,  com  fundamento  no  artigo  253,  parágrafo  único,  inciso  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  não  conheço  do  agravo  em  recurso  especial.
+Caso  exista  nos  autos  prévia  fixação  de  honorários  advocatícios  pelas  instâncias  de  origem,  determino  sua  majoração  em  desfavor  da  parte  agravante,  no  importe  de  10%  sobre  o  valor  já  arbitrado,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil.  Deverão  ser  observados,  se  aplicáveis,  os  limites  percentuais  previstos  nos  §§  2º  e  3º  do  dispositivo  legal  acima  referido,  bem  como  eventuais  legislações  extravagantes  que  tratem  do  arbitramento  de  honorários  e  as  hipóteses  de  concessão  de  gratuidade  de  justiça.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL  QUE  NÃO  COMBATEU  O  FUNDAMENTO  DA  DECISÃO  AGRAVADA.  DESCUMPRIMENTO  DO  PRINCÍPIO  DA  DIALETICIDADE.  INCIDÊNCIA  DOS  ARTS.  932,  III,  DO  CPC,  253,  P.  Ú,  I,  DO  RISTJ,  E  SÚMULA  182/STJ.  AGRAVO  NÃO  CONHECIDO.
