@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALEANDRO MENDES ARAÚJO apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO (Agravo em Execução n. 1004924-83.2025.8.11.0000 ).
+Consta dos autos que o Juízo de execuções alterou a data-base para fins de progressão de regime para a data da última prisão do reeducando.
+Interposto agravo em execução na origem, o Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 11):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO. RECURSO DA DEFESA. CÔMPUTO DE PRISÃO PROVISÓRIA PARA PROGRESSÃO DE REGIME. LIBERDADE PROVISÓRIA INTERCALADA. INTERRUPÇÃO DA CONTINUIDADE DA SEGREGAÇÃO. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo em execução interposto pela defesa contra decisão que determinou a elaboração de novo cálculo de pena, alterou a data-base para progressão de regime e excluiu o período de prisão provisória do cômputo para concessão do benefício.
+2. Fatos relevantes: (i) agravante condenado a 26 anos de reclusão por homicídio qualificado, com início do cumprimento da pena em 22/06/2022; (ii) prisão provisória de 25/06/2015 a 08/06/2016; (iii) concessão de liberdade provisória antes do início do cumprimento da pena definitiva.
+3. Requerimentos do recurso: (i) reconhecimento do período de prisão provisória como tempo hábil à progressão de regime; (ii) reforma da decisão que fixou nova data-base.
+II. QUESTÃO EM DISCUSSÃO
+4. A questão em discussão consiste em verificar se o tempo de prisão provisória, cumprido antes da concessão de liberdade provisória e do início da execução definitiva da pena, pode ser considerado para fins de progressão de regime.
+III. RAZÕES DE DECIDIR
+5. A detração penal, prevista no art. 42 do Código Penal, permite o abatimento do tempo de prisão provisória do total da pena imposta.
+6. A progressão de regime, nos termos do art. 112 da Lei de Execução Penal, exige o cumprimento ininterrupto do lapso temporal no regime atual, além do requisito subjetivo.
+7. O agravante foi posto em liberdade provisória antes de iniciar o cumprimento da pena, o que interrompeu a continuidade da segregação, inviabilizando o cômputo do período anterior como tempo para progressão.
+8. O período de 11 meses e 15 dias de prisão provisória foi corretamente considerado para fins de detração penal, mas não pode ser utilizado para progressão.
+9. A decisão agravada está em conformidade com a jurisprudência do Superior Tribunal de Justiça, que afasta o cômputo da prisão provisória interrompida por liberdade provisória para fins de progressão.
+IV. DISPOSITIVO
+10. Agravo desprovido.
+Daí o presente writ, no qual sustenta a defesa que o período de prisão cautelar deve ser computado como período de pena efetivamente cumprida, razão pela qual não se pode simplesmente descontá-lo da soma final da condenação. D eve integrar o cálculo para obtenção de benefícios pleiteados em sede de execução penal.
+Prossegue dizendo que "o tempo cumprido em prisão provisória ser descontado na pena para a progressão de regime atual" (e-STJ fl. 5).
+Requer, ao final, a concessão da ordem, a fim de que o período da prisão preventiva seja considerado na progressão de regime prisional.
+É o relatório.
+Decido.
+O cerne da controvérsia reside em definir se o período em que o agravante permaneceu preso preventivamente, antes de ser posto em liberdade provisória, deve ser computado apenas para fins de detração penal ou se também deve ser considerado como marco inicial para contagem do lapso temporal necessário à progressão de regime.
+No caso, assim decidiu o Juízo de primeiro grau (e-STJ fl. 40):
+Verifica-se do atestado de pena elaborado e do relatório de situação carcerária juntada aos autos que constam as seguintes datas de prisão e soltura: (i) prisão: 25/06/2015; (ii) soltura: 08/06/2016; (iii) prisão definitiva: 22/06/2022.
+Nesse sentido, o período em que o reeducando esteve preso preventivamente de 25/06/2015 a 08/06/2016 está considerado para fins de detração da pena, nos termos do artigo 42 do Código Penal.
+Logo, não houve exclusão do período de cômputo da pena.
+A decisão de seq. 188 alterou a data-base para fins de progressão de regime para a data da última prisão do reeducando, conforme entendimento sedimentado pelo Superior Tribunal de Justiça.
+Por sua vez, o Tribunal de origem consignou (e-STJ fls.14/15):
+No caso em análise, conforme se extrai dos autos, o agravante foi preso preventivamente em 25/06/2015, permanecendo nessa condição até 08/06/2016, quando foi colocado em liberdade provisória. Posteriormente, após o trânsito em julgado da sentença condenatória, iniciou o cumprimento da pena definitiva.
+A questão controvertida cinge-se, portanto, em definir se o período em que o agravante permaneceu preso preventivamente, antes de ser posto em liberdade provisória, deve ser computado apenas para fins de detração penal ou se também deve ser considerado como marco inicial para contagem do lapso temporal necessário à progressão de regime.
+Com efeito, a jurisprudência dos Tribunais Superiores tem reconhecido que, para fins de progressão de regime, quando o apenado permanece preso ininterruptamente desde a prisão provisória até o início da execução definitiva, a data-base deve retroagir à data da prisão cautelar.
+No entanto, a situação se modifica quando há quebra da continuidade da prisão, como ocorre nos casos em que o sentenciado é posto em liberdade provisória antes do início da execução definitiva da pena.
+A liberdade provisória concedida ao agravante em 08/06/2016 causou a interrupção de sua vida carcerária, afastando a possibilidade de cômputo do período anterior como tempo de cumprimento de pena para fins de progressão de regime. Isso porque o sistema progressivo de cumprimento de pena, previsto na Lei de Execução Penal, pressupõe a avaliação contínua e gradual do comportamento do apenado durante a execução.
+A situação fática do agravante não se amolda ao entendimento jurisprudencial que permite a retroação da data-base à da prisão provisória, uma vez que esse entendimento se aplica aos casos em que há continuidade da segregação cautelar até o início do cumprimento definitivo da pena.
+No caso dos autos, o período de prisão preventiva cumprido pelo agravante (de 25/06/2015 a 08/06/2016) foi devidamente considerado para fins de detração penal, ou seja, foi abatido do total da pena imposta. Contudo, para fins de progressão de regime, a data-base deve ser fixada no momento do início efetivo do cumprimento da pena definitiva, após o trânsito em julgado da sentença condenatória.
+ ..
+Importante ressaltar que a decisão agravada está alinhada com este entendimento jurisprudencial, uma vez que o magistrado singular corretamente determinou a elaboração de novo cálculo de pena considerando que o período em que o agravante esteve preso provisoriamente (25/06/2015 a 08/06/2016) deve ser computado apenas para fins de detração, e não como marco inicial para progressão de regime.
+Ressalte-se, por oportuno, que o período em que o agravante permaneceu preso provisoriamente (11 meses e 15 dias) foi devidamente considerado para fins de detração penal, ou seja, foi abatido do total da pena imposta, em observância ao disposto no artigo 42 do Código Penal (SEEU, aba "eventos" n. 4915829).
+Ao determinar a elaboração de novo cálculo de pena, o juízo singular apenas corrigiu o equívoco consistente na utilização do período de prisão provisória também como marco inicial para contagem do lapso temporal necessário à progressão de regime, o que não encontra amparo legal nem jurisprudencial, conforme demonstrado.
+No caso, a Vara de Execuções penais realizou a detração, para então incidir a fração de progressão sobre o montante de pena a cumprir, pois houve interrupção da prisão com a concessão da liberdade provisória antes da decisão condenatória, sendo inviável falar em retroação da data-base para momento anterior do retorno ao cárcere.
+Com efeito, agiu com acerto o Juízo de primeiro grau em considerar a data base a data da última prisão ininterrupta. Tal entendimento encontra respaldo na jurisprudência desta Corte Superior sedimentada no sentido de que "seja no caso de unificação de penas, ou de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida, o período em que ele permaneceu em liberdade" (AgRg no HC n. 756.257/GO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023)  .. " (AgRg no HC n. 898.807/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+Confiram-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, não se trata de unificação de penas, mas de crime único em que o sentenciado foi preso em flagrante delito no dia 12/7/2014, mas foi solto em 9/1/2015, sendo preso novamente em 19/9/2015.
+2. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por mais de 8 meses, devendo, nesse caso, ser considerada para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 19/09/2015, sob pena de se proclamar como pena efetivamente cumprida o período em ele permaneceu em liberdade. Por conseguinte, o dia da última prisão - e não da primeira -, deve, efetivamente, ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+3. O acórdão impugnado está em consonância com a jurisprudência desta Corte ao estabelecer a data da última prisão como marco temporal para a obtenção de benefícios da execução. É que a Terceira Seção desta Corte, no julgamento do REsp n. 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 22/02/2018, DJe 15/03/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+4. Agravo regimental não provido.
+(AgRg no REsp 1918296/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/4/2021, DJe 26/4/2021.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS ATACADOS. SÚM. N. 182/STJ. NÃO INCIDÊNCIA. INVASÃO DE MÉRITO. INOCORRÊNCIA. VIOLAÇÃO DO ART. 619 DO CPP QUE NÃO SE VERIFICA. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. IMPOSSIBILIDADE. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL PROVIDO PARA, AFASTADA A INCIDÊNCIA DA SÚM. N. 182/STJ, CONHECER DO AGRAVO, NEGANDO, TODAVIA, PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+5. No caso, não se trata de unificação de penas, mas de crime único em que o sentenciado ficou preso provisoriamente no período compreendido entre 23.04.2014 a 24.09.2014, sendo colocado em liberdade posteriormente por meio de alvará de soltura. Após, foi preso aos 13.06.2019, quando deu início ao cumprimento da reprimenda definitiva, no importe de 14 (quatorze) anos e 06 (seis) meses, por infringência ao artigo 121, § 2o, inciso II, do Código Penal.
+6. Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por 5 meses, devendo, nesse caso, ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 13/06/2019, sob pena de se considerar como pena efetivamente cumprida o período em ele permaneceu em liberdade.
+7. Agravo regimental provido para, afastada a incidência da Súm. n. 182/STJ, conhecer do agravo, negando, todavia, provimento ao recurso especial.
+(AgRg no AREs p 1810706/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/5/2021, DJe 1º/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o apenado foi preso em flagrante no dia 2/12/2005, sendo concedida a liberdade provisória em 27/11/2008. Iniciado o cumprimento do decreto condenatório no dia 28/5/2020, a data da última prisão deve ser o lapso para a concessão de benefícios prisionais, sob pena de considerar pena cumprida o período em que ele esteve em liberdade. Precedente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 672.745/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/9/2021.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
