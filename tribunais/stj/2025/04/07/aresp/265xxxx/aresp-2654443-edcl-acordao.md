@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+TRIBUTÁRIO  E  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  INEXISTÊNCIA  DOS  VÍCIOS  DO  ART.  1.022  DO  CPC.  REDISCUSSÃO  DE  QUESTÕES  DECIDIDAS.  IMPOSSIBILIDADE.
+1.  De  acordo  com  a  norma  prevista  no  art.  1.022  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição,  omissão  ou  erro  material  na  decisão  embargada.
+2.  No  caso,  não  se  verifica  a  existência  de  nenhum  dos  vícios  em  questão,  pois  o  acórdão  embargado  enfrentou  e  decidiu,  de  maneira  integral  e  com  fundamentação  suficiente,  toda  a  controvérsia  posta  no  recurso.
+3.  Não  podem  ser  acolhidos  embargos  de  declaração  que,  a  pretexto  de  alegadas  omissões  no  julgado  combatido,  traduzem,  na  verdade,  o  inconformismo  da  parte  com  a  decisão  tomada,  buscando  rediscutir  o  que  decidido  já  foi.
+4.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+O  EXMO.  SR.  MINISTRO  SÉRGIO  KUKINA  (Relator):  Trata-se  de  terceiros  embargos  de  declaração  opostos  por  Integração  Empreendimentos  Ltda.  contra  acórdão  proferido  pela  Primeira  Turma,  assim  ementado  (fl.  318):
+TRIBUTÁRIO.  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  EMBARGOS  PARCIALMENTE  ACOLHIDOS,  SEM  EFEITOS  INFRINGENTES.
+1.  De  acordo  com  a  norma  prevista  no  art.  1.022  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição,  omissão  ou  correção  de  erro  material  da  decisão  recorrida.
+2.  O  mesmo  óbice  imposto  à  admissão  do  recurso  pela  alínea  a  do  permissivo  constitucional  impede  a  análise  recursal  pela  alínea  c,  restando  prejudicada  a  avaliação  do  dissídio  jurisprudencial.
+3.  Embargos  de  declaração  parcialmente  acolhidos,  sem  efeitos  infringentes.
+Em  suas  razões,  a  parte  embargante  sustenta  que  "ao  apenas  consignar  que  a  causa  impeditiva  de  conhecimento  aplicada  à  alínea  "a"  do  permissivo  constitucional  também  obsta  a  análise  pela  alínea  "c",  sem  explicitar  as  razões  fáticas  e  jurídicas  que  fundamentam  tal  impedimento,  incorre  em  omissão  relevante,  da  mesma  forma  que  a  jurisprudência  colacionada,  uma  vez  que  não  foi  acompanhada  de  uma  fundamentação  analítica  que  demonstrasse  a  similaridade  ou  adequação  ao  caso  em  debate"  (fl.  330).
+A  parte  embargada  apresentou  impugnação  às  fls.  336/337.
+É  o  relatório.
+EMENTA
+TRIBUTÁRIO  E  PROCESSUAL  CIVIL.  EMBARGOS  DE  DECLARAÇÃO.  INEXISTÊNCIA  DOS  VÍCIOS  DO  ART.  1.022  DO  CPC.  REDISCUSSÃO  DE  QUESTÕES  DECIDIDAS.  IMPOSSIBILIDADE.
+1.  De  acordo  com  a  norma  prevista  no  art.  1.022  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição,  omissão  ou  erro  material  na  decisão  embargada.
+2.  No  caso,  não  se  verifica  a  existência  de  nenhum  dos  vícios  em  questão,  pois  o  acórdão  embargado  enfrentou  e  decidiu,  de  maneira  integral  e  com  fundamentação  suficiente,  toda  a  controvérsia  posta  no  recurso.
+3.  Não  podem  ser  acolhidos  embargos  de  declaração  que,  a  pretexto  de  alegadas  omissões  no  julgado  combatido,  traduzem,  na  verdade,  o  inconformismo  da  parte  com  a  decisão  tomada,  buscando  rediscutir  o  que  decidido  já  foi.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+
+O  EXMO.  SR.  MINISTRO  SÉRGIO  KUKINA  (Relator):  Não  prospera  a  irresignação  da  parte  embargante.
+De  acordo  com  o  previsto  no  artigo  1.022  do  CPC,  são  cabíveis  embargos  de  declaração  nas  hipóteses  de  obscuridade,  contradição,  omissão  ou  erro  material  na  decisão  embargada.
+Entretanto,  no  caso  dos  autos,  não  se  verifica  a  existência  de  nenhum  desses  vícios,  pois  o  acórdão  embargado  enfrentou  e  decidiu,  de  maneira  integral  e  com  fundamentação  suficiente,  toda  a  controvérsia  posta  no  recurso.
+Com  efeito,  o  aresto  hostilizado  acolheu em parte os  embargos  de  declaração ,  sem  efeitos  infringentes , apenas para explicitar a questão atinente  ao  dissídio  jurisprudencial  suscitado .
+A  propósito,  confiram-se  os  seguintes  trechos  do  acórdão  embargado  (fls.  321):
+De  início,  ficou  devidamente  consignado  no  aresto  hostilizado  que  a  Corte  local  adequou  a  questão  acerca  da  contagem  do  prazo  prescricional  aos  Temas  566  a  571  e  179,  entendimentos  firmados  pelo  Superior  Tribunal  de  Justiça  sob  o  rito  dos  repetitivos  (cf.  fls.  112/114  e  126/128),  razão  pela  qual  prejudicada  a  apreciação  do  recurso,  inclusive  no  que  concerne  à  alegação  de  violação  aos  arts.  489  e  1.022  do  CPC,  porque  atrelada  à  matéria  enfrentada  nos  precedentes.
+De  outro  lado,  verifica-se  não  ter  sido  abordada  nas  decisões  anteriores  a  questão  atinente  ao  dissídio  jurisprudencial  suscitado,  razão  pela  qual  passo  a  sua  análise.
+No  ponto,  impõe-se  registrar  que  o  mesmo  óbice  imposto  à  admissão  do  recurso  pela  alínea  a  do  permissivo  constitucional  impede  a  análise  recursal  pela  alínea  c,  restando  prejudicada  a  avaliação  do  dissídio  jurisprudencial.
+Com efeito, a jurisprudência pacífica do STJ é na linha de que o não conhecimento do apelo raro pela alínea a do permissivo constitucional implica, por esse mesmo motivo (óbices aplicados), o não conhecimento pela alínea c, consoante julgados colacionados no aresto embargado. De fato, os "óbices que impedem a análise do recurso pela alínea a prejudicam o exame do especial manejado pela alínea c do permissivo constitucional para questionar a mesma matéria" (AgInt no REsp n. 2.177.996/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 27/2/2025).
+Em reforço:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AUSÊNCIA DE COMANDO NORMATIVO NO DISPOSITIVO APONTADO COMO VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. PROVIMENTO NEGADO.
+1. A ausência de enfrentamento no acórdão recorrido da matéria impugnada, objeto do recurso, impede o acesso à instância especial por faltar o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+2. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+3. Incide a Súmula 283 do Supremo Tribunal Federal (STF), por analogia, quando a parte deixa de impugnar, nas razões recursais, fundamento autônomo do acórdão recorrido.
+4. É inviável o conhecimento do recurso quando não há comando normativo no dispositivo apontado como violado capaz de sustentar a tese deduzida pela parte recorrente bem como de infirmar a validade dos fundamentos do acórdão recorrido. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal (STF).
+5. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.084.597/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 27/2/2025.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIRO. ALIENAÇÃO BEM IMÓVEL. ALEGADO BEM DE FAMÍLIA. FRAUDE À EXECUÇÃO FISCAL. PRESUNÇÃO ABSOLUTA. INAPLICABILIDADE DA PROTEÇÃO PREVISTA NA LEI 8.009/1990. SÚMULA 83 DO STJ. ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA, EM RAZÃO DA APLICAÇÃO DE ÓBICE PROCESSUAL SOBRE A MESMA MATÉRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, "demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo" (AgInt no AREsp n. 2.217.188/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 19/12/2022); o que não ocorreu na espécie.
+2. Do que extrai dos autos, verifica-se que o imóvel alienado somente passou a se caracterizar como bem de família, quando os terceiros, ora agravantes, o adquiriram, ou seja, posteriormente ao redirecionamento da execução fiscal e respectiva ciência pela sócia, antiga proprietária do imóvel, momento no qual o bem não possuía proteção jurídica na sua esfera patrimonial. Portanto, nos termos do que é exarado por esta Corte Superior, o fato de o imóvel servir atualmente de bem de família aos terceiros adquirentes não influi na presunção absoluta de fraude à execução fiscal, caracterizada pela alienação de bem inscrito em crédito fiscal, nos termos do art. 185 do CTN.
+3. A análise do dissídio jurisprudencial, pela alínea c do permissivo constitucional, fica prejudicada quando for aplicado óbice processual ao recurso especial pela alínea a, no que tange à mesma matéria.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.186.364/RS, relator Ministro Afrânio Vilela, Segunda Turma, DJEN de 24/2/2025.)
+Dessa  forma,  não  podem  ser  acolhidos  embargos  de  declaração  que,  a  pretexto  de  alegada  omissão  no  julgado,  traduzem,  na  verdade,  o  inconformismo  da  parte  com  a  decisão  tomada,  buscando  rediscutir  o  que  decidido  já  foi.
+ Nesse  panorama,  inexistente  qualquer  vício  no  acórdão  embargado,  conforme  exige  o  art.  1.022  do  CPC,  impõe-se  a  rejeição  do  pleito  integrativo.
+ANTE  O  EXPOSTO,  rejeitam-se  os  embargos  declaratórios.
+É  o  voto.
