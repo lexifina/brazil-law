@@ -1,0 +1,27 @@
+DECISÃO
+O presente writ, impetrado em benefício de PAULO RICARDO MOREIRA -condenado como incurso no crime de furto simples -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE MATO GROSSO DO SUL (Apelação Criminal n. 0019570-90.2022.8.12.0001), comporta pronto acolhimento.
+Com efeito, busca a impetração a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência na fração de 1/12, na segunda fase da dosimetria, uma vez que o julgado da d. 1ª. Câmara Criminal do Tribunal local é flagrantemente ilegal, por ofensa aos princípios da razoabilidade, da proporcionalidade e da individualização da pena, ao artigo 67 do Código Penal, bem como por divergir da jurisprudência desse colendo Superior Tribunal de Justiça acerca do tema (fl. 9).
+De fato, da sentença e do acórdão hostilizados, observa-se que houve a preponderância da multirreincidência sobre a confissão espontânea estabelecida em patamar de 1/6. Na sentença constou que, apesar da presença da atenuante da confissão espontânea, o réu é multirreincidente, sendo então compensada a atenuante da confissão com apenas uma das condenações. Vejamos (fls. 442/443 - grifo nosso ):
+ ..
+Na primeira fase, atento às balizas do art. 59, do Código Penal, visualizo que o sentenciado registra maus antecedentes em razão das seguintes condenações: 1) Autos n. 001.07.044135-0, cuja pena foi extinta na Execução Penal n. 0004014-05.2009.8.12.0001, em 12/09/2019; 2) autos n. 0013334-69.2015.8.12.0001, com trânsito em julgado em 19/12/2017; 3) autos n. 0038224-43.2013.8.12.0001, com trânsito em julgado em 23/08/2016. Assim, utilizo a primeira condenação como maus antecedentes e as demais como reincidência na segunda fase. Sua culpabilidade foi normal, assim como as circunstâncias, motivos e consequências do crime. A vítima em nada contribuiu para o crime. Forte nestas razões, fixo a pena-base em 1 (um) ano 4 (quatro) meses e 15 dias de reclusão e 53 (cinquenta e três) dias-multa.
+Na segunda fase, presente a atenuante da confissão espontânea. Por outro lado, o réu é multirreincidente (preponderante). Assim, compenso a atenuante da confissão com uma das condenações e aumento a pena base em 1/6, fixando a pena intermediária em 1 (um) ano e 6 (seis) meses de reclusão e 60 (sessenta) dias-multa.
+ ..
+Ocorre que as instâncias de origem se encontram em dissonância com a jurisprudência deste Sodalício, fixada em sede de recursos especiais repetitivos (Tema 585/STJ), que entende ser possível a compensação parcial entre a atenuante da confissão e a agravante da reincidência em caso de múltipla reincidência.
+Ficou então estabelecido por esta Corte Superior naquela oportunidade que nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+No caso concreto, verifica-se que a compensação da confissão espontânea se deu com uma das condenações do réu (consta da sentença que ele possui ao todo 3 condenações anteriores e com trânsito em julgado, tendo uma condenação já sido utilizada para configurar os maus antecedentes do paciente na primeira fase), cabendo, ainda, o aumento da pena na fração de 1/6 na segunda fase quanto à outra condenação restante, como se essa condenação última fosse uma "nova agravante" a ser considerada de forma independente e isolada, por assim dizer, o que não encontra amparo na nossa jurisprudência.
+Com efeito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO. FURTO SIMPLES. DOSIMETRIA. REPRIMENDA-BASE. FRAÇÃO UTILIZADA PARA NEGATIVAÇÃO DE VETORES E PARA COMPENSAÇÃO PARCIAL DE CONFISSÃO E MULTIRREINCIDÊNCIA. DESPROPORCIONALIDADE. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. MANUTENÇÃO DA DECISÃO MONOCRÁTICA QUE SE IMPÕE.
+ ..
+3. A compensação parcial da atenuante da confissão com a agravante da reincidência, em razão da multirreincidência, proporciona um incremento de 1/12 na segunda fase. Precedente.
+4. Agravo regimental improvido.
+(AgRg no HC n. 932.110/PE, de minha relatoria, Sexta Turma, julgado em 23/10/2024, DJe de 25/10/2024 - grifo nosso).
+Redimensionando-se a reprimenda imposta, temos:
+A fixação da pena-base em 1 ano e 4 meses e 15 dias de reclusão, e 53 dias dias-multa, como já estabelecida. Já na segunda etapa compenso a agravante da reincidência com a atenuante da confissão espontânea na proporção de 1/12, ficando a pena então em 1 ano e 5 meses e 26 dias de reclusão, e 57 dias-multa. Na terceira etapa, por não haver causa de aumento ou de diminuição de pena a sopesar, torno a pena definitiva 1 ano e 5 meses e 26 dias de reclusão, e 57 dias-multa.
+O regime inicial permanece o já fixado (semiaberto).
+Em face do exposto, concedo liminarmente a ordem impetrada para reconhecer a compensação parcial da atenuante da confissão espontânea com a agravante de reincidência (múltipla), na proporção de 1/12, resultando a reprimenda em 1 ano e 5 meses e 26 dias de reclusão, e 57 dias-multa, no regime inicial semiaberto, mantendo os demais termos já estabelecidos pelas Instâncias de origem.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. FURTO SIMPLES. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO. RÉU MULTIRREINCIDENTE. COMPENSAÇÃO PARCIAL NA PROPORÇÃO DE 1/12. CABIMENTO. ILEGALIDADE FLAGRANTE.
+Ordem concedida liminarmente nos termo s do dispositivo.
