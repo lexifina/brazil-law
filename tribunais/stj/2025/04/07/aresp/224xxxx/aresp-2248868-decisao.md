@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LENIR NOGUEIRA ANACLETO contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ (fls. 493-498).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada requer seja mantida a decisão que negou seguimento ao recurso especial (fls. 528-532).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos de ação de obrigação de fazer com pedido de tutela provisória em caráter antecedente.
+O julgado foi assim ementado (fls. 384-385):
+DIREITO PROCESSUAL CIVIL - APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA PROVISÓRIA EM CARÁTER ANTECEDENTE - SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO - DISCUSSÃO A RESPEITO DA DIREITO ALEGADO PELA AUTORA À GARANTIA VITALÍCIA DO PLANO DE SAÚDE COM OS MESMOS VALORES E COBERTURA DO PERÍODO EM QUE A PARTE AUTORA ESTAVA NA ATIVA, AO ARGUMENTO DE QUE TERIA ADERIDO A UM PLANO DE PREVIDÊNCIA COMPLEMENTAR - CONTRATO DE PLANO DE SAÚDE - MODALIDADE "AUTOGESTÃO" - INAPLICÁVEL O CDC - MATÉRIA PACIFICADA PELA 2ª SEÇÃO DO STJ - TERMO DE ASSINATURA DE CIÊNCIA E OPÇÃO REALIZADA PELA RECORRENTE QUANDO DA SUA RETIRADA NO SENTIDO DE QUE TINHA CIÊNCIA E ESTAVA OPTANDO POR PERMANECER NO MESMO PLANO DE SAÚDE PELO PERÍODO DE 01/06/2017 ATÉ 28/02/2018 MEDIANTE O PAGAMENTO INTEGRAL DAS COTAS DO PLANO DE SAÚDE - EXPECTATIVA DE MANUTENÇÃO NO PLANO DE SAÚDE QUE NÃO É ACOMPANHADA DOS VALORES DESEJADOS PELA APELANTE - IMPOSIÇÃO À APELADA DE CUSTEIO VITALÍCIO DE UM PLANO DE SAÚDE, FORA DOS LIMITES CONTRATUAIS QUE PODE ACARRETAR O DESEQUILÍBRIO FINANCEIRO DO CONTRATO - INTERVENÇÃO DO JUDICIÁRIO QUE DEVE SE ATER À VIOLAÇÃO A DIREITO DA PERSONALIDADE, O QUE NÃO OCORREU, NO CASO EM EXAME - DIREITOS FUNDAMENTAIS DA PARTE AUTORA QUE FORAM PRESERVADOS. - AUSÊNCIA DE AFRONTA À BOA-FÉ OBJETIVA. INEXISTÊNCIA DE CONDUTA ILÍCITA DA PARTE RÉ - DANOS MORAIS NÃO CONFIGURADOS - NEGA-SE PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados (fls. 429-440).
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 31 da Lei n. 9.656/1998, pois a recorrente já teria direito ao plano de saúde vitalício pelas regras da norma, "no que se refere aos custos, que eram pagos parte pelo empregador, parte pela Recorrente" (fl. 466);
+b) 422 do Código Civil, porquanto a recorrida violou o princípio da boa-fé objetiva ao não cumprir a proposta de manter o plano de saúde nos mesmos moldes e valores de quando a recorrente estava na ativa;
+c) 427 do Código Civil, sob o argumento de que a proposta de contrato obriga o proponente, e a recorrida não cumpriu a oferta feita; e
+d) 429 do Código Civil, argumentando que a oferta ao público equivale a proposta quando encerra os requisitos essenciais ao contrato, e a recorrida não cumpriu o prometido.
+Requer o provimento do recurso para que se reforme o acórdão recorrido e julgue procedentes os pedidos formulados na inicial.
+Nas contrarrazões, a parte recorrida aduz que a pretensão recursal exige o reingresso no arcabouço probatório, o que encontra óbice nas Súmulas n. 5 e 7 do STJ (fls. 481-491).
+É o relatório. Decido.
+O recurso não reúne condições de admissibilidade.
+Na origem, trata-se de apelação cível interposta por Lenir Nogueira Anacleto contra sentença que julgou improcedente o pedido de manutenção de plano de saúde nas mesmas condições financeiras que mantinha enquanto colaboradora do Banco Itaú.
+Na ocasião, ela sustentou que houve abusividade no valor da mensalidade cobrada após seu desligamento e pediu que fosse reconhecido seu direito à garantia vitalícia de cobertura do plano de saúde com os mesmos valores e condições da época em que estava na ativa.
+No que se refere à alegada violação do art. 31 da Lei n. 9.656/1998, o Tribunal de origem, ao analisar o recurso concluiu que não houve o alegado descumprimento das obrigações contratuais relativas ao plano de saúde operado pela entidade sem fins lucrativos na modalidade de autogestão, e que a Fundação Itaú Unibanco atuou conforme o art. 31 da referida lei de regência, mantendo Lenir no plano de forma vitalícia, mas exigindo o pagamento integral da mensalidade.
+Cito, pois, os trechos do acórdão do recurso de apelação (fl. 390):
+Neste passo, contrariamente ao sustentado pela Apelante, o documento de fls. 24/25, tido como propagada enganosa, não faz constar a informação de que a Apelante não efetuaria o pagamento integral da mensalidade do plano de saúde, nos termos do artigo 31 da lei 9.656/98, mas apenas que o plano de saúde continuaria sendo vitalício.
+ ..
+Nesta ordem de ideias, a sentença ora objurgada revelou-se correta, porquanto não há se falar em propagada enganosa, atuando a recorrida conforme dispõe o artigo 31 da lei 9.656/98, sendo a apelante mantida no plano de forma vitalícia, mas devendo efetuar o pagamento integral do plano de saúde.
+Desse modo, tendo o Tribunal de origem com base no contexto fático-probatório dos autos, concluído que não houve prática abusiva ou atentatória à boa-fé contratual por parte da Fundação Itaú Unibanco e que não se configurou o dever de indenizar, rever esse entendimento esbarra nos óbices das Súmulas n. 5 e 7 do STJ.
+Cito, pois, o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. CONTRATO DE ARQUITETURA. DESCUMPRIMENTO CONTRATUAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ART. 489 DO CPC/2015. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. CDC. ABUSIVIDADE DE CLÁUSULA CONTRATUAL. DEVOLUÇÃO DE VALORES PAGOS. REEXAME DE CLÁUSULAS CONTRATUAIS E CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+ ..
+4. O Colegiado estadual julgou a lide com base na análise de cláusulas contratuais e no substrato fático-probatório dos autos. Assim, não há como alterar a cognição do aresto impugnado e acolher a tese defendida no apelo extremo, uma vez que tal providência esbarraria no disposto nas Súmulas n. 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.141.056/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2017, DJe de 18/12/2017, destaquei.)
+Ademais, no que se refere à alegada ofensa ao arts. 422, 427 e 429 do Código Civil, registre-se que a ausência de debate e deliberação sobre as referidas matérias no acórdão esbarra na exigência do prequestionamento necessário para o conhecimento do recurso e atrai a incidência das Súmulas n. 211 do STJ e 282 do STF.
+Nesse sentido: AgInt no AREsp n. 2.624.156/PE, relator Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 16/12/2024, DJe de 19/12/2024; e AgInt no AREsp n. 2.266.839/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 2/12/2024, DJe de 5/12/2024.
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Nos termos do § 11 do art. 85 do CPC, majoro os honorários advocatícios em desfavor da parte ora recorrente, de 10% para 13% sobre o valor da causa, observada a gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
