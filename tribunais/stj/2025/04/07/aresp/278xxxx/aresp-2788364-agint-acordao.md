@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NAS RAZÕES RECURSAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI. SÚMULA N. 284/STF.
+1. Não se conhece do recurso especial quando ausente indicação de dispositivo de lei federal tido por violado ou sobre o qual recai a alegada divergência jurisprudencial.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Unidade de Atenção Hospitalar Ltda. desafiando decisão de fls. 454/455, que não conheceu do recurso, sob o fundamento de que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, aplicando-se a Súmula n. 284/STF
+A parte agravante, em suas razões, sustenta, em síntese, que: (I) demonstrou divergência jurisprudencial quanto a entendimento já firmado por esta Corte; (II) é essencial que o recurso seja admitido para sanar injustiça, observando a jurisprudência pacificada pelo Superior Tribunal de Justiça e legislação vigente e (III) a Primeira Turma firmou entendimento que torna possível o acolhimento de recurso especial que não indicou incisos correspondentes à alegada violação ao artigo 1.022 do CPC, devendo-se considerar, por isso, que a mitigação do rigor formal dá concretude ao princípio constitucional do devido processo legal em sua dimensão substantiva de razoabilidade e proporcionalidade.
+A parte agravada apresentou impugnação às fls. 505/508.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NAS RAZÕES RECURSAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI. SÚMULA N. 284/STF.
+1. Não se conhece do recurso especial quando ausente indicação de dispositivo de lei federal tido por violado ou sobre o qual recai a alegada divergência jurisprudencial.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos, o presente agravo interno não comporta acolhimento.
+No caso dos autos, cumpre observar que a parte agravante, nas razões do recurso especial de fls. 403/409, não amparou o inconformismo na violação a qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Do mesmo mesmo, na interposição do recurso especial com base na alínea c do permissivo constitucional, é imperiosa a indicação do dispositivo federal sobre o qual recai a apontada divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, também quanto ao ponto, não pode ser conhecido o presente recurso especial, nos termos do supracitado enunciado sumular.
+Nesse diapasão:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO LEGAL VIOLADO. INDICAÇÃO. NECESSIDADE.
+1. É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente violado implica deficiência na fundamentação do recurso especial (Súmula 284 do STF).
+2. A via excepcional não se presta para análise de ofensa a tema de julgado repetitivo, resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.547.577/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO ORDINÁRIA. PENSÃO POR MORTE. RESTITUIÇÃO DE VALORES RECEBIDOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 284 DO STF.
+I - Na origem, trata-se de ação ordinária objetivando condenação da ré ao pagamento do valor de R$ 905.335,56 (novecentos e cinco mil, trezentos e trinta e cinco reais e cinquenta e seis centavos) atualizado monetariamente até 21/1/2020 e acrescido de juros de mora mais atualização monetária até a data do efetivo pagamento. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 2 e n. 3, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive;
+ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+III - Mediante análise, verifica-se a incidência do óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF." (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+IV - Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.) Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 2.564.372/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/8/2024, DJe de 21/8/2024.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
