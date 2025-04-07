@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. RAZÕES DO RECURSO INTERNO DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS N. 284/STF E 182/STJ.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial em razão do entendimento de origem estar em consonância com a jurisprudência e que a reversão do julgado quanto à existência de intimação esbarra no óbice da Súmula n. 7/STJ.
+2. Os fundamentos utilizados na decisão recorrida para não conhecer do recurso especial não foram objeto de impugnação nas razões recursais do agravo interno, apresentando, inclusive, razões totalmente incongruentes e desvinculadas da decisão agravada, ora fazendo alusão à inaplicabilidade da Súmula n. 182/STJ (que não foi objeto de incidência) ou mesmo de usurpação da competência do STJ, sendo que se ultrapassou o conhecimento do agravo para promover a efetiva análise da tese recursal.
+3. Sequer os efetivos fundamentos da decisão agravada foram objeto de impugnação, pois não se refutou a alegação de que o entendimento de origem estava em consonância com a jurisprudência, mesmo cuidou a parte agravante de se insurgir contra a incidência da Súmula n. 7/STJ no que toca à intimação.
+4. O manejo de razões de agravo interno dissociadas das razões de decidir e que não impugnam efetivamente o que foi decidido na decisão agravada faz incidir, concomitantemente, os preceitos das Súmulas n. 284/STF e 182/STJ.
+Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por COMPANHIA SIDERÚRGICA NACIONAL contra decisão monocrática de minha relatoria por meio da qual conheci do agravo para não conhecer do recurso especial, nos termos da seguinte ementa (fl. 723):
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO. IMPUGNAÇÃO. MULTA E HONORÁRIOS DO ART. 523, § 1º, DO CPC DEVIDOS. PRECEDENTES. CIÊNCIA DA INTIMAÇÃO PARA PAGAR. REVISÃO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 595):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. INTIMAÇÃO PARA PAGAMENTO DO DÉBITO. AUSÊNCIA DE PAGAMENTO VOLUNTÁRIO. IMPUGNAÇÃO. MULTA E HONORÁRIOS DO ART. 523 DO CPC DEVIDOS. INCLUSÃO EM FOLHA DE PAGAMENTO. PENSÃO. POSSIBILIDADE. Se não há o pagamento voluntário do valor exequendo pelo executado no prazo legal, é devida a incidência da multa e dos honorários previstos no art. 523 do CPC. Nos termos do art. 533 do CPC "O juiz poderá substituir a constituição do capital pela inclusão do exequente em folha de pagamento de pessoa jurídica de notória capacidade econômica ou, a requerimento do executado, por fiança bancária ou garantia real, em valor a ser arbitrado de imediato pelo juiz."
+Sem embargos de declaração.
+Nas razões do recurso interno, a agravante traz narrativa que seu agravo em recurso especial não foi conhecido em razão dos preceitos da Súmula n. 182/STJ e do art. 932, III, do CPC, o que entende que fere os preceitos do art. 489 do CPC e o entendimento da Suprema Corte, no Tema n. 339, de que houve prestação jurisdicional incompleta.
+Faz apontamentos quanto a decisão de inadmissibilidade ter usurpado a competência do STJ, no que argumenta que "a decisão combatida contraria os artigos 523 §1º, 525, §6º, 835, §2º, 848, parágrafo único, e 917, §2º, do Código de Processo Civil, bem como o artigo 884 do Código Civil, sendo que a matéria em debate encontra respaldo na jurisprudência do próprio STJ, o que reforça a necessidade de sua análise pela instância superior" (fl. 735).
+Argumenta que a decisão monocrática faz "referência a genéricos argumentos (na verdade reprodução de dispositivos legais) que poderiam ser empregados em qualquer tipo de decisão" (fl. 736), no que traz narrativa sobre vedação de manifestações genéricas, no que aduz que, "tanto na decisão colegiada quanto na própria decisão que inadmitiu o Recurso Especial, as pretensões jurídicas formuladas pelo ora Agravante foram negligenciadas, ou seja, não foram analisadas, o que demonstra a flagrante violação aos arts. 5º, inciso XXXV e LV, e 93, IX, ambos da CF/88" (fl. 741).
+Acresce: "Assim, como consequência, se tem por completamente esvaziadas as afirmações de que incidiriam na hipótese os óbices das Súmulas 07 e 182 do Superior Tribunal de Justiça" (fl. 742).
+Prossegui fazendo alusão a artigos que entente violados e reiterando tese de competência do STJ para análise de seu mérito (fl. 747):
+Ab initio, importa destacar a violação flagrante aos dispositivos 523 §1º, 525, §6º, 835, §2º, 848, parágrafo único, e 917, §2º, do Código de Processo Civil, bem como ao artigo 884 do Código Civil.
+ ..
+Ainda, como bem destacado anteriormente, a decisão que negou seguimento ao recurso especial sobrepõe à competência do Tribunal recorrido, porque o E. Tribunal a quo tem seu múnus limitado apenas ao exercício do juízo prévio de admissibilidade, o que amplamente fora demonstrado ter exacerbado suas funções legais.
+Isso porque, decidir se houve ou não ofensa ao dispositivo legal apontado pelo Agravante é questão de direito e afeta ao próprio mérito do recurso, que não pode ser apreciada pelo Tribunal a quo.
+Ora, ao discutir questão concernente ao mérito do recurso especial, a decisão denegatória antecipou o julgamento da questão, o que não lhe é permitido pela legislação processual, tendo em vista que os seus poderes se resumem na aferição do cabimento do recurso em sentido amplo (adequação da hipótese concreta ao permissivo constitucional), verificando a sua regularidade formal (pressupostos e requisitos), sem adentrar a questão substancial da causa, razão pela qual tal posicionamento acolhido pela r. decisão agravada para fundamentar o que foi decidido não merece ser acolhida.
+Em outras palavras, a competência para o julgamento do mérito do recurso especial é exclusiva do Superior Tribunal de Justiça, como determina o artigo 105, inciso III, da Constituição Federal.
+Pugna, por fim, pelo reconhecimento da nulidade da decisão de inadmissibilidade.
+Contrarrazões apresentadas (fl. 753-756).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. RAZÕES DO RECURSO INTERNO DISSOCIADAS. INCIDÊNCIA DAS SÚMULAS N. 284/STF E 182/STJ.
+1. A decisão agravada conheceu do agravo para não conhecer do recurso especial em razão do entendimento de origem estar em consonância com a jurisprudência e que a reversão do julgado quanto à existência de intimação esbarra no óbice da Súmula n. 7/STJ.
+2. Os fundamentos utilizados na decisão recorrida para não conhecer do recurso especial não foram objeto de impugnação nas razões recursais do agravo interno, apresentando, inclusive, razões totalmente incongruentes e desvinculadas da decisão agravada, ora fazendo alusão à inaplicabilidade da Súmula n. 182/STJ (que não foi objeto de incidência) ou mesmo de usurpação da competência do STJ, sendo que se ultrapassou o conhecimento do agravo para promover a efetiva análise da tese recursal.
+3. Sequer os efetivos fundamentos da decisão agravada foram objeto de impugnação, pois não se refutou a alegação de que o entendimento de origem estava em consonância com a jurisprudência, mesmo cuidou a parte agravante de se insurgir contra a incidência da Súmula n. 7/STJ no que toca à intimação.
+4. O manejo de razões de agravo interno dissociadas das razões de decidir e que não impugnam efetivamente o que foi decidido na decisão agravada faz incidir, concomitantemente, os preceitos das Súmulas n. 284/STF e 182/STJ.
+Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Conforme se infere dos autos, a decisão agravada conheceu do agravo para não conhecer do recurso especial em razão do entendimento de origem estar em consonância com a jurisprudência e que a reversão do julgado quanto à existência de intimação esbarra no óbice da Súmula n. 7/STJ.
+A propósito, consignou-se:
+Quanto à multa e os honorários previstos no art. 523, § 1º, do CPC, assim se manifestou a Corte de origem (fls. 599-602):
+Trata-se de insurgência em face da decisão que homologou os cálculos apresentados pelo expert e ainda, determinou a incidência sobre os valores multa de 10% (dez por cento) bem como determinou que fossem incluídas na folha de pagamento as agravadas.
+Consoante expressa dicção do artigo 523 do CPC, que é de aplicação cogente, o executado será intimado para cumprimento voluntário da sentença, no prazo de 15 (quinze) dias, sob pena de fixação de multa de 10% sobre o valor devido. Ademais, se promover o pagamento mencionado no prazo, restará dispensado do pagamento dos honorários advocatícios alusivos à fase executiva do processo, "ex vi":
+ ..
+Na situação em deslinde, verifico que a parte apelada fora intimada para promover o cumprimento voluntário da sentença, todavia, não o implementou dentro do prazo legal, haja vista que apresentou impugnação (doc. ordem 28). Desse modo, não havendo pagamento voluntário do débito dentro do prazo legal, fica atraída a incidência da multa e dos honorários sucumbenciais alusivos ao cumprimento de sentença.
+Ademais, ainda que tenha sido apresentada carta de fiança pelo agravante (doc. ordem 29), tal quantia não ficou disponível, de imediato, para a parte credora/agravada.
+Vale mencionar que muito embora tenha sido apresentado um excesso pela parte agravante entre os cálculos por ela apresentado e pela parte exequente, o valor incontroverso, também não ficou disponibilizado à parte credora.
+Sobre referida questão, o juízo a quo destacou que "Em que pese a exequente requerer a liberação do valor incontroverso, registra-se que a parte executada não realizou depósito judicial, não sendo possível a expedição de alvará." (doc. ordem 58).
+Entretanto, somente em outubro de 2020, ou seja, três anos após o inicio do cumprimento de sentença foi que a parte agravante, intimada, realizou o depósito do valor incontroverso, logo, não houve cumprimento voluntario como faz crer a parte agravante.
+ ..
+Quanto à alegada falta de intimação para pagamento do débito, também sem razão.
+Isso porque, como bem destacou o Procurador de Justiça, inquestionável que tal ato fora realizado, haja vista que "tanto houve que a recorrente impugnou a execução."
+Com efeito, sem censura o acórdão recorrido, pois em consonância com a jurisprudência do STJ de que, "Em cumprimento de sentença, somente o depósito tempestivo e voluntário da quantia devida em juízo e a não apresentação de impugnação afastam a incidência da multa e dos honorários advocatícios previstos no art. 523, § 1º, do CPC" (AgInt no REsp n. 2.072.420/MT, relator Ministro João Otávio de Noronha, Quarta Turma, DJe de 6/11/2024).
+A título de reforço:
+ ..
+Incontroverso dos autos que houve impugnação, o que afasta a pretensão da parte de que não incida a multa e os honorários do art. 523, § 1º, do CPC.
+Por seu turno, consignando o Tribunal de origem no sentido de que houve efetiva intimação do recorrente para pagamento, a reversão do julgado demandaria reexame do acervo fático, o que esbarra no óbice da Súmula n. 7/STJ.
+A propósito:
+ ..
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com efeito, o agravo interno não merece conhecimento, pois os fundamentos utilizados na decisão recorrida para não conhecer do recurso especial não foram objeto de impugnação nas razões recursais do agravo interno, apresentando, inclusive, razões totalmente incongruentes e desvinculadas da decisão agravada, ora fazendo alusão à inaplicabilidade da Súmula n. 182/STJ (que não foi objeto de incidência) ou mesmo de usurpação da competência do STJ, sendo que se ultrapassou o conhecimento do agravo para promover a efetiva análise da tese recursal.
+Ora, sequer os efetivos fundamentos da decisão agravada foram objeto de impugnação, pois não se refutou a alegação de que o entendimento de origem estava em consonância com a jurisprudência, mesmo cuidou a parte agravante de se insurgir contra a incidência da Súmula n. 7/STJ no que toca à intimação.
+Assim, o manejo de razões de agravo interno dissociadas das razões de decidir e que não impugnam efetivamente o que foi decidido na decisão agravada faz incidir, concomitantemente, os preceitos das Súmulas n. 284/STF e 182/STJ.
+Neste sentido:
+2.  Se  a  inadmissão  teve  amparo  no  óbice  descrito  na  Súmula  83/STJ,  deve  a  parte  apontar  precedentes  do  STJ  contemporâneos  ou  supervenientes  aos  mencionados  na  decisão  agravada,  procedendo  ao  cotejo  analítico  entre  eles  para  demonstrar  que  outra  é  a  orientação  jurisprudencial  nesta  Corte  Superior  ou,  na  hipótese  de  distinção  dos  casos,  comprovar  a  inaplicação  ao  feito  do  posicionamento  exposto  no  decisum.
+(AgInt  no  REsp  n.  2.126.180/RJ,  relator  Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  de  22/8/2024.)
+2.  Não  houve  adequada  impugnação  ao  fundamento  do  juízo  negativo  de  admissibilidade  que  aplicou  a  Súmula  nº  83  desta  Corte,  cuja  impugnação  pressupõe  a  demonstração  por  meio  de  julgados  atuais  de  que  a  jurisprudência  do  STJ  não  estaria  no  mesmo  sentido  do  acórdão  recorrido,  ou  de  que  o  caso  em  exame  apresentaria  distinção  em  relação  aos  precedentes  invocados,  o  que  não  ocorreu  na  hipótese.  Precedentes.
+(AgInt  no  AREsp  n.  2.228.879/SE,  relatora  Ministra  Maria  Isabel  Gallotti,  Quarta  Turma,  DJe  de  16/10/2023.)
+Por fim, sem amparo a pretensão da agravada de aplicação da multa prevista no art. 1.021, § 4º, do CPC, visto que o mero manejo do agravo interno não enseja a aplic ação automática da referida sanção processual, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Nesse sentido, cito:
+4. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 31/8/2020, DJe de 8/9/2020).
+(AgInt no AREsp n. 2.326.538/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/9/2023.)
+3. Esta Corte Superior tem entendido que o não conhecimento ou a improcedência do pedido não enseja, necessariamente, a imposição da multa disciplinada pelo art. 1.021, § 4º, do CPC/2015, tornando-se imprescindível para tal que seja nítido o descabimento do pedido, o que não se afigura no caso concreto, em que foi necessária a análise de amplo arcabouço probatório para se chegar à improcedência do pleito inicial.
+(AgInt no AREsp n. 2.102.809/PR, relator Ministro Humberto Martins, Terceira Turma, DJe de 13/9/2023.)
+No entanto, desde já se adverte que a utilização de expedientes voltados meramente para a rediscussão do acerto do julgado poderá caracterizar o aludido caráter manifestamente procrastinatório, ensejando a aplicação de penalidades legais.
+Ante o exposto, não conheço do agravo interno.
+É como penso. É como voto.
