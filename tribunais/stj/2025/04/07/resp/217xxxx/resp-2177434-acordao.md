@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+RECURSO  ESPECIAL.  DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. REINTEGRAÇÃO DE POSSE.  IMÓVEL.  INTERVENÇÃO DE TERCEIRO. LEGITIMIDADE. ANTERIOR MANIFESTAÇÃO. PRECLUSÃO. COISA JULGADA. FATOS E PROVAS. REEXAME. SÚMULA Nº 7/STJ.
+1.  Na hipótese, rever a conclusão do acórdão recorrido acerca da existência de prévia manifestação judicial que reconheceu a legitimidade das recorridas para atuarem como terceiras intervenientes no presente processo demandaria o reexame de fatos e provas, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+2. Recurso  especial  não  conhecido  .
+RELATÓRIO
+Trata-se  de  recurso  especial  interposto  por  IRINEU BERNARDI MEIRELLES,  com  fundamento  no  art.  105  ,  inciso  III,  alínea  "a" ,  da  Constituição  Federal,  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado do Mato Grosso  assim  ementado:
+"CUMPRIMENTO DE SENTENÇA - AÇÃO ANULATÓRIA DE ATOS JURÍDICOS - QUESTÃO DE ORDEM AFETA A SUPOSTA INEXISTÊNCIA DE DECISÃO JUDICIAL FAVORÁVEL PARA A REINTEGRAÇÃO NA POSSE DO IMÓVEL - REJEIÇÃO SOB O FUNDAMENTO DE ILEGITIMIDADE DE PARTE - EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO - SATISFAÇÃO DA OBRIGAÇÃO - ART. 924, INC. II, DO CPC - PARTE QUE JÁ FOI RECONHECIDA COMO ASSISTENTE DA EXECUTADA NA MESMA DEMANDA - LEGITIMIDADE DEMONSTRADA - PREMISSA EQUIVOCADA - CERCEAMENTO DE DEFESA - SENTENÇA CASSADA - QUESTÃO DE ORDEM QUE DEVE SER ANALISADA PELO JUÍZO - - RECURSO PARCIALMENTE PROVIDO EA QUO RECURSO PREJUDICADO. No caso, a parte já restou devidamente reconhecida como assistente litisconsorcial simples da executada, por este Tribunal, em decisão colegiada, restando evidente a sua legitimidade para arguir questão de ordem afeta ao cumprimento de sentença em questão. É vedado o julgamento com base em premissa não comprovada nos autos, sob pena de violação dos princípios constitucionais do contraditório, ampla defesa e devido processo legal, conforme estatui o art. 5º, LIV e LV, da CF, consoante visto na espécie, ante a legitimidade da parte." (e-STJ, fl. 4.891)
+Os  embargos  de  declaração  opostos  pelo  recorrente  foram  rejeitados  (e-STJ  fls.  4.944/4.955).
+Em  suas  razões  (e-STJ  fls.  4.956/4.968),  o  recorrente aponta  a  violação  dos  arts.  502, 505 e 507 do  Código  de Processo  Civil,  sustentando que a questão relacionada à legitimidade das recorridas para atuarem como terceiras intervenientes no presente processo já foi decidida nos autos, não podendo essa matéria ser revista no cumprimento de sentença, por força da preclusão e da coisa julgada.
+Aduz, ainda, que, na anterior manifestação judicial, foi rejeitada a alegada qualidade das recorridas de assistentes litisconsorciais da parte sucumbente.
+Contrarrazões  apresentadas  às  e-STJ  fls.  4.978/5.002.
+O  apelo  nobre  foi  admitido  .
+É  o  relatório.
+EMENTA
+RECURSO  ESPECIAL.  DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. REINTEGRAÇÃO DE POSSE.  IMÓVEL.  INTERVENÇÃO DE TERCEIRO. LEGITIMIDADE. ANTERIOR MANIFESTAÇÃO. PRECLUSÃO. COISA JULGADA. FATOS E PROVAS. REEXAME. SÚMULA Nº 7/STJ.
+1.  Na hipótese, rever a conclusão do acórdão recorrido acerca da existência de prévia manifestação judicial que reconheceu a legitimidade das recorridas para atuarem como terceiras intervenientes no presente processo demandaria o reexame de fatos e provas, procedimento inviável ante a natureza excepcional da via eleita, consoante disposto na Súmula nº 7/STJ.
+2. Recurso  especial  não  conhecido  .
+VOTO
+A irresignação não merece prosperar.
+Com relação à anterior manifestação judicial que se pronunciou sobre a legitimidade das recorridas para atuarem como terceiras intervenientes no presente processo, o Tribunal de origem concluiu, à luz dos elementos fáticos da causa, a respeito dos quais é soberano, que a Kaman Empreendimentos, Participações e Comércio Ltda. e outra atuaram previamente nos autos como assistentes da executada Chalana Agropecuária Ltda., o que lhes confere legitimidade para apresentar o pedido de questão de ordem no presente cumprimento de sentença, consignando que:
+"À vista disso, em que pese a alegação do embargante de que o v. acórdão possui erro de fato, pois, o julgamento do RAC n. 36.400/2005 e do RED n. 73.436/2012, pelo Tribunal de Justiça do Estado de Mato Grosso, não reconheceu as embargadas como assistentes litisconsorciais simples da empresa Chalana Agropecuária S. A, restando evidente que as embargadas nunca foram parte e nem assistentes na lide, independente da modalidade, o certo é que o conjunto probatório produzido nos autos aponta em sentido oposto.
+Digo isso, porque este Tribunal de Justiça, ao julgar o RED n. 73.436/2012, sob a relatoria do i. Des. João Ferreira Filho, reconheceu que a Kaman Empreendimentos, Participações e Comércio Ltda. e outra atuaram nos autos como assistente litisconsorcial simples da executada Chalana Agropecuária Ltda., conforme v. acórdão de id. 182080927, o que confere a referida parte legitimidade processual para apresentar o pedido de questão de ordem no presente cumprimento de sentença.
+Não obstante, reafirmo que ao proferir o seu judicioso voto, o então i. Relator, asseverou que "Destarte, a resolução do litígio de fato reflete no direito das embargantes, mas não o resolve, caracterizando a assistência simples (art. 50 do CPC). Portanto, tratando-se de assistência na forma simples, bem se aplica o disposto no art. 53 do CPC, que impõe a impossibilidade de o assistente obstar que a parte principal desista da ação" (id. 182080927). ,
+Nesse particular, convém ressaltar, consoante bem fundamentado no v. acórdão, que a prova de que a Kaman Empreendimentos, Participações e Comércio Ltda. e outra atuaram como assistente litisconsorcial simples da executada Chalana Agropecuária Ltda., nos autos da ação anulatória de atos jurídicos, da qual se originou o presente cumprimento de sentença, foi trazido a baila pelo próprio recorrente em seu recurso de apelação, consoante se observa do documento de id. 182080927.
+ .. " (e-STJ, fl. 4.950)
+Assim, para que fossem modificadas as conclusões da Corte local a respeito do tema, prevalecendo a versão da recorrente de que a anterior decisão proferida nos autos teria rejeitado a qualidade de assistentes das recorridas, seria indispensável o reexame dos fatos e das provas dos autos, procedimento vedado pela Súmula nº 7/STJ.
+A  propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE EMBARGADA.
+1. Para o ingresso de terceiro nos autos como assistente simples, é necessária a presença de interesse jurídico, não sendo suficiente mero interesse econômico, moral ou corporativo. Precedentes.
+1.1 O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do disposto na Súmula 7 do STJ.
+2. Agravo interno desprovido." (AgInt no AREsp n. 2.371.470/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PENHORA DE IMÓVEL. CONDIÇÃO DE TERCEIRO NÃO COMPROVADA. PROPRIEDADE DO BEM VERIFICADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento." (AgInt no AREsp n. 1.767.763/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/10/2021, DJe de 8/11/2021.)
+Ante  o  exposto,  não  conheço  do  recurso  especial  .
+Deixo de majorar os  honorários  advocatícios  recursais, porquanto não fixados na origem, haja vista que o recurso especial foi interposto de acórdão com natureza de decisão interlocutória.
+É  o  voto.
