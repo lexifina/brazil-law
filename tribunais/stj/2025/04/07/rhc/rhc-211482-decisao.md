@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por RONALDO MOREIRA e NELSON MOREIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+Depreende-se dos autos que os recorrentes foram presos em flagrante e tiveram a prisão convertida em preventiva pela suposta prática do crime previsto no art. 121, caput, c/c art. 14, II, ambos do Código Penal e art. 14, da lei 10.826/03- os recorrentes agindo em unidade de desígnios e identidade de propósitos, tentaram matar a vítima desferindo em sua direção, ao menos, três disparos de arma de fogo- fl. 18.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 82-90.
+No presente recurso, a Defesa aponta a ocorrência de constrangimento ilegal consubstanciado na falta de fundamentação para a manutenção das segregações cautelares, bem como ausência dos requisitos ensejadores da prisão preventiva, defendendo que os recorrentes ostentam condições pessoais favoráveis e ponderando a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Argumenta ter sido em legítima defesa.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Sem pedido de liminar.
+O Ministério Público Federal em parecer, às fls. 128-134, manifestou pelo desprovimento do recurso.
+É o relatório. DECIDO.
+No tocante à alegada ausência de fundamentação do decreto prisional, bem como ausência dos requisitos ensejadores da prisão preventiva, as segregações cautelares estão devidamente fundamentadas em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, notadamente forma na qual o delito foi em tese praticado, uma vez que o delito teria sido praticado em razão de eventual desavença existente entre os envolvidos referente à posse de terra, sendo os recorrentes irmãos, tento sido a tentativa de homicidio praticado em concurso de pessoas, não havendo, segundo a decisão, o resultado morte em razão dos recorrentes, apesar de terem efetuado vários disparos, não terem lograram êxito em acertar a vítima- fls. 18-22.
+Cumpre registrar que "as graves circunstâncias em que praticados os fatos ilícitos (modus operandi) justificam a constrição cautelar para garantia da ordem pública" (AgRg no RHC n. 188.265/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJe de 28/5/2024).
+Nesse sentido: AgRg no RHC n. 191.872/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 23/5/2024; AgRg no RHC n. 192.434/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 3/5/2024; AgRg nos EDcl no HC n. 821.980/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 18/4/2024 e AgRg no HC n. 870.815/SE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/4/2024.
+Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus não é adequada para a análise da alegação de existência de uma excludente de ilicitude - legítima defesa.
+A propósito:
+"a estreita via do habeas corpus não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva, bem como da alegação de existência de uma excludente de ilicitude - legítima defesa " (AgRg no HC n. 882.832/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.)
+Por fim, condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de garantirem aos recorrentes a revogação das prisões preventivas se há nos autos elementos hábeis a recomendar a manutenção de suas custódias cautelares. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
