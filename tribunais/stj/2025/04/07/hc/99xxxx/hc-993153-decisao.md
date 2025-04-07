@@ -1,0 +1,24 @@
+DECISÃO
+O presente writ, impetrado em benefício de LUCAS QUEIROZ DOS SANTOS - preso preventivamente pela prática, em tese, do crime de adulteração de sinal identificador de veículo automotor (Processo n. 1500147-40.2025.8.26.0530) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (HC n. 2016215-46.2025.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revogação da prisão cautelar imposta pelo Juízo Plantonista da comarca de Ribeirão Preto/SP, ao argumento de ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva, motivada na gravidade abstrata do delito e de forma genérica, de desproporcionalidade da prisão em caso de eventual condenação e da possibilidade de substituição da custódia por medidas cautelares alternativas.
+Ocorre que inexiste o alegado constrangimento.
+No caso, o Juízo singular converteu a prisão em flagrante em preventiva, sob os seguintes fundamentos (fls. 17/18 - grifo nosso):
+ ..
+Pelo MM. Juiz foi dito: "Trata-se de descrição de fatos que se amoldam ao artigo 311 do Código Penal. Neste contexto, em análise minuciosa dos fatos descritos no auto de prisão em flagrante, não há como se cogitar, por ora, em liberdade provisória, prisão domiciliar ou imposição de medidas cautelares. Isso porque se verifica que a infração envolve a prática de delito doloso, cuja pena privativa de liberdade máxima cominada à infração excede a quatro anos.
+A incriminação do autuado foi caracterizada pela apreensão de uma motocicleta, cuja placa que ostentava constou como inexistente na consulta realizada. Verificaram, também, que o chassi e motor estavam suprimidos.
+O autuado é reincidente (p. 23/26).
+Em suma, tem-se caracterizada a necessidade da prisão cautelar para manutenção da ordem pública e superados os requisitos próprios para concessão da liberdade provisória, daí porque inviável deferi-la.
+O Tribunal a quo convalidou a segregação preventiva por entendê-la motivada, ressaltando que (fls. 13/14):
+ ..
+Em consulta realizada no sistema informatizado deste Tribunal de Justiça e com base nos documentos constantes da impetração, verifica-se que o paciente ostenta anotações criminais anteriores pelos crimes de furto qualificado e corrupção de menores, sendo reincidente.
+Tais circunstâncias demonstram tratar-se de pessoa com personalidade voltada para a prática de delitos, fundamento suficiente para a manutenção da prisão, a fim de garantir-se a ordem pública. Assim, bem se vê que o envolvimento constante do paciente com os órgãos policiais denota não assimilação da terapêutica aplicada e conduta renitente em práticas ilícitas.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Observa-se da análise dos trechos transcritos que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao risco de reiteração delitiva, a justificar a necessidade de manutenção da medida extrema.
+A propósito, o Superior Tribunal possui entendimento de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019; e AgRg no HC n. 890.488/MA, Ministro Og Fernandes, Sexta Turma, DJe 25/10/2024).
+Além disso, no que tange à alegada desproporcionalidade da prisão cautelar, trata-se de prognóstico que somente será confirmado após a conclusão do julgamento da ação penal, não sendo possível inferir, nesse momento processual e na estreita via ora adotada, o eventual regime prisional a ser fixado em caso de condenação (e consequente violação do princípio da homogeneidade) - AgRg no RHC n. 144.385/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021 (AgRg no HC n. 946.643/RS, Ministro Og Fernandes, Sexta Turma, DJe 7/11/2024).
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Em face do exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. RISCO FUNDADO DE REITERAÇÃO DELITIVA. MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PRECEDENTES.
+Inicial indeferida liminarmente.
