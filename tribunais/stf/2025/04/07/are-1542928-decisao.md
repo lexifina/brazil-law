@@ -1,0 +1,113 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DESCABIMENTO: SÚMULA N. 343 DO SUPREMO TRIBUNAL FEDERAL. PENSÃO POR MORTE. TABELIÃO. ENQUADRAMENTO COMO ANALISTA JUDICIAL DO TRIBUNAL DE JUSTIÇA. NÃO DEMONSTRAÇÃO DE JURISPRUDÊNCIA CONTROVERTIDA. PRECEDENTES. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO: SÚMULAS NS. 283 E 284 DESTE SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Piauí:
+
+    “AÇÃO RESCISÓRIA. AFRONTA À LITERAL DISPOSIÇÃO DE LEI. NÃO OCORRÊNCIA. RESCISÓRIA COMO SUBSTITUTIVO RECURSAL. IMPOSSIBILIDADE. ACÓRDÃO MANTIDO. IMPROVIMENTO. 1. A Corte Superior de Justiça é pacífica no sentido de que o cabimento da ação rescisória, com fundamento no artigo 485, do CPC, é restrita às hipóteses em que o julgado rescindendo tenha enfrentado o mérito da demanda, afastando-se, no caso, a incompetência desta Corte de Justiça. 2. A ação rescisória fundada no art. 966, V, do CPC, consoante a jurisprudência do STJ, pressupõe violação direta de literal disposição de lei, sendo certo que a adoção, pela decisão rescindenda, de uma entre as interpretações cabíveis, não enseja a rescisão do decisum. Precedente: AgInt no AREsp n. 635.766/AL. 3. Na hipótese dos autos, vislumbra-se a pretensão do requerente de utilizar a presente ação rescisória como sucedâneo recursal, na medida em que não há lastro probatório que evidencie a violação de norma, sendo a via rescisória, portanto, inadequada para corrigir suposta interpretação equivocada dos fatos. 4. Ação rescisória julgada improcedente” (fls. 1-2, e-doc. 6).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 10).
+
+    2. No recurso extraordinário, os agravantes alegam ter o Tribunal de origem contrariado o inc. XIII do art. 37, o caput do art. 40, o § 1º do art. 149 e o art. 236 da Constituição da República e o art. 3º da Emenda Constitucional n. 20/1998.
+
+    Argumentam que deveria ser rescindido o “acórdão que concedeu à requerida Ceres Vidal Martins, pensão equivalente à remuneração dos Analistas Judiciais, nível 15 referência III, cargo público efetivo integrante do Poder Judiciário” (fl. 2, e-doc. 12).
+
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 284 do Supremo Tribunal Federal (e-doc. 16).
+
+    4. No agravo interposto contra a inadmissibilidade do recurso extraordinário, os agravantes sustentam que “houve fundamentação suficiente para a total compreensão da controvérsia. Impossível arguir insuficiência das razões no mesmo” (fl. 6, e-doc. 18).
+
+    Salientam ser “inaplicável ao caso o argumento do apelo não enfrentar os fundamentos decisórios. Constata-se que o RE contém razões suficientes a ensejarem, da parte deste Colendo STF, a reforma de decisão recursada” (fl. 7, e-doc. 18).
+
+    Pedem seja “provido o presente recurso, para o fim de ser anulada/reformada a decisão denegatória do Recurso Extraordinário, determinando-se o seu regular processamento e julgamento interposto nestes autos, o qual deverá ser provido nos moldes ali requeridos” (fl. 7, e-doc. 18).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste aos agravantes.
+
+    6. Ao rejeitar os embargos de declaração opostos pelos entes públicos agravantes, o Tribunal de origem assentou que “a manutenção da pensão por morte da embargada em conformidade com os ditames do Regime Próprio de Previdência Social encontra respaldo na Legislação Estadual, não havendo ofensa aos preceitos legais estabelecidos nas Constituições Federal e Estadual” e “que o tema sobre o qual o embargante alega ter o acórdão sido omisso, foi rechaçado quando do julgamento da presente ação rescisória, em decisão colegiada” (fl. 5, e-doc. 10).
+
+    No recurso extraordinário, os agravantes pedem a desconstituição do acórdão recorrido, para julgar procedente a ação rescisória, por ser “inconstitucional outorgar-se, mesmo que por lei formal, equiparação entre notários – sendo o caso do instituidor da pensão da recorrida – e os titulares do cargo público de caráter efetivo de Analista Judicial, PJ/AS nível 15, referência III” (fl. 12, e-doc. 12).
+
+    No recurso extraordinário, os agravantes alegam contrariedade a dispositivos constitucionais sobre equiparação de pensão por morte de tabelião com vencimentos de servidores públicos do Poder Judiciário, sem impugnar, de forma objetiva e específica, os fundamentos infraconstitucionais utilizados para se reconhecer que “a manutenção da pensão por morte da requerida segundo as regras do Regime Próprio de Previdência Social encontra amparo na Legislação Estadual” (fl. 4, e-doc. 6). Incidem na espécie as Súmulas ns. 283 e 284 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO: SÚMULAS NS. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n. 1.358.410-AgR, de minha relatoria, Primeira Turma, DJe 6.4.2022).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRESSUPOSTO DE ADMISSIBILIDADE DO AGRAVO INTERNO NO TRIBUNAL DE JUSTIÇA. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RAZÕES DO APELO EXTREMO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284 DO STF. TEMA 181 DA REPERCUSSÃO GERAL. 1. As razões do recurso extraordinário estão dissociadas dos fundamentos do acórdão recorrido (Súmulas 283 e 284 do STF). 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365-RG). 3. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC” (ARE n. 1.523.293-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 13.3.2025).
+
+    “SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. ÓBICES DOS ENUNCIADOS Nº 283 E Nº 284 DA SÚMULA DO STF. 1. Não tendo sido impugnados os fundamentos constantes do acórdão recorrido, inviável a apreciação do recurso extraordinário, na forma preconizada pelos enunciados nº 283 e nº 284 da Súmula do STF. 2. Agravo regimental a que se nega provimento. 3. Incidência da multa do art. 1.021, § 4º, do Código de Processo Civil, em caso de julgamento unânime, no importe correspondente a 1% sobre o valor da causa” (ARE n. 1.467.667-AgR-segundo, Relator o Ministro André Mendonça, Segunda Turma, DJe 28.5.2024).
+
+    Subsistentes são os fundamentos adotados pela Presidência do Tribunal de Justiça do Piauí ao reconhecer a incidência da Súmula n. 284 deste Supremo Tribunal, concluindo que “o recurso se baseia em premissas fáticas divergentes das que foram fixadas pelo acórdão, de modo que a análise da insurgência deixa clara a deficiência de fundamentação” (fl. 3, e-doc. 16).
+
+    7. Ainda que fosse possível superar esse óbice processual do presente recurso, o que não se dá na espécie, melhor sorte não assistiria aos agravantes.
+
+    8. Na espécie vertente, o Tribunal de origem julgou improcedente a ação rescisória ajuizada pelos entes públicos agravantes, por não estar configurada contrariedade ao inc. V do art. 966 do Código de Processo Civil, com os seguintes fundamentos:
+
+    “A questão controvertida cinge-se ao enquadramento do Sr. Antônio Lima Martins como Analista Judicial deste TJPI e, por conseguinte, o reconhecimento da condição de pensionista da impetrante, ora requerida.
+
+    Analisando o caderno processual, observa-se que Sr. Antônio fora convocado, por ato do Governador do Estado - datado de 23 de janeiro de 1975 (Id. Num. 6879706 - Pág. 271), a assumir, em caráter efetivo, os cargos de Tabelião de Notas, Escrivão do Cível e Comércio, Crime e Júri; e Oficial do Registro Civil de Nascimento e Óbito do Cartório do 2º Ofício da Comarca de Castelo do Piauí, publicado no DOE - ANO XLIII/ Nº 21.
+
+    Nessa época, o servidor foi compelido a recolher contribuições previdenciárias ao Regime Próprio de Previdência Social do Estado do Piauí. Há nos autos certidão do IAPEP que comprova o regular adimplemento dos valores referentes ao período compreendido entre 1º de dezembro de 1969 e 30 de maio de 2004 (Id. Num. 6879706 - Pág. 275). O Instituto de Previdência do Estado, contudo, aduz que o falecido não detinha a qualidade de servidor estadual, porquanto teria contribuído inicialmente para o IAPEP na condição de escrevente juramentado de Cartório.
+
+    Dos autos, verifico que o acórdão rescindendo apreciou apenas a discussão sobre o direito da requerente receber pensão decorrente do falecimento de seu cônjuge, Escrivão Judicial, antes denominado ‘Tabelião Público’.
+
+    Oportuno salientar que o de cujus encontrava-se vinculado ao RGPS após a promulgação da CRF/88, quando exerceu a função de Oficial do Registro Civil da Comarca de Castelo. Não tendo, dessa forma, o órgão plenário reconhecido o direito adquirido à sua manutenção em regime estadual de previdência próprio dos servidores públicos, em razão do exercício do cargo de ‘Oficial de Cartório’. Fixada a premissa, passa-se à análise do caso concreto.
+
+    Em que pesem os argumentos trazidos pelo Estado do Piauí, conforme bem pontuado pelo relator do acórdão, mostra-se razoável reconhecer que o instituidor da pensão fazia parte dos quadros do funcionalismo público estadual.
+
+    Conforme certidão emitida de Id. Num. 6879706 - Pág. 374, o cargo exercido pelo Sr. Antônio equipara-se ao de Escrivão Judicial da respectiva Comarca, cujos proventos correspondem ao cargo de Analista Judicial, Área Judiciária, da Carreira de Analista Judiciário, nível 15, Referência III, na forma da Lei Complementar Estadual nº 212/2016.
+
+    Suficientemente comprovado o vínculo do instituidor da pensão com o ente público, não há como negar a sua qualidade de segurado do RPPS.
+
+    Sem maiores embargos, este Órgão Plenário, além de entender que os tabeliães públicos detêm direito à aposentadoria perante a previdência estadual, em caso semelhante ao dos autos, admitiu a equiparação salarial vindicada no mandamus. (...)
+
+    O acórdão rescindendo é estreme de dúvida quando pontua que a postulante faz jus à percepção da pensão por morte junto à autarquia Estadual, porquanto o seu falecido esposo teria contribuído para o regime de previdência estadual por mais da metade da sua vida.
+
+    Ainda que não se considerasse o tempo de contribuição garantido pela decisão mandamental, não há lastro probatório que evidencie a violação de norma, sendo a via rescisória inadequada para corrigir suposta interpretação equivocada dos fatos.
+
+    Sendo assim, a manutenção da pensão por morte da requerida segundo as regras do Regime Próprio de Previdência Social encontra amparo na Legislação Estadual, inexistindo ofensa aos preceitos legais estabelecidos nas Constituições Federal e Estadual” (fls. 3-4, e-doc. 6).
+
+    Este Supremo Tribunal Federal firmou jurisprudência no sentido de ser incabível “ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais”, conforme enunciado da Súmula n. 343 deste Supremo Tribunal. Assim, por exemplo:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DESCABIMENTO: SÚMULA N. 343 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA CONTRARIEDADE AO INC. XXXV DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL – TEMA 895. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.373.923-AgR-segundo, de minha relatoria, Primeira Turma, DJe 28.11.2022).
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DESCABIMENTO. SÚMULA 343 DO STF. INCIDÊNCIA TAMBÉM NOS CASOS EM QUE A CONTROVÉRSIA DE ENTENDIMENTOS SE BASEIA NA APLICAÇÃO DE NORMA CONSTITUCIONAL. PRECEDENTES DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO DESPROVIDO” (RE n. 1.194.899-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 17.6.2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 05.08.2024. PENSÃO POR MORTE. PRESCRIÇÃO DO FUNDO DE DIREITO. DECRETO 20.910/32. NEGATIVA DE QUALIDADE DE DEPENDENTE EM PROCESSO ADMINISTRATIVO NO ÂMBITO DO TCE. AÇÃO RESCISÓRIA. REQUISITOS DE ADMISSIBILIDADE. SÚMULA 343 DO STF. ERRO DE FATO E VIOLAÇÃO À NORMA JURÍDICA NÃO CONFIGURADOS PELA INSTÂNCIA DE ORIGEM. NECESSIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. OFENSA REFLEXA. SÚMULA 279 DO STF. TEMA 313 DA REPERCUSSÃO GERAL. INAPLICABILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Eventual divergência ao entendimento adotado pelo Tribunal a quo, em relação ao preenchimento dos requisitos legais para a procedência da ação rescisória, demandaria o reexame de fatos e provas constantes dos autos, bem como da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. 2. Inaplicável, portanto, ao caso, o Tema 313 da repercussão geral. 3. Agravo regimental a que se nega provimento. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC” (ARE n. 1.495.525-AgR, Relator o Ministro Edson Fachin, Segunda Turma, DJe 9.10.2024).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AÇÃO RESCISÓRIA. EQUIPARAÇÃO REMUNERATÓRIA ENTRE OCUPANTES DE CARGOS IDÊNTICOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. 1. A equiparação remuneratória, quando sub judice a controvérsia sobre a identidade entre cargos ocupados por servidores públicos estaduais, implica a análise da legislação infraconstitucional local e reexame do conjunto fático-probatório. 2. A violação reflexa e oblíqua da Constituição Federal, configurada pela necessidade de análise de malferimento de dispositivo infraconstitucional local, torna inadmissível o recurso extraordinário, a teor do Enunciado da Súmula 280 do Supremo Tribunal Federal, verbis: ‘Por ofensa a direito local não cabe recurso extraordinário’. 3. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: ‘CONSTITUCIONAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PEDIDO IMPROCEDENTE. SÚMULA 343 DO STF. DIVERGÊNCIA DE ENTENDIMENTOS. AÇÃO MANDAMENTAL. EQUIPARAÇÃO REMUNERATÓRIA ENTRE OCUPANTES DE CARGOS IDÊNTICOS’. 5. Agravo regimental DESPROVIDO” (RE n. 727.261-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJe 12.12.2014).
+
+    Extrai-se dos autos eletrônicos que o Tribunal de origem julgou improcedente a ação rescisória com fundamento na interpretação da legislação local, sem referência expressa à jurisprudência deste Supremo Tribunal Federal ou à contrariedade a disposições constitucionais sobre equiparação de pensão por morte com vencimentos de servidores públicos em atividade.
+
+    No recurso extraordinário, os agravantes alegam contrariedade à “decisão proferida por este Excelso Supremo Tribunal Federal na Suspensão de Liminar nº 719/PI” (fl. 7, e-doc. 12). Entretanto, os motivos da concessão dessa medida liminar não foram debatidos pelo Tribunal de Justiça no julgamento da ação rescisória, nem nos embargos de declaração opostos contra esse julgado. Tampouco ficou demonstrado que a matéria objeto da rescisória seria controvertida, quando da formação da coisa julgada no acórdão rescindendo.
+
+    O Tribunal de origem aplicou sua jurisprudência na solução da controvérsia mencionada no acórdão rescindendo, não sendo cabível, portanto, ação rescisória para rediscutir a matéria infraconstitucional, conforme precedentes firmados na interpretação da Súmula n. 343 deste Supremo Federal.
+
+    9. Este Supremo Tribunal Federal assentou que as alegações referentes ao mérito do julgado rescindendo não viabilizam o recurso extraordinário interposto em ação rescisória, pois “a possibilidade de admissão de recurso extraordinário em ação rescisória restringe-se à fundamentação constante da própria rescisória, não aos argumentos utilizados no acórdão rescindendo” (AI n. 684.285-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+
+    Confiram-se também, por exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DA AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. IMPUGNAÇÃO DO TEMA DE FUNDO DO ACÓRDÃO RESCINDENDO. INADMISSIBILIDADE. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Conforme dispõe o Art. 1.021, § 1º, CPC, é ônus do recorrente impugnar especificadamente os fundamentos da decisão agravada. 2. Na hipótese dos autos, a parte agravante não impugnou todos fundamentos da decisão agravada, limitando-se discorrer acerca do caráter constitucional da controvérsia. 3. Agravo regimental a que se nega provimento” (RE n. 607.422-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 9.12.2016).
+
+    “DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. ALEGADA VIOLAÇÃO NORMA JURÍDICA. CABIMENTO. TEMA Nº 136 DA REPERCUSSÃO GERAL. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO NÃO PROVIDO. 1. O entendimento da Corte de origem não diverge da jurisprudência deste Supremo Tribunal Federal, firmada em sede de repercussão geral, no sentido de que ‘Não cabe ação rescisória quando o julgado estiver em harmonia com o entendimento firmado pelo Plenário do Supremo à época da formalização do acórdão rescindendo, ainda que ocorra posterior superação do precedente’ (Tese nº 136). Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte. 2. O recurso extraordinário pretende discutir a aplicação do teto constitucional previsto no inciso XI do artigo 37 da Carta Política, o que corresponde ao mérito do acórdão rescindendo. Segundo o entendimento desta Suprema Corte, as alegações referentes ao mérito do julgado rescindendo não viabilizam a abertura da via extraordinária, pois as razões do apelo extremo devem voltar-se contra os fundamentos do acórdão proferido no julgamento da ação rescisória. Precedentes. 3. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 4. A teor do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 5. Agravo interno conhecido e não provido”(ARE n. 1.390.490-AgR, Relatora a Ministra Rosa Weber, Plenário, DJe 4.9.2023).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DA AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. IMPUGNAÇÃO DO TEMA DE FUNDO DO ACÓRDÃO RESCINDENDO. INADMISSIBILIDADE. INEXISTÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Conforme dispõe o Art. 1.021, § 1º, CPC, é ônus do recorrente impugnar especificadamente os fundamentos da decisão agravada. 2. Na hipótese dos autos, a parte agravante não impugnou todos fundamentos da decisão agravada, limitando-se discorrer acerca do caráter constitucional da controvérsia. 3. Agravo regimental a que se nega provimento” (RE n. 607.422-AgR, Relator o Ministro Edson Fachin, Primeira Turma, DJe 9.12.2016).
+
+    10. No julgamento do Agravo Regimental no Recurso Extraordinário com Agravo n. 1.455.401/PI, Relator o Ministro Cristiano Zanin, que também se referia a ação rescisória com a mesma questão de mérito deste processo, a Primeira Turma deste Supremo Tribunal reconheceu não haver matéria constitucional a ser analisada e manteve a decisão recorrida, em julgado com a seguinte ementa:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. NOTÁRIOS E REGISTRADORES. APOSENTADORIA. PREENCHIMENTO DOS REQUISITOS. LEI 4.051/1986 DO ESTADO DO PIAUÍ. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO AO QUAL SE NEGA PROVIMENTO. I - É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo. II - Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. III - Agravo ao qual se nega provimento” (Primeira Turma, DJe 8.11.2023).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    11. Pelo exposto, nego provimento ao presente recurso extraordinário com agravo (als. a e b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual somado ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 7 de abril de 2025.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
