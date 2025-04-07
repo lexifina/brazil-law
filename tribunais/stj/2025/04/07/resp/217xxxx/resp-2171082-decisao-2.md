@@ -1,0 +1,20 @@
+DECISÃO
+T rata-s e de agravo em recurso especial interposto por POLICLÍNICA DE BOTAFOGO (fls. 1124-1137 ) contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 2.ª REGIÃO que inadmitiu o apelo nobre no ponto em que se sustenta ofensa aos arts. 502 e 503 do CPC e 14 do C TN (fl. 1094).
+Na decisão impugnada, o Tribunal de origem negou seguimento ao recurso especial quanto à alegada ofensa aos arts. 489 e 1.022 do CPC/2015, em decorrência do entendimento fixado no Tema n. 339 da repercussão geral do STF, e inadmitiu o apelo nobre em relação às demais questões.
+Contra a negativa de seguimento ao recurso especial, a parte recorrente interpôs agravo interno (fls. 1113-1123).
+Na decisão de fl. 1150, foi exercido o juízo de retratação quanto à negativa de seguimento ao recurso especial no tocante à violação aos arts. 489 e 1.022 do CPC/2015, oportunidade em que foi admitido o apelo nobre em relação ao referido ponto.
+É o relatório.
+Decido.
+Diante da decisão posterior que admitiu o recurso especial quanto à suposta violação aos arts. 489 e 1.022 do CPC/2015, não há mais interesse recursal a justificar o conhecimento do agravo em recurso especial de fls. 1124-1137.
+Com efeito, a admissão parcial do recurso especial pelo Tribunal de origem não impede seu amplo conhecimento por esta instância especial, na medida em q ue não vincula seu próprio juízo de admissibilidade, conforme disposto nas Súmulas n. 292 e 528 da Suprema Corte. A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL A QUO QUE ADMITE PARCIALMENTE O RECURSO ESPECIAL. FALTA DE INTERESSE RECURSAL. PRESCRIÇÃO. AUSÊNCIA DE PR EQUESTIONAMENTO. SÚMULA 282 DO STF. MÉRITO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. Por ocasião do juízo de admissibilidade efetuado pela Corte a quo, o apelo especial foi parcialmente admitido. Entretanto, o STJ já consolidou o entendimento de ser incabível Agravo contra decisão que, em juízo de admissibilidade, admite parcialmente o Recurso Especial. Tal orientação constitui objeto dos enunciados de Súmulas 292 e 528 do Supremo Tribunal Federal.
+2. Em relação à prescrição, o debate proposto no Recurso Especial não foi apreciado pelo Tribunal de origem, tampouco provocado por Embargos de Declaração. Súmula 282/STF.
+3. No mérito, os insurgentes restringem-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada. Incide na espécie, por analogia, o princípio estabelecido na Súmula 284/STF.
+4. Ademais, a instância de origem decidiu a controvérsia com fundamento no suporte fático-probatório dos autos. Desse modo, verifica-se que a análise da controvérsia demanda o necessário reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça. Súmula 7/STJ.
+5. Em relação à apontada divergência, esta deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal.
+6. Agravo Interno não provido. (AgRg no REsp n. 1.505.594/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/11/2016, DJe de 19/12/2016; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ADMISSÃO PARCIAL DO RECURSO ESPECIAL. FALTA DE INTERESSE RECURSAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
