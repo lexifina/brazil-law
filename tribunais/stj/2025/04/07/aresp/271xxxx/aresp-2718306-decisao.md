@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por GABRIELE MARIA PEDRON DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl.126):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. DECISÃO QUE REJEITA O PEDIDO DE PENHORA DE PARTE DA VERBA SALARIAL DOS EXECUTADOS. INSURGÊNCIA DO EXEQUENTE. SUSTENTADA VIABILIDADE DE EFETIVAÇÃO DA MEDIDA CONSTRITIVA EM RELAÇÃO A UM DOS DEVEDORES.
+PRIMEIRO ARGUMENTO: EXECUÇÃO DE CRÉDITO VOLTADO AO PAGAMENTO DE PRESTAÇÃO ALIMENTÍCIA. REJEIÇÃO. ENTENDIMENTO ATUAL DO SUPERIOR TRIBUNAL DE JUSTIÇA, E APLICADO POR ESTA CORTE ESTADUAL, NO SENTIDO DE OS HONORÁRIOS ADVOCATÍCIOS, APESAR DE POSSUÍREM NATUREZA ALIMENTAR, NÃO SE ENQUADAM NO CONCEITO DE "PRESTAÇÃO ALIMENTÍCIA". IMPOSSIBILIDADE DE APLICAÇÃO DA EXCEÇÃO PREVISTA NO ART. 833, § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+SEGUNDO ARGUMENTO: PRETENSA MITIGAÇÃO DA REGRA CONTIDA NO ART. 833, IV, DO CPC. ACOLHIMENTO. VIABILIDADE DE RELATIVIZAÇÃO DO MENCIONADO REGRAMENTO, DESDE QUE DEMONSTRADO QUE A PENHORA DE PERCENTUAL DO SALÁRIO DO DEVEDOR NÃO COMPROMETERÁ A SUA SUBSISTÊNCIA OU DE SUA FAMÍLIA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE SODALÍCIO. CASO DOS AUTOS QUE COMPORTA A MENCIONADA RELATIVIZAÇÃO. DETERMINADA A PENHORA DO PERCENTUAL DE 10% DA VERBA SALARIAL PERCEBIDA POR UM DOS DEVEDORES. PATAMAR ESTABELECIDO DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE.
+REFORMA PARCIAL DA DECISÃO QUE SE MOSTRA IMPOSITIVA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alega violação do art. 833, IV e X, e § 2º, do Código de Processo Civil, ao passo que aponta divergência jurisprudencial com arestos desta Corte.
+Argumenta que a decisão do TJSC violou o mencionado artigo, ao permitir a penhora de 10% do salário da recorrente, mesmo estando o valor mensal recebido por ela abaixo de 50 salários mínimos, o que não se enquadra nas exceções previstas para penhora (fls. 146-147).
+Foram oferecidas contrarrazões ao recurso especial (fls. 169-196).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 199-201), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 220-239).
+É, no essencial, o relatório.
+O presente recurso possui como objeto questão submetida a julgamento afetado à sistemática dos recursos repetitivos em que se busca definir o "Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos".
+A questão controvertida foi afetada para julgamento sob o rito dos recursos repetitivos (Tema n. 1.230), o que impõe a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ.
+A propósito, cito a ementa da proposta de afetação:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO. IMPENHORABILIDADE DE VERBA DE NATUREZA SALARIAL. RENDA DO DEVEDOR INFERIOR A 50 SALÁRIOS MÍNIMOS. DÍVIDA NÃO ALIMENTAR. INTERPRETAÇÃO DA REGRA CONTIDA NO ART. 833, IV e § 2º, DO CPC. CRITÉRIOS DE AFETAÇÃO PREENCHIDOS. RECURSO AFETADO AO REGIME DOS RECURSOS ESPECIAIS REPETITIVOS.
+1. Tema proposto para afetação ao rito dos recursos especiais repetitivos: Alcance da exceção prevista no § 2º do art. 833 do CPC, em relação à regra da impenhorabilidade da verba de natureza salarial tratada no inciso IV do mesmo dispositivo, para efeito de pagamento de dívidas não alimentares, inclusive quando a renda do devedor for inferior a cinquenta (50) salários mínimos.
+2. Recurso especial submetido ao regime dos recursos especiais repetitivos (afetação conjunta: REsp 1.894.973/PR, REsp 2.071.382/SE, REsp 2.071.335/GO e REsp 2.071.259/SP). (ProAfR no REsp n. 1.894.973/PR, relator Ministro Raul Araújo, Corte Especial, julgado em 12/12/2023, DJe de 20/12/2023.)
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que lá fiquem sobrestados aguardando o julgamento do Tema n. 1.230 pelo Superior Tribunal de Justiça e, após sua publicação, em observância ao art. 1.040 do CPC/2015: a) seja negado seguimento ao recurso se a decisão recorrida coincidir com a orientação desta Corte; ou b) proceda-se ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema posto em repercussão geral
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PENHORA DE SALÁRIO. ART. 833, IV, DO CPC. ALCANCE DA EXCEÇÃO À REGRA DA IMPENHORABILIDADE. MATÉRIA AFETADA AO REGIME DOS RECURSOS REPETITIVOS. TEMA N. 1.230/STJ. DEVOLUÇÃO DOS AUTOS À ORIGEM.
