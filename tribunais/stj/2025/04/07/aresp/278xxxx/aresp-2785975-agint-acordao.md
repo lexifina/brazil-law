@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. ENTREGA DO IMÓVEL. DANOS MORAIS. ATRASO EXCESSIVO. INDENIZAÇÃO DEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, " o  simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial" (AgInt nos EDcl no AREsp 676.952/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+2. Na espécie, caracterizado o atraso excessivo na entrega do bem, é legítima a condenação da promitente-vendedora ao pagamento de compensação por dano moral, pois não se verifica, diante da circunstância, a ocorrência de mero inadimplemento contratual.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JFE 32 EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão da Presidência do Superior Tribunal de Justiça (fls. 381/384), que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões (fls. 388/396), a parte agravante sustenta, em síntese, que o atraso na entrega do empreendimento não possui o condão de gerar danos morais.
+Requer, assim, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Apresentada impugnação às fls. 402/406.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. ENTREGA DO IMÓVEL. DANOS MORAIS. ATRASO EXCESSIVO. INDENIZAÇÃO DEVIDA. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, " o  simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial" (AgInt nos EDcl no AREsp 676.952/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+2. Na espécie, caracterizado o atraso excessivo na entrega do bem, é legítima a condenação da promitente-vendedora ao pagamento de compensação por dano moral, pois não se verifica, diante da circunstância, a ocorrência de mero inadimplemento contratual.
+3. Agravo interno desprovido.
+VOTO
+A presente irresignação não merece prosperar, devendo ser mantida a decisão proferida pela Presidência do STJ.
+Nos termos da jurisprudência desta Corte, " o  simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável. Entretanto, sendo considerável o atraso, alcançando longo período de tempo, pode ensejar o reconhecimento de dano extrapatrimonial" (AgInt nos EDcl no AREsp 676.952/RJ, Relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 27/3/2023, DJe de 3/4/2023).
+No entanto, nos casos em que se verifica que os fatos ultrapassam meros dissabores, nos moldes em que delineados pelas instâncias ordinárias, é possível o reconhecimento da configuração do dano moral.
+Da análise dos autos, constata-se que o Tribunal de origem, ao negar provimento à apelação interposta pela ora recorrente e manter a sentença quanto ao seu dever de indenizar a título de dano moral, concluiu, com base nos elementos informativos da lide, pela existência dos requisitos ensejadores da reparação civil, tendo em vista que o atraso na transferência da propriedade do imóvel ultrapassou o conceito de mero dissabor e acarretou dano moral indenizável. A propósito, divisam-se os seguintes fundamentos extraídos do acórdão recorrido, in verbis:
+"No que toca ao dano moral, não se nega os recentes posicionamentos adotados pela jurisprudência do Superior Tribunal de Justiça (AgInt no AREsp 1639233/SP AGRAVO INTERNO NO AGRAVO EM RECURSO ESPE CIAL 2019/0372789-4), de que "o mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequ ência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade".
+Ocorre que, no caso dos autos, o dano moral restou caracterizado, já que nem sequer após a propositura da demanda a unidade imobiliária, que era para estar pronta, no máximo, em 31 de janeiro de 2015, foi entregue ao autor, que, por óbvio, esperava, ansiosamente, o término da obra." (fls. 293/294)
+Na espécie, caracterizado o atraso excessivo na entrega do bem, é legítima a condenação da promitente-vendedora, ora recorrente, ao pagamento de indenização por dano moral, pois não se verifica, diante da circunstância, a ocorrência de mero inadimplemento contratual. Nesse sentido:
+"AGRAVO INTERNO NA PET NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. ATRASO NA TRANSFERÊNCIA DA PROPRIEDADE DE IMÓVEL. AUSÊNCIA DE BAIXA DA HIPOTECA. DANOS MORAIS CONFIGURADOS. AGRAVO INTERNO DESPROVIDO.
+1. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas caracterizadoras da lesão extrapatrimonial.
+2. Na hipótese, as instâncias de origem apontaram atraso de aproximadamente dois anos no cumprimento da obrigação da recorrente em proceder à transferência da propriedade do imóvel objeto da lide e da própria baixa da hipoteca, de modo que a frustração da legítima expectativa do recorrido extrapolou o mero aborrecimento resultante do descumprimento contratual, acarretando significativa violação ao direito da personalidade, situação que comporta a compensação por danos morais. Precedentes.
+3. Agravo interno a que se nega provimento."
+(AgInt na Pet no AREsp 2.127.363/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/12/2023, DJe de 7/12/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. MANUTENÇÃO. OMISSÃO DO ACÓRDÃO. ART. 1022 DO CÓDIGO DE PROCESSO CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. ATRASO DE OBRA POR LONGO PERÍODO. FINALIDADE DE MORADIA. CIRCUNSTÂNCIAS EXCEPCIONAIS. DANO MORAL CONFIGURADO. PRECEDENTES DO STJ. INCIDÊNCIA DA SÚMULA 83 DO STJ. SEM IMPUGNAÇÃO DEVIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. Precedentes.
+2. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram; deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º.7.2019).
+3. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar a lesão extrapatrimonial, como na hipótese dos autos, em que o atraso foi superior à 2 (dois) anos, ainda não há notícias da entrega do imóvel, o qual foi adquirido para fins de moradia.
+4. No caso concreto, o Tribunal de origem analisou as provas dos autos para concluir pela ocorrência de danos morais, que ultrapassam o mero dissabor, decorrentes de longo atraso na entrega da unidade imobiliária. Alterar esse entendimento demandaria o reexame de provas, inviável em recurso especial.
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp n. 2.249.293/RJ, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023, g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. IMÓVEL NA PLANTA. ATRASO INJUSTIFICADO. NÃO CUMPRIMENTO. ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO. DEFICIÊNCIA. OMISSÃO. NÃO OCORRÊNCIA. CLÁUSULA DE TOLERÂNCIA. ALTERAÇÃO. ABUSIVIDADE. SITUAÇÃO EXCEPCIONAL. COMPROVAÇÃO. DANO MORAL. CABIMENTO. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ. LUCROS CESSANTES. PREJUÍZO PRESUMIDO.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, não apenas no sentido pretendido pela parte.
+2. A jurisprudência do Superior Tribunal de Justiça preleciona que o simples inadimplemento contratual em virtude do atraso na entrega do imóvel não é capaz, por si só, de acarretar dano moral indenizável, sendo necessária a comprovação de circunstâncias excepcionais que possam configurar lesão extrapatrimonial.
+3. No caso dos autos, o tribunal local consignou se tratar de uma situação extraordinária que causou abalo moral ao agravado e o motivo do imóvel ser entregue quase 2 (dois) anos após o prazo previsto no contrato.
+4. Na hipótese, rever os fundamentos do acórdão estadual para afastar a ocorrência dos danos morais a partir da tese de que teria havido mero inadimplemento contratual exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e do contrato, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5. A jurisprudência do STJ preleciona que o atraso na entrega do imóvel enseja o pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente-comprador.
+6. Agravo interno não provido."
+(AgInt no AREsp n. 2.197.931/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 2/10/2023, DJe de 6/10/2023, g.n.)
+Assim, estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, incide, na espécie, o óbice da Súmula 83/STJ.
+Ademais, a modificação de tal entendimento, lançado no v. acórdão recorrido, demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao presente agravo interno.
+É como voto.
