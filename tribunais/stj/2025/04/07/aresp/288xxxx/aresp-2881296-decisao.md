@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Ipojuca contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça de Pernambuco, assim ementado (fls. 453/454):
+EMENTA: DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. SENTENÇA DE PROCEDÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A GRATIFICAÇÃO DE DIFÍCIL ACESSO. REPETIÇÃO DO INDÉBITO DOS VALORES DESCONTADOS INDEVIDAMENTE. CARÁTER TRANSITÓRIO DA GRATIFICAÇÃO (PROPTER LABOREM). (RE 593068 - TEMA Nº 163 DO STF). SÚMULA 124 DO TJPE. ARTIGO 150 DO ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE IPOJUCA (LEI Nº 1.494/2008). ARTIGO 42 DA LEI MUNICIPAL Nº 1.442/2006. GRATIFICAÇÃO NÃO INCORPORÁVEL AOS PROVENTOS DA APOSENTADORIA. RECURSO DE APELAÇÃO A QUE SE NEGA PROVIMENTO. DE OFÍCIO, CORRIGIR OS CONSECTÁRIOS LEGAIS DETERMINADOS NA SENTENÇA PARA ADOTAR OS PARÂMETROS DOS ENUNCIADOS ADMINISTRATIVOS Nºs 9, 13, 18 e 24, DA SEÇÃO DE DIREITO PÚBLICO DESTE TJPE, BEM COMO MAJORAR OS HONORÁRIOS EM 2% (DOIS POR CENTO), NOS TERMOS DO ARTIGO 85, §11, DO CPC. À UNANIMIDADE DE VOTOS.
+Opostos embargos declaratórios, foram rejeitados (fls. 478/486).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1.022, II, do CPC e 3º, do Código Tributário Nacional. Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional; e (II) "seja reconhecida a legalidade da incidência da contribuição previdenciária sobre a gratificação de difícil acesso que, embora não seja permanente, é uma rubrica de caráter habitual e necessário ao equilíbrio do RPPS do Município do Ipojuca." (fl. 504).
+Contrarrazões às fls. 524/531.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não compor ta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, quanto à incidência da contribuição previdenciária sobre a Gratificação de Difícil Acesso, o Tribunal de origem assim se manifestou (fls. 450/452):
+Cinge-se a presente controvérsia sobre a possibilidade ou não de incidência de contribuição previdenciária sobre a vantagem remuneratória denominada "Gratificação de Difícil Acesso" recebida pelos autores/apelados.
+Sobre o tema incidência de contribuições previdenciárias sobre parcelas não incorporáveis aos proventos de aposentadoria, o Supremo Tribunal Federal, em sede de recurso extraordinário com repercussão geral (RE 593068 - TEMA Nº 163), fixou a seguinte tese:
+ ..
+Na hipótese, a referida gratificação recebida pelos autores/apelados tem caráter propter laborem, uma vez que atrelada à continuidade da lotação do servidor em local de difícil acesso, a teor do que dispõe o artigo 150 do Estatuto dos Servidores do Município de Ipojuca (LEI Nº 1.494/2008), senão vejamos:
+ ..
+Como se vê, o pagamento da referida gratificação cessa imediatamente quando o servidor deixa de exercer suas atividades em local de difícil acesso.
+Ademais, a Lei Municipal nº 1.442/2006, em seu artigo 42, veda a inclusão de parcelas remuneratórias pagas em decorrência de local de trabalho no cálculo da aposentadoria do servidor do Município de Ipojuca, como na hipótese, senão vejamos:
+ ..
+Portanto, não resta dúvida que a gratificação de difícil acesso recebida pelos autores/apelados não incorpora aos proventos da aposentadoria, incidindo o entendimento firmado por este Tribunal através da Súmula nº 124, que assim dispõe:
+Súmula nº 124 - Não incide contribuição previdenciária sobre as parcelas não incorporáveis à aposentadoria do servidor.
+Assim, entendo que deva ser mantida a sentença nesse ponto.
+Assim, o exame da controvérsia tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Em reforço:
+PROCESSUAL CIVIL. SERVIDOR MUNICIPAL. GRATIFICAÇÃO DE DIFÍCIL ACESSO. BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA. EXAME DE LEI LOCAL. SÚMULA 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Cuida-se, na origem, de Ação Ordinária proposta pelos recorridos contra o Instituto de Previdência Municipal de São Paulo - Iprem, ora recorrente, objetivando a exclusão da Gratificação de Difícil Acesso da base de cálculo das contribuições previdenciárias, bem como, a devolução dos valores indevidamente descontados, acrescidos de correção monetária e juros.
+2. O Juiz de 1º Grau julgou procedente o pedido em face do Instituto de Previdência Municipal de São Paulo - Iprem.
+3. O Tribunal a quo negou provimento à Apelação do recorrente e assim consignou: "A preliminar de falta de interesse de agir se confunde com o mérito e com ele será analisada. Dispõe o artigo 3º da Lei Municipal nº 11.035/91: (..) Sobreveio, em seguida, a Lei Municipal nº 13.973/2005, dispondo sobre as contribuições para o regime próprio de previdência social dos servidores públicos do Município de São Paulo, determinando em seu art. 1º, §1º, inciso VI, a exclusão das parcelas remuneratórias pagas em decorrência do local de trabalho. (..) pela qual não se incorpora aos vencimentos, devendo, por conseguinte, ser excluída da base de cálculo da contribuição previdenciária. Assim, considerando os descontos efetuados, não há que se falar em falta de interesse de agir, não carecendo do exaurimento da via administrativa, para se pleitear o quê de direito perante o Poder Judiciário."
+(fls. 182-183, grifo acrescentado).
+4. Esclareça-se que o exame da pretensão recursal pressupõe a apreciação de normas de Direito local, mais especificamente das Leis Municipais 11.035/1991 e 13.973/2005 e do Decreto municipal 46.860/2005. 5. Isso posto, a Corte de origem decidiu a lide à luz das referidas Leis Municipais 11.035/1991 e 13.973/2005, fazendo referência às suas disposições para solucionar a controvérsia. Aplica-se, in casu, por analogia, a Súmula 280 do STF. Nesse sentido: REsp 1.245.902/AM, Relatora Ministra Eliana Calmon, Segunda Turma, DJe 19/6/2013, e AgInt no AREsp 965.063/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/3/2017.
+6. Recurso Especial não conhecido.
+(REsp n. 1.656.905/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/4/2017, DJe de 2/5/2017.)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
