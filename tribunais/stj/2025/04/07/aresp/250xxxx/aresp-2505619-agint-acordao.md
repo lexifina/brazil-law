@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO ARTIGO TIDO POR VIOLADO. SÚMULA 284 DO STF. TÍTULO EXRCUTIVO. CERTEZA E LIQUIDEZ. REEXAME DAS CONCLUSÕES ADOTADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JOSÉ EDUARDO RODRIGUES DE BARROS  contra  decisão  singular  proferida pela Ministra Presidente do STJ,  na  qual  o  agravo  foi conhecido, mas não conhecido do  recurso  especial  em  virtude  do  óbice  da  Súmula  284 do STF, decorrente da ausência de indicação do artigo tido por violado, e da Súmula 7  do  STJ no que se refere à pretensão de reconhecimento da violação do art. 786 do Código de Processo Civil/2015.
+Nas  razões  do  presente  agravo,  o agravante afirma que "não é imprescindível mencionar o número do dispositivo legal violado para que o recurso seja considerado admissível. O ponto central da questão reside na apresentação clara e fundamentada da tese jurídica" (e-STJ, fl. 542).
+Aduz que não incide o óbice da Súmula 7 do STJ, sendo necessária apenas interpretação e aplicação do direito ao conjunto probatório já existente nos autos e que, no presente caso, busca-se estabelecer se a execução direta para o recebimento de direitos originários de eventual evicção é o meio adequado, ou se seria necessário a propositura de uma ação de conhecimento.
+A  impugnação  foi  apresentada  às  STJ,  fls.  549/553.
+É  o  relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO ARTIGO TIDO POR VIOLADO. SÚMULA 284 DO STF. TÍTULO EXRCUTIVO. CERTEZA E LIQUIDEZ. REEXAME DAS CONCLUSÕES ADOTADAS PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+O  recurso  não  merece  prosperar.
+Como  constou  na  decisão  agravada,  nos termos da jurisprudência desta Corte, a ausência de indicação, associada às razões pelas quais assim entende a parte, do dispositivo legal tido por violado atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE AFASTADA. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 284/STF. PRETENSÃO DEDUZIDA CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO QUINQUENAL. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que não conheceu do recurso especial, em razão da intempestividade. Reconsideração.
+2. A ausência de indica ção, associada às razões pelas quais assim entende a parte, do dispositivo legal tido por violado atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+3. O acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que a pretensão deduzida contra a Fazenda Pública sujeita-se ao prazo prescricional de cinco anos (artigo 1º do Decreto 20.910/32).
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt nos EDcl no AREsp n. 1.808.839/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/11/2023, DJe de 23/11/2023.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. PENHORA SOBRE O FATURAMENTO DA EMPRESA. POSSIBILIDADE. AUSÊNCIA DE LOCALIZAÇÃO DE BENS SUFICIENTES PARA SALDAR O DÉBITO. REVISÃO. SÚMULA 7/STJ. 2. ÔNUS DA EXEQUENTE. FALTA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 3. NOMEAÇÃO DE ADMINISTRADOR. PRESCINDIBILIDADE DE INTIMAÇÃO DA PARTE. AUSÊNCIA DE DETERMINAÇÃO NO COMANDO LEGAL REFERENTE À PENHORA DE FATURAMENTO DA EMPRESA. 4. AGRAVO INTERNO DESPROVIDO.
+1. O colegiado estadual, após detida análise de fatos e provas acostadas aos autos, reconheceu a legalidade da penhora efetuada sobre o faturamento da empresa recorrente, notadamente por terem sido esgotados os meios necessários para a localização de outros bens passíveis de saldar o débito. Rever tal conclusão esbarra no óbice da Súmula 7/STJ.
+2. A recorrente deixou de indicar o dispositivo tido por violado, a fim de viabilizar o conhecimento da insurgência sobre a questão do ônus processual da exequente de indicar a existência de faturamento da empresa suficiente para garantir a execução no prazo máximo de 12 (doze) meses. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+3. O art. 866, § 2º, do do Código de Processo Civil de 2015, ao dispor sobre a penhora de percentual de faturamento de empresa, não determina sobre a necessidade de intimação do executado para manifestação quanto à nomeação do administrador-depositário.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.238.942/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/4/2023, DJe de 19/4/2023.)
+No caso dos autos, o agravante apenas pugnou pelo reconhecimento da ausência de preclusão da matéria de ordem pública, sem a indicação do artigo tido por violado, atraindo quanto ao tema o óbice da Súmula 284 do STF por analogia.
+No que se refere à existência de certeza, liquidez e exigibilidade no título executivo, o Tribunal de origem consignou que (i) não há pretensão de direitos referente a evicção; (ii) o recorrido comprovou que fora vencido em ação de embargos de terceiro e tivera que arcar com os custos da derrota, sendo tais valores o que pretende executar, juntamente com a segunda obrigação cujo valor restou descrito no título executivo; e (iii) não restam dúvidas acerca do cumprimento dos requisitos de liquidez, certeza e exigibilidade do título executivo. Confira-se:
+Em decisão de saneamento do feito, o juízo a quo pontuou corretamente que não merece prosperar a tese suscitada pelo Apelante relativa a ausência de liquidez, certeza e exigibilidade do título executivo, utilizando da seguinte fundamentação (f. 157) (destaco):
+ ..  Sustenta o embargante a ausência de liquidez, certeza e exigibilidade já que a obrigação que alega o exequente decorre de seu direito a evicção, direito que não pode ser objeto da presente execução, por não se tratar de obrigação líquida, certa e exigível, necessitando de ação de conhecimento autônoma para definição de responsabilidade do executado.
+Como narrado nos autos, o título executivo prevê duas obrigações, sendo a primeira os ônus de eventual processo em nome do embargado visando livrar da constrição o imóvel adquirido do falecido. Embora tenha sido mencionado em tal obrigação a responsabilidade pela evicção, verifica-se que o que busca receber o exequente/embargado são os ônus que teve com a ação mencionada na obrigação. Assim, não há pretensão de direitos referente a evicção, a ser discutido em ação autônoma.
+Ora, o embargado comprovou que a mencionada ação trata-se dos embargos de terceiro n. 0009384-76.2009.8.26.0032 em que fora vencido e tivera que arcar com os custos da derrota, sendo tais valores o que pretende executar, juntamente com a segunda obrigação cujo valor restou descrito no título executivo  ..
+Compartilho da fundamentação do juízo de piso.
+Da análise do deslinde dos fatos e dos elementos probatórios acostados aos autos, verifico que a sentença proferida pelo juízo da 3ª Vara Cível da comarca de Araçatuba/SP, nos autos dos Embargos de Terceiro nº 0009384-76.2009.8.26.0032, ao julgar improcedente a demanda, condenou o Apelado ao pagamento das despesas processuais e honorários advocatícios, estipulados no percentual de 20% do valor atualizado daquela causa (f. 177/180).
+Insta consignar que fora juntada cópia da inicial dos Embargos de Terceiro nº 0009384-76.2009.8.26.0032, em que é possível extrair o valor estipulado à causa, no quantum de R$ 315.000,00 (f. 171).
+Em decorrência de tal condenação, foi pactuada composição amigável entre as partes, tendo sido pactuado que o valor devido pelo Apelado consistia na quantia líquida e certa de R$103.620,00, bem como tendo confessado os credores, naquela oportunidade, terem recebido o valor de R$ 68.620,00, além de terem estabelecido que o saldo remanescente, consistente na quantia de R$ 35.000,00, deveria ser quitado em 4 parcelas, mediante depósitos bancários, nos valores de R$ 10.000,00 cada (f. 227/229 e 237/238).
+O acordo foi homologado judicialmente (f. 230), e com juntada de comprovante de cumprimento da obrigação (f. 231), foi declarada a extinção da ação, nos termos do art. 924, inc. II, do Código de Processo Civil (f. 234).
+Logo, não restam dúvidas acerca do cumprimento dos requisitos de liquidez, certeza e exigibilidade do título executivo (fl. 477)  ..  (e-STJ, fls. 476/477).
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pelo cumprimento dos requisitos de liquidez, certeza e exigibilidade do título executivo, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice da Súmula 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+ ..
+1.2. Rever o entendimento do Tribunal de origem, no sentido de aferir a ausência dos requisitos necessários para a validade do título executivo (certeza, liquidez e exigibilidade), forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ.
+2. A jurisprudência do STJ é firme no sentido de que o indeferimento do pedido de produção de provas e o julgamento do mérito da demanda não configuram cerceamento de defesa quando constatada a existência de provas suficientes para o convencimento do magistrado, como ocorreu na hipótese. A alteração do acórdão impugnado com relação à suficiência das provas acostadas aos autos demandaria o reexame do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, a teor da Súmula 7/STJ.
+3. A falta de indicação pela parte recorrente do dispositivo legal que teria sido violado ou objeto de interpretação jurisprudencial divergente implica em deficiência da fundamentação do recurso especial, incidindo o teor da Súmula 284 do STF, aplicável por analogia. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.929.197/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Nesse  contexto,  não  havendo  argumentos  aptos  a  infirmar  os  fundamentos  da  decisão  agravada,  esta  deve  ser  integralmente  mantida.
+Em  face  do  exposto,  nego  provimento  ao  agravo  interno.
+É  como  voto.
