@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Agravo interno. AGRAVO EM Recurso especial. Ônus da prova. Contrato verbal. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE MATÉRIA FÁTICA. APLICAÇÃO DAS SÚMULAS N. 5 E 7 DO STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do STJ que negou provimento ao agravo em recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ, que vedam a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios.
+2. O Tribunal de origem concluiu que o autor não comprovara a alienação do imóvel, não se desincumbindo do ônus probatório, conforme o art. 373, I, do CPC, e que a fragilidade da prova produzida não permitia reconhecer o contrato verbal de compra e venda.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a decisão do Tribunal de origem violou o art. 489, § 1º, IV, do CPC ao não analisar pontos relevantes do acórdão recorrido e se houve correta aplicação das Súmulas n. 5 e 7 do STJ; (ii) saber se é correta a distribuição do ônus da prova conforme o art. 373, I e II, do CPC e se houve negativa de vigência dos arts. 104 e 107 do Código Civil.
+III. Razões de decidir
+4. O STJ entendeu que as questões essenciais ao deslinde da demanda foram examinadas e decididas de modo objetivo, claro e motivado, não havendo vício de julgamento ou negativa de prestação jurisdicional.
+5. A revisão das conclusões adotadas no acórdão recorrido implicaria a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+6. A parte recorrente não apresentou argumentos suficientes para a modificação da decisão agravada, que deve ser mantida por seus próprios fundamentos.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. A revisão de decisão que envolve interpretação de cláusulas contratuais e reexame de provas é vedada pelas Súmulas n. 5 e 7 do STJ. 2. A decisão que examina a matéria e decide de modo claro e motivado não incorre em negativa de prestação jurisdicional".
+Dispositivos relevantes citados: CPC, arts. 373, I, e 489, § 1º, IV; CC, arts. 104 e 107.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021; STJ, REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020.
+RELATÓRIO
+GERALDO RAMOS DE FREITAS interpõe agravo interno contra a decisão de fls. 733-738, que negou provimento ao agravo em recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ, que vedam a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios.
+O agravante sustenta que a decisão monocrática apresenta equívocos, pois não analisou pontos relevantes do acórdão recorrido, violando o art. 104, I, II e III, do Código Civil e 489, § 1º, IV, do Código de Processo Civil, visto que o contrato de compra e venda verbal foi celebrado por agentes capazes, com objeto lícito e forma prescrita pela lei (fls. 744-750).
+Defende a inaplicabilidade da Súmula n. 5 do STJ, porquanto o recurso especial visa à correta aplicação do art. 107 do Código Civil, que admite a forma verbal para contratos de compra e venda (fls. 748-749), bem como da Súmula n. 7 do STJ, pois a discussão é exclusivamente jurídica, envolvendo a adequada distribuição do ônus da prova, conforme o art. 373, I e II, do Código de Processo Civil, e a negativa de vigência dos arts. 104 e 107 do Código Civil (fls. 749-750).
+Sustenta que houve usurpação da competência do STJ, visto que "o Tribunal de origem não poderia realizar juízo definitivo de admissibilidade sobre a pertinência da matéria ao recurso especial" (fl. 750).
+Requer o recebimento do presente agravo interno recebido, a intimação dos agravados para manifestação, o reconhecimento da inaplicabilidade das Súmulas n. 5 e 7 do STJ ao caso concreto e o provimento do agravo interno para que se reforme a decisão monocrática, determinando-se o processamento do recurso especial (fls. 750-751).
+Contrarrazões às fls. 756-759, em que ELIZIÁRIA ALVES MACHADO e OUTRO alegam que o recurso especial não preenche os requisitos legais, pois não houve afronta a dispositivo de lei federal, bem como que o agravante está apenas rediscutindo a matéria, o que remete à inadmissibilidade do recurso especial. Requerem a manutenção da decisão que negou a admissibilidade do recurso especial e, subsidiariamente, o desprovimento do agravo interno.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno. AGRAVO EM Recurso especial. Ônus da prova. Contrato verbal. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE MATÉRIA FÁTICA. APLICAÇÃO DAS SÚMULAS N. 5 E 7 DO STJ. Agravo desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão do STJ que negou provimento ao agravo em recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ, que vedam a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios.
+2. O Tribunal de origem concluiu que o autor não comprovara a alienação do imóvel, não se desincumbindo do ônus probatório, conforme o art. 373, I, do CPC, e que a fragilidade da prova produzida não permitia reconhecer o contrato verbal de compra e venda.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) saber se a decisão do Tribunal de origem violou o art. 489, § 1º, IV, do CPC ao não analisar pontos relevantes do acórdão recorrido e se houve correta aplicação das Súmulas n. 5 e 7 do STJ; (ii) saber se é correta a distribuição do ônus da prova conforme o art. 373, I e II, do CPC e se houve negativa de vigência dos arts. 104 e 107 do Código Civil.
+III. Razões de decidir
+4. O STJ entendeu que as questões essenciais ao deslinde da demanda foram examinadas e decididas de modo objetivo, claro e motivado, não havendo vício de julgamento ou negativa de prestação jurisdicional.
+5. A revisão das conclusões adotadas no acórdão recorrido implicaria a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+6. A parte recorrente não apresentou argumentos suficientes para a modificação da decisão agravada, que deve ser mantida por seus próprios fundamentos.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. A revisão de decisão que envolve interpretação de cláusulas contratuais e reexame de provas é vedada pelas Súmulas n. 5 e 7 do STJ. 2. A decisão que examina a matéria e decide de modo claro e motivado não incorre em negativa de prestação jurisdicional".
+Dispositivos relevantes citados: CPC, arts. 373, I, e 489, § 1º, IV; CC, arts. 104 e 107.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021; STJ, REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020.
+VOTO
+A decisão agravada, inclusive transcrevendo substancial parte do acórdão recorrido, adotou a fundamentação abaixo (fls. 735-737):
+O recurso não merece prosperar.
+Inicialmente, registre-se que é incabível a pretensão de que o Superior Tribunal de Justiça se manifeste sobre a suposta violação de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+Quanto à aventada violação do art. 489, § 1º, IV, do CPC, bem como da negativa de prestação jurisdicional, o Tribunal de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Reitere-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado ainda que, relativamente às conclusões, não haja a concordância das partes.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC" (AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda estes precedentes: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+O Tribunal de origem concluiu, com base na análise do conjunto fático- probatório, que o autor não comprovou que a alienação do imóvel fora efetivamente realizada, não se desincumbindo do seu ônus probatório, consoante se extrai dos trechos do acórdão recorrido abaixo (fls. 506-507):
+Constata-se pelo conjunto probatório que o autor/apelado se restringiu a apresentar nos autos comprovantes de gastos com o desmembramento do terreno pertencente aos apelantes e com a regularização do CPF do Sr. Lidiones Dolor Machado.
+Em que pese o contrato de compra e venda não se revestir de requisitos formais, sendo admitido a forma verbal, deve haver elementos mínimos para comprovar a transação, como testemunhas, comprovantes de pagamento, troca de mensagens, dentre outros, o que não se verifica no presente caso.
+Pelo relatado, o apelado alega ter adquirido o imóvel por R$ 16.000,00 (dezesseis mil reais), o que parece ser um valor bem baixo considerando sua metragem (884,59 m ), ainda mais comparado com outra venda relatada nos autos, no mesmo terreno, no valor de R$ 20.000,00 (vinte mil reais) por uma área de 367,37 m .
+Em que pese as testemunhas inquiridas relatarem que ouviram a alegada pactuação verbal, não há outra prova a corroborar os depoimentos. Além disso, chama a atenção o fato de as testemunhas se lembrarem da celebração do contrato com detalhes dos valores avençados, sendo que o negócio foi realizado em 2010 e a audiência foi realizada apenas em 2019, levando a crer que foram instruídas para o ato, já que não se recordavam de outros fatos cotidianos da época.
+Não se pode deixar de considerar que os apelantes são idosos, de pouca instrução, e, ao que tudo indica, a suposta venda se deu a preço vil, não condizente com o valor de mercado.
+Nesse contexto, reconhecer o negócio apenas com base em depoimentos de testemunhas, sem nenhuma outra prova documental a corroborar os fatos, sequer algum comprovante de pagamento, não se afigura razoável.
+Soa estranho, também, o autor ingressar com ação declaratória de inexistência de débito e na audiência de conciliação ainda oferecer valor em dinheiro aos réus/apelantes para que providenciassem a transferência da escritura do imóvel supostamente adquirido.
+Outrossim, não se pode deixar de observar que o imóvel nunca saiu da posse dos apelantes, onde, pelo que se depreende dos autos, continuam residindo.
+Nesse sentido, considerando a fragilidade da prova produzida nos autos, não há elementos para se reconhecer, com a necessária segurança, a existência do suposto contrato de compra e venda mencionado na exordial.
+Nesse contexto, o acolhimento das teses defendidas no recurso especial, fundadas na comprovação da alienação do imóvel, implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos, medidas inadmissíveis nesta instância superior, de acordo com as Súmulas n. 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo.
+Consoante se extrai da motivação decisória ora questionada, feita a devida análise dos fundamentos dos acórdãos de origem, observa-se que a sugerida violação do art. 489, § 1º, IV do CPC não haveria mesmo de prosperar. Isso porque as questões essenciais ao deslinde da demanda foram examinadas e decididas de modo objetivo, claro e motivado, não tendo o Tribunal a quo incorrido em nenhum dos vícios previstos na referida norma processual, tampouco em negativa de prestação jurisdicional.
+Tal como ressaltado na decisão agravada, inclusive com amparo em precedentes do STJ, não há vício de julgamento quando o magistrado se atém às circunstâncias fáticas da causa, examina os pedidos formulados na petição inicial e decide a lide nesses limites, ainda que ampare seu entendimento em fundamentos jurídicos diversos daqueles expostos pelas partes em suas manifestações nos autos.
+Reitere-se que, no que diz respeito às alegadas omissões, conforme devidamente explicitado na decisão ora agravada, o Tribunal de origem, diante da interpretação de cláusulas contratuais e análise dos fatos e provas dos autos, concluiu que o apelado não comprovou, ainda que por indícios ou elementos mínimos, que a alienação do imóvel fora efetivamente realizada, não se desincumbindo, pois, de seu ônus probatório. Deixou, assim, de cumprir o que determina o art. 373, I, do Código de Processo Civil.
+Entendeu ainda o colegiado que, "considerando a fragilidade da prova produzida nos autos, não há como reconhecer o suposto contrato verbal de compra e venda, impondo-se, portanto, a reforma da sentença" (fl. 509).
+Vê-se que o agravo interno não reúne condições de êxito, porquanto a argumentação deduzida no recurso especial, segundo se depreende da decisão ora recorrida, não se mostrou apta a ultrapassar a barreira das Súmulas n. 5 e 7 do STJ.
+Presentes tais fundamentos, é evidente que a revisão das conclusões adotadas no acórdão recorrido e, por conseguinte, o acolhimento da tese defendida no recurso especial implicariam, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos, o que atrai a aplicação das Súmulas n. 5 e 7 do STJ.
+Dessa forma, constata-se que a parte ora recorrente não apresentou argumentos suficientes para a modificação da decisão ora agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
