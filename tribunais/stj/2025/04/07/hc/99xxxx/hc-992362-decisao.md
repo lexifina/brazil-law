@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de MATHEUS RIBEIRO BARBOSA TENORIO em que se aponta como ato coator o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+ESTELIONATO. ABSOLVIÇÃO. Impossibilidade. Prova boa e robusta a lastrear a condenação. PENA. Criteriosamente fixada. RECURSO IMPROVIDO.
+Consta dos autos que o paciente foi condenado à pena de 1 ano de reclusão, no regime aberto pela prática do crime previsto no art. 171, caput, do Código Penal, substituída a pena privativa de liberdade por restritivas de direitos.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, porquanto não existem provas suficientes para manter a condenação, pois deixou de ser comprovada a autoria delitiva, tendo em vista que a instituição financeira não utilizou mecanismos adequados de prevenção de fraudes, bem como pelo fato do paciente desconhecer a existência da conta, que teria sido aberta sem o seu consentimento.
+Alega, ainda, que a ausência de provas está comprovada, inclusive pela falta de reconhecimento do IMEI do dispositivo celular que possivelmente teria realizado a abertura da conta.
+Requer, em suma, liminarmente, a suspensão dos efeitos da condenação até julgamento do presente writ, e, no mérito, a absolvição do paciente.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação para afastar a tese de absolvição:
+Note-se, ainda, como mencionado pelo ilustre sentenciante que:
+"Os elementos de prova colhidos formam quadro robusto, que autoriza a conclusão, com segurança, de que o réu efetivamente praticou o crime descrito na denúncia.
+Depreende-se dos autos que, na data dos fatos, a vítima viu um anúncio de uma empresa de investimentos na conta de Instagram de uma amiga @viniciusehgraziele (fls. 23/25 e 15/16). Graziela declarou que o investimento era legítimo ("de confiança") e com retorno rápido (fls. 15/16 e 23/24). Foi direcionada para a conta de @lupinelli. lucas (fl. 32) com quem manteve conversa sobre a empresa e teve acesso a uma tabela de investimentos (fls. 13/14, 17/20, 27/31). Forneceu informações pessoais para um suposto cadastro e efetuou duas transferências pix no valor de R$ 2.000,00 cada para a conta do ora acusado.
+Após efetuar as transferências, a vítima percebeu que havia caído em um golpe, pois nem sua amiga nem o contato da empresa de investimentos retornava suas mensagens. Apenas no dia seguinte foi informada de que a conta @viniciusehgraziele havia sido hackeada e que outras pessoas também foram vítimas deste golpe (fls. 25/26).
+Em Juízo, a vítima informou que entrou em contato com sua gerente do banco solicitando o bloqueio do pix. Contudo, não foi possível a efetivação dos bloqueios, pois o dinheiro já havia sido transferido para outras contas.
+O prejuízo da vítima foi de R$ 4.000,00.
+A versão apresentada pelo réu (somente em Delegacia de Polícia) estou isolada das provas colhidas nos autos. Alegou que não abriu conta no Banco Itaú, desconhecendo a conta digital ITI nº 016208217-6 Ag. 0500.
+Contudo, os documentos juntados às fls. 95/112 confirmam que o acusado enviou fotografia "selfie" e biometria para abertura de conta digital, que conforme declarado pelo próprio acusado em Delegacia de Polícia, foi tirada em sua residência.
+Ainda, respeitada a tese defensiva, restou devidamente demonstrado que o réu concorreu para a prática do estelionato, tendo atuado em concurso com terceira pessoa não identificada e fornecido conta corrente para receber valores de um suposto investimento em criptoativos. O ardil restou demonstrado, uma vez que a vítima imaginou que o pix enviado seria destinado à realização de investimentos e que teria retorno da quantia investida.
+O réu concorreu inequivocamente, com função bem delimitada, para a prática do crime, responsável individualmente pelo recebimento dos valores em conta pessoal, sem que houvesse um negócio jurídico que justificasse as transferências, e ainda realizou transferências para contas de titularidade de terceiro, minutos após os valores caírem em sua conta (fls. 109).
+Inequívoco, no contexto apresentado, que concorreu para a prática delitiva, e responde na sua culpabilidade, nos termos do artigo 29 do Código Penal.
+O crime restou consumado, vez que o réu obteve vantagem ilícita no importe de R$ 4.000,00, tendo a vítima suportado esse prejuízo.
+Assim, a condenação do réu como incurso no artigo 171, caput, do Código Penal é medida que se impõe."
+ ..
+Note-se que vale destacar, como oportunamente lembrado pelo Ministério Público, que há registros de biometria e "selfie" apresentados como prova no processo, realizados no ambiente domiciliar do réu. Embora a defesa questione a segurança, a inexistência de provas de manipulação dos dados pelo banco sugere que o réu estava, de fato, consciente do uso de sua identidade para abrir e movimentar essa conta.
+Ainda, o histórico de transferências, que inclui o envio quase imediato dos valores recebidos para outras contas, caracteriza um esquema comum em fraudes. A ausência de evidências de que o réu tentou impedir ou denunciar essas transações fortalece a presunção de que ele tinha ciência e participação ativa.
+Ou seja, o conjunto probatório inclui transferências documentadas e testemunho da vítima, que viu o anúncio fraudulento e foi orientada a transferir o valor para uma conta ligada ao réu. Esse conjunto é considerado consistente o suficiente para caracterizar a autoria e a materialidade do crime de estelionato, atendendo ao ônus probatório exigido.
+ ..
+Diante disto, o que se percebe é que a prova coligida é harmônica e leva ao reconhecimento inescusável da autoria delitiva. A condenação do réu, portanto, é medida de rigor, sendo impossível o acolhimento da tese absolutória (fls. 18/21).
+Na espécie, pelo trecho do julgado acima transcrito, verifica-se que a instância de origem, depois de minuciosa análise dos fatos e provas produzidos nos autos, concluiu pela existência de elementos concretos a ensejar a condenação do paciente e, para concluir em sentido diverso, acolhendo a tese absolutória, seria necessário o revolvimento de todo o conjunto fático-probatório, providência inadmissível na via estreita do habeas corpus.
+Nesse sentido, vale citar os seguintes julgados desta Corte: AgRg no HC n. 913.488/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 12.9.2024; AgRg no HC n. 903.472/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 838.412/SC, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 923.273/SP, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 6.9.2024; AgRg no HC n. 749.134/SP, Rel. Ministra Daniela Teixeira, Quinta Turma, DJe de 3.9.2024; AgRg no HC n. 917.080/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 6.9.2024; AgRg no HC n. 885.771/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 5.9.2024; AgRg nos EDcl no HC n. 867.797/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29.8.2024; AgRg no HC n. 842.280/SP, Rel. Ministro Messod Azulay Neto, Quinta Turma, DJe de 27.8.2024.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
