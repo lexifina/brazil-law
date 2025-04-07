@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por HOSPITAL DA CRIANCA SAO JOSE LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO - AÇÃO DE REPARAÇÃO CIVIL - ATO ILÍCITO - NÃO CONFIGURAÇÃO - INDENIZAÇÃO - DANO MORAL AFASTADO. 1. O Hospital responde, independentemente da existência de culpa, pela reparação dos danos causados, em virtude de defeitos relativos à prestação dos serviços. 2. A responsabilidade civil do médico, como profissional liberal, exige a presença simultânea de três requisitos: 1º) a existência de dano ao paciente: 2º) a conduta culposa do médico decorrente de imperícia, negligência ou imprudência; e 3º) o nexo de causalidade entre a conduta culposa do médico e o dano sofrido pelo paciente.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 14, § 4º, do CDC e ao art. 932, III, do CC, no que concerne à ausência de responsabilidade do hospital, tendo em vista que a conduta a qual gerou o dever de compensação por danos morais não foi praticada por médico empregado do nosocômio, trazendo a seguinte argumentação:
+Não há qualquer conduta negativa reclamada pela autora em face do hospital quanto a prestação dos serviços que lhes são próprios, tais como, higiene, segurança, hotelaria etc.
+Todas as condutas narradas na inicial reclamam contra a decisão do médico quando do tratamento da paciente, pois, a reclamação é contra as suas próprias condutas e não as praticadas pelo hospital.
+Acrescente-se ainda o fato de que o médico, no exercício da medicina, possui autonomia como princípio fundamental, para o fim de ministração da melhor terapêutica ao caso clínico em busca da cura do paciente.
+Além disso, o próprio §4º do art. 14 do CDC, prevê de forma ostensiva que a responsabilidade pessoal dos profissionais liberais será apurada mediante a verificação de culpa, sendo, portanto, de natureza subjetiva e, por corolário lógico, depende da discussão que é própria da ação de conhecimento, razão pela qual, é imprescindível que as médicas que ministraram atendimento à paciente figurem na lide, senão vejamos:
+ ..
+Entretanto, na hipótese em que o ato lesivo não se relaciona com os demais serviços prestados pela clínica/hospital, jungindo-se a erro profissional típico, seria difícil vislumbrar qualquer defeito, pressuposto da responsabilidade objetiva nos termos do art. 14, § 4º, diverso da conduta subjetiva do médico - a atividade defeituosa - não se podendo negar, nesta perspectiva, que somente a demonstração da culpa é que poderá desencadear a responsabilidade do profissional e, em consequência, do hospital solidariamente.
+Não obstante o CDC ser aplicado à relação entre médico-paciente-hospital, não pode ser ignorado o entendimento adotado pelo Código Civil de que, a responsabilidade objetiva deve ser aplicada em alguns casos expressamente dispostos naquele Código, entre eles, o do art. 932 2 , que se presume objetiva a responsabilidade do empregador por seus empregados.
+Os médicos não são empregados do hospital, mas sim integrantes de seu corpo clínico 3 , devendo ser tal fato levado em consideração ao aplicar a referida teoria da responsabilidade objetiva aos hospitais.
+O médico corréu não é empregado ou preposto do Hospital, não podendo ser considerado o art. 932, III do Código Civil, aplicado erroneamente pelo Acórdão recorrido.
+ ..
+O Superior Tribunal de Justiça compartilha do entendimento uníssono, acerca da total ausência de responsabilidade do hospital por conduta que não lhe são atribuídas exclusivamente. In verbis precedentes:
+ ..
+Por estas razões, não há que se falar em condenação do nosocômio Réu visto que o dever de informação é responsabilidade do médico que no presente caso não é empregado/preposto do Hospital, por se tratar de conduta praticada por ele de forma direta e no exercício da profissão médica a qual é dotada de autonomia, devendo o acórdão ser modificado para delimitar a responsabilidade pela indenização dos danos morais única e exclusivamente do médico corréu (fls. 1.094/1.098).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+In casu, constato a existência de responsabilidade objetiva do nosocômio, haja vista que restou demonstrado o nexo causal entre o agravamento do quadro clínico da parte autora, o alegado defeito do serviço prestado pelo hospital, bem como o erro médico cometido.
+Infere-se dos autos que a parte autora foi submetida a uma cirurgia de correção do cálculo renal e colocação do cateter duplo J, com o primeiro réu, nas dependências do segundo réu, vindo o primeiro a falhar com relação ao dever de informação, deixando a paciente desamparada.
+Sendo assim, incorreu em erro o médico que, ao atender a autora, não a informou da necessidade de retirada do cateter, vindo esta a sofrer fortes dores, transtornos, angústias e, ainda, ter que ser submetida a uma nova cirurgia.
+ ..
+Destarte, a falta de informação, agravando a situação de risco para a saúde da autora, causou-lhe danos morais passíveis a serem reparados.
+Ademais, como a parte ré não nega que houve agravamento do quadro clínico da autora, a ocorrência do dano moral se mostra evidente. (fls. 1.034/1.038).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
