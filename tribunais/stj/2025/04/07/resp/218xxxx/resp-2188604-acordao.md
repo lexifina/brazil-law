@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, dar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL.
+1. Incidente de desconsideração da personalidade jurídica em ação de execução de título executivo extrajudicial.
+2. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+3. Recurso especial conhecido e provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se recurso especial interposto por RICARDO TEIXEIRA POSSES e OUTROS, fundamentado na alínea "c" do permissivo constitucional.
+Ação: incidente de desconsideração de personalidade jurídica, manejado por SIFRA PLUS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MULTISSEGMENTOS, no intuito de incluir os ora recorrentes no polo passivo de ação de execução de título executivo extrajudicial ajuizada em face de RIO BRANCO IMPORTADORA E DISTRIBUIDORA LTDA.
+Decisão interlocutória: indeferiu o pedido de desconsideração da personalidade jurídica apresentado pela recorrida. Na oportunidade, fixou honorários advocatícios em favor do patrono dos recorrentes no montante de R$ 30.000,00 (trinta mil reais).
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pela recorrida, apenas para afastar a condenação desta ao pagamento de honorários advocatícios em favor do patrono dos recorrentes. O acórdão foi assim ementado:
+AÇÃO DE EXECUÇÃO Incidente de desconsideração da personalidade jurídica Execução lastreada em instrumento de cessão de crédito Pretensão do exequente de atingir o patrimônio dos sócios de empresas de grupo econômico que está em recuperação judicial e figuram como sacadas dos títulos emitidos pela executada Alegação de fraude por meio da qual os sócios das recuperandas utilizariam a executada como empresa de fachada para fraudar credores e o Fisco Decisão que rejeitou o pedido do exequente, sob o fundamento de que a pretensão deve ser veiculada por meio de ação própria Insurgência do exequente Parcial cabimento Possibilidade de veiculação da pretensão por meio de incidente de desconsideração da personalidade jurídica Questão decidida por esta 11ª Câmara de Direito Privado no julgamento do Agravo de Instrumento nº 2184801-85.2021.8.26.0000 Conquanto o modo de operação das empresas em recuperação judicial e da executada seja pouco usual, levantando fundadas suspeitas de ilicitude, ao menos por ora, não há elemen tos que permitam concluir que houve fraude contra credores Questão apreciada pelo juízo da recuperação judicial em incidente instaurado para apurar fraude contra os credores sujeitos à recuperação, como é o caso da exequente, justamente a partir da notícia de operação desencadeada pelo Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO), do Ministério Público do Estado de São Paulo, com apoio do Grupo de Atuação Especial para Recuperação Fiscal (GAERFIS), da Procuradoria Geral do Estado de São Paulo, e da Polícia Militar Juízo da recuperação judicial, com base em relatório minucioso da Administradora Judicial, concluiu não haver prova segura da prática de fraude contra credores nas operações da recuperanda, incluindo aquelas envolvendo a exequente Ausência de elementos novos que infirmem a bem fundamentada conclusão exposta pelo juízo da recuperação judicial RECURSO PARCIALMENTE PROVIDO NESSA PARTE.
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA Decisão que condenou a exequente ao pagamento de honorários advocatícios sucumbenciais Insurgência da exequente Cabimento Impossibilidade de arbitramento de honorários advocatícios em incidente de desconsideração da personalidade jurídica Ausência de previsão legal Precedentes do Superior Tribunal de Justiça e deste E. Tribunal de Justiça RECURSO PROVIDO NESSA PARTE (e-STJ fls. 757-758).
+Embargos de declaração: opostos pela recorrida, foram rejeitados.
+Recurso especial: com base em dissídio jurisprudencial, defendem ser cabível a condenação ao pagamento de verba sucumbencial na hipótese de improcedência do pedido de desconsideração da personalidade jurídica.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL.
+1. Incidente de desconsideração da personalidade jurídica em ação de execução de título executivo extrajudicial.
+2. O indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo.
+3. Recurso especial conhecido e provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+- Da condenação ao pagamento de honorários advocatícios na hipótese de indeferimento do pedido de desconsideração da personalidade jurídica
+O TJ/SP, ao decidir pela impossibilidade de arbitramento de honorários advocatícios em incidente de desconsideração de personalidade jurídica, dissentiu do entendimento do STJ quanto à matéria no sentido de que o indeferimento do pedido de desconsideração da personalidade jurídica, tendo como resultado a não inclusão do sócio (ou da empresa) no polo passivo da lide, dá ensejo à fixação de verba honorária em favor do advogado de quem foi indevidamente chamado a litigar em juízo. Nesse sentido: REsp 2.150.227/SP, Terceira Turma, DJe 23/12/2024; AgInt no REsp 2.000.839/RJ, Quarta Turma, DJe 23/12/2024; AgInt no AREsp 2.631.644/SP, Terceira Turma, DJe 16/10/2024; e REsp 1.925.959/SP, Terceira Turma, DJe 22/09/2023.
+O acórdão recorrido, portanto, merece reforma.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de restabelecer a decisão interlocutória de fls. 114-115 no que tange à fixação da verba honorária em favor do patrono dos recorrentes.
