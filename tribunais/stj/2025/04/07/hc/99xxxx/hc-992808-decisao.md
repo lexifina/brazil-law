@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de PEDRO HENRIQUE DE OLIVEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que denegou a ordem no Habeas Corpus n. 3003020-74.2025.8.26.0000 (fls. 10/13).
+Extrai-se dos autos que o paciente foi preso em flagrante, em 11/3/2025, convertida a prisão em preventiva, e denunciado pela suposta prática dos crimes de roubo majorado e corrupção de menor (Processo n. 1507020-89.2025.8.26.0228 da Vara de Plantão da comarca da Capital, atualmente em trâmite na 7ª Vara Criminal da comarca de Barra Fun da/SP).
+Neste writ, sustenta a defesa constrangimento ilegal pela falta de fundamentação concreta para o decreto de prisão preventiva, nos termos do art. 312 do CPP; ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares alternati vas.
+Requer, a ssim, liminarmente e no mérito, a revogação da medida constritiva.
+É o relatório.
+De acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Extrai-se do decreto prisional a seguinte fundamentação: No caso, a conduta revela acentuada periculosidade do autuado, que, visando vantagem meramente patrimonial, teria, em concurso de agentes, se utilizado de grave ameaça contra vítima mulher, empregando, inclusive, simulacro de arma de fogo, a evidenciar sua propensão à adoção de meios violentos como forma de execução e o risco que sua liberdade representa para a ordem pública (fl. 55 - grifo nosso).
+No julgamento do habeas corpus, a Corte estadual preservou a segregação cautelar, destacando o seguinte: A prisão está devidamente fundamentada a partir da gravidade concreta dos fatos, uma vez que, segundo consta, o paciente teria agido em concurso com outros dois indivíduos, dentre eles um adolescente, e empregou simulacro de arma de fogo para subjugar a ofendida e subtrair seu telefone celular além do cartão bancário (fl. 12 - grifo nosso).
+Dos excertos transcritos, observa-se que a decisão se encontra suficientemente fundamentada em elementos concretos que denotam a periculosidade do acusado, evidenciada pelo modus operandi dos crimes imputados - roubo, ao lado de um menor, mediante grave ameaça exercida com simulacro de arma de fogo, em que subtraiu celular e cartão bancário da vítima, que caminhava pela rua, o que justifica a medida excepcional para a garantia da ordem pública.
+Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada , não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+Sobre o tema, os seguintes precedentes: AgRg no HC n. 775.442/SP, Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, DJe de 20/4/2023; e AgRg no RHC n. 174.381/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/4/2023.
+Afora isso, é entendi mento desta Casa que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundame ntada, e que é inaplicável medida cautelar alternativa quando as circunstâncias evidencia m que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Ante o exposto, indefiro liminarmente o writ.
+Publiq ue-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. CORRUPÇÃO DE MENOR. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. CIRCUNSTÂNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Writ indeferido liminarmente.
