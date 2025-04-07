@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por D"PIL FRANCHISING LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CUMPRIMENTO DE PLANO DE RECUPERAÇÃO JUDICIAL - PENHORA SOBRE ROYALTIES DA FRANQUEADORA - INCONFORMISMO DESTA - NÃO ACOLHIMENTO - QUESTÃO QUE NÃO ESTÁ ENGLOBADA NO SOBRESTAMENTO DO TEMA 769 DO STJ - EXECUTADA QUE NÃO OBSTANTE ATIVA, NÃO EFETUOU NO PRAZO LEGAL O PAGAMENTO VOLUNTÁRIO, NÃO APRESENTOU SALDO EM SUAS CONTAS BANCÁRIAS E NÃO INDICOU BENS À PENHORA - ORDEM DE PREFERÊNCIA DO ART. 835 DO CÓDIGO DE PROCESSO CIVIL QUE NÃO É ABSOLUTA - CONSTRIÇÃO DISCUTIDA DE ACORDO COM O ESCOPO MAIOR DA EXECUÇÃO, QUE É A SATISFAÇÃO DO CREDOR - PRECEDENTES DAS CÂMARAS RESERVADAS ADMITINDO A CONSTRIÇÃO DOS ROYALTIES - REDUÇÃO, APENAS, DO PERCENTUAL IMPOSTO NA ORIGEM - DECISÃO EM PARTE REVISTA - RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa aos arts. 835, X e 866 do CPC, no que concerne ao não cabimento da penhora sobre os royalites da empresa, considerando que o recorrente possuía outros bens passíveis de serem penhorados, demonstrando assim que não foram esgotadas todas as medidas constritivas prévias à aludida penhora, e traz a seguinte argumentação:
+12.Demonstrou-se, também, que a penhora foi deferida sem a realização das medidas executivas de praxe. Trata-se, portanto, de medida prematura, uma vez que a Recorrente possui créditos a receber em diversos outros processos nas quais figura como autora.
+ ..
+16.Com efeito, foi demonstrado que a Recorrente possuía outros bens passíveis de penhora - os direitos creditórios buscados em diversas outras ações - assim como que os royalties são sua principal fonte de receitas, senão a única. Logo, se mostra evidente a infração aos critérios propostos nos dispositivos transcritos.
+17.Finalmente, a pretensão da agravante também encontra eco no rol do artigo 835 do CPC, que elege a penhora de faturamento somente em seu inciso X, reconhecendo a sua excepcionalidade. E como se viu, as demais medidas prescritas no tal rol ainda sequer foram postuladas.
+18.Portanto, diante da evidente infração aos art. 866 e 835, X, do CPC, de rigor a reforma do acórdão, para determinar o imediato cancelamento da penhora sobre os royalties, até que sejam esgotadas todas as medidas constritivas previstas antes do inciso X, do art. 835, do CPC (fls. 82-83).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Pois bem, pelo que se observa dos autos, a empresa executada, ora agravante, não têm contribuído para o deslinde da fase executiva, tendo deixado de indicar bens à penhora.
+Ainda que o art. 805 do Código de Processo Civil preveja que a execução deva ser realizada de forma menos prejudicial possível ao devedor, certo é que ela se faz em benefício do credor, respondendo o executado com todos os seus bens presentes e futuros para o cumprimento de suas obrigações (art. 789 do mesmo diploma legal).
+Ademais, a ordem prevista no art. 835 do diploma processual é preferencial e não absoluta, não podendo a agravante se eximir do pagamento e ainda requerer seja obedecida tal ordem.
+Por conseguinte, a penhora sobre o faturamento é medida de acordo com o escopo maior da execução, que é o de satisfação do credor. Correta, assim, a adoção de tal medida constritiva (fl. 64).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe 7.3.2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º.9.2020; AgInt no REsp n. 1.846.908/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31.8.2020; AgInt no AREsp n. 1.581.363/RN, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.8.2020; AgInt nos EDcl no REsp n. 1.848.786/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 3.8.2020; AgInt no AREsp n. 1.311.173/MS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 16.10.2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
