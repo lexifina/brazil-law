@@ -1,0 +1,100 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA PROFERIDA PELA RELATORIA. NÃO CONSTATAÇÃO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1.1 Trata-se de agravo regimental interposto contra decisão exarada por esta Relatoria que, em juízo de admissibilidade e delibação ad quem, conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+1.2 Em suas razões, a Defesa alega que a decisão recorrida carece de reforma, porquanto as frágeis e minguadas provas colhidas aos autos pela acusação não são hábeis a atestar a denunciada traficância de entorpecentes, mas a figura penal contida no art. 28 da Lei n. 11.343/2006.
+1.3 Nestes termos, requer a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma, a fim de que seja conhecido e pr ovido o recurso especial para se proceda a objetiva desclassificação delitiva, com a consectária absolvição do agravante.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de impugnação específica a "todos" os fundamentos da decisão agravada impede (ou não) o conhecimento do agravo regimental.
+III. Razões de decidir
+3. O princípio da dialeticidade recursal impõe que a parte recorrente impugne "todos" os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e pormenorizada (minudente), seu eventual desacerto.
+3.1 Consoante entendimento perfilhado por esta Corte, a ausência de dialético enfrentamento aos fundamentos assentados na decisão monocrática agravada - in casu, prolatada por esta Relatoria - impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c o art. 34, XVIII, "a", do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+3.2 As (lacunosas) razões apresentadas neste agravo regimental, ao não infirmarem a decisão agravada em sua "integralidade", atraem a incidência da Súmula n. 182/STJ.
+3.3 Na espécie, constata-se a Defesa - não obstante ter infirmado a Súmula n. 7/STJ e perquirido não ser viável a condenação baseada, apenas, em denúncias anônimas, sem outros elementos de prova que corroborem a tese de traficância - não infirmou (precisamente e de forma "correspondente" à fundamentação consignada) o primeiro e o segundo quadrantes recursais, hábeis a rechaçar a colimada desclassificação delitiva.
+3.4 Impugnação (desconexa, desidratada e inepta) que não atende, por certo, aos ditames normativos de regência da via recursal eleita e, por conseguinte, inviabiliza (à luz dos subjacentes princípios da "cooperação processual" e do "devido processo legal", em sua dupla acepção formal e material) o objetivado juízo de delibação do reclamo, consoante exegese do art. 6º do CPC c/c o art. 3º do CPP.
+IV. Dispositivo e tese
+4. Agravo regimental não conhecido.
+Tese de julgamento: "A ausência de impugnação específica a todos os fundamentos da decisão agravada - não constituída por capítulos autônomos - impede o conhecimento do agravo regimental, conforme inteligência da Súmula n. 182/STJ".
+Dispositivos relevantes citados: CPC/2015, art. 932, III; RISTJ, art. 34, XVIII, "a"; Súmula n. 182/STJ.
+Jurisprudência relevante citada: STJ, EAREsp 746.775/PR, Min. João Otávio de Noronha, Corte Especial, julgado em 19.09.2018; STJ, AgRg no AREsp n. 2.511.074/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21.05.2024, DJe de 27/5/2024; STJ, AgRg  no  AREsp  n.  2.091.694/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  7/6/2022,  DJe  de  13.06.2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LEONARDO DA SILVA CUNHA contra decisão exarada por esta Relatoria que, em juízo de admissibilidade e delibação ad quem, conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (e-STJ fls. 393-401).
+Em suas razões, a Defesa assevera que a decisão hostilizada carece de reforma, pois, conquanto a alvitrada desclassificação delitiva, não há que se falar em reexame do conjunto fático-probatório (e-STJ fl. 412) no caso vertente.
+Estratifica que,
+in casu, as provas colhidas, ao contrário do concluído na r. Decisão, em momento algum apontam para a traficância, mas, diversamente, são claros indícios da figura contida no art. 28 do Código Penal (e-STJ fl. 417).
+Sinaliza que,
+o único fator que minimamente indicaria a prática de tráfico de drogas pelo acusado seria a existência de denúncias anônimas, porém, é entendimento desta Corte Superior que não é viável a condenação baseada apenas em denúncias anônimas, sem outros elementos de prova que corroborem a tese de traficância (e-STJ fl. 417).
+Aduz, por fim, que a acusação não se desincumbiu
+do ônus acusatório de trazer outros elementos para demonstrar que a ínfima quantidade de entorpecentes apreendida era destinada para tráfico (e-STJ fl. 422).
+Nessa ambiência, após reiterar as razões (meritórias) já explicitadas e rechaçadas por esta Relatoria, requer (com arrimo no efeito iterativo) a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma, a fim de que seja conhecido e provido o recurso especial para que se proceda à desclassificação da conduta denunciada para o crime capitulado no art. 28, ambos da Lei 11.343/06, com a consequente absolvição do agravante (e-STJ fl. 424).
+O Ministério Publico Federal manifestou ciência do decisum agravado (e-STJ fl. 406).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA PROFERIDA PELA RELATORIA. NÃO CONSTATAÇÃO. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1.1 Trata-se de agravo regimental interposto contra decisão exarada por esta Relatoria que, em juízo de admissibilidade e delibação ad quem, conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+1.2 Em suas razões, a Defesa alega que a decisão recorrida carece de reforma, porquanto as frágeis e minguadas provas colhidas aos autos pela acusação não são hábeis a atestar a denunciada traficância de entorpecentes, mas a figura penal contida no art. 28 da Lei n. 11.343/2006.
+1.3 Nestes termos, requer a reconsideração da decisão agravada ou, subsidiariamente, remessa do feito para julgamento pela Sexta Turma, a fim de que seja conhecido e pr ovido o recurso especial para se proceda a objetiva desclassificação delitiva, com a consectária absolvição do agravante.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a ausência de impugnação específica a "todos" os fundamentos da decisão agravada impede (ou não) o conhecimento do agravo regimental.
+III. Razões de decidir
+3. O princípio da dialeticidade recursal impõe que a parte recorrente impugne "todos" os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e pormenorizada (minudente), seu eventual desacerto.
+3.1 Consoante entendimento perfilhado por esta Corte, a ausência de dialético enfrentamento aos fundamentos assentados na decisão monocrática agravada - in casu, prolatada por esta Relatoria - impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c o art. 34, XVIII, "a", do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+3.2 As (lacunosas) razões apresentadas neste agravo regimental, ao não infirmarem a decisão agravada em sua "integralidade", atraem a incidência da Súmula n. 182/STJ.
+3.3 Na espécie, constata-se a Defesa - não obstante ter infirmado a Súmula n. 7/STJ e perquirido não ser viável a condenação baseada, apenas, em denúncias anônimas, sem outros elementos de prova que corroborem a tese de traficância - não infirmou (precisamente e de forma "correspondente" à fundamentação consignada) o primeiro e o segundo quadrantes recursais, hábeis a rechaçar a colimada desclassificação delitiva.
+3.4 Impugnação (desconexa, desidratada e inepta) que não atende, por certo, aos ditames normativos de regência da via recursal eleita e, por conseguinte, inviabiliza (à luz dos subjacentes princípios da "cooperação processual" e do "devido processo legal", em sua dupla acepção formal e material) o objetivado juízo de delibação do reclamo, consoante exegese do art. 6º do CPC c/c o art. 3º do CPP.
+IV. Dispositivo e tese
+4. Agravo regimental não conhecido.
+Tese de julgamento: "A ausência de impugnação específica a todos os fundamentos da decisão agravada - não constituída por capítulos autônomos - impede o conhecimento do agravo regimental, conforme inteligência da Súmula n. 182/STJ".
+Dispositivos relevantes citados: CPC/2015, art. 932, III; RISTJ, art. 34, XVIII, "a"; Súmula n. 182/STJ.
+Jurisprudência relevante citada: STJ, EAREsp 746.775/PR, Min. João Otávio de Noronha, Corte Especial, julgado em 19.09.2018; STJ, AgRg no AREsp n. 2.511.074/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21.05.2024, DJe de 27/5/2024; STJ, AgRg  no  AREsp  n.  2.091.694/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  7/6/2022,  DJe  de  13.06.2022.
+VOTO
+Atendido o pressuposto recursal extrínseco da tempestividade, o agravo regimental, todavia, não logra conhecimento, em que se a combativa postulação defensiva.
+Com efeito, o princípio da dialeticidade recursal impõe que a parte recorrente impugne "todos" os fundamentos da decisão recorrida e demonstre, de forma oportuna, congruente, concreta e pormenorizada (minudente), seu (eventual) desacerto.
+Em introito, impende sublinhar que a Corte Especial, deste Tribunal Superior, firmou (estanque) entendimento no sentido de que:
+ o  provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único, de modo que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018, grifamos).
+Em juízo de sustentação, a decisão singular ora agravada, proferida por esta Relatoria, está assim fundamentada (e-STJ fls. 397-399, grifamos):
+Dos excertos transcritos, deflui-se que o acórdão hostilizado converge (sob dois quadrantes) ao remansoso entendimento trilhado por esta Corte Superior, pelo que vale conferir. Sobre o testemunho policial, como standard probatório, ex vi dos arts. 155, caput, e 202, ambos do CPP, não se olvida esta Relatoria que, conforme pacificamente sufragado pela Suprema Corte,
+não há irregularidade no fato de os policiais que participaram das diligências ou da prisão em flagrante serem ouvidos como testemunha (STF, 1ª Turma, RHC 108586/DF, ReI. Min. Ricardo Lewandowski, DJe. 08/09/2011).
+Todavia, é cediço que o testemunho policial se afigura despido de qualquer hierarquia (legal) na topografia normativa adjacente ou distinção epistemológica, como ordinário meio probatório susceptível (notadamente) ao fenômeno das "falsas memórias".
+No ponto, entendem ambas Cortes de Superposição que as palavras dos agentes policiais - conquanto gozem, pelo prisma "administrativo", de presunção de veracidade (legitimidade), de imperatividade e autoexecutoriedade -, para fins de validade e eficácia probatória no bojo na persecução criminal, devem ser cotejadas e corroboradas pelo Estado-juiz (sob a égide do sistema do livre convencimento motivado) com outros elementos de convicção (em juízo) para fins de regular condenação.
+ ..
+Delineamento processual que, pelo acima exposto, coaduna-se ao caso vertente, pois, além do coeso, estratificado e harmônico depoimento prestado em juízo pelos três policiais responsáveis pela investigação e pelo cumprimento do mandado de prisão do acusado, envolvido com o tráfico de drogas (e-STJ fl. 268) na localidade e fruto de denúncias anônimas "especificadas" (qualificadas) (e-STJ fl. 271), houve a juntada de mídia carreada nos autos e neste
+vídeo aparece o denunciado e diversos integrantes do grupo - Bonde dos Ranca Rabo - fazendo gestos utilizados por criminosos e fotos com desenhos de armas de fogo (e-STJ fl. 268, grifamos).
+Noutro giro,
+ n os termos do art. 28, §2º, da Lei 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022, grifamos).
+Desse modo, é sabido que o fato da parte recorrente ser:
+ e ventual usuária de entorpecentes não tem o condão de afastar, por si só, a responsabilidade penal pela prática do delito de tráfico de drogas (AgRg no AREsp n. 2.565.912/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024, grifamos).
+Assim, em relação à correta dicção do art. 33, caput, da Lei n. 11.343/2006, ressalve-se, crime (misto alternativo) de ação múltipla ou de conteúdo variado:
+não se desconhece a firme orientação desta Corte Superior no sentido de que a subsunção típica prescinde da efetiva prática de atos de mercancia da droga, pois o crime de tráfico de entorpecentes é de ação múltipla ou de conteúdo variado, de forma que se consuma com a prática de qualquer um dos verbos descritos no tipo penal (AgRg no REsp n. 2.062.259/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023, grifamos).
+De mais a mais, infere-se incidir o óbice da Súmula n. 7/STJ quanto à aspiração defensiva alhures - destinada à desclassificação da conduta do increpado para a forma capitulada no art. 28 da Lei n. 11.343/2006 -, sob a (descortinada) alegação de que este, à época dos fatos, portava pequena quantidade de drogas para (exclusivo) uso pessoal (e-STJ fl. 318), despida de qualquer destinação à mercancia (animus negociandi).
+Tal assertiva deve-se à máxima de que, a revisão das premissas assentadas perante o Tribunal a quo, acerca da (inequívoca e elucidada) autoria e materialidade do crime capitulado no art. 33, caput, da Lei de Drogas, por ter em depósito, ilegalmente, substâncias entorpecentes (e-STJ fl. 280), demandaria inexorável reexame do acervo fático-probatório carreado aos autos, mister incabível na via eleita.
+Tal contexto se afigura apto a denotar, ex vi do § 2º do art. 28 da Lei n. 11.343/06, c/c o art. 156 do CPP, a prática do constatado crime de tráfico de drogas, crime (misto alternativo) de ação múltipla ou de conteúdo variado, consoante se extrai da dicção do supradito preceito, litteris:
+Art. 28 - Omissis:
+ ..
+§ 2º Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente (grifamos).
+Neste agravo regimental, contudo, constata-se a aguerrida Defesa -não obstante ter infirmado a inteligência da Súmula n. 7/STJ e perquirido não ser viável a condenação baseada, apenas, em denúncias anônimas, sem outros elementos de prova que corroborem a tese de traficância (e-STJ fl. 417) - não infirmou (precisamente e de forma correspondente à fundamentação consignada) o primeiro e o segundo quadrantes recursais alhures, tangenciados pelas máximas de que:
+a) além do coeso, estratificado e harmônico depoimento prestado em juízo pelos três policiais responsáveis pela investigação e pelo cumprimento do mandado de prisão do acusado, envolvido com o tráfico de drogas (e-STJ fl. 268) na localidade e fruto de denúncias anônimas "especificadas" (qualificadas) (e-STJ fl. 271), houve a juntada de mídia carreada nos autos e neste
+vídeo aparece o denunciado e diversos integrantes do grupo - Bonde dos Ranca Rabo - fazendo gestos utilizados por criminosos e fotos com desenhos de armas de fogo (e-STJ fl. 268, grifamos) (e-STJ fl. 398, grifamos).
+b)  n os termos do art. 28, §2º, da Lei 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação (AgRg no HC n. 762.132/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022, grifamos).
+ ..
+Assim, em relação à correta dicção do art. 33, caput, da Lei n. 11.343/2006, ressalve-se, crime (misto alternativo) de ação múltipla ou de conteúdo variado (e-STJ fl. 399, grifamos).
+Impugnação (desconexa, desidratada e inepta) que não atende, por certo, aos ditames normativos de regência da via recursal eleita.
+Desta feita, a ausência de dialético enfrentamento (oportuno, congruente, concreto e específico) a "todos" os fundamentos assentados na decisão monocrática agravada - prolatada por esta Relatoria - impede o conhecimento do agravo regimental, consoante inteligência sistemática do art. 932, III, CPC/2015, c/c o art. 34, XVIII, "a", do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+Nesse  sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. A ausência de impugnação específica aos fundamentos da decisão recorrida, ônus da parte agravante, atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula n. 182 desta Corte.
+2. "As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois não é admitida a impugnação tardia, com o objetivo de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa." (AgRg no AREsp n. 2.474.637/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/3/2024, DJe de 21/3/2024.)
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 2.511.074/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 21/5/2024, DJe de 27/5/2024, grifamos).
+PROCESSUAL  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  AOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  INOBSERVÂNCIA  DO  ART.  1.021,  §  1º,  DO  CPC/15.  INCIDÊNCIA  DA  SÚMULA  Nº  182  DO  STJ.  AGRAVO  REGIMENTAL  NÃO  CONHECIDO.
+1.  A  falta  de  impugnação  específica  dos  fundamentos  da  decisão  agravada  enseja  o  não  conhecimento  do  agravo  regimental,  nos  termos  do  art.  1.021,  §  1º,  do  CPC/15  e  do  óbice  contido  na  Súmula  182/STJ,  aplicável  por  analogia.
+2.  Não  são  suficientes  meras  alegações  genéricas  sobre  as  razões  que  levaram  à  inadmissão  do  agravo,  tampouco  o  ataque  tardio  ao  seu  conteúdo,  ou  a  insistência  no  mérito  da  controvérsia.  Precedentes  do  STJ.
+ ..
+  (AgRg  no  AREsp  n.  2.091.694/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  julgado  em  7/6/2022,  DJe  de  13/6/2022, grifamos).
+Delineamento processual que inviabiliza (à luz dos subjacentes princípios da "cooperação processual" e do "devido processo legal", em sua dupla acepção formal e material), o objetivado juízo de delibação do reclamo, consoante exegese do art. 6º do CPC c/c o art. 3º do CPP.
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
