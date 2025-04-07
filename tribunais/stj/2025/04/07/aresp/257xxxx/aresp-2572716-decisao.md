@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ISABELA LIMA DA SILVA, para impugnar a decisão proferida pelo Vice-Presidente do Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial.
+Consta dos autos que a recorrente foi condenada à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, no regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, no mínimo legal, ambos por incursos no artigo 33, "caput", c/c artigo 40, inciso V, ambos da Lei nº 11.343/06.
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, "a", da Constituição Federal, por alegada violação ao art. 42 da Lei 11.343/06.
+Não admitido o recurso especial, a defesa interpôs o presente agravo em recurso especial.
+O Ministério Público Federal opinou pelo não conhecimento do agravo ou, caso conhecido, pelo não provimento.
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+Considerando que a tese defensiva foi apreciada por este Ministro no bojo do HC 23693/SP, utilizo as mesmas razões de decidir quanto ao recurso especial interposto pelo recorrente (fls. 97/100):
+"No caso, registro que a minorante prevista no art. 33, § 4.º, da Lei n.11.343/2006 foi afastada com a justificativa de que a paciente se dedicava a atividades criminosas não somente pela quantidade e natureza da droga apreendida - 266 tijolos de maconha com aproximadamente 167Kg - mas também em razão das circunstâncias da prática delitiva (a réu transportava o entorpecente entre Estados da Federação), o que denota a sua dedicação à atividade criminosa. Por oportuno, saliento que: " a  elevada quantidade de drogas apreendidas, aliada às circunstâncias fáticas do delito,  ..  permite aferir o grau de envolvimento do Réu com a criminalidade organizada e/ou a sua dedicação às atividades delituosas e, por consequência, obstar o reconhecimento do tráfico privilegiado" (AgRg no HC 661.017/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/05/2021, DJe 14/05/2021, grifei)."
+De todo modo, na espécie, o acolhimento da pretensão defensiva depende da incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024.; AgRg no AREsp n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+Desse modo, "a pretensão de reexame de provas para modificar as conclusões das instâncias ordinárias encontra óbice na Súmula n. 7 do STJ, que impede o recurso especial para simples reavaliação do conjunto fático-probatório" (AgRg no AREsp 2780228 / MS, QUINTA TURMA, de minha relatoria, DJEN 11/02/2025).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
