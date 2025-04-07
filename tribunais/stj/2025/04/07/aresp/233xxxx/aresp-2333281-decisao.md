@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAURÍCIO SILVA DE CASTRO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, que inadmitiu o recurso especial ante a incidência da Súmula n. 282 do STF (e-STJ fls. 1143-1145).
+A parte agravante alega, em síntese, não ser o caso de incidência da Súmula 282/STF, pois as matérias apontadas teriam sido efetivamente prequestionadas afirmando, nesse sentido, que "ao julgar os embargos, o Tribunal paranaense os rejeitou sem se manifestar quanto a detração e adequação de regime, declarando, ao final, "prequestionada a matéria discutida para evitar novos embargos declaratórios". Constata-se, então, que a parte agravante provocou o tribunal de origem a apreciar a matéria relativa a detração e adequação de regime, e, não obstante a 1ª Câmara Criminal do TJ/PR tenha rejeitado os embargos, tal situação que dá ensejo à superação da Súmula 282/STF. " (e-STJ fls. 1156).
+Requer que seja conhecido o referido agravo para conhecer do recurso especial e, no mérito, provê-lo.
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (e-STJ fl. 1218-1221).
+É o relatório.
+Decido.
+De pronto, verifico a existência de requisitos extrínsecos de admissibilidade, relativos à regularidade formal do agravo interposto e à tempestividade.
+Todavia, no que se refere à matéria referente à detração, observa-se que, de fato, a matéria não foi tratada no bojo do acórdão impugnado, e, embora a Defesa tenha oposto embargos de declaração, estes não foram acolhidos, vez que a matéria não foi suscitada perante o Juízo de 1º grau, sob pena de supressão de instância. Incidente, portanto, e por analogia, a Súmula n. 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.").
+No mesmo sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. NULIDADE. RECONHECIMENTO PESSOAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. ILEGALIDADE FLAGRANTE. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE.
+1. Não tendo o acórdão recorrido analisado a questão suscitada no recurso especial, fica obstado o julgamento do recurso por ausência de prequestionamento, nos termos da Súmula n. 211 do STJ. Precedente.
+2. Cumpre destacar que "é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto (EDcl no AgRg nos EREsp 1488618/RS, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 27/10/2015)" (AgRg nos EAREsp n. 739.725/MG, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 8/11/2017, DJe de 14/11/2017).
+3. De qualquer forma, esta Corte firmou o entendimento segundo o qual " ..  o reconhecimento de pessoal, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa (HC n. 598.886/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020)" (AgRg no HC n. 734.611/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 21/6/2022, DJe de 27/6/2022). É o caso dos autos, haja vista que os réus foram presos na tentativa de fuga do veículo subtraído.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.251.073/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/3/2023, DJe de 27/3/2023.)
+Ademais, nos termos do art. 932, III, do referido CPC, combinado com o art. 253, I, do Regimento Interno desta Corte, incumbe ao Relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Com efeito, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, na esteira do entendimento jurisprudencial consagrado na Súmula n. 182/STJ, o inciso III do art. 932 do mencionado estatuto processual, prevê expressamente o não conhecimento do agravo que não tenh a atacado especificamente os fundamentos da decisão que inadmitiu, na origem, o recurso especial.
+No presente caso, o Recurso Especial não foi admitido sob o fundamento de incidência da Súmula n. 282 do STF.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
