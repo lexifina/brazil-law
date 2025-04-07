@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDER FRANCISCO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Na peça, a defesa informa que o paciente teve reconhecida a remição de 69 dias de pena pelo Juízo da execução penal, com base no art. 126 da LEP, devido ao trabalho realizado e ao curso de qualificação profissional concluído.
+O Ministério Público do Estado de Santa Catarina interpôs recurso de agravo em execução, que foi provido pela Corte local, indeferindo o pedido de remição referente ao curso à distância realizado pelo paciente, alegando inexistência de dados quanto à frequência escolar e em relação à carga diária de estudos.
+Sustenta o impetrante que a instituição de ensino está devidamente credenciada no MEC e celebrou convênio com a Secretaria de Administração Prisional do Estado de Santa Catarina.
+Alega que a decisão afronta a Lei de Execução Penal e o princípio da individualização da pena, previsto no art. 5º, XLVI, da Constituição Federal.
+Requer, liminarmente e no mérito, a concessão da ordem para manter a remição pela realização do curso profissionalizante em favor do paciente.
+O pedido de liminar foi indeferido às fls. 98-99.
+O Ministério Público Federal, às fls. 104-106, manifestou-se pelo não conhecimento da ordem.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, não se pode conhecer da impetração.
+Por outro lado, observada a possibilidade de concessão da ordem de ofício, prevista no art. 647-A do Código de Processo Penal.
+No caso, o Juízo da execução penal declarou remidos 15 dias de pena do paciente pela conclusão de curso profissionalizante à distância.
+A decisão foi assim fundamentada (fl. 27):
+O art. 126 da Lei n.º 7.210/84 dispõe que o condenado que cumpre pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena, à razão de 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar e 1 (um) dia de pena a cada 3 ( três) dias de trabalho.
+No caso dos autos, o relatório de Sequência 148.1 atesta que o reeducando trabalhou 162 (cento e sessenta e dois) dias entre 05/04/2024 e 10/10/2024, circunstância que autoriza a . homologação de 54 (cinquenta e quatro) dias.
+Somado a isto, o certificado de Sequência 148.2 comprova que o apenado concluiu 01 (um) curso de qualificação profissional por meio da Escola CENED, qual seja: "Almoxarife ou Estoquista (15/05/2024 a 05/08/2024)"; com duração de 180 (cento e oitenta) horas. Logo, reeducando faz . jus a 15 (quinze) dias remidos.
+E a respeito do pedido formulado pelo pretendendo que se aguarde a Parquet informação acerca dos cursos da Escola Cened cadastrados junto ao SISTEC, considerando que no bojo da própria notícia de fato instaurada pelo órgão ministerial já consta a informação de que a instituição de ensino está devidamente credenciada junto ao MEC/SISTEC e inclusive celebrou termo de convênio coma Secretaria de Administração Prisional do Estado de Santa Catarina, não há espaço para acolhimento do pedido ministerial, razão pela qual a homologação dos dias remidos é medida que se impõe.
+A Corte estadual cassou a decisão que deferiu o benefício ao paciente nos seguintes termos (fls. 19-23):
+No mérito, adianta-se, comporta provimento, senão vejamos.
+A legislação possibilita a concessão da benesse da remição de 1 (um) dia de pena a cada 12 (doze) horas ao apenado que comprovar frequência escolar ou horas de estudos através do órgão competente do sistema de educação, nos termos do art. 126 da Lei n. 7.210/1984, in verbis (grifei):
+ ..
+Ainda, a Resolução n. 391/2021 do Conselho Nacional de Justiça, que revogou a Recomendação n. 44/2013, prevê o seguinte (grifei):
+ ..
+In casu, o certificado da seq. 148.2 dos autos do SEEU comprova a conclusão, pelo apenado, do curso de "Almoxarife ou Estoquista", na instituição de ensino Centro de Educação Profissional - CENED, com carga horária de 180 (cento e oitenta) horas.
+Outrossim, consta na mesma sequência certidão firmada pelo Diretor do estabelecimento prisional, atestando o período estudado, nos seguintes termos (autos do SEEU, seq. 148.2, fl. 4):
+ ..
+No entanto, os aludidos documentos, por si sós, não se revelam aptos ao deferimento da remição por estudo.
+Isso porque, ainda que concluído o curso à distância, conforme jurisprudência da Corte da Cidadania, "a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais (AgRg no HC n. 478.271/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., D Je 30/8/2019)" (STJ, AgRg no HC n. 692.463/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 21/9/2021, D Je de 29/9 /2021).
+Na presente hipótese, porém, não se verifica o cumprimento de tal condição, pois constam nos documentos apenas a carga horária total e o período em que foi realizado o curso.
+Como bem destacou o agravante "o interno realiza o curso em sua própria cela, sem qualquer tipo de fiscalização ou mediação da unidade " (doc. 2, fl. 5).
+Ou seja, não há, de fato, uma supervisão de quantas horas o reeducando se dedicou efetivamente ao curso, sendo sua participação nas aulas presumida apenas pelo desempenho na prova final, o que não é apto a lastrear a remição.
+ ..
+Assim, na situação em tela, a falta de fiscalização e especificações sobre os cursos, sem sombra de dúvidas, impede de qualquer forma a concessão da remição, porquanto inexistem documentos comprobatórios acerca da frequência escolar, dos métodos de avaliação e da carga diária de estudos.
+A ausência de tais circunstâncias, portanto, impossibilita a verificação dos parâmetros relacionados à conclusão do ensino, em atenção às disposições legais sobre a matéria.
+ ..
+Diante desse cenário, embora notável e recomendável a busca do reeducando em ampliar seus conhecimentos, notadamente para efetivar os objetivos da execução da pena, o deve ser reformado.
+Ante o exposto, voto no sentido de conhecer do recurso e dar-lhe provimento para cassar parcialmente a decisão da seq. 162.1 dos autos do SEEU, afastando a remição de 15 (quinze) dias da pena do reeducando referente às horas relativas ao curso da Escola CENED, realizado na modalidade à distância.
+No caso concreto, constata-se que o entendimento do Tribunal de origem divergiu da jurisprudência desta Corte Superior segundo a qual o reconhecimento da remição de pena pelo estudo somente é possível quando devidamente "acompanhados de dados a respeito de carga diária de estudos, frequência escolar e métodos de avaliação empregados, além de haver habilitação da instituição para ministrar os cursos, nos termos do art. 126, §§ 1.º e 2.º, da Lei de Execução Penal - LEP" (AgRg no HC n. 887.730/SC, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024).
+Ademais, a literalidade do art. 126, § 2º, da Lei de Execução Penal, é no sentido de permitir que as atividades de estudo sejam desenvolvidas presencialmente ou a distância, desde que certificadas pelas autoridades educacionais competentes.
+Nesse contexto, verifica-se a comprovação dos requisitos legais da realização da atividade ressocializadora, o que autoriza a remição de pena.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO. ESTUDO À DISTÂNCIA. PROVA SUFICIENTE DE REALIZAÇÃO E APROVEITAMENTO DOS CURSOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme orientação jurisprudencial desta Corte, a remição de pena pelo estudo à distância somente é possível quando existir certificação do ensino e prova da carga diária de aprendizado, frequência escolar, métodos de avaliação empregados e habilitação da instituição para ministrar os cursos frequentados.
+2. O apenado realizou estudos a distância, por meio de parceria entre a unidade prisional e a instituição de ensino. O aprendizado foi certificado pela escola, devidamente credenciada pelo MEC.
+Embora o documento não especifique a frequência e o método avaliativo, esses aspectos foram atestados pela autoridade prisional, e o sentenciado participou de provas presenciais, supervisionadas por policial penal, para comprovar a assimilação do conteúdo programático. Não há dúvidas quanto à atividade ressocializadora nem justificativa para o indeferimento da remição.
+3. Agravo regimental não provido.
+(AgRg no HC n. 924.445/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025.)
+AGRAVO REGIMENTAL EM AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REMIÇÃO DE PENA POR ESTUDO. REALIZAÇÃO DE CURSO À DISTÂNCIA. ENTIDADE EDUCACIONAL CREDENCIADA PERANTE O MEC E PERANTE O DISTRITO FEDERAL, LOCAL DE SUA SEDE. EXISTÊNCIA DE CONVÊNIO COM A UNIDADE PRISIONAL. FISCALIZAÇÃO DE HORAS ESTUDADAS DEMONSTRADA. OBSERVÂNCIA DO LIMITE DIÁRIO DE HORAS DE ESTUDO PREVISTO NO ART. 126, § 1º, I, DA LEP. PREENCHIMENTO REQUISITOS DA RESOLUÇÃO 391/2021 DO CNJ E DO ART. 126 DA LEP. DIREITO À REMIÇÃO DE PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. (AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+2. Nos termos do art. 126, § 2º, da Lei de Execução Penal e da Resolução n. 391, de 10/05/2021, do Conselho Nacional de Justiça (publicada no DJe/CNJ n. 120/2021, de 11/05/2021), a remição de pena em virtude de estudo realizado pelo apenado na modalidade capacitação profissional à distância deve atender os requisitos previstos nos arts. 2º e 4º da mencionada resolução, dentre os quais (1) demonstração de que a instituição de ensino que ministra o curso à distância é autorizada ou conveniada com o poder público para esse fim; (2) demonstração da integração do curso à distância realizado ao projeto político-pedagógico (PPP) da unidade ou do sistema prisional; (3) indicação da carga horária a ser ministrada e do conteúdo programático; (4) registro de participação da pessoa privada de liberdade nas atividades realizadas.
+3. Nessa linha, a jurisprudência desta Corte vinha entendendo que, "ainda que concluído o curso na modalidade à distância - in casu - a remição em decorrência do estudo exige, para cada dia de pena remido, a comprovação de horas de estudo, que, dada a sistemática da lei de execução penal, encontrando-se o apenado sob a custódia do Estado, deve preceder de fiscalização e autenticidade do cumprimento dos requisitos legais" (AgRg no HC n. 478.271/SP, relator Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/8/2019).
+4. Entretanto, recentemente, a 1ª Turma do Supremo Tribunal Federal (RHC 203546, Relator(a): CÁRMEN LÚCIA, Primeira Turma, julgado em 28/06/2022, PROCESSO ELETRÔNICO DJe-127 DIVULG 29-06-2022 PUBLIC 30-06-2022), examinando a necessidade de fiscalização dos cursos à distância realizados por pessoas inseridas no sistema prisional, afirmou que "a inércia do Estado em acompanhar e fiscalizar o estudo a distância não deve ser imputada ao paciente, não podendo ser prejudicado pelo descumprimento de obrigação que não é dele".
+5. In casu, a par de a entidade educacional que ministrou os cursos profissionalizantes realizados pelo executado - a Escola CENED - possuir credenciamento na Secretaria de Educação do Distrito Federal, local de sua sede, e no Sistema MEC/SISTEC, a defesa demonstrou que a entidade educacional celebrou superveniente convênio com a Secretaria de Estado da Justiça - SEJUS de Rondônia para oferta de cursos de capacitação nos estabelecimentos penais do Estado de Rondônia, o que atribui presunção de legitimidade à instituição de ensino, apta a gerar confiança no apenado de que os cursos ministrados pela referida instituição seriam todos válidos e hábeis a permitir a remição de pena por estudo.
+Ademais, foi juntada aos autos certidão da unidade prisional na qual se certifica tanto o período estudado pelo interno, quanto a realização de prova escrita na unidade prisional, especificamente em relação aos cursos profissionalizantes em questão, ofertados pela Escola CENED, o que afasta qualquer tipo de dúvida sobre a efetiva realização dos citados cursos pelo executado, sob a devida fiscalização da administração penitenciária.
+Foi observado, ainda, o limite diário de 4 (quatro) horas de estudo, previsto no art. 126, § 1º, I, da LEP.
+6. Atendidos os requisitos necessários para a concessão de remição de pena ao executado unicamente em relação aos cursos "Atendimento ao Público" e "Saúde Bucal", ambos ministrados pela Escola CENED, com a duração respectiva de 180 (cento e oitenta) horas e de 100 (cem) horas, o paciente faz jus à concessão de remição de 23 (vinte e três) dias de pena.
+7. Agravo regimental do Ministério Público estadual desprovido.
+(AgRg no AgRg no HC n. 822.492/RO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus, contudo, concedo a orde m de ofício para restabelecer a decisão do Juízo da execução penal.
+Comunique-se. Publique-se. Intimem-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. PRISÃO _______.
