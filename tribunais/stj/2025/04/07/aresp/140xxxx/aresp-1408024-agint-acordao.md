@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 01/04/2025 a 07/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. Alegação de violação Do art. 1.022 do CPC. Decisão mantida. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por Banco do Nordeste do Brasil S.A. contra decisão que negou provimento ao agravo em recurso especial, alegando violação do art. 1.022 do CPC de 2015.
+2. Fato relevante: o Tribunal de Justiça do Estado do Piauí concluiu que a transação entre o BNB e a Frutan foi autorizada e ratificada pela diretoria geral do banco, conforme previsto no estatuto social, sem má-fé, fraude ou dolo na celebração do negócio jurídico.
+3. Decisões anteriores: a Justiça Federal declarou a ilegitimidade da União para atuar na demanda, decisão confirmada pelo TRF1, STJ e STF, não havendo fundamento para a formação de litisconsórcio ativo com a União.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve violação do art. 1.022 do CPC de 2015, considerando a alegação de erro de fato na formalização da transação entre BNB e Frutan e a omissão do acórdão recorrido em abordar adequadamente as questões levantadas na petição inicial da ação anulatória.
+III. Razões de decidir
+5. A Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+6. A vedação de comportamento contraditório (non venire contra factum proprium) foi observada, pois o BNB aceitou e executou o acordo por um período significativo, criando uma expectativa de manutenção da conduta na parte contrária.
+7. Revisar as conclusões do Tribunal de origem encontra óbice nas Súmulas n. 5 e 7 do STJ, que impedem a reanálise de matéria fática e probatória.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A Corte de origem não cometeu violação ao art. 1.022 do CPC de 2015, pois examinou e decidiu as questões de forma clara e fundamentada. 2. A vedação de comportamento contraditório impede a anulação do negócio jurídico quando a parte se beneficiou da transação e posteriormente tentou alterá-la. 3. Tendo o Tribunal de Justiça do Estado do Piauí concluído que a transação entre realizada entre as partes foi autorizada e ratificada pela diretoria geral do banco, conforme previsto no estatuto social, sem má-fé, fraude ou dolo na celebração do negócio jurídico, revisar tais conclusões encontra óbice nas Súmulas n. 5 e 7 do STJ, que impedem a reanálise de cláusulas contratuais e da matéria fática e probatória".
+Dispositivos relevantes citados: CPC/2015, art. 1.022; Súmulas n. 5 e 7 do STJ.
+Jurisprudência relevante citada: STJ, REsp n. 2.134.332/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5.11.2024; STJ, AgInt nos EDcl no AREsp n. 2.511.380/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 7.10.2024.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO DO NORDESTE DO BRASIL S.A. contra a decisão de fls. 21.684-21.692, que negou provimento ao agravo em recurso especial.
+Nas razões do presente agravo, a parte agravante sustenta violação do art. 1.022 do CPC, pois o acórdão recorrido cometeu erro de fato ao considerar que a transação entre BNB e FRUTAN foi formalizada por sujeito legítimo e autorizada pela diretoria do banco, quando, na verdade, houve irregularidades e falta de autorização adequada (fls. 21.698-21.699).
+Afirma que o acórdão embargado não reconheceu a nulidade das decisões colegiadas tomadas na 3.172ª e na 3.232ª reuniões de diretoria do banco, visto que essas premissas são contrárias às provas constantes dos autos, que indicam a existência de irregularidades na celebração do negócio jurídico (fls. 21.698-21.699).
+Alega que o acórdão recorrido foi omisso ao não abordar adequadamente as questões levantadas na petição inicial da ação anulatória, que apontavam para a nulidade da renegociação devido à ilicitude do objeto (fls. 21.698-21.699).
+Requer provimento do agravo interno apresentado, consequentemente provendo-se o recurso especial manejado por esta instituição financeira.
+Nas contrarrazões, a parte agravada aduz que o presente agravo interno não merece ser conhecido, por manifesta ausência do requisito formal previsto no art. 1.021, § 1º, do CPC/2015, pois o agravante não impugnou especificamente os fundamentos da decisão agravada (fls. 21.715-21. 723). Subsidiariamente, requer seu desprovimento, mantendo-se integralmente a r. decisão agravada.
+É o relatório.
+EMENTA
+Direito processual civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. Alegação de violação Do art. 1.022 do CPC. Decisão mantida. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto por Banco do Nordeste do Brasil S.A. contra decisão que negou provimento ao agravo em recurso especial, alegando violação do art. 1.022 do CPC de 2015.
+2. Fato relevante: o Tribunal de Justiça do Estado do Piauí concluiu que a transação entre o BNB e a Frutan foi autorizada e ratificada pela diretoria geral do banco, conforme previsto no estatuto social, sem má-fé, fraude ou dolo na celebração do negócio jurídico.
+3. Decisões anteriores: a Justiça Federal declarou a ilegitimidade da União para atuar na demanda, decisão confirmada pelo TRF1, STJ e STF, não havendo fundamento para a formação de litisconsórcio ativo com a União.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se houve violação do art. 1.022 do CPC de 2015, considerando a alegação de erro de fato na formalização da transação entre BNB e Frutan e a omissão do acórdão recorrido em abordar adequadamente as questões levantadas na petição inicial da ação anulatória.
+III. Razões de decidir
+5. A Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+6. A vedação de comportamento contraditório (non venire contra factum proprium) foi observada, pois o BNB aceitou e executou o acordo por um período significativo, criando uma expectativa de manutenção da conduta na parte contrária.
+7. Revisar as conclusões do Tribunal de origem encontra óbice nas Súmulas n. 5 e 7 do STJ, que impedem a reanálise de matéria fática e probatória.
+IV. Dispositivo e tese
+8. Agravo interno desprovido.
+Tese de julgamento: "1. A Corte de origem não cometeu violação ao art. 1.022 do CPC de 2015, pois examinou e decidiu as questões de forma clara e fundamentada. 2. A vedação de comportamento contraditório impede a anulação do negócio jurídico quando a parte se beneficiou da transação e posteriormente tentou alterá-la. 3. Tendo o Tribunal de Justiça do Estado do Piauí concluído que a transação entre realizada entre as partes foi autorizada e ratificada pela diretoria geral do banco, conforme previsto no estatuto social, sem má-fé, fraude ou dolo na celebração do negócio jurídico, revisar tais conclusões encontra óbice nas Súmulas n. 5 e 7 do STJ, que impedem a reanálise de cláusulas contratuais e da matéria fática e probatória".
+Dispositivos relevantes citados: CPC/2015, art. 1.022; Súmulas n. 5 e 7 do STJ.
+Jurisprudência relevante citada: STJ, REsp n. 2.134.332/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5.11.2024; STJ, AgInt nos EDcl no AREsp n. 2.511.380/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 7.10.2024.
+VOTO
+O recurso não deve prosperar.
+Após a realização de nova análise dos autos, mantenho o afastamento da alegada violação do art. 1.022 do CPC de 2015, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No caso, o Tribunal de Justiça do Estado do Piauí concluiu que a transação entre o BNB e a Frutan foi autorizada e ratificada pela diretoria geral do banco, conforme previsto no estatuto social.
+Segundo consta do acórdão recorrido, não houve má-fé, fraude ou dolo na celebração do negócio jurídico, e a má-fé não pode ser presumida, exigindo prova inequívoca, a qual não foi apresentada pelo BNB.
+Além disso, o decisório abordou a questão da intervenção da União no processo e concluiu que a Justiça Federal já havia declarado a ilegitimidade da União para atuar na demanda, bem como que a decisão foi confirmada pelo TRF1, STJ e STF e que, portanto, não havia fundamento para a formação de litisconsórcio ativo com a União.
+Outro ponto relevante decidido pela Corte de origem é em relação à vedação de comportamento contraditório (non venire contra factum proprium). A decisão ressaltou que o BNB aceitou e executou o acordo por um período significativo, criando uma expectativa de manutenção da conduta na parte contrária. Assim, decidiu que, mesmo que fosse o caso de anular o negócio jurídico da transação, isso implicaria desobediência a essa vedação, uma vez que o banco se beneficiou da transação e posteriormente tentou alterá-la.
+Nesse contexto, revisar as conclusões do Tribunal de origem encontra óbice nas Súmulas n. 5 e 7 do STJ, que impedem a reanálise de matéria fática e probatória.
+Mantenho, portanto, as conclusões adotadas na decisão monocrática recorrida, ante a ausência de prova inequívoca de má-fé, pela ratificação da transação pela diretoria do banco, pela ilegitimidade da União para atuar na demanda e pela vedação de comportamento contraditório.
+Nesse contexto, a decisão agravada deve ser mantida por seus próprios fundamentos, a saber (fls. 21.688-21.692):
+Quanto à alegada violação do art. 1.022 do CPC, o BNB argumenta que o acórdão recorrido cometeu erro de fato ao considerar que a transação entre BNB e FRUTAN foi formalizada por sujeito legítimo e autorizada pela diretoria do Banco, quando, na verdade, houve irregularidades e falta de autorização adequada. Sustenta que o acórdão embargado não reconheceu a nulidade das decisões colegiadas tomadas na 3172ª e na 3232ª reuniões de diretoria do banco.
+Defende que essas premissas são contrárias às provas constantes dos autos, que indicam a existência de irregularidades na celebração do negócio jurídico.
+Ressalta que o acórdão recorrido foi omisso ao não abordar adequadamente as questões levantadas na petição inicial da ação anulatória, que apontavam para a nulidade da renegociação devido à ilicitude do objeto. Nesse contexto, destaca que o acórdão embargado não se manifestou sobre a alegação de nulidade das decisões colegiadas da diretoria do banco.
+Aduz que o acórdão recorrido desconsiderou as alegações de má-fé e fraude na celebração do negócio jurídico, afirmando que essas questões não foram discutidas ou provadas ao longo do processo, bem como que o acórdão embargado não reconheceu a existência de indícios de má-fé e fraude, que foram apontados na ação anulatória.
+Salienta que o acórdão recorrido foi omisso ao não considerar a intervenção anódina da União no processo.
+Todavia, verifica-se que, a título de omissão, contradição e erro material, a parte recorrente busca tão somente a reanálise dos fundamentos utilizados pelo Tribunal de origem para a manutenção de improcedência da ação anulatória.
+No caso, o acórdão do Tribunal de Justiça do Estado do Piauí refere-se aos Embargos de Declaração nos Embargos de Declaração nos Embargos Infringentes n. 2016.0001.013562-4, opostos pelo Banco do Nordeste do Brasil.
+Na ocasião, o BNB alegou omissões e erros de fato no acórdão anterior, que havia dado provimento aos embargos de declaração da FRUTAN, mantendo a sentença de improcedência da ação anulatória.
+Infere-se do acórdão recorrido que o Tribunal a quo concluiu que a transação entre o BNB e a FRUTAN foi autorizada e ratificada pela diretoria geral do banco, conforme previsto no estatuto social, e que não houve má-fé, fraude ou dolo na celebração do negócio jurídico. Também reconheceu que a má-fé não poderia ser presumida, pois exigia prova inequívoca, a qual não foi apresentada pelo BNB.
+Além disso, destacou que a pretensão de anular o negócio jurídico da transação implicaria desobediência à vedação de comportamento contraditório (non venire contra factum proprium), uma vez que o BNB aceitou e executou o acordo por um período significativo, criando uma expectativa de manutenção da conduta na parte contrária.
+A Corte estadual também abordou a questão da intervenção da União no processo, afirmando que a Justiça Federal já havia declarado a ilegitimidade da União para atuar na demanda, decisão confirmada pelo TRF1, STJ e STF, de modo que não havia fundamento para a formação de litisconsórcio ativo com a União.
+A propósito, confiram-se trechos do acórdão dos embargos opostos pela parte ora agravada (fls. 20.944-20.962, destaquei):
+De pronto, nota-se que o acórdão embargado fundou-se em premissa fática equivocada, relativamente à existência de um contrato sob condição resolutiva já anulado administrativamente, restando concluir que a avença em debate não se refere ao aludido contrato, mas à transação judicial, devidamente homologada pelo Juiz de 1º grau e, agora, discutida nesta esfera recursal.
+ ..
+Na oportunidade, cumpre informar que, de início, dada a extensividade do processo sob julgamento, que se perfaz em 37 (trinta e sete) volumes, não vislumbrei nos autos documentos que pudessem ilidir as razões referentes à tomada de decisão, de maneira isolada, pelo então Diretor VICTOR SAMUEL DE CAVALCANTE DA PONTE.
+Contudo, a posteriori, detectei que, de forma efetiva, houve a confirmação da proposta de renegociação da FRUTAN, como também dos termos da transação judicial celebrada entre as partes.
+ ..
+É que não se pode invocar as restrições de um contrato social ou estatuto, quando as garantias prestadas pelo Diretor, malgrado a exorbitância dos limites de gestão, retornam, direta ou indiretamente, em proveito para a pessoa jurídica, ainda mais ao se considerar que houve a efetiva ratificação do ato pelo órgão deliberativo, como alhures aduzido, sob pena de absoluta afronta à boa-fé daquele com que se celebrou a transação.
+ ..
+Ademais, o caso em tela encontra respaldo na teoria do venire contra factum propirum, que inadmite que uma das partes que negocie altere sua postura no decorrer de um negócio jurídico celebrado, após se portar de um mesmo modo por determinado período, criando uma expectativa de manutenção da conduta na parte contrária.
+Veja-se também trecho do acórdão dos embargos opostos pelo ora agravante (fl. 21.068):
+Mesmo que assim não fosse, é inequívoco a ausência de quaisquer interesses da União no feito até porque tal temática já foi objeto de decisão nos autos da ação anulatória, proposta pela União e o BNB na Justiça Federal, processo n. 2008 40.00.007594-4. 2ª Vara Federal/PI. Tal decisão de primeira instância, objeto de recursos, foi confirmada pelo TRF1, STJ e STF, em acórdãos com trânsito em julgado (preclusão consumativa) sem olvidar também, no caso concreto, da existência de preclusão lógica pois a própria União requereu sua "exclusão da lide" em petição protocolada no processo n. 0003274-89.2005.8.18.0140 - ação de execução do BNB contra a Frutan que tramita na 1ª Vara Cível de Teresina -, que consta do rol das ações de execução que compõem o objeto da ação anulatória.
+Afasto, pois, a alegada violação do art. 1.022 do CPC de 2015, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se ainda que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ademais, o Tribunal de origem concluiu, mediante a análise do contrato e do acervo fático-probatório dos autos a) pela existência e validade da transação judicial; b) pela ratificação da transação; c) pelo não cabimento da mudança da postura da empresa após ter-se beneficiado da transação; d) pela ausência de interesse da União, que pediu inclusive sua exclusão da lide; e e) pela consideração, no acórdão anterior, de presunções fáticas não comprovadas e pela violação do princípio dispositivo. Assim, revisar tais conclusões encontra óbice nas Súmulas n. 5 e 7 do STJ.
+A propósito: REsp n. 2.134.332/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/11/2024, DJe de 7/11/2024; e AgInt nos EDcl no AREsp n. 2.511.380/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/10/2024, DJe de 22/10/2024.
+Ante o exposto, nego provimento ao agravo.
+Dessa forma, a parte ora recorrente não apresentou argumentos suficientes para a modificação da decisão ora agr avada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
