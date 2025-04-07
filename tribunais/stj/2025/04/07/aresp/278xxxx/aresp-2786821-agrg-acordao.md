@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (CONCUSSÃO). "MÁFIA DOS FISCAIS". ABSOLVIÇÃO. INSUFICIÊNCIA DA PROVA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias antecedentes, em especial a sentença condenatória, destacaram que "o conjunto probatório coligido aos autos, em harmonia aos elementos de convicção amealhados em fase policial, não permitem concluir pela insuficiência de provas para motivar a condenação dos acusados, Eduardo, Ronilson, Carlos Eduardo e Luís Alexandre" (fl. 1.126).
+2. A modificação dessas premissas implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme o entendimento da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+RELATÓRIO
+RONILSON BEZERRA RODRIGUES agrava de decisão de minha relatoria em que conheci do seu agravo para não conhecer do recurso especial e, dessa forma, mantive integralmente a sua condenação pelo crime previsto no art. 3º, II, da Lei n. 8.137/1990.
+A defesa aduz que a análise de sua pretensão não enseja reexame de fatos e provas, pois "Tanto na r. sentença, quanto no v. Acórdão recorrido, a condenação do Agravante foi fundamentada unicamente na declaração dos corréus colaboradores e no cargo superior hierárquico que ocupava na época dos fatos" (fl. 1.689).
+Pleiteia a reconsideração da decisão agravada ou o julgamento do agravo regimental pelo órgão colegiado.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (CONCUSSÃO). "MÁFIA DOS FISCAIS". ABSOLVIÇÃO. INSUFICIÊNCIA DA PROVA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. As instâncias antecedentes, em especial a sentença condenatória, destacaram que "o conjunto probatório coligido aos autos, em harmonia aos elementos de convicção amealhados em fase policial, não permitem concluir pela insuficiência de provas para motivar a condenação dos acusados, Eduardo, Ronilson, Carlos Eduardo e Luís Alexandre" (fl. 1.126).
+2. A modificação dessas premissas implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme o entendimento da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para modificar a decisão agravada, cuja conclusão mantenho.
+A decisão apresentou os fundamentos a seguir (fls. 1.642-1.644):
+ ..
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou sobre a autoria e a materialidade delitiva da conduta atribuída ao ora agravante (fls. 1.430-1.433):
+ ..
+No que remanesce, não merecem acolhida os argumentos expendidos pelas Doutas Defesas, senão vejamos.
+Robustas as provas da materialidade e da autoria delitiva, calcadas no boletim de ocorrência e na farta documentação juntada, com realce ao demonstrativo de quitação do ISS referente à obra delimitada na denúncia (fls. 203/205), ao Auto de Infração nº 66.857.473 (fls. 206/207), à planilha de fls. 25/27 e aos acordos de colaboração premiada firmados pelos acusados Eduardo Horle e Carlos Augusto, bem como na prova oral coligida.
+Em sua oitiva, Antonia reportou-se ao fato de que à época do ocorrido contratara indivíduo, prenome Felipe, para regularizar construção a que dava ensejo. Pagou valores solicitados e certo tempo depois teve de voltar a pagar o ISS. Não manteve contato com fiscal da prefeitura.
+Manuel Aguiar declarou haver apresentado Felipe a Antonia a fim de que fosse regularizada a construção dela. Ela afirmou haver pagado o que foi necessário, vindo, depois, a ser autuada, oportunidade em que pagou novamente o imposto.
+Alexandre Barbosa, auditor fiscal tributário municipal, asseverou não haver trabalhado diretamente com Luís Alexandre. Nem no setor de ISS, assegurou.
+Felipe Abdo confirmou haver prestado serviço para Antonia Neglia, dirigindo-se à Prefeitura e lá vindo a conversar com Luís Alexandre. Fez o recolhimento do ISS, entregando o dinheiro do pagamento do ISS diretamente a Luís, sendo 50% do ISS devido à época. A documentação também foi entregue a ele. Foi concedido o "Habite-se" à obra, duas outras negociações dessa natureza sendo entabuladas com Luís Alexandre.
+André Luís mencionou haver atuado como diretor em uma divisão com quatro subdivisões de tributos; houve uma alteração da norma sobre o que poderia ser deduzido da base do cálculo do ISS "habite-se"; antes dessa normativa de 2013 havia divergência quanto ao que poderia ser deduzido; o atendimento ao contribuinte era Manual e não eletrônico antes de 2012, quando foi criado um sistema eletrônico; dessa forma, antes da IN 03 era possível haver divergência entre fiscais quanto à apuração do tributo; foi feito um grupo de trabalho para revisão dos lançamentos quando o caso veio à tona, e essa revisão foi feita de acordo com a IN 03 - sublinhou.
+Aparecido, testemunha de defesa de Ronilson, não foi além de discorrer sobre melhorias que ele teria implementado por meio de projetos na área de desenvolvimento de sistemas da Prefeitura de São Paulo.
+Os depoimentos dos acusados e colaboradores Eduardo e Carlos foram registrados na r. sentença recorrida com riqueza de detalhes e fidedignidade, de modo que apropriado ora sejam transcritos:
+"(..) O acusado e colaborador Eduardo Horle Barcellos, interrogado em Juízo em 24 de agosto de 2021, disse que o esquema era muito antigo e que os quatro réus cobravam 50% do imposto devido e em seguida recolhiam 20% para a Prefeitura e 30% era dividido entre os quatro réus, e não era costume fazer com contribuintes pessoas físicas, mas apenas construtoras.
+Via de regra, ele e o acusado Ronilson não participavam diretamente das negociações espúrias, apenas recebendo sua parte das vantagens indevidas.
+Disse que trabalha atualmente como advogado. Disse que as construtoras desinteressadas em tal prática não eram coibidas ao pagamento de propina, sendo as práticas realizadas em comum acordo. Relatou que dentro da dinâmica corruptiva, Luís avisava Carlos para redistribuição e início das tratativas junto às empresas construtoras. Explicou que era dado um desconto de 50% (cinquenta por cento) para a empresa sobre o eventual saldo a pagar de imposto, através da manipulação do valor efetivamente devido. Relatou que o valor era pago diretamente em dinheiro, sendo que Luís Alexandre recebia essas quantias.
+Disse que não havia um controle de quem estava pagando propina naquele momento, recebia envelopes uma ou duas vezes por semana. Disse que todo o esquema corruptivo foi descrito junto ao Ministério Público. Carlos era quem trazia os envelopes. Expôs que os valores eram colocados em envelopes fechados. Disse que não sofreu nenhuma ameaça para celebrar o acordo de colaboração premiada. Detalhou o esquema perante o Ministério Público. Os auditores que participavam do esquema tinham patrimônio incompatível com seus salários. Durante o tempo que trabalhou na prefeitura nunca teve contato com uma planilha de controle de propina. Nunca foi processado isoladamente sozinho.
+A maior parte dos pagadores de propina eram ligados ao Sindicato de Construção Civil.
+Por sua vez, o acusado e colaborador Carlos Augusto Di Lallo Leite do Amaral, em Juízo em 24 de agosto de 2021, disse que trabalhava na DICE-4, para emissão do "habite-se", relatou que as práticas eram realizadas entre os cinco membros, havendo o pagamento de 50% do tributo.
+Luis era responsável por contatar construtoras e despachantes, elaborava os cálculos e recebia a propina, a qual era repartida entre os quatro acima nomeados. Disse que por meio de acordo realizado junto ao Ministério Público relatou diversas práticas do esquema corruptivo, a partir de 2015. Em relação a recuperação do montante, não sabia informar os valores dos mesmos, apenas que os valores recuperados foram significativos. Sobre a planilha encontrada junto a Luis Alexandre, disse que, na verdade, este último realizava as tratativas com as empresas e contribuintes, não havendo um controle pelos outros membros. Não era comum cobrar propina de pessoa física. Ia cerca de duas vezes por semana para o prédio Matarazzo para entregar os envelopes de dinheiro para Eduardo e Ronilson. Não sofreu nenhuma coação para assinar o termo de colaboração premiada. Ronilson instalou o sistema do ISS via eletrônica, mas ele demorou muito, ele protelou isso enquanto pode para que o esquema não acabasse. A instalação foi uma determinação do secretário. Disse que normalmente só recebia propina de pagamentos de construtoras. Relatou que não teve acesso direto a planilha "Controle de Traumas", apenas estando em contato com ela após elaboração de colaboração com o Ministério Público".
+Interrogado, o corréu Luís Alexandre afirmou que chegou a celebrar acordo de colaboração premiada com o Ministério Público, mais tarde rompido. Negou as práticas delitivas.
+O acusado Ronilson, ao ensejo de seu interrogatório, negou envolvimento nos ilícitos.
+Consistente, pois, o quadro probatório, sendo de rigor a condenação.
+A sentença de primeiro grau asseverou que "não se trata de responsabilidade penal objetiva que, exclusivamente, atribuiria culpa ao acusado Ronilson em razão do cargo e nem mesmo decreto condenatório prolatado somente pautado nas delações dos acusados colaboradores" (fl. 1.125).
+Com efeito, desconstituir a premissa firmada pelas instâncias antecedentes pela suficiência da prova da condenação demandaria reexame de fatos e provas, não permitido em recurso especial, segundo disposto na Súmula n. 7 do STJ.
+Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Cumpre reiterar a inadmissibilidade do recurso especial.
+As instâncias antecedentes, em especial a sentença condenatória, destacaram que "o conjunto probatório coligido aos autos, em harmonia aos elementos de convicção amealhados em fase policial, não permitem concluir pela insuficiência de provas para motivar a condenação dos acusados, Eduardo, Ronilson, Carlos Eduardo e Luís Alexandre" (fl. 1.126).
+A modificação dessas premissas implicaria necessário reexame de fatos e provas, não permitido em recurso especial, conforme o entendimento da Súmula n. 7 do STJ.
+À vis t a do exposto, nego provimento ao agravo regimental.
