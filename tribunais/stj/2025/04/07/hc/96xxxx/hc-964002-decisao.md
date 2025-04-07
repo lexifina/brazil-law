@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de ELOIZIO DE OLIVEIRA RABELO - condenado como incurso no crime de tráfico de drogas -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação Criminal n. 0800423-86.2023.8.19.0010), não comporta acolhimento.
+Com efeito, busca a impetração a anulação da condenação imposta ao paciente pelo Juízo de Direito da 2ª Vara da comarca de Bom Jesus de Itabapoana/RJ, ao argumento de nulidade das provas obtidas mediante violação do domicílio. Subsidiariamente, pede a absolvição do delito por insuficiência probatória, ou a desclassificação para o delito de uso para consumo próprio, ou, ainda, a revisão da dosimetria.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, do atento exame dos autos, observa-se que a busca pessoal que culminou com a deflagração da ação penal contra o paciente se encontra consubstanciada em prévia denúncia que logrou pormenorizar as características do acusado, consistente em informações prévias sobre a prática de tráfico de drogas no local, com indicações do local (referência à casa azul) e a características do denunciado - magrinho e moreninho (fl. 81).
+Assim, inexiste o alegado constrangimento, pois este Superior Tribunal admite como fundada suspeita a existência de denúncia que individualiza as características de suposto autor do crime, a justificar a busca pessoal sem mandado (AgRg no HC n. 904.734/SP, da minha lavra, Sexta Turma, DJe 6/9/2024).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA PESSOAL. ALEGAÇÃO DA AUSÊNCIA DE FUNDADA SUSPEITA. EXISTÊNCIA DE DENÚNCIA ESPECÍFICA A RESPEITO DAS CARACTERÍSTICAS DO INDIVÍDUO TIDO COMO AUTOR DA CONDUTA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Ordem denegada.
