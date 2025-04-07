@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDIR ANTÔNIO DA SILVA, contra decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina, que não admitiu o recurso especial.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 171, "caput", do Código Penal, à pena de 1 (um) ano, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial semiaberto, e 14 (quatorze) dias-multa.
+O Tribunal de origem, em decisão unânime, deu parcial provimento ao apelo defensivo, apenas para fixar honorários advocatícios e conceder a justiça gratuita.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, o insurgente alega violação ao art. 171, § 5º, do Código Penal, aduzindo que a vítima deve ser intimada para que se manifeste sobre seu interesse no prosseguimento da ação penal. Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência das Súmulas 211/STJ e 282/STF.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e Ministério Público Federal apresentou parecer pelo desprovimento do agravo para não admitir o recurso especial.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A presente controvérsia cinge-se à necessidade de representação formal da vítima do delito de estelionato.
+Nesse sentido, colho do que foi decidido pela Corte Estadual:
+ ..  De outro lado, por amor ao debate, frente às novas disposições da Lei n. 13.964/2019, com vistas a preservar a segurança jurídica e o princípio da colegialidade, ressalta-se que acompanho a maioria dos membros desta Câmara, que entende pela dispensa da representação formalmente expressa da ofendida, bastando a existência nos autos de elementos de convicção suficientes de que ele exerceu seu direito, ainda que informalmente, embora entenda de forma diferente.
+ ..
+Sob esta ótica, in casu, o ofendido Avelino Scarmin prestou declarações tanto na fase policial quanto em juízo, demonstrando, ainda que informalmente, seu desejo em ver o acusado sendo processado pelo ocorrido.
+É o que basta, segundo o entendimento firmado pela maioria, conforme visto.
+ ..
+Contudo, ressalvado o meu posicionamento, em homenagem à segurança jurídica e à colegialidade, acompanho o entendimento majoritário desta Câmara, assim como desta Corte, acerca da dispensa de ato formal de representação, bastando que reste inequívoco nos autos o interesse da vítima na persecução penal, como ocorrido na hipótese presente.
+Sendo assim, não há falar em retorno dos autos em diligência para colheita da representação da vítima, como sustenta o embargante.
+Como se vê, o acórdão recorrido alinha-se à jurisprudência contemporânea do Superior Tribunal de Justiça, no sentido de que a representação da vítima prescinde de ato formal, bastando que o seu interesse na persecução penal do agente seja inequívoco:
+DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL . ESTELIONATO. RETROATIVIDADE DE NORMA PENAL. DEMONSTRAÇÃO INEQUÍVOCA DO INTERESSE DA VÍTIMA NA PERSECUÇÃO PENAL. AUMENTO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a condenação dos agravantes por estelionato em continuidade delitiva, com pena de 2 anos e 8 meses de reclusão e 26 dias-multa, inicialmente em regime fechado, posteriormente alterado para regime aberto com substituição por penas restritivas de direitos.
+2. A defesa alegou violação dos arts. 59 e 171, § 5º, do Código Penal, argumentando a necessidade de representação criminal para o delito de estelionato e a desproporcionalidade na fixação da pena-base.
+II. Questão em discussão3. A questão em discussão consiste em saber se a norma do art. 171, § 5º, do Código Penal, que exige representação da vítima para o crime de estelionato, deve retroagir para beneficiar os réus, e se a majoração da pena-base foi devidamente fundamentada.
+III. Razões de decidir4. O Supremo Tribunal Federal pacificou a divergência e proclamou a retroatividade da lei nova, mesmo após o recebimento da denúncia anterior à Lei n. 13.964/2019. Entretanto, assentou-se que a retroatividade da lei deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal. Ainda assim, assinalou-se que, se inexistentes elementos indicativos da vontade da vítima na persecução penal, deve o magistrado proceder à intimação dos ofendidos para que apresentem eventual representação.
+5. O Tribunal de origem considerou que as vítimas manifestaram inequivocamente o desejo de ver os réus responsabilizados, suprindo a necessidade de representação formal, conforme entendimento consolidado pelo STF.
+6. A majoração da pena-base foi fundamentada na organização dos réus para a prática criminosa, o que justifica a elevação da pena acima do mínimo legal, não havendo critério matemático rígido para tal fixação.
+7. A revisão dos fundamentos adotados para a fixação da pena-base demandaria reexame de provas, o que é vedado pela Súmula n. 7 do STJ.
+IV. Dispositivo e tese8. Agravo regimental desprovido.
+Tese de julgamento: "1. A manifestação inequívoca da vítima em ver os réus responsabilizados supre a necessidade de representação formal nos crimes de estelionato. 2. A majoração da pena-base pode ser fundamentada em circunstâncias concretas do crime, sem critério matemático rígido, desde que devidamente motivada."
+Dispositivos relevantes citados: Código Penal, arts. 59 e 171, § 5º.Jurisprudência relevante citada: STF, HC 208.817 AgRg, Rel. Min. Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023;
+STJ, AgRg no REsp 1.912.568/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, julgado em 20/4/2021, DJe 30/4/2021.
+(AgRg no AREsp n. 2.458.610/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/2/2025, DJEN de 25/2/2025.)
+A jurisprudência do Superior Tribunal de Justiça entende pela prescindibilidade de formalidade na representação da vítima para a persecução penal de ações penais públicas condicionadas à representação. Assim, o fato de a vítima ter levado o conhecimento do fato à autoridade policial é suficiente para a persecução penal.
+(AgRg no HC n. 860.589/GO, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRETENDIDA APLICAÇÃO RETROATIVA DO ART. 171, §5º, DO CÓDIGO PENAL, INCLUÍDO PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). ENTENDIMENTO DO STF PELA RETROATIVIDADE DA LEI NOVA. NECESSIDADE DE NÃO ESTAR DEMONSTRADO O INTERESSE DA VÍTIMA NA PERSECUÇÃO PENAL. CASO CONCRETO EM QUE AS VÍTIMAS MANIFESTARAM EXPRESSAMENTE O DESEJO DE VER OS ACUSADOS PROCESSADOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção deste STJ, no julgamento do HC 610.201/SP, em 24/3/2021, superando divergência entre as Turmas, pacificou a controvérsia e decidiu pela irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia.
+2. O Supremo Tribunal Federal pacificou a divergência até então existente entre suas Turmas e, por maioria, proclamou a retroatividade da lei nova, mesmo após o recebimento da denúncia anterior à Lei n. 13.964/2019. Precedente: HC 208.817 AgRg, Relatora Ministra Cármen Lúcia, Tribunal Pleno, julgado em 13/4/2023, DJe 2/5/2023. Neste precedente restou assentado que a retroatividade da lei deve ser aplicada apenas àqueles casos em que não haja demonstração inequívoca do interesse da vítima na persecução penal.
+Ainda assim, se inexistentes elementos indicativos da vontade da vítima na persecução penal, deve o magistrado proceder à respectiva intimação dos ofendidos para que apresentem eventual representação.
+3. No caso em exame, as vítimas (Banco Banrisul e Banco Santander), através de seus representantes, manifestaram expressamente o interesse na apuração criminal dos fatos (habilitação como assistente de acusação, registro de ocorrência e protesto das duplicatas), estando suprida a necessidade de representação, pois comprovado o efetivo propósito para a investigação do delito de estelionato, razão pela qual não há falar em flagrante ilegalidade, independentemente da aplicação ou não da lei nova.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 846.046/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+Nesse sentido, tendo a Corte de origem firmado ser inequívoco o interesse da vítima na persecução penal, o acórdão recorrido não comporta reparo, porquanto adotou compreensão da controvérsia que se encontra em total compasso com a jurisprudência atual desta Corte Superior.
+Portanto, a pretensão defensiva esbarra no óbice da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, com fundamento no art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do STJ.
+Publique-se. Intimem-se.
+EMENTA
