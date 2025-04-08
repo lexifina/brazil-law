@@ -1,0 +1,37 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FRANKLIN STUTZ LACERDA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/09/2024.
+Concluso ao gabinete em: 29/01/2025.
+Ação: de inventário.
+Decisão interlocutória: "indeferiu o pleito de Gratuidade de Justiça formulado pelo inventariante, ao fundamento de reiterados descumprimentos em relação à apresentação integral de documentos que comprovem sua situação de hipossuficiência econômica" (e-STJ fl. 40).
+Acórdão: deu provimento ao agravo de instrumento interposto pelo ora agravante, "para deferir o recolhimento das custas processuais até a sentença, consoante Enunciado Administrativo nº 27 do FETJ" (e-STJ fl. 44), nos termos da seguinte ementa (e-STJ fl. 39):
+"AGRAVO DE INSTRUMENTO. INVENTÁRIO. INDEFERIMENTO DO PEDIDO DE CONCESSÃO DE GRATUIDADE DE JUSTIÇA. DESPESAS DO INVENTÁRIO QUE DEVEM SER SUPORTADAS PELO ESPÓLIO E NÃO PELO INVENTARIANTE OU PELOS HERDEIROS. PROCESSO DE INVENTÁRIO EM ANDAMENTO CONSTITUÍDO POR TRÊS IMÓVEIS. PATRIMÔNIO DO ESPÓLIO INCOMPATÍVEL COM A GRATUIDADE DE JUSTIÇA PRETENDIDA, TODAVIA SEM LIQUIDEZ IMEDIATA QUE POSSIBILITE, POR ORA, O LEVANTAMENTO DE VALORES PARA CUSTEIO DAS DESPESAS DA PRESENTE DEMANDA. PRESENÇA DE ELEMENTOS QUE JUSTIFICAM A POSTERGAÇÃO DO PAGAMENTO DAS CUSTAS ATÉ A PROLAÇÃO DA SENTENÇA. ENUNCIADO ADMINISTRATIVO Nº 27 DO FETJ. PRECEDENTES JURIDPRUDENCIAIS. PROVIMENTO DO RECURSO."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, 98 e 99, §§ 2º e 3º, do CPC; e 5º, XXXV, da Constituição Federal, sustentando, em síntese, que: (i) seria errôneo o entendimento da Corte de origem no sentido de que "o patrimônio a ser observado para o exame da gratuidade de justiça é o do espólio e não do inventariante ou dos herdeiros" (e-STJ fl. 84); (ii) "o espólio é composto por dois lotes de terreno, estando ambos ocupados pelos herdeiros (petição de index 24) , fato esse que impossibilita a sua venda" (e-STJ fl. 85); (iii) "o acervo capaz de ser efetivamente vendido não possui valor expressivo" (e-STJ fl. 85); (iv) "o valor total dos bens que compõem o espólio (R$ 195.000,00) não pode ser entendido como expressivo, impedindo, assim, a concessão da gratuidade de justiça" (e-STJ fl. 86); (v) "Além disso, antes de indeferir o pedido de gratuidade, o magistrado deve - imposição legal - permitir que a parte comprove o preenchimento dos pressupostos, em observância ao princípio da vedação à decisão surpresa (art. 99, §2º c/c art. 10, ambos do CPC). Contudo, tal oportunidade não foi conferida ao recorrente" (e-STJ fl. 90).
+Parecer do MPF: da lavra do I. Subprocurador-Geral Sady d"Assumpção Torres Filho, opina pelo desprovimento do agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+A jurisprudência do STJ se posiciona no sentido de que, apenas se o espólio provar que não tem condições de arcar com as despesas do processo, pode obter o benefício da justiça gratuita, estando esta condicionada à comprovação da insuficiência de recursos (AgInt nos EDcl no REsp 1.800.699/MG, Terceira Turma, DJe de 18/09/2019). Ainda sobre o tema: AgInt no AREsp 2.289.328/SC, Quarta Turma, DJe de 31/08/2023.
+O TJ/RJ ao analisar o recurso interposto pelo agravante, concluiu o seguinte (e-STJ fls. 41/44):
+"É cediço que as despesas processuais na ação de inventário devem ser suportadas pelo monte que compõe o espólio, e não pela capacidade econômico financeira do inventariante ou dos herdeiros.
+No caso dos autos, verifica-se que o monte do espólio é composto por duas casas no Município de Nova Friburgo, no valor total de R$ 195.000,00, e um terreno localizado em Rio das Ostras, no valor de R$ 25.000,00 (índex 24/30).
+Os imóveis acima referenciados denotam a capacidade financeira do espólio em arcar com as custas da demanda originária. Há que se considerar, todavia, que tais bens não possuem liquidez imediata, tendo em vista processo de inventário em andamento. Além disso, considerando a morosidade e os custos despendidos para o andamento das ações de inventário, deve-se reconhecer a dificuldade transitória para o levantamento do valor necessário ao custeio das despesas deste processo.
+Assim, diante da impossibilidade de liquidação imediata do acervo hereditário, o que impossibilita, por conseguinte, o pagamento das custas processuais neste momento, entendo, em consonância com o princípio constitucional do acesso à justiça, que deve ser concedido o pagamento das custas processuais ao final, desde que o faça antes da sentença, conforme Enunciado n. 27 do Fundo Especial deste Tribunal de Justiça, a seguir transcrito in verbis:
+(..)
+Pelos fundamentos expostos, voto no sentido de DAR PROVIMENTO AO RECURSO, para deferir o recolhimento das custas processuais até a sentença, consoante Enunciado Administrativo nº 27 do FETJ." (grifou-se)
+Ademais, quando do julgamento dos embargos de declaração opostos, complementou que, "ao contrário do alegado, foi oportunizada nesta seara recursal ao recorrente a apresentação de documentos para a análise da gratuidade de justiça (índex 13), cumprido em índex 24/30" (e-STJ fl. 67).
+Da leitura dos trechos acima, verifica-se a decisão proferida pelo Tribunal local está em consonância com a jurisprudência do STJ, não merecendo reparo - incidência da Súmula 568/STJ.
+Ademais, alterar o decidido no acórdão impugnado, quanto à possibilidade do espólio arcar com as custas processuais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INVENTÁRIO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de inventário.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A jurisprudência do STJ se posiciona no sentido de que, apenas se o espólio provar que não tem condições de arcar com as despesas do processo, pode obter o benefício da justiça gratuita, estando esta condicionada à comprovação da insuficiência de recursos (AgInt nos EDcl no REsp 1.800.699/MG, Terceira Turma, DJe de 18/09/2019).
+4. Alterar o decidido no acórdão impugnado, quanto à possibilidade do espólio arcar com as custas processuais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo conhecido. Recurso especial não conhecido.
