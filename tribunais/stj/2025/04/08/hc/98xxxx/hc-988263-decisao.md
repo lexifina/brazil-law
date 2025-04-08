@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de FELIX LUISAGA HEREDI em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 5 anos e 10 meses de reclusão em regime inicial fechado e de 583 dias-multa, como incurso nas sanções do art. 33, caput, c/c art. 40, V, ambos da Lei n. 11.343/2006.
+O impetrante sustenta que a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 foi afastada com base em argumentos genéricos.
+Aduz que a quantidade e natureza da droga, embora relevantes na modulação da pena, não são suficientes para demonstrar dedicação à atividade criminosa, devendo haver outros elementos concretos para tal afirmação.
+Afirma que o entendimento do Superior Tribunal de Justiça é de que a quantidade de droga e o transporte interestadual de entorpecente não são fundamentos idôneos para afastar a causa de diminuição de pena prevista na legislação.
+Entende que o paciente, atuando como "mula" do tráfico, não faz parte de organização criminosa, sendo merecedor da aplicação da redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Assevera, ainda, que o recrudescimento do modo carcerário careceria de fundamentação idônea.
+Requer a concessão da ordem para que seja reconhecido e aplicado o redutor previsto no § 4º do art. 33 da Lei 11.343/06 e estabelecido o regime semiaberto para o início do cumprimento da pena imposta ao paciente.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, caso dele se conheça , pela denegação da ordem.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, da impetração não se pode conhecer.
+Por outro lado, observada a possibilidade de concessão da ordem de ofício, prevista no art. 647-A do Código de Processo Penal, anoto que a controvérsia refere-se à incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Quanto à suposta ilegalidade, para melhor elucidação da questão, colhe-se do acórdão impugnado a seguinte fundamentação (fls. 21-24):
+Descabe a causa de diminuição de pena do artigo 33, § 4º, da Lei nº. 11.343/06, porquanto, num primeiro enfoque, os denunciados não demonstraram exercer função lícita de forma satisfatória, detalhe a indicar ser a mercancia espúria a "profissão" ou meio de vida deles, daí a dedicação a atividade criminosa incondizente com a minorante, lembrando que a posse e transporte de tamanho volume de tóxico exigem logística bem engendrada condizente com organização criminosa, algo ínsito à perene traficância
+ ..
+Sob outro ângulo, consoante realçou o Superior Tribunal de Justiça em várias oportunidades, a quantidade e a nocividade das drogas apreendidas, bem como as circunstâncias da abordagem do agente, por si sós, indicam a maior periculosidade social da ação, outro obstáculo à incidência da causa de redução de pena (STJ, HC 182.359/RJ).
+ ..
+Nem mesmo se pode cogitar de violação ao princípio do ne bis in idem, porquanto não se sopesou tal quadro negativo quando do cálculo das basilares.
+Especialmente diante da hipótese dos autos, já se pontuou que o transporte de enorme quantidade de cocaína entre Estados da Federação também desvenda logística própria de organização proscrita (ainda mais pela considerável distância que seria percorrida pelos apelantes no transporte do tóxico), algo do mesmo modo colidente com a minorante em pauta (STJ, HC 453773/SP, Relator Ministro REYNALDO SOARES DA FONSECA, julgado 04-9-2018).
+Outros arestos recentes não destoam quanto à COLIDÊNCIA do privilégio com o tráfico interestadual (STJ, AgInt no HC 458362/MS, julgado 12-3-2019; AgRg no HC 457335/MS, julgado 21-02-2019, ambos sob a relatoria do Ministro REYNALDO SOARES DA FONSECA).
+De qualquer forma, como é óbvio (e entendimento contrário denotaria ilogicidade ou irracionalidade), a figura privilegiada foi "criada" pelo legislador como forma de beneficiar o pequeno e esporádico traficante, condição nitidamente diversa dos apelantes.
+Como visto, o Tribunal local manteve o afastamento da minorante do tráfico privilegiado, entendendo que o paciente dedicava-se a atividades criminosas, com base na quantidade de entorpecente (11,161 kg de cocaína - fl. 18), na ausência de comprovação de ocupação lícita e no fato de o delito ter ocorrido entre estados distintos, o que consubstancia o alegado constrangimento ilegal.
+Segundo a jurisprudência desta Corte, a quantidade e a natureza da droga podem ser utilizadas para afastar o redutor do art. 33, § 4º, da Lei n. 11.343/2006, desde associadas a outros elementos concretos, capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a integração a organização criminosa. Nesse sentido: RCD no HC n. 921.603/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024; AgRg no HC n. 831.853/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024; AgRg no HC n. 887.077/MS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, julgado em 19/8/2024, DJe de 22/8/2024; e AgRg no HC n. 874.121/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/8/2024, DJe de 15/8/2024.
+Entretanto, a falta de ocupação lícita e o transporte interestadual de drogas não constituem fundamentação idônea para impedir a incidência da referida minorante. A propósito: AgRg no HC n. 923.055/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 e AgRg no HC n. 843.593/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 24/6/2024, DJe de 26/6/2024.
+Sobre o tema, cabe, ainda, ressaltar que " c onstitui indevido bis in idem o reconhecimento da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006 e, ao mesmo tempo, diante da configuração do tráfico interestadual, afastar-se a minorante do art. 33, § 4º, da Lei Antidrogas" (AgRg no AREsp n. 2.607.212/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 19/8/2024, DJe de 23/8/2024).
+Assim, não apresentados elementos diversos que indiquem a habitualidade delitiva do paciente, constata-se que o acórdão impugnado está em dissonância com a mencionada jurisprudência.
+Ademais, diante das circunstâncias do delito, verifica-se que o réu desempenhava função de "mula", condição que, de forma isolada, não constitui óbice ao redutor do tráfico privilegiado (HC n. 946.866/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024), mormente por não ter sido comprovado ser o transporte de entorpecentes algo perene na vida da apenado.
+Com efeito, " ..  embora o desempenho dessa função não seja suficiente para denotar que o réu faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez que se reveste de maior gravidade" (AgRg no REsp n. 2.136.088/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024).
+Assim, como o paciente é primário e não foi indicado nenhum elemento adicional à quantidade de droga que demonstre a sua inserção em grupo criminoso de maior risco social, a atuação armada, o envolvimento de menores ou a apreensão de apetrecho/instrumento de refino da droga, cabível a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 1/6, nos termos da orientação jurisprudencial desta Corte.
+Nesse mesmo sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. PENA-BASE. APLICAÇÃO DE CAUSA DE DIMINUIÇÃO DE PENA. AGRAVO NÃO PROVIDO.
+ ..
+5. A jurisprudência desta Corte Superior respalda a aplicação da fração mínima de 1/6 para a causa de diminuição de pena em casos que envolvem a figura de "mula", devido à maior gravidade da conduta.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: "1. A quantidade e a natureza da droga apreendida são fundamentos idôneos para exasperar a pena-base. 2. A aplicação da fração mínima de 1/6 para a causa de diminuição de pena pelo tráfico privilegiado é adequada em casos que envolvem a figura de "mula"".
+Dispositivos relevantes citados: Lei n. 11.343/2006, art. 42;
+Código Penal, art. 59.Jurisprudência relevante citada: STJ, AgRg no HC 885.148/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 1º/7/2024, DJe de 3/7/2024; RHC 54.302/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 12/3/2015.
+(AgRg no AREsp n. 2.643.738/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CIRCUNSTÂNCIAS DO CASO CONCRETO INSUFICIENTES PARA NEGAR O BENEFÍCIO DO TRÁFICO PRIVILEGIADO. HIPÓTESE DE CONCESSÃO DA CAUSA DE REDUÇÃO DE PENA DO ART. 33, § 4º, DA LEI DE DROGAS, À FRAÇÃO MÍNIMA LEGAL. MULA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Terceira Seção desta Corte Superior aperfeiçoou o entendimento anteriormente exarado no julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria.
+2. Tendo em vista que as circunstâncias do caso concreto não são suficientes para justificar a negativa de reconhecimento do tráfico privilegiado, pois o réu encontra-se na condição de mula, a hipótese é de aplicação da redutora do art. 33, § 4º, da Lei n. 11.343/2006, mas à menor fração legal (1/6), modulação feita em razão da quantidade de droga apreendida, conforme entendimento jurisprudencial mencionado.
+3. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 958.963/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+Passo ao redimensionamento da pena.
+Sobre a pena intermediária estabelecida pela Corte de origem (5 anos de reclusão e 500 dias-multa), incide, na terceira fase, a causa de aumento de pena do art. 40, V, da Lei n. 11.343/2006, no patamar de 1/6, bem como o redutor previsto no art. 33, § 4º, do mesmo diploma legal, na fração de 1/6, ficando a reprimenda definitiva do paciente em 4 anos, 10 meses e 10 dias de reclusão e 486 dias-multa.
+No tocante ao regime de cumprimento de pena, cabe ressaltar que, segundo a jurisprudência deste Tribunal Superior, a natureza e a quantidade de droga autorizam, além da majoração da pena-base na primeira fase da dosimetria da pena, a fixação de regime mais gravoso quando considerada a sanção imposta (AgRg no HC n. 910.018/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/7/2024).
+Desse modo, mantenho o regime prisional fechado, visto que o quantum de pena aplicado (4 anos, 10 meses e 10 dias de reclusão), associado à quantidade de entorpecente apreendida (11,161 kg de cocaína - fl. 18), justifica o recrudescimento do modo carcerário. A propósito :
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TRANSPORTE INTERMUNICIPAL, COM ENVOLVIMENTO DE MENORES, DE 20KG DE MACONHA. TRÁFICO PRIVILEGIADO. INAPLICABILIDADE. TESE DE QUE O AGRAVANTE NÃO SE DEDICA ÀS ATIVIDADES CRIMINOSAS. NECESSÁRIO O REEXAME APROFUNDADO DAS PROVAS. INVIÁVEL EM SEDE DE HABEAS CORPUS. BIS IN IDEM. INOCORRÊNCIA. ART. 33, § 2º e § 3º, DO CÓDIGO PENAL - CP. REGIME FECHADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. REGIME MAIS GRAVOSO DEVIDAMENTE JUSTICADO. AGRAVO DESPROVIDO.
+ ..
+4. Não há ilegalidade na fixação do regime fechado pelas instâncias ordinárias, pois, apesar do quantum de pena aplicado, superior a 4 e inferior a 8 anos, permitir, em tese, a fixação do regime semiaberto, os fundamentos apresentados revelam que a pena-base foi fixada acima do mínimo legal tendo em vista a gravidade concreta do delito, evidenciada pela quantidade de drogas apreendidas (20 kg de maconha), justificando a imposição de regime prisional mais gravoso, no caso o fechado, de acordo com o disposto no § 3º do art. 33 do Código Penal e art. 42 da Lei n. 11.343/06, bem como em consonância com esta Quinta Turma.
+5 . Agravo regimental desprovido.
+(AgRg no HC n. 901.809/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 30/9/2024, DJe de 3/10/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. QUANTIDADE DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No presente caso, a quantidade de droga apreendida (77kg de maconha) foi utilizada como fundamento para a aplicação do regime mais gravoso, em harmonia com o entendimento desta Corte.
+Precedentes.
+2. Agravo regimental não provido.
+(AgRg no HC n. 914.719/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 23/9/2024, DJe de 26/9/2024.)
+AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. TRÁFICO DE DROGAS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. EXPRESSIVA QUANTIDADE DE DROGA. REGIME MAIS GRAVOSO. JUSTIFICATIVA IDÔNEA. INEXISTÊNCIA DE CONTRARIEDADE AO TEXTO EXPRESSO DE LEI. NÃO CABIMENTO DA VIA REVISIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A expressiva quantidade de droga de alto poder deletério, utilizada inclusive para consideração desfavorável das circunstâncias judiciais, justifica o recrudescimento do regime de cumprimento de pena, conforme pacífica orientação desta Corte.
+2. A alegação de inexistência de fundamentação na fixação do regime, feita pela defesa, além de não se harmonizar com a jurisprudência deste Superior Tribunal, não se adequa às hipóteses de cabimento da revisão criminal, na qual é necessário que haja contrariedade ao texto expresso de lei.
+3. Agravo regimental não provido.
+(AgRg na RvCr n. 6.181/GO, relator Ministro Rogerio Schietti Cruz, Terceira Seção, julgado em 11/9/2024, DJe de 18/9/2024.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente do habeas corpus, contudo, concedo a ordem de ofício a fim de redimensionar a reprimenda do paciente para 4 anos, 10 meses e 10 dias de reclusão e 486 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
+ EMENTA
