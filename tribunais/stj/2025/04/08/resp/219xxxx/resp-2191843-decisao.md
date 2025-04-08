@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por CELIO ALEXANDRE DE OLIVEIRA com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Nas razões recursais, a defesa aponta violação do artigo 33, §4º, da Lei nº 11.343/06. Sustenta que deve ser reconhecido o tráfico privilegiado, com a redução em 2/3 da pena, já que a fundamentação empregada para vedá-la seria inidônea - somente a quantidade e qualidade de drogas não seriam suficientes para provar a dedicação às atividades criminosas ou participação em organização criminosa.
+Requer o provimento do recurso para o reconhecimento do tráfico privilegiado, com a redução da pena em 2/3 na terceira fase da dosimetria.
+Apresentadas as contrarrazões (e-STJ, fls. 272-280).
+O recurso especial foi admitido às fls. 283-284 (e-STJ) e os autos foram encaminhados ao Superior Tribunal de Justiça.
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 293-297).
+É o relatório.
+Decido.
+No que tange à insurgência defensiva a respeito do não reconhecimento do tráfico privilegiado, transcrevo excertos da sentença e do acórdão recorrido, respectivamente:
+"A causa de diminuição de pena do artigo 33, parágrafo 4º., da Lei n. 11.343/06, não é aplicável ao caso em tela, pois há fortes indícios de que o agente integra grupo criminoso.
+Neste sentido, ele foi denunciado, pelo Ministério Público, nos Autos n. 1504592-80.2023, como incurso no artigo 2º, da Lei n. 12.850/2023.
+O policial Leonardo, ademais, afirmou que, durante a investigação do grupo conhecido por "Biqueira do Beco", apurou que CÉLIO era parte do grupo e que transportava drogas para Registro.
+Ademais, consta do Boletim de Ocorrência de fls. 65/69 que o acusado se identificou como membro do PCC e que foi preso em flagrante quando privava uma vítima se (sic) liberdade." (e-STJ, fl. 175 da sentença, com destaques).
+"De outra face, não era mesmo o caso de incidência do artigo 33, § 4º, da Lei n. 11.343/06. A norma buscou dar ao juiz a possibilidade de, no caso concreto, aplicar pena menos rigorosa ao réu que não se dedica às atividades criminosas e não integre organização criminosa. A intenção do legislador é clara: visa dispensar tratamento diferenciado ao "traficante- menor", em detrimento do "traficante-organizado".
+Na hipótese, a grande quantidade e variedade de droga apreendida dá conta de que o réu se dedicava a intenso comércio de entorpecentes, não fazendo jus, portanto, ao benefício.
+Frise-se: nítido o envolvimento do réu com organização criminosa responsável pela distribuição de drogas, pois não se confiaria tão elevada quantidade a agente inexperiente.
+Aliás, firme o entendimento dos Tribunais Superiores de que o acusado, enquanto no exercício de "mula", integra organização criminosa, não fazendo jus à redução da pena" (e-STJ, fl. 247 do acórdão recorrido).
+De acordo com o § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC 401.121/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017 e AgRg no REsp 1.390.118/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julga do em 23/5/2017, DJe 30/5/2017).
+Os fundamentos utilizados pela Corte de origem para não aplicar o referido redutor ao caso concreto estão em consonância com a jurisprudência desta Corte Superior, na medida em que dizem respeito à dedicação do recorrente à atividade criminosa (tráfico de drogas) evidenciada sobretudo nas circunstâncias do cometimento do delito, tudo a indicar que não se trataria de um traficante eventual.
+Segundo o Juiz de 1º grau, há indícios relevantes de que o recorrente integra organização criminosa, conforme relato do policial, que apurou o envolvimento do réu com grupo criminoso ("Biqueira do Beco"), além de o próprio recorrente ter se identificado como integrante do PCC, e preso em flagrante enquanto mantinha uma vítima em cárcere privado, reforçando os indícios de que participa de atividades típicas de organização criminosa.
+Desse modo, para modificar o entendimento adotado nas instâncias inferiores de que a prática do tráfico de drogas e a dedicação em atividade criminosa estão configuradas e aplicar a minorante prevista na Lei de Drogas, seria necessário reexaminar o conteúdo probatório dos autos, o que é inadmissível, a teor da Súmula 7 do STJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. REGIME INICIAL DE CUMPRIMENTO. CAUSA ESPECIAL DE DIMINUIÇÃO (ART. 33, § 4.º, DA LEI N. 11.343/2006). FUNDAMENTAÇÃO. IDONEIDADE. QUESTÕES APRECIADAS NO HC N. 559.473/SP. PRECLUSÃO. REVISÃO POR ESTA CORTE SUPERIOR. FALTA DE COMPETÊNCIA. MINORANTE. REQUISITOS. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do Habeas Corpus n. 559.473/SP, em que o Agravante figurou como Paciente, foi reconhecida a idoneidade da fundamentação utilizada, pelas instâncias ordinárias, para negar a aplicação da causa de diminuição do art. 33, § 4.º, da Lei n. 11.343/2006.
+ ..
+4. Considerados idôneos os fundamentos utilizados pelas instâncias ordinárias para obstar a aplicação da minorante do tráfico privilegiado, para rever a conclusão, seria necessário o reexame de matéria fático-probatória, descabido em recurso especial, e não apenas a valoração das provas. Aplicação da Súmula n. 7 do STJ.
+5. Agravo regimental desprovido."
+(AgRg no AREsp 1780831/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/03/2021, DJe 11/03/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. ÓBICE DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. LEI DE DROGAS. APLICAÇÃO DE MINORANTE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO SUPÉRIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+ ..
+2. Nos termos da jurisprudência deste Sodalício, "para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal" (AgRg no REsp 1819027/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/9/2020, DJe 23/9/2020).
+3. Na hipótese, a decisão expressamente consignou que o réu se dedicava à atividade criminosa, sendo descabida a aplicação da referida causa de diminuição e, rever o referido entendimento esbarra diretamente no óbice da Súmula n. 7/STJ ante o necessário reexame fático-probatório da demanda.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 1714857/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
