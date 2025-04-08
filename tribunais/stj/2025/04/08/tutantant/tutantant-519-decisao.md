@@ -1,0 +1,111 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência proposta pela Ordem dos Advogados do Brasil - Seção de São Paulo com vistas a atribuir efeito suspensivo a Agravo em Recurso Especial, interposto contra acórdão do TRF da 3ª Região nos autos do Agravo de Instrumento nº 5031980-83.2022.4.03.0000, assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO. POSSIBILIDADE. RESTITUIÇÃO DOS VALORES PAGOS ENTRE A DATA DA IMPETRAÇÃO E A EFETIVA IMPLEMENTAÇÃO DA ORDEM CONCESSIVA. RECURSO NÃO PROVIDO. AGRAVO INTERNO PREJUDICADO. 1. Tendo o C. STJ dado provimento ao Recurso Especial interposto pela agravada para reconhecer a desnecessidade de inscrição na ordem dos advogados para que os defensores exerçam suas atividades profissionais; e o C. STF negado provimento ao recurso interposto pela agravante e fixado o Tema 1.074 da Repercussão Geral ("É inconstitucional a exigência de inscrição do Defensor Público nos quadros da Ordem dos Advogados do Brasil"), o direito buscado pela ASSOCIACAO PAULISTA DE DEFENSORES PUBLICOS - APADEP foi reconhecido, decorrendo daí os efeitos patrimoniais, diante da procedência da ação/concessão da ordem pleiteada. 2. Afasta-se, portanto, as alegações veiculadas pela agravante de impossibilidade de cumprimento de sentença em sede de mandado de segurança e de violação da coisa julgada, posto que os efeitos patrimoniais a partir da impetração decorrem do direito reconhecido, nos autos do MS n. 0016414-67.2012.4.03.6100, pelos Tribunais Superiores.
+3. A ASSOCIAÇÃO PAULISTA DE DEFENSORES PÚBLICOS - APADEP expressamente pleiteou a restituição aos seus associados - que tiveram seus pedidos de cancelamento da inscrição indeferidos - dos valores eventualmente pagos a título de contribuição para a OAB desde a impetração da segurança coletiva.
+4. Agravo de instrumento não provido. Agravo interno prejudicado.
+Para tanto, sustenta que:
+Na origem, trata-se de Cumprimento de Sentença da decisão proferida nos autos de mandado de segurança proposto pela Associação Paulista de Defensores Públicos - APADEP em face da OAB SP, com o objetivo de anular as decisões de indeferimento dos pedidos de cancelamento das inscrições na OAB pelos defensores públicos associados da APADEP, de modo a afastar a competência disciplinar da OAB e o pagamento da contribuição anual.
+(..)
+Em sede de julgamento, por maioria, o STF negou provimento ao recurso extraordinário e ficou a TESE: TEMA 1.074 DA REPERCUSSÃO GERAL: "É inconstitucional a exigência de inscrição do Defensor Público nos quadros da OAB" (Id. 261169766, p. 343/34, autos principais).
+Após o trânsito em julgado, iniciou-se o cumprimento de sentença, sobrevindo determinação do juízo a quo para que a OAB SP cumprisse a determinação judicial dos autos e promovesse a baixa nas inscrições dos defensores públicos associados à APADEP, que desejam cancelar suas inscrições na OABSP, e constavam na listagem de id. 262240406 (id. 262771829, autos principais).
+(..)
+Assim, não foi tamanha a surpresa da ora agravante, quando o Juízo a quo atendeu pedido da exequente, ora agravada, determinando que a agravante apesentasse "os informes financeiros das anuidades pagas por cada um dos associados constantes da relação apresentada na execução (ID 262240406), desde a impetração do writ em 17.09.2012 até a data do efetivo cancelamento das inscrições junto a OAB/SP, de forma a viabilizar a delimitação do valor discriminado e atualizado do débito pelo exequente, a teor do artigo §3º e 4º do artigo 524 do Código de Processo Civil" (id. 267764541).
+A OAB SP interpôs agravo de instrumento frente a decisão argumentando que o pedido de declaração de restituição de anuidades NÃO FOI DECLARADO por nenhuma das Cortes Judiciais que analisaram e julgaram a presente demanda, vez que apenas se reconheceu que a inscrição na OAB de defensores públicos NÃO É OBRIGATÓRIA, sendo, portanto, OPCIONAL, de tal forma que não houve qualquer determinação judicial que reconhecesse a inexigibilidade das anuidades legalmente cobradas e tampouco qualquer direito à restituição.
+(..)
+A OAB SP, diante de incorreções no r. acórdão, opôs embargos de declaração, inclusive para fins de prequestionamento, os quais foram rejeitados pelo v. acórdão de Id. 308926139 dos autos do agravo de instrumento nº. 5031980-83.2022.4.03.0000.
+Em consequência, foram interpostos recurso especial e extraordinário.
+As razões do recurso especial não foram acolhidas pelo Exmo. Desembargador Vice-Presidente, do Tribunal Regional Federal da 3ª Região por entender que a pretensão encontra óbice na Súmula 7 deste E. Superior Tribunal de Justiça.
+(..)
+II. A) DA PROBABILIDADE DO DIREITO - FUMUS BONI IURIS - AFRONTA À NATUREZA DECLARATÓRIA DO MANDADO DE SEGURANÇA
+O r. acórdão que julgou improvido o agravo de instrumento apresente argumentos quando a possibilidade de cumprimento de sentença visando o recebimento dos efeitos patrimoniais da concessão da segurança, o r. Acórdão foi silente quanto a jurisprudência pátria, que tem reconhecido que, embora possível a declaração à restituição/compensação de valores em sede de mandado de segurança, a execução dos pagamento deve ser feita em VIA PRÓPRIA, sob pena de afrontar a natureza declaratória do mandado de segurança,(..)
+(..)
+II. b) DA PROBABILIDADE DO DIREITO - FUMUS BONI IURIS - AFRONTA À COISA JULGADA E À SEGURANÇA JURÍDICA
+O r. Acórdão merece reforma pois ao manter a decisão agravada desatentou- se à coisa julgada dos autos principais que é, precisamente e expresamente, a inscontitucionalidade da exigência de inscrição do Defensor Público nos quadros da OAB.
+Toda a discussão dos autos do mandado de segurança coletivo é sobre a obrigatoriedade ou não da inscrição de defensor público nos quadros de advogados da OAB e, o que se reconheceu, tanto no Superior Tribunal de Justiça, quanto no Supremo Tribunal Federal é que a capacidade postulatória do defensor público nasce com a posse do cargo público, sendo a inscrição como advogado nos quadros da OAB opcional.
+Não houve nos autos uma linha sequer que tenha declarado inconstitucional a cobrança de anuidades de defensores públicos, ou declarado a inexigibilidade das anuidades cobradas daqueles que eram inscritos e, por opção, desejam cancelar seu vínculo com a OAB.
+(..)
+Conclui-se, que NÃO EXISTE NOS AUTOS DECLARAÇÃO JUDICIAL QUE RECONHEÇA O DIREITO À RESTITUIÇÃO DE ANUIDADES AOS DEFENSORES PÚBLICO ANTERIORMENTE INSCRITOS NOS QUADROS DA OAB SP.
+(..)
+II. c) DO PERICULUM IN MORA - IMINÊNCIA DE EXECUÇÃO DE VALORES EXPRESSIVOS
+Enquanto nos autos do agravo de instrumento nº. 5031980- 83.2022.4.03.0000, o agravo em recurso especial foi protocolado em 31/01/2025 e não houve novas movimentações nos autos.
+Os autos do processo principal - 0016414-67.2012.4.03.6100 - estão em fase de cumprimento de sentença e aguardam a apresentação de cálculos da parte exequente, APADEP.
+(..)
+Eventual execução dos referidos valores poderá prejudicar o funcionamento da Entidade, como por exemplo o pagamento de verbas salariais dos mais de 2 mil colaboradores e fornecedores de serviços essenciais prestados à advocacia paulista.
+Nesta seara, o perigo da demora é evidente, haja vista que o prazo para exequente apresentar seus cálculos finda em 30/04/25.
+(..)
+II. d) DO PEDIDO DE TUTELA PROVISÓRIA - EFEITO SUSPENSIVO AO AGRAVO EM RECURSO ESPECIAL
+Considerando que (i) não houve declaração de direito à restituição nas decisões proferidas no mandado de segurança coletivo; (ii) não houve declaração de ilegalidade da cobrança de anuidades em face de defensores públicos; (iii) o mandado de segurança não pode ser utilizado como ação de cobrança, de forma que sua execução deve-se limitar ao reconhecimento de direito líquido e certo e obrigação de fazer; (iv) que a OAB SP já cumpriu o direito líquido e certo assegurado pela coisa julgado proferida nos autos do mandado de segurança coletivo, a decisão do E. TRF 3 afronta à segurança jurídica das partes litigantes e representa grave risco à estrutura funcional e financeira da OAB SP. (fls. 02-08).
+Assim, requer "A concessão de efeito suspensivo ao agravo em recurso especial, para que os efeitos do acórdão do TRF3 do agravo de instrumento nº 5031980- 83.2022.4.03.0000 e, consequentemente, suspendendo-se o trâmite do cumprimento de sentença nº. 0016414-67.2012.4.03.6100, determinado a suspensão da execução é medida que se impõe até que se esgote as vias recursais sobre a existência ou não da obrigação de pagar consubstanciada na restituição de anuidades ou, subsidiariamente, a suspensão dos efeitos até o julgamento definitivo do recurso especial" (fl. 10).
+É o relatório. Decido.
+Acerca da tutela provisória, o Código de Processo Civil de 2015 assim dispõe:
+"Art. 294. A tutela provisória pode fundamentar-se em urgência ou evidência. Parágrafo único. A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental."
+"Art. 299. A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal.
+Parágrafo único. Ressalvada disposição especial, na ação de competência originária de tribunal e nos recursos a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito."
+"Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo."
+Especificamente no que se refere à concessão de efeito suspensivo a recurso especial, o novo Codex, com as alterações estabelecidas pela Lei nº 13.256/2016, estabelece que:
+"Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições
+distintas que conterão:
+(..)
+§ 5º. O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+I - ao tribunal superior respectivo, no período compreendido entre a publicação da decisão de admissão do recurso e sua distribuição, ficando o relator designado para seu exame prevento para julgá-lo;
+II - ao relator, se já distribuído o recurso;
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037."
+No âmbito do Superior Tribunal de Justiça, a tutela antecipada recursal é cabível apenas em situações excepcionais para atribuir efeito suspensivo ou para antecipar a tutela em recursos ou ações originárias quando houver a satisfação simultânea de dois requisitos, quais sejam, a verossimilhança das alegações - fumus boni iuris, consubstanciada na elevada probabilidade de êxito do recurso interposto ou da ação - e o perigo de lesão grave e de difícil reparação ao direito da parte - periculum in mora.
+A propósito:
+AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - AÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - DECISÃO MONOCRÁTICA QUE INDEFERIU O PLEITO LIMINAR ANTE A AUSÊNCIA DOS REQUISITOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA. IRRESIGNAÇÃO DA SEGURADORA.
+1. O uso da cautelar/tutela de urgência no âmbito deste Superior Tribunal de Justiça é medida excepcional que visa a impedir o perecimento do direito e a consequente inutilidade do provimento jurisdicional futuro.
+2. À concessão do efeito suspensivo aos recursos extraordinários, por meio de tutela de urgência, faz-se necessária a presença concomitante dos requisitos do fumus boni iuris e periculum in mora:
+o primeiro relativo à plausibilidade, aferida em juízo sumário, da pretensão recursal veiculada no apelo extremo (sua probabilidade de êxito) e o segundo consubstanciado no risco de dano irreparável que, em uma análise objetiva, revele-se concreto e real. (..)
+4. Agravo interno desprovido. (AgInt no TP 363/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017)
+No caso concreto, observa-se que, além de não ter sido pedido o efeito suspensivo na própria petição do apelo nobre, partindo de uma análise perfunctória do recurso a que se pretende emprestar eficácia suspensiva, próprio da via eleita e da fase em que se encontra o processo (entre a admissão na origem e o envio a esta Corte), depreende-se que não estão presentes os requisitos para o pretendido efeito suspensivo.
+Com efeito, o Tribunal de origem, soberano na análise fática da causa, assim firmou sua compreensão:
+Na origem, trata-se de cumprimento de sentença de mandado de segurança coletivo impetrado pela ASSOCIACAO PAULISTA DE DEFENSORES PUBLICOS - APADEP para que "sejam anuladas todas as decisões de indeferimento dos pedidos do cancelamento das inscrições na OAB formulados pelos associados da impetrante (art. 11, inciso I, Lei nº 8.906/1994), de modo a afastar, notadamente, a competência disciplinar da OAB e o pagamento da contribuição anual à OAB"; que "seja reconhecido aos associados da impetrante o direito de cancelamento da inscrição na OAB, nos termos do art. 11, inc. I, do Estatuto da Advocacia e da OAB; e que "sejam restituídos aos associados da impetrante que tiveram seus pedidos de cancelamento da inscrição indeferidos, os valores eventualmente pagos a título de contribuição para a OAB desde a impetração da segurança coletiva, a teor do que dispõe o art. 14, §4º, da Lei 12.016/09".
+(..)
+Conforme acima transcrito, a ASSOCIACAO PAULISTA DE DEFENSORES PUBLICOS - APADEP expressamente pleiteou a restituição aos seus associados - que tiveram seus pedidos de cancelamento da inscrição indeferidos - dos valores eventualmente pagos a título de contribuição para a OAB desde a impetração da segurança coletiva.
+(..)
+No ponto, consolidada a jurisprudência no sentido de que a concessão de mandado de segurança produz efeitos financeiros a partir da data de sua impetração.
+(..)
+O e. Supremo Tribunal Federal, quando do julgamento do RE 889.173/MS, em regime de repercussão geral, firmou tese no sentido de que o pagamento dos valores devidos pela Fazenda Pública entre a data da impetração do Mandado de Segurança e a efetiva implementação da ordem concessiva deve observar o regime de precatórios previsto no artigo 100 da Constituição Federal.
+A premissa do destacado julgado é a possibilidade de cumprimento sentença em sede mandado de segurança e o reconhecimento de que os valores pagos entre a data da impetração do mandado de segurança e a efetiva implementação da ordem concessiva devem ser restituídos pela parte executada.
+No mesmo sentido, dentre todos, os seguintes arestos do C. Superior Tribunal de Justiça:
+(..)
+Verifica-se, pois, o entendimento dos Tribunais Superiores no sentido da possibilidade de instauração de liquidação/cumprimento de sentença proveniente de mandado de segurança, uma vez que autorizado o pagamento de indébito oriundo de decisão concessiva da ordem.
+(..)
+Na linha do destacado entendimento dos Tribunais Superiores, a agravante, em sede de embargos de declaração opostos contra o v. Acórdão proferido pelo C. STF nos autos do RE 1.240.999, que deu origem ao Tema 1.074 da Repercussão Geral ("É inconstitucional a exigência de inscrição do Defensor Público nos quadros da Ordem dos Advogados do Brasil"), buscou fosse os efeitos deste julgado modulado "para consignar serem legítimas as inscrições dos defensores que foram efetivadas e mantidas até então, sendo incabível, por exemplo, a devolução das anuidades pagas nesse período", tendo expressamente afirmado restar "evidente o interesse social e a enorme insegurança jurídica que o acórdão embargado ocasionará caso não module o entendimento para decretar não ser cabível o pedido de devolução das anuidades devidamente pagas no período em que as inscrições estavam ativas".
+O C. STF negou o pedido de modulação dos efeitos do julgado, por não se mostrarem presentes os requisitos para tanto.
+Afasta-se, portanto, as alegações veiculadas pela agravante de impossibilidade de cumprimento de sentença em sede de mandado de segurança e de violação da coisa julgada, posto que os efeitos patrimoniais a partir da impetração decorrem do direito reconhecido, nos autos do MS n. 0016414-67.2012.4.03.6100, pelos Tribunais Superiores.
+Em sede de recurso especial, sustentou a ora requerente que restaram violados os arts. 502 e 504 do CPC, ao fundamento de violação a coisa julgada, porquanto "não existe nos autos declaração judicial que reconheça o direito à restituição de anuidades aos defensores público anteriormente inscritos nos quadros da OAB SP" (fl. 71).
+O recurso especial restou inadmitido por dois fundamentos: i) por estar o acórdão recorrido em harmonia com a jurisprudência do STJ e ii) pela incidência da Súmula 7 do STJ.
+Das razões do agravo, extrai-se que a agravante rechaça, tão somente, o óbice da Súmula 7 do STJ.
+Diante desse contexto, a probabilidade de admissibilidade do próprio agravo em recurso especial não se mostra evidente.
+Demais disso, ao contrário do que sustenta, ainda que em juízo perfunctório, a pretensão recursal, nos termos em que posta, esbarra no óbice da Súmula 7/STJ.
+Com efeito, a jurisprudência do STJ tem se firmado no sentido de descaber a esta Corte rever as conclusões das instâncias ordinárias em relação ao título executivo, sob a alegação de violação a coisa julgada.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO PER RELATIONEM. ADMISSIBILIDADE. COISA JULGADA. TEORIA DA IDENTIDADE DA RELAÇÃO JURÍDICA. SIMILITUDE ENTRE AS AÇÕES. REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas em sentido inverso aos interesses da parte.
+(..)
+3. A revisão das conclusões da Corte de origem quanto à violação à coisa julgada, bem como ao pedido de aplicação da teoria da identidade da relação jurídica demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial em virtude do óbice da Súmulas nº 7/STJ.
+(..)
+5. Indispensável que o agravo interno se mostre manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 2.565.279/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. ANÁLISE DE VIOLAÇÃO À COISA JULGADA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ESTUDO DE ATO NORMATIVO INFRALEGAL (PORTARIA MARE 2.179/1998). NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. PROVIMENTO NEGADO.
+(..)
+2. O acórdão recorrido, interpretando o título executivo, concluiu pela possibilidade de estender as diferenças devidas aos servidores a título de reajuste de 28,86% para além da edição da Medida Provisória 1.704/1998 e da Portaria MARE 2.179/1998, limitando a incidência até a data de sua absorção por leis supervenientes que reestruturam a carreira dos servidores, bem como reconhecendo que a base de cálculo do reajuste deveria observar as rubricas de caráter permanente que compunham as fichas financeiras dos autores.
+3. O reexame do contexto fático-probatório dos autos redunda na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+4. A análise da pretensão recursal demanda também o estudo da Portaria MARE 2.179/1998, que, consoante pacífica jurisprudência desta Corte Superior, não se insere no conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.871.243/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+Logo, ainda que em juízo prévio, não se vislumbrando um dos requisitos, qual seja, a viabilidade do recurso a que se pretende dar efeito suspensivo, inviável a concessão da medida liminar.
+Por pertinente:
+PEDIDO DE TUTELA PROVISÓRIA - PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO, DIANTE DA AUSÊNCIA DOS REQUISITOS DO FUMUS BONI IURIS E DO PERICULUM IN MORA. INSURGÊNCIA DO REQUERENTE.
+1. A atribuição de efeito suspensivo aos recursos extraordinários reveste-se de caráter excepcional, justificando-se apenas diante da presença de elementos que demonstrem a probabilidade do direito alegado e o perigo de dano ou risco ao resultado útil do processo (CPC/15, arts. 300, 995 e 1.029, § 5º, I).
+1.1. Na hipótese dos autos, não se evidenciou a configuração do fumus boni iuris, pois, em sede de cognição sumária, infere-se ausente a plausibilidade de êxito do agravo em recurso especial, porquanto, perfunctoriamente, verifica-se que a pretensão recursal demanda a análise do acervo fático e probatório dos autos, providência obstada pela Súmula 7 do STJ.
+1.2. A jurisprudência desta Corte é no sentindo de que o risco de dano apto a lastrear medidas de urgência, analisado objetivamente, deve revelar-se real e concreto, não sendo suficiente, para tal, a mera conjectura de riscos, tal como posto pelo requerente. Ausente, também, o requisito do periculum in mora.
+2. Agravo interno desprovido.
+(AgInt no TP n. 1.477/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 16/8/2018, DJe de 22/8/2018.)
+Desse modo, aplica-se a jurisprudência pacífica desta Corte quanto ao indeferimento do pedido de efeito suspensivo quando se vislumbra a inadmissibilidade do recurso especial, ou do subsequente agravo.
+Ante o exposto, não vislumbrados de plano os requisitos necessários para a concessão da medida, indefiro o pedido de tutela provisória de urgência.
+Com o trânsito em julgado, arquive-se.
+Publique-se. Intimem-se.
+EMENTA
