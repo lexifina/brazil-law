@@ -1,0 +1,21 @@
+DECISÃO
+O presente writ, impetrado em benefício de VINICIUS TELES GAMA DE FREITAS - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0025276-35.2018.8.08.0024) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, comporta parcial acolhimento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 10ª Vara Criminal do Juízo de Vitória/ES e exasperada pelo Tribunal de Justiça do Espírito Santo, em sede de recurso ministerial, ao argumento de que na primeira fase da dosimetria da pena, restaram neutras todas vetoriais previstas no art. 59 do CP, contudo, equivocadamente, o acórdão exacerbou a pena em decorrência da natureza e quantidade das substâncias apreendidas (fl. 6).
+Afirma, ainda, que, na terceira fase, a causa de diminuição da pena não foi aplicada, por ter constado na sentença e confirmado no acórdão que não é possível concluir com a necessária segurança que o mesmo não é pessoa dedicada a quaisquer atividades criminosas, sendo certa a existência de outras ações penais que tramitam em seu desfavor, não merecendo que ocorra o reconhecimento da causa de diminuição (fl. 7).
+Em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento.
+As instâncias ordinárias negaram a aplicação da minorante sem a demonstração da dedicação a atividades criminosas (fls. 17/18):
+ ..  muito embora não desconheça o entendimento jurisprudencial de que a simples menção à quantidade de drogas apreendidas ou o fato de responder inquéritos policiais ou ações penais em curso não sejam suficientes para concluir que o réu integra organização criminosa ou se dedica ao tráfico de forma habitual, coaduno da conclusão alcançada pelo MM. Juiz de Direito, na medida em que a forma com que a droga foi apreendida - fracionada e embalada para consumo - somadas às circunstâncias da prisão (local conhecido pelos policiais como ponto de venda de drogas), por terem sido encontradas "sacolés para embalo da droga e uma faca de serra" e, principalmente, da confissão do acusado, ao admitir que "pegou a droga para fazer um dinheiro", demonstram que o apelante se dedica às atividades criminosas, não fazendo jus ao reconhecimento do tráfico privilegiado.  ..
+Tais indicações, no meu modo de ver, constituem a configuração do tráfico, mas não a dedicação a atividades criminosas.
+Redimensionando-se a reprimenda imposta, temos:
+Fica mantido o aumento da pena-base, fixada no acórdão hostilizado, na fração de 1/8, pela quantidade de drogas para 6 anos e 3 meses de reclusão, e 630 dias-multa. Com efeito, não se trata de ínfima quantidade, devendo ser respeitada a livre convicção do Magistrado singular.
+Na segunda fase, com o reconhecimento da atenuante de confissão espontânea, a pena foi reduzida a 5 anos, 2 meses e 15 dias de reclusão, e ao pagamento de 525 dias-multa.
+Já na terceira fase, com o reconhecimento da causa de diminuição da pena, na fração de 2/3, a pena do paciente passa a ser de 1 ano, 8 meses e 11 dias de reclusão, e ao pagamento de 175 dias-multa.
+O regime inicial deverá ser o semiaberto, nos termos do art. 33, § 3º, do Código Penal.
+Inviável a substituição da privativa de liberdade por restritiva de direitos, diante da quantidade de droga apreendida, valorada negativamente na primeira fase (5 pinos de crack, 2 buchas de maconha e 120 buchas de maconha).
+Em face do exposto, concedo parcialmente a ordem impetrada para reconhecer a minorante do tráfico privilegiado, resultando a reprimenda do paciente em 1 ano, 8 meses e 11 dias de reclusão, em regime semiaberto, e 175 dias-multa (Ação Penal n. 0025276-35.2018.8.08.0024), do Juízo de Direito da 10ª Vara Criminal do Juízo de Vitória/ES.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (5 PINOS DE CRACK E 122 BUCHAS DE MACONHA). REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE. COAÇÃO ILEGAL MANIFESTA. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. AFASTAMENTO SEM FUNDAMENTAÇÃO. CONSTRANGIMENTO PARCIALMENTE EVIDENCIADO.
+Ordem parcialmente concedida.
