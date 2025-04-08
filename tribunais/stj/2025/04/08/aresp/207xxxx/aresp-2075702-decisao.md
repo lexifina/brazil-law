@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interposto por FERNANDA ALVAREZ MALVINO contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO cuja ementa guarda os seguintes termos (fl. 298):
+Agravo de Instrumento. Procedimento de inventário. Reconsideração da decisão de habilitação da segunda interessada. Inconformismo da segunda requerente. Indeferimento do pedido de habilitação de pessoa diversa. Ausência de legitimidade recursal da Agravante. Inteligência do art. 6º, do CPC/1973, vigente à época da interposição do recurso. Deve o recurso de Agravo de Instrumento ser instruído com documentos obrigatórios, como ditos pela lei processual civil, bem como com aqueles facultativos, que sejam necessários à exata compreensão do inconformismo. Ausência de peças facultativas necessárias à correta compreensão da controvérsia. Intimação da recorrente para sanar a irregularidade. Descumprimento da ordem. Violação do disposto no art. 525, II, do CPC/1973. Precedente do E. STJ. Litigância de má fé que se reconhece e se sanciona, nos termos do art. 17, incisos i e II, c/c art. 18, caput, ambos do CPC/1973. Negativa de conhecimento do recurso, tanto diante da ilegitimidade recursal, quanto da instrução deficiente do mesmo.
+Rejeitados os embargos de declaração opostos (fls. 341-348).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, IV, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação aos arts. 81, 618, II, e 1017 do CPC; 1799, I, do CC e 32 da Lei n. 6515/77 aduz possuir "legitimidade da ora Recorrente em interpor o Recurso de Agravo de Instrumento em face da decisão que excluiu do inventário a habilitação de Marisol Alvarez" (fl. 379). Afirma ser possível o pleno conhecimento da controvérsia através dos documentos juntados aos autos. Por fim requer a exclusão da condenação por litigância de má-fé.
+Sem contrarrazões ao recurso especial (fl. 399).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 401-407), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 433).
+O MPF opina pelo parcial provimento do recurso (fls. 455-463).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, de forma clara e devidamente fundamentada, expressamente se manifestou acerca dos pontos alegados como omisso.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Verifica-se que em relação à apontada ofensa aos arts. arts. 81, 618, II, e 1017 do CPC; 1799, I, do CC e 32 da Lei n. 6515/77 o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ e alterar o decidido no acórdão impugnado, no que se refere à legitimidade da agravante para interpor agravo de instrumento e a possibilidade de compreensão da controvérsia apenas com a prova documental acostada aos autos, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+Contudo, em relação ao pedido de exclusão da condenação por litigância de má-fé, razão assiste à parte.
+Como bem ressaltado pelo Parquet "conforme entendimento jurisprudencial desse Egrégio STJ, a interposição de recursos não implica, por si só, litigância de má-fé, ainda que com argumentos reiteradamente refutados pelo Tribunal a quo, ou sem alegação de fundamento novo" (fl. 463).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. CONTRATO BANCÁRIO. EXECUÇÃO. INDEFERIMENTO DA PENHORA DE IMÓVEIS SOB A ALEGAÇÃO DE QUE ELES CONSTITUEM BEM DE FAMÍLIA. INADMISSIBILIDADE. EXECUTADOS, ÚNICOS SÓCIOS DA PESSOA JURÍDICA, OFERECERAM LIVREMENTE O IMÓVEL EM HIPOTECA PARA O PAGAMENTO DA DÍVIDA QUE SE ENCONTRA INADIMPLIDA. EXCEÇÃO À IMPENHORABILIDADE CONTIDA NO ART. 3º, INCISO V, DA LEI Nº 8.009/1990. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. VIOLAÇÃO AO ART. 373 DO CPC. ÔNUS DA PROVA. TESES NÃO PREQUESTIONADAS. AUSÊNCIA DE EMBARGOS DE DECLARAÇÃO PARA SANAR EVENTUAL OMISSÃO. APLICAÇÃO DAS SÚMULAS N. 282 E 356/STF. APLICAÇÃO DE MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA E POR RECURSO PROTELATÓRIO. DESCABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Ausente manifestação da parte recorrente contra fundamento que, por si só, se mostra suficiente a manter o acórdão recorrido, incide, por analogia, o enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão questionado. Aplicação da Súmula 284/STF.
+Precedentes do Superior Tribunal de Justiça.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo especial (Súmula n. 282/STF).
+4. O prequestionamento ficto previsto no art. 1.025 do CPC/2015 exige a oposição de embargos de declaração na origem e a indicação do art. 1.022 do CPC/2015 como violado. Precedentes.
+5. Conforme entendimento desta Corte Superior, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo.
+6. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa dos arts. 1.021, § 4º e 1.026, § 2º, do CPC, devendo ser analisado caso a caso.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.333.130/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023.)
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial e excluir a condenação por litigância de má-fé.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. VIOLAÇÃO DOS ARTIGOS 489 E 1022 DO CPC. INEXISTÊNCIA. LEGITIMIDADE E POSSIBILIDADE DE COMPROVAÇÃO DO ALEGADO POR MEIO DE DOCUMENTOS ACOSTADOS AOS AUTOS. REVER A CONCLUSÃO A QUE CHEGOU A CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. EXCLUSÃO DA CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. POSSIBILIDADE. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
