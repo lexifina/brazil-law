@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado pelo CONDOMÍNIO RESIDENCIAL VILLAGE PARATI, com o objetivo de impugnar decisão proferida pelo Desembargador José Eduardo Neder Meneguelli, do Tribunal de Justiça do Estado de Mato Grosso do Sul, nos autos do Agravo Interno n. 1404303-91.2025.8.12.0000/50000.
+O impetrante alega que, em sede de liminar, o referido Desembargador determinou a suspensão da Assembleia Geral Extraordinária (AGE), regularmente convocada para deliberar sobre matérias de interesse coletivo, dentre as quais se destacam a prestação de contas e a eleição de novo síndico.
+Sustenta que a decisão impugnada revela-se teratológica e revestida de manifesta ilegalidade, uma vez que representa indevida interferência na autonomia da administração condominial, em afronta aos princípios da legalidade, da ampla defesa e da livre organização interna da entidade, conforme disposto nos artigos 1.347 e 1.350, § 1º, do Código Civil.
+Argumenta que a suspensão da assembleia compromete a gestão do condomínio, sobretudo no tocante a temas urgentes e inadiáveis, como a deliberação acerca de contratos e a análise das contas referentes à administração anterior.
+O impetrante ressalta, ainda, a urgência da medida, aduzindo que a paralisação da AGE inviabiliza o cumprimento de obrigações essenciais à coletividade, tais como a regularização contratual, o equilíbrio financeiro e a eleição de novos representantes. Salienta, por fim, que a decisão monocrática gerou insegurança jurídica e instabilidade entre os condôminos, ocasionando impasses administrativos que afetam diretamente a regularidade dos serviços condominiais.
+Diante disso, requer a concessão de medida liminar para suspender os efeitos da decisão judicial proferida, permitindo a realização da assembleia previamente convocada. Ao final, postula a concessão definitiva da segurança, com o reconhecimento da ilegalidade do ato atacado e a consequente preservação da autonomia administrativa do condomínio.
+É o relatório. Decido.
+Nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança impetrados contra atos de Ministros de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+No caso dos autos, trata-se de mandado de segurança impetrado contra decisão proferida por Desembargador do Tribunal de Justiça do Estado de Mato Grosso do Sul, razão pela qual incide o teor da Súmula n. 41 do STJ, segundo a qual:
+O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros Tribunais ou dos respectivos órgãos.
+Dessa forma, considerando que esta Corte não detém competência originária para processar e julgar mandado de segurança impetrado contra ato de membro de outro tribunal, a presente ação deve ser indeferida liminarmente.
+Ante o exposto, indefiro a petição inicial e julgo extinto o processo, sem resolução de mérito, nos termos do art. 485, I, do Código de Processo Civil, ficando prejudicado o exame do pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
