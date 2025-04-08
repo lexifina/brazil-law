@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por UNASFUP - UNIAO NACIONAL DO FUNCIONALISMO PUBLICO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - PRELIMINAR - NULIDADE DA SENTENÇA - AÇÃO DE EXECUÇÃO - CHEQUE - PRESCRIÇÃO INTERCORRENTE - AUSÊNCIA DE INÉRCIA PROLONGADA. SE O MAGISTRADO APRESENTOU OS MOTIVOS PARA ADOÇÃO DO ENTENDIMENTO EXPRESSO NA SENTENÇA IMPUGNADA, AINDA QUE BREVE E CONCISA, NÃO SE VISLUMBRA RAZÕES PARA DECLARAR-SE A SUA NULIDADE POR AUSÊNCIA DE FUNDAMENTAÇÃO. A PRESCRIÇÃO INTERCORRENTE SOMENTE DEVE SER DECLARADA SE COMPROVADO QUE A PARALISAÇÃO DO FEITO OCORREU POR ATO PROCRASTINATÓRIO DO CREDOR. SE OS ELEMENTOS DE CONVICÇÃO PRESENTES NOS AUTOS NÃO CORROBORAM A TESE DE INÉRCIA DO CREDOR, DEVE SER AFASTADA A ORESCRICÃO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 921, III, §§ 1º, 2º e 4º, e 924, V, do CPC; e 40, § 2º, da Lei n. 6.830/1980, no que concerne à incidência da prescrição intercorrente, porquanto houve inércia da exequente em dar prosseguimento ao processo por período superior ao da prescrição do título executivo, trazendo a seguinte argumentação:
+Isto porque, ao apreciar o apelo interposto pela exequente, a egrégia 14ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais deixou de reconhecer a incidência da prescrição intercorrente por considerar que o exequente não se manteve inerte no curso do processo, aduzindo ainda que as alterações produzidas pela Lei nº 14.195/2021 não seriam aplicáveis ao caso, assim se pronunciando:
+ ..
+O colendo Superior Tribunal de Justiça decidiu, em sede de Incidente de Assunção de Competência (REsp 1.604.412/SC), que o termo inicial do prazo prescricional, na vigência do CPC de 1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano, por aplicação analógica do art. 40, § 2º, da Lei 6.830/1980, tomando-se por parâmetro, para a prescrição intercorrente, a inércia do exequente por prazo superior ao de prescrição do direito material. Confira-se:
+ ..
+Não obstante, o órgão colegiado do Tribunal a quo , ao negar provimento à apelação, consignou que a inércia da exequente em dar prosseguimento ao processo seria elemento essencial para a configuração da prescrição intercorrente.
+ ..
+No presente feito, verifica-se que a ação foi proposta em 10/03/2009 (seq. 1, doc. 2, p. 2).
+A executada somente veio a ser citada, de forma ficta (edital), em 04/12/2019 (seq. 1, doc. 12, p. 20), ou seja, mais de 20 anos após a propositura da ação.
+Tal fato, por si só, justificaria a incidência da prescrição intercorrente, ensejando a extinção do processo com resolução do mérito, nos moldes do art. 924, V, do Código de Processo Civil.
+Ainda que assim não fosse, a prescrição intercorrente restou caracterizada nos autos pela inércia da exequente em praticar atos de impulso processual, por período de tempo superior ao estabelecido para a prescrição do título executivo.
+O processo foi suspenso em 23/09/2016, por ausência de localização de patrimônio penhorável do executado (seq. 1, doc. 10, p. 20), permanecendo suspenso o curso do prazo prescricional pelo período de 1 ano, conforme preceitua o artigo 921, §1º, do CPC.
+Decorrido este lapso de tempo, sem manifestação da exequente, a prescrição retomou seu curso, conforme dispunha o § 4º do art. 921 do CPC, vigente à época da suspensão.
+ ..
+A exequente somente veio a se manifestar novamente nos autos em 27/03/2018 (seq. 1, doc. 12, p. 4), superando assim o período de 6 meses previstos em lei, o que caracteriza de maneira insofismável o decurso do prazo prescricional (fls. 400-403).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Com efeito, muito embora o processo executivo, fundado no inadimplemento de cheques vencidos em fevereiro e março/2009, tenha sido ajuizado em 2009, sem que, até o momento, tenham sido penhorados bens da executada, verifica-se, data vênia, que a credora não permaneceu inerte.
+Isso porque, compulsando detidamente os autos, percebe-se que ao longo destes anos de tramitação do feito, a exequente requereu a realização de diversas diligências para localização e citação da devedora, bem como penhora de seus bens.
+ ..
+In casu, muito embora o processo tenha sido arquivado por ausência de bens penhoráveis em setembro/2016, vindo a exequente a se manifestar novamente somente em março/2018, ainda assim não se verifica a ocorrência da prescrição, pois neste período houve a distribuição (novembro/2016) e tramitação da carta precatória expedida para tentativa de localização e penhora de bens da executada, a qual somente foi juntada ao processo sem o devido cumprimento em agosto/2018, afastando eventual inércia atribuível à credora.
+ ..
+Diante disso, impõe-se, então, concluir que a eventual inércia do exequente ao longo da tramitação do feito não superou o prazo legal, não havendo que se falar em prescrição intercorrente, razão pela qual a sentença deve ser anulada (fls. 391-394).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
