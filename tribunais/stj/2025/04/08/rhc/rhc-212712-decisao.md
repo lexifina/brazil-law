@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por FRANCISCO DAS CHAGAS ANDRADE, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO.
+Depreende-se dos autos que o recorrente foi sentenciado à pena de sete anos, em regime inicial semiaberto, como incurso nos crimes capitulados no art. 2º, §§ 2º, 3º e 4º, incisos I, III e V da Lei 12.850/13, sendo negado o direito de recorrer em liberdade.
+Irresignada, a defesa impetrou habeas corpus perante o tribunal de origem que denegou a ordem, em acórdão de fls. 84-103.
+Na hipótese, a Defesa aponta, em síntese, a ocorrência de constrangimento ilegal consubstanciado na incompatibilidade do regime estabelecido na sentença com a prisão preventiva.
+Aduz, ainda, ausência dos requisitos ensejadores da prisão preventiva, bem como ausência de fundamentação idônea da decisão que manteve a segregação cautelar, defendendo a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Requer, ao final, a revogação da prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Pedido de liminar indeferido às fls. 134-135.
+Informações prestadas às fls. 140-142. O Ministério Público Federal em parecer, às fls. 146-152, manifestou pelo "não provimento do recurso ordinário".
+É o relatório. DECIDO.
+No caso em tela, tenho que a sentença condenatória que manteve a prisão preventiva do ora recorrente está suficientemente fundamentada, com a indicação da existência nos autos de circunstâncias ensejadoras da custódia cautelar, notadamente pelo fundado receio de reiteração delitiva pois "o réu descumpriu as cautelares impostas anteriormente (comparecer a todos os atos do processo e manter endereço atualizado), estando atualmente em local desconhecido, e considerando a periculosidade da organização criminosa que ele integra, é necessário que ele aguarde o julgamento de eventual recurso em estabelecimento penal compatível com o regime semiaberto fixado nesta sentença"- fl. 48.
+Conforme a orientação jurisprudencial do STJ, o descumprimento de medidas cautelares impostas é considerado fundamento idôneo para a decretação da custódia cautelar.
+Nesse sentido:(AgRg no HC n. 837.521/PE, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 18/3/2024);(AgRg no HC n. 803.539/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2023, DJe de 27/10/2023); (AgRg no RHC n. 181.048/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+No caso em questão, quanto à alegação de incompatibilidade entre o regime estabelecido na sentença, qual seja, o semiaberto, e a segregação cautelar, o Tribunal a quo se manifestou que a sentença já determinou o cumprimento da medida em estabelecimento compatível com o regime semiaberto e, no caso de inexistência, fixou a prisão domiciliar, de modo a compatibilizar a cautela com o regime de cumprimento de pena fixado- fl. 87.
+Esta Corte possui entendimento consolidado em ambas as suas turmas criminais no sentido de que não há incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, caso preenchidos os requisitos do art. 312 do Código de Processo Penal e desde que, em homenagem ao princípio da homogeneidade, o acusado seja mantido em local compatível com o fixado na sentença, o que ocorreu na hipótese.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA. REGIME SEMIABERTO. INCOMPATIBILIDADE. NÃO OCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+ ..
+3. A fixação do regime intermediário não veda a negativa do recurso em liberdade, desde que se compatibilize a custódia preventiva com o regime prisional imposto na sentença condenatória.
+4. Na espécie, não há constrangimento ilegal a ser coibido, na medida em que se extrai da sentença condenatória a determinação do Juiz para que "Oficie-se ao senhor coordenador da SEAP para que providencie, imediatamente, a transferência do condenado para estabelecimento prisional compatível com o regime de pena ora fixado".
+5. Agravo regimental desprovido."(AgRg no RHC n. 200.685/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+Nesse mesmo sentido: (AgRg no RHC n. 209.698/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.); (AgRg no HC n. 929.811/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.); (AgRg no HC n. 951.702/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 4/12/2024, DJEN de 9/12/2024.); (HC n. 813.984/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe de 12/11/2024.); (AgRg no RHC n. 209.698/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025.)
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem -se.
+EMENTA
