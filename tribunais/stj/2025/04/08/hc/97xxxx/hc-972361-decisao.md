@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de WENDELL YGOR CARVALHO E SILVA.
+Alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais.
+O paciente foi condenado como incurso no art. 33, c/c o art. 40, V, ambos da Lei n. 11.343/2006, e no art. 14 da Lei n. 10.826/2003,às penas de 9 (nove) anos, 1 (um) mês e 20 (vinte) dias de reclusão, no regime inicial fechado, e a 2 (dois) meses e 10 (dez) dias de detenção, no regime inicial semiaberto, mais pagamento de 691 (seiscentos e noventa e um) dias-multa (e-STJ, fl. 43).
+No presente writ, o impetrante alega constrangimento ilegal decorrente da suposta ilegalidade da busca pessoal que teria sido realizada a partir de denúncia anônima.
+Alega-se também que o paciente está preso desde 11 de novembro de 2023, há mais de 1 ano e 45 dias (e-STJ, fl. 2-23).
+Requer, liminarmente, a revogação da prisão preventiva e, no mérito, a declaração de nulidade da busca pessoal e das provas dela decorrentes.
+O pedido de liminar foi indeferido (e-STJ, fls. 440-441).
+As informações foram prestadas às fls. 528-676.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, nos termos da seguinte ementa (e-STJ, fl. 681):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. INCOMPETÊNCIA DO STJ. PRECEDENTES. NÃO CONHECIMENTO. - 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de recurso ordinário/especial. - 2ª Preliminar: não conhecimento de ofício; ausência de competência. Precedentes: STJ (HC n.º 245.731/MS; HC n.º 248.757/SP). - 3ª Preliminar: não conhecimento das questões suscitadas ou, mesmo de ofício, da ordem, sob pena de contrariar o art. 105, inciso III, "a", "b" e "c" da CF. - 4ª preliminar: pelo não conhecimento deste habeas corpus, por ausência de interesse processual e com base unirrecorribilidade das decisões judiciais. - Parecer pelo NÃO CONHECIMENTO do habeas corpus.
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de 8/4/2024, publicada no Diário Oficial da União de 9/4/2024.
+Acerca da alegação de ilegalidade da busca pessoal, assim se manifestou o Tribunal de origem (e-STJ, fls. 417-418):
+"A alegada falta de justa causa para realização da busca pessoal, não merece prosperar. Após detida análise do caderno processual, entendo que não há que se falar em ilegalidade na abordagem do réu, uma vez que, conforme afirmado pelos policiais militares na fase administrativa e em juízo, havia notícia de que o acusado estaria transportando droga em um ônibus, que teria saído de Brasília com destino a Unaí/MG.
+Há, ainda, a informação prestada, em juízo, pelo Sargento da Polícia Militar, Venícios Francisco da Silva, integrante do serviço de inteligência do 28º BPM de Unaí/MG, no sentido de que era do seu conhecimento que acusado era se tratava de pessoal conhecida no meio policial, mormente pela prática do tráfico de drogas.
+Ato contínuo, antes mesmo de ser abordado, o acusado, no momento em que descia do ônibus, rasgou a sacola com cocaína, jogou parte da droga no rosto do policial Venícios (pó branco), bem como no assoalho do ônibus, e ainda arremessou para fora do ônibus a outra parte da droga (maconha) e duas munições, e ainda tentou se evadir de dentro do ônibus. Tais fatos acabaram por legitimar a ação por parte do agente policial, restando caracterizada a justa causa suficiente para que se procedesse à abordagem do acusado e a busca pessoal, que, inclusive, foi realizada de forma superficial, apenas para averiguar se estava armado.
+Relembro que o acusado teve contra si efetuada a busca pessoal somente após a ocorrência desses fatos. Como se vê, a abordagem do acusado não se deu simplesmente em razão da delação anônima, mas também em razão de fundada suspeita, consubstanciada no fato de que já era conhecido no meio policial pela prática do tráfico de drogas e por também ter jogado droga no rosto de um dos militares e tentado fugir.
+O próprio acusado, em juízo, apesar de negar os fatos, da forma em que foram narrados pelos policias, afirmou que trazia certa quantidade de cocaína e que "dispensou o pó", - ou seja, antes mesmo da abordagem policial. Vide Pje mídias.
+Os depoimentos dos milicianos ouvidos em sede de instrução corroboram a veracidade do alegado nas provas documentais, não havendo nada nos autos que retire a credibilidade das suas declarações, não há sequer indícios de abusividade por parte dos militares ou que eles teriam interesse em prejudicar gratuitamente o acusado.
+Evidente que o caso revela que a diligência deflagrada pelos policiais até o ônibus em que o acusado se encontrava foi precedida de denúncia anônima específica, que apontou o acusado como o responsável pelo transporte da droga.
+Diante desse cenário, não soa razoável tachar de ilegal a conduta dos militares que evitaram a fuga do acusado e conduziram a busca pessoal."
+Com efeito, conforme art. 244 do Código de Processo Penal, a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+No caso, o Tribunal de origem destacou que a diligência deflagrada pelos policiais até o ônibus em que o acusado se encontrava foi precedida de denúncia anônima específica, que apontou o acusado como o responsável pelo transporte da droga. Contudo. antes mesmo de ser abordado, o acusado, no momento em que descia do ônibus, rasgou a sacola com cocaína, jogou parte da droga no rosto do policial, bem como no assoalho do ônibus, e ainda arremessou para fora do ônibus a outra parte da droga (maconha) e duas munições.
+A existência de informações específicas sobre a prática da traficância, seguida de prévio monitoramento pelos policiais, justifica a busca pessoal, tendo em vista que os agentes visualizaram o paciente dispensando a droga, além de jogar parte da cocaína no rosto do policial, razão pela qual realizaram a abordagem.
+Desse modo, não verifico flagrante ilegalidade na busca pessoal, pois havia fundada suspeita para a abordagem e busca pessoal.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO. BUSCA PESSOAL E VEICULAR. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito. Equipara-se a busca veicular à busca pessoal, conforme jurisprudência consolidada.
+2. A existência de denúncias anônimas específicas e ricas em detalhes acerca de um determinado veículo com pessoas praticando delito de porte de arma de fogo, seguida de prévio monitoramento pelos policiais da rota traçada pelo motorista, justifica a busca veicular e a pessoal em via pública.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 899.498/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/5/2024, DJe de 3/6/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus, mantendo a prisão preventiva do agravante, acusado de tráfico de drogas, por não vislumbrar flagrante ilegalidade que justificasse a revogação da custódia cautelar.
+2. A decisão de primeira instância converteu a prisão em flagrante em preventiva, com base na gravidade concreta do crime, reincidência do acusado e risco à ordem pública.
+O Tribunal de Justiça manteve a prisão preventiva, destacando a legalidade da abordagem policial e a necessidade de garantir a ordem pública.
+II. Questão em discussão
+3. A questão em discussão consiste em verificar se a prisão preventiva está devidamente fundamentada, conforme os requisitos do art. 312 do CPP, e se a substituição por medidas cautelares diversas da prisão seria suficiente para garantir a ordem pública e evitar a reiteração criminosa.
+III. Razões de decidir
+4. A prisão preventiva foi mantida com base na gravidade concreta do crime de tráfico de drogas, evidenciada pela quantidade de entorpecentes apreendidos e pela reincidência do acusado, justificando a necessidade de garantir a ordem pública.
+5. A abordagem policial foi considerada legal, pois baseada em denúncia especificada e fundada suspeita, conforme jurisprudência do STJ, que permite a busca pessoal e veicular em tais circunstâncias.
+6. As condições pessoais favoráveis do agravante, como primariedade e residência fixa, não são suficientes para afastar a prisão preventiva quando presentes os requisitos legais e o risco à ordem pública.
+IV. Dispositivo e tese
+7. Recurso desprovido.
+Tese de julgamento: "1. A prisão preventiva é justificada pela gravidade concreta do crime e pela reincidência dos acusados, evidenciando risco à ordem pública. 2. A abordagem policial é legal quando baseada em denúncia específica e fundada suspeita, conforme jurisprudência do STJ. 3. Condições pessoais favoráveis não afastam a prisão preventiva quando presentes os requisitos legais e o risco à ordem pública."
+Dispositivos relevantes citados: CPP, arts. 240, § 2º, 244, 312, 313, 319.
+Jurisprudência relevante citada: STJ, AgRg no HC 927.044/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 7/10/2024; STJ, AgRg no RHC 195.432/ES, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 1/7/2024.
+(AgRg no HC n. 955.528/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/3/2025, DJEN de 11/3/2025.)
+Verifica-se, portanto, que a fundamentação do acórdão está em consonância com a jurisprudência dessa Corte Superior, não se observando qualquer constrangimento ilegal.
+Por fim, a alegação de prazo da prisão não foi apreciada pela Corte de origem, o que afasta a competência do Superior Tribunal de Justiça - STJ para análise da matéria, sob pena de incorrer em indevida supressão de instância.
+Diante do expost o, deixo de conhecer do habeas corpus substitutivo e não concedo a ordem de ofício.
+Publique-se. Intimem-se.
+EMENTA
