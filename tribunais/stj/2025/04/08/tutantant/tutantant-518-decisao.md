@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Tutela Antecipada Antecedente, apresentada pelo ESPÓLIO DE JOSÉ OSWALDO CORREA, VIVIANE CORREA e VANESSA CORREA BORGES. Os requerentes alegam, em síntese, que: (i) o acórdão recorrido é teratológico e viola diversos dispositivos legais, com o os artigos 61 e 612 do CPC, ao manter a competência do juízo cível para tratar de questões afetas ao juízo do inventário, como a exibição de documentos relacionados a adiantamento de legítima; (ii) a decisão que determinou a quebra de sigilo fiscal das herdeiras, sem comprovação prévia da saúde financeira do autor da herança, viola direitos fundamentais à intimidade e ao sigilo de dados, sendo baseada apenas em suposições; e (iii) a obrigação de apresentar contratos de mútuo é indevida, pois tais informações já estão documentadas nas declarações de imposto de renda do autor da herança, não havendo necessidade de nova produção documental pelas recorrentes.
+Ao final, requer: (i) o deferimento de efeito suspensivo ao Recurso Especial interposto, nos termos do art. 1.029, §5º, III, do CPC; (ii) a reforma do acórdão recorrido, especialmente para afastar a obrigação de exibição de documentos pelas recorrentes e a quebra de seu sigilo fiscal; (iii) o reconhecimento da incompetência do juízo cível para tratar de questões relacionadas ao espólio, com remessa ao juízo competente.
+Às e-STJ fls. 168-174, os requerentes retornaram ao feito para informar que o "Tribunal de Justiça do Estado do Rio de Janeiro proferiu decisão nos autos do Recurso Especial nº 0859206-98.2023.8.19.0001, concedendo o efeito suspensivo ao referido recurso", culminando na perda de objeto do presente pedido.
+É o relatório.
+Decido.
+Em razão da perda superveniente de seu objeto, julgo prejudicada a presente Tutela Antecipada Antecedente, nos termos do art. 34, inc. XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
