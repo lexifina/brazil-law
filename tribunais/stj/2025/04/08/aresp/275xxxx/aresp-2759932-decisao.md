@@ -1,0 +1,42 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por JOSE RAIMUNDO LOUZEIRO RIBEIRO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 24/07/2024.
+Concluso ao gabinete em: 10/12/2024.
+Ação: de despejo, ajuizada por JOAO DOS SANTOS FERREIRA - ESPÓLIO, representado por ROBERTA DOS SANTOS HERINGER DA SILVA - INVENTARIANTE, em face do ora agravante.
+Na inicial, narra, em síntese, que as partes firmaram contrato de locação, mas que o ora agravante não efetuou o pagamento dos aluguéis desde janeiro de 2019.
+Sentença: julgou procedentes os pedidos para "DECRETAR a resolução do contrato de locação e o despejo do imóvel com base no art. 9º, III, da lei nº 8.245/1991, assinalando à parte ré o prazo de quinze dias para desocupação voluntária do imóvel com base no art. 63, §1º, "b", do mesmo diploma legal" (e-STJ fl. 42).
+Acórdão: negou provimento ao agravo de instrumento interposto pela parte ora agravante, nos termos da seguinte ementa (e-STJ fl. 76):
+"AGRAVO DE INSTRUMENTO. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. DECISÃO DO JUÍZO QUE INDEFERIU O PEDIDO DE DESBLOQUEIO DOS VALORES BLOQUEADOS NAS CONTAS DO AGRAVANTE. PRETENSÃO RECURSAL DE DESBLOQUEIO SOB A ALEGAÇÃO DE QUE SE TRATAM DE PROVENTOS DE BENEFÍCIO PREVIDENCIÁRIO. IMPENHORABILIDADE PREVISTA NO ART. 833, IV, DO CPC/2015 QUE NÃO SE PRESUME. AGRAVANTE QUE NÃO COMPROVOU A NATUREZA ALIMENTAR DO VALOR PENHORADO, CONFORME PREVÊ O ART. 854, §3º DO CPC/2015. MOVIMENTAÇÃO BANCÁRIA QUE DEMONSTRA QUE O VALOR BLOQUEADO NÃO SE REFERE AO BENEFÍCIO PREVIDENCIÁRIO QUE É DEPOSITADO NA CONTA DO AGRAVANTE, MAS SIM A DEPÓSITOS EM DINHEIRO DE PROVENIÊNCIA DESCONHECIDA. PRINCÍPIO DA MENOR ONEROSIDADE DO DEVEDOR QUE NÃO É ABSOLUTO. AUSÊNCIA DE INDICAÇÃO DE OUTROS BENS PASSÍVEIS DE CONSTRIÇÃO. INEXISTÊNCIA DE PROVA DA ORIGEM DOS VALORES PENHORADOS, NÃO HAVENDO, PORTANTO, COMO ACOLHER O DESBLOQUEIO PRETENDIDO. PRECEDENTES DO TJRJ. NEGADO PROVIMENTO AO RECURSO."
+Embargos de Declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega violação do art. 833, IV, e X do CPC, sustentando, em síntese, que: (i) "são impenhoráveis a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos" (e-STJ fl. 153); (ii) "todos os valores pertencentes ao devedor, até o limite de 40 (quarenta) salários mínimos, mantidos em conta-corrente, caderneta de poupança ou fundos de investimentos são impenhoráveis, ressalvada a comprovação de má-fé, abuso de direito ou fraude" (e-STJ fl. 157); (iii) "Não há dúvida quanto à NATUREZA ALIMENTAR dos saldos bancários sobre os quais recaiu a penhora online determinada pelo juízo, de R$100,23 da conta do executado junto à Caixa Econômica Federal" (e-STJ fl. 157).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+A jurisprudência do STJ se posiciona no sentido de que, "Em regra, até o limite de 40 (quarenta) salários mínimos, a impenhorabilidade de valores depositados em conta-corrente deve ser respeitada, mas não pode servir de escudo contra a efetividade dos meios executórios, visto que o intuito da norma contida no art. 833, X, do CPC/2015 é apenas o de resguardar a existência de um patrimônio mínimo capaz de proporcionar uma vida digna ao devedor e sua família" (REsp 2.055.518/DF, Terceira Turma, DJe de 15/9/2023).
+Assim, ainda conforme os entendimentos firmados, "Não há óbice à penhora de verbas sem origem comprovadamente salarial ou alimentar, notadamente quando usadas como disponibilidade financeira para pagamentos diversos, tais como pagamentos de compras com cartão, pagamento de contas de luz, gás, pix, saques e empréstimos" (AgInt no REsp 2.121.865/PR, Terceira Turma, DJe de 18/09/2024).
+A Corte de origem, ao julgar o recurso interposto pelo agravante, concluiu o seguinte (e-STJ fls. 82/83):
+"In casu, foi realizado o bloqueio pontual de R$100,23 da conta do agravante junto à Caixa Econômica em 08/06/2023, conforme o detalhamento da ordem judicial de bloqueio de valores de fls. 244:
+(..)
+Conforme fundamentadamente analisado pelo magistrado a quo, o valor bloqueado não se refere ao benefício previdenciário que é depositado na conta do agravante, uma vez que o valor de R$ 984,87 foi anteriormente creditado e, no mesmo dia, realizado saque no valor de R$ 980,00.
+Confira-se o extrato da conta do agravante na Caixa Econômica Federal, em que é possível verificar que o valor bloqueado se refere a depósitos em dinheiro de proveniência desconhecida:
+(..)
+Nesse sentido, cabe destacar que o agravante não comprova que os R$ 100,23 oriundos da Caixa Economica Federal, ou os R$ 110,37 oriundos do Pagseguro Internet S. A., tenham natureza de verba previdenciária.
+Ressalte-se que o princípio da menor onerosidade do devedor, previsto no artigo 805 do CPC/2015, não é absoluto e, na hipótese dos autos, não há indicação de outros bens passíveis de constrição." (grifou-se)
+Outrossim, quando do julgamento dos embargos de declaração opostos, aclarou que (e-STJ fls. 133/134):
+(..) "o acórdão recorrido analisou que o Superior Tribunal de Justiça assentou entendimento no sentido de ser impenhorável verba inferior a 40 salários-mínimos localizados não somente na caderneta de poupança, mas também os existentes em conta corrente, fundo de investimento ou em papel-moeda, contudo, cabe ao executado o ônus de comprovar a natureza alimentar do valor penhorado, conforme artigo 854, §3º, do CPC/2015.
+No caso em analise, o valor bloqueado se refere a depósitos em dinheiro de proveniência desconhecida, sendo certo que o embargante não comprovou que o valor possui natureza de verba previdenciária.
+(..)
+Consta do acórdão recorrido que o princípio da menor onerosidade do devedor, previsto no artigo 805 do CPC/2015, não é absoluto e, na hipótese dos autos, não há indicação de outros bens passíveis de constrição." (grifou-se)
+Desse modo, nota-se que o TJ/RJ, ao manter a decisão de bloqueio dos valores encontrados na conta bancária do executado, está em consonância com a jurisprudência do STJ, não merecendo reparo - incidência da Súmula 568/STJ.
+- Do reexame de fatos e provas
+Ademais, alterar o decidido no acórdão impugnado, quanto à excepcional possibilidade de penhora, na hipótese ora analisada, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula n. 568/STJ, CONHECER PARCIALMENTE do recurso especial para, nessa extensão, NEGAR-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO. PENHORA DE VALORES ENCONTRADOS EM CONTA BANCÁRIA. VALOR INFERIOR A QUARENTA SALÁRIOS MÍNIMOS. SITUAÇÃO EXCEPCIONAL. IMPENHORABILIDADE AFASTADA. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação de despejo.
+2. A jurisprudência do STJ se posiciona no sentido de que, "Em regra, até o limite de 40 (quarenta) salários mínimos, a impenhorabilidade de valores depositados em conta-corrente deve ser respeitada, mas não pode servir de escudo contra a efetividade dos meios executórios, visto que o intuito da norma contida no art. 833, X, do CPC/2015 é apenas o de resguardar a existência de um patrimônio mínimo capaz de proporcionar uma vida digna ao devedor e sua família" (REsp 2.055.518/DF, Terceira Turma, DJe de 15/9/2023).
+3. "Não há óbice à penhora de verbas sem origem comprovadamente salarial ou alimentar, notadamente quando usadas como disponibilidade financeira para pagamentos diversos, tais como pagamentos de compras com cartão, pagamento de contas de luz, gás, pix, saques e empréstimos" (AgInt no REsp 2.121.865/PR, Terceira Turma, DJe de 18/09/2024).
+4. Alterar o decidido no acórdão impugnado, quanto à excepcional possibilidade de penhora, na hipótese ora analisada, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
