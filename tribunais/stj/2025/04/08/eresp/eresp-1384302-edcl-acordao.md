@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 02/04/2025 a 08/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 819):
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. O recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+2. Caso no qual a decisão agravada indeferiu liminarmente os embargos de divergência aos seguintes fundamentos: (i) não é cabível o referido recurso em razão da incidência da Súmula 315/STJ; (ii) nas razões do recurso sob exame há apenas a menção a ementa ou pequenos trechos do acórdão elencado como paradigma, contudo sem qualquer forma de comparação com o que foi decidido no acórdão ora embargado de divergência.
+3. No presente agravo interno, o agravante limitou-se a deduzir razões sobre critérios de reajuste de mensalidades de contratos de plano de saúde.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. Agravo interno não conhecido.
+Os embargantes apontam omissão no acórdão embargado argumentando que: (i) houve impugnação aos fundamentos da decisão agravada, tendo indicado com precisão os motivos pelos quais não se aplica o óbice da Súmula 315/STJ na espécie; (ii) demonstrou o cotejo analítico, apontando que "o acórdão embargado (e-STJ fls. 666/671) interpretou os arts. 131, 420, parágrafo único, e 427, todos do CPC/1973 (em vigor na época da interposição do recurso especial, em 06.12.2012), de maneira divergente daquela feita pela Corte Especial no tema repetitivo n. 572/STJ, bem como pela Terceira Turma" (fl. 835); (iii) "demonstrou como os casos comparados são semelhantes: todo o debate gira em torno de contratos antigos de plano de saúde, anteriores à Lei n. 9.656/1998 e à criação da Agência Nacional de Saúde Suplementar. Aqueles pactos previam limites temporais de internação. Por ordem da SUSEP, Superintendência de Seguros Privados (órgão regulador à época), as restrições foram extintas. A fim de manterem o equilíbrio atuarial das avenças modificadas  que tiveram cobertura ampliada com a nova cobertura ilimitada  , as embargantes aplicaram o percentual de 2% de reajuste às mensalidades, após autorização expressa da SUSEP. Irresignado, o MPMA ajuizou ação civil pública para discutir se o reajuste aprovado pelo órgão regulador é ou não correto" (fl. 835).
+Com impugnação (fls. 847/854).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado fez incidir à controvérsia a Súmula 182/STJ, visto que a decisão agravada indeferiu liminarmente os embargos de divergência, tendo por base a seguinte fundamentação: (i) não é cabível o referido recurso em razão da incidência da Súmula 315/STJ; (ii) nas razões do recurso sob exame há apenas a menção a ementa ou pequenos trechos do acórdão elencado como paradigma, contudo sem qualquer forma de comparação com o que foi decidido no acórdão ora embargado de divergência. Contudo, a então agravante - ora embargante - não impugnou, especificamente, todos os fundamentos adotados na decisão agravada.
+Há omissão quando o órgão julgador deixa de se pronunciar sobre questão relevante à solução da controvérsia ou quando, ainda que se pronuncie, o faz de forma não fundamentada, sendo que no caso não se verifica qualquer das situações.
+Nesse diapasão, não há falar em omissão no aresto embargado, que foi por demais claro e completo ao julgar o recurso.
+Ora, a mera discordância com a solução jurídica empregada no bojo do decisum embargado não dá ensejo à oposição de embargos de declaração, na medida em que tal modalidade recursal apenas ostenta efeito integrativo.
+Ante o exposto, rejeito os embargos de declaração,
+É como voto.
