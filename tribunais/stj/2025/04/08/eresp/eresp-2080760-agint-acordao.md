@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Teodoro Silva Santos, Afrânio Vilela, Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina e Gurgel de Faria votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL . AUSÊNCIA DE CÓPIA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. NÃO APRESENTAÇÃO DA CERTIDÃO DE JULGAMENTO. VÍCIO INSANÁVEL. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS RECORRIDO E PARADIGMA. PROVIMENTO NEGADO.
+1. Os embargos de divergência objetivam dissipar a adoção de teses diversas para casos semelhantes; sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Para tanto, cabe à parte embargante a comprovação do dissídio jurisprudencial nos moldes dos arts. 1.043 e 1.044 do Código de Processo Civil (CPC) e 266, § 1º, c/c o art. 255, §§ 1º e 2º, ambos do Regimento Interno do Superior Tribunal de Justiça.
+2. Segundo entendimento do STJ, a certidão de julgamento compõe o inteiro teor do acórdão e a sua falta configura vício substancial insanável.
+3. Nos termos da jurisprudência desta Corte, é incabível a interposição de embargos de divergência em relação à tese de violação do art. 1.022 do CPC, em razão das situações fáticas processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por SINDIFISCO NACIONAL - SIND. NAC. DOS AUD. FISCAIS DA RECEITA FEDERAL DO BRASIL e OUTROS da decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente os embargos de divergência (fls. 1.367/1.371).
+A parte recorrente alega que juntou a cópia do inteiro teor do acórdão paradigma (fls. 1.337/1.342), bem como citou a fonte oficial em meio eletrônico. Defende a desnecessidade de juntada da certidão de julgamento por não ser exigência prevista em lei.
+Argumenta que "o recurso pacificador está fundado em divergência jurisprudencial de NATUREZA PROCESSUAL, no que diz respeito à necessidade de atribuição de efeitos infringentes aos embargos de declaração quando se alega omissão/obscuridade (art. 1.022, inciso II, do CPC) a respeito de erro de fato. Note-se que A DISCUSSÃO SE FUNDA EM QUESTÃO ABSTRATA, não se adentrando à situação fática, mas, tão somente, à necessidade de se atribuir efeitos infringentes aos aclaratórios fundados na hipótese supramencionada" (fls. 1.383/1.384).
+Sustenta a inaplicabilidade da Súmula 315/STJ, asseverando que, "muito embora o acórdão embargado tenha aplicado a Súmula 7/STJ, acabou por enfrentar o mérito" (fl. 1.387).
+Requer a reconsideração da decisão agravada ou a apresentação do processo ao órgão colegiado competente.
+A parte adversa não apresentou impugnação (fl. 1.396).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL . AUSÊNCIA DE CÓPIA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. NÃO APRESENTAÇÃO DA CERTIDÃO DE JULGAMENTO. VÍCIO INSANÁVEL. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS RECORRIDO E PARADIGMA. PROVIMENTO NEGADO.
+1. Os embargos de divergência objetivam dissipar a adoção de teses diversas para casos semelhantes; sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Para tanto, cabe à parte embargante a comprovação do dissídio jurisprudencial nos moldes dos arts. 1.043 e 1.044 do Código de Processo Civil (CPC) e 266, § 1º, c/c o art. 255, §§ 1º e 2º, ambos do Regimento Interno do Superior Tribunal de Justiça.
+2. Segundo entendimento do STJ, a certidão de julgamento compõe o inteiro teor do acórdão e a sua falta configura vício substancial insanável.
+3. Nos termos da jurisprudência desta Corte, é incabível a interposição de embargos de divergência em relação à tese de violação do art. 1.022 do CPC, em razão das situações fáticas processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+4. Agravo interno a que se nega provimento.
+VOTO
+Não obstante a plausibilidade dos argumentos levantados pela parte recorrente quanto à demonstração da divergência, o fato é que a insurgência recursal não merece prosperar.
+Os embargos de divergência objetivam dissipar a adoção de teses diversas para casos semelhantes; sua função precípua é a de uniformizar a jurisprudência interna do Tribunal, de modo a retirar antinomias entre julgamentos sobre questões ou teses submetidas à sua apreciação. Para tanto, cabe à parte embargante a comprovação do dissídio jurisprudencial nos moldes dos arts. 1.043 e 1.044 do Código de Processo Civil (CPC) e 266, § 1º, c/c o art. 255, §§ 1º e 2º, ambos do Regimento Interno do Superior Tribunal de Justiça. A propósito:
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+II - revogado.
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia;
+IV - revogado.
+§ 1º. - Poderão ser confrontadas teses jurídicas contidas em julgamentos de recursos e de ações de competência originária.
+§ 2º. - A divergência que autoriza a interposição de embargos de divergência pode verificar-se na aplicação do direito material ou do direito processual.
+§ 3º. - Cabem embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros.
+§ 4º. - O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, onde foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na rede mundial de computadores, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Art. 1.044. No recurso de embargos de divergência, será observado o
+procedimento estabelecido no regimento interno do respectivo tribunal superior.
+Art. 266. Das decisões da Turma, em recurso especial, poderão, em quinze dias, ser interpostos embargos de divergência, que serão julgados pela Seção competente, quando as Turmas divergirem entre si ou de decisão da mesma Seção. Se a divergência for entre Turmas de Seções diversas, ou entre Turma e outra Seção ou com a Corte Especial, competirá a esta o julgamento dos embargos.
+§ 1º. A divergência indicada deverá ser comprovada na forma do disposto no art. 255, §§ 1o. e 2o., deste Regimento.
+Art. 255  ..
+§ 1º. A comprovação de divergência, nos casos de recursos fundados na alínea c do inciso III do art. 105 da Constituição, será feita:
+a) por certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade do próprio advogado, sob sua responsabilidade pessoal;
+b) pela citação de repositório oficial, autorizado ou credenciado, em que os mesmos se achem publicados.
+§ 2º. Em qualquer caso, o recorrente deverá transcrever os trechos dos
+acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Inicialmente, em relação à alegação de que houve juntada do inteiro teor do acórdão paradigma, observo que a parte recorrente não apresentou a certidão de julgamento que, segundo entendimento pacífico desta Corte Superior, compõe o inteiro teor do acórdão. Logo, a sua falta, configura vício substancial e insanável.
+Nesse sentido, veja-se precedentes da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMPROVAÇÃO DA DIVERGÊNCIA. AUSÊNCIA DA JUNTADA DO INTEIRO TEOR DO ACÓRDÃO PARADIGMA. INDICAÇÃO DO DIÁRIO DA JUSTIÇA ELETRÔNICO E DO SITE DO STJ. INSUFICIÊNCIA. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC. JURISPRUDÊNCIA CONSOLIDADA. REQUISITOS LEGAIS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. MATÉRIA DE ORDEM PÚBLICA. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está consolidada no sentido de que: (a) a certidão de julgamento compõe o inteiro teor do acórdão, não se admitindo, para comprovação da divergência, julgado dela desacompanhado; (b) a referência ao site do Tribunal (www.stj.jus.br) não é suficiente para substituir a juntada do inteiro teor do acórdão paradigma, sendo necessária a indicação de link específico que leve diretamente ao inteiro teor do julgado; (c) a menção ao Diário da Justiça em que publicado o aresto divergente não atende às exigências formais para comprovação do dissídio jurisprudencial, ante a ausência de inteiro teor do acórdão naquela fonte; e (d) a inobservância desses requisitos constitui vício substancial, o que afasta a aplicação do parágrafo único do art. 932 do CPC.
+2. "Não tendo sido ultrapassado o juízo de admissibilidade dos embargos de divergência, descabe a apreciação das questões suscitadas no recurso, ainda que se trate de matéria de ordem pública" (AgInt nos EDcl nos EAREsp n. 503.161/PR, Primeira Seção).
+3. Agravo interno desprovido.
+(AgInt nos EDcl nos EREsp n. 1.957.736/RS, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 12/11/2024, DJe de 19/11/2024.) - destaque não original.
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NULIDADE DA DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. PROVA DA DIVERGÊNCIA. DESCUMPRIMENTO DO ART. 1.043, § 4º, DO CPC. REVISÃO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCABIMENTO. PARTICULARIDADES DO CASO. INEXISTÊNICA DO CONFRONTO DE TESES JURÍDICAS. AGRAVO NÃO PROVIDO.
+1. Não há nulidade no julgamento monocrático dos embargos de divergência, uma vez que eventual nulidade da decisão monocrática que julga o recurso com base no art. 932 do CPC/2015 é suprida com o julgamento colegiado, inexistindo prejuízo para a parte recorrente.
+2. "A jurisprudência desta Corte está firmada no sentido de que, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder às seguintes providências: a) juntada de certidões; b) apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e d) reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte" (AgInt nos EAREsp n. 1.935.286/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 11/10/2022, DJe de 21/10/2022.)
+3. No caso, apenas foram apresentadas cópias das ementas do acórdãos indicados como paradigmas, não tendo havido a juntada do inteiro teor, nem das respectivas certidões de julgamento, o que configura vício substancial e insanável, impeditivo do conhecimento do pedido.
+4. É firme o entendimento do STJ de que embargos de divergência não se destinam a rediscutir os critérios utilizados pelo acórdão embargado na admissibilidade do recurso especial, notadamente quando tal análise envolve as peculiaridades do caso concreto.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.875.657/PR, relator Ministro Og Fernandes, Corte Especial, julgado em 24/9/2024, DJe de 27/9/2024.) - destaque não original.
+Além disso, observo que os acórdãos embargado e paradigma não possuem o mesmo arcabouço fático.
+Ao contrário do que quer fazer crer a parte agravante, e conforme já exposto na decisão ora agravada, é incabível a interposição de embargos de divergência em relação à tese de violação do art. 1.022 do CPC, em razão das situações fáticas processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+Nesse sentido:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DIVERGÊNCIA RELATIVA À APLICAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO CABIMENTO. AUSÊNCIA DE SIMILITUDE FÁTICA. PRECEDENTES.
+1. "Os embargos de divergência não se prestam para o confronto entre julgados que interpretam violação aos arts. 489, §1º, e 1.022, do CPC, em razão das situações fático-jurídicas diferenciadas e da necessidade de análise individualizada de cada caso" (AgInt nos EAREsp n. 1.306.948/SP, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 11/10/2022, DJe de 21/10/2022).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.982.917/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 19/ 11/2024, DJe de 25/11/2024.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ARTS. 489 E 1.022 DO CPC/2015. OFENSA. EXAME. DESCABIMENTO. REGRA TÉCNICA DE ADMISSIBILIDADE DO ESPECIAL. DISCUSSÃO. INVIABILIDADE.
+1. Consoante o entendimento da Corte Especial, não cabem embargos de divergência quanto ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 arguida em sede de recurso especial, tendo em vista que a análise da questão pelo órgão julgador demanda a verificação das peculiaridades do caso concreto, o que torna inviável a demonstração de similitude entre os julgados confrontados. Precedentes.
+2. De acordo com o disposto no art. 1.043, III, do CPC/2015 e no art. 266, II, do RISTJ, a comparação com acórdão em que se examinou o mérito de recurso apenas é admitida se, no julgado embargado, apesar de não conhecido o recurso, houver sido apreciada a controvérsia de mérito.
+3. Hipótese em que as peculiaridades do caso concreto ensejaram a incidência da Súmula 7 do STJ, circunstância que inviabiliza o cabimento dos embargos de divergência, ante a impossibilidade de harmonizar o juízo de conhecimento realizado no acórdão embargado, com o do paradigma quanto à aplicação de regra técnica de conhecimento do recurso especial.
+4. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.998.469/PE, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 23/11/2023.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONFRONTO EM JULGADOS NOS QUAIS SE EXAMINOU A ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte Especial deste Superior Tribunal tem entendimento consolidado segundo o qual se revela incabível confrontar julgados que interpretam o art. 535 do CPC/1973, atual art. 1.022 do CPC/2015, e o art. 619 do Código de Processo Penal, na medida em que a aferição da ausência ou não dos vícios processuais que ensejariam o acolhimento do recurso integrativo está intrinsecamente vinculada às peculiaridades fático-jurídicas de cada caso.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+(AgInt nos EAREsp n. 1.864.372/RJ, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 25/10/2022, DJe de 27/10/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
