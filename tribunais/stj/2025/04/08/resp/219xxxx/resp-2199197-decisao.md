@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado por Telmo Henrique, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 282):
+APELAÇÃO CÍVEL. AÇÃO ACIDENTÁRIA JULGADA PROCEDENTE. INSURGÊNCIA DA PARTE AUTORA. (1) SENTENÇA QUE FIXOU TERMO FINAL PARA O AUXÍLIO-DOENÇA. POSSIBILIDADE. MEDIDA PREVISTA NO ART. 60, § 8º, DA LEI DE BENEFÍCIOS. (2) IMPUGNAÇÃO AO PERITO JUDICIAL. OPOSIÇÃO QUE DEVE SE DAR NA PRIMEIRA OPORTUNIDADE APÓS A NOMEAÇÃO. MATÉRIA PRECLUSA. (3) PRETENDIDA REFORMA DA DECISÃO QUE AUTORIZOU PENHORA NO ROSTO DOS AUTOS. DISCUSSÃO QUE DEVE SE DAR JUNTO AO JUÍZO PROLATOR DA ORDEM DE CONSTRIÇÃO. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fl. 316).
+Aponta o recorrente violação ao art. 833, IV, do CPC, na medida em que, o Tribunal de origem, "desconsiderando o caráter impenhorável dos proventos a título de benefício de auxílio-doença, negou provimento a insurgência do Recorrente mantendo incólume a sentença" (fl. 329).
+Defende que, "no caso sob análise, o Recorrente busca, apenas, o reconhecimento da impenhorabilidade das verbas de natureza salarial assegurada pelo art. 833, IV, do mesmo diploma" (fl. 329).
+Aduz que, que a "jurisprudência do STJ entende ser possível a discussão segundo o qual cada um dos juízos envolvidos possui competência para processar e julgar a execução que tramita sob sua jurisdição - especialmente se a medida recair sobre bens absolutamente impenhoráveis" (fl. 330).
+Ao final, requer a reforma do "acórdão, declarando o caráter impenhorável dos valores de natureza salarial, bem como a retirada da indigitada penhora nos autos, sob pena de ser violado o artigo 833, IV do Código de Processo Civil, bem como entendimento firmado na jurisprudência do Colendo Superior Tribunal de Justiça" (fl. 332).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação comporta parcial acolhida.
+Com efeito, "é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que cabe ao juízo que recebeu o mandado de penhora no rosto dos autos decidir sobre a viabilidade da constrição a ser procedida no processo de sua jurisdição, uma vez que cada um dos juízos envolvidos possui competência para processar e julgar a execução que tramita sob sua jurisdição" (AgInt no REsp 1.589.228/RS, rel. Min. Benedito Gonçalves, DJe de 6/4/2021) .
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. POSSIBILIDADE DE PROSSEGUIMENTO DA AÇÃO EXECUTIVA EM DESFAVOR DE EMPRESA EM RECUPERAÇÃO JUDICIAL. ATOS DE CONSTRIÇÃO. VIABILIDADE AFERIDA PELO JUÍZO DA RECUPERAÇÃO. PROVIMENTO NEGADO.
+1. Conforme orientação consolidada nesta Corte Superior, a partir da edição da Lei 14.112/2020, que acrescentou o § 7º-B ao art. 6º da Lei de Recuperação de Empresas e Falência - Lei 11.101/2005 -, após deferido o processamento da recuperação judicial, permanece a competência do Juízo de execução fiscal no qual o processo executivo deve prosseguir, cabendo ao Juízo da recuperação verificar a viabilidade da constrição efetuada em execução fiscal e determinar a substituição dos atos de constrição que recaiam sobre bens essenciais à manutenção da atividade empresarial até o encerramento da recuperação, valendo-se, para tanto, da cooperação jurisdicional.
+2. No caso concreto, o Tribunal de origem reconheceu a viabilidade da constrição efetuada em execução fiscal e a necessidade de reforço da penhora. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.136.793/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 7/10/2024.)
+Assim, merece reforma o acórdão recorrido que entendeu que o requerimento de liberação somente poderia ser efetuado no juízo que determinou a penhora no rosto dos autos.
+ANTE O EXPOSTO, dou provimento ao recurso especial, em menor extensão ao pedido deduzido pelo recorrente e determino o retorno dos autos à origem para análise do pedido formulado pela parte.
+Publique-se.
+EMENTA
