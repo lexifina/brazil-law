@@ -1,0 +1,21 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por MARCILIO DIAS PEREIRA - condenado como incurso nos crimes de apropriação indébita majorada pelo ofício, extorsão indireta e posse ilegal de acessório bélico (Ação Penal n. 0003668-03.2017.8.15.2002) - contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, não comporta provimento.
+Com efeito, busca o recorrente a revisão da dosimetria da pena imposta pelo Juízo de Direito da 7ª Vara Criminal da comarca da Capital/PB, ao argumento de que a pena-base, para os três delitos, deve ser redimensionada a um patamar mais próximo ao mínimo e abrandado o regime de cumprimento da pena (fls. 1/36).
+Ocorre que, além de se tratar de recurso destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois as instâncias ordinárias fixaram a pena-base trazendo concretos fundamentos na dosimetria (fls. 145/148).
+Para o crime de apropriação indébita majorada pelo ofício, a pena-base foi exasperada em 8 meses por duas vetoriais: as circunstâncias e as consequências do crime, nos seguintes termos (145 - grifo nosso):
+ ..
+Circunstâncias do crime são reprováveis, pois se aproveitou da situação de se encontrar com o cartão do seu devedor para utiIizá-lo de maneira indevida, sem o conhecimento do proprietário do cartão. Consequências: foram graves, pois a empresa e os funcionários experimentaram prejuízos.
+ ..
+De fato, consta no acórdão que Rozivaldo alegou perante a autoridade policial que emprestou o seu cartão de vale-alimentação para Marcílio, mediante o pagamento de R$ 160,00 (cento e sessenta reais), mas não tinha conhecimento do que era feito com o seu cartão e, posteriormente, acabou descobrindo que estava usando para transferir valores de maneira fraudulenta. Registrou a exordial que foram desviados cerca de R$3.000,00 (três mil reais) - fl. 143.
+Ao valorar as consequências do crime, as instâncias ordinárias consideraram que o acusado, responsável pelo lançamento de valores nos cartões de vale-alimentação, fazia créditos menores nos cartões dos funcionários para o cartão de Rozivaldo, que estava em sua posse para usufruto pessoal.
+Diante disso, não há ilegalidade nos fundamentos trazidos no acórdão, quais sejam, o aproveitamento da situação, para a utilização do cartão, de maneira indevida, sem o conhecimento do proprietário do cartão e prejuízos financeiros, com o desvio de R$ 3.000,00 (três mil reais) para o cartão de Rozivaldo Cordeiro de Souza.
+Sobre o crime de extorsão indireta, também não há ilegalidade na fixação da pena-base em 1 ano acima do mínimo, já que foram consideradas como negativas a culpabilidade, os motivos, as circunstâncias e as consequências do crime, com base nos seguintes fundamentos (fl. 146 - grifo nosso):
+ ..  A culpabilidade se mostra reprovável, pois o réu visando consubstanciar o seu engodo, levou a vítima, no caso, Rozivaldo, até a delegacia e conseguiu lavrar um Boletim de Ocorrências, que poderia ter deflagrado ação penal em desfavor de pessoa inocente.  ..  Os motivos do crime são injustificáveis, pois visavam eximir o acusado de outros delitos por ele perpetrados. Circunstâncias do crime são reprováveis, pois se insurgiu contra a vítima fazendo-a assinar documento com informações inverídicas, os quais lhe excluíam dos crimes por ele praticados. Consequências: foram graves, causaram transtornos na vida dos envolvidos, principalmente, em Rozivaldo e Anderson que perderam os empregos que detinham.
+ ..
+Também não há ausência de concreta fundamentação, mostrando-se idônea a motivação do acórdão hostilizado.
+Por fim, quanto ao crime de posse ilegal de acessório bélico, a pena-base foi fixada no piso mínimo de 1 ano de detenção.
+Em face do exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. APROPRIAÇÃO INDEBITA QUALIFICADA EM RAZÃO DA FUNÇÃO. EXTORSÃO INDIRETA. ALEGAÇÃO DE EXCESSO NA PENA-BASE FIXADA. CONCRETOS FUNDAMENTOS PARA AS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME. UTILIZAÇÃO DE CARTÃO DE FORMA INDEVIDA. AUSÊNCIA DE CONSENTIMENTO DO PROPRIETÁRIO. CRÉDITOS MENORES EFETUADOS NOS CARTÕES PARA DESVIO DE TERCEIRO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Recurso em habeas corpus improvido.
