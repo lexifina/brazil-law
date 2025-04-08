@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO no julgamento da Apelação Criminal n. 0801144-97.2021.4.05.8201.
+Consta dos autos que os recorridos foram condenados pela prática do crime de estelionato previdenciário (art. 171, § 3º, do Código Penal), às penas de 2 anos de reclusão, no regime inicial aberto, mais 15 dias-multa, substituídas as reprimendas corporais por restritivas de direitos.
+Ambas as partes apelaram. O Tribunal deu provimento ao recurso da defesa para absolver os acusados e julgou prejudicado o apelo ministerial. O acórdão ficou assim ementado:
+"PENAL. PROCESSUAL PENAL. CRIME DE ESTELIONATO QUALIFICADO. CASAMENTO REALIZADO APENAS PARA PE MITIR O RECEBIMENTO DE PENSÃO POR MORTE. VALIDADE FORMAL DO CASAMENTO. PENSÃO ORIUNDA DE ATO LÍCITO. INEXISTÊNCIA DE VANTAGEM INDEVIDA. FATO ATÍPICO. APELO DAS DEFESAS PROVIDOS. ABSOLVIÇÃO. APELO DA ACUSAÇÃO PREJUDICADO." (fl. 1.162)
+Embargos de declaração opostos pela acusação foram rejeitados. O acórdão ficou assim ementado:
+"PENAL. PROCESSUAL PENAL. EMBARGOS DECLARATÓRIOS. HIPÓTESE EM QUE SE ALMEJA DISCUTIR ENTENDIMENTO JÁ FIRMADO NO ACÓRDÃO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, AMBIGUIDADE E/OU OBSCURIDADE. IMPROVIMENTO." (fl. 1.270)
+Em sede de recurso especial (fls. 1.297/1.342), o Parquet apontou violação aos arts. 489, II, e § 1º, III e IV; 1.022, II, e parágrafo único, II, todos do CPC/2015, tendo em vista que, embora tenha oposto embargos de declaração, o Tribunal a quo teria deixado de analisar questões relevantes para a resolução da causa, "sobretudo ao não considerar a existência de impedimento previsto na Lei Civil que torna o casamento da acusada/recorrida, Sra. Gercilene Freire e Silva, nulo , sem eficácia" (fl. 1.325).
+Por outro lado, indicou a violação ao art. 171, § 3º, do Código Penal e aos arts. 167, 1.521, inciso II, e 1.548, do Código Civil, uma vez que teria sido devidamente comprovada a prática do crime de estelionato previdenciário.
+Ressalta o robusto acervo probatório que demonstraria que a recorrida Gercilene, em concurso com o recorrido Marcus Porto Filho, induziram a erro a União Federal, pois teriam promovido o casamento da primeira com o pai do segundo (Marcus Porto), com a finalidade obter vantagem ilícita, consistente na pensão por morte de Marcus Porto.
+Aduz que a existência de impedimento para o casamento (relação de parentesco por afinidade, em linha reta, da recorrida com o pai do seu companheiro) foi ignorado pelo Tribunal a quo, ao reformar a sentença penal condenatória considerando que seria válido o matrim ônio.
+Requereu o conhecimento e provimento do recurso para que seja determinado "o retorno autos ao Egrégio Tribunal Regional Federal da 5ª Região, para que seja proferido novo julgamento, suprindo os vícios apontados pelo Parquet Federal" (fl. 1.341). E, subsidiariamente, o restabelecimento da sentença penal condenatória.
+Contrarrazões da defesa não apresentadas (fl. 1.387).
+Admitido o recurso no TJ (fl. 1.388), os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao Ministério Público Federal, este opinou pelo provimento do recurso especial (fls. 1.410/1.415).
+É o relatório.
+Decido.
+Por oportuno, confira-se a fundamentação apresentada pelo Tribunal a quo no julgamento da apelação:
+" ..
+Num primeiro momento, este Relator havia arrematado no sentido de que o casamento realizado entre GERCINELE e Marcus Porto teria sido uma fraude, um meio ardiloso engendrado por GERCINENE e por MARCUS PORTO FILHO para "não perderem" o valor que Marcus Porto recebia na condição de funcionário público quando ele viesse a falecer.
+Todavia, este Relator restou convencido pelos fundamentos declinados pelo em. Desembargador Federal Paulo Roberto de Oliveira Lima que assim destacou em seu voto:
+Com todas as vênias e respeitosamente, divirjo do Relator e dou provimento ao recurso da defesa para julgar improcedente a ação, mercê da manifesta atipicidade da conduta.
+Sei que animou o relator, para manter a condenação, um juízo crítico acerca da conduta da ré que celebrou casamento com pessoa com quem não desejava conviver, buscando unicamente figurar como beneficiária de pensão previdenciária que certamente surgiria com a morte do marido (como de fato aconteceu). A esse propósito, o Relator denominou fraude e, como visava o recebimento de vantagem indevida, entendeu consumado o estelionato contra a previdência, daí a condenação.
+A análise dos fatos feitas pelo relator é absolutamente correta do ponto de vista ético. A ré serviu-se do casamento unicamente com o propósito de lucrar financeiramente, sem nenhuma pretensão de convivência, de amparo mútuo, de construção de uma vida em comum. Mas do ponto de vista jurídico, e mais especificamente do ponto de vista jurídico penal, o fato é atípico. O casamento houve e não é nulo pelas intenções espúrias da nubente. Ah! Se fossem anulados os casamentos celebrados por motivos de ganância, de vantagem financeira, de sucesso social e outros propósitos menos nobres, quantos animados pelo verdadeiro amor se manteriam íntegros.
+O sistema de nulidades do casamento se esgota no capítulo próprio do código civil e a intenção, mais ou menos nobre, ou até torpe de cada um dos integrantes do par, nem de longe arranha a validade do contrato.
+Não há dúvidas no caso concreto de que o casamento existiu, entendido o casamento como a celebração do contrato, obedecidas as formalidades legais, realizado o registro próprio, provado através da certidão correspondente. Também não há dúvida de que não se acham presentes quaisquer dos impedimentos dirimentes da celebração, nem o ato padece de nulidade outra.
+O que revolta o examinador é a sem-cerimônia com que os interessados se servem de instituto tão importante e nobre para atingir a fim estritamente material e vil. Comungo deste sentimento de revolta. MAS NÃO HÁ CRIME NO FATO DE ALGUÉM CASAR-SE COM PROPÓSITOS FINANCEIROS, DE GANHO FÁCIL, DE SUCESSO SOCIAL E OUTROS BENS MUNDANOS, sem amor, sem consideração, sem boa-fé. E não se queira permitir que o estado sindique os propósitos de cada um ao casar.
+Se se voltar no tempo para examinar os casamentos de antanho se verá que o amor é um elemento puramente acidental, raro mesmo, e impertinente. A moral da época e alguns filósofos até hoje entendem que esse elemento romântico tão em voga nos dias atuais é prejudicial a boa saúde da instituição.
+A ré contraiu casamento unicamente para a obtenção da pensão a ser deixada pelo marido. É fato.
+Mas a pensão não é uma vantagem INDEVIDA, elemento necessário à configuração do estelionato.
+Cuida-se de vantagem DEVIDA. A ré tinha e tem direito subjetivo a pensão, cujos requisitos são apenas a pré-morte do cônjuge segurado da previdência e a existência do casamento. Não há outro requisito para tanto.
+Com tais observações, renovo minhas vênias ao entendimento do eminente Relator e DOU PROVIMENTO À APELAÇÃO PARA JULGAR IMPROCEDENTE A AÇÃO PENAL.
+Anuindo a esse raciocínio, passo a entender que o caso impõe mesmo absolvição.
+Apelo das defesas providos para absolver os réus
+Apelo da acusação prejudicado." (fls. 1.160/1.161)
+Diante a absolvição dos ora recorridos, apontando que a intenção em obter vantagem financeira decorrente do casamento não macularia este, o Ministério Público opôs embargos de declaração (fls. 1.241/1.251) argumentando que, não apenas a finalidade do casamento seria inidônea, mas a própria existência do matrimônio seria impugnável, pois teria sido realizado a despeito da existência de impedimento que obsta o seu reconhecimento perante o ordenamento jurídico.
+Entretanto, o Tribunal Regional deixou de analisar a tese arguida pela acusação. Confira-se:
+" ..
+Em relação aos embargos, registramos, em primeiro passo, que os embargos de declaração têm utilização bastante restrita, servindo tão somente para sanear eventual contradição, omissão, obscuridade e/ou ambiguidade em ato jurisdicional prolatado.
+Bem por isso e em segundo passo, consignamos ainda que o aludido instrumento pode ser utilizado não como meio para já analisadas no ato jurisdicional guerreado, pois, assim fosse, rediscutir matérias estaríamos diante de uma "disfarçada" - e não prevista pelo ordenamento jurídico pátrio - apelação.
+Em terceiro passo, é de se observar que a peça sobre a qual deitam-se os embargos declaratórios não aponta qualquer dos vícios que subsidiam sua utilização, a saber: contradição, omissão, obscuridade e/ou ambiguidade.
+O que se infere - e aqui dormita o - é o desejo de a acusação, através da via quarto e derradeiro passo estreita eleita, rediscutir a fundamentação realizada pela 2ª Turma no sentido de que a conduta seria isso na medida em que o casamento revestir-se-ia de legalidade atípica do ponto de vista criminal, formal, rediscussão que não se concebe.
+Embargos declaratórios improvidos." (fls. 1.268/1.269)
+Dessarte, constata-se que, de fato, a referida tese foi arguida nas razões dos embargos de declaração, não havendo manifestação do Tribunal acerca do tema.
+Nesse contexto, a Corte de origem não apreciou a tese sobre matéria relevante, capaz de alterar substancialmente o teor da decisão. Assim, evidente a violação ao art. 619 do CPP.
+A propósito (grifos meus):
+PROCESSUAL PENAL. RECURSO ESPECIAL. DENÚNCIA. PROVAS. OPERAÇÃO ESFINGE. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA ANULADA PELO TRIBUNAL REGIONAL. EMBARGOS DE DECLARAÇÃO. QUESTÕES RELEVANTES SURGIDAS COM A PROLAÇÃO DO ACÓRDÃO RECORRIDO. OMISSÃO NÃO SANADA. VIOLAÇÃO DO ART. 619 DO CPP CONFIGURADA. JULGADO DE CUNHO GENÉRICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal.
+ ..
+(REsp n. 1.651.656/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 26/4/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. DECADÊNCIA. DATA DA LAVRATURA DO AUTO DE INFRAÇÃO FISCAL. AFRONTA AO ART. 619 DO CPP. AUSÊNCIA DE EXAME DE TESE LEVANTADA NAS RAZÕES DE APELO E RENOVADA NOS ACLARATÓRIOS. RELEVÂNCIA. PERSISTÊNCIA DA OMISSÃO. ARTIGO 619 DO CÓDIGO DE PROCESSO PENAL. OFENSA. RECURSO IMPROVIDO.
+1. Verificada a violação ao artigo 619 do CPP quando, apesar da oposição de embargos de declaração contra acórdão do Tribunal de origem, persiste a omissão apontada, deve ser mantido o decisum impugnado. Precedentes.
+2. Hipótese em que a Corte recorrida deixou de apreciar a tese suscitada pelo Ministério Público relacionada à consideração da data da lavratura do auto de infração fiscal para fins de aferição do prazo decadencial, tese levantada nas razões de apelo e renovada nos fundamentos dos aclaratórios, e que, acaso acolhida, poderá ensejar o prosseguimento da ação penal com relação ao denunciado, devendo ser reconhecida a violação ao art. 619 do CPP.
+3. Recurso improvido.
+(AgRg no AgRg no AREsp n. 923.962/RN, relator Ministro Jorge Mussi, Quinta Turma, DJe de 14/3/2018.)
+Ante o exposto, conheço do recurso especial e, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para anular o acórdão que julgou os embargos declaratórios e determinar que o Tribunal Estadual se manifeste quanto ao ponto omisso.
+Publique-se. Intimem-se.
+ EMENTA
