@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por MATHEUS ALVES DE SOUSA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ que não admitiu o recurso especial.
+O agravante foi absolvido dos crimes previstos nos art. 33, caput, c/c art. 40, inciso VI, ambos da Lei n. 11.343/2006 e art. 16, §1º, inciso IV da Lei n. 10.826/2003, com fundamento no art. 386, inciso VII, do Código de Processo Penal, pelo Juiz de Direito da 2ª Vara de Delitos de Tráfico de Drogas da Comarca de Fortaleza (fls. 143-146).
+O Ministério Público do Estado do Ceará interpôs recurso de apelação contra a sentença absolutória, alegando que as provas produzidas na instrução criminal comprovaram o animus de tráfico e a posse de substâncias ilícitas destinadas ao consumo de terceiros (fls. 163-168).
+Em sessão de julgamento, a 2ª Câmara Criminal do Tribunal de Justiça do Estado do Ceará, por unanimidade, conheceu e deu provimento ao recurso de apelação interposto pelo Ministério Público, reformando a sentença absolutória e condenando o réu à pena de 08 (oito) anos e 10 (dez) meses de reclusão e 593 (quinhentos e noventa e três) dias-multa, a ser cumprido em regime inicialmente fechado, por infringência ao art. 33, caput, c/c art. 40, inciso VI, ambos da Lei n. 11.343/2006 e art. 16, §1º, inciso IV, da Lei n. 10.826/2003 (fls. 205-234).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação aos art. 33 e seu §4º da Lei n. 11.343/2006, bem como aos arts. 14 e 16 da Lei nº 10.826/2003, além dos arts. 155 e 386, V e VII, ambos do Código de Processo Penal (fls. 235-261).
+O recurso especial foi inadmitido pelo Tribunal de Justiça do Estado do Ceará, ante a incidência da Súmula n. 7, STJ, que veda o reexame de provas em sede de recurso especial (fls. 270-274).
+No presente agravo, a defesa sustenta, em síntese, que a análise da pretensão recursal não demandaria o reexame de provas, mas tão somente a revaloração jurídica dos fatos já delineados, alegando ausência de violação à Súmula n. 7, STJ e pleiteia a desclassificação da conduta tipificada no art. 16 para o art. 14 da Lei nº 10.826/2003, além do reconhecimento do tráfico privilegiado (fls. 285-307).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo (fls. 319-327).
+É o relatório. DECIDO.
+A controvérsia consiste em verificar a possibilidade de absolvição do agravante ou a aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 e a desclassificação do crime do art. 16 para o art. 14 da Lei n. 10.826/2003.
+O Tribunal de origem, ao prover o recurso de apelação do Ministério Público, concluiu que as provas juntadas se mostram suficientes para condenar o agravante pelos delitos do art. 33, caput, c/c art. 40, inciso VI, ambos da Lei n. 11.343/2006 e art. 16, §1º, inciso IV da Lei n. 10.826/2003, visto que a materialidade do fato e a autoria delitiva restaram comprovadas através de provas documentais, depoimentos de testemunhas e interrogatório do agravante. Além disso, foi negada a minorante do tráfico privilegiado pois não se encontram preenchidos os requisitos necessários para sua configuração, haja vista que o agravante claramente se dedicaria a atividades ilícitas, segundo a fundamentação .
+Logo, desconstituir esse entendimento e acolher a pretensão de absolvição quanto a ambos os delitos, ou ainda de desclassificação da conduta de porte de arma de fogo de uso restrito para a de porte de arma de fogo de uso permitido, efetivamente encontra óbice na Súmula n. 7 desta Corte, uma vez que seria necessária a análise do acervo probatório dos autos.
+"A pretensão recursal que objetiva a desclassificação da conduta do agravante ou a sua absolvição, seja por atipicidade formal, pela ausência de prejuízo à vítima ou pelo reconhecimento da inexistência de dolo, demandaria a ampla reanálise do conjunto fático-probatório do feito, o que é vedado nesta via especial, conforme preconizado pela Súmula n. 7 do Superior Tribunal de Justiça. Precedentes."
+(AgRg no AREsp n. 2.385.603/SC, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 20/5/2024);
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RESP. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+4. A pretensão absolutória - por ausência de dolo e insuficiência da prova - implica a necessidade de reexame fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+(..)
+7. Agravo regimental não provido."
+(AgRg no AREsp n. 2.522.092/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 30/4/2024, grifei).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
