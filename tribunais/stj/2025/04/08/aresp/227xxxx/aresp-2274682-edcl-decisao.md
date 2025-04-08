@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANDERSON KIOSHI SATOU contra a decisão monocrática que conheceu do agravo para conhecer, em parte, do recurso especial, e, na parte conhecida, negar-lhe provimento.
+Na origem, o embargante foi condenado como incurso no art. 2º, caput, e §2º, da Lei n. 12.850/2013, c/c art. 29 do Código Penal, em concurso material (art. 69 do mesmo código) com o art. 157, §2º, incisos I, II e V, c/c art. 29, por três vezes, na forma do art. 70, caput, segunda parte, todos do Código Penal, à pena de 39 (trinta e nove) anos, 10 (dez) meses e 17 (dezessete) dias de reclusão, e 93 (noventa e três) dias-multa.
+Após o julgamento da apelação, foram opostos embargos de declaração, rejeitados quanto ao ora embargante. Interposto recurso especial, teve seu seguimento negado, ensejando a interposição de agravo em recurso especial.
+A decisão agravada conheceu parcialmente do recurso especial, mas lhe negou provimento.
+Na presente insurgência, sustenta o embargante a existência de omissão quanto à apreciação da alegada violação ao art. 91 do Código Penal, especificamente no que diz respeito à decretação do perdimento de bens.
+Argumenta que, embora a decisão monocrática tenha registrado a existência de impugnação quanto ao tema, deixou de enfrentá-la, mesmo de forma superficial.
+Reitera que as instâncias ordinárias presumiram de forma absoluta que todo o patrimônio do embargante teria sido obtido a partir de práticas criminosas, sem a necessária individualização dos bens considerados instrumentos ou produtos do crime, tampouco com análise temporal que correlacione a aquisição desses bens com os fatos imputados.
+Ao final, requer o conhecimento e provimento dos embargos para o fim de sanar a omissão apontada.
+É o relatório. Decido.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+Na hipótese, razão assiste ao embargante quanto à apontada omissão. A decisão monocrática efetivamente consignou, à e-STJ fl. 12.266, que a alegação de violação ao art. 91 do Código Penal estava entre as matérias conhecidas no recurso especial. Todavia, não houve, na sequência, análise expressa sobre o mérito da referida tese.
+A omissão configura-se, pois a decisão recorrida deixou de se manifestar sobre argumento relevante e devidamente devolvido à instância superior, nos termos do art. 619 do Código de Processo Penal.
+Dessa forma, acolhem-se os embargos de declaração, sem efeitos infringentes, apenas para sanar a omissão apontada e integrar o julgado, com a seguinte complementação:
+"No que toca à alegada violação ao art. 91 do Código Penal, verifica-se que a matéria foi devidamente apreciada pelas instâncias ordinárias, que fundamentaram a decisão de perdimento de bens na circunstância de que o embargante era o líder da organização criminosa, "sendo que o exercício paralelo de atividades lícitas era apenas uma maneira de se dissimular os crimes praticados" (e-STJ fl. 10.993). Desse modo, a incursão vertical no contexto fático-probatório, para verificar a necessidade de individualização dos bens e sua vinculação temporal aos fatos delituosos demandaria revisão do acervo fático-probatório, providência vedada em sede de recurso especial, nos termos da Súmula n. 7/STJ."
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, para sanar a omissão indicada, nos termos da fundamentação.
+É como voto.
+EMENTA
