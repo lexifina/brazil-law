@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por CLAUDIO NEPOMUCENO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, no qual se insurge contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (fls. 324-325):
+"Penal e Processual Penal. Apelação criminal manejada pelo réu, atacando a sentença que o condenou pela prática do crime de desenvolvimento clandestino de atividades de telecomunicações (art. 183, da Lei 9.472/1997)".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 59 e 68, do Código Penal. Aduz para tanto, em síntese, que a fixação da pena de multa no patamar de R$ 10.000,00 não guarda proporção com a pena privativa de liberdade aplicada no mínimo legal, e ofende o princípio da individualização da pena (art. 5º, XLVI, da CR).
+Com contrarrazões (fls. 371-380), o recurso especial fo i admitido na origem (fls. 398-399).
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (fls. 425-429).
+É o relatório.
+Decido.
+No caso, ao arbitrar a pena de multa, as instâncias ordinárias consignaram que o montante de R$ 10.000,00 decorre da previsão expressa contida no preceito secundário do art. 183, da Lei 9.472/1997 (fl. 325). As Turmas que compõe a Terceira Seção desta Corte Superior compreendem que a aplicação da pena de multa relativa ao delito de desenvolver clandestinamente atividades de telecomunicação deve seguir a previsão contida na legislação de regência, em detrimento das regras previstas nos artigos 59, 60 e 68, do Código Penal, por força do princípio da especialidade. A esse respeito, convém destacar os seguintes julgados:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DELITO PREVISTO NO ART. 183 DA LEI N. 9.472/1997. DESENVOLVER CLANDESTINAMENTE ATIVIDADES DE TELECOMUNICAÇÃO. CRIME HABITUAL E FORMAL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. TIPICIDADE MATERIAL CONFIGURADA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 606/STJ. PENA DE MULTA PREVISTA NO TIPO PENAL NO VALOR FIXO DE R$ 10.000,00. OFENSA AO PRINCÍPIO CONSTITUCIONAL DA INDIVIDUALIZAÇÃO DA PENA. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. FUNDAMENTO SUBSIDIÁRIO. APLICAÇÃO DO PRINCÍPIO DA ESPECIALIDADE. REGIMENTAL QUE DENOTA MERO INCONFORMISMO. MANUTENÇÃO PELOS PRÓPRIOS FUNDAMENTOS.
+Agravo regimental improvido".
+(AgRg no AREsp n. 1.732.416/PE, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/4/2024, DJe de 11/4/2024.)
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 183 DA LEI N. 9.472/97. DESENVOLVER CLANDESTINAMENTE ATIVIDADES DE TELECOMUNICAÇÃO. 1) DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO. 2) ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO CABIMENTO. 3) PENA DE MULTA PREVISTA NO TIPO PENAL NO VALOR DE R$ 10.000,00. OFENSA AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. ARTIGO 5º, XLVI, DA CONSTITUIÇÃO FEDERAL  CF. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL  STF. 4) PENA DE MULTA PREVISTA NO TIPO PENAL NO VALOR DE R$ 10.000,00. OFENSA AOS ARTIGOS 59 E 60 DO CÓDIGO PENAL  CP. APLICAÇÃO DO ART. 12 DO CP. PRINCÍPIO DA ESPECIALIDADE. 5) AGRAVO REGIMENTAL DESPROVIDO.
+1. O conhecimento do Recurso Especial pela alínea "c" do permissivo constitucional, por dissídio jurisprudencial, requer a colação de julgados e a realização de cotejo analítico, de modo a demonstrar os entendimentos dissonantes e a similitude fática entre os casos, nos termos do art. 1.029, § 1º do novo Código de Processo Civil  NCPC e art. 255, §1º do Regimento Interno do Superior Tribunal de Justiça  RISTJ, o que não se verifica no caso (AgRg no AREsp 1237832/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 14/12/2018).
+2. O entendimento jurisprudencial da 3ª Seção desta Corte, "veio a se harmonizar no sentido da inaplicabilidade do princípio da insignificância ao delito previsto no art. 183 da Lei 9.472/97, por tratar-se de crime formal, de perigo abstrato, o que torna irrelevante a ocorrência de dano concreto causado pela conduta do agente" (AgRg nos EREsp 1.177.484/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 9/12/2015, DJe 15/12/2015).
+(AgRg no AREsp 1463969/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 11/6/2019).
+3. Descabe em recurso especial a análise de violação a dispositivos e princípios constitucionais pelo disposto na parte final do preceito secundário do art. 183 da lei n. 9.472/97 que fixou a pena de multa no valor de R$ 10.000,00 (dez mil reais), em razão da matéria ser de competência do SUPREMO TRIBUNAL FEDERAL  STF.
+4. Consoante o art. 12 do CP (Princípio da Especialidade), a parte final do preceito secundário do art. 183 da lei n. 9.472/97 que fixou a pena de multa no valor de R$ 10.000,00 (dez mil reais), enquanto vigente no mundo jurídico, deve ser aplicada em detrimento ao disposto nos artigos 59 e 60, ambos do CP.
+5. Agravo regimental desprovido".
+(AgRg nos EDcl no REsp n. 1.791.568/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 28/4/2020, DJe de 4/5/2020.)
+De mais a mais, é inviável o debate acerca da contrariedade a dispositivos da CR/88 em sede de recurso especial (ofensa ao art. 5º, XLVI, da CR), uma vez que não compete a esta Corte Superior o seu enfrentamento . Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE PRINCÍPIOS E DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO DE ANÁLISE POR ESTA CORTE. COMPETÊNCIA DO STF. CONDENAÇÃO CRIMINAL COM TRÂNSITO EM JULGADO HÁ MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. PRECEDENTES. ROUBO. CONSUMAÇÃO. DESNECESSIDADE DE POSSE MANSA E PACÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Compete ao Supremo Tribunal Federal analisar eventual existência de ofensa a princípios ou dispositivos constitucionais, não cabendo a esta Corte se pronunciar acerca de eventual violação à Constituição Federal sob pena de usurpação da competência.
+ ..
+4. Agravo regimental desprovido."
+(AgRg no REsp n. 1.668.004/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/9/2017, DJe de 2/10/2017.)
+" ..
+2. Não compete ao Superior Tribunal de Justiça se manifestar explicitamente acerca de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação de competência reservada ao Supremo Tribunal Federal.
+Agravo regimental desprovido."
+(AgRg nos EDcl no AREsp n. 905.964/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado 8/8/2017, DJe de 18/8/2017.)
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do Regimento Interno do STJ, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
