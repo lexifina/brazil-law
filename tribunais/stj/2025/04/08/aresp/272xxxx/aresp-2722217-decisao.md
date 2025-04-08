@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FAIRFAX BRASIL SEGUROS CORPORATIVOS SA, contra decisão que inadmitiu o apelo raro com fundamento no art. 105, III, "a", da Constituição Fe deral, contra acórdão do Tribunal Regional Federal da 3ª Região.
+No recurso especial, suscita violação aos artigos 97 e 110 do CTN, 593 e 757, ambos do CC, 927, V, do CPC, 3º da Lei nº 9.718/98, 79, XII, da Lei nº 11.941/09, 1º e 20, ambos da Lei nº 5.474/68, 17 da Lei nº 4.595/64, e 79 e 84, ambos do Decreto-Lei nº 73/66, em razão de ter direito a não se submeter ao recolhimento do PIS e da COFINS sobre as receitas auferidas com os prêmios de seguros recebidos e sobre as receitas consubstanciadas nos juros oriundos de aplicações financeiras decorrentes da remuneração de ativos alocados em reservas técnicas.
+É o sucinto relatório.
+Em sessão de julgamento realizada em 6/8/2024, o Supremo Tribunal Federal decidiu afetar à sistemática da repercussão geral o RE n. 1.479.774/RJ, em que discutida a "exigibilidade da PIS e da COFINS sobre as receitas financeiras oriundas de aplicações financeiras das reservas técnicas de empresas seguradoras" - Tema 1.309/STF.
+Embora a afetação do tema à sistemática da repercuss ão geral não imponha o sobrestamento do julgamento dos recursos que tratem da mesma controvérsia  como é o caso deste  , "ambas as turmas integrantes da Primeira Seção do Superior Tribunal de Justiça vêm adotando a sistemática da devolução dos autos à origem em situações como a presente por medida de economia processual e para evitar decisões dissonantes entre o STF e este Tribunal. Com isso, a solução definitiva deve-se dar após o julgamento do recurso extraordinário afetado" (REsp n. 2.148.506, Ministro Paulo Sérgio Domingues, DJe de 02/08/2024).
+Ante o exposto, determino a devolução dos autos ao Tr ibunal de origem, com a respectiva baixa, para que, após a publicação do acórdão referente ao Tema 1.309/STF, realize o juízo de adequação, conforme estabelecem os arts. 1.040 e 1.041 do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO TRIBUTÁRIO. PIS/COFINS. INCIDÊNCIA SOBRE RECEITAS ORIUNDAS DE RESERVAS TÉCNICAS DE EMPRESAS SEGURADORAS. MATÉRIA OBJETO DO TEMA 1.309/STF. SOBRESTAMENTO. DEVOLUÇÃO À ORIGEM.
