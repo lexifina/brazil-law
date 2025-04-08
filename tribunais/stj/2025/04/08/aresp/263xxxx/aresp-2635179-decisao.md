@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALDEMAR CARVALHO DE AMORIM, para impugnar a decisão proferida pelo Vice-Presidente do Tribunal de Justiça do Estado de Mato Grosso, que não admitiu o recurso especial.
+Consta dos autos que o recorrente foi pronunciado pela suposta prática do crime de homicídio qualificado, na modalidade tentada, tendo o Tribunal de origem negado provimento ao recurso em sentido estrito interposto pela defesa.
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, "a", da Constituição, por alegada violação ao art. 15 do Código Penal.
+Não admitido o recurso especial, a defesa interpôs o presente agravo em recurso especial.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Presentes os requisitos de admissibilidade, conheço do agravo em recurso especial.
+O Juiz de causa, a partir de ato decisório fundamentado, concluiu pela existência de indícios de animus necandi (fl. 336):
+ ..  Quanto à tese da combatível Defesa de desclassificação do crime de homicídio tentado para o crime de lesão corporal, tenho que não merece guarida nessa fase processual, eis que aparentemente o acusado tentou ceifar a vida da vítima, haja vista o modus operandi e a sede e natureza das lesões, somente não logrando êxito no seu intento por circunstâncias alheias à sua vontade, consistente no fato da vítima ter conseguido fechar a p orta da residência, de modo a impedir que novos golpes lhe fossem desferidos, bem como pelo fato de ter sido socorrida e recebido atendimento médico, conforme se retira da prova oral alhures citada, do exame de corpo de delito (id. 71158101, p. 29/31) e da avaliação complementar (id. 71158101, p. 32). Ademais, é sabido que nesta fase processual não deve o juiz operar a desclassificação quando as provas dos autos não a permitem seja de plano reconhecida  .. .
+Na espécie, o acolhimento da pretensão de desclassificação dependeria da incursão no conjunto probatório dos autos, providência que não se coaduna com a via do recurso especial, nos termos da Súmula nº 7 do STJ (AgRg no HC n. 935.909/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe de 26/9/2024.; AgRg no AREs p n. 2.419.600/DF, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/10/2023, DJe de 31/10/2023).
+De mais a mais, "o entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte, que é firme no sentido de que a incerteza acerca da ocorrência do animus necandi impõe que o deslinde da controvérsia seja dirimido perante o Tribunal do Júri, juiz natural da causa" (AgRg no AgRg no AREsp n. 2285149/PR, Rel. Min. Joel Ilan Paciornik, Quinta Turma, j. 16/5/2023, DJe de 19/5/2023).
+De rigor, portanto, invocar a Súmula nº 83 desta Corte Superior, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
