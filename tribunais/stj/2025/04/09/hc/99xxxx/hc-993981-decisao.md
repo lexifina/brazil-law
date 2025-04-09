@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MAICON ALEXANDRE PADILHA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, em virtude do julgamento da apelação criminal n. 5025969-32.2024.8.24.0038.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara Criminal da Comarca de Joinville, na ação penal n. 5025969-32.2024.8.24.0038, ao cumprimento da pena privativa de liberdade de 4 anos e 8 meses de reclusão, além de 24 dias-multa, a ser cumprida no regime inicialmente semiaberto, por infração aos artigos 180, caput, e 311, § 2º, III, ambos do Código Penal (fls. 172-174).
+A defesa apelou ao Tribunal de Justiça do Estado de Santa Catarina, que conheceu em parte e deu parcial provimento ao recurso, corrigindo de ofício erro material no dispositivo da sentença (fls. 41-44).
+Na presente impetração, busca-se a concessão da ordem para reconhecer a atenuante da confissão espontânea, com o consequente redimensionamento da pena.
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível coação ilegal em razão da negativa à aplicação da atenuante da confissão espontânea.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício na forma do § 2º do artigo 654 do Código de Processo Penal.
+Isso porque o Tribunal de Apelação concluiu que o paciente não confessou espontaneamente, ainda que de forma qualificada. Em interrogatório prestado à autoridade judicial, ele afirmou que adquiriu o carro como "piseira", que não tinha documentação, estava com a documentação atrasada e não sabia que o carro era roubado ou que tinha placa trocada (fl. 42).
+Portanto, para que fosse possível desconstituir a conclusão do acórdão impugnado e acolher a tese vertida na presente impetração  de que o paciente teria confessado espontaneamente  seria necessário revolver todo o conjunto de fatos e provas, o que é inviável no seio de uma ação mandamental. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE ILEGAL DE ARMA DE FOGO . DOSIMETRIA DA PENA. ART. 42 DA LEI N. 11 .343/06. VALORAÇÃO PROPORCIONAL. CIRCUNSTÂNCIA ATENUANTE. CONFISSÃO ESPONTÂNEA . MATÉRIA PROBATÓRIA. IMPROPRIEDADE DA VIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A atenuante da confissão espontânea relativa ao porte ilegal de arma de fogo foi afastada pelas instâncias ordinárias em razão de o agravante ter negado, em sede judicial, o conhecimento sobre a existência da arma apreendida. A desconstituição do que ficou estabelecido ensejaria o reexame aprofundado de todo conjunto fático-probatório produzido ao longo da marcha processual, providência incompatível com os estreitos limites do remédio constitucional, marcado pela celeridade e sumariedade na cognição . 4. Agravo regimental não provido.
+(AgRg no HC n. 957236-PB, relator Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 04/02/2025, QUINTA TURMA, DJEN 13/02/2025)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
