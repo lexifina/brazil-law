@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES. DECADÊNCIA. TERMO INICIAL. INDEFERIMENTO ADMINISTRATIVO. AFASTAMENTO DA DECADÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+I - Trata-se de recurso ordinário em mandado de segurança impetrado contra ato do Secretário de Polícia Militar do Estado do Rio de Janeiro, visando ao cumprimento do item 17.8 do edital do concurso público, em razão da anulação de questões da prova objetiva por outros candidatos.
+II - O Tribunal de Justiça do Estado do Rio de Janeiro denegou a segurança, reconhecendo a decadência com base no art. 23 da Lei n. 12.016/09, considerando que o prazo decadencial inicia-se com a ciência inequívoca do ato impugnado.
+III - A Segunda Turma do STJ, em 11/3/2025, no julgamento do RMS 74.059/RJ, relativo ao mesmo concurso e à unanimidade, firmou o entendimento de que o prazo decadencial tem início com o indeferimento administrativo do pedido de extensão dos pontos decorrentes da anulação das questões da disciplina de História correspondentes aos enunciados 21, 22 e 24 da prova azul do concurso público de admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-2014.
+IV - A impetração do mandado de segurança ocorreu dentro do prazo legal, sendo necessário o afastamento da decadência, com o retorno dos autos ao Tribunal de origem para prosseguir no julgamento das demais questões do mandado de segurança.
+V - Agravo interno provido para dar provimento ao recurso ordinário.
+RELATÓRIO
+Trata-se de recurso ordinário em mandado de segurança com fundamento no art. 105, II, b, da Constituição Federal.
+Na origem, trata-se de mandado de segurança impetrado contra ato atribuído ao Secretário de Polícia Militar do Estado do Rio de Janeiro, consistente no pedido do Impetrante, ao requerer, administrativamente, o cumprimento do item 17.8 do Edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro, em razão da anulação de questões da prova objetiva, obtida por outros candidatos do referido concurso.
+O Tribunal de Justiça do Estado do Rio de Janeiro, em decisão monocrática, indeferiu a inicial do mandamus, ficando assim ementado o referido julgado, in verbis:
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DE ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA PMERJ DE 2014.
+Impetrante que reclama a sua aprovação na prova objetiva e, como consequência, prosseguir nas demais fases do certame, diante da existência de decisões judiciais determinando a anulação de questões da prova de História, proferidas em ações individuais ajuizadas por outros candidatos.
+Divulgação do resultado final em 28.10.2014, o qual foi homologado em 23.03.2022.
+Writ ajuizado somente em fevereiro de 2024. Prazo decadencial de 120 dias não observado (art. 23 da Lei Federal nº 12.016).
+Declaração da prejudicial, de ofício. Art. 332, §1º, do CPC. Incidência do artigo 10, caput, da Lei Federal 12016 c/c o artigo 487, inciso II, do CPC.
+INICIAL INDEFERIDA PELA RELATORA.
+Interposto agravo interno, este foi desprovido pelo Colegiado Estadual, nos seguintes termos:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. DECADÊNCIA CONFIGURADA. INDEFERIMENTO DA INICIAL.
+1. Agravo interno manejado contra decisão proferida por este Relator, que indeferiu a inicial do Mandado de Segurança impetrado pelo ora recorrente.
+2. A teor do art. 23 da Lei 12.016/2009 o direito passível de impetração do mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência do ato impugnado pelo interessado.
+3. O E. Colendo Superior Tribunal de Justiça assentou que, por não configurar prazo de natureza processual, o período deve ser computado em dias corridos (AgInt nos E Dcl no RMS n. 58.440/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/12/2019, D Je de 19/12/2019.).
+4. Impetrante que informa que o edital de homologação de resultado de provas foi publicado em 23/03/2022. Petição inicial e certidão de distribuição que indicam que o mandamus foi ajuizado em 10/01/2024, quando já decorrido o prazo decadencial. 5. Existência de recurso administrativo sem efeito suspensivo que não interfere no transcurso do prazo decadencial.
+6. Decisões judiciais indicadas como paradigma que não constituem um novo marco temporal, eis que produzem efeitos unicamente entre as partes envolvidas no respectivo processo.
+7. Intuito protelatório que tangencia a incidência das cominações ínsitas ao art. 1.021, § 4º, do CPC/2015, ora relevadas tão somente em razão da natureza da matéria.
+INDEFERIMENTO DA INICIAL MANTIDO. AGRAVO INTERNO DESPROVIDO.
+Não foram opostos embargos de declaração.
+O recorrente alega, em síntese, que o ato coator é o indeferimento do requerimento administrativo de atribuição dos pontos decorrentes de anulações de questões por outros candidatos na via judicial, por ser o momento em que foi violado o direito previsto no item 17.8 do edital do certame, o que afasta a decadência, visto que não discute nem a reprovação nem o mérito de tais anulações.
+Apresentadas contrarrazões.
+O Ministério Público opina pelo provimento do recurso ordinário.
+Em decisão de fl. 1.090, as partes foram intimadas para se manifestarem acerca da legitimidade passiva ad causam da autoridade impetrada.
+Manifestações às fls. 1.096-1099 e 1.100-1.155.
+O recurso ordinário não foi provido.
+Foi interposto agravo interno, em que se pleiteia a reforma da decisão agradava, pelo afastamento da decadência.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. ANULAÇÃO DE QUESTÕES. DECADÊNCIA. TERMO INICIAL. INDEFERIMENTO ADMINISTRATIVO. AFASTAMENTO DA DECADÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. AGRAVO INTERNO PROVIDO.
+I - Trata-se de recurso ordinário em mandado de segurança impetrado contra ato do Secretário de Polícia Militar do Estado do Rio de Janeiro, visando ao cumprimento do item 17.8 do edital do concurso público, em razão da anulação de questões da prova objetiva por outros candidatos.
+II - O Tribunal de Justiça do Estado do Rio de Janeiro denegou a segurança, reconhecendo a decadência com base no art. 23 da Lei n. 12.016/09, considerando que o prazo decadencial inicia-se com a ciência inequívoca do ato impugnado.
+III - A Segunda Turma do STJ, em 11/3/2025, no julgamento do RMS 74.059/RJ, relativo ao mesmo concurso e à unanimidade, firmou o entendimento de que o prazo decadencial tem início com o indeferimento administrativo do pedido de extensão dos pontos decorrentes da anulação das questões da disciplina de História correspondentes aos enunciados 21, 22 e 24 da prova azul do concurso público de admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-2014.
+IV - A impetração do mandado de segurança ocorreu dentro do prazo legal, sendo necessário o afastamento da decadência, com o retorno dos autos ao Tribunal de origem para prosseguir no julgamento das demais questões do mandado de segurança.
+V - Agravo interno provido para dar provimento ao recurso ordinário.
+VOTO
+Preliminarmente, a partir da análise das informações dos autos, bem como das manifestações apresentadas pela parte impetrante e pelo ente público, verifico que, em ajusta a entendimento anterior e ao que já vem sendo decidido pelos demais integrantes da Segunda Turma do STJ, não há ilegitimidade passiva no caso dos autos.
+Com efeito, o ato apontado na condição de coator se refere ao indeferimento de pedido administrativo pelo Secretário de Polícia Militar do Estado do Rio de Janeiro.
+Neste contexto, não há falar em ilegitimidade passiva ad causam na presente hipótese.
+No mais, tenho que a questão debatida merece ser revisitada.
+A controvérsia reside, primeiramente, na tentativa de obter administrativamente a ampliação de efeitos de sentença proferida em processo no qual o Impetrante não figura como parte.
+O impetrante aponta como ato coator o indeferimento do requerimento administrativo, uma vez que busca a extensão dos efeitos da anulação de questões, reconhecida em sentença proferida nos autos do Processo n. 0418653-89.2014.8.19.0001, a outros candidatos pela via judicial. De acordo com as informações dos autos, a referida decisão anulou três questões da disciplina de História na prova objetiva do certame ora em discussão.
+Apreciando caso idêntico envolvendo pedido administrativo de atribuição de pontos de questões anuladas na via judicial no mesmo concurso, a Segunda Turma do STJ, de forma unânime, no julgamento do RMS 74.059/RJ, de minha relatoria (julgado em 11/3/2025), firmou o entendimento de que o prazo decadencial tem início com o indeferimento administrativo do pedido de extensão dos pontos decorrentes da anulação das questões da disciplina de História correspondentes aos enunciados 21, 22 e 24 da prova azul do concurso público de admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-2014.
+Confira-se a ementa do julgado:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO/2014. REPROVAÇÃO DO CANDIDATO EM PROVA OBJETIVA. ANULAÇÃO PELA VIA JUDICIAL DE QUESTÕES DA DISCIPLINA DE HISTÓRIA EM FEITOS DIVERSOS. PRAZO DECADENCIAL. TERMO INICIAL NA DATA DO INDEFERIMENTO ADMINISTRATIVO. DECADÊNCIA AFASTADA. AGRAVO INTERNO NÃO PROVIDO.
+I - Na origem, trata-se de mandado de segurança impetrado em 4/3/2024 contra ato atribuído ao Secretário de Polícia Militar do Estado do Rio de Janeiro, consistente no pedido do Impetrante, ao requerer, administrativamente, o cumprimento do item 17.8 do Edital do Concurso Público de Admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro, em razão da anulação de questões da prova objetiva, obtida por outros candidatos do referido concurso.
+II - Na decisão agravada, deu-se provimento ao recurso ordinário para afastar a decadência. Contra a referida decisão, foi interposto o presente agravo interno.
+III - De acordo com a jurisprudência desta Corte Superior, "o art. 23 da Lei 12.016/2009 estabelece que "o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado"" (RMS n. 49.413/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/5/2016, DJe de 25/5/2016).
+IV - Embora recentemente tenha este Relator entendido em casos similares pela ocorrência da decadência, considerando os inúmeros julgados proferidos no âmbito desta Segunda Turma em relação a casos decorrentes do mesmo certame discutido nos presentes autos, e ressalvando meu ponto de vista pessoal, adiro ao entendimento no sentido de que o prazo decadencial, na presente hipótese, tem início com o indeferimento administrativo do pedido de extensão dos pontos decorrentes da anulação das questões da disciplina de História correspondentes aos enunciados 21, 22 e 24 da prova azul do concurso público de admissão ao Curso de Formação de Soldados da Polícia Militar do Estado do Rio de Janeiro - CFSD/PMERJ-2014.
+V - Assim, considerando que a impetração do presente mandamus se deu em 01/03/2024, é de rigor o afastamento da decadência.
+VI - No mesmo sentido, não exaustivamente: RMS n. 75.062/RJ, relator Ministro Teodoro Santos Silva, DJe de 3/12/2024; RMS n. 75037/RJ, relator Ministro Teodoro Santos Silva, DJe de 3/12/2024; RMS 75.069/RJ, relator Ministro Afrânio Vilela, DJe de 2/12/2024; RMS n. 74.941/RJ, relator Ministro Afrânio Vilela, DJe de 2/12/2024;RMS n. 74.847/RJ, relator Ministro Teodoro Silva Santos, DJe de 26/11/2024; RMS n. 75.064/RJ, relatora Ministra Maria Thereza de Assis Moura, DJe de 22/11/2024; RMS n. 74.846/RJ, relator Ministro Afrânio Vilela, DJe de 22/11/2024; e RMS n. 75.102/RJ, relatora Ministra Maria Thereza de Assis Moura, DJe de 18/11/2024.
+VII - Agravo interno não provido.
+Desse modo, privilegiando a segurança jurídica e a uniformização jurisprudencial sobre a questão, é de rigor o afastamento da decadência no presente caso, portanto devem os autos retornar ao TJRJ para prosseguir na análise das demais questões do mandado de segurança.
+Ante o exposto, dou provimento ao agravo interno para, nos termos da fundamentação, dar provimento ao recurso ordinário para afastar a decadência e determinar o retorno dos autos ao Tribunal de origem para prosseguir no julgamento das demais questões do mandado de segurança.
+É o voto.
