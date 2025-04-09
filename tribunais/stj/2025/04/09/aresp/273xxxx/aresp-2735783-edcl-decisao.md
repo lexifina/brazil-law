@@ -1,0 +1,31 @@
+DECISÃO
+Em análise, embargos de declaração opostos por UNIAR COMERCIO DE ELETRO-ELETRONICOS E SERVICOS LTDA. contra decisão que conheceu do agravo para conhecer do recurso especial haja vista a incidência do óbice das Súmulas 280 e 284 do STF, assim como em razão da prejudicialidade da análise do dissídio jurisprudencial.
+A parte embargante alega, em síntese, a existência de contradição, obscuridade e omissão na decisão recorrida.
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, a decisão embargada consignou, expressamente, as razões pelas quais não conheceu do recurso especial, trazendo elementos que justificam de forma clara e suficiente a conclusão alcançada (fls. 472-477):
+Todavia, consoante se depreende da leitura dos autos, o Tribunal a quo fundamentou o acórdão à vista de interpretação do RICMS/SP e na Lei Estadual nº 6.374/89, ensejando, portanto, análise da legislação local correspondente (fls. 237- 248). Vejamos:
+ ..  A empresa devedora questionou a apuração do tributo com base em notas fiscais. Dessa forma, a controvérsia cinge-se à questão de direito relativa à higidez das CDAs debatidas, constituídas a partir de notas fiscais e não do documento de lançamento por homologação típico do ICMS (GIA).
+Nessa toada, o contribuinte é o responsável por adotar as providências necessárias para o cálculo e recolhimento do tributo, sem que a autoridade fiscal interfira, nos termos do art. 150 do CTN e do art. 35 da Lei Estadual nº 6.374/89:
+ ..  O artigo 254-A do RICMS/SP, acrescentado pelo Decreto nº 61.744, de 23 de dezembro de 2015, e lastreado no supracitado art. 35 da Lei Estadual nº 6.374/89, estabeleceu que "o contribuinte de outra unidade federada que não estiver inscrito no Cadastro de Contribuintes do ICMS no Estado de São Paulo, e realizar operações ou prestações destinadas a não contribuinte do imposto localizado em São Paulo, terá os seus débitos fiscais constituídos por meio da emissão dos documentos fiscais correspondentes".
+É certo que a nota fiscal, geralmente, não constituía crédito tributário, tratando-se apenas de instrumento utilizado para a fiscalização tributária e no interesse da arrecadação.
+No entanto, o REsp 1490108/MG foi julgado analisando situação ocorrida entre os anos de 2004 a 2006.
+ ..  É necessário destacar o avanço da Escrituração Fiscal Digital EFD2 via Sistema Público de Escrituração Digital SPED. Esse avanço possibilitou que os Estados recepcionem os registros das operações diretamente nas bases de dados, com imediata retransmissão ao ambiente nacional do SPED, após a emissão de arquivo assinado digitalmente PELO CONTRIBUINTE.
+A EFP, portanto, substituiu a escrituração de registros de entradas e saídas, de inventário, de apuração do IPI e de registro de apuração do ICMS3.
+Dessa forma, os documentos fiscais transmitidos via EFD, o que inclui a Nota Fiscal Eletrônica (NF-e), contêm as mesmas informações necessárias para constituir o crédito tributário relativo ao DIFAL, ou seja, sujeito passivo, fato gerador, base de cálculo, alíquota, local da operação e destinatário com a informação de que não é contribuinte do imposto.
+ ..  Não existem motivos, portanto, para não se considerar a expedição de notas fiscais como documento formal idôneo para o lançamento do ICMS.
+ ..  Dessa forma, revejo o posicionamento anteriormente manifestado, de forma que a transmissão de documentos fiscais via EFD e SPED, que é concomitante à escrituração do registro de ICMS, também digital, importa na constituição do crédito tributário do diferencial de alíquota de ICMS, nos termos do art. 35 da Lei Estadual nº 6.374/89 e do art. 254-A do RICMS/SP.
+Verifica-se, portanto, que a Corte de origem decidiu a controvérsia dos autos com base, essencialmente, nos termos da legislação estadual. Desse modo, considerando que a fundamentação utilizada pela origem não diz respeito à legislação federal, torna-se inviável o conhecimento do recurso especial.
+ ..  2 - Da incidência da Súmula 284/STF
+Oportuno acrescentar que, no que tange à alegação de violação ao art. 1.039 do CPC, sob o viés adotado na tese recursal, o dispositivo não possui comando normativo para sustentar seus argumentos e infirmar as razões adotadas pelo Tribunal de origem para resolução da controvérsia, principalmente no ponto em que se fundamentou em dispositivo de lei local. Assim, incide o óbice da Súmula 284 do STF, por analogia.
+ ..  3 - Da divergência jurisprudencial
+Por fim, resta claro que a análise do dissídio jurisprudencial se encontra prejudicada, tendo em vista que o óbice aplicado ao recurso especial pela alínea "a" prejudica o exame do especial manejado pela alínea "c" do permissivo constitucional para questionar a mesma matéria.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
