@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por Paulo Sérgio Freitas Santos (fls. 6.479/6.779), desafiando decisão da Presidência da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial com base nos seguintes fundamentos: a) Súmulas 282 e 356/STF; b) "O tema da legitimidade do Ministério Público para ajuizar ação civil pública em defesa do erário público, ora não exige maiores discussões, uma vez que se cristalizou o entendimento em tal sentido, por meio da Súmula 329 da Corte Especial"; c) "as discussões relativas à ausência de culpa, falsificação de documento com a qual não concorreu ou a exata importância dos valores devidos, de fato impõem o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importa em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior" e d) "Quanto à letra "c" do permissivo constitucional, deixou o recorrente de atender ao requisito previsto nos arts. 541, parágrafo único, do Código de Processo Civil e 255, §§ 1º e 2º, do RISTJ, em virtude de não existir cotejo analítico." (fls. 6.736/6.739)
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar todos os motivos a dotados pelo Tribunal de origem para negar trânsito ao apelo especial, limitando-se a reiterar os mesmos argumentos deduzidos no apelo inadmitido.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+Diante do exposto, nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
