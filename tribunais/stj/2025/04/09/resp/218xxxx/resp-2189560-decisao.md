@@ -1,0 +1,29 @@
+DECISÃO
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 725/727 , in verbis:
+Trata-se de recurso especial interposto por LUCIMARA RIBEIRO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, fls. 670/684, em face da decisão da 5ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná de fls. 652/658, nos autos da Apelação Criminal nº 0009122-58.2023.8.16.0083 AP.
+2. Nos termos recursais,
+Trata-se de apelação contra decisão que condenou a recorrente como incursa no art. 33, caput, da Lei n º 11.343/2006, à pena de 07 (sete) anos de reclusão, em regime fechado, e 700 (setecentos) dias-multa.
+Nas contrarrazões, o Ministério Público pugnou pelo desprovimento do apelo. No mesmo sentido, o parecer da Procuradoria de Justiça.
+O Tribunal de Justiça do Estado do Paraná, por sua 5ª Câmara Criminal, acordou, por unanimidade de votos, em conhecer em parte e, nesta extensão, negar provimento ao recurso. (Sic, fl. 672).
+3. Por essa razão alega violação ao artigo 28 da Lei nº 11.343/2006 e aos artigos 59 e 68 do Código Penal, motivo pelo qual requer:
+  o conhecimento e provimento do recurso especial, para que:
+a) Seja desclassificada a infração penal do art. 33, caput, para o art. 28, caput, ambos da Lei nº 11.343/2006;
+b) Subsidiariamente, seja afastada a circunstância aplicada na 1ª fase da dosimetria - natureza da droga -, sendo a pena-base fixada em seu mínimo legal. (Fl. 684).
+Ao final, o Parquet opinou pelo não conhecimento do recurso ou pelo seu desprovimento.
+É o relatório.
+Decido.
+Verifico, após a leitura do acórdão, que não foram indicadas provas suficientes para a imposição de condenação à agravante pelo crime de tráfico de drogas.
+No caso, o Tribunal de origem manteve a conclusão de que ela teria praticado o crime de tráfico de drogas, valendo-se dos seguintes fundamentos (e-STJ fl. 654):
+De pronto, o pleito desclassificatório (e de absolvição) quanto ao crime de tráfico de drogas (ao tipo do art. 28 da Lei nº 11.343/06) não merece prosperar.
+Isso porque, a materialidade e a autoria do delito mais grave foram demonstradas precisamente no feito em questão, a teor do art. 28, § 2º, da Lei de Drogas, ficando claro que os tóxicos encontrados na posse da apelante (1,3g de crack, dividida em 7 porções), pelo contexto da apreensão, estavam destinados à distribuição a terceiros  1  /mercancia.
+Neste particular, evidencio os detalhamentos de movs. 1, 162 e 189, com destaque, sobretudo, aos relatos colhidos em juízo dos agentes policiais que atuaram no feito (Fábio e Jean - harmônicos e impessoais, sem vícios ou contradições ), afigurando-se a tese defensiva (no sentido de que as  2  drogas eram para uso da ré) inconsistente e isolada no arcabouço de provas dos autos. exclusivo
+A propósito, apesar dos relatos de Jackson, usuário de drogas, que disse não ter adquirido entorpecentes da acusada momentos antes da abordagem (mov. 162), como bem delineou a sentença,  a ré  "certo é que esta traficava, tanto que os agentes do estado verificaram movimentação de conhecidos usuários da equipe policial e ainda uma policial feminina encontrou entorpecentes junto ao corpo da acusada, notadamente bolso e genitália .." (mov. 214)
+Ademais, a forma de acondicionamento e ocultação das drogas se mostrou típica do tráfico (fracionada, embalada e, em parte, na genitália da acusada), sem olvidar que a quantia em espécie encontrada também destoa da condição de mera usuária de (mais de R$ 300,00), sendo certo crack que as circunstâncias da prisão indicam, igualmente, de forma clara o desenvolvimento da narcotraficância, pois o usuário abordado avisou a ré sobre a presença da polícia no local, momento em que ela tentou empreender fuga.
+Destarte, tendo em vista (i) a validade dos depoimentos policiais , em cotejo com (ii) o restante das provas dos autos; (iii) sem olvidar o fato de que a condição de usuária da ré não elide a traficância - pois muitos são os casos de ingresso de consumidores no tráfico para sustentar seu vício (o que parece ser o caso) -; bem como (iv) que o crime mais grave se realiza pela concretização de qualquer dos verbos do art. 33 da Lei de Drogas, mesmo que não haja mercancia (não tendo a defesa comprovado o elemento diferenciador do art. 28 da mesma lei), reputo imperiosa a manutenção da condenação.
+Note-se que a condenação do agravante foi justificada praticamente na apreensão da droga em seu poder, bem como no depoimento prestado em juízo pelos policiais.
+Contudo, ainda que a palavra dos agentes policiais, como regra, autorize a imposição do decreto condenatório, entendo que, no caso em exame, as declarações não permitem concluir que ele tenha praticado o delito que lhe foi imputado na denúncia.
+De mais a mais, a apreensão da droga, por si só, insta consignar, não indica a realização do tipo inserto no art. 33, caput, da referida lei, notadamente se considerada a pequena quantidade que foi encontrada - aproximadamente 1g (um grama) de crack. Além disso, é importante destacar que não foram localizados petrechos comuns a essa prática, tais como balança de precisão, calculadora, entre outros.
+Em suma, baseou-se a sentença apenas na apreensão dos entorpecentes, cuja quantidade, a meu ver, ajusta-se ao que prescreve o art. 28 da Lei de Drogas, autorizando concluir que a ré a tinha para uso próprio. Noutro falar, como somente a posse da substância estupefaciente foi efetivamente provada nos autos, imperiosa a desclassificação da conduta narrada na exordial para o tipo inserto no art. 28 da Lei n. 11.343/2006.
+Ante o exposto, dou provimento ao recurso especial, a fim de desclassificar a imputação contida na denúncia para o tipo inserto no art. 28 da Lei n. 11.343/2006, devendo o Magistrado de primeira instância aplicar as penas nele cominadas, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
