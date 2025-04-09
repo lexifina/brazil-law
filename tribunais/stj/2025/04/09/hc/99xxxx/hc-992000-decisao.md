@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CÁSSIO BITENCOURT em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi preso em flagrante em 24/1/2025, posteriormente convertida a custódia em preventiva, pela suposta prática da conduta descrita nos arts. 33 da Lei n. 11.343/06 e 16 da Lei n. 10.826/03.
+O impetrante sustenta que a segregação processual do paciente não apresenta fundamentação idônea e que não estão presentes os requisitos autorizadores da medida extrema, previstos no art. 312 do CPP.
+Afirma que não há indícios suficientes de autoria e materialidade.
+Sustenta a inexistência de risco gerado pela liberdade provisória, destacando que o crime imputado não foi praticado mediante violência ou grave ameaça, que o paciente não integra organização criminosa, e que a quantidade de entorpecente apreendida não é significativa.
+Entende adequadas e suficientes as medidas cautelares alternativas positivadas no art. 319 do CPP, realçando os predicados pessoais favoráveis do paciente.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente, mediante a imposição de medidas cautelares diversas do cárcere.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação exposta a seguir.
+No procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+A prisão cautelar foi assim fundamentada (fl. 32 - grifo nosso):
+No caso concreto, há prova da materialidade, notadamente consubstanciada no auto de apreensão e no laudo de constatação da substância apreendida, bem como indícios suficientes de autoria, na medida em que o autuado foi preso em flagrante portando cocaína e, no cumprimento do mandado de busca e apreensão expedido com relação a seu endereço, foram localizadas mais drogas e munições em sua posse, o que se confirmou pelo teor da narrativa das testemunhas ouvidas em sede policial.
+Ainda, há expressa permissão legal, no art. 313, inciso I, do CPP, para o decreto da prisão preventiva, na medida em que os delitos em tese configurados, quais sejam, tráfico de drogas e porte ilegal de munições de uso restrito (9mm), possuem penas privativas de liberdade máximas cominadas superiores a 4 anos.
+Ademais, a gravidade concreta da conduta e os predicados pessoais do autuado revelam o periculum libertatis atual, bem como a insuficiência das medidas cautelares diversas da prisão no caso concreto.
+Com efeito, nada obstante o autuado seja tecnicamente primário, é certo que a localização de numerosas munições de alto potencial lesivo, quais sejam, de 9mm (tanto que de uso restrito), no mesmo contexto em que localizadas as drogas em sua posse, incrementam o risco na liberdade do flagrado.
+E mais, o fato de a abordagem policial ter se dado no cumprimento de mandado de busca e apreensão judicialmente expedido, após investigação prévia acerca do envolvimento do autor na traficância, denotam o mais aprofundado envolvimento do flagrado na criminalidade, a reforçar, portanto, a necessidade da prisão na espécie.
+Diante dos dados em exame, portanto, verifico que a prisão preventiva do flagrado é estritamente necessária na espécie, sendo insuficientes e inadequadas as medidas cautelares diversas da prisão.
+Ante o exposto, nos termos do artigo 310, inciso II, do CPP e com fundamento nos arts. 313 e 312 do CPP, CONVERTO a PRISÃO EM FLAGRANTE de CASSIO BITENCOURT em PRISÃO PREVENTIVA como forma de garantir a ordem pública.
+O acórdão impugnado consignou que (fl. 40 - grifo nosso):
+Diante da gravidade dos fatos noticiados, foi representado por mandado de busca e apreensão para a casa do paciente Cássio.
+Os policiais civis narram que, no dia dos fatos, monitoraram a casa do paciente e viram ele saindo de casa a bordo de uma motocicleta. Relatam que acompanharam o paciente até o campo de futebol localizado na avenida Senador Salgado Filho, onde o paciente teria estacionado a motocicleta e lá permanecido, mexendo no aparelho celular.
+Na ocasião, os policiais civis referem que procederam à abordagem policial e busca pessoal no paciente, tendo sido localizadas cinco buchas de cocaína. Frisam que conduziram o paciente até a sua residência e, em posse de mandado de busca, ingressaram no imóvel, localizando diversas buchas de cocaína, petrechos característicos da traficância, munições de arma de fogo e uma carregador estendido, tendo o paciente admitido informalmente a traficância.
+Do que se tem colhido até o momento, observa-se que estão presentes os requisitos da prisão preventiva do paciente Cassio Bitencourt.
+Nada obstante a quantidade de droga ilícita apreendida com o paciente não seja, por si só, expressiva no caso em apreço (83 gramas de cocaína), também não é irrisória, sendo relevante salientar que a apreensão concomitante de diversas munições de pistola 9mm., carregador estendido e petrechos típicos da traficância são fortes indícios, ao menos em cognição sumária, de que a droga ilícita seria destinada à entrega e distribuição a terceiros.
+A leitura do decreto prisional revela que a custódia cautelar está suficientemente fundamentada na necessidade de garantir a ordem pública, considerando a gravidade da conduta delituosa, pois, por ocasião da prisão em flagrante, foram apreendidos 83 g de cocaína, além de numerosas munições de alto potencial lesivo - 24 munições de calibre 9mm e um carregador estendido com capacidade para 30 munições (fls. 23-24).
+Entende esta Corte que o porte de arma ou munição, no contexto de tráfico de drogas, poderá justificar a manutenção da prisão, por evidenciar a periculosidade do acusado e a necessidade da segregação como forma de acautelar a ordem pública. Nesse sentido: RHC 137.054/CE, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 20/04/2021, DJe 27/04/2021).
+Confira-se :
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO CRIMINOSA. AGRAVO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu o habeas corpus impetrado em favor do agravante, que questiona a manutenção de prisão preventiva.
+2. O decreto de prisão preventiva fundamenta-se na apreensão de grande quantidade de entorpecentes, armas, munições e outros materiais, além de indícios de participação do agravante em organização criminosa.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada nos termos do art. 312 do Código de Processo Penal, considerando a gravidade concreta da conduta e a necessidade de garantir a ordem pública.
+III. Razões de decidir
+4. A prisão preventiva está justificada pela gravidade concreta da conduta, evidenciada pela apreensão de drogas, armas e indícios de participação em organização criminosa, o que demonstra a periculosidade do agente.
+5. A jurisprudência reconhece que a prisão preventiva é adequada para interromper ou diminuir a atuação de integrantes de organização criminosa, garantindo a ordem pública.
+6. A aplicação de medidas cautelares diversas da prisão é inviável, dado que a gravidade do delito e a periculosidade do agente indicam que tais medidas seriam insuficientes para acautelar a ordem pública.
+IV. Dispositivo e tese
+7. Agravo improvido.
+Tese de julgamento: "1. A prisão preventiva é justificada pela gravidade concreta da conduta e pela necessidade de garantir a ordem pública. 2. A participação em organização criminosa e a apreensão de armas e drogas evidenciam a periculosidade do agente. 3. Medidas cautelares diversas da prisão são insuficientes quando a gravidade do delito e a periculosidade do agente indicam risco à ordem pública".
+Dispositivos relevantes citados: CPP, art. 312; CPP, art. 310, II.
+Jurisprudência relevante citada: STF, RHC 122.182, Rel. Min. Luiz Fux, Primeira Turma, julgado em 19.08.2014; STJ, AgRg no HC 899.373/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20.05.2024; STJ, HC 712.034/PR, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 07.06.2022.
+(AgRg no HC n. 975.210/PE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 26/3/2025, DJEN de 2/4/2025, grifei)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
