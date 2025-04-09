@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu o recurso especial interposto por BANCO DO BRASIL SA, com fundamento na incidência das Súmulas 7, do STJ e, por analogia, das Súmulas 282, do STF.
+Em suas razões recursais, a parte agravante sustenta o preenchimento dos requisitos de admissibilidade do recurso especial, pois não existe a necessidade de revolvimento fático-probatório e foram atendidos os requisitos de prequestionamento.
+Assevera, ainda, que:
+Em suma, Nobres Ministros, embora conste no decisum agravado que, para discutir que "analisar a existência de suposta ofensa, importa, necessariamente, em revolvimento de matéria fático-probatória, o que é expressamente vedado pela Súmula nº 7, do Superior Tribunal de Justiça", percebe-se, na realidade, na o haver que se falar em referido óbice, a medida que resta consignado no aresto em debate os aspectos necessários para determinar á ocorrência do fato. E possível inferir, portanto, á ocorrência da má valoração dás provas dos autos pelo Órgão Julgador, motivo pelo qual não se trata de reexame dos fatos (fl. 201).
+ ..
+E de fácil vislumbre, portanto, que, tendo sido decidida, de maneira expressa em primeira instância, é o quanto basta para que seja atendido o requisito do prequestionamento (fl. 203).
+Contraminuta apresentada (fls. 206-212).
+É o relatório.
+Passo a decidir.
+De início,
+De acordo com a jurisprudência deste STJ, para a configuração do prequestionamento, é necessário que a causa tenha sido decidida à luz dos dispositivos legais apontados como contrariados, interpretando-se a sua aplicação ou não, ao caso concreto. Nesse contexto, "a simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento" (AgInt nos EDcl no AREsp 2.263.247/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 7/12/2023).
+No caso, o art. 242, CPC; art. 2º, §5º, da Lei 6.830/80; arts. 108 e 202, CTN não foram objeto de análise pelo Tribunal de origem, nem sequer de modo implícito, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão. Ausente, portanto, o requisito do prequestionamento, incide, no ponto, a Súmula 282 do STF, por analogia.
+Ademais, a alteração da conclusão do Tribunal a quo, acerca da nulidade da citação do Banco do Brasil e a ausência de certeza, liquidez e exigibilidade da CDA, ensejaria o necessário reexame da matéria fático-probatória dos autos, atraindo, por conseguinte, a incidência da Súmula 7 do STJ.
+Nesse sentido: "É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial"" (AgInt no AREsp n. 1.964.284/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Não cabe ao STJ, em recurso especial, analisar suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, a, da Constituição Federal.
+Por fim, cumpre registrar que o recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 541, parágrafo único, do CPC/1973; e do art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
