@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado pela União, em face de acórdão prolatado pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. PAT. LEI 6.321/76. ALTERAÇÃO INDEVIDA POR ATOS INFRALEGAIS. POSSIBILIDADE DE RESTITUIÇÃO JUDICIAL DOS TRIBUTOS RECOLHIDOS APÓS A IMPETRAÇÃO. APELAÇÃO DA UNIÃO FEDERAL E REMESSA NECESSÁRIA PARCIALMENTE PROVIDAS PARA AFASTAR A POSSIBILIDADE DE RESTITUIÇÃO JUDICIAL DOS RECOLHIMENTOS ANTERIORES À IMPETRAÇÃO E ADMINISTRATIVA DE QUAISQUER VALORES. - Os Decretos nºs 78.676/1976, 05/1991 e 3.000/1999, e ainda o Decreto nº 10.854/2021 extrapolaram limites legais, ao proceder a alteração da forma de dedução do PAT e determinar a incidência do desconto diretamente sobre o próprio imposto devido, e não sobre o ‘lucro tributável’, conforme previsto na Lei nº 6.321/1976. - O E. Supremo Tribunal Federal reconheceu que a restituição do pagamento indevido, decorrente de decisão em sede de mandado de segurança, se dê mediante a expedição de precatório ou de requisição de pequeno valor, conforme o caso. (ARE 1387512, Relator(a): Min. ALEXANDRE DE MORAES, Redator(a) do acórdão: Min. DIAS TOFFOLI, Julgamento: 10/10/2022, Publicação: 08/11/2022) - No entanto, cumpre ressaltar que o mandado de segurança não é a via adequada para obter efeitos patrimoniais pretéritos à impetração (Tema 831 - Obrigatoriedade de pagamento, mediante o regime de precatórios, dos valores devidos pela Fazenda Pública entre a data da impetração do mandado de segurança e a efetiva implementação da ordem concessiva - RE 889173, Relator(a): Min. LUIZ FUX, Julgamento: 07/08/2015, Publicação: 17/08/2015) - Nesse sentido é a Resolução 438/2021 do Conselho Nacional de Justiça que altera, renumera e acrescenta dispositivos à Resolução CNJ nº 303/2019, do Conselho Nacional de Justiça, que dispõe sobre a gestão de precatórios e respectivos procedimentos operacionais no âmbito do Poder Judiciário. - Apelação da União Federal e remessa necessária parcialmente providas apenas para afastar a possibilidade da restituição administrativa de quaisquer valores, mantida a possibilidade de restituição judicial unicamente dos tributos exigidos e recolhidos após a impetração.”
+
+    Na minuta, sustenta-se violação dos arts. 5º, II, 84, IV, 100 e 150, III, “b”, todos da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta seguimento.
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem demandaria o exame da moldura fática delineada, bem como da legislação infraconstitucional aplicável (Lei nº 6.321/1976 e Decreto nº 10.854/2021), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas nº 279 e 636/STF: “para simples reexame de prova não cabe recurso extraordinário” e “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Nesse sentido:
+
+    “DIREITO TRIBUTÁRIO. BENEFÍCIO FISCAL. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. FORMA DE APURAÇÃO. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. ART. 102 DA CONSTITUUIÇÃO FEDRAL. AGRAVO NÃO PROVIDO. 1. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Corte. 2. Nos termos do art. 85, § 11, do CPC, o ‘tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. 3. Agravo interno conhecido e não provido.” (RE n. 1.404.914-AgR, Rel. Min. Luís Roberto Barroso, Plenário, DJe 13.12.2023).
+
+    “AGRAVO REGIMENTAL EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DECRETO 10.854/2021. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO. DESCABIMENTO DE CONTROLE EM SEDE DE JURISDIÇÃO CONCENTRADA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. O objeto das ações concentradas na jurisdição constitucional brasileira, além das espécies normativas primárias previstas no art. 59 da Constituição Federal, engloba a possibilidade de controle de todos os atos revestidos de indiscutível conteúdo normativo e autônomo. 2. Os dispositivos impugnados não detém caráter normativo autônomo, pois, editados com base na atribuição regulamentar prevista no art. 84, IV, da Constituição Federal, extrai seu fundamento imediato de validade da Lei 6.321/1976. 3. A controvérsia envolve, quando muito, inconstitucionalidade indireta ou reflexa, reveladora de mera crise de legalidade, insuscetível de ferir parâmetro de controle situado no texto da Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento” (ADI n. 7.133-AgR, Rel. Min. Alexandre de Moraes, Plenário, DJe 1º.9.2022).
+
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/2019; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/05/2019 e RE nº 832.960/DFAgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/05/2019.
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Publique-se.
+
+    Brasília, 9 de abril de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
