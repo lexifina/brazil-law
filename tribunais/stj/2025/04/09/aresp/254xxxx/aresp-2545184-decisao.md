@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO (CDHU) contra decisão que inadmitiu recurso especial com fundamento na ausência de demonstração da alegada violação do artigo indicado no apelo extremo.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão em apelação nos autos de ação de obrigação de fazer c/c indenização por danos morais.
+O acórdão foi assim ementado (fls. 273-274):
+Responsabilidade civil. Ação de obrigação de fazer cumulada com indenização por morais. Vícios de construção. Ação julgada procedente, condenando a ré à reparação dos defeitos construtivos constatados no imóvel da autora e em indenização por danos morais. Existência, entre as partes, de relação de consumo sujeita ao Código de Defesa do Consumidor. Responsabilidade solidária da CDHU e da construtora pelos defeitos construtivos, nos termos do art. 25, § 1º do CDC. Contrato celebrado entre a CDHU e a empresa contratada para a execução do projeto e das obras do conjunto habitacional que perante a autora é res inter alios. CDHU que, ademais, tinha obrigação de fiscalizar a obra. Litisconsórcio facultativo. Legitimidade passiva da ré. Inadmissibilidade da denunciação da lide à construtora, nos termos do artigo 88 do CDC. Vícios apurados em laudo pericial e não impugnados no recurso. Dano moral configurado. Imóvel com danos físicos que comprometeram o exercício de propriedade e a habitabilidade do bem. Aborrecimento da autora que extrapola o mero descumprimento contratual. Efetiva lesão a direito da personalidade. Indenização fixada em R$ 10.000,00, que se mostra razoável e em sintonia com as circunstâncias do caso concreto e com os princípios da proporcionalidade e razoabilidade. Multa diária devidamente fixada nos termos do art. 536, §1º, do CPC. Possibilidade de conversão em perdas e danos (arts. 499 e 816 do CPC) somente após a verificação da impossibilidade de cumprimento da obrigação, sem prejuízo da multa diária imposta (art. 500 do CPC). Honorários advocatícios sucumbenciais fixados em 10% do valor da causa. Incorreção. Valor que não se coaduna com o proveito econômico obtido pela parte (orçamento pericial da obra somado à indenização por danos morais), nos termos do §2º do art. 85 do CPC. Honorários fixados em 15% do valor da condenação. Sentença parcialmente reformada. Recurso parcialmente provido.
+No recurso especial, a recorrente aponta violação dos arts. 5º, LV, da Constituição Federal e 125 Código de Processo Civil.
+Defende o seguinte (fl. 293):
+ ..  a CDHU, ora Recorrente, é parte ilegítima para figurar no polo passivo da presente ação, vez que não firmou qualquer contrato de seguro com a Recorrida.
+Dessa forma, torna-se oportuno esclarecer que O Requerente firmou contrato com a CDHU, para aquisição financiada de imóvel residencial, e que tal empreendimento teve como responsável pela construção PANDA ENGENHARIA E CONSTRUÇÃO LTDA.  .. .
+Requer o provimento do recurso para que seja reformado o aresto impugnado, nos termos das razões apresentadas.
+Contrarrazões às fls. 303-313.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+Além disso, a deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou o dispositivo de lei federal indicado no recurso especial (art. 125 do CPC), inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
