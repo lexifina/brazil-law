@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por ALAN JORDAN SANTOS GARCIA contra decisão que não admitiu seu recurso especial, o qual fora interposto, com fundamento no art. 105, III, alínea "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que, em ação declaratória cumulada com indenizatória por danos morais, negou provimento ao seu recurso de apelação, mantendo a decisão de improcedência dos pedidos, nos termos da seguinte ementa:
+EMENTA -APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA POR DANOS MORAIS - NOTIFICAÇÃO PRÉVIA - ENVIO COMPROVADO - CUMPRIMENTO DO DEVER LEGAL DISPOSTO NO ART. 43, §2º, CDC - AUSÊNCIA DE ATO ILÍCITO E DO DEVER DE INDENIZAR - RECURSO CONHECIDO E NÃO PROVIDO A jurisprudência do STJ é uniforme ao estabelecer que "cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à inscrição" (Súmula 359). Comprovada, no entanto, a notificação da consumidora quanto à inscrição de seu nome no cadastro de inadimplentes, não há que se falar em dever de indenizar, por ausência de ato ilícito, porque cumprido o disposto no art. 43, § 2º do CDC, inexiste conduta omissiva caracterizadora de dano moral.
+Alega o agravante, em síntese, que o acórdão recorrido violou o art. 43, § 2º, do Código de Defesa do Consumidor.
+Sustenta que não foi devidamente notificado acerca da inscrição de seu nome nos cadastros de inadimplentes, pois a correspondência foi enviada a endereço incorreto, diverso de seu domicílio real, fato que teria impedido a ciência da dívida e eventual adimplemento ou impugnação.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem, com base no conjunto fático-probatório dos autos, negou provimento à apelação do agravante, mantendo a sentença que julgou improcedente a ação, sob o fundamento de que restou comprovado o envio da notificação prévia ao consumidor por meio válido, consistente em carta encaminhada ao endereço constante dos autos, indicado pelo próprio agravante. Confiram-se (fls. 360/362, grifou-se):
+"No caso vertente, as notificações restaram comprovadas às f.30, senão vejamos:
+ ..
+Nesse norte, a documentação trazida aos autos é idônea e suficiente para demonstrar o envio de notificação prévia à apelante.
+Cumpre mencionar ainda, que o endereço da carta é o mesmo endereço colacionado pelo autor-recorrente neste feito, com o documento do seu holerite à f.14:
+ ..
+Desse modo, provado o envio da notificação ao autor quanto ao registro no cadastro de inadimplentes impugnado na inicial no tocante ao débito discutido nesses autos, conforme exigência do § 2º, do artigo 43, do Código de Defesa do Consumidor a sentença deve ser mantida."
+Assim, ao contrário do que sustenta o agravante, o acórdão recorrido expressamente reconheceu a regularidade do envio da notificação pela parte agravada, realizada por meio de correspondência encaminhada pelos Correios, estando, portanto, em conformidade com o entendimento consolidado nas Súmulas 359 e 404 do STJ . A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. 1. DANOS MORAIS. NÃO CONFIGURADOS. COMUNICAÇÃO PRÉVIA COMPROVADA. ART. 43, § 2º, DO CDC. INCIDÊNCIA DAS SÚMULAS 359 E 404/STJ. NECESSIDADE DE REEXAME DOS FATOS. SÚMULA 7/STJ. 2. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. A Segunda Seção deste Tribunal, no julgamento do REsp 1.083.291/RS representativo de controvérsia repetitiva (art. 543-C CPC/73), consolidou o entendimento de que, para a notificação ao consumidor da inscrição de seu nome em cadastro restritivo de crédito, basta o envio de correspondência dirigida ao endereço do devedor, sendo desnecessário o aviso de recebimento.
+1.2. Na espécie, a Corte a quo, calcada nas provas acostadas aos autos, concluiu pelo cumprimento do disposto no art. 43, § 2º, do Código de Defesa do Consumidor. A revisão desse entendimento demanda a reapreciação das provas, providência que encontra óbice na Súmula 7/STJ.
+1.3. Não cabe, em recurso especial, desconstituir a premissa de fato adotada pelo Tribunal de origem no sentido de que a notificação prévia dos consumidores não foi efetuada.
+2. A revisão dos critérios fáticos sopesados de forma equitativa para fixação dos honorários advocatícios revela-se, em princípio, inviável em razão do óbice disposto na Súmula 7/STJ, o qual somente poderia ser relevado se o aludido valor fosse considerado irrisório ou exorbitante, o que não ocorreu nos autos.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 1.283.792/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535. NÃO OCORRÊNCIA. CONSUMIDOR. CADASTRO DE INADIMPLENTES. NOTIFICAÇÃO PRÉVIA. OCORRÊNCIA. SÚMULA 404 DO STJ. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. VERBA HONORÁRIA. REDUÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. POSSIBILIDADE.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973.
+3. Segundo jurisprudência do Superior Tribunal de Justiça, fixado em julgamento submetido ao rito dos repetitivos, para que se cumpra o disposto no art. 43, § 2º, do Código de Defesa do Consumidor, basta o envio de correspondência dirigida ao endereço do consumidor, sendo desnecessário aviso de recebimento (REsp. 1.083.291/RS, Relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 9.9.2009, DJe 20.10.2009). (Súmula 404 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 902.752/SP, de minha relatoria, Quarta Turma, julgado em 17/11/2016, DJe de 30/11/2016.)
+Desse modo, diante das premissas estabelecidas pelo Tribunal de origem, não há contrariedade entre o acórdão recorrido e o entendimento do STJ sobre o tema. Sendo assim, incide, no caso, o óbice da Súmula 83 do STJ.
+Além disso, a reapreciação da matéria no âmbito do recurso especial, com o objetivo de infirmar os pressupostos adotados pelo Tribunal de origem quanto à regularidade da notificação enviada, implicaria o reexame do conjunto fático-probatório da demanda, providência expressamente vedada em sede de recurso especial, conforme o óbice previsto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
