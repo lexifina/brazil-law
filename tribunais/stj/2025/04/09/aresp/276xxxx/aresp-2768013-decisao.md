@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GOL LINHAS AÉREAS S.A. contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ, prejudicada a análise da divergência jurisprudencial (fls. 318-322). Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o recurso é manifestamente inadmissível, requerendo a aplicação de multa por litigância de má-fé (fls. 302-316).
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em apelação nos autos de ação indenizatória.
+O julgado foi assim ementado (fls. 248-249):
+Apelação cível. Relação de consumo. Transporte aéreo de passageiros. Cancelamento do voo informado horas antes do embarque. Falha na prestação do serviço. Venda de voo inexistente. Ausência de aviso prévio, reacomodação para o mesmo dia ou auxílio básico material aos demandantes. Sentença que julga procedentes os pedidos, para condenar a ré ao pagamento dos danos materiais comprovados e de danos morais no valor de R$ 8.000,00 (oito mil reais) para cada um dos autores, devidamente corrigidos. Irresignação da empresa aérea que não merece prosperar. Incidência do Código de Defesa do Consumidor. Serviço convencionado que não fora prestado de forma eficiente, tampouco a ré agira no sentido de atenuar os danos causados aos demandantes. Ausência de ocorrência de força maior. Necessidade de readequação da malha aeroviária que se insere no risco da atividade desenvolvida pela ré. Aplicação da teoria do risco do empreendimento. Aborrecimentos que desbordam da normalidade. Dano moral corretamente configurado. Indenização fixada em observância aos princípios da razoabilidade e proporcionalidade. Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 270-272):
+Embargos de declaração. Atipicidade ao art. 1.022, incisos I a III, do CPC. Inexistência de erro, omissão, contradição ou obscuridade supríveis. Rejeição dos embargos.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 131 do CPC, pois não houve apreciação adequada das provas apresentadas;
+b) 402 do Código Civil, visto que a indenização por danos morais foi fixada em valor excessivo;
+c) 946 do Código Civil, porquanto não foi observada a proporcionalidade na fixação do dano moral;
+d) 14, § 3º, II, do CDC, porque há excludente de responsabilidade devido à força maior; e
+e) 734 do Código Civil, pois o cancelamento do voo ocorreu por determinação das autoridades aeroportuárias.
+Sustenta que o Tribunal de origem divergiu ao não aplicar corretamente a teoria do risco do empreendimento, conforme precedentes do STJ que limitam a responsabilidade das companhias aéreas em casos de força maior.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reduzindo o valor da indenização por danos morais.
+Nas contrarrazões, a parte recorrida aduz que o recurso é manifestamente inadmissível e requer a aplicação de multa por litigância de má-fé (fls. 302-316).
+É o relatório. Decido.
+I - Da alegada violação dos arts. 131 do CPC
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de
+que o magistrado é o destinatário das provas, cabendo-lhe apreciar a necessidade de sua produção, sendo soberano para formar seu convencimento e decidir fundamentadamente, em atenção ao princípio da persuasão racional (AgInt no REsp n. 2.148.364/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/10/2024, DJe de 16/10/2024).
+Motivadamente, reconheceu que houve a devida fundamentação sobre a prova produzida nos autos, registrando que o serviço de transporte aéreo não foi prestado de forma eficiente, na medida em que os passageiros não foram conduzidos ao seu destino no tempo esperado, sem qualquer auxílio básico material, o que acarretou grande frustração e angústia aos autores.
+Logo, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ acerca do convencimento do magistrado sobre o dano moral surgido do cancelamento do voo, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+II - Da alegada violação do art. 14, § 3º, II, do CDC
+Insurge-se o recorrente apontando a existência de excludente de responsabilidade devido à força maior, firmada na suposta necessidade de readequação da malha aérea pelas autoridades competentes.
+A jurisprudência firmada por esta Corte estabelece a responsabilidade civil objetiva do transportador, o qual deverá responder pelos danos causados às pessoas transportadas e suas bagagens, salvo a existência de alguma excludente de responsabilidade, como motivo de força maior, caso fortuito, culpa exclusiva da vítima ou de terceiro (REsp 1.354.369/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 5/5/2015, DJe de 25/5/2015).
+Veja-se: REsp n. 1.984.282/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2022, DJe de 22/11/2022; REsp n. 1.728.068/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/6/2018, DJe de 8/6/2018.
+No caso, o Tribunal a quo, concluiu que, ainda que comprovada a eventual necessidade de readequação da malha aérea, o que não ocorreu, tais intercorrências se inserem no risco da atividade desenvolvida pela recorrente, em razão da aplicação da Teoria do Risco do Empreendimento.
+Ademais, destacou que a empresa recorrente deixou de observar as normas que regem a atividade de transporte aéreo, no caso, os artigos 26, I, e 27, I, II e III, da Resolução ANAC n. 400/2016, que tratam sobre a assistência material ao passageiro no caso de cancelamento de voo.
+Nesse contexto, tendo o Tribunal de origem concluído pela ausência de assistência material pelo recorrente aos passageiros em razão do cancelamento do voo, assim como que não houve comprovação de readequação da malha aérea, rever tal conclusão para afastar a responsabilidade da recorrente em razão da excludente de força maior demandaria, no caso, o reexame do acervo fático-probatório dos autos, o que atrai a incidência da Súmula n. 7 do STJ.
+III - Da alegada violação dos arts. 402 e 946 do CC. Do quantum indenizatório
+O valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se apresentar-se irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 8.000,00 para cada autor, houve moderação, visto que não concorreu para o enriquecimento indevido da vítima e que foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e o porte socioeconômico do causador do dano (fl. 254).
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+IV- Do dissídio jurisprudencial
+No tocante ao apontado dissídio, ressalto que a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 30/6/2022; AgInt no AREsp n. 1.866.385/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/5/2022; AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, DJe de 1/9/2022; AgInt no AREsp n. 1.724.656/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24/8/2022; e AgInt no REsp n. 1.503.880/PE , relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/3/2018.
+V- Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro para 20 % sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
