@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de LUIZ FERNANDO SOUZA ZACARIAS, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, em virtude do julgamento que deu parcial provimento à apelação criminal n. 5001817-13.2022.8.24.0159 apenas para redimensionar a pena.
+Consta dos autos que o paciente foi inicialmente condenado às penas de de 8 (oito) anos e 10 (dez) meses de reclusão e 1 (um) ano de detenção, em regime inicialmente fechado, além do pagamento de 1.293 (mil, duzentos e noventa e três) dias-multa, pela prática dos delitos tipificados no art. 33, caput, c/c art. 35, caput, ambos da Lei n. 11.343/06, e no art. 12 da Lei n. 10.826/03.
+Na sequência, o Tribunal local deu parcial provimento ao recurso de apelação da defesa para readequar a reprimenda imposta para 8 (oito) anos de reclusão, e 1 (um) ano de detenção, além do pagamento de 1.210 (mil e duzentos e dez) dias-multa.
+Neste habeas corpus, a Defesa busca o reconhecimento da nulidade da busca domiciliar, a absolvição dos delitos de posse irregular de arma de fogo e de associação para o tráfico, bem como a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/06.
+Informações prestadas pela autoridade coatora (fls. 100-237).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do habeas corpus, ou, no mérito, pela denegação da ordem (fls. 244-258).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível constrangimento ilegal em razão de alegada nulidade da prova derivada da busca domiciliar por suposta ausência de justa causa.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, verifico que o Tribunal local concluiu, a partir das circunstâncias fáticas bem delineadas no acórdão recorrido, pela presença de fundadas razões a amparar a busca domiciliar, que se deu no contexto de flagrante de crime permanente e com autorização de entrada no domicílio por moradora, inexistindo o alegado vício.
+Por fim, observo que o pleito de absolvição de posse irregular de arma de fogo e de associação para o tráfico foi afastado diante da suficiência probatória quanto à prática dos crimes, restando também inviabilizada por incompatibilidade lógica a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/06.
+Nesse contexto, não se mostra possível o revolvimento dos fatos e das provas, haja vista o habeas corpus não ser meio processual adequado para analisar a tese de insuficiência probatória para a condenação, uma vez que se trata de ação constitucional de rito célere e de cognição sumária.
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
