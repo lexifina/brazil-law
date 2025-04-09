@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, recurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 121-129), assim ementado :
+EXECUÇÃO FISCAL. Redirecionamento da execução contra o sócio. Prescrição intercorrente. Escoamento do prazo de cinco anos entre a data da citação da empresa e a da citação dos sócios. Art. 174, I, do CTN, na redação anterior à LC 118/05. Prescrição reconhecida. Decisão que rejeitou a arguição e o consequente pedido de exclusão do agravante do polo passivo da relação processual. Recurso provido.
+A parte recorrente interpôs o presente recurso especial, admitido na origem com fundamento no art.105, III, a, da Constituição Federal, no qual sustenta que o acórdão recorrido teria violado os arts. 135, III, e 174 do CTN; e art. 189 do CC.
+É o relatório.
+Passo a decidir.
+Inicialmente, cumpre destacar que o Superior Tribunal de Justiça não está subordinado ao juízo prévio de admissibilidade proferido pelo Tribunal de origem, haja vista a verificação dos pressupostos do recurso estar sujeita a duplo controle.
+Cuida-se de recurso especial interposto pela Fazenda do Estado de São Paulo que procura afastar o reconhecimento da prescrição para o redirecionamento da execução fiscal para o sócio gerente porque "não houve inércia por prazo superior a cinco anos, pelo contrário, antes dessa data, como não esgotadas as tentativas de recebimento do crédito a partir dos bens da sociedade executada, não existia direito de ação em face dos sócios" (fl. 146).
+Por outro lado, o acórdão recorrido consignou, expressamente, que a demora na citação se deu por desídia da Fazenda, e não pela demora nos mecanismos jurisdicionais, vejamos (fl. 128):
+Diversamente do afirmado pela Fazenda do Estado em contrarrazões, a demora na citação dos sócios não decorreu de culpa da máquina judiciária. Os elementos dos autos demonstram que de agosto de 2003 até fevereiro de 2013 a exequente nada requereu nos autos (fls. 107/108). A morosidade resultou de sua inércia. Não há que falar na aplicação da Súmula 106 do STJ ao presente caso.
+De modo que o recurso não merece ser conhecido, uma vez que o tribunal local traçou balizas fáticas que inviabilizam a pretensão recursal de afastar a ocorrência da prescrição.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto impugnado a respeito da responsabilidade da inércia da parte para promover o redirecionamento passa por revisitar o acervo probatório, o que é vedado na via eleita ante a Súmula n. 7/STJ.
+Nesse sentido, vejamos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. DISSOLUÇÃO IRREGULAR. REDIRECIONAMENTO AOS SÓCIOS. POSSIBILIDADE. SÚMULA 435/STJ.
+ ..
+2. A alteração das conclusões adotadas pela Corte de origem, no tocante à aplicação da Súmula 106/STJ, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Nos termos da Súmula 435/STJ: "Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente".
+4. Agravo regimental a que se nega provimento (AgRg no REsp n. 1.566.030/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/12/2015, DJe de 2/2/2016, grifo nosso).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO FISCAL. SÚMULA 106/STJ. INÉRCIA DO FISCO. SÚMULA 7 DO STJ. ORIENTAÇÃO. CONSONÂNCIA. RECURSO REPETITIVO.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1.120.295/SP, submetido à sistemática do art. 543-C do CPC, firmou o entendimento de que, na cobrança judicial do crédito tributário, a interrupção do lustro prescricional operada pela citação válida (redação original do CTN) ou pelo despacho que a ordena (redação do CTN dada pela LC 118/2005) sempre retroage à data da propositura da ação (art. 219. § 1o,, do CPC c/c o art. 174 do CTN).
+2. Também não merece seguimento o presente recurso quanto à alegação de ausência de inércia do Poder Judiciário em efetuar a citação do devedor, pois esta análise demanda, necessariamente, reexame do contexto fático-probatório dos autos, o que é vedado ao STJ, em Recurso Especial, por óbice da Súmula 7/STJ.
+3. Ademais, não se logrou êxito em demonstrar fundamento apto a desconstituir a orientação firmada pelo Superior Tribunal de Justiça em Recurso Especial Repetitivo, razão pela qual não é possível dar provimento ao presente agravo.
+4. Agravo Regimental não provido (AgRg no REsp n. 1.460.275/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/9/2014, DJe de 26/9/2014, grifo nosso).
+Isso posto, com fundamento no art. 932, III, do CPC e art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Tendo em vista que os honorários sucumbenciais foram fixados por equidade em valor fixo, majoro os honorários advocatícios anteriormente fixados em R$ 1.000,00 (mil reais), com fundamento no art. 85, § 11, do CPC/2015, observados os limites percentuais previstos no § 3º do referido dispositivo legal .
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Intimem-se.
+EMENTA
