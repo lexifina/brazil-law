@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo interposto por NEIDE APARECIDA BORGES FERREIRA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS cuja ementa guarda os seguintes termos (fls. 624):
+APELAÇÃO CÍVEL. AÇÃO DE INVENTÁRIO. LITISPENDÊNCIA. MESMAS PARTES, PEDIDOS E CAUSA DE PEDIR. EXTINÇÃO DO FEITO AJUIZADO POSTERIORMENTE. RECURSO CONHECIDO E DESPROVIDO.
+1. Consoante o artigo 337, inciso VI, §§ 1º, 2º e 3º, do Código de Processo Civil, a litispendência caracteriza- se apenas pela identidade entre ações em curso e com as mesmas partes, causa de pedir e pedidos. É o que a doutrina chama de tríplice identidade. O escopo desse fenômeno processual é garantir a economia processual e impedir o resultado conflitante entre tutelas iguais.
+2. In casu, trata-se das mesmas partes, pedido e causa de pedir, uma vez que ambos os procedimentos buscam a partilha dos bens deixados pela de cujus. O fato de os herdeiros estarem em polos distintos nos dois feitos não é suficiente para afastar a caracterização da litispendência.
+3. Configurada a litispendência deve "ser fixado, como marco definidor acerca de qual das ações idênticas deve prosseguir, a data de seu registro ou distribuição, nos termos dos arts. 59 e 312, ambos do CPC/15." (R Esp n. 1.739.872/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/11/2018, D Je de 22/11/2018.)
+4. RECURSO CONHECIDO E DESPROVIDO.
+Rejeitados os embargos de declaração opostos (fls. 665-679).
+No recurso especial, alega, preliminarmente, ofensa aos arts. 1.022, I, II, e 489 §1º, IV, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 312, 240, 48 e 505, todos do CPC e artigo 1.785 do CC, pois o acórdão não considerou que a citação válida é o marco que induz litispendência e não apenas a propositura da ação; que o inventário foi aberto em comarca incompetente, uma vez que o último domicílio da falecida era Brasília/DF e que o Juízo de primeiro grau já havia decidido sobre a competência territorial, e não houve recurso por parte do recorrido, configurando a preclusão da matéria.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 726-728), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+De início, em relação à apontada violação dos arts. 489 e 1.022 do CPC, observa-se, portanto, que a lide foi solucionada em conformidade ao que foi apresentado em juízo. Verifica-se que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO DIRETA. UTILIDADE PÚBLICA. CONCESSIONÁRIA DE VEÍCULOS. RECURSO ESPECIAL. OFENSA AO ARTIGO 1022, II, DO CPC/15. INOCORRÊNCIA. DEVOLUÇÃO TOTAL DA MATÉRIA EM REEXAME NECESSÁRIO. SÚMULA 325/STJ. NECESSIDADE DE ALUGAR IMÓVEL LINDEIRO PARA ALTERAR ACESSO A LOJA. INDENIZAÇÃO AFASTADA PELO TRIBUNAL DE ORIGEM. REVISÃO. SÚMULA 7/STJ.
+1. Os arts. 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos. A pretexto de apontar a existência de erros materiais, omissão e premissas erradas, a parte agravante quer modificar as conclusões adotadas pelo aresto vergastado a partir das informações detalhadas do laudo pericial.
+ ..
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.974.188/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2022, DJe de 4/11/2022.)
+Verifica-se que, em relação à apontada ofensa aos arts. 312, 240 e 48, todos do CPC e artigo 1.785 do CC, o recurso especial não merece prosperar porquanto encontra óbice na Súmula 83 do Superior Tribunal de Justiça.
+A propósito, cito o seguinte precedente:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE INVENTÁRIO E PARTILHA. PREJUÍZO CAUSADO PELO SERVIÇO JUDICIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARGUMENTAÇÃO RECURSAL DISSOCIADA DA QUESTÃO DECIDIDA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. LITISPENDÊNCIA ENTRE AÇÕES DE INVENTÁRIO E PARTILHA PROPOSTAS POR DIFERENTES COLEGITIMADOS. TRÍPLICE IDENTIDADE CONFIGURADA, AINDA QUE AS PARTES OCUPEM POLOS DISTINTOS. LEGITIMIDADE CONCORRENTE E DISJUNTIVA. AÇÃO DE NATUREZA CONTENCIOSA E PROCESSADA SOB RITO ESPECIAL. OBSERVÂNCIA DAS REGRAS CONTIDAS NA PARTE GERAL DO CPC/15. CRITÉRIO TEMPORAL PARA DEFINIÇÃO SOBRE QUAL AÇÃO LITISPENDENTE DEVE PROSSEGUIR. DATA DE NOMEAÇÃO DO INVENTARIANTE. IMPOSSIBILIDADE. INSEGURANÇA JURÍDICA E AUSÊNCIA DE PREVISÃO LEGAL. DEFINIÇÃO A PARTIR DA DATA DA PROPOSITURA DA AÇÃO. OBSERVÂNCIA DOS ARTS. 59 E 312 DO CPC/15. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1- Ação proposta em 17/02/2016. Recurso especial interposto em 21/11/2017 e atribuído à Relatora em 11/05/2018.
+2- O propósito recursal é definir o critério a ser utilizado para decidir qual processo judicial deverá permanecer em trâmite na hipótese em que há litispendência decorrente do ajuizamento, por diferentes colegitimados, de mais de uma ação de inventário e partilha de bens do mesmo de cujus.
+3- Não se conhece do recurso especial que se funda em prejuízo imputável ao serviço judiciário na hipótese em que o acórdão recorrido não examinou a questão federal relacionada ao art. 240, §3º, do CPC/15, mesmo após a oposição de embargos de declaração, mas não tendo a parte alegado violação aos arts. 1.022 e 1.025 do CPC/15. Súmula 211/STJ. Precedentes.
+4- É deficiente a fundamentação recursal em que se alega desrespeito à ordem de nomeação do inventariante prevista no art. 617 do CPC/15 quando o acórdão recorrido indica que essa matéria deverá ser examinada na ação de inventário e partilha remanescente. Súmula 284/STF.
+5- Há litispendência entre duas ações de inventário e partilha ajuizadas por distintos colegitimados quando presente a tríplice identidade - mesmas partes, mesmas causas de pedir e mesmos pedidos -, sendo irrelevante o fato de as partes ocuparem polos processuais contrapostos nas duas ações em virtude da legitimação concorrente e disjuntiva para o ajuizamento da ação.
+6- A ação de inventário e de partilha de bens é de natureza contenciosa e se submete a procedimento especial regulado pelo próprio CPC/15, de modo que a ela se aplicam às regras relacionadas ao momento de propositura da ação, à prevenção e à litispendência e que se encontram na parte geral do Código.
+7- A data da nomeação do inventariante não pode ser elemento temporal definidor acerca de qual ação litispendente deve seguir em tramitação, seja porque inexiste previsão legal nesse sentido, seja porque se trata de marco temporal inseguro, porque vinculado à movimentações e atos processuais que independem exclusivamente das partes, devendo ser fixado, como marco definidor acerca de qual das ações idênticas deve prosseguir, a data de seu registro ou distribuição, nos termos dos arts. 59 e 312, ambos do CPC/15.
+8- Fica prejudicado o exame do recurso especial fundado em divergência jurisprudencial quando a pretensão é acolhida com base na violação da lei federal.
+9- Recurso especial parcialmente conhecido e, nessa extensão, provido, ficando prejudicado o agravo interno interposto na TP/1442, em que se pretendia a concessão de efeito suspensivo ao recurso especial.
+(REsp n. 1.739.872/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 13/11/2018, DJe de 22/11/2018.)
+Por fim, não merece conhecimento o recurso especial quanto à suscitada violação do art. 505 do CPC, visto não ter havido o necessário prequestionamento, porquanto se verifica que a Corte a quo não analisou, sequer implicitamente, a matéria recursal à luz do referido dispositivo legal.
+Incidência, no caso, do enunciado da Súmula n. 211 do Superior Tribunal de Justiça: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTIGOS 489 E 1022 DO CPC. INEXISTÊNCIA. AÇÃO DE INVENTÁRIO. LITISPENDÊNCIA. SÚMULA N. 83/STJ. PRECLUSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO IMPROVIDO.
