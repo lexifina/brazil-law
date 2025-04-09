@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICÍPIO DE GLAUCILÂNDIA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+REMESSA NECESSÁRIA II RECURSO DE APELAÇÃO - NULIDADE DE SENTENÇA - PRELIMINAR SUSCITADA EX OFFICIO - LIMITES OBJETIVOS DA LIDE - APRECIAÇÃO DA TOTALIDADE DO PEDIDO - IMPOSIÇÃO AO MAGISTRADO - SENTENÇA CITRA PETITA. - A SENTENÇA CITRA PETITA, EM SEU ASPECTO OBJETIVO, É AQUELA QUE FICA AQUÉM DO PEDIDO DO AUTOR OU DEIXA DE ENFRENTAR E DECIDIR CAUSA DE PEDIR OU ALEGAÇÃO DE DEFESA APRESENTADA PELO RÉU. - IMPOSSÍVEL A APLICAÇÃO DA TEORIA DA "CAUSA MADURA", DECORRENTE DA EXEGESE DO ART. 515, §3º, DO CPC, QUANDO NÃO HOUVE QUALQUER MANIFESTAÇÃO DE DEFESA SOBRE A QUESTÃO OMISSA, BEM COMO SE VISLUMBRADO O RISCO DE REFORMATIO IN PEJUS, JÁ QUE É DEFESO AO JUÍZO AD QUEM AGRAVAR A CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA, NO REEXAME NECESSÁRIO (SÚMULA 45 DO STJ). - A CONSTATAÇÃO DE VÍCIO DE OMISSÃO IMPÕE O RECONHECIMENTO DE NULIDADE DO DECISUM.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 11 e 489, § 1º, IV, do CPC, porquanto, em apertada síntese, "o nobre desembargador Relator ao deixar de aplicar o entendimento dominante do STF, presente na Súmula 339 STF não a fundamentou devidamente" (fl. 1.020).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento do(s) artigo(s) de lei federal apontado(s) como violado(s), porquanto não houve o devido e necessário debate a respeito deste(s) dispositivo(s) no acórdão prolatado pelo Tribunal a quo.
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual ;"ausente o prequestionamento de dispositivos apontados como violados no recurso especial, nem sequer de modo implícito, incide o disposto na Súmula nº 282/STF" (REsp n. 2.002.429/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.837.090/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; REsp n. 1.879.371/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgRg no REsp n. 2.103.480/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/3/2025; AgRg no AREsp n. 2.491.927/PA, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.112.937/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgInt no AgInt nos EDcl no REsp n. 1.522.805/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 16/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
