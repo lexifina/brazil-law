@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SERGIPE contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE assim ementado:
+CORREIÇÃO PARCIAL - DEFESA ALEGA EQUÍVOCO NA DECISÃO DO JUÍZO CRIMINAL QUE INDEFERIU PERÍCIA PAPILOSCÓPICA - PROVA PERICIAL JÁ ANTERIORMENTE DEFERIDA EM DECISÃO FUNDAMENTADA QUE NÃO FOI OBJETO DE RECURSO - JUÍZO A QUO, POSTERIORMENTE, INDEFERIU DE OFÍCIO A MESMA PROVA VERIFICADO EQUÍVOCO QUE GEROU TUMULTO PROCESSUAL GARANTIAS CONSTITUCIONAIS - DILIGÊNCIA PELA BUSCA DA VERDADE REAL - MATÉRIA JÁ DECIDIDA SEM INTERPOSIÇÃO DER E CURSO - DECISÃO COMBATIDA REFORMADA - PROVA PERICIAL QUE DEVE SER REALIZADA NOS TERMOS DA DECISÃO ANTERIOR - CORREIÇÃO PARCIAL CONHECIDA E PROVIDA.
+Neste recurso especial, o recorrente alega alega violação aos artigos 167 e 396- A, do Código de Processo Penal e artigo 55, §1º, da Lei 11.343/2006. Argumenta que "fora oportunizado ao acusado requerer a produção da prova no momento de apresentação da resposta à acusação, de modo que a não observância do prazo legalmente estabelecido acarreta preclusão do direito, conforme inteligência do art. 396-A, do CPP e do art. 55 § 1º da Lei 11.343/2006" (fl. 8). Requer, nesses termos, o provimento do recurso para restabelecer a decisão de indeferimento da perícia papiloscópica.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ fls. 122/125).
+É o relatório.
+Decido.
+Sobre a matéria, o Tribunal de origem consignou que:
+De início, ressalto que da decisão combatida (fls. 281), houve tempestivo pedido de reconsideração pelo Corrigente, como avistável às fls. 289/297, tendo o Juízo Corrigido mantido a decisão combatida às fls. 307.
+Nessa senda, ao confrontar os comandos normativos colacionados com o que emerge do encarte processual, verifico que assiste razão ao Corrigente ao apontar tumulto processual oriundo da decisão proferida pelo Juízo Corrigido que, de ofício, indeferiu prova anteriormente deferida, merecendo provimento a presente Correição Parcial.
+Analisando detidamente os autos originários, vislumbro que a Defesa do réu, em petição acostada às fls. 177/180, requereu a produção da prova pericial consistente na perícia papiloscópica. Na sequência, observo que, apesar do parecer ministerial pelo indeferimento da referida prova, o Juízo Criminal, ora Corrigido, em decisão fundamentada proferida em 31/01/2024, às fls. 193, deferiu o pleito da Defesa e determinou a realização da perícia papiloscópica, nos seguintes termos:
+"Às fls. 177/180 dos autos, a Defesa Técnica pleiteou produção de provas - perícia papiloscópica.
+Instado a se manifestar, o Ministério Público, em seu parecer às fls., postulou pelo indeferimento do referido pleito, por entender que na Resposta à Acusação, a Defesa teve a oportunidade processual adequada para indicar e produzir provas, sobremaneira a prova pericial, momento em que não o fez, tendo precluído seu direito.
+Decido
+Observa-se no art.400, §1º do CPP, que pode o juiz indeferir as provas consideradas irrelevantes, impertinentes ou protelatórias, o que não se avulta no caso, uma vez que dadas as circunstâncias dos fatos, onde a droga fora encontrada no local onde o réu havia se escondido ao avistar a guarnição, e não na sua posse, exigindo, portando, uma análise mais aprofundada do caso.
+Pelo exposto, a fim de se evitar o cerceamento de defesa, defiro o requerimento da Defesa técnica, e, para tanto, intime-se a Autoridade Policial para que promova a realização da perícia papiloscópica nas embalagens das substâncias e até mesmo nas substâncias, bem como na faca, com a finalidade de identificar se possui ou não digitais do Réu nos referidos objetos.
+Intime-se ".
+Assim, temos que o deferimento da prova pericial em questão restou embasada na garantia constitucional da ampla defesa, além de se tratar de diligência necessária para o deslinde do feito na busca da verdade dos fatos.
+Verifico ainda que a efetivação da perícia deferida na instrução criminal foi devidamente requisitada, de forma reiterada, durante a instrução criminal, conforme avistável às fls. 208/209 e às fls. 243, nos seguintes termos, respectivamente:
+"Encerrada a instrução processual, observando a diligência já requerida pela defesa e ainda não atendida pela autoridade policial, reitere-se a intimação da autoridade policial da 1ª DM desta capital, a fim de encaminhar o Laudo da Perícia requerida, com cópia da peça de pp. 177/180, reiterando ofício ". que consta à p. 194, para ser cumprido em 10 dias. "
+Quanto à perícia datiloscópica mencionada pela defesa à p. 214, oficie-se ao Instituto de Criminalística para informar se ela foi realizada, informando o nº do IP que é 11.890/2023 da 1ª DM desta Capital, no prazo de 10dias.
+Em que pese o trâmite regular do feito, o Juízo a quo, sem qualquer novo requerimento, indeferiu a mesma prova pericial, determinando a intimação do patrono do réu para se manifestar, nos seguintes termos, :in verbis
+"Intime-se o advogado sobre o indeferimento da PERÍCIA PAPILOSCÓPICA requerida às pp. 255/258, em razão do decurso do tempo entre a prisão em flagrante (22/10/2023) e a presente data, bem como a audiência de custódia ter se realizado com a presença de advogado constituído (pp. 58/62) pelo réu, o qual não requereu a realização daquela perícia, bem como não foi requerida na sua resposta à acusação que se encontra às pp. 108/128.".
+É que a petição de fls. 255/258 indicada na determinação supracitada trata-se da mesma petição da Defesa acostada em 15/01/2024, às fls. 177/180, e já apreciada naquela oportunidade pelo Juízo Criminal em 31/01/2024 que deliberou pelo DEFERIMENTO DA REALIZAÇÃO DA PERÍCIA PAPILOSCÓPICA, restando, assim, evidenciado o equívoco na prestação jurisdicional, acarretando tumulto processual que merece ser sanado por esta via da Correição Parcial.
+Registre-se, por oportuno, que a decisão tumultuária não se tratou de eventual revogação ou cessação dos efeitos da decisão anterior que havia deferido a prova pericial, restando claro que o Juízo Corrigido equivocou-se ao revisitar matéria já devidamente apreciada, em decisão fundamentada (fls.193) e contra a qual não houve interposição de recurso.
+Com efeito, verifica-se que o acórdão impugnado está de acordo com a jurisprudência desta Corte Superior, pois a prova postulada tem a pretensão de buscar a verdade sobre os fatos, legitimando-se no exercício do contraditório e da ampla defesa.
+Ademais, constata-se que a efetivação da perícia deferida na instrução criminal foi devidamente requisitada, de forma reiterada, durante a instrução criminal por parte da defesa técnica, a demonstrar que não houve preclusão temporal.
+Demais disso, para se alcançar solução diversa, seria necessário profundo revolvimento do material fático probatório, tarefa para a qual não se presta a via eleita, em razão do óbice da Súmula n. 7 desta Corte Superior.
+A propósito:
+PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE DEVIDAMENTE FUNDAMENTADA, NA FORMA DO ART. 42 DA LEI DE DROGAS. NÃO INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO DECORRENTE DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que não admitiu o recurso especial, no qual se alegou violação aos arts. 33, § 4º, e 42 da Lei n. 11.343/2006, pleiteando a concessão de benefício legal e alegando bis in idem na dosimetria da pena, além da necessidade de redução da pena-base ao mínimo legal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve bis in idem na dosimetria da pena ao utilizar a quantidade de droga apreendida para aumentar a pena-base e para afastar a minorante do tráfico privilegiado, assim como se a quantidade de droga apreendida autoriza o aumento da basilar.
+3. A questão também envolve a análise da possibilidade de reexame de provas para verificar a dedicação dos recorrentes a atividades criminosas.
+III. RAZÕES DE DECIDIR
+4. A utilização da quantidade de droga para aumentar a pena-base e afastar a minorante não configura bis in idem, pois foram considerados elementos fáticos distintos, além da existência de outros elementos que evidenciam a dedicação a atividades criminosas.
+5. A reanálise do acervo fático-probatório é inviável em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+6. A majoração da pena-base é justificada com base na grande quantidade de droga apreendida (1 kg de maconha), sendo proporcional a fração de 1/6, na forma do art. 42 da Lei n. 11.343/2006.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.484.073/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJe de 12/12/2024.)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
