@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REVISÃO CRIMINAL. NÃO CONHECIMENTO. NULIDADES NÃO EXAMINADAS PELA CORTE DE ORIGEM. SUPRESSÃO INSTÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na espécie, o acórdão impugnado (ação revisional não conhecida) deixou de examinar com profundidade os temas apresentados no presente habeas corpus, o que impede este Superior Tribunal de Justiça de conhecer das matérias, sob pena de indevida supressão de instância.
+2. Desse modo, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, D Je de 14/9/2023.).
+3. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental inter posto por LETÍCIA DA SILVA CAVALCANTE contra decisão de minha relatoria que indeferiu liminarmente o habeas corpus, uma vez que "o acórdão impugnado (ação revisional não conhecida) deixou de examinar com profundidade os temas apresentados no presente habeas corpus, o que impede este Superior Tribunal de Justiça de conhecer das matérias, sob pena de indevida supressão de instância." (e-STJ fl. 151).
+Consta dos autos que a paciente foi condenada pelos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/06, com penas de 9 anos de reclusão em regime inicial fechado e 900 dias-multa pelo art. 33, e 5 anos, 4 meses e 24 dias de reclusão e 1.260 dias-multa pelo art. 35.
+Transitada em julgado a sentença penal condenatória, a defesa ajuizou pedido revisional na Corte de origem, ação que sequer foi conhecida (e-STJ fls. 21/28).
+No writ impetrado nesta Corte Superior, alegou a defesa que houve violação de domicílio, pois a condenação se baseou em provas ilícitas decorrentes de busca domiciliar realizada sem fundadas razões, apenas com base em denúncia anônima, o que configura constrangimento ilegal.
+Sustentou também que não há comprovação de estabilidade e permanência para o crime de associação para o tráfico, devendo ser afastada a condenação pelo art. 35 da Lei de Drogas. Além disso, afirmou que a quantidade de drogas foi utilizada indevidamente em duas fases da dosimetria, configurando bis in idem, e que a paciente preenche os requisitos para o reconhecimento do tráfico privilegiado, com a aplicação da minorante no patamar máximo de 2/3.
+No mérito, a defesa requereu a concessão da ordem de habeas corpus para reconhecer a ilicitude das provas e absolver a paciente de todos os crimes, ou, alternativamente, para afastar a condenação pelo crime de associação para o tráfico e reconhecer o tráfico privilegiado, com fixação de regime inicial aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+Indeferimento liminarmente o writ, em razão de que o acórdão impugnado não teria examinado os temas, foi interposto agravo regimental.
+No regimental, sustenta a defesa que em caso de constrangimento ilegal manifesto, deve ser superado o óbice da supressão de instância. Reafirma as ilegalidades praticadas na origem.
+Pleiteia, ao final, seja reconsiderada a decisão agravada ou que seja dado provimento ao regimental.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. REVISÃO CRIMINAL. NÃO CONHECIMENTO. NULIDADES NÃO EXAMINADAS PELA CORTE DE ORIGEM. SUPRESSÃO INSTÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na espécie, o acórdão impugnado (ação revisional não conhecida) deixou de examinar com profundidade os temas apresentados no presente habeas corpus, o que impede este Superior Tribunal de Justiça de conhecer das matérias, sob pena de indevida supressão de instância.
+2. Desse modo, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, D Je de 14/9/2023.).
+3. Agravo regimental a que se nega provimento.
+VOTO
+Em que pese o esforço da combativa defesa, a decisão agravada deve ser ratificada por seus próprios fundamentos.
+Como afirmado, observa-se que o acórdão impugnado (ação revisional não conhecida) deixou de examinar com profundidade os temas apresentados no presente habeas corpus, o que impede este Superior Tribunal de Justiça de conhecer das matérias, sob pena de indevida supressão de instância. Nota-se que as premissas fáticas da ação policial não foram delineadas no acórdão impugnado, o que impossibilita o exame da tese por esta Corte Superior.
+Desse modo, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, D Je de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142, Relator Ministro MARCO AURÉLIO, Relator p/ Acórdão Ministro ALEXANDRE DE MORAES Primeira Turma, D Je de 10/8/2017; RHC n. 111.935, Relator Ministro LUIZ FUX, Primeira Turma, D Je de 30/9/2013; HC n. 97.009, Relator p/ Acórdão: Ministro TEORI ZAVASCKI, Tribunal Pleno, D Je de 4/4/2014; HC n. 118.189, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, D Je de 24/4/2014)". (HC n. 179.085, Relator Ministro Marco Aurélio, Primeira Turma, julgado em 5/8/2020, D Je 25/9/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
