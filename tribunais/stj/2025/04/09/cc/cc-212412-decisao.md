@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1A VARA CRIMINAL DE BARRA DO GARÇAS - EXECUÇÕES PENAIS EM MEIO FECHADO E SEMIABERTO - MT, suscitante e o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL, MEIO FECHADO E SEMIABERTO DE ARAGARÇAS - GO, suscitado.
+Depreende-se dos autos que o réu Gustavo Bispo dos Santos possui duas guias de execução com a pena total de 12 anos e 10 meses. O reeducando encontra-se preso desde 30/9/2022, na Ação Penal n. 5605712- 06.2022.8.09.0011 de Aragarças-GO.
+O Juízo suscitante alega que "o juízo competente para fins de unificação e execução, até para fins de economia processual, é o do local em que o preso encontra recluso" (e-STJ, fl. 486).
+O Juízo suscitado, por outro lado, aduz que "havendo mais de uma condenação definitiva, a competência para fiscalização da execução penal compete ao juízo que primeiro determinou o resgate da sanção imposta" (e-STJ, fl. 472).
+O Ministério Público opinou pela competência do Juízo suscitado (e-STJ, fls. 505-509).
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea d, da Constituição da República, razão pela qual passo ao seu exame.
+In casu, o réu quando beneficiado com o regime semiaberto, em Barra do Garças-MT, abandonou o cumprimento de pena, visto que estava em local incerto e não sabido, "oportunidade que, em 2/10/23, foi decretada a regressão cautelar e ordenado a expedição de mandado de prisão em desfavor de Gustavo Bispo dos Santos (f. 264). O mandado de prisão foi cumprido em 20/10/23, nos autos n. 5699556- 64.2023.8.09.0014 - Natureza: Cumprimento de mandado de prisão - pelo Juízo da 2ª Vara (cível, Criminal - Crime em Geral, Crimes Dolosos Contra a Vida e Pres. do Trib. do Juri, Das Fazendas Púb., de Reg. Púb. e Amb.), da cidade de Ipameri/GO (f. 279-281). Nesse interim, o MP/GO, por meio da 1ª Promotoria de Justiça da Comarca de Aragarças/GO ofereceu denúncia contra Gustavo Bispo dos Santos pela prática de condutas típicas descritas no art. 33, caput, da Lei 11.343/06 e art. 12 da Lei 10.826/03 - Ação Penal n. 5605712-06.2022.8.09.0011, novos crimes cometidos em 2022 (f. 318-319). Em 12/12/22, na Comarca de Aragarças/GO, Gustavo Bispo dos Santos foi condenado pela prática do crime do art. 33, caput, da Lei 11.343/06, à pena de 6 anos e 10 meses de reclusão, em regime inicial fechado além do pagamento de 740 dias-multa e à pena de 1 ano e 10 meses de detenção pela prática do crime do art. 12, da Lei 10.826/06. " (e-STJ, fl. 506).
+Diante disso, incide o entendimento do Superior Tribunal de Justiça no sentido de que a execução criminal, e a análise de seus incidentes, deve se dar perante o Juízo em que o sentenciado cumpre a pena.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO E UNIFICAÇÃO DE PENAS ORIUNDAS DE JUÍZOS DE ENTES FEDERATIVOS DIFERENTES. COMPETÊNCIA DO JUÍZO DO LOCAL ONDE O REEDUCANDO ENCONTRA-SE DETIDO.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. O caso em análise não trata de mero cumprimento de mandado de prisão expedido por Juízo de Comarca diversa, mas sim de reeducando que possui mais de uma condenação impostas por Juízos de diferentes entes federativos.
+A celeuma gira em torno do critério a ser adotado para a fixação da competência no caso de unificação de penas: se o local onde iniciada a primeira execução, cuja continuidade foi obstada em razão da fuga do apenado; ou se o local onde o reeducando atualmente se encontra detido, em razão de condenação posterior pela prática de crime quando se encontrava evadido.
+3. O Superior Tribunal de Justiça já se pronunciou no sentido de que, no caso de reeducando condenado em diversas unidades judiciárias, o juízo competente para o conhecimento, fiscalização e acompanhamento da execução é o do local onde o apenado cumpre pena.
+"Competente é o Juízo da execução em que o reeducando cumpre a reprimenda, para conhecer das demais execuções e apreciar eventuais incidentes referentes ao procedimento de execução penal" (CC 151.849/GO, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 22/6/2017).
+Em situação análoga ao caso concreto, recentemente, esta Corte Superior de Justiça reafirmou a competência para execução e unificação das penas no Juízo onde o reeducando encontra-se detido:
+CC 180.424/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, DJe 13/9/2021.
+4. "A jurisprudência tem reconhecido a possibilidade de declaração da competência de um terceiro juízo que não figure no conflito de competência em julgamento, quer na qualidade de suscitante, quer na qualidade de suscitado" (CC 168.575/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, DJe 14/10/2019).
+5. Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Criminal de Vilhena/RO.
+(CC n. 182.753/MT, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 24/11/2021, DJe de 29/11/2021; grifou-se)
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL, MEIO FECHADO E SEMIABERTO DE ARAGARÇAS - GO, suscitado.
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
+EMENTA
