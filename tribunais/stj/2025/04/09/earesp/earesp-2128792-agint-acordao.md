@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO E NÃO APRECIOU O MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA 315/STJ. REQUISITOS DO ART. 1.043, § 4º DO CPC. INOBSERVÂNCIA. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC/2015. Precedentes.
+2. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+3. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, não sendo suficiente a simples transcrição de ementas.
+4. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno nos embargos de divergência em agravo em recurso especial interpostos por HELEN KARINE DREHER BIESEK contra acórdão proferido pela Quarta Turma do STJ no julgamento do AgInt no AREsp 2.128.792/PR (e-STJ fls. 980-991).
+Ação: de execução de título extrajudicial, ajuizada por BANCO DO BRASIL em face de COMÉRCIO DE VEÍCULOS XICÃO LTDA (e-STJ fls. 1-4).
+Sentença: considerando a inexistência de título executivo, julgou extinto o feito (e-STJ fls. 375-376).
+Acórdão: o TJ/PR negou provimento aos recursos de apelação interpostos por ambas as partes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EXTINTA POR INEXIGIBILIDADE DO TÍTULO EXECUTADO. RECURSO DE AMBAS AS PARTES.
+APELAÇÃO (1) INSTITUIÇÃO FINANCEIRA: PLEITO PELA INVERSÃO DO ÔNUS SUCUMBENCIAL. BANCO CONDENADO AO PAGAMENTO DAS CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO. HONORÁRIOS SUCUMBENCIAIS DEVIDOS. EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA PARA EXTINGUIR A EXECUÇÃO. PRINCÍPIOS DA CAUSALIDADE E SUCUMBÊNCIA. PRECEDENTES STJ.
+APELAÇÃO (2) ADVOGADA DA PARTE EXECUTADA: PLEITO PELA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS SOBRE O VALOR DO PROVEITO ECONÔMICO. PROVEITO ECONÔMICO OBTIDO QUE CONSISTE NO VALOR QUE DEIXOU DE PAGAR, OU SEJA, NO VALOR DA EXECUÇÃO EXTINTA. SENTENÇA MANTIDA.
+RECURSO DE APELAÇÃO (1): CONHECIDO E NÃO PROVIDO.
+RECURSO DE APELAÇÃO (2): CONHECIDO E NÃO PROVIDO (e-STJ fls. 466-475)
+Recurso especial: interposto por HELEN KARINE DREHER BIESEK, fundamentado pelas alíneas "a" e "c" do permissivo constitucional, alegando violação dos arts. 85, §2º, e 827, do CPC (e-STJ fl. 632-644).
+Acórdão da Quarta Turma do STJ: negou provimento ao agravo interno interposto por HELEN KARINE DREHER BIESEK, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE DECIDIU PELO NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. COTEJO ANALÍTICO. AUSÊNCIA. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+2. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC/2015. Precedentes.
+3. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-jurídica entre o acórdão embargado e o acórdão paradigma.
+4. Tratando os acórdãos confrontados acerca de questões que possuem bases fáticas essencialmente distintas, não se verifica a presença de dissídio jurisprudencial a ser sanado na presente via
+5. Embargos de divergência indeferidos liminarmente.
+Embargos de divergência: apontam a existência de dissídio jurisprudencial entre o acórdão embargado e acórdãos proferidos nos REsp n. 2.096.070/DF, da 3ª Turma, e EAREsp n. 1.772.022/PR (e-STJ fls. 1036-1070).
+Decisão unipessoal: indeferiu liminarmente os embargos de divergência (e-STJ fls. 1.078-1.082).
+Agravo interno: alega o cabimento dos embargos de divergência opostos, por restar clara a divergência entre os julgados e que, por meio dos presentes embargos, pretende-se esclarecer a aplicação indevida da Súmula nº 7 do STJ na decisão agravada (e-STJ 1.086-1.091).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO E NÃO APRECIOU O MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. SÚMULA 315/STJ. REQUISITOS DO ART. 1.043, § 4º DO CPC. INOBSERVÂNCIA. COTEJO ANALÍTICO. AUSÊNCIA.
+1. Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC/2015. Precedentes.
+2. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+3. A admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma, não sendo suficiente a simples transcrição de ementas.
+4. Agravo interno não provido.
+VOTO
+Os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva", eis que "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJe 1º/12/2003).
+Nos termos do art. 1.043 do CPC/2015, é embargável o acórdão de órgão fracionário que, em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito, ou, ainda, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Essa exigência legal no sentido de que o acórdão seja de mérito, ou ao menos tenha apreciado a controvérsia, justifica-se porque os embargos de divergência não servem para propiciar novo exame acerca da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+Quando não apreciado o mérito da controvérsia, portanto, aplica-se a Súmula 315/STJ. A propósito, confira-se o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CPC/2015. APLICAÇÃO DA SÚMULA N. 315 DO STJ. SEMELHANÇA ENTRE OS ACÓRDÃOS CONFRONTADOS. AUSÊNCIA. DECISÃO MANTIDA.
+1. No presente caso, o acórdão embargado, quanto ao tema objeto da divergência, manteve a inadmissibilidade do recurso especial sem apreciar seu mérito. Em tal contexto, mesmo em vigor o CPC/2015, incide a Súmula n. 315 do STJ, segundo a qual, "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Jurisprudência da CORTE ESPECIAL.
+2. A aplicação do óbice processual (Súmula n. 7 do STJ) para inadmitir o recurso especial decorreu do exame concreto do texto do mencionado recurso e do respectivo acórdão recorrido, que não se comunicam com as peças dos paradigmas, ausente a indispensável semelhança fático-processual entre eles.
+3. Majorados os honorários sucumbenciais na decisão monocrática ora agravada, que indeferiu liminarmente os embargos de divergência, descabe majorá-los novamente neste agravo interno. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt nos EAREsp n. 1.949.913/DF, relator Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 12/9/2023, DJe de 25/9/2023.)
+Na espécie, o acórdão embargado proferido pela Quarta Turma decidiu pela inadmissibilidade do recurso especial, diante da incidência da Súmula 7/STJ.
+Sob esse enfoque, "os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial" (AgInt nos EAREsp 1.581.988/BA, Corte Especial, DJe 15/10/2021)
+Assim, consoante a jurisprudência da Corte Especial do STJ, "não se admite a interposição de embargos de divergência quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula n. 315 do Superior Tribunal de Justiça, cujo entendimento se alinha ao disposto no art. 1.043, incisos I e III do CPC" (AgInt nos EAREsp 1.746.628/SP, Corte Especial, DJe 20/4/2022).
+Ademais, como exposto na decisão unipessoal de fls. 1.076-1.082, não há similitude entre os acórdãos confrontados. Os acórdãos mencionados decidiram questões distintas, configurando-se, assim, a ausência de similitude fática e jurídica entre as hipóteses. Com efeito, o REsp n. 2.096.070/DF examinou questão fática diversa, tendo fixado a condenação da verba honorária em 10% sobre o valor da causa. O EAREsp n. 1.772.022/PR, a seu tempo, embora tenha sido admitido, não teve o mérito apreciado em virtude da celebração de acordo naqueles autos.
+Além disso, verifica-se que o acórdão embargado aplicou a Súmula 7/STJ. Logo, a controvérsia de mérito não foi apreciada por esta Corte.
+Desse modo, incide a Súmula 315/STJ na espécie, devendo ser mantido o indeferimento liminar dos embargos de divergência também por esse fundamento.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
