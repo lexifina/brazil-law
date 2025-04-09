@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de reclamação ajuizada por MAERBAL DANTAS FILHO, EVERALDO DO NASCIMENTO LIMA (ESPÓLIO), JOSÉ MARCÍLIO CARNEIRO VALENÇA e JOSÉ MAURÍCIO DE BARROS BEZERRA contra acórdão da 2ª Câmara do Tribunal de Justiça de Pernambuco, que, ao rejeitar embargos de declaração, ratificou a inexistência de omissões na decisão recorrida, supostamente contrariando determinação do Superior Tribunal de Justiça no AREsp n. 1.037.685/PE.
+A decisão alegadamente descumprida foi proferida monocraticamente pelo Desembargador Convocado Lázaro Guimarães, que deu provimento ao agravo em recurso especial para reconhecer a violação do art. 535 do CPC/1973 (atual art. 1.022 do CPC/2015) e determinar o retorno dos autos ao TJPE a fim de que se manifestasse sobre questões omissas relacionadas à aplicação de penalidades processuais, notadamente:
+(i) multa por litigância de má-fé (art. 18 do CPC/1973);
+(ii) multa por embargos de declaração procrastinatórios (art. 538, parágrafo único, do CPC/1973); e
+(iii) ato atentatório à dignidade da justiça (art. 601 do CPC/1973).
+Os reclamantes alegam que o TJPE não cumpriu a decisão do STJ, pois manteve omissões quanto às penalidades aplicadas e seus reflexos sobre os honorários sucumbenciais. Argumentam ainda a existência de perigo de dano irreparável, considerando que o processo se encontra em fase avançada na origem.
+Postulam, liminarmente, a suspensão do processo na instância de origem e, ao final, requerem a cassação do acórdão impugnado, com determinação de cumprimento integral da decisão proferida no AREsp n. 1.037.685/PE.
+É o relatório. Decido.
+O ora reclamante afirma que o TJPE não cumpriu a determinação contida no AREsp n. 1.037.685-PE, que reconheceu a violação do art. 535 do CPC/1973. Observa-se:
+Da leitura dos fundamentos contidos no acórdão recorrido, verifica-se que, o Tribunal a quo não se manifestou sobre as alegações dos recorrentes sobre a subsistência das penalidades processuais aplicadas à agravada relativas às multas por litigância de má-fé (art. 18 do CPC/73), por oposição de embargos de declaração procrastinatório (art. 538, parágrafo único, do CPC/73) e pela prática de ato atentatório à dignidade da justiça (art. 601 do CPC/73) (fl. 2.873).
+Em razão disso, o TJPE, em nova análise do feito, manteve a rejeição dos aclaratórios, fazendo os seguintes esclarecimentos:
+a) litigância de má-fé: "a interposição de recurso, previsto em lei, para deduzir pretensão recursal, devidamente fundamentada, só deve ser considerada ato de litigância de ma-fé, se for constatado concomitantemente outra conduta existente no dispositivo ora comentado" (fl. 38);
+b) multa por oposição de embargos declaratório procrastinatórios: "a multa cominada no parágrafo único do art. 538 do CPC, reserva-se a hipóteses em que se faz evidente o abuso, que não se aplica ao presente caso, pois não se vislumbra a intenção de retardar a solução do litígio" (fl. 38);
+c) ato atentatório à dignidade da justiça: "por fim, considera-se atentatória à dignidade da justiça a conduta comissiva ou omissiva que frauda a execução, se opõe maliciosamente à execução, empregando ardis e meios artificiosos, dificulta ou embaraça a realização da penhora, resiste injustificadamente às ordens judiciais, intimado, não indica ao juiz quais são e onde estão os bens sujeitos à penhora e os respectivos valores, nem exibe prova de sua propriedade e, se for o caso, certidão negativa de ônus. Tal é a hipótese dos autos em face da ausência de seus pressupostos, alegados mas não comprovados" (fl. 39).
+Portanto, não se vislumbra tenha o Tribunal a quo ignorado a decisão do AREsp n. 1.037.685-SP, como alegou a parte reclamante.
+Cabe ressaltar que o provimento do recuso especial por vulneração ao art. 535 (atual art. 1.022) do CPC, não pressupõe o acolhimento dos embargos declaratórios, pois não há direcionamento do mérito a ser analisado. Apenas, há a determinação de que sejam esclarecidos os pontos tidos por omissos, como na espécie.
+Portanto, feitos os esclarecimentos pelo TJPE, fica evidente a inexistência de descumprimento da decisão do STJ.
+No mais, o inconformismo com a decisão daquele Tribunal não justifica a reclamação constitucional que desserve ao fim de discutir o teor da decisão reclamada. Cita-se a título de exemplo, julgado desta Corte:
+A reclamação, em razão de sua natureza incidental e excepcional, destina-se a preservação da competência e garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada. (AgRg na Rcl n. 6.199/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 14/12/2011, DJe de 19/12/2011.)
+Portanto, a presente reclamação é manifestamente inadmissível.
+Ante o exposto, com base no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do pedido formulado na presente reclamação.
+Publique-se. Intimem-se.
+EMENTA
