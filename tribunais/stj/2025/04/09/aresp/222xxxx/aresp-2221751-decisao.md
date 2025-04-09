@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo interposto por ORMEU GONÇALVES FRÓIS contra decisão que obstou a subida de recurso especial.
+Extrai-se do s autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fl. 951):
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - JULGAMENTO COLEGIADO - PERDA SUPERVENIENTE DE OBJETO - PREJUÍZO À ANÁLISE RECURSAL. - O julgamento definitivo do Agravo de Instrumento acarreta a perda superveniente do Agravo Interno interposto contra a decisão liminar recursal.
+Rejeitados os embargos de declaração opostos (fls. 981-987).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação do art. 1319 do CC, pois "o uso do Haras, em proveito próprio pelo Recorrido, e ainda a destinação de valores do Espólio para custear atividades particulares e para sustento do herdeiro é defeso em lei - sendo proibido a Inventariante destinar valores para custear manutenção do bem na posse exclusiva e negócio particular do herdeiro e acarreta evidente prejuízo ao Espólio e aos demais herdeiros" (fl. 1007).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Sem contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1099-1102), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, de forma clara e devidamente fundamentada, expressamente se manifestou acerca dos pontos alegados como omisso.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022).
+Verifica-se que em relação à apontada ofensa ao art. 1319 do CC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas n. 7 do Superior Tribunal de Justiça e 283 e 284 do Supremo Tribunal Federal.
+O Tribunal de origem concluiu que "farta comprovação de que os animais que compõem o espólio são vítimas de maus tratos e descaso por parte do sucessor que exerce a posse direta sobre o imóvel rural (haras) em que se encontram (docs. 196/201) - o que, aparentemente, decorre da ausência de recursos para sua manutenção e cuidados adequados" (fl. 984), e determinou assim que o espólio custeie as referidas despesas.
+Com efeito, da análise das razões do recurso especial, observa-se que a recorrente limita-se a suscitar que seria "proibido a Inventariante destinar valores para custear manutenção do bem na posse exclusiva e negócio particular do herdeiro e acarreta evidente prejuízo ao Espólio e aos demais herdeiros" e deixa de impugnar o fundamento do acordão recorrido no sentido de que o herdeiro não teria como custear os cuidados com o haras e os animais estariam sendo vítimas de maus tratos, o que atrai a incidência da Súmula n. 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No mais, extrai-se do acórdão recorrido que "Se algum lucro foi auferido, pelo herdeiro no Haras deixado pelo de cujus, competia, à Inventariante manifestar-se nos autos, indicando a necessidade de sua consideração para fins de posterior partilha" (fls. 984-985). Rever a conclusão demanda o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+Verifica-se que não houve demonstração da divergência nos moldes legais, tendo em vista que a parte recorrente limitou-se a transcrever as ementas e não realizou o devido cotejo analítico, conforme previsto nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, atraindo o óbice da Súmula n. 284/STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. INVENTÁRIO. VIOLAÇÃO AOS ARTS. 489 E 1022 DO CPC. INEXISTÊNCIA. ALEGADO PREJUÍZO AO ESPÓLIO DIANTE DO CUSTEIO DE DESPESAS DE PROPRIEDADE SOB A RESPONSABILIDADE DE UM DOS HERDEIROS. ÓBICE NÃO REFUTADO PELAS RAZÕES DO ESPECIAL. SÚMULA N. 283/STF. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DIVERGÊNCIA NÃO COMPROVADA. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
