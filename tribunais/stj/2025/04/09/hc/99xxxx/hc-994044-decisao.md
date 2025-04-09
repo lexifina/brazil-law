@@ -1,0 +1,12 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de GABRIEL HENRIQUE GOMES DE OLIVEIRA - condenado por integrar organização criminosa armada a 4 anos e 1 mês de reclusão, e a 12 dias-multa -, atacando-se o acórdão proferido pelo Tribunal de Justiça de São Paulo (fls. 14/27 - Revisão Criminal n. 2107451-16.2024.8.26.0000), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria - na condenação proferida na Ação Penal n. 1504131-47.2020.8.26.0032 (fls. 46/73, da 1ª Vara da comarca de Mirandópolis/SP) -, com o afastamento da causa de aumento do emprego de arma (art. 2º, § 2º, da Lei n. 12.850/2013), sustentando se tratar de sentença extra petita, pois a denúncia se referiu apenas ao crime na forma simples (fl. 10).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois não:
+a) há ilegalidade na incidência do emprego de arma de fogo (art. 2º, § 2º, da Lei n. 12.850/2013) - ao fundamento de que notoriamente sabido que o PCC faz uso de armas de fogo de diferentes calibres (fl. 25) -, uma vez que, para esta Corte Superior, tal majorante é circunstância objetiva que se comunica a todos os coautores do crime e a fração utilizada para sua majoração está amparada em elementos concretos que a justificam (AgRg no AREsp n. 2.552.030/RS, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 12/11/2024, DJe 18/11/2024); e
+b) configurada a decisão extra petita, uma vez que o Ministério Público descreveu o emprego de arma de fogo na denúncia (fls. 32 e 37/39).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. INTEGRAR ORGANIZAÇÃO CRIMINOSA ARMADA. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. CAUSA DE AUMENTO DO EMPREGO DE ARMA DE FOGO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
