@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Benedito Gonçalves, Marco Aurélio Bellizze, Sérgio Kukina, Paulo Sérgio Domingues, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Regina Helena Costa.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SOBRESTAMENTO. IMPOSSIBILIDADE. ACÓRDÃO EMBARGADO. EXAME DE MÉRITO. INEXISTÊNCIA.
+1. Os embargos de divergência possuem forma de procedimento própria, prevista nos arts. 1.043 e 1.044 do CPC/2015 e nos arts. 266 e 267 do Regimento Interno do STJ, que se distancia do processamento do apelo especial, de modo que é inviável seu sobrestamento devido a afetação de tema em repetitivo quando os embargos nem sequer são admitidos.
+2. Segundo a jurisprudência desta Corte Superior, são incabíveis embargos de divergência quando o acórdão embargado ou o paradigma não adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal (Súmula 315 do STJ, em aplicação analógica).
+3. Hipótese em que o acórdão embargado não foi conhecido em face dos óbices das Súmulas 7 e 211 do TJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela UNIÃO, contra decisão da minha lavra, às e-STJ fls. 578/584, em que indeferi liminarmente os embargos de divergência, em face da incidência da Súmula 315/STJ e da ausência de similitude fática entre o acórdão embargado e o aresto paradigma.
+Alega a agravante, preliminarmente, a necessidade de sobrestamento do feito até o julgamento do Tema 1.305 do STJ, tornando sem efeito todas as decisões anteriormente proferidas por esta Corte de Justiça, com a devolução dos autos ao Tribunal de origem, onde deverá ser realizado o juízo de conformação com a tese a ser firmada por esta Corte Superior, em respeito à primazia da decisão de mérito.
+A seguir, reitera os argumentos dos embargos de divergência, pois o acórdão paradigma afastou a aplicação das Súmulas 7 e 211 do STJ e reconheceu a necessidade de formação de litisconsórcio passivo necessário, entendimento que se encontraria pacificado no STJ.
+Afirma que está demonstrada a divergência das Turmas quanto à interpretação de verbetes sumulares e das normas processuais (art. 932 do CPC, e 253 do RISTJ), que obstaram o conhecimento do recurso, afastando a incidência da Súmula 315 do STJ.
+Requer, ao final, o sobrestamento do feito, com o retorno dos autos ao Tribunal de origem e, subsidiariamente, a reconsideração da decisão recorrida ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+Impugnação às e-STJ fls. 611/625.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. SOBRESTAMENTO. IMPOSSIBILIDADE. ACÓRDÃO EMBARGADO. EXAME DE MÉRITO. INEXISTÊNCIA.
+1. Os embargos de divergência possuem forma de procedimento própria, prevista nos arts. 1.043 e 1.044 do CPC/2015 e nos arts. 266 e 267 do Regimento Interno do STJ, que se distancia do processamento do apelo especial, de modo que é inviável seu sobrestamento devido a afetação de tema em repetitivo quando os embargos nem sequer são admitidos.
+2. Segundo a jurisprudência desta Corte Superior, são incabíveis embargos de divergência quando o acórdão embargado ou o paradigma não adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal (Súmula 315 do STJ, em aplicação analógica).
+3. Hipótese em que o acórdão embargado não foi conhecido em face dos óbices das Súmulas 7 e 211 do TJ.
+4. Agravo interno desprovido.
+VOTO
+Inicialmente, tenho que a não é possível o sobrestamento do feito.
+Conforme destaquei em voto-vista proferido no AgInt nos EAREsp n. 1.624.703/SP, em sessão realizada em 11/09/2024, quando se trata propriamente dos recursos excepcionais (REsp e RE) que combatem diretamente o acórdão proferido pela instância ordinária e versam sobre matéria afetada e julgada em sede de recurso repetitivo, o próprio sistema processual foi readequado para que seja, ao fim, prestigiada a Tese definida em caráter representativo de controvérsia.
+Assim, permite-se a superação de vícios formais que impediriam o conhecimento do recurso como meio para priorizar o controle do próprio mérito da matéria discutida, de modo a verificar a compatibilidade entre as decisões das instâncias ordinárias e os precedentes (em sentido estrito) formados nas Cortes de Precedentes (STF e STJ).
+Ou melhor, a mitigação de vícios intrínsecos do próprio recurso especial (que discute matéria afetada) permite, na prática, que as Corte de Precedentes (STF e STJ) desempenhem efetivamente sua missão constitucional.
+Tanto é que, de acordo com a jurisprudência desta Corte Superior, quando é proferida decisão de afetação pelo STJ, os recursos especiais e os agravos já em trâmite nesta Corte devem retornar ao Tribunal de origem (sem que o próprio STJ promova exame da adequação formal do recurso), para que ali (na instância ordinária), seja exercido o juízo de conformação, como determina o art. 1.040 do CPC/2015, sendo certo que o art. 1.041, desse mesmo diploma processual, dispõe que somente no caso de manutenção do acórdão divergente pelo órgão colegiado do Tribunal de origem é que o recurso será novamente remetido ao respectivo Tribunal Superior.
+Nesse sentido: EDcl no AgInt no REsp n. 2.092.378/AM, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 10/6/2024, DJe de 13/6/2024; EDcl no AgInt no AREsp n. 1.950.102/PR, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 10/6/2024, DJe de 13/6/2024.
+E, retornando o feito à origem, não é promovida a análise detida dos requisitos intrínsecos do apelo especial, mas apenas é avaliada a adequação entre a matéria de mérito nele aviada e a tese jurídica firmada no recurso julgado em caráter representativo de controvérsia.
+Entretanto, a mesma dinâmica não pode acontecer com os embargos de divergência.
+Primeiro porque a interpretação sistemática das normas processuais, diferente do que acontece com o apelo especial com matéria afetada, não sinaliza essa possibilidade.
+Segundo, porquanto o recurso em questão é interno desta Corte, interposto contra decisões proferidas pelo próprio STJ, cuja finalidade essencial é a uniformização da jurisprudência interna, e não promover a adequação entre as decisões da instância ordinária e os precedentes vinculantes.
+Com efeito, os embargos de divergência possuem forma de procedimento própria, prevista nos arts. 1.043 e 1.044 do CPC/2015, e nos arts. 266 e 267 do Regimento Interno do STJ, que se distanciam do processamento do apelo especial.
+No caso, na petição dos embargos de divergência, a ora agravante destacou: "questiona a aplicação da Súmula 182/STJ e a interpretação conferida pela Primeira Turma ao art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno dessa Corte" (e-STJ fl. 525).
+Contudo, como apontado na decisão agravada, o acórdão embargado nem sequer teve seu mérito apreciado, haja vista que o agravo foi conhecido para não conhecer do recurso especial ante os óbices das Súmulas 7 e 211 do STJ. Esta Casa de Justiça possui entendimento consolidado de que não cabem embargos de divergência quando o acórdão embargado ou o paradigma não adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal (aplicação analógica da Súmula 315 do STJ).
+Além disso, não há similitude fática entre os acórdãos, visto que, no julgado embargado, a Segunda Turma manteve a decisão agravada, a qual conheceu do agravo para não conhecer do recurso especial, por incidência das Súmulas 7 e 211 do STJ.
+Já o acórdão paradigma apenas afirmou que a alegação da parte adversa, acerca de que o agravo em recurso especial da União não teria impugnado a Súmula 7 do STJ, não se sustentava, pois referido óbice foi efetivamente combatido quando da interposição do agravo de que trata o art. 1.042 do CPC/2015 (trazendo os fundamentos que respaldavam tal entendimento), além de, no julgado apreciado pela Primeira Turma, o ponto relativo ao litisconsórcio estar prequestionado.
+Ainda que a parte recorrente busque igualar as duas situações, o fato é que os julgados em confronto decidiram questões distintas e não relacionadas entre si, o que inviabiliza o conhecimento da divergência diante da discrepância entre as molduras fáticas e jurídicas referentes a cada processo.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1.022 QUE NÃO PODE SER DEBATIDA EM EMBARGOS DE DIVERGÊNCIA.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. A divergência quanto à tese de negativa de prestação jurisdicional, isto é, acerca da ocorrência ou não de omissão, contradição ou obscuridade, demanda a apreciação das especificidades do caso concreto, o que, impede a demonstração da divergência. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EAREsp 2.224.988/MT, relatora Ministra Nancy Andrighi, Corte
+Especial, julgado em 25/6/2024, DJe de 27/6/2024.).
+PROCESSUAL CIVIL. AGRAVO INTERNO. DANO MATERIAL. COISA JULGADA. EXTINÇÃO DA AÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA 7/STJ. REEXAME DE CLÁUSULAS E DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA 5/STJ. RECURSO QUE NÃO ANALISOU O MÉRITO. OBITER DICTUM. IMPRESTABILIDADE PARA DEMONSTRAR A DIVERGÊNCIA. PRECEDENTES DO STJ.
+1. Cuida-se de Agravo Interno contra decisum da Presidência do STJ que indeferiu os Embargos de Divergência. Na origem, trata-se de Embargos de Divergência em Agravo em Recurso Especial de julgamento turmário do STJ.
+2. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial, já que a pretensão da agravante demandaria a reanálise de cláusulas contratuais e de provas, o que é vedado pelas Súmulas 5 e 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, porquanto inadmissível interposição de Embargos de Divergência na hipótese de não ter sido apreciado o mérito do Recurso Especial, atraindo, por analogia, o teor da Súmula 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Precedentes.
+3. Argumentos em obiter dictum, utilizados como mero reforço argumentativo, não se prestam a caracterizar divergência jurisprudencial, tanto mais se o acórdão impugnado não conheceu do recurso. Precedentes.
+4. Agravo Interno não provido.
+(AgInt nos EAREsp 1.299.959/RJ, relator Ministro Herman Benjamin, Corte
+Especial, julgado em 7/12/2022, DJe de 20/12/2022.).
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, visto que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
