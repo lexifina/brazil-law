@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (e-STJ, f l. 212):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ART. 357, § 1º, DO CPC/2015. INDEFERIMENTO DO PEDIDO DE ESCLARECIMENTOS E AJUSTES. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O embargante sustenta, em síntese, omissão quanto ao dever de fundamentação analítica (inobservado pelo Tribunal de origem) e à necessidade de participação efetiva da parte na fase de saneamento do processo. Sustenta omissão quanto à ausência de enfrentamento, no acórdão do TRF5, das questões envolvendo a violação ao contraditório e à ampla defesa, decorrente do indeferimento do pedido de ajustes nos pontos controvertidos do saneamento.
+Assevera que o TRF5 limitou-se a analisar a questão exclusivamente sob o viés da adequação da petição inicial, enquanto a insurgência da recorrente, ora embargante, dizia respeito à necessidade de ajustes nos pontos controvertidos, garantindo a correta delimitação da controvérsia e a efetiva participação da parte no procedimento saneador, conforme previsto no art. 357, §1º, do CPC.
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, o decisum embargado resolveu a controvérsia ao assentar: (a) a ausência de omissão; e (b) a necessidade de reexame do conjunto fático-probatório dos autos para revisão da conclusão do Tribunal de origem de que a inicial trouxe satisfatoriamente a individualização das condutas da empresa demandada, em relação à má execução das obras e não execução de serviços preliminares, em um percentual não executado de 50,52% do serviço, que teria gerado prejuízo ao erário. Asseverou, ainda, em relação ao pedido de esclarecimentos/ajustes, que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção, tendo, no caso, sido atendidos os pedidos de produção de provas realizados pela empresa ora embargante, não verificando a necessidade de mais esclarecimentos (e-STJ, fls. 64-65 e 106).
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
