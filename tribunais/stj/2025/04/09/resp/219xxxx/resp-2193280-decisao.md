@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 236):
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. CPC/2015. CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA. AUSÊNCIA DE AUTORIZAÇÃO OU RECONHECIMENTO DO CURSO À DISTÂNCIA PELO PODER PÚBLICO ESTADUAL OU FEDERAL. REGISTRO. IMPOSSIBILIDADE.
+1. Dispõe o art. 2º, I da Lei nº 9.696/98 que apenas serão inscritos nos quadros dos Conselhos Regionais de Educação Física os possuidores de diploma obtido em curso de Educação Física, oficialmente autorizado ou reconhecido.
+2. É entendimento do Superior Tribunal de Justiça que não compete aos Conselhos de Fiscalização Profissional a avaliação ou regulação de curso autorizado ou reconhecido pelo Ministério da Educação, já que estaria assumindo atribuição que não integra o seu âmbito legal de atuação. Nesse sentido: (AgInt no AR Esp 877677/SP, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Órgão Julgador T1 - PRIMEIRA TURMA, Julgamento 21 de Março de 2017 Publicação D Je 31/03/2017)
+3. Em consonância com esse entendimento, tem decidido esta Turma que a autorização do curso pelo Ministério da Educação ou pelo Conselho Estadual de Educação é requisito indispensável para a obtenção do registro profissional. In verbis: (AMS 1001063-92.2016.4.01.3500, DESEMBARGADOR FEDERAL HERCULES FAJOSES, TRF1 - SÉTIMA TURMA, P Je 27/09/2021 PAG.)
+4. In Casu, compulsando os autos, verifica-se que a Faculdade de Piracanjuba possui autorização do MEC (Portaria nº 34/2016), exclusivamente, para ministrar o curso de Bacharelado em Educação Física na modalidade presencial, ou seja, inexiste autorização para o oferecimento de curso na modalidade ensino à distância, em outra localidade.
+5. Neste prisma, filio-me ao entendimento do Juiz a quo, de que, considerando que não foi apresentado diploma de curso autorizado/reconhecido junto ao Ministério da Educação, o ato praticado pelo Conselho se justifica pela grave suspeita de irregularidade na emissão do certificado de conclusão de curso, porquanto a instituição de ensino não possuiria autorização para ofertar o curso de Bacharelado em Educação Física na modalidade à distância.
+6. Apelação não provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito de ponto importante ao deslinde da controvérsia, qual seja, "a ausência da análise de provas acostadas no ID.: 205110- 54.2021.4.01.3300, a saber o DIPLOMA DE BACHAREL EM EDUCAÇÃO FÍSICA DE UBIATAN BARBOSA DOS SANTOS EXPEDIDO E RECONHECIDO NA DATA DE 15.12.2020. Cumpre destacar que o diploma de bacharel é devidamente registrado, com a devida portaria de reconhecimento do curso pelo órgão regulador que é o Ministério da Educação - MEC." (fl. 272)
+Quanto à questão de fundo, sustenta ofensa aos artigos 9º, IX, 80, §2º da Lei 9.394/1996, sob o argumento de que "não se admite que os conselhos federais e regionais estabeleçam quais instituições de ensino superior que podem ter os seus graduados registrados." (fl. 280)
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 315.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+De início, afasta-se a alegada violação do artigo 1.022 do Código de Processo Civil de 2015 (CPC/2015), porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+O acórdão recorrido resolveu a controvérsia nos seguintes termos (fls. 233/234):
+"É entendimento do Superior Tribunal de Justiça que não compete aos Conselhos de Fiscalização Profissional a avaliação ou regulação de curso autorizado ou reconhecido pelo Ministério da Educação, já que estaria assumindo atribuição que não integra o seu âmbito legal de atuação. Nesse sentido:
+ ..
+Em consonância com esse entendimento, tem decidido esta Turma que a autorização do curso pelo Ministério da Educação ou pelo Conselho Estadual de Educação é requisito indispensável para a obtenção do registro profissional. In verbis:
+ ..
+In Casu, compulsando os autos, verifica-se que a Faculdade de Piracanjuba possui autorização do MEC (Portaria nº 34/2016), exclusivamente, para ministrar o curso de Bacharelado em Educação Física na modalidade presencial, ou seja, inexiste autorização para o oferecimento de curso na modalidade ensino à distancia, em outra localidade.
+Neste prisma, filio-me ao entendimento do Juiz a quo, de que, considerando que não foi apresentado diploma de curso autorizado/reconhecido junto ao Ministério da Educação, o ato praticado pelo Conselho se justifica pela grave suspeita de irregularidade na emissão do certificado de conclusão de curso, porquanto a instituição de ensino não possuiria autorização para ofertar o curso de Bacharelado em Educação Física na modalidade à distância." (grifo meu)
+Ocorre que a parte recorrente não impugnou a referida fundamentação nas razões do recurso especial que, por si só, assegura o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Aplica-se ao caso a Súmula n. 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA N. 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
