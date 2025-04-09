@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO (CDHU) contra a decisão que inadmitiu o recurso especial com fundamento na ausência de demonstração da alegada vulnerabilidade ao art. arrolado no apelo extremo, na incidência da Súmula n. 7 do STJ e na inexistência de demonstração analítica entre os acórdãos trazidos a confronto.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Contraminuta às fls. 548-554.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de indenização por danos materiais e morais.
+O julgado foi assim ementado (fl. 499):
+Ação de indenização por danos materiais e morais. Vícios construtivos. Pretendida responsabilização do Município de Gastão Vidigal e inclusão no polo passivo. Não cabimento. Ré que detinha a obrigatoriedade de fiscalizar a obra. Contrato claro nesse aspecto. Ocorrência dos vícios construtivos no imóvel a gerar a obrigação de reparar os danos materiais. Vícios decorrentes de falha na construção. Afastada a pretendida ausência de responsabilidade, uma vez que o vício tem natureza construtiva. Dano moral caracterizado e aqui arbitrado em R$ 16.000,00, no total aos Autores, considerada a extensão dos danos, a gerar maior abalo emocional. Sentença parcialmente reformada. Sucumbência que passa a ser exclusiva da Ré, com honorários sucumbenciais arbitrados 15% do valor da condenação. Recurso dos Autores parcialmente provido e não provido o da Ré.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 3º do CDC, pois a CDHU não pode ser equiparada a fornecedor de produto de consumo, sendo inaplicável o Código de Defesa do Consumidor;
+b) 114 do CPC, porquanto a responsabilidade pela construção das unidades habitacionais é do Município de Gastão Vidigal, devendo ser incluído no polo passivo como litisconsorte necessário; e
+c) 884 e 944 do CC, visto que a ocorrência de inadimplemento contratual e vícios construtivos, por si só, não acarreta em danos morais indenizáveis.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando a ilegitimidade passiva da CDHU, a inclusão do Município de Gastão Vidigal no polo passivo da demanda, a inaplicabilidade do Código de Defesa do Consumidor e a não ocorrência dos danos morais ou sua minoração.
+Contrarrazões não foram apresentadas, conforme certidão à fl. 527.
+É o relatório. Decido.
+O recurso não merece prosperar.
+No que diz respeito à aplicabilidade do CDC e o litisconsórcio passivo necessário da parte, o Tribunal de origem assim consignou (fl. 502):
+Enuncie-se, de início, que a Apelante CDHU refere ser de responsabilidade do Município de Gastão Vidigal a responsabilidade pelos vícios indicados pelos Autores e pede pela denunciação da lide. No entanto, tem-se que a CDHU figurou como contratante e recebeu os valores pagos pelos Autores, de modo que, perante os Autores, é ela quem deve responder pelos alegados vícios construtivos.
+É CDHU a responsável, perante os adquirentes, por eventuais danos gerados em razão de vícios de construção, considerado ainda que é solidariamente responsável pelo projeto e sua execução, com responsabilidades específicas, o que, contudo, não lhe retira o caráter de solidariedade, ainda mais em relação aos Autores. Ademais, o contrato é claro em estabelecer que cabe à CDHU a fiscalização da obra (cláusula 9.1.2 pág. 154), de modo que não se pode falar em sua ilegitimidade para a ação, nem mesmo ser promovido o chamamento ao processo ou denunciação da lide ao Município.
+Sendo assim, não cabe a esta Corte modificar tal entendimento por demandar no reexame de matéria fático-probatória, o que é inviável ante o óbice sumular n. 7 do STJ.
+Quanto à condenação por danos morais, o Tribunal de origem entendeu que (fl. 505):
+Nesses termos, inclusive aqui considerada a extensão dos danos, deve ser considerado o dano moral como igualmente caracterizado no presente caso. Constatada a existência de vícios construtivos, suficientes a causar nos Autores situação de angústia e frustração, que se mostram suficientes ao reconhecimento da dor moral, que ocorre in re ipsa, uma vez que a situação reportada na inicial, acrescida da necessidade de ingressar com ação judicial para compelir a Ré a efetuar os reparos, não pode ser considerada como fato de mero aborrecimento da vida cotidiana, dada a frustração no recebimento de imóvel, edificado para moradia, que deveria se dar em plenas condições de uso e habitabilidade.
+A jurisprudência do STJ firmou-se no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, a fixação do quantum indenizatório em R$ 16.000,00 leva em conta a maior extensão dos danos como gerador de maior abalo emocional.
+Nesse contexto, para concluir em sentido contrário e reconhecer a não ocorrência dos pressupostos para a concessão da indenização por danos morais, como pleiteia a parte nas razões do apelo especial, seria necessário o reexame do conjunto probatório dos autos, vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
