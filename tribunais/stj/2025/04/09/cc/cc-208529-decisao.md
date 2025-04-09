@@ -1,0 +1,12 @@
+DECISÃO
+Examina-se de conflito positivo de competência suscitado por UNIAUTO ADMINISTRADORA DE CONSÓRCIOS LTDA - MASSA FALIDA E CONSÓRCIO NACIONAL LIDERAUTO LTDA - MASSA FALIDA em face do JUÍZO DA 1ª VARA EMPRESARIAL DE BELO HORIZONTE - MG e do JUÍZO DA 1ª VARA DE FALÊNCIAS DE SÃO PAULO - SP.
+Ação em trâmite no Juízo de Belo Horizonte: falência das suscitantes.
+Ação em trâmite no Juízo de São Paulo: falência de CONSAVEL ADMINISTRADORA DE CONSÓRCIOS LTDA.
+Conflito de competência: alegam que a competência para deliberar acerca dos pedidos de restituição de valores aos consorciados é da Justiça Estadual de Minas Gerais, haja vista que lá tramita o processo de falência das devedoras. Afirmam que não houve cessão dos créditos à CONSAVEL, sendo certo que esta atuava tão somente como mandatária dos consorciados. Argumenta que o mandato conferido à falida é extinto ope legis com a decretação da quebra.
+RELATADO O PROCESSO, DECIDE-SE.
+Nos termos da jurisprudência do STJ, "Os bens sujeitos ao pagamento dos credores falimentares devem ser geridos pelo Juízo falimentar, por ser este o competente para decidir sobre a destinação do patrimônio da massa falida conforme o regramento da lei de quebra" (AgInt no AgRg no CC 134.991/SP, Segunda Seção, DJe 20/9/2019).
+No particular, depreende-se das informações prestadas pelo Juízo da 1ª Vara Empresarial de Belo Horizonte - MG que CONSAVEL ADMINISTRADORA DE CONSÓRCIOS LTDA atuava como mandatária dos consorciados das suscitantes, nunca tendo figurado "no quadro geral de credores de Uniauto e Liderauto" (e-STJ fl. 866).
+Consta, igualmente, que "Por força das sentenças proferidas nos Pedidos de Restituição nº 0024.09.597284-0 e 0024.09.597285-7, os 13520 consorciados foram incluídos no quadro geral de credores de Uniauto e Liderauto", o qual foi homologado por decisão transitada em julgado (e-STJ fl. 866).
+Dessa forma, constatado que os créditos de titularidade dos consorciados, relativos aos pedidos de restituição supra identificados, são devidos pelas massas falidas suscitantes, compete exclusivamente ao juízo onde tramita o correlato processo falimentar (Juízo da 1ª Vara Empresarial de Belo Horizonte - MG) deliberar acerca deles.
+Forte nessas razões, CONHEÇO do conflito e DECLARO a competência do JUÍZO DA 1ª VARA EMPRESARIAL DE BELO HORIZONTE - MG para deliberar acerca dos créditos relacionados aos Pedidos de Restituição ns. 0024.09.597284-0 e 0024.09.597285-7.
+EMENTA
