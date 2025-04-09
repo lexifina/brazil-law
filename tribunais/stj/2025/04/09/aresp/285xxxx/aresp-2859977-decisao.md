@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto por ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial (e-STJ, fls. 389-392) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 332):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - DESEMBARAÇO ADUANEIRO - IMUNIDADE TRIBUTÁRIA - PROCEDÊNCIA DO PEDIDO - HONORÁRIOS ADVOCATÍCIOS - PRINCÍPIO DA CAUSALIDADE - SENTENÇA MANTIDA. De acordo com o princípio da causalidade, aquele que der causa ao ajuizamento da ação deve ser condenado ao pagamento das custas, despesas processuais e honorários advocatícios.
+Considerando ter o réu dado causa ao ajuizamento da ação, escorreita a sua condenação ao pagamento dos honorários advocatícios.
+Recurso não provido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 352):
+EMBARGOS DE DECLARAÇÃO - ART. 1.022 DO CPC DE 2015 - REQUISITOS - OMISSÃO - CONTRADIÇÃO - OBSCURIDADE - ERRO MATERIAL - INEXISTÊNCIA - REAPRECIAÇÃO DA MATÉRIA - IMPOSSIBILIDADE - PREQUESTIONAMENTO.
+Os embargos de declaração são cabíveis quando há omissão, obscuridade, contradição ou erro material no julgado.
+Se o acórdão embargado não possui nenhum dos vícios elencados no art. 1.022 do CPC, imperiosa a rejeição dos embargos de declaração, ainda que tenham por finalidade o prequestionamento.
+Embargos de Declaração rejeitados.
+Nas razões do recurso especial, o recorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC/2015.
+Apontou omissão e deficiência na fundamentação do julgado recorrido, afirmando que o Tribunal originário não apreciou os documentos que atestam "o desembaraço aduaneiro requerido na inicial transcorreria sem intercorrências e sem a cobrança de ICMS, ainda que a recorrida não tivesse ajuizado a presente ação. Isto é, a Corte a quo se omitiu em apreciar os fatos processuais que conduziriam à conclusão atinente à falta de interesse de agir da autora e que permitiriam a extinção do processo sem que o Estado fosse condenado ao pagamento de honorários advocatícios e custas processuais" (e-STJ, fl. 372).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 389-392).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 395-403).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No recurso especial, a tese defendida pelo recorrente refere-se à existência de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, "o magistrado não está obrigado a responder a todas as alegações das partes nem a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie" (AREsp n. 2.432.509/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 3/10/2023, DJe de 17/10/2023).
+Desse modo, tendo o Tribunal local motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando os autos, observa-se que o aresto recorrido apresenta suficiente fundamentação quando reconhece a responsabilidade do ora agravante pelo ônus sucumbencial.
+A propósito, confira-se trecho retirado do julgamento da apelação (e-STJ, fls. 334-335):
+Do compulsar dos autos depreende-se que o cerne do presente recurso se cinge ao inconformismo do réu, ora apelante, quanto à sua condenação ao pagamento de honorários advocatícios.
+Pois bem. É cediço que o Código de Processo Civil estabelece em seu artigo 85 que "a sentença condenará o vencido a pagar honorários ao advogado do vencedor."
+E, de acordo com o princípio da causalidade, tem-se que o pagamento dos ônus sucumbenciais deve ser imputado à parte que deu causa à instauração do processo.
+No caso dos autos, a parte autora, ora apelada, ajuizou a presente Ação Ordinária em desfavor do Estado de Minas Gerais, visando o reconhecimento da sua imunidade tributária relativamente ao Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incidente na importação de bens relacionados às suas finalidades essenciais.
+Nota-se que, em razão do deferimento da tutela de urgência pleiteada, a parte autora, ora apelada, procedeu ao desembaraço aduaneiro do Tomógrafo Aquilion Prime SP (TSX-303b) sem a obrigatoriedade do recolhimento do ICMS, que estava sendo previamente exigido e sem a aplicação de qualquer penalidade ou restrição.
+Na r. Sentença, o MM. Juiz julgou procedente o pedido inicial, confirmando a tutela de urgência concedida, a fim de declarar a inexistência de relação jurídico-tributária entre as partes, reconhecendo a ilegalidade da cobrança de ICMS na importação de equipamento médico-hospitalar destinado à consecução dos objetivos estatutários da fundação autora, ora apelada. Diante da procedência do pleito autoral, condenou o réu, ora apelante, ao pagamento dos honorários advocatícios, nos termos do art. 85, §3º e §5º do CPC.
+Nesse cenário tem-se que não merece acolhida as alegações do réu, ora apelante, de que houve o reconhecimento do pedido na via administrativa. Isto porque, o que se observa é que o desembaraço aduaneiro, sem a cobrança do ICMS, se deu em razão da tutela de urgência que foi concedida. Logo, não há que se falar em ausência de interesse processual ou em ausênci a superveniente de interesse de agir.
+Outrossim, considerando que o reconhecimento da imunidade tributária só foi possível pela via judicial e ante da procedência do pedido inicial, tem-se que, em observância aos princípios da causalidade e sucumbência, escorreita a condenação do réu, ora apelante, ao pagamento de honorários advocatícios devidos aos patronos da parte adversa.
+Portanto, inexiste ofensa aos arts. 489 e 1.022 do CPC/2015.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DESEMBARAÇO ADUANEIRO. IMUNIDADE TRIBUTÁRIA. PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
