@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+A r. decisão padece de omissão e obscuridade, uma vez não considerou todos os argumentos apresentados pelo Embargante em seu R Esp, além de não estar devidamente fundamentada, impedindo a compreensão e não possuindo correlação com a conclusão adotada.
+(..)
+Como se vê, o descabimento de ação reintegratória de posse está devidamente prequestionado. Ou seja, está evidente que o objeto recursal é a adoção de rito de ação possessória quando o autor utiliza argumentos de propriedade, ao contrário da lei e do entendimento jurisprudencial e doutrinário sobre o tema.
+Dessa forma, resta demonstrado que a natureza da ação não é possessória, sendo desarrazoada e ilegal a determinação de reintegração de posse à Embargada e obrigação do Embargante de demolir estruturas.
+(..)
+É obscuro o argumento de necessidade de análise fática/probatória para julgamento do R Esp do Embargante, quando entendido o motivo de menção aos fatos específicos do caso para aplicação correta da lei.
+Dessa forma, demonstra-se também a possibilidade de conhecimento do R Esp por inexistir óbice pela Súmula 07 da Corte de Justiça.
+(..)
+Por fim, o item 10 do Recurso Especial do Embargante demonstrou cabalmente a similaridade entre o paradigma e o acórdão recorrido, de forma que o argumento de inexistência do requisito não procede.
+(..)
+A r. decisão omitiu a fundamentação pela qual entendeu que os paradigmas não teriam similaridade fática com o presente caso, sendo que tal estava estampada em seu R Esp. Dessa forma, tal argumento também merece ser afastado, para conhecimento do R Esp e aplicação do mesmo entendimento das decisões paradigmas, visto que os casos tratam de similar situação fática.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+No que toca à suposta violação dos arts. 555 e 561, ambos do CPC/2015, vinculados às teses de impossibilidade de cumulação de pedidos e inadequação da via eleita, da análise do acórdão recorrido, quanto em confronto com as razões recursais, revela que as questões debatidas no recurso especial não foram abordadas pelo Tribunal de origem à luz dos dispositivos legais federais reputados malferidos, citados acimas, em que pese a interposição de embargos declaratórios visando suprir eventuais omissões existentes na decisão impugnada. Ressalte-se que as referidas teses sequer foram alegadas nas razões dos embargos de declaração.
+A admissão do recurso especial pressupõe o prequestionamento da matéria insculpida no dispositivo legal federal alegadamente violado, ou seja, exige que a tese recursal tenha sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em via de embargos de declaração, o que não ocorreu no caso em tela.
+Conforme entendimento desta Corte Superior, "para que se configure o prequestionamento, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que tenha sido exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto, o que não ocorreu. Ante a ausência desse requisito, incide na espécie a Súmula 211/STJ". (AgInt no AREsp n. 2.407.628/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/3/2024, DJe de 6/5/2024.)
+Configurada a carência do indispensável requisito do prequestionamento, impõe-se o não conhecimento do recurso especial. Incide, sobre a hipótese, o óbice constante do enunciado da Súmula n. 211 do STJ, segundo o qual é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+Ressalte-se que, de acordo com o cediço entendimento do Superior Tribunal de Justiça, o reconhecimento do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, exige a verificação de relevante omissão no acórdão recorrido, não obstante a oposição de embargos de declaração.
+Por sua vez, a demonstração da perpetuação da referida mácula demanda não apenas a prévia oposição de embargos declaratórios, mas também a indicação expressa da ocorrência de afronta ao art. 1.022 do CPC/2015, no bojo das razões do recurso especial; providência não observada no caso em tela.
+Em verdade, quanto as demais teses - e ao contrário do que pretende fazer crer o ora recorrente -, considerando a fundamentação do acórdão objeto do recurso especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada, mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula n. 7/STJ.
+(..)
+Consoante se depreende dos excertos reproduzidos do aresto recorrido, é fato incontroverso que a área ocupada é bem público, e tanto a jurisprudência desta Corte Superior quanto a do Supremo Tribunal Federal é firme no sentido de não ser possível a posse de bem público, constituindo a sua ocupação mera detenção de natureza precária e irregular, insuscetível de retenção ou indenização por acessões e benfeitorias, nos termos do teor da Súmula 619/STJ.
+(..)
+No tocante ao dissídio jurisprudencial, "a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido." (AgInt no AREsp n. 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
