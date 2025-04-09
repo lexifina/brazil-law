@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MIGUEL ANGELO GASPAR PACHECO e por JOAO GUILHERME CORREA, para impugnar acórdão lavrado pelo Tribunal Regional Federal da 4ª Região, que concedeu, em parte, a ordem vindicada nos autos do habeas corpus nº 5040679-02.2023.4.04.0000.
+Consta dos autos que, em primeiro grau, o Juízo de origem, no bojo de ação penal em que se imputa aos recorrentes a prática, em tese, dos crimes previstos no artigo 2º, inciso V, da Lei n. 12.850/2013, no artigo 20, caput e § 1º e § 2º, da Lei n. 7.716/1989 e artigo 12 da Lei n. 10.826/200, concedeu a liberdade provisória aos recorrentes e fixou, no mesmo ato, em desfavor de JOAO GUILHERME, o valor de R$ 50.000,00 (cinquenta mil reais) a título de fiança, parcelado em dez prestações mensais, ao passo que, em prejuízo de MIGUEL, foi estabelecido o valor da fiança em R$ 100.000,00 (cem mil reais), parcelado em dez prestações mensais.
+Impetrado habeas corpus perante o Tribunal de origem, a ordem foi parcialmente concedida, para redução do valor da fiança imposta ao recorrente MIGUEL ao patamar de R$ 30.000,00 (trinta mil reais), a ser pago em oito parcelas mensais consecutiva, mantido o dimensionamento da fiança ao recorrente JOAO GUILHERME.
+No presente recurso, requer a defesa a imediata suspensão de qualquer ordem de prisão expedidas aos réus em relação a eventual descumprimento da fiança estabelecida pelas instâncias ordinárias.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+No mérito, contudo, tenho que inexiste fundamento jurídico hábil a amparar a pretensão recursal.
+Isso porque o valor fixado a título de fiança, de forma proporcional e razoável, guarda consonância às disposições previstas nos arts. 325 e 326 do Código de Processo Penal, notadamente em relação à natureza das infrações atribuídas aos recorrentes (organização criminosa, apologia ao nazismo e aos movimentos de supremacia branca), às condições pessoais de fortuna demonstradas e à vida pregressa dos acusados, bem assim no que tange às circunstâncias indicativas de suas periculosidades.
+Com efeito, entendo que agiu com acerto a instância inferior ao ressaltar a importância de evitar a fixação de fiança em valor irrisório, sobretudo para desestimular a prática criminosa dotada de acentuado desfavor, a reforçar a periculosidade dos agentes.
+De mais a mais, a pretensão defensiva resvala na via estreita do habeas corpus, que impossibilita o revolvimento de matéria fático-probatória nestes autos, consoante jurisprudência sedimentada desta Corte, devendo ser observadas as escorreitas conclusões do Tribunal local, soberano no enfrentamento de fatos e de provas (AgRg no HC 895457 / SC, QUINTA TURMA, de minha relatoria, DJe 16/05/2024).
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
