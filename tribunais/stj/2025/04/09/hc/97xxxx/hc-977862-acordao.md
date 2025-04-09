@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRORROGAÇÃO DA PERMANÊNCIA NO SISTEMA PENITENCIÁRIO FEDERAL. APENADO QUE EXERCE FUNÇÃO DE LIDERANÇA EM ORGANIZAÇÃO CRIMINOSA. HISTÓRICO DE FUGA E ENVOLVIMENTO EM AÇÕES VIOLENTAS NO INTERIOR DO SISTEMA CARCERÁRIO ESTADUAL. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES DESTA CORTE SUPERIOR. SÚMULA 662/STJ. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de GENILSON FRANCISCO DA SILVA contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que, nos autos do Agravo em Execução n. 0051857-66.2024.8.17.9000, negou provimento ao apelo defensivo, mantendo a decisão de prorrogação de permanência no Sistema Penitenciário Federal (Execução n. 0000166-88.2014.8.17.4012, 1ª Vara Regional de Execução Penal da comarca do Recife - fls. 1.883/1.884).
+A defesa alega, em síntese, que a renovação da permanência do paciente no Sistema Penitenciário Federal é ilegal, pois a decisão carece de fundamentação idônea e específica, conforme exigido pelo art. 93, IX, da Constituição Federal (fls. 4/5).
+Sustenta que a decisão desconsidera os princípios da excepcionalidade e temporariedade previstos no art. 10 da Lei n. 11.671/2008, e que não foram apresentados fatos novos ou elementos concretos que justifiquem a renovação (fls. 6/7).
+Afirma que a manutenção do paciente em presídio federal, sem justificativa adequada, configura tratamento desumano e degradante, violando o princípio da dignidade da pessoa humana (fls. 7/8).
+Pede a concessão da ordem de habeas corpus para determinar o retorno do paciente ao sistema prisional estadual ou, subsidiariamente, que o Juízo Coator fundamente adequadamente a necessidade de renovação (fls. 8).
+Informações prestadas pela origem às fls. 2.032/2.043.
+O Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 2.046/2.051).
+É o relatório.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PRORROGAÇÃO DA PERMANÊNCIA NO SISTEMA PENITENCIÁRIO FEDERAL. APENADO QUE EXERCE FUNÇÃO DE LIDERANÇA EM ORGANIZAÇÃO CRIMINOSA. HISTÓRICO DE FUGA E ENVOLVIMENTO EM AÇÕES VIOLENTAS NO INTERIOR DO SISTEMA CARCERÁRIO ESTADUAL. FUNDAMENTAÇÃO VÁLIDA. PRECEDENTES DESTA CORTE SUPERIOR. SÚMULA 662/STJ. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+Ordem denegada.
+VOTO
+A impetração pretende a saída do paciente do Sistema Penitenciário Federal, haja vista a falta de fundamentação nas decisões de renovação da manutenção do paciente.
+Esta Corte fixou o entendimento de que, para a permanência de preso no Sistema Penitenciário Federal, basta a persistência dos motivos que levaram à transferência, vide o teor da Súmula 662/STJ:
+Para a prorrogação do prazo de permanência no sistema penitenciário federal, é prescindível a ocorrência de fato novo; basta constar, em decisão fundamentada, a persistência dos motivos que ensejaram a transferência inicial do preso.
+Também se sabe que o apenado não possui direito absoluto de cumprir a pena em unidade prisional próxima ao seu meio social, justificando-se a transferência para o Sistema Federal no interesse público ou do próprio preso, conforme dispõe a Lei n. 11.671/2008. Neste sentido: AgRg no HC n. 497.965/MS, Ministro Nefi Cordeiro, Sexta Turma, julgado em 18/6/2019, DJe de 28/6/2019.
+No caso, o Tribunal local negou provimento à insurgência defensiva aos seguintes fundamentos (fls. 1.984/1.985):
+ ..
+À luz da legislação supracitada, e com arrimo na jurisprudência do Superior Tribunal de Justiça, entendo que a decisão combatida está corretamente fundamentada, uma vez que o juízo a quo, após requerimento da Gerência Técnica Penal da Secretaria de Administração Penitenciária e Ressocialização (seq. 355.2), deferiu a permanência do condenado no Sistema Penitenciário Federal por mais 01 (um) ano, com base no Relatório Técnico n.º 148/2024 do CIIDS/SDS.
+Ora, o referido relatório (seq. 355.3) apontou que Genilson Francisco da Silva, vulgo "Neguinho de Cupira", foi mentor e patrocinador de projeto de fuga - o qual foi frustrado - de detentos recolhidos no Presídio de Itaquitinga (PIT), com a contratação de grupo criminoso especializado.
+O agravante, de acordo com as investigações, ostenta "perfil de alta periculosidade, integra Organização Criminosa, desempenhando função de liderança na prática reiterada de crimes com violência ou grave ameaça, possui histórico de "fuga", envolvimento em ações violentas no interior do Sistema Carcerário Estadual, fatos que caracterizam a excepcionalidade da medida de RENOVAÇÃO do preso em estabelecimento penal federal de segurança máxima".
+Assevera, ainda, o documento, que os leais "soldados" de "Neguinho de Cupira" "estariam dando continuidade as suas práticas criminosas neste estado, mantendo seu nome como forte "liderança" em Pernambuco e outros estados, sendo inegável sua capacidade de continuar a delinquir de forma ativa, principalmente estando recluso em uma unidade na qual não se submeta ao RDD - Regime Disciplinar Diferenciado. Seu poder de "liderança" poderia desencadear "disputas antigas", aumento considerável de MVIs (Morte Violenta Intencional), acarretando grandes prejuízos para as forças de segurança".
+ ..
+Outrossim, não há que se falar em ausência de fundamentação da decisão vergastada, e nem mesmo na prática de um direito penal do inimigo ou violador de princípios constitucionais, haja vista que houve observância inequívoca aos arts. 3º, caput; e art. 10, caput e §1º da Lei n.º 11.761/2008; ao art. 3º do Decreto n.º 6.877/2009 e à jurisprudência do STJ, uma vez que restou demonstrado que o agravante integra organização criminosa, na qual desempenha função de liderança, e que é mentor de incidente de fuga no âmbito do sistema prisional de origem, elementos que justificam, por si só, a permanência do recorrente no Sistema Penitenciário Federal.
+ ..
+Pois bem, não verifico qualquer ilegalidade a ser sanada, tendo em vista que a manutenção do paciente em presídio federal encontra-se devidamente fundamentada, pois ficou demonstrada a função de liderança em organização criminosa, bem como o histórico de fuga e envolvimento em ações violentas no interior do Sistema Carcerário Estadual, circunstâncias que justificam a permanência.
+Este também é o entendimento da jurisprudência desta Corte Superior de Justiça:
+HABEAS CORPUS. EXECUÇÃO PENAL. PRESÍDIO FEDERAL DE SEGURANÇA MÁXIMA. RENOVAÇÃO DO PRAZO DE PERMANÊNCIA DE PRESO NO REGIME DISCIPLINAR DIFERENCIADO. JUÍZO DE VALOR QUE NÃO CABE AO MAGISTRADO FEDERAL RESPONSÁVEL PELO ESTABELECIMENTO PRISIONAL. COMPETÊNCIA DO JUÍZO DA AÇÃO PENAL. GRAVIDADE DOS FATOS APRESENTADOS. ALTA PERICULOSIDADE DO APENADO E RISCO PARA A SEGURANÇA PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A transferência e inclusão de presos em estabelecimento penal federal de segurança máxima, bem como a renovação de sua permanência, justifica-se (i) no interesse da segurança pública ou (ii) do próprio preso, nos termos do art. 3.º da Lei n.º 11.671/2008, sendo medida de caráter excepcional.
+2. Compete ao Juízo responsável pela ação penal a decisão sobre a manutenção do réu no regime disciplinar diferenciado quando a inclusão do preso no presídio federal foi justificada em elementos obtidos nos autos do processo de origem, sendo o Juízo responsável pelo presídio no qual se encontra atualmente o preso competente para solucionar incidentes ou pedidos relativos à execução da pena.
+3. Existem elementos concretos que justificam a manutenção do Preso em Regime Disciplinar Diferenciado, pois se tratar de criminoso de alta periculosidade, líder de organização criminosa responsável pela ocorrência de rebeliões no sistema prisional do Estado do Amazonas, ocorridas no princípio do ano de 2017, persistindo os fundamentos que justificaram a transferência para o Presídio Federal com objetivo de assegurar segurança pública.
+4. Ordem de habeas corpus denegada.
+(HC n. 473.642/AM, Ministra Laurita Vaz, Sexta Turma, DJe 4/2/2019 - grifo nosso).
+Ante o exposto, denego a ordem de habeas corpus.
