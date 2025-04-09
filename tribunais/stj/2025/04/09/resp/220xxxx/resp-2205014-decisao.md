@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DO RIO DE JANEIRO contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, no qual alega violação dos arts. 10º, 489 e 1.022 do Código de Processo Civil - CPC/2015 e do art. 25 da Lei n. 6.830/1980, sustentando a não ocorrência de prescrição intercorrente e a ilegalidade da extinção da execução fiscal, sem prévia intimação da parte exequente, na hipótese em que, ordenada a citação, o processo executivo fiscal não tramita, por ausência de impulso oficial.
+Sem contrarrazões da parte recorrida, o recurso especial foi admitido.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Na hipótese em que o juízo da execução não profere o despacho determinando a citação ou não impulsiona, de ofício, o processo executivo fiscal, não se pode atribuir a culpa pela paralisação do processo à parte exequente, de tal sorte que é inadequada a extinção da execução fiscal por ocorrência da prescrição da pretensão executória ou em razão da prescrição intercorrente.
+A respeito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. INEXISTÊNCIA DE DESPACHO DE CITAÇÃO. PRESCRIÇÃO. INEXISTÊNCIA.
+1. A Primeira Seção desta Corte Superior, ao julgar o REsp 1.102.431/RJ, na sistemática dos recursos repetitivos, sedimentou entendimento segundo o qual "a perda da pretensão executiva tributária pelo decurso de tempo é consequência da inércia do credor, que não se verifica quando a demora na citação do executado decorre unicamente do aparelho judiciário. Inteligência da Súmula 106/STJ".
+2. Hipótese em que a situação fática delineada pelas instâncias ordinárias é suficiente para revelar a desídia na prática de ato processual a cargo do Poder Judiciário, por impulso oficial (art. 262 do CPC/1973), e não da parte exequente, pois, ajuizada a execução fiscal antes de esgotado o prazo prescricional, não se poderia tê-la extinto com o pretexto da ausência de citação, se esta não foi determinada.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.630.651/AM, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/5/2017, DJe de 20/6/2017)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 106/STJ.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, submetido ao rito dos recursos repetitivos, consolidou entendimento segundo o qual, mesmo nas execuções fiscais, a citação retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1º, do CPC quando a demora na citação é imputada exclusivamente ao Poder Judiciário, nos termos da Súmula 106/STJ.
+2. Ajuizada a execução fiscal antes do implemento do prazo prescricional, a demora na citação por ausência de despacho assinado por juiz de forma a ensejar a interrupção do prazo prescricional não pode ser interpretado em desfavor da Fazenda Pública.
+3. O fato caracteriza-se como intercorrência inerente ao funcionamento do Poder Judiciário, logo é inapto para legitimar o reconhecimento da prescrição por não ter derivado da inércia da credora. Incidência Súmula 106/STJ.
+Agravo regimental improvido.
+(AgRg no REsp n. 1.535.194/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/9/2015, DJe de 14/9/2015)
+No mesmo sentido, entre outros: REsp n. 1.771.181/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/11/2018, DJe de 19/11/2018; REsp n. 1.771.195/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/12/2018, DJe de 17/12/2018; EDcl no AgInt no REsp n. 1.855.468/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/10/2021, DJe de 7/10/2021; EDcl no AgInt no REsp n. 1.857.315/AL, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/11/2020, DJe de 2/12/2020.
+No caso dos autos, o órgão julgador a quo decidiu em confronto com a lei e com a jurisprudência, tendo em vista o registro de que "muito embora inexistisse tramitação do feito depois de proferido o despacho inicial de conteúdo positivo e fosse dever do Judiciário praticar os atos necessários para o seu prosseguimento, na verdade o Apelante também abandonou a lide, pois em momento algum se preocupou em provocar o juízo de forma a mostrar interesse pelo seu direito pois desde a inicial jamais se manifestou".
+Ante o exposto, dou provimento ao recurso especial, casso o acórdão recorrido e determino o retorno dos autos ao juízo da execução para a retomada do processo executivo.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. AUSÊNCIA DE IMPULSO OFICIAL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO ESPECIAL PROVIDO.
