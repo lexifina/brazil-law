@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por SANCHES TEIXEIRA DE OLIVEIRA, para impugnar acórdão lavrado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO , que denegou a ordem vindicada nos autos do habeas corpus nº 010545-45.2023.8.08.0000.
+Consta dos autos que, no bojo de inquérito policial para averiguar a suposta prática do crime de tentativa de homicídio por parte do tio do recorrente, a autoridade judiciária competente deferiu a busca e apreensão de bens e objetos necessários à elucidação dos fatos, inclusive no endereço do recorrente.
+No presente recurso, requer a defesa a declaração de nulidade das provas amealhadas no bojo da busca e apreensão e, subsidiariamente, o reconhecimento do declínio de competência em favor da Comarca de Bom Jesus do Itabapoana, Estado do Rio de Janeiro.
+Parecer do Ministério Público Federal pelo parcial conhecimento do recurso e, nesta extensão, pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+De saída, no que tange ao pleito de declínio de competência, tenho que as instância de origem não o analisaram, de modo que o seu conhecimento na presente via implicaria indevida supressão de instância.
+Logo, "não debatida a questão pela Corte a quo, é firme o entendimento de que fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (AgRg no HC 901793 / RN, QUINTA TURMA, de minha relatoria, DJe 13/09/2024).
+Deixo, portanto, de conhecer de tal matéria, à vista da indesejável supressão de instância.
+Quanto às demais teses, entendo que o recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+Conforme cediço, "o trancamento de ações penais e inquéritos policiais pela via estreita do habeas corpus é medida excepcional, somente admitida quando houver demonstração inequívoca, de atipicidade da conduta, absoluta carência de indícios de autoria, inexistência de prova da materialidade, quando a denúncia for manifestamente inepta ou, ainda, quando se constatar a superveniência de causa extintiva da punibilidade" (AgRg no RHC 197125 / SC, QUINTA TURMA, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 21/06/2024), o que não se vislumbra no caso vertente.
+Na espécie, a inclusão de novos endereços para o cumprimento da medida de busca e apreensão, inclusive na residência do paciente, decorreu de indícios de que o ora recorrente confere apoio ao seu tio (PÉRICLES TEIXEIRA DE OLIVEIRA), investigado por crime de homicídio, no afã de prejudicar o curso das investigações.
+De se ver, por oportuno, que o mandado de busca e apreensão atendeu às exigências do art. 243 do Código de Processo Penal, porquanto adequadamente motivado, além de terem sido indicados o local, os motivos, os fins da diligência e ter sido subscrito pela autoridade competente.
+Com efeito, conforme bem assentado pela instância inferior (fls. 55/61):
+"A decisão impugnada apresentou fundamentação idônea, indicando motivos suficientes e adequados para o afastamento da inviolabilidade domiciliar, e urgente emprego da medida, para evitar o risco de desaparecimento, destruição ou perecimento de documentos e objetos, necessários para o aprofundamento das investigações do homicídio, em que figura como suspeito o tio do ora paciente".
+E, ainda, para se aferir se o mandado judicial de busca e apreensão não foi precedido de fundadas razões, seria necessário o reexame do conjunto fático-probatório, incompatível com os estreitos limites do habeas corpus (AgRg no HC n. 798.398/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024).
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, conheço, em parte, do recurso e, nesta extensão, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
