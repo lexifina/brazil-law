@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda Nacional, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 51):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSO EXPROPRIATÓRIO. PLURALIDADE DE PENHORAS. JUÍZO TRABALHISTA. ECONOMIA PROCESSUAL.
+1. O CPC prevê a possibilidade de pluralidade de penhoras sobre mesmo bem, garantindo-se o título de preferência aos credores, a teor do que preceitua o seu art. 797, parágrafo único, combinado com os arts. 908 e 909.
+2. Incumbe ao Juízo da execução deliberar sobre a viabilidade econômica das diligências de penhora e alienação, observados o interesse do credor e os princípios de economia e celeridade processual, não devendo atuar como mero executor das diligências de penhora e alienação, para após remeter o valor arrecadado para a Justiça do Trabalho.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 18, 797, 908, 909, 1.022 do CPC; e 186 do CTN. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca das questões neles suscitadas; e (II) andou mal o acórdão recorrido ao manter a decisão do juiz singular, pela qual se "determinou que a exequente apresente nos autos informações sobre a situação de processos trabalhistas que ensejaram restrições sobre os bens penhorados, com o respectivo valor, a fim de ser possível verificar se o leilão requerido terá utilidade prática em execução fiscal" (fl. 81), por impedir ilegalmente o prosseguimento da execução fiscal, haja vista a "possibilidade de múltiplas penhoras sobre um mesmo bem, com a existência de múltiplos credores" (fl. 81), ademais "a defesa do interesse de outros credores não é tarefa da União, até mesmo porque não é legitimada para assim proceder" (fl. 81).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O presente recurso especial foi tirado de agravo de instrumento interposto, em 5/7/2022 (fl. 2), contra decisão de Juiz Singular em execução fiscal (Processo 5013407-52.2018.4.04.7002/PR - cf fl. 19), que cancelou os leilões designados dos veículos penhorados na ação e determinou ao ente exequente que trouxesse "aos autos informações sobre a situação dos processos trabalhistas que ensejaram restrições sobre os bens penhorados, com o respectivo valor, a fim de ser possível verificar se o leilão requerido terá utilidade prática para esta execução".
+Em consulta ao sítio eletrônico do tribunal de origem pode-se extrair que, em 26/3/2024, com o regular processamento do feito executivo, foi proferida decisão interlocutória, na qual o juiz singular registrou que "A exequente manifestou-se expressamente no sentido de que não se opõe ao levantamento das constrições trabalhistas sobre os veículos penhorados nos autos", tendo, assim, determinado "o levantamento da penhora e das respectivas anotações RENAJUD incidentes sobre os veículos certificadas no evento 90".
+Assim, considerando que o apelo raro inadmitido visava, em ultima ratio, ao prosseguimento do leilão dos veículos cuja penhora culminou por ser levantada pelo juízo em decisão ulterior, na qual se registrou a aquiescência, a esse respeito, do ente exequente, ora agravante, resta caracterizada a perda superveniente de seu interesse recursal, nos termos do art. 1.000, parágrafo único, do CPC.
+Nessa mesma linha de raciocínio:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECURSO ESPECIAL INTERPOSTO NO BOJO DE AGRAVO DE INSTRUMENTO. POSTERIOR EXTINÇÃO DA EXECUÇÃO FISCAL POR PAGAMENTO DA DÍVIDA. PRÁTICA DE ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. PERDA SUPERVENIENTE DO INTERESSE RECURSAL. ART. 1.000, PARÁGRAFO ÚNICO, DO CPC/2015. CARACTERIZAÇÃO.
+1. Tendo a ora agravante procedido à quitação da dívida objeto da execução fiscal - ato incompatível com a vontade de recorrer -, ressai nítida a perda superveniente do interesse recursal relativo ao agravo de instrumento interposto anteriormente em sede de exceção de pré-executividade.
+2. De fato, o posterior pagamento da dívida na execução fiscal demonstra aceitação tácita ao que decidido na exceção de pré-executividade - questão objeto do recurso especial epigrafado, o que, por conseguinte, impede o trânsito do apelo nobre ante a existência de fato impeditivo do direito de recorrer, requisito de admissibilidade intrínseco do recurso especial.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.565.569/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 20/4/2020, DJe de 24/4/2020.)
+PROCESSO CIVIL. AGRAVO REGIMENTAL. FORNECIMENTO DE MEDICAMENTO. PROCEDIMENTO MÉDICO. ESTADO DE RONDÔNIA. RECONHECIMENTO DA LEGITIMIDADE DO SECRETÁRIO DE SAÚDE. PRÁTICA DE ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. RECURSO NÃO CONHECIDO.
+1. Configura-se a prática de ato incompatível com a vontade de recorrer a manifestação do ente estatal exarada em contrarrazões, a qual expressamente reconheceu a legitimidade do Secretário de Saúde para figurar no polo passivo da ação mandamental. Aplica-se, na espécie, o disposto no art. 503 do CPC, que impossibilita o trânsito da irresignação recursal.
+ ..
+3. Agravo regimental não conhecido.
+(AgRg no RMS 39.979/RO, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 4/6/2013, DJe 13/6/2013)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Em tempo: proceda-se à corrigenda do estado originário do feito recursal, a fim de que conste "PR" (Paraná), e não "RS" (Rio Grande do Sul) - cf fls. 9-20; 53.
+Cumpra-se.
+Publique-se.
+EMENTA
