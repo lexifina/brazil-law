@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LIANE SLOBODIAN MOTTA VIEIRA contra decisão da Vice Presidência do Tribunal do Paraná que inadmitiu o recurso especial interposto com base no art. 105, inciso III, alínea "a" e "c" da Constituição Federal, fundamentado na incidência do enunciado da Súmula 83/STJ.
+O recurso especial foi interposto contra acórdão, unânime, do Tribunal de origem, o qual manteve a sentença do juízo de primeiro grau, que condenou a parte recorrente como incursa na sanção do artigo 173, "caput", do Código Penal, fixando à pena definitiva em 05 (cinco) anos de reclusão, além de 106 (cento e seis) dias-multa, em regime semiaberto (fls. 6298-6299).
+Opostos embargos de declaração, esses foram rejeitados (fls. 6363-6369).
+A parte recorrente alegou violação ao art. 399, §2º, do Código de Processo Penal, e divergência jurisprudencial.
+Contrarrazões do recurso especial (fls. 6414-6419).
+Inadmitido o recurso especial (fls. 6424-6426), foi interposto o presente agravo (fls. 6474-6479).
+No presente agravo, a parte agravada apresentou contrarrazões (fls. 6482-6486).
+O Ministério Público Federal, como "custos legis", apresentou parecer opinando pelo conhecimento do agravo e não conhecimento do recurso (fls. 6530-6532).
+É o relatório. DECIDO.
+Consoante se denota, o eg. Tribunal de origem afastou a aventada nulidade dada a hipótese de hígida exceção ao princípio da identidade física do juiz ao caso concreto diante do fato de que se tratava de juíza substituta.
+Nesse aspecto, da análise do excerto colacionado no relatório, verifico que os fundamentos do acórdão recorrido estão em consonância com o entendimento desta Corte Superior, ao considerar que o princípio da identidade física do juiz não é absoluto, e, portanto, comporta mitigações.
+Por isso, a ausência do juiz titular, que tenha sido afastado do feito, por qualquer motivo previsto na legislação processual (inclusive férias, remoção, promoção, etc), justifica a prolação da sentença pelo magistrado substituto que o suceda, por exemplo.
+Nesses casos, não há nulidade a ser reconhecida, porque são respeitadas as regras prévias de fixação de competência, com consequente ausência de prejuízo para as partes. Essa é a interpretação do art. 399, §2º, do Código de Processo Penal, adotada por este Superior Tribunal de Justiça.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL.
+AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DAS DECISÕES. LIVRE CONVENCIMENTO MOTIVADO. VALIDADE. TEMA CONSTITUCIONAL.
+IMPOSSIBILIDADE. RECURSO GENÉRICO. VEDAÇÃO. IDENTIDADE FÍSICA DO JUIZ. EXCEÇÕES. FÉRIAS. OFENSA NÃO EXISTENTE. PREJUÍZO CONCRETO NÃO DEMONSTRADO. PERÍCIA. PRECLUSÃO. EXAME EM VÍDEOS, VOZES OU GRAFIAS.
+DESNECESSIDADE. INTERCEPTAÇÃO TELEFÔNICA. NULIDADE. INEXISTÊNCIA.
+PREJUÍZO NÃO DEMONSTRADO. FONTE AUTÔNOMA. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. MOTIVO TORPE. NÃO PAGAMENTO DE DÍVIDA E VINGANÇA.
+SUBMISSÃO AO TRIBUNAL DO JÚRI. NECESSIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+1. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão recorrida, não merece ser conhecido o agravo regimental.
+2. Não se conhece da parte do agravo em recurso especial quando quem o interpõe não se desincumbe do seu ônus de impugnar especificamente todos os fundamentos da decisão recorrida para não admitir a tese correspondente, na forma do art. 253, p.u., I, do RISTJ, e do enunciado da Súmula 182/STJ.
+3. O sistema acusatório não veda o livre convencimento motivado, fundamentado em provas produzidas pelas partes, ainda que nas alegações finais elas não sejam invocadas, porque ele tem base no art. 155, caput, do CPP.
+4. A alegação de incompatibilidade da lei federal com princípios e dispositivos constitucionais não pode ser apreciada em sede de recurso especial, uma vez que o exame da matéria é de competência do Supremo Tribunal Federal, nos termos do art. 102, inciso III, da Carta Magna.
+5. Não se conhece de recurso especial quando suas razões são genéricas, se limitando a uma análise meramente jurídica, mas sem nenhuma relação com as situações específicas do caso concreto, apresentando-se cabível para qualquer impugnação relativa ao mesmo tema, o que acontece com a alegação de ofensa aos arts. 619 e 620, do CPP, sem indicação de qual o suposto ponto obscuro, omisso ou contraditório no acórdão de 2º grau.
+6. Se o juiz prolator da decisão de pronúncia estava de férias no período de realização da audiência, não há que se falar em ofensa à identidade física do juiz, eis que o § 2º do art. 399 do CPP deve ser interpretado de forma teleológica e sistemática, ainda aceitando as exceções do art. 132, do CPC/73.
+7. Não há que se falar em nulidade do processo, por suposta ofensa ao princípio da identidade física do juiz, uma vez que ele, além de admitir exceções, só ocasiona o vício processual em caso de demonstração de prejuízo concreto, o qual não se presume apenas em razão da existência de decisão que pronunciou o acusado.
+8. O artigo 571, I, do CPP, estabelece que nulidades ocorridas na fase do sumário de culpa devem ser arguidas até as alegações finais, para serem decididas na ocasião da pronúncia, o que não houve in casu, pois a defesa suscitou a necessidade de perícia apenas nas razões do seu recurso em sentido estrito, o que impede o acolhimento do pleito em razão da preclusão.
+9. O art. 158, caput, do CPP, exige a realização apenas de exame de corpo de delito, quando a infração deixar vestígios, o que, no caso dos crimes de homicídio, corresponde ao exame necroscópico, inexistindo obrigatoriedade de realização de perícia em vídeos, em vozes ou em grafias para prova do delito e de sua autoria.
+10. Se o acórdão em nenhum momento reconhece que houve conversas telefônicas interceptadas sem autorização judicial, a questão é de prova, o que impede uma revisão dessa constatação nesta via, diante do óbice da Súmula 7/STJ. Essa situação, ao lado da ausência de demonstração de prejuízo concreto, exigido pelo art. 563, do CPP, impede a declaração de nulidade da prova respectiva.
+11. A arguição de ilicitude de determinado meio de prova - interceptação telefônica, não tem o efeito de ensejar a despronúncia do réu quando se verifica que as instâncias ordinárias fundamentaram as suas decisões em outros elementos que apontam os indícios suficientes de autoria do crime, sem qualquer indicação de se tratar de prova ilícita por derivação.
+12. Não se cogita a presença de excesso de linguagem da pronúncia, ofensivo ao art. 413, § 1º, do CPP, quando as instâncias ordinárias não adentram em juízo de certeza, apenas fundamentando-se na existência de prova da materialidade do crime e indícios suficientes de autoria, inclusive em resposta à tese contrária da defesa.
+13. A menção feita pelas instâncias ordinárias à existência de elementos indicativos da possibilidade de o homicídio ter sido cometido em função da existência de dívida não paga pela vítima, em conjunto com vingança oriunda de tentativa de homicídio que teria antes sido por ela praticada, não permite a exclusão da qualificadora do motivo torpe, que deve ser submetida ao juízo natural do Tribunal do Júri.
+14. Agravo regimental parcialmente conhecido e desprovido" (AgRg no AREsp n. 1.335.803/PE, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/11/2022).
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do CPP.
+2. Admite-se a mitigação do princípio da identidade física do juiz, a fim de possibilitar o julgamento por juiz substituto, quando o Magistrado que presidiu o feito se encontrar de férias. Precedentes.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos, apenas para integrar fundamentos ao acórdão embargado" (EDcl nos EDcl no REsp n. 1.790.383/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 11/11/2019).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA, SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. ATIPICIDADE DA CONDUTA DE LAVAGEM DE DINHEIRO. INOVAÇÃO RECURSAL. ART. 132 DO CPC/1973. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. ART. 563 DO CPP. PREJUÍZO NÃO DEMONSTRADO. ARTS. 59 E 68 DO CP. SÚMULA 284/STF.
+(..)
+III - Em razão da ausência de regras específicas no processo penal, vinha se aplicando, por analogia, o disposto no art. 132 do CPC/1973, o qual traz exceções ao princípio da identidade física do Juiz, no caso de ausência do julgador em razão de convocação, licença, afastamento, promoção ou aposentadoria, devendo os autos, de regra, passar ao sucessor do Magistrado.
+IV - Nos termos da jurisprudência desta Corte Superior, a hipóteses previstas no art. 132 do CPC/1973 (vigente à época dos fatos) são autorizações excepcionais, sendo admitidas em razão de o princípio da identidade física do juiz não ter caráter absoluto. A regra é que o magistrado que presidiu a instrução criminal venha a proferir sentença, como no caso, ainda que esteja afastado.
+V - Ademais, a alegada nulidade, consoante o disposto no art. 563, do Código de Processo Penal, e conforme o princípio do "pas de nullité sans grief", dependeria da demonstração efetiva de prejuízo, o que, no caso, não ocorreu. Pelo contrário, na hipótese, a sentença condenatória foi proferida pela própria magistrada que presidiu os atos de produção da prova.
+(..)
+Agravo regimental desprovido" (AgRg no REsp n. 1.478.259/PR, Quinta Turma, Rel. Min. Felix Fischer, DJe de 14/3/2018).
+Ante o exposto, com fulcro no art. 253, II, "b" do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
