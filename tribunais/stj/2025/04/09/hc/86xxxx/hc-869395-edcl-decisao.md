@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GABRIEL SOARES PEREIRA contra decisão por mim proferida, em que não conheci do habeas corpus impetrado em seu favor, mas concedi a ordem, de ofício, para redimensionar a pena para 29 anos, 7 meses e 18 dias de reclusão, em regime inicial fechado, e o pagamento de 14 dias-multa.
+O embargante aponta omissão, porquanto o pleito de reconhecimento da minorante da participação de menor importância em seu grau máximo não foi analisado.
+Pleiteia o acolhimento dos aclaratórios para sanar o vício apontado.
+É o relatório.
+Decido.
+Os aclaratórios merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admitem-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Na hipótese dos autos, verifico que a decisão embargada padece do vício apontado.
+Da análise do acórdão impugnado, observa-se que o pleito de reconhecimento da minorante da participação de menor importância em seu grau máximo não foi debatido pelo Tribunal de origem, circunstância que impede o pronunciamento desta Corte Superior a respeito, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. DOSIMETRIA. PENA-BASE. PRÁTICA DE DELITOS NO EXERCÍCIO DA ATIVIDADE PROFISSIONAL. MAIOR CULPABILIDADE CONFIGURADA. CIRCUNSTÂNCIAS. INEXISTÊNCIA DE BIS IN IDEM. ELEVADO PREJUÍZO NÃO É RESULTADO OBRIGATÓRIO EM CRIMES CONTRA ENTIDADES DE DIREITO PÚBLICO. REDUÇÃO PELA TENTATIVA. FRAÇÃO DETERMINADA EM RAZÃO DO ITER CRIMINIS PERCORRIDO. ALTERAÇÃO DO ENTENDIMENTO SOBRE A MAIOR OU MENOR PROXIMIDADE DA CONSUMAÇÃO. REEXAME. IMPOSSIBILIDADE NESTA VIA. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. TEMA NÃO ANALISADO PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do habeas corpus, podendo, inclusive, decidi-lo monocraticamente (art. 34, XX, do RISTJ). Por outro lado, a parte possui mecanismos processuais de submeter a controvérsia ao órgão colegiado por meio do competente agravo regimental, o que supera eventual mácula da decisão singular do Relator.
+2. Como é cediço, a revisão da dosimetria da pena, na via do habeas corpus, somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios. (HC n. 304.083/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+3. Nesse contexto, a exasperação da pena-base deve estar fundamentada em dados concretos extraídos da conduta imputada ao acusado, os quais devem desbordar dos elementos próprios do tipo penal.
+4. Na hipótese, as instâncias locais não divergiram da jurisprudência desta Corte ao negativarem o vetor culpabilidade, firmada no sentido de que a prática de delitos no exercício da atividade profissional, ou em razão dos conhecimentos dela decorrentes, é circunstância concreta apta a justificar a elevação da pena-base.
+5. De igual modo, já se manifestou esta Corte no sentido de ser "Improcedente a alegação de bis in idem na fixação da reprimenda pela eg. Corte de origem, pois a consideração da maior reprovabilidade da conduta (circunstâncias judiciais), ante a consequência delituosa consubstanciada no elevado prejuízo causado, não é resultado obrigatório em delitos perpetrados em detrimento de entidade de direito público, assistência social, etc. (§ 3º do art. 171 do CP)." (RHC 49.640/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 02/12/2014, DJe 19/12/2014).
+6. No que se refere à fração de redução adotada pela tentativa (art.
+14, inciso II, do Código Penal), é cediço que o magistrado deve levar em consideração somente o iter criminis percorrido, ou seja, quanto mais próxima a consumação do delito, menor será a diminuição, o que foi devidamente observado no caso concreto. Assim, a modificação do entendimento sobre a maior ou menor proximidade da consumação do delito, a influenciar na fração adotada pelas instâncias ordinárias, demandaria o reexame minucioso da matéria fática, tarefa vedada na via estreita do habeas corpus.
+7. A pretensão de reconhecimento da participação de menor importância em relação à paciente Marikelen, com a aplicação do art. 29, §1º, do Código Penal, não foi objeto de análise pela Corte local na apelação. Assim, constatada a ausência do exame do tema na origem, não é possível a sua apreciação pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+8. Agravo regimental desprovido.
+(AgRg na PET no HC n. 891.275/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/9/2024, DJe de 1/10/2024.)
+Ante o exposto, com fundamento no art. 264, §1º, do Regimento Interno do Superior Tribunal de Justiça, acolho os embargos de declaração, sem efeitos infringentes, apenas para sanar a omissão apontada.
+Publique-se.
+Intimem-se.
+ EMENTA
