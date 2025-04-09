@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GUILHERME DOIMO DE MORAES, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem originária e manteve a prisão preventiva do paciente, decretada pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06.
+Nesta Corte, a defesa alega, em suma, falta de motivação concreta para prisão cautelar. Destaca a suficiência de outras cautelares em substituição à prisão preventiva, haja vista a pequena quantidade de droga apreendida - 15,5g de cocaína.
+Pleiteia a revogação da prisão preventiva ou sua substituição por outras cautelares.
+Às fls. 47/77 (e-STJ), o juiz de primeiro grau prestou informações noticiando a superveniência de sentença que condenou o paciente à pena de 5 anos e 10 meses de reclusão, em regime fechado, mais pagamento de 583 dias-multa.
+O MPF manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Cumpre, então, avaliar a possibilidade de concessão da ordem de ofício, se presente manifesta ilegalidade no ato impugnado.
+De início, vale anotar que Esta Corte tem entendimento de que "a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente para a satisfação do art. 387, § 1.º, do Código de Processo Penal o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento" (AgRg no RHC n. 173.056/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, D Je de 19/12/2022).
+Na hipótese, observa-se que o julgador negou ao paciente o apelo em liberdade, porque "persistem os pressupostos e fundamentos da prisão preventiva mencionados" no decreto inicial (e-STJ, fl. 74) - fundado na garantia da ordem pública, em razão da reiterada atividade criminosa do agente. Segundo consta, ele ostenta antecedentes e é reincidente específico no tráfico de drogas o que comprova sua habitualidade criminosa.
+Dessarte, segundo jurisprudência desta Corte, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENRAÇÃO IDÔNEA. REITERAÇÃO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A prisão preventiva pode ser decretada antes do trânsito em julgado da sentença condenatória desde que estejam presentes os requisitos previstos no art. 312 do CPP.
+2. Foram constatados elementos concretos capazes de justificar a privação cautelar da liberdade pois, apesar de a quantidade de drogas apreendida não ser expressiva, a custódia está suficientemente fundamentada na necessidade de garantir a ordem pública, em razão do risco concreto de reiteração delitiva. Conforme consignado pelo Juízo de primeiro grau, o agravante, além de ter sido flagrado em companhia de um menor na posse de dois tipos diferentes de drogas, balanças de precisão, rádio comunicador e balaclava, possui diversos e graves registros criminais em sua folha de antecedentes.
+3. Nesse contexto, "maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública" (AgRg no HC n. 813.662/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+4. Eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. Precedentes.
+5. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. Precedentes.
+6. Agravo regimental improvido.
+(AgRg no RHC n. 202.811/CE, relator Ministro Og Fernandes, Sexta Turma, julgado em 5/3/2025, DJEN de 12/3/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
