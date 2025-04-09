@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se recurso especial interposto pela ASSOCIAÇÃO MELHORAMENTOS CHAMPS PRIVES, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 08/02/2024.
+Concluso ao gabinete em: 09/12/2024.
+Ação: rescisória com pedido de liminar de tutela provisória de urgência, ajuizada por ALAN ZABORSKI em face de ASSOCIAÇÃO MELHORAMENTOS CHAMPS PRIVÉS (e-STJ fls. 1-49).
+Decisão interlocutória: concedeu a tutela de urgência solicitada por ALAN ZABORSKI para suspender o cumprimento de sentença que penhorou seus direitos sobre os lotes. A decisão é fundamentada na orientação do Superior Tribunal de Justiça e do Supremo Tribunal Federal, que é indevida a cobrança de taxas por associações de moradores que não anuíram expressamente ao pagamento (e-STJ fl. 1015).
+Acórdão: negou provimento à apelação interposta por ASSOCIAÇÃO MELHORAMENTOS CHAMPS PRIVÉS, nos termos da seguinte ementa:
+Ação rescisória. Associação. Cobrança de taxa. Autor alega a existência de prova dolosamente omitido pela ré, com fulcro no artigo 966, inciso VII, do CPC. Alega afronta ao precedente vinculante proferido pelo Supremo Tribunal Federal que reputou inconstitucional a cobrança de taxas de não associados, tendo sido proibida a aplicação do princípio da vedação ao enriquecimento ilícito ou a tese da anuência tácita, tudo de acordo com a tese jurídica firmada no tema 492/STF. Orientação do Superior Tribunal de Justiça no sentido de ser indevida a cobrança àqueles que não anuíram expressamente ao pagamento as Associações e a definição pelo Supremo Tribunal Federal que não são devidas as cobranças antes da edição da Lei 13.467/2017, que alterou a Lei do Parcelamento do Solo. A exceção se refere aos municípios que já haviam editados Leis para regulamentar a cobrança. A anuência tácita não é suficiente. Não há anuência expressa do autor, apenas prova acerca de sua participação das assembleias, de modo que, conforme acórdão colacionado do C. STJ, em conformidade à tese firmada, há de julgar procedente a ação rescisória para afastar as cobranças que se referem a período anterior a vigência da Lei nº 13.465/17, sem a existência de lei municipal anterior a disciplinar a cobrança. Ação procedente. (e-STJ fls. 1018-1031).
+Embargos de declaração: opostos pela ASSOCIAÇÃO MELHORAMENTOS CHAMPS PRIVES, foram rejeitados (e-STJ fls. 1092-1094).
+Recurso especial: alega violação aos arts. 36-A e parágrafo único da Lei 6.766/79, art. 884 do CC e art. 966 do CPC, bem como dissídio jurisprudencial.
+Aduz que o acórdão recorrido foi contraditório ao não considerar a obrigatoriedade de pagamento das taxas associativas por parte de Alan Zaborski, que tinha conhecimento inequívoco da existência da Associação Melhoramentos Champs Prives, conforme entendimento do STF no tema 492 da repercussão geral.
+Sustenta que a decisão do Tribunal de Justiça de São Paulo diverge da interpretação dada pelo STF, especialmente no que se refere à possibilidade de cobrança de taxas de manutenção e conservação de loteamento imobiliário urbano de proprietário ciente da adesão à associação em período anterior à Lei nº 13.465/2017.
+Argumenta que o acórdão paradigma do STF, proferido pelo Ministro Gilmar Mendes, reconhece a legitimidade da cobrança das taxas mensais quando há ciência inequívoca da parte acerca da existência da associação, anterior ao ano de 2017.
+Alega que o acórdão recorrido não analisou adequadamente a condição de associado do recorrido, que participava ativamente das assembleias e demais atos privativos de associados, configurando ofensa ao disposto no art. 8º do Código de Processo Civil, que prevê a aplicação dos princípios da razoabilidade e proporcionalidade.
+Requer o conhecimento e provimento do recurso especial para "reconhecer a violação da lei federal, reformar o acórdão e, com isso, confirmar a validade do acórdão proferido nos autos do processo nº 1000740-62.2015.8.26.0115, autorizando a cobrança das taxas vencidas após o advento da Lei 13.465/2017". (e-STJ fls. 1034-1053).
+Juízo de admissibilidade: a Presidência da Seção de Direito Privado do TJSP admitiu o recurso especial (e-STJ fls. 1163-1170).
+RELATADO O PROCESSO, DECIDE-SE.
+Da ausência de prequestionamento - Súmula 211/STJ
+O acórdão recorrido não decidiu acerca dos art. 36-A, caput e parágrafo único da Lei 6.766/79, indicado como violado, apesar da oposição de embargos de declaração.
+A recorrente argumenta que a decisão recorrida contraria a legalidade das atividades desenvolvidas pelas associações, conforme previsto no artigo tido como violado. No entanto, verifica-se que não há decisão, sequer de forma implícita, acerca da referida violação, não obstante, a recorrente não menciona a ausência de prequestionamento sobre o tema nos embargos de declaração opostos.
+Da divergência jurisprudencial - ausência de cotejo analítico
+No particular, verifica-se que, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico, elemento indispensável à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+Necessário frisar que a "mera transcrição de ementas sem o devido cotejo analítico impede conhecimento do recurso especial pela alínea "c" do permissivo constitucional" (REsp 2.129.680/RJ, Terceira Turma, DJe de 10/04/2024).
+Nesse sentido: AgInt no REsp 2.165.387/SP, Primeira Turma, DJe de 20/12/2024; AgInt no AREsp 2.630.311/RS, Segunda Turma, DJe de 2/12/2024; AgInt no AREsp 2.503.857/PE, Terceira Turma, DJe de 12/12/2024; AgInt no AREsp 2.702.961/RJ, Quarta Turma, DJe de 09/12/2024; AgRg no AREsp 2.607.121/SP, Quinta Turma, DJe de 09/12/2024; AgRg no AREsp 2.399.599/GO, Sexta Turma, DJe de 29/08/2024.
+Desta forma, é inadmissível o julgamento do recurso especial, sendo necessária, portanto, a aplicação da Súmula 211/STJ.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fl. 1031) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, § 4º, e 1026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA COM PEDIDO DE LIMINAR DE TUTELA PROVISÓRIA DE URGÊNCIA. ASSOCIAÇÃO. COBRANÇA DE TAXA. ANUÊNCIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação rescisória com pedido de liminar de tutela provisória de urgência.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. Incidência da Súmula 211/STJ.
+4. Recurso especial não conhecido.
