@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Marco Buzzi, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. PRESCRIÇÃO. PRAZO DECENAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO REJEITADO.
+1. Tendo em vista a jurisprudência pacificada da Segundo Seção do STJ, não mais existe o conflito de que a pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 anos, o que faz incidir, no presente caso, o enunciado 168 da Súmula do Superior Tribunal de Justiça: "não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+2. Agravo interno rejeitado.
+RELATÓRIO
+Trata-se de agravo interno interposto contra a decisão de fls. 2.094-2.097, na qual foi indeferido liminarmente o recurso de embargos de divergência interposto pela Fundação CESP.
+Nas razões do presente recurso, a parte agravante sustenta que a divergência centra-se "na interpretação dos artigos 205 e 206, § 3º, IV, do Código Civil, ou seja, na definição de qual o correto prazo prescricional para a pretensão de beneficiários da Lei Estadual de São Paulo n. 4819/1958 de receberem a devolução de valores que foram descontados de seus benefícios, sem contrapartida" (fl. 2.106).
+Sustenta que: i) a decisão recorrida desconsiderou o contexto jurisprudencial anterior, bem como a devida uniformização pela Segunda Seção do STJ, contrariando seus precedentes, segundo os quais o prazo prescricional é o trienal, nos termos do artigo 206, § 3º, IV, do Código Civil, e não o prazo decenal; ii0 o prazo decenal não condiz com a natureza jurídica da ação, que trata de repetição de indébito por enriquecimento sem causa, tradicionalmente vinculada ao prazo prescricional trienal; iii) a mudança de entendimento ocorreu a partir do julgamento do Recurso Especial n. 1.803.627/SP, que teria se baseado em decisão proferida nos Embargos de Divergência n. 1.523.744/RS, sem considerar a especificidade do caso em análise; iv) há divergência jurisprudencial quanto à responsabilidade da Fundação CESP pela devolução dos valores descontados.
+Requer seja conhecido e provido o agravo interno para reformar a decisão agravada, reconhecendo-se a existência de divergência jurisprudencial e determinando o processamento dos embargos de divergência.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NOS. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. PRESCRIÇÃO. PRAZO DECENAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO REJEITADO.
+1. Tendo em vista a jurisprudência pacificada da Segundo Seção do STJ, não mais existe o conflito de que a pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 anos, o que faz incidir, no presente caso, o enunciado 168 da Súmula do Superior Tribunal de Justiça: "não cabem embargos de divergência quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+2. Agravo interno rejeitado.
+VOTO
+Em que pese as assertivas da agravante, seu recurso não merece prosperar.
+Grande parte de suas razões foi no sentido de demonstrar que há similitude e divergência entre os casos confrontados. Contudo, o indeferimento dos embargos de divergência não se deu em razão disso, mas pela incidência da Súmula n. 168 do STJ. Observa-se (fl. 2.096):
+Não foi demonstrada a divergência atual de entendimento entre as Turmas que compõem a Segunda Seção.
+Apontou o ora embargante, para sustentar a divergência, julgados da Quarta Turma proferidos no ano de 2020, a saber: o AgInt no REsp n. 1.763.228/SP e o AgInt no AREsp n. 1.462.041/SP.
+Contudo, no ano de 2022, nos meses de agosto e setembro, foram julgados pela Segunda Seção os EREsps n. 1.834.189/SP e 1.802.644/SP, resolvendo que o prazo prescricional em questão é de 10 anos.
+Confiram-se, respectivamente, as ementas dos julgados:"  ..
+E, neste aspecto, não trouxe a recorrente impugnação específica, mas apenas fez um histórico que envolve a causa; disse sobre os repasse financeiros efetuados; apontou dispositivos legais a respeito da questão previdenciária, mas nada disso colabora para a modificação do entendimento da Segunda Seção a respeito do prazo prescricional.
+Nem mesmo a argumentação de que não fora observada a jurisprudência anterior, ou o fato de que não há recurso representativo da controvérsia, servem para afastar a incidência da Súmula n. 168 do STJ, segundo a qual: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Nota-se que os embargos de divergência têm por fim a uniformização de divergência jurisprudencial atual a respeito da aplicação do direito material ou processual relativamente ao mérito, na hipótese de o acórdão de um órgão fracionário do STJ divergir do julgamento de qualquer outro. Portanto, se não há tal divergência, evidentemente que não há o que ser pacificado, ou uniformizando, tal como na hipótese dos autos.
+Assim, ao contrário do que defende a agravante, não é importante as vias percorridas pela jurisprudência para se chegar a um consenso de entendimento, pois, uma vez que esse consenso exista, a Súmula n. 168 do STJ se faz presente como óbice ao transito dos embargos de divergência.
+Portanto, estando resolvido nesta Corte que a pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em dez anos (art. 205 do Código Civil), conforme precedentes citados, não são cabíveis os embargos divergência, por falta mesmo de objeto.
+Ante o exposto, rejeito o agravo interno.
+Nos termos do §11 do art. 85 do CPC, majoro os honorários advocatícios em desfavor da parte ora recorrente em 10% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos § 2º do referido artigo, ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
