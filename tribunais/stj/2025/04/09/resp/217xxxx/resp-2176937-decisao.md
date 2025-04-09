@@ -1,0 +1,41 @@
+DECISÃO
+Em análise, recurso especial interposto por AMENAIDES BATISTA DA SILVA e OUTROS, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TJRS, assim ementado (fl. 130):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. TÍTULO JUDICIAL. FASE DE CUMPRIMENTO DE SENTENÇA. PAGAMENTO POR PRECATÓRIO. IMPUGNAÇÃO DESACOLHIDA. HONORÁRIOS DE SUCUMBÊNCIA FIXADOS EM RECURSO ANTERIOR. NOVO RECURSO OBJETIVANDO TAMBÉM HONORÁRIOS DE EXECUÇÃO. PRELIMINAR. MÉRITO.
+1. PRELIMINAR
+Não ocorrência de intempestividade dos declaratórios opostos no 1º Grau. Embora isso, ao invés do que requerem os agravantes, não é caso de nulidade da decisão, com retorno ao 1º Grau, para que outra seja proferida, uma vez que se aplica o princípio da causa madura (CPC, art. 1.013, § 3º).
+2. MÉRITO
+2.1 - O art. 85, § 7º, do CPC, encampou o art. 1º-D da Lei 9.494/97. O legislador excepcionou a regra dos honorários, porque o pagamento por precatório impede o cumprimento espontâneo da prestação devida por força da sentença. Ao excepcionar a regra no cumprimento de sentença, excluiu integralmente os honorários, inclusive os de execução. Tanto é assim que são devidos honorários apenas se houver impugnação desacolhida. Evidente que se refere aos honorários de sucumbência decorrentes da impugnação.
+2.2 - Se, pelo § 7º, o legislador excluiu os honorários, prevendo-os tão só nos casos de impugnação desacolhida, óbvio que, quando esta ocorre, a previsão não retroage, vale dizer, não torna cabíveis também os honorários de execução. Cabíveis, uma vez desacolhida a impugnação, no todo ou em parte, são os de sucumbência. Noutras palavras, a impugnação, por si só, não torna devidos os honorários de execução.
+3. DISPOSITIVO
+RECURSO DESPROVIDO.
+Em suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação do art. 85, § 7º, do CPC/2015, sustentando a necessidade de fixação de honorários na execução impugnada contra a Fazenda Pública que enseje a expedição de precatório.
+Contrarrazões apresentadas às fls. 259-268.
+É o relatório.
+Passo a decidir.
+O Tribunal de origem assim solucionou a questão controvertida (fl. 129):
+O tema aqui é definir o alcance da exclusão dos honorários estabelecida no art. 85, § 7º, do CPC, " no cumprimento de sentença contra a Fazenda Pública", quando o pagamento ocorre por precatório, desde que não tenha havido impugnação.
+1. Com efeito, o § 7º do art. 85 do CPC encampou o art. 1º-D da Lei 9.494/97. O legislador excepcionou a regra dos honorários, porque o pagamento por precatório "impede o cumprimento espontâneo da prestação devida por força da sentença" (STJ, in RT 841/222; idem no R Esp 648477-AgRG-E Dcl, 1ª Turma).
+2. Ao excepcionar a regra no cumprimento de sentença, excluiu integralmente os honorários, inclusive os de execução. Tanto é assim que são devidos apenas se houver impugnação (ex-embargos).
+Mas, quais honorários são devidos  Evidente que são apenas os honorários de sucumbência decorrentes da impugnação.
+3. Se, pelo § 7º, o legislador excluiu os honorários, prevendo-os tão só nos casos de impugnação desacolhida, óbvio que, quando esta ocorre, a previsão não retroage, vale dizer, não torna cabíveis também os honorários de execução. Cabíveis, uma vez desacolhida a impugnação, no todo ou em parte, são os de sucumbência.
+Noutras palavras, a impugnação, por si só, não torna devidos os honorários de execução.
+Não se aplicam ao caso, pois, os precedentes invocados pelos agravantes. Sei, têm sido opostos declaratórios nos quais é alegada divergência com o STJ, porém, em primeiro lugar, não é hipótese típica da espécie recursal; e, em segundo, não se aplica, pois, conforme demonstrado, quando o pagamento ocorre por precatório, não há honorários de execução, mesmo que haja impugnação. Os honorários possíveis - repito - são os de sucumbência do incidente de impugnação, quando houver.
+Contudo, esta Corte Superior firmou entendimento no sentido de que a dispensa da fixação de honorários advocatícios prevista no art. 85, § 7º, do CPC/2015 restringe-se às hipóteses em que a execução não tenha sido impugnada e cujo pagamento ocorra por precatório. Ao contrário, oferecida resistência à execução da sentença, são devidos os honorários advocatícios em atenção ao princípio da causalidade.
+Nessa linha de compreensão:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §7º, DO CPC. PRECLUSÃO. INOCORRÊNCIA. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Na origem, o Juízo singular, nos autos do cumprimento de sentença promovido pelo ora agravado, fixou os honorários executivos no percentual de 20% (vinte por cento) sobre o valor do débito, pois "nos feitos executivos individuais provenientes de ações coletiva contra a Fazenda Pública é cabível a fixação de honorários advocatícios, ainda que o pagamento do crédito seja por meio de precatório".
+2. O Tribunal de origem deu provimento ao agravo de instrumento interposto pelo ente federativo para afastar a verba honorária fixada.
+3. Nesta Corte, decisão dando provimento ao recurso especial do Autor para "determinar o retorno dos autos ao Tribunal de origem, para que, nos termos do art. 85, §§ 3º, 4º e 7º, do CPC/2015, sejam fixados os honorários advocatícios".
+4. "Segundo a jurisprudência pacífica desta Corte, nos termos do disposto no art. 85, § 7º, do CPC, é cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseje a expedição de precatório, desde que haja impugnação excetuada da base de cálculo apenas eventual parcela incontroversa do crédito". (AgInt nos EDcl no REsp n. 2.008.021/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+5. Hipótese em que deve ser afastada a preclusão na fixação da verba honorária, porquanto a condição para o implemento dos honorários, previsto no §7º do art. 85 do Estatuto Processual, ocorre com a impugnação ao cumprimento de sentença promovida pela Fazenda Pública, o que se verifica no caso em exame.
+6. Agravo interno desprovido (AgInt no REsp n. 2.068.358/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO SOBRE A PARCELA CONTROVERTIDA DO DÉBITO. AGRAVO DESPRO VIDO.
+1. A Primeira Seção do STJ já estabeceleu "que se afigura cabível a fixação de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública que enseja a expedição de precatório, quando impugnado pelo devedor, consoante disposto no art. 85, § 7º do Código de Processo Civil, os quais devem recair, contudo, apenas sobre a parcela controvertida do débito, e não sobre o valor total da execução" (AgInt nos EREsp n. 1.888.483/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 14/11/2023, DJe de 21/11/2023)".
+2. Agravo interno a que se nega provimento (AgInt no REsp n. 2.129.248/RS, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇÃO DE PRECATÓRIO. IMPUGNAÇÃO APRESENTADA. ART. 85, § 7º DO CPC. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Deve ser mantida a decisão que deu parcial provimento ao recurso especial para reconhecer o direito aos honorários advocatícios e determinar o retorno dos autos ao Tribunal de origem para sua fixação.
+2. Compete ao Tribunal de origem verificar a base de cálculo sobre a qual serão fixados os honorários advocatícios, o que não pode ser feito por esta Corte, sob pena de supressão de instância.
+3. Agravo interno não provido (AgInt nos EDcl no REsp n. 2.014.856/RS, de minha relatoria, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024).
+Isso posto, dou provimento ao recurso especial a fim de determinar o retorno dos autos à origem para fixação da verba honorária correspondente ao cumprimento de sentença.
+Intime-se.
+EMENTA
