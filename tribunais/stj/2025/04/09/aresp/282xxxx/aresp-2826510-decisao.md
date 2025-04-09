@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VAILTON CAMARGO DE ALMEIDA contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais em agravo de instrumento nos autos de ação de cobrança. O julgado foi assim ementado (fl. 636):
+AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - SEGURO DE VIDA EM GRUPO - INVALIDEZ - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - PRAZO ÂNUO - ART. 206, § 1º, INCISO II, DO CÓDIGO CIVIL - TRANSCURSO DO PRAZO ENTRE A CIÊNCIA DA INVALIDEZ E A PROPOSITURA DA AÇÃO - OCORRÊNCIA - EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DE MÉRITO, NOS TERMOS DO ART. 487, INCISO II, DO CPC - DECISÃO REFORMADA - RECURSO PROVIDO. - Em se tratando de pretensão do segurado contra a seguradora, o prazo prescricional a ser aplicado é aquele de um ano, conforme previsto no inciso II do § 1º do art. 206 do Código Civil, contado da ciência da invalidez. - Transcorrido o prazo de um ano entre a propositura da ação e a ciência da invalidez reconhecida em avaliação médica a que se submeteu o segurado, deve ser acolhida a prejudicial de mérito, julgando-se extinto o processo nos termos do art. 487, inciso II, do CPC. - Decisão reformada. Recurso provido.
+Os embargos de declaração opostos foram conhecidos e rejeitados (fls. 681-682):
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 206, § 1º, II, do Código Civil, pois o termo inicial da prescrição deve ser a data da concessão da aposentadoria por invalidez, não a data do relatório médico;
+b) 487, II, do CPC, visto que a extinção do processo com resolução de mérito foi indevida, pois não houve prescrição;
+c) Súmula n. 278 do STJ, porque o termo inicial do prazo prescricional é a data em que o segurado teve ciência inequívoca da incapacidade laboral.
+Sustenta que o Tribunal de origem divergiu ao aplicar a prescrição com base em relatório médico de 2013, enquanto outros tribunais consideram a concessão da aposentadoria como marco inicial, conforme acórdãos do TJSP e TJPR (fls. 699-700).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo como marco inicial da prescrição a data da concessão da aposentadoria por invalidez.
+É o relatório. Decido.
+Preliminarmente, no que se refere à apontada contrariedade da Súmula n. 278 do STJ, refoge da esfera de competência do Superior Tribunal de Justiça apreciar, por meio de recurso especial, eventual violação de súmulas, resoluções, portarias, regimentos, instruções normativas e circulares, haja vista que não se enquadram no conceito de "lei federal" previsto no art. 105, III, a, da Constituição de 1988.
+Nesse sentido: AgInt no AREsp n. 2.159.290/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/12/2022, DJe de 7/12/2022; e AgInt no AREsp n. 1.994.764/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/4/2022, DJe de 13/5/2022.
+Incide, nesse ponto, a Súmula n. 518 do STJ
+Na origem, decidiu o Tribunal dar provimento ao agravo de instrumento interposto pela Prudential do Brasil Vida em Grupo S.A., reformando a decisão de primeira instância que havia rejeitado a prejudicial de prescrição.
+O Tribunal a quo reconheceu a prescrição ânua da pretensão do segurado, Vailton Camargo de Almeida, contra a seguradora, com base no art. 206, § 1º, II, do Código Civil, e na Súmula 278 do STJ, que estabelece que o termo inicial do prazo prescricional é a data em que o segurado teve ciência inequívoca da incapacidade laboral
+Ademais, a Corte Julgadora entendeu que o agravante já possuía plena ciência de sua incapacidade desde 2013, conforme relatório médico, e que a ação foi proposta em 2022, fora do prazo prescricional de um ano.
+Segue trecho do acórdão (fls. 641-643, destaquei)
+Como visto, em se tratando de pretensão do segurado contra a seguradora, o prazo prescricional a ser aplicado, de fato, é aquele de um ano, previsto no inciso II do § 1º do art. 206 do CC/02, contado da ciência da invalidez.
+No caso dos autos, ao contrário do que sustenta o agravado, entendo que ele teve plena ciência de sua invalidez em desde 2013, data do relatório médico que apontou, sem ressalvas, que ele estava "INCAPACITADO PARA ATIVIDADES QUE NECESSITEM DE ORTOSTATISMO E DEAMBULAÇÃO" (doc. 16, fl. 1).
+ ..
+Quaisquer das datas supra, confrontadas com a data de propositura da ação  12/12/2022  corroboram a conclusão de que o autor, ora agravado, deixou de exercer sua pretensão indenizatória dentro do prazo previsto em lei, configurando-se, pois, a prescrição ânua.
+Alega o agravante que o Tribunal de origem deu interpretação divergente ao artigo 206, § 1º, II, do Código Civil, em relação à Súmula n. 278 do STJ, que estabelece que o termo inicial do prazo prescricional é a data em que o segurado teve ciência inequívoca da incapacidade laboral.
+Aduz que essa ciência inequívoca ocorreu apenas com a concessão da aposentadoria por invalidez em 15 de março de 2022, e não com o relatório médico de 2013, como entendeu o tribunal.
+P ortanto, registre-se que, para se concluir em sentido contrário ao que foi expressamente consignado no acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos e de cláusulas c ontratuais, inviável no âmbito desta instância especial an te os óbices sumulares n. 5 e 7 do STJ.
+A propósito, cito o seguinte julgado:
+CIV IL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA. CIÊNCIA INEQUÍVOCA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DEVER DE INFORMAÇÃO. FALTA DE PREQUESTIONAMENTO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+2. "O entendimento jurisprudencial do Superior Tribunal de Justiça é de que, nos termos do art. 206, § 1º, II, do CC/2002, a ação do segurado contra a seguradora prescreve em 1 (um) ano, contado a partir da data em que tiver conhecimento inequívoco da sua incapacidade laboral, que, em regra, dá-se com a sua aposentadoria por invalidez ou por meio da perícia médica que a autoriza (Súmulas 101 e 278/STJ)" (AgInt nos EDcl no AREsp n. 2.025.067/RS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/11/2022, DJe de 24/11/2022).
+ ..
+4. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+5. No caso concreto, para rever a conclusão do Tribunal de origem, no sentido de apurar em qual momento o segurado teve ciência da contratação do seguro, bem como aferir se houve cumprimento do dever de informação, seria imprescindível nova análise do contrato e dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice das referidas súmulas.
+ ..
+7. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.324.787/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/9/2023, DJe de 21/9/2023, destaquei.)
+Ademais, a decisão da Corte de origem guarda amparo na jurisprudência desta Tribunal, no sentido de que ao reconhecer que a plena ciência de invalidez ocorreu no ano de 2013 o prazo se iniciou a partir dessa data. Dessa forma, havendo 1 ano para consumação da prescrição.
+Nesse contexto, cito o seguinte julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. INVALIDEZ. CIÊNCIA INEQUÍVOCA DA INVALIDEZ. PRESCRIÇÃO. OCORRÊNCIA. PRAZO ÂNUO TRANSCORRIDO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento jurisprudencial do Superior Tribunal de Justiça é de que, nos termos do art. 206, § 1º, II, do CC/2002, a ação do segurado contra a seguradora prescreve em 1 (um) ano, contado a partir da data em que tiver conhecimento inequívoco da sua incapacidade laboral, que, em regra, dá-se com a sua aposentadoria por invalidez ou por meio da perícia médica que a autoriza (Súmulas 101 e 278/STJ).
+2. O Tribunal de origem consignou que a recorrente teve ciência inequívoca a respeito da incapacidade laborativa que lhe acometia, desde o exame pericial, realizado em 31/08/2018. Desse modo, a ação de cobrança ajuizada em 30/01/2020 encontra-se fulminada pela prescrição ânua, incidente in casu.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp n. 2.025.067/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+Incide, pois, a Súmula n. 83 do STJ.
+Por fim, com relação à alínea c do permissivo constitucional, melhor sorte não socorre à parte recorrente, pois a incidência dos óbices contidos nas Súmulas n. 5 e 7 do STJ quanto à interposição pela alínea a impede o conhecimento da divergência jurisprudencial diante da patente impossibilidade de similitude fática entre acórdãos.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, de 15% para 17% sobre o valor atualizado atribuído à causa, os honorários advocatícios em desfavor da parte ora recorrente, ressalvada eventual concessão de gratuidade de justiça.
+Publique -se. Intimem-se.
+EMENTA
