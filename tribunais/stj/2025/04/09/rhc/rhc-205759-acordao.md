@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RÉU PERMANECEU FORAGIDO POR 5 ANOS. CONTEMPORANEIDADE DA PRISÃO. PRESENÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido. Prejudicado o pedido de fl. 233.
+RELATÓRIO
+Trata-se de recurso interposto por EDIR DA SILVA PEREIRA contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO no HC n. 0060879-31.2024.8.19.0000.
+O recorrente repisa a argumentação feita na inicial do writ, sustentando que faltam os pressupostos necessários para a manutenção da segregação preventiva e que são suficientes as medidas cautelares diversas da prisão, dadas as condições subjetivas favoráveis.
+Aduz que não foi reconhecido pelas testemunhas, não sabia da existência do decreto de prisão e, ainda, que não foi encontrado em sua residência anterior porque teve que se mudar em decorrência de seu trabalho (fl. 94).
+Menciona que, da data da decretação da preventiva (2019) até o cumprimento do mandado de prisão (2024)  ..  não praticou nenhum crime e não interferiu na marcha processual, ou seja, não fez nada que demonstrasse que seu estado de liberdade era prejudicial a sociedade ou ao processo (fl. 95). Assim, não haveria contemporaneidade para prisão preventiva.
+Requer a imediata expedição de alvará de soltura, com a aplicação ou não de medidas cautelares alternativas. Ao final, pede a reforma do acórdão para revogar a prisão cautelar.
+Contrarrazões às fls. 104/118.
+Indeferida a liminar, prestadas as informações de praxe, o Juízo de piso noticiou que, desde a captura do paciente, a necessidade de manutenção de sua prisão foi reanalisada por três vezes, observando-se o prazo previsto no art. 316, parágrafo único, do CPP, conforme decisões de págs. 462, 487 e 629. Ademais, ressalta-se que, até a presente data, não foi proferida sentença nos autos, uma vez que se aguarda a conclusão da fase instrutória preliminar do procedimento do Tribunal do Júri (fl. 227).
+Às fl. 233, a paciente requer a reconsideração da decisão liminar.
+O Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Raquel Elias Ferreira Dodge, pelo não provimento do recurso em habeas corpus.
+É o relatório.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RÉU PERMANECEU FORAGIDO POR 5 ANOS. CONTEMPORANEIDADE DA PRISÃO. PRESENÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso em habeas corpus improvido. Prejudicado o pedido de fl. 233.
+VOTO
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, não obstante as alegações da defesa, o recurso não comporta provimento.
+Há referência, na origem, à fundamentação concreta da prisão. Vejamos, no
+ponto, o que consta do acórdão impugnado (fls. 54/60 - grifo nosso):
+ ..
+Dessarte, não se vislumbra a apontada ausência de fundamentação ou requisitos na hipótese, sendo inexorável a ofensa em concreto da conduta imputada ao paciente, uma vez que o delito de homicídio triplamente qualificado é gravíssimo e classificado como hediondo, gerando intensa violência urbana e um ambiente de medo e insegurança em toda a população. Nesse particular, a restrição ambulatorial se faz necessária para resguardar a ordem pública e a paz social, abaladas pela gravidade em concreto do atuar desvalorado contra a vida, perpetrado contra Capitão da Policia Militar, no momento em que foi reconhecido como tal.
+ ..
+Além disso, conforme lançado pela douta Procuradoria de Justiça, em seu parecer pela denegação da ordem (id. 30), "A simples leitura das decisões evidencia a existência de indícios suficientes de autoria, pois o Paciente foi identificado por sua própria companheira, através de imagens fornecidas pela concessionária da Linha Amarela, LAMSA, como sendo o motorista do veículo utilizado na empreitada criminosa, além de ter sido relatada a sua proximidade com os corréus, integrantes da facção criminosa "Comando Vermelho".
+Portanto, afasta-se a tese de ausência de prova mínima da autoria delitiva, sendo certo que as demais alegações relacionadas à prática do ilícito penal confundem-se com o mérito e necessitam da instrução criminal para melhor apuração, tendo como juiz natural o Conselho de Sentença, afigurando-se, inviável, portanto, a apreciação pela via estreita do habeas corpus.
+Além disso, a custódia se revela necessária para resguardar a instrução criminal, de modo a garantir que as testemunhas possam prestar depoimentos sem temor ou constrangimento para relatar a dinâmica fatos.
+Em relação à alegada ausência de contemporaneidade, nada há o que se cogitar, uma vez que a jurisprudência do Superior Tribunal de Justiça é no sentido de que a fuga constitui o fundamento do juízo de cautelaridade, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória, in verbis:
+ ..
+Conforme informações prestadas pela autoridade apontada como coatora, após frustradas tentativas de localização, o paciente foi citado por edital e o processo suspenso, na forma do artigo 366 do Código de Processo Penal (id. 336 dos autos originários), permanecendo foragido por mais de 5 anos, o que demonstra a sua intenção de se eximir à aplicação da lei penal, inexistindo qualquer ilegalidade ou arbitrariedade na manutenção da custódia cautelar, mormente diante da higidez dos requisitos autorizadores. Anote-se que o tempo levado para o cumprimento do mandado de prisão indica que, em liberdade, o paciente poderá novamente se evadir.
+Ademais, a contemporaneidade não se refere à data dos fatos em apuração nos autos, mas sim aos fundamentos utilizados para a decretação da prisão cautelar. Ou seja, diz respeito aos motivos que ensejaram a restrição ambulatorial e aos riscos a serem evitados com a imposição da medida extrema, os quais, na hipótese dos autos, são atuais.
+ ..
+Com efeito, ao decretar a prisão preventiva do recorrente, o Juízo de primeiro grau disse que os supostos autores do fato delituoso serem integrantes de facção criminosa, o que faz com que, provavelmente, tenha acesso as armas de fogo, o que vulnera a ordem pública e expõe a risco a futura e eventual aplicação da lei penal (fl. 51 - grifo nosso).
+Da leitura dos trechos acima é notória a gravidade concreta da conduta, evidenciada pelo periculosidade do recorrente, que segundo os autos, integra facção criminosa, tendo acesso a armas de fogo. Necessário constar, ainda, que o mandado de prisão preventiva foi expedido, em 25/6/2019, mas só foi cumprido, em 2/7/2024 (fls. 226).
+Assim, demonstrada a necessidade de custódia cautelar, é inviável a substituição da prisão preventiva por medidas cautelares diversas, eis que a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com sua soltura (AgRg no RHC n. 198.270/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 22/8/2024).
+Com razão a nobre Subprocuradora-Geral da República quando, em seu parecer, destacou que foi comprovada sua proximidade com os demais corréus, integrantes da facção criminosa do Comando Vermelho. Dessa forma, sua proximidade com a organização criminosa demonstra a necessidade da prisão preventiva para a garantia da ordem pública. Ademais, consta dos autos que após ter a prisão temporária relaxada, o recorrente permaneceu foragido por cinco anos, tendo sido citado por edital e só depois foi encontrado. Isso demonstra sua clara intenção de furtar-se à instrução processual e à aplicação da lei penal (fls. 239/240).
+Quanto à ausência de contemporaneidade para a prisão cautelar, tem-se que não guarda referência apenas com a proximidade ou distância com a data dos fatos típicos, mas sim com o risco que a liberdade do réu representa à garantia da ordem pública e à conveniência da instrução criminal, exatamente pelo lado concreto daqueles e de outros fatos que são posteriores, demonstrando a necessidade da prisão preventiva.
+Nesse sentido, a propósito: AgRg no RHC n. 168.730/RS, de minha relatoria,
+Sexta Turma, DJe 2/12/2022.
+Ante o exposto, à vista do parecer, nego provimento ao recurso em habeas corpus. Prejudicado o pedido de fl. 233.
