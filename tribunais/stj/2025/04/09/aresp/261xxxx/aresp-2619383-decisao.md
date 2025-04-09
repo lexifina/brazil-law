@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA DE FÁTIMA REIS BRITO contra a decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 5 e 7 do STJ.
+No agravo em recurso especial, a parte agravante refuta os fundamentos de inadmissibilidade do recurso especial.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado de Goiás em apelação nos autos de ação de cobrança c/c despejo.
+O acórdão recorrido está assim ementado (fls. 897-898):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C DESPEJO. ALUGUERES ATRASADOS. NULIDADE DO CONTRATO ANTE A NÃO OBSERVAÇÃO AO DIREITO DE PREFERÊNCIA E AUSÊNCIA DE CONTRATO AVERBADO EM CARTÓRIO. TESES NÃO ANALISADAS NA ORIGEM. SENTENÇA CITRA PETITA. APLICAÇÃO DO ART. 1.013, §3º, III, CPC. 1. Em atenção ao princípio da congruência ou da adstrição, o juiz deve decidir a lide nos limites em que foi proposta, acolhendo ou negando, no todo ou em parte, a pretensão deduzida pela parte autora, sendo-lhe defeso decidir aquém (citra petita), além (ultra petita) ou fora (extra petita) do que foi formulado na inicial ou na defesa do réu. 2. A sentença proferida na ação sem apreciar os pedidos formulados pelo autor em sua peça matriz e/ou na defesa pelo réu é classificada como citra petita, portanto nula, eis que não soluciona a lide em sua integralidade, situação evidenciada no caso em apreciação. 3. Diante da autorização do artigo 1.013, § 3º, inciso III, do Código de Processo Civil (causa madura), passa-se a analisar o mérito. 4- A prova da propriedade é totalmente desnecessária para a configuração da legitimidade ativa para propor ação de despejo. Havendo prova do contrato de locação e da sua transmissão negocial ao autor/apelado, evidencia-se a sua qualidade de locador e, ipso facto, a sua legitimidade ativa, tornando desnecessária a prova concreta da transmissão da propriedade registral. 5 - Com relação ao direito de preferência, a despeito de a recorrente aduzir a nulidade do contrato, verifica-se que não comprovou o registro do contrato de locação para a pretensão real e apenas formulou pretensão no sentido de, tão somente, reaver as quantias despendidas ao logo dos anos nas benfeitorias realizadas no imóvel de modo que, a despeito da falta de notificação, não há que se falar em qualquer responsabilidade do locador. 6. No que tange o pedido de indenização pelas benfeitorias, o contrato entabulado possui cláusula expressa por meio da qual a locatária abriu mão de qualquer direito nesse sentido (Súmula 335 STJ). RECURSO CONHECIDO E PROVIDO PARA CASSAR A SENTENÇA E COM BASE NO ART. 1.013, §3º, III, CPC, JULGAR PROCEDENTES OS PEDIDOS INICIAIS.
+Os embargos de declaração opostos foram rejeitados (fls. 921-933).
+No recurso especial, a parte aponta violação do art. 27 da Lei n. 8.245/1991.
+Alega que o acórdão recorrido validou a alienação de imóvel sem respeitar o direito de preferência da locatária, que não foi formalmente notificada sobre a venda.
+Requer o conhecimento e o provimento do recurso para que a ação seja extinta por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo ou para que seja julgada improcedente.
+As contrarrazões foram apresentadas (fls. 949-952).
+É o relatório. Decido.
+O recurso não reúne condições de êxito.
+Isso porque o Tribunal de origem afastou a alegação de violação do direito de preferência, porquanto a locatária não cumpriu o disposto no art. 33 da Lei n. 8.245/1991, pois não formulou pedido de indenização por perdas e danos decorrentes da alegada violação, assim como não comprovou que houve o registro do contrato de locação para a pretensão real, tampouco que tinha condições de adquirir o imóvel.
+Confira-se, a propósito, excerto do acórdão (fls. 906-907):
+Por outro lado, quanto à violação ao direito de preferência, de igual modo, entendo prescindível qualquer dilação probatória.
+É que, nos termos do artigo 373, I, do Código de Processo Civil, ao autor/apelado cabe fazer prova do fato constitutivo do seu direito. Não o fazendo, recai sobre ele o ônus por eventual julgamento de improcedência.
+Deste modo, incumbe à parte autora provar que, efetivamente, foi oportunizado o direito de preferência à locatária, o que, no caso dos autos, não ocorreu.
+Entretanto, a violação deste dever, por si só, não acarreta, de modo automático, a nulidade da compra e venda realizada com terceiro.
+De fato, o artigo 33 da Lei nº 8.245/1991 preconiza que, ao locatário desrespeitado em seu direito de preferência, socorrem duas possibilidades:
+a) a indenização por perdas e danos decorrentes da quebra da preferência;
+b) a aquisição compulsória do imóvel, desde que depositado o preço negociado e que tenha sido registrado, perante a matrícula, o contrato de locação.
+No caso vertente, a despeito de a recorrente aduzir a nulidade do contrato, verifica-se que não comprovou o registro do contrato de locação para a pretensão real e apenas formulou pretensão no sentido de, tão somente, reaver as quantias despendidas ao logo dos anos nas benfeitorias realizadas no imóvel.
+Ou seja, não pleiteou indenização por perdas e danos decorrentes da violação do direito de preferência, nem a adjudicação compulsória do imóvel, de modo que, a despeito da falta de notificação, não há que se falar em qualquer responsabilidade do locador.
+Ademais, o Superior Tribunal de Justiça firmou entendimento no sentido de que, para fazer jus à indenização, deve o locatário comprovar que, à época da venda, possuía condições de adquirir o imóvel, o que não ocorreu no caso vertente.
+A parte recorrente, contudo, limitando-se a alegar que não foi respeitado seu direito de preferência, em momento algum rebateu os fundamentos do acórdão recorrido, suficientes para a manutenção do julgado, o que atrai a incidência das Súmulas n. 283 e 284 do STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
