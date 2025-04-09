@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Condomínio Mio Residencial Parque em face de decisão singular por mim proferida, em que determinei a devolução dos autos ao Tribunal de origem, para nele permanecerem sobrestados até o julgamento do mérito do recurso recebido como representativo da controvérsia (Tema 1.266), em que se discute controvérsia idêntica a que devolvida no agravo em recurso especial.
+Questiona a parte embargante a ocorrência de contradição na decisão embargada, tendo em vista que não foi determinada no paradigma a suspensão dos processos, afastando expressamente a aplicação do que disposto no artigo 1.037, II, do Código de Processo Civil e artigo 256-L do Regimento Interno do Superior Tribunal de Justiça.
+Requer, assim, seja sanada a contradição apontada, afastando a preliminar aludida , a fim de que seja analisado o mérito do agravo em recurso especial interposto.
+Aberto prazo para contrarrazões, não foram apresentadas, conforme certificado (fl. 236).
+Assim delimitada a controvérsia, passo a decidir.
+A irresignação merece acolhida em parte, apenas para esclarecimento.
+Conquanto não tenha sido determinada a suspensão nacional dos processos no processo paradigma, nada obsta que a medida seja determinada a critério do relator, nos processos em que identificada controvérsia afim, em observância ao escopo perseguido pela sistemática dos repetitivos, privilegiando o exercício do juízo de retratação, na forma do art. 1040 e seguintes do CPC/2015, em observância ao princípio da economia processual.
+Nesse sentido, confiram-se as seguintes decisões monocráticas: REsp 2.186.937/SP, Rel. Min. Marco Buzzi, DJEN 27.2.2.025; AREsp 2.800.898, Rel. Min. Marco Buzzi, DJEN 26.2.2.025; REsp 2.184.570, Rel Min. Humberto Martins, DJEN 17.12.2.024; REsp 2.180.311. Rel. Min. Humberto Martins, DJEN 17.12.2.014.
+Dessa forma, não há razão para alterar o provimento adotado na decisão embargada, em que se determinou a devolução dos autos ao Tribunal de Origem para que seja observada a sistemática prevista nos arts.1.040 e 1.041 do CPC/2015, conforme determinação prevista no art. 256-L do Regimento Interno desta Corte Superior.
+Por fim, assinalo que, segundo a orientação jurisprudencial desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+A propósito:
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. NECESSIDADE DE LIQUIDAÇÃO. MATÉRIA AFETA AO REGIME DOS RECURSOS REPETITIVOS (TEMA 1.169). DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Conforme entendimento pacífico desta Corte, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017).
+Agravo interno não conhecido.
+(AgInt no AREsp n. 2.695.543/MS, relator Ministro Humberto Martins, Terceira Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - MATÉRIA SUBMETIDA AO RITO DA REPERCUSSÃO GERAL NO STF - DECISÃO MONOCRÁTICA QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM - OBEDIÊNCIA À SISTEMÁTICA PREVISTA NO CÓDIGO DE PROCESSO CIVIL - IRRECORRIBILIDADE. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp 1.663.877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 04/09/2017). Precedentes do STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp n. 1.957.889/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/4/2022, DJe de 6/4/2022.)
+Em face do exposto, os embargos de declaração devem ser acolhidos, em parte, apenas a fim de esclarecimento, mantendo o provimento adotado na decisão embargada que determinou o sobrestamento do processo até o julgamento do Tema 1.266/STJ, e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
+EMENTA
