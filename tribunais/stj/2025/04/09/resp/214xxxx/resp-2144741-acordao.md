@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. VIOLAÇÃO DO ART. 61, I, DO CP. ATENUANTES E AGRAVANTES. COMPENSAÇÃO PROPORCIONAL. IMPOSSIBILIDADE. APENAS UMA CONDENAÇÃO UTILIZADA COMO REINCIDÊNCIA.
+1. Nos termos da tese fixada por este Tribunal, por meio do julgamento do Recurso Especial Representativo da Controvérsia n. 1.931.145/SP, é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não, excepcionados os casos de múltipla reincidência.
+1.1. No caso, a exceção é inaplicável, tendo em vista que apenas uma condenação foi considerada para o reconhecimento da reincidência; a outra condenação foi valorada na pena-base como maus antecedentes. A utilização das duas condenações para compensar parcialmente a pena na segunda fase configuraria indubitável bis in idem.
+2. Recurso especial improvido.
+RELATÓRIO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local na Apelação Criminal n. 10480.21.002377-0/001, assim ementado (fl. 300):
+APELAÇAO CRIMINAL - FURTO QUALIFICADO - APLICAÇÃO DO PRINCIPIO DA INSIGNIFICÂNCIA - REINCIDÊNCIA IMPOSSIBILIDADE - REPOUSO NOTURNO - DECOTE DA CAUSA DE AUMENTO - IMPOSSIBILIDADE - MAUS ANTECEDENTE. - COMPENSAÇÃO CONFISSÃO E REINCIDÊNCIA - POSSIBILIDADE - REGIME INICIAL FECHADO - MAUS ANTECEDENTES E REINCIDÊNCIA
+1. O princípio da insignificância não pode ser aplicado diante. d reincidência do agente.
+2. Para a aplicação da majorante do art. 155, §1º, IV do CP, basta que o crime tenha sido praticado durante o repouso noturno, não importando que o local dos fatos seja um estabelecimento comercial, tendo em vista que a lei não faz referência ao local do crime.
+3. As condenações transitadas em julgado antes da data do fato que não puderem ser reconhecidas para fim de reincidência são suficientes para macular os antecedentes criminais.
+4. E possível a compensação entre a atenuante da confissão espontânea com a agravante da reincidência, sobretudo quando se observam poucas anotações criminais capazes de gerar a agravante.
+5. Não há ilegalidade na fixação de regime inicial fechado para pena fixada igual ou inferior a 04 (quatro) anos quando se observa a reincidência e maus antecedentes do réu, ainda mais quando se observa dos autos que o agente possui diversas anotações desabonadoras em sua Certidão de Antecedentes Criminais. Precedentes STJ.
+Os embargos de declaração opostos pela defesa foram acolhidos, nos termos da seguinte ementa (fl. 355):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL - FURTO QUALIFICADO - OMISSÃO - TESE FIXADA EM RECURSO REPETITIVO 1081 STJ - INAPLICABILIDADE DA CAUSA DE AUMENTO DO REPOUSO NOTURNO EM FURTO QUALIFICADO.
+1. Há omissão no decisum quando ele não se manifesta acerca de aplicação de novo entendimento proferido por tribunal superior em tese fixada em recurso repetitivo.
+2. Conforme tese fixada em recurso repetitivo pelo STJ (Tema 1087), não se aplica a causa de aumento do repouso noturno (art. 157, §1º, do CP) à figura qualificada do delito de furto (art. 157, §4 e incisos, do CP).
+3. Efeitos modificativos dos embargos reconhecidos para readequar a pena.
+4. Embargos acolhidos.
+Os embargos de declaração opostos pela acusação foram rejeitados, nos termos da seguinte ementa (fl. 362):
+EMBARGOS DE DECLARAÇÃO COM EFEITOS MODIFICATIVOS - FURTO QUALIFICADO - REDISCUSSÃO DE MATERIA JÁ APRECIADA - INCABÍVEL.
+1. Os embargos de declaração não se prestam para rediscutir matéria já devidamente apreciada.
+2. Não há omissão em decisão que meramente evoca entendimento diferente daquele exarado pelos tribunais superiores, quando não se trata de matéria sumulada ou decidida em IRDR.
+3. Não observada omissão, obscuridade, ambiguidade ou contradição no Acórdão embargado, inexistem motivos para o acolhimento dos embargos.
+No recurso especial, a acusação aponta a violação do art. 61, I, do Código Penal, sob a tese de que a multirreincidência do recorrido impede a compensação integral da agravante da reincidência com a atenuante da confissão, devendo preponderar a primeira.
+Ao final da peça recursal, requer o provimento da insurgência, para admitir a compensação proporcional da agravante da reincidência com a atenuante da confissão, aumentando a pena em 1/6.
+Oferecidas contrarrazões (fls. 388/395), foi negado seguimento ao recurso especial (fls. 396/397). A decisão foi revertida com o provimento do agravo regimental (fls. 406/407), ocasião em que os autos foram devolvidos à Câmara julgadora para eventual juízo de retratação, nos termos do art. 1.030, II, do Código de Processo Civil. Mantida a decisão (fls. 423/432), o recurso especial foi admitido na origem (fl. 441).
+O Ministério Público Federal opina pelo provimento da insurgência, nos termos da seguinte ementa (fl. 452):
+RESP. CRIME(S) DE FURTO. COMPENSAÇÃO ENTRE ATENUANTE DA CONFISSÃO ESPONTÂNEA E A AGRAVANTE DA REINCIDÊNCIA. COMPENSAÇÃO APENAS PROPORCIONAL.
+- A pretensão do recorrente MP merece acolhida.
+- Parecer pelo PROVIMENTO do recurso especial.
+É o relatório.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO. VIOLAÇÃO DO ART. 61, I, DO CP. ATENUANTES E AGRAVANTES. COMPENSAÇÃO PROPORCIONAL. IMPOSSIBILIDADE. APENAS UMA CONDENAÇÃO UTILIZADA COMO REINCIDÊNCIA.
+1. Nos termos da tese fixada por este Tribunal, por meio do julgamento do Recurso Especial Representativo da Controvérsia n. 1.931.145/SP, é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não, excepcionados os casos de múltipla reincidência.
+1.1. No caso, a exceção é inaplicável, tendo em vista que apenas uma condenação foi considerada para o reconhecimento da reincidência; a outra condenação foi valorada na pena-base como maus antecedentes. A utilização das duas condenações para compensar parcialmente a pena na segunda fase configuraria indubitável bis in idem.
+2. Recurso especial improvido.
+VOTO
+A insurgência não comporta provimento.
+No que se refere à compensação entre a atenuante da confissão e a agravante da reincidência, o Tribunal de origem consignou o seguinte, ao realizar o juízo de retratação (fls. 429/431 - grifo nosso):
+ ..  Após examinar com acuidade todos os elementos coligidos ao longo da persecução penal, em confronto com as razões e contrarrazões recursais, concluo que, em juízo de retratação, não merece reforma o v. Acórdão vergastado.
+Requer a douta Acusação a reforma do decisum para que se afaste a integral compensação entre a agravante da reincidência e a atenuante da confissão espontânea, sob o argumento de que, conforme o atualizado entendimento do Superior Tribunal de Justiça (Tema 585, firmado no RESP - 1341370/MT), em caso de multirreincidência, seria necessário que a compensação se opere apenas parcialmente.
+Contudo, em detida análise do caso, necessário constatar que apenas uma condenação pretérita foi utilizada para macular a pena do réu em segunda instância, migrando a sobressalente para a primeira fase, recrudescendo a pena em razão da circunstância judicial (art. 59 do CP) dos Maus Antecedentes.
+Transcrevo o trecho a que me refiro:
+ ..
+Como se percebe, apenas duas condenações pretéritas são capazes de macular a pena pela agravante da reincidência (art. 61, 1, do CP), uma das quais migrou para a primeira fase da dosimetria.
+Entendo, assim, desproporcional a não compensação integral 1. entre a atenuante e a agravante em discussão, quando pautada em apenas 02 (dois) processos anteriores, sendo que um deles já foi utilizado para recrudescer a pena em primeira instância.
+Importante frisar que a dosimetria da pena, apesar de limitada até certa extensão por critérios objetivos, é regida pelos Princípios da Individualização da Pena e da Proporcionalidade, devendo, caso a caso, se analisar o contexto fático e documental para que se alcance a pena que melhor traduza os seus objetivos.
+ ..
+Dessa forma, em aplicação do Princípio da Individualização da Pena e da Proporcionalidade, em razão da multirreincidência mínima, não entendo haver violação ao Tema 585 do STJ, já que não se ignorou a condenação sobejante, aplicando-a como negativação dos maus antecedentes do condenado, evitando, inclusive, possível "bis in idem".
+ ..
+Sobre o tema, cumpre esclarecer que, nos termos da tese fixada por este Tribunal, por meio do julgamento do Recurso Especial Representativo da Controvérsia n. 1.931.145/SP, é possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não, excepcionados os casos de múltipla reincidência.
+Veja-se a ementa do referido julgado que adequou o Tema 585/STJ:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. TRÁFICO DE DROGAS E DIREÇÃO DE VEÍCULO SEM HABILITAÇÃO. ART. 33, CAPUT, DA LEI N. 11.343/2006, C/C O ART. 309 DA LEI N. 9.503/1997, NA FORMA DO ART. 69 DO CP. PLEITO DE ABSOLVIÇÃO. ALEGAÇÃO DE AUSÊNCIA DE LAUDOS PERICIAIS VÁLIDOS. QUEBRA DA CADEIA DE CUSTÓDIA. INEXISTÊNCIA DE IRREGULARIDADE. ALEGAÇÃO DESPROVIDA DE SUSTENTAÇÃO PROBATÓRIA. VALIDADE DOS ATOS PRATICADOS. CONDENAÇÃO COM BASE EM OUTRAS PROVAS. APLICAÇÃO DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. PRETENSÃO DE COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO E A AGRAVANTE DA REINCIDÊNCIA. DESCABIMENTO. RÉU MULTIRREINCIDENTE.
+1. Na hipótese dos autos, o Tribunal de origem expressamente afirmou não ter vislumbrado nenhuma evidência concreta de mácula às provas dos autos, inexistindo qualquer sustentação probatória na alegação da defesa; ressaltou a validade dos atos praticados, tendo-se evidenciado apenas um mero erro material, o qual não se revelou apto a tornar nula a prova produzida, tendo ainda destacado que a defesa, no momento oportuno, sequer impugnou a perícia realizada, sendo certo haver nos autos outras provas da prática delitiva. Dessa maneira, não há como acolher o pleito defensivo, nos moldes postulados, sem o necessário revolvimento fático-probatório, vedado nos termos da Súmula n. 7/STJ.
+2. A reincidência, ainda que específica, deve ser compensada integralmente com a atenuante da confissão, demonstrando, assim, que não deve ser ofertado maior desvalor à conduta do réu que ostente outra condenação pelo mesmo delito. Apenas nos casos de multirreincidência deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade. Precedentes.
+3. No caso em exame, não se mostra possível proceder à compensação integral entre a reincidência e a confissão espontânea, tendo em vista que o recorrente possui múltiplas condenações definitivas, o que, nos termos da jurisprudência desta Corte Superior de Justiça, permite a preponderância da circunstância agravante.
+4. Recurso especial desprovido. Acolhida a readequação da Tese n. 585/STJ, nos seguintes termos: É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade.
+(REsp n. 1.931.145/SP, de minha relatoria, Terceira Seção, DJe 24/6/2022 - grifo nosso).
+O caso dos autos, no entanto, não comporta a aplicação da referida exceção, como pleiteado pelo recorrente.
+Conforme consignado pelo Tribunal a quo, o recorrido possui duas condenações anteriores aptas a configurar reincidência, entretanto, uma delas foi utilizada para valorar negativamente o vetor antecedentes na primeira fase da dosimetria. Sendo apenas uma condenação considerada para o reconhecimento da reincidência, não é possível fazer preponderar a agravante, pois isso implicaria a utilização da condenação valorada nos antecedentes em duas fases distintas da dosimetria, o que configuraria indubitável bis in idem.
+Nesse sentido:
+HABEAS CORPUS. PORTE DE ARMA DE USO RESTRITO. CONDENAÇÃO. DOSIMETRIA DA PENA. AGRAVANTE DA REINCIDÊNCIA E ATENUANTE DA CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO. POSSIBILIDADE. PACIENTE MULTIREINCIDENTE. CONDENAÇÕES UTILIZADAS PARA EXASPERAR A PENA-BASE. APENAS UMA CONDENAÇÃO VALORADA NA SEGUNDA FASE DE APLICAÇÃO DA PENA. COMPENSAÇÃO INTEGRAL. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENTE. ORDEM CONCEDIDA.
+1. A Terceira Seção desta Corte já firmou posicionamento, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, de Relatoria do Ministro Sebastião Reis Júnior, de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". Tal entendimento, contudo, não é aplicável aos condenados multirreincidentes ou aos reincidentes específicos.
+2. In casu, o paciente é multirreincidente. Contudo, o magistrado de primeiro grau utilizou somente uma condenação definitiva anterior na segunda fase da dosimetria da pena. As demais serviram para exasperar a pena-base. Por tal razão, a compensação da agravante com a atenuante deve se dar de forma integral. Não poderia o Tribunal de origem ter considerado a multirreincidência em desfavor do paciente, sob pena de bis in idem. Precedentes.
+3. Habeas corpus concedido a fim de compensar integralmente a atenuante da confissão espontânea com a agravante da reincidência, reduzindo a reprimenda aplicada ao paciente a 3 (três) anos e 6 (seis) meses de reclusão, e 11 (onze) dias-multa, preservados os demais termos da sentença e do acórdão.
+(HC n. 390.151/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 7/4/2017 - grifo nosso).
+Logo, não há falar em compensação proporcional, no caso.
+Ante o exposto, nego provimento ao recurso especial.
