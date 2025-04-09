@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de reclamação com pedido de liminar ajuizada por PAULO JOÃO DE CARVALHO contra decisão proferida pela 2ª Vice-Presidência do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, que, no juízo prévio de admissibilidade do recurso especial, determinou o sobrestamento do feito originário para aguardar o julgamento do Tema. 1.169, o qual foi afetado pela Corte Especial sob o regime dos recursos repetitivos.
+A parte reclamante alega que não seria possível suspender a tramitação do processo em referência, visto que já foi proferida sentença líquida transitada em julgado, inexistindo qualquer discussão a respeito do montante da obrigação exequenda.
+Defende, portanto, que, no presente caso, já foi iniciada a fase do cumprimento de sentença, não sendo possível regressar-se à fase de liquidação, sob pena de violação da coisa julgada e da segurança jurídica.
+Requer o deferimento de liminar para que sejam suspensos os efeitos da decisão reclamada, permitindo-se a retomada do curso da execução.
+Ao final, pugna pela procedência da reclamação para que seja cassado o ato judicial reclamado.
+É o relatório.
+A reclamação que é da atribuição desta Corte Superior está prevista no art. 105, I, f, da Constituição Federal e constitui garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou à garantia da autoridade de suas decisões, em caso de descumprimento de seus julgados.
+No tocante à alegação de descumprimento de julgado deste Tribunal Superior, o cabimento da reclamação exige a demonstração de que há aderência estrita entre o objeto do ato reclamado e o conteúdo do provimento jurisdicional especificamente proferido pelo STJ para a relação processual originária.
+A propósito do tema, veja-se o que dispõe o art. 187 do Regimento Interno do STJ:
+Art. 187. Para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá reclamação da parte interessada ou do Ministério Público desde que, na primeira hipótese, haja esgotado a instância ordinária.
+No caso dos autos, a parte autora utiliza-se da reclamação para demonstrar que a presente lide não será afetada pelo julgamento do Tema n. 1.169 do STJ, diante da peculiaridade de que se trata de cumprimento de obrigação líquida, nos termos de sentença transitada em julgado .
+No entanto, na linha do entendimento jurisprudencial desta Corte Superior, a reclamação não é o instrumento processual adequado para se provocar o juízo de distinção entre o caso concreto e a matéria submetida ao regime dos recursos especiais repetitivos.
+Nesse sentido (grifos acrescidos):
+AGRAVO INTERNO. RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DE TESE FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO (RESP N. 1.704.520/MT - TEMA 988/STJ). NÃO CABIMENTO.
+1. A Reclamação é instrumento processual de caráter específico e de aplicação restrita, não sendo sucedâneo recursal. Nos termos do artigo 105, inciso I, alínea "f", da Constituição Federal, bem como do art. 187 do RISTJ, destina-se à preservação da competência do Tribunal e à garantia da autoridade das suas decisões.
+2. Conforme orientação pacificada no âmbito do Superior Tribunal de Justiça, firmada pela Corte Especial no julgamento da Rcl n. 36.476/SP (rel. Min. Nancy Andrighi, DJe de 6/3/2020), não cabe reclamação para o controle da aplicação de entendimento firmado pelo STJ em recurso especial repetitivo.
+3. Agravo interno improvido.
+(AgInt na Rcl n. 43.714/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/10/2022, DJe de 3/11/2022.)
+RECLAMAÇÃO. RECURSO ESPECIAL AO QUAL O TRIBUNAL DE ORIGEM NEGOU SEGUIMENTO, COM FUNDAMENTO NA CONFORMIDADE ENTRE O ACÓRDÃO RECORRIDO E A ORIENTAÇÃO FIRMADA PELO STJ EM RECURSO ESPECIAL REPETITIVO (RESP 1.301.989/RS - TEMA 658). INTERPOSIÇÃO DE AGRAVO INTERNO NO TRIBUNAL LOCAL. DESPROVIMENTO. RECLAMAÇÃO QUE SUSTENTA A INDEVIDA APLICAÇÃO DA TESE, POR SE TRATAR DE HIPÓTESE FÁTICA DISTINTA. DESCABIMENTO. PETIÇÃO INICIAL. INDEFERIMENTO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Cuida-se de reclamação ajuizada contra acórdão do TJ/SP que, em sede de agravo interno, manteve a decisão que negou seguimento ao recurso especial interposto pelos reclamantes, em razão da conformidade do acórdão recorrido com o entendimento firmado pelo STJ no REsp 1.301.989/RS, julgado sob o regime dos recursos especiais repetitivos (Tema 658).
+2. Em sua redação original, o art. 988, IV, do CPC/2015 previa o cabimento de reclamação para garantir a observância de precedente proferido em julgamento de "casos repetitivos", os quais, conforme o disposto no art. 928 do Código, abrangem o incidente de resolução de demandas repetitivas (IRDR) e os recursos especial e extraordinário repetitivos.
+3. Todavia, ainda no período de vacatio legis do CPC/15, o art. 988, IV, foi modificado pela Lei 13.256/2016: a anterior previsão de reclamação para garantir a observância de precedente oriundo de "casos repetitivos" foi excluída, passando a constar, nas hipóteses de cabimento, apenas o precedente oriundo de IRDR, que é espécie daquele.
+4. Houve, portanto, a supressão do cabimento da reclamação para a observância de acórdão proferido em recursos especial e extraordinário repetitivos, em que pese a mesma Lei 13.256/2016, paradoxalmente, tenha acrescentado um pressuposto de admissibilidade - consistente no esgotamento das instâncias ordinárias - à hipótese que acabara de excluir.
+5. Sob um aspecto topológico, à luz do disposto no art. 11 da LC 95/98, não há coerência e lógica em se afirmar que o parágrafo 5º, II, do art. 988 do CPC, com a redação dada pela Lei 13.256/2016, veicularia uma nova hipótese de cabimento da reclamação. Estas hipóteses foram elencadas pelos incisos do caput, sendo que, por outro lado, o parágrafo se inicia, ele próprio, anunciando que trataria de situações de inadmissibilidade da reclamação.
+6. De outro turno, a investigação do contexto jurídico-político em que editada a Lei 13.256/2016 revela que, dentre outras questões, a norma efetivamente visou ao fim da reclamação dirigida ao STJ e ao STF para o controle da aplicação dos acórdãos sobre questões repetitivas, tratando-se de opção de política judiciária para desafogar os trabalhos nas Cortes de superposição.
+7. Outrossim, a admissão da reclamação na hipótese em comento atenta contra a finalidade da instituição do regime dos recursos especiais repetitivos, que surgiu como mecanismo de racionalização da prestação jurisdicional do STJ, perante o fenômeno social da massificação dos litígios.
+8. Nesse regime, o STJ se desincumbe de seu múnus constitucional definindo, p or uma vez, mediante julgamento por amostragem, a interpretação da Lei federal que deve ser obrigatoriamente observada pelas instâncias ordinárias. Uma vez uniformizado o direito, é dos juízes e Tribunais locais a incumbência de aplicação individualizada da tese jurídica em cada caso concreto.
+9. Em tal sistemática, a aplicação em concreto do precedente não está imune à revisão, que se dá na via recursal ordinária, até eventualmente culminar no julgamento, no âmbito do Tribunal local, do agravo interno de que trata o art. 1.030, § 2º, do CPC/15.
+10. Petição inicial da reclamação indeferida, com a extinção do processo sem resolução do mérito.
+(Rcl n. 36.476/SP, relatora Ministra Nancy Andrighi, Corte Especial, julgado em 5/2/2020, DJe de 6/3/2020.)
+Dessarte, o pedido de regular prosseguimento do feito em virtude da existência de distinção entre o caso concreto e o processo submetido ao regime dos recursos repetitivos deve ser dirigido ao juízo onde tramita o processo suspenso. Estando o processo em trâmite nas instâncias ordinárias, não cabe ao Superior Tribunal de Justiça manifestar-se sobre eventual acerto ou desacerto da decisão de sobrestamento ali proferida.
+Contra decisão de sobrestamento caberá agravo de instrumento caso o processo esteja tramitando em primeira instância, ou agravo interno, quando o feito estiver em trâmite no Tribunal, não havendo nenhum meio de impugnação a ser direcionado a esta Corte Superior.
+Essa é a interpretação que se extrai dos arts. 1.030 e 1.037 do CPC, consoante se observa na transcrição a seguir:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+III - sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;
+ ..
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Art. 1.037. Selecionados os recursos, o relator, no tribunal superior, constatando a presença do pressuposto do caput do 1.036, proferirá decisão de afetação, na qual:
+ ..
+§ 9º Demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo.
+§ 10. O requerimento a que se refere o § 9º será dirigido:
+I - ao juiz, se o processo sobrestado estiver em primeiro grau;
+II - ao relator, se o processo sobrestado estiver no tribunal de origem;
+III - ao relator do acórdão recorrido, se for sobrestado recurso especial ou recurso extraordinário no tribunal de origem;
+Desse modo, evidencia-se o descabimento da presente demanda, na tendo em vista que não se admite a utilização da reclamação como sucedâneo de recurso.
+Ante o exposto, com fundamento no art. 932, VIII, do Código de Processo Civil e no art. 34, XVIII, a, do RISTJ, indefiro liminarmente a reclamação, ficando prejudicado o pedido liminar.
+Publique-se. Intimem-se.
+EMENTA
