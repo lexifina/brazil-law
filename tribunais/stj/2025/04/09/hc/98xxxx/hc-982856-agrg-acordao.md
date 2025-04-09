@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. "Conforme assentado recentemente pela Terceira Seção desta Corte (RvCr n. 5620/SP, julgado em 14/6/2023), a modificação da jurisprudência em relação aos critérios de fixação da pena, para entendimento mais favorável ao réu, após o trânsito em julgado de sua condenação, não autoriza o uso da revisão criminal" (AgRg na RvCr n. 5.637/DF, Rel. Ministro Rogerio Schietti, 3ª S., DJe 8/8/2023).
+2. No caso, o objetivo da defesa é rever a condenação relativa a fatos ocorridos em 2016 e mantida em apelação no ano de 2018 para a aplicação do entendimento atual desta Corte quanto à impossibilidade de considerar o registro de ações penais em andamento contra o réu como fundamento idôneo para afastar a benesse contida no art. 33, § 4º, da Lei n. 11.343/2006. Assim, há de prevalecer o entendimento jurisprudencial vigente à época do trânsito em julgado, que permitia a menção à existência de outros procedimentos criminais em trâmite para afastar a minorante.
+3. Agravo não provido.
+RELATÓRIO
+JOSE SEVERINO ROMUALDO DE OLIVEIRA agrava de decisão em que deneguei o habeas corpus e, por conseguinte, mantive inalterada a condenação do réu a 6 anos e 9 meses de reclusão, em regime semiaberto, mais multa, pela prática do delito de tráfico de drogas.
+No regimental, a defesa se volta contra a negativa de aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006. Afirma que tanto a jurisprudência do Supremo Tribunal Federal quanto a desta Corte Superior (consolidada no enunciado sumular n. 444, editado em 2010) vedam a utilização de procedimentos criminais em andamento para justificar acréscimo na pena.
+Requer, dessa forma, seja reconsiderado o decisum ou submetido o feito ao órgão colegiado, para que conceda a ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. APLICAÇÃO DA MINORANTE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. "Conforme assentado recentemente pela Terceira Seção desta Corte (RvCr n. 5620/SP, julgado em 14/6/2023), a modificação da jurisprudência em relação aos critérios de fixação da pena, para entendimento mais favorável ao réu, após o trânsito em julgado de sua condenação, não autoriza o uso da revisão criminal" (AgRg na RvCr n. 5.637/DF, Rel. Ministro Rogerio Schietti, 3ª S., DJe 8/8/2023).
+2. No caso, o objetivo da defesa é rever a condenação relativa a fatos ocorridos em 2016 e mantida em apelação no ano de 2018 para a aplicação do entendimento atual desta Corte quanto à impossibilidade de considerar o registro de ações penais em andamento contra o réu como fundamento idôneo para afastar a benesse contida no art. 33, § 4º, da Lei n. 11.343/2006. Assim, há de prevalecer o entendimento jurisprudencial vigente à época do trânsito em julgado, que permitia a menção à existência de outros procedimentos criminais em trâmite para afastar a minorante.
+3. Agravo não provido.
+VOTO
+A despeito das ponderações defensivas, não vejo como conceder a ordem pleiteada.
+Como já delineado na decisão agravada, em recente julgado da Terceira Seção desta Corte Superior assentou-se o entendimento de que "a modificação da jurisprudência em relação aos critérios de fixação da pena, para entendimento mais favorável ao réu, após o trânsito em julgado de sua condenação, não autoriza o uso da revisão criminal" (AgRg na RvCr n. 5.637/DF, Rel. Ministro Rogerio Schietti, 3ª S., DJe 8/8/2023, destaquei).
+No caso, o objetivo da defesa é rever a condenação relativa a fatos ocorridos em 2016 e mantida em apelação no ano de 2018 para a aplicação do entendimento atual desta Corte quanto à impossibilidade de considerar o registro de ações penais em andamento contra o réu como fundamento idôneo para afastar a benesse contida no art. 33, § 4º, da Lei n. 11.343/2006. Assim, há de prevalecer o entendimento jurisprudencial vigente à época do trânsito em julgado, que permitia a menção à existência de outros procedimentos criminais em trâmite para afastar a minorante.
+À vista do exposto, nego provimento ao agravo regimental.
