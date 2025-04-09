@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. LAPSO TEMPORAL DE 5 DIAS CORRIDOS. NÃO CONHECIMENTO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ.
+2. Nos termos do entendimento firmado nesta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do art. 219 do Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu art. 798, possui disposição específica a respeito da contagem dos prazos, segundo a qual todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por VANDERLEI AMAURI GRAEBIN contra a decisão de minha lavra, pela qual não conheci da impetração, mas concedi a ordem de ofício para redimensionar a pena do paciente para 5 anos e 10 meses de reclusão e 24 dias-multa, sendo mantidos os demais termos da condenação.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 9 anos, 5 meses e 10 dias de reclusão, em regime prisional inicialmente fechado, e 32 dias-multa, pela prática dos delitivos tipificados no art. 317, caput, c/c o art. 327, ambos do Código Penal, e no art. 1º, caput, da Lei n. 9.613/1998, nos moldes dos arts. 29 e 69, do CP (e-STJ fls. 22/61).
+Irresignada, a defesa apelou e o Tribunal local proveu parcialmente o recurso para redimensionar as sanções aplicadas ao apelante a 8 anos e 4 meses de reclusão, e 32 dias-multa, mantidos os demais termos da condenação (e-STJ fls. 62/90).
+No writ (e-STJ fls. 3/21), a impetrante sustentou que o acórdão impugnado impôs constrangimento ilegal ao paciente, pela exasperação da pena-base por fundamentação que aponta ser inidônea, pois baseada em elementares do tipo penal, a configurar indevido bis in idem. Aduziu que os argumentos utilizados pelas instâncias de origem não são aptos a demonstrar especial desvalor quanto à culpabilidade do paciente, às circunstâncias e às consequências do delito, devendo a pena ser reduzida.
+Insurgiu-se, ainda, contra a fração de aumento da pena-base, asseverando tratar-se de aumento desproporcional e exacerbado.
+Diante disso, requereu, liminarmente e no mérito, a concessão da ordem para que seja reduzida a pena.
+Neste agravo regimental, a defesa requer a concessão da ordem de mudança de regime prisional do fechado para o semiaberto, eis que a redimensionamento da pena foi para 05 anos e 10 meses de reclusão e as circunstâncias judiciais não justifica a reprimenda mais grave (e-STJ fl. 139).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. LAPSO TEMPORAL DE 5 DIAS CORRIDOS. NÃO CONHECIMENTO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ.
+2. Nos termos do entendimento firmado nesta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do art. 219 do Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu art. 798, possui disposição específica a respeito da contagem dos prazos, segundo a qual todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+3. Agravo regimental não conhecido.
+VOTO
+O recurso não merece ser conhecido por intempestividade.
+Dispõe o art. 258 do Regimento Interno do Superior Tribunal de Justiça:
+A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+O agravo regimental, portanto, deve ser interposto no prazo de 5 dias, conforme estabelecido no artigo acima transcrito.
+Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+Na hipótese vertente, o prazo para interposição de agravo regimental em relação à decisão de folha agravada teve início em 07/03/2025 e término em 11/03/2025 e a petição de agravo regimental foi protocolizada apenas em 14/03/2025 (certidão de e-STJ fl. 141).
+Deve-se ressaltar que, nos termos do entendimento firmado nesta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, segundo o qual todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. AGRAVO NÃO CONHECIDO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ.
+2. Agravo regimental não conhecido (PET no HC 391.911/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 12/09/2018).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTERPOSIÇÃO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. LAPSO TEMPORAL DE 5 DIAS CORRIDOS. INAPLICABILIDADE DO ART. 219 DO NOVO CPC. NÃO CONHECIMENTO.
+1. Dispõe o art. 258 do Regimento Interno do Superior Tribunal de Justiça: A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado. 3. Na hipótese vertente, a decisão que negou seguimento ao hábeas corpus foi disponibilizada no DJE em 11/9/2017 e considerada publicada em 12/9/2017. O prazo para interpor o agravo regimental, por conseguinte, teve início em 13/9/2017 (quarta-feira) e término em 18/9/2017 (segunda-feira). O referido recurso foi protocolizado tão somente em 22/9/2017 (sexta-feira), portanto, fora do prazo legal.
+4. Agravo regimental não conhecido (AgRg no HC 408.117/SP, de minha relatoria, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
