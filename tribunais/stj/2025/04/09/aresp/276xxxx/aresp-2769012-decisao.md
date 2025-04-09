@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interposto por REUTER EMPREENDIMENTOS IMOBILIÁRIOS EIRELI, ANTONIO REUTER NETO e JULIANA REUTER FERREIRA DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (fl. 145):
+AGRAVO DE INSTRUMENTO. BANCÁRIOS. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO. PROSSEGUIMENTO QUANTO AOS DEVEDORES SOLIDÁRIOS. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça, em julgamento representativo de controvérsia do Tema nº 885, REsp 1.333.349/SP, firmou entendimento no sentido que a recuperação judicial não obsta o prosseguimento de execuções em face de devedores solidários ou coobrigados. 2. Agravo de instrumento improvido.
+No recurso especial, alega a parte recorrente ofensa aos arts. 59 da Lei n. 11.101/2005 e 884 do CC, argumentando que o plano de recuperação judicial implica novação dos créditos anteriores ao pedido de recuperação, obrigando o devedor e todos os credores a ele sujeitos. Assim, defendem que a execução originária não deveria prosseguir em desfavor dos devedores solidários, pois o crédito está incluído no plano de recuperação judicial aprovado (fls. 157-162).
+Aponta, ainda, dissídio jurisprudencial entre o acórdão recorrido e arestos desta Corte e de outros tribunais.
+Sem contrarrazões, sobreveio o juízo de admissibilidade negativo da instância de origem (fl. 218-221), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo.
+É, no essencial, o relatório.
+O agravo não comporta conhecimento.
+Verifica-se, inicialmente, que a decisão ora agravada obstou o trânsito do recurso especial como um todo, por dois fundamentos, nestes termos:
+Por sua vez, em atenção ao disposto nos arts. 1.030, I, "b", e 1.040, I, do CPC/2015, deve ser negado seguimento a recurso especial interposto contra acórdão que esteja em conformidade com a orientação firmada pelo STJ em regime de julgamento de recursos repetitivos.
+Quanto ao restante, a pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83 (não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida), que se aplica também ao permissivo do artigo 105, inciso III, alínea a, da Constituição Federal.
+ ..
+Ante o exposto, nego seguimento ao recurso especial quanto ao Tema 885 do STJ e não o admito no remanescente.
+Como visto, a decisão negou seguimento ao recurso especial com fundamento no art. 1.030, I, "b", do CPC e, ao mesmo tempo, em reforço argumentativo, inadmitiu-o devido à incidência da Súmula n. 83 do STJ.
+Assim, o Tribunal de origem, entendendo que as teses estavam vinculadas à aplicação da mesma matéria apreciada em regime de recursos repetitivos, deveria apenas ter negado seguimento ao recurso especial. A propósito, cito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMA JULGADO. SISTEMÁTICA DOS REPETITIVOS. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. OFENSA AO ART. 535 DO CPC/1973. VINCULAÇÃO.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Se a alegação de ofensa ao art. 535 do CPC/1973 ou 1.022 do CPC/2015 apresenta-se vinculada a vício de natureza processual quanto à aplicação da tese fixada no regime dos recursos repetitivos, o Tribunal a quo deve negar seguimento também nesse ponto, e não inadmitir o recurso especial.
+3. Hipótese em que a decisão do Tribunal a quo assentou que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior (Tema 162), que versa sobre a incidência de imposto de renda sobre aplicações financeiras de renda fixa e variável, à luz dos arts. 29 e 36 da Lei n. 8.541/1992, sendo certo que a menção sobre a existência de violação do art. 535 do CPC/1973 também se refere a essa mesma questão.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.512.020/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/9/2022, DJe de 3/10/2022, destaquei.)
+Cabe destacar que, em razão da decisão híbrida que tanto inadmitiu o recurso especial quanto negou-lhe seguimento, cabe ao STJ apenas a análise da questão inadmitida, porquanto de competência da Corte de origem a análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma em recurso repetitivo, a ser exercido por meio de agravo interno dirigido àquela Corte a quo, faculdade essa, inclusive, já exercida pelo recorrente.
+Nesse sentido, cito:
+2. À questão da legitimidade/interesse da CEF foi negado seguimento ao recurso especial em razão de aplicação dos Temas n. 50/STJ e 51/STJ, enquanto à alegação de afronta aos arts. 489 e 1.022 do CPC o apelo nobre foi inadmitido.
+3. Nos casos em que a admissibilidade tem híbrida fundamentação, com aplicação de entendimento firmado em recurso repetitivo latu sensu a um dos pontos do recurso, cabe às Cortes Superiores apenas a análise da questão remanescente (que não teve aplicado o precedente paradigma vinculante), porquanto de competência da Corte de origem eventual análise de (in)conformidade do acórdão recorrido com o entendimento firmado no paradigma, por meio de agravo interno dirigido àquela corte, não cabendo ao Tribunal Superior a análise da referida questão. Precedentes.
+(AgInt no AREsp n. 1.840.822/MT, relator Ministro Humberto Martins, Terceira Turma, DJe de 3/11/2023.)
+II - É cabível a interposição simultânea, de agravo interno para impugnar a aplicação da sistemática dos recursos repetitivos, a ser julgado pelo órgão colegiado do Tribunal de origem (art. 1.030, § 2º, c/c art. 1.021 do CPC); e do agravo, previsto no art. 1.042 (mesmo Códex), relativamente às demais questões, o que importa exceção ao princípio da unirrecorribilidade e, por consequência, não aplicação da fungibilidade recursal.
+(AgInt no AgInt no AgInt no REsp n. 1.907.400/PR, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 24/8/2022.)
+Quanto à parte inadmitida, entendo, portanto, que o recurso não comporta conhecimento, pois, embora as questões sejam de competência do STJ, não há questão residual para análise perante esta Corte Superior, uma vez que, consoante acima relatado, as razões do recurso especial cerceiam apenas teses que já foram amplamente discutidas não apenas no REsp n. 1.333.349/SP (Tema 885).
+Ademais, observa-se que os argumentos trazidos nas razões do agravo em recurso especial, buscando demonstrar a violação do art. 59 da Lei n. 11.101/2005 e art. 884 do CC, e o afastamento da Súmula n. 83 do STJ, referem-se à mesma questão, isto é, a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, estando todos vinculados ao Tema n. 885 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial .
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. TEMA REPETITIVO 885/STJ . AUSÊNCIA DE QUESTÕES RESIDUAIS. AGRAVO NÃO CONHECIDO.
