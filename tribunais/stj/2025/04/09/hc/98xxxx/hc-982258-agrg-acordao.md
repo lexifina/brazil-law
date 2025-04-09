@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 03/04/2025 a 09/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. JUSTIFICAÇÃO CRIMINAL INDEFERIDA.OITIVA DE TESTEMUNHAS. AGRAVO IMPROVIDO.
+1. A jurisprudência pacífica do Superior Tribunal de Justiça estabelece que a justificação criminal tem como finalidade a obtenção de prova nova para embasar eventual revisão criminal, não podendo ser utilizada para reabrir a instrução processual, arrolar novas testemunhas ou reinquirir aquelas já ouvidas, salvo quando houver prova inédita que justifique a revisão do julgado.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ZAIRA FREITAS DOS SANTOS contra a decisão que não conheceu do habeas corpus, impetrado contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que a agravante foi condenada às penas de 18 anos e 9 meses de reclusão em regime inicial fechado e de pagamento de 1.822 dias-multa, como incursa na sanção dos arts. 33, caput e 35, caput, da Lei n. 11.343/2006, com trânsito em julgado em 2/8/2024.
+No respectivo writ impetrado nesta Corte Superior, a defesa requereu a concessão da ordem para que fosse determinado o prosseguimento da justificação criminal indeferida pelas instâncias originárias, com a oitiva da paciente e de testemunhas indicadas pela defesa e a expedição de ofício solicitando informações sobre o desfecho de boletins de ocorrência que julga pertinentes à elucidação definitiva do caso.
+Diante do não conhecimento do habeas corpus, interpôs-se o presente agravo.
+Nas razões do agravo, a defesa repisa os fundamentos expendidos na petição inicial, sustentando que a revisão do processo só seria possível após a produção de provas extremamente relevantes, que não foram produzidas na fase de instrução da ação penal por meio do interrogatório da paciente, que teria sido julgada à revelia, e de testemunhas arroladas pela defesa.
+Alega que tais testemunhos constituiriam provas novas e inéditas, indispensáveis para subsidiar futuro pedido de revisão criminal pretendido pela defesa, reforçando que as provas solicitadas nunca foram juntadas aos autos da ação penal e poderiam demonstrar a inocência da paciente.
+Afirma que a jurisprudência do Superior Tribunal de Justiça entenderia que o exame de cabimento da justificação criminal é formal e não deve adentrar a análise do mérito das provas solicitadas.
+Aduz que a jurisprudência do Supremo Tribunal Federal autoriza o reexame de fatos e provas por meio de revisão criminal.
+Assevera que a defesa constituída pela paciente durante a instrução processual teria sido inadequada e ineficiente, por ter desistido da oitiva de testemunhas de defesa e por não ter informado à paciente acerca da necessidade de ser ouvida em audiência.
+Requer, ao final, a reconsideração da decisão ou a submissão do pleito ao colegiado, para a concessão da ordem.
+O Ministério Público Federal manifestou ciência da decisão agravada à fl. 206.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Sexta Turma.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. JUSTIFICAÇÃO CRIMINAL INDEFERIDA.OITIVA DE TESTEMUNHAS. AGRAVO IMPROVIDO.
+1. A jurisprudência pacífica do Superior Tribunal de Justiça estabelece que a justificação criminal tem como finalidade a obtenção de prova nova para embasar eventual revisão criminal, não podendo ser utilizada para reabrir a instrução processual, arrolar novas testemunhas ou reinquirir aquelas já ouvidas, salvo quando houver prova inédita que justifique a revisão do julgado.
+3. Agravo regimental improvido.
+VOTO
+Conforme consignado na decisão ora agravada, o Tribunal de origem manteve o indeferimento do pedido de justificação criminal mediante os seguintes fundamentos (fls. 185-192 - grifo próprio):
+De saída, haja vista que, inobstante a alegação defensiva de que o trânsito em julgado no tocante à apelante se deu em 02.08.2024, com relação ao AREsp nº 2310122/SP, julgado pelo Superior Tribunal de Justiça (certidão a fls. 372), fato é que a presente ação foi protocolada em 23.07.2024 (fls. 18).
+Sendo assim, estéril apurar se os autos foram remetidos ao Supremo Tribunal Federal apenas para julgamento de recursos interpostos pelos corréus Wilker e Ivanilson, no bojo do ARE nº 1.507.000/SP (trânsito em julgado em 03.09.2024, conforme pesquisa digital realizada em 02.02.2025), como bradou a defesa, haja vista que, de qualquer modo, o pedido de Justificação Criminal foi protocolado antes que fosse certificado o trânsito em julgado para a defesa (02.08.2024, repise-se), condição imprescindível para prosseguimento da ação, eis que destinada à produção de prova para instruir eventual Revisão Criminal.
+Dessa forma, carecia à defesa, mesmo, interesse de agir, como bem destacou o douto procurador de justiça oficiante a fls. 434.
+Não bastasse, o recurso não prospera no mérito.
+ ..  no caso presente, não se vislumbra qualquer razão para a reabertura da instrução.
+Com relação ao pedido de realização de interrogatório da recorrente, frise-se que a revelia foi decretada porque, tendo ciência da ação, Zaira optou por não comparecer ao ato, que, vale destacar, contou com a presença de seu advogado constituído (fls. 1.949/1.951 dos autos de origem).
+ ..
+Quanto à pretendida oitiva de testemunhas defensivas consideradas imprescindíveis, verifica-se que as pessoas elencadas no bojo do reclamo poderiam ter sido arroladas durante o tramite normal da ação penal, pois já se encontravam à disposição da defesa à época.
+Em adição, destaque-se que, como consentâneo apontamento realizado pelo Parquet em sede de contrarrazões, Maria de Fátima Freitas, Felipe de Freitas Viotto, Guilherme Freitas Viotto e Carlos Eduardo Carvalho são pessoas que consistem, respectivamente, em mãe, filhos e então companheiro da apelante, de sorte que seriam ouvidos como informantes, nos moldes dos arts. 206, 208 e 214, todos do Código de Processo Penal.
+Por outro lado, Diana Lidia Rufino foi arrolada como testemunha, porém a defesa então constituída desistiu de sua oitiva por ocasião da audiência de instrução, debates e julgamento (fls. 1.950 dos autos originários).
+No que concerne ao corréu Fábio, este foi devidamente interrogado, tendo, inclusive, declarado quanto à apelante, que: "Conhece ZAIRA, a qual é mãe de sua filha; ela não tem nada a ver com esse assunto." (fls. 2.735 dos autos originários).
+Não se vislumbra, pois, elementos probatórios substancialmente novos, já tendo o Superior Tribunal de Justiça assentado que "A justificação criminal é procedimento destinado à obtenção de prova nova para subsidiar futuro ajuizamento de revisão criminal, não se prestando para reinquirição de testemunhas já ouvidas no processo de condenação ou para arrolamento de novas testemunhas." (Destacado).
+Igualmente fadado ao insucesso o pleito de expedição de ofício ao 6º DP de Santo André para que se colha informações sobre o desfecho dos Boletins de Ocorrência nº 2465/12 e 2488/12.
+Isso pois, para além de se cuidar de diligência que poderia ser realizada pela douta defesa, uma vez que Zara seria vítima e responsável por levar ao conhecimento da autoridade policial as suscitadas ocorrências, também não se trata de prova nova, ou seja, que surgiu após encerrada a instrução probatória.
+Não se observa, outrossim, demonstração de vínculo entre tais elementos e a ação penal de origem.
+Com efeito, o acolhimento do rogo defensivo implicaria em verdadeira reabertura da instrução criminal para reavaliação de provas já apreciadas (ou que poderiam ter sido, se suscitadas a tempo), ou seja, uma nova apelação, o que, como é cediço, não se admite em sede de Justificação Criminal.
+ ..
+Vê-se, em verdade, que o aludido prejuízo experimentado pela requerente em razão da defesa apresentada pelo causídico anterior reflete mera discordância com as estratégias defensivas por aquele adotadas, o que, como é sabido, não é suficiente para ensejar nulidade.
+Validamente, fossem acatadas as teses lançadas por intermédio do defensor que patrocinou a ré no curso do processo de origem, Zaira seria significativamente beneficiada.
+Como visto, o acórdão impetrado está em consonância com a jurisprudência desta Corte Superior, firmada no sentido de que a justificação criminal não se presta para a reinquirição de testemunhas nem para o arrolamento de novas testemunhas sem que tenha surgido nova prova relevante para modificação da coisa julgada.
+Nesse sentido (grifo próprio):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. JUSTIFICAÇÃO CRIMINAL. INDEFERIMENTO DE OUVIDA DE TESTEMUNHAS. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu da impetração de habeas corpus, em que se pleiteava a continuidade de ação de justificação criminal para nova ouvida de vítima que teria apresentado nova versão dos fatos após atingir a maioridade.
+2. A Corte de origem considerou impertinente a audiência de justificação, destacando que a justificação criminal é meio de obtenção de prova nova, não podendo ser utilizada para ouvir novamente testemunhas ou vítimas já ouvidas durante a instrução criminal.
+II. Questão em discussão3. A questão em discussão consiste em saber se é possível utilizar a justificação criminal para reabrir a instrução criminal e ouvir novamente testemunhas ou vítimas já ouvidas, sob a alegação de apresentação de nova versão dos fatos.
+III. Razões de decidir.
+4. A justificação criminal destina-se à obtenção de prova nova para subsidiar eventual revisão criminal, não podendo ser utilizada para reabrir a instrução criminal ou reinquirir testemunhas já ouvidas.
+5. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a justificação criminal não pode ser utilizada para arrolar novas testemunhas ou reinquirir testemunhas já ouvidas, salvo se houver prova nova que justifique a revisão criminal.
+IV. Dispositivo e tese
+6. Agravo regimental não provido.
+Tese de julgamento: "A justificação criminal não pode ser utilizada para reabrir a instrução criminal ou reinquirir testemunhas já ouvidas, salvo se houver prova nova que justifique a revisão criminal".
+Dispositivos relevantes citados: Código de Processo Civil, art. 305.Jurisprudência relevante citada: STJ, AgRg no HC 775.669/SP, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 08.11.2022; STJ, RHC 152.297/DF, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 28.09.2021.
+(AgRg no RHC n. 203.720/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. JUSTIFICAÇÃO CRIMINAL. ALEGAÇÃO DE PROVA NOVA. PLEITO INDEFERIDO PELO JUÍZO DE PRIMEIRO GRAU. AUSÊNCIA DE TERATOLOGIA. ART. 621 DO CÓDIGO DE PROCESSO PENAL. REQUISITOS NÃO PREENCHIDOS. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. O procedimento de justificação destina-se à prova de um fato ou relação jurídica, cuja finalidade é formar simples documento ou servir de prova em processo regular.
+2. Na hipótese, pretende-se o depoimento de inspetores da Polícia Rodoviária Federal, que participaram das escoltas e presenciaram os diálogos mantidos entre o Agravante e membros do Parquet estadual.
+3. A justificação criminal não se presta, de acordo com a orientação dos Tribunais Superiores, para a reinquirição de testemunhas ouvidas no processo da condenação, ou simplesmente para o arrolamento de novas testemunhas. É indispensável que a parte requerente demonstre a destinação específica da prova, de forma objetiva, e que, em se tratando de testemunha, haja indicação clara do que esta trará de novo, não bastando apenas que não tenha sido ouvida nos autos principais. Precedentes.
+4. Possibilitar a reinquirição de testemunhas ou arrolamento de outras que, quisesse a Defesa, poderia tê-las arrolado no prazo legal, implicaria instaurar-se a rediscussão do mérito da sentença penal condenatória transitada em julgado, fora das hipóteses legalmente previstas. No caso em exame, a Defesa sequer justifica o motivo pelo qual as pretendidas testemunhas não foram arroladas naquela época, o que descaracteriza tratar-se de prova nova superveniente da inocência do Condenado a subsidiar pedido revisional, nos termos do inciso III do art. 621 do Código de Processo Penal.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 690.264/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/5/2023, DJe de 19/5/2023.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 423 DO CPP, 861 E 866, AMBOS DO CPC. JUSTIFICAÇÃO CRIMINAL. PROVAS NOVAS. INEXISTÊNCIA. PRETENSÃO DE REFAZIMENTO DE PROVAS QUE JÁ FORAM AVALIADAS. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Esta Corte Superior de Justiça tem entendido que a justificação criminal se destina à obtenção de prova nova com a finalidade de subsidiar eventual ajuizamento de revisão criminal, " "não é a Justificação, para fins de Revisão Criminal uma nova e simples ocasião para reinquirição de testemunhas ouvidas no processo da condenação, ou para arrolamento de novas testemunhas" (STF, HC 76.664, 1.ª Turma, Rel. Min. SYDNEY SANCHES, DJ de 11/09/1998)" (RHC 36.511/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/10/2013, DJe 25/10/2013). Súmula 83/STJ.
+2. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp n. 753.137/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 5/11/2015, DJe de 23/11/2015.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
