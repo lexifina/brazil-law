@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIZ RONALDO QUINTINO no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2054210-30.2024.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, por infração ao art. 33, caput, da Lei n. 11.343/2006, ante a apreensão de 4.326kg (quatro quilos, trezentos e vinte e seis gramas) de maconha (e-STJ fls. 17/25).
+Impetrado prévio writ, o Tribunal de origem denegou a ordem pleiteada (e-STJ fls. 31/39).
+No presente habeas corpus, o impetrante sustenta a nulidade das provas ao argumento de que foram obtidas mediante busca domiciliar desprovida de mandado judicial, de anuência do morador ou de fundadas razões que justificassem a diligência.
+Requer, inclusive liminarmente, "o trancamento da ação penal, por falta de justa causa, ante a explícita ilicitude na produção da prova" (e-STJ fl. 12).
+Liminar indeferida (e-STJ fls. 44/45) e informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso dele se conheça, pela denegação da ordem (e-STJ fls. 96/99).
+É o relatório.
+Decido.
+O presente writ está prejudicado.
+Isso, porque, em consulta ao endereço eletrônico do Tribunal de origem, verifica-se que, em 20/8/2024, foi julgado o recurso de apelação interposto pela defesa, oportunidade em que a Corte estadual rejeitou a preliminar e deu parcial provimento ao apelo apenas para reduzir a pena pecuniária para 583 dias-multa, mantidos os demais termos da sentença condenatória.
+Por conseguinte, a alegação de nulidade das provas encontra-se prejudicada, porquanto analisada pelo Magistrado sentenciante e pelo Tribunal de origem, que entenderam não ter ocorrido qualquer ilegalidade. Com efeito, após encerrada a devida instrução processual, fundamentos diversos e complementares foram apresentados pelas instâncias ordinárias para afastar a suscitada ilicitude.
+Assim, diante do novo contexto fático, parece-me evidente a perda do objeto do presente inconformismo.
+Nesse mesmo caminhar:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. DECISÃO MANTIDA. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DOS REQUISITOS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTOS AO DECRETO PRISIONAL. PREJUDICIALIDADE. ALEGAÇÃO DE ILEGALIDADE NA BUSCA PESSOAL. PLEITO PREJUDICADO. TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. PREJUDICADO PELA SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. ENTENDIMENTO DA SÚMULA N. 648 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NULIDADE. SUPOSTA AGRESSÃO AO AGRAVANTE PELOS AGENTES ESTATAIS. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DE ANÁLISE NA PRESENTE VIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. As razões expendidas pelo juízo de primeiro grau para indeferir o pedido de nulidade em razão da busca pessoal não mais subsistem. Após encerrada a devida instrução processual, fundamentos diversos e complementares foram apresentados pelo magistrado sentenciante. Assim, diante do novo contexto fático, evidente a perda do objeto do presente reclamo. Os novos fundamentos devem ser submetidos perante o Tribunal a quo antes de serem aqui analisados, sob pena de incidir em indevida supressão de instância.
+3. O pedido de trancamento da ação penal por ausência de justa causa fica prejudicado com a superveniência de sentença condenatória. Inteligência da Súmula n. 648 desta Corte Superior de Justiça, que dispõe que "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus".4. No que se refere à alegada agressão por um dos guardas e possível nulidade da prisão, o entendimento desta Corte Superior é no sentido de que "A comprovação a respeito da ocorrência ou não das alegadas agressões policiais é matéria que demanda incursão no contexto fático-probatório, providência incabível na via ora trilhada" (AgRg no HC n. 669.316/PR, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 8/6/2021, DJe de 14/6/2021).
+5. Agravo regimental desprovido.(AgRg no RHC n. 188.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024, grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. VIOLAÇÃO DE DOMICÍLIO. SENTENÇA CONDENATÓRIA PROLATADA DEPOIS DE IMPETRADO O HABEAS CORPUS. PERDA SUPERVENIENTE DO OBJETO DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Diante da superveniência de sentença condenatória, a controvérsia sobre eventual nulidade não reconhecida na sentença deve ser analisada pelo Tribunal de origem, por ocasião do julgamento do recurso de apelação.
+2. Observada a perda superveniente do objeto desta ação constitucional, o pedido fica prejudicado.
+3. Agravo Regimental não provido. (AgRg no RHC n. 180.785/ES, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/8/2024, DJe de 29/8/2024.)
+Frise-se, por oportuno, que esta decisão "não afasta o direito fundamental à prestação jurisdicional e acesso à Justiça, porquanto, ante a nova realidade fática na origem, eventual discordância pode e deverá ser, agora, questionada por recurso próprio ou novo mandamus, cabendo à defesa do paciente, se for o caso, impugnar os fundamentos de cada acórdão observando apropriadamente a dialeticidade" (AgRg no RHC n. 186.494/ES, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 26/2/2024, DJe de 29/2/2024 ).
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte (RISTJ), julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
