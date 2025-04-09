@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de pedido de tutela cautelar antecipada formulado por SERGIO RODRIGUES PROJETOS E LICENCIAMENTOS LTDA., contra decisão monocrática de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que indeferiu pedido de liminar em mandado de segurança.
+O requerente afirma que teria sido vítima de violação de registro de marca e concorrência desleal em relação à marca registrada "SÉRGIO RODRIGUES".
+Alega que teria tomado conhecimento dos supostos fatos criminosos no dia 30/4/2024, exercendo tempestivamente seu direito de queixa-crime no dia 23/5/2024, conforme o prazo decadencial previsto no art. 38 do Código de Processo Penal - CPP.
+Sustenta que o Juízo de primeiro grau teria indeferido o pedido liminar de busca e apreensão e posteriormente mantido a decisão em pedido de reconsideração, determinando a intimação do querelado para que comparecesse à audiência de conciliação, o que afirma que poderia expor a materialidade do delito a perecimento, porque o querelado, ao tomar conhecimento, por meio da intimação judicial, providenciaria a retirada dos materiais contrafeitos do local em que se encontram.
+Argumenta que as decisões do juízo teriam violado seu direito líquido e certo de acesso à justiça e ao devido processo legal, razão pela qual impetrou mandado de segurança perante o Tribunal de origem. O Desembargador relator indeferiu o pedido liminar nos termos da decisão de fls. 8-9.
+Afirma que o perigo da demora reside na possibilidade de desaparecimento das provas, o que frustraria a instrução processual e comprometeria a efetividade da persecução penal.
+Requer, ao final, o deferimento da medida cautelar em caráter liminar, para que seja atribuído efeito suspensivo nos autos do mandado de segurança para suspender o andamento da queixa-crime até o julgamento final do mandado de segurança.
+É o relatório.
+Para a concessão da tutela cautelar antecipada nesta Corte Superior, é indispensável a demonstração do perigo da demora e da probabilidade de êxito da pretensão recursal.
+Ademais, nos termos do art. 105 , II, b, da Constituição Federal, o Superior Tribunal de Justiça é competente para julgar recurso ordinário contra acórdão de Tribunal Regional Federal ou de Tribunal de Justiça que denegue a segurança. Confira-se:
+Art. 105. Compete ao Superior Tribunal de Justiça:
+ ..
+II - julgar, em recurso ordinário:
+ ..
+b) os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão;
+No caso concreto, o pedido foi aviado contra decisão monocrática de Desembargador que indeferiu o pedido liminar no mandado de segurança, o que não permite a verificação da probabilidade de êxito da pretensão recursal, ante a ausência de exaurimento da instância precedente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL PENAL. ENVIO DE ARMAS APREENDIDAS AO COMANDO DO EXÉRCITO. ACÓRDÃO QUE INDEFERE PEDIDO LIMINAR. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 105, inciso II, alínea b, da Constituição Federal, somente é possível a interposição de recurso ordinário contra acórdão que, ao analisar o mérito de mandado de segurança em única instância, denega a segurança. Assim, é incabível a interposição de recurso ordinário contra acórdão que simplesmente indefere pedido liminar em mandado de segurança.
+2. Agravo regimental desprovido.
+(AgRg no RMS n. 72.203/PA, relator Ministro Teodoro Silva Santos, Sexta Turma, DJe de 12/12/2023.)
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. SEGURANÇA DENEGADA. RECURSO ORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO. NECESSIDADE DE ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de mandado de segurança contra ato de juiz federal que proferiu decisão acolhendo as alegações da União de inexigibilidade de título executivo. No Tribunal a quo, o relator, em decisão monocrática, denegou a ordem e extinguiu o processo sem resolução de mérito. A parte agravante interpôs recurso ordinário contra decisão monocrática de relator, sem observar o prévio esgotamento da jurisdição da instância ordinária. Na petição de agravo interno, a parte agravante repisa as alegações que foram objeto de análise na decisão recorrida.
+II - Nos termos da firme jurisprudência do Superior Tribunal de Justiça, "a interposição de Recurso Ordinário exige o prévio esgotamento da jurisdição da instância ordinária, o que impõe a necessidade de interposição de agravo regimental ou interno, em face da decisão monocrática do relator, a fim de obter o pronunciamento definitivo do órgão colegiado competente. Tal entendimento fundamenta-se no fato de que a decisão unipessoal de Desembargador Relator não representa a manifestação do Tribunal Regional Federal ou do Tribunal de Justiça, como exige o art. 105, II, b, da Constituição Federal, que disciplina a hipótese de interposição do Recurso Ordinário em Mandado de Segurança, quando denegado o writ. Precedentes do STJ" AgInt nos EDcl no RMS n. 70.217/RO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 29/5/2023, DJe de 1º/6/2023.
+III - No caso presente, o recorrente interpôs diretamente o presente recurso ordinário em mandado de segurança, que se revela incabível, por inobservância do necessário exaurimento da instância ordinária.Nesse sentido: AgInt no RMS n. 64.650/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022; e AgInt no RMS n. 66.803/TO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2021, DJe de 1º/2/2022.
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PROCESSUAL PENAL. INTEMPESTIVIDADE. INSTÂNCIA PRETÉRITA. EXAURIMENTO. AUSÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão monocrática denegatória do mandado de segurança foi disponibilizada em 22/02/2019 (sexta-feira) e considerada publicada no primeiro dia útil subsequente, no caso, 25/02/2019 (segunda-feira). O prazo recursal de 15 (quinze) dias, previsto no art. 33 da Lei n.º 8.038/1990, começou a fluir em 26/02/2019 (terça-feira) e se encerrou em 12/03/2019 (terça-feira). O recurso ordinário, entretanto, foi protocolado apenas em 22/03/2019.
+2. Ainda que fosse contado o prazo recursal com observância do termo inicial indicado pela Agravante e observado o feriado local por ela apontado, de igual maneira o recurso ordinário seria temporão.
+3. É manifestamente descabida a interposição de recurso ordinário de mandado de segurança contra decisão monocrática de Relator que, monocraticamente, denega a ordem. Era necessário que tivesse havido a interposição de agravo regimental para que fosse esgotada a instância judicial pretérita.
+4. Agravo regimental desprovido.
+(AgRg no RMS n. 60.777/AM, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/9/2019, DJe de 30/9/2019.)
+Acrescento que, conforme jurisprudência consolidada, esta Corte Superior não possui competência para o exame de tutela de urgência ajuizada com a finalidade de atribuir efeito suspensivo a recurso ordinário ainda não processado na origem. Menos ainda quando nem sequer foi esgotada a prestação jurisdicional na instância ordinária, que ainda não julgou o mérito do mandado de segurança lá impetrado.
+Ante o exposto, com amparo no art. 34, XVIII, a, do Regimento Interno do STJ, não conheço do pedido.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
