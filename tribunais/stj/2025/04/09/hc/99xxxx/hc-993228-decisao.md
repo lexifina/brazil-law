@@ -1,0 +1,11 @@
+DECISÃO
+LUCAS JOHNATHAN CARDOSO DOS SANTOS alega sofrer coação ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5175089-52.2025.8.09.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante pela suposta prática dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso permitido. O flagrante foi convertido em custódia preventiva - posteriormente relaxada pela Corte estadual, no julgamento do writ originário.
+Nesta impetração, a defesa busca o trancamento do processo, por considerar ilegal a busca pessoal e domiciliar, ao argumento de que não foi precedida de fundadas razões.
+Contudo, a leitura do acórdão combatido evidencia que a matéria não foi apreciada, sob esse enfoque, pelo Tribunal a quo. Com efeito, referido ato decisório afirmou que os elementos até então obtidos não eram suficientes a justificar a custódia cautelar do réu, mas asseverou que "eventuais questionamentos acerca da legalidade das provas devem ser adequadamente enfrentados durante a fase de instrução processual, momento em que se permite uma análise mais aprofundada dos fatos e a devida oportunidade de impugnar a validade das provas obtidas. Nesse estágio, será possível o exame detalhado das circunstâncias, com ampla oportunidade de defesa e contraditório" (fl. 34).
+Logo, fica inviabilizado o conhecimento do tema diretamente por esta Corte Superior, para que não se incorra em supressão de instância.
+Ademais, a análise do relato constante do boletim de ocorrência não permite identificar, de plano, flagrante ilegalidade na diligência policial, visto que decorreu de investigação de homicídio tentado, e não é possível precisar, do teor de tal registro, a maneira exata da abordagem do ora paciente. Assim, é oportuno que se aguarde a instrução processual - prevista para 9/4/2025, segundo a defesa -, para que sejam colhidos mais elementos a permitir exame detalhado da dinâmica que levou às buscas pessoal e domiciliar.
+Observo, por fim, que o paciente está em liberdade, em decorrência do acórdão proferido pelo Tribunal a quo, dado que reforça a impossibilidade de conhecimento do habeas corpus, vocacionado para a tutela do direito de liberdade.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
