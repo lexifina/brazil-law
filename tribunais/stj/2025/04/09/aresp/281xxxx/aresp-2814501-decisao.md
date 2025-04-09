@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado em face de decisão que não admitiu recurso especial interposto por O MEDIADOR.NET LTDA ME, com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, que, em sede de apelação cível, indeferiu o pedido de assistência judiciária gratuita formulado pela empresa agravante, nos seguintes termos (fl. 620):
+"AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA DE NÃO CONHECIMENTO DO APELO. INCONFORMISMO DA RECORRENTE QUANTO AO RECONHECIMENTO DA DESERÇÃO. INSUBSISTÊNCIA. PRETENSÃO DE REDISCUTIR DECISÃO PRETÉRITA, QUE HAVIA INDEFERIDO A GRATUIDADE DA JUSTIÇA POR FALTA DE DEMONSTRAÇÃO DA HIPOSSUFICIÊNCIA FINANCEIRA DA PESSOA JURÍDICA. CONSONÂNCIA COM A SÚMULA 481 DO STJ. PREPARO, ADEMAIS, NÃO RECOLHIDO NO PRAZO OPORTUNIZADO À APELANTE/AGRAVANTE. DESACERTO DO DECISUM INDEMONSTRADO. RECURSO CONHECIDO E DESPROVIDO."
+Nas razões de recurso especial, a parte agravante alega que houve violação aos artigos 98 e 99, § 2º, do Código de Processo Civil, na medida em que pode fazer jus aos benefícios da Justiça gratuita, ainda que seja pessoa jurídica. Alega que a declaração de hipossuficiência juntada aos autos possui presunção de veracidade.
+Contrarrazões de recurso especial não apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que o Tribunal de origem, no acórdão recorrido, entendeu que a alegada hipossuficiência da parte agravante não pode ser presumida, por se tratar de pessoa jurídica, bem como que não ficou demonstrada a alegada incapacidade de arcar com as custas e despesas processuais. Com isso, a decisão que indeferiu o pedido da agravante de concessão dos benefícios da gratuidade da Justiça foi mantida.
+A propósito, confiram-se trechos do acórdão recorrido (fl. 623):
+"Reitera-se que contra o indeferimento do benefício com oportunidade para o preparo sob pena de deserção, opôs a recorrente embargos de declaração, atacando tão somente decisão pretérita, da Segunda Câmara de Direito Comercial, que havia declinado da competência (eventos 23 e 31).
+Noutras palavras, deixou de se insurgir a tempo e modo na comprovação da sua hipossuficiência financeira (evento 27), esta não presumida em função de cuidar-se a requerente de pessoa jurídica (Súmula 481 do STJ)."
+Com relação à concessão dos benefícios da gratuidade da Justiça a pessoa jurídica, a jurisprudência desta Corte firmou posicionamento no sentido de que essa deve ser concedida a pessoa jurídica, ainda que em regime de recuperação judicial, se houver a sua comprovação da incapacidade de arcar com as custas e despesas processuais (Súmula 481/STJ).
+Não existe, com isso, presunção de hipossuficiência em favor de pessoa jurídica que requer a concessão dos benefícios da gratuidade da Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REVISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE INDEFERIU A GRATUIDADE DE JUSTIÇA. INSURGÊNCIA DA DEMANDANTE.
+1. Nos termos da Súmula 481/STJ, a concessão do benefício da justiça gratuita a pessoa jurídica exige a demonstração de sua impossibilidade de arcar com os encargos processuais.
+1.1. Ainda conforme jurisprudência desta Corte, em se tratando de pedido formulado no curso do processo, quando previamente indeferido ou não requerido na origem, cabe à parte demonstrar a alteração de sua condição financeira.
+1.2. Ademais, o benefício é concedido em cada processo, sendo insuficiente para corroborar o pedido o deferimento em outras demandas. Precedentes.
+2. Na hipótese, a insurgente foi intimada a apresentar documentos atuais que comprovassem sua condição financeira, o que não restou devidamente atendido - levando ao indeferimento da gratuidade de justiça.
+3. Agravo interno desprovido, com determinação.
+(AgInt no AREsp n. 2.644.820/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/11/2024, DJe de 7/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA. PRESUNÇÃO JURIS TANTUM. ACÓRDÃO ESTADUAL EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGA FAVORÁVEL. SÚMULA 481/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça: I) tratando-se de concessão do benefício de gratuidade da justiça em favor da pessoa física, há a presunção juris tantum de que quem pleiteia o benefício não possui condições de arcar com as despesas do processo sem comprometer seu próprio sustento ou de sua família.
+Tal presunção, contudo, é relativa, podendo o magistrado indeferir o pedido de justiça gratuita se encontrar elementos que infirmem a hipossuficiência do requerente (incidência da Súmula 83 do STJ); II) a concessão do benefício de gratuidade da justiça a pessoa jurídica, ainda que em regime de liquidação extrajudicial, recuperação judicial ou sem fins lucrativos, somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (incidência da Súmula 481/STJ).
+2. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.576.243/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 2/9/2024, DJe de 13/9/2024.)
+Com isso, ao manter o indeferimento do pedido de concessão dos benefícios da Justiça gratuita à parte agravante, pessoa jurídica, sob o fundamento de impossibilidade de presumir a hipossuficiência da parte agravante e em razão da ausência de comprovação de sua incapacidade financeira para arcar com as custas e as despesas processuais, o Tribunal de origem decidiu em conformidade com o entendimento consolidado nesta Corte Superior.
+Sendo assim, incide a Súmula nº 83 do STJ.
+De todo modo, rever as conclusões do Tribunal de origem, com relação à capacidade financeira da parte agravante de arcar com as custas e despesas processuais, demandaria o reexame de fatos e provas, providência vedada pela Súmula nº 7 deste STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
