@@ -1,0 +1,23 @@
+DECISÃO
+GUILHERME FEITOSA DA SILVA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão na Apelação n. 0001983-97.2020.8.10.0060.
+Depreende-se dos autos que o réu foi condenado a 7 anos, 9 meses e 10 dias de reclusão, em regime semiaberto, mais 279 dias-multa, pela prática do crime previsto no art. 157, §§ 2º, II, e 2º-A, I, do CP (fl. 449).
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de ajustar a pena pecuniária para 229 dias-multa (fl. 467). Os embargos infrigentes defensivos foram rejeitados (fl. 522).
+Nas razões do especial, alegou a defesa a violação do art. 49, § 1º, do CP, ao argumento de que a quantidade de dias multa é desproporcional à pena reclusiva.
+Requereu fosse "a pena de multa  ..  aplicada no valor mínimo possível a fim de guardar proporcionalidade com a pena privativa de liberdade" (fl. 596).
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+O acórdão recorrido asseriu o seguinte:
+Com efeito, o aumento da pena corporal aplicado no caso concreto correspondeu a quase metade do intervalo entra a pena mínima e máxima abstratamente cominada ao crime de roubo (4 a 10 anos), ou seja, a pena foi agravada de quase metade do valor legalmente previsto, enquanto que a pena de multa foi reduzida para apenas 18 (dezoito) dias-multa, ou seja, 8 (oito) dias-multa acima do mínimo legal, quando a lei prevê um intervalo de 350 (trezentos e cinquenta) dias-multa entre os limites mínimo e máximo da sanção pecuniária, o que não me parece ser o cálculo mais adequado com vistas à proporcionalidade, devendo a pena pecuniária ser fixada em 229 (duzentos e vinte e nove) dias-multa.
+(fl. 465, destaquei)
+No que tange à pena pecuniária, esta Corte Superior entende que, "Conquanto a fixação da pena de multa fique à discricionaridade do julgador, este deve se nortear dentro dos parâmetros estabelecidos no preceito secundário do tipo penal violado, atentando, sempre, para que a quantidade de dias-multa aplicada e o quantum de reprimenda corporal, quando previstas simultaneamente, sejam proporcionais" (HC n. 239.173/GO, Rel. Ministra Laurita Vaz, 5ª T., DJe 22/08/2014).
+Regida pelos arts. 49 e 60 do CP, entende-se que a pena pecuniária deve ser dimensionada em duas fases, em que serão determinados, respectivamente, a quantidade de dias-multa e o valor monetário a ser atribuído para cada dia-multa.
+Dentro desses parâmetros, a proporcionalidade entre as sanções corporal e pecuniária pode ser aferida segundo as balizas estabelecidas pelos arts. 59 e 68 do CP ao se aplicar indistintamente as mesmas frações de aumento ou de diminuição decorrentes das circunstâncias judiciais e legais, bem como de eventuais majorantes e minorantes.
+Nesse sentido, Rogério Greco leciona que "a multa, como pena que é, deve ser encontrada segundo os critérios reitores do art. 68 do Código Penal  ..  Inicialmente, analisam-se as chamadas circunstâncias judiciais  .. , a fim de encontrar a pena-base, que variará entre um mínimo de 10 até o máximo de 360 dias-multa  .. . Em seguida, serão consideradas as circunstâncias atenuantes e agravantes. Por último, as causas de diminuição e de aumento." (Curso de Direito Penal. Rio de Janeiro: Impetus, 2011, p. 543).
+Em outras palavras, essa metodologia desdobra a primeira etapa do cálculo dos dias-multa nos mesmos critérios do sistema trifásico, previsto para a pena reclusiva.
+Alternativamente, é possível alcançar o mesmo objetivo por meio da atribuição de um dia-multa para cada mês da pena privativa de liberdade, o que também garante a estrita proporcionalidade entre ambas e observa os limites previstos no art. 49 do CP.
+Nada obstante, como a lei não minudencia a forma como o cálculo da reprimenda pecuniária deve ser feito, o magistrado pode até arbitrá-la diretamente, desde que evidenciada a sua razoabilidade na comparação com a sanção corporal.
+Na espécie, embora haja o acórdão recorrido fundamentado o seu entendimento, não é possível identificar uma proporcionalidade estrita entre a reprimenda de 7 anos, 9 meses e 10 dias de reclusão e a pena pecuniária quantificada em 229 dias-multas, razão por que a ajusto para 93 dias-multa, segundo o critério de correspondência com os meses da sanção reclusiva.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, com a finalidade de diminuir a pena pecuniária para 93 dias-multa, mantidos os demais termos do acórdão atacado.
+Publique-se e intimem-se.
+EMENTA
