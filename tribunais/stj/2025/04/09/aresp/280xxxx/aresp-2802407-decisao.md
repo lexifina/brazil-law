@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manejado por DESTHIL EQUIPAMENTOS INDUSTRIAIS LTDA. impugnando decisão que inadmitiu recurso especial interposto contra acórdão, assim ementado (fl. 321):
+AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL Pretensão de reformar a decisão que rejeitou os embargos de declaração opostos contra a decisão que determinou a intimação da executada acerca da designação de hasta pública dos bens penhorados - Recálculo do crédito tributário, observando os limites da taxa SELIC Possibilidade de substituição ou emenda das Certidões de Dívida Ativa que contenham meros erros aritméticos - Embora a execução transcorra pelo meio menos gravoso para o executado (art. 805 do NCPC), deve se desenvolver no interesse do credor (art. 797 do NCPC) Decisão mantida - Recurso desprovido.
+Embargos de declaração opostos e rejeitados.
+A recorrente aponta violação dos arts. 7º, 511 e 805 do CPC/2015 alegando que não teve a oportunidade de se manifestar nos autos após nova liquidação da exequente, em razão do decote dos juros na CDA. Argumenta sobre o princípio da menor gravosidade ao executado e da necessidade de se efetivar o princípio do contraditório, porquanto o "princípio da ampla defesa prevalece sobre o da utilidade, pois esta não possui previsão constitucional e não está no rol das normas fundamentais do CPC, denotando a hierarquia superior da primeira" (fl. 360).
+Sustenta dissídio jurisprudencial com julgado do STJ, REsp n. 1.432.902/RS, argumentando que, no caso, o Tribunal manteve a designação de hasta pública e não permitiu a conferência do débito.
+Contrarrazões a fls. 406-411.
+Sustenta impugnados os óbices aplicados à admissibilidade do recurso especial.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+No que interessa, confira-se a fundamentação adotada pelo Tribunal de Justiça para o desate da controvérsia, nos excertos a seguir (fls. 323/324, grifos nossos):
+Tratando-se de irregularidade na incidência da taxa de juros praticada pela Fazenda Estadual, que pode ser ajustada mediante meros cálculos aritméticos, desnecessária a declaração de nulidade dos títulos executivos, de modo que podem as Certidões de Dívida Ativa ser apenas substituídas (ou emendadas), como restou decidido por ocasião do acolhimento parcial da exceção de pré- executividade (fls. 169/174 dos autos principais).
+Referida decisão foi mantida pelo v. acórdão proferido no Agravo de Instrumento nº 2086845-98.2023.8.26.0000 (fls. 243/251 dos autos principais), assim ementado:
+ ..
+No caso concreto, é possível observar que a exequente comprovou o recálculo do débito observando os limites da taxa SELIC, na forma estabelecida pela decisão que acolheu parcialmente a exceção de pré-executividade (fls. 177/178 dos autos principais), sendo a executada intimada para pagamento do débito pela imprensa oficial, na pessoa de seu advogado (fls. 180/182 dos autos principais).
+Com a retificação das Certidões de Dívida Ativa, excluindo os juros superiores à Taxa SELIC, a Execução Fiscal deve prosseguir o seu trâmite regular, com a realização dos atos expropriatórios, não sendo o caso de conceder nova oportunidade para pagamento espontâneo ou, ainda, possibilitar a discussão quanto à correção dos valores exigidos, antes de seguro o Juízo.
+Nos termos do artigo 797 do Novo Código de Processo Civil, a execução desenvolve-se no interesse do exequente, embora haja previsão de que ela se faça de forma menos gravosa para o executado (artigo 805 do Novo Código de Processo Civil), o que não impede que o credor use de todos os meios estabelecidos em lei para a satisfação do seu crédito.
+Segundo o artigo 11 da Lei 6.830/1980, o dinheiro é o primeiro no rol de preferência para a garantia e satisfação da dívida fiscal, de modo que outros bens ofertados pela executada, se não atenderem aos interesses da credora, podem ser recusados.
+Assim, é legítimo à Fazenda recusar a oferta de bens que não obedeçam a ordem preferencial do art. 11 da Lei nº 6.830/1980, mostrando-se razoável o prosseguimento da execução, com a designação de hasta pública dos bens penhorados.
+Pois bem.
+O recurso não preenche os requisitos de admissibilidade.
+Considerando as premissas fixadas, por um lado, inviável a revisão do acórdão, nos moldes alegados, uma vez que a argumentação apresentada somente poderia ter sua procedência verificada mediante o reexame do suporte fático-probatório, providência incabível no âmbito do recurso especial, por força da Súmula 7/STJ.
+Por outro lado, para além da falta de prequestionamento do art. 7º do CPC/2015, quanto aos demais, as razões recursais são genéricas, não demonstrando em que medida o Tribunal a quo teria incorrido nas supostas vulnerações, tendo em conta a fundamentação adotada. Incidência das Súmulas 282/STF e 284/STF.
+Não se conhece do recurso pela alínea "c" do permissivo constitucional aos seguintes fundamentos: (i) prejudicado o exame da divergência suscitada sobre a mesma tese jurídica a respeito da qual não se conheceu do recurso pela alínea "a" do permissivo constitucional: (ii) a falta de particularização do dispositivo legal sobre o qual pende dissídio interpretativo entre os casos confrontados é hipótese para aplicação da Súmula 284/STF, por configurada a deficiência da fundamentação recursal.
+Ante todo o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
