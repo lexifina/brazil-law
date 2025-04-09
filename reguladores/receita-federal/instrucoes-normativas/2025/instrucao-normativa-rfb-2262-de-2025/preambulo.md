@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2262, de 8 de abril de 2025
+Torna sem efeito os arts. 1º e 2º da Instrução Normativa RFB nº 2.260, de 24 de março de 2025, e o art. 3º da Instrução Normativa RFB nº 2.251, de 13 de fevereiro de 2025, e revoga o dispositivo que especifica.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o art. 350, caput, inciso III, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista a liminar concedida pelo Ministro Relator, Cristiano Zanin, do Supremo Tribunal Federal -STF, no Mandado de Segurança nº 40.235 MC/DF, impetrado em face do Tribunal de Contas da União - TCU, resolve:
