@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOÃO HENRIQUE CAPOANO contra a decisão de e-STJ fls. 375/376.
+Depreende-se dos autos que o agravante foi condenado, por tráfico de drogas, nos termos do art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão em regime inicial semiaberto, em decorrência da apreensão de aproximadamente 16g (dezesseis gramas) de maconha.
+A apelação defensiva foi desprovida pelo Tribunal de origem, que manteve a condenação, afirmando que a existência de outro processo por tráfico de drogas indicava habitualidade delitiva, afastando assim o redutor.
+Daí o recurso especial, no qual a defesa alega falta de fundamentação no acórdão recorrido, contrariedade ao art. 315, incisos II, IV e V, do Código de Processo Penal, e negativa de vigência ao redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, em razão da primariedade do recorrente na data dos fatos (e-STJ fls. 196/217).
+Contrarrazões às e-STJ fls. 344/346.
+Às e-STJ fls. 375/376, a Presidência do STJ proferiu decisão não conhecendo do recurso especial, sob o fundamento de que "contra uma mesma decisão a parte recorrente apresentou embargos de declaração; e, posteriormente, recurso especial", de modo que teria ocorrido preclusão consumativa.
+Neste agravo regimental, a defesa alega que, "quando os embargos de declaração são recebidos com caráter infringente, abre-se exceção para o princípio da unirrecorribilidade, de modo que o recurso especial deve ser conhecido. Pede, ainda, que o recurso especial seja recebido como habeas corpus para que seja reconhecido o tráfico privilegiado" (e-STJ fl. 393).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo regimental e pela concessão da ordem de habeas corpus de ofício.
+É o relatório.
+Decido.
+De fato, tenho que a regra da unirrecorribilidade obsta a interposição de dois recursos contra a mesma decisão, razão pela qual entendo que, no ponto, a decisão agravada não merece reparos.
+No entanto, vislumbro flagrante ilegalidade apta a atrair a concessão da ordem de ofício.
+Isso, porque esta Sexta Turma adotou o atual posicionamento do Supremo Tribunal Federal, segundo o qual inquéritos policiais e ações penais em curso não constituem circunstância suficiente para afastar a aplicação da minorante de tráfico de drogas.
+Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTOR ESPECIAL DE PENA RELATIVO AO PRIVILÉGIO. INCABÍVEL. PACIENTE CONHECIDO NO MEIO POLICIAL PELA PRÁTICA DO TRÁFICO DE DROGAS. ALTERAÇÃO DE ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS EXIGE REVOLVIMENTO FÁTICO-PROBATÓRIO, PROVIDÊNCIA IMPOSSÍVEL NO ESTREITO RITO DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O mais recente posicionamento de ambas as Turmas do Supremo Tribunal Federal é no sentido de que, em regra, inquéritos policiais e ações penais em andamento não constituem fundamentação idônea apta a respaldar a não aplicação do redutor especial de redução de pena relativa ao reconhecimento da figura privilegiada do crime de tráfico de drogas.  ..  (AgRg no HC n. 560.561/RS, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 2/2/2021, DJe 17/2/2021.)
+Colaciono, a seguir, julgado da Suprema Corte nessa mesma direção:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA. O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade. PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO. Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação. (HC n. 173.806, relator MARCO AURÉLIO, Primeira Turma, julgado em 18/2/2020, processo eletrônico DJe-049 divulg. 6/3/2020, public. 9/3/2020.)
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o reconhecimento da suscitada causa de diminuição de pena.
+Assim, reconhecendo-se a incidência da minorante do § 4º do art. 33 da Lei n. 11.343/2006, na fração de 2/3, a pena do agravante deve ser reduzida para 1 ano e 8 meses de reclusão.
+No caso dos autos, a quantidade de droga apreendida não se revela expressiva o suficiente para justificar o regime prisional mais gravoso, mormente por se tratar de réu primário e sem antecedentes.
+Dessa forma, diante do novo quantum da reprimenda, o agravante faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas e preenchidos os pressupostos previstos no art. 44 do CP, é cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Ante o exposto, reconsidero a decisão agravada para não conhecer do recurso especial, mas conceder a ordem de ofício, a fim de reduzir a pena do agravante para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
+EMENTA
