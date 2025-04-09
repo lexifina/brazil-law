@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSE VITOR RO MERO DA SILVA, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento que negou provimento à apelação criminal n. 500201-85.2023.8.26.0591.
+Consta dos autos que o paciente foi condenado à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa, no mínimo legal, como incurso no artigo 33, caput, da Lei nº 11.343/2006.
+O impetrante alega, em síntese, a nulidade das provas obtidas em razão da busca pessoal efetuada sem fundadas suspeitas e da violação de domicílio realizada sem fundadas razões e sem autorização de morador, sendo ilícitas as provas dela derivadas.
+Invoca a ilicitude do acesso aos dados bancários e telefônicos.
+Aduz que inexistem provas da prática delitiva, de maneira que o paciente deve ser absolvido.
+Argumenta que a pena deve ser aplicada no mínimo legal, com o reconhecimento do tráfico privilegiado.
+Entende que o regime semiaberto é adequado ao caso, se não for fixada pena inferior a 4 (quatro) anos de reclusão, situação que determina o regime aberto para cumprimento da pena, com substituição da pena privativa de liberdade por restritiva de direitos.
+Salienta que não deve haver o perdimento de bens.
+Requer, liminarmente, a soltura do paciente e, no mérito, o reconhecimento da nulidade das provas com repercussão na absolvição do paciente. Subsidiariamente, pugna pela redução da pena imposta e inaplicabilidade do perdimento de bens.
+A liminar foi indeferida (fls. 310-312).
+Informações prestadas pela autoridade coatora (fls. 315-386).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do habeas corpus (fls. 391-394).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão de alegada nulidade das provas derivadas de buscas pessoal e domiciliar sem fundada suspeita, bem como de acesso a dados bancários e telefônicos de maneira supostamente ilícita.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Além disso, não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Todos os pontos aqui trazidos já foram enfrentados pelo Tribunal de origem, não cabendo a este Superior Tribunal de Justiça a sua revisão sem incidir em análise pormenorizada de fatos e provas (fls. 280-307), conforme a ementa reproduzida:
+"Apelação. Crimes de tráfico de drogas e posse irregular de munição (este somente em relação ao réu Luciano). Preliminares de nulidade das buscas pessoal, domiciliar e veicular por ausência de fundada suspeita, nulidade por ausência de cientificação acerca do direito ao silêncio e ilegalidade do acesso aos dados bancários e telefônicos. Rejeição. No mérito, pedidos defensivos em busca da absolvição por falta de provas ou a desclassificação para o artigo 28 da Lei nº 11.343/2006. Impossibilidade. Autoria e materialidade comprovadas. Conjunto probatório robusto, suficiente para sustentar a condenação dos réus nos moldes em que proferida. Pleitos subsidiários objetivando a fixação da pena-base no mínimo legal, aplicação do redutor do artigo 33, § 4º, da Lei nº 11.343/2006, abrandamento do regime prisional, substituição da pena corporal por restritiva de direitos e a restituição dos bens apreendidos. Descabimento. Evidências de dedicação dos réus a atividades criminosas que inviabilizam o reconhecimento do tráfico privilegiado. Penas, regimes prisionais e vedação de substituição da pena corporal por restritiva de direitos bem fixados e que não comportam alteração. Preliminares rejeitadas. Recursos defensivos não providos."
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
