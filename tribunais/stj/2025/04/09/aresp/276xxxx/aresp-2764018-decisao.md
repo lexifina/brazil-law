@@ -1,0 +1,35 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por B FINTECH SERVICOS DE TECNOLOGIA LTDA contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em:20 de agosto de 2024.
+Concluso ao gabinete em: 10 de dezembro de 2024.
+Ação: de reparação de danos proposta por MAYARA KELLY VALENTIM VIEIRA em face da agravante e outros, alegando ter investido R$ 3.400,00 em uma plataforma de investimentos chamada Trading Connect, que estaria envolvida em um esquema de fraudes. A autora sustenta que a B. Fintech seria responsável pelos danos causados, devido ao suposto envolvimento na cadeia de consumo.
+Sentença: julgou improcedentes os pedidos da autora.
+Acórdão: reformou a sentença, determinando a nulidade do negócio jurídico e a restituição dos valores à autora, nos termos da seguinte ementa (e-STJ, fls. 568-569):
+"APELAÇÃO. PROCESSO CIVIL. CONSUMIDOR. BITCOIN. RESPONSABILIDADE. FORNECEDORES. PIRÂMIDE FINANCEIRA. NULIDADE. STATUS QUO ANTE. VALORES. RESTITUIÇÃO. DANOS MORAIS. INCABÍVEIS. 1. A atividade comercial concernente à intermediação e negociação de criptomoedas deve ser dirimida à luz das disposições do Código de Defesa do Consumidor - CDC, uma vez que as partes se amoldam ao conceito de consumidor e de fornecedor de serviços (arts. 2º e 3º), em que a responsabilidade civil dos fornecedores é objetiva, fundada no risco da atividade desenvolvida, conforme artigos 14 do CDC e 186, 187 e 927 do CC, não se fazendo necessário perquirir acerca da existência de culpa. 2. O "esquema de pirâmide" ou "pirâmide financeira" é um modelo fraudulento de negócios, que consiste na formação de uma cadeia de pessoas que são atraídas por promessa de lucros fáceis ao indicar novos clientes, que fazem parte da base da pirâmide, e cujos investimentos mantêm a estrutura em funcionamento por alguns meses, até que venha a ruir pela falta de novos investidores. Assim, apenas o criador, e no máximo um pequeno grupo de envolvidos, acaba realmente enriquecendo. 3. A ilicitude do contrato, mediante a captação de recursos decorrente de pirâmide financeira, com a promessa de alta rentabilidade, deve ser reconhecida com a consequente nulidade da avença, nos termos do art. 166, inc. II, do Código Civil. E em razão da nulidade do contrato, as partes deverão ser restituídas ao status quo ante, nos termos do art. 182 do Código Civil. 4. Somente deve ser considerado dano moral aquele sentimento de dor, vexame, sofrimento ou humilhação que foge à normalidade do cotidiano, rompendo o equilíbrio psicológico do indivíduo. Ao revés, o mero dissabor ou aborrecimento do dia a dia não estão albergados no âmbito do dano moral. 5. Deu-se parcial provimento ao recurso."
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos artigos 393 e 403 do Código Civil e do artigo 14, §3º, do Código de Defesa do Consumidor, alegando que não houve participação da recorrente no esquema fraudulento e que não há nexo de causalidade entre os danos sofridos pela autora e qualquer conduta da recorrente. O recurso também aponta divergência jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 393 e 403 do Código Civil e do artigo 14, §3º, do Código de Defesa do Consumidor, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Nesse sentido: AgInt no REsp n. 1.820.915/SP, 3ª Turma, DJe de 17/4/2024 e AgInt no AREsp n. 2.116.675/MG, 4ª Turma, DJe de 2/5/2024.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 393 e 403 do Código Civil, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à responsabilidade civil da agravante pelos danos materiais sofridos pela agravada, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Isso porque, a demonstração da divergência não pode estar fundamentada em questões de fato, mas apenas na interpretação do dispositivo legal. Nesse sentido: AgInt no AREsp n. 1.974.371/RJ, Terceira Turma, DJe de 22/11/2023 e REsp n. 1.907.171/RJ, Quarta Turma, DJe de 11/1/2024.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. CRIPTOMOEDAS. PIRÂMIDE FINANCEIRA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de reparação de danos.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo conhecido. Recurso especial não conhecido.
