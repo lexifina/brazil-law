@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GILMAR ALVES BIAS FORTES, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.25.058188-1/000).
+Consta que o paciente foi preso em flagrante, e após preventivamente, pela suposta prática do crime previsto no art. 121, § 2º-A, inciso I, c/c o art. 14, inciso II, ambos do Código Penal.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do pedido por supressão de instância.
+Neste writ, a Defensoria Pública sustenta, inicialmente, que (fl. 4),
+(a)inda que não se tenha formulado pedido de revogação da prisão preventiva, seja por advogado ou através da Defensoria Pública, não há que se falar em supressão de instância, na medida em que o Magistrado de piso, ao decretar a segregação cautelar do paciente, já externou o seu íntimo convencimento acerca da necessidade da sua prisão afastando qualquer possibilidade de lhe conceder a benesse.
+Alega, no mais, a ausência de fundamentação idônea e dos requisitos necessários para a decretação da custódia processual.
+Salienta a presença de condições pessoais favoráveis do custodiado e a possibilidade de aplicação das medidas cautelares alternativas.
+Pleiteia, ao final (fls. 10-11):
+1) A concessão in limine da ordem, a fim de que seja concedido ao paciente o direito de aguardar o julgamento do presente Habeas Corpus em liberdade, com expedição de alvará de soltura, já que presentes o fumus boni juris e o periculum in mora;
+2) No mérito, a concessão definitiva da ordem, ratificando-se a liminar, para reconhecer o direito do paciente de aguardar o processo em liberdade, até o trânsito em julgado, com aplicação de outras medidas previstas no art. 319, do CPP;
+3) Ou, subsidiariamente, caso não seja o entendimento de Vossas Excelências, que conheça do Habeas Corpus originário nº 1.0000.25.058188-1/000 e determine ao e. Tribunal de Justiça de Minas Gerais que julgue o seu mérito.
+É o relatório.
+DECIDO.
+De início, destaco que
+(a)s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria (AgRg no HC n. 856.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/10/2023, DJe de 30/10/2023).
+Portanto, passo a analisar diretamente o mérito do writ.
+O acórdão impugnado não conheceu do habeas corpus originário com base na seguinte fundamentação (fl. 14):
+Examinando os autos, verifico que a impetração não merece ser conhecida.
+A presente impetração apresenta argumentos que ainda não foram apreciados pelo juízo a quo.
+Confirme exposto pela autoridade dita coatora nas informações de ordem nº 49 "verifica-se que até o presente momento não há pedido de revogação de prisão nos autos, nem sequer pedido de habilitação de advogado".
+Assim, considerando que os pedidos constantes na inicial sequer foram formulados/analisados pelo juízo primevo, qualquer manifestação deste Tribunal nesse sentido caracterizaria indevida supressão de instância.
+Desse  modo,  considerando  que  o  Tribunal  local  não  se  manifestou  acerca  da  tese  deduzida  na  inicial  do  mandamus,  a  insurgência  não  pode  ser  conhecida,  pois  matéria  que  não  foi  analisada  no  Tribunal  estadual  não  pode  ser  objeto  de  análise  desta  Corte  Superior,  sob  pena  de  indevida  supressão  de  instância  (AgRg  no  HC  597.244/SP,  relator  Ministro  Nefi  Cordeiro,  Sexta  Turma,  julgado  em  12/08/2020,  DJe  de  18/08/2020).
+Ilustrativamente:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  PROCESSUAL  PENAL.  PRINCÍPIO  DA  DIALETICIDADE.  RAZÕES  RECURSAIS  DISSOCIADAS  DA  MOTIVAÇÃO  DA  DECISÃO  ORA  IMPUGNADA.  VIOLAÇÃO  DAS  REGRAS  DOS  ARTS.  1.021,  §  1.º,  DO  CÓDIGO  DE  PROCESSO  CIVIL,  E  259,  §  2.º,  DO  REGIMENTO  INTERNO  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  ILEGALIDADE  DA  ABORDAGEM  POLICIAL.  SUPRESSÃO  DE  INSTÂNCIA.  RECURSO  PARCIALMENTE  CONHECIDO  E,  NESSA  EXTENSÃO,  DESPROVIDO.
+(..)
+4.  "  N ão  tendo  a  tese  defensiva  atinente  à  ilicitude  das  provas  existentes  em  desfavor  do  acusado  sido  analisada  pela  Corte  local  sob  o  mesmo  enfoque  ventilado  nas  razões  iniciais  do  presente  mandamus,  não  cabe  a  este  Tribunal  Superior  inaugurar  a  apreciação  do  tema,  sob  pena  de  incursão  em  vedada  supressão  de  instância"  (AgRg  no  HC  n.  769.880/SP,  Rel.  Ministro  JESUÍNO  RISSATO,  Desembargador  Convocado  do  TJDFT,  SEXTA  TURMA,  julgado  em  7/3/2023,  DJe  10/3/2023).
+5.  Agravo  regimental  parcialmente  conhecido  e,  nessa  extensão,  desprovido.
+(AgRg  no  HC  n.  793.334/SP,  relatora  Ministra  Laurita  Vaz,  Sexta  Turma,  julgado  em  12/06/2023;  DJe  de  15/06/2023).
+Ocorre que, diferentemente do exposto no acórdão impugnado, não há impedimento ao conhecimento do writ pelo Tribunal a quo quanto à ilegalidade do decreto prisional, tendo em vista que o ato coator indicado foi proferido por Juiz de Direito, sendo certo que o primeiro exame da matéria compete ao Tribunal local, para que, só então, permanecendo eventual constrangimento ilegal, a questão seja passível de conhecimento perante o Superior Tribunal de Justiça.
+Assim,  em  virtude  da  omissão  decorrente  da  não  apreciação  da  tese  defensiva  -  na  contramão  do  princípio  da  inafastabilidade  da  jurisdição  -,  impõe-se  determinar  ao  Tribunal  estadual  que  examine  o  pedido  exposto  no  writ  na  origem,  evidentemente,  dentro  das  balizas  de  cognição  adequadas  à  via  do  remédio  heroico.
+Nessa  linha,  mutatis  mutiandis:
+RECURSO  EM  HABEAS  CORPUS.  HOMICÍDIO  QUALIFICADO.  PRISÃO  PREVENTIVA.  GARANTIA  DA  ORDEM  PÚBLICA.  RÉU  FORAGIDO,  REITERAÇÃO  DELITIVA  E  MODUS  OPERANDI.  CONSTRANGIMENTO  ILEGAL  NÃO  CARACTERIZADO.  TESES  DE  NULIDADE  E  EXCESSO  DE  LINGUAGEM.  SUPRESSÃO  DE  INSTÂNCIA.  INDEVIDA  AUSÊNCIA  DE  PRESTAÇÃO  JURISDICIONAL.  RECURSO  CONHECIDO  EM  PARTE  E,  NESSA  EXTENSÃO,  DESPROVIDO.  ORDEM  CONCEDIDA  DE  OFÍCIO.
+(..)
+4.  As  teses  referentes  à  ilicitude  da  prova  e  ao  excesso  de  linguagem  não  foram  objeto  de  apreciação  pelo  Tribunal  de  origem,  o  que  impede  o  exame  do  tema  diretamente  pelo  Superior  Tribunal  de  Justiça,  sobrepujando  a  competência  da  Corte  local,  sob  pena  de  incorrer  em  indevida  supressão  de  instância  e  violação  dos  princípios  do  duplo  grau  de  jurisdição  e  do  devido  processo  legal.
+5.  Compulsando  os  autos,  contudo,  é  imperioso  consignar  que  a  defesa,  de  fato,  formulou  tais  pedidos  na  impetração  originária,  e  que  o  Tribunal  de  Justiça  não  conheceu  da  impetração,  deixando  de  apreciar  o  pleito  formulado  no  writ,  ao  fundamento  de  que  "não  admitem  a  utilização  do  habeas  corpus  como  sucedâneo  do  meio  processual  adequado,  exceto  quando  flagrante  a  ilegalidade  apontada  .. ".
+6.  "A  não  manifestação  do  eg.  Tribunal  a  quo  sobre  o  mérito  da  impetração,  na  hipótese,  configurou  indevida  negativa  de  prestação  jurisdicional.  Tratando-se  de  questão  relevante,  devidamente  suscitada  no  writ  originário,  e  não  apreciada,  devem  os  autos  ser  remetidos  à  eg.  Corte  estadual  para  que  se  pronuncie  acerca  da  quaestio"  (HC  n.  398.690/SC,  relator  Ministro  FELIX  FISCHER,  QUINTA  TURMA,  julgado  em  3/8/2017,  DJe  de  10/8/2017).
+7.  Recurso  parcialmente  conhecido,  e,  nessa  extensão,  desprovido. Ordem  concedida  de  ofício  para  determinar  ao  Tribunal  de  Justiça  do  Estado  do  Piauí  que  aprecie  o  mérito  (referentes  aos  capítulos  decisórios  remanescentes)  do  habeas  corpus  originário  como  entender  de  direito.
+(RHC  n.  107.237/PI,  relator  Ministro  Antonio  Saldanha  Palheiro,  Sexta  Turma,  julgado  em  22/10/2019,  DJe  de  28/10/2019;  grifamos).
+Ante o exposto, concedo em parte a ordem de habeas corpus para determinar que o Tribunal de origem analise a tese de ilegalidade da custódia preventiva do paciente , ventilada no mandamus originário, dentro das balizas de cognição próprias à espécie, como entender de direito, afastada a conclusão de que há supressão de instância do tema.
+Publique-se. Intimem-se.
+EMENTA
