@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de petição apresentada por MICROINVEST S.A. E OUTRAS na qual requer o sobrestamento do presente feito em razão da admissão do Incidente de Assunção de Competência a ser instaurado nos REsp"s n.º 1.938.891/RS e 2.088.553/SP, cuja matéria se assemelharia àquela debatida nestes autos.
+Compulsando os assentamentos processuais desta Corte, verifica-se que a Primeira Seção desta Superior Corte de Justiça, em sessão de afetação concluída em 18.3.2025, acolheu o requerimento de admissão do IAC 19, sob a relatoria do Ministro Marco Aurélio Bellizze.
+O acórdão que admitiu o incidente, proferido nos autos do IAC no REsp 2.088.553/SP, foi publicado no DJe de 31.3.2025, e está assim resumido:
+PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL PARA JULGAMENTO SOB A SISTEMÁTICA DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA PELA PRIMEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. DISCUSSÃO QUANTO À POSSIBILIDADE OU NÃO DE DEDUÇÃO DA BASE DE CÁLCULO DAS CONTRIBUIÇÕES PIS E COFINS DA CONTA DE PROVISÃO DE CRÉDITOS DE LIQUIDAÇÃO DUVIDOSA (PDLD). RELEVÂNCIA JURÍDICA, ECONÔMICA E SOCIAL DA QUESTÃO POSTA. RECONHECIMENTO. AFETAÇÃO. ADMISSÃO.
+1. Tema afetado em IAC: definir se a conta de Provisão de Créditos de Liquidação Duvidosa (PCLD), constituída por determinação regulamentar do Conselho Monetário Nacional e consistente no aprovisionamento de despesas orientado pelo risco de inadimplência assumido pelas instituições financeiras nas suas operações ativas, deve ser (ou não) considerada, para fins tributários, como despesas incorridas de intermediação financeira e, como tal, passível de dedução do PIS e da Cofins, nos termos do art. 3º, § 6º, inciso I, letra a, da Lei n. 9.718/1998.
+2. Afetação à Primeira Seção do STJ.
+Na oportunidade, foi determinada a "suspensão, em todo o território nacional, dos processos e recursos em tramitação que versem sobre idêntica questão discutida neste IAC".
+Somente depois de realizada tal providência, que representa o exaurimento da instância ordinária, é que o Recurso Especial deve ser, se for o caso, encaminhado a esta Corte Superior para análise das questões jurídicas nele suscitadas e, porventura, não prejudicadas pelo novo pronunciamento do tribunal a quo, nos termos do arts. 1.039 e 1.040 do CPC/15.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que permaneça suspenso até a publicação do acórdão no IAC no REsp 2.088.553/SP, observando-se, após, o disposto nos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. DEDUÇÃO DA PROVISÃO PARA CRÉDITOS DE LIQUIDAÇÃO DUVIDOSA (PCLD) DA BASE DE CÁLCULO PIS/COFINS. DESPESAS INCORRIDAS EM OPERAÇÕES DE INTERMEDIAÇÃO FINANCEIRA. ADMISSÃO DO IAC. DEVOLUÇÃO E SOBRESTAMENTO NA CORTE DE ORIGEM ATÉ O JULGAMENTO DO PARADIGMA.
