@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto contra acórdão oriundo do TJRN, assim ementado (fl. 242):
+MANDADO DE SEGURANÇA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO VINDICADO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE EM SEDE MANDAMENTAL. INADEQUAÇÃO DA VIA ELEITA. SEGURANÇA DENEGADA.
+1. No caso concreto, não se desincumbiu o impetrante de apresentar prova robusta do direito que entende ofendido pela autoridade impetrada, não havendo, pois, espaço na seara mandamental para pleitear o reconhecimento do suposto direito, uma vez o seu rito, como cediço, não comporta dilação probatória.
+2. Segurança denegada.
+Em suas razões recursais, a recorrente sustenta, em suma, que: (a) possui direito líquido e certo ao prêmio do Edital nº 08/2023 - CONEC, consolidado pela sua classificação em segundo lugar, com 109 pontos, conforme a Ata da Comissão de Seleção de Projetos e da Comissão de Validação da Autodeclaração; (b) ofende os princípios da razoabilidade e da proporcionalidade sua exclusão devido à falta de um único documento exigido no edital, cuja não apresentação não foi causada por ele; (c) a não apresentação da Certidão Negativa de Débitos Federal (CND) foi devido a forças alheias à sua vontade; e (d) o Tribunal de Justiça do Amapá possui jurisprudência reconhecendo que a mera expectativa de direito à nomeação em concurso público pode se convolar em direito líquido e certo quando a administração pública manifesta a existência de vagas e a necessidade de preenchimento, mas descumpre regra prevista no edital.
+Parecer do MPF nos termos da ementa (fl. 281):
+Recurso Ordinário em mandado de segurança. - Ausência de impugnação específica do acórdão recorrido. Ausência de prova pré-constituída do direito alegado. Dilação probatória na via mandamental. Inadequação da via eleita. - Promoção pelo não conhecimento do recurso, ou, caso conhecido, pelo não provimento.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, "b", do RISTJ e pela Súmula 568/STJ.
+Ao denegar a segurança, o Tribunal de origem registrou não haver direito líquido e certo a ser protegido pela via mandamental, tendo em vista: (a) a ausência de prova pré-constituida do direito que se entende ofendido pela autoridade impetrada; (b) a indadequação da via eleita, ante a necessidade de fase instrutória; (c) a Certidão Negativa de Débitos Federal só foi obtida após o prazo estipulado no edital, o que afasta a configuração do direito líquido e certo;
+O detido exame das razões do recurso ordinário, contudo, evidencia que a parte recorrente não desenvolveu argumentação visando desconstituir tais fundamentos, ou seja, não impugnou especificamente as razões de decidir que, por si só, respaldam o resultado do julgamento proferido pela Corte de origem, o que conduz ao não conhecimento da insurgência recursal face a incidência da Súmula 283/STF.
+A propósito:
+A Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido (AgRg no RMS 30.555/MG, Sexta Turma, relator Ministro OG FERNANDES, DJe 1º/8/2012).
+Ante o exposto, não conheço do recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO ATACADO. INCIDÊNCIA ANALÓGICA DA SUMULA 283/STF. RECURSO NÃO CONHECIDO.
