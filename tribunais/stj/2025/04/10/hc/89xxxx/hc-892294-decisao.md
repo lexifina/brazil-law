@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de SAMUEL EDER SILVA LIMA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2010598-42.2024.26.0000).
+Depreende-se dos autos que o paciente postulou progressão de regime e livramento condicional, tendo o pedido sido indeferido pelo Juízo das execuções (e-STJ fl. 10).
+Impetrado habeas corpus na origem, o Tribunal estadual denegou a ordem (e-STJ fl. 6/9).
+Daí o presente writ, no qual a defesa requer seja concedido o livramento condicional (e-STJ fls. 3/5).
+Indeferida a liminar (e-STJ fls. 30/31) e prestadas as informações (e-STJ fls. 37/40 e 41/49), manifestou-se o Ministério Público Federal, nesta instância, pela denegação da ordem (e-STJ fls. 51/53).
+É o relatóri o.
+Decido.
+São estes os fundamentos do acórdão recorrido (e-STJ fls. 8/9):
+Não é correto, data venia, que o paciente satisfaça os requisitos para obtenção do livramento condicional, pois é reincidente específico em crime equiparado a hediondo (tráfico de drogas), de modo que a pretensão encontra óbice no artigo 83, inciso V, do Código Penal.
+Saliento que no Agravo em Execução Penal mencionado discutia-se a impropriedade de adotar como termo inicial do livramento a data da última prisão, em desconformidade com o disposto na Súmula nº 441, do Superior Tribunal de Justiça, não tendo sido ventilada a hipótese de não cabimento da benesse por expressa vedação legal, de modo que esta E. Câmara não poderia levantar a questão, pena de agravar a situação do condenado em recurso exclusivo da defesa. Seja como for, posteriormente o juízo de origem notou que o Paciente não fazia jus à benesse porque reincidente específico, pelo que superada a questão debatida no Agravo, no qual repita-se, não foi abordada a questão da proibição do benefício, lembrando que a execução é dinâmica, a situação do reeducando altera-se em decorrência de circunstâncias fáticas, de modo que como regra não se fala em preclusão no que pertine ao debate do implementos de requisitos de benefícios.
+Reafirmo que no agravo aludido não se afirmou que o Paciente tivesse direito ao livramento. Apenas se determinou à origem que proferisse nova decisão analisando os demais requisitos legais, dentre eles a proibição legal do livramento condicional ao reincidente específico, não havendo relação com o lapso temporal necessário ao benefício. Ou seja, o implemento deste requisito não assegura a inserção do condenado na última etapa do sistema progressivo, porque outras exigências não implementadas podem impedir a benesse, tal qual ocorre no caso em exame.
+Nos termos do art. 83, V, do Código Penal, o juiz concederá livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 anos desde que não seja reincidente específico em crimes hediondos.
+No caso dos autos, destacaram as instâncias ordinárias que o paciente é reincidente específico em crime equiparado a hediondo (tráfico de drogas), não havendo que se falar em livramento condicional por expressa vedação legal.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REINCIDENTE ESPECÍFICO EM TRÁFICO DE DROGAS E AFINS. VEDAÇÃO LEGAL. ALEGAÇÃO DE REVOGAÇÃO DO ART. 44, PARÁGRAFO ÚNICO, DA LEI N. 11.343/2006 PELO ADVENTO DA LEI N. 13.964/2019 (PACOTE ANTICRIME). NÃO OCORRÊNCIA. PRECEDENTES.
+Agravo regimental improvido.
+(AgRg no REsp n. 2.126.154/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DA REINCIDÊNCIA. CARÁTER PESSOAL DA RECIDIVA. INCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS. REINCIDENTE ESPECÍFICO EM CRIME HEDIONDO. VEDAÇÃO AO LIVRAMENTO CONDICIONAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte Superior, "a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios". (AgRg no HC n. 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+2. "A Lei n. 13.964/2019, ao alterar as regras da progressão de regime, não revogou o art. 44 da Lei n. 11.343/2006, tácita ou expressamente, pois não enunciou ou regulou o livramento condicional na situação de reincidência específica em crime hediondo, ou outro a ele equiparado. Remanesce intangível a formatação do Código Penal e da Lei de Drogas, visto que não houve conflito de normas, as quais, em verdade, são complementares. O Pacote Anticrime recrudesceu a execução penal na hipótese do art. 112, VI, da LEP, pois a vedação ao benefício do art. 83 do CP passou a alcançar, também, os condenados primários, que cumprem pena pela prática de crime hediondo ou equiparado, com resultado morte" (AgRg no HC 761.742/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/11/2022, DJe de 24/11/2022.)
+3. Agravo regimental desprovido.
+(AgRg no HC n. 815.437/ES, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/6/2024, DJe de 14/6/2024.)
+Diante do exposto, denego o habeas corpus.
+Publique-se. Intimem-se
+ EMENTA
