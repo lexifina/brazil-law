@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por SÃO LUCAS SAÚDE S.A., fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 387):
+"CIVIL. PLANO DE SAÚDE. COBERTURA. NEOPLASIA MAMÁRIA. PRESCRIÇÃO DE QUIMIOTERAPIA. RISCO DE INFERTILIDADE. CONGELAMENTO DE ÓVULOS. COBERTURA. NECESSIDADE. PRECEDENTES.
+1. Não se ignora que o art. 10, inciso III, da Lei nº 9.656/98 permite aos planos de saúde negar cobertura para inseminação artificial. Contudo, o que se busca na espécie é que a paciente, submetida a tratamento quimioterápico agressivo, atenue os efeitos colaterais conhecidos e, portanto, previsíveis e evitáveis, dentre os quais a falência ovariana, mediante prévio congelamento de óvulos.
+2. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 440-443).
+Nas razões do recurso especial (e-STJ, fls. 397-433), a agravante alega violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015; e 10, § 4º, da Lei n. 9.656/1998.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação; e que o tratamento pleiteado pela autora não está contemplçado como cobertura obrigatória pela ré em seus planso de saúde, sendo lícita a negativa de cobertura.
+Foram apresentadas contrarrazões(e-STJ, fls. 454-455).
+É o relatório. Decido.
+Primeiramente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ENCAMINHAMENTO DOS AUTOS À CONTADORIA JUDICIAL. DÚVIDA QUANTO AO VALOR DISCUTIDO. ACÓRDÃO EM PERFEITA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência do Superior Tribunal de Justiça no sentido de que é possível ao magistrado encaminhar os autos à contadoria para apurar se os cálculos estão em conformidade com o título em execução, consoante art. 524, § 2º, do CPC/2015. 3.
+Agravo interno desprovido.
+(AgInt no AREsp n. 2.604.512/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Na espécie, a Corte de origem consignou a necessidade de cobertura do tratamento pleiteado, nos seguintes termos (e-STJ, fls. 391-392):
+2.2. Do procedimento sobre o qual versa a demanda
+Diagnosticado o câncer de mama e prescrita a quimioterapia (fls. 30), foi solicitado pela médica que assiste a parte autora (fls. 31) o congelamento de óvulos em razão de se tratar de mulher com 35 anos de idade e sem filhos. No relatório médico subsequente (fls. 32) especificou-se que o procedimento se justificava em razão do risco de infertilidade "devido ao tratamento e se tratar de paciente nul ípara com desejo de ter filhos".
+Não se ignora que o art. 10, inciso III, da Lei n. 9.656/98 permite que os planos de saúde neguem cobertura para inseminação artificial. Contudo, o que se busca na espécie é que a paciente, submetida a tratamento quimioterápico agressivo, atenue os efeitos colaterais conhecidos e, portanto, previsíveis e evitáveis, dentre os quais a falência ovariana.
+(..)
+Em outras palavras, "se a operadora cobre o procedimento de quimioterapia para tratar o câncer de mama, há de fazê-lo também com relação à prevenção dos efeitos adversos e previsíveis dele decorrentes, como a infertilidade, de modo a possibilitar a plena reabilitação da beneficiária ao final do seu tratamento, quando então se considerará devidamente prestado o serviço fornecido.
+Verifica-se que o entendimento do acórdão recorrido julgou em conformidade com entendimento desta Corte no sentido de que" se a obrigação de prestação de assistência médica assumida pela operadora de plano de saúde impõe a realização do tratamento prescrito para o câncer de mama, a ele se vincula a obrigação de custear a criopreservação dos óvulos, sendo esta devida até a alta do tratamento de quimioterapia prescrito para o câncer de mama, a partir de quando caberá à beneficiária arcar com os eventuais custos, às suas expensas, se necessário for (REsp n. 1.962.984/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/8/2023, DJe de 23/8/2023.).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANOS DE SAÚDE. TRATAMENTO DE CÂNCER. NATUREZA TAXATIVA OU EXEMPLIFICATIVA DO ROL DA ANS. IRRELEVÂNCIA. RECUSA. ABUSIVIDADE. DANOS MORAIS. SÚMULA N. 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A obrigatoriedade de cobertura do tratamento quimioterápico inclui também a prevenção de seus efeitos adversos.
+2. Rever o entendimento do tribunal de origem acerca da ocorrência de dano moral indenizável demanda o reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, ante a incidência do óbice da Súmula n. 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.105.062/MS, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. BENEFICIÁRIA ACOMETIDA DE CÂNCER DE MAMA. PRESCRIÇÃO DE QUIMIOTERAPIA. RISCO DE INFERTILIDADE COMO EFEITO ADVERSO DO TRATAMENTO. CRIOPRESERVAÇÃO DOS ÓVULOS. PRINCÍPIO MÉDICO "PRIMUM, NON NOCERE". OBRIGAÇÃO DE COBERTURA DO PROCEDIMENTO ATÉ À ALTA DA QUIMIOTERAPIA.
+1. Ação de obrigação de fazer ajuizada em 01/07/2020, da qual foi extraído o presente recurso especial, interposto em 18/05/2021 e concluso ao gabinete em 25/05/2023.
+2. O propósito recursal consiste em decidir sobre a obrigação de a operadora de plano de saúde custear o procedimento de criopreservação de óvulos, como medida preventiva à infertilidade, enquanto possível efeito adverso do tratamento de quimioterapia prescrito à recorrida, acometida por um câncer de mama.
+3. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 1.022 do CPC/15.
+4. Esta Turma, ao julgar o REsp 1.815.796/RJ (julgado em 26/05/2020, DJe de 09/06/2020), fez a distinção entre o tratamento da infertilidade - que, segundo a jurisprudência, não é de cobertura obrigatória pelo plano de saúde (REsp 1.590.221/DF, Terceira Turma, julgado em 07/11/2017, DJe de 13/11/2017) - e a prevenção da infertilidade, enquanto efeito adverso do tratamento prescrito ao paciente e coberto pelo plano de saúde.
+5. O princípio do primum, non nocere (primeiro, não prejudicar), não impõe ao profissional da saúde um dever absoluto de não prejudicar, mas o de não causar um prejuízo evitável, desnecessário ou desproporcional ao paciente, provocado pela própria enfermidade que se pretende tratar; dele se extrai um dever de prevenir, sempre que possível, o dano previsível e evitável resultante do tratamento médico prescrito.
+6. Conclui-se, na ponderação entre a legítima expectativa da consumidora e o alcance da restrição estabelecida pelo ordenamento jurídico quanto aos limites do contrato de plano de saúde, que, se a operadora cobre o procedimento de quimioterapia para tratar o câncer de mama, há de fazê-lo também com relação à prevenção dos efeitos adversos e previsíveis dele decorrentes, como a infertilidade, de modo a possibilitar a plena reabilitação da beneficiária ao final do seu tratamento, quando então se considerará devidamente prestado o serviço fornecido.
+7. Se a obrigação de prestação de assistência médica assumida pela operadora de plano de saúde impõe a realização do tratamento prescrito para o câncer de mama, a ele se vincula a obrigação de custear a criopreservação dos óvulos, sendo esta devida até a alta do tratamento de quimioterapia prescrito para o câncer de mama, a partir de quando caberá à beneficiária arcar com os eventuais custos, às suas expensas, se necessário for.
+8. Recurso especial conhecido e, nessa extensão, parcialmente provido.
+(REsp n. 1.962.984/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/8/2023, DJe de 23/8/2023 g.n.)
+Desta forma, a pretensão recursal encontra óbice na Súmula n.83/STJ.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos para R$ 3.000,00.
+Publique-se.
+EMENTA
