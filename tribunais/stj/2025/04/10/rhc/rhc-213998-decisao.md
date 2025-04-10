@@ -1,0 +1,14 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por TANIEL OLIVEIRA DOS SANTOS - preso preventivamente pela prática, em tese, do crime de tráfico de drogas - contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5010581-08.2025.8.21.7000/RS), comporta acolhimento.
+Busca o recorrente a substituição da custódia cautelar imposta pelo Juízo de Direito da 2ª Vara Judicial da comarca de Panambi/RS (Autos n. 5000155-96.2025.8.21.0060) por medidas cautelares alternativas, sob o argumento de que o decreto prisional carece de fundamentos idôneos, além de destacar a ínfima quantidade de droga apreendida - 2 g de maconha - e o fato de que o voto divergente do acórdão impugnado foi favorável à substituição da prisão preventiva por outras medidas cautelares mais brandas.
+Contrarrazões às fls. 92/95.
+É o relatório.
+Por oportuno, o Magistrado de primeiro grau decretou a prisão preventiva com fundamento no risco de reiteração delitiva, afirmando que o recorrente é investigado em outra ação penal por idêntico delito (fl. 55).
+Pois bem, nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa além de indicar fatos concretos e contemporâneos que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Pena (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020 - grifo nosso).
+No caso em apreço, não obstante o relevante fundamento apresentado pelo Juízo de Direito de primeiro grau, notadamente, o risco de reiteração delitiva, entendo devida a concessão da liberdade provisória com medidas cautelares diversas, uma vez que o recorrente é primário, o crime foi cometido sem violência e grave ameaça, não há indicativo de que participe de forma relevante de organização criminosa e foram apreendidos 2 g de maconha.
+Ante o exposto, dou provimento ao recurso ordinário para substituir a prisão preventiva do paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da prisão provisória em caso de descumprimento de quaisquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+Comunique-se, com urgência, o teor desta decisão ao Tribunal estadual e ao Juízo a quo.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE 2 G DE MACONHA. REITERAÇÃO DELITIVA. EXCEPCIONALIDADE. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Recurso ordinário provido nos termos do dispositivo.
