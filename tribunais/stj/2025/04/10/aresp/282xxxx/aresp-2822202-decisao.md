@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIAN RHAYMITON PARREIRA OLIVEIRA contra a decisão do Tribunal de Justiça do Estado de Goiás que não admitiu o recurso especial, devido às Súmulas n. 284, STF e n. 83, STJ (fls. 379-381).
+Consta dos autos que o agravante foi condenando como incurso nas sanções do art. 121, § 2º, inciso II, do Código Penal e do art. 2º da Lei n. 12.850/13, à pena de 23 (vinte e três) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado (fls. 202-216).
+Posteriormente, a defesa ajuizou revisão criminal para requerer a impronúncia, ao argumento de que inexistem provas judicializadas da autoria. Subsidiariamente, requereu a submissão a novo julgamento, em razão de a decisão dos jurados ter sido manifestamente contrária à prova dos autos (fls. 2-21). Todavia, o pedido revisional foi julgado improcedente, porquanto não preenchidos os requisitos do art. 621 do Código de Processo Penal (fls. 307-333).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alíneas "a", "b" e "c", da Constituição Federal, para alegar violação aos arts. 59 e 121, ambos do Código Penal (fls. 338-358).
+No presente agravo, a defesa sustenta a não incidência da Súmula n. 83, STJ, sob o fundamento de que o mencionado óbice não deve obstar a análise do recurso especial quando há divergência acerca do tema, no caso, a utilização de confissão informal de corréu para subsidiar condenação (fls. 384-401).
+Em contrarrazões, o Ministério Público do Estado de Goiás pugna pela manutenção da decisão agravada (fls. 408-409).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo não provimento do recurso (fls. 424-432).
+É o relatório. DECIDO.
+Na decisão de admissibilidade, o Tribunal de origem consignou, acertadamente, que, embora o recorrente tenha interposto o recurso especial indicando todas as alíneas do permissivo constitucional, a peça processual se ateve a sustentar a negativa de vigência dos arts. 59 e 121 do Código Penal. E, em relação ao primeiro dispositivo, "o recursante limita-se a mencioná-lo numericamente, faltando desenvolvimento da tese recursal, o que enseja a incidência da Súmula 284 do Supremo Tribunal Federal, aplicável por analogia" (fl. 379).
+De fato, a defesa, no apelo nobre, manteve-se silente quanto à violação do art. 59 do Código Penal, e, por ocasião do agravo, deixou de enfrentar adequadamente o supracitado óbice, o que configura ofensa ao princípio da dialeticidade e reclama a aplicação da Súmula n. 182, STJ.
+Em relação à violação do art. 121 do Código Penal, o Tribunal a quo consignou que o entendimento contido no acórdão recorrido  de que a revisão criminal não se presta a reexaminar matéria já decidida em apelação criminal  está em harmonia com a orientação desta Corte Superior.
+A defesa, contudo, alega genericamente a não incidência da Súmula n. 83, STJ, sem trazer qualquer impugnação específica acerca dos precedentes colacionados na decisão de admissibilidade, a fim de demonstrar que a solução adotada pelo Tribunal a quo não está em consonância com o entendimento desta Corte Superior ou, ainda, que não há correspondência entre o caso concreto e a jurisprudência citada na decisão agravada.
+Por conseguinte, a aplicação da Súmula n. 182, STJ, é medida que se impõe.
+Sobre o tema:
+"1. É inviável o agravo em recurso especial que deixa de impugnar, especificadamente, todos os fundamentos da decisão da Corte a quo que inadmitiu o apelo nobre. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça mantida." (AgRg no AREsp n. 2.672.166/SE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 6/9/2024)
+"Não havendo impugnação específica dos fundamentos da decisão que deixou de admitir o apelo nobre, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior." (AgRg no AREsp n. 2.657.583/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 16/8/2024)
+Ante  o  exposto,  não  conheço  do  agravo,  nos  termos  do  art.  253,  parágrafo  único,  inciso  I,  do  RISTJ.
+Publique-se.  Intimem-se.
+EMENTA
