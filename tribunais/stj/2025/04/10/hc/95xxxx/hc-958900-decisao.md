@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDREA APARECIDA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o Juízo da execução penal indeferiu o pedido de retificação do cálculo de penas, deixando de aplicar a fração de 1/8 para alteração do lapso temporal necessário para a progressão de regime.
+Inconformada, a defesa interpôs agravo em execução penal perante o Tribunal de origem, ao qual foi negado provimento.
+A impetrante sustenta, em síntese, que o paciente faz jus ao lapso diferenciado de 1/8 para progressão de regime de pena, pois preenche todos os requisitos do art. 112, § 3º, da Lei de Execuções Penais.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja aplicada a fração de 1/8 para fins de progressão de regime.
+Foram prestadas informações pelas instâncias ordinárias, às fls. 471-499 e 500-508.
+Por fim, houve parecer ofertado pelo Ministério Público opinando pelo não conhecimento e denegação da ordem, fls. 510-513.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior (grifei):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, da impetração não se pode conhecer.
+Por outro lado, questionada a possibilidade de concessão da ordem de ofício, prevista no art. 647-A do Código de Processo Penal, anoto que a controvérsia refere-se a fração correta para a aplicação do instituto da progressão de pena à paciente, uma vez que sustenta fazer jus a fração diferenciada de 1/8 prevista no art. 112, § 3º, da Lei n.7.210/1984.
+Verifico que as razões da conclusão obtida pelo órgão colegiado e o caminho percorrido pelo julgador foram bem expostos no acórdão impetrada (fls. 506-507, grifei):
+Trata-se de agravante, reincidente, que cumpre pena total de 13 anos de reclusão, em regime inicial fechado, pela prática dos delitos de tráfico de drogas e associação para o tráfico, com término do cumprimento de pena previsto para 10/01/2036 (fls. 12/14). Em que pese o cálculo de penas juntado às fls. 12/14 que reconhece a agravante primária, é certo que o cálculo foi acertadamente retificado às fls. 351/353, do processo nº 0004684-14.2023.8.26.0502, passando a considerar a sentenciada como reincidente específica em delito equiparado a hediondo. Isso porque o processo nº 0082233-60.2007.8.26.0050, cuja data do fato se deu em 24/01/2008, transitou em julgado para a Defesa em 09/05/2018, e para o Ministério Público em 17/10/2017. Já o segundo processo, cadastrado sob nº 0009459-47.2022.8.26.0554, tem como data do fato o dia 14/01/2019, de modo que não ocorreu o período depurador de 05 (cinco) anos entre a data do cumprimento ou extinção da pena e a infração posterior, nos termos do art. 64, do Código Penal (fls. 12/14). Anote-se que o dispositivo do art. 112, §3º, da LEP (incluído pela Lei nº 13.769, de 2018), passou a prever novos requisitos para progressão de regime à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, exigindo o não cometimento de crime com violência ou grave ameaça à pessoa, não cometimento de crime contra seu filho ou dependente, cumprimento de ao menos 1/8 da pena no regime anterior, ser primária e ter bom comportamento carcerário, e não ser integrante de organização criminosa.
+Nota-se do cálculo de penas, fls. 12/14, que a agravante ostenta condenação definitiva pela prática de associação para o tráfico. E não se desconhece que a Lei nº. 12.850/2013 define a organização criminosa como delito distinto daquele previsto no art. 35, caput, da Lei 11.343/06. No entanto, a expressão - organização criminosa - prevista no artigo 112, § 3º, da LEP, mencionada pelo legislador, não a distinguiu em conformidade com a Lei n.º 12.850/03, mas é destacada de forma ampla no sentido do envolvimento com a criminalidade organizada. Dessa forma, não há como acolher o afirmado nas razões do presente agravo, porque a agravante não preencheu os requisitos legais para a concessão da fração de 1/8, posto que é reincidente, ostenta condenação pelo delito de associação para o tráfico.
+No caso, a Corte de origem fundamentou de forma precisa e delimitou as razões pelas quais concluiu pelo indeferimento do pedido de progressão em fração diferenciada à paciente, respaldando suas conclusões com base na condenação por tráfico de drogas, sendo considerada pessoa reincidente e não cumprindo de forma cumulativa os requisitos exigidos pelo art. 112, § 3º, da Lei n. 7.210/1984.
+A propósito, é este também o posicionamento deste Superior Tribunal:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. DECISÃO MONOCRÁTICA. POSSIBILIDADE. PRISÃO DOMICILIAR. ART. 117, III, DA LEP. PRESENÇA DOS REQUISITOS LEGAIS.
+PRINCÍPIOS DA FRATERNIDADE (CONSTITUIÇÃO FEDERAL - PREÂMBULO E ART. 3º) E DA PROTEÇÃO INTEGRAL À CRIANÇA. PROGRESSÃO DE REGIME. REDUÇÃO DA FRAÇÃO PARA 1/8. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA.
+1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do habeas corpus pelo relator quando a decisão for proferida com base na jurisprudência dominante do Superior Tribunal de Justiça. Precedentes.
+2. Efetivamente, as disposições legislativas insculpidas no art. 318, V, do Código de Processo Penal, incluído pela Lei n. 13.257/2016, e no inciso III do art. 117 da LEP não condicionam a prisão domiciliar da mãe com filho menor de 12 anos à comprovação de outros requisitos, como quis o legislador no caso do pai (inciso VI do art. 319 do CPP). (AgRg no HC n. 679.489/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/9/2021, DJe 4/10/2021) 3. Haja vista ser a reeducanda reincidente específica, inviável, nos termos do art. 112, § 3º, da LEP, a redução da fração aplicável ao cálculo de progressão do regime prisional para 1/8.
+4. Agravo regimental improvido no tocante à aplicação da fração de 1/8 para fins de progressão de regime; porém, reconsiderada, em parte, a decisão agravada, concedendo o habeas corpus para deferir à ora agravante a prisão domiciliar, sem prejuízo da imposição, a critério do Juízo a quo, do monitoramento eletrônico.
+(AgRg no HC n. 675.639/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+Logo, não há razão para a concessão da ordem de ofício, uma vez que a decisão impetrada tomou o cuidado de distinguir a situação da paciente, sendo pessoa reincidente, conforme demonstram os documentos dos autos, fls. 177-179 e 148-150 .
+Ante o exposto, não conheço do habeas corpus.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
