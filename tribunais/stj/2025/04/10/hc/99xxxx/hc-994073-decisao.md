@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ELBA MARIA DO NASCIMENTO SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que a paciente foi absolvida em primeira instância e condenada, pelo Tribunal de origem, à pena privativa de liberdade de 8 (oito) anos e 6 (seis) meses de reclusão, em regime fechado, pela prática dos delitos tipificados no art. 2º, § 2º, da Lei n. 12.850/13, e no art. 1º, § 4º, da Lei n. 9.613/98.
+Neste writ, o impetrante sustenta que: a) "a condenação definitiva da ré não impede a concessão da prisão domiciliar" (e-STJ, fl. 6); b) "a Terceira Seção do STJ  ..  estabeleceu ser possível a concessão do benefício, excepcionalmente, às reeducandas dos regimes fechado e semiaberto, cuja análise deve ser feita pelo juízo da execução penal, de acordo com o caso concreto" (e-STJ, fl. 7); c) "trata-se de ré condenada definitivamente ao cumprimento de 8 anos e 6 meses de reclusão, em regime inicial fechado, pela prática dos crimes de organização criminosa e de lavagem de dinheiro, realizados sem violência ou grave ameaça, e, ao que se infere dos documentos anexados aos autos, não direcionados contra seu filho de 1 ano e 8 meses" (e-STJ, fl. 13).
+Pleiteia a concessão da prisão domiciliar à paciente.
+É o relatório.
+Verifica-se que a questão relativa à possibilidade de concessão da prisão domiciliar à paciente não foi debatida perante o Tribunal de origem e, ao que tudo indica, sequer perante o Juízo da Execução, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, não conheço do habeas corpus .
+Publique-se. Intimem-se.
+ EMENTA
