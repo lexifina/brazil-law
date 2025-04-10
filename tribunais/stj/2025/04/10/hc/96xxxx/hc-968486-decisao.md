@@ -1,0 +1,47 @@
+DECISÃO
+GISLAINE NASCIMENTO DO PRADO alega sofrer constrangimento ilegal por acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2324115-41.2024.8.26.0000.
+Neste writ, busca o trancamento da ação penal que responde, pela suposta prática do delito de organização criminosa, diante da ausência de justa causa para o seu exercício. Pelos mesmos motivos, pugna, liminarmente, pela revogação da sua prisão preventiva.
+A liminar foi indeferida (fls. 581-584).
+Informações prestadas pelo Juízo a quo (fls. 589-596).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 601-603).
+Em consulta processual realizada na página eletrônica do TJSP, verifico que ainda não sobreveio a prolação de sentença nos autos do processo objeto deste writ.
+Decido.
+I. Trancamento do processo penal
+Informam os autos que a paciente foi denunciada pela suposta prática do crime previsto no art. 2º, caput, e §§ 2º e 3º, da Lei n. 12.850/2013.
+No caso, o Tribunal estadual afastou o pleito defensivo, nos seguintes termos (fls. 31-37, grifei):
+Por outro vértice, não há se falar em trancamento da ação movida em desfavor da paciente.
+Isto porque, a inicial acusatória narra os fatos com todas as suas circunstâncias, individualizando as condutas imputadas à paciente, em conformidade com as exigências contidas no artigo 41, do Código de Processo Penal, possibilitando o exercício do direito de defesa na sua plenitude.
+Ademais, da leitura da exordial acusatória verifica-se que há a descrição das condutas atribuídas à paciente, com transcrição de diálogos que ela teve com outros integrantes da organização criminosa (Fabiana e Marlon José de Sousa do Prado Rosa), sendo certo que, da análise das conversas, as quais printadas e cujos áudios são transcritos, indicam, em tese, que ela atua de forma proativa no atendimento aos familiares, direcionando o atendimento dos Advogados que atuam em conjunto com a organização criminosa, a demonstrar seu poder de mando no "Resumo Jurídico" da área da "Sintonia dos Gravatas", do qual seu marido, o também denunciado Marlon José de Sousa do Prado Rosa, faz parte.
+ ..
+Esta não é a hipótese dos autos, pois o exame superficial dos elementos indiciários coletados no procedimento inquisitorial que serviu de suporte à denúncia, compatível com a natureza sumária do remédio heroico, revela a existência de prova da materialidade delitiva e de fortes indícios de autoria em relação a ora paciente, no sentido de que integrou, pessoalmente, a organização criminosa autodenominada "Primeiro Comando da Capital" ("P. C. C."), sendo certo que, relativamente ao vínculo da ora paciente com a organização criminosa identificou-se a existência de diversos diálogos mantidos entre ela e a corré Fabiana.
+Conforme apurado, Gislaine é esposa do também denunciado Marlon José de Sousa Rosa, e integrou pessoalmente a organização criminosa PCC, ocupando posição hierárquica superior, sendo responsável pela coordenação de atendimentos jurídicos a parte dos presos faccionados por Advogados da organização criminosa, estando vinculada à "Sintonia dos Gravatas", no setor denominado "Resumo Jurídico" (fls. 363/380 - autos nº 1503158-36.2024.8.26.0361).
+ ..
+Como cediço, se há imputação de um crime, em tese, com apoio em dados probatórios recolhidos em regular procedimento investigatório, impõe-se o prosseguimento da persecução penal.
+Conforme reiterada jurisprudência desta Corte Superior, o trancamento do processo no âmbito de habeas corpus é medida excepcional, somente cabível quando demonstrada, de maneira inequívoca e de plano, a absoluta ausência de provas da materialidade do crime e de indícios de autoria, a atipicidade da conduta, a existência de causa extintiva da punibilidade ou a inépcia formal da denúncia, de tal gravidade que impeça a compreensão da acusação e a ampla defesa.
+Tendo em vista que a denúncia é uma peça processual por meio da qual o órgão acusador submete ao Poder Judiciário o exercício do jus puniendi, o legislador estabeleceu alguns requisitos essenciais para a formalização da imputação, a fim de que seja assegurado ao acusado o escorreito exercício do contraditório e da ampla defesa. Na verdade, a própria higidez da denúncia opera como uma garantia do acusado.
+Segundo o disposto no art. 41 do CPP, "a denúncia ou queixa conterá a exposição do fato criminoso, com todas as suas circunstâncias, a qualificação do acusado ou esclarecimentos pelos quais se possa identificá-lo, a classificação do crime e, quando necessário, o rol das testemunhas".
+Por sua vez, no juízo de admissibilidade da acusação, em grau de cognição superficial e limitado, prevê o art. 395 do CPP:
+Art. 395. A denúncia ou queixa será rejeitada quando: (Redação dada pela Lei nº 11.719, de 2008).
+I - for manifestamente inepta; (Incluído pela Lei nº 11.719, de 2008).
+II - faltar pressuposto processual ou condição para o exercício da ação penal; ou (Incluído pela Lei nº 11.719, de 2008).
+III - faltar justa causa para o exercício da ação penal.
+Logo, a denúncia deve ser recebida se, atendido seu aspecto formal (art. 41, c/c o art. 395, I, ambos do CPP) e identificada a presença tanto dos pressupostos de existência e validade da relação processual quanto das condições para o exercício da ação penal (art. 395, II, do CPP), a peça vier acompanhada de lastro probatório mínimo a amparar a acusação (art. 395, III, do CPP).
+No caso dos autos, a inicial acusatória narra os fatos com todas as suas circunstâncias, individualizando as condutas imputadas à paciente, em conformidade com as exigências contidas no art. 41 do Código de Processo Penal, o que possibilitou o exercício do direito de defesa na sua plenitude.
+Ademais, da leitura da peça acusatória verifica-se que há a descrição das condutas atribuídas à paciente, com transcrição de diálogos com outros integrantes da organização criminosa, o que sugere sua atuação de forma proativa.
+Verifica-se, portanto, que a descrição dos fatos foi suficiente para que a ré pudesse compreender exatamente do que está sendo acusada e, com isso, exercer o seu direito de defesa.
+II. Prisão Preventiva.
+Especificamente sobre a manutenção da prisão, cuida de reiteração de pedido, o qual já foi examinado nos autos do Habeas Corpus n. 958.807, no qual fora denegada liminarmente a ordem.
+De todo, verifica-se que o Tribunal estadual entendeu devidamente fundamentada a medida, sobretudo porque a paciente supostamente "integra organização criminosa armada, de grande magnitude e notória complexidade, voltada à prática de diversos crimes graves, como tráfico de drogas e lavagem de dinheiro, sendo que, na ramificação específica em que supostamente atua, apurou-se que ela, durante longo período (ao menos entre os anos de 2022 e 2023), ocupava posição hierárquica superior" (fl. 36).
+Tais fundamentos justificam idoneamente a necessidade de segregar a paciente, para a garantia da ordem pública, diante da sua periculosidade e da gravidade dos fatos.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão da ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação da ré.
+Com efeito, a leitura do excerto transcrito evidencia que a custódia preventiva da acusada foi justificada pela gravidade da conduta em tese perpetrada e pelo risco à ordem pública, em razão de ocupar posição hierárquica superior na organização criminosa.
+Vale lembrar que consoante salientou o Tribunal a quo , a paciente "integrou, pessoalmente, a organização criminosa autodenominada "Primeiro Comando da Capital" ("P. C. C."), ocupando posição de comando no setor do "Resumo Jurídico" relacionado à "Sintonia dos Gravatas"" (fl. 45).
+A partir de tais premissas, saliento que " a  jurisprudência do col. Pretório Excelso, também enquadra no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva. Precedentes do STF e do STJ" (HC n. 544.736/PR, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), 5ª T., D Je 28/2/2020, grifei).
+Nesse sentido:
+ ..  3. A orientação jurisprudencial do STF é no sentido de que a necessidade de interromper a atuação de organização criminosa justifica a decretação da prisão cautelar. Precedentes  ..  (HC n. 175.153 AgR, Rel. Ministro Roberto Barroso, 1ª T., D Je-262 Public. 2/12/2019).  ..  1. A decretação da custódia preventiva para garantia da ordem pública que tem como fundamento a gravidade concreta da conduta, evidenciada pela necessidade de se evitar a reiteração delitiva, bem como de se interromper atividades de organização criminosa, encontra amparo na jurisprudência desta Corte. Precedentes: HC 145.562-AgR, Primeira Turma, rel. min. Roberto Barroso, D Je de 21/5/2018; HC 146.293-AgR, Segunda Turma, rel. min. Ricardo Lewandowski, D Je de 6/8/2018; e HC 150.034- AgR, Segunda Turma, rel. min. Gilmar Mendes, D Je de 14/12/2018  ..  (HC n. 169.115 AgR, Rel. Ministro Luiz Fux, 1ª T., D Je-169 Public. 5/8/2019).
+Dessa forma, conclui-se que as decisões proferidas pelas instâncias ordinárias estão em consonância com a jurisprudência desta Corte Superior.
+III. Dispositivo.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
+EMENTA
