@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/AC, assim ementado (fls. 124/125):
+MANDADO DE SEGURAN ÇA. GRATIFICAÇÃO SEXTA- PARTE. LEI COMPLEMENTAR FEDERAL N. 173/2020 - PRETENSÃO DE ANULAÇÃO DE EFEITOS CONCRETOS DA NORMA. INVIABILIDADE. DEVER DE OBSERVÂNCIA À LEI COMPLEMENTAR FEDERAL Nº 173/2020 E LEI DE RESPONSABILIDADE FISCAL. AUMENTO DE DESPESA DE PESSOAL DENTRO DE PERÍODO DE CALAMIDADE PÚBLICA. IMPOSSIBILIDADE. CONTAGEM DE PRAZO PARA AQUISIÇÃO DE VANTAGEM REMUNERATÓRIA. POSSIBILIDADE.
+1. A Lei Complementar n.º 173/2020 estabeleceu o Programa Federativo de Enfrentamento ao Coronavirus SARS- CoV-2 (Covid-19), suspendendo tão somente o pagamento do Adicional por Tempo de Serviço (ATS) durante o período de vigência das restrições impostas ao aumento de despesas, com o funcionalismo público (ou seja, de 28/05/2020 a 31/12/2021).
+2. O impetrante postulou requerimento administrativo para a concessão da gratificação equivalente à sexta-parte de seus vencimentos integrais, sendo expedido parecer contrário por parte da Secretaria de Estado da Educação, Cultura e Esportes do Estado do Acre - SEE, em virtude da edição da Lei Complementar Federal n.º 173/2020, a qual estabelece o Programa Federativo de Enfrentamento ao Coronavirus SARS-CoV-2 (Covid-19), altera a Lei Complementar Federal nº 101, de 4 de maio de 2000, e dá outras providências.
+3. O art. 8o, inciso IX, da Lei Complementar Federal nº 173/2020 estabelece que os servidores públicos que preencham os requisitos legais para a obtenção da vantagem remuneratória da sexta-parte antes da vigência desta Lei (27 de maio de 2020), àqueles que completaram o período aquisitivo de 25 (vinte e cinco) anos de efetivo exercício de serviço público estadual, têm direito adquirido ao benefício. D"outra banda, aqueles servidores que não chegaram a satisfazer as condições constitucionais e legais, até a data de 27/05/2020, não podem receber o benefício, uma vez que suspenso o pagamento durante o período de vigência da calamidade pública, que é o caso em análise.
+4. Muito embora a Lei Complementar Federal n.º 173/2020 tenha por objeto suspender os efeitos financeiros da gratificação até a data de 31 de dezembro de 2021, esta não traz qualquer prejuízo à contagem de tempo de efetivo serviço prestado, motivo pelo qual, a partir de 27 de fevereiro de 2022, a Impetrante faz jus à concessão da gratificação de sexta-parte.
+5. Em razão de findo o período de suspensão previsto na Lei Complementar Federal n.º 173/2020, em 31/12/2021, resta conceder a ordem para determinar que, a gratificação da sexta parte seja incluída na folha de pagamento da Impetrante, a partir de 27 de fevereiro de 2022.
+6. Concessão.
+Embargos de declaração rejeitados.
+O recorrente aponta ao artigo 82, IX, da LC 173/202, sob o argumento de que o referido artigo "suspendeu, no período compreendido entre 27/05/2020 e 31/12/2021, a contagem de tempo de efetivo exercício para fins de aquisição de determinadas vantagens funcionais, a exemplo do Adicional de Sexta-Parte." (fl 210)
+Requer ao final que seja reconhecida a suspensão do computo do tempo de serviço para aquisição da gratificação de sexta-parte e que seja denegada a segurança pleiteada.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 237/239.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Quanto à questão de fundo, destaca-se do acórdão recorrido (fls. 135/138):
+"Desta forma, apesar de a Lei Complementar Federal n.º 173/2020, em seu Art. 8o, IX, suspender os efeitos financeiros da gratificação até a data de 31 de dezembro de 2021, essa em momento algum traz qualquer prejuízo em relação à contagem do tempo de efetivo serviço prestado, motivo pelo qual, a partir de 27 de fevereiro de 2022, a Impetrante faz jus à concessão da gratificação de sexta-parte.
+Ademais, o Supremo Tribunal Federal, acerca da matéria em questão, estabeleceu que os Arts. 7o e 8o, da Lei Complementar Federal n.º 173/2020, fixam normas de Direito Financeiro, mormente sobre a racionalização da máquina pública, compatíveis com o disposto no Art. 169, da Constituição Federal, ao analisar as Ações diretas de Inconstitucionalidades 6442/DF, 6447/DF, 6450/DF e 6525/DF, de Relatoria do Ministro Alexandre de Moraes:
+ ..
+Denota-se, portanto, que a aplicação temporária da lei que proibiu o aumento de despesa com pessoal com o objetivo de possibilitar aos entes federados o eficaz enfrentamento da crise sanitária e econômica ocasionadas pela Pandemia do Covid-19 se relaciona ao direito financeiro e não ao regime jurídico de servidores públicos.
+ ..
+Dessa forma, com este entendimento acima exarado, confirma-se que não houve redução do valor da remuneração dos servidores públicos, tampouco paralisou o tempo de aquisição dos direitos, mas somente a fruição deles, como bem delineado no parecer do Ministério Público às pp. 116/122." (grifo meu)
+O tribunal de origem, ao julgar os aclaratórios, acrescentou (fls. 185/186)
+"Entendo que merecem destaques as elucidações feitas pelo Min. Alexandre de Moraes no bojo de seu voto, quanto à aplicação temporária da lei que proibiu o aumento de despesa com pessoal com o fito de possibilitar aos entes federados o eficaz enfrentamento da crise sanitária e econômica ocasionadas pela Pandemia do Covid-19 se relacionar ao direito financeiro e não ao regime jurídico de servidores públicos, a saber:
+ ..
+Destaque-se que este entendimento ratifica que não houve redução do valor da remuneração dos servidores públicos, tampouco paralisou o tempo de aquisição dos direitos, mas somente a fruição deles, como bem delineado no parecer do Ministério Público às pp. 120/121:"
+Dessa forma, observa-se que a controvérsia foi dirimida com fundamento constitucional, especificamente com base no artigo 169 da Constituição Federal, e nas ADIs 6442/DF, 6447/DF, 6450/DF e 6525/DF, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO.
