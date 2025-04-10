@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por FABIO RODRIGO CIPRIANO DOS SANTOS (FABIO), na demanda em que contende com AYMORE CRÉ DITO, FINANCIAMENTO E INVESTIMENTO S. A. (AYMORE), contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria da Ministra MARIA ISABEL GALLOTTI, assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS BANCÁRIAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Discute-se a possibilidade de ajuizamento de nova demanda para restituição de quantia paga a título de juros remuneratórios incidentes sobre tarifas consideradas abusivas em ação de repetição de indébito julgada procedente e transitada em julgado.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de juros remuneratórios em razão da incidência destes sobre tarifas bancárias declaradas abusivas em sentença com trânsito em julgado, que determinou a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Agravo interno a que se nega provimento (e-STJ, fl. 348).
+Opostos embargos de declaração, foram eles rejeitados (e-STJ, fls. 438/442).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a possibilidade de ajuizar nova ação para pleitear, exclusivamente, a restituição de juros remuneratórios não requerida em anterior ação, na qual foi proferida sentença transitada em julgado determinando a restituição de tarifas reconhecidas como abusivas.
+O embargante citou como paradigma o acórdão da Terceira Turma prolatado no REsp nº 2.000.438/P, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, j. 18/4/2023, D Je de 5/5/2023.
+O embargante sustentou que enquanto o acórdão embargado entende que os pedidos relativos à devolução dos juros podem ser considerados implícitos no pedido principal da primeira demanda, estando invariavelmente abarcados na coisa julgada da primeira demanda, o acórdão paradigma da Terceira Turma entende de forma oposta, no sentido de que para configuração da coisa julgada exige-se que conste tanto pedido como condenação de forma expressa, não se admitindo considerá-los abarcados, de forma implícita, por decisão proferida em ação anterior, a qual discutiu apenas a abusividade e a necessidade de restituição de outras verbas (e-STJ, fls. 448/510).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a possibilidade de ajuizar nova ação para pleitear, exclusivamente, a restituição de juros remuneratórios não requerida em anterior ação, na qual foi proferida sentença transitada em julgado determinando a restituição de tarifas reconhecidas como abusivas.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O acórdão embargado está em consonância com a jurisprudência atual do STJ de que a eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+A propósito, confira-se o precedente da Segunda Seção que pacificou o tema:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS ADMINISTRATIVAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. PEDIDO COMPREENDIDO NA AÇÃO ANTERIOR E FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir sobre a possibilidade de ajuizamento de nova ação para pleitear a restituição de quantia paga a título de acessórios (juros remuneratórios) incidentes sobre tarifas bancárias declaradas nulas em sentença proferida em ação anterior, na qual condenada a instituição financeira à devolução dos valores cobrados indevidamente pela instituição financeira.
+2. A eficácia preclusiva da coisa julgada impede a apreciação de questões deduzidas e dedutíveis, ainda que não tenham sido examinadas, desde que atinentes à mesma causa de pedir.
+3. Hipótese na qual a parte autora ajuizou nova ação buscando a restituição de valores pagos a título de encargos acessórios incidentes sobre tarifas bancárias declaradas abusivas em sentença transitada em julgado, a qual determinara a restituição dos valores pagos indevidamente, com base nos mesmos fatos e fundamentos jurídicos do primeiro processo.
+4. Embargos de divergência providos para dar provimento ao recurso especial.
+(EREsp nº 2.036.447/PB, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 12/6/2024, DJe de 10/9/2024).
+Desse modo, considerando que o acórdão embargado se baseou em entendimento pacificado por esta Corte Superior, incide no caso o óbice da Súmula nº 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de dissenso do acórdão embargado com a jurisprudência desta Corte Superior.
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE JUROS SOBRE TAXAS BANCÁRIAS DECLARADAS ILEGAIS EM SENTENÇA TRANSITADA EM JULGADO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. ACÓRDÃO EMBARGADO NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA Nº 168 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
