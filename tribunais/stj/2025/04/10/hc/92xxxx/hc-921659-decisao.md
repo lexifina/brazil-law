@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Vandré Benedito da Silva em favor de LEONARDO DA SILVA NUNES, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO que denegou a ordem para trancamento das ações penais nº 0004928-81.2003.8.17.0990 e nº 0004930-51.2003.8.17.0990 (fls. 3-11).
+O paciente é acusado da prática de dois homicídios qualificados, ocorridos em 24/11/2002, nos autos das ações penais mencionadas (fls. 3-4).
+A denúncia foi oferecida pelo Ministério Público em 22.03.2022, após 19 anos e 4 meses dos fatos, e recebida em 06.04.2022 e 07.04.2022, respectivamente (fls. 4-5).
+A defesa alega falta de justa causa para o recebimento da denúncia e excesso de prazo na formação da culpa, visto que a instrução processual ainda não foi concluída (fls. 4-9).
+O pedido de liminar foi indeferido pelo Tribunal de Justiça de Pernambuco, que solicitou informações ao juízo originário (fls. 30-31).
+A Procuradoria de Justiça manifestou-se pela denegação da ordem (fls. 31).
+O Tribunal de Justiça de Pernambuco, por unanimidade, denegou a ordem, entendendo que há indícios de materialidade e autoria, inviabilizando o trancamento da ação penal (fls. 21-24).
+No presente habeas corpus, a defesa sustenta, em síntese, que há constrangimento ilegal por falta de justa causa e excesso de prazo na formação da culpa (fls. 3-11).
+A liminar foi indeferida pelo STJ (fls. 49-51).
+Informações prestadas pela autoridade impetrada (fls. 57-98).
+O Ministério Público Federal se manifestou pelo não conhecimento do habeas corpus (fls. 102-111).
+É o relatório. DECIDO.
+A controvérsia cinge-se à alegação de falta de justa causa para o recebimento da denúncia e excesso de prazo na formação da culpa.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+A moldura fática do acórdão impugnado demonstra que a Corte de origem reconheceu justificadamente a existência de indícios de materialidade e autoria, inviabilizando o trancamento da ação penal. Destaca-se (fl. 19):
+ ..  No presente caso, verifica-se que a denúncia cumpre todos os requisitos do artigo 41 do Código de Processo Penal, visto que narrou o fato e suas circunstâncias e trouxe a completa qualificação da paciente. Verifica-se, do mesmo modo, que não operou, até o presente momento, nenhuma causa de extinção da punibilidade. A respeito da tipicidade da conduta e dos elementos probatórios de materialidade e autoria, ao contrário do que alega o impetrante, estão presentes nas peças informativas colacionadas. Portanto, todas as considerações feitas pela defesa deverão ser ampla e profundamente debatidas na ocasião oportuna que é, neste caso, a instrução processual. É pertinente, neste ponto, trazer a súmula nº 80 deste TJPE, que diz: "A restrita via do habeas corpus não comporta o revolvimento probatório necessário à aferição da negativa de autoria". No que se refere à alegação de excesso de prazo para a formação de culpa, por certo, o processo tramita por tempo superior ao razoável. No entanto, o paciente se encontra em gozo de liberdade provisória e o fato de responder a processo criminal por tempo significativo não lhe confere o direito de, como pretendido pelo impetrante, ter trancada a ação penal em curso em seu desfavor. Isso posto, não merece ser acolhido o pedido de trancamento da ação penal, devendo o processo originário seguir seu trâmite no que concerne à apuração dos crimes atribuídos na exordial acusatória, sendo pertinente ao juízo atuar no feito com a devida prioridade.  ..
+Por fim, para que fosse possível desconstituir essas premissas, seria necessário o revolvimento de toda a matéria de fatos e provas, o que não é admitido no rito do habeas corpus.
+Portanto, não vislumbro constrangimento ilegal a ser sanado .
+Ante o exposto, não conheço do habeas corpus, nos termos do artigo 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
