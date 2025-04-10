@@ -1,0 +1,57 @@
+DECISÃO
+Vistos.
+  Trata-se de Recurso Especial interposto pelo ESTADO DE SÃO PAULO contra acórdão prolatado  pela 25ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 302/310e):
+TRIBUTÁRIO. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITOS E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. Compra e venda de bem móvel. Ausência de pagamento e existência de dívidas tributárias e lançadas em nome da autora. Sentença de parcial procedência para a anulação dos débitos referentes ao IPVA do veículo. De rigor a adoção integral dos fundamentos nela deduzidos. Cabe a ré demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito da autora. Aplicação do artigo 373, II, do Código de Processo Civil. Sentença mantida. RECURSO NÃO PROVIDO.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que "a autora não providenciou a comunicação das alienações, nos termos da legislação do Estado de São Paulo, atraindo a responsabilidade tributária pelo pagamento dos IPVA"s, segundo a regra do artigo 4º, inciso III, da Lei 6.606/89 e artigo 6º da Lei 13.296/2008 ao atribuir a condição de responsável tributário "ao proprietário de veículo de qualquer espécie, que o alienar e não comunicar a ocorrência ao órgão público encarregado do registro e licenciamento, inscrição ou matrícula"" (fls. 315/316e).
+Alega que a legislação estadual pode criar hipóteses de responsabilidade tributária em razão da ausência de comunicação da venda (fls. 328/329e).
+Sustenta que o tema n. 1.118 foi afetado pelo STJ como representativo de controvérsia, determinando a suspensão de todos os processos que versem sobre a questão (fls. 316/317e).
+Com contrarrazões (fls. 345/349e), o recurso foi inadmitido, tendo sido interposto Agravo, posteriormente convertido em Recurso Especial .
+Feito breve relato, decido.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+A recorrente sustenta a possibilidade da legislação estadual criar hipótese de responsabilidade tributária de IPVA em razão da ausência de comunicação da venda, conforme Tema 1118.
+Aduz, ainda, que o acórdão deve ser reformado, pois a legislação paulista estabelece a responsabilidade tributária daquele que não efetuar a comunicação de transferência de propriedade (comunicação da venda) dos veículos no Cadastro de Contribuintes do IPVA, conforme dispõe os artigos 6º, II e 34 da Lei Estadual nº 13.296/2008.
+No ponto, o recurso não merece ser conhecido, porquanto inviável a análise de lei local por esta Corte, incidindo à espécie, por analogia, o enunciado da Súmula 280, do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário".
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. INOVAÇÃO DE TESE RECURSAL.
+IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+(..)
+3. Inviável analisar suposto direito amparado em legislação estadual, porquanto é "defeso ao STJ reexaminar Direito local.
+Aplica-se, por analogia, a Súmula 280 do Supremo Tribunal Federal: "Por ofensa a direito local não cabe recurso extraordinário".
+Agravo Regimental não provido." (AgRg no Ag 1.351.940/MG, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 2/3/11).
+4. Agravo regimental não provido.
+(AgRg no AREsp 259.535/BA, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS, AJUIZADA CONTRA O MUNICÍPIO DE CONTENDA. PRESCRIÇÃO. RECONHECIMENTO, DE OFÍCIO. ALEGAÇÃO DE IMPOSSIBILIDADE DE DECRETAÇÃO DA PRESCRIÇÃO, ANTE A VIOLAÇÃO AO PRINCÍPIO TEMPUS REGIT ACTUM. ALEGAÇÃO DE INTERRUPÇÃO DA PRESCRIÇÃO. INEXISTÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE VIOLAÇÃO À LEI MUNICIPAL 588/92. INCIDÊNCIA DO ÓBICE ENUNCIADO NA SÚMULA 280/STF. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+III. No caso, o Recurso Especial pretende a análise da interrupção do prazo prescricional, invocando os arts. 152, 153 e 154 da Lei Municipal 588/92. Entretanto, a análise de normas de cunho local refoge à competência do Superior Tribunal de Justiça, em sede de Recurso Especial, nos termos da Súmula 280 do STF.
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 122.823/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 27/05/2014, DJe 03/06/2014).
+No mais, observo que em relação à alegada ofensa aos arts. 123, 124 e 128 do CTN e 120, 123, 128 e 134 do Código de Trânsito Brasileiro, a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado dispositivo.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo qüinqüenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.327.122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014 - destaques meus).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013 - destaques meus).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 3º e 11, de rigor a majoração em 2% (dois por cento) do percentual dos honorários anteriormente fixado, observados os percentuais mínimos/máximos de acordo com o montante a ser apurado em liquidação.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial, majorados os honorários nos termos expostos.
+Publique-se e intimem-se.
+EMENTA
