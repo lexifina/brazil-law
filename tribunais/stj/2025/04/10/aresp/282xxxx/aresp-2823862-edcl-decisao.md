@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por BANCO DO NORDESTE DO BRASIL SA à decisão de fls. 393/394, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão embargada concluiu pelo não conhecimento do Agravo em Recurso Especial ao considerar que este teria sido interposto fora do prazo legal. Contudo, tal conclusão desconsidera a existência de suspensão dos prazos processuais, fato relevante que deve ser devidamente integrado ao julgamento.
+O prazo recursal teve seu marco inicial em 15/10/2024, em razão da publicação da decisão recorrida em 14/10/2024. Ocorre que, no curso do período de interposição do recurso, houve suspensão dos prazos processuais no dia 28/10/2024, em virtude do feriado do "Dia do Servidor Público", conforme disposto no Decreto Judiciário nº 16, de 10 de janeiro de 2024, do Tribunal de Justiça da Bahia em anexo. Assim, o prazo final para a interposição do Agravo em Recurso Especial foi prorrogado para 05/11/2024.
+Dessa forma, fica demonstrado que a contagem do prazo recursal foi realizada corretamente, considerando a suspensão determinada pelo Tribunal de Justiça da Bahia. A tempestividade do recurso é incontestável e tal fato precisa ser esclarecido para evitar manifesta injustiça processual.
+ ..
+A decisão embargada também deixou de considerar a recente alteração legislativa trazida pela Lei nº 14.939/2024, que modificou a redação do artigo 1.003, § 6º, do Código de Processo Civil. Essa norma trouxe previsão expressa de que:
+ ..
+Tal previsão assegura ao recorrente a possibilidade de corrigir eventual omissão na comprovação do feriado local, ou mesmo desconsiderá-la caso a informação conste dos autos eletrônicos. No caso em tela, a suspensão dos prazos está informada no sistema PJe através da petição de ID. 76174525, a qual segue em anexo e além disso, no próprio tópico da tempestividade foi comprovada a suspensão do prazo no dia informado, o que deveria ter sido levado em conta pelo juízo ao analisar a tempestividade do Agravo em Recurso Especial.
+ ..
+Portanto, faz-se imprescindível a correção da decisão, uma vez que a jurisprudência e a legislação conferem ao recorrente o direito de ter tal informação considerada, sob pena de afronta aos princípios da ampla defesa e do contraditório (fls. 398/399).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp n. 2.227.508/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 27.6.2023; AgInt nos EDcl no AREsp n. 2.270.942/SP, Rel. Ministro João Otávio de Noronha, Quarta Turma, DJe de 7.6.2023; e AgInt no AREsp n. 2.280.536/BA, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 24.5.2023.
+No entanto, quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que, em observância ao princípio do tempus regit actum, o entendimento será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu na vigência da nova redação do referido artigo, a parte foi intimada, nesta Corte, para realizar a comprovação da tempestividade do Agravo em Recurso Especial, nos termos da certidão para saneamento de óbices de fl. 383. Porém, deixou o prazo transcorrer in albis (fl. 391).
+É certo que os feriados nacionais não precisam ser comprovados. Porém, o dia 28.10.2024 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento oportuno, o que não ocorreu.
+Desse modo, o documento trazido nestes embargos (fls. 401/402) não pode ser aceito. Deveria ter sido apresentado no momento oportuno, porquanto preclusa a oportunidade
+No mais, não se desconhece do entendimento de que "a falha induzida por informação equivocada prestada por sistema eletrônico de tribunal deve ser levada em consideração, em homenagem aos princípios da boa-fé e da confiança, para a aferição da tempestividade do recurso" (EAREsp n. 1.759.860/PI, Rel. Ministra LAURITA VAZ, Corte Especial, DJe 21.03.2022)
+Todavia, devem ser apresentados documentos aptos a comprovar a tempestividade do recurso, não servindo prints de tela ou imagens de páginas extraídas da internet e inseridas na petição, como pretende a parte.
+Outrossim, "a sugestão do sistema eletrônico não exonera o Recorrente do seu dever de conhecer e aplicar corretamente a legislação relativa à contagem dos prazos processuais" (AgRg nos EREsp n. 2.067.353/PB, Rel. Ministra Maria Isabel Gallotti, Corte Especial, DJe de 13.9.2024.)
+Mesmo porque o sistema do Tribunal a quo considera para a contagem dos prazos processuais as suspensões ocorridas naquela corte, que no caso, devem sempre ser comprovadas pela parte recorrente quando da apresentação dos recursos para este Superior Tribunal de Justiça, nos termos do que preceitua o art. 1.006, § 3º do CPC.
+Dessa forma, não há como afastar a intempestividade do recurso .
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
