@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ORLANDO MORANDO JUNIOR contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça de São Paulo, assim ementado (fls. 254-256):
+"Recurso em Sentido Estrito - Homologação de acordo de composição civil - Renúncia ao direito de queixa ou de representação - Ocorrência - Extinção da punibilidade - Reconhecimento - Manifestação do próprio recorrente como causa de extinção da punibilidade - Cabimento do recurso - Impossibilidade. Recurso não conhecido".
+No recurso especial (fls. 262-273), interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação do art. 581, VIII, do Código de Processo Penal, pois o Tribunal de origem não conheceu do recurso em sentido estrito sob justificativa de que houve expressa extinção da punibilidade da querelada por ocasião da audiência de conciliação, oportunidade em que fora homologada a composição civil e não com o despacho - objeto do recurso em sentido estrito - que reconheceu a extinção da punibilidade da recorrida.
+Aduz, de modo contrário, que "os autos revelam que o feito teve prosseguimento, inclusive com a designação de nova audiência de conciliação para o fim de buscar entendimento entre as partes a respeito da suposta "onerosidade" do acordo livremente aceito pela querelada na primeira oportunidade" (fl. 269). Conclui que "a extinção do feito antes da efetiva comprovação das obrigações assumidas pela parte acusada representaria um claro incentivo ao descumprimento dos deveres assumidos perante o Poder Judiciário, desprestigiando sua autoridade" (fl. 271).
+Apresentadas as contrarrazões (fls. 282-287 e 289-291), sobreveio juízo negativo de admissibilidade fundado: i) na incidência da Súmula 284 do STF, aplicada por analogia; ii) na incidência da Súmula no 7 do STJ (fls. 295-297).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 300-312).
+O Ministério Público Federal apresentou parecer pelo conhecimento do agravo, a fim de que não seja conhecido do recurso especial (fls. 339-341).
+É o relatório. DECIDO.
+Considerando os argumentos expendidos pelo agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A controvérsia gravita em torno do conhecimento do recurso em sentido estrito interposto contra decisão que assentou a ocorrência de renúncia ao direito de queixa do autor após a realização de acordo entre as partes - ainda que a avença não tenha sido cumprida.
+O Colegiado estadual, ao se debruçar sobre a questão, não conheceu do recurso sob seguinte fundamentação (fls. 255-256):
+"Depreende-se dos autos que a decisão de fls. 169/172 não extinguiu a punibilidade da recorrida, extinta ao ensejo da homologação do acordo celebrado entre as partes a fls. 118/119, oportunidade em que se deu a renúncia ao direito de queixa-crime pelo ofendido, nos termos do artigo 107, V, do Código Penal.
+Irrelevante não haja, a querelada, dado ensejo ao cumprimento do acordo, que não vincula a renúncia ao direito de queixa.
+Não produz efeito, o não cumprimento do acordo homologado judicialmente, na esfera criminal, não se vislumbrando força, na r. decisão de fls. 169/172, para além de reconhecer a inviabilidade do prosseguimento do feito e determinar seu arquivamento; não foi o anotado da referida decisão que extinguiu a punibilidade, senão manifestação do próprio recorrente, em sede de audiência preliminar.
+Deste modo, não se enquadrando, o presente recurso, nas hipóteses previstas no artigo 581 do Código de Processo Penal, caminho outo não resta senão o seu não conhecimento.
+Diante do exposto, não se conhece do recurso em sentido estrito, mantendo-se, por seus fundamentos, a r. decisão recorrida".
+Pois bem. Tenho que o aresto impugnado acertadamente não conheceu do recurso proposto.
+A esse respeito, é certo que a realização de composição civil acarreta a renúncia ao direito de queixa, com a consequente extinção da punibilidade, quando devidamente homologada pelo juízo competente.
+O descumprimento da avença não conduz, devo anotar, à possibilidade de apresentação de nova queixa, com o prosseguimento da ação. Em caso de eventual descumprimento, o acordo ajustado constitui-se em título executivo judicial, o qual poderá ser executado no juízo cível.
+Na espécie, o despacho/decisão (fls. 169-172) que supostamente "reconheceu" a extinção da punibilidade, consoante afirma o recorrente, tão somente corrigiu o andamento processual do feito, haja vista que a renúncia ao direito de queixa fora formulada no acordo firmado entre as partes, o qual foi homologado às fls. 118-119.
+O referido ajuste, repita-se, fora homologado pela juíza de primeira instância com menção expressa à desistência por parte da querelante, ora recorrente (fl. 119).
+Portanto, a decisão alvo do recurso em sentido estrito não ostenta conteúdo a ser impugnado pela via eleita, de modo a não preencher os requisitos de admissibilidade previstos no art. 581, VIII, do CPP.
+Dian te do exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, II, "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
