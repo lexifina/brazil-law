@@ -1,0 +1,26 @@
+DECISÃO
+MANOEL MESSIAS BRANDÃO DE SOUZA agrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia na Apelação Criminal n. 8028582-41.2022.8.05.0080.
+O agravante foi condenado, pelos crimes tipificados nos arts. 157, § 3º, II, e 157, §§ 2º, II, e 2º- A, I, na forma do art. 69, todos do Código penal, a 24 anos, 5 meses e 10 dias de reclusão, em regime fechado, mais 30 dias-multa, o que foi mantido em grau recursal.
+No especial, a defesa apontou violação dos arts. 29, § 2º, e 157, §§ 2º, II, e 2º- A, I, do Código Penal. Afirmou o seguinte (fl. 733):
+Durante a ação criminosa, o recorrente permaneceu dentro do veículo e distante da cena do crime. Sua função no delito foi apenas de transportar o verdadeiro autor do fato, o corréu Gabriel, até o local do crime, o recorrente não tinha ciência dos pormenores da ação, fato atestado pelo próprio corréu.
+Nesses termos, requereu que "que seja desclassificado o delito de latrocínio para roubo ante a cooperação dolosamente distinta do recorrente para a produção do resultado" (fl. 735).
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, e o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Celso de Albuquerque Silva, manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial (fls. 810-812).
+Decido.
+O agravo é tempestivo, atacou os fundamentos da decisão agravada e, por isso, deve ser conhecido. Procedo à análise do especial.
+O Tribunal de origem assim resolveu a controvérsia (fls. 704-706, grifei):
+O próprio Apelante infere que já foi procurado por diversas vezes por João "Galinha" - já conhecido pela polícia pelo longo histórico de tráfico e roubo, para realizar "esse tipo de corrida", nunca tendo aceitado; até que, posteriormente, diante da necessidade de honrar com o pagamento das suas despesas, busca contato com João "Galinha" para oferecer o serviço de motorista, cobrando, no mínimo, o dobro do valor que normalmente faturaria pela corrida.
+ ..
+Não se revela plausível a versão trazida pelo primeiro Apelante, pois inaceitável que tenha conduzido o segundo até certo ponto da estrada para que este surpreendesse as vítimas, e levasse todo o tempo  da espera pela motocicleta, passando pela abordagem realizada por Gabriel, até a morte de Cleiton, apenas para manobrar o veículo em que estava.
+Aliás, a versão de que Manoel teria parado o veículo e aguardado o Gabriel para, juntos, empreenderem fuga, é reforçada, pela testemunha sobrevivente do crime em questão, também em Juízo.
+Na coautoria, todos os agentes possuem o domínio comum do fato típico, mediante uma divisão de tarefas. Não é necessário que todos os agentes pratiquem o verbo descrito no tipo. Basta que a sua conduta, atípica, se isoladamente observada, seja essencial para a realização do fato típico. Dessa forma, em se tratando de coautoria, todos os agentes respondem pela prática do mesmo delito.
+Com base nas provas dos autos, o Colegiado estadual entendeu que os agentes, em comunhão de esforços, praticaram o roubo com emprego de arma de fogo que culminou na morte de uma das vítimas (latrocínio). Embora não haja sido o executor direto da ação criminosa, o ora recorrente, deliberadamente, concorreu para a prática delitiva, ao aguardar seus comparsas para possibilitar-lhes a fuga. Por isso, o Tribunal local fastou a tese de desclassificação, em virtude de participação dolosamente distinta - art. 29, § 2º, do Código Penal -, por verificar a nítida divisão de tarefas dos agentes.
+Na hipótese, para afastar a conclusão do acórdão recorrido e desclassificar a imputação de latrocínio para roubo majorado, seria necessário o reexame do material probatório, a fim de averiguar, por exemplo, se o recorrente não agiu com animus necandi, quis participar de crime menos grave ou, mesmo, se assumiu o risco de produzir o resultado morte, o que encontra óbice na Súmula n. 7 do STJ.
+Em sentido análogo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO. COAUTORIA. RECONHECIMENTO DA COOPERAÇÃO DOLOSAMENTE DISTINTA. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na coautoria, todos os agentes possuem o domínio comum do fato típico, mediante uma divisão de tarefas. Não é necessário que todos os agentes pratiquem o verbo descrito no tipo; basta que a sua conduta, atípica, se isoladamente observada, seja essencial para a realização do fato típico. Dessa forma, em se tratando de coautoria, todos os agentes respondem pela prática do mesmo delito praticado.
+2. Na hipótese, para afastar a conclusão do acórdão recorrido, de desclassificar a imputação para roubo majorado, seria necessário o reexame do material probatório, a fim de averiguar, por exemplo, se o recorrente não agiu com animus necandi, quis participar de crime menos grave ou, mesmo, se assumiu o risco de produzir o resultado morte. Óbice da Súmula n. 7 do STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.364.031/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/5/2020, DJe de 12/5/2020)
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
