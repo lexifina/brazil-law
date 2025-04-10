@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por COOPERATIVA MISTA AGRÍCOLA MISTA DE ADAMANTINA.
+O apelo extremo, fundamentado no artigo 105, III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO - Execução de título extrajudicial - Indeferimento de expedição de ofício ao INSS e Ministério Público do Trabalho para obtenção de informações salariais dos executados para futura penhora de percentual - Inconformismo do exequente Não cabimento Impenhorabilidade da verba salarial, salvo para pagamento de prestação alimentícia, independentemente de sua origem, bem como de importâncias excedentes a 50 (cinquenta) salários-mínimos mensais (artigo 833, § 2º, do Código de Processo Civil) Hipótese não configurada na exceção, diante da inexistência de elementos nos autos originários indicativos da probabilidade de se encontrarem ativos penhoráveis - Decisão mantida - Recurso não provido" (e-STJ fl. 58).
+Em suas razões (e-STJ fls. 65/109), a recorrente sustenta, além de divergência jurisprudencial, violação dos artigos 139 e 789 do Código de Processo Civil.
+Pleiteia a possibilidade de expedição de ofício ao INSS para obtenção de informações a respeito de vínculos empregatícios e benefícios previdenciários eventualmente percebidos pelo recorrido, porquanto a regra de impenhorabilidade de salários pode ser excepcionalmente relativizada.
+Contrarrazões às e-STJ fls. 143/150.
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação merece prosperar.
+Cuida-se, na origem, de agravo de instrumento em ação de execução interposto contra decisão que indeferiu o pedido de expedição de ofício ao INSS para busca de vínculo empregatício do recorrido e eventual constrição de valores.
+O Tribunal local manteve a decisão agravada ao fundamento de impossibilidade absoluta de penhora de salários e proventos de aposentadoria, não se constatando excepcionalidade no caso.
+Entretanto, a Terceira Turma do Superior Tribunal de Justiça firmou entendimento no sentido de que é possível oficiar o INSS para auxiliar o credor na satisfação do seu crédito, visto que pode haver a excepcional relativização da impenhorabilidade de salários e aposentadorias quando o bloqueio de parte da remuneração não prejudicar a subsistência digna do devedor e de sua família.
+Confiram-se:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. EXPEDIÇÃO DE OFÍCIO AO INSS PARA LOCALIZAR BENS PENHORÁVEIS. POSSIBILIDADE. EXPEDIÇÃO DE OFÍCIO AO MINISTÉRIO DO TRABALHO E PREVIDÊNCIA. IMPOSSIBILIDADE. IMPENHORABILIDADE RELATIVA DAS VERBAS REMUNERATÓRIAS.
+1. Ação de execução de título executivo extrajudicial da qual foi extraído o presente recurso especial, interposto em 17/5/2023 e concluso ao gabinete em 16/1/2024.
+2. O propósito recursal consiste em dizer se, tendo sido esgotadas todas as tentativas de localização de bens penhoráveis, o exequente pode requerer a expedição de ofício ao INSS e ao Ministério do Trabalho com a finalidade de obter informações a respeito da situação empregatícia dos devedores e da existência de possível benefício previdenciário, de modo a subsidiar futura constrição sobre os rendimentos.
+3. O art. 772, III, do CPC/15 dispõe que "o juiz pode, em qualquer momento do processo determinar que sujeitos indicados pelo exequente forneçam informações em geral relacionadas ao objeto da execução, tais como documentos e dados que tenham em seu poder, assinando-lhes prazo razoável". Esse dispositivo, interpretado em conjunto com o art. 139, IV, do CPC/15, autoriza o Juízo a requerer informações de terceiros não somente em relação ao objeto da execução, de per si, mas também relacionadas aos meios para a sua satisfação.
+4. As informações armazenadas pelo INSS são, em tese, aptas a revelar eventuais rendimentos e relações trabalhistas do executado.
+5. Deve ser indeferido o pedido de expedição de ofício ao Ministério do Trabalho e Previdência, pois, dadas as características e a função do referido órgão, a medida pretendida seria inapta a satisfazer a pretensão da exequente.
+6. A impenhorabilidade da verba remuneratória, prevista no art. 833, IV, do CPC/15, não é absoluta. Para além das exceções expressas na legislação (art. 833, § 2º, do CPC/15), a jurisprudência desta Corte evoluiu no sentido de admitir, em execução de dívida não alimentar, a flexibilização da regra de impenhorabilidade quando a hipótese concreta revelar que o bloqueio de parte da remuneração não prejudica a subsistência digna do devedor e de sua família.
+Precedentes da Corte Especial do STJ.
+7. Considerando que a impenhorabilidade da verba remuneratória é relativa e que pode, eventualmente, ser afastada, mostra-se descabida a negativa de expedição de ofício ao INSS a fim de angariar informações a respeito de eventual remuneração dos executados. A possibilidade de penhora dos valores encontrados será objeto de apreciação posterior pelo juízo competente, não sendo cabível, de plano, negar o acesso a tais informações.
+8. Na hipótese, merece parcial reforma o acórdão recorrido, pois, ao contrário do que consignado pela Corte de origem, é possível a expedição de ofício ao INSS para obter informações acerca dos rendimentos dos executados, mantendo-se a negativa em relação ao Ministério do Trabalho e Previdência.
+9. Recurso especial parcialmente provido para deferir o pedido de expedição de ofício ao INSS nos termos requeridos com o fim de localizar eventuais bens passíveis de constrição judicial."
+(REsp 2.116.813/SP, Relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 8/10/2024, DJe de 10/10/2024 - grifou-se).
+Ante o exposto, com fundamento na Súmula nº 568/STJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento a fim de deferir o pedido de expedição de ofício ao INSS para a realização da pesquisa solicitada.
+Publique-se.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EXPEDIÇÃO DE OFÍCIO AO INSTITUTO NACIONAL DO SEGURO SOCIAL. CONSULTA ACERCA DA EXISTÊNCIA DE EVENTUAIS BENEFÍCIOS PREVIDENCIÁRIOS EM NOME DO DEVEDOR. MEDIDA ADEQUADA. SÚMULA Nº 568/STJ. PRECEDENTES.
+1. A Terceira Turma do Superior Tribunal de Justiça firmou entendimento no sentido de que é possível a expedição de ofício ao INSS para auxiliar o credor na satisfação do seu crédito, visto que pode haver a excepcional relativização da impenhorabilidade de salários e aposentadorias quando o bloqueio de parte da remuneração não prejudicar a subsistência digna do devedor e de sua família.
+2. Agravo conhecido para dar provimento ao recurso especial.
