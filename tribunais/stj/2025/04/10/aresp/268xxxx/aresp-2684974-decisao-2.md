@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por SANDERSON TASSIANO SEBASTIÃO, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1070, e-STJ):
+"AGRAVO INTERNO ASSISTÊNCIA JUDICIÁRIA PRETENSÃO À EXTENSÃO DO BENEFÍCIO DEFERIDO EM OUTRO PROCESSO OU CONCESSÃO DO BENEFÍCIO. INDEFERIMENTO. Entendimento de que a penhora no rosto dos autos de outras ações é somente uma constrição de mera expectativa de direito, futuro e incerto, sendo realizável apenas com o efetivo pagamento naqueles autos. Ato processual de uma ação para outra ação, por determinação do magistrado, sem a necessidade de intervenção de terceiros na outra ação pelo credor. Assim, o benefício da justiça gratuita não se estende à outra ação. Ademais, eficácia "ex nunc" do benefício, não retroagindo seus efeitos para isentar a parte do recolhimento das custas de preparo. Pleito que não foi requerido quando da interposição do recurso de apelação, mas, posteriormente. A decisão que concederia o benefício produzirá efeitos apenas "ex nunc", ou seja, não alcança os atos processuais anteriores à sua obtenção. Recurso não provido."
+A parte recorrente apontou, além de dissídio jurisprudencial, violação aos arts. 9º da Lei 1.060/1950, 98 e 99, §2º do CPC, bem como violação ao princípio do acesso à justiça, contido no art. 5º, inciso XXXV, da Constituição Federal. Sustentou, em síntese: a) equívoco do acórdão recorrido por desconsiderar a extensão do benefício da justiça gratuita concedido em outro processo; b) a manutenção da justiça gratuita já deferida nos autos principais, alegando que não houve mudança na situação financeira do recorrente.
+Contrarrazões apresentadas às fls. 1140-1143, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 1164-1172, e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Inicialmente, observa-se, no tocante a alegada ofensa ao artigo 5º, inciso XXXV, da Constituição Federal, que a competência desta Corte restringe-se à interpretação e uniformização do direito infraconstitucional federal, não sendo cabível o exame de eventual violação a dispositivos e princípios constitucionais sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. Outrossim, a parte recorrente aponta violação aos dispositivos legais contidos nos arts. 9º da Lei 1.060/1950, 98 e 99 do CPC, a fim de obter a extensão do benefício da justiça gratuita concedido em outro processo.
+No ponto, a Corte de origem consignou que o ato praticado em determinado processo não possui necessária extensão do benefício concedido para outra ação (fl. 1071, e-STJ):
+Ademais, é ato processual efetivado de uma ação para outra ação, por determinação do magistrado, sem a necessidade de intervenção de terceiros na outra ação pelo credor.
+Por consequência, com a devida vênia, não se vislumbra a pretensão de extensão do benefício concedido em outra ação.
+De outro vértice, não de ouvida de que o benefício da justiça gratuita pode ser pleiteado a qualquer momento e em qualquer fase processual.
+Todavia, como se extrai da decisão recorrida, não se constata que houve a concessão dos benefícios da justiça gratuita nos autos principais ao apelante, mas em autos distintos, bem como não se constata nem ao menos pedido de deferimento do benefício.
+Nesse sentido, "é assente nesta Corte Superior que o benefício da gratuidade de justiça é concedido em cada processo, não sendo de se cogitar de vinculação ou extensão automática a outros feitos" (AgInt nos EDcl no AREsp n. 2.114.310/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/11/2022, DJe de 18/11/2022).
+Ainda:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INVIABILIDADE DE EXTENSÃO DOS EFEITOS DO BENEFÍCIO DA GRATUIDADE DE JUSTIÇA CONCEDIDO EM OUTRO PROCESSO. NÃO RECOLHIMENTO DA MULTA APLICADA EM SEDE DE EMBARGOS DE DECLARAÇÃO COM CONDICIONAMENTO DE SEU RECOLHIMENTO PRÉVIO. PRESSUPOSTO OBJETIVO DE ADMISSIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.
+1. "O benefício da gratuidade de justiça é concedido em cada processo, diante dos documentos e evidências juntados, não sendo de se cogitar de "vinculação" ou "extensão" automática a outros feitos."(AgInt nos EDcl na Rcl 39.771/RJ, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 29/09/2020, DJe 01/10/2020)
+ ..  3. Agravo interno não conhecido.
+(AgInt nos EDcl nos EDcl nos EDcl no AREsp n. 1.979.411/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/5/2022, DJe de 27/5/2022.)
+Incidência, portanto, da Súmula 83 do STJ.
+3. Por fim, no tocante à alegada divergência jurisprudencial, esclareço que "É firme o entendimento desta Corte no sentido de que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial" (STJ, AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2018).
+No mesmo sentido, cita-se o seguinte precedente:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PACOTE TURÍSTICO E SEGURO SAÚDE PARA VIAGEM INTERNACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. SÚMULA 211 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte regional, a despeito da oposição dos embargos de declaração, deixou de apreciar a tese de que a correção monetária dar-se-á a partir da distribuição da ação e os juros de mora de 1% ao mês contados da citação, em caso de indenização por danos materiais, decorrente de ilícito contratual. Não se vislumbrando o efetivo prequestionamento e deixando a parte recorrente de alegar, nas razões do recurso especial, violação ao art. 535 do CPC/1973 ou ao art. 1.022 do CPC/2015, incide o óbice da Súmula 211 do STJ.
+2. É firme o entendimento desta Corte no sentido de que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial" (STJ, AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.140/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 25/2/2022.)
+4. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, conheço do agravo (art. 1.042, do CPC/15) para, de pronto, negar provimento ao recurso especial. Por fim, não havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
