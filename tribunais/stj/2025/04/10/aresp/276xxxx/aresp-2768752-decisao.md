@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por E. R. S. contra decisão do Tribunal de Justiça do Estado de São Paulo nos autos do Processo nº 1502288-22.2022.8.26.0535, que inadmitiu o recurso especial interposto pela defesa, conforme acórdão assim ementado (fls. 223-229):
+"FURTO QUALIFICADO Absolvição. Alegação do princípio da insignificância Atipicidade da conduta Modificação da dosimetria da pena, na primeira fase e terceira fase da dosimetria - Modificação para o regime aberto para início de cumprimento de pena Não configurado Réu confesso - Habitualidade especifica da conduta e multireincidência - O critério trifásico foi observado em face dos autos. O regime prisional tem previsão legal. Pena e regime RECURSO NÃO PROVIDO."
+Em seu recurso especial, fundado nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, a defesa alega violação ao art. 155, caput, do Código Penal, sustentando a atipicidade material da conduta com fundamento no princípio da insignificância. Argumenta que a res furtiva não foi avaliada, tratava-se de fio descartado, e que a ação não demonstrou periculosidade, sendo, portanto, desprovida de ofensividade penal relevante. Além disso, aponta divergência jurisprudencial quanto à aplicação do princípio da insignificância mesmo em casos de reincidência .
+Apresentadas contrarrazões pelo Ministério Público do Estado de São Paulo, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo.
+Instado a se manifestar sobre a controvérsia, o Ministério Público Federal oficiou pelo não conhecimento do agravo (fls. 321-327).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+O agravo interposto merece análise restrita ao exame dos requisitos de admissibilidade do recurso especial, conforme dispõe o art. 1.042, §2o, do Código de Processo Civil.
+No caso em apreço, o Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso especial ao fundamento de que a insurgência estaria desprovida de fundamentação adequada, atraindo a aplicação da Súmula 284 do STF, além de demandar o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7 do STJ. Ressaltou-se, ainda, que o apelo nobre não teria impugnado de forma específica todos os fundamentos do acórdão recorrido, incidindo, portanto, a Súmula 182 do STJ (e-STJ fl. 249).
+Ao examinar as razões do presente agravo, constata-se que o recorrente deixou de infirmar, de maneira específica e suficiente, todos os fundamentos invocados para a negativa de seguimento do recurso especial. Limitou-se a reiterar, de modo genérico, as alegações anteriormente expendidas, sem enfrentar concretamente os fundamentos da decisão agravada, notadamente no que se refere à deficiência de fundamentação e à necessidade de revolvimento de matéria fática, incidindo, assim, os óbices apontados.
+Assim, julgo que houve manifesta ofensa ao princípio da dialeticidade, por ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada, o que inviabiliza o conhecimento deste agravo em recurso especial e enseja a incidência da Súmula n. 182, STJ, a qual dispõe: "é inviável o agravo do art. 545 do CPC
+que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+AgRg no AREsp n. 2.102.665/SP, de minha Relatoria, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023. AgRg na RvCr 5.740/RS, Terceira Seção, Rel. Min. Laurita Vaz, DJe de 3/4/2023.
+Dessa forma, ante a ausência de impugnação específica de um dos fundamentos da decisão agravada, o agravo não pode ser conhecido, nos termos do artigo
+932, III, do CPC, e do artigo 253, parágrafo único, I, do RISTJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do STJ, não conheço do agravo em recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
