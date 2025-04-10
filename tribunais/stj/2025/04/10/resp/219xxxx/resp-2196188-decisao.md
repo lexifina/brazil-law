@@ -1,0 +1,48 @@
+DECISÃO
+Examina-se recurso especial interposto por PATRÍCIA REGINA GOMES MOREIRA TORTURELLA, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/RJ.
+Recurso especial interposto em: 13/12/2024.
+Concluso ao gabinete em: 24/2/2025.
+Ação: de embargos à execução, oposto pela recorrente em desfavor da EMPRESA GESTORA DE ATIVOS - EMGEA.
+Sentença: julgou improcedentes os embargos.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. CEF. CÉDULA DE CRÉDITO BANCÁRIO. LITISCONSÓRCIO NECESSÁRIO COM EX-CÔNJUGE. OCORRÊNCIA. REGULARIZAÇÃO DO POLO PASSIVO. INTIMAÇÃO DO LITISCONSORTE. PRESCRIÇÃO. TERMO INICIAL. DATA DO VENCIMENTO DA ÚLTIMA PARCELA CONTRATADA. APELAÇÃO IMPROVIDA.
+1. Trata-se de apelação interposta por PATRICIA REGINA GOMES MOREIRA TORTURELLA objetivando a reforma da sentença, que julgou improcedente o pedido dos embargos à execução por título extrajudicial, relativa a contrato de financiamento destinado ao pagamento de compra e venda de imóvel, celebrado entre o comprador devedor Nilo Virgilio Gori Torturela, o vendedor Leonor Cabral Barreira Cravo e a credora Caixa Econômica Federal - CEF, em 19/08/1988.
+2. O Superior Tribunal de Justiça reconheceu a existência de litisconsórcio necessário em demandas revisionais atinentes ao Sistema Financeiro de Habitação (SFH), com fito de preservar a harmonização dos julgados, a segurança jurídica e promover a economia processual. Decidiu também que, reconhecida a não observância do litisconsórcio ativo necessário o Juiz deve possibilitar ao autor a integralização do polo ativo da demanda (REsp n. 1.222.822/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/9/2014, DJe de 30/9/2014 e R Esp n. 1.068.355/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/10/2013, DJe de 6/12/2013)
+3. No caso, o Juízo de primeiro grau reconheceu a existência de litisconsórcio necessário, determinando a intimação da exequente EMGEA para que requeresse "a citação de PATRÍCIA REGINA GOMES MOREIRA TORTURELLA", o que foi realizado, havendo a devida regularização do polo passivo.
+4. Nos contratos de prestação continuada, cujo cumprimento se protrai no tempo, o termo inicial para a contagem do prazo prescricional é a data do vencimento da última parcela, e não o vencimento antecipado da dívida, efetivado no momento do inadimplemento contratual (STJ, AREsp n. 1.591.384/MG, Relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2019, D Je de 19/12/2019 e TRF2, 0004346-02.2012.4.02.5102, Órgão julgador: 5ª Turma Especializada, Relator: Desembargador Federal ALUISIO GONÇALVES DE CASTRO MENDES, DJe 18/08/2020).
+5. Conforme expresso no art. 204, §1º, do Código Civil, a interrupção efetuada contra o devedor solidário envolve os demais. Portando, a citação do ex-cônjuge interrompeu o prazo prescricional não apenas em face do mesmo, mas também contra a apelante.
+6. Em relação à interrupção da prescrição, o art. 202, inciso I, o Código Civil disciplina que o despacho que determina a citação interrompe a prescrição, se o interessado a promover no prazo e na forma da lei processual.
+7. Por sua vez, nos termos do art. 240, §1º, do Código de Processo Civil, a interrupção da prescrição, operada pelo despacho que ordena a citação, retroage à data de propositura da ação.
+8. No caso dos autos, as planilhas de evolução contratual apontam o vencimento da última prestação em 19/08/2013, sendo o termo inicial do prazo prescricional. Portanto, tendo a EMGEA ajuizado a ação de execução em 17/09/2013 e sendo o primeiro devedor citado em 25/03/2015, não há que se falar em prescrição.
+9. Apelação improvida. Honorários majorados de 10% (dez por cento) para 11% (onze por cento) sobre o valor da causa (R$ 835.141,61).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 202, I, parágrafo único, do CC; 240, § 1º, e 1022, I, do CPC.
+Além da negativa de prestação jurisdicional, sustenta, em síntese, o decurso do prazo prescricional.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt no REsp 1.726.592/MT, 3ª Turma, DJe de 31/8/2020; e AgInt no AREsp 1.518.178/MG, 4ª Turma, DJe de 16/3/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, quanto ao suposto ponto omisso, de modo que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Ressalta-se, por oportuno, o que consta do acórdão do recurso integrativo:
+"Observa-se que o acórdão foi cristalino no sentido de reconhecer que a citação em 25/03/2015 do primeiro devedor interrompeu o prazo prescricional. Assim, o prazo quinquenal iniciado com o vencimento da última prestação em 19/08/2013 não transcorreu.
+Ademais, assentou que, nos contratos de prestação continuada, cujo cumprimento se protrai no tempo, o termo inicial para a contagem do prazo prescricional é a data do vencimento da última parcela. Não há que se falar, desta forma, na prescrição de cada parcela. Transcrevo:
+"No que tange a prescrição, para se aferir acerca de sua ocorrência ou não, impõe-se esclarecer que, nos contratos de prestação continuada, cujo cumprimento se protrai no tempo, o termo inicial para a contagem do prazo prescricional é a data do vencimento da última parcela, e não o vencimento antecipado da dívida, efetivado no momento do inadimplemento contratual.
+ ..  Outrossim, em relação à interrupção da prescrição, o art. 202, inciso I, o Código Civil disciplina que o despacho que determina a citação interrompe a prescrição, se o interessado a promover no prazo e na forma da lei processual.
+Por sua vez, nos termos do art. 240, §1º, do Código de Processo Civil, a interrupção da prescrição, operada pelo despacho que ordena a citação, retroage à data de propositura da ação.
+ ..  No caso dos autos, conforme parágrafo único da cláusula sétima, a primeira parcela venceu no mês seguinte ao crédito da última parcela, devendo ser pago em 240 (duzentas e quarenta prestações - Evento 1- OUT2-fls. 16/33 da execução).
+As planilhas de evolução contratual apontam o vencimento da última prestação em 19/08/2013 (Evento 1- OUT2 e 3 da execução), sendo o termo inicial do prazo prescricional.
+Portanto, tendo a EMGEA ajuizado a ação de execução em 17/09/2013 e sendo o primeiro devedor citado em 25/03/2015 (Eventos 1 e 18 da execução), não há que se falar em prescrição." (e-STJ fls. 170/171)
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da Súmula 568/STJ
+No que diz respeito à interrupção da prescrição, o acórdão recorrido decidiu em conformidade com a jurisprudência desta Corte, segundo a qual: (i) a citação válida de um dos devedores solidários interrompe a prescrição também em relação aos demais (AgInt no REsp 1.976.663/RJ, Quarta Turma, DJe de 29/6/2022 e AgRg no REsp 1.386.161/RS, Terceira Turma, DJe de 22/6/2015); (ii) a citação válida retroage à data da propositura da ação para efeitos de interrupção da prescrição, nos termos do art. 240, § 1º, do CPC (AgInt no AREsp 2.760.412/SP, Quarta Turma, DJEN de 27/2/2025 e AgInt no AREsp 2.535.270/MT, Terceira Turma, DJe de 22/8/2024); e (iii) "em se tratando de causa interruptiva judicial, a citação válida tem o condão de interromper o prazo prescricional independentemente do desfecho dado ao processo - se com ou sem julgamento de mérito -, fazendo com que a fluência do prazo prescricional se reinicie, por inteiro, apenas após o último ato do processo (qual seja, o trânsito em julgado), nos termos do parágrafo único do art. 202 do Código Civil" (AgInt no AREsp 2.202.135/SC, Terceira Turma, DJe de 22/11/2023 e REsp 1.726.222/SP, Terceira Turma, DJe de 24/4/2018).
+Assim, considerando que o entendimento do Tribunal de origem está em consonância com a jurisprudência desta Corte, não merece reforma o acórdão recorrido.
+Aplica-se, na espécie, a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em 4% (quatro por cento) os honorários fixados anteriormente, devidos pela parte recorrente, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PRESCRIÇÃO. INTERRUPÇÃO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. embargos à execução.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. O acórdão recorrido que adota a orientação de acordo com a jurisprudência do STJ não merece reforma.
+4. Recurso especial conhecido e não provido.
