@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por SYMON LEANDRO DO NASCIMENTO, contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial.
+O agravante foi condenado como incurso nas sanções do art. 33, caput, da Lei n. 11.343/2006, às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e pagamento de 500 (quinhentos) dias-multa (fls. 146-157).
+O Tribunal negou provimento, por unanimidade, à apelação em que a defesa requeria, preliminarmente, o reconhecimento de nulidade decorrente da ausência de justa causa para a abordagem, e, no mérito, a desclassificação da conduta para o tipo penal do uso e, alternativamente, pedia a aplicação do privilégio, a redução da pena, o abrandamento do regime prisional e substituição da pena carcerária por restritivas de direitos (fls. 232-239).
+Inconformado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação aos arts. 156 e 240 do Código de Processo Penal e 33, § 4º, da Lei n. 11.343/2006 (fls. 245-259).
+O recurso foi inadmitido devido à incidência da Súmula n. 7, STJ, e pela falta de prequestionamento da matéria alusiva ao redutor de pena (fls. 276-278).
+Neste agravo, a defesa alega que não incide a Súmula n. 7, STJ, por se tratar de matéria estritamente de direito (fls. 281-289).
+Em contrarrazões, o Ministério Público do Estado de São Paulo postula o não conhecimento do agravo ou, se conhecido, que lhe seja negado provimento (fls. 292-295).
+O Ministério Público Federal apresentou parecer pelo parcial provimento do em recurso especial (fls. 313-321).
+É o relatório. DECIDO.
+Não obstante os argumentos da defesa, trata-se de matéria já submetida à apreciação deste Superior Tribunal de Justiça no julgamento do HC n. 951.342/GO, decisão monocrática de minha relatoria (DJe de 10/10/2024), pela qual o habeas corpus não foi conhecido por se tratar de substitutivo ao recurso legalmente previsto para a hipótese, tendo ocorrido a concessão parcial da ordem, de ofício, apenas para estabelecer o regime inicial semiaberto, mantidos os demais termos da condenação.
+Consigno que, relativamente ao art. 244 do Código de Processo Penal, foi constatada que a busca pessoal foi realizada a partir de fundada suspeita, uma vez que o agravante , ao avistar a viatura policial, correu e, em razão disso, foi abordado pelos policiais, que lograram êxito em apreender 233 (duzentas e trinta e três) porções de cocaína (46,6g quarenta e seis gramas e seis centigramas); 93 (noventa e três) porções de Cannabis Sativa L (207g duzentos e sete gramas), razão pela qual não se tratou de convalidação da atuação abusiva pela descoberta fortuita de um ilícito, tampouco de uma abordagem imotivada ou nitidamente preconceituosa, mas sim de um conjunto de elementos objetivamente aferíveis que indicam a fundada suspeita.
+No que tange à pretensão de reconhecimento do tráfico privilegiado, o Tribunal de origem, soberano na análise da matéria fática e probatória, concluiu, com base em elementos concretamente extraídos dos autos, que o agravante não é um traficante eventual, mas alguém que faz do tráfico de entorpecentes seu meio de vida, razão pela qual não preenche os requisitos para a concessão do benefício. Logo, para desconstituir tais premissas seria necessário o revolvimento de todo o conjunto fático-probatório, o que não é permitido nesta via.
+Desta feita, diante da constatação de reiteração de pedidos, prejudica-se o recurso especial interposto pela Defesa quando ocorre prévio julgamento de habeas corpus impetrado. Nestes termos:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1º, I, DA LEI N. 8.137/90. SONEGAÇÃO FISCAL. 1) VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. ANÁLISE DESCABIDA EM SEDE DE RECURSO ESPECIAL. 2) NULIDADES. FUNDAMENTAÇÃO DEFICIENTE. NÃO APONTADO O DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. 3) VIOLAÇÃO AO ART. 59 DO CÓDIGO PENAL - CP. RECURSO ESPECIAL PREJUDICADO POR ANTERIOR JULGAMENTO DE HABEAS CORPUS. 4) AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Conforme precedente, diante da constatação de reiteração de pedidos, prejudica-se o recurso especial interposto pela defesa quando ocorre prévio julgamento de habeas corpus impetrado também pela defesa do recorrente.
+4. Agravo regimental desprovido." (AgRg nos EDcl no REsp 1807083/PE, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 04/05/2020).
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. REITERAÇÃO DE PEDIDOS. MATÉRIAS JÁ DEBATIDAS EM HABEAS CORPUS. AGRAVO NÃO PROVIDO.
+1. As teses defensivas já foram analisadas por esta Corte Superior no HC n. 505.248/SP.
+2. Verificada a reiteração de pedidos e não tendo o recorrente trazido qualquer fato capaz de dar ensejo a nova análise por este Tribunal das questões deduzidas, conclui-se, portanto, pela inadmissibilidade do presente recurso.
+3. Agravo regimental desprovido." (AgRg no REsp 1843349/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe 21/09/2020)
+Assim, ficou esvaziado o objeto do presente recurso especial.
+Cumpre, ainda, referir, que o agravo regimental interposto contra a decisão que não conheceu da impetração teve o provimento negado pela Quinta Turma em julgamento realizado aos 01/12/2024.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL PREJUDICADO POR ANÁLISE PRÉVIA EM RECURSO EM HABEAS CORPUS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO.
