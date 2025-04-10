@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno manejado por Trexx Properties Empreendimentos Imobiliários desafiando decisão da Presidência do STJ que não conheceu do recurso, ante a sua manifesta intempestividade.
+A parte agravante, em suas razões, sustenta a tempestividade do agravo em recurso especial, visto que "não houve expediente no Tribunal de Justiça do Estado de São Paulo em 30 de maio de 2024 devido ao feriado local de Corpus Christi, e também em 31 de maio de 2024, devido à suspensão de expediente conforme o Provimento CSM 2.728/2023" (fl. 272). Trouxe documentação a corroborar sua alegação (fls. 286/293).
+Impugnação às fls. 297/299.
+É O BREVE RELATO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelos arts. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito, passando novamente à análise do recurso:
+Trata-se de agravo interposto por Trexx Properties Empreendimentos Imobiliários, desafiando decisão da Presidência do Tribunal de Justiça do Estado de São Paulo, que, por um lado, no tocante à exigência do ITBI, negou seguimento ao apelo raro, por estar o acórdão alinhado ao posicionamento firmado no Tema 1.113/STJ; e, por outro, inadmitiu o recurso nobre, aos fundamentos de que: (i) "assertivas de ofensa a dispositivos da Constituição da República não servem de suporte à interposição de recurso especial" (fl. 226); e (ii) "no que diz respeito à ofensa aos artigos da LINDB, a Corte Superior já decidiu que "não cabe analisar princípios contidos na Lei de Introdução do Código Civil (Direito adquirido, ato jurídico perfeito e coisa julgada), por estarem revestidos de carga eminentemente constitucional"" (fl. 227).
+Nas razões de agravo, a parte assere, em síntese, que "o pleito não se limita a um simples reexame de provas, como estabelece a Súmula nº 7 do Colendo Superior Tribunal de Justiça" (fl. 236), passando, na sequência, a sustentar que, ao manter o ITBI nos moldes exigidos, o acórdão recorrido violou os arts. 6º da LINDB; 60 da CF; e 148 do CTN.
+Contraminuta às fls. 251/253.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Importante consignar, à saída, que a negativa de seguimento do recurso especial (art. 1.030, I, b, do CPC), no tocante à discussão a respeito da exigência do ITBI, desafia a interposição de agravo interno (art. 1.021 do CPC), sendo manifestamente incabível o manejo do agravo do art. 1.042 do CPC, nesse particular.
+No mais, em relação ao juízo de inadmissão, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Realmente, no caso, a parte cingiu-se a alegar que "o pleito não se limita a um simples reexame de provas, como estabelece a Súmula nº 7 do Colendo Superior Tribunal de Justiça" (fl. 236) - argumento estranho aos pilares esposados para inadmitir a insurgência excepcional (inteligência da Súmula 284/STF) -, e a insistir na violação de artigos de lei e da Constituição Federal, passando, pois, ao largo dos alicerces constantes do juízo de prelibação.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, (i) reconsidero a decisão de fls. 260/261, tornando-a sem efeitos; e (ii) nos termos do art. 932, III, do CPC, não conheço do agravo.
+Publique-se.
+EMENTA
