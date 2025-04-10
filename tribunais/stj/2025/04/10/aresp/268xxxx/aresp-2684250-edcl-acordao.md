@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL NÃO CONHECIDO. ÓBICE DA SÚMULA 7/STJ. INEXISTÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, devendo a parte embargante demonstrar a existência de obscuridade, contradição, omissão ou erro material na decisão embargada, nos termos do art. 619 do Código de Processo Penal.
+2. No caso, o recurso especial foi obstado com fundamento na Súmula 7/STJ, tendo sido expressamente consignado que a matéria suscitada demandava revolvimento do conjunto fático-probatório. Assim, a ausência de manifestação sobre o mérito das condutas ou sobre similitude com outros casos não configura omissão ou contradição.
+3. O embargante pretende, a pretexto de alegada omissão, superar o óbice que ensejou o não conhecimento do recurso especial para que haja pronunciamento sobre o mérito da ação penal.
+4. Entretanto, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por ALECIO CASTELLUCCI FIGUEIREDO contra acórdão que negou provimento ao agravo regimental no agravo em recurso especial.
+Segundo consta dos autos, o agravante foi condenado pela Justiça Estadual em razão da prestação de serviços de assessoria tributária ao Município de Elias Fausto, os quais teriam sido realizados sem o devido procedimento licitatório e teriam resultado em prejuízos ao erário municipal. Apurou-se que, entre os anos de 2011 e 2012, o agravante teria induzido os administradores públicos em erro, levando à celebração de contrato direto entre a Prefeitura e seu escritório de advocacia, Castellucci Figueiredo e Advogados Associados.
+Em primeira instância, o agravante foi condenado à pena de 2 anos, 8 meses e 3 dias de reclusão, em regime inicialmente semiaberto, bem como ao pagamento de 24 dias-multa, no mínimo legal, pelo crime do art. 171, § 3º c/c art. 71, caput, do Código Penal.
+A condenação foi mantida pelo Tribunal de origem, de modo que a defesa interpôs recurso especial, inadmitido na origem pela incidência da Súmula 7/STJ. Contra essa decisão, foi interposto agravo, que não foi conhecido.
+O agravo regimental teve seu provimento negado, em acórdão assim ementado (e-STJ fl. 3225):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL. CRIME DE ESTELIONATO MAJORADO. PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA TRIBUTÁRIA A MUNICÍPIO. CONTRATAÇÃO SEM LICITAÇÃO. PREJUÍZO AOS COFRES PÚBLICOS. CONDENAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ABSOLVIÇÃO NA ESFERA CÍVEL QUE NÃO VINCULA A INSTÂNCIA CRIMINAL. INDEPENDÊNCIA ENTRE AS ESFERAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravo regimental impugna decisão que não conheceu do recurso especial com base na Súmula 7/STJ, por demandar revolvimento de matéria fático-probatória.
+2. A condenação do agravante foi fundamentada em prova robusta analisada pelas instâncias ordinárias, evidenciando o dolo na prática dos atos criminosos, em especial na obtenção de vantagem econômica indevida decorrente de contratação direta sem observância das normas legais.
+3. A absolvição do agravante no juízo cível não vincula a instância criminal, uma vez que são esferas independentes e o exame da esfera cível alicerçou-se em insuficiência de provas.
+4. Agravo regimental não provido.
+Nos presentes embargos de declaração, a defesa alega que não houve enfrentamento de precedentes apresentados que reconheceram a legalidade de contratações semelhantes realizadas pelo embargante, inclusive com anulação da condenação originária do embargante em sede de revisão criminal. Destaca que em dezembro de 2024 a Quinta Turma desta Corte absolveu o embargante pelos mesmos fatos, por atipícidade da conduta, e agora em março de 2025, o condena em outra contratação idêntica.
+Requer, assim, que sejam supridas as omissões, notadamente em relação às decisões colegiadas anteriores reconhecendo a legalidade de suas contratações públicas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL NÃO CONHECIDO. ÓBICE DA SÚMULA 7/STJ. INEXISTÊNCIA DOS VÍCIOS DO ART. 619 DO CPP. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada, devendo a parte embargante demonstrar a existência de obscuridade, contradição, omissão ou erro material na decisão embargada, nos termos do art. 619 do Código de Processo Penal.
+2. No caso, o recurso especial foi obstado com fundamento na Súmula 7/STJ, tendo sido expressamente consignado que a matéria suscitada demandava revolvimento do conjunto fático-probatório. Assim, a ausência de manifestação sobre o mérito das condutas ou sobre similitude com outros casos não configura omissão ou contradição.
+3. O embargante pretende, a pretexto de alegada omissão, superar o óbice que ensejou o não conhecimento do recurso especial para que haja pronunciamento sobre o mérito da ação penal.
+4. Entretanto, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+Consoante se extrai dos autos, o recurso especial interposto pelo embargante não foi conhecido, tendo em vista que o exame da matéria suscitada esbarrava no óbice da Súmula 7/STJ, por demandar revolvimento do conjunto fático-probatório. Tal circunstância foi expressamente consignada tanto na decisão monocrática quanto no acórdão ora embargado, que ratificou o fundamento impeditivo ao conhecimento da pretensão recursal.
+Nesse contexto, não houve pronunciamento sobre o mérito das condutas imputadas ao embargante, tampouco sobre eventual semelhança ou identidade com outros casos julgados por esta Corte Superior, razão pela qual não se pode falar em omissão ou contradição.
+No caso, o embargante pretende, a pretexto de alegada omissão, superar o óbice que ensejou o não conhecimento do recurso especial para que haja pronunciamento sobre o mérito da ação penal.
+Entretanto, o entendimento desta Corte é pacífico no sentido de que "os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)". (EDcl no AgRg no REsp n. 1339703/RS, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada ambiguidade, omissão, contradição ou obscuridade, mas mera irresignação do embargante com a solução apresentada por esta Corte Superior.
+Diante do exposto, rejeito os presentes embargos.
+É como voto.
