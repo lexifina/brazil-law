@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por UNIMED PAULISTANA SOC COOPERATIVA DE TRABALHO MEDICO - EM LIQUIDACAO EXTRAJUDICIAL contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7/STJ e da Súmula 83/STJ.
+A parte agravante sustenta, em síntese, que os pressupostos de admissibilidade do recurso especial foram atendidos, apontando suposta negativa de vigência aos arts. 18, d e f, e 34 da Lei 6.024/1974; 24-D da Lei 9.656/1998 e 197 da Lei 11.101/2005. Defende que a liquidação extrajudicial de cooperativa de planos de saúde afastaria a incidência de multa e de juros moratórios, de modo que a manutenção do acórdão recorrido violaria a legislação federal. Alega que não seria necessária a reanálise de fatos e provas para a revisão do julgado. Ao final, requer o afastamento dos óbices sumulares e o processamento do recurso especial, para que seja reconhecida a inaplicabilidade de juros e multa em razão do regime de liquidação extrajudicial.
+Sem contraminuta.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Em larga medida, discute-se se há demonstração fática de que a recorrente, na condição de cooperativa em liquidação extrajudicial, satisfaria todos os pressupostos para ser beneficiada pela vedação de juros e multas. Embora a tese jurídica invoque os dispositivos de lei especial, o julgamento da causa, tal como delineado, depende do exame das circunstâncias concretas que justificariam ou não a aplicação do regime diferenciado de liquidação.
+Ao analisar a pretensão de afastar encargos moratórios e penais, observando o contexto da liquidação extrajudicial, seria imprescindível verificar os elementos específicos dos autos  por exemplo, desde quando a recorrente se encontra submetida ao regime, quais débitos estariam sujeitos aos efeitos do art. 18 da Lei 6.024/1974, se houve ou não atos anteriores constituindo multa, providência vedada em razão do óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Ademais, a fundamentação adotada para manter a cobrança de multa e juros em face de cooperativa de planos de saúde em liquidação extrajudicial está em perfeita consonância com a jurisprudência desta Corte Superior, que entende inaplicáveis as disposições da Lei 6.024/1974 e da Lei 11.101/2005 sempre que se tratar de cooperativa civil sujeita a regime legal específico (Lei 5.764/1971 e Lei 9.656/1998).
+Tal harmonia com a orientação pacífica do STJ enseja a incidência da Súmula 83/STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Se o agravante entende que existe julgado superveniente ou contemporâneo que adote tese distinta daquela aplicada no caso, deveria ter demonstrado essa divergência jurisprudencial ou, ainda, a existência de um quadro fático-jurídico diferente, o que não se verifica na presente hipótese. Nesse contexto, a uniformidade do entendimento jurisprudencial sobre a inaplicabilidade das normas falimentares às cooperativas civis inviabiliza o conhecimento do recurso pela alínea c do permissivo constitucional, dado o óbice da Súmula 83 do STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Caso exista prévia fixação de honorários advocatícios, majoro-os em favor da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa ou sobre o proveito econômico obtido, observando-se os limites legais do § 3º do art. 85 do CPC.
+Intimem-se.
+ EMENTA
