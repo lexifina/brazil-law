@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de CLEBER VILLANOVA DE OLIVEIRA - que cumpre pena pela prática de crimes dolosos -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0006183-75.2024.8.26.0509), não comporta processamento.
+Busca a impetração a retificação dos cálculos da execução das penas impostas ao paciente, em trâmite perante o Juízo de Direito da Vara de Execução Criminal da comarca de Araçatuba/SP, ao argumento de que, embora tenha sido retirada da ficha do réu a anotação do cometimento de falta disciplinar de natureza grave, não foi efetivamente afastada a interrupção da data-base para fins de progressão de regime, sendo adotado como novo marco interruptivo o dia em que foi dado cumprimento ao mandado de prisão temporária advindo dos fatos ocorridos em 28. jul.20, piorando, portanto, a situação de Cléber (fl. 8).
+Ocorre que, da atenta análise dos autos, observa-se que se trata de apenado que estava em regime de prisão albergue domiciliar, quando cometeu novo delito, vindo a ser preso e condenado definitivamente (fl. 42). Logo, o marco interruptivo não decorre da infração disciplinar de natureza grave, reconhecidamente prescrita, no decorrer do cumprimento da pena, mas da própria condenação.
+Assim, o acórdão hostilizado não destoa da jurisprudência desta Corte Superior de Justiça, tendo asseverado que a superveniência de nova condenação, no curso do cumprimento da pena, deve ser considerada como marco interruptivo para progressão de regime prisional. Isso porque, contrariamente ao aduzido, não se cuida de interrupção do prazo pela prática de falta disciplinar, inclusive prescrita, mas, sim, pelo cometimento de novo delito no curso do cumprimento de pena. Portanto, em decorrência da unificação, correto o cálculo que considerou, como data-base, o dia da última prisão definitiva (fl. 68).
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. DATA DA ÚLTIMA PRISÃO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da uníssona jurisprudência desta Corte Superior, "seja no caso de unificação de penas, ou de crime único, deve ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, sob pena de se proclamar, como pena efetivamente cumprida, o período em que ele permaneceu em liberdade" (AgRg no HC n. 756.257/GO, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).
+2. No presente caso, o Juízo das execuções não se valeu da unificação das penas ou da data da última falta grave para fixar a data-base relativa à progressão de regime, como quer fazer parecer a defesa. As instâncias ordinárias apontaram, corretamente, a data da última prisão para a concessão do benefício, tendo em vista que o ora agravante cumpria pena em regime aberto quando cumprido o mandado prisional para dar início à execução de nova condenação. Precedente.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 898.807/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 23/5/2024 - grifo nosso).
+Assim, não verifiquei a ocorrência do alegado constrangimento.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. DATA DA ÚLTIMA PRISÃO. ILEGALIDADE FLAGRANTE. AUSÊNCIA.
+Inicial indeferida liminarmente.
