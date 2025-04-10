@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIEL HENRIQUE DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Revisão Criminal n. 2214652-67.2024.8.26.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 20 anos de reclusão e ao pagamento de 10 dias-multa, pela prática do crime de latrocínio.
+Irresignada, a defesa ajuizou revisão criminal que foi indeferida pelo Quarto Grupo de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, conforme acórdão assim ementado:
+"EMENTA: DIREITO PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. LATROCÍNIO (ARTIGO 157, § 3º, PARTE FINAL, DO CÓDIGO PENAL). ALEGAÇÃO DE CONDENAÇÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS, BUSCANDO-SE, ASSIM, A ABSOLVIÇÃO POR FRAGILIDADE PROBATÓRIA, DESCLASSIFICAÇÃO DA CONDUTA E ABRANDAMENTO DAS PENAS. INDEFERIMENTO DO PEDIDO.
+1. Revisão Criminal fundamentada no artigo 621, III, do Código de Processo Penal. Discute-se aqui se a condenação é contrária à evidência dos autos e se houve cooperação dolosamente distinta a exigir a desclassificação da conduta imposta ao peticionário.
+2. Descabimento. Condenação que resultou, no caso, do exame do acervo probatório produzido, inocorrendo participação de menor importância ou cooperação dolosamente distinta procedendo-se à dosagem do apenamento e imposição do regime com motivação bastante em obediência ao regramento aplicável. Contrariedade à prova ou à evidência dos autos inexistente. Revisão criminal que não se presta à mera reiteração de teses jurídicas, como fosse nova apelação. Precedentes.
+3. Ação revisional indeferida." (fl. 42)
+No writ, em síntese, a defesa se insurge contra a condenação e a dosimetria.
+Sustenta a inexistência de prova de autoria ou coautoria, afirmando ser necessária nova oitiva do paciente e, se possível, dos corréus. Argui a nulidade da condenação, por supostamente estar fundamentada em depoimentos prestados na fase investigativa e na palavra de corréu, o qual teria mentido.
+Assere que não houve a individualização de condutas.
+Argumenta erro na dosimetria, destacando que embora o paciente apresentasse condições pessoais favoráveis, como menoridade relativa e primariedade, restou condenado ao cumprimento de pena análoga à aplicada ao corréu, o qual seria reincidente e confessou participação na prática delitiva.
+Requer o deferimento de liminar para determinar nova oitiva do paciente. No mérito, pretende seja concedida a ordem para absolver o paciente, desclassificar a conduta ou redimensionar a pena.
+A liminar foi indeferida às fls. 1383/1385. O Ministério Público opinou pelo não conhecimento do writ às fls. 1396/1398.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ, sendo possível tão somente a verificação relativa a exist ência de flagrante ilegalidade ao direito de locomoção, que justifique a concessão da ordem, de ofício, o que não ocorre no presente caso.
+Conforme relatado, busca-se, no presente habeas corpus, a absolvição do paciente, desclassificação da conduta ou o redimensionamento da pena.
+Da análise dos autos, observa-se que as questões suscitadas no presente writ não foram objeto de exame no acórdão impugnado, o que obsta o seu exame por este Tribunal Superior, sob pena de supressão de instância.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. SÚMULA N. 182/STJ. CRIME DE TRÁFICO DE DROGAS. SUPOSTA VIOLAÇÃO DE DOMICÍLIO. QUESTÃO NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. APREENSÃO DE CONSIDERÁVEL QUANTIDADE/VARIEDADE DE DROGAS, ALÉM DE UMA ARMA DE FOGO. INDEVIDA APLICAÇÃO DE MEDIDAS CAUTELARES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Neste agravo regimental, não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no Enunciado n. 182 da Súmula desta Corte Superior e inviabilizam o conhecimento do agravo, por violação do princípio da dialeticidade.
+2. O prequestionamento das teses jurídicas constitui requisito de admissibilidade da via eleita, inclusive em se tratando de matérias de ordem pública, bem como em caso de suposta nulidade absoluta, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior.
+3. Na hipótese, a ilicitude aventada pela defesa (violação de domicílio) sequer foi debatida pela Corte local, visto que não constou da inicial do writ originário, motivo pelo qual esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+4. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida.
+5. No caso, a prisão preventiva está devidamente justificada, diante das circunstâncias concretas do flagrante, evidenciada pela expressiva quantidade/variedade de drogas em poder do acusado - 71 porções de cocaína, 92 porções de crack, 4 porções de maconha, 10 porções de haxixe e, ainda, um comprimido de ecstasy - além de uma arma de fogo. Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+6. Por fim, Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública (AgRg no HC n. 850.164/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 12/9/2023, DJe de 18/9/2023).
+7. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 980.090/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025.)
+Ante o exp osto, com fundam ento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
