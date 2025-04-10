@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JORGE SEITENFUS, LILIANE VINHAS SEITENFUS e por SIMONE SEITENFUS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 202-205):
+"APELAÇÃO. BUSCA E APREENSÃO. RESTITUIÇÃO DE BENS. CONTRARRAZÕES INTEMPESTIVA. MERA IRREGULARIDADE. AUSÊNCIA DE PROVA SOBRE A ORIGEM LÍCITA DOS BENS. MANUTENÇÃO PARCIAL DA APREENSÃO. INTERESSE AO PROCESSO.
+I - A apresentação de contrarrazões fora do prazo se constitui em mera irregularidade, não trazendo mácula ao Parecer Ministerial, e tão pouco ao processo.
+II - Não tendo encerrado o Procedimento Investigatório Criminal, e inexistindo prova inequívoca de que os valores apreendidos possuem origem lícita, incluindo as moedas estrangeiras adquiridas em nome de pessoas não investigadas, deve ser mantida a apreensão, nos termos do art. 118, do CPP.
+III - Ainda, considerando o tempo decorrido, necessária a devolução do aparelho celular apreendido, no prazo de 30 (trinta) dias, cabendo ao Ministério Público providenciar nas cópias que entenda necessárias para a investigação.
+APELAÇÃO PARCIALMENTE PROVIDA"
+Opostos embargos de declaração (e-STJ, fls. 215-221), os quais foram rejeitados (e-STJ, fls. 245-247).
+Em suas razões recursais, a parte recorrente aponta violação do art. 4º do Código Penal, dos arts. 118, 119, 155, 156, 240, 600 e 610 do Código de Processo Penal, além do art. 489 do Código de Processo Civil. Aduz, para tanto, em síntese, a origem lícita dos valores e dos bens apreendidos. Afirma que o acórdão recorrido não enfrentou os requisitos para a restituição e que as transações foram realizadas antes dos fatos apurados. Alega que a finalidade da busca e apreensão foi confundida com medida cautelar. Frisa que as contrarrazões do Ministério Público foram apresentadas fora do prazo do art. 600 do CPP e que houve emissão do parecer ministerial em segundo grau sem previsão legal, conforme art. 610 do CPP.
+Com contrarrazões (e-STJ, fls. 311-326), o recurso especial da defesa foi inadmitido (e-STJ, fls. 352-357), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 417-421).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Quanto à origem ilícita dos bens apreendidos e eventual possibilidade de restituição, destaco trecho do acórdão (e-STJ, fl. 204):
+"Conforme registrado no feito, o Procedimento Investigatório que ensejou a busca e apreensão não encerrou, em face do número expressivo de elementos indiciários apreendidos, o que não permite a restituição de bens considerados necessários ao processo, na forma do art. 118, do CPP.
+Considerando que a investigação tem como foco, entre outros, os delitos de concussão e crimes contra à ordem tributária, a partir de cobranças indevidas de valores de pacientes do SUS, não é possível, neste momento, a devolução dos valores apreendidos.
+Sobre os documentos apresentados, comprovantes do Banco do Brasil (evento 1, OUT3, evento 1, OUT4 e evento 1, OUT5), indicando que os valores em dólares americanos foram obtidos pelas apelantes Liliane Vinhas Seitenfus e Simone Seitenfus, muito embora demonstrada sua aquisição legal, inexiste prova inequívoca de que tiveram origem legal, motivo pelo qual não é possível a liberação de tais numerários.
+Veja-se que os valores sob comento foram apreendidos no momento do cumprimento do mandado de busca e apreensão, na residência do investigado Jorge Seitenfus, não tendo as investigadas apresentado provas de que as referidas quantias sejam fruto de suas atividades laborais.
+Acrescente-se, ainda, que, de acordo com os registros bancários, apenas Liliane Vinhas Seitenfus possui conta no Banco do Brasil, sendo que a operação realizada por Simone Seitenfus, naquele banco, foi como "não cliente".
+Quanto aos valores alegados de propriedade de Jorge Seitenfus, de igual modo, não é possível reconhecer a legalidade da sua origem, posto que a investigação não encerrou. Para além disso, os documentos apresentados não revelam que esses valores recebidos pelo investigado Jorge sejam os mesmos apreendidos em espécie, ou tenham sido utilizados para a aquisição das moedas estrangeiras.
+O Tribunal local, portanto, fundamentou de maneira adequada a manutenção do interesse e necessidade na manutenção da restrição aos bens. Eventual licitude, diante da tese do tempo em que realizada as transações, consoante apontado pela Corte, também demandará a evolução das investigações para ser aferida. A inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. Nesse sentido:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O SISTEMA FINANCEIRO. MEDIDA CAUTELAR. SEQUESTRO. INDÍCIOS VEEMENTES DA ORIGEM ILÍCITA DOS BENS. REEXAME PROBATÓRIO. SUBSTITUIÇÃO ARRESTO. SÚMULA 284/STF. EXCESSO DE PRAZO. CASO COMPLEXO. SÚMULA 83/STJ. IMPROVIMENTO.
+1. Para se que seja afastada a existência de fundados motivos e, outrossim, de indícios veementes para a decretação das medidas assecuratórias de sequestro e arresto apontadas no acórdão recorrido seria indispensável o revolvimento de material fático-probatório, inviável em recurso especial.
+2. As recorrentes não expuseram suficientemente de que modo os arts.
+125 e 126 do Código de Processo Penal foram violados, impedindo a exata compreensão da controvérsia perante a deficiência na fundamentação do recurso, incidindo, por analogia, a Súmula n. 284/STF.
+3. Caso o atraso seja justificado pelas peculiaridades da causa, complexa e com pluralidade de autores, justificando-se a dilação do prazo, inexiste ofensa ao art. 131, I, do Código de Processo Penal.
+Incidência da Súmula n. 83/STJ. Precedentes do STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 591.543/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 27/2/2018, DJe de 8/3/2018.)"
+Referete à apresentação de contrarrazões ministeriais fora do prazo legal e da apresentação de parecer pelo parquet em segundo grau de jurisdição, decidiu a Corte local (e-STJ, fl. 203):
+"Inicialmente, afasto o pedido de desentranhamento das contrarrazões ministeriais, visto que a sua apresentação fora do prazo constitui em mera irregularidade, não trazendo prejuízo ao processo1. De igual modo, não prospera o pedido de desconsideração do parecer Ministerial, apresentado neste grau de jurisdição, pois tão somente evidencia as convicções do seu signatário, não existindo qualquer ilegalidade por conta disto."
+Com razão a Corte de origem. É entendimento desta Corte Superior que mesmo as razões do recurso de apelação apresentadas fora do prazo pelo Ministério Público caracterizam mera irregularidade. Diante de tal inteligência, segundo a qual a tolerância é deferida para as razões do próprio recurso interposto pela parte, as quais estendem a apreciação da Corte às pretensões devolutivas do parquet, com maior razão afasta-se qualquer alegação de nulidade diante da apresentação extemporânea das contrarrazões, que detém limite argumentativo estabelecido pelas próprias razões da defesa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. ABSOLVIÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. ENUNCIADO SUMULAR N. 7 DO STJ. APRESENTAÇÃO EXTEMPORÂNEA DAS RAZÕES DE APELAÇÃO. MERA IRREGULARIDADE. VERBETE SUMULAR N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DE EMENTAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem, após minucioso exame do caderno probatório, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do agravante pela prática do delito previsto no art. 140, § 3º, do CP.
+2. Para desconstituir essa conclusão - afirmar que o conjunto probatório apresentado é insuficiente - necessário seria o reexame das provas acostadas aos autos, o que é vedado pelo enunciado sumular n. 7 desta Corte.
+3. Ao conhecer do recurso ministerial, o Tribunal estadual decidiu em consonância com o entendimento do Superior Tribunal de Justiça, de que a apresentação das razões recursais do recurso de apelação fora do prazo a que se refere o art. 600 do CPP (8 dias) constitui mera irregularidade e não impede o seu conhecimento, a incidir, no ponto, o óbice do verbete sumular n. 83 do STJ.
+4. Não foi demonstrada a similitude fática entre o aresto recorrido e os acórdãos alçados a paradigmas, pois a defesa se limitou a transcrever as ementas dos acórdãos paradigmas, afirmando se tratar da mesma situação, sem, no entanto, elencar comparativamente os pontos semelhantes ou diferentes dos julgados ou apresentar transcrição dos trechos do acórdão impugnado e paradigmas de forma que fosse possível evidenciar o suposto dissídio jurisprudencial.
+5. Agravo regimental não provido."
+(AgRg no AREsp n. 2.307.761/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 27/2/2024, DJe de 4/3/2024.)
+No que diz respeito ao parecer apresentado pelo parquet, não vislumbro igualmente qualquer violação a dispositivo legal. Isso porque se trata de mero ato opinativo, sem efeitos vinculantes à prestação jurisdicional, e que, portanto, não macula o livre convencimento motivado a ser expresso na fundamentação da decisão judicial.
+Consoante tal entendimento, não se demonstra qualquer prejuízo pela apresentação de manifestação ministerial que, em maior grau, tem por missão institucional a defesa da ordem jurídica. Em consequência, a teor do art. 563 do Código de Processo Penal, não há qualquer nulidade a ser reconhecida quanto ao ponto.
+A propósito:
+"DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. BUSCA DOMICILIAR. NULIDADE NÃO RECONHECIDA. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado em favor do agravante, que pretendia o reconhecimento da nulidade de busca domiciliar e sua consequente absolvição.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a fuga do agravante ao avistar a polícia legitima a busca domiciliar realizada sem autorização judicial.
+3. A questão também envolve a análise da vinculação do julgador ao parecer do Ministério Público, que opinou pela nulidade da busca domiciliar.
+III. Razões de decidir
+4. O parecer do Ministério Público não possui efeito vinculante, sendo meramente opinativo, e o julgador não está obrigado a segui-lo, em respeito ao livre convencimento motivado.
+5. A fuga do agravante de dentro de sua residência ao avistar a polícia configura motivo idôneo para autorizar a busca domiciliar, mesmo sem autorização judicial, diante da fundada suspeita de posse de corpo de delito.
+6. A decisão agravada foi mantida, pois a busca domiciliar foi legitimada pela conduta do agravante, que fugiu ao ser perseguido pelos policiais, indicando possível prática de ilícito penal.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. O parecer do Ministério Público é opinativo e não vincula o julgador. 2. A fuga ao avistar a polícia pode legitimar a busca domiciliar sem autorização judicial, desde que haja fundada suspeita de posse de corpo de delito".
+Dispositivos relevantes citados: CPP, art. 244.
+Jurisprudência relevante citada: STJ, AgRg no HC 640.178/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 27/5/2021; STJ, AgRg no RHC 168.552/PR, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 19/4/2023; STJ, HC 877.943/MS, Rel. Min. Rogerio Schietti Cruz, Terceira Seção, DJe 15/5/2024."
+(AgRg no HC n. 919.943/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/2/2025, DJEN de 26/2/2025.)
+Por fim, não há prequestionamento da tese segundo a qual a finalidade da busca e apreensão foi confundida com medida cautelar. Com efeito, apesar da oposição dos embargos de declaração, o Tribunal de origem não se manifestou sobre a matéria tratada pela parte recorrente, o que atrai a incidência da Súmula 211/STJ. Tampouco pode ser admitido o prequestionamento ficto do tema, pois o recurso especial não demonstrou ofensa ao art. 619 do CPP, para que fosse possível aferir eventual omissão da Corte local. Nesse sentido:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. INAPLICABILIDADE. REINCIDÊNCIA DO RÉU E PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. REGIME SEMIABERTO. POSSIBILIDADE. CRIMES DE VIOLAÇÃO DE DOMICÍLIO E LESÃO CORPORAL. DELITOS AUTÔNOMOS. BENS JURÍDICOS DISTINTOS. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Entende esta Corte que o prequestionamento ficto é possível até mesmo na esfera penal, desde que no recurso especial tenha o recorrente apontado violação ao art. 619 do CPP (dispositivo do CPP correspondente ao art. 1.022 do CPC), a fim de permitir que o órgão julgador analise a (in)existência do vício assinalado e, acaso constatado, passe desde então ao exame da questão suscitada, suprimindo a instância inferior, se necessário, consoante preleciona o art. 1.025 do CPC. Precedentes." (AgRg no REsp 1.669.113/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/4/2018, DJe 11/5/2018).
+ ..
+4. Agravo regimental desprovido".
+(AgRg no REsp n. 1.902.294/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/3/2021, DJe de 8/3/2021.)
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp n. 1.721.960/SC, relator Ministro Felix Fischer, Quinta Turma, julgado em 20/10/2020, DJe de 12/11/2020.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a" e "b", do Regimento Interno do STJ, conheço do agravo para conhecer em parte do recurso especial e, nesta extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
