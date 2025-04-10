@@ -1,0 +1,54 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por EDEVILDA ROSA SIGNORINI, OSVALDO DORVALINO SIGNORINI e ADERSON LUIZ SIGNORINI, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/11/2024.
+Concluso ao gabinete em: 26/03/2025.
+Ação: demarcatória cumulada com divisão/extinção de condomínio e reintegração de posse, ajuizada por CLAIR DA SILVA, parte ora agravada, em face dos ora agravantes.
+Pugna pela concessão de tutela de urgência para reintegrar a posse da servidão de passagem que o autor manteve sobre os dois acessos aos seus imóveis (Lotes nº 06 e 07).
+No mérito, requer que seja realizada a demarcação, divisão, localização do quinhão de cada condômino e extinção da comunhão.
+Sentença: julgou improcedentes os pedidos, bem como declarou "a propriedade dos requeridos sobre a área de 1.529m  indicada em cor amarela no mapa do Evento 1, OUT18, cujo número de lote e matrícula não restaram devidamente esclarecidos nos autos" (e-STJ fls. 328/329).
+Acórdão: deu parcial provimento à apelação interposta pela parte ora agravada "para julgar procedente em parte o pedido, determinando a reintegração do autor na posse das duas servidões de trânsito existentes junto ao imóvel da parte ré, ficando decotada na parte que declara a propriedade da parte ré sobre parte do bem em litígio" (e-STJ fl. 456), nos termos da seguinte ementa (e-STJ fl. 457):
+"APELAÇÃO CÍVEL. DIVISÃO E DEMARCAÇÃO DE TERRAS PARTICULARES. AÇÃO DEMARCATÓRIA CUMULADA COM REINTEGRAÇÃO DE POSSE E EXTINÇÃO DE CONDOMÍNIO. 1) PRELIMINAR DE NÃO CONHECIMENTO DO APELO POR DESERÇÃO AFASTADA. AUTOR QUE LITIGA COM O AMPARO DA AJG. GRATUIDADE DA JUSTIÇA MANTIDA. 2) CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVA DOS AUTOS QUE SE MOSTRA SUFICIENTE AO JULGAMENTO DA LIDE. 3) SENTENÇA DECOTADA, DE OFÍCIO, QUANTO AO RECONHECIMENTO DE PROPRIEDADE DO RÉU. EXCEÇÃO DE USUCAPIÃO DEDUZIDA COMO MATÉRIA DE DEFESA QUE NÃO IMPLICA DECLARAÇÃO DE PROPRIEDADE PARA FINS DE TRANSCRIÇÃO NO REGISTRO DE IMÓVEIS. 4) PLEITO DEMARCATÓRIO E DE EXTINÇÃO DE CONDOMÍNIO AFASTADOS PELO ACOLHIMENTO DA EXCEÇÃO DO USUCAPIÃO DEDUZIDA PELA PARTE RÉ. 5) REINTEGRAÇÃO DE POSSE. CABIMENTO. SERVIDÃO DE TRÂNSITO, QUE NÃO SE CONFUNDE COM SERVIDÃO DE PASSAGEM FORÇADA. PRESSUSPOSTOS DO ART. 561, DO CPC PREENCHIDOS. EVENTUAL EXTINÇÃO DE SERVIDÃO QUE DEVE SER BUSCADA PELO RÉU EM AÇÃO PRÓPRIA. RECURSO PROVIDO EM PARTE."
+Embargos de declaração: opostos pela parte ora agravante, foram rejeitados.
+Recurso especial: alega, além da existência de dissídio jurisprudencial, violação do art. 561, III, do CPC, sustentando, em síntese, que: (i) "ficou assente que os réus ocupam a área há mais de 20 (vinte) anos e que a cerca que teria turbado ou esbulhado a posse do autor nas Servidões foi construída também há muitos anos, porém em nenhum momento, em nenhum lugar dos autos está dito e/ou mencionado de alguma forma, e muito menos provado, a data desse esbulho ou turbação" (e-STJ fl. 511) (ii) o autor não informou, demonstrou ou provou a data da turbação ou esbulho, nem fez menção a essa data nos boletins de ocorrência juntados com a inicial; (iii) se o autor tivesse comprovado essa data, sua pretensão de reintegração de posse estaria fulminada pela prescrição decenal.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que quanto à tese de ocorrência de prescrição, a parte agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 2.158.801/RJ, 4ª Turma, DJe 6/11/2023; e AgInt no REsp n. 1.974.581/RS, 3ª Turma, DJe 17/8/2022.
+- Do reexame de fatos e provas
+O TJ/RS ao analisar o recurso interposto pela parte agravada, concluiu o seguinte (e-STJ fls. 453/456):
+"Quanto à questão de fundo, registro, de plano, que merece decote, de ofício, o dispositivo da sentença no tocante ao reconhecimento de propriedade aos réus.
+Isso porque, embora a exceção de usucapião possa ser deduzida como matéria de defesa, na forma da Súmula 237, do STJ, o acolhimento da tese não implica declaração de propriedade para fins de transcrição no Registro de Imóveis.
+Dito isso, entendo que não procede o pleito demarcatório e de extinção de condomínio, pois, tal como concluiu a sentença recorrida e o Procurador de Justiça com atuação neste Colegiado, restam afastados pelo acolhimento da exceção do usucapião deduzida pela parte ré.
+No caso, a petição inicial foi instruída com cópia de boletins de ocorrência policial registrados pelo autor, declaração firmada por terceiro informando a obstrução de acesso às suas terras, bem como com fotografias da área e cópias das matrículas dos imóveis.
+A parte ré, por sua vez, acostou imagem de satélite da área que ocupa e cópia das matrículas dos imóveis objeto da lide.
+Em audiência de instrução foi colhido o depoimento pessoal do autor, bem como foram ouvidas testemunhas, cujos depoimentos, visualizados os respectivos vídeos por esta Relatora, foram registrados, de forma resumida, no parecer ministerial, ora transcritos:
+(..)
+Extrai-se da prova oral colhida que a parte ré efetivamente ocupa a integralidade do Lote 05 e a alegada parte invadida do Lote 06 há mais de 15 anos, sem interrupção e oposição do autor, a autorizar o acolhimento da exceção de usucapião. No aspecto, as testemunhas Valdelino e Moisés afirmaram que a ocupação da área pelos requeridos, na qual há cerca, ainda que possa estar em mau estado de conservação, se dá há pelo menos 20 anos, o que é corroborado pela testemunha Eraldo.
+Os registros de ocorrência policial realizados nos anos de 2020 e 2021 pelo autor, de seu turno, não tem o condão de afastar a situação consolidada, tratando-se de medida incapaz, por si só, de interromper a prescrição aquisitiva.
+Portanto, reconhecida a prescrição aquisitiva e eliminada a incerteza acerca dos marcos divisórios, fica afasto o direito do titular de domínio de aviventar divisas. Também não há falar em extinção de condomínio, uma vez que reconhecida a propriedade da parte demandada, sendo a usucapião meio originiário de aquisição.
+(..)
+No que tange à pretensão de reintegração na posse das servidões que dão acesso à propriedade do demandante, tenho que melhor sorte lhe assiste.
+De anotar que a própria parte ré reconhece a existência das referidas servidões, destacando que uma delas foi desativada por não mais ser utilizada, enquanto a outra ainda se encontraria em uso, assim referindo em defesa:
+(..)
+Ocorre que a prova testemunhal, assim como serve a demonstrar a prescrição aquisitiva, evidencia que as servidões de passagem sempre existiram no local, tendo sido obstruídas, inviabilizando o acesso do autor. Nesse sentido, os depoimentos das testemunhas Eraldo, Antônio, Alexandre e Valdelino, corroborados ainda pelas fotografias acostadas com a inicial.
+Salienta-se, de outro turno, que nenhuma prova fez a parte ré do alegado desuso de uma das servidões de trânsito, o que ficou apenas no plano das alegações.
+(..)
+Nesse passo, sendo incontroversa a existência de duas servidões de trânsito em favor do autor, bem ainda preenchidos os pressupostos do art. 561, do CPC, quais sejam, a prova da posse anterior e a perda de posse por ato praticado pelos demandados, autorizada está a proteção possessória.
+Impende consignar que se mostraria inviável a propositura de nova demanda visando ao reconhecimento da existência da servidão, na medida em que, sendo objeto desta demanda, a matéria estaria abarcada pela coisa julgada, merecendo exame nos presentes autos de acordo com a prova produzida.
+Ainda, não se confunde a servidão de trânsito, como no caso, com a servidão de passagem forçada, de modo que prescindível o debate sobre o encravamento do imóvel do requerente, cabendo à parte ré, se for o caso, bucar a extinção das servidões, e não impedir o acesso do autor ao local por conta própria.
+(..)
+Portanto, vai reformada a sentença para julgar procedente em parte o pedido, determinando a reintegração do autor na posse das duas servidões de trânsito existentes junto ao imóvel da parte ré, ficando decotada na parte que declara a propriedade da parte ré sobre parte do bem em litígio." (grifou-se)
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III eV, "a", do CPC, bem como na Súmula 568/STJ, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, condeno a parte agravante, a título de honorários recursais, ao pagamento de mais 2% (dois cento) em favor do procurador da parte agravada, observados os efeitos de eventual concessão do benefício de gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DEMARCATÓRIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação demarcatória.
+2. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
