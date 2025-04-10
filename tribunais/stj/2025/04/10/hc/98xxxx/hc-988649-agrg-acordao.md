@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. DECISÃO JUDICIAL FUNDAMENTADA. SÚMULA 439/STJ. INCIDÊNCIA DO ENUNCIADO N. 691 DA SÚMULA DO STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento consolidado de que não cabe habeas corpus contra decisão que indefere liminar em outro writ, salvo nas hipóteses de manifesta ilegalidade ou teratologia, nos termos da Súmula n. 691 do Supremo Tribunal Federal.
+2. Não se verifica ilegalidade patente na decisão agravada, que manteve a determinação de realização de exame criminológico, fundamentada na gravidade concreta do crime, na reincidência e no cometimento de falta disciplinar grave durante a execução da pena, estando a medida, a princípio, respaldada na Súmula 439 desta Corte.
+3. A questão relativa à aplicação retroativa da Lei n. 14.843/2024 e à eventual omissão estatal na estruturação da unidade prisional demanda análise mais aprofundada pelo Tribunal de origem, não cabendo sua apreciação prematura por esta Corte Superior sob pena de supressão de instância.
+4. Agravo regimental não provido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por FLÁVIO CÍCERO DA SILVA VANSOLIN contra decisão que indeferiu liminarmente habeas corpus impetrado em seu favor.
+Narra o impetrante que o agravante cumpre pena privativa de liberdade e já teria preenchido os requisitos objetivos e subjetivos necessários à progressão ao regime semiaberto desde 15/1/2024, mas teve o pedido negado pelo juízo das execuções com fundamento na Lei n. 14.843/2024, que, ao alterar o § 1º do art. 112 da Lei de Execução Penal, passou a exigir a realização de exame criminológico.
+Impetrado habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, o pedido liminar foi indeferido, sob o fundamento de que a determinação judicial estaria amparada na possibilidade, prevista inclusive na Súmula 439 do STJ, de requisição do exame criminológico, desde que motivada.
+Diante disso, foi impetrado habeas corpus perante esta Corte Superior, indeferido liminarmente pela decisão ora agravada, com fundamento na Súmula 691 do Supremo Tribunal Federal (e-STJ fls. 28/30).
+Irresignado, o impetrante interpôs o presente agravo regimental, reiterando que a aplicação da Lei n. 14.843/2024 ao caso concreto implica violação ao princípio da irretroatividade da lei penal mais gravosa (art. 5º, XL, da CF), uma vez que os delitos foram praticados antes da vigência da referida legislação. Sustenta, ademais, que a unidade prisional não possui equipe para realização do exame, ocasionando demora injustificada na progressão de regime.
+Requer, assim, o provimento do agravo regimental, com a concessão da ordem, ainda que de ofício, para afastar a exigência de exame criminológico.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. DECISÃO JUDICIAL FUNDAMENTADA. SÚMULA 439/STJ. INCIDÊNCIA DO ENUNCIADO N. 691 DA SÚMULA DO STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Superior Tribunal de Justiça possui entendimento consolidado de que não cabe habeas corpus contra decisão que indefere liminar em outro writ, salvo nas hipóteses de manifesta ilegalidade ou teratologia, nos termos da Súmula n. 691 do Supremo Tribunal Federal.
+2. Não se verifica ilegalidade patente na decisão agravada, que manteve a determinação de realização de exame criminológico, fundamentada na gravidade concreta do crime, na reincidência e no cometimento de falta disciplinar grave durante a execução da pena, estando a medida, a princípio, respaldada na Súmula 439 desta Corte.
+3. A questão relativa à aplicação retroativa da Lei n. 14.843/2024 e à eventual omissão estatal na estruturação da unidade prisional demanda análise mais aprofundada pelo Tribunal de origem, não cabendo sua apreciação prematura por esta Corte Superior sob pena de supressão de instância.
+4. Agravo regimental não provido.
+VOTO
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, o juízo das execuções, ao determinar a realização de exame criminológico, fundamentou a decisão nos seguintes termos (e-STJ fl. 16):
+Diante da normatização acerca da realização de exame criminológico, a fim de aferir a presença do requisito subjetivo para a progressão de regime prisional, nos termos do artigo 112, §1º da Lei de Execução Penal, adicionada à reincidência do sentenciado, Flávio Cícero da Silva Vansolin, o pedido deve ser analisado com a máxima cautela.
+Ainda, ante a peculiaridade do caso, em que pese o cumprimento do requisito objetivo à obtenção do benefício, consoante Cálculo de Pena acostado a folhas 915/917, faz-se necessária uma análise mais profunda da personalidade do reeducando e de suas reais condições para ser beneficiado com a progressão de regime e retornar, gradativamente, ao convívio social.
+Isso porque o sentenciado é reincidente, possui condenação pela prática de crime hediondo, homicídio qualificado.
+Ademais, durante o cumprimento da sanção privativa de liberdade, praticou falta disciplinar grave (fls. 1473), indicativo de falha na assimilação da terapêutica penal.
+Com efeito, é absolutamente razoável, e por que não dizer recomendável, que, em casos tais, em razão da gravidade em concreto da conduta perpetrada e à vista dos demais elementos constantes dos autos, o magistrado tenha cautela e se socorra de técnicos para o auxiliar na formação do seu convencimento sobre a conveniência da progressão do sentenciado para regime de cumprimento de pena mais brando.
+Convém destacar ainda que, no regime intermediário, o sentenciado terá direito a saídas temporárias, retornando, ainda que por curtos intervalos de tempo, ao convívio social, o que torna ainda mais imprescindível a necessidade de um prognóstico minimamente favorável.
+E assim é que se decide tendo em vista a dicção da Súmula 439 do Colendo Superior Tribunal de Justiça.
+Sendo assim, determino a realização de exame criminológico de Flávio Cícero da Silva Vansolin, MTR: 190576, RG: 31964279, RGC: 50315816, Penitenciária "Maurício Henrique Guimarães Pereira" - Venceslau II, oficiando-se ao Diretor do estabelecimento prisional para que o providencie, em até 30 (trinta) dias.
+O Desembargador Relator, ao indeferir a liminar, ponderou o seguinte (e-STJ fls. 11/13):
+A providência liminar em habeas corpus é excepcional. Está reservada para os casos em que o alegado constrangimento se afigura claro, o que não ocorre no caso.
+Isto porque, mesmo antes do advento da Lei nº 14.843/24, já se estabeleceu que o juiz podia requisitar o exame criminológico, desde que fundamentada a decisão. Há, inclusive, Súmula do C. STJ (n.º 439), in verbis: Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+Ademais, já se decidiu que o habeas corpus, como regra, não é substitutivo recursal e não se presta para apressamento de incidentes processuais de execução.
+Com efeito, não se verifica ilegalidade patente no indeferimento da liminar. A determinação de realização de exame criminológico para a análise do requisito subjetivo à progressão de regime está, a princípio, amparada na Súmula 439 desta Corte, segundo a qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+No caso, a decisão do juízo da execução, cuja legalidade foi questionada no habeas corpus originário, não se baseou apenas na recente alteração legislativa trazida pela Lei n. 14.843/2024, mas sim em elementos concretos dos autos, como a reincidência em crime hediondo e o cometimento de falta grave durante o cumprimento da pena.
+Ademais, a questão relativa à irretroatividade da lei penal mais gravosa e à suposta ausência de estrutura na unidade prisional para a realização do exame criminológico envolve análise mais aprofundada, o que recomenda aguardar a manifestação definitiva do Tribunal de origem.
+Ou seja, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
