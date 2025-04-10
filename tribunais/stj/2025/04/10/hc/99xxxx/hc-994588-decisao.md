@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se  de  habeas  corpus  substitutivo  de  recurso  próprio,  com pedido de liminar,  impetrado  em  favor  de  JOSE DAMIAO LIMA  contra  acórdão  do  Tribunal  de  Justiça  do Estado de Pernambuco (Apelação Criminal n. 0000823-38.2023.8.17.3390).
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, §2º, incisos I e IV, c/c o art. 14, inciso II, ambos do Código Penal.
+Nesta  Corte,  a  defesa  sustenta  a nulidade da decisão de pronúncia, sustentando que se baseou unicamente em depoimentos extrajudiciais e testemunhas de "ouvir dizer" (e-STJ, fls. 2-12.)
+Afirma que a vítima não compareceu à audiência de primeira fase, nem ao Plenário do Júri, porquanto não encontrada, havendo, inclusive, redesignação dos atos processuais. Salienta que apenas duas testemunhas foram ouvidas em juízo, sendo que - Henrique Francisco da Silva e Ana Paula Rezende - não presenciaram os fatos.
+Requer, liminarmente, a suspensão dos efeitos da sentença condenatória, com a consequente soltura imediata do paciente até o julgamento definitivo do presente habeas corpus. No mérito, requer a concessão da ordem para despronunciar o paciente.
+É  o  relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No acórdão impugnado, constou:
+"De início, quanto à preliminar de nulidade da decisão de pronúncia, observo que a matéria se encontra preclusa.
+Com efeito, eventuais nulidades da decisão de pronúncia devem ser arguidas no momento processual oportuno e pela via recursal adequada - qual seja, o recurso em sentido estrito, conforme preceitua o art. 581, IV, do Código de Processo Penal.
+Essa é a orientação jurisprudencial sedimentada nos Tribunais Superiores, que reconhecem a impossibilidade de rediscutir, em sede de apelação contra decisão do Tribunal do Júri, matéria atinente à decisão de pronúncia não impugnada tempestivamente por meio do recurso próprio.
+(..)
+No caso em análise, verifica-se que a defesa não interpôs recurso em sentido estrito contra a decisão de pronúncia, operando-se, assim, a preclusão quanto à matéria. A via eleita - apelação criminal contra a decisão do Tribunal do Júri - não se presta a rediscutir questões que deveriam ter sido suscitadas em momento anterior por meio do recurso adequado. Assim, rejeito a preliminar suscitada." (e-STJ, fl. 16-18)
+Observe-se que a tese de nulidade da pronúncia não foi apreciada pelo Tribunal Estadual, por considerar pre clusa a questão, o que impede o conhecimento da matéria por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NULIDADE. ACESSO DESAUTORIZADO A DADOS TELEFÔNICOS. PRECLUSÃO. TESE ARGUIDA APÓS DESIGNAÇÃO DA SESSÃO PLENÁRIA PERANTE O TRIBUNAL DO JÚRI E APÓS 17 ANOS DE TRAMITAÇÃO DA AÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE PEDIDO. SUPERVENIÊNCIA DA CONDENAÇÃO. PREJUDICIALIDADE. ALTERAÇÃO DE JURISPRUDÊNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A análise da tese de nulidade das provas utilizadas para denunciar e pronunciar o ora agravante, notadamente em razão do acesso desautorizado aos dados do celular apreendido durante a investigação, encontra-se preclusa, porquanto deveria ter sido impugnada em momento oportuno, qual seja, quando da interposição dos recursos próprios cabíveis na espécie, não havendo se falar em prejuízo presumido ou cerceamento de defesa.
+2. Na hipótese, o processo tramita há mais de 17 anos, sendo que a defesa técnica requereu diversas diligências na primeira fase do Tribunal do Júri, bem como utilizou-se de diversos recursos cabíveis após a decisão de pronúncia - recurso em sentido estrito, embargos declaratórios, recurso especial, agravo em recurso especial, agravo regimental e pedido de desaforamento -, entretanto, a tese de suposta nulidade ocorrida na fase investigativa da persecução penal somente veio a ser arguida após a designação de data para julgamento perante o Tribunal do Júri.
+3. Não tendo o mérito da controvérsia sido apreciado pelo Tribunal de origem, que considerou preclusa a pretensão nos autos do writ originário, fica o Superior Tribunal de Justiça impedido de analisar a questão, sob pena de indevida supressão de instância.
+4. O fato de o Tribunal de origem ter consignado que as "provas produzidas nesses 17a (dezessete anos) vão muito além daquela impugnada nessa via Mandamental" aponta para a conclusão de que, ainda que se reconhecesse a pretendida nulidade, há nos autos outras provas de autoria aptas a embasar a pronúncia do recorrente e submetê-lo a julgamento perante o Tribunal do Júri, tornando inócua a apreciação da matéria.
+5. Ademais, a presente irresignação consubstancia reiteração de pedido formulado no RHC n. 182.222/GO, interposto pelo ora agravante contra o mesmo acórdão recorrido. O recurso ordinário foi julgado prejudicado, em 10/8/2023, em virtude da alteração substancial do quadro fático-jurídico, com a condenação do réu e interposição de recurso de apelação.
+6. De acordo com a jurisprudência deste Tribunal Superior, a superveniência de sentença condenatória prejudica a pretensão de nulidade da sentença de pronúncia.
+7. O argumento de posterior alteração jurisprudencial sobre a matéria não desincumbe a defesa de levar a referida tese à apreciação das instâncias precedentes, no momento processual oportuno, nos autos da ação penal. Assim, a análise do tema, de forma inaugural por esta Corte Superior, também ensejaria indevida supressão de instância.
+8. Denota-se, das informações prestadas pelo juízo de primeiro grau, que, após a condenação do réu, a defesa ajuizou "processo incidental (tutela de urgência antecedente para preservação de prova reveladora de nulidade absoluta do julgado  .. )".
+9. Agravo regimental desprovido.
+(AgRg no HC n. 870.923/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 3/12/2024, DJEN de 9/12/2024. grifei.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
