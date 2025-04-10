@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por BOTICÁRIO PRODUTOS DE BELEZA LTDA. em face de decisão que não conheceu do AREsp, por falta de impugnação específica à aplicação da Súmula 280/STF, pela decisão que inadmitiu o recurso especial.
+Sustenta que "abordou a questão da inexistência de necessidade de análise de lei local ou reexame da matéria em debate, sendo, portanto, refutada a aplicação da súmula 280/STF" (fl. 956). Alega que, no caso, "evidente que se trata de aplicação do julgamento realizado pelo Supremo Tribunal Federal no Tema 1.093/STF e na ADI 5.469, em observância ao artigo 927, inc. I do CPC, não havendo necessidade de reexame dos autos e muito menos da análise de legislação local, o que evidentemente afasta a aplicação da Súmula 280/STF" (fl. 957).
+Impugnação a fls. 967-972.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, a embargante não indica, de forma clara e objetiva, o ponto da decisão acoimado de eventual vício, para fins de saneamento, o que configura deficiência da fundamentação recursal, não permitindo a exata compreensão da controvérsia. Aplicação do óbice da Súmula 284/STF.
+Vale lembrar que o escopo do recurso dos embargos é integrar a decisão embargada, aperfeiçoando a prestação jurisdicional, não se prestando para análise de argumentos de natureza impugnativa, os quais devem ser arguidos pela via recursal adequada.
+Assinale-se que o recurso especial possui fundamentação vinculada, não se constituindo em instrumento processual destinado ao exame de tema eminentemente constitucional, tendo em vista a necessidade de interpretação de matéria de competência exclusiva da Suprema Corte.
+A jurisprudência do STJ é no sentido de que não é possível, no âmbito de recurso especial, aferir se houve a correta aplicação, pelo tribunal de origem, de entendimento firmado pelo STF, nem a pretexto de ofensa ao art. 927 do CPC emitir juízo a respeito dos limites do que foi julgado em precedente qualificado do STF. A propósito: AgInt no AREsp n. 2.443.233/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/5/2024, DJe de 17/5/2024; AgInt no AREsp 1.528.999/SC, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 5.9.2019, DJe 16.9.2019; AgInt no AREsp 1.643.657/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/12/2020; AgInt nos EDcl no AREsp 1.972.416/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 6/6/2022.
+Ante todo o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA DAS RAZÕES RECURSAIS. SÚMULA 284/STF. EMBARGOS REJEITADOS.
