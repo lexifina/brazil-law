@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANA ALICE DA SILVA BRAGA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Na petição inicial, a defesa relata que a paciente encontra-se em prisão preventiva desde 2/4/2025, nos autos do Processo n. 0200262-20.2025.8.06.0301, em trâmite no Tribunal de Justiça do Estado do Ceará, em razão da suposta prática de "fazer publicidade de "jogos virtuais"", sem envolvimento de violência ou conduta exacerbada.
+Sustenta que a paciente é mãe de três filhos menores de 12 anos, sendo um deles com apenas 3 anos e em fase de amamentação, o que, segundo a defesa, justificaria a substituição da prisão preventiva por prisão domiciliar, com fundamento no art. 318, V, do Código de Processo Penal.
+Ademais, a assevera que a paciente seria primária e não possuiria antecedentes criminais, destacando que a manutenção da prisão preventiva é desnecessária e desproporcional, trazendo prejuízos tanto para a paciente quanto para seus filhos. Enfatiza que a jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça seria pacífica no sentido de que a prisão preventiva pode ser substituída por prisão domiciliar em casos de mães em situação de vulnerabilidade.
+Requer, liminarmente e no mérito, a substituição da prisão preventiva por prisão domiciliar ou, subsidiariamente, a imposição de medidas cautelares diversas da prisão, em especial a prisão domiciliar.
+É o relatório.
+Relatada a apreciação apenas do pedido liminar na instância originária, o Superior Tribunal de Justiça não pode conhecer da pretensão, pois a matéria não foi examinada de modo exauriente pelo Tribunal de origem, que ainda não julgou o mérito do habeas corpus originário.
+Aplica-se, assim, a conclusão estabelecida na Súmula n. 691 do STF, segundo a qual: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar."
+Confiram-se, a propósito, os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. RÉ MÃE DE CRIANÇAS. HABITUALIDADE DELITIVA. DELITO COMETIDO NO DOMICÍLIO. QUANTIDADE EXPRESSIVA DE ENTORPECENTES. WRIT CONTRA INDEFERIMENTO DE LIMINAR NA ORIGEM. AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. SÚMULA 691/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 691 do STF "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+2. Hipótese em que o Tribunal de origem indeferiu a liminar, motivadamente, por não ter verificado de imediato o alegado constrangimento ilegal que justifique a antecipação do mérito.
+3. As possíveis ilegalidades apontadas pela defesa, aptas à mitigação da mencionada Súmula e a justificar manifestação antecipada deste Superior Tribunal de Justiça, não foram constatadas.
+4. Agravo regimental não provido.
+(AgRg no HC n. 914.159/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 12/8/2024, DJe de 15/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. INSURGÊNCIA CONTRA DECISÃO DA ORIGEM QUE INDEFERE O PLEITO LIMINAR. NÃO CABIMENTO. SÚMULA N. 691/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisum que indefere liminar no writ precedente (enunciado n. 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não se verifica na espécie, pois se trata de prisão preventiva de pessoa flagrada com cerca de 800g (oitocentos gramas) de cocaína.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 910.423/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 17/6/2024, DJe de 20/6/2024.)
+Por outro lado, destaca-se que o Desembargador, ao apreciar o pedido liminar, não examinou nenhuma das teses contidas no presente writ, limitando-se a apontar que "a medida liminar em habeas corpus somente é cabível quando o suposto constrangimento ilegal é manifesto e detectado de imediato através do exame sumário da inicial e das cópias que a instruem, o que não ocorre no presente caso" (fl. 14), circunstância que também inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Mesmo que assim não fosse, é inviável a análise de manifesta ilegalidade que justifique o afastamento da conclusão anteriormente exposta. Isso porque é pacífico o entendimento do Superior Tribunal de Justiça de que o habeas corpus, por sua natureza vinculada à demonstração, de plano, da ilegalidade alegada, requer a apresentação prévia das provas dos elementos fáticos essenciais à apreciação do pedido, cabendo à parte impetrante o ônus de anexar a documentação necessária no momento da impetração.
+No presente caso, não foi juntada à petição inicial a íntegra do decreto de prisão preventiva. Dessa forma, é inviável o exame pretendido, diante da insuficiência da documentação apresentada . Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. LAPSO TRINTENÁRIO. AUSÊNCIA DE CÓPIA DA DECISÃO QUE ALTEROU A DATA-BASE. INSTRUÇÃO DEFICIENTE. REITERAÇÃO DE WRIT ANTERIOR. INADMISSIBILIDADE.
+1. O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ. Precedentes.
+2. Trata-se de caso em que o ora agravante não se desobrigou do ônus de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia da decisão do Juízo a quo que alterou a data-base.
+ ..
+(AgRg no HC n. 857.338/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1º/7/2024, DJe de 3/7/2024 - grifo próprio.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
