@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de REGINALDO DE OLIVEIRA JUNIOR, contra decisão monocrática proferida por Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu o recurso especial interposto nos autos da apelação criminal n. 1520584-72.2024.8.26.0228.
+Nesta via, a defesa alega que houve flagrante constrangimento ilegal, pois o paciente está impedido de ver seu recurso examinado por erro material no cômputo do prazo, permanecendo preso enquanto se nega o conhecimento de uma via constitucional de impugnação de sua condenação, fundada em prova ilícita e em clara nulidade processual (fl. 3).
+Sustenta que a condenação do paciente se baseou exclusivamente em depoimentos prestados por policiais, todos com conteúdo idêntico ao apresentado na fase inquisitorial, sem qualquer produção de provas em juízo sob o crivo do contraditório, em afronta ao art. 155 do CPP (fls. 5-6).
+Afirma que a decisão impugnada ignorou o fato de que o paciente é réu preso, situação que afasta a suspensão do prazo processual durante o recesso forense, conforme o art. 798-A, I, do CPP (fl. 4).
+No mérito, a Defesa requer a concessão definitiva da ordem, com a anulação da sentença condenatória ou, ao menos, o provimento do recurso especial interposto, com determinação de seu regular processamento (fl. 9).
+É o relatório. DECIDO.
+No presente caso, em decisão unipessoal, o Relator não conheceu do recurso especial por intempestividade.
+Observa-se que não houve o debate do tema pelo colegiado de origem a fim de viabilizar a impetração da ordem perante esta Corte Superior.
+Assim, ausente manifestação colegiada do Tribunal sobre a matéria ora trazida a exame, incabível o conhecimento do presente habeas corpus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e II, da CF; e art. 13, I e II, do RISTJ). Nesse sentido:
+ ..  1. Habeas corpus impugnando decisão monocrática de relator, contra a qual seria cabível agravo regimental, que, como visto, não foi interposto, impossibilitando, assim, o conhecimento do writ no Superior Tribunal de Justiça.
+2. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior, à vista da previsão constante do art. 105, II, a, da Constituição da República (Precedentes) - (AgRg no HC n. 358.714/SP, Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe 1º/8/2016)
+3. Agravo regimental improvido.
+(AgRg no HC n. 710.716/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/2/2022, DJe de 15/2/2022.)
+Além disso, vale salientar o entendimento de que:
+ ..  3. Segundo a compreensão do STJ, a análise da ocorrência de apontadas nulidades, mesmo que absolutas, não prescinde do necessário prequestionamento. Ademais, "Nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (AgRg nos EDcl no AREsp n. 1.777.813/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 25/3/2021), como na espécie. (AgRg no AREsp n. 2.267.570/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 7/11/2023, DJe de 13/11/2023.)
+Ante o exposto, indefiro liminarmente o presente habeas corpus, com fulcro no artigo 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
