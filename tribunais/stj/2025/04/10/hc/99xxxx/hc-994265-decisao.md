@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FRANCIS MIGUEL CAMPOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.25.089272-6/000).
+Consta dos autos que o paciente foi denunciado pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. Após a apresentação de resposta à acusação, a defesa requereu a inclusão de testemunha no rol já apresentado, pleito que foi indeferido. Irresignada, impetrou prévio writ, o qual foi julgado nos termos da seguinte ementa (e-STJ fls. 15):
+EMENTA: HABEAS CORPUS. TRÁFICO DE DROGAS. PRETENSÃO DEFENSIVA ATINENTE À INCLUSÃO DE TESTEMUNHA AO ROL. IMPOSSIBILDIADE. PEDIDO EXTEMPORÂNEO. PRECLUSÃO DO REQUERIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO FEITO. INTELIGENCIA DO ART. 396-A DO CPP. ORDEM DENEGADA.
+- Não se há falar em concessão do pedido de inclusão de testemunha ao rol de forma extemporânea, encontrando-se o requerimento, além de precluso, desprovido de argumentação idônea, em estrita observância ao disposto no art. 396-A do CPP, a estabelecer o momento da resposta à acusação para apresentação a pretensão defensiva.
+No presente mandamus, a defesa aduz, em síntese, que houve violação aos princípios do contraditório e da ampla defesa, devido ao indeferimento da inclusão, no rol, de testemunha considerada imprescindível para a elucidação dos fatos.
+Salienta que a testemunha solicitada para ser ouvida, por esta defesa, foi mencionada por todas testmunahs de acusação, em depoimentos, sendo crucial que a mesma colabore com seu depoimento em busca da verdade real dos fatos (e-STJ fl. 5).
+Pugna, liminarmente e no mérito, que a prova oral requerida pela defesa seja viabilizada, a fim de ser ouvida em audiência de instrução e julgamento a testemunha, em respeito ao princípio da verdade real, contraditório e ampla defesa (e-STJ fl. 9).
+É o relatório. Decido.
+Em razão da utilização crescente e sucessiva do habeas corpus, o Superior Tribunal de Justiça passou a acompanhar a orientação do Supremo Tribunal Federal, no sentido de não ser admissível o emprego do writ como sucedâneo de recurso ou revisão criminal, a fim de não se desvirtuar a finalidade dessa garantia constitucional, preservando, assim, sua utilidade e eficácia, e garantindo a celeridade que o seu julgamento requer. Referido entendimento foi ratificado pela Terceira Seção, em 10/6/2020, no julgamento da Questão de Ordem no Habeas Corpus n. 535.063/SP.
+Nessa linha de intelecção, como forma de racionalizar o emprego do writ e prestigiar o sistema recursal, não se admite a sua impetração em substituição ao recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, tem se admitido o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+As disposições previstas no art. 64, inciso III, e no art. 202, ambos do Regimento Interno do Superior Tribunal de Justiça, bem como no art. 1º do Decreto-Lei n. 552/1969, não impedem o relator de decidir liminarmente o mérito do habeas corpus e do recurso em habeas corpus, nas hipóteses em que a pretensão se conformar com súmula ou com jurisprudência consolidada dos Tribunais Superiores ou a contrariar.
+De fato, a ciência posterior do Parquet, "longe de suplantar sua prerrogativa institucional, homenageia o princípio da celeridade processual e inviabiliza a tramitação de ações cujo desfecho, em princípio, já é conhecido" (EDcl no AgRg no HC n. 324.401/SP, Relator Ministro GURGEL DE FARIA, Quinta Turma, julgado em 2/2/2016, DJe 23/2/2016).
+Relevante consignar que o julgamento do writ liminarmente "apenas consagra a exigência de racionalização do processo decisório e de efetivação do próprio princípio constitucional da razoável duração do processo, previsto no art. 5º, LXXVIII, da Constituição Federal, o qual foi introduzido no ordenamento jurídico brasileiro pela EC n.45/2004 com status de princípio fundamental" (AgRg no HC n. 268.099/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 2/5/2013, DJe 13/5/2013).
+Assim, "para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica" (AgRg no HC n. 514.048/RS, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/8/2019, DJe 13/8/2019).
+Busca a defesa, no presente writ, a oitiva, em audiência de instrução e julgamento, de testemunha não arrolada no rol apresentado por ocasião da resposta à acusação.
+A Corte local, ao decidir o tema, assentou (e-STJ fls. 16/18):
+Depreende-se dos autos haver sido apresentada resposta à acusação tempestivamente, à data de 31.01.2025, indicando a defesa, à ocasião, o rol de testemunhas pretendido à elucidação dos fatos.
+Contudo, em 26.02.2025, o d. causídico peticionou nos autos pedido de inclusão de nova testemunha, a qual já se encontrava constante quando da lavratura do Boletim de Ocorrência, ou seja, sobre a qual já dispunha conhecimento.
+Por sua vez, a magistrada indeferiu o requerimento defensivo, por entender pela ausência de fundamentação apta a afastar a preclusão ocorrida.
+Ora, não se há falar em concessão da ordem para a reforma da decisão objurgada, pois, havendo sido o rol apresentado no prazo legal, no bojo da resposta à acusação, revela-se incabível a inclusão de testemunha à qual já se encontrava constante do Boletim de Ocorrência e, portanto, já possuía a impetração conhecimento sobre sua relevância, ou não, para a elucidação dos fatos.
+Com efeito, a decisão guerreada, não obstante sucinta, encontra-se devidamente fundamentada, tendo a magistrada fundamentado satisfatoriamente o indeferimento do requerimento defensivo, diante da impossibilidade de se conhecer o pedido extemporâneo sem a devida argumentação plausível, em estrita observância ao disposto no art. 396-A do CPP, a estabelecer o momento da resposta à acusação para a sua apresentação.
+Ademais, de se ressaltar, a impetração, ora alguma, nega a intempestividade da testemunha a qual pretendia arrolar de maneira extemporânea, sendo incabível a tese de violação da ampla defesa.
+ .. .
+Pelo exposto, inexistente constrangimento ilegal sanável pela presente via, DENEGO A ORDEM.
+Como se vê, a defesa, nos autos de origem, requereu a inclusão de nova testemunha ao rol já apresentado por ocasião da resposta à acusação, momento em que já sabia da existência da referida testemunha, mencionada no boletim de ocorrência. Assim, a juíza de primeiro grau indeferiu o pleito diante da verificada preclusão, no caso.
+A Corte local, mantendo referido entendimento, assentou que apresentado o rol de testemunhas no prazo legal, incabível a inclusão de testemunha acerca da qual a defesa já tinha conhecimento, para o esclarecimento dos fatos, destacando que o momento adequado para arrolar testemunhas é aquele previsto no art. 396-A do CPP, sendo extemporâneo o arrolamento posterior.
+É consoante a jurisprudência desta Corte o acórdão impugnado, no sentido de que o pleito de arrolamento de testemunha posteriormente à apresentação da resposta à acusação se sujeita à preclusão, não se extraindo flagrante ilegalidade a ser sanada na presente via. A propósito, os seguintes julgados:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. INDEFERIMENTO DE OITIVA DE TESTEMUNHAS. PRECLUSÃO TEMPORAL. ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de acusado, alegando cerceamento de defesa e requerendo a concessão da ordem para determinar a oitiva das testemunhas arroladas pela defesa, cujo rol foi apresentado fora do prazo legal.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o indeferimento da oitiva de testemunhas, cujo rol foi apresentado fora do prazo estabelecido no art. 396-A do Código de Processo Penal, configura cerceamento de defesa.
+III. Razões de decidir
+3. O Tribunal de origem decidiu que não há cerceamento de defesa no indeferimento da apresentação extemporânea do rol de testemunhas, em respeito à ordem dos atos processuais e à preclusão temporal.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a apresentação do rol de testemunhas deve ocorrer na fase de resposta à acusação, sob pena de preclusão, conforme art. 396-A do CPP.
+5. A defesa não demonstrou a ocorrência de prejuízo concreto decorrente do indeferimento do rol de testemunhas, inviabilizando o reconhecimento de qualquer nulidade, conforme a Súmula 523 do STF.
+6. O magistrado, como destinatário final da prova, tem a competência para analisar a pertinência, relevância e necessidade da realização da atividade probatória pleiteada.
+IV. Dispositivo e tese
+7. Ordem denegada.
+Tese de julgamento: "1. A apresentação do rol de testemunhas fora do prazo legal estabelecido no art. 396-A do CPP acarreta preclusão temporal, não configurando cerceamento de defesa. 2. A demonstração de prejuízo concreto é necessária para o reconhecimento de nulidade por cerceamento de defesa.".
+Dispositivos relevantes citados: CPP, art. 396-A; Súmula 523 do STF. Jurisprudência relevante citada: STJ, REsp 1.828.483/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 3/12/2019, DJe de 6/12/2019; STJ, AgRg no HC 875.749/RS, Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 7/3/2024.
+(AgRg no HC n. 957.430/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025.)
+DIREITO PROCESSUAL PENAL. RECURSO ESPECIAL. ARROLAMENTO EXTEMPORÂNEO DE TESTEMUNHAS. INDEFERIMENTO. RECURSO PROVIDO. I. CASO EM EXAME
+1. Recurso especial interposto pelo Ministério Público contra acórdão do TJ/RS que permitiu o arrolamento de testemunhas de forma extemporânea pela defesa, antes do início da instrução criminal.
+2. O Tribunal de origem entendeu que a apresentação extemporânea do rol de testemunhas não prejudicaria a tramitação do feito, considerando a assistência da Defensoria Pública ao réu e a ausência de início da instrução. II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se é possível o arrolamento de testemunhas de forma extemporânea pela defesa, em desconformidade com o art. 396-A do Código de Processo Penal, que prevê a preclusão do direito de arrolar testemunhas após a resposta à acusação.
+III. RAZÕES DE DECIDIR
+4. O entendimento pacificado desta Corte é que o rol de testemunhas deve ser apresentado na resposta à acusação, sob pena de preclusão, conforme o art. 396-A do CPP.
+5. A possibilidade de oitiva de testemunhas como testemunhas do Juízo, conforme o art. 209 do CPP, não constitui direito subjetivo da parte e depende da avaliação do magistrado sobre a imprescindibilidade para a busca da verdade real.
+6. O direito à prova no processo penal não é absoluto e está sujeito a limitações temporais, sendo que a defesa deve apresentar o rol de testemunhas na resposta à acusação.
+IV. RECURSO ESPECIAL PROVIDO.
+(REsp n. 2.101.578/RS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 20/12/2024.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS. NULIDADE. ROL DE TESTEMUNHAS DE DEFESA. APRESENTAÇÃO EXTEMPORÂNEA. OITIVA COMO TESTEMUNHA DO JUÍZO. POSSIBILIDADE.
+1. Não se olvida que "o momento processual legalmente definido para apresentação do rol de testemunhas é a resposta à acusação, sob pena de preclusão, nos termos do art. 396-A do Código de Processo Penal" (AgRg no RHC n. 178.052/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/6/2023, DJe de 21/6/2023).
+2. Contudo, "consoante disposto no artigo 209 do CPP, ocorrendo a preclusão no tocante ao arrolamento de testemunhas, é permitido ao Magistrado, uma vez entendendo ser imprescindível à busca da verdade real, proceder à oitiva como testemunhas do Juízo, contudo, tal providência não constitui direito subjetivo da parte" (AgRg no AREsp n. 1.937.337/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/11/2021, DJe de 29/11/2021).
+Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 2.044.646/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 11/9/2023, DJe de 14/9/2023.)
+Ante o exposto, não conheço do presente mandamus.
+Publique-se.
+EMENTA
