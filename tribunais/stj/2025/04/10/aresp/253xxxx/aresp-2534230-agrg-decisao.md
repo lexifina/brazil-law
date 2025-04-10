@@ -1,0 +1,11 @@
+DECISÃO
+Às e-STJ fls. 2015/2019, requer a agravante o reconhecimento da prescrição da pretensão punitiva retroativa.
+O Ministério Público Federal manifestou-se pelo "reconhecimento da extinção da punibilidade de APARECIDA OLINDA DA SILVA pela prescrição, estendendo-se os efeitos da decisão ao corréu CAMILO CHIEL ZIKEMURA, nos termos do art. 580 do Código de Processo Penal" (e-STJ fl. 2030).
+A agravante foi condenada à pena de 1 ano, 6 meses de reclusão e 7 dias-multa, e o corréu CAMILO CHIEL ZIKEMURA à pena de 1 ano, 4 meses e 6 dias de reclusão, como incursos no art. 312, caput, 2ª parte, do Código Penal. Interposto recurso de apelação, pela acusação e defesa, foi provido apenas o recurso do Ministério Público para afastar da dosimetria a causa de diminuição da participação de menor importância, redimensionando para 2 anos de reclusão, em regime aberto, e 10 dias-multa, substituída a privativa de liberdade por restritivas de direitos, a pena aplicada a ambos os réus.
+A pretensão punitiva estatal após o trânsito em julgado para a acusação deve ser regulada pela pena em concreto, nos termos do art. 110, §1º, do Código Penal.
+No caso, considerando-se a reprimenda fixada ao delito de peculato de 2 anos, o prazo prescricional é de 4 anos, nos termos do art. 109, V, do Código Penal.
+Assim, recebida a denúncia em 19/04/2012 (e-STJ fls. 1450) e publicada a sentença em 24/10/2017 (e-STJ fls. 1690/1709), e julgado o acórdão de apelação em 27/07/2023 (e-STJ fls. 1863), houve o transcurso do prazo prescricional entre os marcos interruptivos.
+Assim, deve ser reconhecida a extinção da punibilidade de APARECIDA OLINDA DA SILVA pela prescrição da pretensão punitiva do Estado, nos termos do art. 107, IV, do Código Penal, estendendo-se os efeitos da decisão ao corréu CAMILO CHIEL ZIKEMURA, nos termos do art. 580 do Código de Processo Penal.
+Ante o exposto, acolho o pedido de fls. 2015/2019 para julgar extinta a punibilidade de APARECIDA OLINDA DA SILVA pela prescrição da pretensão punitiva do Estado, nos termos do art. 107, IV, do Código Penal, estendendo-se os efeitos da decisão ao corréu CAMILO CHIEL ZIKEMURA, nos termos do art. 580 do Código de Processo Penal, e julgo prejudicado o agravo regimental de fls. 1994/2000.
+Intimem-se.
+EMENTA
