@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CAIXA DE PREVIDENCIA DOS FUNCIONARIOS DO BANCO DO BRASIL - PREVI à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÀO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ESCRITURA PÚBLICA DE FINANCIAMENTO DE IMÓVEL COM PACTO ADJETO DE HIPOTECA. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO REVISIONAL. NÃO ACOLHIMENTO. PRAZO PRESCTICIONAL QUE SE INICIA NA DATA DE VENCIMENTO DA ÚLTIMA PARCELA DO FINANCIAMENTO. AÇÃO PROPOSTA ANTES DE SE VENCER A ÚLTIMA PRESTAÇÃO. CAPITALIZAÇÃO MENSAL DE JUROS. COMPROVAÇÃO POR PROVA PERICIAL. CONTRATO CELEBRADO ANTES DA EDIÇÃO DA MP 2.170-36/01. ILEGALIDADE DA COBRANÇA. ADITIVOS CONTRATUAIS REALIZADOS APÓS 31/03/2000 SEM A EXPRESSA PACTUAÇÃO DA COBRANÇA DE JUROS CAPITALIZADOS. EXPURGO DEVIDO. SENTENÇA MANTIDA. APELAÇÃO CÍVEL CONHECIDA E NÃO PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 591 do CC, no que concerne à possibilidade de incidência da capitalização anual de juros ante a existência de previsão contratual, trazendo a seguinte argumentação:
+5. Veja-se como foi afastada pela Corte Estadual a alegação recursal de possibilidade de capitalização na periodicidade anual, in verbis:
+"Quanto ao pedido subsidiário do réu apelado de incidência da capitalização na periodicidade anual, este não merece acolhimento tendo em vista a ausência de previsão contratual. Conforme entendimento da jurisprudência, se não há pactuação expressa, a incidência de capitalização anual de juros fica vedada, pois as previsões no art. 4º, do Decreto nº 22.626/1933 e no art. 591, do Código Civil não dispensam a necessidade de pactuação entre as partes." - grifamos
+6. Com a devida vênia, a r. decisão reclama revisão, na medida em que, diferente da conclusão decisória acima transcrita, não há falar em aplicação da previsão contida no art. 4º, do DL nº 22.626/1993 à espécie, na medida em que, no caso concreto, há previsão contratual expressa à incidência da capitalização.
+ ..
+Por todo o exposto, requer seja provido o Recurso Especial para que seja afastada a violação ao art. 591, Código Civil, a possibilitar a incidência da capitalização anual à contratualidade (fls. 556/557).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Quanto ao pedido subsidiário do réu apelado de incidência da capitalização na periodicidade anual, este não merece acolhimento tendo em vista a ausência de previsão contratual. Conforme entendimento da jurisprudência, se não há pactuação expressa, a incidência de capitalização anual de juros fica vedada, pois as previsões no art. 4º, do Decreto nº 22.626/1933 e no art. 591, do Código Civil não dispensam a necessidade de pactuação entre as partes (fl. 514).
+No julgamento dos embargos de declaração, o colegiado reforçou o seguinte:
+Além disso, ainda que a embargante fosse equiparada à instituição financeira na época da contratação, não havia possibilidade de cobrança de juros capitalizados. Mesmo sendo permitida por lei, a capitalização anual de juros precisa estar expressamente pactuada, ou seja, prevista no contrato, o que não ocorreu no caso (fl. 546).
+Tal o contexto, incidem as Súmulas n. 5 e 7 do STJ, porquanto a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 9.10.2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3.10.2019; AgInt no AREsp 1.165.518/DF, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 4.10.2019; AgInt no AREsp 481.971/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 25.9.2019; AgInt no REsp 1.815.585/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 23.9.2019; e AgInt no AREsp 1.480.197/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 25.9.2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
