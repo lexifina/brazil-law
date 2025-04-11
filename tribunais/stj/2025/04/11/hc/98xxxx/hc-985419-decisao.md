@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALISON NOLAS MARTINES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1501260-50.2024.8.26.0599).
+Consta dos autos que o paciente foi condenado pelo crime de tráfico de drogas à pena de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime inicial semiaberto.
+O Tribunal de origem negou provimento ao recurso de apelação interposto pela Defensoria Pública, mantendo a sentença.
+Neste writ, a impetrante sustenta a possibilidade de aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/2006 em patamar superior ao mínimo legal.
+Aduz que o acórdão manteve a redução mínima da pena na terceira fase da dosimetria com base em argumentos abstratos e em desrespeito a posicionamentos jurisprudenciais das Cortes Superiores.
+Acrescenta que, caso aplicada a minorante em fração maior, a pena final seria inferior a 04 (quatro) anos, o que permitiria a fixação de regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, liminarmente e no mérito, a concessão da ordem para aplicar a causa de diminuição de pena do artigo 33, § 4º, da Lei n. 11.343/2006 em patamar superior ao mínimo legal, com a consequente modificação do regime inicial de cumprimento de pena e a substituição da pena privativa de liberdade por restritiva de direitos.
+O pedido de liminar foi indeferido às fls. 293/294.
+Informações  prestadas  às  fls.  297/320  e  326/350.
+O  Ministério  Público  Federal  opinou  pelo não conhecimento do writ  (fls.  352/354).
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício,  visto  que,  de  acordo  com  o  entendimento  consolidado  do  Superior  Tribunal  de  Justiça,  "desde que haja fundamentação idônea, aduzida à luz das circunstâncias fáticas do caso concreto, é cabível a eleição de fração de redução menos benéfica ao réu, sobretudo em respeito à discricionariedade do magistrado" (AgRg no REsp n. 1.991.861/SC, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 20/03/2023, DJe de 24/03/2023).
+Na espécie, o Tribunal de origem justificou a aplicação da minorante em fração diversa da máxima com fundamento nas circunstâncias do caso concreto, mencionando a quantidade de entorpecente apreendido, o que encontra amparo na jurisprudência desta Corte Superior.
+A propósito:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. ABSOLVIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PENA-BASE. EXASPERAÇÃO. INTERMUNICIPALIDADE. FUNDAMENTAÇÃO IDÔNEA. TRÁFICO PRIVILEGIADO NO PATAMAR DE 1/6. QUANTIDADE E NATUREZA DA DROGA. LEGALIDADE. AGRAVO
+REGIMENTAL NÃO PROVIDO.
+ ..
+4. Na falta de parâmetros legais para se fixar o quantum da redução do benefício do art. 33, § 4º, da Lei n. 11.343/2006, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico (HC n. 529.329/SP, Relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 19/9/2019, DJe 24/9/2019).
+5. Nessa linha, a Terceira Seção desta Corte, por ocasião do julgamento do REsp n. 1.887.511/SP (relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 9/6/2021, DJe de 1º/7/2021), definiu que a quantidade de substância entorpecente e a sua natureza hão de ser consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, não sendo, portanto, pressuposto para a incidência da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006. Além disso, faz-se necessário asseverar que, posteriormente, o referido colegiado aperfeiçoou o entendimento anteriormente exarado por ocasião do julgamento do Recurso Especial n. 1.887.511/SP, passando a adotar o posicionamento de que a quantidade e a natureza da droga apreendida podem servir de fundamento para a majoração da pena-base ou para a modulação da fração da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, desde que, neste último caso, não tenham sido utilizadas na primeira fase da dosimetria (AgRg no HC n. 889.063/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/4/2024, DJe de 3/5/2024).
+6. No presente caso, o Tribunal a quo, ao apreciar o caso, aplicou a referida causa de diminuição em 1/6, em razão da quantidade e da natureza da droga apreendida (499,83 g de cocaína), não havendo qualquer ilegalidade a ser sanada.
+7. Agravo regimental não provido.
+(AgRg no REsp n. 2.182.467/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025, grifamos)
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
