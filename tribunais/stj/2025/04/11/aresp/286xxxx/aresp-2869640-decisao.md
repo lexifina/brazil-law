@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado por Elektro Redes S.A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 147):
+AGRAVO INTERNO - Município de São Sebastião - Insurgência da decisão monocrática proferida por esta relatora que não conheceu do recurso de apelação, posto que o valor atribuído à causa é inferior ao de alçada - Impossibilidade de desmembrar do valor atribuído à causa o montante que o embargante entende como devido a título de honorários advocatícios, pois nos termos do art.34 da LEF, a dívida deve ser considerada como um todo, com os acréscimos legais, na data da propositura da ação - Valor da ação devidamente atualizado na data do ajuizamento que equivale a R$ 1.250,95, enquanto o valor de alçada corresponde a R$ 1,260,66 - REsp nº 1168625/MG - Ausente qualquer modificação ou elemento novo a justificar a reforma da decisão, fica esta mantida - Agravo interno desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 160/161).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 85, 8º, e 8º-A do Código de Processo Civil e 34, §1º, da Lei de Execuções Fiscais, ao argumento de que "ao deixar de considerar o valor dos honorários, cujo cálculo deve ser feito com base no art. 85, §§8ºe 8º-A do CPC, no cômputo do valor de alçada, a decisão recorrida viola a norma processual e o disposto no art. 34, §1º da LEF, que inclui os encargos legais nesse montante" (fl. 164).
+A Presidência da Seção de Direito Público da Corte local negou seguimento ao apelo raro com base no art. 1.030, I, b, do CPC, frente ao quanto decidido pelo Superior Tribunal de Justiça no REsp nº 1.168.625/MG - Tema 395 (relator Ministro Luiz Fux, Primeira Seção, julgado em 9/6/2010, DJe de 1/7/2010) e inadmitiu o apelo raro à incidência da Súmula 7/STJ.
+A decisão foi mantida pelo órgão fracionário nos seguintes termos (fl. 201):
+AGRAVO INTERNO Decisão monocrática que negou seguimento ao recurso especial.
+- A questão referente à adequação de eventual recurso contra sentença de 1º grau nas ações de execução fiscal tendo como parâmetro 50 ORTNS, conforme disposto no artigo 34 da Lei 6.830 de 22 de setembro de 1980, é idêntica à matéria tratada no rito dos recursos repetitivos Resp. n. 1.168.625/MG, Tema n.
+395/STJ.
+- Demais questões rebatidas que não se encontram submetidas à sistemática de recursos repetitivos impugnação por recurso próprio.
+Nega-se provimento ao recurso.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+No presente caso, da leitura do relatório antes realizado, pode-se verificar que as teses recursais, inclusive quanto à negativa de prestação jurisdicional, mostram-se intrinsecamente ligadas à matéria que restou decidida na origem de acordo com recurso especial repetitivo (Tema 395 - "Adota -se como valor de alçada para o cabimento de apelação em sede de execução fiscal o valor de R$ 328,27 (trezentos e vinte e oito reais e vinte e sete centavos), corrigido pelo IPCA-E a partir de janeiro de 2001, valor esse que deve ser observado à data da propositura da execução"), daí por que negado seguimento ao apelo raro.
+Nesse contexto, resta prejudicada a apreciação do recurso especial e de seu respectivo agravo do art. 1.042 do CPC, pois, no caso dos autos, o Tribunal de origem manteve o acórdão recorrido por estar em conformidade com a tese adotada no precedente indicado, o que afasta o disposto no art. 1.041 do CPC, segundo o qual "mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º".
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
