@@ -1,0 +1,12 @@
+DECISÃO
+GEORGE EDUARDO DE JESUS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe na Apelação n. 2025913.
+A defesa pretende a absolvição do paciente sob o argumento, em síntese, de nulidade do reconhecimento pessoal.
+Decido.
+Sobre o tema, a instância ordinária registrou que:
+Ocorre que, o reconhecimento feito durante a fase inquisitorial não foi a única prova produzida em desfavor do réu, os depoimentos colhidos na fase processual mostraram-se coerentes com os da fase inquisitorial e apontam sem dúvidas para a autoria por parte do réu, não havendo espaço para a aplicação do princípio do in dubio pro reo, vez que não restou dúvida quanto à autoria por parte do acusado. Anote-se, ainda, que o réu foi preso em flagrante, sendo com ele localizadas partes das motocicletas subtraídas, havendo inclusive confissão parcial quanto a dois dos três delitos objetos desta ação penal. Assim, extraindo-se da interpretação dos elementos contidos nos autos e submetidos a acurado exame, confrontando fatos, contrastando circunstâncias, daí converge à convicção de que existem provas suficientes nos autos que indicam a responsabilidade penal do denunciado, impondo-se, assim a condenação, diante de provas esclarecedoras e consistentes.
+Depreende-se do excerto acima transcrito que, ao contrário do alegado pelo impetrante, a autoria delitiva não se respalda, com exclusividade, em reconhecimento fotográfico, mas em outros indícios, merecendo destaque a prisão em flagrante do paciente com partes dos objetos subtraídos e a confissão do acusado "quanto a dois dos três delitos objetos desta ação legal".
+Saliento, neste contexto, que "os Tribunais Superiores resolvem questões de direito e não questões de fato e prova" (AgRg no AREsp n. 586.754/DF, Rel. Ministro Newton Trisotto (Desembargador convocado do TJ/SC), 5ª T., DJe 22/4/2015).
+Por esse motivo, "cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar, ou desclassificar a imputação feita ao acusado, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte" (AgRg no AREsp n. 304.675/SC, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 9/5/2013).
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
+EMENTA
