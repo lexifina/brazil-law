@@ -1,0 +1,22 @@
+DECISÃO
+Examina-se reclamação ajuizada por GABRIELA RIGHI MATTE, fundamentada nos arts. 988, II, do CPC e 187 do RISTJ, contra acórdão proferida pela 1ª Turma Recursal Cível do Rio Grande do Sul nos autos do recurso inominado n. 50054925220228210034.
+Reclamação ajuizada em: 28/3/2025.
+Conclusa ao gabinete em: 2/4/2025.
+A parte reclamante alega, em síntese, violação da Súmula 375/STJ. Refere que o acórdão reclamado "afronta a jurisprudência pacífica do STJ ao presumir a má-fé da adquirente, quando a presunção legal é justamente o contrário: a boa-fé. Dessa forma, a decisão impugnada merece ser reformada, pois desconsiderou elementos essenciais que demonstram a inexistência de fraude à execução, violando frontalmente a jurisprudência consolidada desta Corte Superior" (e-STJ fl. 9). Pugna pela suspensão liminar do processo na origem.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Reclamação Constitucional
+Nos termos dos art. 105, inciso I, alínea "f", da Constituição Federal, e 988 do CPC, compete ao STJ processar e julgar originariamente a reclamação para a preservação de sua competência ou para a garantia da autoridade de seus julgados apenas quando objetivamente violados.
+Quanto ao cabimento para garantir a autoridade de suas decisões, segundo a jurisprudência do STJ, pressupõe-se a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida (AgInt na Rcl 38.236/SP, Primeira Seção, DJe 28/10/2019; AgRg na Rcl 33.823/SP, Terceira Seção, DJe 1º/8/2017 e AgInt na Rcl 28.688/RJ, Segunda Seção, DJe 29/8/2016).
+Nessa situação, o instrumento da reclamação tem por objetivo assegurar que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, não servindo para a preservação da jurisprudência desta Corte ou como sucedâneo recursal (AgRg na Rcl 29.329/MS, Corte Especial, DJe 3/8/2016; AgInt na Rcl 36.756/MG, Segunda Seção, DJe 23/8/2019 e AgInt na Rcl 37.890/MT, Segunda Seção, DJe 8/10/2019).
+Inclusive, de acordo com a orientação exarada pela Corte Especial do STJ, por ocasião do julgamento da Reclamação n. 36.476/SP, não se admite o cabimento de reclamação destinada a vindicar o exame, por esta Corte de Justiça, sobre a aplicação supostamente indevida de precedente oriundo de recurso especial repetitivo pelo Tribunal de origem ou de enunciado sumular. Por oportuno, cita-se: Rcl 36.476/SP, Corte Especial, julgado em 5/2/2020, DJe 6/3/2020; AgInt na Rcl 42.586/SP, Segunda Seção, DJe 17/3/2022; AgInt na Rcl 42.013/PR, Primeira Seção, DJe 3/12/2021 e Rcl 36.476/SP, Corte Especial, DJe 6/3/2020).
+No particular, a petição inicial apenas retrata a inconformidade da parte reclamante quanto ao conteúdo da decisão prolatada, colacionando julgados que entende favoráveis à sua tese recursal; porém, sem demonstrar a desobediência - direta e específica - à autoridade de decisão desta Corte.
+Consoante o exposto, registra-se o não cabimento da reclamação, a qual, reitera-se, não pode ser utilizada como sucedâneo recursal (AgInt na Rcl 41.077/SP, Segunda Seção, DJe 2/12/2021 e AgInt na Rcl 41.796/RJ, Segunda Seção, DJe 7/12/2021).
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Deixo de fixar honorários advocatícios de sucumbência, porquanto não angularizada a relação processual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. DESOBEDIÊNCIA DA AUTORIDADE DAS DECISÕES PROFERIDAS POR ESTA CORTE. NÃO VERIFICADA. PETIÇÃO INICIAL INDEFERIDA. RECLAMAÇÃO EXTINTA SEM JULGAMENTO DE MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, a usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação como sucedâneo recursal a fim de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo.
+3. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
