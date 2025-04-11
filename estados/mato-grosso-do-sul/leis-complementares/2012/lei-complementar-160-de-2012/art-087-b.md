@@ -1,0 +1,1 @@
+Art. 87-B. Será permitida a conversão de um terço das férias em abono pecuniário, tendo como base de cálculo o valor da renumeração permanente e o valor do adicional de férias, mediante autorização do Presidente, observadas as disponibilidades orçamentária e financeira.

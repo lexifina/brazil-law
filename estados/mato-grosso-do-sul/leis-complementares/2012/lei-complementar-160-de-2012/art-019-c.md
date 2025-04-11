@@ -1,0 +1,2 @@
+Art. 19-C. O Ministério Público de Contas contará com apoio administrativo e de pessoal do Tribunal de Contas do Estado, conforme organização estabelecida em Lei e no Regimento Interno do TCE-MS, com vistas a propiciar todas as condições à sua atuação específica de custos legis.
+Parágrafo único. Compete ao Procurador-Geral de Contas indicar ao Presidente do Tribunal de Contas do Estado os servidores a serem nomeados para exercerem suas funções junto ao Ministério Público de Contas.

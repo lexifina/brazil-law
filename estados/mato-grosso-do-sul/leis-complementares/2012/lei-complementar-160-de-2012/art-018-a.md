@@ -1,0 +1,1 @@
+Art. 18-A. Compete ao Procurador Geral de Contas, quando necessário, solicitar ao Presidente de Tribunal de Contas a abertura de Concurso Público para o provimento dos cargos de Procurador de Contas Substituto.

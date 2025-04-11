@@ -1,0 +1,1 @@
+Art. 62-C. O Regimento Interno do Tribunal de Contas deverá disciplinar as causas de impedimento, de suspensão e de interrupção das prescrições das pretensões punitiva e de ressarcimento, ordinária e intercorrente, bem assim de responsabilização a quem der causa, por dolo ou culpa, à sua consumação.

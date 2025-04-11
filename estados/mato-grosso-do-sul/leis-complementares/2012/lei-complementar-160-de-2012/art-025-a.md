@@ -1,0 +1,11 @@
+Art. 25-A. O Tribunal de Contas do Estado de Mato Grosso do Sul, visando a dar celeridade à correção de potenciais irregularidades nos atos sujeitos ao seu controle, pode firmar com seus jurisdicionados Termos de Ajustamento de Gestão.
+§ 1º O Termo de Ajustamento de Gestão pode ser proposto antes de qualquer decisão sobre as irregularidades apuradas na instrução dos processos e dos procedimentos de controle externo.
+§ 2º É vedada a assinatura de Termo de Ajustamento de Gestão nos casos em que irregularidades, apuradas nos termos do § 1º, contenham indícios de desvio de recursos públicos, de ato de improbidade administrativa ou tenham sido detectadas em contas anuais de governo.
+§ 3º O Termo de Ajustamento de Gestão deverá prever multa em caso de descumprimento parcial ou total das obrigações nele contidas.
+§ 4º O Termo de Ajustamento de Gestão produz efeitos somente após sua homologação por decisão do Tribunal de Contas.
+§ 5º A decisão prevista no § 4º deste artigo é irrecorrível e tem a natureza de título executivo.
+§ 6º A assinatura do Termo de Ajustamento de Gestão suspenderá o trâmite do processo que lhe tenha dado origem.
+§ 7º Nos casos em que o Termo de Ajustamento de Gestão atribua, direta ou indiretamente, deveres ou obrigações a outrem que não o jurisdicionado, fica garantida sua manifestação antes da conclusão do Termo.
+§ 8º O não cumprimento das obrigações, previstas no Termo de Ajustamento de Gestão pelas autoridades signatárias, enseja sua automática rescisão, sem prejuízo da aplicação da multa prevista no Termo.
+§ 9º Cumpridas as obrigações previstas no Termo de Ajustamento de Gestão, o processo ou o procedimento que lhe deu origem será extinto e arquivado.
+§ 10. O Tribunal de Contas regulamentará a aplicação do Termo de Ajustamento de Gestão em ato normativo próprio.
