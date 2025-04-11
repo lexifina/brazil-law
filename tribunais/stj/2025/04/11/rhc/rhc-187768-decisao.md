@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por AMAURI BRAGA ESTRELA e JAIME BORDAO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO proferido no julgamento do HC n. 2157437-70.2023.8.26.0000.
+Extrai-se dos autos que os recorrentes foram denunciados por terem supostamente praticado, por diversas vezes, o delito tipificado no art. 317, caput, c/c o art. 69, ambos do Código Penal (corrupção passiva em concurso material).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"Habeas Corpus Corrupção Alegação de cerceamento da defesa e ausência de enfrentamento das teses defensivas pela autoridade de Primeira Instância - Pugna nulidade da decisão combatida Impossibilidade - Parte da impetração trata-se de mera repetição de pedido contido no HC nº 2080253 -38.2023.8.26.0000 de modo que não deve ser conhecida Nulidade rejeitada - Decisão devidamente fundamentada em consonância com princípios e garantias constitucionais - Denegada a ordem na parte conhecida." (fl. 223)
+No presente recurso, a defesa aponta violação ao devido processo legal, relatando que a denúncia foi apoiada em provas que não estão nos autos, cerceando o direito de defesa.
+Alega irregularidades do Procedimento Investigativo Criminal - PIC, uma vez que tramitou de maneira absolutamente sigilosa e arbitrária, com supressão do direito de defesa e contraditório.
+Argumenta que o Tribunal de origem deixou de enfrentar as teses suscitadas pelos recorrentes. Destaca que os recorrentes praticaram um único fato e ainda assim foram denunciados por dois a três crimes de corrupção.
+Aduz que, nos termos da audiência de instrução e julgamento, depreende-se que a magistrada a quo realizou um juízo de valor em desfavor dos recorrentes. Argumenta, ainda, que a magistrada, possivelmente, está contaminada por informações e elementos extraprocessuais, porquanto explicou toda a mecânica do esquema de pagamento de propina para a defesa.
+Pugna, em liminar e no mérito, pela suspensão da tramitação do Processo n. 1004358-08.2020.8.26.0481 até o julgamento definitivo do recurso ordinário, com posterior ordem de nulidade do referido processo. Alternativamente, requer o reconhecimento da nulidade do decisum de fls. 2.025/2.032 (autos originais).
+A liminar foi indeferida às fls. 286/287. Informações prestadas às fls. 293/304 e 305/315. O Ministério Público Federal - MPF opinou pelo desprovimento do recurso às fls. 319/323.
+É o relatório.
+Decido.
+Inicialmente, em consulta à página eletrônica do Tribunal de origem, constata-se que, em 3/10/2023, nos autos da Ação Penal n. 1004358-08.2020.8.26.0481, foi proferida sentença condenando o paciente AMAURI BRAGA ESTRELA às penas de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 26 dias-multa, pelo crime previsto no art. 317, por duas vezes, na forma do art. 69, ambos do Código Penal, ao passo que foi julgada extinta a punibilidade de JAIME BORDAO, com fundamento nos arts. 109, inciso II, e 107, inciso IV, ambos do CP.
+No que se refere às nulidades apontadas pela defesa, observa-se que o Juízo sentenciante entendeu não ter ocorrido as ilegalidades indicadas.
+Desse modo, considerando que o juízo singular afastou, após cognição profunda e exauriente, as aventadas nulidades, resta prejudicada a análise da matéria, uma vez que "a superveniência de sentença condenatória acarreta a modificação do debate processual, bem como a alteração do título prisional originário, ensejando o advento de nova realidade processual de maior amplitude em relação à considerada no momento da formalização da impetração em julgamento. Nessa medida, a prolação de sentença condenatória impõe uma alteração do campo argumentativo, exigindo-se que o exame das questões articuladas pelos agravantes se opere à luz de um espectro processual não coincidente com o inicialmente impugnado" (AgRg no HC n. 768.635, Ministro Sebastião Reis Júnior, DJe de 18/5/2023).
+Diante do atual contexto processual, caberá à Corte estadual a análise das ilegalidades em sede de apelação, já interposta, recurso que, por não possuir a limitação cognitiva inerente à via estreita do recurso em habeas corpus, permite um exame mais amplo e profundo do acervo fático-probatório produzido durante a instrução criminal.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CORRUPÇÃO ATIVA, PECULATO E TRÁFICO DE DROGAS. BUSCA E APREENSÃO. IRREGULARIDADE DA MEDIDA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Diante da superveniência de sentença que afastou a nulidade suscitada pela defesa, a controvérsia, agora, deve ser analisada pelo Tribunal de origem, por ocasião do julgamento do recurso de apelação. Isso porque o recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição - horizontal e vertical - permite que o Tribunal ad quem examine, com maior amplitude e profundidade, todo o conjunto fático-probatório colhido durante a instrução criminal e as questões jurídicas subjacentes.
+5. Agravo regimental não provido.
+(AgRg no RHC n. 121.801/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/3/2023.)
+Nesse contexto, não há como negar a perda superveniente do objeto do presente recurso, tendo em vista o acolhimento pela instância ordinária, em juízo de cognição exauriente, quanto à procedência da acusação.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
