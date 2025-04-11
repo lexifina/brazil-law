@@ -1,0 +1,20 @@
+DECISÃO
+1. Trata-se de recurso extraordinário (fls. 402-409) interposto contra acórdão que manteve a decisão que negou provimento ao recurso ordinário em mandado de segurança interposto pela parte recorrente, nos termos da seguinte ementa (fl. 340):
+PROCESSO CIVIL. CONSTITUCIONAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. REVERSÃO DE SEQUESTRO DE VERBA PÚBLICA. SISTEMÁTICA INTRODUZIDA PELA EC 62/09. ART. 97 DO ADCT. INCONSTITUCIONALIDADE RECONHECIDA PELO STF. PRECEDENTES. RECURSO ORDINÁRIO IMPROVIDO.
+Às fls. 415-416, o recurso foi sobrestado em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral acerca da matéria no Tema n. 519 do STF.
+Com a finalização do julgamento da controvérsia relativa ao Tema n. 598 do STF, os autos foram encaminhados ao órgão prolator do acórdão recorrido para eventual juízo de retratação, nos termos do art. 1.040, II, do CPC (fls. 418-420).
+O órgão julgador exerceu o juízo de retratação, em acórdão assim ementado (fls. 439-440):
+RECURSO EM MANDADO DE SEGURANÇA. SEQUESTRO HUMANITÁRIO DE RENDAS PÚBLICAS. AUTORA DO PEDIDO ACOMETIDA DE MOLÉSTIA GRAVE. TEMA N. 598 RG/STF. NECESSIDADE DE OBSERVÂNCIA À ORDEM CRONOLÓGICA DE PRECATÓRIOS. ART. 100 DA CF/88. SEQUESTRO DE VERBAS PÚBLICAS. EXCEPCIONALIDADE. HIPÓTESES TAXATIVAS. TEMA N. 519 RG/STF. REGIME ESPECIAL DE PRECATÓRIOS DA EC N. 62/2009. APLICAÇÃO A PRECATÓRIOS JÁ EXPEDIDOS NA VIGÊNCIA DA EC N. 30/2000 (ART. 78 DO ADCT).
+I - Na origem, trata-se de mandado de segurança impetrado por Caixa Beneficente da Polícia Militar do Estado de São Paulo contra ato atribuído ao Presidente do Tribunal de Justiça do Estado de São Paulo, objetivando a cassação da ordem de sequestro, bem como que a quantia sequestrada retorne aos cofres públicos.
+II - No caso dos autos, busca a impetrante/recorrida a cassação da ordem de sequestro de rendas públicas para fins de satisfação de precatório de portador de moléstia grave.
+III - Sobre a questão, o Supremo Tribunal Federal, no julgamento do Tema n. 598 de Repercussão Geral (RE n. 840.435, relator Min. Dias Toffoli, Tribunal Pleno, DJe de 31/10/2023), fixou a seguinte tese: "O deferimento de sequestro de rendas públicas para pagamento de precatório deve se restringir às hipóteses enumeradas taxativamente na Constituição Federal de 1988."
+IV - Ademais, no julgamento do Tema n. 519 de Repercussão Geral (RE n. 659.172, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe de 30/10/2023), o Supremo Tribunal Federal fixou a seguinte tese: "O regime especial de precatórios trazidos pela EC nº 62/09 aplica-se aos precatórios expedidos anteriormente a sua promulgação, observados a declaração de inconstitucionalidade parcial quando do julgamento da ADI nº 4.425 e os efeitos prospectivos do julgado."
+V - O deferimento de sequestro de rendas públicas para pagamento de precatório deve se restringir às hipóteses enumeradas taxativamente na Constituição Federal de 1988, ainda que se trate de pagamento de crédito a portador de moléstia grave.
+VI - Assim, o deferimento do sequestro de rendas públicas para pagamento de precatório somente será cabível quando não verificada a alocação orçamentária do valor necessário à satisfação do débito ou demonstrada a quebra da ordem de preferência de pagamento, o que não ocorreu na hipótese.
+VII - Outrossim, nos termos do fixado no Tema RG n. 519/STF, as regras previstas na EC n. 62/2009 são aplicáveis à hipótese, ainda que o precatório tenha sido expedido anteriormente à promulgação.
+VIII - Recurso ordinário provido, em juízo de retratação.
+É o relatório.
+2. Conforme se verifica dos autos, com o exercício do juízo de retratação, o entendimento do órgão recorrido encontra-se em consonância com o entendimento do Supremo Tribunal Federal em sede de repercussão geral.
+3. Ante o exposto, tendo em vista que a parte recorrente alcançou seu objetivo e não versando o recurso outras questões, fica prejudicado o recurso extraordinário de fls. 402-409, em razão da perda superveniente de objeto.
+Publique. Intimem-se.
+ EMENTA
