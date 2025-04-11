@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JISRAEL DA SILVA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em decorrência do julgamento da Revisão Criminal n. 0022403-26.2024.8.26.0000.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 1ª Vara da Comarca de Guaíra, na Ação Penal n. 1500405-45.2022.8.26.0210, à pena de 9 (nove) anos e 26 (vinte e seis) dias de reclusão, e ao pagamento de 906 (novecentos e seis) dias-multa, como incurso no artigo 33, caput, c/c artigo 40, inciso III, da Lei 11.343/06, em regime inicial fechado (fls. 216-225).
+A defesa apelou ao Tribunal de Justiça do Estado de São Paulo, que deu provimento parcial ao recurso, redimensionando a pena para 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, e ao pagamento de 777 (setecentos e setenta e sete) dias-multa, mantidos os demais termos da condenação (fls. 286-300).
+Após o trânsito em julgado, foi proposta a revisão criminal n. 0022403-26.2024.8.26.0000 perante o Tribunal de Justiça do Estado de São Paulo, que julgou improcedente o pedido revisional (fls. 15-22).
+Na presente impetração, busca-se a concessão da ordem para: (i) revisar os critérios de aumento da pena-base; (ii) reduzir a fração na segunda fase da dosimetria para o patamar de 1/6; e (iii) reconhecer a atenuante da confissão e compensá-la com a reincidência.
+O Ministério Público Federal opinou pela denegação (fls. 401-404).
+É o relatório. DECIDO.
+A controvérsia consiste em uma possível ilegalidade flagrante, consubstanciada pelos critérios empregados na dosimetria da pena.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Tendo em vista a possibilidade de concessão da ordem de ofício, em observância ao §2º do artigo 654 do Código de Processo Penal, transcrevo, para melhor análise, os fundamentos empregados na decisão colegiada impugnada (fls. 15-22):
+ ..
+As penas e o regime também foram bem justificados, considerando as circunstâncias em que os fatos se deram, bem como as condições pessoais do sentenciado, não se verificando, igualmente, que, neste ponto, tenha havido julgamento contrário ao texto expresso da lei penal.
+Ressalta-se que o aumento promovido na primeira fase foi bem justificado; ainda que de maneira sucinta, apontou-se que se aumentava a pena em 1/6 (um sexto) no esteio do entendimento dos tribunais superiores em virtude dos maus antecedentes circunstância judicial presente no art. 59 do Código Penal.
+Assim, não se mostra necessário qualquer outro esclarecimento a respeito do aumento, em especial porque as condenações dos anos de 2014 e 2015 não se mostram demasiadamente antigas, considerando-se que o delito apurado ocorreu no ano de 2022.
+Igualmente, na segunda fase, o aumento de 1/3 (um terço) foi adequado à multirreincidência do peticionário, não tendo relação com a natureza das infrações cometidas, mas sim com o desapreço do réu pelo cumprimento da lei, possuindo 4 (quatro) condenações aptas a gerar reincidência.
+Por fim, adequadamente afastada a confissão, uma vez que em solo policial declarou que só se manifestaria em juízo (fls. 05 dos autos principais) e, em seu interrogatório judicial, não confessou o tráfico, mas o uso de drogas.
+ ..
+Da leitura do acórdão (fls. 15-22), observo que as instâncias originárias promoveram o aumento da pena-base em 1/6 (um sexto) devido à presença da vetorial dos maus antecedentes, na primeira etapa da dosimetria da pena, assim como exasperaram a pena intermediária em 1/3, na segunda etapa da dosimetria, em razão da multirreincidência. Portanto, não vislumbro a presença de constrangimento ilegal, porquanto as frações de aumento guardam razão de proporcionalidade com a gravidade da conduta.
+Quanto à atenuante da confissão espontânea, a moldura fática do acórdão impugnado indica que o paciente permaneceu em silêncio perante a autoridade policial e, em juízo, não confessou o tráfico de drogas, asseverando ser apenas um mero usuário.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio, nos termos da Súmula 630 do STJ.
+Portanto, o que se verifica é que o acórdão impugnado foi decidido de acordo com a orientação jurisprudencial do Superior Tribunal de Justiça, não havendo constrangimento ilegal a ser decotado da condenação.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
