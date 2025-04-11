@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de Agravo apresentado por FACTA FINANCEIRA S.A. CREDITO, FINANCIAMENTO E INVESTIMENTO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CÓDIGO DE DEFESA DO CONSUMIDOR.
+O Código de Defesa do Consumidor é aplicável aos negócios jurídicos firmados entre as instituições financeiras e os usuários de seus produtos e serviços (art. 3º, § 2º, CDC). Súmula 297, STJ.
+EXAME DA ABUSIVIDADE DOS JUROS QUE ADOTA MARGEM DE TOLERÂNCIA ENTRE OS PRATICADOS E A TABELA DO BACEN EM RAZÃO DE JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+No norte trilhado pelo eg. STJ, para verificação da configuração, ou não, de abusividade, deve-se fazer o confronto entre as taxas de juros cobradas pela instituição financeira e as constantes da tabela divulgada pelo BACEN para as mesmas operações de crédito 1 , consoante consolidado no Julgamento efetuado pela 2ª Seção do Superior Tribunal de Justiça no REsp nº 1.061.530/RS, julgado pela sistemática dos recursos repetitivos.
+O Tribunal da Cidadania tem reiteradamente decidido no sentido de que o reconhecimento da abusividade dos juros deve ser comprovada diante de discrepância entre a taxa de média de mercado e aquela praticada pela instituição financeira.
+Mesmo com convencimento de que a taxa média do Bacen é não apenas o parâmetro para a redução do excesso de juros como, também, para a aferição dele e, de que sempre que ultrapassada, há excesso passível de redução por "processos de revisão bancária" , porque "os juros estão acima do mercado e que acrescentar-se à média outro valor, implica na distorção da própria média, fato é que que o eg. STJ tem firmado posicionamento no sentido de se admitir uma faixa razoável para a variação dos juros.
+Como o STJ é o órgão constitucionalmente competente para uniformização da jurisprudência infraconstitucional, e atenta aos ditames do art. 926 do CPC de que "os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente", acolho a orientação consignando a possibilidade de, frente ao caso concreto, aplicar posicionamento até então utilizado.
+Verificado que os encargos praticados nos contratos ultrapassam em 10% a taxa média de mercado divulgada pelo Banco Central, cabível a revisão.
+Caso concreto, em que inegável que a autora tem potencializada a sua fragilidade e vulnerabilidade em relação a parte ré, em uma infinidade de aspectos, em especial no plano técnico para atuar na delicada área de contratos bancários, assim como na esfera fática e socioeconômica, caracterizada pela grande disparidade econômica entre o fornecedor de serviços e o consumidor.
+LIMITAÇÃO DO CUSTO EFETIVO TOTAL (CET). IMPOSSIBILIDADE.
+O Custo Efetivo Total (CET), não é uma rubrica contratual passível de revisão, uma vez que tem caráter meramente informativo vez que "incorpora todos os encargos e despesas incidentes nas operações de crédito (taxa de juro, mas também tarifas, tributos, seguros e outras despesas cobradas)" servindo como paradigma nas opções de empréstimo e financiamento para o consumidor.
+REPETIÇÃO DO INDÉBITO.
+O pagamento resultante de cláusula contratual declarada nula em sede judicial deve ser devolvido de modo simples, e não em dobro.
+No caso de ser apurado eventual excesso, poderá ser compensado com o restante da dívida ou, quanto às prestações vincendas, a sua devolução, de forma simples.
+APELO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 85, § 2º, do CPC, no que concerne ao arbitramento dos honorários sucumbenciais com base no valor da condenação ou do proveito econômico obtido, trazendo a seguinte argumentação:
+De acordo com o artigo 85 do NCPC, os honorários advocatícios incidirão sobre o valor da condenação ou do proveito econômico obtido ou, não sendo possível mensurar o proveito econômico, sobre o valor atualizado da causa.
+ ..
+A v. decisão que fixou os honorários de sucumbência sobre o valor da causa, data vênia, não aplicou o melhor direito e se omitiu quanto a disposição expressa do NCPC.
+De acordo com o artigo 85 do NCPC, os honorários advocatícios incidirão sobre o valor da condenação ou do proveito econômico obtido ou, não sendo possível mensurar o proveito econômico, sobre o valor atualizado da causa.
+Por conseguinte, os honorários advocatícios somente incidirão sobre o valor atualizado da causa se não for possível mensurar o proveito econômico obtido, o que não ocorreu no caso concreto, uma vez que é plenamente possível mensurar o quantum a ser economizado pela parte autora diante do cumprimento da decisão de mérito, ainda que prescinda de cumprimento de sentença. Nesse sentido, os seguintes precedentes:
+ ..
+Ademais, a presente demanda não possui nenhum grau de complexidade que justifique o valor totalmente exorbitante resultante do percentual arbitrado sobre o valor da causa, que é altíssimo.
+Os honorários devem ser fixados de acordo com o trabalho realizado pelo profissional e não resultando em enriquecimento ilícito para o mesmo. Inegável, pois, a ausência de qualquer complexidade no feito, que demandasse, assim, efetivo trabalho do profissional representante da parte autora.
+Ora, para a fixação dos honorários do advogado, incumbe ao juiz atentar para o grau de zelo do profissional, ao lugar da prestação do serviço, à natureza e importância da causa, ao trabalho realizado pelo advogado e ao tempo exigido para o seu serviço, nos termos dos incisos do parágrafo 2º do artigo 85 do NCPC, atendendo ao que se passou na lide e foi por ele verificado. A propósito, neste Egrégio STJ: (fls. 180/181).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal f im. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, Rel. Ministro Luiz Fux, Corte Especial, DJe de 4.2.2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 28.4.2011; REsp n. 1.730.826/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 12.2.2019; AgInt no AREsp n. 1.339.926/PR, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 15.2.2019; AgRg no REsp n. 1.849.115/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe de 23.6.2020; AgRg no AREsp n. 2.022.133/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15.8.2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
