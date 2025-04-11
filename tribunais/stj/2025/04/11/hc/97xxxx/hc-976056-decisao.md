@@ -1,0 +1,29 @@
+DECISÃO
+
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de EDIVALDO RODRIGUES DE OLIVEIRA JUNIOR, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO D E SÃO PAULO na Apelação Criminal n. 1503950-09.2023.8.26.0269.
+Consta dos autos que o paciente foi condenado, à pena de 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão em regime inicial fechado, além do pagamento de 15 (quinze) dias multa, como incurso no art. 157, § 2º, inciso II, do Código Penal.
+Neste writ, o impetrante sustenta que o paciente é primário, possui bons antecedentes e circunstâncias judiciais favoráveis, e que a fixação do regime fechado está baseada exclusivamente na gravidade abstrata do crime, contrariando as Súmulas n . 718 e 719 do STF e a Súmula n. 440 do STJ.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja fixado o regime semiaberto.
+Liminar indeferida (fls. 169-170).
+Informações  prestadas  às  fls.  181-184 e 185-251.
+O  Ministério  Público  Federal  manifestou-se  às  fls.  253-256,  opinando  pelo não conhecimento do writ, e caso conhecido,  pela  denegação  da  ordem.
+É  o  relatório.
+DECIDO.
+Inicialmente,  pontuo  que  esta  Corte  Superior,  seguindo  o  entendimento  do  Supremo  Tribunal  Federal  (AgRg  no  HC  n.  180.365,  Primeira  Turma,  rel.  Min.  Rosa  Weber,  julgado  em  27/03/2020,  e  AgRg  no  HC  n.  147.210,  Segunda  Turma,  rel.  Min.  Edson  Fachin,  julgado  em  30/10/2018),  pacificou  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado  (HC  n.  535.063/SP,  Terceira  Seção,  rel.  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020).
+Na  espécie,  verifico  que  não  há  ilegalidade  flagrante  que  justifique  a  concessão  de  habeas  corpus  de  ofício.
+Quanto ao modo inicial de cumprimento de pena, o Juiz sentenciante consignou (fl. 131):
+A pena privativa de liberdade ora aplicada será cumprida, inicialmente, no regime inicial fechado, uma vez que o crime teve a participação de várias pessoas e foi praticado com intensa selvageria, pois as vítimas, mesmo sem opor resistência, foram agredidas durante a madrugada na casa delas, com subtração de valores; e na esteira do que dispõem os seguintes julgados:
+A Corte local destacou que (fls. 163-164):
+O regime fechado impõe-se. Os apelantes demonstraram culpabilidade acima do normal, com alta periculosidade, praticando o delito durante a madrugada, em concurso de agentes, sendo que o fizeram mediante grave ameaça com o emprego de violência física contra as vítimas, lhes ameaçando de morte. Demonstraram ousadia, reprovabilidade e periculosidade acima do normal, sendo o regime fechado o único adequado no caso em exame, nos termos do artigo 33, §3º, c. c. artigo 59, ambos do Código Penal. Ademais, o regime menos gravoso, em face da maior reprovabilidade não terá o condão de desestimular a prática de novos crimes, o que por si só já autoriza o regime fechado.
+No caso, não há como olvidar a gravidade concreta da conduta, uma vez que o roubo foi praticado durante a madrugada, mediante superioridade numérica, com violência física e ameaças de morte às vítimas. Cabe referir, nessa linha de entendimento, que se admite a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito (AgRg no HC n. 778.769/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/2/2023, DJe de 2/3/2023).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRAMITAÇÃO EM PARALELO DE AGRAVO EM RECURSO ESPECIAL. AFRONTA AO PRINCÍPIO DA UNIRRECORRIBILIDADE. DIREITO PENAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ROUBO MAJORADO. AUTORIA. RECONHECIMENTO PESSOAL. EXISTÊNCIA DE OUTROS MEIOS DE PROVA IDÔNEOS E INDEPENDENTES DO ATO. REGIME PRISIONAL INICIAL FECHADO. GRAVIDADE CONCRETA DOS FATOS. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça não admite o processamento conjunto de recursos e de habeas corpus apresentados contra o mesmo ato jurisdicional, sob pena de ofensa ao princípio da unirrecorribilidade. Precedentes.
+2. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois a condenação do agravante não se ampara exclusivamente em seu reconhecimento pessoal pela vítima do crime patrimonial, tendo sido mencionada expressamente a existência de outros elementos dentro do acervo probatório disponível capazes de lhe atribuir a autoria delitiva do roubo majorado.
+3. A fixação do regime fechado para o início do cumprimento da pena foi justificada pelas circunstâncias concretas do roubo majorado, evidenciadas pelo modus operandi empregado na execução do delito, o qual, além do concurso de pessoas, foi marcado pelo emprego de violência efetiva contra a vítima, que foi agredida com chutes pelos autores do crime.
+4. Consoante a jurisprudência desta Corte Superior, "inexiste violação das Súmulas n. 440 desta Corte Superior, 718 e 719, ambas do Supremo Tribunal Federal, quando a fixação do regime prisional é baseada na gravidade concreta do delito. No caso, considerou-se, para a fixação do regime inicial fechado, que o Paciente praticou os delitos, em concurso de agentes, com emprego de arma de fogo e grave ameaça, circunstâncias que demonstram maior reprovabilidade da conduta delituosa" (HC n. 470.750/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 5/2/2019, DJe de 19/2/2019.).
+5. Agravo regimental improvido.
+(AgRg no HC n. 890.250/SP, relator Ministro Og Fernandes, Sexta Turma, julgado em 4/11/2024, DJe de 7/11/2024; grifamos)
+Ante  o  exposto,  não  conheço  do  pedido  de  habeas  corpus.
+Publique-se.  Intimem-se.
+EMENTA
