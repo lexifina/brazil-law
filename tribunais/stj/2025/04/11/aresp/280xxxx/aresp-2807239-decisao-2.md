@@ -1,0 +1,40 @@
+DECISÃO
+GRÉCIA TEODORA GURGEL DE MEDEIROS agrava de decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Rio Grande do Norte na Apelação Criminal n. 0100184-10.2018.8.20.0160.
+A agravante foi condenada pelos crimes de latrocínio, roubo majorado (concurso de agentes, restrição de liberdade da vítima e emprego de arma de fogo) e participação em organização criminosa, e o Tribunal de origem negou provimento à sua apelação.
+Os embargos de declaração opostos foram parcialmente acolhidos, para corrigir erro material da sentença não corrigido no acórdão principal e, assim, estabelecer a pena definitiva da ré em 44 anos, 10 meses e 5 dias de reclusão, em regime fechado, mais 690 dias-multa.
+Nas razões do recurso especial, a defesa indicou dissídio jurisprudencial e violação dos arts. 386, III e VII, do Código de Processo Penal e pediu a absolvição da acusada em relação a todos os delitos imputados na denúncia, sob o argumento de insuficiência de provas para condená-la. Subsidiariamente, requereu a absolvição dela apenas quanto ao crime de organização criminosa, em virtude da atipicidade de sua conduta.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, e o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Augusto Aras, manifestou-se pelo não conhecimento do agravo em recurso especial (fls. 3.645-3.657).
+Decido.
+O agravo é tempestivo e atacou os fundamentos da decisão agravada, motivos pelos quais comporta conhecimento. Procedo à análise do especial.
+O Tribunal de origem assim resolveu a controvérsia (fls. 3.384-, grifei):
+Quanto à autoria delitiva imputada à apelante Grécia Teodora Gurgel de Medeiros, restou comprovada por meio das extrações de dados do aparelho celular dela, as quais demonstraram a sua participação nos roubos que culminaram na morte do policial Ildonio José da Silva, bem como na organização criminosa "Sindicato do Crime do RAP".
+Neste sentido, apurou-se durante as investigações que a apelante possuía um relacionamento afetivo com a pessoa de Vantuir de Lima, falecido, e que também era integrante da organização criminosa, com o qual planejavam um assalto ao ônibus escolar, cabendo a ela informar o melhor momento para que o grupo criminoso formado por Vantuir de Lima e outras pessoas abordasse e realizasse o roubo. Veja-se:
+ ..
+As extrações apontaram, ainda, que, no dia dos fatos, a apelante enviou novas mensagens a Vantuir de Lima, confirmando que o assalto deveria ocorrer naquele dia, pois o policiamento seria realizado tão somente por Ildonio José da Silva:
+ ..
+Merecem destaque, ainda, os relatos extrajudiciais do adolescente J. A. F., que, perante a autoridade policial, afirmou que (ID. 17966773 p. 9 - 10):
+ ..
+No mesmo sentido, os relatos extrajudiciais de Tallyson Dantas (falecido) confirmam a participação da apelante nos roubos e na organização criminosa, ID. 17966830 p. 48 - 49:
+ ..
+Por fim, vale acrescentar que, além de informante, incumbiu-se ainda a apelante o papel de revender os objetos subtraídos dos estudantes e repassar o valor arrecadado aos demais integrantes da organização criminosa, conforme transcrições das mensagens extraídas do celular dela:
+ ..
+Verifica-se, assim, que o conjunto probatório apontou satisfatoriamente a autoria delitiva imputada à apelante, que, na condição de informante da organização criminosa, forneceu informações de relevada importância para o êxito do evento delituoso, o qual resultou na morte do policial Ildônio José da Silva e subtração dos bens de, no mínimo, vinte estudantes, razão pela qual deve ser mantida a condenação.
+Como se vê, as instâncias antecedentes concluíram pela condenação da ré em relação aos crimes de latrocínio, roubo majorado e participação em organização criminosa. Com base nas provas dos autos, concluíram que a acusada, na condição de informante, responsável por dizer o melhor momento para que o grupo criminoso atuasse, e na função de revendedora, incumbida de comercializar os objetos subtraídos dos estudantes e repassar o valor arrecadado aos demais comparsas, participou do planejamento do assalto ao ônibus escolar, executado pela organização criminosa da qual fazia parte, denominada "Sindicato do Crime do RAP", que resultou na morte de um policial.
+Alterar a referida conclusão, para absolver a recorrente por insuficiência de provas ou pela atipicidade de sua conduta, exigiria reexame de fatos e provas, o que não se admite no recurso especial, por força da Súmula n. 7 do STJ.
+Ademais, quanto ao crime de organização criminosa, o Tribunal estadual, ao afirmar que a denunciada atuava em estrutura composta por mais de quatro integrantes, ordenada, estável e com divisão de tarefas, voltada para a prática de roubos, demonstra, por meio de sua fundamentação, os requisitos necessários para a caracterização típica do delito descrito no art. 2º, caput, da Lei 12.850/2013.
+Ao trazer esse entendimento, o acórdão recorrido fica em harmonia com a jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83 do STJ.
+A propósito:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO QUALIFICADA E ORGANIZAÇÃO CRIMINOSA. NÃO CONHECIMENTO DO HABEAS CORPUS SUBSTITUTIVO. REEXAME DE PROVAS. IMPOSSIBILIDADE NA VIA ESTREITA DO HABEAS CORPUS. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus substitutivo de recurso próprio, impetrado em favor de acusado de receptação qualificada e organização criminosa. A defesa sustenta nulidade processual por reformatio in pejus, alegando que a 3ª Vara Criminal de Brasília recebeu integralmente a denúncia, anteriormente rejeitada parcialmente pela 3ª Vara Criminal de Ceilândia, sem novos elementos probatórios. Além disso, questiona a suficiência de provas para a condenação por receptação qualificada e organização criminosa. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) se o recebimento integral da denúncia pela 3ª Vara Criminal de Brasília caracteriza reformatio in pejus; e (ii) se o habeas corpus é cabível para reexame de provas quanto à imputação dos crimes de receptação qualificada e organização criminosa. III. RAZÕES DE DECIDIR
+3.O habeas corpus não é cabível como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade que ameacem a liberdade do paciente, conforme entendimento consolidado do STJ e STF.
+4. A alegação de reformatio in pejus é afastada, pois o Juízo da 3ª Vara Criminal de Brasília, ao ser declarado competente, possuía legitimidade para reanalisar a denúncia e decidir pelo recebimento integral, considerando o preenchimento dos requisitos dos arts. 41 e 395 do CPP.
+5. O Tribunal de origem refutou a insuficiência probatória quanto à receptação qualificada, apontando interceptações telefônicas e depoimentos que indicam a participação ativa do paciente na revenda de celulares de origem ilícita.
+6. Quanto ao crime de organização criminosa, o Tribunal destacou que o paciente atuava em estrutura ordenada e estável com divisão de tarefas para comercialização de produtos obtidos ilicitamente, atendendo aos requisitos do art. 2º da Lei 12.850/2013.
+7. Para desconstituir as conclusões sobre autoria e materialidade dos crimes, seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do habeas corpus, conforme jurisprudência pacífica desta Corte. IV. DISPOSITIVO
+8.Agravo regimental desprovido.
+(AgRg no HC n. 953.277/DF, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 18/12/2024, DJEN de 23/12/2024, grifei)
+Por fim, segundo entendimento deste Superior Tribunal, a inadmissão ou o não provimento do especial interposto com fundamento no art. 105, III, "a", da Constituição Federal prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial, se o dissídio alegado diz respeito ao mesmo dispositivo legal ou à mesma tese jurídica, como na espécie.
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
+EMENTA
