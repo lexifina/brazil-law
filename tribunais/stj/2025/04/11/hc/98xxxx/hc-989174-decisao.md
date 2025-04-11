@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de AMANDA SOARES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2035958- 42.2025.8.26.0000).
+Consta dos autos que a paciente foi presa em flagrante pela suposta prática do crime de tráfico de entorpecentes. A impetrante sustenta a ilegalidade da prisão preventiva, alegando ausência de fundamentação idônea e a presença de condições pessoais favoráveis da paciente.
+Aduz que a ré é primária, menor de 21 (vinte e um) anos, possui residência fixa e atividade lícita comprovada. Acrescenta que não há elementos concretos que demonstrem o periculum libertatis, destacando que a decisão foi baseada apenas em presunções decorrentes da quantidade de drogas apreendidas.
+Argumenta que a acusada possui histórico de trabalho lícito, com anotações em carteira desde 18/07/2022, e não possui antecedentes criminais ou envolvimento com atos infracionais. Defende a possibilidade de substituição da prisão preventiva por medidas cautelares alternativas.
+Requer, liminarmente, a concessão da liberdade provisória à paciente. No mérito, pleiteia a concessão definitiva da ordem para restaurar a liberdade da paciente. Subsidiariamente, pugna pela substituição da prisão preventiva por medidas cautelares previstas no artigo 319 do Código de Processo Penal.
+Decisão pelo indeferimento do pedido liminar às fls. 91-93.
+Informações prestadas às fls. 96-129.
+Parecer do Ministério Público Federal, às fls. 132-138, pelo não conhecimento do mandamus.
+É o relatório.
+DECIDO.
+No caso, o Tribunal de origem assim manteve a segregação cautelar, consoante a ementa abaixo (fls. 12):
+EMENTA: DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ORDEM DENEGADA. I. CASO EM EXAME. 1. HABEAS CORPUS CONTRA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA DA PACIENTE PRESO EM FLAGRANTE POR TRÁFICO DE ENTORPECENTES. II. QUESTÃO EM DISCUSSÃO. 2. A QUESTÃO EM DISCUSSÃO CONSISTE EM VERIFICAR (I) A LEGALIDADE DA PRISÃO PREVENTIVA DIANTE DAS ALEGAÇÕES DE AUSÊNCIA DE FUNDAMENTAÇÃO E CONDIÇÕES PESSOAIS FAVORÁVEIS DA PACIENTE, E (II) A POSSIBILIDADE DE SUBSTITUIÇÃO PELAS MEDIDAS CAUTELARES ALTERNATIVAS DO ART. 319 DO CPP. III. RAZÕES DE DECIDIR. 3. DECISÃO DEVIDAMENTE FUNDAMENTADA. PRESENTES OS INDÍCIOS DE AUTORIA E PROVA DA MATERIALIDADE NECESSÁRIOS À DECRETAÇÃO DA MEDIDA. NECESSIDADE DE ACAUTELAMENTO BEM EVIDENCIADA POR DECISÃO SUFICIENTEMENTE FUNDAMENTADA NA GRAVIDADE CONCRETA DO DELITO: QUANTIDADE EXPRESSIVA DE DROGA APREENDIDA EM CONJUNTO COM A FORMA PELA QUAL CHEGOU À POSSE DA PACIENTE, SUGESTIVA DO ENVOLVIMENTO COM GRUPO ORGANIZADO E ESTRUTURADO QUE SE DEDICA À TRAFICÂNCIA. 4. INSUFICIÊNCIA DAS MEDIDAS ALTERNATIVAS À PRIVAÇÃO DE LIBERDADE CAUTELAR POR FORÇA DAS CIRCUNSTÂNCIAS DELINEADAS, QUE PREVALECEM SOBRE CONDIÇÕES PESSOAIS FAVORÁVEIS. IV. DISPOSITIVO E TESE. 5. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM DENEGADA.
+Dos excertos transcritos, concluo que, ao contrário do que alega a Defesa, a prisão preventiva foi suficientemente fundamentada pelas instâncias ordinárias, tendo sido ressaltada a gravidade concreta da conduta do paciente, evidenciada a partir da grande quantidade e variedade de substância entorpecente apreendida - 570,4g (quinhentos e setenta gramas e quatro decigramas) de cocaína distribuídas em 381 eppendorfs e 85g (oitenta e cinco gramas) de maconha distribuídas em 85 (oitenta e cinco) porções - que pretendiam viciar uma diversidade de usuários.
+Tal circunstância demonstra a periculosidade da agente e é apta a justificar a segregação cautelar para garantia da ordem pública, evitando, pois, que ela volte a praticar delitos da mesma natureza.
+Com efeito,
+(a) jurisprudência desta Corte Superior é firme ao asseverar que, nas hipóteses em que a quantidade das drogas apreendidas e outras circunstâncias do caso revelem a maior gravidade do tráfico, tais dados são bastantes para demonstrar a periculosidade social do réu e a necessidade de garantir a ordem pública, ante o fundado receio de reiteração delitiva (RHC n. 193.876/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/4/2024, DJe de 30/4/2024).
+Exemplificativamente:
+PEDIDO DE RECONSIDERAÇÃO. RECEBIMENTO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE EXPRESSIVA DE DROGA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. SUBSTITUIÇÃO. INVIABILIDADE. DESPROVIMENTO.
+1. Apresentada fundamentação idônea para a prisão cautelar, consistente na gravidade concreta da conduta, evidenciada na expressiva quantidade de entorpecente (270 gramas de cocaína), não há falar-se em ilegalidade.
+2. "Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão (art. 319 do CPP). Precedentes." (AgRg no HC n. 781.094/GO, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, julgado em 24/4/2023, DJe de 27/4/2023.)
+3. Agravo regimental desprovido.
+(RCD no HC n. 891.933/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, DJe de 25/4/2024).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. CONDIÇÕES FAVORÁVEIS. IRRELEVÂNCIA IN CASU. AUTORIA. NEGATIVA. FLAGRANTE. NULIDADE. SUPRESÃO DE INSTÂNCIA.
+(..)
+2. No caso, a prisão preventiva está justificada, pois, segundo a decisão que a impôs, o agravante foi flagrado em posse de grande quantidade e variedade de substância entorpecente, a saber, aproximadamente 318g (trezentos e dezoito gramas) de crack e 422g (quatrocentos e vinte e dois gramas) de maconha, além de uma balança de precisão. Dessarte, está evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 192.110/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS (500 G DE COCAÍNA). PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+(AgRg no RHC n. 178.381/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se mostra suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
