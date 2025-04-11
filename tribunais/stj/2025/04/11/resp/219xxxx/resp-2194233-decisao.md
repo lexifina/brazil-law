@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA, com fundamento no art. 105, III, da Constituição Federal, contra acórdão assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXPEDIÇÃO DE MANDADO DE LIVRE PENHORA E CONSTATAÇÃO.
+1. A questão encontra-se pacificada nas Turmas Administrativas desta Corte, que firmaram entendimento no sentido de que é possível a expedição de mandado de livre penhora e constatação/ manutenção das atividades da empresa executada.
+2. É lícito ao exequente requerer a expedição de mandado de penhora por Oficial de Justiça, mesmo sem indicação de bens, reputando-se ônus do exequente a indicação específica de bens, para fins de cumprimento de novo mandado, somente se a primeira providência restar infrutífera.
+3. Hipótese em que a empresa não foi localizada em seu endereço comercial, mostra-se, ao menos por ora, contraproducente a expedição de mandado de livre penhora e constatação.
+4. Recurso improvido.
+Os embargos de declaração opostos pelo IBAMA foram rejeitados pelo Tribunal de origem.
+Inicialmente, em seu recurso especial, o IBAMA suscitou contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca do fato de que "foi efetuada a citação da matriz em endereço diverso, consoante se constata dos eventos 15 (AR1) e da Certidão de ev. 36, onde a executada foi localizada em 30/08/2022.", fator que possibilitaria a expedição de mandado de livre penhora requerida pelo Ente Público.
+Em seguida, ainda em suas razões de insurgência, o IBAMA apontou violação aos arts. 7, I, II da LEF e 154, I, II, III, IV, V,VI, 797, 829 §1º e §2º, 831, 835, 836 e 838 do CPC/2015.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022 do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ausência de manifestação do Tribunal de origem sobre o fato de que houve "a citação da matriz em endereço diverso, consoante se constata dos eventos 15 (AR1) e da Certidão de ev. 36, onde a executada foi localizada em 30/08/2022.". Deve-se destacar, inclusive, que o IBAMA indicou - com colacionamento da respectiva certidão do Sr. Oficial de Justiça - que o contribuinte, por seu representante, fora pessoalmente localizado na Av. Mário Filho, 2200, Foz do Iguaçu/PR. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido. (AgRg no REsp n. 1.221.403/RS, Rel. Min. Napoleão Nunes Maio Filho, Dje de 23/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido. (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 18/4/2016.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre o fato de que "foi efetuada a citação da matriz em endereço diverso, consoante se constata dos eventos 15 (AR1) e da Certidão de ev. 36, onde a executada foi localizada em 30/08/2022.".
+Publique-se. Intimem-se.
+ EMENTA
