@@ -1,0 +1,32 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento interposto contra decisão que acolheu a impugnação oposta pela UNIÃO (executada) aos cálculos apresentados pelo exequente em procedimento de cumprimento de sentença. No Tribunal a quo, negou-se provimento ao agravo de instrumento.
+O recurso especial, fundamentado no art. 105, III, a, da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESAPROPRIAÇÃO. IMPUGNAÇÃO. PRECATÓRIO. IMPUTAÇÃO PAGAMENTO. PRECLUSÃO. 1. O FUNDAMENTO DO INSTITUTO DA PRECLUSÃO É IMPEDIR A ETERNIZAÇÃO DAS DEMANDAS, GARANTINDO A SEGURANÇA JURÍDICA E ESTABILIZANDO O PROCESSO AO SEDIMENTAR AS FASES DOS PROCEDIMENTOS. 2. É PACÍFICO O ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO SENTIDO DE QUE O ERRO MATERIAL, ALTERÁVEL A QUALQUER TEMPO, É AQUELE DERIVADO DE SIMPLES CÁLCULO ARITMÉTICO, OU INEXATIDÃO MATERIAL, E NÃO DECORRENTE DE ELEMENTOS OU CRITÉRIOS DE CÁLCULO. 3. A REGRA DE IMPUTAÇÃO DO PAGAMENTO CONTIDA NO ART. 354 DO CÓDIGO CIVIL NÃO SE APLICA ÀS DÍVIDAS DA FAZENDA PÚBLICA. 4. O PRAZO A TRANSCORRER APÓS A INTIMAÇÃO DOS CÁLCULOS APRESENTADOS PELA CONTADORIA JUDICIAL É O MOMENTO CORRETO PARA APRESENTAÇÃO DA IMPUGNAÇÃO, SOB PENA DE OCORRÊNCIA DE PRECLUSÃO CONSUMATIVA.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Entendo que a decisão agravada, que reconheceu a preclusão em relação à discussão trazida pelo agravante a respeito de eventuais erros nos cálculos elaborados em 1989, deve ser mantida por seus fundamentos.
+É inconteste que houve concordância das partes quanto à conta apresentada na fl. 1.818/1.819 dos autos (E 44, despach611/612). Sobre tal conta houve agravo de instrumento (E 44, PET 600), que a manteve íntegra, além de decisão judicial que, ao determinar a requisição ao TRF4 do valor remanescente, declarou expressamente que o fez diante da inexistência de impugnação (E44, DESPADEC 618).
+Conforme bem analisado pela magistrada a quo (evento 110 - DESPADEC1), os documentos constantes nos autos demonstram que os valores referentes ao precatório ora em discussão foram disponibilizados pela União em 21.06.1977 (evento 44 - OF CIO_C344 - p. 2).
+ ..
+Além de não haver impugnação anterior à sistemática de amortização - a própria agravante admite que o art. 993 do CC/1916 deveria ter sido aplicado quando vigente -, a decisão agravada está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a regra de imputação do pagamento contida no art. 354 do Código Civil não se aplica às dívidas da Fazenda Pública
+ ..
+Ainda, é pacífico o entendimento do Superior Tribunal de Justiça no sentido de que o erro material, alterável a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não o decorrente de elementos ou critérios de cálculo.
+ ..
+No caso, não verifico a existência de erro ou inexatidão material capaz de afastar a coisa julgada formada em sucessivas homologações de cálculos apresentados no decorrer do processo.
+ ..
+De toda forma, é patente a extemporaneidade da postulação da exequente, que há anos vem recebendo pagamentos referentes à indenização determinada na sentença e, agora, pretende o recálculo de todo o valor da execução.
+Da leitura dos autos verifica-se que a parte exequente concordou expressamente com os cálculos realizados em 11.04.1989 (evento 44 - DESPADEC371, fls 988 e 990 e PET372) que incluíam também a dedução do valor ofertado a título de depósito.
+ ..
+Dessa forma, o prazo a transcorrer após a intimação dos cálculos apresentados pela Contadoria Judicial é o momento correto para apresentação da impugnação, sob pena de ocorrência de preclusão consumativa. Cito, novamente, a jurisprudência do Superior Tribunal de Justiça.
+ ..
+Inadmissível, portanto, no presente momento, reabrir discussão sobre o depósito ofertado, a sistemática de amortização do saldo devedor, termo inicial dos juros moratórios/remuneratórios e o pagamento de precatório disponibilizado há mais de 40 anos, ainda mais por ter a parte exequente concordado com os cálculos elaborados pelo perito judicial.
+Por fim, a agravante alega que não existe sobrepartilha na Justiça Estadual, uma vez que o processo n.º 001/1.16.0065958-7 teve a distribuição cancelada e que não houve o término definitivo do inventário. Por tais motivos requer a reforma da decisão agravada para que seja reconhecida a legitimidade da representação do espólio de Nelson Correa de Barros pelo seu inventariante, Nelson Pantaleão de Barros.
+Em que pese a argumentação da agravante, verifico em consulta à página do Tribunal de Justiça do Rio Grande do Sul que, embora a distribuição da sobrepartilha (001/1.16.0065958-7) tenha sido efetivamente cancelada, o processo de inventário (001/1.05.0738073-1) transitou em julgado em 27.06.2016, sendo arquivado definitivamente em 09/05/2018.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
