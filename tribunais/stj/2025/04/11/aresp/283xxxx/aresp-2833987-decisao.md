@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por HEINZ BRASIL S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Ação: de Cobrança proposta por CARGOPEX TRANSPORTES LTDA. contra HEINZ BRASIL S.A.
+Acórdão: Negou provimento à apelação interposta pela parte agravante, nos termos da seguinte ementa:
+"DUPLA APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. DUPLICATA SEM ACEITE. AUSÊNCIA DE PROVA SEGURA ACERCA DA ENTREGA DAS MERCADORIAS. IMPROCEDÊNCIA. IMPUGNAÇÃO À GRATUIDADE DA JUSTIÇA. ASSISTENTE LITISCONSORCIAL VENCIDO NA DEMANDA. CONDENAÇÃO NA VERBA HONORÁRIA SENTENÇA MANTIDA. 1. A duplicata mercantil é um título causal vinculado à sua origem, sendo que a sua emissão deve estar vinculada a uma efetiva compra/venda de mercadorias ou prestação de serviço. 2. Na ausência de aceite, a sua cobrança pode ser admitida, desde que devidamente protestada e acompanhada das notas fiscais, bem como de prova da efetiva entrega dos produtos adquiridos, a teor do disposto no art. 15, II, da Lei 5.494/68. 3. Assim, os DACTE"s (Documento Auxiliar do Conhecimento de Transporte Eletrônico) sem os respectivos canhotos assinados pela requerida, não permite a segura demonstração da entrega da mercadoria adquirida, sendo a improcedência do pedido de cobrança medida que se impõe. 4. Prevalece a presunção de veracidade, que decorre da situação de hipossuficiência já estabelecida no contexto da lide originária, quando o impugnante não se ocupa em colacionar aos autos elementos que evidenciem a alteração da incapacidade financeira que ensejou o deferimento da justiça gratuita ao impugnado. 5. Vencida a parte autora, deve o assistente litisconsorcial responder em conjunto à requerente, pelo pagamento dos honorários advocatícios, uma vez que os efeitos da sentença se estendem a ele. 1ª APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. 2ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA." (e-STJ Fls. 2536-2546)
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial em razão dos seguintes fundamentos:
+i. incidência da Súmula 7/STJ.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante alega que o recurso interposto não esbarra na Súmula 7 do STJ, pois não há necessidade de revisão de fatos e provas, mas apenas a qualificação jurídica dos fatos, conforme jurisprudência do STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices:
+i. incidência da Súmula 7/STJ.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
