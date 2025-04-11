@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por BRENO HENRIQUE PEREIRA DE ALENCAR, para impugnar acórdão lavrado pelo Tribunal de Justiça do Estado de São Paulo, que denegou a ordem vindicada nos autos do habeas corpus nº 2266652-78.2023.8.26.0000.
+Consta dos autos que o recorrente foi denunciado ante a suposta prática do crime previsto no artigo 16, §1º, inciso IV, da Lei nº 10.826/03, por portar arma de fogo de uso restrito, uma pistola marca "Beretta", calibre 635, com numeração suprimida e municiada com 7 projéteis íntegros desse calibre, um carregador e coldre, sem autorização e em desacordo com determinação legal ou regulamentar.
+No presente recurso, requer a defesa a declaração de nulidade da fundamentação utilizada pela Procuradoria-Geral de Justiça na manifestação combatida e, consequentemente, a remessa dos autos à PGJ, para que apresente nova manifestação em relação ao oferecimento do ANPP em favor do paciente.
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus.
+É o relatório. DECIDO.
+O recurso deve ser conhecido, porquanto presentes os requisitos de admissibilidade recursal.
+No mérito, contudo, tenho que inexiste fundamento jurídico hábil a amparar a pretensão recursal.
+Conforme já reconhecido no bojo da ação cautelar inominada nº 361 - SP, é possível depreender que o Ministério Público atuante em primeiro grau de jurisdição e o Procurador-Geral de Justiça do Estado de São Paulo apresentaram justificativas concretas e mediante dados extraídos do contexto fático dos autos para a negativa de oferecimento do acordo de não persecução penal.
+É certo, ademais, que o acórdão lavrado pelo Tribunal paulista ao denegar o habeas corpus de origem se encontra fundamentado e embasado, igualmente, em elementos oriundos do caso concreto.
+De se ver que "a jurisprudência desta Corte é pacífica no sentido de que cabe ao Ministério Público avaliar, fundamentadamente, se é cabível, no caso concreto, propor o acordo de não persecução penal. Desse modo, o referido negócio jurídico pré-processual não constitui direito subjetivo do investigado" (AgRg no RHC n. 181.537/SC, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 14/8/2023, DJe de 21/8/2023).
+E, ainda, à luz do entendimento do Egrégio Supremo Tribunal Federal, "as condições descritas em lei são requisitos necessários para o oferecimento do Acordo de Não Persecução Penal (ANPP), importante instrumento de política criminal dentro da nova realidade do sistema acusatório brasileiro. Entretanto, não obriga o Ministério Público, nem tampouco garante ao acusado verdadeiro direito subjetivo em realizá-lo. Simplesmente, permite ao Parquet a opção, devidamente fundamentada, entre denunciar ou realizar o acordo, a partir da estratégia de política criminal adotada pela Instituição" (STF, 1ªT, AgRg no HC nº 199.892, Rel. Min. Alexandre de Moraes, DJE 26/5/2021).
+Ante o exposto, com fundamento no art. 34, XVIII, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
