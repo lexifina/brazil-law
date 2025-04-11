@@ -1,0 +1,59 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo regimental, mantendo o não conhecimento parcial do recurso especial.
+O julgado recorrido recebeu a seguinte ementa (fls. 586-587):
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO EM PARTE. AUSÊNCIA DE PREQUESTIONAMENTO. PRETENSÕES DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO E ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que conheceu em parte do recurso especial e deu-lhe parcial provimento, a fim de afastar a natureza da droga como circunstância judicial negativa e reduzir a pena-base do recorrente. Manteve-se, contudo, o afastamento da minorante por tráfico privilegiado e o regime inicial fechado para cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em saber: i) se houve o devido prequestionamento quanto à tese de violação do art. 155 do CPP; ii) se a Súmula n. 7 do STJ impede o acolhimento da pretensão de aplicação da minorante por tráfico privilegiado; e iii) se houve fundamentação idônea para a fixação do regime inicial fechado.
+III. Razões de decidir
+3. O agravo regimental não trouxe novos argumentos capazes de alterar o entendimento firmado anteriormente, mantendo-se a decisão agravada por seus próprios fundamentos.
+4. A ausência de manifestação específica pelo Tribunal de origem sobre a tese de violação do art. 155 do CPP e a falta de embargos de declaração para sanar a omissão configuram ausência de prequestionamento, incidindo as Súmulas n. 282 e 356 do STF.
+5. A incidência da Súmula n. 7 do STJ é inafastável, pois, estando a decisão de descabimento da minorante do tráfico privilegiado suficientemente embasada nas provas reunidas nos autos de origem, a análise de tal pedido demandaria o reexame do conjunto fático-probatório.
+6. Esta Corte possui o entendimento de que a presença de uma ou mais circunstâncias judiciais desfavoráveis autoriza a fixação de regime prisional mais gravoso (no caso, o fechado), mesmo se tratando de pena de reclusão não excedente a 8 anos.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A ausência de prequestionamento impede o conhecimento do recurso especial quanto a teses não apreciadas pelo tribunal de origem. 2. A Súmula n. 7 do STJ veda o reexame de provas em recurso especial, mesmo em casos de análise de minorantes. 3. A presença de uma ou mais circunstâncias judiciais desfavoráveis autoriza a fixação de regime fechado, mesmo se tratando de pena de reclusão não excedente a 8 anos."
+A parte recorrente alega a existência de repercussão geral da matéria debatida e de contrariedade, no acórdão impugnado, aos arts. 5º, XXXV, e 93, IX, da Constituição Federal.
+Sustenta que o acórdão recorrido violou os princípios da inafastabilidade da jurisdição e da fundamentação das decisões judiciais, pois manteve a decisão monocrática meramente repisando os seus fundamentos para não conhecer a parcela da insurgência que versava sobre a aplicação da redutora prevista no §4º do art. 33 da Lei nº 11.343, sem trazer nenhuma efetiva contraposição aos argumentos aventados no agravo regimental defensivo para demonstrar a inexistência dos óbices aventados para tanto.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. No julgamento do paradigma vinculado ao Tema n. 339, o Supremo Tribunal Federal apreciou a seguinte questão:
+ ..  se decisão que transcreve os fundamentos da decisão recorrida, sem enfrentar pormenorizadamente as questões suscitadas nos embargos declaratórios, afronta o princípio da obrigatoriedade de fundamentação das decisões judiciais, nos termos do art. 93, IX, da Constituição Federal.
+Na ocasião, firmou-se a seguinte tese vinculante:
+O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas.
+Por isso, para que um acórdão ou decisão seja considerado fundamentado, conforme definido pelo STF, não é necessária a apreciação de todas as alegações feitas pelas partes, desde que haja motivação considerada suficiente para a solução da controvérsia.
+Nesse contexto, a caracterização de ofensa ao art. 93, IX, da Constituição Federal não está relacionada ao acerto atribuído ao julgado, ainda que a parte recorrente considere sucinta ou incompleta a análise das alegações recursais.
+No caso dos autos, foram apresentados, de forma satisfatória, os fundamentos da conclusão do acórdão recorrido, como se observa do seguinte trecho do referido julgado (fls. 590-595):
+Porém, apesar do empenho do agravante, a decisão agravada deve ser mantida.
+Primeiramente, verifica-se que não houve a manifestação específica pelo Tribunal de origem sobre a tese relativa à violação do art. 155 do CPP, no que diz respeito ao uso de provas oriundas da fase pré-processual para fundamentar o afastamento da minorante por tráfico privilegiado, nem foram oferecidos embargos de declaração por parte da defesa para sanar tal omissão.
+Dessa forma, o recurso especial carece do adequado e indispensável prequestionamento. Incidentes, por analogia, as Súmulas n. 282 (" é  inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada") e n. 356 (" o  ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"), ambas do STF.
+Dessa forma, deve ser mantido o não conhecimento do apelo nobre quanto ao ponto.
+ ..
+Prosseguindo, o TJSC, soberano no exame das provas, assim decidiu sobre o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, nos seguintes termos do voto do relator:
+"4. Do pedido de aplicação da causa especial de diminuição de pena contida no art. 33, § 4º, da Lei n. 11.343/06
+Sem maiores digressões, inviável o acolhimento do pleito, pois ainda que o réu seja primário, sua dedicação às atividades criminosas, de forma habitual, ficou sobejamente comprovada, pois conforme informações extraídas do telefone celular, verifica-se que pelo menos desde o mês de abril de 2021 Luann já estava comercializando entorpecentes, assim permanecendo até o dia 12.11.2021, data em que foi dado cumprimento ao mandado de busca e apreensão expedido em seu desfavor.
+Desse modo, considerando que o réu não é um "traficante de primeira viagem", fica evidente que não faz jus a aludida benesse." (fls. 435/436)
+Extrai-se do trecho acima que o Tribunal a quo concluiu, com base nas provas reunidas nos autos de origem, que o agravante se dedicava ao tráfico de drogas de maneira habitual. Nessa esteira, apontou-se que restou demonstrado, a partir de informações extraídas de seu telefone celular, que o recorrente vinha comercializando entorpecentes há mais de 6 meses, já que foi verificado que ele praticava tal atividade ilícita desde abril de 2021, tendo seguido traficando até, pelo menos, novembro do mesmo ano, quando foi dado cumprimento ao mandado de busca e apreensão expedido em seu desfavor.
+Dessa forma, restou evidenciada sua dedicação a atividades ilícitas, o que impossibilita a concessão da benesse, conforme a redação legal do art. 33, § 4º, da Lei n. 11.343/2006.
+Com efeito, inafastável a incidência da Súmula n. 7 do STJ, pois, para se concluir em sentido diverso, seria imprescindível o reexame de todo o conjunto fático- probatório, o que é vedado em recurso especial. No mesmo sentido, citam-se precedentes (grifos nossos):
+ ..
+Por fim, a imposição do regime inicialmente fechado para cumprimento da pena de reclusão, a qual foi reduzida pela decisão ora agravada em 5 anos e 10 meses de reclusão e 583 dias-multa, foi mantida (fl. 560), tendo em vista a presença de circunstância judicial negativa (culpabilidade do agente) que justificou tal fixação.
+Nessa senda, o entendimento de que a presença de circunstância judicial desfavorável justifica a escolha de regime prisional mais gravoso encontra amparo na jurisprudência desta Corte. No mesmo sentido, citam-se precedentes (grifos nossos):
+ ..
+Ante o exposto, voto pelo desprovimento do agravo regimental.
+Assim, fica inviabilizado o exame pretendido nesta insurgência.
+Com efeito, demonstrado que houve prestação jurisdicional compatível com a tese fixada pelo STF no Tema n. 339 sob o regime da repercussão geral, é inviável o prosseguimento do recurso extraordinário, que deve ter o seguimento negado.
+3. No tocante às demais alegações, nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o STF já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não tem repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos. Tal situação é a que se verifica no presente caso em que esta Corte Superior não conheceu da matéria sobre a qual se insurge a parte recorrente ante a incidência das Súmulas 7 do STJ, 282 e 356 do STF .
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do recurso extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+4. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DO JULGADO RECORRIDO. SUFICIÊNCIA. TEMA N. 339 DO STF. CONFORMIDADE COM A TESE FIXADA EM REPERCUSSÃO GERAL. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF, SOB A SISTEMÁTICA DA REPERCUSSÃO GERAL. ART. 1.030, I, A, DO CPC. NEGATIVA DE SEGUIMENTO.
