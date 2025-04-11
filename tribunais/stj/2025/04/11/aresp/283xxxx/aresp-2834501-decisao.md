@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/03/2024.
+Concluso ao gabinete em: 04/02/2025.
+Ação: revisional de contrato bancário de empréstimo com restituição de valores em dobro e compensação por danos morais, ajuizada por ELDA FERREIRA DE SOUSA, em face da agravante.
+Sentença: julgou parcialmente procedentes os pedidos, para "1. DETERMINAR à requerida que revise as cláusulas dos contratos nº 061000079663, nº 061000068916, nº 061000078385, nº 061000067193, nº 061000076258, nº 061000043600, nº 061000052926 e nº 061000070676, que fixam juros superiores à taxa média de juros do Banco Central à época da celebração dos contratos, devendo estes serem pactuados de acordo com a referida taxa, e os encargos moratórios (juros e multa) incidirem sobre o valor cobrado devidamente revisado; devendo ainda a parte requerida proceder ao recálculo dos valores, em procedimento de liquidação de sentença; 2. CONDENAR a requerida à restituição dos valores pagos a mais pela requerente, em decorrência da incidência dos juros abusivos, devendo eventuais valores serem apurados em liquidação de sentença". (e-STJ Fl. 333)
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, nos termos da seguinte ementa:
+"APELAÇÃO CÍVEL - AÇÃ REVISIONAL DE CONTE DE EMPRÉSTIMO < PEDIDO DE RESTITUIÇ. CONTRATO DE EMPRÉS1 POR ADESÃO - OBJETO REDUÇÃO DOS JL REMUNERATÓRIOS PAI TAXA MÉDIA - SENTENÇ PROCEDÊNCIA. RECURSO DA INSTITUI FINANCEIRA - DEFENI LEGALIDADE DOS Jl REMUNERATÓRIOS PACTUADOS - AUSÊNCT ESTIPULAÇÃO DE M ABUSIVO OU EXCESSO NECESSIDADE DE ANÃ DE CADA CASO, TERMOS DO RECL ESPECIAL NO 1.061.53 ESCOLHIDO C( REPRESENTATIVO CONTROVÉRSIA INCIDENTE DE PROC1 REPETITIVO E ESPECIA  1.821.182/RS - CONSIGNA BOA-FÉ NA COBRA AFASTA QUALQ PRETENSÃO RESTITUIÇÃO - APLICA DO CÓDIGO DE DEFESA. CONSUMIDOR - Jl REMUNERATÓRIOS CONTRATOS EMPRÉSTIMOS - JL ESTABELECIDOS CONTRATOS QUE ALO AM O PERCENT SUPERIOR A 20% DO FIX PELO BANCO CENTRAI PERI7ODO CONTRATAÇÃO ABUSIVIDADE CARACTERIZADA PRECEDENTES Dl CORTE E DO ST. EVENTUAL VALOR P INDEVIDAMENTE DECC COMO CONSEQUÊT LÓGICA, NA FOI SIMPLES - SENTE MANTIDA. RECURSO IMPROVIDO". (e-STJ Fls. 485/486)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 421 do Código Civil e 355, I e II, 356, I e II, e 927 do Código de Processo Civil, bem como dissídio jurisprudencial. Sustenta que: i) "a revisão contratual é uma EXCEÇÃO, uma vez que prevalece o princípio da intervenção mínima" (e-STJ, fl. 647); ii) "a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco" (e-STJ, fl. 648); iii) é "imprescindível a realização de prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual" (e-STJ fl. 649).
+Prévio juízo de admissibilidade do TJ/SE: negou seguimento ao recurso especial interposto pela agravante no que tange aos juros remuneratórios, com fundamento no Tema 27/STJ, bem como inadmitiu o recurso quanto à matéria remanescente, com fundamento na Súmula 83/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Inicialmente, é imperioso salientar que, após o advento do CPC/15, passou a existir expressa previsão legal determinando o cabimento de agravo interno contra decisão que nega seguimento ao recurso especial em virtude de tese firmada sob o rito dos recursos repetitivos (art. 1.030, I, "b", e §2º).
+Na hipótese, as alegações referentes aos juros remuneratórios foram refutadas pelo juízo de admissibilidade do recurso especial com fundamento no Tema repetitivo 27/STJ.
+Necessário frisar que a parte agravante interpôs o agravo interno, tendo o Órgão Especial do Tribunal de origem negado provimento ao referido recurso, mantendo a negativa de seguimento do recurso especial com fundamento no tema citado.
+Inviável, portanto, a análise em sede recurso especial sobre a adequação ou não da aplicação do referido tema e, via de consequência, do alegado dissídio jurisprudencial.
+Dessa forma, passe-se à análise das demais questões constantes no recurso especial.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 421 do Código Civil e 355, I e II, 356, I e II, e 927 do Código de Processo Civil, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à inexistência de cerceamento de defesa, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à abusividade da taxa de juros remuneratórios contratada, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Além disso, a incidência das Súmulas 5 e 7 desta Corte acerca do tema que se supõe divergente (abusividade da taxa de juros remuneratórios contratada), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários sucumbenciais, uma vez que já foi fixado no máximo legal.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. DECISÃO QUE INADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. CABIMENTO DE AGRAVO INTERNO PELO TRIBUNAL DE ORIGEM. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ . REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato bancário.
+2. Conforme determinação expressa contida no art. 1.030, I, c/c 1.042, caput e § 2º, ambos do CPC, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+8. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+9. Agravo parcialmente conhecido. Recurso especial não conhecido.
