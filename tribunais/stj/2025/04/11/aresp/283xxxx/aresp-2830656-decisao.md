@@ -1,0 +1,17 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MEDICO, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Ação: de obrigação de fazer ajuizada por MANUEL NIVAL DA CUNHA em face de UNIMED NATAL SOCIEDADE COOPERATIVA DE TRABALHO MÉDICO, visando o fornecimento de tratamento oncológico hospitalar com uso do medicamento Inotuzumabe Ozoganamicin, associado ao protocolo de quimioterapia Mini HCVD, e indenização por danos morais (fls. 12-18).
+Sentença: condenou a UNIMED NATAL na obrigação de fornecer o tratamento oncológico prescrito, enquanto durar a recomendação médica, e ao pagamento de indenização por danos morais no montante de R$ 10.000,00 (dez mil reais), além das custas e honorários sucumbenciais (fls. 668-673).
+Acórdão: negou provimento à apelação da UNIMED NATAL, mantendo a condenação nos termos da sentença, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE PLANO DE SAÚDE. NEGATIVA DE FORNECIMENTO DE MEDICAMENTO INOTUZUMABE OZOGAMICIN. USUÁRIO ACOMETIDO POR LEUCEMIA LINFOBLÁSTICA B. NECESSIDADE DO TRATAMENTO PRESCRITO PELO MÉDICO. NEGATIVA DE COBERTURA BASEADA NA AUSÊNCIA DE INDICAÇÃO DO TRATAMENTO PELA ANVISA. USO OFF LABEL. IMPOSSIBILIDADE. PRECEDENTES JURISPRUDENCIAIS. TRATAMENTO DE CÂNCER. DESIMPORTÂNCIA ACERCA DA NATUREZA DO ROL DA ANS. PRECEDENTE STJ - RESP 1.733.013/PR. ABUSIVIDADE CARACTERIZADA. ATO ILÍCITO CONFIGURADO. DANO MORAL IN RE IPSA. INDENIZAÇÃO. QUANTUM ARBITRADO EM RESPEITO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. APELO CONHECIDO E DESPROVIDO (fls. 769-770).
+Embargos de Declaração: opostos por UNIMED NATAL, foram rejeitados.
+Decisão de admissibilidade do TJ/RN: inadmitiu o recurso especial em razão da incidência da Súmula 83/STJ no que concerne à obrigatoriedade de cobertura de tratamento para câncer, mesmo em se tratando de medicamento para uso off label.
+Agravo em recurso especial: nas razões do presente recurso, a parte agravante aduz que a pretensão recursal não demanda o reexame de provas e que há jurisprudência quanto à não obrigatoriedade de cobertura de tratamento não incluído no rol da ANS, de natureza taxativa.
+RELATADO O PROCESSO, DECIDE-SE.
+Ao analisar o agravo em recurso especial interposto, verifica-se que a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do óbice da Súmula 83/STJ, pois não demonstrou que outra era a jurisprudência do STJ quanto à obrigatoriedade de cobertura de tratamento contra o câncer, especificamente.
+Com efeito, para que o recurso especial seja analisado por esta Corte Superior, o recorrente deve refutar todos os fundamentos que levaram à inadmissão pelo Tribunal de origem. Nesse sentido: AgInt no AREsp 2.292.265/SP, 3ª Turma, DJe de 18/8/2023, e AgInt no AREsp 2.335.547/SP, 4ª Turma, DJe de 11/10/2023.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da condenação (e-STJ fl. 778) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+ EMENTA
