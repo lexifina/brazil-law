@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MUNICÍPIO DE JOINVILLE, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão exarado pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 2973):
+REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO COMINATÓRIA E PECUNIÁRIA. DEMANDA MOVIDA PELO MUNICÍPIO DE JOINVILLE CONTRA O ESTADO DE SANTA CATARINA. COFINANCIAMENTO DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL (LEI FEDERAL N. 8.742/93). SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA DO AUTOR.
+COMPULSORIEDADE DE REPASSE DA INTEGRALIDADE DOS VALORES ACORDADOS ADMINISTRATIVAMENTE, JUNTO À CIB/SC. INSUBSISTÊNCIA. INEXISTÊNCIA DE DISPOSIÇÃO LEGAL PREVENDO A DESTINAÇÃO DE PERCENTUAL MÍNIMO DE VALORES. TRANSFERÊNCIAS QUE SE SUJEITAM À DISPONIBILIDADE ORÇAMENTÁRIA DO ESTADO. NÃO REALIZAÇÃO DE RECEITAS PREVISTAS NA LEI ORÇAMENTÁRIA ANUAL, PARA OS ANOS DE 2015 E 2016. JUSTIFICADA REDUÇÃO DOS REPASSES, OS QUAIS EFETIVAMENTE OCORRERAM, AINDA QUE EM QUANTIA INFERIOR. PRECEDENTE DESTA CORTE DE JUSTIÇA. DESNECESSIDADE, OUTROSSIM, DE DIRECIONAMENTO DE VALORES PARA DETERMINADO SERVIÇO. DEVER DE COFINANCIAMENTO DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL ATENDIDO PELO ESTADO.
+OMISSÃO DA SENTENÇA, QUANTO AOS PEDIDOS DE IMPOSIÇÃO DE PACTUAÇÃO DOS REPASSES PARA OS ANOS SUBSEQUENTES E DE FIXAÇÃO DE PRAZO LEGAL PARA OS PAGAMENTOS. TESE ARREDADA. PLEITOS QUE, EMBORA NÃO TENHAM SIDO ANALISADOS INDIVIDUALMENTE, FORAM DEVIDAMENTE APRECIADOS. DEDUÇÃO LÓGICA DAS RAZÕES LANÇADAS. VÍCIO INEXISTENTE.
+RECURSO VOLUNTÁRIO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA, EM REEXAME NECESSÁRIO.
+Opostos embargos declaratórios, foram eles rejeitados, em aresto assim exarado (fl. 3003):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO COMINATÓRIA E PECUNIÁRIA. DEMANDA MOVIDA PELO MUNICÍPIO DE JOINVILLE CONTRA O ESTADO DE SANTA CATARINA. COFINANCIAMENTO DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL (LEI FEDERAL N. 8.742/93). ACÓRDÃO QUE NEGOU PROVIMENTO AO RECURSO DO AUTOR. INSURGÊNCIA DESTE.
+OMISSÃO E CONTRADIÇÃO. EIVAS NÃO DETECTADAS. DECISÃO COLEGIADA QUE VERSOU DE FORMA CLARA, COMPLETA E CONCATENADA AS QUESTÕES EM DEBATE. MERA TENTATIVA DE REDISCUSSÃO E ALTERAÇÃO DO RESULTADO DE JULGAMENTO. VIA INADEQUADA.
+PREQUESTIONAMENTO. AUSÊNCIA DE QUALQUER VÍCIO. IMPOSSIBILIDADE.
+RECURSO CONHECIDO E DESPROVIDO.
+Em seu recurso especial (fls. 3030-3049), o recorrente alega que o Tribunal estadual entendeu por afastar a responsabilidade solidária do recorrido no dever legal de cofinanciar ações de assistência social, em clara violação ao estabelecido nos artigos 11, caput, 13, 28, caput e § 3º, da Lei nº 8.742/93 (Lei Orgânica da Assistência Social-LOAS).
+Argumenta, ainda, que o acórdão dos embargos declaratórios proferiu decisão "citra petita, em desrespeito aos arts. 1.022, parágrafo único, inciso II; 489, § 1º e 492, do CPC e, assim, incorrendo em error in procedendo".
+O Tribunal de origem, às fls. 3075-3077, não admitiu o recurso especial sob os seguintes argumentos:
+(..)
+Quanto à suposta ofensa aos arts. 489, §1º, 492 e 1.022, todos do CPC, o recorrente alegou que, nos embargos de declaração opostos, destacou importantes omissões a serem sanadas pelo Colegiado de origem, as quais, entretanto, não teriam sido supridas.
+No entanto, da leitura dos acórdãos recorridos (eventos 24 e 40), constata-se que não existe omissão ou ausência de fundamentação a ensejar o acolhimento do reclamo, mormente diante da fundamentação lançada pelo Órgão Julgador, que bem analisou todas as questões relevantes para fins de resolução da lide.
+(..)
+Logo, não se vislumbra ofensa aos referidos dispositivos legais, pois não houve omissão na decisão hostilizada acerca de qualquer questão sobre a qual deveria ter emitido juízo de valor, tendo sido devidamente explicitados os motivos que redundaram no acórdão guerreado.
+De salientar, ademais, que o fato de a controvérsia, posta em juízo, ter sido analisada sob enfoque diverso daquele pretendido pelo recorrente não revela qualquer vício de fundamentação a ensejar afronta aos arts. 489, § 1º, 492 e 1.022, todos do CPC, afinal, o julgado apenas foi contrário às proposições defensivas do ente federado.
+(..)
+Analisando as decisões do Órgão Colegiado, observa-se que não há menção dos arts. 28, caput, e §§1º e 3º e art. 30, da Lei n. 8.742/1993, motivo pelo qual deixou de existir o necessário prequestionamento, especialmente porque interposto embargos de declaração, a Câmara considerou a inexistência de vícios na decisão combatida, inclusive rejeitando os aclaratórios.
+Sendo assim, o objeto do recurso sequer pode ser considerado prequestionado, nos termos da súmula 211 do STJ, segundo a qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+(..)
+De outro norte, sustenta o recorrente que o acórdão impugnado violou o art. 30-A da Lei n. 8.742/1993, em que pese o esforço do recorrente para demonstrar a não incidência da Súmula 7 do STJ na hipótese em apreço, da leitura das razões de insurgência, constata-se que, a bem da verdade, a pretensão recursal envolve controvérsia a respeito das premissas fático-probatórias fixadas no acórdão recorrido, pressupondo reexame de provas, e não sua mera revaloração (vide: STJ, R Esp 734.541/SP, Relator Ministro Luiz Fux, j. em 2.2.2006), o que é vedado em sede de Recurso Especial, em conformidade com a Súmula 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Consabido que o STJ, em determinadas situações, vem distinguindo em diferentes planos as figuras do "mero reexame das provas", inadmitindo o recurso especial; e da "revaloração da prova", admitindo e analisando as questões trazidas no bojo do Recurso Especial.
+(..)
+Na presente demanda, contudo, verifica-se a ocorrência do fenômeno do reexame da prova, equivalente à atividade desempenhada pelo juízo a quo de se proceder a um estudo mais minucioso das provas constantes dos autos.
+Como se vê, a partir da leitura do acórdão hostilizado e das razões recursais, tais como postas, a alteração do entendimento firmado pelo Colegiado exigiria, a reapreciação de todo um conjunto de provas (documentais) e de fatos, providência esta incompatível com a estreita via do recurso especial, pois a atividade desempenhada pelo Superior Tribunal de Justiça no julgamento dos reclamos está adstrita somente às questões de direito.
+Por conseguinte, não preenchidos os aludidos requisitos de admissibilidade, afiguro impraticável a ascensão da insurgência.
+4. Conclusão
+Ante o exposto, com fulcro no art. 1.030, V, do CPC, NÃO ADMITO o recurso especial.
+Em seu agravo, às fls. 3093-3101, o agravante sustenta que "não pretende revolver  ..  situação fática. Apenas pretende modificar a conclusão do julgado quanto às consequências desse fato, em nova valoração jurídica".
+Argumenta que "opôs embargos de declaração  ..  justamente para que fosse proferido juízo de valor sobre dispositivos legais essenciais ao deslinde do feito", o que, segundo afirma, não ocorreu.
+Por fim, alega que a "matéria estava prequestionada e a parte não pode ser prejudicada pela manutenção da omissão pelo E. TJSC".
+É o relatório.
+A insurgência não pode ser conhecida.
+Verifica-se que o agravante não impugnou integralmente a fundamentação da decisão agravada, porquanto deixou de infirmar os fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em três fundamentos distintos: (i) não existe omissão ou ausência de fundamentação, pois o órgão julgador analisou todas as questões relevantes para o deslinde da controvérsia, o que afasta a alegação de ofensa aos artigos 489 e 1022 do CPC; (ii) inexistência de prequestionamento, "especialmente porque interposto embargos de declaração, a Câmara considerou a inexistência de vícios na decisão combatida, inclusive rejeitando os aclaratórios", o que atrai o óbice da Súmula 211 do STJ ; e (iii) incidência do enunciado 7 da Súmula do STJ, em razão da contenda demandar reexame fático e probatório dos autos.
+Todavia, no seu agravo, a parte deixou de infirmar de forma adequada e detalhada os argumentos da decisão de inadmissibilidade. Logo, os fundamentos da decisão agravada, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a totalidade da fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime- se.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
