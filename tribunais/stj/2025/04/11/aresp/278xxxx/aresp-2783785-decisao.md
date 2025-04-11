@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por Silvia Regina Martins contra a decisão do Tribunal de Justiça de Santa Catarina que inadmitiu recurso especial (fundado no art. 105, III, a, da Constituição Federal) dirigido contra o acórdão prolatado na Apelação Criminal n. 5002411-83.2022.8.24.0011.
+Nas razões do recurso especial a defesa sustenta nulidade da busca veicular e invasão domiciliar, alegando afronta aos arts. 157, § 1º, e 244 do CPP, devido à ausência de justa causa e fundamentação legal para as diligências realizadas, baseadas em denúncia anônima (fls. 402/406).
+Ainda, aponta nulidade das provas ilícitas, especificamente áudios juntados sem contexto completo e sem metadados, violando a cadeia de custódia conforme o art. 158-A do CPP, e argumenta que tais provas foram utilizadas na condenação, apesar de não terem sido impugnadas no primeiro grau (fls. 412/414).
+Por fim, questiona a condenação por associação ao tráfico, alegando afronta ao art. 386, VII, do CPP e ao art. 35 da Lei n. 11.343/2006, devido à insuficiência de provas para demonstrar estabilidade, permanência e habitualidade entre a recorrente e os adolescentes envolvidos (fls. 414/415).
+A Corte de origem inadmitiu o recurso considerando os seguintes óbices: Súmula 7/STJ (violação dos arts. 157, § 1º, 386, II e 244 do CPP); falta de interesse recursal (violação do art. 158-A ao art. 158-F do CPP; Súmula 7/STJ (violação do art. 386, VII, do CPP) - (fls. 451/460).
+Contra a decisão a defesa interpôs o presente agravo (fls. 480/412).
+O Ministério Público Federal manifesta-se pelo desprovimento do agravo (fls. 699/725)
+É o relatório.
+O agravo deve ser conhecido, pois é tempestivo e impugnou os fundamentos da decisão de inadmissão. Passo, então, ao exame do recurso especial.
+No que se refere à suposta violação do 157, § 1º, e 244 do CPP, relativo à tese de ausência de justa causa para as buscas veicular e domiciliar, o recurso é inadmissível.
+Ora, ao rechaçar a tese recursal, o Tribunal a quo consignou que o referido vício processual não foi apontado em momento algum dos autos de primeiro, nem na defesa preliminar nem nas alegações, motivo pelo qual se operou, quanto a esse ponto, a preclusão consumativa (fl. 384).
+Fundamento esse, atinente à preclusão e à inovação recursal, que não foi impugnado nas razões do recurso especial, circunstância que firma a inobservância do princípio da dialeticidade recursal (art. 932, III, do CPC, c/c o art. 3º do CPP), atraindo, ainda, a incidência da Súmula 283/STF.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO COMPRA E VENDA DE IMÓVEL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NºS 283 E 284/STF. VIOLAÇÃO. VERBETE SUMULAR. IMPOSSIBILIDADE. SÚMULA Nº 518/STJ. REEXAME DE PROVAS. CLÁUSULA. INTERPREÇÃO. SÚMULAS Nº 5 E 7/STJ.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. A Corte Especial deste Superior Tribunal de Justiça já consolidou o entendimento de que para fins do art. 105, III, alínea "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula nº 518/STJ).
+4. Na hipótese, acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.409.172/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe de 18/9/2024 - grifo nosso).
+No tocante à suposta violação dos arts. 158-A ao 158-F do CPP, o recurso padece de fundamentação deficiente, pois o recorrente apenas suscitou genericamente violação desses preceitos, mas não demonstrou, no arrazoado, de que forma o acórdão atacado violou cada um deles, de modo que, em relação a esses dispositivos, incide o óbice da Súmula 284/STF:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO COMPRA E VENDA DE IMÓVEL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS NºS 283 E 284/STF. VIOLAÇÃO. VERBETE SUMULAR. IMPOSSIBILIDADE. SÚMULA Nº 518/STJ. REEXAME DE PROVAS. CLÁUSULA. INTERPREÇÃO. SÚMULAS Nº 5 E 7/STJ.
+1. É inadmissível o inconformismo por deficiência na sua fundamentação quando o recurso especial deixa de indicar especificamente de que forma os dispositivos legais teriam sido violados. Aplicação, por analogia, da Súmula nº 284/STF.
+2. A subsistência de fundamento não impugnado apto a manter a conclusão do aresto recorrido impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+3. A Corte Especial deste Superior Tribunal de Justiça já consolidou o entendimento de que para fins do art. 105, III, alínea "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula nº 518/STJ).
+4. Na hipótese, acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ. 5.
+Agravo interno não provido.
+(AgInt no AREsp n. 2.409.172/SP, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/9/2024, DJe 18/9/2024 - grifo nosso).
+A propósito, consta do acórdão recorrido (fl. 384 - grifo nosso):
+ ..
+A ré, a esse respeito, refere que os áudios trocados entre ela e a adolescente Ellen não poderiam ter sido usados para fundamentar o decreto condenatório, pois foram apresentados sem os respectivos metadados, estão fora de contexto e não observaram a cadeia de custódia da prova.
+Inicialmente, faz-se mister ressaltar, que os áudios referidos pela defesa sequer foram utilizados para corroborar a condenação da ré. Eles, aliás, constam da sentença unicamente na transcrição do depoimento prestado em juízo pelo policial civil Omar Hermsdorff Martins de Oliveira, em que ele narrou que "Silvia ameaçou a menor Ellen por achar ter sido denunciada pela mesma, tendo seu pai Nivaldo comparecido na delegacia de polícia onde apresentou áudios que a acusada tinha passado para sua filha com as ameaças".
+Além do fato de essas mídias não terem sido utilizadas para fundamentar o decreto condenatório, tem-se que a defesa inova em sede de recurso, porquanto essa tese sequer foi submetida à análise do juízo de primeiro grau.
+É de se dizer, ainda, que não houve, no primeiro grau, impugnação à validade de nenhum áudio mencionado nos autos, nem mesmo àqueles trocados entre a acusada e o adolescente Luan, esses sim mencionados diversas vezes na sentença condenatória.
+Apenas a título argumentativo, já que operada a preclusão consumativa, ressalta-se que também não restou demonstrado prejuízo à defesa, essencial ao reconhecimento de eventual nulidade (vide: TJSC, Habeas Corpus Criminal n. 5078145-39.2023.8.24.0000, rel. Cinthia Beatriz da Silva Bittencourt Schaefer, j. 01-02-2024; TJSC, Agravo de Execução Penal n. 8000091- 07.2023.8.24.0065, rel. Antônio Zoldan da Veiga, j. 01-02-2024).
+ ..
+Afirma o agravante que, ao contrário do afirmado no acórdão recorrido, os relatórios policiais, que faziam menção as provas ilícitas foram utilizadas para condenação da apelante (fl. 413).
+Contudo, a argumentação desenvolvida é vaga, limitando-se a mencionar referidos dispositivos em suas razões recursais e a afirmar que os áudios foram utilizados para a condenação, mas sem demonstrar efetivamente de que forma e em que trechos da fundamentação tais elementos foram considerados. Assim, torna-se evidente a deficiência na fundamentação da insurgência.
+No que se refere ao pleito de absolvição, colhe-se do combatido aresto (fls. 385/388 - grifo nosso):
+ ..
+Na fase judicial (autos n. 5002411-83.2022.8.24.0011), corroboram os elementos colhidos no inquérito policial o Laudo Pericial n. 2022.07.00361.22.002-88 (ev. 12.1) e as declarações dos policiais civis Omar Hermsdorff Martins de Oliveira e Dennis Baldança Caldas (ev. 62.2).
+ ..
+Ressalte-se que os depoimentos prestados por agentes do Estado, colhidos sob o crivo do contraditório e da ampla defesa, ao contrário do que sustenta a defesa, possuem valor probatório suficiente para dar respaldo ao édito condenatório, tendo em vista que suas palavras contam com fé pública e presunção de legitimidade.
+Ademais, suas declarações estão amparadas em outros elementos probatórios colhidos durante a fase indiciária e, como foram confirmadas em juízo, não se pode dizer que a sentença condenatória baseou-se unicamente em provas colhidas no inquérito policial.
+Mensagens de áudio anexadas ao Registro de Ocorrência n. 00034.2022.00227 deixam evidente a preocupação de Sílvia com os depoimentos dos adolescentes na delegacia (processo 5002117-31.2022.8.24.0011/SC, evento 1, INQ1, pp. 6-9):
+ ..
+Há, ainda, mensagens extraídas do aparelho celular de Luan Gabriel Barros de Lima, em que Sílvia, por meio do perfil do Facebook "Martins Martins", cobra do adolescente uma dívida e ele lhe responde, inclusive mencionando que tem "entendimento do crime" (processo 5002117- 31.2022.8.24.0011/SC, evento 1, INQ3, pp. 4-5):
+ ..
+Patente, portanto, o envolvimento de Sílvia com o tráfico de drogas, por meio de adolescentes que lhe prestavam serviço, de modo que não há se falar em insuficiência de provas quanto ao envolvimento de Sílvia com comércio de substâncias entorpecentes, nem de que tais substâncias lhe pertenciam, tanto que cobrava dos meninos que pagassem por elas.
+A respeito dos áudios, trocados entre a apelante e sua vizinha Elen Terezinha Ferreira, de quinze anos, apesar do que alega a defesa, demonstram que tinha envolvimento com o comércio ilegal de substâncias entorpecentes, basta ver o que José Nivaldo Fritzen, pai da menina, registrou no Boletim de Ocorrência n. 0045240/2022-BO- 00034.2022.0000227 (processo 5002117- 31.2022.8.24.0011/SC, evento 1, INQ3, p. 14):
+ ..
+Ouvido na delegacia de polícia, José Nivaldo (processo 5002117- 31.2022.8.24.0011/SC, evento 1, VÍDEO10) confirma o conteúdo do boletim de ocorrência.
+De outra parte, não é crível que as diversas denúncias anônimas tivessem por objetivo incriminar injustamente a acusada, como quer fazer crer a defesa, pois o fato de o tráfico de drogas estar sendo praticado pela ora apelante, como visto, está devidamente comprovado.
+Embora diga sequer conhecer o adolescente Luan, reconhece que o perfil "Martins Martins" da rede social lhe pertence e se trata de uma lojinha on line (processo 5002411-83.2022.8.24.0011/SC, evento 62, VÍDEO2, 39"25" a 40"20"). Ademais nas mensagens encontradas no celular dele, há conversas entre o perfil dela e o dele, de modo que a alegação não tem qualquer amparo.
+Da mesma forma, diante do que é possível ler em pequeno trecho da conversa, impossível dizer que as mensagens não se referem à prática criminosa.
+Diante de todos os elementos aqui trazidos, entendo que não há de acolher a tese de que não estaria configurado o crime de associação para o tráfico, porquanto estão presentes os requisitos da estabilidade, permanência, habitualidade e intenção associativa.
+É que o próprio modus operandi de Sílvia envolvia a prática do comércio de drogas por meio de adolescentes, tudo com o objetivo de escapar de eventual persecução criminal, e a estabilidade, permanência, habitualidade e intenção associativa restou patente nas próprias mensagens trocadas entre ela e Luan, sobretudo na parte em que ela afirma que ele já está a meses lhe devendo.
+ ..
+Constata-se do trecho acima transcrito que o Tribunal de origem logrou demonstrar a estabilidade da associação, assim como a divisão de tarefas, individualizando a função desempenhada pela agravante e sua vinculação com os adolescentes, com base no acervo probatório arrecadado.
+Nesse passo, tendo a Corte de origem atestado a prática do tráfico ilícito de entorpecentes, bem como da associação para o tráfico, destacando, para tanto, a prova oral colhida ao longo da instrução criminal, os relatórios investigativos e os diversos diálogos colhidos nos autos, é evidente que a revisão do acórdão recorrido, como pretende a defesa, com o objetivo de acolher a pretensão absolutória, demandaria o reexame do conjunto probatório dos autos, providência descabida nessa via recursal, em face do óbice contido na Súmula 7/STJ.
+A propósito: AgRg no AREsp n. 2.324.545/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 2/4/2024; e AgRg no AREsp n. 2.295.396/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/11/2023.
+Por fim, repito que não ficou evidenciada qualquer ilegalidade no uso de tais áudios, já que a defesa não demonstrou, de maneira clara e específica, quais gravações teriam sido afetadas por uma possível quebra de cadeia de custódia.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE NULIDADE POR OBTENÇÃO DE PROVA MEDIANTE BUSCA VEICULAR E DOMICILIAR DESPROVIDA DE JUSTA CAUSA. FALTA DE DIALETICIDADE RECURSAL. SÚMULA 283/STF. TESE DE NULIDADE PROBATÓRIA POR QUEBRA DA CADEIA DE CUSTÓDIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. MATERIALIDADE E AUTORIA DOS CRIMES DEVIDAMENTE COMPROVADA. SUFICIÊNCIA DA PROVA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. VEDAÇÃO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
