@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial manejado por Associação dos Amigos de Santa Catarina com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 2964):
+APELAÇÃO. SUSEP. MULTA. ADMINISTRATIVA. PROCESSO ADMINISTRATIVO. NULIDADE NÃO COMPROVADA. EXERCÍCIO REGULAR DO PODER DE POLÍCIA.
+1. Os Apelantes buscam a reforma da sentença que julgou improcedentes os pedidos de declaração de nulidade do procedimento administrativo n. 15414.625859/2018-79, e determinação do cancelamento da multa de natureza não tributária, aplicada em processo administrativo sancionador que concluiu pela ocorrência de infração ao disposto no parágrafo único do art. 757 do Código Civil, e no art. 24 do Decreto-Lei nº 73/1966, em virtude da constatação da realização de operação de seguro, cosseguro, resseguro ou capitalização sem a devida autorização legal.
+2. Não evidenciada ilegalidade no processo administrativo que culminou na aplicação da multa impugnada, dado que os agravantes tiveram oportunidade de apresentar defesa e recurso, apreciados por decisões devidamente motivadas e com a indicação do fundamento legal, além de a multa aplicada estar em consonância com a legislação pertinente (art. 113 do Decreto-Lei nº 73/66, art. 17 da Resolução CNSP n.º 243/2011).
+3. A nulidade do auto de infração nº 15414.625859/2018-79 (Representação SUSEP/DICON/CGCOF/COATE Nº 55/2018) instaurado pela SUSEP não está demonstrada. O documento descreveu a conduta fiscalizada, circunstância suficiente para a defesa da empresa.
+4. Ainda, a materialidade da conduta infracional, consistente na atuação irregular e sem autorização da Associação em atividades típicas de seguradora, ficou demonstrada por meio de prova testemunhal colhida no procedimento administrativo
+5. Sobre as multas administrativas, esta Corte vem entendendo que não cabe a modificação da punição pelo Poder Judiciário quando a autarquia observa os limites dispostos na normas de regência da matéria 5. A penalidade aplicada na esfera administrativa foi adequadamente motivada e não exorbitou o princípio da legalidade. Desse modo, mostra-se ausente o direito à anulação do processo administrativo e consequente penalidade, conforme reconhecido em sentença. 6. Nenhum dos argumentos trazidos pela Associação, em suas razões de apelação, logrou desconstituir os fundamentos da sentença, que ora se mantém. 7. Apelação conhecida e desprovida.
+Opostos embargos declaratórios, foram parcialmente providos nos termos da seguinte ementa (fl. 3015):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO. SUSEP. MULTA. ADMINISTRATIVA. PROCESSO ADMINISTRATIVO. NULIDADE NÃO COMPROVADA. EXERCÍCIO REGULAR DO PODER DE POLÍCIA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. OCORRÊNCIA DE ERRO MATERIAL. RECURSO PARCIALMENTE PROVIDO.
+1. Trata-se de embargos de declaração opostos pelos apelantes, ASSOCIACAO DOS AMIGOS DE SANTA CATARINA e VITOR HUGO SOARES, do acórdão que negou provimento à apelação e condenou-os a pagar honorários sucumbenciais fixados em 10% (dez por cento), a teor do § 11 do artigo 85 do CPC/2015, sobre o valor da verba de advogado estabelecida na sentença.
+2. Os embargantes sustentam omissão e contradição do acórdão por não ter reconhecido a nulidade do procedimento administrativo por diversos aspectos, inclusive por ser baseado em resolução e não em lei, e pela utilização da informação de que o julgado se baseou em trechos colhidos em sede administrativa, quando foi manifestação proveniente do próprio MPF.
+3. Os embargos de declaração são cabíveis quando houver, no julgamento impugnado, obscuridade, contradição ou omissão quanto a ponto sobre o qual o juiz ou o tribunal deveria ter se pronunciado, ou quando houver erro material, nos estritos termos do artigo 1.022 do Código de Processo Civil.
+4. Omissão significa ausência de apreciação de ponto ou questão relevante sobre a qual o juiz deveria ter se manifestado.
+5. Contradição significa que as fundamentações utilizadas são inconciliáveis com o dispositivo da decisão judicial, ou seja, refere-se a uma contradição interna.
+6. O voto condutor registrou claramente os motivos pelos quais o procedimento administrativo nº 15414.625859/2018-79 foi considerado legal.
+7. Ademais, os embargantes alegam contradição do acórdão quanto a esta parte: "Ainda, a materialidade da conduta infracional, consistente na atuação irregular e sem autorização da Associação em atividades típicas de seguradora, ficou demonstrada por meio de prova testemunhal colhida no procedimento administrativo, conforme trecho destacado em sentença".
+8. Na verdade, houve erro material. A prova testemunhal foi colhida pelo Ministério Público Federal na Ação Penal nº 5010822-15.2018.4.04.7200.
+9. Erro material é aquele conhecível de plano, indubitável, que prescinde da análise do mérito, ou que se refere a incorreções internas do próprio julgado.
+10. No caso, há mero inconformismo da embargante e pretensão de rediscutir a questão já apreciada, o que deve ser feito pelo recurso adequado.
+11. Embargos de declaração parcialmente providos, mas sem efeitos infringentes.
+A parte recorrente aponta violação aos arts.:
+a) 1º, 489, § 1º, II, IV, e 1.022, parágrafo único, II do CPC, sustentando omissão do Tribunal de origem por não ter apreciado as seguintes teses: nulidade da penalidade prevista em resolução e aplicada sem a identificação de critérios concretos; ausência de solidariedade e de desconsideração da personalidade jurídica no caso específico;
+b) 50 da Lei n. 9.784/99, por ter a parte recorrida imposto uma multa sem a observância dos preceitos do devido processo legal;
+c) 5º, LV, da CF, alegando que não pode produzir provas que corroborassem sua defesa;
+d) 108, IV, do Decreto-lei n. 73/66, por ter sido imposta uma multa sem a devida consideração das circunstâncias específicas do caso concreto;
+e) 36 do Decreto-lei n. 73/66, em razão da "incompetência da SUSEP para fiscalizar as atividades das associações de proteção veicular, que não são entidades sujeitas ao regime de seguros privados" (fl. 3.028), pois "não há prática de seguro, apenas o mero mutualismo na forma permitida pela legislação pátria e, mais, em grupo restrito" (fl. 3.028);
+f) 53, caput e parágrafo único do CPC, alegando a "impossibilidade de os associados assumirem eventuais obrigações assumidas em nome da Associação se concebe como regra em conformidade com a legislação civil" (fl. 3030);
+g) 757 do CC e 24 e 78 do Decreto-Lei n. 73/1966, afirmando que a associação recorrente não se enquadra como sociedade seguradora e que suas atividades são lícitas e distintas das seguradoras, não havendo prática de seguro, apenas mutualismo.
+Foram ofertadas contrarrazões às fls. 3103/3109.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Primeiramente cumpre expor que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 5º, LV, da CF, da Constituição Federal.
+Outrossim, verifica-se não ter ocorrido ofensa aos arts. 1º, 489, § 1º, II, IV, e 1.022, parágrafo único, II do C PC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à matéria de fundo, o Tribunal de origem destacou (fls. 2958/2962):
+O apelante busca afastar a cobrança da multa por realizar operação de seguro, cosseguro, resseguro ou capitalização, sem a devida autorização, em infração ao artigo 757 do Código Civil; artigo 24 do Decreto-Lei nº 73, de 1966; ao artigo 113 do Decreto-Lei nº 73, de 1966; e artigo 17 da Resolução CNSP nº 243, de 2011.
+A SUSEP é uma autarquia criada pelo Decreto-lei nº 73/1966, vinculada ao Ministério da Economia, responsável pelo controle e fiscalização dos mercados de seguro, previdência privada aberta, capitalização e resseguro.
+Trata-se, portanto, de modalidade de agência reguladora, dotada de poder normativo e fiscalizatório, entre outros.
+ ..
+Desse modo, não subiste a alegação de violação ao princípio da legalidade e da reserva legal. A multa é pena prevista diretamente no Decreto-Lei n.º 73/1966.
+A nulidade do auto de infração nº 15414.625859/2018-79 (Representação SUSEP/DICON/CGCOF/COATE Nº 55/2018) instaurado pela SUSEP não está demonstrada. O documento descreveu a conduta fiscalizada, circunstância suficiente para a defesa da empresa.
+Ainda, a materialidade da conduta infracional, consistente na atuação irregular e sem autorização da Associação em atividades típicas de seguradora, ficou demonstrada por meio de prova testemunhal colhida no procedimento administrativo, conforme trecho destacado em sentença:
+ ..
+É certo que os atos administrativos são revestidos de presunção de legalidade e veracidade, cuja desconstituição é ônus de quem invoca sua invalidade. No caso dos autos, uma vez que o apelante não logrou demostrar qualquer irregularidade no procedimento administrativo, este deve se manter íntegro.
+ ..
+No caso em análise, a penalidade aplicada na esfera administrativa foi adequadamente motivada e não exorbitou o princípio da legalidade. Desse modo, mostra-se ausente o direito à anulação do processo administrativo e consequente penalidade, conforme reconhecido em sentença.
+E complementou nos aclaratórios (fl. 3014):
+Ademais, os embargantes alegam contradição do acórdão quanto a esta parte: "Ainda, a materialidade da conduta infracional, consistente na atuação irregular e sem autorização da Associação em atividades típicas de seguradora, ficou demonstrada por meio de prova testemunhal colhida no procedimento administrativo , conforme trecho destacado em sentença". (grifei)
+Na verdade, houve erro material. A prova testemunhal foi colhida pelo Ministério Público Federal na Ação Penal nº 5010822-15.2018.4.04.7200 (evento 1, ANEXO11).
+Erro material é aquele conhecível de plano, indubitável, que prescinde da análise do mérito, ou que se refere a incorreções internas do próprio julgado.
+Com efeito, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste sentido:
+ADMINISTRATIVO. MULTA. VALOR. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. A revisão do entendimento do acórdão hostilizado, a fim de se reconhecer que o Procon não teria estabelecido critérios objetivos para fixação da multa, importaria em reapreciação dos elementos de convicção presentes nos autos, o que esbarra no óbice da Súmula 7 do STJ.
+2. A alteração do valor da multa administrativa em sede de recurso especial só é possível em caráter excepcional quando ela se mostrar flagrantemente desproporcional, o que não se verifica no caso.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.669.185/PB, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 2/12/2024, DJEN de 11/12/2024.)
+Por fim, cumpre expor que, no caso, o Tribunal de origem não se pronunciou sobre a tese da impossibilidade de os associados responderem por eventuais obrigações assumidas em nome da associação nos termos trazidos nas razões do apelo nobre, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da S úmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão especificamente quanto ao tema, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."). Nessa linha de entendimento: AgInt nos EDcl no AgInt no REsp n. 1.456.230/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/9/2024, DJe de 27/9/2024.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
