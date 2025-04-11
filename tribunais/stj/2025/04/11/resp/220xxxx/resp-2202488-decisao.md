@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por CREFISA S.A. -CRÉDITO, FINANCIAMENTO E INVESTIMENTOS com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Ger ais em apelação nos autos de ação revisional de contrato bancário.
+O julgado foi assim ementado (fl. 484):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - FUNDAMENTAÇÃO - EMPRÉSTIMO PESSOAL - JUROS REMUNERÁTORIOS - TAXA MÉDIA DE MERCADO. As decisões interlocutórias, os despachos e as sentenças podem ser exteriorizados por meio de fundamentação concisa, breve, sucinta, sendo certo que concisão e brevidade não significam ausência de fundamentação. As normas do CDC são aplicáveis às relações estabelecidas com instituições financeiras conforme prevê a Súmula 297 do STJ. Nas hipóteses em que a taxa de juros remuneratórios aplicada no contrato diverge drasticamente da taxa média de mercado, pode-se excepcionalmente reduzir-se aquela, com devolução simples dos valores cobrados a maior, autorizada a compensação com eventual saldo devedor.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 421 do CC, porque a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto; e
+b) 1.026, § 2º, do CPC, pois a multa aplicada aos embargos de declaração foi indevida, já que foram opostos com o intuito de prequestionamento.
+Sustenta que o Tribunal de origem contrariou o entendimento do Superior Tribunal de Justiça ao decidir pela limitação dos juros remuneratórios com base na taxa média de mercado, sem considerar as peculiaridades do caso concreto, conforme entendimento consolidado no REsp n. 1.821.182/RS.
+Pleiteia a atribuição de efeito suspensivo ao recurso especial para que seja evitada a prática de atos executórios, ao argumento de que a pretensão recursal é plausível e de que a imediata produção de efeitos da decisão recorrida representa risco de prejuízo de difícil reparação.
+Requer o provimento do recurso para que se determine a realização de prova pericial contábil para verificar a abusividade da taxa de juros, bem como para que se afaste a limitação dos juros remuneratórios e se restabeleça a taxa ajustada pelas partes no contrato de empréstimo.
+Inadmitido o recurso especial na origem, o agravo em recurso especial apresentado foi convertido em recurso especial.
+É o relatório. Decido.
+O recurso merece prosperar em parte.
+I - Art. 421 do CC
+No recurso especial, a parte recorrente alega que o Tribunal de origem utilizou a taxa média de mercado como único parâmetro para aferir a abusividade dos juros remuneratórios, sem considerar as peculiaridades do caso concreto.
+Considerando o entendimento firmado no julgamento do Recurso Especial n. 1.061.530/RS, as Turmas da Segunda Seção do STJ já esclareceram que a limitação da taxa de juros, com base apenas no fato de estar acima da taxa média de mercado, não encontra respaldo na jurisprudência desta Corte, uma vez que devem ser observados diversos fatores para a revisão da taxa de juros, tais como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+Confira-se trecho do acórdão recorrido (fl. 489, destaquei):
+De fato, os contratos celebrados entre as partes (ordem 9), quais sejam nº 042290010197, com taxa de juros de 22% a. m. e 987,22% a. a., celebrado em 31/07/2018; nº 042290010331, com taxa de juros de 22% a. m. e 987,22% a. a., celebrado em 25/10/2018; nº 042290010333, com taxa de juros de 20,50% a. m. e 837,23% a. a., celebrado em 25/10/2018; e nº 042290012077, com taxa de juros de 22% a. m. e 987,22% a. a., celebrado em 03/06/2020; então superando em muito o dobro da taxa média de mercado, chegando até mesmo a quadriplicar em um desses.
+Data vênia, não obstante o esforço argumentativo da demandada, em hipótese alguma o Poder Judiciário pode permitir a cobrança de juros claramente extorsivos, sendo perfeitamente viável a redução do patamar ajustado.
+Com efeito, embora a redução dos juros remuneratórios somente possa ocorrer em situações excepcionais, há na espécie estipulação que, sem dúvida alguma, coloca o consumidor em desvantagem exagerada, desse modo, reconhecido o abuso da instituição financeira na fixação dos juros remuneratórios, o caminho mais justo é limitar sua incidência à taxa média praticada pelo mercado para a época e espécie contratual.
+A bem da verdade, o caráter extorsivo das taxas de juros praticadas pela Crefisa é notório.
+Como visto acima, o Tribunal de origem limitou-se a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, sem apresentar outros fundamentos a respeito do tema, apontando genericamente as peculiaridades das contratações.
+Esse entendimento não está de acordo com a jurisprudência do STJ, que considera insuficientes para fundamentar o reconhecimento do caráter abusivo dos juros remuneratórios a menção genérica às "circunstâncias da causa" ou outra expressão equivalente, o simples cotejo entre a taxa de juros prevista no contrato e a média de mercado divulgada pelo Bacen e a aplicação de algum limite adotado aprioristicamente pelo próprio tribunal estadual.
+Assim, a Corte a quo utilizou como único parâmetro a taxa média de mercado divulgada pelo Banco Central, estabelecendo um teto como margem de tolerância do que seria admitido a título de juros e baseando-se apenas em uma menção genérica às peculiaridades da causa.
+Deixou, por conseguinte, de analisar efetivamente eventual vantagem exagerada, que justificaria a limitação determinada para o contrato em revisão.
+II - Art. 1.026, § 2º do CPC
+O Tribunal de origem aplicou multa à recorrente por considerar que os embargos de declaração opostos eram protelatórios e tinham o objetivo de revisão do julgado.
+Contudo, verifica-se que os embargos de declaração opostos ao acórdão do Tribunal de origem em apelação têm o intento de prequestionamento. Assim, não está configurado o caráter protelatório do referido recurso.
+Aplica-se ao caso, portanto, a Súmula n. 98 do STJ, que dispõe o seguinte: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Assim, no que se refere ao afastamento da aplicação da multa prevista no art. 1.026, § 2º, do CPC, o recurso merece prosperar.
+III - Conclusão
+Ante o exposto, conheço do recurso especial e dou-lhe provimento a fim de determinar a devolução dos autos à origem para que novo julgamento seja realizado para avaliar eventua l abusividade dos juros remuneratórios de acordo com os parâmetros estabelecidos pela jurisprudência do STJ, bem como para afastar a multa aplicada no julgamento dos embargos de declaração (art. 1.026, § 2º, do CPC).
+Julgo prejudicado o pedido de tutela provisória.
+Publique-se. Intimem-se.
+EMENTA
