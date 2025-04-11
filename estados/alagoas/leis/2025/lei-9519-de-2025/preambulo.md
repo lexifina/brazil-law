@@ -1,0 +1,7 @@
+ESTADO DE ALAGOAS ASSEMBLEIA LEGISLATIVA ESTADUAL
+
+LEI Nº 9.519, DE 10 DE ABRIL DE 2025.
+
+ALTERA A LEI Nº 5.900, DE 27 DE DEZEMBRO DE 1996.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE ALAGOAS, no uso das atribuições que lhe confere o § 6º do art. 89 da Constituição Estadual, promulga a seguinte Lei:
