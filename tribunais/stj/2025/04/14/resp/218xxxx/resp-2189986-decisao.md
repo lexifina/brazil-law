@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por PEDRO DE SOUZA RIBEIRO e OUTROS, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim ementado (fls. 1.063-1.064):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. TEMA 880/STJ. INAPLICABILIDADE. PRAZO. TERMO A QUO. TRÂNSITO EM JULGADO. SUSPENSÃO. INOCORRÊNCIA. HONORÁRIOS. EQUIDADE. INCABÍVEL. PERCENTUAL.
+1. O entendimento sufragado no Tema 880/STJ, que renovou o prazo prescricional para as execuções fundadas em títulos transitados até 17.03.2016, somente se aplica se a demanda estava dependendo da apresentação de documentos ou fichas financeiras pelo executado.
+2. Não evidenciada a necessidade de prévia apresentação de documentos em poder do executado, a execução individual da sentença coletiva deve ser intentada no prazo de cinco anos do seu trânsito em julgado.
+3. O ajuizamento da execução coletiva da obrigação de fazer não obsta o prazo prescricional da execução individual da obrigação de pagar. Precedentes.
+4. Transcorrido mais de cinco anos da sentença coletiva, sem que houvesse causa interruptiva ou suspensiva, deve-se pronunciar a prescrição executória.
+5. À luz da jurisprudência do STF, prestigia-se o entendimento da possibilidade de fixação dos honorários por equidade (§ 8º do art. 85 do CPC), quando, excepcionalmente, vislumbra-se desarrazoada disparidade entre a atividade do advogado e o ônus imposto à parte vencida para remunerá-lo.
+6. Deu-se parcial provimento ao recurso.
+Opostos embargos de declaração, foram rejeitados (fls. 1.151-1.155).
+As partes recorrentes pleiteiam, preliminarmente, a concessão da gratuidade de justiça.
+Apontam violação dos arts. 97 e 104 do Código de Defesa do Consumidor; e 313, V, "a", 489, § 1º, IV, e 1.022, II, do Código de Processo Civil.
+Quanto ao Tema 880/STJ, sustentam que estão presentes os requisitos para a aplicação da modulação dos efeitos do referido precedente repetitivo, devendo ser afastada a prescrição da pretensão executória.
+Contrarrazões às fls. 1.250-1.269.
+Admitido o recurso na origem, os autos vieram a esta Corte.
+É o relatório.
+Inicialmente, defiro às partes recorrentes os benefícios da gratuidade de justiça. Entretanto, importante registrar que, diante da eficácia ex nunc, sua concessão opera efeitos somente para o futuro, não retroagindo para abarcar atos processuais pretéritos. Nesse sentido: PET no AREsp n. 2.477.693, Ministra Regina Helena Costa, DJe de 16/09/2024; e AREsp n. 2.606.904, Ministra Nancy Andrighi, DJe de 20/09/2024.
+A pretensão recursal não comporta conhecimento.
+Mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, no ponto, a Súmula 284 do STF. Nesse sentido: AgInt no AREsp n. 2.511.738/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/ 8/2024, DJe de 28/8/2024; AgInt no REsp n. 2.098.330/DF, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgInt no REsp n. 2.098.431/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/8/2024, DJe de 26/8/2024; e AgInt no AREsp n. 2.359.404/DF, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 17/6/2024, DJe de 20/6/2024.
+Passo seguinte, no tocante à alegação de contrariedade aos arts. 97 e 104 do Código de Defesa do Consumidor e 313, V, "a", do Código de Processo Civil, registre-se que o presente recurso especial carece do requisito constitucional do prequestionamento. Incidem as súmulas 282 do STF, por analogia, e 211 do STJ.
+Como cediço, "o prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública" (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+Por derradeiro, quanto à prescrição, o tribunal a quo expressamente consignou que o Tema 880/STJ é inaplicável à hipótese, haja vista a não caracterização de demora no fornecimento de documentação requerida ao ente público para apresentação do respectivo cumprimento do título judicial.
+Assim, a revisão das premissas em que se baseou o tribunal de origem esbarra no óbice da Súmula 7 do STJ, dada a impossibilidade de incursão no quadro fático-probatório dos autos nesta estreita via recursal.
+No mesmo sentido, a propósito, as seguintes decisões monocráticas proferidas em feitos análogos ao presente: REsp n. 2.106.387, Ministro Gurgel de Faria, DJe de 02/07/2024; e REsp n. 2.105.849, Ministro Teodoro Silva Santos, DJe de 02/05/2024.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor das partes recorrentes, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido e, também, eventuais legislações extravagantes que tratem do arbitramento de honorários, bem como a concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. PRESCRIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
