@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interno interposto pela TRANSPORTADORA JOLIVAN LTDA. contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial pelos seguintes fundamentos: a) tratar-se de matéria constitucional; b) Súmula 284 do STF, por falta de comando normativo do dispositivo apontado como violado; e c) não comprovação do dissídio jurisprudencial.
+A parte agravante rebate a incidência dos óbices aplicados afirmando que a impugnação apresentada independe de enfrentamento de matéria legal constitucional e, ainda que dependesse, que existem outras matérias recursais além da suposta constitucional.
+Impugnação apresentada às fls. 524/533.
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada e passo à análise do agravo em recurso especial de fls. 469/477.
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual a TRANSPORTADORA JOLIVAN, se insurgiu, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+ADMINISTRATIVO. AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT. MULTA ADMINISTRATIVA. INFRAÇÃO À RESOLUÇÃO 3.056/09. EVASÃO DE FISCALIZAÇÃO. PODER NORMATIVO CONFERIDO ÀS AGÊNCIAS REGULADORAS. INAPLICABILIDADE DO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB. IMAGEM. FILMAGEM. DESNECESSÁRIO. PROCESSO ADMINISTRATIVO REGULAR. RECURSO DESPROVIDO.
+A questão debatida nos autos, qual seja, "possibilidade de aplicação retroativa da Resolução ANTT 5.847/2019, por ser mais benéfica ao infrator, ainda que a infração cometida seja anterior à sua edição", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.327), dos REsp"s 2.175.768/ES e 2.175.767/ES, de minha relatoria.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, reconsiderando a decisão agravada, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
