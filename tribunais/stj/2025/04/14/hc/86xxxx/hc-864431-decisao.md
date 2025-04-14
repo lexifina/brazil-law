@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WILLIAN VICENTIN EDUARDO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, em virtude do julgamento da apelação criminal n. 0001617-72.2019.8.16.0045.
+Consta nos autos que o paciente foi inicialmente condenado pelo Juízo da 2ª Vara Criminal da Comarca de Arapongas, nos autos da ação penal n. 0001617-72.2019.8.16.0045, pela prática do delito capitulado no artigo 273, §1º-B, incisos I e V, do Código Penal, à pena privativa de liberdade de 2 anos de reclusão e 200 dias-multa, a ser cumprida em regime inicial aberto. A pena foi substituída por duas penas restritivas de direito, consistentes em interdição temporária de direitos e prestação pecuniária, no valor equivalente a dois salários mínimos, em favor da vítima (fls. 13-14).
+A defesa apelou ao Tribunal de Justiça do Estado do Paraná, que negou provimento ao recurso e, de ofício, redimensionou a pena privativa de liberdade para 1 ano de reclusão e 10 dias-multa, no valor unitário de 1/30 do salário mínimo nacional, afastando a valoração negativa da circunstância judicial referente às consequências do crime. Manteve-se o regime inicial aberto e a substituição da pena privativa por uma pena restritiva de direitos, consistente em prestação de serviços à comunidade, a ser estabelecida pelo juízo da execução penal (fls. 13-35).
+Na presente impetração, busca-se a concessão da ordem para absolver o paciente por insuficiência de provas de autoria delitiva.
+É o relatório. DECIDO.
+A controvérsia consiste em possível coação ilegal consubstanciada pela negativa à absolvição do paciente por insuficiência de provas de autoria delitiva.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Não obstante o óbice ao conhecimento do presente habeas corpus, verifico que o Tribunal de Apelação - soberano na análise da matéria de fatos e provas - concluiu que o paciente vendeu à vítima um pote contendo 96 comprimidos de esteroide anabolizante conhecido como metandrostenolona, do laboratório farmacêutico paraguaio Landerlan, sem que o produto tivesse registro junto à Agência Nacional de Vigilância Sanitária (ANVISA), além de ser de procedência ignorada (fl. 23).
+Assim, para que a pretensão vertida nesta impetração - ausência de prova de autoria delitiva - pudesse ser acolhida, seria imprescindível o revolvimento de todo o conjunto fático-probatório, o que não é admitido pelo rito do habeas corpus e pela jurisprudência do Superior Tribunal de Justiça.
+A propósito:
+ ..
+V - Afastada qualquer flagrante ilegalidade, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo da ação penal.
+Habeas corpus não conhecido.
+(HC n. 690.179/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021.)
+De toda sorte, não há no acórdão impugnado ilegalidade flagrante que desafie a concessão da ordem nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
