@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGADA NULIDADE DA BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE DE SE EXAMINAR O APONTADO CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via eleita, inclusive em se tratando de matérias de ordem pública, bem como em caso de suposta nulidade absoluta, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior.
+2. Na hipótese, verifica-se que a tese de nulidade das buscas pessoal não foi efetivamente debatida pela Corte local, visto que não constaram das razões de apelação do paciente, sendo aventadas originariamente perante esta Corte Superior. Assim, se o tema não foi efetivamente debatido pelo Tribunal de origem, esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+3. Assim, o exame do apontado constrangimento ilegal depende da fixação das premissas fáticas pelo Tribunal de origem, fato que não ocorreu, o que impede o exame da controvérsia por este Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MANOEL SEBASTIÃO TEIXEIRA contra decisão de minha relatoria que não conheceu do presente habeas corpus (e-STJ fls. 431/433).
+Consta dos autos que o paciente, ora agravante, foi condenado às penas de 6 anos de reclusão em regime inicial fechado e ao pagamento de 600 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, porque trazia consigo, para fins de entrega a terceiros, 16 papelotes de cocaína (10g) e R$ 1.135,00 em espécie.
+No writ impetrado nesta Corte Superior, alegou que a condenação foi amparada em prova ilícita, pois a busca pessoal foi fundamentada apenas em denúncia anônima, sem fundada suspeita, o que viola o art. 240, § 2º, do Código de Processo Penal. Sustenta que a quantidade de droga apreendida, 10,29g de cocaína, é insuficiente para caracterizar o tráfico, devendo ser desclassificada para o art. 28 da Lei n. 11.343/2006, por se tratar de porte para uso pessoal.
+Afirmou que o paciente tem direito de recorrer em liberdade, pois não há motivos reais para a manutenção da prisão cautelar, e que a presunção de inocência está sendo violada.
+No mérito, a Defesa requer a absolvição do paciente com fulcro no art. 386, inciso II, do Código de Processo Penal, ou, subsidiariamente, a desclassificação do delito para o art. 28 da Lei n. 11.343/2006.
+Não conhecido o habeas corpus, a defesa interpôs o presente agravo regimental, no qual renova apenas os argumentos da impetração originária em relação à nulidade da busca pessoal realizada.
+Pleiteia, ao final, seja reconhecida a nulidade da prova, absolvendo o paciente pelo crime de tráfico de drogas.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGADA NULIDADE DA BUSCA PESSOAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREMISSAS FÁTICAS. IMPOSSIBILIDADE DE SE EXAMINAR O APONTADO CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Como é de conhecimento, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via eleita, inclusive em se tratando de matérias de ordem pública, bem como em caso de suposta nulidade absoluta, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte Superior.
+2. Na hipótese, verifica-se que a tese de nulidade das buscas pessoal não foi efetivamente debatida pela Corte local, visto que não constaram das razões de apelação do paciente, sendo aventadas originariamente perante esta Corte Superior. Assim, se o tema não foi efetivamente debatido pelo Tribunal de origem, esta Corte Superior fica impedida de se antecipar à matéria, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+3. Assim, o exame do apontado constrangimento ilegal depende da fixação das premissas fáticas pelo Tribunal de origem, fato que não ocorreu, o que impede o exame da controvérsia por este Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento.
+VOTO
+Em que pese o esforço da combativa defesa, a decisão agravada deve ser mantida por seus próprios fundamentos.
+Como afirmado anteriormente, a tese de nulidade da busca pessoal não foi examinada pela Corte de origem no julgamento da apelação criminal, o que impede este Superior Tribunal de Justiça de apreciar o tema, sob pena de indevida supressão de instância.
+Desse modo, "como os argumentos apresentados pela Defesa não foram examinados pelo Tribunal de origem no acórdão ora impugnado, as matérias não podem ser apreciadas por esta Corte nesta oportunidade, sob pena de indevida supressão de instância" (AgRg no HC n. 820.927/RJ, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 11/9/2023, D Je de 14/9/2023.).
+No mesmo sentido, é entendimento da Corte Maior que " o  exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, D Je de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, D Je de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, D Je de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, D Je de 24/4/2014)". (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, D Je 25/09/2020).
+Assim, o exame do apontado constrangimento ilegal depende da fixação das premissas fáticas pelo Tribunal de origem, fato que não ocorreu, o que impede o exame da controvérsia por este Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
