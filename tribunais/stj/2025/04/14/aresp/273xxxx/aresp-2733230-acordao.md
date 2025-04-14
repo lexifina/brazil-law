@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE RECONHECIMENTO DE NEGÓCIO JURÍDICO COM PEDIDO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE INDEFERIU BENEFÍCIO DA JUSTIÇA GRATUITA. VÍCIO DE INTIMAÇÃO. PREJUÍZO VERIFICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. O fato de a parte ter comparecido espontaneamente aos autos em oportunidades anteriores não é suficiente para tornar regular a intimação dirigida a advogado diverso daquele em benefício do qual requerido o direcionamento das publicações.
+2. Agravo conhecido. Recurso especial provido.
+RELATÓRIO
+ALFREDO DE LIMA NETO (ALFREDO) ajuizou ação judicial contra ALBERTO DAL MOLIN e CÍCERO ALBERTO DAL MOLIN (ALBERTO e CÍCERO) com o objetivo de declarar a existência de negócio jurídico (contrato de prestação de serviços) e cobrar danos morais e materiais em razão do inadimplemento do referido negócio (e-STJ, fls. 19/30).
+A sentença julgou parcialmente procedentes os pedidos para reconhecer a existência do negócio e condenar ALBERTO e CÍCERO ao pagamento de R$ 116.000,00 (cento e dezesseis mil reais). Em razão da sucumbência recíproca, condenou cada uma das partes a pagar metade das ustas processuais, mais honorários advocatícios no importe de 10% do valor da causa (e-STJ, fls. 291/297).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 329/332).
+Sobrevieram recursos de apelação interpostos tanto por ALFREDO (e-STJ, fls. 339/346), quanto por ALBERTO e CÍCERO, neste último recurso foi formulado pedido de Assistência Jurídica Gratuita em caráter incidental (e-STJ, fls. 347/376).
+A Desembargadora ANTÔNIA SIQUEIRA GONÇALVES, relatora do caso, proferiu despacho determinando que ALBERTO e CÍCERO juntassem documentos comprovando a alegada hipossuficiência (e-STJ, fls. 434/436).
+Referida determinação foi atendida às fls. 441/580.
+A Desembargadora Relatora, considerado insuficientes as provas apresentadas, indeferiu o pedido de assistência jurídica gratuita e determinou a intimação dos recorrentes para recolher o preparo, sob pena de deserção (e-STJ, fls. 581/583).
+Contra referida decisão monocrática, ALBERTO e CÍCERO interpuseram agravo interno (e-STJ, fls. 588/600) que foi desprovido pelo Tribunal de Justiça do Mato Grosso em Sessão de Julgamento do dia 6/12/2023, conforme acórdão assim ementado:
+AGRAVO INTERNO - APELAÇÃO CÍVEL - PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA INDEFERIDA - AUSÊNCIA DE NOVOS ELEMENTOS CAPAZES DE MODIFICAR A DECISÃO ATACADA - RECURSO DESPROVIDO. A afirmação de impossibilidade de arcar com o ônus financeiro de processo judicial possui presunção iuris tantum, podendo o magistrado indeferir a assistência judiciária se não encontrar fundamentos que confirmem o estado de hipossuficiência do requerente. Precedentes do STJ e do TJMT (e-STJ, fls. 632).
+Em seguida, no dia 28/8/2024, foi certificado nos autos que ALBERTO e CÍCRO não haviam recolhido o preparo (e-STJ, fls. 639/640).
+Sobreveio, assim, decisão monocrática da Relatora, negando conhecimento ao respectivo apelo, com fundamento na deserção (e-STJ, fls. 641/644).
+ALBERTO e C CERO opuseram embargos de declaração alegando nulidade processual, porque não teriam sido regularmente intimados (a) da inclusão do agravo interno em pauta de julgamento, o que lhes teria suprimido a possibilidade de apresentar sustentação oral, e (b) do acórdão que julgou referido agravo interno, o que lhes teria suprimido a possibilidade de interpor recurso competente ou recolher o preparo da apelação (e-STJ, fls. 647/656)
+Referidos embargos foram rejeitados mediante a seguinte fundamentação:
+No que tange as publicações, observa-se que nas razões de apelação os recorrentes postularam o benefício da assistência judiciária, razão pela qual foi oportunizada a juntada de documentos para comprovar a hipossuficiência alegada.
+Da análise dos autos, denota-se que, em que pese supostamente não tenham sido intimados da r. decisão, apresentaram manifestação aos autos (id. 186818193) apresentando os documentos que entenderam pertinentes a comprovar a alegada incapacidade financeira, bem ainda, apresentaram o recurso interno da decisão que não concedeu o benefício da justiça gratuita.
+Desta forma, tendo os embargantes comparecido espontaneamente aos autos e não tendo arguido naquela oportunidade a ocorrência de eventual nulidade em decorrência da ausência de intimação válida, não há que se decretar a nulidade processual, porque não demonstrado o manifesto prejuízo, em respeito ao princípio da instrumentalidade das formas (e-STJ, fl. 705).
+Irresignados, ALBERTO e CÍCERO interpuseram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando ofensa aos arts. 272, § 2º, 280, § 5º, do CPC, pois não foram regularmente intimados (a) da inclusão do agravo interno em pauta de julgamento, o que lhes teria suprimido a possibilidade de apresentar sustentação oral, e (b) do acórdão que julgou referido agravo interno, o que lhes teria suprimido a possibilidade de interpor recurso competente ou recolher o preparo da apelação (e-STJ, fls. 728/744).
+Apresentadas contrarrazões (e-STJ, fls. 755/763), o recurso especial não foi admitido na origem com base na Súmula nº 7 do STJ (e-STJ, fls. 764/771).
+No agravo que se seguiu, ALBERTO e CÍCERO impugnaram a incidência do mencionado óbice sumular (e-STJ, fls. 774/786).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE RECONHECIMENTO DE NEGÓCIO JURÍDICO COM PEDIDO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO QUE INDEFERIU BENEFÍCIO DA JUSTIÇA GRATUITA. VÍCIO DE INTIMAÇÃO. PREJUÍZO VERIFICADO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. O fato de a parte ter comparecido espontaneamente aos autos em oportunidades anteriores não é suficiente para tornar regular a intimação dirigida a advogado diverso daquele em benefício do qual requerido o direcionamento das publicações.
+2. Agravo conhecido. Recurso especial provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+O acórdão recorrido tem razão ao afirmar que o sistema de nulidades no direito processual civil, informado pelo princípio da instrumentalidade das forma, só permite a anulação de atos processuais quanto verificado algum prejuízo concreto para a parte.
+Nesses termo, quando eventual vício de intimação não resultar em nenhum prejuízo efetivo para a parte, não será possível decretar a nulidade.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. AUSÊNCIA DE INTIMAÇÃO. NULIDADE DOS ATOS PROCESSUAIS NÃO DECLARADA TENDO EM VISTA A AUSÊNCIA DE PREJUÍZOS. PAS DE NULLITÉ SANS GRIEF. SÚMULAS 7 E 83/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. 4. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. A ausência de intimação do procurador do recorrente as decisões que seguiram à de mov. 85.1, como asseverado pelo Tribunal local, só ensejaria a declaração da nulidade se causasse efetivo prejuízo à parte que a alegou, conforme preconiza a máxima do sistema das nulidades processuais pas de nullité sans grief e o princípio da instrumentalidade das formas, o que não ocorreu na hipótese dos autos.
+(AgInt no AREsp n. 2.188.680/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 13/3/2023, DJe de 16/3/2023 - sem destaques no original.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AUSÊNCIA DE INTIMAÇÃO DOS DEVEDORES EM RELAÇÃO À AVALIAÇÃO DO IMÓVEL. NULIDADE DO ATO PROCESSUAL AFASTADA. PREJUÍZO NÃO DEMONSTRADO. MODIFICAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Nos termos da jurisprudência do STJ, "É necessária a prova de prejuízo efetivo e concreto à parte que alega a nulidade, pois, em nosso ordenamento jurídico, vigoram os princípios da pas de nullité sans grief e da instrumentalidade das formas" (AgInt no AgInt no AREsp 1.480.468/SP, Relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 31/5/2021, DJe de 7/6/2021).
+(AgInt nos EDcl no AREsp n. 2.219.956/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 8/5/2023, DJe de 17/5/2023.)
+No caso dos autos, ainda se poderia afirmar que o vício de intimação no tocante a pauta de julgamento do agravo interno não cerceou o direito da parte de apresentar sustentação oral. Isso porque não há previsão legal e regimental para o advogado sustentar oralmente no julgamento dessa espécie recursal. Assim, não seria possível visualizar o prejuízo alegado pela pela parte.
+Com relação ao julgamento do agravo interno, todavia, parece inegável que a irregularidade na intimação causou efetivo prejuízo para os recorrentes ALBERTO e CÍCERO.
+Cumpre destacar que após referido acórdão, sobreveio decisão julgando deserto o recurso de apelação. Isso significa que não foi dada a parte oportunidade real para recolher o preparo daquele recurso ou, eventualmente, para interpor recurso às instâncias superiores buscando o deferimento dos benefícios da Lei 1.060/50.
+Acrescente-se que, havendo pedido para que as intimações sejam dirigidas a um advogado específico revelam-se nulas as publicações feitas a advogado diverso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. INTIMAÇÃO ELETRÔNICA. PUBLICAÇÃO EXCLUSIVA. AUSÊNCIA. NULIDADE CONFIGURADA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+ ..
+2. A Segunda Seção do Superior Tribunal de Justiça firmou jurisprudência no sentido de que a intimação dirigida a advogado diverso, quando há pedido expresso de intimação exclusiva de patrono indicado, enseja a nulidade do ato. Assim, nos termos do art. 272, § 5º, do CPC/2015, "constando dos autos pedido expresso para que as comunicações dos atos processuais sejam feitas em nome dos advogados indicados, o seu desatendimento implicará nulidade". Precedente (EAREsp 1.306.464/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 25/11/2020, DJe de 09/03/2021).
+(AgInt no AREsp n. 2.500.462/MG, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+Ainda quanto ao tema, deve-se acrescentar que, ao contrário do que consignado pelo acórdão estadual, o fato de a parte ter comparecido espontaneamente aos autos em oportunidades anteriores não é suficiente para tornar regular a intimação dirigida a advogado diverso daquele em benefício do qual requerido o direcionamento das publicações.
+Nessas condições, pelo meu voto, DOU PROVIMENTO ao recurso especial, determinando que o acórdão do agravo interno seja novamente publicado, desta feita, de forma regular.
