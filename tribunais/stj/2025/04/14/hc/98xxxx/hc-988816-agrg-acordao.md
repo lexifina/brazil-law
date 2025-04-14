@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Incompetência do juízo. PROCESSO TRANSITADO. REITERAÇÃO DE PEDIDO NESTE STJ. Agravo regimental não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão com trânsito em julgado na origem, utilizado como substituto de revisão criminal.
+2. O agravante foi condenado por infração ao artigo 1º, inciso I, do Decreto-Lei nº 201/67, combinado com o artigo 71, por 17 vezes, e o artigo 29, todos do Código Penal, à pena de 10 anos de reclusão, em regime inicial fechado (apelação criminal n. 0002793-10.2005.8.26.0624).
+3. A defesa alega incompetência absoluta do juízo processante, em razão da prerrogativa de foro, sustentando que o julgamento deveria ter ocorrido pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de revisão criminal em caso de acórdão com trânsito em julgado, e se há incompetência do juízo de primeiro grau em razão da prerrogativa de foro. Ademais, se seria possível uma nova impetração neste STJ reiterar pedidos anteriores.
+III. Razões de decidir
+5. O habeas corpus não pode ser conhecido quando utilizado como substituto de revisão criminal, conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, que atribui competência ao Superior Tribunal de Justiça para revisões criminais. Isso já havia sido explicado quando do HC n. 931.111/SP, analisado colegiadamente por esta Quinta Turma em 24/9/2024.
+6. Não se verificou teratologia ou coação ilegal que justifique a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+7. O agravo regimental limitou-se a reiterar as teses do habeas corpus, sem refutar especificamente os fundamentos da decisão agravada, aplicando-se a Súmula n. 182 do STJ.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido, mantendo a decisão agravada por seus próprios fundamentos.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substituto de revisão criminal em caso de acórdão com trânsito em julgado. 2. A competência para revisões criminais do Superior Tribunal de Justiça é limitada, conforme o artigo 105, inciso I, alínea "e", da Constituição Federal. 3. A ausência de refutação específica dos fundamentos da decisão agravada inviabiliza o agravo regimental, conforme a Súmula n. 182 do STJ, assim como a reiteração de pedido anteriormente analisado neste STJ."
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 861.867/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 02.09.2024; STJ, AgRg no HC 817.562/RS, Rel. Min. Reynaldo Soares da Fonseca, DJe 30.06.2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ADEMIR SIGNORI BORSSATO contra a decisão que não conheceu do habeas corpus.
+Consta dos autos o agravante foi condenado por infração ao artigo 1º, inciso I, do Decreto-Lei nº 201/67, c. c. o artigo 71, por 17 vezes, e o artigo 29, todos do Código Penal, à pena de 10 (dez) anos de reclusão, em regime inicial fechado.
+O trânsito em julgado na origem já ocorreu, conforme informado (fl. 5).
+Nas razões do presente recurso, a defesa repisa os fundamentos expendidos no writ não conhecido, sustentando que a situação dos autos trata-se de incompetência absoluta do juízo processante, em razão da prerrogativa de foro, o que, no seu entender, impõe nulidade insanável e autoriza a impetração do habeas corpus.
+Alega que esta Corte já deu provimento a julgados, em tese, similares.
+Argumenta que o ora agravante, à época dos fatos, exercia mandato de prefeito municipal, de modo que, no seu entender, o julgamento deveria ter ocorrido pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo.
+Menciona violação ao princípio do devido processo legal e à garantia do Juiz natural.
+Requer, ao final, a reconsideração da decisão monocrática ou a submissão do pleito a julgamento pelo órgão colegiado, para que seja conhecido e provido o presente agravo regimental, concedendo a ordem pretendida e reconhecendo a alegada incompetência absoluta do Juízo de primeiro grau.
+O Ministério Público Federal manifestou ciência da decisão, à fl. 115.
+Por manter a decisão ora agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus. Incompetência do juízo. PROCESSO TRANSITADO. REITERAÇÃO DE PEDIDO NESTE STJ. Agravo regimental não conhecido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu de habeas corpus impetrado contra acórdão com trânsito em julgado na origem, utilizado como substituto de revisão criminal.
+2. O agravante foi condenado por infração ao artigo 1º, inciso I, do Decreto-Lei nº 201/67, combinado com o artigo 71, por 17 vezes, e o artigo 29, todos do Código Penal, à pena de 10 anos de reclusão, em regime inicial fechado (apelação criminal n. 0002793-10.2005.8.26.0624).
+3. A defesa alega incompetência absoluta do juízo processante, em razão da prerrogativa de foro, sustentando que o julgamento deveria ter ocorrido pelo Órgão Especial do Tribunal de Justiça do Estado de São Paulo.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substituto de revisão criminal em caso de acórdão com trânsito em julgado, e se há incompetência do juízo de primeiro grau em razão da prerrogativa de foro. Ademais, se seria possível uma nova impetração neste STJ reiterar pedidos anteriores.
+III. Razões de decidir
+5. O habeas corpus não pode ser conhecido quando utilizado como substituto de revisão criminal, conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, que atribui competência ao Superior Tribunal de Justiça para revisões criminais. Isso já havia sido explicado quando do HC n. 931.111/SP, analisado colegiadamente por esta Quinta Turma em 24/9/2024.
+6. Não se verificou teratologia ou coação ilegal que justifique a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+7. O agravo regimental limitou-se a reiterar as teses do habeas corpus, sem refutar especificamente os fundamentos da decisão agravada, aplicando-se a Súmula n. 182 do STJ.
+IV. Dispositivo e tese
+8. Agravo regimental não conhecido, mantendo a decisão agravada por seus próprios fundamentos.
+Tese de julgamento: "1. O habeas corpus não pode ser utilizado como substituto de revisão criminal em caso de acórdão com trânsito em julgado. 2. A competência para revisões criminais do Superior Tribunal de Justiça é limitada, conforme o artigo 105, inciso I, alínea "e", da Constituição Federal. 3. A ausência de refutação específica dos fundamentos da decisão agravada inviabiliza o agravo regimental, conforme a Súmula n. 182 do STJ, assim como a reiteração de pedido anteriormente analisado neste STJ."
+Dispositivos relevantes citados: CF/1988, art. 105, I, "e"; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, AgRg no HC 861.867/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, j. 02.09.2024; STJ, AgRg no HC 817.562/RS, Rel. Min. Reynaldo Soares da Fonseca, DJe 30.06.2023.
+VOTO
+No presente recurso, como dito, o agravante reitera argumentos lançados anteriormente e pede a reversão do julgado ora agravado. Da decisão impugnada, entretanto, colhe-se que analisou de forma devidamente fundamentada os pontos apresentados.
+No entanto, o presente habeas corpus foi impetrado contra acórdão com trânsito em julgado. Diante disso, não devia ser conhecido, pois foi utilizado como substituto de uma revisão criminal, em uma situação na qual não se configurou a competência originária desta Corte.
+Conforme o artigo 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Nessa linha:
+" ..  1. Na hipótese, a condenação transitou em julgado em 31/5/2023. Dessa forma, o presente writ seria sucedâneo de revisão criminal, sendo esta Corte incompetente para o processamento do pleito revisional.
+ ..  3. Agravo regimental desprovido" (AgRg no HC n. 861.867/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+De todo modo, não verifiquei a presença de teratologia ou coação ilegal que desafie a concessão da ordem, nos termos do § 2º do artigo 654 do Código de Processo Penal.
+Isso, aliás, já havia sido explicado quando do HC n. 931.111/SP, analisado colegiadamente por esta Quinta Turma em 24/9/2024:
+"DIREITO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO POR CRIME DE RESPONSABILIDADE. REVISÃO DA DOSIMETRIA. NÃO CONHECIMENTO DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - Agravo regimental interposto por Ademir Signori Borssato contra decisão monocrática que não conheceu do habeas corpus, por ser utilizado em substituição à revisão criminal. O agravante foi condenado a 20 anos de reclusão pela prática do delito previsto no art. 1º, I, do Decreto-Lei n. 201/1967, em 17 oportunidades, pena posteriormente reduzida para 10 anos em apelação. A defesa buscava a revisão da dosimetria e alegava incompetência do juízo.
+II - A jurisprudência do STJ não admite o uso de habeas corpus como substituto de revisão criminal, salvo em casos excepcionais de flagrante ilegalidade.
+III - A condenação transitou em julgado, sendo a via adequada para revisão da dosimetria a revisão criminal, não cabendo ao STJ reavaliar os critérios adotados pela instância originária pela via do habeas corpus.
+IV - Não foi reconhecida flagrante ilegalidade na valoração das circunstâncias judiciais.
+Agravo regimental desprovido."
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório, como in casu (AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/6/2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 29/6/2023; HC n. 704.718/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 23/5/2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/6/2023).
+Diante disso, não se constatou a flagrante ilegalidade apontada.
+De resto , o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da decisão guerreada, caso em que tem aplicabilidade o disposto na Súmula n. 182, STJ:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos (AgRg no HC n. 819.078/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 15/6/2023).
+Ante o exposto, não conheço do agravo regimental, mantendo a decisão agravada por seus próprios fundamentos.
+É como voto.
