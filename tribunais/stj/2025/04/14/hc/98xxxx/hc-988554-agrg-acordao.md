@@ -1,0 +1,98 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante reitera os argumentos já apresentados na petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EDIPO FERNANDO IANI DOS SANTOS contra a decisão de minha lavra, pela qual não conheci do habeas corpus.
+Consta dos autos que o paciente foi condenado, perante o Tribunal do Júri, pela prática do delito previsto no art. 121, §2º, incisos I, III e IV, do Código Penal, à pena de 18 anos e 8 meses de reclusão, em regime prisional inicialmente fechado.
+Interposta apelação pela defesa, o recurso foi parcialmente provido pelo Tribunal local para reduzir as penas aplicadas a 16 anos de reclusão (Apelação Criminal n. 0044126-76.2011.8.26.0576).
+Após o trânsito em julgado da ação penal, a defesa propôs revisão criminal (Revisão Criminal n. 2318143-90.2024.8.26.0000), a qual não foi conhecida pelo Tribunal local, por acórdão assim ementado (e-STJ fls. 48/49):
+EMENTA: DIREITO PENAL. REVISÃO CRIMINAL. HOMICÍDIO TRIPLAMENTE QUALIFICADO. PEDIDO NÃO CONHECIDO PELA AUSÊNCIA DE SATISFAÇÃO DOS REQUISITOS DE ADMISSIBILIDADE DA AÇÃO.
+I. Caso em Exame 1. Pedido de revisão criminal apresentado por Édipo Fernando Iani dos Santos, condenado por homicídio triplamente qualificado, com pena reduzida para 16 anos de reclusão. O peticionário alega violação de texto expresso de lei e desconformidade com as provas, pleiteando absolvição ou redução da pena.
+II. Questão em Discussão 2. A questão em discussão consiste em (i) se a condenação violou texto expresso de lei ou está em desconformidade com as provas colhidas, e (ii) se há fundamento para reconhecimento da participação de menor importância.
+III. Razões de Decidir 3. A decisão não contrariou texto expresso de lei, pois a conduta é típica e a pena prevista para a infração.
+4. O argumento de decisão contrária à prova dos autos já foi acolhido em julgamento anterior, não cabendo novo recurso sem provas novas, desejo do peticionário 5. O reconhecimento da participação de menor importância é competência exclusiva do Corpo de Jurados, não cabendo exame na revisão.
+IV. Dispositivo e Tese 6. Não conhecimento da ação, rejeitando o pedido revisional e julgando extinto o processo. Tese de julgamento: 1. A revisão criminal não é cabível para reiteração de teses já vencidas e sem apresentação de fatos novos. 2. A decisão deve ser baseada em provas novas ou vícios insanáveis, o que não se verifica no caso.
+Legislação Citada:
+Código Penal, art. 121, § 2.º, incisos I, III e IV; art. 29, § 1.º. Código de Processo Penal, art. 621, incisos I, II, III; art. 626; art. 483, inciso IV.
+Jurisprudência Citada:
+STF, RvC 5437, Rel. Min. Teori Zavascki, j. 17.12.2014. TJSP, Revisão Criminal 2170149-92.2023, Rel. Des. Airton Vieira.
+No writ, a defesa alegou que o paciente sofre constrangimento ilegal em razão de sua condenação, pois argumenta que as provas são frágeis e insuficientes para um decreto condenatório.
+Subsidiariamente, requereu o reconhecimento da participação de menor importância do paciente, com a consequente redução da pena nos moldes do art. 29, §1º, do Código Penal (e-STJ fls. 12-14).
+Diante disso, pleiteou, liminarmente e no mérito, a absolvição do paciente dos delitos imputados, nos termos do art. 386, inciso VII, do Código de Processo Penal e, subsidiariamente, a redução da pena imposta em 1/3, conforme o §1º do art. 29 do Código Penal.
+Pela decisão de e-STJ fls. 60/65, não conheci da impetração, ante a impossibilidade de analisar elementos fático-probatórios presentes nos autos, no que se refere ao pedido de absolvição; bem como pela ausência de análise, pela Corte local, da eventual participação de menor importância do paciente, trazido na impetração, a impedir a atuação desta Corte, por supressão de instância.
+Neste agravo regimental, a defesa sustenta que como podemos observar pelo próprio depoimento da irmã da vítima, ficou demonstrado que Agravante 1não organizou ou dirigiu a atuação dos demais envolvidos", não participando assim, do núcleo do tipo penal previsto pelo art. 121, § 2º, incisos I, III e IV, do Código Penal (e-STJ fl. 70).
+Assim, a defesa reitera os argumentos apresentados na petição inicial, requerendo o provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. ENUNCIADO N. 182 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Neste agravo regimental não foram trazidos argumentos novos, aptos a elidirem os fundamentos da decisão agravada, uma vez que o agravante reitera os argumentos já apresentados na petição inicial. Tais fundamentos, uma vez que não foram devidamente impugnados, atraem ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental é tempestivo, entretanto, não merece conhecimento.
+Na decisão agravada, enfrentei, de forma fundamentada, os argumentos apresentados pela defesa, enfatizando o entendimento jurisprudencial desta Corte acerca dos temas suscitados.
+Na ocasião, apresentei a seguinte fundamentação:
+Busca-se, no caso, a absolvição do paciente dos delitos imputados, nos termos do art. 386, inciso VII, do Código de Processo Penal e, subsidiariamente, a redução da pena imposta em 1/3, conforme o §1º do art. 29 do Código Penal.
+Como é cediço, para se reconhecer a ausência de provas para a condenação seria necessário analisar de forma profunda as circunstâncias fático-probatórias amealhadas aos autos, bem como os elementos utilizados pelas instâncias ordinárias para concluírem pela condenação do paciente, tarefa inviável na estreita via do habeas corpus.
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. NÃO CONHECIMENTO.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. O alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+ROUBO CIRCUNSTANCIADO. FALTA DE PROVAS. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO QUE MANTEVE A SENTENÇA CONDENATÓRIA. COAÇÃO ILEGAL INEXISTENTE.
+1. A pretendida absolvição do paciente é questão que demanda aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional.
+2. No processo penal brasileiro, vigora o princípio do livre convencimento motivado, em que o julgador, desde que de forma fundamentada, pode decidir pela condenação, não se admitindo no âmbito do habeas corpus a reanálise dos motivos pelos quais as instâncias ordinárias formaram convicção pela prolação de decisão repressiva em desfavor do acusado.
+DOSIMETRIA. PENA-BASE. POSSIBILIDADE DE UTILIZAÇÃO DE CONDENAÇÕES ANTERIORES NA PRIMEIRA E NA SEGUNDA ETAPAS DA DOSIMETRIA QUANDO SE TRATAM DE PROCESSOS DISTINTOS.
+A jurisprudência desta Corte Superior de Justiça pacificou-se no sentido de que não há óbice em se considerar, na primeira fase da dosimetria, anotações diversas daquelas sopesadas como reincidência, uma vez que os fatos utilizados para a exasperação de pena-base não são os mesmos que autorizaram a majoração na etapa seguinte, o que afasta a eiva articulada na impetração.
+FIXAÇÃO DE REGIME DIVERSO DO FECHADO PARA O CUMPRIMENTO INICIAL DA PENA. SANÇÃO SUPERIOR A 8 ANOS. ACUSADO REINCIDENTE. INVIABILIDADE. INTELIGÊNCIA DO ARTIGO 33 DO CÓDIGO PENAL.
+1. Inviável a fixação de regime diverso do fechado para o resgate da reprimenda corporal, pois o paciente restou definitivamente condenado à pena de 10 (dez) anos, 11 (onze) meses e 7 (sete) dias de reclusão, quantidade de sanção que impõe o modo mais severo para o seu cumprimento inicial, nos termos do artigo 33, § 2º, alínea "a" do Código Penal.
+2. Ainda que assim não fosse, trata-se de condenado reincidente, circunstância que reforça o descabimento de regime menos severo. Precedente.
+3. Habeas corpus não conhecido (HC 353.566/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 2/6/2016, DJe 14/6/2016).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. PLEITO DE ABSOLVIÇÃO. TENTATIVA DE LATROCÍNIO. PEDIDO DE DESCLASSIFICAÇÃO. DINÂMICA DOS FATOS RELATADOS PELAS INSTÂNCIAS ORDINÁRIAS DEMONSTRAM CIÊNCIA DA ORIGEM ILÍCITA DO BEM APREENDIDO E O INEQUÍVOCO ANIMUS NECANDI. IMPOSSIBILIDADE DE REEXAME APROFUNDADO DE PROVAS. FRAÇÃO DE REDUÇÃO PELA TENTATIVA. ITER CRIMINIS PERCORRIDO. FRAÇÃO INTERMEDIÁRIA DE 1/2. AUSÊNCIA DE ILEGALIDADE NA ESCOLHA DA FRAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fundamentação adotada pelo v. aresto impugnado, para manter a condenação pelo crime de receptação, baseou-se no contexto fático-probatório da demanda, sendo a inviável de revisão na via estreita do habeas corpus.
+2. Conforme jurisprudência do Superior Tribunal de Justiça, havendo dolo de roubar e dolo de matar para assegurar o roubo, está configurado o delito de latrocínio na forma tentada no caso de a morte não se consumar por circunstâncias alheias à vontade do agente. Precedentes.
+3. Na espécie, é incabível o afastamento do animus necandi, uma vez que o Tribunal de origem, em análise ao acervo probatório, consignou que o corréu estava armado e os dois agentes tinham o mesmo desígnio de roubar, assumindo o risco de matar a vítima pelos disparos efetuados. Diante disso, considerando a dinâmica dos fatos descritos no acórdão da apelação acerca do crime de tentativa de latrocínio, não há que se falar, na via estreita do writ, em desclassificação do delito.
+4. Quanto à fração de redução pela tentativa, "a jurisprudência desta Corte adota critério de diminuição do crime tentado de forma inversamente proporcional à aproximação do resultado representado:
+quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição" (HC 527.372/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019).
+No caso, o acórdão consignou que "os disparos de arma de fogo foram efetuados quando o apelante e seu comparsa tentavam se evadir de posse do veículo e demais objetos subtraídos", e concluiu que o iter criminis percorrido foi intermediário. No caso, não há ilegalidade na escolha da fração de 1/2 de redução.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 653.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/11/2021, DJe de 26/11/2021.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO CONSUMADO E CORRUPÇÃO DE MENORES MAJORADA. IMPETRAÇÃO SUPERVENIENTE AO TRÂNSITO EM JULGADO DA CONDENAÇÃO. PEDIDO QUE, NA VERDADE, CONSUBSTANCIA PRETENSÃO REVISIONAL, ANTES DA INAUGURAÇÃO DA COMPETÊNCIA DESTA CORTE. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE QUE IMPONHA A CONCESSÃO DE ORDEM DE OFÍCIO. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO WRIT QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. O trânsito em julgado da condenação ocorreu antes da protocolização da inicial deste feito. Nesse contexto, o pedido formulado na exordial consubstancia pretensão revisional, a despeito de não ter sido inaugurada essa competência do STJ. Isso porque, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+2. Ausência de ilegalidade que imponha a concessão de ordem de ofício.
+3. Conforme entendimento jurisprudencial, "a tese de desclassificação do crime de latrocínio tentado para roubo circunstanciado tentado esbarra na necessidade de revolvimento fático-probatório, o que se afigura inviável na estreita via do mandamus" (STJ, AgRg no HC 446.283/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/06/2018, DJe 01/08/2018).
+4. As circunstâncias da execução do delito, como a "participação de menor importância, não podem ser avaliadas na via estreita do habeas corpus, por demandar aprofundada análise do acervo fático probatório dos autos da ação penal, inviável nesta via de cognição sumária" (STJ, HC 450.314/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/08/2018, DJe 14/08/2018).
+5. Embora o Agravante pretenda a sua soltura, no caso a condenação é definitiva, motivo pelo qual não é cabível a substituição da prisão por uma das medidas previstas no art. 319 do Código de Processo Penal.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 618.233/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/11/2020, DJe de 27/11/2020.)
+Acerca da alegada participação de menor importância do paciente na execução do delito, verifica-se que o tema sequer foi abordado pelo acórdão impugnado, de forma que se torna inviável sua análise nesta oportunidade por esta Corte, sob pena de indevida supressão de instância.
+Como cediço, não compete a esta Corte, em habeas corpus interposto contra acórdão de apelação, conhecer matéria não decidida previamente pela instância de origem, sob pena de indevida supressão de instância (AgRg no HC n. 764.710/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/12/2022, DJe 21/12/2022).
+No mesmo sentido, é entendimento da Corte Maior que o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC 129.142, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES Primeira Turma, DJe de 10/8/2017; RHC 111.935, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC 97.009, Rel. p/ Acórdão: Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC 118.189, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014) (HC n. 179.085, Rel. Ministro Marco Aurélio, Primeira Turma, julgado em 05/08/2020, DJe 25/09/2020).
+Assim, a pretensão formulada pela impetrante encontra óbice na jurisprudência consolidada do Superior Tribunal de Justiça, sendo manifestamente improcedente.
+Neste recurso de agravo regimental, porém, não foram apresentados quaisquer argumentos novos, capazes de infirmar os fundamentos da decisão agravada, porquanto o agravante apenas reitera aqueles já constantes da petição inicial.
+Com efeito, o acórdão impugnado assentou claramente que em terceiro lugar, a questão do reconhecimento da participação de menor importância igualmente não foi reconhecida no aresto da Corte, porque o acolhimento de matéria dessa natureza é de exclusiva competência do Corpo de Jurados, na forma do artigo 483, inciso IV, do C. P. Penal (e-STJ fl. 52).
+Diante disso, não houve qualquer manifestação da Corte local acerca do tema suscitado no presente recurso, como enfatizado pela decisão agravada.
+Entretanto, no presente agravo regimental, não houve a impugnação específica acerca dos fundamentos da decisão agravada, de forma que incide ao caso o disposto no enunciado n. 182 da Súmula desta Corte.
+Nesse sentido, seguem os precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM HABEAS CORPUS. FUNDAMENTOS NÃO INFIRMADOS PELO AGRAVANTE. INCIDÊNCIA DO ENUNCIADO N. 182 DA SÚMULA DESSA CORTE SUPERIOR. ALEGADA OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+- Não foram trazidos elementos aptos a afastar os argumentos da decisão agravada, os quais estavam em harmonia com a jurisprudência pacificada nessa Corte Superior acerca dos temas.
+- Tais fundamentos não foram devidamente impugnados pelo presente agravo regimental, a atrair ao caso o disposto no enunciado n. 182 da Súmula dessa Corte Superior.
+- O julgamento monocrático do habeas corpus não representa ofensa ao princípio da colegialidade, nos termos previstos no art. 34, XX, do RISTJ, notadamente porque qualquer decisão monocrática está sujeita à apreciação do órgão colegiado, em virtude de possibilidade de interposição do agravo regimental, como na espécie.
+- Agravo regimental não conhecido (AgRg no AgRg no HC 436.568/SP, de minha relatoria, julgado em 07/02/2019, DJe 14/02/2019).
+AGRAVO REGIMENTAL. PROCESSO PENAL. DENUNCIAÇÃO CALUNIOSA. TESE DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE INÉPCIA. AGRAVO NÃO CONHECIDO PELA APLICAÇÃO DA SÚMULA N. 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA.
+1. As teses referentes à incompetência do juízo não foram objeto de apreciação pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+2. Quanto à inépcia, o agravante deixou de impugnar fundamentos da decisão agravada, atraindo, por analogia, a aplicação do óbice previsto na Súmula n. 182 desta Corte. Precedentes.
+3. "Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n. 182 da Súmula desta Corte)" (AgRg no HC n. 376.793/SP, rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/6/2017, DJe 1º/8/2017).
+4. Agravo regimental conhecido em parte e, nessa extensão, desprovido (AgInt no RHC 51.853/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/09/2018, DJe 13/09/2018).
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
