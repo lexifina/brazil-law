@@ -1,0 +1,9 @@
+DECISÃO
+O presente agravo regimental (Petição n. 00035570/2025 - fls. 216/226), interposto por ANDRE DE ARAUJO FERRARI contra a decisão, proferida pela Presidência desta Corte, na qual indeferiu liminarmente o habeas corpus, em razão da ausência de deliberação colegiada sobre a matéria trazida na presente impetração (fls. 210/211), cuja pretensão recai sob o relaxamento da prisão preventiva, ante a ausência de convalidação da prisão pelo Juízo de primeiro grau competente -, está prejudicado.
+Isso porque a impetração impugna decisão monocrática de indeferimento do pedido liminar na origem (fls. 187/191), porém, em consulta ao endereço eletrônico do Tribunal de Justiça do Rio Grande do Sul, constatei que houve o julgamento do writ originário em sessão virtual datada de 27/2/2025 (HC n. 5002581-19.2025.8.21.7000/RS), sendo a ordem denegada, por unanimidade de votos.
+Assim, para esta Corte Superior, o julgamento definitivo do habeas corpus originário implica prejudicialidade superveniente do presente mandamus (AgRg no HC n. 743.329/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 19/8/2022 - grifo nosso).
+Pelo exposto, julgo prejudicado o presente agravo regimental.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE CAPITAIS, TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO. DECLÍNIO DE COMPETÊNCIA. PRETENSÃO DE RELAXAMENTO DA PRISÃO PREVENTIVA POR AUSÊNCIA DE CONVALIDAÇÃO DO ATO DECISÓRIO PELO JUÍZO DE PRIMEIRO GRAU COMPETENTE. WRIT IMPETRADO CONTRA A DECISÃO MONOCRÁTICA DO DESEMBARGADOR RELATOR QUE INDEFERIU O PLEITO LIMINAR NO MANDAMUS ORIGINÁRIO. SUPERVENIÊNCIA DO JULGAMENTO DE MÉRITO PELO TRIBUNAL A QUO. ALTERAÇÃO DA SITUAÇÃO FÁTICO-PROCESSUAL. PERDA DE OBJETO. PRECEDENTE.
+Agravo regimental prejudicado.
