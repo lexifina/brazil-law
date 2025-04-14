@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo de MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 1.0000.24.152551-8/001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 180, §1º, do Código Penal, à pena de 3 (três) anos de reclusão, em regime inicial aberto, e 10 (dez) dias-multa (fl. 692).
+Em sede de apelação, o Ministério Publico pleiteou a condenação do acusado pelo delito previsto no art. 157, §2º, II, por duas vezes, na forma do art. 70, ambos do CP. A seu turno, a defesa do acusado pleiteou a absolvição e, subsidiariamente, a desclassificação para o delito de receptação culposa.
+Os recursos de apelação interpostos, respectivamente, pela defesa e pelo Ministério Público foram desprovidos (fls. 888/889). O acórdão ficou assim ementado:
+"APELAÇÃO CRIMINAL - CRIME CONTRA O PATRIMÔNIO - RECEPTAÇÃO (ART. 180 DO CP) - RECURSO DA DEFESA - ABSOLVIÇÃO - INSUFICIÊNCIA DE PROVAS - INVIABILIDADE - MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE COMPROVADAS - DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA - INADMISSIBILIDADE - DOLO EVIDENCIADO - RECURSO MINISTERIAL - CONDENAÇÃO DO ACUSADO NOS TERMOS DA DENÚNCIA - SENTENÇA MANTIDA. - Estando comprovadas a autoria e materialidade do crime de receptação, previsto no art. 180, do CP, diante das provas colhidas sob o crivo do contraditório, não há que se falar em absolvição do réu, tampouco em condenação pelo delito previsto no art. 157, §2º, inciso II do CP. - Inviável cogitar-se em desclassificação para receptação culposa, pois não há dúvidas quanto à presença de dolo na conduta do recorrente." (fl. 873)
+Em sede de recurso especial (fls. 899/910), o Ministério Público apontou violação ao art. 157, § 2º, II, do Código Penal, porque, em que pese o pedido Ministerial de condenação do acusado pelo delito roubo majorado pelo concurso de pessoas, o TJ manteve a sentença tal como prolatada.
+Requer a condenação pelo roubo majorado por duas vezes, consoante denúncia.
+Sem contrarrazões defensivas (fl. 914).
+O recurso especial foi inadmitido no TJ em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça (fls. 915/918).
+Em agravo em recurso especial, a acusação impugnou o referido óbice (fls. 924/933).
+Contraminuta (fls. 937/939).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo pelo não conhecimento do agravo e, caso conhecido, pelo não conhecimento do recurso especial (fls. 957/961).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a alegada violação ao art. 157, § 2º, II, do Código Penal, o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS manteve a sentença condenatória por receptação, nos seguintes termos do voto do relator (grifos nossos):
+" ..
+Analisando os autos, tenho que há provas suficientes a lastrear a condenação do acusado pelo delito de receptação previsto no art. 180 do CP.
+Em que pese o pedido Ministerial de condenação do acusado pelo delito roubo majorado pelo concurso de pessoas, tal pleito não deve ser acolhido. Isso porque, verifica-se que as provas constantes nos autos são frágeis a amparar a condenação nos termos do pretendido pelo Parquet.
+Fabíula Dias Rocha, esposa do acusado relatou em juízo que: "no dia dos fatos, ela e o marido saíram de casa e foram até a padaria tomar café. Após, foram para a loja e, cerca de 20 minutos depois, o mesmo foi abordado pelos militares".
+Além do mais, o reconhecimento realizado por uma das vítimas por si só não trás a segurança jurídica necessária para embasar a condenação, tendo em vista que em ambas as oportunidades em que foi ouvida afirmou categoricamente que o agente do delito de roubo estava de capacete.
+Destarte, à vista do acervo probatório incluso aos autos, sobretudo das circunstâncias da apreensão do objeto em seu estabelecimento comercial, bem como o fato de que em sua atividade profissional havia capacidade de saber que se tratava de produto ilícito é evidente o elemento subjetivo do tipo, consistente no conhecimento prévio do apelante a respeito da procedência criminosa do objeto e na finalidade de obter, para si ou outrem, vantagem econômica.
+Saliente-se ainda que a apreensão e utilização de bem produto de crime implica presunção de responsabilidade. Inverte-se, pois, o ônus probatório, cabendo à defesa comprovar o desconhecimento da origem ilícita do bem e a inexistência da finalidade de aferir vantagem, o que não ocorreu, in casu.
+ ..
+De sorte que, tendo em vista que há provas suficientes da prática delitiva pelo apelante, não há falar em absolvição do crime de receptação, tampouco em desclassificação da conduta para o crime de receptação culposa, especialmente porque plenamente evidenciado o dolo na sua conduta.
+Logo, não há como afastar a conduta típica atribuída ao acusado do crime de receptação, tendo em vista que ele praticou o ato de "receber, conduzir ou transporta, em proveito próprio ou alheio, coisa que sabe ser proveito do crime", consoante caracteriza o artigo 180 do Código Penal." (fls. 885/888).
+Extrai-se dos trechos acima que o TJ firmou sua convicção para firmar a correta classificação típica dos fatos imputados com base no conjunto fático-probatório produzido nos autos, especialmente nos depoimentos testemunhais e nas circunstâncias da apreensão do objeto.
+Sendo assim, para se concluir de modo diverso e reclassificar a imputação criminal em qualquer sentido, seria necessário o revolvimento fático-probatório, o que é vedado no recurso especial, conforme Súmula n. 7 do Superior Tribunal de Justiça, que assim estabelece: "A pretensão de simples reexame de prova não enseja recurso especial."
+No mesmo sentido, citam-se precedentes (grifos nossos):
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. INOBSERVÂNCIA DO PROCEDIMENTO DO ART. 226 DO CÓDIGO DE PROCESSO PENAL -CPP. EXISTÊNCIA DE OUTRAS PROVAS. VIOLAÇÃO DO ART. 155 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. ELEMENTOS PROBATÓRIOS COLHIDOS NA FASE POLICIAL E JUDICIAL. DESCLASSIFICAÇÃO DO CRIME DE ROUBO PARA O DELITO DE RECEPTAÇÃO. IMPOSSIBILIDADE. PROVA DA AUTORIA E MATERIALIDADE DO CRIME DE ROUBO COMPROVADA. REVISÃO DE ENTENDIMENTO QUE DEMANDA INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO DESPROVIDO.
+1. No caso, ainda que o reconhecimento fotográfico não tenha seguido as regras do citado dispositivo legal, existem outros elementos probatórios nos quais o TJ se baseou para condenar os recorrentes, inclusive judiciais, razão pela qual se torna inviável o pedido de absolvição por ausência de provas, nos termos da jurisprudência desta Corte.
+2. Inexistente ofensa ao art. 155, caput, do Código de Processo Penal, uma vez que a condenação decorreu de elementos colhidos na fase policial que foram corroborados na fase judicial sob o crivo do contraditório.
+3. Tendo o Tribunal a quo concluído que o conteúdo fático-probatório carreado aos autos se mostrou suficiente para dar suporte à condenação dos ora recorrentes pela prática do crime de roubo, a pretensão recursal que objetiva a desclassificação da conduta imputada para o crime de receptação, demanda amplo reexame do acervo fático-probatório, providência vedada em sede de recurso especial em razão do óbice da Súmula n. 7/STJ.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 1888061/GO, Relator Ministro JOEL ILAN PACIORNIK, Órgão Julgador: QUINTA TURMA, Data do Julgamento: 24/05/2022, Data da Publicação/Fonte: DJe 26/05/2022).
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. BUSCA PESSOAL E VEICULAR. EXISTÊNCIA DE FUNDADAS SUSPEITAS. AUTORIA BASEADA EM OUTROS ELEMENTOS PROBATÓRIOS INDEPENDENTES DO RECONHECIMENTO PREVISTO NO ART. 226 DO CPP. PRETENSÃO DE DESCLASSIFICAÇÃO PARA O CRIME DE RECEPTAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+5. Na espécie, a condenação do réu não foi baseada, única e exclusivamente, no ato de reconhecimento fotográfico, mas nas demais provas dos autos - depoimentos dos policiais e admissão, pelo acusado, de que estava com o veículo subtraído -, sob o crivo do contraditório e da ampla defesa.
+6. A desclassificação do crime de roubo para o de receptação demandaria reexame de fatos e provas, providência não admitida em recurso especial, segundo o teor da Súmula n. 7 do STJ.
+7. Agravo regimental não provido."
+(AgRg no AgRg no AREsp 2678660/RN, Relator Ministro ROGERIO SCHIETTI CRUZ, Órgão Julgador: SEXTA TURMA, Data do Julgamento: 05/11/2024, Data da Publicação/Fonte: DJe 07/11/2024).
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
