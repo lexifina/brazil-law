@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se recurso em habeas corpus, com pedido liminar, interposto por MAICO RAFAEL JAGER DOS SANTOS, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o recorrente teve a prisão preventiva decretada, pela prática, em tese, do crime de tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que manteve a decisão do juízo a quo, conforme acórdão de fls. 39-45, assim ementado:
+ ..  DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. VIOLAÇÃO DE DOMICÍLIO NÃO VERIFICADA. SEGREGAÇÃO CAUTELAR MANTIDA. I. Caso em exame. Trata-se de Habeas Corpus impetrado em favor de Maico, preso preventivamente pela prática de tráfico de entorpecentes, sob alegação de violação de domicílio pela entrada dos policiais sem mandado e constrangimento ilegal na decretação da prisão preventiva. O impetrante requereu a concessão de liminar com expedição do alvará de soltura, sendo a liminar indeferida, e o parecer ministerial pela denegação da ordem. II. Questão em discussão. A questão em discussão consiste em saber: (i) se houve violação de domicílio pela entrada dos policiais sem mandado de busca e apreensão; e (ii) se há constrangimento ilegal na decisão que decretou a prisão preventiva do paciente, por ausência de elementos concretos e falta de preenchimento dos requisitos dos artigos 312 e 313 do CPP. III. Razões de decidir. A alegação de violação de domicílio não se sustenta, uma vez que, na via estreita do habeas corpus, não se pode adentrar em discussões fáticas complexas que demandam dilação probatória, como oitiva de testemunhas. A prisão preventiva está devidamente fundamentada em indícios de autoria e materialidade, considerando-se a apreensão de 33 gramas de cocaína e o envolvimento do paciente em associação criminosa. A necessidade da segregação cautelar está justificada pela gravidade concreta dos fatos e pela garantia da ordem pública, especialmente diante do modus operandi e da periculosidade do paciente. IV. Tese e Dispositivo. "1. A alegação de violação de domicílio demanda dilação probatória, sendo inadequada para ser discutida em habeas corpus. 2. A prisão preventiva se justifica pela gravidade concreta dos fatos, pela quantidade de droga apreendida e pela periculosidade do paciente, sendo insuficientes as medidas cautelares alternativas à prisão." ORDEM DENEGADA.  ..  (fl. 44)
+Daí o presente writ, no qual a defesa alega constrangimento ilegal e falta de fundamentação idônea à manutenção da segregação cautelar.
+Ao final, requer, a concessão da ordem liminarmente e, no mérito, a revogação da prisão preventiva e o provimento do recurso.
+A liminar foi indeferida (fls. 77-79).
+As informações foram prestadas (fls. 85-107).
+Em parecer, o Ministério Público Federal opinou pela prejudicialidade do recurso (fls. 112-113).
+É o relatório. DECIDO.
+O pedido está prejudicado.
+Conforme acertadamente informado pelo Ministério Público Federal, fl. 112, em 03/02/2025, foi deferido o pedido de revogação de prisão preventiva do recorrente, no Habeas Corpus nº 954923/RS, em decisão disponibilizada e comunicada à origem em 05/02/2025.
+Assim constou do dispositivo da decisão:
+"Pelo exposto, não conheço do habeas corpus impetrado. Todavia, forte no parecer ministerial, considerada a flagrante ilegalidade consignada, concedo de ofício a ordem ao paciente MAICO RAFAEL JAGER DOS SANTOS, para revogar o decreto prisional preventivo a ele imposto. Faculto ao Juízo de primeiro grau impor ao paciente, segundo seu prudente arbítrio, medidas cautelares mais brandas, em substituição à prisão preventiva revogada.
+Com urgência, dê-se ciência desta decisão ao Tribunal de Justiça do Rio Grande do Sul e ao Juízo de primeira instância, para imediato cumprimento."
+Nesse contexto, verifico que o presente recurso perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
+Publique-se. Intimem-se.
+EMENTA
