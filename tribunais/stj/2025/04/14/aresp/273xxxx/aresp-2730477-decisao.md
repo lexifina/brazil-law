@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por PROMED - ASSISTÊNCIA MÉDICA LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 387-402):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - PLANO DE SAÚDE - EXCLUSÃO DE PRESTADORES DE SERVIÇO - AUSÊNCIA DE COMUNICAÇÃO PRÉVIA - NEGATIVA DE COBERTURA INDEVIDA - DANO MORAL - QUANTUM INDENIZATÓRIO - MAJORAÇÃO - TERMO INICIAL DA CORREÇÃO MONETÁRIA - HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. De acordo com o art. 17 da Lei nº 9.656/98, é possível a exclusão de prestadores de serviços credenciados desde que haja a substituição por outro fornecedor equivalente e que os usuários sejam comunicados com trinta dias de antecedência. Para a caracterização do dano e do dever de indenizar, é imperativa a confluência dos requisitos exigidos à responsabilidade civil, quais sejam, o ato ilícito, a existência do dano e o nexo de causalidade entre a conduta antijurídica e o resultado lesivo. É pacífica a jurisprudência do colendo Superior Tribunal de Justiça no sentido de reconhecer a existência do dano moral nas hipóteses de recusa injustificada pela operadora de plano de saúde, em autorizar tratamento a que estivesse legal ou contratualmente obrigada, por configurar comportamento abusivo. Para o arbitramento de indenização por dano moral, o juiz deve considerar as circunstâncias fáticas, a repercussão do ilícito, as condições pessoais das partes, bem como a razoabilidade e a proporcionalidade. A indenização insuficiente comporta majoração. A Súmula 362 do STJ estabelece que "a correção monetária no caso de dano moral incide a partir da data em que fixado o valor da indenização". Nos termos do art. 85, §2º, do Código de Processo Civil, os honorários são fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente aduz, no mérito, violação dos arts. 186, 187, 188 e 927 do Código Civil, sustentando ser indevida a condenação por danos morais, visto que não houve ato ilícito de sua parte.
+Não foram oferecidas contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 435-437), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Inicialmente, em relação à apontada ofensa aos arts. 186, 187, 188 e 927 do Código Civil, o recurso especial não merece prosperar porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça, visto que revisar os parâmetros eleitos pelo Tribunal de origem acerca da ocorrência de ato ilícito e do dever de indenizar demandaria o reexame de fatos e provas.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. NEXO CAUSAL, DANOS MORAIS E ESTÉTICOS CONFIGURADOS. QUANTUM INDENIZATÓRIO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. NÃO CABIMENTO. SÚMULA N. 7/STJ. 3. JUROS. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência vigente nesta Corte Superior, a prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão.
+2. Modificar as conclusões do Tribunal local, acerca da prescindibilidade de produção de outras provas, da comprovação do nexo causal e do quantum indenizatório, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ.
+3. A indicação de dispositivos sem que esses tenham sido debatidos pelo Tribunal de origem obsta o conhecimento do recurso especial pela ausência de prequestionamento.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.674.495/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/10/2024, DJe de 9/10/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 402 ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE. DEVER DE INDENIZAR. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO EM RECURSO ESPECIAL IMPROVIDO.
