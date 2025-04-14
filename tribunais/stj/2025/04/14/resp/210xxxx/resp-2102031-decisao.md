@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por VINICIUS TEIXEIRA MARTINS contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu provimento ao agravo ministerial e cassou a decisão que concedeu remição de pena por estudos com base em aprovação parcial no ENEM (fls. 68-79).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação ao art. 126 e parágrafos da Lei n. 7.210/1984 (fls. 86-95).
+Em contrarrazões, o Ministério Público do Estado de São Paulo pugna pelo não conhecimento do recurso especial, em razão da deficiência na fundamentação, conforme a Súmula n. 284, STF, e pela necessidade de reexame de fatos e provas, nos termos da Súmula n. 7, STJ (fls. 99-101).
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls. 116-118).
+É o relatório. DECIDO.
+A defesa pretende, em síntese, o restabelecimento da decisão do Juízo da Execução que deferiu a remição da pena por aprovação parcial no ENEM.
+O Tribunal de origem cassou a referida decisão pelos seguintes fundamentos (fl. 77):
+"Inobstante, in casu, nota-se que o executado atingiu notas mínimas para aprovação apenas em 3 áreas de conhecimento, sendo certo que o mesmo não ocorreu nas outras onde obteve notas do exigido (450), ou seja, não atingiu a nota mínima em todas as áreas de conhecimento do exame, confirme dispõe Portaria 458/2020, do MEC, que estabelece que cabe ao INEP estabelecer as diretrizes do ENEM, e Portaria INEP nº 179/2014 (que trata das notas mínimas)."
+O entendimento do acórdão recorrido destoa da orientação desta Corte.
+A Resolução n. 391/2021 do Conselho Nacional de Justiça admite que aprovação no ENEM seja considerada como base de cálculo para cômputo das horas visando à remição da pena. Além disso, a partir do que foi decidido no julgamento do EREsp n. 1.979.591/SP, estabeleceu-se a possibilidade de remição em caso de aprovação parcial, sendo que a aprovação em cada uma das cinco áreas de conhecimento avaliadas equivale a 20 (vinte) dias de remição.
+Confira-se:
+"I - A Terceira Seção deste Superior Tribunal de Justiça, no julgamento do EREsp n. 1.979.591/SP, fixou o entendimento de que é possível a remição da pena, mesmo nos casos de aprovação parcial no Enem ou em caso de anterior aprovação no grau de ensino.
+II - No que se refere à base de cálculo a ser utilizada, a Resolução n. 391/2021/CNJ determina que, para a remição decorrente do estudo individual com a aprovação total no Enem ou no Encceja, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, o que corresponde o montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio.
+III - Firmou-se, ainda, o entendimento de que o total de 1.200 horas, pela aprovação em exame que certifica a conclusão do ensino médio deve incidir na proporção de 1 dia de pena para cada 12 horas de estudo, resultando em 100 dias de remição, o que equivale a 20 dias de remição para cada uma das cinco áreas de conhecimento avaliadas no exame.
+IV - No caso concreto, o apenado obteve aprovação parcial, ou seja, em 3 (três) das 5 (cinco) áreas de conhecimento no ENCCEJA 2022, o que corresponde a 60 dias de remição.
+V - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos." (AgRg no HC n. 872.350/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 16/10/2024, DJe de 29/10/2024)
+Considerando que o recorrente logrou aprovação em 3 (três) áreas do conhecimento, deve ser restabelecida a decisão do magistrado singular que reconheceu o direito de 60 (sessenta) dias de remição (fls. 40-42).
+Ante o exposto, dou provimento ao recurso especial, nos termos do art. 255, § 4º, inciso III, do RISTJ, para restabelecer a decisão que concedeu a remição de pena por aprovação parcial no ENEM.
+Publique-se. Intimem-se.
+EMENTA
