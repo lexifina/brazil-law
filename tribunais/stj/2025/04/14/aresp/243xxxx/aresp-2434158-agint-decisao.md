@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo interno interposto por ERBE INCORPORADORA S.A., ERBE INCORPORADORA 019 S.A. e FLORIDA DESENVOLVIMENTO IMOBILIARIO LTDA. contra decisão monocrática de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e negar-lhe provimento, nos termos da seguinte ementa (fl. 1.148):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. OFENSA AO ART. 1022, II, DO CPC. INOCORRÊNCIA. REPARAÇÃO POR VÍCIOS CONSTRUTIVOS. INCIDÊNCIA DAS SÚMULAS N. 211/STJ, 282/STF e 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 1021):
+Ação reparatória de vícios construtivos. Ilegitimidade de parte. Inocorrência. Reparo na tubulação de gás. Não conhecimento da matéria. Tema já decidido quando do julgamento do agravo de instrumento n.º 2008956-39.2021.8.26.000, que neste ato é ratificado por esta turma julgadora. Prazo prescricional. Não verificado. Vício detectado por pelo laudo pericial realizado. Reparo devido.
+Rejeitados os embargos de declaração opostos (fls. 1036/1039).
+Alega a agravante, nas razões do agravo interno, que a decisão agravada incorreu em erro ao não reconhecer a violação aos artigos 1.022, I e II, do Código de Processo Civil, visto que o acórdão recorrido apresenta contradições e omissões não sanadas pelo Tribunal de Justiça de São Paulo no sentido de que o acórdão cometeu erro material ao afirmar que "permanece o dever da apelante de reparar a parte elétrica", enquanto a ação trata apenas dos vícios referentes à parte elétrica e instalação de gás, sem mencionar o sistema hidráulico. Argumenta o acórdão teria negado provimento à apelação, apesar de reconhecer que a Erbe não é responsável por parte dos danos reclamados, o que implicaria em acolhimento parcial do recurso.
+Aduzem que o acórdão recorrido não enfrentou adequadamente a questão da ilegitimidade passiva da Erbe Incorporadora e da Flórida Desenvolvimento, ao desconsiderar que a Flórida não compõe o mesmo grupo econômico das agravantes.
+As agravantes afirmam, ainda, que o acórdão ignorou o artigo 618 do Código Civil, que estabelece um prazo de garantia de cinco anos para constatação de vícios, e que os problemas reclamados foram constatados após esse prazo. Sustentam que o acórdão desconsiderou o prazo de garantia de cinco anos, aplicando indevidamente o prazo prescricional de dez anos.
+Contestam a aplicação das Súmulas n. 211/STJ e 282/STF, argumentando que os dispositivos legais foram prequestionados nos embargos de declaração e tratados nos acórdãos recorridos.
+Por fim, as agravantes afirmam que o julgamento do recurso especial não exige reexame de matéria fático-probatória, mas apenas a interpretação da norma e a leitura do acórdão recorrido.
+Requerem que o agravo interno seja provido para anular o acórdão recorrido por violação aos artigos 1.022, I e II, do CPC, ou, subsidiariamente, que seja dado provimento ao recurso para julgar improcedente a ação ajuizada pelo Condomínio.
+A agravada apresentou contrarrazões (fls. 1.178-1.185).
+É, no essencial, o relatório.
+Assiste razão ao agravante quanto à alegação de ofensa ao artigo 1.022, I e II, do CPC, visto que, de fato, em que pese ter sido objeto das razões da apelação e dos embargos de declaração, a questão relativa ao prazo do art. 618 do Código Civil não foi tratada no acórdão recorrido.
+Ausente manifestação do Tribunal a quo nesse sentido, intransponível o óbice para o conhecimento da matéria na via estrita do especial, em razão da ausência de prequestionamento e, sobretudo, sob pena de supressão de instância.
+Assim, tendo a recorrente interposto o presente recurso por ofensa ao art. 1.022, incisos I e II, do CPC, e em face da questões suscitadas, tenho como necessário o debate acerca de tal ponto.
+A teor da jurisprudência desta Corte, somente a existência de omissão relevante à solução da controvérsia, não sanada pelo acórdão recorrido, caracteriza a violação do art. 1.022 do CPC.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. OCORRÊNCIA.
+1. Configura afronta ao art. 1.022 do CPC/2015 a omissão do Tribunal de origem em emitir juízo de valor a respeito de tema relevante para a solução da controvérsia. Tal circunstância impõe a anulação do julgado que apreciou os embargos declaratórios e o retorno dos autos a origem, a fim de que os vícios sejam sanados.
+2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1.869.138/AL, relator Ministro Og Fernandes, Segunda Turma, DJe de 24/8/2022.)
+Ante o exposto, reconsidero a decisão de fls. 1.148-1.153 e conheço do agravo para dar provimento ao recurso especial e determinar o retorno dos autos à origem a fim de que se manifeste sobre o prazo previsto no art. 618 do Código Civil.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. OFENSA AO ART. 1022, II, DO CPC. INOCORRÊNCIA. REPARAÇÃO POR VÍCIOS CONSTRUTIVOS. OMISSÃO QUANTO AO PRAZO PREVISTO NO ART. 618 DO CÓDIGO CIVIL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RETORNO DOS AUTOS À ORIGEM.
