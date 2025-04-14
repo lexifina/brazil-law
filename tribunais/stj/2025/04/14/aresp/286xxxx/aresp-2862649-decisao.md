@@ -1,0 +1,32 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por COMERCIAL DAHANA LTDA. contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/01/2025.
+Concluso ao gabinete em: 01/04/2025.
+Ação: "de cumprimento de preceito legal c/c perdas e danos e pedido de tutela de remoção do ilícito (inibitória)" ajuizada por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO - ECAD.
+Sentença: de parcial procedência dos pedidos formulados na inicial.
+Acórdão: conheceu parcialmente do apelo interposto pela parte agravante e, na parte em que conhecido, deu-lhe parcial provimento, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - "AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL C/C PEDIDO DE PERDAS E DANOS" - NÃO CONHECIMENTO PARCIAL - PREJUÍZO MATERIAL - VERIFICAÇÃO - APURAÇÃO POSTERGADA - CABIMENTO - CONSECTÁRIOS - MODIFICAÇÃO. - Em obséquio ao Princípio da Concentração da Defesa, não pode ser conhecida matéria que não foi oportunamente suscitada em Contestação. - Ao Ecad compete centralizar a arrecadação e distribuição dos direitos autorais de execução pública musical e fixar o preço da retribuição, sendo pacífico o entendimento de que a delineação do an debeatur é própria da fase de conhecimento, enquanto a apuração do quantum debeatur pode ser diferida para a fase de Liquidação. - Os consectários lógicos da condenação se constituem em matéria de ordem pública, de modo que aplicar, alterar ou modificar seu termo inicial, de ofício, não configura julgamento extra petita, nem reformatio in pejus. - Nos termos do art. 42, incisos II e III, do Regulamento de Arrecadação, incidem juros de mora, de 1% (um por cento), ao mês, sobre a cifra total e correção monetária, como base na "TR", em cada parcela vencida. (fls. 456/481, e-STJ).
+Embargos de declaração: opostos pela agravante, foram desacolhidos, com aplicação de multa (fls. 499/524, e-STJ).
+Recurso especial: alega violação dos artigos 1.022, II e 489, § 1º, IV do CPC. Aduz ter ocorrido negativa de prestação jurisdicional. Refere inexistir comprovação da reprodução musical nos seus estabelecimentos comerciais, alegação que embasa a cobrança dos direitos autorais reclamados pela parte adversa. Sustenta a nulidade do procedimento de cobrança (fls. 527/536, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca dos pontos levantados no recurso de apelação, especialmente no que tange à exigibilidade do débito, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "em que pese a qualidade de algumas cenas não seja a melhor, há diversos elementos que comprovam a localização dos estabelecimentos, as datas e as músicas reproduzidas, que, por oportuno e amostragem, cito os vídeos anexados sob os códs. 18, 38, 67, 71 e 91, nos quais são exibidas Notas Fiscais dos estabelecimentos localizados no Anel Rodoviário Celso Mello Azevedo, nº 17.850, em Belo Horizonte; BR 040, nº 2.002, em Contagem; Av. Brasília, nº 3470, São Benedito, em Santa Luzia; Rua José Tofani, nº 35, em Santa Luzia, e Via Expressa Francisco Cleuton Lopes, nº 11.854, Tropical, Contagem, datadas de 03/02/2020, 03/09/2020, 03/09/2020, 04/02/2020 e 05/08/2020, respectivamente, reproduzindo as músicas "Tentativas em Vão", "Anunciação", "Janaína", "Sofridas Por Minuto" e "Garganta". Ora, nenhum desses elementos foi especificamente impugnado pela Demandada e, como não bastasse, no e-mail anexado às fls. 02/03, do cód. 165, o representante da Ré, Edgar Souza Penido, expressamente manifesta a intenção de iniciar os pagamentos das mensalidades, para que as Lojas "continuem sonorizadas", o que, apesar da interpretação que a Postulada pretendeu defender na Manifestação de cód. 169, corrobora as situações acima destacadas, estando, portanto, suficientemente comprovados os fatos constitutivos do direito sustentado na Exordial" (e-STJ, fls. 470/471), exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Dispositivo
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem honorários recursais diante da ausência de fixação de verba honorária pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. "AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL". EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação denominada "de cumprimento de preceito legal c/c perdas e danos e pedido de tutela de remoção do ilícito (inibitória)".
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
