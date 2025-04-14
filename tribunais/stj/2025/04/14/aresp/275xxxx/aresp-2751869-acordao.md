@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RETENÇÃO DA COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N.º 83 DO STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com indenização por danos materiais e morais, em decorrência de atraso na entrega do empreendimento.
+2. Nos casos de resolução do contrato de promessa da compra e venda por culpa atribuída ao promitente-vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem. Incidência da Súmula n.º 83 do STJ.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade do promitente-comprador, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, nos termos do que dispõe a Súmula n.º 7 do STJ.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por PROJETO RIO VERMELHO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (PROJETO RIO VERMELHO) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA - NEGÓCIO CELEBRADO APÓS A LEI 13.786/2018 - ATRASO NA ENTREGA DO EMPREENDIMENTO - RESCISÃO POR CULPA DO PROMITENTE-VENDEDOR - DEVOLUÇÃO INTEGRAL DOS VALORES PAGOS PELO ADQUIRENTE - ARRAS (SINAL) C. C CLÁUSULA PENAL - IMPOSSIBILIDADE - PERDA DAS ARRAS - DANO MORAL - MINORAÇÃO - RECURSO PARCIAMENTE PROVIDO.
+Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, sem qualquer abatimento, o que inclui a comissão de corretagem. Inteligência da Súmula 543 do STJ.
+"Evidenciada a natureza indenizatória das arras na hipótese de inexecução do contrato, revela-se inadmissível a sua cumulação com a cláusula penal compensatória, sob pena de violação do princípio do non bis in idem (proibição da dupla condenação a mesmo título), devendo prevalecer a perda das arras." Precedente do STJ.
+O valor do dano moral deve atentar-se à proporcionalidade com relação ao grau de culpa, extensão e repercussão dos danos e à capacidade econômica das partes, impondo-se a redução do valor arbitrado na sentença, a fim de adequar-se à realidade do caso concreto, aos casos análogos.
+Recurso parcialmente provido (e-STJ, fl. 367 - destaques no original).
+Foi apresentada contraminuta (e-STJ, fls. 452/484).
+É o relatório.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RETENÇÃO DA COMISSÃO DE CORRETAGEM. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA N.º 83 DO STJ. OCORRÊNCIA DE SITUAÇÃO EXCEPCIONAL QUE DEMONSTROU A EXISTÊNCIA DO DANO MORAL VINDICADO. SÚMULA N.º 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com indenização por danos materiais e morais, em decorrência de atraso na entrega do empreendimento.
+2. Nos casos de resolução do contrato de promessa da compra e venda por culpa atribuída ao promitente-vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem. Incidência da Súmula n.º 83 do STJ.
+3. A fixação da indenização por danos morais decorreu de situação excepcional que configurou ofensa ao direito da personalidade do promitente-comprador, extrapolando a esfera do mero inadimplemento contratual, não podendo a questão ser revista nesta via excepcional, nos termos do que dispõe a Súmula n.º 7 do STJ.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Trata-se de ação de rescisão de contrato de promessa de compra e venda de imóvel (lote urbano não edificado) cumulada com indenização por danos materiais e morais ajuizada por CLEICIANE DE SOUS A BATISTA contra o ora insurgente, em decorrência de atraso na entrega do empreendimento.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, PROJETO RIO VERMELHO alegou a violação dos arts. 186, 725 e 927 do CC, e 26-A, II, da Lei n.º 6.766/79 do CC, ao sustentar (1) a impossibilidade de restituição do valor cobrado a título de comissão de corretagem; e (2) que o mero descumprimento contratual não enseja reparação por danos morais.
+(1) Da retenção da comissão de corretagem
+Sobre o tema o Tribunal estadual consignou que, estando configurada a culpa da vendedora pela rescisão contratual, a comissão de corretagem deve ser restituída ao comprador, entendimento que encontra amparo na jurisprudência desta Corte, conforme os precedentes abaixo:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. RESOLUÇÃO DO CONTRATO DE PROMESSA DE COMPRA E VENDA. CULPA DO PROMITENTE - VENDEDOR. RESTITUIÇÃO INTEGRAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Nos casos de resolução do contrato de promessa da compra e venda por culpa atribuída ao promitente - vendedor, os valores pagos pelos compradores devem ser restituídos integralmente, incluindo a comissão de corretagem. Incidência da Súmula nº 568/STJ.
+2. Para a configuração da divergência, os acórdãos confrontados devem apresentar similitude de base fática capaz de ensejar decisões conflitantes, o que não é a hipótese dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt nos EAREsp n.º 2.352.012/GO, relatora Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado aos 17/12/2024, DJe de 20/12/2024)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1.  ..
+2. Alterar as conclusões do Tribunal de origem - quanto à aplicação do CDC no caso, legitimidade passiva da agravante e culpa pela não concretização do contrato - demandaria nova incursão nas provas dos autos, o que encontra óbice na Súmula 7 do STJ.
+3. "Esta Corte entende que, resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem. Precedentes.
+Incidência da Súmula 83/STJ." (AgInt no AREsp 1858016/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021).
+4. Agravo interno desprovido.
+(AgInt no REsp n.º 1.943.890/RJ, relator Ministro MARCO BUZZI, Quarta Turma, julgado aos 26/10/2021, DJe de 4/11/2021 - sem destaque no original)
+Incidência, à hipótese, da Súmula n.º 83 do STJ.
+(2) Do dano moral
+Com relação ao tema, a eg. Terceira Turma desta Corte, no julgamento do REsp 1.642.314/SE, Rel. Ministra NANCY ANDRIGHI, DJe 22/3/2017, firmou as seguintes premissas:
+a) o dano moral pode ser definido como lesões a atributos da pessoa, enquanto ente ético e social que participa da vida em sociedade, estabelecendo relações intersubjetivas em uma ou mais comunidades, ou, em outras palavras, são atentados à parte afetiva e à parte social da personalidade (Precedente: REsp 1.426.710/RS, Terceira Turma, julgado em 25/10/2016, DJe 9/11/2016);
+b) os simples dissabores ou aborrecimentos da vida cotidiana não ensejam abalo moral, conforme se vê dos seguintes precedentes: REsp 202.564/RJ, Quarta Turma, julgado em 2/8/2001, DJ 1º/10/2001; e REsp 1.426.710/RS, Terceira Turma, j. 25/10/2016, DJe 8/11/2016); e
+c) muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias específicas do caso concreto podem configurar a lesão extrapatrimonial. Precedentes: REsp 1.637.627/RJ, Rel. Ministra j. 6/12/2016, DJe 14/12/2016; REsp 1.633.274/SP; j. 8/11/2016, DJe 11/11/2016; AgRg no AREsp 809.935/RS, DJe 11/3/2016; e REsp 1.551.968/SP, Segunda Seção, DJe 6/9/2016.
+Ao examinar a controvérsia, no ponto, confira-se o que anotou o Tribunal local:
+Quanto aos danos morais, malgrado o mero inadimplemento contratual, per si, não enseja danos morais, não se olvide que no caso em pauta, considerando o longo tempo de atraso na entrega do imóvel, pois, decorridos mais de 02 (dois) anos da data aprazada para entrega da unidade habitacional, extrapola o mero aborrecimento e insatisfação, caracterizando frustração, angustia pela excessiva morosidade, o que enseja a devida compensação (e-STJ, fl. 364).
+Assim, ante a excepcionalidade do caso, tendo em vista o excessivo atraso no prazo de entrega do empreendimento, ao longo de mais de 2 (dois) anos, bem como as consequências de natureza subjetiva que o órgão julgador local entendeu ultrapassar a esfera do mero descumprimento contratual, para se alterar tal entendimento é necessária a reavaliação de fatos e provas constantes dos autos, o que é vedado nesta via excepcional, nos termos da mencionada Súmula n.º 7 desta Corte.
+Nesse sentido, respeitadas as bases fáticas de cada caso, confira-se o precedente abaixo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE IMÓVEL. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO TRIENAL. TERMO INICIAL. SÚMULA 568/STJ. DANOS MORAIS. ATRASO EXPRESSIVO E PECULIARIDADES PRESENTES. POSSIBILIDADE. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. DANOS MORAIS. VALOR ADEQUADO. REVISÃO. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. "A jurisprudência do Superior Tribunal de Justiça está sedimentada no sentido de que em demandas objetivando a restituição dos valores pagos a título de comissão de corretagem em que a causa de pedir é a rescisão do contrato por inadimplemento do vendedor, o prazo prescricional da pretensão da restituição de valores tem início após a resolução, sendo inaplicável o prazo prescricional trienal" (AgInt no REsp 1.853.761/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. "No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, vedado em recurso especial" (AgInt no REsp 1.684.875/RO, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe de 30/10/2017).
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra irrisório nem desproporcional aos danos suportados pela parte autora, considerando o atraso por período expressivo e ocorrência de fatos que impedem a construção de casa no lote objeto de compra e venda.
+4. Agravo interno desprovido.
+(AgInt no REsp n.º 2.059.554/AC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado aos 11/9/2023, DJe de 14/9/2023 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
