@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CÉLIA REGINA BASTOS CALANDRINI COELHO e outra contra decisão singular de minha lavra na qual foi parcialmente provido o recurso especial interposto pelo embargado, reconhecendo a prescrição da pretensão de restituição das parcelas descontadas antes do quinquênio que antecede ao ajuizamento da ação (fls. 5.169-5.173).
+Nas razões do seu recurso, a parte embargante alega, em síntese, que a decisão embargada incorreu em omissão ao não analisar o ponto referente à interrupção do prazo prescricional pelo conhecimento inequívoco da lesão sofrida pelas consumidoras embargantes, em conformidade com a teoria da actio nata, amplamente adotada pelo Superior Tribunal de Justiça.
+Sustenta que, em se tratando de descontos indevidos decorrentes de defeito no serviço bancário, o termo inicial do prazo prescricional previsto no artigo 27 do Código de Defesa do Consumidor é contado a partir da ciência inequívoca da lesão e sua autoria, não simplesmente do primeiro desconto realizado indevidamente, mas sim do último desconto indevido.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente no sentido de que, "em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC e o termo inicial do prazo prescricional, é a partir da data em que ocorreu a lesão, ou seja, a da ta do pagamento/desconto indevido", razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos:
+É assente o entendimento desta Corte Superior, contudo, que em se tratando de pretensão de repetição de indébito decorrente de descontos indevidos, por falta de contratação de empréstimo com a instituição financeira, ou seja, em decorrência de defeito do serviço bancário, aplica-se o prazo prescricional do art. 27 do CDC e o termo inicial do prazo prescricional, é a partir da data em que ocorreu a lesão, ou seja, a data do pagamento/desconto indevido" (STJ, AREsp 1.539.571/MS, rel. Ministro Raul Araújo, j. em 24/9/2019).
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO CUMULADA COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS E REPETIÇÃO DE INDÉBITO.
+1. Ação de declaração de inexistência de negócio jurídico cumulada com pedido de compensação por danos morais e repetição de indébito.
+2. Segundo entendimento prevalecente nesta Corte Superior, em demandas envolvendo pretensão de repetição de indébito, aplica-se prazo prescricional quinquenal a partir da data em que ocorreu a lesão, ou seja, a data do pagamento indevido. Ademais, na espécie, incide o prazo prescricional previsto no art. 27 do CDC. Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. Ademais, a simples transcrição de ementas de julgados não atende aos requisitos estabelecidos para conhecimento do recurso.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.285.762/PB, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/6/2023, DJe de 14/6/2023.)
+O Tribunal de origem, contudo, consignou ser inviável o reconhecimento da prescrição, porquanto o prazo a que se refere o art. 27 do Código de Defesa do Consumidor é contado a partir do último desconto indevido (fl. 4.965).
+Note-se que, ao assim decidir, o Tribunal de origem divergiu da jurisprudência do STJ, uma vez que em demandas envolvendo pretensão de repetição de indébito, aplica-se prazo prescricional quinquenal a partir da data em que ocorreu a lesão, ou seja, a data do pagamento indevido.
+Assim, devido o reconhecimento da prescrição da pretensão de restituição das parcelas descontadas antes do quinquênio que antecede ao ajuizamento da ação  ..  (fls. 5.172-5.173).
+Ademais, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos encontra-se objetivamente fixado nas razões da decisão embargada, motivo pelo qual rejeito a alegação de omissão no julgado. A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+
+3. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/6/2016, DJe 3/8/2016)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita. Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
