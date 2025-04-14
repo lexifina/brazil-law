@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANTONIA LOIOLA COSTA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do Habeas Corpus n. 5176488-31.2023.8.09.0051.
+Consta dos autos que foi oferecida queixa-crime contra a paciente como incursa nos arts. 139, 140 e 141, todos do Código Penal.
+O Tribunal local denegou a ordem de habeas corpus impetrado pela defesa diante da decisão proferida pelo magistrado de primeiro grau que indeferiu a alegação da perempção.
+Neste writ, a impetrante insiste na ocorrência de perempção por desídia das querelantes em promover o andamento do feito. Aponta, ainda, a nulidade da citação realizada por intermédio do advogado, pois "não denota a ciência inequívoca sobre os fatos que lhe estão sendo imputados, comprometendo sua autodefesa".
+Requer, liminarmente, a suspensão da ação penal. No mérito, pretende o seu trancamento em razão da perempção ou, alternativamente, a declaração da nulidade da citação, com a determinação de citação pessoal.
+A liminar foi indeferida (fls. 332-333).
+O Ministério Público Federal ofertou parecer opinando pela denegação da ordem (fls. 362-366).
+É o relatório. DECIDO.
+Cinge-se a contro vérsia acerca de possível ocorrência de perempção na queixa-crime ajuizada contra a paciente e a nulidade de sua citação.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, constato a partir da análise dos autos que, ao apresentar informações para o Tribunal local, o juízo de primeiro grau destacou datas e eventos que demonstram que não teria ocorrido qualquer pendência de manifestação ou conduta inerte que pudesse ser atribuível às querelantes da ação penal privada. Logo, alterar esta conclusão é inviável em sede de habeas corpus, considerando os limites estreitos de cognoscibilidade dessa medida.
+Por sua vez, também não vislumbro a presença de constrangimento ilegal em razão da alegada nulidade da citação, uma vez que, de acordo com a Corte de origem, a defesa da paciente compareceu aos autos.
+Recordo, neste contexto, que a jurisprudência deste Superior Tribunal de Justiça firmou o entendimento no sentido de que eventual nulidade decorrente da ausência de citação pessoal é sanada quando do comparecimento do acusado, nos termos do que consta do art. 570 do Código de Processo Penal. Além disso, o reconhecimento de nulidades no curso do processo penal, seja absoluta ou relativa, reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do Código de Processo Penal (AgRg no RHC n. 130.655/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/9/2021, DJe de 20/9/2021.)
+Ante o exposto, não conheço do habe as corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
