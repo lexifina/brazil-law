@@ -1,0 +1,16 @@
+DECISÃO
+O presente writ, impetrado em benefício de SAMUEL DE SOUZA ALVES - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 0740859-47.2020.8.07.0001) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (Apelação Criminal n. 0740859-47.2020.8.07.0001), não comporta processamento.
+Com efeito, busca a impetração a anulação da ação penal na qual o paciente restou condenado como incurso no crime de tráfico de drogas, ao argumento de nulidade da busca domiciliar realizada sem fundada suspeita.
+Aduz que, não havendo a indicação de nenhum dado concreto e objetivo sobre a existência de justa causa para autorizar a busca domiciliar e o posterior ingresso na residência, deve ser reconhecida a nulidade da diligência, aplicando ao caso a teoria dos frutos da árvore envenenada, impõe-se o reconhecimento da ilicitude da prova obtida com a medida invasiva, bem como das provas dela derivadas, nos termos do art. 157 do CPP (fl. 12).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois, do atento exame dos autos, observa-se que a busca domiciliar que culminou com a deflagração da ação penal contra o paciente se encontra consubstanciada em prévia denúncia anônima, porém específica, que logrou pormenorizar o local determinado em que a comercialização da droga vinha sendo realizada, constando da denúncia que policiais militares realizavam patrulhamento de rotina no local do acontecido, quando foram informados por um popular que acabara de chegar um "carregamento de droga" na Quadra 20, Conj. I, Lote 07, Paranoá/DF, bem assim que o responsável por ela seria um indivíduo de nome SAMUEL. Diante disso, os policiais se deslocaram até o endereço indicado. Lá chegando, foram recebidos pela genitora do denunciado. Feitos os esclarecimentos pertinentes, ela referiu que SAMUEL era seu filho e autorizou a realização de buscas no local (fl. 93 - grifo nosso).
+A propósito:
+ ..
+6. As circunstâncias do caso - denúncia anônima específica com descrição do nome, do endereço e da função do envolvido - configuram justa causa para a busca domiciliar sem prévia expedição de mandado, sendo desnecessária a autorização judicial, conforme jurisprudência pacificada no STJ.
+ ..
+(AREsp n. 2.440.813/AL, Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 4/12/2024 - grifo nosso).
+Ademais, a desconstituição do que ficou estabelecido nas instâncias ordinárias ensejaria o reexame aprofundado de todo conjunto fático-probatório da ação penal, providência incompatível com os estreitos limites habeas corpus (AgRg no HC n. 871.088/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 29/2/2024).
+Em face do exposto, indefiro liminarmente a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (APREENSÃO DE 663,00 G DE MACONHA). REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. NULIDADE. BUSCA DOMICILIAR. DENÚNCIA ANÔNIMA E ESPECÍFICA. INDICAÇÃO DE ENDEREÇO ESPECÍFICO E NOME DO MORADOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
