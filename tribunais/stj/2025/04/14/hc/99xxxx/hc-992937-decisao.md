@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAPHAEL FERREIRA DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais (HC n. 1.0000.24.498305-2/000).
+Narram os autos que o paciente está preso preventivamente, desde 18/11/2024, pela suposta prática dos delitos descritos no art. 1º, II, c/c o § 4º, I, da Lei n. 9.455/1997, c/c o a Lei n. 8.072/1990 (por três vezes), e art. 299, parágrafo único, do Código Penal (por duas vezes).
+Neste mandamus, o impetrante sustenta a nulidade da decisão de prisão preventiva em razão da utilização da técnica de fundamentação per relationem, sem que fosse acrescentado qualquer outra fundamentação.
+Afirma, ainda, que a prisão preventiva é ilegal e desproporcional, pois a denúncia se baseia em uma situação forjada, que será confirmada na instrução, não justificando a privação da liberdade do paciente, que possui condições pessoais favoráveis, como ser servidor da segurança pública há 16 anos e policial penal há mais de 8 anos, sem mácula em sua carreira, além de ter se apresentado espontaneamente para o cumprimento do mandado de prisão.
+Requer, inclusive em liminar, a revogação da prisão preventiva para que o paciente seja posto em liberdade, com ou sem a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+De início, destaco que a alegação de nulidade da decisão de prisão preventiva em razão da utilização da técnica de fundamentação per relationem, não foi enfrentada pelo Tribunal mineiro, que enfrentou a decisão que decretou a prisão preventiva e não aquela que indeferiu o pedido de revogação da custódia. Assim, inviável a análise por esta Corte Superior, sob pena de indevida supressão de instância.
+Ademais, a decisão que indeferiu o pedido de revogação da prisão preventiva adotou a manifestação do Ministério Público, pois inalteradas as circunstâncias que justificaram a prisão cautelar (fl. 55). E, nisso não há nenhuma ilegalidade, pois a jurisprudência desta Corte Superior, mesmo após o advento do novo Código de Processo Civil, admite o emprego de motivação per relationem, a fim de evitar tautologia, reconhecendo que tal técnica se coaduna com o art. 93, IX, da Constituição Federal (AgRg no HC n. 529.220/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/9/2020).
+Ainda, nesse sentido: AgRg no AREsp n. 1.994.953/RO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN 25/3/2025.
+Quanto à alegação de que a prisão preventiva é ilegal e desproporcional, pois a denúncia se baseia em uma situação forjada, tem-se que não há como se discutir a materialidade e autoria do crime, pois isso demandaria o reexame aprofundado do conjunto probatório que compõe o processo principal, procedimento totalmente inadmissível nesta via.
+No mais, os documentos juntados às fls. 63/68, ao que parece, não foram ainda objeto de análise pelas instâncias ordinárias. Logo, não cabe a primeira análise por este Superior Tribunal de Justiça, pois implicaria em dupla supressão de instância.
+Ante o exposto, indefiro liminarmente a inicial do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TORTURA E FALSIDADE IDEOLÓGICA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO PER RELATIONEM. SUPRESSÃO DE INSTÂNCIA. MATERIALIDADE E AUTORIA. REEXAME. IMPOSSIBILIDADE. DOCUMENTOS JUNTADOS NESTA CORTE QUE AINDA NÃO FORAM ANALISADOS PELAS INSTÂNCIAS ORDINÁRIAS.
+Habeas corpus indeferido liminarmente.
