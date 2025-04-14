@@ -1,0 +1,8 @@
+DECISÃO
+ACACIO PAULINO opõe embargos de declaração contra a decisão de fls. 4.927-4.929, ao argumento de que houve omissão relativamente à "tese central da revisão criminal, qual seja, a falta de fundamentação específica quanto ao parâmetro utilizado para exasperar a pena-base, que excedeu a regra jurisprudencial de 1/6 por circunstância negativa" (fl. 4.935), bem como não afastou os precedentes citados pela defesa que permitiram o ajuizamento da revisão criminal.
+Em que pesem os argumentos expostos, não há omissão no decisum. Nele ficou explicitado que, no caso, as vetoriais culpabilidade, circunstâncias e consequências do crime foram consideradas desfavoráveis por meio de decisão devidamente justificada e lastreada em pacífica orientação desta Corte sobre o tema. Assim, a fixação acima do mínimo legal foi proporcional e se deu por meio de decisão com discricionariedade fundamentada.
+Aliás, sobre o tema, é sólida a orientação desta Corte de que "não há direito subjetivo do réu à aplicação automática do quantum de aumento de 1/6 sobre a pena mínima para cada circunstância judicial valorada negativamente, preservando-se a discricionariedade fundamentada do magistrado" (AREsp n. 2.256.646/ PA, relatora Ministra Daniela Teixeira, DJe 26/12/2024).
+Por fim, realço que também ficou registrado na decisão embargada que o cabimento de revisão criminal, nos casos em que se objetiva a reavaliação da pena, está atrelado a demonstração de contrariedade à lei ou a evidência dos autos, situação que não ocorreu na hipótese.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
