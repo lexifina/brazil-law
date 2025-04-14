@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. LEI N. 9.514/97. INTIMAÇÃO DO DEVEDOR FIDUCIANTE SOBRE A REALIZAÇÃO DO LEILÃO EXTRAJUDICIAL DO IMÓVEL. QUESTÃO ANALISADA A PARTIR DO EXAME DAS PROVAS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. No contrato de alienação fiduciária em garantia, em regra, é imprescindível a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, tanto na vigência do Decreto-Lei n. 70/66, quanto na vigência da Lei n. 9.514/97.
+2. Sem embargo, "não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca do agravante" (AgInt no AgInt no AREsp n. 1.463.916/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 3/12/2019, DJe de 9/12/2019).
+3. Rever a conclusão do Tribunal estadual, no sentido de que o devedor teve ciência prévia da realização do leilão, exigiria nova incursão no acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por ATACADÃO CESI COMÉRCIO VAREJISTA DE MÓVEIS LTDA. (ATACADÃO) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO ANULATÓRIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL E ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CONSOLIDAÇÃO DA PROPRIEDADE. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DA DEVEDORA FIDUCIANTE. OBSERVÂNCIA DO PROCEDIMENTO DISCIPLINADO PELA LEI N. 9.514/97. AUSÊNCIA DE OBSTÁCULO À PURGA DA MORA E AO EXERCÍCIO DO DIREITO DE PREFERÊNCIA PELA PARTE AUTORA. INEXISTÊNCIA DE PREVISÃO LEGAL QUANTO AO ALEGADO INTERVALO MÍNIMO ENTRE AS HASTAS PÚBLICAS. IRREGULARIDADE NÃO EVIDENCIADA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DE APELAÇÃO DESPROVIDO (e-STJ, fl. 307)
+Nâo foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. CONTRATO DE COMPRA E VENDA DE IMÓVEL COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. LEI N. 9.514/97. INTIMAÇÃO DO DEVEDOR FIDUCIANTE SOBRE A REALIZAÇÃO DO LEILÃO EXTRAJUDICIAL DO IMÓVEL. QUESTÃO ANALISADA A PARTIR DO EXAME DAS PROVAS DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. No contrato de alienação fiduciária em garantia, em regra, é imprescindível a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, tanto na vigência do Decreto-Lei n. 70/66, quanto na vigência da Lei n. 9.514/97.
+2. Sem embargo, "não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca do agravante" (AgInt no AgInt no AREsp n. 1.463.916/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 3/12/2019, DJe de 9/12/2019).
+3. Rever a conclusão do Tribunal estadual, no sentido de que o devedor teve ciência prévia da realização do leilão, exigiria nova incursão no acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+4. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Trata-se de ação anulatória de leilão extrajudicial proposta por ATACADÃO contra RODOBENS ADMINISTRADORA DE CONSÓRCIOS LTDA., sob o argumento de que, com a consolidação da propriedade do imóvel em favor do credor fiduciário, foram designadas as datas para as realizações dos leilões, contudo, sem a observância dos requisitos legais, ante a ausência de sua intimação pessoal.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, ATACADÃO alegou, a par de divergência jurisprudencial, a violação dos arts. 26, §§ 1º e 3º, e 27, §§ 2º-A e 2º-B, da Lei n. 9.514/97, e 502 do CPC, ao sustentar a necessidade de intimação pessoal do devedor fiduciante acerca das datas, horários e locais dos leilões públicos para alienação do imóvel.
+Da intimação do devedor fiduciante sobre a realização do leilão
+Esta Corte Superior possui o entendimento consolidado de que, em regra, é imprescindível a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, tanto na vigência do Decreto-Lei n. 70/66, quanto na vigência da Lei n. 9.514/97.
+Sem embargo, "a jurisprudência do STJ é firme no sentido de que não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca do agravante" (AgInt no AgInt no AREsp 1.463.916/SP, relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 3/12/2019, DJe de 9/12/2019).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. OBRIGATORIEDADE. CIÊNCIA INEQUÍVOCA. ANÁLISE INCONCLUSA. RETORNO DOS AUTOS À ORIGEM. DECISÃO MANTIDA.
+1. No contrato de alienação fiduciária de bem imóvel, regido pela Lei n. 9.514/1997, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial. Precedentes.
+2. Ao mesmo tempo, é firme a jurisprudência do STJ no sentido de que não se decreta a nulidade do leilão, por ausência de intimação pessoal, se ficar demonstrada a ciência inequívoca da parte.
+3. No caso, afastado o fundamento jurídico do acórdão, revelou-se necessário o retorno dos autos ao Tribunal de origem, pois permaneceu inconclusa a análise sobre a possível ciência das partes a respeito dos leilões.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1.897.413/SP, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado aos 27/6/2022, DJe de 1º/7/2022)
+No caso em tela, a controvérsia foi dirimida pelo Tribunal estadual, nos termos da fundamentação a seguir:
+No caso vertente, observo que, diferentemente do alegado pela parte autora, está demonstrada a sua efetiva intimação acerca do procedimento extrajudicial de consolidação da propriedade do imóvel em favor da credora fiduciária, bem como dos respectivos leilões realizados nesse âmbito.
+Quanto à purgação da mora, dispõe o art. 26, §§ 3º e 4º, da Lei nº 9.154/97, em redação dada pela Lei nº. 14.711/23, que, não sendo possível localizar o devedor fiduciário, torna-se possível a realização da intimação por edital:
+ ..
+Dessa forma , não tendo a demandada obtido êxito na localização do representante legal da demandante, procedeu, como autoriza a lei, à sua intimação por edital, este publicado nos dias 20 e 24 de abril de 2023 (evento 3, EDITAL6 e evento 3, EDITAL6). Ato contínuo, tendo em vista o seu não comparecimento para purga da mora (evento 3, OUT8 e evento 3, OUT9), foi averbada no registro do imóvel, em 22 de junho de 2023, a consolidação da propriedade em favor da credora fiduciária ( evento 3, MATRIMÓVEL10 ).
+Assim, constata-se que o procedimento adotado pela credora fiduciária para fins de purga da mora observou estritamente a legislação aplicável à alienação fiduciária sobre bens imóveis, inexistindo vício ou irregularidade.
+Adiante, sobre a necessidade de intimação pessoal dos devedores previamente à realização do leilão, assim dispõe o art. 27, § 2º, da Lei nº. 9.514/97, em redação dada pela Lei nº. 14.711/23:
+Art. 27. Consolidada a propriedade em seu nome, o fiduciário promoverá leilão público para a alienação do imóvel, no prazo de 60 (sessenta) dias, contado da data do registro de que trata o § 7º do art. 26 desta Lei.
+(..)
+§ 2º-A Para fins do disposto nos §§ 1º e 2º deste artigo, as datas, os horários e os locais dos leilões serão comunicados ao devedor e, se for o caso, ao terceiro fiduciante, por meio de correspondência dirigida aos endereços constantes do contrato, inclusive ao endereço eletrônico.
+O Superior Tribunal de Justiça, por sua vez, endossa a necessidade de intimação pessoal do devedor fiduciante acerca da data do leilão a ser realizado. Por oportuno, cito os seguintes julgados:
+ ..
+Porém, na hipótese em comento, a prova documental coligida ao feito demonstra que o representante legal do demandante foi devidamente cientificado acerca da realização dos leilões mediante contato estabelecido pelo aplicativo Whatsapp, tendo, inclusive, respondido à mensagem enviada pela credora fiduciária (evento 3, OUT12) - o que, por óbvio, não deixa dúvida de que a realização das praças foi, de fato, objeto de seu conhecimento. Portanto, não há falar em ausência de intimação pessoal a ensejar a nulidade das hastas públicas realizadas, não tendo a recorrente sido impedida de exercer o seu direito de preferência, como lhe autorizava o art. 27, § 2º-B3, da Lei nº. 9.514/97 (e-STJ, fls. 303/305).
+Desse modo, para ultrapassar a conclusão do aresto combatido, no sentido de que o devedor teve ciência prévia da realização dos leilões, ainda que não realizada por intimação pessoal, seria necessária nova incursão no acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. INTIMAÇÃO POR EDITAL. POSSIBILIDADE. ESGOTAMENTO DOS MEIOS PARA ENCONTRAR O MUTUÁRIO. PRECEDENTES. AGRAVO INTERNO IMPROVIDO .
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que, no contrato de alienação fiduciária de bem imóvel, regido pela Lei n. 9.514/1997, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, sendo válida a notificação por edital quando esgotados os meios para a notificação pessoal.
+2. Na presente ipótese, segundo informado pela instância ordinária, soberana na análise do conjunto fático-probatório dos autos, a notificação extrajudicial foi enviada ao endereço informado pelo ora agravante no contrato, contudo não foi exitosa em razão de mudança de endereço. Assinalou que, em virtude de infrutíferas tentativas de localização do devedor, procedeu-se com a intimação por edital, conforme a exigência da lei, tendo sido demonstrada nos autos a ciência inequívoca que o bem seria leiloado em outubro de 2019.
+3. De acordo com a orientação do Superior Tribunal de Justiça, reverter a conclusão do colegiado estadual que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt nos EDcl no AREsp 2.271.962/MT, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado aos 19/6/2023, DJe de 21/6/2023 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. LEI Nº 9.514/1997. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. DEVEDOR FIDUCIANTE. NOTIFICAÇÃO PESSOAL. AUSÊNCIA. CIÊNCIA INEQUÍVOCA. REVISÃO. SÚMULA Nº 7/STJ. ART. 1.021, § 4º, DO CPC. MULTA. NÃO CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça se encontra consolidada no sentido de ser necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/1997.
+2. No caso concreto, rever a conclusão do tribunal de origem, que atestou a ciência inequívoca da parte devedora da data do leilão extrajudicial com a cautelar proposta com a finalidade de obstar sua realização, esbarra no óbice da Súmula nº 7/STJ.
+3. A Segunda Seção desta Corte decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Agravo interno não provido.
+(AgInt no AREsp 2.208.770/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 3/5/2023, DJe de 8/5/2023 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, nos termos do art. 85, § 11, do CPC, tendo em vista a sua fixação no percentual máximo pelas instâncias ordinárias.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
