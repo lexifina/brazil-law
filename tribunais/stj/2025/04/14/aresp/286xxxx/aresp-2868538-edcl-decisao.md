@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GREG BRAGA DOS ANJOS (e-STJ fls. 1116/1125) contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento (e-STJ fls. 1104/1109).
+Sustenta a parte embargante a ocorrência de omissão quanto aos seguintes pontos: (i) violação ao princípio da identidade física do juiz, tendo em vista a atuação de três magistrados no processo; (ii) análise das teses apresentadas pela defesa as quais sustenta a ocorrência de erro de tipo, a absolvição por insuficiência probatória e a não ocorrência do tráfico interestadual, em razão da proximidade entre Planaltina/Goiás e Planaltina/DF.
+É o relatório. Decido.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir: (i) pela ausência de violação ao Princípio da Identidade Física do Juiz, uma vez que os magistrados atuantes no feito estavam investidos na condição de Juízes de Direito em auxílio eventual aos Juízos de Entorpecentes; (ii) que rever os fundamentos utilizados pela Corte de origem, para concluir pela absolvição, por insuficiência de prova concreta para a condenação, ou pela ocorrência do erro de tipo, como requer a defesa, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ; (iii) que o próprio acusado e o corréu Lucas informaram que realizavam o trajeto entre Planaltina/GO para Planaltina/DF, o que configura o transporte de entorpecentes entre o Estado de Goiás e o Distrito Federal, motivo pelo qual deve ser mantida a causa de aumento do artigo 40, inciso V, da Lei n. 11.343/06.
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
