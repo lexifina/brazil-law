@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  pela  FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO,  com  amparo  nas  alínea  "a" e "c"  do  permissivo  constitucional,  contra  acórdão  do  Tribunal  Regional  Federal  da  5ª  região  assim  ementado  (fls.  542):
+ADMINISTRATIVO. FIES. MATRÍCULA EM RESIDÊNCIA MÉDICA. EXTENSÃO DO PERÍODO DE CARÊNCIA. POSSIBILIDADE.
+1. Apelações interpostas pelo FNDE e pela União Federal em face da sentença que julgou procedente pedido para condenar os Réus a prorrogarem a carência do contrato de FIES do Autor durante o período de residência médica. Os Réus foram condenados a pagar honorários advocatícios fixados no percentual mínimo previsto nos incisos do art. 85, §3º, do CPC (10%), a incidir sobre o valor da causa, "pro rata".
+2. Ao contrário do alegado pelo FNDE, houve pedido de extensão do prazo de carência do contrato do FIES, sem que houvesse, até a presente data, qualquer análise acerca do seu pedido, abrindo espaço, assim, para a apreciação pelo Judiciário.
+3. No mérito, colhem-se recentes julgados desta e. Terceira Turma pela possibilidade de se estender o prazo de carência do contrato de financiamento estudantil durante o período de residência médica, desde que o estudante graduado em Medicina comprove o preenchimento dos seguintes requisitos: "i) ingresso em programa credenciado pela Comissão Nacional de Residência Médica, de que trata a Lei 6.932/81; e ii) a especialidade médica ser definida como prioritária em ato do Ministro de Estado da Saúde, conforme disposto no art. 6º-B, parágrafo 3º, da Lei 10.260/01, incluído pela Lei 12.202/10". (Processo: 08061086920194050000, AG - Agravo de Instrumento, Desembargador Federal Rogério Fialho Moreira, 3ª Turma, julgamento: 29/08/2019).
+4. No caso em comento, o Autor provou que está matriculado no Programa de Residência Médica, promovido pela Instituição Ipê Educacional Ltda., na especialidade de Clínica Médica que, a teor do art. 4º c/c o Anexo II, da Portaria Conjunta nº 3/2013, do Ministério da Saúde, é considerada prioritária, preenchendo, portanto, os requisitos exigidos para a prorrogação do prazo de carência do contrato do FIES. Condenação dos Apelantes em honorários recursais, ficando majorado em 1%.
+5. Apelações improvidas. (um por cento) o percentual aplicado na sentença, nos termos do art. 85, § 11, do CPC.
+Opostos embargos de declaração, foram providos para sanar omissão quanto à questão da legitimidade do FNDE (fls. 572-575).
+Nas razões do recurso especial (fls. 588-605),  o  recorrente  aponta  violação  ao art. 6º, B §3º, da Lei n. 10.260/2001, salientando que a extensão do período de carência está condicionada, à priori, à verificação e preenchimento das condições estabelecidas para os estudantes graduados em Medicina, pelo Ministério da Saúde, as quais estão detidamente delineadas na Portaria MS n. 1.377, de 13 de junho de 2011.
+A esse respeito, cita precedentes de outros tribunais.
+Aduz que, "o procedimento para o requerimento da carência, por sua vez, está disciplinado na Portaria Normativa n. 203/2013, do Ministério da Saúde (..) Após a análise dos requisitos pelo Ministério da Saúde e preenchidos os critérios cuja análise são de competência do Ministério da Saúde, o FNDE é instado a analisar o preenchimento dos requisitos exigidos pelo Ministério da Educação, previstos na Portaria Normativa MEC n. 07/2013" (fls. 594-595).
+Pontua que "o FNDE que deve se pautar pela expressa previsão normativa, não cometeu qualquer ato ilícito, mas tão somente decidiu pela não concessão do benefício ao autor, visto que seu requerimento foi realizado já na constância da fase de amortização contratual"(fl. 596).
+Requer o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 616-631.
+É  o  relatório.
+Anoto, inicialmente, que a Corte Regional negou provimento ao apelo do FNDE, tendo sido consignado que (fl. 541):
+o Autor provou que está matriculado no Programa de Residência Médica, promovido pela Instituição Ipê Educacional Ltda., na especialidade de Clínica Médica que, a teor do art. 4º c/c o Anexo II, da Portaria Conjunta nº 3/2013, do Ministério da Saúde, é considerada prioritária, preenchendo, portanto, os requisitos exigidos para a prorrogação do prazo de carência do contrato do FIES.
+Dessa forma,  apesar  de  ter sido indicada violação ao art. 6º, B §3º, da Lei n. 10.260/2001,  a  análise  da  questão  controvertida  nos autos envolve o exame da Portarias Normativas (n. 3/2013 e n. 7/2013) do Ministério da Educação, para verificar os requisitos que autorizam a dilação do período de carência, atos normativos que não se enquadram no conceito de lei federal.
+Nestes termos, observa-se que eventual violação de lei federal seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação de atos normativos secundários, descabendo, portanto, o exame da questão em sede de recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PIS E COFINS. DEDUÇÕES DA BASE DE CÁLCULO. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. CONTROVÉRSIA DIRIMIDA COM BASE NA INTERPRETAÇÃO DA IN RFB 1.911/2019. REVISÃO. NÃO CABIMENTO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF. RECURSO NÃO PROVIDO.
+(..)
+5. Ademais, como bem apontou a decisão da Presidência do STJ, a controvérsia dos autos foi dirimida com base na análise e na interpretação da Instrução Normativa RFB 1.911/2019. Fica evidente, portanto, que eventual ofensa à legislação federal, se houve, ocorreu de forma indireta ou reflexa, o que não justifica a interposição de Recurso Especial nesse caso.
+(..)
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 2.417.693/SC, rel. Min. Herman Benjamin, Segunda Turma, DJe de 28/6/2024)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PORTARIA. EXAME. INVIABILIDADE. QUESTÃO CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE.
+(..)
+3. Hipótese em que a alteração do julgado perpassa pela interpretação da Portaria ME n. 7.163/2021, sendo meramente reflexa a vulneração dos dispositivos legais indicados pela agravante.
+(..)
+5 . Agravo interno desprovido.
+(AgInt no REsp n. 2.088.386/CE, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 18/4/2024)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. PENSIONISTA MILITAR. FILHA DE MILITAR FALECIDO. CONDIÇÃO DE DEPENDÊNCIA. SÚMULA 7/STJ.A REINCLUSÃO NO FUNDO DE ASSISTÊNCIA MÉDICA DA AERONÁUTICA - FUNSA. NSCA160-5. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE TRATADO OU LEI FEDERAL.
+(..)
+2. A solução da controvérsia extrapola a estreita via do Recurso Especial, visto que implica o exame de violação reflexa ou indireta a texto de lei federal, já que, como explicitado nas razões do Especial, o caso necessita primordialmente da análise da NSCA 160-5/2017, ato normativo que não se enquadra no conceito de tratado ou Lei Federal de que cuida o art. 105, III, "a", da Constituição Federal.
+(..)
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.871.124/PE, rel. Min. Herman Benjamin, Segunda Turma, DJe de 1/10/2020)
+Além do mais, conforme pacífico entendimento desta Corte Superior, os atos normativos secundários, como, in casu, as Portarias dos Ministérios da Educação e Saúde, não estão inseridos no conceito de lei federal, não sendo adequado o aviamento de recurso especial pela alínea "a" do artigo 105 da Constituição, a fim de impugnar referidas normas administrativas.
+A propósito do tema em questão, cumpre trazer à baila os seguintes acórdãos das Turmas que integram a Seção de Direito Público do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. PRORROGAÇÃO DO PRAZO DE CARÊNCIA PARA AMORTIZAÇÃO DO SALDO DEVEDOR DO CONTRATO DE FINANCIAMENTO ESTUDANTIL - FIES, FIRMADO PARA O CUSTEIO DO CURSO DE MEDICINA, EM VIRTUDE DA EXTENSÃO EM RESIDÊNCIA MÉDICA. LEGITIMIDADE PASSIVA DO FNDE. AFRONTA AO ART. 6º, § 2º, DA PORTARIA MEC 07/2013. VIOLAÇÃO REFLEXA AO TEXTO DE LEI FEDERAL. TUTELA DE URGÊNCIA SÚMULAS 735/STF E 7/STJ.
+1. No tocante à alegada afronta ao art. 300 do CPC/2015 sob o argumento de que não estavam presentes os requisitos para concessão da tutela de urgência, não se pode conhecer da irresignação do Banco do Brasil ante os óbices das Súmulas 7/STJ e 735/STF.
+2. A legitimidade passiva do Banco do Brasil, como agente financeiro, deriva da necessidade de tal instituição financeira concretizar a suspensão da cobrança das parcelas mensais, na hipótese de deferimento do pedido.
+3. Quanto à legitimidade do FNDE, o aresto vergastado decidiu em conformidade com a jurisprudência do STJ, segundo a qual o FNDE, como gestor do FIES e operador do SisFIES, é parte legítima para figurar no polo passivo das demandas envolvendo esse programa governamental. No mesmo sentido em caso absolutamente análogo: AgInt no REsp 1.919.649/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 13.8.2021.
+4. No tocante à tese de que é indevida a extensão da carência exigida, porque não foram observados os requisitos previstos no art.6º-B, § 3º, da Lei 10.260/2001, regulamentado pela Portaria Normativa MEC 7, de 26 de abril de 2013, não se pode conhecer da irresignação do FNDE. A afronta ao texto de lei federal é meramente reflexa, demandando a interpretação da aludida portaria, ato que não se enquadra no conceito de lei federal. Nessa linha: AgInt no REsp 1.993.692/PB, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18.8.2022.
+5. Recurso Especial do FNDE parcialmente conhecido e, nessa parte, não provido. Recurso Especial do Bando do Brasil parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.991.752/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/12/2022, DJe de 19/12/2022).
+ADMINISTRATIVO E PROCESSUAL CIVIL. FNDE. FINANCIAMENTO ESTUDANTIL - FIES. ESTUDANTE DE MEDICINA. PRORROGAÇÃO DO PRAZO DE CARÊNCIA. APROVAÇÃO EM RESIDÊNCIA MÉDICA. PRAZO PARA REQUERIMENTO. ART. 6º, § 2º, DA PORTARIA MEC 07/2013. VIOLAÇÃO REFLEXA AO TEXTO DE LEI FEDERAL. NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+1. Recurso especial no qual se defende a tese de que, iniciada a amortização do empréstimo estudantil, a parte autora não poderia mais pleitear a prorrogação da carência, por deixar de atender ao requisito previsto no art. 6º, § 2º, da Portaria Normativa MEC 07/2013.
+2. Assim, apesar de se invocar afronta ao texto de lei federal, a pretensão esbarra no exame de normativo que não se insere no conceito de lei federal a que se refere o art. 105, III, da CF, o que impede o conhecimento do recurso.
+3. Segundo jurisprudência desta Corte, "O recurso especial não constitui via adequada para a análise, sequer reflexa, de eventual ofensa a resoluções, portarias, instruções normativas ou regulamentos de pessoa jurídica, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal de 1988" (AgInt no AgInt no AREsp n. 1.112.227/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/10/2018, DJe de 17/10/2018).
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.993.692/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 15/8/2022, DJe de 18/8/2022).
+Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra nos óbices apontados quando do exame do recurso especial pela alínea "a" do permissivo constitucional.
+Ante  o  exposto,  com  base  no  art.  255,  §  4º,  I,  do  RISTJ,  não  conheço  do  recurso  especial.
+Caso tenha havido fixação de honorários advocatícios na instância de origem, determino sua majoração em 10% do valor arbitrado, a teor do contido no § 11 do artigo 85 do Código de Processo Civil, com observância dos limites estabelecidos nos §§ 2º e 3º do mencionado dispositivo e de eventual isenção ou concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. ADMINISTRATIVO. FIES. CURSO DE MEDICINA. RESIDÊNCIA. EXTENSÃO DO PRAZO DE CARÊNCIA. VIOLAÇÃO DO ART. 6º, B §3º, DA LEI N. 10.260/2001. OFENSA REFLEXA. INADMISSIBILIDADE ANÁLISE DE ATO NORMATIVO SECUNDÁRIOS. NÃO CABIMENTO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. RECURSO NÃO CONHECIDO.
