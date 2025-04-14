@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE PETRÓPOLIS, com fundamento no art. 105, III, "a", da Constituição Federal.
+Na origem, a Municipalidade ajuizou ação de representação por inconstitucionalidade, em março de 2024, tendo como objetivo impugnar a Lei Municipal n. 8.716/2024, que previa a desvinculação das cobranças de Contribuição de Iluminação Pública (COSIP) e do serviço de consumo de energia elétrica, para fins de quitação em separado.
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO julgou improcedente a demanda. O referido acórdão foi assim ementado, in verbis:
+REPRESENTAÇÃO DE INCONSTITUCIONALIDADE. Lei Municipal nº 8.716/2024, do Município de Petrópolis. Previsão de desvinculação das cobranças de Contribuição de iluminação Pública (COSIP) e do serviço de energia elétrica. Autorização do constituinte derivado para cobrança daquela contribuição na fatura de consumo mensal de energia elétrica, na forma do 149-A, parágrafo único, da Constituição da República. Mecanismo facilitador de arrecadação tributária, cuja constitucionalidade já foi reconhecida pelo STF. Sistemática de cobrança e arrecadação instituída, contudo, em caráter facultativo, e não obrigatório. Dúvida razoável quanto à inconstitucionalidade do ato normativo municipal, em vista da inexistência de ofensa direta à regra constitucional. Ausência, ademais, de pronunciamento definitivo do STF sobre a matéria, a quem compete a última palavra no exercício da jurisdição constitucional. Abstenção do reconhecimento da inconstitucionalidade do diploma impugnado fundada em dúvida razoável, com base nos princípios da presunção de constitucionalidade das leis e da separação dos poderes. Atuação cautelosa do intérprete, conformada com os limites inerentes à dificuldade contramajoritária. Manutenção da validade da norma em sede de controle concentrado estadual. Pedido improcedente. Liminar revogada.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, MUNICÍPIO DE PETRÓPOLIS interpôs o presente recurso especial, apontando violação dos arts. 11, 14 a 17 da LC n. 101/2000 (LRF), e do art. 9º da Lei n. 4.320/64.
+Sustenta, em síntese, que não houve estudo de impacto financeiro para aprovação da lei municipal impugnada, o que desrespeita a lei de responsabilidade fiscal e compromete o orçamento municipal. Acrescenta que a cobrança da COSIP em separado do consumo de energia pode gerar inadimplência dos contribuintes municipais.
+Apresentadas contrarrazões pela CÂMARA MUNICIPAL DE PETRÓPOLIS pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Sobre a controvérsia, o Tribunal de origem entendeu, em suma, que a sistemática de cobrança e arrecadação da COSIP, embora facilitada pela autorização constitucional para cobrança na fatura de energia elétrica, seria facultativa, e que a cobrança em separado na conta de energia não gera presunção de redução da arrecadação tributária. Assim, deveria a lei municipal ser mantida com base nos princípios da presunção de constitucionalidade das leis e da separação dos poderes.
+Quanto a apontada violação dos dispositivos da LRF e da Lei 4.320/64, verifica-se que a matéria constante de tais regramentos, qual seja, a ausência de estudo de impacto financeiro para aprovação da lei municipal, não foi ventilada no acórdão recorrido, o que impede o exame das teses do recorrente, pela falta do devido prequestionamento, incidindo o teor da súmula 282/STF.
+Ainda que superado o óbice, o Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Municipal nº 8.716/2024, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido
+(AgInt no REsp 1690029/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp 1304409/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 31/08/2020, DJe 04/09/2020.)
+Ademais, a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI 12.546/2011. MP 774/2017. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+(..)
+2. Ao decidir a lide, o Tribunal de origem se apoiou em fundamentação eminentemente constitucional, referente aos princípios da anterioridade nonagesimal, com previsão no art. 195, § 6o. da CF/1988, e da legalidade. Assim, não há como alterar as conclusões obtidas pelo acórdão recorrido sem que haja usurpação da competência do Supremo Tribunal Federal. Precedente: REsp. 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, DJe 22.4.2019.
+(..)
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1859437/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPTU. IMUNIDADE RECÍPROCA. RFFSA. SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+(..)
+2. Da leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (imunidade tributária recíproca  art. 150, VI, a, da CF/88 e jurisprudência do STF).
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1692609/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020.)
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
