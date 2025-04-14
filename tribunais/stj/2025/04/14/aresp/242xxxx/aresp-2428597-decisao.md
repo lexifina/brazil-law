@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão da Vice Presidência do Tribunal do Rio Gr ande do Norte que inadmitiu o recurso especial interposto com base no art. 105, inciso III, da Constituição Federal, fundamentado na incidência do enunciado da Súmula 7/STJ , a qual veda o reexame do conjunto-fático probatório na instância extraordinária.
+O recurso especial foi interposto contra acórdão, unânime, do Tribunal de origem, assim ementado:
+"PENAL E PROCESSUAL PENAL. SENTENÇA CONDENATÓRIA. TRÁFICO ILÍCITO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/2006) E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO (ART. 14 DA LEI 10.826/2003). APELAÇÃO CRIMINAL. PRETENSO RECONHECIMENTO DE NULIDADE DA BUSCA DOMICILIAR. NÃO ACOLHIMENTO. ACUSADO PRESO EM FLAGRANTE DELITO COM ARMA DE FOGO E ENTORPECENTE ILÍCITO. ABORDAGEM REALIZADA COM POSTERIOR AUTORIZAÇÃO DA ENTRADA NO DOMICÍLIO. AUSÊNCIA DE ILEGALIDADE. PRETENSA NULIDADE NA BUSCA PESSOAL POR AUSÊNCIA DE JUSTA CAUSA. ALEGADA VIOLAÇÃO AO ART. 244 DO CPP. NÃO ACOLHIMENTO. FUNDADAS RAZÕES QUE ENSEJARAM A ABORDAGEM PELOS AGENTES POLICIAIS. COMPORTAMENTO SUSPEITO DO ACUSADO. PRECEITOS DOS ARTS. 240 E 244 DO CPP OBEDECIDOS. PRETENSA ABSOLVIÇÃO DO TRÁFICO E DO PORTE ILEGAL DE ARMA DE FOGO POR INSUFICIÊNCIA PROBATÓRIA. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. APREENSÃO DE DROGA E ARMA DE FOGO. DEPOIMENTOS DE POLICIAIS. CONFISSÃO EXTRAJUDICIAL DO ACUSADO. RECURSO CONHECIDO E DESPROVIDO."
+Contrarrazões da parte recorrida (fls. 303-311).
+Inadmitido o recurso especial, foi interposto o presente agravo, sob o argumento, em síntese, da presença dos elementos necessários à admissão e julgamento do Recurso Especial.
+No presente agravo, órgão ministerial apresentou contrarrazões (fls.335-338 ).
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo e desprovimento do recurso especial (fls. 351-356).
+É o relatório. DECIDO.
+Inicio destacando:
+"O Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal" (AgRg no AREsp n. 2.409.008/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024)."
+Não obstante os argumentos expendidos pela parte agravante, estes não possuem o condão de infirmar os fundamentos da decisão agravada.
+Na espécie verifico que a parte recorrente não indicou o permissivo constitucional em que baseia a interposição do recurso especial.
+Igualmente indicou genericamente violação as Decreto-Lei n.º 2.848/40 e ao Decreto-Lei n.º 3.689/41, sem precisar os dispositivos violados.
+Tal ausência caracteriza deficiência na fundamentação, atraindo do óbice do enunciado da súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Jurisprudência selecionada.", não sendo possível sanar o vício em sede de agravo.
+Precedentes: (REsp 363.177/PE, Quinta Turma, Rel. Min. Laurita Vaz, DJU de 19/12/2003); (RESP 725774/SP, AgRg no RESP 671373/SP, DJ de 02.05.2005); (Resp 550.744/PE, Quinta Turma, Rel. Min. Jorge Scartezzini, DJU de 02/08/2004).
+Ante o exposto, não conheço do agravo em recurso especial, forte no artigo 932, III, do Código de Processo Civil e artigo 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+EMENTA
