@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por SERGIO EVANGELISTA DE ASSIS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS (fl. 145).
+"EXECUÇÃO PENAL. AGRAVO. PRETENSÃO DE AUTORIZAÇÃO DE VISITA ÍNTIMA. NATUREZA JURÍDICA DE RECOMPENSA DO TIPO REGALIA. ATO NORMATIVO PODE ESTABELECER FORMAS DE CONCESSÃO. PORTARIA N. 200/2022 - SEAPE/DF. REQUISITOS NÃO COMPROVADOS. RECURSO CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Resta inviabilizado o conhecimento do recurso quanto a ponto já deferido pela decisão recorrida (art. 577, parágrafo único, do CPP - inclusão do agravante em curso de ressocialização).
+2. A Resolução n. 23/2021 do Conselho Nacional de Política Criminal e Penitenciária estabelece que a visita íntima ou conjugal à pessoa privada de liberdade possui natureza jurídica de recompensa, do tipo regalia.
+3. A LEP preceitua que legislação local e regulamentos "estabelecerão a natureza e a forma de concessão de regalias", de modo que ato normativo infralegal pode estabelecer requisitos, forma de concessão e limites para sua fruição.
+4. No âmbito do Distrito Federal, foi editada a Portaria n. 200/2022 da Secretaria de Estado de Administração Penitenciária - SEAPE, que define as visitas íntimas como recompensa, do tipo regalia, e estabelece os requisitos para que o custodiado possa gozar da benesse.
+5. A decisão agravada indeferiu o pedido de concessão das visitas íntimas pelo fato de o sentenciado, por ora, não preencher os requisitos estabelecidos na Portaria n. 200/2022 - SEAPE, o que se mostra consentâneo ao que estabelecem os regramentos acima e com a jurisprudência desta Corte.
+6. Recurso parcialmente conhecido e não provido.
+Em suas razões recursais, a parte recorrente aponta violação do art. 41, inciso X, e art. 1º, ambos da Lei 7.210/84. A defesa argumenta a impossibilidade de condicionar o direito de visita íntima ao reconhecimento de uma regalia, como o trabalho voluntário, especialmente quando não há vagas para todos os internos. Sustenta a frustração do fim último da execução penal, qual seja, a ressocialização do preso, caso seja impedido de receber visitas íntimas.
+A defesa destaca a revogação do estado de emergência sanitária pela COVID-19, com o fim das restrições administrativas, enquanto as limitações às visitas íntimas persistem. Alega afronta ao princípio da igualdade, pois apenas internos vinculados a programas de ressocialização, com vagas restritas, podem usufruir desse direito. Aponta a Portaria 200 da SEAPE/DF e a Resolução 23/2021 do CNPCP como instrumentos que, ao preverem a visita íntima como regalia, contrariam a força normativa de lei federal.
+Adicionalmente, o recorrente enfatiza a proteção legal à família e a necessidade de garantir o exercício do planejamento familiar, sem restringir este direito apenas a quem participa de programas de ressocialização. Argumenta a importância das visitas íntimas para a redução da violência nos presídios e o fortalecimento dos laços afetivos, promovendo a reinserção social. A Defensoria Pública do Distrito Federal conclui requerendo o provimento do recurso para assegurar ao recorrente o direito de receber visitas íntimas, conforme previsto no artigo 41, X, da Lei 7.210/84.
+Com contrarrazões (fls. 150-155), o recurso especial foi inadmitido na origem (fls. 158-159), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo conhecimento do agravo para conhecer do recurso especial e negar-lhe provimento (fls. 198-204).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Ao examinar a questão, o Tribunal fundamentou sua decisão na Portaria 200 da SEAPE/DF e na Resolução 23/2021 do CNPCP. Contudo, por consubstanciar norma de caráter administrativo, equiparável à legislação local, a análise do tema esbarra no óbice da Súmula 280/STF, a qual inviabiliza o conhecimento do recurso especial. Esta é uma orientação também adotada esta Corte Superior, como se depreende da ementa do julgado a seguir:
+PROCESSO. EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. LIVRAMENTO CONDICIONAL. CONCESSÃO DO BENEFÍCIO FUNDAMENTADA EM NORMA LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF.
+1. O Tribunal de origem manteve a decisão do Juízo da Execução, que concedeu o pedido de livramento condicional com base no art. 42 do Regimento Interno dos Estabelecimentos Prisionais do Distrito Federal, entendendo que devem ser considerados tão somente os 6 (seis) últimos meses da execução da pena para fins de avaliação do comportamento carcerário.
+2. Rever o julgado pelo fundamento de suposta violação do art. 83, III, do Código Penal demandaria o confronto de legislação local com norma de direito federal, o que é defeso nesta via pela Súmula 280 do STF. Precedente.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.318.889/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2016, DJe de 17/6/2016.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
