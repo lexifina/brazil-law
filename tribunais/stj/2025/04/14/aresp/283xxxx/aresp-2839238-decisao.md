@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pela acusação contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, que inadmitiu seu recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 0002980-77.2017.4.01.3000.
+O agravado foi condenado à pena de 6 anos e 5 meses de reclusão, em regime fechado, e 650 dias-multa, pela prática do delito previsto no art. 33, caput, c/c o art. 40, I, da Lei n. 11.343/2006.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento ao recurso, para reduzir a pena para 5 anos e 10 meses de reclusão, em regime fechado, e 583 dias-multa, bem como para reconhecer o direito do réu de responder em liberdade, nos termos do acórdão assim ementado (fls. 327/350):
+"PENAL E PROCESSO PENAL . TRÁFICO TRANSNACIONAL DE ENTORPECENTES. MATERIALIDADE E AUTORIA COMPROVADAS. CAUSA DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REGIME INICIAL DE CUMPRIMENTO DE PENA. RECURSO PARCIALMENTE PROVIDO. Autoria e materialidade comprovadas pelos documentos acostados aos autos.1. A quantidade de droga apreendida justifica a fixação da pena-base no mínimo legal. 2. Uma vez que o réu não é primário, não há de se falar na aplicação da causa de diminuição da pena prevista no § 4º do art. 33 da Lei 11.343/2006. 3. Aplicação da causa de aumento de pena do art. 40, I, da Lei 11.343/2006, no patamar de 1/6 . 4. Impossibilidade de isenção da pena de multa, preceito secundário de incidência obrigatória. Precedente do STJ. 5. Em vista de o acusado estar preso há mais de 7 anos, em obediência ao princípio da proporcionalidade, impõe-se a revogação da prisão preventiva. Apelação a que se dá parcial provimento."
+No recurso especial, a defesa sustentou violação aos arts. 59 do CP e 42 da Lei n. 11.343/2006, aduzindo, em síntese, que "sendo evidente, à luz dos citados precedentes do STJ, que a quantidade de drogas aprendidas em poder do acusado (1,6kg de cocaína) é expressiva, e de natureza extremamente nociva, sendo que tais circunstâncias devem ser consideradas de forma preponderante na fixação da pena-base, nos termos do art. 42 da Lei nº 11.343/06".
+Também aduziu dissídio jurisprudencial.
+Requereu, ao final, o provimento do recurso, "para restabelecer a pena-base imposta pela sentença em primeira instância, considerando a preponderância da natureza e quantidade da droga apreendida".
+Apresentadas as contrarrazões (fls. 379/385), o recurso foi inadmitido por incidência das Súmulas n. 7/STJ e n. 83/STJ (fls. 386/388).
+No agravo em recurso especial, a acusação impugnou referidos óbices (fls. 390/401).
+Contraminuta da defesa local (fls. 403/407).
+O Ministério Público Federal, às fls. 424/427, opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+A controvérsia consiste em verificar se as instâncias ordinárias deram a correta interpretação aos arts. 59 do CP e 42 da Lei n. 11.343/2006.
+Quanto às citadas controvérsias, o Tribunal de origem, quando do julgamento do recurso de apelação, assim se pronunciou:
+"A quantidade de substância entorpecente apreendida serve como parâmetro e deve preponderar sobre as circunstâncias do art. 59 do Código Penal para a fixação da pena-base, consoante dispõe o art. 42 da Lei 11.343/2006.
+No presente caso, trata-se da apreensão de aproximadamente 1.6kg de cocaína, quantidade considerada de pouca expressividade diante da realidade do tráfico internacional de drogas, motivo pelo qual a pena-base dever ser fixada em seu mínimo legal, de 5 anos de reclusão e 500 dias-multa.
+Correta a compensação da atenuante da confissão espontânea prevista no art. 65, III, d, do Código Penal com a agravante da reincidência, permanecendo inalterada a pena no mínimo legal.
+A causa de diminuição de pena prevista no art. 33, § 4, da Lei 11.343/2006, não é aplicável ao caso, em razão da reincidência do réu (condenado nos autos 0003807-74.2012.8.22.0501 - crimes do sistema nacional de armas e corrupção de menores - com trânsito em julgado em 31/3/2015), não devendo se falar em bis in idem na utilização desta circunstância para afastar tal redutor.
+Correto o aumento da pena em 1/6 pela internacionalidade, o que torna a pena definitiva em 5 anos e 10 meses de reclusão e 583 dias-multa, à razão de 1/30 do salário mínimo vigente à época dos fatos, em razão da situação econômica do réu, com possibilidade de parcelamento.
+Verifica-se que a redução da pena para 5 anos e 10 meses não acarretou a ocorrência da prescrição no caso concreto, tendo em vista que a sentença condenatória foi prolatada em 18/7/2017 e a pena aplicada prescreve em 12 anos, nos termos do do art. 109, III, do Código Penal."
+Consoante o disposto no art. 42 da Lei n. 11.343/2006, o juiz deve considerar, com preponderância sobre o previsto no art. 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente.
+No caso, o entendimento exarado pelo Tribunal de origem está em dissonância com o entendimento do STJ, pois a apreensão de 1.6kg de cocaína justifica o aumento da pena-base, ainda que no contexto de tráfico internacional, nos termos do art. 42 da Lei n. 11.343/2006 e da jurisprudência.
+Com efeito: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a quantidade e a natureza da droga apreendida possuem aptidão para incrementar a pena, à luz do art. 42 da Lei n. 11.343/2006. No caso, a grande quantidade e a natureza da droga apreendida (5.694 g de cocaína) são circunstâncias judiciais desfavoráveis, justificando a elevação da pena-base" (AgRg no AREsp n. 2.391.613/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, com fundamento na Súmula n. 568 do STJ, dar-lhe provimento, para restabelecer a sentença prolatada pelo Juízo de primeiro grau.
+Publique-se.
+Intimem-se.
+EMENTA
