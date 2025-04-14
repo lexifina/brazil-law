@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por AILTON DE SOUZA BISPO NETO com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Nas razões recursais, a defesa aponta violação dos artigos 157, caput e § 1º, do Código de Processo Penal.
+Sustenta que a abordagem e consequente busca pessoal do recorrente decorreu de critérios puramente subjetivos, como o nervosismo apresentado e a mudança de direção ao avistar os policiais, sem a demonstração de elementos indicativos de fundada suspeita sobre a ocorrência de crime, o que não legitimaria a busca pessoal por agentes policiais.
+Requer o provimento do recurso para declarar a ilicitude originária e derivada das provas utilizadas para o reconhecimento da materialidade, absolvendo o recorrente.
+Apresentadas as contrarrazões (e-STJ, fls. 615-617).
+O recurso especial foi admitido às fls. 620-623 (e-STJ) e os autos foram encaminhados ao Superior Tribunal de Justiça.
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ, fls. 637-641).
+É o relatório.
+Decido.
+Consoante se verifica dos autos, o recorrente foi condenado pela prática do crime tipificado pelo art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), a cumprir uma pena de 5 anos e 10 meses de reclusão, no regime inicial fechado, e pagamento de 583 dias-multa.
+No tocante à suscitada nulidade, decorrente da ausência de fundadas razões para a busca pessoal, colhe-se, por pertinente, o seguinte trecho extraído do aresto impugnado (e-STJ, fls. 582-583, grifou-se):
+"Em sua oitiva, explicou que os agentes desembarcaram no aglomerado, a fim de verificar as informações anônimas recebidas, as quais davam conta que indivíduos de outros bairros estavam no local para realizar o tráfico de drogas. Asseverou que o acusado saiu de um dos becos e ao visualizar os policiais parou e imediatamente mudou a direção da caminhada.
+ ..
+Neste sentido, presentes as fundadas razões aptas a ensejar a busca pessoal do réu. Isso porque ele tentou se esquivar da abordagem quando avistou os policiais, apresentando comportamento incomum ao mudar o sentido do trajeto e acelerar os passos. Ademais, a realização da referida diligência em casos como o dos autos sequer depende de autorização judicial, conforme preleciona o art. 244 do CPP. Destaca-se que o Superior Tribunal de Justiça, recentemente, por meio de decisão da Ministra Laurita Vaz, decidiu pela legalidade de abordagens que foram baseadas, inicialmente, no nervosismo do agente e que, posteriormente, apresentaram outros fatores concretos, como a tentativa de evasão por parte do agente abordado. (AgRg no HC n. 827.911/SP, relator Ministro Sebastião Reis Júnior, relatora para acórdão Ministra Laurita Vaz, Sexta Turma, julgado em 22/8/2023, DJe de 6/9/2023.)
+Desta feita, rejeito a tese arguida pela defesa."
+De acordo com o art. 244 do Código de Processo Penal, a busca pessoal poderá ser realizada, independente de mandado judicial, nas hipóteses de prisão em flagrante ou quando houver suspeita de que o agente esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito.
+Sobre o tema, esta Corte já se manifestou reiteradas vezes que "há uma necessária referibilidade da medida, vinculada à sua finalidade legal probatória, a fim de que não se converta em salvo-conduto para abordagens e revistas exploratórias (fishing expeditions), baseadas em suspeição genérica existente sobre indivíduos, atitudes ou situações, sem relação específica com a posse de arma proibida ou objeto que constitua corpo de delito de uma infração penal" (HC n. 774.140/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 25/10/2022, DJe de 28/10/2022.)
+No caso, observa-se que a instância ordinária justificou a execução da medida em razão do nervosismo apresentado pelo agente, que após avistar os policiais mudou o trajeto e "acelerou os passos".
+Como se verifica, não houve a indicação de qualquer atitude concreta que apontasse estar o recorrente na posse de material objeto de ilícito ou na prática de algum crime. Logo, conforme reiterada jurisprudência desta Corte, é ilegal a busca pessoal realizada sem fundadas razões.
+No mesmo sentido, com destaques:
+"1. A referência a elementos subjetivos, como o nervosismo do agravado ao notar a presença dos policiais, não autoriza a busca pessoal sem prévia autorização judicial.
+2. A ilegalidade da prisão em flagrante contamina a prova colhida, esvaziando da denúncia os indícios de materialidade e autoria, justificando, por conseguinte, a imediata interrupção da atividade persecutória estatal.
+3. Mesmo que a idoneidade da prisão em flagrante não tenha sido debatida pelo Tribunal de origem, impõe-se-lhe a revogação como consectário lógico da declaração de nulidade da busca pessoal realizada, que fulminou com as todas provas da materialidade delitiva.
+4. Agravo regimental improvido.
+(AgRg no HC n. 735.387/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 6/12/2022, DJe de 15/12/2022.)
+"1. A ausência de justa causa previamente constatada por parte dos agentes responsáveis pela diligência policial a respeito da presença de fundadas razões para a realização de busca pessoal invalida as provas obtidas a partir da medida.
+2. Neste caso, as circunstâncias que antecederam a medida invasiva não permite que se conclua pela presença de elementos de suporte suficiente para justificar a adoção da medida invasiva. A alegação de que o abordado demonstrou nervosismo durante a ação policial, circunstância que não atende à exigência de constatação de elementos prévios e tangíveis da ocorrência de crime para dar amparo à diligência.
+3. Esta Corte tem declarado ilícitas as provas derivadas da prisão em flagrante ocorridas em contexto fático semelhante ao ocorrido na hipótese apresentada nestes autos, em que a entrada forçada em domicílio não foi precedida de prévia constatação, para além da dúvida razoável, da ocorrência de crime permanente no interior do imóvel.
+4. Agravo regimental não provido."
+(AgRg no HC n. 771.337/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+Dessarte, "Não houve a indicação de nenhum dado concreto e objetivo sobre a existência de justa causa para autorizar a busca pessoal, tampouco o ingresso na residência, visto que o fato de o suspeito aparentar nervosismo diante da aproximação dos policiais (parâmetro subjetivo dos agentes policiais) não constitui fundamento idôneo para autorizar a busca pessoal e a violação de domicílio." (AgRg no RHC n. 174.063/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023.).
+Sob tal contexto, uma vez amparado o édito condenatório exclusivamente em prova obtida de busca pessoal ilegal, tornam-se nulas as demais provas dela derivadas, o que impõe a absolvição do recorrente pela falta de comprovação da materialidade do delito de tráfico de drogas.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de absolver o recorrente na Ação Penal n. 0341190-52.2023.8.13.0024, com amparo no art. 386, II, do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
