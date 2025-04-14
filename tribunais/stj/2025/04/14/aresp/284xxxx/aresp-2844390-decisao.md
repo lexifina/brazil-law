@@ -1,0 +1,36 @@
+DECISÃO
+Na origem, trata-se de ação previdenciária interposta por Belchor Nogueira Furtado contra o Instituto Nacional do Seguro Social - INSS, com o objetivo de promover a Implantação de Benefício Previdenciário - Aposentadoria Rural por Idade em seu favor. Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. O valor da causa foi fixado em R$ 998,00 (novecentos e noventa e oito reais).
+O recurso especial, fundamentado no art. 105, III, a , da Constituição Federal, foi interposto no TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO contra acórdão com o seguinte resumo de ementa:
+PREVIDENCIÁRIO - APOSENTADORIA POR IDADE RURAL - REQUISITO ETÁRIO PREENCHIDO - INÍCIO DE PROVA MATERIAL COMPLEMENTADO PELA PROVA TESTEMUNHAL.
+1. A implantação da aposentadoria por idade depende de prova de idade mínima e do efetivo exercício da atividade rural, ainda que de forma descontínua, por tempo igual ao da carência exigida para a sua concessão.
+2. O prazo de carência varia de acordo com a tabela progressiva do artigo 142, da Lei Federal nº. 8.213/91, que leva em consideração o ano no qual o rurícola completou os requisitos para a concessão do benefício. A partir de 31 de dezembro de 2010, aplica-se a carência de 180 meses, nos termos do artigo 25, inciso II, da Lei Federal n.º 8.213/91 e da Lei Federal nº. 9.063/95.
+3. Conforme jurisprudência do Superior Tribunal de Justiça firmada em regime de julgamentos repetitivos, deve-se provar o exercício da atividade rural em momento imediatamente anterior ao implemento do requisito etário (1ª Seção, R Esp nº 1.354.908/SP, Rel., j. 09/09/2015, D Je: 10/02/2016, Rel. Min. MAURO CAMPBELL MARQUES).
+4. O art. 55, § 3º, da Lei Federal nº 8.213 estatui que a comprovação do tempo de serviço rural somente produzirá efeito quando baseada em início de prova material, não sendo admitida prova exclusivamente testemunhal. Nesse sentido, a Súmula nº 149 do Superior Tribunal de Justiça.
+5. Nos termos de orientação do Superior Tribunal de Justiça, em regime de repetitividade, a falta de prova do labor rural implica a extinção do processo, sem a resolução do mérito: (Corte Especial, R Esp. 1.352.721/SP, j. 16/12/2015, D Je: 28/04/2016, Rel. Min. NAPOLEÃO NUNES MAIA FILHO). 6. A documentação apresentada constitui início de prova material em favor da parte autora.
+7. As testemunhas, por sua vez, confirmaram o exercício de trabalho rural, pela parte autora, p . or tempo suficiente ao preenchimento da carência
+8. A concessão do benefício é regular.
+9. Apelação não provida.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+A parte autora, ora recorrida, completou 60 anos em 2017. De acordo com o disposto no artigo 142 da LB, a carência exigida corresponde a 180 meses.
+Para comprovar o exercício de atividade rural, juntou os seguintes documentos, os quais passo a examinar:
+Notas fiscais referente a produtos rurais datadas de 2010 a 2012 (fls. 35/39, ID 265444865).
+Escritura de venda e compra do imóvel rural, em que consta a parte autora como vendedor de propriedade rural (fls. 16/25, ID 265444865);
+Os demais documentos mencionados na sentença, tais como o contrato particular de arrendamento rural, de 2014 e declarações anuais de produtor rural, do mesmo ano, constituem prova plena do exercício de atividade rural.
+ ..
+Conforme relatado, o embargante afirma que o v. acordão, ao deixar assente que a concessão de aposentadoria rural prescinde da comprovação de que a área rural não ultrapasse o limite de 4 módulos fiscais, acabou por violar a lei federal.
+Sobre a questão, o egrégio Superior Tribunal de Justiça, ao julgar o Tema repetitivo 1115, firmou a seguinte tese:
+"O tamanho da propriedade não descaracteriza, por si só, o regime de economia familiar, quando preenchidos os demais requisitos legais exigidos para a concessão da aposentadoria por idade rural".
+ ..
+Conforme assentado no v. acórdão, ora hostilizado, os documentos apresentados pela parte autora confirmaram o exercício de atividade rural por período suficiente ao preenchimento da carência. Assim, foram satisfeitos os requisitos para a concessão do benefício previdenciário de aposentadoria por idade rural.
+Não há violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 3º, I da Lei nº 11.326/06), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
