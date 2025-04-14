@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 08/04/2025 a 14/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE A JUSTIFICAR A CONCESSÃO DA ORDEM DE OFÍCIO. AGRAVO IMPROVIDO.
+1. Não se admite a impetração de habeas corpus em substituição ao recurso próprio, exceto quando verificada de plano a existência de flagrante ilegalidade, que não se verifica no caso dos autos.
+2. A decisão impugnada está devidamente fundamentada nas provas produzidas ao longo da instrução, observando corretamente os parâmetros adotados pelo STJ quanto à dosimetria da pena.
+3. Não há ilegalidade no acórdão impugnado em relação ao reconhecimento da materialidade e autoria delitivas, nem na fase da dosimetria da pena, a justificar a concessão da ordem de ofício.
+4. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSÉ GLEIDSON BARBOSA DA SILVA contra a decisão que não conheceu do habeas corpus, por ser substitutivo de recurso.
+O agravante aduz a possibilidade de se conhecer do habeas corpus substitutivo de recurso, afirmando a existência de precedentes nesse sentido.
+Acrescenta que a condenação é ilegal, pois não foram produzidas provas suficientes para a condenação, aduzindo, ainda, que a conduta seria atípica, bem como que teria havido equívoco na dosimetria da pena.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. UTILIZAÇÃO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE A JUSTIFICAR A CONCESSÃO DA ORDEM DE OFÍCIO. AGRAVO IMPROVIDO.
+1. Não se admite a impetração de habeas corpus em substituição ao recurso próprio, exceto quando verificada de plano a existência de flagrante ilegalidade, que não se verifica no caso dos autos.
+2. A decisão impugnada está devidamente fundamentada nas provas produzidas ao longo da instrução, observando corretamente os parâmetros adotados pelo STJ quanto à dosimetria da pena.
+3. Não há ilegalidade no acórdão impugnado em relação ao reconhecimento da materialidade e autoria delitivas, nem na fase da dosimetria da pena, a justificar a concessão da ordem de ofício.
+4. Agravo regimental improvido.
+VOTO
+Conforme consignado na decisão agravada, não se admite a impetração de habeas corpus em substituição ao recurso próprio, exceto quando verificada de plano a existência de flagrante ilegalidade, que não se observa no caso dos autos.
+Com efeito, acerca da alegação de ausência de provas para a condenação, no procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Não há, ademais, nenhuma ilegalidade no acórdão impugnado, seja em relação ao reconhecimento da materialidade e autoria delitivas, seja na fase da dosimetria da pena.
+Confiram-se os trechos do acórdão impugnado (fls. 51-58):
+Não há razões para desconsiderar a prova oral. A condição de policiais, por si só, não é suficiente para o afastamento do seu valor probatório. Afinal, o sistema processual não se filiou ao modelo da prova tarifada no qual os meios de prova registram valores pré-fixados. Ao contrário, a legislação filou-se ao princípio do livre convencimento racional. Assim, cabe ao julgador avaliar, com liberdade, as provas, confrontando-as com o quadro formado.
+ ..
+As provas colhidas conferem suporte aos termos da denúncia. A dinâmica delituosa foi detalhada, de forma coerente, pelos corréus RONILDO e RAFAEL, bem como pelas testemunhas Fábio, Claudinei e Diego, demonstrando que os vidros foram comercializados de forma clandestina e recebidos por BRUNO e pelo REQUERENTE. A negativa do requerente restou ilhada em relação às demais provas coligidas nos autos.
+O crime de receptação restou devidamente demonstrado. Conforme esclarecimentos prestados por Fábio, tanto BRUNO quanto o ora requerente disseram comercializar qualquer vidro ele precisasse, situação incompatível com a comercialização de produtos com imperfeição, realizada em circunstância sabidamente excepcional. Ademais, ainda que a empresa vítima produzisse vidros em larga escala, não é plausível que possuísse em estoque os mais variados tipos de vidro para os mais variados tipos de veículos, a ponto de permitir a pronta entrega.
+Por fim, o próprio Fábio disse que não foi informado sobre as pequenas avarias no produto, que permitiriam a sua classificação como "refugo". Nesse sentido, observa-se que um dos vidros destinados ao veículo VW/Tiguan foi quebrado e imediatamente outro foi produzido em seu lugar, permitindo concluir que BRUNO e o requerente estavam em conluio com RONILDO e RAFAEL para a fabricação e venda de vidros blindados de forma clandestina.
+O alegado desconhecimento relatado pelo requerente quanto à exigência de informações acerca de carros blindados pelo Exército Brasileiro não convence. Afinal, detinha experiência no ramo, de modo que possuía conhecimento de todas as especificidades e exigências que gravitavam em torno da fabricação e comercialização daquela mercadoria. Some-se a tal circunstância a ausência de QR- CODE nos vidros, de nota fiscal da mercadoria e da ausência de emissão de nota fiscal pelo próprio requerente. As irregularidades, manifestas que eram, não permitiriam qualquer alegação de ignorância quanto à origem ilícita dos bens. Ao contrário, o requerente estava plenamente ciente quanto à origem espúria dos bens.
+Nessa perspectiva, a afirmação da procedência da ação penal supôs análise detida dos elementos de prova que foram colhidos ao longo de toda a persecução. Ao final, obteve-se a certeza positiva em relação aos termos da imputação e, portanto, do envolvimento do alinhamento objetivo e subjetivo do requerente no crime de receptação tal como imputado na peça acusatória.
+ ..
+Não há ilegalidade no aumento operado na basilar. A d. defesa alega que o aumento da pena-base se deu em razão do fato de haver comercialização do objeto, sendo que a mesma circunstância foi considerada como qualificadora, o que ensejaria a ocorrência de bis in idem. Razão não lhe assiste.
+A finalidade mercantil serviu de base para a afirmação da forma qualificada da receptação. Por outro lado, a maior reprovabilidade, justificadora do aumento da pena base, deu-se em razão da natureza dos produtos e do controle exercido pelo Exército Brasileiro. Reconheceu-se, assim, o prejuízo não só da empresa-vítima, mas também da própria coletividade. As razões invocadas, que guardam independência lógica, mostraram-se legítimas para a afirmação de uma maior reprovabilidade e, portanto, para o aumento da basilar. Nesse ponto, nunca é por demais rememorar a discricionariedade regrada que cerca o processo de dosimetria penal. No caso dos autos, não há ilegalidade nos critérios adotados. O aumento, note-se, deu-se na razão de 1/8 da pena-base, o que levou à pena de 03 (três) anos, 04 (quatro) meses e 15 (quinze) dias de reclusão, além de 11 (onze) dias multa.
+Não foram vislumbradas agravantes ou atenuantes.
+Na terceira etapa, afirmada a continuidade delitiva e o reconhecimento de três receptações, aplicou-se o aumento de 1/5, perfazendo o total de 04 (quatro) anos e 18 (dezoito) dias de reclusão, e o pagamento de 13 dias-multa. O aumento observou os critérios de individualização indicados pelo Superior Tribunal de Justiça.  ..
+O acórdão impugnado, conforme se depreende dos trechos transcritos, além de ter sido suficientemente fundamentado nas provas produzidas ao longo da instrução, observou corretamente os parâmetros adotados pelo Superior Tribunal e Justiça n o que tange à dosimetria da pena.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
