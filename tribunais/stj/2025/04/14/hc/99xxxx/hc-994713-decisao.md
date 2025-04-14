@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de ANA RITA LIMA DO CARMO MARQUES, condenada às penas de 11 anos e 8 meses de reclusão em regime inicial fechado, como incursa no art. 121, § 2º, II e III, c/c os arts. 29, § 1º, e 65, III, d, do Código Penal (Processo n. 5002107-06.2021.8.21.0043, da 1ª Vara Judicial da comarca de Cerro Largo/RS).
+Aponta-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, em razão do julgamento da apelação criminal (fls. 11/20).
+Alega-se que houve violação do direito ao silêncio da paciente, em afronta ao art. 478, II, do Código de Processo Penal, o que configuraria nulidade absoluta da sessão plenária.
+Sustenta-se que a decisão de segundo grau alterou indevidamente a fração de diminuição da pena pela participação de menor importância, prevista no art. 29, § 1º, do Código Penal, sem fundamento válido.
+Requer-se, em liminar, a suspensão dos efeitos da condenação até o julgamento do presente writ. No mérito, busca-se a concessão do habeas corpus para declarar a nulidade da sessão de julgamento e determinar sua renovação, ou para restabelecer a fração de 1/3 para a diminuição da pena.
+Estes autos foram a mim distribuídos por prevenção de Turma.
+É o relatório.
+O writ é manifestamente inadmissível.
+O presente habeas corpus é sucedâneo de revisão criminal. Não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela paciente, é forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Aliás, a jurisprudência dos Tribunais Superiores não tem admitido o ajuizamento do habeas corpus como substitutivo do meio próprio de impugnação, como meio de subverter o sistema processual penal.
+Ademais, aqui a compreensão é de que não se afasta qualquer nulidade quando não está comprovado nenhum prejuízo ao paciente. Nesse aspecto, vale destacar que a via estreita do habeas corpus (ou de seu recurso ordinário), não permite o aprofundado exame do acervo fático-probatório, única providência cabível para se concluir pela configuração das nulidades aduzidas, haja vista que não foi apontada, de plano, qual teria sido, concreta e efetivamente, o prejuízo suportado pelo paciente. Nesta sede, a Defesa não indicou eventual linha de defesa diversa que poderia ter sido adotada, caso a nulidade suscitada no presente writ fosse reconhecida, ou de que forma a renovação do ato processual beneficiaria o ora paciente. Tais circunstâncias afastam a ocorrência de prejuízos à Defesa e impedem o reconhecimento da nulidade arguida (AgRg no HC n. 691.007/BA, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 26/11/2021).
+E a condenação, por si só, não é geradora de prejuízo, cabendo ao agente demonstrar que, caso não tivesse ocorrido a nulidade, acarretaria a absolvição criminal ou a desclassificação da conduta, hipótese não ocorrida nos autos (AgRg no AREsp n. 2.192.337/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/8/2023, DJe de 15/8/2023) - (AgRg no HC n. 837.330/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/3/2024).
+A via eleita não é a adequada para afastar estas conclusões do Tribunal estadual (fls. 12 e 18):
+ ..
+Inobstante o inconformismo esteja devidamente registrado em ata, não constato que quaisquer das falas ministeriais trazidas pela defesa em suas razões recursais sejam suficientes para configurar crítica ao silêncio optado pela ré (e ofensa, portanto, ao seu direito) ou mesmo argumento de autoridade capaz de influenciar na decisão do Conselho de Sentença.
+Além disso, não vislumbro comprovação de inequívoco prejuízo à defesa, ou seja, de que a condenação operada pelos Jurados tenha sido influenciada pela fala do promotor, especialmente porque existente respaldo probatório contundente apontando a autoria delitiva à acusada (conforme será a seguir esmiuçado).
+ ..
+O parquet pretende que a mesma incida em fração mais gravosa (1/6) do que a fração máxima adotada (1/3), o que merece prosperar, especialmente quando considerado que, da prova testemunhal colhida, tem-se que a ré Ana Rita, apesar de não ter sido a autora efetiva dos golpes de faca, segurava a vítima, de forma a ajudar o corréu a imobilizá-la, participando de forma ativa naquele ato cruel (no qual, reitero, quase houve a decapitação total da ofendida).
+Assim, em que pese tenha sido reconhecido, pelos Jurados, que a participação da ré foi de menor importância, entendo que a sua colaboração para o ilícito foi relevante, sendo, por esta razão, adequada a diminuição da pena na fração mínima de 1/6 (um sexto).
+ ..
+Também, no que diz respeito à fração de redução fixada a título de participação de menor importância, a impetração exige o revolvimento do conjunto de provas dos autos principais, providência de todo incompatível com o writ constitucional. Sobre o tema, por exemplo, o AgRg no HC n. 809.916/SC, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Sexta Turma, DJe 30/8/2023.
+Indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. ACÓRDÃO DA APELAÇÃO TRANSITADO EM JULGADO NA ORIGEM. MANDAMUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. VIOLAÇÃO DO DIREITO AO SILÊNCIO. NULIDADE. INEVIDÊNCIA. FALTA DE DEMONSTRAÇÃO DO PREJUÍZO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. FRAÇÃO DE REDUÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE.
+Petição inicial indeferida liminarmente.
