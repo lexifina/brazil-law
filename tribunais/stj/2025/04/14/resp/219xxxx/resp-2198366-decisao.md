@@ -1,0 +1,36 @@
+DECISÃO
+JOSE ALEXANDRE PINHEIRO DOS SANTOS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 5001707-39.2023.8.21.0037.
+Depreende-se dos autos que o réu foi condenado a 6 anos, 1 mês e 15 dias de reclusão, em regime fechado, mais 30 dias-multa, pela prática do crime previsto no art. 155, § 4º, I, do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de ajustar a pena para 4 anos, 7 meses e 13 dias de reclusão.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou os arts. 158, caput, 159, § 1º, 171, do CPP, ao argumento de que o rompimento de obstáculo somente pode ser comprovado por meio de laudo de constatação direta, que não consta nos autos.
+Requer seja afastada a forma qualificada do furto.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+A materialidade e a autoria delitivas foram bem analisadas pela ilustre Juíza de Direito, Dra. Barbara Pereira Saraiva, ao proferir a sentença, não sendo verificada qualquer inovação em sede de apelação em relação aos pontos analisados em primeiro grau, pelo que adoto seus fundamentos para evitar inútil tautologia  ..
+No caso concreto, não foram apontadas irregularidades ou insuficiência técnica dos autos de exames lavrados pela polícia judiciária - e firmados por diversos servidores. Mesmo que assim não fosse, no caso concreto, a vítima e as testemunhas visualizaram a destruição de obstáculos, consistentes em dois cadeados e na caixa registradora do estabelecimento. Ou seja, restam plenamente demonstrados os elementos aptos a configurar a qualificadora dos delitos em tela.
+Com efeito, como se verifica da prova produzida e bem concluiu a sentença, plenamente demonstradas a materialidade e a autoria do delito de furto qualificado, tendo o acusado, em duas oportunidades (17.01.2023 e 21.01.2023), após arrombar o cadeado da porta do estabelecimento comercial, subtraído valores em espécie do caixa do local, nos termos da prova oral produzida, bem como diante do relatório de investigação do evento 2, REL_FINAL_IPL1, fl. 08, corroborado pelo depoimento da testemunha Mateus, delegado da Polícia Civil, que reconheceu, sem qualquer dúvida, o acusado em audiência, referindo, inclusive, que se trata de indivíduo muito conhecido pelos policiais civis, em razão de outros delitos perpetrados no município, corroborados pelas filmagens obtidas através do sistema de vigilância do local dos fatos, nas quais é possível se verificar ser ele o autor dos delitos  ..
+Comprovada a qualificadora do rompimento de obstáculo, nos termos do auto de constatação indireta de dano (evento 2, REL_FINAL_IPL1, fl. 16), no qual consta que houve dano no cadeado da porta de acesso, e da prova oral produzida.
+Quanto ao auto de constatação, trata-se de verificação que não apresenta qualquer complexidade, nem necessita de qualificação técnica específica ou formação superior da pessoa nomeada para sua realização, podendo, inclusive, ser demonstrada por outros meios de prova, quando desaparecidos seus vestígios (art. 167 do Código de Processo Penal).
+Ademais, reiterados os julgados deste Tribunal de Justiça, inclusive, do 4º Grupo Criminal, no sentido de que o fato de o auto de constatação de furto qualificado ter sido confeccionado de forma indireta não o invalida, eis que autorizado, expressamente, pelo art. 158 do Código de Processo Penal
+(fl. 215-217, destaquei)
+Relativamente à qualificadora, no julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+Naquela oportunidade, empreendi análise mais aprofundada do tema, com proposta de modificação de entendimento predominante no STJ, mas a Sexta Turma o reiterou.
+A partir de então, com a ressalva de minha posição pessoal, aderi à orientação do colegiado, que considera imprescindível, como regra, o exame pericial para constatação da escalada e do rompimento de obstáculo, ressalvado o aproveitamento de outros meios de prova quando não subsistirem ou não foram suficientes os vestígios materiais para a confecção do laudo.
+Recentemente, julgados de ambas as Turmas da Terceira Seção excetuaram a imprescindibilidade do laudo pericial quando evidenciados o rompimento de obstáculo e a escalada por meio de fotos, vídeos ou prova oral - principalmente a confissão:
+ ..
+II - Excepcionalmente, quando presentes nos autos elementos aptos a comprovar o rompimento de obstáculo de forma inconteste, é possível o suprimento da prova pericial, como na hipótese dos autos, no qual restou comprovada pelo depoimento da vítima e do testemunho do policial que atuou na ocorrência, o arrombamento da parede lateral esquerda do imóvel para a prática dos fatos apurados nos autos.
+III - Com efeito, "Firme nesta Corte o entendimento de que "excepcionalmente, quando presentes nos autos elementos aptos a comprovar a escalada de forma inconteste, pode-se reconhecer o suprimento da prova pericial  .. "(AgRg no HC n. 556.549/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/3/2021)" (AgRg no HC n. 691.823/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 30/9/2021). Na hipótese, a qualificadora foi reconhecida com base em prova oral, pelos depoimentos colhidos em ambas as fases processuais, e pela confissão do próprio réu" ( AgRg no REsp n. 1.985.419/MT, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 1/12/2022).
+Agravo regimental desprovido.
+(AgRg no REsp n. 2.020.187/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 8/8/2023, DJe de 16/8/2023, grifei.)
+ ..
+1. A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que, embora a prova técnica seja, em regra, necessária para a comprovação da materialidade das qualificadoras previstas no art. 155, § 4.º, incisos I e II, do Código Penal, excepcionalmente, se cabalmente demonstrada a escalada ou o rompimento de obstáculo por meio de outras provas, o exame pericial pode ser suprido.
+2. In casu, o Tribunal a quo reconheceu o rompimento de obstáculo por entender que, além da confissão do Corréu, os depoimentos da Vítima e de outras testemunhas, bem como as fotos acostadas aos autos, comprovam a qualificadora.
+ ..
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.295.606/DF, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 20/2/2024, DJe de 27/2/2024, destaquei.)
+Na espécie, apesar de não realizada perícia técnica direta, o rompimento do cadeado que guarnecia o imóvel da vítima foi comprovado pelo depoimento da vítima e das testemunhas, bem como pelo laudo e exame elaborado por policiais, de forma coerente e convincente.
+Portanto, não há razões para afastar a forma qualificada do furto.
+Diante do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
+EMENTA
