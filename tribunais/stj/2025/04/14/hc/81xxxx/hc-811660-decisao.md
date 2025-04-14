@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de GABRIEL CORREA DOS ANJOS, contra julgado do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no HC n. 2297038-28.2022.8.26.0000.
+Consta dos autos que o paciente foi condenado pelo Tribunal do Júri como incurso nas sanções do artigo 121, § 2º, incisos II e IV, e no artigo 211, na forma do artigo 69 todos do Código Penal à pena de às penas de 16 anos e 04 meses de reclusão, no regime inicial fechado.
+Conforme informado, houve o trânsito em julgado da condenação (fl. 354).
+Neste habeas corpus, sustenta a Defesa que houve violação ao art. 474, § 3º, do CPP, bem como à Súmula Vinculante nº 11 do STF, eis que, durante os debates do plenário, o paciente permaneceu sob o uso de algemas, o que teria influenciado os jurados em seu desfavor.
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de que seja determinada a submissão do paciente a novo julgamento, sem o uso de algemas.
+Decisão que indeferiu a liminar, às fls. 347/348.
+Informações prestadas pelo Tribunal impetrado, às fls. 354/362.
+Parecer do MPF, às fls. 439/444, onde se manifesta pela extinção do writ sem resolução do mérito ou pela denegação da ordem.
+É o relatório. DECIDO.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Este Superior Tribunal de Justiça possui entendimento de que o emprego de algemas é excepcional, sendo que a sua utilização depende de motivada decisão judicial, como ocorreu na presente hipótese.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO AVRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. NULIDADE. USO DE ALGEMAS. DECISÃO FUNDAMENTADA. AUSÊNCIA DE PREJUÍZO.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso, não há falar em nulidade do ato, porquanto há fundamentação concreta para o uso de algemas, tendo em vista a recomendação da escolta policial, bem como as condenações anteriores por crimes de roubo e ameaça, sem falar na verificada ausência de prejuízo para a defesa  ..  (AgRg no AREsp 2594378 / PR, Rel. Ministro Joel Ilan Paciornik, Quinta Turma julgado em 13/08/2024).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. (..) USO DE ALGEMAS.
+VIOLAÇÃO À SÚMULA VINCULANTE N. 11 DO STF. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO DESPROVIDO.  ..
+2. Este Superior Tribunal de Justiça possui entendimento de que o emprego de algemas é excepcional, sendo que a sua utilização depende de motivada decisão judicial, como ocorreu na presente hipótese.  ..  (AgRg no HC 825545 / SP, Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/08/2023)
+Na presente hipótese, extrai-se do acórdão impetrado a seguinte justificativa para o uso das algemas durante a sessão plenária que culminou na condenação do paciente (fls. 333-340):
+ ..  Isso delineado, verifica-se que, em sessão plenária, o MM Juiz Presidente pontuou que:
+Tendo em vista o teor da Súmula Vinculante n.º 11, determino seja mantida a imobilização do(s) réu(s) por algemas, porquanto, durante a presente audiência, serão inquiridas testemunhas cujos depoimentos poderão influir no ânimo do(s) acusado(s), o que gera natural apreensão em todos os que dela estão participando, de qualquer forma, considerando a real possibilidade de reação intempestiva e imprevisível do(s) preso(s), que, como qualquer ser humano, aspira por sua liberdade. De mais a mais, deve ficar aqui registrado que existe notícia de que o acusado integra organização criminosa. Desse modo, eventual insurgência do réu preso comprometerá a segurança de todos que aqui estiverem, na qualidade de funcionários, advogados, promotores de justiça, usuários dos serviços judiciários em geral e juízes, haja vista a insuficiência de efetivo policial a garantir que todos os réus presos, presentes às audiências sem algemas, não venham a causar transtornos por meio de atitudes agressivas motivadas pelo desejo de intimidação, de represália ou mesmo de alcançar a liberdade pela força.  ..
+Nesse contexto, não se constata ausência de fundamentação idônea, ponderado que, como orienta a Alta Corte, o que a Constituição exige, no inc. IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada, certo que o fato de ter sido contrário aos interesses da parte não configura ofensa ao referido dispositivo constitucional. STF: AgReg no AI 387.318, 2ª Turma, rel. Min. Carlos Veloso, j. 13.8.2002 (www.stf.jus.br). STF: RE 566.087, rel. Min. Ellen Gracie, j. 8.10.2010 (www.stf.jus.br).
+Outrossim, assiste razão ao MM Juízo a quo, porquanto a Súmula Vinculante/STF 11, d.m.v., não proíbe o uso de algemas, expressamente ressalvando quando isso poderá ocorrer:  .. .
+Verifica-se portanto que o magistrado de primeiro grau aduziu fundamentação adequada para decidir pela manutenção do uso de algemas, diante da necessidade de preservar a segurança de todos os envolvidos no julgamento, haja vista ter sido noticiado que o paciente compunha perigosa organização criminosa.
+Firmada a decisão em fundamentação idônea, não há que se falar em violação ao art. 474, § 3º, do CPP, tampouco à Súmula Vinculante nº 11 do STF.
+Ante o exposto, inevide nte qualquer coação ilegal que desafie a concessão da ordem de ofício, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
