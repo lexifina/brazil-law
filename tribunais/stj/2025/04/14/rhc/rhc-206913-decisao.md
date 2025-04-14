@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por PRISCILA NATALIA VIANA DE SOUZA cont ra ato do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+No presente recurso , a Defesa requer em suma:
+ .. Liminarmente, a fim de que seja restituída a liberdade dos pacientes, RELAXANDO a prisão por ser a prisão manifestamente ilegal, pois foi decretada de ofício violando o disposto no artigo 311 do CPP e o princípio acusatório, bem como diante da ausência de fatos recentes e contemporâneos (artigo 315, § 1º do CPP) e da proporcionalidade entre a medida cautelar e o resultado do processo; REVOGANDO a prisão para (e-STJ Fl.38) substitui-la por cautelares diversas da prisão, diante da primariedade dos pacientes, da ausência de reiteração delitiva, da natureza do delito e da necessidade/adequação das cautelares diversas da prisão (artigo 282, I e II e § 6º do CPP, expedindo-se os respectivos alvarás de soltura; 2) a concessão, ao final e em definitivo, da ordem pleiteada liminarmente, após regular processamento deste writ; 3) o prequestionamento de todos os dispositivos legais e inconstitucionais violados citados nos fundamentos acima expostos, caso eventualmente tais teses sejam debatidas nos tribunais superiores. 4) que sejam observadas as prerrogativas funcionais dos membros da Defensoria Pública, notadamente a concessão de prazo em dobro e intimação pessoal mediante entrega dos autos .. .
+Compulsa ndo os autos , a Secretaria deste Gabinete constatou no Banco Nacional de Medidas Penais e Prisões (BNMP 3.0) que a Recorrente se encontra liberdade em relação a este feito.
+Nesse contexto, verifico que o presente writ perdeu totalmente o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se
+EMENTA
