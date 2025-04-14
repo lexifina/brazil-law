@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ERICK MUSSI à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Nobre Julgador, Observando a decisão, ocorreu uma contradição, com isso precisa ser sanada. Primeiramente, a fundamentação da Resp não foi só em súmula, mas também na violação da na Lei 8009/1990 que dispõe em seu artigo 1º, na qual se trata de bem de família e NOVAS PROVAS (que não foram apresentadas anteriormente) que confirma que é bem de família, conforme art. 435 e seu parágrafo único do Novo Código de Processo Civil, e não foi valorada, dando interpretação diversa que ocorreu a violação ao princípio da dialeticidade.
+ ..
+Como pode ser observado, Nobre Ministro, a fundamentação não foi só em súmula, e ocorreu sim a impugnação especifica, e demonstrando que não ocorreu a ofensa ao princípio da dialeticidade, a Resp é bem objetiva e especifica nesse sentindo.
+Com isso, Douto Ministro, com o devido respeito, a presente decisão, se encontra totalmente contraditório, caracterizando a contradição, na qual deve ser sanada.
+Conforme impõe o art. 1.022 Caberão embargos de declaração contra qualquer decisão judicial, no prazo de cinco dias, devendo seu julgamento ocorrer na primeira audiência ou sessão subseqüente a sua apresentação, registrado na certidão, admitido efeito modificativo da decisão no caso de contradição no julgado e manifesto equívoco no exame dos pressupostos extrínsecos do recurso."
+Desta forma, requer a modificação em relação a contradição, dando efeito infringente (fls. 149/150).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A contradição passível de ser eliminada via embargos de declaração é aquela existente entre os fundamentos da decisão embargada ou entre seus fundamentos e o dispositivo.
+A decisão de fls. 143/146 não tem contradição, porquanto analisou e decidiu acerca das razões apresentadas no recurso especial. Não só afastou a alegação de violação às súmulas tidas por violadas, o que atrai o óbice disposto na Súmula nº 518/STJ, mas também decidiu sobre à alegada ofensa aos arts. 1º da Lei nº 8.009/1990 e 435, parágrafo único, do CPC, tendo concluído pela incidência da Súmula 284/STF, haja vista que os argumentos apresentados no recurso especial não impugnaram os fundamentos e a solução do acórdão proferido pelo Tribunal a quo, no qual tão somente se decidiu pela falta de dialeticidade entre as razões do agravo de instrument o e a decisão que entendeu por preclusa a alegação de impenhorabilidade do bem de família.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Di to isto, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
