@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por OTAVIO MIGUEL SANTOS DE SOUZA contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. º 1419584-24.2024.8.12.00).
+Extrai-se dos autos que o recorrente foi preso em flagrante na data de 17/05/2024, custódia posteriormente convertida em preventiva, tendo sido denunciado pela suposta prática dos crimes tipificados nos arts. 121, caput e §2º, incisos I, III e IV e 211, ambos do Código Penal (fls. 35/39).
+A Defesa impetrou habeas corpus na Corte de origem, mas a ordem foi denegada.
+Nesta insurgência, o recorrente sustenta, em síntese, a ocorrência de constrangimento ilegal em razão do excesso de prazo para a formação da culpa, aduzindo que está preso há mais de 6 (seis) meses, sem a realização da audiência de instrução e julgamento, o que viola o princípio da razoável duração do processo e do devido processo legal.
+Destaca que a pluralidade de réus não justifica a inércia estatal para realizar a citação dos acusados, que, no caso, levou cerca de 4 (quatro) meses para ser realizada.
+Defende que a segregação cautelar não pode ser utilizada como medida de antecipação da pena.
+Afirma que a medida extrema foi adotada apesar de ser suficiente e adequada a imposição de medidas cautelares diversas.
+Aduz que a manutenção da prisão preventiva sem fundamentação somada à ocorrência de excesso de prazo violam o direito a liberdade do recorrente.
+Salienta que o réu possui condições pessoais favoráveis, as quais seriam suficientes à concessão de liberdade.
+Requer, liminarmente e no mérito, o relaxamento ou revogação da prisão cautelar do recorrente.
+O pedido liminar foi indeferido (fls. 154/155).
+As informações foram prestadas (fls. 161/178 e 186/188).
+O Ministério Público Federal, às fls. 189/195, manifestou-se pelo não provimento do recurso, recomendando a revisão da custódia do recorrente, nos termos previstos no art. 316 do Código de Processo Penal.
+É o relatório.
+DECIDO.
+De início, registro que o Tribunal local não conheceu das alegações relativas à inexistência de fundamentação para a manutenção da prisão preventiva do recorrente, por considerar mera reiteração dos argumentos já analisados por ocasião do julgamento do habeas corpus n. 1410142-34.2024.8. 120000, restringindo-se a analisar a tese relativa à existência de excesso de prazo.
+Ademais, em consulta ao sistema de informações processuais desta Corte Superior de Justiça, verifiquei que, nos autos do RHC n. 203.654/MS, no que diz respeito à suposta ausência de fundamentação para manutenção da prisão preventiva e que as condições pessoais do réu ensejariam a aplicação de medidas cautelares diversas da prisão, a Defesa formulou idêntica pretensão em favor do mesmo réu. Em decisão prolatada no dia 28/10/2024, neguei provimento ao recurso.
+Como se observa, a presente insurgência, no particular, constitui mera reiteração de pedido anterior - com decisão transitada em julgado no dia 5/11/2024, em que há identidade de partes, de pedido e de causa de pedir.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO POR TRÁFICO DE DROGAS. PRETENSA NULIDADES DAS PROVAS. QUESTÕES APRECIADAS EM ANTERIOR MANDAMUS. REITERAÇÃO DE PEDIDOS. NOVA ANÁLISE. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Constatado que o recurso é mera reiteração de habeas corpus anteriormente impetrado e já decidido, é caso de julgá-lo prejudicado, ante a ausência de interesse recursal, uma vez que a causa de pedir e o pedido são idênticos, além de ambos atacarem o mesmo acórdão ora recorrido" (AgRg no RHC 151.842/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 7/10/2021).
+2. Na hipótese, a pretensa nulidade das provas já foi objeto de análise nos autos do HC n. 883.712/SP, com trânsito em julgado em 15/4/2024.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 929.580/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024).
+No mais, em relação à tese remanescente de constrangimento ilegal em razão do alegado excesso de prazo na formação da culpa, o Tribunal de origem, ao afastar a referida alegação, consignou as seguintes razões (fls. 106/108; grifamos):
+Sobre a questão, anoto que os prazos previstos para formação da culpa devem ser analisados à luz da razoabilidade, eis que não são absolutos, e, por isso, figuram como parâmetros gerais, variando de acordo com as peculiaridades de cada caso.
+Consoante realçado pelo e. Superior Tribunal de Justiça, no julgamento do Habeas Corpus n.º 46.718, de relatoria do Ministro Félix Fischer, "o prazo para a conclusão da instrução criminal não é absoluto, fatal e improrrogável, e pode ser dilatado diante das peculiaridades do caso concreto".
+Nessa esteira, o reconhecimento do excesso de prazo não decorre da mera soma aritmética dos prazos processuais, mas está atrelado à constatação de que a instrução se apresenta estagnada, isto é, inerte injustificadamente, por conta de eventual falha da prestação jurisdicional.
+(..)
+No caso em apreço, de uma análise minuciosa dos autos da ação penal n.º 0801743-27.2024.8.12.0045, que apura a prática de delitos de homicídio e ocultação de cadáver, envolvendo 4 (quatro) réus, verifica-se que não está caracterizada a ocorrência de constrangimento ilegal por excesso de prazo para formação da culpa.
+De fato, o paciente foi preso em flagrante no dia 17/05/2024, a denúncia foi ofertada no dia 03/06/2024 e recebida em 07/06/2024, ocasião em que foi determinada a citação dos réus para a apresentação de defesa prévia.
+O paciente foi citado em 15/10/2024 (f. 254), tendo apresentado resposta à acusação em 21/10/2024 (f. 234/236). Conforme informado pelo magistrado de primeiro grau (f. 87), a audiência de instrução e julgamento não fora designada em razão da ausência de resposta à acusação por todos os réus. O magistrado informou, ainda, que com a recente juntada de resposta à acusação, na data de 11/11/2024 (f. 279/280 dos autos principais) e não havendo outras pendências impeditivas, a audiência será designada.
+Conforme se observa, a alegação de excesso de prazo para formação da culpa não merece acolhimento, porquanto é possível verificar que a ação penal teve seu regular desenvolvimento, não havendo, até então, demora injustificada ou inércia que possa ser atribuída à máquina judiciária.
+(..)
+Logo, inexiste desídia ou descaso do Poder Judiciário que corrobore o alegado constrangimento ilegal por excesso de prazo.
+Do excerto transcrito, observa-se que, ao contrário do alegado pela Defesa, não se evidencia , por ora, excesso de prazo da custódia (que perdura por aproximadamente 10 (dez) meses), considerando a pena em abstrato prevista para os delitos imputados na denúncia ao recorrente (arts. 121, caput e §2º, incisos I, III e IV e 211, ambos do Código Penal), bem como a complexidade do feito, que tramita sob o rito do Tribunal do Júri e envolve pluralidade de réus.
+Ademais, não se constata a ocorrência de desídia estatal na tramitação do feito, notadamente porque, conforme informações prestadas pelo Juízo de primeiro grau às fls. 186/188, em 24/3/2025 foi designada audiência de instrução e julgamento em continuação àquela realizada no dia 12/2/2025, restando, portanto, superada as alegações de excesso de prazo em razão da ausência de realização do referido ato .
+A propósito, confiram-se:
+AGRAVO REGIMENTAL EM RHC. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. RÉU PRONUNCIADO. INCIDÊNCIA DA SÚMULA 21 DO STJ. AÇÃO COM CERTA COMPLEXIDADE (CINCO RÉUS). PROCESSO AGUARDANDO A CONCLUSÃO DE DILIGÊNCIAS REQUERIDAS PELAS PARTES. AUSÊNCIA RETARDOS INJUSTIFICADOS. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+2. Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+3. No caso, a defesa interpôs sucessivos recursos contra a decisão de pronúncia, o que efetivamente oneram o tempo de processamento da ação penal. Ainda, como destacado no acórdão de origem, apesar do cumprimento do decreto prisional em 28/09/2020, a sentença de pronúncia teve seu trânsito em julgado no dia 19 de abril de 2023. Esse contexto informativo atrai a aplicação do enunciado n. 21 da Súmula deste Corte. Ademais, apesar dos recursos e da complexidade do feito, representada pela quantidade de réus (cinco) em crime motivado por questões de tráfico de drogas, não há desídia do Poder Público, visto que, como indicado no parecer ministerial e nas informações prestadas pelo juízo de primeiro grau, "a sessão plenária será designada assim que concluídas as diligências requeridas pelas partes na fase do art. 422 do CPP". Ausência de ilegalidades. Julgados do STJ.
+4. Agravo regimental a que se nega provimento. Recomendação de celeridade.
+(AgRg no RHC n. 190.922/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024; grifamos).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO, TENTATIVA DE HOMICÍDIO QUALIFICADO, RECEPTAÇÃO SIMPLES, ASSOCIAÇÃO CRIMINOSA E FRAUDE PROCESSUAL. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. AUSÊNCIA DE DESÍDIA DO PODER JUDICIÁRIO. FEITO COMPLEXO TRAMITANDO REGULARMENTE. PRINCÍPIO DA RAZOABILIDADE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. A decisão agravada deve ser mantida, pois não restou configurado o excesso de prazo para a formação da culpa, porquanto o prazo de tramitação não traduz, de plano, violação dos princípios da razoabilidade e da proporcionalidade, balizas de aferição da razoável duração do processo.
+2. Trata-se de feito complexo - processo sujeito ao rito especial do Tribunal do Júri, com pluralidade de réus (3) e procuradores distintos, diversidade de condutas delitivas (dois de homicídios qualificados, uma tentativa de homicídio qualificado, uma receptação simples, uma associação criminosa e uma fraude processual), necessidade de expedição de cartas precatórias e diligências para localizar testemunhas faltantes - e inexiste culpa do Judiciário na eventual mora processual, uma vez que o prazo de acautelamento não é considerado excessivo.
+3. Agravo regimental improvido.
+(AgRg no HC n. 780.516/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 15/5/2023, DJe de 18/5/2023; grifamos).
+Ante o exposto, conheço parcialmente do recurso ordinário em habeas corpus e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+ EMENTA
