@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por L.T.M. contra decisão do Tribunal de Justiça do Estado de São Paulo nos autos do Processo 0031052-58.2017.8.26.0506, que inadmitiu o recurso especial com fundamento na Súmula n. 182, STJ.
+O acórdão objeto de recurso especial foi ementado nos seguintes termos (fls. 366-385):
+"Apelação. Lesão corporal de natureza grave. Preliminares. Oferecimento de proposta de suspensão condicional do processo. Impossibilidade. Recusa fundamentada pelo Ministério Público. Quebra da cadeia de custódia. Inocorrência. Preliminares rejeitadas. Mérito. Autoria e materialidade demonstradas. Lesões corporais atestadas no laudo pericial que se coadunam com a narrativa do fato apresentada pela vítima. Condenação mantida. Dosimetria. Redução da pena-base. Possibilidade. Regime inicial aberto. Recurso parcialmente provido."
+Em seu recurso especial, fundado na alínea "a" do inciso III do art. 105 da Constituição Federal, a defesa aponta violação ao art. 89 da Lei 9.099/95 e ao art. 77 do Código Penal, ao argumento de que o recorrente faria jus à proposta de suspensão condicional do processo, tendo em vista o preenchimento dos requisitos legais, sendo indevida a recusa do Ministério Público, porquanto fundada em elementos subjetivos não demonstrados nos autos.
+Aduz, ainda, ofensa aos artigos 158, 158-A e 159 do Código de Processo Penal, sustentando a inexistência de materialidade delitiva e a quebra da cadeia de custódia dos elementos probatórios, notadamente pela ausência de juntada dos exames médicos e relatórios oftalmológicos que serviram de base para a conclusão pericial quanto à lesão grave. Requer, ao final, o reconhecimento da nulidade da condenação e o retorno dos autos ao Ministério Público para oferecimento de proposta de suspensão condicional do processo.
+Apresentadas contrarrazões pelo Ministério Público, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo.
+Instado a se manifestar sobre a controvérsia, o Ministério Público Federal oficiou pelo não conhecimento do agravo (fls. 4872-473).
+É o relatório. DECIDO.
+O agravo não merece ser conhecido.
+Na hipótese dos autos, a decisão do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso especial sob dois fundamentos: (i) deficiência de fundamentação recursal, atraindo a aplicação da Súmula n. 284 do STF; e (ii) necessidade de reexame de matéria fático-probatória, obstado pela Súmula n. 7 do STJ. Apontou-se, ainda, que o recurso não teria enfrentado todos os fundamentos do acórdão recorrido, ensejando a incidência da Súmula 182 do STJ.
+Examinando as razões do agravo, verifico que a parte agravante deixou de impugnar especificamente todos os fundamentos adotados na decisão de inadmissibilidade. O agravante reitera, de forma genérica, os argumentos anteriormente expostos no recurso especial, sem demonstrar concretamente o desacerto da decisão denegatória, tampouco enfrenta, de forma individualizada, os óbices da Súmula 7/STJ e da deficiência na fundamentação recursal.
+Assim, julgo que houve manifesta ofensa ao princípio da dialeticidade, por ausência de impugnação específica e pormenorizada dos fundamentos da decisão agravada, o que inviabiliza o conhecimento deste agravo em recurso especial e enseja a incidência da Súmula n. 182, STJ, a qual dispõe: "é inviável o agravo do art. 545 do CPC
+que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+AgRg no AREsp n. 2.102.665/SP, de minha Relatoria, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023. AgRg na RvCr 5.740/RS, Terceira Seção, Rel. Min. Laurita Vaz, DJe de 3/4/2023.
+Dessa forma, ante a ausência de impugnação específica de um dos fundamentos da decisão agravada, o agravo não pode ser conhecido, nos termos do artigo
+932, III, do CPC, e do artigo 253, parágrafo único, I, do RISTJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso I, do Regimento Interno do ST J, não conheço do agravo em recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
