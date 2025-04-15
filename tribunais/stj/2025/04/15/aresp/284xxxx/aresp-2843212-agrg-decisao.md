@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ANTONIO RAILSON TEIXEIRA RIBEIRO, contra decisão proferida pelo Ministro Presidente que não conheceu do agravo em recurso especial, ao fundamento de irregularidade na representação processual (Súmula n. 115/STJ).
+No presente agravo regimental, a defesa alega que a intimação para regularização da representação processual não exigia expressamente a juntada de procuração com data anterior à interposição do recurso. Sustenta, ademais, que foram apresentados documentos que demonstram a solicitação de poderes em tempo hábil, inclusive com juntada de novo instrumento com data anterior à interposição.
+Requer, com fundamento na regularização superveniente da representação processual, o conhecimento do agravo em recurso especial.
+É o relatório. Decido.
+De início, verifica-se dos autos que a irregularidade na representação processual foi sanada, tendo sido juntada procuração com data anterior à interposição do recurso especial (e-STJ fl. 653) . Diante disso, reconhecida a regularização da representação processual, impõe-se a reconsideração da decisão agravada.
+Em análise ao agravo em recurso especial, vê-se que a matéria suscitada pela defesa demanda revolvimento do conjunto probatório dos autos, a fim de verificar a (in)suficiência dos elementos para a condenação pelo crime previsto no art. 288 do CP. As instâncias ordinárias, por sua vez, fundamentaram a decisão condenatória em provas colhidas sob o crivo do contraditório, notadamente a delação de corréu, depoimentos de policiais e apreensão de bens relacionados ao delito, não sendo cabível nesta instância especial o reexame dessa moldura fática.
+Assim, incide, na hipótese, o óbice da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Com efeito, a orientação jurisprudencial desta Corte Superior é assente no sentido de que "cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a absolver, condenar ou desclassificar a imputação feita ao acusado, bem como a adequada pena-base a ser fixada ao réu, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte" (AgRg no AREsp n. 1.217.373/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/4/2018, DJe de 11/5/2018).
+Ante o exposto, reconsidero a decisão de e-STJ fls. 644/645 e conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
