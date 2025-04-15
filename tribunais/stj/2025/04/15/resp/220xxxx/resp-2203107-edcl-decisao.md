@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Eduardo Correa da Silva Ometto contra decisão de fls. 339/341, na qual se deu provimento ao recurso especial do ora embargado para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração, com o enfrentamento das questões neles apresentadas.
+A parte embargante, em suas razões, sustenta, em síntese, que o Tribunal a quo enfrentou expressamente a argumentação fazendária (cf. fl. 346).
+Aberta vista à parte embargada, foi apresentada impugnação (fls. 355/357).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A irresignação não pode ser acolhida.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de qualquer das deficiências em questão, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, no decisum objurgado, acolheu-se a apontada ofensa ao art. 1.022 do CPC, pois o ora embargado, suscitou, quando da oposição dos aclaratórios no juízo de origem, violação aos arts. 3º, § 3º, e 19 da Lei 7.713/88, nos seguintes termos: "o Fundo de Investimento, em relação ao qual foi realizada a subscrição e integralização de cotas, constitui-se em um condomínio, ente despersonalizado, o que, por si só, afasta sua equiparação à pessoa jurídica e, por consequência, a incidência do art. 23 da Lei 9.249/95 (fundamento legal utilizado pelo acórdão para reformar a sentença e conceder a segurança). Não incidindo, portanto, o referido dispositivo, é de se aplicar o disposto nos arts. 3º, § 3º, e 19 da Lei 7.713/88, que apontam para o efetivo custo do direito utilizado para a integralização das cotas, de modo que haverá tributação pelo IRPF sobre o ganho de capital" (fl. 291). "Assim, os fundos de investimento não se submetem ao art. 23 da Lei 9.249/95, vez que não possuem personalidade jurídica, de modo que afastar os ditames da ADI RFB 7/2007 acaba por violar os arts. 3º, § 3º, e 19 da Lei 7.713/88" (fl. 292). Entretanto, o Tribunal a quo quedou-se silente sobre tal argumentação.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material na decisão embargada, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DEDECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC.OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIALAUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO.EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminara obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte.,
+(EDcl no REsp n. 1.978.532/S relator Ministro Afrânio Vilela, Segunda, DJe de 15/3/2024).
+ANTE O EXPOSTO rejeito os presentes embargos.
+Publique-se.
+EMENTA
