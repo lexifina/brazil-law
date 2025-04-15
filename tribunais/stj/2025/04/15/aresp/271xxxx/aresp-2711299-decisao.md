@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE CAMARAGIBE, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado (fl. 153):
+PROCESSO CIVIL. RECURSO DE APELAÇÃO. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. ENTENDIMENTO SUMULADO PELO STJ (SÚMULA 393). EXISTÊNCIA DE DOCUMENTOS EM OUTRA AÇÃO EM QUE SE RECONHECE QUE 96,6% DA ÁREA TOTAL DO EMPREENDIMENTO ESTÁ LOCALIZADA NO MUNICÍPIO DE RECIFE. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. ILEGITIMIDADE ATIVA DO MUNICÍPIO EXEQUENTE. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 162-175, o recorrente sustenta violação ao art. 914 do Código de Processo Civil, tendo em vista não ser cabível, no caso em tela, a exceção de pré-executividade, porquanto o remédio jurídico que o devedor poderia utilizar para desconstituir o título executivo seria os embargos à execução.
+Aduz, ainda, ofensa ao art. 204 do Código Tributário Nacional, uma vez que, "nas argumentações e provas trazidas pelo executado, inexiste qualquer elemento hábil a infirmar a presunção de veracidade da certidão da dívida ativa, que tem efeito de prova pré-constituída, capaz de originar a execução fiscal para a cobrança da dívida pela Fazenda Pública" (fl. 170).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 191-193):
+De partida, ressalto que, com relação ao art. 914 do CPC, apontado como violado pela parte recorrente, inexistiu entre os julgadores do órgão fracionário deste sodalício, qualquer debate, tampouco foi ele suscitado em sede de embargos de declaração, o que atrai ao presente caso o enunciado das Súmulas nº 282 e 356, ambas do STF, aplicável por analogia, tendo em vista a impossibilidade do Superior Tribunal de Justiça pela primeira vez se pronunciar sobre a sobredita questão federal invocada na via excepcional.
+(..)
+No presente caso, reverter o entendimento da câmara julgadora sobre a possibilidade de cobrança de IPTU pelo Município de Camaragibe, pressupõe o revolvimento do conjunto de fatos e provas, não se fazendo possível por efeito da Súmula 7 do STJ, que dispõe: A pretensão de simples reexame de prova não enseja Recurso Especial.
+Em seu agravo, às fls. 195-202, o agravante sustenta, de modo genérico, que "não se trata de discussão fática, não podendo o Egrégio Tribunal Superior deixar de sem manifestar acerca de fato tão evidente, sendo inaplicável o enunciado da súmula de n. 7, do STJ" (fl. 199).
+No mais, alega que "os dispositivos violados foram debatidos no curso da demanda, uma vez que o juízo de primeiro grau extinguiu a presente execução fiscal com base na ilegitimidade ativa do Município, acolhendo as razões do Executado em Exceção de Pré-executividade" (fl. 199), não tendo que se falar assim em ausência de prequestionamento.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - incidência dos enunciados 282 e 356 da Súmula do STF, em razão da ausência de prequestionamento e (ii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
