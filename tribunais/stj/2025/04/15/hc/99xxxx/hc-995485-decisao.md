@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOHNATHAN LUAN LIMA VIANA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA.
+Depreende-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva em razão da suposta prática dos crimes de desacato, desobediência e resistência (arts. 329, 330 e 331 do Código Penal).
+A fim de reverter a prisão preventiva, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual foi denegado, em aresto assim ementado (e-STJ, fls. 14-16):
+CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA. PACIENTE ACUSADO DE HAVER PRATICADO OS CRIMES DE DESACATO, DESOBEDIÊNCIA E RESISTÊNCIA. INSURGÊNCIA DEFENSIVA.
+1. DA ALEGAÇÃO DE DESNECESSIDADE DA PRISÃO PREVENTIVA E DA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE CUSTÓDIA CAUTELAR. ARGUMENTOS INSUBSISTENTES. PACIENTE PRESO EM FLAGRANTE POR SUPOSTAMENTE NÃO OBEDECER À ORDEM DE PARADA DOS POLICIAIS, QUANDO TRAFEGAVA EM VIA PÚBLICA NUMA MOTOCICLETA SEM PLACAS, OCASIÃO EM QUE TAMBÉM TERIA DESACATADO OS AGENTES PÚBLICOS E RESISTIDO À PRISÃO. PACIENTE QUE, NO MOMENTO DA PRISÃO EM FLAGRANTE, ESTAVA DESCUMPRINDO MEDIDAS CAUTELARES DIVERSAS DA PRISÃO IMPOSTAS EM OUTRO PROCESSO, NO QUAL RESPONDE PELO CRIME DE HOMICÍDIO. SUPOSTA REITERAÇÃO DELITIVA. PERICULUM LIBERTATIS EVIDENCIADOS. DECISÃO CONCRETAMENTE FUNDAMENTADA. PRISÃO PREVENTIVA MANTIDA.
+2. DENEGAÇÃO DO WRIT.
+I. CASO EM EXAME
+Habeas corpus impetrado contra decisão que decretou a prisão preventiva do paciente, acusado da prática dos crimes de desacato, desobediência e resistência (arts. 329, 330 e 331 do Código Penal). Os impetrantes alegam ausência de fundamentação idônea para a custódia cautelar e inexistência dos requisitos do art. 312 do Código de Processo Penal, sustentando que o paciente é primário, possui residência e trabalho fixos, e que os delitos imputados não justificam a medida extrema.
+II. QUESTÃO EM DISCUSSÃO Há duas questões em discussão: (i) verificar se a decisão que decretou a prisão preventiva do paciente está devidamente fundamentada; e (ii) analisar se estão presentes os requisitos legais que autorizam a custódia cautelar.
+III. RAZÕES DE DECIDIR 1. A decisão que decretou a prisão preventiva do paciente encontra-se devidamente fundamentada, demonstrando a presença dos requisitos do art. 312 do Código de Processo Penal, em especial a necessidade da medida para garantia da ordem pública. - A gravidade concreta dos delitos é evidenciada pela conduta do paciente, que desrespeitou ordem policial e transitou em alta velocidade por locais populosos, causando escoriações em sua companheira. - A existência de indícios suficientes de autoria e materialidade delitiva justifica a decretação da prisão preventiva, conforme exige o art. 312 do Código de Processo Penal. - O descumprimento de medidas cautelares anteriormente impostas ao paciente, em razão de outro processo que investiga crime de homicídio qualificado, reforça a necessidade da custódia cautelar para resguardar a ordem pública. - A primariedade, os bons antecedentes, a residência fixa e a ocupação lícita, por si sós, não afastam a necessidade da prisão preventiva quando presentes os requisitos legais. - Jurisprudência do Superior Tribunal de Justiça reconhece que o descumprimento de medidas cautelares e o risco de reiteração delitiva são fundamentos idôneos para a decretação da prisão preventiva.
+IV. DISPOSITIVO E TESE 2. Ordem denegada. Tese de julgamento: "A prisão preventiva é legítima quando devidamente fundamentada na gravidade concreta dos delitos e na necessidade de resguardar a ordem pública". "O descumprimento de medidas cautelares anteriormente impostas justifica a decretação da prisão preventiva". "A primariedade, os bons antecedentes, a residência fixa e a ocupação lícita não afastam, por si sós, a necessidade da custódia cautelar quando presentes os requisitos do art. 312 do Código de Processo Penal".
+No presente writ, sustenta a defesa, em síntese, a ocorrência de constrangimento ilegal, porquanto não estariam presentes os pressupostos insertos no art. 312 do CPP para manter a prisão preventiva do paciente, primário e com endereço fixo.
+Defende que a aplicação de medidas cautelares diversas da prisão, previstas no art. 319 seriam suficientes e adequadas ao caso em tela.
+Requer, em sede de liminar e no mérito, a concessão da ordem para revogar a prisão preventiva ou, subsidiariamente, substituir por outras medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+No caso, consta da decisão que converteu a prisão em flagrante em preventiva, os seguintes fundamentos (e-STJ, fls. 55-60, destaquei):
+Outrossim, como toda medida cautelar, naturalmente o fumus comissi delicti e o periculum in libertatis devem existir.
+"Assim, o juiz somente pode conceder a tutela cautelar quando existir prova dos requisitos exigidos pela lei: fumus boni iuris e periculum in mora. Tais requisitos contudo, não são requisitos de certeza, e sim de probabilidade (BADARÓ, Gustavo Henrique. Processo penal. 5. ed. São Paulo: RT, 2017. p.1007). "
+No caso dos autos encontra-se presente o fumus boni iuris, decorrente das circunstâncias da prisão do flagranteado e dos depoimentos testemunhais.
+O próprio custodiado confessou ter desobedecido à ordem policial, segundo ele, porque estava com restrição administrativa no seu automóvel.
+Os policiais militares, por sua vez, narraram com riqueza de detalhes os crimes de trânsito, resistência, desobediência e de desacato, cujas penas, somadas em concurso material, ultrapassam 4 anos.
+Dessa feita, há indícios suficientes da prática dos crimes.
+Presente o fumus comissi delicti.
+Quanto ao periculum in libertatis, os fatos contidos nos autos indicam que a prisão do acusado se mostra necessária para a garantia da ordem pública, até mesmo em razão do descumprimento de medidas cautelares diversas da prisão fixadas anteriormente em favor do custodiado.
+ ..
+No caso dos autos, há de se observar a gravidade concreta do delito pelo qual responde o custodiado nos autos do processo nº 0805195- 31.2023.8.15.0131, bem como que o referido desrespeitou ordem judicial relativa ao recolhimento domiciliar noturno.
+Observa-se que o acusado cometeu os delitos em tela, com gravidade concreta, além disso foi flagrado em descumprimento de medidas cautelares aplicadas em processo (nº 0805195-31.2023.8.15.0131) que investiga crime de alta gravidade, qual seja homicídio qualificado.
+Ademais, consta que o denunciado transitou em alta velocidade por locais populosos dessa cidade, como as proximidades da Igreja São João Bosco e o próprio Bairro São Francisco, este constituído de ruas estreitas, inclusive.
+Registre-se, ainda, a causação de dano à companheira do acusado, Maria Gabrielly, que estava em sua companhia e ficou com diversas escoriações por causa da atitude inconsequente do seu companheiro, que acelerou a motocicleta para tentar se livrar das consequências de sua conduta delituosa.
+ ..
+Veja que está presente a hipótese do art. 312, §1º, do CPP, ao mesmo passo que reforçada a necessidade de garantia da ordem pública.
+Impetrado habeas corpus na origem, o Tribunal a quo denegou-lhe a ordem, em acórdão proferido nos seguintes termos (fls. 14-21, destaquei):
+Contudo, examinando os autos, entendo que não assiste razão ao impetrante.
+A Constituição Federal, em seu art. 5º, inciso LXI, dispõe que "ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei".
+No que diz respeito à segregação cautelar, presentes a prova da materialidade delitiva e indícios de autoria, aliados à necessidade da custódia para garantia da ordem pública, da ordem econômica, conveniência da instrução criminal e aplicação da lei penal, resta autorizada a sua decretação, nos termos do artigo 312 e seguintes do Código de Processo Penal, que dispõem in verbis:
+ ..
+No caso em apreço, a decisão que decretou a prisão preventiva do paciente (Id. 33086561) encontra-se devidamente fundamentada, demonstrando a presença dos requisitos autorizadores da medida cautelar extrema.
+Transcrevo, por oportuno, trecho da decisão guerreada:
+No caso dos autos encontra-se presente o fumus boni iuris, decorrente das circunstâncias da prisão do flagranteado e dos depoimentos testemunhais.
+O próprio custodiado confessou ter desobedecido à ordem policial, segundo ele, porque estava com restrição administrativa no seu automóvel.
+Os policiais militares, por sua vez, narraram com riqueza de detalhes os crimes de trânsito, resistência, desobediência e de desacato, cujas penas, somadas em concurso material, ultrapassam 4 anos.
+Dessa feita, há indícios suficientes da prática dos crimes.
+Presente o fumus comissi delicti.
+Quanto ao periculum in libertatis, os fatos contidos nos autos indicam que a prisão do acusado se mostra necessária para a garantia da ordem pública, até mesmo em razão do descumprimento de medidas cautelares diversas da prisão fixadas anteriormente em favor do custodiado.
+(..)
+Nesses termos, a probabilidade de reiteração criminosa também denota necessidade de resguardar a ordem pública (
+..).
+No caso dos autos, há de se observar a gravidade concreta do delito pelo qual responde o custodiado nos autos do processo nº 0805195- 31.2023.8.15.0131, bem como que o referido desrespeitou ordem judicial relativa ao recolhimento domiciliar noturno.
+Observa-se que o acusado cometeu os delitos em tela, com gravidade concreta, além disso foi flagrado em descumprimento de medidas cautelares aplicadas em processo (nº 0805195-31.2023.8.15.0131) que investiga crime de alta gravidade, qual seja homicídio qualificado.
+Ademais, consta que o denunciado transitou em alta velocidade por locais populosos dessa cidade, como as proximidades da Igreja São João Bosco e o próprio Bairro São Francisco, este constituído de ruas estreitas, inclusive.
+Registre-se, ainda, a causação de dano à companheira do acusado, Maria Gabrielly, que estava em sua companhia e ficou com diversas escoriações por causa da atitude inconsequente do seu companheiro, que acelerou a motocicleta para tentar se livrar das consequências de sua conduta delituosa".
+A prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A custódia preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores.
+Como se vê, a decretação da prisão preventiva está amparada em motivação idônea, tendo sido demonstrada a necessidade da custódia com base em dados concretos constantes dos autos, em razão da gravidade dos crimes em tese cometidos e a fim de evitar a reiteração delitiva, haja vista o fato de o paciente ter descumprido medidas cautelares aplicadas em processo diverso em que se apura a prática do crime de homicídio qualificado.
+Tais argumentos são suficientes para rechaçar o alegado constrangimento ilegal de que estaria sendo vítima o paciente.
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE DESÍDIA JUDICIAL. MANUTENÇÃO DA PRISÃO CAUTELAR. RECURSO DESPROVIDO. I. CASO EM EXAME
+1.Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus. O recorrente alega constrangimento ilegal por excesso de prazo na formação da culpa, requerendo a revogação de sua prisão cautelar com aplicação de medidas cautelares alternativas. II. QUESTÃO EM DISCUSSÃO
+2.Há duas questões em discussão:(i) determinar se o excesso de prazo na formação da culpa configura constrangimento ilegal;(ii) verificar se subsistem os fundamentos para a manutenção da prisão cautelar, à luz dos princípios da razoabilidade e proporcionalidade. III. RAZÕES DE DECIDIR
+3.O excesso de prazo deve ser aferido com base nas peculiaridades do caso concreto, observando-se o princípio da razoabilidade. A simples soma aritmética dos prazos legais não basta para caracterizar constrangimento ilegal, sendo necessária demonstração de negligência injustificada do Poder Judiciário.
+4.O Tribunal de origem constatou que o trâmite processual é regular, considerando que o recorrente permaneceu foragido e houve a necessidade de nomeação de defensor dativo por três vezes, em razão de recusas anteriores, o que afasta a alegação de desídia judicial.
+5.O descumprimento de medidas cautelares anteriormente impostas pelo recorrente justificou a nova decretação da prisão preventiva, com base no periculum libertatis, para garantir a ordem pública, assegurar a aplicação da lei penal e evitar a reiteração delitiva.
+6.A análise das circunstâncias não evidencia qualquer ilegalidade flagrante que justifique a atuação excepcional desta Corte, sendo inviável a reanálise do acervo fático-probatório em sede de habeas corpus ou agravo regimental. IV. DISPOSITIVO
+7.Recurso desprovido.
+(AgRg no RHC n. 206.727/BA, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Outrossim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar , não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: AgRg no HC n. 801.412/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no HC n. 771.854/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 6/3/2023, DJe de 9/3/2023; AgRg no HC n. 785.639/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no RHC n. 172.667/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
