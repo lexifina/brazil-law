@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALEX SANDRO DOS REIS BALTAZAR contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu o recurso especial.
+O agravante fundamentou o recurso especial no art. 105, III, a, da CF. Em suas alegações recursais, pleiteou o reconhecimento da violação ao disposto nos arts. 483, §§ 4º e 5º, e 593, III, d, do CPP e 14, parágrafo único, do CP. Argumentou que o acórdão da origem foi manifestamente contrário à prova dos autos, sobretudo quanto à intenção de matar reconhecida pelo Tribunal do Júri, e que a redução da pena deveria ser no patamar máximo de 2/3 (fls. 974-993).
+O recurso especial foi inadmitido na origem, com fundamento nas Súmulas 7 e 83 do STJ e nas Súmulas 282 e 356 do STF (fls. 1.003-1.007).
+Foi interposto o presente agravo em recurso especial, argumentando que houve prequestionamento e que a questão não envolve reexame de provas, mas sim revaloração da prova. Pleiteou a reforma da decisão de inadmissibilidade (fls. 1.013-1.022).
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo (fls. 1.048-1.054).
+É o relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte recorrente deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula 182 do STJ, cuja aplicação se dá analogicamente ao caso em tela, uma vez que se limitou a repisar o seu inconformismo.
+De fato, o princípio da dialeticidade recursal exige que haja uma confrontação clara, concreta e ampla de todos os fundamentos da decisão recorrida. Na hipótese, apenas transcreveu a ementa da decisão do Tribunal de origem em sua integralidade, sem realizar uma efetiva análise das razões exaradas.
+Nesse sentido, a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. 2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada. 3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos.Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos.
+(STJ - AgRg nos EAREsp: 1870554 SP 2021/0105834-9, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 07/03/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 14/03/2023)
+No caso dos autos, o agravante limitou-se a afirmar genericamente que houve prequestionamento da questão aventada, sem demonstrar tal conclusão. Também sustentou que não seria o caso de reexame de fatos e provas; entretanto, deixou de rebater especificamente as razões da decisão de inadmissibilidade da origem. No mais, quanto ao óbice da Súmula 83 do STJ, nada mencionou no agravo interposto.
+Ao não se desincumbir dessa obrigação, o agravante incorreu, portanto, em violação à Súmula 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
