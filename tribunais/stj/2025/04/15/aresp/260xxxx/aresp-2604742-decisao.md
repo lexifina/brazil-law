@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO DUDA DOS SANTOS contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que não admitiu o recurso especial interposto pelo agravante.
+O recorrente foi pronunciado para se submeter a julgamento pelo Tribunal do Júri em relação à imputação do delito do art. 121, §2º, II c/c, art. 14, inciso II, ambos do Código Penal).
+Interposto recurso pela defesa, houve o não provimento de forma unânime (fls. 95-104).
+A defesa interpôs recursos especial com fundamento no art. 105, inciso III, "a", da Constituição, alegando violação aos arts. 158 e 167, ambos do Código de Processo Penal (fls. 110-118).
+O tribunal de justiça de origem não admitiu o recurso especial, por óbice da Súmula 83 do STJ (fls. 130-133).
+Foi interposto o agravo.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 172-176).
+É o relatório. DECIDO.
+Tendo  em  vista  os  argumentos  expendidos  pelo  agravante  para  refutar  os  fundamentos  da  decisão  de  admissibilidade  da  origem,  conheço  do  agravo  e  passo  a  examinar  o  recurso  especial.
+A controvérsia dos autos consiste em verificar se o tribunal de justiça de origem acertou ao manter a decisão de pronúncia contra o agravante mesmo na ausência do laudo de exame pericial.
+Examinando-se o acórdão, verifica-se que o tribunal de origem entendeu pela presença de elementos suficientes de materialidade e autoria em relação ao delito de homicídio tentado, sem que houvesse prova manifesta de ausência de materialidade. Assentou que existem outras espécies probatórias suficientes à conclusão (fl. 100):
+No caso em exame, constato que, não obstante a ausência do exame de cor po de delito, há nos autos elementos capazes de comprovar a materialidade consubstanciados no Boletim de Ocorrência de págs. 54/54 e nos depoimentos prestados na fase inquisitorial e judicial das testemunhas Sr. Wagner Izidorio Trajano, Sr. Aridyan Rodrigues Santos Melo e da declarante Sra. Maria de Fátima da Silva, os quais confirmaram que a vítima fora atingida por golpes de faca peixeira.
+Note-se, outrossim, que às págs. 283/288 consta o relatório médico e o boletim operatório da vítima os quais evidenciam os ferimentos causados por instrumento de arma branca (p. 286).
+Acrescente-se, também, que a vítima em juízo confirmou que fora atingida com uma faca utilizada pelo acusado, e este, por sua vez, confessou que desferiu golpes de faca em desfavor do Sr. José Cosme da Silva.
+Portanto, o tribunal de origem, soberano no exame de fatos e provas, concluiu configurada a causa que enseja a realização de julgamento pelo Tribunal do Júri.
+A revisão das conclusões alcançadas pelo tribunal de origem não prescindiria do reexame do acervo fático-probatório, o que esbarra na Súmula n. 7, STJ (AgRg no REsp n. 2.131.931/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024).
+Ademais, o entendimento exarado pelo tribunal de origem se alinha à jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE HOMICÍDIO. TRIBUNAL DO JÚRI. AUSÊNCIA DE EXAME DE CORPO DE DELITO. OUTROS MEIOS DE PROVA. PRONÚNCIA. POSSIBILIDADE. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME DO ARCABOUÇO FÁTICO-PROBATÓRIO. MEDIDA VEDADA NA VIA ELEITA.
+1. Válida é a pronúncia do réu quando o Tribunal de origem conclui pela presença dos indícios de autoria e prova da materialidade, assentando, com base na prova dos autos até então produzida, afirmando que "a pronúncia é uma decisão processual de conteúdo declaratório, em que o Juiz proclama admissível a acusação, remetendo o caso à apreciação do Tribunal do Júri, desde que configurados os seus requisitos autorizadores" e que "a prova da materialidade delitiva, no crime de homicídio, pode ser realizada por outros meios que não o laudo pericial."
+2. De acordo com a jurisprudência desta Corte Superior, "Para fins de pronúncia, a ausência do exame de corpo de delito, por si só, não impede a conclusão a respeito do requisito da materialidade delitiva, sendo certo que tal exame pode ser providenciado na próxima fase do rito do Tribunal do Júri. Precedentes" (AgRg no R Esp n. 1.942.392/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 14/9/2021, D Je de 20/9/2021).
+3. O Tribunal de origem consignou que, além dos depoimentos das testemunhas, aliado pela confirmação do próprio agravante de ter sido o autor da conduta delitiva, permite, em tese, a verificação da existência de indícios suficientes de autoria do crime tipificado. Assim, a inversão do julgado, no sentido de despronunciar o réu, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável na via eleita do habeas corpus.
+4. Agravo regimental desprovido. (AgRg no HC n. 818.956/AL, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/11/2023, D Je de 16/11/2023.)
+Como se vê, há consonância entre o acórdão recorrido e a jurisprudência consolidada deste Tribunal Superior, o que atrai a aplicação da Súmula n. 83, STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
