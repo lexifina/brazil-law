@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCOS GARDEL OLIVEIRA DOS SANTOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO no bojo do Habeas Corpus n. 0015215-31.2023.8.17.9000.
+Consta dos autos que o paciente foi condenado à pena de cinco anos de reclusão, em regime inicial semiaberto, pela prática do crime de tráfico de drogas interestadual, tipificado no artigo 33, caput, da Lei nº 11.343/2006. sendo-lhe negado o direito de apelar em liberdade.
+Na sentença condenatória, o magistrado de primeiro grau decretou a prisão preventiva do paciente em razão do descumprimento de condições anteriormente impostas quando concedida a liberdade provisória.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que não conheceu do mandamus (fls. 13-18) .
+No presente writ a defesa sustenta a ocorrência de constrangimento ilegal, tendo em vista a incompatibilidade entre a fixação do regime inicial semiaberto na sentença condenatória e a manutenção da prisão preventiva em desfavor do paciente. Requer, em síntese, a revogação da prisão preventiva.
+Liminar deferida (fls. 48-49).
+A autoridade coatora prestou as informações (fls. 72-75).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 81-86).
+É o relatório. DECIDO.
+A defesa insurge-se contra acórdão do Tribunal de Justiça do Estado de Pernambuco que não conheceu do habeas corpus impetrado.
+In casu, verifica-se que o Tribunal de origem não analisou o mérito da controvérsia, trazida para análise diretamente perante o Superior Tribunal de Justiça.
+O Superior Tribunal de Justiça entende que: "como é de conhecimento, matéria não apreciada pelo Tribunal de origem inviabiliza a análise por esta Corte Superior, sob pena de incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal, mesmo em caso de suposta nulidade absoluta." (AgRg no HC n. 813.772/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/4/2023, DJe de 3/5/2023).
+Nesse contexto, ausente manifestação do Tribunal a quo, é até mesmo incabível o presente mandamus, porquanto está configurada a absoluta supressão de instância com relação a todas as questões expostas, ficando impedida esta Corte de proceder à sua análise, uma vez que lhe falta competência (art. 105, I e I I, da CF; e art. 13, I e II, do RISTJ).
+Vejamos:
+As teses relativas a policiais civis terem interrogado o paciente sem advogado e a suposta ofensa ao direito ao silêncio não foram examinadas pela Corte de origem, conforme se verifica do inteiro teor do acórdão impetrado, razão pela qual o writ não pode ser, nesse ponto, reconhecido, sob pena de indevida supressão de instância. Registre-se que "os termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade." (AgRg no AREsp n. 1.813.448/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022) (AgRg no HC n. 821.390/SP, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT)
+Vale ressaltar, ademais, que esta Corte Superior de Justiça pacificou o entendimento de que: "o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (AgRg nos EDcl no REsp n. 1.955.005/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/4/2023, DJe de 24/4/2023).
+Ressalta-se que, em que pese concedida a liminar para adequação da prisão preventiva do paciente ao regime semiaberto de cumprimento de pena, verifica-se que, há informação de que o paciente não encontra-se preso (fls. 75), o que impede a concessão da ordem de oficio para confirmação da liminar.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
