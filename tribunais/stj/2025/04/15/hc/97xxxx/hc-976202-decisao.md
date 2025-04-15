@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de IGOR ROBERTO DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido na Apelação Criminal n. 0002297-28.2017.8.16.0045.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, no regime inicial regime fechado, além do pagamento de 700 dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei 11.343/06.
+Interposta apelação pela defesa, o Tribunal de Justiça negou provimento ao recurso, em acórdão ementado nesses termos (e-STJ fls. 36/37):
+"APELAÇÕES CRIMINAIS - TRÁFICO DE DROGAS - SENTENÇA CONDENATÓRIA - RECURSOS DEFENSIVOS - PEDIDO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS EM RELAÇÃO AO TRÁFICO - INOCORRÊNCIA - CONJUNTO PROBATÓRIO APTO A ENSEJAR O DECRETO CONDENATÓRIO - AUTORIA E MATERIALIDADE DELITIVA COMPROVADAS - PROVA TESTEMUNHAL DOS AGENTES PÚBLICOS - PALAVRA QUE POSSUI ELEVADO VALOR PROBATÓRIO - TESE SUCESSIVA - DESCLASSIFICAÇÃO PARA CONSUMO PESSOAL - IMPOSSIBILIDADE - DINÂMICA DOS FATOS QUE CONFIRMAM A TRAFICÂNCIA - DOSIMETRIA - PENABASE FIXADA ACIMA DO MÍNIMO LEGAL - VALORAÇÃO NEGATIVA DA CIRCUNSTÂNCIA REFERENTE À NATUREZA DA DROGA - COCAÍNA - MANUTENÇÃO - RECONHECIMENTO DA REINCIDÊNCIA - PEDIDO DE APLICAÇÃO DA CAUSA ESPECIAL DE REDUÇÃO DA PENA PREVISTA NO §4º DO ART. 33 DA LEI DE DROGAS - INADMISSIBILIDADE - NÃO PREENCHIMENTO DOS REQUISITOS - PLEITO PARA RECORRER EM LIBERDADE - NÃO ACOLHIMENTO DIANTE DA POSSIBILIDADE EXECUÇÃO PROVISÓRIA DE PENA - PRECEDENTES DO STF.
+RECURSOS CONHECIDOS E NÃO PROVIDOS"
+No presente writ, sustenta não haver elementos de prova obtidos sob o crivo do contraditório de que o paciente praticava a traficância e sustenta que a condenação está calcada no depoimento de policiais.
+Assinala que as declarações feitas extrajudicialmente não foram reforçadas em juízo, de modo que o relato dos policiais constitui elemento isolado, circunstância que impede o uso de tais declarações para dar suporte à condenação, nos termos do art. 155 do CPP.
+Requer a concessão da ordem para sanar os alegados vícios de ilegalidade, com a consequente absolvição.
+A liminar foi indeferida (e-STJ fls. 59/60).
+O Juízo de primeiro grau e o Tribunal estadual prestaram informações (e-STJ fls. 68/69 e 77/78).
+O Ministério Público Federal opinou pelo não conhecimento (e-STJ fls. 102/106).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de Revisão Criminal, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+O acórdão impugnado tratou do tema com estes fundamentos (e-STJ fls. 39/43):
+" ..
+A autoria, igualmente, é certa e recai sobre os apelantes.
+Assim que foram presos em flagrante, LEANDRO afirmou ter adquirido a cocaína de IGOR:
+Relata o interrogado que na data de hoje veio nesta cidade de Arapongas/Pr para comprar cocaína para seu uso, alegando que a cocaína de Cambé não é boa e por isso que veio a Arapongas/Pr comprar; que não avisou o mototaxista que iria comprar entorpecente, que afirma veementemente que comprou o entorpecente da pessoa de IGOR ROBERTO DA SILVA, pagando o valor de R$ 1.000,00 (hum mil reais) a maioria de cédulas em notas de R$ 50,00 (cinquenta reais) e quando estava na praça do pedágio foram presos pela Guarda Municipal. (mov. 1.4).
+IGOR, contudo, negou os fatos, afirmando que o dinheiro encontrado em sua posse se referia à venda de um cavalo (mov. 1.2).
+A testemunha Renato de Castro Souza, mototaxista que conduzia o réu Leandro no momento da prisão em flagrante, contou perante a autoridade policial:
+Relata o depoente que é mototaxista na cidade de Cambé/PR e também realiza várias entregas para empresas; que na data de hoje um indivíduo o ligou para realizar uma corrida na cidade de Arapongas/PR e voltar no ato, que combinaram o preço de R$ 60,00 (sessenta reais) e o indivíduo Leandro paga a metade do pedágio; que vieram para a cidade de Arapongas/PR e não sabiam ao certo o local e pediram informações onde era o Bairro Palmares. Que ao chegar próximo a uma casa Leandro pediu para parar umas três casas antes e pediu para esperar na motocicleta, pois ele tinha que assinar uns recibos; que Leandro saiu da residência com um homem moreno, magro, com bastante tatuagem, e várias correntes de prata e pulseiras e foram embora, sentido Cambé/PR, e ao chegar na praça do pedágio, foram abordados pela Guarda Municipal e o depoente acatou todas as ordens, bem como colaborou com a prisão e informou onde tinham comprado a droga, e o depoente informou o local e as características do meliante; que ao chegar próximo a casa no Bairro Palmares já avistou o meliante, moreno, magro, com tatuagens e correntes de prata e ele recebeu voz de prisão(mov. 1.5).
+Conquanto o corréu Leandro e a testemunha Renato tenham alterado a versão quando da oitiva em juízo, sustentando terem assinado os respectivos termos, durante o inquérito policial, sem os ler, o advogado Davi Nickenig Cacitas, que acompanhou o depoimento de Renato, confirmou em juízo ter estado presente no momento de sua oitiva, tendo inclusive assinado o termo de depoimento do testigo.
+Ademais, as versões dadas pelos acusados em juízo se encontram dissociadas das demais provas elencadas no presente caderno processual.
+O depoimento dos guardas municiais que realizaram a prisão dos acusados é uníssono no sentido de que LEANDRO confirmou ter comprado a droga de IGOR, pelo valor de R$ 1.000,00 (foi encontrado com Igor a quantia de R$ 929,00), tendo o mototaxista Renato apontado o local em que teria havido a transação.
+ ..
+Não se pode perder de vista a importância da prova testemunhal advinda dos depoimentos dos guardas municipais, que, tanto em Juízo como durante o inquérito policial, narraram com exatidão e detalhes, deforma uníssona, os atos praticados pelos réus.
+ .. "
+Da leitura do trecho acima, observa-se que as instâncias ordinárias entenderam como suficientemente demonstrado o crime de tráfico de drogas com amparo no cotejo entre elementos colhidos em fase policial e na ratificação em juízo prestada pelos agentes integrantes da segurança pública, a concluir que a condenação não colide com o preceito contido no art. 155 do CPP.
+Por oportuno, colaciona-se o seguinte acórdão desta Corte Superior envolvendo a viabilidade de tomar em valor falas extrajudiciais retratadas em juízo, notadamente quando compatíveis com depoimentos colhidos à luz do contraditório, como é o caso:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. DEPOIMENTO EXTRAJUDICIAL DO CORRÉU, RETRATADO EM JUÍZO. RATIFICAÇÃO POR OUTROS ELEMENTOS PROBATÓRIOS, COLHIDOS JUDICIALMENTE. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A retratação de confissão extrajudicial, do corréu, em Juízo, por si só, não tem o condão de retirar o valor de seus depoimentos extrajudiciais, notadamente se estes são compatíveis com depoimentos testemunhais, colhidos à luz do contraditório, como esclarece o acórdão de 2º Grau" (AgRg no AREsp. 277.963/PE, Rel. Min. ASSUSETE MAGALHÃES, Sexta Turma, DJe 7/5/2013)
+2. Na espécie, os depoimentos dos policiais foram colhidos sob o crivo do contraditório judicial, o que afasta a alegação de violação ao art. 155 do CPP.
+3. Agravo regimental a que se nega provimento."
+(AgRg no HC n. 809.895/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/5/2023, DJe de 2/6/2023.)
+Ainda nessa linha, vejam-se os seguintes arestos oriundos de julgamento de ambas as Turmas integrantes da Terceira Seção deste Sodalício:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO IMPRÓPRIO. ABSOLVIÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há violação do art. 155 do Código de Processo Penal na espécie, uma vez que a condenação foi lastreada no cotejo entre provas colhidas sob o crivo do contraditório judicial e outros elementos obtidos em âmbito policial.
+2. Embora não haja sido tomado o depoimento da vítima na audiência de instrução, deve ser mantida a conclusão da sentença, por estar fundamentada em outros depoimentos prestados em juízo, que corroboram a versão apresentada pela ofendida perante a autoridade policial, em respeito ao princípio do livre convencimento motivado.
+3. Agravo regimental não provido."
+(AgRg no HC n. 468.399/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022)
+" ..
+3. A condenação do recorrente foi fundamentada em elementos colhidos na fase extrajudicial, bem como em provas produzidas em juízo, mormente os depoimentos dos policiais envolvidos na ocorrência. Assim, não há falar em violação do art. 155 do CPP, pois a prova utilizada para a condenação do recorrente não deriva exclusivamente dos elementos colhidos na fase extrajudicial, mas também das provas que foram ratificadas em juízo, sob o crivo do contraditório.
+ .. "
+(AgRg no AgRg no AREsp n. 2.398.464/SP, minha relatoria, Quinta Turma, julgado em 4/6/2024, DJe de 6/6/2024)
+Em razão disso, " d eve ser denegada a ordem, quando não evidenciado constrangimento ilegal manifesto, pois a conclusão de materialidade e autoria delitiva está devidamente fundamentada no acórdão hostilizado, com base em depoimentos coerentes dos policiais, e alterar tal conclusão demandaria reexame probatório, inviável na via eleita. Precedente" (HC n. 856.848/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025).
+Acerca da validade dos depoimentos policiais para a formação de juízo condenatório:
+"O depoimento policial tem a natureza jurídica de prova testemunhal e deve ser valorado enquanto tal. Dessa forma, o testemunho policial não pode ser, aprioristicamente, sobrevalorizado, sob o único argumento de que o policial goza de fé pública, tampouco pode ser subvalorizado, sob a justificativa de que sua palavra não seria confiável para, isoladamente, fundamentar uma condenação.
+Adotar esse segundo posicionamento, ou seja, exigir a corroboração sistemática do testemunho policial em toda e qualquer circunstância, equivale a inadmiti-lo ou destituí-lo de valor probante, ao menos no pertinente ao cerne da persecução penal, em limitação desproporcional e nada razoável de seu âmbito de validade na formação do conhecimento judicial.
+Legalmente, o agente policial não sofre qualquer limitação ou ressalva quanto à sua capacidade de ser testemunha. Faticamente, inexiste também qualquer óbice ou condição limitativa da capacidade de o policial perceber os fatos e, posteriormente, narrar suas percepções sensoriais às autoridades. Não há que se falar em vieses ou interesses prévios superiores aos das demais testemunhas, uma vez que os vieses, assim como os estereótipos, são intrínsecos a todos os seres humanos, e os interesses, se existentes, devem ser aferidos casuisticamente e não estabelecidos a priori.
+Dessa forma, inexiste qualquer razão que justifique a desvalorização da palavra do policial, atribuindo-lhe um valor inferior ao das demais testemunhas" (AREsp n. 1.936.393/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 8/11/2022 - Informativo de Jurisprudência nº 756)
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
