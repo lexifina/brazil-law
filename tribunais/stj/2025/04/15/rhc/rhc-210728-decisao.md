@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ANTONIO ELENILDO DE SOUSA ALVES contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ (HC n. 0638168-43.2024.8.06.0000).
+Foi o recorrente preso em flagrante delito, no dia 13 de novembro de 2024, pela suposta prática dos crimes previstos no art. 33, caput, da Lei 11.343/2006 e art.16, § 1º, inciso IV, do Estatuto do Desarmamento.
+Segundo o apurado, foram apreendidos uma trouxinha de cocaína pesando 4,50g (quatro gramas e cinquenta centigramas), várias trouxinhas de crack totalizando 14g (catorze gramas), maconha dividida em um tablete médio e três trouxinhas, somando 65g (sessenta e cinco gramas), além de uma pistola calibre 9mm, marca Taurus TS9, com número de série parcialmente suprimido e municiada com 15 projéteis do mesmo calibre. Também foram encontrados uma balança de precisão, um carretel com linha rosa, um caderno grande, embalagens e um aparelho celular.
+Em suas razões, sustenta a defesa estarmos diante "de decisão fundamentada em argumentação genérica, consistente na suposta garantia da ordem pública, em razão do perigo gerado pelo estado de liberdade do acusado, bem como pelo variedade de drogas encontradas, supostamente praticado por ANTÔNIO ELENILDO DE SOUSA SILVA, bem como se valeu da prisão para garantia da ordem pública, em clara violação ao art. 312 do CPP. O requisito da prova do perigo gerado pelo estado de liberdade do imputado que deve ser demonstrado no momento da decisão, (§ 1º do art. 315 do CPP), sequer foi mencionado" (e-STJ fl. 106).
+Destaca os predicados pessoais favoráveis do recorrente.
+Diante dessas considerações, "requer seja recebido, processado e provido o presente recurso, para fim de ser concedida a ordem de Habeas Corpus impetrada, expedindo-se o competente alvará de soltura em favor do Paciente, relaxando a prisão preventiva do recorrente e, consequentemente, permitindo que ele seja posto em liberdade provisória, nos termos do art. 321 do Código de Processo Penal, impondo, se for o caso as medidas cautelares previstas no art. 319 do mesmo diploma legal, expedindo-se o competente alvará de soltura" (e-STJ fl. 108).
+Não houve pedido liminar.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Há sempre de conter efetiva e concreta fundamentação o ato judicial que decreta a prisão, tais as disposições do nosso ordenamento jurídico.
+Com efeito, antes do trânsito em julgado da condenação, a prisão somente é cabível quando demonstrado o periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+Ora, considerando-se que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente, bem como que a fundamentação das decisões do Poder Judiciário é condição absoluta de sua validade (Constituição da República, art. 5º, inciso LXI, e art. 93, inciso IX, respectivamente), há de se exigir que o decreto de prisão preventiva venha sempre concretamente motivado, não fundado em meras conjecturas.
+A propósito do tema, a jurisprudência desta Casa, embora ainda um pouco oscilante, optou pelo entendimento de que o risco à ordem pública se constataria, em regra, pela reiteração delituosa ou pela gravidade concreta do fato.
+Nesse tear, parece-me importante relembrar que "o juízo sobre a gravidade genérica dos delitos imputados ao réu, a existência de indícios de autoria e materialidade do crime, a credibilidade do Poder Judiciário, bem como a intranquilidade social não constituem fundamentação idônea a autorizar a prisão para a garantia da ordem pública, se desvinculados de qualquer fato concreto, que não a própria conduta, em tese, delituosa" (HC n. 48.381/MG, relator Ministro Gilson Dipp, Quinta Turma, DJ 1º/8/2006, p. 470).
+Assim, demonstrada a gravidade concreta do crime praticado, revelada, na maioria das vezes, pelos meios de execução empregados, ou a contumácia delitiva do agente, a jurisprudência desta Casa autoriza a decretação ou a manutenção da segregação cautelar, dada a afronta às regras elementares de bom convívio social.
+Além disso, na apreciação das justificativas da custódia cautelar, "o mundo não pode ser colocado entre parênteses. O entendimento de que o fato criminoso em si não pode ser conhecido e valorado para a decretação ou a manutenção da prisão cautelar não é consentâneo com o próprio instituto da prisão preventiva, já que a imposição desta tem por pressuposto a presença de prova da materialidade do crime e de indícios de autoria. Assim, se as circunstâncias concretas da prática do crime indicam periculosidade, está justificada a decretação ou a manutenção da prisão para resguardar a ordem pública" (STF, HC n. 105.585, relatora Ministra Rosa Weber, Primeira Turma, julgado em 7/8/2012, DJe de 21/8/2012).
+À vista desse raciocínio e dos vetores interpretativos estabelecidos, passo à análise da legalidade da medida excepcional.
+A prisão preventiva foi decretada nos termos seguintes (e-STJ fls. 52/54):
+Verifico, quanto ao custodiado, que a materialidade do delito está presente bem como indícios suficientes de autoria. No que concerne à possibilidade de substituição da prisão preventiva por medidas cautelares diversas, estas se apresentam inadequadas e ineficientes, as circunstâncias em que se deu a prisão, verificando elementos concretos que bem demonstram a gravidade da conduta perpetrada pelo custodiado, haja vista a quantidade e diversidade de drogas apreendidas, conjuntamente com arma de fogo, circunstância essa que caracteriza a causa de aumento de pena prevista no artigo 40, inciso IV, da Lei 11.343/06, autorizando a conclusão de que solto no momento, representa risco à ordem pública, sendo este fundamento idôneo para justificar a segregação cautelar. Entendo ainda que, isoladamente, condições pessoais favoráveis, como primariedade e residência fixa, não representam óbice à decretação da prisão preventiva, sobretudo quando cristalinamente identificadas a necessidade e a adequação da medida.
+Apesar de tratar-se de autuado primário, o mesmo apresenta ficha de atos infracionais, demonstrando uma inclinação à vida criminosa, o que constitui ameaça à garantia da ordem pública.
+Diante desse cenário, verifico que o periculum libertatis é evidenciado a partir da maior gravidade em concreto atinente à conduta imputada ao recorrente, qual seja, apreensão de uma trouxinha de cocaína pesando 4,50g (quatro gramas e cinquenta centigramas), várias trouxinhas de crack totalizando 14g (catorze gramas), maconha dividida em um tablete médio e três trouxinhas, somando 65g (sessenta e cinco gramas), além de uma pistola calibre 9mm, marca Taurus TS9, com número de série parcialmente suprimido e municiada com 15 projéteis do mesmo calibre.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, IN CASU. MEDIDAS CAUTELARES. INVIABILIDADE. RECURSO DESPROVIDO.
+1. Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+2. Na espécie, a prisão cautelar está amparada na gravidade concreta da conduta, extraída da quantidade e da variedade dos entorpecentes encontrados, bem como da apreensão de um rádio comunicador, de uma arma de fogo - 1 pistola Canik TP9SF, com numeração suprimida, de calibre 9mm -, a lém de 18 munições intactas e não deflagradas e 1 carregador. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+3. As condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+4."Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública." (AgRg no RHC n. 184.359/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 855.363/RJ, de minha relatoria, DJe de 18/4/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E PORTE DE ARMAS. RECURSO IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que negou provimento a recurso em habeas corpus, mantendo a prisão preventiva dos agravantes por tráfico de drogas e porte de armas.
+2. Os agravantes foram presos em flagrante com 698,33g de maconha, 258,65g de cocaína, armas de fogo e munições, além de materiais para acondicionamento e pesagem de entorpecentes.
+3. O juízo de primeiro grau decretou a prisão preventiva com base na garantia da ordem pública, considerando a gravidade concreta das condutas e a insuficiência de medidas cautelares alternativas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a prisão preventiva do agravante está devidamente fundamentada na garantia da ordem pública, considerando a gravidade concreta das condutas delitivas e a apreensão de drogas e armas.
+III. Razões de decidir
+5. A prisão preventiva está fundamentada na necessidade de garantir a ordem pública, em razão da gravidade concreta das condutas, evidenciada pela quantidade e natureza das drogas e armas apreendidas.
+6. A jurisprudência desta Corte entende que a apreensão de armas e drogas em contexto de tráfico justifica a prisão preventiva, devido à periculosidade do acusado e à necessidade de acautelar a ordem pública.
+7. As condições pessoais favoráveis dos agravantes não são suficientes para afastar a prisão preventiva quando há fundamentação concreta para sua manutenção.
+8. Medidas cautelares alternativas são insuficientes para garantir a ordem pública, dada a gravidade das condutas e o risco de reiteração delitiva.
+IV. Dispositivo e tese
+9. Recurso improvido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada na garantia da ordem pública, evidenciada pela gravidade concreta das condutas delitivas e pela apreensão de drogas e armas. 2. As condições pessoais favoráveis não afastam a prisão preventiva quando há fundamentação concreta para sua manutenção. 3.
+Medidas cautelares alternativas são insuficientes quando a gravidade das condutas e o risco de reiteração delitiva justificam a prisão preventiva".
+Dispositivos relevantes citados: CPP, arts. 282, § 6º; 310, inc.
+II; 312; 313.Jurisprudência relevante citada: STJ, AgRg no HC 921.106/SP, Rel. Min. Og Fernandes, Sexta Turma, julgado em 13.11.2024; STJ, AgRg no HC 711.616/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 22.02.2022; STJ, AgRg no HC 862.104/SC, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 27.11.2023.
+(AgRg no RHC n. 211.842/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/4/2025, DJEN de 8/4/2025, grifei.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública.
+A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido. (HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
