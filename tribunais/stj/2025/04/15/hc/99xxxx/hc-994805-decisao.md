@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de MIRAMAR SALDANHA DE SOUZA JUNIOR - condenado à pena de 8 anos de reclusão, em regime inicial semiaberto, pela prática dos crimes de tráfico de drogas e porte ilegal de a rma de fogo de uso permitido -, em que se aponta como autoridade coatora o Desembargador Relator do Tribunal de Justiça de Minas Gerais que deferiu em parte a liminar no Habeas Corpus criminal n. 1.0000.25.108081-8/000 (fl. 13), não comporta processamento.
+Busca-se, nesta impetração, superar a Súmula 691/STF, para obter a concessão da ordem, inclusive em caráter liminar, com a expedição de alvará de soltura em favor do paciente e, subsidiariamente, para determinar a sua transferência para o estabelecimento prisional na cidade de Nova Serrana/MG, com a consequente transferência da execução da pena, ao argumento de que o presídio fica mais próximo de seus familiares. Alega-se que o paciente encontra-se preso em regime fechado, em situação mais gravosa, uma vez que foi fixado o regime inicial semiaberto para o resgate de sua reprimenda.
+Sustenta-se, também, flagrante ilegalidade decorrente da ausência de expedição da guia de execução de pena, o que impede o condenado de pleitear os benefícios da execução.
+É o relatório.
+Na espécie, aplica-se o enunciado da Súmula 691/STF, observado também por esta Corte Superior, segundo o qual, não cabe habeas corpus contra decisão monocrática que indeferiu a liminar no Tribunal a quo, sob pena de indevida supressão de instância.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não ocorreu no caso em tela.
+Isso porque, compulsando os autos, verifica-se que o Tribunal de origem determinou que fosse expedida imediatamente a guia de execução da pena imposta ao paciente (fl. 13), não tendo ainda examinado o pedido de transferência de presídio, o que obsta a análise por esta Corte Superior, porquanto é vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância (AgRg no HC n. 765.498/RJ, Ministra Laurita Vaz, Sexta Turma, DJe 20/3/2023).
+Ante o exposto, com base no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRETENSÃO DE EXPEDIÇÃO DA GUIA DE EXECUÇÃO DE PENA E TRANSFERÊNCIA DE PRESÍDIO. LIMINAR PARCIALMENTE DEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF. TERATOLOGIA OU ILEGALIDADE. AUSÊNCIA.
+Writ indeferido liminarmente.
