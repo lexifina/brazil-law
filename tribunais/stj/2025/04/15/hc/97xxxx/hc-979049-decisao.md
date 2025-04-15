@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido liminar, impetrado em favor de ROSALINO PAREDE VILHALVA, sob a alegação de que o paciente sofre constrangimento ilegal por ato do TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, na revisão criminal n. 1417993-27.2024.8.12.0000.
+Consta dos autos que o paciente foi condenado pelo Tribunal do Júri de Rio Brilhante - MS, como incurso no art. 121, §2º, inciso II, do Código Penal, por duas vezes, à pena total de 24 (vinte e quatro) anos de reclusão, no regime inicial fechado (fls. 44/47).
+Em sede de apelo interposto pela Defesa, a Corte de origem rejeitou a preliminar e, no mérito, negou provimento ao recurso (fls. 65/86).
+Transitada em julgado a condenação, foi ajuizada revisão criminal e o Tribunal local, por maioria de votos, deferiu parcialmente o pedido para reconhecer a continuidade delitiva específica (art. 71, parágrafo único, do Código Penal) entre os crimes de homicídio qualificado a que fora condenado, mas mantendo a reprimenda definitiva em 24 (vinte e quatro) anos de reclusão (fls. 14/43).
+Neste writ, alega o Impetrante que o julgado reveste-se de ilegalidade porque embora tenham sido consideradas como favoráveis as circunstâncias judiciais pelo Magistrado presidente do Tribunal do Júri, a Corte local, ao reconhecer a continuidade delitiva na revisão criminal, aumentou as básicas, reputando como negativas as circunstâncias judiciais dos motivos e circunstâncias do crime e a personalidade do réu, a manter a pena final aplicada em 24 (vinte e quatro) anos de reclusão, embora não tenha o Ministério Público recorrido da pena como aplicada em Primeiro Grau de jurisdição.
+Sustenta que, deste modo, o acórdão impugnado impôs ao paciente indevido bis in idem ao valorar as circunstâncias judiciais para fixar as básicas e como baliza à eleição da fração de majoração decorrente da continuidade delitiva.
+Pede a concessão da ordem para que
+nos termos da súmula 659 do STJ e bem como que todos os vetores do art. 59, do CP foram julgados favoráveis ao Paciente, que seja aplicada a fração de 1/6, em relação ao crime continuado reconhecido, o que será feito nos termos art. 71, parágrafo único do CP.
+As informações foram prestadas (fls. 693/695).
+O Ministério Público Federal propõe a denegação da ordem, caso conhecida a impetração (fls. 707/710).
+É o relatório.
+DECIDO.
+Este mandamus foi impetrado contra acórdão proferido pela Corte local em sede de revisão criminal.
+Neste panorama,
+proferido acórdão em revisão criminal, no Tribunal de Justiça, mostra-se inadequado e descabido o manejo de habeas corpus em substituição ao recurso especial cabível.
+2. É imperiosa a necessidade de racionalização do writ, a bem de se prestigiar a lógica do sistema recursal, devendo ser observada sua função constitucional, de sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção.
+3. "O habeas corpus é garantia fundamental que não pode ser vulgarizada, sob pena de sua descaracterização como remédio heróico, e seu emprego não pode servir a escamotear o instituto recursal previsto no texto da Constituição" (STF, HC 104.045/RJ).
+(HC n. 153.646/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/11/2012, DJe de 23/11/2012.)
+Assim, não conheço do habeas corpus.
+No entanto, em observância ao art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo o qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção, passa-se ao exame acerca da existência de flagrante ilegalidade.
+Conforme a sentença condenatória, foi o paciente condenado pela prática de dois homicídios qualificados, tendo as básicas relativas a ambos os delitos sido fixadas no piso, em 12 (doze) anos de reclusão, o que foi mantido em sede de apelação (fls. 44/47 e 66/87).
+Ao julgar a revisão criminal, o Tribunal a quo reconheceu a continuidade delitiva e, nos termos do art. 71, do CP, considerou os motivos (crime praticado em razão de cobrança de dívida de negociação de arma de fogo) e as circunstâncias do crime (réu interferiu em briga do irmão com o objetivo de praticar homicídio contra as vítimas, já que feriu gravemente uma das vítimas e saiu posteriormente em perseguição da outra, retornando posteriormente ao primeiro local somente para consumar o homicídio da primeira vítima, que estava caída no chão, matando-a com tiro à queima-roupa) para dobrar a primeira pena, sem contudo alterar a pena final imposta, mantida em 24 (vinte e quatro) anos de reclusão.
+Não houve, portanto, nova valoração das circunstâncias judiciais na primeira etapa do cálculo da pena, mas somente o apontamento de elementos concretos a fundamentar o patamar de aumento relativo à continuidade delitiva, nos termos do art. 71, parágrafo único, do CP, de modo que não há que se falar em reformario in pejus, já que a pena final não foi agravada.
+Nesta direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PRERROGATIVA LEGAL E REGIMENTAL. PRINCÍPIO CONSTITUCIONAL DA CELERIDADE PROCESSUAL. HOMICÍDIO QUALIFICADO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. MODIFICAÇÃO DE INSTITUTOS JURÍDICOS. PENA-BASE. CÚMULO MATERIAL. CONTINUIDADE DELITIVA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. No caso, o agente foi condenado a 30 anos de reclusão, em cúmulo material de dois delitos de homicídio qualificado com decapitação e esquartejamento das vítimas. Em recurso de apelação, foi reconhecido crime continuado, mas sem alteração na pena final, porquanto aplicado o aumento por continuidade delitiva para dobrar a pena de 15 anos, nos termos do art. 71, parágrafo único, in fine, do Código Penal.
+3. É pacífica a distinção entre os institutos da continuidade delitiva e da pena-base, a despeito de aparentemente partilharem a necessidade de valoração de vetoriais semelhantes, mesmo porque cada crime permanece independente na cadeia delitiva, tanto que se permite dosimetrias distintas para cada evento (Precedentes).
+4. A distinção entre os referidos institutos - a saber, pena-base e continuidade delitiva - permite, inclusive, a valoração da mesma circunstância fática sob dois aspectos distintos, sem infringência ao princípio do ne bis in idem (Precedentes).
+5. Ademais, o reconhecimento da continuidade delitiva não importa na obrigatoriedade de redução da pena definitiva fixada em cúmulo material, porquanto há possibilidade de aumento do delito mais gravoso em até o triplo, conforme o trecho do dispositivo acima citado.
+6. Portanto, mantida a pena definitiva no mesmo montante, modificados somente os institutos penais sem o decote de qualquer vetorial negativa ou causa de aumento, não há de se falar em reformatio in pejus.
+7. Na mesma linha a manifestação da Procuradoria-Geral da República, para quem "não houve nova valoração das circunstâncias judiciais na primeira fase da dosimetria da pena, mas apenas o apontamento de elementos concretos para fundamentar o patamar aplicado em razão da continuidade delitiva, nos exatos termos do art. 71, parágrafo único, do Estatuto Repressivo, não havendo cogitar-se de reformatio in pejus".
+8. Agravo regimental desprovido, acolhido o parecer ministerial.
+(AgRg no HC n. 301.882/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/4/2022, DJe de 26/4/2022.)
+Logo, por ser imprópria a via eleita a se impugnar acórdão proferido em sede de revisão criminal, a impetração não deve ser conhecida, não constatada a presença de teratologia ou patente ilegalidade a dar ensejo à concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
