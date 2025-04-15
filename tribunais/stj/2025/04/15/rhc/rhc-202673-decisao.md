@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por BRUNO ARAÚJO DOS SANTOS, para impugnar acórdão lavrado pelo Tribunal de Justiça do Estado da Bahia, que denegou a ordem vindicada nos autos do habeas corpus nº 8032606-90.2024.8.05.0000.
+Consta dos autos que o recorrente teve, contra si, determinada a realização de busca e apreensão domiciliar, no dia 26/2/2024, pela suposta prática do delito tipificado no art. 17 da Lei n. 10.826/03, por fato, em tese, ocorrido entre os dias 28 e 29 de janeiro de 2023.
+No presente recurso, requer a defesa a declaração de nulidade do ato decisório por falta de fundamentação na decisão de busca e apreensão, assim como porque, segundo alega, ausente a contemporaneidade da medida.
+Requer, ainda, a declaração de nulidade das provas decorrentes da alegada invasão de domicílio sem consentimento do recorrente.
+Informações (fls. 255-288 ) e petição (fls. 301-304).
+Parecer do Ministério Público Federal pelo desprovimento do recurso ordinário em habeas corpus (fls. 290-298).
+É o relatório. DECIDO.
+Conforme cediço, "o trancamento de ações penais e inquéritos policiais pela via estreita do habeas corpus é medida excepcional, somente admitida quando houver demonstração inequívoca, de atipicidade da conduta, absoluta carência de indícios de autoria, inexistência de prova da materialidade, quando a denúncia for manifestamente inepta ou, ainda, quando se constatar a superveniência de causa extintiva da punibilidade" (AgRg no RHC 197125/SC, QUINTA TURMA, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 21/06/2024), o que não se vislumbra no caso vertente.
+De acordo com o que se extrai da ação penal na origem, as investigações tiveram início após informações prestadas por colaboradores anônimos, inclusive integrantes das forças de segurança pública do Estado da Bahia, as quais foram previamente corroboradas mediante diligências investigatórias promovidas pelos integrantes da Força Correicional Especial Integrada da Corregedoria-Geral da SSP/BA e da Corregedoria de PMBA, por meio da coleta e análise de dados internos de ações policiais com presença dos indiciados e ações de inteligência perante lojas de reparo e comercialização de materiais bélicos.
+Em verdade, o Juízo da causa, de forma prudente e escorreita, indicou a existência de justa causa a autorizar a procedência do pedido de busca e apreensão em desfavor do recorrente, após diligências prévias levadas a efeito no curso das investigações.
+Desta feita, reputo que o mandado de busca e apreensão atendeu às exigências do art. 243 do Código de Processo Penal, porquanto adequadamente motivado, além de terem sido indicados o local, os motivos, os fins da diligência e ter sido subscrito pela autoridade competente, remanescendo elementos indiciários mínimo que avalizaram o deferimento da medida de busca e apreensão.
+E, por relevante, para se aferir se o mandado judicial de busca e apreensão não foi precedido de fundadas razões, seria necessário o reexame do conjunto fático-probatório, incompatível com os estreitos limites do habeas corpus (AgRg no HC n. 798.398/SP, SEXTA TURMA, Rel. Ministro TEODORO SILVA SANTOS, julgado em 26/2/2024, DJe de 5/3/2024).
+Não remanesce, portanto, qualquer constrangimento ilegal decorrente do ato judicial impugnado.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
