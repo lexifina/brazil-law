@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MUNICIPIO DE SAO LUIS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim resumido:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. TEMA N. 1.170. CONSTITUCIONAL E PROCESSUAL CIVIL. CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. RELAÇÃO JURÍDICA NÃO TRIBUTÁRIA. TÍTULO EXECUTIVO. TRÂNSITO EM JULGADO. JUROS DE MORA. PARÂMETROS. ALTERAÇÃO. POSSIBILIDADE. ART. 1º-F DA LEI N. 9.494/1997, COM A REDAÇÃO DADA PELA DE N. 11.960/2009. OBSERVÂNCIA IMEDIATA. CONSTITUCIONALIDADE. RE 870.947. TEMA N. 810 DA REPERCUSSÃO GERAL. AUSÊNCIA DE OFENSA À COISA JULGADA. 1. A LEI N. 11.960, DE 29
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 1º da Lei n. 12.703/2012, no que concerne à necessidade de aplicação de juros variáveis (e não fixos) da poupança ao débito municipal (referente a abono de permanência) em prosseguimento ao cumprimento de sentença, sob pena de excesso de execução, conforme alteração legislativa ocorrida no ano de 2012 que passou a prever juros variáveis para a poupança . Argumenta:
+Com todas as vênias, a decisão do tribunal a quo merece ser reformada, visto que desde maio de 2012, os juros da poupança não são mais fixos, de 0,5% ao mês, Isso porque tal sistemática foi alterada por força da Medida Provisória nº 567/2012 que, posteriormente, foi convertida na c cujo art. 1º alterou o art. 12 da Lei 8.177/1991, passando a prever juros variáveis para a poupança, da seguinte forma: i) 0,5% ao mês, enquanto a meta da taxa Selic ao ano for superior a 8,5%; ou ii) 70% da meta da taxa Selic ao ano, mensalizada, vigente na data de início do período de rendimento, enquanto a meta da taxa Selic ao ano for igual ou inferior a 8,5%.
+ ..
+Portanto, equivocou-se o Tribunal a quo ao acolher cálculos com os juros da poupança de forma fixa para todo o período anterior a 2021, visto que, a partir de maio de 2012, os juros da poupança se tornaram variáveis, conforme demonstrado (fls. 94-95).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
