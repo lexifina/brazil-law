@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O não conhecimento do agravo regimental foi fundamentado, de modo suficiente, na incidência do óbice previsto na Súmula n. 182 do STJ, ante a ausência de enfrentamento suficiente dos fundamentos da decisão agravada.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LUCAS JOSÉ DA SILVA contra acórdão assim ementado (fl. 1.401):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada, mesmo sentido da Súmula n. 182 do STJ.
+2. A decisão de não conhecimento do agravo em recurso especial teve por fundamento a aplicação do óbice da Súmula n. 182 do STJ.
+3. Nas razões do presente recurso, a parte agravante não enfrentou de maneira suficiente as questões que impediram a admissão do agravo em recurso especial, o que inviabiliza o conhecimento do agravo regimental, por falta de dialeticidade recursal.
+4. Agravo regimental não conhecido.
+A parte embargante afirma a ocorrência de vício no julgado, articulando o seguinte (fl. 1.413):
+5. Fato é que, durante a construção argumentativa, consta nas em todos os tópicos das Razões Recursais o devido cotejo, não havendo que se falar em qualquer deficiência da fundamentação, visto que plenamente compreensíveis e fundamentadas estão as controvérsias. Houve a exposição do fato e do direito, houve a demonstração do cabimento para tratar a matéria, e houve a apresentação das razões de reforma, estando plenamente preenchidos os requisitos do artigo 1.029 do Código de Processo Civil e rechaçados os fundamentos do acórdão impugnado.
+6. De igual sorte, não há que se incidir a Súmula 283 do Supremo Tribunal Federal, tampouco se mostra sustentável a afirmação de que "deficiência de fundamentação e ausência de impugnação a todos fundamentos do acórdão recorrido de modo a incidir a Súmula n. 283 do STF", eis que em todos os tópicos houve o devido confronto dos fundamentos do aresto, ou a ausência de fundamentos, nos casos em que esta defesa vislumbrou omissão. Além do mais, os pleitos não demandam qualquer revolvimento fático probatório, mas tão somente uma revaloração probatória com base em elementos incontroversos já presente nos autos, o que afasta a incidência da Súmula 07 do c. STJ.
+Requer o acolhimento dos aclaratórios para sanar os defeitos apontados, com a correspondente repercussão jurídica.
+Impugnação apresentada com o pedido de rejeição dos embargos de declaração.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VÍCIO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, conforme dispõe o art. 619 do CPP, destinam-se a sanar ambiguidade, obscuridade, contradição ou omissão, sendo admissíveis, também, para corrigir eventual erro material na decisão embargada.
+2. O não conhecimento do agravo regimental foi fundamentado, de modo suficiente, na incidência do óbice previsto na Súmula n. 182 do STJ, ante a ausência de enfrentamento suficiente dos fundamentos da decisão agravada.
+3. Ausente qualquer vício, constata-se a mera discordância da solução dada pelo acórdão e a pretensão de nova análise do recurso anterior, inviável em embargos de declaração.
+4. Consoante entendimento do Superior Tribunal de Justiça, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater, um a um, todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre no caso.
+5. Embargos de declaração rejeitados.
+VOTO
+O art. 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+No caso, é inviável o acolhimento da pretensão recursal, uma vez que, conforme registrado no acórdão embargado, não se conheceu do agravo regimental ante a falta de combate específico aos fundamentos da decisão que não conheceu do agravo em recurso especial.
+Observe-se, a propósito, o que constou no voto condutor do acórdão recorrido (fls. 1.404-1.406) :
+A decisão que não conheceu do agravo em recurso especial foi assim fundamentada (fl. 1.369):
+Como relatado, o recurso especial foi inadmitido por aplicação dos seguintes fundamentos: deficiência de fundamentação e ausência de impugnação a todos fundamentos do acórdão recorrido de modo a incidir a Súmula n. 283 do STF e análise que exigiria o reexame de fatos e provas, atraindo o óbice da Súmula n. 7 do STJ. Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, os fundamentos referidos, não bastando para tanto que a parte recorrente mencione cada um deles, pois para atendimento do princípio da dialeticidade deve ser demonstrado de modo específico e concreto quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 7 do STJ, que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, D Je de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, D Je de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, D Je de 2/9/2024).
+No que se refere à incidência da Súmula n. 283 do STF, aplicada analogicamente ao caso, sequer constam quaisquer considerações a respeito.
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada, conforme relatado.
+Aplica-se, em consequência, a conclusão estabelecida na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AR Esp n. 2 .706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, D Je de 23/10/2024; AgRg no AR Esp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, D Je de 22/10/2024; AgRg no AR Esp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, D Je de 18/10/2024; AgRg no AR Esp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, D Je de 25/6/2024.
+Portanto, inexistindo vício a ser dissipado, a pretensão do recurso é de rediscussão dos fundamentos do acó rdão, propósito inviável em embargos de declaração, nada havendo que se possa acolher.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
