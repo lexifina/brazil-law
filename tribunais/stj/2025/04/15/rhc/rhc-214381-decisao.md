@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por LUIZ CARDOSO DE OLIVEIRA desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5076650- 47.2025.8.09.0051).
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva pela prática, em tese, de tráfico de drogas.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 190/205).
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva, ante a falta de fundamentação idônea da decisão que decretou a prisão cautelar.
+Destaca que a certidão de antecedentes criminais do recorrente não revela reincidência ou habitualidade delitiva que justifique a segregação cautelar, pois, em sua maior parte, teve extinta a punibilidade; e, em outra, foi enquadrado como usuário.
+Assere ser desproporcional a cautela máxima, mostrando-se suficientes as medidas cautelares diversas da prisão.
+Diante dessas considerações, pede, liminar e definitivamente, a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Em consulta ao P rocesso de origem n. 5075597-31.2025.8.09.0051, verifico que, na audiência de instrução realizada em 24/3/2025, foi revogada a prisão preventiva do ora recorrente com a aplicação de medidas cautelares diversas, cujo dispositivo do decisum transcrevo a seguir:
+Por todo o exposto, e por entender que a liberdade é a regra em nosso sistema processual constitucional, por força do princípio do estado de inocência, substituo a prisão preventiva pelas medidas cautelares acima expostas e, por consequência, REVOGO A PRISÃO PREVENTIVA de LUIZ CARDOSO DE OLIVEIRA, mediante o cumprimento das seguintes condições, além das obrigações cautelares: 1 - Não se ausentar da Comarca, por mais de trinta (30) dias consecutivos, nem mudar de residência sem autorização judicial; 2 - Não se embriagar, em qualquer hipótese; 3 - Não frequentar bares, casas de jogos ou prostituição e outros lugares congêneres; 4 - Comparecer a todos os atos processuais a que for intimado; 5 - Recolher-se em seu domicílio das 22h até as 06h do dia seguinte. Fica advertido o beneficiário de que o descumprimento de quaisquer dessas obrigações (inclusive o cometimento de fato novo), bem como das demais constantes do Termo de Liberdade Provisória, implicará na imediata decretação de sua prisão preventiva, com base no art. 312, parágrafo único do Código de Processo Penal. Saliento, finalmente, que a prisão cautelar também se justificará quanto estiverem presentes os pressupostos autorizadores, ou seja, não só pelo descumprimento das condições acima, o interessado poderá ter sua prisão decretada se esta for necessária para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal. Expeça-se alvará de soltura em favor de LUIZ CARDOSO DE OLIVEIRA,  .. .
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte (RISTJ), julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
+ EMENTA
