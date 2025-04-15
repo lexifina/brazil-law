@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PALHANO PREMIUM CONDOMÍNIO EMPRESARIAL contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ, prejudicada a análise de divergência jurisprudencial (fls. 947-952).
+Alega a parte agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 963.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná em apelação nos autos de ação de despejo cumulada com cobrança de aluguéis.
+O julgado foi assim ementado (fls. 858-863):
+DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUERES. PEDIDO RECONVENCIONAL DE INDENIZAÇÃO PELAS BENFEITORIAS ÚTEIS E NECESSÁRIAS. INSURGÊNCIA DOS RECONVINTES. RENÚNCIA ÀS BENFEITORIAS QUE, CONQUANTO POSSÍVEL, NÃO PODE IMPLICAR ENRIQUECIMENTO SEM CAUSA. BENFEITORIAS QUE ULTRAPASSAM O VALOR DE R$ 1.500.000,00, AO PASSO QUE O VALOR MENSAL DE ALUGUEL ERA SOMENTE R$ 15.000,00. CASO SUI GENERIS. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO. PRINCÍPIO COROLÁRIO DO DIREITO CONTRATUAL. DESCONTO CONCEDIDO NO INÍCIO DA LOCAÇÃO MUITO AQUÉM DO VALOR DESEMBOLSADO PELOS LOCADORES. COMPENSAÇÃO ADMITIDA. RECURSO PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 898-904):
+EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUERES E PEDIDO RECONVENCIONAL. INDENIZAÇÃO POR BENFEITORIAS. OMISSÃO QUANTO À LIQUIDAÇÃO DE SENTENÇA. PREQUESTIONAMENTO. PARCIAL ACOLHIMENTO DOS EMBARGOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 421, parágrafo único, 421-A, II, III, do Código Civil; b) 35 da Lei n. 8.245/1991.
+Sustenta que o Tribunal de origem divergiu ao mitigar a aplicação da cláusula de renúncia às benfeitorias, contrariando acórdãos dos Tribunais de Justiça de São Paulo e Minas Gerais, que mantiveram a validade da cláusula em situações similares.
+Requer o provimento do recurso para reformar o acórdão recorrido, reconhecendo a plena eficácia da cláusula de renúncia à indenização pelas benfeitorias e, por conseguinte, afastando qualquer direito indenizatório e de compensação em favor dos Recorridos.
+Não foram apresentadas contrarrazões, conforme a certidão à fls. 945 e 946.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, mediante a interpretação de cláusulas contratuais e o exame de fatos e provas constantes dos autos, concluiu que o laudo pericial demonstrou que foram diversas as benfeitorias realizadas pelos locatários, o que, evidentemente, agregou valor ao imóvel. Observe-se (fls. 861-862):
+No intuito de justificar que o montante desembolsado a título de benfeitorias pelos apelantes não deve ser compensado, o apelado aponta que, nos primeiros seis meses do contrato, não foi exigido pagamento de alugueres, sendo que essa benesse foi ampliada aos doze meses seguintes.
+Sucede que, ainda que se considere a isenção da cobrança de alugueres pelo período de 18 meses, há de se ter presente que o valor mensal era de R$ 15.000,00, de modo que o desconto total pela realização de benfeitorias chegou ao montante de R$ 270.000,00, ao passo que o valor desembolsado (considerando somente as úteis e necessárias) ultrapassou a quantia de R$ 1.500.000,00, sendo evidente o enriquecimento sem causa do autor-apelado.
+Desse modo, conquanto válida a cláusula pactuada, não se pode ignorar a intenção do legislador em evitar esse comportamento entre os particulares em suas negociações, especialmente porque a vedação ao enriquecimento ilícito é princípio corolário do direito contratual.
+ ..
+Admitir o contrário, aliás, implicaria em violação aos princípios da boa-fé e lealdade contratual, que permeiam as relações jurídicas de direito privado, sendo que seu ferimento possibilita mitigação do pacta sunt servanda, especialmente quando se coloca em nítida desvantagem um dos contratantes, como é o caso.
+Desse modo, a sentença deve ser reformada, para o fim de se considerar os valores desembolsados pelos apelantes a título de benfeitorias úteis e necessárias, admitindo-se a compensação na forma do artigo 368 do Código Civil.
+Destaca-se que o valor relativamente à indenização deverá ser apurado em sede de liquidação de sentença, devendo considerar (i) a condenação dos apelantes já imposta na sentença, (ii) os valores desembolsados a títulos de benfeitorias úteis necessárias e (iii) o abatimento dos descontos dados pelo locador, nos 18 meses iniciais da relação contratual.
+Diante do resultado do julgamento, em relação a reconvenção, deve haver a inversão dos ônus de sucumbência, a fim de condenar o reconvindo ao pagamento das custas processuais da reconvenção e dos honorários advocatícios em favor do procurador dos reconvintes, que vão fixados em 10% sobre o valor atualizado da condenação, suficiente para atender o bom trabalho desenvolvido em causa sem maiores complexidades.
+Presentes essas razões de decidir, o acolhimento das teses defendidas no recurso especial implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos, medidas inadmissíveis nesta instância superior, de acordo com o óbice das Súmulas n. 5 e 7 do STJ.
+No que se refere à alínea c, registre-se que a incidência de óbice sumular quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no REsp n. 2.054.387/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 23/8/2023; AgInt nos EDcl no REsp n. 1.998.539/PB, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/4/2023, DJe de 11/4/2023; e AgInt no AREsp n. 1.611.756 /GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º /9/2022.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
