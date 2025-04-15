@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por MAICON WALISON VIANA contra decisão que inadmitiu recurso especial contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do Rese n. 1.0000.24.183749-1/001.
+Consta dos autos que o agravante foi pronunciado, em primeiro grau, para fins de submissão a julgamento perante o Tribunal do Júri como incurso nas sanções do artigo 121, §2º, I e IV, do Código Penal contra a vítima Daniel de Oliveira Ferreira Alves Santos, bem como no artigo 121, §2º, I e IV, c/c art. 14, II, do Código Penal contra as vítimas Jonathan Ferreira Filho e Marcus Vinicius Barbosa Costa.
+O Tribunal de origem negou provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fls. 1350):
+EMENTA: RECURSO EM SENTIDO ESTRITO. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO CONTRA UMA VÍTIMA E HOMICÍDIO QUALIFICADO TENTADO EM RELAÇÃO A OUTRAS DUAS VÍTIMAS. RÉU PRONUNCIADO. DESPRONÚNCIA POR INSUFICIÊNCIA DE PROVAS. DESCABIMENTO. MATERIALIDADE DELITIVA DEMONSTRADA. INDÍCIOS SUFICIENTES DE AUTORIA. RECURSO NÃO PROVIDO. 1. Havendo prova da materialidade do fato e da existência de indícios suficientes da autoria, impõe-se a pronúncia do acusado, cabendo as teses defensivas suscitadas serem apreciadas pelo Conselho de Sentença, juízo competente para a causa. 2. Recurso não provido.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação ao art. 413, parágrafo único, art. 564, V, e art. 155, caput, todos do Código Penal.
+Afirmou que o Juízo de primeiro grau não valorou corretamente as provas, uma vez que não há prova judicializada que aponte para os indícios de autoria do recorrente quanto às imputações atribuídas na pronúncia. Requereu, assim, a impronúncia .
+O recurso especial foi inadmitido.
+Daí o presente agravo em recurso especial, no qual se alega não incidirem os óbices elencados (e-STJ fls. 1960-1968).
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+Contraminuta apresentada (e-STJ fls. 1972-1973).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo conhecimento do agravo e não conhecimento do recurso especial (e-STJ fls. 1988-1990).
+É o relatório.
+Decido.
+Ante a presença de impugnação dos fundamentos da decisão ora agravada, conheço do agravo e passo à análise do recurso especial.
+O recurso especial não reúne condições para ser conhecido.
+Conforme bem fundamentado no acórdão exarado pelo Tribunal de origem (e-STJ fls. 1350-1357), entendeu referido órgão, que subsistem elementos para fins de pronunciar o agravante. Asseverou que há indícios suficientes de autoria na prova produzida. Destacou trechos de depoimentos prestados na fase judicial que apontam para a presença dos indícios de autoria.
+Ademais, o pleito de impronúncia enseja em profundo reexame do conjunto fático-probatório, inviável nesta via excepcional, diante do óbice contido na Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA. INDÍCIOS DE AUTORIA E MATERIALIDADE. PROVAS DOS AUTOS. CERTIDÃO DE ÓBITO DA VÍTIMA E DEMAIS DOCUMENTOS REDIGIDOS EM LÍNGUA ESPANHOLA. AUSÊNCIA DE NULIDADE. SÚMULA 7/STJ. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. FALTA DE FUNDAMENTAÇÃO DA DECISÃO DE PRONÚNCIA. INSUBSISTÊNCIA DA ALEGAÇÃO. DESCLASSIFICAÇÃO. SÚMULA 7/STJ. EXCLUSÃO DAS QUALIFICADORAS. IMPOSSIBILIDADE. SOMENTE PODEM SER AFASTADAS QUANDO MANIFESTAMENTE IMPROCEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. No tocante a alegada nulidade absoluta por ausência de perícia, a Corte de origem consignou que houve exame cadavérico indicando a materialidade e a existência de fortes indícios de autoria baseado nas provas colhidas em instrução processual, sendo suficientes para que a pronúncia fosse admitida. Outrossim, observou que foi apresentada cópia da certidão de óbito da vítima, de modo que, embora tais documentos estivessem redigidos em espanhol, seriam idôneos e de fácil compreensão, possibilitando, portanto, a manutenção da pronúncia do réu.
+2. Para se chegar a conclusão diversa do acórdão recorrido, necessária seria a reanálise do contexto fático-probatório, o que não convém a esta Corte Superior, por vedação expressa da Súmula 7/STJ - "A pretensão de simples reexame de prova não enseja Recurso Especial".
+3. O reconhecimento de nulidades no curso do processo penal reclama uma efetiva demonstração do prejuízo à parte, sem a qual prevalecerá o princípio da instrumentalidade das formas positivado pelo art. 563 do CPP (pas de nullité sans grief).
+4. A Corte de origem confirmou a sentença de pronúncia por entender haver indícios de materialidade e autoria do delito de homicídio, pontuando que dos elementos de prova colhidos aos autos, em especial o testemunhal e os vídeos das imagens do atropelamento, não se poderia acolher o pleito de desclassificação para a modalidade culposa, ressaltando que no caso de dúvida compete ao Tribunal do Júri examinar a questão.
+5. A decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria. A pronúncia não demanda juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas, nessa fase processual, resolvem-se em favor da sociedade - in dubio pro societate.
+6. Para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela despronúncia do recorrente, desclassificação do delito ou mesmo para decotar as qualificadoras, conforme pleiteado pela defesa, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela já mencionada Súmula n. 7/STJ.
+7. Ao se prolatar a decisão de pronúncia, as qualificadoras somente podem ser afastadas quando se revelarem manifestamente improcedentes, o que não é o caso dos autos. As qualificadoras previstas nos incisos III e V do art. 121, § 2º, do Código Penal foram mantidas ao fundamento de que o réu, premeditadamente, saiu da rodovia em que transitava em alta velocidade para um pequeno centro urbano (fugindo da polícia em um veículo automotor que continha 550 kg de maconha), atropelando um pedestre, que veio a óbito.
+8. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.726.405/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/3/2021, DJe de 29/3/2021.) (Grifo nosso.)
+Dessa forma, entendo impertinente o acolhimento da tese defensiva quanto a despronúncia, invocando a aplicação da Súmula n. 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
