@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão que não conheceu do habeas corpus por ser substitutivo de recurso próprio.
+Sustenta a Defensoria Pública a ocorrência de omissão na decisão embargada, tendo em vista que não haveria necessidade de aprovação no ENEM para que se reconheça a remição, mas a mera participação, sequer existindo nota mínima a ser considerada.
+Requer o acolhimento dos presentes embargos para que seja sanado o apontado vício.
+É o relatório.
+Os embargos de declaração são cabíveis somente nas hipóteses previstas no art. 619 do Código de Processo Penal, quando houver na decisão embargada ambiguidade, obscuridade, contradição ou omissão, tendo a jurisprudência os admitido, também, para sanar eventual erro material na decisão embargada.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em ess ência, novo julgamento do caso.
+No caso, é inviável o acolhimento da pretensão recursal. Inexiste a omissão suscitada no presente recurso, pois a questão foi examinada, em cognição de flagrante ilegalidade, haja vista que incabível o habeas corpus por ser sucedâneo de recurso próprio.
+Ressaltou-se, ademais, que a decisão impugnada pelo habeas corpus estaria de acordo com o art. 3º da Resolução n. 391 do CNJ que aponta a necessidade de aprovação no ENEM para fins de remição, além da jurisprudência a respeito do tema que aponta se r esse fator essencial para fins de cálculo dos dias a serem remidos, infirmando, dessa forma, a alegação de que a mera participação, com nota acima de zero, já seria suficiente. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. ÓBICE DA SÚMULA N. 115/STJ. IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. NÃO OCORRÊNCIA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+2. Na espécie, a decisão de inadmissão do recurso especial assentou o óbice da Súmula n. 115/STJ. Todavia, no respectivo agravo, a Defesa deixou de rebater referido fundamento, limitando-se a trazer aos autos procurações e substabelecimentos de poderes.
+3. Esta Corte Superior pacificou o entendimento de que a ausência de efetiva impugnação dos fundamentos da decisão que inadmitiu o recurso especial na origem impede o conhecimento do agravo, nos termos do art. 932, III, CPC/2015, do art. 253, parágrafo único, I, do RISTJ e da Súmula n. 182/STJ, aplicável por analogia.
+4. Nos termos da jurisprudência do Superior Tribunal de Justiça, a aprovação, ainda que parcial, no Exame Nacional do Ensino Médio - ENEM confere ao reeducando o direito de remição equitativa da pena em expiação, mesmo que já tenha concluído o segundo grau quando do ingresso do sistema penitenciário.
+5. Ainda conforme a dicção desta Corte Superior, a aprovação do reeducando, quando parcial, ensejará o desconto de 20 (vinte) dias de pena por disciplina em que logrou aprovação, totalizando 100 (cem) dias remidos em caso de aprovação nas cinco áreas do conhecimento avaliadas no certame em questão.
+6. Agravo regimental não provido. Habeas corpus concedido de ofício para reconhecer o direito do reeducando de remir sua pena na proporção de 20 (vinte) dias por área de conhecimento em que logrou aprovação nos ENEM/2018 e ENEM/2019, ficando à cargo do Juízo das execuções penais proceder a totalização das horas remidas, nos termos desta decisão.
+(AgRg no AREsp n. 2.577.595/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 5/11/2024, DJe de 12/11/2024, grifo próprio)
+Portanto, "A remição de pena por estudo exige comprovação de aprovação em exames e certificação por autoridade educacional competente, conforme a Lei de Execução Penal e recomendações do CNJ" (HC n. 788.710/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Ante o exposto, diante da inexistência de vício a ser sanado, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+ EMENTA
