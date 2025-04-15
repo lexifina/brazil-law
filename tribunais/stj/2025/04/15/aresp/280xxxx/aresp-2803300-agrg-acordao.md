@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE CORRUPÇÃO ATIVA. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa não impugnou, de forma suficiente, os fundamentos da decisão que inadmitiu o recurso especial na origem. Limitou-se a apresentar alegações genéricas em sentido contrário às afirmações da decisão agravada e sobre o preenchimento dos requisitos de admissibilidade recursal.
+3. Agravo regimental improvido.
+RELATÓRIO
+Josana Paula Duarte Pires e Roberto Rodrigues Monteiro interpõem agravo regimental contra a decisão, de minha lavra, em que não conheci do agravo em recurso especial ante a ausência de impugnação dos fundamentos da decisão de inadmissão do recurso especial na origem (fls. 924/927).
+Nas razões do regimental, a defesa aduz que houve impugnação específica da Súmula 7/STJ, tanto que um dos argumentos que foi salientado foi o de que o recurso especial não tem por finalidade a discussão das provas juntadas aos autos, mas tão-somente a validade da conclusão jurídica a que chegou o Tribunal a quo (fl. 934).
+Reitera os argumentos de mérito do especial e pugna, ao final, pela reconsideração da decisão agravada ou pela submissão do presente recurso a julgamento pelo órgão colegiado (fls. 935/936).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE CORRUPÇÃO ATIVA. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+2. No caso, a defesa não impugnou, de forma suficiente, os fundamentos da decisão que inadmitiu o recurso especial na origem. Limitou-se a apresentar alegações genéricas em sentido contrário às afirmações da decisão agravada e sobre o preenchimento dos requisitos de admissibilidade recursal.
+3. Agravo regimental improvido.
+VOTO
+Não merece acolhida a pretensão dos agravantes.
+Não obstante os esforços perpetrados pela defesa, não verifico fundamentos suficientes para infirmar a decisão agravada.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Conforme assinalei na decisão ora agravada, o agravo de fls. 881/889 não apresentou impugnação específica aos fundamentos da decisão de inadmissibilidade do apelo nobre, quais sejam, a incidência das Súmulas 282, 283 e 356/STF e 7/STJ (fls. 875/878).
+Apenas se restringiu a alegar, de maneira genérica, que todos os fundamentos do aresto foram impugnados especificamente, e que não se cuida de simples reexame da prova, mas de revaloração dos critérios jurídicos (fl. 887). Nem sequer mencionou os óbices das Súmulas 282 e 356/STF.
+Ora, esta Corte tem reiteradamente decidido que os recursos devem refutar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos, não sendo suficientes meras alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia.
+Confiram-se: AgRg no AREsp n. 2.790.756/TO, Ministro Joel Ilan Paciornik, Quinta Turma, DJEN 11/2/2025; AgRg no AREsp n. 2.764.194/RO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 4/12/2024; AgRg no AREsp n. 2.661.535/SC, Ministro Og Fernandes, Sexta Turma, DJe 3/10/2024; AgRg no AREsp n. 2.545.293/GO, Ministra Daniela Teixeira, Quinta Turma, DJe 10/5/2024; AgRg no AREsp n. 2.379.751/PI, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 30/10/2023; AgRg no AREsp n. 2.138.577/SC, Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe 28/3/2023 e AgRg no AREsp n. 2.202.906/SC, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/11/2022.
+Portanto, a parte agravante que não infirma todos os fundamentos da decisão de inadmissibilidade da origem, como na hipótese dos autos, encontra óbice no conhecimento de seu recurso, nos termos do enunciado da Súmula 182/STJ, art. 253, parágrafo único, I, do RISTJ e do art. 932, III, do Código de Processo Civil.
+É importante esclarecer que os apelos extremos encaminhados às Cortes Superiores - Superior Tribunal de Justiça e Supremo Tribunal Federal - possuem pressupostos específicos para a sua interposição, os quais devem ser atendidos pela parte recorrente. Longe de ser formalismo, as regras processuais e as súmulas jurisprudenciais delimitam os requisitos específicos para a interposição dos apelos extremos.
+Assim, os frugais argumentos apresentados não são aptos para desconstituir a decisão agravada.
+Em face do exposto, nego provimento ao agravo regimental.
