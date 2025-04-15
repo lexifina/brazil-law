@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de GUILHERME SERGIO EXPEDITO DE PAULA RAMOS, em que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento da apelação criminal n. 1501146-69.2022.8.26.0571.
+Consta dos autos que o paciente foi condenado pela suposta prática do delito descrito no art. 33, caput, c/c o art. 40, inciso V I, ambos da Lei n. 11.343/06, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e 583 (quinhentos e oitenta e três) dias-multa, no piso, em razão de fato ocorrido em 26 de agosto de 2022.
+Irresignado, interpôs a sobredita apelação, parcialmente provida para ligeira alteração da pena-base, sem reflexo na pena final.
+Neste habeas corpus, a defesa busca, sucessivamente (i) a decretação da ilicitude das provas decorrentes da busca pessoal sem fundadas suspeitas; (ii) a nulidade das provas decorrentes do interrogatório policial e o consequente desentranhamento dos autos, pela ausência do aviso ao direito do silêncio; e (iii) a absolvição do paciente, uma vez que "a droga não foi encontrada em sua posse e sim em via pública" (fl. 15).
+Informações prestadas pela autoridade coatora (fls. 75-101).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do habeas corpus. (fls. 106-117).
+É o relatório. DECIDO.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Além disso, não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância ao § 2º do artigo 654 do Código de Processo Penal.
+Cinge-se a controvérsia acerca de possível coação ilegal por alegada nulidade de provas derivadas de busca pessoal sem fundadas suspeitas, bem como de interrogatório policial sem respeito do direito ao silêncio.
+Com efeito, no que tange à apontada invalidade das provas obtidas, verifico que o Tribunal local concluiu, a partir das circunstâncias fáticas delineadas nos autos, que foi regular e justificada a atuação policial, pautada no poder-dever conferido pelo Estado.
+Consoante se extrai do acórdão impugnado, havia elementos fáticos suficientes a amparar a execução da abordagem pela autoridade policial.
+Destaca-se (fl. 59):
+ ..  A despeito do entendimento esboçado pelo d. defensor, não houve nenhuma irregularidade formal na atuação dos policiais durante a diligência e prisão em flagrante delito do ora apelante. Aliás, a atuação dos agentes públicos ocorreu em razão de todo um contexto que os levou a desconfiar sobre eventual ilicitude na conduta do recorrente e dos comparsas, sendo o corréu observado em atitude típica de "olheiro", ao avisar a chegada dos policiais e os demais, que entraram em fuga logo após, todos em local conhecido como ponto de venda de drogas. Assim, é legítima a interpelação do recorrente pelos policiais.  ..
+Desse modo, verifica-se que foi constatada a existência de indícios prévios da prática de crime, o que autoriza a atuação policial, não havendo que se falar em nulidade decorrente das provas obtidas.
+Por sua vez, não há que se falar em nulidade por alegada ausência de aviso ao paciente do direito ao silêncio no ato da prisão em flagrante, pois não se observa a comprovação do efetivo prejuízo para a defesa, sobretudo considerando que foi oportunizado o direito ao silêncio, conforme destacado pela autoridade apontada como coatora (fls. 462-463):
+ ..  Em acréscimo, deve-se destacar a inexistência de prejuízo com a confissão informal do recorrente, uma vez que voltou a admitir o tráfico em solo policial, quando devidamente advertido sobre seu direito ao silêncio, como constou do termo de interrogatório (fl. 16).
+Aliás, conforme bem pontuado pelo Magistrado a quo, a autoridade policial presidiu o ato, o que rechaça possível inverdade, e o questionamento a respeito do constante no termo acima mencionado chama para si o ônus probatório, do qual o apelante não se desincumbiu; e nenhuma prova concreta nesse sentido foi apresentada, nem sequer questionados os agentes públicos em audiência de instrução pela il. Defesa. Ou seja, nenhuma nulidade há de ser reconhecida.  ..
+Portanto, não vislumbro constrangimento ilegal a ser sanado no presente writ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
