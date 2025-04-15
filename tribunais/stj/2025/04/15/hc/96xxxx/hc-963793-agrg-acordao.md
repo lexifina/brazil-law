@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SAÍDAS TEMPORÁRIAS. APLICAÇÃO RETROATIVA DE NORMA MAIS GRAVOSA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto pelo Ministério Público contra a decisão que concedeu a ordem para restabelecer a decisão do Juízo da execução penal, que deferira o pedido de saídas temporárias do paciente.
+2. A questão em discussão consiste em saber se as alterações promovidas pela Lei n. 14.843/2024 na Lei de Execução Penal, que restringem o gozo das saídas temporárias, podem ser aplicadas retroativamente a execuções penais em andamento, em respeito ao princípio da irretroatividade da lei penal mais gravosa.
+3. A jurisprudência desta Corte Superior entende que o § 2º do art. 122 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, não pode ser aplicado retroativamente a fatos ocorridos antes de sua vigência, em respeito ao princípio da irretroatividade da lei penal mais gravosa.
+4. O agravante não apresentou fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+5. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contra a decisão de fls. 118-120, que concedeu a ordem para restabelecer a decisão do Juízo da execução penal, que deferira o pedido de saídas temporárias do paciente.
+Nas razões deste recurso, a defesa aduz que "o referido instituto  saída temporária  e, notadamente, sua cessação, possuem natureza processual, que, portanto, não atrai a aplicação do princípio contido no art. 5º, XL, da Constituição Federal", de maneira que "as modificações trazidas pela Lei n. 14.843/24 na Lei de Execução Penal, no que diz respeito à restrição das saídas temporárias e do trabalho externo" seriam "norma de aplicação imediata" (fls. 131-32).
+Ao final, pede a reconsideração da decisão agravada e, em caso contrário, a submissão do recurso ao c olegiado, para que proveja o agravo regimental.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SAÍDAS TEMPORÁRIAS. APLICAÇÃO RETROATIVA DE NORMA MAIS GRAVOSA. AGRAVO IMPROVIDO.
+1. Agravo regimental interposto pelo Ministério Público contra a decisão que concedeu a ordem para restabelecer a decisão do Juízo da execução penal, que deferira o pedido de saídas temporárias do paciente.
+2. A questão em discussão consiste em saber se as alterações promovidas pela Lei n. 14.843/2024 na Lei de Execução Penal, que restringem o gozo das saídas temporárias, podem ser aplicadas retroativamente a execuções penais em andamento, em respeito ao princípio da irretroatividade da lei penal mais gravosa.
+3. A jurisprudência desta Corte Superior entende que o § 2º do art. 122 da Lei de Execução Penal, com redação dada pela Lei n. 14.843/2024, não pode ser aplicado retroativamente a fatos ocorridos antes de sua vigência, em respeito ao princípio da irretroatividade da lei penal mais gravosa.
+4. O agravante não apresentou fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+5. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam nenhum equívoco na decisão recorrida.
+Conforme consta da decisão agravada, o acórdão impugnado, que revogou a autorização para saídas temporárias concedida ao paciente, foi proferido nos seguintes termos (fls. 11-12):
+Em que pese meu posicionamento em sentido diverso até então, e não obstante a divergência deste Tribunal sobre a matéria, acompanho, por ora, até a uniformização da temática nas Cortes, as razões do Ministério Público para adotar a aplicabilidade imediata das alterações promovidas pela Lei 14.843/2024 às execuções penais em andamento, por entender que as inovações não tratam de conteúdo de natureza material, já que não implicam a supressão de direito ou garantia aos apenados, mas tão somente regulam os requisitos para o gozo de um benefício já previsto.
+Isto é, visto que a recente lei alterou apenas os procedimentos relativos à execução da pena, está ela sujeita ao princípio tempus regit actum, nos moldes do art. 2º do Código de Processo Penal, in verbis: "A lei processual penal aplicar-se-á desde logo, sem prejuízo da validade dos atos realizados sob a vigência da lei anterior".
+Oportuno consignar meu entendimento no sentido de que, caso já concedido ao apenado o benefício da saída temporária antes do advento da nova norma, deve assim ser mantido, a fim de se resguardar o direito daqueles que à época tiveram o benefício devidamente deferido com base em lei vigente no período, admitindo-se a revogação da benesse apenas se verificado não mais preencher os requisitos para tanto - situação diversa do caso presente.
+Dessa forma, considerando que o apenado cumpre pena por crime de roubo majorado entre outros, e que a LEP, com a alteração promovida pela Lei 14.843/2024, passou a impedir a concessão da saída temporária para condenados por crimes hediondos e equiparados e cometidos com violência e/ou grave ameaça, a decisão que concedeu o benefício deve ser reformada.
+A decisão da Corte estadual contraria a orientação da jurisprudência desta Corte Superior, cujo entendimento é o de que o "§ 2º do art. 122 da Lei de Execução Penal, com redação dada Lei n. 14.843/2024, torna mais restritiva a execução da pena, restringindo o gozo das saídas temporárias aos condenados por crimes hediondos ou cometido com violência ou grave ameaça à pessoa, não pode ser aplicado retroativamente a fatos ocorridos antes de sua vigência, em respeito ao princípio da irretroatividade da lei penal mais gravosa" (HC n. 932.864/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. ART. 112, § 1º, DA LEP, NA REDAÇÃO DADA PELA LEI N. 14.843/2024. NORMA MAIS GRAVOSA. IMPOSSIBILIDADE DE SUA APLICAÇÃO À EXECUÇÃO EM CURSO. INCIDÊNCIA DA SÚMULA N. 439/STJ. DECISÃO JUDICIAL QUE DETERMINA A REALIZAÇÃO DA PERÍCIA PAUTADA NA GRAVIDADE ABSTRATA DO DELITO. CONSTRANGIMENTO ILEGAL VERIFICADO. ORDEM CONCEDIDA. RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO.
+1. Em outras alterações efetuadas na Lei de Execuções Penais, as Cortes Superiores firmaram entendimento no sentido de que as novas disposições deveriam ser aplicadas aos delitos praticados após a sua vigência, por inaugurarem situação mais gravosa aos apenados.
+2. Ressalta-se que, no âmbito do Supremo Tribunal Federal, ao analisar as modificações trazidas pela Lei n. 14.843/2024 no direito às saídas temporárias, o Ministro André Mendonça, relator do HC n. 240.770/MG, entendeu que se trata de novatio legis in pejus, incidente, portanto, aos crimes cometidos após o início de sua vigência.
+3. Cabe estender esse raciocínio à nova redação do art. 112, § 1º, da LEP, que passou a exigir exame criminológico para progressão de regime, de modo que deve ser mantido o entendimento firmado na Súmula n. 439/STJ, segundo o qual "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. Em se tratando de hipótese na qual foi exigido o exame criminológico mediante decisão fundada exclusivamente na gravidade abstrata do delito, sem análise dos elementos concretos da execução da pena, verifica-se constrangimento ilegal apto a ensejar a concessão da ordem, de ofício.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 929.034/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 30/9/2024, DJe de 4/10/2024.)
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
