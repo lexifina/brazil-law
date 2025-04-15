@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de Agravo apresentado por VALDICELIA FERREIRA DE MELLO e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO INDENIZATÓRIA. SERVIÇOS ADVOCATÍCIOS. ALEGAÇÃO DE MÁ ORIENTAÇÃO NO PAGAMENTO DE CONDENAÇÃO E NA VENDA DE BEM LITIGIOSO. SENTENÇA DE IMPROCEDÊNCIA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 187 e 926 do CC, no que concerne a negligência e imperícia do recorrido que, na qualidade de advogado, deixou de prestar orientações adequadas, além de deixar de recorrer de decisão desfavorável e requerer produção de provas aptas a defender seus interesses, ocasionando-lhe dano moral, trazendo a seguinte argumentação:
+Ocorre que, no caso ora em análise, foram comprovados diversos erros grosseiros perpetrados pelo patrono, ora réu.
+ ..
+Constata-se uma série de atos que consubstanciam negligência e imperícia por parte do réu, que não recorreu de nenhuma decisão desfavorável nem produziu qualquer prova apta a defender os interesses dos autores.
+Como dito, a única medida que adotou foi a propositura de reconvenção, que sequer foi admitida, uma vez que o patrono a utilizou equivocadamente.
+ ..
+A despeito do não recebimento da reconvenção, o réu-recorrido não buscou impugnar a decisão do magistrado, deixando-a precluir, ainda que contrária aos interesses dos autores.
+Aliás, era relativamente comum que suas peças sequer fossem admitidas, porque o réu-recorrido interpôs diversas peças fora das hipóteses de cabimento, que ensejavam o reconhecimento de erro grosseiro e, por isso, sequer eram conhecidas.
+ ..
+Outro equívoco grosseiro também ocorreu no pagamento da condenação.
+Após assessorar muito mal a parte autora, os autores foram condenados a pagar indenização de R$ 7.000,00 (sete mil reais) por danos morais.
+No cumprimento da sentença, a parte adversária calculou juros e correção monetária, solidificando a dívida em R$ 10.781,91.
+Porém, os autores, novamente mal orientados, efetuaram o pagamento apenas do principal, de forma parcelada, sem que tivessem sido orientados a pagar o valor principal devidamente corrigido e acrescido dos juros legais.
+Além disso, o advogado-réu se equivocou nos cálculos, o que ocasionou confusão no processo e levou o juiz a rejeitar o pedido de parcelamento do débito.
+Como bem ressaltou o patrono adverso do réu-recorrido, "os executados não observaram o valor correto da execução".
+Com efeito, gerou-se nova dívida, a qual em julho/2018 já estava em R$ 6.247,61.
+Todas essas alegações são incontroversas e restaram comprovadas, de modo que se requer apenas a revaloração do conjunto probatório, especialmente das cópias juntadas em fls. 116/160.
+ ..
+Por fim, também inconteste a configuração de danos extrapatrimoniais.
+Os autores sofreram com verdadeiros transtornos causados por todas essas situações, em especial com a alienação indevidamente realizada e, uma vez comprovado o dolo ou a culpa na atuação do profissional, tendo a parte sofrido abalo de ordem moral em decorrência da falha da prestação do serviço, cabível a indenização por danos morais.
+Conforme exposto, o réu, mesmo sabendo da litigiosidade do bem em questão, não só orientou e incentivou os autores a venderem o imóvel objeto da lide, como também elaborou o contrato e participou do ato como testemunha da transação (fls. 176/180).
+ ..
+Assim, o réu participou da venda do bem em litígio, quando era seu dever saber que a coisa não poderia ser vendida, eis que a demanda ainda não havia chegado ao fim, sendo certo ainda que, diante dos termos da liminar que ora se tem conhecimento, sequer houve efetiva reintegração da autora na posse do bem, mas simples autorização para ingresso no imóvel (fl. 224), já que as alegações eram no sentido de que o imóvel estava fechado, desabitado, e que os autores precisavam nele ingressar para obras e consertos.
+Deve ser lembrado que a obrigação do advogado é de meio, o que significa dizer estar satisfeita a obrigação do advogado desde que ele atue com a prudência e diligências necessárias ao desempenho de suas atividades, o que não aconteceu no caso sob exame (art. 2º, parágrafo único, inciso II, do Código de Ética da OAB).
+Neste tipo de contrato o objeto da obrigação não é o êxito na causa ou a vitória do cliente, e sim o desempenho cuidadoso e consciente do mandato, dentro da técnica usual.
+A situação narrada nos autos, sobretudo se considerada a teoria da perda de uma chance pela falha dos réus, é passível de indenização por danos morais e materiais, na forma dos violados arts. 187 e 926 do Código Civil, pois o contexto narrado extrapola qualquer realidade.
+Quem contrata um advogado espera, no mínimo, que o patrono tome as medidas cabíveis de forma a defender o seu interesse, como interpor recurso de decisões desfavoráveis e calcular as indenizações porventura devidas de forma correta, o que não ocorreu (fls. 518/524).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No entanto, analisando os elementos colacionados aos autos, não se verifica qualquer conduta indevida do Apelado, pois, no documento acostado com a inicial no index 00119, é possível verificar ter sido adotada prerrogativa de parcelamento do débito prevista no art. 745-A do CPC/73, referendada pelo Juízo (index 00126), ponto reiterado pelo Réu em seu depoimento prestado na Audiência de Instrução e Julgamento.
+E, em momento posterior, ao serem intimados para pagamento da diferença de débito, foi apresentada pelos Autores, ainda patrocinados pelo Réu, petição requerendo o seu parcelamento face às dificuldades financeiras que estavam enfrentando (index 00141), proposta não aceita pela Exequente (index 00142). Após esse pedido, os Autores passaram a ser representados judicialmente pela Defensoria Pública (index 00148), o que também foi mencionado pelo Réu na AIJ.
+Assim, não se verifica a existência de qualquer indício apontando ter o Recorrido conduzido o cumprimento de sentença de forma contrária ao melhor interesse de seus patrocinados.
+No que concerne às informações relacionadas à venda do imóvel, do mesmo modo, não foram acostados aos autos elementos mínimos de que não foram os Autores devidamente orientados sobre as repercussões do negócio.
+Como bem apontado pelo Magistrado sentenciante, os Autores sequer arrolaram os adquirentes como teste munhas para que pudesse esclarecer como se desenvolveram os trâmites da negociação, e, com isso, comprovar que partiu do Réu a iniciativa de vender o imóvel, como afirmam ter ocorrido.
+Destaque-se que em seu depoimento pessoal, o Réu contou que a Autora compareceu a seu escritório dizendo que precisava vender parte do imóvel, acrescentando o depoente que foram dadas todas as informações sobre a situação do bem, especialmente quanto à ausência de titularidade e de averbação junto à Municipalidade. Informou ainda que os adquirentes, quando se apresentaram, avisaram que já haviam fechado o negócio, estando ali somente para a formalização.
+Cumpre salientar que tão somente o fato de ter elaborado o documento que oficializou a venda do bem litigioso e dele participado como testemunha não é suficiente para corroborar a alegação autoral de que o Réu os induziu a realizar a alienação, ocasionando os transtornos que aduzem ter enfrentado.
+Destarte, considerando que não restou caracterizada nenhuma conduta falha do Réu no desempenho de seu ofício, apta a caracterizar a pretendida responsabilização e o dever de indenizar, forçoso reconhecer que a parte Autora não se desincumbiu da prova do direito invocado, na forma prevista no art. 373, I do CPC, mostrando-se imperiosa a manutenção da sentença de improcedência (fls. 468/469, grifo meu).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
