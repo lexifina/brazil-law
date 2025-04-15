@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial apresentado em oposição a acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento da Apelação Criminal n. 1.0000.24.195849-5/001.
+Consta dos autos que o agravado foi condenado, em primeiro grau, à pena de 1 ano e 7 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 8 dias-multa, como incurso no art. 155, § 4º, inciso II, c/c o art. 14, inciso II, ambos do Código Penal.
+O Tribunal de origem deu provimento ao recurso da defesa, em acórdão assim ementado (e-STJ fl. 269):
+APELAÇÃO CRIMINAL - FURTO - AUSÊNCIA DE PROVAS ROBUSTAS DA AUTORIA DELITIVA - ABSOLVIÇÃO - PRINCÍPIO IN DUBIO PRO REO. - Nos casos em que não existem provas robustas da autoria delitiva para embasar a condenação, ainda que haja suspeitas de que o agente tenha cometido o delito, impõe-se a absolvição com base no princípio do in dubio pro reo.
+V. V. APELAÇÃO CRIMINAL - FURTO QUALIFICADO TENTADO (ART. 155, § 4º, INCISO II, C/C ART. 14, INCISO II, AMBOS DO CÓDIGO PENAL) - ABSOLVIÇÃO - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE SUFICIENTEMENTE COMPROVADAS - ALTERAÇÃO DA FRAÇÃO DE DIMINUIÇÃO DA TENTATIVA - IMPOSSIBILIDADE. - Nos crimes contra o patrimônio, a palavra da vítima tem grande valor probatório, inclusive quando se mostra coerente e harmônica com as demais provas dos autos. - Os depoimentos firmes e coerentes de policiais militares possuem reconhecido valor probante, se prestando à comprovação dos fatos narrados na denúncia, sempre que isentos de qualquer suspeita e em harmonia com o conjunto probatório, sobretudo quando lastreados em outras provas dos autos, como se verifica no presente caso. - A fração de diminuição da tentativa (art.14, II, do CP) deve ser fixada com base no iter criminis percorrido, sendo a redução inversamente proporcional à aproximação do resultado. Esgotando o agente todo o "iter criminis" para a consumação do crime, somente não alcançando seu objetivo por circunstâncias alheias à sua vontade, razoável a adoção da fração de redução em seu patamar mínimo (1/3).
+O Ministério Público opôs embargos de declaração, os quais foram rejeitados. Eis a ementa do julgado (e-STJ fl. 303):
+EMBARGOS DE DECLARAÇÃO - FURTO QUALIFICADO - AUSÊNCIA DE PROVAS ROBUSTAS DA AUTORIA DELITIVA - ABSOLVIÇÃO - INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 620 DO CPP - EMBARGOS NÃO ACOLHIDOS. - Depoimento contraditório e desconexo de vítima e de testemunha ocular não deve embasar uma condenação. - Ausentes as hipóteses de omissão, contradição, obscuridade ou erro material, não há como prosperar o inconformismo do embargante, cujo real objetivo é a reforma do decisum, não passível de revisão em sede de embargos de declaração.
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, o Ministério Público alegou violação ao art. 155 do Código Penal e aos arts. 156, 239 e 619 do Código de Processo Penal e 1.022, inciso II, c/c o art. 489, § 1º, inciso VI, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal.
+Afirmou que a condenação se baseia em provas suficientes, incluindo depoimentos de policiais militares e apreensão da res furtiva.
+Requereu, assim, o restabelecimento da sentença condenatória.
+O recurso especial foi inadmitido pela aplicação da Súmula n. 7/STJ.
+Daí o presente agravo em recurso especial, no qual se alega que o recurso especial não demanda reexame de fatos e provas, mas apenas revaloração.
+Requer o conhecimento do agravo para que seja provido o recurso especial.
+O Ministério Público Federal, em seu parecer, manifestou-se pelo conhecimento e desprovimento do agravo em recurso especial (e-STJ fl. 404).
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+O Tribunal de origem, ao entender pela condenação do réu, destacou que "a prova carreada ao processo não é suficiente para extirpar a incerteza acerca de sua autoria, fato que, na seara criminal, obsta a prolação de um decreto condenatório" (e-STJ fl. 274), ressaltando, ainda, que, "persistindo a dúvida, mínima que seja, impõe-se a absolvição em atenção ao princípio do in dubio pro reo. Portanto, não sendo alcançado um grau de convencimento, a dúvida remanescente beneficia o acusado" (e-STJ fl. 275).
+Verifica-se, dessa forma, que a absolvição foi fundamentada na ausência de elementos concretos que indiquem, com a certeza necessária, que o agravado praticou o crime.
+Assim, a alteração da conclusão das instâncias de origem demandaria incursão em elementos de fatos e provas, o que é vedado em âmbito de rec urso especial, pela incidência da Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
