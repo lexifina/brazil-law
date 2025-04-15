@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por KAIQUE ANDRADE DE CARVALHO contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso no art. 155, § 4º, incisos I, II e IV, c/c art. 14, II, ambos do Código Penal, à pena de 2 (dois) anos de reclusão, em regime inicial semiaberto, além de 10 (dez) dias-multa no valor unitário mínimo legal (fls. 272-279).
+O Tribunal de origem negou provimento a o recurso interposto pela defesa, mantendo a condenação do agravante (fls. 322-331).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal. Em suas alegações recursais, sustentou violação aos arts. 33, § 3º, e 59, ambos do Código Penal, argumentando que o regime inicial semiaberto foi fixado sem fundamentação idônea, considerando apenas a reincidência. Alegou que a reincidência, por si só, não justifica a imposição de regime mais severo e que seria cabível o regime aberto para o início do cumprimento da pena (fls. 345-353).
+O recurso especial foi inadmitido na origem, em razão dos óbices das Súmulas n. 283/STF e 7/STJ (fls. 365-366).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustenta que o recurso especial impugnou todos os fundamentos do acórdão recorrido e que não há necessidade de reexame de provas, mas apenas de revaloração do acervo probatório já delineado no acórdão. Reiterou a necessidade de fixação do regime aberto, conforme a jurisprudência do STJ, argumentando que a reincidência, isoladamente, não justifica a imposição de regime mais gravoso (fls. 374-384).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 407-409).
+É o relatório. DECIDO.
+Deve-se conhecer do agravo, porque tempestivo e impugnou, adequadamente, os fundamentos da decisão do Tribunal a quo que inadmitiu o recurso especial.
+Na hipótese, contudo, a questão acerca da fixação do regime inicial de cumprimento de pena encontra óbice na Súmula n. 83/STJ.
+O Tribunal de origem exarou fundamentação idônea e suficiente para a fixação do regime inicial semiaberto, considerando a reincidência do agravante, conforme se extrai do seguinte excerto (fls. 329-330):
+"Acertada a condenação de Kaique, relativamente à dosagem, vê-se que a pena base ficou acima do piso em 03 (três) anos de reclusão, mais multa, referindo o MM. Juiz a condenações definitivas do réu (autos nº 0076051-43.2016.8.26.0050, 0007818-95.2018.8.26.0026 fls. 30/33).
+Ressabido ainda que de acordo com o princípio da individualização da pena afigura-se mais sensato punir com maior severidade aqueles indivíduos que possuam registro de condenação criminal em relação àqueles que não tenham qualquer anotação ou sequer folha de antecedentes, por exemplo. Na segunda fase, procedeu o MM Juiz à compensação entre a agravante da reincidência (processo nº 0007464-23.2017.8.26.0635 fl. 30) e a atenuante da confissão, em atenção ao Tema Repetitivo 585, do e. Superior Tribunal de Justiça  ..
+Por fim, aplicada a causa de diminuição da tentativa, as penas foram diminuídas em 1/3 (um terço) diante do iter criminis percorrido, tornando-se definitivas em 02 (dois) anos de reclusão mais 11 dias-multa, reputando-se como adequadas para o alcance de suas finalidades.  ..
+O regime inicial escolhido foi o semiaberto, atento o MM. Juiz à reincidência do réu, mostrando-se acertada a estipulação porque obedecidos os artigos 33, §§ 2º e 3º, e 59 do Código Penal.
+Veja-se que, como já decidido, para a escolha do regime adequado e suficiente nem estava o julgador atrelado tão somente ao quantum da pena corporal, como vem se decidindo (AgReg no HC nº 744.104/SP, rel. Min. Reynaldo Soares da Fonseca, j. em 21/06/2022). Por isso que a imposição de regime mais brando nem se mostraria recomendável." (grifei)
+Assim, devidamente preenchidos os parâmetros de fundamentação estabelecidos pelos Tribunais Superiores nas Súmulas n. 269 e 440/STJ e nas Súmulas n. 718 e 719/STF.
+Verifico que não foi estabelecido regime mais gravoso do que o cabível pela sanção imposta. Isso porque o art. 33, § 2º, alínea c, do Código Penal estabelece que "o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto". Não é o caso do recorrente, que é multirreincidente, pois possui contra si quatro condenações transitadas em julgado, como apontado pelo Tribunal de origem.
+Em situações análogas, entende a jurisprudência desta Corte:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. CRIME DE DANO QUALIFICADO. ALEGADA AUSÊNCIA DE DOLO ESPECÍFICO. ORDEM DENEGADA.  ..  5. Outra questão em discussão é a possibilidade de abrandamento do regime prisional para o aberto, considerando a reincidência do paciente.
+III. Razões de decidir  ..
+8. A condição de reincidente do paciente impede a fixação do regime aberto, sendo o regime semiaberto o mais brando legalmente admitido, conforme o art. 33, § 2º, c, do Código Penal e a Súmula 269 do STJ. Não se caracterizou alguma excepcionalidade a autorizar a imposição de regime menos gravoso.
+IV. Dispositivo e tese  ..
+9. Ordem denegada.
+Tese de julgamento:  ..  3. A reincidência impede a fixação do regime aberto, sendo o regime semiaberto o mais brando legalmente admitido."
+Dispositivos relevantes citados: CF/1988, art. 105, I, c; CP, art. 33, § 2º, "c"; CP, art. 44.Jurisprudência relevante citada: STJ, AgRg no HC 905.956/SC, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 17/6/2024, DJe de 20/6/2024; STJ, AREsp n. 2.466.455/PI, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025; STJ, REsp n. 2.049.987/ES, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 23/12/2024." (HC n. 971.824/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025, grifei)
+Assim, as circunstâncias delineadas no acórdão recorrido estão consoantes com o entendimento desta Corte Superior, impedindo, pois, o conhecimento do recurso nos moldes do verbete n. 83 da Súmula do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a , do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
