@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Paulo Rogerio Goncalves da Silva contra a decisão de minha relatoria em que não conheci do habeas corpus pela ausência do decreto prisional (fls. 144/145).
+Requer o agravante, em síntese, a reconsideração da decisão agravada, ao tempo em que colaciona a cópia do documento que estava ausente dos autos.
+É o relatório.
+O presente agravo regimental deve ser conhecido, já que reúne os requisitos de admissibilidade.
+Devidamente instruídos os autos, passo à análise da insurgência apresentada.
+Consta nos autos que o paciente teve sua prisão preventiva decretada pelo Juízo da 2ª Vara Criminal da comarca de Santa Helena de Goiás/GO, em razão da suposta prática do crime de tráfico de drogas. A medida cautelar foi fundamentada na garantia da ordem pública, evidenciada pelas circunstâncias do flagrante, que foi precedido de investigação policial, culminando na apreensão de entorpecentes - 5,26 g de maconha e cocaína - e dinheiro. Ressaltou-se ainda a periculosidade social do custodiado, especialmente em razão de ostentar condenação anterior pelo crime de porte irregular de arma de fogo. Esses fundamentos foram devidamente corroborados pelo Tribunal de Justiça ao analisar a legalidade da medida.
+Nas razões do writ, a defesa sustenta a ausência dos requisitos autorizadores da prisão preventiva, considerando a pequena quantidade de droga apreendida - 5,26 g entre maconha e cocaína -, e a ausência de reincidência específica, além de o paciente possuir profissão lícita e endereço fixo (fls. 6/8).
+Pois bem, a despeito de idôneos os fundamentos apresentados pelas instâncias ordinárias, verifico ser desproporcional a imposição da prisão preventiva, especialmente considerando a quantidade não expressiva da droga apreendida e o fato de o crime ter sido cometido sem o emprego de violência.
+A prisão preventiva deve ser a ultima ratio, ou seja, aplicada somente quando outras medidas cautelares não forem adequadas para garantir a ordem pública, a aplicação da lei penal ou a conveniência da instrução criminal. A decisão de manter a prisão preventiva deve ser fundamentada na necessidade, adequação e proporcionalidade da medida em relação aos fatos e circunstâncias do caso.
+Ante o exposto, dou provimento ao agravo regimental para reconsiderar a decisão de fls. 144/145 e conceder liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUTOS DEVIDAMENTE INSTRUÍDOS. TRÁFICO DE DROGAS. 5,26 G DE COCAÍNA E MACONHA. PRISÃO PREVENTIVA. REINCIDÊNCIA. QUANTIDADE DE DROGAS NÃO EXORBITANTES. SUBSTITUIÇÃO POR CAUTELARES. POSSIBILIDADE E ADEQUAÇÃO.
+Agravo regimental provido para reconsiderar a decisão de fls. 144/145 e conceder a ordem liminarmente.
