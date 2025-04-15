@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela DEFENSORIA PÚBLICA DO ESTADO DO MATO GROSSO em favor de JULIANDERSON APARECIDO DA SILVA SANTOS e LUIZ FABIANO DE OLIVEIRA JUNIOR contra decisão do TRIBUNAL DE JUSTIÇA DO MATO GROSSO (fls. 1014/1020) que inadmitiu recurso especial.
+Nas razões de recurso de agravo (fls. 1024/1030), articulou que a testemunha cuja inquirição antecipada se deferiu não é policial militar e que não há motivo concreto, afora o decurso do tempo, para que a Súmula nº 455 do Superior Tribunal de Justiça seja relativizada. Pediu o provimento do agravo para, afastando a Súmula nº 83 do Superior Tribunal de Justiça, que se dê trâmite ao recurso especial, o qual deve ser acolhido para impedir a produção antecipada de provas consistente em inquirição da testemunha que não é policial militar.
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 1059/1067).
+É o relatório. DECIDO.
+Leitura do acórdão de fls. 936/950 aponta que 2 (dois) foram os fundamentos utilizados para que os embargos infringentes opostos pela defesa fossem rejeitados: i) é viável a inquirição, em produção antecipada de provas, de testemunha que não é policial militar, em razão do decurso do tempo, dificuldade de posterior localização e potencial criação de falsas memórias; ii) a produção antecipada de provas não causa prejuízo à defesa, uma vez que a Defensoria Pública atuará em audiência, podendo, quando localizados os recorrentes e retomada a marcha processual, requerer a produção de outras provas, incluída a reinquirição das testemunhas já ouvidas.
+Embora o primeiro fundamento tenha sido objeto do recurso especial e, posteriormente, do agravo, quando se articulou argumentação tendente a demonstrar que o acórdão não se adequada à jurisprudência desta Casa, o segundo ponto que embasou a rejeição dos embargos infringentes não sofreu ataque específico.
+Assim, o recurso especial não reúne condição de tramitar, conclusão a que se chega firme na Súmula nº 283 do Supremo Tribunal Federal, por analogia.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, "a", do RISTJ.
+Publique-se. Intime-se.
+EMENTA
