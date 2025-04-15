@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de ALEX NENE DE SOUZA em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO nos autos do Agravo de Execução Penal de nº 0011059-15.2024.8.26.0496.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, pois a conduta do paciente não pode ser enquadrada como falta grave, pois quando desfrutava de saída temporária foi abordado dentro de sua própria residência, que se trata, na verdade, de uma mercearia e não de um bar, como consta do boletim de ocorrência.
+Alega, ainda, que o imóvel em questão, é ocupado pelo paciente e seus familiares há mais de 20 (vinte) anos e quem desde a sua primeira saída temporária, sempre foi fiscalizado no mesmo local, sendo que, somente nesta 18º (decima oitava) vez, foi abordado e preso por descumprimento das regras da saída temporária.
+Aduz, por fim, que atingiu o lapso para progressão de regime ao aberto em 18.05.2023, e aguarda, para sua progressão, a realização do exame criminológico requerido pelo Juízo de primeiro grau.
+Sustenta, por fim, que é necessária prévia oitiva judicial do apenado antes da regressão de regime por suposta prática de falta grave.
+Requer, em suma, a absolvição da falta disciplinar, vez que não deixou de cumprir nenhuma regra da saída temporária, bem como a sua nulidade em razão da ausência de audiência de justificação.
+É o relatório.
+Decido.
+A Terceira Seção do STJ, no julgamento do HC n. 535.063/SP, firmou entendimento de que não cabe Habeas Corpus substitutivo de recurso próprio, impondo-se o não conhecimento da impetração, salvo quando constatada alguma teratologia no ato judicial impugnado (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).
+Assim, passo à análise das razões da impetração a fim de verificar se há flagrante ilegalidade que justifique a concessão do writ de ofício.
+Na espécie, consta do Voto condutor do acórdão impugnado a seguinte fundamentação quanto à controvérsia apresentada:
+Desse modo, a punição está suficientemente justificada, não havendo falar-se em atipicidade da conduta em comento ou em absolvição, vez que o réu violou as regras estipuladas e por ele assumidas, descumprindo o disposto na Portaria do DEECRIM, pois se encontrava em local proibido e jogando bilhar, conforme declinado no boletim de ocorrência, o que, por si só, justifica o reconhecimento da falta grave.
+Portanto, o reeducando deixou de cumprir as orientações, ordens e instruções recebidas, não obstante devidamente advertido, tendo, portanto, praticado falta grave, com base no disposto no art. art. 50, inciso VI, c.c. art. 39, incisos II e V, ambos da Lei de Execuções Penais, e art. 7º da Portaria Conjunta nº 002/2019, do DEECRM, conforme concluiu o Procedimento Disciplinar (fls. 961/966).
+O fato de o reeducando ter descumprido as condições e deveres para a saída temporária, só se presta a reforçar que ele não vem assimilando a terapêutica penal adequadamente, demonstrando possuir um acentuado grau de periculosidade, fatores estes a serem ponderados quando da análise de benesses requeridas em seu favor (fl. 43-44).
+Segundo entendimento firmado nessa Corte, o descumprimento das condições da saída temporária, assim como a ausência de retorno à unidade prisional após o seu término, constituem falta grave.
+Nesse sentido, vale ainda citar os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DESCUMPRIMENTO DAS CONDIÇÕES DE SAÍDA TEMPORÁRIA. CONFIGURAÇÃO DE FALTA GRAVE. REGRESSÃO DE REGIME. CONSECTÁRIO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante já decidiu esta Corte, ascondições impostas para a concessão da saída temporária configuram ordens recebidas pelo apenado, de forma que seu descumprimento evidencia a prática da conduta prevista no art. 50, VI, c/c o art. 39, V, ambos da LEP.
+2. O agravante, por duas vezes, deixou de observar as condições da saída temporária ao violar a zona de monitoramento e, a teor do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar falta grave.
+3. Agravo regimental não provido.
+(AgRg no HC n. 680.452/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30.11.2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDA TEMPORÁRIA . DESCUMPRIMENTO DE CONDIÇÕES. VIOLAÇÃO DA ZONA DE VIGILÂNCIA. FALTA GRAVE. ALTERAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, o Juízo da Execução Penal, em razão de o Apenado ter deixado de cumprir regras para saída temporária (violação ao perímetro datada de 31/12/2021), homologou a falta grave, regrediu o regime imposto para o fechado e declarou a perda de 1/3 (um terço) dos dias remidos.
+2. Os fundamentos consignados pelas instâncias ordinárias para caracterizar a conduta como falta grave (nos termos artigo 50, VI, combinado com artigos 39, II e V, ambos da Lei de Execução Penal) não se mostram desarrazoados ou ilegais, uma vez que o Reeducando quando da saída temporária deve observar as condições e limites estabelecidos. Precedentes.
+3. "A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede  .. " (HC n. 259.028/SP, Quinta Turma, Rel. Ministra LAURITA VAZ, DJe de 7/3/2014).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 813.768/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 29.6.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NÃO RETORNO DE SAÍDA TEMPORÁRIA. EVASÃO. FALTA DISCIPLINAR GRAVE. REGRESSÃO DE REGIME PRISIONAL. CONSEQUÊNCIA LEGAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+3. A conduta do paciente não se assemelha ao mero descumprimento das condições impostas à saída temporária até porque ele não retornou voluntariamente ao presídio, mesmo que com atraso, mas foi recapturado, o que, por si só, já sinaliza sua vontade de não retomar o cumprimento da pena, amoldando sua conduta à da evasão.
+4. A jurisprudência desta Corte é pacífica quanto às consequências do reconhecimento de falta disciplinar de natureza grave praticada pelo apenado no curso da execução penal: (i) regressão de regime prisional; (ii) perda de dias remidos; (iii) alteração da data-base para a concessão de benefícios da execução (salvo o livramento condicional, a comutação de pena e o indulto). Precedentes.
+5. O Tribunal a quo não pode abster-se de aplicar os consectários legais invocando o princípio da proporcionalidade, deixando, assim, de regredir o apenado para o regime prisional mais gravoso.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 794.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27.2.2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. NÃO RETORNO DE SAÍDA TEMPORÁRIA. EVASÃO. FALTA DISCIPLINAR GRAVE. REGRESSÃO DE REGIME PRISIONAL. CONSEQUÊNCIA LEGAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+3. A conduta do paciente não se assemelha ao mero descumprimento das condições impostas à saída temporária até porque ele não retornou voluntariamente ao presídio, mesmo que com atraso, mas foi recapturado, o que, por si só, já sinaliza sua vontade de não retomar o cumprimento da pena, amoldando sua conduta à da evasão.
+4. A jurisprudência desta Corte é pacífica quanto às consequências do reconhecimento de falta disciplinar de natureza grave praticada pelo apenado no curso da execução penal: (i) regressão de regime prisional; (ii) perda de dias remidos; (iii) alteração da data-base para a concessão de benefícios da execução (salvo o livramento condicional, a comutação de pena e o indulto). Precedentes.
+5. O Tribunal a quo não pode abster-se de aplicar os consectários legais invocando o princípio da proporcionalidade, deixando, assim, de regredir o apenado para o regime prisional mais gravoso.
+6. Agravo regimental desprovido.
+(AgRg no HC n. 794.016/RJ, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27.2.2023.)
+Nessa linha, o entendimento do Tribunal a quo está em conformidade com a jurisprudência do STJ.
+Ademais, para modificar a decisão de origem e acolher eventuais teses absolutórias seria necessário o reexame do acervo fático-probatório, o que é inviável na via estreita do Habeas Corpus.
+Nesse sentido, vale citar os seguintes julgados: AgRg no HC n. 839.334/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26.9.2023; AgRg no HC n. 817.562/RS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 30.6.2023; AgRg no HC n. 780.022/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 21.8.2023; AgRg no HC 812.438/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 29.6.2023; HC n. 704.718/SP, Sexta Turma, Rel. Ministra Laurita Vaz, DJe de 23.5.2023; e AgRg no HC 811.106/SP, Sexta Turma, Rel. Ministro Rogerio Schietti Cruz, DJe de 22.6.2023; AgRg no HC n. 822.563/AL, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 16.8.2023; AgRg no HC n. 770.180/SP, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19.4.2023; AgRg no HC n. 748.272/MS, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16.2.2023.
+Ademais, do que consta dos autos, a matéria relativa a ausência de audiência de justificação para regressão do regime não foi apreciada no acórdão impugnado, o que impede a manifestação desta Corte sobre a questão, sob pena de indevida supressão de instância. Confira-se, a propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME MENOS GRAVOSO. DETRAÇÃO. SUPRESSÃO DE INSTÂNCIA. GUIA DE RECOLHIMENTO. EXPEDIÇÃO. MANDADO DE PRISÃO PENDENTE. RESOLUÇÃO N. 474 CONSELHO NACIONAL DE JUSTIÇA - CNJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL PROVIDO.
+1. O Tribunal de origem não examinou os requisitos legais para a concessão de benefícios prisionais. Tal circunstância impede o pronunciamento desta Corte a respeito, sob pena de indevida supressão de instância.
+ ..
+5. Agravo regimental provido. (AgRg no HC n. 796.267/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 25.4.2023.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. SAÍDAS ANTECIPADAS E MONITORAMENTO ELETRÔNICO. SUPRESSÃO DE INSTÂNCIA. TUTELA COLETIVA NA VIA DO HABEAS CORPUS. INVIABILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. DESPROVIMENTO DO AGRAVO.
+1. Inviável o exame por este Sodalício do pleito de saídas temporárias e monitoramento eletrônico, sob pena de indevida supressão de instância, uma vez que a tese não foi examinada pelo Colegiado a quo no acórdão atacado.
+ ..
+3. Agravo regimental desprovido. (AgRg no HC n. 766.081/SC, Rel. Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 28.3.2023.)
+Ainda nesse sentido: AgRg no HC n. 818.823/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 22.6.2023; RCD no HC n. 787.115/MG, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 9.3.2023; AgRg no HC n. 756.018/SP, Rel. Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 6.3.2023.
+Ressalte-se, ainda, que mesmo tratando-se de questão de ordem pública, é inviável o seu conhecimento se não foi objeto de prévia deliberação pela instância de origem, segundo se extrai dos seguintes precedentes do STJ: AgRg no AREsp n. 2.160.511/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13.9.2022; AgRg no HC n. 808.698/DF, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 23.6.2023; AgRg no HC n. 743.121/SP, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF1), Sexta Turma, DJe de 23.09.2022; AgRg no HC n. 789.067/SP, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 19.5.2023; AgRg no HC n. 766.863/RJ, Rel. Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe de 5.5.2023; AgRg no HC n. 805.449/SP, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe de 16.8.2023.
+Conclui-se, assim, que no caso em análise não há manifesta ilegalidade a ensejar a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente Habeas Corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
