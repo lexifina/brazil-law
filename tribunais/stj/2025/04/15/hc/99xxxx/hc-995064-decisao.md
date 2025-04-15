@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LEANDRO GONCALVES BRANDAO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consta dos autos que foi decretada a prisão temporária do pacientepela suposta prática da conduta descrita no art. 121, § 2º, II, do Código Penal.
+O impetrante sustenta que a prisão temporária imposta ao paciente ultrapassou os limites legais previstos na legislação brasileira, estando em flagrante desacordo com os requisitos previstos na Lei n. 7.960/1989.
+Afirma que não foi demonstrada a presença simultânea de ambos os requisitos de cabimento da prisão temporária (periculum libertatis e fumus boni iuris).
+Alega que o prolongamento da prisão temporária por aproximadamente 9 meses, sem justificativa plausível e sem que tenha contribuído para qualquer atraso na apuração dos fatos, configura um evidente abuso de poder por parte do Judiciário, em contrariedade ao princípio da razoabilidade.
+Aponta necessidade de trancamento do inquérito policial e da ação penal em razão da existência de excesso de prazo para a formação da culpa.
+Aduz que, até o momento, o Ministério Público sequer ofereceu denúncia contra o paciente.
+Afirma que o paciente ostenta condições pessoais favoráveis, é réu primário, possui bons antecedentes e tem três filhos menores.
+Requer, liminarmente e no mérito, a revogação imediata da prisão temporária do paciente e, subsidiariamente, a aplicação de medidas cautelares diversas da prisão ou, ainda, o trancamento do inquérito policial e da ação penal, com base no excesso de prazo.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024 e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+Inicialmente, quanto às alegações de excesso de prazo da prisão cautelar e de ausência de oferecimento da denúncia, destaca-se que o Tribunal de origem não a examinou, circunstância que inviabiliza o exame da questão pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PROVA DECLARADA NULA. NECESSIDADE DE REALIZAÇÃO DE NOVA AUDIÊNCIA DE INSTRUÇÃO DE JULGAMENTO. IMPEDIMENTO DO JUÍZO DE PRIMEIRO GRAU E DESEMBARGADORES QUE ATUARAM ORIGINARIAMENTE NO FEITO. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DO JUÍZO DE CONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito defensivo relativo à declaração de impedimento dos julgadores não foi analisado pelas instâncias ordinárias, o que obsta a análise diretamente por este Tribunal Superior, sob pena de indevida supressão de instância, sendo certo que o incidente de impedimento ou suspeição deve ser requerido junto ao Juízo que conduzirá o processo, mediante demonstração do justo impedimento, a teor do disposto no Código de Processo Penal. Precedentes.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 805.331/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/8/2024, DJe de 23/8/2024 - grifo próprio.)
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. MATÉRIAS DEDUZIDAS NO WRIT QUE NÃO FORAM APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não tendo sido abordada, pelo Tribunal de origem, a nulidade vergastada sob o ângulo pretendido na impetração, resta inviável seu conhecimento per saltum por esta Corte Superior. Supressão de instância inadmissível.
+2. Precedentes de que, até mesmo as nulidades absolutas devem ser objeto de prévio exame na origem a fim de que possam inaugurar a instância extraordinária (AgRg no HC n. 395.493/SP, Sexta Turma, rel. Min. Rogerio Schietti Cruz, DJe de 25/05/2017).
+3. Agravo regimental não provido.
+(AgRg nos EDcl no HC n. 906.517/SP, relator Ministro Otávio de Almeida Toledo - Desembargador convocado do TJSP, Sexta Turma, julgado em 20/8/2024, DJe de 23/8/2024 - grifo próprio.)
+A prisão temporária do paciente foi decretada nos seguintes termos (fl. 22 - grifo próprio):
+Constam dos autos fortes indícios de autoria dos fatos, conforme se depreende dos depoimentos prestados pelas testemunhas e conforme o REDS. Obviamente que prestigia-se a presunção constitucional de inocência.
+Mas não há dúvidas de que a prisão processual não ofende essa garantia legal.
+Ademais, o investigado encontra-se foragido desde a suposta prática do delito, o que gera desde então dificuldades para realizar as investigações.
+Desta forma, em consonância com o Ministério Público, entendo não haver outro caminho para alcançar o êxito nas investigações senão a decretação da prisão temporária.
+Verifico estarem presentes os requisitos necessários para a decretação da prisão temporária, nos termos do art. 1º, I e III a, da Lei 7.960/89.
+Pelo exposto e por tudo mais que dos autos consta, DECRETO A PRISÃO TEMPORÁRIA e LEANDRO GONÇALVES BRANDÃO, pelo prazo de 30 (trinta) dias.
+Por sua vez, o Tribunal de origem assim consignou acerca da prisão temporária (fls. 90-91 - grifo próprio):
+No mais, ao decretar a prisão temporária, em atendimento às representações da autoridade policial e do Ministério Público, o MM. Juiz a quo entendeu presentes os seus requisitos autorizadores (previstos no artigo 1º, incisos I e III, "a", da Lei n.º 7.960/89), fundamentando ser a prisão imprescindível para a conclusão das investigações.
+Na ocasião, ressaltou os indícios de que Leandro estaria envolvido em homicídio que vitimou Karen Hagar Edith Monteiro. Destacou, na ocasião, as circunstâncias dos fatos - extrai-se que, após desentendimento em razão de "dívida de droga" em uma boate, local de trabalho da ofendida, Leandro supostamente foi até ela e lhe desferiu diversas facadas, as quais teriam ocasionado a sua morte.
+O Magistrado primevo salientou, outrossim, que, após o suposto cometimento do delito, Leandro teria evadido do distrito da culpa, "estando em local incerto e não sabido" - tanto é que, dos documentos acostados aos autos, infere-se que o mandado de prisão temporária, expedido em junho do corrente ano, sequer foi cumprido, o que por si só justificaria, inclusive, a decretação da preventiva, para assegurar a aplicação da lei penal, nos termos do Enunciado n.º 30 do Eg. TJMG.
+Data venia, a segregação temporária se mostra necessária para obstar a saga criminosa e para garantir a lisura das investigações. Com efeito, a autoridade apontada como coatora está mais próxima dos fatos e possui mais subsídios à análise de eventual revogação do decreto de prisão.
+Ora, a gravidade dos fatos in casu não é abstrata, mas sim concreta, o que justifica, a princípio, a manutenção da prisão, até com vistas a evitar o desdobramento em consequências mais gravosas e a reiteração criminosa do agente.
+Assim, entendo que a prisão temporária, no caso em apreço, é plenamente válida, uma vez que, repita-se: exarada por ser imprescindível para as investigações, bem como diante das fundadas razões de autoria/participação delitiva e da gravidade concreta do crime, sem perder de vista que foi devidamente justificada em fatos contemporâneos.
+Soma-se que o paciente não comprovou residência fixa e/ou ocupação lícita (mais motivos para a segregação temporária).
+A prisão temporária foi decretada com base nos requisitos da Lei n. 7.960/89, observando a necessidade da segregação cautelar para assegurar a eficácia das investigações, diante dos indícios de autoria e de materialidade do delito.
+Os elementos dos autos indicam que o paciente teria, supostamente, cometido um homicídio qualificado, "após desentendimento em razão de "dívida de droga" em uma boate, local de trabalho da ofendida, supostamente foi até ela e lhe desferiu diversas facadas, as quais teriam ocasionado a sua morte" (fl. 90), o que justifica a manutenção da medida cautelar.
+Sobre o tema:
+AGRAVO REGIMENTAL EM EMBARGOS DECLARATÓRIOS NO HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. ORGANIZAÇÃO CRIMINOSA. ROUBO MAJORADO. HOMICÍDIO QUALIFICADO. FURTO QUALIFICADO. PRISÃO TEMPORÁRIA. INDÍCIOS RAZOÁVEIS DE PARTICIPAÇÃO NOS DELITOS INVESTIGADOS. CONTEMPORANEIDADE VERIFICADA. AGRAVANTES FORAGIDOS. AGRAVO DESPROVIDO.
+1. A prisão temporária é regida pela Lei n. 7.960/1989, que prevê em seu art. 1º as hipóteses em que são cabíveis essa modalidade de prisão.
+2. Consta no decisum que Jefferson seria "líder do grupo mencionado, responsável por organizar e planejar ações delituosas, em especial tráfico de drogas e roubo qualificado"; Leandro o "dirigente regional que atua na região do distrito de Boa União e adjacências, possuidor de extensa ficha criminal (P-0039/16; IP-0071/17, IP-0025/19: IP-0027/19) e braço direito de JEFERSON"; e Tawan estaria no veículo furtado que teria sido utilizado na "tentativa de roubo que culminou na morte da referida vítima".
+3. Nota-se que foram apresentados fundamentos concretos para justificar a decretação da prisão temporária dos ora agravantes, por haver indícios razoáveis de participação em associação criminosa complexa e bem estruturada, especializada na prática de delitos patrimoniais, e também da prática de homicídio na ação delitiva objeto deste writ, sendo necessária a custódia a fim de apurar os fatos, razão pela qual se mostra imprescindível a manutenção da medida constritiva. Logo, foram atendidos os preceitos legais da Lei n. 7.960/1989, que disciplina a prisão temporária, instituto que visa resguardar e garantir o regular início das investigações de crimes graves que demandem atuação urgente.
+4. Não há ausência de contemporaneidade a ser reconhecida, pois os fatos em apuração ocorreram em 8/1/2022 e o decreto de prisão temporária foi proferido em 18/3/2022, após representação policial.
+Soma-se a isso o fato de não ter havido o cumprimento dos mandados de prisão, sendo assente que "a fuga constitui o fundamento da cautelaridade, em juízo prospectivo, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória" (AgRg no RHC 133.180/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 24/8/2021).
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 801.492/BA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023.)
+Ademais, conforme consignado pelas instâncias originárias, o paciente teria evadido do distrito da culpa, "estando em local incerto e não sabido", além de não ter comprovado residência fixa e/ou ocupação lícita (fls. 90-91).
+Verifica-se que a jurisprudência desta Corte Superior sedimentou-se no sentido de que "a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal" (AgRg no HC n. 568.658/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020).
+No mesmo sentido:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO TEMPORÁRIA. TRÁFICO DE ENTORPECENTES. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem em habeas corpus impetrado em favor do agravante, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a prisão temporária decretada pela prática, em tese, dos delitos de tráfico de entorpecentes e associação para o tráfico de drogas, previstos nos artigos 33 e 35 da Lei n. 11.343/2006.
+2. O Tribunal de origem denegou a ordem de habeas corpus, entendendo pela presença dos requisitos e pressupostos autorizadores da prisão processual, além de não constatar a alegada ausência de fundamentação e constrangimento ilegal.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão temporária do agravante está devidamente fundamentada e se há constrangimento ilegal na sua manutenção, considerando a alegação de que o prazo da prisão expirou e a ausência de fundamentação idônea.
+4. Outra questão em discussão é a alegação de que o agravante é o único responsável pelos cuidados dos filhos menores de idade, o que justificaria a substituição da prisão temporária pela domiciliar.
+III. Razões de decidir
+5. A prisão temporária do agravante está devidamente fundamentada em dados concretos extraídos dos autos, para a garantia da ordem pública, diante da gravidade concreta da conduta.
+6. A alegação de que o prazo da prisão temporária expirou não procede, pois o agravante encontra-se foragido, conforme previsto no artigo 2º, § 8º da Lei 7960/1989.
+7. Não houve comprovação nos autos de que o agravante é o único responsável pelos cuidados dos filhos, inviabilizando a substituição da prisão temporária pela domiciliar.
+8. A existência de condições pessoais favoráveis não é suficiente para afastar a custódia cautelar quando presentes os pressupostos legais.
+9. A contemporaneidade da medida constritiva de liberdade se verifica pela necessidade no momento de sua decretação, não havendo extemporaneidade.
+IV. Dispositivo e tese
+10. Agravo não provido.
+Tese de julgamento: "1. A prisão temporária está devidamente fundamentada quando baseada em dados concretos para a garantia da ordem pública. 2. A fuga do distrito da culpa justifica a manutenção da prisão temporária. 3. A ausência de comprovação de responsabilidade exclusiva pelos cuidados dos filhos inviabiliza a substituição da prisão temporária pela domiciliar. 4. Condições pessoais favoráveis não afastam a custódia cautelar quando presentes os pressupostos legais. 5. A contemporaneidade da prisão se verifica pela necessidade no momento de sua decretação."
+Dispositivos relevantes citados: Lei 11.343/2006, arts. 33 e 35;
+Lei 7960/1989, art. 2º, § 8º.
+Jurisprudência relevante citada: STJ, AgRg no HC 710.123/MG, Rel. Min. João Otávio de Noronha, DJe 15/8/2022; STJ, AgRg no RHC 164.660/SE, Rel. Min. Jesuíno Rissato, DJe 10/2/2023; STJ, RHC 123.145/PE, Rel. Min. Reynaldo Soares da Fonseca, DJe 28/02/2020.
+(AgRg no HC n. 957.759/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUGA. NECESSIDADE DE SE ASSEGURAR A APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. PERICULUM LIBERTATIS EVIDENCIADO. PRECEDENTES. INSUFICIÊNCIA DA APLICAÇÃO MEDIDAS CAUTELARES ALTERNATIVAS, NO CASO. CONDIÇÕES PESSOAIS IRRELEVANTES, NA HIPÓTESE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que "a fuga do distrito da culpa é fundamento válido à segregação cautelar, observada a necessidade de garantia da aplicação da lei penal. Precedentes." (STJ - AgRg no HC n. 777.601/ES, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 08/05/2023, DJe 10/05/2023).
+2. No caso, as instâncias ordinárias, soberanas na análise de todos os fatos e provas (produzidas até o momento) foram taxativas ao firmarem a premissa de que a manutenção da prisão preventiva do Agravante é imprescindível à aplicação da lei penal, haja vista que sequer o mandado de prisão temporária expedido em 2008 foi cumprido em virtude da fuga do Réu, aliás, "o feito está suspenso desde 2009 em razão da evasão do acusado".
+3. Esta Corte entende que havendo fundamentos concretos para justificar a custódia cautelar, por consequência lógica, torna-se incabível sua substituição por medidas cautelares alternativas à prisão, por serem insuficientes.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 190.570/BA, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024.)
+Além disso, eventuais condições pessoais favoráveis não garantem a revogação da prisão processual se estiverem presentes os requisitos da custódia cautelar, como no presente caso. No mesmo sentido: AgRg no HC n. 940.918/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/10/2024, DJe de 10/10/2024; e AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
