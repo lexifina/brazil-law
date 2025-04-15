@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Fazenda Nacional à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 427, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. MULTA ADMINISTRATIVA. ADUANEIRO. OBRIGAÇÃO ACESSÓRIA AUTÔNOMA. PRESTAÇÃO DE INFORMAÇÕES SOBRE CARGA TRANSPORTADA NÃO REALIZADA. DENÚNCIA ESPONTÂNEA. IMPOSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. DISSIDIO JURISPRUDENCIAL PREJUDICADO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 438-439, e-STJ), sustenta a embargante a existência de omissão na decisão embargada, por ausência de fixação dos honorários recursais, por ter o recurso da parte adversa sido desprovido, nos termos do art. 85, § 11, do CPC/2015.
+Impugnação às fls. 442-444 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo apenas cabíveis quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, sejam detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, quando a correção dos vícios constatados forem aptos a modificar, de algum modo, a decisão prolatada.
+Na hipótese dos autos, a insurgente alega a existência de omissão por não terem sido arbitrados honorários sucumbenciais no julgamento do agravo em recurso especial, no qual a parte adversa teve seu recurso desprovido.
+Acerca do tema, a jurisprudência vigente no Superior Tribunal de Justiça entende que aos recursos interpostos com base no CPC/2015 são devidos honorários sucumbenciais desde que cumpridos determinados requisitos.
+A propósito, confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. MAJORAÇÃO DOS HONORÁRIOS. ART. 85, § 11, DO CPC E TEMA REPETITIVO 1059. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Este Superior Tribunal de Justiça, ao definir a tese do tema n. 1.059, em julgamento submetido a sistemática repetitiva, definiu que a majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Com efeito, tendo sido o recurso totalmente desprovido na parte conhecida, e havendo fixação de honorários no acórdão impugnado, aplica-se o disposto na norma processual.
+3. Embargos de declaração acolhidos.
+(EDcl no REsp n. 1.990.245/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2025, DJEN de 18/3/2025.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MÉRITO. OMISSÃO. INEXISTÊNCIA DO APONTADO VÍCIO DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No que se refere aos motivos que sustentam o não conhecimento do agravo interno, não há falar em omissão. Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente tal vício apontado no acórdão embargado, conforme exige o art. 1.022 do CPC.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente o apontado vício no aresto embargado, conforme exige o art. 1.022 do CPC.
+4. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se ao Departamento Estadual de Estradas de Rodagem e Transporte - DER/RO o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+5. Embargos de declaração acolhidos parcialmente, com efeitos modificativos, apenas para majorar os honorários recursais.
+(EDcl no AgInt no AREsp n. 2.494.274/RO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 24/2/2025, DJEN de 5/3/2025.)
+No caso sob exame, o recurso interposto no Superior Tribunal de Justiça é regido pelo CPC/2015, pois impugna acórdão publicado em 25/ 06/2024 (fl. 364, e-STJ).
+Dessa forma, com razão a embargante, pois houve o desprovimento do recurso da parte adversa, contudo, sem arbitramento de honorários recursais, conforme determina o art. 85, § 11, do CPC/2015.
+Diante do exposto, acolho os embargos de declaração para sanar a omissão apontada, determinando, nos termos do art. 85, § 11, do CPC/2015, a majoração dos honorários em favor dos advogados da parte recorrida, ora embargante, em 2% (dois por cento) sobre o valor da causa.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO CONFIGURADA. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS. ART. 85, § 11, DO CPC/2015. EMBARGOS ACOLHIDOS.
