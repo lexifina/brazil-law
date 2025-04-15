@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por ITAMAR BERNARDO LOPES contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul no Habeas Corpus n. 5351543-34.2024.8.21.7000.
+O Tribunal de origem denegou a ordem ao entender não haver ilegalidade no indeferimento do pedido de expedição de ofício ao Exército Brasileiro para juntada de processo de concessão de certificado de registro em nome do Paciente, por considerar a diligência irrelevante e passível de ser realizada pela própria parte.
+O Paciente responde a ação penal pela suposta prática do delito previsto no art. 12 da Lei n. 10.826/03, ainda não tendo sido proferida sentença.
+No presente recurso, a defesa sustenta a ocorrência de cerceamento de defesa, argumentando que a prova requerida é imprescindível para endossar o que foi ventilado em interrogatório judicial e corroborado por testemunhas. Requer a suspensão da marcha processual e a determinação ao Juízo processante de que produza a prova requerida.
+O pedido liminar foi indeferido (fls. 88-89).
+Informações prestadas às fls. 95-121.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 126-134).
+É o relatório.
+DECIDO.
+O objeto da impetração é decisão que indeferiu pedido de diligência consistente na expedição de ofício ao Exército Brasileiro para que trouxesse aos autos processo administrativo de tentativa de obtenção de certificado de registro de arma de fogo em nome do Paciente, o qual, segundo a defesa, seria relevante para demonstrar a verossimilhança da tese de estado de necessidade ventilada em seu interrogatório judicial.
+O Tribunal de origem assim fundamentou a denegação da ordem (fl. 48):
+Efetivamente, a negativa à diligência pretendida - potencialmente protelatória e passível de ser alcançada pela própria parte - não caracteriza qualquer constrangimento ilegal, senão legítimo exercício do papel do magistrado na condução do processo.
+Ademais, conforme destacado no acórdão impugnado (fl. 49):
+Mais, repiso, o próprio impetrante indica ter tido seu pedido indeferido pelo Comando do Exército e que buscava comprovar a tentativa de obtenção de registro junto ao Exército Brasileiro, a demonstrar não só que não possuía certificado de posse das armas apreendidas, como sabia que estava em situação irregular, ainda que sob alegado estado de necessidade, cuja análise é estranha ao habeas corpus. Daí por que, mais uma vez, não há constrangimento ilegal no indeferimento da produção da prova requerida.
+Não verifico ilegalidade a ser sanada. O indeferimento de diligências probatórias é ato que se insere no poder instrutório do magistrado, que deve aquilatar sua pertinência e relevância. No caso concreto, a justificativa apresentada para o indeferimento do pedido defensivo mostrou-se adequada.
+De acordo com a jurisprudência desta Corte, a caracterização de cerceamento do direito de defesa pelo indeferimento de alguma prova requerida pela parte possui como condicionante possível arbitrariedade praticada pelo órgão julgador, e não simplesmente a consideração ou o entendimento da parte pela indispensabilidade de sua realização (RHC n. 166.122/SE, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, DJe de 24/10/2022). Cabe ao magistrado, ainda, indeferir diligências probatórias que considerar irrelevantes, impertinentes ou protelatórias, desde que de forma fundamentada (AgRg no HC n. 940.881/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/11/2024, DJe de 5/12/2024).
+No caso, o Juízo de origem fundamentou adequadamente o indeferimento, destacando duas razões principais: pr imeiro, a falta de relevância do documento para o desfecho processual, uma vez que o simples fato de o réu ter demonstrado interesse em regularizar a arma não repercute na imputação que lhe foi feita; segundo, tratava-se de diligência que poderia ser realizada pela própria parte, inclusive desde a apresentação da resposta à acusação.
+Conforme bem observou a Procuradoria-Geral da República, a própria defesa já adiantou que o pedido de registro junto ao Exército Brasileiro restou indeferido, o que demonstra não apenas que o Paciente não possuía certificado de posse das armas apreendidas, mas também que tinha conhecimento da situação irregular, ainda que alegue estado de necessidade.
+Além disso, segundo informado pelo recorrente, o procedimento administrativo teria ocorrido há cerca de 10 (dez) anos (fl. 63), não guardando contemporaneidade com os fatos apurados na ação penal.
+Não se verifica, portanto, constrangimento ilegal decorrente do indeferimento da diligência, pois a decisão foi devidamente fundamentada e enquadra-se no poder de condução do processo pelo magistrado.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
