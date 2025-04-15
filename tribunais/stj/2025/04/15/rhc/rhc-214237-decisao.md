@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso interposto por WARLEY FABIANO FERREIRA PEREIRA JUNIOR contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2360432-38.2024.8.26.0000, lavrado nos termos desta ementa (fl. 88):
+HABEAS CORPUS - ROUBO - TRANCAMENTO DA AÇÃO INCOGITÁVEL - PLEITO DE NULIDADE DAS PROVAS, EIS QUE BASEADAS NO RECONHECIMENTO FOTOGRÁFICO FORMALIZADO EM SOLO POLICIAL - DESCABIMENTO - IMPOSSIBILIDADE DE EXAME DE PROVAS E QUESTÕES APROFUNDADAS DO MÉRITO DA AÇÃO PENAL PELA ESTREITA VIA DO "HABEAS CORPUS" - PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA QUE JUSTIFICARAM O OFERECIMENTO E RECEBIMENTO DA DENÚNCIA - JUSTA CAUSA PARA A DEFLAGRAÇÃO DA AÇÃO PENAL - A ANÁLISE PORMENORIZADA DAS DEMAIS MATÉRIAS FÁTICO-PROBATÓRIAS DEVEM FICAR RESGUARDADAS A MOMENTO PROCESSUAL OPORTUNO - VIA INCOMPATÍVEL COM A PROVIDÊNCIA REQUERIDA - CONSTRANGIMENTO ILEGAL NÃO CONSTATADO - ORDEM DENEGADA.
+O recorrente reitera os fundamentos expostos na inicial do writ, sustentando que a única prova a embasar a acusação é o reconhecimento fotográfico, realizado no âmbito da delegacia da Polícia Civil e presidido por agentes da Guarda Municipal de Paulínia, sem a observância das formalidades legais previstas no art. 226 do Código de Processo Penal (Processo n. 1511409-90.2024.8.26.0604, da 1ª Vara Criminal da comarca de Sumaré/SP).
+Requer a imediata expedição de alvará de soltura em favor do acusado. No mérito, pleiteia o provimento do recurso, a fim de confirmar a liminar e reconhecer a nulidade da custódia preventiva.
+Contrarrazões dando notícia da expedição de alvará de soltura já cumprido na origem e, quanto ao que remanesce, pela negativa de provimento do recurso (fls. 113/115).
+Há audiência de instrução e julgamento designada para o dia 1º/7/2025, na origem.
+Estes autos foram a mim distribuídos por prevenção.
+É o relatório.
+Realmente, está prejudicada a pret ensão de concessão de liberdade, uma vez que, em 21/2/2025, foi provido o RHC n. 210.224/SP, interposto pelo recorrente, com o objetivo de substituir a prisão preventiva por medidas cautelares diversas da prisão.
+Quanto ao mais, não enxergo, neste momento, nulidade apta de ser reconhecida, até porque, como expôs o Tribunal estadual, não é possível o aprofundado exame de provas neste âmbito, provas aliás, até o momento, indiciárias.
+Em se tratando de procedimentos investigativos ou de ações penais ainda em fase inicial, o exame desta Corte Superior do pedido de trancamento por ausência de justa causa baseado unicamente em violação ao artigo 226 do Código de Processo Penal é limitado e excepcional, sobretudo porque as provas não foram ainda produzidas em juízo, à exceção de casos com teratologia patente (AgRg no RHC n. 180.035/RN, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/4/2024).
+Na hipótese, além de a regularidade do reconhecimento inicialmente realizado ainda não ter sido efetivamente analisada pelas instâncias antecedentes, eventual inobservância das formalidades legais não constitui, por si só, fundamento suficiente para o reconhecimento de eventual nulidade ou trancamento da ação penal.
+Com efeito, ao lado de não se admitir, na via estreita do habeas corpus e/ou do respectivo recurso ordinário a análise do conjunto fático-probatório, os elementos de informação colhidos na fase inquisitorial deverão ser devidamente confrontados com as provas a serem produzidas durante a instrução criminal, fase própria para o exame minucioso da autoria.
+Assim, julgo parcialmente prejudicado o recurso e, no mais, nego-lhe provimento (art. 34, XVIII, b, do RISTJ).
+Publique-se.
+EMENTA
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. REVOGAÇÃO. PERDA DO OBJETO. NULIDADE. INOBSERVÂNCIA DAS FORMALIDADES DO ART. 226 DO CPP. AÇÃO PENAL EM CURSO. NECESSIDADE DE AGUARDAR A INSTRUÇÃO PROCESSUAL. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA.
+Recurso parcialmente prejudicado e, no mais, improvido.
