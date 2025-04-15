@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus interposto por SANDOVAL DE JESUS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (HC n. 8068580-91.2024.8.05.0000).
+Consta dos autos ter sido ordenada a prisão preventiva do recorrente, acusado da suposta prática do crime de homicídio qualificado tentado.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada (e-STJ fls. 149/191).
+Neste recurso, sustenta a defesa inexistir motivação idônea para a segregação antecipada, asseverando que "o decreto baseou-se exclusivamente na gravidade do delito e no fato de o paciente não ter sido localizado para cumprimento do mandado de prisão, sem considerar que ele deixou sua residência por razões de segurança, conforme comprovado nos autos por meio de vídeos e documentos anexados" (e-STJ fl. 187).
+Defende a suficiência da imposição de medidas diversas do cárcere.
+Alega que militam em favor do recorrente condições pessoais favoráveis.
+Busca, inclusive liminarmente, seja revogada da prisão preventiva, ainda que mediante a imposição de medidas alternativas.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 235/238).
+É o relatório.
+Decido.
+Como visto no relatório, insurge-se a defesa contra a prisão processual do recorrente.
+O ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência do periculum libertatis, sendo vedado o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+No caso, confira-se o que consta da decisão que manteve a ordem de prisão (e-STJ fls. 61/62, grifei):
+Com efeito, conforme se extrai do inquérito policial acostado ao processo nº 8001433-33.2024.8.05.0102, especialmente do depoimento da testemunha Letícia Moraes de Souza, o réu efetuou disparo de arma de fogo contra a vítima e, em seguida, retirou-se "dando risadas do local". Tal comportamento evidencia traços de frieza e desrespeito pela integridade alheia, sugerindo uma personalidade desprovida de empatia e comprometimento com a convivência social pacífica. A atitude de rir após a prática de ato violento revela não apenas uma ausência de remorso imediato, mas também um desprezo pelas consequências de suas ações, características que reforçam a periculosidade social do acusado e indicam uma propensão à reiteração de condutas ilícitas.
+Outrossim, a presunção de inocência não afasta a possibilidade da prisão cautelar, a qual tem previsão constitucional (art. 5º, LXVI), sendo indiferente a existência de residência fixa e ocupação lícita, pois tais condições não serviram de freio para a prática do crime de que é suspeito o indiciado.
+Observa-se que os argumentos trazidos pela defesa não são suficientes para elidir os fundamentos da decisão que decretou a prisão preventiva do acusado, pois nada foi carreado aos autos a denotar qualquer elemento novo que demonstre a alteração do quadro fático que ensejou a decretação da custódia cautelar do acusado.
+Por fim, quanto às medidas cautelares diversas da prisão, observo que se mostram, ao menos por ora, insuficientes, dada a gravidade do crime objeto desta ação, o modo e as circunstâncias com que foi perpetrado, o que, a princípio, denota periculosidade incompatível com a confiança nos autuados, necessária à efetividade daquelas medidas.
+Por fim, rememora-se que o Requerente encontra-se foragido, com mandado de prisão aguardando cumprimento e não tendo ainda efetivada a sua custódia. Neste sentido, com maior razão, deve ser assegurada a conveniência da instrução processual e garantir a aplicação da lei penal.
+Isto posto, mantenho a prisão preventiva do acusado Sandoval de Jesus Santos.
+Como se vê, a segregação preventiva encontra-se devidamente motivada, pois destacou o Magistrado de primeiro grau a gravidade concreta da conduta, enfatizando que "o réu efetuou disparo de arma de fogo contra a vítima e, em seguida, retirou-se "dando risadas do local". Tal comportamento evidencia traços de frieza e desrespeito pela integridade alheia, sugerindo uma personalidade desprovida de empatia e comprometimento com a convivência social pacífica. A atitude de rir após a prática de ato violento revela não apenas uma ausência de remorso imediato, mas também um desprezo pelas consequências de suas ações, características que reforçam a periculosidade social do acusado e indicam uma propensão à reiteração de condutas ilícitas" (e-STJ fl. 61).
+Aliás, "a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública" (AgRg no HC n. 687.840/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 13/12/2022, DJe de 19/12/2022).
+Não bastasse, pontuou o julgador que o recorrente ostenta a condição de foragido.
+Note-se que "a fuga do distrito da culpa é fundamento válido à segregação cautelar, forte da asseguração da aplicação da lei penal, bem como justifica a contemporaneidade da medida em apreço" (AgRg no HC n. 914.054/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, julgado em 12/8/2024, DJe de 16/8/2024).
+Ressalto que nem mesmo há falar em desconhecimento da ação penal que tramita em seu desfavor, na medida em que o recorrente possui advogado constituído.
+Portanto, a prisão cautelar está amparada na necessidade de garantir a ordem pública e assegurar a aplicação da lei penal, e para a conveniência da instrução processual.
+Cumpre salientar que condições pessoais favoráveis, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória, consoante se observa no caso dos autos.
+Considerando a fundamentação acima expendida, reputo indevida a aplicação de medidas cautelares diversas da prisão, uma vez que se mostram insuficientes para resguardar a ordem pública.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
+EMENTA
