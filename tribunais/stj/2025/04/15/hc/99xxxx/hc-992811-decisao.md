@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARLON JUNIOR RODRIGUES DE CAMPOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente cumpre pena de 9 anos e 4 meses de reclusão, como incurso nas sanções dos arts. 33 da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, e que, em 17/1/2025, atingiu o lapso temporal para progressão ao regime aberto. No entanto, o benefício foi indeferido pelo juízo a quo, que determinou a realização de exame criminológico, decisão mantida pelo Tribunal de Justiça de São Paulo.
+A impetrante sustenta que a decisão é inidônea e desproporcional, pois a Lei n. 14.843/2024 não pode retroagir em prejuízo do acusado, e que a exigência do exame criminológico não se justifica, uma vez que o paciente demonstra reabilitação e bom comportamento durante a execução da pena.
+Requer, liminarmente, a anulação da decisão que determinou a realização do exame criminológico com base na Lei n. 14.843/2024, e a reanálise do pedido de progressão ao regime aberto pelo Juízo a quo sem a exigência de realização do exame. No mérito, pugna pela concessão da ordem para progressão imediata do paciente ao regime aberto e consequente expedição de alvará de soltura.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024 - grifo próprio.)
+Portanto, não se pode conhecer da impetração.
+Por outro lado, o exame dos autos não indica a existência de ilegalidade flagrante, apta a autorizar a concessão da ordem de ofício.
+A Corte de origem manteve o indeferimento do pedido de progressão de regime nos seguintes termos (fls. 11-12):
+No curso da execução, postulou o requerimento de progressão de regime, quando preenchido o requisito objetivo. O Juízo das Execuções, pela decisão ora combatida, determinou a submissão do apenado à realização de exame criminológico, a fim de avaliar o preenchimento do requisito subjetivo para progressão ao regime aberto.
+No caso vertente, incontroversa a satisfação do pressuposto de ordem objetiva, todavia, ausente a aferição do requisito de natureza subjetiva.
+Para a concessão de regime semiaberto ou livramento condicional, o condenado deve, além de preencher o requisito objetivo, reunir mérito e condições para a concessão da benesse, de ordem subjetiva e o mérito não se limita, unicamente, a expedição de atestado comprobatório de bom comportamento carcerário já que que tal certidão carcerária retrata apenas uma análise pontual, pois é o mero resultado da quantidade de faltas disciplinares cometidas pelo sentenciado durante o cumprimento da pena, nos termos do artigo 85, da Resolução SAP 144/10, ou seja, exageradamente limitadora e sem qualquer consideração sobre o cotidiano prisional do condenado.
+O Juízo da Execução deve estar convencido de que o reeducando assimilou a terapêutica penal, apresenta resposta e adaptação ao regime prisional em que se encontra para que possa ser beneficiado com o regime menos rigoroso e demonstrar aptidão psicológica, que revele comportamento autocrítico e senso de responsabilidade necessários para usufruir do benefício pleiteado.
+Na hipótese, embora o atestado comprobatório de comportamento carcerário emitido pela unidade prisional tenha exarado o bom comportamento de Marlon, a culta magistrada, atenta às peculiaridades do caso concreto apenado reincidente, faltoso (praticou novo delito no curso da execução), que cometeu crime equiparado a hediondo (tráfico de drogas) e que, ainda, almeja benefício que o colocará em imediato convívio com a sociedade, escorreita a determinação para a realização do exame criminológico, constitui mecanismo importante para o respeito ao princípio da individualização da pena e a materialização da garantia à segurança pública e não mais constitui mera faculdade do juiz.
+Ressalte-se que em matéria de execução penal, prevalece o princípio in dubio pro societate, pois só deve ser promovido o sentenciado que inequivocamente, demonstre se achar capacitado a se reintegrar à sociedade sem lhe oferecer riscos.
+Quanto ao pedido de concessão da progressão ao regime semiaberto, tem-se que o Juízo a quo não enfrentou tais questões, repise-se não houve sequer o indeferimento da benesse, de tal forma que sua análise por esta Câmara resultaria em indevida supressão de instância, o que é vedado pelo ordenamento jurídico.
+Assim, a decisão atacada não merece reforma. (grifo próprio)
+Consoante o entendimento desta Corte Superior, o órgão julgador pode, de forma fundamentada, determinar a submissão do apenado ao exame criminológico a fim de aferir o mérito subjetivo do apenado (Súmula n. 439 do STJ).
+Sobre o tema, o Superior Tribunal de Justiça entende que a exigência de exame criminológico, como requisito à obtenção de benefícios, deve ter fundamentação " ..  relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena  .. " (AgRg no HC n. 817.103/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 5/12/2023, DJe de 12/12/2023).
+No caso dos autos, a exigência do exame criminológico foi devidamente fundamentada na falta de elementos suficientes para comprovar o preenchimento do requisito subjetivo para a progressão de regime. Levou-se em conta, para tanto, o comportamento do paciente durante a execução da pena, destacando o histórico de falta de natureza grave.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO. FUNDAMENTO IDÔNEO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de 5 dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. Nos termos da jurisprudência desta Corte, desde a Lei n. 10.793/2003, que conferiu nova redação ao art. 112 da Lei de Execução Penal, aboliu-se a obrigatoriedade do exame criminológico como requisito para a concessão da progressão de regime, cumprindo ao julgador verificar, em cada caso, acerca da necessidade ou não de sua realização, podendo dispensar o exame criminológico ou, ao contrário, determinar sua realização, desde que mediante decisão concretamente fundamentada.
+3. No caso, há motivação concreta para determinar a realização do exame criminológico, em razão dos resultados desfavoráveis da avaliação multidisciplinar, uma vez que os relatórios não evidenciaram a evolução terapêutica penal e a mitigação da periculosidade social do paciente.
+4. Desse modo, não se verifica, no caso em apreço, nenhuma ilegalidade a ser sanada pela via do habeas corpus, pois a exigência de realização do exame criminológico foi amparada em motivação concreta, como exige a jurisprudência desta Corte Superior.
+5. Agravo regimental improvido.
+(AgRg no HC n. 868.028/SP, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+Por fim, para "se modificar os fundamentos utilizados pelas instâncias ordinárias quanto ao preenchimento do requisito subjetivo do condenado, mostra-se necessário o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus " (AgRg no HC n. 529.214/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 3/12/2019, DJe de 16/12/2019).
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+ EMENTA
