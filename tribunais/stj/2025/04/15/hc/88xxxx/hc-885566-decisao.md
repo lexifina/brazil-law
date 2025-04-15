@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MONICA DE MIRANDA OLIVEIRA, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+O Tribunal de São Paulo negou provimento à apelação criminal interposta pela Defesa para manter a pena imposta na sentença no patamar de 06 anos, 09 meses e 20 dias de reclusão, no regime inicial fechado, e pagamento de 680 dias-multa, pela prática do crime tipificado no art. 33, caput, da Lei nº 11.343/06.
+O impetrante aponta a ilegalidade da busca pessoal feita pela guarda civil. Subsidiariamente, busca o reconhecimento da atenuante da confissão espontânea, a retirada da agravante da calamidade pública e o reconhecimento do tráfico privilegiado.
+Liminar indeferida, às fls. 44-45.
+Informações prestadas, às fls. 53-89 e 90-136.
+O Ministério Público Federal opina pelo não conhecimento, às 169-172.
+É o relatório. Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+A Defesa requer o reconhecimento da ilicitude da busca pessoal, com o consequente desentranhamento da respectiva prova dos autos e a absolvição da paciente ou, subsidiariamente, a retificação da dosimetria, com a alteração do regime inicial e substituição da pena.
+Inicialmente consigno que o presente Writ não serve para desconstituir sentença condenatória, cabendo acionar a medida processual própria, consistente em Revisão Criminal.
+Neste sentido , cito precedente desse Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO DE APELAÇÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DROGAS. DOSIMETRIA. TRÁFICO PRIVILEGIADO. 620 KG DE MACONHA. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. COGNIÇÃO SUMÁRIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT INDEFERIDO LIMINARMENTE. 1. Já houve o trânsito em julgado da condenação, razão pela qual o habeas corpus é sucedâneo de revisão criminal, e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Precedentes. (..) 3. Agravo regimental improvido." (AgRg no HC 611.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/02/2021, D Je 18/02/2021)
+Neste sentido, mister se faz destacar trecho do parecer ministerial de fls. 169-172 quando consignou que " o Tribunal de origem julgou a Apelação Criminal interposta pela Defesa no dia 18 de agosto de 2021 e, ao invés da interposição de Recurso Especial, ou mesmo da Revisão Criminal, impetrou-se este habeas corpus, somente no dia 25 de janeiro de 2024, - após quase dois e meio - para questionar o aludido acórdão, sendo nítida, portanto, a preclusão da pretensão defensiva, na hipótese, a obstar o conhecimento deste writ".
+No mais, as questões suscitadas pela defesa de suposta ilegalidade da busca pessoal feita pela guarda civil, reconhecimento da atenuante da confissão espontânea, retirada da agravante da calamidade pública e o reconhecimento do tráfico privilegiado, demandam incursão fática. Portanto, desconstituir a conclusão das instâncias ordinárias demandaria profundo exame do acervo probatório, o que é vedado na estrita via do mandamus.
+O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição de condutas imputadas, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita, em especial diante da fundamentação expendida pelo Tribunal de origem, no sentido de confirmação da materialidade e autoria delitiva.
+Na hipótese, o Tribunal de origem fundamentou suficientemente a condenação pelo delito de tráfico, apreciando as provas produzidas sob o crivo do contraditório e da ampla defesa, não apenas de forma aprofundada, mas devidamente fundamentada.
+Inclusive, de acordo com as informações de fls. 90-136:
+" Os depoimentos dos policiais são válidos e coerentes, não havendo nos autos provas de que estivessem acusando injustamente pessoa inocente. Provada está, pois, a prática do tráfico de entorpecentes, não havendo possibilidade de uma redução, tal como pretendida por efeito de uma atenuante genérica de confissão, que no caso dos autos foi parcial."
+Assim , acolher as tese defensivas, desconstituindo o que ficou consignado nas instâncias ordinárias, demandaria aprofundado revolvimento fático, procedimento vedado na via estreita do habeas corpus, caracterizado pelo rito célere e por não admitir dilação probatória.
+De todo modo, também não verifico a presença de teratologia ou coação ilegal que desafie a concessão da ordem nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Ante todo o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
