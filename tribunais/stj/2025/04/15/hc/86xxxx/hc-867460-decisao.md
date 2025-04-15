@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de AGOSTINHO LAUS NETO, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em Execução nº 8001099-48.2023.8.24.0023/SC).
+Consta dos autos que o juízo da execução penal indeferiu o pedido de prognóstico de progressão de regime ao paciente.
+No agravo em execução penal interposto pelo paciente, o Tribunal de Justiça negou provimento ao recurso em que era requerida a alteração da data base para a progressão de regime, em acórdão cuja ementa é a seguinte (fls.18):
+AGRAVO EM EXECUÇÃO PENAL. DETRAÇÃO. PROJEÇÃO DE BENEFÍCIOS. RECURSO DO APENADO. PRETENSÃO DE FIXAÇÃO DA DATA DA PRIMEIRA PRISÃO COMO DATA-BASE E DE CÔMPUTO DO PERÍODO DE SEGREGAÇÃO CAUTELAR COMO PENA CUMPRIDA PARA O CÁLCULO DO REQUISITO OBJETIVO PARA A PROGRESSÃO DE REGIME. MANTIDA A DECISÃO RECORRIDA. JURISPRUDÊNCIA CONSOLIDADA DESTA CÂMARA CRIMINAL E MAJORITÁRIA DESTE TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E DESROVIDO. - SEGUNDO O ENTENDIMENTO CONSOLIDADO DESTE COLEGIADO E AMPLAMENTE MAJORITÁRIO DESTA CORTE, PARA SE ULTIMAR O CÁLCULO DE DETRAÇÃO, O JUÍZO A QUO DEVE DESCONTAR DA PENA IMPOSTA O TEMPO DE PRISÃO CAUTELAR E, SOBRE O SALDO REMANESCENTE, FAZER INCIDIR AS FRAÇÕES PREVISTAS PARA OS BENEFÍCIOS DA EXECUÇÃO PENAL, ADOTANDO COMO MARCO DE REFERÊNCIA A DATA DA ÚLTIMA PRISÃO. IN CASU , FOI CORRETAMENTE ADOTADA COMO DATA-BASE A DATA DA ÚLTIMA PRISÃO, QUANDO DO RECOLHIMENTO DO APENADO PARA CUMPRIMENTO DA CONDENAÇÃO DEFINITIVA (CORRETO LANÇAMENTO DO PERÍODO DE PRISÃO CAUTELAR, OCORRIDO ENTRE O FLAGRANTE E A CONCESSÃO DE LIBERDADE PROVISÓRIA, COMO PENA CUMPRIDA).
+Neste habeas corpus, o impetrante alega constrangimento ilegal alegando que o paciente faz jus a que seja computado como data-base na execução penal, o tempo da prisão em flagrante do paciente. Requer a concessão da ordem para que seja fixado como marco inicial da data-base, o dia da prisão em flagrante do apenado.
+As informações foram prestadas às fls. 73-76 e 78-89.
+O Ministério Público Federal manifestou-se, às fls. 95-102, pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+A questão submetida a esta Corte Superior refere-se à data base fixada ao paciente, pelo juízo da execução, como sendo a data em que o mesmo iniciou o cumprimento definitivo da pena e não a data da prisão em flagrante.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A terceira Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Entretanto, diante da possibilidade de concessão da ordem de ofício, em caso de coação ilegal, em observância § 2º do artigo 654 do Código de Processo Penal, passo à análise das alegações defensivas.
+In casu, verifico que o acórdão recorrido se encontra de acordo com as diretrizes desta Corte, vez que, conforme delineado, o tempo de prisão preventiva foi devidamente computado para fins de detração, e, a data-base foi a da prisão definitiva, tendo em vista que a partir dela se iniciou a prisão de forma ininterrupta, vejamos (fls. 15-16):
+" ..  O recorrente está recolhido para cumprimento de uma única condenação definitiva, referente ao cometimento dos delitos previstos nos artigos 33 e 35 da Lei de Drogas, em que aplicada a pena total de 13 anos, 9 meses e 18 dias, com imposição de regime inicial fechado (5002524- 29.2021.4.04.7200). Foi preso em flagrante em 6-12-2012, restando preso cautelarmente até 21-2-2013. Em 22-2-2022 ocorreu a prisão para fins de cumprimento da condenação definitiva.
+No lançamento dos dados no relatório de situação processual executória, foi adotado, como data-base, o dia da última prisão ininterrupta (22-2-2022) e o tempo de detração foi lançado como tempo de pena cumprida.
+Vistos para decisão.
+Certa a impossibilidade de retificação dos prognósticos de progressão de regime, pois o tempo de
+prisão provisória não pode ser computado no período necessário para fins de progressão de regime,
+conforme pretendido pela defesa, mas sim descontado do total da pena imposta e sobre tal resultado
+deve ser considerada a fração necessária para fins de progressão de regime  .. ".
+O acórdão se alinha à jurisprudência desta Corte Superior, no sentido de que a data da prisão preventiva não deve ser considerada para fins de definição do termo inicial do cálculo da progressão de regime quando o apenado foi solto no curso do processo (AgRg no REsp n. 1.928.917/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Neste mesmo sentido:
+"A data-base para a concessão de benefícios executórios deve ser a da última prisão ininterrupta, sendo que o período anterior à condenação em que o réu esteve preso preventivamente será computado para fins de detração penal, sem considerar como marco inicial o período em que o acusado esteve em liberdade provisória." (AgRg no HC n. 937.741/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024).
+Assim, não identifico a existência de flagrante ilegalidade que justifique a concessão da ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
