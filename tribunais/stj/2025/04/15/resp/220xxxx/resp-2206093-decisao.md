@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por ITAÚ UNIBANCO S.A., com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em apelação nos autos de ação revisional. O julgado foi assim ementado (fl. 1.681):
+APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE AMBAS AS PARTES.
+1. RECURSO DA PARTE AUTORA. RAZÕES RECURSAIS QUE NÃO APRESENTOU IMPUGNAÇÃO DIRETA E LÓGICA AOS FUNDAMENTOS DA SENTENÇA. NÍTIDA OFENSA AO DISPOSTO NO ART. 1.010, III, DO CÓDIGO DE PROCESSO CIVIL E AO PRINCÍPIO DA DIALETICIDADE RECURSAL. NÃO CONHECIMENTO.
+2. RECURSO DA PARTE RÉ. INSTITUIÇÃO FINANCEIRA.
+2.1. PRELIMINARES.
+2.1.1. PRESCRIÇÃO. NÃO OCORRÊNCIA. REPETIÇÃO DE INDÉBITO FRUTO DA REVISÃO CONTRATUAL QUE POSSUI PRAZO PRESCRICIONAL VINTENÁRIO NA VIGÊNCIA DO CÓDIGO CIVIL DE 1916 E DECENAL NA VIGÊNCIA DO CODEX DE 2002. CONTRATOS FIRMADOS ENTRE 2010 E 2016, O PRIMEIRO COM VENCIMENTO EM AGOSTO DE 2010. DEMANDA AJUIZADA EM MAIO DE 2018. INCIDÊNCIA, NO CASO CONCRETO, DO PRAZO DECENAL. PRESCRIÇÃO NÃO CARACTERIZADA.
+2.1.2. TESE DE AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS. NÃO ACOLHIMENTO. EXORDIAL COM PEDIDOS CLAROS E DETERMINADOS. REQUISITOS DO ART. 330, § 2º, DO CPC DEVIDAMENTE CUMPRIDOS. CONTRADITÓRIO POSSÍVEL DE SER EXERCIDO.
+2.2. MÉRITO.
+2.2.1. JUROS REMUNERATÓRIOS. APLICAÇÃO DA ORIENTAÇÃO FIRMADA NO RECURSO ESPECIAL N. 1.061.530/RS (RECURSO REPETITIVO), NA SÚMULA 382 DO SUPERIOR TRIBUNAL DE JUSTIÇA E NO ENUNCIADO I DO GRUPO DE CÂMARAS DE DIREITO COMERCIAL DESTE TRIBUNAL. PERCENTUAIS CONTRATADOS, NOS CONTRATOS N. 168878924, 53280828-4 E 137948802-137, QUE SUPERAM DE FORMA DESPROPORCIONAL A TAXA MÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL DO BRASIL - BACEN, REFERENTE AO MÊS E ANO DAS CONTRATAÇÕES. ABUSIVIDADE CONFIGURADA. SENTENÇA MANTIDA.
+2.2.2. TARIFA DE ABERTURA DE CRÉDITO (TAC). CONTRATOS QUE FORAM FIRMADOS APÓS A VIGÊNCIA DA RESOLUÇÃO CMN 3.518/2007, EM 30-04-2008. NORMATIVO QUE DEIXOU DE PREVER A LEGALIDADE DA TAC. VEDAÇÃO MANTIDA.
+2.2.3. REPETIÇÃO DE INDÉBITO. DEFENDIDA IMPOSSIBILIDADE. NÃO ACOLHIMENTO DOS PLEITOS. DIREITO DO CONSUMIDOR (ART. 42 DO CDC). HIPÓTESE EM QUE HOUVE MODIFICAÇÃO CONTRATUAL. INEXISTÊNCIA DE PROVAS DE QUE A INSTITUIÇÃO FINANCEIRA TERIA AGIDO DE MÁ-FÉ. RESTITUIÇÃO, OU COMPENSAÇÃO COM A DÍVIDA, DE EVENTUAIS VALORES PAGOS INDEVIDAMENTE QUE DEVE SER FEITA DE FORMA SIMPLES, CORRIGIDOS PELO INPC DESDE A DATA DE CADA PAGAMENTO INDEVIDO E COM APLICAÇÃO DE JUROS MORATÓRIOS DE 1% AO MÊS, A CONTAR DA CITAÇÃO.
+3. HONORÁRIOS ADVOCATÍCIOS EM GRAU RECURSAL (ART. 85, § 11, DO CPC). REQUISITOS DO SUPERIOR TRIBUNAL DE JUSTIÇA PREENCHIDOS (EDCL NO AGINT NO RESP N. 1573573/RJ, J. 04-04-2017). MAJORAÇÃO EM FAVOR DO CAUSÍDICO DE AMBAS AS PARTES.
+RECURSO DO AUTOR NÃO CONHECIDO. RECLAMO DO BANCO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação dos arts. 1º e 4º, IX, da Lei n. 4.595/1964 e 406 do CC, além de divergência jurisprudencial no tocante à limitação dos juros remuneratórios.
+Destaca a inexistência de abusividade na taxa de juros remuneratórios firmado entre as partes e pondera que o acórdão levou em consideração apenas a taxa média de mercado divulgada pelo Banco Central.
+Sustenta a necessidade de menção expressa às particularidades do caso concreto para demonstração de eventual abusividade dos juros remuneratórios, conforme o disposto no REsp n. 2.009.614/SC.
+Aduz ainda divergência jurisprudencial com o decidido no REsp n. 1.061.530/RS, no tocante aos critérios para a verificação da abusividade dos juros remuneratórios.
+Sustenta que a Selic é a taxa de juros moratórios a ser utilizada, conforme o disposto no Recurso Especial repetitivo n. 1.111.117/PR
+Defende a licitude da mora diante da regularidade dos encargos contratados.
+Requer a reforma do acórdão recorrido para que se restabeleça a validade dos juros remuneratórios praticados e, consequentemente, se afaste a condenação à repetição do indébito e se redistribuam os ônus sucumbenciais.
+É o relatório. Decido.
+I - Juros Remuneratórios
+No recurso especial, a parte recorrente alega que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovada abusividade, o que não ocorreu no caso concreto. A recorrente afirma que o Tribunal de origem utilizou a taxa média de mercado como único parâmetro para aferir a abusividade dos juros remuneratórios, sem considerar as peculiaridades do caso concreto, contrariando a jurisprudência do STJ.
+Considerando o entendimento firmado no julgamento do Recurso Especial n. 1.061.530/RS, as Turmas da Segunda Seção do STJ já esclareceram que a limitação da taxa de juros com base apenas no fato de estar acima da taxa média de mercado não encontra respaldo na jurisprudência desta Corte, uma vez que devem ser observados diversos fatores para a revisão da taxa de juros, tais como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+Confira-se trecho do acórdão recorrido (fl. 1.676, destaquei):
+No presente caso, verifica-se que nos Contratos n. 168878924, 53280828-4 e 137948802- 137, conforme tabela ilustrada na sentença, foram ajustados juros mensais e anuais muito superiores a 10% (dez por cento) da taxa média de mercado divulgada pelo Bacen.
+Sobre o tema, a propósito: "É abusiva a taxa de juros remuneratórios contratada que ultrapassa em mais de 10% (dez por cento) a taxa mensal média de mercado divulgada pelo Bacen". (TJSC, Apelação Cível n. 0009309-18.2013.8.24.0011, de Brusque, rel. Des. Janice Goulart Garcia Ubialli, Quarta Câmara de Direito Comercial, j. 24-10-2017).
+ ..
+Dessa forma, a sentença deve ser mantida.
+Assim, o Tribunal de origem limitou-se a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, sem apresentar outros fundamentos a respeito do tema.
+Esse entendimento não está de acordo com a jurisprudência do STJ, considerando que a Corte a quo utilizou como único parâmetro a taxa média de mercado divulgada pelo Banco Central, deixando de analisar efetivamente eventual vantagem exagerada, que justificaria a limitação determinada para o contrato de empréstimo pessoal.
+Dessa forma, é necessário o retorno dos autos ao Tribunal de origem para que, à luz dos requisitos estabelecidos pela jurisprudência do STJ, proceda a novo julgamento, considerando as particularidades do caso concreto e verificando a existência de abusividade dos juros remuneratórios.
+II - Violação do art. 406 do Código Civil
+Quanto aos índices aplicáveis aos juros e à correção monetária quando não forem convencionados ou quando o forem sem taxa estipulada, registre-se que, em recente alteração do art. 406 do Código Civil, promovida pela Lei n. 14.905/2024, foi incluído o § 1º, que, na mesma linha do entendimento jurisprudencial do STF e do STJ, passou a prever, de forma expressa, que "os juros serão fixados de acordo com a taxa legal", que "corresponderá à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 deste Código". Confira-se:
+Art. 406. Quando não forem convencionados, ou quando o forem sem taxa estipulada, ou quando provierem de determinação da lei, os juros serão fixados de acordo com a taxa legal.
+§ 1º A taxa legal corresponderá à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 deste Código.
+Assim, quando não forem convencionados ou quando o forem sem taxa estipulada, os juros de mora devem ser substituídos pela taxa Selic, na forma atual do art. 406, § 1º, do Código Civil, sem cumulação com índice de correção monetária.
+No caso, o Tribunal de origem afastou a aplicação da taxa Selic e determinou a incidência de correção monetária e juros moratórios de 1% ao mês sobre o valor a ser restituído, nestes termos (fl. 1.679):
+No mais, os valores a serem restituídos ou compensados deverão ser atualizados pelo INPC, desde a data de cada pagamento indevido, mais juros moratórios de 1% ao mês, estes a contar da citação (art. 240, caput, do CPC/2015), pois são encargos lógicos da condenação, conforme art. 322, § 1º, do CPC/2015.
+Como visto, o entendimento adotado contraria a jurisprudência do STJ, uma vez que, quando não forem convencionados ou quando o forem sem taxa estipulada, os juros de mora devem ser substituídos pela taxa Selic.
+III - Conclusão
+Ante o exposto, conheço do recurso especial e dou-lhe provimento a fim de determinar a devolução dos autos à origem para que novo julgamento seja realizado, avaliando-se eventual abusividade dos juros remuneratórios de acordo com os parâmetros estabelecidos pela jurisprudência do STJ, bem como alterar os índices dos juros moratórios e da correção monetária fixados na instância de origem para a atual forma de cálculo prevista no art. 406, § 1º, do CC .
+Publique-se. Intimem-se.
+ EMENTA
