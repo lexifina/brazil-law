@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, embargos de declaração opostos por ANNA CHRISTINA JUFFO e GUILHERME LUIZ JAMES em face da decisão monocrática que não conheceu do agravo em recurso especial pela incidência do óbice da Súmula 7/STJ.
+Aduzem os embargantes que há relação de prejudicialidade direta entre os referidos processos administrativos, asseverando que a decisão agravada incorreu em vícios ao não se manifestar explicitamente sobre a nulidade alegada, mencionando ainda jurisprudência consolidada na ADI 4980 do STF.
+Como certificado nos autos (fl. 5700), transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Em reexame, verifico que não assiste razão aos embargantes.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que os embargos de declaração não se prestam à rediscussão de matéria já analisada, mesmo que para fins de prequestionamento, quando ausentes os vícios previstos no art. 1.022 do Código de Processo Civil.
+Nos termos do que dispõe o art. 1022 do CPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso em análise, a decisão monocrática impugnada expressamente consignou que a análise pretendida pelos recorrentes demandaria, inevitavelmente, o reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ. Ainda, ficou devidamente fundamentado que o Tribunal Regional Federal da 2ª Região conferiu interpretação razoável à legislação aplicável à espécie, reconhecendo a nulidade apenas parcial dos procedimentos administrativos n. 15586.001545/2009-13 e 15586.001547/2009-11, restringindo-a às respectivas intimações dos acórdãos administrativos e determinando nova intimação, o que justificou a suspensão - e não a anulação - do Processo 15586.001549/2009-00, cuja continuidade está condicionada à conclusão daqueles procedimentos.
+A decisão embargada afastou a alegação de violação ao art. 23 do Decreto 70.235/1972, ao entender que a análise da necessidade de anular integralmente ou apenas suspender o Processo Administrativo 15586.001549/2009-00 demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Ademais, a tese de violação à ADI 4980 do STF, no sentido de que o processo administrativo para fins penais não poderia prosseguir antes do trânsito em julgado administrativo, não foi desconsiderada, mas sim considerada implicitamente superada pela interpretação conferida pelo Tribunal de origem, cuja revisão encontra barreira no mencionado enunciado sumular.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
