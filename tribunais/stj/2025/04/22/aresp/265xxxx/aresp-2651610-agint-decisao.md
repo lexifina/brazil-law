@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interno interposto por VIBRA ENERGIA S.A. contra a decisão de fls. 359-364, que não conheceu do agravo em recurso especial de fls. 282-290 por ser considerado manifestamente incabível.
+A agravante reitera as razões do agravo em recurso especial, defendendo a possibilidade de recurso às cortes superiores contra o acórdão que julga o agravo interno interposto na origem contra decisão que, com esteio em tema de repercussão geral ou tese decidida em recurso especial repetitivo, nega seguimento a recurso especial.
+Requer seja reconsiderada a decisão agravada ou, não havendo retratação, seja o agravo submetido ao colegiado.
+Contrarrazões pelo não conhecimento ou pelo não provimento do recurso (fls. 380-387). Requer a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+Trata-se, na origem, de agravo de instrumento interposto contra decisão proferida em cumprimento de sentença que concluiu que o depósito da dívida realizado pelo devedor para a garantia do juízo faz cessar a sua responsabilidade pela incidência de correção monetária e de juros relativamente ao valor depositado (fls. 90-93).
+O Tribunal a quo deu provimento ao recurso para determinar a incidência dos encargos moratórios estabelecidos no título executivo judicial até o efetivo pagamento do débito, aplicando a nova tese fixada referente ao Tema n. 677 do STJ (fls. 85-99).
+Sobreveio recurso especial em que a ora agravante defendia a ocorrência de negativa de prestação jurisdicional e a inaplicabilidade retroativa da nova orientação vinculante referente ao Tema n. 677 do STJ.
+Foi proferida decisão mista de admissibilidade do recurso especial: a) inadmitindo o recurso, amparo no art. 1.030, V, do CPC, quanto à tese de violação dos 489, § 1º, IV, 1.022, II, do CPC (fls. 175-183); b) negando seguimento ao recurso, com amparo no art. 1.030, V, do CPC, quanto à tese de violação do art. 629 do Código Civil (fls. 181-188).
+Dessa decisão, a parte ora agravante interpôs agravo em recurso especial quanto à parte inadmitida (fls. 190-211); e, em relação à matéria repetitiva (violação do art. 629 do Código Civil - Tema n. 677 do STJ), agravo interno (fls. 229-252).
+O Tribunal de origem levou a julgamento o agravo interno, que foi desprovido pelo órgão julgador competente (fls. 270-279).
+Insatisfeita com mais essa decisão, a agravante interpôs novo agravo em recurso especial (fls. 282-290).
+Foi proferida nova decisão de admissibilidade pela Presidência do Tribunal de origem não conhecendo do agravo em recurso especial de fls. 282-290 por considerá-lo manifestamente incabível (fls. 314-320).
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o único recurso cabível contra decisão que, com esteio em tema de repercussão geral ou tese decidida em recurso especial repetitivo, nega seguimento a recurso especial, é o agravo interno dirigido ao próprio Tribunal estadual, segundo previsão dos arts. 1.030, § 2 º, e 1.042 do CPC. E, uma vez julgado o agravo interno na origem, com a conclusão pela conformidade entre o aresto recorrido e o precedente vinculante, está encerrado o debate em torno da questão, sen do incabível a rediscussão da matéria em recurso dirigido a esta Corte (AgInt no AREsp n. 2.400.157/MA, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 15/4/2024, DJe de 23/4/2024; AgInt no AREsp n. 2.397.201/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 11/3/2024, DJe de 14/3/2024; AgInt no AREsp n. 2.010.511/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 17/4/2023, DJe de 20/4/2023).
+Por fim, contra a decisão de fls. 314-320 não foi interposto recurso, sobrevindo a certidão de transcurso de prazo de fl. 323. A matéria, portanto, foi definitivamente resolvida pelo Tribunal a quo.
+Dessa forma, foi inaugurada a jurisdição do STJ somente quanto ao agravo em recurso especial de fls. 190-211, de modo que não havia o que decidir nestes autos sobre o agravo em recurso especial fls. 282-290.
+Assim, na forma do art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 359-364 para não conhecer do agravo em recurso especial de fls. 282-290, nos termos da fundamentação acima.
+Publique-se. Intimem-se.
+EMENTA
