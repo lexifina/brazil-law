@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. INDISPONIBILIDADE. ARTIGO 185-A DO CTN.
+1. A indisponibilidade de bens (prevista no art. 185-A, do CTN), por ser medida extrema de intervenção no patrimônio do devedor, é adotável apenas no caso de não haver outra forma possível de garantir a dívida.
+2. No caso dos autos é inviável a determinação de indisponibilidade prevista no artigo 185-A, pois eventual restrição a recair sobre bens móveis ou imóveis irá ultrapassar os limites impostos pelo artigo 185-A do CTN.
+3. Ausentes novos elementos a alterar o entendimento adotado, resta mantida a decisão que analisou o pedido de efeito suspensivo.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, o recorrente sustenta violação ao art. 1.022 do CPC, alegando omissão na análise da tese de "inexistência de qualquer vedação legal à doção da medida postulada - pedido de indisponibilidade de bens - em razão do valor da dívida" (fl. 118).
+Aponta a afronta ao art. 185-A do CTN, pois, "ainda que não se considere o valor da execução expressivo, não remanesce qualquer ressalva no fundamento legal quanto à impossibilidade de providências relativas à indisponibilidade de bens em função do autoqualificado "baixo valor" da dívida" (fl. 119).
+Aduz, por fim, que promoveu todas as diligências exigíveis para a indisponibilidade de bens, sendo imperativa a penhora, sob pena de violação aos arts. 139, 789, 797 e 831 do CPC, além dos arts. 7º e 10 da Lei 6.830/1980.
+Não foram apresentadas contrarrazões ao recurso.
+É o relatório.
+Passo a decidir.
+De início, quanto à apontada violação ao art. 1.022 do CPC, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No mérito, a Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.377.507/SP, representativo da controvérsia, realizado em 26/11/2014, da relatoria do Ministro Og Fernandes, firmou o entendimento de que as disposições do art. 185-A do CTN abrangerão todo e qualquer bem ou direito do devedor, observado como limite o valor do crédito tributário, e dependerão do preenchimento destes requisitos: (I) citação do executado; (II) inexistência de pagamento ou de oferecimento de bens à penhora no prazo legal; e, por fim, (III) não forem encontrados bens penhoráveis; sendo que a análise razoável para concluir se houve o esgotamento das diligências será demonstrada a partir das seguintes medidas: (a) acionamento do Bacen-Jud; e (b) expedição de ofícios aos registros públicos do domicílio do executado e ao Departamento Nacional ou Estadual de Trânsito - DENATRAN ou DETRAN.
+O entendimento foi ratificado com a publicação da Súmula 560 do STJ, segundo a qual "a decretação da indisponibilidade de bens e direitos, na forma do art. 185-A do CTN, pressupõe o exaurimento das diligências na busca por bens penhoráveis, o qual fica caracterizado quando infrutíferos o pedido de constrição sobre ativos financeiros e a expedição de ofícios aos registros públicos do domicílio do executado, ao Denatran ou Detran" (Primeira Seção, julgado em 9.12.2015, DJe 15.12.2015).
+Observo, portanto, que a conclusão do Tribunal de origem vai de encontro ao entendimento consolidado neste Superior Tribunal de Justiça, porquanto a decretação de indisponibilidade de bens prevista no art. 185-A do Código Tributário Nacional, deve observar os requisitos previstos em lei, inexistindo vinculação ou correção com o valor perseguido na execução fiscal.
+Isso posto, dou parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento de feito, com análise do cumprimento dos requisitos para o deferimento da indisponibilidade de bens nos termos do art. 185-A do CTN.
+Intimem-se.
+EMENTA
