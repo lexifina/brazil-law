@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ALEXANDRE PEDRO DA SILVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o Juízo da execução penal indeferiu o pedido do paciente para realizar trabalho externo, ao argumento de que se trata de pessoa recentemente transferida para o novo regime, sendo ainda necessário verificar as condições pessoais favoráveis do paciente à concessão do benefício. Destacou-se, além disso, a ausência de informações básicas sobre o trabalho a ser executado, como salário e jornada, forma de fiscalização e supervisão durante o período laboral, bem como meio de deslocamento.
+A defesa sustenta que o paciente já cumpriu tempo superior ao exigido pela legislação, além de possuir bom comportamento carcerário, sem nenhum procedimento administrativo respondido ou faltas disciplinares, cumprindo os requisitos objetivos e subjetivos.
+Afirma ainda que foi interposto agravo na execução perante o Tribunal local, o qual foi improvido, mantendo-se a decisão de primeiro grau.
+Requer, liminarmente e no mérito, a concessão da ordem para cassar o acórdão impetrado e ser conferido o benefício do trabalho externo ao paciente.
+É o relatório.
+O Superior Tribunal de Justiça entende que é inadmissível a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração.
+Sobre a questão, confiram-se os seguintes julgados desta Corte Superior:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. ABSOLVIÇÃO IMPETRAÇÃO DE HABEAS CORPUS NA FLUÊNCIA DO PRAZO PARA A INTERPOSIÇÃO DE RECURSOS NA ORIGEM. IMPOSSIBILIDADE.
+1. "O writ foi manejado antes do dies ad quem para a interposição da via de impugnação própria na causa principal, o recurso especial. Dessa forma, a impetração consubstancia inadequada substituição do recurso cabível ao Superior Tribunal de Justiça, não se podendo excluir a possibilidade de a matéria ser julgada por esta Corte na via de impugnação própria, a ser eventualmente interposta na causa principal" (AgRg no HC n. 895.954/DF, relator Ministro Otávio de Almeida Toledo - Desembargador Convocado do TJSP, Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+2. Agravo regimental desprovido.
+(AgRg no HC n. 939.599/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/10/2024, DJe de 28/10/2024 - grifo próprio.)
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto por Pablo da Silva contra decisão monocrática que não conheceu de habeas corpus, com base no entendimento de que o habeas corpus foi utilizado em substituição a revisão criminal. O agravante foi condenado a 1 ano de reclusão, com substituição da pena por restritiva de direitos, pela prática de furto (art. 155, caput, CP). A defesa pleiteou a conversão da pena restritiva de direitos em multa, alegando discriminação com base na condição financeira do paciente.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o conhecimento do habeas corpus utilizado em substituição à revisão criminal; e (ii) estabelecer se a escolha da pena restritiva de direitos, em vez de multa, configura discriminação por condição financeira.
+III. RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substituto de revisão criminal, conforme a jurisprudência consolidada do STJ e do STF, ressalvados casos de flagrante ilegalidade.
+4. Não houve demonstração de ilegalidade evidente na escolha da pena restritiva de direitos, sendo esta compatível com a natureza do crime e as condições pessoais do condenado.
+IV. DISPOSITIVO E TESE
+5. Agravo regimental desprovido.
+Tese de julgamento:
+1. O habeas corpus não pode ser utilizado como substituto de revisão criminal, salvo em casos de flagrante ilegalidade.
+2. A escolha de pena restritiva de direitos, em substituição à privativa de liberdade, não configura discriminação por condição financeira, desde que adequadamente fundamentada.
+Dispositivos relevantes citados: Código Penal, art. 155; STJ, AgRg no HC 861.867/SC; STF, HC 921.445/MS.
+(AgRg no HC n. 943.522/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 22/10/2024, DJe de 4/11/2024.)
+Portanto, não se pode conhecer da impetração.
+Por outro lado, questionada a possibilidade de concessão da ordem de ofício, prevista no art. 647-A do Código de Processo Penal, anoto que a controvérsia refere-se ao conhecimento de requisitos objetivos e subjetivos para a concessão de benefício de trabalho externo ao paciente.
+Como trazido na decisão impetrada (fls. 13-19) e nas informações prestadas pelas instâncias ordinárias (fls. 148-153 e 157-182), o referido benefício foi indeferido em razão da recente mudança ao novo regime, da ausência de informações sobre o trabalho que seria exercido, como jornada e remuneração, além de ser realizado em possível local no qual estimularia a prática de novas infrações pelo paciente, conforme decisão:
+Da análise dos fundamentos supra, e não obstante o esforço defensivo, tenho que o indeferimento da benesse é medida imperativa. Isso porque, apesar de a Defesa ter esclarecido o cargo a ser exercido, o horário de trabalho a ser cumprido e o salário, não há informações sobre como se daria a fiscalização e supervisão durante o período de labor, havendo tão somente menção genérica ao fato de que eventuais faltas, atrasos ou outras intercorrências seriam comunicadas ao Juízo. Não há, também, comprovação acerca da forma como ocorrerá o deslocamento do reeducando até a sede da empresa, tendo a Defesa apenas afirmado que:
+ ..  com relação ao meio de locomoção até o local de trabalho ser realizado com veículo próprio, esta defesa informa que assim consignou, pois foi instada a informar, mas caso Vossa Excelência entenda e determine que o deslocamento seja feito de outra maneira (transporte público) o reeducando acatará com as determinações advindas deste respeitável juízo.
+Entendo, outrossim, que, consoante bem destacado no Ofício do sequencial 273.1, p. 4, "Aferir a aptidão, disciplina e responsabilidade de algum sujeito depende de múltiplos fatores e, de fato, só ocorrerá com o devido acompanhamento ao longo do tempo". Deste modo, em que pese não se exija o adimplemento de requisito objetivo para fins de concessão do benefício, certo é que no presente caso o Reeducando foi agraciado com a progressão ao regime semiaberto em 25/06/2024, ou seja, há menos de seis meses, período que, na visão deste Relator, é insuficiente para se concluir que o Agravante possui o senso de disciplina e responsabilidade necessários. Observo, também, que há nos autos parecer Comissão Técnica de Classificação pelo indeferimento do pleito, o que reforça as conclusões acima exaradas. Sobre o assunto:
+AGRAVO EM EXECUÇÃO PENAL. INSURGÊNCIA DO APENADO. TRABALHO EXTERNO. NEGATIVA COM FUNDAMENTO EM PARECER DA COMISSÃO TÉCNICA DE CLASSIFICAÇÃO. REQUISITO SUBJETIVO NÃO SATISFEITO. MANUTENÇÃO. RECURSO CONHECIDO E NÃO PROVIDO. (Agravo de Execução Penal n. 0000246-31.2020.8.24.0008, rel. Des. Alexandre d"Ivanenko, Quarta Câmara Criminal, j. 23/04/2020).
+Destaco, por fim, que a função a ser exercida, qual seja, auxiliar de pintor automotivo, guarda estreita relação com os crimes pelos quais foi condenado, quais sejam, receptação qualificada e adulteração de sinal identificador de veículo automotor, motivo pelo qual também se revela temerária a liberação para a realização de trabalho externo.
+É importante lembrar que, no procedimento do habeas corpus, não se permite a produção ou reavaliação de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano. Por isso, neste momento, não se pode exigir da defesa que apresente comprovação d os requisitos para a concessão do trabalho externo.
+No presente caso, a Corte de origem fundamentou de forma precisa e delimitou as razões pelas quais concluiu e indeferiu o pedido do paciente, respaldando suas conclusões com base no parecer da comissão técnica de classificação e na ausência de comprovação pela defesa sobre informações básicas sobre o trabalho a ser exercido.
+Logo, não houve indeferimento do pleito apenas com base na subjetividade do julgador ou lastreada em decisão teratológica que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
