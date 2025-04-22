@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da Vara das Fazendas Públicas e dos Registros Públicos de Itumbiara/GO e o Juízo Federal do Juizado Especial Cível e Criminal de Itumbiara-SJ/GO, nos autos da ação previdenciária que Sonia de Fátima Araújo Oliveira move em desfavor do INSS - Instituto Nacional de Seguro Social.
+O feito foi inicialmente distribuído ao Juízo de Direito da Comarca de Cachoeira Dourada/GO, que veio a ser desinstalado pelo Poder Judiciário do Estado de Goiás (Resolução 212/2023/TJGO), o que levou à sua redistribuição ao Juízo de Direito da Vara das Fazendas Públicas e dos Registros Públicos de Itumbiara/GO, o qual declinou da competência à Justiça Federal, "considerando a instalação/existência da Subseção Judiciária da Justiça Federal nesta Comarca e, tendo em vista a natureza da ação" (fl. 49).
+O Juízo Federal do Juizado Especial Cível e Criminal de Itumbiara-SJ/GO, declarando-se incompetente, determinou a devolução dos autos ao Juízo da Vara de Fazendas Públicas e de Registros Públicos da Comarca de Itumbiara/GO que, por sua vez, suscitou o presente conflito de competência (fls. 67-72).
+O Ministério Público Federal, às fls. 81-83, manifestou-se pelo não conhecimento do conflito, com a remessa dos autos ao Tribunal Regional Federal da 1ª Região.
+É o relatório. Passo a decidir.
+A questão não comporta maiores discussões.
+Com efeito, a presente controvérsia diz respeito ao exercício de jurisdição federal delegada (artigo 109, § 3º, da Constituição Federal), razão por que incide ao caso a Súmula n. 3 do Superior Tribunal de Justiça, que possui o seguinte teor: "Compete ao Tribunal Regional Federal dirimir conflito de competência verificado, na respectiva Região, entre Juiz Federal e Juiz Estadual investido de jurisdição federal".
+Com idêntica temática dos autos e mesmos juízos, destaca-se os seguintes julgados monocráticos, inclusive de minha relatoria: CC 210.963/GO, relator Ministro Benedito Gonçalves, DJEN 9/4/2025; CC 210.947/GO, relator Ministro Afrânio Vilela, DJEN 17/3/2025; CC 210.962/GO, relator Ministro Paulo Sérgio Domingues, DJEN 26/2/2025; CC 210.954/GO, relatora Ministra Maria Thereza de Assis Moura, DJEN 6/2/2025.
+Ante o exposto, não conheço do Conflito de Competência e determino a remessa dos autos ao Tribunal Regional Federal da 1ª Região a fim de que aprecie a questão como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL INVESTIDO DE JURISDIÇÃO FEDERAL, LOCALIZADOS NA MESMA REGIÃO. ARTIGO 109, § 3º, DA CONSTITUIÇÃO FEDERAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 3/STJ. CONFLITO NÃO CONHECIDO.
