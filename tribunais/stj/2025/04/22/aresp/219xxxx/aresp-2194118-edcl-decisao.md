@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELIAS CIDRAL contra decisão de minha lavra, em que não reconheci a exceção de suspeição suscitada pelo ora embargante e determinei a instauração do incidente em apartado, suspendendo-se o trâmite do feito (e-STJ fls. 2.758/2.760).
+Sustenta a parte embargante a ocorrência de obscuridade e contradição na decisão embargada quando da apreciação do apontado "erro grasso" na redistribuição dos autos da Segunda Seção desta Corte, ao argumento de que "não se pode aceitar cegamente a redistribuição de um processo sem antes analisar se tem competência para o julgamento da causa" (e-STJ fl. 2.765).
+Aponta, ainda, os mesmos vícios quanto à afirmação de que a questão da incompetência da Primeira Seção nunca foi submetida à apreciação deste relator, alegando que, em várias oportunidades, teria apresentado o equívoco do julgamento da ação como matéria de direito público, porquanto constituído o Banco do Estado de Santa Catarina como sociedade de economia mista.
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 2.773).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão e erro material na decisão.
+No caso, não ocorreu nenhum dos vícios supracitados.
+A alegação de incompetência da Seção de Direito Público para examinar o apelo especial do ora embargante, a despeito de suscitada no agravo interno de e-STJ fls. 2.638/2.668 e nos embargos de declaração de e-STJ fls. 2.694/2.705, manifesta o inconformismo da parte recorrente (ora embargante) com a remessa dos autos para aquela outra (e-STJ fls. 2.533/2.537, 2.580/2.582 e 2.602/2.605).
+Naqueles julgados oriundos da Segunda Seção, apontou-se que o caso dos autos relacionava-se com contratos provenientes de licitação na modalidade concorrência, firmados com o Banco do Estado de Santa Catarina, sob os auspícios da Lei n. 8.666/1993, razão por que, na instância de origem, o Juiz da Vara de Direito Bancário declinou da competência para processar e julgar o presente feito e "a 5ª Câmara de Direito Comercial do TJSC também declinou da competência para julgar o recurso de apelação interposto por ELIAS, redistribuindo o feito para uma das Câmaras de Direito Público daquela Corte" (e-STJ fl. 2.535).
+Nesse cenário "e considerando que as instâncias ordinárias deixaram claro que a matéria de fundo envolve a aquisição de bens mediante licitação", o eminente Min. Moura Ribeiro redistribuiu os autos para uma das Turmas da Primeira Seção (e-STJ fl. 2.536).
+Quando me foram distribuídos os autos, constatei que o agravante não impugnou devidamente os fundamentos da decisão de inadmissibilidade, tampouco conheci do agravo interno pelo emprego do enunciado da Súmula 182 do STJ (e-STJ fls. 2.632/2.634 e 2.6 86/2.689).
+A questão de que não havia nenhum interesse público a atrair a competência da Vara ou da Câmara de Direito Público foi ventilada no apelo raro ao argumento de que "a venda de imóveis adjudicados em razão de dívidas bancárias de seus clientes (atividade tipicamente bancária, sem qualquer relação, com bonés do patrimônio pública, seja da União, do Estado ou de Município), não tem o condão de assumir a natureza de contrato administrativo" (e-STJ fl. 1.588).
+A despeito de arguido no apelo raro, o tema da competência nunca foi apreciado por este relator, porquanto o apelo especial não teve o seu mérito apreciado, haja vista a deficiência na fundamentação do agravo em recurso especial.
+Ora, se os recursos apresentados nem sequer ultrapassaram o juízo prévio de conhecimento, não há falar em vícios integrativos (omissão/contradição/obscuridade) no enfrentamento de questão que diz respeito ao mérito recursal, repita-se, jamais apreciado por este r elator.
+Com essas considerações, REJEITO os embargos de declaração.
+Cumpra-se a parte final da decisão embargada (instauração do incidente).
+Publique-se. Intimem-se.
+ EMENTA
