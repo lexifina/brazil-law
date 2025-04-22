@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo apresentado por DEBORA FRAGA E SOUZA e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO INTERNO - DECISÃO DE REVOGAÇÃO DA JUSTIÇA GRATUITA - DECISÃO MANTIDA.
+- Tendo as agravantes deixado de comprovar o estado de miserabilidade, e a alteração da capacidade econômica que antes lhes permitiam arcar com altos custos de locação comercial e manutenção do imóvel, deve ser mantida incólume a decisão objurgada que revogou a gratuidade.
+- Agravo interno ao qual se nega provimento.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação aos arts. 98 e 99, § 2º e 3º, do CPC, no que concerne à ausência dos requisitos para a revogação do direito aos benefícios da justiça gratuita, tendo em vista que não houve alteração da hipossuficiência da parte requerente, trazendo a seguinte argumentação:
+Contudo, as recorrentes não podem se conformar com a revogação da gratuidade de justiça concedida pelo juízo primevo, uma vez que, satisfatoriamente preenchem os requisitos para manutenção da benesse.
+Logo, tem-se que o Tribunal de Justiça de Minas Gerais negou vigência ao artigo 98 e 99, § 2º e §3º do Código de Processo Civil, ao revogar a gratuidade de justiça concedida as recorrentes em primeiro grau, o que permite o manejo do presente recurso com base no art. 105, inciso III, alínea a, da CF/88.
+ ..
+A controvérsia está em definir se é legitima a revogação da gratuidade de justiça em Segunda Instância, sob o fundamento de que parte não comprovou condição de miserabilidade.
+ ..
+Apresentada a declaração de hipossuficiência, o juiz apenas poderá negar a gratuidade da justiça caso verifique a existência de outros elementos que evidenciem a falta dos pressupostos legais para a concessão do benefício, conforme previsão do §2º do mesmo art. 99 do CPC:
+ ..
+No caso dos autos, o artigo 98 e 99, § 2º do Código de Processo Civil determina que a pessoa física faz jus a gratuidade de justiça e que o indeferimento só poderá ocorrer na falta dos elementos que evidenciem os pressupostos legais para a concessão, o que não ocorreu no caso dos autos.
+ ..
+É certo que, no caso de comprovação da possibilidade de a parte efetuar o pagamento das custas e despesas processuais ou de modificação da condição de pobreza é possível a revogação de ofício do benefício concedido, entretanto, caberia ao recorrido a demonstração da alteração da condição financeira das rés, uma vez que o benefício já havia sido concedido em primeiro grau.
+Lado outro, injustificável a revogação do benefício da justiça gratuita até então concedida, pois inexiste qualquer evidência de modificação da situação financeira da parte, como exigem os artigos 7º e 8º da Lei nº 1.060/50 (fls. 1.001/1.004).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Intimadas a juntar documentos que demostrassem efetivamente a necessidade do benefício as apelantes não apresentaram a documentação requisitada e não lograram êxito em comprar a miserabilidade alegada.
+Há declaração parcial de IRPF da apelante Débora Fraga e Souza de 2018 (apenas fls. 1 a 4, do total de 9) e o recibo da IRPF de 2019 às fls 116 e 120 juntadas em primeira instância. Nesta instância foi juntada tão somente a IRPF 2022 da mesma ré e do Sr. Alessandro Valverde Monteiro também de 2022.
+Não está evidenciado em nenhum dos documentos dos autos as condições econômicas com as quais as apelantes arcavam com os alugueres do contrato de locação comercial que celebraram com a parte apelada, no valor mensal de R$8.000,00, além de reformas realizadas no imóvel conforme alegado em reconvenção de quase R$90mil reais.
+As agravantes limitam-se a argumentar que são autônoma (Débora Fraga e Souza) e desempregada (Lilaiane Carneiro das Chagas) sem a exibição das rendas mensais dos núcleos familiares e esclarecimentos da alteração da capacidade econômica que justifiquem a origem dos valores com os quais arcavam com os altíssimos custos da locação comercial.
+Mesmo em sede de agravo interno, as agravantes não trouxeram alegação ou elementos a comprovar o alegado estado de miserabilidade (fls. 993/994)
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
