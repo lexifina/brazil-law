@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por INDUSTRIAL DE ALIMENTOS ROTALBI LTDA à decisão de fls. 124/125, que não conheceu do recurso.
+Sustenta a parte embargante:
+O agravante deu estrito cumprimento as fls.119 e-STJ, de modo que imediatamente atendeu a intimação acima e procedeu a juntada da procuração conferida a Dra. Ariane Vettorello Sperafico, única advogada constituída nos autos ainda nos ides de 2010, pela empresa Recorrente, cuja cópia foi extraído diretamente do processo original - Autos nº. 0000528132010.8.16.0115.
+ ..
+Entretanto, ao contrario do afirmado a Agravante procedeu a juntada do instrumento procuratório, tal como determinado.
+Em momento algum, a Agravante foi intimada a apresentar contrato social, para identificar que o representante legal, detinha poderes para assinar a procuração - para a pessoa da causídica por eles constituída e, se assim o fosse teria juntado sem qualquer empecilho.
+Notadamente que, se trata de excesso de formalismo, o que deve ser repelido por este colendo Sodalício - haja vista, que como dito a Agravante deu cumprimento a determinação da forma como requerida e, havendo necessidade de apresentação do contrato social, este sodalício deveria ter intimado a Agravante a proceder a juntada, não havendo motivos para não conhecer do recurso.
+Outrossim, a Agravante procede a juntada do contrato social, da empresa Agravante, e a cópia do RG - de quem conferiu a assinatura a procuração - ainda nos ides de 2010 a causídica que esta subscreve - como forma de economia processual, na certeza de que os embargos serão providos ao final (fls. 128/129).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do Agravo e do Recurso Especial, Dra. ARIANE VETTORELLO SPERAFICO.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18.3.2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, porquanto, na procuração de fl. 118, não há como identificar o outorgante, e se este realmente possui poderes de representar a pessoa jurídica em questão.
+Registre-se que nos termos do art. 105 do CPC, "A procuração geral para o foro, outorgada por instrumento público ou particular assinado pela parte, habilita o advogado a praticar todos os atos do processo, exceto receber citação, confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação, firmar compromisso e assinar declaração de hipossuficiência econômica, que devem constar de cláusula específica".
+Na espécie , sendo a agravante pessoa jurídica, ente evidentemente abstrato, se faz representar por pessoas físicas que compõem seus quadros dirigentes, conforme previsão do art. 75, VIII, do CPC.
+Acrescente-se que é ônus da parte apresentar documentos válidos para a regularização do vício no primeiro momento em que se manifestar nos autos, não cabendo a esta Corte proceder a nova intimação para apresentação de contrato social após a apresentação de procuração sem identificação do subscritor.
+Somente agora, em sede destes aclaratórios, a parte trouxe o documento de fls. 130/131 com o fim de regularizar a representação, no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1520555/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 30.6.2020; AgInt no REsp 1788526/TO, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17.6.2020; e AgInt no REsp 1830797/SE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 18.3.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
