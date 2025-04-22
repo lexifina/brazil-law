@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por SEARA ALIMENTOS LTDA contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 676):
+APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. UTILIZAÇÃO INDEVIDA DE CRÉDITO PRESUMIDO. PENDÊNCIA DE DÉBITO DE FILIAL. SENTENÇA MANTIDA.
+Ausência de nulidade no procedimento administrativo fiscal, uma vez que a legislação estadual admite que a intimação pode ser realizada tanto no nome do procurador da parte, como pessoalmente ao contribuinte, inexistindo hierarquia ou preferência entre as duas formas de notificação, conforme expressamente prevê o § 1º do art. 21 da Lei nº 6.537/73.
+Ausência de autonomia da filial para fins de regularidade fiscal. Conforme entendimento consolidado pelo STJ quando do julgamento do EAR Esp nº 2.025.237/GO, a pendência fiscal oriunda da filial afasta a regularidade fiscal da matriz.
+Regularidade da glosa na utilização indevida de crédito presumido, em razão da existência de débito tributário, ainda que de responsabilidade da filial da ora embargante.
+Quanto à alegação de que a multa é confiscatória, melhor sorte não socorre ao apelante, uma vez que compete ao Judiciário tão somente afastar o caráter confiscatório da penalidade, observando os critérios legais e jurisprudenciais, sendo que a multa já foi fixada em 100%.
+Sentença mantida.
+APELAÇÃO DESPROVIDA.
+Os embargos de declaração foram acolhidos parcialmente, nos termos da seguinte ementa (e-STJ fls. 721):
+EMBARGOS DE DECLARAÇÃO. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. OMISSÃO. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS CONFORME ESCALONAMENTO PREVISTOS NO ART. 85, § 3º, II E § 5º, AMBOS DO CPC.
+QUANTO AO MÉRITO, NÃO EXISTE QUALQUER OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO, PRETENDENDO O EMBARGANTE, APENAS O PREQUESTIONAMENTO E REDISCUSSÃO DA MATÉRIA.
+HIPÓTESE EM QUE A VERBA HONORÁRIA DEVE SER FIXADA DE FORMA ESCALONADA. LOGO, HAVENDO OMISSÃO NA DECISÃO EMBARGADA, CABE ACOLHER O RECURSO, A FIM DE SANAR O APONTADO VÍCIO.
+EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
+No recurso especial (e-STJ fls. 728/753), o recorrente aponta violação do "art. 1.022 e art. 489, §1º, IV do CPC" (e-STJ fl. 732), ofensa ao "art. 15 e 272 §5º do CPC e 108 do CTN" (e-STJ fl. 732), afronta ao "art. 2º da Lei nº 9.784/1999" (e-STJ fl. 733), bem como contrariedade ao "art. 11, §3º, II, da Lei Complementar 87/96 e arts. 110, 121, parágrafo único, inciso I e II e 127, II, ambos do CTN" (e-STJ fl. 733).
+As contrarrazões foram oferecidas.
+O Tribunal de origem não admitiu o apelo extremo, verificando a incidência da Súmula 280 do STF e das Súmulas 83 e 211 do STJ (e-STJ fls. 772/778).
+No agravo em recurso especial (e-STJ fls. 786/812), o agravante reitera argumentação relativa ao vício de integração, alega a inaplicabilidade da Súmula 280 do STF e da Súmula 83 do STJ, bem como defende o prequestionamento da matéria. No mais, reitera as razões do apelo extremo.
+A contraminuta foi apresentada.
+Passo a decidir.
+O Tribunal de origem não admitiu o recurso especial ao fundamento, dentre outros, de que estaria de acordo com a jurisprudência desta Corte (Súmula 83 do STJ).
+Contudo, no agravo em recurso especial, o agravante, em momento algum, deduziu argumentação suficiente para infirmar essa motivação, deixando de indicar precedentes atuais a respeito da questão recursal capazes de desconstituir a razão da decisão agravada. Além disso, não demonstrou com clareza a inaplicabilidade daquela jurisprudência ao caso dos autos.
+Na hipótese, limita-se a afirmar "que nenhum dos "precedentes" citados pela v. Acórdão dizem respeito a materialidade efetivamente discutida no presente feito" (e-STJ fl. 795), sem, contudo, evidenciar que aquele entendimento não se aplica ao caso em tela.
+Nesse contexto, ressalte-se que a Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Logo, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A decisão ora recorrida não conheceu do agravo em decorrência da não impugnação aos fundamentos da decisão que inadmitira o recurso especial na origem, especificamente em relação à Súmula 83/STJ e à divergência não comprovada. Por conta disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver examinado por esta Corte Superior seu recurso especial inadmitido, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de admissão daquele recurso sob pena de vê-los mantidos.
+3. As razões demonstrativas do desacerto da decisão agravada devem ser veiculadas na oportunidade de interposição do agravo em recurso especial, pois, convém frisar, não é admitida a impugnação a destempo, a fim de inovar a justificativa para admissão do recurso excepcional, devido à preclusão consumativa.
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial, embora autônomos, impede o conhecimento do respectivo agravo consoante preceituam os arts. 253, I, do RISTJ e 932, III, do CPC/2015 e a Súmula 182 do STJ, aplicável por analogia.
+5. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial; correta, portanto, a incidência na espécie do enunciado da Súmula 182 do STJ.
+6. Inadmitido o recurso especial com base na incidência da Súmula 83 do STJ, deve a parte recorrente apresentar acórdãos deste Tribunal contemporâneos ou supervenientes sobre a matéria, procedendo ao cotejo entre eles a fim de demonstrar que a orientação desta Corte é diversa da do Tribunal a quo ou que não se encontra pacificada.
+Pode ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.272.690/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/3/2023, DJe de 4/4/2023.)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESRESPEITO AO ART. 1.021, § 1º, DO CPC/2015 E À SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O STJ perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento, ante a incidência da Súmula 182/STJ.
+2. A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator para acórdão Ministro Luís Felipe Salomão, Corte Especial, DJe 30.11.2018.
+3. Verifica-se no caso em apreço que não foi impugnado no Agravo em Recurso Especial o seguinte argumento: "Súmula 83 do STJ" (fl. 177, e-STJ).
+4. Tendo sido utilizada tal súmula como premissa para inadmissão do Recurso Especial, demanda-se a demonstração, por intermédio de decisões contemporâneas ou posteriores às mencionadas na decisão combatida, da superação do entendimento lançado ou, ainda, análise pormenorizada a fim de comprovar que a situação sob análise difere de forma substancial do retratado na decisão que fundamentou aplicação da súmula, requisitos não preenchidos pela parte no Agravo em Recurso Especial. Nesse sentido: AgInt no AREsp 1.322.384/RJ, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe 11/3/2019.
+5. Ressalte-se que a impugnação tardia (somente por ocasião da interposição de Agravo Interno) dos fundamentos da decisão que não admitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023.)
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015; e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
