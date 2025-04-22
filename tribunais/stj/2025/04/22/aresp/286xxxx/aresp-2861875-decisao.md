@@ -1,0 +1,26 @@
+DECISÃO
+O Ministério Público Federal, ao se manifestar nos autos, elaborou o relatório a seguir transcrito (e-STJ fls. 262/264):
+Cuidam os autos de agravo, interposto por ELENICE CELESTINO SILVA, contra a decisão da Vice-Presidência do Tribunal de Justiça do Estado do Ceará que inadmitiu, ante o óbice da Súmula 7/STJ, o recurso especial por ela interposto.
+Tal como se vê dos autos, a ré, ora agravante, foi condenada como incursa nas sanções do artigo 339 do Código Penal (denunciação caluniosa), à pena de 2 anos de reclusão, em regime inicial aberto, além do pagamento de 10 dias-multa.
+Em sede de apelação, o TJCE negou provimento ao recurso interposto por ELENICE CELESTINO SILVA, mantendo integralmente a sentença. Eis abaixo a ementa do respectivo acórdão:
+"EMENTA: PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. DENUNCIAÇÃO CALUNIOSA (ART. 339 DO CÓDIGO PENAL). RECURSO DEFENSIVO. ABSOLVIÇÃO POR INEXISTÊNCIA DO CRIME OU POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. AGENTE DEU CAUSA A INSTAURAÇÃO DE INQUÉRITO POLICIAL. ATRIBUIÇÃO FALSA DE CRIME. PROVA TESTEMUNHAL. CONDENAÇÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. Trata-se de apelação interposta por Elenice Celestino Silva em face da sentença proferida pelo Juízo da Vara Única Criminal da Comarca de Tianguá, que condenou a acusada a uma pena de 02 (dois) anos de reclusão, a ser cumprida inicialmente em regime aberto, além de sanção pecuniária de 10 (dez) dias-multa., pela prática do crime descrito no artigo 339 do Código Penal - sentença às págs. 109/113.
+2. Em suas razões recursais, a recorrente pleiteia a sua pela absolvição sob o fundamento de insuficiência probatória, com fulcro no art.386, VII, do Código de Processo Penal e no princípio do in dubio pro reo.
+3. Convém recordar que o delito de denunciação caluniosa se consuma com a instauração do inquérito policial contra alguém, por crime que o saiba inocente o acusado. Ainda, sabe-se que a prática delituosa exige, para a sua configuração, um sujeito passivo determinado, a imputação de crime e o conhecimento da inocência do acusado.
+4. No caso dos autos, a materialidade delitiva encontra-se consubstanciada no Boletim de Ocorrência nº 560-2239/2018, no Relatório do Inquérito Policial nº 560 - 495/2018 (págs. 31/33) e pelas declarações das testemunhas tanto na fase inquisitorial (págs. 11/18) quanto em juízo.
+5. Em verdade, a dinâmica dos fatos apresentada pela apelante, acerca das agressões e insultos verbais sofridos, no caso, não encontra amparo em qualquer elemento de prova acostado aos autos, restando isolada. Das provas colacionadas aos autos, conclui-se que a apelante, sabendo que Antônio Roberto da Silva não foi autor do delito imputado, fez Boletim de Ocorrência, narrando fatos inexistentes, dando início a Inquérito Policial.
+6. Recurso conhecido e desprovido. Sentença mantida." (fls. 169 e- STJ).
+Irresignada, ELENICE CELESTINO SILVA interpôs recurso especial, com arrimo na alínea "a" do inciso III do artigo 105 da Constituição Federal, sustentado a presença de violação ao artigo 339 do Código Penal e aos artigos 155, 156 e 386, V e VII, todos do Código de Processo Penal, sob o argumento de atipicidade da conduta, uma vez que "..não há provas produzidas em juízo do dolo da recorrente, posto que não foi constatado que o ofendido era realmente inocente dos fatos imputados, muito menos que ela tinha ciência dessa sua inocência" e requerendo, em razão disso, a sua absolvição, quanto à prática do delito tipificado no artigo 339 do Código Penal.
+Consoante visto, o recurso em questão foi inadmitido na origem em virtude da incidência do óbice da Súmula 7/STJ.
+Contra essa decisão, ELENICE CELESTINO SILVA interpôs o agravo ora analisado, buscando refutar a incidência no caso do aludido enunciado sumular.
+Ao final, emitiu parecer pelo desprovimento do agravo.
+É o relatório. Decido.
+A Corte de origem, ao negar provimento ao recurso de apelação da defesa e manter a condenação da agravante como incursa no art. 339 do Código Penal, consignou (e-STJ fl. 175):
+Em verdade, a dinâmica dos fatos apresentada pela apelante, acerca das agressões e insultos verbais sofridos, no caso, não encontra amparo em qualquer elemento de prova acostado aos autos, restando isolada.
+Das provas colacionadas aos autos, conclui-se que a apelante, sabendo que Antônio Roberto da Silva não foi autor do delito imputado, fez Boletim de Ocorrência, narrando fatos inexistentes, dando início a Inquérito Policial.
+Assim, constata-se que restou provado que a ora recorrente deu causa à instauração de investigação policial contra a vítima, imputando-lhe a prática de delitos, sabendo da inocência do ofendido.
+Por conseguinte, ante a existência de provas da materialidade e da autoria delitivas, impende que seja mantida a condenação do apelante pelo cometimento do crime de denunciação caluniosa.
+Portanto, a condenação foi mantida a partir da análise dos elementos probatórios, que demonstraram a realização do tipo de denunciação caluniosa pela agravante . Rever a conclusão da instância ordinária, como pretende a defesa, implicaria o vedado reexame de provas, a teor do disposto na Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
