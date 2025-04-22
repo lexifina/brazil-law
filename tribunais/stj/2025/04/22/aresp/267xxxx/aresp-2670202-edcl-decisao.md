@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, embargos de declaração opostos por MARIA LUISA GOMES DE FREITAS contra decisão que, em juízo de retratação no agravo interno, deu provimento ao recurso especial, para considerar o laudo pericial como termo inicial do pagamento do adicional de insalubridade.
+A parte embargante alega, em síntese, que a decisão embargada "omitiu-se quanto ao fato de que o Acórdão recorrido já havia aplicado o PUIL 413 do STJ, tendo apenas modulado os seus efeitos em virtude das circunstâncias do caso concreto" (fl. 514).
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+Devem ser limitados os efeitos dos embargos declaratórios, servindo, precipuamente, à correção de vícios formais, dos quais decorra o aprimoramento da decisão.
+No caso, constou da decisão embargada que o Tribunal de origem afastou a aplicação do entendimento firmado no julgamento do PUIL n. 413/RS, em razão da morosidade da Administração na elaboração do laudo pericial que reconheceu a insalubridade. Entretanto, também restou consignado na decisão combatida que "não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, em consonância com a jurisprudência desta Corte Superior, nos seguintes termos (fls. 500-503):
+O acórdão atacado, proferido pela 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, restou assim ementado (fl. 284):
+ ..  Laudo pericial que reconheceu a insalubridade em grau médio produzido na origem apenas em 20.03.2020 Não atribuível à autora a demora de quase 08 (oito) anos na elaboração do laudo, não podendo ser prejudicada pela morosidade a qual não deu causa Afastamento, excepcional, do entendimento firmado pelo C. STJ no Pedido de Uniformização de Interpretação de Lei (PUIL) nº 413/RS  ..
+ ..
+Conforme entendimento consolidado na jurisprudência desta Corte, é inviável o pagamento do adicional de insalubridade em período anterior à elaboração do laudo que constata o labor em condições insalubres. Isso porque a Primeira Seção desta Corte Superior, ao julgar o Pedido de Uniformização de Interpretação de Lei (PUIL) n. 413/RS, pacificou o entendimento de que o pagamento do adicional de insalubridade ou periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres ou perigosas a que estão submetidos os servidores. Assim, não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir a periculosidade em épocas passadas.
+Assim, não há vício formal no decisum.
+Conforme jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: AgInt no AREsp 2.372.143/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 21/11/2023; EDcl no REsp 1.816.457/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020.
+Isso posto, rejeito os embargos de declaração.
+Intimem-se.
+ EMENTA
