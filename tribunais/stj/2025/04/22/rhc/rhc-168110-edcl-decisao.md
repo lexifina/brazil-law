@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por VALDECIR PREVITAL contra decisão que negou provimento ao recurso ordinário interposto contra denegação de habeas corpus pelo Tribunal Regional Federal da 4ª Região.
+Sustenta a Defesa padecer o julgado de omissão por não ter apreciado os fundamentos trazidos em petição protocolada em 04/09/2023, deixando de enfrentar o conteúdo da decisão proferida pelo Juízo da 23ª Vara Federal de Curitiba/PR, que declinou da competência em favor da Justiça Eleitoral porque conexos os crimes eleitorais e os comuns, além de não ter se manifestado quanto a precedentes do Supremo Tribunal Federal que, em casos semelhantes ao aqui tratado, afirmou a competência absoluta da Justiça especializada.
+Assevera ainda erro material quanto à capitulação jurídica por constar a prática do crime de descaminho, e não de contrabando, comprometida assim a coerência técnico-jurídica da decisão com eventuais repercussões relevantes, como definição de competência e dosimetria da pena, bem como ao se afirmar ser caso de encontro fortuito de provas, quando na verdade as provas decorreram de investigações de ilícitos praticados pela organização criminosa num mesmo contexto.
+Requer o acolhimento dos presentes embargos para que sejam sanados os vícios alegados.
+É o relatório
+DECIDO.
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao recurso em habeas corpus, alegando-se primeiramente omissão quanto à decisão proferida pelo Juízo da Vara Federal de Curitiba.
+No entanto, é de se ver que, juntada pela Defesa nos presentes autos a prestação jurisdicional já após a oferta do parecer do Ministério Público Federal, depreende-se que seu conteúdo não foi apreciado nas instâncias ordinárias, tampouco a fundamentação esposada na petição de 04/09/2023, de modo que eventual decisão por esta Corte consistiria em supressão de instância, não havendo se falar, portanto, em omissão do julgado neste ponto.
+Tampouco se vislumbra omissão por não ter sido analisado julgado do STF sobre o tema porque, concluindo-se pela ausência de qualquer das hipóteses do art. 76, do CP, porque a alegada conexão dos fatos tratados na ação penal debatida com crimes eleitorais não encontra respaldo em nenhum elemento a este juntado (fl. 732), inócua é discussão quanto à jurisprudência sobre a competência da Justiça Eleitoral para processamento de crimes conexos aos eleitorais.
+Outrossim, apesar de ter constado em uma oportunidade menção a crime de descaminho, o julgado é claro ao afirmar que a denúncia imputa a Valdecir suposta prática do crime previsto no art. 334-A, § 1º, I, do CP, narrando que Valdecir e corréus foram processados por integrarem organização criminosa voltada ao contrabando de cigarros (fl. 732), ausente o apontado erro material apto a comprometer a coerência do julgado.
+Finalmente, concluindo-se pelo encontro fortuito de provas com base nos documentos trazidos aos autos, a partir dos quais possível se observar que os crimes eleitorais foram descobertos em procedimento de interceptação telefônica autorizada em investigações voltadas ao combate de contrabando de cigarros por organizações criminosas após prisão em flagrante de indivíduo transportando mercadoria ilícita, assim como havia entendido o Juízo da origem no segundo parágrafo de fl. 36, não é possível a alteração do julgado por meio deste, como buscado pela Defesa, sob a alegação de aplicação indevida do princípio da serendipidade , ausente vício também nesta extensão.
+Assim, não se vislumbrando qualquer das hipóteses previstas no art. 619, do CPP, à procedência dos embargos de declaração, por inexistir ambiguidade, obscuridade, contradição ou omissão, não podem ser acolhidos em razão de mero inconformismo da parte com o teor da prestação jurisdicional.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO EMBARGADO. MERO INCONFORMISMO DA PARTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. O artigo 159, inciso IV, do Regimento Interno do Superior Tribunal de Justiça prevê que não haverá sustentação oral no julgamento de agravo, situação que abrange o agravo em recurso especial, sem excepcionar os seus recursos interno e regimental.
+2. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão do que foi decidido, no caso de inconformismo da parte.
+3. Não há nenhuma situação que dê amparo ao recurso integrativo, porquanto as razões veiculadas nos embargos de declaração revelam, em verdade, o mero inconformismo da parte com o resultado do julgamento, legítimo, mas impróprio nesta via recursal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 2.547.403/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/2/2025, DJEN de 25/2/2025).
+DIREITO PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. REJEIÇÃO.
+I. Caso em exame1. Embargos de declaração opostos contra acórdão que negou provimento a agravo regimental, sob alegação de que não houvera impugnação específica de todos os fundamentos da decisão agravada, requisito indispensável para o conhecimento do agravo, conforme Súmula 182/STJ.
+II. Questão em discussão2. A questão em discussão consiste em verificar se há vício integrativo no acórdão que negou provimento ao agravo regimental.
+III. Razões de decidir3. Os embargos de declaração visam suprir omissão, contradição, ambiguidade ou obscuridade, não se prestando para revisão do julgado por mero inconformismo.
+4. O acórdão embargado, embora não tenha expressamente reconhecido que matéria de ordem pública, mesmo que não prequestionada, possa ser conhecida no julgamento do recurso especial, não o fez porque o especial não tinha sido admitido nem conhecido, logo não incorreu em qualquer omissão.
+IV. Dispositivo e tese5. Embargos de declaração rejeitados.
+Tese de julgamento: 1. Embargos de declaração não se prestam para revisão do julgado por mero inconformismo.
+Dispositivos relevantes citados: CPP, art. 619 Jurisprudência relevante citada: Não há jurisprudência relevante citada.
+(EDcl no AgRg no AREsp n. 2.735.834/MT, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2025, DJEN de 14/2/2025).
+Ante o exposto, rejeito os embargos de declaração
+Publique-se. Intimem-se.
+EMENTA
