@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIO ANTONIO DE OLIVEIRA contra a decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Não foi apresentada contraminuta, conforme a certidão à fl. 269.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios em apelação nos autos de ação de cobrança.
+O julgado foi assim ementado (fls. 201-204):
+DIREITO CIVIL E PROCESSO CIVIL. APELAÇÃO. LOCAÇÃO RESIDENCIAL. PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA. REVELIA DECRETADA. PRESUNÇÃO DE VERACIDADE QUE ENCONTRA AMPARO NOS AUTOS. ALAGAMENTO. IMÓVEL SEM CONDIÇÕES DE HABITAÇÃO. MULTA RESCISÓRIA EM DESFAVOR DO LOCADOR. POSSIBILIDADE. AUSÊNCIA DE CONDUTA COMPROVADA PARA RESOLVER O PROBLEMA. DANO MORAL CONFIGURADO. VALOR FIXADO. RAZOABILIDADE E PROPORCIONALIDADE.
+1. O indeferimento de prova oral não constitui cerceamento de defesa se outros elementos da instrução se apresentam suficientes para embasar o convencimento do julgador. Este, ademais, como destinatário da prova, deve indeferir a produção de provas inúteis ou desnecessárias ao deslinde da controvérsia, conforme art. 370, do Código de Processo Civil.
+2. Nos termos do art. 344 do CPC, a decretação da revelia, como no caso, acarreta a presunção de veracidade das alegações formuladas pelo autor, considerando que as alegações de fato formuladas pelo autor são verossímeis e encontram pleno amparo nas provas constantes dos autos.
+3. A existência de vícios ocultos que tornam inadequadas as condições de habitabilidade do imóvel locado, afronta obrigação do locador prevista no art. 22 da Lei n. 8.245/91. Ante o descumprimento contratual pelo locador, mostra-se devido o pagamento da multa rescisória contratual, constante do pacto.
+4. O dano moral restou configurado, porquanto, além da violação ao art. 22 da Lei do inquilinato, já que o imóvel objeto dos autos ficou em sem condições de habitabilidade, ainda houve intenso descaso do locador com a situação grave vivida pelo locatário. Restando caracterizada situação lesiva cujos efeitos ultrapassam o mero dissabor, restam presentes os elementos ensejadores da responsabilidade civil.
+5. Observados os princípios da razoabilidade e da proporcionalidade, bem como a situação do ofendido, a capacidade econômica do ofensor, o dano e a sua extensão, o valor arbitrado deve ser mantido (R$ 5.000,00).
+6. Recurso conhecido e desprovido.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 345, IV, 346, parágrafo único, 349 do Código de Processo Civil, porquanto houve cerceamento de defesa e ofensa ao contraditório; e
+b) 186 do Código Civil, visto que não foi demonstrado qualquer ato ilícito, porquanto o alagamento do imóvel decorreu de caso fortuito e/ou força maior, imprevisível por quaisquer das partes.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, acolhendo a preliminar de cerceamento de defesa e do contraditório, a fim de anular a sentença da primeira instância e determinar o retorno dos autos ao Juízo de origem para o regular processamento do feito com a oitiva das testemunhas arroladas pelo recorrente.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 246.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, ao concluir pela inexistência de cerceamento de defesa e pela inocorrência de caso fortuito ou força maior, aptos a afastar a responsabilidade do ora agravante, assim consignou (fls. 194-195):
+Preliminarmente, pretende o apelante a nulidade da sentença, alegando cerceamento de defesa, ante o indeferimento da produção da prova testemunhal requerida.
+De início, ressalte-se que o juiz, como destinatário da prova, deve verificar a utilidade e a necessidade da sua produção, podendo indeferir, fundamentadamente, as diligências inúteis ou meramente protelatórias, conforme o art. 370, parágrafo único, do CPC.
+Conforme registrou o juízo de origem, de fato, o depoimento pessoal do autor e a oitiva de testemunhas seriam desnecessárias, já que visavam a demonstrar que o Autor/apelado não estava em casa no momento dos incidentes e que, em razão disso, seria sua culpa o acontecimento. A ausência do autor em casa, a propósito, no momento do alagamento, é fato incontroverso, e as provas constantes dos autos se mostram suficientes para a formação do convencimento do julgador e deslinde da controvérsia. Ademais, o réu, citado, não apresentou resposta, razão pela qual há presunção relativa de veracidade dos fatos alegados pelo autor. Rejeito, portanto, a preliminar.
+ ..
+Narra o autor que, em 3/10/2022, foi celebrado o contrato de locação residencial, referente ao imóvel localizado na QNB 12, lote 18, apartamento 105, Taguatinga/DF, em que figurava como locatário. O contrato foi firmado com vigência de 36 meses, com início em 3/10/2022 e final em 2/10/2025 e o aluguel foi fixado no valor de R$ 666,67 (ID 52252027).
+No dia 2/11/2022, ao chegar ao imóvel, encontrou-o totalmente alagado, com água jorrando do teto, sem que houvesse qualquer condição de habitalidade.
+O vídeo acostado aos autos (ID 52252029) confirma que todos os apartamentos de um lado do segundo andar foram alagados em razão da explosão de duas boias da caixa d"água, tendo sido retirados mais de 2000 litros de água decorrentes do alagamento, com a sugestão de que o autor furasse eventuais bolhas que aparecessem nas paredes.
+O alagamento ficou demonstrado, também, pelos outros vídeos acostados aos autos, em que o autor, chorando, revela a grande quantidade de bolhas no teto, seu colchão, sofá e demais pertences totalmente molhados e o piso tomado pela água (I Ds 52252030 a 52252034).
+Ressalte-se que o vídeo de ID 52252029 (não impugnado pelo réu) revela áudio em que o próprio apelante afirma que estava realizando um conserto no local e, posteriormente, houve o estouro das boias d "água. No vídeo, ele informa que na hora do estouro foi retirado mais de dois mil litros de água e ainda avisou ao autor/locatário que haveria bolhas na parede e que deveria estourá-las.
+Tal situação é reforçada pelo recibo de ID 52252045 que se refere ao conserto das caixas d"água no mesmo dia em que o locatário constatou o alagamento no imóvel. Ressalte-se que a situação foi tão peculiar e grave, que o autor não tinha um móvel sequer que não estivesse molhado, ou seja, não tinha local seco para dormir, já que o seu sofá e sua cama estavam completamente molhados.
+Assim, não se pode concluir que se trata de caso fortuito ou força maior tendo em vista que a ruptura das boias d "água que causaram a dispersão de mais de dois mil litros de água no apartamento objeto do contrato decorreu de serviço contratado pelo próprio locador.
+Dentro desse contexto, não cabe a esta Corte modificar o entendimento disposto pelo Tribunal a quo - inexistência de cerceamento de defesa e pela inocorrência de caso fortuito ou força maior -, tendo em vista que tal providência demandaria o reexame de matéria fático-probatória, o que é vedado ante o óbice da Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários recursais n os termos do § 11 do art. 85 do CPC, em razão do alcance do limite máximo previsto no § 2º do referido artigo.
+Publique-se. Intimem-se.
+ EMENTA
