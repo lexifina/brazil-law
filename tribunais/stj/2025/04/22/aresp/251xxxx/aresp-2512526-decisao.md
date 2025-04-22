@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MAILSON NUNES BARROS DOS SANTOS e JONAS FERREIRA DE OLIVEIRA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DA BAHIA que inadmitiu o recurso especial por ele interposto contra o acórdão prolatado nos autos da Apelação Criminal n. 307315-83.2014.8.05.0039 (fls. 381/384), com a seguinte ementa:
+APELAÇÕES CRIMINAIS. LATROCÍNIO TENTADO. PLEITO DE DESCLASSIFICAÇÃO PARA ROUBO SIMPLES. INVIABILIDADE. AGENTES QUE ASSUMIRAM O RISCO DE MORTE DA VÍTIMA. RÉUS QUE CONCORRERAM PARA A PRÁTICA DELITIVA. ANIMUS NECANDI EVIDENCIADO. CONCURSO DE PESSOAS. TEORIA MONISTA OU UNITÁRIA. RESPONSABILIZAÇÃO DE TODOS. COAUTOR QUE PARTICIPA DE ROUBO RESPONDE PELO LATROCÍNIO, AINDA QUE O DISPARO TENHA SIDO EFETUADO SÓ PELO COMPARSA. PREVISIBILIDADE EVENTUAL. ARCABOUÇO PROBATÓRIO APTO A LASTREAR AS CONDENAÇÕES. RECURSOS DESPROVIDOS.
+I- Não há que se falar em desclassificação para roubo, quer seja pelo fato de um dos Acusados ter disparado contra vida da vítima causando lesões, ou em razão da teoria monista adotada pelo Código Penal, afirmando que todos os participantes do concurso de agentes são responsáveis pelo resultado mais grave.
+II - O crime, mesmo que perpetrado por diversas pessoas, é único, indivisível. Não importa com que parte da divisão de tarefas coube a um dos agentes: cada pessoa que concorreu para o cometimento do delito responder, solidariamente, pela prática do todo. Previsibilidade eventual da ocorrência do evento danoso contra a vida, como o fato de um dos agentes estar municiado com arma de fogo.
+No recurso especial (fls. 403/417), a defesa requereu, em síntese, a desclassificação do delito para o roubo simples tentado.
+Inadmitido o recurso na origem (fls. 426/431), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 435/447).
+O Ministério Público Federal opinou pelo conhecimento e improvimento do agravo, em parecer com a seguinte ementa (fls. 470/471):
+Agravo em recurso especial. Crime de latrocínio, na forma tentada " Pleito de desclassificação para o delito de roubo simples tentado. A Pretensão recursal que demanda análise do conjunto fático-probatório. Tarefa inviável no âmbito do reclamo especial. Incidência da súmula 7/STJ. Parecer pelo conhecimento e pelo improvimento do agravo.
+É o relatório.
+Conheço do agravo, porquanto presentes os seus pressupostos de admissibilidade. A parte agravante logrou infirmar, com suficiência, os fundamentos para inadmissão do especial.
+Pretende a defesa a desclassificação do delito para o roubo simples tentado, afirmando a ausência do dolo de lesionar a vítima, restando ausente o elemento que configura o tipo previsto no art. 157, § 3º, do CP.
+Todavia, ao examinar o apelo da defesa, o Tribunal de origem afirmou restar evidente que os acusados, ao praticarem um roubo com arma de fogo e concurso de agentes, no mínimo, assumiram o risco de que a conduta pudesse ter o resultado morte, sobretudo porque a morte de que trata o art. 157, § 3º, II, também pode se dar a título culposo (fl. 386), concluindo estarem devidamente comprovadas a autoria e a materialidade, bem como o dolo na conduta antecedente e a culpa subsequente, configurando-se o delito previsto no art. 157, segunda parte, do Código Penal, devendo ser mantida as condenações, não havendo que se falar em desclassificação para o delito de roubo (fl. 388).
+Assim, a inversão da conclusão a que chegou o Tribunal de origem demandaria inevitável revolvimento do acervo fático-probatório, inviabilizado pela Súmula 7/STJ.
+Pelo exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. DESCLASSIFICAÇÃO PARA O ROUBO SIMPLES TENTADO. PRETENSÃO QUE DEMANDA REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
