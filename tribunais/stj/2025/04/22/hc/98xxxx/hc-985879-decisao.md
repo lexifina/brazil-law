@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL RICARDO BENITES BAPTISTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Depreende-se dos autos que o paciente está preso preventivamente pela suposta prática do crime de associação criminosa. A prisão foi decretada visando garantir a ordem pública em razão do fundado receio de reiteração delitiva.
+Irresignada a defesa impetrou habeas corpus perante o Tribunal de origem que manteve a prisão preventiva do paciente pelos mesmos fundamentos, denegando a ordem em acórdão de fls. 242-260.
+No presente writ, alega que o paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar.
+Sustenta que ao manter o paciente encarcerado sob os mesmos fundamentos que levaram à soltura dos demais réus, violou-se o princípio da isonomia e o artigo 580 do Código de Processo Penal, uma vez que a situação jurídica do paciente é idêntica à dos demais corréus que obtiveram a liberdade.
+Requer a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas.
+Liminar indeferida às fls. 263-264.
+Informações prestadas às fls. 268-293.
+É o relatório. DECIDO.
+In casu, a análise da decisão que decretou a prisão preventiva, bem como do acórdão recorrido, permitem a conclusão de que a prisão cautelar encontra-se devidamente fundamentada para a garantida da ordem pública, em razão da gravidade concreta das condutas atribuídas, haja vista ser o paciente integrante de organização criminosa voltada para a prática de crimes financeiros cibernéticos, tráfico ilícito de entorpecentes, lavagem de dinheiro e porte ilegal de armas de fogo - fl. 247.
+Ora, a jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão como forma de fazer cessar ou diminuir a atuação de suposto membro de grupo criminoso.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"No caso, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, como forma de evitar a reiteração delitiva, pois, conforme consignado pelas instâncias ordinárias, o ora agravante, acusado pela suposta prática de estelionato contra idoso, estaria a ser investigado pelo cometimento de outros delitos semelhantes em outros municípios e com o mesmo modus operandi aplicando o chamado "golpe do falso mecânico".
+Diante desse contexto, houve acusação de sua participação em organização criminosa responsável pela prática de diversos estelionatos em pelo menos sete municípios diferentes.
+É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a periculosidade do agravante indica que a ordem pública não estaria acautelada com sua soltura.
+O fato de o agravante ter condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte" (AgRg no HC n. 917.903/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 23/9/2024, DJe de 30/9/2024.)
+No mesmo sentido: AgRg no RHC n. 168.799/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 31/3/2023; AgRg no HC n. 790.100/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/3/2023; AgRg no HC n. 787.732/MT, relator Ministro minha relatoria, Quinta Turma, DJe de 3/3/2023; AgRg no HC n. 781.026/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/12/2022; AgRg no HC n. 719.304/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/9/2022; AgRg no RHC 166309/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJe 04/10/2022 e RHC 142663/DF, Rel. Min. Laurita Vaz, Sexta Turma, DJe 18/08/2022.
+Destacou, ainda, a corte de origem que o paciente é reincidente, pois ostenta condenação transitada em julgado pelo crime de roubo majorado - fl. 248, circunstância que demonstra a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa.
+A propósito:
+"A decisão que decretou a prisão preventiva está devidamente fundamentada, com base em elementos concretos que demonstram a periculosidade do recorrente, apontado como líder da organização criminosa, com histórico criminal e condenação anterior por tráfico de drogas e associação para o tráfico.
+6. A gravidade concreta das condutas imputadas e o risco de reiteração delitiva justificam a manutenção da custódia preventiva para a garantia da ordem pública, sendo inviável a substituição por medidas cautelares diversas da prisão.
+7. A existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública"(AgRg no RHC n. 209.106/PR, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 5/3/2025).
+Segundo a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+De mais a mais, quanto a alegação de ofensa ao art. 580 do Código de Processo Penal, verifico que melhor sorte não socorre à defesa.
+Com efeito, o art. 580 do Código de Processo Penal estabelece que, nos casos de concurso de agentes, a decisão judicial benéfica proferida em recurso interposto por um deles aproveitará aos demais, quando não existirem circunstâncias de caráter exclusivamente pessoal que justifiquem tratamento diverso. Trata-se do efeito extensivo das decisões judiciais benéficas em matéria penal, que tem por objetivo garantir equidade e tratamento isonômico entre corréus que se encontrem na mesma situação fática e jurídica.
+Na presente hipótese, destacou a corte de origem que os demais corréus ostentavam condições pessoais favoráveis, situação que difere do acusado que é reincidente, inexistindo, portanto, a identidade fático-processual necessária - fl. 248.
+Sobre o tema, trago o seguinte precedente desta Corte Superior de Justiça:
+"Para a extensão à recorrente dos efeitos de decisão que concedeu a liberdade provisória ao corréu, nos moldes do art. 580 do CPP, deve haver identidade de situações fático-processuais, o que não ocorreu no caso em tela" (RHC n. 205.986/ES, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 23/12/2024).
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
