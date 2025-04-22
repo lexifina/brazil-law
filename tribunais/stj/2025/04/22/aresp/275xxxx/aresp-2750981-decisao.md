@@ -1,0 +1,27 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por FAZENDA NACIONAL contra decisão que inadmitiu o recurso especial com fundamento na incidência, por analogia, da Súmula 284 do STF.
+Argumenta a parte agravante, em síntese, que a decisão agravada aplicou equivocadamente o enunciado da Súmula 284 do STF. Aduz que apresentou fundamentação específica e suficiente para afastar a aplicabilidade da Lei 14.126/2021 ao caso concreto, defendendo que a visão monocular não atende aos requisitos exigidos pelo art. 1º, IV e § 2º, da Lei 8.989/1995 para a isenção do Imposto sobre Produtos Industrializados (IPI), por força do disposto no art. 111, II, do Código Tributário Nacional. Assim, pede a reconsideração da decisão agravada e a admissão do recurso especial.
+Nas razões do recurso especial, a agravante indicou violação aos arts. 1º, IV e § 2º, da Lei 8.989/1995; 1º da Lei 14.126/2021; e 111, II, do Código Tributário Nacional.
+Contraminuta nas fls. 316-320.
+É o relatório.
+Passo a decidir.
+O recurso não merece prosperar.
+Analisando cuidadosamente o acórdão recorrido, verifico que o Tribunal Regional Federal da 3ª Região decidiu com amparo direto no art. 1º da Lei 14.126/2021, reconhecendo expressamente a visão monocular como deficiência visual suficiente para ensejar a isenção do IPI na aquisição de veículos automotores. Por outro lado, ao recorrer, a agravante limitou-se a afirmar genericamente que a Lei 14.126/2021 não teria alterado os requisitos previstos na Lei 8.989/1995, sem demonstrar de modo claro, específico e direto, o fundamento legal ou jurisprudencial que impediria a incidência da nova legislação ao caso sub judice.
+O recorrente, ao forçar a adequação do presente Recurso Especial às suas razões recursais, não enfrentou devidamente os fundamentos específicos da decisão da instância originária, fazendo alegações genéricas. Tal omissão configura deficiência de fundamentação, o que, por analogia, atrai a incidência da Súmula 284 do STF.
+Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+VII. Com relação ao ponto do Recurso Especial em que a parte autora sustentou que "a alegação de tríplice identidade entre esta ação e o Mandado de Segurança pretérito não deve subsistir. No caso em discussão, os fundamentos das demandas são outros, ou seja, não há de se falar em coisa julgada, na medida em que não há identidade de causa de pedir. Embora tratem-se do mesmo auto de lançamento, as causas de pedir são diversas. No Mandado de Segurança houve o pedido da imunidade tributária art. 155, § 2º, inc. X, "a", da CF/88", constata-se flagrante deficiência na fundamentação recursal. Afinal, sem indicar contrariedade aos dispositivos do CPC que disciplinam o instituto da coisa julgada, insurgiu-se a parte autora, sob alegada violação ao art. 3º, II, da Lei Complementar 87/96, contra os fundamentos da decisão anteriormente transitada em julgado, que foi respeitada neste processo em face dos efeitos preclusivos da coisa julgada. Nesse contexto, efetivamente incide, na espécie, por analogia, o óbice da Súmula 284 do STF, pois o citado dispositivo da Lei Kandir não possui comando normativo capaz de infirmar o fundamento do acórdão recorrido alusivo à ocorrência de coisa julgada.
+ ..
+IX. Agravo interno improvido (AgInt no AREsp n. 2.127.450/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 27/4/2023).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. LEI FEDERAL. OFENSA. ARGUIÇÃO GENÉRICA. SÚMULA 284 DO STF. INCAPACIDADE LABORATIVA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme ressaltado na decisão agravada, não é possível conhecer do Recurso Especial no que tange aos arts. 371, 473, II e IV, 475 e 479 do Código de Processo Civil/2015, uma vez que as razões recursais não explicitam de forma clara e direta como os citados dispositivos legais teriam sido violados pelo Tribunal de origem.
+Portanto, não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal.
+2. Quanto à incapacidade laborativa alegada pela parte recorrente, o Tribunal de origem decidiu a controvérsia nos seguintes termos (fls. 327-328, e-STJ): "(..) Concluo que a parte autora não logrou infirmar as conclusões periciais, com elementos objetivos a evidenciar o desacerto do parecer do perito judicial. Destarte, ausente a comprovação de incapacidade laborativa da parte autora, deve ser mantida a sentença de improcedência".
+3. De fato, a modificação do julgado, nos moldes pretendidos, depende do reexame dos elementos de convicção postos no processo, o que encontra óbice na Súmula 7 do STJ.
+ ..
+5. Agravo Interno não provido (AgInt no AREsp n. 1.931.611/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 17/12/2021).
+Por fim, destaco que o Tribunal de origem também fundamentou-se no princípio constitucional da dignidade da pessoa humana. A análise de suposta ofensa a dispositivos constitucionais compete exclusivamente ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República, sendo defeso o seu exame, no âmbito do Recurso Especial, ainda que para fins de prequestionamento, conforme pacífica jurisprudência do STJ.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+ EMENTA
