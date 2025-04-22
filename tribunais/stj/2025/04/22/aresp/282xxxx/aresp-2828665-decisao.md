@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RODRIGO BRAGA DE JESUS contra decisão do Tribunal de origem que inadmitiu o recurso especial.
+Consta dos autos condenação do agravante à pena de 22 anos, 5 meses e 15 dias de reclusão no regime fechado, pela prática delitiva prevista no art. 121, § 2º, II e IV, do Código Penal (CP).
+A defesa interpôs recurso de apelação, visando à reforma da dosimetria para a fixação da pena-base no mínimo legal, mas o Tribunal de origem negou provimento ao recurso.
+Interposto recurso especial, com alegação de violação dos arts. 59, 61, I, 65, I, d, do CP; e 476, 492, I, b, e 619 do Código de Processo Penal (CPP), sob o argumento de que a culpabilidade teria sido valorada sem fundamentação válida, além do não reconhecimento da atenuante da confissão espontânea e equivocada aplicação da agravante da reincidência, sobreveio juízo negativo de admissibilidade, com base nas Súmulas n. 7 do STJ e 282 e 356 do STF.
+A defesa sustenta que a decisão impugnada desconsiderou a diferença entre reexame e revaloração da prova, buscando adaptar a decisão recorrida aos preceitos legais sem rediscutir matéria de prova.
+Alega que a culpabilidade foi valorada de forma errônea, ensejando uma nova revaloração de acordo com os preceitos legais.
+Além disso, contesta a aplicação das Súmulas n. 282 e 356 do STF, argumentando que a matéria foi devidamente prequestionada dentro do caderno processual, conforme consignado nas razões dos embargos de declaração. Aduz que o prequestionamento implícito foi reconhecido, permitindo a admissão do recurso especial.
+Por fim, a requer o recebimento do agravo e a subida do recurso especial, visando à reforma do acórdão impugnado e ao redimensionamento da pena imposta ao recorrente. Subsidiariamente, pleiteia a declaração de nulidade do acórdão recorrido para que o Corte local enfrente a matéria de ordem pública suscitada em embargos declaratórios.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo não conhecimento do recurso especial, nos termos da seguinte ementa (fl. 1023):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. VETORIAL CULPABI- LIDADE DESVALORADA PELA PREMEDITAÇÃO DA CONDUTA. POSSIBILIDADE. SÚMULA 83/STJ. CON- FISSÃO E REINCIDÊNCIA. AUSÊNCIA DE PREQUES- TIONAMENTO. NÃO CONHECIMENTO DO RESP. 1. "O planejamento e a premeditação do delito são situações que revelam culpabilidade acima da normalidade, autorizando a exasperação da pena-base." (precedente do STJ). Incidência da Súmula n. 83 do STJ. 2. Não é possível conhecer das teses relativas à confissão es- pontânea e à reincidência, tendo em vista que ambas não fo- ram debatidas pelo Tribunal de origem, carecendo, pois, de prequestionamento. Súmula n. 282 do STF. 3. Parecer pelo conhecimento do agravo para não conhecer do recurso especial.
+É o relatório.
+A conclusão sobre a inadmissibilidade do recurso deve ser mantida, como se passa a explicar.
+O prequestionamento é um dos requisitos de admissibilidade do recurso especial e consiste na necessidade de a questão alegada no recurso ter sido expressamente apreciada pelo Tribunal de origem.
+Não se constata, no acórdão impugnado, a efetiva apreciação da questão relacionada aos arts. 61, I, e 65, I, d, do CP, ante a ausência de manifestação da instância anterior, mesmo em embargos de declaração, o que impede o conhecimento do recurso especial.
+Nesse sentido, confiram-se as seguintes súmulas:
+Súmula n. 282 do STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula n. 356 do STF: O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Súmula n. 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A propósito, é pacífico o entendimento do Superior Tribunal de Justiça de que, "para atender ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado" (REsp n. 1.998.033/PB, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/10/2024, DJe de 14/10/2024).
+Ainda, mesmo quando a questão apresentada no recurso especial, e não analisada no acórdão recorrido, envolver matéria de ordem pública, o prequestionamento é essencial para a apreciação do ponto pelas instâncias superiores. Por outro lado, não basta que a menção à matéria que se pretende controverter tenha sido referida em obiter dictum, ou seja, sem que tenha servido efetivamente de fundamento do acórdão (AgRg no AREsp n. 2.487.930/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 8/10/2024, DJe de 16/10/2024; AgRg no AREsp n. 2.613.339/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 7/10/2024, DJe de 15/10/2024).
+No tocante à valoração da culpabilidade, o acórdão recorrido está de acordo com o entendimento desta Corte Superior de que a premeditação configura fundamento válido para justificar a valoração negativa da culpabilidade. Nesse sentido:
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. FUNDAMENTAÇÃO CONCRETA PARA A EXASPERAÇÃO PELA CULPABILIDADE E PELA CONDUTA SOCIAL. AUMENTO DA PENA-BASE REALIZADA DE FORMA IDÔNEA. INCIDÊNCIA DA SÚMULA 7 DO STJ. REEXAME DE MATÉRIA FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto contra decisão monocrática que conheceu o agravo em recurso especial, mas lhe negou provimento. Os recorrentes buscam a reforma do acórdão argumentando que a análise desfavorável da culpabilidade e da conduta social dos agentes do crime foi inadequadamente fundamentada e que haveria violação do artigo 59 do CP.
+2. O Tribunal de origem considerou a premeditação e o envolvimento dos agentes com facção criminosa como fatores para a majoração da pena.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se a fundamentação utilizada para valorar negativamente a culpabilidade e a conduta social dos agentes é idônea e se justifica a majoração da pena-base. III. RAZÕES DE DECIDIR
+3. O STJ entende que a dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, sendo passível de revisão em instância extraordinária apenas em situações excepcionais, quando evidenciada flagrante ilegalidade, conforme jurisprudência reiterada.
+4. As instâncias ordinárias apresentaram fundamentação concreta para valorar negativamente a culpabilidade e a conduta social dos agentes do crime, considerando a premeditação do delito e o fato dos executores integrarem facção criminosa.
+5. A premeditação é considerada fundamento idôneo para a valoração negativa da culpabilidade, pois demonstra maior intensidade do dolo e periculosidade do agente.
+6. O Superior Tribunal de Justiça considera idônea a valoração negativa da conduta social do agente quando esta é demonstrada por desvios comportamentais concretos em seu convívio familiar e social, evidenciando reprovação no contexto das relações pessoais e comunitárias, como é o caso do envolvimento com facção criminosa.
+7 A reanálise dos elementos fáticos utilizados na dosimetria esbarra no óbice da Súmula 7 do STJ, que impede o exame de provas e fatos nesta instância superior, limitando-se a verificar a legalidade e a proporcionalidade da fundamentação apresentada.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 2.512.923/AL, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 11/3/2025.)
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e não conheço d o recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ARTS. 61, I, E 65, I, D, DO CP NÃO PREQUESTIONADOS. DEBATE DA MATÉRIA PELA INSTÂNCIA DE ORIGEM. AUSÊNCIA. SÚMULAS N. 282 E 356 DO STF E 211 DO STJ. AGRAVO CONHECIDO E RECURSO ESPECIAL NÃO CONHECIDO.
