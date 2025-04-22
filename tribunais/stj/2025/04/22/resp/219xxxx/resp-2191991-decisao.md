@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARNO BECKER com respaldo nas alíneas "a" e "c" do permissivo constitucional contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 625):
+PREVIDENCIÁRIO. ATIVIDADE RURAL. PERÍODO EQUIVALENTE À CARÊNCIA. DOCUMENTOS EXTEMPORÂNEOS. AUSÊNCIA DE PROVA MATERIAL APTA A COMPROVAR O EXERCÍCIO DA ATIVIDADE RURAL. HIPÓTESE DE CARÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO.
+1. O início de prova material não precisa abranger todo o período de carência, de forma a ser comprovado ano a ano, entretanto, deve ser produzido, ao menos parcialmente, dentro do período equivalente à carência.
+2. Para a comprovação do tempo de atividade rural é preciso existir início de prova material, não sendo admitida, em regra, prova exclusivamente testemunhal.
+3. Hipótese em que a falta de precisão dos depoimentos e/ou a escassez de provas materiais impedem o reconhecimento do direito ao benefício de aposentadoria rural.
+4. Verificada a ausência de conteúdo probatório material eficaz a instruir a inicial, conforme estabelece o artigo 320 do Código de Processo Civil, resta configurada a hipótese de carência de pressuposto de constituição e desenvolvimento válido do processo, o que implica decidir a causa sem resolução do mérito, consoante os termos do artigo 485, IV, do Código de Processo Civil.
+5. Apelação desprovida.
+Embargos de declaração acolhidos para sanar omissão, nos seguintes termos (e-STJ fl. 655):
+EMBARGOS DE DECLARAÇÃO. OCORRÊNCIA DE OMISSÃO. RECONHECIMENTO DE PERÍODO RURAL ANTERIOR. LABOR ANTES DOS 12 ANOS DE IDADE. IMPOSSIBILIDADE. PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do CPC.
+2. Verificando-se omissão alegada pela parte embargante, são providos em parte os embargos de declaração.
+3. Reconhecido o exercício de atividade rural em período anterior à carência para eventual e futura utilização pela parte autora.
+4. A possibilidade da contagem do intervalo de trabalho rural realizado antes dos 12 (doze) anos de idade, para fins de previdência, não desonera a parte de efetivamente comprovar o efetivo labor, que não pode ser mero auxílio eventual e sem significado em relação à produtividade do grupo familiar.
+5. Como os presentes embargos têm por finalidade prequestionar a matéria para fins de recurso especial e/ou extraordinário, resta perfectibilizado o acesso à via excepcional, nos termos do art. 1.025, do CPC/15.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 48, § 3º, da Lei n. 8.213/1991, argumentando, em suma, que faz jus ao benefício de aposentadoria por idade híbrida.
+Segundo defende, a interpretação adotada pelo acórdão diverge do entendimento firmado pelo STJ no Tema 1.007, "o qual prevê a possibilidade de somar os períodos de contribuição rural e urbana para a concessão de aposentadoria por idade híbrida, independentemente da extensão de cada tipo de contribuição" (e-STJ fl. 664).
+Sem contrarrazões (e-STJ. fl. 717).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 720/721.
+Passo a decidir.
+De início, registro que o Tribunal de origem afastou a pretensão de aposentadoria por idade híbrida pelas seguintes razões: (a) em consulta ao Cadastro Nacional de Informações Sociais - CNIS consta apenas três recolhimentos em períodos próximos ao requerimento administrativo; e (b) as poucas contribuições evidenciam que a filiação não pode ser considerada de boa-fé, pois denotariam o intuito de buscar futuro benefício previdenciário ao próprio segurado ou a seus dependentes.
+É o que se lê do trecho a seguir (e-STJ fl. 622):
+Quanto ao pedido alternativo de concessão de aposentadoria por idade, na forma híbrida, não há como prosperar, pois em consulta ao CNIS, é possível constatar que efetuou apenas 03 recolhimentos, de 01/06/2018 a 31/07/2018, de 01/09/2018 a 30/09/2018, de 01/02/2019 a 28/02/2019, como facultativo, onde consta, inclusive, o indicador IREC-INDPEND - Recolhimentos com indicadores/pendências.
+Vale destacar que, em casos muito semelhantes ao dos autos, esta Corte já decidiu que o recolhimento de poucas contribuições pela parte autora, evidencia o intuito deliberado de buscar futuro benefício previdenciário para ela ou seus dependentes, o que não pode ser considerado uma filiação de boa-fé, apta a produzir uma obrigação do Estado de amparar tal estado de necessidade social, não podendo, por consequência, ser albergada pelo Poder Judiciário.
+Nesse sentido:
+PREVIDENCIÁRIO. APOSENTADORIA HÍBRIDA POR IDADE. INEXISTÊNCIA DE ATIVIDADE URBANA. REQUISITOS NÃO PREENCHIDOS.
+1. A teor do disposto na Lei nº 11.718/2008, que acrescentou o § 3º ao artigo 48 da Lei nº 8.213/1991, é devida aposentadoria por idade mediante conjugação de tempo rural e urbano, desde que cumpridos o requisito etário (60 anos para mulher e 65 anos para homem) e a carência mínima exigida.
+2. Conforme a sentença ressaltou, a autora "efetuou apenas 03 recolhimentos ao RGPS, na qualidade de contribuinte individual (entre 01/07/2019 a 30/09/2019) todas pagas no dia 15/10/2019, data do requerimento do benefício".
+3. Em casos similares ao presente, a jurisprudência deste Tribunal é no sentido de que as contribuições vertidas não podem ser computadas como tempo de trabalho urbano para fins de concessão de aposentadoria híbrida por idade.
+4. Não foram preenchidos os requisitos para a concessão de aposentadoria híbrida por idade. (TRF4, AC 5001103- 56.2021.4.04.7215, NONA TURMA, Relator SEBASTIÃO OGÊ MUNIZ, juntado aos autos em 15/02/2022)
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE HÍBRIDA. APLICAÇÃO DO ART. 48, CAPUT E § 3º, DA LBPS. RECOLHIMENTO DE duas CONTRIBUIÇÕES poucos meses ANTES DO REQUERIMENTO ADMINISTRATIVO. SIMULAÇÃO. IMPOSSIBILIDADE. IMPROCEDÊNCIA DA AÇÃO.
+1. Implementado o requisito etário (60 anos de idade para mulher), é possível o deferimento de aposentadoria por idade com a soma de tempo de serviço urbano e rural, na forma do art. 48, §§ 3º e 4º, da Lei n. 8.213/91, incluído pela Lei nº. 11.718/2008.
+2. O recolhimento de duas contribuições na condição de contribuinte facultativa pela autora, poucos dias antes do requerimento administrativo, evidencia o intuito deliberado de buscar futuro benefício previdenciário para ela ou seus dependentes, o que não pode ser considerado uma filiação de boa-fé, apta a produzir uma obrigação do Estado de amparar tal estado de necessidade social, não podendo, por consequência, ser albergada pelo Poder Judiciário. (TRF4, AC 5017459-87.2019.4.04.9999, QUINTA TURMA, Relator ALTAIR ANTONIO GREGÓRIO, juntado aos autos em 27/05/2020)
+Não obstante, o recurso especial limitou-se a defender que a jurisprudência desta Corte autoriza a aposentadoria por idade híbrida, a evidenciar, pelo cotejo entre as razões do recurso e do acórdão, o desencontro entre o que foi decidido e a pretensão recursal deduzida.
+A falta de pertinência entre as razões do recurso especial e a decisão questionada revela-se apta a atrair o óbice contido na Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"), pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃO CONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido.
+(AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
