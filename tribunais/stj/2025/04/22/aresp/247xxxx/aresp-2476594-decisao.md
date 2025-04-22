@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo interposto por ERON MARCOS DA SILVA contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA cuja ementa guarda os seguintes termos (fl. 1072):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. "GOLPE DO SAMUCA". SENTENÇA DE IMPROCEDÊNCIA. RECURSO DO AUTOR. PRELIMINARES EM CONTRARRAZÕES. FALTA DE DIALETICIDADE E INOVAÇÃO RECURSAL. INOCORRÊNCIA. RAZÕES RECURSAIS QUE SE VOLTAM CONTRA OS FUNDAMENTOS DA SENTENÇA. CONSONÂNCIA AOS FUNDAMENTOS AVENTADOS NA PETIÇÃO INICIAL. PREFACIAL RECHAÇADA. ERRO MATERIAL. NOME EQUIVOCADO DA PARTE AUTORA NO DISPOSITIVO DA SENTENÇA. CORREÇÃO DE OFÍCIO. INTELIGÊNCIA DO ART. 494, I, DO CPC. PEDIDO DE REVOGAÇÃO DA JUSTIÇA GRATUITA. IMPOSSIBILIDADE. FALTA DE ELEMENTOS A INFIRMAR A HIPOSSUFICIÊNCIA DO AUTOR. MANUTENÇÃO DA BENESSE. RECURSO DE APELAÇÃO. AUTOR BENEFICIÁRIO DOS CHEQUES SEM PROVISÃO DE FUNDO EMITIDOS PELO CORRENTISTA DA CASA BANCÁRIA RÉ. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESPONSABILIDADE EXCLUSIVA DO EMITENTE. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO DA RÉ E NEXO DE CAUSALIDADE COM OS PREJUÍZOS SUPORTADOS PELO DEMANDANTE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTE SODALÍCIO. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS FIXADOS. EXIGIBILIDADE DA VERBA SUSPENSA, FORTE NO § 3º DO ART. 98 DO CPC. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram acolhidos para sanar erro material (fls. 1100-1102).
+No recurso especial, a parte recorrente alega violação dos arts. 355, I, e 373, I e II, do CPC diante de alegado cerceamento de defesa e julgamento contrário à prova dos autos. Aduz ainda ofensa aos arts. 2º, parágrafo único, 3º, §§ 1º e 2º, 14, § 1º, 17 e 29 do CDC e 186, 884, 885, 886 e 927 do CC sustentando pela responsabilização do banco recorrido "inclusive dispensada a verificação da culpa para concluir-se pelo dever de indenizar, bastando ser verificado o nexo causal entre o fato (não compensação dos cheques indiscriminadamente concedidos aos milhares, fato incontroverso) e o dano (não percepção de um direito - numerário - que lhe pertence)" (fl. 1155).
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 1174-1194 e 1196-1216).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1221-1223), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1318-1336).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 355, I, e 373, I e II, do CPC, 2º, parágrafo único, 3º, §§ 1º e 2º, 14, § 1º, 17 e 29 do CDC e 186, 884, 885, 886 e 927 do CC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ e alterar o decidido no acórdão impugnado, no que se refere à ausência de responsabilização de instituição bancária quanto a emissão de cheques sem provisão de fundos, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. EMISSÃO DE CHEQUES SEM PROVISÃO DE FUNDOS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. 2. RESPONSABILIDADE CIVIL DA INSTITUIÇÃO FINANCEIRA AFASTADA. CONSUMIDOR POR EQUIPARAÇÃO. NÃO CARACTERIZAÇÃO. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. AUSÊNCIA DE FALHA NA PRESTAÇÃO DO SERVIÇO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. MULTA DO ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. 4. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo falar em negativa de prestação jurisdicional.
+2. Consoante jurisprudência desta Corte, a instituição bancária não é parte legítima para figurar nas ações de indenização por danos materiais suportados pelo portador de cheque sem provisão de fundos de seus correntistas, afastando-se, por consequência, a aplicação do Código de Defesa do Consumidor, sendo o emitente o único responsável pelo pagamento da dívida, na hipótese.
+2.1. O Tribunal de origem consignou a inexistência de nenhuma falha na prestação de serviços pelo banco réu. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos.
+Súmula 7/STJ.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.930.460/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/10/2021, DJe de 28/10/2021.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da causa, observada eventual concessão de gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. EMISSÃO DE CHEQUES SEM PROVISÃO DE FUNDOS. RESPONSABILIZAÇÃO DE INSTITUIÇÃO BANCÁRIA. INEXISTÊNCIA. SÚMULA N. 83/STJ. REVER A CONCLUSÃO DA CORTE LOCAL. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
