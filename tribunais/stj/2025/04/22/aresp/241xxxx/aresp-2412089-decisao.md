@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR COMUNALE SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso no art. 180, § 1º, do Código Penal, à pena de 3 anos de reclusão, em regime inicial aberto, e de 10 dias-multa, no valor unitário mínimo legal, substituída a pena privativa de liberdade por duas restritivas de direito, a saber, prestação de serviços à comunidade e prestação pecuniária no montante de 15 salários-mínimos (fls. 711-717).
+O Tribunal de origem negou provimento ao recurso de apelação da defesa, mantendo a condenação (fls. 794-823).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal. Em suas alegações recursais, pleiteou o reconhecimento da violação ao disposto nos arts. 13 do Código Penal e 158 do Código de Processo Penal. Ao fim, requereu a absolvição (fls. 910-922).
+O recurso especial foi inadmitido na origem, em razão dos óbices previstos nas Súmulas n. 7 e 182/STJ (fls. 977-978).
+Foi interposto o presente agravo em recurso especial, por meio do qual o agravante sustentou não pretender o reexame de provas, mas sim a correta aplicação da norma legal. Requereu o provimento do agravo para o seguimento do recurso especial (fls. 985-997).
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (fls. 1.074-1. 091).
+Houve despacho para regularização da representação processual, nos termos do art. 932, parágrafo único, do Código de Processo Civil (fl. 1.094), o que foi cumprido pelo agravante (fls. 1.098-1.099).
+É o relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra as decisões que inadmitiram o respectivo recurso especial. Nesse sentido, não observou o teor da Súmula n. 182/STJ, cuja aplicação se dá analogicamente ao caso em tela.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+O princípio da dialeticidade recursal exige, portanto, que haja uma confrontação clara, concreta e ampla de todos os fundamentos da decisão. Nesse sentido, a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. 2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada. 3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos.
+(STJ - AgRg nos EAREsp: 1870554 SP 2021/0105834-9, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 07/03/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 14/03/2023)
+No caso dos autos, o agravante, ao apresentar apenas argumentos genéricos sobre a matéria ser jurídica, e não fática, não conseguiu demonstrar que seu recurso dispensaria nova análise do conjunto probatório. De fato, o que se observa é a inexistência de uma demonstração concreta de superação do óbice erigido pela Súmula n. 7/STJ.
+Nesse sentido, observa-se que o agravo repisa argumentos já aduzidos no recurso especial, sem trazer efetiva análise concreta de como se alcançaria a absolvição postulada sem o revolvimento do conjunto fático-probatório, que já foi devidamente analisado pelas instâncias ordinárias.
+Ao não se desi ncumbir dessa obrigação, o agravante incorreu, portanto, em violação à Súmula n. 182/STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
