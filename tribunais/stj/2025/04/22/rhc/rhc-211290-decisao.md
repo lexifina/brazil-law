@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por ANDRE GONCALVES SILVEIRA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do Habeas Corpus Criminal n. 5000096-13.2025.8.24.0000.
+Extrai-se dos autos que o recorrente foi preso preventivamente em 4 de janeiro de 2025, tendo sido denunciado pela suposta prática dos crimes tipificados nos artigos 311, caput, e § 2º; 330, ambos do Código Penal, e no artigo 311 do Código de Trânsito Brasileiro, na forma do artigo 69 do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão que restou assim ementado (fl. 38):
+"HABEAS CORPUS. CRIME DE ADULTERAÇÃO DE SINAL IDENTIFICADOR (ART. 311 E §2º, III), DESOBEDIÊNCIA (ART. 330) E DIREÇÃO PERIGOSA (CTB, ART. 311), EM CONCURSO MATERIAL (CP, ART. 69). INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU O PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. AGRAVO INTERNO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU O PEDIDO LIMINAR. AUSÊNCIA DE CABIMENTO. INTELIGÊNCIA DO ART. 232 DO REGIMENTO INTERNO DO TJSC. PRECEDENTES. NÃO CONHECIMENTO. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA EM RAZÃO DE TER SIDO DECRETADA COM BASE NA GRAVIDADE ABSTRATA DOS CRIMES. DESCABIMENTO. PACIENTE QUE PRATICOU NOVOS DELITOS DURANTE O CUMPRIMENTO DE LIBERDADE PROVISÓRIA EM PROCESSO DIVERSO. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA QUE JUSTIFICA A IMPOSIÇÃO DA SEGREGAÇÃO CAUTELAR PARA ACAUTELAMENTO DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. NÃO DEMONSTRADO. ORDEM CONHECIDA E DENEGADA."
+Nas razões do presente recurso, sustenta que há ausência de fundamentação idônea do decreto preventivo. Alega que o Tribunal de origem baseou a cautelar genericamente na gravidade abstrata do delito e não apresentou elementos concretos aptos a demonstrar que a liberdade do recorrente representa risco real e atual à ordem pública. Aduz que o recorrente é primário, possui emprego lícito e residência fixa, mostrando-se suficientes as medidas cautelares diversas do cárcere presentes no art. 319 do Código de Processo Penal (fl. 64). Requer, assim, o provimento do recurso para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares alternativas (fl. 64).
+A medida liminar foi indeferida (fl. 64).
+Foram prestadas informações (fl. 69).
+O Ministério Público Federal opinou pelo conhecimento e não provimento do recurso ordinário em habeas corpus (fl. 80).
+É o relatório.
+Decido.
+Houve perda superveniente do objeto da impetração.
+Mediante consulta ao portal do Judiciário (www.jus.br), constata-se que, em 27/03/2025, na Ação Penal n. 5000063-60.2025.8.24.0020, foi proferida sentença condenatória para cumprimento em regime aberto, e com reconhecimento do direito de substituição da pena de reclusão por restritivas de direito. Desta forma, foi revogada a prisão preventiva e já cumprido o alvará de soltura.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+EMENTA
