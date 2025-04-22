@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE LIMA DA SILVA à decisão de minha lavra (fls. 3699/3713), em que conheci do agravo para conhecer em parte do recurso especial, negando-lhe provimento.
+O embargante alega que a decisão embargada é omissa, pois limitou-se a citar paradigma sem identificar-lhes os fundamentos determinantes e demonstrar sua aplicabilidade ao caso concreto. Afirma omissão também quanto ao precedente desta relatoria indicado nas razões do recurso especial, devendo ser enfrentado.
+Sustenta que devem ser enfrentadas as razões que vêm sendo aduzidas desde a origem:
+"Dentre as supostas provas de peculato, as decisões do caso fizeram referência a um recibo de alegada compra de cerveja em benefício do embargante (o recibo é datado de 2010, data anterior aos próprios fatos investigados, que vão de 2011 em diante);
+  Também há referência a dois recibos de pagamento a cabos eleitorais como suposta prova do desvio, mas que são recibos sem data;
+  As decisões do caso fizeram referência a 3 cheques que teriam tido seus valores desviados pelo embargante, mas o embargante apontou o comprovante de recolhimento à conta do Município através de Documento de Arrecadação Municipal em relação a dois deles;
+  Dentre os cheques citados, utilizados como prova do desvio, há um que tem diferença de grafia entre o canhoto e a cártula, indicando a fragilidade de se afirmar que foi realmente dado em pagamento de horas-máquina ao Município;
+  Não houve qualquer análise à conta bancária do Município de Theobroma, a fim de verificar se houve aumento ou diminuição na arrecadação do município durante os anos investigados, bem como fazer um encontro de contas entre o que recolhido e os boletos emitidos em nome de cada produtor rural, inclusive dos que pagaram em cheque."
+Alega novas omissões no que toca à chamada do corréu, pois se a decisão invocou a Súmula n. 7/STJ era necessário que fosse suprida a omissão acerca das razões deduzidas no recurso especial ao arguir a violação ao art. 619 do CPP, nas quais se demonstra o silêncio do acórdão estadual quanto ao fato de que a palavra do corréu APARECIDO está sendo utilizada em vários trechos do próprio acórdão para condenar o embargante.
+Afirma omissão e obscuridade quanto às razões do 2º fato - peculato, pois a decisão se limitou a citar o título do tópico, mas sem enfrentar as razões citadas em relação aos fatos, devendo ser respondidas as seguintes indagações:
+"É irrelevante o fato de a condenação tomar como prova de peculato um recibo de pagamento de cerveja cuja data é anterior aos fatos investigados
+É irrelevante o fato de ser tomado como prova recibos de alegados pagamentos a cabos eleitorais, os quais não possuem data
+É irrelevante o fato de que foram citadas despesas de nítido interesse público, como suposta prova de peculato (desvio para proveito próprio)
+Ademais, também é necessário seja suprida a omissão da decisão ora embargada, a fim de indicar em qual parte a sentença condenatória teria "esclarecido vários dos pontos consignados, inclusive de forma minuciosa".
+Suscita omissão e obscuridade quanto às razões do 3º fato - peculato, pois não se indicou onde que o acórdão estadual enfrentou as supracitadas argumentações, ou no mínimo aclarada a "irrelevância" da questão suscitada, se o caso.
+Pondera omissão quanto ao 4º fato - falsidade ideológica, pois não indicado como o acórdão estadual enfrentou os pontos levantados nos embargos declaratórios, tal como atipicidade em razão do princípio da não autoincriminação e de se tratar de documento sujeito à verificação pelo próprio MP.
+Afirma omissão quanto à arguição do delito do art. 299 do CP, em razão da atipicidade, pois o documento está sujeito à verificação, além de omissões quanto à continuidade delitiva, uma vez que não demonstrou onde o acórdão estadual enfrentou as questões deduzidas nos embargos declaratórios.
+Aponta omissão quanto ao tópico relativo ao ilegal aumento decorrente da continuidade delitiva, pois além de não analisar os tópicos do recurso especial, não indicou como o acórdão estadual teria enfrentado os temas dos embargos declaratórios. Assegura que a condenação por peculato em relação ao período de jan/2013 a 2014 está se baseando em dois fatos, assim, à luz da jurisprudência desta Corte, a fração de aumento não poderia ser de 1/5, mas de 1/6.
+Requer sejam supridas as omissões apontadas.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+Não há omissões e obscuridades na decisão embargada, apenas inconformismo.
+O julgador não está obrigado a responder os pormenores trazidos pela parte, notadamente quando dizem respeito à prova dos autos, muito menos debater precedentes que foram destacados na peça processual, que não se adequam ao caso concreto. Os julgados indicados no decisum embargado melhor se encaixam à hipótese, sendo também orientação consolidada nesta Corte.
+O precedente citado pelo embargante, desta relatoria, reflete jurisprudência geral, válida, mas que admite exceções, tal como a ocorrente nestes autos.
+Assim, estando a decisão agravada devidamente fundamentada para manter a solução dada pela Corte originária, não há falar em vícios a serem supridos.
+Consoante asseverado, não houve violação ao art. 619 do CPP, pois a Corte de origem solucionou os pontos omissos e não se considerou obrigada a responder questões que não repercutiriam na solução da demanda.
+Como se disse, boa parte das arguições defensivas disseram respeito à fragilidade probatória, seja por avaliação distorcida, seja por nulidade decorrente da sua produção, ao que parece, na tentativa de desvalidar as conclusões da Corte Estadual, pautadas em amplo acervo probatório, que teve inclusive como escopo a palavra do corréu, responsável por descrever todo o esquema criminoso em que envolvidas as partes.
+As provas elencadas pela Corte originária serviram de convicção para a manutenção dos decretos condenatórios, pois, de fato, restou provado que os réus, em razão do cargo que ocupavam, apropriaram-se de verbas públicas e desviaram parte da verba em proveito próprio e alheio, bem como omitiram em documento público declaração que dele devia constar, alterando a verdade sobre fato juridicamente relevante.
+De fato, não é possível alterar as conclusões a que a Corte Estadual chegou para fins de acolhimento do pleito absolutório, nem em relação à continuidade delitiva e nem mesmo para entender diferente no que diz respeito à confissão espontânea do corréu, tudo em razão da Súmula n. 7/STJ.
+Ante o exposto, rejeito os embargos declaratórios, com fundamento no art. 264, § 1º do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
