@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEVISAO CHAPECO S/A e TELEVISAO JOACABA LTDA., com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região (TRF4).
+As recorrentes originariamente impetraram mandado de segurança buscando reconhecimento do direito de não incluir os valores correspondentes à Taxa SELIC na base de cálculo do IRPJ e da CSLL, bem como de recolher o IRPJ e a CSLL incidentes sobre o crédito reconhecido judicialmente apenas no momento da homologação das declarações de ressarcimento/restituição e/ou compensação.
+O juízo de primeiro grau concedeu parcialmente a segurança. Ambas as partes apelaram, e a 2ª Turma do TRF4 deu provimento à apelação das ora recorrentes e negou provimento à apelação da União Federal. O acórdão está assim ementado (fls. 425):
+MANDADO DE SEGURANÇA. IRPJ E CSLL. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS (SELIC) RECEBIDOS EM VIRTUDE DE REPETIÇÃO DE INDÉBITO TRIBUTÁRIO E NO LEVANTAMENTO DE DEPÓSITOS JUDICIAIS. NÃO INCIDÊNCIA. INCONSTITUCIONALIDADE. STF. ENTENDIMENTO FIRMADO EM REPERCUSSÃO GERAL (TEMA Nº 962). ARGÜIÇÃO DE INCONSTITUCIONALIDADE N. 5025380-97.2014.404.0000. NÃO APLICAÇÃO DO PRECEDENTE DO STJ. FATO GERADOR DO IRPJ E DA CSLL. CRÉDITO COMPENSÁVEL ILÍQUIDO DECORRENTE DE DECISÃO JUDICIAL. NECESSIDADE DE HOMOLOGAÇÃO PELO FISCO DA COMPENSAÇÃO DO CONTRIBUINTE.
+Em sede de juízo de retratação, o TRF4 modificou o acórdão anterior, em razão do julgamento do Tema 504 pelo STJ, que versa sobre a cobrança de IRPJ/CSLL sobre a taxa Selic no levantamento dos depósitos judiciais. Consta da ementa do aresto:
+MANDADO DE SEGURANÇA. IRPJ E CSLL. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS (SELIC). LEVANTAMENTO DE DEPÓSITOS JUDICIAIS. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO - TEMA Nº 504. JUÍZO DE RETRATAÇÃO. INCIDÊNCIA.
+As recorrentes opuseram embargos de declaração, objetivando o prequestionamento da matéria, os quais foram rejeitados, com aplicação de multa de 1% sobre o valor da causa, por serem considerados protelatórios.
+No presente recurso especial, as recorrentes alegam violação aos artigos 1.025 e 1.026, § 2º, do Código de Processo Civil, sustentando que a oposição de embargos de declaração para fins de prequestionamento não possui caráter protelatório, devendo ser afastada a multa imposta.
+A União apresentou contrarrazões, pugnando pelo não conhecimento ou, caso conhecido, pelo não provimento do recurso especial.
+O recurso especial foi admitido (fl. 627).
+É o relatório.
+Fundamento e decido.
+Presentes os requisitos intrínsecos e extrínsecos de admissibilidade recursal, conheço do recurso e passo a examinar o mérito.
+O recurso merece prosperar.
+A questão central reside na análise da aplicação da multa prevista no art. 1.026, § 2º, do CPC, em face da oposição de embargos de declaração com o objetivo de prequestionar a matéria para fins de interposição de recursos às instâncias superiores.
+O Tribunal de origem entendeu que os embargos de declaração opostos pelas recorrentes possuíam caráter manifestamente protelatório, justificando a aplicação da multa. Contudo, tal entendimento destoa da jurisprudência consolidada desta Corte Superior.
+A Súmula 98 do STJ é clara ao dispor que "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+A aplicação da multa prevista no art. 1.026, § 2º, do CPC, pressupõe a existência de intuito manifestamente protelatório, o que não se verifica na hipótese em apreço.
+No caso em tela, as recorrentes opuseram os embargos de declaração com o objetivo de prequestionar a matéria constitucional e infraconstitucional envolvida. Cumpre salientar que a matéria é controversa e foi alvo de tratamentos distintos em casos semelhantes analisados pelo STJ e pelo STF (Temas 504 e 962, respectivamente). A intenção de discutir o tema via Recurso Extraordinário demonstra o intuito de levar a questão à análise do Supremo Tribunal Federal, o que afasta o caráter protelatório dos embargos.
+Nesse sentido, a jurisprudência do STJ é pacífica:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MULTA DO ART. 1.026, § 2º, DO CPC. INAPLICABILIDADE. AUSÊNCIA DE INTUITO MANIFESTAMENTE PROTELATÓRIO. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência, a mera oposição de embargos de declaração, sem intuito protelatório, não justifica a imposição da multa prevista no art. 1.026, § 2º, do CPC, conforme determina o enunciado 98 da Súmula desta Corte, segundo o qual: "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.803.344/AL, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 12/3/2025, DJEN de 20/3/2025.) (grifei)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. JUÍZO PRÉVIO DE ADMISSIBILIDADE. NÃO ADMISSÃO. AGRAVO. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS. OCORRÊNCIA. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. REANÁLISE DE FATOS, PROVAS E INSTRUMENTOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. EMBARGOS PROTELATÓRIOS. INTUITO DE PREQUESTIONAMENTO. MULTA. AFASTAMENTO.
+1. A parte recorrente realizou a impugnação específica dos fundamentos de inadmissibilidade do recurso especial. Reconsideração da v. decisão da Presidência desta Corte Superior.
+2. Não há violação do art. 1.022 do CPC quando o Tribunal aprecia a controvérsia de forma completa e devidamente fundamentada, não incorrendo em omissão, contradição ou obscuridade.
+3. A modificação do entendimento lançado no acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, assim como a interpretação de cláusulas contratuais, o que é inviável em sede de recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ. Caso concreto em que o Tribunal a quo estabeleceu a indivisibilidade da área, objeto do litígio, em relação à área maior, a que pertence, por ter tamanho inferior à fração mínima de parcelamento e ao módulo rural.
+4. A oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC, nos termos da Súmula 98 do STJ.
+5. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do STF, por analogia.
+6. A admissibilidade do recurso especial pela alínea "c" do permissivo constitucional exige, para a correta demonstração da divergência jurisprudencial, o cotejo analítico dos julgados confrontados, expondo-se as circunstâncias que identificam ou assemelham os casos, a fim de demonstrar a similitude fática entre o acórdão impugnado e o paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ, o que não ocorreu no caso.
+7. Agravo interno provido, para conhecer do recurso especial em parte e, nessa extensão, dar-lhe parcial provimento, para afastar a multa pela oposição de embargos de declaração com intuito de prequestionamento.
+(AgInt no AREsp n. 2.645.670/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.) (grifei)
+Dessa forma, o acórdão recorrido, ao aplicar a multa do art. 1.026, § 2º, do CPC, violou o disposto nos arts. 1.025 e 1.026, § 2º, do Código de Processo Civil, bem como a Súmula 98/STJ.
+Ante o exposto, com fundamento no art. 255, §4º, III, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para afastar a multa imposta nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. CARÁTER NÃO PROTELATÓRIO. SÚMULA 98/STJ. AFASTAMENTO DA MULTA DO ART. 1.026, § 2º, DO CPC. RECURSO PROVIDO.
