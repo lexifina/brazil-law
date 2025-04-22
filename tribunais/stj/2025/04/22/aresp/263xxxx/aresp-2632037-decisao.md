@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIEGO MAURO DOS SANTOS contra decisão do Tribunal de origem que inadmitiu o recurso especial por entender pela aplicação da Súmula n. 7 do STJ.
+Nas razões do presente agravo em recurso especial, a defesa argumenta que não buscou o reexame da matéria fática, mas sim a correta aplicação do direito ao caso concreto.
+Afirma que o objeto do recurso diz respeito à questão de direito, uma vez que ausente fundamentação idônea que justificasse a interceptação telefônica.
+Requer o provimento do recurso, com a consequente repercussão jurídica.
+Impugnação apresentada (fls. 433-434).
+Parecer do Ministério Público Federal opinando pelo conhecimento do agravo e desprovimento do recurso especial, nos termos da seguinte ementa (fl. 449):
+PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. PELO CONHECIMENTO DO AGRAVO. TESE DE ILICITUDE DAS INTERCEPTAÇÕES TELEFÔNICAS. INOCORRÊNCIA. REVOLVIMENTO FÁTICO-PROBATÓRIO INCABÍVEL EM SEDE DE RECURSO ESPECIAL. ÓBICE NA SÚMULA 7 DO STJ. PELO NÃO PROVIMENTO DO RECURSO ESPECIAL.
+1 - O Agravante impugnou de forma clara todos os fundamentos da Decisão agravada, merecendo ser conhecido o Agravo em Recurso Especial;
+2 - Incabível o pleito de absolvição postulado pelo Recorrente em decorrência da nulidade das interceptações telefônicas, eis que a via do Recurso Especial não comporta o reexame da matéria fático-probatória, esbarrando no óbice da Súmula 7/STJ;
+PARECER PELO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL, PARA CONHECER DO RECURSO ESPECIAL E NEGAR- LHE PROVIMENTO.
+É o relatório.
+Como relatado, o recurso especial foi inadmitido por aplicação do fundamento de que sua análise exigiria o reexame de fatos e provas, o que atrai o óbice da Súmula n. 7 do STJ.
+Porém, as razões do agravo em recurso especial não enfrentam, de modo suficiente, o fundamento referido, pois, para atendimento do princípio da dialeticidade, devem ser demonstradas, de modo específico e concreto, quais seriam as razões pelas quais a decisão recorrida deveria ser reformada.
+Vale esclarecer, quanto ao óbice referido na Súmula n. 7 do STJ, que a alegação genérica sobre a desnecessidade de que sejam reexaminados os fatos e as provas é insuficiente para o efetivo enfrentamento da decisão recorrida, ainda que feita breve menção à tese sustentada, quando ausente o devido cotejo das premissas fáticas do acórdão proferido na origem (AgRg no AREsp n. 2.030.508/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 10/9/2024, DJe de 13/9/2024; AgRg no AREsp n. 2.672.166/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024; AgRg no AREsp n. 2.576.898/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/8/2024, DJe de 2/9/2024).
+Como se constata, a efetiva impugnação dos fundamentos que levaram o Tribunal de origem a inadmitir o recurso especial exigia o expresso e efetivo enfrentamento de cada um dos respectivos fundamentos, sem o que não se pode cogitar do desacerto da decisão agravada.
+Aplica-se, em consequência, a conclusão prevista na Súmula n. 182 do STJ, que estabelece ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". A propósito: AgRg no AREsp n. 2.706.517/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 23/10/2024; AgRg no AREsp n. 2.564.761/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 16/10/2024, DJe de 22/10/2024; AgRg no AREsp n. 2.126.667/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 15/10/2024, DJe de 18/10/2024; AgRg no AREsp n. 2.262.869/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 18/6/2024, DJe de 25/6/2024.
+Por fim, registro que, n  os termos do art. 932, III, do CPC, incumbe monocraticamente ao relator "não conhecer de recurso  ..  que não tenha impugnado especificamente os fundamentos da decisão recorrida", hipótese amparada também pelo art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO SUFICIENTE. SÚMULA N. 182 DO STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
