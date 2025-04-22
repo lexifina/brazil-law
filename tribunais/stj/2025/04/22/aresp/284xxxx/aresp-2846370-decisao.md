@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AGROREFLORESTAL HARAOUI LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE TUTELA DE URGÊNCIA - PLEITO DE APLICAÇÃO DA SANÇÃO DO ART. 940 DO CÓDIGO CIVIL - AUSÊNCIA DOS REQUISITOS PARA SUA CONFIGURAÇÃO - RECONHECIMENTO DA CONTRADIÇÃO QUANTO AO RECONHECIMENTO DE DESLEALDADE PROCESSUAL - EMBARGOS ACOLHIDOS, SEM ATRIBUIÇÃO . DE EFEITOS INFRINGENTES Contradição sanada em relação ao reconhecimento da deslealdade processual, contudo, sem atribuição de efeitos infringentes, porque não estão presentes os requisitos para aplicação da sanção civil do art. 940 do Código Civil, haja vista que a exequente não postulou pelo pagamento de dívida já paga, mas sim requerimento de conversão da obrigação de fazer em perdas e danos.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação ao art. 940 do CC, no sentido de que há o dever de aplicação da penalidade prevista no dispositivo legal, tendo em vista que a cobrança a maior em conjunto com a má-fé caracteriza o dever de aplicação da condenação - cobrança em juízo de quantia além do que é devido, trazendo a seguinte argumentação:
+Assim, resta evidente que a hipótese objetiva alegada no recurso e no processo na origem foi o fato do recorrido ter demandado por quantia além do que a devida, e neste caso, por ter sido reconhecida a má-fé, deveria ter sido condenado no art. 940 do CC, no que tange a segunda hipótese ali constante - a saber, a cobrança em juízo de quantia além do que o devido.
+ ..
+Pois bem, ao emanar o entendimento de que não se aplicaria ao caso a penalidade prevista no artigo 940 do Código Civil, mesmo havendo decisão judicial de mérito reconhecendo a ocorrência de má-fé da recorrente, mesmo estando preenchidos os requisitos exigidos pelo citado dispositivo legal (demandar por valor além do devido e má-fé do credor), sem extreme de dúvidas o V. Acórdão, ora impugnado, contrariou e negou vigência aos comandos legais em comento, bem ainda aos inúmeros precedentes jurisprudenciais da mais alta Casa de Justiça, que são uníssonos no sentido de que (..) A sanção prevista no artigo 940 do Código Civil - pagamento em dobro por cobrança indevida, somente pode ser aplicada quando comprovada a má-fé do credor.
+ ..
+Como se verifica da farta documentação processual, é fato inequívoco, inclusive objeto de confissão, que a recorrida postulou execução de obrigação de fazer que não lhe era devida, sendo que no curso do processo, expressamente requereu a conversão desta obrigação em perdas e danos equivalente.
+Na exordial do agravo restou claramente demonstrado o recorte do processo na origem, pelo qual o exequente (ora recorrido), pugnou pela conversão em valores.
+ ..
+No julgamento do embargos do devedor (autos nº 1026831-98.2019.8.11.0041), foi manifestamente reconhecida que a execução era indevida, e exatamente por isso a recorrida foi condenada por litigância de má-fé.
+Como dito alhures, com a interposição dos embargos de declaração, o Tribunal local reconheceu a má-fé também nos autos deste agravo. No entanto, alegou que não era o caso de aplicação do art. 940 do CC, por que não havia demanda sobre divida paga.
+ ..
+Houve, como visto, no processos da origem, pedido de conversão da obrigação de fazer em perdas e danos. Ocasião em que o recorrido converteu a obrigação em valores reais, e, assim agindo, demonstrou que promoveu uma execução de R$960.734,79 indevidamente, OU SEJA, DEMANDOU POR R$960.734,79 ALÉM DO QUE O DEVIDO.
+ ..
+Assim, o V. Acórdão comporta reforma, para que, em congruência ao já decidido na mesma lide, seja aplicado o previsto no artigo 940 do CC, como consequência da má-fé já reconhecida no caso, e, principalmente como consequência do reconhecimento de que a cobrança era indevida (pois a obrigação não era do recorrente e jamais poderia ter sido ajuizada contra ele, quanto menos convertida em valores) (fls. 182/188).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento da tese recursal, porquanto a questão postulada não foi examinada pela Corte a quo sob o viés pretendido pela parte recorrente.
+Nesse sentido: "N ão há prequestionamento da tese recursal quando a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente" (AgInt no AREsp n. 1.946.228/DF, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.023.510/GO, relator Ministro Humberto Martins, Terceira Turma, DJe de 29/2/2024; AgRg no AREsp n. 2.354.290/ES, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/2/2024; AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/5/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19.9.2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
