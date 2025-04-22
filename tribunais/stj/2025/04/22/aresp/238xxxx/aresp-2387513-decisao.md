@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por Companhia Energética do Rio Grande do Norte - COSERN -, desafiando decisão da vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Norte, que não admitiu recurso especial com base nos seguintes fundamentos: (I) não houve a indicada afronta ao art. 1.022 do CPC, estando o acórdão recorrido fundamentado adequadamente; e (II) incidência da Súmula 83/STJ, por estar o julgado local alinhado à jurisprudência do STJ "no sentido ser possível a inclusão da concessionária do serviço de energia elétrica em demanda que versa sobre a cobrança de ICMS retroativo, por tratar-se matéria afeta ao próprio contrato consumerista" (fl. 474), fazendo menção ao seguinte julgado: AgInt no REsp n. 1.978.301/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/6/2022.
+Nas razões de agravo em recurso especial, a parte sustenta, em síntese, que: (i) deve ser reconhecida a negativa de prestação jurisdicional; e (ii) não há falar em aplicação da Súmula 83/STJ, visto que há julgados do STJ pela legitimidade exclusiva do Estado em casos tais, indicando, para respaldar sua alegação, o REsp n. 1.718.090/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/8/2018.
+Sem contraminuta.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, no ponto em que o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, com a menção a julgados contemporâneos ou supervenientes àquele trazido no juízo de prelibação; ou, ainda, que o precedente não se aplicaria ao caso dos autos, providência da qual não se desincumbiu. Nesse sentido: AgInt no REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 13/9/2019.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
+EMENTA
