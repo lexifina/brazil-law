@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IZAIAS DE LIMA DA SILVA à decisão de minha lavra (fls. 3684/3698), em que conheci do agravo para conhecer em parte do recurso especial, negando-lhe provimento.
+O embargante alega que a decisão embargada é omissa, pois, em relação à continuidade delitiva, as razões do recurso especial dizem respeito à fração aplicada, que confronta a jurisprudência desta Corte e não ao conteúdo afirmado. Assevera omissão, pois a decisão está limitada a citar paradigma sem identificar os fundamentos determinantes e demonstrar sua aplicabilidade ao caso concreto
+Argui omissão também quanto à precedente desta relatoria indicado nas razões do recurso especial, devendo ser enfrentado.
+Sustenta que devem ser combatidas as razões que vem sendo aduzidas desde a origem:
+  "As decisões do caso fizeram referência a 3 cheques que teriam tido seus valores desviados pelo embargante, mas o embargante apontou o comprovante de recolhimento à conta do Município através de Documento de Arrecadação Municipal em relação a dois deles;
+  Dentre os cheques citados, utilizados como prova do desvio, há um que tem diferença de grafia entre o canhoto e a cártula, indicando a fragilidade de se afirmar que foi realmente dado em pagamento de horas-máquina ao Município;
+  Não houve qualquer análise à conta bancária do Município de Theobroma, a fim de verificar se houve aumento ou diminuição na arrecadação do município durante os anos investigados, bem como fazer um encontro de contas entre o que recolhido e os boletos emitidos em nome de cada produtor rural, inclusive dos que pagaram em cheque."
+Suscita omissão e obscuridade quanto às razões do 3º fato - peculato, pois não foram analisadas as teses de que o cheque dado por Albino conta com comprovante de arrecadação municipal aos cofres públicos e que o cheque de Irany conta com flagrante distinção em relação à grafia no cheque e no canhoto, sendo importante que se diga ser ou não irrelevante a impugnação quanto a esses dois únicos elementos probatórios do suposto crime.
+Alega omissões quanto ao 4º fato - falsidade ideológica, pois se tratava de documentos feito em resposta ao pedido do MP e sujeito à verificação, devendo ser demonstrado onde o acórdão estadual enfrentou os dois pontos.
+Afirma omissão quanto à arguição do delito do art. 299 do CP, pois o documento nenhum efeito gerou por si só, apenas serviu de resposta a pedido do MP no bojo de procedimento investigativo.
+Argui omissão quanto à alegação de ocorrência da figura do post factum impunível, pois o crime de falso teria sido realizado para encobrir o peculato, além de omissão no tema de violação ao princípio da identidade física do juiz, pois não se pode imputar à defesa o ônus de comprovar eventual prejuízo em decorrência de uma ilegalidade.
+Requer sejam supridas as omissões apontadas.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+Primeiramente, o julgador não está obrigado a responder os pormenores trazidos pela parte, notadamente quando dizem respeito à prova dos autos, muito menos debater precedentes que foram destacados na peça processual, que não se adequam ao caso concreto. Os julgados indicados no decisum embargado melhor se encaixam à hipótese, sendo também orientação consolidada nesta Corte.
+O precedente citado pelo embargante, desta relatoria, reflete na jurisprudência geral, válida, mas que admite exceções, tal como a ocorrente nestes autos.
+Assim, estando a decisão agravada devidamente fundamentada para manter a solução dada pela Corte originária, não há falar em vícios a serem supridos.
+Consoante asseverado, não houve violação ao art. 619 do CPP, pois a Corte de origem solucionou os pontos omissos e não se considerou obrigada a responder questões que não repercutiriam na solução da demanda.
+Como se disse, boa parte das arguições defensivas disseram respeito à fragilidade probatória, seja por avaliação distorcida, seja por nulidade decorrente da sua produção, ao que parece, na tentativa de desvalidar as conclusões da Corte Estadual, pautadas em amplo acervo probatório, que teve inclusive como escopo a palavra do corréu, responsável por descrever todo o esquema criminoso em que envolvidas as partes.
+As provas elencadas pela Corte originária serviram de convicção para a manutenção dos decretos condenatórios, pois, de fato, restou provado que os réus, em razão do cargo que ocupavam, apropriaram-se de verbas públicas e desviaram parte da verba em proveito próprio e alheio, bem como omitiram em documento público declaração que dele devia constar, alterando a verdade sobre fato juridicamente relevante.
+De fato, não é possível alterar as conclusões a que a Corte Estadual chegou para fins de acolhimento do pleito absolutório.
+Por outro lado, em relação à continuidade delitiva, de fato, merece esclarecimento a decisão embargada.
+No ponto, o recurso especial está pautado na inexistência de multiplicidade de condutas delitivas, pois o embargante teria demonstrado o devido recolhimento aos cofres públicos dos valores relativo a dois deles.
+Veja que para adotar a solução defensiva seria necessário a incursão nos elementos de provas dos autos, em tese, desconsiderados pela Corte Estadual. E, embora o ora embargante tenha oposto os aclaratórios na origem, não foi sanado o suposto vício.
+Destaca-se, também, que sob a perspectiva de omissão da Corte Estadual, as razões do recurso especial ficaram limitadas a argumentar que não foram solucionados os temas: princípio da identidade física do juiz; ausência de e xame de corpo de delito e; em relação ao mérito, sobre todo o contido na apelação.
+Desse modo, não é possível acolher a tese defensiva, em razão da ausência de prequestionamento e incidência do óbice da Súmula n. 211 do STJ, além de não configurar a ofensa ao art. 619, porque não extraído das razões recursais que a arguição específica dei xou de ser analisada pela Corte de Justiça.
+Ante o exposto, acolho parcialmente os embargos declaratórios, sem efeitos infringentes, com fundamento no art. 264, § 1º do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
