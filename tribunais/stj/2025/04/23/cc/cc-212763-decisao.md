@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo da 5ª Vara Federal de Uberlândia/MG, o suscitado, e o Juízo da 18ª Vara da Seção Judiciária do Distrito Federal, o suscitante.
+Na origem, a execução fiscal foi proposta contra devedor domiciliado em Brasília/DF, circunstância que motivou o declínio, de ofício, pelo Juízo suscitado (fl. 15) antes mesmo da citação.
+Ao receber os autos, o Juízo da 18ª Vara Federal do Distrito Federal enfatizou que a competência regida pelo domicílio do devedor tem caráter relativo, razão pela qual não poderia ser reconhecida sem provocação, como fez o Juízo suscitado, que, invocando a Súmula 33/STF, encaminhou os autos ao TRF da 1ª Região (fls. 19/20).
+O feito foi remetido a este STJ porque, com o decorrer dos anos, foi criado o TRF da 6ª Região, de modo que, atualmente, os Juízos envol vidos no incidente são vinculados a Tribunais diferentes.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Assiste razão ao Juízo suscitante. Não pode ser reconhecida, de ofício, a incompetência baseada no domicílio do devedor. É o que diz a Súmula 33/STJ, aplicável aos processos de execução de um modo geral. Confiram-se:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. COMPETÊNCIA. EXECUÇÃO FISCAL PROPOSTA NA 18ª VARA FEDERAL DE SALVADOR/BA. COMPETÊNCIA RELATIVA. IMPOSSIBILIDADE DE DECLARAÇÃO DA INCOMPETÊNCIA DO JUÍZO DE OFÍCIO.  ..  2. A Ação de Execução Fiscal foi proposta na Seção Judiciária do Estado da Bahia, contudo o Juiz da 18ª Vara Federal de Salvador/BA declinou de sua competência para a Seção Judiciária do Paraná, visto que o domicílio da parte executada se encontra "sob a jurisdição de outro TRF, desde antes do ajuizamento da ação." Além disso, asseverou o magistrado em sua decisão, que seria evitada a expedição de "diversos ofícios e cartas precatórias para viabilizar o cumprimento de todos os atos pertinentes á persecução executiva." . O Juiz suscitante não aceitou sua competência, tendo em vista o teor do enunciado na Súmula 58 desta Corte. 4. Com razão o Juízo suscitante, porquanto a incompetência relativa deverá ser alegada como questão preliminar de contestação (art. 64 do CPC), não podendo ser declarada de ofício, como fez o Juízo suscitado. 5. Conflito de Competência conhecido a fim de declarar competente para processar o feito o Juízo da 18ª Vara Federal de Salvador/BA.
+(CC 167.679/PR, relator Ministro Herman Benjamin, DJe de 7/5/2020.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. COMPETÊNCIA DO JUÍZO DA COMARCA DO DOMICÍLIO DO EXECUTADO. INCOMPETÊNCIA RELATIVA. IMPOSSIBILIDADE DE DECLARAÇÃO DE OFÍCIO. SÚMULA 33/STJ. LIDE COM O MUNICÍPIO DE POÁ. PRETENSÃO DE RECONHECER A INEXISTÊNCIA. IMPOSSIBILIDADE DE ANÁLISE. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - Tratando-se de competência relativa, somente o Requerido pode suscitar a incompetência do Juízo, mediante exceção, não sendo possível a declaração de ofício, a teor da Súmula 33 desta Corte.
+ ..
+(AgInt no REsp 2.031.882/SP, relatora Ministra Regina Helena Costa, DJe de 17/2/2023.)
+Ausente a arguição de incompetência pela parte demandada, indevido o declínio de ofício realizado pelo Juízo suscitado. Nesse mesmo sentido, confiram-se, ainda, CC 210.645/SP, Ministro Teodoro Silva Santos, DJe de 7/2/2025; e CC 208.661/RJ, Ministra Maria Thereza de Assis Moura, DJe de 28/10/2024.
+ANTE O EXPOSTO, com fundamento no art. 34, XXII, do RISTJ, conheço do conflito a fim de declarar competente para processar a demanda o Juízo federal.
+Dê-se ciência aos Juízos envolvidos e ao MPF. Publique-se.
+EMENTA
