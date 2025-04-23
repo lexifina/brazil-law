@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por DIRVANDIL DE SENA DA ROSA GONCALVES contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial dirigido em oposição ao acórdão prolatado na Apelação Cível n. 5011048-61.2016.4.04.7112, assim ementado (fls. 1140-1141):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PROCESSUAL CIVIL. PRESCRIÇÃO QUINQUENAL. INOCORRÊNCIA. LABOR EXERCIDO EM CONDIÇÕES ESPECIAIS. DIREITO ADQUIRIDO. CONSTRUÇÃO CIVIL. CATEGORIA PROFISSIONAL. INSTRUÇÃO DEFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. A prescrição quinquenal atinge as prestações anteriores ao quinquênio que antecede a ação, nos termos do art. 103 da Lei nº 8.213/1991. Não há se falar, no entanto, de suspensão do prazo quando já implementada a prescrição quinquenal.
+2. Comprovado o exercício de atividade especial, conforme os critérios estabelecidos na lei vigente à época do exercício, o segurado tem direito adquirido ao cômputo do tempo de serviço como tal.
+3. Até 28/04/1995, é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29/04/1995, necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; e, a contar de 06/05/1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+4. Até 28 de abril de 1995, as atividades de pedreiro e de servente, exercidas em obra de construção civil, enquadram-se como especiais, pela categoria profissional, em conformidade com o código 2.3.3 do Decreto nº 53.831/1964.
+5. Em demandas previdenciárias, nos casos em que houver ausência ou insuficiência de provas do direito reclamado, o processo deve ser extinto sem julgamento de mérito. Precedente da Corte Especial do Superior Tribunal de Justiça, em sede de recurso representativo de controvérsia (CPC, art. 543-C), lavrado no REsp n.º 1.352.721/SP (Rel. Min. Napoleão Nunes Maia Filho, julgado em 16/12/2015).
+6. Não satisfeitos os requisitos legais, a parte não tem direito à aposentadoria especial. Faz jus, todavia, à revisão da RMI do benefício de que já é titular, mediante averbação e conversão em comum dos períodos reconhecidos como tempo especial.
+7. Diante do reconhecimento da inconstitucionalidade do uso da TR como índice de correção monetária (Tema 810 do STF), aplicam-se, nas condenações previdenciárias, o IGP-DI de 05/96 a 03/2006 e o INPC a partir de 04/2006. Por outro lado, quanto às parcelas vencidas de benefícios assistenciais, deve ser aplicado o IPCA-E.
+8. Os juros de mora incidem a contar da citação, no percentual de 1% ao mês até 29/06/2009 e, a partir de então, segundo a remuneração oficial da caderneta de poupança, calculados sem capitalização.
+9. A partir de 09/12/2021, para fins de atualização monetária e juros de mora, deve incidir o art. 3º da Emenda Constitucional n.º 113, segundo o qual, nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (SELIC), acumulado mensalmente. As eventuais alterações legislativas supervenientes devem ser igualmente observadas.
+É o relatório.
+Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência da Súmula n. 7 do STJ.
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz da tese veiculada no apelo nobre, qual seja, "apesar das normas previdenciárias exigirem a apresentação de prova documental para o reconhecimento de tempo laborado em atividade especial, tal condição deve ser relativizada" (fl. 1248), abrindo-se espaço para a produção d os demais meios de provas, especialmente, pericial, visando a regular solução do conflito, de que maneira não seria necessária a incursão ao campo fático-probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2021.)
+Agravo interno improvido. (AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt -Desembargador Convocado do TRF-5ª Região -, Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do Código de Processo Civil). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+ ..
+5. Constitui ônu s da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO (SÚMULA N. 7 DO STJ). AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
