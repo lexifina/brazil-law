@@ -1,0 +1,5 @@
+ESTADO DE ALAGOAS GABINETE DO GOVERNADOR
+
+LEI Nº 9.532, DE 16 DE ABRIL DE 2025.
+
+DISPÕE SOBRE A INSTITUIÇÃO DO DIA DO ALAGOANO. O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
