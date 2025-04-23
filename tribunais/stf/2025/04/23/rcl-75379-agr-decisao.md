@@ -1,0 +1,119 @@
+DECISÃO:
+
+    Trata-se de tempestivo agravo regimental interposto por Pedro Ranche de Andrade (e-doc. 31) contra decisão monocrática mediante a  qual julguei procedente a reclamação para cassar o ato reclamado de reconhecimento do vínculo de emprego entre as partes, por entender que houve afronta às teses firmadas pelo STF no julgamento da ADPF nº 324, da ADC nº 48, das ADI nºs 3.991 e 5.625 e do RE nº 958.252 (Tema nº 725 da Repercussão Geral) (e-doc. 9).
+
+    O agravante alega que a decisão ora agravada merece ser reformada, pois
+
+    “em momento algum dos autos principais trabalhista houve PEDIDO ou mesmo RECONHECIMENTO DE VÍNCULO EMPREGATÍCIO, posto que o obreiro já possuía CONTRATO DE TRABALHO REGISTRADO FORMALMENTE.
+
+    Assim, a reclamação trabalhista não trata dos temas em análise perante esse C. Tribunal e tal decisão liminar não pode prevalecer, sob pena de prejudicar todo processado perante aquela Especializada, que já se encontra em estágio avançado e final” (e-doc. 31, p. 5).
+
+    Sustenta que
+
+    “[a]inda que assim não o fosse, a reclamação trabalhista trata APENAS de SALÁRIO MARGINAL, ou seja, reconhecimento de remuneração paga por fora ao EMPREGADO FORMALMENTE REGISTRADO, sendo certo que tal condenação fundou-se em premissas fáticas que apontavam para a existência de tal verba sabidamente reconhecida, circunstância que não pode ser revisitada em sede de reclamação sem revolvimento fático-probatório” (e-doc. 31, p. 6).
+
+    Prossegue afirmando que,
+
+    “[n]o presente caso, à reclamação constitucional foi dado o valor ínfimo de R$ 10.000,00 (dez mil reais), sem qualquer relação com os fatos envolvidos.
+
+    Os autos principais – reclamatória trabalhista que visa ser “cassada” por esse E. STF, já está em estágio 7 avançado de execução, com valor homologados na cifra de R$ 2.666.975,43 em 06/2023.
+
+    Posto isto, deve ser de ofício retificado o valor da causa para que corresponda ao valor econômico ATUALIZADO dos autos principais” (e-doc. 31, p. 6).
+
+    Defende, ainda, que
+
+    “[i]mportante arguir a nulidade nos autos por falta de citação da empresa “TECELO ENGENHARIA E CONSULTORIA LTDA.”, que é parte interessada e envolvida com a presente demanda e não está constituída nos autos” (e-doc. 31, p. 7).
+
+    Reitera que
+
+    “o pedido inicial nunca foi de reconhecimento de vínculo, fato incontroverso nos autos, mas sim de reconhecimento de salário marginal e diferenças devidas pela sua integração, salário utilidade e reajuste salarial, nítida discussão de “CLT FLEX” e nunca de “Pejotização ou terceirização” (e-doc. 31, p. 9).
+
+    Argumenta, por fim, que
+
+    “[a] conduta d[a reclamante] da presente reclamação constitucional, que ALTERA OS FATOS ORIGINARIOS em busca de uma decisão “salvadora” totalmente contrária ao quanto já analisado e decidido em seara trabalhista, beira à litigância de má-fé, (...) devendo ser coibida mediante a incidência da multa prevista no artigo 81 do CPC” (e-doc. 31, p. 10).
+
+    Requer o provimento do recurso para julgar improcedente a presente reclamação, bem como a retificação do valor da causa e a condenação de litigância de má-fé da parte reclamante.
+
+    É o relatório.
+
+    Decido.
+
+    Compulsados os autos, verifico que julguei procedente a reclamação para cassar o ato reclamado de reconhecimento do vínculo de emprego entre as partes, por entender que houve afronta às teses firmadas pelo STF no julgamento da ADPF nº 324, da ADC nº 48, das ADI nºs 3.991 e 5.625 e do RE nº 958.252 (Tema nº 725 da Repercussão Geral) (e-doc. 9).
+
+    A decisão ora agravada contempla os seguintes fundamentos:
+
+    Compulsados os autos, verifico que a Justiça Especializada reputou a existência de vínculo de emprego desconsiderando o contrato de prestação de serviços firmado entre a reclamante e empresa constituída pela parte beneficiária, que continua em atividade como é possível observar por meio de consulta eletrônica no site da Receita Federal do Brasil, como se vê nos trechos de interesse do pronunciamento:
+
+    “a 1ª reclamada tenta fazer o Poder Judiciário acreditar que o reclamante, durante todo o longo contrato de trabalho recebeu salários na quantia aproximada de R$ 16.000,00 mensais, mesmo confessando em seu recurso que o reclamante, apenas no cartão corporativo, chegava a gastar cerca de R$ 100.000,00 mensais, além dos demais benefícios que lhe foram concedidos.
+
+    Portanto, ainda que não existissem provas do salário marginal, o fato de o reclamante ser alto dirigente, trabalhando para várias empresas do grupo empresarial, que possui milhares de empregados e movimenta obras de centenas de milhões ou bilhões de reais, já remete à conclusão de que ele recebia valores mais elevados que aqueles constantes dos holerites.
+
+    No entanto, além dos documentos comprobatórios, a prova testemunhal também é farta quanto ao procedimento irregular no recebimento de valores.
+
+    A testemunha Sra. Gracie disse que: "os principais executivos eram tratados pela empresa parte CLT e parte PJ, na 1ª reunião da depoente com o Sr(a). Reinaldo foi por este dito que esta era a forma de contratação, CLT e PJ ou apenas PJ (...)" a testemunha Sr. Arã narrou que sendo engenheiro da 1ª reclamada, primeiro trabalhou como empregado e depois passou a emitir notas fiscais; por fim, a testemunha Thalita também narrou que quanto ao reclamante, o procedimento era "parte menor como CLT e uma parte maior emitindo nota".
+
+    Dessa maneira, resta amplamente provado não apenas que o reclamante, como já exposto no item anterior deste acórdão, era diretor, conselheiro e administrador das empresas reclamadas, bem como que auferia parte do valor salarial de forma irregular, emitindo notas fiscais através da empresa TECLOG (TECELO) apenas para fraudar o efeito expansionista do salário previsto na CLT.
+
+    Nesse sentido, resta evidente que o contrato mantido entre a 1ª reclamada e a empresa TECLOG (TECELO) é fraudulento e nulo, e formulado apenas para fraudar direitos trabalhistas, violando o art. 9º da CLT. (e-Doc 5, p. 16)
+
+    Nos julgamentos da ADPF nº 324/DF e do RE nº 958.252/MG (representativo da controvérsia do Tema nº 725 da repercussão geral), realizados conjuntamente na sessão plenária de 30/8/18, o STF concluiu, após amplo debate, pela compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho, conclusão explicitada pelo Ministro Luiz Fux na ementa do acórdão exarado no referido recurso extraordinário. Vide:
+
+    “[...] 4. Os valores do trabalho e da livre iniciativa, insculpidos na Constituição (art. 1º, IV), são intrinsecamente conectados, em uma relação dialógica que impede seja rotulada determinada providência como maximizadora de apenas um desses princípios, haja vista ser essencial para o progresso dos trabalhadores brasileiros a liberdade de organização produtiva dos cidadãos, entendida esta como balizamento do poder regulatório para evitar intervenções na dinâmica da economia incompatíveis com os postulados da proporcionalidade e da razoabilidade. [...] 9. A terceirização não fragiliza a mobilização sindical dos trabalhadores, porquanto o art. 8º, II, da Constituição contempla a existência de apenas uma organização sindical para cada categoria profissional ou econômica, mercê de a dispersão territorial também ocorrer quando uma mesma sociedade empresarial divide a sua operação por diversas localidades distintas. [...] 11. A cisão de atividades entre pessoas jurídicas distintas não revela qualquer intuito fraudulento, consubstanciando estratégia, garantida pelos artigos 1º, IV, e 170 da Constituição brasileira, de configuração das empresas para fazer frente às exigências dos consumidores, justamente porque elas assumem o risco da atividade, representando a perda de eficiência uma ameaça à sua sobrevivência e ao emprego dos trabalhadores. [...] 16. As leis trabalhistas devem ser observadas por cada uma das empresas envolvidas na cadeia de valor com relação aos empregados que contratarem, tutelando-se, nos termos constitucionalmente assegurados, o interesse dos trabalhadores. [...] 21. O escrutínio rigoroso das premissas empíricas assumidas pela Corte de origem revela insubsistentes as afirmações de fraude e precarização, não sendo suficiente para embasar a medida restritiva o recurso meramente retórico a interpretações de cláusulas constitucionais genéricas, motivo pelo qual deve ser afastada a proibição, em homenagem às liberdades fundamentais consagradas na Carta Magna (art. 1º, IV, art. 5º, II, e art. 170). 22. Em conclusão, a prática da terceirização já era válida no direito brasileiro mesmo no período anterior à edição das Leis nº. 13.429/2017 e 13.467/2017, independentemente dos setores em que adotada ou da natureza das atividades contratadas com terceira pessoa, reputando-se inconstitucional a Súmula nº. 331 do TST, por violação aos princípios da livre iniciativa (artigos 1º, IV, e 170 da CRFB) e da liberdade contratual (art. 5º, II, da CRFB) [...]” (Plenário, DJe de 13/9/19).
+
+    Essa conclusão foi veiculada, também, na ementa do acórdão formado na ADPF nº 324/DF, de relatoria do Ministro Roberto Barroso:
+
+    “[...] O direito do trabalho e o sistema sindical precisam se adequar às transformações no mercado de trabalho e na sociedade. 2. A terceirização das atividades-meio ou das atividades-fim de uma empresa tem amparo nos princípios constitucionais da livre iniciativa e da livre concorrência, que asseguram aos agentes econômicos a liberdade de formular estratégias negociais indutoras de maior eficiência econômica e competitividade. 3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações. 4. Para evitar tal exercício abusivo, os princípios que amparam a constitucionalidade da terceirização devem ser compatibilizados com as normas constitucionais de tutela do trabalhador, cabendo à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias (art. 31 da Lei 8.212/1993) [...]” (Plenário, DJe de 6/9/19).
+
+    Entendo, ainda, que o julgado na ADC nº 48 e na ADI nº 3.961 reforça o juízo de procedência do pedido nos autos. Nesse precedente, restou consignado o seguinte:
+
+    “2. É legítima a terceirização das atividades-fim de uma empresa. Como já foi decidido pelo Supremo Tribunal Federal, a Constituição não impõe uma única forma de estruturar a produção. Ao contrário, o princípio constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias empresariais dentro do marco vigente (CF/1988, art. 170). A proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988, art. 7º). Precedente: ADPF 524, Rel. Min. Luís Roberto Barroso.” (ADC nº 48, Rel. Min. Roberto Barroso, Plenário, DJe de 19/5/20 - grifos nossos).
+
+    Há, ainda, precedentes do STF nos quais o julgado na ADPF nº 324 e a tese do Tema nº 725 RG justificaram a procedência da reclamação para afirmar a licitude do fenômeno da contratação de pessoa jurídica unipessoal para prestação de serviço a empresa tomadora de serviço, destacando-se não apenas a compatibilidade dos valores do trabalho e da livre iniciativa na terceirização do trabalho assentada nos precedentes obrigatórios, como também a ausência de condição de vulnerabilidade na opção pelo contrato firmado na relação jurídica estabelecida a justificar a proteção estatal por meio do Poder Judiciário. Vide:
+
+    [...]
+
+    Entendo que as razões das decisões da Justiça do Trabalho não revelam peculiaridades do caso concreto que i) justifiquem o afastamento dos precedentes vinculantes do Supremo Tribunal Federal nos sentido de que “[a] proteção constitucional ao trabalho não impõe que toda e qualquer prestação remunerada de serviços configure relação de emprego (CF/1988, art. 7º)” (ADC nº 48, Rel. Min. Roberto Barroso, Plenário) e, assim, ii) fundamentem a desconsideração do contrato firmado entre as partes, nesse ponto especialmente considerando o postulado constitucional da liberdade econômica e sua compatibilidade com os valores sociais do trabalho.
+
+    Ressalto que a decisão na presente reclamatória não impede que eventual inadimplemento de obrigação do contrato seja solucionado nos autos, ficando adstrita a ordem ao afastamento do vínculo de emprego.
+
+    Pelo exposto, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, julgo procedente a presente reclamação para cassar o acórdão do Tribunal Regional do Trabalho da 2ª Região, nos autos do Processo nº 1000266-25.2019.5.02.0033, devendo a autoridade reclamada proceder a nova análise dos autos, à luz dos precedentes do STF de observância obrigatória e da decisão na presente reclamatória.
+
+    Tendo em vista os autos estarem tramitando atualmente perante o Tribunal Superior do Trabalho, à Secretaria para que inclua referida Corte como autoridade reclamada.
+
+    Envie-se cópia dessa decisão às autoridades reclamadas para que juntem aos autos do processo em referência, dando ciência do trâmite da presente ação à parte beneficiária da decisão ora questionada para, querendo, apresentar recurso no STF, comprovando a data em que foi notificada.
+
+    Observe-se, contudo, que o Plenário do Supremo Tribunal Federal, por maioria, reconheceu a repercussão geral da matéria constitucional versada nestes autos, dando ensejo ao Tema nº 1389 (ARE n. 1532603), no qual será apreciada a “Competência e ônus da prova nos processos que discutem a existência de fraude no contrato civil/comercial de prestação de serviços; e a licitude da contratação de pessoa jurídica ou trabalhador autônomo para essa finalidade”.
+
+    No dia 14 de abril de 2025, o Relator do ARE n. 1532603, Min. Gilmar Mendes, determinou a suspensão nacional dos processos, nos seguintes termos:
+
+“Conforme disposto no art. 1.035, § 5º, do CPC, “Reconhecida a repercussão geral, o relator no Supremo Tribunal Federal determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional”.
+
+[...]
+
+No caso dos autos, está em discussão: 1) a competência da Justiça do Trabalho para julgar as causas em que se discute a fraude no contrato civil de prestação de serviços; 2) a licitude da contratação de trabalhador autônomo ou pessoa jurídica para a prestação de serviços, à luz do entendimento firmado pelo STF no julgamento da ADPF 324, que reconheceu a validade constitucional de diferentes formas de divisão do trabalho e a liberdade de organização produtiva dos cidadãos; e 3) a questão referente ao ônus da prova relacionado à alegação de fraude na contratação civil, averiguando se essa responsabilidade recai sobre o autor da reclamação trabalhista ou sobre a empresa contratante.
+
+[...]
+
+Feitas essas considerações, entendo necessária e adequada a aplicação do disposto no art. 1.035, § 5º, do CPC, ao caso dos autos, para suspender o processamento de todas as ações que tramitem no território nacional e versem sobre os assuntos discutidos nestes autos. Entendo que essa medida impedirá a multiplicação de decisões divergentes sobre a matéria, privilegiando o princípio da segurança jurídica e desafogando o STF, permitindo que este cumpra seu papel constitucional e aborde outras questões relevantes para a sociedade.
+
+Ante o exposto, determino a suspensão nacional da tramitação de todos os processos que tratem das questões mencionadas nos presentes autos, relacionadas ao Tema 1.389 da repercussão geral, até julgamento definitivo do recurso extraordinário”. (Grifei).
+
+ Logo, a superveniência do reconhecimento da repercussão geral no Tema n. 1389 da RG (ARE n. 1532603) e a ordem nacional de suspensão de processos com a temática constituem mudança na moldura jurídica que impõe seja dada parcial procedência à presente reclamação para cassar a decisão da Justiça do Trabalho, determinando-se a observância da supracitada ordem de suspensão nacional de processos cuja discussão envolva o instituto da “pejotização” e seus desdobramentos, nos  termos  da supramencionada decisão.
+
+ Trata-se de alteração jurídica relevante que gera reflexos imediatos na marcha processual, devendo ser considerada pelo órgão julgador de ofício ou a requerimento da parte, nos termos do art. 493 do Código de Processo Civil (Lei n. 13.105/2015), que assim preceitua, in verbis:
+
+"Art. 493. Se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento do mérito, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a decisão."
+
+ Pelo exposto, dou provimento parcial ao agravo e reconsidero a decisão agravada para, nos termos do art. 161, parágrafo único, do Regimento Interno desta Suprema Corte, cassar o acórdão do Tribunal Regional do Trabalho da 2ª Região, nos autos do Processo nº 1000266-25.2019.5.02.0033, e determinar a observância da supracitada ordem de suspensão nacional de processos determinada nos autos do ARE n. 1532603 (Tema n. 1389 da RG).
+
+    Envie-se cópia dessa decisão às autoridades reclamadas para que juntem aos autos do processo em referência, dando ciência do trâmite da presente ação à parte beneficiária da decisão ora questionada para, querendo, apresentar recurso no STF, comprovando a data em que foi notificada.
+
+    Publique-se.
+
+    Brasília, 23 de abril de 2025.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
