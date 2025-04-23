@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei formulado por Carlos Aparecido dos Santos, com fundamento nos arts. 1º da Resolução/STJ 12/2009 e 18, § 3º, da 12.153/2009, sob o argumento de que o acórdão proferido pela 2ª Turma Recursal do Tribunal de Justiça do Paraná "diverge dos precedentes do próprio TJPR, de outras turmas recursais e do STJ".
+Sustenta o requerente que a jurisprudência do STJ consolidou-se no sentido de que o não fornecimento à parte do link de acesso para a audiência virtual configura violação aos princípios do contraditório e da ampla defesa, sendo o ato processual passível de nulidade.
+Acrescenta que a condenação em danos morais contraria a Súmula 385/STJ ("Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento"), bem como a orientação de inexistência de dano moral decorrente de mero inadimplemento contratual.
+Assim delimitada a questão, observo que o presente Pedido de Uniformização de Jurisprudência foi protocolado no dia 28.2.2025, com fundamento na Resolução n. 12/2009 desta Corte e na Lei n. 12.153/2009.
+Ocorre que a Resolução n. 12/2009, que regulamentava o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão proferido por turma recursal e a jurisprudência desta Corte, não se aplica ao presente caso porque, muito antes disso, foi revogada pela Emenda Regimental n. 22, de 16 de março de 2016.
+Ademais, a Lei 12.153/2009, "dispõe sobre os Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios", enquanto o presente pedido tem origem em ação de indenização ajuizada contra o requerente perante o Juizado Especial Cível de Realeza/PR, sujeito às regras da Lei 9.099/1995.
+Verifico, de outra parte, que o Regimento Interno do Superior Tribunal de Justiça assim estabelece sobre o Pedido de Uniformização de Interpretação de Lei:
+Art. 67.
+(..)
+Parágrafo único. O Presidente resolverá, mediante instrução normativa, as dúvidas que se suscitarem na classificação dos feitos e papéis, observando-se as seguintes normas:
+(..)
+VIII-A - a classe Pedido de Uniformização de Interpretação de Lei (PUIL) compreende a medida interposta contra decisão: a) da Turma Nacional de Uniformização no âmbito da Justiça Federal que, em questões de direito material, contrarie súmula ou jurisprudência dominante no Superior Tribunal de Justiça; b) da Turma Recursal dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça; e c) das Turmas de Uniformização dos Juizados Especiais da Fazenda Pública no âmbito dos Estados, do Distrito Federal, dos Territórios e dos Municípios quando a orientação adotada pelas Turmas de Uniformização contrariar súmula do Superior Tribunal de Justiça; (grifei)
+Diante disso, não existe previsão legal e regimental para o cabimento do presente pedido de uniformização de jurisprudência, dado que interposto contra acórdão proferido no âmbito de juizados especiais do Estado do Paraná, não por Turmas de Uniformização de Jurisprudência, mas por Turma Recursal.
+Em face do exposto, não conheço do pedido de uniformização.
+Intimem-se.
+EMENTA
