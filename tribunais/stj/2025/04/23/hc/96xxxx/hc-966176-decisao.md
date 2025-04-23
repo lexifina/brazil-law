@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de DAMIAO JORGE DE PAULO MOURA - condenado como incurso nos crimes de tráfico de drogas e associação para o mesmo fim -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (Apelação Criminal n. 0000394-52.2019.815.0000), comporta acolhimento.
+Com efeito, busca a impetração o redimensionamento da pena imposta pelo Juízo de Direito da Vara Única da comarca de Coremas/PB (Ação Penal n. 0000361-77.2009.815.0561), ao argumento de estar excessiva a pena fixada para o crime de associação para o tráfico, em mais do que o dobro, mesmo sendo usada as duas circunstâncias (sic) para aumentar a pena, não alcançaria (sic) esse patamar (fl. 6).
+De fato, em que pese o writ tenha sido apresentado com o objetivo de revisar, novamente, a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, do atento exame dos autos, observo a ocorrência do ilegal constrangimento na fixação da pena-base para o crime de associação para o tráfico.
+O Magistrado singular, corroborado pelo Tribunal de origem, aumentou a pena na primeira fase, com fundamento no art. 42 da Lei n. 11.343/2006, considerando a natureza e quantidade de droga apreendida. No entanto, no caso concreto, a quantidade do entorpecente confiscado (194,2 g de maconha e 42 pedras de cocaína) não é capaz de justificar a exasperação em patamar superior ao dobro, 6 anos e 6 meses de reclusão, uma vez que não desborda do tipo penal ou denota maior periculosidade do acusado (HC n. 868.502/PE, Ministra Daniela Teixeira, Quinta Turma, DJe 19/11/2024).
+Redimensionando-se a reprimenda imposta, temos:
+Reduzida proporcionalmente a pena-base, fica a reprimenda provisoriamente fixada em 4 anos de reclusão e 300 dias-multa. Na segunda etapa, não houve o reconhecimento de agravantes ou atenuantes. Na terceira etapa, ausentes causas de aumento ou de diminuição da pena, resultando a pena final nesse mesmo patamar. Em concurso material, a pena final do paciente passa a ser de 11 anos de reclusão e 1.050 dias-multa.
+O regime de cumprimento da pena permanece sendo o fechado.
+Em face do exposto, concedo a ordem impetrada para redimensionar a pena relativa ao crime de associação para o tráfico, resultando a reprimenda definitiva em 4 anos de reclusão e 300 dias-multa e, em concurso material, para ambos os delitos, em 11 anos de reclusão e ao pagamento de 1.050 dias-multa (Juízo de Direito da Vara Única da comarca de Coremas/PB -Ação Penal n. 0000361-77.2009.815.0561.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. 194,2 G DE MACONHA E 42 PEDRAS DE COCAÍNA. PRETENSÃO DE REVISAR NOVAMENTE A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA PARA O CRIME DE ASSOCIAÇÃO. REPRIMENDA-BASE EXASPERADA EM EXCESSO. REDIMENSIONAMENTO DA PENA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida.
