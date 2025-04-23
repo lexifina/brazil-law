@@ -1,0 +1,13 @@
+DECISÃO
+A Universidade Federal da Paraíba, às fls. 2952-2955, informa a ocorrência de fato novo superveniente capaz de influenciar no julgamento do recurso especial, qual seja, a afetação do Tema 1.311/STJ, coincidente com o mérito recursal.
+Defende que o s obrestamento dos recursos especiais deve se dá não apenas pelo Tema 1.255/STF da repercussão geral, como já determinado, mas também em função do Tema 1.311/STJ dos recursos especiais repetitivos. Pugna, ainda, pelo restabelecimento do efeito suspensivo anteriormente concedido.
+É o relatório. Decido.
+Na hipótese dos autos, verifica-se que essa relatoria, às fls. 2943-2944 e 2945 determinou o sobrestamento, na origem, do recurso especial da ADUFPB/Seção Sindical para aguardar o julgamento do Tema 1.255/STF da repercussão geral e, ainda, julgou prejudicada a análise do recurso especial interposto pela Universidade Federal da Paraíba.
+Ocorre que, como defende a ora requerente, a questão jurídica objeto do recurso especial interposto pela Universidade Federal da Paraíba diz respeito ao Tema 1.311/STJ, que versa sobre o seguinte ponto: "saber se o curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença".
+Consoante a jurisprudência desta Corte, encontrando-se o tema afetado ao rito dos recursos repetitivos ou repercussão geral, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, a solução no recurso afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos artigos 1.039 e seguintes do CPC/2015.
+Nesse contexto, assiste razão à requerente quanto à necessidade do sobrestamento do presente feito até final julgamento dos Temas 1.255/STF e 1.311/STJ.
+Com efeito, somente após realizado o juízo de conformação, que representa o exaurimento da instância ordinária, é que os recursos especiais deverão ser encaminhados para esta Corte Superior, para serem analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Enfatize-se, por oportuno, que em razão da devolução dos autos à origem, eventual pedido de atribuição de efeito suspensivo ao recurso deve ser formulado ao presidente ou vice-presidente do tribunal local.
+Ante o exposto, determino a devolução dos autos ao Tribunal a quo, com a devida baixa nesta Corte, para que o exame dos recursos especiais interpostos pela ADUFPB/Seção Sindical e pela Universidade Federal da Paraíba ocorra somente após o julgamento final dos Temas 1.255/STF e 1.311/STJ.
+Publique-se. Intimem-se.
+EMENTA
