@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em benefício de JEFERSON ANDRE AMORIM DA SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL - TJRS proferido na Apelação Criminal n. 5115243-10.2021.8.21.0001/RS.
+Infere-se dos autos que o paciente foi condenado como incurso nas sanções do art. 33, § 4º, da Lei n. 11.343/2006, à pena de 2 anos, 2 meses e 20 dias de reclusão, inicialmente no regime aberto, substituída por medidas restritivas de direitos.
+Interposta apelação pela defesa, o Tribunal de Justiça negou provimento ao recurso, em acórdão ementado nesses termos (e-STJ fl. 30):
+"APELAÇÃO CRIMINAL. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. LEGALIDADE DA BUSCA PESSOAL. PRELIMINAR DE NUL IDADE DA PROVA AFASTADA. SUFICIÊNCIA PROBATÓRIA. CONDENAÇÃO MANTIDA.
+I. Caso em Exame:
+Recurso defensivo interposto contra sentença que condenou o acusado pelo crime de tráfico de drogas, nos termos do art. 33 da Lei nº 11.343/2006. A defesa argui preliminar de nulidade da prova decorrente de busca pessoal, alegando a ausência de fundada suspeita, bem como postulou absolvição por insuficiência probatória.
+II. Questão em Discussão:
+(i) Se a busca pessoal realizada sem mandado judicial, mas baseada em fundada suspeita, é válida, ã luz das circunstâncias que envolveram a abordagem:
+(ii) Se as provas apresentadas são suficientes para comprovar a materialidade e a autoria do delito de tráfico de drogas.
+III. Razões de Decidir:
+A preliminar de nulidade da prova foi rejeitada, pois os policiais observaram o acusado em um local conhecido pelo intenso tráfico de drogas, em atitude suspeita ao entregar entorpecentes a um indivíduo em um veículo. A visualização do ato de fornecimento de drogas por parte do acusado justificou a abordagem, configurando-se a fundada suspeita. No mérito, a materialidade e a autoria restaram devidamente comprovadas pelas provas documentais e pela prova oral colhida, que demonstram a prática de narcotraficância. As declarações dos policiais chis foram uniformes e corroboradas pelo próprio acusado, que admitiu estar no local para adquirir drogas, reforçando a credibilidade da prova testemunhal.
+IV. Dispositivo e Tese:
+Recurso desprovido. Sentença de condenação mantida. Tese de julgamento: "A realização de busca pessoal é lícita quando sustentada em fundada suspeita, corroborada por observação direta de atos característicos de tráfico de drogas, justificando a abordagem e apreensão de substâncias ilícitas."
+V. Jurisprudência e Leis Relevantes Citadas:
+Jurisprudência reinante citada: STJ, HC 859225 / RS, Ministra Relatora Damela Teixeira, Quinta Turma, julgado em 15/10/2024; STJ, HC 828S39 PE, Ministra Relatora Damela Teixeira, Quinta Turma, julgado em 05/11/2024; TJRS, Apelação Criminal  52515S7272023S210001, Segunda Câmara Criminal, Relatora Rosaura Marques Borba, Julgado em 31/10/2024."
+No presente writ, a Defensoria Pública do Estado do Rio Grande do Sul alega fundamentação inidônea para a majoração da pena-base, em patamar superior a 1/6, fração que seria usualmente adotada na jurisprudência do STJ.
+Aduz que a natureza lesiva da droga apreendida (crack) já está intrinsicamente vinculada ao tipo penal do tráfico e utilizá-la novamente como circunstância para incrementar a dosimetria configuraria bis in idem.
+Requer a concessão da ordem, em liminar e no mérito, para revisar a dosimetria.
+A liminar foi indeferida (e-STJ fls. 36/38).
+O Ministério Público Federal opinou pela concessão parcial da ordem, de ofício, para que, na primeira fase da dosimetria da pena, seja aplicada a fração de 1/6 pela valoração negativa da natureza da droga, levando-se em consideração a quantidade ínfima de substância entorpecente apreendida (e-STJ fls. 44/51).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de Revisão Criminal, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Todavia, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Cumpre salientar ser iterativa a jurisprudência desta Corte, espelhada no acórdão da Quinta Turma integrada por este Relator, de que a "dosimetria da pena e o seu regime de cumprimento inserem-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (AgRg no HC n. 865.664/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 14/5/2024, DJe de 23/5/2024).
+A sentença, mantida no acórdão impugnado, teceu o seguinte fundamento para a majoração da pena-base: "Sopesando as diretrizes dos artigos 59 do Código Penal e 42 da Lei nº 11.343/06, é imperativo que se leve em consideração na pena a natureza da droga comercializada e seu grau de nocividade. Sendo as drogas usualmente traficadas a maconha, a cocaína e o crack, nessa ordem crescente de danosidade, é razoável que o tráfico de maconha seja apenado a partir do mínimo, o de cocaína a partir do mínimo mais 1/6 e o de crack a partir do mínimo mais 1/3 e o de drogas sintéticas a partir do mínimo mais 06 meses. Destarte, utilizando esse critério, levando em consideração a natureza das drogas traficadas (crack), elevo a pena base na fração de 1/3, fixando-a em 06 (seis) anos e 08 (oito) meses de reclusão". (e-STJ fl. 32).
+Da leitura dos títulos judiciais, observa-se que a droga apreendida consiste em 10 pedras de crack pesando aproximadamente 1,2g.
+Nesse particular, " a  jurisprudência desta Corte Superior considera que a quantidade e a natureza das drogas, quando não expressivas, não justificam a exasperação da pena-base" (AgRg no REsp n. 2.108.475/PA, de minha relatoria, Quinta Turma, julgado em 19/11/2024, DJe de 25/11/2024).
+Ilustrando a aplicação do entendimento em caso da relatoria da Ministra Daniela Teixeira: "No Caso, o Tribunal de origem fixou a pena-base em 6 anos e 3 meses de reclusão e 750 dias-multa, diante da valoração negativa da quantidade e natureza das drogas apreendidas (2g de crack e 42g de cocaína). Ocorre que, a despeito da alta nocividade do crack e da cocaína, a quantidade de drogas apreendidas não foi relevante, de forma que não comporta o aumento da pena-base com fulcro no art. 42 da Lei de Drogas" (REsp n. 2.171.699/PR, Quinta Turma, julgado em 17/12/2024, DJEN de 26/12/2024).
+Constatado o constrangimento ilegal, passo ao recálculo da pena:
+Afastada a circunstância judicial, fixa-se a pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa.
+Na segunda fase, ausentes circunstâncias agravantes ou atenuantes.
+Na terceira fase, ficou reconhecida na origem a minorante do tráfico privilegiado no patamar de redução de 2/3, o que conduz à estabilização da pena definitiva de 1 ano e 8 meses de reclusão e 166 dias-multa.
+De acordo com o art. 44 do Código Penal, houve a substituição da pena privativa de liberdade por duas restritivas de direito, as quais ficam mantidas com a adaptação da prestação de serviços à comunidade ao número de horas em proporcionalidade ao redimensionamento da pena, nos termos do art. 46, §3º, do Código Penal.
+Ante o exposto, com base no artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus, mas concedo a ordem, de ofício, para redimensionar a pena do paciente conforme a fundamentação acima, mantidas as demais disposição do acór dão estadual.
+Publique-se. Intimem-se.
+EMENTA
