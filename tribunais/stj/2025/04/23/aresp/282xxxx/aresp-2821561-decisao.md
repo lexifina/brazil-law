@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto por SUPERMIX CONCRETO S.A. contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra acórdão prolatado em agravo de instrumento.
+A parte agravante insurgiu-se contra decisão que rejeitou sua exceção de pré-executividade. O Tribunal de origem negou provimento ao recurso tendo em vista a ausência de provas robustas com o seguinte resumo de ementa (fl. 471):
+EXECUÇÃO FISCAL. ISS E MULTA. DECISÃO QUE REJEITOU EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DO DECISUM RECORRIDO. INOCORRÊNCIA. RETROAÇÃO PREVISTA NO ART. 106 DO CÓDIGO TRIBUTÁRIO NACIONAL. DESCABIMENTO. AUSÊNCIA DE LEI NOVA MAIS BENÉFICA. CERTIDÃO DE DÍVIDA ATIVA QUE PREENCHE OS REQUISITOS LEGAIS. EXAME DE NÚMEROS ESPECÍFICOS QUE RECLAMA DILAÇÃO PROBATÓRIA INCABÍVEL NA ANGUSTA VIA DA EXCEPTIO. SUPOSTAS PRESCRIÇÕES ORIGINÁRIA E INTERCORRENTE. CRÉDITOS NÃO FULMINADOS. MULTA DE 50% DO VALOR DO TRIBUTO NÃO OSTENTA CARÁTER CONFISCATÓRIO. CONTRADITÓRIO E AMPLA DEFESA BEM EXERCIDOS. AGRAVO DE INSTRUMENTO DESPROVIDO.
+É o relatório.
+Decido.
+O agravo em recurso especial não pode ser conhecido.
+A Corte de origem inadmitiu o recurso especial diante da necessidade de revolvimento de fatos e provas do processo em relação à higidez do processo administrativo e da CDA (Súmula n. 7 do STJ). Todavia, nas razões do agravo de recurso especial, a parte agravante não impugnou de maneira apropriada a fundamentação atinente à referida súmula impeditiva.
+Compulsando detidamente os autos, verifico que a agravante restringiu-se a afirmar que "tal interpretação ignorou a amplitude da matéria discutida, vez que, ao contrário do sustentado, a discussão no tocante à nulidade da Certidão de Dívida Ativa INCLUSIVE SE PERFAZ MATÉRIA DE ORDEM PÚBLICA, PASSIVEL DE RECONHECIMENTO DE OFÍCIO PELO MAGISTRADO", que há "vasta jurisprudência reconhecendo a ilegalidade das CDAs que não preenche os requisitos mínimos, não possuindo certeza, liquidez e exigibilidade", e que "a discussão se iniciou em Exceção de Pré-Executividade, a qual sequer comprova dilação probatória" (fls. 530-532), sem contudo demonstrar a realização ou que realizou o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do óbice processual aplicado no caso concreto.
+Assim fazendo, não ficou esclarecido, à luz das teses veiculadas no apelo nobre, especialmente cotejando a fundamentação do acórdão recorrido, de que forma o exame dessas teses prescindiria da análise de elementos probantes, tal como explicitado na decisão que não admitiu o recurso especial.
+Assim, a jurisprudência:
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial,
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Destarte, verifica-se que deixou de ser observada a dialeticidade recursal exigida pelo art. 932, inciso III, do CPC/2015. Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
