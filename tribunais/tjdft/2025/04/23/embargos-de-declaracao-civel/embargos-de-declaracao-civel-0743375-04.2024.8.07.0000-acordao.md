@@ -1,0 +1,111 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0743375-04.2024.8.07.0000EMBARGANTE(S)BANCO DO BRASIL S/AEMBARGADO(S)CELI ROSALIA SOARESRelatorDesembargador ARQUIBALDO CARNEIRO
+ Acórdão Nº1992731
+
+EMENTA
+
+ DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AÇÃO INDENIZATÓRIA. PASEP. LEGITIMIDADE PASSIVA DO BANCO DO BRASIL. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. OBSERVÂNCIA DO TEMA 1150 DO STJ. EMBARGOS REJEITADOS.
+
+I. CASO EM EXAME
+1. Embargos de declaração opostos pelo BANCO DO BRASIL S/A contra acórdão que, em sede de agravo de instrumento, rejeitou a preliminar de ilegitimidade passiva da instituição e a alegação de necessidade de litisconsórcio com a União, mantendo a competência da Justiça Estadual para processar e julgar ação indenizatória relativa à má gestão de conta vinculada ao PASEP. O embargante sustenta omissão e contradição quanto à aplicação da tese firmada no Tema 1150 do STJ, alegando que a controvérsia envolveria a utilização de índices de correção definidos pelo Conselho Diretor do programa, o que atrairia a legitimidade da União.
+
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o acórdão embargado incorreu em omissão ou contradição ao reconhecer a legitimidade do Banco do Brasil para figurar no polo passivo da ação e afastar a necessidade de inclusão da União como litisconsorte passiva necessária, à luz da tese firmada no Tema 1150 do STJ.
+
+III. RAZÕES DE DECIDIR
+3. O acórdão embargado analisa expressamente a tese firmada no Tema 1150 do STJ, destacando que a controvérsia trata da alegada má gestão da conta vinculada ao PASEP por parte do Banco do Brasil, e não da adoção de critérios de atualização monetária fixados pelo Conselho Diretor do Fundo.
+
+4. A alegação de omissão é afastada, pois o acórdão enfrenta diretamente o argumento sobre a ilegitimidade passiva e a competência da Justiça Estadual, fundamentando sua decisão com base na interpretação da causa de pedir deduzida na petição inicial.
+
+5. O reconhecimento da legitimidade do Banco do Brasil está amparado no entendimento consolidado do STJ segundo o qual a instituição financeira é parte legítima para responder por falhas na prestação do serviço bancário relativo à administração das contas individuais do PASEP.
+
+6. A utilização dos embargos de declaração para rediscutir matéria já decidida é vedada, sendo inaplicável a pretensão de modificação do julgado com base em inconformismo com o resultado.
+
+7. A ausência de manifestação expressa sobre todos os dispositivos legais invocados não caracteriza omissão, conforme orientação pacífica dos tribunais superiores, bastando a fundamentação suficiente para embasar a conclusão adotada.
+
+8. Rejeitada também a tese de prequestionamento obrigatório, ante a adoção da teoria do prequestionamento ficto prevista no art. 1.025 do CPC.
+
+IV. DISPOSITIVO E TESE
+9. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ARQUIBALDO CARNEIRO - Relator, SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal e VERA ANDRIGHI - 2º Vogal, sob a Presidência do Senhor Desembargador ARQUIBALDO CARNEIRO, em proferir a seguinte decisão: CONHECIDOS. REJEITADOS. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 05 de Maio de 2025
+
+Desembargador ARQUIBALDO CARNEIROPresidente e Relator
+
+RELATÓRIO
+
+BANCO DO BRASIL S/A opôs embargos de declaração (ID 69397027) ao venerando acórdão de ID 68956659.
+
+Assim restou ementado o aludido acórdão:
+
+“AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. PASEP. TEMA 1150. LEGITIMIDADE DO BANCO DO BRASIL. LITISCONSÓRCIO NECESSÁRIO DA UNIÃO. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. PETIÇÃO INICIAL FUNDAMENTADA NAS ALEGAÇÕES DE SAQUES INDEVIDOS NA CONTA PIS/PASEP. MANUTENÇÃO DA DECISÃO.
+
+1. Trata-se de agravo de instrumento interposto pelo BANCO DO BRASIL S/A contra decisão interlocutória que rejeitou a preliminar de ilegitimidade passiva da União Federal e declarou a competência da Justiça Estadual para o processamento da Ação de Indenização por Danos Morais e Materiais ajuizada por correntista.
+
+2. A decisão agravada observou o Tema Repetitivo 1150, do STJ, que firmou a seguinte tese: “i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa” (REsp 1895936/TO, REsp 1895941/TO e REsp 1951931/DF). (g.n.)
+
+3. A ação não trata de índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sim, da responsabilidade decorrente da alegada má gestão do banco, consistente em supostas falhas que teriam sido por ele praticadas, como instituição bancária depositária, administradora do PASEP.
+
+4. Agravo não provido. Agravo interno prejudicado.” G.N.
+
+O Banco do Brasil, ora embargante, sustenta que o v. acórdão teria incorrido em omissão e contradição ao rejeitar a tese de ilegitimidade passiva e a necessidade de litisconsórcio com a União. Argumenta que o acórdão teria desconsiderado a existência de alegações e provas de que a controvérsia envolveria "a utilização de índices de correção diversos daqueles estabelecidos pelo Conselho Diretor do PASEP", o que afastaria sua responsabilidade e atrairia a legitimidade da União para a lide.
+
+Assevera que, conforme se extrairia dos documentos anexados aos autos originários, a parte autora pleitearia valores com base em critérios de atualização monetária diversos dos fixados pelo ente gestor do Fundo. Por esse motivo, segundo sustenta, o caso se encaixaria na parte final da tese firmada pelo STJ no Tema Repetitivo 1.150, em que se reconhece a ilegitimidade do Banco do Brasil quando se discute "a ausência de aplicação dos rendimentos estabelecidos pelo Conselho Diretor do referido programa".
+
+Afirma, ainda, que “o Banco do Brasil é mero depositário das quantias do PASEP, sem qualquer ingerência sobre a eleição dos índices de atualização dos saldos principais”, e que “a União deveria figurar no polo passivo da demanda, dada sua responsabilidade pela eleição dos índices de atualização”.
+
+Com base nesses argumentos, o embargante requer o acolhimento dos embargos de declaração para que se reconheça a omissão no acórdão recorrido e se declare, por conseguinte, a ilegitimidade passiva do Banco do Brasil, com o consequente redirecionamento da demanda à Justiça Federal, por suposta legitimidade exclusiva da União Federal.
+
+Respostas aos embargos apresentadas ao ID 69884618.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ARQUIBALDO CARNEIRO - Relator
+
+Os embargos de declaração constituem recurso de fundamentação vinculada e de efeito devolutivo restrito, uma vez que seu conteúdo se limita às hipóteses delineadas no artigo 1.022 do Código de Processo Civil, o que restou observado no caso dos autos.
+
+Assim, os embargos devem ser conhecidos.
+
+Conforme relatado, o embargante sustenta que o v. acórdão incorreu em omissão e contradição ao deixar de se manifestar sobre o Tema Repetitivo 1.150 do Superior Tribunal de Justiça e a alegada ilegitimidade passiva do Banco do Brasil e a necessidade de inclusão da União Federal no polo passivo da demanda, com consequente declínio de competência para a Justiça Federal.
+
+Entretanto, não assiste razão ao embargante.
+
+O acórdão embargado analisou de forma expressa e fundamentada as teses suscitadas no agravo, firmando posicionamento em conformidade com o entendimento consolidado no Tema Repetitivo 1.150 do Superior Tribunal de Justiça. Como bem assentado no julgado, “a ação não trata de índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sim, da responsabilidade decorrente da alegada má gestão do banco, consistente em supostas falhas que teriam sido por ele praticadas, como instituição bancária depositária, administradora do PASEP”.
+
+É justamente nesse contexto que se reconheceu a legitimidade do Banco do Brasil para figurar no polo passivo da ação, não havendo que se falar em omissão sobre o ponto. A alegação de que haveria discussão sobre a aplicação de “índices diversos” não altera a causa de pedir da autora, tal como deduzida na inicial e interpretada na decisão embargada. Eventual pretensão de rediscutir esse enquadramento ultrapassa os limites do art. 1.022 do CPC.
+
+Cumpre salientar que o entendimento do v. acórdão foi expresso no sentido de observância às teses do Tema 1.150 do STJ, não havendo omissão ou contradição a ser reconhecida, mas mera insatisfação quanto ao resultado do julgamento por parte do embargante. Vejamos (ID 67335044):
+
+“Após reexaminar os autos, verifico que não ocorreu qualquer alteração nas circunstâncias fáticas e jurídicas, de modo que não vislumbro motivos para modificar o entendimento por mim externado por ocasião do indeferimento do pedido liminar, razão pela qual peço vênia para reportar-me àquelas razões de decidir (ID 65170115). Vejamos: “Fazendo um juízo de prelibação sumária, próprio do exame das liminares, observa-se que, em tese, a r. decisão agravada observou o Tema Repetitivo 1150, do STJ, que firmou a seguinte tese: “i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa” (REsp 1895936/TO, REsp 1895941/TO e REsp 1951931/DF). (g.n.) Cumpre observar que, em tese, a ação não trata de índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sim, da responsabilidade decorrente da alegada má gestão do banco, consistente em supostas falhas que teriam sido por ele praticadas, como instituição bancária depositária, administradora do PASEP. A propósito, em tese, referido entendimento é o adotado por esta Corte de Justiça, inclusive, por esta Relatoria, verbis: APELAÇÃO. RECURSO ADEVISO. PASEP. BANCO DO BRASIL. LEGITIMIDADE PASSIVA. TEMA 1150 DO STJ. SALDO IRRISÓRIO. LAUDO PERICIAL. CRÉDITO APURADO. SENTENÇA MANTIDA. 1. Quanto à legitimidade passiva do Banco do Brasil, o STJ julgou, sob a sistemática dos recursos repetitivos, o Tema 1.150, tendo fixado a seguinte tese: “i) o Banco do Brasil possui legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao Pasep, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa”.  2. O Banco do Brasil, como mero gestor das contas individuais PASEP na atualização do saldo, deve se pautar pelas normas, diretrizes e critérios estabelecidos pelo Conselho Diretor do PIS-PASEP, com observância aos termos da Lei Complementar n. 26/1975 e do Decreto n. 4.751/2003. 3. Em relação ao suposto desfalque indevido em sua conta PASEP, o laudo pericial contábil concluiu que os cálculos apresentados pela autora aplicaram critério de atualização monetária diverso. Não obstante, apurou-se crédito estimado em R$ 3.504,18 na data de /1/2018, razão pela qual impõe-se a condenação do banco réu ao pagamento da diferença constatada. 4. Recurso da ré conhecido, em parte, e não provido. Recurso da autora conhecido e não provido. (Acórdão 1924877, 0729694-03.2020.8.07.0001, Relator(a): SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 6ª TURMA CÍVEL, data de julgamento: 18/09/2024, publicado no PJe: 02/10/2024.) (g.n.) DIREITO CIVIL E PROCESSUAL CIVIL. INDENIZATÓRIA. PASEP. TEMA 1150. PREJUDICIAL DO MÉRITO. PRESCRIÇÃO DECENAL. ACOLHIDA. 1. O c. Superior Tribunal de Justiça, em recente apreciação do Tema Repetitivo 1150, definiu que: (i) o Banco do Brasil tem legitimidade passiva ad causam para figurar no polo passivo de demanda na qual se discute eventual falha na prestação do serviço quanto a conta vinculada ao PASEP, saques indevidos e desfalques, além da ausência de aplicação dos rendimentos estabelecidas pelo Conselho Diretor do referido programa; (ii) a pretensão ao ressarcimento dos danos havidos em razão dos desfalques em conta individual vinculada ao PASEP se submete ao prazo prescricional decenal previsto pelo artigo 205 do Código Civil; e iii) o termo inicial para a contagem do prazo prescricional é o dia em que o titular, comprovadamente, toma ciência dos desfalques realizados na conta individual vinculada ao PASEP. 2. Como a ciência do desfalque – afirmado pela própria parte autora – ocorreu em 24/05/2006 e o ajuizamento da ação ocorreu em 11/07/2024, tem-se por evidenciada a prescrição decenal 3. Negou-se provimento ao apelo. (Acórdão 1912046, 0720924-16.2023.8.07.0001, Relator(a): ARQUIBALDO CARNEIRO PORTELA, 6ª TURMA CÍVEL, data de julgamento: 21/08/2024, publicado no PJe: 04/09/2024.) (g.n.) CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. PASEP. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO PARCIALMENTE NÃO CONHECIDO. ILEGITIMIDADE PASSIVA DO BANCO DO BRASIL. DISCUSSÃO SOBRE DELIBERAÇÕES DO CONSELHO DIRETOR DO PASEP. INEXISTÊNCIA. CAUSA PEDIR RESTRITA À ALEGAÇÃO DE SUPRESSÃO DE ENCARGOS REMUNERATÓRIOS E SAQUES INDEVIDOS PELO BANCO ADMINISTRADOR. LEGITIMIDADE DA INSTITUIÇÃO FINANCEIRA RECONHECIDA. PRESCRIÇÃO. PRAZO DECENAL. ART. 205 DO CC. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS DO SUPERIOR TRIBUNAL DE JUSTIÇA – STJ (TEMA 1150). RECURSO DESPROVIDO. DECISÃO MANTIDA. 1. Não se conhece de parte do recurso de agravo de instrumento diante da ausência de interesse recursal da parte recorrente. 2. Conforme decidido pelo Superior Tribunal de Justiça no Incidente Resolução de Demandas Repetitivas – IRDR (Tema nº 1150), emoldurando a causa de pedir alegação de má administração da conta individual do PASEP pelo Banco do Brasil, ao argumento de que a instituição financeira não teria aplicado a correção monetária e a remuneração definidas pelo órgão gestor (Conselho Diretor do PASEP), não há como afastar a legitimidade do banco réu para figurar no polo passivo da demanda. 3. O STJ decidiu, também no IRDR de Tema nº 1150, que as demandas propostas em face do Banco do Brasil, sociedade de economia mista que não se submete ao Decreto 20.910/32, fundamentadas em pretensão de ressarcimento decorrente da alegada má administração dos recursos repassados à conta individual do PASEP, configurada está relação jurídica de caráter privado, lastreada em responsabilidade civil contratual – e não aquiliana – sendo, portanto, aplicável o prazo prescricional decenal previsto no art. 205 do CC. 3.1. Em razão de não poderem os titulares dispor livremente dos recursos depositados em suas contas individuais, na forma do art. 4º da Lei Complementar 26/1975, ressalvadas as hipóteses do § 1º então vigente, não se pode considerar que a obrigação seria de trato sucessivo, pelo que o termo inicial para a contagem do prazo prescricional de 10 (dez) anos é a data da ciência do suposto valor corrigido a menor, ante a aplicação da teoria da actio nata, porquanto é da ciência da suposta lesão que nasceu ao autor a pretensão de reparação. 4. Recurso parcialmente conhecido e desprovido. (Acórdão 1805867, 0725403-60.2020.8.07.0000, Relator(a): ALFEU MACHADO, 6ª TURMA CÍVEL, data de julgamento: 24/01/2024, publicado no PJe: 16/02/2024.) (g.n.)  Desse modo, com a devida vênia, mas não se vislumbra, nesta cognição sumária, demonstração da probabilidade de provimento do recurso.´ Desse modo, ausente requisito cumulativo e imprescindível a liminar pleiteada, o indeferimento é medida que se impõe.” Cumpre salientar que a presente ação judicial não trata de índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sim, da responsabilidade decorrente da alegada má gestão do banco, consistente em supostas falhas que teriam sido por ele praticadas, como instituição bancária depositária, administradora do PASEP. Observo, assim, que as teses consistentes na ilegitimidade e na incompetência da Justiça Ordinária conflitam com o entendimento do col. Superior Tribunal de Justiça, que se manifesta pela legitimidade do Banco do Brasil S.A. para a demanda na qual se discute a responsabilidade por saques não identificados realizados na conta participante, como é o caso dos autos (ID 184359743 – Pág. 3, dos autos originais).”
+
+Revela-se, assim, a intenção do Embargante em perseguir a reapreciação do r. julgado, o que não é autorizado nesta seara.
+
+A propósito, o entendimento deste Egrégio, já à luz do novo Código de Processo Civil:
+
+“PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA PELOS ACLARATÓRIOS. VEDAÇÃO. PREQUESTIONAMENTO. 1. Ausente omissão e contradição afasta-se a alegação de vício no julgamento. 2. Os embargos de declaração constituem recurso de fundamentação vinculada e de efeito devolutivo restrito, uma vez que seu conteúdo se limita às hipóteses delineadas no Código de Processo Civil, apresentando-se vedada a rediscussão da matéria, cujo julgamento restou exaurido. 3. Quanto ao prequestionamento, de acordo com a orientação dominante da jurisprudência do STF e do STJ, o art. 1.025 do CPC adotou a concepção chamada de "prequestionamento ficto", de modo que a simples interposição dos aclaratórios é suficiente para fins de prequestionamento, independentemente de manifestação expressa do órgão julgador sobre cada dispositivo legal invocado pela parte.4. Embargos declaratórios não providos.” (Acórdão 1933718, 0703845-70.2023.8.07.0018, Relator(a): ARQUIBALDO CARNEIRO PORTELA, 6ª TURMA CÍVEL, data de julgamento: 09/10/2024, publicado no DJe: 22/10/2024.)
+
+“EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. REJULGAMENTO. OMISSÃO. CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. Os embargos de declaração classificam-se entre aqueles recursos de cognição limitada, pois se destinam, exclusivamente, a extirpar da decisão impugnada eventual omissão, contradição, obscuridade ou corrigir erro material, nos termos do artigo 1.022, e incisos, do Código de Processo Civil. A insatisfação do embargante com o resultado do julgamento não é suficiente para sua alteração por meio dos embargos de declaração, mormente quando não há contradição ou omissão no acórdão. Ainda que tenham como objetivo precípuo o prequestionamento de normas legais, os embargos de declaração devem trazer os fundamentos específicos exigidos pelo Código de Processo Civil, não podendo se distanciar de seus pressupostos.” (Acórdão 1933805, 0720146-51.2020.8.07.0001, Relator(a): ESDRAS NEVES, 6ª TURMA CÍVEL, data de julgamento: 09/10/2024, publicado no DJe: 23/10/2024.)
+
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. EXECUÇÃO DE ALIMENTOS. RITO DA PENHORA. BLOQUEIO DE VALORES DEPOSITADOS EM CONTAS BANCÁRIAS. IMPENHORABILIDADE. NATUREZA SALARIAL. ÔNUS PROBATÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO. OMISSÃO E CONTRADIÇÃO. INOCORRÊNCIA. DOCUMENTOS JUNTADOS TARDIAMENTE COM OS ACLARATÓRIOS. PRECLUSÃO. REEXAME DO RECURSO. IMPOSSIBILIDADE. 1. Os embargos declaratórios têm cabimento apenas quando se verificar a existência de contradição, obscuridade ou omissão no ato judicial ou ainda para correção de erro material, conforme exegese do art. 1.022 do Código de Processo Civil, sendo necessário que a parte aponte e demonstre a ocorrência de um desses vícios, sob pena de insucesso da medida. 2. Do acórdão embargado, não se extrai qualquer omissão ou contradição a respeito dos questionamentos levantados pela parte, sendo a controvérsia recursal resolvida de acordo com o contexto fático efetivamente submetido à apreciação desta Corte de Justiça, conforme os suficientes fundamentos consignados no julgado. 3. Os embargos de declaração não se prestam para rediscussão de matéria adequadamente tratada, examinada e resolvida. Inviável o pretendido reexame da controvérsia recursal com base em elementos de provas anexados intempestivamente, apenas após o julgamento do agravo de instrumento, quando constatada a desídia processual da parte justamente a respeito do seu ônus probatório. 4. Ademais, a documentação extemporaneamente trazida visa demonstrar fatos pretéritos e não informa documento novo, dado que sempre estiveram à disposição da parte, sendo de simples produção, para a qual houve mais de uma oportunidade, sem olvidar que não foi formulada justificativa de juntada tardia, estando portanto preclusa a oportunidade para sua apresentação. 5. Inexistindo omissão, contradição, obscuridade ou erro material a suprir ou a sanar e considerando que a via dos embargos de declaração não servem à reapreciação de matéria satisfatoriamente debatida nem a modificar o resultado do julgamento, rejeitam-se os embargos interpostos. 6. Embargos de declaração rejeitados.” (Acórdão 1931271, 0715854-84.2024.8.07.0000, Relator(a): ALFEU MACHADO, 6ª TURMA CÍVEL, data de julgamento: 02/10/2024, publicado no DJe: 16/10/2024.)
+
+Quanto ao prequestionamento, de acordo com a orientação dominante da jurisprudência do STF e do STJ, o art. 1.025 do CPC adotou a concepção chamada de "prequestionamento ficto", de modo que a simples interposição dos aclaratórios é suficiente para fins de prequestionamento, independentemente de manifestação expressa do órgão julgador sobre cada dispositivo legal invocado pela parte.
+
+Consideram-se examinados e repelidos os fundamentos invocados, viabilizando a interposição de recursos às instâncias superiores. Ademais, é entendimento já pacificado de que o órgão julgador não está obrigado a se manifestar sobre todas as alegações levantadas pelas partes e dispositivos legais invocados, mas apenas a respeito dos pontos relevantes para fundamentar a conclusão exposta no provimento judicial.
+
+Essas as razões por que NEGO PROVIMENTO aos embargos declaratórios, mantendo íntegro o venerando acórdão hostilizado.
+
+É o meu voto.
+A Senhora Desembargadora SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO - 1º Vogal Com o relatorA Senhora Desembargadora VERA ANDRIGHI - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDOS. REJEITADOS. UNÂNIME.
