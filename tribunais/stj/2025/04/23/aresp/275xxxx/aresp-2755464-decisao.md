@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por FERNANDO DA CONCEICAO contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 02 de agosto de 2024.
+Concluso ao gabinete em: 22 de outubro de 2024.
+Ação: o agravante, correntista do Banco do Brasil S.A., propôs ação de reparação por danos materiais e morais, alegando ter sido vítima de fraude bancária. Ele afirma ter recebido uma ligação do telefone oficial do banco informando que sua conta havia sido fraudada e que deveria comparecer à agência para realizar procedimentos. Na agência, recebeu instruções de um suposto preposto do banco para realizar depósitos e transferências, além de um empréstimo, que não foram restituídos conforme prometido.
+Sentença: julgou improcedentes os pedidos formulados pelo agravante, considerando que não houve conduta ilícita por parte do Banco do Brasil S.A. e que as transferências foram realizadas de forma espontânea pelo autor, sem comprovação de participação de funcionários do banco na fraude.
+Acórdão: manteve a sentença de improcedência, afirmando que não há indícios probatórios mínimos de conivência entre o fraudador e o banco apelado, aplicando o artigo 14, §3º, II do Código de Defesa do Consumidor (CDC), que exclui a responsabilidade do fornecedor de serviços quando há culpa exclusiva do consumidor ou de terceiro, nos termos da seguinte ementa (fls. 175):
+"APELAÇÃO. DIREITO DO CONSUMIDOR. AUTOR QUE AFIRMA TER SIDO VÍTIMA DE GOLPE REALIZADO POR SUPOSTO FUNCIONÁRIO DO BANCO AGRAVADO. TRANSFERENCIA VIA CAIXA ELETRONICA NO MONTANTE DE R$ 70.0000,00, APÓS TELEFONEMA VINDO DE SUPOSTA CENTRAL TELEFÔNICA DO BANCO RÉU, CUJOS BENEFICIARIOS ERAM PESSOAS COMPLETAMENTE ESTRANHAS A INSTITUIÇÃO BANCÁRIA. SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO. INSURGÊNCIA AUTORAL. TELEFONEMA RECEBIDO DE APARENTE NÚMERO DA CENTRAL TELEFONICA DO BANCO RÉU CUJO NÚMERO É IDÊNTICO AO OFICIAL EXCETO PELA EXISTENCIA DE DDD. AUTOR QUE ANTES DE CONFIRMAR A TRANSFERENCIA NO CAIXA ELETRÔNICO TEVE ACESSO AOS DADOS DOS BENEFICIÁRIOS DOS DEPÓSITOS, TORNADO SUSPEITA AS OPERAÇÕES. FALTA DE PROVA DOS CUIDADOS MÍNIMOS PARA SEGURANÇA NAS OPERAÇÕES BANCÁRIAS. INEXISTÊNCIA DE INDÍCIOS PROBATÓRIOS MÍNIMOS A INDICAR A SUPOSTA CONIVENCIA ENTRE O FRAUDADOR E O BANCO APELADO. APLICAÇÃO DO ARTIGO 14, §3º, II DO CDC. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO."
+Embargos de Declaração: não foram opostos.
+Recurso especial: alega violação aos artigos 104, III e 166, IV e V, e 169 do Código Civil; artigos 6.º e 14 do Código de Defesa do Consumidor; e artigo 373, II, do Código de Processo Civil, além de violação ao Enunciado da Súmula 479/STJ. Sustenta que o Tribunal de origem afastou a responsabilidade do banco, contrariando o entendimento do STJ sobre a responsabilidade objetiva das instituições financeiras por danos gerados por fraude praticada por terceiros.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 104, III e 166, IV e V, e 169 do Código Civil; artigo 6.º do Código de Defesa do Consumidor; e artigo 373, II, do Código de Processo Civil, indicados como violados, não tendo a agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou os arts. 104, III e 166, IV e V, e 169 do Código Civil; artigo 6.º do Código de Defesa do Consumidor, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF. Nesse sentido: AgInt no AREsp 1.947.682/SP, 3ª Turma, DJe 20/12/2023; e AgInt no AREsp 2.138.858/SP, 4ª Turma, DJe 15/6/2023.
+- Do reexame de fatos e provas
+Outrossim, alterar o decidido no acórdão impugnado, no que se refere à conclusão pela responsabilidade exclusiva do consumidor, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio jurisprudencial e atrai a incidência, por analogia, da Súmula 284 do STF. Nesse sentido: AgInt no REsp 1.957.278/DF, 1ª Turma, DJe 20/09/2023; AgInt no REsp 1.566.341/SP, 4ª Turma, DJe 21/06/2023; e AgInt no AgInt no AgInt no AREsp 1.731.772/SC, 3ª Turma, DJe 24/10/2022.
+Além disso, a comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, não se constata a presença dos elementos essenciais necessários para comprovar a existência do dissídio, o que inviabiliza a análise da divergência jurisprudencial. Nesse sentido: AgInt no AREsp 2.396.088/PR, 3ª Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, 4ª Turma, DJe de 7/12/2023.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 138) para 12%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. FRAUDE BANCÁRIA. RECONHECIDA CULPA EXCLUSIVA DA VÍTIMA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenizatória.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Agravo conhecido. Recurso especial não conhecido.
