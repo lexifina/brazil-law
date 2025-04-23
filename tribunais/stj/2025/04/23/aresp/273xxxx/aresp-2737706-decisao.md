@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo interposto pela AGENCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS cuja ementa guarda os seguintes termos (fl. 180):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. AÇÃO DE RECUPERAÇÃO JUDICIAL. DECISÃO MONOCRÁTICA - ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. NÃO CONHECIMENTO DO RECURSO. 1. O princípio da dialeticidade impõe ao recorrente o dever de impugnar especificamente o que foi decidido pelo magistrado, expondo os fundamentos de fato e de direito que embasem o seu inconformismo, sob pena de não conhecimento da insurgência. 2. Ausentes novas alegações que demonstrem o desacerto dos fundamentos utilizados na decisão monocrática que, consubstanciada no artigo 932, inciso III, do atual Código de Ritos, deixou de conhecer do agravo de
+instrumento manejado pelo insurgente, mostra-se imperioso o desprovimento do agravo interno. AGRAVO INTERNO CONHECIDO E DESPROVIDO. DECISÃO MONOCRÁTICA MANTIDA.
+Rejeitados os embargos de declaração opostos (fls. 238-249).
+No recurso especial, a parte recorrente alega que o acórdão recorrido violou os arts. 489, § 1º, e 1022, II, do Código de Processo Civil, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, ainda, violação do art. 932 do Código de Processo Civil, por entender que houve impugnação específica aos fundamentos apresentados pelo Juízo a quo em sua decisão.
+Foram oferecidas contrarrazões ao recurso especial (fls. 283-295; 296-303).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 310-312), o que ensejou a interposição do presente agravo.
+Apresentadas contraminutas do agravo (fls. 336-343; 344-352).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Quanto à alegação de afronta aos arts. 489 e 1.022 do CPC, o recurso não comporta conhecimento, visto que a parte recorrente limitou-se a suscitar a existência de fundamentação deficiente e omissão, sem, todavia, cotejar e explicitar de que forma os dispositivos legais teriam sido violados e qual seria a relevância do enfrentamento dessas questões para o caso concreto, o que atrai os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+AGRAVO EM RECURSO ESPECIAL. AMBIENTAL. SUPRESSÃO DE VEGETAÇÃO NATIVA PARA EDIFICAÇÃO EM LOTEAMENTO URBANO. ALEGAÇÃO DE AFRONTA AO ART. 1022 E 489, § 1º, INCISO IV, DO CPC. AUSÊNCIA DE DELIMITAÇÃO DA CONTROVÉRSIA. SÚMULA N. 284/STF. FUNDAMENTAÇÃO NA LEI ESTADUAL N. 15.684/2015. SÚMULA N. 280/STF. PRETENSÃO DE MODIFICAÇÃO DO ACÓRDÃO QUE RECONHECEU QUE O LOTEAMENTO NÃO SE SITUA EM ÁREA DE PRESERVAÇÃO PERMANENTE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO SURPRESA NÃO CONFIGURADA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE O RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+1. No presente caso, o recorrente não especificou em quais os pontos do acórdão recorrido haveria omissão, contradição, obscuridade ou erro material, tampouco a relevância da análise dessas questões para o caso concreto, de forma que não se conhece da sua alegação de afronta ao art. 1.022 e 489, § 1º, inciso IV, do Código de Processo Civil. Óbice da Súmula 284 do STF.
+ ..
+5. Agravo conhecido para conhecer parcialmente do recurso especial e negar-lhe provimento.
+(AREsp n. 2.637.217/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 1/10/2024, DJe de 4/10/2024.)
+Ademais, no que se refere à suposta violação do art. 932 do CPC, o Tribunal de origem apresentou as seguintes considerações (fls. 182-183):
+In casu, conforme bem elucidado na decisão monocrática recorrida "a magistrada a quo determinou a suspensão dos bloqueios de recursos financeiros em desfavor da empresa LOCTEC ENGENHARIA LTIDA. relativamente aos Contratos Administrativos n. 294/2014-AD-GEJUR e 299/2014-AD-GEJUR; a abstenção de quaisquer novos bloqueios, bem como que a ora recorrente prestasse esclarecimentos necessários, sob pena de multa diária".
+Nesse contexto, diferente do alegado pela parte recorrente, a magistrada de piso não considerou que houve descumprimento da decisão de mov. 904, mas sim arbitrou multa caso a parte viesse a descumprir o comando exarado nessa decisão (1026)  ..
+A parte recorrente, em seu agravo, limitou-se a demonstrar que não houve descumprimento da decisão proferida na mov. n. 904, e alegou:
+"De início, cumpre notar que a r. decisão agravada considerou que houve o descumprimento da decisão proferida em 14/07/2022 (evento n. 904 dos autos de origem), razão pela qual determinou a incidência de multa diária e apuração de crime de desobediência".
+No entanto, tal alegação não guarda relação com a decisão atacada e por esse motivo, verificou-se que as razões recursais encontram-se dissociadas do que fora decidido, porquanto deveriam ter sido enfrentados os fundamentos decisórios, em respeito ao princípio da dialeticidade e simetria, não sendo permitido à parte limitar-se a repetições de teses anteriormente lançadas e que foram afastadas pelo julgador, ou inovar com alegações que não foram oportunamente apresentadas e que pretendem vulnerar a preclusão.
+Nesse contexto, deixou a agravante de apresentar qualquer justificativa a esclarecer os motivos concretos de sua irresignação quanto à motivação declinada no decisum recorrido, ou seja, não rebateu as teses estabelecidas na decisão.
+A bem da verdade, conforme ressai das razões do agravo interno, o presente recurso consiste em mera rediscussão dos fundamentos expostos na decisão fustigada, sem nenhum fato novo hábil a ensejar a pleiteada retificação. Ora, a reiteração de questões anteriormente apreciadas não tem guarida na via recursal eleita, conforme os seguintes julgados desta Corte de Justiça
+Nos termos da jurisprudência desta Corte Superior, embora não seja vedada a repetição, nas razões recursais, dos argumentos apresentados nas petições anteriores, a peça recursal deve atender à dialeticidade, combatendo de forma específica e direta as razões de decidir do magistrado sentenciante, de modo que seja possível depreender do seu texto os motivos para a alteração ou anulação do respectivo ato decisório. A propósito, cito:
+PROCESSUAL CIVIL E AMBIENTAL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. INOBSERVÂNCIA DO ART. 932, III, 933, CAPUT, 1.010, II E III, E 1.013, CAPUT, § 1º, DO CPC/2015. OFENSA AO PRINCÍPIO DA DIALETICIDADE. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA. INCIDÊNCIA DAS SÚMULAS 83 E 7 DO STJ. VIOLAÇÃO DO ART. 1026, § 2º, DO CPC/2015. MULTA PROTELATÓRIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+ ..
+3. O entendimento do Tribunal de origem está em harmonia com a jurisprudência do STJ, no sentido de que, embora a mera reprodução da petição inicial nas razões da apelação não enseje, por si só, afronta ao princípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 1010, II, do CPC/2015. Incidência da Súmula 83/STJ.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp n. 2.040.789/PA, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/5/2023, DJe de 24/5/2023.)
+Dessarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, o entendimento consolidado na Súmula n. 83/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos d e agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MANUTENÇÃO DA DECISÃO DE INADMISSÃO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. PRINCÍPIO DA DIALETICIDADE. SÚMULA N. 83/STJ. AGRAVO IMPROVIDO.
