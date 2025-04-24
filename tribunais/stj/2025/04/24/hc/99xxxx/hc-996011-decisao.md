@@ -1,0 +1,22 @@
+DECISÃO
+MATEUS MIGUEL DA SILVA alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A defesa se insurge contra a decisão que determinou a expedição de mandado de prisão para cumprimento de pena em regime semiaberto. Busca a concessão da ordem, a fim de que o condenado seja intimado previamente para início da execução, conforme a Resolução n. 474/2022 do CNJ.
+Decido.
+O Tribunal de origem denegou o pedido, pois o mandado de prisão só teria sido expedido porque foi atestada a existência de vaga em estabelecimento compatível com o regime semiaberto, fixado na sentença condenatória.
+Com a Resolução n. 474, de 9/9/2022, ficou estabelecido:
+Art. 1o O art. 23 da Resolução CNJ n. 417/2021 passa a vigorar com a seguinte redação:
+"DO MANDADO DE INTIMAÇÃO PARA CUMPRIMENTO DE PENA EM AMBIENTE SEMIABERTO OU ABERTO
+Art. 23. Transitada em julgado a condenação ao cumprimento de pena em regime semiaberto ou aberto, a pessoa condenada será intimada para dar início ao cumprimento da pena, previamente à expedição de mandado de prisão, sem prejuízo da realização de audiência admonitória e da observância da Súmula Vinculante no 56."
+Ao interpretar a norma em apreço, o julgador precisa ter cuidado para não criar brechas que facilitem a resistência ao cumprimento da pena e a prescrição executória.
+O intuito da resolução foi prevenir a situação de superlotação do sistema prisional e impedir que condenados ao regime inicial aberto ou semiaberto, e que tenham respondido ao processo em liberdade, aguardem em situação prisional mais gravosa, similar ao regime fechado, a transferência para estabelecimento adequado.
+Em cada caso, deve ser feita a distinção sobre a imprescindibilidade de intimação prévia da Resolução n. 474 do CNJ. Se for constatado que o apenado já iniciou o cumprimento da pena em estabelecimento adequado ou está em local incerto e não informou endereço atualizado nos autos onde possa ser encontrado pessoalmente, não se aplica a exigência.
+Nesses casos, ainda será necessária a expedição do mandado de prisão, conforme a previsão do art. 674 do CPP e o art. 105 da LEP, para garantir o início da execução e a efetividade da sentença.
+Na situação em apreço, a condenação transitou em julgado há algum tempo, em 19/10/2020, antes da vigência da resolução do CNJ. Está fluindo a prescrição executória.
+Na decisão do Juiz da VEC, não consta a informação de que o apenado está em local incerto. Ademais, como a lotação de unidades penais é dinâmica, a confirmação da vaga em unidade do regime semiaberto somente ocorrerá, com certeza, após o recolhimento do condenado.
+Assim, deverá ser oportunizada a intimação do sentenciado para apresentação espontânea em unidade adequada ao regime semiaberto, sem prejuízo da realização de audiência admonitória para eventual observância da Súmula Vinculante n. 56.
+Ressalto que a intimação pessoal deve ser encaminhada ao endereço constante dos autos, com urgência, não sendo exigível "a intimação editalícia em relação ao réu que não foi declarado revel na fase de conhecimento" (AgRg no HC n. 549.629/SP, relator Ministro Jorge Mussi, Quinta Turma, julgado em 4/8/2020, DJe de 25/8/2020).
+Aplica-se ao caso a compreensão de que:  ..  o Conselho Nacional de Justiça editou a Resolução n. 474/2022, que modifica o art. 23 da Resolução n. 417/2021, a fim de possibilitar ao condenado à pena privativa de liberdade, em regime inicial semiaberto ou aberto, que seja intimado para começar seu cumprimento, antes da expedição de mandado de prisão" (AgRg no RHC n. 177.287/MS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Deveras, "Constitui desrespeito à Resolução n. 417/CNJ a expedição de mandado de prisão sem a prévia intimação do condenado ao cumprimento de pena em regime aberto ou semiaberto. Precedentes" (AgRg no HC n. 880.585/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 9/4/2024, DJe de 12/4/2024).
+À vista do exposto, concedo o habeas corpus para determinar o recolhimento do mandado de prisão e a observância da Resolução n. 474/2021, sem prejuízo de: a) manutenção da ordem do Juiz da VEC na hipótese de o sentenciado estar em local incerto e não existir endereço atualizado nos autos para a sua intimação prévia e b) preservação da prisão se houver notícia de cumprimento do mandado e de recolhimento do paciente em estabelecimento penal compatível com o regime semiaberto.
+Publique-se e intimem-se.
+EMENTA
