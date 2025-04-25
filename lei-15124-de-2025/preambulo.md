@@ -1,0 +1,2 @@
+Veda a adoção de critérios discriminatórios contra estudantes e pesquisadores em virtude de gestação, de parto, de nascimento de filho ou de adoção ou obtenção de guarda judicial para fins de adoção nos processos de seleção para bolsas de estudo e pesquisa das instituições de educação superior e das agências de fomento à pesquisa.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
