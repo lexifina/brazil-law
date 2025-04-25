@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FREIRE MELLO LTDA contra a decisão que inadmitiu o recurso especial com fundamento na incidência das Súmulas n. 5 e 7 do STJ e na ausência de cotejo analítico.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Pará em apelação nos autos de ação de cobrança indevida de comissão de corretagem com repetição de indébito.
+O julgado foi assim ementado (fls. 172-173):
+Apelação Cível. Ação de Cobrança Indevida de Comissão de Corretagem com Repetição de Indébito. Sentença que condenou a ré a restituir de forma simples a autora no valor de R$ 23.208,49 (vinte e três mil, duzentos e oito reais e quarenta e nove centavos) referente a comissão de corretagem cobrada, em tudo acrescido de juros e correção monetária. Decisão reformada para determinar a devolução de 78,5% do valor integral pago pela agravada, englobando inclusive a comissão de corretagem, e retirar a multa aplicada de 2% (dois por cento) sobre o valor atualizado da causa. Súmula 543 STJ. Quem deu causa a rescisão foi o comprador. Retenção de 10% até 25%. Recurso repetitivo 1002. Recurso conhecido e provido parcialmente.
+I - Inicialmente, acerca da multa aplicada pelo juízo de piso por entender que os embargos de declaração opostos contra a sentença eram protelatórios, entendo que deve ser retirada, pois não restou comprovado o instituto de atrasar o andamento do processo, mas apenas foi ventilado matéria não abordada na instrução processual, o que é incabível em sede de embargos de declaração, mas possível em apelação.
+II - Apesar da legalidade no repasse ao comprador do ônus causado pelo serviço de corretagem, tal transferência deve ocorrer de forma transparente, ou seja, o comprador deve estar ciente que os valores por ele pagos estão sendo direcionados a comissão de corretagem, o que não ocorreu no presente caso.
+III - Por outro lado, a autora narra que devido a problemas vivenciados na unidade adquirida na Ilha de Maui decidiu unilateralmente não continuar com o contrato, isso após quase um ano de sua assinatura (distrato em 14/05/2014 e contrato em 20/09/2013, conforme ID 2247806 - Pág. 2 e 2247805 - Pág. 36), ou seja, restou claro que o motivo a rescisão foram problemas em outro empreendimento, não a falta de transparência da construtora em relação a comissão de corretagem.
+IV - A parte autora deve ser ressarcida de todo valor pago, inclusive de comissão de corretagem, descontados apenas os percentuais descritos nos itens "a" à "e"" na cláusula 33ª, tudo calculado em cima do valor recebido, conforme parâmetros estabelecidos pelos Tribunais Superiores (retenção máxima de 25% dos valores já pagos).
+V - Recurso Conhecido e Provido Parcialmente, no sentido de determinar a devolução do valor pago pela agravada, inclusive comissão de corretagem, retendo apenas os percentuais descritos nos itens "a" à "e"" na cláusula 33ª, sem ultrapassar o limite de 25% do valor pago, e retirar a multa aplicada 2% (dois por cento) sobre o valor atualizado da causa, mantendo a sentença recorrida nos demais termos.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte aponta violação do art. 725 do Código Civil, porquanto a remuneração é devida ao corretor uma vez que tenha conseguido o resultado previsto no contrato de mediação, ou ainda que esse não se efetive em virtude de arrependimento das partes.
+Requer o provimento do recurso para que se reconheça a violação do art. 725 do Código Civil, posto que se a remuneração integral ao corretor é devida ainda que haja a desistência do negócio por uma das partes, também seria devida a sua retenção em caso de distrato, de forma integral.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 256.
+É o relatório. Decido.
+O recurso não merece prosperar.
+O Tribunal de origem, ao concluir pelo não cabimento da comissão de corretagem, assim consignou (fls. 176-179):
+Da análise da documentação acostada aos autos, nota-se que se trata de relação consumerista, onde a autora é parte hipossuficiente da relação de consumo e necessita de amparo com inversão do ônus probatório.
+Posto isso, considerando que apesar da legalidade no repasse ao comprador do ônus causado pelo serviço de corretagem, tal transferência deve ocorrer de forma transparente, ou seja, o comprador deve estar ciente que os valores por ele pagos estão sendo direcionados a comissão de corretagem, o que não ocorreu no presente caso.
+Conforme e-mails trocados entre as partes (ID 2247793), o valor dado como entrada é chamado como "ato" e diante da pergunta da compradora do porquê do desmembramento da entrada, os funcionários da apelante não esclarecem a destinação dos cheques, inclusive justificando que isso era o procedimento para reduzir os custos cartorários para o cliente.
+Logo em seguida, o funcionário informa que sua comissão pelos serviços de corretagem seria 3,5% do valor da unidade vendida, novamente não esclarecendo que os cheques seriam para essa finalidade.
+Diante da falta de transparência, ilegal a cobrança de comisso de corretagem nos moldes praticados pela apelante.
+ ..
+O contrato, por outro lado, conforme ID 2247805 - Pág. 34, na cláusula 33ª, prevê que em caso de rescisão, o serviço de corretagem será remunerado em 5% sobre o valor do contrato, não sobre o valor pago, discriminando as demais retenções sobre o valor pago, vejamos:
+ ..
+Assim, a parte autora deve ser ressarcida de todo valor pago, descontados apenas os percentuais descritos nos itens "a" à "e"" na cláusula 33ª, tudo calculado em cima do valor recebido, inclusive o item "a", o qual trata de serviço de corretagem, conforme parâmetros estabelecidos pelos Tribunais Superiores (retenção máxima de 25% dos valores já pagos).
+Nesse contexto, não cabe a esta Corte modificar tal entendimento - não cabimento da comissão de corretagem - por demandar o reexame de matéria fático-probatória e a reanálise de cláusulas contratuais, o que é vedado ante o óbice das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+ EMENTA
