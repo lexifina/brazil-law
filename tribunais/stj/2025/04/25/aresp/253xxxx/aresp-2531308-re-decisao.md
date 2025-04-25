@@ -1,0 +1,28 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça que negou provimento ao agravo interno, mantendo o não conhecimento do recurso especial com base na aplicação, por analogia, da Súmula 284 do STF.
+O julgado recorrido recebeu a seguinte ementa (fl. 624):
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. UPI. ARREMATAÇÃO. CREDITOS TRABALHISTAS RETARDATÁRIOS. PAGAMENTO. IRRESIGNAÇÃO. ARTIGO DE LEI FEDERAL VIOLADO. NÃO INDICAÇÃO. SÚMULA N. 284 DO STF. ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se conhece do recurso quando a parte deixa de indicar expressamente a violação de artigo de lei federal, não bastando, para tanto, a mera menção ou narrativa acerca da legislação federal.
+2. Aplicável ao caso o teor da Súmula n. 284 do STF, por analogia.
+3. Agravo interno não provido.
+A parte recorrente alega que a discussão proposta no recurso extraordinário possui repercussão geral e que há contrariedade, no acórdão recorrido, ao art. 5º, XXXV e XXXVI, da Constituição Federal. Aponta violação ao ato jurídico perfeito, ao direito adquirido, à coisa julgada, ao princípio da inafastabilidade jurisdicional e do acesso à Justiça.
+Sustenta a não configuração de óbice pela súmula 284 do STF quanto à admissibilidade do recurso especial e defende que deve ser vetada a modificação da aquisição da UPI na forma eleita em assembleia, ato jurídico perfeito que por consequência gera o direito adquirido.
+Aduz que (fls. 653-654):
+ ..  uma vez encerrada a recuperação judicial(fls. 7651/7658), não se pode mais autorizar a habilitação ou a retificação de créditos, a inércia da parte não pode vir a prejudicar a Agravante (arrematante) posto que fere à segurança jurídica "ato jurídico perfeito" constituído no Plano de Recuperação Judicial de fls. (5305/8) aprovado e homologado em Assembleia Geral de Credores, sob risco de violação aos princípios da Razoável Duração do Processo e da Eficiência.
+ ..
+ ..  suprimindo a negativa ao preceito constitucional, acolhendo o disposto no artigo 5º incisos XXXV e XXXVI ambos da Carta Magna e por via de consequência determinar o cumprimento do Plano de Recuperação judicial na forma aprovada em assembleia geral e homologado pelo juízo monocrático, determinando que as habilitações de crédito retardatárias, que foram realizadas fora do período dos 12 meses, não se sujeitam aos termos do Plano de Recuperação, bem como as habilitações realizadas após o encerramento da Recuperação deverão ser realizadas em ações ordinárias autônomas, com a consequente liberação dos depósitos judiciais relativo aos pagamentos dos credores quirografários, reestabelecendo a ordem, respeitando- se o concurso de credores, por ser medida de Lídima Justiça.
+Requer, assim, a admissão e o provimento do recurso.
+É o relatório.
+2. Nos termos do art. 102, § 3º, da Constituição Federal, o recurso extraordinário deve ser dotado de repercussão geral, requisito indispensável à sua admissão.
+Por sua vez, o Supremo Tribunal Federal já definiu que a discussão relativa ao preenchimento dos pressupostos de admissibilidade de recurso anterior, de competência de outro tribunal, não possui repercussão geral.
+Quando o STJ não analisar o mérito do recurso de sua competência, tal como verificado nestes autos, qualquer alegação do recurso extraordinário demandaria a rediscussão dos requisitos de admissibilidade do referido recurso, exigindo a apreciação dos dispositivos legais que versam sobre tais pressupostos.
+No Tema n. 181 do STF, a Suprema Corte afirmou que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional" (RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010).
+O entendimento em questão incide tanto em situações nas quais as razões do extraordinário se referem ao não conhecimento do recurso anterior quanto naquelas em que as alegações se relacionam à matéria de fundo da causa.
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento àqueles que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do CPC.
+Como exemplos da aplicação do Tema n. 181 do STF em casos semelhantes, confiram-se: ARE n. 1.256.720-AgR, relator Ministro Dias Toffoli (Presidente), Tribunal Pleno, julgado em 4/5/2020, DJe de 26/5/2020; ARE n. 1.317.340-AgR, relatora Ministra Cármen Lúcia, Segunda Turma, julgado em 12/5/2021, DJe de 14/5/2021; ARE n. 822.158-AgR, relator Ministro Edson Fachin, Primeira Turma, julgado em 20/10/2015, DJe de 24/11/2015.
+Da mesma forma, o recurso extraordinário deve ter o seguimento negado por aplicação do Tema n. 181 do STF também nas hipóteses em que for alegada ofensa ao art. 105, III, da Constituição da República (RE n. 1.081.829-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/10/2018).
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. NÃO CONHECIMENTO DE RECURSO ANTERIOR, DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. REQUISITOS DE ADMISSIBILIDADE. DEBATE OU SUPERAÇÃO. IMPOSSIBILIDADE. TEMA N. 181 DO STF. NEGATIVA DE SEGUIMENTO.
