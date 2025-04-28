@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por MÁRCIO LUIZ ASSIS VIDAL e outra contra acórdão assim ementado (fl. 585):
+Processual Civil. Embargos de Declaração. Ausência das hipóteses legais de cabimento. Questões devidamente analisadas no acórdão embargado. Recurso rejeitado. O recurso de embargos de declaração é de fundamentação vinculada e, não havendo obscuridade, ambiguidade, contradição ou omissão, bem como erro material presentes no próprio julgado, impõe-se desacolher o recurso, restringindo-se apenas nas hipóteses elencadas no art. 1.022 do Código de Processo Civil. Recurso rejeitado.
+Opostos embargos de declaração foram rejeitados (fls. 585-590),
+Nas razões do recurso especial, a parte recorrente alega, em síntese, que o acórdão recorrido violou os arts. 141, 492 e 1.022 do Código de Processo Civil/2015, sustentando que houve relevante omissão não suprida quando do julgamento dos embargos declaratórios, especialmente sobre a impossibilidade de utilização do habite-se como termo final da indenização, uma vez que ele foi expedido cerca de 7 meses antes da efetiva entrega até mesmo da unidade autônoma.
+Argumenta que houve julgamento extra petita e reformatio in pejus, ao fixar o termo final da indenização como sendo a data do habite-se, prejudicando os recorrentes em 7 meses de indenização.
+Além disso, teria violado os arts. 141 e 492 do CPC/2015, uma vez que o Tribunal de origem proferiu decisão de natureza diversa da pedida, ao considerar o habite-se como termo final da indenização.
+Contrarrazões ao recurso especial não apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de ação que tem por objeto indenização ajuizada pelos recorrentes contra as recorridas em virtude do atraso de mais de 2 anos na entrega da unidade autônoma 1104 da torre Alvorada, do Condomínio Vista do Sol. A requerida se obrigou a entregar o empreendimento em dezembro/2010, com prazo de tolerância de 180 dias expirando em 30 de junho de 2011. As unidades autônomas só foram disponibilizadas para entrega em setembro de 2013, sem que diversos itens essenciais do condomínio estivessem prontos, a exemplo da piscina e do salão de festas, entregues apenas em 2015.
+A sentença julgou procedente o pedido, condenando os recorridos ao pagamento de lucros cessantes, do dia 31/5/2011 até a efetiva entrega do bem, e indenização por danos morais, além de custas processuais e honorários de sucumbência (fls. 289-293).
+O Tribunal de origem, ao julgar a apelação, reformou parcialmente a sentença, utilizando a reversão da cláusula penal moratória como critério para a indenização pelos danos materiais e determinando como prazo final para incidência da indenização a entrega total do imóvel (fls. 509-519).
+No julgamento dos embargos de declaração opostos pelos ora recorrentes, o Tribunal de origem destacou que, "nos termos requeridos, o recurso foi provido, inclusive, reconhecendo que a expressão "até a efetiva entrega do bem" incluiria a entrega do condomínio e não apenas da unidade autônoma". Confira-se:
+02.01. O cerne da irresignação apresentada pelos Embargantes cinge-se na suposta contradição entre a fundamentação e o dispositivo do acórdão, no que pertine ao termo final da indenização.
+ ..
+02.04. Desde logo rejeito os aclaratórios opostos por não existir a aventada contradição, vez que na fundamentação apenas foi explicitado o meio pelo qual se garantiria o direito provido, ou seja, a efetiva entrega do bem restaria comprovado com a expedição do habite-se. Ademais, imperioso recordar que esta observação foi feita considerando o pedido dos Apelantes a fim de viabilizar e possibilitar o efetivo cumprimento de sentença, evitando-se futuros tumultos processuais, conforme requerido na sua peça recursal, senão vejamos:
+ ..
+02.06. Nos termos requeridos, o recurso foi provido, inclusive, reconhecendo que a expressão "até a efetiva entrega do bem" incluiria a entrega do condomínio e não apenas da unidade autônoma. A questão é que a mencionada entrega restará demonstrada com documento próprio, que no caso das construções, indubitavelmente é o habite-se.
+01.07. Destarte, não há falar em julgamento extra petita e tampouco reformatio in pejus, mesmo porque o termo final da indenização foi estabelecido e deferido, qual seja "até a efetiva entrega do bem"  ..  (fls. 585-590).
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre o termo final da indenização, tal seja, até a efetiva entrega do bem que incluiria a entrega do condomínio e não apenas da unidade autônoma. Sendo assim, não há que se falar em omissão no tocante a esses pontos, nem, portanto, em violação ao art. 1.022 do CPC/2015.
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere ao termo final da indenização fixada, demandaria, necessariamente, o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
+EMENTA
