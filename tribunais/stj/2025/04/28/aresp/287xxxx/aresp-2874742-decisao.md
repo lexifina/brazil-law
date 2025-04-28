@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CHEVEL CONSTRUTORA LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. ACORDO DE PERMUTA DE IMÓVEIS, CONTENDO OBRIGAÇÃO DE OUTORGA DE ESCRITURA EM PRAZO CERTO, SOB PENA DE MULTA. MORA EXRE. AUSÊNCIA DE NOTIFICAÇÃO. IRRELEVÂNCIA. DESCUMPRIMENTO DA OBRIGAÇÃO. MULTA CONTRATUAL CABÍVEL. MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E NÃO PROVIDO. I- TRATANDO-SE DE OBRIGAÇÃO CONTRATUAL COM PRAZO CERTO PARA CUMPRIMENTO, DESPICIENDA A INTERPELAÇÃO DA PARTE CONTRATANTE PARA CONSTITUI-LA EM MORA (ART. 397, CAPUT, DO CC). II- SE NO CONTRATO EXEQUENDO AS PARTES CONVENCIONARAM MULTA MORATÓRIA SE A EXECUTADA NÃO OUTORGASSE ESCRITURA EM DATA CERTA, VIÁVEL A EXIGIBILIDADE DA VERBA, POIS INCONTROVERSO QUE ELA DESCUMPRIU A OBRIGAÇÃO. III- RECURSO CONHECIDO E NÃO PROVIDO._
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 397 e 476 do CC, no que concerne à indevida aplicação de multa por falta de outorga da escritura pública, porquanto a mudança de endereço da recorrida, não comunicada à recorrente, impediu a solicitação dos documentos necessários à sua confecção, trazendo a seguinte argumentação:
+Antes de mais nada, a Recorrente tentou entrar em contato com a Recorrida para solicitar documentos necessários à confecção da escritura pública.
+Ocorre que o endereço da Recorrida que consta no Termo de Acordo é "Praça Dr. Augusto Gonçalves, nº 320, apto. 301, Centro, CEP 35.680-054, Itaúna/MG". A Recorrente, ao comparecer no referido endereço, foi informado que ali é a residência de Ângela Gonçalves.
+Observando a certidão simplificada de ID 1864704899 juntada na Execução pela Recorrida, nota-se que houve a mudança de endereço da mesma e tal fato não foi comunicado à Recorrente, vejamos:
+ ..
+Nesta linha de raciocínio, não é crível a aplicação de multa à Apelante em tese por não "fornecer escritura", visto que a mudança de endereço da Recorrida impediu a comunicação entre as partes.
+Conforme se observa no Termo de Acordo, não há outro meio de comunicação informado.
+ ..
+Ínclitos Ministros, a escritura pública de compra e venda nada mais é em sua essência que um contrato bilateral, onde há obrigações recíprocas e interdependentes, pois ambas as partes possuem obrigações.
+Para a confecção da escritura pública por parte do Cartório de Notas, ambas as partes devem fornecer inúmeros documentos para a confecção da minuta da escritura pública, como por exemplo a última alteração contratual, certidão simplificada da JUCEMG atualizada, documentação pessoal do administrador da pessoa jurídica, pagamento de ITBI.
+ ..
+A falta de fornecimento de documentos essenciais, por parte da Apelada, para a confecção da respectiva escritura pública, se traduz pela própria falta da minuta da citada escritura.
+Nos termos do art. 373, l do CPC, cabia à Recorrida comprovar o fato constitutivo do seu direito, qual seja, providenciar toda a documentação que lhe competia, como por exemplo o pagamento do ITBI, deixando a minuta da escritura apta para confecção.
+Não é crível que a Apelante seja condenada ao pagamento de multa de mora por falta de outorga de escritura pública se a própria Recorrida não forneceu os documentos necessários à confecção da mesma.
+Não há provas nos autos que a Apelada tenha providenciado a documentação que lhe competia para confecção da escritura.
+Apenas seria crível a aplicação de multa à Recorrente caso a Recorrida tivesse instruído os autos com a minuta da escritura pública já confeccionada e com a comprovação que a Embargante se nega a outorgá-la. O que não é o caso (fls. 168-170).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Por fim, não merece acolhida a alegação da ora recorrente, de que a culpa pelo descumprimento da obrigação seria da ex adversa, porque teria tentado procurá-la para obter os documentos essenciais à lavratura da escritura, sem êxito.
+Na audiência de ordem nº 39, o magistrado a quo fixou os pontos controvertidos, dentre eles a existência de empecilhos originados por parte da embargada, ora apelada, para a lavratura e assinatura das escrituras, consistentes em dificuldade de comunicação e falta de fornecimento de documentos, estabelecendo o ônus probatório à embargante, ora apelante.
+Contudo, na oportunidade a ora apelante declarou que não tinha provas a produzir, sendo certo que o só fato de a exequente, ora apelada, ter mudado o endereço de sua sede não inviabiliza comunicação, eis que na atualidade é comumente feita através de rede social ou de telefone móvel.
+Não há nenhuma prova, sequer testemunhal, no sentido de que a recorrente tentou obter documentos junto à recorrida, sem sucesso.
+Ao contrário, o documento inserto na ordem nº 17 revela que foi a exequente, ora apelada, que pretendeu notificar a executada, ora apelante, para exigir o cumprimento da obrigação de outorga de escritura, sem êxito (fl. 159).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
