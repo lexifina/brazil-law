@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/15), interposto por CORRETA IMÓVEIS E LOCAÇÃO LTDA E OUTROS, em face de decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 826, e-STJ):
+APELAÇÃO CÍVEL - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - ACOLHIMENTO - EXCESSO DE EXECUÇÃO - HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DEVIDOS. - Restando acolhida a impugnação ao cumprimento de sentença para decotar os honorários advocatícios sucumbenciais fixados na ação de conhecimento, são cabíveis honorários advocatícios ao ser reconhecido o excesso, que deverão ser arbitrados em favor da parte impugnante, sobre o proveito econômico (REsp n. 1.134.186-RS - STJ).
+Opostos dois embargos de declaração, ambos foram rejeitados (fls. 847-852 e 886-891, e-STJ).
+Nas razões do recurso especial (fls. 897-903, e-STJ), a parte insurgente aponta ofensa aos arts. 85, § 2º, e 86, parágrafo único, do CPC/15, sustentando que "não procede a fixação de honorários em favor do patrono da recorrente, haja vista que não cabe sucumbência recíproca quando a parte teve uma parcela mínima de seus pedidos indeferidos" (fl. 901, e-STJ).
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 919-921, e-STJ), negou-se processamento ao recurso.
+Daí o agravo (fls. 997-1001, e-STJ), no qual a parte agravante impugna a decisão agravada.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. In casu, a parte insurgente aponta ofensa aos arts. 85, § 2º, e 86, parágrafo único, do CPC/15, e sustenta que "não procede a fixação de honorários em favor do patrono da recorrente, haja vista que não cabe sucumbência recíproca quando a parte teve uma parcela mínima de seus pedidos indeferidos" (fl. 901, e-STJ).
+No particular, o Tribunal de origem assim decidiu (fls. 831-832, e-STJ):
+"No caso, na impugnação foram formulados três pedidos, de alteração do termo inicial dos juros de mora, além do afastamento da capitalização de juros, e condenação dos exequentes em litigância de má-fé. Não tendo sido atendido apenas este último pedido, devem os honorários sucumbenciais serem arbitrados e divididos na proporção de 70% pelos exequentes, ficando os outros 30% a cargo dos executados.
+(..)
+Os honorários advocatícios sucumbenciais são devidos na proporção de 70% (setenta por cento) pelos exequentes, ficando os outros 30% a cargo dos executados."
+Como se vê, a Corte local concluiu, com base no acervo fático probatório dos autos, que a sucumbência foi recíproca, devendo os ônus serem distribuídos na proporção do prejuízo suportado por cada uma das partes.
+Com efeito, para derruir as conclusões contidas no decisum recorrido e acolher o inconformismo recursal, no sentido de aferir se a parte recorrente decaiu em parte mínima de seu pedido, segundo as razões vertidas no apelo extremo, seria imprescindível o revolvimento dos elementos fático-probatórios, providência que esbarra no óbice da Súmula 7 desta Corte.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS E RETENÇÃO POR BENFEITORIAS. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. (..) 3. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autores e réus decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatória, incidindo a Súmula 7/STJ. Precedentes. 4. Agravo interno não provido. (AgInt no AREsp 1883184/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/09/2021, DJe 22/09/2021) (grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. DANO MORAL. VALOR. FIXAÇÃO EM PATAMAR RAZOÁVEL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. (..) 2. Nos termos da jurisprudência desta Corte A reforma do julgado quanto ao redimensionamento da sucumbência demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ (EDcl no REsp 1.418.825/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 3/11/2015, DJe 13/11/2015). (..) 4. Agravo interno não provido. (AgInt no AREsp 985340 / SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/03/2017, DJe 11/04/2017) (grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. CULPA CONCORRENTE. NÃO CONFIGURAÇÃO. SUCUMBÊNCIA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO. 1. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ). 2. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ. Precedentes. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 978339 / RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/05/2017, DJe 10/05/2017) (grifou-se)
+Incide, portanto, o óbice da Súmula 7 do STJ.
+2. Do exposto, conhece-se do agravo para não conhecer do recurso especial interposto por CORRETA IMÓVEIS E LOCAÇÃO LTDA E OUTROS. Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intime-se.
+EMENTA
