@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que inadmitiu recurso especial interposto por IPIRANGA PRODUTOS DE PETRÓLEO S/A com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. IPIRANGA PRODUTOS DE PETRÓLEO E REDE META. CONEXÃO ENTRE AÇÃO DE COBRANÇA E AÇÃO DE RESOLUÇÃO DE TODOS OS CONTRATOS FIRMANDOS PELAS PARTES RECONHECIDA.
+1. Decisão que reconheceu a conexão entre a ação de cobrança e ação de rescisão contratual em trâmite perante a 40ª Vara Cível do Foro Central da Capital, que atraiu todos as demandas existentes entre as partes.
+2. Inconformismo da agravante (Ipiranga) desacolhido.
+3. O acolhimento, ainda que em parte, dos pedidos deduzidos na ação de resolução de todos os contratos celebrados entre as partes, conforme petição do processo 1049161-21.2021.8.26.0100 (40ª Vara Cível Central), repercutirá sobre o próprio título executivo. Demandas conexas. Aplicação do artigo 55, caput, §§ 2º e 3º, do CPC.
+4. Agravo desprovido. Decisão mantida.
+Nas razões do recurso especial, a parte recorrente alega ofensa aos arts. 55 e 56 do CPC/2015. Sustenta, em síntese, que "Na verdade, como é notório, o instituto da conexão se destina a evitar decisões juridicamente conflitantes. Nada mais. 29. Não há, portanto, qualquer fato que justifique a conexão das ações, já que nesta demanda discute-se contrato completamente autônomo que não tem qualquer relação com os contratos discutidos nos autos da AÇÃO DOS POSTOS. 30. Para que se estabeleça, legalmente, a existência de conexão, autorizadora da modificação de competência originária do Juízo, é necessário que o julgamento em separado das Ações atraia o risco d e decisões juridicamente conflitantes, situação esta impossível de ocorrer no caso objeto deste Recurso." (fl. 90)
+É o relatório. Decido.
+A irresignação não comporta provimento.
+O Tribunal de origem, analisando as circunstâncias do caso, assim dirimiu a controvérsia:
+2. Quanto ao mérito, cuida-se, na origem, de ação de cobrança ajuizada pela agravante (Ipiranga Produtos de Petróleo S.A) contra a agravada (M29 Auto Posto e Conveniência Ltda.), visando discutir contrato de compra e venda de equipamentos firmado em 12/09/2016.
+A Ipiranga Produtos de Petróleo S.A., se insurge contra a decisão agravada, que reconheceu a conexão entre a demanda de origem e a ação de resolução de contrato nº 1057158-55.2021.8.26.0100, em trâmite na 40ª Vara Cível do Foro Central da Capital, entendendo o nobre magistrado que ambas discutem os mesmos contratos coligados e as mesmas partes, tendo risco de decisões conflitante.
+Para melhor entender a questão, têm-se que a agravante (Ipiranga Produtos de Petróleo S.A.) firmou contratos variados com diversos postos revendedores de combustíveis integrante da denominada Rede Meta de Postos de Combustíveis, da qual faz parte a ré- agravada.
+A complexidade e multiplicidade desses contratos firmados entre diversas partes culminaram na distribuição de diversas ações judiciais com respectivos recursos em primeiro e segundo graus de jurisdição.
+Vale lembrar que a primeira dessas ações foi ajuizada perante a 40ª Vara Cível do Foro Central da Capital, processando a "ação de rescisão contratual" sob número 1049161-21.2021.8.26.0000, tendo sido deferida a medida liminar requerida nos autos nº 1057158-55.2021.8.26.0100, determinando a rescisão de todos os contratos e aditivos celebrados entre as partes.
+Cumpre consignar que referida "Ação dos Postos" tem por objetivo a rescisão de todos os contratos celebrados, dentre os quais o ora discutido, por suposto descumprimento de obrigações pela Ipiranga, pleiteando-se a condenação desta ao pagamento de multa, indenização suplementar, danos morais, perdas e danos, restituição de valores correspondentes à constituição da hipoteca, bem como a desinstalação dos equipamentos cedidos.
+Assim, em que pese os contratos celebrados serem distintos, a conexão da ação de cobrança com a referida "Ação dos Postos" não pode ser afastada, pois fundada em mesma causa de pedir e pedidos.
+3. Nesse sentido já decidiu este E. Tribunal:
+(..)
+4. Portanto aplicável o artigo 55, "caput", §§ 2º e 3º, do CPC, a fim de evitar decisões conflitantes, mantendo-se na íntegra a decisão agravada.
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que "em que pese os contratos celebrados serem distintos, a conexão da ação de cobrança com a referida "Ação dos Postos" não pode ser afastada, pois fundada em mesma causa de pedir e pedidos."
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. NULIDADE DA SENTENÇA EXECUTADA POR DESRESPEITO À BOA-FÉ E DEFEITO NO NEGÓCIO JURÍDICO. IMPOSSIBILIDADE DE DISCUSSÃO. EFEITO PRECLUSIVO DA COISA JULGADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão de irregularidade na representação processual. Reconsideração.
+2. Não se vislumbra nulidade no julgado estadual quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática, quando a parte repisa as mesmas alegações já apresentadas em recurso anterior, sem trazer nenhum argumento novo, ou caso se limite a suscitar fundamentos insuficientes para infirmar as razões de decidir já explicitadas pelo julgador.
+3. "Até mesmo as matérias de ordem pública que podiam ser deduzidas na fase de conhecimento são alcançadas pela eficácia preclusiva da coisa jugada, não cabendo mais requentá-las na fase de cumprimento de sentença" (AgRg no AREsp 594.368/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 7/4/2015, DJe de 14/4/2015).
+4. No caso, a reforma do acórdão recorrido, para analisar os limites objetivos da coisa julgada e acolher a conexão, demandaria o revolvimento do acervo fático dos autos, o que é vedado no âmbito estreito do recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.652.281/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. CONEXÃO PROCESSUAL. NÃO VERIFICADA. MANUTENÇÃO DA SÚMULA 7/STJ. PRAZO PRESCRICIONAL. ACÓRDÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, não tendo sido reconhecido pelo Tribunal a quo a identidade das ações, para fins de conexão, dado que os serviços advocatícios foram prestados em casos distintos, a pretensão, quanto ao ponto, encontra óbice na Súmula 7/STJ.
+2. Relativamente à prescrição da pretensão, consoante "cediço no STJ, nos casos de rescisão unilateral do contrato de prestação de serviços advocatícios, a contagem do prazo prescricional quinquenal para exercício da pretensão de cobrança da verba honorária pactuada inicia-se da data em que o mandante/cliente é cientificado da renúncia ou revogação do mandato, à luz do artigo 25, inciso V, da Lei 8.906/94. Precedentes" (AgInt no AREsp 1.630.798/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe de 16/12/2020).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.053.755/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/9/2022, DJe de 4/10/2022.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
