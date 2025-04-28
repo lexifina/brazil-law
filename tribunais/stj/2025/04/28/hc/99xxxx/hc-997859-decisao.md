@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ALLIDER GABRIEL ASSIS LEOPOLDO - preso preventivamente pela suposta prática do delito de tráfico de drogas, com apreensão de 518,11 g de maconha e 41,69 g de crack -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que denegou o Habeas Corpus criminal n. 1.0000.25.082195-6/000.
+Neste writ, a defesa alega a ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal - CPP, de modo que a imposição da custódia cautelar não estaria suficientemente justificada e pautada exclusivamente na gravidade abstrata do delito.
+Destaca que não foi apreendida quantidade relevante de drogas e que o paciente possui condições pessoais favoráveis, defendendo, ainda, a p ossibilidade de substituição da custódia preventiva por outras medidas cautelares mais brandas.
+Requer, assim, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva ou, subsidiariamente, substituí-la por outras medidas cautelares previstas no art. 319 do CPP.
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, em razão da quantidade de drogas apreendidas (fl. 43).
+No caso, a despeito de a segregação cautelar se encontrar devidamente justificada, pois o Juízo de piso destacou que foi apreendida considerável quantidade de entorpecentes, o paciente, aparentemente, é réu primário, o crime foi perpetrado sem violência ou grave ameaça, não se extrai dos autos que o acusado integre organização criminosa e a quantidade de droga apreendida, apesar de significativa (518,11 g de maconha e 41,69 g de crack), não pode ser considerada exorbitante a ponto de justificar, por si só, a prisão, circunstâncias que firmam a possibilidade de substituição da prisão por cautelares diversas, tal como indicado no voto vencido do acórdão impugnado (fls. 38/39).
+As circunstâncias do caso evidenciam a necessidade de algum acautelamento da ordem pública; contudo, não se mostram aptas, em juízo de proporcionalidade, a embasar uma segregação corpórea.
+Importante salientar que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC n. 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Assim, concedo liminarmente a ordem para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo se estiver preso por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. 518,11 G DE MACONHA E 41,69 G DE CRACK. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTOS SUFICIENTES A JUSTIFICAR A MANUTENÇÃO DA PRISÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente.
