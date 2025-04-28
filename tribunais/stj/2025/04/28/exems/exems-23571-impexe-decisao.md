@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO à execução em mandado de segurança no qual foi concedida a ordem para assegurar o pagamento dos valores retroativos em razão do reconhecimento da condição de anistiado político do falecido exequente (o que se deu por meio da edição da Portaria MJ n. 2.461, de 17/12/2003), atualmente sucedido pelos herdeiros habilitados.
+Além da inexigibilidade do título, em razão da possibilidade de anulação da anistia, o ente público apontou excesso de execução, nos seguintes termos: a) "Da Correção Monetária: O autor elaborou a conta, porém atualizou os valores da data da Publicação da Portaria nº 2.465/2003. Este DCP atualizou os valores a partir da data do ajuizamento 05/06/2017, conforme orientação do Departamento de Servidores Civis e Militares"; "b) Da taxa dos juros moratórios: o exequente utilizou a juros de 22,30% no período. Este DCP em obediência aos termos do art. 1ª F, da lei nº 9494/97, aplicou juros de poupança no percentual de 14,7860%, tendo em vista que a data da impetração do Mandado de Segurança ocorreu em 05/06/20217.". O excesso é da ordem de R$339.825,24 (fls. 56-57).
+Sustenta, ainda, que são inexigíveis os valores anteriores à data da impetração (diz que a portaria anistiadora é de 2003, mas o writ foi impetrado somente em 2017).
+O exequente se insurgiu contra a Impugnação do ente público.
+Embora o feito tenha sido originalmente suspenso em razão da instauração do procedimento revisional, pela decisão de fls. 164-165, proferida em 4 de junho de 2024, foi determinada a retomada na sua tramitação, pois foi verificado que "após apresentada defesa administrativa em 30/6/2022, não houve movimentação significativa naqueles autos, que se encontram paralisados, sem qualquer justificativa, desde 6/9/2022". Determinou-se, então, o afastamento da preliminar de inexigibilidade do título e a expedição de precatório quanto à parcela incontroversa.
+Contra a referida decisão, a União interpôs Agravo Interno, desprovido pelo órgão colegiado (fls. 183-188).
+Foi expedito o PRC 12.854/DF (fls. 201).
+Mediante consulta ao link de acesso SEI fornecido pela União (fls. 206), constata-se que persiste absolutamente paralisado o processo desde 6/9/2022.
+É o relatório. Decido.
+Tendo havido a expedição da requisição de valor incontroverso, remanesce o julgamento dos pontos impugnados pela UNIÃO às fls. 51-66, concernentes ao alegado excesso de execução (pela inclusão de juros de mora e correção monetária) e à existência de valores anteriores à data da impetração da segurança.
+Passo, assim, à análise dos pontos controvertidos.
+DOS JUROS DE MORA E DA CORREÇÃO MONETÁRIA E DO TERMO INICIAL DE SUA INCIDÊNCIA
+A partir do texto legal que disciplina a matéria, a incidência de cada um dos consectários legais deve ocorrer a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora. Basta ver o quanto dispõe o art. 12, § 4º, da Lei n. 10.559/2002.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. MINISTRO DE ESTADO DA DEFESA. LEGITIMIDADE. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. INAPLICABILIDADE DA PRESCRIÇÃO. MERA SOLICITAÇÃO DE CASSAÇÃO DO ATO CONCESSIVO. INSUFICIÊNCIA PARA MODIFICAR A SUJEIÇÃO PASSIVA E AFASTAR A EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO.
+DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI 10.559/2002. JUROS E CORREÇÃO MONETÁRIA. INCIDÊNCIA.
+PARCIAL CONCESSÃO DA ORDEM.
+(..) 12. Conforme entendimento da Seção de Direito Público do STJ, apurada a ofensa ao direito líquido e certo do impetrante, que no caso é o reconhecimento da omissão no dever de providenciar o pagamento do montante concernente aos retroativos, conforme valor nominal estabelecido no ato administrativo, devem incidir juros e correção monetária, a partir do sexagésimo primeiro dia após a edição da Portaria concessiva da anistia.
+13. Mandado de Segurança parcialmente concedido, nos termos acima referidos, com a ressalva de que, revogada a anistia concedida, cessam os efeitos desta ordem.
+(MS 21.447/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/09/2017, DJe 17/10/2017) (grifou-se)
+DO VALOR EXECUTADO OBJETO DA PORTARIA DE ANISTIA
+Também não assiste razão à UNIÃO quando defende haver a cobrança de valores referentes a períodos anteriores à impetração.
+Contrariamente à tese apresentada, no caso dos autos não se cuida de aplicação ou afronta ao enunciado das Súmulas n. 269 e 271 do STF, muito menos à jurisprudência consolidada desta Corte Superior a respeito do assunto. É bem de ver que aqui se trata da imposição/cumprimento de obrigação de fazer consistente no adimplemento da portaria de anistia editada pela própria União e por ela inadimplida.
+Ou seja, não se trata da cobrança de parcelas pretéritas.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. IMPUGNAÇÃO À EXECUÇÃO PARCIALMENTE PROCEDENTE.
+ANISTIA POLÍTICA. EFEITOS FINANCEIROS RETROATIVOS DA PORTARIA DE ANISTIA. TERMO INICIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA.
+SEXAGÉSIMO PRIMEIRO DIA APÓS A PUBLICAÇÃO DA PORTARIA DE ANISTIA.
+INAPLICABILIDADE DAS SÚMULAS 269 E 271. AGRAVO NÃO PROVIDO.
+1. Ainda que se trate de obrigação oriunda de mandado de segurança, o caso dos autos é exceção em que não se utiliza a data da notificação da autoridade coatora como base para início do cômputo dos juros de mora e da correção monetária.
+2. A jurisprudência do Supremo Tribunal Federal tem entendimento consolidado no sentido de que as Súmulas 269 e 271 daquela Excelsa Corte não se aplicam aos casos de cumprimento de portaria de anistia, tendo em vista que não tratam de mera cobrança de valores atrasados em face da Fazenda Pública, mas sim de cumprimento integral de obrigação de fazer contida em portaria do Ministro da Justiça que reconhece a condição de anistiado e fixa valor certo a título de indenização.
+3. A mora da Administração quanto ao pagamento dos valores retroativos deve ser reconhecida a partir do 61º dia após a publicação da portaria de anistia, conforme previsão do art. 12, § 4º, da Lei n. 10.559/2002.
+4. Agravo interno não provido. (AgInt na ExeMS n. 12.444/DF, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 18/5/2021, Dje de 20/5/2021).
+DO PERCENTUAL DE JUROS E CORREÇÃO MONETÁRIA
+Por fim, nos casos de anistia política, a jurisprudência desta Corte está firmada no sentido de que os consectários legais devem ser aqueles aplicados para servidores públicos.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. CORREÇÃO MONETÁRIA E JUROS DE MORA. TERMO INICIAL DESSES CONSECTÁRIOS LEGAIS. A PARTIR DO SEXAGÉSIMO PRIMEIRO DIA, CONTADOS DA PUBLICAÇÃO DA PORTARIA ANISTIADORA. ÍNDICES APLICÁVEIS ATÉ JUNHO/2009. INCIDÊNCIA DOS MESMOS ÍNDICES UTILIZADOS PARA AS CONDENAÇÕES JUDICIAIS REFERENTES A SERVIDORES E EMPREGADOS PÚBLICOS (TEMA 905/STJ), CONSOANTE RECENTE ALTERAÇÃO DE ENTENDIMENTO DESTE COLEGIADO. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. O termo inicial a ser considerado para cada um dos consectários legais (correção monetária e juros de mora), incidentes sobre o valor retroativo da reparação econômica de caráter indenizatório devida ao anistiado político, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+2. Esta Primeira Seção, em sessão de julgamento realizada no dia 24/11/2021, alterou seu entendimento antes adotado, passando a definir que, nas reparações econômicas de caráter indenizatório devidas a anistiados políticos, devem ser aplicados os mesmos índices utilizados para as condenações judiciais referentes a servidores e empregados públicos, nos moldes já definidos quando apreciado o Tema 905 da sistemática dos recursos especiais repetitivos. Desta forma, não vinga o inconformismo da UNIÃO, que defende a incidência da taxa SELIC até junho/2009, ao argumento de que a indenização prevista em portaria de anistia se enquadra no conceito de condenações judiciais de natureza administrativa em geral.
+3. "Descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso" (AgInt no REsp n. 1.994.255/DF, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 13/6/2022, DJe de 15/6/2022).
+4. Agravo interno improvido. (Agint na ImpExe na ExeMs 25.384/DF, Relator Ministro SÉRGIO KUKINA, Primeira Seção, julgado em 16/8/2022, Dje de 19/8/2022).
+Assim, deve-se observar: a) até julho/2001, juros de mora de 1% ao mês (capitalização simples) e correção monetária com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; b) agosto/2001 a junho/2009 são juros de mora de 0,5% ao mês e correção monetária com IPCAE; e, c) a partir de julho/2009 são juros de mora da remuneração oficial da caderneta de poupança e correção monetária IPCA-E.
+Nesses termos, a Contadoria Judicial deverá apurar qual o percentual correto na sua conta de liquidação.
+Ante o exposto, julgo improcedente a impugnação do ente público. Determino o envio dos autos à Coordenadoria de Processamento de Feitos em Execução Judicial para apurar o correto montante do percentual de juros com base nos seguintes critérios de liquidação:
+Base de Cálculo do Principal: Valor nominal estabelecido na Portaria MJ n. 2.461 de 17/12/2003, do Ministro de Estado da Justiça, devendo ser deduzida a parcela incontroversa requisitada por meio do Prc 12854/DF.
+Índice de Correção Monetária a ser aplicada: IPCA-E (Tema 905/STJ e Tema 810/STF), com a ressalva de que, a partir da data de publicação da EC n. 113/2021 (9/12/2021), deve incidir a SELIC.
+Termo Inicial da Correção Monetária: 61º dia contados da publicação da portaria anistiadora.
+Termo Final da Correção Monetária: Efetivo pagamento do precatório.
+Índice de Juros a serem aplicados: até junho/2009, 0,5% ao mês; a partir de julho/2009 até a data de publicação da EC n. 113/2021 (9/12/2021), remuneração oficial da caderneta de poupança. A partir da data de publicação da referida emenda, SELIC.
+Termo Inicial dos Juros: 61º dia contados da publicação da portaria anistiadora.
+Termo final dos Juros: Expedição do precatório.
+Não há honorários advocatícios (Tema Repetitivo 1232/STJ).
+Publique-se.
+Intimem-se.
+EMENTA
