@@ -1,0 +1,9 @@
+DECISÃO
+Pelo exame dos autos, o presente writ não merece ser conhecido.
+Isso porque o impetrante não se desincumbiu do ônus de instruir adequadamente o habeas corpus com a cópia do decreto prisional "originário" (ref. Processo n. 0827604-21.2025.8.19.0001 - 32ª Vara Criminal da comarca do Rio de Janeiro/RJ ), a cópia do pedido de revogação da prisão preventiva formulado pela defesa e ainda pendente de análise pelo Juízo de primeiro grau, a cópia da movimentação processual em que conste a conclusão dos autos desde a data de 11/4/2025; a cópia do indeferimento da liminar no HC n. 0026854-55.2025.8.19.0000, bem como a cópia do pedido de reconsideração do indeferimento da liminar no prévio writ protocolado na data de 15/4/2025 (n. 2025.00318455 - cf. consta da fl. 4 da petição inicial), peças essenciais para a verificação da verossimilhança das alegações e que poderiam dar suporte à premissa da defesa.
+Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado. Nesse sentido: AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019; E ainda: e AgRg no HC n. 512.896/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 1º/7/2019.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NO ART. 155, § 4º, IV, C/C O ART. 14, II (POR DUAS VEZES), E ART. 288, CAPUT, NA FORMA DO ART. 69, TODOS DO CP. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-C ONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. PRECEDENTES.
+Writ não conhecido.
