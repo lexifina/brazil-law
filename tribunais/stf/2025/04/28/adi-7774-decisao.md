@@ -1,0 +1,57 @@
+DECISÃO
+
+Trata-se de pedido de reconsideração de medida liminar formulado pelo Senhor Governador do Estado de Mato Grosso, pela Assembleia Legislativa do Estado de Mato Grosso e pela Confederação da Agricultura e Pecuária do Brasil - CNA, nos autos da Ação Direta de Inconstitucionalidade n.º 7.774.
+
+A medida liminar suspendeu integralmente a eficácia da lei estadual por possível violação aos princípios da ordem econômica (art. 170 da Constituição Federal), da proteção ao meio ambiente (art. 225 da Constituição Federal) e do direito adquirido (art. 5º, XXXVI da Constituição Federal), além de alegado desvio de finalidade no manejo de benefícios fiscais e vício de iniciativa legislativa
+
+O Senhor Governador do Estado de Mato Grosso prestou informações nas quais pediu a revogação da decisão liminar e a improcedência da ação nos seguintes termos (eDoc. 49):
+
+    1) A lei trata de matéria de interesse regional, inserindo-se na competência concorrente dos estados para legislar sobre meio ambiente, desenvolvimento econômico e concessão de benefícios fiscais, em conformidade com o art. 24, I e II, da Constituição Federal;
+    2) Não há vício de iniciativa, pois a criação de critérios adicionais para a concessão de benefícios fiscais e de terrenos públicos não implica a criação, extinção ou alteração estrutural de órgãos da administração pública;
+    3) A legislação estabeleceu novos critérios para a concessão de incentivos fiscais e de terrenos públicos, visando regular a política fiscal e adequá-la ao contexto atual. O objetivo é impedir a concessão de benefícios a empresas que adotem restrições à expansão da atividade agropecuária em áreas não protegidas pela legislação ambiental, evitando a perda de competitividade do produto mato-grossense e o impacto socioeconômico negativo nos municípios;
+    4) A jurisprudência do Supremo Tribunal Federal é pacífica ao negar a exigência de reserva de iniciativa em matéria tributária, mesmo nos casos em que a lei trata da minoração ou revogação de tributos. Assim, a iniciativa legislativa para a concessão de benefícios fiscais é concorrente, não sendo prerrogativa exclusiva do chefe do Poder Executivo;
+    5) A norma tem como finalidade estimular o desenvolvimento sustentável, reduzir desigualdades regionais e incentivar a produção agrícola em conformidade com a legislação nacional, prevenindo restrições supralegais que comprometam a função social da propriedade;
+    6) Municípios situados na Amazônia Legal, com menor índice de desenvolvimento humano, enfrentam esvaziamento do uso da propriedade rural, situação que o Estado deve corrigir por meio de medidas legítimas;
+    7) A lei impugnada não proíbe nem restringe a liberdade das empresas ou produtores de aderirem a acordos como a Moratória da Soja. Apenas condiciona o acesso a incentivos fiscais e terrenos públicos, exercendo discricionariedade legítima na formulação da política fiscal, em observância aos princípios da razoabilidade e proporcionalidade;
+    8) A norma visa a resguardar a soberania nacional, impedindo que o Estado conceda incentivos a empresas cujas práticas comerciais limitem a expansão agropecuária em áreas desprovidas de proteção ambiental específica, evitando a interferência de interesses privados na política pública estadual;
+    9) Não há coerência em o Poder Público exigir o cumprimento da legislação ambiental nacional e, ao mesmo tempo, promover políticas fiscais que incentivem práticas que inviabilizam o uso da propriedade rural;
+    10) A preservação ambiental não deve ser compreendida exclusivamente como a proibição do desmatamento para o plantio de soja após 2008, uma vez que o ordenamento jurídico brasileiro busca equilibrar desenvolvimento ambiental, econômico e social de forma sistêmica;
+    11) O Estado não impõe óbices à adesão voluntária a acordos privados, como a Moratória da Soja. Contudo, não pode ser compelido a formular sua política fiscal de modo a favorecer tais compromissos, sob pena de contrariar normas do ordenamento jurídico nacional;
+    12) A Súmula 544 do STF, que protege isenções tributárias concedidas sob condição onerosa, não se aplica ao caso concreto, pois o benefício fiscal em questão não possui contrapartidas específicas e onerosas por parte das empresas beneficiadas. Assim, não há revogação de benefício concedido sob condição onerosa, mas apenas a introdução de um requisito adicional não oneroso e;
+    13) A Lei Estadual nº 12.709/2024 possui eficácia imediata e não retroativa, regendo uma relação jurídica continuada. Dessa forma, não há insegurança jurídica, preservando-se o ato jurídico perfeito e os benefícios já usufruídos anteriormente.
+
+A Assembleia Legislativa do Estado de Mato Grosso sustenta a constitucionalidade da Lei nº 12.709/2024, defendendo que a norma visa a proteger a economia estadual ao condicionar a concessão de incentivos fiscais e terrenos públicos à não participação de empresas em acordos que restrinjam a produção agropecuária em áreas legalmente permitidas. Argumenta que a lei respeita a competência legislativa do Estado e não apresenta vício de iniciativa, sendo compatível com os princípios da isonomia, livre concorrência e função social da propriedade. Destaca que o controle ambiental é efetivamente exercido por meio da legislação vigente e da atuação coordenada dos órgãos ambientais, rejeitando a alegação de retrocesso ambiental (eDoc. 54).
+
+É o relatório. Decido.
+
+Inicialmente, reconheço a relevância dos argumentos apresentados pelos amici curiae, Greenpeace e Fundo Mundial da Natureza - WWF (eDoc. 21), os quais destacam a importância da Moratória da Soja como instrumento para a proteção ambiental e para a mitigação dos efeitos das mudanças climáticas. A Moratória da Soja fortaleceu a credibilidade do Brasil no cumprimento de compromissos internacionais de proteção ambiental, reforçando o papel do país como fornecedor de produtos agropecuários sustentáveis no mercado global. Em um cenário onde consumidores e investidores priorizam cadeias produtivas que adotam práticas responsáveis, a moratória se tornou um diferencial competitivo para manter a inserção de produtos brasileiros nos principais mercados internacionais.
+
+Lembro que a Moratória da Soja foi celebrada em 24 de julho de 2006, momento anterior à edição do Novo Código Florestal (Lei nº 12.651/2012), portanto, em um período em que não havia marcos legais atualizados e seguros. A Moratória da Soja não foi marcada por ilegalidades e trouxe inequívocos benefícios ao país. Contudo, isso não significa que o citado acordo não possa ser eventualmente debatido e repactuado, decorridas quase duas décadas. A este propósito, realço - como já assentado na decisão concessiva da liminar - que sempre foi e deve permanecer livre a adesão ou não ao multicitado instrumento, na condição de acordo de mercado, protegido pelo regular exercício do direito de propriedade. Tanto em relação a um aspecto (eventual repactuação da moratória), quanto ao outro (adesão ou não ao instrumento), a princípio é incabível a intervenção do Poder Judiciário.
+
+Ocorre que a Moratória da Soja, apesar de sua indiscutível relevância para a preservação ambiental, não tem força vinculante sobre a atuação do poder público, que pode fundamentar sua política de incentivos fiscais, em critérios distintos em relação a um acordo privado, desde que conforme a legislação nacional.
+
+Esse é o ponto de nova reflexão quanto à decisão anterior, pois o art. 2º da Lei Estadual nº 12.709/2024 cria critérios adicionais para a concessão de incentivos fiscais e terrenos públicos a empresas do setor agroindustrial, prevendo a vedação desses benefícios àquelas que participem de acordos comerciais com critérios diferentes das imposições legais. Vejamos a redação do citado art. 2º:
+
+“Art. 2º Ficam vedados os benefícios fiscais e a concessão de terrenos públicos a empresas que:
+I - participem de acordos, tratados ou quaisquer outras formas de compromissos, nacionais ou internacionais, que imponham restrições à expansão da atividade agropecuária em áreas não protegidas por legislação ambiental específica, sob qualquer forma de organização ou finalidade alegada;
+Parágrafo único. A operação comercial que adotar requisitos distintos dos previstos na legislação brasileira, visando o cumprimento da legislação vigente no local de destino do produto, não será considerada em desacordo com os critérios para a concessão de benefícios fiscais previstos nesse artigo, ficando sujeita à fiscalização pelos órgãos competentes.”
+
+Reafirmo que a adesão das empresas à Moratória da Soja é decisão livre, no exercício da iniciativa privada. Entretanto, em um novo exame, parece-me razoável que o Estado não seja obrigado a conceder incentivos fiscais ou terrenos públicos a empresas que atuem em desconformidade com a visão de ajustamento aos marcos legais que entraram em vigor após a celebração da Moratória da Soja. Vale dizer: o poder público, no caso, deve respeitar a iniciativa privada; mas, por outro lado, o poder público não é obrigado a conceder novos benefícios a empresas que resolvam exigir o que a lei não exige.
+
+O dispositivo da lei mato-grossense alberga a opção de que os acordos privados sejam adequados às leis que lhes são posteriores, inclusive evitando eventuais conflitos com normas federais.
+
+Nesse sentido, o restabelecimento dos efeitos do art. 2º da Lei Estadual nº 12.709/2024 é razoável para garantir a prerrogativa do Estado de Mato Grosso em condicionar a concessão de benefícios discricionários a práticas alinhadas às normas ambientais federais, sem impedir acordos privados como a Moratória da Soja. Sublinho que se a regulação ultrapassa os limites do razoável, em cada situação concreta, o efeito pode ser deletério - com a ampliação de desigualdades regionais e de atividades clandestinas. Ou seja, a exploração das áreas que se pretende proteger continua, só que totalmente à margem da institucionalidade, fazendo com que problemas ultrapassem em muito os efeitos positivos das restrições impostas. É fundamental fixar que os desafios ambientais, especialmente na Amazônia, não dependem apenas de repressão, e sim de adequados juízos de ponderação em cada caso concreto. Com efeitos, de nada vale uma regulação “dura” se ela não é cumprida e conduz a uma forte rede sócio-econômica tecida na escuridão da ilegalidade, muitas vezes com expressiva atuação de organizações criminosas - a exemplo do narcogarimpo na Amazônia.
+
+Em respeito ao princípio da segurança jurídica, friso que: a) a presente decisão restabelecendo o citado art. 2º da Lei Estadual nº 12.709/2024 somente produz efeitos a contar de 1º de janeiro de 2026, tempo para que as partes privadas e os agentes públicos possam dialogar nos termos que considerarem cabíveis; b) a aplicação da lei mato-grossense deve respeitar os direitos adquiridos e os atos jurídicos perfeitos, bem como o contraditório e a ampla defesa; c) os demais preceitos da lei permanecem suspensos.
+
+Com base nesses fundamentos, reconsidero parcialmente a decisão liminar anteriormente concedida, para restabelecer, a partir de 1º de janeiro de 2026, os efeitos do art. 2º da Lei Estadual nº 12.709/2024, nos termos acima expostos.
+
+Submeto a presente decisão e a anterior ao referendo do Plenário, sem prejuízo do seu imediato cumprimento.
+
+Publique-se.
+
+Brasília, 28 de abril de 2025.
+
+Ministro FLÁVIO DINO
+Relator
+Documento assinado digitalmente
