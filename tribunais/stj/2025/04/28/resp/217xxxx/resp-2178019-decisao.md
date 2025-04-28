@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LUCIO FLAVIO SOUTO BATISTA, fundamentado na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 72-73, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLAÚSULAS CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. COBRANÇA DE JUROS SOBRE TARIFAS DECLARADAS ILEGAIS. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. IRRESIGNAÇÃO DA PARTE AUTORA. COISA JULGADA. PEDIDO FORMULADO COM BASE NOS MESMOS FATOS E FUNDAMENTOS JURÍDICOS. IMPOSSIBILIDADE. MANUTENÇÃO DO JULGADO. IMPROCEDÊNCIA DOS PEDIDOS. DESPROVIMENTO DO APELO.
+- A violação à coisa julgada, por ser matéria de ordem pública, pode ser arguida e analisada em qualquer fase processual.
+- Em caso semelhante, o STJ reconheceu a existência de coisa material em relação ao pedido de repetição de indébito dos juros remuneratórios incidentes sobre tarifas declaradas ilegais em ação ajuizada anteriormente com pedido deduzido de forma ampla.
+Nas razões de recurso especial (fls. 91-97, e-STJ), a parte insurgente aponta ofensa aos artigos 184 do CC e 502 do CPC, ao argumento de que, por se tratar de causa de pedir diversa, na medida em que não fora discutido no processo anterior juros remuneratórios sobre as tarifas declaradas ilegais, não há que se falar em coisa julgada quanto à presente pretensão de cobrança dos referidos consectários.
+Não apresentadas contrarrazões (fl. 98, e-STJ).
+Admitido o recurso especial na origem (fls. 102-103, e-STJ), ascenderam os autos a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. A Corte de origem, ao analisar as peculiaridades fáticas da demanda, de forma expressa, concluiu pela ocorrência de coisa julgada ao caso, pontuando que na sentença proferida em processo pretérito foi determinado o pagamento dos juros do financiamento das tarifas declaradas ilegais, consoante se infere do seguinte trecho (fls. 74-75, e-STJ):
+Nesse contexto, verifica-se que a parte autora pretende, de acordo com os fatos e fundamentos narrados na inicial, que seja declarado, como devido, os juros do financiamento das tarifas anteriormente declaradas ilegais em sede de Juizado Especial, no entanto, analisando-se detidamente os autos, observa-se que na sentença prolatada nos autos do processo n. 200.2010.919.458-5, foi determinado o pagamento dos juros do financiamento das tarifas declaradas ilegais, senão vejamos:
+"EX POSITIS, por tudo que dos autos consta e com base no que prescreve o inciso IV, do art. 51 c/c parágrafo único do art. 42, todos do CDC, aplico os efeitos da revelia em face do promovido, e em ato contínuo JULGO PROCEDENTE EM PARTE O PEDIDO para condenar o BB LEASING S/A ARRENDAMENTO MERCANTIL a pagar a LÚCIO FLÁVIO SOUTO BATISTA a quantia de R$ 3.168,00 (três mil e cento e sessenta e oito reais), a título de repetição de indébito, devidamente corrigido com juros de mora de 1% ao mês a partir da citação e correção monetária a partir da assinatura do contrato."
+Ou seja, observa-se que a matéria ora discutida já foi submetida à apreciação do Poder Judiciário, sendo certo que na presente ação, trata-se de repetição do mesmo pedido, envolvendo as mesmas partes e a mesma causa de pedir, configurando-se a coisa julgada.
+ ..
+Ora, se a parte promovente pleiteia, nessa ação, os juros cobrados sobre as tarifas declaradas nulas e se na ação que tramitou perante o juizado especial, foram os valores cobrados acrescidos dos encargos acessórios, configura-se a coisa julgada.  grifou-se
+Assim, para o acolhimento da tese veiculada nas razões do apelo extremo, no sentido de acolher a pretensão da parte agravante relativa à inexistência de ofensa à coisa julgada, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+A propósito, mutatis mutandis:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE CONTRAFAÇÃO - DIREITO MARCÁRIO - PROPRIEDADE INDUSTRIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 1.022 do CPC/15.
+2. O propósito da recorrente de infirmar as conclusões do acórdão recorrido acerca dos documentos juntados com os embargos de declaração é inviável ante o disposto na Súmula n. 7 do STJ.
+3. Consoante a jurisprudência desta Corte Superior, não ofende os princípios do juiz natural e da perpetuação da jurisdição a redistribuição de processo pela criação de nova vara especializada na Comarca com consequente alteração da competência em razão da matéria. Precedentes.
+4. A convicção formada pelo Tribunal de origem acerca da ausência de contrafação, decorreu da prova pericial e da análise dos elementos fáticos existentes nos autos, cujo reexame é vedado em âmbito de recurso especial, ante o óbice da Súmula 7 desta Corte. Precedentes.
+5. A análise dos fundamentos que afastaram a alegação de coisa julgada exige o reexame do conjunto fático-probatório dos autos, o que se mostra inviável nesta via especial, ante o óbice da Súmula 7/STJ. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.834.330/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)  grifou-se
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. QUESTÃO DE ORDEM PÚBLICA. ALEGAÇÃO DE INTEMPESTIVIDADE E DE VIOLAÇÃO À COISA JULGADA. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. "Inexiste preclusão quanto aos pressupostos processuais e condições da ação alegados em exceção de pré-executividade, pois são matérias de ordem pública, podendo ser apreciadas pela instância ordinária a qualquer tempo" (AgRg no REsp n. 1.336.574/SP, relator Ministro João Otávio de Noronha, Terceira Turma, julgado em 17.5.2016, DJe de 23.5.2016).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.251.878/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 16/10/2023, DJe de 20/10/2023.)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - RECUPERAÇÃO JUDICIAL - INCIDENTE DE IMPUGNAÇÃO DE CRÉDITO - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO RECLAMO DA AGRAVANTE - INSURGÊNCIA DA RECUPERANDA.
+1. Na medida em que regulamentado em diploma normativo diverso do microssistema que compõe o processo recuperacional e falimentar, os prazos processuais para interposição de agravo de instrumento contra decisões interlocutórias nos processos de recuperação judicial e de falência devem observar os ditames da Legislação Processual Civil, sendo computados, por conseguinte, em dias úteis, nos termos do art. 269, do CPC/15.
+1.1 Em que pese as alterações trazidas pela Lei 14.112/2020 na Lei 11.101/2005 imporem mudanças no entendimento jurisprudencial a respeito da contagem dos prazos no processo de recuperação, no caso concreto, em que o agravo foi distribuído em momento anterior à vigência do dispositivo (art. 189,§1.º,I, da LRF), deve-se seguir orientação jurisprudencial anterior.
+2. No caso, alterar a conclusão do Colegiado estadual e acolher a pretensão recursal quanto à ocorrência de preclusão ou ofensa à coisa julgada demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ. Precedentes.
+3. Em face da regra do art. 49, § 3º, da Lei 11.101/2005, não se submetem aos efeitos da recuperação judicial os créditos garantidos por alienação fiduciária. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.020.313/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/10/2023, DJe de 11/10/2023.)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+3. No caso, alterar a conclusão do Colegiado estadual e acolher a pretensão recursal quanto à ocorrência de preclusão ou ofensa à coisa julgada demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula 7 do STJ. Precedentes.
+4. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa o Tribunal de origem.
+5. Agravo interno desprovido. (AgInt nos EDcl no AREsp 1928373/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022)  grifou-se
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, não se conhece do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
