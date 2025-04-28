@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto por PREVENT SENIOR PRIVATE OPERADORA DE SAUDE LTDA manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão, exarado pelo eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), assim ementado (fls. 390):
+"PLANO DE SAÚDE. Recusa à cobertura de exames indicados para tratamento de doença de Parkinson (cintilografia e ressonância de crânio) - Alegação de cuidar- se de exame que não consta no rol dos procedimentos obrigatórios instituídos pela ANS - Inadmissibilidade - Alteração da Lei nº 9.656/98 pela Lei nº 14.454 de 21 de setembro de 2022- Rol de procedimentos e eventos em saúde suplementar que constitui referência básica para os planos de saúde - Cobertura que deverá ser autorizada se comprovada a eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico ("rol exemplificativo") - Exclusão que contraria a função social do contrato retirando da paciente a possibilidade do tratamento necessitado - Sentença de procedência mantida - Recurso desprovido."
+Os embargos de declaração (fls. 514-515) opostos pela ora Agravada foram acolhidos, nos termos do v. acórdão às fls. 519-522.
+Nas razões do apelo nobre (fls. 399-424), P REVENT SENIOR PRIVATE OPERADORA DE SAUDE LTDA aponta, além de divergência jurisprudencial, violação ao art. 10, §4º, da Lei nº 9.656/98, ao argumento, entre outros, de que "(..) o fato de existir previsão contratual para a cobertura da doença que acomete a recorrida, não significa dizer que, com base no Código de Defesa do Consumidor, o plano de saúde deva cobrir e custear medicamento e/ou tratamento fora do rol de cobertura obrigatória da ANS, excluído por expressa disposição legal atrás suscitada" (fls. 412).
+Defende que "(..) não se trata de mera negativa apenas e tão somente por ausência de previsão do Rol da ANS, e sim, por expressa disposição contratual que desobriga o seu fornecimento quando não previsto do rol de coberturas obrigatórias. Além disso, não cabe ao Poder Judiciário ampliar a cobertura imposta à operadora em manifesta contrariedade às normas legais específicas aplicáveis à matéria, o que equivale a impor-lhe obrigação universal de garantia do direito à saúde que, repita-se, cabe ao Estado" (fls. 412).
+Aduz que "(..) consoante entendimento recentemente sufragado Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor" (fls. 413).
+Alega, ainda, que ao "(..) contrário do entendimento exarado pelo V. acórdão, restou demonstrado que o exame vindicado não é o único capaz alcançar a resultado pretendido, existindo opções seguindo as determinações da Agência Reguladora, cuja cobertura nunca foi negada" (fls. 415).
+Intimada, REGINA MARGARIDA DONEGATTI PICCI apresentou contrarrazões (fls. 526-529), pelo desprovimento do recurso.
+Admitido o recurso (decisão às fls. 530-531), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+No caso, o eg. TJ-SP, confirmando sentença, fundamentou-se expressamente no art. 51, IV, do Código de Defesa do Consumidor (CDC), como se infere da leitura do seguinte excerto do v. acórdão estadual (fls. 391-396):
+"A autora é beneficiária de plano de saúde operado pela ré e é portadora de doença de Parkinson, necessitando do exame de cintilografia de perfusão cerebral para avaliação de transportadores de dopamina, e ressonância do crânio com e sem contraste, com estudo nigrossomo e neuromelanina, a fim de definir o tratamento mais indicado ao seu caso.
+A cobertura do exame, entretanto, foi negada pela ré, sob o argumento de que não consta do rol da ANS. Deve-se ressaltar que, tratando-se de plano de saúde, são aplicáveis as normas do Código de Defesa do Consumidor. Nas lições de Cláudia Lima Marques (in "Contratos no Código de Defesa do Consumidor" , 4ª edição, página 399):
+(..)
+O entendimento dos tribunais é o de interpretar o contrato em favor do consumidor, especialmente em se tratando de contrato de adesão, nos quais as cláusulas foram redigidas por apenas uma das partes. A previsão legal de limitação de riscos não significa que qualquer uma delas seja aceita como legítima: existe essa faculdade, mas ela deve ser exercida de acordo com a boa-fé e com as regras de proteção ao consumidor.
+Ressalte-se mais que, por força da Súmula 469 do Superior Tribunal de Justiça, aplica-se à demanda o Código de Defesa do Consumidor, cujo artigo 51, inciso IV, do referido Código, prevê expressamente:
+" Art. 51. São nulas de pleno direito, entre outras, as cláusulas contratuais relativas ao fornecimento de produtos e serviços que: (..) IV estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a equidade" .
+No caso, não existe exclusão expressa para a cobertura contratual da doença e seu tratamento. Certo que o leigo não tem condições de identificar, quando da celebração do contrato, quais são os tratamentos, cirúrgicos ou não, e medicamentos quimioterápicos excluídos. Se o contrato firmado entre autor e ré não exclui expressamente cobertura para a doença, por certo a limitação imposta enquadra-se em conduta abusiva da operadora do plano de saúde, colocando o autor, já fragilizado pela doença, em indiscutível desvantagem.
+Cumpre acrescentar que o contrato deve ser interpretado de forma a ajustá-lo aos avanços da medicina, sendo de rigor a cobertura para o tratamento com a droga prescrita.
+(..)
+Não é demais anotar que cabe ao médico especialista que assiste a paciente avaliar e prescrever o tratamento, e não à empresa prestadora de serviço de assistência médica, que não pode interferir na indicação feita pelo profissional da área médica.
+Entendimento contrário levaria o consumidor a deixar de experimentar os benefícios trazidos pelo avanço da medicina em prol de sua saúde, o que não se permite.
+Assim sendo, não cabe à operadora de plano de saúde recusar pagamento, se a doença está inserida na cobertura contratual. É que cobrir a moléstia, mas negar-se a pagar determinado meio curativo é o mesmo que nada cobrir, de forma a extirpar o sinalagma contratual.
+(..)
+Portanto, exigível a cobertura securitária ao exame indicado pelo médico. Além disso, impera salientar que, se por iniciativa própria a ré passou a atuar na área de saúde, atraiu para si responsabilidades e não só a possibilidade de lucro do negócio. Se tem inúmeros clientes é, justamente, pelo fato de o Estado não conseguir cumprir com suas obrigações. Se obtém seu lucro por conta da inércia estatal, também deve arcar com o ônus.
+Ressaltado, desde logo, que a decisão do Superior Tribunal de Justiça reconhecendo a taxatividade do rol da ANS não possui eficácia vinculante. Não bastasse, a recente alteração da Lei nº 9.656/98 pela Lei nº 14.454 de 21 de setembro de 2022, colocou fim à discussão sobre o caráter "exemplificativo" ou "taxativo" do rol de procedimentos e eventos em saúde suplementar da ANS ao dispor que: a) este constitui referência básica para os planos de saúde (artigo 10, § 12); e b) em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente não previsto no rol, a cobertura deverá ser autorizada pelo plano, desde que exista comprovação de eficácia à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico (artigo 10, § 13, I), o que é o caso dos autos.
+Ante a essencialidade do exame solicitado para o tratamento mais adequado do paciente, não há mesmo falar em exclusão de cobertura, por falta de previsão contratual." (g. n.)
+Por sua vez, o apelo nobre, ao apontar tão-somente ofensa ao art. 10, §4º, da Lei nº 9.656/98, deixou de impugnar a fundamentação ora destacada quanto à exegese do art. 51, IV, do CDC, a qual é suficiente para a manutenção do v. acórdão estadual. Assim sendo, o apelo nobre encontra óbice na Súmula n. 283/STF. Nessa linha de intelecção, destacam-se:
+"DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO DE MANUTENÇÃO DE POSSE. ADEQUAÇÃO DA VIA ELEITA. COMPOSSE. ESBULHO. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+(..)
+5. A ausência de impugnação específica aos fundamentos do acórdão recorrido justifica a aplicação da Súmula n. 283 do STF.
+(..)"
+(AgInt no AREsp n. 2.481.960/MT, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 12/2/2025, DJEN de 20/2/2025 - g. n.)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DA INTEGRALIDADE DOS FUNDAMENTOS ADOTADOS PELO TRIBUNAL DE ORIGEM. SÚMULA 283/STF. NULIDADE. EXIGÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. DESCUMPRIMENTO DE DECISÃO JUDICIAL. MAJORAÇÃO DA MULTA PERIÓDICA. POSSIBILIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados, o que atrai a incidência da Súmula 283 do Supremo Tribunal Federal.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.066.184/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/3/2024, DJe de 7/3/2024 - g. n.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+(..)
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual. Incidência da Súmula 283 do STF.
+2.1. O referido óbice se aplica indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.485.930/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024 - g. n.)
+Por fim, pela divergência jurisprudencial, o apelo tampouco merece guarida.
+Isso porque, a jurisprudência desta eg. Corte é no sentido de que a incidência da Súmula 283/STF também obsta o apelo nobre pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, confiram-se ainda:
+"PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE CUSTEIO DE ATENDIMENTO DE URGÊNCIA FORA DE REDE CREDENCIADA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 283 DO STF. INCIDÊNCIA. DANOS MORAIS. RAZÕES DE DECIDIR. NÃO IMPUGNAÇÃO. SÚMULA N. 283 DO STF. QUANTUM INDENIZATÓRIO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DISSÍDIO NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. A ausência de impugnação dos fundamentos do acórdão recorrido suficientes, por si sós, para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF.
+(..)
+4. A incidência das Súmulas n. 283 do STF e 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+5. Agravo interno desprovido."
+(AgInt no AREsp n. 2.377.008/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024 - g. n.)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM INDENIZAÇÃO. COMPETÊNCIA. CLÁUSULA DE ELEIÇÃO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+(..)
+2. A incidência da Súmula 283 do STF na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+3. Embargos de declaração acolhidos, sem efeitos infringentes."
+(EDcl no AgInt no AREsp n. 1.733.520/MS, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 12/4/2021, DJe de 13/5/2021 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TELEFONIA MÓVEL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART. 1.021, § 1º, DO CPC/2015. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. INVERSÃO DO ÔNUS DA PROVA. VIOLAÇÃO AO ART. 6º, VIII, DO CDC. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 5. AGRAVO IMPROVIDO.
+(..)
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. Com efeito, se a pretensão do recorrente foi afastada por ausência de impugnação ao fundamento central do acórdão recorrido, suficiente para mantê-lo, o conhecimento do recurso especial fica inviabilizado tanto em relação à alínea a como à alínea c, em razão do óbice da Súmula n. 283 do STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.570.023/RN, relator MINISTRO MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 17/2/2020, DJe de 19/2/2020 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 255, §4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
