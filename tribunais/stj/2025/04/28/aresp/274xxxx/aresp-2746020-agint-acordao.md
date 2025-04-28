@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SEGURADA ESPECIAL. TEMPO DE ATIVIDADE RURAL. CONJUNTO PROBATÓRIO INSUFICIENTE. PRINCÍPIO IN DUBIO PRO MISERO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Na esteira do REsp 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material, desde que corroborado por testemunhos idôneos.
+2. Caso em que o Tribunal de orige m concluiu que o conjunto probatório não seria suficiente à demonstração da alegada atividade rural da parte autora, cuja alteração esbarra no óbice da Súmula 7 do STJ.
+3. Não se conhece do argumento de que o acórdão recorrido teria d eixado de aplicar o princípio in dubio pro misero, por ausência de prequestionamento do tema.
+4. Na esteira da compreensão exposta no enunciado sumular 356 do STF, o Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento, ao introduzir o art. 1.025 do CPC, que consagrou o chamado "prequestionamento ficto", desde que o apelo nobre aponte a violação do art. 1.022 do CPC, hipótese inexistente na espécie.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por AUREA DA COSTA OLIVEIRA contra decisão de minha lavra, em que conheci do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 7 do STJ quanto à insuficiência de prova material da condição de segurada especial no período de carência (e-STJ fls. 566/569).
+A agravante alega, em síntese, que a presente demanda cinge-se a pedido de aposentadoria por idade, no qual fez juntar "como início de prova material a Certidão de Casamento sendo os nubentes qualificados como lavradores, e Certidão de Nascimento da filha Luana, em 1991, na zona rural de Nhamundá/AM, além de outros documentos" (e-STJ fl. 577; grifos no original).
+Sustenta ser desnecessário analisar as provas, mas apenas revalorá-las, como reiteradamente vem sendo decidido por este Tribunal (e-STJ fl. 577).
+Defende, por fim: (e-STJ fl. 580):
+Uma simples valoração de poucos minutos pode realizar o sonho de uma vida toda de trabalho, com muito mais Justiça, e menos processualística.
+Ademais, a r. decisão recorrida deixou de aplicar o princípio do in dubio pro misero, o que reforça ainda mais a necessidade de aplicação da revaloração acima explicada.
+Quanto à impugnação específica, o RESP demonstra por quadro analítico a similitude fática entre os v. acórdãos paradigmas e o v. acórdão recorrido, destacando o trecho de cada um deles, deixando claro que a impugnação não é genérica, mas específica quanto ao que pretende reformar, e a razão da reforma. (Grifos no original).
+Sem contraminuta (e-STJ fl. 587).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SEGURADA ESPECIAL. TEMPO DE ATIVIDADE RURAL. CONJUNTO PROBATÓRIO INSUFICIENTE. PRINCÍPIO IN DUBIO PRO MISERO. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Na esteira do REsp 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material, desde que corroborado por testemunhos idôneos.
+2. Caso em que o Tribunal de orige m concluiu que o conjunto probatório não seria suficiente à demonstração da alegada atividade rural da parte autora, cuja alteração esbarra no óbice da Súmula 7 do STJ.
+3. Não se conhece do argumento de que o acórdão recorrido teria d eixado de aplicar o princípio in dubio pro misero, por ausência de prequestionamento do tema.
+4. Na esteira da compreensão exposta no enunciado sumular 356 do STF, o Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento, ao introduzir o art. 1.025 do CPC, que consagrou o chamado "prequestionamento ficto", desde que o apelo nobre aponte a violação do art. 1.022 do CPC, hipótese inexistente na espécie.
+5. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Na esteira do REsp n. 1.348.633/SP, sob o rito do art. 543-C do CPC/1973, a Primeira Seção reafirmou a orientação de ser possível o reconhecimento do tempo de serviço rural mediante a apresentação de início de prova material, desde que corroborado por testemunhos idôneos.
+No entanto, na espécie, o Tribunal de origem reformou a sentença por considerar que o conjunto probatório não seria suficiente à demonstração da alegada atividade rural da parte autora (e-STJ fls. 479/480):
+Assim, em que pesem os argumentos trazidos pela o embargante, entendo que, no caso concreto, não há que se falar em omissão do v. acórdão a ensejar o acolhimento dos embargos de declaração, pois restou devidamente fundamentado que o processo foi extinto em razão da ausência de início da prova material da atividade rural.
+No voto condutor do acórdão, restou consignado:
+No caso dos autos, embora a parte autora tenha completado a idade para aposentadoria, não apresentou início de prova material capaz de comprovar o exercício de atividade rural, sob o regime de economia familiar, por tempo suficiente à carência e, ausente o início de prova material, a prova testemunhal produzida não pode ser exclusivamente admitida para reconhecer o tempo de exercício de atividade urbana e rural (STJ, Súmula 149 e TRF1, Súmula 27).
+A parte autora completou idade para aposentadoria em 2003, devendo demonstrar 132 (cento e trinta e dois) meses de atividade rural, pelo período de 1992 a 2003. Para comprovar o exercício da atividade rural, a parte autora.
+juntou aos autos 2ª via da certidão de casamento realizado em 1965, expedida em 2000, porém, não servindo como início de prova material, visto que se refere a fato ocorrido há mais de 30 anos do início da carência, não sendo contemporâneo aos fatos que se pretende provar.
+A certidão de nascimento de seu filho não traz informações acerca da profissão dos genitores, motivo pelo qual não serve como inicio de prova material. A cópia da CTPS em branco serve apenas para informar que não houve vínculo laborai com registro.
+A ficha de atendimento em unidade de saúde não se reveste das formalidades legais; a carteira de filiação ao sindicato dos trabalhadores rurais não está acompanhada dos comprovantes de contribuição sindical e o histórico escolar é de escola urbana, razões pelas quais têm sua serventia afastada.
+Dessa forma, considerando que a parte autora deveria comprovar o exercício de atividade rural por 132 (cento e trinta e dois) meses, durante o período de 1992 a 2003, não há nos autos inicio de prova material apta a caracterizar a condição de trabalhador rural do requerente.
+A não comprovação da qualidade de segurado especial da parte autora, na condição de trabalhador rural, e pelo menos durante o cumprimento do prazo de carência previsto no art. 142 da Lei n. 8.213, de 1991, impossibilita o deferimento do benefício postulado na petição inicial.
+Na hipótese dos autos, a prova produzida é insuficiente para caracterização da condição de trabalhador rural da parte autora. (Grifos acrescidos).
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial, diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA RURAL. AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO. PROVA MATERIAL INCONSISTENTE E CONTRADITÓRIA. TESTEMUNHAS QUE NÃO CONFEREM AMPLITUDE AO INÍCIO DA PROVA MATERIAL. VÁRIOS LAPSOS DE ATIVIDADE URBANA NOS REGISTROS DO CNIS. DESCARACTERIZAÇÃO DA CONDIÇÃO DE SEGURADO ESPECIAL. CONJUNTO FÁTICO-PROBATÓRIO DESARMÔNICO. RECURSO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que o exercício de atividade urbana, por si só, não descaracteriza a condição de Segurado especial, vez que se admite a descontinuidade no exercício da atividade rural.
+2. No caso dos autos, contudo, as provas materiais apresentadas estão em confronto com os registros do CNIS do autor, que apontam diversos vínculos de atividade urbana, suficientes a descaracterizar a sua condição de Trabalhador Rural.
+3. Neste caso, verifica-se que o acervo testemunhal produzido apresenta-se inadequado, por ser contraditório, para evidenciar a pretendida situação de Trabalhador Rural da parte autora.
+4. Agravo Interno do Particular a que se nega provimento. (AgInt no AREsp 1.372.614/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/10/2020, DJe 29/10/2020) .
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ATIVIDADE RURAL. EFICÁCIA AMPLIATIVA DA PROVA TESTEMUNHAL. TEMPO DE SERVIÇO ANTERIOR À DATA DO DOCUMENTO MAIS ANTIGO TIDO POR DEMONSTRADO PELO TRIBUNAL A QUO. COMPROVAÇÃO DE TODO O PERÍODO CONTROVERTIDO. NÃO RECONHECIMENTO. REVISÃO DA CONCLUSÃO A QUE CHEGOU A CORTE DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.
+1. O labor campesino, para fins de percepção de aposentadoria rural, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, a Corte de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que, conquanto a prova testemunhal tenha sido suficiente para fins de reconhecimento do exercício de labor rural em período anterior à data do documento mais antigo, não teve o condão de ampliar a eficácia do início de prova material para todo o período controvertido.
+3. A alteração dessas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 859.244/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 25/04/2019, DJe 29/04/2019).
+Impende registrar que a segurada postulou a reforma do acórdão recorrido por ter deixado de aplicar o princípio do in dubio pro misero. Contudo, inexistiu o prévio debate, na Corte Regional, a respeito do aludido argumento.
+Conquanto não seja exigida a menção expressa de dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento jurisprudencial cristalizado nas Súmulas 282 e 356 do STF:
+Súmula 282 - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Cabe acrescentar que, na esteira da compreensão exposta no referido enunciado sumular 356 do STF, o Código de Processo Civil/2015 trouxe nova disciplina acerca do prequestionamento. Em seu bojo, inovou o legislador ao introduzir o art. 1.025 do CPC/2015, que consagrou o chamado "prequestionamento ficto", ao prescrever:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige, do recorrente, a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp n. 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017).
+No entanto, o citado entendimento não se aplica ao caso dos autos, na medida em que a recorrente deixou de indicar a violação do art. 1.022, e de seus incisos, do CPC/2015, de modo que descabe conhecer da alegada omissão quanto ao princípio mencionado.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
