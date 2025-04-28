@@ -1,0 +1,12 @@
+DECISÃO
+MATHEUS PIRES FERNANDES alega sofrer coação ilegal diante de acórdão do Tribunal de origem.
+A Defesa informa que o paciente está em regime aberto harmonizado com monitoramento eletrônico, o que, a seu ver, é incabível, tendo em vista que o cumprimento de pena deve ser realizado fora do estabelecimento penal e sem vigilância. Busca a retirada da tornozeleira e diz que o seu uso é incompatível os predicados pessoais favoráveis do condenado.
+Decido.
+É possível a pronta solução do recurso, por decisão monocrática do relator, pois o julgamento do Tribunal de origem está alinhado à jurisprudência desta Corte, que estabelece: "É admissível o uso da tornozeleira eletrônica em regime aberto, como forma de monitoramento do cumprimento da sentença" (AgRg no REsp n. 2.078.342/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 4/6/2024, DJe de 7/6/2024).
+O acórdão observou o entendimento de que, "diante da concessão de prisão domiciliar de forma excepcional  ..  impõe-se a necessidade de monitoração eletrônica para o devido acompanhamento da assimilação da terapêutica da pena, prevista no art. 146-B, do mesmo diploma normativo" (AgRg no HC n. 845.985/MA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/11/2023, DJe de 16/11/2023).
+Ilustrativamente: "O uso de tornozeleira eletrônica é compatível com o regime aberto domiciliar para fiscalização do cumprimento da pena" (AgRg no HC n. 941.310/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/3/2025, DJEN de 10/3/2025).
+A determinação não é ilegal, porquanto o ha "art. 146-B, inciso IV, da Lei de Execução Penal, autoriza expressamente a inclusão do apenado no sistema de monitoração eletrônica, quando deferida a prisão domiciliar. II - Na hipótese, o agravante cumpre pena em regime aberto, na condição de prisão domiciliar, o que permite a utilização do sistema de monitoração eletrônica. Precedentes"(AgRg no REsp n. 1.624.796/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 7/11/2017, DJe de 13/11/2017).
+O cumprimento da pena em regime domiciliar monitorado não configura ofensa ao princípio da dignidade, sendo, inclusive, mais favorável ao apenado em comparação ao regime aberto em albergue. Além disso, o uso de vestimentas que ocultem o dispositivo pode oferecer ao apenado maior discrição em atividades sociais ou no trabalho, evitando possíveis constrangimentos.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
