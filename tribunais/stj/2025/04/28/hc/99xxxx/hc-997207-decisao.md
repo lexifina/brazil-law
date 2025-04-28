@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELIABNER GOMES MARQUES CALDEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (fls. 2).
+Na inicial, a defesa informa que o paciente cumpre pena de 8 anos de reclusão em regime inicial fechado pela prática do crime descrito no art. 213, caput, do Código Penal (fl . 3).
+Alega que o paciente preencheu os requisitos objetivos e subjetivos para a progressão ao regime semiaberto, conforme demonstrado pelo histórico carcerário e pela ausência de faltas disciplinares (fls. 4-5).
+Sustenta que a determinação para a realização do exame criminológico, sem fundamentação concreta, viola a Súmula n.º 439 do Superior Tribunal de Justiça e a Súmula n.º 26 do Supremo Tribunal Federal, além de constituir reformatio in pejus, pois cria requisito não previsto anteriormente, dificultando a progressão de regime (fls. 5-7).
+Afirma que a decisão do Tribunal a quo inovou na fundamentação para manter a decisão de primeiro grau, demonstrando a inexistência de fundamentos concretos anteriormente, o que viola o princípio do contraditório (fls. 9-11).
+A defesa destaca que a exigência do exame criminológico, sem fundamentação idônea, é inconstitucional e ilegal, conforme precedentes dos Tribunais Superiores (fls. 7-8).
+No mérito, requer a anulação do acórdão proferido pela 1ª Câmara de Direito Criminal e a cassação da decisão de primeiro grau, determinando a imediata apreciação do pedido de progressão ao regime semiaberto, sem a submissão do paciente ao exame criminológico (fls. 13-14).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica concretamente a necessidade de prévia realização do exame criminológico para que se avalie a presença do requisito subjetivo para a progressão de regime. Confira-se o seguinte excerto do julgado impugnado (fl. 38):
+Após cumprir o lapso necessário em 14/2/2025, o sentenciado formulou pedido de progressão ao regime semiaberto, o qual foi recebido pelo d. Juízo a quo, porém, com a determinação de submissão prévia ao exame criminológico, posicionamento que ensejou a interposição do presente agravo.
+Não obstante os argumentos defensivos, é possível verificar, pelos documentos dos autos, que o agravante agiu com especial violência durante a execução do crime sexual. Conforme relatado (fls. 42), constrangeu a vítima à prática de sexo oral, agrediu-a fisicamente, segurou seus braços, enforcou-a, desferiu cabeçadas, tentou sufocá-la e, por fim, ejaculou sobre ela.
+Diante deste quadro, a gravidade em concreto do delito justifica, de modo suficiente, a determinação do exame criminológico, como forma de aferir com maior segurança o requisito subjetivo necessário à progressão de regime. (grifos no original)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
