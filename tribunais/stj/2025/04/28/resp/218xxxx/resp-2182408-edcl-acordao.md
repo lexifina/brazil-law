@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  ERRO  MATERIAL.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.  MULTA.  LITIGÂNCIA.  MÁ-FÉ.  RECURSO  PROTELATÓRIO.  NÃO  CABIMENTO. ART. 1.026, § 2º, DO CPC. HIPÓTESES. NÃO CONFIGURAÇÃO.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  No  caso  concreto,  não  se  vislumbra  intenção  abusiva  ou  protelatória,  atentatória  à  boa-fé  processual  ou  à  dignidade  da  justiça  na  interposição  de  recurso  previsto  em  lei,  necessário,  inclusive,  para  esgotar  esta  instância,  requisito  indispensável  à  interposição  de  eventual  recurso  extraordinário.
+3.  Não  evidenciado  o  caráter  protelatório  dos  embargos  de  declaração,  deixa-se  de  aplicar  a  multa  de  que  trata  o  artigo  1.026,  §  2º,  do  Código  de  Processo  Civil.
+4.  Embargos  de  declaração  rejeitados.
+RELATÓRIO
+Trata-se  de  embargos  declaratórios  opostos  por  PAULO  LUIS  WINCKI  a  acórdão  desta  Terceira  Turma  que  conheceu  parcialmente  e,  nessa  extensão,  negou  provimento  ao  seu  recurso  especial,  nos  termos  da  seguinte  ementa:
+"RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EMBARGOS  À  EXECUÇÃO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  ART.  919,  §  1º,  DO  CPC.  EFEITO  SUSPENSIVO.  REQUISITOS.  NÃO  DEMONSTRAÇÃO.  GARANTIA  DO  JUÍZO.  HIPOTECA.  INSUFICIÊNCIA.  REVISÃO.  FATOS  E  PROVAS.  REEXAME.  SÚMULA  Nº  7/STJ.
+1.  A  controvérsia  dos  autos  resume-se  em  definir  se  ocorreu  negativa  de  prestação  jurisdicional  e  se  estão  presentes  os  requisitos  necessários  à  atribuição  de  efeito  suspensivo  aos  embargos  à  execução.
+2.  Não  viola  os  arts.  489  e  1.022  do  Código  de  Processo  Civil  nem  importa  deficiência  na  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  para  decidir  de  modo  integral  a  controvérsia  posta.
+ 3.  A  garantia  hipotecária  não  supre  a  exigência  legal  de  que  a  execução  já  esteja  garantida  por  penhora,  depósito  ou  caução  suficientes,  conforme  disposto  no  §  1º  do  art.  919  do  CPC/2015.
+4.  A  verificação  dos  requisitos  necessários  à  atribuição  de  efeito  suspensivo  aos  embargos  à  execução  exigiria  o  reexame  dos  fatos  e  provas  dos  autos,  vedado  pela  Súmula  nº  7/STJ,  o  que  impede  o  conhecimento  do  recurso  especial  por  ambas  as  alíneas  do  permissivo  constitucional.
+5.  Recurso  especial  parcialmente  conhecido  e,  nessa  extensão,  desprovido."  (e-STJ  fl.  419).
+Nas  razões  dos  presentes  aclaratórios,  o  embargante  sustenta  haver  omissão  e  contradição  no  acórdão,  pois ,  apesar  de  reconhecer  a existência da  garantia  hipotecária,  conclui,  de  forma  incoerente,  que  a  execução  não  está  garantida.
+Aduz  que  não  se  trata  apenas  de  garantia  hipotecária,  porquanto,  ainda  que  ela  alcance  apenas  metade  do  bem,  esse  montante  é  mais  que  suficiente  para  garantir  a  reversibilidade  do  provimento  judicial,  conforme  demonstra  o  laudo  de  avaliação.
+Sustenta,  ainda,  que  não  incide  o  óbice  da  Súmula  nº  7/STJ, pois seu propósito é verificar a ocorrência de violação aos arts. 919, § 1º, e 1.022 do CPC .
+A  impugnação  foi  apresentada  (e-STJ  fls.  434/443),  na  qual  a  embargada  pleiteia  a  imposição  à  embargante  das  multas  por  litigância  de  má-fé  e  pela  oposição  de  embargos  protelatórios.
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NO  RECURSO  ESPECIAL.  ART.  1.022  DO  CPC.  OMISSÃO.  CONTRADIÇÃO.  ERRO  MATERIAL.  INEXISTÊNCIA.  INTUITO  INFRINGENTE.  MULTA.  LITIGÂNCIA.  MÁ-FÉ.  RECURSO  PROTELATÓRIO.  NÃO  CABIMENTO. ART. 1.026, § 2º, DO CPC. HIPÓTESES. NÃO CONFIGURAÇÃO.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  No  caso  concreto,  não  se  vislumbra  intenção  abusiva  ou  protelatória,  atentatória  à  boa-fé  processual  ou  à  dignidade  da  justiça  na  interposição  de  recurso  previsto  em  lei,  necessário,  inclusive,  para  esgotar  esta  instância,  requisito  indispensável  à  interposição  de  eventual  recurso  extraordinário.
+3.  Não  evidenciado  o  caráter  protelatório  dos  embargos  de  declaração,  deixa-se  de  aplicar  a  multa  de  que  trata  o  artigo  1.026,  §  2º,  do  Código  de  Processo  Civil.
+4.  Embargos  de  declaração  rejeitados.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Verifica-se,  desde  logo,  que  o  acórdão  embargado  não  padece  de  nenhum  dos  vícios  ensejadores  dos  embargos  de  declaração  enumerados  no  art.  1.022  do  Código  de  Processo  Civil:  obscuridade,  contradição,  omissão  ou  erro  material.
+A  controvérsia  foi  devidamente  solucionada ,  com  expressa  e  adequada  fundamentação,  em  relação  à  circunstância de a garantia hipotecária não suprir a exigência legal de que a execução já esteja garantida por penhora, depósito ou caução suficientes, conforme disposto no § 1º, do art. 919, do CPC/2015,  inexistindo  erro  material,  omissão  ou  contradição  a  serem  sanados.
+Eis,  por  oportuno,  excerto  do  referido  julgado:
+"O mesmo raciocínio se aplica para o exame dos requisitos necessários à atribuição de efeito suspensivo aos embargos à execução, sobretudo porque, segundo o entendimento desta Corte, a garantia hipotecária não supre a exigência legal de que a execução já esteja garantida por penhora, depósito ou caução suficientes, conforme disposto no § 1º, do art. 919, do CPC/2015.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS DO ART. 919, § 1º, DO CPC/2015 NÃO CONFIGURADOS. GARANTIA HIPOTECÁRIA QUE NÃO SUPRE A EXIGÊNCIA LEGAL. AGRAVO DESPROVIDO.
+1. Nos termos da jurisprudência consolidada desta Corte: "é condição sine qua non para a concessão do efeito suspensivo aos embargos do devedor a garantia do juízo por penhora, depósito ou caução suficientes" (R Esp 1.803.247/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/11/2019, D Je de 21/11/2019).
+2. A garantia hipotecária não supre a exigência legal de que a execução já esteja garantida por penhora, depósito ou caução suficientes, conforme disposto no § 1º do art. 919 do CPC/2015.
+3. Hipótese em que não se encontram presentes os requisitos necessários à concessão do excepcional efeito suspensivo aos embargos à execução, tendo em vista a ausência de garantia do juízo da execução.
+4. Agravo interno a que se nega provimento." (AgInt nos EDcl no AREsp n. 2.521.198/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 1/7/2024, DJe de 2/8/2024.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITO SUSPENSIVO AOS EMBARGOS À EXECUÇÃO. HIPOTECA. AUSÊNCIA DE GARANTIA DO JUÍZO NOS TERMOS DA LEI. ANÁLISE DOS REQUISITOS LEGAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A garantia hipotecária não supre a exigência legal de que a execução já esteja garantida por penhora, depósito ou caução suficientes, conforme disposto no § 1º, do art. 919, do CPC/2015.
+2. A análise acerca de eventual preenchimento dos requisitos para se conceder o efeito suspensivo aos embargos à execução não pode ser realizada por se tratar de reexame fático-probatório, vedado no âmbito do recurso especial por força da Súmula 7/STJ.
+3. Agravo interno desprovido." (AgInt no AREsp 1.991.302/RS, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 9/5/2022, DJe de 11/5/2022)."  (e-STJ  fls.  767/769).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  omissão,  afastar  obscuridade,  eliminar  contradição  ou  sanar  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Por  fim,  quanto  ao  pedido  de  condenação  por  litigância  de  má-fé  requerida  nas  contrarrazões,  no  caso  concreto,  não  se  vislumbra  intenção  abusiva  ou  protelatória,  atentatória  à  boa-fé  processual  ou  à  dignidade  da  justiça  na  interposição  de  recurso  previsto  em  lei,  necessário,  inclusive,  para  esgotar  esta  instância,  requisito  indispensável  à  interposição  de  eventual  recurso  extraordinário.
+Ademais,  anota-se  não  ser  o  caso,  por  ora,  de  a  aplicação  da  multa  do artigo  1.026,  §  2º,  do  Código  de  Processo  Civil,  pois  não  se  verifica  o  caráter  protelatório  do  recurso ,  nem  a  prática  de  ato  atentatório  à  dignidade  da  justiça,  tornando  desnecessária  sua  aplicação.
+Assim,  não  resta  evidenciado  o  caráter  protelatório  dos  embargos  de  declaração  na  fase  atual,  ficando  advertida  a  parte  embargante,  no  entanto,  de  que  a  reiteração  de  argumentos  já  analisados  importará  na  fixação  da  multa  de  que  trata  o  artigo  1.026,  §  2º,  do  Código  de  Processo  Civil.
+Ante  o  exposto,  rejeito  os  embargos  de  declaração.
+É  o  voto.
