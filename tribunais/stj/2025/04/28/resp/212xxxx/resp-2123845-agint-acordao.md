@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTE. FUNDAMENTO AUTÔNOMO NÃO COMBATIDO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Inexiste a alegada negativa de prestação jurisdicional, pois o Tribunal de origem não se furtou a apreciar a controvérsia dos autos, na forma do excerto transcrito na decisão ora agravada, não podendo confundir julgamento contrário à pretensão da partes com negativa de prestação jurisdicional.
+3. A ausência de impugnação específica aos fundamentos do acórdão recorrido atrai a incidência do óbice da Súmula 283/STF.
+4. A revisão da conclusão a que chegou o Tribunal de origem implicaria no necessário revolvimento dos aspectos concretos da causa, o que é vedado, na via especial, pela Súmula 7 do STJ.
+5. Agravo interno desprovido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno, interposto pelo ESTADO DE SANTA CATARINA, contra a decisão de fls. 974/977e, de minha lavra, assim ementada:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTE. FUNDAMENTO AUTÔNOMO NÃO COMBATIDO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DESPROVIDO.
+Inconformada, renova a parte agravante a alegada violação ao art. 1.022, II, do CPC/2015, além de sustentar a não incidência das Súmulas 7/STJ e 283/STF.
+Assevera que, na espécie, "o novo proprietário não pode se locupletar indevidamente do direito de indenização a ser pago pelo Estado, pois não foi ele quem sofreu prejuízo com a intervenção do expropriante em sua propriedade. Destarte, não há de se falar em justa indenização quando não houve lesão ao patrimônio! Ainda, tal situação enquadra-se em enriquecimento sem causa, eis que a custa do patrimônio público o recorrido terá um incremento em seu patrimônio sem que, todavia, exista uma causa idônea para fornecer tal valor. Não pode prosperar, assim, o r. Acórdão recorrido, sob pena de enriquecimento indevido à custa do Estado. Ora, se não pagou pelo percentual do imóvel que é ocupado pela rodovia, o recebimento de indenização pela desapropriação indireta do imóvel faria acrescer em seu patrimônio um significativo valor, sem que a parte adversa tenha sofrido diminuição patrimonial" (fl. 987e).
+Requer, por fim, "que seja reconsiderada a decisão agravada ou, sucessivamente, não sendo o caso de reconsideração, seja submetido o presente recurso ao órgão colegiado competente, a fim de que seja provido o agravo interno e com isso admitido e provido o recurso especial" (fl. 988e).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL INEXISTENTE. FUNDAMENTO AUTÔNOMO NÃO COMBATIDO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Inexiste a alegada negativa de prestação jurisdicional, pois o Tribunal de origem não se furtou a apreciar a controvérsia dos autos, na forma do excerto transcrito na decisão ora agravada, não podendo confundir julgamento contrário à pretensão da partes com negativa de prestação jurisdicional.
+3. A ausência de impugnação específica aos fundamentos do acórdão recorrido atrai a incidência do óbice da Súmula 283/STF.
+4. A revisão da conclusão a que chegou o Tribunal de origem implicaria no necessário revolvimento dos aspectos concretos da causa, o que é vedado, na via especial, pela Súmula 7 do STJ.
+5. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Não assiste razão à parte agravante.
+Com efeito, conforme demonstram os excertos transcritos na decisão ora agravada, extraídos do acórdão recorrido, o Tribunal de origem não se furtou a apreciar a controvérsia dos autos, não podendo confundir julgamento contrário à pretensão da partes com negativa de prestação jurisdicional. Nesse sentido, entre muitos outros, destaco o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FORNECIMENTO DE SANEAMENTO BÁSICO. TERRA INDÍGENA. MANUTENÇÃO DE SAÚDE. LEGITIMIDADE PASSIVA DO ESTADO. DANO MORAL COLETIVO. REVISÃO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.
+1. Não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, como no caso, em relação aos recurso da Companhia de Saneamento.
+2. Quanto à alegada ofensa ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia (a respeito da necessidade de reunião processual e quanto à legitimidade passiva do Estado do Paraná), apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. No mérito propriamente dito, a discussão é se o Estado é parte legítima para figurar no polo passivo de ação que busca garantir o fornecimento regular de água potável e saneamento básico à terra indígena.
+4. A Lei n. 8080/1990, ao dispor sobre a atenção à saúde indígena, prevê que "os Estados, Municípios, outras instituições governamentais e não-governamentais poderão atuar complementarmente no custeio e execução das ações" (art. 19-E).
+5. Hipótese em que, conforme se extrai do acórdão recorrido, não se está em discussão o simples fornecimento de saneamento básico, mas da prestação desse serviço (de saneamento) como meio indispensável à manutenção das condições da saúde indígena, a justificar a manutenção do Estado do Paraná no polo passivo da lide.
+6. Ainda que sob a perspectiva da Lei n. 11445/2007, não haveria exclusão da responsabilidade do Estado do Paraná, pois, ao contrário do que faz crer a parte recorrente, o caso em exame não discute a competência para fixar Plano Nacional de Saneamento Básico (art. 52, I, da lei), esta sim de responsabilidade da União, debatendo-se, na realidade, a obrigação de atendimento local/regional de saneamento, cuja execução é operada em articulação com os Estados (art. 52, II, da lei), o que também fundamenta a pertinência subjetiva passiva do ente estatal.
+7. Esbarra no óbice da Súmula 7/STJ a pretensão de rever a (in)existência de dano moral coletivo, pois, quanto ao tema, a Corte Regional se amparou diretamente no contexto fático-probatório dos autos.
+8. Agravo da Companhia de Saneamento não conhecido. Agravo do Estado do Paraná conhecido para negar provimento ao apelo especial. Agravo do MPF conhecido para não conhecer do apelo especial.
+(AREsp n. 2.383.605/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 10/12/2024, DJEN de 18/12/2024.)
+Por outro lado, a parte ora agravante não impugnou, direta e objetivamente, a fundamentação do acórdão, na forma do excerto transcrito às fls. 975/977e, atraindo a incidência do óbice da Súmula 283 do STF.
+Como não bastasse, considerando a fundamentação adotada, o acórdão recorrido somente poderia ser revisto mediante os aspectos concretos da causa - como pode ser verificado, se mais não for, pelo trecho transcrito na decisão ora agravada, às fls. 975/977e -, o que não é possível na via especial, à luz da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
