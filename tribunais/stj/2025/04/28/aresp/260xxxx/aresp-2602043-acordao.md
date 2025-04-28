@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA E SERVIDÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e negar provimento.
+RELATÓRIO
+Trata-se de agravo interposto pelo ESPÓLIO DE PAULO WALDEMAR RIBEIRO FALCÃO contra a decisão que inadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"Ação de obrigação de fazer c/c indenizatória em fase de cumprimento de sentença. Acordo celebrado entre as partes. Homologação do ajuste, na forma do artigo 487, III, b)do CPC., com extinção do processo. Apelação. Pacto juntado pelas partes aos 26/11/20, com requerimento da respectiva homologação com a extinção do processo que se restringe tão somente à obrigação pecuniária. Determinação da Corte Superior, no sentido de que o exercício do direito de servidão se dê, se necessário, mediante pedido de autorização às autoridades públicas competentes, que não obsta ao prosseguimento do feito quanto à obrigação de fazer, sobremodo porque várias das intervenções que se farão necessárias antes da implementação da servidão dependem do consentimento da parte ré. A interposição de embargos declaratórios sem demonstração qualquer de intenção de dilatar o prazo para eventuais recursos ou de dificultar a prestação jurisdicional não os qualifica de protelatórios. Aplicação da multa prevista nos parágrafos do artigo 1.026 do CPC que se afasta. Litigância de má-fé. Ausência de substrato mínimo a amparar a pretensão quando desacompanhada de elemento concreto que evidencie intenção malsã. Recurso provido em parte" (e-STJ fls. 1.266).
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 1.283).
+No recurso especial, o recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 489, §1º, inciso IV, e 1.022, inciso II, do CPC por omissão quanto aos efeitos da coisa julgada e a inexistência de obrigação de fazer imputável ao Recorrente;
+(ii) arts. 502 e 503 do CPC por defender que, ao determinar o prosseguimento do feito e imputar ao Recorrente obrigações não previamente estabelecidas, os acórdãos recorridos teriam violado o princípio da imutabilidade da coisa julgada; e
+(iii) arts. 1.380, 1.381 e 1.383 do Código Civil por sustentar que, diante da inexistência de qualquer previsão em sentido contrário no Contrato de Servidão ou no acórdão do STJ, os Recorridos não poderiam transferir ao Espólio ônus que a este não compete, em particular a adoção das providências cabíveis para a efetivação do direito de servidão de água.
+Após as contrarrazões (fls. 1.362/1.373 e-STJ), o recurso especial foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA E SERVIDÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. O recurso especial é inviável quando a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, conforme dispõe a Súmula nº 7/STJ.
+3. Agravo conhecido para conhecer em parte do recurso especial e negar provimento.
+VOTO
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto à continuidade da obrigação de fazer e ao acordo celebrado, conforme se verifica do seguinte trecho do acórdão:
+"Em 24/11/2020, as partes peticionaram conjuntamente para informar a formalização de acordo para cumprimento da obrigação de pagar imposta nos autos, em ordem a declarar "que renunciam expressamente ao direito de interpor quaisquer recursos contra decisão que vier a homologar este acordo, assim como contra a decisão que vier a julgar extinto o feito, no que se refere ao cumprimento da obrigação de pagar, na forma do art. 487, inciso III, alínea "b", do CPC.", sobrevinda, então, a decisão de homologação do acordo pactuado, nos seguintes termos:
+(..)
+Do exame dos autos, depreende-se que o acordo juntado pelas partes aos 26/11/20 (índice 1038), com requerimento da respectiva homologação com a extinção do processo - o réu comprometera-se a pagar os valores de R$ 3.974,92 ao autor relativo às despesas por este desembolsadas e o de R$ 20.000,00 ao Sr. José Mauro, patrono da parte autora, a título de honorários advocatícios, o que fora devidamente cumprido --, se restringe tão somente à obrigação pecuniária" (e-STJ fls. 1.271/1.272).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se)
+No que diz respeito à alegada ofensa à coisa julgada, as conclusões do tribunal de origem decorreram do acordo celebrado e peticionado conjuntamente pelas partes. Nesse contexto, não há como afastar a incidência da Súmula nº 7/STJ, visto que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita.
+No que se refere ao direito de servidão de água:
+Dessa forma, assiste razão aos autores quanto ao pleito de prosseguimento do feito em relação à obrigação de fazer, como se recolhe do instrumento de particular de transação com outorga de quitação acostado (índice 1038), por isso que o fato de a Corte Superior ter determinado que o exercício do direito de servidão se desse, se necessário, mediante pedido de autorização às autoridades públicas competentes, não obsta a que se prossiga com o cumprimento da obrigação de fazer/não fazer, sobremodo porque, como bem salientado pelo condomínio autor, várias das intervenções que se farão necessárias antes da implementação da servidão dependem da parte ré para sua consecução" (e-STJ fl. 1.273).
+Da mesma forma, rever o entendimento firmado pelas instâncias ordinárias demandaria o reexame dos fatos e das provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Deixa-se de majorar os honorários sucumbenciais, nos termos do artigo 85, § 11, do CPC, tendo em vista que não foram arbitrados na origem.
+É o voto.
