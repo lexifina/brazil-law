@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação do art. 444 do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 2.390):
+SERVIÇOS ADVOCATÍCIOS. COBRANÇA DE HONORÁRIOS. Sentença de improcedência do pedido. Recurso de apelação do autor. Cerceamento de defesa não configurado. Alegação de que houve contratação específica por processo contencioso trabalhista e, no ano de 2020, após levantamento interno, verificou que alguns deles se encontravam pendentes de pagamento. Incontroverso que as partes se comunicavam por e-mail, não havendo demonstração de que houve aceite da requerida aos termos dos serviços por contrato formal, pelo mesmo meio (correspondência eletrônica) ou outro meio de comunicação. Sentença mantida. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A parte agravante sustenta ter ocorrido cerceamento de defesa ao ser indeferida a produção de prova testemunhal, com o consequente julgamento antecipado da lide que resultou na improcedência do pedido inicial por falta de prova.
+Adverte que o Tribunal de origem, ao apreciar o feito, entendeu ser incontroverso que as partes se comunicavam por e-mail para que houvesse a contratação quanto à prestação de serviços de honorários advocatícios em que a requerida figurasse como parte de reclamação trabalhista, porém, não haveria sido demonstrado os termos dos serviços prestados nos casos sub judice pelos mesmos meios (correspondência eletrônica) "ou outro meio de comunicação" (fl. 2.393).
+Assim posta a questão, passo a decidir.
+O Tribunal local, ao apreciar o feito, entendeu às fls. 315 - 316:
+No caso, não há que se falar em nulidade de sentença por cerceamento de defesa. Dispõe o artigo 355 do CPC que o juiz julgará antecipadamente o pedido, proferindo sentença com resolução de mérito, quando não houver necessidade de produção de outras provas.
+Ademais, a teor do que preceitua o artigo 370 e parágrafo único do CPC, a prova é destinada ao julgador e, sendo o juiz o seu destinatário, tão apenas a ele compete aferir acerca da necessidade ou não de sua realização.
+Dessa forma, uma vez convicto de que os elementos trazidos aos autos bastam para dirimir a controvérsia, não incorre o magistrado na prática de cerceamento de defesa no julgamento antecipado da lide.
+(..)
+Na hipótese, o alegado seria facilmente comprovado apenas por provas documentais, o que não sobreveio a contento aos autos.
+De fato, é incontroverso que as partes se comunicavam por e-mail para que houvesse a contratação quanto à prestação de serviços honorários advocatícios em que a requerida figurasse como parte de reclamação trabalhista; contudo, no caso, não houve demonstração de que houve aceite da requerida aos termos dos serviços eventualmente prestados no ano de 2020 por contrato formal, pelo mesmo meio (correspondência eletrônica) ou outro meio de comunicação.
+E, nessa toada, a sentença, portanto, merece ser mantida por seus próprios fundamentos.
+Alterar a conclusão a que chegou o Tribunal de origem, no que se refere à contratação de prestação de serviços advocatícios, requer o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+Com relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes do art. 1029, § 1º, do Código de Processo Civil/2015. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiário da Justiça gratuita.
+Intimem-se.
+EMENTA
