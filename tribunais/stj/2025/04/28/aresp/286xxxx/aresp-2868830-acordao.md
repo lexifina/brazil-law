@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. REALIZAÇÃO DAS OBRAS DE INFRAESTRUTURA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de obrigação de fazer cumulada com indenização por danos materiais e morais, tendo por objeto o contrato de promessa de compra e venda de imóvel (lote urbano não edificado) firmado entre as partes.
+2. Para ultrapassar a conclusão do Tribunal estadual, no sentido de que a empresa incorporadora cumpriu com as obrigações assumidas, no tocante às obras de infraestrutura do loteamento, seria necessária a interpretação de cláusulas contratuais, bem como o reexame dos fatos da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por CICERA CANDIDO PEREIRA (CICERA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alínea a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+DIREITO CIVIL. APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRELIMINARES EM CONTRARRAZÕES. AUSÊNCIA DE QUALIFICAÇÃO. DIALETICIDADE. AFASTADAS. PRELIMINAR NA APELAÇÃO. ILEGITIMIDADE ATIVA. REJEIÇÃO. INFRAESTRUTURA DE LOTEAMENTO. PAVIMENTAÇÃO. MEIO-FIO. OBRAS JÁ REALIZADAS. REDE DE ESGOTO. AUSÊNCIA DE PREVISÃO LEGAL E CONTRATUAL. TEMA 09/TJGO. CLÁUSULA PENAL. NÃO INCIDÊNCIA. SENTENÇA REFORMADA.
+I. CASO EM EXAME
+1. Apelação interposta contra sentença que julgou parcialmente procedentes os pedidos iniciais em ação de obrigação de fazer e indenização por danos morais e materiais. O autor alega que adquiriu lote em empreendimento cuja infraestrutura, como pavimentação e rede de esgoto, não foi finalizada pela requerida, que, por sua vez, alegou cumprimento das obrigações contratuais.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em:
+(i) verificar se houve inadimplemento contratual por parte da requerida quanto as obras de infraestrutura do loteamento.
+III. RAZÕES DE DECIDIR
+3. A ausência de qualificação das partes constitui mera irregularidade que não obsta o conhecimento do recurso, quando já qualificadas outrora nos autos, entendimento em sentido diverso configuraria excessivo rigor, indo de encontro ao princípio de acesso à justiça.
+4. A obediência ao princípio da dialeticidade é suficientemente atendida quando o recorrente expõe as razões de seu inconformismo, de modo a permitir o exercício do contraditório pelo recorrido, bem como a obter novo julgamento pelo órgão colegiado.
+5. Existindo Instrumento Particular de Promessa de Compra e Venda de Imóvel que prevê a obrigação de execução de obras de infraestrutura pelo empreendedor, patente a legitimidade da recorrente para figurar no polo ativo da demanda.
+6. Do auto de verificação realizado nos autos restou demonstrada a existência de pavimentação e meio-fio na parte da frente do imóvel, circunstância que demanda a reforma da sentença quanto a obrigação de fazer.
+7. Nos termos do Tema 09/TJGO, embora a legislação federal exija o esgotamento sanitário como requisito de infraestrutura básica dos parcelamentos, a Lei municipal n. 7.222/93 não atribuiu essa responsabilidade ao loteador, de forma que, se o Decreto municipal aprovar o loteamento também sem atribuir tal obrigação à empresa loteadora, não há a obrigação de construção de rede de esgoto.
+8. Não comprovado descumprimento contratual, afasta-se a incidência da cláusula penal.
+IV. DISPOSITIVO E TESE
+7. Recurso de apelação cível CONHECIDO e PROVIDO.
+Tese de julgamento:
+"1. Afasta-se a obrigação de fazer consistente em realizar a pavimentação asfáltica e o meio-fio quando existe prova nos autos que esta foi cumprida".
+2. "Desnecessária a construção de rede de esgoto pela empresa recorrente, tendo em vista que a Lei Municipal 7.222/93 não impôs essa responsabilidade ao loteador, porquanto o Decreto Municipal aprovou o loteamento sem atribuição da obrigação à apelante".
+Dispositivos relevantes citados: CPC, art. 374, III; Lei nº 6.766/79, arts. 2º, §5º e 18, V; Tema nº 31/TJGO (e-STJ, fls. 1.521/.1522 - destaques do original).
+Foi apresentada contraminuta (e-STJ, fls. 1.617/1.634).
+É o relatório.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS. REALIZAÇÃO DAS OBRAS DE INFRAESTRUTURA. SÚMULAS N. 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de ação de obrigação de fazer cumulada com indenização por danos materiais e morais, tendo por objeto o contrato de promessa de compra e venda de imóvel (lote urbano não edificado) firmado entre as partes.
+2. Para ultrapassar a conclusão do Tribunal estadual, no sentido de que a empresa incorporadora cumpriu com as obrigações assumidas, no tocante às obras de infraestrutura do loteamento, seria necessária a interpretação de cláusulas contratuais, bem como o reexame dos fatos da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Trata-se de ação de obrigação de fazer cumulada com indenização por danos materiais e morais ajuizada por CICERA contra SPE ORLA 1 LTDA. - EM RECUPERAÇÃO JUDICIAL, tendo por objeto o contrato de promessa de compra e venda de imóvel (lote urbano não edificado) firmado entre as partes, cujos pedidos foram julgados parcialmente procedentes em primeira instância, para condenar a requerida "à obrigação de finalizar as obras de pavimentação das ruas e calçadas, meio-fio e esgoto, no prazo de 180 (cento e oitenta) dias contados da publicação desta sentença, bem como ao pagamento da multa prevista na Cláusula Oitava, Parágrafo Primeiro da avença firmada entre as partes, na quantia de 1% (um por cento) sobre o valor pago por mês de atraso, devida a partir de 20/08/2009. Em razão da sucumbência mínima da autora, condeno a requerida ao pagamento das custas processuais e honorários advocatícios, estes que fixo em 10% do débito atualizado, art. 85, § 2º, do CPC" (e-STJ, fl. 1.062).
+Irresignada, SPE ORLA 1 apelou, tendo sido o recurso provido pelo TJGO, nos termos da ementa acima transcrita.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alínea a, da CF, CICERA alegou a violação dos arts. 2º, § 5º, da Lei n. 6.766/79, 30, 37, §§ 1º e 3º, e 51, III e IX, do CDC, e 186 e 927 do CC, ao sustentar a responsabilidade da empresa incorporadora pela entrega do loteamento com toda a parte de infraestrutura realizada, a qual não pode ser transferida a terceiros, nos termos do que dispõe a legislação consumerista.
+Da infraestrura do empreendimento
+Sobre o tema controvertido, verifica-se que o Tribunal estadual reformou a sentença para julgar improcedentes os pedidos autorais, sob o entendimento de que a empresa requerida cumpriu com as obrigações assumidas, em relação à infraestrutura do loteamento, consoante se infere da fundamentação a seguir:
+"No que tange à alegada consecução das supracitadas obras estruturais, em relação ao caso em questão, verifica-se que foram efetivadas, conforme auto de verificação realizado por Oficial de Justiça (evento 118).
+Conforme se observa pelo aludido mandado de inspeção, a rua OM-38, onde situa-se o lote afeto a presente obrigação de fazer, conta com iluminação pública, asfalto e meio-fio e rede de água, não existindo apenas a rede de esgoto, pois a captação deste é feito por fossas sépticas.
+Necessária, por conseguinte, a reforma da sentença no que diz respeito à condenação da apelante à obrigação de executar os serviços referentes a pavimentação da rua, calçada e meio-fio.
+A seu turno, tocante ao fornecimento de rede de esgoto, em contrapartida, cumpre observar que à época da escrituração do contrato firmado entre as partes (mov. 1, arquivo 3-3.9) vigia norma a determinar ser a infraestrutura básica dos parcelamentos de solo composta por "(..) equipamentos urbanos de escoamento das águas pluviais, iluminação pública, esgotamento sanitário, abastecimento de água potável, energia elétrica pública e domiciliar e vias de circulação" (art. 2º, § 5º, da Lei nº 6.766/79)(Grifei). Razão pela qual, a princípio, estaria a apelante compelida a fornecê-los.
+Não se olvida, contudo, acerca da não estipulação da implementação de rede de esgoto, no ato administrativo responsável por autorizar o parcelamento do solo e a criação do loteamento objeto de discussão (Decreto Municipal nº 2861/2008), eis que não consta do rol de obras de infraestrutura a serem realizadas no empreendimento (mov. 1, arquivo 5 - art. 6º).
+A respeito do tema salienta-se a existência de Incidente de Resolução de Demandas Repetitivas (Tema nº 09/TJGO) julgado por este E. Sodalício, litteris:
+a. Não se pode imputar ao loteador encargos de infraestrutura básica não previstos no Decreto municipal n. 1.776/2002, na Lei municipal n. 7.222/93, na Lei federal n. 6.799/79 e no contrato de compra e venda, tal como o asfaltamento.
+b. A propaganda veiculada pelo loteador, desde que capaz de induzir o consumidor a erro, violando a legislação consumerista, pode ensejar a obrigação de entrega da infraestrutura prometida, em razão do princípio da boa-fé objetiva, questão esta, porém, que deve ser analisado em cada caso concreto, por se tratar de matéria fática.
+c. Muito embora a legislação federal exija o esgotamento sanitário como requisito de infraestrutura básica dos parcelamentos (artigo 2º, § 5º, da Lei federal n. 6.766/79), a Lei municipal n. 7.222/93 não atribuiu essa responsabilidade ao loteador, de forma que, se o Decreto municipal aprovar o loteamento também sem atribuir tal obrigação à empresa loteadora, não há a obrigação de construção de rede de esgoto, notadamente quando não há a possibilidade de a empresa de saneamento coletar tal esgoto para dar-lhe a destinação adequada, competindo ao loteador encontrar alternativa (fossa séptica) aceita pela Secretaria Municipal do Meio Ambiente.
+Por corolário, em razão da ausência de previsão no contrato e no decreto municipal n 2.861, de 27/11/2008, sobre a implementação de esgotamento sanitário no loteamento sub judice , impossível imputar ao loteador o cumprimento de tal obrigação (e-STJ, fls. 1.515/1.516).
+Desse modo, para ultrapassar a conclusão do Tribunal estadual, no sentido de que a empresa incorporadora cumpriu com as obrigações assumidas, no tocante às obras de infraestrutura do loteamento, seria necessária a interpretação de cláusulas do contrato firmado entre as partes, bem como o reexame das circunstâncias fáticas da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas n. 5 e 7 do STJ.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor da parte recorrida, limitados a 20%, nos termos do art. 85, § 11, do CPC, observada a concessão da gratuidade de justiça à ora recorrente.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
