@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  DESPESAS  CONDOMINIAIS.  JUSTIÇA  GRATUITA.  INDEFERIMENTO.  HIPOSSUFICIÊNCIA.  NÃO  COMPROVAÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  a  concessão  do  benefício  de  gratuidade  da  justiça  à  pessoa  jurídica  somente  é  possível  quando  comprovada  a  precariedade  de  sua  situação  financeira,  inexistindo,  em  seu  favor,  presunção  de  insuficiência  de  recursos.  Súmula  nº  481/STJ.
+2.  Não  cabe  ao  Superior  Tribunal  de  Justiça  reexaminar  as  conclusões  do  tribunal  de  origem  no  tocante  à  inexistência  de  comprovação  da  hipossuficiência  e  consequente  in  deferimento  do  pedido  de  justiça  gratuita  ao  agravante,  sob  pena  de  usurpar  a  competência  das  instâncias  ordinárias,  a  quem  compete  o  amplo  juízo  de  cognição  da  lide.  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CONDOMÍNIO  GARAGEM  AUTOMÁTICA  AURORA  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (e-STJ  fls.  291/294).
+Em  suas  razões  (e-STJ  fls.  297/317),  o  agravante  postula  a  reforma  da  decisão  atacada,  alegando  que  a  matéria  foi  prequestionada  e  que  a
+"(..)  análise  do  presente  recurso  e  do  Agravo  em  Recurso  Especial,  não  exigem  o  reexame  de  fatos  e  provas,  sendo,  portanto,  inaplicável  ao  caso  concreto  a  Súmula  7/STJ,  por  envolver  matéria  eminentemente  de  direito,  já  que  se  debate  estritamente  a  aplicação  e  eficácia  dos  artigos  4º  da  Lei  nº  1.060/1950,  artigo  98  do  Código  de  Processo  Civil  e  Súmula  nº  481  deste  Superior  Tribunal  de  Justiça".
+Ao  final,  sustenta  que  a  divergência  jurisprudencial  restou  efetivamente  demonstrada.
+Não  houve  impugnação.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EXECUÇÃO  DE  TÍTULO  EXTRAJUDICIAL.  DESPESAS  CONDOMINIAIS.  JUSTIÇA  GRATUITA.  INDEFERIMENTO.  HIPOSSUFICIÊNCIA.  NÃO  COMPROVAÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  a  concessão  do  benefício  de  gratuidade  da  justiça  à  pessoa  jurídica  somente  é  possível  quando  comprovada  a  precariedade  de  sua  situação  financeira,  inexistindo,  em  seu  favor,  presunção  de  insuficiência  de  recursos.  Súmula  nº  481/STJ.
+2.  Não  cabe  ao  Superior  Tribunal  de  Justiça  reexaminar  as  conclusões  do  tribunal  de  origem  no  tocante  à  inexistência  de  comprovação  da  hipossuficiência  e  consequente  in  deferimento  do  pedido  de  justiça  gratuita  ao  agravante,  sob  pena  de  usurpar  a  competência  das  instâncias  ordinárias,  a  quem  compete  o  amplo  juízo  de  cognição  da  lide.  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+O  presente  recurso  versa  acerca  do  direito  à  gratuidade  de  justiça,  em  virtude  de  comprovação  de  sua  hipossuficiência  financeira,  pois  trata-se  de  um  condomínio  e  depende  do  pagamento  das  taxas  condominiais,  o qual  vêm  sofrendo  muito  com  inadimplemento  de  seus  condôminos.
+A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  a  concessão  do  benefício  de  gratuidade  da  justiça  à  pessoa  jurídica  somente  é  possível  quando  comprovada  a  precariedade  de  sua  situação  financeira,  inexistindo,  em  seu  favor,  presunção  de  insuficiência  de  recursos.  Súmula  nº  481/STJ.
+Com  efeito,  a  respeito  da  assistência  judiciária  gratuita,  a  modificação  dos  parâmetros  adotados  pelo  tribunal  de  origem  quanto  à  não  comprovação  da  hipossuficiência  do  agravante  implicaria  reexame  fático-probatório  dos  autos,  procedimento  inadmissível  no  âmbito  do  recurso  especial.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGÓCIOS  JURÍDICOS  BANCÁRIOS.  GRATUIDADE  DE  JUSTIÇA.  PESSOA  JURÍDICA.  NECESSIDADE  DE  PROVA  DA  INSUFICIÊNCIA  DE  RECURSOS.  SÚMULA  481/STJ.  AUSÊNCIA  DE  COMPROVAÇÃO.  REEXAME  DE  PROVAS.  DECLARAÇÃO  DE  HIPOSSUFICIÊNCIA  FIRMADA  PELOS  RECORRENTES,  PESSOAS  FÍSICAS.  PRESUNÇÃO  IURIS  TANTUM.  AGRAVO  INTERNO  PARCIALMENTE  PROVIDO.
+1.  Nos  termos  da  jurisprudência  desta  Corte,  a  concessão  do  benefício  de  gratuidade  da  justiça  a  pessoa  jurídica  somente  é  possível  quando  comprovada  a  precariedade  de  sua  situação  financeira,  inexistindo,  em  seu  favor,  presunção  de  insuficiência  de  recursos.  Súmula  481/STJ.
+2.  O  Tribunal  de  origem  reconheceu  que  não  foi  comprovada  a  alegada  insuficiência  de  recursos  para  arcar  com  as  custas  processuais  pela  pessoa  jurídica,  de  modo  que  não  é  possível  o  deferimento  do  benefício  de  gratuidade  de  justiça  pleiteado.
+3.  No  caso,  a  modificação  do  entendimento  lançado  no  v.  acórdão  recorrido  demandaria  revolvimento  do  suporte  fático-probatório  dos  autos,  o  que  é  inviável  em  sede  de  recurso  especial,  a  teor  do  que  dispõe  a  Súmula  7  deste  Pretório.
+4.  Por  outro  lado,  é  assente  o  entendimento  deste  Sodalício  de  que  a  simples  declaração  de  pobreza,  firmada  por  pessoa  física,  tem  presunção  juris  tantum,  bastando,  a  princípio,  o  requerimento,  sem  necessária  comprovação  prévia,  para  que  lhe  seja  concedido  o  benefício  da  assistência  judiciária  gratuita.  Precedentes.
+5.  Agravo  interno  parcialmente  provido,  para  deferir  o  benefício  da  justiça  gratuita  aos  recorrentes  pessoas  físicas  indicados"  (AgInt  no  AREsp  1.995.577/RS,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  25/4/2022,  DJe  de  24/5/2022).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  ESPECIAL  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AGRAVO  DE  INSTRUMENTO.  GRATUIDADE  DE  JUSTIÇA.  HIPOSSUFICIÊNCIA  NÃO  COMPROVADA  NAS  INSTÂNCIAS  ORDINÁRIAS.  INVERSÃO  DO  JULGADO.  IMPOSSIBILIDADE.  REEXAME  FÁTICO-PROBATÓRIO.  INCIDÊNCIA  DA  SÚMULA  Nº  7  DO  STJ.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  Após  o  indeferimento  do  benefício  da  assistência  judiciária  gratuita  nas  instâncias  ordinárias,  compete  ao  recorrente  demonstrar  que  houve  alteração  em  sua  condição  econômico-financeira  a  fim  de  que  seja  concedida  a  gratuidade  na  fase  recursal.
+3.  A  presunção  de  veracidade  da  declaração  de  hipossuficiência  pode  ser  ilidida  na  hipótese  em  que  existam  nos  autos  evidências  de  que  não  estão  presentes  os  requisitos  legais  para  deferimento  do  beneplácito.
+4.  A  alteração  das  conclusões  da  Corte  a  quo  para  reconhecer  a  alegada  hipossuficiência  ensejaria  indevido  reexame  de  fatos  e  provas,  em  face  do  disposto  na  Súmula  nº  7  do  STJ.
+5.  Agravo  interno  não  provido  "  (AgInt  no  AgInt  no  AREsp  1.916.722/SP,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  14/3/2022,  DJe  de  18/3/2022).
+Registra-se,  ademais,  que  a  necess i dade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
