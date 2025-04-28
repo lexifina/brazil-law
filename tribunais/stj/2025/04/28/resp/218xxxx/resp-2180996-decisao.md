@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROSE KELLY DE MATOS MOREIRA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fl. 256):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL - INADIMPLÊNCIA DO PROMITENTE-COMPRADOR - CLÁUSULA PENAL COMPENSATÓRIA - 10% DO VALOR ATUALIZADO DO CONTRATO - PERMISSIVO LEGAL - COMISSÃO DE CORRETAGEM - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - ÔNUS SUCUMBENCIAIS - DECAIMENTO MÍNIMO DO REQUERIDO - ART. 86, PARÁGRAFO ÚNICO, DO CPC - RECURSO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO.
+Nos contratos de compra e venda de imóveis, em caso de rescisão por culpa do promitente-comprador, o promitente-vendedor tem direito à retenção de percentual razoável das parcelas pagas a título de indenização, uma vez que o término de um contrato exige que se promova o retorno das partes ao status quo ante.
+E a partir da Lei nº 13.786/2018 (Lei do Distrato), em caso de rescisão do contrato por culpa do promitente-comprador, passou-se a permitir a retenção de até 10% (dez por cento) do valor atualizado do contrato, como se fez no caso concreto.
+Não obstante o contrato possa ser revisto e seja analisado sob a égide da Lei nº 8.078/90, o preceito insculpido no inciso V do art. 6º do CDC exige a "demonstração objetiva da excessiva onerosidade advinda para o consumidor" (REsp n. 417.927/SP) e não a mera constatação de que os pagamentos livremente pactuados causaram desfalque financeiro no consumidor.
+Em relação à comissão de corretagem, houve violação ao princípio da dialeticidade, porquanto a sentença reconheceu a prescrição da pretensão de cobrança dessa parcela, o que não foi rebatido nas razões recursais.
+Diante da sucumbência mínima da parte requerida, deve a parte requerente arcar integralmente com os ônus sucumbenciais, nos termos do art. 86, parágrafo único, do CPC.
+Recurso parcialmente conhecido e, nesta parte, desprovido.
+Afirma a recorrente que há, além de dissídio com o entendimento desta Corte, violação ao art. 53 do CDC, sustentando ser cabível a revisão do distrato de compra e venda de imóvel.
+Assere que a comissão de corretagem foi cobrada indevidamente, pois o contrato não faz nenhuma estipulação específica sobre ela, nem no seu quadro-resumo. Foi violado o Tema 960/STJ (Tema 939/STJ).
+Com contrarrazões (fls. 285-291), o recurso foi admitido na origem.
+É o relatório.
+Colhe-se do acórdão recorrido (fls. 258-263):
+(..)
+Na espécie, o presente recurso visa, em síntese, à reforma da sentença proferida às fls. 190/219, para que sejam acolhidas as seguintes teses: a) alteração da multa penal de 10% do valor do contrato; b) afastamento da retenção da comissão de corretagem; c) redimensionamento dos ônus sucumbenciais.
+Passo ao exame das matérias arguidas.
+II. a) Multa penal
+No caso, não houve controvérsia sobre a possibilidade de rescisão do contrato de compra e venda firmado entre as partes, referentes ao Lote nº 002, da Quadra nº 44, do Loteamento Cidade Jardim II, na cidade de Dourados, pelo valor de R$ 69.000,00 (sessenta e nove mil reais), em razão do inadimplemento da compradora, ora Apelante.
+(..)
+Pactuou-se, na hipótese, pela retenção de 10% (dez por cento) do valor total e atualizado do contrato, na hipótese de resolução do contrato por inadimplemento do comprador, como efetivamente reconhecido no caso concreto, inclusive na própria inicial à fl. 02 e na sentença.
+Quanto às bases, o contrato firmado previu a compra do lote no valor total de R$ 69.000,00 (fl. 23) e é sobre esta base que a sentença estabeleceu a retenção; a Requerente/Apelante, por sua vez, entende que a base de cálculo deve ser o valor das prestações pagas, evitando-se um excesso desproporcional ao encargo assumido. Pois bem, o ajuste foi assinado após a vigência da Lei nº 13.786/2018 (Lei do Distrato), que, dentre outras disposições, alterou a Lei nº 6.766/79, a qual "Dispõe sobre o Parcelamento do Solo Urbano e dá outras Providências".
+(..)
+Com efeito, ainda que o contrato possa ser revisto e seja analisado sob a égide da Lei nº 8.078/90, o preceito insculpido no inciso V do art. 6º do CDC exige a "demonstração objetiva da excessiva onerosidade advinda para o consumidor" (REsp n. 417.927/SP) e não a mera constatação de que os pagamentos livremente pactuados causaram desfalque financeiro no consumidor.
+As bases objetivas do contrato estão mantidas e não houve causa superveniente que recomendasse a redução do percentual de 10% sobre o valor do contrato, que, frise-se, possui amparo em norma legal válida e de constitucionalidade presumida. Se é certo que não houve demonstração de prejuízo, não menos correto é compreender que a Requerida/Apelada usou de prerrogativa legal que foi plenamente aceita pela Requerente/Apelante por ocasião da celebração do aditivo contratual.
+(..)
+No caso, não vislumbro que a utilização da base de calculo do contrato trará onerosidade excessiva que justifique a intervenção Judicial, sob pena de transformar a exceção em regra e afastar a autonomia contratual, trazendo indesejada insegurança jurídica em negócios de desse jaez, de modo a repercutir negativamente na sociedade e em outros adquirentes que pretendam adquirir lotes em iguais condições. Não se pode olvidar, também, que a opção feita pelo Legislador de majorar a base de cálculo e os respectivos descontos constitui uma reação legislativa aos precedentes jurisprudenciais que limitavam os descontos em percentuais que variavam de 10% a 25% dos valores pagos.
+(..)
+Em razão disso, deve ser mantido o percentual estabelecido no contrato, em detrimento daquele fixado na sentença recorrida.
+Saliento, ainda, que o eventual excesso descrito pela Requerente/Apelante não decorre da incidência dos 10% sobre o valor do contrato, mas dos demais encargos que podem ser cumulativamente aplicados; contudo, o presente recurso não abrangeu tais cobranças adicionais, razão pela qual não serão analisadas.
+Trata-se de consectário do princípio da congruência e do brocardo tantum devolutum quantum apellattum, os quais orientam a análise da Apelação e o respectivo efeito devolutivo, no aspecto da extensão, de modo que o órgão ad quem deverá observar os limites do recurso, conhecendo apenas aquilo que foi contestado.
+Destarte, se o recurso é apenas parcial, o tribunal não pode, por força do efeito devolutivo, ir além daquilo que é objeto da pretensão recursal.
+II. b) Comissão de corretagem
+Em relação à comissão de corretagem, entendo que este recurso não deve ser conhecido por ausência de dialeticidade.
+Isso porque a sentença reconheceu a prescrição do direito de restituição dos valores referentes à comissão de corretagem (fl. 195) e a Requerente/Apelante não rebateu os argumentos expostos em primeiro grau, limitando- se a argumentar, de forma genérica, que não poderiam ser retidos.
+Contudo, conforme se viu da sentença, o direito de retenção ou não sequer foi analisado, visto que foi acolhida "a preliminar de mérito suscitada, reconhecendo a prescrição da restituição dos valores pagos a título de comissão de corretagem".
+Como se sabe, o princípio da dialeticidade exige que a parte recorrente exponha seus fundamentos e os confronte com a suposta injustiça perpetrada na sentença, não bastando, para tanto, meras insurgências genéricas e com indicação dos mesmos fundamentos apresentados na lide.
+É mister, portanto, que haja um confronto entre as razões recursais e os fundamentos esposados na sentença, a fim de que a parte contrária, diante dos argumentos apresentados, possa igualmente se defender.
+Depreende-se da leitura do excerto transcrito que incide à espécie a Súmula 283/STF, pois está o julgamento alicerçado em fundamentos (Lei 13.768/2018 e art. 6º, V, do CDC), capazes, por si, para manter o julgado, que não foram especificamente impugnados nas razões do recurso especial.
+No tocante à comissão de corretagem, sequer, foi a matéria conhecida, porquanto fixou o aresto combatido não ter a recorrente respeitado o princípio da dialeticidade, ao interpor a apelação. Aplica-se, no particular, as Súmulas 282 e 356 do STF.
+Nesses sentidos:
+VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULA N. 282 DO STF. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. RAZÕES DE DECIDIR. NÃO IMPUGNAÇÃO. SÚMULA N. 283 DO STF. INDENIZAÇÃO SECURITÁRIA. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. PRESCRIÇÃO. ÔNUS SUCUMBENCIAIS. AFERIÇÃO DA PROPORÇÃO DE SUCUMBÊNCIA. SÚMULA N. 7 DO STJ.
+(..)
+3. A ausência de impugnação dos fundamentos do acórdão recorrido, suficientes por si só, para a manutenção do decidido acarreta a incidência da Súmula n. 283 do STF.
+4. Em ação em que busca indenização securitária, os juros de mora devem incidir a partir da citação, pois trata-se de responsabilidade contratual.
+5. Não se admite a revisão do quantitativo em que autor e réu decaíram do pedido ou a verificação de sucumbência mínima ou recíproca para efeito de fixação de honorários advocatícios, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.617.379/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA FECHADA. RECONHECIMENTO DE DIFERENÇAS SALARIAIS EM RECLAMAÇÃO TRABALHISTA. INTEGRAÇÃO NO CÁLCULO DO BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. EQUILÍBRIO ATUARIAL E FONTE DE CUSTEIO. OBSERVÂNCIA. TESES EM MODULAÇÃO DE EFEITOS EM RECURSO REPETITIVO. REDIMENSIONAMENTO DE VERBA HONORÁRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO ADOTADO PELO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF, POR ANALOGIA. PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA. NÃO CABIMENTO. FIXAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No que se refere à modificação do arbitramento sucumbencial, este Tribunal Superior consolidou o entendimento de que, via de regra, se mostra inviável, em recurso especial, porquanto referida discussão encontra-se no contexto fático-probatório dos autos, inviabilizando, em princípio, a alteração do valor arbitrado nas instâncias ordinárias, ressalvando-se as hipóteses de valor excessivo ou irrisório.
+3. Havendo preservação de argumento que, por si só, sustenta o acórdão recorrido, torna inviável o conhecimento do recurso especial, atraindo a aplicação da Súmula nº 283 do Supremo Tribunal Federal.
+4. "A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de dispositivo tido por violado no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas n. 282 e 356 do Supremo Tribunal Federal." (AgInt no REsp 1.887.951/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turam, j. 8/2/2021, DJe 12/2/2021).
+5. É firme a jurisprudência assentada nesta Corte no sentido de que para que haja a possibilidade do prequestionamento implícito, cabe à parte alegar, quando de suas razões do recurso especial, a necessária violação do art. 1.022 do referido Código, de modo a permitir sanar eventual omissão por meio de novo julgamento dos aclaratórios, caso existente, o que não foi feito no presente feito.
+6. A questão do não cabimento dos honorários sucumbenciais, com base no entendimento firmado em tese de demanda repetitiva, não foi suscitada anteriormente pela parte agravante, inviabilizando que seja levantada em agravo interno, por configurar inovação recursal.
+7. Agravo interno não provido.
+(AgInt no REsp n. 1.881.309/DF, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022)
+Ante o exposto, não conheço do recurso especial.
+Em consequência, nos termos do art. 85, §11, do CPC, majoro em 1% o percentual de honorários advocatícios fixado na origem.
+Publique-se.
+EMENTA
