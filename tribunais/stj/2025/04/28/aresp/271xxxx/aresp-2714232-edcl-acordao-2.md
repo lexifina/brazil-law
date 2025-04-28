@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO NO TRIBUNAL DE ORIGEM. DIALETICIDADE NÃO OBSERVADA. RECURSO DESPROVIDO. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Cuida-se de embargos de declaração opostos por CAPEMISA SEGURADORA DE VIDA E PREVIDÊNCIA S/A contra acórdão da Quarta Turma do STJ, assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO NO TRIBUNAL DE ORIGEM. DIALETICIDADE NÃO OBSERVADA. RECURSO DESPROVIDO.
+1. Nos termos do entendimento pacífico desta Corte, é obrigação do agravante impugnar todos os fundamentos da decisão que, no Tribunal de origem, não admite o especial.
+2. O princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar a razão pela qual a decisão recorrida não deve ser mantida, evidenciando o seu desacerto.
+3. Agravo interno desprovido. (fl. 691)
+Sustenta que:
+i) "o acordão embargado entendeu que esta embargante não teria se manifestado sobre o ponto i), notadamente de que, "uma vez que o negócio jurídico que ensejou a adesão do recorrido ao Plano de Pecúlio é nulo, insuscetível de prescrição ou de decadência", o que teria atraído a incidência da Súmula 182 do STJ";
+ii) "desde a oposição contra o acórdão do TJGO dos embargos de declaração para corrigir erro material, suprir omissões quanto à decadência e prescrição suscitadas e para fins de prequestionamento, esta embargante vem impugnando o acórdão a quo sob um único fundamento, qual seja, o de que na espécie ocorreu a decadência, nos moldes do artigo 178, § 9º, inciso V, alínea "b", do Código Civil de 1916; e a prescrição prevista no artigo 206, § 1º, II, "b", do Código Civil, não se aplicando, por conseguinte, o art. 51, caput e inciso IV do Código de Defesa do Consumidor, segundo o qual são nulas de pleno direito as cláusulas contratuais que estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a equidade; e nem o art. 169 do Código Civil, que dispõe que "o negócio jurídico nulo não é suscetível de confirmação, nem convalesce pelo decurso do tempo" e que foram aplicados em conjunto pelo TJGO ensejando a constatação de que, sendo nulo o negócio jurídico que ensejou a adesão do Autor ao Plano de Pecúlio, com renúncia às cláusulas da avença anterior (contrato n. 60717105), não há falar em decadência e/ou prescrição do direito vindicado pela parte embargada".
+Impugnação às fls. 985-986.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO NO TRIBUNAL DE ORIGEM. DIALETICIDADE NÃO OBSERVADA. RECURSO DESPROVIDO. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+2. Como sabido, os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material, não sendo admitida sua oposição com a finalidade de se rediscutir questões decididas e devidamente fundamentadas na decisão embargada, o que significa que os embargos não são aptos a provocar novo julgamento da lide.
+Na espécie, limita-se a embargante a atacar o acórdão, tentando infirmá-lo, a pretexto de omissão, contradição, obscuridade e erro, aduzindo que não há falar em incidência da Súmula 182 do STJ, pois impugnou o "ponto i), notadamente de que, "uma vez que o negócio jurídico que ensejou a adesão do recorrido ao Plano de Pecúlio é nulo, insuscetível de prescrição ou de decadência".
+No entanto, nada há a alterar no julgamento embargado.
+Deveras, o acórdão recorrido negou provimento ao agravo interno sob dois fundamentos, in verbis:
+i) "Todavia, nas razões do presente agravo em recurso especial, a agravante simplesmente não se manifestou sobre o ponto i), notadamente de que, "uma vez que o negócio jurídico que ensejou a adesão do recorrido ao Plano de Pecúlio é nulo, insuscetível de prescrição ou de decadência". Por conseguinte, há a incidência da Súmula 182 do STJ diante da inexistência de impugnação específica dos fundamentos da decisão agravada, permanecendo incólumes os motivos expendidos pela decisão recorrida, nos termos do art. 1.021, § 1º, do CPC";
+ii) "Ademais, no tocante à Súmula 7 do STJ, limitou-se a agravante a fazer alegação genérica de que ela não seria aplicável (fls. 870-884), sem "empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida essas não exigem a alteração do quadro fático delineado pelo Tribunal local" (AgRg no AREsp 2.060.997/SC, Relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 10/8/2022)".
+Como dito, o agravo em recurso especial acabou deixando de impugnar o argumento de que o negócio entabulado, por ser nulo, seria insuscetível de prescrição e decadência.
+Das razões do recurso em questão, limita-se a arguir a existência de omissão do julgado, de que faltaria pronunciamento sobre a decadência, e que seria possível a análise das datas para fins de se afastar a decadência ou a prescrição (não incidiria a Súmula 7, neste ponto). Portanto, nada disse sobre o fato de o negócio ser nulo e, por conseguinte, de sua consequência jurídica de não haver falar em prescrição ou decadência.
+Além disso, não há utilidade prática em se analisar eventuais efeitos modificativos de um determinado fundamento, quando o outro fundamento autônomo manteve-se incólume, sem nenhuma irresignação por parte da agravante.
+3. Ante o exposto, rejeito os embargos de declaração.
+É o voto.
