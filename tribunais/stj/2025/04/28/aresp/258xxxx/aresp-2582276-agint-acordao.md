@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO MÉDICO EM FUNÇÃO DE CARÊNCIA CONTRATUAL. RAZÕES RECURSAIS DISSOCIADAS DA REALIDADE DOS AUTOS. INCIDÊNCIA DA SÚMULA 182/STJ E DA SÚMULA 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo interno atende aos pressupostos de admissibilidade, para, assim, ser conhecido pelo Superior Tribunal de Justiça.
+III. Razões de decidir
+3. A hipótese atrai a incidência da Súmula 182/STJ, que considera inviável o conhecimento do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. No caso em apreço, as razões recursais apresentam-se dissociadas da realidade dos autos, o que inviabiliza o conhecimento da insurgência por deficiência de fundamentação, atraindo, por analogia, o óbice da Súmula 284/STF.
+IV. Dispositivo
+5. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), que conheceu do agravo para negar provimento ao recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento, pois teria demonstrado de forma detalhada e específica, a violação à legislação federal e aos precedentes do STJ sobre a obrigatoriedade da cobertura de tratamento multidisciplinar para TEA, evidenciando que a recusa da operadora afronta diretamente normas de ordem pública e o entendimento consolidado da Corte.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE TRATAMENTO MÉDICO EM FUNÇÃO DE CARÊNCIA CONTRATUAL. RAZÕES RECURSAIS DISSOCIADAS DA REALIDADE DOS AUTOS. INCIDÊNCIA DA SÚMULA 182/STJ E DA SÚMULA 284/STF. AGRAVO INTERNO NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o agravo interno atende aos pressupostos de admissibilidade, para, assim, ser conhecido pelo Superior Tribunal de Justiça.
+III. Razões de decidir
+3. A hipótese atrai a incidência da Súmula 182/STJ, que considera inviável o conhecimento do agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. No caso em apreço, as razões recursais apresentam-se dissociadas da realidade dos autos, o que inviabiliza o conhecimento da insurgência por deficiência de fundamentação, atraindo, por analogia, o óbice da Súmula 284/STF.
+IV. Dispositivo
+5. Agravo interno não conhecido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 371-375):
+O recurso não merece prosperar.
+A controvérsia tem origem em ação indenizatória em que a parte agravada pleiteou o ressarcimento dos valores despendidos com o procedimento cirúrgico de apendicectomia, bem como a indenização por danos morais em decorrência de recusa da operadora do plano de saúde de cobertura por estar em curso o prazo de carência.
+Na sentença, o Juízo de primeiro grau condenou a operadora a reembolsar os valores despendidos para custear a internação e procedimento cirúrgico de emergência do agravado em hospital não credenciado, afastando a indenização por danos morais.
+O Tribunal de origem manteve a condenação da operadora do plano de saúde, além de acrescentar na condenação o pagamento de R$ 5.000,00 pelos danos morais experimentados pela parte agravada. Concluiu, assim, ser obrigatória a cobertura da internação, pois tratava-se de caso de incontroversa urgência/emergência, fundamentando-se no enunciado da Súmula n. 302 do STJ.
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que não é abusiva a cláusula contratual que prevê prazo de carência para os serviços prestados pelo plano de saúde. No entanto, configura abusividade a negativa de fornecimento de assistência médica em casos de urgência ou emergência durante o período de carência, sendo injusta a recusa da operadora.
+Nesse sentido: AgInt no AREsp n. 1.994.842/AP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022; AgInt no AREsp n. 1.942.424/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 6/6/2022, DJe de 10/6/2022.
+Nesse mesmo sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER. DANOS MORAIS. INAPLICABILIDADE DA CLÁUSULA DE CARÊNCIA. URGÊNCIA/EMERGÊNCIA. FUNDAMENTO SUFICIENTE INATACADO. SÚMULAS N. 283 E 284/STF. RECUSA INJUSTIFICADA. DANOS MORAIS INDENIZÁVEIS. SÚMULAS N. 7 E 83/STJ.
+1. Verifica-se que a parte recorrente não impugnou todos os fundamentos autônomos e suficientes indicados no acórdão recorrido, principalmente no que se refere à inaplicabilidade da cláusula de carência aos casos de urgência e emergência, o que atrai a incidência da Súmula n. 283/STF, aplicável por analogia ao recurso especial.
+2. A jurisprudência desta Corte é firme quanto à existência de dano moral indenizável nos casos de negativa de fornecimento de atendimento médico de urgência ou emergência com fundamento em cláusula de carência, porquanto configurada a abusividade.
+Incidência da Súmula n. 83/STJ.
+3. Ademais, a modificação do acórdão recorrido dependeria do reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte, conforme a Súmula n. 7/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.502.966/CE, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+Registre-se ainda que esta Corte já sedimentou o entendimento de que é abusiva a cláusula contratual que, em casos de urgência ou emergência, limita o período de internação ao período de 12 horas ou prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou urgência quando ultrapassado o prazo máximo de 24 horas, conforme disposto nas Súmulas n. 302 e 597 do STJ.
+A propósito: AgInt no AREsp n. 2.431.066/MA, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024; AgInt no REsp 2.025.038/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023; AgInt no AREsp n. 1.865.595/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/11/2021, DJe de 9/12/2021; AgInt no AREsp n. 1.989.828/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 6/6/2022, DJe de 9/6/2022.
+No caso, o Tribunal de origem manteve a sentença que concluíra ser injusta a negativa de cobertura de procedimento cirúrgico em caráter emergencial, com base em cláusula de período de carência. A propósito, confira-se trecho do julgado (fls. 272-275):
+Repise-se, que consta nos autos receituário médico elaborado pela Dra. Beatriz Falcão, CREMEC 21039, descrevendo a situação do paciente com quadro de apendicite aguda, e indicando a realização de apendicectomia com transporte via ambulância.
+Com efeito, embora válida a cláusula de carência estabelecida em contrato e voluntariamente aceita pelo consumidor, cediço que há de ser interpretada restritivamente quando se tratar de circunstância excepcional.
+Inclusive, há precedentes desta câmara de direito privado no sentido de que conforme o artigo 51, do CDC, afigura-se abusiva a cláusula contratual que estabelece o prazo de carência superior a vinte e quatro horas para a cobertura do atendimento nos casos de urgência e emergência, pois limita os direitos assegurados por lei e atenta contra o objeto do contrato e o equilíbrio contratual, colocando o consumidor em desvantagem exagerada.
+Ademais, nos termos da Súmula n.º 597, do STJ: "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação".
+Logo, transcorrido o prazo de vinte e quatro horas previsto em lei, infundada a conduta da promovida em negar autorização de internação do suplicante para que houvesse a intervenção cirúrgica em situação de emergência.
+Dito isso, entendo por bem transcrever e ratificar o seguinte excerto extraído da sentença: "Da análise dos autos, observa-se que, a despeito da irresignação da promovida, o requerente comprovou o fato constitutivo do seu direito (art. 373, I, CPC), porquanto demonstrou que faz jus a cobertura de urgência/emergência ofertada pela operadora de saúde, tendo em vista o vínculo contratual de assistência de saúde (plano de saúde) denominada Nosso Plano, foi entabulado entre os litigantes em 30/06/2022. Verifica-se, outrossim, que a urgência do caso também foi devidamente comprovada, posto que o acervo probatório juntado, qual seja, ficha de admissão de internamento (fls. 26), guia de solicitação de internação (registrada sob o nº nº 6550811- fls. 27), os exames e os relatórios médico (fls. 28/30), bem como o atestado médico (fls. 31) e relatório de alta (fls. 33), demonstram que o quadro clínico do autor exigia pronto atendimento médico-hospitalar. Dessa forma, é cediço que o artigo 35-C, I, da Lei nº 9.656/98, estabelece que é obrigatória a cobertura dos atendimentos nos casos de emergência, que encerram risco imediato de vida ou de lesões irreparáveis". Com efeito, considerando que o dispositivo supracitado trata-se de norma de ordem pública, resta claro que a mesma se sobrepõe a qualquer disposição contratual ou administrativa restritiva, que a ela se contraponha. Por conseguinte, a alegação de que não havia prazo de carência para autorização do procedimento cirúrgico prescrito ao paciente que apresentava quadro de apendicite aguda, não pode ser acolhida, uma vez que a cirurgia foi determinada por orientação médica, ante o risco de piora do quadro clínico do autor".
+ ..
+No que diz respeito aos danos morais, a jurisprudência do STJ é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento de urgência ou emergência, segundo entendimento jurisprudencial desta Corte, há configuração de danos morais indenizáveis (AgInt no R Esp 1.838.679/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/03/2020, D Je de 25/03/2020).
+Na hipótese, diante das peculiaridades da situação em apreço, em que o demandante se viu privado da assistência de que necessitava, com estado de saúde fragilizado e diante da recusa em realizar o procedimento solicitado pela médica que o acompanhou impõe-se reconhecer a configuração de ato ilícito passível de indenização a este título.
+Assim, o Tribunal de origem decidiu em sintonia com o entendimento do Superior Tribunal de Justiça, o que atrai a aplicação da Súmula n. 83 desta Corte.
+Ademais, para infirmar as conclusões do acórdão recorrido acerca da urgência do tratamento, seria imprescindível o reexame de provas, o que é inadmissível em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Do mesmo modo, " n ão demonstrada a excepcionalidade capaz de ensejar revisão pelo Superior Tribunal de Justiça, o conhecimento das alegações recursais acerca do montante fixado a título de danos morais pelas instâncias ordinárias implicaria reexame de questões fático-probatórias presentes nos autos, providência inviável, conforme a Súmula nº 7/STJ." (AgInt no AREsp n. 2.718.056/RN, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 2/12/2024, DJEN de 6/12/2024.)
+Por fim, a incidência da Súmula n. 7 do STJ quanto à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Em atenção ao princípio da dialeticidade recursal, a impugnação da decisão agravada deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Observa-se que, no presente caso, a parte agravante argumenta pelo conhecimento e provimento de seu recurso em face dos precedentes do STJ sobre a obrigatoriedade da cobertura de tratamento multidisciplinar para TEA, enquanto a hipótese delineada nos autos trata da negativa de tratamento cirúrgico de apendicectomia, em virtude de carência contratual do plano de saúde.
+Ou seja, as razões recursais apresentam-se dissociadas da realidade dos autos, de modo que não foram impugnados os fundamentos que sustentam a decisão agravada, o que inviabiliza o conhecimento da insurgência ante os óbices da Súmula 182/STJ e 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. RAZÕES DISSOCIADAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA (ART. 1.021, § 1º, DO CPC/2015). MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE. AGRAVO INTERNO NÃO CONHECIDO.
+1. Registre-se que "o Superior Tribunal de Justiça tem a diretriz de que, se o recorrente apresenta razões dissociadas dos fundamentos adotados pelo julgado recorrido, a insurgência é deficiente na sua argumentação, circunstância que atrai a aplicação, por analogia, do enunciado de Súmula 284 da excelsa Corte Suprema" (AgInt nos EDcl no AREsp 1.700.429/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 29.04.2021; AgInt no REsp 1.806.873/PE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 25.11.2020).
+1.1. Na espécie, o insurgente, além de não impugnar o fundamento contido da decisão atacada, direcionou sua tese recursal ao combate de óbice que nem sequer foi utilizado como razão de decidir, circunstância esta que atrai a aplicação da Súmula 182/STJ e da Súmula 284/STF, por analogia.
+2. Verificada a ausência de impugnação específica de todos os fundamentos da decisão agravada, não há como conhecer deste agravo interno, diante da inobservância do princípio da dialeticidade, conforme exigem os arts. 932, III, e 1.021, § 1º, do CPC/2015.
+3. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.738.069/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+Ante o exposto, não conheço do agravo interno.
+Quanto aos honorários recursais, mantenho a decisão agravada.
+É o voto.
