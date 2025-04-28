@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EVERTON PAULO SCHAFER apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Apelação Criminal n. 0018559-73.2022.8.16.0014).
+Colhe-se dos autos que o paciente foi condenado à pena de 28 anos, 1 mês e 15 dias de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, incisos I, III, IV, VI, VIII e § 2º-A, inciso I, do Código Penal (e-STJ fls. 61/67).
+A defesa apelou, sendo o recurso parcialmente conhecido e desprovido pelo Tribunal de origem em acórdão cuja ementa foi assim definida (e-STJ fl. 52):
+APELAÇÃO CRIMINAL. JÚRI. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. RECURSO DA DEFESA. SUSCITADA NULIDADE POR UTILIZAÇÃO INDEVIDA, PELO PROMOTOR DE JUSTIÇA, DE DOCUMENTOS E DE ÁUDIOS EM PLENÁRIO. AUSÊNCIA DE IMPUGNAÇÀO NO MOMENTO OPORTUNO. PRECLUSÀO. MÉRITO. PLEITEADA ANULAÇÃO DO JULGAMENTO. INVIABILIDADE. DELIBERAÇÃO DOS JURADOS AMPARADA NO CONJUNTO PROBATÓRIO. SOBERANIA DOS VEREDICTOS. DOSIMETRIA DA PENA. PRIMEIRA FASE. CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME DEVIDAMENTE NEGATIVADAS. SEGUNDA FASE. AGRAVANTES FIXADAS EM PATAMAR DE EXASPERAÇÃO ADEQUADO. TERCEIRA FASE. POSTULADA APLICAÇÃO DA FRAÇÃO MÁXIMA DE DIMINUIÇÃO DA PENA PELO PRIVILÉGIO. MINORANTE NÃO RECONHECIDA PELOS JURADOS. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NEGA PROVIMENTO.
+No presente writ, sustenta inicialmente a defesa a nulidade da sessão do Tribunal do Júri, tendo em vista que o representante do Ministério Público utilizou-se de instrumento probatório inválido, inverídico e incerto, induzindo o Conselho de Sentença a acreditar que o paciente rotineiramente agredia a vítima, L. F. da S. (e-STJ fls. 7/12).
+Afirma que a decisão dos jurados foi manifestamente contrária às provas dos autos, pois os elementos probatórios apresentados foram desconsiderados, notadamente quanto às qualificadoras reconhecidas (e-STJ fls. 12/27).
+Aduz, ainda, a existência de ilegalidade na dosimetria, pela inidoneidade da fundamentação utilizada na primeira etapa.
+Requer, ao final, a concessão da ordem para anular o julgamento por decisão dos jurados manifestamente contrária às provas dos autos ou para reduzir a reprimenda, adequando-se a pena-base, compensand o-se a atenuante da confissão espontânea com a agravante da reincidência e reconhecendo-se a causa de diminuição da pena no patamar máximo de 1/3.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+No caso, a sessão de julgamento do Tribunal de origem, na qual foi parcialmente conhecido e, nesta extensão, desprovido o recurso de apelação, ocorreu em 10/4/2025, o que permite a conclusão de que o prazo para a apresentação de eventuais recursos perante a Corte de origem ainda não se encerrou.
+Dessarte, a estratégia adotada pela defesa na utilização de outros meios impugnativos deve ser rechaçada, tornando inviável a apreciação deste writ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ .. (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023, grifei.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
