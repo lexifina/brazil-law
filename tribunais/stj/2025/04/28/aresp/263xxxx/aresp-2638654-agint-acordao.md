@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ACOLHIMENTO. DECISÃO QUE NÃO COLOCOU FIM À EXECUÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que, sob a égide do Novo Código de Processo Civil, a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução. O agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal (AgInt no AREsp n. 2.717.759/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ORLANDO CARLOS DA SILVA JÚNIOR (ORLANDO) contra decisão de relatoria do Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial anteriormente manejado em virtude da ausência de impugnação dos fundamentos da decisão agravada.
+Nas razões do presente inconformismo, defendeu que impugnou especificamente a fundamentação do acórdão recorrido, especialmente quanto à aplicação da Súmula n. 83/STJ, demonstrando que houve violação d os artigos mencionados. Sustenta que o recurso cabível para a decisão que extingue a execução é a apelação, conforme precedentes do STJ, e não agravo de instrumento, como decidido pelo Tribunal de Justiça de Goiás.
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ACOLHIMENTO. DECISÃO QUE NÃO COLOCOU FIM À EXECUÇÃO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. SÚMULA N. 83 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que, sob a égide do Novo Código de Processo Civil, a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução. O agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal (AgInt no AREsp n. 2.717.759/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025).
+2. Agravo interno não provido.
+VOTO
+Apesar de devidamente impugnada a aplicação da Súmula nº 83 do STJ ao caso concreto, o recurso não merece provimento.
+Da fungibilidade
+ORLANDO assevera que, apesar da impugnação da parte recorrente ter sido somente de Márcia, ao acolhê-la, também aplicou a nulidade do ato citatório dos demais recorrentes e, principalmente, anulou a sentença de primeiro grau, configurando-se, assim, a decisão como força de sentença, recorrível por meio de apelação.
+O Tribunal estadual assim decidiu a questão:
+ ..  conforme bem pontuado na decisão recorrida, "constata-se que o ato impugnado trata-se de decisão interlocutória de mérito, não se tratando de sentença terminativa, de modo que a interposição da apelação chiei configura erro grosseiro, inadmitindo a aplicação do principio da fungibilidade recursal."
+Colhe-se da decisão digladiada, ainda, que "No caso em testilha, tratando-se de decisão interlocutória proferida em sede de cumprimento de sentença que acolhe a impugnação ao cumprimento de sentença apresentada pela executada Márcia Bemardino de Souza Resende (mov. 302) e declara a nulidade de todos os atos praticados a partir do evento nº 85, o recurso adequado é o agravo de instrumento, nos termos do parágrafo único do Código de Processo Civil". (e-STJ, fls. 734).
+Com efeito, a jurisprudência desta Corte é no sentido de que, sob a égide do Novo Código de Processo Civil, a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução. O agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal (AgInt no AREsp n. 2.717.759/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025.)
+No caso, a decisão monocrática de primeiro grau acolheu a impugnação ao cumprimento de sentença e declarou a nulidade da citação por edital, tornando sem efeito todos os atos praticados anteriormente, determinando a continuidade da relação processual. Assim, não houve a extinção da execução, razão pela qual era cabível o agravo de instrumento.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. EXECUÇÃO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. CONTINUIDADE DA EXECUÇÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+1. A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes mediante apreciação da disciplina normativa e do cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade. Segundo entendimento pacífico desta Corte, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+2. O Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que se tratava de Impugnação à Fase de Cumprimento de Sentença, cabível quando há título executivo judicial, ao contrário do que afirma o agravante, que insiste na extinção da execução, a fim de afastar o erro grosseiro da interposição de apelação em vez de agravo de instrumento. Incidência da Súmula n. 7/STJ.
+3. O Tribunal de origem decidiu de acordo com a jurisprudência desta Corte, no sentido de que o recurso cabível contra decisão que resolve incidente e que não extingue a execução será o agravo de instrumento, e a utilização do recurso de apelação configura erro grosseiro, não se aplicando o princípio da fungibilidade recursal.
+Precedentes. Incidência da Súmula n. 83/STJ.
+Agravo interno improvido.
+(AgInt no AREsp n. 2.580.727/PB, relator Ministro Humberto Martins, Terceira Turma, julgado em 30/9/2024, DJe de 2/10/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO EXTINGUE O PROCESSO. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO DE APELAÇÃO. ERRO INESCUSÁVEL. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O entendimento jurisprudencial desta Corte é no sentido de que a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução; enquanto o agravo de instrumento é o concernente às decisões que não promovam a extinção da fase executiva em andamento, possuindo natureza jurídica de decisão interlocutória. A inobservância desta sistemática caracteriza erro grosseiro, vedada a aplicação do princípio da fungibilidade recursal.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+3. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração do cotejo analítico e da similitude fática entre os acórdãos confrontados (Súmula n. 284 do STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.612.331/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+Desse modo, inafastável a aplicação da Súmula nº 83 do STJ.
+Assim, como não foi demonstrado o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
