@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se recurso especial interposto por IVAIR BERNARDO SOARES, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 6/11/2024.
+Concluso ao gabinete em: 17/1/2025.
+Ação: de produção antecipada de provas, ajuizada pelo recorrente em desfavor do BANCO C6 CONSIGNADO S/A.
+Sentença: ante o não atendimento da determinação de regularização da representação processual, indeferiu a petição inicial, nos termos do art. 330, IV, do CPC, e julgou extinto o processo, sem resolução do mérito, com fundamento no art. 485, I, do CPC.
+Acórdão: negou provimento ao recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa:
+APELAÇÃO - CONTRATOS BANCÁRIOS - Ação de produção antecipada de provas - Sentença de extinção - Recurso da autora. EXTINÇÃO DO PROCESSO - Medida ajustada - Determinação do Juízo a quo de juntada de procuração com poderes específicos, bem como de ratificação da assinatura digital feita por intermédio da plataforma da AASP - Providência em consonância com o Comunicado CG nº 02/2017 e Enunciado n. 5 do NUMOPEDE, com vistas a evitar o ajuizamento de demandas de litigância predatória - Não cumprimento pela parte autora - Sentença mantida. RECURSO DESPROVIDO.
+Recurso especial: aponta violação aos arts. 105, § 1º, e 425, IV, do CPC; 5º, §§ 1º, 2º e 3º, do Estatuto da OAB, bem como dissídio jurisprudencial.
+Sustenta, em síntese, a validade da procuração juntada aos autos, argumentando acerca da desnecessidade de apresentação de procuração com firma reconhecida, bem como defendendo a validade da assinatura digital.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da emenda da petição inicial
+A Corte Especial, no recente julgamento do Tema 1.198/STJ, em 13/3/2025, firmou a seguinte tese:
+"Constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade do caso concreto, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova."
+Na hipótese sob julgamento, ao concluir pela razoabilidade da determinação de emenda à petição inicial, especificamente para regularização da representação processual, diante dos indícios de advocacia predatória, o Tribunal de origem manteve a sentença que extinguiu a ação sem resolução de mérito, em razão da resistência da parte autora em cumprir com a providência determinada, à luz do entendimento perfilhado por este STJ, senão veja-se:
+"(..) mostra-se plenamente possível ao magistrado a aferição da regularidade processual, notadamente por se tratar de dever insculpido no art. 139, III, CPC, já que incumbe ao Juiz "prevenir ou reprimir qualquer ato contrário à dignidade da justiça e indeferir postulações meramente protelatórias".
+A medida adotada pelo MM. Juízo a quo encontra-se embasada pelo Comunicado CG 02/2017 da Corregedoria Geral de Justiça, por meio de seu Núcleo de Monitoramento de Perfis de Demanda (NUMOPEDE), diante do expressivo volume de ações de litigância predatória, quais sejam as demandas massificadas e qualificadas por elementos de abuso de direito ou fraude, em especial ações de declaração de inexigibilidade de débito e a fixação e indenização por danos morais, sem que a autora tenha conhecimento da existência da respectiva demanda judicial interposta em seu nome.
+De mais a mais, já há entendimento firmado por este E. TJSP em sede de enunciado do NUMOPEDE: "Constatados indícios de litigância predatória, justifica-se a realização de providências para fins de confirmação do conhecimento e desejo da parte autora de litigar, tais como a determinação da juntada de procuração específica, inclusive com firma reconhecida ou qualificação da assinatura eletrônica, a expedição de mandado para verificação por Oficial de Justiça, o comparecimento em cartório para confirmação do mandato e/ou designação de audiência para interrogatório/depoimento pessoal" (Enunciado n. 5, NUMOPEDE, disponível em https://cnbsp. org. br/wp-content/uploads/2024/06/Diario- Oficial-19-06-2024. pdf)
+No mesmo sentido, colacionam-se os seguintes arestos deste E. TJSP:
+(..)
+Ademais, especificamente acerca da validade da assinatura digital, anoto que a D. Corregedoria Geral de Justiça deste E. TJSP, ao proferir o Parecer nº 229/2024-J, de 25/07/2024, expressamente consignou que a validade da assinatura se dá "sem prejuízo da possibilidade de o juízo, entendendo necessário, em decisão fundamentada, diligenciar junto à parte a ratificação dos poderes outorgados" (grifei).
+Ou seja, está expressamente reconhecida a possibilidade de o magistrado, havendo dúvidas acerca da autenticidade da assinatura, determinar a ratificação. O cumprimento da ordem, aliás, teria potencial de demonstrar a boa-fé do jurisdicionado.
+O fato de a assinatura digital apresentar código de verificação, datas e horários de criação e assinatura idênticos àquelas acostadas aos autos de pelo menos mais duas ações judiciais (1004326-12.2024.8.26.0077 e 1005184-43.2024.8.26.0077), alinhado à generalidade dos poderes conferidos, é motivo suficiente para se supor a presença de um quadro de advocacia predatória.
+Vale pontuar que a determinação de juntada de procuração com poderes específicos, bem como a ratificação da assinatura do autor, é medida de fácil atendimento, não se vislumbrando qualquer abusividade ou ilegalidade, possuindo respaldo no artigo 76 do Código de Processo Civil.
+Portanto, concluo que a r. sentença não comporta reforma, devendo ser mantida por seus fundamentos." (e-STJ fls. 233/240)
+Verifica-se que a conclusão do Tribunal de origem considerou as particularidades da situação concreta apresentada, em consonância com o entendimento dominante sobre o tema nesta Corte Superior.
+Aplica-se, portanto, a Súmula 568/STJ no particular.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da necessidade de emenda da petição inicial para regularização da representação processual, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Não bastasse isso, constata-se, da leitura das razões recursais, que os argumentos invocados pelo recorrente não impugnam, de maneira específica e consistente, os referidos fundamentos do acórdão recorrido, razão pela qual deve ser mantido o acórdão recorrido, ante a incidência, na espécie, da Súmula 283/STF.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. INDÍCIOS DE LITIGÂNCIA PREDATÓRIA. DETERMINAÇÃO DE EMENDA DA PETIÇÃO INICIAL. POSSIBILIDADE. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF.
+1. Ação de produção antecipada de provas.
+2. Nos termos do Tema 1.198/STJ, recentemente julgado pela Corte Especial, constatados indícios de litigância abusiva, o juiz pode exigir, de modo fundamentado e com observância à razoabilidade da situação concreta apresentada, a emenda da petição inicial a fim de demonstrar o interesse de agir e a autenticidade da postulação, respeitadas as regras de distribuição do ônus da prova.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A existência de fundamentos do acórdão recorrido não impugnados - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Recurso especial parcialmente conhecido e, nessa parte, não provido.
