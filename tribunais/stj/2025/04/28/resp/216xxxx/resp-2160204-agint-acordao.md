@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo interno no recurso especial não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por UNIMED UBERABA COOPERATIVA DE TRABALHO MEDICO LTDA, contra decisão que não conheceu do recurso especial.
+Ação: de indenização por danos materiais, ajuizada por FERNANDA DOS SANTOS TERRA - ESPÓLIO, em face da recorrente, na qual requer o reembolso de despesas médico-hospitalares ocorridas em hospital de alto custo fora da rede credenciada.
+Sentença: julgou parcialmente procedente o pedido para deferir o pedido de reembolso a autora no valor de R$ 2.143.658,63 (dois milhões, cento e quarenta e três mil, seiscentos e cinquenta e oito reais e sessenta e três centavos) com correção monetária desde a data do desembolso (considerando-se os valores adimplidos relacionados).
+Acórdão: deram parcial provimento à apelação interposta pela recorrente, para limitar o valor do reembolso ao valor de tabela da operadora do plano de saúde, nos termos da seguinte ementa:
+AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS. PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE. REJEIÇÃO. VALORES DE REEMBOLSO POR GASTOS CUSTEADOS EM UNIDADE HOSPITALAR NÃO CREDENCIADO AO PLANO DE SAÚDE. REEMBOLSO LIMITADO AOS VALORES PRATICADOS NA TABELA DA OPERADORA DE SAÚDE. SENTENÇA PARCIALMENTE REFORMADA. - A dialeticidade trata-se de princípio recursal que preconiza a necessidade de que o recurso contenha argumentos que permitam o estabelecimento de diálogo coerente e adequado entre ele e a decisão atacada. Assim, o recorrente, ao manejar sua insurgência, deve contrapor-se de modo direto e objetivo a razões de decidir do Magistrado. Necessariamente, precisa considerar de maneira especifica os fundamentos e atacá-los, apresentando teses que sejam capazes de modificar o entendimento alcançado pelo Magistrado. Assim, estabelece relação de pertinência temática antagônica que permite a correta compreensão do que se está a discutir, o porquê e o limite da discussão, enfim, da atuação do tribunal. A inobservância a tal princípio enseja o não conhecimento total ou parcial do recurso. No caso, houve consideração específica das razões de decidir declinada na sentença, pelo que se atesta a existência de ataque aos seus fundamentos, ensejando a rejeição da preliminar em testilha. - O reembolso de despesas médicas/hospitalares, pagos por beneficiário em unidade hospitalar que não integra a operadora do plano contratado, se limita à tabela de valores praticada pelo Plano de Saúde, caso a cláusula de restrição não conste disposição contrária à luz do art.54, §4º do Código de Defesa do Consumidor. - Segundo entendimento o STJ: "Hipótese em que não se imputa à operadora o descumprimento de seu dever de prestar a assistência à saúde do beneficiário, que se encontrava fora da área geográfica de abrangência e de atuação do produto, razão pela qual não há falar em ndenização por danos materiais e, por conseguinte, em reembolso integral, fazendo ele jus, portanto, ao reembolso nos limites da tabela do contrato. 6. Recurso especial conhecido e provido. (R Esp n. 1.979.876/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/5/2022, D Je de 5/5/2022.)
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso Especial: alega violação do art. 12, VI, da Lei 9.656/98, bem como dissídio jurisprudencial. Sustenta a impossibilidade do custeio do reembolso, tendo em vista que não cumpriu um dos requisitos legais para sua concessão, qual seja, não ser possível a utilização dos serviços próprios, contratados, credenciados ou referenciados pelas operadoras. Afirma que sua manutenção em hospital de alto custo ocorreu por ato de mera liberalidade.
+Decisão unipessoal: não conheceu do recurso especial em razão da incidência da Súmula 283 do STF.
+Agravo interno: nas razões do presente recurso aduz que impugnou todos os fundamentos do acórdão recorrido ao passo que asseverou que não há previsão contratual para que a operadora arque com o procedimento realizado em estabelecimento de livre escolha do beneficiário. Aduz que o tema discutido no recurso refere-se apenas à previsão do art. 12, VI, da Lei 9.656/98.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de indenização por danos materiais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo interno no recurso especial não provido.
+VOTO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por UNIMED UBERABA COOPERATIVA DE TRABALHO MEDICO LTDA, contra decisão que não conheceu do recurso especial, em razão da incidência da Súmula 283 do STF.
+- Da existência de fundamento não impugnado
+Permanece a incidência da Súmula 283/STF, tendo em vista que a parte agravante não impugnou o seguinte fundamento utilizado pelo TJ/MG:
+Logo, se a apelada desejou realizar o seu tratamento em hospital de sua confiança, certo é que não há previsão contratual para que a apelante arque com todo o procedimento a ser realizado em estabelecimento escolhido livremente pela apelada, de modo que justo é que a apelante custeie o tratamento requerido nos limites praticados pela operadora, conforme disposto no contrato de plano de saúde firmado entre as partes (ordem 49):
+8.9 - O pagamento do reembolso será efetuado de acordo com os valores da Tabela de Referência da CONTRATADA, vigente á data do evento, no prazo máximo de 30 (trinta) dias contados da apresentação dos seguintes documentos originais, que posteriormente serão devolvidos em caso de reembolso parcial:
+a) relatório do médico assistente, atestando a emergência, declarando o nome do paciente, descrição do tratamento e respectiva justificação dos procedimentos realizados, data do atendimento, e, quando for o caso, período de permanência no hospital, e data da alta hospitalar;
+b) conta hospitalar discriminando materiais e medicamentos consumidos, com preço por unidade, juntamente com notas fiscais, faturas ou recibos do hospital;
+c) recibos individualizados de honorários dos médicos assistentes, auxiliares e outros, discriminando funções e o evento a que se referem, e se for o caso, a duração do ato anestésico;
+d) comprovantes relativos aos serviços de exames laboratoriais, de radiodiagnósticos, terapias e serviços auxiliares, acompanhados do pedido do médico assistente. (e-STJ fl. 726, sem grifos no original)
+É importante ressaltar que a aplicação da Súmula 283/STF está condicionada ao conteúdo tanto do acórdão recorrido quanto da impugnação apresentada pela parte agravante. Ademais, não é cabível recurso especial quando a questão discutida no acórdão não foi devidamente confrontada.
+Portanto, se a parte agravante não contestou o fundamento adotado pelo Tribunal quanto à existência de cláusula específica de reembolso que respalda o seu deferimento, fica impedida de interpor recurso especial, uma vez que não preenche os requisitos estabelecidos pelo artigo 105, III, "a" da Constituição Federal, o que resulta na aplicação e manutenção da Súmula 283/STF.
+Nesse sentido: AgInt nos EDcl no AREsp 2.379.396/SP, 4ª Turma, DJe de 18/4/2024; e, AgInt nos EDcl no AREsp 2.438.568/SP, 3ª Turma, DJe de 11/4/2024.
+Ademais, a análise das alegações da parte agravante de que as cláusulas contratuais não contemplam o reembolso na hipótese dos autos exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Desse modo, não é possível que sejam revisitados fatos ou que seja conferida nova interpretação de cláusula contratual, uma vez que são matérias ligadas à demanda e alheias à função desta Corte Superior que é a uniformização da interpretação da legislação federal.
+Com efeito, a despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no recurso especial.
