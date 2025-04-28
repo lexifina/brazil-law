@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. No caso, tendo a Corte de origem afastado a conduta ímproba da parte agravada, à míngua do dolo específico , a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que seria inviável em sede de recurso especial.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão de minha lavra, às e-STJ fls. 724/732, em que conheci do agravo para não conhecer do recurso especial, em vista da aplicação da Súmula 7 do STJ.
+A parte agravante defende, em síntese, que, para a verificação do dolo específico do gestor municipal, não demanda o reexame de matéria fática.
+Aduz, assim, que ficou evidenciada a prática de improbidade administrativa.
+Impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE.
+1. Não é possível, em sede de recurso especial, o reexame de matéria fático-probatória, o que enseja a incidência da Súmula 7 do STJ: "a pretensão de simples reexame de prova não enseja recurso especial."
+2. No caso, tendo a Corte de origem afastado a conduta ímproba da parte agravada, à míngua do dolo específico , a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que seria inviável em sede de recurso especial.
+3. Agravo interno desprovido.
+VOTO
+A decisão merece ser mantida.
+Ao examinar a questão, a Corte de origem reconheceu expressamente a não demonstração do dolo específico, rechaçando a conduta ímproba, nos seguintes termos (e-STJ fls. 461/462):
+A partir dessas premissas, constato que embora incontroversas as irregularidades apontadas na inicial, consubstanciadas no fato de que no período compreendido entre agosto de 2017 a outubro de 2017 e novembro de 2017 a março de 2018, Édio Luís da Silva, mesmo ocupando a função de motorista da Secretaria de Saúde, foi nomeado Superintendente de Transportes e, em seguida, para o cargo de Superintendente Municipal de Saúde, exercendo tais funções concomitantemente, sem, contudo praticar atos referentes às funções de Superintendente, mediante a participação de Jorge José de Souza (Prefeito) e Maurício de Moura Neto (Secretário de Saúde do Município de Firminópolis), estas, por si só, não caracterizam ato de improbidade administrativa, eis que não comprovado o dolo específico dos agentes em alcançarem resultado ilícito.
+Ora, como bem ressalvado pelo juiz sentenciante "O núcleo da controvérsia cinge-se, em razão da nomeação de Edio para os cargos comissionados de superintendente, porém sem que o trabalho fosse efetivamente prestado, sendo, portanto, um "servidor fantasma", pois o mesmo continuou prestando seu serviço de motorista da Secretária de Saúde. Durante a audiência de instrução, todas as testemunhas afirmaram que Edio Luiz da Silva trabalhava à época dos fatos, bem como há vários anos, como motorista da Secretaria de Saúde, tendo como incumbências, além de levar pacientes para outras cidades, buscar remédios regulados, munido de procurações, levar materiais e buscar resultados de exames, tendo uma carga de horária de mais de 12 horas por dia. Ressalta-se que o próprio acusado Edio narrou em seu interrogatório que sempre exerceu as mesmas atribuições, ainda que tenha sido nomeado como Superintendente, sendo que a nomeação se deu, pois, seu salário era muito pouco e perguntou Neto se podia melhora-lo, sendo então nomeado como Superintendente. Aduziu, ainda, que seu trabalho diferenciava com o de Amaury, motorista, pois pegava remédios com procuração especifica no Juarez Barbosa, resultados de exame e biopsia, marcava exames, e que era somente ele que fazia esse serviço a mais, e por esse motivo pediu um acréscimo salarial. O acusado Maurício relatou que Edio, como Superintendente da Saúde, tinha a função de motorista, quando solicitado, pegava check-in em Goiânia para exames, buscava remédios no Juarez Barbosa, sendo que só ele tinha a procuração para buscar. Alegou, também, que a função de Superintendente foi dada a Edio para compensar as funções extras que ele fazia a mais que os outros motoristas e que a diferença salarial de Edio para os outros motoristas era de apenas R$ 800,00 reais, mais como os motoristas tinham alguns adicionais de horas extras e insalubridade, no final essa diferença ficava em uns R$ 200,00 reais. Por fim, aduziu que se Edio não buscasse os remédios no Juarez Barbosa os custos para prefeitura aumentariam bastante. É evidente que o acusado Edio de fato auferiu salário de superintendente por alguns meses, embora não tenha de fato atuado nas atribuições deste cargo, pois continuou sendo motorista. A rigor, houve, na espécie, evidente desvio de função (ilegalidade). Contudo, sob esse aspecto, não vislumbro na atuação dos réus desonestidade ou dolo - isto é, a manifesta intenção de vulnerar qualquer preceito legal -, mas apenas, no limite, a inabilidade, a falta de técnica, com ânimo, ainda que secundário, de dar solução prática à necessidade institucional." (evento 81)
+Diante disso, conclui-se que não restou satisfatoriamente comprovado o dolo dos réus, elemento coessencial para a configuração de improbidade administrativa, razão pela qual deve ser mantida a sentença que afastou a subsunção das condutas às normas sancionatórias previstas na Lei nº 14.230/2021.
+Dessa maneira, o acolhimento da pretensão recursal, a fim de infirmar a conclusão do TJ/GO, quanto a presença do dolo específico, fica obstado pelo enunciado da Súmula 7 desta Corte, porquanto seria necessário o revolvimento fático-probatório dos autos para tal.
+Nessa linha:
+PROCESSO CIVIL. RECURSO ESPECIAL. QUESTÕES DE FATO.
+Se a reforma do julgado depende do reexame da prova, o recurso especial não pode prosperar (STJ - Súmula nº 7). Agravo regimental desprovido.
+(AgRg no AREsp 95.063/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 03/12/2013, DJe 18/12/2013).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+É como voto.
