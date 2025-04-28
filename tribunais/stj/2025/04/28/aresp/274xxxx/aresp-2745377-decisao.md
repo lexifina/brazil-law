@@ -1,0 +1,41 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por BRCO ADMINISTRADORA LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/08/2024.
+Concluso ao gabinete em: 19/12/2024.
+Ação: condenatória, ajuizada por BRCO ADMINISTRADORA LTDA., em face de CONDOMÍNIO EDIFÍCIO NEW ORLEANS RESIDENCE.
+Sentença: julgou parcialmente procedente o pedido, para condenar o CONDOMÍNIO EDIFÍCIO NEW ORLEANS RESIDENCE a realizar todas as reformas necessárias à cessação completa das infiltrações do imóvel locado pela parte agravante, bem como para condená-lo ao pagamento de compensação pelos danos morais no valor de R$ 15.000,00, restando ratificadas as tutelas de urgência concedidas nos mov. 11 e 149. Assim, diante da sucumbência recíproca e considerando o critério da proporcionalidade, condenou a parte agravante ao pagamento de 50% das custas e dos honorários, que foram fixados em R$ 5.000,00, restando o agravado condenado ao pagamento de 50% das custas e dos honorários, que foram fixados em 20% sobre o valor atualizado da condenação. (e-STJ fls. 729/736)
+Acórdão: deu parcial provimento às Apelações interpostas por CONDOMÍNIO EDIFÍCIO NEW ORLEANS RESIDENCE e por BRCO ADMINISTRADORA LTDA., nos termos da seguinte ementa:
+"Apelação Cível. Ação de indenização por danos morais, materiais e lucros cessantes. Sentença de parcial procedência. Recurso de ambas as partes. Recurso da autora (2). Pleito de condenação em danos materiais e lucros cessantes, com apuração em liquidação de sentença. Parcial provimento apenas quanto aos danos materiais. Laudo e elementos outros que permitem a quantificação. Situação não estabilizada à época. Danos continuados. Necessidade de liquidação. Lucros cessantes. Ausência de prova de inutilização de salas. Prejuízo não demonstrado. Majoração dos danos morais inviável. Valor arbitrado que segue os parâmetros do Tribunal.
+Recurso do réu (1). Afastamento dos danos morais ou sua redução. Prejuízo devidamente caracterizado. Infiltrações que perduram há mais de 10 (dez) anos. Parâmetros deste Tribunal. Termo inicial da contagem dos juros na condenação de danos morais. Parâmetro adequado, em conta a dificuldade de estabelecer a data do evento danoso. Critério de aplicação dos honorários advocatícios. Critério equitativo que não atende o comando legal. Valor da causa/proveito econômico que não são irrisórios. Honorários fixados em 10% do proveito econômico.
+Recurso de Apelação (1) conhecido e parcialmente provido.
+Recurso de Apelação (2) conhecido e parcialmente provido." (e-STJ fls. 799/800)
+Embargos de Declaração: opostos, por BRCO ADMINISTRADORA LTDA., foram rejeitados (e-STJ fls. 833/839); opostos, por CONDOMÍNIO EDIFÍCIO NEW ORLEANS RESIDENCE, foram rejeitados (e-STJ fls. 850/853).
+Recurso especial: alega violação dos arts. 322, § 2º, 489, § 1º, IV, 491, I, § 1º, 509, I, II, 1.022, II, § único, II, CPC. Além de negativa de prestação jurisdicional, sustenta que: i) a existência de pedido indenizatório de valor certo e determinado não impede que seja realizada a liquidação de sentença; e, ii) à fase de conhecimento cabe apenas e tão somente a prova do direito à indenização a título de lucros cessantes - na forma da preliminar arguida e da evidente causalidade entre as infiltrações e o prejuízo à atividade comercial de sublocação de imóveis -, sendo ínsito à fase de liquidação a apuração do montante devido. (e-STJ fls. 857/867)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, Terceira Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, Quarta Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da desnecessidade da oitiva das testemunhas, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou o art. 509, I, II, CPC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 322, § 2º, 491, I, § 1º, CPC, indicados como violados, apesar da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a perícia aponta as salas em que houve o prejuízo e fornece elementos para quantificação do prejuízo, de sorte que é possível, em conta o que ali se apresentou, estimar prejuízo material e tempo necessário para reparação", bem como de que "os danos materiais devem ser apurados em liquidação de sentença, por arbitramento", assim também de que "quanto aos lucros cessantes, o pedido de quantificação dos danos materiais e lucros cessantes em liquidação de sentença só ocorreu em alegações finais (mov. 268.1)", além de que "não é possível oportunizar à parte agravante produzir prova em sede de liquidação de sentença quando esta prova poderia e deveria ter sido produzida durante a instrução processual da ação de conhecimento", ao entendimento de que "a parte agravante, em que pese tenha apresentado contratos de locação de salas similares (movs. 1.19 a 1.21), sequer trouxe planilha de cálculo ou demonstrou o efetivo período que deixou de utilizar as salas em razão das infiltrações", à observação de que "as provas orais não corroboram com a tese da parte agravante, porquanto não demonstraram, de fato, por quanto tempo as salas ficaram em desuso, ou a existência de locação por valores muito inferiores ao praticado pela empresa", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CONDENATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação condenatória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial conhecido em parte e, nessa extensão, não provido.
