@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DA TUTELA DE URGÊNCIA. REQUISITOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Salvo em situações excepcionais, a jurisprudência deste Superior Tribunal se orienta no sentido de não admitir, em recurso especial, a discussão dos requisitos autorizadores à concessão da antecipação de tutela ou de medida liminar, por força da aplicação da Súmula 7/STJ. Precedentes.
+2. Na hipótese dos autos, o acórdão recorrido apreciou os fatos e as provas carreados aos autos, concluindo pela inexistência de fundamentos suficientes para alterar a decisão interlocutória que negou o pedido de efeito suspensivo ao recurso de agravo de instrumento, pois presentes os requisitos para a concessão da tutela de urgência, com o fim de possibilitar à recorrida a realização de procedimento de cateterismo cardíaco, prescrito pelo médico.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por HAPVIDA ASSISTÊNCIA MÉDICA S/A contra decisão desta relatoria (e-STJ, fls. 342/345) que conheceu do agravo para não conhecer do recurso especial, ante a incidência das Súmulas 735/STF e 7/STJ.
+Nas razões recursais, a agravante pretende a reforma da decisão, sob o fundamento de que houve violação direta do art. 300 do CPC pelo acórdão recorrido, uma vez que não estariam presentes os requisitos para o deferimento do pedido liminar. Assevera que deve ser afastado o óbice constante na Súmula 7/STJ, pois é possível a revaloração da prova no caso concreto.
+Requer, ao final, a reconsideração da decisão agravada ou sua reforma pela Turma Julgadora.
+Devidamente intimada, a parte agravada deixou transcorrer in albis o prazo para impugnação (fl. 413).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DA TUTELA DE URGÊNCIA. REQUISITOS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Salvo em situações excepcionais, a jurisprudência deste Superior Tribunal se orienta no sentido de não admitir, em recurso especial, a discussão dos requisitos autorizadores à concessão da antecipação de tutela ou de medida liminar, por força da aplicação da Súmula 7/STJ. Precedentes.
+2. Na hipótese dos autos, o acórdão recorrido apreciou os fatos e as provas carreados aos autos, concluindo pela inexistência de fundamentos suficientes para alterar a decisão interlocutória que negou o pedido de efeito suspensivo ao recurso de agravo de instrumento, pois presentes os requisitos para a concessão da tutela de urgência, com o fim de possibilitar à recorrida a realização de procedimento de cateterismo cardíaco, prescrito pelo médico.
+3. Agravo interno a que se nega provimento.
+VOTO
+A despeito do esforço argumentativo da parte agravante, os argumentos deduzidos não são aptos a modificar a conclusão da decisão agravada, que deve ser mantida por seus próprios fundamentos.
+De início, convém rememorar que a agravante interpusera recurso especial sustentando a violação dos arts. 300 do CPC/2015; 11, 12, V, "b", e 16 da Lei 9.656/98; e 54, § 3º, do CDC. Para tanto, consignou que não possui o dever de cobertura contratual do plano de saúde, pois o beneficiário ocultou doenças preexistentes, acentuando que não foram preenchidos os requisitos exigidos em lei para a antecipação de tutela (probabilidade do direito e risco de dano irreparável).
+Entretanto, ao contrário do sustentado, extrai-se dos autos que o eg. Tribunal de origem concluiu, a partir da apreciação dos elementos fáticos e probatórios dos autos, pela cristalização dos requisitos necessários ao deferimento da tutela de urgência. Divisam-se, com efeito, os seguintes fundamentos extraídos do acórdão recorrido, litteris:
+Analisando os autos, verifica-se que a autora/agravada é beneficiária de plano de saúde operado pela ora agravante, bem assim que foi prescrita a realização de procedimento de cateterismo cardíaco para tratamento da moléstia que lhe acomete. Em cognição liminar, considerando os elementos probatórios disponíveis, mostra-se acertada a decisão agravada quanto a presença do risco de dano irreparável ou de difícil reparação à saúde da autora/agravada, face a existência de expressa indicação médica para a realização do procedimento. No que concerne a probabilidade do direito, alega a agravante que a autora/agravada teria omitido sua condição clínica quando da contratação do plano de saúde. Ocorre que, não é possível aferir de plano que a agravada já se encontrava acometida da doença cardíaca quando da contratação do plano de saúde, bem assim se possuía ciência de sua condição para que se possa caracterizar a hipótese de doença pré-existente. Outrossim, ainda que houvesse a arguida omissão pela beneficiária do plano, tal discussão se revela despicienda se à época da contratação, a própria operadora não exigiu exames clínicos para constatar a presença de doença pré-existente.
+ ..
+Destarte, evidenciada, a priori, a presença do risco de dano irreparável ou de difícil reparação e da probabilidade do direito da parte autora/agravada, impõe-se a manutenção da decisão negou o pedido de efeito suspensivo ao recurso de agravo de instrumento da operadora de plano de saúde.
+Nesse cenário, é assente, no âmbito desta Corte Superior, que o recurso era mesmo inviável, porquanto demandaria o exame, em sede de recur so especial, dos requisitos para a concessão de tutela antecipada, previstos no art. 300 do Código de Processo Civil de 2015 e, por consequência, o reexame do contexto fático-probatório (Súmula 7/STJ). A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA UNIRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. TUTELA DE URGÊNCIA. PERICULUM IN MORA. CONFIGURAÇÃO. ART. 300 DO CPC/2015. SÚMULA Nº 735/STF. INCIDÊNCIA. REEXAME DE PROVAS. APLICAÇÃO. SÚMULA Nº 7/STJ.
+1. Na hipótese de interposição de dois recursos pela mesma parte e contra a mesma decisão, apenas o primeiro poderá ser conhecido, haja vista a ocorrência da preclusão consumativa e do princípio da unicidade recursal, que vedam a interposição simultânea de mais de um recurso contra a mesma decisão judicial.
+2. A jurisprudência desta Corte Superior, diante do disposto na Súmula nº 735/STF, entende que, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em virtude da natureza precária da decisão, sujeita à modificação a qualquer tempo.
+3. No caso, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.124.510/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/2/2023, DJe de 17/2/2023.)
+PROCESSO CIVIL. AGRAVO INTERNO. PEDIDO DE TUTELA PROVISÓRIA. USUCAPIÃO. EFEITO SUSPENSIVO. RECURSO ESPECIAL. FUMUS BONI IURIS E PERICULUM IN MORA NÃO CONFIGURADOS.
+1. A concessão de efeito suspensivo a recurso especial está condicionada à configuração dos requisitos próprios da tutela de urgência, quais sejam, o fumus boni iuris e o periculum inmora, não caracterizados nos autos.
+2. A alteração das conclusões a que chegou o órgão julgador implica o reexame do conjunto fático e probatório dos autos, o que é vedado na via do recurso especial (Súmula 7/STJ), afastando a fumaça do bom direito, requisito indispensável para o deferimento do efeito suspensivo pleiteado.
+3. A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo.
+4. Sem a caracterização, conjunta, do fumus boni iuris e do periculum in mora não há que se pretender a atribuição, excepcional, de efeito suspensivo a recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no RCD na Pet n. 13.134/PB, relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/4/2021, DJe de 23/4/2021.)
+Com esses fundamentos, nego provimento ao agravo interno.
+É como voto.
