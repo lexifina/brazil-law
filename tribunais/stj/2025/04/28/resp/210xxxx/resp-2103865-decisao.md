@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROGÉRIO CESAR RIBEIRO PORTELA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"DIREITO DE VIZINHANÇA - CERCEAMENTO DE DEFESA NÃO CONFIGURADO PROVA PERICIAL VÁLIDA APURAÇÃO DE DANO E VALOR PARA REPARAÇÃO RESPONSABILIDADE DO REQUERIDO DEMONSTRADA - HONORÁRIOS CONTRATUAIS - NÃO CABIMENTO - APELAÇÃO NÃO PROVIDA" (fl. 251)
+Os embargos de declaração foram rejeitados (fls. 524/5271).
+Nas razões do recurso especial, a parte ora agravante alega, além de dissídio jurisprudencial, violação dos arts. 86 e 1.022, do CPC/15, sustentando, em síntese, (a) negativa de prestação jurisdicional diante da omissão em relação a inexistência de sucumbência recíproca; (b) inexistência de sucumbência recíproca.
+É o relatório. Decido.
+O recurso em apreço merece prosperar.
+Compulsando os autos, infere-se que contra o v. acórdão que negou provimento à apelação interposta por ROGÉRIO CÉSAR RIBEIRO PORTELA, o mesmo opôs embargos de declaração alegando omissão uma vez "que não há no v. acórdão qualquer menção à suscitada questão dos honorários sucumbenciais, sobretudo com vistas à aplicação da súmula 326, STJ, tomando-se por base que houve na r. sentença o reconhecimento da existência de dano moral, tendo as embargada sido condenada ao pagamento de R$ 15.000,00, além dos danos materiais em R$ 22.000,00." (e-STJ, fls. 515)
+Por sua vez, o eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) rejeitou os aclaratórios sem, data venia, examinar o tema ora transcrito, o que caracteriza omissão, como se infere da leitura do v. acórdão às fls. 524/527.
+Nessa perspectiva, deixando o eg. TJ-SP de examinar questão nevrálgica ao desate do litígio, fica caracterizada a violação do art. 1.022 do CPC/2015. Fica prejudicada a análise das demais teses trazidas no apelo nobre.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento." (AgInt no AREsp 1.113.795/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/03/2018, DJe de 15/03/2018 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TELEFONIA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. MODALIDADE. PCT. OMISSÃO E OBSCURIDADE NO ACÓRDÃO RECORRIDO. OCORRÊNCIA. AGRAVO INTERNO PROVIDO.
+1. Há violação do art. 1.022 do CPC/15 quando, apesar do requerimento da parte, a Corte de origem se recusa a se manifestar sobre as questões federais que lhe foram apresentadas por ocasião dos embargos de declaração, relevantes ao deslinde da controvérsia.
+2. Agravo interno provido para dar provimento ao recurso especial, determinando-se o retorno dos autos ao Tribunal de origem para que sejam sanados os vícios verificados." (AgInt nos EDcl no REsp 1.702.509/SP, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO -, QUARTA TURMA, julgado em 16/08/2018, DJe de 24/08/2018 - grifou-se)
+Nessa senda, deve ser reconhecida a violação do art. 1.022do CPC/2015, para anular o v. acórdão (fls. 524/527) que julgou os aclaratórios e determinar o retorno dos autos ao eg. TJ-SP para que promova novo julgamento dos embargos de declaração, como entender de direito, sanando o vício ora reconhecido.
+Com esses fundamentos, nos termos do art. 255, § 4º , III, do RISTJ, dou provimento ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, sanando efetivamente a omissão apontada.
+Publique-se.
+EMENTA
