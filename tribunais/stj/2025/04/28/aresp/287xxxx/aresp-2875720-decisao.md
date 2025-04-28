@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por CIASPREV - CENTRO DE INTEGRACAO E ASSISTENCIA AOS SERVIDORES PUBLICOS PREVIDENCIA PRIVADA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. DESCONTO INDEVIDO. EMPRÉSTIMO NÃO CONTRATADO. FRAUDE. RESTITUIÇÃO EM DOBRO. DANO MORAL CONFIGURADO. VALOR DA INDENIZAÇÃO.
+EMBARGOS DE DECLARAÇÃO. VÍCIOS. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA. RECURSO DESPROVIDO.
+Quanto à controvérsia, a parte recorrente alega violação dos arts. 368, 884, 885 e 886 do CC, no que concerne à possibilidade de compensação de valores, porquanto houve dispêndio de valores ao recorrido nas operações de crédito, devendo eventuais anulações contratuais e indenizações serem compensadas para evitar enriquecimento sem causa, trazendo a seguinte argumentação:
+Verifica-se que, no decisum objurgado, o colegio indeferiu a possibilidade de compensação de valores no caso em tela, mesmo após o devido pre questionamento e a oposição de embargos de declaração, violando claramente os dispositivos do código civil de 2002, quais sejam: Artigos 368, 884, 885 e 886.
+No caso dos autos, foram dispendos valores ao recorrido nas operações de credito sejam estes de quitação ou de troco como bem apontado na lide, sendo que eventuais anulações contratuais e disposição de indenizações deve ser devidamente compensadas sob pena de enriquecimento sem causa todas estas materias de ordem publica, vejamos o teor de tais dispositivos:
+ ..
+Sendo assim, verifica-se que a norma posta em apreciação deve prevalecer considerando o expresso texto que determina a incidencia e autorização do instittuto da compensação de valores (fls. 624-626 ).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Ressalta-se que a recorrida não anuiu com a contratação da suposta "recompra de dívidas (empréstimos)", tanto que o contrato foi considerado nulo por falsificação por imitação e transplante de assinatura, razão pela qual não há que se falar em compensação de valores (fl. 611).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
