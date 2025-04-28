@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADRIANO NASCIMENTO DA SILVA, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (HC n. 0708742-30.2025.8.07.0000).
+Narram os autos que o paciente teve sua prisão preventiva decretada por suposta prática dos delitos descritos nos arts. 154-A, 155, § 4º, II, e 288, todos do Código Penal.
+Neste mandamus, o impetrante alega que a prisão preventiva foi decretada apenas pelo fato de o paciente não ter sido localizado para prestar esclarecimentos, sem que houvesse fundamentação idônea quanto à necessidade da medida extrema.
+Sustenta que a privação da liberdade do paciente neste momento revela-se desnecessária, sendo a aplicação das medidas cautelares diversas da prisão suficientes para resguardar a ordem pública e a aplicação da lei penal até o julgamento final do writ (fl. 14).
+Afirma que o paciente é arrimo de família e possui uma filha de 14 anos que dele depende exclusivamente.
+Requer, inclusive liminarmente, a revogação da prisão preventiva do paciente, ou, subsidiariamente, a substituição por outras cautelares menos gravosas, previstas no art. 319 do Código de Processo Penal, bem como pela proibição do uso da internet.
+É o relatório.
+O writ não comporta seguimento.
+A prisão preventiva pode ser decretada, desde que haja prova da existência do crime e indício suficiente de autoria, como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, em decisão motivada e fundamentada acerca do receio de perigo gerado pelo estado de liberdade do imputado e da contemporaneidade da necessidade da medida extrema (arts. 311 a 316 do CPP).
+Contudo, consta do acórdão impugnado que a pretendida substituição por cautelar alternativa atípica ou imprópria, consistente em vedação ao uso da internet, não seria eficaz, haja vista a impossibilidade de fiscalização efetiva, tampouco suficiente, dada a sua condição de foragido, conforme bem apontando pelo parecer ministerial (ID 69900902), e a reincidência específica do investigado, sugestiva de propensão à prática de delitos da mesma natureza (fl. 26 - grifo nosso).
+Com efeito, na decisão de primeiro grau, o Juiz primevo diz expressamente que o paciente é reincidente, pois registra condenação anterior, com trânsito em julgado ocorrido em 5/5/2021, pelo crime de organização criminosa (fl. 79). E, mais, até o momento não se tem notícia do cumprimento do mandado de prisão preventiva (fl. 81).
+Assim, quanto aos fundamentos da prisão preventiva, observa-se que a necessidade da custódia está reforçada não só pela gravidade concreta dos crimes praticados, como também pela periculosidade do paciente, que possui histórico criminal conturbado, sendo reincidente e, ainda, pelo fato de que, até a presente data, o mandado de prisão ainda não foi cumprido .
+A propósito, é firme a jurisprudência desta Corte no sentido de que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (RHC n. 107.238/GO, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 12/3/2019 - grifo nosso).
+E, mais, segundo o entendimento da Segunda Turma do Supremo Tribunal Federal, o fato de o paciente permanecer foragido constitui causa suficiente para caracterizar risco à aplicação da lei penal a autorizar a decretação da preventiva (HC n. 215.663 AgR, Ministra Rosa Weber, Primeira Turma, DJe 11/7/2022).
+Nesse sentido também é a jurisprudência desta Corte Superior de Justiça: AgRg no RHC n. 204.575/DF, Ministro Ribeiro Dantas, Quinta Turma, DJEN 25/2/2025; e AgRg no HC n. 952.172/PE, Ministro Otávio de Almeida Toledo (Desembargador convocado do TJSP), Sexta Turma, DJEN 17/2/2025.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. INVASÃO DE DISPOSITIVO INFORMÁTICO, FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. REINCIDENTE ESPECÍFICO. RÉU FORAGIDO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Habeas corpus indeferido liminarmente.
