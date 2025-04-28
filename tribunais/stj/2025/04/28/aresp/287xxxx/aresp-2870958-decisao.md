@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de Agravo apresentado por HAUBERT PARTICIPACOES IMOBILIARIAS LTDA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE RÉ. CONTRATO DE LOCAÇÃO COMERCIAL. CONTROVÉRSIA ACERCA DO PERÍODO EM QUE O LOCATÁRIO PERMANECEU NOS IMÓVEIS. OITIVA DE TESTEMUNHAS REQUERIDA POR AMBAS AS PARTES. DECRETO QUE AFIRMA NÃO TER O RÉU PRODUZIDO PROVA A RESPEITO DA DATA DE DESOCUPAÇÃO AO MESMO TEMPO QUE JULGA ANTECIPADAMENTE A LIDE. NECESSIDADE DE INSTRUÇÃO PROBATÓRIA. CERCEAMENTO DE DEFESA CONFIGURADO. CASSAÇÃO DO DECISUM. RECURSO PROVIDO (fl. 249).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 355, I, do CPC, no que concerne ao afastamento do cerceamento de defesa em razão da desnecessidade de produção de prova testemunhal, trazendo a seguinte argumentação:
+Como já se viu aos autos, não há o que se considerar tal cerceamento de defesa, considerando que o requerimento de prova testemunhal da Recorrida foi genérico, ao revés do que determinado pelo juízo a quo.
+ ..
+Assim sendo, é mais do que correto que foram apresentados todos os documentos necessários para a sentença de origem, bem como devidamente analisados todos os pedidos formulados por ambas as partes.
+ ..
+Ora, se o juízo de 1º Grau entendeu que as provas constantes nos autos eram bastantes para resolução da lide (leia-se julgamento antecipado), não há que se falar em cerceamento de defesa ou qualquer nulidade nesse contexto. A parte Recorrida deixou de apresentar as provas específicas, conforme intimada, bem como sua pertinência. Deixando, portanto, de cumprir com a determinação judicial.
+Não pode, então, alegar prejuízo, especialmente se esse surgiu de sua displicência processual.
+A Recorrente, por sua vez, apresentou rol de testemunhas, mas em nada reclamou quando prolatada a sentença, notadamente porque sem prejuízos.
+Nesse sentido, há uma tácita desistência quanto à produção daquela prova (fls. 288/292).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Em seu relato inaugural, quanto à origem dos valores que persegue na presente ação, disse a parte autora que "a Ré saiu do imóvel no mês de dezembro de 2021, deixando em aberto débitos com a Centrais Elétricas de Santa Catarina - CELESC, Prefeitura Municipal de Florianópolis, e o Condomínio responsável".
+Constou na peça contestatória:
+Acontece, porém, que neste conjunto de tratativas entre às partes, à época ainda se buscando o entendimento entre às partes, os imóveis objeto foram desocupados de comum acordo, no entanto em data diversa da ventilada na exordial, sendo em verdade no início de Junho de 2021.
+Os encargos condominiais, e demais despesas da sala foram custeados pela empresa demandada, no entanto apenas enquanto ocupou as salas e garagens, de maneira que após desocupar a responsabilidade não mais lhe alcançava. Os encargos apontados no acordo estabelecido pelo Demandante com o Condomínio foram gerados após a desocupação do imóvel, e, logo, não existe nenhuma responsabilidade dos Demandados neste sentido.
+(..)
+Neste contexto, e constatando-se que a desocupação do imóvel, de comum acordo, aconteceu muito antes do alegado na exordial, constata-se que o Autor não traz nenhuma prova de que a desocupação teria acontecido na data alegada.
+Pelo ato ordinatório visível no evento 22, as partes foram intimadas para especificar provas, "apontando a pertinência para o deslinde do feito, ciente que em caso de inércia haverá o julgamento no estado em que se encontra", limitando-se a parte ré a postular o "depoimento pessoal do representante da demandante e prova testemunhal" sem indicar a "pertinência" (evento 27).
+A parte autora, por sua vez, apresentou rol de testemunhas cuja oitiva seria "essencial para o debate quanto à saída da Ré Conectaa do imóvel locado" (evento 28).
+Na sequência o feito foi julgado antecipadamente nos seguintes termos:
+Inicialmente, cumpre destacar que o caso em apreço comporta o julgamento antecipado, nos moldes do artigo 355, inciso I do Código de Processo Civil, porquanto as provas documentais acostadas nos autos se mostram suficientes à resolução do mérito, de modo que indefiro a prova testemunhal.
+(..)
+Quanto à alegação da ausência de documentação, verifica-se que a parte autora apresentou documentos que demonstram a inadimplência dos encargos locatícios indicados na inicial.
+Por sua vez, quanto à mora, cumpria à parte ré demonstrar que realizou os pagamentos dos encargos de locação (art. 373, II, CPC), o que deixou de fazer, limitando-se a impugnar genericamente a documentação apresentada.
+No que se refere à data da desocupação, a parte ré deixou novamente de apresentar documentação demonstrando que desocupou o imóvel em data diversa, de modo que também não merece prosperar a alegação.
+Assim, considerando que o expendido na peça inaugural encontra amparo no que foi coligido para o processado, não há melhor alternativa senão a procedência do pedido formulado pela parte autora, com a condenação das requeridas solidariamente no montante indicado na inicial.
+Percebe-se que os pedidos iniciais passam todos por obrigações relacionadas à locação dos imóveis que o apelado diz ter sido ocupado pelo locatário entre fevereiro e dezembro de 2021.
+A parte demandada, por sua vez, afirmou que "os imóveis objeto foram desocupados de comum acordo, no entanto em data diversa da ventilada na exordial, sendo em verdade no início de Junho de 2021", bem como que "o Autor não traz nenhuma prova de que a desocupação teria acontecido na data alegada".
+Necessário ressaltar que, nos termos do artigo 373 do Código de Processo Civil, "o ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo do seu direito; II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor."
+Da fundamentação da sentença percebe-se que a conclusão pautou-se unicamente nas alegações e provas constantes na exordial e réplica. Os documentos dos autos, todavia, não permitem assegurar com certeza que "a Ré saiu do imóvel no mês de dezembro de 2021" como alegado na vestibular, tendo inclusive e aliás a própria parte autora dito "essencial" a produção de prova para tanto.
+Diante do indeferimento da prova testemunhal requerida por ambas as partes, estas foram impossibilitadas de comprovar suas alegações e sanar a controvérsia, daí porque no mínimo estranho se concluir que o pedido autoral haveria de ser dado por procedente porque a parte demandada "deixou novamente de apresentar documentação demonstrando que desocupou o imóvel em data diversa".
+Muito embora possível e mesmo elogiável o julgamento antecipado quando possível, no caso que verte revela-se a oitiva das testemunhas efetivamente necessária para o bom julgamento do mérito da demanda, sendo de se determinar a cassação do decreto para oportunizar a dilação probatória.
+ ..
+Ante o exposto, Voto por DAR provimento ao recurso para cassar a sentença, remetendo-se os autos à instância a quo para a produção de prova testemunhal pretendida e regular prosseguimento do feito (fls. 246/248).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à necessidade ou não de dilação probatória demandaria o reexame do acervo fático-probatório juntado aos autos, o que não é possível em sede de recurso especial.
+Nesse sentido: "Para prevalecer a pretensão em sentido contrário à conclusão das instâncias ordinárias, que entenderam não ser preciso maior dilação probatória, seria necessária a revisão do conjunto fático-probatório dos autos, o que é inviável nesta instância especial por força da Súmula nº 7/STJ". (AgInt no AREsp n. 2.541.210/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/12/2024.)
+Na mesma linha: "XI - Para acolhimento da pretensão recursal, seria necessário o revolvimento de fatos e provas, a fim de compreender pela necessidade da produção probatória sobre os específicos fatos alegados como essenciais à demonstração da tese sustentada pela parte recorrente, mas que foram descartados para o deslinde da controvérsia pelo julgador a quo. XII - Não cabe, assim, o conhecimento da pretensão recursal, porque exigiria a revisão de juízo de fato exarado pelas instâncias ordinárias sobre o alegado cerce amento da produção probatória, o que é inviável em recurso especial. Incidência do Enunciado Sumular n. 7/STJ". (AgInt no REsp n. 2.031.543/PA, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 9/12/2024.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 2.714.570/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.542.388/MG, relator Ministro Raul Araújo, Quarta Turma, DJEN de 20/12/2024; AgInt no AREsp n. 2.683.088/MG, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 29/11/2024; e AgInt no AREsp n. 2.578.737/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, DJe de 25/10/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
