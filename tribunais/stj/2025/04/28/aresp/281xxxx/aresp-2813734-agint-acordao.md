@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA. FRAUDE NA CONTA DE BENEFÍCIO PREVIDENCIÁRIO. DANO MATERIAL E MORAL. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou seguimento a recurso especial, mantendo a condenação de instituição bancária ao pagamento de indenização por danos morais e materiais devido a saque indevido de benefício previdenciário por terceira pessoa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível revisar o acórdão que majorou a indenização por danos morais e materiais, considerando a necessidade de revolvimento do acervo fático-probatório, o que é vedado pela Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. A revisão do valor arbitrado a título de dano moral demandaria reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+4. A jurisprudência do STJ é clara ao vedar o reexame de fatos e provas em recurso especial, reforçando a função uniformizadora deste recurso.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Desembargador Convocado Carlos Cini Marchionatti, que conheceu do agravo para negar provimento ao recurso especial.
+A Agravante sustenta que a análise do recurso especial não demanda revolvimento do conteúdo fático-probatório, mas sim uma nova valoração jurídica da matéria, afastando o óbice da Súmula nº 7 do STJ (e-STJ fls. 413-414).
+Requer o conhecimento e provimento do agravo interno, invertendo-se os ônus sucumbenciais, reformando a decisão recorrida, suspendendo a execução da sentença, e que as intimações sejam feitas exclusivamente em nome do advogado indicado (e-STJ fls. 415).
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada apresentou impugnação (e-STJ fls. 419-425).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DE INSTITUIÇÃO FINANCEIRA. FRAUDE NA CONTA DE BENEFÍCIO PREVIDENCIÁRIO. DANO MATERIAL E MORAL. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão que negou seguimento a recurso especial, mantendo a condenação de instituição bancária ao pagamento de indenização por danos morais e materiais devido a saque indevido de benefício previdenciário por terceira pessoa.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível revisar o acórdão que majorou a indenização por danos morais e materiais, considerando a necessidade de revolvimento do acervo fático-probatório, o que é vedado pela Súmula 7 do STJ.
+III. RAZÕES DE DECIDIR
+3. A revisão do valor arbitrado a título de dano moral demandaria reexame do conjunto fático-probatório, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+4. A jurisprudência do STJ é clara ao vedar o reexame de fatos e provas em recurso especial, reforçando a função uniformizadora deste recurso.
+IV. AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão agravada pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 402-405):
+Acerca da controvérsia trazida à discussão, colhe-se do voto condutor do acórdão (fls. 286-288):
+Consta dos autos que o apelante, por meio da Assistência Social do município de Cujubim, requereu o Benefício de Prestação Continuada à Pessoa Idosa junto ao INSS, direito este que foi reconhecido pelo instituto. Ocorre que, ao se dirigir ao banco apelado, tomou conhecimento de que o benefício referente ao período de 21/05/21 a 31/07/22 já havia sido sacado por terceira pessoa, que teria recebido o cartão bancário vinculado ao benefício previdenciário em seu nome e promovido os respectivos saques.
+O banco juntou aos autos o Termo de adesão a produtos e serviços, supostamente assinado pelo apelante. Todavia, houve impugnação à assinatura e, instado a indicar as provas que pretendia produzir, o banco manteve-se silente, motivo pelo qual foi reconhecida a falha na prestação do serviço e condenada a instituição bancária ao pagamento de indenização pelo dano moral e material suportado pela parte.
+Quanto ao valor do dano material, compulsando os autos, verifica-se que, de fato, apesar da inicial, protocolizada em 05/08/22, indicar que os benefícios recebidos por terceira pessoa fossem os referentes aos meses de 05/21 a 07/22, a liminar concedida pelo juízo a quo para que o benefício fosse depositado em conta distinta, foi cumprida apenas em relação à prestação devida no mês 10/22, de modo que aquela atrelada aos meses 08/22 e 09/22 acabaram sendo também sacadas por terceira pessoa, em detrimento do apelante, verdadeiro beneficiário, de forma que devem englobar o valor total dos valores a serem ressarcidos.
+No tocante ao dano moral, os fatos narrados dão conta de que o apelado, por falha na prestação de seu serviço, permitiu que terceira pessoa, mediante fraude, recebesse o benefício LOAS devido ao recorrente, o que o impediu de receber os valores indispensáveis à sua manutenção desde a data em que teve deferido o benefício, maio/22, até outubro/22, o que totalizou cinco meses nos quais o apelante ficou desprovido da integralidade de seu benefício e certamente passou por privações e sofrimentos relevantes, os quais devem ser devidamente compensados.
+ ..
+Nessa toada, entendo que o valor fixado na sentença mostra-se aquém do necessário para a justa indenização pelos graves transtornos sofridos no caso concreto, motivo pelo qual majoro a indenização por dano moral para R$ 6.000,00, valor que se mostra mais apto a atingir os fins a que se destina.
+Em face do exposto, dou provimento ao apelo para que a indenização por dano material compreenda os benefícios do período de 05/21 a 09/22, devidamente atualizados, bem como para majorar a indenização por dano moral para o montante de R$ 6.000,00.
+Verifica-se que a Corte a quo concluiu pela efetiva comprovação do dano moral e majorou o respectivo valor, de R$ 3.000,00 para R$ 6.000,00, por entender que referido patamar seria mais adequado à justa indenização pelos graves transtornos sofridos no caso concreto, em que o ora agravado, "por falha na prestação de seu serviço, permitiu que terceira pessoa, mediante fraude, recebesse o benefício LOAS devido ao recorrente, o que o impediu de receber os valores indispensáveis à sua manutenção desde a data em que teve deferido o benefício, maio/22, até outubro/22, o que totalizou cinco meses nos quais o apelante ficou desprovido da integralidade de seu benefício e certamente passou por privações e sofrimentos relevantes".
+Nesse contexto, a revisão do acórdão demandaria amplo revolvimento fático-probatório, incabível na via do recurso especial, a teor da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. PROCESSUAL CIVIL. PLANO DE SAÚDE. ILEGITIMIDADE PASSIVA E INEXISTÊNCIA DOS REQUISITOS PARA A RESCISÃO UNILATERAL DO CONTRATO. REEXAME. SÚMULA 7/STJ. INDENIZAÇÃO POR DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. MULTA PELA INTERPOSIÇÃO DE RECURSO PROTELATÓRIO E POR LITIGÂNCIA DE MÁ-FÉ. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem consignou que, em razão de a agravante integrar a cadeia de fornecimento, é parte legítima a figurar no polo passivo da demanda. Ademais, destacou que não houve o inadimplemento contratual substancial, porque houve o pagamento da parcela em atraso, não sendo cumpridos, pois, os requisitos legais para o cancelamento unilateral do plano de saúde.
+2. Dessa forma, a pretensão de modificar o entendimento firmado pela Corte local - acerca da responsabilidade da recorrente e os requisitos para a rescisão unilateral do contrato de plano de saúde - demandaria o revolvimento do acervo fático-probatório, o que é impossível pela via do recurso especial, nos termos da Súmula 7/STJ.
+3. A Corte local, mediante análise do conjunto fático-probatório dos autos, concluiu pela configuração dos danos morais, arbitrando o valor de R$ 10.000,00 (dez mil reais). Assim, por estarem alicerçados em elementos de fatos e provas existentes nos autos, não podem ser revistos em julgamento de recurso especial, ante o impedimento imposto pela Súmula n. 7/STJ.
+4. A análise do dissídio jurisprudencial não é cabível em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e eventuais julgados indicados paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+5. A multa prevista no art. 1.021, § 4º, do CPC/2015 não é consequência automática do não conhecimento ou desprovimento agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do meio de impugnação para autorizar sua imposição, situação esta não configurada no caso.
+6. Não pode ser considerada como litigância de má-fé a interposição de recurso previsto no ordenamento jurídico, quando não ficar evidenciado o seu intuito protelatório. Inaplicabilidade da multa prevista no art. 80 do CPC/2015.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.498.751/PE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 11/11/2024, DJe de 13/11/2024.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Conforme restou consignado na decisão agravada, o Tribunal de origem concluiu pela efetiva comprovação do dano extrapatrimonial e majorou o respectivo valor, de R$ 3.000,00 para R$ 6.000,00, ao argumento de que o importe seria mais adequado à justa indenização pelos graves transtornos sofridos no caso concreto, já que o ora agravante, por manifesta falha na prestação de seu serviço, permitiu que terceira pessoa, mediante fraude, recebesse o benefício LOAS devido ao ora agravado, o que o impediu de receber os valores indispensáveis à sua manutenção, no período de maio/22, até outubro/22.
+Nesse contexto, para conhecer da controvérsia apresentada neste recurso, mostra-se necessário o revolvimento do acervo fático-probatório dos autos, procedimento incompatível com o entendimento firmado pela súmula 7 deste Superior Tribunal de Justiça, que estabelece que "A pretensão de simples reexame de prova não enseja recurso especial."
+De fato, presente a função uniformizadora do Recurso Especial, não se pode cogitar de seu emprego para a realização de rejulgamento do contexto fático-probatório, em atitude típica de revisão promovida por nova instância.
+Diante disso, é reiterada a jurisprudência desta Corte que assenta que "o reexame de fatos e provas (é) vedado em recurso especial pela Súmula 7 do STJ."(AgInt no REsp n. 2.151.760/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 9/12/2024, DJEN de 12/12/2024.)
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. INJUSTIFICADA COBRANÇA JUDICIAL DE OBRIGAÇÃO ADIMPLIDA. INDEVIDO BLOQUEIO DE CONTA BANCÁRIA DO DEMANDADO. DANO MORAL RECONHECIDO NA ORIGEM. QUANTUM INDENIZATÓRIO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AGRAVO INTERNO DESPROVIDO.
+1. Na hipótese, o Tribunal a quo, após o exame acurado dos autos, das provas, dos documentos, da natureza da relação jurídica, concluiu pela responsabilidade civil da parte ora agravante pelos danos causados à ora agravada decorrentes da infundada cobrança judicial de dívida já quitada, com o consequente bloqueio indevido da conta bancária da demandada.
+2. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$ 5.000,00 (cinco mil reais) por dano moral, visto que não é exorbitante nem desproporcional aos danos sofridos pela parte recorrida, que, conforme mencionado pelas instâncias ordinárias, fora injustamente demandada em ação de cobrança de dívida prontamente adimplida, suportando a consequência desmerecida de ter sua conta bancária bloqueada por decisão judicial proferida naquela lide.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.042.960/AM, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 2/5/2023.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INSTITUIÇÃO FINANCEIRA. RESPONSABILIDADE OBJETIVA. SÚMULA Nº 479/STJ. DANOS MORAIS E LUCROS CESSANTES. REVISÃO. SÚMULA Nº 7/STJ.
+1. Não há negativa de prestação jurisdicional apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+2. As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.
+3. Na hipótese, alterar a conclusão do tribunal de origem quanto à existência de danos morais e lucros cessantes atrai a incidência do óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.261.455/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 23/10/2023, DJe de 27/10/2023.)
+Não há, portanto, dúvida acerca da inaptidão do recurso especial para promover a revisão do quadro fático-probatório, viabilizando reformar da comrpeensão firmada pela Corte de origem acima do tema.
+No presente feito, o acolhimento da tese recursal demandaria inevitável revisão do quadro fático-probatório estabelecido na instância de origem, providência que, como visto, é inviável nesta sede.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
