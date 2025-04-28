@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  CONTRATUAL  COMBINADA  COM  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  REGIME  DE  CONSTRUÇÃO  POR  ADMINISTRAÇÃO.  ACOLHIMENTO.  IMPOSSIBILIDADE.  SÚMULA  Nº  5/STJ.  SÚMULA  Nº  7/STJ.  CORREÇÃO  MONETÁRIA.  TERMO  INICIAL.  DATA  DO  DESEMBOLSO.  PRECEDENTES  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  SÚMULA  Nº  568/STJ.
+1.  O  tribunal  estadual  afastou  a  premissa  de  que  o  contrato  firmado  segue  o  regime  de  construção  por  administração,  com  base  na  análise  do  acervo  fático  probatório  dos  autos,  o  que  não  pode  ser  revisto  no  recurso  especial  em virtude dos óbices  das  Súmulas  nºs  5  e  7/STJ.
+2.  Quanto  ao  termo  inicial  da  correção  monetária,  o  acórdão  recorrido  está  em  consonância  com  a  jurisprudência  desta  Corte  firmada  no  sentido  de  que  os  valores  devem  ser  corrigidos  a  partir  da  data  do  desembolso.
+3.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  TC  NEXUS  I  EMPREENDIMENTOS  IMOBILIÁRIOS  SPE  LTDA.  e  RAJA  SOCIEDADE  UNIPESSOAL  LTDA.  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e  negar-lhe  provimento  (e-STJ  fls.  2.769/2.775).
+Naquela  oportunidade,  concluiu-se  pela  incidência  das  Súmulas  nºs  5  e  7/STJ  e  consonância  do  acórdão  recorrido  com  a  jurisprudência  desta  Corte.
+Nas  presentes  razões,  as  agravantes  aduzem  a  existência  de  omissão  na  decisão  agravada  em  relação  à  inaplicabilidade  do  Código  de  Defesa  do  Consumidor  e  à  comprovação  da  sua  ilegitimidade  passiva.
+Além  disso,  afirmam  que  o  que  se  busca  através  do  recurso  especial  é  o  reconhecimento  de  matéria  de  direito  e  não  questão  fática,  não  sendo  o  caso  de  aplicabilidade  das  Súmulas  nºs  5  e  7/STJ.
+Defendem  que  o  acórdão  recorrido  contraria  a  orientação  desta  Corte  que  admite  a  possibilidade  de  devolução  de  valores  somente  em  casos  em  que  o  leilão  for  positivo  e  com  valores  suficientes  para  cobrar  a  dívida.
+Por  fim,  alegam  que  a  incidência  da  correção  monetária  deve  ocorrer  a  partir  do  ajuizamento  da  ação  e  não  da  data  do  desembolso,  como  estipulado  na  decisão.
+Impugnação  às  e-STJ  fls.  2.797/2.800.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  CONTRATUAL  COMBINADA  COM  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  REGIME  DE  CONSTRUÇÃO  POR  ADMINISTRAÇÃO.  ACOLHIMENTO.  IMPOSSIBILIDADE.  SÚMULA  Nº  5/STJ.  SÚMULA  Nº  7/STJ.  CORREÇÃO  MONETÁRIA.  TERMO  INICIAL.  DATA  DO  DESEMBOLSO.  PRECEDENTES  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA.  SÚMULA  Nº  568/STJ.
+1.  O  tribunal  estadual  afastou  a  premissa  de  que  o  contrato  firmado  segue  o  regime  de  construção  por  administração,  com  base  na  análise  do  acervo  fático  probatório  dos  autos,  o  que  não  pode  ser  revisto  no  recurso  especial  em virtude dos óbices  das  Súmulas  nºs  5  e  7/STJ.
+2.  Quanto  ao  termo  inicial  da  correção  monetária,  o  acórdão  recorrido  está  em  consonância  com  a  jurisprudência  desta  Corte  firmada  no  sentido  de  que  os  valores  devem  ser  corrigidos  a  partir  da  data  do  desembolso.
+3.  Agravo  interno  não  provido.
+VOTO
+O  agravo  interno  não  merece  prosperar.
+No  caso,  a  partir  dos  fatos  e  das  provas  dos  autos,  o  tribunal  de  origem  afastou  as  teses  envolvendo  a  ilegitimidade  passiva,  à  aplicação  do  Código  de  Defesa  do  Consumidor,  à  impossibilidade  de  devolução  dos  valores  pagos  e  da  irretratabilidade,  por  entender  que  o  regime  de  obra  por  administração  foi  descaracterizado.
+É  o  que  se  colhe  nos  seguintes  trechos  do  acórdão  recorrido:
+"(..)
+Frise-se,  desde  já,  que  essa  visão  da  julgadora  de  piso  se  alinha  à  jurisprudência,  ainda  que  existam  precedentes  que  acolhem  a  ilegitimidade,  fato  é  que  o  estudo  da  realidade  subjacente,  a  dinâmica  dos  fatos  e  contratos  revela  que  é  impertinente  a  ilegitimidade  sustentada  pelas  partes  rés.
+Vale  notar  que  a  tese  da  ilegitimidade  é  sustentada  com  base  na  ideia  de  que  "os  contratos  firmados  pelas  partes  foram  celebrados  sob  o  regime  de  construção  por  administração".
+Os  contornos  desse  regime  foram  bem  delineados  no  item  14  do  apelo  das  partes  rés:
+"(..)
+Nesta  modalidade  -  a  preço  de  custo  -  a  obra  torna-se  um  empreendimento  coletivo  dos  adquirentes  e  custeado  em  sua  integralidade  pelos  mesmos,  controlado  por  intermédio  de  uma  comissão  de  representantes,  escolhida  pelos  próprios  condôminos  em  assembleia  própria  e,  a  quem  cabe,  entre  outras  responsabilidades,  o  recebimento  de  valores  em  contas  abertas  em  nome  do  condomínio  de  construção"  (fl.2045).
+
+Também  sobre  esses  contornos:
+"(..)
+A  construção  de  imóvel  sob  o  regime  de  administração  ou  a  "preço  de  custo"  é  regido  pela  Lei  nº  4.591/64  e  é  administrada  pelos  condôminos  adquirentes,  que  são  responsáveis  pelo  pagamento  do  custo  integral  e  fiscalização  do  empreendimento,  hipótese  na  qual  a  Construtora  é  contratada  para  a  execução  da  obra,  de  acordo  com  os  critérios  determinados  pelos  compradores".
+8.  Portanto,  se  não  configurado  esse  regime,  ipso  facto,  presente  a  legitimidade  passiva  das  partes  ré.  Farta  jurisprudência  do  tribunal  não  acolhe  a  configuração  desse  regime  e,  portanto,  a  ilegitimidade  passiva  sustentada.
+(..)
+3.  Na  espécie  em  exame,  diferente  do  que  se  constata  em  casos  outros  envolvendo  esse  empreendimento  (demandas  nas  quais  a  motivação  para  a  resilição  unilateral  foi,  p.  ex.,  atraso  na  entrega  da  obra),  a  causa  de  pedir  cinge-se  especificamente  ao  desvio  de  recursos  de  que  a  autora  tomou  conhecimento  logo  após  firmar  o  contrato  (firmou  contrato  em  11/2014  e  tomou  ciência  dos  desvios  em  12/2014).
+(..)
+4.  Ainda  que  se  vislumbre  vínculo  de  conteúdo  empresarial  na  espécie,  como  vislumbrado  pela  julgadora  a  quo,  afigura-se  plenamente  aplicável  a  teoria  finalista  mitigada  a  permitir  a  aplicação  do  CDC:
+(..)
+Na  espécie  em  exame,  presente  a  situação  de  vulnerabilidade  que  desequilibra  a  relação,  por  isso  obstando  o  enquadramento  da  autora  no  conceito  de  investidora  de  grande  porte.
+(..)
+Nesse  ambiente,  aplicável  a  regra  do  art.  51,  IV  do  CDC,  pelo  que  o  caráter  irrevogável  e  irretratável  do  ajuste  não  impede  o  arrependimento  por  parte  da  autora,  ora  apelada:
+(..)
+Vale  destacar  que  o  instrumento  contratual  contém  previsão  de  resolução  por  inadimplemento,  porém  apenas  em  desfavor  da  Contratante,  ora  apelada,  quando  inadimplente  por  90  (noventa)  dias,  nos  termos  consignados  na  cláusula  9.1,  exsurgindo  claramente  sua  natureza  abusiva.
+(..)
+O  equacionamento  das  consequências  da  ruptura  figura  a  partir  do  causador  do  desfazimento,  se  culpa  exclusiva  do  vendedor/construtor,  ou  se  por  causa  do  comprador.  Na  espécie,  o  equacionamento  foi  muito  bem  aplicado,  a  julgadora  fixou  um  percentual  de  20%  de  retenção  que  traduz  razoabilidade
+Sobre  a  impossibilidade  de  retenção  integral  na  hipótese  em  que  há  desistência  do  adquirente  sem  a  configuração  da  culpa  exclusiva  do  vendedor:
+(..)
+6.  Também  não  há  que  se  falar  em  leilão  extrajudicial.
+A  propósito,  vide  precedente:
+"(..)
+Alegam  as  apelantes,  subsidiariamente,  que  a  rescisão  do  contrato  só  poderia  ser  admitida  por  inadimplemento  da  autora,  resultando  na  realização  de  leilão  extrajudicial  do  bem,  na  forma  do  art.  63  da  Lei  4.951/64  e  descontado  do  valor  apurado  todo  o  débito,  além  de  despesas,  honorários,  comissão  e  multa,  que  supostamente  reverteria  em  favor  do  condomínio.  Como  já  analisado,  o  empreendimento  é  administrado  pelas  rés,  que  realizam  a  cobrança  e  promoveram  o  leilão  das  unidades,  não  se  tratando  de  construção  por  administração,  mas  de  incorporação  propriamente  dita,  capitaneada  pela  CALPER  e  respectiva  SPE.  Inaplicáveis,  por  conseguinte,  as  disposições  da  Lei  4.951/64,  que  versam  exclusivamente  sobre  construção  gerida  pelos  próprios  adquirentes,  e  que  não  é  o  caso  em  tela."  (0022428-49.2017.8.19.0042  -  APELAÇÃO.  Des(a).  MARIA  CELESTE  PINTO  DE  CASTRO  JATAHY  -  Julgamento:  15/03/2022  -  VIGÉSIMA  PRIMEIRA  CÂMARA  CÍVEL)
+(..)"  (e-STJ  fls.  2.254/2.276).
+Com  efeito,  o  tribunal  estadual  afastou  a  premissa  de  que  o  contrato  firmado  segue  o  regime  de  construção  por  administração,  com  base  na  análise  do  acervo  fático  probatório  dos  autos,  o  que  não  pode  ser  revisto  no  recurso  especial  devido aos  óbices  das  Súmulas  nºs  5  e  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RESCISÃO  UNILATERAL.  COMPRA  E  VENDA  DE  IMÓVEL.  CONSTRUÇÃO  POR  ADMINISTRAÇÃO.  DESCARACTERIZADO.  INCIDÊNCIA  DO  CDC.  REVISÃO  DO  JULGADO.  IMPOSSIBILIDADE.  SÚMULAS  5  E  7/STJ.  DISSÍDIO  PREJUDICADO.
+1.  O  regime  de  obra  por  administração  foi  expressamente  afastado  pela  instância  de  origem  diante  de  toda  a  sistemática  de  contratação,  posto  que,  criada  a  Sociedade  com  Propósito  Específico  -  SPE,  que  elaborou  o  projeto  de  construção,  ofereceu  à  venda,  atuou  como  construtora,  incorporadora  e  administradora  do  empreendimento  imobiliário,  organizando  os  pagamentos,  emitindo  extratos  e  recibos,  enfim  atuando  como  gestora  do  empreendimento,  o  que  descaracterizou  o  regime  de  construção  por  administração  e  acabou  por  atrair  a  incidência  do  Código  de  Defesa  do  Consumidor  ao  caso  concreto.
+2.  No  caso  em  análise,  a  partir  da  interpretação  do  contrato  entabulado  entre  as  partes,  bem  como  da  detida  análise  das  circunstâncias  fáticas  da  causa,  as  instâncias  de  origem  concluíram  que  o  regime  de  obra  por  administração  não  foi  seguido  pelas  empresas  agravantes,  razão  pela  qual  a  eventual  restituição  de  valores  não  deve  obedecer  aos  ditames  da  Lei  de  Incorporação  Imobiliária,  mas,  ao  disposto  no  Código  de  Defesa  do  Consumidor,  impondo  aos  ora  recorrentes  o  ônus  da  solidariedade  (considerando  que  a  iniciativa  pelo  distrato  partiu  do  comprador).  Revisão  do  julgado  esbarra  no  óbice  das  Súmulas  n.  5/STJ  e  7/STJ.
+3.  O  reexame  de  matéria  fática  inviabiliza  o  recurso  especial  também  pela  alínea  "c"  do  permissivo  constitucional,  restando  prejudicado  o  exame  da  divergência  jurisprudencial.
+Agravo  interno  improvido"  (AgInt  no  AREsp  2.175.213/RJ,  Rel.  Ministro  HUMBERTO  MARTINS,  Terceira  Turma,  julgado  em  28/10/2024,  DJe  de  30/10/2024).
+"CIVIL.  RECURSOS  ESPECIAIS.  AÇÃO  INDENIZATÓRIA  C/C  PEDIDO  DE  CONDENAÇÃO  AO  PAGAMENTO  DE  MULTA.  PRIMEIRO  RECURSO  ESPECIAL.  INCORPORADORA.  INCIDÊNCIA  DO  CDC.  TERMO  INICIAL  DA  CORREÇÃO  MONETÁRIA  E  DOS  JUROS  MORATÓRIOS.  SÚMULA  284/STF.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  AUSÊNCIA.  MULTA.  ART.  35,  §  5º,  DA  LEI  Nº  4.591/64.  VENIRE  CONTRA  FACTUM  PROPIRUM  E  SUPRESSIO.  NÃO  APLICAÇÃO.  REGIME  DE  INCORPORAÇÃO  ADOTADO.  SÚMULAS  5  E  7/STJ.  SEGUNDO  RECURSO  ESPECIAL.  ADQUIRENTES.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INEXISTÊNCIA.  APLICAÇÃO  DO  ART.  500,  §  1º,  DO  CC  ÀS  RELAÇÕES  DE  CONSUMO.  POSSIBILIDADE.  INDENIZAÇÃO  PARCIALMENTE  DEVIDA.  VENDAS  AD  MENSURAM  e  AD  CORPUS.  MULTA  DO  ART.  35,  §  5º,  DA  LEI  Nº  4.591/64.  REDUÇÃO  EQUITATIVA.  CABIMENTO.
+(..)
+3.3.  A  Lei  nº  4.591/64  prevê  duas  modalidades  de  incorporação  imobiliária:  por  empreitada  e  por  administração  (art.  48).  No  regime  de  construção  por  administração,  a  obra  torna-se  um  empreendimento  coletivo  dos  adquirentes,  controlado  por  intermédio  de  uma  comissão  de  representantes,  a  quem  cabe,  entre  outras  coisas,  o  recebimento  de  valores  em  contas  abertas  em  nome  do  condomínio.  Na  espécie,  para  alterar  a  conclusão  alcançada  na  origem,  no  sentido  de  que  foi  adotado  o  regime  de  incorporação  por  empreitada,  seria  necessário  o  reexame  de  cláusulas  contratuais  e  das  provas  produzidas  nos  autos,  o  que  é  vedado  pelas  Súmulas  5  e  7  do  STJ.
+(..)
+5.  Recurso  especial  de  Moura  Dubeux  Engenharia  S/A  parcialmente  conhecido  e,  nessa  parte,  não  provido  e  recurso  especial  de  Antonio  Correia  de  Albuquerque  e  Outros  conhecido  e  parcialmente  provido"  (REsp  1.952.243/PE,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  22/8/2023,  D  Je  de  29/8/2023).
+Quanto  ao  termo  inicial  da  correção  monetária,  o  acórdão  recorrido  está  em  consonância  com  a  jurisprudência  desta  Corte  firmada  no  sentido  de  que  os  valores  devem  ser  corrigidos  a  partir  da  data  do  desembolso.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  CONDENATÓRIA  -  DECISÃO  MONOCRÁTICA  QUE  CONHECEU  DO  AGRAVO  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.  IRRESIGNAÇÃO  RECURSAL  DA  PARTE  RÉ.
+1.  Derruir  a  conclusão  do  Tribunal  de  origem  acerca  da  culpa  pela  rescisão  contratual  no  caso  concreto  ensejaria,  necessariamente,  a  rediscussão  de  matéria  fática,  com  o  revolvimento  das  provas  juntadas  ao  processo,  incidindo,  na  espécie,  o  óbice  da  Súmula  7/STJ.
+2.  "A  Corte  Estadual  fixou  a  data  da  citação  como  o  termo  inicial  dos  juros  de  mora  incidentes  sobre  o  valor  a  ser  restituído,  e  o  momento  dos  respectivos  desembolsos  como  termo  inicial  da  correção  monetária  das  parcelas  pagas,  alinhando-se  ao  entendimento  desta  Corte  Superior.  Incidência  da  Súmula  83  do  STJ"  (AgInt  no  AREsp  n.  1.698.841/MS,  relator  Ministro  Raul  Araújo,  Quarta  Turma,  julgado  em  1/3/2021,  D  Je  de  22/3/2021.).
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.418.268/ES,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  26/2/2024,  D  Je  de  28/2/2024).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  DA  PRESIDÊNCIA.  RECONSIDERAÇÃO.  RESCISÃO  DE  CONTRATO  DE  COMPRA  E  VENDA  DE  IMÓVEL.  ATRASO  NA  ENTREGA  DE  IMÓVEL.  RESTITUIÇÃO  INTEGRAL.  CABIMENTO.  DANOS  MORAIS  CONFIGURADOS.  QUANTUM  ADEQUADO.  CORREÇÃO  MONETÁRIA  DESDE  O  DESEMBOLSO.  JUROS  DE  MORA  DESDE  A  CITAÇÃO.  SUCUMBÊNCIA  RECÍPROCA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULAS  282  E  356/STF.  FUNDAMENTOS  INATACADOS.  SÚMULAS  283  E  284  DO  STF.  AGRAVO  INTERNO  PROVIDO  PARA  CONHECER  DO  AGRAVO  E  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.
+(..)
+5.  A  Corte  Estadual  fixou  a  data  da  citação  como  o  termo  inicial  dos  juros  de  mora  incidentes  sobre  o  valor  a  ser  restituído,  e  o  momento  dos  respectivos  desembolsos  como  termo  inicial  da  correção  monetária  das  parcelas  pagas,  alinhando-se  ao  entendimento  desta  Corte  Superior.  Incidência  da  Súmula  83  do  STJ.
+(..)
+8.  Agravo  interno  provido  para,  reconsiderando  a  decisão  agravada,  conhecer  do  agravo  e  negar  provimento  ao  recurso  especial"  (AgInt  no  AREsp  1.698.841/MS,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  1º/3/2021,  D Je  de  22/3/2021).
+De  fato,  conforme  consignado  na  decisão  agravada,  o  acórdão  recorrido  está  em  consonância  com  o  entendimento  do  Superior  Tribunal  de  Justiça,  a  atrair  a  aplicação  da  Súmula  nº  568/STJ.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
