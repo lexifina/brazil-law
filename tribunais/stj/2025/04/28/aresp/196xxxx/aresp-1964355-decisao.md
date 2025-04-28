@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo interposto por RIO PARANÁ COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ cuja ementa guarda os seguintes termos (fl. 1.950):
+APELAÇÃO CÍVEL REVISIONAL CONTRATO BANCÁRIO APELAÇÃO I CONFISSÃO DE DÍVIDA QUE PREVIU JUROS REMUNERATÓRIO RESPEITO A TAX CONTRATADA INEXISTÊNCIA NOS AUTOS DO CONTRATO E ABERTURA DE CRÉDITO EM CONTA CORRENTE APLICAÇÃO DA MÉDIA DE MERCADO QUANDO PRATICADA TAXA SUPERIOR ANATOCISMO CONFIRMADO PELA PERÍCIA DEVOLUÇÁO APLICABILIDADE DO ART 354 DO CC INOVAÇAO RECURSAL NÃO CONHECIMENTO PRERROGATIVA DO MAGISTRADO SINGULAR FIXAR A FORMA II LIQUIDAÇÃO DA SENTENÇA INALTERABILIDADE APELAÇAO 2 PRETENSÃO QUE BUSCA RECONHECIMENTO PREMATURO DOS FEITOS DA SENTENÇA IMUTÁVEL SITUAÇÃO JÚRIDICA AINDA NAÕ CONSOLIDADA APEIAÇÃO I PARCIALMENTE PROVIDA NA PARTE CONHECIDA APLICAÇÃO 2 NÃO PROVIDA.
+Rejeitados os embargos de declaração opostos (fl. 1.891).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 535, II, do CPC/1973, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 354 do Código Civil e 515 do CPC/1973, pois entende que não há capitalização de juros com a aplicação da Tabela Price, que isso teria sido comprovado por meio de perícia e que não teria incorrido em inovação recursal, pois a análise do art. 354 somente se teria tornado pertinente após a prolação da sentença que reconheceu o anatocismo.
+Aponta divergência jurisprudencial com arestos de outros tribunais a respeito da aplicação da Tabela Price.
+Foram oferecidas contrarrazões ao recurso especial (fls. 2.418-2.423).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 2.449 - 2.452), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Conforme demonstrado na decisão agravada, inexiste a alegada violação do art. 353, II, do CPC, uma vez que o Tribunal de origem se manifestou, de forma clara e fundamentada, quanto aos pontos alegados como omissos.
+Verifica-se que, em relação à apontada ofensa aos arts. 354 do Código Civil e 515 do CPC/1973, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar, porquanto encontra óbice nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ; alterar o decidido no acórdão impugnado, no que se refere à inovação recursal e à comprovação da existência de anatocismo, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. REVISÃO DE CLÁUSULAS CONTRATUAIS. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ANÁLISE DA TABELA PRICE COMO CRITÉRIO DE AMORTIZAÇÃO. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ.
+1. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+2. "Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento" (AgRg no AREsp 121.314/PI, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, Julgado Em 07/05/20, julgado em 07/05/20, DJe de 21/05/2013).
+3. Na hipótese, entender de forma diversa do acórdão recorrido, para concluir que a prova pericial seria imprescindível para o deslinde da questão e que a sua repulsa incorreria em cerceamento de defesa, demandaria o revolvimento fático-probatório do autos, o que encontra óbice na Súmula 7 do STJ.
+4. A Corte Especial do STJ pacificou o entendimento, em sede de recurso representativo da controvérsia, de que "a análise acerca da legalidade da utilização da Tabela Price - mesmo que em abstrato - passa, necessariamente, pela constatação da eventual capitalização de juros (ou incidência de juros compostos, juros sobre juros ou anatocismo), que é questão de fato e não de direito, motivo pelo qual não cabe ao Superior Tribunal de Justiça tal apreciação, em razão dos óbices contidos nas Súmulas 5 e 7 do STJ" (REsp 1.124.552/RS, Relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 3/12/2014, DJe de 2/2/2015).
+5. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+6. No caso, entender de forma diversa do acórdão recorrido, para concluir que houve a devolução do imóvel em momento anterior à procedência da ação de rescisão contratual, demandaria a análise de provas e fatos, o que é vedado no âmbito do recurso especial, em razão da incidência da Súmula 7 do STJ.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 990.932/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/5/2024, DJe de 4/6/2024.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que a sentença foi prolatada sob a égide do CPC/1973, o que torna inviável a aplicação de preceitos do art. 85 do CPC/2015, ainda que o especial tenha sido manejado sob a regência do novo código (exegese dos EAREsp n. 1.255.986/PR, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 6/5/2019).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. TABELA PRICE COMO CRITÉRIO DE AMORTIZAÇÃO. CAPITALIZAÇÃ O DE JUROS. ART. 354 DO CC. INOVAÇÃO RECURSAL. SÚMULA N. 7/STJ. AGRAVO IMPROVIDO.
