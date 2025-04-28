@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL SA que discute com base no art. 139, IV, do CPC/15, a possibilidade de utilização, de modo subsidiário, de medida executiva atípica, consistente em ordem de indisponibilidade de bens à Central Nacional de Indisponibilidade dos Bens - CNIB, a fim de viabilizar a pesquisa e a restrição de eventuais bens, como forma de persuasão para o cumprimento da obrigação.
+É o relatório. Decido.
+A aludida questão de direito objeto do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps 1.955.574/SP e 1.955.539/SP delimitado o Tema 1.137 nos termos da seguinte ementa:
+"PROPOSTA DE AFETAÇÃO - RITO DOS RECURSOS ESPECIAIS REPETITIVOS - TEMÁTICA - DIREITO PROCESSUAL CIVIL - EXECUÇÃO - POSSIBILIDADE, OU NÃO, DE ADOÇÃO DE MEIOS EXECUTIVOS ATÍPICOS. (Art. 139, IV, do CPC/15)
+1. Delimitação da controvérsia:1.1. Definir se, com esteio no art. 139, IV, do CPC/15, é possível, ou não, o magistrado, observando-se a devida fundamentação, o contraditório e a proporcionalidade da medida, adotar, de modo subsidiário, meios executivos atípicos.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015."
+(ProAfR no REsp 1955574/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 29/03/2022, DJe 07/04/2022)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que, nos termos dos arts. 1.039 e 1.040 do CPC/2015, após o julgamento do tema de recurso repetitivo: i) negue-se seguimento ao recurso especial no caso de o acórdão recorrido coincidir com a tese firmada sobre o aludido tema; ou ii) proceda-se a novo exame da matéria, no órgão prolator da decisão vergastada, na hipótese desta última divergir da referida tese.
+Publique-se.
+EMENTA
