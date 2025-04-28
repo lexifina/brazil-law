@@ -1,0 +1,14 @@
+DECISÃO
+MATHEUS PIRES FERNANDES alega sofrer coação ilegal diante de acórdão do Tribunal de origem, que cassou o livramento condicional deferido ao paciente e determinou seu retorno ao regime semiaberto, sob a alegação de ausência de preenchimento do requisito subjetivo.
+A defesa sustenta que o apenado tem atestado de boa conduta carcerária e que o exame criminológico realizado foi favorável à concessão do benefício. Aduz que um ato de indisciplina cometido há mais de quatro anos, não pode impedir a antecipação de liberdade.
+Decido.
+É possível o avanço para a pronta solução do habeas corpus, com fundamento na jurisprudência desta Corte.
+A prática de falta disciplinar grave, muito embora não interrompa a contagem do prazo para fins de livramento condicional, impede a concessão do benefício por evidenciar a ausência do requisito subjetivo relativo ao comportamento satisfatório durante o resgate da pena, nos termos do que exigia o art. 83, inciso III, do Código Penal.
+O "citado dispositivo legal não determina um período específico de aferição do requisito subjetivo, de modo que o bom comportamento carcerário deve ser analisado em todo o tempo de execução da pena" (REsp n. 1.744.684/MS, relator Ministro Jorge Mussi, Quinta Turma, julgado em 16/8/2018, DJe de 24/8/2018).
+Mesmo com as alterações promovidas pela Lei n. 13.964/2019, prevalece a mesma compreensão, conforme a tese jurídica fixada no Tema Repetitivo n. 1.161, uma vez que "a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional" (REsp n. 1.970.217/MG, Rel. Ministro Ribeiro Dantas, Terceira Seção, DJe 1º/6/2023).
+No caso, o Tribunal de origem, de forma fundamentada, indeferiu a passagem direta do apenado do regime semiaberto ao livramento condicional, por falta de requisito subjetivo, em razão de histórico carcerário conturbado, destacando a prática de falta grave durante a execução penal. Não há ilegalidade ou abuso de poder no ato judicial.
+Ressalte-se que o julgador não está vinculado ao atestado de classificação interna de comportamento, "pois, se assim não fosse, a competência para conceder o benefício ao encarcerado passaria a ser do Diretor do estabelecimento prisional em que se encontrasse, e não mais do Juiz da execução" (HC n. 264.261/SP, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 23/8/2013).
+Seria inconsistente permitir que um reeducando do regime semiaberto, com histórico de mau comportamento carcerário, obtenha a antecipação de liberdade condicional quando nem sequer preenche os requisitos para ser transferido ao regime aberto, principalmente quando considerado o objetivo da execução, de reintegração gradual e segura ao convívio social, de maneira a minimizar o risco de reincidência criminal.
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
+EMENTA
