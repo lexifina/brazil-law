@@ -1,0 +1,13 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOSE FRANCISCO DE OLIVEIRA - cumprindo pena privativa de liberdade em razão de condenações por crimes contra o patrimônio -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Agravo de Execução Penal n. 5052190-52.2025.8.09.0000), comporta pronto acolhimento.
+Com efeito, busca a impetração seja determinada a suspensão do cumprimento da pena restritiva de direitos, imposta em razão de nova condenação, a fim de ser cumprida após a privativa de liberdade anterior, ao argumento de ofensa ao Tema Repetitivo n. 1.106 deste Superior Tribunal.
+De fato, do atento exame dos autos, observo que o paciente cumpria pena privativa de liberdade quando sobreveio nova condenação, cuja reprimenda foi substituída por restritiva de direitos, tendo o Juízo de Direito da 2ª Vara de Execuções Criminais da comarca de Goiânia/GO convertido a pena restritiva de direitos em privativa de liberdade, sob o fundamento de que a pena restritiva de direitos deve ser convertida em privativa de liberdade, pois incompatível com o regime a que o sentenciado está atualmente submetido, qual seja, o semiaberto (fl. 39).
+Ocorre que este Superior Tribunal, ao firmar a tese no julgamento do Tema Repetitivo n. 1.106, consignou que, sobrevindo condenação por pena privativa de liberdade, as penas restritivas de liberdade anteriores serão objeto de unificação, consoante a previsão do art. 44, § 5º, do CPP, ressalvada a possibilidade de cumprimento simultâneo das sanções e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente (REsp n. 1.918.287/MG, Relatora para o acórdão Ministra Laurita Vaz, finalizado em 27/4/2022 - Tema 1.106).
+Assim, em se tratando de condenação superveniente à reprimenda restritiva de direitos, é vedada a unificação ou conversão automática em privativa de liberdade, tendo as instâncias ordinárias aplicado o referido entendimento jurisprudencial de forma equivocada.
+Em face do exposto, concedo liminarmente a ordem impetrada para determinar que o Tribunal de origem proceda a novo julgamento do Agravo de Execução Penal n. 5052190-52.2025.8.09.0000, aplicando adequadamente o Tema Repetitivo n. 1.106 deste Superior Tribunal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. SUPERVENIÊNCIA DE CONDENAÇÃO À PENA RESTRITIVA DE DIREITOS QUANDO EM CUMPRIMENTO DE PRIVATIVA DE LIBERDADE. UNIFICAÇÃO OU CONVERSÃO AUTOMÁTICA. IMPOSSIBILIDADE. TEMA REPETITIVO N. 1.106. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida.
