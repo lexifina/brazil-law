@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. CUMPRIMENTO DE SENTENÇA. JUIZ CLASSISTA. ILEGITIMIDADE ATIVA DO EXEQUENTE. LIMITES SUBJETIVOS DA COISA JULGADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão do Tribunal de origem no sentido de que o recorrido, ora agravado, é beneficiário do título coletivo e, por conseguinte, possui legitimidade ativa para proceder a sua execução, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ. Precedentes.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 205):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. CUMPRIMENTO DE SENTENÇA. JUIZ CLASSISTA. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ILEGITIMIDADE ATIVA DO EXEQUENTE. LIMITES SUBJETIVOS DA COISA JULGADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+A agravante alega que a Súmula 7/STJ não é aplicável ao caso em apreço pois "não há necessidade de analisar qualquer prova ou fato, mas os mesmos restam incontroversos, sendo necessária apenas uma interpretação consentânea com a legislação apresentada pela União como violada" (fl. 215). Afirma que "não se controverte acerca do fato de os juízes classistas representados na ação coletiva estarem devidamente identificados em relação anexa à petição inicial, mas sim se a condenação estabelecida no título executivo alcança todos os associados arrolados, ou apenas aqueles que, embora listados, se inativaram pelo regime da Lei n. 6.903/81, e seus pensionistas" (fl. 216). Requer, ao final, o provimento do agravo interno para "reconhecer a ilegitimidade da parte" (fl. 216).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. CUMPRIMENTO DE SENTENÇA. JUIZ CLASSISTA. ILEGITIMIDADE ATIVA DO EXEQUENTE. LIMITES SUBJETIVOS DA COISA JULGADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão do Tribunal de origem no sentido de que o recorrido, ora agravado, é beneficiário do título coletivo e, por conseguinte, possui legitimidade ativa para proceder a sua execução, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, registra-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, observa-se que o Tribunal de origem, após ampla análise do conjunto fático-probatório dos autos, firmou compreensão de que o recorrido, ora agravado, é beneficiário do título coletivo possuindo, por conseguinte, legitimidade ativa para proceder a sua execução.
+Confira-se, a propósito o seguinte excerto do acórdão a quo (fls. 81-82, com grifos nossos):
+O cumprimento de sentença tem por objeto a cobrança de créditos decorrente do título executivo judicial proferido na Ação Coletiva nº 0006306- 43.2016.4.01.3400, ajuizada pela Associação Nacional dos Juízes Classistas da Justiça do Trabalho - ANAJUCLA, em que foram asseguradas as diferenças da PAE devidas entre março/1996 a março/2001. Anteriormente, a citada Associação impetrou o Mandado de Segurança coletivo nº 737165-73.2001.5.55.5555 (STF, RMS 25.841/DF) com o fim de integração da Parcela Autônoma de Equivalência - PAE aos Juízes Classistas a partir do ano de 2001, tendo como beneficiários "Juízes Classistas do Trabalho que tiveram suas aposentadorias regidas pela Lei nº 6.903/81".
+A ação coletiva tem como objeto o pagamento dos valores não abrangidos pela ação mandamental, sendo que, nos termos em que constou da petição inicial, a substituição efetuada pela Associação foi delimitada, abrangendo "todos os associados da autora aqui representados (relação por região em anexo)"(evento 7, OUT2).
+Ademais, há manifestação expressa no título executivo acerca da delimitação operada (evento 7, OUT4):
+ ..
+Na hipótese, o exequente comprovou que seu nome consta do rol que instruiu a inicial da Ação Coletiva nº 0006306-43.2016.4.01.3400, razão pela qual há de ser reconhecida sua legitimidade para a execução do título formado no Processo nº 0006306-43.2016.4.01.3400/DF (evento 12, OUT6).
+Tem-se, nesse contexto, que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Veja-se, em igual sentido, recentes julgados da Primeira Turma que apreciaram casos análogos:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. PARCELA AUTÔNOMA DE EQUIVALÊNCIA - PAE. CUMPRIMENTO DE SENTENÇA. JUIZ CLASSISTA. ILEGITIMIDADE ATIVA DO EXEQUENTE. LIMITES SUBJETIVOS DA COISA JULGADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A revisão da conclusão do Tribunal de origem no sentido de que o recorrido, ora agravado, é beneficiário do título coletivo e, por conseguinte, possui legitimidade ativa para proceder a sua execução, demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ. Precedentes.
+3. Agravo interno não provido (AgInt no AREsp 2.483.378/RS, relator Ministro Benedito Gonçalves, DJe 28/6/2024).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUIZ CLASSISTA. PARCELA AUTÔNOMA DE EQUIVALÊNCIA SALARIAL. DELIMITAÇÃO SUBJETIVA DO TÍTULO EXECUTIVO. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA 283/STF. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. No caso, o apelo nobre não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 23/2/2021.
+2. No mais, a alteração das premissas adotadas pela Corte de origem, a fim de verificar a delimitação subjetiva da presente ação, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido (AgInt no AREsp 2.477.600/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe 11/4/2024).
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
