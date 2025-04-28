@@ -1,0 +1,87 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  COMBINADA  COM  RESOLUÇÃO  CONTRATUAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  SUCUMBÊNCIA  MÍNIMA.  RECONHECIMENTO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  EXTINÇÃO  DO  FEITO.  RECONCENÇÃO.  CONCORÂNCIA  DA  PARTE.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  no  âmbito  do  recurso  especial,  a  revisão  do  grau  de  sucumbência  em  que  autor  e  réu  saíram  vencidos  na  demanda  implica  análise  do  conteúdo  fático-probatório  dos  autos,  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  É  inadmissível  o  recurso  especial  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.  Súmula  nº  284/STF,  aplicada  por  analogia.
+4.  Rever  o  entendimento  do  tribunal  de  origem,  de  que  a  recorrida  pugnou  pela  extinção  do  feito  e  que  a  recorrente  concordou  com  a  reconvenção,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  NAVEGAÇÃO  MANSUR  S.A.  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  em  parte  do  recurso  especial  e  negar-lhe  provimento  (e-STJ  fls.  2.160/2.164).
+Naquela  oportunidade,  concluiu-se  pela  ausência  de  negativa  de  prestação  jurisdicional  e  pela  incidência  das  Súmulas  nº  7/STJ  e  nº  284/STF.
+Nas  presentes  razões,  a  agravante  aduz  que  o  tribunal  de  origem  incorreu  em  omissão,  pautada  em  premissa  equivocada , ao  afirmar  que:  a  recorrente  concordou  com  a  perda  do  objeto  sem  ressalvas  e  a  causalidade  para  a  fixação  da  sucumbência  se  daria  pela  utilidade  prática  da  demanda.
+Além  disso,  afirma  que
+  "(..)  nenhum  dos  pedidos  formulados  no  recurso  verdadeiramente  demanda  retorno  ao  conjunto  dos  fatos  e  provas  dos  autos,  basta  a  leitura  atenta  do  v.  Acórdão  e  dos  pressupostos  nele  apostos  para  se  perceber  que  deve  ser  reformado"  (e-STJ  fl.  2.183).
+Alega  que  a  violação  do  art.  343,  §  2º  do  Código  de  Processo  Civil  decorre  de  forma  clara  e  objetiva  da  vinculação  que  o  tribunal  de  origem  fez  entre  a  reconvenção  e  o  pedido  principal  da  demanda.
+Impugnação  às  e-STJ  fls.  2.191/2.209.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  COMBINADA  COM  RESOLUÇÃO  CONTRATUAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  SUCUMBÊNCIA  MÍNIMA.  RECONHECIMENTO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  EXTINÇÃO  DO  FEITO.  RECONCENÇÃO.  CONCORÂNCIA  DA  PARTE.  SÚMULA  Nº  7/STJ.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda  que  de  forma  sucinta,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2.  A  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  no  âmbito  do  recurso  especial,  a  revisão  do  grau  de  sucumbência  em  que  autor  e  réu  saíram  vencidos  na  demanda  implica  análise  do  conteúdo  fático-probatório  dos  autos,  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+3.  É  inadmissível  o  recurso  especial  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.  Súmula  nº  284/STF,  aplicada  por  analogia.
+4.  Rever  o  entendimento  do  tribunal  de  origem,  de  que  a  recorrida  pugnou  pela  extinção  do  feito  e  que  a  recorrente  concordou  com  a  reconvenção,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+VOTO
+O  agravo  interno  não  merece  prosperar.
+No  tocante  às  omissões  apontadas  no  acórdão  estadual,  o  tribunal  de  origem,  ao  decidir  os  embargos  de  declaração,  manifestou-se  expressamente  acerca  do  fato  de  que  apreciou  todos  os  pedidos  e  a respeito do  ônus  de  sucumbência.
+É  o  que  se  extrai  da  seguinte  passagem:
+"(..)
+Como  asseverado  no  acórdão,  a  autora,  ora  Embargada,  veio  a  requerer  nos  autos  a  extinção  do  feito,  sendo  certo  que  a  Embargante,  instada  a  se  manifestar,  concordou,  sem  qualquer  ressalva  quanto  à  reconvenção  (index  1652).  Assim,  a  extinção  do  feito  contemplou  tanto  os  pedidos  principais  como  os  reconvencionais.
+Desta  forma,  não  se  verifica  no  acórdão  embargado  qualquer  contradição  a  ser  sanada,  sendo  certo  que  todos  os  pontos  relevantes  foram  enfrentados  e  resolvidos  no  julgado,  o  qual  contém  os  elementos  indispensáveis  à  sua  perfeita  compreensão,  inexistindo  qualquer  irregularidade  a  ser  sanada.
+Em  relação  ao  ônus  de  sucumbência,  sabe-se  que  o  princípio  da  causalidade  impõe  que  aquele  que  deu  causa  à  instauração  do  processo  responda  pelas  despesas  e  custas  processuais,  até  mesmo,  por  exemplo,  em  casos  de  extinção  sem  resolução  de  mérito,  como  no  caso  concreto.  De  acordo  com  o  STJ:  "Nas  hipóteses  de  extinção  do  processo  sem  resolução  do  mérito,  decorrente  de  perda  de  objeto  superveniente  ao  ajuizamento  da  ação,  a  parte  que  deu  causa  à  instauração  do  processo  deverá  suportar  o  pagamento  dos  honorários  advocatícios,  com  fundamento  no  princípio  da  causalidade."  (R  Esp  806.434/RJ).
+In  casu,  tendo  em  vista  que  no  momento  da  propositura  da  demanda,  a  ação  se  afigurava  como  meio  útil  e  necessário  à  obtenção  da  tutela  pretendida  pela  ora  Embargada,  em  tendo  a  Embargante  oferecido  resistência  à  pretensão  exordial,  afigura-se  correta  a  sua  condenação  ao  pagamento  de  honorários  advocatícios  de  sucumbência.
+(..)"  (e-STJ  fls.  1.767/1.768).
+Nesse  contexto,  no  que  diz  respeito  à  alegada  negativa  de  prestação  jurisdicional  -  violação  do  art.  1.022  do  CPC  -,  agiu  corretamente  o  tribunal  de  origem  ao  rejeitar  os  embargos  declaratórios  por  inexistir  omissão,  contradição,  obscuridade  ou  erro  material  no  acórdão  embargado,  ficando  patente,  em  verdade,  o  intuito  infringente  da  irresignação,  que  objetivava  a  reforma  do  julgado  por  via  inadequada.
+A  propósito:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  DEVOLUÇÃO  DE  PARCELAS  PREVIDENCIÁRIAS.  PREVIDÊNCIA  PRIVADA.  ENCERRAMENTO  DO  PLANO.  EMBARGOS  DE  DECLARAÇÃO.  OMISSÃO,  CONTRADIÇÃO  OU  OBSCURIDADE.  VIOLAÇÃO  DO  ART.  489  DO  CPC/2015.  INOCORRÊNCIA.  REEXAME  DE  FATOS.  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INADMISSIBILIDADE.  SÚMULAS  5  E  7/STJ.  DISSÍDIO  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.  SÚMULA  7/STJ.  DECISÃO  MANTIDA.
+1.  Ação  de  devolução  de  parcelas  previdenciárias.
+2.  Ausentes  os  vícios  do  art.  1.022  do  CPC/15,  rejeitam-se  os  embargos  de  declaração.
+3.  Devidamente  analisadas  e  discutidas  as  questões  de  mérito,  e  fundamentado  corretamente  o  acórdão  recorrido,  de  modo  a  esgotar  a  prestação  jurisdicional,  inexiste  a  violação  do  art.  489  do  CPC/15.
+4.  O  reexame  de  fatos  e  a  interpretação  de  cláusulas  contratuais  em  recurso  especial  são  inadmissíveis.
+5.  O  dissídio  jurisprudencial  deve  ser  comprovado  mediante  o  cotejo  analítico  entre  acórdãos  que  versem  sobre  situações  fáticas  idênticas.
+6.  A  incidência  das  Súmulas  5  e  7/STJ  prejudicam  a  análise  do  dissídio  jurisprudencial  pretendido.  Precedentes  desta  Corte.
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.183.495/RJ,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  28/11/2022,  DJe  de  30/11/2022  -  grifou-se).
+No  que  tange  à  alegada  violação  dos  arts.  85  e  86  do  CPC,  não  há  como  afastar  o  óbice  da  Súmula  nº  7/STJ.
+De  fato,  a  jurisprudência  desta  Corte  é  firme  no  sentido  de  que,  no  âmbito  do  recurso  especial,  a  revisão  do  grau  de  sucumbência  em  que  autor  e  réu  saíram  vencidos  na  demanda  implica  análise  do  conteúdo  fático-probatório  dos  autos,  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  EMBARGOS  À  EXECUÇÃO  -  DECISÃO  MONOCRÁTICA  QUE  CONHECEU  DO  AGRAVO  PARA  NÃO  CONHECER  DO  RECURSO  ESPECIAL.  IRRESIGNAÇÃO  RECURSAL  DA  EMBARGANTE.
+(..)
+2.  Conforme  entendimento  pacífico  do  STJ,  a  revisão  acerca  do  quantitativo  em  que  autor  e  réu  decaíram  do  pedido,  para  fins  de  aferição  da  ocorrência  de  sucumbência  recíproca  ou  mínima,  demanda  o  revolvimento  de  matéria  fática,  impossível  na  presente  via,  conforme  dispõe  a  Súmula  7  do  STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.255.212/SP,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  8/5/2023,  D  Je  de  11/5/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EMBARGOS  DE  TERCEIROS.  ARTS.  489  E  1.022  DO  CÓDICO  DE  PROCESSO  CIVIL  DE  2015.  DEFICIÊNCIA.  OMISSÕES  E  FUNDAMENTAÇÃO.  NÃO  OCORRÊNCIA.  HONORÁRIOS.  SUCUMBÊNCIA  RECÍPROCA.  REEXAME.  CONTEXTO  FÁTICO-PROBATÓRIO.  SÚMULA  Nº  7/STJ.
+(..)
+3.  A  análise  do  quantitativo  em  que  autor  e  réu  saíram  vencedores  ou  vencidos  na  demanda,  bem  como  da  existência  de  sucumbência  mínima  ou  recíproca,  esbarra  no  óbice  da  Súmula  nº  7/STJ.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  2.125.825/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  13/2/2023,  D  Je  de  17/2/2023).
+No  que  tange  ao  art.  343,  caput,  §  2º,  do  CPC,  a  deficiência  na  fundamentação  recursal  ficou  evidenciada,  visto  que  a  recorrente,  apesar  de  indicar  o  mencionado  dispositivo  legal  como  malferido,  não  especificou  de  que  forma  ele  teria  sido  contrariado  pelo  acórdão  recorrido,  inviabilizando  a  compreensão  da  controvérsia  posta  nos  autos.
+Assim,  incide,  por  analogia,  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+Confiram-se:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  AÇÃO  DECLARATÓRIA.  INDENIZAÇÃO.  DANOS  MORAIS  E  MATERIAIS.  ILEGITIMIDADE  PASSIVA.  TEORIA  DA  ASSERÇÃO.  INICIAL.  ANÁLISE.  SÚMULA  Nº  83/STJ.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  FUNDAMENTAÇÃO.  DEFICIÊNCIA.  SÚMULAS  NºS  283  E  284/STF.  ART.  1.021,  §  4º,  CPC/2015.  MULTA  NÃO  AUTOMÁTICA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Nos  termos  da  jurisprudência  do  Superior  Tribunal  de  Justiça,  as  condições  da  ação,  aí  incluída  a  legitimidade,  devem  ser  aferidas  com  base  na  teoria  da  asserção,  isto  é,  à  luz  das  afirmações  deduzidas  na  petição  inicial.  Súmula  nº  83/STJ.
+3.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282  do  Supremo  Tribunal  Federal.
+4.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+5.  Na  hipótese,  apesar  de  apontar  o  malferimento  à  legislação  federal,  o  apelo  extremo  foi  incapaz  de  evidenciar  as  ofensas  aos  dispositivos  legais  invocados.  Nesse  contexto,  a  fundamentação  recursal  é  absolutamente  deficiente,  o  que  atrai  a  incidência  dos  óbices  contidos  nas  Súmulas  nºs  283  e  284/STF.
+6.  A  Segunda  Seção  decidiu  que  a  aplicação  da  multa  prevista  no  art.  1.021,  §  4º,  do  CPC/2015  não  é  automática,  pois  não  se  trata  de  mera  decorrência  lógica  da  rejeição  do  agravo  interno.  Precedente.
+7.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.818.651/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  14/2/2022,  DJe  de  22/2/2022  -  grifou-se).
+"AGRAVO  INTERNO.  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  AÇÃO  RENOVATÓRIA  DE  ALUGUEL.  OMISSÃO.  AUSÊNCIA.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  211/STJ.  DEFICIÊNCIA  DE  FUNDAMENTAÇÃO.  SÚMULA  284/STF.  HONORÁRIOS  ADVOCATÍCIOS.  ART.  85,  §  2º,  DO  CPC.  PROVEITO  ECONÔMICO.  PARCIAL  PROVIMENTO.
+1.  O  Tribunal  de  origem  dirimiu  fundamentadamente  a  controvérsia,  sem  incorrer  em  omissão,  obscuridade,  contradição  ou  erro  material.
+2.  A  ausência  de  prequestionamento  impede  o  conhecimento  da  questão  pelo  Superior  Tribunal  de  Justiça.  Incidência  da  Súmula  n.  211  do  STJ.
+3.  É  deficiente  a  argumentação  do  recurso  especial  que  se  sustenta  em  dispositivo  de  lei  que  não  contém  comando  normativo  capaz  de  infirmar  os  fundamentos  do  acórdão  recorrido.  Incidência  da  Súmula  n.  284  do  STF.
+4.  A  Corte  Especial,  no  julgamento  do  Tema  Repetitivo  1076  (relator  Ministro  Og  Fernandes,  DJe  de  31/5/2022),  firmou  entendimento  no  sentido  de  que  "apenas  se  admite  arbitramento  de  honorários  por  equidade  quando,  havendo  ou  não  condenação:  (a)  o  proveito  econômico  obtido  pelo  vencedor  for  inestimável  ou  irrisório;  ou  (b)  o  valor  da  causa  for  muito  baixo",  hipóteses  que  não  se  configuram  na  espécie.
+5.  A  verba  honorária  referente  a  ação  renovatória  de  aluguel  julgada  parcialmente  procedente  deve  incidir  sobre  a  diferença  entre  o  valor  do  aluguel  na  data  da  citação  e  o  novo  valor  fixado  na  sentença,  quantia  a  ser  multiplicada  pelo  período  de  vigência  da  renovação  da  locação,  pois  esse  montante  reflete  objetivamente  o  proveito  econômico  obtido  pela  parte.
+6.  Agravo  interno  parcialmente  provido"  (AgInt  no  AREsp  2.103.614/RJ,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  12/12/2022,  DJe  de  16/12/2022  -  grifou-se).
+  Ademais,  o  tribunal  de  origem  consignou  que  a  parte  recorrida  pleiteou  expressamente  a  extinção  do  feito  e  que  a  recorrente  concordou  com  a  reconvenção,  tendo  sido  apreciados  os  pedidos  principais  e  reconvencionais.
+É  o  que  se  colhe  nos  se  guintes  trechos  do  acórdão  recorrido:
+"(..)
+Alegou  a  Apelante  que  a  demanda  reconvencional  não  deveria  ter  sido  extinta,  pois  sendo  autônoma  em  relação  à  pretensão  principal  a  sua  extinção  não  teria  sido  objeto  de  requerimento  das  partes.
+Sucede  que,  como  se  pode  observar  no  index  1620,  a  autora,  ora  Apelada,  pugnou  nos  autos  pela  extinção  do  feito  como  um  todo,  sendo  certo  que  a  Apelante,  instada  a  se  manifestar,  concordou,  sem  qualquer  ressalva  quanto  à  reconvenção  (index  1652),  de  modo  que,  conclui-se  que  a  extinção  do  feito  contemplou  tanto  os  pedidos  principais  como  os  reconvencionais.
+Fato  é  que  somente  com  a  superveniência  de  sentença,  a  qual  lhe  atribuiu  a  integralidade  dos  ônus  de  sucumbência,  é  que  a  Apelante  manifestou  a  sua  irresignação,  postura  essa  que  se  mostra  contraditória.
+(..)"  (e-STJ  fl.  1.749)
+Com  efeito,  rever  tal  entendimento,  de  que  a  recorrida  pugnou  pela  extinção  do  feito  e  que  a  recorrente  concordou  com  a  reconvenção,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  devido  à  incidência  da  Súmula  nº  7/STJ.
+Nesse  contexto,  os  argumentos  expostos  pela  agravante  são  insuficientes  para  alterar  os  fundamentos  da  decisão  agravada,  a  qual  permanece  incólume  em  todos  os  seus  termos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
