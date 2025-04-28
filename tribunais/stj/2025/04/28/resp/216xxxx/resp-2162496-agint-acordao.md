@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. POSSIBILIDADE DE PROSSEGUIMENTO DA AÇÃO EXECUTIVA EM DESFAVOR DE EMPRESA EM RECUPERAÇÃO JUDICIAL. ATOS DE CONSTRIÇÃO. VIABILIDADE AFERIDA PELO JUÍZO DA RECUPERAÇÃO. PROVIMENTO NEGADO.
+1. Conforme orientação consolidada nesta Corte Superior, a partir da edição da Lei 14.112/2020, que acrescentou o § 7º-B ao art. 6º da Lei de Recuperação de Empresas e Falência (Lei 11.101/2005), deferido o processamento da recuperação judicial, permanece a competência do juízo de execução fiscal no qual o processo executivo deve prosseguir, cabendo ao juízo da recuperação verificar a viabilidade da constrição efetuada em execução fiscal e determinar a substituição dos atos de constrição que recaiam sobre bens essenciais à manutenção da atividade empresarial até o encerramento da recuperação, valendo-se, para tanto, da cooperação jurisdicional.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por EXPRESSO INTEGRACAO DO VALE LTDA. EM RECUPERACAO JUDICIAL EM RECUPERACAO JUDICIAL da decisão de minha relatoria de fls. 512/517.
+A parte recorrente alega ser da competência do juízo universal o controle dos atos constritivos, inclusive dos praticados no âmbito da execução fiscal.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa não apresentou impugnação (certidão de fl. 544).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. POSSIBILIDADE DE PROSSEGUIMENTO DA AÇÃO EXECUTIVA EM DESFAVOR DE EMPRESA EM RECUPERAÇÃO JUDICIAL. ATOS DE CONSTRIÇÃO. VIABILIDADE AFERIDA PELO JUÍZO DA RECUPERAÇÃO. PROVIMENTO NEGADO.
+1. Conforme orientação consolidada nesta Corte Superior, a partir da edição da Lei 14.112/2020, que acrescentou o § 7º-B ao art. 6º da Lei de Recuperação de Empresas e Falência (Lei 11.101/2005), deferido o processamento da recuperação judicial, permanece a competência do juízo de execução fiscal no qual o processo executivo deve prosseguir, cabendo ao juízo da recuperação verificar a viabilidade da constrição efetuada em execução fiscal e determinar a substituição dos atos de constrição que recaiam sobre bens essenciais à manutenção da atividade empresarial até o encerramento da recuperação, valendo-se, para tanto, da cooperação jurisdicional.
+2. Agravo interno a que se nega provimento.
+VOTO
+A despeito das alegações da parte agravante, razão não lhe assiste, porque os argumentos trazidos no recurso não foram suficientes para infirmar a decisão agravada.
+Como exposto na decisão agravada, a conclusão do Tribunal de origem divergiu da orientação do Superior Tribunal de Justiça (STJ) relativamente ao prosseguimento da execução fiscal, com atos constritivos, quando se tratar de empresa submetida ao plano de recuperação judicial.
+De acordo com o § 7º-B ao art. 6º da Lei de Recuperação de Empresas e Falência (Lei 11.101/2005), acrescentado pela Lei 14.112/2020, deferido o processamento da recuperação judicial, permanece a competência do juízo de execução fiscal no qual o processo executivo deve prosseguir, cabendo ao juízo da recuperação verificar a viabilidade da constrição efetuada em execução fiscal e determinar a substituição dos atos de constrição que recaiam sobre bens essenciais à manutenção da atividade empresarial até o encerramento da recuperação, valendo-se, para tanto, da cooperação jurisdicional.
+É o que se extrai da redação dos seguintes dispositivos legais:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica:
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei;
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência;
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência.
+ ..
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil) , observado o disposto no art. 805 do referido Código.
+Logo, com a entrada em vigor da Lei 14.112/2020, houve a modificação do procedimento adotado em relação às empresas em recuperação judicial, em que se pontua expressamente a possibilidade de continuidade do processo executivo e de constrição de bens.
+Destaco que as alterações inseridas pela Lei 14.112/2020 são aplicáveis de imediato aos processos pendentes, conforme previsto expressamente em seu art. 5º, observado o disposto no art. 14 do Código de Processo Civil (CPC).
+Nesse cenário, cabe ao juízo da execução fiscal dar prosseguimento ao processo executivo, inclusive com atos de constrição, e, após, comunicar o ato ao juízo responsável pela recuperação judicial para que, valendo-se da cooperação jurisdicional trazida a lume pelas alterações empreendidas na Lei 14.112/2020, manifeste-se sobre a manutenção ou a substituição dos bens penhorados pelo juízo da execução a fim de preservar a viabilidade do plano de recuperação judicial da empresa.
+Em casos análogos, assim decidiu esta Corte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. SOCIEDADE EMPRESÁRIA EXECUTADA EM RECUPERAÇÃO JUDICIAL. ATO DE PENHORA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. MANUTENÇÃO OU SUBSTITUIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. PACÍFICA ORIENTAÇÃO JURISPRUDENCIAL DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do § 7º-B do art. 6º da Lei n. 11.101/2005, incluído pela Lei n. 14.112/2020, e à luz de pacífica orientação jurisprudencial deste Tribunal Superior, no processo executivo fiscal, a ordem de penhora e a determinação de eventuais atos de constrição são da competência do juízo da execução fiscal; contudo, deferida a recuperação judicial à sociedade empresária executada, compete ao juízo especializado da recuperação a análise e a decisão a respeito da necessidade de manutenção ou substituição dos atos de constrição determinados no processo de execução e que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, mediante a cooperação jurisdicional, na forma do art. 69 do CPC/2015. Precedentes.
+4. No caso dos autos, o acórdão está em conformidade com a orientação jurisprudencial deste Tribunal Superior, razão pela qual não o recurso especial não foi conhecido.
+5. Agravo interno não provido. (AgInt no REsp n. 2.043.004/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489, 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS NA EXECUÇÃO FISCAL. POSSIBILIDADE. EXAME DA NECESSIDADE DE EVENTUAL SUBSTITUIÇÃO DA MEDIDA CONSTRITIVA. COMPETÊNCIA DO JUIZO DA RECUPERAÇÃO JUDICIAL.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489, 1.022 do CPC/15.
+2. Cabe ao juízo da Execução Fiscal determinar os atos constritivos, porém, o controle destes atos é incumbência exclusiva do juízo da recuperação, o qual poderá substituí-los, mantê-los ou, até mesmo, torná-los sem efeito, tudo buscando o soerguimento da empresa. Precedentes.
+3. Agravo interno não provido. (AgInt no REsp n. 2.042.995/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2023, DJe de 17/8/2023.)
+Sendo assim, não há como prevalecer o entendimento da instância ordinária que determinou o cancelamento do bloqueio de ativos via o sistema BacenJud, como faz crer a parte ora agravante.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
