@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. NEGATIVA DE PRESTAÇÃO JURISIDICIONAL. AUSÊNCIA.
+1. Não há negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Da leitura do acórdão proferido no julgamento dos embargos de declaração, constata-se que o Tribunal de origem foi expresso ao ratificar o seu entendimento pelo afastamento da responsabilidade do município no presente caso, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado pela FAZENDA NACIONAL, que desafia decisão de minha lavra, proferida às e-STJ fls. 766/769, em que conheci do agravo para negar provimento ao recurso especial, ante a não configuração de nulidade do acórdão recorrido por negativa de prestação jurisdicional.
+A agravante, às e-STJ fls. 773/776, defende que o acórdão proferido pelo Tribunal de origem foi omisso, especialmente no que se refere à responsabilidade do Município de Adamantina, que instituiu, mantém e controla a entidade devedora por meio de recursos públicos, conforme previsto no art. 134, III, do CTN.
+Aduz que a jurisprudência permite a execução fiscal contra o responsável tributário cujo nome não consta na certidão de dívida ativa, desde que seja regularmente citado e integre a relação processual, suportando os atos típicos da execução.
+Sustenta, ainda, que a Clínica de Repouso Nosso Lar enquadra-se no terceiro setor, realiza atividades típicas de serviço público de natureza essencial, e que o Município de Adamantina sempre deteve o controle dos serviços prestados pela Clínica por intermédio de Convênio Municipal, o que implica responsabilidade fiscal do Município pelos débitos fiscais da entidade devedora.
+Sem impugnação (e-STJ fl. 783).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. NEGATIVA DE PRESTAÇÃO JURISIDICIONAL. AUSÊNCIA.
+1. Não há negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Da leitura do acórdão proferido no julgamento dos embargos de declaração, constata-se que o Tribunal de origem foi expresso ao ratificar o seu entendimento pelo afastamento da responsabilidade do município no presente caso, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Consoante assentado na decisão agravada, o recurso especial origina-se de agravo de instrumento manejado contra decisão, nos autos da execução fiscal, em que foi indeferida a inclusão do Município de Adamantina no polo passivo da demanda.
+O Tribunal Regional negou provimento ao recurso, nos seguintes termos (e-STJ fls. 582/586):
+Versa o recurso interposto matéria de responsabilização do município de Adamantina para figurar no polo passivo da execução fiscal.
+O juiz de primeiro grau decidiu a questão sob os seguintes fundamentos:
+"Vistos. Pelo que se entende, pretende a Exequente (fls. 250 e seguintes), dentro da ação executiva, buscar declaração (condenação) judicial de responsabilidade do Município para sua inclusão no polo passivo. Por outras palavras, quer instaurar procedimento de conhecimento, que permita a responsabilização do Município pelo débito da entidade particular, dentre outras razões pela sua desídia na fiscalização, para assim o incluir no polo passivo da execução. Logo, evidente a ausência de previsão legal a tanto. Ainda que tal possibilidade de responsabilização fosse possível, adotando-se a interpretação de dispositivos genéricos invocados, esta deveria ser alvo de ação própria, de conhecimento e não como quer a credora com a alteração do polo passivo da ação executiva. A retórica desenvolvida no pedido é estéril para vencer o óbice jurídico procedimental. Isto posto, INDEFIRO o pedido. Intime-se."
+De rigor a manutenção da decisão agravada.
+Com efeito, carece de fundamento legal a responsabilização do Município de Adamantina pelos débitos em cobro, na medida em que não restou demonstrado nos autos que o Município tenha concorrido para a ocorrência dos fatos geradores dos tributos em cobro ou que se enquadre nas situações previstas nos artigos 134 e 135 do CTN.
+Anoto ainda que a existência de convênio entre o Município e a executada, bem como o repasse de recursos públicos para a manutenção das atividades prestadas não torna o Município responsável pela administração e direção da devedora, que ostenta personalidade jurídica e quadro de administradores próprios, não se confundindo com o ente público. Nesse sentindo vem decidindo o a Corte em casos envolvendo as mesmas partes:  ..
+Ante o exposto, nego provimento ao recurso. É o voto.
+Conforme assentado na decisão agravada, não há negativa de prestação jurisdicional quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+Da leitura do acórdão proferido no julgamento dos embargos de declaração, constata-se que o Tribunal de origem foi expresso ao ratificar o seu entendimento pelo afastamento da responsabilidade do município no presente caso. Veja-se (e-STJ fls. 559/660):
+O acórdão embargado não contém quaisquer irregularidades que justificassem a declaração do julgado.
+O recurso foi julgado na linha de fundamentos que, segundo o entendimento exposto, presidem as questões, que foram motivadamente examinadas e não há base jurídica para a declaração pretendida.
+Tudo quanto efetivamente posto para discussão foi devidamente analisado, o acórdão pronunciando-se motivadamente no sentido de que "Versa o recurso interposto matéria de responsabilização do município de Adamantina para figurar no polo passivo da execução fiscal. O juiz de primeiro grau decidiu a questão sob os (..) De rigor a manutenção da decisão agravada. Com efeito, seguintes fundamentos: carece de fundamento legal a responsabilização do Município de Adamantina pelos débitos em cobro, na medida em que não restou demonstrado nos autos que o Município tenha concorrido para a ocorrência dos fatos geradores dos tributos em cobro ou que se enquadre nas situações previstas nos artigos 134 e 135 do CTN. Anoto ainda que a existência de convênio entre o Município e a executada, bem como o repasse de recursos públicos para a manutenção das atividades prestadas não torna o Município responsável pela administração e direção da devedora, que ostenta personalidade jurídica e quadro de administradores próprios, não se confundindo com o ente público. Nesse sentindo vem decidindo o a Corte em casos envolvendo as mesmas partes: (..)", com suficiente e inequívoca fundamentação das conclusões alcançadas.
+Eram questões sujeitas a deliberação e foram devidamente tratadas, sendo, portanto, matéria de julgamento estranha ao objeto dos embargos de declaração que a lei instituiu para situações de efetiva obscuridade, contradição ou omissão, no entanto utilizando-se o recurso para questionar o valor das conclusões do acórdão.
+Ressalta-se que o acolhimento da preliminar de negativa de prestação jurisdicional, a bem da verdade, ilustra tentativa de revolvimento da moldura fática dos autos, a fim de afastar o redirecionamento da execução, procedimento este inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Nesse mesmo sentido, vide AgInt no AREsp n. 2.141.001/RJ, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/12/2022; AgInt no REsp n. 2.005.866/RS, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.
+Nessa linha de raciocínio, pontua-se que o apelo nobre destina-se ao estrito controle de legalidade dos julgados por ele desafiados, não se caracterizando como novo recurso ordinário apto a consertar eventual erro de julgamento decorrente de má percepção do suporte fático considerado pelo Tribunal local.
+Por tudo que se apresenta, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Irrepreensível, portanto, a decisão agravada.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015, por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Assim sendo, NEGO PROVIMENTO ao agravo interno.
+É como voto.
