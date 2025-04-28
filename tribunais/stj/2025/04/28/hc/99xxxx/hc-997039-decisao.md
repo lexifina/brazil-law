@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCONI DE QUEIROZ ALVES em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que indeferiu o pedido de liminar formulado no HC n. 0714562-30.2025.8.07.0000.
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime previsto no artigo 157, § 2º, inciso II, c/c o § 2º-B, do Código Penal.
+O impetrante sustenta que a prisão em flagrante, ocorrida em 08 de abril de 2025, perdura até a presente data sem que tenha sido realizada audiência de custódia, em manifesta violação ao artigo 310 do Código de Processo Penal e à Resolução n. 213/2015 do CNJ.
+Afirma que, mesmo após declínio de competência da Vara de Valparaíso de Goiás/GO para a 1ª Vara Criminal de Taguatinga/DF, o paciente continua custodiado sem controle judicial efetivo, o que configura flagrante ilegalidade e afronta aos princípios constitucionais do devido processo legal, da dignidade da pessoa humana e da legalidade.
+Alega que a autoridade coatora indeferiu o pedido liminar formulado no habeas corpus anterior, ao argumento de que a ausência de audiência de custódia, por si só, não implicaria nulidade da prisão, o que, segundo a impetração, ignora o caráter imprescindível desse procedimento como garantia fundamental.
+Aponta que a omissão do Estado em realizar a audiência de custódia por mais de dez dias, sem conversão da prisão em preventiva ou qualquer decisão judicial, torna a custódia ilegal, sendo incabível aguardar eventual saneamento posterior do vício.
+Aduz ainda que a jurisprudência do Superior Tribunal de Justiça reconhece a necessidade do relaxamento da prisão em casos de não realização da audiência de custódia dentro do prazo legal de 24 horas, sobretudo quando não há decisão de conversão da prisão em preventiva.
+Requer:
+a) O conhecimento e o deferimento da liminar da presente ordem de habeas corpus, para o fim de determinar o imediato relaxamento da prisão em flagrante que pesa sobre o paciente MARCONI DE QUEIROZ ALVES, em razão da ausência de audiência de custódia e da falta de controle judicial efetivo da legalidade da sua detenção.
+b) Subsidiariamente, caso não entenda Vossa Excelência pela imediata concessão do relaxamento da prisão, que seja deferida a liberdade provisória ao paciente, com ou sem a imposição de medidas cautelares diversas da prisão previstas no artigo 319 do Código de Processo Penal, em respeito ao princípio da menor restrição possível à liberdade, em atenção ao atual entendimento do Superior Tribunal de Justiça sobre a excepcionalidade das prisões preventivas.
+c) Requer-se, ainda, a comunicação do presente caso ao Conselho Nacional de Justiça (CNJ), para que apure eventual falha sistêmica na garantia da audiência de custódia, em observância ao disposto no artigo 7º da Resolução nº 213/2015 (fls. 16/17).
+É o relatório.
+DECIDO.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, ainda, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto as decisões de origem não se revelam teratológicas.
+Isso porque se depreende da fundamentação adotada na decisão que indeferiu a liminar que:
+Em consulta aos autos de origem nº 0708954-30.2025.8.07.0007, verifica-se que o impetrante solicitou habilitação para participar da audiência de custódia designada para o dia 11/04/2025. Embora o impetrante tenha informado que a audiência ocorreria nessa data, não consta dos autos ata de audiência ou certidão que indique sua realização ou eventual adiamento.
+Cumpre destacar que, segundo entendimento consolidado no Superior Tribunal de Justiça:
+"A ausência de audiência de custódia não constitui irregularidade suficiente para ensejar a nulidade da prisão cautelar, se observados os direitos e garantias previstos na Constituição Federal e no Código de Processo Penal. Ademais, convertida a prisão em flagrante em preventiva, revela-se superada a quaestio." (HC n. 508.163/GO, Rel. Ministro Felix Fischer, 5ª Turma, D Je 18/6/2019).
+Dessa forma, revela-se inviável a concessão da liminar requerida, por não estar suficientemente demonstrada a ausência da audiência de custódia na data informada, além do fato de que tal ausência, por si só, não implica nulidade da prisão cautelar. Portanto, em análise sumária, não há demonstração de vício processual capaz de justificar a imediata soltura do paciente. Mostra-se, assim, recomendável a apreciação colegiada do pedido, após a prestação de informações pela Autoridade Coatora e manifestação do Ministério Público. (fl. 148)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+ EMENTA
