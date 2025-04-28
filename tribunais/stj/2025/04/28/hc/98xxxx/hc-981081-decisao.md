@@ -1,0 +1,13 @@
+DECISÃO
+LEONARDO KENJI WAKABAYASHI alega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1501541-44.2021.8.26.0297.
+Neste writ, a defesa alega que o paciente faz jus à compensação integral da atenuante da confissão com a agravante da reincidência.
+O Ministério Público Federal manifestou-se pelo seu não conhecimento do habeas corpus.
+Decido.
+Extrai-se dos autos que o paciente foi condenado à pena de 9 anos e 20 dias de reclusão de reclusão, em regime fechado, pela prática do delito previsto no art. 33, caput, do Código Penal.
+Verifico que contra a condenação objeto deste writ, também houve a interposição pela defesa do Resp n. 2.056.435/SP, o qual foi apresentado contra o mesmo acórdão aqui apontado como ato coator. Quando do seu julgamento, foi dado parcial provimento ao recurso especial a fim de afastar a agravante da calamidade pública, redimensionada a reprimenda total do réu para 9 anos e 20 dias de reclusão e pagamento de 1.087 dias-multa.
+Na ocasião, conforme bem observado pelo Ministério Público Federal, "embora tenha consignado que "no que tange à compensação da reincidência e da confissão espontânea, verifico que a defesa não indicou o dispositivo de lei federal que haveria sido violado pelo acórdão atacado, o que constitui deficiência de fundamentação e inviabiliza o conhecimento do recurso especial nesse ponto, a teor da Súmula n. 284 do STF", findou por reconhecer a compensação parcial entre a confissão e a multirreincidência específica, estando já encerrada a prestação jurisdicional no âmbito desse STJ" (fl. 66).
+Além disso, faço saber que, quanto à compensação, em recente julgamento para a revisão do tema repetitivo n. 585 (REsp n. 1.931.145/SP, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 24/6/2022), a 3ª Seção do STJ fixou a tese: "É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade" (destaquei).
+Assim, em atenção ao sistema de precedentes qualificados e à orientação desta Corte Superior, não identifico o óbice à compensação proporcional, diante da existência, no presente caso, de duas condenações caracterizadoras da reincidência (fl. 21).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
