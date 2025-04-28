@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 500-511) interposto contra decisão desta relatoria, que negou provimento ao recurso (fls. 493-496).
+Em suas razões, a parte alega violação aos arts. 489 e 1.022 do CPC, afirmando que não houve prestação jurisdicional e não incide a Súmula n. 7 do STJ .
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (fl. 516).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+I. Caso em exame
+1. Agravo interno interposto contra decisão monocrática que negou provimento a recurso.
+II. Razões de decidir
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+III. Dispositivo
+4. Agravo interno desprovido.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (fls. 493-496):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) inexistência de violação dos arts. 489 e 1.022, I e II, do CPC/2015 e (b) aplicação da Súmula n. 7 do STJ (e-STJ fls. 444/446).
+O acórdão recorrido está assim ementado (e-STJ fl. 356):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. 1- Cumpre negar provimento ao agravo que não apresenta qualquer fato novo, limitando-se a atacar os fundamentos da decisão agravada, com os mesmos argumentos deduzidos quando da interposição do recurso primeiro. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 384/390).
+Nas razões do recurso especial (e-STJ fls. 395/417), interposto com base no art. 105, III, "a", da CF, a parte recorrente apontou violação dos seguintes dispositivos:
+(i) arts. 489, § 1º, IV, 932, III, e 1.022, II, do CPC/2015, alegando que, "em razão do não conhecimento do recurso de Apelação, mesmo havendo impugnação específica dos fundamentos da decisão recorrido  ..  e  não seguir a jurisprudência do STJ invocado pela parte, em especial, da necessidade da indicação dos trechos que não foram impugnados pela parte e que a reprodução dos fundamentos da defesa não viola o princípio da dialeticidade recursal" (e-STJ fls. 412/413),
+(ii) arts. 188 e 277 do CPC, argumentando que "o Recurso de Apelação, apesar de constar a reprodução de alguns argumentos da Contestação, impugnou especificamente os fundamentos da sentença, demonstrando que não foram os Recorrentes quem realizaram o contrato com o Recorrido, mas sim, terceiro em posse de procuração irrevogável e irretratável" (e-STJ fl. 413).
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 427/439).
+No agravo (e-STJ fls. 450/464), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 469/478).
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da agravante. Assim, não incorreu em omissão, contradição ou obscuridade. Desse modo, quanto à alegada afronta aos arts. 489 e 1.022 do CPC/2015, não assiste razão à parte recorrente
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+O TJGO, ao analisar as provas constantes dos autos, entendeu que "a inexistência ou a insuficiência de fatos novos, com a reiteração das questões anteriormente apreciadas, inviabiliza a alteração de posicionamento" (e-STJ fl. 361). Confira-se o seguinte excerto (e-STJ fls. 359/361):
+A decisão recorrida, em exame dos elementos informativos agregados aos autos, com fundamento na legislação aplicável à hipótese (arts. 932, III, 1.010 e 1.013, CPC), enfatizou que os agravantes não abordaram adequadamente os fundamentos da sentença, deixando de demonstrar as razões pelas quais as premissas nelas expostas estão em desacordo com o direito aplicável. Deste modo, na decisão monocrática agravada foram expostas, com clareza, as razões para o não conhecimento do apelo, como se extrai do seguinte excerto.
+Veja:
+" ..  Registre-se que a norma inscrita no artigo 932, inciso III, do Código de Processo Civil, autoriza ao relator a "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Verifica-se que o recurso em exame não merece ser conhecido, em virtude da ausência de pressuposto intrínseco de admissibilidade, qual seja, a regularidade
+formal. Isto porque, as razões recursais estão dissociadas do que foi decidido em 1º Grau, já que não foram enfrentados os fundamentos da decisão recorrida, especialmente no que tange à apreciação das provas relativas à validade do negócio jurídico realizado entre as partes. Não obstante, ao invés de atacar os fundamentos do decisório impugnado, os apelantes se limitaram a repetir, ipsis litteris, as alegações feitas na peça contestatória (evento 42), sem acrescentar qualquer argumento quanto à sua sustentação.
+Com isso, resta evidente que os recorrentes não enfrentaram os fundamentos utilizados no comando sentencial, sequer os tangenciando, deixando de demonstrar as razões pelas quais as premissas judiciais expostas estão em desacordo com o direito aplicável.
+Nesse linear, resta inegável que as razões recursais encontram-se dissociadas do que foi decidido, pois deveriam ter sido enfrentados os fundamentos sentenciais, em respeito ao princípio da dialeticidade e simetria, não sendo permitido a parte limitar-se a repetições de teses anteriormente lançadas, e que foram afastadas pelo julgador, ou inovar com alegações que não foram oportunamente apresentadas.
+Necessário, pois, o estabelecimento do diálogo entre os fundamentos sentenciais e recursais. (..)
+O conhecimento da apelação está condicionado ao preenchimento de seus pressupostos de admissibilidade, ou seja: é preciso que seja deduzida por petição dirigida ao juiz da causa, acompanhada das razões do inconformismo (fundamentação), bem como do pedido de nova decisão. Na ausência de um deles, não pode o Tribunal conhecer do recurso. (..) Conclui-se, portanto, que o Código de Processo Civil impõe às partes a observância da forma, não sendo suficiente mera menção a qualquer peça anterior ou matéria não discutida na sentença, devendo a apelante atacar os fundamentos da sentença que deseja rebater, de modo específico e direto, sob pena de desvirtuar a competência recursal originária do Tribunal.
+Ademais, o pedido de nova decisão serve para delimitar o âmbito de devolutividade do recurso de apelação, haja vista que só é devolvido ao Tribunal a matéria efetivamente impugnada (tantum devolutum quantum appellatum). Isso significa que é preciso que as razões guardem pertinência com os termos da sentença.
+Destarte, é juridicamente inviável o conhecimento da apelação em que as razões apresentadas na peça recursal estejam completamente dissociadas da matéria decidida na sentença. (..) Na confluência do exposto, com fulcro no artigo 932, inciso III, do Código de Processo Civil, deixo de conhecer do presente recurso, por ausência de regularidade formal na sua interposição (razões dissociadas) ".
+A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Conforme consta da decisão agravada, a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo. Desse modo, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+A Corte estadual entendeu que "a decisão recorrida, em exame dos elementos informativos agregados aos autos, com fundamento na legislação aplicável à hipótese (arts. 932, III, 1.010 e 1.013, CPC), enfatizou que os agravantes não abordaram adequadamente os fundamentos da sentença, deixando de demonstrar as razões pelas quais as premissas nelas expostas estão em desacordo com o direito aplicável  ..  a inexistência ou a insuficiência de fatos novos, com a reiteração das questões anteriormente apreciadas, inviabiliza a alteração de posicionamento" (fls. 359-361).
+Para que se acolha a pretensão, seria necessário o revolvimento do contexto fático-probatório dos autos, o que é inviável no âmbito do especial. Inafastável a Súmula n. 7/STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
