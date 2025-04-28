@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, sem pedido de liminar, impetrado em favor de MICHEL DAMIAO GOMES, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (agravo em execução n. 0010083-60.2024.8.26.0026).
+Consta dos autos que o paciente, em execução definitiva de penas, teve o pedido de detração do período de recolhimento domiciliar noturno negado na origem.
+Daí o presente writ, no qual a defesa alega afronta ao Tema nº 1.155 do STJ, defendendo a necessidade de reconhecimento da detração do tempo em que a paciente esteve sob medidas cautelares alternativas à prisão preventiva (no caso, o recolhimento domiciliar noturno e o de finais de semana).
+Requer, "seja concedida a ordem para cassar o acórdão e decisão de piso para determinar que seja outra proferida com conversão das horas em recolhimento domiciliar em dias para detração junto à pena privativa de liberdade" (fl. 7).
+Informações, às fls. 31-33 e 39-51.
+O MPF oficiou pelo não conhecimento do habeas corpus, às fls. 55-59.
+É o breve relatório. DECIDO.
+A Terceira Seção, no âmbito do HC n. 535.063/SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC n. 180.365/PB, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Nesse sentido:
+ ..  A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.  ..  (AgRg no HC n. 908.122/MT, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 27/8/2024, DJe de 2/9/2024.)
+ ..  O habeas corpus não é conhecido quando impetrado em substituição a recurso próprio, salvo em caso de flagrante ilegalidade, conforme jurisprudência pacífica do STJ e do STF.  ..  (AgRg no HC n. 935.569/SP, de minha relatoria, Quinta Turma, julgado em 3/9/2024, DJe de 10/9/2024.)
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+A controvérsia consiste em que seja reconhecida a detração da pena imposta à paciente pelo tempo em que ficou em recolhimento domiciliar noturno/recolhimento de finais de semana (medida cautelar diversa da prisão preventiva).
+Para ilustrar, o acórdão (fls. 11-14 ):
+ ..  Depreende-se dos autos que, durante o processo de conhecimento ao agravante foi reconhecido o direito à liberdade provisória, mediante o cumprimento de medidas cautelares previstas no artigo 319, II, IV e V, do CPP, como: "a) proibição de frequentar bares, boates e lanchonetes; b) proibição de se ausentar da Comarca por mais de oito dias; e c) recolhimento domiciliar entre as 21:00 e as 6:00 horas.".
+Ao final do processo, o reeducando foi condenado a pena de prisão, ou seja, a 6 anos e 3 meses de reclusão, e pagamento de 625 dias-multa, em regime inicial fechado (art. 33, da Lei 11.343/06)
+Em sede de execução, a defesa pleiteou a detração com base no tema 1155 do STJ, para que fosse considerado o período de recolhimento noturno obrigatório e nos dias de folga.
+Inicialmente, correto o indeferimento do pedido de detração.
+No caso dos autos, verifica-se ausência de equivalência entre a medida cautelar e o regime inicial fechado fixado na sentença condenatória.
+E, ainda que hipoteticamente fossem impostas algumas restrições, em hipótese alguma, constituiria modalidade de prisão, pelo contrário.
+Portanto, inviável o desconto desse período como tempo de pena cumprida, pois as medidas cautelares menos gravosas que o encarceramento, previstas no artigo 319, do Código de Processo Penal, não devem ser confundidas com a prisão provisória, nos termos exigidos pelo artigo 42, do Código Penal:  ..  (grifei)
+Com efeito, a detração é o instituto jurídico por meio do qual computa-se, na pena privativa de liberdade e/ou na medida de segurança, o período previamente cumprido pelo condenado em caráter de prisão provisória, administrativa ou internação para tratamento psiquiátrico.
+Nesse sentido, a detração permite descontar da pena e/ou medida de segurança aplicada ao réu em sentença o período de cárcere que eventualmente cumprira em caráter precário, antes da condenação.
+Esse instituto busca, primordialmente, a limitação ao poder punitivo do Estado e, concomitantemente, a aplicação de uma pena mais justa, pois vedado o bis in idem no cumprimento das penas.
+A previsão legal revela-se no art. 42 do Código Penal, in verbis:
+Art. 42. Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior.
+Observa-se que, na espécie, a prisão domiciliar imposta ao paciente foi aquela prevista no art. 319, V, do Código de Processo Penal:
+Art. 319. São medidas cautelares diversas da prisão:
+ ..
+V - recolhimento domiciliar no período noturno e nos dias de folga quando o investigado ou acusado tenha residência e trabalho fixos.
+Contudo, a despeito de existirem julgados mais antigos neste Superior Tribunal de Justiça contra a tese defensiva, verifico que tal entendimento encontra-se, hoje, superado.
+No julgamento realizado pela Terceira Seção, em 14/4/2021, nos autos do HC n. 455.097/PR, de Relatoria da Minª. Laurita Vaz, após longo debate acerca do presente tema, concluiu-se pela possibilidade da detração do tempo em que o apenado esteve sob recolhimento domiciliar noturno, contudo, desde que se converta as horas de restrição da liberdade em dias, de forma a se encontrar o lapso para o efetivo desconto.
+Vejamos a ementa do julgado:
+ ..  A Terceira Seção do Superior Tribunal de Justiça deliberou que a soma das horas de recolhimento domiciliar a que o Paciente foi submetido devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada (HC n. 455.097/PR, Terceira Seção, Relª. Minª. Laurita Vaz, DJe de 7/6/2021).
+No mesmo sentido, o decidido no Tema n. 1155, STJ (recurso repetitivo):
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. DIREITO PENAL E PROCESSO PENAL. EXECUÇÃO DA PENA. DETRAÇÃO. MEDIDA CAUTELAR. RECOLHIMENTO NOTURNO E NOS DIAS DE FOLGA. POSSIBILIDADE. COMPROMETIMENTO DO STATUS LIBERTATIS DO ACUSADO. INTERPRETAÇÃO DADA AO ART. 42 DO CÓDIGO PENAL - CP. EXTENSIVA E BONAM PARTEM. PRINCÍPIO DA PROPORCIONALIDADE E NON BIS IN IDEM. IN DUBIO PRO REO. DIGNIDADE DA PESSOA HUMANA. DESNECESSIDADE DO MONITORAMENTO ELETRÔNICO ASSOCIADO. MEDIDA POUCO UTILIZADA NO PAÍS. PRECARIEDADE. ALTO CUSTO. DÚVIDAS QUANTO À EFETIVIDADE. PREVALECE NAS FASES DE EXECUÇÃO DA PENA. DUPLA RESTRIÇÃO AO APENADO. IMPOSSIBILIDADE. TRATAMENTO ISONÔMICO. EXCESSO DE EXECUÇÃO. CONTAGEM. HORAS CONVERTIDAS EM DIAS. REMANESCENDO PERÍODO MENOR QUE 24 HORAS, A FRAÇÃO SERÁ DESPREZADA. PROVIMENTO DO RECURSO ESPECIAL. FIXAÇÃO DAS TESES.
+ ..
+4. Delimitadas as teses jurídicas para os fins dos arts. 927, III, 1.039 e seguintes do CPC/2015:
+4.1. O período de recolhimento obrigatório noturno e nos dias de folga, por comprometer o status libertatis do acusado deve ser reconhecido como período a ser detraído da pena privativa de liberdade e da medida de segurança, em homenagem aos princípios da proporcionalidade e do non bis in idem.
+4.2. O monitoramento eletrônico associado, atribuição do Estado, não é condição indeclinável para a detração dos períodos de submissão a essas medidas cautelares, não se justificando distinção de tratamento ao investigado ao qual não é determinado e disponibilizado o aparelhamento.
+4.3. As horas de recolhimento domiciliar noturno e nos dias de folga devem ser convertidas em dias para contagem da detração da pena. Se no cômputo total remanescer período menor que vinte e quatro horas, essa fração de dia deverá ser desprezada.
+5. Recurso especial provido para que o período de recolhimento domiciliar noturno e nos dias de folga obrigatório da recorrente seja detraído da pena que lhe foi imposta, nos moldes delineados (REsp n. 1.977.135/SC, Terceira Seção, Rel. Min. Joel Ilan Paciornik, DJe de 28/11/2022, grifei).
+Desse modo, embora inexista uma previsão legal expressa quanto ao instituto da detração da pena em caso de recolhimento domiciliar noturno, entende-se que, por comprometer o status libertatis dos acusados em geral, deve ser reconhecido como período extraível de pena, em homenagem ao princípio da proporcionalidade e em apreço ao non bis in idem.
+Ante o exposto, não conheço do writ. Concedo a ordem de habeas corpus, de ofício, para determinar que o juízo das execuções considere, para fins de detração da pena, o período em que foi cumprida a medida cautelar diversa da prisão consistente no recolhimento domiciliar noturn o/finais de semana/dias de folga, convertendo as horas de restrição da liberdade em dias (Tema n. 1155, STJ), de forma a se encontrar o lapso para o efetivo desconto.
+Intime-se, com urgência, a origem para o cumprimento.
+Publique-se. Intimem-se.
+EMENTA
