@@ -1,0 +1,20 @@
+DECISÃO
+Em análise, agravo interposto por CIRÚRGICA ONIX LTDA contra decisão que inadmitiu recurso especial em virtude da alegação de ofensa a dispositivos da Constituição da República, que não servem de suporte à interposição de recurso especial, e da utilização de fundamento exclusivamente constitucional.
+Discorre a parte agravante acerca do mérito do recurso, destacando, dentre muitos outros trechos de seu recurso, a exposição fática da questão, a existência de ofensa a leis federais e de prequestionamento da matéria, a irretroatividade e a Lei Estadual 17.470/21, a ofensa aos arts. 4º, § 2º, II, da Lei Kandir pela LC 190/22; e ao art. 150 da Constituição Federal.
+Contraminuta apresentada.
+É o relatório.
+Passo a decidir.
+No caso dos autos, entendo que as razões recursais estão dissociadas dos fundamentos utilizados pelo julgado recorrido, uma vez que a parte recorrente não impugnou os fundamentos da decisão de inadmissibilidade, dedicando-se a discorrer acerca do mérito do recurso especial e das razões pelas quais entende deva ser reformado o acórdão proferido na Corte de origem.
+Desse modo, a parte não observou o princípio da dialeticidade e a necessária pertinência temática entre as razões de decidir e os fundamentos utilizados pelo recurso de agravo, atraindo a aplicação do óbice da Súmula 284/STF, por analogia.
+Mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DA CDA. EXECUÇÃO FISCAL. CONCEITO DE LEI FEDERAL. RAZÕES DISSOCIADAS DA DECISÃO OBJURGADA E A ELA IMPERTINENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A apreciação das razões contidas no acórdão recorrido implica análise de atos normativos de natureza infralegal - Resolução 414/2010 da ANEEL - que desbordam, contudo, do conceito de tratado ou lei federal, para fins do art. 105, III, "a", da Constituição Federal.
+2. Para efeito de admissibilidade do Recurso Especial, à luz da consolidada jurisprudência do STJ, o conceito de lei federal compreende os atos normativos (de caráter geral e abstrato), produzidos por órgãos da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos expedidos pelo Presidente da República. Logo, o apelo nobre não constitui, como regra, via adequada para julgamento de ofensa aos atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares, portarias, instruções normativas, atos declaratórios da SRF, provimentos da OAB, regimentos internos de Tribunais ou notas técnicas, quando analisados isoladamente, sem vinculação direta ou indireta a dispositivos legais federais.
+3. Não obstante as razões explicitadas, ao interpor o Agravo Interno a parte recorrente apresentou razões dissociadas da decisão objurgada e a ela impertinentes.
+4. Inobservância das diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, da Súmula 284 do STF.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.257.157/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2023, DJe de 19/5/2023).
+Ademais, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, sendo este, inclusive, o enunciado da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Isso posto, com fundamento no art. 34, XVIII, a, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso es pecial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o agravo em recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
