@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo interno não provido.
+RELATÓRIO
+Relatora: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão unipessoal que, conhecendo do agravo, não conheceu do recurso especial que interpusera.
+Ação: revisional de contrato bancário movida por TEREZA RODRIGUES DA ROSA, alegando, em suma, ter firmado com o Banco demandado contratos de empréstimo pessoal (030900008384, 030900087670 e 030900007421). Alegou que foram inseridos encargos excessivamente onerosos nos contratos e discorreu sobre as abusividades praticadas. Ao final, requereu a procedência dos pedidos para que sejam revisados os contratos em todo o seu período a fim de declarar nulas as cláusulas abusivas, aplicando juros remuneratórios à taxa média do Banco Central, juros moratórios em 1% ao mês e multa de 2%, afastar a cobrança de tarifa de cadastro e autorizar a repetição de indébito. Postulou ainda, a concessão da gratuidade judiciária. Juntou documentos e apresentou memória de cálculo do valor incontroverso.
+Sentença: julgou procedente o pedido, a fim de limitar a taxa de juros remuneratórios em 66,41% ao ano, 72,87% ao ano e 80,89% ao ano, respectivamente e autorizar eventual repetição de indébito na forma simples.
+Acórdão: deu parcial provimento à apelação pela agravante:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE CRÉDITO PESSOAL. I - Prescrição. A pretensão de revisão de cláusulas contratuais e a consequente restituição dos valores pagos a maior, por serem fundadas em direito pessoal, prescrevem em dez anos, na forma do art. 205 do Código Civil. No caso, em dois dos contratos transcorreu o prazo decenal entre a celebração dos contratos e a propositura da ação. Parcialmente provido no tópico. II - Juros remuneratórios. A aplicação de taxa de juros remuneratórios substancialmente superior à média de mercado divulgada pelo BACEN nas relações de consumo, desde que demonstrada desvantagem exagerada ao consumidor, e analisadas as peculiaridades inerentes ao caso concreto, pode configurar a abusividade, sendo passível de limitação à referida taxa média de mercado, conforme entendimento do STJ (R Esp nº 1.061.530/RS e R Esp nº 1.821.182/RS). Na hipótese, há abusividade dos juros remuneratórios pactuados. III - Repetição de indébito/compensação de valores. Cabimento da repetição do indébito, na forma simples, e compensação de valores diante das modificações impostas na revisão do contrato. Desprovido no particular. APELAÇÃO PARCIALMENTE PROVIDA. UNÂNIME". (e-STJ fl. 298)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 355, I e II, 356, I e II, 927, do CPC; e 421 do Código Civil. Sustenta inexistir abusividade nos juros remuneratórios previstos no contrato celebrado entre as partes. Afirma que o provimento do pedido de revisão contratual apenas com base na taxa média de mercado, sem produção de outras provas e análise das particularidades do caso, enseja cerceamento de defesa, devendo os autos serem remetidos ao Tribunal de origem, sob pena de nulidade.
+Decisão unipessoal: conheceu do agravo para não conhecer do recurso especial que interpusera, com fundamento no art. 932, III, do CPC. (e-STJ Fls. 602-605)
+Agravo interno: alega que a análise da questão dos juros independe de reexame probatório, havendo jurisprudência em seu favor. Pugna pelo afastamento das Súmulas aplicadas, reiterando os mesmos argumentos expendidos anteriormente em defesa de suas teses. (e-STJ Fls. 609-617)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação revisional de contrato bancário.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Agravo interno não provido.
+VOTO
+A análise da admissibilidade do recurso especial pressupõe uma argumentação lógica, demonstrando de plano de que forma se deu a suposta vulneração do dispositivo legal pela decisão recorrida.
+Nesse contexto, cabe esclarecer que a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido no s autos.
+Na presente hipótese, quedou-se a parte agravante de demonstrar como o acórdão recorrido violou os arts. 421 do CC e 927 do CPC, o que revela a deficiência de fundamentação suficiente a atrair o óbice da Súmula 284 do STF.
+Em relação ao enfrentamento da matéria pela Corte estadual, a falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito o requisito, o recurso não supera o âmbito de sua admissibilidade, atraindo a incidência da Súmula 211 do STJ na hipótese dos autos
+A propósito, convém salientar que a incumbência constitucional deste Superior Tribunal de Justiça, ao julgar o recurso especial, é muito mais ampla do que o exame do direito alegado pelas partes, e m revisão do decidido pelas Cortes locais. Cabe ao STJ, precipuamente, a uniformização da interpretação da Lei Federal, daí porque é indispensável que tenha havido o prévio debate acerca dos artigos legais pelos Tribunais de origem.
+Na hipótese vertente, observa-se que, de fato, os arts. 421 do CC e 927 do CPC, não foram objeto de expresso prequestionamento pelo Tribunal de origem, o que impede o conhecimento do recurso especial quanto ao ponto.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à existência de abusividade na taxa de juros remuneratórios prevista no contrato celebrado entre as partes, exige o reexame de fatos e provas, assim como a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Quanto à alegação de dissídio jurisprudencial, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC e 255, § 1º, do RISTJ.
+A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, D Je de 31/03/2014 e E Dcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+DISPOSITIVO
+Forte nessas razões, NEGO provimento ao presente agravo interno no agravo em recurso especial.
