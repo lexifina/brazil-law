@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE E CONTRADIÇÃO. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO. RECURSO PARCIALMENTE ACOLHIDO, SEM EFEITOS INFRINGENTES.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC). Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Diante da existência de erro material, excluo o item 4 da ementa do acórdão embargado por não ter sido o art. 1.025 do CPC mencionado no voto.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SANTOS BRASIL PARTICIPAÇÕES S.A contra o acórdão da PRIMEIRA TURMA, de minha relatoria, assim ementado (fls. 974/975):
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 458 e 535 DO CPC/1973. ART 97 DO CTN. PRINCÍPIO DA LEGALIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PREQUESTIONAMENTO NÃO CONFIGURADO. SÚMULA 211/STJ. SÚMULA 7/STJ. INAPLICABILIDADE. MATÉRIA DE DIREITO. CPMF. ASSUNÇÃO DE DÍVIDA. INCIDÊNCIA. PROVIMENTO NEGADO.
+1.Inexiste a alegada violação dos arts. 458 e 535 do Código de Processo Civil (CPC) de 1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro, omissão, contradição ou obscuridade.
+2. É vedado o exame da alegação de violação do art. 97 do Código Tributário Nacional (CTN) pelo Superior Tribunal de Justiça (STJ) por ser esse dispositivo mera reprodução de preceito constitucional (art. 150, I, da Constituição Federal), que trata do princípio da legalidade tributária).
+3. Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o tribunal, é preciso que a causa seja decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se sua incidência ou não ao caso concreto, o que não ocorreu na espécie.
+4. O Superior Tribunal de Justiça possui o entendimento de que, para a admissão do prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC, é necessário não só que haja a oposição dos embargos de declaração na Corte de origem como também a indicação e o reconhecimento por Tribunal de ofensa ao art. 1.022 do CPC, especificamente quanto à questão que se pretende ver analisada, o que não se constata no presente caso.
+5. Ausência de prequestionamento dos arts. 108, § 1º, 110 e 114 do CTN, atraindo a aplicação da Súmula 211/STJ, pois os dispositivos não foram examinados na origem, mesmo após a oposição de embargos de declaração.
+6. Inaplicabilidade da Súmula 7/STJ por ser matéria de direito a incidência de tributo sobre assunção de dívida decorrente de incorporação.
+7. Incide a CPMF (Contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira) em assunção de dívida pela incorporadora. Inteligência dos arts. 1º, parágrafo único, e 2º, inciso VI, da Lei 9.311/1996.
+8. Agravo interno a que se nega provimento.
+A parte embargante alega:
+(1) obscuridade e omissão pois suas afirmações não teriam sido analisadas pelo Tribunal de origem e no acórdão objeto do presente recurso a Primeira Turma teria analisado apenas o voto vencido que havia integrado o acórdão recorrido (fls. 994/998);
+(2) omissão porque esta Corte deve analisar a alegação de violação ao art. 97 do Código Tributário Nacional, em vista da Súmula 636/STF, como foi feito em outras ocasiões (fls. 998/1.000);
+(3) obscuridade e contradição visto que a aplicação da Súmula 211/STJ seria indevida, não tendo sido o acórdão recorrido bem fundamentado (fls. 1.000/1.003);
+(4) obscuridade e omissão uma vez que "o v. acórdão acabou por acertadamente acolher o argumento apresentado no Agravo Interno acerca da impossibilidade de aplicação do óbice da Súmula 7 no presente caso, porém ao final indicou que o julgamento foi pelo desprovimento do Agravo Interno (contra decisão agravada que não conheceu do recurso especial), mas ainda assim parece ter entrado rapidamente na análise do mérito, indicando a incidência da CPMF no caso, referindo precedentes inaplicáveis, referentes a transferências de ativos (e não de dívidas, passivos como no presente caso!), deixando de fundamentar seu entendimento" (fl. 1.003); e
+(5) obscuridade pela referência na ementa ao art. 1.025 do Código de Processo Civil (CPC) vigente, embora nada conste a esse respeito no voto (fls. 1.005/1.006).
+Requer que os embargos sejam acolhidos.
+A parte adversa não apresentou impugnação (fl. 1.017).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE E CONTRADIÇÃO. INEXISTÊNCIA. ERRO MATERIAL. CORREÇÃO. RECURSO PARCIALMENTE ACOLHIDO, SEM EFEITOS INFRINGENTES.
+1. O inconformismo da parte embargante não se enquadra nas hipóteses de cabimento dos embargos de declaração, previstas no art. 1.022 do Código de Processo Civil (CPC). Não há na decisão embargada vícios de omissão, contradição ou obscuridade, ou erro material, não se prestando o recurso integrativo para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+2. Diante da existência de erro material, excluo o item 4 da ementa do acórdão embargado por não ter sido o art. 1.025 do CPC mencionado no voto.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+VOTO
+Os embargos de declaração não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC). Nada há, enfim, que impeça o seu conhecimento.
+Nos termos do art. 1.022 do Código de Processo Civil (CPC), o recurso integrativo é cabível contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Mantenho a decisão proferida pelo Tribunal de origem porque foi devidamente fundamentada, não havendo violação ao art. 535 do CPC/1973. Como no voto vencido destacado no acórdão recorrido, o voto vencedor do julgamento dos embargos de declaração opostos na origem também enfrentou o ponto da capacidade contributiva (fls. 697/698):
+No entanto, o fundamento da não incidência tributária já foi enfrentado e afastado no julgamento do apelo, quando restou reconhecido que os fatos geradores trazidos pelo art. 2º da Lei nº 9.311/96 abarcam não apenas o lançamento de valores, créditos e direitos por instituição financeira em contas correntes, de empréstimo, poupança, depósitos judicial e de consignação em pagamento (incisos I e II), como também qualquer movimentação ou transmissão de valores, créditos e direitos a terceiros (inciso IV), como ocorre com a assunção de dívida pela sociedade incorporadora, situação que não cabe ser rediscutida na estreita via declaratória.
+Assim, reconhecida a existência de lei instituindo a exação sobre o referido fato imponível, resta investigar se a imposição da CPMF na hipótese foi exercida sem observar as limitações constitucionais ao poder de tributar, autorizando a incidência da contribuição sobre fato que não revela a exteriorização de riqueza pelo sujeito passivo e que, portanto, esbarra no princípio da capacidade contributiva, o que, a princípio, parece ocorrer.
+ ..
+Sabemos que patrimônio é o complexo de relações jurídicas de uma pessoa e reúne, por isso, tanto as relações de créditos e haveres, quanto às de débito, sendo atributo da personalidade jurídica das pessoas físicas ou jurídicas.
+Nessas condições, não é possível isolar uma parcela deste acervo de relações e tomá-la pela totalidade, como pretende o embargante, para atribuir conteúdo negativo ao patrimônio incorporado, pois os empréstimos inicialmente obtidos pelas incorporadas, e posteriormente transferidos para a incorporadora, representam apenas uma parte do acervo transmitido, e não sua integralidade.
+Quando o embargante coloca os títulos de crédito objeto das operações de financiamento nesse plano negativo, ele o faz como se não tivessem nenhum valor. Valor é valer, e essa valência inerente aos títulos é valor que se quantifica na moeda de circulação nacional, cujo conteúdo valorativo, em seu aspecto negativo, já veio refletivo no custo inferior incorporação, e, naquilo que guarda de positivo, pôde, inclusive, ser aproveitado em proveito fiscal da incorporadora com relação ao IRPJ e CSLL (fl. 34).
+De resto, peço vênia para transcrever trecho do voto do Ministro Mauro Campbell Marques, quando relatou o RESP nº 1.284.380/PR, que reforça o quanto foi dito, afastando, assim, a alegada ofensa ao princípio da capacidade contributiva:  .. .
+É importante salientar que julgamento diverso do pretendido, como no presente caso, não implica ofensa ao dispositivo de lei invocado.
+Acerca da alegação de omissão na análise da aplicação do art. 97 do CTN, assim foi decidido no acórdão embargado (fl. 979):
+A decisão agravada está em consonância com a jurisprudência desta Corte no que tange à impossibilidade de apreciar eventuais violações ao art. 97 do CTN, sob pena de usurpar a competência do Supremo Tribunal Federal (STF).
+Quanto à Súmula 211 do Superior Tribunal de Justiça (STJ), não há obscuridade ou contradição em sua aplicação porque foi apontado no acórdão recorrido o seguinte (fl. 981):
+Relativamente ao prequestionamento dos arts. 108, § 1º, 110 e 114 do CTN, não é suficiente que os artigos sejam mencionados no relatório do acórdão.
+O prequestionamento é requisito previsto no inciso III do art. 105 da Constituição Federal e impõe que somente causas decididas por Corte estadual, regional federal ou do Distrito Federal e dos Territórios estão autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no recurso especial, não foi decidida, não há falar em abertura desta via recursal.
+Sobre a reforma da decisão agravada, sob o argumento de obscuridade, com o reconhecimento da inaplicabilidade da Súmula 7/STJ, não há que falar em proveito algum à parte recorrente, apto ao acolhimento da violação ao art. 1.022 do CPC, pois o mérito da questão controvertida foi desprovido por esta Primeira Turma. Tal conduta demonstra a insatisfação da parte embargante com o resultado do julgamento, situação essa que não se encaixa nas hipóteses previstas para o acolhimento dos embargos de declaração.
+A argumentação apresentada pela parte embargante, quanto aos pontos acima, não passa de mero inconformismo e visa renovar a discussão sobre questão que já foi decidida. Os embargos de declaração não se prestam para o fim de reexaminar os aspectos jurídicos anteriormente debatidos.
+O Superior Tribunal de Justiça assim já se manifestou:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. DEVIDO JUÍZO DE ADMISSIBILIDADE RECURSAL.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.574.004/SE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 8/3/2021, DJe de 11/3/2021, sem destaque no original.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ART. 1.022, II, DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. OMISSÃO. INEXISTÊNCIA.
+ ..
+3. Inexistência dos vícios listados nos arts. 489 § 1º, V, e art. 1.022 do CPC. Os argumentos da embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.777.777/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 9/11/2021, DJe de 10/12/2021, sem destaque no original.)
+É importante frisar que o contraponto aos argumentos das partes não demanda a citação literal de suas palavras ou dos mesmos dispositivos legais (ou de todos), bastando que haja fundamentação fática e jurídica coerente e adstrita ao que é debatido nos autos.
+Ressalto que os embargos de declaração não constituem instrumento adequado à revisão de entendimento já manifestado e devidamente embasado, à correção de eventual error in judicando ou ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte recorrente, deveriam guiar ou conduzir a solução do litígio.
+Acerca da inclusão na ementa da referência ao art. 1.025 do CPC ora vigente, dou provimento aos embargos de declaração para corrigir o erro material, excluindo o item 4 da ementa do acórdão agravado por não ter sido tal artigo mencionado no voto.
+Ante o exposto, acolho os embargos de declaração tão somente para sanar o erro material na ementa do acórdão de fls. 976/986.
+É o voto.
