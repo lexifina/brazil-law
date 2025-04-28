@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Ricardo Villas Bôas Cueva.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE SEGUIMENTO. REPETITIVO. AGRAVO INTERNO. GRATUIDADE  DA  JUSTIÇA.  CONCESSÃO.  IRRETROATIVIDADE. SÚMULA Nº 568/STJ.
+1. Na sistemática processual civil instituída pela Lei nº 13.105/2015, contra a decisão que analisa admissibilidade de recursos constitucionais, aplicando entendimento firmado em regime de repetitivo ou repercussão geral, cabe o agravo interno (artigo 1.030, § 2º, Código de Processo Civil), caracterizando erro grosseiro a interposição do agravo para o Superior Tribunal de Justiça ou Supremo Tribunal Federal (artigo 1.042 do Código de Processo Civil).
+2. A  concessão  da  gratuidade  judiciária  pode  ser  requerida  no  curso  da  ação,  mas  não  tem  efeitos  retroativos.  Desse  modo,  na  hipótese  dos  autos,  não  teria  o  condão  de  isentar  o  agravante  de  arcar  com  os  ônus  sucumbenciais  já  fixados  anteriormente. Precedentes.
+3. Recurso conhecido em parte e, nessa extensão, não provido.
+RELATÓRIO
+Trata-se de agravo interposto por SHEILA VILELA DE OLIVEIRA contra a decisão que i nadmitiu recurso especial.
+O apelo extremo, com fundamento no artigo 105, III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"JUSTIÇA GRATUITA - Insuficiência financeira - Comprovação - Hipótese autorizadora do deferimento benefício - Exegese dos artigos 98, § 5º, e 99 do CPC - Eficácia a partir deste acórdão (efeito ex nunc), não retroativa.
+PRINCÍPIO DA DIALETICIDADE - Regularidade - Razões recursais que impugnam, suficientemente, a sentença - Preliminar rejeitada.
+AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS - "Golpe do PIX" - Tratativas realizadas por falsário via aplicativo de mensagens "Whatsapp" com utilização de foto de parente ou amigo da vítima - Solicitação de pagamentos ou transferências de valores a terceiros - Notório descuido e exposição à fraude pela própria usuária - Ausência de prova de falha na prestação de serviços bancários - Inexistência de ato ilícito praticado pelas financeiras - Nexo de causalidade - Não ocorrência - Fortuito externo - Elementos que permitem concluir que houve culpa exclusiva de terceiros e da vítima - Responsabilidade civil não caracterizada - Sentença de improcedência mantida - Recurso desprovido, com observação" (e-STJ fls. 303/304).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 330/333).
+No recurso especial, a recorrente defende ser ônus das instituições financeiras demonstrar o cumprimento da Resolução nº 2025 do Banco Central - BACEN.
+Sustenta que o aresto recorrido violou o art. 98, § 3º, do Código de Processo Civil, argumentando que a gratuidade da justiça deferida em segundo grau de jurisdição deve abranger a verba de sucumbência fixada na sentença de primeiro grau.
+Ao final, requer o provimento do recurso para que seja invertido o ônus da prova em relação ao cumprimento das normas do BACEN e para que a condenação ao pagamento de honorários de sucumbência seja colocada sob condição suspensiva pelo prazo legal, ou até que o credor demonstre que deixou de existir a situação de insuficiência de recursos que justificou a concessão o benefício de gratuidade da justiça.
+Sem as contrarrazões, o recurso especial teve seu seguimento negado em relação à tese de responsabilidade das instituições bancárias e foi inadmitido no tocante aos efeitos da gratuidade da justiça.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE SEGUIMENTO. REPETITIVO. AGRAVO INTERNO. GRATUIDADE  DA  JUSTIÇA.  CONCESSÃO.  IRRETROATIVIDADE. SÚMULA Nº 568/STJ.
+1. Na sistemática processual civil instituída pela Lei nº 13.105/2015, contra a decisão que analisa admissibilidade de recursos constitucionais, aplicando entendimento firmado em regime de repetitivo ou repercussão geral, cabe o agravo interno (artigo 1.030, § 2º, Código de Processo Civil), caracterizando erro grosseiro a interposição do agravo para o Superior Tribunal de Justiça ou Supremo Tribunal Federal (artigo 1.042 do Código de Processo Civil).
+2. A  concessão  da  gratuidade  judiciária  pode  ser  requerida  no  curso  da  ação,  mas  não  tem  efeitos  retroativos.  Desse  modo,  na  hipótese  dos  autos,  não  teria  o  condão  de  isentar  o  agravante  de  arcar  com  os  ônus  sucumbenciais  já  fixados  anteriormente. Precedentes.
+3. Recurso conhecido em parte e, nessa extensão, não provido.
+VOTO
+A insurgência não merece prosperar.
+Em princípio, registra-se que a sistemática processual civil instituída pela Lei nº 13.105/2015, dispõe que contra a decisão que analisa admissibilidade de recursos constitucionais, aplicando entendimento firmado em regime de repetitivo ou repercussão geral, cabe o agravo interno (artigo 1.030, § 2º, Código de Processo Civil), caracterizando erro grosseiro a interposição do agravo para o Superior Tribunal de Justiça ou Supremo Tribunal Federal (artigo 1.042 do Código de Processo Civil).
+Assim, no que concerne à tese de inversão do ônus da prova em casos de fraude bancária, era cabível o agravo interno no próprio tribunal de origem, nos termos do art. 1.030, § 2º, do CPC.
+Em relação à tese de suspensão dos efeitos da condenação ao pagamento das verbas de sucumbência em razão da concessão do benefício gratuidade da justiça, destaca-se que o  Superior  Tribunal  de  Justiça  tem  posicionamento  no  sentido  de  que  o  deferimento  do  pedido  de  justiça  gratuita  produz  efeitos  somente  para  o  futuro,  não  retroagindo  para  abarcar  atos  processuais  pretéritos.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  GRATUIDADE  DE  JUSTIÇA  CONCEDIDA  À  PESSOA  FÍSICA.  EFEITOS  EX  NUNC.  PRECEDENTES.  SÚMULA  83/STJ.  AGRAVO  INTERNO  IMPROVIDO.
+1.  De  fato,  o  entendimento  desta  Corte  é  no  sentido  de  que  "o  deferimento  do  pedido  de  gratuidade  da  justiça  produz  efeitos  ex  nunc,  operando  efeitos  somente  para  o  futuro,  não  retroagindo  para  abarcar  atos  processuais  pretéritos"  (AgInt  nos  EDcl  no  REsp  n.  1.941.078/PR,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  6/3/2023,  DJe  de  9/3/2023).
+2.  Nos  termos  da  jurisprudência  desta  Corte  Superior,  para  afastar  a  incidência  da  Súmula  n.  83/STJ,  é  dever  da  parte  insurgente  demonstrar  inaplicabilidade  dos  precedentes  invocados  na  decisão  agravada,  ou  colacionar  julgados  contemporâneos  ou  supervenientes  ao  indicado  na  decisão.
+3.  Agravo  interno  improvido."  (AgInt  no  AREsp  nº  2.516.806/DF,  relator  Ministro  Marco  Aurélio  Bellizze,  Terceira  Turma,  julgado  em  24/6/2024,  DJe  de  26/6/2024).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DECLARATÓRIA  C/C  PEDIDO  CONDENATÓRIO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DA  PARTE  RÉ.
+1.  O  entendimento  desta  Corte  Superior  é  no  sentido  de  que  a  benesse  de  gratuidade  de  justiça  não  possui  efeitos  ex-tunc,  porquanto  sua  eventual  concessão  em  sede  de  apelação  não  poderia  alcançar  os  honorários  arbitrados  em  primeiro  grau.  Precedentes.
+2.  Agravo  interno  desprovido."  (AgInt  nos  EDcl  no  AREsp  nº  2.114.119/RS,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  6/3/2023,  DJe  de  10/3/2023).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  NULIDADE  DE  ATOS/NEGÓCIOS  JURÍDICOS.  PEDIDO  DE  GRATUIDADE  DE  JUSTIÇA  FEITO  PRELIMINARMENTE  NO  RECURSO  ESPECIAL.  DEMONSTRAÇÃO  DE  HIPOSSUFICIÊNCIA.  EFEITOS  EX  NUNC.
+1.  Ação  declaratória  de  nulidade  de  atos/negócios  jurídicos.
+2.  O  benefício  de  gratuidade  de  justiça  foi  deferido  com  base  na  situação  econômico-financeira  do  agravado,  comprovada  pela  documentação  acostada  aos  autos  após  intimação,  produzindo  efeitos  quanto  aos  atos  processuais  relacionados  ao  momento  do  pedido  ou  aos  posteriores  a  ele,  não  sendo  admitida,  portanto,  sua  retroatividade.
+3.  Agravo  interno  não  provido."  (AgInt  no  REsp  nº 1.979.910/SP,  relatora  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  22/11/2022,  DJe  de  24/11/2022).
+Logo, não merece reparos o acórdão recorrido, pois alinhado à jurisprudência desta Corte Superior, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) sobre o valor atualizado da causa, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil, observado o benefício da gratuidade da justiça quanto à majoração recursal.
+É o voto.
