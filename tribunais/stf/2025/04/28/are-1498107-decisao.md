@@ -1,0 +1,41 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade do recurso extraordinário, com base no art. 102, III, “a”, da Constituição Federal, apresentado por Arauco do Brasil S.a., em face do acórdão do Tribunal de Justiça do Estado do Paraná assim ementado:
+
+    “APELAÇÕES CÍVEIS. AÇÃO DE INDENIZAÇÃO POR EXPLORAÇÃO IRREGULAR DO MINÉRIO SERPENTINITO EM TERRENO COM CONCESSÃO DE EXPLORAÇÃO PARA A EMPRESA AUTORA. REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO. CONDENAÇÃO DE TRÊS MUNICÍPIOS EM QUANTIA SUPERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. MATÉRIA DE ORDEM PÚBLICA. DISCUSSÃO DE INTERESSE EXCLUSIVAMENTE PRIVADO. AUSÊNCIA DE INTERESSE DA UNIÃO PELO SIMPLES FATO DE ENVOLVER MINÉRIO. PRESCRIÇÃO. MATÉRIA DE ORDEM PÚBLICA. APLICAÇÃO DO PRAZO VINTENÁRIO DO CC/1916 PARA AS PESSOAS JURÍDICAS DE DIREITO PRIVADO E DO PRAZO QUINQUENAL PARA AS PESSOAS JURÍDICAS DE DIREITO PÚBLICO. RECONHECIMENTO PARCIAL DA PRESCRIÇÃO CONSIDERANDO OS PERÍODOS DE EXPLORAÇÃO. AGRAVO RETIDO CONTRA DECISÃO QUE INDEFERIU O PEDIDO DE PRODUÇÃO DE PROVA PERICIAL E INSPEÇÃO JUDICIAL. CERCEAMENTO DE DEFESA NÃO COMPROVADO. LIVRE APRECIAÇÃO DA PROVA PELO MAGISTRADO. PROVA PERICIAL JÁ PRODUZIDA EM AÇÃO CAUTELAR. NÃO COMPROVAÇÃO DA INSUFICIÊNCIA. ALEGAÇÕES DE NULIDADE NÃO ACOLHIDAS. DECISÃO DA AÇÃO CAUTELAR JÁ TRANSITADA EM JULGADO. EXCEÇÃO DE SUSPEIÇÃO DO PERITO JUDICIAL QUE ALÉM DE NÃO TER SIDO FEITA PELO INSTRUMENTO ADEQUADO NÃO ESTÁ COMPROVADA. DEVERIA TER SIDO APRESENTADA E PROVADA NO ÂMBITO DA CAUTELAR E NÃO ALEGADA NO ÂMBITO DA ORDINÁRIA. PERÍCIA ADEQUADA E SUFICIENTE AO FIM QUE SE DESTINA. PRAZO DO ART. 806 DO CPC QUE NÃO SE APLICA PARA MEDIDAS CAUTELARES NÃO CONSTRITIVAS COMO A PRODUÇÃO ANTECIPADA DE PROVAS. PRECEDENTES DO STJ. INEXISTÊNCIA DE AÇÕES DÚPLICES. NÃO HÁ NADA QUE IMPEÇA QUE UMA PESSOA FÍSICA SEJA SÓCIA DE MAIS DE UMA PESSOA JURÍDICA. PESSOA JURÍDICA QUE NÃO SE CONFUNDE COM AS PESSOAS FÍSICAS DOS SÓCIOS. EXPLORAÇÕES POR DIFERENTES EMPRESAS EM DIFERENTES PERÍODOS. ILEGITIMIDADE ATIVA NÃO RECONHECIDA. IRRELEVANTE O MOMENTO EM QUE OCORREU A CONCESSÃO DO DIREITO DE EXPLORAÇÃO DO MINÉRIO SERPENTINITO SE NÃO HOUVE CONCESSÃO ANTERIOR PELO PODER PÚBLICO. MINÉRIOS QUE TERIAM PERMANECIDO NO SUBSOLO E PODERIAM TER SIDO RETIRADOS PELA PARTE AUTORA CASO NÃO O TIVESSEM SIDO ILEGALMENTE PELOS RÉUS. DIREITO DE CONCESSÃO QUE SÓ PODE SER DADO PELO DNPM. IRRELEVÂNCIA DO CONTRATO FIRMADO COM OS PROPRIETÁRIOS DA ÁREA. CONTRATO COM CLÁUSULA DE PRORROGAÇÃO A CRITÉRIO DA PARTE AUTORA. RESPONSABILIDADE OBJETIVA DOS MUNICÍPIOS. ART. 37, §6°, CF. RESPONSABILIDADE SUBJETIVA DAS PESSOAS JURÍDICAS DE DIREITO PRIVADO. ART. 186 DO CC. COMPROVAÇÃO DOS ELEMENTOS NECESSÁRIOS A CARACTERIZAÇÃO DO DEVER DE INDENIZAR. PROVAS QUE DEMONSTRAM A EXPLORAÇÃO IRREGULAR, O PREJUÍZO MATERIAL, O NEXO DE CAUSALIDADE E O DOLO. VALOR EXATO DO PREJUÍZO A SER APURADO EM LIQUIDAÇÃO DA SENTENÇA. PERÍCIA IMPRECISA QUANTO AO VALOR EXTRAÍDO POR CADA UM DOS RÉUS. IMPOSSIBILIDADE DE CONDENAÇÃO SOLIDÁRIA. QUANTIDADE APURADA QUE DEVERÁ ABATER VALOR EXPLORADO PELO PRÓPRIA AUTORA. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 20% VALOR DA CAUSA QUE DEVEM SER REDUZIDOS. ALTERAÇÃO DO TERMO DOS JUROS E DA CORREÇÃO MONETÁRIA. APELAÇÕES A QUE SE DÁ PARCIAL PROVIMENTO, SENTENÇA MODIFICADA PARCIALMENTE EM SEDE DE REEXAME NECESSÁRIO, CONHECIDO DE OFÍCIO, AGRAVO RETIDO NÃO PROVIDO.” (destaquei) (Apelação Cível nº 1245119-1, 1ª Câmara Cível do Tribunal de Justiça do Estado do Paraná, Rel. Des. Renato Braga Bettega, j. 28.04.15)
+
+    Na minuta, sustenta-se violação dos arts. 20, IX, 109, I, e 176 da Constituição da República.
+
+    É o relatório.
+
+    Decido.
+
+    O recurso não comporta provimento.
+
+    O recurso extraordinário teve o seguimento negado pela Vice-Presidência do Tribunal de Justiça do Estado do Paraná aos seguintes fundamentos:
+
+    “A Câmara julgadora, às fis. 2.041 e verso, decidiu que,
+
+    ‘A Constituição Federal estabelece que os recursos minerais são bens da União e que se garante ao concessionário a propriedade do produto da lavra (artigo 20, IX e artigo 176), que a pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais somente poderão ser efetuados mediante autorização ou concessão da União (artigo 176, § 19). A Justiça Federal é competente para julgar as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à justiça do Trabalho (artigo 109, I, da Constituição Federal). Nenhum dos entes federais mencionados é autor, réu, assistente, opoente ou interessado na causa, estritamente patrimonial e individual. Discute-se a responsabilidade de pessoas jurídicas de direito privado e de direito público municipal por danos materiais causados a bem particular. Não se discute a propriedade dos recursos minerais propriamente dita, que poderia ensejar algum interesse por parte da União, mas sim um eventual dano a propriedade privada.’
+
+    Da leitura do último parágrafo transcrito, constata-se a ausência de efetiva existência de litígio constitucional por parte do Tribunal de que emanou o acórdão impugnado, o que não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário. Assentando-se, o acórdão do Tribunal a que, em vários fundamentos, impunha-se à Recorrente o dever de impugnar todos eles, de maneira necessariamente abrangente, sob pena de, em não o fazendo, sofrer a consequência processual da inadmissibilidade do recurso extraordinário (Súmula 283/STF), eis que a existência de fundamento inatacado revela-se apta a conferir, à decisão recorrida, condições suficientes para subsistir autonomamente.” (destaquei)
+
+    Da análise dos autos, verifica-se que a revisão das premissas adotadas pelo Tribunal de origem, de que a ação indenizatória em apreço comporta “INTERESSE EXCLUSIVAMENTE PRIVADO”, demandaria o exame da moldura fática delineada, o que torna oblíqua e reflexa eventual ofensa, a inviabilizar o conhecimento do recurso extraordinário. Aplicação da Súmula nº 279/STF: “para simples reexame de prova não cabe recurso extraordinário”.
+
+    Não se vislumbra, portanto a alegada afronta aos arts. 20, IX, 109, I, e 176 da Lei Maior. Isso porque, nos exatos termos assentados no despacho de inadmissibilidade do extraordinário, “constata-se a ausência de efetiva existência de litígio constitucional”. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito administrativo. Mineração. Lavra ilegal. Direito ao ressarcimento pela União. 3. Reexame de fatos e provas. Incidência da Súmula 279 desta Corte. Precedentes. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 1329720 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13-12-2021)
+
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. ATIVIDADE DE MINERAÇÃO. DANO À SUPERFÍCIE E AO PRODUTO DA LAVRA. CONTROVÉSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. 1. A solução da controvérsia pressupõe, necessariamente, a análise de legislação infraconstitucional e o reexame dos fatos e do material probatório constantes dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário. 2. Agravo regimental a que se nega provimento.” (RE 597593 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe07-10-2015)
+
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento aos recursos.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 28 de abril de 2025.
+
+Ministro FLÁVIO DINO
+
+Relator
+
+Documento assinado digitalmente
