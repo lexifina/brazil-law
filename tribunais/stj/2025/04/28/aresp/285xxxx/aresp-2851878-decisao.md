@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por MACLAUDIO FERREIRA DA PAIXAO, fundado no art. 105, III, "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TITULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE DEFENDENDO A PRESCRIÇÃO PARCIAL, POR ENTENDER QUE O PRAZO PRESCRICIONAL DEVE SER CONTADO A PARTIR DO VENCIMENTO DE CADA PARCELA. CONTRATO DE MÚTUO. PRESTAÇÕES SUCESSIVAS. TERMO INICIAL DO VENCIMENTO DA ÚLTIMA PARCELA. PRECEDENTES JURISPRUDENCIAL. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME." (Fl. 497).
+Em suas razões recursais, a parte recorrente alegou violação aos arts. 189, 205 e 206 do Código Civil, sustentando, em síntese, que, no caso de contrato de mútuo feneratício com pagamento parcelado, o termo inicial da prescrição se dá com data do vencimento de cada parcela.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório. Decido.
+Na hipótese, o Tribunal de origem concluiu que o prazo prescricional para execução de título extrajudicial em contratos de mútuo com prestações sucessivas deve ser contado a partir do vencimento da última parcela, e não de cada parcela individualmente, conforme defendido pelo agravante. É o que se infere do seguinte trecho do acórdão:
+"De análise dos autos principais, reitero que o Agravante sustenta, tanto no bojo da Exceção de Pré-executividade, quanto neste Agravo de Instrumento, que o termo inicial da prescrição em contrato de mútuo é a partir do vencimento de cada parcela.
+Todavia, o entendimento pacificado é no sentido de que o termo inicial da prescrição é contato a partir da data do vencimento da última prestação do contrato, uma vez que esse é de trato sucessivo, conforme decidido pelo juízo a quo." (Fl. 499).
+Com efeito, não se infere ofensa aos arts. 189, 205 e 206 do Código Civil, uma vez que o entendimento do eg. TJ-SE coaduna com a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes precedentes:
+Confira-se:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL MÚTUO BANCÁRIO. RELAÇÃO CONSUMERISTA. VERIFICAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283/STF. EMPRÉSTIMO BANCÁRIO. FOMENTO DA ATIVIDADE EMPRESARIAL. RELAÇÃO DE CONSUMO. INEXISTÊNCIA. ARESTO IMPUGNADO CONFORME A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. VENCIMENTO ANTECIPADO DO DÉBITO. PRETENSÃO DE COBRANÇA. ACTIO NATA. VENCIMENTO ORIGINAL DA ÚLTIMA PARCELA. ABUSO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CONFORMIDADE DO ACÓRDÃO RECORRIDO AO ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. Para a jurisprudência do STJ, "é inaplicável o diploma consumerista na contratação de negócios jurídicos e empréstimos para fomento da atividade empresarial, uma vez que a contratante não é considerada destinatária final do serviço" (REsp n. 2.001.086/MT, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/9/2022, DJe de 30/9/2022).2.1. A Corte a quo não dissentiu de tal entendimento, pois afastou a incidência do CDC pelo fato de a parte agravante não ser a destinatária final do empréstimo bancário, visto que o crédito foi empregado no fomento da atividade empresarial.
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+4. A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+5. Conforme o entendimento desta Corte Superior, "o vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp n. 1.408.664/PR, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/4/2018, DJe de 30/4/2018).
+5.1. A Corte local apurou a prescrição da pretensão de cobrança do banco, ora recorrido, com base na cédula de crédito rural, a partir do vencimento original da última parcela, ainda que existente a cláusula de vencimento antecipado do débito no caso de inadimplemento do mutuário, o que não diverge de tal orientação.
+Caso de aplicação da Súmula n. 83/STJ.
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 282, 283 e 356 do STF e 83 do STJ.7. Agravo interno a que se nega provimento."
+(AgInt no REsp n. 2.159.296/DF, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/2/2025, DJEN de 28/2/2025)
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MÚTUO. PRAZO PRESCRICIONAL. TERMO INICIAL. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal entende que, no contrato de mútuo, o vencimento antecipado da dívida, seja por inadimplemento do devedor ou por outro motivo, não altera o início da fluência do prazo prescricional, prevalecendo, para tal fim, o termo ordinariamente indicado no instrumento contratual, que, no caso, é o dia do vencimento da última parcela.
+2. Na espécie, a última parcela do contrato venceu em 1º/10/2015, ao passo que a habilitação de crédito foi distribuída em 19/3/2020, não se operando, portanto, a prescrição quinquenal.
+3. Agravo interno desprovido."
+(AgInt no AREsp n. 2.332.016/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/6/2024, DJe de 27/6/2024)
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE MÚTUO. PRAZO PRESCRICIONAL. TERMO INICIAL. VENCIMENTO ANTECIPADO. FACULDADE DO CREDOR. DATA DE VENCIMENTO DA ÚLTIMA PARCELA. PRECEDENTES DO STJ. APLICAÇÃO DA SÚMULA N.º 83 DO STJ CONFIRMADA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte se firmou no sentido de que o contrato de mútuo feneratício, por não contemplar obrigação de trato sucessivo, que se renova em parcelas singulares, mas de pagamento da dívida de forma diferida, tem o vencimento da última delas como termo inicial do prazo prescricional. Precedentes do STJ.
+2. Ainda segundo o entendimento desta Corte, "o vencimento antecipado da dívida não enseja a alteração do termo inicial do prazo de prescrição, que é contado da data do vencimento da última parcela" (AgInt no REsp 1.408.664/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 30/4/2018).
+3 . Agravo interno não provido."
+(AgInt no AREsp n. 2.439.042/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 8/4/2024, DJe de 11/4/2024)
+Nesse cenário, estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
