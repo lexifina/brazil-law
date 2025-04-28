@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Humberto Martins.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CONSUMIDOR. FINANCIAMENTO BANCÁRIO DE VEÍCULO. JUROS REMUNERATÓRIOS. ANATOCISMO. POSSIBILIDADE. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA 518/STJ. INCIDÊNCIA. TABELA PRICE. SÚMULA 7/STJ.
+1. Não é cabível recurso especial com fundamento em violação de enunciado de súmula, pois este não se enquadra no conceito de lei federal para os fins previstos no apelo nobre. Aplica-se, portanto, a Súmula 518 do STJ.
+2. A cobrança de juros sobre juros não é ilegal, desde que expressamente pactuada entre as partes. Esse entendimento está consolidado no Tema Repetitivo n. 953/STJ: "A cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação".
+3. Na linha dos julgados desta Corte, a verificação da capitalização de juros decorrente da aplicação da Tabela Price envolve matéria fática, cujo reexame é vedado em recurso especial, nos termos da Súmula 7 do STJ (AgInt no REsp n. 1.874.678/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+4. Quanto à alegada abusividade das tarifas cobradas, o acórdão recorrido, soberano na análise dos fatos e das provas, consignou a ausência de comprovação nos autos da cobrança de Comissão de Permanência, de Tarifa de Abertura de Crédito, de Tarifa de Emissão de Carnê e de Tarifa de Registro de Contrato, motivo pelo qual não cabe aqui analisar a legalidade desses encargos.
+Recurso especial conhecido em parte e improvido .
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de recurso especial interposto por ROSANGELA MARIA FREITAS DAVILA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que julgou demanda relativa a revisão de mútuo bancário.
+O julgado negou provimento ao recurso de apelação da recorrente nos termos da seguinte ementa (fl. 247):
+REVISIONAL C. C. REPETIÇÃO DE INDÉBITO. CONTRATO BANCÁRIO. Capitalização de juros. Inocorrência. Parcelas com valores fixos. Regularidade de eventual emprego da Tabela "Price". IOF. Admissibilidade da cobrança. Precedente do STJ em incidente de recurso repetitivo. Comissão de permanência, Tarifa de Abertura de Crédito, Tarifa de Emissão de Carnê e Tarifa de Registro de Contrato. Cobranças não comprovadas. Contrato juntado aos autos que não prevê esses encargos. RECURSO DESPROVIDO.
+Sem embargos de declaração.
+No presente recurso especial, a recorrente sustenta a ilegalidade da capitalização de juros e da aplicação da Tabela Price no contrato de financiamento bancário, além da abusividade na cobrança de tarifas, como Tarifa de Cadastro, Serviço de Terceiros e Seguro.
+Alega violação dos seguintes dispositivos legais:
+(a) art. 4º do Decreto-Lei n. 22.626/1933, que proíbe a cobrança de juros sobre juros;
+(b) Súmula 121 do STF, segundo a qual é vedada a capitalização de juros, ainda que expressamente convencionada;
+(c) art. 6º, III, do Código de Defesa do Consumidor, que prevê o direito básico do consumidor;
+(d) art. 42 do Código de Defesa do Consumidor, que assegura ao consumidor a repetição do indébito em dobro nos casos de cobrança indevida; sustenta a impossibilidade de cobrança do IOF, Tarifa de Cadastro, Serviço de Terceiros e Seguro;
+(e) art. 51 do CDC, que estabelece a nulidade de pleno direito das cláusulas contratuais abusivas.
+A recorrente argumenta, ainda, que o IOF, embora devido, foi indevidamente capitalizado, resultando na incidência de juros sobre juros e na diluição do encargo nas parcelas.
+Não foram apresentadas as contrarrazões (fl. 266). Sobreveio o juízo de admissibilidade positivo da instância de origem (fls. 284-286).
+É, no essencial, o relatório.
+EMENTA
+CONSUMIDOR. FINANCIAMENTO BANCÁRIO DE VEÍCULO. JUROS REMUNERATÓRIOS. ANATOCISMO. POSSIBILIDADE. VIOLAÇÃO DE SÚMULA. IMPOSSIBILIDADE. SÚMULA 518/STJ. INCIDÊNCIA. TABELA PRICE. SÚMULA 7/STJ.
+1. Não é cabível recurso especial com fundamento em violação de enunciado de súmula, pois este não se enquadra no conceito de lei federal para os fins previstos no apelo nobre. Aplica-se, portanto, a Súmula 518 do STJ.
+2. A cobrança de juros sobre juros não é ilegal, desde que expressamente pactuada entre as partes. Esse entendimento está consolidado no Tema Repetitivo n. 953/STJ: "A cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação".
+3. Na linha dos julgados desta Corte, a verificação da capitalização de juros decorrente da aplicação da Tabela Price envolve matéria fática, cujo reexame é vedado em recurso especial, nos termos da Súmula 7 do STJ (AgInt no REsp n. 1.874.678/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023).
+4. Quanto à alegada abusividade das tarifas cobradas, o acórdão recorrido, soberano na análise dos fatos e das provas, consignou a ausência de comprovação nos autos da cobrança de Comissão de Permanência, de Tarifa de Abertura de Crédito, de Tarifa de Emissão de Carnê e de Tarifa de Registro de Contrato, motivo pelo qual não cabe aqui analisar a legalidade desses encargos.
+Recurso especial conhecido em parte e improvido .
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O recurso não prospera.
+Noticiam os autos que a recorrente firmou contrato de financiamento de veículo no valor de R$ 7.000,00, a ser pago em 48 parcelas fixas de R$ 324,02, com juros remuneratórios pré-fixados de 2,7431% ao mês e 38,3664% ao ano.
+O TJSP afastou a alegação de capitalização de juros, pois entendeu que os juros já estavam embutidos nas parcelas e não eram aplicados de forma composta. O acórdão recorrido validou a cobrança do IOF e consignou a inexistência de prova quanto à cobrança de outras tarifas questionadas. Eis os termos do acórdão (fls. 248-249):
+Em relação à capitalização de juros, verifica-se que esta não restou demonstrada.
+A autora firmou com a instituição financeira contrato de financiamento de veículo, no valor de R$ 7.000, a ser pago em 48 parcelas fixas de R$ 324,02, com juros remuneratórios pré-fixados no patamar de 2,7431 % ao mês e 38,3664 % ao ano (fl. 22).
+Saliente-se que, em se tratando de financiamentos de valores fixos, por prazos determinados, o consumidor sabe, de antemão, no momento da formalização do contrato, qual o valor exato de cada prestação, bem como os encargos assumidos. Assim, por simples cálculo aritmético seria possível se descobrir o quantum total dos encargos cobrados pela instituição financeira.
+Desta feita, não há que se falar "in casu", em capitalização de juros. Isto porque, em sendo pré-fixados, não haveria a possibilidade de sobra de juros para o mês subsequente, na medida em que tais juros já estão embutidos em cada parcela a ser paga.
+No que tange à Tabela Price, mesmo que seja utilizada para o cálculo do saldo devedor, deve ficar consignado que seu emprego não implica capitalização de juros, consistindo em critério de amortização de dívida em prestações periódicas, cada uma sendo composta de duas parcelas distintas: uma de juros e outra de capital (chamada amortização). A parcela de juros é obtida multiplicando-se a taxa prevista pelo saldo devedor existente. E a parcela de amortização é determinada pela diferença entre o valor da prestação e o valor da parcela de juros.
+Em relação às tarifas cobradas, deve ser observada orientação do STJ em incidente de recurso repetitivo previsto no art. 543-C do CPC, no R Esp 1251331, relatora Ministra Isabel Galloti, onde ficou definido que:
+"1. Nos contratos bancários celebrados até 30.4.2008 (fim da vigência da Resolução CMN 2.303/96) era válida a pactuação das tarifas de abertura de crédito (TAC) e de emissão de carnê (TEC), ou outra denominação para o mesmo fato gerador, ressalvado o exame de abusividade em cada caso concreto;
+2. Com a vigência da Resolução CMN 3.518/2007, em 30.4.2008, a cobrança por serviços bancários prioritários para pessoas físicas ficou limitada às hipóteses taxativamente previstas em norma padronizadora expedida pela autoridade monetária. Desde então, não mais tem respaldo legal a contratação da Tarifa de Emissão de Carnê (TEC) e da Tarifa de Abertura de Crédito (TAC), ou outra denominação para o mesmo fato gerador. Permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre o consumidor e a instituição financeira; 3. Podem as partes convencionar o pagamento do Imposto sobre Operações Financeiras e de Crédito (IOF) por meio de financiamento acessório ao mútuo principal, sujeitando-o aos mesmos encargos contratuais." (R Esp 1251331. Julgado em 28/08/2013. Órgão julgador: Segunda Seção. Ministra: Maria Isabel Gallotti). (g. n.).
+Dessa forma, deve ser mantida a obrigação da autora de arcar com o IOF (fl. 22).
+Por sua vez, não há comprovação nos autos da cobrança de Comissão de Permanência, de Tarifa de Abertura de Crédito, de Tarifa de Emissão de Carnê e de Tarifa de Registro de Contrato, motivo pelo qual não cabe aqui analisar a legalidade desses encargos.
+Inicialmente, no tocante à apontada violação da Súmula 121/STF, registra-se que não cabe recurso especial alegando desrespeito a enunciado de súmula, visto que tal normativo não se enquadra no conceito de lei federal, para interposição do apelo nobre.
+Assim, incide o óbice da Súmula 518/STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Com relação à capitalização de juros, a recorrente sustenta que houve capitalização indevida de juros e que a aplicação da Tabela Price implicaria anatocismo. Entretanto, a cobrança de juros sobre juros não é ilegal, desde que expressamente pactuada entre as partes. Esse entendimento está consolidado no Tema Repetitivo n. 953/STJ: "A cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação".
+No que se refere à Tabela Price, o Tribunal de origem concluiu que o método de amortização não implica, por si só, a capitalização de juros, pois as parcelas são compostas por valores fixos, com parcelas distintas de amortização e juros. Nesse sentido, a jurisprudência do STJ tem se manifestado no sentido de que a análise da incidência de juros capitalizados demanda o reexame do acervo fático-probatório, o que encontra óbice na Súmula 7 do STJ.
+Na linha dos julgados desta Corte, a verificação da capitalização de juros decorrente da aplicação da Tabela Price envolve matéria fática, cujo reexame é vedado em recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido, cito:
+CIVIL E PROCESSO CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO PARTICULAR DE ABERTURA DE CRÉDITO PARA CONSTRUÇÃO DE UNIDADE HABITACIONAL. AÇÃO REVISIONAL. 1. JUROS REMUNERATÓRIOS. APLICAÇÃO DA TAXA NOMINAL EM DECORRÊNCIA DO AFASTAMENTO DA CAPITALIZAÇÃO. REFORMATIO IN PEJUS. NÃO CARACTERIZAÇÃO. 2. DESERÇÃO DA APELAÇÃO INTERPOSTA PELOS AUTORES. NÃO OCORRÊNCIA. 3. LEGALIDADE DA CAPITALIZAÇÃO DOS JUROS E DA INCIDÊNCIA DA TABELA PRICE. MATÉRIA FÁTICA. SÚMULA N.º 7 DO STJ. 4. MAJORAÇÃO PREVISTA NO ART. 85, § 11, CPC. NÃO CABIMENTO. 5. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A determinação de aplicação da taxa de juros nominal foi um efeito da exclusão da capitalização, matéria esta amplamente debatida na apelação e no acórdão, afastando, por completo, a tese de ocorrência de reformatio in pejus.
+2. Quando o recurso é interposto no último dia do prazo, após o encerramento do expediente forense, é possível o recolhimento do preparo no dia subsequente.
+3. A existência ou não de juros capitalizados em virtude da utilização da Tabela Price constitui matéria fática cuja análise esbarra na Súmula n.º 7 do STJ.
+4. Não é o caso de incidência da majoração prevista no art. 85, § 11, do CPC, porque o recurso especial foi interposto pelos próprios réus, estando ausentes os requisitos para sua implementação.
+5. Não se pode conhecer do dissídio jurisprudencial porque não realizado o necessário cotejo analítico entre os julgados trazidos a confronto.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.874.678/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/6/2023, DJe de 28/6/2023)  Grifo meu.
+Quanto ao IOF, o acórdão recorrido reafirmou sua regularidade, destacando que a cobrança do tributo foi pactuada e que o financiamento do imposto é permitido. Assim, descabe a esta Corte Superior rever cláusulas contratuais para averiguar a pactuação entre as partes.
+Quanto à alegada abusividade das tarifas cobradas, o acórdão recorrido, soberano na análise dos fatos e das provas, consignou a ausência de comprovação nos autos da cobrança de Comissão de Permanência, de Tarifa de Abertura de Crédito, de Tarifa de Emissão de Carnê e de Tarifa de Registro de Contrato, motivo pelo qual não cabe aqui analisar a legalidade desses encargos.
+Desse modo, a alteração das conclusões a que chegaram as instâncias ordinárias demandaria o reexame do acervo fático-probatório dos autos, inviável em recurso especial em razão do óbice da Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso e nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para R$ 900,00, observada eventual concessão de gratuidade de justiça.
+É como penso. É como voto.
