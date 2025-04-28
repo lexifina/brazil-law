@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRIBUIÇÃO AO SAT. ADICIONAL. ACÓRDÃO REGIONAL. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. O recurso especial não é remédio processual adequado para revisar acórdão respaldado em fundamentação de índole constitucional.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno manejado por EMBRAER S.A. contra decisão de minha lavra, às e-STJ fls. 3.494/3.499, em que não conheci do recurso especial em razão do acórdão recorrido estar amparado em fundamentação constitucional, insuscetível de exame pelo STJ.
+Em suas razões (e-STJ fls. 3.503/3.511), a agravante alega, em resumo, que "o fundamento do Tribunal de origem não foi a aplicação do precedente do STF, mas sim a analogia, o uso do seu racional, para interpretar a legislação infraconstitucional que rege a incidência da Contribuição" (e-STJ fl. 3.507), acrescentando que o STJ já teria examinado a questão e adotou a orientação de que, uma vez comprovada a eficácia do equipamento do proteção individual (EPI), fica afastado o direito à aposentadoria especial, o que, por consequência, também afastaria o pagamento do adicional à contribuição ao SAT.
+Requer, ao final, o sobrestamento do feito para que se aguarde o julgamento do Tema repetitivo 1.090 do STJ ("Saber se a anotação positiva no Perfil Profissiográfico Previdenciário (PPP) quanto ao uso do Equipamento de Proteção Individual (EPI) eficaz comprova o afastamento da nocividade da exposição aos agentes químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física").
+Impugnação apresentada às e-STJ fls. 3.516/3.526).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRIBUIÇÃO AO SAT. ADICIONAL. ACÓRDÃO REGIONAL. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. O recurso especial não é remédio processual adequado para revisar acórdão respaldado em fundamentação de índole constitucional.
+2. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece acolhimento.
+Consoante assentado na decisão agravada, o recurso especial origina-se de ação anulatória de débito tributário, em que se busca desconstituir crédito previdenciário relativo ao adicional de contribuição ao SAT, a qual foi julgada procedente.
+O TRF da 3ª Região, ao examinar a apelação da Fazenda Nacional, deu-lhe provimento, por meio de decisão monocrática do relator, cuja confirmação pelo Colegiado, no exame do agravo interno, deu-se nos seguintes termos (e-STJ fls. 3.156/3.162):
+A decisão agravada firmou-se, em primeiro lugar, no entendimento de que o benefício especial e o adicional ao SAT, previsto no art. 57, §6º, da Lei 8.213/91, por mais que estejam relacionados, não são vinculados, requerendo diferentes condições fáticas de existência. Assim sendo, todos aqueles que tenham a seu serviço, empregados ou avulsos expostos a agentes nocivos, constantes do Anexo IV, do Decreto nº 3.048/1999, nas condições estipuladas na legislação como conducentes à aposentadoria especial, são obrigados ao recolhimento do adicional para o custeio do referido benefício.
+Não obstante, referida decisão ainda consignou que, mesmo que se considerasse que a concessão do benefício especial e a exigência da contribuição adicional fossem vinculadas, a autora não logrou comprovar, nos presentes autos, a neutralização total dos agentes nocivos a que estão submetidos seus empregados.
+É justamente nesta subsidiária razão de decidir que reside a irresignação da agravante. Esta sustenta que o quanto firmado no ARE 664.335/SC foi aplicado de maneira equivocada ao presente caso, uma vez que no âmbito da legislação trabalhista, a "neutralização" da insalubridade se dá através da utilização de equipamentos de proteção individual ao trabalhador que diminuam a intensidade do agente agressivo a limites de tolerância, o que teria ocorrido no caso em tela, tendo em conta a perícia judicial realizada.
+Ou seja, infere a agravante que por "neutralização do agente agressivo" devemos entender "diminuição da intensidade do agente a limites de tolerância", conforme prevê o art. 191, da CLT, e não redução de 100% das condições adversas, afirmando, assim, ter sido este o entendimento consolidado no ARE 664.335/SC.
+Entretanto, veja-se o quanto sedimentado quando do julgamento do ARE 664.335/SC, pelo C. Supremo Tribunal Federal:
+(..)
+Reitere-se que entende este julgador que as condições de existência para concessão do benefício especial não são as mesmas deste tributo. Nesse sentido, verifica-se que o ARE nº 664.335/SC diz respeito exclusivamente às possibilidades de concessão do benefício especial.
+Entretanto, ainda que se entendesse o contrário, não assistiria razão à agravante. Senão, veja-se.
+Deveras, o paradigma em questão levou em consideração o caso concreto do agente nocivo "ruído" para exame do tema. Entretanto, as balizas de análise do agente, estabelecidas no referido julgamento, devem ser analogamente aplicadas a todos os agentes agressivos a que se pretende investigar a insalubridade.
+No caso representativo do ruído, entendeu o C. STF que, ainda que não sejam verificados danos efetivos relacionados à perda das funções auditivas através do uso do protetor auricular, a potência do som em tais ambientes causa danos ao organismo que vão além destes.
+Assim, na hipótese de trabalhadores submetidos à exposição de agentes agressivos em limites superiores aos legais, restou consignado que ainda que se constate que o uso de Equipamento de Proteção Individual possa reduzir a agressividade a um nível tolerável, até no mesmo patamar da normalidade, é possível que ainda existam danos colaterais que vão muito além do dano objetivo causado pelo agente em questão.
+Pois bem.
+Nessa perspectiva, entendo que, no caso em tela, a agravante não logrou comprovar que o uso de EPI é suficiente para "descaracterizar completamente a relação nociva a que o empregado se submete".
+Sustenta a agravante que o i. perito judicial consignou que "com a utilização de equipamentos de proteção individual que diminuíram a intensidade do agente agressivo a limites de tolerância, conforme preconizam os termos do Artigo 191, itens I e II da CLT".
+Com efeito, a condição de imparcialidade e equidistância de que goza o perito designado pelo juízo, contribuem, sobremaneira, para a formação da convicção do magistrado, sabedor de que as informações contidas no laudo oficial não se prestam a favorecer nenhuma das partes envolvidas na lide.
+No entanto, é essencial que as informações trazidas pelo experto sejam analisadas tendo em consideração demais elementos do caso concreto. Assim, se por um lado a perícia judicial realizada consignou que os agentes agressivos em questão, quais sejam, cromato de estrôncio, vibração e radiação ionizante, através do uso de EPI, foram reduzidos a limites de tolerância, de outro lado, entendo que os danos colaterais pela exposição dos empregados a tais agentes não foram exaustivamente estudados pela perícia.
+Tendo como exemplo a vibração, não é possível assumir que o uso de luvas de proteção, per se, anule todos os danos causados pelo referido agente. Pela utilização do EPI, há uma redução dos danos, entretanto, a vibração de alta intensidade não deixa de existir. O empregado continua exposto ao agente.
+Assim, entendo que não há tecnologia atualmente disponível a estimar de maneira definitiva se as possíveis doenças vasculares, neurológicas e musculares, decorrentes da exposição à alta vibração, são efetivamente eliminadas com o mero uso de EPI.
+O mesmo ocorre com os demais agentes em questão. A exposição a cromato de estrôncio e a radiação ionizante permanece. Ainda que reduzido seu potencial lesivo aos limites legais de tolerância, os empregados continuam expostos a tais agentes, submetidos a condições especiais de trabalho.
+Ainda neste diapasão, temos que o meio ambiente do trabalho está inserido na gama de bens jurídicos tutelados pelo Direito Ambiental, sendo aplicáveis, in casu, seus princípios.
+O bem ambiental no trabalho envolve a vida do trabalhador. Assim, diante da incerteza quanto ao desrespeito a este bem, deve-se primar pelo princípio da precaução. Este despontou como o norte do direito ambiental, tendo relevância cada vez maior, inclusive no que diz respeito ao meio ambiente do trabalho.
+Assim, tendo a perícia apenas analisado a redução da exposição dos agentes agressivos a níveis de tolerância, entendo que não houve comprovação suficiente para descaracterizar completamente a relação nociva a que o empregado se submete.
+Ante o exposto, voto por manter a decisão agravada pelos seus próprios fundamentos.
+Diante do exposto, voto por negar provimento ao agravo interno.
+Pois bem.
+Conforme registrado no julgado ora combatido, o Tribunal regional, ao decidir, amparou-se exclusivamente nos fundamentos adotados pelo STF no julgamento do ARE 664.335/SC, adotando tese exclusivamente de direito, sem nem sequer considerar as condições e/ou potencial das EPIs oferecidas aos empregados da ora agravante, no sentido de que "o paradigma em questão  ARE 664.335/SC  levou em consideração o caso concreto do agente nocivo "ruído" para exame do tema. Entretanto, as balizas de análise do agente, estabelecidas no referido julgamento, devem ser analogamente aplicadas a todos os agentes agressivos a que se pretende investigar a insalubridade" (e-STJ fl. 3.161).
+Assim, a constatação de que, no acórdão recorrido, houve adoção de justificativa de caráter eminentemente constitucional impede o exame da temática por esta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO. PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. ADICIONAL AO SEGURO DE ACIDENTE DO TRABALHO - SAT. LEI 9.732/1998. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. COMPETÊNCIA STF. INEXISTÊNCIA DE ILEGALIDADE.
+1. A alegação genérica de violação do art. 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. Quanto à possibilidade de acréscimo de alíquota da contribuição ao SAT para o financiamento da aposentadoria especial, segundo se observa dos fundamentos que serviram de arrimo para a Corte de origem apreciar a controvérsia, a matéria foi dirimida no âmbito constitucional, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde da controvérsia.
+Agravo interno desprovido.
+(AgInt no AREsp n. 879.853/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 16/8/2016, DJe de 23/8/2016.)
+Vale ressaltar, ainda nesse ponto, que o óbice citado impede também o conhecimento do recurso pela divergência jurisprudencial invocada (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Em atenção às alegações da agravante, no tocante ao sobrestamento do feito em razão da afetação do Tema 1.090 do STJ, vale destacar que a delimitação da questão jurídica posta não abarca os reflexos tributários da tese eventualmente adotada, o que demonstra a ausência de similitude entre o caso dos autos e aquele a ser enfrentado no referido tema repetitivo.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
