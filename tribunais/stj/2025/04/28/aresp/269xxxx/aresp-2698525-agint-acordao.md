@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA 83 DESTA CORTE. PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial, ao fundamento de que a parte agravante não impugnou, de forma específica, todos os óbices indicados na decisão de inadmissibilidade do recurso especial, em especial a aplicação da Súmula 83/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o agravo interno atende ao princípio da dialeticidade recursal, ao impugnar de maneira específica e suficiente todos os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC.
+III. RAZÕES DE DECIDIR
+3. O princípio da dialeticidade recursal exige que a parte recorrente impugne, de forma específica e pormenorizada, todos os fundamentos da decisão agravada, sob pena de inadmissibilidade do recurso.
+4. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a decisão de inadmissibilidade do recurso especial não possui capítulos autônomos, mas um único dispositivo, sendo imprescindível a impugnação integral de seus fundamentos.
+5. A ausência de impugnação específica justifica o não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do STJ, bem como pela incidência, por analogia, da Súmula 182/STJ.
+6. No caso concreto, o agravante não apresentou argumentos capazes de afastar os fundamentos da decisão recorrida, limitando-se a alegações genéricas, o que inviabiliza o provimento do recurso.
+IV. DISPOSITIVO
+7. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão proferida pelo Presidente do Superior Tribunal de Justiça, que inadmitiu o agravo em recurso especial interposto.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada não se manifestou.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO RECORRIDA. SÚMULA 83 DESTA CORTE. PRINCÍPIO DA DIALETICIDADE RECURSAL. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO PROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que não conheceu do agravo em recurso especial, ao fundamento de que a parte agravante não impugnou, de forma específica, todos os óbices indicados na decisão de inadmissibilidade do recurso especial, em especial a aplicação da Súmula 83/STJ.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar se o agravo interno atende ao princípio da dialeticidade recursal, ao impugnar de maneira específica e suficiente todos os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC.
+III. RAZÕES DE DECIDIR
+3. O princípio da dialeticidade recursal exige que a parte recorrente impugne, de forma específica e pormenorizada, todos os fundamentos da decisão agravada, sob pena de inadmissibilidade do recurso.
+4. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que a decisão de inadmissibilidade do recurso especial não possui capítulos autônomos, mas um único dispositivo, sendo imprescindível a impugnação integral de seus fundamentos.
+5. A ausência de impugnação específica justifica o não conhecimento do agravo em recurso especial, nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno do STJ, bem como pela incidência, por analogia, da Súmula 182/STJ.
+6. No caso concreto, o agravante não apresentou argumentos capazes de afastar os fundamentos da decisão recorrida, limitando-se a alegações genéricas, o que inviabiliza o provimento do recurso.
+IV. DISPOSITIVO
+7. Agravo interno não provido.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão colegiada:
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ, Súmula 83/STJ e Súmula 735/STF.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, III, d o CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, V, c/c o art. 253, parágrafo único, I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do Agravo em Recurso Especial."
+Com efeito, a legislação processual estabelece, no art. 932, III e IV do Código de Processo Civil, a faculdade de o relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal.
+Cuida-se de inovação legal que reflete a já consagrada jurisprudência deste Superior Tribunal de Justiça, no sentido de que "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema." (Súmula 568 do STJ, aprovada pela Corte Especial em 16/03/2016)
+Dada a sólida fundamentação que respalda a atuação do relator, a redação do art. 1.021, §1º do Código de Processo Civil é clara no sentido de estabelecer que "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada."
+Há, assim, ônus imposto ao agravante que deseja ver reformada a decisão que impugna, no sentido de que as razões por ele invocadas sejam especificamente voltadas à integralidade dos fundamentos trazidos pela decisão recorrida e, ainda, que sejam aptas a desconstituir, de maneira contundente, os argumentos que sustentaram a decisão atacada.
+O não atendimento a tais requisitos importa, via de consequência, na manutenção do que decidido monocraticamente com base na inadmissibilidade manifesta ou na jurisprudência consolidada nesta corte, conforme se extrai dos seguintes precedentes:
+CIVIL. TÍTULO EXTRAJUDICIAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MONITÓRIA PARA COBRANÇA DE CHEQUES PRESCRITOS. IMPROCEDÊNCIA. MULTA EM PRIMEIROS EMBARGOS DECLARATÓRIOS. INTUITO PROTELATÓRIO. MERA INTERPOSIÇÃO DE RECURSO CABÍVEL NÃO ENSEJA LITIGÂNCIA DE MÁ-FÉ. PRECEDENTE. CONDIÇÃO DE CREDOR DO IMPUTADO QUE NEM SEQUER SE COADUNA COM A DE QUEM TEM INTUITO PROTELATÓRIO. AUSÊNCIA, ADEMAIS, DE IMPUGNAÇÃO AO FUNDAMENTO. DIALETICIDADE. SÚMULA Nº 283/STF, POR ANALOGIA. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, TAMBÉM PARCIALMENTE PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. O princípio da dialeticidade exige impugnação específica dos fundamentos da decisão recorrida, sendo que a ausência de enfrentamento direto aos argumentos autônomos justifica o não provimento do agravo, nos termos da Súmula nº 283 do STF, aplicada por analogia.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.475.471/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE AFASTOU A IMPENHORABILIDADE DE IMÓVEL E MANTEVE SUA EXPROPRIAÇÃO, BEM COMO INDEFERIU O PEDIDO DE NOVA AVALIAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL.
+1. Cumprimento de sentença em que foi proferida decisão afastando a impenhorabilidade do imóvel e mantendo sua expropriação, bem como indeferindo o pedido de nova avaliação.
+2. Agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da não impugnação do seguinte fundamento da decisão de inadmissibilidade: incidência da Súmula 7 do STJ.
+3. Consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão de inadmissão do recurso especial. Precedentes.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 2.494.296/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 11/11/2024, DJe de 26/11/2024.)
+Há, portanto, orientação clara e firme desta Terceira Turma no sentido de que, ausente impugnação específica dos fundamentos presentes na decisão recorrida, ou inexistente apresentação de fundamentação robusta e suficiente à desconstituição dos argumentos fáticos e jurídicos alvo da pretensão recursal, a parte recorrente não logrará êxito em sua pretensão.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a questão já foi enfrentada pela decisão recorrida, que analisou detidamente todas as questões jurídicas postas.
+Em atenção ao princípio da dialeticidade recursal, a impugnação da decisão agravada deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Observa-se que, no presente caso, embora o agravante aponte os óbices levantados como pretexto ao não acolhimento das suas razões, deixou de impugnar especificamente: Súmula 83 desta Corte.
+Dito mais claramente, a defesa não impugnou de maneira específica e suficiente os argumentos que sustentam a decisão agravada, do mesmo modo que não foram apresentados fatos novos ou elementos aptos a desconstituir a decisão impugnada, bem como não se demonstrou a inaplicabilidade dos julgados indicados pelas decisões que inadmitiram os recursos especiais ao presente caso, o que inviabiliza o conhecimento das insurgências.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA AO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou a alegada intempestividade do agravo em recurso especial e a aplicação da Súmula nº 115 desta Corte.
+2. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.634.826/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+Assim, não se mostra viável o conhecimento do recurso no aspecto.
+Ante o exposto, nego provimento ao agravo interno.
+Deixo de majorar os honorários recursais, posto que a providência é incabível na espécie.
+É o voto.
