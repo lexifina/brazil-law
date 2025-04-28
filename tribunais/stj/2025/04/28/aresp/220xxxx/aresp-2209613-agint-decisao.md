@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto EDER MACHADO SILVA da decisão proferida pelo Ministro Manoel Erhardt (Desembargador Convocado do TRF da 5ª Região), que não conheceu do seu agravo em recurso especial em razão da incidência da Súmula 182 do STJ (fls. 341/343).
+A parte agravante afirma que houve a impugnação específica da Súmula 211/STJ.
+Requer, ao final, a reconsideração da decisão agravada ou que o presente recurso seja submetido à turma competente.
+Com impugnação ao recurso (fls. 356/361).
+É o relatório.
+Diante das alegações da parte agravante, reconsidero a decisão agravada porque houve a devida impugnação do fundamento referente à incidência da Súmula 211/STJ. Veja-se trecho do agravo em recurso especial (fl. 322):
+III. I - Da não violação do enunciado na Súmula nº 211 - do Superior Tribunal de Justiça:
+Além da discussão fazer parte do próprio processo como um todo, especificadamente, nos Embargos Declaratórios opostos resta detalhadamente o levantamento da OMISSÃO, nos exatos termos da previsão contida no art. 1.022 - do Código de Processo Civil, justamente relacionada à prescrição respaldada pelo 6ª Turma Cível do TJMG; contrariando com os fatos, os fundamentos proferidos na respeitável decisão agravada.
+Aliás, no Acórdão pronunciado nos Embargos Declaratórios, a Turma que decidiu o recurso apontou claramente que: "O embargante sustenta que o acórdão se apresenta omisso quanto à alegação de que não ocorreram os efeitos da prescrição quinquenal (..)"; concluindo a seguir, para afirmar a inexistência de "qualquer dos defeitos do art. 1.022 do Código de Processo Civil", que: "A Turma Julgadora, por fundamentos claros, analisou todas as questões postas à sua apreciação".
+Assim, estando evidente que as questões debatidas foram opostas em Embargos Declaratórios e detalhadamente APRECIADAS pela Turma que julgou o mencionado recurso. Cabendo aqui apontar que, é a omissão debatida nos Embargos Declaratórios que constitui o bojo das normas infraconstitucionais apontadas como violadas no presente Recurso Especial; isso é: a violação do art. 4º - do Decreto nº 20.910/32 (explicitamente apontado); estando lógico o não preenchimento da prescrição, fato que levou à consequente violação do art. 487, II - do Código de processo Civil.
+Nesse sentido, resta claramente prequestionados os dispositivos apontados como violados - ainda que não referidos expressamente. Tendo sido todos objeto de debate pela Turma Julgadora; que determinou que com "fundamentos claros, analisou todas as questões postas à sua apreciação". Tudo exatamente como fundamentado no Recurso Especial apresentado. Não havendo que se falar em óbice no enunciado 211 da Súmula desse Superior Tribunal de Justiça.
+Por outro lado, verifica-se assim, ainda, que houve nas razões do Recurso Especial, apontamento de ofensa ao art. 1.022 - do Código de Processo Civil, o que permitiu ao Tribunal a quo o exame da ocorrência de omissão no Acórdão. Inclusive tendo apontado "o não reconhecimento da existência de fato suspensivo da prescrição", em flagrante violação do art. 4º  do Decreto-Lei nº 20.910/32. Deixando claro o apontamento da OMISSÃO das decisões recorridas, tudo nas exatas balizas da previsão legal.
+Logo, deve ser afastada a incidência da Súmula 182/STJ.
+Passo ao exame do recurso especial.
+O recurso especial foi interposto, com fundamento no art.  105,  inciso III,  alínea a, da Constituição Federal, do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (fl. 262):
+REMESSA NECESSÁRIA / APELAÇÃO CÍVEL - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS PROPOSTA CONTRA A FAZENDA PÚBLICA - RECONHECIMENTO DA PRESCRIÇÃO QUINQUENAL - DECRETO Nº20.910/32 - SENTENÇA REFORMADA.
+- Tratando-se de ação proposta contra a Fazenda Pública, independentemente de sua natureza, aplica-se o disposto previsto no alt. 1º do Decreto nº 20.910/32 (prescrição quinquenal).
+- Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 289/293).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 4º do Decreto-Lei 20.910/1932 e 487, II, do Código de Processo Civil (CPC). Sustenta, em síntese, que a demora da Administração Pública em responder aos seus requerimentos administrativos configura fato suspensivo da prescrição.
+Na origem, trata-se de ação cautelar de exibição de documentos proposta pelo ora recorrente contra o Estado de Minas Gerais, objetivando a exibição de documentos referentes ao Curso de Formação de Oficiais da Polícia Militar de Minas Gerais, realizado no ano de 1999.
+O Tribunal de origem, ao decidir a lide, apresentou os seguintes fundamentos (fls. 263/264):
+Em se tratando a parte ré de Fazenda Pública, aplica-se o disposto previsto no art. 1º do Decreto nº 20.910/32, segundo o qual "todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem."
+Nessa linha, proposta a presente ação cautelar em 25/08/14 (fI. 02v), e objetivando o apelado a exibição de documentos referentes ao Curso de Formação de Oficiais da PMMG realizado no ano de 1999 (fls. 03 e 09), remanesce caracterizada a prescrição quinquenal do direito de propor a demanda (fls. 263/264).
+Em seu recurso, a parte recorrente apontou como violados os arts. 4º do Decreto-Lei 20.910/1932 e 487, II, do Código de Processo Civil (CPC), sob a tese de que a demora da Administração Pública em responder aos seus requerimentos administrativos configura fato suspensivo da prescrição.
+O acórdão recorrido, entretanto, não decidiu a causa por meio da aplicação dos dispositivos legais tidos por violados ou sob o viés pretendido pela parte recorrente . Essa circunstância revela a ausência de prequestionamento, a impedir o conhecimento do recurso especial nos termos da Súmula 282 do Supremo Tribunal Federal (STF), aplicada por analogia.
+É importante registrar que o caso dos autos não é o de prequestionamento ficto, a que se refere o art. 1.025 do Código de Processo Civil (CPC), por não ter sido apontada nas razões do recurso especial a ocorrência de violação ao art. 1.022, II, do CPC, elemento imprescindível para, em tese, ser apurada nesta instância eventual omissão existente no acórdão recorrido e, em decorrência disso, ser reconhecido o prequestionamento ficto.
+A Primeira Turma deste Tribunal já decidiu o seguinte:
+"Nos termos da orientação consolidada neste Superior Tribunal, para a configuração do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, impõe-se que se alegue, nas razões do recurso especial, violação ao art. 1.022, II, do mesmo estatuto processual, apontando-se, de forma clara, objetiva e devidamente fundamentada, a omissão acerca da matéria impugnada, o que não ocorreu" (AgInt no REsp n. 2.054.046/SC, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 14/8/2023, DJe de 16/8/2023).
+Ainda no mesmo sentido, cito estes outros julgados da Primeira Turma:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESMORONAMENTO DE IMÓVEL VIZINHO. RISCO DE DESABAMENTO. ART. 70 DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem não examinou a tese recursal sob o enfoque pretendido, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Assim, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+2. Este Superior Tribunal firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017).
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.072.402/BA, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 5/12/2022, DJe de 7/12/2022.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VÍCIO DE INTEGRAÇÃO. INDICAÇÃO PORMENORIZADA. AUSÊNCIA. PREQUESTIONAMENTO FICTO. INOCORRÊNCIA. FATO NOVO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+3. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.074.550/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+Ante o exposto, reconsidero a decisão de fls. 341/343 para conhecer do agravo e não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
