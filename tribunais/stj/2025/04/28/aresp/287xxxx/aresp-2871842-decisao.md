@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por LEONARDO DE FREITAS COSTA e outros contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 91):
+Agravo de instrumento. Execução de título extrajudicial. Penhora. Bens móveis que guarnecem a residência. Devedor. Impenhorabilidade relativa. Ausência de efetividade. Caso concreto. Exceção. Medidas diversas já realizadas.
+1. A impenhorabilidade dos bens que guarnecem a residência do devedor não é absoluta em razão da possibilidade de existirem bens em duplicidade, adornos suntuosos e obras de arte passíveis de constrição (CPC, art. 833, II). Precedentes deste Tribunal.
+2. Todavia, não há justo motivo para a realização da medida quando os autos demonstrarem a falta de elementos mínimos de efetividade, especialmente quando já existirem outros atos de constrição já deferidos, como por exemplo, a penhora de parte da remuneração mensal do devedor.
+3. Recurso conhecido e não provido.
+Embargos de declaração foram opostos contra o acórdão recorrido, sendo rejeitados e imposta a condenação de multa no valor correspondente a 0,5% do valor atualizado da causa (fls. 133-136).
+Nas razões do recurso especial, a parte recorrente alega que o acórdão recorrido violou os arts. 833, II, 836, § 1º, 1.022 e 1.026, § 2º, todos do CPC/2015.
+Quanto à suposta ofensa ao art. 1.022 do CPC/2015, sustenta que o Tribunal de origem deixou de analisar tese relevante e suficiente para infirmar a conclusão do acórdão recorrido, especialmente sobre a insuficiência da penhora de parte da remuneração do executado em razão de sua idade.
+Argumenta, também, a violação aos arts. 833, II, e 836, § 1º, do CPC/2015, uma vez que o Tribunal de origem indeferiu a expedição de mandado de penhora sem permitir a avaliação dos bens pelo oficial de justiça.
+Além disso, teria violado o art. 1.026, § 2º, do CPC/2015, ao não reconhecer que os embargos de declaração foram opostos com intuito de prequestionamento, não possuindo caráter protelatório.
+Alega que a jurisprudência do STJ afasta a multa em embargos de declaração com notório propósito de prequestionamento, o que teria sido demonstrado, no caso, por precedentes citados.
+O recurso especial não foi admitido com base nos seguintes fundamentos: (i) inexistência de violação ao art. 1.022 do CPC/2015, e (ii) a análise de violação aos arts. 833, II, 836, § 1º, e 1.026, § 2º, do CPC/2015 demandaria o reexame da matéria fático-probatória, o que encontraria óbice na Súmula 7/STJ (fls. 184-185).
+Nas razões do seu agravo, a parte agravante impugna os fundamentos da decisão de admissibilidade, alegando que o recurso especial reunia todos os requisitos para seu processamento e provimento.
+Contraminuta não apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+O recurso não merece provimento.
+Trata-se de agravo de instrumento interposto por LEONARDO DE FREITAS COSTA e outros contra decisão que indeferiu a expedição de mandado de penhora dos bens que guarnecem a residência do devedor, sob o argumento de impenhorabilidade e ausência de elementos mínimos de efetividade.
+Os recorrentes alegam que a penhora de parte da remuneração do devedor não seria suficiente para a satisfação do crédito, justificando a necessidade de penhora de outros bens.
+O Tribunal de origem conheceu e negou provimento ao agravo de instrumento, confirmando a decisão agravada consignando que: (i) não há vedação à penhora de bens móveis e de utilidades domésticas que guarnecem a residência, desde que sejam de elevado valor ou que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida; e (ii) diante das diligências já realizadas; do deferimento da penhora mensal de 10% da remuneração do agravado - deduzidos os descontos obrigatórios - e da ausência de elementos mínimos de efetividade, não há justo motivo para a realização da medida. Confira-se:
+12. A penhora deve recair sobre tantos bens quantos bastem para o pagamento. No entanto, precisa obedecer a ordem e o rol de bens estipulados no art. 835 do CPC. Há certos bens que são considerados impenhoráveis pela legislação, dentre eles os móveis, os pertences e as utilidades domésticas que guarnecem a residência do devedor.
+ ..
+14. A jurisprudência deste Tribunal orienta que a impenhorabilidade dos bens que guarnecem a residência do devedor não é absoluta em razão da possibilidade de existir bens em duplicidade, adornos suntuosos e constrição de obras de arte. Precedentes: Acórdão nº 1848315, Acórdão nº 1406112 e Acórdão nº 1395308.
+15. Não há vedação à penhora de bens móveis e de utilidades domésticas que guarnecem a residência, desde que sejam de elevado valor ou que ultrapassem as necessidades comuns correspondentes a um médio padrão de vida (Lei 8.009/1990, art. 2º c/c CPC, art. 649, II).
+16. No caso concreto, entretanto, diante das diligências já realizadas; do deferimento da penhora mensal de 10% da remuneração do agravado - deduzidos os descontos obrigatórios - e da ausência de elementos mínimos de efetividade, não há justo motivo para a realização da medida  ..  (fls. 93-94).
+Da leitura do acórdão recorrido, verifica-se que o Tribunal de origem se manifestou, expressamente, sobre a ausência de elementos mínimos de efetividade para o deferimento da constrição dos bens móveis e de utilidade domésticas e que não há justo motivo para a realização da medida.
+Sendo assim, não há que se falar em omissão no tocante a esses pontos, nem, portanto, em violação ao art. 1.022 do CPC/2015.
+No que se refere à multa por embargos de declaração protelatórios, o pedido de afastamento merece ser acolhido porque a parte pretendia o esgotamento da instância ordinária e o prequestionamento dos temas recorridos.
+Consoante orientação desta Corte Superior, "a oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC de 2015 (art. 538, parágrafo único, do CPC de 1973), nos termos da Súmula 98/STJ" (AgInt no AREsp 1.684.291/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 31/8/2020, DJe 23/9/2020). Confira-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. OCORRÊNCIA. ALEGAÇÃO DE OMISSÃO. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES. AÇÃO DE COBRANÇA CUMPRIMENTO DE SENTENÇA ACOLHIMENTO DA IMPUGNAÇÃO DA EXECUTADA COM EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS FIXADOS SOBRE O VALOR DO CUMPRIMENTO DE SENTENÇA. MULTA ART. 1026, §2º, CPC. AFASTAMENTO. INTUITO DE PREQUESTIONAMENTO. SÚMULA 98/STJ. EMBARGOS ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+ ..
+8. Consoante orientação desta Corte Superior, "a oposição de embargos de declaração, com nítido fim de prequestionamento, não possui caráter protelatório, não ensejando a aplicação da multa prevista no art. 1.026, § 2º, do CPC de 2015 (art. 538, parágrafo único, do CPC de 1973), nos termos da Súmula 98/STJ" (AgInt no AREsp 1.684.291/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 31/8/2020, DJe 23/9/2020).
+9. Embargos de declaração acolhidos com efeitos infringentes, para conhecer do agravo a fim de dar provimento ao recurso especial.
+(EDcl no AgInt no AREsp 1.704.142/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 3/8/2021, DJe 25/8/2021)
+Com isso, afasto a multa por embargos de declaração protelatórios aplicada pelo Tribunal de origem.
+Na hipótese dos autos, a revisão das conclusões proferidas pelo Colegiado estadual demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Em face do exposto, conheço do agravo e dou parcial provimento ao recurso especial para a afastar a multa por embargos de declaração protelatório.
+Intimem-se.
+EMENTA
