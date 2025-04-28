@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA E DIFAMAÇÃO. CONDENAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. ENUNCIADO SUMULAR N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem, após minucioso exame do caderno probatório, concluiu pela inexistência de elementos concretos e coesos a ensejar a condenação do acusado pela prática dos delitos previstos nos arts. 139 e 140 do Código Penal.
+2. Para desconstituir essa conclusão - afirmar que o conjunto probatório apresentado é suficiente para comprovar o dolo e imputar os fatos criminosos ao acusado -, necessário seria o reexame das provas acostadas aos autos, o que é vedado pelo enunciado sumular n. 7 desta Corte.
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+HUGO LEONARDO VIDAL DE SOUZA ARAUJO agrava da decisão de fls. 565-570 em que conheci do agravo para não conhecer do recurso especial, ante a incidência do enunciado sumular n. 7 do STJ.
+Em suas razões, o agravante refuta a incidência do referido verbete sumular ao sustentar que as provas contidas nos autos são suficientes para embasar a condenação e que a análise do pleito defensivo independe de reapreciação de provas.
+Afirma que "não há dúvidas de que o agravado, por meio das mensagens enviadas ao agravante, incorreu dolosamente no suporte fático dos tipos penais de difamação e injúria, o que é comprovado pelas próprias provas produzidas durante o processo" (fl. 581).
+Requer a reconsideração do decisum ou a submissão do feito ao órgão colegiado, a fim de que seja conhecido e provido o recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA E DIFAMAÇÃO. CONDENAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. ENUNCIADO SUMULAR N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem, após minucioso exame do caderno probatório, concluiu pela inexistência de elementos concretos e coesos a ensejar a condenação do acusado pela prática dos delitos previstos nos arts. 139 e 140 do Código Penal.
+2. Para desconstituir essa conclusão - afirmar que o conjunto probatório apresentado é suficiente para comprovar o dolo e imputar os fatos criminosos ao acusado -, necessário seria o reexame das provas acostadas aos autos, o que é vedado pelo enunciado sumular n. 7 desta Corte.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+Não obstante os esforços perpetrados pelo agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Consta dos autos que o agravante ofereceu queixa-crime contra o réu imputando-lhe as condutas típicas de injúria e difamação. Ao fim da instrução, o acusado foi absolvido, com fundamento no art. 386, VII, do CPP (fls. 115-126).
+O Tribunal de origem, por sua vez, negou provimento à apelação do querelante e manteve a absolvição do acusado (fls. 239-281).
+A Corte estadual afastou a pretensão acusatória com amparo na seguinte fundamentação (fls. 260-266, grifei):
+O delito de difamação está tipificado no art. 139, do Código Penal, que dispõe:
+"Art. 139 - Difamar alguém, imputando-lhe fato ofensivo à sua reputação: Pena - detenção, de três meses a um ano, e multa."
+O referido crime consiste na imputação de fato ofensivo, verdadeiro ou falso, mas não definido como crime, que macula a reputação de uma pessoa, desacreditando-a no meio social.
+ ..
+No caso concreto, em que pese as alegações formuladas nas razões recursais, não foi possível inferir, a partir das provas produzidas nos autos, que o Apelado praticou os delitos tipificados nos arts. 139 e 140, do Código Penal.
+No processo penal, o decreto condenatório deve estar fundamentado em provas claras e indiscutíveis, não bastando a alta probabilidade acerca do cometimento do delito e de sua autoria. Havendo qualquer tipo de dúvida quanto aos fatos, ainda que mínima, deve ser aplicado o princípio do in dubio pro reo, pois a inocência é presumida até que se demonstre o contrário, mormente quando a acusação não produz provas capazes de ensejar a condenação.
+ ..
+Conforme narra a queixa-crime, o Apelado teria praticado, em tese, crime de difamação, ao enviar ao Querelante "texto supostamente produzido pelo Sindicato dos Eletricitários da Bahia (Sinergia/BA), no qual consta menção a um "suposto gerente terrorista". No texto atribuído ao Sindicato, não consta qualquer referência ao nome do Querelante. Contudo, o Querelado encaminha esse texto ao Querelante, com destaque para o trecho abaixo, associando-o, dessa forma, ao teor ofensivo do texto de autoria do Sindicato, tanto que destaca o seguinte trecho: "Na sede, não tem sido diferente. Há um gerente terrorista que abraça, beija os trabalhadores pela manhã, diz que são excelentes trabalhadores, mas, pela tarde do mesmo dia, demite, impiedosamente, sem justificativa""; extrai-se, ainda, da inicial acusatória, que o Querelado encaminhou ao Querelante texto ofensivo, com o seguinte teor: "que decepção da sua parte to decepcionado de fazer parte desse grupo. Vc dizia se não se não poder contar para sua mãe não farsa.. vc demitiu foi cúmplice de todos atos negativo".
+Em seu interrogatório, na fase judicial, o Querelado negou ter enviado as referidas mensagens, chegando a sugerir que uma outra funcionária (que passava por problemas psicológicos) poderia ter utilizado o seu aparelho celular para encaminhar os mencionados textos; disse, ainda, que não conhecia o Querelante e não tinha acesso ao seu número de telefone, até porque este último atuava em Salvador e o seu contato imediato era com os chefes Valdemir e Simone. Confira-se trecho do interrogatório - transcrito na sentença e reproduzido a seguir:
+ ..
+Na hipótese vertente, não restou suficientemente comprovado que o Apelado agiu com inequívoca vontade livre e consciente de macular a imagem e a reputação do Apelante perante a sociedade em que vive, reputando-se ausente o dolo específico consubstanciado no animus diffamandi, imprescindível para a configuração do delito em questão.
+Importa observar que as provas colhidas nos autos não comprovam a autoria do texto do Informativo do Sindicato dos Eletricitários da Bahia. Ademais, cumpre ressaltar que o mencionado texto não faz referência expressa ao Querelante. A mensagem subsequente - que teria sido, em tese, enviada pelo Querelado (por meio do aplicativo whatsapp) - possui o seguinte teor: "Bom dia que decepção da sua parte to decepcionado de fazer parte desse grupo. Vc dizia se não poder contar para sua mãe não farsa.. VC demitiu foi cúmplice de todos atos negativo. Mim chamo Vinicius UTD feira sul de feira de santana". Conforme consignou o Magistrado singular, não se extrai da aludida mensagem "nenhuma conotação viciosa que pudesse macular a honra objetiva do Querelante. Quiçá evidencia-se um animus criticandi ou narrandi, derivado da publicação sindical, sem a intenção de ofender";  ..  "o animus criticandi ou narrandi que se pode vislumbrar nas falas ditas difamatórias, traz incerteza quanto ao dolo, enquanto elemento subjetivo do tipo"; outrossim, "não se tem firmada a divulgação da mensagem de WhatsApp a terceiros", isto é, "a conduta traçada na peça vestibular acusa o Querelado de veicular mensagem ofensiva à honra do Querelante por aplicativo de mensagem de WhatsApp ao número de telefone pessoal do Querelante, sem indicação de exposição pública".
+Nesse ponto, vale transcrever trecho da sentença vergastada:
+ ..
+Já o crime de injúria - também imputado ao ora Apelado - previsto no art. 140, do Código Penal, é assim descrito:
+"Art. 140 - Injuriar alguém, ofendendo-lhe a dignidade ou o decoro: Pena - detenção, de um a seis meses, ou multa."
+Narra a queixa-crime que o Querelado proferiu ofensas criminosas direcionadas à honra subjetiva do Querelante, cujo enquadramento típico se relaciona ao delito de injúria; isto porque, o Querelado teria, em tese, dolosamente, chamado o Querelante de "terrorista", de "cúmplice", afirmando, expressamente, que "se não poder contar para sua mãe não farsa" (sic), a se interpretar que o Querelante seria o "protagonista de uma conduta vexatória, digna de reprovação".
+Na espécie, não restou suficientemente demonstrado o ânimo de injuriar. Havendo dúvida quanto ao dolo específico, impõe-se a manutenção da absolvição também com relação ao crime de injúria, em atenção ao princípio do in dubio pro reo. Ao proferir a sentença, concluiu o Magistrado a quo que: "Conquanto texto seja reprovável, não parece ter a intenção de injuriar, ofender a honra subjetiva do Querelante, ainda que o linguajar utilizado tenha sido inadequado, não se pode afirmá-lo relevante do ponto de vista penal, pois do contexto dos autos não é possível inferir que tenha sido veiculado o texto com a intenção de injuriar a vítima. Por outro lado, mais uma vez, diga-se que a versão defensiva é bastante verossímil no ponto em que o Querelado nega a autoria delitiva. Havia, por ocasião da mensagem, um desagrado de funcionários, pelas demissões efetivadas na UTD de Feira de Santana, Feira Sul, sendo possível que o aparelho de telefone do acusado tenha sido utilizado para o envio da mensagem sem seu conhecimento e autorização. Ao menos, a dúvida é lançada de modo coerente e plausível".
+Colaciona-se, a seguir, trecho do Parecer da douta Procuradoria de Justiça:
+ ..
+Desse modo, ante a inexistência de prova suficiente a formar o juízo de certeza necessário para a condenação, prudente se revela a manutenção da absolvição do Apelado das imputações relativas aos crimes de difamação e injúria.
+Na decisão agravada, asseverei que a Corte de origem, com esteio no conjunto fático-probatório, assentou que não há como imputar a autoria delitiva, com a certeza necessária, nem como concluir pela presença do dolo.
+Por essas razões, mostra-se inviável afastar a absolvição do réu, sobretudo se considerado que, no processo penal brasileiro, em consequência do sistema da persuasão racional, o juiz forma sua convicção pela livre apreciação da prova (art. 155 do CPP), o que o autoriza a, observadas as limitações processuais e éticas que informam o sistema de justiça criminal, decidir livremente a causa e todas as questões a ela relativas, mediante devida e suficiente fundamentação, exatamente como observado nos autos.
+Dessa forma, rever o entendimento manifestado no aresto impugnado, a fim de reconhecer a presença de dolo e condenar o acusado, tal como pretendido pelo agravante, demandaria o reexame de provas, providência vedada no recurso especial, a teor do enunciado sumular n. 7 do STJ, in litteris: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ilustrativamente, mutatis mutandis:
+ ..
+2. Nos termos do aresto combatido, a conduta volitiva apta à configuração do crime de calúnia adveio do considerado histórico beligerante do recorrente, que declarou anteriormente inimizade à vítima - juiz, já tendo representado contra ela, além de ter sido advertido dos exageros ocorridos em audiências anteriores. Assim, de fato, para se concluir de modo diverso, pela absolvição do recorrente por ausência de dolo específico, seria necessário o revolvimento fático-probatório, vedado conforme Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+ ..
+(AgRg no AREsp n. 2.235.253/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/5/2023, grifei)
+ ..
+1. Segundo a jurisprudência deste Superior Tribunal, para a configuração dos crimes previstos nos arts. 139 e 140, ambos do Código Penal - difamação e injúria -, é necessária a presença do elemento subjetivo do tipo, consistente no dolo específico, que é a intenção de ofender a honra alheia.
+2. As instâncias ordinárias, soberanas na análise dos fatos e provas, entenderam que as expressões utilizadas pela ré demonstram a presença do animus injuriandi, não havendo falar em ausência de dolo específico.
+ ..
+4. O pleito de absolvição por ausência de dolo específico importa o reexame de fatos e provas, providência inadmissível em sede de recurso especial, nos termos da Súmula 7/STJ.
+ ..
+(AgInt no REsp n. 1.548.520/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 22/6/2016, destaquei)
+Logo, reafirmo que não é viável, em recurso especial, desconstituir a conclusão alcançada no acórdão vergastado, uma vez que ficou expresso não haver provas suficientes para a condenação.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
