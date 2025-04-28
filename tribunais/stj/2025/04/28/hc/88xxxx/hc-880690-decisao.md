@@ -1,0 +1,14 @@
+DECISÃO
+O presente writ, impetrado em benefício de THIAGO DE SOUZA FRANCISCO - condenado como incurso no crime de tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SANTA CATARINA (Apelação Criminal n. 5015738-29.2022.8.24.0033), não comporta acolhimento.
+Busca a impetração a revisão da condenação imposta e mantida pelas instâncias ordinárias, na ação penal que tramitou perante o Juízo de Direito da 2ª Vara Criminal da comarca de Itajaí/SC, alegando possibilidade de absolvição do paciente em razão de condenação por conduta não descrita na denúncia, em violação do postulado da correlação entra a acusação e a sentença. Subsidiariamente, postula a correção da dosimetria da pena.
+Ocorre que, além de se tratar de writ utilizado como espécie de "segunda apelação criminal", o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois, acerca das questões suscitadas, a Corte estadual decidiu em conformidade com a jurisprudência do STJ, em especial, pois o princípio da congruência ou correlação, no processo penal, refere-se à necessidade de o magistrado decidir a lide dentro dos limites da denúncia ou da queixa, a fim de garantir ao acusado clareza e coerência acerca dos fatos a ele imputados. Por isso, o réu se defende dos fatos, e não da classificação jurídica da conduta a ele imputada (AgRg no AREsp n. 2.309.621/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 22/4/2025).
+No caso, sopesada a correspondência entre a exposição dos fatos narrados pelo Ministério Público em sua inicial acusatória e a sentença, não há falar em ofensa ao princípio da congruência.
+De outro lado, desconstituir as conclusões alcançadas pelo Tribunal a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada na via eleita.
+Mesma sorte deve recair sobre o pleito dosimétrico, tendo a Corte estadual destacado que a lesão sofrida pelo embargante durante a fuga e troca de tiros com os policiais, ocorreu em razão da tentativa dele e do corréu não identificado de assegurar a impunidade do transporte de entorpecentes (fl. 938), razão pela qual acertadamente afastada a hipótese do art. 66, do Código Penal.
+Por fim, também cabe à defesa, em observância ao princípio da cooperação,
+aplicável não só na seara cível, mas no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. WRIT UTILIZADO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. PRINCÍPIO DA CORRELAÇÃO. OBSERVÂNCIA. DOSIMETRIA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+Ordem denegada.
