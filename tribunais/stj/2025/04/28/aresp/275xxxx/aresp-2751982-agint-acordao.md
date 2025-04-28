@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  RESCISÓRIA.  REQUISITOS.  NÃO  DEMONSTRAÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  IMPUGNAÇÃO.  INSUFICIÊNCIA.  SÚMULA  Nº  283/STF.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  IMPOSSIBILIDADE.
+1.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+2.  A  subsistência  de  fundamento  não  impugnado  apto  a  manter  a  conclusão  do  aresto  recorrido  impõe  o  não  conhecimento  da  pretensão  recursal.  Súmula  nº  283/STF.
+3.  É  inviável  a  análise  de  violação  de  dispositivos  de  lei  não  prequestionados  na  origem.
+4.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  JACIRA  DE  MELO  contra  a  decisão  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  do  óbice  das  Súmulas  nºs  7/STJ  e  nº  283/STF  e  da  ausência  de  prequestionamento  na  origem  (e-STJ  fls.  556/559).
+Em  suas  razões,  a  agravante  afirma  que
+  "(..)  interpôs  recurso  especial  aduzindo  violação  ao  Art.  1º,  da  Lei  de  nº  8009/90,  sob  o  argumento  de  que  o  acórdão  resciendo  estabeleceu  requisito  não  inserido  na  Lei  de  nº  8009/90,  qual  seja  o  de  prova  de  moradia  permanente,  bem  como  o  de  prova  de  unicidade  do  bem"  (e-STJ  fl.  590).
+Aduz  ter  ocorrido  prequestionamento  acerca  do  tema  na  origem  e  que  as  Súmulas  nº  7/STJ  e  nº  283/STF  não  se  aplicam  à  espécie.
+Impugnação  às  e-STJ  fls.  603/610,  requerendo a  aplicação  de  multa  por  recurso  protelatório.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  RESCISÓRIA.  REQUISITOS.  NÃO  DEMONSTRAÇÃO.  REEXAME  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  IMPUGNAÇÃO.  INSUFICIÊNCIA.  SÚMULA  Nº  283/STF.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  IMPOSSIBILIDADE.
+1.  É  inviável  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  sem  a  análise  dos  fatos  e  das  provas  da  causa,  o  que  atrai  a  incidência  da  Súmula  nº  7/STJ.
+2.  A  subsistência  de  fundamento  não  impugnado  apto  a  manter  a  conclusão  do  aresto  recorrido  impõe  o  não  conhecimento  da  pretensão  recursal.  Súmula  nº  283/STF.
+3.  É  inviável  a  análise  de  violação  de  dispositivos  de  lei  não  prequestionados  na  origem.
+4.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Inicialmente,  registra-se,  por  oportuno,  a  fundamentação  do  tribunal  de  origem  ao  analisar  a  controvérsia:
+"(..)
+Em  outras  palavras,  é  a  ação  a  ser  ajuizada  com  a  finalidade  de  desconstituir  decisão  de  mérito  transitada  em  julgado.
+Como  é  sabido,  as  hipóteses  de  cabimento  da  Ação  Rescisória,  relacionadas  no  artigo  966  do  novo  Código  de  Processo  Civil,  são  taxativas,  não  admitindo  ampliação,  tampouco  interpretação  analógica  ou  extensiva.  Assim,  a  não  subsunção  do  fato  a  qualquer  das  circunstâncias  legais  impede  a  admissão  por  absoluta  ausência  de  interesse  processual  da  parte  autora.
+(..)
+Ademais,  sabe-se  que  a  Ação  Rescisória  tem  o  escopo  de  enfrentar  a  coisa  julgada  e  se  caracteriza  como  ação  excepcional  e  somente  tem  cabimento  nas  hipóteses  previstas  no  artigo  966  do  Código  de  Processo  Civil  vigente,  cujo  rol,  segundo  entendimento  do  Superior  Tribunal  de  Justiça,  é,  não  numerus  clausus  admitindo,  como  já  dito,  ampliação.  Dessa  sorte,  invocada  a  incidência  de  qualquer  das  hipóteses  legais,  cumpre  à  parte  autora  demonstrá-la  de  forma  precisa,  sendo  vedada  a  sua  utilização  como  sucedâneo  de  recurso  ou  para  rediscutir  a  questão  objeto  da  decisão  rescindenda.
+(..)
+No  caso  concreto,  a  autora,  ora  agravante,  fundamentou  o  pedido  nos  incisos  V  e  VIII  do  artigo  966  do  CPC,  que  autorizam  a  Ação  Rescisória  quando:  (inciso  V)  e/ou  "violar  manifestamente  norma  jurídica"  (inciso  VIII).  E  especificamente  "for  fundamentada  em  erro  de  fato  verificável  do  exame  dos  autos"  acerca  do  "erro  de  fato",  o  parágrafo  primeiro  esclarece  que  "há  erro  de  fato  quando  a  decisão  rescindenda  admitir  fato  inexistente  ou  quando  considerar  inexistente  fato  efetivamente  ocorrido,  sendo  indispensável,  em  ambos  os  casos,  que  o  fato  não  represente  ponto  controvertido  sobre  o  qual  o  juiz.  deveria  ter  se  pronunciado"
+Como  "violação  manifesta  à  norma  jurídica",  a  agravante  sustentou  que
+"(..) o  imóvel  penhorado  constitui  residência  da  autora,  ocorrendo  neste  ponto  a  violação  ao  Art.  1º,  da  Lei  de  nº  8.009  /90,  acrescentando  que  o  Art.  1º,  da  Lei  de  nº  8.009/90  não  exige  qualquer  comprovação  da  unicidade  do  bem,  sendo  imprescindível  prova  tão  somente  da  residência  no  imóvel,  o  que  resta  devidamente  comprovado  (mov.  1.1  -  NPU  0076913-  36.2022.8.16.0000).  naqueles  autos"
+
+Contudo,  para  que  ocorra  a  violação  prevista  no  artigo  966,  inciso  V,  do  Código  de  Processo  Civil,  o  julgador  deve  transgredir  manifestamente  a  norma  jurídica,  ou  seja,  deve  ficar  claro  que  houve  um  erro  de  interpretação  do  preceito  apontado  como  violado,  não  configurando  essa  irregularidade  a  adoção  de  uma  das  interpretações  possíveis.
+(..)
+Buscou  a  autora,  ora  agravante,  a  rescisão  do  acórdão  por  meio  do  qual  se  decidiu  manter  a  penhora  sobre  bem  imóvel,  sob  o  fundamento  de  não  ter  ela  logrado  êxito  em  demonstrar  que  se  tratava  de  bem  de  família.
+No  Agravo  de  Instrumento  inicialmente  interposto  (mov.  1.1,  NPU  0058212-95.2020.8.16.0000),  o  ora  agravado  Eduardo  Fachini,  além  de  defender  que  não  havia  provas  suficientes  de  que  o  imóvel  era  o  único  da  executada,  ora  autora,  e,  nesse  ponto,  que  a  consulta  ao  CNIB  não  se  prestava  a  tanto,  argumentou  que  também  não  havia  provas  quanto  à  destinação  familiar  do  imóvel,  sendo  a  conta  de  telefone  mencionada  pelo  Juízo  inapta  para  comprovar  a  residência  no  local.
+Da  leitura  do  acórdão  cuja  rescisão  se  pretende,  evidencia-se  que  restou  expressamente  consignada  a  ausência  provas  de  que  a  ora  autora  exercia  moradia  permanente  no  imóvel,  ou  seja,  que  nele  residia,  a  fim  de  atrair  a  proteção  prevista  no  artigo  1º  da  Lei  nº  8.009/90  (mov.  27.1  NPU  0058212-  95.2020.8.16.0000),  verbis:
+(..)
+Porém,  para  que  tal  decisão  fosse/seja  desconstituída,  mostrar-se-ia  necessário  adentrar  no  reexame  fático-probatório,  o  que  é  inadmissível  em  sede  de  Ação  Rescisória,  sob  pena  de  se  dilatar  indefinidamente  a  discussão  outrora  travada  no  recurso.
+Com  efeito,  para  que  se  admita  o  ajuizamento  de  Ação  Rescisória  fundada  no  artigo  966,  V,  do  CPC,  é  necessário  que  a  interpretação  dada  pela  decisão  rescindenda  viole  dispositivo  legal  ,em  sua  literalidade  o  que  claramente  não  é  o  caso,  uma  vez  que  a  aventada  violação  ao  artigo  1º  da  Lei  nº  8.009  /90,  na  realidade,  diz  respeito  à  justiça  da  decisão  e  aos  elementos  de  convicção  utilizados  pelos  julgadores  na  prolação  do  acórdão,  principalmente  ao  não  considerarem  o  imóvel  penhorado  como  "residência  e  não  provado  ser  ele  o  único  pertencente  à  autora/agravante".
+(..)
+Segue  a  autora,  ora  agravante,  em  sua  pretensão  rescisória,  alegando  como  "erro  de  fato"  que  o  acórdão  rescindendo  "não  reconheceu  os  comprovantes  de  residência  de  seq.  756.4  (autora)  e  756.5,  pág.  3  e  4  .(netos  que  residem  com  a  mesma)  dos  autos  de  origem"
+(..)
+No  caso,  "o  fato"  (tratar-se  o  imóvel  de  residência  da  autora,  ora  agravante,  ou  não)  era  nitidamente  controvertido,  daí  porque  a  admissão  de  fato  existente  como  inexistente  ou  vice-versa  não  ocorreu,  mas  tão  somente  interpretação  da  prova  produzida  nos  autos,  realizada  pelos  julgadores.
+Ainda,  não  se  pode  deixar  de  observar  que,  se  a  autora,  ora  agravante,  desejava  ver  expressamente  mencionados  no  acórdão  os  documentos  que  juntou  nos  autos  de  origem  (movs.  756.4  e  756.5),  deveria  ter  oposto  embargos  de  declaração  com  essa  finalidade,  o  que  não  ocorreu.
+Desse  modo,  certa  ou  errada,  justa  ou  injusta,  a  decisão  não  é  rescindível,  por  qualquer  ângulo  que  se  analise  a  petição  inicial  da  Ação  Rescisória,  especialmente  porque  não  se  evidencia  dos  autos  que  o  (principalmente  aquela  acórdão  rescindendo  tenha  violado  manifestamente  qualquer  norma  jurídica  alegada  pela  parte  autora,  ora  agravante),  tampouco  que  tenha  admitido  por  inexistente  fato  irretorquivelmente  existente  e  exaustivamente  comprovado  nos  autos"  (e-STJ  fls.  280/286  -  grifou-se).
+
+Assim,  rever  a  conclusão  do  tribunal  local  acerca  da  possibilidade  de  rescindir  o  julgado  transitado  em  julgado  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  disposto  na  Súmula  nº  7/STJ.
+Ademais,  observa-se  que,  nas  razões  do  recurso  especial,  a  agravante,  ora  recorrente,  não  refutou  os  fundamentos  adotados  pela  Corte  local,  segundo  os  quais  não  restaram  caracterizadas  as  hipóteses  do  art.  966  do  Código  de  Processo  Civil,  além  disso  os  documentos  que  a  parte  juntou  aos  autos  de  origem  deveriam  ter  sido  analisados  em  eventuais  embargos  de  declaração,  o  que  não  ocorreu  na  espécie.
+Incide,  portanto,  o  óbice  constante  da  Súmula  nº  283/STF,  aplicada  por  analogia:  "É  inadmissível  o  recurso  extraordinário,  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles."
+Confira-se:
+"DIREITO  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  RESCISÓRIA.  PROMESSA  DE  COMPRA  E  VENDA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  AUSÊNCIA.  REVISÃO  CONTRATUAL  E  INADEQUAÇÃO  DA  TAXA  DE  JUROS.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  282/STF.  HONORÁRIOS  ADVOCATÍCIOS  CONTRATUAIS  E  DESPESAS  ADMINISTRATIVAS.  FUNDAMENTOS  NÃO  IMPUGNADOS.  SÚMULA  283/STF.  REEXAME  DE  FATOS  E  PROVAS.  SÚMULA  7/STJ.  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  SÚMULA  5/STJ.  TAXA  DE  FRUIÇÃO.  SÚMULA  568/STJ.
+1.  Ação  rescisória  relacionada  a  promessa  de  compra  e  venda  de  terreno.
+2.  Não  há  ofensa  aos  arts.  489  e  1.022  do  CPC  quando  o  Tribunal  de  origem  examina,  de  forma  fundamentada,  a  questão  submetida  à  apreciação  judicial  e  na  medida  necessária  para  o  deslinde  da  controvérsia,  ainda  que  em  sentido  contrário  à  pretensão  da  parte.
+3.  A  ausência  de  decisão  acerca  dos  dispositivos  legais  indicados  como  violados  impede  o  conhecimento  do  recurso  especial  (súm.  282/STF).
+4.  A  existência  de  fundamento  não  impugnado  -  quando  suficiente  para  a  manutenção  das  conclusões  do  acórdão  recorrido  -  impede  a  apreciação  do  recurso  especial  (súm.  283/STF).
+5.  Alterar  o  decidido  no  acórdão  impugnado,  sobretudo  no  que  se  refere  à  incidência  de  honorários  contratuais  e  despesas  administrativas,  exige  o  reexame  de  fatos  e  provas  e  a  interpretação  de  cláusulas  contratuais  (Súm.  5  e  Súm.  7/STJ).
+6.  O  acórdão  recorrido  se  encontra  em  consonância  com  a  orientação  firmada  por  esta  Corte  Superior  no  que  diz  respeito  à  taxa  de  fruição  de  imóvel  não  edificado  (súm.  568/STJ).
+7.  Agravo  interno  não  provido"  (AgInt  no  REsp  2.167.518/RS,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  24/3/2025,  DJEN  de  27/3/2025).
+Consigna-se,  ainda,  que  o  art.  1º  da  Lei  de  nº  8.009/1990  não  foi  analisado  na  origem,  haja  vista  o  tribunal  recorrido  ter  indeferido  a  petição  inicial,  extinguindo  o  processo  sem  resolução  de  mérito.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Por  fim,  anota-se  que  não  é  possível  a  aplicação  das  multas  requeridas  nas  contrarrazões,  pois  tais  penalidades  não  são  automáticas,  tendo  em  vista  não  se  tratar  de  mera  decorrência  lógica  do  não  provimento  do  agravo  interno  em  votação  unânime.
+A  condenação  da  agravante  ao  pagamento  das  aludidas  multas,  a  ser  analisada  em  cada  caso  concreto,  em  decisão  fundamentada,  pressupõe  que  o  agravo  interno  se  mostre  manifestamente  inadmissível  ou  que  sua  improcedência  seja  de  tal  forma  evidente  que  a  simples  interposição  do  recurso  possa  ser  tida,  de  plano,  como  abusiva  ou  protelatória,  o  que,  contudo,  não  ocorreu  na  hipótese  examinada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
