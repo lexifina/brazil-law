@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Agravo apresentado por MAURO ADRIANO CORREA DE TOLEDO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - PRETENSÃO REDIBITÓRIA C/C PERDAS E DANOS - ASSISTÊNCIA JUDICIÁRIA GRATUITA - HIPOSSUFICIÊNCIA FINANCEIRA - NECESSIDADE DE COMPROVAÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 98 e 99, § 2º, do Código de Processo Civil, no que concerne ao indevido indeferimento do benefício da gratuidade de justiça, tendo em vista que demonstrou sua atual situação de hipossuficiência financeira, trazendo a seguinte argumentação:
+Em suas razões recursais, a recorrente defendeu que os documentos apresentados demonstraram a impossibilidade de arcar com as custas e despesas processuais.
+ ..
+Com efeito, a extensa prova documental, sobremaneira a remuneração mensal ínfima percebida pelo recorrente, sobejamente, permite superar quaisquer argumentos pela ausência de pobreza, na acepção jurídica do termo. É indissociável a existência de todos os requisitos legais à concessão da gratuidade da justiça. (fls. 1.090-1.104).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+No caso vertente, observo que o réu, ora agravante, não foi capaz de comprovar sua hipossuficiência financeira.
+Conquanto o agravante tenha apresentado certidão demonstrando que não declara imposto de renda (doc. de ordem 119 a 124), nota-se que os extratos bancários apresentados revelam movimentações financeiras em valores expressivos, diversas delas em montante superior a R$1.000,00 (docs. de ordem 147 a 1451).
+Registra-se que o recorrente se manteve inerte quanto a apresentação de documentação referente à sua verba salarial ou proventos de aposentadoria.
+Assim, tendo em vista que os documentos existentes nos autos são insuficientes para atestar a impossibilidade do requerente em arcar com os encargos processuais, entendo que o agravante não faz jus à concessão da benesse da justiça gratuita.
+Ressalto ainda que o Poder Judiciário deve prezar para que o benefício da justiça gratuita seja, somente, concedido àqueles que realmente não possuem condições de arcar com as despesas do processo.
+A concessão indiscriminada da benesse sobrecarrega o Poder Judiciário, prejudicando, principalmente, aqueles que realmente precisam da tutela jurisdicional por meio da justiça gratuita. (fl. 1.060).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o reexame da premissa fixada pelo acórdão recorrido quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em Recurso Especial.
+Nesse sentido, o STJ já decidiu que "derruir a conclusão do Tribunal a quo, no sentido de estariam preenchidos os requisitos para a concessão do benefício da justiça gratuita, demandaria o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ" (REsp n. 2.148.914/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 26/3/2025).
+Na mesma linha: "No caso, a Corte Estadual, com base nos elementos probatórios da lide, concluiu que, em sendo "evidente alteração da situação econômico-financeira da agravada, possível a revogação do benefício da gratuidade de justiça, possibilitando a execução dos honorários advocatícios sucumbenciais, eis que se trata de verba alimentar." (fl. 40). Assim, tendo a instância a quo concluído que houve modificação na condição financeira das partes, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se a parte não possui condições de arcar com as despesas do processo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ" (AgInt no AREsp n. 2.481.612/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.741.866/SP, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.774.890/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.593.572/RJ, relator Ministro Marco Aurélio Bellizze, Segunda Turma, DJEN de 6/3/2025; AgInt nos EDcl no AREsp n. 2.535.960/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/10/2024; AgInt no AREsp n. 2.501.722/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 6/9/2024; AgInt no REsp n. 2.120.602/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
