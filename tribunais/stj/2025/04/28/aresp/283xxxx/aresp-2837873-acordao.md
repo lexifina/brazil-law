@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. ÔNUS DA PROVA. RECURSO ESPECIAL. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA N. 7 DO STJ AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório, pois essa providência demandaria o revolvimento dos fatos da causa. Incidência da Súmula n. 7 do STJ.
+2. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso especial lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Trata-se de agravo em recurso especial interposto por VERA LUCIA PIO BOLZAN (VERA) contra decisão que não admitiu seu apelo nobre manejado com fundamento no art. 105, III, alíneas a e c, da CF contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, Relator HUGO CREPALDI, assim ementado:
+APELAÇÃO - AÇÃO DECLARATÓRIA - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - Teoria do livre convencimento motivado, nos termos dos arts. 370 e 371 do CPC - Demonstrada a prestação de serviços advocatícios pelo autor, no interesse do emitente e dos avalistas das notas promissórias cobradas na execução, a ré não comprovou a existência de qualquer outra relação jurídica entre as partes, que também pudesse ser a "causa debendi" dos títulos - Requerida, assim, que não demonstrou qualquer fato impeditivo, modificativo ou extintivo do direito do autor, não desconstituindo as alegações trazidas em sede de inicial, conforme ônus que lhe incumbia, nos termos do art. 373, II, do CPC - Sentença mantida por seus próprios fundamentos - Negado provimento (e-STJ, fl. 274).
+Foi apresentada contraminuta.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. ÔNUS DA PROVA. RECURSO ESPECIAL. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE ANTE A INCIDÊNCIA DA SÚMULA N. 7 DO STJ AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Não é possível reverter a conclusão do Tribunal estadual, para acolher a pretensão recursal, a respeito do ônus probatório, pois essa providência demandaria o revolvimento dos fatos da causa. Incidência da Súmula n. 7 do STJ.
+2. A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso especial lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Nas razões de seu apelo nobre interposto com base no art. 105, III, alíneas a e c, da CF, VERA alegou a violação do art. 371, I, do NCPC ao sustentar, em síntese, que demonstrou nos próprios documentos juntados aos autos pelo Autor fato impeditivo do Direito do Recorrido (inexistência de relação estrita das cártulas com os documentos juntados pelo Autor), portanto inexistente prova do fato constitutivo do direito do Recorrido (e-STJ, fl. 297).
+Suscitou dissídio jurisprudencial para defender sua tese.
+(1) Do ônus da prova
+O Tribunal paulista, após análise do conjunto probatório dos autos, concluiu que VERA não demonstrou qualquer fato impeditivo, modificativo ou extintivo do direito do autor/recorrido, conforme ônus que lhe incumbia.
+(..).
+No mérito, dispõe o artigo 373, do Código de Processo Civil, que o ônus da prova incumbe ao autor, quanto aos fatos constitutivos de seu direito, e ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+(..).
+No caso, o autor comprovou que prestou serviços advocatícios ao emitente e ao avalista das notas promissórias cobradas nos autos da execução nº 1008366-21.2019.8.26.0624, conferindo verossimilhança à sua tese de que os títulos de crédito foram emitidos como pagamento dos honorários devidos como contraprestação aos referidos serviços (fls. 13/54).
+A requerida, por sua vez, em que pese negue que as notas promissórias tenham sido emitidas como pagamento pelos serviços advocatícios prestados, não apresenta qualquer prova da existência de outra relação jurídica entre as partes, não menciona qual seria ela, nem explica porque se os honorários já haviam sido quitados os títulos foram emitidos.
+Desse modo, a ré, ora apelante, não demonstrou qualquer fato impeditivo, modificativo ou extintivo do direito do autor, conforme ônus que lhe incumbia.
+Cumpre observar, conforme bem observado pela sentença de Primeiro Grau, que a própria ré confessa não ter conhecimento algum dos negócios efetuados por seu esposo, o que afasta ainda mais a verossimilhança de suas alegações no sentido de que as notas promissórias não seriam referentes ao pagamento dos honorários (e-STJ, fls. 279/280 - sem destaque no original).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula n. 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito:
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇO DE ASSESSORIA CONTÁBIL ENTRE PARTICULARES. AUSÊNCIA DE RELAÇÃO DE CONSUMO. IMPOSSIBILIDADE DE INVERSÃO DO ÔNUS PROBATÓRIO OPE LEGIS. APLICAÇÃO DA DISTRIBUIÇÃO ESTÁTICA. ART. 373 DO CPC. INSTÂNCIAS ORDINÁRIAS QUE RECONHECERAM A AUSÊNCIA DE ELEMENTOS PROBATÓRIOS DA RESPONSABILIDADE. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais ajuizada em 29/10/2019, da qual foi extraído o presente recurso especial, interposto em 2/2/2024 e concluso ao gabinete em 16/8/2024.
+2. O propósito recursal consiste em decidir se incide o Código de Defesa do Consumidor na relação entre cliente e contabilista (profissional de contabilidade) a fim de autorizar a inversão do ônus probatório ope legis por defeito na prestação do serviço.
+3. A relação existente entre o cliente e o contabilista individual é exclusivamente de natureza civil, sendo inaplicável o Código de Defesa do Consumidor.
+4. O profissional de contabilidade, que desenvolve sua atividade técnica e especializada com amparo na confiança do cliente, não é fornecedor de serviço nos termos consumeristas, pois não há vulnerabilidade e desequilíbrio nessa relação contratual. Ao contrário, há a prestação de serviços por meio de negócio jurídico celebrado com paridade e simetria, no qual as partes podem estabelecer as cláusulas e obrigações contratuais, bem como delimitar o montante devido no desempenho da atividade negociada.
+5. Estabelecida a premissa acerca da inaplicabilidade do CDC, incide a regra geral da distribuição estática do ônus da prova prevista no art. 373, I, do Código de Processo Civil (em detrimento do art. 14, § 3º, do CDC). Assim, incumbe ao cliente comprovar os fatos constitutivos de seu direito, qual seja: a ocorrência da má-prestação do serviço de contabilidade por meio das provas do dano, nexo de causalidade e da conduta imprudente, negligente ou imperita do profissional, nos termos do arts. 186 e 927 do Código Civil.
+6. No recurso sob julgamento, as instâncias ordinárias asseveraram que o recorrente não se desincumbiu de seu ônus probatório, pois ausentes quaisquer indícios da responsabilidade do contabilista.
+Impossibilidade de alterar a conclusão alcançada, uma vez que, para tanto, seria inevitável reexaminar fatos e provas - o que é vedado nesse momento processual em razão do óbice da Súmula 7/STJ.
+7. Recurso especial parcialmente conhecido e, no mérito, desprovido.
+(REsp n. 2.164.369/CE, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/11/2024, DJe de 8/11/2024)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA C/C COM INDENIZAÇÃO POR DANOS MORAIS. OFENSA AOS ARTS. 489 E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. ÔNUS DA PROVA. FATO CONSTITUTIVO. AUTOR. SÚMULA 83/STJ. MODIFICAÇÃO DO ENTENDIMENTO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+1. Não há que se falar em ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. "Consoante as regras de distribuição do ônus probatório, atribui-se ao autor o ônus de provar os fatos constitutivos de seu direito, e ao réu, os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do art. 373, I e II, do CPC/2015 (art. 333, I e II, do CPC/73)" (AgInt no AREsp 1.694.758/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe de 18/06/2021).
+3. Concluindo o Tribunal de origem pela ausência de prova acerca de fato constitutivo do direito do autor, a modificação desse entendimento exige o reexame de matéria fática, inviável em sede de recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.336.750/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024)
+(2) Do dissídio jurisprudencial
+A incidência da Súmula n. 7 do STJ impede o conhecimento do recurso especial lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE VIOLAÇÃO À LEI N. 1.060/1950. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA E JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. O recurso especial é reclamo de natureza vinculada e, para o seu cabimento, inclusive quando apontado dissídio jurisprudencial, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão, ante a aplicação analógica da Súmula 284/STF.
+2. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. O benefício, todavia, pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica.
+3. Além disso, segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3.1. Tendo o Tribunal de origem entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+4. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.482.064/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de PAULO EDSON MARQUES , limitados a 20%, nos termos do art. 85, § 11, do NCPC, observado, se for o caso, o art. 98, § 3º, do NCPC.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação nos termos do art. 1.026, § 2º, do CPC.
