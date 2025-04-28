@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLAITON DO CANTO LUCHO, em que se aponta como autoridade coatora o DESEMBARGADOR RELATOR DA REVISÃO CRIMINAL Nº 5026045-39.2025.8.24.0000, DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (fl. 2).
+Na inicial, a defesa informa que o paciente encontra-se atualmente segregado por força de sentença penal condenatória proferida nos autos da Ação Penal nº 0000500-50.2016.8.24.0038, a qual se encontra sub judice em sede de Revisão Criminal (fl. 2).
+Alega que o pedido de liminar na Revisão Criminal foi indeferido sob o fundamento da ausência de previsão legal para concessão de efeito suspensivo à Revisão Criminal (fl. 2).
+Sustenta que a Revisão Criminal versa sobre as três hipóteses legais do art. 621 do CPP, sendo a sentença contrária à evidência dos autos, provas falsas e novas provas de inocência (fl. 3).
+Afirma que a sentença condenatória foi baseada em depoimentos e documentos cuja veracidade é questionável, além de existirem novas provas que indicam a inocência do paciente (fl. 4).
+A defesa destaca que o paciente é primário, possui bons antecedentes, sempre colaborou com a Justiça e jamais apresentou qualquer risco à ordem pública (fl. 6).
+Afirma ainda que a prisão traz consequências humanamente desastrosas, pois o paciente é o único responsável pelo cuidado de sua mãe idosa e enferma com doença incapacitante (fl. 6).
+No mérito, a defesa requer a concessão de liberdade provisória com imposição de monitoramento eletrônico e quaisquer medidas cautelares que se entendam necessárias (fls. 6-7).
+A defesa pleiteia a concessão de medida liminar para que o paciente seja imediatamente posto em liberdade provisória, com ou sem medidas cautelares (fl. 12).
+Ao final, requer que o writ seja julgado procedente, garantindo-se a liberdade do paciente (fl. 13).
+É o relatório. DECIDO.
+O art. 105 da Constituição não confere competência ao Superior Tribunal de Justiça para processar e julgar, originariamente, habeas corpus contra ato de Desembargador de Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios.
+Não cabe, portanto, em regra, habeas corpus contra decisão monocrática de relator, seja pela literalidade das hipóteses constitucionais de cabimento, seja pela indispensabilidade do esgotamento, no Tribunal de origem, das vias recursais. A regra tem por objetivo evitar a supressão de instância e o conhecimento de matérias que, em tese, não estariam, no tempo e no modo, na esfera de competência do Tribunal para o qual se destinou a indevida impetração. O exaurimento da instância antecedente é, pois, pressuposto de competência.
+Nesse sentido:
+ ..  Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+(HC n. 725.534/SP, Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 1/6/2022)
+O Supremo Tribunal Federal, a partir desse raciocínio, editou o enunciado de súmula n. 691, amplamente aplicado, por analogia, pelo Superior Tribunal de Justiça, nos seguintes termos: "(n)ão compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+Ao longo dos anos, contudo, o Supremo Tribunal Federal e o Superior Tribunal de Justiça construíram exceções à regra prevista naquela súmula, de modo a admitir o conhecimento precoce do habeas corpus na instância superior. Em resumo, a excepcionalidade é admitida quando a decisão impugnada se mostrar teratológica, flagrantemente ilegal, abusiva ou, ainda, manifestamente contrária à jurisprudência da Corte (STF, HC n. 143.476/RJ, Segunda Turma. Rel. Orig. Min. Gilmar Mendes, Red. p/ o ac. Min. Ricardo Lewandowski, julgado em 6/6/2017).
+No caso dos autos, não verifico a existência de elementos suficientes que indiquem a presença de uma das exceções que demandam a superação do entendimento consolidado a fim de se conceder a ordem de ofício.
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do artigo 210, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+ EMENTA
