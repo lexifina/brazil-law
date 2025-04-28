@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 22/04/2025 a 28/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ E 284 DO STF. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu em parte do recurso especial e, na extensão, negou-lhe provimento, mantendo a decisão do Tribunal de origem que reconheceu a abusividade das taxas de juros remuneratórios pactuadas em contrato bancário, superiores à média de mercado divulgada pelo Banco Central do Brasil.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a revisão das taxas de juros remuneratórios contratadas, consideradas abusivas por serem superiores à média de mercado, pode ser realizada sem a necessidade de reexame de cláusulas contratuais e de provas, o que é vedado em sede de recurso especial.
+3. Há também a questão de saber se a alegação de cerceamento de defesa, por ausência de prova pericial, é procedente, considerando que o Tribunal de origem entendeu que as questões fáticas estavam devidamente esclarecidas nos autos.
+III. Razões de decidir
+4. A revisão das taxas de juros remuneratórios contratadas, consideradas abusivas, demanda a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+5. A alegação de cerceamento de defesa não se sustenta, pois o Tribunal de origem considerou que as questões fáticas estavam devidamente esclarecidas nos autos, permitindo o julgamento antecipado da lide, conforme o art. 355, I, do CPC.
+6. A ausência de fundamentação clara e objetiva quanto à alegada violação do art. 927 do CPC atrai a incidência da Súmula 284 do STF, impedindo o conhecimento do recurso quanto ao tema.
+7. O acórdão recorrido está em consonância com a jurisprudência consolidada do STJ, atraindo a aplicação da Súmula 83 do STJ, que obsta o recurso especial quando a decisão impugnada está alinhada ao entendimento pacificado no âmbito do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+8. Agravo interno não provido.
+Tese de julgamento: "1. A revisão de taxas de juros remuneratórios consideradas abusivas exige a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório, vedados em sede de recurso especial. 2. A alegação de cerceamento de defesa não se sustenta quando as questões fáticas estão devidamente esclarecidas nos autos, permitindo o julgamento antecipado da lide. 3. A ausência de fundamentação clara e objetiva quanto à alegada violação de dispositivo legal impede o conhecimento do recurso quanto ao tema".
+Dispositivos relevantes citados: CPC, art. 355, I; CPC, art. 927; CDC, art. 51, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 2.444.719/RS, Rel. Min. Nancy Andrighi, Terceira Turma, j. 26.02.2024; STJ, REsp 1.112.879/PR, Rel. Min. Nancy Andrighi, Segunda Seção, j. 12.05.2010.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Desembargador Convocado Carlos Cini Marchionatti que conheceu do agravo para conhecer em parte e, na extensão, negar provimento ao recurso especial.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao conhecimento e provimento. Sustenta, em síntese, que não se aplicam ao caso concreto as Súmulas 5, 7 e 83 do STJ, tampouco a Súmula 284 do STF. Aduz que o recurso especial indica, de forma clara, precedente específico do STJ no sentido de que a simples fixação da taxa média do Banco Central como critério exclusivo para revisão contratual é indevida. Argumenta que o entendimento do acórdão recorrido contraria a jurisprudência pacífica da Corte Superior, a qual exige a análise das peculiaridades do contrato e da operação financeira para se aferir a abusividade dos juros.
+Defende que não se trata de reexame de prova, mas de aplicação da correta interpretação jurídica sobre os fatos reconhecidos pelas instâncias ordinárias. Além disso, destaca que o recurso deixou clara a sua fundamentação, sendo incabível a incidência da Súmula 284/STF.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada pugnou pelo não conhecimento do recurso e, caso conhecido, pela inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ E 284 DO STF. RECURSO DESPROVIDO.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que conheceu em parte do recurso especial e, na extensão, negou-lhe provimento, mantendo a decisão do Tribunal de origem que reconheceu a abusividade das taxas de juros remuneratórios pactuadas em contrato bancário, superiores à média de mercado divulgada pelo Banco Central do Brasil.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a revisão das taxas de juros remuneratórios contratadas, consideradas abusivas por serem superiores à média de mercado, pode ser realizada sem a necessidade de reexame de cláusulas contratuais e de provas, o que é vedado em sede de recurso especial.
+3. Há também a questão de saber se a alegação de cerceamento de defesa, por ausência de prova pericial, é procedente, considerando que o Tribunal de origem entendeu que as questões fáticas estavam devidamente esclarecidas nos autos.
+III. Razões de decidir
+4. A revisão das taxas de juros remuneratórios contratadas, consideradas abusivas, demanda a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório, o que encontra óbice nas Súmulas 5 e 7 do STJ.
+5. A alegação de cerceamento de defesa não se sustenta, pois o Tribunal de origem considerou que as questões fáticas estavam devidamente esclarecidas nos autos, permitindo o julgamento antecipado da lide, conforme o art. 355, I, do CPC.
+6. A ausência de fundamentação clara e objetiva quanto à alegada violação do art. 927 do CPC atrai a incidência da Súmula 284 do STF, impedindo o conhecimento do recurso quanto ao tema.
+7. O acórdão recorrido está em consonância com a jurisprudência consolidada do STJ, atraindo a aplicação da Súmula 83 do STJ, que obsta o recurso especial quando a decisão impugnada está alinhada ao entendimento pacificado no âmbito do Superior Tribunal de Justiça.
+IV. Dispositivo e tese
+8. Agravo interno não provido.
+Tese de julgamento: "1. A revisão de taxas de juros remuneratórios consideradas abusivas exige a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório, vedados em sede de recurso especial. 2. A alegação de cerceamento de defesa não se sustenta quando as questões fáticas estão devidamente esclarecidas nos autos, permitindo o julgamento antecipado da lide. 3. A ausência de fundamentação clara e objetiva quanto à alegada violação de dispositivo legal impede o conhecimento do recurso quanto ao tema".
+Dispositivos relevantes citados: CPC, art. 355, I; CPC, art. 927; CDC, art. 51, § 1º.
+Jurisprudência relevante citada: STJ, AgInt no AREsp 2.444.719/RS, Rel. Min. Nancy Andrighi, Terceira Turma, j. 26.02.2024; STJ, REsp 1.112.879/PR, Rel. Min. Nancy Andrighi, Segunda Seção, j. 12.05.2010.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a fazer parte da presente decisão (e-STJ fls. 742-748):
+Atendidos os requisitos da tempestividade e da impugnação específica, passo ao exame do recurso especial.
+De início, cumpre esclarecer que "A Segunda Seção do Superior Tribunal de Justiça, no julgamento do R Esp nº 1.061.530/RS, Relatora Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, firmou posicionamento do sentido de que: (1) as instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto nº 22.626/1993) - Súmula 596/STF; (2) a estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; (3) são inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591, c/c o art. 406 do CC/2002; e, (4) é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, haja vista as peculiaridades do julgamento em concreto" (AgInt no AR Esp n. 1.148.927/MS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 22/3/2018, D Je de 4/4/2018).
+Nesse contexto, "É admitida a revisão das taxa de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade capaz de colocar o consumidor em desvantagem exagerada (art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto. A taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil" (AgInt no AR Esp n. 2.615.818/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/9/2024, D Je de 11/9/2024). No mesmo sentido:
+ ..
+Conforme a fundamentação do acórdão recorrido, as taxas de juros contratadas em relação ao pacto em discussão na lide foram excessivamente superiores às médias de mercado divulgadas pelo Banco Central do Brasil para a época da pactuação, restando caracterizada a abusividade das referidas taxas.
+Com efeito, conforme se extrai do acórdão, a taxa de juros pactuada foi de 18,50% ao mês, enquanto que a taxa do BACEN para o mês de referência foi fixada em 7,64% ao mês.
+Considerou o Tribunal de origem, ainda, que as circunstâncias contratuais não se mostram excepcionais ou suficientes a esclarecer a disparidade entre as taxas contratadas e aquelas praticadas pelo mercado.
+Nesse contexto, não há como afastar a conclusão do acórdão recorrido - acerca da abusividade da taxa de juros remuneratórios contratados, as quais importaram em desvantagem excessiva ao consumidor - sem a interpretação das cláusulas contratuais pactuadas e revolvimento fático-probatório, o que não se admite na via do recurso especial, conforme enunciados das Súmulas n. 5 e 7/STJ.
+Além disso, a incidência da Súmula n. 7/STJ torna prejudicado o exame do apontado dissídio jurisprudencial.
+ ..
+Quanto à tese de violação dos arts. 355 e 356 do CPC, diante do alegado cerceamento de defesa, a Corte de origem destacou que "não há cerceamento de defesa, pois a matéria discutida versa predominantemente sobre questões de direito e as questões fáticas estão devidamente esclarecidas nos autos por documentos, comportando a lide julgamento antecipado, nos termos do art. 355, I, do CPC" (fl. 473).
+Com efeito, cabe ao magistrado, como destinatário da prova, verificar a existência de provas suficientes nos autos para ensejar o julgamento antecipado da lide ou indeferir a produção de provas consideradas desnecessárias, conforme o princípio do livre convencimento motivado ou da persuasão racional, não restando configurado, no caso, o apontado cerceamento de defesa.
+ ..
+O acórdão recorrido, no ponto, encontra-se em consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83/STJ. Além disso, a inversão das conclusões do acórdão acerca da desnecessidade da prova pericial demandaria revolvimento fático-probatório, incabível na via eleita, conforme a Súmula 7/STJ.
+No que se refere ao art. 927 do CPC, verifica-se que a parte recorrente não logrou demonstrar de que forma o referido dispositivo teria sido violado, a ensejar a deficiência de fundamentação na interposição do recurso, incidindo, no ponto, o óbice da Súmula n. 284 do STF.
+ ..
+Diante do exposto, conheço do agravo para conhecer em parte e, nessa extensão, negar provimento ao recurso especial.
+No presente processo, a parte agravante afirma, em suma, que estão presentes os requisitos para o conhecimento e provimento de seu recurso.
+Ocorre, contudo, que a insurgência recursal não pode ser acolhida, pois a controvérsia trazida à apreciação desta Corte demanda, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que encontra óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Com efeito, de acordo com o que se observa da decisão agravada, a conclusão adotada pelo Tribunal de origem quanto à abusividade dos juros pactuados decorreu de uma análise detalhada das condições do contrato firmado entre as partes e da comparação com a taxa média de mercado divulgada pelo Banco Central. Assim, para infirmar tal entendimento, seria imprescindível reexaminar os elementos fáticos que fundamentaram a decisão recorrida, providência vedada em sede de recurso especial.
+A interpretação das cláusulas contratuais para aferição da legalidade dos encargos aplicados, bem como a necessidade de verificar a discrepância entre a taxa contratada e a taxa média de mercado, exigiriam nova apreciação dos fatos e provas dos autos, o que não se coaduna com a finalidade do recurso especial. Afinal, é entendimento pacífico desta Corte que "A simples interpretação de cláusula contratual não enseja recurso especial" (Súmula 5/STJ) e que "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+Quanto à alegada afronta ao art. 927 do Código de Processo Civil, verifica-se, da leitura das razões recursais, que, de fato, a parte recorrente se restringiu à mera citação do dispositivo legal supostamente desrespeitado, sem, contudo, apresentar fundamentação clara, objetiva e suficientemente desenvolvida que demonstre, de forma concreta, a ocorrência de negativa de vigência ou contrariedade por parte do Tribunal de origem.
+A hipótese atrai, portanto, a incidência do entendimento exposto pela súmula 284 do STF, na medida em que "A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema." (AgInt no AREsp n. 2.444.719/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2024, DJe de 28/2/2024).
+Ademais, o acórdão recorrido encontra-se em plena consonância com a jurisprudência consolidada desta Corte Superior, razão pela qual também se impõe a aplicação da Súmula 83 do STJ, que obsta o recurso especial quando a decisão impugnada está alinh ada ao entendimento pacificado no âmbito do Superior Tribunal de Justiça.
+Nesse sentido:
+BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. CONTRATO QUE NÃO PREVÊ O PERCENTUAL DE JUROS REMUNERATÓRIOS A SER OBSERVADO. I - JULGAMENTO DAS QUESTÕES IDÊNTICAS QUE CARACTERIZAM A MULTIPLICIDADE.
+ORIENTAÇÃO - JUROS REMUNERATÓRIOS 1 - Nos contratos de mútuo em que a disponibilização do capital é imediata, o montante dos juros remuneratórios praticados deve ser consignado no respectivo instrumento. Ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente.
+2 - Em qualquer hipótese, é possível a correção para a taxa média se for verificada abusividade nos juros remuneratórios praticados.
+II - JULGAMENTO DO RECURSO REPRESENTATIVO - Consignada, no acórdão recorrido, a abusividade na cobrança da taxa de juros, impõe-se a adoção da taxa média de mercado, nos termos do entendimento consolidado neste julgamento.
+- Nos contratos de mútuo bancário, celebrados após a edição da MP nº 1.963-17/00 (reeditada sob o nº 2.170-36/01), admite-se a capitalização mensal de juros, desde que expressamente pactuada.
+Recurso especial parcialmente conhecido e, nessa parte, provido.
+Ônus sucumbenciais redistribuídos.
+(REsp n. 1.112.879/PR, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 12/5/2010, DJe de 19/5/2010.)
+Por fim, a inversão das conclusões do acórdão do Tribunal de origem acerca da desnecessidade da prova pericial demandaria revolvimento fático-probatório, incabível na via eleita, conforme a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+Quanto aos honorários recursais, mantenho a decisão agravada.
+É o voto.
