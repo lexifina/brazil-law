@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DEIVERS DO NASCIMENTO RODRIGUES e MARIA ONILDA ALVES DA SILVA, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que os pacientes foram condenados pelo crime previsto no art. 180, caput, do Código Penal. O Juízo de primeiro grau impôs a Deivers a pena de 1 ano e 2 meses de reclusão, em regime semiaberto, e 11 dias-multa; e a Maria Onilda, a reprimenda de 1 ano de reclusão, em regime aberto, e 10 dias-multa, com substituição da privativa de liberdade por prestação de serviços à comunidade.
+O Tribunal de origem negou provimento ao recurso interposto por Deivers e, na sequência, rejeitou os embargos de declaração opostos a esse julgamento, mantendo a condenação (Apelação Criminal n. 5465044-25.2023.8.09.0051).
+Daí o presente writ, no qual a defesa sustenta, em síntese, a necessidade de aplicação do princípio da insignificância, diante do fato de que os bens receptados possuem valor irrisório, foram integralmente restituídos à vítima e não causaram lesão relevante ao bem jurídico tutelado.
+Requer, em liminar, a suspensão dos efeitos da condenação, e, ao final, a concessão da ordem para aplicar o princípio da insignificância, com a consequente absolvição dos pacientes.
+É o relatório.
+O presente writ é incabível por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (AgRg no HC n. 753.464/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/9/2022).
+Além disso, inexiste flagrante ilegalidade a ser reparada por meio da via eleita.
+Quanto à pretensão ora formulada, analisada pela Corte de origem apenas em relação ao paciente Deivers, o acórdão impugnado concluiu que, embora a matéria não tenha sido suscitada nas razões recursais, não seria cabível o reconhecimento, de ofício, do princípio da insignificância, pois (fl. 21),
+ ..  embora não tenha sido confeccionado laudo de avaliação dos bens receptados, quais sejam, 01 (uma) rede de cor verde, 01 (um) carrinho de mão, 01 (um) botijão de gás e fios de cobre, o valor deles, notoriamente, suplanta o parâmetro jurisprudencial de 10% (dez por cento) do salário mínimo, além de se tratar de processado reincidente e possuidor de maus antecedentes por ostentar 02 (duas) condenações definitivas por crimes patrimoniais, uma delas com o trânsito em julgado posterior.
+ ..
+Essa conclusão não destoa do entendimento desta Casa de que a reiteração criminosa constitui impeditivo para a aplicação do princípio da insignificância, e o valor dos bens subtraídos, superior a 10% do salário mínimo vigente à época, afasta a aplicação do princípio (AREsp n. 2.501.605/PR, Ministra Daniela Teixeira, Quinta Turma, DJEN 25/2/2025).
+No mesmo sentido, dentre outros, o AgRg no HC n. 944.558/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/11/2024; e o AgRg no HC n. 945.758/SC, Ministro Messod Azulay Neto, Quinta Turma, DJe 19/11/2024.
+Ademais, conforme já mencionado, os acórdãos impugnados tratam exclusivamente do recurso interposto por Deivers. A paciente Maria Onilda não integrou o polo ativo no Tribunal de origem, o que evidencia a pretensão de suprimir instância quanto ao pedido formulado em seu favor neste habeas corpus.
+Assim, diante do trânsito em julgado da condenação em relação à paciente Maria Onilda e considerando que o eg. Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, eis que sequer foram arguidos na origem, esta Corte fica impedida de se manifestar diretamente sobre a matéria (HC n. 882.073/SP, Ministra Daniela Teixeira, Quinta Turma, DJEN de 6/12/2024).
+Por todo o exposto, indefiro liminarmente o habeas corpus (art. 210 do RISTJ ).
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO DO WRIT. RECEPTAÇÃO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. VALOR SUPERIOR A 10% DO SALÁRIO MÍNIMO. MAUS ANTECEDENTES. REINCIDÊNCIA. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. UM DOS PACIENTES NÃO FIGUROU NO POLO ATIVO DO RECURSO IMPUGNADO. CONDENAÇÃO TRANSITADA EM JULGADO. AUSÊNCIA DE DEBATE QUANTO AO TEMA ARGUIDO. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Writ indeferido liminarmente.
