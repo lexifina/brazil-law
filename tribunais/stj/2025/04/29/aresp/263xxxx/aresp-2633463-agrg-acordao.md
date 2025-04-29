@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Ingresso domiciliar sem mandado. Fundadas suspeitas. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a decisão do Tribunal de origem que afastou a ilicitude da prova obtida mediante ingresso domiciliar sem mandado, em razão de fundada suspeita de tráfico de drogas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o ingresso de policiais em domicílio sem mandado judicial, para prisão em flagrante por tráfico de drogas, foi ilegal, considerando as fundadas suspeitas decorrentes de interceptação telefônica, campanas prévias e identificação de usuários.
+III. Razões de decidir
+3. A jurisprudência do STJ admite o ingresso domiciliar sem mandado judicial para flagrante de crime permanente, como o tráfico de drogas, desde que fundadas suspeitas sejam confirmadas por diligências prévias, conforme ocorrido no caso em que os policiais observaram intensa movimentação suspeita e comportamentos típicos de narcotráfico.
+4. A decisão do Tribunal de origem está em consonância com a tese fixada pelo Supremo Tribunal Federal, que permite a entrada forçada em domicílio sem mandado judicial quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem flagrante delito.
+IV. Dispositivo e tese
+5. Agravo desprovido.
+Tese de julgamento: "O ingresso domiciliar sem mandado judicial é lícito em casos de flagrante delito de crime permanente, como tráfico de drogas, desde que fundadas suspeitas sejam confirmadas por diligências prévias".
+Dispositivos relevantes citados: CPP, art. 303.
+Jurisprudência relevante citada: STF, Tema 280 de Repercussão Geral; STJ, AgRg no HC 934.135/SE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19/11/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ROSIVALDO APARECIDO DA SILVA LIMA contra decisão de fls. 1137/1143 em que conheci do agravo para negar provimento ao recurso especial com fulcro no Súmula n. 568/STJ, concluindo que o Tribunal de origem afastou a ilicitude da prova por entender que havia fundada suspeita a legitimar o ingresso em domicílio, consubstanciados em interceptação telefônica, campanas prévias e identificação de usuários.
+A parte agravante afirma que ficou comprovada a ilegalidade da busca domiciliar. Aduz que "a mera alegação de que estava ocorrendo monitoramento do local com informações obtidas por meio de interceptações telefônicas, investigação prévia da Polícia do Estado de São Paulo, campanas para observação velada de alguns endereços e identificação de indivíduos que circulavam nos locais investigados com intento de adquirir droga não são elementos suficientes para justificar a busca domiciliar sem mandado" (fl. 1154).
+Requer a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Ingresso domiciliar sem mandado. Fundadas suspeitas. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a decisão do Tribunal de origem que afastou a ilicitude da prova obtida mediante ingresso domiciliar sem mandado, em razão de fundada suspeita de tráfico de drogas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se o ingresso de policiais em domicílio sem mandado judicial, para prisão em flagrante por tráfico de drogas, foi ilegal, considerando as fundadas suspeitas decorrentes de interceptação telefônica, campanas prévias e identificação de usuários.
+III. Razões de decidir
+3. A jurisprudência do STJ admite o ingresso domiciliar sem mandado judicial para flagrante de crime permanente, como o tráfico de drogas, desde que fundadas suspeitas sejam confirmadas por diligências prévias, conforme ocorrido no caso em que os policiais observaram intensa movimentação suspeita e comportamentos típicos de narcotráfico.
+4. A decisão do Tribunal de origem está em consonância com a tese fixada pelo Supremo Tribunal Federal, que permite a entrada forçada em domicílio sem mandado judicial quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem flagrante delito.
+IV. Dispositivo e tese
+5. Agravo desprovido.
+Tese de julgamento: "O ingresso domiciliar sem mandado judicial é lícito em casos de flagrante delito de crime permanente, como tráfico de drogas, desde que fundadas suspeitas sejam confirmadas por diligências prévias".
+Dispositivos relevantes citados: CPP, art. 303.
+Jurisprudência relevante citada: STF, Tema 280 de Repercussão Geral; STJ, AgRg no HC 934.135/SE, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 19/11/2024.
+VOTO
+Inicialmente, conheço do agravo por ser tempestivo e adequado.
+Referente ao mérito, a parte recorrente apenas reitera os argumentos trazidos no recurso especial, os quais foram devidamente afastados na decisão monocrática ora desafiada, devendo ser mantida em sua integralidade.
+Conforme exposto anteriormente, o Tribunal de origem afastou a ilicitude da prova por entender que havia fundada suspeita a legitimar o ingresso em domicílio, especialmente, a existência de interceptação telefônica, campanas prévias e identificação de usuários.
+Confira-se o trecho:
+"Aventa a defesa "que todo o processo penal foi fundado em busca domiciliar baseada em denúncia anônima e sem fundamentos legais para o adentramento na Residência do Autor dessa Revisão Criminal." a sentença de nulidade aventada pela defesa sob o argumento de que houve violação de domicílio, posto que ausentes mandado judicial e fundada suspeita para entrada na residência.
+Quanto a alegada busca domiciliar ilegal, cumpre destacar que consideram- se crimes permanentes "aqueles que se consumam por uma única conduta, mas o resultado tem a potencialidade de se arrastar por largo período, continuando o processo de consumação/execução da infração penal". 1 Por conseguinte, prevê o art. 303, do Código de Processo Penal, que "nas infrações permanentes, entende-se o agente em flagrante delito enquanto não cessar a permanência."
+No crime de tráfico de drogas, é desnecessária a apresentação de mandado judicial para que seja realizada busca e apreensão, pois estando o agente em estado de flagrância, legitimada está a ação policial.
+ ..
+Não se olvide que, in casu, estava ocorrendo monitoramento do local com informações obtidas por meio de interceptações telefônicas, investigação prévia da Polícia do Estado de São Paulo, campanas para observação velada de alguns endereços e identificação de individuos que circulavam nos locais investigados com intento de adquirir droga.
+Assim, estavam os agentes públicos diante da notícia da prática de um crime permanente - tráfico de drogas - o que torna excepcionada a compreensão da garantia constitucional da inviolabilidade de domicílio, ao teor da tese fixada pelo SUPREMO TRIBUNAL FEDERAL, em Repercussão Geral:
+"Tema 280: A entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados."
+Necessário consignar que não há qualquer óbice, seja legal ou constitucional, ao desempenho de ações das forças de segurança voltadas ao resguardo da ordem e da segurança públicas. Admitir hipótese diversa é privilegiar a criminalidade e resguardar o criminoso em detrimento à ordem, patrimônio e incolumidade públicas.
+ ..
+Nesse contexto, não há que se falar em nulidade das provas e, tampouco, ilegalidade na busca domiciliar."
+Tal conclusão está em harmonia com o entendimento desta Corte superior. Confiram-se os precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INDEFERIMENTO FUNDAMENTADO DE DILIGÊNCIAS REQUERIDAS PELA DEFESA. INEXISTÊNCIA DE NULIDADE DO FLAGRANTE. BUSCA DOMICILIAR. INOCORRÊNCIA. DENÚNCIA ANÔNIMA ESPECIFICADA. INDÍCIOS PRÉVIOS DE SITUAÇÃO DE FLAGRÂNCIA. JUSTA CAUSA. DECISÃO QUE DETERMINOU QUEBRA DO SIGILO TELEFÔNICO DEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A orientação firmada pelas instâncias ordinárias está em sintonia com a jurisprudência desta Corte Superior firmada no sentido de que cabe ao Magistrado de primeiro grau, condutor da instrução e destinatário da prova, indeferir as diligências que entender irrelevantes, impertinentes ou protelatórias, conforme dispõe o art. 400, § 1º, do Código de Processo Penal - CPP. O indeferimento fundamentado da prova requerida pela defesa não revela cerceamento de defesa, quando justificada sua desnecessidade para o deslinde da controvérsia.
+2. "A Constituição que assegura o direito à intimidade, à ampla defesa, ao contraditório e à inviolabilidade do domicílio é a mesma que determina punição a criminosos e o dever do Estado de zelar pela segurança pública. O policiamento preventivo e ostensivo, próprio das Polícias Militares, a fim de salvaguardar a segurança pública, é dever constitucional" (RHC 229.514 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 2/10/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 20/10/2023 PUBLIC 23/10/2023).
+3. Esta Corte Superior possui o entendimento de que as hipóteses de validação da violação domiciliar devem ser restritivamente interpretadas, mostrando-se necessário para legitimar o ingresso de agentes estatais em domicílios, a demonstração, de modo inequívoco, do consentimento livre do morador ou de que havia fundadas suspeitas da ocorrência do delito no interior do imóvel.
+4. In casu, diante do consignado pelas instâncias ordinárias, vê-se a justa causa para ingresso dos policiais no domicílio do agravante, tendo em vista que a busca domiciliar decorreu de informações anônimas especificadas, com descrição detalhada da residência utilizada como ponto de venda de entorpecentes - denúncia esta que fora minimamente confirmada pela diligência policial, em virtude da realização de campana -, o que caracteriza exercício regular da atividade investigativa promovida por esta autoridade a justificar o ingresso no domicílio.
+5. Constatada a existência de indícios prévios da prática da traficância, a autorizar a atuação policial, não há falar em nulidade da prisão em flagrante no interior do domicílio do agente por ausência de mandado judicial.
+6. As circunstâncias antecedentes à abordagem policial deram suporte válido para a diligência policial.
+7. O decisório que determinou a quebra do sigilo do aparelho celular apreendido está devidamente motivado, pois "a decisão de quebra de sigilo telefônico não exige fundamentação exaustiva. Assim, pode o Magistrado decretar a medida mediante motivação concisa e sucinta, desde que demonstre a existência dos requisitos autorizadores da interceptação telefônica" (AgRg no HC n. 894.529/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024).
+8. Agravo regimental desprovido.
+(AgRg no HC n. 934.135/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/11/2024, DJe de 25/11/2024.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE TRÁFICO DE DROGAS. DESNECESSIDADE DE REVOLVIMENTO DE PROVAS. HIPÓTESE DE REVALORAÇÃO. EXISTÊNCIA DE JUSTA CAUSA PARA O RECEBIMENTO DA DENÚNCIA. DENÚNCIA ANÔNIMA. DILIGÊNCIAS PRÉVIAS E ATITUDE SUSPEITA, SOMADAS AO FLAGRANTE. RECURSO ESPECIAL PROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A análise do recurso especial do parquet não demandou o reexame de provas, fundou-se no contido no aresto hostilizado, que bem descreveu a hipótese fática, no entanto, dando solução jurídica desarrazoada.
+2. Embora a Corte Estadual tenha entendido pela ilegalidade da revista pessoal e, consequentemente da invasão domiciliar, e rejeição da denúncia, ressaltou que as diligências foram precedidas do recebimento de denúncia anônima de que no local dos fatos estava ocorrendo suposta atividade de tráfico de entorpecentes, ocasião em que, in loco, constataram a movimentação de pessoas e o forte odor de maconha, seguidos da atitude suspeita do ora agravante, que se encontrava na porta de casa, permitindo a busca pessoal e a localização de drogas e dinheiro trocado. Ato contínuo, adentraram no imóvel, tendo sido apreendida quantidade significativa de entorpecentes, além de apetrechos do tráfico.
+3. No caso dos autos, restou demonstrada a existência de justa causa tanto para a busca pessoal quanto para o ingresso no domicílio, ainda que sem autorização do morador, apurada a partir de denúncia anônima, diligências antecedentes e situação de flagrante criminal, caso em que deve ser recebida a denúncia em desfavor do ora agravante.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.390.397/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. TESE DE ILICITUDE DAS PROVAS. INGRESSO DOMICILIAR SEM MANDADO. FUNDADAS SUSPEITAS DECORRENTES DE DILIGÊNCIAS PRÉVIAS. AUSÊNCIA DE ILEGALIDADE. POSSE DE MUNIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE EM CONTEXTO DE TRÁFICO DE DROGAS. DOSIMETRIA. PLEITO DE AFASTAMENTO DA AGRAVANTE DA REINCIDÊNCIA. IMPOSSIBILIDADE DE APRECIAÇÃO. INSTRUÇÃO DEFICIENTE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. ORDEM NÃO CONHECIDA. I. CASO EM EXAME
+1. Habeas corpus impetrado pela defesa alegando nulidade da prova obtida mediante ingresso domiciliar sem mandado, ilegalidade na condenação pela posse de munição em razão de sua inexpressiva quantidade e atipicidade da conduta, além de erro na aplicação da dosimetria da pena, especificamente na consideração da reincidência e na não aplicação da causa de diminuição do tráfico privilegiado. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) se o ingresso de policiais em domicílio sem mandado para prisão em flagrante foi ilegal; (ii) se a posse de pequena quantidade de munição configura crime em contexto de tráfico de drogas; e (iii) se a dosimetria da pena observou corretamente a agravante da reincidência e a inaplicabilidade da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ admite o ingresso domiciliar sem mandado judicial para flagrante de crime permanente, como o tráfico de drogas, desde que fundadas suspeitas sejam confirmadas por diligências prévias, conforme ocorrido no caso em que os policiais observaram intensa movimentação suspeita e comportamentos típicos de narcotráfico. Assim, inexiste nulidade na diligência.
+4. A posse de munição é considerada crime de perigo abstrato, prescindindo da comprovação de lesividade concreta. O contexto de apreensão, vinculado ao tráfico de drogas, reforça a tipicidade da conduta, afastando a aplicação do princípio da insignificância.
+5. A consideração de reincidência para exasperar a pena, com base em condenação anterior, é legítima quando respeitado o período depurador previsto no art. 64, I, do CP. No caso, embora a extinção da pena da condenação anterior conste sem data específica, o recorrente não comprovou a fluência do período depurador.
+6. A reincidência e os maus antecedentes inviabilizam a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas, que exige o preenchimento de requisitos cumulativos, incluindo a primariedade.
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(HC n. 816.715/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJe de 23/12/2024.)
+Ante o exposto nego provimento ao agravo.
+É o voto.
