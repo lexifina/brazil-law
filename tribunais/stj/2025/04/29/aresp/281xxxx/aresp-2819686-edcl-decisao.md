@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática.
+Proferida decisão no recurso, a parte embargante opõe embargos de declaração apontando vícios na decisão embargada, conforme se percebe dos seguintes trechos da petição:
+A decisão proferida pelo Tribunal de Justiça de São Paulo enfrentou todas as questões suscitadas, motivo pelo qual, era desnecessário o prequestionamento da matéria, conforme amplamente comprovado quando da interposição do recurso especial, que repisamos:
+Em relação aos arts. 6º, VIII do CDC e 373, I do CPC, que tratam sobre o ônus da prova no âmbito das relações de consumo e no processo civil de modo geral, o v. acórdão recorrido indicou que "invertido ope legis o ônus da prova nos termos do art. 14, § 3º, do Código de Defesa do Consumidor, do que não se desincumbiu." (fl. 335).
+É evidente, portanto, que os temas e dispositivos legais objeto deste recurso foram analisados pelas instâncias ordinárias, razão pela qual deverão ser considerados como prequestionados.
+Portanto, é evidente que o recurso deveria ser conhecido, eis que os dispositivos guerreados foram devidamente prequestionados quando do julgamento pelo TJ/SP.
+Ademais, devemos ressaltar que o recurso deveria ter observado que havia um Incidente de Resolução de Demandas Repetitivas ("IRDR") no âmbito do E. TJSP (processo nº 0041040-30.2021.8.26.0000) pendente de julgamento, agora já julgado.
+O Superior Tribunal de Justiça já vinha admitindo recursos similares e candidatando a questão à afetação de IRDR, tal como se extrai do REsp nº 2092310/SP e da manifestação favorável do Ministério Público Federal.
+O referido incidente foi julgado, firmado a tese de que a concessionária se sub-roga apenas nos direitos MATERIAIS dos consumidores e, portanto, não possui a benesse do foro privilegiado, ou seja, São Paulo (sede da embargada) não é competente para julgamento de ações de regresso cujos fatos ocorreram no Rio Grande do Sul (sede da embargante).
+Assim, no Tema 1282 deste Egrégio Superior Tribunal de Justiça foi firmado: "O pagamento de indenização por sinistro não gera para a seguradora a sub-rogação de prerrogativas processuais dos consumidores, em especial quanto à competência na ação regressiva".
+Evidente, portanto, que a decisão possui omissão grave, eis que houve o devido prequestionamento da matéria quando do julgamento realizado pelo Tribunal de Justiça de São Paulo, bem como quanto ao julgamento do Tema 1282, mencionado no recurso interposto e não analisado na decisão embargada.
+É o relatório. Decido.
+Os embargos não merecem acolhimento.
+As alegações da parte embargante foram analisadas na decisão embargada.
+Ademais, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, relator Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais devia pronunciar-se o juiz de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida. (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+O apontamento de vício pela parte embargante foi tratado com clareza e sem contradições, conforme se percebe dos seguintes trechos da decisão:
+A questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, in verbis:
+Ademais, por força da aplicação da "Teoria do Risco Administrativo", configura-se a responsabilidade civil objetiva, bastando a demonstração da ação ou omissão, do resultado lesivo e do nexo causal entre a ação ou omissão e os danos indicados para responsabilizar a concessionária de serviço público pelos prejuízos suportados pela seguradora na condição de credora pela sub-rogação nos direitos e ações dos segurados indenizados. Nesse sentido é o artigo 37, §6º, da Constituição Federal: "As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa".
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+(..)
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+(..)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (Art. 6º, VIII do CDC e art. 373, I do CPC), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ressalte-se ainda que a incidência dos enunciados sumulares, quanto à interposição pela alínea a, impede o conhecimento da divergência jurisprudencial, diante da patente impossibilidade de similitude fática entre acórdãos. Nesse sentido: AgInt no AREsp n. 2.589.825/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 23/9/2024, DJe de 25/9/2024.
+(..)
+As alegações da parte, como se vê, configuram a intenção de rediscutir a matéria, o que é inviável em embargos de declaração.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl 8.826/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/2/2017, DJe 15/3/2017.)
+Cumpre ressaltar que os embargos de declaração não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
