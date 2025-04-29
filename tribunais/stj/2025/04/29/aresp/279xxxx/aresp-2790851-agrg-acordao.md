@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. JUSTA CAUSA AFERIDA POR MEIO DE ELEMENTOS OBJETIVOS. ÓBICE DA SÚMULA 7/STJ. REEXAME FÁTICO-PROBATÓRIO VEDADO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARCOS DANIEL ALVES DOS REIS contra a decisão por mim proferida, por meio da qual se conheceu do agravo em recurso especial para não conhecer do recurso especial (fls. 527/530).
+Requer a parte agravante o afastamento do óbice aplicado (Súmula 7/STJ), uma vez que o recurso especial prescinde do reexame fático, versando sobre matéria de direito. Sustenta que há violação da busca pessoal realizada em desfavor do agravante, visto que ausente a fundada suspeita, amparada em elementos concretos. Reitera que existe divergência nos depoimentos policiais, vejamos:  ..  O acusado olhava para trás, viu a viatura e ficou nervoso. O outro diz que o acusado sequer viu a viatura, de tão rápido que a guarnição aportou. Que não deu tempo dele dar fuga não. O acompanhamento nosso, a gente buzinou, deu aquele toque pra parar do giroflex e ele parou tranquilo. Que Marcos Daniel não ofereceu resistência nenhuma (fl. 539). Assevera que não existiu flagrante de venda de drogas, razão pela qual requer a desclassificação da conduta para posse para uso pessoal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. BUSCA PESSOAL. JUSTA CAUSA AFERIDA POR MEIO DE ELEMENTOS OBJETIVOS. ÓBICE DA SÚMULA 7/STJ. REEXAME FÁTICO-PROBATÓRIO VEDADO.
+Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria do recurso especial não admitido.
+Como afirmei monocraticamente, foi debatida a alegada nulidade da busca pessoal, entendendo o Tribunal de origem, soberano na análise das circunstâncias fático-probatórias do feito, que presentes fundadas razões para a medida após análise dos testemunhos dos policiais que atuaram no flagrante (fls. 424/425 - grifo nosso):
+Nesse contexto, as declarações prestadas pelos policiais em sede policial, e, corroboradas no âmbito da ação penal indicam que, naquela ocasião, havia indícios mínimos a autorizar a busca pessoal e veicular, estas manifestadas pelas ações do réu que davam conta do seu nervosismo ao conduzir a motocicleta em rápida velocidade, após sair de casa bastante acelerado e sem capacete.
+Além do mais, ressalto que avistar um indivíduo sem capacete trafegando em via pública e em alta velocidade configura a dada "fundada suspeita" para abordagem policial, e, por consequência, realizar a busca pessoal e veicular diante da possibilidade do indivíduo trazer consigo de arma proibida ou de objetos ou papéis que constituam corpo de delito, notadamente, nas situações conhecidas pela ciência aplicada à atividade policial, como no presente caso.
+Ademais, alguns fatos devem ser destacados, tais como que o réu estava em via pública, após sair de casa em rápida velocidade, trafegando com uma motocicleta em atividade suspeita e sem capacete.
+Esses fatos, ao meu entender, são aptos a autorizar que o agente de segurança estatal promova à busca pessoal e/ou veicular a fim de prevenir a ocorrência de ilícitos, pois, ao revés, poderia ocasionar uma crise de segurança pública em razão da impossibilidade dos agentes estatais exercerem o seu poder de polícia de forma preventiva.
+Conforme o art. 244 do Código de Processo Penal, a busca pessoal independerá de mandado, no caso de prisão ou quando houver fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito, ou quando a medida for determinada no curso de busca domiciliar.
+Por ocasião do julgamento do RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, DJe de 25/4/2022, a Sexta Turma do Superior Tribunal de Justiça, à unanimidade, efetivou criteriosa análise sobre a busca pessoal estabelecendo standard probatório para a medida, que foi observado no caso.
+C onsiderando os termos da decisão objeto do recurso especial, verifica-se que houve a constatação pelo Tribunal de origem de elementos objetivos caracterizadores da justa causa para a busca pessoal, ainda que os policiais militares ouvidos, somente no curso das oitivas, tenham melhor especificado o que ensejou a abordagem.
+Evidenciado que o recurso especial visa ao reexame de prova mediante reincursão em acervo probatório, por meio da análise detalhada da prova dos autos consistente em testemunhos, laudos, documentos, quebra de dados telefônicos.
+De rigor a aplicação do óbice contido na Súmula 7/STJ, porquanto inviável entender de modo diverso do acórdão, dada a necessidade de revisão de elementos fático-probatórios considerando os termos do recurso especial interposto, vedada nesta via recursal.
+Portanto, o agravante não logrou êxito em demonstrar, em seu regimental, argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, a qual deve ser mantida in totum pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
