@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIEL MARCOS RODRIGUES contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+O recorrente foi condenado como incurso no artigo 155, §§1º e 4º, inciso IV, do Código Penal, à pena de 01 (um) ano, 09 (nove) meses e 10 (dez) dias de reclusão, em regime inicial aberto, e ao pagamento de 08 (oito) dias-multa (fl. 215).
+O Tribunal negou provimento ao apelo defensivo, corrigindo de ofício erro material da sentença, para constar que o réu foi condenado como incurso no artigo 155, §§ 1º e 4º, inciso II, c.c. o artigo 14, II, ambos do Código Penal (fls. 214-221).
+A defesa interpôs recurso especial para, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegar violação aos arts. 1º e 155, §§ 4º, do Código Penal e ao artigo 927, III, do CPC. Assim, requer seja afastada a causa de aumento gerada pela majorante prevista no artigo 155, §1º, do CP (fls. 230-236).
+Apresentadas as contrarrazões do Ministério Público de São Paulo (fls. 244-247), o recurso foi admitido na origem (fls. 285-286).
+O Ministério Público Federal opinou pelo parcial provimento do recurso especial (fls. 295-298).
+É o relatório. DECIDO.
+A controvérsia cinge-se à aplicação da majorante prevista no art. 155, § 1º, do Código Penal, ao furto qualificado.
+O Tribunal de origem entendeu pela aplicação da majorante do repouso noturno ao furto qualificado, não existindo incompatibilidade entre a causa de aumento prevista no § 1º e as qualificadoras do § 4º, ambas do artigo 155 do Código Penal. É o que se vê (fl. 219):
+"Em terceira fase, bem reconhecida a majorante do artigo 155, §1º, do Código Penal, que prevê aumento de 1/3 da pena em decorrência do furto durante o repouso noturno.
+Cumpre destacar que, revendo orientação anterior, esta Câmara passou a entender, na esteira da jurisprudência do E. Supremo Tribunal Federal, que não existe incompatibilidade entre a causa de aumento especial prevista no § 1º e as qualificadoras do § 4º, ambas do artigo 155 do Código Penal.
+Caso contrário, também não seria possível a admissão do furto privilegiado nas hipóteses qualificadas do delito. Tampouco seria admissível o chamado homicídio híbrido, que combina minorantes do § 1º com qualificadoras que vêm em seguida, no § 2º do artigo 121 do Código Penal."
+O entendimento exposto no acórdão de origem não está em consonância com a jurisprudência desta Corte Superior, a qual firmou precedente qualificado em Recurso Repetitivo (Tema n. 1087), no sentido de que " a  causa de aumento prevista no § 1º do art. 155 do Código Penal (prática do crime de furto no período noturno) não incide no crime de furto na sua forma qualificada (§ 4º)". (REsp n. 1.888.756/SP, relator Ministro João Otávio de Noronha, Terceira Seção, julgado em 25/5/2022, DJe de 27/6/2022.).
+Registro que a Sistemática do Recurso Repetitivo objetiva conferir racionalidade e segurança jurídica ao exercício da atividade jurisdicional, de maneira que a não aplicação de precedente qualificado depende da demonstração da não aplicação do entendimento ao feito, da distinção do caso concreto ou da superação do entendimento consolidado.
+O acórdão recorrido colacionou julgado do Supremo Tribunal Federal proferido antes do julgamento da Terceira Seção do Superior Tribunal de Justiça, em que se assentou a incompatibilidade da majorante do repouso noturno com o furto qualificado. A orientação jurisprudencial então vigente no STF foi considerada pela Terceira Seção, quando da fixação da tese jurídica no precedente qualificado, tendo prevalecido, contudo, a interpretação sistemática da legislação infraconstitucional pelo viés topográfico.
+Nessa linha, o Tribunal de origem não apresentou justificativa adequada para a superação do Tema 1087, de observância obrigatória, conforme art. 927 do Código de Processo Civil.
+Assim, com fundamento no art. 932, inciso V, "b", do Código de Processo Civil, dou provimento ao recurso especial, para afastar a majorante.
+Em face disso, passo ao redimensionamento da pena.
+Mantenho a pena-base fixada e o reconhecimento da compensação entre a atenuante da confissão e a agravante da reincidência, por não ter sido objeto do presente recurso, ficando a pena intermediária estabelecida em 02 (dois) anos de reclusão, e 10 (dez) dias-multa.
+Na terceira fase, afastada a majorante do repouso noturno, aplico a redução de 1/3 (um terço) pela tentativa, e fixo a pena definitiva em 01 (um) ano e 04 (quatro) meses de reclusão, e 07 (sete) dias-multa, mantendo o regime inicial aberto.
+Ante o exposto, nos termos do art. 255, §4º, inciso III, do RISTJ, dou provimento ao recurso especial para afastar a majorante do repouso noturno no furto qualificado e readequar a pena do recorrente, fixando a pena definitiva em 01 (um) ano e 04 (quatro) meses de reclusão, e 07 (sete) dias-multa, em regime inicial aberto.
+Publique-se. Intime-se.
+EMENTA
