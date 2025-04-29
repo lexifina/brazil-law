@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TOKIO MARINE SEGURADORA S. A. à decisão proferida por este signatário, nos termos da seguinte ementa (fl. 1.308, e-STJ):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO REGRESSIVA DA SEGURADORA CONTRA A CONCESSIONÁRIA DE ENERGIA ELÉTRICA JULGADA PROCEDENTE. RESPONSABILIDADE OBJETIVA. EXCLUDENTES DE RESPONSABILIDADE NÃO DEMONSTRADAS. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. OSCILAÇÃO NA TENSÃO DA REDE DE ENERGIA ELÉTRICA. DANO EM EQUIPAMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTIVO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Em suas razões (fls. 1.319-1.322, e-STJ), sustenta a parte embargante ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que os honorários advocatícios que foram majorados em seu favor, em virtude do desprovimento do recurso da parte adversa, deveria incidir em percentual sobre o valor da condenação e não sobre o valor da causa, conforme disposto no art. 85, § 2º, do CPC/2015.
+Impugnação às fls. 1.325-1.330 (e-STJ).
+É o relatório.
+Os embargos de declaração, nos termos do art. 1.022, do CPC/2015, apenas têm cabimento quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situação que não se observa na espécie.
+A decisão embargada decidiu a controvérsia com base em fundamentação sólida, sem omissões ou contradições. Na verdade, somente se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A decisão embargado esclareceu a controvérsia, apontando fundamentação consistente, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte.
+No que se refere à majoração de honorários advocatícios, o art. 85, § 11, do CPC/2015 assim dispõe:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(..)
+§ 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento (sem grifos no original).
+Assim, tratando-se de majoração de honorários, os quais foram previamente fixados na sentença, de acordo com o § 2º, do art. 85, do CPC/2015, sobre o valor da causa, e invertidos em virtude do provimento da apelação da ora agravante, não há se falar em omissão, porquanto a majoração da referida verba observou exatamente a determinação legal contida no § 11 do art. 85 do Código de Processo Civil de 2015 acima transcrito.
+Logo, ausentes pontos omissos, contraditórios ou outros vícios processuais, não cabe falar em provimento destes embargos de declaração.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. EXECUÇÃO. HONORÁRIOS. TEMA 1190. MODULAÇÃO DE EFEITOS. ALEGAÇÕES DE VÍCIOS NO ACÓRDÃO EMBARGADO. VÍCIOS INEXISTENTES. PRETENSÃO DE REEXAME.
+I - Os embargos não merecem acolhimento. Cumpre ressaltar que o Tema 1190/STJ: "Na ausência de impugnação à pretensão executória, não são devidos honorários advocatícios sucumbenciais em cumprimento de sentença contra a Fazenda Pública, ainda que o crédito esteja submetido a pagamento por meio de Requisição de Pequeno Valor - RPV", teve os efeitos modulados para a tese repetitiva seja aplicada apenas nos cumprimentos de sentença iniciados após a publicação do acórdão (1.7.2024).
+II - Correta, portanto, a decisão, mantida no julgamento do agravo interno, que deu provimento ao recurso especial do ente estadual para afastar a condenação em honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+III - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 2.166.566/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 9/4/2025, DJEN de 14/4/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. RECURSO REJEITADO.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na espécie.
+2. A prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. A questão não foi decidida como objetivava a parte agravante, uma vez que foi aplicado entendimento diverso. É cediço no STJ que o órgão julgador não fica obrigado a se manifestar sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que, no presente caso, de fato ocorreu.
+3. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+4. Honorários advocatícios majorados em virtude da sucumbência recursal. Nos termos do § 11 do art. 85 do CPC/2015: "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal".
+5. Rever as matérias aqui alegadas acarretaria rediscutir entendimento já manifestado e devidamente embasado. Os embargos declaratórios não se prestam à inovação, à rediscussão da matéria tratada nos autos ou à correção de eventual error in judicando.
+6. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgInt no AREsp n. 1.661.808/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 5/6/2023, DJe de 22/6/2023.)
+Dessa forma, não possuindo a decisão embargada vício a ser sanado por meio dos embargos de declaração, evidente, portanto a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO REGRESSIVA DA SEGURADORA CONTRA A CONCESSIONÁRIA DE ENERGIA ELÉTRICA JULGADA PROCEDENTE. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
