@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por UNIMED SERGIPE COOPERATIVA DE TRABALHO MÉDICO à decisão de fls. 478/479, que não conheceu do recurso.
+Sustenta a parte embargante:
+Os presentes aclaratórios se dignam a demonstrar contradição na decisão retro ante a suposta ausência de recolhimento do preparo recursal em relação ao comprovante de pagamento de fls. 424/425 dos autos materializados, ora ratificado pelo documento de fl. 483, os quais atestam a quitação da guia recursal.
+Aliás, no próprio sistema de acompanhamento de guia de recolhimento do STJ, restou provado que a parte recorrente efetuou o recolhimento do preparo recursal em referência, o que faz, portanto, afastar a deserção do recurso em apreço, vejamos:
+ ..
+Com efeito, no ato de interposição do recurso, o recorrente comprovou o recolhimento do respectivo preparo, nos termos do art. 1.007 do CPC, razão pela qual a deserção não pode ser declarada, uma vez que não se configura a falta do preparo.
+Por fim, é importante mencionar que, o princípio da primazia do mérito foi um dos pilares do Novo Código de Processo Civil, que serve para nortear à atividade jurisdicional no sentido de que este seja desempenhado de forma satisfativa os direitos discutidos em Juízo, ou seja, quando a parte propuser uma ação judicial ela tem o direito de obter a solução de mérito do seu pedido (fls. 485/486).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento (fl. 423).
+Veja-se que o documento de fl. 424, juntado no ato da interposição do recurso, não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não há como verificar se diz respeito à guia de recolhimento relativa a este processo, pois nele não consta o respectivo código de barras.
+Ressalta-se que este STJ consolidou o entendimento de que "A ausência de código de barras no comprovante de recolhimento das custas recursais enseja o não conhecimento do recurso especial, em virtude da deserção, haja vista que impede que se verifique a correspondência entre a guia de recolhimento e o comprovante" (AgInt nos EDcl no AREsp n. 2.566.476/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJEN de 19.2.2025.)
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto deixou o prazo transcorrer in albis.
+Ademais, o comprovante de pagamento com o respectivo código de barras juntado posteriormente (fl. 481) em nada modifica a decisão anterior, pois já ocorrida a preclusão. O prazo para regularizar o vício era peremptório, e se não houve a devida regularização no prazo concedido, houve preclusão temporal, não se admitindo comprovação posterior, ou seja, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo.
+E, ainda que assim não fosse, o preparo não restaria regularizado, tendo em vista que era devido em dobro, nos termos da certidão de saneamento de óbices de fl. 472.
+Outrossim, registre-se que, não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do Recurso Especial, ou mesmo dentro do prazo concedido para regularização do vício. A questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREPARO RECURSAL. AUSÊNCIA DO NÚMERO DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO BANCÁRIO. REGULARIZAÇÃO QUE DEPENDE DO RECOLHIMENTO EM DOBRO NO PRAZO ESTIPULADO. DUPLO JUÍZO DE ADMISSIBILIDADE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que "a ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC/2015. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º), sofre a pena da deserção (Súmula 187/STJ)" - (AgInt no REsp n. 1.856.622/RS, Relator o Ministro Og Fernandes, Segunda Turma, julgado em 15/6/2020, DJe de 24/6/2020).
+2. A ausência do número de código de barras no comprovante de pagamento bancário caracteriza irregularidade no preparo do recurso especial, tornando-o deserto. Precedentes.
+3. A posterior comprovação de pagamento só afasta a deserção se recolhido em dobro e dentro do prazo estipulado.
+4. Cumpre ressaltar que "o recurso especial sujeita-se a um duplo controle de admissibilidade, não vinculando esta Corte - a quem compete o juízo definitivo de admissibilidade do apelo nobre - a prévia decisão emanada pelo Tribunal de segundo grau" (AgInt no REsp n. 2.089.611/SP, Relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+5.  ..
+6. Agravo interno desprovido.
+(AgInt no REsp n. 2.145.179/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2024, DJe de 5/11/2024.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. PAGAMENTO SIMPLES. NOVO PAGAMENTO A DESTEMPO. DESERÇÃO RECONHECIDA. SÚMULA N. 187 DO STJ. PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DE MÉRITO. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Na forma da jurisprudência do STJ, é "dever da parte, quando da interposição do recurso especial, juntar as guias de recolhimento devidamente preenchidas, acompanhadas dos respectivos comprovantes de pagamento, sob pena de deserção" (AgInt no REsp n. 1.908.052/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 18/12/2023, DJe de 20/12/2023).
+2. A não comprovação do pagamento em dobro do preparo recursal a tempo, mesmo após a intimação para tanto, inviabiliza o conhecimento do recurso, nos termos da Súmula n. 187 do STJ.
+3. Não é cabível a aplicação do princípio da primazia do julgamento de mérito na hipótese, pois a parte agravante, a despeito de intimada para a regularização de vício no preparo recursal, não efetuou a sua correção no prazo indicado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.610.768/GO, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+No caso, como a parte não comprovou o recolhimento, o Recurso Especial não foi devida e oportunamente preparado. Incide, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+No mais, "Não é possível a aplicação do princípio da primazia do julgamento de mérito quando a parte, embora intimada para a regularização de vício no preparo recursal, não procede à sua correção. Isso porque cabe à parte observar as regras instrumentais traçadas pelo Código de Processo Civil, o qual impõe responsabilidades a todos os envolvidos na resolução da controvérsia. Assim, em se tratando de vício que se tornou insanável diante das falhas imputadas à parte recorrente, não há que se falar em aplicação do referido princípio." (AgInt no AREsp 2266625/TO, Rel. Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 18.5.2023).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
