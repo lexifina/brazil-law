@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CLAUDIANO FREITAS DE JESUS, em que se aponta como autoridade coatora a 17ª CÂMARA DE DIREITO CRIMINAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS (Apelação n. 80034930920238020001).
+Consta dos autos que o paciente foi condenado à pena total de 15 anos, 8 meses e 7 dias de reclusão, além de 1916 dias-multa, em regime inicial fechado, pela prática dos delitos descritos nos arts. 33 e 35 da Lei n. 11.343/2006, qualificados pelo emprego de arma de fogo, e art. 12 da Lei n. 10.826/2003, em concurso material.
+Alega que houve bis in idem na dosimetria da pena, pois o juízo a quo condenou o paciente pelo crime de posse irregular de arma de fogo e majorou a pena do tráfico de drogas e do crime de associação em razão da mesma arma (fl. 3). Sustenta que, apesar de reconhecer a circunstância atenuante, não foi configurada como diminuição de pena, tampouco foi reconhecida a detração do paciente (fl. 3).
+Afirma que não foram apontados fundamentos idôneos para a manutenção da prisão preventiva e que o paciente está há quase um ano aguardando o julgamento de seu recurso de apelação, o que configura excesso de prazo e constrangimento ilegal (fls. 4-6).
+Requer a concessão da medida liminar para conceder ao paciente o direito de recorrer em liberdade, substituindo-se a prisão cautelar pelas medidas cautelares do art. 319 do Código de Processo Penal, e, após as informações prestadas, seja definitivamente concedida a ordem, confirmando-se a liminar (fls. 7-8).
+É o relatório.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a concessão da ordem de habeas corpus.
+No tocante aos fundamentos da prisão preventiva, não foi o tema ainda enfrentado no Tribunal de origem, não sendo admitida a supressão de instância.
+Quanto ao excesso de prazo, dizem nossos precedentes que deve ser aferido dentro dos limites da razoabilidade, considerando-se as circunstâncias excepcionais que venham a retardar o término da instrução criminal ou do processo, não se restringindo à simples soma aritmética de prazos processuais. Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam afetar o curso da ação penal. Por todos, colho estes da Sexta Turma: AgRg no RHC n. 132.777/AL, da minha relatoria, DJe 1º/12/2021; e RHC n. 140.433/RS, Ministro Antonio Saldanha Palheiro, DJe 10/3/2021.
+Além disso, a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação. Sobre o tema, por exemplo, estes julgados: AgRg no HC n. 549.040/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2020; HC n. 414.264/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/12/2017; AgRg no HC 691.955/RN, Ministro João Otávio de Noronha, Quinta Turma, DJe 24/2/2022.
+Na hipótese em análise, o autos foram remetidos ao Tribunal estadual em 31/10/20024, já oportunizado prazo para a apresentação de razões e contrarrazões recursais, não estando configurada a existência de constrangimento ilegal, até porque o feito ostenta nítida complexidade, extraída da multiplicidade de réus.
+.Além disso, o paciente não está impedido de usufruir de benefícios da execução penal, pois consta ter sido determinada a expedição da guia de recolhimento definitiva.
+A propósito, confira-se, ainda, este precedente: AgRg no HC n. 739.615/CE, Ministra Laurita Vaz, Sexta Turma, DJe 31/5/2022.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. SUPRESSÃO DE INSTÂNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+Ordem denegada.
