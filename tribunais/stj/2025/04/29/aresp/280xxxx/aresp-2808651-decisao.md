@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por KLEITON QUIRINO contra a decisão do Tribunal de origem que inadmitiu o recurso especial.
+Consta dos autos condenação às penas de 2 anos de reclusão no regime inicial semiaberto e de pagamento de 10 dias-multa, como incurso nas sanções do art. 180, caput, do Código Penal. Em segundo grau, o Tribunal de origem negou provimento ao recurso, mantendo a sentença condenatória.
+O agravante interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal.
+Nas razões do recurso, a defesa alegou que o acórdão recorrido violou o art. 59 do Código Penal, ao manter a pena-base em 1 ano e 6 meses de reclusão e 10 dias-multa, sem fundamentação concreta para o aumento desproporcional.
+Sustentou que não se busca o reexame probatório, mas sim a revaloração jurídica da prova, adequando-se à interpretação prevalente.
+Requereu o provimento do recurso especial para reformar o acórdão impugnado, haja vista a ilegalidade na fundamentação empregada na primeira fase da dosimetria.
+O recurso especial foi inadmitido ao fundamento de que, quanto à alegada violação do art. 59 do Código Penal, a reprimenda foi fixada com base nas circunstâncias do caso concreto, e sua modificação impõe considerar o exame da prova, o que não é permitido conforme recomendação da Súmula 7 do STJ (fl. 226). Entendeu-se, ainda, que o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, incidindo a Súmula n. 83 do STJ, que impede o conhecimento do recurso especial por divergência quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Diante da decisão de inadmissibilidade, sobreveio o presente agravo em recurso especial, impugnando os fundamentos da decisão agravada nos seguintes termos: a interposição do recurso especial não tem a finalidade de analisar o conjunto fático-probatório, mas objetiva adequar a decisão recorrida aos preceitos da Lei Federal, especialmente ao art. 59 do Código Penal. A defesa argumentou que não se busca o reexame probatório, mas sim a revaloração jurídica da prova, prática aceita no âmbito do recurso especial.
+Quanto à suposta afronta à Súmula n. 83 do STJ, a defesa sustentou que o caso citado na decisão difere do caso concreto em questão, não havendo que se falar em incidência da súmula.
+Requereu o provimento do agravo para que seja julgado o recurso especial, com o consequente provimento, pois claramente configurada a hipótese legal da alínea a do inciso III do art. 105 da Constituição Federal.
+Impugnação apresentada.
+Parecer do Ministério Público Federal opinando pelo desprovimento do agravo em recurso especial, apontando a incidência da Súmula n. 7 do STJ e a ausência de desproporcionalidade na pena.
+É o relatório.
+A conclusão sobre a inadmissibilidade do recurso, tomada pelo Tribunal de origem no exame prévio de admissibilidade do recurso especial, deve ser mantida.
+O recurso especial tem como objetivo a redução da pena-base, a qual foi mantida na origem com a seguinte fundamentação (fl. 204):
+De acordo com o édito condenatório, a pena-base foi exasperada em razão da avaliação negativa do vetor dos antecedentes criminais, razão pela qual foi fixada em 01 (um) ano e 06 (seis) meses de reclusão e 10 (dez) dias-multa.
+Destarte, havendo uma circunstância judicial desabonadora, é possível a fixação da pena-base acima do limite mínimo legal previsto no preceito secundário do tipo penal.
+Quanto ao critério para a exasperação, necessário consignar que "a fixação da pena-base não precisa seguir um critério matemático rígido, de modo que não há direito subjetivo do réu à adoção de alguma fração especificada para cada circunstância judicial, seja ela de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Tais frações são parâmetros aceitos pela jurisprudência do STJ, mas não se revestem de caráter obrigatório, exigindo-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias" (STJ, Edcl no AgRg no HC 701.231/SC, Relator: Min. Ribeiro Dantas, Quinta Turma, julgado em 07/6/2022, Dje de 14/6/2022)".
+Na hipótese vertente, o critério utilizado pelo juízo a quo revelou-se proporcional e condizente com as especificidades do caso concreto, não havendo reparos a serem corrigidos (grifo próprio).
+Nesse aspecto, frise-se que "a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 2.827.133/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025).
+Dessa forma, o que se extrai é que a conclusão adotada pelo Tribunal de origem se amolda à jurisprudência desta Corte Superior de Justiça, segundo a qual, também, não há falar em direito subjetivo a determinado critério de cálculo, como faz parecer a defesa, quanto indica necessariamente a aplicação de 1/6 ou 1/8 (fl. 210).
+Ressalte-se que o Juízo de primeiro grau, no momento da valoração dos antecedentes, aponta que o réu é multirreincidente (fl. 132), o que, invariavelmente, merece maior reprovação.
+Incide, portanto, a Súmula n. 83 do ST J.
+Registre-se que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
