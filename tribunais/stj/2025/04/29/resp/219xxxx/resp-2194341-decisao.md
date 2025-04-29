@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO, com fundamento no art. 105, III, a , da Constituição Federal, visando a reforma do acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 1.430):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE DA SENTENÇA.
+Tendo em vista a ausência de intimação do MPF em primeiro grau, e a manifestação do Parquet Federal nesta instância, opinando pela nulidade do feito (art. 279, § 2º, do CPC), deve ser anulada a sentença, com a devolução do feito ao Juízo a quo para oportunizar a participação do Parquet, com aproveitamento dos atos que não dependam da manifestação ministerial.
+Os embargos de declaração opostos foram parcialmente acolhidos (e-STJ, fls. 1.472-1.474).
+Nas razões do recurso especial (e-STJ, fls. 1.487-1.500), a insurgente aponta violação aos arts. 179, I e II, 277, 279, § 2º, 489, § 1º, IV, e 1.022, II, do CPC.
+Sustenta, em síntese: a) a ocorrência de negativa de prestação jurisdicional por parte do acórdão recorrido, ao argumento de que o julgado não analisou suas alegações acerca da necessidade de haver efetivo prejuízo para declaração de nulidade processual em virtude da ausência de intimação do Ministério Público para atuar no feito como fiscal da lei; e b) que não há nulidade sem prejuízo, conforme o princípio pas de nullité sans grief, de modo que é descabida a anulação da sentença apenas pela ausência de intimação para intervenção do Ministério Público.
+Contrarrazões às fls. 1.510-1.513 (e-STJ).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 1.518-1.519), ascendendo os autos a esta Corte Superior.
+Parecer do Ministério Público Federal opinando pelo provimento do recurso especial (e-STJ, fls. 1.539-1.543).
+Brevemente relatado, decido.
+No caso em estudo, o TRF da 4ª Região, considerando a ausência de intimação do Ministério Público Federal, em primeira instância, para atuar como fiscal da lei, declarou a nulidade da sentença que julgou improcedentes o pedido da ação civil pública ajuizada pela Associação dos Servidores da Universidade Federal de Santa Maria , de acordo com as seguintes justificativas (e-STJ, fl. 1.428):
+Segundo o art. 279 do Código de Processo Civil, Se o processo tiver tramitado sem conhecimento do membro do Ministério Público, o juiz invalidará os atos praticados a partir do momento em que ele deveria ter sido intimado.
+Por sua vez, o artigo 5º, parágrafo 1º, da Lei 7.347/85, determina que o Ministério Público, se não intervier no processo como parte, atuará obrigatoriamente como fiscal da Lei.
+Por fim, determina o artigo 179 do Código de Processo Civil o que segue: Art. 179. Nos casos de intervenção como fiscal da ordem jurídica, o Ministério Público:
+I - terá vista dos autos depois das partes, sendo intimado de todos os atos do processo;
+II - poderá produzir provas, requerer as medidas processuais pertinentes e recorrer.
+Com efeito, a intervenção do Ministério Público nas causas em que determina a lei não pode ser apenas formal, mas efetiva, com a oportunização de vista de todo o processado ao representante do Parquet, na linha do disposto no art. 179 do CPC.
+(..)
+Destarte, em razão da ausência de intimação do MPF em primeiro grau, e da manifestação do Parquet Federal nesta instância, opinando pela nulidade do feito por esse motivo (art. 279, § 2º, do CPC), deve ser anulada a sentença, com a devolução do feito ao Juízo a quo para oportunizar a participação do Parquet, com aproveitamento dos atos que não dependam da manifestação ministerial.
+Resta prejudicado o exame da apelação interposta.
+Ante o exposto, voto por, ex officio, determinar a anulação da sentença, com o retorno dos autos à primeira instância, julgando prejudicada a apelação, nos termos da fundamentação.
+A então parte embargante, por sua vez, nas razões dos declaratórios, apontou a ocorrência de omissão no julgado acima referido, ao argumento de que o acórdão impugnado não analisou suas alegações no sentido que a ausência de intimação do Ministério Público em ação civil pública para funcionar como fiscal da lei somente enseja a nulidade processual se houver a demonstração de efetivo prejuízo (e-STJ, fls. 1.442-1.446):
+Faz-se presente, no caso concreto, omissão.
+Isso porque o órgão ministerial, intimado neste grau de jurisdição também como fiscal da lei, ofereceu parecer em que, a despeito de arguir nulidade pelo mesmo fundamento do acórdão, discorreu sobre o mérito da causa e, indo mais adiante, opinou pela manutenção da sentença de improcedência da demanda coletiva nos seguintes termos:
+"(..) Quanto ao mérito, verifica-se que a questão fora analisada corretamente pelo magistrado a quo. Eis que foram observados os dispositivos legais que disciplinam a matéria, o laudo pericial (evento 182 - processo originário), e à situação fática dos autos. No mesmo sentido, constata-se que a associação recorrente, em suas razões, não trouxe elementos aptos a ensejar quaisquer alterações na sentença ora em discussão, que deve permanecer hígida, por seus próprios fundamentos. (..)".
+Prejuízo, portanto, não ocorreu ao MPF, restando sanada a nulidade processual apontada por ele mesmo em preliminar do seu parecer, diante da ocorrência da situação prevista no art. 277 do CPC, por meio da qual não há nulidade sem efetivo prejuízo.
+Trata-se, no caso concreto, de questão pacífica no âmbito do Superior Tribunal de Justiça, inclusive no tocante àquelas ações em que o MPF deva figurar obrigatoriamente como fiscal da lei:
+(..)
+Assim como a nulidade pode e deve ser declarada de ofício, a análise da manifestação incontroversa ministerial pela ausência de prejuízo também acarreta seja afastado, de ofício, tal reconhecimento, tal como se verifica nos precedentes acima.
+Assim, restou omisso o acórdão ao não enfrentar, ainda que de ofício, a ausência de prejuízo nos autos a partir da ausência de intervenção ministerial na 1ª instância, face ao conteúdo de sua manifestação perante este grau de jurisdição, no qual categoricamente enfrentou o mérito da demanda e emitiu parecer conclusivo.
+No julgamento dos aclaratórios, o colegiado regional, reconhecendo inexistirem vícios no julgado embargado concernentes à matéria, limitou-se a reiterar a conclusão vertida no acórdão recorrido (e-STJ, fls. 1.472-1.474).
+Desse modo, tendo em vista que o referido tema foi oportunamente suscitado pela parte recorrente, o Tribunal de origem deveria ter examinado as alegações que, a esse respeito, foram-lhe submetidas. Nesse contexto, a persistência na omissão, diante da rejeição dos embargos de declaração sem apreciação de questões jurídicas relevantes, deu azo à violação dos arts. 489 e 1.022 do CPC.
+A propósito, verifica-se que a matéria suscitada pela então embargante é, de fato, relevante para o deslinde da controvérsia, visto que a jurisprudência do Superior Tribunal de Justiça reconhece que "a ausência de intimação do Ministério Público em ação civil pública para funcionar como fiscal da lei não dá ensejo, por si só, a nulidade processual, salvo comprovado prejuízo" (AgInt no REsp n. 1.689.653/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 26/2/2019).
+Impõe-se, assim, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das referidas questões alegadas pela parte então embargante.
+Ilustrativamente:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVER DE FUNDAMENTAÇÃO. ART. 489 E 1.022 DO CPC. TRANSFERÊNCIA DE CRÉDITOS DE ICMS. EXPORTAÇÃO. COMPENSAÇÃO PRÉVIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo interno contra decisão que deu provimento ao recurso especial para anular acórdão que julgou embargos de declaração, determinando o retorno dos autos para reexame.
+2. A recorrente busca a transferência de saldo credor de ICMS acumulado e futuro, decorrente de operações de exportação, afastando restrições impostas por decreto estadual.
+3. Omissão do acórdão recorrido quanto ao argumento referente à necessidade de prévia compensação de créditos e débitos antes de autorizar a transferência, conforme art. 25, caput, da LC 87/1996.
+4. Acórdão recorrido que não enfrentou alegação de que a compensação prévia é exigida pela lei federal, o que constitui omissão relevante. Sendo assim, correta a decisão agravada que deu provimento ao recurso especial do ESTADO DO RIO GRANDE DO SUL quanto à violação do art. 1.022 do CPC/2015, a fim de anular o aresto proferido nos embargos de declaração e determinar o retorno dos autos ao egrégio Tribunal de origem para que profira novo julgamento.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.160.329/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Em face do reconhecimento da apontada nulidade por negativa de prestação jurisdicional, fica prejudicada a apreciação das demais teses apresentadas pela recorrente.
+Ante o exposto, dou provimento ao recurso especial a fim de, reconhecida a violação dos arts. 489 e 1.022 do CPC, determinar ao Tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre as relevantes questões que lhe foram submetidas pela parte embargante.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL PARA ATUAR COMO FISCAL DA LEI. NULIDADE. ALEGADA AUSÊNCIA DE EFETIVO PREJUÍZO. OMISSÃO DO TRIBUNAL DE ORIGEM. QUESTÃO OPORTUNAMENTE SUSCITADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. RECURSO ESPECIAL PROVIDO.
