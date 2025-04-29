@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2025 a 29/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fls. 1.615-1.616):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE JUNTADA DA CÓPIA OU DE REPOSITÓRIO DO INTEIRO TEOR DOS ACÓRDÃOS APONTADOS COMO PARADIGMAS. DISSÍDIO NÃO DEMONSTRADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Caso em que a Presidência desta Corte indeferiu liminarmente os embargos de divergência porquanto a parte, no momento da interposição do recurso, limitou-se a transcrever trechos dos julgados paradigmas, deixando de apresentar o relatório, o voto e a certidão de julgamento. Assim, não observou regra técnica do mencionado recurso, o que constitui vício substancial insanável.
+3. "A mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão" (AgRg nos EAREsp 2.000.424/PB, relator Ministro João Otávio de Noronha, Corte Especial, DJe 28/11/2022).
+4. Agravo interno não provido.
+A embargante, aduzindo a ocorrência de omissão e contradição, afirma que "o v. acórdão desconsiderou a previsão do artigo 932 do CPC, que dispensa a juntada dos acórdãos paradigmas nos Embargos de Divergência quando a divergência já estiver demonstrada. No pedido de reconsideração, a parte recorrente anexou os acórdãos e reforçou a tese da divergência, cumprindo plenamente os requisitos formais e materiais. Ainda assim, a decisão negou seguimento sem análise de mérito, em afronta ao princípio da primazia da decisão de mérito e ao devido processo legal" (fl. 1.631).
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Convém salientar que a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado. A propósito: EDcl no REsp 1.361.800/SP, relator Ministro Mauro Campbell Marques, Corte Especial, DJe 18/4/2024; EDcl no AgInt nos EREsp 1.736.593/SP, relator Ministro Francisco Falcão, Corte Especial, DJe 16/10/2023; EDcl no AgRg no Inq 1.190/DF, relator Ministro Felix Fischer, Corte Especial, DJe 18/12/2020.
+Destaque-se, ainda, que não se há de confundir omissão com decisão contrária aos interesses da parte. Nesse sentido: EDcl no REsp 1.235.228/SE, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 25/4/2016; AgRg no REsp 1.295.081/PE, relator Ministro Og Fernandes, Segunda Turma, DJe 6/8/2015; AgRg no REsp 1.496.358/SC, relator Ministro Humberto Martins, Segunda Turma, DJe 19/5/2015; AgRg no Ag 974.033/SP, relatora Ministra Denise Arruda, Primeira Turma, DJe 18/9/2008.
+Na espécie, a leitura atenta das razões dos presentes embargos de declaração evidencia que a pretensão da ora embargante, na verdade, é, tão somente, manifestar discordância e pedir o rejulgamento de questão já decidida, o que, sabidamente, não é cabível na via dos aclaratórios.
+Notadamente, o acórdão embargado não padece de qualquer vício porquanto, apreciando detidamente o feito, registrou que (fls. 1.619-1.622):
+No caso concreto, infere-se dos autos que o recorrente, por ocasião da interposição dos embargos de divergência, limitou-se a transcrever trechos dos julgados paradigmas, deixando de apresentar o relatório, o voto e a certidão de julgamento. Assim, não observou regra técnica do mencionado recurso, o que constitui vício substancial insanável.
+Com efeito, "a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão" (AgRg nos EAREsp 2.000.424/PB, relator Ministro João Otávio de Noronha, Corte Especial, DJe 28/11/2022).
+ ..
+Anote-se, por oportuno, que, segundo a jurisprudência desta Corte, somente será concedido o prazo previsto no artigo 932, parágrafo único, do CPC/2015 para que a parte sane vício estritamente formal, o que não é o caso dos autos.
+Assim, inexistentes as hipóteses do artigo 1.022 do Código de Processo Civil/2015, os embargos de declaração não merecem acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
