@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CARLOS ENRIQUE DA SILVA PAIXÃO contra decisão proferida pelo Vice-Presidente do Tribunal de Justiça do Estado do Pará que negou seguimento ao recurso especial com fundamento no óbice da Súmula n. 83/STJ.
+O recorrente foi condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 dias-multa, como incurso nas sanções do art. 157, § 2º, II, do Código Penal.
+No julgamento da apelação criminal, a 1ª Turma de Direito Penal do Tribunal de Justiça do Estado do Pará deu parcial provimento ao recurso para reduzir a pena-base ao mínimo legal, mantendo, no entanto, a pena final aplicada, após reconhecer a presença da atenuante da confissão espontânea (art. 65, III, d, do CP), mas deixar de aplicá-la em razão do óbice da Súmula n. 231/STJ, que estabelece que a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+Nas razões do recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, o recorrente alega violação ao disposto no art. 65, III, "d", do Código Penal, sustentando a inconstitucionalidade da Súmula n. 231/STJ.
+Em suas razões de agravo, o recorrente sustenta que a decisão de inadmissibilidade não deveria ter aplicado o óbice da Súmula n. 83/STJ, pois a matéria estaria em rediscussão pela Terceira Seção do Superior Tribunal de Justiça, nos autos dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS, afetados como representativos de controvérsia.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial, considerando que o entendimento do Tribunal a quo está em consonância com a orientação jurisprudencial consolidada deste Superior Tribunal de Justiça, inclusive em regime de recursos repetitivos (Tema 190).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+De início, verifico que a irresignação do agravante se dirige à aplicação da Súmula n. 83/STJ como fundamento para a inadmissão do recurso especial pelo Tribunal de origem.
+Ocorre que o acórdão recorrido, de fato, está em perfeita consonância com o entendimento consolidado desta Corte, segundo o qual a incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal (Súmula n. 231/STJ).
+A tese sustentada pelo agravante  possibilidade de redução da pena aquém do mínimo legal pela aplicação de circunstância atenuante  foi apreciada e rejeitada pelo Superior Tribunal de Justiça em sede de recurso repetitivo, no julgamento do Tema 190, e pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do Tema 158.
+Ademais, a alegação de que a matéria estaria sendo rediscutida pela Terceira Seção deste Superior Tribunal de Justiça não encontra respaldo, uma vez que, como bem apontado pelo Ministério Público Federal, a questão foi recentemente reafirmada, mantendo-se o entendimento consolidado na Súmula n. 231/STJ, conforme decisão proferida pela Terceira Seção em 14/8/2024, publicada no DJe em 18/9/2024, quando do julgamento dos Recursos Especiais n. 2.057.181/SE, 2.052.085/TO e 1.869.764/MS.
+Nesse contexto, a decisão agravada está em perfeita consonância com a pacífica jurisprudência deste Tribunal Superior, constituindo acertada aplicação da Súmula n. 83/STJ, aplicável também ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional, que dispõe: não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
