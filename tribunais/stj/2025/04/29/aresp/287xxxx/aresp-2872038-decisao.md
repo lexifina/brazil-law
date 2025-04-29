@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 865):
+DIREITO PROCESSUAL CIVIL. DIREITO BANCÁRIO. AGRAVO INTERNO CÍVEL.
+DECISÃO MULTITEMÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL, LASTREADA NO ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CÓDIGO DE PROCESSO CIVIL E O INADMITIU NO RESTANTE. 1. CÉDULA DE CRÉDITO RURAL. CAPITALIZAÇÃO MENSAL DE JUROS. PACTUAÇÃO EXPRESSA. ACÓRDÃO EM HARMONIA COM A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP Nº 1.333.977/MT, TEMA Nº 654 DO STJ, REPRESENTATIVO DA CONTROVÉRSIA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO. 2. DESCARACTERIZAÇÃO DA MORA. DESCABIMENTO, ANTE A NÃO CONSTATAÇÃO DE ABUSIVIDADE PELO ÓRGÃO JULGADOR. ACÓRDÃO EM HARMONIA COM A DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP Nº 1.061.530/RS - TEMA 28 DO STJ, JULGADO SOB A ÉGIDE DOS RECURSOS REPETITIVOS. 3. AGRAVO INTERNO CONHECIDO E NÃO PROVIDO, COM APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.021, § 4º DO CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 14 da Lei n. 4.829/1965; bem como divergência jurisprudencial.
+Defende a revisão do contrato e a descaracterização da mora do devedor.
+Alega que "O ACÓRDÃO RECORRIDO NEGA VIGÊNCIA E EFICÁCIA AO ART. 14, DA LEI N. 4.829/65, que determina que os PRAZOS em operações de crédito rural são estabelecidos pelo CMN, independente da vontade dos Agentes Financeiros participantes do SNCR (dispensando contraditório) e, assim o CMN disciplinou os prazos, por meio do Manual de Crédito Rural (MCR 2.6.9) "independentemente de consulta ao Banco Central, É DEVIDA A PRORROGAÇÃO DA DÍVIDA", tal como ocorre no presente caso, razão pela qual deve o presente especial ser recebido e, no mérito, provido para reformar a passagem do acórdão em conflito com a expressa determinação da Lei Federal invocada".
+Argumenta que a capitalização mensal de juros não foi expressamente pactuada na cédula de crédito rural.
+Aduz que a cláusula que prevê a comissão de permanência deve ser declarada nula.
+Assevera que a fixação dos honorários advocatícios pelo Tribunal de origem desconsider ou os princípios da proporcionalidade e razoabilidade.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Na hipótese, com relação à mora e à capitalização de juros, o Tribunal de origem negou seguimento ao recurso especial, com fundamento no artigo 1.030, inciso I, do Código de Processo Civil, em razão da aplicação dos Temas 28 e 654 desta Corte; e, quanto às demais questões não admitiu o recurso, em razão dos óbices das Súmulas 7, 83 e 211 do STJ, (e-STJ, fls. 856/861).
+Registro que, no tocante à negativa de seguimento do recurso especial, com fundamento no artigo 1.030, inciso I, do CPC, caberia à parte interpor o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do Código de Processo Civil, uma vez que o Tribunal local, em juízo negativo de admissibilidade, negou seguimento ao Recurso Especial, tendo em vista que o capítulo da decisão estava em consonância com o entendimento desta Corte, firmado sob a sistemática de recurso repetitivo.
+Com efeito, além de a parte recorrente não interpor, nos termos do art. 1.030, § 2º, do CPC, o recurso de agravo interno ao capítulo da decisão que aplicou tese definida em recurso repetitivo, apresentou agravo em face da decisão de admissibilidade sem combater especificamente os fundamentos da decisão agravada.
+Em suas razões de recurso, a parte agravante não impugnou especificamente os fundamentos da decisão agravada, pois não rebateu a incidência do óbice da Súmula 211/STJ.
+Registre-se que a impugnação da decisão agravada há de ser específica, de modo que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
