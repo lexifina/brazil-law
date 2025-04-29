@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FRANCISCO RODRIGUES FILHO contra decisão, da lavra deste signatário, acostada às fls. 596/598, que declarou a incompetência deste STJ para processar e julgar a presente ação rescisória.
+Em suas razões, o insurgente repisa os fundamentos da exordial. Pontualmente, destaca a competência do STJ para o exame de seu pleito rescisório. Requer, ao final, o acolhimento dos aclaratórios. (fls. 602/606)
+A impugnação está acostada às fls. 609/655.
+É o relatório.
+Decisão.
+Os aclaratórios não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, registram-se os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO NO RECURSO ESPECIAL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC QUE NÃO SE VERIFICA. PENHORA DE COTAS SOCIAIS. IMPOSSIBILIDADE. REEXAME DE PROVAS. NECESSIDADE. INCIDE A SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os embargos de declaração somente são cabíveis quando houver no julgado omissão, contradição ou obscuridade, nos termos do art. 535 do CPC, o que não se observa no caso dos autos, pois houve manifestação suficiente pelo Tribunal de origem, acerca da matéria recorrida, ainda que em sentido contrário à pretensão do recorrente.
+ ..  3. Agravo regimental não provido.
+AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015.
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões.
+3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado.
+EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que este signatário expressou compreensão segundo a qual este Superior Tribunal de Justiça não enfrentou, de maneira direta e concreta, o mérito da insurgência subjacente à presente ação rescisória (alegação de ilegalidade de exclusão de cooperativa de trabalho médico), em razão da deliberação da eg. Presidência do STJ, mantida pela eg. Terceira Turma, que não conheceu do agravo em recurso especial interposto pelo ora autor, ante à sua intempestividade.
+Na oportunidade, foram citados os seguintes julgados: AgInt na AR 6932/SP, Rel. Min. Marco Aurélio Bellizze, D Je de 24/08/2021; AR 5905/PR, Rel. Min. Nancy Andrighi, Dje de 10/05/2021; AR 5905/PR, Rel. Min. Paulo de Tarso Sanseverino, D Je de 29/10/2020; AgInt na AR 5800/RS, Rel. Min. Antonio Carlos Ferreira, D Je de 20/08/2020; AgInt nos E Dcl nos E Dcl na AR 3960/PR, Rel. Min. Maria Isabel Gallotti, D Je de 25/08/2020; AgInt na AR 6459/SP, Rel. Min. Moura Ribeiro, D Je de 17/02/2022; AR 5649/RN, desta Relatoria, D Je de 25/08/2020; Agint na AR 4621/SP, Rel. Min. Nancy Andrighi, D Je de 13/10/2011;Agint na AR 6382/DF, Rel. Min. Antonio Carlos Ferreira, D Je de 27/09/2021; AR 4797/MG, Rel. Min. Maria Isabel Gallotti, Dje de 30/06/2021.
+2. Do exposto, com fundamento no art. 1.022, do CPC, rejeito os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
