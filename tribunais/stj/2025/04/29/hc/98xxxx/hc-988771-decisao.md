@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ROBERTO PRIETO FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1500202- 75.2022.8.26.0536). Consta dos autos que o paciente foi denunciado e condenado pelos crimes de tráfico de drogas, associação para o tráfico e lavagem de dinheiro, à pena de 20 (vinte) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, além de multa. O Tribunal de origem, após a interposição de recurso de apelação pela defesa, encerrou o feito e determinou sua baixa à origem. O impetrante sustenta a ocorrência de flagrante ilegalidade consistente no indevido encerramento do processo e sua devolução à origem sem o julgamento da apelação interposta. Aduz que tal situação configura constrangimento ilegal ao paciente, que possui ordem de prisão preventiva em seu desfavor, obrigando-o a aguardar lapso temporal imprevisível para ver sua pretensão absolutória apreciada no mérito. Acrescenta que o erro cometido impede o paciente de exercer seu direito constitucional de recorrer às Cortes Superiores. Requer, liminarmente, a revogação da ordem de prisão preventiva. No mérito, pleiteia que seja determinado ao órgão jurisdicional apontado como coator que tome as providências cabíveis para reparar o erro de processamento, retornando os autos à Corte Estadual e prosseguindo-se no julgamento do recurso de apelação interposto pelo paciente.
+Decisão pelo indeferimento do pedido liminar às fls. 164-165.
+Informações prestadas às fls. 172-228.
+Parecer do Ministério Público Federal, às fls. 230-231, pelo reconhecimento da prejudicialidade do habeas corpus, ante a perda superveniente do seu objeto.
+É o relatório.
+DECIDO.
+De acordo com as informações prestadas pela autoriedade coatora, foi mencionado expressamente (fls. 179-180; grifos inovados):
+Certificado o trânsito em julgado, o processo foi enviado à Vara de origem. Realizado pelo patrono pedido de devolução do feito a este Tribunal, em razão da pendência do julgamento do recurso de apelação, a Juíza determinou a sua devolução. Nesta Casa, aos 04 de abril último, foi tornada sem efeito a certidão de trânsito em julgado mencionada. Anoto ademais que, no mesmo dia supradito, em razão de permuta, foi transferida a relatoria para o Desembargador Rodrigues Torres, com quem estão os autos conclusos. Assinalo por fim que, nesta data, foi determinada a comunicação ao Relator acerca da impetração em destaque e da prestação destes informes para conhecimento e providências que entender cabíveis.
+Destarte, o objeto do mandamus, qual seja, a flagrante ilegalidade pelo erro na certificação do trânsito em julgado (baixa na origem), já foi superado com o reconhecimento pela determinação do Tribunal de origem em tornar sem efeito o trânsito em julgado.
+Mutatis mutandis, entende esta Corte:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DE OBJETO DO HABEAS CORPUS. AGRAVO NÃO PROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que julgou prejudicado habeas corpus impetrado em favor de réu condenado por tráfico de drogas, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+2. A sentença condenatória foi proferida em 20/8/2024, evidenciando a perda de objeto do habeas corpus.
+II. Questão em discussão3. A questão em discussão consiste em saber se a superveniência de sentença condenatória prejudica o habeas corpus, constituindo novo título que altera o cenário fático-probatório quanto às ilegalidades probatórias suscitadas pela defesa.
+III. Razões de decidir4. A superveniência de sentença condenatória constitui novo título que prejudica o habeas corpus impetrado anteriormente, alterando o cenário fático-probatório e justificando a perda de objeto da impetração, conforme jurisprudência do STJ e STF.
+IV. Dispositivo e tese5. Agravo regimental desprovido.
+Tese de julgamento: "1. A superveniência de sentença condenatória constitui novo título que prejudica o habeas corpus impetrado anteriormente.".
+Dispositivos relevantes citados: CPP, art. 312.Jurisprudência relevante citad a: STJ, AgRg no HC 932.831/SC, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 27/11/2024; STJ, AgRg no AgRg no HC 890.403/SP, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 24/6/2024; STJ, AgRg no HC 798.863/MS, Rel. Min. Messod Azulay Neto, Quinta Turma, julgado em 25/9/2023.
+(AgRg no HC n. 942.362/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
