@@ -1,0 +1,45 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do HC n. 965.157/GO (fl. 1.040).
+Trata-se de agravo interposto por Isaque Serafim dos Santos contra a decisão proferida pelo Tribunal de Justiça de Goiás que, em juízo de admissibilidade, não admitiu o recurso especial por ele manifestado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 5413962-86.2022.8.09.0051 (fls. 961/972).
+Nas razões do especial, apontou a defesa violação dos arts. 240, § 2º, e 244 do Código de Processo Penal, sustentando, em síntese, a nulidade da busca veicular infundada, a contaminar a persecução penal desde sua origem (fls. 987/993).
+Apresentadas contrarrazões (fls. 1.005/1.011), o Tribunal local inadmitiu o recurso, por incidência da Súmula 7/STJ (fls. 1.014/1.027).
+Daí o presente agravo (fls. 1.020/1.024). Instado a se manifestar, o Ministério Público Federal opina pelo não conhecimento do agravo em recurso especial, em razão da ausência de impugnação específica do fundamento da decisão agravada, com incidência da Súmula 182/STJ (fls. 1.046/1.048).
+É o relatório.
+Estou de acordo com a nobre parecerista: o agravo é inadmissível.
+A teor do disposto no art. 932, III, do Código de Processo Civil, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles (AgRg no AREsp n. 534.288/RR, Ministro Jorge Mussi, Quinta Turma, DJe 10/10/2018).
+Isso porque a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+Nesse sentido, destaco os seguintes precedentes: AgRg no AREsp n. 1.709.642/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/2/2022; AgRg no AREsp n. 1.808.765/SP, de minha relatoria, Sexta Turma, DJe 26/5/2021; AgRg nos EDcl no AREsp n. 1.785.474/SC, Ministra Laurita Vaz Sexta Turma, DJe 3/5/2021; e EAREsp n. 701.404/SC, Relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, verifica-se, de plano, que o agravante não rebateu, de forma específica, o fundamento adotado pelo decisum combatido.
+Como dito acima, a Corte local obstou o especial por incidência da Súmula 7/STJ (fls. 1.014/1.017).
+Ao oferecer agravo em recurso especial, restringiu-se a defesa a alegar, genericamente, que a análise do recurso especial não demanda a reincursão no acervo fático pois se trata de discussão eminentemente técnico-jurídica (fl. 1.021), e a reiterar a tese de mérito apresentada no apelo nobre.
+Tal o contexto, verifica-se que não foi observada a regra disposta nos arts. 932, III, do Código de Processo Civil, e 253, parágrafo único, I, do RISTJ, atraindo, com isso, a incidência da Súmula 182/STJ, por analogia.
+Sobre o tema, destaco: AgRg no AREsp n. 2.193.431/PR, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/11/2022; AgRg no AREsp n. 2.094.944/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/8/2022; AgRg no AREsp n. 2.123.045/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/8/2022; AgRg no AREsp n. 1.834.993/SC, Ministro João Otávio de Noronha, Quinta Turma, DJe 8/8/2022; AgRg no AREsp n. 2.102.735/MS, Ministra Laurita Vaz, Sexta Turma, DJe 12/8/2022; AgRg no AREsp n. 2.067.553/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022, dentre outros.
+Ressalto que, para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.121.358/ES, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/9/2022).
+Importante ter presente, ainda que em obiter dictum, que a matéria aduzida no presente recurso já foi objeto do HC n. 965.157/GO, impetrado em benefício do corréu Paulo Cesar da Silva Borges, no qual a petição inicial foi indeferida liminarmente. Confira-se a ementa do referido decisum (fl. 1.028 daqueles autos):
+DIREITO PENAL. HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. ILICITUDE DA PROVA OBTIDA EM BUSCA VEICULAR. EXISTÊNCIA DE FUNDADAS RAZÕES. PLEITO DE ABSOLVIÇÃO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Petição inicial indeferida liminarmente.
+Na oportunidade, consignei expressamente que inexiste ilegalidade flagrante que justifique a concessão de habeas corpus de ofício e a consequente superação do óbice constatado. No caso, do que se colhe da moldura estabelecida no acórdão recorrido, a situação retratada, em princípio, ostenta contornos distintos daquelas em que esta Corte tem reconhecido a inexistência de fundada suspeita - pressuposto para busca veicular (equiparada à busca pessoal) -, notadamente porque durante patrulhamento em via pública os agentes avistaram os acusados em situação de flagrância - visto que trafegavam em velocidade bem inferior àquela permitida na via, circunstâncias essas que fundaram a convicção dos policiais de que eles poderiam estar transportando algo de ilícito (fls. 1.029/1.030 daqueles autos).
+A mencionada decisão foi confirmada pelo órgão colegiado no julgamento do agravo regimental (fls. 1.060/1.061 daqueles autos):
+DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. BUSCA VEICULAR. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame 1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus substitutivo de recurso próprio, em caso de tráfico de drogas, alegando ilicitude da prova obtida em busca veicular.
+2. Fato relevante. Durante patrulhamento, agentes policiais avistaram os acusados em situação de flagrância, trafegando em velocidade inferior à permitida, o que gerou suspeita de transporte de ilícitos. A busca veicular resultou na apreensão de drogas.
+3. As decisões anteriores. A decisão agravada considerou o habeas corpus incabível como substitutivo de recurso próprio e não identificou ilegalidade flagrante que justificasse a concessão de habeas corpus de ofício.
+II. Questão em discussão 4. A questão em discussão consiste em saber se a busca veicular, que resultou na apreensão de drogas, foi realizada com base em fundadas razões que afastam a alegação de ilicitude da prova.
+5. A questão também envolve a análise da possibilidade de reexame de provas em sede de habeas corpus, considerando a alegação de que os fatos não ocorreram conforme apresentado pelas instâncias ordinárias.
+III. Razões de decidir 6. O habeas corpus não é cabível como substitutivo de recurso próprio, conforme entendimento consolidado.
+7. A busca veicular foi justificada por fundadas razões, não se tratando de suspeitas vagas ou meras conjecturas, o que legitima a atuação policial.
+8. O reexame de provas é inviável em sede de habeas corpus, sendo necessário respeitar as conclusões das instâncias ordinárias quanto aos fatos.
+IV. Dispositivo e tese
+9. Agravo regimental desprovido.
+Tese de julgamento: "1. O habeas corpus não é cabível como substitutivo de recurso próprio. 2. A busca veicular justificada por fundadas razões não configura ilicitude da prova. 3. O reexame de provas é inviável em sede de habeas corpus".
+Dispositivos relevantes citados: Não há dispositivos legais específicos citados.
+Jurisprudência relevante citada: STJ, AgRg no HC 753.464/SC, Min. Laurita Vaz, Sexta Turma, DJe 29/9/2022.
+O referido acórdão foi publicado em 11/3/2025 (fl. 1.067 daqueles autos).
+Sendo assim, já apreciado o pedido manifestado no presente agravo em recurso especial, por meio de pronunciamento definitivo desta Corte acerca do tema suscitado nas razões recursais, torna-se prejudicado o seu julgamento, pela perda de objeto.
+A propósito, veja-se o AgRg nos EDcl no REsp n. 1.967.476/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/12/2022, DJe de 14/12/2022.
+Ressalte-se que, assim como no habeas corpus, é vedado, no recurso especial, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FALTA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. INCIDÊNCIA DA SÚMULA 182/STJ. FUNDAMENTO SUBSIDIÁRIO: REDISCUSSÃO DE MATÉRIA JÁ APRECIADA EM SEDE DE HABEAS CORPUS. PERDA DO OBJETO. RECURSO PREJUDICADO.
+Agravo em recurso especial não conhecido.
