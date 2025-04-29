@@ -1,0 +1,12 @@
+DECISÃO
+Primeiramente, determino a regularização do polo ativo, mediante inclusão dos sucessores cuja habilitação requerida fica desde já deferida, ou seja, Roberto Arraes de Alencar, Ricardo Arraes de Alencar, Mariana Arraes de Alencar Barbosa e Diego Arraes de Alencar Fernandes.
+Quanto ao presente feito, a manifestação da parte exequente (fls. 90-105) indica o reconhecimento de que o valor pleiteado foi integralmente pago administrativamente, como decorrência da assinatura do Termo de Adesão 236-A, em 09/02/2011, o que implica reconhecimento da procedência do argumento veiculado pela União.
+Diferente, porém, é a solução a ser dada aos pleitos de condenação da parte exequente à litigância de má-fé (pedido da União) e da União ao pagamento dos honorários de sucumbência (pedido dos sucessores do exequente).
+Com efeito, mostra-se bastante plausível a argumentação dos sucessores, no que se refere à ausência de má-fé, como decorrência das circunstâncias fáticas que envolvem a questão (ajuizamento da Execução em 10/08/2021, momento no qual o exequente tinha 88 anos, com falecimento pouquíssimo tempo após - em 23/08/2021 - , sem que este tenha informado os sucessores da existência do Termo de Adesão). Além disso, como bem observado por eles (sucessores), nenhuma das partes (o então impetrante do writ ou a União) providenciou a informação, ao longo da tramitação do Mandado de Segurança, do acordo administrativo realizado entre as partes.
+Mais importante, contudo, é verificar que, tão logo a questão tenha sido trazida ao juízo (da execução), a parte adversa, na primeira oportunidade, não manifestou resistência infundada contra a alegação da União - pelo contrário, admitiu que o procedimento de checagem confirmou a autenticidade do documento que deu origem ao pagamento administrativo.
+Nesse contexto não caracterizada a má-fé.
+Quanto ao pleito de inversão do ônus sucumbencial, igualmente não se sustenta, seja porque, em primeiro lugar, qualquer uma das partes poderia ou deveria ter comunicado a quitação administrativa antes do trânsito em julgado da sentença exequenda, seja porque não houve sucumbência mínima da União, e, também, pelo fato de que, conforme decidido no julgamento do Tema Repetitivo 1232/STJ, não cabem honorários de sucumbência na Execução de Sentença proferida em Mandado de Segurança individual.
+Diante do exposto, julgo procedente a impugnação ao cumprimento de sentença e determino a extinção da Execução em Mandado de Segurança .
+Publique-se.
+Intimem-se.
+EMENTA
