@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2025 a 29/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. DISSÍDIO QUANTO À APLICAÇÃO DA REGRA TÉCNICA DE ADMISSIBILIDADE. NÃO CABIMENTO. SÚMULA 315/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA 182/STJ. INADMISSIBILIDADE.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Condomínio Edifício Metropolitano contra decisão de minha lavra (fls. 320/323), assim resumida:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA 182/STJ. INADMISSIBILIDADE.
+Embargos de divergência indeferidos liminarmente.
+Opostos embargos de declaração (fls. 326/340), rejeitei os aclaratórios ante a ausência dos vícios previstos no art. 1.022 do CPC (fls. 346/348).
+Sustenta a parte agravante (fls. 354/384) que impugnou todos os pontos essenciais à admissão do recurso, tendo cumprido os requisitos de interposição do agravo em recurso especial.
+Assevera que há clara divergência jurisprudencial, haja vista que, para algumas Turmas do STJ, basta a impugnação dos pontos essenciais e prejudiciais à parte recorrente, não sendo necessário contestar todos os fundamentos, quando alguns são meramente acessórios.
+Afirma que a divergência central reside na interpretação sobre a necessidade de impugnação de todos os fundamentos da decisão recorrida para que o recurso seja admissível.
+Aduz que o entendimento adotado no acórdão recorrido impõe uma interpretação restritiva e conduz a uma aplicação excessivamente formalista do princípio da dialeticidade, pois deixa de considerar o conteúdo e a relevância dos fundamentos impugnados.
+Por fim, requer o conhecimento e provimento do recurso, de modo a garantir a admissibilidade do recurso com base na impugnação dos fundamentos principais que efetivamente causaram prejuízo ao ora embargante.
+A parte agravada não se manifestou, conforme certidão de fl. 390.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. IMPROPRIEDADE DA VIA ELEITA PARA REEXAME DA ADMISSIBILIDADE DO RECURSO ESPECIAL. DISSÍDIO QUANTO À APLICAÇÃO DA REGRA TÉCNICA DE ADMISSIBILIDADE. NÃO CABIMENTO. SÚMULA 315/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA 182/STJ. INADMISSIBILIDADE.
+1. Não há como abrigar agravo interno que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo interno improvido.
+VOTO
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que a agravante não logrou desconstituir seu fundamento, motivo pelo qual a trago ao Colegiado para ser confirmada.
+A decisão agravada destacou impossibilidade de análise dos embargos de divergência pela Corte Especial, haja vista a utilização da Súmula 182 do STJ como fundamento de decisão pelo órgão fracionário, senão vejamos (fls. 321/322 - destaques no original):
+Mediante exame dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182 do STJ, tendo em vista que a parte não impugnou de modo satisfatório os motivos que levaram o Tribunal de origem a inadmitir o agravo em recurso especial. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+A aplicação da Sú mula 182 do STJ restou assim justificada (fls. 225/227 - grifo nosso):
+O ora agravante interpôs agravo em recurso especial contra a decisão do Tribunal a quo. O Superior Tribunal de Justiça não conheceu do recurso por concluir que a parte deixara de impugnar a ausência de afronta a dispositivo legal, a incidência das Súmulas n. 7 do STJ e 282 do STF e a não comprovação da divergência.
+Conforme exposto na decisão de fls. 153-154, a parte agravante não contestou adequadamente todos os fundamentos da decisão então agravada. Ressalte-se que, para afastar a incidência da Súmula n. 7 do STJ, não basta a parte sustentar genericamente que a análise de seu apelo extremo demanda apenas apreciação de normas legais e prescinde do reexame de provas.
+
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e motivada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775/PR, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade , é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Consoante se observa da decisão monocrática e do acórdão embargado, mostra-se inequívoca a incidência do óbice da Súmula 315/STJ, na medida em que não examinaram o mérito do recurso especial, a obstar a admissibilidade dos embargos de divergência, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1º, do RISTJ e do art. 1.043 do Código de Processo Civil. Nesse diapasão: AgInt nos EAREsp 1.441.916/SC, Ministro Og Fernandes, Corte Especial, DJe 26/8/2020; AgRg nos EREsp 1.803.437/SC, Ministro Herman Benjamin, Corte Especial, DJe 17/6/2020 e AgInt nos EAREsp 1022112/SP, Ministro Humberto Martins, Corte Especial, DJe 4/4/2018.
+Na mesma linha de raciocínio, esclareci na decisão monocrática que o papel da Corte Especial não é o de rever a aplicação dos óbices sumulares pelos órgão fracionários, mas, sim, o de uniformizar a jurisprudência quanto a teses jurídicas antagônicas, o que não se verificou no caso (fl. 347).
+A incidência da Súmula 315 do STJ é patente, haja vista que para modificar a decisão embargada seria necessário que essa Corte analisasse o acerto da aplicação do entendimento sumular. A Corte Especial possui função estabilizadora da jurisprudência e analisa divergência entre teses jurídicas, o que não se verifica no caso.
+O Superior Tribunal de Justiça já firmou entendimento no sentido de que são incabíveis embargos de divergência com o intuito de reapreciar a efetiva ocorrência dos óbices de admissibilidade do recurso especial (AgInt nos EREsp n. 2.011.454/SP, Ministro Ricardo Villas Bôas Cueva, Corte Especial, DJe 27/5/2024).
+Ante o exposto, nego provimento ao agravo interno.
