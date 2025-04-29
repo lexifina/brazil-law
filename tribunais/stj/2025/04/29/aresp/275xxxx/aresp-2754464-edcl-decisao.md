@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ CARLOS DA ASSUNÇÃO GOMES à decisão monocrática desta relatoria (e-STJ, fls. 1.777-1.785), assim ementada:
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC. NÃO OCORRÊNCIA. QUESTÃO ANALISADA EM EMBARGOS À EXECUÇÃO. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. NULIDADE DO JULGAMENTO E ILEGITIMIDADE DO EX-SÓCIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. INCIDÊNCIA DA SÚMULA 284/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais, o embargante aponta omissão quanto aos argumentos que demonstram a necessidade de reconhecer a nulidade do aresto recorrido, uma vez apreciou questão afetada ao julgamento de recurso repetitivo, Tema 962/STJ, descumprindo determinação do Superior Tribunal de Justiça para fins de suspensão da tramitação de todos os processos envolvendo a temática.
+Destaca que não foi analisada a alegação de inaplicabilidade dos efeitos da preclusão pro judicato e da coisa julgada ao caso em exame.
+Sendo assim, requer o acolhimento destes aclaratórios.
+Não foi apresentada impugnação (e-STJ, fl. 1.824).
+Brevemente relatado, decido.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e completa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a modificar, de alguma maneira, o julgado prolatado.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL. APLICABILIDADE. ERRO MATERIAL. CORREÇÃO.
+I - O cabimento de Embargos de Declaração, consoante o disposto no art. 1.022 do Código de Processo Civil, é restrito às hipóteses de obscuridade, contradição ou omissão na decisão embargada, bem como para correção de erro material.
+II - Embargos de declaração acolhidos para corrigir erro material.
+(EDcl nos EDcl no AgInt no AREsp n. 2.496.225/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJe de 29/11/2024.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. HIPÓTESE DE CABIMENTO DO RECURSO INTEGRATIVO NÃO DEMONSTRADA. VIA RECURSAL DE FUNDAMENTAÇÃO VINCULADA. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS, COM ADVERTÊNCIA DE APLICAÇÃO DE MULTA.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Na hipótese, a parte Embargante não demonstrou a existência de nenhum dos vícios que autorizam a oposição dos embargos de declaração que, como é cediço, constitui recurso de fundamentação vinculada. Assim, está ausente pressuposto de admissibilidade recursal que impede a análise da insurgência.
+3. Embargos de declaração não conhecidos, com advertência de imposição de multa, em caso de nova oposição de declaratórios.
+(EDcl no AgInt no AREsp n. 2.358.586/RS, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Na hipótese dos autos, o insurgente alega a existência de omissão na decisão embargada.
+Quanto à questão envolvendo a incidência dos efeitos da preclusão e da coisa julgada, do exame dos fundamentos do julgado embargado verifica-se que o tema foi devidamente examinado no julgamento do agravo em recurso especial.
+Todavia, em relação à tese envolvendo a nulidade do acórdão recorrido por descumprimento da determinação de suspensão do processo diante da afetação do Tema 962/STJ, assiste razão ao recorrente.
+Do exame dos autos, constata-se que o insurgente, nas razões do recurso especial, sustentou a anulação do aresto recorrido, em virtude da inobservância da ordem proveniente do Superior Tribunal de Justiça para suspender a tramitação de todos os processos pendentes de julgamento no País, que abordem a tese debatida no Tema 962/STJ, no qual se discutia o seguinte ponto: "O redirecionamento da execução fiscal, quando fundado na dissolução irregular da pessoa jurídica executada ou na presunção de sua ocorrência, não pode ser autorizado contra o sócio ou o terceiro não sócio que, embora exercesse poderes de gerência ao tempo do fato gerador, sem incorrer em prática de atos com excesso de poderes ou infração à lei, ao contrato social ou aos estatutos, dela regularmente se retirou e não deu causa à sua posterior dissolução irregular, conforme art. 135, III, do CTN".
+Contudo, inobstante a irresignação, da análise dos fundamentos do aresto objurgado, constata-se que a referida tese, apesar de opostos embargos de declaração, não foi examinada pelo Tribunal Regional Federal da 3ª Região.
+Com efeito, ausente o devido prequestionamento, aplica-se o disposto na Súmula 211/STJ.
+A esse respeito:
+EXECUÇÃO FISCAL. PENHORA. IMÓVEL. BEM DE FAMÍLIA. REQUISITOS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. FUNDAMENTAÇÃO COMPATÍVEL COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO MANTIDA.
+I - O presente feito decorre de agravo de instrumento interposto por Banco Central do Brasil, objetivando a reforma de decisão interlocutória para que fosse mantida a penhora realizada sobre imóvel. O agravo de instrumento foi provido pelo Tribunal Regional Federal da 2ª Região. O recurso especial interposto pelo executado foi inadmitido na origem e, após a interposição de agravo, não conhecido no STJ.
+II - Em relação à indicada violação do art. 1.022 do CPC/2015, pelo Tribunal a quo, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente, tendo o julgador abordado de maneira devida e suficientemente fundamentada as razões pelas quais entende não ser o caso de impenhorabilidade do bem imóvel.
+III - A irresignação do recorrente, ora agravante, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu pela não incidência da regra de imprescritibilidade no caso concreto. Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+IV - Ademais, a fundamentação adotada pela Corte de origem não destoa, em tese, da jurisprudência desta Corte superior que admite, por exemplo, a penhora de fração ideal do bem de família, desde que o desmembramento não descaracterize o imóvel. Precedentes. Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 2.214.941/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/3/2025, DJEN de 24/3/2025.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. DESCABIMENTO. JURISPRUDÊNCIA DO STJ. CONFORMIDADE. LEGISLAÇÃO LOCAL E MATÉRIA FÁTICO-PROBATÓRIA. ANÁLISE. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Inviável a análise de matéria que não foi suscitada no apelo nobre, tendo em vista constituir indevida inovação recursal.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice conhecimento estampado na Súmula 83 do STJ.
+4. Rever o entendimento alcançado pela Corte de origem encontra óbice na Súmula 7 do STJ.
+5. A análise da tese recursal depende do exame de legislação local, o que torna inviável a insurgência, na via do recurso especial, ante o óbice da Súmula 280 do STF.
+6. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando o Tribunal de origem não emite juízo de valor sobre a tese relacionada ao dispositivo de lei supostamente violado, mesmo após opostos embargos de declaração.
+7. Agravo interno não provido.
+(AgInt no REsp n. 2.1 24.384/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/2/2025, DJEN de 21/2/2025.)
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FIS CAL. VIOLAÇÃO AO ART. 1.021, § 3º, DO CPC/2015. INEXISTÊNCIA. QUESTÃO ANALISADA EM EMBARGOS À EXECUÇÃO. PRECLUSÃO PRO JUDICATO. OCORRÊNCIA. INCIDÊNCIA DA SÚMULA 83/STJ. NULIDADE DO JULGAMENTO E ILEGITIMIDADE DO EX-SÓCIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. INCIDÊNCIA DA SÚMULA 284/STF. NULIDADE POR FALTA DE SUSPENSÃO DO PROCESSO DURANTE A PENDÊNCIA DE JULGAMENTO DO TEMA 962/STJ. OMISSÃO. VÍCIO CONSTATADO. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
