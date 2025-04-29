@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo interposto por PRONTA VISAO MONITORAMENTO 24H LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl.847):
+PRESTAÇÃO DE SERVIÇOS FORNECIMENTO DE EQUIPAMENTOS ELETRÔNICOS / MONITORAMENTO / ALARME AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS Legitimidade passiva - Relação de consumo - Responsabilidade solidária dos integrantes da cadeia de consumo Furto em residência que possuía sistema de alarme e monitoramento - Falha e desídia na prestação dos serviços - Prejuízos parcialmente comprovados por documentação idônea - Indenização devida - Danos morais configurados - Ação parcialmente procedente - Recursos desprovidos, com observação.
+Rejeitados os embargos de declaração opostos (fls. 867-872).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa aos arts. 1.022 e 489 do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 6º, 7º, 10, 85, 86, parágrafo único, 89, 371 e 373, § 1º, todos do CPC, 14, § 3º, II, do CDC e 944 do Código Civil.
+Alega que a inversão do ônus da prova foi realizada de forma surpresa, sem oportunidade para a recorrente se desincumbir de seu ônus probatório, violando o devido processo legal; e que houve erro na valoração das provas, pois o acórdão não considerou as provas produzidas pela recorrente, que demonstrariam a culpa exclusiva dos recorridos (fls. 910-911; 914-916).
+Ainda, argumenta que houve violação do art. 85 do CPC/2015, pois a sucumbência dos recorridos foi significativa, e não mínima, justificando a fixação da verba sucumbencial em seu patamar máximo (fls. 916-917).
+Por fim, aponta omissão na análise da extensão dos danos materiais e morais, que deveriam ter sido enfrentados pelo Tribunal a quo (fls. 912-913).
+Foram oferecidas contrarrazões contrarrazões ao recurso especial (fls. 1.007-1.021).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 1.022-1.024), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 1.058-1.064).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Inicialmente, não há falar em ofensa aos arts. 489 e 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento à apelação, solucionou a lide em conformidade ao que foi apresentado em juízo.
+Verifica-se, portanto, que o acórdão recorrido possui fundamentação suficiente, inexistindo omissão ou contradição.
+Ademais, observa-se que em relação à apontada ofensa aos arts. 6º, 7º, 10, 85, 86, parágrafo único, 89, 371 e 373, § 1º, todos do CPC, 14, § 3º, II, do CDC e 944 do CC, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, e alterar o decidido no acórdão impugnado, no que se refere à valoração da prova, cerceamento de defesa, falha na prestação de serviços, legitimidade na inversão do ônus da prova e distribuição da sucumbência, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula 7 do STJ.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. ICMS. ACÓRDÃO EMBASADO NA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA N. 280/STF. AUSÊNCIA DE COMANDO NORMATIVO EM DISPOSITIVO LEGAL APTO A SUSTENTAR A TESE RECURSAL. SÚMULA N. 284/STF. DECADÊNCIA DO DIREITO DE O FISCO LANÇAR O TRIBUTO. INEXISTÊNCIA DE DECLARAÇÃO DO CONTRIBUINTE. APLICAÇÃO DO ART. 173, I, DO CTN. SUCUMBÊNCIA. REDISTRIBUIÇÃO. NECESSIDADE DE EXAME DE MATÉRIA FÁTICA. IMPOSSIBILOIDADE EM RECURSO ESPECIAL.
+I - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+IV - O prazo decadencial do tributo sujeito a lançamento por homologação, inexistindo a declaração prévia do débito, sem a constatação de dolo, fraude ou simulação do contribuinte, tem início no primeiro dia do exercício seguinte àquele em que o lançamento de ofício poderia ter sido realizado . In casu, conforme asseverado pela Corte de origem, o tributo sujeito à homologação não foi declarado em sua integralidade e, portanto, o termo inicial da decadência inicia-se no primeiro dia do exercício seguinte, nos termos do art. 173, I, do CTN.
+V - Rever o entendimento do tribunal, com o objetivo de acolher a pretensão recursal quanto ao pleito de redistribuir o ônus de sucumbência, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 desta Corte.
+VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.161.741/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/11/2024, DJEN de 29/11/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C OBRIGAÇÃO DE FAZER E PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO AGRAVO, ANTE A SUA INTEMPESTIVIDADE. INSURGÊNCIA DA PARTE DEMANDADA.
+1. A Corte Especial, em julgamento de questão de ordem no AREsp 2.638.376/MG, definiu que a Lei nº 14.939/2024 é aplicável aos recursos interpostos antes mesmo de sua vigência, devendo ser observada, portanto, no julgamento dos agravos internos contra decisões monocráticas que inadmitiram o recurso sob fundamento da falta de comprovação de ausência de expediente forense no período.
+1.1. Nos termos do § 6º do art. 1.003 do CPC, com redação dada pela Lei nº 14.939/2024, "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, e, se não o fizer, o tribunal determinará a correção do vício formal, ou poderá desconsiderá-lo caso a informação já conste do processo eletrônico".
+1.2. No presente agravo interno, a parte apresentou documentos que comprovam a suspensão do expediente forense no curso do prazo recursal, tornando tempestivo o reclamo.
+1.3. Decisão monocrática reconsiderada com o julgamento, de plano, do agravo em recurso especial.
+2. Na hipótese, o Tribunal a quo concluiu expressamente que a parte demandada, ora agravante, não se desincumbiu do seu ônus probatório, deixando de demonstrar que os produtos teriam sido entregues ou evidenciar qualquer forma de recibo ou aceite. Para alterar tais premissas, seria necessário o revolvimento de fatos e provas, providência vedada pela Súmula 7 do STJ. Precedentes.
+3. Consoante jurisprudência desta Corte, não há como aferir eventual ofensa ao art. 373 do CPC/15, sem que se verifique o conjunto probatório dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão singular da Presidência e, de plano, conhecer do agravo para negar provimento ao apelo extremo.
+(AgInt no AREsp n. 2.508.332/ES, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE ANÓNIMA FECHADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA RÉ.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto o Tribunal a quo foi claro ao se manifestar sobre a dissolução parcial da sociedade anônima fechada, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. A legitimidade passiva ad causam em ação de dissolução parcial de sociedade anônima fechada é da própria companhia, não havendo litisconsórcio necessário com todos os acionistas. Súmula 83/STJ.
+3. Não há falar em inobservância do procedimento ou mesmo cerceamento defesa, seja porque a questão está preclusa, ante a ausência de manifestação no momento oportuno, seja porque a verificação da necessidade da produção de quaisquer provas é faculdade adstrita ao juiz, de acordo com o princípio do livre convencimento motivado. A análise acerca do deferimento ou não de produção de provas enseja o revolvimento do conteúdo fático-probatório dos autos. Súmulas 7 e 83/STJ.
+4. Esta Corte firmou entendimento no sentido de ser possível a dissolução parcial da sociedade anônima fechada, em que prepondere o liame subjetivo entre os sócios, ante o fundamento da quebra da affectio societatis, como no caso dos autos. Súmula 83/STJ.
+5. Os honorários advocatícios devem incidir inicialmente sobre o valor da condenação, porquanto o art. 85, § 2º, do CPC/15 estabelece uma ordem de gradação da base de cálculo. Súmula 83/STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.079.686/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 31/3/2025, DJEN de 4/4/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 18% sobre o valor atualizado da condenação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OMISSÃO. NÃO VERIFICADA. FALHA NA PRESTAÇÃO DO SERVIÇO. REVISÃO. SÚMULA 7/STJ. DISTRIBUIÇÃO. ÔNUS SUCUMBENCIAIS. SÚMULAS 7 E 83/STJ. AGRAVO IMPROVIDO.
