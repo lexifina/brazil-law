@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Agravo apresentado por AUTOPISTA RÉGIS BITTENCOURT S/A à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DE PROCEDIMENTO COMUM. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ACIDENTE EM RODOVIA. MÁ CONSERVAÇÃO DA PISTA. Pretensão do Estado autor ao recebimento de indenização a título de danos materiais em virtude dos danos causados em viatura envolvida em acidente de trânsito. R. sentença de procedência. Apelação interposta pelo autor e pela ré.
+DESCABIMENTO DA PRETENSÃO RECURSAL DA RÉ. Responsabilidade objetiva da concessionária prestadora de serviço público pelos danos causados a terceiros, nos termos do artigo 37, § 6º, da Constituição Federal, e por força do regramento contido no art. 14 do Código de Defesa do Consumidor. Precedentes das C. Cortes Superiores.
+Existência de provas nos autos, não impugnadas suficientemente pela ré, demonstrando que a falta de aderência no asfalto, ocasionada pela ausência de porosidade, especificamente na curva onde ocorrido o acidente, aliada às condições de chuva no momento do acidente, contribuiu determinantemente para a perda de controle da viatura. Alto índice de acidentes no local, inclusive em condições adequadas de tempo. Nexo causal evidenciado. Má conservação da via evidenciada na espécie.
+Danos materiais devidos.
+CABIMENTO PARCIAL DA PRETENSÃO RECURSAL DO AUTOR. Incidência de juros de mora nos termos do verbete de Súmula nº 54, do E. STJ.
+Consectários legais. Observância ao Tema nº 810, do E. STF. Aplicação do índice previsto na EC nº 113/2021, após sua entrada em vigor, ressalvada, ainda, a observância do que for decidido pelo STF nas ADIs 7.047 e 7.064.
+Aplicação mesmo em casos nos quais o Estado é o autor da cobrança. Precedentes.
+MAJORAÇÃO DOS HONORÁRIOS, em grau recursal (art. 85, §11, CPC/2015), em desfavor da ré. Observação nesse sentido.
+RECURSO DE APELAÇÃO DO ESTADO PARCIALMENTE PROVIDO.
+RECURSO DE APELAÇÃO DA CONCESSIONÁRIA-RÉ DESPROVIDO (fl. 278).
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 14, § 3º, II, do CDC, no que concerne à ausência de responsabilidade pelo dano causado à parte recorrida em acidente de trânsito, com fundamento na inexistência de nexo causal entre o dano e a conduta da parte recorrente, sustentando que o acidente decorreu de culpa exclusiva da própria vítima. Traz a seguinte argumentação:
+Como se depreende do acórdão atacado a questão controvertida consiste em saber se considerando que o condutor do veículo estava transitando de maneira imprudente, sem as devidas cautelas, concorreu de forma direta e exclusiva para com o acidente, em clara aplicação da excludente de ilicitude prevista no artigo 14, § 3º, I do CDC, in verbis:
+ ..
+No caso concreto, é fato INCONTROVERSO nos autos é que à velocidade incompatível para o local do sinistro, conjuntamente com o dia chuvoso, portanto, a pista encontrava-se naturalmente molhada, foram os únicos fatores para o acidente como ocorrido.
+Portanto, há ausência de nexo causal entre o dano causado ao Recorrido e qualquer conduta omissa ou comissiva da Recorrente, já que a conduta da própria vítima foi determinante para a ocorrência, assim, se retira qualquer responsabilidade da Recorrente.
+Dessa forma, não restam dúvidas de que há culpa exclusiva da vítima, pois, como já mencionado alhures, o condutor da viatura estava transitando em velocidade incompatível com a segurança do trânsito, em chuva intensa (art. 220, VIII do CTB), o que foi o causador do acidente.
+E ainda que se avente em qualquer manobra pelo condutor do veículo da Corré, fato é que o acidente decorreu da conduta imprudente do condutor do automóvel, em infração às normas de trânsito.
+Logo, há o afastamento da responsabilidade da Recorrente, eis que esta cumpriu de forma objetiva com suas obrigações contratuais, inexistindo qualquer questão com a rodovia em relação ao acidente ocorrido (artigo 14, § 3º, I do CDC).
+Ainda, conforme fato confessado e incontroverso nos autos, o acidente decorreu de culpa exclusiva da própria vítima, não havendo como culpabilizar a Recorrente nos autos, estando o acórdão em clara infração ao artigo 14, § 3º, II do CDC (fls. 309- 311).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Dos achados do laudo confeccionado pela Polícia Rodoviária Federal, verifica-se que o evento danoso possui nexo de causalidade com a falta de aderência asfáltica existente naquele trecho da rodovia.
+ ..
+Disto, é evidente que houve falha na prestação do serviço, sendo certo que a situação verificada nos autos configura responsabilidade objetiva da Concessionária pela manutenção adequada da rodovia, ensejando-lhe a obrigação de reparação dos danos materiais sofridos pelo Estado, proprietário da viatura que entrou em processo de descarga diante da inviabilidade do conserto (fl. 290).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se.
+Intimem-se.
+ EMENTA
