@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JULIO CARLOS NOGUEIRA DA SILVA, recebidos como pedido de reconsideração, à decisão (fls. 114-115) que não conheceu da impetração por deficiência de instrução.
+Nestes embargos, a Defesa esclarece que os documentos necessários à análise do pedido de revogação da prisão preventiva foram juntados às fls. 125-127.
+Com base nisso e por prestígio à economia processual, reconsidero a decisão de fls. 114-115.
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JULIO CARLOS NOGUEIRA DA SILVA, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL no HC n. 1418283-42.2024.8.12.0000.
+Consta que o paciente foi condenado pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06, à pena de 5 anos de reclusão, em regime inicial fechado, tendo sido indeferido o direito do paciente de recorrer em liberdade.
+Neste writ, a Defesa sustenta a ausência dos requisitos da preventiva, que foi decretada em decisão carente de fundamentação idônea, baseada na gravidade abstrata do delito, na quantidade de droga apreendida e na confissão do paciente. Afirma que ele ostenta todas as condições pessoais e processuais favoráveis para o deferimento do seu Direito ora reivindicado.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão do paciente, ainda que mediante medidas cautelares alternativas.
+O pedido liminar foi indeferido às fls. 89-91.
+Informações processuais às fls. 96-104.
+O Ministério Público Federal opinou pelo não conhecimento do writ, mas, caso conhecido, pela denegação da ordem (fls. 108-111).
+É o relatório.
+DECIDO.
+No que interessa à solução da controvérsia, tem-se que o Juízo de primeiro grau decretou a prisão preventiva e depois a preservou em sentença condenatória nos seguintes termos (fls. 125-127 e 20-23; grifamos):
+Decreto prisional
+ ..  e Júlio Carlos Nogueira da Silva qualificado nos autos foram presos em flagrante pela suposta prática do crime capitulado no art. 33 combinado com art. 40, inciso V, da Lei 11.343/06, porque no dia 22 de dezembro de 2023, às 10h00, na estrada Vicinal do assentamento Itamaraty zona rural de Ponta Porã (MS) foram flagrados transportando 296,3 quilos de substância entorpecente conhecida como maconha, sem autorização ou em desacordo com determinação legal ou regulamentar, no veículo  .. , e na motocicleta  .. .
+ ..
+A conversão da prisão em flagrante em preventiva é necessário para garantir a ordem pública, uma vez que os autuados supostamente transportavam quantidade alta de droga, suficiente para a propagação do entorpecente a elevado número de usuários. Além disso, a droga é originária de município fronteiriço com outro país, o que indica a existência de uma organização criminosa subjacente muito próximo dele.
+Ante a tal, convertem preventiva à prisão de  E Júlio Carlos Nogueira da Silva, nos termos dos artigos 310 inciso II, 312 e 313 inciso I, todos do Código de Processo Penal.
+Sentença
+ ..  O Ministério Público denunciou Cláudio Antonio da Cruz Machado e Júlio Carlos Nogueira da Silva sustentando que em 22/12/2023 ele transportaram 293 quilos de maconha com destino ao estado de São Paulo. A droga estava no veículo renegade conduzido por Júlio, sendo que Cláudio estava em uma motocicleta que funcionaria como batedor de estrada.
+ ..
+Júlio foi ouvido em juízo e disse que estava transportando a droga no veículo e ia levar até o estado a cidade de Dourados, e que receberia R$ 2.500,00 pelo transporte.
+As testemunhas ouvidas em juízo afirmaram que atuavam como policiais e ao fiscalizarem o veículo encontraram a droga e o Júlio confessou ser o seu transportador.
+Informou que o destino da droga era o estado de São Paulo e que receberia pelo serviço.
+ ..
+O privilégio previsto no artigo 33, § 4º da lei em comento não deve ser aplicado em razão da quantidade de droga, bem como porque a droga estava escondida em compartimentos adrede preparados, circunstâncias essas que revelam que o réu estava atrelado a organização criminosa instalada nessa fronteira Todavia, para não implicar em bis in idem, tais circunstâncias não serão novamente consideradas na dosimetria da pena.
+ ..
+Considerando a quantidade de pena que lhe foi imposta e as duas moduladoras valoradas para negar a figura privilegiada, fixo o regime fechado para iniciar o cumprimento da pena. Mantenho sua prisão por esses mesmos motivos, aliados àqueles que fundamentaram a decretação da preventiva, além da certeza da responsabilidade advinda da presente condenação fundada em sua confissão judicial.
+O Tribunal de origem, corroborando a idoneidade do decreto prisional e da superveniente sentença condenatória, salientou que tais decisões estão devidamente fundamentadas pois ficou
+ ..  demonstrado pela periculosidade concreta do crime supostamente cometido, pois, conforme consta, o paciente foi contratado para transportar 296,3 kg de maconha, pelo que receberia a quantia de R$ 2.500,00. Com efeito, a jurisprudência do STJ entende pela idoneidade da fundamentação que decreta a prisão preventiva com base na gravidade concreta da conduta em razão da substancial quantidade de droga apreendida.
+Com suporte nas informações supra coletadas nas decisões das instâncias ordinárias, tenho que as circunstâncias nelas destacadas justificam a prisão processual do acusado, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública
+Nesse sentido:
+A jurisprudência desta Corte Superior é firme ao asseverar que, a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade concreta da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal) (AgRg no HC 704.584/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/03/2022, DJe 16/03/2022; grifamos).
+A prisão preventiva é cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal. Na hipótese, a custódia cautelar está devidamente fundamentada na garantia da ordem pública, dada a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi. (RHC n. 158.318/ES, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022; grifamos).
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DO DELITO. APREENSÃO DE 4,20 KG DE SKUNK. TRÁFICO INTERESTADUAL. AUSÊNCIA DE ILEGALIDADE.
+Agravo regimental improvido. (AgRg no RHC n. 199.298/MS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 2/9/2024, DJe de 6/9/2024; grifamos).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO INTERESTADUAL DE ENTORPECENTES. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA, NO CASO. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Hipótese em que a decretação da prisão preventiva não se mostra desarrazoada ou ilegal, pois as instâncias ordinárias ressaltaram a gravidade concreta da conduta do Agravante, evidenciada pela elevada quantidade das drogas apreendidas, de modo a justificar a segregação cautelar para a garantia da ordem pública, nos termos da jurisprudência desta Corte Superior.
+2. Condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa, não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema.
+3. Considerada a gravidade concreta da conduta, não se mostra suficiente, no caso, a aplicação de medidas cautelares diversas da prisão, nos termos do art. 282, inciso II, do Código de Processo Penal.
+4. Agravo regimental desprovido. (AgRg no HC n. 846.512/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/9/2023, DJe de 28/9/2023; grifamos).
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão preventiva nos autos, não se apresenta suficiente a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Outrossim, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre na hipótese em apreço. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/05/2024, DJe de 15/05/2024, e AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Por fim, apenas para fins de registro, reputo relevante registrar que, em consulta ao site do Tribunal de Justiça do Estado do Mato Grosso do Sul, pude constatar nos autos da Ação Penal em comento (n. 0800260-40.2024.8. 12.0019) que a Corte es tadual, em 20/02/2025, julgou os recursos de apelação, rejeitando o defensivo e dando parcial provimento ao ministerial para majorar a pena-base do ora paciente, totalizando a nova reprimenda corporal em 05 (cinco) anos e 05 (cinco) meses de reclusão, sendo mantidos incólumes os demais termos da sentença.
+Ante o exposto, reconsidero a decisão de fls. 114-115 para denegar a ordem de habeas corpus.
+Publique-se. Intimem-s e.
+EMENTA
