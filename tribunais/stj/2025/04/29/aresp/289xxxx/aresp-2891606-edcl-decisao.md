@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por ANTONIO JOSE HADADE SOUZA contra a decisão que não conheceu do Agravo em Recurso Especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que
+ ..  considerando que o EMBARGANTE possuía mais de 70 (setenta) anos de idade na data do julgamento do Recurso de Apelação, os prazos prescricionais a serem observados são de 2 (dois) anos (art. 109, V, c/c 115 do CP), para a apropriação, e de 4 (quatro) anos (art. 109, IV, c/c 115 do CP), para a sonegação. Operou-se, portanto, a prescrição da pretensão punitiva, dado que entre a data da publicação da sentença, dia 30/08/2018 (fls. 629), e a publicação do novo decreto condenatório, em 06/12/2024, transcorreu lapso superior a 4 anos (metade dos 8 anos previstos no art. 109, IV). Restando patente a ocorrência da prescrição, perfazendo questão inderrogável, de conhecimento ex officio, por envolver interesse público primário, pugna-se para que seja sanada a omissão apontada, aplicando-se o mando do artigo 115 do CP ao caso, com o consequente reconhecimento da prescrição retroativa dos crimes indicados. ..  (fl. 2844)
+Requer, assim, o conhecimento e o acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de Agravo em Recurso Especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: súmula 7/STJ (Cerceamento de defesa - Falta de provas para a condenação) e súmula 7/STJ (Dosimetria da pena - Circunstâncias judiciais favoráveis).
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que não admite o Recurso Especial é a interposição do Agravo em Recurso Especial, sob pena de preclusão caso feita posteriormente.
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame ficou prejudica do pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre nenhuma matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
+ EMENTA
