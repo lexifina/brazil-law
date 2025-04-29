@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por ENCOL S.A. - ENGENHARIA, COMÉRCIO E INDÚSTRIA (FALIDA), envolvendo o JUÍZO DA 13ª VARA CÍVEL DE BELO HORIZONTE/MG, onde tramita a Execução de Título Extrajudicial n. 5122629-83.2017.8.13.0024, e o JUÍZO DA 11ª VARA CÍVEL DE GOIÂNIA/GO, onde se processa a falência da suscitante (Processo n. 5160960-37.2017.8.26.0024) .
+A suscitante narra que, embora excluída do polo passivo da execução condominial, foi determinada, por decisão da segunda instância mineira, a penhora de imóvel de matrícula n. 65.847, ainda registrado em seu nome. Sustenta que o imóvel fora alienado informalmente à Sra. Ilma Queiroga Werkhaizer, pendente, contudo, o respectivo registro.
+Foi proferida decisão liminar em 28/8/2024 (fls. 203-206), suspendendo os atos constritivos, vedando o levantamento de valores e indicando o juízo falimentar como competente para deliberação provisória sobre o imóvel.
+Ambos os Juízos prestaram informações. O Juízo de Belo Horizonte esclareceu que a massa falida foi excluída do feito desde 2021, e que a penhora foi ordenada exclusivamente pela segunda instância mineira, em favor do condomínio, contra Ilma Werkhaizer .
+O Juízo de Goiânia confirmou o processamento da falência da suscitante e reiterou que o bem está sob jurisdição do juízo universal da falência .
+O Ministério Público Federal (fls. 233-236) opinou pelo não conhecimento do conflito, sob o argumento de que o imóvel não comporia mais o patrimônio da falida, por já ter sido alienado de fato.
+É o relatório. Decido.
+A controvérsia cinge-se à definição da competência para deliberar sobre a validade da constrição judicial incidente sobre imóvel ainda registrado em nome da massa falida, mas alegadamente objeto de alienação informal a terceiro.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que compete exclusivamente ao juízo falimentar deliberar sobre atos expropriatórios que incidam sobre bens formalmente pertencentes à massa, nos termos dos arts. 6º, § 2º, e 76 da Lei n. 11.101/2005, bem como do art. 66, I, do CPC.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM CONFLITO DE COMPETÊNCIA. JUÍZO FALIMENTAR E CÍVEL. EXECUÇÃO HIPOTECÁRIA PROMOVIDA CONTRA BEM ADJUDICADO AO FALIDO . COMPETENCIA DO JUÍZO UNIVERSAL. 1. É vedada a execução hipotecária direcionada contra bem pertencente ao patrimônio da falida, enquanto pendente o processo falimentar, uma vez que cabe ao juízo da falência, em razão do princípio da indivisibilidade, deliberar sobre toda e qualquer ação que envolva o patrimônio do falido. 2 . Agravo interno desprovido. (AgInt nos EDcl no CC n. 190275/RJ 2022/0227816-7, de minha relatoria, Segunda Seção, julgado em 28/5/2024, DJe de 4/6/2024.)
+No presente caso, o imóvel objeto da penhora ainda se encontra registrado em nome da massa falida, não havendo, portanto, respaldo legal para que juízo diverso - ainda que com base em alienação informal - determine atos expropriatórios ou de constrição, sem remessa da controvérsia ao juízo falimentar.
+Importa destacar que, no regime da falência, não se aplica a flexibilização do art. 6º, § 4º, da LREF, admissível em hipóteses específicas de recuperação judicial, mas incompatível com o princípio da universalidade da jurisdição falimentar.
+Ante o exposto, conheço do presente conflito de competência e, no mérito, declaro competente o JUÍZO DE DIREITO DA 11ª VARA CÍVEL DE GOIÂNIA/GO , para decidir sobre a validade da penhora do imóvel de matrícula n. 65.847, bem como sobre a eventual existência de alienação informal, por se tratar de bem ainda registrado em nome da massa falida.
+Torno definitiva a liminar deferida às fls. 203-206, que determinou a suspensão dos atos constritivos incidentes sobre o patrimônio da ENCOL S.A., até ulterior deliberação do juízo falimentar.
+Comunique-se com urgência aos Juízos suscitados.
+Publique-se. Intimem-se.
+EMENTA
