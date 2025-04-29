@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de reclamação, com pedido de liminar, ajuizada por LUIZ PAULO ROSA BUSTAMANTE E OUTROS contra decisão do Vice-Presidente do Tribunal de Justiça do Estado do Mato Grosso/MT a qual negou seguimento a agravo em recurso especial interposto contra decisão que inadmitiu o apelo nobre manejado pelos insurgentes tendo em vista a adequação do acórdão ao Tema nº 1 deste STJ.
+Os reclamantes sustentam, porém, que a negativa de seguimento do agravo em recurso especial usurpa a competência desta Corte.
+Pedem , em caráter liminar, a suspensão da decisão reclamada e, no mérito, a procedência da presente reclamação. (fls. 2/8)
+É o relatório.
+Decisão.
+A presente reclamação não merece acolhimento.
+1. A reclamação amparada no art. 105, I, f, da Constituição da República é remédio destinado a preservar a competência do Superior Tribunal de Justiça sempre que haja indevida usurpação por parte de outros órgãos judiciais ou para garantir a autoridade de suas decisões.
+Para legitimar o acesso à via reclamatória, no entanto, torna-se imperioso que, de maneira efetiva, demonstre-se a existência de desrespeito a decisão desta Corte Superior.
+A esse propósito, destaca-se que, de acordo com a uníssona orientação jurisprudencial, o ajuizamento da reclamação, tendo por finalidade garantir a autoridade de suas decisões, pressupõe a existência de um comando positivo - envolvendo os mesmos interessados na controvérsia - cuja eficácia deva ser assegurada, protegida e conservada.
+Nesse sentido, confiram-se os seguintes precedentes: AgInt nos EDcl na Rcl 36.498/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 19/03/2019, DJe 29/03/2019; AgInt na Rcl 32.352/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 03/05/2017; Agint na Rcl 32.938/MS, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 07/03/2017. Na mesma linha de intelecção, vejam-se: Rcl 27.560/PR, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 02/03/2017; AgInt na Rcl 31.875/MG, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe de 19/12/2016; AgInt na Rcl 32.938/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 07/03/2017; AgInt na Rcl 32.276/PA, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/06/2017, DJe 27/06/2017.
+Na hipótese em liça, o recurso especial manejado pelos ora insurgentes, teve seu seguimento negado na origem com fundamento no artigo 1.030, inciso I, "b", ou no artigo 1.040, inciso I, do Código de Processo Civil de 2015 e, nessa circunstância, o recurso cabível seria o agravo interno de que trata do § 2º do dispositivo legal em comento.
+Dessa forma, a interposição do agravo previsto no artigo 1.042 do Código de Processo Civil de 2015 nesses casos caracteriza-se como erro grosseiro, o qual pode ser obstado no Tribunal de origem, não havendo falar em usurpação de competência do Superior Tribunal de Justiça.
+Nessa linha, confiram-se: AgInt na Rcl 38.845/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 18/8/2020, DJe 21/8/2020; AgInt na Rcl 38.749/MT, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 3/12/2019, DJe 9/12/2019; AgInt na Rcl 35.666/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/5/2018, DJe 28/5/2018, dentre inúmeros outros julgados.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, indefiro liminarmente a presente reclamação.
+Publique-se. Intimem-se. Após, arquivem-se.
+EMENTA
