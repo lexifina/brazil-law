@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2025 a 29/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição do seu agravo regimental, impugnar especificamente os fundamentos da decisão agravada, o que, no caso dos autos, não foi atendido.
+2. Neste agravo, a parte agravante deixou de combater a aplicação do óbice contido na Súmula n. 315 do STJ, o que seria suficiente para a manutenção da decisão agravada.
+3. Incidência do entendimento espelhado na Súmula n. 182 do STJ, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MARIANA BERNARDO e MARIANA BERNARDO DA CRUZ contra a decisão da Presidência deste Superior Tribunal que indeferiu liminarmente os embargos de divergência em razão da ausência de comprovação do dissídio, nos termos dos arts. 1.043, § 4º, do CPC e 266, § 4º, do RISTJ, bem como pela incidência da Súmula n. 315 do STJ (fls. 677-679).
+Houve oposição de embargos declaratórios, os quais foram rejeitados às fls. 692-696.
+A parte agravante sustenta, em síntese, o seguinte (fl. 705):
+A Agravante trouxe como acórdão paradigma o julgado proferido na Ação Penal n. 835/DF, da relatoria do eminente Ministro Paulo de Tarso Sanseverino, demonstrando as circunstâncias fáticas e jurídicas que assemelhavam os casos confrontados, atendendo as formalidades legais.
+Para se comprovar a dissonância entre os entendimentos jurisprudenciais, juntou a prova completa da divergência denunciada, destacando que foram extraídas diretamente do site desse E. STJ (isto é, de repositório oficial) e realizando a indicação dos endereços eletrônicos (links de acesso) apontado como divergente no próprio corpo da peça Embargos de Divergência (fls. 664/672).
+Quer dizer, para a comprovação ou configuração da alegada divergência jurisprudencial, é necessária a adoção, de uma das referidas providências e não todas elas em conjunto (AgInt nos E Dcl nos EAR Esp n. 1.121.421/RS, Corte Especial, Rel. Min. Jorge Mussi, D Je de 02/09/2019).
+Acrescenta que o entendimento da Presidência do STJ prestigia o excesso de formalismo e descumpre a determinação contida no parágrafo único do art. 932 do CPC.
+Requer o provimento do agravo, com o fim de que seja apreciada a divergência suscitada.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ.
+1. Nos termos dos arts. 1.021, § 1º, do CPC e 259, § 2º, do RISTJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição do seu agravo regimental, impugnar especificamente os fundamentos da decisão agravada, o que, no caso dos autos, não foi atendido.
+2. Neste agravo, a parte agravante deixou de combater a aplicação do óbice contido na Súmula n. 315 do STJ, o que seria suficiente para a manutenção da decisão agravada.
+3. Incidência do entendimento espelhado na Súmula n. 182 do STJ, segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+VOTO
+A decisão agravada indeferiu o processamento dos embargos de divergência com base nos seguintes fundamentos (fls. 677-678):
+Por meio da análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em razão da incidência da Súmula 182 do STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, a teor da Súmula n. 315/STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+ ..
+Além disso, a jurisprudência desta Corte, amparada no art 1.043, § 4º, do Código de Processo Civil de 2015 e no art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de Embargos de Divergência, deve proceder à juntada da cópia do inteiro teor dos acórdãos apontados como paradigmas. " ..  A Corte Especial considera que tal documento compreende o relatório, o voto, a ementa/acórdão e a respectiva certidão de julgamento. Assim, a não apresentação de algum desses elementos na interposição do recurso caracteriza desrespeito à regra técnica para o seu conhecimento, o que constitui vício substancial insanável." (AgInt nos EAR Esp n. 1.950.564/MS, Rel. Ministra Nancy Andrighi, Corte Especial, D Je de 16.6.2023.).
+No mesmo sentido: AgInt nos EAR Esp n. 1.760.860/PR, Rel. Ministro Humberto Martins, Segunda Seção, D Je de 18.8.2023, e; AgInt nos E Dcl nos ER Esp n. 1.803.803/RJ, Rel. Ministro João Otávio de Noronha, Corte Especial, D Je de 6.10.2023.
+Por meio da análise dos autos, verifica-se que a parte, no momento da interposição do recurso, não juntou aos autos o inteiro teor do acórdão paradigma. Dessa forma, não cumpriu regra técnica do presente recurso, o que constitui vício substancial insanável.
+Com efeito, a mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, visto que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão. No mesmo sentido: AgRg nos EAR Esp n. 1.399.185/SP, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, D Je de 26.5.2023.
+N os termos dos arts. 1.021, § 1º, do Código de Processo Civil e 259, § 2º, do Regimento Interno do Superior Tribunal de Justiça, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição do seu agravo regimental, impugnar especificamente os fundamentos da decisão combatida.
+No caso dos autos, além da constatação de que houve falha na comprovação do dissídio jurisprudencial, a decisão agravada concluiu pela incidência da orientação contida na Súmula n. 315 do STJ, haja vista que o acórdão embargado não teria ingressado no mérito do recurso especial. O referido óbice sumular, contudo, não foi objeto de impugnação pela parte agravante.
+Consequentemente, incide na espécie o óbice da Súmula n. 182 do STJ, a saber: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. PRETENSÃO DE OBTER A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os Agravantes, em suas razões recursais, não impugnaram nenhum dos fundamentos da decisão agravada - incidência da Súmula n. 315 do STJ, ausência de cotejo analítico e inobservância das regras legais e regimentais para demonstração da alegada divergência -, limitando-se a repisar questões arguidas no recurso especial inadmitido, as quais, por óbvio, sequer foram objeto de decisão.
+2. Incidência do Verbete Sumular n. 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, aplicável subsidiariamente (art. 3.º do CPP), o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil. Precedentes.
+3. A jurisprudência mansa e pacífica do Superior Tribunal de Justiça tem reafirmado o entendimento de ser descabido o pedido de concessão de habeas corpus de ofício, como sucedâneo recursal ou como expediente para superar vícios do recurso inadmitido, mormente porque tal iniciativa parte do próprio órgão julgador.
+4. Agravo regimental não conhecido.
+(AgRg nos EAREsp n. 2.018.556/SC, relatora Ministra Laurita Vaz, Corte Especial, julgado em 21/9/2022, DJe de 29/9/2022.)
+AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL QUE NÃO SE CONHECE.
+1. Do cotejo entre a decisão agravada e as razões do agravo regimental verifica-se que a insurgência esbarra em óbice formal intransponível, qual seja, a ausência de impugnação específica dos fundamentos adotados para o não conhecimento dos embargos de divergência.
+2. No caso posto, enquanto a decisão que indeferiu liminarmente os embargos de divergência, o fez com fundamento na intempestividade da interposição do referido recurso e na incidência da Súmula n. 315 do STJ, no agravo regimental, a defesa, após fazer alusão aos recursos anteriores, impugnou apenas a aplicação do referido enunciado ao caso em comento, deixando de se insurgir, de forma específica, contra o reconhecimento da intempestividade no decisum ora combatido.
+3. A parte, ao recorrer, deve demonstrar o desacerto da decisão contra a qual se insurge, contestando todos os óbices por ela levantados, sob pena de sua manutenção. Incide à hipótese, por analogia, a Súmula n. 182 desta Corte, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Na mesma linha de entendimento estabelecida no art. 932, inciso III, do Código de Processo Civil de 2015, o Regimento Interno do Superior Tribunal de Justiça prevê, em seu art. 253, inciso I, que não se deve conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+5. Agravo regimental não conhecido.
+(AgRg nos EDv nos EAREsp n. 1.226.428/SP, relator Ministro Jorge Mussi, Corte Especial, julgado em 20/5/2020, DJe de 26/5/2020.)
+PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MULTIPLICIDADE DE RECURSOS. DESCABIMENTO. UNIRRECORRIBILIDADE RECURSAL. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. SÚMULA 182/STJ.
+ ..
+2. A decisão agravada, proferida pela Presidência desta Corte, indeferiu liminarmente os embargos de divergência, em razão da ausência de análise do mérito do recurso especial, com aplicação da Súmula 315/STJ. O ora agravante, contudo, deixou de infirmar especificamente esse fundamento, tendo se limitado a defender o preenchimento dos requisitos para o processamento e julgamento dos embargos de divergência.
+3. Nos termos do art. 1.021, § 1º, do Código de Processo Civil, é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula 182/STJ.
+4. Agravo regimental não conhecido.
+(AgRg nos EDv nos EAREsp n. 1.635.166/CE, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 10/2/2021, DJe de 17/2/2021.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA N. 182/STJ, POR ANALOGIA. RECURSO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente os embargos de divergência porque não comprovado o dissídio jurisprudencial e ante o fato de o acórdão embargado não ter examinado o mérito da controvérsia.
+2. As razões do agravo regimental não enfrentam os fundamentos da decisão monocrática, defendendo tese de mérito sequer analisada pelo aresto da Terceira Turma.
+3. Inexistindo impugnação específica ao decisum impugnado, restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." Precedentes da Corte Especial.
+4. Agravo regimental não conhecido.
+(AgRg no AgRg nos EAREsp n. 557.525/PR, relator Ministro Jorge Mussi, Corte Especial, julgado em 2/12/2015, DJe de 14/12/2015.)
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
