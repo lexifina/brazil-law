@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto por LUCAS ROBERTO SIQUEIRA DOS SANTOS e TIAGO MEREDYK,  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a" e "c",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA,  proferido  na  Apelação  Criminal  n.  5001817-58.2023.8.24.0068  , assim ementado (fl. 512):
+APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). RECURSOS DOS RÉUS LUCAS E TIAGO. PRETENSÃO ABSOLUTÓRIA ANTE A AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. CONJUNTO PROBATÓRIO CONVINCENTE A INDICAR QUE OS RÉUS TRANSPORTARAM ENTORPECENTES COM OBJETIVO DE COMERCIALIZAÇÃO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE MACONHA. DEPOIMENTO DOS POLICIAIS QUE EFETUARAM A DILIGÊNCIA, ALIADOS AS DEMAIS PROVAS COLIGIDAS AOS AUTOS. ELEMENTOS PROBATÓRIOS APTOS A CONFIRMAR A CONDENAÇÃO PELA PRÁTICA DO DELITO PREVISTO NO ART. 33 DA LEI DE DROGAS. DOSIMETRIA. TERCEIRA FASE. PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI DE TÓXICOS, EM SEU GRAU MÁXIMO. INVIABILIDADE. POSSIBILIDADE DE UTILIZAÇÃO DA QUANTIDADE DE DROGAS PARA MODULAR A FRAÇÃO DO TRÁFICO PRIVILEGIADO. FRAÇÃO DE 1/5 (UM QUINTO) APLICADA COM ACERTO. RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que os recorrentes foram condenados às penas de 04 (quatro) anos de reclusão, no regime aberto, além do pagamento de 400 (qautrocentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. As penas privativas de liberdade foram substituídas por restritivas de direitos.
+O Tribunal de origem negou provimento ao apelo da Defesa (e-STJ fls. 502/512.
+Nas  razões  do  recurso  especial,  a  parte  alega  violação  do  art.  33,  §  4º,  da  Lei  n.  11.343/2006,  pois  estariam  presentes  os  requisitos  necessários  para  o  reconhecimento  do  tráfico  privilegiado em seu patamar máximo.
+Contrarrazões às fls. 551/560.
+Decisão de admissibilidade do recurso (fls. 563/564).
+Parecer do Ministério Público Federal pelo desprovimento do recurso especial (fls. 614/616).
+É o relatório.
+DECIDO.
+O recurso não atende aos requisitos de admissibilidade.
+A Corte de origem decidiu pela manutenção da fração de 1/5 (um quinto) utilizada pelo juízo sentenciante por entender que a quantidade de droga, a sua natureza e diversidade poderiam servir para modular a fração do benefício do tráfico privilegiado.
+Nas razões do recurso especial, contudo, a Defesa afirmou que os recorrentes  preencheriam os requisitos  necessários  para  o  reconhecimento  do  tráfico  privilegiado em seu grau máximo, pois seriam primários, de bons antecedentes, não se dedicariam a atividades criminosas nem integrariam organização criminosa, não tendo impugnado especificamente o fundamento adotado no acórdão para negar a aplicação da fração em 2/3 (dois terços), qual seja, a utilização dos vetores quantidade, natureza e variedade das drogas apreendidas para a modulação da causa especial de diminuição de pena do tráfico privilegiado.
+Desse modo, o conhecimento do recurso especial, nesse particular, encontra óbice na Súmula n. 283 do Supremo Tribunal Federal. A propósito: AgRg no REsp 2011531/SE, Rel. Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024; DJe de 5/3/2024; AgRg no AREsp 2417244/MG, Rel. Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 21/11/2023, DJe de 24/11/2023 e AgRg no REsp 2009842/MG, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023.
+No mais, o conhecimento do recurso especial, com fundamento na alínea "c" do permissivo constitucional, exige o efetivo cotejo analítico entre o acórdão apontado como paradigma e o julgado recorrido, ex vi do art. 1.029, § 1º, do CPC, aplicável à seara criminal por força do art. 3º do Código de Processo Penal e do art. 255, § 1º, do RISTJ.
+Na espécie, a mera transcrição de ementas, por não evidenciar a similitude fática e a divergência interpretativa da legislação federal entre os julgados confrontados, não atende aos impositivos legal e regimental.
+A propósito:
+PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. CRIMES DE FORMAÇÃO DE QUADRILHA, SONEGAÇÃO FISCAL E PREVIDENCIÁRIA, APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA E FALSIDADE IDEOLÓGICA. VIOLAÇÃO DA SÚMULA 179/STJ. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA 518/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. FIANÇA. MEDIDA ASSECURATÓRIA REAL. NATUREZA JURÍDICA. DEPÓSITO JUDICIAL. ART. 11 DA LEI N. 9.289/1996. CORREÇÃO MONETÁRIA. TAXA REFERENCIAL (TR). REMUNERAÇÃO BÁSICA CADERNETA DE POUPANÇA. TAXA SELIC. INAPLICABILIDADE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO NEGAR-LHE PROVIMENTO.
+1. Recurso especial não conhecido quanto à alegada violação da Súmula 179/STJ, pois o enunciado sumular não enseja interposição do recurso especial, conforme entendimento consolidado na Súmula 518 deste Tribunal Superior.
+2. A divergência jurisprudencial alegada não foi devidamente demonstrada, pois a mera transcrição dos acórdãos tidos como paradigmas não configura cotejo analítico, requisito essencial para sua comprovação.
+(..)
+(AREsp n. 2.268.651/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/6/2023, DJe de 23/6/2023, grifamos).
+Portanto, não foi realizado o devido cotejo analítico.
+Ante exposto, não conheço do recurso especial.
+Publique-se, intimem-se.
+ EMENTA
