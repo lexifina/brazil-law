@@ -1,0 +1,16 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação Criminal n. 1.0708.17.003216-1/001.
+Nas razões deste recurso, o Parquet estadual aponta violação dos arts. 110, § 1º, e 109, V e VI, do Código Penal. Para tanto, argumenta que, "no caso da prescrição retroativa, não se pode tomar como marco inicial qualquer data anterior ao recebimento da denúncia, em virtude de expressa vedação legal" (fl. 1.514).
+Afirma que "em relação ao crime ambiental praticado, não se verificou a prescrição da pretensão punitiva estatal, porquanto não transcorreu mais de 04 anos entre a data do recebimento da denúncia (28/04/2017) e a publicação da sentença condenatória (21/07/2020)" (fl. 1.515).
+Requer seja provido o recurso para "o afastamento da extinção da punibilidade pela ocorrência de prescrição da pretensão punitiva e o reestabelecimento da condenação do réu pela prática do crime previsto no artigo 62, inc. I, da Lei 9.605/98, nos termos da sentença de 1º grau" (fl. 1.518).
+Não foram apresentadas contrarrazões (fl. 1.524) e admitido o recurso (fl. 1.526-1.528), o Ministério Público Federal manifestou-se pelo conhecimento e provimento do recurso especial (fls. 1.538-1.545).
+Decido.
+De plano, verifico a superveniente perda do interesse-utilidade deste recurso especial, o que prejudica a análise do pedido.
+Na hipótese dos autos, o recorrente busca o afastamento da prescrição e o restabelecimento da condenação do réu pela prática do delito tipificado no art. 62, I, da Lei n. 9.605/1998, em que o Magistrado de primeiro grau aplicou a pena de 1 ano de reclusão.
+Não obstante, ainda que o pedido ministerial viesse a ser acolhido, constato que, na hipótese de eventual restabelecimento da condenação, a pretensão punitiva estaria fulminada pela prescrição, na modalidade superveniente.
+Com efeito, nos termos dos arts. 109, V, e 110, §1º, ambos do CP, caso restabelecida a pena aplicada pelo Magistrado sentenciante, o prazo prescricional seria de 4 anos.
+Dessarte, o último marco interruptivo da prescrição ocorreu com a sentença condenatória, publicada em 21/7/2020 (fl. 1.378), decorreu prazo superior a 4 anos entre a referida data e o presente momento, razão pela qual reconheço a ocorrência da prescrição da pretensão punitiva na modalidade superveniente, a evidenciar a inexistência do interesse-utilidade deste recurso, ou, nas palavras de Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes:
+ ..  a postulação de um conceito unitário do interesse em recorrer exige uma ótica antes prospectiva que retrospectiva, em que se dá ênfase à utilidade, entendida como proveito que a futura decisão seja capaz de propiciar ao recorrente. Esta visão permite abranger todas as hipóteses, quer se trate de recurso das partes, quer de terceiros, quer do Ministério Público, como fiscal da lei ou órgão da justiça. (Recursos no Processo Penal, 6ª ed. rev., atual. e ampl. - São Paulo: Editora Revista dos Tribunais, 2009, p. 71).
+À vista do exposto, não conheço do recurso especial.
+Publique-se e intimem-se.
+EMENTA
