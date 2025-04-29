@@ -1,0 +1,24 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL opõe embargos de declaração à decisão de fls. 1.616-1.617.
+O embargante aponta contradição no julgado, pois, "verificada a formação de coisa julgada, em face do não conhecimento do recurso especial interposto, não há que se falar em prescrição da pretensão punitiva, fase processual já superada" (fl. 1.623).
+Requer sejam acolhidos e providos os presentes embargos.
+Decido.
+A jurisprudência consolidada do Superior Tribunal de Justiça consigna que, "de acordo com o disposto no art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para a revisão de julgado em caso de mero inconformismo da parte" (AgRg no REsp n. 1.850.458/RS, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 26/2/2021, grifei).
+Sob tal perspectiva, assiste razão ao embargante, tendo em vista que a orientação firmada no EAREsp n. 386.266/SP, Terceira Seção, Rel. Ministro Gurgel de Faria, DJe de 3/9/2015, tem o condão de evitar a ocorrência da prescrição da pretensão punitiva na hipótese dos autos. Isso porque, ao retroagir o trânsito em julgado a 10/4/2012, observa-se a ausência do transcurso do prazo prescricional entre a data da sentença condenatória - 6/6/2011 - e o referido trânsito em julgado.
+Entretanto, pela análise dos autos e dos documentos que o instruem, constato a ocorrência da prescrição da pretensão executória.
+Inicialmente, destaco que o Plenário do Supremo Tribunal Federal decidiu que o prazo de prescrição para o Estado executar a pena começa a ser contado a partir da condenação definitiva (trânsito em julgado) para a acusação e a defesa. O entendimento foi adotado na sessão virtual encerrada em 30/6, por maioria de votos, no julgamento do Agravo em Recurso Extraordinário ARE n. 848.107, e tem repercussão geral (Tema 788).
+A tese jurídica fixada foi a seguinte:
+O prazo para a prescrição da execução da pena concretamente aplicada somente começa a correr do dia em que a sentença condenatória transita em julgado para ambas as partes, momento em que nasce para o Estado a pretensão executória da pena, conforme interpretação dada pelo Supremo Tribunal Federal ao princípio da presunção de inocência (art. 5º, inciso LVII, da Constituição Federal) nas ADC 43, 44 e 54.
+Houve modulação dos efeitos do julgamento e o Supremo Tribunal Federal determinou:
+a) aos casos com a prescrição da pretensão executória reconhecida (independentemente do juízo, da data da prolação da decisão e da suspensão dos prazos pelo reconhecimento do tema de repercussão geral), a não aplicação do tema;
+b) aos casos em que a questão objeto do tema ainda não havia sido decidida ou analisada:
+b.1) com trânsito em julgado para a acusação ocorrido até 11/11/2020 (inclusive), a não aplicação do tema;
+b.2) com trânsito em julgado para a acusação ocorrido após 11/11/2020 (a partir de 12/11/2020, inclusive), a aplicação do tema.
+Ficou definido, expressamente, que, para todos os casos em que o trânsito em julgado para a acusação tenha se dado ANTES de 11/11/2020 - incluídos aí os lapsos em que houve oscilação jurisprudencial acerca da correta aplicação da literalidade do dispositivo (ou seja: do julgamento do HC 84.078, em 5/2/2009, ao julgamento do HC 126.292, ocorrido em 17/5/2016, e deste até o julgamento das ADCs 43, 44 e 54, em 11/11/2020) - aplica-se a literalidade do art. 112, I, do CP, fluindo o prazo prescricional a partir deste termo: trânsito em julgado para a acusação.
+Assim, na hipótese dos autos, em que o trânsito em julgado para a acusação ocorreu em abril de 2012, ou seja, em data anterior a 12/11/2020, não se aplica a tese firmada na análise do tema, de modo que, em tais situações, permanece a incidência da literalidade do art. 112, I, do Código Penal.
+No caso, considerando a pena concretamente fixada ao réu José Leão de Oliveira - 2 anos e 6 meses de reclusão, sem aplicação do quantum pela continuidade (Súmula n. 497 do STF) - e transitada em julgado a condenação para o Ministério Público, o prazo prescricional incidente na espécie é de 8 anos, conforme dicção do art. 109, IV, do CP.
+Em relação à acusada Joelma Maria de Abreu Oliveira, uma vez firmada a pena privativa de liberdade em 1 ano de reclusão, o prazo prescricional previsto é de 4 anos, nos termos do art. 109, V, do CP.
+Sob tal perspectiva, os prazos prescricionais de 4 e 8 anos tiveram início em 10/4/2012 e, portanto, aperfeiçoaram-se em 10/4/2016 e 10/4/2020, respectivamente, oportunidade em que os sentenciados ainda não haviam dado início à execução da reprimenda a eles imposta.
+À vista do exposto, acolho os aclaratórios para sanar a contradição verificada e concedo habeas corpus, de ofício, para reconhecer a extinção da pretensão executória da pena imposta na Ação Penal n. 0016901- 18.2008.4.05.8300.
+Publique-se e intimem-se.
+EMENTA
