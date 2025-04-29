@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de SANTIAGO BISPO DA SILVA - condenado como incurso no crime de roubo majorado -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 1527540-56.2024.8.26.0050), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena imposta pelo Juízo de Direito da 25ª Vara Criminal da comarca da Capital/SP, ao argumento de ser ilegal a incidência de duas majorantes previstas na parte especial do Código Penal sem a respectiva fundamentação.
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois o Tribunal de origem logrou fundamentar a incidência concomitante das duas majorantes da parte especial, ao sustentar que as peculiaridades do caso justificam a aplicação dos acréscimos correspondentes às duas majorantes, repisada a palavra da vítima sobre o emprego ostensivo da arma de fogo e, ainda, quanto à abordagem realizada de forma ordenada e eficaz pela dupla de criminosos que, além de estar em vantagem numérica, valeu-se de nítida premeditação (ao simular corrida para atrair o ofendido ao local da abordagem, vindo, ainda, a subjugá-lo enquanto conduzia o veículo), tudo contribuindo sobremaneira para reduzir a capacidade de resistência do motorista e facilitar a consumação do delito (fls. 14/15).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRETENSÃO DE REVISAR A CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. DOSIMETRIA DA PENA. EXISTÊNCIA DE DUAS MAJORANTES DA PARTE ESPECIAL (EMPREGO DE ARMA E CONCURSO DE AGENTES). INCIDÊNCIA SIMULTÂNEA COM FUNDAMENTAÇÃO. COAÇÃO ILEGAL MANIFESTA. AUSÊNCIA.
+Inicial indeferida liminarmente.
