@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 420):
+AGRAVO DE INSTRUMENTO. PAGAMENTO COMPLEMENTAR. ÍNDICES DE CORREÇÃO MONETÁRIA. TEMA 810, STF. SENTENÇA DE EXTINÇÃO. AUSÊNCIA. REABERTURA DA EXECUÇÃO. CABIMENTO. 1. O acórdão transitado em julgado diferiu para a fase de cumprimento de sentença a forma de cálculo dos consectários legais. 2. Não tendo sido prolatada sentença de extinção do feito pelo pagamento integral da dívida, deve ser admitida a reabertura da execução, pois o pedido de complementação foi feito dentro do prazo prescricional.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fl. 439).
+Apontou o recorrente, nas razões do recurso especial (e-STJ, fls. 444-448), violação aos arts. 316, 502, 503, 505, 924, II, 925 e 927, III e 1.022, II, do CPC, sustentando, além de negativa de prestação jurisdicional, a "impossibilidade de a parte autora executar valores complementares, mesmo após o feito ter sido extinto por sentença que reconheceu o cumprimento da obrigação (pagamento), a qual já transitou em julgado" (e-STJ, fl. 445).
+Afirmou que "o acórdão recorrido reconheceu a possibilidade de a parte autora cobrar as diferenças decorrentes da correção monetária sobre os valores pagos em atraso - Tema 810 do STF, muito embora já tenha sido satisfeita a obrigação e extinto o processo de execução. Ocorre que esse entendimento não se coaduna com o posicionamento consagrado pelo Superior Tribunal de Justiça que, em recurso afetado como repetitivo, definiu que não é legítima a reabertura da execução após sua extinção por sentença com trânsito em julgado" (e-STJ, fl. 446).
+Alegou, que "a tese acima mencionada, firmada pelo STJ e confirmada recentemente, é clara e objetiva, não deixando margem para qualquer discussão acerca da impossibilidade de abertura superveniente da execução após o trânsito em julgado da sentença extintiva" (e-STJ, fl. 446).
+Ao final, requereu "o provimento do presente recurso para reformar o acórdão vergastado a fim de julgar improcedente o pedido de execução de valores complementares, após a extinção da execução, aplicando-se assim o entendimento firmado no Tema 289 do STJ ( REsp 1.143.471/PR)" (e-STJ, fl. 448).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 455-473 (e-STJ).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo (e-STJ, fls. 511-522).
+Contraminuta apresentada (e-STJ, fls. 526-559).
+Brevemente relatado, decido.
+Considerando os fundamentos trazidos no recurso, dou provimento ao agravo para determinar a conversão em recurso especial, sem prejuízo de nova análise dos requisitos de admissibilidade, a fim de que a matéria seja melhor examinada, com fulcro no art. 34, XVI, do RISTJ.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PAGAMENTO COMPLEMENTAR. SENTENÇA DE EXTINÇÃO. AUSENTE. ARQUIVAMENTO. NOVO PEDIDO FEITO DENTRO DO PRAZO PRESCRICIONAL. AGRAVO PROVIDO PARA CONVERTER EM RECURSO ESPECIAL.
