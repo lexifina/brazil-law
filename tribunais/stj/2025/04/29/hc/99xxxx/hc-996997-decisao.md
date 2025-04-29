@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TIAGO ROGERIO DE ALMEIDA contra o ato coator proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que, nos autos do Agravo em Execução n. 0008429-65.2024.8.26.0502, negou provimento ao recurso, mantendo como data-base para progressão a data do exame criminológico favorável (Execução n. 0002664-61.2021.8.26.0521, DEECRIM UR4 - Campinas/SP).
+A defesa alega, em síntese, que, uma vez que o exame criminológico não se fazia imprescindível via de regra para a progressão de regime naquele instante, podemos concluir que a data-base deve ser aquela em que o paciente preencheu o requisito objetivo e ostentou bom comportamento carcerário tão somente, tal como estabelecia a redação anterior do artigo 112, § 1º, da LEP (fl. 3).
+Pede, em caráter liminar e no mérito, que seja concedida a ordem de Habeas Corpus, a fim de que seja determinada a reelaboração do cálculo de penas, considerando-se, para tanto, como data-base para a progressão ao regime aberto, a data em que fora implementado o requisito objetivo, in casu, 26 de dezembro de 2023 (fl . 12).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração da ilegalidade, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano, a inviabilidade do presente writ.
+O acórdão não comporta reparos, visto que está em consonância com a jurisprudência do Superior Tribunal de Justiça.
+A Terceira Seção, no julgamento do Tema Repetitivo n. 1.165, dispôs que a decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo e subjetivo descritos no art. 112 da Lei 7.210, de 11/7/1984 (Lei de Execução Penal), e não a data em que efetivamente foi deferida a progressão. Essa data deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último req uisito pendente, seja ele o objetivo ou o subjetivo. Se por último for preenchido o requisito subjetivo, independentemente da anterior implementação do requisito objetivo, será aquele (o subjetivo) o marco para fixação da data-base para efeito de nova progressão de regime.
+Assim, tendo sido determinada a realização de exame criminológico, o requisito subjetivo só restou adimplido na data de conclusão favorável, ainda que o requisito objetivo tenha se verificado anteriormente.
+Vale ressaltar que não houve debate na instância de origem sobre eventual ilegalidade na determinação do exame criminológico já realizado, fato que impede a análise por esta Corte sob pena de supressão de instância.
+À vista do exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE PARA FUTURAS PROGRESSÕES. DATA NA QUAL IMPLEMENTADOS OS REQUISITOS OBJETIVO E SUBJETIVO PREVISTOS NO ART. 112 DA LEP. ANÁLISE CASUÍSTICA PARA DEFINIR O MOMENTO EM QUE PREENCHIDO O ÚLTIMO REQUISITO PENDENTE. DATA DO EXAME CRIMINOLÓGICO. JURISPRUDÊNCIA DO STJ. TEMA 1.165.
+Petição inicial indeferida liminarmente.
