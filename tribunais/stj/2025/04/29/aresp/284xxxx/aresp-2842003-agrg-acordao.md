@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO PECUNIÁRIA. PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que não conheceu do recurso especial devido à incidência da Súmula n. 7/STJ, mantendo a prestação pecuniária fixada em 02 (dois) salários mínimos.
+2. A agravante foi condenada à pena de 02 (dois) anos de reclusão, em regime aberto, pela prática de crime de contrabando, com substituição por duas penas restritivas de direitos, incluindo prestação pecuniária.
+3. O Tribunal de origem reduziu a prestação pecuniária de 03 (três) para 02 (dois) salários mínimos, considerando a renda mensal da agravante e a quantidade de mercadoria apreendida.
+II. Questão em discussão
+4. A discussão consiste em saber se a prestação pecuniária fixada em 02 (dois) salários mínimos é desproporcional, considerando a renda mensal da agravante de R$ 1.500,00 (mil e quinhentos reais), além de a Defesa não ter feito prova do alegado comprometimento da subsistência da unidade familiar da parte ré .
+III. Razões de decidir
+5. A prestação pecuniária deve manter caráter punitivo e exigir sacrifício, não sendo mitigada a ponto de perder sua função sancionatória.
+6. O valor da prestação pecuniária foi fixado de forma proporcional e razoável, considerando a pena aplicada, a quantidade de mercadoria apreendida e a renda mensal da agravante.
+7. A revisão do valor da prestação pecuniária demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial, conforme a Súmula n. 7/STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental não provido.
+Tese de julgamento: 1. A prestação pecuniária deve ser fixada de modo a manter seu caráter punitivo, exigindo sacrifício do condenado. 2. A revisão do valor da prestação pecuniária em recurso especial é inviável, ante o óbice da Súmula n. 7/STJ.
+Dispositivos relevantes citados: CP, art. 45, § 1º; CP, art. 334-A, § 1º, V.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.862.237/PR, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023; STJ, AgRg no AREsp 2.621.328/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024.
+RELATÓRIO
+Trata-se de agravo regimental interposto por EMÍLIA COPCESKI contra a decisão de minha relatoria que conheceu do agravo para não conhecer do recurso especial devido ao óbice da Súmula n. 7/STJ (fls. 249-252).
+A parte agravante alega que não há falar em incidência da Súmula n. 7/STJ, reiterando o pleito do recurso especial relativo à redução da prestação pecuniária no valor de 02 (dois) salário mínimos.
+Alega que a pena pecuniaria é desproporcional, haja vista a renda mensal da apenada ser de R$ 1.500,00 (mil e quinhentos reais), tornando o restante da remuneração insuficiente para subsistência de sua unidade familiar.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO PECUNIÁRIA. PROPORCIONALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que não conheceu do recurso especial devido à incidência da Súmula n. 7/STJ, mantendo a prestação pecuniária fixada em 02 (dois) salários mínimos.
+2. A agravante foi condenada à pena de 02 (dois) anos de reclusão, em regime aberto, pela prática de crime de contrabando, com substituição por duas penas restritivas de direitos, incluindo prestação pecuniária.
+3. O Tribunal de origem reduziu a prestação pecuniária de 03 (três) para 02 (dois) salários mínimos, considerando a renda mensal da agravante e a quantidade de mercadoria apreendida.
+II. Questão em discussão
+4. A discussão consiste em saber se a prestação pecuniária fixada em 02 (dois) salários mínimos é desproporcional, considerando a renda mensal da agravante de R$ 1.500,00 (mil e quinhentos reais), além de a Defesa não ter feito prova do alegado comprometimento da subsistência da unidade familiar da parte ré .
+III. Razões de decidir
+5. A prestação pecuniária deve manter caráter punitivo e exigir sacrifício, não sendo mitigada a ponto de perder sua função sancionatória.
+6. O valor da prestação pecuniária foi fixado de forma proporcional e razoável, considerando a pena aplicada, a quantidade de mercadoria apreendida e a renda mensal da agravante.
+7. A revisão do valor da prestação pecuniária demandaria reexame de matéria fático-probatória, o que é vedado em recurso especial, conforme a Súmula n. 7/STJ.
+IV. DISPOSITIVO E TESE
+8. Agravo regimental não provido.
+Tese de julgamento: 1. A prestação pecuniária deve ser fixada de modo a manter seu caráter punitivo, exigindo sacrifício do condenado. 2. A revisão do valor da prestação pecuniária em recurso especial é inviável, ante o óbice da Súmula n. 7/STJ.
+Dispositivos relevantes citados: CP, art. 45, § 1º; CP, art. 334-A, § 1º, V.
+Jurisprudência relevante citada: STJ, AgRg no REsp 1.862.237/PR, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023; STJ, AgRg no AREsp 2.621.328/MS, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024.
+VOTO
+Atendidos os pressupostos recursais (extrínsecos e intrínsecos) do agravo regimental, o reclamo, todavia, não logra provimento, em que pese a combativa postulação defensiva.
+A agravante foi condenada à 02 (dois) anos de reclusão, em regime aberto, pela prática do crime tipificado no art. 334-A, § 1º, V, do Código Penal. Na oportunidade, admitiu-se a substituição por duas restritivas de direitos consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 03 (três) salário mínimos. O Tribunal de origem, por seu turno, reduziu a restritiva de direito de prestação pecuniária para o valor de 02 (dois) salários mínimos.
+Pretende a Defesa a redução da pena pecuniária, alegando sua desproporcionalidade, e, ainda, que sua análise não requer incursão no acervo fático-probatório.
+Assim pontuou o Tribunal de origem (fl. 166):
+O magistrado substituiu a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária no valor de 3 salários mínimos.
+Este o objeto do apelo, por meio do qual a defesa busca a redução da quantia para 1 salário mínimo, ao argumento de que não há elementos comprobatórios de que a apelante possua condições econômicas de arcar com o valor arbitrado.
+A prestação pecuniária é medida substitutiva que mantém caráter punitivo - inerente a qualquer pena, visto que se trata de ônus da condenação -, de tal modo que o seu cumprimento deve exigir sacrifício e esforço. Não deve, portanto, seu valor ser mitigado, a fim de que configure sanção aplicada em razão da prática de conduta penalmente reprovável.
+De acordo com o § 1º do art. 45 do Código Penal, o valor da prestação pecuniária não deve ser inferior a 1 nem superior a 360 salários mínimos.
+E além deste parâmetro legal, devem ser considerados fatores tais como a pena privativa de liberdade imposta e a extensão dos danos decorrentes do crime praticado, e não somente a situação financeira do agente.
+Nesse contexto, levando em conta a pena aplicada, a quantidade de mercadoria apreendida (850 cigarros eletrônicos descartáveis e 30 unidades de tabaco para narguilé) e as informações disponíveis acerca das condições financeiras da apelante (auxiliar de serviços gerais/limpeza, com renda mensal aproximada de R$ 1.500,00, evento 23, CHEQ3), entendo viável a redução do valor da prestação pecuniária para o montante de 2 salários mínimos.
+O STJ possui entendimento consolidado de que a soma da pena de multa, quando fixada como prestação pecuniária, não deve alcançar um valor que comprometa a subsistência do condenado. De modo geral, considera-se razoável que esse montante não ultrapasse cerca de 30% (trinta por cento) da renda mensal do réu (AgRg no REsp n. 1.862.237/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023).
+Destaco, ainda, que esta Corte Superior entende ser admissível que a impossibilidade de pagamento da prestação pecuniária seja comprovada perante o Juízo da Execução Criminal, o qual pode, inclusive, autorizar o parcelamento do valor, garantindo que a parte acusada consiga efetuar o pagamento sem comprometer o essencial para sua subsistência (AgRg no AREsp n. 2.621.328/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/10/2024, DJe de 22/10/2024).
+Verifico, no entanto, que não há prova que ampare o alegado pela Defesa acerca do pagamento da pena pecuniária vir a comprometer a subsistência da unidade familiar da agravante.
+Na hipótese, as instâncias ordinárias, ponderando as circunstâncias do fato, fixaram o valor da pena pecuniária de forma proporcional e razoável e sua revisão atrai a Súmula n. 7/STJ, uma vez que, para dissentir da conclusão do Tribunal de origem, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO CONTRA A CAIXA ECONÔMICA FEDERAL. ACORDO DE NÃO PERSECUÇÃO PENAL. RETROATIVIDADE DO ART. 28-A DO CPP. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 45, § 1º, DO CP. PEDIDO DE REDUÇÃO DA PENA DE PRESTAÇÃO PECUNIÁRIA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No âmbito desta Corte Superior, em que pese a Terceira Seção, em 8/6/2021, tenha aprovado, por unanimidade, a proposta de afetação do julgamento do REsp n. 1.890.343/SC e do REsp n. 1.890.344/RS, de minha relatoria, à sistemática dos recursos repetitivos - Tema Repetitivo n. 1.098, cuja controvérsia foi delimitada como a (im)possibilidade de acordo de não persecução penal posteriormente ao recebimento da denúncia -, o referido órgão colegiado, acolhendo proposta deste Relator, decidiu não determinar a suspensão do trâmite dos processos pendentes que versem sobre a matéria jurídica em questão.
+2. O Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do CPP, introduzido pela Lei n. 13.964/2019, se revela incompatível com o propósito do instituto, quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias. In casu, tendo sido recebida a denúncia antes que entrasse em vigor a Lei n. 13.964/2019, em 23/1/2020, inclusive com sentença condenatória, não se pode falar na aplicação do art. 28-A do CPP.
+3. Fixada fundamentadamente pelo Tribunal de origem a prestação pecuniária, levando em conta as peculiaridades do caso e a renda mensal declarada pelo réu, o acolhimento do pleito de revisão da proporcionalidade da prestação pecuniária demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula n. 7/STJ (AgRg nos EDcl no AREsp n. 1.686.679/PR, Ministro NEFI CORDEIRO, Sexta Turma, DJe 13/8/2020) (AgRg no REsp n. 1.862.237/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023.).
+(..)
+5. Agravo regimental não provido. (AgRg no REsp n. 2.111.585/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/5/2024, DJe de 14/5/2024, grifamos)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGAS, TRÁFICO TRANSNACIONAL DE ARMAS E CONTRABANDO DE CIGARROS. VIOLAÇÃO DO ART. 45, § 1º, DO CP. PEDIDO DE REDUÇÃO DA PENA DE PRESTAÇÃO PECUNIÁRIA. ALTERAÇÃO. DESCABIMENTO. FIXAÇÃO NOS TERMOS DA LEI. CONDIÇÕES FINANCEIRAS. ANÁLISE DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+1. O Tribunal de origem dispôs que a pena de prestação pecuniária deve ser fixada atentando à situação financeira dos acusados e, nessa medida, deve ser arbitrada de modo a não torná-los insolventes; todavia, não pode ser fixada em valor irrisório que sequer seja sentida como sanção.  ..  É razoável considerar que a soma da pena de multa eventualmente fixada com a prestação pecuniária, dividida pelo número de meses da pena privativa de liberdade aplicada, não pode atingir montante superior àquele que comprometeria a subsistência do condenado. Em regra, tenho entendido como razoável o dispêndio de valor aproximadamente 30% da renda mensal do réu.  ..  Contudo, tal critério não é absoluto, podendo variar conforme as circunstâncias identificadas no processo, como no caso de fortes indicativos deque o réu atua em nome de organização criminosa de elevada capacidade financeira. São representativos de tal envolvimento, por exemplo, o elevado valor de mercadorias (eletrônicos, drogas, dentre outros) apreendidas, sonegação de significativa importância nos crimes tributários, pagamento de fiança de alto montante ou, ainda, exercício de atividade empresarial (contemporânea ou não aos fatos e a sentença condenatória).  .. , tendo em conta a renda a ser considerada como auferida pelos acusados e os demais critérios balizadores anteriormente expostos, reduzo a prestação pecuniária para 7 (sete) salários mínimos para a ré ANDRIELE.
+2. Rever a situação econômico-financeira do agravante, de modo a alterar o entendimento adotado na instância ordinária, demandaria, novamente, reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial (AgInt no AREsp n. 1.044.643/ES, Ministro Sebastião Reis Junior, Sexta Turma, DJe 21/5/2018).
+3. Fixada fundamentadamente pelo Tribunal de origem a prestação pecuniária, levando em conta as peculiaridades do caso e a renda mensal declarada pelo réu, o acolhimento do pleito de revisão da proporcionalidade da prestação pecuniária demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ (AgRg nos EDcl no AREsp n. 1.686.679/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/8/2020).
+4. Agravo regimental desprovido. (AgRg no REsp n. 1.862.237/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 6/3/2023, DJe de 10/3/2023, grifamos)
+Desse modo, o presente recurso não apresenta argumentos capazes de desconstituir os fundamentos que embasaram a decisão ora impugnada, de modo que merece ser integralmente mantida.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
