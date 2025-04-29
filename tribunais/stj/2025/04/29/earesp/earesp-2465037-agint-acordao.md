@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em Sessão Virtual de 23/04/2025 a 29/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Sebastião Reis Júnior votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Presidente do STJ.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. MANUTENÇÃO DA DECISÃO. AGRAVO DESPROVIDO.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Examina-se agravo interno interposto por GRÁFICA COMERCIAL LTDA E OUTROS contra decisão unipessoal que indeferiu liminarmente os embargos de divergência interpostos.
+Ação: cumprimento de sentença, ajuizada por GRÁFICA COMERCIAL LTDA E OUTROS, DEVIDAMENTE QUALIFICADOS em face de CAIXA ECONÔMICA FEDERAL - CEF.
+Decisão interlocutória: determinou o retorno dos autos à Contadoria Judicial para retificação dos cálculos apresentados e aplicação da Taxa Selic.
+Acórdão: o TJSP negou provimento ao agravo de instrumento interposto por GRÁFICA COMERCIAL LTDA E OUTROS, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ATUALIZAÇÃO DE VALORES. MANUAL DE CÁLCULOS DA JUSTIÇA FEDERAL. APLICAÇÃO SUBSIDIÁRIA. CONDENAÇÕES EM GERAL. SELIC. - Considerando que o título em execução não dispôs acerca dos critérios de atualização de valores, deve ser utilizado nos cálculos o critério estabelecido no Capítulo 4.2.2 - Condenações em geral, do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal - Resolução CJF nº 267/2013, que inclui a aplicação da SELIC, que engloba tanto a correção monetária como os juros de mora. - Desse modo, correta a determinação constante na determinação agravada, que se encontra conforme os critérios de atualização monetária e juros de mora previstos no Manual de Cálculos da Justiça Federal, situação registrada inclusive na fundamentação do acórdão exequendo - que menciona expressamente a necessidade de observância da SELIC. - Agravo de instrumento desprovido. (e-STJ fls. 71-72)
+Recurso especial: com fundamento nas alíneas "a" e "c" do permissivo constitucional, alega violação ao art. 1.022, II, do CPC. Afirma que o acórdão ofendeu também os arts. 1.062 do CC/1916, art. 406 do CC/02 e 161, § 1º, do CTN, por deixar de aplicar a interpretação conferida pelo STJ por ocasião do julgamento do REsp 1.112.746/DF. Requer a reforma do decisum.
+Acórdão embargado da 1ª Turma/STJ: negou provimento ao agravo interno interposto pela embargante, mantendo a decisão unipessoal que não conheceu do agravo em recurso especial em razão da irregularidade na representação processual, nos termos da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCURAÇÃO NOS AUTOS. AUSÊNCIA. INTIMAÇÃO PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. NÃO ATENDIMENTO. REGULARIZAÇÃO TARDIA. RECURSO INEXISTENTE. SÚMULA 115/STJ. ART. 1.017, § 5º, DO CPC. INSTÂNCIA ESPECIAL. INAPLICABILIDADE.
+1. É assente neste Superior Tribunal o entendimento segundo o qual a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso interposto para as instâncias superiores, nos termos da Súmula 115/STJ.
+2. No caso, verifica-se que, embora regularmente intimada para sanar o vício apontado, a parte agravante quedou inerte. Assim, escorreita a decisão da Presidência do STJ, que não conheceu do agravo em recurso especial, ante o óbice da Súmula 115/STJ, sendo inadmissível a regularização tardia, devido à preclusão consumativa.
+3. A dispensa da juntada de procuração em processos eletrônicos, prevista no art. 1.017, § 5º, do CPC, não se estende ao recurso especial ou ao agravo contra a sua inadmissibilidade, ante a impossibilidade de acesso aos autos eletrônicos originais, sendo específica da classe processual "agravo de instrumento". Precedentes.
+4. Agravo interno não provido. (e-STJ fls. 339)
+Embargos de declaração: opostos, foram rejeitados.
+Embargos de divergência: aponta a existência de dissídio jurisprudencial entre o acórdão embargado e o acórdão proferido pela 6ª Turma do STJ no AgRg no REsp 1571320/AL, notadamente em relação ao art. 1.017, § 5º, do CPC. Pugna pelo conhecimento dos embargos a fim de reformar a decisão embargada.
+Decisão unipessoal: indeferiu liminarmente os embargos de divergência.
+Agravo interno: reitera os fundamentos anteriormente apresentados e pugna pela reforma da decisão.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. MANUTENÇÃO DA DECISÃO. AGRAVO DESPROVIDO.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Agravo interno não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento capaz de ilidir o entendimento firmado na decisão ora agravada.
+1. Da Súmula 315/STJ
+Conforme mencionado na decisão unipessoal, os embargos de divergência constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça, representando mecanismo que, a despeito de depender da iniciativa das partes ou de terceiros interessados, "não tem por mira apenas realizar justiça subjetiva", eis que "o Tribunal quando os julga tem por propósito específico promover a harmonia de interpretação da lei federal com a consequente uniformização da jurisprudência no âmbito interno da Corte" (EDcl nos EREsp 88.682/SP, 1ª Seção, DJe 1º/12/2003).
+Assim, por ser recurso de fundamentação vinculada, o cabimento dos embargos de divergência é restrito, do que exsurge especiais requisitos de admissibilidade a serem observados pela parte embargante.
+Reitera-se ser necessário observar que, nos termos do art. 1.043 do CPC, é embargável o acórdão de órgão fracionário que, em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito, ou, ainda, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Essa exigência legal no sentido de que o acórdão seja de mérito, ou ao menos tenha apreciado a controvérsia, se justifica porque, a rigor, os embargos de divergência não servem para propiciar novo exame acerca da aplicação de regra técnica de admissibilidade do recurso especial ou do agravo em recurso especial.
+Deveras, o juízo de admissibilidade de cada processo levado a julgamento é realizado, de forma soberana, pelo órgão fracionário deste Tribunal, segundo as particularidades de cada hipótese concreta, de modo que se torna inviável uma comparação abstrata de teses no âmbito dos embargos de divergência.
+Nesse sentido se firmou a pacífica jurisprudência deste Tribunal, que entende aplicável em situações tais, por analogia, o óbice da Súmula 315/STJ.
+Confira-se, exemplificativamente, o seguinte julgado:
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL.
+1. Os embargos de divergência não são cabíveis para análise de regras técnicas de admissibilidade do recurso especial, como sói ser a incidência da Súmula 182 do STJ, haja vista que o escopo deste recurso é a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo, ainda que se trate de matéria de ordem pública.
+2. Súmula 315 do STJ: "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Entendimento positivado no art. 1.043, III, do CPC/2015.
+3. Agravo interno não provido. (AgInt nos EAREsp 955.088/RS, Corte Especial, DJe 2/5/2018)
+No particular, verifica-se que o acórdão embargado negou provimento ao agravo interno, mantendo a decisão unipessoal que não conhecera do agravo em recurso especial, em razão da irregularidade na representação processual, sendo que a parte, "embora regularmente intimada para sanar referido vício, deixou o prazo transcorrer in albis" (e-STJ fls. 211).
+No ponto, o acórdão embargado esclareceu que a parte "deveria ter procedido à juntada da referida documentação na primeira oportunidade para falar nos autos, a saber, logo após sua intimação para regularizar o vício relativo à ausência de procuração, sob pena de preclusão. Como essa providência não foi realizada, é de rigor a manutenção da Súmula 115/STJ.  ..  Com essas considerações, apesar da substanciosa argumentação desenvolvida pela parte agravante, de fato, operou-se a preclusão, na medida em que, devidamente intimada (fl. 191), não promoveu, no momento processual oportuno, a regularização de sua representação processual, de maneira que fica prejudicado o exame das demais alegações recursais meritórias" (e-STJ fl. 340).
+Com efeito, ratifica-se que, encerrando-se o julgamento na aplicação de regras técnicas de admissibilidade do agravo em recurso especial, não é admissível o manejo dos embargos de divergência.
+A decisão monocrática, portanto, não merece reforma.
+Por fim, frisa-se que o mero não conhecimento, improcedência ou rejeição do agravo interno e dos embargos de declaração não enseja a necessária imposição das multas previstas nos arts. 1.021, § 4º, 1.026, § 2º, e 80, VII, do CPC. Rejeita-se, portanto, o requerimento de aplicação da multa processual (e-STJ fl. 445).
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno nos embargos de divergência no agravo em recurso especial.
+Previno o agravante que a oposição de novo recurso, se declarado manifestamente protelatório, acarretará condenação em multa, nos termos do art. 1.026, § 2º, do CPC.
