@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA CORTE LOCAL QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE NO ART. 1.030, I, B, DO CPC. ERRO GROSSEIRO. UTILIZAÇÃO DE MEIO RECURSAL IMPRÓPRIO. INÚMEROS PRECEDENTES
+Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Guilherme Schmidt Bizan Crema contra a decisão da Presidência que não conheceu do agravo em recurso especial, por inadequação da via eleita quanto à negativa de seguimento do recurso e, no remanescente, ante a ausência de impugnação específica do fundamento utilizado para inadmitir o recurso especial na origem, qual seja, não cabimento de recurso especial para impugnar de princípio da Constituição Federal (fls. 959/961).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 988/992).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO INFIRMARAM O FUNDAMENTO DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA CORTE LOCAL QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE NO ART. 1.030, I, B, DO CPC. ERRO GROSSEIRO. UTILIZAÇÃO DE MEIO RECURSAL IMPRÓPRIO. INÚMEROS PRECEDENTES
+Agravo regimental não conhecido.
+VOTO
+O agravo regimental não comporta conhecimento.
+Em obediência ao princípio da dialeticidade, cabe ao agravante o ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido.
+Observo que, na origem, um tópico da insurgência teve o seguimento negado, por se considerar que o acórdão impugnado estaria de acordo com o entendimento desta Corte em demanda submetida ao sistema dos recursos repetitivos (Tema 1.114/STJ), enquanto o remanescente foi inadmitido por inadequação do recurso especial para impugnar preceitos constitucionais (fls. 882/885).
+O agravo em recurso especial não foi conhecido por inadequação da via eleita no que toca à negativa de seguimento e por descumprimento do princípio da dialeticidade recursal quanto à insurgência restante, incidindo a Súmula 182/STJ, já que o agravante deixou de impugnar especificamente o fundamento acima mencionado (fls. 959/961).
+Caberia ao agravante, nas razões do regimental, demonstrar que, em sede de agravo em recurso especial, teria superado os óbices em questão, o que não se verificou à luz da argumentação expendida no recurso.
+Com efeito, a argumentação exposta no recurso (fls. 967/973) restringe-se a afirmar, genericamente, a inaplicabilidade do Tema Repetitivo 1.114/STJ, a aplicação do princípio da fungibilidade recursal, além de repisar a argumentação de mérito constante das razões do recurso especial.
+Assim, tal como posta, a argumentação defensiva não supre o requisito indispensável da impugnação específica aos termos da decisão agravada, de modo que o presente agravo regimental também se mostra inviável, ante a incidência da Súmula 182/STJ.
+Nesse panorama, é nítido que a agravante inobservou o princípio da dialeticidade recursal (art. 932, III, do CPC, c/c o art. 3º do CPP), circunstância apta a atrair a incidência da Súmula 182/STJ.
+Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023; e AgRg no AREsp n. 2.309.920/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 28/11/2023.
+Ademais, no caso, o Tribunal de origem negou seguimento a recurso especial com fundamento no art. 1.030, I, do Código de Processo Civil, devido à harmonia entre o acórdão recorrido e a orientação firmada pelo Superior Tribunal de Justiça em recurso especial repetitivo. Essa decisão, conforme o disposto no art. 1.030, § 2º, do Código de Processo Civil, é impugnável mediante agravo interno no próprio Tribunal de Justiça, sendo manifestamente incabível a interposição de agravo em recurso especial e inaplicável, consequentemente, o princípio da fungibilidade.
+São inúmeros os precedentes desta Corte Superior nessa linha: AgRg no AREsp n. 2.206.193/MT, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 11/9/2023; AgInt no AREsp n. 2.246.228/AL, Ministro Gurgel de Faria, Primeira Turma, DJe 6/9/2023; AgInt no AREsp n. 2.234.372/RS, Ministra Nancy Andrighi, Terceira Turma, DJe 16/8/2023; AgRg no AREsp n. 2.181.617/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe 3/7/2023; AgRg no AREsp n. 2.178.138/PA, Ministro João Batista Moreira (Desembargador Convocado do TRF1), Quinta Turma, DJe 2/6/2023.
+Ante o exposto, não conheço do agravo regimental.
