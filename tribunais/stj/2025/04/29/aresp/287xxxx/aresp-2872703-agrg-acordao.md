@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CORRETA APLICAÇÃO DA SÚMULA 182/STJ. PRECEDENTES. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. DOSIMETRIA. AUSÊNCIA DE CRITÉRIO MATEMÁTICO RÍGIDO. EXASPERAÇÃO DEVIDAMENTE JUSTIFICADA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Iago Henrique Pinheiro contra a decisão da Presidência que não conheceu do agravo em recurso especial ante a ausência de impugnação específica de um dos fundamentos utilizados para inadmitir o recurso especial na origem, qual seja, incidência da Súmula 7/STJ (fls. 1.056/1.057).
+Em suas razões, a defesa sustenta que não se faz necessário o reexame da prova, uma vez que constam da sentença e do acórdão impugnado os fatos relacionados à pretensão do agravado - caracterizando-se, assim, a possibilidade de revaloração jurídica daqueles (fl. 1.064).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal opinou pelo não conhecimento do agravo regimental (fls. 1.083/1.086).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO EFETIVA DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CORRETA APLICAÇÃO DA SÚMULA 182/STJ. PRECEDENTES. SÚMULA 7/STJ. IMPUGNAÇÃO GENÉRICA. DOSIMETRIA. AUSÊNCIA DE CRITÉRIO MATEMÁTICO RÍGIDO. EXASPERAÇÃO DEVIDAMENTE JUSTIFICADA.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+De fato, não houve impugnação, de forma eficiente, do fundamento utilizado pelo Tribunal a quo para inadmitir o recurso especial.
+A Corte estadual obstou a subida do apelo extremo considerando: Súmula 284/STF, ausência de prequestionamento e Súmula 7/STJ (fls. 1.027/1.030).
+O agravante, por seu turno, quanto à Sú mula 7/STJ, nas razões do agravo em recurso especial, argumentou apenas que não se faz necessário o reexame da prova, uma vez que constam da sentença e do acórdão impugnado os fatos relacionados à pretensão do agravado - caracterizando-se, assim, a possibilidade de revaloração jurídica daqueles (fls. 1.042/1.043), argumento literalmente reproduzido no regimental.
+Como se percebe, deixou de deduzir argumentos efetivamente concretos, aptos a evidenciar a desnecessidade de revolvimento fático do arcabouço probatório para o eventual acolhimento da pretensão trazida no especial. E, nesse contexto, não há como negar a aplicação analógica da Súmula 182/STJ à espécie.
+Com efeito, não se revela suficiente ao cumprimento do requisito da impugnação específica a argumentação única de não incidência do apontado óbice, sem expor em que medida seria possível examinar a pretensão de mérito sem incursão no acervo fático-probatório dos autos.
+Ora, a impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica por ele atribuída e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar não em simplesmente reiterar as razões do Recurso Especial ou os argumentos referentes ao mérito da controvérsia, mas em demonstrar efetivamente que a referida Súmula não se aplica ao caso concreto e que, portanto, seria desnecessário o revolvimento do acervo fático-probatório dos autos para a análise da insurgência. Precedentes (AgInt no AREsp n. 2.141.230/SP, Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2022).
+Com efeito, para se afastar a aplicação da Súmula n. 7 do STJ, inviável a mera afirmação de sua não incidência na espécie, devendo o recorrente apresentar argumentação suficiente demonstrando que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não se faz necessário reexame de fatos e provas da causa (AgRg no AREsp n. 2.231.715/PB, Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Sexta Turma, DJe 14/4/2023).
+Em reforço: AgRg no AREsp n. 1.654.523/SC, Ministra Laurita Vaz, Sexta Turma, DJe 29/6/2020; e AgInt no AREsp n. 1.463.467/RJ, Ministro Og Fernandes, Segunda Turma, DJe 29/6/2020.
+Logo, não tendo sido impugnada a decisão com a especificidade exigida, correta se mostra a incidência da Súmula 182/STJ ao caso em comento.
+Ademais, conforme entendimento consolidado nesta Corte, não existe critério matemático impositivo para fixação da pena na primeira fase, admitindo-se apenas um controle de legalidade do critério eleito pelo Juízo a quo, de modo a averiguar se a pena-base foi estabelecida mediante fundamentação idônea e concreta (discricionariedade vinculada).
+A corroborar: AgRg no AREsp n. 2.566.123/DF, Sexta Turma, Ministro Rogerio Schietti Curz, DJe 20/8/2024; e AgRg no AREsp n. 1.925.801/MS, Quinta Turma, Ministro Messod Azulay, Dje 28/3/2023.
+Nesse contexto, a fixação da pena-base não necessita seguir um critério matemático rígido, pois não há direito subjetivo do réu a que se adote fração específica para cada circunstância judicial, seja de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor. Exige-se apenas que seja proporcional e devidamente justificado o critério utilizado pelas instâncias ordinárias (AgRg no AREsp n. 2.383.603/PR, MINISTRO RIBEIRO DANTAS, Quinta Turma, j. em 17/10/2023, DJe 23/12/2023).
+Na espécie, a pena-base foi exasperada em 1/4 pelas consequências negativas do crime, considerando serem dois os filhos menores que ficaram privados da companhia e do sustento de seu pai em razão da prática do crime (fl. 976), o que configura uma justificativa idônea e compatível com a jurisprudência desta Corte, sem qualquer desproporção.
+Ante o exposto, nego provimento ao agravo regimental.
