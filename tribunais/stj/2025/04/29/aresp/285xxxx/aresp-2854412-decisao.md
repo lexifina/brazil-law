@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC), interposto por FRANCISCO MARLOS ANDRE FREITAS, contra decisão que não admitiu recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 63, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. INSURGÊNCIA DA PARTE EXEQUENTE. PROCEDIMENTO EXECUTIVO DECORRENTE DA EXTINÇÃO DE AÇÃO DE BUSCA E APREENSÃO. COBRANÇA DOS VALORES, PELO DEVEDOR FIDUCIANTE, EM DECORRÊNCIA DA NÃO DEVOLUÇÃO DO VEÍCULO. DEFENDIDA POSSIBILIDADE DE COMPENSAÇÃO DE MONTANTES PELA CASA BANCÁRIA. PEDIDO QUE, A PRIORI, ENCONTRA RESPALDO NA JURISPRUDÊNCIA DESTE TRIBUNAL DE JUSTIÇA. VIABILIDADE DA COMPENSAÇÃO. DECISÃO MANTIDA, PORTANTO. AGRAVO CONHECIDO E DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados, nos termos do acórdão de fls. 90, e-STJ.
+Nas razões de recurso especial, a parte recorrente aponta violação aos arts. 368 e 369 do Código Civil.
+Sustenta, em síntese, a impossibilidade de compensação de valores, uma vez que o crédito da financeira seria ilíquido e inexigível, e a compensação só pode ocorrer entre dívidas líquidas e fungíveis.
+Contrarrazões apresentadas às fls. 121-127, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, dando ensejo ao presente agravo (fls. 141-143, e-STJ).
+Contraminuta apresentada às fls. 147-152, e-STJ.
+É o relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. O recorrente alega a impossibilidade de compensação de valores, uma vez que o crédito da financeira seria ilíquido e inexigível, e a compensação só pode ocorrer entre dívidas líquidas e fungíveis.
+Nesse ponto, o aresto recorrido (fl. 60-61, e-STJ):
+Da detida análise ao caderno processual, extrai-se que o cumprimento de sentença em trâmite na origem se iniciou para apurar perdas e danos ao devedor fiduciante que, com a apreensão liminar do bem móvel e a posterior extinção da demanda então deflagrada pelo proprietário fiduciante, ficou privado de seu uso.
+ ..
+Isso dito, no que tange ao pedido de compensação formulado pela casa bancária, esta Corte de Justiça possui entendimento assente no sentido ser perfeitamente possível a compensação entre o débito contratual do devedor fiduciante e a indenização devida pelo proprietário fiduciário, acaso a busca e apreensão seja julgada improcedente ou extinta após a apreensão e venda do bem, nos próprios autos da liquidação/cumprimento de sentença.
+O Tribunal local, diante das peculiaridades  do  caso  concreto  e  a  partir  da  análise  do  conteúdo  fático-probatório  dos  autos, concluiu pela possibilidade de compensação dos valores.
+Derruir  as  conclusões  contidas  no  decisum  e  acolher  a  pretensão  recursal  para afastar a iliquidez ou a exigibilidade dos débitos  ensejaria  o  necessário  revolvimento  das  provas  constantes  dos  autos,  providência  vedada  em  sede  de  recurso  especial,  ante  o  óbice  estabelecido  pela  Súmula  7/STJ. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. COMPENSAÇÃO DE DÍVIDAS. ATENDIMENTO DOS PRESSUPOSTOS LEGAIS. INCIDÊNCIA DA SÚMULA N. 83 DO STJ. REEXAME. IMPOSSIBILIADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO. 1. Inexiste ofensa ao art. 1.022, II, do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, embora sem acolher a tese do insurgente, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido. 2. Admite-se a compensação quando duas pessoas forem, ao mesmo tempo, credora e devedora uma da outra em dívidas líquidas e vencidas, recaindo a referida compensação sobre coisas fungíveis, nos termos do art. 369 do Código Civil. 3. Rever as conclusões do acórdão recorrido a respeito do preenchimento dos requisitos para a compensação de dívidas demanda o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial. Incidência da Súmula n. 7 do STJ. 4. Agravo interno desprovido. (AgInt no AREsp n. 2.143.880/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RECUPERAÇÃO JUDICIAL. COMPENSAÇÃO. PREJUÍZO PARA TERCEIROS. INVIABILIDADE. SÚMULA N. 83 DO STJ. AUSÊNCIA DOS REQUISITOS LEGAIS. REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO DESPROVIDO. 1. Nos termos do art. 380 do CC de 2002, não se admite a compensação em prejuízo de direito de terceiro. 2. Quando a corte de origem conclui que inexistem certeza e liquidez das dívidas objeto de compensação e que há a possibilidade de prejuízo para terceiros, decidindo em conformidade com a orientação do Superior Tribunal de Justiça, aplica-se ao caso a Súmula n. 83 do STJ. 3. Modificar as premissas fáticas adotadas no acórdão recorrido de que os requisitos da compensação estão presentes demanda reexame do contexto fático-probatório dos autos, inviável em recurso especial, devido ao óbice da Súmula n. 7 do STJ. 4. Agravo interno desprovido. (AgInt no REsp n. 1.747.578/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 19/8/2024, DJe de 22/8/2024.)  grifou-se
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+2. Do exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, n ão havendo fixação de honorários sucumbenciais pelas instâncias ordinárias, inaplicável a majoração prevista no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
