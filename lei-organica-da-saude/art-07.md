@@ -16,4 +16,5 @@ XII - capacidade de resolução dos serviços em todos os níveis de assistênci
 XIII - organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.
 XIV - organização de atendimento público específico e especializado para mulheres e vítimas de violência doméstica em geral, que garanta, entre outros, atendimento, acompanhamento psicológico e cirurgias plásticas reparadoras, em conformidade com a Lei nº 12.845, de 1º de agosto de 2013.
 XV - proteção integral dos direitos humanos de todos os usuários e especial atenção à identificação de maus-tratos, de negligência e de violência sexual praticados contra crianças e adolescentes.
+XVI - atenção humanizada.
 Parágrafo único. Para os efeitos do inciso XIV do caput deste artigo, as mulheres vítimas de qualquer tipo de violência têm o direito de serem acolhidas e atendidas nos serviços de saúde prestados no âmbito do SUS, na rede própria ou conveniada, em local e ambiente que garantam sua privacidade e restrição do acesso de terceiros não autorizados pela paciente, em especial o do agressor.
