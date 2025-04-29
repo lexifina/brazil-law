@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar adequadamente causa específica de não conhecimento do recurso especial - Súmula 182 do STJ -, motivo pelo qual este agravo regimental também não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ.
+2. Na hipótese, o recurso especial não foi conhecido em virtude das Súmulas n. 7 e 83 do STJ. Neste regimental, a defesa deveria haver demonstrado que infirmou a aplicação, na petição de agravo em recurso especial, dos óbices apontados pelo Tribunal estadual na decisão que não admitiu o REsp. Todavia, a parte limitou-se a indicar um julgado que, em tese, lhe favoreceria quanto ao mérito do recurso especial, sem, todavia, demonstrar a impugnação específica dos óbices apontados na decisão agravada.
+3. Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO IMPUGNADA NÃO COMBATIDO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O agravante deixou de infirmar adequadamente causa específica de não conhecimento do recurso especial - Súmula 182 do STJ -, motivo pelo qual este agravo regimental também não pode ser conhecido, consoante o entendimento enunciado na Súmula n. 182 do STJ.
+2. Na hipótese, o recurso especial não foi conhecido em virtude das Súmulas n. 7 e 83 do STJ. Neste regimental, a defesa deveria haver demonstrado que infirmou a aplicação, na petição de agravo em recurso especial, dos óbices apontados pelo Tribunal estadual na decisão que não admitiu o REsp. Todavia, a parte limitou-se a indicar um julgado que, em tese, lhe favoreceria quanto ao mérito do recurso especial, sem, todavia, demonstrar a impugnação específica dos óbices apontados na decisão agravada.
+3. Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+4. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O ora agravante interpôs recurso especial fundado no art. 105, III, "a" e "c", da CF.
+A impugnação não foi admitida na origem - o que ensejou a interposição de agravo em recurso especial - pela incidência do óbice das Súmulas n. 7 e 83 do STJ.
+O agravo interposto não foi conhecido pela Presidência do STJ, haja vista a ausência de impugnação específica dos óbices mencionados pela Corte estadual.
+Saliento que o AREsp tem como objetivo atacar os óbices apontados pelo Tribunal a quo ao negar seguimento ao REsp. No agravo regimental no AREsp, por sua vez, a parte deve refutar as razões de decidir do agravo em recurso especial.
+Na hipótese, como mencionado, o agravo em recurso especial não foi conhecido em virtude da ausência de dialeticidade. Neste regimental, a defesa deveria haver demonstrado que infirmou a aplicação de cada um dos óbices na petição de agravo em recurso especial. Todavia, a parte limitou-se a afirmar que, de acordo com o decidido no "AREsp 216.7621, a qual diz que os depoimentos dos policiais responsáveis por uma prisão em flagrante são válidos para fundamentar a condenação, desde que estejam em harmonia com as demais provas dos autos" (fl. 736), sem, todavia, demonstrar a impugnação específica dos óbices apontados na decisão agravada.
+Ao proceder dessa forma, é inegável que a defesa, novamente, não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, não conheço do agravo regimental.
