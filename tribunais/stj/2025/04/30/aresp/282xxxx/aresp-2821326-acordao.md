@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo em recurso especial.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. PRINCÍPIO DA DIALETICIDADE. NÃO OBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão que inadmitiu o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não imp ugnados se mantêm. Incidência da Súmula 182/STJ.
+2. Agravo em recurso especial não conhecido.
+RELATÓRIO
+Trata-se de agravo interposto por WAGNO FIGUEIREDO SILVA em adversidade à decisão que inadmitiu recurso especial manejado com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso.
+Consta dos autos que o ora agravante foi submetido a julgamento pelo Tribunal do Júri e foi condenado como incurso no art. 121, §2º, incisos I e IV, do Código Penal, sendo-lhe imposta a pena de 13 (treze) anos, 07(sete) meses e 09(nove) dias de reclusão, em regime inicial fechado.
+O Tribunal de origem negou provimento ao apelo defensivo nos termos do acórdão de e-STJ fls. 1007-1032, que recebeu a seguinte ementa:
+RECURSO DE APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - HOMICÍDIO QUALIFICADO PELO MOTIVO TORPE E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA - CONDENAÇÃO - IRRESIGNAÇÃO DEFENSIVA - 1. NULIDADE DO JULGAMENTO POR CERCEAMENTO DE DEFESA ANTE A VIOLAÇÃO AO ARTIGO 479 DO CPP - INOCORRÊNCIA - AUSÊNCIA DE MANIFESTAÇÃO EM MOMENTO OPORTUNO - NULIDADE DE ALGIBEIRA OU DE BOLSO - INEXISTÊNCIA DE PREJUÍZO À DEFESA DO RÉU - PRECLUSÃO - 2. NULIDADE POR VIOLAÇÃO AO PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO - QUESITAÇÃO QUE NÃO TERIA CONTEMPLADO UMA TESE DEFENSIVA - REJEIÇÃO - INEXISTÊNCIA DE ARGUIÇÃO CORRELATA À SUPOSTA INEXIGIBILIDADE DE CONDUTA - PRECLUSÃO - IRRESIGNAÇÃO NÃO MANIFESTADA A TEMPO E MODO - 3. PLEITO DE SUBMISSÃO A NOVO JÚRI - ALEGADA MANIFESTA CONTRARIEDADE DO VEREDITO À PROVA DOS AUTOS - IMPROCEDÊNCIA - DECISÃO DOS JURADOS QUE REJEITOU AS TESES DEFENSIVAS EXPLANADAS EM PLENÁRIO - VEREDITO CONSENTÂNEO COM O CONTEXTO PROBATÓRIO - ELEIÇÃO DE VERSÃO ACUSATÓRIA CONDIZENTE COM A PROVA DOS AUTOS, INCLUINDO AS QUALIFICADORAS - INCIDÊNCIA DO ENUNCIADO ORIENTATIVO N.º 13 DA TCCR/TJMT - CONDENAÇÃO MANTIDA - 4. ALMEJADO REAJUSTE NA PENA BASILAR - INSUBSISTÊNCIA - NEGATIVAÇÃO IDONEAMENTE CONFERIDA ÀS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS DO CRIME - TIPO PENAL DERIVADO RELATIVO AO RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA QUE FOI PONDERADO COMO CIRCUNSTÂNCIA JUDICIAL - PROVIDÊNCIA AUTORIZADA PELOS TRIBUNAIS SUPERIORES - PECULIARIDADES FÁTICAS RECOMENDANDO A MAIOR REPROVABILIDADE DA CONDUTA - EXASPERAÇÃO ADEQUADA E PROPORCIONAL - COMPORTAMENTO DA VÍTIMA QUE DEVE PERMANECER NEUTRA - APELO DESPROVIDO.
+Nas razões do recurso especial, alega a defesa violação dos artigos 23, 25 e 59 do Código Penal, bem como dos artigos 479, 593, inciso III, alínea d, 564, III, "k", IV, parágrafo único, todos do Código de Processo Penal, e do artigo 5º, LV, da Constituição Federal. Sustenta a ausência de elementos necessários para comprovação do dolo e suas qualificadoras para o delito.
+Apresentadas contrarrazões (e-STJ fls. 1.048-1.055), o recurso foi inadmitido pelo Tribunal de origem (e-STJ fls. 1057-1060), dando ensejo à interposição do presente agravo.
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo não conhecimento do agravo em recurso especial e, caso conhecido, pelo não provimento (e-STJ fls. 1103-1108).
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. PRINCÍPIO DA DIALETICIDADE. NÃO OBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. A falta de impugnação específica e pormenorizada dos fundamentos da decisão que inadmitiu o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não imp ugnados se mantêm. Incidência da Súmula 182/STJ.
+2. Agravo em recurso especial não conhecido.
+VOTO
+O agravo em recurso especial não merece ser conhecido.
+Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, considerando haver deficiência recursal, pois a parte recorrente limitou-se a mencionar o(s) dispositivo(s) legais supostamente violado(s), sem, no entanto, ter demonstrado de forma precisa e concreta a contrariedade alegada e como esta teria ocorrido, impossibilitando, consequentemente, a exata compreensão da matéria apresentada (Súmula 284/STF) e na impossibilidade de arguição de ofensa a dispositivo constitucional em sede de recurso especial.
+Não obstante, nas razões do agravo (e-STJ fls. 317/328), a parte agravante deixou de apresentar impugnação específica em relação aos entraves apontados pelo Tribunal de origem na decisão de inadmissibilidade do recurso especial, limitando-se a afirmar genericamente que estão preenchidos os pressupostos de admissibilidade e a reiterar as razões apresentadas no recurso especial.
+Contudo, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos.
+Além disso, importante esclarecer que a simples abertura de tópico dedicado a impugnar um fundamento da decisão agravada não supre a exigência de impugnação específica, pois não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial, tampouco a simples reiteração das teses de mérito.
+Nesses casos, de rigor a aplicação do óbice da Súmula 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+A respeito, destaco:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO AGRAVADA. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA DA SÚMULA N. 211 DO STJ. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. "Para afastar a incidência do enunciado 211 da Súmula do Superior Tribunal de Justiça, a parte agravante deveria ter demonstrado que o Tribunal de origem apreciou a questão objeto do recurso especial à luz dos dispositivos apontados por supostamente violados, notadamente por meio da transcrição dos excertos do acórdão recorrido. No ponto, registre-se que a mera alegação genérica da existência de prequestionamento não é suficiente para impugnar o referido óbice, sendo imprescindível a efetiva demonstração quanto ao modo como teria havido a apreciação." (AREsp n. 2.726.744, Ministra Maria Thereza de Assis Moura, DJe de 13/12/2024.)
+2. Aplicação do disposto no art. 932, inciso III, do CPC/2015 e da Súmula n. 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 2.611.346/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 12/3/2025, DJEN de 18/3/2025).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO OCEANO BRANCO. TRÁFICO INTERNACIONAL DE DROGAS. VIOLAÇÃO AOS ARTS. 2º e 5º, AMBOS DA LEI N. 9.296/96. NULIDADE DA DECISÃO QUE DECRETOU A INTERCEPTAÇÃO TELEFÔNICA, BEM COMO DAQUELAS QUE A PRORROGARAM. INOCORRÊNCIA. ART. 155 DO CPP. CONDENAÇÃO BASEADA APENAS EM PROVAS PRODUZIDAS NA FASE INQUISITORIAL. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+I - Em respeito ao princípio da dialeticidade, a impugnação à decisão monocrática deve ser clara e suficiente a demonstrar o equívoco dos fundamentos utilizados para solucionar a questão em detrimento aos interesses do ora agravante.
+II - A ausência de impugnação aos fundamentos da decisão agravada atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.652.869/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 4/7/2023).
+Ante o exposto, não conheço do agravo em recurso especial.
+É como voto.
