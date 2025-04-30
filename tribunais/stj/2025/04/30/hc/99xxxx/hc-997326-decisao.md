@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PATRÍCIA FERREIRA MARTINS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que a paciente foi presa preventivamente pela suposta prática dos crimes de homicídio qualificado e ocultação de cadáver - termos em que denunciada.
+O impetrante sustenta que a prisão temporária é abusiva e desproporcional, pois não há prova robusta ou concreta da participação da paciente nos delitos apurados.
+Sustenta que a decisão judicial que impôs a segregação cautelar foi baseada em fundamentação genérica, sem demonstração específica da atuação concreta da paciente ou do risco real à instrução processual, violando o art. 93, IX, da Constituição Federal.
+Afirma que a paciente é mãe de criança menor de 12 anos, o que autoriza a substituição da prisão temporária por prisão domiciliar, nos termos do art. 318, V, do Código Processual Penal, conforme entendimento do Supremo Tribunal Federal no HC coletivo n. 143.641/SP.
+A defesa destaca que a manutenção da prisão temporária viola diversos direitos fundamentais, como a presunção de inocência, o devido processo legal, o direito à convivência familiar e os princípios da dignidade da pessoa humana e da proteção integral à criança.
+Requer, liminarmente e no mérito, a concessão da ordem liminar para determinar a imediata soltura da paciente, mediante revogação da prisão temporária ou sua substituição por prisão domiciliar.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado não possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação exposta a seguir.
+Inicialmente, no procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva.
+Quanto às alegações relativas à ilegalidade da prisão temporária, constata-se a patente ausência de interesse de agir, uma vez que a custódia não mais subsiste sob essa modalidade prisional, considerando-se que o inquérito policial já foi encerrado e que, no mesmo ato em que recebida a denúncia (fls. 30-33), foi decretada a prisão preventiva da paciente, sendo este o título judicial que atualmente fundamenta o encarceramento cautelar da ré.
+Não bastasse isso, o acórdão contra o qual o ora impetrante dirige suas razões de inconformismo (fls. 11-25) restringiu-se à análise do decreto de prisão temporária, o qual, como já observado, não mais permanece em vigor, em razão da conversão da custódia temporária em preventiva.
+Em vista disso, não tendo o Tribunal de origem analisado a legalidade do decreto de prisão preventiva (fls. 31-32), não cabe ao Superior Tribunal de Justiça o exame inaugural da questão, sob pena de indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC n. 126.604/MT, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2020, DJe de 16/12/2020).
+Da mesma forma, não tendo o Tribunal local analisado o pleito de substituição da prisão preventiva por domiciliar, inviável o exame da questão por esta Corte Superior, sob pena de incursão em indevida supressão de instância.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
