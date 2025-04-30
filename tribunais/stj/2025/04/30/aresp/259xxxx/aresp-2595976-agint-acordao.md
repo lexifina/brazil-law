@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A ausência de indicação do dispositivo ofendido importa na aplicação do enunciado nº 284 da Súmula do Pretório Excelso, pois caracteriza deficiência na fundamentação recursal, o que dificulta a compreensão da controvérsia. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por F. MARINE INDUSTRIA E COMERCIO DE PRODUTOS NAUTICOS EM RECUPERAÇÃO JUDICIAL LTDA, contra decisão monocrática, de lavra do eminente Ministro HERMAN BENJAMIN, à época relator do feito, que conheceu do agravo para não conhecer do recurso especial, consoante o seguinte fragmento (fls. 461-464):
+O Tribunal de origem, ao dirimir a controvérsia, assim se manifestou:
+A lide tem origem nos julgamentos do Recurso Extraordinário (RE) 1287019, com repercussão geral (Tema 1093), e da Ação Direta de Inconstitucionalidade (ADI) 5469, em que se definiu que "A cobrança do diferencial de alíquota alusiva ao ICMS, conforme introduzido pela emenda EC 87/2015, pressupõe a edição de lei complementar veiculando normas gerais".
+Tal tese teve seus efeitos modulados em relação aos contribuintes que não haviam intentado ação questionando a cobrança até a publicação da ata de julgamento da tese, de modo que aqueles que tinham ações pendentes restaram desonerados do pagamento do diferencial de alíquotas, enquanto que os demais seguiram realizando o pagamento, por força exclusiva da modulação dos efeitos, até 31/12/2021, momento a partir do qual a regularidade da exigência demandaria peremptória edição de Lei Complementar.
+Em razão disso, o Congresso Nacional editou a Lei Complementar 190/2022, que somente foi publicada em 05/01/2022, e daí o ponto central da discussão em mesa, qual seja, a aplicação do princípio da anterioridade (art. 150, alíneas "b" e "c", da CF/88) à LC 190/2022, alegadamente inviabilizando a exigência do diferencial de alíquotas no exercício fiscal de 2022.
+Quanto ao ponto, este Tribunal de Justiça vem refutando a necessidade de observância da anterioridade 1 , uma vez que tal regra se aplicaria à lei instituidora do tributo e não à lei complementar que dispõe sobre as normas gerais relacionadas ao tributo.
+No Estado do Rio Grande do Sul, a Lei Estadual nº. 14.804/2015 cumpriu o papel de instituição do novo diferencial de alíquotas, e, ainda que editada anteriormente à Lei Complementar 190/2022, não foi objeto de declaração de inconstitucionalidade e, segundo o próprio julgamento do Tema 1.093, teve apenas sua eficácia sustada, justamente porque posterior à EC n.º 87/15, conforme se colhe de excerto do voto do Ministro Dias Toffoli:
+(..)
+Segue a tese firmada no Tema 1.094 do STF, mencionado pelo referido Ministro:
+(..)
+Nesses termos, diante da validade da Lei Estadual nº. 14.804/2015, e, portanto, da ciência dos contribuintes a respeito do ponto desde a respectiva publicação, parece-me que efetivamente não se aplica a regra da anterioridade de exercício, simplesmente porque a finalidade desta foi plenamente cumprida e não se pode dizer tenham sido os contribuintes surpreendidos com a exigência do diferencial de alíquota em 2022.
+Não foi outra a compreensão do Supremo Tribunal Federal, que sinalizou inclusive a ausência de instituição de novo tributo quando da apreciação da medida liminar nas ADI"s nºs. 7066, 7070 e 7075, e que foram reafirmadas na manifestação plenária preliminar já realizada pelo Ministro Alexandre de Moraes, que frisou a ausência de oneração ao contribuinte - inexistência de alteração da hipótese de incidência e base de cálculo, mas apenas da destinação do produto da arrecadação - para assentar a inaplicabilidade da anterioridade no caso (Sessão Virtual de julgamento do dia 23/09/2022 a 30/09/2022 e na qual houve pedido de vista do Ministro Dias Toffoli).
+De outro lado, é pertinente observar que parte das premissas expressas pelo ilustre Ministro Alexandre de Moraes, ao que alcanço, foram idênticas àquelas por ele sustentadas no curso do julgamento do Tema 1.093 do STF, e que restaram vencidas pelo entendimento capitaneado pelo eminente Ministro Dias Toffoli, na ocasião.
+Aliás, é de amplo conhecimento que a Corte Suprema, por sua maioria, afirmou peremptoriamente a existência de relação jurídica própria ao novo diferencial de alíquotas (necessidade de fixação de elementos escriturais e operacionais da nova regra; de fixação de estabelecimento responsável e, inclusive, de base de cálculo), e não por outro motivo reclamou a edição de lei complementar específica para a respectiva regulação, refutando a compreensão da eficácia plena e normatização suficiente da EC 87/96.
+Ainda no ponto, impõe-se recordar que o Congresso Nacional demonstrou ampla preocupação com a observância do script constitucional relacionado às regras de anterioridade do art. 150, III, alíneas "b" e "c", da CF/88, igualmente em razão da vinculação ao entendimento assentado pelo Supremo acerca da nova relação jurídica. Tanto assim que fez prescrição explícita quanto à anterioridade nonagesimal no art. 3º da LC 190/2022 (acredita-se, com a intenção de que a publicação da Lei ocorresse no próprio ano de 2021).
+Referida preocupação do Congresso foi partilhada por pelo menos 8 Estados da Federação, que advogaram junto ao Presidente do Senado Federal, via ofícios, a urgência da aprovação da lei complementar destinada à disciplina do diferencial de alíquotas, em razão das regras de anterioridade de exercício e nonagesimal/noventena 2 .
+Por fim, não se pode descurar que a Corte Constitucional já afirmou a aplicabilidade do princípio da anterioridade a leis complementares relacionadas a alterações da Lei Kandir (ADI 2.325 MC), como acontece no caso, o que, prima facie, refuta um dos argumentos usualmente utilizados por esta Corte Local relaciona à exclusiva aplicação à lei ordinária instituidora da exação.
+Ocorre que, conforme adiantado, diante da validade da Lei Estadual nº. 14.804/2015, houve ciência dos contribuintes a respeito do ponto desde a respectiva publicação, de modo que a finalidade de evitar a surpresa dos contribuintes foi atingida.
+Verifica-se que o acórdão recorrido, com amparo em interpretação de julgados da Suprema Corte, entendeu que não são aplicáveis, em relação à Lei Complementar 190/2022, os princípios da anterioridade e da noventena, ao entendimento de que o ICMS/DIFAL não foi instituído por essa Lei Complementar, mas por lei estadual anterior cuja validade decorre diretamente da Emenda Constitucional 87/2015.
+Dessume-se, portanto, que essa fundamentação é insuscetível de ser revista em REsp, porquanto de índole eminentemente constitucional. Registro que o mesmo entendimento se aplica com relação à violação do art. 150 da CF.
+Vejam-se os precedentes:
+(..)
+Em igual sentido, as seguintes decisões monocráticas: REsp 2.090.479/TO, Rel. Ministra Regina Helena Costa, DJe 17/10/2023; AREsp 2.381.930/RS, Rel. Ministro Gurgel de Faria, DJe 24/10/2023; REsp 2.090.304/RS, Rel. Ministra Assusete Magalhães, DJe 3/10/2023; AREsp 1.686.537/RS, Rel. Ministro Herman Benjamin, DJe 2/9/2020.
+Ademais, o exame da insurgência não prescinde da análise da Lei estadual 14.804/2015, o que não é cabível nesta via ante o óbice da Súmula 280/STF. A propósito:
+(..)
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Sustenta a recorrente, em seu agravo interno às fls. 470-475, quanto à impossibilidade de análise de matéria constitucional que "ao contrário, conforme adunado no recurso especial, o entendimento adotado pelo e. TJRS violou diretamente uma gama de dispositivos legais infraconstitucionais".
+No mais, aduz que "o debate trazido no recurso especial busca apenas a análise dos reflexos jurídicos do julgamento no Tema 1093, e não de normas de direito local, tal como consignou a decisão investida".
+As contrarrazões foram apresentadas às fl. 483-487 .
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A ausência de indicação do dispositivo ofendido importa na aplicação do enunciado nº 284 da Súmula do Pretório Excelso, pois caracteriza deficiência na fundamentação recursal, o que dificulta a compreensão da controvérsia. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece prosperar.
+De fato, no que toca à interposição pela alínea "a" do permissivo constitucional, nota-se que a agravante não aponta em seu apelo nobre expressamente quais normas infraconstitucionais teriam sido contrariadas, não evidenciando, assim, os motivos que fundamentariam sua irresignação. Acrescente-se, ainda, que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do recurso especial, não supre a exigência de fundamentação adequada do apelo especial". (AgInt no AREsp n. 1.928.578/SP, rel. Min. Herman Benjamin, Segunda Turma, DJe de 28/3/2022) Dessarte, incide, in casu, o enunciado 284 da Súmula do Supremo Tribunal Federal, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. JUROS MORATÓRIO. TERMO INICIAL. CITAÇÃO VÁLIDA. SÚMULA 204/STJ. ÍNDICES. TEMA 905/STJ. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA N. 111/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Quando não há a indicação de dispositivo de lei federal violado ou a sua mera citação desacompanhada da demonstração efetiva da alegada contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+X - Agravo Interno improvido.
+(AgInt no REsp n. 2.121.376/SP, rel. Min. Regina Helena Costa, Primeira Turma, DJe de 26/6/2024)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DOS DISPOSITIVOS DE LEI VIOLADOS. INCIDÊNCIA DA SÚMULA N.º 284 DO STF, POR ANALOGIA. EMBARGOS DE TERCEIRO. HONORÁRIOS SUCUMBENCIAIS. CAUSALIDADE. RESISTÊNCIA. CONDENAÇÃO MANTIDA. PRECEDENTES. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n.º 284 do STF.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.425.182/SP, rel. Min. Moura Ribeiro, Terceira Turma, DJe de 22/8/2024)
+Por fim, importa consignar que, o fato da recorrente tentar corrigir a fundamentação recursal, por ocasião do agravo interno, não tem o condão de modificar sua situação processual, tendo em vista que, "a argumentação trazida somente por ocasião do manejo do agravo interno caracteriza indevida inovação recursal e impede o c onhecimento da insurgência, tendo em vista a ocorrência de preclusão consumativa". (AgInt no AREsp n. 403.811/RN, rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 14/3/2024) No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO ACERCA DE DISPOSITIVO SUSCITADO NO AGRAVO INTERNO. CONFIGURAÇÃO. INDEVIDA INOVAÇÃO RECURSAL. EMBARGARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+(..)
+2. Entretanto, da leitura do recurso especial, verifica-se que o art. 374, II e III, do CPC não foi alvo das razões recursais. Dessa forma, a alteração da argumentação apenas em sede de agravo interno caracteriza indevida inovação recursal e impede o conhecimento da insurgência, em decorrência da preclusão consumativa.
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.099.824/RS, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2022)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
