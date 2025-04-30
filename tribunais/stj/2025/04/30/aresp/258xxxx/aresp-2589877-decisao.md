@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por BENSAÚDE PLANO DE ASSISTÊNCIA MÉDICA HOSPITALAR LTDA. contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração da ofensa aos artigos de lei indicados e (b) aplicação das Súmulas n. 5 e 7 do STJ (fls. 1.314-1.316).
+O acórdão do TJSP traz a seguinte ementa (fl. 1.200):
+Seguro saúde. Ação de obrigação de fazer c.c. indenização por dano moral. Sentença de parcial procedência. Irresignação dos autores. Autores diagnosticados com raquitismo e nanismo. Indicação de cirurgia de "osteo-distração". Recusa de indicação de profissional do próprio corpo da ré e do fornecimento dos materiais solicitados. Abusividade caracterizada. Violação dos arts. 14 e 51, IV e § 1º do CDC e das condições combinadas. Próteses nacionais requisitadas. Reembolso que deve ser feito tomado o parâmetro das próteses importadas fornecidas pela ré. Prova pericial conclusiva. Dano moral. Ausência. Debate travado que se limitou à matéria contratual. Tutela de urgência. Cumprimento tardio em relação às ordens judiciais proferidas, para fornecimento do material solicitado. Multa diária devida. Redução, de ofício, nos termos do art. 537, § 1º, do CPC, para R$ 30.000,00, por força das circunstâncias da causa e por ter se tornado excessiva. Litigância de má-fé não configurada. Conduta da ré que não violou o princípio da lealdade processual. Sucumbência. Realinhamento. Identidade da derrota das partes. Verba honorária da condenação. Impossibilidade de fixação por equidade. Prevalência das normas próprias (CPC, art. 85, § 2º). Sentença reformada em parte. Recurso parcialmente provido.
+O recurso declaratório da recorrente foi rejeitado (fls. 1.253-1.258).
+Os embargos de declaração da parte recorrida foram decididos nos termos da ementa a seguir (fl. 1.302):
+Embargos de declaração. Presença de pequena contradição na ementa. Abusividade não caraterizada em relação à recusa dos materiais solicitados, tal qual decidido nas razões do voto condutor. Vício reparado. No mais, vícios do art. 1.022 do CPC não configurados. Decisão suficientemente fundamentada. Embargos opostos com caráter infringente. Intuito de prequestionamento que não dispensa a presença de omissão, contradição ou obscuridade no julgado. Inadmissibilidade. Órgão judicial que não está obrigado a se manifestar sobre todos os argumentos e dispositivos legais suscitados pela parte. Embargos acolhidos parcialmente, sem efeito modificativo.
+No recurso especial (fls. 1.260-1.269), fundamentado no art. 105, III, "a", da CF, a recorrente apontou violação do art. 1º, I e II, da Lei n. 9.656/1998, sustentando a ausência de justificativas para a incidência das astreintes, porque "eventual demora não pode ser atribuída a recorrente, porque os autores sem qualquer motivo razoável inovaram no meio do processo, alterando o hospital para um que não era o inicialmente indicado e que está fora da abrangência do plano - ao invés de agendarem a cirurgia
+na Beneficência Portuguesa de Rio Preto, conforme inicialmente convencionado, inovaram pleiteando que o procedimento fosse realizado no Hospital da UNIMED da Jundiaí - resta ainda comprovado as fls. 677-683 o efetivo pagamento (direto) realizado pela recorrente" (fl. 1.265).
+Foram apresentadas contrarrazões, requerendo o arbitramento de honorários recursais (fls. 1.312-1.313).
+No agravo (fls. 1.350-1.357), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de fixação de honorários recursais (fls. 1.392-1.396).
+É o relatório.
+Decido.
+A recorrente defendeu que seria indevida a incidência das astreintes, pois a demora na realização da cirurgia descrita na inicial seria oriunda de condutas imputáveis à contraparte.
+Para justificar tal tese, invocou o art. 1º, I e II, da Lei n. 9.656/1998, o qual, todavia, não apresenta o alcance normativo pretendido, porque não trata especificamente do referido encargo.
+Dessa forma, a fundamentação recursal mostra-se deficiente e atrai, por analogia, a incidência da Súmula n. 284/STF.
+Nesse aspecto: AgInt no AgInt no AREsp n. 984.530/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/9/2017, DJe 20/10/2017, e AgInt no REsp n. 1.505.441/SC, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2017, DJe 2/8/2017.
+O Tribunal de origem não debateu o conteúdo dos arts. 1º, I e II, da Lei n. 9.656/1998 sob o ponto de vista da parte recorrente, a despeito dos aclaratórios opostos.
+Inafastáveis, dessa maneira, as Súmulas n. 282 do STF e 211 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
