@@ -1,0 +1,16 @@
+DECISÃO
+Este habeas corpus, impetrado em benefício de CRISTIANE LOPES KAULICH, em que se aponta como autoridade coatora o Desembargador Relator do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que indeferiu o pedido liminar no HC n. 2093025-62.2025.8.26.0000 (fls. 11/13), não comporta conhecimento.
+Busca, na presente impetração, a expedição de salvo-conduto para cultivo e produção de óleo de cannabis sativa para fins medicinais, alegando que a paciente foi diagnosticada com cistite intersticial, transtorno de ansiedade generalizada e distúrbios do sono, e que o uso de medicamentos alopáticos não foi suficiente para atenuar seu quadro de dor crônica, além do alto custo das medicações.
+Afirma, também, que a paciente possui autorização de importação expedida pela Agência Nacional de Vigilância Sanitária - ANVISA, receita médica recomendado o uso de remédio extraído da cannabis, certificado de conclusão de curso de cultivo e extração de cannabis, e plano de manejo das plantas para extração do óleo.
+Destaca que a paciente possui condições pessoais favoráveis e que a quantidade de plantas apreendidas na sua residência é mínima.
+Requer, ainda, a concessão da liminar, para que as autoridades coatoras apontadas se abstenham de promover quaisquer atos que atentem contra a liberdade de ir e vir da Paciente, bem como apreender ou destruir materias e insumos destinados ao cultivo medicinal de cannabis na sua residência, nos limites do laudo agronômico (fl. 10).
+É o relatório.
+Constata-se, desde logo, que a pretensão não pode ser acolhida pelo Superior Tribunal de Justiça, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+Nesse sentido, consoante o entendimento consolidado na Súmula 691 do Supremo Tribunal Federal, também adotado nesta Corte Superior de Justiça, não deve ser conhecido o writ impetrado contra decisão do Relator que indefere a liminar postulada em outro habeas corpus requerido na origem, sob pena de indevida supressão de instância. Tal entendimento, por analogia, também se aplica ao caso em análise, em que se trata de impugnação de decisão liminar proferida por Desembargador Relator de ação cautelar inominada (AgRg no HC n. 884.434/PR, Ministro Teodoro Silva Santos, Sexta Turma, DJe 18/3/2024).
+Esse posicionamento, no entanto, pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder, circunstância não verificada no caso, fundamentado o indeferimento do pedido liminar no fato do pedido não ter sido analisado pelo Juízo de origem, não podendo o Tribunal de Justiça interferir precocemente na questão, sob pena de supressão de instância (fl. 12).
+No caso, a situação dos autos não justifica a prematura intervenção desta Corte Superior. Deve-se, por ora, aguardar o esgotamento da jurisdição do Tribunal de origem.
+Ante o exposto, com base no art. 210 do RISTJ, não conheço do presente writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. SALVO-CONDUTO. CULTIVO ARTESANAL DE CANNABIS SATIVA PARA FINS MEDICINAIS. LIMINAR INDEFERIDA EM PRÉVIO WRIT. SUPRESSÃO DE INSTÂNCIA. SÚMULA 691/STF. TERATOLOGIA O U ILEGALIDADE. AUSÊNCIA.
+Writ não conhecido.
