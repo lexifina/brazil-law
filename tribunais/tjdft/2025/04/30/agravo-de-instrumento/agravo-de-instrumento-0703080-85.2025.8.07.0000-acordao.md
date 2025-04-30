@@ -1,0 +1,411 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+6ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0703080-85.2025.8.07.0000AGRAVANTE(S)DISTRITO FEDERALAGRAVADO(S)EVANILDO SALES SANTOSRelatorDesembargador ALFEU MACHADO
+ Acórdão Nº1994564
+
+EMENTA
+
+ DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA COLETIVA. IMPUGNAÇÃO REJEITADA. SUSPENSÃO. PREJUDICIALIDADE EXTERNA. AÇÃO RESCISÓRIA. INEXIGIBILIDADE DO TÍTULO. TEMA 864/STF. EXCESSO DE EXECUÇÃO. TAXA SELIC. RESOLUÇÃO CNJ Nº 303/2019. DESPROVIMENTO.
+
+I. Caso em Exame
+
+1. Agravo de instrumento interposto contra decisão que rejeitou a impugnação do devedor em cumprimento de sentença coletiva movido por servidor, na qual visava suspender a execução em razão do ajuizamento de ação rescisória, alegar a inexigibilidade do título executivo judicial com base no entendimento firmado no Tema 864 do STF, e, alternativamente, sustentar a ocorrência de excesso de execução na aplicação dos critérios de correção monetária e juros, especialmente no que concerne à incidência da Taxa SELIC e à aplicação da Resolução CNJ nº 303/2019.
+
+II. Questão em Discussão
+
+2. As questões em discussão consistem em: (i) saber se o ajuizamento de ação rescisória, visando desconstituir o título executivo judicial formado em ação coletiva transitada em julgado, configura hipótese de prejudicialidade externa apta a suspender o cumprimento de sentença; (ii) verificar se o título judicial coletivo é inexigível em razão de suposta incompatibilidade com o entendimento vinculante sedimentado no Tema 864 do STF e com o art. 169, § 1º, I, da Constituição Federal; e (iii) analisar se há excesso de execução no cumprimento de sentença, especialmente quanto à aplicação da Taxa SELIC para correção do débito a partir da Emenda Constitucional nº 113/2021 e à observância dos critérios estabelecidos na Resolução CNJ nº 303/2019.
+
+III. Razões de Decidir
+
+3. A despeito do argumento de existência de prejudicialidade externa derivada do ajuizamento de ação rescisória que visa desconstituir o título formado em ação coletiva, verifica-se que em razão do pedido de tutela de urgência para suspender a eficácia do acórdão rescindendo ter sido indeferido, não há razões plausíveis para suspenção do processo de origem.
+
+4. O entendimento do STF no RE 905.357/RR (Tema 864) não se aplica ao caso, pois trata de revisão anual da remuneração dos servidores públicos, enquanto a ação coletiva versa sobre o pagamento escalonado de reajustes salariais da Carreira Pública de Assistência Social do Distrito Federal.
+
+5. A correção monetária pelo IPCA-E e juros de mora são aplicáveis até a vigência da EC nº 113/2021, quando houve a substituição dos índices pela taxa SELIC, conforme art. 3º da EC nº 113/2021, devendo esta incidir de forma simples sobre o débito consolidado até novembro/2021, conforme art. 22, §1º, da Resolução CNJ nº 303/2019, reputada constitucional em razão da autonomia do CNJ para garantir a prestação jurisdicional adequada, não havendo se falar, ademais, em bis in idem ou anatocismo.
+
+IV. Dispositivo
+
+6. Recurso conhecido e desprovido.
+
+Legislação relevante citada: CPC, arts. 313, V, ‘a’, 535, §§ 5º e 7º, 966, 969; CF/1988, art. 169, § 1º, I, art. 103-B; Lei Complementar nº 101/2000, art. 21, I; Lei Distrital nº 5.184/2013, arts. 17, 18, 19, 20; Lei nº 9.494/1997; Lei nº 11.960/2009; Emenda Constitucional nº 62/2009; Emenda Constitucional nº 113/2021, art. 3º; Decreto nº 22.626/33, art. 4º; Resolução CNJ nº 303/2019, art. 22, § 1º (redação dada pela Resolução nº 482/2022 e Resolução nº 448/2022).
+
+Jurisprudência relevante citada: STF, RE nº 905.357/RR (Tema 864); STF, RE nº 870.947/SE; STF, Questão de Ordem nas ADI nº 4357 e 4425; STF, ADI nº 7.391; STF, ADI 7047; STF, ARE 1492459; STF, ARE 1486732; STJ, REsp nº 1495144/RS (Tema 905); STJ, REsp nº 1492221/PR (Tema 905); STJ, REsp nº 1495146/MG (Tema 905); Súmula nº 121/STF; TJDFT, ADI nº 2015.00.2.005517-6; TJDFT, Acórdão nº 1316826, (0702195-95.2017.8.07.0018); TJDFT, Acórdão nº 1948982 (0737037-14.2024.8.07.0000), Acórdão nº 1948564 (0740670-33.2024.8.07.0000); TJDFT, Acórdão nº 1799197 (07370227920238070000); TJDFT, Acórdão nº 1864044 (07059417820248070000); TJDFT, Acórdão nº 1866550 (07115521220248070000); TJDFT, Acórdão nº 1883015 (07098511620248070000).
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALFEU MACHADO - Relator, LEONARDO ROSCOE BESSA - 1º Vogal e ARQUIBALDO CARNEIRO - 2º Vogal, sob a Presidência do Senhor Desembargador ARQUIBALDO CARNEIRO, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Maio de 2025
+
+Desembargador ALFEU MACHADORelator
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento com pedido de efeito suspensivo interposto pelo DISTRITO FEDERAL contra decisão proferida pelo Juízo da 2ª Vara da Fazenda Pública do Distrito Federal nos autos do cumprimento de sentença coletiva movido por EVANILDO SALES SANTOS, pela qual rejeitou a impugnação apresentada pelo Distrito Federal, que busca a suspensão do cumprimento de sentença até o julgamento de ação rescisória, requer a extinção da execução por inexigibilidade do título executivo, além de sustentar tese alternativa de excesso de execução.
+
+Em suas razões recursais, alega que a execução originária está fundada na sentença coletiva proferida nos autos do processo 0702195-95.2017.8.07.0018, onde foi reconhecido aos servidores vinculados ao Sindicato dos Servidores da Assistência Social e Cultural do Governo do Distrito Federal o direito de implementação da última parcela de recomposição salarial prevista na Lei Distrital nº 5.184/2013, além da indenização pelos valores suprimidos da folha serial ao longo do tempo.
+
+O Distrito Federal requer, inicialmente, a suspensão do cumprimento de sentença por prejudicialidade externa, com fulcro no art. 313, V, ‘a’, do CPC, até o julgamento da Ação Rescisória nº 0723087-35.2024.8.07.0000, ajuizada com objetivo de rescindir a sentença coletiva em execução.
+
+Tece extenso arrazoado jurídico a respeito da causa de pedir e do pedido deduzido na ação rescisória, defendendo, em suma, que a sentença incorre em violação literal às disposições contidas no art. 169, § 1º, I, da CF, e no art. 21, I, da Lei Complementar nº 101/2000, argumentando que o julgado e a Lei Distrital nº 5.184/2013 impõem aumento de despesas com pessoal sem correspondente previsão na Lei Orçamentária.
+
+Reitera a argumentação sustentada na ação rescisória também para defender a inexigibilidade do título judicial coletivo, com amparo no art. 535, §§ 5º e 7º, do CPC, argumentando que a procedência da ação movida pelo Sindicato dos Servidores da Assistência Social e Cultural do Governo do Distrito Federal resulta em coisa julgada inconstitucional, por implicar na instituição de recomposição salarial prevista na Lei Distrital nº 5.184/2013, sem dotação orçamentária correspondente.
+
+Sobre o tema, defende que: “Na correta interpretação da Constituição Federal conferida pelo STF no julgamento do RE n. 905.357/RR, foi prestigiado o mandamento constitucional que visa à manutenção do equilíbrio fiscal dos entes públicos, afastando a validade de reajustes (em geral) concedidos a servidores públicos sem a integral observância dos requisitos constitucionais (artigo 169, § 1º, da CF) e legais (artigos 16, 17 e 21 da LRF), consubstanciados na existência dos dois requisitos cumulativos constitucionais e legais, quais sejam, de existência de prévia dotação na Lei Orçamentária Anual e também na Lei de Diretrizes Orçamentárias”.
+
+Acrescenta que “...satisfazendo o requisito do § 7º do artigo 535 do CPC, a decisão do Supremo Tribunal Federal proferida no RE n. 905.357/RR transitou em julgado em 18/02/2020.
+
+Portanto, em data anterior à prolação do acórdão ora executado (10/02/21) e ao seu trânsito em julgado (11/08/23)”, e que “...ao afastar a incidência da tese firmada no Tema 864 por se tratar de reajuste específico de Categoria e por reconhecer o direito ao reajuste de forma automática no exercício seguinte (sem o cumprimento dos dois requisitos cumulativos indicados no referido Tema), estamos diante de notória interpretação tida pelo Supremo Tribunal Federal como incompatível com a Constituição Federal (artigo 169, § 1º, da CF), com a Tese firmada no Tema 864 e também com a ratio decidendi do respectivo acórdão (RE n. 905.357/RR)”.
+
+Tece extensa argumentação jurídica para sustentar violação à Lei de Responsabilidade Fiscal, reiterando a alegação de falta de previsão na Lei Orçamentária, a despeito da existência de previsão de pagamento na Lei de Diretrizes Orçamentárias, e conclui que a sentença em execução é incompatível com o art. 169, § 1º, da CF e com a tese firmada no Tema de Repercussão Geral nº 864, de acordo com o entendimento firmado no julgamento do RE n. 905.357/RR, destacando que o referido precedente qualificado foi proferido antes do trânsito em julgado do título judicial coletivo.
+
+Alternativamente, defende haver excesso de execução no cumprimento de sentença originário, argumentando que deve incidir a Taxa SELIC para correção do débito em execução a partir de 08 de dezembro de 2021, sem cumulação com juros mora, em razão do advento da Emenda Constitucional nº 113/2021, argumentando que a cumulação indevida do encargo com juros de mora acarreta anatocismo, violando o art. 4° do Decreto 22.626/33 e a Súmula 121 do STF.
+
+Defende que devem ser excluídos os juros incidentes no período de aplicação no IPCA-E, pois, ao considerar o montante consolidado para fins de incidência da SELIC, a execução acaba incorrendo em anatocismo, com a incidência de juros sobre juros.
+
+Alega que a rejeição da impugnação ao cumprimento de sentença não poderia estar amparada na resolução nº. 303 do Conselho Nacional de Justiça, ato normativo que teria sido utilizado como fundamento para aplicar encargos moratórios de modo diverso do estabelecido na legislação em vigor.
+
+Defende a inconstitucionalidade do art. 22, § 1º, da Resolução CNJ nº 303/2019, por violação aos princípios constitucionais da separação dos poderes, da isonomia, e do planejamento (ou programação) na ordenação das despesas públicas, violando os arts. 5º, caput, 164-A e 167, I, da Constituição Federal.
+
+Busca, em sede de liminar, a suspensão dos efeitos da decisão agravada, com a suspensão da execução originária até o julgamento do recurso ou da Ação Rescisória nº 0723087-35.2024.8.07.0000.
+
+No mérito, requer a reforma da decisão agravada, com o acolhimento da impugnação ao cumprimento de sentença.
+
+Recurso dispensado de preparo por isenção legal.
+
+O pedido liminar foi indeferido pela decisão de ID 68338519.
+
+Apresentadas contrarrazões (ID 68925687), a parte agravada pugna pelo desprovimento do recurso.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALFEU MACHADO - RelatorPresentes os pressupostos de admissibilidade, conheço do recurso manejado; é tempestivo, adequado à espécie de decisão e há dispensa de recolhimento de preparo.
+
+Conforme relatado, trata-se de agravo de instrumento com pedido de efeito suspensivo interposto pelo DISTRITO FEDERAL contra decisão proferida pelo Juízo da 2ª Vara da Fazenda Pública do Distrito Federal nos autos do cumprimento de sentença coletiva movido por EVANILDO SALES SANTOS, pela qual rejeitou a impugnação apresentada pelo Distrito Federal, que busca a suspensão do cumprimento de sentença até o julgamento de ação rescisória, requer a extinção da execução por inexigibilidade do título executivo, além de sustentar tese alternativa de excesso de execução.
+
+Em suas razões recursais, alega que a execução originária está fundada na sentença coletiva proferida nos autos do processo 0702195-95.2017.8.07.0018, onde foi reconhecido aos servidores vinculados ao Sindicato dos Servidores da Assistência Social e Cultural do Governo do Distrito Federal o direito de implementação da última parcela de recomposição salarial prevista na Lei Distrital nº 5.184/2013, além da indenização pelos valores suprimidos da folha serial ao longo do tempo.
+
+O Distrito Federal requer, inicialmente, a suspensão do cumprimento de sentença por prejudicialidade externa, com fulcro no art. 313, V, ‘a’, do CPC, até o julgamento da Ação Rescisória nº 0723087-35.2024.8.07.0000, ajuizada com objetivo de rescindir a sentença coletiva em execução.
+
+Tece extenso arrazoado jurídico a respeito da causa de pedir e do pedido deduzido na ação rescisória, defendendo, em suma, que a sentença incorre em violação literal às disposições contidas no art. 169, § 1º, I, da CF, e no art. 21, I, da Lei Complementar nº 101/2000, argumentando que o julgado e a Lei Distrital nº 5.184/2013 impõem aumento de despesas com pessoal sem correspondente previsão na Lei Orçamentária.
+
+Reitera a argumentação sustentada na ação rescisória também para defender a inexigibilidade do título judicial coletivo, com amparo no art. 535, §§ 5º e 7º, do CPC, argumentando que a procedência da ação movida pelo Sindicato dos Servidores da Assistência Social e Cultural do Governo do Distrito Federal resulta em coisa julgada inconstitucional, por implicar na instituição de recomposição salarial prevista na Lei Distrital nº 5.184/2013, sem dotação orçamentária correspondente.
+
+Sobre o tema, defende que: “Na correta interpretação da Constituição Federal conferida pelo STF no julgamento do RE n. 905.357/RR, foi prestigiado o mandamento constitucional que visa à manutenção do equilíbrio fiscal dos entes públicos, afastando a validade de reajustes (em geral) concedidos a servidores públicos sem a integral observância dos requisitos constitucionais (artigo 169, § 1º, da CF) e legais (artigos 16, 17 e 21 da LRF), consubstanciados na existência dos dois requisitos cumulativos constitucionais e legais, quais sejam, de existência de prévia dotação na Lei Orçamentária Anual e também na Lei de Diretrizes Orçamentárias”.
+
+Acrescenta que “...satisfazendo o requisito do § 7º do artigo 535 do CPC, a decisão do Supremo Tribunal Federal proferida no RE n. 905.357/RR transitou em julgado em 18/02/2020.
+
+Portanto, em data anterior à prolação do acórdão ora executado (10/02/21) e ao seu trânsito em julgado (11/08/23)”, e que “...ao afastar a incidência da tese firmada no Tema 864 por se tratar de reajuste específico de Categoria e por reconhecer o direito ao reajuste de forma automática no exercício seguinte (sem o cumprimento dos dois requisitos cumulativos indicados no referido Tema), estamos diante de notória interpretação tida pelo Supremo Tribunal Federal como incompatível com a Constituição Federal (artigo 169, § 1º, da CF), com a Tese firmada no Tema 864 e também com a ratio decidendi do respectivo acórdão (RE n. 905.357/RR)”.
+
+Tece extensa argumentação jurídica para sustentar violação à Lei de Responsabilidade Fiscal, reiterando a alegação de falta de previsão na Lei Orçamentária, a despeito da existência de previsão de pagamento na Lei de Diretrizes Orçamentárias, e conclui que a sentença em execução é incompatível com o art. 169, § 1º, da CF e com a tese firmada no Tema de Repercussão Geral nº 864, de acordo com o entendimento firmado no julgamento do RE n. 905.357/RR, destacando que o referido precedente qualificado foi proferido antes do trânsito em julgado do título judicial coletivo.
+
+Alternativamente, defende haver excesso de execução no cumprimento de sentença originário, argumentando que deve incidir a Taxa SELIC para correção do débito em execução a partir de 08 de dezembro de 2021, sem cumulação com juros mora, em razão do advento da Emenda Constitucional nº 113/2021, argumentando que a cumulação indevida do encargo com juros de mora acarreta anatocismo, violando o art. 4° do Decreto 22.626/33 e a Súmula 121 do STF.
+
+Defende que devem ser excluídos os juros incidentes no período de aplicação no IPCA-E, pois, ao considerar o montante consolidado para fins de incidência da SELIC, a execução acaba incorrendo em anatocismo, com a incidência de juros sobre juros.
+
+Alega que a rejeição da impugnação ao cumprimento de sentença não poderia estar amparada na resolução nº. 303 do Conselho Nacional de Justiça, ato normativo que teria sido utilizado como fundamento para aplicar encargos moratórios de modo diverso do estabelecido na legislação em vigor.
+
+Defende a inconstitucionalidade do art. 22, § 1º, da Resolução CNJ nº 303/2019, por violação aos princípios constitucionais da separação dos poderes, da isonomia, e do planejamento (ou programação) na ordenação das despesas públicas, violando os arts. 5º, caput, 164-A e 167, I, da Constituição Federal.
+
+Busca, a determinação de suspensão da execução originária até o julgamento do recurso ou da Ação Rescisória nº 0723087-35.2024.8.07.0000.
+
+Ausentes prejudiciais ou preliminares, passo à análise do mérito recursal.
+
+A) Do histórico da ação coletiva nº 0702195-95.2017.8.07.0018.
+
+Antes de mais nada, imperioso rememorar que o SINDICATO DOS SERVIDORES E EMPREGADOS DA ASSISTENCIA SOCIAL E CULTURAL DO GOVERNO DO DISTRITO FEDERAL – SINDSASC/DF ajuizou a ação coletiva nº 0702195-95.2017.8.07.0018 em desfavor do DISTRITO FEDERAL, na qual pleiteou “a concessão da Tutela Antecipada em Caráter Antecedente para determinar que o Distrito Federal proceda ao imediato reajuste dos vencimentos conforme valores previstos nas Tabelas de Vencimentos dos Anexos da lei 5.184/2013, conforme art. 18, a partir de 1º de novembro de 2015, até o deslinde da presente demanda, com a decisão definitiva, sob pena de multa a ser arbitrada pelo Juízo”, o que pretendia ver confirmado no mérito.
+
+Observados os princípios do devido processo legal, do contraditório e da ampla defesa, foi prolatada sentença naquele feito coletivo cujo dispositivo restou assim redigido:
+
+“Diante do exposto, JULGO PROCEDENTE EM PARTE o pedido para condenar o DISTRITO FEDERAL a: (a) implementar na remuneração dos substituídos do SINDSASC/DF o reajuste previsto na Lei Distrital 5.184/2013, inclusive os reflexos sobre as demais parcelas calculadas sobre o vencimento básico, a partir da intimação desta sentença; e (b) pagar os valores correspondentes às diferenças entre o valor do vencimento estabelecido em lei e o que foi efetivamente pago aos substituídos, compreendidas entre 1/11/2015 e a data em que for implementado o reajuste nos termos do item “a”.
+
+Os valores definidos no item “b” supra ficarão sujeitos a correção monetária, que incidirá sobre o débito desde a data do vencimento (data em que efetuado o pagamento a menor) pelo índice legal, observada a Lei 9.494/1997 (com as alterações da Lei 11960/2009), aplicados os critérios definidos pelo c. STF no julgamento de Questão de Ordem nas ADI 4357 e 4425, assim resumidos: fica mantida a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), nos termos da Emenda Constitucional nº 62/2009, até 25.03.2015, data após a qual (i) os créditos em precatórios deverão ser corrigidos pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E) e (ii) os precatórios tributários deverão observar os mesmos critérios pelos quais a Fazenda Pública corrige seus créditos tributários.
+
+Além disso, deverão ser pagos também juros de mora, pelo índice legal, a partir da citação ocorrida neste processo.
+
+Sem custas para o DISTRITO FEDERAL, por ser isento.
+
+Em relação aos honorários do advogado do autor, por se tratar de sentença ilíquida, cujo valor será definido apenas em fase de liquidação, após definido o montante devido nos termos do item “b” supra, sua fixação será postergada para quando vier a ser liquidado o julgado, nos termos do art. 85, § 4º, II, do NCPC.”
+
+As partes interpuseram apelação, tendo sido negado provimento ao recurso do ente público e dado provimento ao recurso do sindicato, consoante dispositivo do acórdão abaixo transcrito:
+
+“Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso do réu e, por sua vez, CONHEÇO e DOU PROVIMENTO ao recurso do autor, para reformar a sentença somente no que tange à incidência dos juros de mora e da correção monetária estipulados, para estabelecer que a condenação imposta à Fazenda Pública incidam os juros de mora, a contar da citação, pelo índice oficial da caderneta de poupança (artigo 1º-F, da Lei n.º 9.494/97, com a redação dada pela Lei n.º 11.960/09) e a correção monetária pelo IPCA-E desde a data em que cada parcela seria devida.”
+
+Apesar de providos os embargos de declaração interpostos na apelação no processo nº 0702195-95.2017.8.07.0018, apenas houve correção de erro material de modo a substituir os termos “Carreira de Magistério Público do Distrito Federal” e “Lei n.º 5.105/2013” pelos termos “Carreira Pública de Assistência Social do Distrito Federal” e “Lei n.º 5.184/2013”, não acarretando qualquer modificação em relação às balizas constantes do julgado.
+
+Interpostos outros recursos, não houve qualquer alteração do decisum proferido no processo coletivo, tendo seu trânsito em julgado ocorrido em 11/8/2023.
+
+Evanildo Sales Santos propôs o cumprimento individual da sentença coletiva proferida nos autos nº 0702195-95.2017.8.07.0018.
+
+B) Da tese de existência de prejudicialidade externa.
+
+O agravante asseverou a existência de prejudicialidade externa em razão do ajuizamento da ação rescisória nº 0723087-35.2024.8.07.0000, que tem por finalidade a desconstituição do título formado na ação coletiva nº 0702195-95.2017.8.07.0018, objeto do presente cumprimento de sentença, e a necessidade de suspensão do feito de origem até o julgamento definitivo daquela rescisória, à luz do art. 313, V, alínea “a”, do CPC.
+
+Em que pese o argumento apresentado, sem razão.
+
+A prejudicialidade externa ocorre quando o julgamento de mérito depender da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo em curso, nos termos do art. 313, V, ‘a’, do CPC:
+
+Art. 313. Suspende-se o processo: (...)
+
+V - quando a sentença de mérito:
+
+a) depender do julgamento de outra causa ou da declaração de existência ou de inexistência de relação jurídica que constitua o objeto principal de outro processo pendente;
+
+Na hipótese em apreço, já existe julgamento de mérito no processo de origem, estando a sentença coletiva transitada em julgado, e não se constata a pendência da declaração de existência ou inexistência de relação jurídica em outro processo, estando o pedido fundado na alegação de ajuizamento de ação rescisória, onde o Distrito Federal pretende discutir o próprio título judicial em execução.
+
+Compulsados os autos da ação rescisória, constatei que esta não foi conhecida, pois não enquadrada nas hipóteses de cabimento prescritas no art. 966 do CPC, nos termos da ementa abaixo transcrita:
+
+AÇÃO RESCISÓRIA E AGRAVO INTERNO. JULGAMENTO SIMULTÂNEO. AGRAVO INTERNO PREJUDICADO. RESCISÓRIA APTA PARA JULGAMENTO. VIOLAÇÃO À NORMA JURÍDICA. ERRO DE FATO. VÍCIOS NÃO EVIDENCIADOS. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DAS HIPÓTESES DE CABIMENTO. PETIÇÃO INICIAL INDEFERIDA. AGRAVO INTERNO PREJUDICADO. AÇÃO RESCISÓRIA NÃO CONHECIDA.
+
+1. O acórdão que já julga a ação rescisória tem uma cognição mais ampla do que o simples exame do agravo interno contra decisão que indeferiu o pedido liminar, de modo que se julga prejudicado o agravo interno, mormente se a ação rescisória está apta para julgamento.
+
+2. A ação rescisória não é recurso e não se presta a reavaliação do que já transitou em julgado se não demonstrada uma das hipóteses legais de cabimento. Ademais, esse meio impugnativo também não visa sequer à correção de suposta injustiça.
+
+3. As hipóteses de cabimento da ação rescisória são taxativas e, caso não evidenciadas, levam à não admissão do meio impugnativo, de modo que não é terceira via recursal e nem se presta a reexaminar o que já foi devidamente julgado.
+
+4. Não é cabível ação rescisória quando o julgado combatido avalia as normas aplicáveis à espécie, o que pode ser percebido, inclusive, com base na respectiva ementa do acórdão transitado em julgado. Assim, não se fala em violação à norma jurídica capaz de resultar no conhecimento do pedido.
+
+5. Para a caracterização de erro de fato é necessário que não tenha havido controvérsia sobre o fato nos autos, ou seja, o fato que gerou o erro não foi objeto de debate entre as partes no processo original; ou que o juiz tenha decidido com base em um fato inexistente ou considerado inexistente um fato que realmente ocorreu. Portanto, o erro se caracteriza quando o juiz forma sua convicção baseando-se em uma premissa fática errada, ou ignora um fato que, na verdade, estava comprovado nos autos.
+
+6. A falta de cabimento do meio impugnativo leva à não admissão da ação, indeferindo-se a petição inicial.
+
+7. AGRAVO INTERNO PREJUDICADO. AÇÃO RESCISÓRIA NÃO CONHECIDA.
+
+Ainda que o Distrito Federal tenha interposto embargos de declaração com pedido de efeito suspensivo na ação rescisória em menção, o Desembargador Relator indeferiu a concessão do efeito suspensivo vindicado.
+
+Assim, pelo quadro fático-processual apresentado, o pedido de suspensão do presente feito pautado na existência de prejudicialidade externa não merece amparo.
+
+Ainda que assim não fosse, não se pode olvidar que, nos termos do art. 969, do CPC, “a propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória” e, compulsados os autos da ação rescisória nº 0723087-35.2024.8.07.0000, não se verifica qualquer medida tendente a suspender a eficácia da decisão proferida na ação coletiva nº 0702195-95.2017.8.07.0018.
+
+Na espécie, considerando que o cumprimento de sentença proposto pela agravada está fundamentado em lei e em título judicial transitado em julgado, que lhe confere direito à percepção de valor que configura verba alimentar, e que a ação rescisória nº 0723087-35.2024.8.07.0000 não foi conhecida, não vislumbro motivo para sobrestar o feito, conforme pretensão do recorrente.
+
+Veja-se que, mesmo antes da decisão que não conheceu da ação rescisória em comento, este TJDFT já estava se manifestando no sentido de não suspender os cumprimentos de sentença lastreados no título constituído na ação coletiva nº 0702195-95.2017.8.07.0018, conforme julgados abaixo colacionados:
+
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO RESCISÓRIA 0723087-35.2024.8.07.0000. CONTINUIDADE DO CUMPRIMENTO DE SENTENÇA. RECURSO CONHECIDO E PROVIDO.
+
+1. No caso dos autos, o agravante alega inexistirem motivos para sobrestar o cumprimento de sentença que condicionou o levantamento de quaisquer valores pelos exequentes e o pagamento de eventual precatório ao prévio trânsito em julgado da Ação Rescisória nº 0723087-35.2024.8.07.0000, devendo o cumprimento prosseguir normalmente.
+
+2. Nos termos do art. 969, do CPC: A propositura da ação rescisória não impede o cumprimento da decisão rescindenda, ressalvada a concessão de tutela provisória.
+
+3. Como bem constou na decisão que não concedeu a liminar na Ação Rescisória os interessados objetivam o recebimento de verba alimentar, aprovada em lei e com direito assegurado em decisão de mérito transitada em julgado não havendo de se falar em suspensão das liquidações/execuções.
+
+4. Recurso conhecido e provido.
+
+(Acórdão 1948982, 0737037-14.2024.8.07.0000, Relator(a): CARLOS PIRES SOARES NETO, 1ª TURMA CÍVEL, data de julgamento: 04/12/2024, publicado no DJe: 11/12/2024.)
+
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AÇÃO COLETIVA. AÇÃO RESCISÓRIA. CONDICIONAMENTO DO LEVANTAMENTO DE VALORES AO TRÂNSITO EM JULGADO. USURPAÇÃO DE COMPETÊNCIA DO TRIBUNAL. INADMISSIBILIDADE. PROVIMENTO DO RECURSO.
+
+1. O ajuizamento de ação rescisória não impede o cumprimento do título executivo judicial, salvo a concessão de tutela provisória pelo relator competente, conforme preceitua o art. 969 do CPC.
+
+2. O juízo de primeiro grau, ao condicionar o levantamento de valores ao trânsito em julgado da ação rescisória, usurpou competência conferida ao Tribunal de Justiça, uma vez que a tutela provisória foi indeferida na ação desconstitutiva.
+
+3. Recurso conhecido e provido para permitir o levantamento dos valores no cumprimento de sentença, independentemente do trânsito em julgado da ação rescisória.
+
+(Acórdão 1948564, 0740670-33.2024.8.07.0000, Relator(a): ARQUIBALDO CARNEIRO PORTELA, 6ª TURMA CÍVEL, data de julgamento: 21/11/2024, publicado no DJe: 11/12/2024.)
+
+Nessa senda, o pedido de suspensão pautado em suposta existência de prejudicialidade externa não merece amparo.
+
+C) Da tese de inexigibilidade da obrigação.
+
+Conquanto o agravante tenha alegado a inexigibilidade do título formado nos autos da ação coletiva nº 0702195-95.2017.8.07.0018, por descumprimento do entendimento vinculante sedimentado no Tema 864 do STF, referida tese também carece de amparo.
+
+O Distrito Federal interpôs apelação naquele feito coletivo, na qual postulou a sua suspensão em razão da determinação de sobrestamento contida no RE 905.357/RR (Tema 864 do STF), com repercussão geral reconhecida, que tinha por objeto a análise da existência, ou não, de direito subjetivo à revisão geral da remuneração dos servidores públicos por índice previsto apenas na Lei de Diretrizes Orçamentárias, sem correspondente dotação orçamentária na Lei Orçamentária do respectivo ano.
+
+Referido pedido restou acolhido e, em sede de apelação naquele feito coletivo, considerando que o RE 905.357 (Tema 864) já havia sido julgado, restou decidido que, além de o Conselho Especial deste TJDFT ter firmado entendimento na ADI nº 2015.00.2.005517-6 no sentido de que as leis que estabeleceram vantagens remuneratórias a servidores não poderiam ser declaradas inconstitucionais tão somente em razão da alegada ausência de dotação orçamentária e que a falta de dotação orçamentária somente ensejaria a suspensão da eficácia da lei para o exercício em que ela é promulgada, a tese de repercussão geral fixada no RE 905.357/RR (Tema 864), pelo STF, não se aplicaria àquele caso, pois o RE nº 905.357/RR tratou da revisão anual da remuneração dos servidores públicos e a ação coletiva nº 0702195-95.2017.8.07.0018 tratava do descumprimento das determinações legais relativas ao pagamento de reajustes salariais da Carreira Pública de Assistência Social do Distrito Federal, previstos na Lei nº 5.184/2013.
+
+Também restou assente naquele julgado que o Distrito Federal não havia comprovado que a dotação orçamentária anual de 2015 foi inferior à previsão das despesas relacionadas aos reajustes previstos na lei de 2013, e que a mera alegação de que não poderia implementar os reajustes, por falta de orçamento para tanto, não seria suficiente para seu intento.
+
+Nesta oportunidade, transcrevo trecho do acórdão 1316826, proferido em sede de apelação naquele feito coletivo:
+
+“Do mérito
+
+O Distrito Federal sustenta a legitimidade da suspensão do aumento da remuneração da categoria, pois o reajuste remuneratório foi convertido em lei sem a adoção das cautelas exigidas pelos artigos 169 da Constituição Federal e 157 da Lei Orgânica local, bem como pela Lei de Responsabilidade Fiscal e Leis de Diretrizes Orçamentárias de 2014 e 2015. Destaca que os gastos com pessoal são classificados como despesa obrigatória de caráter continuado e a LRF exige maior rigor para sua aprovação, conforme se vê nos artigos 15, 16, 17 e 21.
+
+Todavia, verifico que razão não lhe assiste.
+
+A Lei nº 5.184, de 23 de setembro de 2013, que disciplina sobre “a carreira pública de Assistência Social do Distrito Federal e dá outras providências”, no que interessa ao caso, prevê:
+
+Art. 17. A tabela de escalonamento vertical da Carreira Pública de Assistência Social do Distrito Federal fica reestruturada, a partir de 1º de novembro de 2013, na forma do Anexo I desta Lei.
+
+Art. 18. Os valores dos vencimentos básicos da carreira de que trata esta Lei ficam estabelecidos na forma dos Anexos II, III e IV, observadas as respectivas datas de vigência.
+
+Art. 19. A Gratificação de Desempenho Social – GDS, instituída pela Lei nº 3.354, de 9 de junho de 2004, com alterações posteriores, calculada sobre o vencimento básico correspondente ao padrão em que o servidor está posicionado, tem seu percentual alterado na forma que segue:
+
+I – quarenta por cento a partir de 1º de novembro de 2013;
+
+II – trinta por cento a partir de 1º de novembro de 2014;
+
+III – vinte por cento a partir de 1º novembro de 2015.
+
+Parágrafo único. A gratificação de que trata este artigo é exclusiva dos servidores da Carreira Pública de Assistência Social.
+
+Art. 20. A Gratificação por Atividade em Serviço Social – GASS, criada pela Lei nº 2.743, de 5 de julho de 2001, com alterações posteriores, exclusiva dos servidores da Carreira Pública de Assistência Social, tem sua denominação alterada para Gratificação em Políticas Sociais – GPS, é calculada sobre o vencimento básico referente à classe e ao padrão em que o servidor está posicionado e é concedida com base na execução das atividades, na forma descrita abaixo, observados os percentuais e as datas de vigência.
+
+Na hipótese dos autos, o autor ajuizou esta demanda objetivando a condenação do réu ao pagamento das diferenças salariais devidas em virtude do reajuste do vencimento básico concedido pela Lei n. 5.184/2013, de acordo com os anexos II, III e IV, do artigo 18 acima transcrito.
+
+A tabela de vencimentos dos cargos de assistência social, previu o cronograma de implementação dos reajustes, a serem realizados a partir de 01/11/2013 até 01/11/2015. Na inicial, o autor aduz não ter sido realizado o pagamento da última parcela referente ao reajuste escalonado concedido à categoria profissional de assistência social.
+
+Como se percebe, é incontroverso o fato de que o aumento previsto para o ano de 2015 não foi implementado, verificando-se pagamento a menor aos servidores.
+
+Da alegada violação da LRF e da ausência de dotação orçamentária
+
+A Constituição Federal prevê que “a remuneração dos servidores públicos e o subsídio de que trata o § 4º do art. 39 somente poderão ser fixados ou alterados por lei específica, observada a iniciativa privativa em cada caso, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices” (artigo 37, X).
+
+Depreende-se, pois, que a norma legal distrital em tela, a qual assegura o direito perseguido pelo autor, está de acordo com o fundamento constitucional que obriga a previsão legal para a fixação ou alteração remuneratória dos servidores públicos.
+
+Com efeito, importante destacar que o Conselho Especial deste Tribunal de Justiça, no julgamento da Ação Direta de Inconstitucionalidade nº 2015.00.2.005517-6, que dispunha sobre a constitucionalidade de leis que estabeleceram vantagens remuneratórias a servidores, entendeu que tais diplomas normativos não poderiam ser declarados inconstitucionais tão somente em virtude da alegada ausência de dotação orçamentária. Confira-se a ementa do julgado:
+
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE - LEIS DISTRITAIS QUE ESTABELECEM VANTAGENS REMUNERATÓRIAS E O PARCELAMENTO (ESCALONAMENTO) ESTABELECIDO PARA SUA CONCESSÃO - NÃO OBSERVÂNCIA DA EXIGÊNCIA DE PRÉVIA DOTAÇÃO ORÇAMENTÁRIA (ART. 157 DA LEI ORGÂNICA DO DISTRITO FEDERAL) - ARGUMENTO QUE NÃO AUTORIZA A DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI, IMPEDINDO TÃO SOMENTE A SUA APLICAÇÃO NO MESMO EXERCÍCIO FINANCEIRO - VIOLAÇÃO AO PRINCÍPIO DE EFICIÊNCIA E DO INTERESSE PÚBLICO DA ADMINISTRAÇÃO (ART. 19, "CAPUT", DA LEI ORGÂNICA DO DISTRITO FEDERAL) - CONTROVÉRSIA DE FATO PARA CUJO DESLINDE IGUALMENTE É INADEQUADA A VIA DO CONTROLE ABSTRATO DE CONSTITUCIONALIDADE - AÇÃO DIRETA DE INCONSTITUCIONALIDADE NÃO CONHECIDA. 1. O art. 113 do Regimento Interno desta Corte de Justiça permite que o relator, em face da relevância da matéria e de seu especial significado para a ordem social e segurança jurídica, após informações e a manifestação do Procurador-Geral do D. F. e do Procurador-Geral de Justiça do Distrito Federal e Territórios, submeta o processo diretamente ao Conselho Especial, que, por sua vez, terá a faculdade de julgar a ação em definitivo. 2. Compete ao TJDFT o julgamento das ações diretas de inconstitucionalidade ajuizadas em face da Lei Orgânica do Distrito Federal (art. 30 da Lei n. 9.868/99 e art. 8º, inc. I, alínea "n", da Lei n. 11.697/08). Precedentes. 3. Revela-se viável cumular argüições de inconstitucionalidade de atos normativos no mesmo processo de Ação Direta de Inconstitucionalidade, quando comum o fundamento jurídico invocado, face à notória economia processual pela nítida identidade das matérias versadas pelas leis impugnadas. 4. A ausência de dotação orçamentária prévia em legislação específica não autoriza a declaração de inconstitucionalidade da lei, impedindo tão somente a sua aplicação naquele exercício financeiro. Além disso, sua verificação em concreto depende da solução de controvérsia de fato sobre a suficiência da dotação orçamentária e da interpretação da LDO. Alegação fundada em elementos que reclamam dilação probatória. Inadequação da via eleita para exame da matéria fática. Precedentes do colendo Supremo Tribunal Federal. 5. Ação Direta de Inconstitucionalidade não conhecida.” (Acórdão n.872384, 20150020055176ADI, Relator: HUMBERTO ULHÔA CONSELHO ESPECIAL, Data de Julgamento: 26/05/2015, Publicado no DJE: 10/06/2015. Pág.: 10)
+
+Conforme entendimento do Supremo Tribunal Federal, albergado pela Corte Especial do TJDFT, consoante julgado acima transcrito, a falta de dotação orçamentária somente enseja a suspensão da eficácia da lei para o exercício em que ela é promulgada.
+
+Por conseguinte, tenho que a suspensão da eficácia da norma em questão, editada em 2013, sob o fundamento de ausência de dotação orçamentária para o exercício de 2015, não se sustenta, porquanto os exercícios financeiros posteriores à publicação da lei são disciplinados por orçamentos próprios, os quais deveriam contemplar os recursos para o gasto previsto na lei já em vigor.
+
+Assim, a impossibilidade de pagamento deve ser efetivamente demonstrada, não sendo suficiente meras ilações relacionadas à crise fiscal.
+
+No mesmo sentido, não há se falar em ofensa à Lei de Responsabilidade Fiscal, visto que o procedimento de aprovação, publicação e promulgação da lei distrital contou com a participação do Distrito Federal, tendo em vista a necessidade de sanção do Chefe do Poder Executivo, além de ter sido o texto legal objeto de discussão e análise técnica perante o Poder Legislativo.
+
+(...)
+
+Por tais razões, está caracterizada a omissão do ente distrital ao deixar de cumprir os reajustes salariais regularmente previstos em lei específica.
+
+Ademais, a tese de repercussão geral fixada no RE 905357, Tema 864, pelo Supremo Tribunal Federal, não se aplica ao caso dos autos. Confira-se:
+
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. PERDA DE OBJETO. PROSSEGUIMENTO DA ANÁLISE DA QUESTÃO COM RELEVÂNCIA AFIRMADA. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. PREVISÃO NA LEI DE DIRETRIZES ORÇAMENTÁRIAS - LDO. AUSÊNCIA DE DOTAÇÃO NA LEI ORÇAMENTÁRIA ANUAL. INVIABILIDADE DE CONCESSÃO DO REAJUSTE. 1. Segundo o § único do art. 998 do Código de Processo Civil de 2015, “a desistência do recurso não impede a análise de questão cuja repercussão geral já tenha sido reconhecida e daquela objeto de julgamento de recursos extraordinários ou especiais repetitivos”. 2. A norma se aplica para a hipótese de perda de objeto superveniente ao reconhecimento da repercussão geral. Precedente: ARE 1054490 QO, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, DJe 09-03-2018. 3. Segundo dispõe o art. 169, § 1º, da Constituição, para a concessão de vantagens ou aumento de remuneração aos agentes públicos, exige-se o preenchimento de dois requisitos cumulativos: (I) dotação na Lei Orçamentária Anual e (II) autorização na Lei de Diretrizes Orçamentárias. 4. Assim sendo, não há direito à revisão geral anual da remuneração dos servidores públicos, quando se encontra prevista unicamente na Lei de Diretrizes Orçamentárias, pois é necessária, também, a dotação na Lei Orçamentária Anual. 5. Homologado o pedido de extinção do processo com resolução de mérito, com base no art. 487, III, c, do Código de Processo Civil de 2015. 6. Proposta a seguinte tese de repercussão geral: A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias.
+
+Ocorre que o Recurso Extraordinário n.º 905.357/RR trata da revisão anual da remuneração dos servidores públicos, e o presente recurso versa sobre o descumprimento das determinações legais relativas ao pagamento de reajustes salariais da Carreira de Magistério Público do Distrito Federal, previstos na Lei n.º 5.105/2013.
+
+(...)
+
+Conforme se verifica no ID 3525007 – página 4, a LDO de 2015, em seu anexo IV (Lei 5.389/14) autorizou as despesas de pessoal que poderiam sofrer acréscimo, conforme o disposto no artigo 169, § 1º, II, da Constituição Federal, e previu sob a rubrica “REMUNERAÇÃO- Melhorias salariais do servidor (Recurso do Tesouro)”, a quantia de R$ 184.925.000,00 (cento e oitenta e quatro milhões, novecentos e vinte e cinco mil reais).
+
+Além disso, o apelado/réu não comprovou que a dotação orçamentária anual de 2015 foi inferior à previsão das despesas relacionadas aos reajustes previstos na lei de 2013, não sendo suficiente a mera alegação de que não pode implementar os reajustes, por falta de orçamento para tanto.
+
+Há que se comprovar, cabalmente, que não há dotação orçamentária para que se possa aferir a violação da Lei de Responsabilidade Fiscal.
+
+Portanto, como o Distrito Federal não logrou êxito em comprovar que, de fato, extrapolou os limites previstos na Lei de Responsabilidade fiscal e diante da comprovação, de previsão da despesa na Lei orçamentária de 2015, os servidores da carreira de assistência social fazem jus ao recebimento do reajuste.
+
+Dessa forma, nesse ponto, deve ser mantida a sentença proferida, uma vez não comprovado que o caso dos autos se amolda ao acórdão vinculante do Supremo Tribunal Federal.”
+
+Conforme externado alhures, apesar de interpostos recursos naquele processo, não houve qualquer alteração do decisum no tocante ao reconhecimento do direito vindicado pelo SINDSASC/DF, mantido, inclusive, o entendimento de que a situação sub judice não se amoldava aos parâmetros fixados no precedente vinculante do RE nº 905.357/RR (Tema 864), uma vez que este tratou da revisão anual da remuneração dos servidores públicos, e o caso apresentado na ação coletiva nº 0702195-95.2017.8.07.0018 versava, exclusivamente, sobre o descumprimento das determinações legais relativas ao pagamento escalonado de reajustes salariais da Carreira Pública de Assistência Social do Distrito Federal, previstos na Lei nº 5.184/2013.
+
+Reitero que o trânsito em julgado do decisum proferido na ação coletiva nº 0702195-95.2017.8.07.0018 se verificou em 11/8/2023.
+
+A corroborar a inaplicabilidade do entendimento firmado pelo STF no RE 905.357 (Tema 864) ao caso apresentado na ação coletiva nº 0702195-95.2017.8.07.0018, aquele Excelso Tribunal, na ADI nº 7.391, ajuizada pelo Governador do Distrito Federal contra o art. 18 c/c os Anexos II, III e IV, da Lei Distrital nº 5.184/2013, consignou que:
+
+“Ademais, o entendimento desse Supremo Tribunal Federal no julgamento de repercussão geral no Recurso Extraordinário n. 605.357, pelo qual foi fixada a tese que determina que a ‘revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias’, foi firmado em sede de controle difuso de constitucionalidade e decorre de caso que tratava de pedido de revisão geral anual pretendida pelo servidor público, quadro diverso do que posto nesta ação”.
+
+Assim, o argumento apresentado neste feito pelo Distrito Federal atinente à necessidade de observância ao entendimento firmado pelo STF no Tema 864 já foi devidamente analisado na ação coletiva em menção e rejeitada a sua aplicação ao caso, motivo pelo qual não deve ser acolhido.
+
+Consequentemente, não há se falar em inexigibilidade da obrigação contida no título judicial constituído na ação coletiva nº 0702195-95.2017.8.07.0018.
+
+D) Do excesso de execução.
+
+Seguindo a orientação emanada pelo STF no RE nº 870.947/SE, publicada no DJe de 20/11/2017, o STJ, quando do julgamento do REsp nº 1495144/RS, do REsp nº 1492221/PR e do REsp nº 1495146/MG (Tema 905), em sede de recursos repetitivos, estabeleceu os parâmetros relacionados aos juros e à correção monetária a serem aplicados em caso de condenação da Fazenda Pública de natureza administrativa relacionada a servidores e empregados públicos. Veja-se:
+
+“(...) 3. Índices aplicáveis a depender da natureza da condenação.
+
+3.1 Condenações judiciais de natureza administrativa em geral. (...)
+
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos. As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E. (...)”
+
+Na espécie, foram observados os referidos encargos de mora, com incidência de correção monetária pelo IPCA-E e juros de mora, para apuração do montante devido até o início da vigência da Emenda Constitucional nº 113/2021, quando o valor total da dívida passou a ser corrigido com a incidência da taxa SELIC, sem acréscimo de juros.
+
+Quanto ao ponto, cumpre destacar que a EC nº 113/2021 impôs uma limitação temporal ao índice de correção monetária que vinha sendo aplicado ao estabelecer em seu art. 3º que, “nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente”.
+
+Nessa senda, considerando que os juros de mora e a correção monetária configuram matéria de ordem pública deve-se reconhecer a aplicação dos juros e do IPCA-E até novembro/2021 (anterior à publicação da referida EC nº 113/2021), sendo que, a partir de dezembro/2021 aplicar-se-á a Taxa SELIC, nos temos estabelecidos no art. 22, §1º, da Resolução nº 303/2019 do Conselho Nacional de Justiça - CNJ, in verbis:
+
+“Art. 22. Na atualização da conta do precatório não tributário os juros de mora devem incidir somente até o mês de novembro de 2021, observado o disposto no § 5º do artigo anterior. (redação dada pela Resolução n. 482, de 19.12.2022)
+
+§ 1º A partir de dezembro de 2021, a compensação da mora dar-se-á da forma discriminada no art. 20 desta Resolução, ocasião em que a taxa referencial do Sistema Especial de Liquidação e de Custódia – Selic incidirá sobre o valor consolidado, correspondente ao crédito principal atualizado monetariamente na forma do art. 22 desta Resolução até novembro de 2021 e aos juros de mora, observado o disposto nos §§ 5º e 6º do artigo anterior. (redação dada pela Resolução n. 482, de 19.12.2022)”
+
+Assim, ao contrário do sustentado no recurso, não se constata a ocorrência de anatocismo ou a incidência de correção monetária em duplicidade, uma vez que não há a aplicação de juros de mora a partir da incidência da taxa SELIC, mas mera substituição do índice de correção monetária em razão de expressa previsão constitucional.
+
+Veja-se, inclusive, que a jurisprudência majoritária deste Tribunal de Justiça tem se posicionado no sentido de que a Taxa SELIC deve incidir de forma simples sobre o débito consolidado até novembro/2021, assim considerado o montante principal atualizado pelos critérios de juros e correção monetária até então aplicáveis, não havendo se falar em bis in idem ou anatocismo nem em violação ao Tema 99/STJ, à ADC nº 58/STF ou à Súmula nº 121/STF, por não se tratar de cumulação, mas, tão somente, de substituição dos índices de correção aplicáveis, de acordo com a previsão contida no art. 3º da EC nº 113/2021, que trata justamente da metodologia de atualização de crédito.
+
+Coadunando com esses argumentos, confira-se a jurisprudência deste Tribunal de Justiça:
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. TAXA SELIC. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO. BIS IN IDEM. INOCORRÊNCIA. DECISÃO MANTIDA. 1. A Emenda Constitucional n. 113/2021 estabeleceu que a taxa SELIC incidirá uma única vez, até o efetivo pagamento do débito existente que tenha a Fazenda Pública como devedora. Ademais, "a Resolução 448/2022 do Conselho Nacional de Justiça, que alterou a Resolução 303/2019, em seu art. 22, ao tratar da atualização do precatório não tributário devido pela Fazenda Pública, regulamenta que, a contar de dezembro de 2021, a taxa SELIC incidirá sobre o valor consolidado, correspondente ao crédito principal atualizado monetariamente até novembro de 2021 e aos juros de mora." (Acórdão 1799197, 07370227920238070000, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 6/12/2023, publicado no PJe: 28/12/2023). 2. No caso, inexiste bis in idem, porquanto a SELIC incidirá de modo simples a partir da consolidação da dívida, tomando por base o valor atualizado da dívida até novembro de 2021, período anterior à alteração constitucional. 3. Recurso conhecido e não provido. (Acórdão 1864044, 07059417820248070000, Relator(a): SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, 6ª Turma Cível, data de julgamento: 15/5/2024, publicado no DJE: 28/5/2024. Pág.: Sem Página Cadastrada.)
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. TAXA SELIC. APLICAÇÃO A PARTIR DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 113/2021. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO DA DÍVIDA. RESOLUÇÃO DO CNJ. DECISÃO MANTIDA. 1. A Emenda Constitucional n. 113/2021, publicada em 09/12/2021, estabeleceu, em seu art. 3º, que nas discussões e nas condenações que envolvam a Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, de remuneração do capital e de compensação da mora, inclusive do precatório, haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente. 1.1. Assim, a partir da entrada em vigor da Emenda (09 de dezembro de 2021), a atualização do débito a ser adimplido pelos entes públicos deverá seguir o regramento da taxa SELIC. 2. A Resolução número 303, de 18 de dezembro de 2019, do Conselho Nacional de Justiça indica a forma de atualização da conta do precatório não tributário, de modo que a taxa SELIC deverá incidir após a consolidação do crédito principal atualizado monetariamente. 3. O valor do débito deve ser corrigido monetariamente e aplicado juros de mora, de acordo com a Sentença até novembro/2021. Em seguida, deve ser aplicado a taxa SELIC sobre o valor consolidado. 4. Recurso conhecido e não provido. (Acórdão 1866550, 07115521220248070000, Relator(a): EUSTÁQUIO DE CASTRO, 8ª Turma Cível, data de julgamento: 21/5/2024, publicado no DJE: 4/6/2024. Pág.: Sem Página Cadastrada.)
+
+Apenas por amor ao debate, ressalto que o STF, na ADI 7047, asseverou que a unificação dos índices de correção em um único fator mostra-se desejável por questões de praticabilidade, reconhecendo a legitimidade da aplicação da SELIC, não havendo, portanto, se falar na inconstitucionalidade do art. 3º da EC nº 113/2021.
+
+Repise-se que, com o advento da referida EC nº 113/2021, o CNJ editou a Resolução nº 448/2022, que alterou a Resolução nº 303/2019, que dispõe sobre a gestão dos precatórios e respectivos procedimentos operacionais no âmbito do Judiciário, de forma a estabelecer que a SELIC incidirá a partir de dezembro/2021 sobre o débito consolidado até novembro/2021, ou seja, sobre o valor principal atualizado monetariamente e acrescido dos juros de mora até então aplicados (art. 22).
+
+Conquanto o agravante tenha defendido a inconstitucionalidade do art. 22 da Resolução nº 303/2019 do CNJ, ao argumento de que houve violação dos limites do Poder Regulamentar conferidos àquele Conselho, do Princípio da Separação de Poderes e do Princípio do Planejamento ou Programação, sua pretensão não merece respaldo.
+
+Isso porque, de fato, até o advento da EC nº 113/2021 já havia um débito consolidado em face do Distrito Federal, e esse débito passou a estar integralmente sujeito à incidência exclusiva da SELIC a partir da alteração do texto constitucional.
+
+Além disso, o CNJ possui autonomia, no exercício do “controle da atuação administrativa e financeira do Poder Judiciário e do cumprimento dos deveres funcionais dos juízes” (art. 103-B da CF), para garantir que a prestação jurisdicional atenda, da melhor forma possível, ao devido processo legal, em todas as suas facetas.
+
+O CNJ tem se empenhado em contribuir para a racionalização das práticas e dos procedimentos referentes à formação e ao pagamento de precatórios, como se pode perceber de diversas Resoluções por ele aprovadas, não havendo se falar em violação aos princípios retrocitados.
+
+Ademais, de acordo com as decisões proferidas pelo STF na Questão de Ordem nas ADI’s no 4357/DF e 4425/DF, aquela Corte Suprema delegou competência ao CNJ para que sejam monitorados e supervisionados os pagamentos dos precatórios sujeitos pelos entes públicos.
+
+Nesse espeque, objetivando adequar a gestão de precatórios às alterações decorrentes da EC nº 113/2021, o Plenário do CNJ aprovou a Resolução nº 448/2022, que alterou a Resolução nº 303/2019, de forma a padronizar a operacionalização dos pagamentos de precatórios e dar segurança jurídica tanto aos tribunais quanto às partes envolvidas na gestão operacional dos precatórios e efetivação dos pagamentos.
+
+Veja-se que o próprio STF aplica o entendimento em questão:
+
+“ARE 1492459
+
+Relator(a): Min. PRESIDENTE
+
+Decisão proferida pelo(a): Min. LUÍS ROBERTO BARROSO
+
+Julgamento: 09/05/2024
+
+Publicação: 13/05/2024
+
+Decisão
+
+previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009) ”. (“ut” trecho da ementa do Acórdão dos Recursos Especiais Repetitivos nºs 1.492/221/PR, 1.495.144/RS e 1.495.146/MG). ATUALIZAÇÃO MONETÁRIA DA DÍVIDA. UTILIZAÇÃO DA TAXA SELIC. CABIMENTO. EC Nº 113/2021. “A partir da entrada em vigor da EC 113, de 08/12/2021, aplica-se apenas a taxa SELIC, sobre o total consolidado, incluindo tanto correção monetária, quanto juros ” (“ut” trecho da ementa do Acórdão da AC nº 70085713105). CUSTAS PROCESSUAIS. ISENÇÃO. TAXA ÚNICA DE SERVIÇOS JUDICIAIS. LEI Nº 14.634/2014. No caso em apreço, aplicável a Lei Estadual nº 14.634/14, que institui a Taxa Única de Serviços Judiciais, cujo fato gerador é a prestação dos serviços de natureza forense e abrange todos os atos processuais. Demanda ajuizada após a entrada em vigor desse dispositivo legal, a impor a isenção das custas processuais, conforme
+
+Outras ocorrências
+
+Decisão (1)”
+
+“ARE 1486732
+
+Relator(a): Min. EDSON FACHIN
+
+Julgamento: 27/04/2024
+
+Publicação: 30/04/2024
+
+Decisão
+
+ementado (eDOC 36, p 4): “AGRAVO INTERNO. PREVIDENCIÁRIO. EXECUÇÃO. EMENDA CONSTITUCIONAL 113/2021. APLICAÇÃO DA TAXA SELIC. INCIDÊNCIA SOBRE OS JUROS E CORREÇÃO MONETÁRIA. A PARTIR DA ENTRADA EM VIGOR DA EC 113, DE 08/12/2021, APLICA-SE APENAS A TAXA SELIC, INDEXADOR ESTE QUE NÃO PODE SER CUMULADO COM QUALQUER OUTRO ÍNDICE, SEJA DE ATUALIZAÇÃO MONETÁRIA, SEJA DE JUROS, TENDO EM VISTA QUE A SELIC JÁ É COMPOSTA POR AMBOS. RECURSO DESPROVIDO.” Os embargos de declaração foram rejeitados (eDOC 56). No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 3º da Emenda Constitucional n.º 113/2021. Nas razões recursais, sustenta-se que (eDOC 65, p. 9-10): “Diante disso, necessário vir observado que o § 1º do art. 22 da Resolução nº. 303/2019, incluído pela Resolução nº. 448/2022, EXPRESSAMENTE ESTABELECE QUE A TAXA SELIC DEVERÁ INCIDIR SOBRE O VALOR CONSOLIDADO DO MONTANTE PRINCIPAL. Destarte, resta notório o fato de que, ao determinar a incidência sobre o valor CONSOLIDADO, obviamente está abarcando o valor principal corrigido e dos juros moratórios, não havendo o que se falar em necessidade de
+
+Outras ocorrências
+
+Decisão (2)”
+
+Logo, não se vislumbra a inconstitucionalidade aventada.
+
+Também não se pode olvidar que a atualização monetária da condenação imposta à Fazenda Pública ocorre em dois momentos distintos: ao final da fase de conhecimento com o trânsito em julgado da decisão condenatória, compreendendo o período de tempo entre o dano efetivo (ou o ajuizamento da demanda) e a imputação de responsabilidade à Administração Pública, sendo que a atualização é estabelecida pelo próprio juízo prolator da decisão condenatória no exercício de atividade jurisdicional; e na fase executiva, quando o valor devido é efetivamente entregue ao credor, compreendendo o lapso temporal entre a inscrição do crédito em precatório e o efetivo pagamento, sendo o seu cálculo realizado no exercício de função administrativa pela Presidência do Tribunal a que vinculado o juízo prolator da decisão condenatória.
+
+Assim, a fim de guardar coerência e uniformidade entre o disposto na EC nº 113/2021 e na Resolução nº 303/2019 do CNJ (alterada pela Resolução nº 448/2022), de forma a assegurar a identidade de critérios utilizados para a aplicação da SELIC em precatórios e nas condenações judiciais da Fazenda Pública, deve-se aplicar a SELIC a partir de dezembro/2021 sobre o valor consolidado da dívida até novembro/2021.
+
+Acrescento que esta Relatoria não desconhece a discussão travada no STF por meio do ajuizamento da ADI nº 7435, que tem por objeto o §1º do art. 22 da Resolução nº 303/2019 do CNJ, com a redação dada pela Resolução 482/2022. No entanto, não houve qualquer decisão daquela Suprema Corte no sentido de suspender a sua eficácia, motivo pelo qual não há se falar em suspensão deste feito por força da citada ADI nº 7435.
+
+Visto isso, considerando que todas as normas presumem-se constitucionais até que haja decisão declaratória em sentido contrário, não vislumbro óbice para a aplicação do art. 22, §1º, da Resolução nº 303/2019 do CNJ, com redação dada pela Resolução nº 448/2022.
+
+Este TJDFT já se manifestou neste sentido consoante ementa abaixo transcrita:
+
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. TAXA SELIC. APLICAÇÃO A PARTIR DA VIGÊNCIA DA EMENDA CONSTITUCIONAL Nº 113/2021. DEZEMBRO DE 2021. INCIDÊNCIA SOBRE O VALOR CONSOLIDADO DA DÍVIDA. RESOLUÇÃO DO CNJ. CONSTITUCIONALIDADE. DECISÃO MANTIDA.   1. É correta a incidência da taxa Selic a partir de dezembro/2021 sobre o valor consolidado da dívida até novembro/2021, assim considerado o montante principal corrigido monetariamente acrescido de juros moratórios, conforme determinou a decisão agravada.   2. Essa metodologia de cálculo está em consonância com a Resolução CNJ nº 303/2019, art. 22, §1º, com redação dada pela Resolução CNJ nº 448, de 25/3/2022, que dispõe sobre gestão de precatórios e respectivos procedimentos operacionais no âmbito do Poder Judiciário, considerando a promulgação da Emenda Constitucional nº 113/2021.   3. Os atos normativos são dotados de presunção relativa de constitucionalidade, devendo a aplicabilidade da norma ser observada até que seja revogada ou declarada a sua inconstitucionalidade.  4. O cumprimento intransigente dos atos normativos administrativos, editados pelo Conselho Nacional de Justiça, como é o caso da Resolução nº 303/2019, que fundamentou expressamente o ato ora impugnado, é dever institucional dos tribunais de justiça brasileiros (STF, MS 37422 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 15-12-2020, PROCESSO ELETRÔNICO DJe-297  DIVULG 18-12-2020  PUBLIC 07-01-2021).  5. Agravo de Instrumento conhecido e não provido.  (Acórdão 1883015, 07098511620248070000, Relator(a): Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 25/6/2024, publicado no DJE: 4/7/2024. Pág.: Sem Página Cadastrada.)
+
+Vale registrar, ainda, que o cumprimento dos atos normativos administrativos editados pelo CNJ, como a Resolução nº 303/2019, por exemplo, é dever institucional dos tribunais brasileiros.
+
+Ante o exposto, confirmando a decisão liminar de ID 68338519, NEGO PROVIMENTO ao recurso.
+
+É como voto.
+O Senhor Desembargador LEONARDO ROSCOE BESSA - 1º Vogal Com o relatorO Senhor Desembargador ARQUIBALDO CARNEIRO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
