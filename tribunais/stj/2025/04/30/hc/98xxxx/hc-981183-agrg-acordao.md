@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Manutenção da custódia. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a prisão preventiva da agravante pelos crimes de associação criminosa e roubo majorado.
+2. A defesa alega constrangimento ilegal pela ausência de fundamentação concreta para a prisão preventiva e questiona a legalidade do reconhecimento pessoal fotográfico. Requer a revogação da prisão preventiva, a substituição por prisão domiciliar ou a imposição de medidas cautelares diversas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva da agravante está devidamente fundamentada em elementos concretos que justifiquem a necessidade de sua manutenção para a garantia da ordem pública.
+4. Outra questão em discussão é a possibilidade de substituição da prisão preventiva por prisão domiciliar, considerando a maternidade da agravante e a natureza dos crimes imputados.
+III. Razões de decidir
+5. A decisão que decretou a prisão preventiva está fundamentada em dados concretos que evidenciam a necessidade da custódia para a garantia da ordem pública, considerando o modus operandi do crime, a periculosidade da agravante e o risco de reiteração delitiva.
+6. A substituição da prisão preventiva por prisão domiciliar não é cabível, pois a conduta imputada envolve violência, configurando exceção prevista no art. 318-A, inciso I, do Código de Processo Penal.
+7. A alegação de nulidade do reconhecimento fotográfico não prospera, pois este foi corroborado por outras provas, como o reconhecimento da vítima e imagens de circuito de segurança.
+8. A manutenção da custódia cautelar é justificada pela conveniência da instrução criminal e para garantir a aplicação da lei penal, considerando a evasão da agravante do distrito da culpa.
+IV. Dispositivo e tese
+9. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva está devidamente fundamentada quando baseada em elementos concretos que evidenciam a necessidade de custódia para a garantia da ordem pública. 2. A substituição da prisão preventiva por prisão domiciliar não é cabível em casos de crimes cometidos com violência, conforme art. 318-A, inciso I, do CPP. 3. O reconhecimento fotográfico, quando corroborado por outras provas, não configura nulidade."
+Dispositivos relevantes citados: CPP, art. 318-A, inciso I; CPP, art. 226.
+Jurisprudência relevante citada: STJ, AgRg no HC 966.555/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/3/2025; STJ, AgRg no RHC 206.422/RS, Rel. Min. Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CAROLAINE FERREIRA ISIDORO contra decisão que denegou a ordem de habeas corpus impetrado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que a agravante teve a prisão preventiva decretada, pela prática, em tese, dos crimes de associação criminosa e roubo majorado.
+Irresignada, a defesa, impetrou prévio habeas corpus perante o Tribunal de origem, que, denegou a ordem, em acórdão de fls. 21-32.
+No respectivo writ impetrado nesta Corte, alegou a defesa que a paciente estaria sofrendo constrangimento ilegal diante da ausência de fundamentação concreta e idônea para a segregação cautelar, sustentado a ilegalidade do reconhecimento pessoal fotográfico.
+Ponderou a necessidade de substituição da prisão cautelar pela domiciliar, uma vez que é mãe de filhos menores de 12 anos de idade.
+Requereu a revogação da prisão preventiva, subsidiariamente, a imposição de medidas cautelares diversas da prisão; ou, ainda, a substituição da prisão preventiva pela domiciliar.
+O habeas corpus foi denegado - fls. 127-132.
+No presente agravo, a defesa repisa os argumentos de mérito do habeas corpus, declarando a necessidade da revogação da segregação cautelar.
+Pugna pela reconsideração da decisão agravada ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Manutenção da custódia. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou a ordem de habeas corpus impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo, que manteve a prisão preventiva da agravante pelos crimes de associação criminosa e roubo majorado.
+2. A defesa alega constrangimento ilegal pela ausência de fundamentação concreta para a prisão preventiva e questiona a legalidade do reconhecimento pessoal fotográfico. Requer a revogação da prisão preventiva, a substituição por prisão domiciliar ou a imposição de medidas cautelares diversas.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a prisão preventiva da agravante está devidamente fundamentada em elementos concretos que justifiquem a necessidade de sua manutenção para a garantia da ordem pública.
+4. Outra questão em discussão é a possibilidade de substituição da prisão preventiva por prisão domiciliar, considerando a maternidade da agravante e a natureza dos crimes imputados.
+III. Razões de decidir
+5. A decisão que decretou a prisão preventiva está fundamentada em dados concretos que evidenciam a necessidade da custódia para a garantia da ordem pública, considerando o modus operandi do crime, a periculosidade da agravante e o risco de reiteração delitiva.
+6. A substituição da prisão preventiva por prisão domiciliar não é cabível, pois a conduta imputada envolve violência, configurando exceção prevista no art. 318-A, inciso I, do Código de Processo Penal.
+7. A alegação de nulidade do reconhecimento fotográfico não prospera, pois este foi corroborado por outras provas, como o reconhecimento da vítima e imagens de circuito de segurança.
+8. A manutenção da custódia cautelar é justificada pela conveniência da instrução criminal e para garantir a aplicação da lei penal, considerando a evasão da agravante do distrito da culpa.
+IV. Dispositivo e tese
+9. Agravo desprovido.
+Tese de julgamento: "1. A prisão preventiva está devidamente fundamentada quando baseada em elementos concretos que evidenciam a necessidade de custódia para a garantia da ordem pública. 2. A substituição da prisão preventiva por prisão domiciliar não é cabível em casos de crimes cometidos com violência, conforme art. 318-A, inciso I, do CPP. 3. O reconhecimento fotográfico, quando corroborado por outras provas, não configura nulidade."
+Dispositivos relevantes citados: CPP, art. 318-A, inciso I; CPP, art. 226.
+Jurisprudência relevante citada: STJ, AgRg no HC 966.555/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/3/2025; STJ, AgRg no RHC 206.422/RS, Rel. Min. Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+Segundo o relatório, almeja a parte agravante a revogação da prisão preventiva, subsidiariamente, a imposição de medidas cautelares diversas da prisão; ou, ainda, a substituição da prisão preventiva pela domiciliar.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 127-132. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+No presente caso, observa-se que a decisão que decretou a segregação cautelar, está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para a garantia da ordem pública, notadamente pelo modus operandi da conduta em tese perpetrada, haja vista que a agravante, juntamente com outros três agentes e uso de arma de fogo, mediante prévio preparo e divisão de tarefas, associaram-se para a prática de roubos na região, circunstância apta a justificar a segregação cautelar - fl. 39.
+Sobre o tema:
+"verifica-se que a prisão foi mantida na sentença em razão da periculosidade do paciente, evidenciada pela gravidade da conduta - envolveu concurso de agentes, grave ameaça e cerceamento de locomoção da vítima. O delito teria sido praticado por 4 agentes, com emprego de arma de fogo e com restrição da liberdade da vítima, contexto que indica perigo à ordem pública. Julgados do STJ..
+Nesse sentido, admite-se a prisão preventiva quando as circunstâncias concretas do crime revelarem risco à ordem pública" (AgRg no HC n. 966.555/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 10/3/2025).
+"A prisão preventiva está devidamente fundamentada para garantir a ordem pública, com base na gravidade concreta do delito, evidenciada pelo modus operandi, envolvendo grave ameaça com uso de arma de fogo "(AgRg no RHC n. 206.422/RS, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/2/2025).
+No mesmo sentido: AgRg no HC n. 954.657/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 23/12/2024; AgRg no HC n. 955.894/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 16/12/2024 e AgRg no HC n. 951.702/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJEN de 9/12/2024.
+Destacou, ainda, a corte de origem que a agravante "além do feito de origem, está sendo processada por outro roubo (Processo n. 0000924-43.2024.8.26.0366), bem como por tráfico de drogas (Processo n. 1501555- 56.2020.8.26.0590)" - fl. 29, circunstâncias que demonstram a necessidade de encarceramento provisório, notadamente se considerado o fundado receio de reiteração criminosa.
+A propósito:
+"A decisão que decretou a prisão preventiva está devidamente fundamentada, com base em elementos concretos que demonstram a periculosidade do recorrente, apontado como líder da organização criminosa, com histórico criminal e condenação anterior por tráfico de drogas e associação para o tráfico.
+6. A gravidade concreta das condutas imputadas e o risco de reiteração delitiva justificam a manutenção da custódia preventiva para a garantia da ordem pública, sendo inviável a substituição por medidas cautelares diversas da prisão.
+7. A existência de organização criminosa impõe a necessidade de interromper a atuação de seus integrantes como garantia da ordem pública"(AgRg no RHC n. 209.106/PR, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 5/3/2025).
+Segundo a jurisprudência desta Corte, a contumácia delitiva justifica a prisão cautelar para a garantia da ordem pública. Nesse sentido: AgRg no HC n. 910.540/CE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/7/2024; AgRg no HC n. 902.557/SP, Sexta Turma; Rel. Min. Antonio Saldanha Palheiro, DJe de 3/7/2024 e AgRg no HC n. 912.267/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 28/6/2024.
+Consignando, outrossim, o acórdão recorrido que "a custódia é recomendada por conveniência da instrução criminal e de modo a garantir a aplicação da lei penal, pois a acusada permaneceu foragida por longo tempo, ensejando, aliás, o desmembramento do processo principal quanto a ela" - fl. 30.
+Ressalta-se que o entendimento desta Quinta Turma é no sentido de que a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 194.775/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 26/6/2024).
+A propósito: AgRg no HC n. 886.094/AL, Sexta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 25/6/2024; AgRg no HC n. 918.681/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/6/2024 e AgRg no HC n. 900.704/SP, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 14/6/2024.
+Quanto a alegação de nulidade decorrente do reconhecimento pessoal fotográfico, tenho que melhor sorte não socorre à defesa.
+Verifica-se que o reconhecimento fotográfico realizado na fase inquisitorial foi lastreado em outras provas, a saber, o reconhecimento da vítima em sede policial, bem como as imagens de circuito de segurança da loja que capturaram o crime de roubo, destacando, em especial, a imagem da acusada, fatores que afastam a ilegalidade apontada pela defesa - fl. 26.
+Salientou, ademais, a corte a quo que "os corréus foram todos reconhecidos pessoalmente, com devida observância ao artigo 226 CPP (fls. 76/80 da origem). Se tal procedimento não pôde ser observado quanto à paciente, isso deu-se exclusivamente em razão de seu não comparecimento à Delegacia para prestar esclarecimentos, não obstante notificada e da fuga do distrito da culpa, que culminou no desmembramento do processo quanto a ela" - fl. 26.
+Nesse sentido:
+"No caso, há outras provas além do reconhecimento fotográfico realizado, como as próprias prisões em flagrante dos réus em posse da res furtiva e o modus operandi do delito, a indicarem a legalidade da exasperação da pena, motivos pelos quais não comporta conhecimento a ordem, ante a ausência de flagrante ilegalidade.
+3. No mesmo sentido o parecer do representante do Ministério Público Federal, para quem "não merece reparos a decisão que demonstrou a ausência dos requisitos para a provimento do pedido, tendo em vista que a condenação dos ora pacientes não encontrou esteio apenas em seu reconhecimento pessoal, mas em outros elementos de convicção independentes. Ademais disso, o Habeas Corpus não é meio processual idôneo para rediscutir a convicção do Tribunal Impetrado acerca da suficiência dos elementos de prova para a condenação"(AgRg no HC n. 752.662/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+De mais a mais, "a jurisprudência desta Corte entende que a revisão do acervo probatório em habeas corpus é incabível, sendo necessário um flagrante constrangimento ilegal para que a ordem seja concedida" (HC n. 867.816/SE, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 10/12/2024, DJEN de 23/12/2024).
+No que concerne ao pleito de substituição da prisão preventiva imposta à agravante pela prisão domiciliar, em razão da maternidade, cumpre consignar que a Lei n. 13.769, de 19/12/2018, assegurou às mulheres gestantes, mães ou responsáveis por crianças ou pessoas com deficiência, a substituição da prisão preventiva por prisão domiciliar, exceto em casos de crimes cometidos com violência ou grave ameaça ou contra seus filhos ou dependentes, ao alterar o disposto no art. 318 do Código Penal.
+Na hipótese, a conduta em tese perpetrada foi cometida mediante violência, uma vez que se trata de roubo qualificado pelo concurso de agentes e uso de arma de fogo, conforme consignado pelas instâncias originárias, a consubstanciar a exceção específica positivada no art. 318-A, inciso I, do Código de Processo Penal, não havendo possibilidade de substituição da prisão preventiva por prisão domiciliar, ante a ausência do requisito legal.
+A respeito do tema, colaciono o seguinte precedente desta Corte Superior de Justiça:
+"Não é suficiente alegar a maternidade para deferir-se, de forma automática, a prisão domiciliar durante a execução. A análise do benefício sob o viés da proteção integral da criança é diferente após a condenação definitiva; se faz conforme o caso concreto, para justificar o sacrifício da garantia da segurança pública, dever do Estado e direito de todos. Não há direito líquido e certo à indistinta soltura de todas as condenadas que possuem filhos menores de 12 anos, principalmente quando condenadas por crimes graves.
+No caso, a ré foi condenada à pena de 16 anos e 6 meses de reclusão, em regime fechado, mais multa, pela prática dos delitos de roubos majorados e extorsões qualificadas, crimes que trazem, como elementares dos respectivos tipos penais, a violência ou a grave ameaça contra a pessoa" (AgRg no HC n. 948.979/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/11/2024).
+No mesmo sentido: AgRg no HC n. 834.536/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do Tjsp), Sexta Turma, DJe de 4/9/2024; AgRg no HC n. 910.191/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Sexta Turma, jDJe de 22/8/2024 e AgRg no RHC n. 198.212/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 22/8/2024.
+Por fim, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+Desta feita, observa-se que a parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
