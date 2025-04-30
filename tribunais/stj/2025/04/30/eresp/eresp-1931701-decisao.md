@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por CONGAL CONSTRUTORA GILBERTO AZEVEDO LTDA. (CONGAL), na demanda em que contende com VALDENITE HERMINIA DE AQUINO (VALDENITE), contra o acórdão prolatado pela Quarta Turma do STJ, da relatoria do Ministro RAUL ARAÚJO, assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TAXA DE FRUIÇÃO. UTILIZAÇÃO DO BEM. INDENIZAÇÃO DEVIDA PELO USO DO IMÓVEL DURANTE A INADIMPLÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "A rescisão de contrato de promessa de compra e venda de imóvel, na hipótese em que o promitente-comprador deixa de pagar a prestação e continua usufruindo do imóvel, enseja ao promitente- vendedor o direito à indenização pelo uso do imóvel durante o período de inadimplência". (REsp 911.126/DF, Relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, DJe de 27/10/2009).
+3. Agravo interno a que se nega provimento (e-STJ, fl. 414).
+O dissídio jurisprudencial submetido à análise da Segunda Seção diz respeito a interpretação do art. 884 do CC/2002, quanto ao termo inicial de incidência da taxa de ocupação no caso de desfazimento do negócio jurídico de compra e venda de imóvel.
+O embargante citou como paradigma o julgado da Terceira Turma prolatado no REsp nº 1.863.007/SP, relatora Ministra NANCY ANDRIGHI, j. 23/3/2021, DJe de 26/3/2021 (e-STJ, fls. 455/482).É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+Cinge-se a controvérsia em dirimir suposto dissenso quanto ao termo inicial de incidência da taxa de ocupação no caso de desfazimento do negócio jurídico de compra e venda de imóvel.
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+A divergência não pode ser conhecida diante da ausência de similitude fática entre os acórdãos confrontados.
+A construtora, CONGAL, sustentou que a taxa de fruição ou ocupação do imóvel deve abranger todo o período que o comprador permaneceu no imóvel, não somente a partir do momento em que o adquirente se tornou inadimplente.
+Ocorre que os acórdãos embargados são convergentes quanto ao direito à indenização pelo uso do imóvel durante o período de inadimplência.
+O acórdão embargado manteve as conclusões do Tribunal estadual inalteradas no sentido de que declarada a rescisão contratual, cumpre ao julgador fazer com que o bem, objeto da compra e venda, retorne ao patrimônio do vendedor, e o valor desembolsando pelo adquirente, por sua vez, seja restituído. A indenização em razão da fruição do imóvel deve abranger o tempo em que a autora usufruiu injustamente do imóvel sem qualquer prestação a ré, ou seja, desde o inadimplemento até a efetiva desocupação (e-STJ, fl. 418).
+O acórdão paradigma, por sua vez, analisou caso em que não houve a efetiva ocupação do imóvel, por se tratar de terreno não edificado, motivo pelo qual a construtora não fazia jus à taxa de ocupação:
+ ..
+Na hipótese dos autos, o Tribunal de origem manteve a sentença de improcedência do pedido de condenação da recorrida ao pagamento de taxa de ocupação ao fundamento de que "se trata de terreno para edificação  motivo pelo qual  mesmo que a apelada tenha tomado posse de referido terreno, não teve nenhum proveito econômico com isso (e-STJ, fl. 245, sem destaque no original).
+Essas conclusões do acórdão recorrido não estão a merecer reforma.
+Com efeito, ao contrário do sustentado pela recorrente, o mero exercício da posse do imóvel por parte do promissário comprador não basta para sua condenação ao pagamento de taxa de ocupação/aluguéis, pois seria preciso, para tanto, que o comprador tivesse fruído de uma vantagem (enriquecimento do beneficiário) que deveria, com segurança e por justa causa, ter ingressado no patrimônio da recorrente (empobrecimento do lesado).
+Na hipótese específica dos autos, todavia, o terreno não está edificado, de modo que não existe possibilidade segura e concreta - aferível diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal e a interveniência de circunstâncias futuras - de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida. Não está presente, pois, o requisito de sua diminuição patrimonial.
+Não o suficiente, não havendo edificação no imóvel, tampouco a recorrida pôde auferir vantagem ou proveito de sua posse, estando, assim, igualmente ausente o requisito de seu enriquecimento sem justa causa (e-STJ, fls. 478/479 - sem destaque no original).
+A situação fática nos julgados confrontados era diversa, o que inviabiliza a análise do dissenso jurisprudencial.
+Permanece hígido o entendimento de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Em suma, é o caso de rejeitar os embargos de divergência diante da ausência de similitude fática entre os acórdãos confrontados.
+Nessas condições, nos termos do art. 266, do RISTJ, INDEFIRO LIMINARMENTE os presentes embargos de divergência.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS REJEITADOS LIMINARMENTE.
