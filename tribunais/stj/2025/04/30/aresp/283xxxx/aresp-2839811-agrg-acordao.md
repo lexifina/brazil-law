@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Aldair Antônio Galvan contra decisão de e-STJ fls. 1.648, de relatoria do Ministro Presidente desta Corte, que não conheceu do recurso especial considerando que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais.
+A defesa, sem impugnar o referido fundamento, alega que "há, sim, violação expressa ao artigo 33, § 2º, do Código Penal, o qual foi suscitado no Recurso Especial, razão pela qual se requer a reconsideração da decisão agravada" (e-STJ fl. 1.654).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DO VERBETE N. 182 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO NÃO CONHECIDO.
+1. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incidência do verbete n. 182 da Súmula desta Corte.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo regimental não merece conhecimento.
+Cuida-se de recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina que negou provimento ao apelo defensivo, mantendo a condenação do recorrente pela prática do crime do art. 1º, I e II da Lei n. 8.137/90, na forma do art. 71 do CP.
+O recurso especial não foi admitido.
+No âmbito desta Corte, o Ministro Presidente não conheceu do recurso especial considerando que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, trazendo apenas dispositivos constitucionais.
+No presente agravo regimental, a parte não impugna o referido fundamento.
+Nesse contexto, incide o verbete n. 182 da súmula desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 159 DO CPP. DOSIMETRIA. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA. QUESTÕES ALEGADAS SOMENTE NO REGIMENTAL. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DOS ARTS. 1.021, § 1º, DO CPC E 253 DO RISTJ. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. As matérias suscitadas apenas na via regimental configuram indevida inovação recursal.
+2. A ausência de impugnação específica dos fundamentos da decisão combatida atrai a incidência do disposto nos arts. 1.021, § 1º, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 desta Corte, por analogia.
+3. Agravo regimental não conhecido. (AgRg nos EDcl no AREsp 1329353/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 03/09/2019).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. INSURGÊNCIA NÃO CONHECIDA.
+1. A decisão que conheceu do agravo em recurso especial e não conheceu do recurso especial assentou a necessidade de reexame fático-probatório (Súmula n. 7/STJ). No entanto, no agravo regimental a defesa limitou-se a repisar os argumentos relativos ao mérito do recurso especial.
+2. Deixando a parte agravante de impugnar especificamente o único fundamento da decisão agravada, é de se aplicar a Súmula n. 182 do STJ.
+3. Agravo regimental não conhecido. (AgRg no AREsp 1416742/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 24/05/2019).
+Importante acrescentar que a citação geral de artigos de lei ao longo do apelo especial não é suficiente para caracterizar e demonstrar a contrariedad e a lei federal, já que impossível identificar se foram eles citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (ut, AgInt no AREsp n. 2.131.507/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 18/11/2024, DJe de 22/11/2024).
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
