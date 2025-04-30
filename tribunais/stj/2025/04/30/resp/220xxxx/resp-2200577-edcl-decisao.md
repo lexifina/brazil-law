@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SILVANA DE MESQUITA SILVA à decisão de fls. 282-284, que indeferiu o pedido de tutela provisória por meio do qual pretendia a concessão de efeito suspensivo a recurso especial e a proibição de quaisquer levantamentos de valores no inventário de origem.
+Argumenta ser incontestável a possibilidade de dano grave e de difícil reparação, uma vez que o advogado não pode ser privado de seus honorários advocatícios, que possuem natureza alimentar e consistem em crédito privilegiado.
+Aponta omissão em relação ao fato de que os "valores presentes em contas poupanças têm rendimentos mensais que, indevidamente, estarão sendo transferidos a quem não tem direito a tal verba e que pertence por direito à embargante" (fl. 291).
+Alega ter ocorrido erro de fato na decisão embargada, uma vez que não se levou em consideração que as quantias que compõem a herança do tio "se referem somente aos seus trabalhos jurídicos desenvolvidos ao longo de muitos anos e que, ao final de todos os trabalhos, em decorrência de influências indevidas e até ilícitas de quem almejava a integralidade da herança, foi impedida de receber" (fl. 300).
+Requer sejam os embargos acolhidos para que seja concedido o efeito suspensivo ao presente recurso especial.
+Não foi apresentada impugnação aos embargos de declaração, conforme a certidão de fls. 308-310.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Conforme firme posicionamento desta Corte, considera-se omissa a decisão que deixar de considerar as alegações apresentadas pela parte.
+No entanto, além de a decisão embargada ter analisado todos os argumentos apresentados pelas partes, nota-se que as razões recursais dos embargos declaratórios voltam-se, exclusivamente, para a pretensão de reanálise do pedido de tutela provisória, não logrando a parte embargante demonstrar a presença de nenhum dos vícios que legitimam o manejo do presente recurso, que tem por missão precípua o aperfeiçoamento das decisões judiciais, de forma a propiciar uma tutela jurisdicional clara e completa.
+Como analisado na decisão embargada, a embargante não logrou demonstrar em que consiste a urgência do provimento cautelar almejado, não servindo a tanto a simples alegação de que o inventariante pode vir a requerer, a qualquer momento, o levantamento de valores no inventário em tramitação na origem.
+Ademais, em juízo perfunctório, próprio deste momento processual, verifica-se que não há, na petição de recurso especial, o desenvolvimento das teses referentes às alegações de violação de dispositivos de lei.
+A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+Dessa forma, inexiste irregularidade sanável por meio dos presentes embargos, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ressalte-se ainda que a mera irresignação da parte embargante com o entendimento que embasou o julgamento do recurso não viabiliza a oposição dos aclaratórios, que têm finalidade integrativa e, portanto, não se prestam à reforma do entendimento adotado ou ao rejulgamento da causa (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1º/12/2021, DJe de 15/12/2021; EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgados em 25/8/2020, DJe de 28/8/2020).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
