@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO TEMPORÁRIA. TRÁFICO DE DROGAS. REQUISITOS PREENCHIDOS. NECESSIDADE DE CUSTÓDIA PARA CONCLUSÃO DAS INVESTIGAÇÕES EM ANDAMENTO. AGRAVANTE FORAGIDO. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que denegou ordem de habeas corpus, mantendo a prisão temporária do agravante para apuração de crime de tráfico de drogas.
+II. Questão em discussão
+2. A discussão consiste em saber se a prisão temporária do agravante está devidamente fundamentada e se preenche os requisitos legais previstos na Lei n. 7.960/1989.
+III. Razões de decidir
+3. A prisão temporária foi decretada com base em elementos concretos que indicam sua imprescindibilidade para as investigações, estando os requisitos previstos na Lei n. 7.960/1989 devidamente preenchidos.
+4. A decisão judicial destacou a necessidade da custódia para a colheita de provas e a condição de foragido do agravante, justificando a medida cautelar.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: 1. A prisão temporária deve estar fundamentada em elementos concretos que indiquem sua imprescindibilidade para as investigações.
+Dispositivos relevantes citados: Lei n. 7.960/1989, art. 1º, inciso III; Código de Processo Penal, art. 282, inciso II.
+Jurisprudência relevante citada: STJ, AgRg no HC 913.353/SC, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 23/10/2024; STJ, AgRg no HC 775.185/RJ, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/11/2022; STJ, AgRg no HC n. 894.821/MG, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024; STJ, AgRg no HC n. 850.531/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOSE ROGERIO DOS SANTOS FERREIRA LIMA contra decisão de minha lavra, na qual deneguei a ordem de habeas corpus.
+Consta nos autos que o paciente, ora agravante, teve a prisão temporária decretada para apuração e realização de diligências investigatórias em razão da suposta prática do crime de tráfico de drogas.
+Nas razões do writ, a Defesa sustentou, em suma, a ausência de fundamentação específica para a prisão temporária, alegando que disponibilizou seu endereço, defendendo que não oferece risco à ordem pública ou à instrução criminal.
+Requereu, liminarmente e no mérito, a revogação da prisão temporária.
+Na decisão de fls. 102/107, deneguei a ordem.
+No presente regimental, a Defesa reitera a fundamentação e os pleitos formulados na petição do habeas corpus.
+Pede, ao final, a reconsideração da decisão agravada ou a apreciação do feito pelo órgão colegiado.
+É o relatório
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO TEMPORÁRIA. TRÁFICO DE DROGAS. REQUISITOS PREENCHIDOS. NECESSIDADE DE CUSTÓDIA PARA CONCLUSÃO DAS INVESTIGAÇÕES EM ANDAMENTO. AGRAVANTE FORAGIDO. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA, NA HIPÓTESE. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que denegou ordem de habeas corpus, mantendo a prisão temporária do agravante para apuração de crime de tráfico de drogas.
+II. Questão em discussão
+2. A discussão consiste em saber se a prisão temporária do agravante está devidamente fundamentada e se preenche os requisitos legais previstos na Lei n. 7.960/1989.
+III. Razões de decidir
+3. A prisão temporária foi decretada com base em elementos concretos que indicam sua imprescindibilidade para as investigações, estando os requisitos previstos na Lei n. 7.960/1989 devidamente preenchidos.
+4. A decisão judicial destacou a necessidade da custódia para a colheita de provas e a condição de foragido do agravante, justificando a medida cautelar.
+IV. Dispositivo e tese
+5. Agravo regimental não provido.
+Tese de julgamento: 1. A prisão temporária deve estar fundamentada em elementos concretos que indiquem sua imprescindibilidade para as investigações.
+Dispositivos relevantes citados: Lei n. 7.960/1989, art. 1º, inciso III; Código de Processo Penal, art. 282, inciso II.
+Jurisprudência relevante citada: STJ, AgRg no HC 913.353/SC, Rel. Min. Daniela Teixeira, Quinta Turma, julgado em 23/10/2024; STJ, AgRg no HC 775.185/RJ, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/11/2022; STJ, AgRg no HC n. 894.821/MG, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024; STJ, AgRg no HC n. 850.531/SP, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023.
+VOTO
+A irresignação não prospera.
+No caso, o Tribunal de origem, ao manter a prisão temporária do agravante, ressaltou o seguinte (fls. 22/25; grifamos):
+A decisão judicial que decretou a prisão temporária do paciente (fls. 2 1/22 dos autos de nº 1503752-52.2024.0037) encontra-se fundamentada, pontuando que:
+"Vistos. Trata-se de representação objetivando a prisão temporária, formulada pela Autoridade Policial em desfavor de JOSÉ ROGERIO DOS SANTOS FERREIRA. Segundo consta, policiais civis cumpriram mandado de busca e apreensão concedidos pelo Juízo dessa 3ª Vara Criminal no imóvel situado na Avenida Guilherme Gomes Ministro, nº 209, Parque Residencial São Paulo, nesta cidade e comarca, onde foi localizada uma grande quantidade de entorpecentes cf. auto de exibição e apreensão de fls. 06/08, verificando-se, inclusive, que o local era utilizado exclusivamente para armazenar a droga, pois estava desprovida de móveis, local esse frequentado pelo investigado JOSE ROGERIO DOS SANTOS FERREIRA LIMA. Ainda, foi realizada a busca e apreensão no estabelecimento comercial situado na Avenida Dr. Albert Einstein, nº 1589-B, onde o investigado frequentava fora do horário de funcionamento, local conhecimento como ponto de encontro de criminosos, onde foi localizado um revólver calibre .22, municiado e com numeração raspada. Contudo, o JOSE ROGERIO encontra-se foragido.
+O Ministério Público manifestou-se pelo deferimento (fls. 19/20). A decretação de prisão cautelar, sob a égide dos princípios constitucionais do estado de inocência e da garantia da fundamentação das decisões judiciais, não pode provir de um automatismo da lei, da mera repetição judiciária dos vocábulos componentes do dispositivo legal ou da indicação genérica do motivo, sob pena de se transformar numa antecipação da reprimenda a ser cumprida quando do instante da condenação.
+A prisão temporária, regulada pela Lei nº 7.960/89, exige, para sua decretação a existência dos requisitos de toda custódia cautelar, quais sejam, o fumus boni iuris (fumus commissi delicti) e o periculum in mora (periculum libertatis).
+Inferem-se das investigações em andamento indícios de autoria em desfavor do investigado acima qualificado(s).
+Portanto, diante do que fora demonstrado linhas acima, constata-se aqui a presença do fumus comissi delicti a que se refere no inciso III, do artigo 1º, da Lei 7.960/89, visto que há indícios de autoria ou participação material do investigado no crime em apuração.
+A presente medida justifica-se, também, por ser imprescindível para as investigações, isso porque faz-se necessária a colheita de outras provas, especial do depoimento dos investigados e testemunhas, a fim de elucidar o caso.
+Pelo exposto, conclui-se que a medida cautelar requerida mostra- se perfeitamente cabível, razão pela qual DECRETO A PRISÃO TEMPORÁRIA do representado JOSÉ ROGÉRIO DOS SANTOS FERREIRA LIMA. pelo prazo de 30 (trinta) dias, em consonância com o artigo 1º, incisos I e III, letra "n", da Lei nº 7960/89 e artigo 2º, § 4º, da Lei 8072/89. Expeça-se mandado de prisão em desfavor dos investigados, acima qualificados, devendo constar no mandado o período de duração da prisão temporária, bem como o dia em que o preso deverá ser libertado. Decorrido o prazo contido no mandado de prisão, a autoridade responsável pela custódia deverá, independentemente de nova ordem da autoridade judicial, pôr imediatamente o preso em liberdade, salvo se já tiver sido comunicada da prorrogação da prisão temporária ou decretada a prisão preventiva (artigo 7º da Lei nº 7.960/89, com redação dada pela Lei nº 13.869/19)
+(..)
+4. Com efeito, existem, como se infere da decisão judicial, dados probatórios a indicar que o paciente praticou crime de tráfico de drogas. É o que se depreende da prova oral, documental e pericial produzida no curso do inquérito policial, com destaque para o boletim de ocorrência e auto de exibição e apreensão (fls. 01/08 dos autos de nº 1503752-52.2024.0037).
+Consta que ter sido encontrada quantidade expressiva de entorpecentes (mais de 16 quilos de drogas, entre cocaína, crack, maconha, haxixe e uma substância branca não identificada), bem como diversos apetrechos relacionados à produção e fracionamento de droga, em cumprimento de mandado de busca e apreensão em residência que o paciente frequentava e que, aparentemente, era destinada exclusivamente ao armazenamento de substâncias ilícitas. Além disso, foi apreendida arma de fogo com a numeração suprimida em estabelecimento comercial que o paciente frequentava fora do horário de funcionamento, sendo local conhecido como ponto de encontro de criminosos.
+Como se sabe, o "habeas corpus" constitui ação de rito sumaríssimo, em que a cognição é estreita, de sorte a não se afigurar instrumento processual adequado quando o desate da questão reclame o exame aprofundado de provas e fatos, conforme tem assentado a doutrina (cfr, por exemplo, GUILHERME DE SOUZA NUCCI, Código de Processo Penal Comentado, RT, 9ª edição, pág. 1.045) e a jurisprudência (cfr, por exemplo, STF, HC nº 103.149, rel. Min. Celso de Mello).
+Deveras, para fins de determinação do conteúdo da dicção fundadas razões de autoria ou participação (artigo 1º, III, da Lei nº 7.960/89), enquanto requisito da prisão temporária, urge atentar para a temática do que se denomina, no campo doutrinário, de critérios de decisão ou standards probatórios, enquanto grau de convencimento necessário para a prática dos atos no curso da persecução penal.
+(..)
+Trata-se de medida própria do limiar da persecução penal, num estágio em que as investigações se encontram em curso, de sorte que não se exige uma prova robusta de autoria, mas sim dados que apontam para a probabilidade de o agente ter cometimento o crime.
+Cuida-se, em tese, de um crime grave, que autoriza a prisão temporária (artigo 1º, III, "n", da Lei nº 7.960/89).
+E tal como pontuado pelo d. magistrado a custódia cautelar afigura-se imprescindível para a realização das investigações, anotando-se, inclusive, que, segundo informações da autoridade policial, o paciente sequer fora localizado (fls. 15 dos autos 1503752-52.2024.0037). Enfim, presentes, na espécie, os requisitos para a prisão temporária. 5. Enfim, não se divisa constrangimento ilegal.
+Dos excertos transcritos, reitero que, ao contrário do que alega a Defesa, a prisão temporária foi suficientemente fundamentada pelas instâncias ordinárias, havendo o preenchimento dos requisitos legais para a sua decretação dispostos na legislação especial em razão do delito praticado, qual seja, tráfico de drogas, e da necessidade da custódia para a conclusão das investigações constantes do inquérito policial que se encontra em andamento, verificando-se o vínculo, em tese, do paciente com o crime cometido e a sua condição de foragido.
+Nessa esteira, havendo ainda a necessidade de produção de provas objetivando a completa elucidação dos fatos a respeito do delito perpetrado, constata-se que os requisitos legais para a efetivação da medida cautelar em questão se encontram suficientemente preenchidos, nos termos da legislação especial regedora da matéria.
+Exemplificativamente:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. PRISÃO TEMPORÁRIA. REQUISITOS LEGAIS PREENCHIDOS. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. No caso em análise, a prisão temporária foi decretada com base em elementos concretos que indicam sua imprescindibilidade para as investigações, estando os requisitos previstos na Lei nº 7.960/1989 devidamente preenchidos.
+5. Não foi demonstrada qualquer ilegalidade flagrante ou constrangimento ilegal na decisão que decretou a prisão temporária paciente, não sendo cabível a concessão de habeas corpus de ofício.
+(..) (AgRg no HC n. 913.353/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024; grifamos).
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PORTE ILEGAL DE ARMA DE FOGO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. IRREGULARIDADE DO RECONHECIMENTO PESSOAL FOTOGRÁFICO. REEXAME FÁTICO- PROBATÓRIO INVIÁVEL NA PRESENTE VIA. EXISTÊNCIA DE OUTROS ELEMENTOS QUE APONTAM PARA A PARTICIPAÇÃO DO PACIENTE. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO TEMPORÁRIA. MEDIDA CAUTELAR DEVIDAMENTE FUNDAMENTADA PARA REGULAR APURAÇÃO DOS FATOS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+V - Na hipótese, a prisão temporária encontra-se devidamente fundamentada em dados concretos extraídos dos autos, tendo em vista que o d. magistrado primevo consignou que "a prisão temporária dos indiciados apresenta-se imprescindível para as investigações, na medida em que propiciará a colheita de novos depoimentos, ressaltando-se que as testemunhas já ouvidas, em sede policial, contribuíram com diversas informações que levaram à provável autoria do fato", a justificar a prisão temporária haja vista a necessidade da regular apuração dos fatos nas investigações do inquérito policial.
+VI - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+(..) (AgRg no HC n. 775.185/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 8/11/2022, DJe de 18/11/2022; grifamos).
+Outrossim, reafirmo, a suposta existência de condições pessoais favoráveis, por si só, não assegura a desconstituição da custódia antecipada, caso estejam presentes os requisitos autorizadores da custódia cautelar, como ocorre no caso. A propósito: AgRg no HC n. 894.821/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/5/2024, DJe de 15/5/2024; AgRg no HC n. 850.531/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/11/2023, DJe de 17/11/2023.
+Desse modo, tendo sido concretamente demonstrada a necessidade da prisão temporária nos autos, não se apresenta suficiente a sua revogação ou a aplicação de medidas cautelares mais brandas, nos termos do art. 282, inciso II, do Código de Processo Penal.
+Assim, por não terem sido declinados, nas razões recursais, fundamentos jurídicos que infirmem os motivos da decisão ora agravada, deve esse ato ser integralmente mantido por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
