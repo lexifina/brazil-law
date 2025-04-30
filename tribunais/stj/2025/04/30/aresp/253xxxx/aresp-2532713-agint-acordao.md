@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ERRO NO PREENCHIMENTO DE PER/DCOMP. RECONHECIMENTO JUDICIAL DOS CRÉDITOS. VERBA SUCUMBENCIAL. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação aos arts. 489 e 1.022, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. É inviável o reexame do quantitativo em que o autor e o réu decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por esbarrar no óbice constante da Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SANTHER FÁBRICA DE PAPEL SANTA THEREZINHA S.A. contra decisão monocrática assim ementada (e-STJ, fl. 1.432):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS. CONDENAÇÃO. SUCUMBÊNCIA RECÍPROCA. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno, a insurgente alega, em suma, que não foram enfrentadas as omissões suscitadas quanto (a) aos argumentos "trazidos nas contrarrazões à apelação interposta pela União, nas quais resta evidente que a agravante não é parte sucumbente no feito"; (b) à "aplicação do artigo 86, parágrafo único, do Código de Processo Civil aos autos"; e (c) à "interpretação a ser conferida aos dispositivos processuais in voga, quais sejam, os artigos 85 e 86 do CPC" (e-STJ, fl. 1.443).
+Aduz, ainda, que "a questão sub judice posta no recurso especial não exige qualquer análise de provas ou revisão de cálculos/valores estabelecidos na origem, mas trata-se de mera aplicação da matéria de direito, das normas infraconstitucionais violadas, quais sejam os invocados artigos 85 e 86 do Código de Processo Civil" (e-STJ, fl. 1.446).
+Impugnação não apresentada (e-STJ, fl. 1.460).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. ERRO NO PREENCHIMENTO DE PER/DCOMP. RECONHECIMENTO JUDICIAL DOS CRÉDITOS. VERBA SUCUMBENCIAL. ALEGADA OFENSA AOS ARTS. 489 E 1.022, AMBOS DO CPC/2015. NÃO OCORRÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. A alegação de violação aos arts. 489 e 1.022, ambos do Código de Processo Civil de 2015, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. É inviável o reexame do quantitativo em que o autor e o réu decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por esbarrar no óbice constante da Súmula n. 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O inconformismo não merece prosperar.
+Com efeito, mostra-se cristalino que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, haja vista que, conforme bem salientado, além da não ocorrência de violação aos arts. 489, § 1º, e 1.022, ambos do Código de Processo Civil de 2015, está evidente a incidência da Súmula n. 7/STJ à presente demanda.
+Consoante análise dos autos, verifica-se que a alegação de violação aos arts. 489, § 1º, e 1.022, ambos do Código de Processo Civil de 2015, de fato, não se sustenta, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+Isso porque o Tribunal Regional Federal da 3ª Região foi claro ao concluir, em suma, que deve a "autora arcar com a integralidade das verbas sucumbenciais, segundo o princípio da causalidade, no percentual fixado na sentença", uma vez que "deu causa à propositura da ação, ao preencher PER/DCOMP com erros formais e, ainda, submeter manifestação de inconformidade intempestiva".
+Veja-se (e-STJ, fls. 1.181-1.182; sem grifo no original):
+Senhores Desembargadores, em hipóteses de erro de preenchimento pelo contribuinte de PER/DCOMP, DCTF, DARF, DIPJ ou outro formulário fiscal, a jurisprudência da Turma define o princípio da causalidade como parâmetro para a fixação de honorários sucumbenciais.  ..
+Resta evidente que, embora reconhecido o direito à compensação integral, foi a própria autora quem deu causa à propositura da ação, ao preencher PER/DCOMP com erros formais e, ainda, submeter manifestação de inconformidade intempestiva.
+Assim, não procede a sentença no que reconheceu sucumbência recíproca, fixando-se honorários advocatícios e custas em rateio entre as partes.
+Com efeito, se não houvesse equívoco perpetrado pelo contribuinte ao submeter declaração de compensação, esta seria analisada e eventualmente homologada, hipótese na qual não haveria sequer interesse de agir para a demanda.
+No entanto, ante os erros mencionados, mesmo que reconhecido em âmbito judicial o direito aos créditos para a compensação, deve a autora arcar com a integralidade das verbas sucumbenciais, segundo o princípio da causalidade, no percentual fixado na sentença.
+Nessa esteira, cabe reiterar que todas as questões suficientes ao deslinde da controvérsia foram devidamente analisadas no acórdão recorrido, não havendo falar em nenhum vício capaz de comprometer o seu embasamento.
+A propósito (sem grifo no original):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. TRATAMENTO MÉDICO. ARTS. 489, § 1º, E 1.022, II, DO CPC. OMISSÃO NÃO CONFIGURADA. HONORÁRIOS SUCUMBENCIAIS. TESE DE NECESSIDADE DE RATEIO ENTRE OS RÉUS. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REDIMENSIONAMENTO DO PERCENTUAL DOS HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na origem, cuida-se de ação de procedimento ordinário ajuizada em face do Estado do Rio de Janeiro e da Clínica Bela Vista Ltda. com o fim de reparar os alegados danos morais que decorreriam da conduta dos réus no tratamento médico a que fora submetida a genitora do autor.
+2. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+3. No que concerne à verba sucumbencial, o Sodalício de origem não se manifestou sobre a alegação de que "considerada a existência de dois réus vencedores, importa a fixação no percentual total de 20% (vinte por cento) sobre o valor da causa, sem que nada possa justificar tão pesada condenação" (fl. 825), tampouco a questão foi suscitada nos embargos declaratórios opostos pela parte agravante para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+4. Ademais, a Corte estadual manteve os honorários sucumbenciais fixados no juízo de piso, em virtude de terem sido "arbitrados nos limites estabelecidos pelo artigo 85, §2º do CPC, além de não se revelarem excessivo, diante do grande lapso temporal de tramitação da ação" (fl. 705). Assim, eventual acolhimento da insurgência recursal demandaria a incursão encontra óbice na Súmula 7/STJ, por demandar o reexame de matéria fático-probatória.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.490.793/RJ, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. REVISÃO DOS HONORÁRIOS ADVOCATÍCIOS. INOVAÇÃO RECURSAL. ENTENDIMENTO CONFORME O STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. A Corte regional reconheceu a impossibilidade de rever a base de cálculo dos honorários advocatícios fixados na sentença, e apontou a ocorrência de inovação recursal. Entendimento esse que não destoa da orientação prevalecente no Superior Tribunal de Justiça (STJ).
+3. É dever da parte recorrente proceder ao cotejo analítico entre os acórdãos comparados, transcrevendo os trechos que configurem o dissídio jurisprudencial; a inobservância do art. 1.029, § 1º, do Código de Processo Civil impede o conhecimento do recurso especial pela alínea c do art. 105, inciso III, da Constituição Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.417.742/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 28/10/2024, DJe de 4/11/2024.)
+Por conseguinte, repisa-se que a irresignação da agravante não merece guarida, uma vez que, em recurso especial, é inviável o reexame do quantitativo em que o autor e o réu decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por esbarrar no óbice constante da Súmula 7/STJ.
+Nesse sentido (sem grifo no original):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/1973. COISA JULGADA. AVERIGUAÇÃO. SÚMULA 7/STJ. IPTU. INCONSTITUCIONALIDADE DA ALÍQUOTA PROGRESSIVA. PROSSEGUIMENTO DA EXECUÇÃO COM BASE NA ALÍQUOTA MÍNIMA. REPARTIÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE DE REVISÃO. AGRAVO NÃO PROVIDO.
+1. Não há nulidade por omissão, tampouco negativa de prestação jurisdicional no acórdão que decide, de modo integral e com fundamentação suficiente, a controvérsia posta. O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+2. O acolhimento das alegações deduzidas pela agravante, quanto à existência de decisão judicial, com trânsito em julgado, reconhecendo a ilegalidade da cobrança dos valores executados, ensejaria o revolvimento do acervo fático dos autos, providência vedada nesta via recursal, ante o óbice da Súmula 7/STJ.
+3. Este Tribunal Superior entende que o reconhecimento da inconstitucionalidade progressiva do IPTU enseja o prosseguimento da execução fiscal com base na alíquota mínima, por demandar simples operação aritmética.
+4. "Inviável a revisão do quantitativo em que autor e ré decaíram do pedido para fins de verificar a sucumbência mínima, haja vista que tal conduta, necessariamente, implica o reexame fático-probatório dos autos, o que também faz incidir o óbice da Súmula n. 7/STJ" (AgInt no AREsp n. 2.038.133/RJ, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.589.277/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 26/8/2024, DJe de 28/8/2024.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUCUMBÊNCIA RECÍPROCA. INEXISTÊNCIA. DISTRIBUIÇÃO DO ÔNUS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Segundo a jurisprudência do STJ, na ação de indenização por dano moral, a condenação em montante inferior ao postulado na inicial não implica sucumbência recíproca. Súmula 326/STJ.
+2. Essa Corte Superior tem entendimento firme no sentido de ser impossível rever o quantitativo em que autor e ré decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima, por demandar reexame do conjunto fático-probatório dos autos, vedado pela Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.947.117/CE, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1º/7/2022.)
+Assim, melhor sorte não socorre à agravante, não merecendo reparo a decisão monocrática de fls. 1.432-1.434 (e-STJ).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
