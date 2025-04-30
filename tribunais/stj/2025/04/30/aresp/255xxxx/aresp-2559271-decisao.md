@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ FELIPE AFONSO DA SILVA contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL que não admitiu o recurso especial.
+O agravante foi denunciado pelo suposto cometimento da infração penal prevista no art. 180 do Código Penal, perante o Juízo da 6ª Vara Criminal da Comarca de Campo Grande/MS, que julgou improcedente a denúncia, absolvendo-o com fulcro no art. 386, inciso I, do Código de Processo Penal (fls. 145-155).
+Inconformada, a a cusação interpôs apelo criminal junto ao Tribunal de Justiça de Mato Grosso do Sul, que deu provimento ao recurso, reformando a sentença e condenando o agravante nas sanções do art. 180 do Código Penal à pena de 01(um) ano de reclusão, em regime aberto, substituída por uma pena restritiva de direitos (fls. 225-231).
+O agravante interpôs recurso especial, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao artigo 386, inciso I, do Código de Processo Penal e sustentando a prescrição da pretensão punitiva (fls. 259-260).
+O recurso foi inadmitido pelo Tribunal de origem, sob a justificativa de incidência da Súmula n. 7 do STJ, que veda o reexame de provas (fls. 351).
+No presente agravo, a defesa sustenta que a análise da pretensão recursal não demandaria o reexame de provas, mas sim a revaloração jurídica dos fatos já delineados, além de reiterar o pedido de reconhecimento da prescrição da pretensão punitiva (fls. 319-325).
+O Ministério Público Federal se manifestou pelo não conhecimento do agravo e, se conhecido, pelo não provimento do recurso especial, afirmando que não se verifica a prescrição da pretensão punitiva e que as provas são suficientes para amparar a condenação (fls. 367-371).
+É o relatório. DECIDO.
+Entendo que, no agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido, uma vez que, como bem fundamentado pela Corte de origem, a impossibilidade de seguimento do recurso se deu com base na incidência da Súmula n. 7, STJ.
+A análise das razões motivadas pela instância de origem demonstra que se encontram em linha com o entendimento desta Corte, a indicar a incidência da Súmula n. 7, STJ, conforme se verifica da fundamentação adotada (fls. 225-230):
+"  No caso dos autos, as provas colhidas registram que o acusado estava na posse das referidas motocicletas, segundo ele, porque um desconhecido lhe pediu para deixá-las no fundo do imóvel que ele tinha recém alugado. Disse que não desconfiou que os veículos eram produtos de crime, não procurando, entretanto, saber a procedência das mesmas.  "
+Convém acentuar que o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal.
+No que tange especificamente à alegada prescrição, verifica-se que o agravante foi condenado à pena de 01 (um) ano de reclusão por julgamento realizado pela instância recursal. Deste modo, a prescrição regula-se pelo prazo de 2 anos (crime praticado por menor de 21 anos), conforme o art. 109, V, c/c o art. 110, § 1º, art. 117, inciso IV, c/c o art. 115, todos do Código Penal.
+Logo, no caso concreto, não tendo transcorrido prazo de 02 anos entre a data do recebimento da denúncia (11.01.2017) e a data da publicação do acórdão condenatório (17.12.2018), não deve ser reconhecida a prescrição.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
