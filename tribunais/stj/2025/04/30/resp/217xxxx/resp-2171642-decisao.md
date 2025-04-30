@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (fl. 497):
+PREVIDENCIÁRIO. APELAÇÃO. PENSÃO POR MORTE. FILHO. QUALIDADE DE SEGURADO DO INSTITUIDOR COMPROVADA. PRORROGAÇÃO DO PERÍODO DE GRAÇA. BENEFÍCIO CONCEDIDO.
+1. A sentença, acertadamente, julgou procedente em parte o pedido para condenar o INSS a conceder à autora o benefício de pensão por morte de sua genitora, até completar 21 anos de idade.
+2. A pensão por morte é um benefício previdenciário devido aos dependentes do segurado falecido (art. 74 da Lei n.º 8.213/1991). Para a sua concessão, o requerente deve comprovar a qualidade de segurado do instituidor na data do óbito e a sua condição de dependente.
+3. A ausência de registro em órgão do Ministério do Trabalho não impede a comprovação do desemprego por outros meios admitidos em Direito, para fins de prorrogação do período de graça (art. 15, § 2º, da Lei 8.213/91). Precedentes.
+4. São devidas as parcelas pretéritas do benefício de pensão desde 25/08/2016, data do óbito da genitora, até 26/06/2020, quando a autora completou 16 anos de idade, não lhe cabendo, no entanto, parcelas da pensão entre 26/06/2020 até 22/08/2021 (dia anterior a DER), período em que não mais detinha a condição de menor absolutamente incapaz.
+5. Os valores atrasados serão acrescidos de correção monetária (desde quando devida cada parcela) e juros de mora (a partir da citação) conforme o Manual de Cálculos da Justiça Federal.
+6. Diante do não provimento da apelação, são devidos os honorários recursais em 1%, na forma do art. 85, § 11, do CPC/15.
+7. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados (fl. 539).
+Nas razões do recurso especial, a parte recorrente alega violação ao art. 1.022, II, do Código de Processo Civil (CPC), visto que, a despeito dos embargos de declaração, o Tribunal de origem foi omisso quanto à sua alegação de que a prorrogação do período de graça não poderia ser concedida sem prova da condição de desemprego, não sendo suficiente a inexistência de registros na CTPS e/ou CNIS.
+Sustenta, ainda, ofensa ao art. 15, § 2º, da Lei 8.213/1991, argumentando que a prorrogação do período de graça requer comprovação da situação de desemprego pelo registro no órgão próprio do Ministério do Trabalho e da Previdência Social, não sendo suficiente a inexistência de registros na CTPS e/ou CNIS.
+Contrarrazões apresentadas às fls. 557/573.
+O recurso foi admitido na origem (fl. 579).
+É o relatório.
+Esta Corte firmou entendimento de que a mera ausência de registro na Carteira de Trabalho e Previdência Social (CTPS) não constitui prova inequívoca da condição de desemprego do segurado. Todavia, admite-se que a comprovação do desemprego possa ser realizada por outros meios probatórios, além do registro no Ministério do Trabalho e Previdência Social, incluindo provas testemunhais. Tal flexibilização decorre da possibilidade de o segurado exercer atividade remunerada de forma informal, não sendo a ausência de anotação laboral na CTPS suficiente para afastar essa hipótese.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AUXÍLIO-RECLUSÃO. PERDA DA QUALIDADE DE SEGURADO. EXTENSÃO DO PERÍODO DE GRAÇA PELO DESEMPREGO INVOLUNTÁRIO. NÃO COMPROVAÇÃO. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A Corte de origem, após análise dos elementos informativos dos autos, concluiu que o recluso não detinha a qualidade de segurado no momento de sua prisão, requisito indispensável para a concessão do auxílio-reclusão, tampouco havia sido comprovada a situação da extensão do período de graça pelo desemprego involuntário.
+2. A orientação do Superior Tribunal de Justiça se firmou no sentido de que "a ausência de registros na CTPS, por si só, não é suficiente para comprovar a situação de desemprego da parte autora, admitindo-se, no entanto, que tal demonstração possa ser efetivada por outros meios de prova que não o registro perante o Ministério do Trabalho e da Previdência Social, como a testemunhal" (REsp n. 1.338.295/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2014, DJe de 1º/12/2014).
+3. Isso porque "a ausência de anotação laboral na CTPS do autor  ..  não afasta a possibilidade do exercício de atividade remunerada na informalidade" (AgRg no Ag n. 1.182.277/SP, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 26/10/2010, DJe de 6/12/2010).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.935.779/SP, relator Ministro Manoel Erhardt, Desembargador Convocado do Trf5, Primeira Turma, julgado em 15/8/2022, DJe de 17/8/2022, sem grifos no original.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. MANUTENÇÃO DA QUALIDADE DE SEGURADO À ÉPOCA DO ÓBITO. COMPROVAÇÃO DOS REQUISITOS DO ART. 15 DA LEI 8.213/1991. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+2. Quanto ao mérito, o STJ firmou entendimento de que a situação de desemprego pode ser demonstrada não só por meio do registro perante o órgão próprio do Ministério do Trabalho, mas também por outras provas.
+ ..
+5. Recurso Especial não conhecido.
+(REsp n. 1.706.851/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 7/12/2017, DJe de 19/12/2017, sem grifos no original.)
+PREVIDENCIÁRIO. QUALIDADE DE SEGURADO. PRORROGAÇÃO DO PERÍODO DE GRAÇA. MERA AUSÊNCIA DE ANOTAÇÃO NA CTPS. INSUFICIÊNCIA DE ELEMENTOS PROBATÓRIOS DA SITUAÇÃO DE DESEMPREGO. RETORNO DOS AUTOS À ORIGEM.
+1. A ausência de registros na CTPS, só por si, não é suficiente para comprovar a situação de desemprego da parte autora, admitindo-se, no entanto, que tal demonstração possa ser efetivada por outros meios de prova que não o registro perante o Ministério do Trabalho e da Previdência Social, como a testemunhal. Precedentes: Pet 7.115/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, DJe 6/4/2010; AgRg no Ag 1.182.277/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJe 6/12/2010.
+2. No caso concreto, no que diz respeito à demonstração da qualidade de segurado do autor, a Corte de origem, ao se louvar, unicamente, na ausência de anotação na CTPS e ter como prorrogado o período de graça, destoou da mencionada jurisprudência.
+3. Recurso especial do INSS parcialmente provido, para afastar a possibilidade de reconhecimento da condição de segurado pela mera ausência de registros na CTPS, determinando o retorno dos autos à origem para que oportunize ao autor a produção de provas e, então, julgue a causa como entender de direito.
+(REsp n. 1.338.295/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/11/2014, DJe de 1º/12/2014, sem grifos no original.)
+No caso em exame, o Tribunal de origem, por maioria, decidiu que, "havendo a devida comprovação da situação de desempregada através do CNIS, a instituidora teria direito ao acréscimo de 12 meses ao seu período de graça, nos termos do § 2º do art. 13 do Decreto n.º 3.048/99 ou do § 2º do art. 15 da Lei nº 8.213/91, fato que prorrogaria a manutenção de sua qualidade de segurada até novembro de 2016, ou seja, após o seu óbito (agosto de 2016 -  3.1, p.7 )" (fl. 495).
+Assim, observo que a compreensão do Tribunal de origem diverge do entendimento consolidado no Superior Tribunal de Justiça de que a ausência de registros na Carteira de Trabalho e Previdência Social (CTPS) não é, por si só, suficiente para comprovar a situação de desemprego da parte autora, admitindo-se que tal comprovação possa ser realizada por outros meios de prova, como a testemunhal. Diante disso, impõe-se o provimento do recurso especial para adequar a decisão ao entendimento jurisprudencial vigente.
+Nesse sentido: (1) AREsp 2.803.008/PR, relator Ministro Gurgel de Faria, DJEN de 26/2/2025; (2) AREsp 2.729.233/RS, relator Ministro Gurgel de Faria, DJEN de 19/2/2025; (3) REsp 1.904.214/MG, relatora Ministra Assusete Magalhães, DJe de 23/3/2023.
+Ante o exposto, dou provimento ao recurso especial, para afastar a possibilidade de reconhecimento da condição de segurado pela mera ausência de registros na CTPS e, consequentemente, determinar o retorno dos autos à origem para que oportunize à parte autora a produção de provas e, então, julgue a causa como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
