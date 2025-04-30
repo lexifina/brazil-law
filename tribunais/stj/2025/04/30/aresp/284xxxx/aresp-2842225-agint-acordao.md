@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE DÉBITO FISCAL. TRANSFERÊNCIA DE MERCADORIA ENTRE ESTABELECIMENTOS DA MESMA EMPRESA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESTADO DE MATO GROSSO contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 807):
+AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE DÉBITO FISCAL. TRANSFERÊNCIA DE MERCADORIA ENTRE ESTABELECIMENTOS DA MESMA EMPRESA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. DISCUSSÃO COM BASE EM DIREITO LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 816-823), o agravante alega que o Tribunal de Justiça do Estado de Mato Grosso não abordou adequadamente os argumentos apresentados, configurando violação ao art. 1.022 do CPC/2015.
+Além disso, argumenta que a decisão monocrática aplicou indevidamente a Súmula 280/STF, porquanto a insurgência contida no recurso especial se restringe à tese de violação ao art. 1.022 do CPC/2015.
+Requer, assim, o conhecimento e o provimento do presente recurso, para que se conheça e proveja o recurso especial em sua integralidade.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA DE DÉBITO FISCAL. TRANSFERÊNCIA DE MERCADORIA ENTRE ESTABELECIMENTOS DA MESMA EMPRESA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. AGRAVO INTERNO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. Agravo interno desprovido.
+VOTO
+A insurgência não merece prosperar.
+Segundo afirma o agravante, a insurgência se restringe à alegada ofensa ao art. 1.022, I e II, do CPC/2015, entretanto, não se vislumbram razões para o provimento deste agravo interno quanto à tese de negativa de prestação jurisdicional.
+Sobre o tema, o recorrente alegou, na petição de recurso especial, que o TJMT não abordou adequadamente a questão da obrigatoriedade das contribuições ao FETHAB e ao INPECMT para produtores rurais que optam pelo diferimento do ICMS.
+Contudo, consoante assente na decisão agravada, a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à reivindicação do recorrente, tratando-se, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 576-583 - sem grifos no original):
+No mérito, a matéria ora discutida - cobrança de ICMS de mercadoria de mesma titularidade - possui firme entendimento doutrinário e jurisprudencial, que a mera e estrita saída física de mercadorias não caracteriza o fato gerador jurígeno do ICMS (art. 155, inc. II, CF/88), e de consequência a não incidência do FETHAB, por se tratar de recolhimento acessório e facultativo, para o caso de opção do contribuinte, quando optante pelo diferimento do ICMS, autorizando o julgamento monocrático do recurso.
+Como visto, Paulo Roberto do Nascimento, informou possuir propriedades rurais nos Estados de Mato Grosso e Minas Gerais, onde exerce atividade vinculada à pecuária, e destacou que embora ocorra apenas transferência do gado entre os seus próprios estabelecimentos, o Estado de Mato Grosso exige o recolhimento de ICMS, e consequentemente o FETHAB - Fundo Estadual de Transporte e Habitação e INPEC-MT - Instituto da Pecuária de Corte Mato-grossense (criado e regulamentado pela lei nº 11.301, decreto nº 828 de 18 de fevereiro de 2021, em substituição ao FABOV).
+Asseverou que não obstante o fisco mato-grossense entenda que, nas operações interestaduais incida o ICMS (art. 3º, I do RICMS/MT e as demais contribuições correlatas) - ainda que se trate de mera transferência entre estabelecimentos rurais do mesmo proprietário -, a imposição é ilegítima, pois o deslocamento de gado de um estabelecimento para outro, não configura circulação econômica ou jurídica de mercadoria para ensejar cobrança tributaria de ICMS.
+Dessarte, em que pesem os argumentos declinados no Agravo Interno, denota-se que a parte Agravante não trouxe novos elementos, aptos a ensejar a modificação da decisão.
+Veja-se, no caso dos autos, é incontroverso que a natureza da operação é a de transferência de rebanho bovino, entre estabelecimentos de mesma propriedade, ou seja, não há troca de titularidade do bem, tampouco circulação de mercadorias, requisito este necessário à caracterização do ICMS, conforme determina a Súmula n. 166 do STJ, que assim dispõe:
+Súmula nº 166: Não constitui fato gerador do ICMS o simples deslocamento de mercadoria de um para outro estabelecimento do mesmo contribuinte.
+(..)
+O Supremo Tribunal Federal, aliás, ao julgar o Recurso Extraordinário com Agravo (ARE) n. 1255885, com repercussão geral (Tema 1099), firmou a tese no sentido de que o simples deslocamento de mercadoria, entre estabelecimentos do mesmo contribuinte, ainda que em unidade federativa distinta, não configura fato gerador do ICMS. Veja-se:
+(..)
+Assim, é pacífico o entendimento de que a simples remessa (transferência) de mercadorias de um estabelecimento para outro, de um mesmo proprietário, caracteriza-se como mero transporte, razão pela qual não incide o aludido imposto.
+Logo, é certo que não há incidência do ICMS, nas operações de mero deslocamento de mercadorias, assim consideradas, o gado bovino, entre propriedades de titularidade da parte autora, ainda que localizadas em unidades distintas da Federação, e de consequência, inexiste a contribuição ao Fethab, mormente porque o pagamento da contribuição ao Fundo de Transporte e Habitação constitui uma faculdade aos contribuintes que optarem pelo diferimento do ICMS uma vez que a lei não obriga o seu recolhimento, de sorte que inexistindo o principal, o acessório subsiste.
+(..)
+Posto isso, contrário às assertivas do Recorrente, inexiste qualquer fato novo, posto que as decisões anteriores, incluindo a recorrida, há a devida fundamentação para a manutenção da sentença.
+(..)
+Logo, é certo que não há incidência do ICMS nas operações de mero deslocamento de mercadorias entre propriedades de titularidade da Impetrante, ainda que localizadas em unidades distintas da Federação.
+Como se pode notar, o Tribunal de origem destacou que a transferência de gado entre propriedades rurais de mesma titularidade, mesmo que localizadas em estados diferentes, não configura fato gerador do ICMS e, consequentemente, não também não há a obrigação de pagar a contribuição ao FETHAB.
+Insta destacar que a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. SÚMULA 284/STF. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil (CPC), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. Destaca-se que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos apresentados pelas partes em defesa de suas teses. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no presente caso.
+2. Nos termos do entendimento do Superior Tribunal de Justiça, a "ausência de legitimidade ativa, por se tratar de uma das condições da ação, é matéria de ordem pública cognoscível a qualquer tempo e grau, sendo insuscetível de preclusão nas instâncias ordinárias" (REsp 1.731.214/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/5/2018, DJe de 19/11/2018).
+3. Não se conhece da divergência jurisprudencial quando a parte recorrente não indica nas razões de seu recurso especial qual seria o dispositivo de lei federal objeto de interpretação controvertida nos tribunais. Incidência, por analogia, da Súmula 284/STF.
+4. Sempre que o Tribunal de origem decidir uma questão com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.399.315/MA, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/9/2024, DJe de 7/10/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESEPCIAL. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. PIS. COFINS. BASE DE CÁLCULO. ICMS-DIFAL. TESE FIRMADA PELO STF. EXTENSÃO DA RATIO DECIDENDI. FUNDAMENTAÇÃO CONSTITUCIONAL. REVISÃO. IMPOSSIBILIDADE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA LHE NEGAR PROVIMENTO.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Quanto ao mérito, o recurso especial tem origem em mandado de segurança mediante a qual a parte objetiva o reconhecimento do direito de recolher a Contribuição ao PIS e a COFINS sem incluir em sua base de cálculo o ICMS e o ICMS-DIFAL, quando o referido imposto for recolhido pela impetrante na qualidade de remetente de mercadorias a consumidor final, não contribuinte de ICMS, situado em outros estados.
+3. À luz do art. 105, III, da Constituição Federal, o recurso especial não serve à revisão da fundamentação constitucional, pois no caso em tela o Tribunal de origem, interpretando a tese definida pelo Supremo Tribunal Federal no Tema 69, decidiu por sua aplicação também no caso em que o contribuinte pretende a exclusão do ICMS-Difal da base de cálculo da Contribuição ao PIS e da COFINS.
+4. Inexistência de precedentes colegiados do STF a afirmar ausência de repercussão geral e a natureza infraconstitucional da matéria ora controvertida.
+5. Recurso Especial parcialmente conhecido para lhe negar provimento.
+(REsp n. 2.133.501/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/8/2024, DJe de 2/9/2024.)
+Dessa forma, não há falar em negativa de prestação jurisdicional.
+Logo, como não demonstrou argumentação capaz de ilidir os fundamentos invocados pela decisão agravada, o presente recurso não se revela apto a afastar o conteúdo do julgado impugnado.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
