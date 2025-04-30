@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial, fundado no art. 105, III, alínea "c", da Constituição Federal, interposto por M & M RENT"A CAR LTDA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"ACIDENTE DE TRÂNSITO - INVASÃO DA PISTA CONTRÁRIA - PISTA DE ROLAMENTO MOLHADA E ESCORREGADIA - EVENTO PREVISÍVEL - CULPA COMPROVADA - INOBSERVÂNCIA REGRAS DE TRÂNSITO - DANOS MORAIS - QUANTUM INDENIZATÓRIO - LUCROS CESSANTES DEVIDOS - ABATIMENTO SEGURO DPVAT - POSSIBILIDADE - LIDE SECUNDÁRIA - HONORÁRIOS ADVOCATÍCIOS - AUSÊNCIA DE RESISTÊNCIA. Age com culpa o motorista que, conduzindo o veículo em rodovia, ao realizar a trajetória em curva invade a contramão de direção e colide com veículo que segue na pista de rolamento contrária. Diante das condições desfavoráveis - pista molhada e escorregadia - deve o motorista conduzir o veículo com maior diligência, tendo total domínio de seu veículo. A fixação do valor da indenização por dano moral deve atender às circunstâncias do caso concreto, não devendo ser fixado em quantia irrisória, assim como em valor elevado a ponto de propiciar enriquecimento sem causa. Demonstrado que o autor ficou afastado de seu trabalho, bem comprovado o valor mensal por ele auferido em sua atividade laboral, devida a respectiva indenização. Nos termos da súmula 246 do STJ, o valor percebido a título de indenização do seguro DPVAT deve ser abatido da indenização fixada judicialmente, desde que haja prova do recebimento da quantia. Se a denunciada aceita a denunciação, limitando-se a pleitear a observância dos termos do contrato, exclui-se a condenação ao pagamento de honorários advocatícios, por não ter sido oposta resistência à lide secundária" (fl. 825)
+Os embargos de declaração opostos pela recorrente foram rejeitados pelo acórdão de fls. 869-874, e os opostos pelo recorrido foram parcialmente acolhidos pelo acórdão de fls. 924-930.
+Nas razões do recurso especial, a recorrente defende a necessidade de redução do valor arbitrado a título de dano moral, porquanto excessivo.
+O agravado apresentou contrarrazões às fls. 1111-1123.
+O recurso especial não foi admitido com fundamento de que, diante da ausência de indicação do dispositivo legal que teria tido interpretação divergente, incide a Súmula 284 do STF (fls. 1132-1134).
+Nas razões do agravo em recurso especial, a agravante cingiu-se a repisar as razões expostas no recurso especial.
+O agravado apresentou contraminuta ao agravo em recurso especial às fls. 1214-1232.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Na hipótese, o Tribunal de origem não admitiu o recurso, em razão do óbice da Súmula 284 do STF (1132-1134).
+Em suas razões de recurso, a parte agravante não impugnou especificamente os fundamentos da decisão agravada, pois não rebateu o aludido óbice.
+Registre-se que a impugnação da decisão agravada há de ser específica, de modo que, não admitido o recurso especial, a parte recorrente deve explicitar os motivos pelos quais não incidem os óbices apontados, sob pena de vê-los mantidos.
+Assim, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada.
+Precedentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+A propósito, a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo em recurso especial, por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19/9/2018, DJe 30/11/2018).
+Desse modo, sem a impugnação específica e suficiente para infirmar todos os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
