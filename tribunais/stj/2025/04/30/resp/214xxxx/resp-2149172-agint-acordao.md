@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. AÇÃO ANULATÓRIA PREVIAMENTE AJUIZADA. DEPÓSITO DO MONTANTE INTEGRAL RECONHECIDO PELA PARTE EXEQUENTE. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS A CARGO DA EXEQUENTE. AUSÊNCIA DE OMISSÃO NO JULGADO RECORRIDO. PRINCÍPIO DA CAUSALIDADE. RECURSO CONHECIDO PARA NEGAR-LHE PROVIMENTO.
+1. O Tribunal de origem enfrentou expressamente as questões levantadas no recurso especial, especialmente sobre a suficiência de ação anulatória previamente ajuizada com depósito integral do montante a fim de suspender a exigibilidade do crédito exigido pela autarquia. Portanto, inexiste omissão e ofensa ao art. 1.022 do CPC.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO contra a decisão de minha relatoria que conheceu do recurso especial para negar-lhe provimento, conforme ementa a seguir transcrita (fls. 206-209):
+RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL. AÇÃO ANULATÓRIA PREVIAMENTE AJUIZADA. DEPÓSITO DO MONTANTE INTEGRAL RECONHECIDO PELA PARTE EXEQUENTE. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS A CARGO DA EXEQUENTE. AUSÊNCIA DE OMISSÃO NO JULGADO RECORRIDO. MATÉRIA EXPRESSAMENTE ANALISADA. RECURSO CONHECIDO PARA NEGAR-LHE PROVIMENTO.
+No presente agravo interno, a parte agravante, em síntese, argumenta que o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO não enfrentou adequadamente as questões levantadas no recurso especial, especialmente a ausência de decisão judicial suspendendo a exigibilidade do crédito no momento do ajuizamento da execução fiscal e a falta de individualização do depósito realizado na ação anulatória, o que tornaria inviável saber se cobria a integralidade da dívida (fl. 213-216).
+A parte agravada apresentou contrarrazões ao agravo interno (fls. 219-236).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. AÇÃO ANULATÓRIA PREVIAMENTE AJUIZADA. DEPÓSITO DO MONTANTE INTEGRAL RECONHECIDO PELA PARTE EXEQUENTE. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS SUCUMBENCIAIS A CARGO DA EXEQUENTE. AUSÊNCIA DE OMISSÃO NO JULGADO RECORRIDO. PRINCÍPIO DA CAUSALIDADE. RECURSO CONHECIDO PARA NEGAR-LHE PROVIMENTO.
+1. O Tribunal de origem enfrentou expressamente as questões levantadas no recurso especial, especialmente sobre a suficiência de ação anulatória previamente ajuizada com depósito integral do montante a fim de suspender a exigibilidade do crédito exigido pela autarquia. Portanto, inexiste omissão e ofensa ao art. 1.022 do CPC.
+2. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+De início, verifico que o acórdão recorrido não possui as omissões suscitadas pela parte recorrente. Ao revés, apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Como é cediço, o Julgador não está obrigado a rebater, individualmente, todos os argumentos suscitados pelas partes, sendo suficiente que demonstre, fundamentadamente, as razões do seu convencimento. No caso, existe mero inconformismo da parte recorrente com o resultado do julgado proferido no acórdão recorrido, que lhe foi desfavorável. Inexiste, portanto, ofensa ao art. 1.022 do Código de Processo Civil.
+Nesse sentido: AgInt no AREsp n. 2.381.818/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.009.722/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.
+Como destacado no decisum recorrido, o Tribunal de origem explicitou, no julgamento da apelação (fls. 88-90) e dos aclaratórios (fls. 125-127), o motivo pelo qual entendeu incumbir ao recorrente o ônus da sucumbência do encerramento da execução fiscal. Confira-se:
+Apelação (fls. 88-89)
+Com efeito, verifica-se que, no âmbito da ação anulatória nº 5013632- 81.2019.4.02.5001, a parte ora executada realizou um depósito de R$ 160.501,74 (cento e sessenta mil quinhentos e um reais e setenta e quatro centavos), correspondente às multas de Processos Administrativos, dentre eles o presente crédito exequendo (JFES, Evento 4, OUT 10), que, posteriormente, teve determinada a sua transferência para o INMETRO (JFES, Evento 4, COMP 12), sendo certo que tais fatos ocorreram em datas anteriores ao ajuizamento da presente demanda (29 de junho de 2022), tendo em vista que, conforme consulta ao sistema e-proc, a ação anulatória teve baixa definitiva em 06 de junho de 2022.
+Por sua vez, a parte exequente não nega tais fatos, apenas se limitando a mencionar que "no caso em apreço, houve a informação do pagamento pelo setor técnico da autarquia e a sua confirmação no sistema de que o devedor havia quitado o débito somente na data de 03/10/2022, conforme os documentos em anexo", tendo ainda pugnado pela extinção da execução, em razão da quitação do débito (JFES, Evento 21, PET 1).
+Portanto, a situação fática ora analisada revela a existência de ação anulatória proposta previamente à presente execução fiscal, sendo o ponto controvertido a análise da possibilidade do prosseguimento desta última em vista do depósito realizado nos autos daquela.
+ ..
+In casu, observa-se que a quitação do débito resta incontroversa, sendo certo que o referido montante foi repassado à parte exequente em momento anterior ao ajuizamento da execução, circunstância que, por si só, conduz à inexigibilidade do crédito exequendo.
+Embargos de Declaração (fl. 126)
+Igualmente não assiste razão à parte embargante no tocante aos honorários, visto que a executada quitou o débito objeto da presente execução, comprovando seu pagamento na ação anulatória 5013632- 81.2019.4.02.5001 antes o ajuizamento da ação de execução fiscal. Assim, considerando que a imposição dos ônus processuais, no direito brasileiro, pauta-se pelo princípio da sucumbência, norteado pelo princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com as despesas dele decorrentes, resta escorreito o decisum impugnado.
+Portanto, não há falar em omissão do Tribunal Regional questões fundamentais para determinar, de acordo com o princípio da causalidade, os ônus sucumbenciais. As razões que importavam para determinar a sucumbência foram expostas, gozando o decisum de fundamentos suficientes para sustentar a conclusão adotada.
+Assim, não se cogita ofensa ao art. 1.022 do Código de Processo Civil.
+Nesse sentido: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, D Je de 7/12/2023; AgInt no AR Esp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, D Je de 2/12/2022.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
