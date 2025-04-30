@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. ART. 105, III, A, DA CONSTITUIÇÃO FEDERAL. SÚMULA N. 284 DO STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que entendeu indevidos os honorários advocatícios na fase de execução em relação aos créditos de pequeno valor. No Tribunal a quo, a sentença foi no sentido de negar provimento ao recurso. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso especial.
+II - Depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via estreita do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, impõe-se não apenas a indicação específica e precisa do dispositivo legal federal supostamente contrariado pelo Tribunal de origem no acórdão recorrido, mas também a delimitação da violação da matéria insculpida no regramento indicado, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+III - A análise das razões recursais revela que a parte recorrente não amparou o seu inconformismo na violação de nenhum dispositivo legal federal específico, limitando-se a apresentar seus argumentos e a fazer alusões à legislação infraconstitucional federal. Conclui-se que a requerente não logrou indicar, com as adequadas especificidade e precisão, o dispositivo legal infraconstitucional federal que teria sido violado no acórdão recorrido.
+IV - Diante da deficiência do pleito recursal acima pronunciada, aplica-se à hipótese em tela, por analogia, o óbice constante do enunciado da Súmula n. 284 do STF, segundo o qual in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+V - Agravo interno improvido.
+RELATÓRIO
+Na origem, t rata-se de agravo de instrumento contra decisão que entendeu indevidos os honorários advocatícios na fase de execução em relação aos créditos de pequeno valor. No Tribunal a quo, a sentença foi no sentido de negar provimento ao recurso. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+ ..
+DA INAPLICABILIDADE DA SÚMULA 284 DO E. STF
+Ainda, com todo o respeito a r. decisão agravada, mas é manifestamente inaplicável ao caso o óbice da Súmula 284 da E. Suprema Corte.
+Com efeito, ao analisar a peça do apelo nobre, verifica-se que a matéria tratada (honorários na fase de cumprimento de sentença, independentemente se impugnada ou não a execução) foi claramente tratada pelos agravantes.
+ ..
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. ART. 105, III, A, DA CONSTITUIÇÃO FEDERAL. SÚMULA N. 284 DO STF. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que entendeu indevidos os honorários advocatícios na fase de execução em relação aos créditos de pequeno valor. No Tribunal a quo, a sentença foi no sentido de negar provimento ao recurso. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que julgou pelo não conhecimento do recurso especial.
+II - Depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via estreita do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, impõe-se não apenas a indicação específica e precisa do dispositivo legal federal supostamente contrariado pelo Tribunal de origem no acórdão recorrido, mas também a delimitação da violação da matéria insculpida no regramento indicado, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+III - A análise das razões recursais revela que a parte recorrente não amparou o seu inconformismo na violação de nenhum dispositivo legal federal específico, limitando-se a apresentar seus argumentos e a fazer alusões à legislação infraconstitucional federal. Conclui-se que a requerente não logrou indicar, com as adequadas especificidade e precisão, o dispositivo legal infraconstitucional federal que teria sido violado no acórdão recorrido.
+IV - Diante da deficiência do pleito recursal acima pronunciada, aplica-se à hipótese em tela, por analogia, o óbice constante do enunciado da Súmula n. 284 do STF, segundo o qual in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Depreende-se do art. 105, III, a, da Constituição Federal, que a competência do Superior Tribunal de Justiça, na via estreita do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a indicação específica e precisa do dispositivo legal federal supostamente contrariado pelo Tribunal de origem no acórdão recorrido, mas também a delimitação da violação da matéria insculpida no regramento indicado, para que, assim, seja viabilizado o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+A análise das razões recursais revela que a parte recorrente não amparou o seu inconformismo na violação de nenhum dispositivo legal federal específico, limitando-se a apresentar seus argumentos e a fazer alusões à legislação infraconstitucional federal.
+Conclui-se que a requerente não logrou indicar, com as adequadas especificidade e precisão, o dispositivo legal infraconstitucional federal que teria sido violado no acórdão recorrido.
+Diante da deficiência do pleito recursal acima pronunciada, aplica-se à hipótese em tela, por analogia, o óbice constante do enunciado da Súmula n. 284 do STF, segundo o qual in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO VIOLADO. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. NÃO OCORRÊNCIA.
+1. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Ressalvado o entendimento do relator, idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.071.388/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/10/2022, DJe de 21/11/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. LICITAÇÃO. MANDADO DE SEGURANÇA. EXIGÊNCIA EDITALÍCIA. DEMONSTRAÇÃO DE EXEQUIBILIDADE POR MEIO DE OUTROS CONTRATOS JÁ FIRMADOS COM A ADMINISTRAÇÃO. EXIGÊNCIA RESTRITIVA DA COMPETITIVIDADE. POSSIBILIDADE DE COMPROVAÇÃO POR OUTROS MEIOS IDÔNEOS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. ACÓRDÃO BASEADO NA INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. SOBRESTAMENTO DO RECURSO ESPECIAL POR TEMA EM REPETITIVO. DESNECESSIDADE DIANTE DE RECURSO INADMISSÍVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo a indicação precisa e específica dos dispositivos legais supostamente violados, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+2. O recurso especial não é, em razão das Súmulas 5 e 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em análise de cláusulas contratuais e no contexto fático-probatório próprio da causa.
+3. "Se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente da repercussão geral ou de sua afetação como representativo da controvérsia, não será enfrentado". (AgInt no AREsp1746550/PE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021) 4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.999.138/CE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/10/2022, DJe de 3/11/2022.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
