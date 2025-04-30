@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE LOCAL DE EXERCÍCIO - ALE. CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DO DIREITO PRESSUPOSTO DA AÇÃO DE COBRANÇA APÓS NOVO JULGAMENTO PELA NÃO PROCEDÊNCIA DO PEDIDO CONTIDO NO MANDADO DE SEGURANÇA COLETIVO. REVISÃO DE FATOS E PROVAS . IMPOSSIBILIDADE. SÚMULA 7/STJ. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para o fim de esclarecer obscuridade, corrigir contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuito de rejulgamento da causa, finalidade com a qual não se coadunam os aclaratórios.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ALAIDE GERALDI ANICETO e OUTROS a acórdão desta Segunda Turma assim ementado (fl. 699, e-STJ - grifos no original):
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE LOCAL DE EXERCÍCIO - ALE. CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DO DIREITO PRESSUPOSTO DA AÇÃO DE COBRANÇA APÓS NOVO JULGAMENTO PELA NÃO PROCEDÊNCIA DO MANDADO DE SEGURANÇA COLETIVO. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Hipótese em que o Tribunal a quo afirmou que o acórdão que julgou procedente o mandado de segurança coletivo não mais existe, substituído que foi por nova manifestação, inexistindo, por consectário, o direito que servira de fundamento à cobrança, a qual deve por isso ser extinta: "nulla executio sine titulo".
+2. A revisão do decidido esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata aqui de discussão sobre o resultado jurídico da aplicação de normas federais ("quaestio iuris"), senão da revisão das premissas subjacentes ("quaestio facti").
+3. Esta Corte Superior não pode ser transformada em terceira instância recursal, para que se faça a melhor Justiça do caso, tanto em razão do que expressamente prevê a Constituição Federal como competência deste Superior Tribunal de Justiça (cf. AgInt nos EAR Esp 702.591/DF, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, D Je 04/11/2016), como em razão de que, em assim agindo, pouca seria a contribuição para a efetiva Justiça, máxime no tocante à duração razoável do processo, adverte Araken de Assis (in Manual dos recursos  livro eletrônico . 10. ed. São Paulo: Revista dos Tribunais, 2021).
+4. Agravo interno não provido.
+Em suas razões (fls. 713-718, e-STJ), sustentam os embargantes ofensa ao art. 1.022 do CPC/2015, alegando omissão no julgado, ao argumento de que não foram analisados todos os pontos trazidos no recurso especial que propiciariam seu provimento.
+Impugnação às fls. 722-723 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE LOCAL DE EXERCÍCIO - ALE. CUMPRIMENTO DE SENTENÇA. INEXISTÊNCIA DO DIREITO PRESSUPOSTO DA AÇÃO DE COBRANÇA APÓS NOVO JULGAMENTO PELA NÃO PROCEDÊNCIA DO PEDIDO CONTIDO NO MANDADO DE SEGURANÇA COLETIVO. REVISÃO DE FATOS E PROVAS . IMPOSSIBILIDADE. SÚMULA 7/STJ. OMISSÃO DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis para o fim de esclarecer obscuridade, corrigir contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento.
+2. No caso dos autos, as razões deduzidas evidenciam o exclusivo intuito de rejulgamento da causa, finalidade com a qual não se coadunam os aclaratórios.
+3. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm cabimento somente quando efetivamente existir omissão, contradição, obscuridade ou erro material no julgado embargado, situações não observadas na espécie.
+O acórdão proferido por este colegiado decidiu a controvérsia com base em fundamentação sólida, sem omissões ou contradições. Na verdade, apenas se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+Nessa linha:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO. IMPOSSIBILIDADE. DISTINGUINSHING DO TEMA N. 421 DO RECURSOS ESPECIAIS REPETITIVOS. OMISSÃO NÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Na origem, trata-se de exceção de pré-executividade, ajuizada nos autos da execução fiscal de dívida referente ao IRPF, proposta pela União, objetivando o reconhecimento da prescrição intercorrente. Na sentença, julgou-se procedente o pedido extinguindo a execução fiscal e fixando os honorários advocatícios no mínimo previsto no § 3º do art. 85 do CPC/2015. No Tribunal a quo, a sentença foi parcialmente reformada para afastar a condenação no pagamento de honorários advocatícios. Nesta Corte, negou-se provimento ao recurso especial. A decisão foi confirmada em agravo interno.
+II - O acórdão embargado está consoante o entendimento do Superior Tribunal de Justiça, no sentido de que, nos casos em que ocorre a prescrição intercorrente, não há condenação em honorários da Fazenda Pública, fazendo-se um distinguishing quanto ao Tema n. 421 dos recursos especiais repetitivos. Na oportunidade do Tema n. 421 dos recursos especiais repetitivos, afirmou-se apenas a possibilidade de fixação de honorários em exceção de pré-executividade, quando seu acolhimento acarreta o fim da execução. Entretanto, se o motivo for a prescrição intercorrente, a incidência é de outros precedentes posteriores. (AgInt no REsp n. 1.929.415/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/9/2021, DJe 22/9/2021).
+III - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.892.578/CE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/3/2022, DJe de 17/3/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS DE MORA. JULGADO FUNDAMENTADO EM PRECEDENTE DO STF (RE 579.431/RS - REPERCUSSÃO GERAL - TEMA 96/STF). EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+Excepcionalmente o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade, eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+2. Nos presentes Declaratórios, a parte embargante afirma que o acórdão embargado foi omisso, porquanto o julgado recorrido deve ser modulação a fim de evitar mudança repentina da jurisprudência desta Corte.
+3. Dos próprios argumentos apresentados nos Aclaratórios, verifica-se não se tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base no inconformismo da parte com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+4. Embargos de Declaração opostos pela UNIÃO rejeitados.
+(EDcl no REsp n. 1.665.599/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/5/2020, DJe de 25/5/2020.)
+No caso , o acórdão embargado manteve a decisão monocrática que negou provimento ao recurso dos ora embargantes, dada a aplicação da Súmula 7/STJ para revisão das conclusões do acórdão recorrido, no sentido de que os servidores embargantes não possuem direito à ação de cobrança após a modificação do acórdão que lhe servia como fundamento.
+Constata-se, por consequência, que o acórdão embargado solucionou a questão de forma satisfatória, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto co ntrovertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional, pretendendo a parte, na verdade, a rediscussão do julgado, o que não autoriza a oposição dos embargos.
+Ressalta-se, inclusive, que os embargantes apenas reiteram as razões já expostas em seu agravo interno e rechaçadas por esta Segunda Turma.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Com esses fundamentos, rejeito os embargos de declaração.
+É como voto.
