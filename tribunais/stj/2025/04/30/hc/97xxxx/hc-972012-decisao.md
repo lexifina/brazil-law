@@ -1,0 +1,55 @@
+DECISÃO
+Conforme alhures relatado (e-STJ fls. 754/755):
+Trata-se de Habeas Corpus impetrado em favor de JOSE ANTONIO GUIDUGLI JUNIOR, no qual se aponta como autoridade coatora a 3ª Câmara de Direito Criminal do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0001101-42.2017.8.26.0466).
+Consta dos autos que o paciente foi condenado à pena de 4 (quatro) anos e 6 (seis) meses de detenção em regime semiaberto, além da suspensão do direito de dirigir pelo mesmo período de cumprimento da pena, pela prática do delito capitulado nos arts. 302, § 1º, III, e 312, caput, na forma do art. 69, todos do Código Penal.
+Sustenta, em síntese, a impetrante:
+a) a confissão do paciente, admitindo por completo a autoria do crime, não foi reconhecida (fl. 6);
+b) o Agravo em Recurso Especial interposto restringiu-se a alegação de contrariedade aos arts. 59 e 33 do Código Penal relativamente à pena acessória, não abrangendo a individualização da pena corporal em relação ao delito previsto no art. 302, § 1º, III, do Código Penal (fls. 8/9);
+c) a condenação pautou-se em fundamentação genérica, sem demonstrar, com clareza necessária, os fatores que implicam na exasperação da pena-base e manifestando- se contrariamente à jurisprudência dos Tribunais Superiores quanto a atenuante da confissão espontânea, mesmo que parcial (fl. 9);
+d) "o paciente não é reincidente, há prova de residência fixa, não sendo razoável e tão pouco proporcional o regime fixado e a vedação da substituição da pena privativa de liberdade por restritiva de direitos" (fl. 9);
+e) não foi demonstrada a culpabilidade exacerbada do agente a justificar a aplicação da pena-base em 1/2 acima do mínimo legal (fl. 11);
+f) "todas as circunstâncias judiciais, elencadas no artigo 59 do Código Penal, são favoráveis ao ora paciente, sendo que o grau de reprovabilidade da conduta do agente, bem como, os motivos e às circunstâncias do crime, encontram-se dentro dos parâmetros naturais ao tipo" (fl. 12);
+g) deve ser aplicada a atenuante da confissão espontânea, consoante enunciado da Súmula n. 545/STJ, não se justificando o afastamento da atenuante por ter o paciente atribuído culpa à vítima da colisão (fls. 15/16);
+h) o regime aberto é o mais adequado para o cumprimento da reprimenda (fls. 18-20); e
+i) "em tratando-se de acusado primário, como o é o ora paciente, cuja aplicação de reprimenda não se vislumbra, com as alterações contidas neste Writ, ultrapassar os 4 anos, não há óbice à benesse fixada pelo artigo 44 do Código Penal" (fl. 20).
+Requer, liminarmente, seja o paciente posto em liberdade e suspensa a execução da pena até julgamento de mérito do presente Habeas Corpus. No mérito, pleiteia a concessão da ordem para reformar o acórdão apontado como ato coator, redimensionando-se a pena fixada, com regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos.
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial "pelo NÃO CONHECIMENTO do Writ, eis que utilizado como sucedâneo recursal, e, se conhecido, no mérito, pela CONCESSÃO PARCIAL da ordem, para reformar a Decisão impugnada, apenas para que seja aplicada a atenuante prevista no art. 65, inciso III, "d", do Código Penal, visto que a confissão" (e-STJ fl. 336).
+É, em síntese, o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça é uníssona no sentido de que não cabe a utilização de habeas corpus como sucedâneo de recurso próprio ou de revisão criminal, sob pena de desvirtuamento do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS.  ..  MANDAMUS IMPETRADO CONCOMITANTEMENTE COM RECURSO ESPECIAL INTERPOSTO NA ORIGEM. VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE.  ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..  2. Não se conhece de habeas corpus impetrado concomitantemente com o recurso especial, sob pena de subversão do sistema recursal e de violação ao princípio da unirrecorribilidade das decisões judiciais.
+ ..  (AgRg no HC n. 904.330/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 2/9/2024, DJe de 5/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL, IMPETRADO QUANDO O PRAZO PARA A INTERPOSIÇÃO DA VIA RECURSAL CABÍVEL NA CAUSA PRINCIPAL AINDA NÃO HAVIA FLUÍDO. INADEQUAÇÃO DO PRESENTE REMÉDIO. PRECEDENTES. NÃO CABIMENTO DE CONCESSÃO DA ORDEM DE OFÍCIO. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É incognoscível, ordinariamente, o habeas corpus impetrado quando em curso o prazo para interposição do recurso cabível. O recurso especial defensivo, interposto, na origem, após a prolação da decisão agravada, apenas reforça o óbice à cognição do pedido veiculado neste feito autônomo.
+ ..  (AgRg no HC n. 834.221/DF, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 18/9/2023, DJe de 25/9/2023.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO "HABEAS CORPUS". ORGANIZAÇÃO CRIMINOSA. DOSIMETRIA. INEXISTÊNCIA DE ILICITUDE FLAGRANTE. RECURSO NÃO PROVIDO.
+1. A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal.
+ ..  (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ABSOLVIÇÃO. APLICAÇÃO DO IN DUBIO PRO REO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. "Firmou-se nesta Corte o entendimento de que " n ão deve ser conhecido o writ que se volta contra acórdão condenatório já transitado em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte" (HC n. 733.751/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023). Não obstante, em caso de manifesta ilegalidade, é possível a concessão da ordem de ofício, conforme preceitua o art. 654, § 2º, do Código de Processo Penal" (AgRg no HC n. 882.773/SP, relator Ministro Jesuíno Rissato - Desembargador Convocado do TJDFT, Sexta Turma, julgado em 24/6/2024, DJe de 26/6/2024).
+ ..  (AgRg no HC n. 907.053/SP, de minha relatoria, Sexta Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+Não se desconhece a orientação presente no art. 647-A, caput e parágrafo único, do Código de Processo Penal, segundo a qual se permite a qualquer autoridade judicial, no âmbito de sua competência jurisdicional e quando verificada a presença de flagrante ilegalidade, a expedição de habeas corpus de ofício em vista de lesão ou ameaça de lesão à liberdade de locomoção.
+No caso, verifico flagrante ilegalidade a ser reparada de ofício.
+De fato, o entendimento  adotado  pelo  Tribunal  local  se  encontra  em  desconformidade  com  a  orientação  deste  Sodalício  consolidada  no  REsp  n.  1.972.098/SC,  segundo  a  qual,  realizada  a  confissão,  o  réu  faz  jus  à  atenuante  específica,  independentemente  de  suas  declarações  terem  ou  não  influenciado  o  édito  condenatório  e  de  ser confissão  parcial,  qualificada,  extrajudicial  ou  retratada.  Assim  sendo,  não  há  empecilho  à  aplicação  da  atenuante  prevista  no  art.  65,  III,  d,  do  Código  Penal.
+Nesse  sentido:
+PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  LESÃO  CORPORAL  GRAVE.  EMBARGOS  DE  DECLARAÇÃO.  INADMISSIBILIDADE  CONTRA  DECISÃO  DENEGATÓRIA  DE  RESP  NA  ORIGEM.  ERRO  GROSSEIRO.  PRAZO  PARA  A  INTERPOSIÇÃO  DO  RECURSO  PRÓPRIO.  NÃO  INTERRUPÇÃO.  INTEMPESTIVIDADE  DO  AGRAVO.  HC  DE  OFÍCIO.  DOSIMETRIA  DA  PENA.  CONFISSÃO  ESPONTÂNEA.  CONFISSÃO  QUALIFICADA.  LEGÍTIMA  DEFESA.  RECONHECIMENTO.  REINCIDÊNCIA.  COMPENSAÇÃO  INTEGRAL.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.  ORDEM  CONCEDIDA  DE  OFÍCIO.
+ ..
+5.  A  jurisprudência  desta  Corte  Superior  é  pacífica  no  sentido  de  que,  nos  casos  em  que  a  confissão  do  acusado  servir  como  um  dos  fundamentos  para  a  condenação,  como  na  hipótese  dos  autos,  a  aplicação  da  atenuante  em  questão  é  de  rigor,  pouco  importando  se  a  confissão  foi  espontânea  ou  não,  se  foi  total  ou  parcial,  ou  mesmo  se  foi  realizada  só  na  fase  policial  com  posterior  retração  em  juízo  (AgRg  no  REsp  1412043/MG,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  Sexta  Turma,  julgado  em  10/3/2015,  DJE  19/3/2015).  Incidência  da  Súmula  n.  545/STJ.
+6.  A  atenuante  da  confissão  espontânea  deve  ser  aplicada  mesmo  nas  hipóteses  em  que  qualificada  pela  excludente  de  ilicitude  da  legítima  defesa.  Precedentes.
+ ..
+8.  Agravo  regimental  não  provido.  Concedida  a  ordem  de  habeas  corpus,  de  ofício,  para  reconhecer  a  incidência  da  atenuante  da  confissão  espontânea  e,  em  seguida,  realizar  a  compensação  integral  entre  essa  e  a  agravante  da  reincidência,  redimensionando  a  pena  do  agravante  para  1  (um)  ano  e  2  (dois)  meses  de  reclusão,  mantidos  os  demais  termos  da  condenação.  (AgRg  no  AREsp  n.  1.637.220/SP,  relator  Ministro  Reynaldo  Soares  da  Fonseca,  Quinta  Turma,  DJe  de  30/4/2020.)
+PENAL.  AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS.  HOMICÍDIO  QUALIFICADO.  RECONHECIMENTO  DA  ATENUANTE  DA  CONFISSÃO  ESPONTÂNEA.  ALEGAÇÃO  DE  QUE  O  CRIME  FOI  PRATICADO  EM  LEGÍTIMA  DEFESA.  IRRELEVÂNCIA.  CONFISSÃO  QUALIFICADA  QUE  DEVE  SER  CONSIDERADA.  MANUTENÇÃO  DA  DECISÃO  AGRAVADA  QUE  SE  IMPÕE.
+1.  Deve  ser  mantida  a  decisão  monocrática  em  que  se  aplica  a  atenuante  da  confissão  espontânea,  diante  do  fato  de  que  o  acusado  reconheceu  a  prática  dos  fatos  imputados,  embora  tenha  alegado  que  ocorreram  mediante  a  excludente  da  legítima  defesa.
+2.  A  confissão  espontânea,  ainda  que  tenha  sido  parcial  ou  qualificada,  deve  ser  reconhecida  na  dosagem  da  pena  como  circunstância  atenuante,  nos  termos  do  art.  65,  III,  do  Código  Penal.  Precedentes  (EDcl  no  AgRg  no  HC  494.295/MS,  Ministro  Nefi  Cordeiro,  Sexta  Turma,  DJe  12/8/2019).
+3.  Agravo  regimental  improvido.  (AgRg  no  HC  n.  483.246/SP,  relator  Ministro  Sebastião  Reis  Júnior,  Sexta  Turma,  DJe  de  7/10/2019.)
+Redimensiono a pena do crime de homicídio culposo na direção de veículo automotor.
+Mantido o cálculo dosimétrico da primeira fase, aplico a atenuante da confissão, em 1/6, e, na terceira etapa, a causa de aumento do art. 302, § 1º, inciso III, da Lei n. 9.503/1997, em 1/3, tornando-se definitiva em 3 anos e 4 meses de reclusão .
+Mantido, no mais, o acórdão impetrado.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, nos termos ora delineados.
+Publique-se. Intimem-se.
+EMENTA
