@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra acórdão assim ementado (fl. 230):
+FURTO SIMPLES. CRIME IMPOSSÍVEL. ABSOLVIÇÃO.
+Não obstante a só existência de vigilância no estabelecimento comercial não torne impossível a consumação de furtos, há a considerar, no caso presente, que o fato de ter sido o acusado observado, durante o iter criminis, pelos funcionários da loja, obstou a consumação da subtração, mostrando-se absolutamente ineficaz o meio de que se valeu o apelado para consumar o crime, mostrando-se impunível a tentativa.
+Sentença reformada. Réu absolvido.
+APELO PROVIDO.
+O recorrido, condenado em primeiro grau pela prática do delito previsto no art. 155, caput, do Código Penal, foi absolvido pelo Tribunal de origem no julgamento da apelação.
+Sustenta o Ministério Público que o acórdão recorrido, ao concluir pela ocorrência de crime impossível, absolvendo o réu, violou os arts. 17 e 155, caput, do Código Penal, e art. 386, inciso III, do Código de Processo Penal.
+Sustenta que a ineficácia do meio não é absoluta, mas sim relativa, não podendo ser confundida com a tentativa. A instalação de câmeras e a vigilância não são suficientes para impedir totalmente a subtração de bens.
+Argumenta que o sistema de vigilância constitui apenas um obstáculo à prática de furtos, mas não impede que eles aconteçam, afastando a hipótese de crime impossível.
+Requer o provimento do recurso, a fim de restabelecer a condenação.
+As contrarrazões foram apresentadas (fls. 253-258).
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial, com a seguinte ementa (fls. 310-312):
+RECURSO ESPECIAL. FURTO. ESTABELECIMENTO COMERCIAL. EXISTÊNCIA DE SEGURANÇA E DE VIGILÂNCIA ELETRÔNICA. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. PARECER PELO PROVIMENTO DO RECURSO ESPECIAL.
+É o relatório.
+Decido.
+Cumpridos os requisitos legais de admissibilidade, nos termos do Código de Processo Civil, passa-se à apreciação do mérito do recurso especial.
+A controvérsia gira em torno da possibilidade de reconhecimento do crime impossível em hipótese na qual o agente, embora vigiado por funcionários do estabelecimento comercial, pratica atos executórios tendentes à subtração de bens.
+Ao reconhecer a hipótese de crime impossível, o voto condutor do acórdão destacou o seguinte (fls. 227-230):
+Imputa-se ao acusado o fato de ingressar na Loja "Havan", subtrair os objetos a que alude a peça incoativa, e dela se retirar sem efetuar o pagamento.
+Mais, funcionários do estabelecimento teriam suspeitado do réu, que adentrou ao local, realizou a compra de alguns objetos de baixo valor e saiu, retornando logo em seguida, momento em que se desfez dos itens comprados e acondicionou na sacola da loja os produtos subtraídos, e, ao sair do local, foi abordado pelos empregados do estabelecimento, no lado externo, resultando recuperado o objeto da subtração.
+Veja-se a prova oral produzida em juízo, assim sintetizada na sentença, verbis:
+ ..
+A acrescer, o depoimento dos funcionários do estabelecimento, Alexsander e Milton, respectivamente, ouvidos somente na fase das indagações (1.7 e 1.8):
+O depoente relata que é fiscal de loja na Havan e que, nesta tarde, observou a entrada de um indivíduo já conhecido no estabelecimento, por práticar furtos no local, mas que nunca foi possivel fagrá-lo em ação, mas que o mesmo já foi avistado por meio de filmagens das câmeras de segurança atuando. Contudo, hoje a equipe de segurança atentou-se a sua presença e foi possivel verticar que o mesmo comprou alguns itens, pagou no caixa e retornou ao estabelecimento com a sacola em mãos. Que, em determinado momento, o individuo se desfez dos itens comprados e colocou na sacola os itens objetos da tentatica de furto. Que em seguida, ele saiu da loja e foi abordado pelo depoente e pelo funcionário Milton. Confirmada a situação, que os objetos que estavam na sacola não eram os mesmo que o individuo havia comprado, foi acionada a polícia civil, os policiais deslocaram até a loja e apresentaram o indiciado nesta delegacia. Nada mais
+ALEXANDER REINEHR
+O depoente relata que é fiscal de loja na Havan e que, nesta tarde, a equipe observou a entrada de um indivíduo já conhecido no estabelecimento, por práticar furtos no local. Assim. atentaram-se a sua presença e foi possível verificar que o mesmo comprou alguns objetos, pagou no caixa e retornou ao estabelecimento com a sacola em mãos. Que, em determinado momento, o indivíduo se desfez dos itens comprados e colocou na sacola os itens objetos da tentativa do furto.
+Que em seguida, ele saiu da loja e foi abordado pelo depoente e por Alexander. Confirmada a situação, que os objetos que estavam na sacola não eram os mesmo que o indivíduo havia comprado, foi acionada a policia civil, os policiais deslocaram até a loja e apresentaram o indiciado nesta delegacia. Nada mais.
+MILTON ANTUNES DA SILVA
+Tem-se, pois, que os funcionários da loja referiram terem observado a entrada de indivíduo já conhecido no local pela prática de furtos, o que teria determinado a equipe de segurança a acompanhar a ação do acusado, sendo que, ao se dirigir à saída da loja, foi abordado do lado externo, na posse dos produtos subtraídos.
+Observado tal cenário, está-se, evidentemente, diante de crime impossível pela absoluta ineficácia do meio empregado pelos agentes, pois, não obstante a só existência de vigilância no estabelecimento comercial não torne impossível a consumação de furtos, há a considerar, no caso presente, que o fato de ter sido o acusado observado, durante o iter criminis, pelos funcionários da loja, obstou a consumação da subtração, mostrando-se absolutamente ineficaz o meio de que se valeu o apelado para consumar o crime, mostrando-se impunível a tentativa.
+ ..
+Por conseguinte, presente a situação antes retratada, adequada a observância da regra posta no artigo 17 do Código Penal, razão por que absolvo o réu CASSIANO MAZZETTO LEITE, da imputação de infração ao disposto artigo artigo 155, caput, do Código Penal, fundado na regra posta no artigo 386, inciso III, do Código de Processo Penal.
+Daí por que voto por dar provimento ao apelo para absolver o réu.
+O voto divergente trouxe os seguintes argumentos (fl. 232):
+Apresento divergência.
+Não há falar em crime impossível pelo simples fato de o delito ter sido praticado em estabelecimento comercial com sistema de monitoramento e guarnecido por seguranças, uma vez que, de acordo com a Súmula 567 do Superior Tribunal de Justiça, o "sistema de vigilância realizado por monitoramento eletrônico ou por existência de segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto".
+O Superior Tribunal de Justiça, no julgamento do REsp 1.385.621/MG, sob o rito do artigo 543-C, § 2º, do Código de Processo Civil, consolidou o entendimento no sentido de que é relativa a inidoneidade da tentativa de furto em estabelecimento comercial dotado de segurança e de vigilância eletrônica.
+Na situação dos autos, o agente foi abordado após ultrapassar a porta de saída, circunstância que revela a inexistência de obstáculo intransponível à consumação do delito, razão pela qual não se pode falar em ineficácia absoluta do meio ou de absoluta impropriedade do objeto, requisitos necessários ao reconhecimento da figura do crime impossível, nos termos do artigo 17 do CP.
+Está demonstrada, portanto, a prática do delito de furto simples na modalidade tentada, considerando que, embora fosse possível a consumação do ilícito, a movimentação do acusado foi acompanhada pelos funcionários da Havan desde o momento em que se encontrava no interior da loja, apoderando-se dos objetos.
+Assim, fica mantida a condenação pela prática do furto.
+Porém, é caso de reconhecer a modalidade tentada do delito, porque o apelante estava sendo monitorado pelos empregados da vítima, tendo sido detido próximo ao prédio (entre a loja e a estátua da Havan), conforme foi declarado.
+No caso, a pena deve ser reduzida na fração de 1/3, porque o crime esteve muito próximo da consumação, com a incidência do artigo 14, inciso II, do Código Penal.
+Como se pode observar, a Corte local reconheceu o crime impossível pela absoluta ineficácia do meio de que se valeu o acusado para consumar o delito, em razão de os funcionários do estabelecimento terem observado a entrada do recorrido, já conhecido no local pela prática de furtos, monitorando-o durante toda a ação criminosa (inter criminis) e, ao se dirigir à saída da loja, foi abordado do lado externo, na posse dos produtos subtraídos.
+Ocorre que, nos termos da jurisprudência desta Corte Superior, o monitoramento por câmeras de segurança ou por funcionários da loja, por si só, não configura meio absolutamente ineficaz, tampouco torna impossível a consumação do crime de furto, não caracterizando o crime impossível previsto no art. 17 do Código Penal. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO QUALIFICADO.
+ABSOLVIÇÃO. CRIME IMPOSSÍVEL. INOCORRÊNCIA. SISTEMAS ELETRÔNICOS DE VIGILÂNCIA E DE SEGURANÇA. ABSOLUTA INEFICÁCIA DO MEIO NÃO EVIDENCIADA. SÚMULA 567/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A vigilância e observação do agente por empregado do estabelecimento não tornam, necessariamente, a consumação do crime impossível, pois é factível que o agente, por habilidade ou rapidez, burle o sistema ou despiste o funcionário e consiga empreender fuga do local, bem como pode ocorrer do próprio sistema vir a falhar por problemas técnicos. Inteligência da Súmula 567/STJ.
+2. Os sistemas de vigilância apenas reduzem a possibilidade de consumação dos furtos. Trata-se de medidas preventivas dos empresários na proteção de seus estabelecimentos, ante a ineficiência estatal, sendo completamente descabido cogitar conferir o benefício da excludente de tipicidade à criminalidade ocorrida contra aqueles que investem na segurança de seu patrimônio e, reflexamente, dos próprios clientes.
+3. Na hipótese, não resta configurado crime impossível, pois a paciente, apesar de monitorada pela funcionária do estabelecimento, chegou a subtrair 2 peças de queijo, colocando-as dentro de sua bolsa, tendo sido abordada pela funcionária do local assim que deixou o estabelecimento comercial depois de efetuar o pagamento apenas de um pacote de pães. Nos mesmos moldes, a corré Viviana também foi abordada depois de passar pelo caixa e deixar o estabelecimento, estando em sua posse outras duas peças de queijo, sendo que a corré Roseli somente foi abordada pelos funcionários do estabelecimento comercial por ter demonstrado nervosismo ao visualizar a abordagem de suas comparsas.
+4. Agravo regimental não provido. (AgRg no HC n. 735.552/SP, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/5/2022, DJe em 20/5/2022)
+Assim, mesmo que o agente seja conhecido por práticas anteriores de furto e esteja sendo monitorado durante toda a ação, sendo que a vigilância constante apenas dificulta, mas não impede absolutamente a consumação do delito, deixa de configurar-se crime impossível.
+O acórdão recorrido também consignou que o acusado foi abordado já fora do estabelecimento comercial, na posse do produtos subtraídos, portanto, efetivamente houve inversão da posse da coisa subtraída (res furtiva).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença e determinar a restituição dos autos ao Tribunal de origem para a análise das questões remanescentes trazidas na apelação .
+Publique-se.
+Intimem-se.
+EMENTA
