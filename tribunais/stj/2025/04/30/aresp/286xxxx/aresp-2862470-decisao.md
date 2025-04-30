@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CLAUDINEI SILVA NO NASCIMENTO contra decisão da vice-presidência do Tribunal de Justiça do Estado de Pernambuco, que não admitiu o recurso especial interposto pelo agravante, em razão da intempestividade.
+O agravante insurgiu-se contra a inadmissibilidade do recurso especial, sob o fundamento de que o dia 11/10/2021 foi feriado forense e o dia 12/10/2021 feriado nacional.
+Contraminuta às fls. 669-675 pelo não provimento do agravo em recurso especial.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 709-711).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+No tocante à tempestividade do recurso especial, a decisão de inadmissibilidade proferida no Tribunal de origem assim dispôs (e-STJ fl. 648):
+"Da análise dos requisitos extrínsecos de admissibilidade, observou-se que o acórdão impugnado foi publicado em 24/09/2021 (certidão de fls. 472), tendo a parte interposto o recurso apenas em 13/10/2021 (fls. 482), ultrapassando o prazo de 15 (quinze) dias, segundo o art. 1.003, §5º do CPC. Instado a se manifestar (fls. 506), a parte recorrente defendeu a tempestividade do Recurso Especial, ao argumento de que nos dias 11 e 12 de outubro feriam sido feriados nacionais de Nossa Senhora Aparecida. Todavia, o dia 11 de outubro de 2021 foi feriado estadual, sendo feriado nacional apenas o dia 12/10/2021.
+Nessa esteira, é firme a jurisprudência da Corte Superior, que "a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento oficial ou certidão expedida pelo Tribunal de origem,- não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública" (Aglnt no R Esp 1686469/AM, julgado em 21/03/2018).
+Também "no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/20 15"."
+No presente caso, consoante consignado na decisão agravada, o acórdão recorrido foi publicado em 24/9/2021 (fl. 648) e o recurso especial foi interposto apenas em 13/10/2021, de forma extemporânea.
+Com efeito, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos.
+Conforme consignado pelo Tribunal a quo, embora o recorrente tenha alegado que nos dias 11 e 12 de outubro feriam sido feriados nacionais de Nossa Senhora Aparecida, o feriado nacional é apenas o dia 12/10/2021. E, no caso, o recorrente não comprovou, no ato da interposição do recurso, a suspensão do expediente forense em Pernambuco no dia 11 de outubro de 2021.
+Vale registrar que é firme a jurisprudência desta Corte Superior no sentido de que a comprovação da suspensão de expediente forense no Tribunal local é ônus que incumbe ao recorrente no ato da interposição e por meio de documento idôneo (insuficiente, para tanto, a mera referência, nas razões do recurso, à existência de ato normativo do STJ, conforme indicado pelo recorrente no tópico recursal sobre tempestividade), sob pena de o recurso ser declarado intempestivo, nos termos do artigo 1.003, § 6º, do Código de Processo Civil. Sobre o tema:
+"DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial, em razão da intempestividade do agravo.
+2. O acórdão recorrido foi publicado em 30/7/2024, e o agravo em recurso especial foi protocolado em 15/8/2024, fora do prazo legal de 15 dias corridos, conforme o art. 994, VIII, c.c. os arts. 1.003, § 5º, do Código de Processo Civil, e art. 798 do Código de Processo Penal.
+II. Questão em discussão3. A questão em discussão consiste em saber se a ausência de comprovação de suspensão do prazo processual no ato da interposição do recurso torna o agravo em recurso especial intempestivo.
+III. Razões de decidir4. A Corte Superior pacificou o entendimento de que, sob o CPC/2015, a comprovação de feriado local ou suspensão do prazo recursal deve ser feita no ato da interposição do recurso, conforme art. 1.003, § 6º, do CPC/2015.
+5. A intempestividade do recurso é considerada vício grave e insanável, não sendo aplicável o disposto no parágrafo único do art. 932 do CPC/2015, que trata de vícios sanáveis.
+6. No caso, o agravante não apresentou documento idôneo comprovando a suspensão do prazo processual no momento da interposição do agravo em recurso especial, resultando na intempestividade do recurso.
+IV. Dispositivo e tese7. Agravo regimental improvido.
+Tese de julgamento: "1. A comprovação de feriado local ou suspensão do prazo recursal deve ser feita no ato da interposição do recurso, conforme o art. 1.003, § 6º, do CPC/2015. 2. A intempestividade do recurso é vício grave e insanável, não sendo aplicável o disposto no parágrafo único do art. 932 do CPC/2015".
+Dispositivos relevantes citados: CPC/2015, art. 994, VIII;
+CPC/2015, art. 1.003, § 5º; CPC/2015, art. 1.003, § 6º; CPC/2015, art. 932, parágrafo único; CPP, art. 798.Jurisprudência relevante citada: STJ, AREsp 957.821/MS, Rel. Min. Nancy Andrighi, j.
+20/11/2017, DJe 19/12/2017; STJ, AgInt no AREsp 1731185/CE, Rel. Min. Benedito Gonçalves, DJe 15/04/2021; STJ, AgRg no AREsp 1846610/GO, Rel. Min. Reynaldo Soares da Fonseca, j. 11/05/2021, DJe 14/05/2021; STJ, AgRg no AREsp 1540999/SP, Rel. Min. Sebastião Reis Júnior, j. 12/05/2020, DJe 19/05/2020; STJ, AgRg no AREsp 1524332/RN, Rel. Min. Laurita Vaz, j. 05/11/2019, DJe 28/11/2019.
+(AgRg no AREsp n. 2.750.631/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 18/2/2025, DJEN de 26/2/2025.)"
+Ademais, embora a parte recorrente alegue que juntou o documento comprobatório, verifica-se que o fez após o ato de interposição do Recurso Especial, em dissonância ao disposto no parágrafo 6º do artig o 1.003 do CPC e à própria jurisprudência do STJ.
+Com isso, é intempestivo o recurso especial na seara penal interposto fora do prazo de 15 (quinze) dias.
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, não conhecer do recurso especial.
+Publique-se. Intimem-se
+EMENTA
