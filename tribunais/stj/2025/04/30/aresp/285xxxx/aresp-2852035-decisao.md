@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAEL VICTOR DE JESUS ALVES contra decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+No agravo em recurso especial, a parte sustenta que não pretende revisar as provas amealhadas nos autos, mas demonstrar que em nenhum momento da instrução processual ficou claro que o acusado tinha conhecimento inequívoco de que o bem tinha origem ilícita, sendo assim, verifica-se que a mera suspeita não configura justo motivo para a prolação do decreto condenatório nos termos do art. 180, caput, do Código Penal (fls. 880-894).
+No recurso especial, sustenta-se violação dos arts. 386, V e VII, do Código de Processo Penal, e 180, §3º, do Código Penal, aduzindo a necessidade de absolvição por ausência de provas ou, subsidiariamente, a desclassificação da conduta para receptação culposa (fls. 787-818).
+Requer o provimento do recurso, a fim de reformar a decisão que inadmitiu o recurso especial interposto.
+Contraminuta apresentada pelo Ministério Público do Estado de Sergipe, manifestando-se pelo desprovimento do recurso (fls. 915-920).
+O Ministério Público Federal apresentou parecer, manifestando-se pelo não provimento do agravo, conforme a ementa a seguir (fls. 952-956):
+PENAL e PROCESSUAL PENAL. AREsp. Receptação. Pleito de absolvição ou de desclassificação da conduta. Revolvimento dos fatos e provas. Súmula nº 7/STJ. Não provimento do agravo.
+É o relatório.
+DECIDO.
+Atendidos os requisitos da tempestividade e da impugnação específica. Passo à análise do recurso especial.
+O recorrente foi condenado em primeiro grau, como incurso no art. 180, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto. Interposta apelação pela defesa, foi parcialmente conhecida e, na extensão conhecida, desprovida.
+Acerca da controvérsia trazida no recurso especial, colhe-se do acórdão recorrido (fls. 783-784):
+Diante da prova colhida, e a despeito do recorrente ter afirmado desconhecer a origem ilícita do bem, a realidade dos autos comprova a ocorrência do crime de receptação dolosa.
+A vítima do furto, sr. José Valdir da Silva, reconheceu Maxwell Santos Souza como o autor da subtração da Shineray, após ter visualizado as imagens obtidas de câmeras de segurança existentes no local.
+A Shineray então foi vendida ao recorrente, um desconhecido, na rua, pelo valor de R$ 200,00 (duzentos reais), segundo afirmado pelo corréu Maxwell Santos, sem recibo, sem documento e sem funcionar.
+O bem foi arrastado até a casa do réu e um dia após o furto, foi apreendido pela polícia, desmontado, em situação que, de acordo com o contexto probante, o réu tinha suficientes elementos para suspeitar da ilicitude de sua origem, tendo assumido através de sua conduta o resultado típico consubstanciado no art. 180, caput, do CP.
+Em crimes desse jaez, aliás, importa a inversão do ônus da prova (art.156, primeira parte, do Código de Processo Penal) e remete ao réu a prova da licitude da posse e da origem do bem, exigência não cumprida na hipótese em tela. A propósito, cito precedentes do STJ neste sentido:
+ ..
+Sendo assim, a simples alegação do réu de que desconhecia a origem ilícita do bem adquirido não possui robustez para, por si só, e desacompanhada de outros elementos, autorizar a absolvição e a pretendida desclassificação para a modalidade culposa.
+Verifica-se que o Tribunal de origem, soberano na reanálise dos fatos e das provas, concluiu pela existência de elementos suficientes para fundamentar o decreto condenatório, assentando que ficou evidenciado que a aquisição do bem por valor irrisório e sem documentação, além de sua condição de desmontado, são indicativos da ciência da origem ilícita ou, ao menos, de suspeita sobre tal origem.
+Nesse aspecto, para desconstituir o julgado, no sentido de absolver o recorrente do crime de receptação ou mesmo para desclassificar a conduta para a modalidade culposa, seria necessário o revolvimento do conjunto fático-probatório, procedimento vedado a este Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDO. RESP INADMISSÍVEL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. A defesa deixou de combater o seguinte fundamento nas razões do AREsp: Súmula n. 7 do STJ. Isso motivou o seu não conhecimento.
+3. Ademais, o STJ entende que, quando o agente é flagrado na posse do objeto receptado, cabe à defesa demonstrar o desconhecimento da origem ilícita do objeto, sem que esse mister caracterize ilegal inversão do ônus da prova.
+4. Além disso, é possível a condenação baseada em elementos do inquérito policial desde que corroborada por elementos produzidos em juízo, conforme ocorrido na hipótese dos autos. Assim, a pretensão era também inadmissível pelo óbice previsto na Súmula n. 83 do STJ.
+5. A pretendida desclassificação da conduta para a modalidade de receptação culposa ensejaria o revolvimento fático-probatório dos autos, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 2.387.294/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 12/9/2023, DJe de 20/9/2023).
+Nos termos da orientação jurisprudencial desta Corte, tendo sido apreendida a res furtiva em poder do réu, cabe a ele demonstrar que não tinha ciência da origem criminosa do bem, o que não ocorreu no caso dos autos, em que, segundo assentado no acórdão recorrido, a alegação do réu de que desconhecia a origem ilícita do bem adquirido encontrava-se "desacompanhada de outros elementos" (fl. 784), não havendo falar em inversão do ônus da prova.
+Com efeito, "É inviável, nesta via, a análise do elemento subjetivo do tipo do crime de receptação para atender ao pedido de desclassificação da conduta dolosa para culposa. O Tribunal a quo concluiu pela existência do do lo do agente diante das circunstâncias fáticas constantes dos autos. Com efeito, diante da impossibilidade de adentrar-se no ânimo do agente, o dolo ou a culpa devem ser extraídos de elementos externos, cabendo a cada uma das partes comprovar o alegado, nos termos do art. 156 do Código de Processo Penal, não se identificando nesse procedimento a inversão do ônus da prova" (HC 374.013/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/10/2018, DJe 31/10/2018; grifos acrescidos).
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. RECEPTAÇÃO (ART. 180, CAPUT, DO CP). DIREÇÃO DE VEÍCULO AUTOMOTOR SEM A DEVIDA PERMISSÃO GERANDO PERIGO DE DANO (ART. 309 DO CTB). INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. AGENTE SURPREENDIDO NA POSSE DE AUTOMÓVEL ORIUNDO DE FURTO. ART. 156 DO CPP. CONJUNTO PROBATÓRIO FIRME A INDICAR O CONHECIMENTO DA ORIGEM ESPÚRIA DO BEM. PLEITO DE ANULAÇÃO COM VISTAS À DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. A conclusão das instâncias ordinárias está em sintonia com a jurisprudência consolidada desta Corte, segundo a qual, no crime de receptação, se o bem houver sido apreendido em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova. Precedentes. 3. O pleito defensivo concernente à absolvição do crime de receptação, previsto no art. 180, caput, do CP, bem como sua desclassificação para a modalidade culposa, não comporta análise na presente via, de cognição sumária, na qual não se permite dilação fático-probatória.
+4. Habeas corpus não conhecido.
+(HC n. 483.023/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/2/2019, DJe de 15/2/2019.)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
