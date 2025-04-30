@@ -1,0 +1,30 @@
+DECISÃO
+Aproveito o bem lançado relatório do representante do Ministério Público Federal (e-STJ fl. 1.367):
+RODRIGO LOPES DA SILVA interpõe Recurso Ordinário contra o acórdão por meio do qual a 6ª Câmara Criminal do Tribunal de Justiça de Minas Gerais denegou o habeas corpus para manter o reconhecimento da validade do compartilhamento de relatório de inteligência financeira entre o COAF e os órgãos de persecução penal, a despeito da inexistência de ordem judicial. O recorrente aduz que o compartilhamento de relatório de inteligência financeira, sem autorização, viola o direito fundamental à intimidade, bem como ter a elaboração daquele relatório decorrido de provocação da autoridade policial sem a instauração de inquérito (fls. 1.343/1.358).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 1.367/1.369).
+É o relatório.
+Decido.
+Sobre o tema, cumpre uma breve digressão.
+Não se desconhece que a Suprema Corte decidiu, em precedente qualificado, que " é  constitucional o compartilhamento dos relatórios de inteligência financeira da UIF e da íntegra do procedimento fiscalizatório da Receita Federal do Brasil - em que se define o lançamento do tributo - com os órgãos de persecução penal para fins criminais sem prévia autorização judicial, devendo ser resguardado o sigilo das informações em procedimentos formalmente instaurados e sujeitos a posterior controle jurisdicional; 2. O compartilhamento pela UIF e pela RFB referido no item anterior deve ser feito unicamente por meio de comunicações formais, com garantia de sigilo, certificação do destinatário e estabelecimento de instrumentos efetivos de apuração e correção de eventuais desvios" (RE n. 1.055.941, Relator Ministro DIas Toffoli, Tribunal Pleno, julgado em 4/12/2019, processo eletrônico repercussão geral -mérito, DJe-243 divulgado em 5/102020, publicado em 6/10/2020, republicado: DJe-052, divulgado em 17/3/2021, publicado em 18/3/2021).
+Ademais, para a Primeira Turma da Suprema Corte, o fato de o pleito de encaminhamento dos referidos relatórios ter surgido da autoridade policial não acarreta nulidade, porquanto " n o Tema 990/RG, o Supremo Tribunal Federal reconheceu constitucional o compartilhamento de Relatórios de Inteligência Financeira (RIF) entre o COAF e as autoridades de persecução penal sem necessidade de prévia autorização judicial, inclusive com a possibilidade de solicitação do material ao órgão de inteligência financeira" (Rcl n. 61.944 AgR, relator CRISTIANO ZANIN, Primeira Turma, julgado em 2/4/2024, processo eletrônico, DJe s/n divulgado em 27/5/2024, publicado em 28/5/2024, grifei).
+Entretanto, esta Terceira Seção, ante a ainda presente divergência entre as Turmas do STF, exarou o seguinte julgado:
+DIREITO PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. SOLICITAÇÃO DIRETA DE RELATÓRIO DE INTELIGÊNCIA FINANCEIRA. ILICITUDE. RECURSO EM HABEAS CORPUS PARCIALMENTE PROVIDO.
+I. Caso em exame
+1. Recurso em habeas corpus interposto contra O acórdão do Tribunal Regional Federal da 1ª Região que denegou a ordem, mantendo a validade de Relatório de Inteligência Financeira (RIF) solicitado diretamente pela autoridade policial ao COAF, sem autorização judicial, no âmbito de investigação de crimes em licitações e contratos administrativos.
+2. O recorrente é investigado em inquérito policial que apura possíveis crimes de fraude à licitação e superfaturamento de preços, tendo sido decretadas medidas de busca e apreensão e quebra de sigilos de dados, bancário e fiscal.
+II. Questão em discussão
+3. A discussão consiste em saber se a solicitação direta de Relatório de Inteligência Financeira pela autoridade policial ao COAF, sem autorização judicial, é lícita e se os elementos derivados dessa solicitação podem ser utilizados no processo penal.
+4. Outro ponto é verificar a validade das decisões que autorizaram as medidas de busca e apreensão e as quebras de sigilo, fundamentadas nas informações colhidas através do RIF.
+III. Razões de decidir
+5. O atual entendimento da Sexta Turma - que leva em consideração, inclusive, a evolução do tema perante a Suprema Corte - não admite a solicitação direta ao COAF de Relatório de Inteligência Financeira pela autoridade policial sem autorização judicial (RHC n. 203.578/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 05/11/2024, DJe de 07/11/2024). Assim, o relatório e os elementos dele derivados devem ser desentranhados dos autos.
+6. As demais teses defensivas foram prejudicadas pela acolhida da tese principal. Contudo, sua análise não poderia ser feita diretamente por esta Corte Superior, sob pena de supressão de instância, devendo ser objeto de prévio exame na origem - o que não ocorreu.
+IV. Dispositivo e tese
+7. Recurso parcialmente provido para reconhecer a ilicitude da solicitação direta do Relatório de Inteligência Financeira pela autoridade policial ao COAF, bem como dos elementos derivados, cabendo ao Juízo de primeiro grau identificá-los e proceder ao seu desentranhamento.
+Tese de julgamento: 1. A solicitação direta de Relatório de Inteligência Financeira pela autoridade policial ao COAF, sem autorização judicial, é ilícita. 2. Os elementos derivados de tal solicitação devem ser desentranhados dos autos.
+Dispositivos relevantes citados: CPP, art. 157.
+Jurisprudência relevante citada: STJ, RHC 203.578/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 05/11/2024; STJ, HC 943.710/SC, Rel. Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 17/12/2024.
+(RHC n. 201.841/PI, relator Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, julgado em 20/3/2025, DJEN de 28/3/2025, grifei.)
+Logo, até a manifestação convergente da Suprema Corte sobre o tema, deve ser aplicado o entendimento esposado pela Terceira Seção do Superior Tribunal de Justiça acima colacionado.
+Ante o exposto, dou provimento ao recurso para determinar o desentranhamento do relatório de inteligência financeira solicitado pela autoridade policial, bem como as demais provas dele decorrentes.
+Publique-se. Intimem-se.
+EMENTA
