@@ -1,0 +1,85 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PATRICK SALES PAIVA, contra decisão do Tribunal de Justiça do Estado do Pará, que inadmitiu o apelo nobre ali interposto com fulcro na alínea "a", do permissivo constitucional.
+Consta dos autos que o Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 157, caput, c.c. o art. 71, caput, ambos do Código Penal, à pena de 4 (quatro) anos e 8 (oito) meses de reclusão, no regime inicial semiaberto, mais 15 dias-multa (fls. 145/166).
+Interposto recurso de apelação criminal pela Defesa, o Tribunal a quo, em decisão unânime, negou-lhe provimento (fls. 210/214), nos termos da ementa a seguir transcrita:
+APELAÇÃO CRIMINAL - ROUBOS MAJORADOS - DESCLASSIFICAÇÃO DE ROUBO PARA FURTO - INCIDÊNCIA DE ATENUANTE DE FORMA A REDUZIR PENA PROVISÓRIA PARA AQUÉM DO MÍMIMO LEGAL - IMPOSSIBILIDADE.
+1. Contatadas as graves ameaças mediante as quais foram subtraídos os pertences das vítimas, afastado está, de plano, a configuração do crime de furto, havendo perfeita subsunção do caso ao tipo penal do artigo 157, do Código Penal, roubo, não havendo que se falar em desclassificação.
+2. Encontra-se sedimentado de forma vinculante pelas Cortes Superiores o entendimento de que não é possível a diminuição da pena provisória para aquém do patamar legal mínimo por meio da incidência de atenuantes.
+3. A superação da jurisprudência consolidada pelos Tribunais Superiores (overrruling) ou a distinção do caso em relação ao entendimento vinculante (distinguishing) não foram demonstradas pela defesa.
+4. RECURSO CONHECIDO E IMPROVIDO.
+Nas razões do recurso especial, interposto com fulcro na alínea "a", do permissivo constitucional, a parte recorrente sustenta violação do artigos 65, III, alínea "d", do Código Penal (fls. 220/230).
+Para tanto, menciona que "diante da confissão espontânea, era de rigor aplicação de tal atenuante na segunda fase da dosimetria da pena, nos termos do que dispõe o art. 65, incisos III, alínea "d", do Código Penal" (fl. 222, grifos no original).
+Aduz, outrossim, que "diante da confissão espontânea, era de rigor aplicação de tal atenuante na segunda fase da dosimetria da pena, nos termos do que dispõe o art. 65, incisos III, alínea "d", do Código Penal" (fl. 224).
+Menciona, ademais, que houve afronta aos "PRINCÍPIOS CONSTITUCIONAIS DA SEGURANÇA JURÍDICA, DA BOA-FÉ OBJETIVA E DA PROTEÇÃO À CONFIANÇA" (fl. 224).
+Requer, ao final, "que este Augusto Superior Tribunal de Justiça, com a sabedoria e o senso de Justiça que lhe são inerentes, conheça do Recurso Especial e, no mérito, lhe dê provimento para readequação da pena do recorrente, ante a afronta ao art. 65, inc. III, "d", do Código Penal, nos termos dos argumentos já expostos" (fls. 229/230).
+Apresentadas as contrarrazões (fls. 233/237), o recurso foi inadmitido na origem pela incidência da Súmula n. 83/STJ (fls. 246/252).
+Daí a interposição do presente agravo em recurso especial, por meio do qual se refuta o fundamento utilizado para inadmitir o apelo nobre e se reiteram os argumentos anteriormente expendidos (fls. 254/257).
+A d. Subprocuradoria-Geral da República manifestou-se pelo desprovimento do recurso. Eis a ementa do parecer:
+AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL EM FACE DO RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. SÚMULA Nº 231/STJ. ENTENDIMENTO MANTIDO. INCIDÊNCIA DA SÚMULA 83/STJ.
+- A incidência de circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal, conforme dispõe a Súmula 231 dessa Corte, que permanece válida. Incidência da Súmula 83/STJ.
+- Parecer pelo conhecimento e desprovimento do agravo.
+É o relatório.
+Decido.
+Sem razão o recorrente, em seu reclamo.
+O eg. Tribunal a quo, por ocasião do julgamento da apelação criminal, no que interessa ao caso, assim se manifestou sobre a atenuante da confissão espontânea (fls. 210/214, grifei):
+2. Da atenuante de confissão espontânea
+A defesa requer a aplicação da atenuante de confissão espontânea sobre pena-base fixada no mínimo legal, de forma a reduzir a pena provisória para abaixo desse patamar, a despeito da existência da Súmula n. 231 do Colendo Superior Tribunal de Justiça (STJ), cuja observância, segundo a defesa, ofenderia os princípios da legalidade e da individualização da pena.
+Compulsando os autos, constato que, de fato, a atenuante em epígrafe foi considerada na segunda fase da dosimetria da pena do apelante, embora não tenha resultado na diminuição do quantum da pena provisória obtida (cf. ID 5306827, pág. 8).
+Nessa esteira, agiu corretamente MM. Magistrado. Explico.
+Como é cediço, a tese esposada pela defesa não é nova, estando o entendimento contrário já sedimentado na jurisprudência do Excelso Supremo Tribunal Federal que, em sede de repercussão geral (Tema n. 158, STF), assentou que o verbete 231 do C. STJ não ofende os princípios constitucionais da reserva legal, da proporcionalidade e da individualização da pena (ID 5306828, pág 5/7).
+Na mesma linha, foi firmado no âmbito do próprio Colendo Superior Tribunal de Justiça, fruto de recursos repetitivos, o Tema n. 190, cujo texto enfatiza que o critério trifásico trazido pelo artigo 68 do Código Penal não admite a extrapolação dos patamares mínimo e máximo para a aplicação da pena.
+Assim, o teor da Súmula 231 do C. STJ é objeto de jurisprudência vinculante amplamente debatida nas Cortes Extraordinárias, cuja aplicação é compulsória por parte dos Juízes e Tribunais submetidos às suas jurisdições, conforme artigo 927, III, do Código de Processo Civil, c/c o artigo 3º do Código de Processo Penal, estando a sentença condenatória, portanto, assentada em escorreita observância a essa regra.
+Dessa forma, considerando que o apelante não trouxe aos autos nem a demonstração de que houve superação da jurisprudência consolidada por parte dos Tribunais Superiores (overruling) e nem a distinção do caso apta a afastar o entendimento vinculante por este E. Tribunal ( distinguishing), indefiro o pedido da defesa.
+Nesse sentido, colaciono a seguinte jurisprudência:
+(..)
+Ante o exposto, pelos fundamentos apresentados neste voto e ainda em consonância com o parecer da Procuradoria de Justiça CONHEÇO DO RECURSO E NEGO-LHE PROVIMENTO, para manter a sentença em todos os seus termos.
+Da análise dos excertos acima transcritos, constata-se que o Tribunal de origem entendeu que, mesmo reconhecida a atenuante da confissão espontânea, inserta no art. 65, inciso III, alínea "d", do Código Penal, não poderia a pena ser diminuída abaixo do mínimo legal na segunda fase da dosimetria, em obediência ao comando inserto na Súmula n. 231/STJ.
+Correto o acórdão recorrido, pois conforme pacífica jurisprudência deste Superior Tribunal, "Nos termos da Súmula 231 do Superior Tribunal de Justiça, a incidência de circunstância atenuante não pode conduzir à fixação da pena abaixo do mínimo legal." (AgRg no REsp n. 2.102.026/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025).
+No mesmo sentido, e em reforço, cito os seguintes precedentes de ambas as Turmas que compõem a Terceira Seção desta eg. Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 140, § 3º DO CP. PLEITO DE SUPERAÇÃO DA SÚMULA N. 231, STJ. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte possui o entendimento de que é inviável a redução da pena abaixo do mínimo legal, em razão da presença de circunstância atenuante, conforme dispõe a Súmula n. 231 do Superior Tribunal de Justiça.
+2. A tese defensiva já foi amplamente analisada e rejeitada em âmbito superior, sendo reafirmada tanto pelo STJ, em sede de recurso repetitivo (Tema 190), quanto pelo Supremo Tribunal Federal, em repercussão geral (Tema 158), com o entendimento de que o critério trifásico de individualização da pena previsto no artigo 68 do Código Penal impede a fixação de penas abaixo do patamar mínimo abstratamente cominado. (REsp n. 2.168.870/AL, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 26/12/2024.)
+3. Agravo regimental não provido. (AgRg no AREsp n. 2.819.312/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/03/2025, DJEN de 26/03/2025, grifei).
+DIREITO PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL POR ATENUANTE. SÚMULA N. 231/STJ. TRÁFICO PRIVILEGIADO. FRAÇÃO DE REDUÇÃO DA PENA FIXADA EM 1/2. CONDIÇÃO DE "MULA". PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a aplicação da Súmula n. 231/STJ, que impede a redução da pena abaixo do mínimo legal por circunstância atenuante.
+2. A agravante pleiteia a aplicação da causa de diminuição do tráfico privilegiado no patamar máximo (2/3), alegando que o transporte da droga foi um fato isolado em sua vida.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se a circunstância atenuante pode reduzir a pena abaixo do mínimo legal, considerando a pendência de embargos de declaração sobre a Súmula n. 231/STJ.
+4. A segunda questão em discussão é a adequação da fração de redução da pena aplicada no tráfico privilegiado, considerando a condição de "mula" da agravante e seu conhecimento sobre o serviço a grupo criminoso.
+III. Razões de decidir
+5. A Súmula 231/STJ permanece válida e eficaz, não sendo afetada pela pendência de embargos de declaração, conforme decidido pela Terceira Seção do STJ.
+6. No que se refere à aplicação da causa de diminuição do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), a fração de 1/2 fixada não pode ser aumentada, pois a recorrente atuou como "mula", ficou demonstrado que possuía plena ciência de sua atuação para organização criminosa. A jurisprudência do STJ entende que, ainda que o agente não integre formalmente uma organização criminosa, a sua consciência de estar a serviço do tráfico organizado justifica a aplicação da fração de redução em patamar inferior ao máximo, conforme precedentes do STJ.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. A circunstância atenuante não pode reduzir a pena abaixo do mínimo legal, conforme a Súmula 231/STJ. 2. A fração de redução da pena no tráfico privilegiado deve ser fixada com base nas circunstâncias do caso concreto, sendo idônea a aplicação de percentual inferior ao máximo quando houver elementos que demonstrem que o agente possuía plena ciência de atuar a serviço de organização criminosa".
+Dispositivos relevantes citados: Súmula 231/STJ; CF/1988, arts. 5º, XLVI e XLVII; CP, art. 59; Lei n. 11.343/2006, art. 33, § 4º. Jurisprudência relevante citada: STJ, AgRg no HC n. 835.584/SP, rel. Min. Rogerio Schietti Cruz, Sexta Turma, DJe 3/11/2023; STJ, AgRg no AREsp n. 2.278.601/SP, rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 3/10/2023; STJ, AgRg no AREsp n. 2.196.412/MS, rel. Min. Antonio Saldanha Palheiro, Sexta Turma, DJe 29/9/2023; STF, RE n. 597.270, Tema 158 da repercussão geral. (AgRg no AREsp n. 2.648.731/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/03/2025, DJEN de 26/03/2025, grifei).
+DIREITO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. LATROCÍNIO. ATENUANTES. REDUÇÃO DA PENA ABAIXO DO MÍNIMO LEGAL. SÚMULA 231 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que negou provimento a recurso especial, mantendo a impossibilidade de redução da pena abaixo do mínimo legal, mesmo com a incidência de atenuantes, conforme a Súmula 231 do STJ.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a incidência de circunstância atenuante pode reduzir a pena abaixo do mínimo legal, em face da Súmula 231 do STJ e do entendimento do STF em repercussão geral.
+3. Avaliar a possibilidade de sobrestamento do recurso até o trânsito em julgado dos recursos especiais afetados para fins de análise da proposta de revisão do entendimento firmado na Súmula 231/STJ e do Tema Repetitivo n. 190/STJ.
+III. Razões de decidir
+4. A jurisprudência do STJ, reafirmada no julgamento dos Recursos Especiais n. 2.057.181/SE, n. 2.052.085/TO e n. 1.869.764/MS, mantém a validade da Súmula 231, em conformidade com o entendimento do STF no Tema 158 da repercussão geral.
+5. A função de uniformização jurisprudencial do STJ não autoriza a revisão de tese fixada em repercussão geral pelo STF, dada a eficácia vinculante desses precedentes.
+6. Por ocasião da afetação dos mencionados recursos especiais, o STJ decidiu por não determinar a suspensão do trâmite dos processos pendentes, de modo que a tese fixada originalmente vigorava antes do julgamento e continua a vigorar independentemente do trânsito em julgado.
+IV. Dispositivo e tese
+7. Agravo regimental improvido.
+Tese de julgamento: "1. A incidência de circunstância atenuante não pode reduzir a pena abaixo do mínimo legal, conforme o entendimento vinculante do Supremo Tribunal Federal no Tema 158 da repercussão geral. 2. O Superior Tribunal de Justiça não possui competência para revisar precedentes vinculantes fixados pelo Supremo Tribunal Federal. 3. O STJ decidiu pelo não sobrestamento dos recursos que abordam a aplicação da Súmula 231/STJ".
+Dispositivos relevantes citados: CP, art. 65, inciso II, alínea "d"; CF/1988, art. 5º, XLVI. Jurisprudência relevante citada: STF, RE 597.270, Tema 158, Repercussão Geral; STJ, Súmula 231; STJ, REsp 1.869.764/MS, Rel. Min. Rogerio Schietti Cruz, Terceira Seção, DJe 18/9/2024. (AgRg no REsp n. 2.165.599/PA, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 05/03/2025, DJEN de 11/03/2025, grifei).
+Assim, a conclusão da Corte estadual está de acordo com o entendimento predominante no âmbito deste Tribunal Superior, incidindo, na espécie, a Súmula n. 83/STJ.
+Por fim, no que diz respeito à alegação no sentido de que houve afronta aos "PRINCÍPIOS CONSTITUCIONAIS DA SEGURANÇA JURÍDICA, DA BOA-FÉ OBJETIVA E DA PROTEÇÃO À CONFIANÇA" (fl. 224), de igual modo, constato que o recurso não merece prosperar.
+Nos termos da jurisprudência deste Superior Tribunal, "não é atribuição desta Corte discorrer a respeito de violações a dispositivos constitucionais" (AgRg no AREsp n. 2.689.934/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. CORRUPÇÃO PASSIVA. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. OBSERVÂNCIA. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. COMPETÊNCIA DO STF. DECISÃO MANTIDA.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento firmado anteriormente, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - Quanto ao óbice da Súmula 83/STJ, a parte agravante deveria demonstrar, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior, a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+III - A ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre obsta, como ressaltado no decisum agravado, o conhecimento do agravo em recurso especial, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+IV - O Novo Código de Processo Civil e o Regimento Interno desta Corte (art. 932, inciso III, do CPC/2015 e arts. 34, inciso VII, e 255, § 4.º, ambos do RISTJ) permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que houver entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, a respeito da matéria debatida no recurso, não importando essa decisão em cerceamento de defesa ou violação ao princípio da colegialidade.
+V - Não compete a este eg. Superior Tribunal de Justiça se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do STF.
+Agravo regimental desprovido. (AgRg no AREsp n. 2.150.881/MS, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 08/08/2023, DJEN de 16/08/2023, grifei).
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
