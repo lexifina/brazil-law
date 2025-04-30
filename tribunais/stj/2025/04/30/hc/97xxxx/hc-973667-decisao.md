@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ISRAEL GASPAR DOS SANTOS e CINTIA DA ROCHA PEREIRA contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina.
+Extrai-se dos autos que os pacientes foram condenados às penas de 5 anos e 11 meses de reclusão, em regime semiaberto, mais o pagamento de 301 dias-multa (ISRAEL) e 4 anos e 11 meses de reclusão, em regime inicial semiaberto, mais o pagamento de 301 dias-multa (CINTIA) pela prática dos crimes previstos nos arts. 33, §4º, da Lei n. 11.343/06 e 14, caput, da Lei n. 10.826/03.
+Alega a impetrante a nulidade da busca pessoal e veicular, bem como da ilicitude da entrada dos policiais em quarto de motel sem autorização dos pacientes. Pede, ainda, a desclassificação do crime de porte para consumo próprio ou, alternativamente, seja majorada a fração de incidência da minorante do tráfico de drogas.
+Liminar indeferida (e-STJ, fls. 938-939).
+Informações prestadas (e-STJ, 946-1.051).
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ, fls. 1.056-1.064).
+É o relatório.
+Decido.
+O presente mandamus não pode ser examinado.
+Com efeito, em consulta ao sítio do Tribunal de origem, verifica-se pendente a análise de recursos especiais interpostos pelos pacientes, não sendo possível a utilização simultânea de duas modalidades de impugnação de decisão judicial, sob pena de violação lato sensu ao princípio da unirrecorribilidade recursal. Vejamos:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. HABEAS CORPUS NÃO CONHECIDO. MERA REITERAÇÃO DE PEDIDO APRESENTADO EM RECURSO ESPECIAL. IDENTIDADE DE PARTES, DE PEDIDO E DE CAUSA DE PEDIR. LITISPENDÊNCIA. VIOLAÇÃO DO PRINCÍPIO DA UNIRRECORRIBILIDADE. IMPETRAÇÃO INADMISSÍVEL. AGRAVO REGIMENTAL DESPROVIDO. I. CASO EM EXAME
+1. Embargos de declaração opostos contra decisão que não conheceu do habeas corpus, sob o fundamento de que se trata de mera reiteração de pedido já formulado em recurso especial (REsp nº 2.051.590), com a mesma causa de pedir e objeto, impugnando o mesmo acórdão do Tribunal Regional Federal da 2ª Região. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em verificar a admissibilidade do habeas corpus quando este é utilizado de forma simultânea ou reiterativa em relação a outro recurso próprio, já interposto e em tramitação, sob pena de violação do princípio da unirrecorribilidade das decisões judiciais. III. RAZÕES DE DECIDIR
+3. Os embargos de declaração, por disposição do art. 1.024, § 3º, do CPC, podem ser recebidos como agravo regimental quando o pedido formulado denotar inconformismo com o resultado do julgamento. No caso concreto, os embargos foram convertidos em agravo regimental.
+4. O habeas corpus, como instrumento constitucional de proteção da liberdade, não pode ser utilizado para reiterar pedido já submetido ao exame desta Corte em recurso próprio. A jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que "não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto" (AgRg no HC n. 678.732/SP, rel. Min. Jesuíno Rissato, DJe de 8/10/2021).
+5. O uso simultâneo de habeas corpus e recurso ordinário ou especial contra o mesmo ato decisório viola o princípio da unirrecorribilidade das decisões judiciais, configurando subversão do sistema recursal (AgRg no HC n. 823.337/SP, rel. Min. Laurita Vaz, DJe de 21/8/2023).
+6. O presente habeas corpus foi corretamente inadmitido, pois visa a impugnar o mesmo acórdão já atacado no REsp nº 2.051.590, interposto pela mesma parte, com idêntico pedido e causa de pedir, o que configura litispendência. IV. DISPOSITIVO
+7. Agravo regimental desprovido. (AgRg no HC n. 953.786/RJ, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/12/2024, DJEN de 17/12/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. IMPETRAÇÃO DE HABEAS CORPUS DE FORMA CONCOMITANTE COM RECURSO LEGALMENTE PREVISTO. IMPOSSIBILIDADE. PRINCÍPIO DA DIALETICIDADE. AUSÊNCIA.
+1. De acordo com o entendimento deste Tribunal Superior, "à luz do princípio da dialeticidade, constitui ônus do recorrente, além da exposição das razões de fato e de direito de forma clara e precisa, também a demonstração da ilegalidade deduzida nas razões recursais, de sorte a impugnar os fundamentos da decisão/acórdão recorridos" (AgRg no REsp n. 1.854.348/MS, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/6/2020, DJe de 23/6/2020). Precedentes.
+2. Nesse contexto, "o ônus imposto pelo princípio da dialeticidade é corolário das categorias lógicas e abstratas do processo e incide em todos os meios de impugnação de decisões judiciais, inclusive o habeas corpus" (AgRg no HC n. 713.800/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022).
+3. Conforme asseverado na decisão monocrática ora combatida, o pedido de habeas corpus não pode ser conhecido, uma vez que foi impetrado de forma concomitante com a interposição de recurso especial perante a Corte de origem, sob pena de violação do princípio da unirrecorribilidade.
+4. Em vez de rebater os fundamentos que ensejaram o indeferimento liminar da impetração, o recorrente se limita a insistir nas mesmas teses apresentadas na inicial do writ.
+5. Agravo regimental não conhecido. (AgRg no HC n. 952.239/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
