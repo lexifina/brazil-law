@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão do Tribunal de Justiça do Estado do Mato Grosso do Sul.
+A defesa do paciente alega que houve ilegalidade na fixação da pena, pois não foi reconhecida a atenuante da confissão espontânea, embora a confissão extrajudicial do réu tenha sido utilizada como fundamento tanto na sentença quanto no acórdão de apelação.
+Ademais, sustenta a defesa que o reconhecimento da atenuante é obrigatório, conforme o artigo 65, III, "d", do Código Penal, e a Súmula 545 do STJ, que estabelece sua incidência quando a confissão for utilizada para a formação do convencimento do julgador. Destaca-se que, mesmo que retratada em juízo, a confissão serviu para demonstrar a autoria e elucidar os fatos, sendo suficiente para o benefício legal.
+A petição requer a redução da pena aplicada, sob o argumento de que a omissão do reconhecimento da atenuante caracteriza constrangimento ilegal, tratando-se de matéria de ordem pública, cognoscível a qualquer tempo e grau de jurisdição. Pede-se, portanto, a concessão do habeas corpus para o redimensionamento da pena.
+As informações foram prestadas (e-STJ fls. 178-181 e 191-199).
+O parecer ministerial é pelo "não conhecimento do writ e a concessão de habeas corpus, de ofício, para reconhecer a atenuante da confissão espontânea e proceder a respectiva redução da pena intermediária" (e-STJ fls. 201-204).
+É o relatório.
+Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Na hipótese, seria cabível, em tese, a interposição de recurso ordinário, razão pela qual não há possibilidade de impetração de habeas corpus.
+Por outro lado, nos termos do artigo 654, § 2º, do Código de Processo Penal, a ilegalidade que justifica a impetração e obtenção de habeas corpus substitutivo deve ser explícita ou evidente, de constatação direta.
+A controvérsia gira em torno do reconhecimento da atenuante da confissão espontânea, uma vez que teria sido utilizada como elemento para fundamentar a condenação do paciente.
+Quanto ao reconhecimento da confissão espontânea, o entendimento desta Corte é no sentido de que, ainda que parcial ou qualificada, deve a confissão ser reconhecida nos casos em que servir como fundamento para a condenação.
+Nesse sentido:
+"O Superior Tribunal de Justiça tem assentado que, nos casos em que a confissão do acusado servir como um dos fundamentos para a condenação, deve ser aplicada a atenuante em questão, pouco importando se a confissão foi espontânea ou não, se foi total ou parcial, ou mesmo se foi realizada só na fase policial com posterior retratação em juízo (AgRg no REspn. 1.412.043/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em10/3/2015, DJe 19/3/2015). 2. A matéria, inclusive, encontra-se sumulada, consoante o enunciado n. 545 da Súmula desta Corte, que dispõe: Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal" (AgRg no HC n. 881.988/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2024, DJe de 13/3/2024)
+Acerca desse ponto, a sentença condenatória assim destacou (e-STJ fl. 58, grifei):
+Interrogado em juízo, o acusado Jhony se retratou da confissão feita na delegacia, negando a autoria delitiva, alegando ter sido uma armação de sua ex-esposa Juliana para se vingar após a separação, tendo sido preso e sofrido tortura para confessar o roubo e assinar seu depoimento. Alegou conhecer apenas a acusada Fernanda, não conhecendo os demais corréus e que no dia e hora do roubo estava na sua casa com a atual esposa. Por fim, negou qualquer participação no ilícito e ter a vítima feito o reconhecimento errado, posto que se tivesse praticado o roubo confessaria para obter a redução da pena.
+A partir do trecho transcrito, observa-se que, no caso em análise, o paciente não reconheceu a autoria delitiva, destacando até mesmo que sua confissão por ocasião do inquérito policial teria sido obtida mediante tortura, bem como que os fatos seriam resultado de uma "armação" de sua ex-companheira em seu desfavor.
+Além disso, vislumbra-se que diversos outros elementos foram utilizados para embasar o decreto condenatório em desfavor do paciente, de modo que eventual confissão, que posteriormente foi retratada pelo paciente sob o argumento de que teria sido coagido a fazê-lo, sequer foi considerada, conforme se destaca (e-STJ, fl. 100, com grifos acrescidos):
+No presente caso, embora a vítima tenha dito que reconheceu todos os autores do delito, em juízo realizou o reconhecimento apenas do acusado Jhony, na ocasião em que lhe foi mostrada a fotografia que consta dos autos.
+Aliás, a vítima reconheceu o Jhony e apontou não tem dúvidas de que se trata da pessoa que lhe desferiu um golpe, acrescentando que durante a corrida de Uber, já estava desconfiado, e por isso ficou atento quando à fisionomia dos passageiros que transportava.
+E mais, dos depoimentos prestados pelos policiais em juízo, restou evidente que não há dúvida da autoria apenas com relação ao réu Jhony, o que se extrai porque a vítima se mostrou incisiva no tocante ao reconhecimento deste, inclusive em várias oportunidades que foi questionado.
+Em suma, pode até ter ocorrido de os demais corréus terem participado da empreitada criminosa, porém, não se tem a mesma certeza conferida ao réu Jhony.
+Assim, as instâncias ordinárias demonstraram um juízo de certeza em relação à autoria delitiva do paciente na medida em que: a) foi reconhecido pela vítima em juízo; b) foi apontado como sendo o indivíduo que desferiu um golpe na vítima; c) foi apontado como autor do crimes pelos policiais militares. Ou seja, não houve qualquer menção à confissão que teria sido realizada em sede de investigação policial.
+Esse entendimento se encontra em consonância com a orientação desta Corte superior. Nesse sentido:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. PENA-BASE. VALORAÇÃO DE QUALIFICADORAS E CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO IDÔNEA. CONFISSÃO ESPONTÂNEA NÃO CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental em habeas corpus interposto contra decisão monocrática que não conheceu do habeas corpus, alegando inexistência de constrangimento ilegal na dosimetria da pena imposta ao agravante, condenado por tentativa de homicídio qualificado.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se houve ilegalidade na dosimetria da pena, especialmente quanto à valoração das qualificadoras e das consequências do delito, e se a atenuante da confissão espontânea deveria ter sido aplicada.
+III. Razões de decidir
+3. A valoração negativa das consequências do delito foi considerada correta, pois as graves lesões sofridas pela vítima não se confundem com a qualificadora do meio cruel.
+4. A pluralidade de qualificadoras foi adequadamente utilizada para majorar a pena-base, conforme jurisprudência do STJ.
+5. A atenuante da confissão espontânea não foi aplicada, pois o agravante negou os elementos do crime, não contribuindo para a condenação.
+6. A dosimetria da pena foi devidamente fundamentada, não havendo flagrante ilegalidade que justifique a revisão em habeas corpus.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido.
+Tese de julgamento: "1. As graves consequências do delito podem ser valoradas negativamente na dosimetria da pena, independentemente da qualificadora do meio cruel. 2. A pluralidade de qualificadoras pode ser utilizada para majorar a pena-base. 3. A atenuante da confissão espontânea não se aplica quando a confissão não contribui para a condenação".
+Dispositivos relevantes citados: Código Penal, art. 121, § 2º, incisos II, III e IV; art. 14, inciso II; art. 65, III, "d".
+Jurisprudência relevante citada: STJ, AgRg no HC 857.647/SP, Rel. Min. Sebastião Reis Júnior, Sexta Turma, julgado em 26/2/2024; STJ, AgRg no HC 811.674/RS, Rel. Min. Laurita Vaz, Sexta Turma, julgado em 11/9/2023; STJ, AgRg no REsp 1925430/MS, Rel. Min. Ribeiro Dantas, Quinta Turma, DJe 10/08/2021.
+(AgRg no HC n. 959.777/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/3/2025, DJEN de 8/4/2025, grifou-se)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DO ART. 171, § 3º C/C 14, II, DO CP. SUPOSTA CONFISSÃO OBTIDA MEDIANTE TORTURA. NÃO COMPROVAÇÃO NOS AUTOS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVA. MOTIVAÇÃO. CERCEAMENTO DE DEFESA. AUSÊNCIA. RECURSO NÃO PROVIDO.
+1. A alegação de nulidade de confissão por suposta tortura policial é inviável, por demandar reexame fático-probatório dos autos, incompatível com via eleita. (AgRg no HC n. 701.719/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 13/5/2022 - negritei.)
+2. Ainda que se desconsiderasse a confissão da recorrente em sede policial, há nos autos conjunto probatório suficiente para o decreto condenatório.
+3. A caracterização de cerceamento do direito de defesa pelo indeferimento de alguma prova requerida pela parte possui como condicionante possível arbitrariedade praticada pelo órgão julgador, e não simplesmente a consideração ou o entendimento da parte pela indispensabilidade de sua realização (RHC n. 166.122/SE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 24/10/2022.)
+4. O indeferimento do pedido de realização de novo exame pericial foi formulado momentos antes da audiência de instrução e julgamento e considerado protelatório pelo julgador. Como é de conhecimento, ao magistrado, no curso do processo penal, é facultado o indeferimento, de forma motivada, das diligências protelatórias, irrelevantes ou impertinentes, exatamente como in casu.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 2.026.643/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023.)
+Po rtanto, observa-se que não há ilegalidade no indeferimento fundamentado da produção das provas solicitadas.
+Por esses fundamentos, não conheço do habeas corpus substitutivo e, na análise de ofício, não visualizo elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
