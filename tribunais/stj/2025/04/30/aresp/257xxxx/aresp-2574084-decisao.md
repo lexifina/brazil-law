@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOAO RAFAEL APOLINARIO DE SOUZA contra a decisão do Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial apresentado na Apelação Criminal n. 1500398-86.2020.8.26.0545.
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do agravo em recurso especial (fls. 1.828/1.830).
+É o relatório.
+O agravo de fls. 1.729/1.759 é inadmissível.
+Inicialmente, esclareço que a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a deficiência na fundamentação do recurso (Súmula 284/STF); a ausência de impugnação de todos os fundamentos do acórdão impugnado (Súmula 283/STF); a falta de prequestionamento (Súmulas 282 e 356/STF) quanto à alegada falta de justificativa em relação ao acréscimo da continuidade delitiva acima do mínimo (fl. 1.722); a falta de demonstração adequada do dissídio jurisprudencial; e a necessidade de revolvimento de matéria fático-probatória (Súmula 7/STJ).
+Contudo, a parte agravante, nas razões do agravo em recurso especial, restringiu-se a afirmar, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório. N ão foi realizado o necessário cotejo entre o explicitado no acórdão combatido e as teses veiculadas no apelo nobre. A propósito: AgRg no AREsp n. 2.125.486/CE, Ministro Messod Azulay Neto, Quinta Turma, DJe 16/6/2023; e AgRg no AREsp n. 2.143.166/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/6/2023.
+Ademais, o agravante não impugnou, de maneira específica, a fundamentação atinente à falta de prequestionamento (Súmulas 282 e 356/STF).
+Nesse panorama, verifico que deixou de ser observada a dialeticidade recursal (art. 932, inciso III, do CPC, c/c o art. 3º do CPP). Por conseguinte, o agravo em recurso especial carece do indispensável pressuposto de admissibilidade atinente à impugnação adequada e concreta de todos os fundamentos empregados pela Corte a quo para não admitir o recurso especial, a atrair a incidência da Súmula 182/STJ. Nesse sentido: AgRg no AREsp n. 2.423.301/RS, Ministro Messod Azulay Neto, Quinta Turma, DJe 24/10/2023.
+Ante o exposto, não conheço do agravo em recurso especial (arts. 932, III, do CPC/2015, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. IMPUGNAÇÃO DEFICIENTE. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA 182/STJ.
+Agravo em recurso especial não conhecido.
