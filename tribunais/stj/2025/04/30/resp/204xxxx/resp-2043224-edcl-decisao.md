@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de novos embargos de declaração opostos pelo SINDICATO DOS TRABALHADORES DAS UNIVERSIDADES FEDERAIS DE PERNAMBUCO contra decisão que acolheu parcialmente os anteriores embargos declaratórios (fls. 2994-2996).
+Nas razões dos embargos, sustenta a parte ora embargante, em síntese, a ocorrência de contradição no decisum em relação ao pedido de que seja afastada a compensação dos honorários determinada na sentença, visto que "o fundamento do acórdão recorrido está baseado na data da propositura da ação e não da data da prolação da sentença" (fls. 3000-3003).
+Requer, assim, o acolhimento dos embargos, com atribuição de efeitos infringentes, para que "seja reconhecida a impossibilidade de compensação da verba honorária, que deve ser fixada nos termos do art. 85, §§ 2º, 3º a 5º, do CPC/2015" (fl. 3003).
+Sem impugnação (fl. 3009).
+É o relatório.
+Decido.
+A irresignação merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os embargos de declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material, o que se verifica na espécie.
+Sobre o tema, o Tribunal de origem manteve a compensação, pois "as regras aplicáveis aos honorários advocatícios serão aquelas previstas no Código de Processo Civil em vigor quando do ajuizamento da ação, que, no caso dos autos, ocorreu ainda sob a vigência do CPC/73 (os embargos à execução foram opostos em 17/09/15)" (fl. 1773; sem grifos no original).
+De fato, o entendimento firmado no acórdão recorrido encontra-se em confronto com a jurisprudência desta Corte, no sentido de que a lei aplicável para a fixação inicial da verba honorária é aquela vigente na data da sentença que a impõe.
+Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova.
+2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado. Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos. (EAREsp 1.255.986/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 6/5/2019, sem grifos no original.)
+No caso em exame, inaplicável o comando disposto no art. 85, § 14, do Código de Processo Civil, uma vez que os embargos à execução opostos em 17/9/2015 foram julgados improcedentes em 29/7/2016 (fls. 1067-1071), já na vigência do novo Estatuto Processual Civil. Assim, os embargos declaratórios devem ser acolhidos, com efeitos modificativos, para afastar a compensação dos honorários advocatícios.
+Ante o exposto, ACOLHO os embargos declaratórios, com efeitos infringentes, para DAR PARCIAL PROVIMENTO ao recurso especial do SINTUFEPE, apenas para afastar a compensação dos honorários advocatícios. Deixo de inverter os ônus em razão da sucumbência mínima (art. 86, parágrafo único, do N CPC).
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SENTENÇA PROLATADA NOS EMBARGOS À EXECUÇÃO NA VIGÊNCIA DO NOVO CÓDIGO DE PROCESSO CIVIL. SUCUMBÊNCIA RECÍPROCA. COMPENSAÇÃO DA VERBA HONORÁRIA. IMPOSSIBILIDADE. ART. 85, § 14, DO NCPC. VÍCIO. OCORRÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS, COM EEITOS INFRINGENTES.
