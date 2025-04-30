@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Antonio Saldanha Palheiro.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 284/STF. CONDENAÇÃO TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. REVOLVIMENTO DE PROVAS. INADEQUAÇÃO.
+1. Embora a defesa afirme, nas razões do presente agravo, que o habeas corpus não foi admitido por se voltar contra decisão monocrática de desembargador (e-STJ fl. 68), verifica-se que esse fundamento não foi referido na decisão ora atacada, na qual se assentou somente a impossibilidade de utilização do writ como substituto de recurso próprio. Incidência da Súmula n. 284/STF.
+2. Não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. No caso, após o trânsito em julgado da condenação, a defesa ajuizou pedido de revisão criminal, que foi julgado improcedente pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS. Por conseguinte, contra esse acórdão seria cabível, em tese, recurso especial, não utilizado pela defesa, o que evidencia a indevida utilização do habeas corpus como substitutivo de recurso próprio, o que esta Corte tem constantemente repudiado.
+3. Ainda que assim não fosse, contata-se que o pleito absolutório manifestado pela defesa implicaria a necessidade de amplo revolvimento probatório, o que não se coaduna com os estreitos limites da via eleita.
+4. Agravo regimental parcialmente conhecido e desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por LEONARDO MELO MIRANDA contra decisão emanada da Presidência desta Corte que indeferiu liminarmente o habeas corpus impetrado em seu favor.
+Alega a defesa, neste recurso, que há flagrante ilegalidade, devendo o agravante ser absolvido em relação ao crime de associação para o tráfico de entorpecentes em razão da ausência de provas suficientes de estabilidade e permanência do vínculo associativo.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 284/STF. CONDENAÇÃO TRANSITADA EM JULGADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. REVOLVIMENTO DE PROVAS. INADEQUAÇÃO.
+1. Embora a defesa afirme, nas razões do presente agravo, que o habeas corpus não foi admitido por se voltar contra decisão monocrática de desembargador (e-STJ fl. 68), verifica-se que esse fundamento não foi referido na decisão ora atacada, na qual se assentou somente a impossibilidade de utilização do writ como substituto de recurso próprio. Incidência da Súmula n. 284/STF.
+2. Não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção. No caso, após o trânsito em julgado da condenação, a defesa ajuizou pedido de revisão criminal, que foi julgado improcedente pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS. Por conseguinte, contra esse acórdão seria cabível, em tese, recurso especial, não utilizado pela defesa, o que evidencia a indevida utilização do habeas corpus como substitutivo de recurso próprio, o que esta Corte tem constantemente repudiado.
+3. Ainda que assim não fosse, contata-se que o pleito absolutório manifestado pela defesa implicaria a necessidade de amplo revolvimento probatório, o que não se coaduna com os estreitos limites da via eleita.
+4. Agravo regimental parcialmente conhecido e desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Preliminarmente, deve-se asseverar que o writ foi impetrado buscando reverter condenação já transitada em julgado.
+Embora a defesa afirme, nas razões do presente agravo que o habeas corpus não foi admitido por se voltar contra decisão monocrática de desembargador (e-STJ fl. 68), verifica-se que esse fundamento não foi referido na decisão ora atacada, na qual se assentou somente a impossibilidade de utilização do writ como substituto de recurso próprio.
+Assim, neste ponto, o recurso esbarra no óbice da Súmula n. 284/STF.
+Para além disso, não se pode olvidar que o Superior Tribunal de Justiça, de longa data, vem buscando fixar balizas para a racionalização do uso do habeas corpus, visando a garantia não apenas do curso natural das ações ou revisões criminais mas também da efetiva priorização do objeto ínsito ao remédio heroico, qual seja, o de prevenir ou remediar lesão ou ameaça de lesão ao direito de locomoção.
+No caso, após o trânsito em julgado da condenação, a defesa ajuizou pedido de revisão criminal, que foi julgado improcedente pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS. Por conseguinte, contra esse acórdão seria cabível, em tese, recurso especial, não utilizado pela defesa, o que evidencia a indevida utilização do habeas corpus como substitutivo de recurso próprio, o que esta Corte tem constantemente repudiado.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E OCULTAÇÃO DE CADÁVER. PLEITO DE REVISÃO DA CONDENAÇÃO PROFERIDA PELO TRIBUNAL DO JÚRI TRANSITADA EM JULGADO. IMPOSSIBILIDADE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Após o trânsito em julgado, a defesa buscou a exclusão da qualificadora do motivo fútil e a diminuição da pena por meio do ajuizamento de revisão criminal que foi indeferida. Delineadas essas balizas, verifico não ser o caso de se admitir a presente impetração, pois o habeas corpus está sendo usado para desconstituir sentença condenatória já transitada em julgado, o que esta Corte tem pacificamente repelido.
+2. Ademais, contra o acórdão prolatado no julgamento da revisão criminal seria, em tese, cabível o recurso especial, não interposto.
+3. A decisão que se busca reformar foi proferida pelo Conselho de Sentença e, nos termos do art. 5º , XXVIII, c, da Constituição Federal, é soberana. Assim, somente se evidenciada flagrante ilegalidade o veredicto do Tribunal do Júri poderá ser excepcionalmente afastado, o que não é a situação dos autos.
+4. Por fim, não se revela possível rever a conclusão dos jurados pelos motivos já expostos, bem como por não se admitir dilação probatória na via eleita.
+5. Agravo Regimental desprovido.
+(AgRg no HC n. 912.053/SP, de minha relatoria, Sexta Turma, julgado em 16/10/2024, DJe de 23/10/2024.)
+Ainda que assim não fosse, contata-se que o pleito absolutório manifestado pela defesa implicaria a necessidade de amplo revolvimento probatório, o que não se coaduna com os estreitos limites da via eleita.
+A propósito:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. ROUBO E AMEAÇA. PEDIDO ABSOLUTÓRIO. ALEGAÇÃO DE VIOLAÇÃO ÀS FORMALIDADES DO ART. 226 DO CPP. INOCORRÊNCIA. INSTÂNCIAS DE ORIGEM CONSIGNARAM AUSÊNCIA DE IRREGULARIDADE. ATENDIMENTO AOS REQUISITOS LEGAIS. IMPOSSIBILIDADE DE ABSOLVIÇÃO PELA VIA DO WRIT. REVOLVIMENTO FÁTICO-PROBATÓRIO. AUTORIA E MATERIALIDADE EVIDENCIADOS PELO TRIBUNAL DE ORIGEM. ORDEM NÃO CONHECIDA.
+I. Caso em exame 1. Habeas corpus impetrado em favor do paciente, condenado por roubo e ameaça, contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a condenação com mitigação da pena. A defesa alega constrangimento ilegal, sustentando que não há provas suficientes para embasar a condenação.
+II. Questão em discussão 2. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio para reavaliar provas e absolver os pacientes por insuficiência probatória, bem como determinar se a ausência de cumprimento formal do art. 226 do CPP no reconhecimento pessoal acarreta nulidade do procedimento III. Razões de decidir 3. A jurisprudência não admite habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, situação que autoriza a concessão de ordem de ofício.
+4. No caso concreto, o Tribunal de origem entendeu que não houve irregularidade no procedimento de reconhecimento, não havendo que se falar em nulidade.
+5. O habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do writ, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no RHC n. 198.668/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 1/7/2024, DJe de 3/7/2024).
+6. No caso, a Corte de origem consignou autoria e materialidade delitiva especialmente pelos depoimentos das vítimas e testemunhas, que prestaram esclarecimentos harmônicos sobre a prática delitiva que por eles foi presenciada, o que é corroborado pelo fato do paciente ter sido perseguido e preso em flagrante logo após a prática do roubo na posse do celular da vítima, cuja detenção se deu com auxilio de uma das testemunhas. Alterar o quadro formado no Tribunal de origem demanda inviável dilação probatória no habeas corpus.
+7. Não se verifica flagrante ilegalidade que justifique a concessão da ordem de ofício.
+IV. Dispositivo 8. Habeas corpus não conhecido.
+(HC n. 885.127/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 26/11/2024, DJEN de 11/12/2024.)
+Ante o exposto, conheço parcialmente do recurso e nego-lhe provimento.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
