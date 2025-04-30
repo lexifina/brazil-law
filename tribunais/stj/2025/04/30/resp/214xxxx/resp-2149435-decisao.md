@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILLIAMS KLIVER DOMINGOS DO VALE com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO , assim ementado (e-STJ fls. 283):
+DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. OBRIGAÇÃO DECORRENTE DE RELAÇÃO PESSOAL. SENTENÇA MANTIDA 1. APENAS OS TITULARES DE UMA RELAÇÃO JURÍDICA PODEM DISCUTI-LA EM JUÍZO, SENDO IRRELEVANTE O FATO DE SER O CONSUMIDOR FINAL. 2. RECURSO DESPROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 315/328).
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 186, 927 e 944 do Código Civil; 373, I, 357, 369, 370 e 1.022 do Código de Processo Civil e art. 5º da Constituição Federal, argumentando, em suma, que "é valida a abordagem acerca das condições do consumidor por equiparação nas relações de fornecimento de energia." (e-STJ fl. 338).
+Contrarrazões às e-STJ fls. 354/365.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 409/410.
+Passo a decidir.
+Em relação ao indicado dispositivo da Constituição da República, cabe salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No tocante aos demais preceitos ditos por contrariados, não é possível conhecer do recurso especial, uma vez que as razões recursais não explicam de que forma os dispositivos foram violados pelo entendimento adotado pelo acórdão recorrido (Súmula 284 do STF).
+Também não se verifica, das razões recursais, a devida correlação entre o comando normativo inserto nos dispositivos e a argumentação indicada no apelo extremo - o que denota clara deficiência em sua fundamentação, a ponto de incidir o óbice contido na Súmula 284 do STF.
+Quanto a alínea "c", a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp n. 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe 17/3/2014).
+Além disso, observa-se que a parte recorrente não atendeu aos requisitos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ, visto que a divergência foi apresentada de modo insuficiente, pois não realizada, devidamente, a demonstração das circunstâncias que identificam ou assemelham os casos confrontados, de modo a bem caracterizar a interpretação legal discordante.
+Segundo o entendimento pacífico desta Corte de Justiça, a simples transcrição de ementas, sem que se evidencie a similitude das situações fáticas e jurídicas, não se presta para demonstração da divergência jurisprudencial. Nesse sentido:AgInt no AREsp n. 1.736.638/PE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma; DJe 12/5/2021; e AgInt no REsp n. 1.704.378/RJ, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/5/2021.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+ EMENTA
