@@ -1,0 +1,34 @@
+DECISÃO
+Examina-se recurso especial interposto por ATAÍDE CASSEMIRO e MARIA DILMA PEREIRA CASSEMIRO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso Especial interposto em: 22/07/2024.
+Concluso ao gabinete em: 26/12/2024.
+Ação: cumprimento de sentença, ajuizada por CÁTIA CILENE DE AGUIAR, em face de ATAÍDE CASSEMIRO, CLAUDIA STEFANIA PEREIRA CASSEMIRO e MARIA DILMA PEREIRA CASSEMIRO.
+Decisão juízo de 1ª Instância: indeferiu a impugnação ao cumprimento de sentença apresentada por ATAÍDE CASSEMIRO, MARIA DILMA PEREIRA CASSEMIRO e CLÁUDIA STEFÂNIA CASSEMIRO, determinando o prosseguimento do feito, sob o fundamento de intempestividade da impugnação (e-STJ fls. 436-441).
+Acórdão: deu parcial provimento ao agravo de instrumento interposto por ATAÍDE CASSEMIRO, CLÁUDIA STEFÂNIA PEREIRA CASSEMIRO e MARIA DILMA PEREIRA CASSEMIRO, desconstituindo parte da decisão recorrida e declarando a tempestividade da impugnação ao cumprimento de sentença apenas em relação à executada CLÁUDIA STEFÂNIA PEREIRA CASSEMIRO. Reconheceu o excesso de execução sobre as contas apresentadas pela parte exequente, determinando a remessa dos autos à Contadoria do Juízo para elaboração de planilha de cálculos atualizada, em consonância ao acordo objeto do cumprimento de sentença, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS - ACORDO ENTRE LOCADOR E LOCATÁRIO HOMOLOGADO - DESCUMPRIMENTO - CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO OFERECIDA PELOS FIADORES - TERMO INICIAL - INTIMAÇÃO ACERCA DA PENHORA - ART.475-J, §1º, DO CPC/73 - INTEMPESTIVIDADE - EXAME DAS MATÉRIAS DE ORDEM PÚBLICA - POSSIBILIDADE - INEXIGIBILIDADE DO TÍTULO - AFASTAMENTO - ACORDO ASSINADO PELOS FIADORES - EXCESSO DE EXECUÇÃO - OCORRÊNCIA - RECURSO PARCIALMENTE PROVIDO. Levando-se em conta que o cumprimento de sentença teve início sob a vigência do CPC/73, em obediência à regra da irretroatividade da lei processual, deve-se admitir que a intempestividade da impugnação seja examinada à luz do art. 475-J, § 1º do CPC/73, que previa a intimação do executado a respeito da penhora, como termo inicial para impugnação. - Sobrevindo penhora, apenas sob a égide do CPC/2015, a intimação dos executados acerca da constrição deve ser o termo inicial para apresentação da impugnação. - As matérias de ordem pública podem ser examinadas a qualquer tempo, inclusive de ofício, não se sujeitando à preclusão, desde que não tenham sido objeto de manifestação jurisdicional anterior. Assim, ainda que intempestiva a impugnação ao cumprimento de sentença, é possível o exame das matérias de ordem pública. - A teor do que dispõe a súmula 214 do STJ, "o fiador na locação não responde por obrigações resultantes de aditamento ao qual não anuiu". - Considerando que o acordo firmado entre locador e locatário, objeto da sentença homologatória, foi devidamente assinado pelos fiadores, não há que se falar em inexigibilidade do título em face desses. - Impõe-se o reconhecimento do excesso de execução, quando incluídas parcelas de aluguel não compreendidas no acordo homologado. - Recurso parcialmente provido. (e-STJ fls. 856-874).
+Embargos de declaração: opostos por ATAÍDE CASSEMIRO e MARIA DILMA PEREIRA CASSEMIRO, foram rejeitados (e-STJ fls. 903-907).
+Recurso especial: alega violação aos art. 14,218, 515, 1.022, I e II, e 1.046 do CPC; arts. 819 e 830 do CC, além de dissídio jurisprudencial.
+Aduzem que o acordo judicial, objeto do cumprimento de sentença, não impõe qualquer obrigação a eles, sendo fiadores apenas do contrato de locação e não do acordo judicial. Alegam que as assinaturas no acordo são falsas, o que está sendo discutido em ação anulatória.
+Argumentam que a execução inclui valores não previstos no acordo judicial, como aluguéis e despesas posteriores ao acordo, além de reparos no imóvel, configurando excesso de execução
+Sustentam que o prazo para impugnação ao cumprimento de sentença, quando transcorrido o prazo para cumprimento espontâneo da obrigação na vigência do CPC/73, só se inicia após intimação específica para tanto.
+Alegam que há divergência interpretativa entre o acórdão recorrido e precedentes do STJ que reconhecem a necessidade de intimação específica para impugnação ao cumprimento de sentença.
+Requer o conhecimento e provimento do recurso para reforma do acórdão recorrido (e-STJ fls. 931-969).
+Juízo de admissibilidade: TJMG admitiu o recurso especial (e-STJ fls. 1016-1018).
+RELATADO O PROCESSO, DECIDE-SE.
+Da ausência de prequestionamento - Súmula 211/STJ
+O acórdão recorrido não decidiu acerca dos arts. 819 e 830 do CC, indicados como violados, apesar da oposição de embargos de declaração.
+Os recorrentes argumentam que a fiança deve ser dada por escrito e não admite interpretação extensiva, afirmam que, no acordo judicial, não há obrigação assumida pelos fiadores, e que a mera assinatura no instrumento não vincula os fiadores às obrigações nele previstas, devendo haver previsão expressa de responsabilidade. Além disso, alegam que o fiador pode fixar no contrato a parte da dívida que toma sob sua responsabilidade, e por mais não será obrigado (e-STJ fls. 955-956).
+No entanto, verifica-se que não há decisão, sequer de forma implícita, acerca das referidas violações, não obstante, a recorrente não menciona a ausência de prequestionamento dos artigos tidos como violados nos embargos de declaração opostos.
+Do reexame de fatos e provas - Súmula 7/STJ
+Alterar o decidido no acórdão impugnado, no que se refere à veracidade das assinaturas dos recorrentes no acordo judicial e quanto às suas responsabilidades, sendo fiadores exclusivamente do contrato de locação (e-STJ fls. 934-935), requer o reexame de fatos e provas.
+No âmbito do recurso especial, o reexame de matéria fático probatória é vedado pela Súmula 7/STJ, restringindo-se apenas às questões de direito.
+Forte nessas razões, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1021, §4º, e 1026, §2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de cumprimento de sentença.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. Incidência da Súmula 211/STJ.
+3. O reexame de fatos e provas em recurso especial é inadmissível. Incidência da Súmula 7/STJ.
+4. Recurso especial não conhecido.
