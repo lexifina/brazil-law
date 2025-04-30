@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS EXTERNOS. INADMISSIBILIDADE. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Tal vício só "estará configurado quando interno ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, revelando-se ausente, por outro lado, quando evidenciado apenas antagonismo entre os fundamentos da decisão e o entendimento da parte" (EDcl no RMS n. 60.400/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+3. Embargos de declaração rejeitados, com advertência de multa.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MR INVESTIMENTOS S.A. contra acórdão de minha relatoria que negou provimento ao respectivo agravo interno, nos termos da seguinte ementa (fls. 597-598):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. AGRAVO DE INSTRUMENTO NO CUMPRIMENTO DE SENTENÇA. APLICAÇÃO DA TÉCNICA DO JULGAMENTO AMPLIADO. INVIABILIDADE. PRECEDENTES. IMISSÃO NA POSSE. FATO NOVO. PRECLUSÃO DA MATÉRIA. INOCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão recorrido não possui as omissões suscitadas pela parte recorrente, mas apresentou, concretamente, os fundamentos que justificaram a sua conclusão. Além disso, apresentou fundamentação concreta e suficiente para dar suporte às suas conclusões, inexistindo desrespeito ao dever judicial de se fundamentar as decisões judiciais. Existe, na verdade, mero inconformismo da parte recorrente com o resultado do julgamento que lhe foi desfavorável.
+2. Não há preclusão quanto à matéria cautelar quando, após o indeferimento inicial, surge fato novo, sendo possível nova formulação do pleito de imissão na posse do imóvel controvertido.
+3. "Segundo a jurisprudência do STJ, a técnica de ampliação do colegiado, prevista no art. 942 do Código de Processo Civil, somente se aplica à hipótese de agravo de instrumento quando houver reforma da decisão que julgou parcialmente o mérito, dirigindo-se apenas às ações de conhecimento e não aos processos de execução e, por extensão, aos cumprimentos de sentença. Precedentes." (AgInt no R Esp n. 2.096.773/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 13/5/2024, DJe de 15/5/2024.)
+4. Por fim, a parte não realizou o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal.
+5. Agravo interno desprovido.
+Sustenta a parte Embargante os seguintes vícios (fls. 617-622):
+III. A OMISSÃO EM RELAÇÃO À EFETIVA ANÁLISE DA VIOLAÇÃO AO ART. 489, §1º, IV E DO ART. 1.022, CPC/2015
+ ..
+IV. AS OMISSÕES DECORRENTES DO ACOLHIMENTO DA VIOLAÇÃO ANTERIORMENTE SUSCITADA
+ ..
+V. AS OMISSÕES DECORRENTES DA AUSÊNCIA DE EFETIVA ANÁLISE QUANTO AO COTEJO ANALÍTICO REFERENTE À DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL
+Foi apresentada resposta ao recurso integrativo (fls. 632-634).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS EXTERNOS. INADMISSIBILIDADE. OMISSÕES. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial.
+2. Tal vício só "estará configurado quando interno ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, revelando-se ausente, por outro lado, quando evidenciado apenas antagonismo entre os fundamentos da decisão e o entendimento da parte" (EDcl no RMS n. 60.400/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+3. Embargos de declaração rejeitados, com advertência de multa.
+VOTO
+Os embargos de declaração não devem ser acolhidos.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Isso porque o acórdão impugnado resolveu a questão controvertida de forma inteligível e congruente, porquanto apresentou todos os fundamentos que alicerçaram o convencimento nele plasmado, bem como em harmonia conformidade com a legislação de regência e com o atual entendimento jurisprudencial do Superior Tribunal de Justiça.
+Com efeito, no aresto embargado foi explicitamente assinalado que: 1) não houve violação dos arts. 489, § 1º, inciso IV, e 1.022, inciso II, do CPC/2015; 2) não há preclusão temporal e consumativa quando ocorre fato novo; 3) a técnica de ampliação do colegiado, prevista no art. 942 do Código de Processo Civil, não se aplica à hipótese de agravo de instrumento no curso da execução; e 4) a simples transcrição das ementas não satisfaz o requisito recursal do cotejo analítico, nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça,.
+Ora, o vício só "estará configurado quando interno ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as con clusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador, revelando-se ausente, por outro lado, quando evidenciado apenas antagonismo entre os fundamentos da decisão e o entendimento da parte" (EDcl no RMS n. 60.400/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 9/10/2023, DJe de 16/10/2023).
+Logo, uma vez atestado que não houve omissão no acórdão regional, os aclaratórios não são a via adequada para reexaminar a matéria, dado que os vícios apontados devem ser internos ao julgado recorrido, e não ao aresto antecedente.
+Ressalto, ainda, que a intenção de rediscutir questões que já foram objeto do devido exame e decisão no acórdão embargado, porque representa mera contrariedade com a conclusão da lide, é incabível na via dos embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. ERRO MATERIAL AUSÊNCIA. MODIFICAÇÃO DO JULGADO. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além da correção de erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de se manifestar sobre algum ponto do pedido das partes. A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão. Já a obscuridade existe quando o acórdão não propicia às partes o pleno entendimento acerca das razões de convencimento expostos nos votos sufragados pelos integrantes da turma julgadora.
+3. Não constatados os vícios indicados no art. 1.022, devem ser rejeitados os embargos de declaração, por consistirem em mero inconformismo da parte. (EDcl no REsp n. 1.978.532/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 11/3/2024, DJe de 15/3/2024.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. TEMA N. 1.109. RENÚNCIA TÁCITA À PRESCRIÇÃO POR PARTE DA ADMINISTRAÇÃO. INAPLICABILIDADE DO ART. 191 DO CÓDIGO CIVIL NA ESPÉCIE. REGIME JURÍDICO-ADMINISTRATIVO DE DIREITO PÚBLICO QUE EXIGE LEI AUTORIZATIVA PRÓPRIA PARA FINS DE RENÚNCIA À PRESCRIÇÃO JÁ CONSUMADA EM FAVOR DA ADMINISTRAÇÃO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas obscuridades no julgado combatido, traduzem, na verdade, o inconformismo da parte com o decisório tomado, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados. (EDcl no REsp n. 1.928.910/RS, relator Ministro Sérgio Kukina, Primeira Seção, julgado em 19/12/2023, DJe de 5/2/2024.)
+Advirto, desde logo, que a eventual oposição de embargos de declaração com o único propósito de rediscutir o resultado do julgamento de mérito poderá ensejar a aplicação de multa, nos termos do art. 1.026, § 2º, do Código de Processo Civil.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
