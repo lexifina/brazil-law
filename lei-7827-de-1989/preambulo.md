@@ -1,0 +1,2 @@
+Regulamenta o art. 159, inciso I, alínea c, da Constituição Federal, institui o Fundo Constitucional de Financiamento do Norte - FNO, o Fundo Constitucional de Financiamento do Nordeste - FNE e o Fundo Constitucional de Financiamento do Centro-Oeste - FCO, e dá outras providências.
+O PRESIDENTE DA CÂMARA DOS DEPUTADOS, no exercício do cargo de PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
