@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DO SALÁRIO DA DEVEDORA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há como desconstituir o entendimento delineado no acórdão impugnado - o bloqueio de 30% (trinta por cento) do salário não garante a dignidade da devedora - sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por SOCIEDADE DE ABASTECIMENTO DE ÁGUA E SANEAMENTO S.A. contra decisão desta relatoria assim ementada (e-STJ, fl. 319):
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DO SALÁRIO DA DEVEDORA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais (e-STJ, fls. 328-388), pugna a agravante pelo afastamento do óbice da Súmula 7 desta Corte, sob o argumento de que não busca o reexame do conjunto fático probatório, por se tratar de questão de direito, consistente na violação ao art. 833, IV, do CPC/2015, bem como na existência de dissídio jurisprudencial.
+Defende a possibilidade de relativização da regra de impenhorabilidade do salário para pagamento de dívida não alimentar, com o bloqueio de 30% (trinta por cento) dos rendimentos da agravada, tendo em vista as diversas tentativas de satisfação do crédito exequendo de aproximadamente R$ 10.323,38 (dez mil, trezentos e vinte e três reais e trinta e oito centavos), além da demora de mais de 3 (três) anos.
+Pleiteia, assim, a reconsideração da decisão agravada.
+Impugnação apresentada às fls. 392-398 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE DO SALÁRIO DA DEVEDORA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há como desconstituir o entendimento delineado no acórdão impugnado - o bloqueio de 30% (trinta por cento) do salário não garante a dignidade da devedora - sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Consoante consta da decisão agravada, o entendimento desta Corte Superior firmou-se no sentido de que a regra geral de impenhorabilidade de salários (art. 833, IV, do CPC/2015) pode ser excepcionada, desde que haja manutenção de percentual dessa verba capaz de guarnecer a dignidade do devedor e sua família (EREsp 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023).
+No presente caso, o Tribunal de Justiça do Estado de São Paulo concluiu pela impossibilidade de penhora dos valores depositados na conta da recorrida, sob os seguintes fundamentos (e-STJ, fls. 171-172 - sem grifo no original):
+No mérito, consta dos autos de origem que a empresa agravada, Sociedade de Abastecimento de Água e Saneamento S/A - Sanasa - Campinas, pretende a satisfação do débito de R$ 8.243,71 (para junho de 2023) representado em sentença que confirmou termo de confissão de dívida da executada perante a exequente (fls. 276/281, dos autos de nº 2094304-20.2024.8.26.0000).
+Durante o processo executivo de origem, foi deferida a penhora BACENJUD nas contas da devedora, provimento que retornou parcialmente exitoso com o bloqueio de R$ 5.150,24 (fls. 23/28).
+A devedora impugnou (fls. 34/41) referida constrição alegando que a integralidade da quantia é decorrente do seu trabalho como cuidadora de idosos, conforme ampla documentação de transferências de valores e de contratos informais com os clientes (fls. 42/100).
+Diante de referido quadro, o juízo de origem reconheceu a natureza jurídica de salário da quantia, mas deferiu a constrição de 30% da verba (R$ 1.545,07) sob o entendimento de que tal valor não fere a dignidade da devedora, a qual ainda continuará com 70% do numerário (R$ 3.605,17) (fls. 109/111).
+A despeito da r. fundamentação, é o caso de reforma da decisão.
+Neste juízo recursal, é cabível a reforma da decisão agravada para que seja impossibilitada a penhora do valor em conta que se equipara ao salário.
+Embora existam precedentes jurisprudenciais desta corte e dos tribunais superiores mitigando a impenhorabilidade salarial, tais entendimentos se aplicam nos casos em que não haverá prejuízo à sobrevivência do executado e/ou de sua família, conforme precedente do C. STJ: ( )
+No caso concreto, verifica-se que a executada percebe menos de três salários-mínimos por mês, em média. Conforme narrado e provado pelos extratos de conta (fls. 84/90 e 91/96), a autora percebe renda informal como cuidadora de idosos. Dessa feita, seu salário é variável, a depender dos trabalhos que conseguir realizar; no entanto, a média dos valores que recebeu, por exemplo, entre dezembro de 2023 e fevereiro de 2024 na conta do C6 Bank (fls. 91/96) é no valor de R$ 3.647,00.
+Não se trata de renda elevada, motivo pelo qual é de se deduzir que a penhora de percentual do salário afetará o seu mínimo existencial.
+Ainda que o bloqueio de R$ 5.150,24 tenha sido realizado quando o valor já estava depositado em conta, o caso dos autos, com os contratos informais de fls. 45/50 e os extratos de fls. 84/96, demonstram que a quantia é, indubitavelmente, proveniente de salário.
+Mesmo que se defira a constrição de tão só parte do valor, isso é, 30% da quantia (R$ 1.545,07), o que se teria é o bloqueio de verba salarial quando os 70% remanescentes (isso é, R$ 3.605,17) não garante a dignidade da devedora.
+Incide ao caso, portanto, a vedação do art. 833, IV, do CPC, impedindo-se a constrição do salário da devedora, por se tratar de verba integralmente impenhorável.
+Por conseguinte, a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+Ilustrativamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXCEPCIONALIDADE DA REGRA SOBRE PENHORA DE RENDIMENTOS. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF.
+1. Na espécie, não houve violação do artigo 1.022 do Código de Processo Civil, visto que agiu corretamente o tribunal de origem ao rejeitar os embargos de declaração por inexistir omissão, contradição, obscuridade ou erro material no acórdão atacado, ficando patente o intuito infringente da irresignação.
+2. O Superior Tribunal de Justiça firmou orientação no sentido de que a regra geral de impenhorabilidade dos vencimentos e outras verbas de caráter alimentar pode ser excepcionada, nos termos do art. 833, IV, c/c o § 2º, do Código de Processo Civil, independentemente da natureza da dívida, quando, ressalvadas eventuais particularidades do caso concreto, for preservado montante capaz de garantir a dignidade do devedor e de sua família.
+3. Na hipótese, o acolhimento da pretensão recursal para infirmar a conclusão do tribunal de origem de que não há elementos nos autos que autorizam excepcionar a aplicação da regra da impenhorabilidade demandaria o reexame das provas dos autos. Incidência da Súmula nº 7/STJ.
+4. A jurisprudência pacífica do Superior Tribunal de Justiça é no sentido de que a incidência da Súmula nº 7/STJ obsta a admissão do recurso por quaisquer das alíneas do permissivo constitucional.
+5. A teor da Súmula nº 283/STF, aplicada por analogia, não se admite recurso especial quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+6. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no REsp n. 2.046.697/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. RESTITUIÇÃO AO ERÁRIO. PENHORA INCIDENTE SOBRE PENSÃO POR MORTE. DESBLOQUEIO DETERMINADO PELA CORTE DE ORIGEM. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. Como cediço, "a Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp n. 2.067.117/PR, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 15/12/2023). A propósito:
+EREsp n. 1.874.222/DF, relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 24/5/2023; AgInt no AREsp n. 2.318.451/RN, relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 23/11/2023.
+2. Caso concreto em que a Corte estadual firmou a compreensão de que "é indubitável que a pensão percebida pelas agravantes tem natureza eminentemente alimentar, o que determina a inviabilidade de apreendê-la judicialmente para liquidar a dívida exequenda" (fl. 337), eis que, na hipótese vertente, "a constrição de trinta por cento (30%) do beneficio previdenciário por certo comprometerá a subsistência das ora agravantes" (fl. 338).
+3. Rever a premissa contida no acórdão recorrido de que a realização da penhora, tal como pretendida pela parte agravante, teria o condão de comprometer a subsistência das agravadas, demandaria o revolvimento de matéria fático-probatória, o que esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 2.098.999/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/6/2024, DJe de 6/6/2024.)
+Por fim, a análise do dissídio jurisprudencial fica prejudicada pela aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e o acórdão paradigma. Isso porque as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Desse modo, uma vez que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
