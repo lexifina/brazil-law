@@ -1,0 +1,1 @@
+Art. 15-C. As instituições financeiras federais poderão, nos termos do art. 15-B e parágrafos, proceder à liquidação de dívidas em relação às propostas cujas tramitações tenham sido iniciadas em conformidade com as práticas e regulamentações bancárias de cada instituição financeira federal.

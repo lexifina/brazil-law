@@ -1,0 +1,1 @@
+Art. 15-D. Os administradores dos Fundos Constitucionais ficam autorizados a liquidar dívidas pelo equivalente financeiro do valor atual dos bens passíveis de penhora, observando regulamentação específica dos respectivos Conselhos Deliberativos, a qual deverá respeitar, no que couber, os critérios estabelecidos no art. 15-B.

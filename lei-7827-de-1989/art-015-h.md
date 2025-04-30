@@ -1,0 +1,2 @@
+Art. 15-H. Ficam os bancos administradores dos Fundos Constitucionais de Financiamento autorizados a ceder a empresas especializadas na cobrança de créditos inadimplidos operações enquadradas mas não renegociadas nos termos dos arts. 15-E e 15-F desta Lei.
+Parágrafo único. O valor obtido com a cessão de que trata o caput deste artigo será dividido entre o banco administrador e o Fundo Constitucional na proporção do risco de crédito assumido por cada um na data da concessão.
