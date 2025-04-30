@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão do Tribunal de Justiça do Estado do Pará que inadmitiu recurso especial interposto em razão do óbice da Súmula 83 do Superior Tribunal de Justiça.
+Consta dos autos que o recorrente foi condenado a 22 anos de reclusão, regime inicial fechado, pelo delito previsto no art.121, §2º, II e IV do Código Penal. Com o desprovimento do recurso de apelação, a parte interpôs recurso especial que foi inadmitido na Origem.
+O recorrente interpôs agravo em recurso especial, alegando ofensa aos artigos de Lei Federal e requerendo a admissão do recurso. O agravante sustenta que a revisão de dosimetria é matéria de ordem pública, estando preenchidos os requisitos para a admissão do seu recurso.
+A decisão de admissibilidade do recurso especial, proferida pelo Tribunal de Justiça do Estado do Pará, não admitiu o recurso especial, fundamentando-se no entendimento do acórdão recorrido está em conformidade com a jurisprudência do STJ, aplicando-se a Súmula 83.
+A Presidência do STJ tornou sem efeito decisão anterior que não conhecera do recurso especial, determinando a distribuição do agravo em recurso especial.
+Parecer ministerial pelo não conhecimento do agravo em recurso especial, sustentando a incidência da Súmula 7 do STJ (e-STJ fls. 975/979).
+É o relatório.
+Decido.
+O Tribunal de origem inadmitiu o recurso especial interposto pela parte agravante com amparo nos seguintes fundamentos:
+verifica-se que o acórdão recorrido confirmou condenação feita em sentença penal condenatória, estando ambos de acordo com a jurisprudência do Superior Tribunal de Justiça, restando patente a incidência do enunciado nº 83 da súmula da jurisprudência dominante do STJ, aplicável da mesma forma nos recursos fundados na alínea "a" do dispositivo constitucional.
+A Corte Especial do Superior Tribunal de Justiça firmou entendimento de que "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. (..) A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais" (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, redator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018,DJe de 30/11/2018).
+Esse posicionamento vem guiando a jurisprudência das Turmas Criminais desta Corte, como se nota a partir dos acórdãos que consignam que "a falta de impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia" (AgRg no AREsp 2.225.453/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/3/2023, DJe de 13/3/2023; AgRg no AREsp 1.871.630/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/2/2023).
+Postas essas premissas, verifica-se que o recurso especial foi inadmitido com base no óbice previsto na súmula 83 dessa Corte de Justiça.
+Nas razões do agravo em recurso especial, todavia, a parte limitou-se a repisar os mesmas argumentos que já tinham sido expostos no recurso especial, sem infirmar os fundamentos da inadmissão do recurso.
+Na esteira da jurisprudência dominante desta Corte, a superação do óbice da Súmula 83/STJ exige que o recorrente colacione precedentes deste Superior Tribunal de Justiça, contemporâneos ou supervenientes a seu favor, ou demonstre alguma distinção entre os julgados mencionados na decisão agravada e o caso em exame, o que não fez. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO MAJORADO. DECISÃO DE INADMISSÃO. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182/STJ. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A decisão que, na origem, ensejou a inadmissão dos recursos especiais, pautou-se nos óbices das Súmulas n. 7 e 83 do STJ. Todavia, nos respectivos agravos, as defesas deixaram de rebater, de forma concreta e arrazoada, o último dos fundamentos.
+2. Especificamente, no que diz respeito à impugnação da Súmula 83/STJ, conforme a assente jurisprudência do Superior Tribunal de Justiça, incumbe à parte apontar julgados, deste Superior Tribunal, contemporâneos ou supervenientes sobre a matéria, procedendo o cotejo entre eles a fim de demonstrar que a orientação desta Corte Superior é diversa da do Tribunal a quo ou que não se encontra pacificada, ou mesmo demonstrar a existência de distinção do caso tratado nos autos, o que não ocorreu na espécie (AgRg no AREsp n. 2.253.769/PR, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 14/08/2023, DJe de 18/08/2023).
+3. Conclui-se, portanto, que os agravos em recurso especial não preencheram os requisitos de admissibilidade, uma vez que deixaram de impugnar, de forma dialética, todos os fundamentos da decisão que, na origem, ensejaram a inadmissão do apelo nobre, o que faz incidir a Súmula n. 182/STJ e o comando do art. 932, inciso III, do Código de Processo Civil, aplicável à seara processual penal por força do art. 3º do Código de Processo Penal.
+4. Agravo Regimental desprovido.
+(AgRg no AREsp n. 2.578.837/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 11/6/2024, DJe de 17/6/2024).
+No caso concreto, o acórdão impugnado e a decisão de inadmissão do recurso especial estão corretas ao apontar que a jurisprudência dessa Corte de Justiça é no sentido de que a revisão da dosimetria da pena cabe apenas quando há erro evidente ou afronta a regras de direito, sendo vedada a reanálise fático-probatória em sede de recurso especial. Vejamos:
+DIREITO PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO. REVISÃO DE DOSIMETRIA DA PENA. AGRAVO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão monocrática que não conheceu de habeas corpus impetrado em substituição a recurso próprio, visando à revisão dos critérios de dosimetria da pena aplicada em condenação por tráfico de drogas.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se é cabível o habeas corpus como substitutivo de recurso próprio para reexaminar a dosimetria da pena, em especial quando não há flagrante ilegalidade.
+III. Razões de decidir
+3. O habeas corpus não é cabível como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade que gerem constrangimento ilegal.
+4. A revisão da dosimetria da pena em sede de habeas corpus é possível apenas em situações excepcionais de manifesta ilegalidade ou abuso de poder, o que não se verifica no presente caso.
+5. A análise dos critérios adotados na origem para a dosimetria da pena não indica extrapolação da discricionariedade do julgador.
+IV. Dispositivo e tese
+6. Agravo regimental não provido. Dispositivos relevantes citados:
+CPP, arts. 621, 647-A, 654, § 2º.Jurisprudência relevante citada:
+STJ, AgRg no HC 895.777/PR, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, j. 02.04.2024; STJ, AgRg no HC 864.465/SC, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, j. 18.03.2024; STF, HC 225896 AgR, Rel. Min. Luís Roberto Barroso, Primeira Turma, j. 15.05.2023.
+(AgRg no HC n. 951.121/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+A conclusão é que o acórdão do Tribuna de origem está em linha com a jurisprudência consolidada do Superior Tribunal de Justiça, cuja consequência é a inadmissão do recurso especial.
+Por esses fundamentos, com base na súmula 83 dessa Corte de Justiça, e na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se. Intime-se.
+EMENTA
