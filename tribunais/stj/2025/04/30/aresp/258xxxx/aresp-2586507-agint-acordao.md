@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXECUÇÃO FISCAL. HONORÁRIOS SUCUMBENCIAIS. IRRISORIEDADE. REEXAME. SÚMULA 7/STJ. PERCENTUAL INFERIOR A 1%. ADEQUAÇÃO AO ENTENDIMENTO DA JURISPRUDÊNCIA DO STJ. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. A jurisprudência deste Tribunal Superior manifesta-se no sentido de que não é possível, em julgamento de recurso especial, reavaliar o percentual fixado na origem para o cálculo dos honorários sucumbenciais, ante impedimento da Súmula 7/STJ.
+3. De acordo com o entendimento jurisprudencial do STJ, configura indevida inovação recursal a alegação de tese apenas nas razões do agravo interno.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por COMPANHIA DE EMPREENDIMENTOS SÃO PAULO contra decisão monocrática de fls. 3.636-3.639 (e-STJ), assim ementada:
+PROCESSUAL CIVIL . AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS. MAJORAÇÃO. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA DE FATO. ÓBICE DA SÚMULA 07/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais, a agravante reitera a afirmação acerca da existência de negativa de prestação jurisdicional no julgamento proferido pelo Tribunal Regional Federal da 3ª Região.
+Afirma que a Corte originária deixou de se manifestar sobre o caráter irrisório dos honorários sucumbenciais, em virtude do alto valor dos créditos executados.
+Destaca que não foi observado o entendimento jurisprudencial do Superior Tribunal de Justiça que reconhece o percentual inferior a 1% como manifestamente irrisório.
+Sustenta a inaplicabilidade da Súmula 7/STJ.
+Assim sendo, requer a reconsideração da decisão agravada.
+Não foi apresentada impugnação (e-STJ, fl. 3.666).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. EXECUÇÃO FISCAL. HONORÁRIOS SUCUMBENCIAIS. IRRISORIEDADE. REEXAME. SÚMULA 7/STJ. PERCENTUAL INFERIOR A 1%. ADEQUAÇÃO AO ENTENDIMENTO DA JURISPRUDÊNCIA DO STJ. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação, quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto, pois o mero inconformismo da parte com a solução da controvérsia não configura negativa de prestação jurisdicional.
+2. A jurisprudência deste Tribunal Superior manifesta-se no sentido de que não é possível, em julgamento de recurso especial, reavaliar o percentual fixado na origem para o cálculo dos honorários sucumbenciais, ante impedimento da Súmula 7/STJ.
+3. De acordo com o entendimento jurisprudencial do STJ, configura indevida inovação recursal a alegação de tese apenas nas razões do agravo interno.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos n. 2 e 3/STJ, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que a recorrente interpôs recurso especial (e-STJ, fls. 3.294-3.312), com base nas alíneas a e c do permissivo constitucional, alegando divergência jurisprudencial e violação aos arts. 85, §§ 2º, 3º e 8º, 926, 927 e 1.022, II, do CPC/2015; e 20, §§ 3º e 4º, do CPC/1973.
+O Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 3.552-3.571), situação que ensejou a interposição do agravo (e-STJ, fls. 3.573-3.586), o qual, em decisão monocrática de fls. 3.636-3.639 (e-STJ), foi conhecido para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Irresignada, a agravante interpõe o presente agravo interno. Todavia, o inconformismo não merece prosperar.
+No recurso especial, a primeira tese defendida pela recorrente refere-se à existência de omissão no acórdão impugnado.
+Afirmou que o TRF da 3ª Região não se manifestou sobre a incidência, ao caso dos autos, do entendimento jurisprudencial firmado no julgamento do Tema 1.076/STJ.
+Contudo, nos fundamentos expostos na decisão agravada, ficou constatada a ausência de violação ao art. 1.022, II, do CPC/2015.
+Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há se falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+A esse respeito:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO E PROCESSUAL CIVIL. EXECUÇÃO. UFPE. 28,86%. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. ART. 1.022 DO CPC. OMISSÃO CONFIGURADA. CÁLCULOS ELABORADOS PELA CONTADORIA JUDICIAL. JULGAMENTO ULTRA PETITA. NÃO OCORRÊNCIA. ERRO MATERIAL. NECESSIDADE DE CORREÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+I - Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para eliminar a obscuridade, contradição ou suprir a omissão existente no julgado, além de corrigir erro material, não permitindo a rediscussão da matéria.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não configura julgamento ultra petita o acolhimento dos cálculos elaborados pela Contadoria Judicial, conforme os parâmetros definidos no título judicial, ainda que superiores aos apresentados pela parte exequente.
+III - Quanto ao apontado erro material, observa-se que, consoante alegado pelo embargante, mostra-se desnecessária a inversão da sucumbência, uma vez que, nos termos do constante no acórdão do julgamento dos embargos de declaração pelo TRF da 5ª Região, a ora Embargante já se mostrava como destinatária da verba sucumbencial, sendo equivocada nova inversão, dado o provimento de seu recurso nesta via especial.
+IV - Embargos de declaração acolhidos, com efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.962.650/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 4/12/2024, DJe de 9/12/2024.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REDISCUSSÃO DA CONCLUSÃO JURÍDICA FIRMADA NO ACÓRDÃO. AUSÊNCIA DE OMISSÃO.
+I - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, estando ausente pressuposto que justifique a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+II - A simples divergência de posicionamento entre os órgãos fracionários não é capaz de provocar submissão do feito à Primeira Seção, à vista da ausência de previsão legal.
+III - Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no REsp n. 1.764.459/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 21/10/2024, DJe de 25/10/2024.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. IMPROBIDADE ADMINISTRATIVA. SUPERVENIÊNCIA DA LEI 14.230/2021. CONDENAÇÃO FUNDAMENTADA NO ART. 11, CAPUT, DA LEI 8.429/1992. CONTINUIDADE TÍPICO-NORMATIVA. DOLO RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. AFASTAMENTO DAS SANÇÕES DE SUSPENSÃO DE DIREITOS POLÍTICOS E PERDA DO CARGO PÚBLICO DO ROL PREVISTO NO ART. 12, III, DA LEI 8.429/1992. RETROAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+1. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração têm o objetivo de introduzir o estritamente necessário para esclarecer obscuridade, eliminar contradição ou suprir omissão existente no julgado, além de corrigir erro material, não permitindo em seu bojo a rediscussão da matéria.
+2. No caso dos autos, levando em consideração a legislação vigente à época da prolação do acórdão embargado e a jurisprudência então dominante, não se constata o alegado vício de omissão, tendo em vista que foram expostos, de forma fundamentada, os motivos que levaram ao não conhecimento do recurso especial, com base na incidência da Súmula 7/STJ.
+3. Ocorre que, posteriormente à oposição dos presentes embargos de declaração, sobreveio a Lei 14.230/2021, que implementou significativas alterações na Lei 8.429/1992. Após o julgamento do Tema 1.199 da Repercussão Geral, este Superior Tribunal vem decidindo que a "abolição da hipótese de responsabilização por violação genérica aos princípios administrativos prevista no art. 11, caput, da Lei de Improbidade Administrativa (LIA) pela Lei 14.230/2021" é irrelevante "quando, entre os novéis incisos inseridos pela Lei 14.230/2021, remanescer típica a conduta considerada no acórdão como violadora dos princípios administrativos, evidenciando verdadeira continuidade típico-normativa" (AgInt no AREsp n. 1.578.059/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 19/8/2024).
+4. No caso, em que pese a conduta do embargante tenha sido "enquadrada no art. 11, "caput" da LF nº 8.429/92", nos termos em que descrita no acórdão recorrido, remanesce típica, conforme o disposto no art. 11, V, da Lei 8.429/92. Além disso, o Tribunal de origem, com base no acervo probatório dos autos, concluiu que "a conduta é dolosa; após advertido pelo Ministério Público e pelo Tribunal de Contas da ilegalidade da situação existente, o réu promoveu uma reforma administrativa que aprofundou, ao invés de corrigir, a ilegalidade". Assim, inviável o acolhimento do pedido para que seja julgada extinta a ação.
+5. Tendo em vista a nova redação dada ao art. 12, III, da Lei 8.429/92, inviável a manutenção das sanções de perda da função pública e de suspensão dos direitos políticos, impostas ao embargante, pois deixaram de ser previstas para a conduta apurada.
+Nesse sentido: AgInt no AREsp n. 1.578.059/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 19/8/2024.
+6. Embargos de declaração acolhidos, com efeitos infringentes, para o fim de afastar as sanções de perda da função pública e de suspensão dos direitos políticos que haviam sido impostas ao embargante pelo Tribunal de origem.
+(EDcl nos EDcl no AgInt no AREsp n. 1.676.918/SP, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 14/10/2024, DJe de 17/10/2024.)
+Conforme bem assentado no julgado impugnado, o Tribunal de origem foi claro e assertivo quando reconheceu a razoabilidade dos honorários sucumbenciais.
+A propósito, veja-se trecho retirado do julgamento da apelação (e-STJ, fl. 2.682):
+Prosseguindo, o ajuizamento indevido da ação compeliu as executadas na contratação de advogados, mormente para demonstrar a insubsistência da exigibilidade do crédito, o que impõe a condenação da União ao pagamento de honorários advocatícios, nos termos do artigo 20 do Código de Processo Civil/73, então vigente quando proferida a sentença impugnada.
+Verifica-se, entretanto, que a solução da lide não envolveu grande complexidade, de modo que a verba fixada a título de honorários advocatícios na r. sentença, não merece reparo.
+Portanto, inexiste ofensa ao art. 1.022 do CPC/2015.
+No que se refere à questão de mérito, do excerto acima transcrito depreende-se que o TRF-3ª entendeu que, de acordo com o regramento previsto no antigo diploma processual civil, especificamente no art. 20, §§ 3º e 4º, o valor estabelecido pela sentença para a verba honorária mostra-se adequado ao caso dos autos.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça manifesta-se no sentido de que não é possível, em julgamento de recurso especial, avaliar o percentual fixado na origem para o cálculo dos honorários sucumbenciais, pois seria preciso o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC. VIOLAÇÃO. AUSÊNCIA. HONORÁRIOS. CPC/1973. EQUIDADE. REVISÃO. IMPOSSIBILIDADE. ENUNCIADO 7 DA SÚMULA DO STJ.
+1. Inexiste contrariedade ao art. 1.022 do CPC quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. No que tange ao valor dos honorários advocatícios, a orientação da jurisprudência do Superior Tribunal de Justiça é no sentido de que, para o arbitramento da referida verba, o julgador, na apreciação subjetiva, pode utilizar-se de percentuais sobre o valor da causa ou da condenação, ou mesmo de um valor fixo, não se restringindo aos percentuais previstos nos §§ 3º e 4º do artigo 20 do CPC/1973.
+3. O arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.921.183/ES, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/12/2021, DJe de 16/12/2021.)
+SERVIDOR PÚBLICO. PROCESSO CIVIL. AGRAVO INTERNO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. CPC/73. REVISÃO. REAPRECIAÇÃO DOS CRITÉRIOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1 - A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+2 - O óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não ocorrentes nos presentes autos. Precedentes específicos.
+3 - Agravo interno não provido.
+(AgInt no REsp n. 1.510.100/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 2/5/2022, DJe de 5/5/2022.)
+Noutro ponto, em relação ao argumento apresentado nas razões do presente agravo interno, quanto à necessidade de ser observada a jurisprudência do STJ, à luz do CPC/73, que trata da impossibilidade de a condenação em honorários sucumbenciais ser inferior a 1% do valor da causa, do exame dos autos, constata-se que a questão não foi suscitada pela parte recorrente nas razões do recurso especial.
+Logo, nesse caso, fica configurada indevida inovação recursal, o que impede o conhecimento do tema por esta Corte Superior.
+Ilustrativamente (sem grifo no original) :
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. REAJUSTE DE 3,17%. LIMITAÇÃO TEMPORAL. JUROS DE MORA. INOVAÇÃO RECURSAL. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022, AMBOS DO CÓDIGO DE PROCESSO CIVIL. NÃO OCORRÊNCIA. MATÉRIA DECIDIDA. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. REFORMA DO JULGADO QUE DEMANDARIA O REEXAME DOS FATOS E DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PEDIDO DE GRATUIDADE DE JUSTIÇA. PRÉVIO INDEFERIMENTO DO BENEFÍCIO PELA ORIGEM. ALTERAÇÃO DA CONDIÇÃO FINANCEIRA NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão relativa aos juros de mora foi apresentada apenas em sede de agravo interno, o que caracteriza inovação recursal e impede a sua apreciação em razão da preclusão consumativa.
+2. Não há falar em violação dos arts. 489 e 1.022 do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+3. Alterar o entendimento adotado pelo Tribunal de origem, com o objetivo de acolher a pretensão recursal quanto ao pedido de redistribuição do ônus da sucumbência, demandaria o reexame do conjunto fático-probatório constante dos autos, o que é vedado em recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+4. Quando a parte reformula, em sede de recuso especial, o pedido de gratuidade de justiça já negado pelo Tribunal a quo, é necessário que comprove a alteração da condição financeira para a obtenção do benefício, o que não ocorreu nestes autos.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.522.657/MG, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 26/2/2025, DJEN de 6/3/2025.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDÃO ADMINISTRATIVA. AÇÃO DE INDENIZAÇÃO. PRESCRIÇÃO QUINQUENAL. DESAPROPRIAÇÃO INDIRETA. RECONHECIMENTO. REVISÃO FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA.
+1. De acordo com a jurisprudência desta Corte, as ações objetivando indenização decorrentes da implantação de servidão administrativa sujeitam-se ao prazo prescricional quinquenal previsto no art. 10, parágrafo único, do Decreto n. 3.365/1941.
+2. A revisão do acórdão recorrido, de modo a se reconhecer que o caso trata de desapropriação indireta, e não servidão administrativa, ou que esta foi implantada irregularmente, demandaria novo exame fático-probatório, providência vedada pela Súmula 7 do STJ.
+3. A tese que não foi ventilada no apelo especial, mas, apenas, nas razões de agravo interno, configura inovação recursal insuscetível de conhecimento, ante a preclusão consumativa.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.543.733/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 24/2/2025, DJEN de 28/2/2025.)
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
