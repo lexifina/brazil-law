@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE CIVIL DA AGRAVANTE. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem reconheceu a responsabilidade da agravante, consistente na falha na prestação de serviço, pela suspensão no fornecimento de água na residência do autor por aproximadamente 4 (quatro) anos.
+1.2. Não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 1.329):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. LEGITIMIDADE PASSIVA. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE.
+Nas razões recursais (e-STJ, fls. 1.344-1.373), pugna a agravante pelo afastamento do óbice da Súmula 7/STJ, sob o argumento de que não se trata de reexame do conjunto fático-probatório, mas de discussão eminentemente jurídica, consistente na ofensa aos arts. 371, 373, I, e 485, VI, do CPC/2015, além do disposto no art. 30, VIII, da Constituição Federal.
+Alega que as provas foram equivocadamente apreciadas pelo Tribunal de origem, notadamente quanto à excludente de responsabilidade civil, consistente em fato imprevisível e inevitável, causado por terceiro, apto a afastar o dever de indenizar.
+Pleiteia, assim, a reconsideração da decisão agravada ou o encaminhamento do feito para julgamento do órgão colegiado.
+Impugnação apresentada por Silas da Paixão Nogueira Primo às fls. 1.377-1.381 (e-STJ), com pedido de aplicação de multa, amparado no art. 1.021, § 4º, do CPC/2015, além da majoração dos honorários sucumbenciais.
+Águas do Rio 4 SPE S.A. juntou impugnação às fls. 1.386-1.390 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DO SERVIÇO. RESPONSABILIDADE CIVIL DA AGRAVANTE. CONCLUSÃO FUNDADA NA APRECIAÇÃO DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal de origem reconheceu a responsabilidade da agravante, consistente na falha na prestação de serviço, pela suspensão no fornecimento de água na residência do autor por aproximadamente 4 (quatro) anos.
+1.2. Não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Na hipótese dos autos, o Tribunal de Justiça do Estado de São Paulo, com base no conjunto fático-probatório, reconheceu a responsabilidade da agravante, consistente na falha na prestação de serviço, pela suspensão no fornecimento de água na residência do autor por aproximadamente 4 (quatro) anos.
+Veja-se (e-STJ, fls. 640-642 - sem grifo no original):
+Aplicam-se à presente hipótese as disposições previstas na legislação consumerista, tendo em vista que o Autor e as Rés são definidos, respectivamente, como consumidor e fornecedoras de serviços, na forma dos arts. 2º e 3º do Código de Defesa do Consumidor.
+Destaque-se, assim, que a responsabilidade das Rés é objetiva nos termos do art. 14, § 1º, do Código de Defesa do Consumidor, somente podendo ser afastada no caso de comprovação pelo fornecedor de inexistência do defeito ou qualquer causa excludente de sua responsabilidade, de acordo com o parágrafo 3º do mesmo dispositivo legal.
+Ademais, as empresas Rés, por serem concessionárias de serviço público de fornecimento de água e tratamento de esgoto, respondem independentemente de prova de culpa, a teor do art. 37, § 6º, da CRFB/88, que tem como fundamento a Teoria do Risco Administrativo, sendo a hipótese em análise de responsabilidade contratual, objetiva, somente podendo ser ilidida a responsabilidade em face da ocorrência de uma das causas que excluem o próprio nexo causal.
+Por outro lado, o CDC, em seu artigo 22, estabelece que o serviço seja prestado de forma adequada e contínua pelas concessionárias de serviço público, in verbis: ( )
+Portanto, pelas teorias da asserção e da aparência, a Apelante figura perante o usuário como fornecedor do serviço, estando legitimada a figurar no polo passivo da relação processual.
+Feitas tais considerações, passa-se à análise do mérito recursal.
+No presente caso, logrou o Autor comprovar que o corte no fornecimento de água em sua residência foi efetuado em 25/04/2018 (index 000021):
+( )
+Por outro lado, o histórico de contas pagas acostado ao index 000067 e o "nada consta" emitido pela Ré/ Cedae no index 000066 comprovam que o Autor promoveu a regularização das dívidas pretéritas, fato que deveria ensejar a normalização do serviço, o que, contudo, não ocorreu.
+Ressalte-se que as Rés não impugnam especificamente a ausência ou irregularidade no abastecimento, mas apenas informam o cumprimento da tutela de urgência, em 09/02/2022, conforme fls. 08, index 000180. Frise-se que não há alegação autoral de intermitência na prestação do serviço, mas de ausência total, não obstante o pagamento das faturas emitidas no período.
+Corroborando as conclusões acima, o documento denominado "Análise de Consumo e Faturamento", de fls. 21/23, index 000114, comprova a ausência de consumo no período analisado. Veja-se: ( )
+Neste sentido, forçoso concluir pela ausência de abastecimento no período compreendido entre 25/04/2018 a 09/02/2022, de modo que as cobranças então emitidas se afiguram indevidas, uma vez ausente a contraprestação devida, qual seja, o fornecimento adequado dos serviços.
+Portanto, constata-se a falha na prestação do serviço das Rés, consubstanciada na ausência de fornecimento de água, não tendo as concessionárias se desincumbido do ônus imposto pelo art. 373, II, CPC.
+Desse modo, correta a sentença que determinou a regularização do abastecimento de água na residência do Autor, confirmando a tutela de urgência deferida ao index 000073.
+( )
+Como mencionado, o corte foi efetuado em 25/04/2018 e a regularização do abastecimento ocorreu apenas em 09/02/2022, alcançando um período de aproximadamente 4 anos sem o regular fornecimento de água em sua residência.
+Assim, a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DO SERVIÇO DE FORNECIMENTO DE ÁGUA. LEGITIMIDADE PASSIVA. VALOR DE INDENIZAÇÃO. PROPORCIONALIDADE E RAZOABILIDADE. PRETENSÃO RECURSAL QUE DEMANDA REEXAME E REVALORAÇÃO DO LASTRO PROBATÓRIO. RECURSO DESPROVIDO.
+1. Ao dirimir a controvérsia, o Tribunal de origem concluiu estar demonstrada a legitimidade passiva da Companhia Estadual de Águas e Esgotos - CEDAE pelos fatos que lhe foram imputados, além de reconhecer a razoabilidade e proporcionalidade na fixação do valor da indenização por danos morais.
+2. A análise dos pedidos recursais demandaria o reenquadramento fático da situação dos autos, a partir do amplo cotejo do material instrutório - o que escapa à especialidade desta via recursal.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.485.843/RJ, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 9/9/2024, DJe de 11/9/2024.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. SERVIÇO PÚBLICO. FORNECIMENTO DE ÁGUA. FALHA. RESPONSABILIDADE CIVIL. ACÓRDÃO QUE CONSIGNA A EXISTÊNCIA DO DANO MORAL E A RAZOABILIDADE DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. PRECEDENTES. PROVIMENTO NEGADO.
+1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não padecendo o acórdão de nenhuma omissão, contradição, obscuridade ou erro material a ensejar o acolhimento da tese de violação dos arts. 489 e 1.022 do Código de Processo Civil.
+2. O Tribunal de origem reconheceu ter havido demora excessiva na regularização do fornecimento de água, bem como falha na manutenção do serviço, razão pela qual entendeu estar caracterizado o dano moral e o consequente dever de indenizar, concluindo ser razoável o montante arbitrado pelo juízo de primeiro grau. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no presente caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.240.278/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. FORNECIMENTO DE ÁGUA INTERROMPIDO. CONCLUSÃO DA CORTE DE ORIGEM PELA FALHA NA PRESTAÇÃO DO SERVIÇO. EXTENSÃO DO DANO E QUANTUM FUNDAMENTADA NAS PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, pelo que se afasta a alegada violação dos artigos 489, 1.022 e 1.025 do CPC/2015. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. A Corte a quo, mediante a análise de todo o conjunto fático-probatório, entendeu que restou incontroversa a falha na prestação do serviço, decorrente da interrupção no fornecimento de água aos moradores do bairro atingido, e que perdurou por lapso demasiadamente exagerado, o que consequentemente culminou em dano moral. Assim, a pretensão recursal, quanto ao ponto, encontra óbice na Súmula 7/STJ. Precedentes em casos idênticos: AgInt no AREsp n. 2.136.351/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1/12/2022; AgInt no AREsp n. 2.118.594/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 25/11/2022; AgInt no AREsp 1.762.584/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 01/07/2021.
+3. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, o que não é o caso dos autos. Incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.939.766/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/5/2023, DJe de 7/6/2023.)
+Por outro lado, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Tendo havido arbitramento de honorários recursais na decisão monocrática que conheceu do agravo para não conhecer do recurso especial, como no presente caso, não se faz possível nova majoração dessa verba no acórdão que não conhece ou nega provimento ao subsequente agravo interno, o que impede o atendimento do pleito da parte agravada.
+Desse modo, uma vez que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
