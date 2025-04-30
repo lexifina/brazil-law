@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÕES. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - STF. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado. Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios.
+2. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal - STF, ex vi art. 102, III, da Constituição da República.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quinta Turma desta Corte Superior em que foi desprovido o agravo regimental do MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA (fls. 356/364).
+A defesa alega que há omissão no julgado, na medida em que não foram expressamente prequestionados o dispositivo invocado nas razões do agravo regimental (arts. 5º, XXVIII, d, da Con stituição Federal).
+Requer que os embargos de declaração sejam acolhidos para suprir a omissão apontada e restabelecer a decisão de pronúncia.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÕES. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - STF. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado. Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios.
+2. Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal - STF, ex vi art. 102, III, da Constituição da República.
+3. Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade do decisum embargado.
+Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios.
+Não é atribuição desta Corte o prequestionamento de dispositivos constitucionais sob pena de invasão de competência do Supremo Tribunal Federal.
+Desse modo, observa-se que o embargante pretende, em verdade, a modificação do des provimento anterior, com a rediscussão da questão decidida, o que não se coaduna com a medida integrativa. Nesse sentido:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE FORMAÇÃO DE QUADRILHA, SONEGAÇÃO FISCAL E PREVIDENCIÁRIA, APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA E FALSIDADE IDEOLÓGICA. FIANÇA. INDEFERIMENTO DO LEVANTAMENTO. INCLUSÃO NO ROL DE BENS SEQUESTRADOS. NATUREZA JURÍDICA INALTERADA. OMISSÃO NÃO CONFIGURADA. EMBARGOS REJEITADOS.1. A teor do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.2. A controvérsia central diz respeito à possível transmutação da natureza jurídica da fiança em sequestro de bens, decorrente do indeferimento do levantamento da fiança prestada pelo juízo criminal e sua inclusão no rol de bens sequestrados.3. A fiança possui a finalidade de garantir o cumprimento das obrigações processuais, enquanto o sequestro de bens consiste na retenção de bens móveis e imóveis, adquiridos por meio de proventos ilícitos, para garantir a reparação da vítima ou evitar o enriquecimento ilícito do agente delituoso.4. No caso em tela, o indeferimento do levantamento da fiança e sua inclusão no rol de bens sequestrados não promoveu a alteração da natureza jurídica da fiança para sequestro de bens. A inclusão decorreu da necessidade de assegurar o cumprimento de eventuais débitos relacionados ao procedimento de sequestro.5. A natureza jurídica da fiança não se modifica, também em razão da natureza específica do delito
+investigado. Mesmo que o recorrente seja acusado de sonegação fiscal, o valor fornecido como fiança não pode ser considerado como um crédito tributário ou previdenciário, uma vez que são imputados a ele outros crimes, como falsidade ideológica e formação de quadrilha.6. Verifica-se que o art. 2º-A da Lei n. 9.073/1998 e o art. 39, § 4º, da Lei n. 9.250/1995 não se aplicam aos depósitos judiciais resultantes de fiança na Justiça Comum Federal, e o afastamento do art. 11 da Lei n. 9.289/1996 pelo Superior Tribunal de Justiça, em relação aos índices aplicáveis aos depósitos judiciais, configuraria afronta à Súmula Vinculante 10 do STF.7. Embargos de declaração rejeitados.
+(EDcl no AREsp n. 2.268.651/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 22/8/2023, DJe de 28/8/2023.)
+A nte o exposto, voto no sentido de rejeitar os embargos declaratórios.
