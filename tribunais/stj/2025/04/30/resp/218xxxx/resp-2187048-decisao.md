@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por PABLO ANHOLETO MONTANHER, com apoio na alínea a do permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta nos autos que o recorrente foi condenado às penas de 01 (um) ano de detenção e 10 (dez) dias-multa, e 08 (oito) anos e 04 (quatro) meses de reclusão, em regime inicial fechado, além de 555 (quinhentos e cinquenta e cinco) dias-multa pelos delitos previstos no artigo 12, caput, e no artigo 16, caput, ambos da Lei nº 10.826/2003 e no artigo 33, caput, da Lei nº 11.343/2006, respectivamente (fls. 734-762), o que foi mantido pelo tribunal de origem (fls. 986-1006).
+Os embargos de declaração foram conhecidos e não providos (fls. 1018-1022).
+Nas razões do recurso especial, a defesa aponta violação ao art. 33, §4º, da Lei 11.343/06, alegando que o agravante era apenas uma "mula" para transporte de entorpecentes e não integrava ou se dedicava a organizações criminosas, desta forma, não poderia ser afastado o reconhecimento do tráfico privilegiado (fls. 1074-1088).
+Pontua, ainda nesse sentido, que a dedicação a atividades criminosas para o afastamento do tráfico privilegiado, exige a indicação de elementos concretos, não se configurando com o mero transporte único e eventual (fls. 1084).
+A acusação apresentou contrarrazões às fls. 1103-1105. O recurso especial foi admitido (fls. 1109-1110).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial, e se conhecido, pelo seu desprovimento (fls. 1125-1129).
+É o relatório. DECIDO.
+Presentes os pressupostos de admissibilidade, conheço do recurso especial.
+Cinge-se a controvérsia a determinar se o acórdão prolatado pelo Tribunal de origem, ao manter a sentença condenatória do recorrente, violou o artigo 33, § 4º, da Lei 11.343/2006, ao não aplicar a causa especial de diminuição de pena para o tráfico privilegiado.
+A defesa sustenta que a condição de "mula do tráfico", por si só, não comprova que o acusado integra organização criminosa, e, portanto, não se presta a fundamentar a não aplicação da minorante do tráfico privilegiado.
+Afirma que jurisprudência do Superior Tribunal de Justiça entende que, nesse contexto, é adequada a aplicação da minorante do tráfico privilegiado, ainda que em fração inferior a 2/3 (dois terços) (fls. 1086-1087).
+Não obstante, verifico ser impossível a análise desse pleito, pois essa tese, nos termos em que alegada no apelo nobre, não foi objeto de debate no Tribunal de origem, quando do julgamento da apelação criminal, o que inviabiliza o conhecimento do pedido em sede de recurso especial, devido à ausência de prequestionamento.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. SONEGAÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA E SONEGAÇÃO TRIBUTÁRIA. PRETENSÃO DE PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. FALTA DE PREQUESTIONAMENTO DA QUESTÃO. SÚMULA N. 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. CONSUNÇÃO ENTRE OS CRIMES DOS ARTS. 337-A, III DO CÓDIGO PENAL - CP E 1º, I, DA LEI N. 8.137/90. NÃO CABIMENTO. CRIMES AUTÔNOMOS. APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. AUSÊNCIA DE CONFISSÃO. ALTERAÇÃO DEMANDA ANÁLISE DE PROVA. ÓBICE DA SÚMULA N. 7 DO STJ. PRETENSÃO DE REDUÇÃO DA PENA-BASE NO MÍNIMO LEGAL. EXASPERAÇÃO DA PENA AMPARADA EM ELEMENTO CONCRETO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A alegada violação ao art. 28-A do Código de Processo Penal - CPP não foi debatida no acórdão recorrido, não merecendo ser conhecida no apelo raro. Incidência da Súmula n. 211 do Superior Tribunal de Justiça.
+ ..
+5. Agravo regimental desprovido." (AgRg no REsp n. 2.047.314/PE, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 4/3/2024, DJe de 6/3/2024)
+" ..
+3. A arguida inobservância da cadeia de custódia não foi objeto de análise pelo acórdão recorrido, inexistindo o requisito do prequestionamento, motivo pelo qual não pode ser analisada, ante o que preceituam as Súmulas n. 282 e 356/STF.
+ ..
+5. Agravo regimental desprovido." (AgRg no AREsp n. 2.302.743/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/3/2024, DJe de 15/3/2024)
+Com efeito, constato  que  a  controvérsia  trazida  no  apelo  especial  não  foi  suscitada  nas razões da  apelação  (fls.  793-823) e nem nos embargos de declaração opostos pela Defesa (fls. 1018-1022).  Dessarte,  não  sendo  possível  o  conhecimento  do  recurso,  por  se  tratar  de  nítida  inovação  recursal,  tendo  em  vista  que  o  recorrente  não  pleiteou  ao  eg.  Tribunal  de  origem,  no  momento  oportuno,  a  matéria  referenciada.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. CRIMES AMBIENTAIS. COMPETÊNCIA DA JUSTIÇA ESTADUAL EM RAZÃO DA MATÉRIA. INOVAÇÃO EM SEDE ESPECIAL. IMPOSSIBILIDADE. PRORROGAÇÃO DE COMPETÊNCIA DO JUÍZO ESTADUAL. TRANSAÇÃO PENAL ANTERIORMENTE HOMOLOGADA EM RELAÇÃO À CORRÉ. IMPOSSIBILIDADE. NATUREZA ABSOLUTA DA COMPETÊNCIA FEDERAL. AGRAVO IMPROVIDO.
+1. Nos termos do entendimento consolidado nesta Corte, não é admissível a inovação de teses recursais na via especial, de forma que a análise da temática pelas instâncias de origem é requisito necessário para o conhecimento da questão, ante a necessidade de prequestionamento, nos termos da Súmula n. 282/STF.
+ ..
+2. Agravo a que se nega provimento." (AgRg no AgRg no AREsp 1289926/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe 22/04/2019)
+"PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FALSIFICAÇÃO E SUPRESSÃO DE DOCUMENTO PÚBLICO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. NULIDADE ALEGADA. AUSÊNCIA DE PREJUÍZO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. ADEQUAÇÃO TÍPICA. SÚM. 7 DESTA CORTE. DOSIMETRIA. REVISÃO. POSSIBILIDADE. PERSONALIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA.
+I - Nos termos da jurisprudência desta Corte Superior, trata-se de inovação recursal, a matéria não alegada no momento oportuno, qual seja, apelação, sendo inviável a sua análise pelo Tribunal de origem, por força do princípio do tantum devolutum quantum appellatum, ainda que se refira à matéria de ordem pública. Precedentes." (AgRg nos EDcl no REsp n. 1.389.417/BA, Quinta Turma, Rel. Min. Felix Fischer, DJe de 16/10/2017).
+Dessa forma, esta Corte fica impedida de apreciar no apelo nobre a tese ora deduzida, por ausência de prequestionamento, acarretando a incidência dos óbices contidos nas Súmulas 282 e 356, ambas do Supremo Tribunal Federal, que dispõem respectivamente:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada";
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Oportunamente,  ressalto  que  para  que  se  configure  o  prequestionamento,  há  que  se  extrair  do  v.  acórdão  recorrido  pronunciamento  sobre  as  teses  jurídicas  em  torno  dos  dispositivos  legais  tidos  como  violados,  indicadas  no  recurso  analisado,  a  fim  de  que  se  possa,  na  instância  especial,  abrir  discussão  sobre  determinada  questão  de  direito,  definindo-se,  por  conseguinte,  a  correta  interpretação  da  legislação  federal  (AgRg  no  AREsp  n.  454.427/SP,  Quinta  Turma,  Rel.  Min.  Luís  Felipe  Salomão,  DJe  de  19/2/2015),  situação  esta  inexistente  in  casu.
+Ilustrativamente:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PENAL  E  PROCESSUAL  PENAL.  CONTRABANDO.  CIGARRO.  PRINCÍPIO  DA  INSIGNIFICÂNCIA.  IMPOSSIBILIDADE.  CONDENAÇÃO  LASTREADA  EM  PROVAS  EXTRAJUDICIAIS.  PROCEDIMENTO  ADMINISTRATIVO-FISCAL.  POSSIBILIDADE.  AUSÊNCIA  DE  CONTRARRAZÕES  ACUSATÓRIAS  À  APELAÇÃO.  MATÉRIA  NÃO  PREQUESTIONADA.  SÚMULA  N.º  282/STF.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  É  inaplicável  o  princípio  da  insignificância  ao  crime  de  contrabando  de  cigarros,  pois  se  trata  de  delito  que  atinge  bens  jurídicos  diversos  da  simples  elisão  fiscal,  como  a  saúde  pública  e  a  segurança  do  consumidor.  Precedentes.
+2.  Não  há  ofensa  ao  art.  155  do  Código  de  Processo  Penal  quando  a  condenação  está  lastreada  em  provas  inicialmente  produzidas  na  esfera  administrativo-fiscal  e,  depois,  reexaminadas  na  instrução  criminal,  com  observância  do  contraditório  e  da  ampla  defesa.
+3.  O  prequestionamento  é  pressuposto  recursal  indispensável  para  o  conhecimento  das  alegações  no  recurso  especial,  inclusive  quanto  a  temas  que  sejam  alegadamente  de  ordem  pública.
+4.  Agravo  regimental  desprovido."  (AgRg  no  AREsp  1394756/PR,  Sexta  Turma,  Rel.  Ministra  Laurita  Vaz,  DJe  03/04/2019  -  grifei).
+Diante do exposto, não conheço do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ART. 241-B DO ECA. ARTS. 383 E 384, AMBOS DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356, AMBAS DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
