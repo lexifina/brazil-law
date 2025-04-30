@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão assim ementado (fls. 110-116):
+AGRAVO EM EXECUÇÃO - RECURSO MINISTERIAL - INIMPUTABILIDADE - MEDIDA DE SEGURANÇA - INTERNAÇÃO - MODULAÇÃO PARA TRATAMENTO AMBULATORIAL - PERÍCIA - DESNECESSIDADE - APTIDÃO DO EXAME REALIZADO PELO PAI-PJ - RECURSO DESPROVIDO.
+- É prescindível a realização de perícia médica para a modulação da medida de segurança quando há nos autos documentos idôneos a embasar a decisão do magistrado.
+- Não há subsídio para desprestigiar ou desqualificar a decisão que modulou a medida de segurança de internação para ambulatorial, vez que se deu com base em exames realizados por profissionais especializados e qualificados.
+Nas razões do recurso, interposto com base no art. 105, a e §§ 2º e 3º, I, da Constituição da República, o MPMG argumenta que a decisão recorrida desconsiderou a exigência de realização de perícia médica oficial para a verificação da hipótese de cessação de periculosidade da recorrida, violando o previsto nos arts. 97, § 1º, do Código Penal e 175, II, da Lei de Execução Penal.
+Articula, ainda, que (fl. 134):
+ ..  a despeito da existência de estudo técnico emitido por equipe multidisciplinar (Programa de Atenção Integral ao Paciente Judiciário - PAI-PJ) opinando pela adequação da submissão da agravada a tratamento ambulatorial, em substituição à medida de internação, certo é que a desinternação depende da comprovação da cessão de periculosidade do agente por perícia médica, que não pode ser substituída por aquele relatório.
+Requer o conhecimento e o provimento do recurso, para reformar a decisão do Tribunal de origem, visando o restabelecimento da medida de segurança de internação aplicada, com a determinação de realização de perícia médica na recorrida para atestar a cessação ou não da sua periculosidade.
+Contrarrazões apresentadas pela Defensoria Pública do Estado de Minas Gerais na qual levanta o óbice da Súmula n. 7 do STJ, que impediria o conhecimento e o provimento do recurso especial interposto.
+Parecer do Ministério Público Federal opinando pelo conhecimento e provimento do recurso especial, nos termos da seguinte ementa (fl. 166):
+RECURSO ESPECIAL. PENAL. HOMICÍDIO. MEDIDA DE SEGURANÇA. CESSAÇÃO DA PERICULOSIDADE. NECESSÁRIA PERÍCIA MÉDICA.
+1. O recorrente afirma que, embora não cessada a periculosidade do recorrido, foi convertida a medida de segurança em tratamento ambulatorial e que a desinternação depende de se comprovar que cessou a periculosidade do agente, por meio de perícia médica, que está prevista no art. 97-§1º do CP e art. 175-II da LEP. Sustenta que essa não pode ser substituída por relatório da equipe multidisciplinar do Programa de Atenção Integral ao Paciente Judiciário-PAI-PJ.
+2. Conforme dispõe artigo 97, §1º, do Código Penal, "a internação, ou tratamento ambulatorial, será por tempo indeterminado, perdurando enquanto não for averiguada, mediante perícia médica, a cessação de periculosidade. O prazo mínimo deverá ser de 1 (um) a 3 (três) anos.".
+3. No mais, o artigo 175, inciso II, da Lei de Execução Penal dispõe que o relatório do exame das condições pessoais do agente, para se aferir a cessação da periculosidade, será instruído com laudo psiquiátrico.
+4. Portanto, a modulação da medida de segurança de internação para tratamento ambulatorial baseada apenas no relatório da equipe multidisciplinar do Programa de Atenção Integral ao Paciente Judiciário-PAI-PJ, sem a realização de perícia médica, fere tais dispositivos legais.
+5. Parecer pelo provimento do recurso especial.
+É o relatório.
+O recurso especial tem como objetivo o restabelecimento da medida de segurança de internação aplicada à recorrida, com a determinação de realização de perícia médica para atestar a cessação ou não da sua periculosidade.
+A pretensão, contudo, não se resume à mera aplicação do direito aos aspectos fáticos delineados no acórdão recorrido, pois o acolhimento do recurso especial dependeria de analisar, no caso concreto, o mérito do exame realizado pelo Programa de Atenção Integral ao Paciente Judiciário - PAI-PJ, vinculado ao Programa Novos Rumos do Tribunal de Justiça do Estado de Minas Gerais, que baseou a decisão do Juízo monocrático de modulação da internação da recorrida.
+No caso, portanto, incide a Súmula n. 7 do STJ, uma vez que "a pretensão de simples reexame de prova não enseja recurso especial".
+O papel definido pela Constituição Federal para o Superior Tribunal de Justiça na apreciação do recurso especial não é o de promover um terceiro exame da questão posta no processo, limitando-se à apreciação de questões de direito, viável apenas quando não houver questionamentos que envolvam os fatos e as provas do processo.
+Por isso, quando não puder ser utilizado com a finalidade exclusiva de garantir a uniformidade da interpretação da lei federal, analisada abstratamente, não se pode conhecer do recurso especial, que não se presta à correção de alegados erros sobre a interpretação fático-processual alcançada pelas instâncias ordinárias.
+Esse é o pacífico sentido da jurisprudência deste Superior Tribunal (AgRg no AREsp n. 2.479.630/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 16/9/2024, DJe de 18/9/2024; AgRg no REsp n. 2.123.639/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/5/2024, DJe de 3/6/2024; e AgRg nos EDcl no AREsp n. 2.357.390/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 8/4/2025, DJEN de 22/4/2025).
+Por outro lado, a decisão recorrida considerou as premissas constantes da Lei n. 10.216, de 6/4/2001 , também chamada "Lei Antimanicomial", que veio na esteira do chamado "Movimento Antimanicomial", que prega a reforma da política psiquiátrica.
+Segundo as diretrizes dessa normativa, a atenção e tratamento da saúde mental deveriam deixar de ter como epicentro a unidade hospitalar. O parágrafo único do art. 6º da Lei Antimanicomial elenca, de modo exaustivo, três espécies de internação psiquiátrica: a internação voluntária (a pedido do paciente), a internação involuntária (contra a vontade do paciente) e a internação compulsória (aquela determinada pela Justiça). A medida de segurança nada mais é que uma internação determinada pelo Poder Judiciário, portanto, uma internação compulsória.
+Por conseguinte, sendo uma internação psiquiátrica compulsória, deveria também seguir os ditames previstos para todo o sistema de saúde mental. Entre os ditames do tratamento psiquiátrico se encontra a utilização prioritária de serviços da comunidade, restando a internação como ultima ratio, apenas nos períodos de surto.
+Nesses termos, o art. 4ª da Lei n. 10.216/2001 dispõe que "a internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes".
+Ainda do mencionado art. 4ª da Lei n. 10.216/2001:
+§ 1º O tratamento visará, como finalidade permanente, a reinserção social do paciente em seu meio.
+§ 2º O tratamento em regime de internação será estruturado de forma a oferecer assistência integral à pessoa portadora de transtornos mentais, incluindo serviços médicos, de assistência social, psicológicos, ocupacionais, de lazer, e outros.
+No caso concreto, como observado no acórdão recorrido, "o Relatório psicossocial elaborado pela equipe multidisciplinar do PAI-PJ evidencia que os cuidados ambulatoriais mostram-se adequados e suficientes, sendo inarredável a modulação da medida de segurança".
+Agrego, ainda, o disposto no art. 17 da Resolução n. 113/2010 do CNJ, que estabelece que: "O juiz competente para a execução da medida de segurança, sempre que possível buscará implementar políticas antimanicomiais, conforme sistemática da Lei n. 10.216, de 06 de abril de 2001."
+No mesmo sentido destaco a seguinte decisão monocrática proferida por esta Corte Superior:
+AGRAVO EM RECURSO ESPECIAL Nº 2891596 - MG (2025/0102972-0) DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é a seguinte (e-STJ fl. 57):
+AGRAVO EM EXECUÇÃO PENAL - RECURSO MINISTERIAL - MANUTENÇÃO DO TRATAMENTO AMBULATORIAL - RELIZAÇÃO DE EXAME DE PERÍCIA - DESNECESSIDADE - APTIDÃO DO EXAME REALIZADO PELO PAI-PJ - RECURSO DESPROVIDO. - In casu, diante do relatório interdisciplinar pelo Núcleo Psicossocial da CEMES colacionado aos autos, não há subsídio para desprestigiar ou desqualificar a decisão que modulou a medida de segurança de internação para ambulatorial, uma vez que se deu com base em análise por profissionais especializados e qualificados. - É prescindível a realização de perícia médica para a modulação da medida de segurança quando há nos autos documentos idôneos a embasar a decisão do magistrado.
+Nas razões do recurso especial (e-STJ fls. 97/104), fundado na alínea a do permissivo constitucional, alega a parte recorrente violação dos artigos 97, §§ 1º e 2º, do Código Penal, e 175, inciso II, da Lei de Execução Penal. Sustenta não ser possível o encerramento da internação ou do tratamento ambulatorial sem a realização de exame pericial médico.
+O Tribunal a quo não admitiu o recurso especial (e-STJ fls. 115/116) e o Parquet interpôs o presente agravo (e-STJ fls. 126/131).
+O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo e provimento do recurso especial (e-STJ fls. 153/161).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso especial, entretanto, não merece conhecimento.
+O recorrente pleiteia a reforma da decisão que modulou a medida de segurança de internação para tratamento ambulatorial, ao argumento de que é imprescindível a realização de perícia médica.
+O Tribunal de Justiça local, soberano na análise do conjunto fático-probatório, concluiu que o relatório interdisciplinar elaborado pelo Núcleo Psicossocial da CEMES preencheu os requisitos necessários para a modulação da medida de segurança, e confirmou a decisão do Magistrado de Primeiro Grau.
+Abaixo, trecho do acórdão recorrido (e-STJ fl. 61), no que interessa:
+ ..
+Com efeito, o art. 17 da Resolução do CNJ, n. 113/2010, estabelece que: "O juiz competente para a execução da medida de segurança, sempre que possível buscará implementar políticas antimanicomiais, conforme sistemática da Lei nº 10.216, de 06 de abril de 2001."
+Por seu turno, a Recomendação do CNJ, n. 35/2011, indica aos Tribunais que "na execução da medida de segurança, adotem a política antimanicomial, sempre que possível, em meio aberto" (item I), estabelecendo, ainda, como diretriz a "realização de perícias por equipe interdisciplinar" (item II, "i").
+No caso em apreço, tal profícua recomendação foi observada, tendo sido elaborado robusto parecer interdisciplinar que fornece um panorama preciso sobre as condições do indivíduo, apontando de forma clara, não só a desnecessidade de tal medida excepcional no bojo do tratamento, mas que o paciente vive sozinho, sem causar problemas aos vizinhos.
+Nesse contexto, saliento que a equipe multidisciplinar do CEMES é totalmente qualificada e possui grande experiência em acompanhamento dos casos relacionamentos a pacientes em medida de segurança.
+Portanto, tendo em vista os elementos colhidos, torna-se inviável a reforma da decisão combatida.
+Assim, para alterar a conclusão a que chegaram as instâncias ordinárias, e decidir que os "robustos" relatórios elaborados pela equipe multidisciplinar não são eficazes para permitir o acompanhamento/modulação da medida de segurança, como requer a parte recorrente, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea a, parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+Brasília, 30 de abril de 2025.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
+(AREsp n. 2.891.896/MG, decisão monocrática, relator Ministro Reynaldo Soares da Fonseca, julgado em 30/4/2025, DJEN de 6/5/2025, grifos próprios.)
+Por fim, registro que, n  os termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
