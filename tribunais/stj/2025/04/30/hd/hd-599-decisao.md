@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas data impetrado por COOPERVALE ALIMENTOS S.A. FALIDA em que aponta como autoridade coatora o Ministro Og Fernandes, ao argumento de que deixou de decidir, no prazo de 15 dias, o pedido de retificação de dados nos autos do MS n. 29.464-DF.
+Aduz que o presente HD é renovação do HD n. 593-DF que teria perdido objeto.
+Sustenta que pediu a retificação de dados, a fim de excluir a expressão "falida" do seu nome, pois é uma empresa normal e ordinária, haja vista que deixou de ser uma empresa recuperanda "após a fruição de 2 anos contados do trânsito em julgado em 28/01/2016 da sentença nº 0409355-12.2013.8.13.0701 que concedeu a recuperação judicial em 23/02/2015".
+Requer a concessão da ordem, a fim de que se reconheça não se tratar de empresa falida.
+É o relatório. Decido.
+Ao contrário do que se afirma na exordial, o HD n. 593-DF não perdeu objeto, tendo sido devidamente examinado, porém não logrando superar o juízo de conhecimento. A uma, porque tratava-se de renovação do HD n. 531-DF, igualmente não conhecido por vício de representação. A duas, porque a impetrante não apresentou documento hábil a afastar a anotação constante na Junta Comercial de Minas Gerais, segundo a qual sua falência foi decretada em 20/6/2018, nos autos do Processo n. 0409355-12.2013.8.13.0701, de sorte que passa a ser representada apenas pela administradora judicial designada. A três, por a pretensão deduzida não se referir propriamente à retificação de registro incorreto, mas envolver controvérsia acerca da essência do registro decorrente da decisão judicial que decretou sua quebra, o que não cabe na via eleita.
+Vê-se, portanto, que o presente habeas data nada mais é do que a repetição de pretensão já rechaçada por esta Corte.
+Em consulta ao sítio eletrônico do STJ, é possível verificar a distribuição de mais de uma centena de processos da mesma parte em que se busca, igualmente, rediscutir o estado de falência da impetrante, todos desacolhidos. Essa interposição descabida de sucessivos expedientes processuais, com a finalidade de ter acolhida pretensão rechaçada inúmeras vezes pelo Superior Tribunal de Justiça, revela inequívoco abuso do direito de ação, configurando hipótese de litigância de má-fé e ato atentatório à dignidade da Justiça.
+Além disso, a exordial promove a alteração da verdade dos fatos (CPC, art. 80, II) ao omitir dolosamente fato relevante e consistente na existência de sentença que convolou o feito recuperacional em falência, transitada em julgado em 3.7.2019.
+Anote-se que a litigância de má-fé, no caso, é cometida pelo advogado, visto que a Coopervale encontra-se sob regime falimentar e é representada por administradora judicial designada na primeira instância. Assim, deve o causídico responder pessoalmente, nos termos dos arts. 662 do Código Civil e 104, § 2º, do CPC.
+Ante o exposto, não conheço do presente habeas data.
+Configurada a litigância de má-fé do advogado, aplico-lhe a multa prevista no art. 81 do Código de Processo Civil, que arbitro, com base no § 2º, em R$ 5.000,00, a ser revertida em favor da União .
+Publique-se. Intimem-se.
+EMENTA
