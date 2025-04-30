@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ADRIELLE DA SILVA DE OLIVEIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que, em juízo de admissibilidade, inadmitiu o recurso especial por ela apresentado contra o acórdão proferido na Apelação Criminal n. 0748999-65.2023.8.07.0001 (fls. 343/355).
+No recurso especial, a agravante indica a violação dos arts. 28 da Lei 11.343/2006; 240, § 2º, e 386, VII, ambos do Código de Processo Penal, requerendo: a) Reconhecimento da nulidade da busca pessoal, nos termos do artigo 240, § 2º, do CPP, e por conseguinte, a absolvição da recorrente; b) Caso assim não se entenda, seja reconhecida a insuficiência das provas delimitadas pelas instâncias ordinárias, para condenação por tráfico, nos termos do artigo 386, VII, do CPP; c) Subsidiariamente, seja desclassificada a conduta da recorrente para o delito do artigo 28 da Lei 11.343/2006 (fl. 393).
+Apresentadas contrarrazões (fls. 404/409), o Tribunal de origem não admitiu o recurso com suporte nos óbices das súmulas 7 e 83/STJ (fls. 415/417).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 423/431).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento da insurgência. (fls. 467/468).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade. Quanto ao recurso especial em si, tenho que não prosperam as teses apresentadas pela agravante.
+No que se refere à alegada nulidade na busca pessoal, assim se manifestou a instância ordinária (fls. 345/347 - grifo nosso):
+ ..
+A Defesa suscita a nulidade da busca pessoal da apelante, ao argumento de falta de demonstração da existência de fundada razão para as diligências. Aduz que "que não havia qualquer fato que pudesse motivar a utilização do método de investigação invasivo de busca pessoal, eis que não haviam fundadas suspeitas, conforme amplamente narrado pelos policiais militares ouvidos, em sede de inquérito e em juízo, houve um claro juízo com uma pessoa que estava fumando, questão essa de saúde pública."
+Porém, não assiste razão à recorrente.
+No caso retratado nos autos, conforme se observa da instrução processual, especificamente nos depoimentos dos policiais militares condutores do flagrante, a busca pessoal da acusada foi justificada diante das fundadas suspeitas de cometimento de ilícito pela abordada, como prevê o artigo 240 do Código de Processo Penal, pelo fato de que os policiais, no momento em que estavam aguardando uma ordem de serviço, avistaram a ré caminhando e fumando um cigarro de maconha, que possuía o odor característico da droga, além de estar carregando uma mochila nas costas.
+À toda evidência, a atitude da ré indicou aos policiais militares que se tratava de situação suspeita a justificar a busca pessoal realizada, nos termos do artigo 244, do CPP.
+Há que se ressaltar que os depoimentos prestados por policiais, agentes públicos no exercício de suas atribuições, merecem credibilidade e não podem ser desconsiderados, afinal, são agentes públicos que, no exercício das suas funções, praticam atos administrativos que gozam do atributo da presunção de legitimidade, ou seja, são presumidamente legítimos, legais e verdadeiros, notadamente, quando firmes, coesos e reiterados, em consonância com a dinâmica dos acontecimentos e corroborado por outras provas, e sem indicação de qualquer atitude dos agentes com o propósito de prejudicar a ré.
+Sobre essa insurgência da Defesa, o juiz sentenciante, em sua bem fundamentada sentença, rebateu o argumento destacando que (id 63669544):
+Ora, no caso analisado, é possível perceber uma situação de flagrante delito muito inusitada, porquanto durante a instrução processual foram observados diversos indícios de flagrante delito extraídos dos depoimentos dos policiais e da própria acusada, senão vejamos:
+1) os policiais estavam aguardando uma ordem de serviço quando visualizaram uma pessoa caminhando e fumando um cigarro de maconha;
+2) afirmaram que além de fumar o cigarro de maconha, identificado pelo odor característico, a denunciada carregava uma mochila nas costas;
+3) esclareceram que em função dessas circunstâncias, objetivas, decidiram pela realização da abordagem;
+4) destacaram que durante a abordagem e a confirmação de se tratar de um cigarro de maconha, decidiram por revistar a mochila que a acusada trazia consigo;
+5) narraram que ao revistar a mochila, encontraram as demais porções de maconha;
+Ou seja, não existe espaço para compreender a tese de que não havia indícios ou a denominada fundada suspeita para a atuação dos agentes públicos, que naquela ocasião estavam diante de uma situação completamente flagrancial, no mínimo pelo fato do art. 28 da LAT, porquanto a acusada estava fumando um cigarro de maconha, de forma ostensiva, na imediata presença dos policiais, que tinham o dever de agir.
+Assim, era necessária e imperativa a realização da abordagem para constatar, sobretudo, a situação originária flagrancial de porte de substância entorpecente para consumo pessoal (cigarro sendo consumido), merecendo lembrança que à época dos fatos ainda não existia a decisão do STF que definiu pela atipicidade do porte de maconha para consumo próprio dentro do limite de até 40g, aspectos que, ao sentir deste juízo, são absurdamente suficientes para justificar a abordagem policial.
+ ..
+Assim, a abordagem está lastreada em fundada suspeita, razão pela qual não há falar em ilegalidade ou abusividade a ponto de desqualificar a prova como ilícita e, por conseguinte, ensejar a absolvição da ré.
+Portanto, não merece prosperar a preliminar suscitada pela Defesa.
+ ..
+Diante do quanto exposto no trecho acima transcrito, tem-se que não se verifica ilegalidade na conduta perpetrada pelos policiais, notadamente diante do fundamento de que os policiais, no momento em que estavam aguardando uma ordem de serviço, avistaram a ré caminhando e fumando um cigarro de maconha, que possuía o odor característico da droga, além de estar carregando uma mochila nas costas, que evidencia a devida justa causa necessária à perpetrada busca pessoal e domiciliar.
+Cito: AgRg no HC n. 854.674/AL, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/10/2023, DJe de 25/10/2023.
+Quanto aos pleitos de absolvição ou de desclassificação da conduta, para revisar o aferido pela Corte de origem, às fls. 273/278, seria necessária a incursão em aspectos de índole fático-probatória, medida essa inviabilizada na via eleita pela incidência do óbice constante da Súmula 7/STJ.
+A propósito: AgRg no AREsp n. 2.467.217/MG, Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe 25/6/2024.
+Em face do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS (133,36 G DE MACONHA). VIOLAÇÃO DOS ARTS. 28 DA LEI N. 11.343/2006; E 240, § 2º, E 386, VII, AMBOS DO CPP. TESE DE NULIDADE. PROVAS ILÍCITAS. ALEGAÇÃO DE NULIDADE NA BUSCA PESSOAL. FUNDADAS RAZÕES. VERIFICAÇÃO. OCORRÊNCIA. POLICIAIS QUE AVISTARAM A RECORRENTE CAMINHANDO E FUMANDO UM CIGARRO DE MACONHA. JUSTA CAUSA DEMONSTRADA PELA INSTÂNCIA ORDINÁRIA. PEDIDO DE ABSOLVIÇÃO OU DE DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES PARA CONSUMO PRÓPRIO. INVIABILIDADE. NECESSIDADE DE REVISÃO DO CADERNO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
