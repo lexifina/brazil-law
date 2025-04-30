@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. GRAU DE REDUÇÃO JUSTIFICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A aplicação da fração menos benéfica pelas instâncias originárias foi devidamente fundamentada, em razão da condição de "mula" para o tráfico internacional de entorpecentes da recorrente. Precedente.
+2. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que a Corte local, reformando a sentença condenatória, reconheceu a minorante do tráfico privilegiado, mas aplicou a redução no patamar mínimo (1/6), fração esta que, consideradas as peculiaridades do caso concreto - não apenas a grande quantidade de droga apreendida, quase 8 kg de cocaína, mas também a atuação na condição de "mula" do tráfico internacional -, encontra-se devidamente justificada. Incidência da Súmula n. 83 do STJ.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental manejado por PELAGIA PETRUS contra a decisão de fls. 701-705, que negou provimento ao recurso especial.
+A parte agravante discute apenas a parte da decisão que manteve o grau de redução da pena em razão do tráfico privilegiado. Aduz que a recorrente faz jus a que incida o grau máximo de redução previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Requer o provimento do agravo regimental, com o consequente conhecimento e provimento do agravo em recurso especial.
+Manifestação do Ministério Público Federal pelo improvimento do agravo regimental (fls. 724-728).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO PRIVILEGIADO. GRAU DE REDUÇÃO JUSTIFICADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A aplicação da fração menos benéfica pelas instâncias originárias foi devidamente fundamentada, em razão da condição de "mula" para o tráfico internacional de entorpecentes da recorrente. Precedente.
+2. As razões do agravo regimental não modificam a conclusão da decisão recorrida, uma vez que a Corte local, reformando a sentença condenatória, reconheceu a minorante do tráfico privilegiado, mas aplicou a redução no patamar mínimo (1/6), fração esta que, consideradas as peculiaridades do caso concreto - não apenas a grande quantidade de droga apreendida, quase 8 kg de cocaína, mas também a atuação na condição de "mula" do tráfico internacional -, encontra-se devidamente justificada. Incidência da Súmula n. 83 do STJ.
+3. Agravo regimental improvido.
+VOTO
+Como constou do relatório, a parte agravante discute no agravo regimental apenas o tópico da decisão monocrática que negou provimento ao recurso especial mantendo o grau de diminuição alcançado pelo Tribunal de origem para o tráfico privilegiado.
+Especificamente, o seguinte trecho (fls. 702-704, destaques originais):
+Já no que se refere ao patamar da minorante do art. 33, § 4º, da Lei 11.343/2006, extrai-se do acórdão combatido (fls. 561-562):
+No tocante a causa de diminuição do § 4º do art. 33 da Lei nº11.343/2006, afastou-se sua incidência sob o fundamento de que a acusada não faria jus a benesse, uma vez que apreendida em seu poder expressiva quantidade de droga (quase oito quilos de cocaína), situação "muito superior à média de apreensões que tem se visto no Juízo", bem como pelo fato de que no passaporte da ré, no ano de 2022, haveria carimbos relativos a viagens para Angola, Botswana e África do Sul.
+A ré justificou essas viagens, como a sua ida à África do Sul para visitar o namorado, retornando, via Botsuwana, por ser mais econômico e, com relação à sua passagem por Angola, teria sido por orientação "das pessoas que lhe mandaram" para o Brasil, para que a viagem fosse através do referido país.
+Ponderou-se, que esses fatores, somados, seriam indícios muito fortes de que os fatos tratados nesses autos não seriam uma situação isolada na vida da ré e afastariam a aplicação do privilégio.
+Requer a defesa, nesse ponto, a reforma da sentença para que a aplicação da causa de diminuição seja feita em grau máximo (2/3), pelo ora reconhecimento do chamado tráfico privilegiado.
+Assinale-se que o magistrado não está obrigado a aplicar o máximo da redução prevista quando presentes os requisitos para a concessão desse benefício, possuindo discricionariedade para fixar, de forma fundamentada, a redução no patamar que entender necessário e suficiente para a reprovação e prevenção do crime.
+Na hipótese, considero que a quantidade da droga, foi condição já utilizada para a majoração da pena-base, e assim, não poderia novamente ser utilizada para afastar o privilégio, sob pena de inevitável bis in idem.
+No mais, os argumentos apresentados pelo juízo a quo para afastar a benesse, cuidam-se de mera presunção de que o deslocamento anterior da acusada, dentro do continente africano, teria se dado por determinação e à serviço da organização criminosa.
+Dessa forma, considero satisfatoriamente preenchidos os elementos do § 4º do art. 33 da Lei de drogas, no sentido que deva ser aplicada a redução da pena no patamar de 1/6 (um sexto).
+Verifica-se que a Corte local, reformando a sentença condenatória, reconheceu a minorante do tráfico privilegiado, mas aplicou a redução no patamar mínimo (1/6), fração esta que, consideradas as peculiaridades do caso concreto - não apenas a grande quantidade de droga apreendida, quase 8 quilos de cocaína, mas também a atuação na condição de "mula" do tráfico internacional -, encontra-se devidamente justificada.
+Em casos semelhantes, cito recentes julgados desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO EM PATAMAR MÍNIMO. CONDIÇÃO DE MULA. CIRCUNSTÂNCIAS DO CASO CONCRETO. REGIME MAIS GRAVOSO JUSTIFICADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena, devem ser orientadoras do cálculo da minorante as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+3. A redução de 1/6 é a adequada ao caso concreto, pois trata-se de réu que desempenhou papel importante na cadeia delitiva de distribuição das drogas destinada ao tráfico internacional, com expressiva quantidade de entorpecente (8 kg de cocaína), em empreitada criminosa que demonstra sofisticação e complexidade suficientes para ensejar a aplicação da fração mínima de redução.
+4. A existência de circunstância judicial desfavorável, que ensejou a exasperação da pena-base - quantidade de droga apreendida - é dado suficiente para lastrear o agravamento do regime inicial de cumprimento de pena e a impossibilidade da substituição por restritiva de direitos.
+5. Agravo regimental não provido.
+(AgRg no HC n. 835.584/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/10/2023, DJe de 3/11/2023.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO EM PATAMAR MÍNIMO. CONDIÇÃO DE MULA INTERNACIONAL. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena é justamente punir com menor rigor o pequeno traficante.
+2. No que tange ao quantum de redução de pena, faço lembrar que tanto a Quinta quanto a Sexta Turma deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena, devem ser orientadoras do cálculo da minorante as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+3. A aplicação da fração menos benéfica pelas instâncias originárias foi devidamente fundamentada, em razão da condição de "mula" para o tráfico internacional de entorpecentes, da recorrente.
+4. A redução de 1/6 é a adequada ao caso concreto, pois trata-se de ré que desempenhou papel importante na cadeia delitiva de distribuição das drogas no cenário transnacional, com expressiva quantidade de entorpecentes (3 kg de cocaína), em empreitada criminosa que demonstra sofisticação e complexidade suficientes para ensejar a aplicação da fração mínima de redução.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.379.202/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 3/10/2023, DJe de 10/10/2023.)
+O acórdão recorrido harmoniza-se com a jurisprudência desta Corte, razão pela qual incide, na hipótese, a Súmula 83/STJ.
+Segundo a orientação do Superior Tribunal de Justiça, "a superação da Súmula n. 83, STJ, exige a indicação de precedentes contemporâneos ou supervenientes capazes de alterar  ..  o julgado, ou a demonstração de distinguishing, o que não ocorreu no caso dos autos" (AgRg no AREsp n. 2.543.587/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/8/2024, DJe de 30/8/2024).
+Não demonstrada tal circunstância nas razões do agravo em recurso, constata-se o acerto da decisão agravada. Nesse sentido (destaquei):
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. DECISÃO DE ADMISSIBILIDADE FUNDADA NA SÚMULA N. 83/STJ. INDICAÇÃO DE PRECEDENTES CONTEMPORÂNEOS OU SUPERVENIENTES. AUSÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+3. Na hipótese dos autos, o agravante, de fato, deixou de impugnar especificamente, de forma efetiva e pormenorizada, nas razões do agravo em recurso especial, o entrave atinente à incidência da Súmula n. 83/STJ, apontado pelo Tribunal de origem como um dos fundamentos para inadmitir o recurso.
+4. Nos termos da orientação jurisprudencial desta Corte Superior, inadmitido o recurso especial com fundamento na Súmula n. 83/STJ óbice que também se aplica aos recursos especiais manejados com fundamento na alínea "a" do permissivo constitucional, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão recorrida, com vistas a demonstrar que outro é o entendimento jurisprudencial desta Corte sobre o tema, o que não ocorreu na hipótese dos autos. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.649.953/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
