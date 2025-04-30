@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. AMBIENTAL. APREENSÃO DE VEÍCULO USADO EM INFRAÇÃO. TEMA 1036 DO STJ. DISTINÇÃO ENTRE DESMATAMENTO E TRANSPORTE DE MADEIRA. DESCABIMENTO. SÚMULAS 83 E 7 DO STJ. INAPLICABILIDADE. RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1.  Nos termos do precedente que deu origem ao Tema 1036 do STJ, é inviável a aplicação de requisitos não previstos expressamente em lei para impedir a apreensão de bens usados em atividades ambientalmente ilícitas.
+2. A distinção afirmada pela origem entre a atividade ilícita considerada no Tema 1036 do STJ (transporte ilegal de madeira) e neste caso (desmatamento ilegal) é juridicamente irrelevante.
+3. Julgados de 2015 não servem de base à incidência da Súmula 83 do STJ em caso regrado por tese vinculante julgada em 2021 e precedentes de 2024 que a aplicam.
+4. Os elementos fáticos considerados pela origem tornam-se irrelevantes ante a tese vinculante aplicada, na medida em que a incidência do tema esvazia a premissa de invocação desses aspectos não previstos em lei. Não há incidência da Súmula 7 do STJ na situação analisada.
+5.  Agravo  interno  desprovido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por LEYRIANE FARIAS MUNIZ contra  decisão  que  deu provimento ao recurso especial, para cassar a segurança e determinar a devolução do bem ao órgão ambiental.
+Argumenta  a  parte agravante,  em  síntese (fl. 498):
+Na decisão recorrida sob fls. 459-462, entendeu o douto ministro relator que as conclusões do Tema Repetitivo nº 1.036 do STJ não dependem de dispensam a necessidade de prova do conhecimento do proprietário acerca do uso indevido do veículo para que seja determinada a apreensão do bem, inferindo que no caso em análise, o acórdão merece reforma, na medida em que contraria teses vinculantes desta Corte.
+No entanto, tal entendimento conflita diretamente com os dispositivos do Decreto nº 6.514/2008, que regulamentam a custódia dos bens apreendidos no âmbito administrativo.
+Defende, ainda, a incidência das Súmulas 7 e 83 do STJ sobre as pretensões do agravado.
+Por fim, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Impugnação apresentada.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO  INTERNO  NO RECURSO  ESPECIAL. AMBIENTAL. APREENSÃO DE VEÍCULO USADO EM INFRAÇÃO. TEMA 1036 DO STJ. DISTINÇÃO ENTRE DESMATAMENTO E TRANSPORTE DE MADEIRA. DESCABIMENTO. SÚMULAS 83 E 7 DO STJ. INAPLICABILIDADE. RECURSO ESPECIAL PROVIDO. AGRAVO INTERNO DESPROVIDO.
+1.  Nos termos do precedente que deu origem ao Tema 1036 do STJ, é inviável a aplicação de requisitos não previstos expressamente em lei para impedir a apreensão de bens usados em atividades ambientalmente ilícitas.
+2. A distinção afirmada pela origem entre a atividade ilícita considerada no Tema 1036 do STJ (transporte ilegal de madeira) e neste caso (desmatamento ilegal) é juridicamente irrelevante.
+3. Julgados de 2015 não servem de base à incidência da Súmula 83 do STJ em caso regrado por tese vinculante julgada em 2021 e precedentes de 2024 que a aplicam.
+4. Os elementos fáticos considerados pela origem tornam-se irrelevantes ante a tese vinculante aplicada, na medida em que a incidência do tema esvazia a premissa de invocação desses aspectos não previstos em lei. Não há incidência da Súmula 7 do STJ na situação analisada.
+5.  Agravo  interno  desprovido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (relator):  Na origem, LEYRIANE FARIAS MUNIZ ajuizou mandado de segurança visando à liberação de seu caminhão apreendido pelo IBAMA, alegando que o veículo foi locado para fins lícitos e que não tinha ciência de seu uso para desmatamento ilegal.
+A sentença, fundamentada nos arts. 70, parágrafo 1º, 72, II, IV e VII, da Lei 9.605/1998, e arts. 52 e 60, I, do Decreto 6.514/2008, concedeu parcialmente a segurança, permitindo a liberação do veículo sob condição de depositária fiel. O Tribunal manteve a decisão, destacando a ausência de prova de má-fé da proprietária e a possibilidade de liberação conforme os arts. 105 e 106 do Decreto 6.514/2008.
+No recurso especial, o IBAMA argumenta que a apreensão é legal e necessária para prevenir reincidência. A decisão agravada acolheu a pretensão aplicando o Tema 1036/STJ, para reconhecer a impossibilidade de criação judicial de requisitos restritivos à atividade de polícia ambiental, no que tange à apreensão de bens e instrumentos de práticas ilícitas nesse âmbito.
+Acerca dos óbices ao conhecimento do recurso especial alegados, acórdãos de 2015, como invocados pela agravante, não servem de base ao afastamento da incidência de tese vinculante firmada por esta Corte em 2021, bem como julgados de 2024. Assim, não sendo razoável a distinção afirmada pela origem entre a ilicitude ambiental de desmatamento da de transporte ilegal de madeira, não há incidência da Súmula 83 do STJ.
+Acerca da Súmula 7 do STJ, tampouco tem razão a agravante. Os elementos fáticos considerados pela origem são irrelevantes ante a inexistência de requisitos legais que respaldem sua invocação para justificar solução jurídica diversa daquela prevista normativamente. Nesses termos, precisamente, o recurso repetitivo que deu origem ao Tema 1036 do STJ.
+Conforme a decisão agravada (fls. 459-460) :
+O acórdão merece reforma, na medida em que contraria teses vinculantes desta Corte. Conforme reiteradamente decidido, o órgão judicial não pode criar condicionantes inexistentes na lei para tolher o poder de polícia ambiental. Assim, ao dispor que a apreensão do veículo dependeria da ciência da ilicitude pelo proprietário, o acórdão destoa da jurisprudência deste Tribunal. A propósito, consta na ementa do Tema n. 1.036/STJ:
+ ..  5. Em conclusão, restou assentado que " o s arts. 25 e 72, IV, da Lei n. 9.605/1998 estabelecem como efeito imediato da infração a apreensão dos bens e instrumentos utilizados na prática do ilícito ambiental", por isso " a  exigência de requisito não expressamente previsto na legislação de regência para a aplicação dessas sanções compromete a eficácia dissuasória inerente à medida, consistindo em incentivo, sob a perspectiva da teoria econômica do crime, às condutas lesivas ao meio ambiente".  ..  (R Esp n. 1.814.945/CE, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 10/2/2021, D Je de 24/2/2021).
+Na mesma linha (grifei):
+ ..  XII - Demais disso, a legislação de regência, nos arts. 25 e 72, IV, da Lei n. 9.605/1998, estabelece como efeito imediato da infração a apreensão dos bens e instrumentos utilizados na prática do ilícito ambiental, conferindo, para tanto, poderes à autoridade administrativa.
+XIII - A exigência de requisito não expressamente previsto na legislação para a aplicação dessas sanções compromete a capacidade de dissuasão própria da medida, consistindo em incentivo às condutas lesivas ao meio ambiente. Nesse sentido, julgados da Segunda Turma e Primeira Seção: R Esp n. 1.820.640/PE, relator Ministro Og Fernandes, Segunda Turma, D Je de 9/10/2019; R Esp n.1.814.945/CE, relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 10/2/2021, D Je de 24/2/2021.  ..  (AgInt no R Esp n. 2.133.477/MT, relator Ministro Francisco Falcão, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+Ademais, descabida a distinção preciosista acerca da tese vinculante ser aplicável apenas ao transporte de madeira, mas não ao desmatamento. A distinção autorizada é a materialmente relevante, que enseja consequências jurídicas diversas daquelas do precedente, devendo ser devidamente justificada essa diferença e sua influência. No exemplo já clássico, seria irrelevante que o precedente tratasse de inseto ingerido pelo consumidor de refrigerante e o caso concreto fosse de ingestão de bebida alcoólica: não há distinção juridicamente relevante.
+É o que ocorre neste caso, em que a identidade fático-jurídica se afirma pelo cometimento de ilícitos ambientais.
+Isso posto, nego provimento ao agravo interno.
