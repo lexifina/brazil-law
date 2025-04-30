@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS ALVES DA MATA OLIVEIRA em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+O Tribunal de origem deu parcial provimento ao apelo defensivo para, mantida a condenação, reduzir a pena para 7 anos, 9 meses e 10 dias de reclusão e pagamento de 777 dias-multa pela prática do delito de tráfico de drogas.
+Requer nulidade da busca domiciliar, com a absolvição do paciente. Subsidiariamente, requer a incidência da atenuante da confissão espontânea na segunda fase da dosimetria, bem como a a compensação integral com a agravante da reincidência.
+As informações foram prestadas ( fls. 344/506 ).
+O Ministério Público Federal ofereceu parecer ( fls. 541/548).
+RELATADO. DECIDO.
+Inicialmente cumpre ressaltar que a Terceira Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Tribunal de origem, ao analisar o recurso de apelação do paciente, apontou não ter ocorrido ilegalidade na busca domiciliar, já que além da informação anônima dando conta que um casal (paciente e esposa) traficava drogas no local,
+os policiais militares responsáveis pela apuração do mencionado informe DILIGENCIARAM até o local apontado e, após serem autorizados a entrarem no condomínio pela proprietária das quitinetes, prontamente visualizaram, através da janela da quitinete ocupada por LUCAS, porções de maconha ao lado de um berço, sendo que o ora apelante atendeu os militares fazendo uso da referida substância, TUDO A INDICAR QUE SERIAM VERDADEIRAS OS INFORMES APÓCRIFOS REPASSADOS AOS POLICIAIS, motivo pelo qual eles decidiram adentrar o imóvel, onde foram encontradas e apreendidas 5 (cinco) tabletes de maconha, acondicionados em segmento de plástico e fita adesiva, totalizando a massa líquida de 1.222,10g (um quilo, duzentos e vinte e dois gramas e dez centigramas), além de uma balança de precisão e petrechos com sujidades daquela substância.
+Dessa forma, concluiu o tribunal de origem a presença de fundadas razões a amparar a busca domiciliar, que se deu no contexto de flagrante de crime permanente, inexistindo o alegado vício.
+Nesse sentido é o entendimento adotado pelo Supremo Tribunal Federal de que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito (RE 1447374/MS, Rel. Ministro Alexandre de Moraes).
+Quanto ao pedido subsidiário, o mesmo não procede. Como ressaltou o Ministério Público Federal :
+Assentou-se a inexistência de confissão na fase inquisitorial e a confissão em juízo apenas da posse da droga com o objetivo de consumo pessoal, o que não se presta ao reconhecimento da atenuante, a teor do enunciado da Súmula 630/STJ: "A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio".
+Não verifico ilegalidade flagrante que possa embasar a concessão da ordem de ofício.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
