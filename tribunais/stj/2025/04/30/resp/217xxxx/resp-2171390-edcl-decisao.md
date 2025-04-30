@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CENTRAIS ELÉTRICAS BRASILEIRAS S.A. - ELETROBRAS contra decisão por mim proferida em que conheci parcialmente do recurso especial e, nessa extensão, dei-lhe parcial provimento para para limitar a incidência dos juros remuneratórios à época da 143ª Assembleia Geral Extraordinária, que homologou as conversões dos créditos em ações (e-STJ fls. 682/692).
+A embargante alega que o julgado padece de omissão, porquanto não abordou adequadamente os critérios de correção monetária adotados no acórdão recorrido, especificamente em relação à não incidência de correção monetária no período entre 31/12 e a data da assembleia geral extraordinária (AGE) que converteu os créditos em ações.
+Repisa "a premissa de que o presente caso não se trata de saldo não convertido em ações, forçoso reconhecer, igualmente, a necessidade de afastar a incidência de correção monetária entre 31/12 e a dat a da AGE que converteu os créditos em ações, conforme restou decidido nos REsps 1.003.955/RS e 1.028.592/RS."
+Impugnação às e-STJ fls. 703/706, requerendo a manutenção do julgado e que condenação da embargante por litigância de má-fé ao pagamento de multa nos termos do art. 1.026, § 2º, do Código de Processo Civil de 2015.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão, vícios não constatados na espécie.
+No tocante à alegação de não incidência de correção monetária no período entre 31/12 e a data da assembleia geral extraordinária (AGE) que converteu os créditos em ações, trata-se de mero inconformismo da embargante quanto à interpretação dada pelo EAREsp 790.288/PR à tese discutida no REsp 1.003.955/RS, julgado pelo rito dos recursos repetitivos.
+Cumpre registrar que está expresso na decisão agravada que a jurisprudência consolidada desta Corte Superior, no julgamento dos EAREsp n. 790.288/PR, firmou a compreensão de que os juros remuneratório incidem até a data da AGE que homologou a conversão dos créditos. Destacou-se que, a partir dessa data, considera-se que o crédito encontra-se consolidado, motivo pelo qual é devida a atualização, por correção monetária.
+Ressaltou-se que não houve alteração da tese firmada em recurso especial repetitivo, mas tão somente a resolução de divergência existente entre as Turmas integrantes da Primeira Seção quanto à interpretação do que remanesceu no definitivo nos autos dos REsps 1.003.955/RS e 1.028.592/RS.
+Na verdade, as omissões invocadas pela embargante manifestam o seu inconformismo com a decisão embargada e repisam argumentos dantes suscitados, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios.
+Em relação ao pedido de aplicação de multa à parte embargante (e-STJ fl. 705), observo que o art. 1.026, § 2º, do CPC/2015 permite a aplicação de multa não excedente a dois por cento do valor atualizado da causa quando interpostos embargos de declaração reputados, fundamentadamente, manifestamente protelatórios.
+Ocorre que, não observo, por ora, intuito protelatório no recurso presente a ensejar a aplicação da sanção prevista no referido artigo.
+Ante exposto , REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
