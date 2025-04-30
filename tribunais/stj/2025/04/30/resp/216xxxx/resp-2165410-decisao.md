@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por FRANCISCO FERDINANDO DO NASCIMENTO SILVA contra acórdão do Tribunal de Justiça do Estado do Piauí.
+O recorrente foi condenado como incurso na pena do artigo 14, caput, da Lei nº 10.826/03 (posse ilegal de arma de fogo de uso permitido), à pena de 2 (dois) anos de reclusão, em regime aberto, e ao pagamento de 10 (dez) dias-multa, sendo a pena privativa de liberdade substituída por duas restritivas de direitos (fl.385).
+O Tribunal de origem negou provimento à apelação (fls.384-402). Ainda, opostos embargos de declaração pela defesa (fls. 406-414), estes foram rejeitados (fls. 445-462)
+Sobreveio recurso especial do recorrente, com fundamento no artigo 105, inciso III, "a", da Constituição Federal, em que alegou afronta ao artigo 14, caput, da Lei nº 10.823/06, a fim da reforma do acórdão, com sua anulação pela ausência de exame pericial na arma de fogo, com a consequente absolvição do réu, por falta de comprovação da materialidade do crime (fls. 470-476).
+O Ministério Público Federal opina pelo desprovimento do recurso especial (fls. 505-510).
+É o relatório. DECIDO.
+A controvérsia apresentada no recurso consiste em definir a imprescindibilidade de perícia técnica em armas apreendidas, para fins de tipificação de delito previsto no art. 14, caput, da Lei n. 10.826/2003.
+Sobre o tema, o Tribunal de origem assim se manifestou (fls. 390-392):
+"Como se sabe, a jurisprudência pátria firmou o entendimento no sentido de que o porte ilegal de arma de fogo de uso permitido (art. 14, caput, da Lei nº 10.823/06) constitui crime de perigo abstrato, que dispensa prova de efetiva situação de risco ao bem jurídico tutelado.
+Trata-se de tipo penal que tem por objetivo a proteção da segurança pública e paz coletiva, sendo , portanto, irrelevante a comprovação de sua potencialidade lesiva e o fato de a arma se encontrar desmuniciada ou não, até porque o simples porte se mostra capaz de constranger e intimidar as pessoas - como na hipótese, em que os policiais militares, ao abordarem o apelante em ronda ostensiva, apreenderam a pistola marca Taurus 7-65, com carregador e sem numeração, acompanhada de 8 (oito) munições calibre.32 intactas (Termo de Exibição e Apreensão - pág. 44 - id. 9168338).
+(..)
+Registre-se, por oportuno, que o apelante confessou a autoria delitiva durante a fase policial e em juízo, impondo-se então a manutenção da condenação."
+Da leitura dos excertos, verifica-se que a Corte estadual manteve a tipicidade da conduta sob o fundamento de que o tipo penal previsto no art. 14 da Lei n. 10.826/2003 constitui delito de perigo abstrato, razão pela qual a subsunção da conduta à norma penal incriminadora independe da comprovação da potencialidade lesiva do artefato apreendido, por meio de perícia técnica.
+Esta orientação encontra-se em harmonia com a jurisprudência de ambas as Turmas Criminais do Superior Tribunal de Justiça - STJ, segundo a qual "o crime de porte ilegal de arma de fogo de uso permitido é de perigo abstrato. É prescindível, para sua configuração, a realização de exame pericial a fim de atestar a potencialidade lesiva da arma de fogo apreendida, pois é suficiente o simples porte do armamento, ainda que sem munições, em desacordo com determinação legal ou regulamentar, para a caracterização do delito" (AgRg no AR Esp n. 2.411.534/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2024, D Je de 2/4/2024).
+O entendimento deste Superior Tribunal de Justiça é no sentido de que o crime previsto no art. 14 da Lei n. 10.826/2003 é de perigo abstrato, sendo irrelevante o fato de a arma estar desmuniciada ou, até mesmo, desmontada ou estragada, porquanto o objeto jurídico tutelado não é a incolumidade física, e sim a segurança pública e a paz social, colocados em risco com o porte de arma de fogo sem autorização ou em desacordo com determinação legal, revelando-se despicienda até mesmo a comprovação do potencial ofensivo do artefato através de laudo pericial (AgRg no RHC n. 181.597/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023).
+Nesse sentido:
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PORTE ILEGAL DE ARMA. NULIDADE. ALEGADA AUSÊNCIA DE EXAME PERICIAL. WRIT CONHECIDO EM PARTE E, NESSA EXTENSÃO, ORDEM DENEGADA.
+I. Caso em exame
+1. Habeas corpus impetrado em favor de condenado pela prática do delito descrito no art. 14, caput, da Lei n. 10.826/2003, à pena de 3 anos de reclusão, em regime inicial fechado, mais 15 dias-multa, apontando como autoridade coatora o Tribunal de Justiça de Minas Gerais.
+2. O impetrante alega nulidade processual insanável, pois a condenação foi fundamentada em "auto de constatação" da arma apreendida, sem exame pericial técnico que comprovasse sua eficácia, comprometendo a materialidade do delito e configurando cerceamento de defesa.
+3. Pleito de concessão de prisão domiciliar em razão de quadro de saúde debilitado do paciente, que sofreu AVC, e possui filhos menores sob sua responsabilidade.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se a ausência de exame pericial técnico da arma compromete a materialidade do delito e configura cerceamento de defesa, justificando a nulidade do processo.
+5. Outra questão em discussão é a possibilidade de concessão de prisão domiciliar ao paciente, em razão de seu estado de saúde e responsabilidades familiares.
+III. Razões de decidir
+6. A jurisprudência do Superior Tribunal de Justiça é firme quanto à impossibilidade de impetração de habeas corpus em substituição à revisão criminal quando já transitada em julgado a sentença condenatória.
+7. A prova pericial foi regularmente produzida, em conformidade com as disposições do Código de Processo Penal, não havendo vício no laudo que atestou a eficiência da arma de fogo e das munições apreendidas.
+8. O crime previsto no art. 14 da Lei n. 10.826/2003 é de perigo abstrato, sendo irrelevante a comprovação do potencial ofensivo do artefato por meio de laudo pericial.
+9. Quanto ao pleito de prisão domiciliar, a análise da alegação importaria em supressão de instância, pois o acórdão impugnado não se manifestou a respeito.
+IV. Dispositivo e tese
+10. Writ parcialmente conhecido e, nessa extensão, denegada a ordem.
+Tese de julgamento: "1. A impetração de habeas corpus não substitui a revisão criminal quando a sentença condenatória já transitou em julgado. 2. A prova pericial realizada conforme o Código de Processo Penal é válida, mesmo sem a descrição da metodologia utilizada. 3.O crime de porte ilegal de arma de fogo é de perigo abstrato, dispensando a comprovação do potencial ofensivo do artefato."
+Dispositivos relevantes citados: CPP, arts. 159 e seguintes; Lei n. 10.826/2003, art. 14. jurisprudência relevante citada: STJ, AgRg no HC 815.458/RS, Min. Otávio de Almeida Toledo, Sexta Turma, julgado em 13/11/2024, DJe 25/11/2024; STJ, AgRg no RHC 181.597/RS, Min. Ribeiro Dantas, Quinta Turma, julgado em 28/8/2023, DJe de 30/8/2023; STJ, AgRg no HC 818.673/SC, Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 29/5/2023, DJe 29/5/2023.
+(HC n. 966.086/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/3/2025, DJEN de 27/3/2025.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE PERIGO ABSTRATO. DESNECESSIDADE DE PERÍCIA. AGRAVO DESPROVIDO.
+I. Caso em exame1. Agravo regimental interposto contra decisão que indeferiu liminarmente habeas corpus, no qual se alegava nulidade da sentença por cerceamento de defesa, devido à ausência de perícia nos cartuchos deflagrados para demonstrar sua compatibilidade com a arma apreendida.
+2. A impetração do habeas corpus visava à desclassificação da conduta para as previstas nos arts. 12 e 14 da Lei n. 10.826/2003, e à aplicação do princípio da insignificância, considerando a mínima ofensividade dos cartuchos deflagrados não periciados.
+II. Questão em discussão3. A questão em discussão consiste em saber se a ausência de perícia técnica em armas e munições apreendidas impede a tipificação do delito previsto no art. 16 da Lei n. 10.826/2003, ou se justifica a desclassificação da conduta e a aplicação do princípio da insignificância.
+4. Outra questão é se a supressão da numeração da arma apreendida, constatada por perícia, pode ser desconstituída na via do habeas corpus.
+III. Razões de decidir5. O crime de posse irregular de arma de fogo é de perigo abstrato, não exigindo comprovação da potencialidade lesiva do armamento, sendo suficiente o simples porte para a tipificação do delito.
+6. A jurisprudência do STJ é pacífica no sentido de que a realização de perícia para atestar a potencialidade lesiva da arma de fogo não é necessária para a configuração do crime.
+7. A desconstituição das conclusões alcançadas pelas instâncias de origem sobre a supressão da numeração da arma demandaria reexame do acervo fático-probatório, inviável na via do habeas corpus.
+8. A tese de aplicação do princípio da insignificância não foi examinada pelo Tribunal de origem, pois não foi imputado crime relacionado às munições deflagradas.
+IV. Dispositivo e tese9. Agravo regimental desprovido.
+Tese de julgamento: "1. O crime de posse irregular de arma de fogo é de perigo abstrato, dispensando a comprovação da potencialidade lesiva do armamento. 2. A desconstituição de conclusões periciais sobre a supressão de numeração de arma é inviável na via do habeas corpus. 3. A aplicação do princípio da insignificância não se aplica a munições deflagradas sem a correspondente imputação de crime."
+Dispositivos relevantes citados: Lei n. 10.826/2003, art. 16; CPP, art. 3º; CPC, art. 932; RISTJ, art. 34, XI e XX. Jurisprudência relevante citada: STJ, AgRg no AR Esp n. 2.411.534/MG, Rel. Min. Rogerio Schietti Cruz, Sexta Turma, julgado em 19/3/2024; STJ, AgRg no HC n. 729.926/PR, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 17/5/2022.
+(AgRg no HC n. 961.281/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/2/2025, DJEN de 24/2/2025.)
+Verifico, portanto, que o acórdão recorrido se alinha à jurisprudência desta Corte Superior, o que atrai a aplicação da Súmula n. 83, STJ, segundo a qual " n ão se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, não conheço do recurso especial , nos termos do art. 255, §4º, inciso I, do RISTJ.
+Publique-se. Intime-se.
+EMENTA
