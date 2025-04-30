@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de SERMIO DE OLIVEIRA NETO, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP (Habeas Corpus Criminal n. 2070811-77.2025.8.26.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante no dia 3/3/2025, teve a custódia convertida em preventiva e restou denunciado pela prática, em tese, do crime tipificado no art. 155, § 4º, I, III e IV, c/c art. 14, II, ambos do Código Penal - CP.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado:
+"EMENTA: Direito Penal. Habeas Corpus. Prisão Preventiva. Ordem Denegada. I. Caso em Exame: 1. Habeas corpus impetrado por Henrique Rafaldini Mendes de Andrade e Fernando Mendes de Andrade em favor de Sermio de Oliveira Neto, alegando ilegal constrangimento pela conversão de prisão em flagrante em preventiva, no processo n º 1500103-52.2025.8.26.0552. Argumentam que a decisão não demonstrou risco à ordem pública, instrução processual ou aplicação da lei penal, e que a manutenção da prisão é desproporcional, considerando os predicados positivos do paciente. II. Questão em Discussão: 2. A questão em discussão consiste em: (i) a inidoneidade na fundamentação da decisão que converteu a prisão em flagrante em preventiva; (ii) a desproporcionalidade da manutenção da prisão preventiva, considerando os predicados positivos do paciente. III. Razões de Decidir: 3. A decisão impugnada está fundamentada na gravidade concreta do delito e no risco à ordem pública, evidenciado por registros de atos infracionais pretéritos do paciente. 4. As medidas cautelares menos gravosas são insuficientes para garantir a ordem pública, dado o histórico delitivo do paciente. IV. Dispositivo e Tese: 5. Ordem denegada. Tese de julgamento: 1. A prisão preventiva é justificada pela gravidade concreta do delito e risco à ordem pública. 2. Condições subjetivas favoráveis não impedem a prisão cautelar quando presentes os requisitos legais. Legislação Citada: Código Penal, art. 155, § 4º, incisos I, III e IV; art. 14, inciso II; art. 69. Lei n º 8.069/90, art. 244-B. Código de Processo Penal, art. 312; art. 313, inciso I. Jurisprudência Citada: STJ, Recurso em Habeas Corpus n º 196.796, Rel. Min. Ribeiro Dantas, Decisão monocrática, D Je 22/4/2024. STJ, Habeas Corpus n º 727045/PB 2022/0060087-3, Rel. Min. Antonio Saldanha Palheiro, Sexta Turma, julg. em 19/4/2022, D Je 26/4/2022. TJSP, Habeas Corpus n º 2094297-28.2024.8.26.0000, Rel. Des. Mens de Mello, 7ª Câmara de Direito Criminal, julg. em 16/4/2024." (fls. 46/47).
+No writ, o impetrante alega que não foi apresentada fundamentação idônea para a segregação cautelar do paciente, a qual estaria baseada em argumentos genéricos, sem demonstração de elementos objetivos que justifiquem a medida extrema, nos termos exigidos pelo art. 312 do Código de Processo Penal - CPP.
+Aduz violação aos princípios da proporcionalidade e razoabilidade na manutenção da custódia, ponderando que o acusado apresenta condições pessoais favoráveis e, mesmo em caso de condenação, faria jus ao resgate da pena em regime prisional menos gravoso.
+Requer, em liminar e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, com ou sem aplicação de medidas cautelares diversas da segregação cautelar.
+É o relatório.
+Decido.
+Conquanto impetrada por profissionais legalmente habilitados, a ação não comporta processamento, pois está deficientemente instruída, não tendo sido juntada a cópia da decisão que converteu a prisão em flagrante na preventiva, circunstância que obsta a exata compreensão da controvérsia e o exame da plausibilidade das questões suscitadas.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido, confiram-se os seguintes precedentes:
+EMENTA AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+2. O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pela defesa, de modo que a ausência de peça essencial ao deslinde da controvérsia impede o exame sobre as alegações.
+3. No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos, pois o impetrante não colacionou aos autos a cópia do decreto de prisão preventiva, o que impossibilita o exame do constrangimento ilegal alegado.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 197.085/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 6/8/2024, DJe de 8/8/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. NÃO COLACIONADA A ÍNTEGRA DO ACÓRDÃO DE APELAÇÃO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. É dever do impetrante instruir o writ com os documentos necessários ao deslinde da controvérsia, de modo que a falta da íntegra do ato coator torna inviável a análise dos pedidos.
+2. É insuficiente a juntada apenas da ementa e do resultado dos julgamentos das decisões impugnadas. Os acórdãos, apontados como atos coatores, devem ser colacionados na íntegra.
+3. Agravo regimental improvido.
+(AgRg no HC n. 790.533/SC, relator Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), SEXTA TURMA, julgado em 17/4/2023, DJe de 20/4/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. NULIDADES. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente o inteiro teor do acórdão hostilizado - a saber, relatório, ementa e voto(s) -, não há como se conhecer do writ em razão de sua instrução deficiente.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 770.978/PR, relator Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/11/2022, DJe de 18/11/2022.)
+Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
