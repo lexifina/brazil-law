@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIELLE VALE LIMA CASELATO, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurg e contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (fl. 249):
+APELAÇÃO CÍVEL - Acidente do Trabalho - Sentença de improcedência Transtorno Depressivo Recorrente (F33 CID 10) - Laudo pericial que afirma não haver doença incapacitante atual - Cerceamento de defesa - Inocorrência - Inteligência do artigo 370, do Código de Processo Civil - Trabalho pericial não combatido cientificamente - Prova técnica suficiente para o desate da controvérsia instaurada - Sentença mantida - Recurso não provido.
+Em suas razões recursais, a parte recorrente aponta, além do dissídio jurisprudencial, ofensa ao Tema 416/STJ e ao art. 86 da Lei 8.213/1991, ao argumento de que o acórdão recorrido negou vigência ao caput do art. 86 da Lei 8.213/1991 ao exigir a completa incapacidade para o trabalho para a concessão do auxílio-acidente, contrariando a jurisprudência pacífica do STJ, a qual estabelece que a mera redução da capacidade laboral, ainda que mínima, é suficiente para a concessão do benefício (fls. 260/267).
+Sustenta, ainda, que as lesões psiquiátricas decorrentes do acidente de trabalho resultaram em sequelas que implicam redução da capacidade do trabalho que habitualmente exercia, conforme comprovado por laudos periciais, os quais atestam a incapacidade parcial e permanente (fls. 264/266), e que o entendimento do STJ no Tema 416 possui status de precedente vinculante, conforme o art. 927, III, do Código de Processo Civil (CPC), reforçando a necessidade de reforma do acórdão para a concessão do benefício de auxílio-acidente (fl. 267).
+Não foram apresentadas contrarrazões (fl. 271).
+Submetido a juízo de retratação, considerando o entendimento firmado pelo Superior Tribunal de Justiça quanto ao Tema 416, o acórdão recorrido foi mantido nos termos da ementa ora transcrita (fl. 277):
+Acidente do Trabalho - Reexame da matéria, para o juízo de conformidade envolvendo o Tema 416 do STJ - Ausência da incapacidade laborativa - Mantido o entendimento inicialmente adotado no V. Acórdão recorrido.
+O recurso foi admitido na origem (fls. 286/287).
+É o relatório.
+A questão debatida nestes autos foi analisada pelo Superior Tribunal de Justiça quando do julgamento dos Recursos Especiais 2.082.395/SP e 2.098.629/SP, de minha relatoria, sob o rito de recursos repetitivos, oportunidade em que foi firmada a seguinte tese quanto ao Tema 1.246/STJ:
+É inadmissível recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente).
+De acordo com o disposto no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, em situações em que o recurso verse sobre a mesma controvérsia objeto de recursos representativos de controvérsia já julgados, os autos devem retornar ao Tribunal de origem para que seja providenciado o juízo de conformação:
+Art. 34. São atribuições do relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Ressalto que a Primeira Seção desta Corte Superior tem o posicionamento consolidado de não ser "necessário aguardar o trânsito em julgado para a aplicação do paradigma firmado em recurso repetitivo ou com repercussão geral" (AgInt no PUIL 1.494/RS, relator Ministro Herman Benjamin, Primeira Seção, DJe de 9/9/2020).
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do Código de Processo Civil.
+Publique-se. Intimem-se.
+ EMENTA
