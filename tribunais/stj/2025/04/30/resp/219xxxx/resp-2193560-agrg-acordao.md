@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE. RECESSO. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A parte recorrente foi intimada do acórdão recorrido em 21/6/2024, sendo o recurso especial interposto somente em 11/7/2024, portanto, intempestivamente, porquanto apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, bem como do art. 798 do CPP.
+2. Salienta-se que a possibilidade de comprovação posterior de feriado local ou suspensão do expediente forense, à luz do art. 1.003, § 6º, do CPC, com nova redação dada pela Lei n. 14.939/2024, em observância ao princípio do tempus regit actum, não se aplica retroativamente, incidindo somente nas hipóteses em que a data de intimação do decisum recorrido tiver ocorrido a partir do dia 31/7/2024 (mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+3. Na espécie, tendo a publicação do acórdão proferido pela Corte de origem se dado ainda na vigência da redação anterior do dispositivo legal em questão, a comprovação da ocorrência do recesso no âmbito do Tribunal de origem deveria ter sido feita no ato da interposição do recurso especial, o que não ocorreu.
+4. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por ANTÔNIO FERREIRA DA SILVA (e-STJ fls. 90/94) contra decisão monocrática de e-STJ fls. 87, proferida pela Ministro Presidente HERMAN BENJAMIN, que não conheceu do recurso, em razão de sua intempestividade.
+A parte agravante alega a tempestividade do recurso especial, tendo em vista que em 22/06/2024 até 02/07/2024 o Tribunal de Justiça de Alagoas encontrava- se em recesso.
+Requer, assim, a reconsideração da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do agravo regimental (e-STJ fls. 122/131).
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE. RECESSO. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A parte recorrente foi intimada do acórdão recorrido em 21/6/2024, sendo o recurso especial interposto somente em 11/7/2024, portanto, intempestivamente, porquanto apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, bem como do art. 798 do CPP.
+2. Salienta-se que a possibilidade de comprovação posterior de feriado local ou suspensão do expediente forense, à luz do art. 1.003, § 6º, do CPC, com nova redação dada pela Lei n. 14.939/2024, em observância ao princípio do tempus regit actum, não se aplica retroativamente, incidindo somente nas hipóteses em que a data de intimação do decisum recorrido tiver ocorrido a partir do dia 31/7/2024 (mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+3. Na espécie, tendo a publicação do acórdão proferido pela Corte de origem se dado ainda na vigência da redação anterior do dispositivo legal em questão, a comprovação da ocorrência do recesso no âmbito do Tribunal de origem deveria ter sido feita no ato da interposição do recurso especial, o que não ocorreu.
+4. Agravo regimental não provido.
+VOTO
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+No presente caso, a parte recorrente foi intimada do acórdão recorrido em 21/6/2024, sendo o recurso especial interposto somente em 11/7/2024, portanto, intempestivamente, porquanto apresentado fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do CPC, bem como do art. 798 do CPP.
+Salienta-se que a possibilidade de comprovação posterior de feriado local ou suspensão do expediente forense, à luz do art. 1.003, § 6º, do CPC, com nova redação dada pela Lei n. 14.939/2024, em observância ao princípio do tempus regit actum, não se aplica retroativamente, incidindo somente nas hipóteses em que a data de intimação do decisum recorrido tiver ocorrido a partir do dia 31/7/2024 (mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na espécie, tendo a publicação do acórdão proferido pela Corte de origem se dado ainda na vigência da redação anterior do dispositivo legal em questão, a comprovação da ocorrência do recesso no âmbito do Tribunal de origem deveria ter sido feita no ato da interposição do recurso especial, o que não ocorreu.
+A propósito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. NECESSIDADE DE COMPROVAÇÃO DE FERIADOS LOCAIS. INAPLICABILIDADE DA LEI 14.939/2024 AOS ATOS PRATICADOS SOB VIGÊNCIA DA LEGISLAÇÃO ANTERIOR. PRINCÍPIO DO TEMPUS REGIT ACTUM. AGRAVO INTERNO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto por T D contra decisão da Presidência desta Corte que não conheceu do agravo, diante da intempestividade do recurso especial. O agravante defende a aplicação da Lei n. 14.939/2024 para possibilitar a regularização da comprovação de feriados locais e, assim, reconhecer a tempestividade de seu recurso especial. II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em determinar se a comprovação da tempestividade recursal, referente a feriados locais, poderia ser regularizada à luz da Lei n. 14.939/2024, considerando o princípio do tempus regit actum. III. RAZÕES DE DECIDIR
+3. O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+4. No caso, a parte ora agravante foi intimada do acórdão recorrido em 07/02/2024, sendo o recurso especial interposto somente em 05/03/2024, sendo manifesta a intempestividade do recurso, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+5. "A Lei nº 14.939/2024 modificou o texto do artigo 1.003, § 6º do CPC, introduzindo a possibilidade de correção do erro ou sua desconsideração se a informação já estiver no processo eletrônico.
+Contudo, essa nova norma só se aplica a recursos apresentados após sua entrada em vigor, não afetando o caso em análise" (AgInt no AREsp n. 2.641.418/AM, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+6. Na hipótese, como a intimação ocorreu ainda na vigência da redação anterior do artigo 1.003, § 6º do CPC, a comprovação da tempestividade deveria ter sido feita no ato da interposição do recurso.
+IV. AGRAVO INTERNO DESPROVIDO. (AgInt nos EDcl no AREsp n. 2.703.493/RJ, relator Ministro Carlos Cini Marchionatti (Desembargador Convocado TJRS), Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. SUSPENSÃO DOS PRAZOS PROCESSUAIS PENAIS NO PERÍODO DE 20 DE DEZEMBRO A 20 DE JANEIRO. ART. 798-A, DO CPP. INCLUÍDO PELA LEI N. 14.365/2022. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO ÂMBITO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+6. É firme a jurisprudência desta Corte Superior no sentido de que a juntada de documento apto a comprovar a ocorrência, no âmbito do Tribunal local, de fatos aptos a ensejar a prorrogação dos prazos processuais - como feriados locais, suspensão do expediente forense ou indisponibilidade do sistema de peticionamento eletrônico - deve se dar no momento da interposição do recurso, para fins de aferição da respectiva tempestividade, consoante disposto no art. 1.003, § 6º, do CPC/2015. Precedentes.
+7. A possibilidade de comprovação posterior de feriado local ou suspensão do expediente forense, à luz do art. 1.003, § 6º, do CPC, com nova redação dada pela Lei n. 14.939/2024, em observância ao princípio do tempus regit actum, não se aplica retroativamente, incidindo somente nas hipóteses em que a data de intimação do decisum recorrido tiver ocorrido a partir do dia 31/7/2024 (mutatis mutandis, Enunciado Administrativo n. 3 do STJ), o que não é o caso dos autos. Precedentes.
+8. Agravo regimental não provido. (AgRg no AREsp n. 2.631.898/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/2/2025, DJEN de 19/2/2025.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL. CORPUS CHRISTI. AGRAVO REGIMENTAL DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que não conheceu do recurso especial por intempestividade. O agravante foi intimado do acórdão em 29/5/2024, mas o recurso especial foi protocolado em 17/6/2024, fora do prazo legal de 15 dias corridos.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se a alteração promovida no art. 1.003, § 6º, do Código de Processo Civil, pela Lei n. 14.939, de 30 de julho de 2024, aplica-se aos casos anteriores a sua vigência.
+III. Razões de decidir
+3. A alteração introduzida no art. 1.003, § 6º, do CPC, pela Lei n. 14.939, de 30 de julho de 2024, alcança apenas os recursos cujo prazo recursal teve início a partir de sua vigência, uma vez que o sistema processual brasileiro é regido pela teoria do isolamento dos atos processuais.
+4. A alteração legislativa introduzida pela Lei n. 14.939/2024 não se aplica ao caso, pois o prazo recursal iniciou-se antes de sua vigência.
+5. O art. 1.003, § 6º, do Código de Processo Civil, antes da vigência da Lei n. 14.939/2024, estabelecia que o recorrente deveria comprovar a ocorrência de feriado local no ato de interposição do recurso, sendo inviável a regularização posterior.
+6. No caso, o agravante não apresentou comprovação de feriado local no ato da interposição do recurso especial, e ante a irretroatividade da norma processual, deve ser mantida a intempestividade do recurso especial.
+IV. Dispositivo e tese
+7. Agravo regimental desprovido. Tese de julgamento: 1. A alteração introduzida no art. 1.003, § 6º, do CPC, pela Lei n. 14.939, de 30 de julho de 2024, alcança apenas os recursos cujo prazo recursal teve início a partir de sua vigência, uma vez que o sistema processual brasileiro é regido pela teoria do isolamento dos atos processuais. Dispositivos relevantes citados: CPC/2015, art. 1.003, § 5º; CPC/2015, art. 1.003, § 6º; CPC/2015, art. 994, VIII; CPP, art. 798. Jurisprudência relevante citada: STJ, AREsp 957.821/MS, Min. Nancy Andrighi, julgado em 20/11/2017, DJe de 19/12/2017; STJ, AgRg no AREsp 1846610/GO, Min. Reynaldo Soares da Fonseca, julgado em 11/05/2021, DJe 14/05/2021. (AgRg no AREsp n. 2.699.894/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 8/10/2024, DJe 16/10/2024).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. INSURGÊNCIA INTERPOSTA APÓS LAPSO DE QUINZE DIAS. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. COMPROVAÇÃO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus da parte recorrente comprovar a ausência de expediente, recesso forense ou feriado local no Tribunal estadual, o que não ocorreu no caso em exame.
+2. O recurso especial mostra-se intempestivo, uma vez que interposto fora do prazo de 15 (quinze) dias, conforme o disposto nos arts.
+798 do Código de Processo Penal e 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil.
+3. A defesa foi intimada do acórdão no dia 01/09/2023, todavia o apelo foi interposto somente em 19/09/2023.
+4. Agravo regimental não provido. (AgRg no AREsp n. 2.559.243/SP, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+Ademais, conforme jurisprudência pacífica deste Superior Tribunal, nos termos do § 6.º do art. 1.003 da Lei n. 13.105/2015, a ocorrência de fatos, no âmbito do Tribunal local, que sejam capazes de alterar a contagem do prazo recursal, deve ser comprovada no ato da interposição do recurso por documento idôneo, não bastando a simples alegação da parte acerca de suposta indisponibilidade do sistema de peticionamento eletrônico (AgRg no AREsp n. 1.549.948/SP, Sexta Turma, Relatora Ministra Laurita Vaz, DJe de 14/10/2019)
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
