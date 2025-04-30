@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por PREMOLDADOS PROTENDIT LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DE SENTENÇA. CONTRATO DE VENDA E MONTAGEM PELO REGIME DE EMPREITADA. Insurgência contra a r. decisão que indeferiu a tutela de urgência concernente à penhora dos direitos que a MC2 ENERGIA E PARTICIPAÇÕES S/A possui sobre o imóvel de 1.600.000m2, localizado na Via Matoim Braço BC s/nº, Zona Rural CEP 43813-000, em Candeias/BA, bem como bloqueio on-line do total de R$5.229.555,12 (cinco milhões, duzentos e vinte e nove mil, quinhentos e cinquenta e cinco reais e doze centavos), através do sistema SISBAJUD, modalidade teimosinha, das empresas MC2 ENERGIA E PARTICIPAÇÕES S/A e CAFEEIRA BERTIN LTDA. Perigo de perecimento do direito antes da citação das empresas não demonstrado. Inaplicabilidade das normas contidas nos arts. 300 e 301 do Código de Processo Civil.
+Recurso desprovido.
+Rejeitados os embargos de declaração opostos (fls. 104-109).
+No recurso especial, a parte recorrente alega violação dos arts. 300, 301 e 937, VIII, do CPC.
+Sustenta, em síntese, que o julgamento virtual adotado no agravo de instrumento violou o direito à sustentação oral, conforme previsto no art. 937, inc. VIII, do CPC, e os princípios constitucionais do contraditório e da ampla defesa (fls. 62-68).
+Sustenta, ainda, que o acórdão recorrido não reconheceu os requisitos para a concessão da tutela de urgência, apesar da demonstração do alto endividamento, esvaziamento de bens e risco de transferência fraudulenta de bens, o que violaria os arts. 300 e 301 do CPC (fls. 69-77).
+Aponta divergência jurisprudencial com arestos de outros tribunais.
+Sem contrarrazões ao recurso especial.
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 113-115), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fl. 140).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 300, 301 e 937, VIII, do CPC, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, e alterar o decidido no acórdão impugnado, no que se refere à ausência de violação do contraditório e da ampla defesa pela falta de sustentação oral e ausência dos requisitos ensejadores da concessão da tutela de urgência, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NULIDADE. AUSÊNCIA DE SUSTENTAÇÃO ORAL. NÃO VERIFICADA.
+1. A jurisprudência desta Corte firmou-se no sentido que não há, no ordenamento jurídico vigente, o direito de exigir que o julgamento ocorra por meio de sessão presencial. Portanto, o fato de o julgamento ter sido realizado de forma virtual, mesmo com a oposição expressa e tempestiva da parte, não é, por si só, causa de nulidade ou cerceamento de defesa. Ademais, mesmo nas hipóteses em que cabe sustentação oral, se o seu exercício for garantido e viabilizado na modalidade de julgamento virtual, não haverá nenhum prejuízo ou nulidade, ainda que a parte se oponha a essa forma de julgamento, porquanto o direito de sustentar oralmente as suas razões não significa o de, necessariamente, o fazer de forma presencial (AgRg no HC n. 832.679/BA, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/4/2024, DJe de 18/4/2024).
+2. Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica no caso dos autos.
+3. O acórdão embargado, de maneira clara e fundamentada, consignou que a parte agravante não rebateu a Súmula 83/STJ (rescisão de contrato e compra e venda de imóvel); Súmula 83/STJ (termo inicial dos aluguéis); Súmula 5/STJ (termo inicial dos aluguéis); e Súmula 7/STJ (termo inicial dos aluguéis).
+4. A pretensão de rediscutir matéria devidamente abordada e decidida no julgado embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via eleita.
+Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 2.600.312/SC, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIMENTOS. TUTELA DE URGÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC NÃO CONFIGURADA. PRETENSÃO RECURSAL QUE ESBARRA NAS SÚMULAS NºS 735 DO STF E 7 DO STJ. MULTA DO ART. 1.026, § 2º, DO CPC. ACÓRDÃO RECORRIDO QUE DECLAROU JUSTIFICADAMENTE O CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO DO RECORRENTE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se cogita negativa de prestação jurisdicional, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza ofensa aos arts. 489 e 1.022 do CPC.
+2. A jurisprudência desta Corte é no sentido de ser inviável, em regra, a interposição de recurso especial que tenha por objeto o reexame do deferimento ou indeferimento de medida liminar, tutela de urgência ou antecipação de tutela, tendo em vista sua natureza precária e provisória, cuja reversão é possível a qualquer momento pela instância ordinária.
+3. Rever as conclusões adotadas pelo Tribunal estadual quanto ao não preenchimento dos requisitos para a concessão da tutela de urgência demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ.
+4. Esta Corte possui orientação jurisprudencial no sentido de que a reiteração dos argumentos já repelidos de forma clara e coerente pelo Tribunal recorrido configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, § 2º, do CPC/15. No caso, a matéria suscitada pelos recorrentes foi, de fato, exaustivamente examinada tanto no acórdão que apreciou o agravo interno interposto contra a decisão que indeferiu o pedido liminar de efeito ativo ao agravo de instrumento, quanto no acórdão que apreciou o mérito do agravo de instrumento interposto da decisão que indeferiu a tutela de urgência.
+5. A verificação da apontada ausência do intuito protelatório dos embargos de declaração, na forma pretendida pelos recorrentes, implica no reexame do conjunto fático dos autos, providência que esbarra no óbice da Súmula nº 7 do STJ.
+6. A incidência da Súmula nº 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 2.622.409/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. JULGAMENTO VIRTUAL. DIREITO SUSTENTAÇÃO ORAL. CERCEMENTO DE DEFESA. SÚMULA N. 83/STJ. REQUISITOS. CONCESSÃO. TUTELA DE URGÊNCIA. REVISÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
