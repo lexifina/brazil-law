@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo e não conhecer do recurso especial.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA A INFRAÇÃO DE PORTE DE SUBSTÂNCIAS ENTORPECENTES PARA CONSUMO. PEDIDO DE RECLASSIFICAÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECUROS ESPECIAL.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Agravo conhecido para não conhecer do recurso especial.
+RELATÓRIO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Ceará, assim ementado:
+PENAL E PROCESSUAL PENAL. APELAÇÃO. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI Nº 11.343/2006). RECURSO DA DEFESA. MÉRITO PREJUDICADO. DÚVIDA QUANTO À DESTINAÇÃO COMERCIAL DA SUBSTÂNCIA ENTORPECENTE. AUSÊNCIA DE OUTROS ELEMENTOS INDICADORES DE TRAFICÂNCIA. PRINCÍPIO DO IN DUBIO PRO REO. DESCLASSIFICAÇÃO, DE OFÍCIO, PARA A INFRAÇÃO DE PORTE DE SUBSTÂNCIAS ENTORPECENTES PARA CONSUMO. (ART. 28 DA LEI 11.343/06). RECURSO CONHECIDO. MÉRITO PREJUDICADO ANTE A DESCLASSIFICAÇÃO OPERADA EX OFFICIO. RECONHECIMENTO DA ATIPICIDADE DA CONDUTA. OBSERVÂNCIA DAS TESES FIXADAS NO JULGAMENTO DO RECURSO EXTRAORDINÁRIO N. 635.659/SP. DETERMINADA A REMESSA DOS AUTOS AO JUIZADO ESPECIAL CRIMINAL COMPETENTE PARA A APURAÇÃO DO ILÍCITO ADMINISTRATIVO.
+1. Trata-se de apelação interposta pela defesa de Cleberson da Silva Matos contra sentença de fls. 159/166, proferida pelo Juízo da 3º Vara de Delitos de Tráfico de Drogas da Comarca de Fortaleza/CE, que o condenou à pena de 5 (cinco) anos de reclusão e ao pagamento 500 (quinhentos) dias-multa, pela prática do crime previsto no art. 33, caput da Lei 11.343/2006, a ser cumprida inicialmente em regime semiaberto.
+2. Irresignada, a defesa, em suas razões recursais (fls. 174/180) pleiteia a reanálise da dosimetria da pena para que seja aplicada a minorante prevista no § 4º, do art. 33, da Lei de Drogas. De forma subsidiária requesta a modificação do regime inicial do cumprimento de pena. Quanto ao mérito da apelação interposta, ante a desclassificação do delito, sua análise resta prejudicada. Explico..
+3. In casu, observo que o acervo probatório mostra-se frágil, porquanto a quantidade de droga capturada mostra-se compatível com o consumo, uma vez que, no local da prisão do apelante, não foi apreendido nenhum objeto relacionado ao tráfico, como balança de precisão, sacos plásticos, anotações etc, de modo que inexiste fundamentação apta para alicerçar a condenação por tráfico de drogas.
+4. Diante da existência de dúvidas acerca da real intenção do acusado aliada a ausência de materiais caracterizadores de tráfico e a partir da afirmação do acusado de que é usuário de droga, a desclassificação é medida que se impõe.
+5. Outrossim, em referência ao recente julgamento do Recurso Extraordinário n. 635.659/SP pelo Supremo Tribunal Federal, realizado em 26/6/2024, verifica-se a necessidade de modificação na situação do apelante, haja vista a compatibilidade do caso concreto com as teses fixadas em sede de repercussão geral. Dessa forma, considerando a quantidade de substância entorpecente popularmente conhecida como maconha apreendida em poder do acusado (12 g), e a desclassificação para a conduta tipificada no art. 28 da Lei n. 11.343/2006 , deve ser reconhecida extinta a punibilidade do réu, nos termos do art. 107, III do Código Penal, segundo o qual "extingue-se a punibilidade: III - pela retroatividade de lei que não mais considere o fato como criminoso", com a consequente remessa ao Juizado Especial Criminal competente para a apuração do ilícito administrativo, nos termos da decisão paradigma (RE 635.659/SP) .
+6. Recurso conhecido. Mérito prejudicado ante a desclassificação, ex officio, para a infração prevista no art. 28 da Lei n. 11.343/06, bem como diante do reconhecimento da atipicidade da conduta perpetrada pelo apelante, determina-se, ainda, a remessa dos autos ao Juizado Especial Criminal competente para a apuração do ilícito administrativo, conforme tese fixada no julgamento do Recurso Extraordinário n. 635.659/SP. (e-STJ fls. 220/221)
+O recorrente se insurge contra a desclassificação da conduta, operada pelo Tribunal, do crime de tráfico de drogas para a infração de porte de substância entorpecente para consumo. Sustenta que se a quantidade (12g) pode ser considerada reduzida para por si só ser possível concluir sua destinação para o tráfico, por outro lado, os demais elementos probatórios foram decisivos para o convencimento do magistrado sentenciante, como verificado alhures. (e-STJ fl. 251)
+Contrarrazões às e-STJ fls. 260/273 .
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 336/337.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA A INFRAÇÃO DE PORTE DE SUBSTÂNCIAS ENTORPECENTES PARA CONSUMO. PEDIDO DE RECLASSIFICAÇÃO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECUROS ESPECIAL.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Agravo conhecido para não conhecer do recurso especial.
+VOTO
+A recurso não merece conhecimento.
+Os elementos existentes nos autos informam que o TJCE julgou prejudicado o mérito do apelo e, de ofício, desclassificou a conduta para a infração prevista no art. 28 da Lei n. 11.343/06.
+O recorrente se insurge contra essa decisão alegando que se a quantidade (12g) pode ser considerada reduzida para por si só ser possível concluir sua destinação para o tráfico, por outro lado, os demais elementos probatórios foram decisivos para o convencimento do magistrado sentenciante, como verificado alhures.
+Ocorre que não foi indicado, nas razões do recurso especial, qual ou quais dispositivo(s) de lei federal infraconstitucional teria(m) sido violado(s) pelo acórdão recorrido, impossibilitando a adequada compreensão da controvérsia. Assim, deve ser aplicada à espécie o verbete n. 284 da Súmula do STF, bem anotada pelo decisório agravado. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+3. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.939.623/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 18/11/2024, DJe de 22/11/2024.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. ROUBO CIRCUNSTANCIADO. CORRUPÇÃO DE MENORES. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. APELO NOBRE. DISPOSITIVO DE LEI FEDERAL OFENDIDO. INDICAÇÃO. AUSÊNCIA. CONTROVÉRSIA NÃO DELIMITADA. NATUREZA VINCULADA DO RECURSO. SÚMULA N. 282 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. As razões do recurso especial não indicaram o dispositivo de lei federal que consideravam violado ou cuja vigência teria sido negada, o que constitui pressuposto de admissibilidade do recurso especial, ante a sua natureza vinculada.
+2. Ausente a delimitação da controvérsia, correta a decisão agravada, quando conheceu do agravo para não conhecer do recurso especial, pela aplicação da Súmula n. 284 do Supremo Tribunal Federal.
+3. Agravo regimental desprovido. (AgRg no AREsp 1757399/PR, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 18/12/2020)
+Ademais, a via do recurso especial não é adequada para pleitear a desclassificação de delito, pois exige o revolvimento do conjunto fático-probatório. incidência da Súmula n. 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
