@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ADEQUADA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma adequada o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por SONILTON FERNANDES CAMPOS FILHO contra decisão por mim proferida por meio da qual não foi conhecido do respectivo agravo em recurso especial (fls. 148-150).
+Pondera a parte agravante que observou "absoluto respeito à dialeticidade recursal", que "detida análise  ..  demonstra que  ..  sua aplicação culminaria na admissão do recurso interposto e no consequente provimento do Recurso Especial  ..  eis que traz em sua redação a obrigatoriedade de a Fazenda Nacional "reconhecer a procedência do pedido", o que não ocorreu na hipótese" e que realizou "adequadamente o distinguishing" (fls. 156-162), tendo colacionado trechos de seu agravo em recurso especial, sem contudo trazer julgados contemporâneos ao provimento judicial agravado, ou demonstrar que o acórdão não estaria em harmonia com a jurisprudência do STJ ou comprovar que os precedentes apontados decisão agravada seriam inaplicáveis à hipótese dos autos, como requer a jurisprudência.
+Não foi apresentada resposta ao agravo interno (fl. 196).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNADO DE FORMA ADEQUADA O FUNDAMENTO DA DECISÃO DE INADMISSÃO DO APELO NOBRE. APLICAÇÃO DA SÚMULA N. 182 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. A parte agravante, no agravo em recurso especial, deixou de impugnar de forma adequada o fundamento da decisão que não admitiu o recurso especial na origem. Incidência da Súmula n. 182 do STJ.
+2. Agravo interno desprovido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insurgência não merece prosperar.
+Nos termos da decisão agravada, o agravo em recurso especial não foi conhecido porque deixou de ser impugnada de forma adequada a incidência da Súmula n. 83 do STJ, fundamento este utilizado pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO para não admitir o apelo nobre.
+Compulsando detidamente os autos, verifico que a parte agravante cingiu-se a afirmar que:
+ ..  a r. decisão agravada merece ser reformada por este E. Superior Tribunal de Justiça, sobretudo em razão da inaplicabilidade do caso paradigma suscitado, além de a jurisprudência do E. STJ ter se firmado em sentido diametralmente oposto.  ..  a aplicação do verbete sumular nº 83 deste E. STJ não merece prosperar, na medida em que há orientação desse Tribunal Superior sobre a necessária concordância expressa da Fazenda Nacional com a tese do então excipiente, o que não ocorreu no caso sob apreço.  ..  ..  a Fazenda Nacional não apenas suscitou suposta higidez do título executivo, em evidente resistência à pretensão, como também, ao requerer brevemente a exclusão do então Excipiente do polo ativo da Execução Fiscal retromencionada, o fez com fundamentação diversa da suscitada em sua defesa, baseando-se nos Julgamentos dos Temas STJ nº 981 e 962,  .. .  ..  Portanto, tratando-se da extinção do então Excipiente do polo ativo da Execução Fiscal por motivo diverso daquele suscitado pela Fazenda Nacional e havendo verdadeira irresignação com a os vícios apontados, não há que se falar em "concordância com a tese do executado/excipiente"1 apta a ensejar a ausência de condenação ao pagamento de honorários advocatícios,  .. .  ..  Ao bem da verdade, no caso sob apreço é flagrante a necessidade de aplicação dos Temas STJ nº 421 e 961, estando a decisão agravada em completa dissonância com a jurisprudência desse E. STJ, uma vez que aplica o art. 19 da Lei 10.522/2002 a caso no qual não apenas não há a concordância expressa da Fazenda Nacional com a procedência dos pedidos, mas ainda há pretensão resistida. (fls. 124- 128).
+Como se vê, de fato, a parte agravante deixou de demonstrar, por meio da indicação de julgados contemporâneos ou mais recentes, que foi superado o entendimento desta Corte Superior de Justiça no qual está alicerçada a decisão agravada para aplicar a Súmula n. 83 do STJ, ou que os precedentes mencionados no citado provimento judicial tratam de questões que não são análogas à do caso examinado nestes autos.
+Nesse sentido:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Nessas condições, são aplicáveis o comando normativo contido no art. 932, inciso III, do Código de Processo Civil, bem como a Súmula n. 182 do STJ, litteris: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..  Em se tratando de agravo em recurso especial, a parte agravante deve impugnar todos os fundamentos da decisão que negou admissibilidade ao recurso especial na origem, ainda que tais fundamentos se refiram a pontos autônomos em relação à matéria principal debatida no recurso especial, sob pena de incidência do teor do art. 932, III, do CPC/2015 e da aplicação, por analogia, da Súmula nº 182 do STJ. (AgInt no AREsp n. 2.179.576/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+ ..  Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
