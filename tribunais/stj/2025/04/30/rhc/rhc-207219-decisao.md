@@ -1,0 +1,23 @@
+DECISÃO
+ALBERISSON LOPES MARINHO FALCÃO alega sofrer coação ilegal em seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Ceará no Habeas Corpus n. 0635062-73.2024.8.06.0000.
+Nas razões deste recurso, a defesa postula a expedição de alvará de soltura para que o recorrente permaneça em liberdade até o trânsito em julgado da sentença condenatória.
+Decido.
+O recorrente foi condenado a 16 anos e 8 meses de reclusão, em regime inicial fechado, em razão da prática do crime de homicídio e teve determinada a execução da pena com a expedição de mandado de prisão pelo Juízo de primeiro grau, com fundamento no art. 492, I, "e", do CPP.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal estadual, que denegou a ordem (fls. 251-255, destaquei):
+ ..
+No caso sub examine, após regular trâmite da persecução penal, foi o paciente condenado pela prática do crime previsto no art. 121, §§ 1º e 2º, I, III e VI, c/c § 2º-A do Código Penal, à pena de 16 (dezesseis) anos e 08 (oito) meses de reclusão, para cumprimento em regime inicial fechado.
+Em decisão de Embargos de Declaração, o Juízo acolheu o argumentado pelo Ministério Público em sua manifestação e não concedeu ao réu o direito de recorrer em liberdade, tratando do referido caráter automático da execução provisória da pena em casos como o ora em análise, não possuindo os eventuais recursos interpostos nenhum efeito suspensivo, destacando (fl. 685/688 dos autos originários):
+ ..
+Nesse contexto, ainda que conforme a jurisprudência dos Tribunais Superiores a execução provisória da pena não seja admitida, o presente caso é distinto, tratando-se de condenação pelo Conselho dos Sete, no Tribunal do Júri, cuja previsão de prisão para penas a partir de 15 (quinze) anos estava prevista na lei processual e teve interpretação conforme a constituição definida pelo STF, não alterando, no entanto, o entendimento quanto ao presente caso, que já se encontrava dentre os que a jurisprudência vinha autorizando a automática execução provisória da pena imposta.
+Assim, em relação ao argumento de ausência dos requisitos previstos no art. 312 do CPP, especialmente da inexistência de fato novo ou contemporâneo que autorize a decretação da prisão preventiva, ressalto que a prisão tratada na presente hipótese diz respeito especificamente à previsão legal de citada execução provisória de pena, de modo que, segundo o texto normativo, não há exigência concomitante dos requisitos da custódia cautelar, bastando apenas, antes da supracitada tese firmada, a qual cita a independência do total da pena aplicada, que o réu tivesse sido condenado à pena igual ou superior a 15 (quinze) anos de reclusão.
+Ademais, é cediço que, conforme todo o exposto, a decisão se alinhou de acordo com os mais recentes entendimentos jurisprudenciais e mandamentos legais, como concordou o representante do Ministério Público em seu parecer, no juízo primevo, intimado a se manifestar sobre o decisium, disposto às fls. 732/733, na origem (destaquei):
+ ..
+Desta feita, constata-se a inexistência de ato de coação ilegal atribuída à autoridade impetrada que pudesse justificar a concessão da liberdade pretendida.
+Por ocasião do julgamento do RE n. 1.235.340/SC, que teve repercussão geral reconhecida no Tema 1.068, o Supremo Tribunal Federal fixou a seguinte tese: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada"
+Ademais, n o que concerne ao argumento de que é inadmissível a aplicação do art. 492, I, "e", do CPP de forma retroativa, é de se destacar que o Supremo Tribunal Federal admitiu a retroatividade da lei para autorizar a execução provisória da pena a fato anterior à Lei n. 13.964/2019.
+A propósito:
+"Agravo regimental no habeas corpus. 2. Supressão de instância. 3. Execução provisória da pena no Tribunal do Júri. 4. No RE 1.235.340, em que fiquei vencido, o Plenário da Corte determinou, naturalisticamente, a retroação da Lei para autorizar a execução provisória da pena a caso de homicídio ocorrido em 2016. 5. Caso concreto: apelação já julgada, pendentes recursos excepcionais. 6. Agravo desprovido, com indeferimento do pedido de que o feito não seja julgado em ambiente virtual." (HC 248518 AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 16-12-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 18-12-2024 PUBLIC 19- 12-2024.)
+Portanto, com a ressalva de meu entendimento pessoal e à luz da jurisprudência da Corte Constitucional, não há ilegalidade na decisão impugnada.
+À vista do exposto, nego provimento ao recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
