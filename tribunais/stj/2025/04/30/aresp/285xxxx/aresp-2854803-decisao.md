@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSENI DE FATIMA CAURIO CARVALHO contra decisão que negou seguimento ao recurso especial em razão do Tema n. 1. 076 do STJ e o inadmitiu com base na Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul em apelação nos autos de ação de revisão contratual e devolução de valores.
+O julgado foi assim ementado (fl. 161):
+APELAÇÃO CÍVEL. CONTRATOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATOS DE EMPRÉSTIMO PESSOAL. PRELIMINAR DE RETIFICAÇÃO DO VALOR DA CAUSA. IMPOSSIBILIDADE. PRECLUSÃO DA MATÉRIA. DESCARACTERIZAÇÃO DA MORA. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. TESE QUE NÃO SE ENCONTRA IMPLÍCITA NO PEDIDO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. HONORÁRIOS ADVOCATÍCIOS. DEVIDAMENTE ARBITRADOS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta, além de dissídio jurisprudencial, violação do art. 85, § 2º, do Código de Processo Civil.
+Sustenta que o quantum dos honorários advocatícios foram arbitrados sobre o valor da causa, e não sobre o proveito econômico obtido.
+Afirma que o acórdão recorrido interpretou de forma divergente do STJ o art. 85, § 2º, do CPC, apontando como acórdão paradigma o AgInt no AREsp n. 1.386.677/SP.
+Requer o provimento do recurso e a inversão dos ônus de sucumbência caso a demanda seja provida.
+Contrarrazões foram apresentadas (fls. 240-242).
+É o relatório. Decido.
+O recurso não merece prosperar.
+De início, registre-se que a publicação do julgado ocorreu na vigência do Código de Processo Civil de 2015, a ensejar a apreciação dos requisitos de admissibilidade estabelecidos na atual legislação processual civil. É o que estabelece o Enunciado Administrativo n. 3 do STJ, a saber:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Ressalte-se que a decisão ora agravada obstou o trânsito do recurso especial como um todo, por dois fundamentos, nestes termos (fls. 245-249, destaquei):
+No que tange ao arbitramento da verba honorária, a Corte Especial do Superior Tribunal de Justiça, ao julgamento dos REsp(s) 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1076 do STJ), sob a sistemática de demandas repetitivas, consolidou as seguintes teses: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+ ..
+Portanto, estando o entendimento da Câmara Julgadora em conformidade com as orientações sedimentadas pelo Superior Tribunal de Justiça em sede de julgamento de recursos repetitivos, o presente recurso especial deve ter seu seguimento negado, conforme dispõe o artigo 1.030, inciso I, alínea b, do Código de Processo Civil.
+Ademais, a pretensão de alteração das conclusões do Órgão Julgador no tocante ao arbitramento da verba honorária sucumbencial, nos moldes como deduzida, também demanda necessariamente o reexame do conjunto fático-probatório dos autos, o que, contudo, é vedado em sede de recurso especial, nos termos do enunciado n. 7 da Súmula do STJ.
+No ponto: "A revisão dos valores arbitrados a título de honorários advocatícios envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, providência incabível em sede de recurso especial, nos termos da Súmula 7/STJ" (AgInt no AR Esp 800.680/SP, Rel. Ministro Marco Buzzi, Quarta Turma, D Je 17/06/2021).
+A realçar: "os honorários advocatícios sucumbenciais, fixados de acordo com o regramento previsto no novo diploma processual civil, obedecem os critérios previstos no § 2º do art. 85 do CPC/2015 - que, via de regra, não podem ser revistos, em sede de recurso especial, sob pena de afronta ao óbice da Súmula 7/STJ" (AgInt no R Esp 1836510/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 19/04/2021, DJe 23/04/2021).
+Ainda: "Não há como desconstituir o entendimento delineado no acórdão impugnado quanto à adequação do montante fixado a título de honorários advocatícios, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ" (AgInt no AR Esp n. 2.165.770/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/3/2023, D Je de 30/3/2023).
+Ante o exposto, NEGO SEGUIMENTO ao recurso especial, tendo em vista os R Esp(s) 1.850.512/SP, 1.877.883/SP, 1.906.623/SP e 1.906.618/SP (Tema 1076 do STJ) e NÃO ADMITO quanto às demais alegações.
+Como visto, o decisum negou seguimento ao recurso especial com fundamento no art. 1.030, I, b, do CPC e, ao mesmo tempo, em reforço argumentativo, inadmitiu-o devido à incidência da Súmula n. 7 do STJ.
+Assim, o Tribunal a quo, entendendo que as teses, as ofensas aos dispositivos apontados como violados e a divergência suscitada no recurso especial estavam vinculadas à aplicação da mesma matéria apreciada em regime de recursos repetitivos, deveria apenas negar seguimento ao recurso especial.
+Confira-se o precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TEMA JULGADO. SISTEMÁTICA DOS REPETITIVOS. AGRAVO EM RECURSO ESPECIAL. DESCABIMENTO. OFENSA AO ART. 535 DO CPC/1973. VINCULAÇÃO.
+1. Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.
+2. Se a alegação de ofensa ao art. 535 do CPC/1973 ou 1.022 do CPC/2015 apresenta-se vinculada a vício de natureza processual quanto à aplicação da tese fixada no regime dos recursos repetitivos, o Tribunal a quo deve negar seguimento também nesse ponto, e não inadmitir o recurso especial.
+3. Hipótese em que a decisão do Tribunal a quo assentou que o acórdão recorrido está em sintonia com precedente obrigatório desta Corte Superior (Tema 162), que versa sobre a incidência de imposto de renda sobre aplicações financeiras de renda fixa e variável, à luz dos arts. 29 e 36 da Lei n. 8.541/1992, sendo certo que a menção sobre a existência de violação do art. 535 do CPC/1973 também se refere a essa mesma questão.
+4. Agravo interno desprovido. (AgInt no AREsp n. 1.512.020/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 19/9/2022, DJe de 3/10/2022, destaquei.)
+Ademais, observa-se que os argumentos trazidos nas razões do agravo em recurso especial (fls. 256-264), buscando demonstrar a violação do art. 85, § 2º, do Código de Processo Civil e o afastamento da Súmula n. 7 do STJ, referem-se à mesma questão, isto é, à base de cálculo para a fixação dos honorários advocatícios, estando todos vinculados ao Tema n. 1076 do STJ.
+Visto que, in casu, a parte agravante insiste em rediscutir a matéria referente à fixação dos honorários advocatícios, apesar da negativa de seguimento com base na aplicação do Tema n. 1.076 do STJ, é inadmissível o agravo previsto no art. 1.042 do CPC.
+A propósito, confira-se o disposto no Código de Processo Civil:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+ ..  § 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Ante o e xposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
