@@ -1,0 +1,16 @@
+DECISÃO
+Cu ida-se de habeas corpus impetrado em favor de MAURO ROBERTO LOUREIRO DE OLIVEIRA, tendo apontado como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+Consta dos autos que o paciente foi condenado como incurso no art. 157, § 2º, II e V, § 2º-A, I, por duas vezes, na forma do art. 70, tudo nos termos do 71, todos do Código Penal, à pena de 11 (onze) anos e 08 (meses) meses de reclusão e 35 (trinta e cinco) dias-multa.
+Na presente impetração, busca-se a concessão da ordem, para que seja redimensionada a terceira fase da dosimetria da pena.
+Parecer do Ministério Público Federal pelo não conhecimento do habeas corpus.
+É o relatório. DECIDO.
+Da análise detida da petição inicial do habeas corpus, tenho que a presente impetração se insurge contra acórdão, funcionando como substitutivo do recurso próprio, motivo pelo qual não deve ser conhecida (AgRg no HC 936880 / SP, Quinta Turma, de minha relatoria, DJe 19/09/2024).
+Com efeito, a 3ª Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de Relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de Relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+De mais a mais, não vislumbro a presença de teratologia ou coação ilegal que desafie a concessão da ordem de ofício, nos termos do parágrafo 2º do artigo 654 do Código de Processo Penal.
+Em relação à terceira fase da dosimetria da pena, "quanto à aplicação cumulativa das causas de aumento, a jurisprudência do Supremo Tribunal Federal e desta Corte Superior é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta (AgRg no AREsp 2682035 / SC, Quinta Turma, Rel. Ministro Reynaldo Soares Da Fonseca, DJEN 13/02/2025).
+Com efeito, "o referido dispositivo legal - art. 68, parágrafo único do CP - visa garantir ao condenado a aplicação individualizada da pena, de forma proporcional e razoável. Exige-se, para o aumento cumulativo, fundamentação concreta e idônea, o que ficou comprovado nos autos" (AgRg no AREsp 2682035 / SC, Quinta Turma, Rel. Ministro Reynaldo Soares Da Fonseca, DJEN 13/02/2025), não prosperando a insurgência defensiva, diante da fundamentação concreta e particularizada adotada pela instância inferior no aresto impugnado.
+Isso porque o Tribunal de origem indicou que os crimes foram praticados em "concurso de cinco roubadores" e mediante "longas quatro horas nas quais as Vítimas permaneceram em poder dos Acusados", fundamentos idôneos para justificar a aplicação cumulativa das majorantes na fração de 1/2, não havendo que se cogitar de ofensa ao art. 68, parágrafo único, do CP.
+Não remanesce, portanto, qualquer coação ilegal decorrente do ato judicial atacado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
