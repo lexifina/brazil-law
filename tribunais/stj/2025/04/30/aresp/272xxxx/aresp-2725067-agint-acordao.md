@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Marco Aurélio Bellizze e Teodoro Silva Santos votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HOMOLOGAÇÃO DOS CÁLCULOS TRANSITADOS EM JULGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGITIMIDADE. NÃO PRECLUSÃO. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA ILEGITIMIDADE ATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022, do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Consoante a orientação jurisprudencial deste Tribunal, a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Não apresentação, pela parte agravante, de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5.  Agravo  interno  improvido.
+RELATÓRIO
+MINISTRO  AFRÂNIO  VILELA:  Em  análise,  agravo  interno  interposto  por ANTONIO EVANDRO ARAUJO TORRES contra  a  decisão  que  conheceu  do  agravo  em  recurso  especial,  para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, em razão da ausência de violação dos arts. 489 e 1.022, do CPC e da aplicação da Súmula 7 do STJ.
+Argumenta  a  parte agravante,  em  síntese,  que o Tribunal de origem incorreu em omissão e negativa de prestação jurisdicional ao não se manifestar sobre pontos nucleares: preclusão da legitimidade e necessidade de registro sindical, cuja análise não demanda reexame fático probatório, sob os seguintes argumentos (fls. 310-315):
+Em verdade, o que se busca no apelo superior é o reconhecimento da negativa de prestação jurisdicional na análise de documentos essenciais ao feito, demonstrado que a parte não é ilegítima, assim coo não há sindicato mais específico, sendo esta a tese nuclear dos recursos interpostos, sobre a qual não houve qualquer apreciação da corte estadual.
+ ..
+Não se pretende que a corte superior realize juízo sobre a legitimidade da parte Recorrente, mas tão somente que seja identificada a negativa de prestação jurisdicional pela corte estadual, com a anulação do julgado e devolução dos autos para que seja realizado novo julgamento, enfrentando as questões essenciais trazidas pelo Recorrente.
+Dessarte, pugna pela reconsideração da decisão agravada ou pela submissão da questão ao Colegiado.
+Sem contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. HOMOLOGAÇÃO DOS CÁLCULOS TRANSITADOS EM JULGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEGITIMIDADE. NÃO PRECLUSÃO. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA ILEGITIMIDADE ATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não há ofensa aos arts. 489 e 1.022, do CPC, quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Consoante a orientação jurisprudencial deste Tribunal, a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+3. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos, atraindo a incidência da Súmula 7 do STJ.
+4. Não apresentação, pela parte agravante, de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5.  Agravo  interno  improvido.
+VOTO
+MINISTRO  AFRÂNIO  VILELA (Relator):  Conheço do recurso, porquanto presentes os seus pressupostos intrínsecos e extrínsecos de admissibilidade.
+O agravo interno não merece prosperar.
+Da leitura das razões do agravo interno, verifica-se que a parte agravante não trouxe qualquer novo subsídio capaz de alterar os fundamentos da decisão ora agravada.
+Na referida decisão agravada, restou consignado não haver violação aos arts. 489 e 1.022, do CPC, porquanto o Tribunal de origem, com base no acervo fático probatório dos autos e de modo fundamentado, concluiu pela ilegitimidade ativa da parte então recorrente, consignando que esta pertence à carreira vinculada a sindicato específico (SINDSAUDE/MA).
+Com efeito, de acordo com a jurisprudência desta Corte: "não há ofensa aos arts. 489 e 1022 do CPC quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial e na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte".
+Confira-se:
+RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. INTERFERÊNCIA LESIVA. TUTELA DE URGÊNCIA. INDEFERIDA. SENTENÇA ARBITRAL. PERDA SUPERVENIENTE DO INTERESSE DE AGIR. HONORÁRIOS DE SUCUMBÊNCIA. VALOR DA CAUSA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PRECLUSÃO INOCORRÊNCIA. PRINCÍPIO DA CAUSALIDADE. PROPORCIONALIDADE. MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. AFASTADA.
+1. Ação indenizatória ajuizada em 23/11/2017, da qual foi extraído o presente recurso especial, interposto em 5/6/2023 e concluso ao gabinete em 7/6/2024.
+2. O propósito recursal consiste em fixar os ônus sucumbenciais, diante da extinção parcial do feito, por perda superveniente do interesse de agir, decorrente de sentença arbitral que condena terceiro.
+3. Não há ofensa aos arts. 489 e 1022 do CPC quando o Tribunal de origem examina, de forma fundamentada, a questão submetida à apreciação judicial e na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+4. Não se operou a preclusão alegada pelo recorrido, tendo em vista que, após rejulgamento do feito, o segundo recurso especial interposto pelos recorrentes foi menos abrangente e substituiu as razões do primeiro.
+5. Extinto o processo, sem resolução do mérito, ante a perda superveniente do interesse processual, a condenação em honorários de sucumbência há de ser avaliada sob a ótica do princípio da causalidade, nos termos do art. 85, § 10, do CPC/15.
+6. Tratando-se de julgamento parcial da lide, os honorários devem ser arbitrados de forma proporcional a parcela do pedido efetivamente apreciada. Precedentes.
+7. No recurso sob julgamento, (i) o princípio da causalidade aponta ser dos recorrentes os ônus sucumbenciais; (ii) considerando que o feito foi extinto em relação a dois terços dos pedidos, deve-se respeitar a proporção, determinando-se que o percentual de 10% incida sobre dois terços do valor da causa.
+8. Afasta-se a multa do art. 1026 do CPC quando não se caracteriza o intento protelatório na interposição dos embargos de declaração.
+9. Recurso especial conhecido e parcialmente provido, para (i) determinar que o valor da condenação corresponda a 10% sobre dois terços do valor atualizado da causa; e (ii) afastar a multa por embargos de declaração protelatórios (REsp n. 2.149.062/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 18/2/2025, DJEN de 25/2/2025, grifo nosso).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. ADMINISTRATIVO. AUSÊNCIA DE OFENSA AOS ART. 1.022, II, PAR. ÚNICO, E 489, IV, DO CPC. RESPONSABILIDADE CIVIL. TRANSPORTE COLETIVO PÚBLICO. QUEDA DE PASSAGEIRA DE ÔNIBUS COLETIVO. FALECIMENTO. INDENIZAÇÃO POR DANOS MORAIS AO FILHO DA VÍTIMA. PRETENSA REDUÇÃO DO VALOR. NÃO CABIMENTO. COMPENSAÇÃO DA INDENIZAÇÃO DO SEGURO DPVAT. SÚMULA N. 246/STJ
+1. A mera insatisfação com o conteúdo da decisão proferida não importa em violação dos artigos 1022, II, par. único, e 489, IV, do Código de Processo Civil. O fato de o Tribunal haver decidido o recurso de forma diversa da defendida nas razões do recurso, elegendo fundamentos distintos daqueles propostos pela parte, não configura omissão, contradição ou ausência de fundamentação.
+2. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a revisão de valor indenizatório fixado a título de danos morais somente é possível, em caráter excepcional, quando exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade.
+3. Na espécie, a indenização estabelecida pela Corte local em R$ 100.000,00 (cem mil reais) não se mostra exorbitante, considerando as peculiaridades do caso, em que houve a morte da mãe do autor, vítima de acidente em transporte coletivo por queda ao desembarcar do veículo, sofrendo traumatismo crânio-encefálico. Precedentes.
+4. "É cabível a compensação do valor recebido a título de indenização do seguro DPVAT com a indenização arbitrada a título de danos morais desde que esta tenha sido arbitrada com fundamento na morte ou na invalidez permanente" (AgInt nos EREsp n. 2.036.413/CE, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 19/9/2023, DJe de 21/9/2023).
+5. Agravo interno provido em parte. Recurso especial parcialmente provido, a fim de determinar que o valor do seguro DPVAT seja deduzido da indenização fixada a título de danos morais (AgInt no AREsp n. 2.703.454/RJ, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024, grifo nosso).
+Ademais, consoante a orientação jurisprudencial deste Tribunal, a legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegada a qualquer tempo e grau de jurisdição ou mesmo declarada de ofício.
+A propósito:
+PROCESSUAL CIVIL. FUNDAMENTAÇÃO CONSTITUCIONAL NÃO IMPUGNADA. SÚMULA Nº 126/STJ. CUMPRIMENTO DE SENTENÇA. AFERIÇÃO DA LEGITIMIDADE PARA A EXECUÇÃO DO TÍTULO EXECUTIVO JUDICIAL. PRECLUSÃO. REVISÃO DE FATOS E PROVAS. SÚMULA Nº 7/STJ.
+1. O Tribunal de origem, ao analisar a controvérsia, fundou o seu entendimento em preceito de natureza constitucional (princípio da unicidade recursal). Entretanto, em relação à referida fundamentação constitucional, não houve a interposição de recurso extraordinário, o que atrai a incidência da Súmula 126/STJ.
+2. "Esta Corte firmou orientação no sentido de não ser possível, em recurso especial, rever o entendimento do tribunal de origem acerca do teor do título em execução, para aferir eventual ofensa à coisa julgada, à luz do enunciado da Súmula 7/STJ". Precedente.
+3. "A legitimidade das partes, por constituir uma das condições da ação, perfaz questão de ordem pública e pode ser alegado a qualquer tempo e grau de jurisdição ou mesmo declarado de ofício, sem que se tenha configurada a reformatio in pejus". Precedente.
+4. Agravo interno não provido (AgInt no AREsp n. 2.260.975/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/5/2023, DJe de 18/5/2023, grifo nosso).
+Sendo assim, a alteração da conclusão do Tribunal Estadual, de fato, ensejaria o necessário reexame da matéria fático-probatória, o que é vedado na estreita via do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido
+(AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso ).
+Isso posto, nego provimento ao agravo interno.
