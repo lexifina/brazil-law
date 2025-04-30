@@ -1,0 +1,130 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+2ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0717816-52.2023.8.07.0009APELANTE(S)VALDELITA BERNARDO DE SANTANAAPELADO(S)COOPERATIVA MISTA ROMA e DANTAS SOLUCOES E SERVICOS LTDARelatorDesembargador ALVARO CIARLINI
+ Acórdão Nº1994651
+
+EMENTA
+
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OBSCURIDADE. OMISSÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO. DESNECESSIDADE DE ENFRENTAMENTO DE TODAS AS TESES. INTERESSE DE REEXAME. EMBARGOS DESPROVIDOS.1. De acordo a regra prevista no artigo 1022 do Código de Processo Civil os embargos de declaração têm por objetivo o esclarecimento de obscuridade, a eliminação de contradição, a supressão de omissão e a correção de erro material.2. Os argumentos articulados na peça recursal revelam que a irresignação ora manifestada pela embargante não se ajusta às hipóteses previstas no art. 1022 do Código de Processo Civil. 2.1.Trata-se, em verdade, de mero inconformismo com o resultado do julgamento, o que deverá ser veiculado por meio das vias recursais adequadas.3. O recurso de embargos de declaração é o instrumento processual cuja fundamentação tem natureza “vinculada” e cujo efeito devolutivo a ele concernente evidencia natureza “restrita”, tendo em vista que o seu conteúdo deve ser limitado às hipóteses previstas no art. 1022 do Código de Processo Civil. 3.1. Assim, ao interpor embargos de declaração o recorrente deve demonstrar a eventual ocorrência de obscuridade, contradição, omissão ou erro material na decisão impugnada.4. Devem ser rejeitados os embargos diante da ausência de constatação das hipóteses previstas no art. 1022 do Código de Processo Civil.5. O ordenamento jurídico pátrio não impõe ao Poder Judiciário manifestar-se a respeito de todas as alegações articuladas pelas partes, mas apenas em relação às questões que possam infirmar as conclusões adotadas na instância de origem.6. Embargos de declaração conhecidos e desprovidos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 2ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ALVARO CIARLINI - Relator, RENATO RODOVALHO SCUSSEL - 1º Vogal e FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal, sob a Presidência do Senhor Desembargador HECTOR VALVERDE SANTANNA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 12 de Maio de 2025
+
+Desembargador ALVARO CIARLINIRelator
+
+RELATÓRIO
+
+Trata-se de embargos de declaração interpostos por Valdelita Bernardo de Santana contra o acordão que negou provimento ao recurso de apelação manejado pela ora embargante (Id. 68489377).
+
+Em suas razões recursais (Id. 69399872) a recorrente sustenta, em síntese, que o acórdão embargado incorreu em obscuridade ao ter feito referência a argumentos não trazidos pela embargante.
+
+Verbera ainda que o provimento jurisdicional recorrido foi omisso pois não considerou as provas coligidas aos autos, bem como por não ter analisado pedidos deduzidos em sede recursal.
+
+Requer, portanto, o provimento dos embargos para que sejam supridas a omissão e a obscuridade apontadas.
+
+A sociedade empresária embargada ofereceu contrarrazões (Id. 69584570), oportunidade em que pugnou pelo não conhecimento ou desprovimento do recurso.
+
+A cooperativa recorrida ofereceu contrarrazões (Id. 69679690), ocasião na qual requereu o desprovimento dos embargos de declaração.
+
+                 É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ALVARO CIARLINI - RelatorO recurso preenche os pressupostos extrínsecos e intrínsecos de admissibilidade. Por essas razões, deve ser conhecido.
+
+De acordo com a regra prevista no art. 1022 do Código de Processo Civil os embargos de declaração são admissíveis diante da existência de obscuridade, contradição, omissão ou erro material no acórdão.
+
+A omissão consiste em uma das hipóteses de admissibilidade dos embargos de declaração, e não há grandes questionamentos a esse respeito, pois a regra prevista no art. 1022, inc. II, do CPC, a define como o “ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento”.
+
+A obscuridade é caracterizada nas circunstâncias em que a redação do ato decisório não é suficientemente clara, com prejuízo à compreensão do provimento jurisdicional.
+
+No caso em deslinde o acórdão embargado examinou devidamente todas as questões submetidas ao conhecimento deste Egrégio Tribunal de Justiça, senão vejamos:
+
+“No presente caso a pretensão recursal exercida pela apelante compreende, em síntese, a reforma parcial da sentença, com a subsequente: a) desconstituição do consórcio contratado pela autora, com a inexigibilidade das parcelas vincendas, b) condenação das rés ao pagamento de compensação à esfera extrapatrimonial da autora e c) em caráter sucessivo, a resolução do negócio ora em exame, com a exclusão da autora do grupo consorciado referido na causa de pedir.Ocorre que o direito formativo constitutivo negativo, acima mencionado, com o afastamento das prestações vincendas, foi acolhido na respeitável sentença apelada (Id. 64414017), embora por motivos diversos dos indicados pela consumidora.No caso, sobreleva o exame do interesse recursal pertinente à recorrente, que deve ser analisado sob o viés do binômio utilidade-necessidade, nos termos das regras previstas nos artigos 17 e 996, parágrafo único, ambos do CPC.A utilidade revela-se com a possibilidade de propiciar, o recurso, algum proveito para o recorrente, e, necessidade, consiste na fundamentalidade do recurso como meio necessário para se obter um resultado útil.Observe-se que a desconstituição do negócio aludido é almejada pela apelante por fundamentos distintos do ato decisório recorrido, quais sejam: a) defeito de consentimento (dolo), b) afastamento da legislação consumerista ou c) conduta atribuível às entidades mencionadas (Id. 64414032, fl. 17).Com efeito, a pretensão recursal movida pela consumidora para que seja declarada a extinção do consórcio contratado, com a inexigibilidade das parcelas vincendas, não pode ser admitida.Quanto ao mais, a consumidora ajuizou ação submetida ao procedimento comum contra as entidades aludidas, com a finalidade de obter a desconstituição do negócio jurídico de consórcio e a condenação das rés ao pagamento de compensação do alegado dano moral. O Juízo singular, no entanto, julgou o pedido parcialmente procedente, com o afastamento do dever de compensação atribuído às apeladas.A questão submetida ao conhecimento deste Egrégio Tribunal de Justiça consiste em determinar se houve dano extrapatrimonial a ser compensado no presente caso, em razão da extinção do negócio jurídico de consórcio. É importante ressaltar que o dano moral, previsto na Constituição Federal (artigo 5º, inc. X), revela-se diante de uma ação ou omissão que atinge a esfera jurídica extrapatrimonial da parte. A mesma lógica se encontra descrita na regra estabelecida no art. 186 do Código Civil, aqui aplicada por meio do método do diálogo das fontes.Diante dessa premissa a fixação do valor aludido dano deve representar não só uma compensação à vítima, mas também um desestímulo ao ofensor.É necessário destacar que a relação jurídica negocial em exame é de consumo, uma vez que os contratantes se enquadram nos conceitos de consumidor e fornecedor, como estabelecem os artigos 2º e 3º, ambos do Código de Defesa do Consumidor.O reconhecimento da existência de relação jurídica de direito substancial de natureza consumerista e a subsequente aplicação do microssistema formado pelas normas de proteção às relações de consumo pode ensejar, entre outras consequências, a inversão do ônus da prova (art. 6º, inc. VIII do CDC), regra que pode interferir diretamente na deliberação a respeito das alegações articuladas pelas partes no curso da marcha processual.Em relação a esse ponto convém ressaltar que a inversão do ônus da prova depende da regular comprovação dos requisitos enumerados no art. 6º, inc. VIII, do Código de Defesa do Consumidor, quais sejam: a) a verossimilhança dos fatos subjacentes, b) a hipossuficiência da parte e c) a vulnerabilidade do consumidor.No caso em deslinde a consumidora deixou de impugnar a ausência de apreciação, pelo Juízo singular, do requerimento atinente à inversão do ônus da prova (Id. 64413778, fl. 26). Logo, diante da referida inércia da apelante a presente hipótese deverá ser regulada pela distribuição estática do ônus da prova prevista no art. 373 do Código de Processo Civil. Convém destacar, ademais, que a sistemática da distribuição do ônus da prova prevista no art. 373 do Código de Processo Civil, preceitua que é atribuição do autor a prova do fato constitutivo de sua pretensão. Em contrapartida, é ônus do réu a demonstração do fato impeditivo, modificativo ou extintivo da pretensão exercida pelo autor.Nesse sentido, ausentes os elementos suficientes de prova, não pode haver a constatação a respeito do atendimento da regra prevista no art. 373, inc. I, do CPC.A esse respeito atente-se à doutrina de Nelson Nery Júnior:
+
+“O ônus da prova é regra de juízo, isto é, de julgamento, cabendo ao juiz, quando da prolação da sentença, proferir julgamento contrário àquele que tinha o ônus da prova e dele não se desincumbiu. O sistema não determina quem deve fazer a prova, mas sim quem assume o risco caso não se produza [1]”
+
+Examinem-se, ademais, as seguintes ementas da lavra deste Egrégio Tribunal de Justiça:
+
+“DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PROCEDIMENTO COMUM. OBJETO. MÚTUO BANCÁRIO. INSTRUMENTO NEGOCIAL. EXIBIÇÃO. AUSÊNCIA. IRRELEVÂNCIA. AÇÃO APARELHADA POR CONTRATO DE ABERTURA DE CONTA ACOMPANHADO DE EXTRATOS BANCÁRIOS E DE DEMONSTRATIVO DE DÉBITO DESTINADOS À COMPROVAÇÃO DO DISPONIBILIZADO, UTILIZAÇÃO DO PRODUTO E INADIMPLEMENTO DAS PRESTAÇÕES. RELAÇÃO JURÍDICA SUBJACENTE. DEMONSTRAÇÃO. ELISÃO DO VÍNCULO E DO DÉBITO APURADO. INOCORRÊNCIA. DISTRIBUIÇÃO ESTÁTICA DO ÔNUS DA PROVA. ART. 373, I e II, CPC. FATOS CONSTITUTIVOS DO DIREITO DO AUTOR COMPROVADO. RÉU. ENCARGO. FATOS IMPEDITIVOS, MODIFICATIVOS OU EXTINTIVOS DA PRETENSÃO AUTORAL. INFIRMAÇÃO DO VÍNCULO E DA OBRIGAÇÃO DELE DECORRENTE. INEXISTÊNCIA. PRETENSÃO DE COBRANÇA. POSSIBILIDADE. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.                      1. Os instrumentos aptos a guarnecerem o direito creditório demandado em sede de ação de cobrança submetida ao procedimento comum não estão vinculados aos rigores formais próprios da pretensão aviada em ambiente executivo, pois não tem como premissa estar aparelhada por instrumento revestido de exigibilidade, e, assim, os extratos  destinados a evidenciarem a disponibilização do ativo imobilizado e os pagamentos realizados, ainda que desacompanhados do contrato de empréstimo devidamente assinado consubstanciam  instrumentos aptos a serem assimilados como prova do mútuo.1.1. Na espécie, embora a instituição financeira não tenha carreado aos autos o instrumento negocial que teria pautado a disponibilização do mútuo, por sustentar que não dispõe do contrato devidamente assinado, apresentou o contrato de abertura de conta, o extrato bancário, no qual contém a prova de efetiva disponibilização do crédito, e documento demonstrando a evolução da dívida, demandando a citação da ré e sua condenação ao pagamento do montante inadimplido, devidamente corrigido e acrescido de juros de mora.                    2. Tratando-se de ação de cobrança formulada pelo procedimento comum, ao autor está afetado o ônus de guarnecer os fatos constitutivos do direito que invoca, ou seja, lastrear o direito material cuja realização demanda, e ao réu, de sua parte, está afetado o ônus de aparelhar a subsistência de fatos extintivos, impeditivos ou modificativos do direito invocado em seu desfavor (art. 373, incisos I e II, do CPC). 2.1. In casu, contrário do afirmado no mérito do apelo, os documentos carreados aos autos, conquanto ausente o contrato da operação devidamente assinado pela ré, são hábeis a ensejar a comprovação de que houve, efetivamente, a contratação do mútuo com reorganização da dívida, não sendo essa apreensão infirmada pela simples e genérica alegação da ré de que contestou toda a ação de cobrança, sobretudo por não existir o contrato de financiamento entabulado.                               3. No caso dos autos, resta claro que a ré possuía conhecimento das regras contratuais expressas no instrumento, com as quais anuiu de livre e espontânea vontade ao beneficiar-se do entabulado, sem que houvesse, de sua parte, demonstração de qualquer vício de consentimento, não lhe sendo lícito sustentar nulidade ou ilegalidade da operação realizada, mesmo em se tratando de contrato de adesão regido pelo Código de Defesa do Consumidor.4. Recurso conhecido e desprovido. Sentença mantida.”(Acórdão nº 1942397, 0720611-95.2023.8.07.0020 Relator: CARLOS PIRES SOARES NETO, 1ª TURMA CÍVEL, data de julgamento: 6/11/2024) (Ressalvam-se os grifos)
+
+“APELAÇÃO  CÍVEL. CIVIL E PROCESSO CIVIL. GRATUIDADE DE JUSTIÇA. HIPOSSUFICIÊNCIA ECONÔMICA COMPROVADA. DEFERIMENTO DO BENEFÍCIO. AÇÃO DE RESTITUIÇÃO DE VALORES. TRANSFERÊNCIA BANCÁRIA VIA PIX. IRREGULARIDADE NA OPERAÇÃO. TERCEIRO FAVORECIDO. NECESSIDADE DE DEVOLUÇÃO DA QUANTIA TRANSFERIDA. VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. TERCEIRO LITISDENUNCIADO.     AUSÊNCIA DE RESPONSABILIZAÇÃO PELOS FATOS OCORRIDOS. ÔNUS DA PROVA. NÃO DESINCUMBÊNCIA PELA PARTE RÉ. MANUTENÇÃO DA SENTENÇA.1. Para obter o benefício da gratuidade de justiça, deve a parte demonstrar a necessidade, conforme prevê o art. 5º, LXXIV, da Constituição Federal. No caso, os documentos que instruem a petição são suficientes para comprovar a incapacidade financeira de a apelante arcar com as despesas      2. O deferimento da gratuidade de justiça não importa na exclusão da condenação ao pagamento das custas e honorários advocatícios, mas na suspensão de sua exigibilidade conforme o disposto no artigo 98, §2º e §3º, do CPC.     3. De acordo com o princípio da distribuição estática do ônus da prova, incumbe ao autor demonstrar o fato constitutivo do seu direito e ao réu fato impeditivo, modificativo ou extintivo do direito do autor (art. 373, incisos I e II, do Código de Processo Civil.    4. De acordo com as provas coligidas, infere-se que a instituição bancária, autora de demanda, logrou comprovar o alegado depósito partindo da conta de seu cliente, via Pix, para conta de titularidade da requerida, todavia decorrente de transação irregular. Observa-se, ainda, a realização do estorno do valor referente ao lançamento não reconhecido pelo correntista do banco demandante.     5. O terceiro litisdenunciado, Banco PagSeguro, demonstrou de forma eficaz que a conta aberta pela ré/apelante permaneceu ativa até a solicitação de cancelamento, partindo da própria correntista, quando já decorrido alguns dias desde o recebimento do valor objeto do pedido de restituição.  6. Não restou demonstrada qualquer irregularidade na conduta adotada pelo Banco PagSeguro, sobretudo diante da ausência de comunicação acerca de existência de fraude ou de depósito errôneo na conta de sua correntista, afastando-se, pois, a imputação de responsabilidade sobre os fatos ocorridos.7. Não tendo a parte ré cumprido com o ônus previsto no art. 373, II do CPC, mostra-se acertada a sentença que julgou procedente o pedido formulado na inicial. Isso porque, diante do cenário apresentado, depreende-se que o valor foi efetivamente recebido pela recorrente, cabendo a esta realizar a devida restituição, sob pena de se enriquecer ilicitamente.         8. Deferida a gratuidade de justiça à parte ré. Apelo conhecido e     desprovido.”(Acórdão nº 1925196, 0726133-97.2022.8.07.0001, Relator: ARQUIBALDO CARNEIRO PORTELA, 6ª TURMA CÍVEL, data de julgamento: 18/9/2024) (Ressalvam-se os grifos)
+
+“DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. DESENVOLVIMENTO DE PLATAFORMA DIGITAL. INADIMPLEMENTO CONTRATUAL. FALTA DE PAGAMENTO. DEMONSTRAÇÃO. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NÃO CABIMENTO. ARTIGO 373, II, DO CPC.DESCUMPRIMENTO.1. O artigo 476 do Código Civil estabelece que nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento do outro.2.      Nos termos do artigo 373 do Código de Processo Civil, incumbe ao autor o ônus da prova quanto ao fato constitutivo de seu direito, e ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor. Assim, de acordo com a regra da distribuição estática do ônus da prova, quem alega determinado fato deve prová-lo.3.  A parte autora demonstrou, por meio da prova documental carreada ao feito, a realização de cobranças ao réu em relação ao inadimplemento do contrato. Por outro lado, da prova produzida, não se vislumbra qualquer tentativa do réu de justificar a falta de pagamento em eventual problema em relação à prestação nos serviços. 3.1. Se o réu entendia que o serviço não estava sendo prestado a contento, ou que o produto entregue não estava de acordo com as previsões contratuais, deveria ter tomado providências no sentido de realizar o distrato da avença ou buscar algum meio de resolução contratual. Assim, não lhe era dado simplesmente deixar de pagar o valor contratado, não sendo possível invocar a exceção do contrato não cumprido em seu benefício, especialmente se não demonstrada a inexecução do contrato pela autora.4.Dos elementos constantes dos autos, é possível concluir que houve o cumprimento, pela apelada, do contrato celebrado entre as partes, e, como os serviços foram prestados, não há nada que justifique o inadimplemento do réu, corroborando o entendimento de que os valores cobrados são devidos, de acordo com o que dispõem os artigos 389, 394 e 395 do Código Civil.5. Apelação cível conhecida e não provida. Honorários recursais majorados.”(Acórdão nº 1909519, 0739112-57.2023.8.07.0001, Relator: CARMEN BITTENCOURT, 8ª TURMA CÍVEL, data de julgamento: 20/8/2024) (Ressalvam-se os grifos)
+
+No caso em exame não subsiste não há provas, nos autos, a respeito da alegada ofensa à esfera extrapatrimonial da consumidora.Ressalte-se a afirmação, feita pela funcionária das entidades, em favor da autora, no sentido de que a contemplação do consórcio referido ocorre apenas por meio de lance, nos moldes da regra prevista no art. 22, § 1º, da Lei nº 11.795/2008 (Id. 64413789 e Id. 64413798).De igual modo, examine-se com atenção o teor do instrumento negocial celebrado entre as partes:
+
+“8. TERMO DE RESPONSABILIDADE [DA CONSUMIDORA]
+
+DECLARO QUE NÃO RECEBI QUALQUER PROPOSTA OU PROMESSA DE CONTEMPLAÇÃO COM PRAZO DETERMINADO SEJA POR SORTEIO OU LANCE.
+
+Fui devidamente informado(a) que as únicas formas de contemplação são SORTEIO ou LANCE, e que deverei participar normalmente das Assembleias do Grupo.
+
+(Omissis)
+
+Caro consorciado,
+
+Parabéns por ter adquirido uma cota de consórcio.  É uma satisfação tê-lo como cliente.
+
+Gostaríamos de contar com sua colaboração para procedermos ao correto cadastramento de seu contrato, ao mesmo tempo avaliarmos a qualidade do serviço prestado por nosso representante comercial. Para tanto solicitamos o preenchimento do questionário abaixo:
+
+Nº do contrato: 7037775
+
+1º - Foi informado(a) de que o consórcio destina- -se a aquisição de veículos, caminhões, ou imóvel, dependendo da opção do plano?
+
+Sim
+
+2º - Foi informado(a) que a contemplação ocorrerá somente por sorteio ou lance, conforme dispostos nas cláusulas contratuais?
+
+Sim
+
+3º - Foi efetuada alguma promessa de contemplação que não as detalhadas no item anterior (garantia de contemplação em determinado valor de lance ou alguma vantagem extra)?
+
+Não
+
+4º - Estou ciente que em caso de desistência, receberei meus valores pagos na contemplação entre os cancelados, descontados as multas previstas em contrato de acordo com a legislação e cláusula contratual.
+
+Sim
+
+ATENÇÃO: O(a) vendedor(a) não estão autorizado(a), a efetuar venda ou transferência de cota contemplada, promessa de contemplação com prazo determinado ou entrega de bem. Caso haja alguma informação em desconformidade aqui apresentada não assine o contrato de adesão, e entre em contato conosco imediatamente através dos nossos canais de comunicação.” (Grifos do original)
+
+ Assim, conclui-se que não houve promessa de contemplação imediata do consórcio em destaque na causa de pedir, o que deve afastar a compensação almejada. Por essa razão, a consumidora exerceu o legítimo direito formativo de exclusão do grupo consorciado, em somatório com a restituição do valor transferido, com fundamento na regra prevista no art. 30 da Lei nº 11.795/2008.Feitas essas considerações, conheço e nego provimento ao recurso.Majoro os honorários para 11% (onze por cento) do valor da causa, de acordo com a regra prevista no art. 85, § 11, do CPC, com a ressalva exposta no enunciado normativo prefigurado no art. 98, § 3º, do mesmo diploma legal. É como voto.” (Grifos do original)
+
+ Com efeito, os argumentos expostos pela recorrente revelam que as insurgências ora manifestadas não se ajustam às hipóteses prefiguradas no art. 1022 do CPC.
+
+Trata-se, em verdade, de mero inconformismo com o resultado do julgamento, o que pode ser veiculado por meio das vias recursais adequadas.
+
+ É evidente que o recurso de embargos de declaração é o instrumento processual cuja fundamentação tem natureza “vinculada” e cujo efeito devolutivo a ele concernente evidencia natureza “restrita”, tendo em vista que o seu conteúdo deve ser limitado às hipóteses previstas no art. 1022 do Código de Processo Civil.
+
+Convém destacar que a mera divergência entre as razões de decidir adotadas na fundamentação da decisão e as alegações articuladas pela embargante, como é elementar, não se ajusta às hipóteses de omissão, contradição ou obscuridade.
+
+ Deve-se registrar, assim, que de acordo com as regras previstas no art. 489, § 1°, do Código de Processo Civil e no art. 93, inc. IX, da Constituição Federal, para que seja considerada suficiente a fundamentação da decisão judicial recorrida deve ser constatada a devida apreciação das questões suscitadas pelas partes, com a exposição do encadeamento lógico dos argumentos decisórios, ainda que de modo sucinto, correspondente às peculiaridades do caso concreto, diante do necessário relato a respeito das razões de fato e de direito que subsidiaram a respectiva decisão. Essas diretrizes foram devidamente observadas no voto proferido.
+
+ É preciso ressaltar também que o ordenamento jurídico não impõe ao Poder Judiciário manifestar-se a respeito de todas as alegações oferecidas pelas partes, mas singelamente em relação às questões capazes de infirmar as conclusões adotadas pelo Juízo singular.
+
+A propósito, examinem-se as seguintes ementas promanadas deste Egrégio Tribunal de Justiça:
+
+“EMBARGOS DE DECLARAÇÃO. APELAÇÃO. ALEGAÇÃO DE OMISSÃO. INOCORRÊNCIA. PREQUESTIONAMENTO. ACLARATÓRIO NÃO PROVIDO.1.Não existe qualquer omissão ou contradição, como quer argumentar o Embargante. O que pretende é rediscutir o teor da decisão proferida, a fim de que a prestação jurisdicional se coadune às suas pretensões, o que é incabível em sede de embargos de declaração. 2.Ausentes os requisitos previstos no Art. 1.022 do CPC, mostra-se impositivo a rejeição dos Embargos de Declaração.3.Ainda que as decisões judiciais devam ser necessariamente fundamentadas, é certo que o magistrado não está obrigado a responder a todos os questionamentos formulados pelas partes, salvo aqueles capazes de modificar a decisão recorrida, nos termos do art. 489, § 1º, inc. IV, do CPC. 4. Embargos de declaração não provido.”
+
+(Acórdão nº 1430351, 07011553920218070018, Relator: Roberto Freitas Filho, 3ª Turma Cível, data de julgamento: 9/6/2022). (Ressalvam-se os grifos)
+
+“PROCESSO CIVIL. MONITÓRIA. PRELIMINAR. NULIDADE SENTENÇA. REJEITADA. DUPLICATA. SEM ACEITE. NOTAS FISCAIS. RESPECTIVOS PROTESTOS. DIREITO CREDITÓRIO. COMPROVAÇÃO. FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO. ÔNUS DA PROVA.1. Nos termos do artigo 489, § 1°, IV, do Código de Processo Civil, o julgador não está obrigado a responder toda e qualquer alegação das partes nem a rebater todos os seus argumentos, quando o fundamento é incapaz de infirmar a conclusão adotada. Não há violação ao artigo se os termos constantes da sentença são suficientes para afastar a tese de nulidade por carência de fundamentação.2. A ação monitória pode ser acompanhada de documento escrito que, a despeito de não conter a eficácia inerente aos títulos executivos, deve se mostrar hábil a comprovar indícios de existência de relação obrigacional que possa vincular o devedor, de modo a possibilitar ao magistrado inferir a plausibilidade do direito vindicado. Inteligência do artigo 700.                                                           3. A  duplicata, mesmo sem aceite, configura título hábil para instruir ação monitória se acompanhada das notas fiscais que descrevam as mercadorias e respectivos protestos.4. Incumbe ao réu o ônus de comprovar fatos extintivos, impeditivos ou modificativos do direito do autor, nos termos do artigo 373, inc. II, do Código de Processo Civil.5. Preliminar nulidade da sentença rejeitada.6. Recurso conhecido e desprovido.”(Acórdão nº 1425251, 07257663820208070003, Relator: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 19/5/2022) (Ressalvam-se os grifos)
+
+No caso dos autos, portanto, o provimento jurisdicional embargado está de acordo com o modelo imposto pela Constituição Federal e pelo Código de Processo Civil, pois foram devidamente analisadas as teses suscitadas, os requerimentos formulados e as provas coligidas aos autos.
+
+Pelas razões expostas, o acordão recorrido deve ser integralmente mantido.
+
+Feitas essas considerações, conheço e nego provimento ao recurso.
+
+É como voto.
+
+O Senhor Desembargador RENATO RODOVALHO SCUSSEL - 1º Vogal Com o relatorO Senhor Desembargador FERNANDO ANTONIO TAVERNARD LIMA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNÂNIME.
