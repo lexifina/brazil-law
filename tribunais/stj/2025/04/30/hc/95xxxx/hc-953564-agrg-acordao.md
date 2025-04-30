@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra a decisão que não conheceu do habeas corpus porque ausente impugnação especpifica dos fundamentos da decisão agravada.
+II. Questão em discussão
+2. A discussão consiste em saber se o agravo regimental pode ser conhecido, considerando a ausência de impugnação específica dos fundamentos da decisão agravada, conforme exige o princípio da dialeticidade recursal.
+III. Razões de decidir
+3. A parte recorrente não impugnou os fundamentos que ensejaram o não conhecimento do habeas corpus, o que inviabiliza o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula n. 182/STJ, aplicados por analogia.
+IV. Dispositivo e tese
+4. Agravo regimental não conhecido.
+Tese de julgamento: O agravo regimental não pode ser conhecido se a parte recorrente não impugna especificamente os fundamentos da decisão agravada, conforme exige o princípio da dialeticidade recursal.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; CPC, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 953.178/RJ, rel. Min. Og Fernandes, Sexta Turma, julgado em 05/03/2025.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  em favor de CARLOS ALBERTO CUNHA DE OLIVEIRA contra  a  decisão ( fls.  85/89)  que  não conheceu do  habeas  corpus.
+O agravante alega que o pleito está instruído com os autos originais que demonstrariam a nulidade da prova.
+Aduz que não havia fundadas razões para abordagem e que teria havido erro na valoração da prova.
+Sustenta violação do art. 226 do CPP.
+Requer a reconsideração da decisão agravada ou a submissão do agravo ao Órgão colegiado para concessão da ordem de habeas corpus.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. PRINCÍPIO DA DIALETICIDADE RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO. I. Caso em exame 1. Agravo regimental interposto contra a decisão que não conheceu do habeas corpus porque ausente impugnação especpifica dos fundamentos da decisão agravada. II. Questão em discussão 2. A discussão consiste em saber se o agravo regimental pode ser conhecido, considerando a ausência de impugnação específica dos fundamentos da decisão agravada, conforme exige o princípio da dialeticidade recursal. III. Razões de decidir 3. A parte recorrente não impugnou os fundamentos que ensejaram o não conhecimento do habeas corpus, o que inviabiliza o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do Código de Processo Civil e da Súmula n. 182/STJ, aplicados por analogia. IV. Dispositivo e tese 4. Agravo regimental não conhecido. Tese de julgamento: O agravo regimental não pode ser conhecido se a parte recorrente não impugna especificamente os fundamentos da decisão agravada, conforme exige o princípio da dialeticidade recursal.
+Dispositivos relevantes citados: CF/1988, art. 5º, LXVIII; CPC, art. 1.021, § 1º.
+Jurisprudência relevante citada: STJ, AgRg no HC n. 953.178/RJ, rel. Min. Og Fernandes, Sexta Turma, julgado em 05/03/2025.
+VOTO
+A insurgência não deve prosperar.
+O princípio da dialeticidade recursal impõe que a parte recorrente impugne todos os fundamentos da decisão recorrida e demonstre, concreta e especificamente, o seu desacerto.
+A decisão proferida está assim fundamentada:
+Verifica-se que o habeas corpus em tela foi impetrado como substitutivo de recurso próprio/revisão criminal.
+Pontuo que esta Corte Superior, seguindo o entendimento do Supremo Tribunal Federal (AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018), pacificou orientação no sentido de que não cabe habeas corpus substitutivo do instrumento legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado (HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020).
+No caso, não se verifica flagrante ilegalidade.
+A defesa sustenta que diligências deveriam ter sido feitas para intimação do paciente foragido comparecer na audiência.
+O v. acórdão assim exarou (fl. 12):
+ ..  Verifica-se dos autos, que após a apresentação da Resposta à acusação e recebimento da denúncia, o juiz designou audiência de instrução e julgamento, determinando a intimação pessoal do mesmo para o ato, já que estava sob custódia da SUSIPE, tendo sido solicitado a sua apresentação. No entanto, o diretor do presídio (fls. 135) informou que o apelante encontrava-se foragido do estabelecimento prisional, desde o dia 21 de outubro de 2018, mesmo assim, conforme consta do Termo de Audiência, a defesa técnica do apelante estava presente no ato. Dessa forma, rejeito a preliminar arguida, por ausência de prejuízo concreto sofrido pelo apelante, nos termos do artigo 563, do CPP e ainda em observância ao princípio pas de nullité sans grief, ou seja, não há nulidade sem prejuízo.  ..  (grifos nossos)
+Conforme art. 367 do Código de Processo Penal, constitui obrigação do acusado comunicar o Juízo acerca da mudança de endereço, sob pena de revelia.
+Fato é que é dever do réu informar ao Juízo eventual mudança de endereço, descabendo ao Poder Judiciário realizar diligências para localizar o paradeiro do condenado quando frustradas as tentativas de intimação no endereço por ele fornecido (STJ, HC n. 266.318/MG, Rel. Min. Marco Aurélio Bellizze, Quinta Turma, DJe de 27/2/2014).
+No mesmo sentido:
+PENAL E PROCESSO PENAL. HABEAS CORPUS. TRIBUNAL DO JÚRI. HOMICÍDIO TENTADO. REVELIA. PACIENTE QUE, APÓS REGULARMENTE CITADO, NÃO MAIS FOI ENCONTRADO NO ENDEREÇO QUE DECLINOU. INCIDÊNCIA DO ART. 367 DO CPP. INEXISTÊNCIA DE NULIDADE. WRIT NÃO CONHECIDO.
+1. Tratando-se de habeas corpus substitutivo de recurso especial, inviável o seu conhecimento.
+2. Conforme estabelece o artigo 367 do CPP, "o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo".
+3. É dever do réu informar ao Juízo eventual mudança de endereço, descabendo "ao Poder Judiciário realizar diligências para localizar o paradeiro do condenado quando frustradas as tentativas de intimação no endereço por ele fornecido".
+(HC n. 266.318/MG, Rel. Min. Marco Aurélio Bellizze, Quinta Turma, DJe de 27/2/2014)
+4. Writ não conhecido. (HC n. 362.081/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 23/8/2016, DJe de 1/9/2016.)
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. 1. CRIME DE HOMICÍDIO. INTIMAÇÃO PARA AUDIÊNCIA DE INSTRUÇÃO. RECORRENTE NÃO ENCONTRADO. APLICAÇÃO DA DISCIPLINA DO ART. 267 DO CPP. 2. NECESSIDADE DE INFORMAR A ALTERAÇÃO DO ENDEREÇO. VENIRE CONTRA FACTUM PROPRIUM. PRECEDENTES. 3. RECURSO EM HABEAS CORPUS IMPROVIDO.
+1. Embora o recorrente tivesse plena consciência de que contra ele havia um processo criminal em curso, mudou-se de endereço, sem comunicar à justiça, razão pela qual não foi encontrado para ser intimado da audiência de instrução, debates e julgamento. Dessarte, incide no caso dos autos a disciplina do art. 367 do Código de Processo Penal, o qual dispõe que "o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo".
+2. Não pode ser atribuído ao judiciário o não esgotamento dos meios para encontrá-lo, pois, sabendo do processo em curso contra si, tinha o dever de manter seu endereço atualizado. Ademais, é entendimento do Superior Tribunal de Justiça que a ninguém é lícito fazer valer um direito em contradição com sua anterior conduta. Portanto, reconhecer eventual nulidade no caso seria inadequado no plano da ética processual, por implicar violação do princípio da boa-fé objetiva, na dimensão venire contra factum proprium.
+2. Recurso em habeas corpus improvido. (RHC n. 49.159/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/3/2016, DJe de 28/3/2016. - grifos nossos).
+No caso, o paciente estava foragido e, apesar de citado, não indicou endereço. Ressalta-se, inclusive, que o paciente tem advogado constituído, o que demonstra pleno conhecimento dos atos processuais, não havendo, inclusive, demonstração de prejuízo, conforme ressaltado no v. acórdão.
+No tocante ao reconhecimento fotográfico, a defesa alegou:
+Ocorre Exa. que o acordão não reconheceu a nulidade por cerceamento de defesa, trazendo grave prejuízo pela ausência do recorrente, onde restou claro que os policiais apresentaram declarações mentirosas e contraditórias, pois declararam que não recordavam do recorrente, sendo feito reconhecimento, por fotografia, além de falar que não recordavam do lugar da apreensão da droga.
+No caso, conforme denúncia (fl. 17), o paciente foi preso em flagrante com drogas pela polícia militar. Portanto, a prova da autoria delitiva deriva de outras provas independentes e autônomas, na medida em que o paciente ao ser preso foi devidamente identificado, não sendo, inclusive caso de incidência do art. 226 do CPP, uma vez que desnecessário.
+O pedido de absolvição demanda revolvimento do conjunto fático- probatório, o que não é possível na via restrita do habeas corpus, sendo firme a jurisprudência desta Corte no sentido de que  o  habeas corpus não é a via adequada para apreciar o pedido de absolvição ou de desclassificação de condutas, tendo em vista que, para se desconstituir o decidido pelas instâncias de origem, mostra-se necessário o reexame aprofundado dos fatos e das provas constantes dos autos, procedimento vedado pelos estreitos limites do mandamus, caracterizado pelo rito célere e por não admitir dilação probatória (AgRg no HC n. 832.649/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 28/8/2023, DJe de 1/9/2023).
+Ante o exposto, não conheço do habeas corpus. (g.n.)
+Verifica-se que nas razões do agravo, a parte recorrente não tratou dos fundamentos que ensejaram o não conhecimento do habeas corpus. Assim, não houve impugnação específica dos fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do Código de Processo Civil, o que faz incidir a Súmula n. 182/ STJ, disposições aplicáveis por analogia.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos dos arts. 1.021, § 1º, do Código de Processo Civil e 259, § 2º, do Regimento Interno do STJ, aplicados analogicamente ao Processo Penal, cabe ao recorrente, na petição de agravo regimental, impugnar especificamente os fundamentos da decisão agravada.
+2. A decisão de não conhecimento do habeas corpus teve por fundamento a ocorrência de ofensa ao princípio da unirrecorribilidade.
+3. Nas razões do agravo regimental, porém, a parte agravante não enfrentou de maneira adequada os motivos que impediram o conhecimento do pedido, impossibilitando o conhecimento do agravo regimental, nos termos do art. 1.021, § 1º, do CPC e da Súmula n. 182 do STJ, aplicável por analogia.
+4. Inexistência de flagrante ilegalidade que autorize a concessão da ordem de ofício, pois mostra-se inviável o acolhimento da pretensão fundada na negativa de materialidade e autoria, por ausência de provas suficientes para a condenação decretada, haja vista a inviabilidade de amplo revolvimento de matéria fático-probatória nesta estreita via processual.
+5. Mantida a condenação por associação para o tráfico, fica afastada a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Precedentes.
+6. Agravo regimental não conhecido (AgRg no HC n. 953.178/RJ, relator Ministro Og Fernandes, Sexta Turma, julgado em 05/03/2025, DJEN de 12/03/2025 - grifamos).
+Ante o  exposto,  não conheço do  agravo  regimental.
+É o voto.
