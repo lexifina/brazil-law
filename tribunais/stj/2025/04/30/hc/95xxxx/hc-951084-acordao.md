@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, não conhecer do habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INTERPOSIÇÃO CONCOMITANTE COM RECURSO DE APELAÇÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. OFENSA. INDEVIDA SUBVERSÃO DO SISTEMA RECURSAL.
+Habeas corpus não conhecido.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em benefício de Renato Ribeiro Hejedich e Alan Rogerio Joseph Luz - condenados a 9 anos e 6 meses de reclusão, em regime inicial fechado, além do pagamento de 950 dias-multa, pela prática dos crimes de tráfico de drogas e associação para o tráfico -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Habeas Corpus n. 2273763-79.2024.8.26.0000).
+Busca a impetração o reconhecimento da nulidade em razão de suposta violação de domicílio - ao argumento de que não havia fundadas razões ou autorização judicial ou do morador para que os policiais ingressassem no imóvel -, com a consequente absolvição dos pacientes, uma vez que as demais provas produzidas nos autos da Ação Penal n. 1516780-96.2024.8.26.0228 (18ª Vara Criminal da comarca de São Paulo - Foro Central Criminal Barra Funda) decorreram de tal diligência, sendo, portanto, ilícitas por derivação.
+Requer, ainda, o redimensionamento das penas-base, a fim de que retornem ao mínimo legal, o abrandamento do regime prisional, ante a ausência de fundamentação concreta para a imposição do regime fechado e, por último, a concessão do direito de recorrer em liberdade aos pacientes.
+Liminar indeferida às fls. 133/135.
+Informações prestadas às fls. 137/155.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 163/166).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INTERPOSIÇÃO CONCOMITANTE COM RECURSO DE APELAÇÃO. PRINCÍPIO DA UNIRRECORRIBILIDADE. OFENSA. INDEVIDA SUBVERSÃO DO SISTEMA RECURSAL.
+Habeas corpus não conhecido.
+VOTO
+De início, verifica-se que, além de se tratar de writ substitutivo de recurso próprio - o que denota flagrante impropriedade do meio processual utilizado -, a defesa dos pacientes interpôs recurso de apelação em face da sentença proferida nos autos da ação penal principal, o qual já se encontra em processamento perante a Corte estadual, sendo que, conforme informações obtidas junto ao sistema processual eletrônico do Tribunal a quo, o feito se encontra concluso com o Desembargador Relator desde o dia 18/12/2024.
+A jurisprudência deste Superior Tribunal é firme no sentido de que a tramitação concomitante de recurso de apelação e habeas corpus com idêntica pretensão não é admitida, devendo as questões ser analisadas primeiramente pela segunda instância. O recurso de apelação possui efeito devolutivo amplo, sendo a via processual mais adequada para a impugnação de sentença condenatória (AgRg no HC n. 902.462/RJ, Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/12/2024, DJEN 16/12/2024).
+Desse modo, o presente writ é incabível por consubstanciar inadequada impetração concomitante com o recurso adequado, tratando-se de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade, segundo o qual, contra uma única decisão judicial admite-se, ordinariamente, apenas uma via de impugnação (AgRg no HC n. 837.330/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/3/2024).
+Nesse sentido, ainda:
+HABEAS CORPUS. NULIDADE. CORREIÇÃO PARCIAL. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E COMÉRCIO ILEGAL DE ARMA DE FOGO. DESDOBRAMENTO DA OPERAÇÃO EXTREMO SUL. BUSCA E APREENSÃO. ALEGAÇÕES DE ILEGALIDADE DAS PROVAS QUE SUSTENTARAM A REPRESENTAÇÃO E DE EXCESSO NO CUMPRIMENTO DO MANDADO. NÃO CONHECIMENTO. MATÉRIAS NÃO ANALISADAS NO ACÓRDÃO HOSTILIZADO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTAÇÃO. ELEMENTOS INVESTIGATIVOS ANTERIORES E ELEMENTOS CONCRETOS. EVIDENCIADA A NECESSIDADE DA MEDIDA. FUNDAMENTOS IDÔNEOS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. Não se conhece da impetração em relação às alegações de que a representação foi fundamentada em prova declarada ilícita e de excesso no cumprimento do mandado de busca e apreensão, pois tais matérias não foram analisadas no acórdão tido como ato coator, sendo que o conhecimento originário da questão por este Superior Tribunal configuraria indevida supressão de instância. Precedentes.
+2. Não é cabível a impetração de habeas corpus concomitantemente com interposição de recurso de apelação contra o mesmo ato judicial - ainda que se admita a impetração de writ substitutivo do recurso -, por se tratar de indevida subversão do sistema recursal e de violação do princípio da unirrecorribilidade. Precedentes.
+3. Quanto à fundamentação do acórdão hostilizado, tem-se que a busca e apreensão foi deferida com base em elementos investigativos anteriores, especialmente em conversas extraídas de telefones celulares, sobre a comercialização de armas e munições por organização criminosa que contava, em tese, com a participação de policiais militares, o que indica fundada razão a autorizar a decretação da medida para descobrir objetos necessários à prova de infração penal e para colher mais elementos de convicção, nos termos do art. 240, § 1º, do Código de Processo Penal. Precedente.
+4. O pedido de reconsideração da decisão de indeferimento do pedido liminar está prejudicado, ante o julgamento de mérito da impetração.
+5. Writ não conhecido quanto às alegações de ilegalidade das provas que embasaram o deferimento da representação e de excesso no cumprimento do mandado e, na parte conhecida, ordem denegada. Pedido de reconsideração prejudicado.
+(HC n. 514.027/RS, de minha relatoria, Sexta Turma, DJe 5/11/2019 - grifo nosso).
+Ante o exposto, não conheço do habeas corpus.
