@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL FERREIRA DE JESUS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (fl. 2).
+Na inicial, a defesa informa que o paciente foi condenado às penas de 8 anos, 10 meses e 20 dias de reclusão em regime inicial fechado e ao pagamento de 21 dias-multa, como incurso no art. 157, § 2º, II, e § 2º-A, I, do Código Penal (fl. 3).
+No julgamento da apelação defensiva, a pena foi reduzida para (seis) anos e 8 (oito) meses de reclusão no regime inicial fechado, e 16 (dezesseis) dias-multa (fl. 22).
+A defesa alega que houve violação injustificada do art. 226 do Código de Processo Penal, viciando a produção probatória e, consequentemente, o devido processo legal, culminando em condenação manifestamente ilegal (fls. 3-4).
+Afirma que o reconhecimento do paciente pela vítima na delegacia de polícia foi realizado sem a presença de outras pessoas, contrariando o procedimento previsto no art. 226 do CPP, o que torna inválida a prova do delito (fls. 4-5).
+Sustenta que a dúvida deve levar à absolvição, em apreço à presunção de inocência, pois não há nos autos elementos suficientes para embasar uma sentença condenatória (fls. 6-7).
+No mérito, requer a concessão da ordem para que se declare a nulidade das provas produzidas e, em consequência, se determine a absolvição do paciente, nos moldes do art. 386, VII, do CPP, com a imediata expedição de alvará de soltura (fls. 12).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Isso porque a moldura fática do acórdão impugnado indica que a condenação não foi pautada exclusivamente no reconhecimento, mas também em outros elementos probatórios. Confira-se o excerto do julgado de origem (fls. 15-16):
+Com efeito, não há que se cogitar de nulidade do reconhecimento pessoal na fase de inquérito, pois ainda que o ato tenha sido realizado apenas diante da apresentação do acusado ao lado da autoridade policial, este não foi o único elemento que apontou para a participação de GABRIEL no roubo aqui apurado, pois, além dele ter sido detido na posse do telefone celular subtraído da vítima momentos antes, ele estava nas proximidades do restante da res furtivae e usava o mesmo boné vermelho informado pela vítima em juízo.
+Outrossim, não se verificou qualquer induzimento ao reconhecimento do acusado, pois a vítima descreveu suas vestes, a mesma vestimenta que GABRIEL usava quando do reconhecimento (ver imagens da audiência de custódia - SAJ página 57: blusa azul) e o boné vermelho já mencionado.
+Fica, desta forma, rechaçada a tese de nulidade do reconhecimento pessoal do acusado, não se olvidando de que o ato foi renovado em juízo com a segurança necessária; e de acordo com a regra do artigo 226 do Código de Processo Penal.
+Por fim, saliente-se que é iterativa a jurisprudência deste Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus para a análise de teses de insuficiência probatória ou de negativa de autoria, em razão da necessidade de incursão no acervo fático-probatório.
+Ante o exposto, inevidente flagrante ilegalidade, não conheço do habeas corpus.
+Publique-se. Int imem-se.
+ EMENTA
