@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO HESS contra decisão que inadmitiu o seu recurso especial manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+"EMENTA: EMBARGOS INFRIGENTES EM APELAÇÃO CRIMINAL - TRIBUNAL DO JÚRI - HOMICÍDIO QUALIFICADO - RESGATE DO VOTO MINORITÁRIO - IMPOSSIBILIDADE - CERCEAMENTO DE DEFESA - NÃO CONFIGURAÇÃO - INTIMAÇÃO POR EDITAL PARA A SESSÃO DE JULGAMENTO - ACUSADO FORAGIDO - VIABILIDADE. Viável a determinação de intimação por edital do acusado que se encontra foragido, não havendo se falar em nulidade. Não configurado cerceamento de defesa se devida e previamente intimado o réu a constituir novo procurador nos autos."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 2328-2346).
+Contraminuta apresentada (e-STJ fls. 2350-2352 ).
+O Ministério Público Federal manifestou-se "pelo desprovimento dos agravos, mantendo-se íntegra as decisões agravadas, que, na origem, inadmitiram os recursos especiais" (e-STJ fls. 2370-2371).
+É o relatório.
+Decido.
+A despeito dos argumentos apresentados, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão agravada, que merece ser mantida por seus próprios fundamentos.
+Como bem pontuado na decisão que inadmitiu o recurso especial (e-STJ fl. 2321):
+Observa-se que o Colegiado, soberano na análise probatória, concluiu que não houve o alegado cerceamento de defesa e destacou que o réu encontrava-se, de fato, foragido, e que foram esgotadas todas as formas possíveis de sua intimação pessoal.
+A Turma Julgadora relatou, ainda, que constou do edital de intimação a necessidade de comparecimento do réu à data do novo júri designado, e a possibilidade de constituir novo defensor - destacando que "o réu, ora embargante, teve ciência da intimação por edital acima transcrita, tanto assim que constituiu novo procurador nos autos, porém somente na véspera da sessão designada, o que levou à juíza presidente indeferir o pedido de novo adiamento do júri" e que "não há se falar em cerceamento de defesa e tampouco nulidade da intimação do edital ou mesmo prejuízo ao réu no caso em comento".
+O acórdão recorrido encontra-se fundamentado nos seguintes termos (e-STJ fls. 2186-2192):
+"É que, vênia, ao contrário do que alude o voto minoritário, restou claro que durante todo o processado, tanto o juízo, quanto o parquet, perquiriram, por diversas vezes, encontrar o réu para intimá-lo.
+Vale transcrever nesse ínterim, parecer ministerial abaixo que bem resume os motivos que levaram a juíza primeva a considerar o réu foragido e determinar sua intimação por edital, pois comprovados os meios protelatórios por ele utilizados para retardar a efetiva prestação jurisdicional e, via de consequência, esgotadas todas as formas possíveis de sua intimação pessoal no decorrer do processo:
+(..)
+Além do mais, durante tentativa frustrada de intimação, o embargante estava em livramento condicional e tinha obrigação de manter atualizado seu endereço, conforme termo de condições de fl. 1190 - ordem 36.
+Destarte, estando em local incerto e não sabido, foi requerido pelo parquet (fls. 1199/1201 - ordem 36) a intimação do réu por edital, esta que fora deferida pelo juízo a quo, por se encontrar o embargante, de fato, foragido.
+Assim é que, em 28/05/2021, fora publicada no DJe a intimação do réu a respeito do edital expedido, bem assim sobre a designação da data do novo Júri, em 25/06/2021, às 09:00h. (certidão de fls. 1228 - ordem 36).
+Vale ressaltar que constou do edital de intimação (abaixo transcrito - fl. 1229 - ordem 36) a necessidade de comparecimento do réu a data do novo júri designado, em 25/06/2021, quanto a possibilidade de constituir novo defensor.
+(..)
+Ressalta-se, neste ponto, ao contrário do que alude o embargante, quando sustenta a nulidade por ausência da publicação no D Je do edital de intimação acima transcrito, que de acordo com o art. 257, inciso IV, art. 746, §2º e art. 887, §3º do CPC, o juiz poderá determinar, conforme a peculiaridade da sede do juízo, que o edital seja afixado em local de costume, tenha a publicação veiculada em jornal local de ampla circulação ou que sejam utilizados outros meios que julgar apropriados.
+Frise-se, outrossim, que o prazo do aludido edital era de 15 dias, sendo certo que as certidões juntadas às fls. 1228/1229 (ordem 36) atestam que a intimação fora devidamente publicada em 28/05/2021.
+Vale dizer, intimado nesta data e começando a fluir o prazo a partir de então, existia prazo suficiente para o réu constituir novo advogado para sua defesa e comparecer ao júri designado para o dia 25/06/2021.
+No caso em examine, como se viu dos autos, houve inequivocamente a publicação no DJe da expedição do edital e sua afixação em local de costume e o réu, ora embargante, teve ciência da intimação por edital acima transcrita, tanto assim que constituiu novo procurador nos autos, porém somente na véspera da sessão designada, o que levou à juíza presidente indeferir o pedido de novo adiamento do júri, nos termos in verbis:
+(..)
+Ressalta-se ademais, que fora oportunizada a plena defesa no réu durante a realização do júri, conforme bem ponderou o parecer da PGJ de ordem 59, com cuja conclusão coaduno perfeitamente. Vejamos:
+(..)
+Pelo exposto, a meu sentir, não há se falar em cerceamento de defesa e tampouco nulidade da intimação do edital ou mesmo prejuízo ao réu no caso em comento.
+O que se constatou, de fato, durante todo o decorrer do processado, a meu sentir, é a existência de clara de várias manobras engendradas pelo embargante para se furtar ao cumprimento de determinações judiciais, buscando ao máximo adiar seu julgamento."
+Diante da moldura fática delineada no acórdão recorrido - que trouxe uma análise detalhada do desenrolar dos fatos ocorridos durante o curso da ação penal -, fica muito evidente que a arguição de nulidade processual é de manifesta improcedência, assistindo razão à Corte de origem quando registra a ocorrência de diversas manobras engendradas pelo recorrente para se furtar ao cumprimento das determinações judiciais, buscando ao máximo adiar seu julgamento, em conduta claramente atentatória aos postulados da boa-fé objetiva e da lealdade processual.
+Com efeito, "a jurisprudência dos Tribunais superiores não tolera a chamada "nulidade de algibeira" - aquela que, podendo ser sanada pela insurgência imediata da defesa após ciência do vício, não é alegada, como estratégia, numa perspectiva de melhor conveniência futura. Observe-se que tal atitude não encontra ressonância no sistema jurídico vigente, pautado no princípio da boa-fé processual, que exige lealdade de todos os agentes processuais" (AgRg no RHC n. 115.647/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/10/2020, DJe de 20/10/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
