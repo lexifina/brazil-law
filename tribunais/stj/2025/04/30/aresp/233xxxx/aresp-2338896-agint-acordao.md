@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Maria Thereza de Assis Moura, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, decisões monocrática não são aptas a comprovar divergência jurisprudencial.
+2. A orientação jurisprudencial deste Tribunal Superior é no sentido de que, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelo recorrente.
+3. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por HOTEL LINCOLN LTDA. contra decisão monocrática de fls. 1.181-1.185 (e-STJ), integralizada pelo julgado de fls. 1.207-1.211 (e-STJ), assim ementados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Nas razões recursais, o agravante afirma ter demonstrado e comprovado a divergência jurisprudencial para fins de possibilitar o exame do recurso especial pela alínea c do permissivo constitucional.
+Destaca que "o Recurso Especial veio acompanhado de cópias de todos os acórdãos paradigmas utilizados na ocasião da demonstração do dissídio jurisprudencial" (e-STJ, fl. 1.220).
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 1.226-1.236 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, decisões monocrática não são aptas a comprovar divergência jurisprudencial.
+2. A orientação jurisprudencial deste Tribunal Superior é no sentido de que, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelo recorrente.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+De início, é preciso frisar que, de acordo com os Enunciados Administrativos n. 2 e 3/STJ, os requisitos de admissibilidade a serem observados pelos recursos interpostos neste Tribunal Superior são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+No caso em exame, tem aplicação a dinâmica processual estabelecida pelo Código de Processo Civil de 2015, uma vez que, à época da publicação da decisão que culminou na interposição do recurso especial, já estava em vigência o novo regramento processual.
+Consta dos autos que o recorrente interpôs recurso especial (e-STJ, fls. 1.066-1.076), com base na alínea c do permissivo constitucional, alegando divergência jurisprudencial pautada na ofensa ao art. 15-A do Decreto-Lei nº 3.365/1941.
+O Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 1.119-1.121), situação que ensejou a interposição do agravo (e-STJ, fls. 1.124-1.145), do qual, em decisão monocrática de fls. 1.181-1.185 (e-STJ), se conheceu para não conhecer do recurso especial.
+Opostos embargos de declaração, os aclaratórios foram rejeitados (e-STJ, fls. 1.207-1.211).
+Irresignado, o agravante interpõe o presente recurso especial. Todavia, o inconformismo não merece prosperar.
+No recurso especial, o insurgente, com base no art. 105, III, c, da CF/1988, apontou divergência jurisprudencial, embasada na ofensa ao art. 15-A do Decreto-Lei nº 3.365/1941, com o fim de defender a tese referente ao cabimento de juros remuneratórios nas ações indenizatórias por perda do fundo de comércio pelo locatário.
+Contudo, conforme exposto na decisão agravada, o agravante não logrou êxito em comprovar e demonstrar o dissídio jurisprudencial.
+Em relação aos julgados proferidos no AREsp 600.966/SP e no AREsp 1.053.086/SP, constata-se que ambos são decisões monocráticas.
+Nesse caso, a jurisprudência do STJ reconhece que os referidos precedentes não são aptos a comprovar possível divergência jurisprudencial.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PORTE DE ARMA. AGENTE DE SEGURANÇA SOCIOEDUCATIVO ESTADUAL. ISENÇÃO DE RECOLHIMENTO DE TAXA. ALEGAÇÃO DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. SÚMULA N. 284 DO STF. MERA MENÇÃO AOS DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. SÚMULA N. 284 DO STF. ALEGAÇÃO DE AFRONTA A DISPOSITIVO DE LEI LOCAL. SÚMULA N. 280 DO STF. DISSÍDIO JURISPRUDENCIAL. PARADIGMAS DO MESMO TRIBUNAL. SÚMULA 13 DO STJ. DISSENSO PRETORIANO. DECISÕES MONOCRÁTICAS. IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+1. Não obstante o recurso especial alegue violação aos arts. 489 e 1.022 do CPC/2015, não especifica quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto e, igualmente, não indica os pontos sobre os quais haveria deficiência na fundamentação. Incidência da Súmula n. 284 do STF.
+2. A mera menção aos dispositivos legais, sem que haja clara e precisa fundamentação apta a demonstrar de que maneira o acórdão recorrido os tenha contrariado, configura deficiência de fundamentação e atrai a incidência da Súmula n. 284 do STF.
+3. O exame da controvérsia a partir da interpretação de dispositivos de direito estadual é inviável na via do recurso especial, nos termos da Súmula n. 280 do STF.
+4. Julgados oriundos do mesmo Tribunal que proferiu o acórdão recorrido não se prestam para solucionar dissídio interpretativo interno dos Tribunais sujeitos à jurisdição especial do Superior Tribunal de Justiça, nos termos do que orienta a Súmula n. 13 desta Corte Superior.
+5. Conforme a jurisprudência do Superior Tribunal de Justiça, " ..  as decisões monocráticas proferidas pelo relator são inservíveis como julgados paradigmas à comprovação de dissídio jurisprudencial" (AgInt no AREsp n. 1.617.337/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 10/5/2021, DJe de 13/5/2021).
+6. In casu, não foi realizado o cotejo analítico nos moldes exigidos no art. 1.029, § 1º, do Código de Processo Civil e no art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, ou seja, com a transcrição de trechos dos acórdão recorrido e paradigma, demonstrando a similitude fática e o dissenso na interpretação do dispositivo de lei federal, sendo que a simples transcrição das ementas não satisfaz esse requisito recursal.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.119.360/SC, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+Noutro ponto, quanto ao REsp n. 55.694/SP, do exame das razões recursais, verifica-se que o insurgente não realizou o cotejo analítico necessário à demonstração do dissídio apontado.
+A respeito do tema, a orientação jurisprudencial deste Tribunal Superior é no sentido de que, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelo recorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Não se pode conhecer do Recurso devido à ausência de demonstração de dissídio jurisprudencial quanto ao tema. No caso, os precedentes citados não trataram de situação semelhante à dos autos, nos quais se defende serem cabíveis juros compensatórios ao locatório (e não ao proprietário do bem) em Ação de Indenização de fundo de comércio, nos termos do art. 15-A da Lei de 3.365/1941, por motivo de desapropriação do imóvel locado.
+2. A apontada divergência deve ser comprovada, e cabe a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 1.029, §1º do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base no art. 105, III, "c", da Constituição Federal.
+3. Decisões monocráticas não são aptas a comprovar o alegado dissídio jurisprudencial como exige o art. 1.043, § 4º, do CPC/2015.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.214.147/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/5/2023, DJe de 27/6/2023.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. CONDENAÇÃO EM PERCENTUAL FIXO. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NS. 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. HONORÁRIOS RECURSAIS EM AGRAVO INTERNO. PRETENSÃO DA PARTE AGRAVADA. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I  O Recorrente aponta ofensa ao art. 85, §, 4º, II, do CPC/2015, alegando, em síntese, irregularidade na fixação do percentual dos honorários advocatícios antes da liquidação do julgado. A Corte de origem, por sua vez, definiu a condenação em percentual fixo sobre o valor da causa. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas ns. 283 e 284/STF.
+II Para a demonstração da divergência jurisprudencial, recurso especial interposto pela alínea c do permissivo constitucional, a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+III A pretensão da parte agravada não merece acolhida. Em sede de agravo interno, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015. Precedentes.
+IV Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V Agravo Interno improvido.
+(AgInt no REsp n. 2.160.697/RN, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/9/2024, DJe de 19/9/2024.)
+No caso em exame, depreende-se que o agravante, ao interpor o recurso especial, limitou-se a citar a ementa do REsp 55.694/SP sem realizar o devido cotejo analítico.
+Dessa maneira, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
