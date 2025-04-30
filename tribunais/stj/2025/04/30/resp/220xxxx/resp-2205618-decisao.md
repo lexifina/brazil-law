@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado por L.A.V. Dressler & CIA Ltda. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 236):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. SALÁRIO-EDUCAÇÃO. INCRA. LIMITAÇÃO. 20 SALÁRIOS MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. TEMA 1.079/STJ.
+1. A limitação da base de cálculo das contribuições a terceiros em 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei n. 6.950/81, foi revogada pelo Decreto-Lei n. 2.318/86 juntamente com o caput do mesmo artigo, porquanto não é possível que remanesça em vigência parágrafo de lei estando revogado o artigo correspondente.
+2. Ao julgar o Tema 1.079 dos recursos repetitivos, o STJ decidiu que "a partir da entrada em vigor do art. 1º, I, do Decreto-Lei 2.318/1986, as contribuições destinadas ao Sesi, ao Senai, ao Sesc e ao Senac não estão submetidas ao teto de vinte salários".
+3. O salário-educação é regido por legislação específica, em razão do que também a ele não se aplica o teto de 20 salários mínimos.
+A parte recorrente sustenta, em resumo, que: (I) "o E. TRF4 compreendera pela manutenção do acórdão proferido com base no julgamento do Tema 1.079/STJ, entretanto, ao assim decidir, não considerara que referido Tema, julgado sob o rito dos recursos repetitivos, pende de desfecho definitivo" (fl. 250), sendo certo que há "ilegalidade da modulação de efeitos estabelecida no julgamento do Tema no 1.079/STJ" (fl. 253); e (II) em relação às contribuições ao Salário Educação, INCRA e Sebrae o limite não foi alterado, ficando mantida a base de cálculo de até 20 salários mínimos vigentes no país.
+Parecer do Ministério Público Federal às fls. 321/331.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso especial não comporta trânsito.
+De início, em relação à matéria referente ao SENAI, SESI, SESC e SENAC, verifica-se que a Corte de origem negou seguimento ao recurso especial conforme o disposto nos arts. 1.030, I, "b", e 1.040, I, do CPC, ante o quanto decidido pelo STJ no Tema 1.079/STJ (cf fls. 272/273) , razão pela qual prejudicado o apelo raro no ponto.
+Lado outro, no que remanesce, em relação às teses suscitadas nas razões do recurso especial, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/3/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 8/3/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 1º/3/2021.
+Importante salientar que "a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial" (AgInt no AREsp n. 1.928.578/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/3/2022, DJe de 28/3/2022.)
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. FALTA DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO INTERNO DESPROVIDO.
+1. O Superior Tribunal de Justiça entende que a falta de indicação clara e precisa do dispositivo de lei federal alegadamente afrontado implica deficiência na fundamentação do recurso especial. Aplicável ao caso o óbice da Súmula 284 do STF.
+2. Destaca-se que a mera citação de passagem de dispositivos legais no corpo das razões recursais não satisfaz tal requisito, já que é impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto (AgInt no REsp 1.615.830/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018).
+3. Registre-se que o apelo especial interposto com fundamento na alínea c do inciso III do art. 105 da Carta Magna também requer a indicação precisa do dispositivo legal a respeito do qual se alega a divergência interpretativa, o que não ocorreu na hipótese dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.087.834/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/2/2023, DJe de 16/2/2023.)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+EMENTA
