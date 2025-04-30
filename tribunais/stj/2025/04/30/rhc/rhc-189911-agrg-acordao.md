@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 10 DA LEI N. 7.347/1985. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O trancamento prematuro de persecução penal, pela via estreita do writ, é medida excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a ausência de lastro mínimo de materialidade e de autoria, a absoluta falta de justa causa, a evidente atipicidade da conduta ou a ocorrência de causa de extinção da punibilidade, conforme reiterada jurisprudência deste Superior Tribunal" (RHC n. 122.998/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+2. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ANDRE GRIPP CAMARA e ANDRE LUIS ANDRADE DE OLIVEIRA contra decisão monocrática de minha relatoria, que negou provimento ao recurso ordinário em habeas corpus manejado contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE assim ementado:
+"EMENTA: CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS. PACIENTES QUE RESPONDEM A AÇÃO PENAL PELA SUPOSTA PRÁTICA DO DELITO PREVISTO NO ART. 10 DA LEI N. 7.347/1985. PRETENSO TRANCAMENTO DA AÇÃO PENAL. ALEGADA INÉPCIA DA DENÚNCIA E AUSÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL. NÃO OCORRÊNCIA. REQUISITOS DO ART. 41 DO CÓDIGO DE PROCESSO PENAL PREENCHIDOS. DEVIDO ENQUADRAMENTO DA CONDUTA AO TIPO PENAL PREVISTO. DESCRIÇÃO SUFICIENTE A PROPORCIONAR O CONTRADITÓRIO E A AMPLA DEFESA. PROVAS INDICIÁRIAS CAPAZES DE EMBASAR A PEÇA ACUSATÓRIA. JUSTA CAUSA CONFIGURADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM CONHECIDA E DENEGADA."
+A parte recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso interposto (e-STJ fls. 224-232).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 10 DA LEI N. 7.347/1985. PLEITO DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O trancamento prematuro de persecução penal, pela via estreita do writ, é medida excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a ausência de lastro mínimo de materialidade e de autoria, a absoluta falta de justa causa, a evidente atipicidade da conduta ou a ocorrência de causa de extinção da punibilidade, conforme reiterada jurisprudência deste Superior Tribunal" (RHC n. 122.998/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Inicialmente, saliento que "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 3/9/2024, DJe de 6/9/2024).
+Não obstante, o parágrafo único do art. 647-A do CPP admite a concessão de ordem de habeas corpus de ofício pelo tribunal, "ainda que não conhecidos a ação ou o recurso em que veiculado o pedido de cessação de coação ilegal", quando verificada violação ao ordenamento jurídico que implique restrição à liberdade de locomoção.
+No presente caso, não vislumbro constrangimento ilegal a ser sanado pela via do habeas corpus, uma vez que o entendimento adotado pelo Tribunal de origem não destoa da jurisprudência firmada no âmbito deste Superior Tribunal de Justiça, que entende que "o trancamento prematuro de persecução penal, pela via estreita do writ, é medida excepcional, admissível somente quando emergem dos autos, de plano e sem necessidade de apreciação probatória, a ausência de lastro mínimo de materialidade e de autoria, a absoluta falta de justa causa, a evidente atipicidade da conduta ou a ocorrência de causa de extinção da punibilidade, conforme reiterada jurisprudência deste Superior Tribunal" (RHC n. 122.998/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/2/2021, DJe de 10/2/2021).
+De fato, esta Corte considera "prematuro trancar ação penal através da via estreita do remédio heroico - no bojo do qual se mostra inadequada a dilação probatória - quando o fato típico e a autoria delitiva estão calcados em elementos indiciários aptos à deflagração da persecução criminal, devendo, nessa fase processual, prestigiar-se o princípio do in dubio pro societate" (RHC n. 49.298/RJ, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 19/3/2015, DJe de 6/4/2015).
+Ante o exposto, nego provimento ao agravo regimental .
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
