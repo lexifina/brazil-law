@@ -1,0 +1,15 @@
+DECISÃO
+DIEFERSON ALEXSANDER PERTILE MOBORACH alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 500242-22.2014.8.21.0033).
+Consta dos autos que o paciente foi condenado a 12 anos e 4 meses de reclusão, no regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/06; 16, IV, da Lei n. 10.826/2003 e art. 180, caput, ambos do Código Penal.
+A defesa alega a desproporcionalidade na fixação das penas-base, mesmo quando apenas uma das circunstâncias judiciais é desfavorável.
+Requer, assim, a redução da reprimenda.
+Decido.
+O que a defesa questiona, neste habeas corpus, é o quantum de aumento efetivado na reprimenda-base, que, em sua compreensão, deveria ser inferior à exasperação operada pelas instâncias ordinárias.
+No entanto, não se pode olvidar que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo as instâncias de origem fundamentado o aumento da reprimenda-base à luz, justamente, das peculiaridades do caso concreto - antecedentes, natureza e quantidade de drogas apreendidas -, não vejo como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+Vale dizer, uma vez que foram apontados argumentos concretos e idôneos dos autos para a fixação da pena-base acima do mínimo legal, não há como esta Corte simplesmente se imiscuir no juízo de proporcionalidade feito pelas instâncias de origem, para, a pretexto de ofensa aos princípios da proporcionalidade e da individualização da pena, ou mesmo de violação dos arts. 59 do Código Penal e 42 da Lei de Drogas, reduzir a reprimenda-base estabelecida ao acusado.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não verifico caracterizada nos autos.
+Faço o registro de que, ao contrário do que afirma a defesa, "A análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito." (AgRg no REsp n. 143.071/AM, Rel. Min. Maria Thereza de Assis Moura, 6ª T., DJe 6/5/2015).
+Deve, por conseguinte, ser mantida inalterada a pena-base imposta ao réu.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
