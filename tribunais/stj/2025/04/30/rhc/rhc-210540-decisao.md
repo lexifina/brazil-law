@@ -1,0 +1,29 @@
+DECISÃO
+JOSÉ AUGUSTO MIRANDA MELO alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2201122-93.2024.8.26.0000.
+A defesa alega flagrante ilegalidade na manutenção da condenação do recorrente pela prática de crime ambiental, uma vez que já teria ocorrido a prescrição da pretensão punitiva estatal.
+Sustenta que o delito do art. 48 da Lei n. 9.605/1998 tem natureza instantânea com efeitos permanentes, consumando-se no momento do ato que impede ou dificulta a regeneração da vegetação. Na visão da defesa, a consumação haveria ocorrido em 27/8/2015, conforme atestam os Autos de Infração Ambiental n. 304281/15 e 307879/15. Entre essa data e o recebimento da denúncia (18/08/2021) transcorreu prazo superior a 4 anos, configurando-se a prescrição pela pena máxima em abstrato (1 ano), nos termos do art. 109, V, do Código Penal.
+O Ministério Público Federal opinou pelo não conhecimento ou, no mérito, pelo não provimento do recurso ordinário (fls. 631-636).
+Decido.
+A Corte local não conheceu dos habeas corpus, sob os seguintes motivos (fls. 478-479):
+ ..
+O presente "writ" é incognoscível.
+Da análise dos autos originários, verifica-se que o ora paciente fora denunciado, devidamente processado e, ao final, definitivamente condenado pelo Juizado Especial Criminal da Comarca de Itapeva, às penas de 1 (um) ano de detenção, no regime aberto, e ao pagamento de 19 (dezenove) diárias, no piso, como incurso no artigo 48, caput, da Lei nº 9.605/98, cuja r. sentença foi integralmente mantida pelo Colendo Colégio Recursal deste Tribunal de Justiça, conforme V. Acórdão de 21/02/24 (fls. 438/443), declarado às fls. 452/455, o que inviabiliza o conhecimento da pretensão ora deduzida.
+Como se vê, a causa já foi julgada em grau de apelação pela douta Turma Recursal Criminal deste Tribunal Bandeirante, por sinal, diga-se, é um dos órgãos fracionários desta Colenda Corte, a impedir, assim, o conhecimento do "mandamus".
+Não bastasse, o presente pedido não merece guarida, porquanto os aludidos julgados não padecem de qualquer irregularidade caracterizadora de ilegal constrangimento. Ao contrário, estão formalmente em ordem e devidamente e assaz fundamentados.
+Na verdade, a presente impetração pretende rediscutir matéria de mérito, aliás, já enfrentada e refutada em duas Instâncias, não sendo, ademais, o "habeas corpus", o meio de impugnação adequado para tanto.
+Além do mais e ao revés do alegado, o ora paciente não se encontra encarcerado, uma vez ter sido condenado a cumprir pena em regime aberto, o que reforça, ainda mais, a inadequação da via eleita.
+Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+De fato, não houve nenhum pronunciamento sobre a alegação posta na inicial do writ por parte do Tribunal de Justiça do Estado de São Paulo. Assim, a "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. ALEGADA NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. TESE NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DESTA CORTE EXAMINAR A CONTROVÉRSIA PER SALTUM, AINDA QUE SE TRATE, EVENTUALMENTE, DE QUESTÃO DE ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+1. A alegação de nulidade decorrente da invasão domiciliar não foi submetida à apreciação do Tribunal a quo, ao julgar recurso de apelação exclusivo da Acusação, de modo que não pode ser conhecida originariamente por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Não se olvide que, consoante pacífica jurisprudência desta Corte, até mesmo matéria de ordem pública pressupõe seu prévio exame, na origem, para que possa ser analisada por esta Corte. Precedentes.
+3. Esse entendimento garante observância aos princípios do duplo grau de jurisdição e do devido processo legal substancial e não viola o princípio da inafastabilidade da jurisdição, previsto no art. 5.º, inciso XXXV, da Constituição Federal, pois, sanado o vício apontado, a eventual existência de ilegalidade flagrante será devidamente analisada.
+4. Não se pode confundir a possibilidade de concessão de ofício da ordem, isto é, sem prévia provocação por parte do interessado, com a concessão per saltum, que se verifica quando a matéria não foi sequer submetida à análise do Tribunal a quo e, por isso, é vedada pela jurisprudência pacífica desta Corte.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 670.966/SE, Rel. Ministra Laurita Vaz, 6ª T., DJe 10/10/2022)
+À vista do exposto, não conheço do recurso ordinário.
+Publique-se e intimem-se.
+EMENTA
