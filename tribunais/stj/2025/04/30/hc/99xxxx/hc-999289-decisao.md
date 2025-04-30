@@ -1,0 +1,31 @@
+DECISÃO
+JOÃO PAULO DA SILVA LIMA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1540605-21.2024.8.26.0050).
+Depreende-se dos autos que o paciente foi condenado à pena de 8 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Busca a defesa, liminarmente e no mérito, o estabelecimento da pena-base no mínimo legal e o revisão da fração de aumento pela reincidência para 1/6.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Tribunal de origem manteve a pena-base acima do mínimo legal, conforme abaixo (fl. 31, grifei):
+Na primeira fase, nos termos do artigo 59 do Código Penal e 42 da Lei de Drogas, a pena foi majorada em razão da quantidade de drogas apreendidas em poder do acusado (126 porções de drogas, aumentada a pena em 1/3, resultando em 06 anos e 08 meses de reclusão e 666 dias-multa.
+Verifica-se que o aumento se encontra justificado, se considerarmos casos análogos ao aqui tratado, ainda em respeito aos princípios da individualização da pena, da proporcionalidade e da adequação.
+Pelo trecho transcrito, constato que as instâncias de origem, ao analisarem as circunstâncias judiciais, consideraram como desfavorável a quantidade da droga apreendida (10,6 g de cocaína e 38,4 g de crack).
+No entanto, embora a quantidade do entorpecente constitua, de fato, circunstância preponderante a ser considerada na dosimetria da reprimenda, entendo que a quantidade de droga apreendida não foi tão expressiva a ponto de justificar o aumento da pena-base, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, somente tal elemento para justificar a exasperação da pena-base.
+Ademais, entendo que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado no AgRg no REsp n. 1.448.529/RJ, de relatoria da Ministra Maria Thereza de Assis Moura (DJe 23/4/2015).
+Diante de tais considerações, evidencio a ocorrência do apontado constrangimento ilegal, a fim de reduzir a pena-base do paciente para o mínimo legalmente previsto, ou seja, 5 anos de reclusão e pagamento de 500 dias- multa, porquanto todas as demais circunstâncias judiciais lhes foram tidas como favoráveis.
+II. Fração de aumento pela reincidência
+Sobre o aumento de pena relativo à agravante da reincidência, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não haja mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade. Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração superior a 1/6 pela reincidência exige motivação concreta e idônea. Menciono, como exemplo, o HC n. 229.371/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 4/9/2013.
+O fato de a reincidência ser específica, por si só, não autoriza a adoção de fração mais severa. Nesse sentido, o Tema n. 1.172 dos Recursos Repetitivos, com a fixação da seguinte tese: "A reincidência específica como único fundamento só justifica o agravamento da pena em fração mais gravosa que 1/6 em casos excepcionais e mediante detalhada fundamentação baseada em dados concretos do caso".
+Como visto, as instâncias antecedentes efetuaram acréscimo de 1/3 sem apresentar motivação pertinente ao caso concreto.
+Assim, uma vez que não houve fundamentação adequada, deve ser aplicada a fração de 1/6.
+III. Nova dosimetria
+Procedendo-se, pois, à nova dosimetria da pena, a reprimenda-base do paciente ficou estabelecida em 5 anos de reclusão e 500 dias-multa, conforme acima examinado. Na segunda etapa, aumento a pena em 1/6, em razão da reincidência.
+Na terceira etapa, sem causas de aumento ou diminuição, torno a pena do acusado definitivamente estabelecida em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+Mantenho o regime inicial fechado de cumprimento de pena, em razão da reincidência do acusado.
+IV. Dispositivo
+À vista do exposto, concedo a ordem, in limine, a fim de reduzir a pena-base para o mínimo legal, aplicar a fração de 1/6 no aumento pela reincidência e, por conseguinte, tornar a reprimenda definitiva em 5 anos e 10 meses de reclusão e pagamento de 583 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Tribunal de origem e ao Juízo da condenação para as providências cabíveis.
+Publique-se e intimem-se
+EMENTA
