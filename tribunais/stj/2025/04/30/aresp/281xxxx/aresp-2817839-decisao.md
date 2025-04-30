@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Crisostomo Alves Pina de Almeida contra decisão proferida pela Vice-Presidência do Tribunal de Justiça de Alagoas que inadmitiu recurso especial interposto em razão do óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+O agravante foi condenado a 04 anos, 03 meses e 18 dias de reclusão em regime semiaberto, pela prática do delito de receptação qualificada (por três vezes), tipificado no artigo 180, §1º, do Código Penal.
+O Tribunal de Justiça de Alagoas negou provimento ao recurso de apelação sob o seguinte fundamento (e-STJ fls. 546-559):
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. RECEPTAÇÃO QUALIFICADA. PLEITO DE ABSOLVIÇÃO. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. ACERVO PROBATÓRIO SUFICIENTE A EMBASAR O ÉDITO CONDENATÓRIO. CIRCUNSTÂNCIAS DO FLAGRANTE. ACUSADO ENCONTRADO NA POSSE DO BEM. ALEGAÇÃO DE DESCONHECIMENTO DA ORIGEM ILÍCITA DOS AUTOMÓVEIS. ÔNUS DA PROVA QUE RECAI SOBRE O RÉU. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. PLEITO DE DESCLASSIFICAÇÃO PARA O CRIME DE RECEPTAÇÃO CULPOSA. IMPOSSIBILIDADE. AUSÊNCIA DE PROVAS DE QUE DESCONHECIA O CARÁTER ILÍCITO DO PRODUTO DO CRIME. PRETENSÃO DE REDIMENSIONAMENTO DA REPRIMENDA. CONSEQUÊNCIA DO CRIME. PREJUÍZO DAS VÍTIMAS QUE SE MANTEVE APÓS O PAGAMENTO PARCIAL DOS DANOS. ATENUANTE DA ALÍNEA B, INCISO II, DO ART. 65 DO CÓDIGO PENAL. AUSÊNCIA DE ESPONTANEIDADE. IMPOSSIBILIDADE DE APLICAÇÃO. ATENUANTE INOMINADA. ART. 66 DO CP. SOMENTE PODE SER RECONHECIDA ACASO A SITUAÇÃO CONCRETA NÃO POSSUA PREVISÃO LEGAL. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+Em recurso especial (e-STJ fls. 563-589), o agravante afirmou violação ao artigo 59 do Código Penal. Requereu a absolvição pela atipicidade da conduta ou, subsidiariamente, a desclassificação para receptação culposa. Alegou ausência de dolo na conduta e exacerbação na dosimetria da pena.
+O Tribunal de origem não admitiu o recurso especial em razão da incidência das Súmulas n. 284 do STF e n. 7 do STJ (e-STJ fls. 636-639).
+Na petição do agravo em recurso especial (e-STJ fls. 641-648), a parte recorrente aduziu:
+O intuito do recurso manejado é a reanálise dos critérios jurídicos previstos na legislação penal (concernente à dosimetria da pena), se foram ou não devidamente interpretados e aplicados no caso concreto, e que a pretensão exposta no recurso especial não envolve a reapreciação de fatos e provas. Na verdade, o recurso limita-se a discutir questões estritamente jurídicas, no tocante à ausência de dolo e à exasperação da dosimetria da pena.
+O parecer do Ministério Público (e-STJ fls. 692-695) é pelo desprovimento do agravo em recurso especial em razão da incidência da Súmula nº 7 do STJ. Sustentou:
+(..) a parte deixou de demonstrar, de forma explícita, o dispositivo violado.
+De acordo com o Superior Tribunal de Justiça, deve-se aplicar, por analogia, o entendimento da Súmula nº 284, do STF, quando ausente indicação expressa do dispositivo legal violado e a "ofensa ao dispositivo de lei federal" for genérica, sem demonstração efetiva da contrariedade; e por fim, quando a parte deixar de impugnar fundamentos suficientes para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de Origem.
+É o relatório.
+Decido.
+O agravo em recurso especial deve conter impugnação específica aos fundamentos da decisão que inadmitiu o recurso especial, sob pena de não conhecimento pelo relator (art. 932, III, CPC e Súmula n. 182 do STJ).
+No caso concreto, a decisão que inadmitiu o REsp foi baseada nas Súmulas n. 284 do STF e n. 7 do STJ. Todavia, o agravante apenas impugnou a aplicação da Súmula n. 7 do STJ, alegando que o recurso especial não envolve a reapreciação de fatos e provas, mas sim questões estritamente jurídicas, no tocante à ausência de dolo e à exasperação da dosimetria da pena (fls. 641-647). Quanto à Súmula n. 284 do STF, tão somente fez menção no título de um capítulo do recurso, sem apresentar argumentação concreta sobre a ausência de indicação expressa do dispositivo legal violado (fls. 645).
+Portanto, a ausência de impugnação concreta da aplicação da Súmula n. 284 do STF  núcleo essencial da decisão de inadmissão  torna o agravo manifestamente inadmissível, ensejando a incidência da Súmula n. 182 do STJ.
+Nesse sentido:
+PROCESSO PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COAÇÃO NO CURSO DO PROCESSO. ALEGADA VIOLAÇÃO AO ART. 619, CPP. INOCORRÊNCIA. MERA IRRESIGNAÇÃO. TESE DE ATIPICIDADE DAS CONDUTAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7, STJ. POSSIBILIDADE DE DECISÃO MONOCRÁTICA DO RELATOR. REGIMENTO INTERNO. PRECEDENTES. ALEGADA REVALORAÇÃO JURÍDICA. INOCORRÊNCIA. SÚMULA N. 182, STJ.
+(..)
+III - Não basta a mera alegação de que o recurso especial visa ao reenquadramento jurídico dos fatos. Incumbe à parte demonstrar que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa da aplicada pelas instâncias ordinárias.
+(..)
+V - É inviável o conhecimento de agravo regimental que se funda em assertiva genérica de que o recurso especial prescinde do reexame de fatos e provas, bem como na reiteração do mérito da controvérsia. Incidência por analogia, da Súmula n. 182, STJ. Agravo regimental não conhecido e pedido de habeas corpus de ofício negado.
+(AgRg no AREsp 2090034 / MG, Relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 17/10/2023, DJe 24/10/2023)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (no caso, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Não ultrapassado o juízo de admissibilidade dos recursos, inviável a análise das questões de mérito neles deduzidas" (AgRg no AREsp 1.534.025/PR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.628.916/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/6/2024, DJe de 17/6/2024.)
+Por esses fundamentos, com base na Súmula n. 182 do STJ  e na forma do art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça  não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
