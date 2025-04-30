@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por EMERSON SILVA PEREIRA, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Tráfico de drogas. Sentença absolutória. Recurso ministerial postulando a condenação do acusado nos exatos termos da denúncia. Possibilidade. Autoria e materialidade comprovadas. Existência de amplo conjunto probatório, suficiente para embasar a condenação. Quantidade e natureza da droga apreendida, aliadas às demais circunstâncias da prisão, que não deixam dúvida de que o apelado Emerson estava, efetivamente, envolvido com o tráfico de drogas praticado no local dos fatos. Depoimentos dos policiais seguros e coerentes com os demais elementos probatórios dos autos. Tendo os policiais apresentado depoimentos seguros e coerentes com os demais elementos dos autos e inexistindo evidência de que eles tivessem qualquer motivo para incriminar o réu falsamente, impõem-se a condenação pelo crime de tráfico de entorpecentes. Possibilidade de aplicação do redutor especial previsto no §4º, do artigo 33, da Lei nº 11.343/06 e de substituição da pena privativa de liberdade por duas restritivas de direitos. Fixação do regime inicial semiaberto, como requerido pelo Ministério Público. Recurso ministerial provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, alega a parte recorrente violação do artigo 33, § 2º, "c", do Código Penal.
+Pugna, em síntese, pela fixação de regime prisional mais brando para o início do cumprimento da reprimenda, sob o argumento de que a gravidade abstrata do delito não justifica a imposição do regime inicial semiaberto no caso.
+Apresentadas contrarrazões (e-STJ fls. 223/232), o recurso foi admitido pelo Tribunal de origem (e-STJ fls. 236).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo provimento do recurso (e-STJ fls. 245/247).
+É o relatório. Decido.
+A jurisprudência desta Corte firmou-se no sentido de que é imprescindível, para a fixação de regime inicial de cumprimento de pena mais gravoso, a apresentação de motivação concreta, fundada na reincidência, nas circunstâncias judiciais previstas no art. 59, do Código Penal, ou na gravidade concreta do delito, evidenciada esta última pelo modus operandi que desborde dos elementos normais do tipo penal violado. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+Nesse contexto, os enunciados das Súmulas ns. 718 e 719 do Supremo Tribunal Federal indicam, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Na espécie, a reprimenda corporal definitiva tenha sido fixada em 01 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, sem indicação de circunstância judicial negativa, reincidência ou outros elementos concretos hábeis a justificar a aplicação do regime prisional mais gravoso, no caso, o semiaberto. Destaca-se, ademais, que a pena privativa de liberdade foi substituída por duas restritivas de direitos.
+A respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CAUSA DE DIMINUIÇÃO PREVISTA NO ARTIGO 33, § 4º, DA LEI 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS NÃO CONFIGURADA. FUNDAMENTAÇÃO INIDÔNEA. REGIME PRISONAL INICIAL ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AUSÊNCIA DE ILEGALIDADE. REQUISITOS ATENDIDOS.
+I - O parágrafo 4º do art. 33 da Lei n. 11.343/2006 dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas, nem integre organização criminosa.
+II - A jurisprudência do Superior Tribunal de Justiça é no sentido de que a quantidade de drogas, isoladamente, não autoriza o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa, que não pode simplesmente ser presumida.
+III - Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Inteligência da Súmula 440/STJ.
+V - Presentes os requisitos do artigo 44 do Código Penal, a pena privativa de liberdade deve ser substituída por pena restritiva de direitos.
+Agravo regimental desprovido.
+(AgRg no AgRg no HC n. 893.504/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 14/5/2024, DJe de 20/5/2024.)
+Ante o exposto, dou provimento ao recurso especial para readequar o regime prisional inicial do recorrente para a modalidade aberta.
+Intimem-se.
+EMENTA
