@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto po r RUMO MALHA SUL S.A. contra a decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu recurso especial, fundamentado na alínea a, do art. 105, inciso III, da Constituição da República, dirigido ao acórdão prolatado no Agravo de Instrumento n. 5019001-91.2024.4.04.0000, assim ementado (fl. 32):
+AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE. RUMO MALHA SUL S. A. ART. 109, I, CF. (IN)COMPETÊNCIA. JUSTIÇA FEDERAL. ANTT E DNIT. AUSÊNCIA DE INTERESSE NO FEITO. ASSISTÊNCIA. IMPOSIÇÃO DE INGRESSO DE ASSISTENTES. IMPOSSIBILIDADE.
+1. A competência da Justiça Federal para processar e julgar as ações em que figura a União ou entes de sua administração indireta (autarquias, fundações e empresas públicas) é absoluta e se estabelece, em razão das pessoas envolvidas no processo (ratione personae), conforme o art. 109, inciso I, da Constituição Federal.
+2. Ademais, a assistência é modalidade de intervenção de terceiros voluntária (artigos 50 a 55 do CPC/1973 e 119 a 124 do CPC/2015), não cabendo a imposição de ingresso de assistentes, ainda que, eventualmente, possa existir interesse federal envolvido.
+3. Assim, manifestado o desinteresse da UNIÃO, da ANTT (INFORMAÇÕES n. 01846/2022/PF-ANTT/PGF/AGU) e ausente o interesse do DNIT (NOTA n. 00009/2021/NDESP/PFE- DNIT/PGF/AGU) em intervir no feito, não remanesce pessoa sujeita à jurisdição federal, razão pela qual deve ser mantida a decisão agravada no ponto em que declinou da competência em favor da Justiça Estadual.
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o apelo nobre pelos seguintes fundamentos: a) ausência de pressuposto processual de validade, consistente na inexistência de interesse jurídico de ente federal apto a justificar a competência da Justiça Federal (art. 109, inciso I, da CF), conforme interpretação firmada nas Súmulas n. 150 e n. 224 do STJ; b) inexistência de prequestionamento dos dispositivos infraconstitucionais indicados como violados, atraindo a incidência das Súmulas n. 211 do STJ e Súmulas n. 282 e 356 do STF; c) entendimento do acórdão recorrido em consonância com a jurisprudência consolidada do STJ, aplicando-se, por isso, a Súmula n. 83 do STJ; d) necessidade de revolvimento do conjunto fático-probatório para aferição da titularidade da faixa de domínio e do suposto interesse da União, razão pela qual incide o óbice da Súmula n. 7 do STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de pressuposto processual de validade, consubstanciada na inexistência de interesse jurídico de ente federal apto a justificar a competência da Justiça Federal (art. 109, inciso I, da CF), conforme interpretação consolidada nas Súmulas n. 150 e 224 do STJ; óbice concernente à aplicabilidade da Súmula n. 83 do STJ; e Súmula n. 7 do STJ.
+No que concerne à ausência de pressuposto processual de validade supracitado, restringiu-se a afirmar, de maneira genérica, que (fl. 148): " ..  aqui se discute, expressamente, a competência de justiça federal para processar a ação de origem, uma vez que o objeto da discussão perfaz propriedade da União Federal, de uso comum do povo, sendo a Agravante mera cessionária, portanto o tema central do incidente de recurso repetitivo em pauta".
+Reitera-se ainda (fls. 154 e 156):
+ ..
+III.D. DA COMPETÊNCIA DA JUSTIÇA FEDERAL E IMPOSSIBILIDADE DE SE LER ISOLADAMENTE O ARTIGO 109, INCISO I, DA CF E SÚMULA 150 DO STJ.
+Assim como exposto na Exordial do Agravo de Instrumento, o tema atrai a incidência de um instituto básico, porém contemporâneo: a discricionariedade e controle do poder estatal.
+O artigo 37 da Constituição Federal (CF), especificamente o seu caput, é conhecido por todos os operadores do Direito e, principalmente, publicistas. Afinal, nele estão previstos os diversos princípios constitucionais que regem e norteiam a interpretação de todo o ordenamento jurídico. Transcreve-se.
+ ..
+Feita essa introdução, deve ser dito: o Departamento Nacional de Infraestrutura e Transportes - DNIT, subordinado ao Ministério da Infraestrutura e, portanto, fração do poder Executivo Federal, em atenção ao interesse público e ao seu dever constitucional NÃO TEM A FACULDADE DE DEIXAR DE ATUAR E FIZCALIZAR AS DEMANDAS POSSESSÓRIAS CUJO OBJETO SÃO FAIXAS DE DOMÍNIO PÚBLICO.
+Ademais, a parte agravante deixou de demonstrar, por meio da indicação de julgados contemporâneos ou mais recentes, que foi superado o entendimento desta Corte Superior de Justiça no qual está alicerçada a decisão agravada para aplicar a Súmula n. 83 do STJ, ou que os precedentes mencionados no citado provimento judicial tratam de questões que não são análogas à do caso examinado nestes autos.
+Nessa senda:
+ ..
+1. É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada.
+2. "A adequada impugnação ao fundamento do juízo negativo de admissibilidade que aplicou a Súmula n. 83 desta Corte pressupõe a demonstração por meio de precedentes atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido, ou que o caso dos autos seria distinto daqueles veiculados nos precedentes através de distinguishing, o que não ocorreu na hipótese" (AgInt no AREsp n. 2.168.637/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/2/20 23, DJe de 16/2/2023).
+Agravo interno improvido.
+(AgInt no AREsp n. 2.147.724/RS, relator Ministro Humberto Martins, Segunda Turma, julgado em 27/3/2023, DJe de 30/3/2023.)
+Destaque-se, por oportuno que este Superior Tribunal de Justiça possui entendimento no sentido de que "a Súmula 83 do STJ é de possível aplicação tanto pela alínea a quanto pela alínea c do permissivo constitucional" (AgInt no AREsp n. 1.900.711/RJ, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023).
+Outrossim, importante ainda registrar, que a parte agravante, nas razões do agravo em recurso especial, afirmou, de maneira genérica, que não se trata de revolvimento do acervo fático-probatório, não tendo esclarecido, à luz das teses veiculadas no apelo nobre, de que maneira não seria necessária a incursão ao campo probatório.
+Para buscar afastar a incidência da Súmula n. 7 do STJ, deve a parte cotejar a moldura fática incontroversa do acórdão recorrido com as teses por ele suscitadas, demonstrando de que forma o seu exame prescindiria da análise de elementos probantes.
+A propósito:
+ ..
+5. A impugnação da Súmula n. 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica que lhe foi conferida e a apreciação jurídica que lhe deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não simplesmente reiterar o recurso especial. (AgInt no AREsp n. 1.790.197/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7 /2021).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.795.402/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+ ..
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial.
+5. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.770.082/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF-5ª Região), Primeira Turma, julgado em 26/4/2021, DJe de 30/4/2021.)
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do Código de Processo Civil e a Súmula n. 182 do STJ, in verbis: " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Por fim, esclareço que a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o provimento judicial que não admite o recurso especial não é constituído por capítulos autônomos, mas, sim, por dispositivo único. Dessa forma, nas hipóteses tais como a presente, nas quais a parte agravante não se insurge de maneira adequada contra qualquer um dos fundamentos que alicerçam a inadmissibilidade, é inviável conhecer do agravo em recurso especial na integralidade.
+A propósito:
+ ..
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ante o exposto, com fundamento no art. 932 do CPC/2015, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários advocatícios, por se tratar de acórdão proferido em agravo de instrumento na origem.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. COMPETÊNCIA. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
