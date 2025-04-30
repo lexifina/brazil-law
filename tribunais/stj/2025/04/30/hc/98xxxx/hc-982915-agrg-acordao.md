@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso. Abordagem policial. Ilegalidade não configurada. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus, utilizado como substitutivo de recurso, visando ao reconhecimento de nulidade na abordagem policial e à absolvição da recorrente.
+2. A decisão impugnada considerou que o habeas corpus não deve ser conhecido quando utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não foi constatado no caso em questão.
+3. A abordagem policial teria sido iniciada por denúncias anônimas específicas e resultou na apreensão de entorpecentes no local previamente indicado, sendo considerada legal pelas instâncias anteriores, que verificaram a existência de fundadas suspeitas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio e se houve ilegalidade na abordagem policial que justifique a concessão da ordem de ofício.
+5. A defesa alega nulidade na abordagem policial, que teria sido realizada com base em denúncia anônima e sem investigação prévia, e requer a absolvição da recorrente com fundamento na ilicitude das provas.
+III. Razões de decidir
+6. O habeas corpus não é cabível como substitutivo de recurso próprio, conforme entendimento consolidado pelo Superior Tribunal de Justiça e pelo Supremo Tribunal Federal.
+7. Não se verifica coação ilegal que justifique a concessão da ordem de ofício, uma vez que a abordagem policial foi realizada com base em fundadas suspeitas, conforme demonstrado pelas instâncias anteriores.
+8. A análise das circunstâncias fáticas que envolveram a situação do flagrante demandaria incursão no acervo fático-probatório, o que é incabível na via do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo desprovido.
+Tese de julgamento: "1. O habeas corpus não é cabível como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 2. A abordagem policial fundamentada em denúncias específicas e com fundadas suspeitas não configura ilegalidade que justifique a concessão da ordem de ofício".
+Dispositivos relevantes citados: CPP, art. 244; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, julgado em 27.03.2020.
+RELATÓRIO
+Trata-se de agravo regimental, interposto por CLAUDIA DE OLIVEIRA FERNANDES, contra decisão que indeferiu liminar mente o habeas corpus (fls. 734-737).
+Em suas razões recursais, às fls. 745-755, a defesa argumenta pelo cabimento do habeas corpus, ainda que substitutivo de recurso.
+Reafirma a existência de nulidade na abordagem policial efetuada com base em denúncia anônima e sem investigação prévia.
+Aduz que foi efetuada a busca pessoal sem que houvesse nenhum elemento objetivo capaz de demonstrar a justa causa, ou que a recorrente havia cometido ou estava cometendo delito naquele instante.
+Requer, em não havendo retratação, o provimento ao recurso para reformar a decisão monocrática e, com isso, reconhecer a ilicitude das provas e, consequentemente, absolver a recorrente.
+O Ministério Público estadual apresentou contrarrazões pelo desprovimento do recurso (fls. 772-776).
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Habeas corpus substitutivo de recurso. Abordagem policial. Ilegalidade não configurada. Agravo desprovido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus, utilizado como substitutivo de recurso, visando ao reconhecimento de nulidade na abordagem policial e à absolvição da recorrente.
+2. A decisão impugnada considerou que o habeas corpus não deve ser conhecido quando utilizado como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, o que não foi constatado no caso em questão.
+3. A abordagem policial teria sido iniciada por denúncias anônimas específicas e resultou na apreensão de entorpecentes no local previamente indicado, sendo considerada legal pelas instâncias anteriores, que verificaram a existência de fundadas suspeitas.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se o habeas corpus pode ser utilizado como substitutivo de recurso próprio e se houve ilegalidade na abordagem policial que justifique a concessão da ordem de ofício.
+5. A defesa alega nulidade na abordagem policial, que teria sido realizada com base em denúncia anônima e sem investigação prévia, e requer a absolvição da recorrente com fundamento na ilicitude das provas.
+III. Razões de decidir
+6. O habeas corpus não é cabível como substitutivo de recurso próprio, conforme entendimento consolidado pelo Superior Tribunal de Justiça e pelo Supremo Tribunal Federal.
+7. Não se verifica coação ilegal que justifique a concessão da ordem de ofício, uma vez que a abordagem policial foi realizada com base em fundadas suspeitas, conforme demonstrado pelas instâncias anteriores.
+8. A análise das circunstâncias fáticas que envolveram a situação do flagrante demandaria incursão no acervo fático-probatório, o que é incabível na via do habeas corpus.
+IV. Dispositivo e tese
+9. Agravo desprovido.
+Tese de julgamento: "1. O habeas corpus não é cabível como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade. 2. A abordagem policial fundamentada em denúncias específicas e com fundadas suspeitas não configura ilegalidade que justifique a concessão da ordem de ofício".
+Dispositivos relevantes citados: CPP, art. 244; CPP, art. 654, § 2º.
+Jurisprudência relevante citada: STJ, HC 535.063-SP, Rel. Min. Sebastião Reis Júnior, Terceira Seção, julgado em 10.06.2020; STF, AgRg no HC 180.365, Rel. Min. Rosa Weber, julgado em 27.03.2020.
+VOTO
+A controvérsia consiste no exame do cabimento do habeas corpus substitutivo de recurso e no reconhecimento, de ofício, de ilegalidade na abordagem policial em face da recorrente.
+Conforme exposto na decisão impugnada, a impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal, consoante percuciente fundamentação do acórdão impugnado, o qual demonstrou a existência de fundadas suspeitas e razões para a busca pessoal que se desdobrou para a busca domiciliar, culminando com a apreensão dos entorpecentes: 45 (quarenta e cinco) porções de cocaína, sendo 28 (vinte e oito) com peso de 4,370 g (quatro gramas e trezentos e setenta miligramas), 5 (cinco) com massa bruta de 103,918 g (cento e três gramas e novecentos e dezoito miligramas), 12 (doze) totalizando 19,169 g (dezenove gramas e cento e sessenta e nove miligramas), bem como 3 (três) porções de cocaína pesando aproximadamente 500 g (quinhentos gramas) - fl. 12.
+Confira-se o seguinte excerto do julgado (fls. 15-16):
+Ora, das narrativas prestadas em Juízo, colhe-se que, após denúncias anônimas noticiando a mercancia ilícita de entorpecentes praticada no endereço específico para o qual se deslocou a viatura policial, fardados, tão logo iniciaram a averiguação, visualizaram a acusada tentando se evadir do local, pulando o muro da residência, caindo no lote circunvizinho com sinais de abandono, onde foi detida e localizada porções de crack escondidas nas roupas íntimas (sutiã).
+Diante das premissas estabelecidas e da ausência de elementos suficientes para infirmar ou desacreditar a versão policial, mostra-se configurada a fundada suspeita de posse de corpo de delito a autorizar a busca pessoal, nos termos do art. 244 do CPP e, por obviedade, o adentramento no imóvel.
+Em reforço, na hipótese, tem-se que o flagrante se iniciou antes mesmo da revista, não havendo falar, portanto, em nulidade na hipótese dos autos; repito, não se trata de critério meramente subjetivo ou intuitivo, existindo fundada suspeita previamente as buscas descritas e, diferentemente do que pretende fazer crer a defesa, parcas incoerências nos depoimentos da equipe policial não maculam, tampouco esvaziam a tese acusatória.
+A título de registro, materialidade e autoria delitivas restaram comprovadas pelo Inquérito Policial nº 222/2021, auto de prisão em flagrante, termo de exibição e apreensão, laudo criminal de constatação de drogas, registro de atendimento integrado nº 18026191 e fotos, laudo criminal de identificação de drogas e substâncias correlatas (movs. 1, 6, 28, 49 e 134) e depoimentos orais colhidos (movs. 128 e 195).
+Por oportuno, ao contrário do alegado pela Defensoria Pública, atestando a materialidade delitiva, o laudo criminal definitivo foi juntado em 29.11.2022, constatando a apreensão de 28 (vinte e oito) porções de material petrificado de cor amarelada com massa bruta de 4,370 g (quatro gramas, trezentos e setenta miligramas); 05 (cinco) porções de material petrificado de cor amarelada, acondicionadas individualmente em filme plástico incolor, com massa bruta de 103,918 g (cento e três gramas, novecentos e dezoito miligramas); 12 (doze) porções de material petrificado de cor amarelada, acondicionadas individualmente em saco plástico incolor do tipo "ziplock", com massa bruta de 19,169 g (dezenove gramas, cento e sessenta e nove miligramas) (mov. 134).
+E, como dito, com algumas incertezas em razão do decurso do tempo, Edir Júnio Salviano dos Reis e Ana Gabriela Moreira Rios Albuquerque, policiais militares, confirmaram que a apelante foi detida após tentar empreender fuga na abordagem policial e, na revista pessoal, localizaram porções de crack escondidas no sutiã; questionada, confirmou que na sua residência mantinha outras porções, retornando ao local de origem da denúncia e do qual a acusada, de modo surpreendente, pulara o muro, onde encontraram as outras porções de cocaína; Ana Gabriela registrou que Cláudia escondeu o celular debaixo de uma árvore para despistá-los, enquanto o primeiro, Edir, frisou que tão logo estacionaram a viatura, visualizaram a acusada empreendendo fuga e pulando o muro do imóvel, causando espanto na equipe que raras vezes presenciou um ato de destreza assim; também contou que deslocaram até o endereço após denúncias anônimas que citavam o local em específico; na casa, durante revista, localizaram porções com material branco (cocaína) e balança de precisão (gravações audiovisuais).
+Cláudia de Oliveira Fernandes, ao Delegado de Polícia, afirmou ser usuária, desconhecendo as porções encontradas; em juízo, não compareceu ao ato instrutório, sendo decretada sua revelia.
+A bem da verdade, afastando qualquer dúvida, o endereço apontado como ponto de venda de drogas e especificado na denúncia anônima é o mesmo fornecido pela apelante tanto na prisão flagrancial quanto durante a audiência de custódia, o que, a meu ver, reforça a propriedade do entorpecente encontrado, restando vazia a tese defensiva alegada na fase extrajudicial, notadamente de desconhecer as demais porções.
+Assim, do cenário apresentado, destaca-se que o crime previsto no artigo 33, caput, da Lei 11.343, é de ação múltipla e conteúdo variado, não exigindo para a sua configuração que a pessoa seja surpreendida no momento do repasse da droga, mas apenas que a sua conduta se enquadre em um dos verbos ali existentes para a concretização do ilícito penal. Logo, diante do consistente acervo probatório, mantida a condenação nos moldes em que proferida. (grifei)
+De mais a mais, é iterativa a jurisprudência do Superior Tribunal de Justiça no sentido de ser imprópria a via do habeas corpus (e do seu recurso) para a análise de teses que demandem incursão no acervo fático-probatório, como no caso das circunstâncias fáticas que envolveram a situação do flagrante. Sobre o tema:
+ ..
+4. Na hipótese, conforme destacado pela Corte local, soberana na análise dos fatos e provas, está bem delimitada, pelo acervo probatório produzido na origem, e que não pode ser revisto no mandamus, notadamente no bojo de condenação transitada em julgado e mantida pela Corte local em sede de revisão criminal, a justa causa para a ação dos policiais, posto que o réu encontrava-se no interior de uma casa abandonada, supostamente utilizada para o tráfico de drogas pelo acusado, momento em que, já no interior do imóvel, os agentes públicos depararam-se com o paciente, que foi abordado. Em revista pessoal, foi apreendida a quantia de R$ 115,00 (cento e quinze reais) em seu poder, além de 12 (doze) porções de crack.
+5. Ademais, Verificada justa causa para a realização da abordagem policial, tomando-se como base o quadro fático delineado pelas instâncias antecedentes, alcançar conclusão em sentido diverso demandaria o reexame do conjunto fático-probatório, incabível na via do habeas corpus (HC 230232 AgR, Relator(a): ANDRÉ MENDONÇA, Segunda Turma, julgado em 02-10-2023, PROCESSOELETRÔNICO DJe-s/n, DIVULG 06-10-2023, PUBLIC 09-10-2023).
+6. Por fim, para se concluir de maneira diversa da Corte de origem e acolher a pretensão desclassificatória, nos moldes da pretensão defensiva, seria necessário proceder ao revolvimento das provas produzidas nos autos, o que não se mostra cabível na estreita via do habeas corpus, notadamente nos autos de condenação transitada em julgado e mantida em sede de Revisão Criminal.
+7. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 874.205/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024.)
+ ..
+3. "Desconstituir as conclusões da instância ordinária a respeito da dinâmica do flagrante demandaria aprofundado revolvimento fático-probatório, procedimento vedado na via estreita do habeas corpus". (AgRg no HC n. 708.314/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 17/10/2022, DJe de 19/10/2022.)
+4. Incabível a análise da questão do reconhecimento do tráfico privilegiado por se tratar de matéria estranha à inicial, constituindo indevida inovação recursal trazida apenas nas contrarrazões ao agravo regimental, de modo que dela não se deve conhecer.
+5. Agravo regimental provido para reconsiderar a decisão anterior e denegar o habeas corpus.
+(AgRg no HC n. 750.295/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 11/12/2023, DJe de 15/12/2023.)
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos. Acerca do tema:
+ ..  1. É assente nesta Corte que o regimental deve trazer novos argumentos capazes de infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.  ..
+(AgRg no HC n. 659.003/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2023, DJe de 30/3/2023.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
