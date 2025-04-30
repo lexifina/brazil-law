@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RODRIGO ELOI MARCELINO com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento da Apelação Criminal n. 0001055-96.2023.8.16.0021.
+O recorrente foi condenado pela prática do crime previsto no art. 12 da Lei n. 10.826/2003 e no art. 33, caput, da Lei n. 11.343/2006, às penas de 5 anos e 6 meses de reclusão, em regime inicial fechado, e 1 ano e 4 meses de detenção, em regime inicial semiaberto, bem como ao pagamento de 566 dias-multa.
+A defesa interpôs recurso de apelação ao Tribunal de origem, que negou provimento ao apelo, recebendo o acórdão a seguinte ementa (fls. 650-659):
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA. (ART. 33, CAPUT, DA LEI 11.343/06 E ART. 12 DA LEI 10.826 /2003). PRELIMINAR - ARGUIÇÃO DE VIOLAÇÃO DE DOMICÍLIO - CIRCUNSTÂNCIAS DO CASO QUE DEMONSTRAM A EXISTÊNCIA DE FUNDADAS RAZÕES DA OCORRÊNCIA DE CRIME A ENSEJAR O INGRESSO DOS POLICIAIS - DENÚNCIA ANÔNIMA ESPECÍFICA E PERMISSÃO DO APELANTE. POSSIBILIDADE DE MITIGAÇÃO DA INVIOLABILIDADE DO DOMICÍLIO, CONSOANTE ART. 5º, XI, DA CONSTITUIÇÃO FEDERAL E POSICIONAMENTO DO STF E DO STJ - AUSÊNCIA DE NULIDADE - PRELIMINAR REJEITADA - CRIME DE TRÁFICO DE DROGAS - PEDIDO DE ABSOLVIÇÃO - ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - VALIDADE DOS DEPOIMENTOS DOS POLICIAIS MILITARES QUE REALIZARAM A PRISÃO - CRIME DE AÇÃO MÚLTIPLA OU DE CONTEÚDO VARIADO - PRESCINDIBILIDADE DA PRISÃO EM FLAGRANTE DO RÉU NO MOMENTO DO ATO DE MERCANCIA - CONDUTAS DE TER EM DEPÓSITO QUE SE AMOLDAM AO TIPO PENAL DO ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006 - CONDENAÇÃO MANTIDA - PLEITO GENÉRICO DE REDUÇÃO DA PENA AO MÍNIMO LEGAL - NÃO ACOLHIMENTO - REPRIMENDA FIXADA EM CONFORMIDADE COM O CONTEXTO INFORMATIVO DOS AUTOS - CARGA PENAL CONFIRMADA - RECURSO CONHECIDO E DESPROVIDO".
+Os embargos de declaração opostos pela defesa foram rejeitados (fls. 705-712).
+Nas razões do recurso especial (fls. 724-733), a defesa sustentou a violação ao art. 157, do CPP, aduzindo que houve violação ao domicílio, sem fundadas razões, e que o consentimento para o ingresso na residência é inválido.
+Requereu, ao final, o provimento do recurso, para absolver o recorrente.
+Apresentadas as contrarrazões (fls. 743-749), o recurso foi admitido na origem (fls. 753-755) e os autos ascenderam ao STJ.
+O Ministério Público Federal, às fls. 769-773, opinou pelo desprovimento do recurso especial.
+É o relatório.
+Decido.
+A controvérsia consiste em verificar se as instâncias ordinárias deram a correta interpretação ao art. 157 do CPP.
+Quanto às citadas controvérsias, o Tribunal de origem assim se pronunciou:
+"As denúncias recebidas pela Polícia Militar indicavam que o apelante estaria traficando drogas em seu apartamento. Após solicitar apoio, os policiais abordaram o apelante, mas nada ilícito foi encontrado com ele. O apelante confirmou residir no endereço denunciado, negou envolvimento com o tráfico de drogas e autorizou a equipe policial a realizar buscas em seu apartamento, conforme gravação juntada aos movimentos 1.5 e 1.6.
+Os dados registrados no Boletim de Ocorrência apresentam idêntica descrição fática, sendo corroborados pelos depoimentos dos policiais ( mov. 1.2).
+Ademais, é oportuno destacar que os policiais narram que o apelante confirmou a entrada dos mesmos em sua residência, o que se mostra verdadeiro, uma vez que há um vídeo do réu o fazendo. Somente após a campana pela equipe de inteligência, abordaram o réu, e desta forma o requereram sua entrada e que foi autorizado pelo Apelante.
+Diante de tais circunstâncias - denúncia específica de venda de drogas, e permissão do apelante para a entrada - não há que se falar em invasão de domicílio, muito menos em ausência de fundadas razões para as diligências tomadas, porquanto não decorreram de mera intuição de traficância."
+O Supremo Tribunal Federal, no julgamento do RE n. 603.616, Rel. Min. Gilmar Mendes, sob a sistemática da repercussão geral, firmou o entendimento de que a entrada forçada em domicílio sem mandado judicial somente é lícita, mesmo durante o período noturno, quando fundada em razões concretas, devidamente justificadas a posteriori, que indiquem a ocorrência de situação de flagrante delito no interior da residência, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, além da nulidade dos atos praticados.
+No Superior Tribunal de Justiça, há consolidada jurisprudência que especifica as hipóteses em que se admite a mitigação do direito fundamental à inviolabilidade do domicílio.
+No caso concreto, conforme registrado nos autos, o ingresso na residência foi autorizado pelo morador, circunstância comprovada pelas gravações das filmagens anexadas, afastando, assim, a alegação de violação de domicílio.
+A revisão desse entendimento demandaria o revolvimento do conjunto fático-probatório, providência vedada na via do recurso especial, em razão do óbice da Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE ILEGAL DE MUNIÇÕES DE USO RESTRITO. TESE DE VIOLAÇÃO DE DOMICÍLIO AFASTADA. CONSENTIMENTO PRÉVIO DO MORADOR. MUNIÇÕES DE FUZIS DE GROSSO CALIBRE. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE ILEGALIDADE NA DOSIMETRIA DA PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Extrai-se da conclusão do Tribunal de origem que restou comprovado nos autos o consentimento prévio do agravante para o ingresso em sua residência, razão pela qual não há que se falar em violação de domicílio, sendo certo que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância, ante o óbice da Súmula 7/STJ.
+2. O pleito absolutório demanda reexame do acervo fático-probatório, sabidamente incabível em sede de recurso especial.
+3. A quantidade de munição encontrada - a saber, "2 munições de fuzil calibre 7.62 e 1 munição de fuzil calibre .223" - não é inexpressiva e o calibre é compatível com fuzis de alto poder destrutivo. Além disso, o contexto de tráfico de drogas em que se deu a apreensão dos artefatos não autoriza a aplicação do princípio da insignificância.
+4. A pena-base está em conformidade com o disposto no artigo 42 da Lei 11.343/06, sendo proporcional à gravidade do crime, em razão da exorbitante quantidade e variedade de entorpecentes apreendida, a autorizar sua fixação acima do mínimo legal.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.222.161/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 18/3/2025, DJEN de 25/3/2025.)
+Ante o exposto, não conheço do recurso especial, com fundamento no art. 255, § 4º, I, do RISTJ.
+Publique-se.
+Intimem-se.
+EMENTA
