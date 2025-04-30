@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para negar provimento ao recurso especial.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. JÚRI. OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. REGIME PRISIONAL FECHADO CORRETAMENTE FIXADO. ART. 59 DO CP. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Apreciadas as questões suscitadas pela parte, não há falar em ofensa ao art. 489 do CPC.
+2. Para se concluir que a decisão do Júri não se mostrou dissociada das provas dos autos, como requer a defesa, seria necessário o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+3. A fixação do regime inicial fechado, apesar da pena inferior a oito anos, é justificada pela presença de circunstância judicial desfavorável, conforme o art. 33, §§ 2º e 3º, do Código Penal.
+4. O recorrente não explicitou de maneira precisa como se deu a suscitada afronta ao art. 59 do Estatuto Repressivo, limitando-se à alegação genérica de que a pena-base foi fixada acima do mínimo legal sem a imprescindível fundamentação, o que atrai a incidência do óbice previsto na Súmula 284/STF.
+5. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Agrava-se de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+APELAÇÃO CRIMINAL. HOMICÍDIO SIMPLES. PEDIDO DE PRESCRIÇÃO DA PRETENSÃO PUNITIVA RETROATIVA EM RELAÇÃO AO RÉU ALISSON LISBOA DA SILVA. EXTINÇÃO DA PUNIBILIDADE RECONHECIDA. APELO DO OUTRO RÉU. PLEITO DE SUPOSTA DECISÃO CONTRÁRIA À PROVAS DOS AUTOS. INSUFICIÊNCIA DE LASTRO PROBATÓRIO NECESSÁRIO À CONDENAÇÃO. NÃO ACOLHIMENTO. EXISTÊNCIA DE PROVAS APTAS A SUSTENTAR O ÉDITO CONDENATÓRIO. PRINCÍPIO DA SOBERANIA DOS VEREDICTOS. PRETENSA USURPAÇÃO DA COMPETÊNCIA CONSTITUCIONAL DO TRIBUNAL DO JÚRI. IMPOSSIBILIDADE. PRECEDENTES DO STJ. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. MODUS OPERANDI. FUNDAMENTAÇÃO CONCRETA. MANUTENÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. RECURSO CONHECIDO, PROVIDO EM RELAÇÃO AO APELANTE ALISSON E IMPROVIDO QUANTO AO OUTRO RÉU. (e-STJ fl. 665)
+A defesa aponta a violação dos arts. 1.022, II; 489, § 1º, IV; 373, I e 1.013 e incisos, todos do CPC e 59 e 33, § 2º, "b" do CP. Sustenta as seguintes teses: i) o acórdão foi omisso ao não se manifestar sobre os argumentos defensivos capazes de conduzir à absolvição do recorrente; ii) a condenação não encontra apoio nas provas produzidas; iii) indevido recrudescimento do regime prisional e; iv) ausência de fundamento para exasperar a pena-base.
+Contrarrazões às e-STJ fls. 769/776.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 831/842.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. JÚRI. OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. PROVAS PARA A CONDENAÇÃO. REEXAME FÁTICO-PROBATÓRIO. NECESSIDADE. SÚMULA N. 7 DO STJ. REGIME PRISIONAL FECHADO CORRETAMENTE FIXADO. ART. 59 DO CP. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Apreciadas as questões suscitadas pela parte, não há falar em ofensa ao art. 489 do CPC.
+2. Para se concluir que a decisão do Júri não se mostrou dissociada das provas dos autos, como requer a defesa, seria necessário o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+3. A fixação do regime inicial fechado, apesar da pena inferior a oito anos, é justificada pela presença de circunstância judicial desfavorável, conforme o art. 33, §§ 2º e 3º, do Código Penal.
+4. O recorrente não explicitou de maneira precisa como se deu a suscitada afronta ao art. 59 do Estatuto Repressivo, limitando-se à alegação genérica de que a pena-base foi fixada acima do mínimo legal sem a imprescindível fundamentação, o que atrai a incidência do óbice previsto na Súmula 284/STF.
+5. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+Os elementos existentes nos autos informam que o recorrente foi condenado à pena de 7 anos e 9 meses de reclusão, em regime fechado, pelo cometimento do crime do art. 121, caput, c/c art. 211, c/c art. 29 e 69, todos do Código Penal.
+A defesa alega que o acórdão foi omisso ao não se manifestar sobre os argumentos defensivos capazes de conduzir à absolvição do recorrente. Sobre o tema, o TJAL assim se pronunciou:
+A princípio, o apelante se insurge contra a decisão de primeiro grau, lastreando-se na tese de que o veredicto proferido pelo Corpo de Jurados seria manifestamente contrário às provas dos autos, uma vez que inexistiriam elementos probatórios suficientes para amparar a condenação.
+ ..
+Adiante, convém tecer algumas considerações acerca do fato criminoso narrado na denúncia, a fim de viabilizar uma melhor compreensão da controvérsia:
+ ..
+No que diz respeito à materialidade delitiva, observa-se que esta se encontra devidamente comprovada por meio do Laudo de Exame Cadavérico (fls. 31/32), de modo que não pairam dúvidas acerca da ocorrência do fato criminoso. Tanto é que tal ponto sequer foi objeto de impugnação por parte do recorrente.
+Por outro lado, no tocante à autoria delitiva, constata-se que razão não assiste ao apelante quanto à alegação de inexistência de provas suficientes para sustentar uma condenação. 18. A testemunha ocular do crime, Flávio Silva dos Santos, quando de sua oitiva perante a autoridade judicial, relatou:
+ ..
+A testemunha Josenildo Rocha da Silva, também ouvida em juízo, afirmou que, no dia dos fatos, ouviu gritos de uma pessoa clamando por socorro, ao tempo em que escutou um barulho de carroça passando nas proximidades de sua residência, local onde o corpo da vítima foi encontrado (fls. 150/151 dos autos). 20. Por outro lado, as testemunhas arroladas pela Defesa, Maíse Santos de Carvalho, José Cícero dos Santos, Adriana de Almeida Felício, Maria Helena dos Santos, José Célio Silva de Oliveira, ouvidas em Juízo às fls. 236/242, limitaram-se a dizer que não presenciaram o delito, não sabendo indicar a sua autoria. 21. O réu Edson Pereira da Silva (vulgo "Poló"), durante a instrução processual, negou a autoria do crime que lhe fora imputado (fls. 59/64). 22. Diante de todo o contexto acima apresentado e analisando conjuntamente os elementos de convicção colhidos ao longo da instrução criminal, não há como concluir que o veredicto proferido pelo Conselho de Sentença foi manifestamente contrário às provas dos autos, uma vez que existe arcabouço probatório apto a amparar a versão sustentada pela acusação.
+ ..
+Com efeito, tendo em vista que o juiz natural da causa acolheu a versão acusatória, com fundamento em provas constantes dos autos e colhidas sob o manto do devido processo legal, do contraditório e da ampla defesa, impõe-se a manutenção do que foi deliberado pelos senhores jurados, não cabendo ao Juízo ad quem desconstituir a referida decisão, sob pena de macular o postulado constitucional da soberania dos veredictos, usurpando a competência atribuída pela Carta Magna ao Tribunal Popular. (e-STJ fls. 669/673)
+Vê-se, a partir do trecho acima transcrito, que não procede a alegação de omissão, isso porque o Tribunal analisou sim a tese defensiva de ausência de provas para a condenação.
+Ademais, este Superior Tribunal possui entendimento consolidado no sentido de que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos que justificaram suas razões de decidir.
+Desse modo, tendo a matéria recebido o devido e suficiente tratamento jurídico, como na espécie, descabe falar em violação do art. 619 do CPP, por ausência de manifestação específica acerca de determinado argumento ventilado pelo recorrente. (AgRg no AREsp n. 2.478.214/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 16/4/2024, DJe de 23/4/2024).
+Ainda nesse ponto, é necessário registrar que para se concluir que a decisão do Júri se mostrou dissociada das provas dos autos, como requer a defesa, seria necessário o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+A fixação do regime inicial fechado, apesar da pena inferior a oito anos, é justificada pela pela presença de circunstância judicial desfavorável, conforme o art. 33, §§ 2º e 3º, do Código Penal.
+Por fim, quanto à violação do art. 59 do CP, observa-se que a defesa sequer indicou qual circunstância judicial teria sido indevidamente valorada, manifestando sua insurgência de forma genérica, o que atrai o óbice da Súmula n. 284 do STF. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 1º, II E V, DA LEI N. 8.137/1990. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL. MERA TRANSCRIÇÃO DE EMENTAS. NÃO CONFIGURAÇÃO. ACÓRDÃO EM HABEAS CORPUS COMO PARADIGMA. IMPOSSIBILIDADE. INÉPCIA DA DENÚNCIA. ALEGAÇÃO APÓS SENTENÇA CONDENATÓRIA. NÃO CABIMENTO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL.
+ ..
+7. Ademais, ao que se dessume das razões do apelo nobre, verifica-se que "o recorrente não explicitou de maneira precisa como se deu a suscitada afronta ao art. 59 do Estatuto Repressivo, limitando-se à alegação genérica de que a pena-base foi fixada acima do mínimo legal sem a imprescindível fundamentação, o que atrai a incidência do óbice previsto na Súmula 284/STF" (AgRg no AREsp n. 237.445/RS, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/11/2017, DJe 29/11/2017).
+8. Agravo regimental a que se nega provimento. (AgRg no AgRg no AREsp n. 497.989/PE, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/8/2021.)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
