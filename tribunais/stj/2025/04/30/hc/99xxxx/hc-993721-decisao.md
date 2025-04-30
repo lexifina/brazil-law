@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DIANA DE ALMEIDA FREITAS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.
+Consta dos autos que a paciente foi pronunciada pela suposta prática da conduta descrita no art. 121, § 2º, I e IV, c/c o art. 14, II (por duas vezes), ambos do Código Penal.
+A impetrante sustenta que, em 14/8/2024, a prisão preventiva foi revogada, com a aplicação de medida cautelar, que teria sido rigorosamente observada, de modo que, na decisão de pronúncia, proferida em 23/1/2025, o juízo manteve a medida cautelar anteriormente fixada por não verificar a presença do periculum libertatis.
+Contra a decisão concessiva de liberdade provisória proferida em 14/8/2024 o Ministério Público interpôs recurso em sentido estrito e, em 28/3/2025, o TJPR restabeleceu a prisão preventiva.
+A defesa alega que a decisão que decretou novamente a prisão preventiva foi proferida com base em fatos anteriores à instrução, uma vez que a decisão de pronúncia, mais recente (23/1/2025), manteve as medidas cautelares e não reconheceu a necessidade de reverter a prisão.
+Afirma que a prisão foi restabelecida após 7 meses da revogação anterior, sem nenhum fato superveniente que demonstrasse o risco cautelar.
+Requer, liminarmente, a revogação da prisão preventiva da paciente ou a sua substituição por prisão domiciliar. No mérito, requer o reconhecimento da nulidade da custódia preventiva decretada no RESE e o restabelecimento da medida cautelar anteriormente imposta.
+Às fls. 67-69, a defesa reitera o pedido de substituição da prisão preventiva por prisão domiciliar.
+É o relatório.
+O Superior Tribunal de Justiça entende ser inviável a utilização do habeas corpus como sucedâneo de recurso próprio, previsto na legislação, impondo-se o não conhecimento da impetração. Nesse sentido: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; e AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Em atenção ao disposto no art. 647-A do CPP, verifico que o julgado impugnado possui ilegalidade flagrante que permita a concessão da ordem de ofício, conforme se depreende da fundamentação a ser exposta a seguir.
+A liberdade da paciente foi assim reafirmada , em 23/1/2025, por ocasião da sentença de pronúncia (fl. 37 - grifo próprio):
+Diante do disposto no artigo 413, § 3º, do Código de Processo Penal considerando que não estão presentes os pressupostos do artigo 312 do Código de Processo Penal, deixo de decretar sua prisão preventiva nesta fase.
+Ademais, conforme o artigo 413, §3º, do Código de Processo Penal, deixo de revogar as medidas cautelares anteriormente impostas, por entender que subsistem os motivos que justificaram a imposição anterior, bem como as mantenho pelo tempo de tramitação da ação de conhecimento e respectivos recursos.
+Por sua vez, o Tribunal de origem restabeleceu a prisão preventiva, na data de 28/3/2025, no julgamento de recurso em sentido estrito interposto pelo MPPR contra decisão proferida em 14/8/2024, tendo assim consignado (fls. 10-16):
+Inicialmente, é imperioso destacar que, até a data da prolação da respeitável decisão de primeira instância que revogou a prisão preventiva, o mandado de prisão expedido em desfavor de DIANA não havia sido cumprido, uma vez que esta se encontrava em situação de foragida.
+ ..
+Dessa forma, permanecem presentes os fundamentos para a manutenção da prisão cautelar da acusada, especialmente para resguardar a ordem pública e garantir a aplicação da lei penal, considerando a gravidade concreta do delito e o fato de que, após os fatos criminosos, a acusada tomou rumo ignorado, reaparecendo apenas após a revogação da prisão, em evidente desrespeito à Justiça.
+ ..
+In casu, as circunstâncias ultrapassam a gravidade abstrata do delito, evidenciando a gravidade concreta da conduta da recorrida. Isso porque, por motivo torpe, a recorrida perseguiu as vítimas em via pública, durante o dia e em horário de grande movimentação, conduzindo o veículo em alta velocidade e, intencionalmente, colidindo contra a motocicleta em que as vítimas se encontravam.
+Na sequência, ao parar o veículo e constatar que não havia alcançado o objetivo desejado, qual seja, ceifar a vida das vítimas, a recorrida passou a agredir fisicamente os ofendidos, em especial Lucas, que ainda estava caído no chão. Além disso, deslocou-se até a vítima Gabriela, que se encontrava deitada sob outro veículo estacionado, proferindo ameaças contra ela.
+Ressalte-se que os depoimentos colhidos em sede policial, ocasião em que as vítimas e testemunhas/informantes foram ouvidos logo após o ocorrido, corroboram o perigo que a manutenção da liberdade da recorrida representa para a ordem pública.
+ ..
+Portanto, presentes elementos a demonstrar a necessidade de se garantir a ordem pública, mostra-se justificada a adoção da providência excepcional, ressaltando-se a inadequação e insuficiência das medidas cautelares diversas.
+III - CONCLUSÃO:
+Em face ao exposto, define-se o voto pelo conhecimento provimento do recurso interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com o intuito de decretar a prisão preventiva da ré DIANA DE ALMEIDA FREITAS, em virtude da necessidade de garantir a ordem pública, modificando a r. decisão do juízo de primeiro grau que substituiu a prisão preventiva por medidas cautelares diversas.
+No caso, há uma questão de ordem cronológica que recai sobre a análise da prisão cautelar.
+Conforme se extrai dos autos, o acórdão do Tribunal de origem que restabeleceu a prisão preventiva da paciente, embora proferido dois meses após a decisão de pronúncia, versou sobre a reforma de decisão de revogação da custódia cautelar proferida em 14/8/2024, a qual está atualmente superada por um novo título judicial expedido pelo Juízo de primeiro grau - a pronúncia.
+Assim, desde a prolação da decisão de pronúncia da paciente, o objeto da pretensão ministerial deduzida no recurso em sentido estrito esvaiu-se, tendo em vista a expedição de um novo título judicial.
+Desse modo, o Juízo de primeiro grau entendeu "que não estão presentes os pressupostos do artigo 312 do Código de Processo Penal", bem como deixou "de revogar as medidas cautelares anteriormente impostas, por entender que subsistem os motivos que justificaram a imposição anterior" (fl. 37).
+Frise-se que, após concluída a primeira fase do procedimento do júri, em 23/1/2025, o Magistrado de primeiro grau, que atua mais próximo dos fatos e das provas, entendeu que não estariam presentes os requisitos do art. 312 do CPP e que a medida cautelar de proibição de aproximação e contato com as vítimas, imposta na decisão proferida em 14/8/2024, vinha mostrando-se suficientemente eficaz para resguardar da ordem pública.
+Assim, também em prestígio ao Juízo de primeiro grau, o qual, após a conclusão do sumário da culpa, reafirmou seu entendimento quanto à efetividade da medida cautelar fixada para o afastamento do periculum libertatis, firmar compreensão em sentido contrário seria pouco razoável e até desproporcional.
+Por fim, prejudicado o pleito subsidiário de substituição da prisão preventiva por prisão domiciliar, considerando-se que as cautelares fixadas são mais benéficas.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus. Contudo, de ofício, concedo ordem de habeas corpus para declarar que as disposições atualmente vigentes em relação ao acautelamento da acusada são aquelas constates da decisão pronúncia, devendo ser mantidas as medidas cautelares lá estabelecidas, sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada.
+Comunique-se, com urgência, às instâncias ordinárias.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
