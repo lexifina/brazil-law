@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Manutenção da decisão. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor do paciente, alegando constrangimento ilegal na ausência de fundamentação idônea para a decretação de sua prisão preventiva.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva do paciente está devidamente fundamentada em elementos concretos que justifiquem a necessidade de sua manutenção para garantia da ordem pública e aplicação da lei penal.
+III. Razões de decidir
+3. A prisão preventiva está fundamentada em dados concretos, como a quantidade significativa de entorpecentes apreendidos, que evidenciam a gravidade da conduta e a necessidade de encarceramento provisório.
+4. A fuga do paciente do distrito da culpa reforça a necessidade da custódia cautelar para garantir a aplicação da lei penal.
+5. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos que recomendam a manutenção da custódia.
+6. Não foram apresentados novos argumentos no agravo regimental que justifiquem a alteração da decisão anterior.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciam a gravidade da conduta e a necessidade de garantir a ordem pública e a aplicação da lei penal. 2. A fuga do distrito da culpa justifica a manutenção da custódia cautelar. 3. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos que recomendam sua manutenção".
+Dispositivos relevantes citados: CPP, art. 312.
+Jurisprudência relevante citada: STF, HC 93.498/MS, Rel. Min. Celso de Mello, Segunda Turma, DJe 18.10.2012; STJ, AgRg no HC 828.927/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 13.09.2023; STJ, AgRg no RHC 164.660/SE, Rel. Min. Jesuíno Rissato, Quinta Turma, DJe 10.02.2023; STJ, AgRg no HC 710.123/MG, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 15.08.2022; STJ, AgRg no HC 751.585/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 30.09.2022.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão, às fls. 1.108-1.110, que denegou o habeas corpus impetrado em favor de DENIUS LISBOA DOS SANTOS.
+Nas razões do presente inconformismo, o Agravante repisa os argumentos deduzidos no writ, alegando a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea para a sua segregação cautelar.
+Requer a reconsideração da decisão hostilizada, ou, em caso de entendimento diverso, a submissão ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+Direito processual penal. Agravo regimental. Prisão preventiva. Manutenção da decisão. Agravo não provido.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que denegou habeas corpus impetrado em favor do paciente, alegando constrangimento ilegal na ausência de fundamentação idônea para a decretação de sua prisão preventiva.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a prisão preventiva do paciente está devidamente fundamentada em elementos concretos que justifiquem a necessidade de sua manutenção para garantia da ordem pública e aplicação da lei penal.
+III. Razões de decidir
+3. A prisão preventiva está fundamentada em dados concretos, como a quantidade significativa de entorpecentes apreendidos, que evidenciam a gravidade da conduta e a necessidade de encarceramento provisório.
+4. A fuga do paciente do distrito da culpa reforça a necessidade da custódia cautelar para garantir a aplicação da lei penal.
+5. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos que recomendam a manutenção da custódia.
+6. Não foram apresentados novos argumentos no agravo regimental que justifiquem a alteração da decisão anterior.
+IV. Dispositivo e tese
+7. Agravo regimental não provido.
+Tese de julgamento: "1. A prisão preventiva pode ser mantida quando fundamentada em elementos concretos que evidenciam a gravidade da conduta e a necessidade de garantir a ordem pública e a aplicação da lei penal. 2. A fuga do distrito da culpa justifica a manutenção da custódia cautelar. 3. Condições pessoais favoráveis não são suficientes para revogar a prisão preventiva quando há elementos que recomendam sua manutenção".
+Dispositivos relevantes citados: CPP, art. 312.
+Jurisprudência relevante citada: STF, HC 93.498/MS, Rel. Min. Celso de Mello, Segunda Turma, DJe 18.10.2012; STJ, AgRg no HC 828.927/SP, Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe 13.09.2023; STJ, AgRg no RHC 164.660/SE, Rel. Min. Jesuíno Rissato, Quinta Turma, DJe 10.02.2023; STJ, AgRg no HC 710.123/MG, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 15.08.2022; STJ, AgRg no HC 751.585/SP, Rel. Min. João Otávio de Noronha, Quinta Turma, DJe 30.09.2022.
+VOTO
+O presente Agravo Regimental não merece provimento.
+Sustenta o Agravante a necessidade de reforma do decisum.
+Pois bem. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos. Nesse compasso, não obstante o teor das razões suscitadas no presente recurso, não vislumbro elementos hábeis a alterar a decisão de fls. 1.108-1.110. Ao contrário, os argumentos ali externados merecem ser ratificados pelo Colegiado.
+A prisão preventiva, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório, seja para a garantia da ordem pública em razão da gravidade concreta da conduta, haja vista a quantidade de entorpecentes apreendidos no contexto da traficância, (17kg de skunk, 06kg de cocaína e 10kg de crack); seja para assegurar a aplicação da Lei penal, diante do risco de fuga.
+No ponto, consta no acórdão hostilizado:
+"No julgamento do HC supracitado, foi reputada como legal a prisão preventiva da paciente, a qual foi fundamentada na gravidade concreta do crime praticado, fundamento esse que permanece com o tempo, pois a conduta praticada não deixa de ser grave.
+Conforme já mencionado no despacho que indeferiu o pleito liminar, o STF possui um entendimento sólido no sentido de que consiste em um contrassenso jurídico permitir que o réu, que respondeu a todo o processo preso, recorra em liberdade em caso de condenação:
+ ..
+Portanto, uma vez que a prisão preventiva do paciente já teve sua legalidade analisada e confirmada por esta C. Câmara e não foi trazido nenhum elemento novo capaz de ensejar sua revogação, não vislumbro qualquer ilegalidade no fato de o juízo de origem manter a medida na prolação da sentença.
+De mais a mais, a custódia cautelar do paciente foi decretada em 16/01/2024 e ele permaneceu foragido até 10/06/2024, quando foi capturado, portanto ainda é possível dizer que a medida é necessária também para a garantia da aplicação da lei penal" (fls. 14-15).
+Sobre o tema:
+"Tendo o recorrente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau" (AgRg no HC n. 828.927/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 13/9/2023).
+"A fuga do distrito da culpa, como constatado pelas instâncias ordinárias, demonstra a indispensabilidade da custódia cautelar para garantir a aplicação da lei penal, não havendo manifesta ilegalidade" (AgRg no RHC n. 164.660/SE, Quinta Turma, Rel. Min. Jesuíno Rissato (Desembargador Convocado do TJDFT), DJe de 10/2/2023).
+"A gravidade concreta da conduta, evidenciada pelo modus operandi, é circunstância apta a indicar a periculosidade do agente e constitui fundamentação idônea para o decreto preventivo" (AgRg no HC n. 710.123/MG, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 15/8/2022, grifei).
+"São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente" (AgRg no HC n. 751.585/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Condições pessoais favoráveis, tais como ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao Agravante a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, o que ocorre na hipótese.
+Destarte, neste agravo regimental, não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, por não vislumbrar a existência de argumentos capazes de alterar o entendimento anteriormente exposto, nego provimento ao agravo regimental.
+É o voto.
