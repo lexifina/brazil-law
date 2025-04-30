@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JADLA RODRIGUES OLIVEIRA contra ato praticado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+O Tribunal de origem, deu parcial provimento ao recurso de apelação da defesa para condenar a paciente à pena de 3 (três) anos e 4 (quatro) meses de reclusão, a ser cumprida em regime inicial aberto e pagamento de 333 (trezentos e trinta e três) dias- multa à razão de 1/30 do valor do salário mínimo, substituída a pena privativa de liberdade aplicada por 02 (duas) penas restritivas de direitos,
+Requer a declaração de nulidade das provas obtidas por ocasião do flagrante realizado, sob alegação de nulidade da busca pessoal e da violação domiciliar pelo acesso indevido dos policiais à residência da ora paciente, com base em denúncia anônima.
+As informações foram prestadas ( fls.149/151, 152/156).
+O Ministério Público Federal ofereceu parecer ( fls.158/169).
+RELATADO. DECIDO.
+Inicialmente cumpre ressaltar que a Terceira Seção do Superior Tribunal de Justiça, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Junior, julgado em 10/6/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/3/2020, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Insurge-se o impetrante contra a busca pessoal e domiciliar realizada na paciente. Segue descrição da dinâmica dos fatos constante nos autos do processo ( fl. 124):
+prepostos da Polícia Militar realizavam ronda de rotina quando avistaram a apelante e outra mulher em atitudes suspeitas. Que ao avistarem a viatura ambas as mulheres adentraram em uma residência, tendo a mulher não identificada pulado o muro do local, momento em que os policias militares adentraram na moradia e encontraram a apelante e também uma sacola com substâncias entorpecentes - 42 (quarenta e duas) pedras de substância conhecida vulgarmente como "crack", 121 (cento e vinte e uma) buchas de substância conhecida vulgarmente como "maconha" e 33 (trinta e três) micro-pinos de substância conhecida vulgarmente como "cocaína" - bem como uma balança de precisão.
+O Tribunal de origem não reconheceu ocorrência de nulidade na busca pessoal nem violação domiciliar, eis trecho do voto do relator : " entendo que não houve nenhuma irregularidade no flagrante efetuado, a ensejar o reconhecimento da nulidade arguida, haja vista ter sido suficientemente configurada a fundada suspeita a justificar o ingresso dos policiais no domicílio da apelante, estando, assim, presente a justa causa para a atuação policial no caso em análise".
+Dessa forma, concluiu o Tribunal pela presença de fundadas razões a amparar a busca domiciliar, que se deu no contexto de flagrante de crime permanente, inexistindo o alegado vício.
+Nesse sentido é o entendimento adotado pelo Supremo Tribunal Federal de que os agentes estatais devem nortear suas ações, em tais casos, motivadamente e com base em elementos probatórios mínimos que indiquem a ocorrência de situação flagrante. A justa causa, portanto, não exige a certeza da ocorrência de delito, mas, sim, fundadas razões a respeito (RE 1447374/MS, Rel. Ministro Alexandre de Moraes).
+Não verifico ilegalidade flagrante que possa justificar a concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
