@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 24/04/2025 a 30/04/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Thereza de Assis Moura, Marco Aurélio Bellizze, Teodoro Silva Santos e Afrânio Vilela votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Afrânio Vilela.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECI DO. CONFORMIDADE COM A JURISPRUDÊNCIA. SÚMULA N. 83/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem pessoa natural ajuizou ação previdenciária de concessão de auxílio-doença contra Instituto Nacional do Seguro Social (INSS). Na sentença o pedido foi julgado procedente. No Tribunal de origem, a sentença foi reformada para julgar improcedente o pedido. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - Aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+III - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem pessoa natural ajuizou ação previdenciária de concessão de auxílio-doença contra In stituto Nacional do Seguro Social (INSS). Na sentença o pedido foi julgado procedente. No Tribunal de origem, a sentença foi reformada para julgar improcedente o pedido.
+No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A questio iuris objeto do apelo nobre toca à interpretação do grau da incapacidade laboral a que alude o artigo 59, caput, da Lei nº 8.213/91, devendo o intérprete verificar se o mal incapacitante compromete o exercício das atividades habitualmente exercidas pelo segurado, conquanto lhe seja dado realizar qualquer outro trabalho.
+E para tanto não exige o caso em testilha o revolvimento do acervo fático-probatório produzido nos autos, sendo possível extrair do próprio julgado recorrido (e-STJ fls. 292/300) juízo a respeito da vulneração legal invocada para interposição do recurso especial.
+ ..
+Importa refutar, outrossim, o fundamento adicional para não conhecer do recurso especial interposto, qual seja, a incidência ao caso da Súmula 83 deste C. STJ, devendo ser realçado, de início, entretanto, que em nenhum momento a negativa de conhecimento do recurso especial menciona precedente no sentido do acórdão recorrido, não sendo possível exigir do recorrente, assim, que apresente julgados recentes em sentido diverso para desconstituir a aplicação da Súmula 83/STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL NÃO CONHECI DO. CONFORMIDADE COM A JURISPRUDÊNCIA. SÚMULA N. 83/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem pessoa natural ajuizou ação previdenciária de concessão de auxílio-doença contra Instituto Nacional do Seguro Social (INSS). Na sentença o pedido foi julgado procedente. No Tribunal de origem, a sentença foi reformada para julgar improcedente o pedido. No Superior Tribunal de Justiça, trata-se de agravo interno interposto contra decisão que conheceu do agravo em recurso especial relativamente à matéria que não se enquadrava em tema repetitivo, e não conheceu do recurso especial.
+II - Aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+III - A Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O Tribunal de origem, analisou as alegações da parte com os seguintes fundamentos:
+Como já narrado, o obreiro alega que esteve total e temporariamente incapacitado para o labor no período de 26.06.2017 a 30.07.2017, por conta de males em coluna lombar e ombros.
+Para comprovação do alegado, juntou relatórios médicos da época. Deles se vê que a queixa central sempre foi relacionada aos males colunares. De fato, a declaração da empregadora de fl. 36 aponta que a principal reclamação do autor era a moléstia lombar, o mesmo valendo para os documentos médicos de fls. 22/27, de maio e junho de 2017. Em julho de 2017, as queixas continuaram em torno da coluna (fl. 29), havendo, apenas, dois relatórios em que se mencionam, também, males em ombros (fls. 28 e 32).
+Da mesma forma, para o perito do INSS, o segurado, quando submetido ao exame físico referente ao auxílio- doença indeferido, relatou somente dores em coluna, tendo sido avaliado em ombros, ao que parece, apenas pela presença do indigitado relatório de fl. 28 (vide fl. 167). E, aqui, durante a avaliação física pericial oficial, aquele relatou que as dores em ombro tiveram início em 2018 (fl. 144).
+Ademais, embora não juntados exames complementares, os documentos médicos de fls. 28 e 32 informam o resultado de ressonâncias magnéticas, onde se vê que, à época, as lesões em ombros eram discretas/leves, sem roturas.
+Por sua vez, o exame físico pericial destes autos apontou, em março de 2020, para a inexistência de limitações objetivas em ombros, que não apresentaram dor à palpação, nem limitação de movimentos (fl. 145). Há, apenas, indicações de queixas álgicas (fls. 146/147), que, todavia, por ostentarem caráter subjetivo, não podem isoladamente indicar limitação funcional especialmente no caso, em que, como visto, não prejudicam a amplitude de movimentos.
+ ..
+Portanto, não caracterizado um dos requisitos que ensejam a reparação pretendida, de rigor o provimento do apelo do INSS, para reformar a sentença e julgar improcedente o pedido.
+Anote-se a isenção do segurado em relação aos encargos da sucumbência, conforme art. 129, parágrafo único, da Lei nº 8.213/91.
+Por fim, deverá ser adotado o comando do Tema nº 1.044, do C. STJ: "Nas ações de acidente do trabalho, os honorários periciais, adiantados pelo INSS, constituirão despesa a cargo do Estado, nos casos em que sucumbente a parte autora, beneficiária da isenção de ônus sucumbenciais, prevista no parágrafo único do art. 129 da Lei 8.213/91", frisando-se que, em seus exatos termos, em qualquer fase do processo, o INSS continua obrigado a adiantar os honorários periciais.
+Restituição a ser postulada em via própria, com direito a ampla defesa e contraditório ao Estado.
+Dessa forma, aplica-se, à espécie, o enunciado da S úmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ademais, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
