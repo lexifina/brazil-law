@@ -1,0 +1,4 @@
+Resolução Nº 5.206 RESOLUÇÃO CMN Nº 5.206, DE 28 DE A​BRIL DE 2025
+Altera a Resolução nº 4.072, de 26 de abril de 2012, que altera e consolida as normas sobre a instalação, no País, de dependências de instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 24 de abril de 2025, com base no disposto no art. 4º, caput, inciso VIII, da referida Lei, no art. 6º do Decreto-Lei nº 759, de 12 de agosto de 1969, nos arts. 7º e 23, caput, alínea “a”, da Lei nº 6.099, de 12 de setembro de 1974, no art. 1º, caput, inciso II, da Lei nº 10.194, de 14 de fevereiro de 2001, e nos arts. 1º, § 1º, e 12 da Lei Complementar nº 130, de 17 de abril de 2009,
+R E S O L V E U :
