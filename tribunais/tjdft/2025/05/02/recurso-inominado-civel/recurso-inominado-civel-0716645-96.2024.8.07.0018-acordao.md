@@ -1,0 +1,34 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0716645-96.2024.8.07.0018EMBARGANTE(S)DANIEL RODRIGUES DA SILVAEMBARGADO(S)DISTRITO FEDERAL e INSTITUTO AOCPRelatorJuiz LUIS EDUARDO YATSUDA ARIMA
+ Acórdão Nº1994078
+
+EMENTA
+
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA. RECURSO INOMINADO. ADMINISTRATIVO. PROCESSUAL CIVIL. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA REJEITADA. CONCURSO PÚBLICO. FASE DE TESTE DE APTIDÃO FÍSICA. ELIMINAÇÃO DO CANDIDATO POR INAPTIDÃO EM TESTE DE NATAÇÃO. ESTRITA OBSERVÂNCIA ÀS REGRAS DO EDITAL. AUSÊNCIA DE ILEGALIDADE OU OFENSA AO PRINCÍPIO DA ISONOMIA. RECURSO CONHECIDO E DESPROVIDO.I. Caso em exame1. Trata-se de recurso inominado interposto pelo autor em face da sentença proferida pelo Juízo do 1º Juizado Especial da Fazenda Pública do DF que, em ação anulatória de ato administrativo c/c obrigação de fazer, julgou improcedente o pedido inicial (ID 69331026).2. Recurso próprio e tempestivo (ID 69331028). Sem preparo, pois o recorrente formulou pedido de gratuidade de justiça.3. Em suas razões recursais, o recorrente suscita preliminarmente a nulidade da sentença por cerceamento de defesa, informando que havia requerido a produção de provas. No mérito, sustenta a legitimidade do Poder Judiciário para controlar a legalidade dos atos administrativos. Defende a ilegalidade cometida pela banca examinadora do concurso ao avaliar a prova de natação do autor. Alega que não houve isonomia na realização da prova de natação. Menciona que alguns candidatos saltaram ao som do apito sonoro, enquanto outros pularam na vertical e se impulsionaram. Aduz que a banca examinadora feriu os princípios da administração pública no certame, em razão da falta de clareza e comunicação dos avaliadores em relação à maneira de iniciar o teste de aptidão física na natação. Faz referência aos princípios do contraditório e da ampla defesa, da eficiência e da razoabilidade e conclui afirmando a necessidade de realização de um novo teste de natação. Pede a concessão do benefício da gratuidade de justiça, bem como o acolhimento da preliminar suscitada, com a cassação da sentença e o retorno dos autos à origem, ou, não sendo o caso, sua reforma, com a anulação do teste de natação realizado pelo autor e a determinação de novo teste.4. Contrarrazões do Instituto AOCP (ID 69331031) e do Distrito Federal (ID 69331032) pelo desprovimento do recurso.5. Pedido de gratuidade de justiça deferido no ID 70495963.II. Questão em discussão6. Saber se houve ilegalidade na realização do teste de natação na fase de teste de aptidão física do concurso público em questão.III. Razões de decidir7. Preliminar de nulidade da sentença por cerceamento de defesa. Como é cediço, o juiz é o destinatário da prova, cabendo a ele avaliar a necessidade de sua produção para formar seu convencimento. No caso, a prova documental trazida aos autos, sobretudo o vídeo do teste de natação, foi suficiente para formar a convicção do magistrado e permitir o julgamento antecipado do mérito, não havendo falar em nulidade da sentença por cerceamento de defesa. Ademais, vale notar que, seja na petição inicial, seja na réplica, não houve um pedido específico sequer de produção de prova, mas tão somente um protesto genérico por produção de provas, sendo que somente agora, na fase recursal, é que o recorrente alega a necessidade de produção de prova testemunhal. Preliminar rejeitada.8. No mérito, sem razão o recorrente.9. O teste de natação questionado pelo recorrente se deu em estrita observância às regras contidas no item 13.8 do Edital nº 04/2023-DGP/PMDF, DE 23 DE JANEIRO DE 2023 (ID 69330849), que dispõe sobre o teste de natação para ambos os sexos, não havendo qualquer ilegalidade praticada pela banca examinadora. A alínea "b" do item 13.8.1 do Edital menciona expressamente que "ao comando da banca examinadora, emitido por sinal sonoro, o candidato poderá saltar na piscina ou sair da borda e nadar 50 m (cinquenta metros) em nado estilo livre", não havendo a alegada ofensa ao princípio da isonomia. Todos os candidatos realizaram o teste na mesma piscina e no mesmo dia, com a verificação dos fiscais de prova na borda da piscina e conforme as instruções do Edital. Ademais, nos termos da alínea "b" do item 13.8.3 do Edital, é proibido ao candidato, quando da realização do teste de natação, "parar de nadar durante o teste, exceto quando houver necessidade de tocar a borda para continuar a nadar". Ora, o vídeo do teste de natação trazido no link informado na contestação do Instituto AOCP (ID 69331014 - Pág. 3) mostra claramente que o autor, no meio da prova, subitamente parou de nadar, sem qualquer razão ou justificativa, o que revela a absoluta legalidade de sua eliminação do concurso em questão por inaptidão no teste de natação, nos termos do item 13.11 do Edital.10. Por fim, vale lembrar que, nos termos da jurisprudência do Supremo Tribunal Federal, fixada em repercussão geral no julgamento do RE 632.853/CE (Tema 485), a intervenção do Poder Judiciário no controle de atos de banca examinadora em concurso público dá-se apenas em casos de flagrante ilegalidade ou inconstitucionalidade, o que não se verifica no caso.11. Assim, a sentença não merece qualquer reparo.IV. Dispositivo e tese12. RECURSO CONHECIDO E DESPROVIDO. Condeno o recorrente ao pagamento das custas processuais e dos honorários advocatícios, estes fixados, por equidade, em R$ 400,00 (quatrocentos reais), observada a gratuidade de justiça deferida ao recorrente.13. A súmula de julgamento servirá de acórdão, conforme regra do art. 46 da Lei n. 9.099/95.Tese de julgamento: "Não há falar em ilegalidade ou ofensa ao princípio da isonomia se a eliminação do candidato, na fase de teste de aptidão física, se deu em estrita observância às regras do edital do concurso".
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, LUIS EDUARDO YATSUDA ARIMA - Relator, ANTONIO FERNANDES DA LUZ - 1º Vogal e FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal, sob a Presidência do Senhor Juiz ANTONIO FERNANDES DA LUZ, em proferir a seguinte decisão: CONHECIDO. NÃO PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Maio de 2025
+
+Juiz LUIS EDUARDO YATSUDA ARIMARelator
+
+RELATÓRIO
+
+Na forma do art. 46 da Lei 9.099/1995, a ementa serve de acórdão. Recurso próprio, regular e tempestivo.
+
+VOTOS
+
+O Senhor Juiz LUIS EDUARDO YATSUDA ARIMA - Relator
+
+Dispensado o voto. A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 1º Vogal Com o relatorO Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NÃO PROVIDO. UNÂNIME.
