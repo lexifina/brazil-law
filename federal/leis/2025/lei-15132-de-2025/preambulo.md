@@ -1,0 +1,3 @@
+LEI Nº 15.132, DE 30 DE ABRIL DE 2025
+Altera a Lei nº 8.685, de 20 de julho de 1993 (Lei do Audiovisual), e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001, para prorrogar benefícios fiscais nelas previstos, a Lei nº 13.594, de 5 de janeiro de 2018, para prorrogar o prazo para utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine), e a Lei nº 14.399, de 8 de julho de 2022 (Lei Aldir Blanc 2); e revoga a Medida Provisória nº 1.280, de 23 de dezembro de 2024.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
