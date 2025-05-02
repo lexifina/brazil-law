@@ -1,0 +1,2 @@
+Prorroga o prazo para a utilização do Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine), instituído pela Lei nº 12.599, de 23 de março de 2012, bem como dos benefícios fiscais previstos nos arts. 1º e 1º-A da Lei nº 8.685, de 20 de julho de 1993, e no art. 44 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001; e altera a Lei nº 8.685, de 20 de julho de 1993, e a Medida Provisória nº 2.228-1, de 6 de setembro de 2001.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
