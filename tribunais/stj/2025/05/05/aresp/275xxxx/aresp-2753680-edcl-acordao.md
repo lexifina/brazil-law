@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. RECONHECIMENTO DE SALDO DEVEDOR. ANÁLISE DO CONTEÚDO DAS PROVAS DOS AUTOS. OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO CONFIGURAÇÃO. POSICIONAMENTO FUNDAMENTADO DO TRIBUNAL ESTADUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. EMBARGOS REJEITADOS.
+1. Não se vê omissão ou negativa de prestação jurisdicional no julgado, quando a lide é decidida clara e fundamentadamente, com o pronunciamento acerca das questões suscitadas pela parte.
+2. Não padecendo o acórdão recorrido dos vícios de prestação jurisdicional, porquanto claro e fundamentado no sentido de não existir omissão ou falta de fundamentação que macule as decisões proferidas pelo TJRO, a rejeição dos embargos declaratórios é medida que se impõe.
+3. Embargos rejeitados.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por CARLOS CESAR AMARAL MARQUES contra acórdão proferido em agravo interno da seguinte forma ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. RECONHECIMENTO DE SALDO DEVEDOR. ANÁLISE DO CONTEÚDO DAS PROVAS DOS AUTOS. OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO CONFIGURAÇÃO. POSICIONAMENTO FUNDAMENTADO DO TRIBUNAL ESTADUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se vê omissão ou negativa de prestação jurisdicional no julgado, quando a lide é decidida clara e fundamentadamente, com o pronunciamento acerca das questões suscitadas pela parte.
+2. A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+3. Conclusão do TJRO, com base nas provas dos autos, documental e testemunhal, pela existência de saldo devedor no valor de R$ 14.973,56 concernente à safra produzida.
+4. Agravo interno não provido.
+Alega que há vício de prestação jurisdicional no julgado ora embargado, sob argumento de que não se reconheceu a apontada omissão do acórdão de origem.
+Aduz que o Tribunal de origem deixou de apreciar pontos extremamente relevantes quanto às alegadas provas documentais e testemunhais que firmariam o convencimento alcançado, mormente no tocante à inexistência de qualquer contrato firmado entre as partes para a Safra 2007/2008.
+Assevera que o Tribunal estadual se negou a reavaliar fundamentadamente o conjunto probatório, mesmo diante da impugnação expressa das provas testemunhal e documental, esta produzida unilateralmente pela parte recorrida e não alicerçada em qualquer espécie de contrato.
+Aviada impugnação a estes embargos pela parte recorrida (e-STJ Fls.1.410/1.413).
+Requer o acolhimento destes embargos declaratórios.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. PRESTAÇÃO DE CONTAS. SEGUNDA FASE. RECONHECIMENTO DE SALDO DEVEDOR. ANÁLISE DO CONTEÚDO DAS PROVAS DOS AUTOS. OMISSÃO NO ACÓRDÃO RECORRIDO. NÃO CONFIGURAÇÃO. POSICIONAMENTO FUNDAMENTADO DO TRIBUNAL ESTADUAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. NÃO VERIFICAÇÃO. EMBARGOS REJEITADOS.
+1. Não se vê omissão ou negativa de prestação jurisdicional no julgado, quando a lide é decidida clara e fundamentadamente, com o pronunciamento acerca das questões suscitadas pela parte.
+2. Não padecendo o acórdão recorrido dos vícios de prestação jurisdicional, porquanto claro e fundamentado no sentido de não existir omissão ou falta de fundamentação que macule as decisões proferidas pelo TJRO, a rejeição dos embargos declaratórios é medida que se impõe.
+3. Embargos rejeitados.
+VOTO
+O recurso não merece prosperar.
+Não há omissão, contradição, obscuridade ou erro material no julgado recorrido.
+Conforme consignado no acórdão ora combatido, a Corte estadual se posicionou pela existência de saldo devedor remanescente, referente à produção das safras de arroz dos anos de 2007 e 2008, ao concluir que:
+A decisão de primeiro grau está devidamente fundamentada e amparada nas provas produzidas nos autos, sob o crivo do contraditório, notadamente pela análise dos documentos e prova testemunhal que levaram à conclusão de que existe saldo devedor remanescente no valor de R$ 14.973,56, referente à produção das safras de arroz dos anos de 2007 e 2008.
+Conforme consignado na sentença recorrida, a parte apelada foi condenada a prestar as contas exigidas pelo apelante na primeira fase do procedimento. E na segunda fase, que segue o rito do art. §6º do art. 550 e arts. 551 a 553, do CPC e possui caráter dúplice, na qual os sujeitos da relação de direito material podem ocupar indistintamente a posição processual ativa ou passiva. E no caso, também é ônus da parte autora liquidar o valor eventualmente apurado como crédito da outra parte.
+As razões da apelação se limitam à afirmações no sentido de que que não estão comprovados os débitos apurados, pois não há débitos relativos à safra de 2007/2008, deixando de impugnar, de forma fundamentada e específica, nos termos do que preceitua o art. 550, § 3º do Código de Processo Civil, as contas prestadas.
+Aqui se observa que, em verdade, no recurso de apelação foram apresentadas todas as motivações já trazidas aos autos pelo apelante, em instrução inicial e devidamente analisadas na sentença e acertadamente decididas na contraposição com as provas apresentadas.
+De modo que, constatado que a decisão recorrida está dentro de uma motivação suficiente, adequada, jurídica, a conclusão deste julgamento é a de que não há o que modificar (e-STJ, fls.1.112/1.113 - sem destaque sno original ).
+A Corte estadual, assim, com base nas provas dos autos, documental e testemunhal, concluiu pela existência de saldo devedor no valor de R$ 14.973,56 (catorze mil, novecentos e setenta e três reais e cinquenta e seis centavos) concernente à safra produzida.
+Não se vê, pois, omissão ou falta de fundamentação que macule as decisões proferidas pelo TJRO, mormente porque a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+A pretensão aqui intentada desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC, de forma que se mantém a decisão embargada por não haver motivos para a sua alteração.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+É o voto.
