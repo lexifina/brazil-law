@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por RENATO FERREIRA DOS SANTOS em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça de Santa Catarina, cuja ementa é a seguinte (e-STJ fls. 213):
+"Lesão ao artigo 621, I e II, do Código de Processo Penal. Revisão Criminal. Tráfico de Drogas. Incidência do Tráfico Privilegiado (art. 33, § 4º, da Lei n. 11.343/06). Ausência de provas de dedicação de atividades criminosas. Aplicabilidade do redutor. Inequívoca modificação do acórdão recorrido."
+Nas razões do recurso especial (e-STJ fls. 211-227), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente violação dos artigos 621, I e III, do Código de Processo Penal, ao argumento de que preenche os requisitos para a incidência da causa de diminuição de pena do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas (e-STJ fl. 217-220).
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo. O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O agravante foi condenado à pena de 2 anos e 6 meses de reclusão, em regime inicial aberto, e 250 dias-multa, substituída por duas restritivas de direitos, como incurso no art. 33 da Lei n. 11.343/2006.
+Transitada em julgado a condenação, foi ajuizada revisão criminal, a qual não foi conhecida, ao fundamento de que, "ao contrário do que aponta o recorrente, é indispensável que se deduza, sim, pontualmente as razões da insatisfação, sem o que não é possível nem medir a viabilidade do pedido" (e-STJ fl. 202).
+Como se viu, a matéria posta em debate, relativamente à incidência da minorante do tráfico privilegiado, não foi objeto de apreciação pelo Tribunal de origem, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento, atraindo a Súmula n. 282 e n. 356 do STF, a obstar o conhecimento do recurso especial, tampouco opostos embargos de declaração.
+Com efeito, " i ncidem, portanto, os óbices das Súmulas n. 211 do STJ e n. 282 do STF, que também é observada por esta Corte, se o mérito das teses veiculadas nas razões do especial não foi analisado pelo Tribunal a quo. Não é cabível a adoção do prequestionamento ficto se a parte não suscitou a violação do art. 619 do Código de Processo Penal e não apontou eventual omissão do Juízo de segunda instância a ser sanada" (AgRg no REsp n. 1.772.993/CE, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 4/6/2020). Nesse sentido: EDcl no REsp n. 2.040.075/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
