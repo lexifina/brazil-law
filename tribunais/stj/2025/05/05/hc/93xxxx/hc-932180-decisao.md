@@ -1,0 +1,34 @@
+DECISÃO
+NEIVA MARCIA PAUKA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 4ª Região no Habeas Corpus n. 5006493-50.2023.4.04.0000/PR.
+C onsta dos autos que a paciente foi condenada à pena de prestação de serviços à comunidade e que postulou a substituição dessa reprimenda por prestação pecuniária, em razão de trabalhar e residir no exterior (Inglaterra), o que foi negado.
+A defesa alega que a ré é pessoa idosa e mora há 20 anos na Inglaterra, local em que tem atividade laborativa consolidada, residência fixa e contraiu matrimônio. Argumenta que a não concessão da substituição acarretará sérios prejuízos ao sustento de sua família.
+Parecer do Subprocurador-Geral da República opina pelo não conhecimento do writ e, no mérito, pela denegação da ordem (fls. 155-160).
+Decido.
+O Tribunal Regional Federal da 4ª Região assim fundamentou o acórdão apontado como ato coator (fls. 13-17, destaquei):
+ ..
+2. Não cabe ao condenado a escolha da modalidade de pena restritiva ser cumprida, pois, tratando-se de sanção penal, que impõe ao apenado um novo status jurídico de sujeição ao título executivo, não está vinculada às conveniências e preferências do executado, sob pena, inclusive, de subversão do ius puniendi.
+ ..
+A condenada, ora agravante, cometeu faltas graves quando (i) descumpriu à intimação para pagamento da pena de prestação pecuniária em 07/05/2020; (ii) não atendeu ao chamamento judicial para realização de cadastro para futuro cumprimento de medida alternativa à pena de prestação de serviços à comunidade, em 02 ocasiões (29/04/2021 e 03/08/2021); (iii) vem retardando injustificadamente o cumprimento da obrigação imposta.
+No caso, a condenada sequer iniciou a cumprir as penas restritivas. Conforme disposto no artigo 66, inciso VI, da Lei nº 7.210/84, "compete ao juiz da execução zelar pelo correto cumprimento da pena e da medida de segurança".
+Ademais, resta claro que a conduta da agravante ao longo da execução se mostrou totalmente desinteressada no cumprimento das penas que lhe foram impostas, sempre ressaltando a impossibilidade de cumprimento e sem apresentar justificativas admissíveis e em tempo hábil.
+Por fim, destaco não ser cabível ao condenado a escolha da modalidade de pena restritiva ser cumprida, pois, tratando-se de sanção penal, que impõe ao apenado um novo status jurídico de sujeição ao título executivo, não está vinculada às conveniências e preferências do executado, sob pena, inclusive, de subversão do ius puniendi. Nesse sentido:TRF4 5045531-21.2023.4.04.7000, SÉTIMA TURMA, Relatora BIANCA GEORGIA CRUZARENHART, juntado aos autos em 17/10/2023.
+A decisão atacada está em consonância com a jurisprudência desta Corte Superior. Nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. APLICAÇÃO DE MEDIDA RESTRITIVA DE DIREITOS (PRESTAÇÃO DE SERVIÇO À COMUNIDADE). PEDIDO DE SUBSTITUIÇÃO POR PRESTAÇÃO PECUNIÁRIA. IMPOSSIBILIDADE. PRECEDENTES. ALTERAÇÃO QUE IMPLICARIA A IMPOSIÇÃO DE DUAS PENAS DE PRESTAÇÃO PECUNIÁRIA. IMPOSSIBILIDADE.
+1. Aplicada a pena restritiva de direitos, consistente na prestação de serviços à comunidade, após o trânsito em julgado da condenação, só é permitido ao Juiz da execução, a teor do disposto no art. 148 da LEP, alterar a forma de cumprimento, ajustando-a às condições pessoais do condenado e às características do estabelecimento, vedada a substituição da pena aplicada. Precedentes.
+2. Esta Corte Superior de Justiça, ao interpretar a parte final do art. 44, § 2º, do Código Penal, firmou a entendimento de que não é possível a substituição da pena privativa de liberdade superior a 1 (um) ano por duas penas de prestação pecuniária.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.469.098/SP, Ministra Laurita Vaz, Sexta Turma, julgado em 6/8/2019, DJe 19/8/2019).
+PENAL E PROCESSO PENAL. AGRAVO DE EXECUÇÃO PENAL. SUBSTITUIÇÃO DA PENA RESTRITIVA DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE POR PRESTAÇÃO PECUNIÁRIA. INVIABILIDADE. SITUAÇÃO EXCEPCIONAL NÃO DEMONSTRADA. 1.
+A substituição da pena privativa de liberdade por penas restritivas de direitos tem por premissa a adequação e suficiência aos objetivos da retribuição ao delito e da prevenção a novos crimes, portanto, integra o conteúdo decisório e consubstancia, na sua essência, a resposta penal no caso concreto.
+2. Operado o trânsito em julgado da sentença condenatória que promoveu a substituição da pena privativa de liberdade por penas restritivas de direitos, não é dado ao Juízo da Execução Penal, via de regra, efetuar modificações quanto à modalidade das medidas alternativas. Jusrisprudência desta Corte e do Superior Tribunal de Justiça.
+3. Ao Juízo das Execuções é permitido ajustar a forma de cumprimento da pena substitutiva definitivamente estabelecida na sentença condenatória transitada em julgado, adaptando-a às peculiaridades do caso concreto, a fim de possibilitar o regular cumprimento da medida pelo condenado.
+4. A substituição de uma modalidade de pena restritiva de direitos por outra somente é permitida quando configurada situação excepcional que impeça o cumprimento da sanção fixada, o que autoriza ao Juízo da execução penal promover a alteração das penas substitutivas diante da impossibilidade intransponível do cumprimento da reprimenda nos termos inicialmente fixados pela sentença condenatória. Precedentes desta Corte.
+6. Não cabe ao condenado a escolha da modalidade de pena restritiva ser cumprida, pois, tratando-se de sanção penal, que impõe ao apenado um novo status jurídico de sujeição ao título executivo, não está vinculada às conveniências e preferências do executado, sob pena, inclusive, de subversão do ius puniendi.
+7. Não é a condenação ou o juízo que devem se adequar aos interesses e conveniências do executado, mas ele é quem deve pautar sua vida à nova realidade, priorizando o cumprimento da sanção penal e empenhando-se para bem e fielmente cumpri-la.
+8. A pena de prestação de serviços à comunidade pode ser cumprida durante finais de semana, feriados e no período noturno, cabendo ao apenado adequar o cumprimento à sua jornada de trabalho.
+9. A despeito das alterações e adaptações que se fizeram necessárias durante a pandemia de Coronavírus-19, não se pode olvidar que a decisão recorrida foi proferida recentemente, quando já não mais vigoravam as restrições sofridas à época.  ..
+(REsp n. 2.124.827, Ministra Daniela Teixeira, DJe de 26/06/2024.)
+Assim, não obstante os argumentos da defesa, percebe-se que todas as questões trazidas pela defesa foram suficientemente equacionadas na decisão atacada e a instância ordinária entendeu pela inviabilidade da substituição da pena, em consonância com o entendimento deste Superior Tribunal.
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
