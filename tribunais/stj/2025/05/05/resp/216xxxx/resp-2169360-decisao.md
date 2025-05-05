@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado (fls. 669):
+PROCESSUAL CIVIL E ADMINISTRATIVO - RECURSO DE APELAÇÃO CÍVEL COM REMESSA NECESSÁRIA - AÇÃO CIVIL PÚBLICA DE OBRIGAÇÃO DE FAZER - IMPLEMENTAÇÃO DO SERVIÇO DE ATENDIMENTO DIFERENCIADO ÀS PESSOAS VÍTIMAS DE VIOLÊNCIA SEXUAL NOS HOSPITAIS VINCULADOS AO SUS - LEI FEDERAL N. 12.845/2016 E LEI ESTADUAL N. 10.506/2017 - REALIZAÇÃO EM ALGUNS MUNICÍPIOS - OMISSÃO ESTATAL NÃO EVIDENCIADA - EXECUÇÃO DE POLÍTICA PÚBLICA - ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO PÚBLICA - VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA SEPARAÇÃO DOS PODERES E DA RESERVA DO POSSÍVEL - SENTENÇA REFORMADA - PROVIMENTO.
+Configura violação ao primado da Separação e Independência entre os Poderes, se o Judiciário determinar ao Estado que proceda à implementação de serviço público de saúde, voltado ao atendimento de pessoas vítimas de violência sexual, quando não ficar demonstrada a omissão estatal, bem assim a situação excepcional que justifique a sua intervenção.
+O Magistrado não deve substituir o gestor público, definindo os rumos das políticas públicas, sem ter conhecimento do orçamento disponível.
+Embargos de declaração rejeitados (fls. 713).
+A parte recorrente alega violação dos artigos abaixo relacionados, sob os seguintes argumentos:
+(a) arts. 489 e 1.022, II, do CPC, em razão do Tribunal de origem não ter sanado a contradição apontada no julgamento da causa, relacionada ao artigo 1º da Lei 12.845/13.
+(b) art. 1º da Lei n. 12.845/2013, "que obriga os hospitais a "oferecer às vítimas de violência sexual atendimento emergencial, integral e multidisciplinar, visando ao controle e ao tratamento dos agravos físicos e psíquicos decorrentes de violência sexual, e encaminhamento, se for o caso, aos serviços de assistência social" (fl. 728). Defende, em suma, a ocorrência de omissão estatal e a necessidade de se promover a efetiva implementação de políticas públicas de forma adequada e eficiente.
+Com contrarrazões (fls. 743/754).
+O Ministério Público opinou pelo provimento do recurso (fls. 772-777).
+Juízo positivo de admissibilidade (fls. 758-759).
+É o relatório. Passo a decidir.
+Não se conhece da suposta afronta ao artigo 489 e 1.022 do CPC, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos, que seria oriunda de contradição, sem, contudo, demonstrar e, tampouco, explicar no que ela consistiria. Incide à hipótese a Súmula 284/STF.
+Ainda que assim não fosse, o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que se refere as argumentações relacionadas ao artigo 1º da Lei n. 12.845/2013, este STJ, na linha do STF, possui entendimento de que, apenas em situações excepcionais, de patente omissão da Administração, pode o Poder Judiciário determinar a implementação de políticas públicas para o cumprimento de deveres previstos no ordenamento constitucional, sob pena de violação do princípio da separação de poderes e da reserva do possível.
+Todavia, na hipótese dos autos, a Corte de origem afastou a condenação Estatal, ao fundamento de que não restou evidenciada a omissão do Estado no caso dos autos, na medida em que o serviço de atendimento às pessoas em situação de violência sexual, embora apresente problemas, está sendo prestado.
+É o que se extrai dos seguintes excertos do voto (fls. 678/682):
+Vê-se, portanto, que a interferência do Judiciário é legítima e justificável, quando a Administração Pública, de maneira clara e indubitável, incorre em omissão no seu dever legal e constitucional de adoção e realização de determinadas políticas públicas, trazendo, com isso, séria insegurança e desamparo à população.
+No caso vertente, o conjunto probatório demonstra que, de fato, o serviço de atendimento às vítimas de violência sexual, nos hospitais do SUS, no âmbito do Estado de Mato Grosso, não está devidamente estruturado e organizado. Com efeito, as provas documentais que acompanharam a inicial não deixam dúvidas de que, no Hospital Júlio Müller, apontado como referência para atendimento às vítimas de violência sexual, no Município de Cuiabá, o serviço é prestado de forma precária.
+(..)
+Não há desconsiderar, ainda, que não ficou demonstrada a total omissão estatal, visto que o ente público estadual informou que havia 34 (trinta e quatro) Unidades de Saúde cadastradas no CNE para atendimento às pessoas vítimas de violência sexual, nos principais municípios mato-grossense. Veja-se:
+(..)
+A tabela a seguir transcrita demonstra que o serviço, objeto da ACP, embora não devidamente estruturado, está sendo ofertado pelo Recorrente. Veja-se:
+(..)
+Nessa esteira, entendo que a pretensão esposada na inicial configura violação ao Princípio da Separação dos Poderes, pois, como visto, inexiste demonstração da situação excepcional a exigir do Judiciário a intervenção pretendida.
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido são os seguintes precedentes deste STJ:
+DIREITO AMBIENTAL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. INTERVENÇÃO DO PODER JUDICIÁRIO. ATUAÇÃO EXCEPCIONAL. AUSÊNCIA DE OMISSÃO PELA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE DE REVER AÇÕES ADMINITRATIVAS DE POLÍTICAS PÚBLICAS. INCIDÊNCIA DA SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. Cuida-se na origem de ação civil pública na qual o Ministério Público Federal objetiva a condenação da autarquia agravada para que realize providências administrativas concernentes à Área de Proteção Ambiental (APA) Ibirapuitã.
+2. Embora esta Corte entenda que cabe ao Poder Judiciário determinar à administração pública a adoção de medidas que viabilizem políticas públicas, sua atuação será excepcional em razão de omissão da administração.
+3. O Tribunal de origem entendeu que não tinha havido omissão da autarquia agravada no que concerne à gestão das políticas públicas na APA Ibirapuitã. Sendo assim, incide no presente caso a Súmula 7 do Superior Tribunal de Justiça, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo interno a que se nega provimento .
+(AgInt no AREsp n. 1.653.704/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+DIREITO AMBIENTAL. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. INTERVENÇÃO DO PODER JUDICIÁRIO. ATUAÇÃO EXCEPCIONAL. AUSÊNCIA DE OMISSÃO PELA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE DE REVER AÇÕES ADMINISTRATIVAS DE POLÍTICAS PÚBLICAS. INCIDÊNCIA DA SÚMULA 7/STJ. NÃO IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. PROVIMENTO NEGADO.
+1. Cuida-se, na origem, de ação civil pública proposta pelo Ministério Público Federal visando à anulação de licença de operação de usina hidrelétrica em razão de suposto dano ambiental causado à comunidade.
+2. A o contrário do alegado pelo agravante, o Tribunal de origem entendeu não haver omissão do IBAMA, que, inclusive, adotou medidas de fiscalização, além de haver imposto condicionantes à empresa agravada para mitigar o impacto ambiental.
+3. Embora esta Corte entenda que cabe ao Poder Judiciário determinar à administração pública a adoção de medidas que viabilizem políticas públicas, sua atuação será excepcional em razão de omissão da administração.
+4. Entendimento diverso sobre a omissão ou não da autarquia agravada, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca de fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto, por incidência da Súmula 7 /STJ.
+5. O Tribunal a quo concluiu que não há garantias de que as medidas tomadas pelos agravados ou as medidas requeridas pelo agravante irão evitar a geração de maiores danos. Essa conclusão não foi impugnada especificamente, incidindo na espécie a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+6. É pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.787.622/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 12/6/2023, DJe de 22/6/2023.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. AÇÃO CIVIL PÚBLICA. SISTEMA DE ESGOTO. IMPLANTAÇÃO POR ORDEM JUDICIAL. OMISSÃO DO EXECUTIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+(..)
+2. O STJ entende que o controle jurisdicional de políticas públicas se legitima sempre que a "inescusável omissão estatal" na sua efetivação atinja direitos essenciais inclusos no conceito de mínimo existencial (AgInt no REsp 1.304.269/MG, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017).
+3. Em ação civil pública visando à implantação de rede de esgoto sanitário, o Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, atestou que não houve omissão do ente público municipal a justificar a excepcional intervenção do Judiciário, conclusão cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.732.618/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 1/3/2021, DJe de 11/3/2021.)
+Ante o exposto, não conheço do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10% (dez por cento), observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual gratuidade da j ustiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC. NÃO OCORRÊNCIA. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. OMISSÃO NÃO EVIDENCIADA. INTERVENÇÃO DO PODER JUDICIÁRIO. DESCABIMENTO. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
