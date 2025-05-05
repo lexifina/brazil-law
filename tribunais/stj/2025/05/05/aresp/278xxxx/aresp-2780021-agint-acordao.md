@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO.  NÃO  CONHECIMENTO.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ARTIGO  932,  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.
+1.  Não  pode  ser  conhecido  o  agravo  em  recurso  especial  que  não  infirma  especificamente  os  fundamentos  da  decisão  atacada,  atraindo  o  disposto  no  artigo  932,  III,  do  CPC.
+2.  Agravo  interno  não  provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  BONASA  ALIMENTOS  S.A.  contra  a  decisão  proferida  pela  Presidência  do  Superior  Tribunal  de  Justiça  (e-STJ  fls.  1.103/1.104)  que  não  conheceu  do  agravo  em  recurso  especial  em  virtude  da  falta  de  impugnação  do  fundamento  da  decisão  agravada,  qual  seja,  deficiência  de  cotejo  analítico.
+Em  suas  razões  ,  a  recorrente  alega  que  "(..)  todos  os  precedentes  citados  ao  REsp  foram  devidamente  reprisados  ao  agravo,  em  parágrafos  específicos"  (e-STJ  fl.  1113)  e  defende  que  não  há  falar  em  ausência  de  impugnação.
+A  parte  contrária  não  apresentou  contrarrazões  (e-STJ  fl.  1.120)
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO.  NÃO  CONHECIMENTO.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ARTIGO  932,  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL.
+1.  Não  pode  ser  conhecido  o  agravo  em  recurso  especial  que  não  infirma  especificamente  os  fundamentos  da  decisão  atacada,  atraindo  o  disposto  no  artigo  932,  III,  do  CPC.
+2.  Agravo  interno  não  provido.
+VOTO
+A  irresignação  não  merece  prosperar.
+Na  decisão  que  inadmitiu  o  recurso  especial  (e-STJ  fls.  1.044/1.048),  o  tribunal  de  origem  entendeu  que  são  aplicáveis  as  Súmulas  nºs  5,  7  e  211/STJ  e  que  está  deficiente  o  cotejo  analítico.
+Nas  razões  do  agravo  em  recurso  especial  (e-STJ  fls.  1.058/1.068),  a  recorrente  se  limitou  a  defender  a  inaplicabilidade  das  Súmulas  nºs  5  ,  7  e  211/STJ.  Todavia,  não  impugnou  especificamente  a  deficiência  do  cotejo  analítico.
+Ressalta-se  que  a  impugnação  ao  referido  óbice  exige  da  parte  "(..)  a  comprovação  de  que  realizou  oportunamente  o  espelhamento  entre  os  julgados  supostamente  divergentes,  apontando  as  semelhanças  entre  as  situações  de  fato  e  a  existência  de  diferentes  interpretações  jurídicas  acerca  do  mesmo  dispositivo  legal"  (AgRg  no  AREsp  2.779.409/SP,  Relator  Ministro  Otávio  de  Almeida  Toledo  (Desembargador  Convocado  do  TJSP),  Sexta  Turma,  julgado  em  4/2/2025,  DJEN  de  10/2/2025),  o  que  não  foi  realizado  nos  presentes  autos.
+Dessa  forma,  c  onstata-se  que  a  agravante,  de  fato,  não  refutou  um  dos  fundamentos  da  decisão  de  admissibilidade  proferida  pelo  tribunal  local.
+Com  efeito,  cabe  à  parte  recorrente,  nas  razões  do  seu  agravo  em  recurso  especial,  impugnar  objetivament  e  todos  os  fundamentos  da  decisão  agravada,  sob  pena  de  não  conhecimento,  na  forma  dos  artigos  253,  parágrafo  único,  I,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  e  932,  III,  do  Código  de  Processo  Civil.
+Registra-se  que ,  por  oportuno,  não  basta  a  simples  transcrição  de  ementas  e  de  parte  dos  votos  sem  que  seja  realizado  o  necessário  cotejo  analítico  a  evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ENDOSSO-MANDATO.  AÇÃO  DECLARATÓRIA  E  INDENIZATÓRIA.  PROTESTO  INDEVIDO  DE  DUPLICATA.  CONCLUSÃO  DO  ACÓRDÃO  NO  SENTIDO  DE  QUE  A  ENDOSSATÁRIA  EXTRAPOLOU  PODERES  DE  MERA  MANDATÁRIA.  INEXIGIBILIDADE  DO  TÍTULO.  RESPONSABILIDADE.  DANOS  MORAIS.  QUANTUM  RAZOÁVEL.  REVISÃO  DO  JULGADO.  IMPOSSIBILIDADE.  MATÉRIA  QUE  DEMANDA  O  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  NÃO  DEMONSTRADO.  AUSÊNCIA  DE  COTEJO  ANALÍTICO.  AGRAVO  INTERNO  IMPROVIDO.
+1.  A  revisão  da  conclusão  adotada  pelo  Tribunal  de  origem  -  no  sentido  da  inexigibilidade  da  duplicata  por  ter  sido  sacada  de  forma  fraudulenta  e  da  responsabilização  da  endossatária  pelos  danos  morais  causados  à  agravada  por  não  ter-se  certificado  quanto  à  higidez  da  cártula  -  decorreu  da  análise  de  premissas  fáticas,  de  modo  que  a  revisão  das  convicções  alcançadas,  demandaria  verdadeiro  revolvimento  do  conjunto  fático-probatório  acostado  aos  autos,  o  que  encontra  óbice  na  Súmula  n.  7/STJ.
+2.  A  jurisprudência  desta  Corte  propugna  que  a  revisão  do  quantum  arbitrado  para  a  indenização  por  danos  morais  encontra  óbice  na  Súmula  n.  7/STJ,  somente  sendo  possível  superar  tal  impedimento  nos  casos  de  valor  irrisório  ou  exorbitante.  No  presente  caso,  em  que  a  indenização  pelos  danos  morais  foi  arbitrada  em  R$  20.000,00  (vinte  mil  reais),  não  se  verifica  a  exorbitância  que  justificaria  a  sua  revisão,  devendo  ser  aplicada  a  Súmula  n.  7/STJ  a  obstaculizar  o  conhecimento  do  recurso.
+3.  Não  se  revela  cognoscível  a  irresignação  deduzida  por  meio  da  alínea  c  do  permissivo  constitucional,  quando  a  parte  agravante  não  demonstra  a  divergência  nos  moldes  exigidos  pelos  arts.  1.029,  §  1º,  do  CPC/2015  e  255,  §§  1º  e  2º,  do  RISTJ.  É  assente  nesta  Corte  Superior  que  a  mera  transcrição  de  ementas  e  excertos,  desprovida  da  realização  do  necessário  cotejo  analítico  entre  os  arestos  confrontados,  mostra-se  insuficiente  para  comprovar  a  divergência  jurisprudencial  ensejadora  da  abertura  da  via  especial  com  esteio  na  alínea  c  do  permissivo  constitucional.
+4.  O  mero  não  conhecimento  ou  a  improcedência  de  recurso  interno  não  enseja  a  automática  condenação  à  multa  do  art.  1.021,  §  4º,  do  CPC/2015,  devendo  ser  analisado  caso  a  caso.
+5.  Agravo  interno  improvido"  (AgInt  no  AREsp  2.333.134/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  21/8/2023,  DJe  de  23/8/2023).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
