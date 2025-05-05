@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado pelo MUNICÍPIO DE NATAL/RN contra decisão, que inadmitiu apelo nobre interposto com fundamento no permissivo constitucional, o qual desafia acórdão assim ementado (e-STJ fl. 326):
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. EMENTA AÇÃO CIVIL PÚBLICA. CONDENAÇÃO DO MUNICÍPIO DE NATAL À OBRIGAÇÃO DE REFORMAR A UNIDADE BÁSICA DE SAÚDE, ADEQUANDO O PRÉDIO ÀS NORMAS DE ACESSIBILIDADE. PREJUDICIAL DE NULIDADE DA SENTENÇA ARGUIDA NAS RAZÕES DO RECURSO. ALEGAÇÃO DE VÍCIO PROCESSUAL PELA AUSÊNCIA DE CITAÇÃO DO ENTE PÚBLICO PARA OFERECER CONTESTAÇÃO. REJEIÇÃO. COMPARECIMENTO DO PROCURADOR DO MUNICÍPIO EM AUDIÊNCIA DE CONCILIAÇÃO. PLENA CIÊNCIA DO CONTEÚDO DO LITÍGIO. AUSÊNCIA DE PREJUÍZO. DECURSO DO PRAZO PARA MANIFESTAÇÃO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. MÉRITO. DIREITO À ACESSIBILIDADE DE PORTADORES DE DEFICIÊNCIA OU COM MOBILIDADE REDUZIDA. OBRIGAÇÃO DE ADAPTAR PRÉDIOS PÚBLICOS ÀS NORMAS TÉCNICAS DE ACESSIBILIDADE. NECESSIDADE DE GARANTIR O ACESSO DIANTE DA OMISSÃO ESTATAL. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA SEPARAÇÃO DOS PODERES, DA LEGALIDADE ORÇAMENTÁRIA E DA RESERVA DO POSSÍVEL. PRECEDENTES. CONFIRMAÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO APELO E DA REMESSA NECESSÁRIA.
+O recorrente aponta como dispositivos legais violados os arts. 9º, 10 e 334, do CPC/2015. Sustenta, em síntese, a nulidade da sentença, em face de suposto cerceamento ao direito de defesa, em face da inexistência de citação válida.
+Contrarrazões.
+Manifestação ministerial pelo desprovimento do recurso (e-STJ fls. 456/461).
+Passo a decidir.
+Compulsando os autos, verifico que não assiste razão à pretensão recursal.
+Cumpre ressaltar, inicialmente, que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recurso se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha o agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento à vista da necessidade do exame das provas que repousam nos autos.
+É que, ao examinar a nulidade apontada, o Tribunal de origem assentou o que segue:
+(..) apelante sustenta que a sentença deve ser anulada em virtude da ausência de sua citação para oferecer contestação nesta demanda. Isso porque não há que se falar em cerceamento de defesa quando se verifica que o Procurador do Município compareceu presencialmente a duas audiências de conciliação, oportunidades em que pôde tomar pleno conhecimento do conteúdo do litígio. Ademais, é possível constatar que tanto o Município de Natal quanto o Secretário Municipal de Saúde foram intimados para se pronunciar nos autos após a realização da segunda audiência, porém, deixaram transcorrer in albis o prazo estipulado para tanto, conforme atesta a certidão de pág. 173. Nesse contexto, inexiste nulidade processual pela ausência da expedição formal do mandado de citação, pois não houve prejuízo à defesa do ente público, que teve oportunidades para apresentar resposta à pretensão ministerial, o que torna incabível o reconhecimento do vício alegado.
+Vê-se que o vício apontado foi refutado com arrimo no arcabouço probatório dos autos, de modo que a reforma desse julgado afigura-se inviável em sede de recurso especial, diante do que dispõe a Súmula 7 do STJ.
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. QUESTÕES DE FATO.
+Se a reforma do julgado depende do reexame da prova, o recurso especial não pode prosperar (STJ - Súmula nº 7). Agravo regimental desprovido.
+(AgRg no AREsp 95.063/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 03/12/2013, DJe 18/12/2013).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
