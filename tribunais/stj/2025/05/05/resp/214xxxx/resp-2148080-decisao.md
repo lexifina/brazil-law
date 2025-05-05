@@ -1,0 +1,69 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL com respaldo na alínea "a" do permissivo constitucional contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJ fl. 469):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. REAFIRMAÇÃO DA DER. EXCLUSÃO DO FATOR PREVIDENCIÁRIO. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. Tendo o Superior Tribunal de Justiça decidido, no julgamento do Tema 995, ser possível requerer a reafirmação da DER até segunda instância, mostra-se possível a utilização das contribuições vertidas após a DER a fim de conceder benefício de aposentadoria por tempo de contribuição mais vantajoso com a exclusão do fator previdenciário.
+2. Diante do reconhecimento da inconstitucionalidade do uso da TR como índice de correção monetária (Tema 810 do STF), aplica-se, nas condenações previdenciárias, o INPC a partir de 04/2006. Os juros de mora incidem a contar da citação, no percentual de 1% ao mês até 29/06/2009 e, a partir de então, segundo a remuneração oficial da caderneta de poupança, calculados sem capitalização. A partir de 09/12/2021, incidirá a SELIC para fins de atualização monetária, remuneração do capital e juros de mora, de acordo com a variação do índice, acumulada mensalmente, uma única vez, até o efetivo pagamento (art. 3º da EC 113/2021).
+Embargos de declaração das partes rejeitados (e-STJ fls. 496/500).
+Em suas razões, a autarquia alega afronta ao art. 1.022, II, do CPC/2015, suscitando a nulidade do acórdão que rejeitou os embargos de declaração por falta de fundamentação e negativa de prestação jurisdicional acerca dos seguintes temas: "inexigibilidade de juros de mora sobre as parcelas vencidas, os quais somente poderão ser aplicados após 45 dias caso o INSS não efetive a implantação do benefício, e sobre a impossibilidade de condenação em honorários advocatícios sobre o valor da condenação, em razão da ausência de sucumbência" (e-STJ fl. 507).
+No mérito, afirma que o Tribunal de origem, ao determinar a reafirmação da DER, deixando de observar o entendimento firmado no Tema 995 do STJ, teria violado os arts. 389, 394, 395 e 396 do Código Civil, pois os juros de mora só incidirão caso o INSS não implemente o benefício no prazo de 45 dias.
+Por fim, alega contrariedade ao art. 85, caput, do CPC, pois haverá condenação à verba honorária se o INSS se opuser ao pedido de reafirmação da DER, resistindo à pretensão, dando causa a demanda.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às e-STJ fls. 587/589.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Não merece acolhimento a alegação de nulidade do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal de origem se manifestou de maneira clara acerca dos temas apontados pela autarquia (e-STJ fl. 498):
+No que tange aos juros moratórios em razão da reafirmação da DER, assim constou na decisão embargada (evento 36, RELVOTO1):
+Da Reafirmação da DER
+O Superior Tribunal de Justiça proferiu decisão, em 23/10/2019, no julgamento do Tema 995, entendendo ser possível requerer a reafirmação da DER até segunda instância, com a consideração das contribuições vertidas após o início da ação judicial até o momento em que o segurado houver implementado os requisitos para o benefício postulado.
+Além disso, fixou que somente são devidos juros " se  o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias  ..
+Nessa hipótese deve haver a fixação dos juros, a serem embutidos no requisitório". Nesse sentido: TRF4, EI 5018054-77.2010.4.04.7000, Terceira Seção, Relatora Des. Fed. Taís Schilling Ferraz, juntado aos autos em 26/11/2020.
+Em síntese:
+a) reafirmação da DER durante o processo administrativo: efeitos financeiros a partir da implementação dos requisitos e os juros de mora a partir da citação;
+b) implementação dos requisitos entre o final do processo administrativo e o ajuizamento da ação: efeitos financeiros a partir da propositura da demanda e juros de mora a partir da citação;
+c) implementados os requisitos após o ajuizamento da ação: efeitos financeiros a partir da implementação dos requisitos; juros de mora apenas se o INSS não implantar o benefício no prazo de 45 dias da intimação da respectiva decisão, contados a partir desse termo final.
+No presente caso, o INSS apurou, na DER, 32 anos e 24 dias de tempo de contribuição.
+Na sentença recorrida, foram reconhecidos 36 anos, 1 mês e 6 dias, garantindo o direito ao benefício de aposentadoria por tempo de contribuição integral, porém com a incidência do fator previdenciário, vez que atingidos 93 pontos.
+Com o cômputo do vínculo iniciado em 11/03/2017, tem-se que o autor implementa a pontuação necessária à exclusão do fator previdenciário em 09/02/2018, como postulado.
+Portanto, inexiste omissão a ser sanada.
+Quanto aos honorários advocatícios, assim constou na decisão embargada (evento 36, RELVOTO1):
+Honorários Advocatícios
+Diante do fato de que o benefício foi concedido mediante reafirmação da DER, entendo se tratar da hipótese de sucumbência recíproca entre as partes.
+Desse modo, mantenho a condenação do INSS ao pagamento dos honorários advocatícios, fixados em 10% sobre o valor das parcelas vencidas até a data da sentença, a teor das Súmulas 111 do STJ e 76 desta Corte, conforme tese firmada pelo STJ no julgamento do Tema 1.105, majorados em 20% em razão do integral desprovimento do recurso da autarquia. (grifei)
+Condeno também a parte autora ao pagamento dos honorários advocatícios, fixados em 10% sobre o valor atualizado da causa, suspensa a exigibilidade em razão do benefício da gratuidade de justiça.
+Assinalo ainda que, sendo caso de sentença prolatada na vigência do Código de Processo Civil de 2015, é vedada a compensação, a teor do disposto no art. 85, §14.
+Sem razão o INSS, no ponto, devendo ser mantida a sucumbência recíproca, já que houve insurgência da Autarquia no tocante à contagem especial do tempo de serviço.
+Da mesma forma, descabe o acolhimento dos embargos interpostos pela parte autora, pois o julgamento do recurso nada acresceu ao que já fora decidido pela sentença. (Grifos acrescidos)
+Em relação aos juros moratórios, o Tribunal de origem está em consonância com a orientação da Primeira Seção, que, no julgamento dos embargos de declaração no Recurso Especial repetitivo n. 1.727.063/SP (Tema 995), definiu que os juros moratórios serão devidos somente se a autarquia previdenciária deixar de implantar o benefício reconhecido judicialmente, sobre o qual houve reafirmação da DER, no prazo razoável de até quarenta e cinco dias, cuja cobrança deverá ser incluída no cálculo do requisitório de pequeno valor ou do precatório.
+A propósito, leia-se a ementa do aludido julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 19/05/2020, DJe 21/05/2020) (Grifos acrescidos).
+Por fim, no tocante à verba de sucumbência, melhor sorte não tem o recorrente. Isso porque a Primeira Seção, também no julgamento do Tema 995, assentou a compreensão de que descabe sua fixação quando o INSS reconhecer a procedência do pedido à luz do fato novo:
+No caso, haverá sucumbência se o INSS opuser-se ao pedido de reconhecimento de fat o novo, hipótese em que os honorários de advogado terão como base de cálculo o valor da condenação, a ser apurada na fase de liquidação, computando-se o benefício previdenciário a partir da data fixada na decisão que entregou a prestação jurisdicional.
+O referido julgado foi ementado nos seguintes termos:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. O comando do artigo 493 do CPC/2015 autoriza a compreensão de que a autoridade judicial deve resolver a lide conforme o estado em que ela se encontra. Consiste em um dever do julgador considerar o fato superveniente que interfira na relação jurídica e que contenha um liame com a causa de pedir.
+2. O fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e pedido constantes na petição inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da relação jurídico-processual.
+3. A reafirmação da DER (data de entrada do requerimento administrativo), objeto do presente recurso, é um fenômeno típico do direito previdenciário e também do direito processual civil previdenciário. Ocorre quando se reconhece o benefício por fato superveniente ao requerimento, fixando-se a data de início do benefício para o momento do adimplemento dos requisitos legais do benefício previdenciário.
+4. Tese representativa da controvérsia fixada nos seguintes termos: É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+5. No tocante aos honorários de advogado sucumbenciais, descabe sua fixação, quando o INSS reconhecer a procedência do pedido à luz do fato novo.
+6. Recurso especial conhecido e provido, para anular o acórdão proferido em embargos de declaração, determinando ao Tribunal a quo um novo julgamento do recurso, admitindo-se a reafirmação da DER. Julgamento submetido ao rito dos recursos especiais repetitivos.
+REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 23/10/2019, DJe de 02/12/2019)  Grifos acrescidos .
+Contudo, no caso dos autos, não há como aplicar o aludido entendimento, porquanto a verba honorária é devida diante da pretensão resistida do INSS.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
