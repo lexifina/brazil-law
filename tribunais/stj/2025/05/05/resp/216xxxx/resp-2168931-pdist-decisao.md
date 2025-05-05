@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno interposto por EDSON GONCALVES DA SILVA contra decisão por mim, proferida às e-STJ fls. 612/613, em que determinei a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que se aplique as medidas cabíveis previstas no art. 1.040 do CPC/2015, em razão da questão, objeto do apelo extremo, ter sido afetada pela Primeira Seção dessa Corte Superior (Tema n. 1.124).
+A agravante sustenta que não é caso de aplicação do Tema n. 1.124 à espécie. Alega que: "prova não submetida ao crivo administrativo do INSS" implica, essencialmente, em prova que não foi submetida à avaliação/exame do INSS. O presente caso não coincide com a matéria afetada, uma vez que todas as provas foram apresentadas administrativamente pelo Autor ao INSS, competindo exclusivamente ao INSS a análise e indicação da necessidade de correção nos respectivos documentos, não sendo cabível que o Autor aguarde, indefinidamente, até decisão em instância superior, para recebimento de sua verba alimentar, por um erro que só pode ser imputado ao Órgão Administrativo" (e-STJ fl. 624).
+A parte agravada não apresentou impugnação (e-STJ fl. 692).
+Passo a decidir.
+Inicialmente, recebo o agravo interno como pedido de distinção preceituado pelo art. 1.037, § 9º, do CPC/2015, in verbis: "demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo."
+Após nova análise dos autos, verifica-se que a irresignação do requerente não merece acolhimento.
+Com efeito, vejamos o que restou decidido pelo acórdão recorrido (e-STJ fl. 360):
+EFEITOS FINANCEIROS DA CONDENAÇÃO
+A decisão recorrida condenou o INSS a conceder o benefício ao autor desde 29.06.2019 (DER), fixando, na mesma data, os respectivos efeitos financeiros. Contudo, a qualidade de tempo especial dos períodos controvertidos foi reconhecida pelo juízo de origem com base no perfil profissiográfico juntado no evento 14, DOC3, emitido em 17.06.2020. Nesse quadro, tendo em conta que o comunicado de decisão, notificando à parte autora do indeferimento de seu pedido, foi emitido pela autarquia em 06.02.2020 (evento 1, DOC15), denota-se que o formulário em questão não foi previamente levado ao conhecimento da autarquia no processo administrativo.
+Do que se ob serva, a questão referente ao termo inicial dos efeitos financeiros quando a prova não foi submetida à autarquia no processo administrativo foi expressamente consignada pelo acórdão recorrido, bem como foi objeto do recurso especial, guardando estreita relação com a controvérsia relativa ao Tema n. 1.124 do STJ, que assim dispõe:
+Caso superada a ausência do interesse de agir, definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS, se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária.
+Com essas considerações, INDEFIRO o pedido de distinção.
+CORRIJA-SE a autuação, a fim de que a Petição 01004343/2024 passe a constar como pedido de distinção.
+Publique-se. Intimem-se.
+EMENTA
