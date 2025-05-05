@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARLI VALERIA DE MOURA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ fl. 331):
+EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. IMÓVEL DA UNIÃO. TERRENO ACRESCIDO DE MARINHA. AFORAMENTO AUTORIZADO À EMURB PELA UNIÃO. FIM ESPECÍFICO. PROGRAMA REGULARIZAÇÃO FUNDIÁRIA. CONCESSÃO DE USO ESPECIAL PARA FINS DE MORADIA. DESCABIMENTO. APELAÇÕES CONHECIDAS EM PARTE E, NESTA EXTENSÃO, PROVIDAS.
+Embargos de declaração rejeitados (e-STJ fls. 407/412).
+Em suas razões, a parte recorrente aponta violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do Código de Processo Civil, por negativa de prestação jurisdicional, notadamente ao não se manifestar sobre o fato de a parte cumprir os requisitos para concessão de uso especial do bem público para fins de moradia.
+Defendeu, também, a existência de negativa de vigência ao art. 1º, § 1º, da MP n. 2.220/2004, uma vez que, no requerimento apresentado, a SPU comprovou que preenche os requisitos para concessão de uso especial de bem público para fins de moradia, não sendo suficiente para afastar tal direito subjetivo a existência de aforamento à Empresa Municipal de Obras e Urbanização - EMURB, especialmente considerando que o objetivo do aforamento é a regularização fundiária, não realizada por inércia da referida empresa.
+Contrarrazões às e-STJ fls. 447/455 e 456/477.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 479/480.
+Passo a decidir.
+Em relação à alegada ofensa dos arts. 489 e 1.022 do CPC, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1.022 do CPC.
+2. Nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgInt no AREsp n. 1.907.401/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/8/2022).
+Agravo interno improvido.
+(AgInt no AREsp n. 1.416.310/SP, Relator Ministro Humberto Martins, Segunda Turma, julgado em 28/11/2022, DJe de 30/11/2022.)
+No caso, o Tribunal de origem apreciou as questões relevantes ao deslinde da controvérsia, asseverando que a União não pode autorizar a ocupação por terceiro, uma vez que a área foi anteriormente aforada à EMURB para o fim específico de execução do Plano Global de Urbanização da região da Coroa do Meio - realizado em duas fases, sendo que a primeira já foi concluída e a área em questão está na segunda fase, já em andamento.
+Acrescentou que a recorrente deve manejar o seu pedido de regularização à referia empresa, a qual possui o domínio útil do bem, porque há o risco de ser prejudicado o projeto de regularização das moradias populares na região (e-STJ fl. 337).
+No mérito, a parte insurgente apontou violação do art. 1º, § 1º, da MP 2.220/2001, o qual dispõe que "a concessão de uso especial para fins de moradia será conferida de forma gratuita ao homem ou à mulher, ou a ambos, independentemente do estado civil".
+Todavia, tal dispositivo não tem comando normativo, por si só, para sustentar a tese recursal ou afastar as conclusões do Tribunal de origem, circunstância que demonstra a deficiência da fundamentação, a atrair o óbice da Súmula 284 do STF.
+A propósito: AgInt no AREsp n. 2.487.412/SP, relator Ministro Marco Aurélio Bellizze, Segunda Turma, julgado em 9/4/2025, DJEN de 15/4/2025; e AgInt no REsp n. 2.093.794/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.
+Registre-se, ainda, que não foi impugnado o fundamento de que o pedido de regularização deveria ser feito à EMURB, sob risco de prejudicar o projeto de regularização das moradias populares na região, circunstância que atrai o óbice da Súmula 283 do STF.
+Além disso, a alteração do julgado, nos moldes pretendidos, a fim de verificar inércia na atuação da empresa, importaria em revisão dos elementos de convicção presentes nos autos, o que é inviável em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado , nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
