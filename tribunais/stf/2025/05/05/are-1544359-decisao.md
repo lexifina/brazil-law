@@ -1,0 +1,61 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 2ª Região, ementado nos seguintes termos:
+
+    “ADMINISTRATIVO. ANISTIA. PERSEGUIÇÃO POLÍTICA NÃO CARACTERIZADA. PERDA DOS DIREITOS POLÍTICOS. PEDIDO DE EXIMIÇÃO DA PRESTAÇÃO DO SERVIÇO MILITAR. CONSTITUIÇÃO DE 1967 (EC Nº 01/1969). SENTENÇA MANTIDA. -Cinge-se a controvérsia em verificar se o autor faz jus ao reconhecimento de sua condição de anistiado político, bem como ao pagamento de prestação mensal, permanente e continuada, a título de reparação econômica, com base no art. 8º do Ato das Disposições Constitucionais Transitórias e na Lei 10.559/2002. -Depreende-se da legislação de regência que serão declarados anistiados políticos aqueles que, no período de 18.09.1946 a 05.10.1988, foram atingidos, em decorrência de motivação exclusivamente política, por atos institucionais ou complementares. Portanto, a comprovação da perseguição de caráter exclusivamente político é indispensável para o reconhecimento da condição de anistiado político. -Na espécie, não ficou comprovado que o impedimento da contratação no Banco do Brasil decorreu de perseguição política. De fato, o quadro fático delineado nos autos revela que o autor ficou impossibilitado de cumprir os requisitos para contratação no Banco do Brasil, não em razão de perseguição de cunho político, mas em virtude de pedido de eximição da prestação do serviço militar obrigatório por motivo religioso, de acordo com a Constituição de 1967, com a redação da EC 1/1969, que previa a perda dos direitos políticos nessas hipóteses (art. 149, §1º, “b” c/c art. 153, §6º). -Em que pese a comprovação de perda dos direitos políticos do autor, circunstância que inviabilizou sua contratação no Banco do Brasil, verifica-se que o referido impedimento decorreu de imposição constitucional então vigente e não de perseguição de cunho político, razão pela qual a pretensão do autor para ter reconhecida a condição de asilado político não merece acolhida. -Recurso de apelação do autor desprovido, com a majoração dos honorários advocatícios em 1% sobre o valor anteriormente fixado pelo juízo a quo, suspensa sua exigibilidade em razão da gratuidade de justiça” (eDOC 144 – ID: 9b156207, p. 5)
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, VI; e 37, caput, do texto constitucional.
+
+    Nas razões recursais, sustenta-se possuir direito ao reconhecimento da condição de anistiado político, por força de ato de exceção praticado durante a ditadura militar.
+
+    Narra-se que deixou de ser contratado pelo Banco do Brasil por causa de ato praticado pelo regime militar – que deixou de expedir o certificado de eximido, fornecendo-lhe apenas um comprovante do pedido de eximição –, mas concluiu que essa ação estatal encontraria amparo na constituição outorgada da época (1967/1969) (eDOC 193 – ID: 389935c8, p. 5-6)
+
+    Argumenta-se que a omissão do regime militar em fornecer o certificado de eximido ao recorrente violou os seus direitos fundamentais no que cerne à sua liberdade religiosa, pois o que ele queria, quando requereu o cerificado de eximido, era, simplesmente, poder trabalhar como um cidadão normal, independentemente da sua fé, mas isso lhe foi negado (eDOC 193 – ID: 389935c8, p. 12).
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie e o conjunto probatório constante dos autos, consignou que o impedimento para a posse no concurso público decorreu da suspensão dos direitos políticos em razão do não cumprimento da obrigação militar. Assentou, ainda, que não ficou comprovado que o impedimento da contratação no Banco do Brasil ou a suspensão dos direitos políticos decorreu de perseguição política. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+
+    “Cinge-se a controvérsia em verificar se o autor faz jus ao reconhecimento de sua condição de anistiado político, bem como ao pagamento de prestação mensal, permanente e continuada, a título de reparação econômica, com base no art. 8º do Ato das Disposições Constitucionais Transitórias e na Lei 10.559/2002.
+
+    (...)
+
+    Depreende-se das normas supratranscritas que serão declarados anistiados políticos aqueles que, no período de 18.09.1946 a 05.10.1988, foram atingidos, em decorrência de motivação exclusivamente política, por atos institucionais ou complementares. Portanto, a comprovação da perseguição de caráter exclusivamente político é indispensável para o reconhecimento da condição de anistiado político.
+
+    Na espécie, não ficou comprovado que o impedimento da contratação no Banco do Brasil decorreu de perseguição política.
+
+    Consoante sintetizado pelo Conselheiro da Comissão de Anistia do Ministério da Mulher, da Família e dos Direitos Humanos, na decisão que indeferiu o requerimento administrativo de anistia política, o autor “relata que em 05/04/1984 se alistou na Junta Militar, oportunidade em foi orientado a requerer a desobrigação do serviço militar, em função de o regime da época não contemplar a possibilidade de dispensa do serviço militar por motivo de convicção religiosa. Que em 10/01/1985 se inscreveu em concurso do Banco do Brasil, e apesar de sua aprovação, não pode tomar posse no cargo público, pela falta de comprovação da quitação com o serviço militar, ainda que houvesse pleiteado a sua eximição, por motivo de convicção religiosa, nos termos do art. 150, §6º, da Constituição de 1969. Afirma que o atestado de eximido só foi emitido em 06/06/1988, ocasião em que já havia perdido o prazo para apresentação de documentos com o objetivo de ser admitido no Banco do Brasil. Alega que os fatos narrados configurariam perseguição de caráter político, pois, como se não bastasse haver sofrido penalidade de não tomar posse no cargo tão almejado, pela falta do certificado de eximido; ainda, só teria conseguido obter o documento após a redemocratização” (JFRJ, Evento 1, OUT20).
+
+    O referido quadro fático revela que o autor ficou impossibilitado de cumprir os requisitos para contratação no Banco do Brasil, não em razão de perseguição de cunho político, mas em virtude do pedido de eximição da prestação do serviço militar obrigatório por motivo religioso, de acordo com a Constituição de 1967, com a redação da EC 1/1969, que previa a perda dos direitos políticos nessas hipóteses (art. 149, §1º, “b” c/c art. 153, §6º).
+
+    De fato, o Atestado de Eximido, emitido pelo Ministério do Exército, em 06/06/1988, registra que o autor “de acordo com os §2º e 6º, do Artigo 153, combinado com o §1º. Alínea ‘b’, do Artigo 149, da Constituição, acha-se eximido da prestação do Serviço Militar, por motivo de convicção religiosa, pelo que perdeu seus direitos políticos na forma da Lei” (JFRJ, Evento 1, OUT14).
+
+    No mesmo sentido, a cópia do registro de publicações no DOU aponta que o autor perdeu os direitos políticos, “nos termos do artigo 149, §1º, alínea ´b´, da Constituição, em virtude da recusa, motivada por convicção religiosa, da prestação do serviço militar (...)” (JFRJ, Evento 1, OUT21).
+
+    Nesse cenário, em que pese a comprovação de perda dos direitos políticos do autor, circunstância que inviabilizou sua contratação no Banco do Brasil, verifica-se que o referido impedimento decorreu de imposição constitucional então vigente e não de perseguição de cunho político, razão pela qual a pretensão do autor para ter reconhecida a condição de asilado político não merece acolhida.
+
+    Posto isso, voto no sentido de NEGAR PROVIMENTO ao recurso de apelação do autor, majorando os honorários advocatícios em 1% sobre o valor anteriormente fixado pelo juízo a quo, suspensa sua exigibilidade em razão da gratuidade de justiça” (eDOC 144 – ID: 9b156207)
+
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+
+    Confiram-se, a propósito, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SUPOSTA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL (TEMA 660). ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). MILITAR. ANISTIA. MOTIVAÇÃO DO ATO DE LICENCIAMENTO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2°, do CPC/2015. II - O Supremo Tribunal Federal, ao julgar o ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, rejeitou a repercussão geral da controvérsia referente à suposta ofensa aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, quando o julgamento da causa depender de prévia análise de normas infraconstitucionais, por configurar situação de ofensa indireta à Constituição Federal. III – Conforme assentado no julgamento do AI 791.292-QO-RG (Tema 339 da repercussão geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. IV – A jurisprudência do Supremo Tribunal Federal é no sentido de que é inviável o recurso extraordinário com alegação de contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo tribunal de origem (Súmula 636/STF). V – Conforme a Súmula 279/STF, é inviável, em recurso extraordinário, o reexame do conjunto fático-probatório constante dos autos. VI – O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que torna inviável o recurso, conforme a Súmula 287 do STF. VII – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC/2015” (ARE 1254014 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 09.02.2021 – grifo nosso)
+
+    “Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Anistia. Indenização. Revisão. Lei n º 10.559/2002. Legislação infraconstitucional. Súmula 279/STF. I. Caso em exame 1. Agravo interno contra decisão que negou seguimento a recurso extraordinário com agravo, o qual tem por objeto acórdão que negou provimento a recurso. II. Questão em discussão 2. Preenchimento dos pressupostos de admissibilidade do recurso extraordinário com agravo. III. Razão de decidir 3. A petição de agravo não trouxe novos argumentos aptos a desconstituir a decisão agravada, a qual deve ser mantida pelos seus próprios fundamentos. 4. Para dissentir do entendimento do Tribunal de origem, seria imprescindível a análise da legislação infraconstitucional pertinente e o reexame do conjunto fático-probatório dos autos, procedimentos inviáveis neste momento processual. Incidência da Súmula 279/STF. Precedentes. (...)” (ARE 1531335 AgR, Rel. Min. Luís Roberto Barroso (Presidente), Tribunal Pleno, DJe 21.03.2025 – grifo nosso)
+
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+
+    Publique-se.
+
+    Brasília, 5 de maio de 2025.
+
+Ministro GILMAR MENDES
+
+Relator
+
+Documento assinado digitalmente
