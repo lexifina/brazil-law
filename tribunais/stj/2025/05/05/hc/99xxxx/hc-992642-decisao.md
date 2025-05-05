@@ -1,0 +1,21 @@
+DECISÃO
+RODRIGO RODRIGUES DA SILVA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no Agravo em Execução n. 0746093-71.2024.8.07.0000.
+Consta dos autos que o paciente cumpre pena de 32 anos, 10 meses e 3 dias de reclusão e pleiteou a remição de pena pelos estudos em razão da aprovação no Exame Nacional do Ensino Médio (Enem) de 2023, o qual foi indeferido pelo Juízo da Vara de Execuções Penais do Distrito Federal sob o fundamento de bis in idem, já que o apenado havia sido beneficiado pela aprovação no Encceja no mesmo ano.
+A defesa aduz, em síntese, que a decisão do Tribunal de origem contraria a jurisprudência do Superior Tribunal de Justiça, que admite a remição da pena por aprovação no Enem, mesmo que o apenado já tenha obtido remição por aprovação no Encceja, levando em conta que os exames possuem complexidades distintas e representam fatos geradores diversos. Sustenta também que a aprovação no Enem deve ser considerada para fins de remição da pena, incentivando o estudo e a readaptação ao convívio social.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pela concessão da ordem de ofício (fls. 325-328).
+Decido.
+O Tribunal de Justiça do Distrito Federal e dos Territórios assim fundamentou o acórdão que indeferiu a pretensão do reeducando (fl. 16):
+ ..  3. A Resolução nº 391/2021 do CNJ regulamenta a remição de pena por exames de certificação, como o ENCCEJA e o ENEM, estabelecendo que ambos podem ser usados para esse fim.
+4. O art. 126 da LEP prevê a remição de pena por estudo, sendo acrescido um terço do tempo em caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena.
+5. O STJ já firmou entendimento no sentido que, apesar de serem exames distintos, o ENEM e o ENCCEJA conferem certificação do mesmo nível educacional, de modo que sua utilização para remição em duplicidade configura bis in idem.
+6. No caso concreto, o agravante já obteve remição pela aprovação no ENCCEJA em 2023, e sua nova aprovação no ENEM 2023 não implica evolução nos estudos ou acréscimo de habilidades intelectuais que justifique nova remição.
+O acórdão vai ao encontro do entendimento firmado pela Sexta Turma desta Corte Superior, " ..  de que (é) indevida a cumulação dos dias já remidos por aprovação no mesmo ano (ou em edição anteriores) do ENCCEJA e do ENEM, consequentemente, não se mostra admissível por se tratar de duplicidade de benefícios pelo mesmo fato gerador, sob pena de bis in idem" (AgRg no HC n. 905.209/SC, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 7/10/2024, DJe de 9/10/2024, destaquei).
+Na mesma direção:
+ ..
+2. No caso, os fundamentos das instâncias ordinárias não se mostram desarrazoados ou ilegais, uma vez que a remição de pena, em razão de aprovação do paciente no exame ENCCEJA, configuraria bis in idem de remição na mesma execução penal, tendo em vista que já fora agraciado em razão de sua aprovação, em 2015, no Exame Nacional do Ensino Médio (ENEM) (AgRg no HC n. 627.958/SC, relator Ministro Jesuíno Rissato (Desembargador Conv ocado do TJDFT), Quinta Turma, julgado em 5/10/2021, DJe de 8/10/2021). Ainda que se trate de exames distintos, as provas se referem à certificação de conclusão pelo mesmo nível (médio) educacional, inviabilizando a concessão do benefício em apreço pelo mesmo fato gerador, pois configurada a sua duplicidade.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 842.165/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 4/3/2024, DJe de 7/3/2024, grifei).
+Diante de tal cenário, outra solução não há senão reconhecer o acerto do acórdão impugnado, quando destacou a impossibilidade de concessão do benefício em duplicidade, pois "a instrução do ensino médio  ou fundamental  durante os regimes semiaberto ou fechado pode ensejar uma única vez a remição, sob pena de bis in idem e de concessão de benefício indevido" (AgRg no HC n. 797.329/SC, relator Ministro Sebastião Reis Júnior, 6ª T., DJe 26/5/2023).
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
+EMENTA
