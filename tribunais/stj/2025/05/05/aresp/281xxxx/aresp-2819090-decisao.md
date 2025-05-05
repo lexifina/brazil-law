@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANIN INDÚSTRIA E COMÉRCIO DE PAPEL LTDA. (EM RECUPERAÇÃO JUDICIAL) e AURIO DE OLIVEIRA LIMA JUNIOR contra decisão que inadmitiu recurso especial com fundamento na ausência de violação do art. 1.022 do CPC e na Súmula n. 7 do STJ.
+Alegam os agravantes que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de embargos à execução.
+O julgado foi assim ementado (fl. 269):
+AGRAVO DE INSTRUMENTO - EMBARGOS À EXECUÇÃO -- GRATUIDADE DA JUSTIÇA  INDEFERIMENTO DO BENEFÍCIO  PESSOA JURÍDICA E PESSOA FÍSICA  AUSÊNCIA DE DEMONSTRAÇÃO EFETIVA DA ALEGADA HIPOSSUFÍCIÊNCIA DOS AGRAVANTES  DECISÃO MANTIDA, COM ORDEM DE RECOLHIMENTO, AO FINAL, DO PREPARO RECURSAL, NOS TERMOS DO DISPOSTO NO ARTIGO 101 DO CÓDIGO DE PROCESSO CIVIL - RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 324-331):
+EMBARGOS DE DECLARAÇÃO PARCIAL ACOLHIMENTO APENAS PARA AFASTAR A DETERMINAÇÃO DE RECOLHIMENTO DO PREPARO, SOB PENA DE INSCRIÇÃO EM DÍVIDA ATIVA RECURSO POSTULANDO A CONCESSÃO DA GRATUIDADE QUE, CONTUDO, FORA ACOMPANHADO DO PREPARO - DEMAIS QUESTÕES QUE REPRESENTAM REDISCUSSÃO DE MATÉRIA QUE JÁ FOI OBJETO DE APRECIAÇÃO POR ESTA COLENDA CÂMARA E NÃO PODEM SER ACOLHIDAS - EMBARGOS PARCIALMENTE ACOLHIDOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 489, § 1º, VI, e 1.022, II, do CPC, tendo em vista que o Tribunal de origem não enfrentou adequadamente os argumentos apresentados nos embargos de declaração e não sanou a omissão quanto à demonstração de hipossuficiência;
+b) 98, § 6º, 99, § 3º, do CPC, por não ter sido observada a correta aplicação da norma que assegura a gratuidade de justiça;
+c) 926 do CPC visto que o acórdão recorrido decidiu de forma contrária a jurisprudência desta Corte.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo a hipossuficiência dos agravantes e concedendo a gratuidade de justiça.
+Contrarrazões apresentadas às fls. 336-349.
+É o relatório. Decido.
+O recurso não merece prosperar.
+I - Violação do art. 1.022, II, e 489, § 1º, VI, do CPC
+Afasta-se a alegada ofensa ao art. 1.022, II, e 489, § 1º, VI, do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No caso, a Corte a quo debateu, de forma explícita, acerca da gratuidade da justiça postulada pela pessoa jurídica, entendendo que não ficou comprovada a impossibilidade de arcar com os encargos processuais. Confira-se trecho do voto condutor do acórdão (fls. 272-273, destaquei):
+Nessa esteira, também, a admissão, pela jurisprudência, da possibilidade de concessão dos benefícios da gratuidade da Justiça, desde que comprovada pela pessoa jurídica postulante, de maneira inequívoca, a impossibilidade de arcar com as custas e despesas processuais sem prejuízo de suas atividades.
+No mesmo sentido, a Súmula nº 481 do E. Superior Tribunal de Justiça estabelece que faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+Assim, somente em situações absolutamente excepcionais e desde que, efetivamente, comprovada a carência financeira da empresa e a impossibilidade absoluta de arcar com as referidas custas é que se há cogitar da possibilidade de concessão do benefício.
+Todavia, o simples deferimento da recuperação judicial, por si só, não faz presumir que a parte não tenha condições de arcar com as custas e despesas processuais. Por outro lado, é possível notar a vultosa quantia movimentada pela sociedade empresária (fls. 56/106), apesar da recuperação judicial e da existência de demandas em seu desfavor, o que sequer foi comprovado.
+Fosse válida essa circunstância para a concessão do benefício pretendido, toda e qualquer pessoa jurídica com fins lucrativos, que estivesse momentaneamente em crise financeira, faria jus à gratuidade da Justiça, o que é inadmissível.
+Quanto ao agravante pessoa natural, também nada há mesmo que sustente a alegada hipossuficiência, sendo que, diante dos fundamentos da decisão agravada e na qualidade de sócio da sociedade empresária, a presunção de hipossuficiência já resta afastada.
+Nessa direção, o agravante foi intimado a apresentar documentos a fim de revelar a sua atual situação, contudo, apenas aduziu que como sócio da pessoa jurídica em recuperação judicial seu pró-labore foi muito prejudicado para auxiliar o soerguimento da empresa, e deixou de cumprir a determinação judicial.
+Assim, esse cenário de ocultações autoriza a conclusão no sentido de que servem para não revelar outras fontes de renda ou de capacidade financeira diversa da alegada.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Da violação do art. 98, § 6º, do CPC
+É certo que a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, nos termos da orientação do STJ consolidada com a edição da Súmula n. 481, que assim dispõe:
+Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+No caso, a Corte a quo, instância soberana na análise das provas, concluiu pelo indeferimento dos benefícios da gratuidade de Justiça ao recorrente. De acordo com a análise dos documentos apresentados, verificou a inexistência de elementos capazes de atestar a hipossuficiência financeira alegada. Observe-se (fls. 271-272, destaquei):
+Outrossim, tratando-se de pessoa jurídica, a favor de que quem não há, evidentemente, presunção legal de veracidade (exclusiva, como visto, à pessoa natural), revela-se obrigatória a comprovação do alegado estado de necessidade, nos termos do mencionado inciso LXXIV do artigo 5º da Constituição Federal.
+Nessa esteira, também, a admissão, pela jurisprudência, da possibilidade de concessão dos benefícios da gratuidade da Justiça, desde que comprovada pela pessoa jurídica postulante, de maneira inequívoca, a impossibilidade de arcar com as custas e despesas processuais sem prejuízo de suas atividades.
+No mesmo sentido, a Súmula nº 481 do E. Superior Tribunal de Justiça estabelece que faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais.
+Assim, somente em situações absolutamente excepcionais e desde que, efetivamente, comprovada a carência financeira da empresa e a impossibilidade absoluta de arcar com as referidas custas é que se há cogitar da possibilidade de concessão do benefício.
+Todavia, o simples deferimento da recuperação judicial, por si só, não faz presumir que a parte não tenha condições de arcar com as custas e despesas processuais. Por outro lado, é possível notar a vultosa quantia movimentada pela sociedade empresária (fls. 56/106), apesar da recuperação judicial e da existência de demandas em seu desfavor, o que sequer foi comprovado.
+Fosse válida essa circunstância para a concessão do benefício pretendido, toda e qualquer pessoa jurídica com fins lucrativos, que estivesse momentaneamente em crise financeira, faria jus à gratuidade da Justiça, o que é inadmissível.
+Assim delineada a questão e considerando que a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, o indeferimento do pedido de assistência judiciária pela instância de origem encontra amparo na jurisprudência desta Corte, atraindo, no ponto, a incidência da Súmula n. 83 do STJ.
+Nesse contexto, concluir de forma contrária ao decidido e aferir se o ora agravante não possui condições de arcar com as custas processuais, conforme alega nas razões do recurso especial, atrai a incidência da Súmula n. 7 do STJ.
+A propósito, os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JUSTIÇA GRATUITA. INDEFERIMENTO. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. HONORÁRIOS RECURSAIS. ARTIGO 85, § 11, DO CPC/2015. OBSERVÂNCIA DOS LIMITES LEGAIS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência de provas que demonstrem a incapacidade financeira de custear despesas processuais. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+3. Nos termos da jurisprudência desta Corte, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a. decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b. recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c. condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+4. O entendimento firmado pela Corte Especial deste Tribunal Superior é de que a fixação equitativa de honorários recursais observará o disposto no art. 85, §§ 2º e 3º, do CPC/2015.
+5. Decisão monocrática que observa os parâmetros legais e jurisprudenciais. Incidência da Súmula n. 83 do STJ.
+6. Agravo interno a que se nega provimento. (AgInt no REsp n. 1.974.574/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/11/2022, DJe de 5/12/2022, destaquei.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. NECESSIDADE DE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE ARCAR COM OS CUSTOS PROCESSUAIS. SÚMULA 481/STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+III. O Tribunal de origem, com base no exame dos elementos fáticos dos autos, rejeitou o pedido, apresentado na Apelação, de concessão do benefício da gratuidade de justiça. Tal entendimento, firmado pelo Tribunal a quo, no sentido de que a parte recorrente não se caracterizaria como juridicamente pobre, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir, no caso, o reexame da matéria fático-probatória dos autos. Nesse sentido: AgInt no REsp 1.858.814/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/09/2020; AgInt no REsp 1.880.769/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 03/12/2020; AgInt nos EDcl no AREsp 1.649.945/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/12/2020.
+IV. Agravo interno improvido. (AgInt no REsp n. 1.349.031/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 22/8/2022, DJe de 29/8/2022.)
+III - Da violação do art. 99, § 3º, do CPC
+O Superior Tribunal de Justiça já fixou entendimento no sentido de que a declaração de pobreza objeto do pedido de assistência judiciária implica presunção relativa de veracidade, que pode ser afastada se o magistrado entender que há fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado.
+Nesse sentido, confiram-se os seguintes julgados: AgInt no AREsp n. 1.983.350/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022; AgInt no AREsp n. 1.837.835/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 27/9/2021, DJe de 30/9/2021; e AgInt no AREsp n. 1.372.130/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/11/2018, DJe de 20/11/2018.
+Observa-se que o acórdão recorrido não divergiu desse entendimento.
+No caso, o Tribunal de origem, analisando todo o acervo fático-probatório dos autos, concluiu pela inexistência de comprovação da hipossuficiência dos recorrentes nestes termos (fl. 273, destaquei):
+Quanto ao agravante pessoa natural, também nada há mesmo que sustente a alegada hipossuficiência, sendo que, diante dos fundamentos da decisão agravada e na qualidade de sócio da sociedade empresária, a presunção de hipossuficiência já resta afastada.
+Nessa direção, o agravante foi intimado a apresentar documentos a fim de revelar a sua atual situação, contudo, apenas aduziu que como sócio da pessoa jurídica em recuperação judicial seu pró-labore foi muito prejudicado para auxiliar o soerguimento da empresa, e deixou de cumprir a determinação judicial.
+Assim, esse cenário de ocultações autoriza a conclusão no sentido de que servem para não revelar outras fontes de renda ou de capacidade financeira diversa da alegada.
+ ..
+Igualmente, não houve comprovação da momentânea impossibilidade financeira, pressuposto necessário para a concessão do diferimento do recolhimento das custas.
+Concluir de forma contrária ao decidido e aferir se a parte não possui condições de arcar com as custas processuais, conforme alega nas razões do recurso especial, atrai a incidência da Súmula n. 7 do STJ.
+IV - Da violação do art. 926 do CPC
+A questão infraconstitucional relativa à violação dos artigos acima não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+V - Conclusão
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
