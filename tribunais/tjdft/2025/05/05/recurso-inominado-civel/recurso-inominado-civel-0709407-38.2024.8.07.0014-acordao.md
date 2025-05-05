@@ -1,0 +1,54 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0709407-38.2024.8.07.0014RECORRENTE(S)CAIXA DE ASSISTENCIA DOS FUNCIONARIOS DO BANCO DO BRASILRECORRIDO(S)EDBERT PEREIRA LEITE FILHORelatoraJuiza SILVANA DA SILVA CHAVES
+ Acórdão Nº1994323
+
+EMENTA
+
+ p{text-align: justify;}
+JUIZADO ESPECIAL CÍVEL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. ENTIDADE DE AUTOGESTÃO. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE SUPLEMENTAR DA ANS. REFERÊNCIA BÁSICA. LEI 14.454/2022. DANO MORAL CONFIGURADO. MANUTENÇÃO DO VALOR. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1.         Trata-se de Recurso Inominado interposto em face da sentença exarada pelo juízo Juizado Especial Cível do Guará que julgou procedentes os pedidos iniciais e condenou a requerida ao pagamento do valor de R$ 9.300,00 (nove mil e trezentos reais) e de R$ 1.655,00 (um mil seiscentos e cinquenta e cinco reais) a título de indenização por danos materiais, além do montante de R$ 5.000,00 (cinco mil reais) a título de indenização por danos morais.
+2.         Na origem, o autor, ora recorrido, ajuizou ação de indenização por danos morais e materiais. Narrou que é beneficiário do plano de saúde da parte ré e teve o diagnóstico de “Adenocarcinoma da próstata” em abril de 2024. Pontuou que necessitou submeter-se a um procedimento cirúrgico de alta complexidade, indicado por seu médico, para o qual foi recomendado o uso de tecnologia robótica. Destacou que a requerida negou a cobertura da referida tecnologia, alegando que o procedimento robótico não fazia parte do rol de cobertura. Salientou que tal negativa é abusiva, e que diante da urgência da situação, se viu obrigado a arcar com as despesas do procedimento, no valor total de R$ 9.300,00 (nove mil e trezentos reais). Observou que, por ocasião das complicações sofridas durante a internação, foi necessária a realização de uma série de exames indicados como urgentes, no valor de R$ 1.655,00 (um mil seiscentos e cinquenta e cinco reais) os quais também foram negados pelo plano com a mesma justificativa de não cobertura. Ressaltou que solicitou o reembolso, mas não obteve êxito.
+3.         Recurso próprio e adequado à espécie. Preparo regular (ID 69957815). Foram oferecidas contrarrazões (ID 69957820).
+4.         Na hipótese em exame, não se aplicam as regras de proteção ao consumidor uma vez que o plano de saúde recorrente é de autogestão, enquadrando-se nos termos da Súmula nº 608 do Superior Tribunal de Justiça – STJ. Porém, tal inaplicabilidade não afasta a obrigação dos planos administrados por entidade de cumprirem com as obrigações contratuais e a cobrir tratamento médico de forma adequada.
+5.         As questões devolvidas ao exame desta Turma Recursal consistem na análise: (i) da validade da negativa de cobertura do procedimento cirúrgico robótico por não constar no rol de procedimentos e eventos em saúde suplementar da ANS; (ii) da possibilidade de reembolso das despesas médicas suportadas pelo autor, com limitação ou não aos parâmetros do TGA; e (iii) da configuração ou não de danos morais em razão da negativa de cobertura.
+6.         Em suas razões recursais a requerida, ora recorrente, alegou que, embora seja incumbência do médico recorrido definir qual a melhor terapêutica, cabe ao plano de saúde definir o que irá custear ou não, sob pena de colocar em risco o equilíbrio financeiro-econômico do plano. Observou que não se verifica dos autos nenhum estudo que assevere a eficácia científica do procedimento, permanecendo o rol taxativo da ANS, que pode ser mitigado, desde que preenchidos alguns requisitos, o que não ocorreu no caso em debate. Destacou que os procedimentos realizados por metodologia robótica só terão cobertura assegurada quando assim especificados no Anexo I da RN n° 465/12, não havendo obrigatoriedade de cobertura pelas operadoras. Frisou que ainda que o procedimento seja indispensável ao recorrido, o contrato firmado não prevê o custeio do item, não havendo qualquer conduta ilícita de sua parte. Pontuou que não promoveu nenhuma irregularidade que justificasse a condenação em danos morais, posto que a negativa foi baseada nas cláusulas contratuais e legislação suplementar. Salientou que a ação voluntária não foi imprudente e nem negligente, mas baseada nos estritos termos do contrato e das normas legais. Ao final, requereu o conhecimento do recurso e o seu provimento para reformar a sentença recorrida e julgar improcedente os pedidos iniciais. Subsidiariamente, em caso de entendimento diverso, que o reembolso seja limitado ao TGA do plano e que a condenação na indenização em danos morais, seja reduzida em valor equitativo.
+7.         De acordo com o §12 do art. 10 da Lei 9.656/1998, incluído pela Lei 14.454/2022, o rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde, não sendo, portanto, de caráter taxativo e exaustivo, cabendo ao médico estabelecer o adequado tratamento ao caso. Nos termos do §13 do referido artigo, a cobertura deverá ser autorizada pela operadora de plano de assistência à saúde, em caso de tratamento ou procedimento prescrito por médico, mesmo que não estejam previstos no rol da ANS, desde que exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico.
+8.         A ausência de previsão contratual específica do procedimento cirúrgico e do exame indicado pelo médico assistente não justifica a automática negativa de cobertura indispensável ao tratamento de saúde do beneficiário. São abusivas as cláusulas contratuais que criam barreiras à realização de procedimentos determinados por médicos e limitam a cobertura do plano de saúde contratado, devendo essas cláusulas serem interpretadas restritivamente, posto frustrar as expectativas do contratante e provocar o desequilíbrio na relação jurídica estabelecida entre as partes.
+9.         Na espécie, a realização da cirurgia robótica foi indicada e justificada nos termos do relatório médico (ID 69957686) por ser uma técnica minimamente invasiva, com uma série de benefícios para o paciente que já conta com 63 anos. A ré não produziu prova no sentido de que, no caso específico do autor, a cirurgia pela modalidade prescrita seria dispensável. Assim é direito do autor à cirurgia na forma indicada pelo médico que o acompanha, por não ser taxativo o Rol de Procedimentos e Eventos em Saúde da ANS. Por esse motivo, o ressarcimento deve ser realizado de forma integral.
+10.       Na mesma toada, os exames indicados para realização da cirurgia também são passíveis de cobertura conforme solicitação médica (ID 69957690), já que são indispensáveis para realização do procedimento.
+11.       Há nos autos os comprovantes de pagamento dos valores gastos com o procedimento cirúrgico e com os exames realizados (ID 69957688, ID 69957689 e ID 69957692), de forma que tais valores devem ser levados em consideração no que tange ao ressarcimento.
+12.       Dano moral. No presente caso, a negativa de cobertura superou os limites do mero dissabor decorrente do inadimplemento contratual e caracteriza dano moral passível de compensação, posto que nitidamente causou abalo e potencial repercussão no tratamento da enfermidade que acomete o autor.
+13.       Em relação ao montante da condenação por dano moral, as Turmas Recursais firmaram entendimento de que o valor da indenização é fixado na origem, pelo juiz a quem incumbe o julgamento da causa. Somente se admite a modificação do quantum, na via recursal, se demonstrado estar dissociado dos parâmetros que ensejaram sua valoração. Para fixação da indenização por danos morais deve ser analisada a gravidade do dano, o nível de reprovação do ato e as condições pessoais e econômicas das partes envolvidas. Deve ser observada a função pedagógico-reparadora da medida, apta a desestimular novos comportamentos semelhantes. O valor fixado pelo juízo singular é adequado.
+14.       Recurso conhecido e não provido.
+15.       Sem custas e sem honorários, ante a ausência de recorrente vencido, nos termos do art. 55 da Lei 9.099/95.
+16.       A súmula de julgamento servirá de acórdão, nos termos do art. 46 da Lei 9.099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, SILVANA DA SILVA CHAVES - Relatora, MARIA ISABEL DA SILVA - 1º Vogal e MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal, sob a Presidência da Senhora Juíza SILVANA DA SILVA CHAVES, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 09 de Maio de 2025
+
+Juíza SILVANA DA SILVA CHAVESPresidente e Relatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza SILVANA DA SILVA CHAVES - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+A Senhora Juíza MARIA ISABEL DA SILVA - 1º Vogal p{text-align: justify;}Trata-se de Recurso Inominado interposto pela Caixa de Assistência dos Funcionários do Banco do Brasil em face da sentença que julgou parcialmente procedentes os pedidos autorais, condenando-a ao pagamento das despesas suportadas pela parte autora para o custeio de procedimento médico não autorizado pelo plano, além de indenização por danos morais.
+Em seu voto, a ilustre Relatora entendeu pelo não provimento do recurso, mantendo a sentença, integralmente.
+Com as devidas vênias, meu entendimento é diverso no que concerne ao valor dos danos materiais, pois entendo que a recorrente deve promover o reembolso de acordo com os valores pagos à rede credenciada, conforme a Tabela Geral de Auxílio – TGA (ID 69957708), nos termos do artigo 12, da Lei n. 9.656/98 e do artigo 10, do Plano de Associados (ID 69957707), uma vez que o profissional e o procedimento realizado foram objeto de escolha do beneficiário do plano. Nesse sentido: Acórdão 1983088, 0783281-50.2024.8.07.0016, Rel. Edi Maria Coutinho Bizzi, 3ª Turma Recursal, j. 24/03/2025.
+Por essa razão, com as devidas vênias, voto pelo conhecimento e parcial provimento do recurso para, reformando a sentença, condenar a requerida ao pagamento da reparação material pertinente ao procedimento cirúrgico e exames, limitada aos termos da Tabela Geral de Auxílio.
+É como voto.
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA.
