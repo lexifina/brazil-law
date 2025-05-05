@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por FELIPE RIBEIRO CORDEIRO contra a decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0900352-91.2023.8.12.0041.
+O Ministério Público Federal apresentou parecer opinando pelo conhecimento do agravo para não se conhecer do recurso especial (fls. 395/400).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+O Tribunal de origem não admitiu o apelo nobre pelo óbice da Súmula 7/STJ.
+A parte agravante sustenta que ausente o óbice da Súmula 7/STJ, uma vez que pretende apenas a revaloração da prova. Ressalta que o próprio depoimento dos policiais ouvidos não traduz testemunho de que teriam, necessariamente, flagrado um quadro de genuína traficância, até porque, não presenciaram qualquer ato de comercialização da substância entorpecente (fl. 351).
+No caso, o Tribunal de origem, soberano na análise das circunstâncias fático-probatórias do feito, concluiu, após exame da prova colhida na ação penal e transcrição de depoimentos, que configurada a conduta de tráfico de drogas, conforme a seguinte ementa (fls. 268/269 - grifo nosso):
+III. RAZÕES DE DECIDIR
+3. O conjunto probatório confirma a materialidade e autoria do crime de tráfico de drogas, com base no auto de prisão em flagrante, boletim de ocorrência, laudos toxicológicos e depoimentos testemunhais, especialmente de policiais que presenciaram a conduta do réu e gozam de presunção de veracidade na ausência de indícios de má-fé ou suspeição.
+4. A quantidade e a natureza das drogas apreendidas (47 gramas de cocaína e 53 gramas de pasta base), associadas à posse de balança de precisão, indicam inequívoca destinação comercial, afastando a tese de uso pessoal.
+5. A jurisprudência reconhece que a figura do "usuário-traficante" não exclui a caracterização do tráfico quando há indícios de mercancia, sendo inadequada a aplicação do artigo 28 da Lei 11.343/2006 ao caso.
+6. Na primeira fase da dosimetria, a sentença de primeiro grau valorou negativamente os vetores relativos aos antecedentes e às circunstâncias do delito, esta última, com base na natureza da droga apreendia.
+7. A motivação lançada pelo magistrado a título de circunstâncias do crime é concernente, em verdade, à circunstância judicial preponderante da natureza da droga, devendo ser deslocada a referida valoração à moduladora correlata.
+8. Ainda que haja ajustes na fundamentação das circunstâncias judiciais, persiste o juízo negativo sobre dois vetores, não havendo alteração na pena originalmente fixada.
+IV. DISPOSITIVO E TESE
+9. Recurso desprovido.
+Relevante transcrever trecho do acórdão, citando os fundamentos da sentença, para afastar a pretensão de desclassificação formulada no recurso pela defesa (fl. 273 - grifo nosso):
+Por outro lado, em que pese o esforço defensivo, como bem ressaltou o douto magistrado de origem, " ..  o acusado possuía quantidade expressiva de drogas, qual seja, 47 gramas, em 1 porção, de cocaína, além de outros 53 gramas, em 1 porção, de pasta base, quantidade que, juntos com os demais apetrechos (balança de precisão) encontrados no ambiente onde o réu estava consumindo drogas, conforme afirmado pela testemunha, o policial militar, Thiego Rodrigues Viana (fl.168) permitem concluir pela traficância. O fato do acusado possuir droga que duraria para diversas semanas de consumo, aliado ao fato de que a renda por ele auferida não é grande, até mesmo impedem que consiga comprar tal quantidade de drogas. Além disso, também não é factível que um usuário adquira drogas não fracionadas, e também que possua uma balança em casa, tudo isso a comprovar a prática do tráfico de drogas" (f. 200).
+Desse modo, a forma e o local em que houve a apreensão, bem como as condições em que se desenvolveu a ação policial, não deixam dúvidas quanto à finalidade comercial das substâncias entorpecentes, uma vez que é manifestamente claro que a quantidade trazida pelo réu não pode ser considera ínfima ou de pequena monta, a ponto de caracterizar a figura do tipo penal do artigo 28 da Lei de Drogas.
+O recurso especial pretende reexame da prova, na medida em que quer ver reconhecido enquadramento em tipo penal mais benéfico, o que implica o afastamento das conclusões alcançadas no julgamento da apelação, que manteve por unanimidade a sentença, após análise das provas produzidas.
+De rigor, a aplicação do óbice contido na Súmula 7/STJ, porquanto a Corte de origem concluiu que configurado o tráfico de drogas, sendo inviável entender de modo diverso, dada a necessidade de revisão de elementos fático-probatórios considerando os termos do recurso especial interposto, vedada nesta via recursal. No sentido da presente: o AgRg no AREsp n. 2.359.190/TO, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe 6/11/2024; o AgRg no HC n. 932.534/SP, Ministro Og Fernandes, Sexta Turma, DJe 18/11/2024; e o AREsp n. 2.753.204/MA, Ministra Daniela Teixeira, Quinta Turma, DJe 25/2/2025.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA O TIPO PENAL DO ART. 28 DA LEI N. 11.343/2006. SÚMULA 7/STJ. REEXAME FÁTICO-PROBATÓRIO VEDADO.
+Agravo conhecido para não conhecer do recurso especial.
