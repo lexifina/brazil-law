@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS em face da decisão acostada às fls. 1305-1309 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pela ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 826-840 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Opostos aclaratórios (fls. 851-856 e-STJ), restaram rejeitados na origem (fls. 1022-1026 e-STJ).
+Nas razões de recurso especial (fls. 1041-1084 e-STJ), alegou a insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigo 421 do CC, bem como dissídio jurisprudencial, arguindo a impossibilidade de acolhimento da alegação de abusividade da taxa de juros mediante mero cotejo com a média de mercado; (ii) artigos 80, inc. VII, e 1.026, § 2º, do CPC/15, sustentando o descabimento da multa aplicada na origem; e, (iii) artigos 355, inc. I e II, e 356, inc. I e II, do CPC/15, aduzindo a necessidade de prova pericial para aferir eventual abusividade e, se for o caso, fixar a taxa adequada.
+Contrarrazões às fls. 1291-1302 e-STJ.
+Em juízo prévio de admissibilidade (fls. 1305-1309 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 1317-1332 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 1341-1348 e-STJ.
+É o relatório.
+Decide-se.
+1. Extrai-se do acórdão proferido pela Corte de origem (fls. 828- e-STJ):
+No caso concreto, o Togado a quo entendeu que o substrato probatório era suficiente para a fo rmação do seu convencimento. Veja-se (evento 35, SENT1):
+Cabe julgar de forma antecipada o feito (art. 355, I, do CPC), pois as provas constantes dos autos são suficientes para o deslinde do feito, razão pela qual é desnecessária a dilação probatória. O juiz é o destinatário das provas (art. 370 do CPC) e é seu dever, não faculdade, anunciar o julgamento antecipado do mérito quando presentes os requisitos para tal, em respeito ao princípio da duração razoável do processo, adotado como norteador da atividade jurisdicional (art. 4º do CPC).
+E apesar de alegar a imprescindibilidade da produção probatória, a parte ré deixou de apresentar prova indiciária mínima que desse sustentáculo a sua tese de necessidade de perícia para comprovar a ausência de abusividade na taxa de juros considerando as peculiaridades do caso, como evidências das "fontes de renda do cliente", da "existência de prévio relacionamento do cliente com a instituição financeira" e da "análise do perfil de risco de crédito do tomador", fatores estes que, ao menos em tese, foram avaliados no momento da contratação e deixaram de ser exibidos nos autos.
+Assim, infundada a irresignação da parte ré, pois absolutamente viável o julgamento antecipado da lide no caso concreto, uma vez que versa a demanda sobre questão de direito e o material probatório é suficiente para o deslinde da quaestio . Ademais, sempre que possível, deve ser evitada a dilação indevida do curso do processo.
+ ..
+Não obstante, entende-se, na linha do alhures explicitado, que incumbe à instituição financeira evidenciar, na época da contratação: (i) a situação da economia; (ii) o seu custo de captação dos recursos; (iii) o risco envolvido na sua operação, incluindo o perfil de risco frente a sua carteira de clientes; (iv) o histórico de relacionamento do cliente com a instituição; (v) o perfil de risco do cliente; e (vi) que efetivamente "aplica taxas distintas para diferentes consumidores individuais" (evento 29, ANEXO3, página 9).
+Meras alegações de risco operacional decorrentes do tipo de contrato/empréstimo e do público-alvo não são suficientes para justificar diferenças exorbitantes da média anual de mercado. E, na hipótese, a instituição financeira não se desincumbiu do ônus da prova "quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor" (art. 373, II, CPC/2015), pois não apresentou provas concretas que justificassem tamanha discrepância da taxa média divulgada pelo Bacen, conforme a seguir explicitado.
+ ..
+Do cotejo das informações acima, é possível inferir que as taxas contratadas são excessivamente superiores às médias de mercado vinculadas às séries 20742 e 25464 (crédito pessoal não consignado), no respectivo período, sem que a parte ré demonstrasse, a tempo e modo, os motivos que embasam a referida disparidade - de mais de 540 (quinhentos e quarenta) pontos percentuais - da média anual de mercado.
+Válido mencionar que o pacto prevê o pagamento das parcelas do empréstimo por meio de desconto em conta-corrente e o documento exibido pela instituição financeira no evento 29, ANEXO8 para demonstrar o risco de inadimplência da parte autora leva em consideração registro posterior (de abril/2023) à formalização da avença revisanda, pactuadas em fevereiro/2019, não podendo, assim, o score de 93% (noventa e três por cento) ser considerado na análise do caso concreto.
+Além disso, a referida consulta SCPC NET data de 22-2-2024, não servido assim para evidenciar que os registros foram avaliados pela instituição financeira para a concessão dos créditos sub judice .
+Desse modo, não tendo a parte ré se desincumbido do ônus da prova "quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor" (art. 373, II, CPC/2015), descabida a sua pretensão de manter as taxas pactuadas, permanecendo mantida a limitação às taxas médias de mercado divulgadas pelo Bacen, acrescidos de 50%, conforme determinado na sentença, uma vez que a parte autora não se insurgiu no tocante.
+Registra-se, no mais, que o ônus da prova foi invertido pelo Togado originário (evento 21, DESPADEC1).  grifou-se
+Como se vê, em análise aos autos, o órgão julgador concluiu que não seria necessária a produção da prova requerida.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Nesse sentido: AgInt no AREsp n. 1.601.677/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024; AgInt no REsp n. 2.106.078/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 15/4/2024, DJe de 18/4/2024; AgInt no AREsp n. 2.486.189/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/4/2024, DJe de 17/4/2024.
+Ademais, em relação ao mérito da controvérsia, o recurso especial deixou de impugnar os fundamentos acima destacados, o que atrai o óbice da Súmula 283/STF, aplicável por analogia.
+Em semelhante sentido: AgInt no REsp n. 2.020.639/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 3/6/2024, DJe de 5/6/2024; AgInt no AREsp n. 1.796.184/PR, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 27/5/2024, DJe de 29/5/2024.
+Outrossim, rever as conclusões da Corte de origem, amparada na análise do acervo fático probatório coligido aos autos, encontra óbice na Súmula 7/STJ.
+1.1. Ademais, nos termos da reiterada jurisprudência deste STJ, a inadmissibilidade ou o exame da tese trazida a esta Corte pela alínea "a" torna prejudicado o dissídio jurisprudencial sobre a mesma matéria. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO DANOS MATERIAIS E MORAIS. ATO ILÍCITO ADMINISTRATIVO. LAVRATURA DE PROCURAÇÃO PÚBLICA. TABELIÃO DE NOTAS. PRAZO PRESCRICIONAL. ART. 206, §3º, V, DO CÓDIGO CIVIL. PRAZO TRIENAL. JURISPRUDÊNCIA DO STJ. SÚMULA 83 DO STJ. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO ANULATÓRIA. AGRAVO NÃO PROVIDO.
+ ..
+5. A incidência do enunciado da Súmula 83/STJ obsta a análise do recurso pela alínea "c", ficando prejudicado o exame do dissídio jurisprudencial, conforme sinaliza a jurisprudência do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.156.511/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 25/9/2023, DJe de 28/9/2023.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO. PACOTE TURÍSTICO E SEGURO SAÚDE PARA VIAGEM INTERNACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO SUPOSTAMENTE VIOLADO. SÚMULA 211 DO STJ. INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. É firme o entendimento desta Corte no sentido de que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial" (STJ, AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2018).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.140/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+2. Em relação à multa aplicada na origem, em razão dos aclaratórios, a parte limita-se a sustentar, genericamente, o intento prequestionador da insurgência.
+Todavia, nem sequer indica qual matéria buscava o prequestionamento, nem quais os supostos vícios existentes no acórdão. Aliás, também não arguiu ofensa ao artigo 1.022 do CPC/15 - o que indica não ter vislumbrado a existência de qualquer vício.
+Logo, não foram apresentadas razões recursais suficientes para demonstrar, sequer em tese, o cabimento dos aclaratórios opostos na origem - sendo certo que a Súmula 98/STJ não cria nova hipótese de cabimento de tal recurso.
+Incidente, portanto, o óbice da Súmula 284/STF.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Com base no art. 85, § 11, do CPC/2015, majoram-se os honorários sucumbenciais para R$ 2.000,00 (dois mil reais), em favor dos patronos da parte recorrida.
+Publique-se.
+Intimem-se.
+EMENTA
