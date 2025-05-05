@@ -1,0 +1,20 @@
+DECISÃO
+Examina-se conflito positivo de competência, com pedido liminar, suscitado por PAVIOLI S/A - MASSA FALIDA, e suscitados o JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE CANOAS - RS e o JUÍZO DA 1ª VARA DO TRABALHO DE CANOAS - RS.
+Ação em trâmite no Juízo Estadual: falência da suscitante.
+Ação em trâmite no Juízo Laboral: execução de dívida ativa nº 0020775-47.2021.5.04.0201 movida pela União.
+Conflito de competência: alega, em síntese, que o juízo onde tramita o processo falimentar é o único competente para decidir acerca do destino do patrimônio da falida. Pleiteia, liminarmente, a suspensão da decisão do juízo trabalhista, que negou a transferência de valores da falida para o processo falimentar, bem como a designação do juízo falimentar para decidir, em caráter provisório, as medidas urgentes.
+Tutela antecipada: indeferida às fls. 99/101, e-STJ, pela Presidência do STJ.
+Informações: prestadas, às fls. 112/114 e-STJ, pelo juízo suscitado, no sentido de que a falência da suscitante foi decretada no processo nº 5009791-24.2020.8.21.0008, que tramita junto ao 2º Juízo da 3ª Vara Cível de Canoas - RS, e, assim, que a recuperação judicial, que tramitou perante a Vara Regional Empresarial de Novo Hamburgo - RS, foi extinta, por litispendência.
+Parecer do MPF: opinou pelo não conhecimento do conflito de competência.
+RELATADO O PROCESSO, DECIDE-SE.
+O STJ, em atenção às alterações promovidas pela Lei 14.112/20 na Lei 11.101/05, em especial às disposições integrantes do art. 7º-A, caput e §§ 2º, 4º, V, e 6º, deste diploma legal, passou a assinalar que é necessária a instauração, pelo juízo falimentar, para cada Fazenda Pública credora, de incidente de classificação de créditos públicos - discutidos em execuções fiscais e em execuções instauradas de ofício -, sendo de rigor a suspensão dessas demandas até o encerramento da falência (CC 194.316, Segunda Seção, DJe 18/11/2024).
+Decretada a quebra do devedor, portanto, quaisquer execuções voltadas à cobrança de créditos públicos devem ficar suspensas, a fim de que o montante passe a integrar o quadro-geral de credores e os pagamentos respeitem à ordem legal de preferências (art. 83 da Lei 11.101/05).
+Na hipótese, verifica-se que o juízo trabalhista determinou o prosseguimento da cobrança de crédito público devido por sociedade falida e, ainda, a constrição de valores da devedora, de modo a invadir a esfera de competência do Juízo da Falência. Tal o quadro delineado, revela-se caracterizado o conflito de competência, razão pela qual o presente incidente merece ser acolhido.
+Forte nessas razões, CONHEÇO do conflito de competência para estabelecer a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE CANOAS - RS para deliberar acerca do pagamento dos créditos públicos apurados pelo Juízo Trabalhista e devidos pela suscitante.
+Retifique-se a autuação para fazer constar como juízo suscitado o Juízo de Direito da 3ª Vara Cível de Canoas - RS, em vez do Juízo de Direito da Vara Regional e Empresarial de Novo Hamburgo - RS.
+Publique-se. Intimem-se. Oficiem-se.
+EMENTA
+CONFLITO  DE  COMPETÊNCIA.  JUÍZO DA FALÊNCIA E JUÍZO DO TRABALHO. EXECUÇÃO DE DÍVIDA ATIVA. ART. 7º-A DA LEI 11.101/05. NECESSIDADE DE INSTAURAÇÃO DE INCIDENTE DE CLASSIFICAÇÃO DE CRÉDITO PÚBLICO. SUSPENSÃO DAS EXECUÇÕES. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Em atenção às alterações promovidas pela Lei 14.112/20 na Lei 11.101/05, em especial às disposições integrantes do art. 7º-A, caput e §§ 2º, 4º, V, e 6º, deste diploma legal, é necessária a instauração, pelo juízo falimentar, para cada Fazenda Pública credora, de incidente de classificação de créditos públicos - discutidos em execuções fiscais e em execuções instauradas de ofício -, sendo de rigor a suspensão dessas demandas até o encerramento da falência (CC 194.316/MG, Segunda Seção, DJe 18/11/2024).
+2. A execução de crédito público devido por sociedade falida nos próprios autos da ação trabalhista contra ela movida invade a esfera de competência do juízo falimentar.
+2 .  Conflito  de  competência  conhecido. Declarada a competência do JUÍZO DE DIREITO DA 3ª VARA CÍVEL DE CANOAS - RS.
