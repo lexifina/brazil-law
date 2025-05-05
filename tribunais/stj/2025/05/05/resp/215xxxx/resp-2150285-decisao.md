@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região (TRF da 4ª Região), assim ementado (e-STJ, fl. 126):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECLAMAÇÃO. INDEFERIMENTO LIMINAR. AGRAVO INTERNO. AUSÊNCIA DE ORDEM DE SUSPENSÃO DOS PROCESSOS PARALELOS ANTERIORMENTE À PROLAÇÃO DO ACÓRDÃO PROFERIDO NO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA Nº 9 (PROCESSO Nº 5050013-65.2020.4.04.0000/RS). CARÁTER RECURSAL. INADMISSIBILIDADE DA RECLAMAÇÃO.
+1. Agravo interno interposto contra decisão que inadmitiu a reclamação proposta com o objetivo de garantir a autoridade da decisão proferida no Incidente de Assunção de Competência nº 9 (processo nº 5050013-65.2020.4.04.0000/RS) em face de julgamento de agravo de instrumento que manteve a decisão interlocutória que reduziu de ofício o valor da causa originária para, então, declinar da competência da Justiça Comum para o Juizado Especial Federal.
+2. Sendo o acórdão reclamado anterior ao julgamento do Incidente de Assunção de Competência nº 9, no qual não houve determinação de suspensão pelo Relator originário dos processos paralelos que discutiam a matéria, inexistia precedente proferido em incidente de assunção de competência ao qual se devesse observância quando julgado o agravo de instrumento.
+3. Outrossim, veri ca-se que o acórdão reclamado foi atacado por recurso especial e, posteriormente, por agravo em recurso especial. Ou seja, houve recurso para discutir a mesma matéria que deu origem à presente reclamação. Nessa hipótese, o Superior Tribunal de Justiça tem vedado reclamações, já que caracterizada, de modo inequívoco, a tentativa de atribuir à ação caráter recursal.
+4. Agravo interno a que se nega provimento em face da inadmissibilidade da reclamação .
+Nas razões do recurso especial o recorrente aponta violação aos arts. 988, IV c/c 985, § 1º do CPC/2015, "uniformizando-se a tese de que a inexistência de precedente proferido em IAC ou ordem expressa de suspensão dos processos ao tempo da decisão reclamada não impede o cabimento da reclamação, desde que: a) o IAC foi suscitado antes da decisão reclamada; b) o reconhecimento da (in)competência em razão do valor da causa tem natureza de absoluta, encerrando, portanto, uma nulidade absoluta, o que é matéria de ofício; c) a reclamação foi proposta antes do trânsito e julgado da decisão reclamada." (e-STJ, fl. 141).
+Reque, por fim "seja o presente recurso admitido e provido, em razão da evidente violação dos artigos 988, IV c/c 985, § 1º do CPC/2015, uniformizando-se a tese de que a inexistência de precedente proferido em IAC ou ordem expressa de suspensão dos processos ao tempo da decisão reclamada não impede o cabimento da reclamação, desde que: a) o IAC foi suscitado antes da decisão reclamada; b) o reconhecimento da (in)competência em razão do valor da causa tem natureza de absoluta, encerrando, portanto, uma nulidade absoluta, o que é matéria de ofício; c) a reclamação foi proposta antes do trânsito e julgado da decisão reclamada." (e-STJ fl. 149; grifo no original)
+Sem contrarrazões.
+Juízo positivo de admissibilidade às e-STJ, fls. 159-160.
+É o relatório. Passo a decidir.
+Inicialmente, consigna-se que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do CPC nele estabelecido".
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Quanto à controvérsia, o tribunal de origem indeferiu liminarmente a Reclamação, sob o fundamento de que a decisão reclamada foi proferida antes da publicação da decisão no IRDR, razão pela qual não havia, naquela ocasião, precedente proferido em incidente de assunção de competência ao qual se devesse observância obrigatória, conforme consignado no acórdão recorrido (e-STJ, fl. 123-125. Grifos acrescidos):
+A reclamação é cabível nas hipóteses previstas no art. 988 do CPC, que são taxativas e visam a evitar a banalização de seu uso como sucedâneo recursal:
+ ..
+A presente reclamação não se enquadra em quaisquer desses casos do art. 988 do CPC.
+Isso porque, no âmbito do Incidente de Assunção de Competência nº 5050013-65.2020.4.04.0000, não houve determinação pelo Relator originário de suspensão dos processos que discutem a matéria afetada.
+Desse modo, a avaliação quanto à conveniência de se suspender o processo subjacente para aguardar julgamento do IAC incumbiria ao juízo da causa, já que ausente qualquer determinação geral que pudesse ser imposta àquele juízo nesta via da reclamação.
+O julgamento reclamado, por sua vez, é anterior ao julgamento do Incidente de Assunção de Competência nº 5050013-65.2020.4.04.0000/RS, realizado em 22-02-2023.
+Ou seja, quando julgado o agravo de instrumento (em 08-09-2022), não havia precedente proferido em incidente de assunção de competência ao qual se devesse observância.
+Ressalta-se que a reclamação não é meio substitutivo dos recursos cabíveis para impugnar as decisões. Para se admitir a reclamação, era necessário que houvesse um precedente vinculante no âmbito da 3ª Seção ou dos tribunais superiores ou uma ordem expressa de suspensão dos processos a impedir que tivesse sido proferido o julgamento ora reclamado.
+Na ausência de tais situações, não é cabível a reclamação.
+ ..
+De mais a mais, compulsando os autos do processo originário, veri ca-se que o acórdão reclamado efetivamente foi atacado por recurso especial e, posteriormente, por agravo em recurso especial. Ou seja, houve recurso pendente para discutir a mesma matéria que deu origem à presente reclamação. Nessa hipótese, o Superior Tribunal de Justiça tem vedado reclamações, já que caracterizada, de modo inequívoco, a tentativa de atribuir à ação caráter recursal (AgInt na Rcl n. 35.025/RS, Relator Ministro Jorge Mussi, Terceira Seção, julgado em 22/5/2019, DJe de 5/6/2019).
+Nas razões do Recurso Especial, tal fundamentação não foi especificamente refutada, implicando a inadmissibilidade do recurso, uma vez que a falta de impugnação a fundamento suficiente à manutenção do acórdão recorrido atrai a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTO DA CORTE DE ORIGEM NÃO ATACADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. PROVIMENTO NEGADO.
+1. Não se conhece de recurso especial que não rebate fundamento autônomo e suficiente à manutenção do acórdão proferido, incidindo na espécie, por analogia, o óbice da Súmula 283 do Supremo Tribunal Federal (STF).
+ ..
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.946.896/SP, rel. Min. Paulo Sérgio Domingues, Primeira Turma, DJe de 2/9/2024).
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO. RECURSO ESPECIAL DE QUE NÃO SE CONHECEU. INDEFERIMENTO DA PETIÇÃO INICIAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO JULGADO. SÚMULA 283 DO STF. NECESSIDADE DE REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O parquet estadual se atém à questão da competência, sem refutar os dois argumentos que têm o condão de, por si sós, manter o teor decidido, porque afastam a materialidade (conforme assevera a Corte Estadual, a conduta imputada ao réu não apresenta indício de favorecimento da empresa) e o elemento anímico (nos termos decididos pelo Tribunal de origem, o autor da Ação não descreve conduta que potencialmente indicaria a presença de dolo dos acusados). Sendo assim, inafastável o Enunciado 283 da Súmula do STF (AgInt no REsp n. 2.005.884/MG, rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 14/11/2022).
+ ..
+7. Agravo Interno não provido. (AgInt no AREsp n. 2.094.865/RS, rel. Min. Herman Benjamin, Segunda Turma, DJe de 22/8/2024).
+Quanto à alegação de que a redução do valor da causa implica exame antecipado do mérito da ação, verifico que a insurgência carece de prequestionamento, porquanto não analisada pela Corte de origem.
+Com efeito, o requisito do prequestionamento pressupõe o prévio debate da questão, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos apontados como violados, e, no caso, não foi examinada, ainda que implicitamente, a alegação concernente ao art. 292, V, do Código de Processo Civil, o que atrai a incidência, por analogia, da Súmula n. 282 do STF.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OFENSA. ALEGAÇÃO GENÉRICA. PREQUESTIONAMENTO. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. EXPEDIÇÃO DE RPV/PRECATÓRIO. IMPOSSIBILIDADE.
+ ..
+2. Não enfrentada no julgado impugnado tese referente ao artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir o óbice da Súmula 282 do STF.
+ ..
+4. Agravo interno desprovido. (AgInt no REsp n. 2.144.926/DF, rel. Min. Gurgel de Faria, Primeira Turma, DJe de 27/9/2024).
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IRPJ. CSLL. APURAÇÃO DE 8% E 12% SOBRE A RECEITA BRUTA. SOCIEDADE MÉDICA. SERVIÇOS HOSPITALARES. SERVIÇOS PRESTADOS EM AMBIENTE DE TERCEIROS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. AUSÊNCIA DE PREQUESTIONAMENTO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. TEMA N. 217/STJ. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO.
+ ..
+IV - De início, com relação à alegada violação dos arts. 942 e 1.000 do CPC, entendo que a matéria não foi suficientemente debatida no Tribunal de origem, não sendo observado o requisito de prequestionamento na interposição do recurso especial, deficiência recursal que atrai a aplicação das Súmulas n. 211 do STJ e ns. 282 e 356 do STF.
+ ..
+X - Agravo interno improvido. (AgInt no REsp n. 2.072.662/SC, rel. Min. Francisco Falcão, Segunda Turma, DJe de 2/10/2024).
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. RECLAMAÇÃO. INDEFERIMENTO LIMINAR. AUSÊNCIA DE ORDEM DE SUSPENSÃO DOS PROCESSOS PARALELOS ANTERIORMENTE À PROLAÇÃO DO ACÓRDÃO PROFERIDO NO IAC Nº 9. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. ART. 292, V, DO CPC E TESE RELACIONADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RECURSO NÃO CONHECIDO.
