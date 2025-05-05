@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de SILVIO ROGERIO FERREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que o Juízo da execução criminal concedeu a substituição do recolhimento do paciente em unidade prisional pela prisão domiciliar com monitoramento eletrônico.
+O Ministério Público interpôs agravo perante as instâncias de origem, o qual foi provido para afastar a prisão domiciliar e, por consequência, determinar o encaminhamento do apenado à unidade prisional compatível com o regime semiaberto.
+A impetrante aponta a ausência de fundamentação idônea para afastar a prisão domiciliar, uma vez que o Tribunal de origem teria indeferido o benefício com base na gravidade abstrata do delito e no tempo de pena a cumprir, em ofensa à Súmula Vinculante n. 56.
+Requer, liminarmente e no mérito, que seja concedida a prisão domiciliar com monitoramento eletrônico em favor do paciente.
+A liminar foi indeferida (fl. 67). Vieram informações prestadas pela origem (fls. 75-90 e 98-104) e manifestação do Ministério Público Federal opinando pela denegação da ordem (fls. 106-109).
+É o relatório.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se a respeito os seguintes julgados: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Ademais, no caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Conforme já apontado na decisão que indeferiu a liminar, a leitura do acórdão prolatado pelo Tribunal de origem revela que foram expressamente indicados os motivos para a solução adotada para o caso. Confira-se (fls. 67-68):
+Acontece que, logo no início do cumprimento da pena, Sílvio Rogério Ferreira foi beneficiado, de pronto, com a substituição do recolhimento em unidade prisional pela prisão domiciliar com monitoramento eletrônico, não tendo sequer iniciado o cumprimento da reprimenda no regime semiaberto. Adicione-se que o agravado foi condenado pela prática de crime que contém em seu tipo penal violência.
+Dessa forma, há nítida quebra da isonomia em relação aos demais apenados que já estavam cumprindo pena no mesmo regime, além de esvaziar a finalidade ressocializadora da pena, já que sequer foram fixadas penas restritivas de direitos e nem determinada a necessidade de estudo.
+Além disso, o reeducando, reitere-se, sequer iniciou o cumprimento de sua pena na unidade prisional devida, como se pode ver no seu atestado de pena (ID 37219458 - p. 2), sendo imediatamente agraciado com a prisão domiciliar, o que não é razoável.
+Outrossim, como bem destacado pelo agravante, para que haja o deferimento da prisão domiciliar, creio ser necessária uma prévia verificação, numa relação dos detentos (a ser confeccionada pela unidade prisional onde o agravado deverá ser recolhido), inclusive para que se observe a ordem de reeducandos que já cumpriram parcela satisfatória da pena no regime pertinente, respeitada a relação tempo de condenação vs. tempo de pena cumprida.
+Com essas considerações, entendo que, neste momento, a prisão domiciliar, de fato, não se mostra recomendável, razão pela qual deve ser reformada a decisão ora atacada para afastar a prisão domiciliar, com o consequente encaminhamento do agravado à unidade prisional compatível com o regime semiaberto.
+Como é possível observar, verifica-se que não há manifesta ilegalidade a ser sanada, pois o acórdão impugnado, em consonância com a jurisprudência desta Corte Superior, considerou não ser cabível a prisão domiciliar diante da prática de crime com violência por condenado a regime semiaberto, que nem sequer deu início ao cumprimento da pena.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
