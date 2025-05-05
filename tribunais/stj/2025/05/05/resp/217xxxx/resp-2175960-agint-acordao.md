@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CANCELAMENTO DE HIPOTECA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ARBITRAMENTO. CRITÉRIO. EQUIDADE.
+1. Ação de obrigação de fazer, visando à declaração de cancelamento de hipoteca.
+2. Com relação ao critério de fixação dos honorários, a Terceira Turma tem decidido que, "nas ações mandamentais em que ausente proveito econômico auferível ou mensurável, e quando o valor da causa não refletir o benefício devido, deverá ser aplicado o critério subsidiário da equidade. É o que ocorre na ação de ob rigação de fazer consistente na baixa de gravame hipotecário, porquanto não se pode vincular o sucesso da pretensão ao valor do imóvel." (REsp 2.092.798/DF, julgado em 5/3/2024, DJe de 7/3/2024).
+3. Agravo interno não provido.
+RELATÓRIO
+Examina-se agravo interno interposto por BRAGA DIAS PROCÓPIO ADVOGADOS em face da decisão monocrática que conheceu e negou provimento ao recurso especial que interpusera.
+Ação: de obrigação de fazer, ajuizada pelo agravante em face da CAIXA ECONÔMICA FEDERAL, visando à declaração de cancelamento de hipoteca.
+Sentença: julgou procedente o pedido inicial para declarar a ineficácia das hipotecas averbadas em favor da CEF junto às matrículas dos apartamentos 108 do Bloco B, 108 do Bloco D, 311 do Bloco D, e 401 do Bloco D, do Condomínio Residencial Mirante Lima e Silva. Condenou, ainda, a parte ré ao pagamento de honorários advocatícios, estes arbitrados em R$ 3.000,00 (três mil reais), dada a baixa complexidade da demanda e considerando que a condenação (baixa da hipoteca) não tem conteúdo econômico aferível, vez que não se confunde com o valor dos imóveis, já que não se discute a validade do contrato em si.
+Acórdão: negou provimento ao recurso de apelação interposto pelo agravante, nos termos da seguinte ementa:
+CIVIL. PROCESSO CIVIL. APELAÇÃO. INEFICÁCIA DAS HIPOTECAS AVERBADAS EM FAVOR DA CAIXA. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA RAZOABILIDADE. SENTENÇA MANTIDA.
+1. Trata-se de apelação interposta em face da sentença proferida pelo Juízo Federal da 4ª Vara da Seção Judiciária do RN, que julgou procedente o pedido para declarar a ineficácia das hipotecas averbadas em favor da Caixa junto às matrículas dos apartamentos 108 do Bloco B, 108 do Bloco D, 311 do Bloco D, e 401 do Bloco D, do Condomínio Residencial Mirante Lima e Silva e, ainda, condeno a demandada ao pagamento de honorários advocatícios, que arbitrou em R$ 3.000,00 (três mil reais), dada a baixa complexidade da demanda e considerando que a condenação (baixa da hipoteca) não tem conteúdo econômico aferível, vez que não se confunde com o valor dos imóveis, já que não se discute a validade do contrato em si.
+2. Quanto à sucumbência, de acordo com o §2º do art. 85 do CPC/2015, os honorários serão fixados sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+3. Ocorre que, no caso dos autos, a aplicação desses dispositivos levaria a uma condenação em valor exacerbado, incompatível com os próprios critérios estabelecidos nos incisos do art. 85, §2º, do CPC/2015, tendo em vista a baixa complexidade da demanda e considerando que a condenação (baixa da hipoteca) não tem conteúdo econômico aferível, vez que não se confunde com o valor dos imóveis, já que não se discute a validade do contrato em si.
+4. Pelo princípio da razoabilidade, inserto no artigo 8º do CPC, aplico por analogia o disposto no art. 85, §8º, do mesmo diploma legal, razão pela qual ratifico o que já foi arbitrado pelo juízo de primeiro grau em favor da parte autora.
+5. Apelação improvida.
+Recurso especial: aponta violação ao art. 85, § 2º, do CPC, além de dissídio jurisprudencial.
+Sustenta, em síntese, que: i) os honorários de sucumbência devem ser fixados observando o percentual mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento), sobre o valor da condenação, do proveito econômico obtido, ou, não sendo possível mensurá-lo, do valor da causa; ii) estamos diante de uma demanda onde existe um claro e estimável valor patrimonial atribuído à causa; e iii) não há motivação para a fixação da referida verba por equidade.
+Decisão monocrática: conheceu e negou provimento ao recurso especial interposto pelo agravante, nos termos da seguinte ementa (e-STJ fl. 736):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CANCELAMENTO DE HIPOTECA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ARBITRAMENTO. CRITÉRIO. EQUIDADE.
+1. Ação de obrigação de fazer, visando à declaração de cancelamento de hipoteca.
+2. Com relação ao critério de fixação dos honorários, a Terceira Turma tem decidido que, "nas ações mandamentais em que ausente proveito econômico auferível ou mensurável, e quando o valor da causa não refletir o benefício devido, deverá ser aplicado o critério subsidiário da equidade. É o que ocorre na ação de obrigação de fazer consistente na baixa de gravame hipotecário, porquanto não se pode vincular o sucesso da pretensão ao valor do imóvel." (REsp 2.092.798/DF, julgado em 5/3/2024, DJe de 7/3/2024).
+3. Recurso especial conhecido e não provido.
+Agravo interno: nas razões do presente recurso, o agravante afirma que não há entendimento dominante acerca da matéria e que não se está diante das hipóteses de apreciação equitativa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. CANCELAMENTO DE HIPOTECA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ARBITRAMENTO. CRITÉRIO. EQUIDADE.
+1. Ação de obrigação de fazer, visando à declaração de cancelamento de hipoteca.
+2. Com relação ao critério de fixação dos honorários, a Terceira Turma tem decidido que, "nas ações mandamentais em que ausente proveito econômico auferível ou mensurável, e quando o valor da causa não refletir o benefício devido, deverá ser aplicado o critério subsidiário da equidade. É o que ocorre na ação de ob rigação de fazer consistente na baixa de gravame hipotecário, porquanto não se pode vincular o sucesso da pretensão ao valor do imóvel." (REsp 2.092.798/DF, julgado em 5/3/2024, DJe de 7/3/2024).
+3. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento apto a modificar as conclusões da decisão agravada.
+Com efeito, conforme consignado na decisão agravada, segundo o entendimento da Terceira Turma deste Tribunal Superior, "Nas ações mandamentais em que ausente proveito econômico auferível ou mensurável, e quando o valor da causa não refletir o benefício devido, deverá ser aplicado o critério subsidiário da equidade. É o que ocorre na ação de obrigação de fazer consistente na baixa de gravame hipotecário, porquanto não se pode vincular o sucesso da pretensão ao valor do imóvel." (REsp 2.092.798/DF, Terceira Turma, julgado em 5/3/2024, DJe de 7/3/2024). No mesmo sentido: AgInt no AREsp 2.324.749/SC, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.
+No particular, o Tribunal de origem, ao manter os honorários sucumbenciais fixados na sentença, concluiu o seguinte:
+"Quanto à sucumbência, de acordo com o §2º do art. 85 do CPC/2015, os honorários serão fixados sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Ocorre que, no caso dos autos, a aplicação desses dispositivos levaria a uma condenação em valor exacerbado, incompatível com os próprios critérios estabelecidos nos incisos do art. 85, §2º, do CPC/2015, tendo em vista a baixa complexidade da demanda e considerando que a condenação (baixa da hipoteca) não tem conteúdo econômico aferível, vez que não se confunde com o valor dos imóveis, já que não se discute a validade do contrato em si.
+Sendo assim, pelo princípio da razoabilidade, inserto no artigo 8º do CPC, aplico por analogia o disposto no art. 85, §8º, do mesmo diploma legal, razão pela qual ratifico o que já foi arbitrado pelo juízo de primeiro grau em favor da parte autora." (e-STJ fl. 292)
+O acórdão do TJ/RN, portanto, no que se refere ao critério de fixação dos honorários, encontra-se em consonância com a jurisprudência desta Corte Superior, não merecendo ser reformado, sendo, pois, inafastável a incidência da Súmula 568 do STJ.
+Não há, portanto, qualquer reparo a ser feito na decisão agravada.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
