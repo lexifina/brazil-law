@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração em recurso especial interposto por MARCIA BERNADO CAMPOS contra decisão de minha lavra assim ementada (fls. 254-258):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. LIMITE TEMPORAL ATÉ A IMPETRAÇÃO DO MANDADO DE SEGURANÇA N. 7.253/97. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. LEI DISTRITAL N. 2.944/2002. SÚMULA N. 280 DO STF. RECURSO ESPECIAL CONHECIDO PARCIALMENTE E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
+Nas razões dos aclaratórios, a parte embargante sustenta que (fls. 264-265):
+Com efeito, o e. relator não apreciou o fundamento apresentado no apelo especial quanto ao afastamento da multa prevista no art. 1026, §2º, do CPC, dispositivo este que restou violado pelo acórdão recorrido em razão de sua má aplicação na espécie. Confira-se o respectivo fundamento:
+"Por outro lado, conforme anteriormente narrado, rejeitados os aclaratórios, os julgadores houveram por bem aplicar a multa de 2% prevista no art. 1.026, §2º, do CPC, sob o entendimento de que os referidos embargos possuíam efeitos meramente protelatórios.
+Ocorre, entretanto, que tal condenação não merece ser mantida, pois o meio processual utilizado pelo recorrente foi adequado e necessário para o prequestionamento dos referidos dispositivos objetos do presente recurso especial, não havendo falar em qualquer protelação, conforme erroneamente entendeu o Tribunal a quo.
+Destarte, é notório que o entendimento sumulado por essa Corte deve ser aplicado ao presente caso, haja vista que, vale repetir, os embargos opostos tinham nítido intuito de prequestionar matéria ventilada por esse recurso. Vejamos:
+"Súmula n. 98: Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório."
+No mesmo sentido, a decisão proferida no julgamento do REsp 1764919/SP, onde restou placitada a compreensão de que havendo vício ou omissão que justifique a interposição dos aclaratórios, não há falar em incidência da referida multa  .. .
+Ao final, requer que seja sanada a omissão.
+Apresentada impugnação às fls. 272-275.
+É o relatório.
+Decido.
+Merece acolhida, pois constatada a omissão na decisão embargada.
+Verifica-se que esbarra no óbice da Súmula n. 7 do STJ o pedido de afastamento da multa aplicada com base no art. 1026, § 2º, do CPC, pois eventual análise do caráter protelatório dos embargos também exige o reexame do conjunto fático dos autos.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+3. O acórdão recorrido amolda-se ao entendimento desta Corte Superior, segundo o qual a reiteração dos argumentos já repelidos em acórdão anterior configura o caráter protelatório a ensejar a aplicação da multa do art. 1026, §2º, do CPC/15.
+3.1.O Tribunal estadual, soberano no exame do acervo fático-probatório dos autos, entendeu pelo evidente intuito protelatório dos embargos de declaração, razão pela qual a pretensão de afastamento da multa prevista no art. 1.026, § 2º, do CPC de 2015 encontra óbice na Súmula 7 desta Corte.
+4. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 1.950.462/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/2/2022, DJe de 24/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. INDISPONIBILIDADE DE BENS VIA CNIB. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. MULTA POR EMBARGOS PROTELATÓRIOS. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTES. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO.
+REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As matérias referentes aos arts. 1º; 4º; 6º e 797 do CPC, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211 do STJ).
+2. Ressalta-se, ainda, que o STJ não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 com a respectiva demonstração de um dos vícios elencados no referido artigo, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. A Corte local entendeu pela aplicação da multa do art. 1.026, § 2º, do CPC, pois os embargos declaratórios opostos pela ora agravante buscaram, em verdade, protelar o desfecho final da demanda. A análise da alegada ausência do intuito protelatório dos embargos de declaração, demanda o reexame do conjunto fático dos autos, providência que esbarra no óbice da Súmula 7/STJ.
+4. A jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual. Com efeito, a indisponibilidade de bens via CNIB é medida excepcional e contraproducente, pois não garante a satisfação do crédito, cabendo ao recorrente buscar outros meios de localização de bens ao seu dispor, mais eficazes à satisfação do seu crédito e menos gravosos ao devedor.
+5. Além disso, a revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+6. Agravo interno não provido. (AgInt no AREsp n. 2.036.419/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+Ante o exposto, ACOLHO os embargos de declaração, sem efeitos modificativos.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. APLICAÇÃO DE MULTA EM DECORRÊNCIA DE OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS DE CARÁTER PROTELATÓRIO. ART. 1026, §2º, DO CPC, NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. PRECEDENTES. EMBARGOS DECLARATÓRIOS ACOLHIDOS.
