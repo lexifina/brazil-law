@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fls. 2.493-2.494):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 10 DA LIA. DANO EFETIVO AO ERÁRIO. NECESSIDADE. ALTERAÇÃO LEGAL EXPRESSA. PRECEDENTES.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Hipótese em que o Tribunal de origem encontra-se em consonância com a orientação firmada por esta Corte Superior no sentido de que a atual redação do art. 10 da LIA, com as alterações advindas da Lei 14.230/2021, passou a exigir a comprovação da perda patrimonial efetiva para a configuração do ato ímprobo. A propósito: EREsp n. 1.288.585/RJ, relator Ministro Teodoro Silva Santos, Primeira Seção, DJEN de 4/12/2024; EDcl no AgInt nos EAREsp n. 954.237/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Seção, DJe de 21/10/2024; REsp n. 1.929.685/TO, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/9/2024; REsp n. 2.061.719/TO, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe de 2/9/2024.
+3. Agravo interno não provido.
+O embargante sustenta, em síntese, contradição na decisão ora impugnada, vez que a inexistência de dano efetivo não é sinônimo de ausência de dívida pelos serviços prestados e não pagos. Assevera não haver preclusão do pedido subsidiário de subsunção da conduta ao inciso V do art. 11 da NLIA.
+Argumenta que houve fraude ao processo licitatório, vez que não se efetuou aditamento ao contrato inicial e nem se procedeu a nova licitação para a contratação da empresa.
+Alfim, requer (e-STJ, fl. 2.519):
+"o acolhimento dos presentes embargos de declaração para eliminar a contradição apontadas, e com isso, após a correta fundamentação, conceder-lhes efeitos infringentes, para: a) reconhecer a existência do dano, consubstanciado no ilegal reconhecimento do débito no valor e R$ 2.371.738,47 em favor da Shain Engenharia SA por parte do embargado Hélio de Oliveira Santos, cujo título manter-se-á apto a ser cobrado com a improcedência da ação, b) subsidiariamente, do total consignado no reconhecimento do débito, reconhecer o dano, conforme laudo elaborado pelo CAEX, que indicou R$ 537.997,47, sendo R$ 280.575,45 relativos a alguns produtos/itens já cobrados no contrato licitado, R$ 152.762,07 a título de BDI (Budget Difference Income) do primeiro grupo e R$ 80.197,90 referentes ao segundo grupo (gases medicinais), c) subsidiariamente, conformar os fatos à figura do inciso V, do artigo 11, da Lei de Improbidade Administrativa e reconhecendo que a inexistência de dano não implica em ausência de prejuízo".
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado decidiu a controvérsia ao assentar: (a) a consonância do acórdão a quo com a orientação firmada por esta Corte Superior no AgInt no REsp n. 1.929.685 e no AgInt no REsp n. 2.061.719/TO, no sentido de que "A atual redação do art. 10 da LIA, com as alterações advindas da Lei 14.230/2021, passou a exigir a comprovação da perda patrimonial efetiva para a configuração da improbidade administrativa. O Supremo Tribunal Federal, quando do exame do Tema 1.199, pacificou a orientação de que " a  nova Lei 14.230/2021 aplica-se aos atos de improbidade administrativa culposos praticados na vigência do texto anterior da lei, porém sem condenação transitada em julgado, em virtude da revogação expressa do texto anterior; devendo o juízo competente analisar eventual dolo por parte do agente". O silogismo aplicável ao elemento subjetivo da conduta em tudo se aplica ao elemento objetivo- normativo considerando-se a máxima "Ubi eadem ratio, ibi idem jus"; e (b) inovação recursal no tocante ao pedido subsidiário de subsunção da conduta em comento ao inciso V do art. 11 da NLIA.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
