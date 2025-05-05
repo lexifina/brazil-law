@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO COM APOIO NA SÚMULA 83 DO STJ. AUSÊNCIA DE ALEGAÇÃO DE ERRO NA APLICAÇÃO DO ÓBICE SUMULAR E DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR AO ADOTADO PARA A INADMISSÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Utilizada a Súmula 83 do STJ como fundamento para inadmissão do especial, deve a parte demonstrar eventual equívoco, com a indicação de decisões contemporâneas ou posteriores em sentido contrário. Precedentes.
+3. No caso dos autos, não se pode conhecer do Agravo em Recurso Especial, pois, em suas razões, não há impugnação específica à Súmula 83 do STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por ARNS DE OLIVEIRA SOCIEDADE INDIVIDUAL DE ADVOCACIA e ANDREAZZA, OTSUKA E BOTELHO ADVOGADOS ASSOCIADOS contra decisão que, ante a ausência de impugnação específica ao fundamento adotado para a inadmissão do especial, não conheceu do Agravo em Recurso Especial.
+As partes agravantes sustentam, em síntese (fls. 473/479):
+No recurso especial interposto, sustentaram de forma robusta a existência de divergência entre o acórdão recorrido e o entendimento consolidado desta Colenda Corte no Tema 1.076, julgado sob o rito dos recursos repetitivos. Nesse precedente vinculante, o STJ fixou a impossibilidade de arbitramento equitativo de honorários advocatícios em situações em que o valor da causa é líquido, certo e não inestimável ou irrisório  ..  ao contrário do que afirma a decisão recorrida, as Agravantes expuseram claramente o equívoco na aplicação da Súmula 83 do STJ.
+Sem impugnação pela parte agravada (fl. 483).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSÃO COM APOIO NA SÚMULA 83 DO STJ. AUSÊNCIA DE ALEGAÇÃO DE ERRO NA APLICAÇÃO DO ÓBICE SUMULAR E DE INDICAÇÃO DE PRECEDENTE CONTEMPORÂNEO OU POSTERIOR AO ADOTADO PARA A INADMISSÃO. INADMISSIBILIDADE.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Utilizada a Súmula 83 do STJ como fundamento para inadmissão do especial, deve a parte demonstrar eventual equívoco, com a indicação de decisões contemporâneas ou posteriores em sentido contrário. Precedentes.
+3. No caso dos autos, não se pode conhecer do Agravo em Recurso Especial, pois, em suas razões, não há impugnação específica à Súmula 83 do STJ.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 - CPC/2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois insuperável o óbice ao conhecimento do recurso.
+Como consta na decisão monocrática, as partes interpuseram recurso especial contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no qual alegam violação do art. 85, § 3º, e 927 do Código de Processo Civil - CPC/2015, discutindo o arbitramento dos honorários advocatícios de sucumbência, mediante juízo equitativo, na hipótese em que a execução fiscal é extinta em razão do cancelamento administrativo do título executivo.
+Não obstante, o recurso não foi admitido porque seu conhecimento encontraria óbice na Súmulas 83 do STJ, tendo em vista o entendimento jurisprudencial deste Tribunal Superior, segundo o qual, "em se tratando de extinção da execução com fundamento no disposto no art. 26 da LEF, em razão do cancelamento administrativo da CDA, e não da defesa propriamente dita, o entendimento desta Corte Superior é no sentido de que o precedente qualificado formado no julgamento do Tema Repetitivo n. 1.076/STJ, que analisou as regras do art. 85 do CPC/2015, não contempla a referida hipótese da Lei de Execução Fiscal, norma especial em relação às regras gerais do CPC/2015 - o que justifica a distinção" (AgInt no REsp n. 2.088.330/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/4/2024, DJe de 7/5/2024).
+Entretanto, nas razões do Agravo em Recurso Especial, as partes agravantes se limitam à tese de não observância da tese firmada pela Primeira Seção, REsp 1.850.512/SP (tema 1076).
+Nesse cenário, o Agravo em Recurso Especial não pode mesmo ser conhecido, pois, utilizada a Súmula 83 do STJ como premissa para inadmissão do especial, deve a parte demonstrar eventual equívoco com a indicação de decisões contemporâneas ou posteriores em sentido contrário, o que não foi feito.
+A respeito: AgInt no AREsp n. 2.336.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 2/10/2023, DJe de 4/10/2023; AgInt nos EDcl no AREsp n. 1.842.229/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 2/5/2023, DJe de 11/5/2023; AgInt no AREsp n. 2.190.005/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 29/5/2023, DJe de 26/6/2023; AgInt nos EDcl no AREsp n. 2.271.129/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2023, DJe de 17/5/2023; AgInt no AREsp n. 1.902.574/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 28/3/2022, DJe de 4/4/2022.
+No contexto, portanto, deve ser mantida a decisão agravada.
+De toda sorte, cumpre destacar à parte recorrente o pacífico entendimento jurisprudencial deste Tribunal Superior, segundo o qual "o cancelamento administrativo da Certidão de Dívida Ativa, após o ajuizamento da execução fiscal, nas hipóteses em que permite a condenação da parte exequente nos ônus de sucumbência, implica no arbitramento de honorários advocatícios com apoio no art. 85, § 8º, do Código de Processo Civil - CPC/2015" (AgInt no REsp n. 2.159.981/ES, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/11/2024, DJe de 14/11/2024).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
