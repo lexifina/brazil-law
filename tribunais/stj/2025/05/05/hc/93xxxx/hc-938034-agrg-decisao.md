@@ -1,0 +1,20 @@
+DECISÃO
+MARCELO RIOS MAXIMIANO agrava da decisão de fls. 90-91, em que não conheci do habeas corpus.
+Em suas razões, a defesa sustenta que "a impetração dentro do prazo recursal não deve ser vista como obstáculo ao conhecimento do habeas corpus substitutivo" (fl. 104).
+Requer a reconsideração da decisão impugnada ou a submissão do feito à turma julgadora.
+Decido.
+O acórdão impugnado foi publicado em 5/8/2024. O presente habeas corpus foi impetrado em 16/8/2024 e o agravo em execução somente transitou em julgado em 4/9/2024. Na espécie, a defesa não interpôs o recurso especial, preferindo a utilização do writ, em substituição aos recursos ordinariamente previstos no ordenamento jurídico, razão pela qual reconsidero a decisão agravada e passo a analisar o pedido.
+A defesa pretende a concessão de indulto ao paciente, pois reputa preenchidos os requisitos exigidos pelo Decreto Presidencial n. 11.846/2023.
+O Tribunal de origem, ao cassar a decisão que concedeu indulto ao reeducando, consignou que "não há como permitir a extinção da punibilidade pelo indulto, em relação à condenação dos autos n. 0000802-31.2017.8.24.0075, porque não resgatada ao menos a fração de 1/4 exigida em lei para a concessão da benesse" (fl. 13, grifei).
+A questão a ser dirimida no presente writ é definir se o paciente haveria cumprido, em 25/12/2023, 2/3 das penas impostas referentes aos delitos hediondos ou equiparados (impeditivos) e 1/4 das reprimendas relacionadas aos crimes não impeditivos.
+É imperioso assinalar que, "" a  jurisprudência desta Corte é no sentido de que "para a análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC HC 456.119/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 15/10/2018). (HC 468.737/RS, Rel. Ministra LAURITA VAZ, Sexta Turma, Dje 10/04/2019)" (AgRg no HC 623.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 01/03/2021)" (AgRg no REsp n. 1.960.472/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 16/12/2021).
+Nos termos do art. 3º do Decreto n. 11.846/2023:
+Concede-se a comutação da pena remanescente, aferida em 25 de dezembro de 2023, de um quarto, se não reincidentes, e de um quinto, se reincidentes, às pessoas condenadas a pena privativa de liberdade, não beneficiadas com a suspensão condicional da pena e que até a referida data tenham cumprido um quinto da pena, se não reincidentes, ou um quarto da pena, se reincidentes, e que não preencham os requisitos estabelecidos neste Decreto para receber o indulto.
+Por sua vez, o art. 9º da referida legislação dispõe:
+Art. 9º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023.
+Parágrafo único. Na hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios.
+A despeito de a defesa afirmar que já haveria cumprido 2/3 da pena referente ao delito impeditivo, a Corte de origem afirmou que, independentemente do adimplemento deste requisito, não preencheria a exigência de cumprimento de 1/4 da pena referente ao delito não impeditivos, porquanto nem sequer havia iniciado, na data mencionada, o cumprimento das reprimendas impostas na Ação Penal n. 0000802-31.2017.8.24.0075.
+Pela análise dos documentos anexados a estes autos, não é possível desconstituir a conclusão a que chegou o Tribunal estadual, uma vez que não há a especificação do quantum das penas impostas nas condenações em desfavor do paciente haveria sido cumprido até 25/12/2023.
+À vista do exposto, reconsidero a decisão de fls. 90-91 e denego o habeas corpus.
+Publique-se e intimem-se.
+EMENTA
