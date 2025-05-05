@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por AGROPECUÁRIA NOSSA SENHORA DO CARMO S.A. - EM RECUPERAÇÃO JUDICIAL E OUTROS, em face de decisão que não admitiu recurso especial (fls. 328-333, e-STJ).
+O apelo nobre, de sua vez, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 267-275, e-STJ):
+APELAÇÃO RESPONSABILIDADE CIVIL ACIDENTE DE TRÂNSITO CERCEAMENTO DE DEFESA INOCORRÊNCIA COLISÃO EM TREVO DA RODOVIA MOTOCICLISTA QUE TRAFEGAVA EM VIA PRINCIPAL INOBSERVÂNCIA DA PREFERÊNCIA DE PASSAGEM PELO CONDUTOR DO ÔNIBUS PAGAMENTO PELO REPARO DA MOTOCICLETA CONFISSÃO EXTRAJUDICIAL DE CULPA DANOS MATERIAIS E MORAIS COMPROVADOS BASE DE CÁLCULO DA PENSÃO VITALÍCIA RENDA AUFERIDA PELA VÍTIMA À ÉPOCA DO ACIDENTE PAGAMENTO DAS PARCELAS VINCENDAS PARCELA ÚNICA POSSIBILIDADE 1. Em acidente de trânsito ocorrido em cruzamento de rodovia, o condutor que invade a via preferencial, sem observar o fluxo de veículos, age com manifesta imprudência, máxime se não demonstrada conduta culposa do outro motorista. - 2. Ausência de provas da suposta velocidade excessiva do motociclista. - 3. Danos materiais comprovados, decorrentes da gravidade do acidente, que deixou sequelas permanentes, com redução de sua capacidade laborativa em 35%. 4. Possibilidade de pagamento da pensão vitalícia em parcela única, conforme previsão legal. 5. Motociclista que se encontrava empregado à época do sinistro, devendo sua remuneração servir de base de cálculo da pensão. - 6. Danos morais fixados em R$20.000,00. Valor adequado e proporcional à realidade socioeconômica das partes. Sentença parcialmente reformada NEGARAM PROVIMENTO AO RECURSO DOS RÉUS E DERAM PARCIAL PROVIMENTO AO RECURSO DO AUTOR.
+Opostos embargos de declaração, esses foram rejeitados (fls. 293-295, e-STJ).
+Nas razões do recurso especial (fls. 298-304, e-STJ), os recorrentes apontam violação aos seguintes artigos:
+(i) 220, IV, do CTB, pois o acidente decorreu de culpa exclusiva da parte adversa;
+Contrarrazões às fls. 309-313, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os fundamentos de que: a) a simples transcrição de dispositivo de lei não autoriza o conhecimento de recurso especial; e b) incidiria ao caso o enunciado nº 7 da Súmula do STJ.
+Irresignada, aduz a agravante, em suma, que o reclamo merece trânsito, uma vez que os supracitados óbices não subsistiriam.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Da leitura do acórdão recorrido, nota-se que o Tribunal local, à luz dos elementos de prova que instruem os autos, consignou que a responsabilidade pelo acidente seria do preposto da ora recorrente. Veja-se (fl. 270, e-STJ):
+As provas trazidas aos autos evidenciam que o preposto dos réus, vindo de via secundária, ao iniciar o cruzamento da rodovia, não obedeceu à regra da preferencial, adentrando na via sem observar corretamente o fluxo de veículos. Dessa forma, em decorrência de violação do dever de cautela, o autor foi atingido, vindo a sofrer lesões corporais graves em virtude do acidente.
+(..)
+Em contrapartida, os réus não lograram êxito em provar qualquer conduta culposa do autor.
+Nesse contexto, entende-se que o acolhimento da pretensão recursal demandaria a revisão da premissa acima disposta. Para tanto, todavia, é imprescindível o revolvimento de matéria probatória, providência vedada na presente instância recursal, nos termos da Súmula 7/STJ. Precedentes:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. INAPLICABILIDADE. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. NEXO CAUSAL. CASO FORTUITO E FORÇA MAIOR AFASTADOS. CULPA DO MOTORISTA RECONHECIDA. REEXAME. INVIABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL IMPROVIDO.
+1. "Para a caracterização da responsabilidade civil, antes de tudo, há de existir e estar comprovado o nexo de causalidade entre o evento danoso e a conduta comissiva ou omissiva do agente e afastada qualquer das causas excludentes do nexo causal, tais como a culpa exclusiva da vítima ou de terceiro, o caso fortuito ou a força maior" (AgInt no AREsp n. 2.355.144/SP, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 10/6/2024, DJe de 12/6/2024).
+2. No caso em exame, as instâncias ordinárias concluíram que não foi comprovada a alegação de haveria animais na pista, afastando expressamente a ocorrência de caso fortuito ou força maior, bem como que a dinâmica do acidente demonstra que o motorista estava dirigindo de maneira imprudente, sem as devidas cautelas quando invadiu a pista contrária e atingiu o veículo da vítima, que faleceu no local, ficando comprovada sua culpa pelo acidente.
+3. A alteração da conclusão a que chegaram as instâncias ordinárias acerca da responsabilidade do motorista pelo acidente de trânsito ou da existência de caso fortuito ou força maior esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.554.346/RN, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024.)
+2. Ante o exposto, com fulcro no art. 932 do CPC/2015 c/c Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial. Por conseguinte, nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor dos honorários advocatícios arbitrados na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
+EMENTA
