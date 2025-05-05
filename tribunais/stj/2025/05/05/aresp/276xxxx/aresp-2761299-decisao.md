@@ -1,0 +1,40 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por B HOLDING PARTICIPAÇÕES LTDA. (DARLAN ALMEIDA COMÉRCIO DE TELECOMUNICAÇÃO LTDA.), contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/08/2024.
+Concluso ao gabinete em: 13/12/2024.
+Ação: obrigação de fazer e de não fazer cumulada com indenização pelo dano material e compensação pelo dano moral, ajuizada por B HOLDING PARTICIPAÇÕES LTDA. (DARLAN ALMEIDA COMÉRCIO DE TELECOMUNICAÇÃO LTDA.), em face de MACIEL & MENEZES LTDA. e TELEFÔNICA BRASIL S/A.
+Sentença: julgou extinto o presente feito em face de TELEFÔNICA BRASIL S/A, nos termos do artigo 485, VI, CPC, além de indeferir a inicial e julgar extinto o presente feito com relação aos pedidos de dano material e dano moral, nos termos do artigo 485, I, CPC, bem como julgou improcedente e, por isso, julgou extinto o presente feito, com resolução do mérito, em conformidade com o previsto no artigo 487, I, CPC. Por fim, condenou a parte agravante ao recolhimento de eventuais custas e ao pagamento dos honorários, estes arbitrados em 10% sobre o valor da causa. (e-STJ fls. 282/295)
+Acórdão: negou provimento à Apelação interposta pela parte agravante, nos termos da seguinte ementa:
+"Apelação Cível - Ação de obrigação de fazer e de não fazer - Pedido de indenização por dano material e moral - Pedido de tutela de urgência com antecipação dos efeitos da tutela - Propriedade industrial - Registro no INPI - Área comum de atuação da empresa ré - Nome comum - Inépcia dos pedidos de dano material e moral - Manutenção da sentença que se impõe
+- A proteção conferida pelo INPI se aplica ao conjunto composto pelo elemento nominativo e elemento figurativo, e não a cada elemento isoladamente.
+- Ainda que seja possível registrar marca fraca, ou seja, com baixo grau de originalidade e instintividade, mostra-se cabível a mitigação quanto à exclusividade de seu uso.
+- In casu, ainda que o requerido utilize expressão genérica similar, os elementos observados não são suficientes para demonstrar prática de imitação ou concorrência desleal aptos a confundir os consumidores.
+- Os pedidos não se mostram certos e determinados, bem como não estabelecem correlação com o valor da causa proposto, haja vista falta de elementos probatórios mínimos para sua aferição, portanto, ineptos.
+- À medida em que não houve comprovação da violação de marca ou concorrência desleal, por parte da autora/apelante, não há como verificar a ocorrência de dano moral.
+- Recurso desprovido, manutenção da sentença que se impõe." (e-STJ fl. 370)
+Recurso especial: alega violação dos arts. 129, 209, Lei 9.279/96, 927, CC, 5º, XXIX, CF, bem como dissídio jurisprudencial, sustentando que: i) a legislação federal e a Constituição Federal são clarividentes ao exporem sobre a exclusividade dos termos após a expedição do certificado de registro; e, ii) em se tratando de matéria de conteúdo de violação de marca, os danos são presumíveis e devem ser definidos em sede de liquidação de sentença. (e-STJ fls. 398/416)
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação de dispositivo constitucional
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da fundamentação deficiente
+Os argumentos invocados pela parte agravante não demonstram como o acórdão recorrido violou o art. 129, Lei 9.279/96, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 209, Lei 9.279/96, 927, CC, indicados como violados, não tendo a parte agravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "o parecer do INPI (doc. de ordem 44) não foi claro sobre a violação do uso da marca, entretanto, apenas cuidou em demonstrar a proximidade do sinal, bem como, da atividade mercadológica de empresa diversa das que figuram no polo passivo da presente demanda", bem como de que "restou comprovado nos autos que o deferimento do registro da marca da parte agravante foi realizado com ressalvas pelo INPI, de modo que a expressão "casa do celular" não manifesta direito exclusivo da parte agravante", assim também de que "a expressão "casa do celular" não é direito ao exercício exclusivo da marca registrada no INPI, por se tratar de expressão de uso comum, nos termos do artigo 124, inciso VI da Lei nº 9.279/96", além de que "ainda que utilizem expressão genérica similar, os elementos observados não são suficientes para demonstrar prática de imitação ou concorrência desleal, por parte da agravada Maciel & Menezes, a levar o público consumidor a erro ou confusão, em especial frente à fonte e grafia utilizadas nos logotipos, que apresentam diferenças substanciais", ao entendimento de que "não restam dúvidas quanto a formulação de pedidos indeterminados pela parte agravante, deixando de observar os requisitos exigidos pelos artigos 322 a 324 do CPC, o que enseja na inépcia da exordial, conforme previsão do artigo 330, inciso II, também do CPC", à observação de que "ausentes os requisitos para o pleito indenizatório, não há necessidade na análise dos critérios para apuração do valor a título de danos morais", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% do valor atualizado da causa (e-STJ fl. 387) para 17%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E DE NÃO FAZER CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer e de não fazer cumulada com indenização por dano material e compensação por dano moral.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo conhecido. Recurso especial não conhecido.
