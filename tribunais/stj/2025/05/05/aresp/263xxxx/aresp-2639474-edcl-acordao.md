@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO APONTADOS. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material, vícios que não foram, sequer, apontados pela parte ora embargante. Incidência da Súmula 284/STF, por analogia.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 23490):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos do contido no art. 932, III, do CPC/2015 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo interno não provido.
+Afirma a parte embargante, em resumo, haver omissão no julgado, alegando, in verbis (fls. 23500-23506): diferentemente do que afirma o v. acórdão, a Embargante elaborou um tópico específico sobre a Súmula nº 7 em seu Agravo em Recurso Especial, esclarecendo, pois, que o caso concreto não demanda a reanálise de fatos ou provas, mas, sim, de mera aplicação das normas processuais e da jurisprudência pátria ao caso concreto; uma das atribuições da Presidência deste E. STJ é inadmitir os Agravos em Recursos Especiais que não tenham impugnado especificamente a decisão recorrida1 e, no caso concreto, a própria Presidência deste E. STJ entendeu que a Embargante impugnou todos os capítulos da decisão que inadmitiu o Recurso Especial; a discussão levada ao crivo deste Tribunal Superior se restringe em definir se a hipótese de nulidade de lançamento tributário é ou não matéria de ordem pública, que pode ser conhecida de ofício e em qualquer grau de jurisdição; a Min. Regina Helena, integrante desta C. Primeira Turma, analisando um caso análogo2, também patrocinado por este escritório de advocacia, entendendo que o contribuinte impugnou especificamente todos os fundamentos da decisão de inadmissão (DOC.01) em seu Agravo em Recurso Especial (DOC.02), proferiu decisão conhecendo do Agravo para determinar a sua conversão em Recurso Especial (DOC.03).
+Requer, assim, "o conhecimento e provimento dos presentes Embargos de Declaração para eliminar a evidente omissão apontada acima e, dando-se os devidos efeitos infringentes a estes aclaratórios, seja reformada a decisão para dar provimento ao Agravo Interno com o consequente provimento do Agravo em Recurso Especial e posterior julgamento do Recurso Especial da ora Embargante" (fl. 23506).
+Foi apresentada impugnação (fls. 23546-23551).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO APONTADOS. SÚMULA 284/STF. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material, vícios que não foram, sequer, apontados pela parte ora embargante. Incidência da Súmula 284/STF, por analogia.
+3. Embargos de declaração não conhecidos.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Destaco, inicialmente, que o recurso foi interposto sob a vigência do Código de Processo Civil de 2015, razão por que deve ser observado o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do Novo CPC".
+Os Embargos de Declaração não merecem conhecimento.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, embor a afirme a parte ora embargante haver omissão no julgado, não fundamenta a sua alegação, porquanto limita-se a renovar o seu inconformismo quanto ao não conhecimento do agravo em recuso especial. Incide, assim, à espécie, a Súmula 284/STF, por analogia.
+Ad argumentandum tantum, não prospera a alegação de que "a própria Presidência deste E. STJ entendeu que a Embargante impugnou todos os capítulos da decisão que inadmitiu o Recurso Especial", porquanto não há nenhuma manifestação da Presidência nos presentes autos.
+Ademais, a análise prévia dos requisitos de admissibilidade do AREsp e do REsp, efetuada pela Presidência do STJ, não vincula o exame mais detalhado do ministro relator.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ANÁLISE DE REQUISITOS DE ADMISSIBILIDADE. PRECLUSÃO. NÃO OCORRÊNCIA. OMISSÃO INEXISTENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ.
+1. A decisão da Presidência do STJ que confere efeitos modificativos a embargos de declaração para tornar sem efeito a decisão que não conheceu do agravo em recurso especial não vincula o relator para quem os autos são distribuídos, o qual procederá a um novo juízo de admissibilidade do recurso, podendo não conhecer daquele manifestamente inadmissível, porquanto não há preclusão (RISTJ, art. 34, XIII, "a").
+2. Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp n. 1.606.241/CE, relator Ministro Humberto Martins, Segunda Turma, julgado em 3/4/2023, DJe de 13/4/2023.)
+Outrossim, "nos termos da orientação adotada neste Tribunal Superior, o conhecimento, inclusive das questões de ordem pública, está condicionado à admissibilidade do recurso no qual a tese foi ventilada. Precedentes das Turmas componentes da 1ª e 2ª Seção desta Corte" (EDcl no AgRg no AREsp n. 456.771/MT, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 29/3/2021, DJe de 6/4/2021).
+Ante o exposto, não conheço dos embargos de declaração.
+É como voto.
