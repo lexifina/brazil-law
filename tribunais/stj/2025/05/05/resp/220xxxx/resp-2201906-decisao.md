@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por AUTOPOSTO PACÍFICO LTDA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no qual discute o cabimento do mandado de segurança para declarar o direito à restituição do ICMS, na hipótese em que, recolhido pela sistemática da substituição tributária progressiva, por ocasião do fato gerador ocorrido na venda da mercadoria, adota-se base de cálculo inferior àquela presumida pelo substituto tributário.
+A parte recorrente alega, em síntese (fls. 1100/1114):
+A Recorrente fez prova de ser comerciante varejista de combustíveis, e que paga o ICMS antecipado sobre um valor "imaginado pelo Estado que o produto será vendido", porém acaba vendendo por preço inferior a tal, restando-lhe assim devolução do excesso praticado pelo Fisco.
+ ..
+Ofensa ao artigo 1.022, Parágrafo único, inciso 1 do Código de Processo Civil, vez que o Tribunal "a quo" deixou de se manifestar sobre tese firmada em julgamento de casos repetitivos - RECURSO REPETITIVO - Pesquisa de Temas Repetitivos: Tema 118 - Pesquisa de Repetitivos por Assunto - REsp 1.111.164/BA - Relator(a) Ministro TEORI ALBINO ZAVASCKI - Órgão Julgador S1 - PRIMEIRA SEÇAO  ..  posicionamento desta Corte Especial com relação ao tema preliminar, como é de notório conhecimento, já se encontra sedimentado no sentido favorável ao da tese preliminar da Recorrente, configurando a admissão do presente recurso pela alínea "c" do inciso III do artigo 105 da Constituição Federal,
+Com contrarrazões da parte recorrida, os autos foram encaminhados ao órgão julgador para o exercício do juízo de conformação com a tese definida pela Primeira Seção deste Tribunal Superior, no REsp n. 1.111.164/BA.
+Não obstante, não houve retratação porque "a impetrante interpôs recurso especial contra o acórdão original, no qual, dentre diversas teses, abordou a questão da adequação da via eleita. Todavia, referido recurso não foi admitido pela Presidência e o agravo interposto contra tal decisão foi desprovido pelo STJ, assim como os agravo regimental, embargos de declaração e embargos de divergência, sendo o trânsito em julgado certificado aos 22/06/2009" (fl. 1172).
+Na sequência, o recurso foi admitido (fl. 1182).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O recurso especial não deveria ter sido admitido, pois, como consignado no acórdão do juízo de conformação, a parte recorrente interpôs um primeiro recurso especial, em 2007, para discutir o cabimento da ação mandamental para a pretensão de declaração do direito à restituição dos valores do ICMS pagos a maior (fls. 902 e seguintes); não admitido o especial, foi interposto o Agravo de Instrumento n. 998034/SP, o qual não foi provido pela Primeira Turma, sob a relatoria do em. Ministro José Delgado, sobre o fundamento de que a análise da pretensão dependeria do reexame fático-probatório (fls. 1007 e seguintes).
+No contexto, decidida a questão em outra oportunidade, com trânsito em julgado, não se pode conhecer do segundo recurso especial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
