@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR E REVO CATÓRIA JULGADAS CONJUNTAMENTE. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022, II, DO CPC. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. LEGITIMIDADE DO ADVOGAGO. SÚMULA N. 284 DO STF. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 53 DO DECRETO-LEO N. 7.661/1945. PROVA DO CONSILIUM FRAUDIS. SÚMULAS N. 284 DO STF E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, da leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+3. De acordo com a jurisprudência do STJ, somente o advogado detém a legitimidade para recorrer do indeferimento do pedido de destaque, no montante da execução, do valor relativo a verba honorária contratual devida pelo seu constituinte (art. 22, § 4º, da Lei n. 8.906/1994).
+4. Não se conhece do recurso especial em que a parte se limita a alegar a violação genérica de dispositivo infraconstitucional sem demonstração efetiva de sua violação pelo acórdão impugnado.
+5. Inviável rever a conclusão alcançada pelo Tribunal de origem acerca da demonstração do consiliu fraudis apto a caracterizar a fraude contra credores, ante o óbice da Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MASTER NEGÓCIOS EMPRESARIAIS LTDA. contra decisão que conheceu em parte do recurso especial para negar-lhe provimento (fls. 469-479).
+Em suas razões, a agravante sustenta permanecer a omissão quanto ao ponto essencial ao deslinde do feito, a saber, a existência de prova do consilium fraudis.
+Informa que, diferentemente do decidido na decisão agravada, não foi demonstrada a ocorrência de cessão de crédito determinado ou de direito anteriormente constituído que integrasse o patrimônio do falido, o que denota a inexistência de prova do pretendido consilium fraudis apto a desconstituir o negócio jurídico, nos termos do art. 53 do Decreto-Lei n. 7.661/1945.
+A defesa sustenta que, apesar da provocação da agravante, o Tribunal de origem permaneceu silente quanto à falta de prova do consilium fraudis, caracterizando a alegada violação do art. 1.022, II, do CPC.
+Alega também a demonstração de legitimidade ativa para suscitar as ofensas relativas aos honorários advocatícios contratuais, ainda que pertencentes aos seus patronos, ficando, assim, demonstrada a violação dos arts. 485, V, e § 3º, 505 e 506, todos do CPC e art. 22, § 4º, da Lei n. 8.906/1996.
+Por fim, reitera a demonstração de violação do art. 53 do Decreto-Lei n. 7.661/1945, na medida em que a prova da ocorrência de fraude aos credores é imprescindível para justificar a manutenção do acórdão proferido na origem, o que foi desconsiderado pela decisão agravada ao aplicar, neste ponto, os óbices das Súmulas n. 284 do STF e 7 do STJ.
+Requer, portanto, seja reconsiderada a decisão agravada, de modo a dar provimento ao recurso especial e reformar o acórdão na origem.
+Impugnação às fls. 498-503.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CAUTELAR E REVO CATÓRIA JULGADAS CONJUNTAMENTE. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022, II, DO CPC. INOCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. LEGITIMIDADE DO ADVOGAGO. SÚMULA N. 284 DO STF. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. ALEGAÇÃO DE VIOLAÇÃO DO ART. 53 DO DECRETO-LEO N. 7.661/1945. PROVA DO CONSILIUM FRAUDIS. SÚMULAS N. 284 DO STF E 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. A deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, da leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial.
+3. De acordo com a jurisprudência do STJ, somente o advogado detém a legitimidade para recorrer do indeferimento do pedido de destaque, no montante da execução, do valor relativo a verba honorária contratual devida pelo seu constituinte (art. 22, § 4º, da Lei n. 8.906/1994).
+4. Não se conhece do recurso especial em que a parte se limita a alegar a violação genérica de dispositivo infraconstitucional sem demonstração efetiva de sua violação pelo acórdão impugnado.
+5. Inviável rever a conclusão alcançada pelo Tribunal de origem acerca da demonstração do consiliu fraudis apto a caracterizar a fraude contra credores, ante o óbice da Súmula n. 7 do STJ.
+6. Agravo interno desprovido.
+VOTO
+O recurso não reúne condições de prosperar.
+I - Breves considerações fáticas
+Consoante disposto na decisão agravada, o caso dos autos tem origem em duas ações ajuizadas pela agravada em desfavor da agravante.
+A primeira, ação cautelar visando o sequestro do proveito econômico da Ação Revisional n. 630/2022, proposta na Comarca de Toledo/PR, pela agravante contra o Banco do Brasil S.A.
+A segunda, ação revocatória postulando a nulidade e a ineficácia de uma cessão de crédito celebrada por escritura pública em 9/9/2002, na qual a agravante Master comparece como cessionária e como cedente a B. J. SAROLLI & CIA. LTDA., representada por seu sócio majoritário BELCEZAR, tendo como objeto o seguinte (fls. 26-27):
+ ..  todos os seus créditos, inclusive os acessórios decorrentes de todas atividades bancárias onde possa existir qualquer direito de crédito decorrente das operações financeiras realizadas entre a CEDENTE e as instituições de crédito acima nominadas, incluindo-se cobranças de quantias indevidas estatuídas nos artigos 964 e 965, do Código Civil Brasileiro, bem como artigo 42, parágrafo único, da Lei nº 8.078/90, sob qualquer título ou modalidade, como empréstimo de qualquer natureza, operações de conta corrente, conta garantida, mútuo, leasing, podendo-se postular sob qualquer modalidade todo e qualquer direito, incluindo-se a via judicial ou administrativa, representados referidos direitos especialmente pela cobrança de juros indevidos, comissão de permanência, multas, anatocismo, taxas indevidas, cláusulas abusivas e potestativas, representadas também por operações realizadas em contas correntes, incluindo-se cobranças de duplicatas, caução de duplicatas, descontos de duplicatas, financiamentos, contas garantidas.  ..
+Ambas as ações foram julgadas procedentes em sentença única, reconhecendo-se a ineficácia da cessão de crédito em relação à massa falida agravante e para confirmar a liminar de sequestro (medida cautelar inominada, nos termos do acórdão recorrido), do proveito econômico da ação revisional.
+Na sentença, o Juízo de primeiro grau considerou que, além de ter ocorrido por preço vil, a cessão foi realizada com a intenção de prejudicar os credores, tendo sido demonstrado o consilium fraudis no negócio celebrado entre a data do ajuizamento do pedido de falência (ocorrido em 1997), e a sua decretação em 31/3/2003 (fl. 471).
+Contra a referida sentença, a agravante interpôs apelação, a qual foi parcialmente provida tão somente para reduzir os honorários de sucumbência, por terem sido considerados demasiadamente elevado (fls. 335-349).
+O recurso especial foi conhecido em parte e desprovido nos termos da decisão de fls. 469-479, dando origem ao presente agravo interno que passo a analisar.
+II - Da alegada violação do art. 1.022, II, do CPC
+A parte sustenta que o acórdão fora omisso ao não enfrentar a questão acerca da demonstração da prova do consilium fraudis.
+Contudo, como bem destacado na decisão agravada, razão não lhe assiste.
+Isso porque foi consignado no voto condutor do acórdão que "há evidência concreta de consilium fraudis, já que: (a) a empresa Master Negócios Empresariais Ltda., constituída em 08/07/2002 (fls. 29-30 da ação revocatória), possui capital social de R$10.000,00 (dez mil reais), inferior ao preço pago pelo crédito (R$15.000,00); (b) o negócio ocorreu por preço manifestamente vil; (c) a cessão ocorreu dentro do termo legal da falência e longe dos credores da falida; (d) não há notícias de continuidade dos negócios da empresa cessionário; (e) após a celebração do negócio, Juliano Sarolli Preisner, sobrinho de Belcezar João Sarolli (sócio majoritário da falida), ingressou no quadro social da empresa Master Negócios Empresariais Ltda. Analisadas em conjunto, todas essas situações indicam, repita-se, a" ocorrência de fraude" (fl. 346).
+Afasta-se, portanto, a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+III - Da alegada violação dos arts. 485, V, e § 3º, 505 e 506, todos do CPC e art. 22, § 4º, da Lei n. 8.906/1996
+No que tange à alegação de demonstração da legitimidade da agravante para pleitear os honorários advocatícios contratuais, também não lhe assiste razão.
+Isso porque, como bem destacado na decisão agravada, "o acórdão recorrido, ao apreciar o agravo retido, tratou da questão dos honorários contratuais sob a perspectiva da ilegitimidade da parte recorrente para litigar em nome dos advogados que atuaram na ação revisional, em cujos autos fora juntado o contrato de prestação de serviços que possibilitou o levantamento da verba" (fl. 475).
+Nesse contexto, identificou-se que a parte agravante não atacou o referido fundamento nas razões do recurso especial, limitando-se a discorrer acerca do direito dos advogados aos honorários contratuais em pauta, o que atraiu a incidência da Súmula n. 284 do STF no caso concreto.
+Reforçou-se o argumento no fato de que, mesmo ultrapassado o óbice sumular, o entendimento firmado no acórdão recorrido, estaria em consonância com a jurisprudência do STJ acerca do tema, segundo a qual "apenas o advogado detém legitimidade para recorrer do indeferimento do pedido de destaque, no montante da execução, do valor relativo a verba honorária contratual devida pelo seu constituinte (art. 22, § 4º, da Lei 8.906/94)" (AgRg no REsp n. 1.101.391/DF, Quarta Turma, relator Ministro Marco Buzzi, DJe de 26/10/2015).
+Nesse sentido, a decisão agravada não merece qualquer reparo neste ponto.
+IV - Da alegada violação do art. 53 do Decreto-Lei n. 7.661/1945
+Quanto ao mencionado dispositivo, constou da decisão agravada que "a parte recorrente não justificou sua irresignação a respeito desse ponto, deixando mesmo de abrir tópico específico para discutir a matéria, como fez com os demais dispositivos que diz terem sido violados" (fl. 478), o que atraiu a aplicação da Súmula n. 284 do STF, também neste ponto.
+Destacou-se ainda em obter dictum, que o acórdão recorrido concluiu pela existência do consilium fraudis, o que foi demonstrado pelos documentos e provas apresentados nos autos, atraindo, portanto, a incidência da Súmula n. 7 do STJ (fl. 479).
+Caso, pois, de manutenção da decisão agravada pelos seus próprios fundamentos.
+V - Conclusão
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
