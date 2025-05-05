@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo DEPARTAMENTO ESTADUAL DE TRÂNSITO DO MARANHÃO - DETRAN/MA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 173):
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. ALIENAÇÃO VEÍCULO. COMUNICAÇÃO AO ÓRGÃO OFICIAL. ART. 134 DO CTB. DEFICIÊNCIA TÉCNICA DO DETRAN E DO ESTADO DO MARANHÃO. TRIBUTAÇÃO E INSERÇÃO EM CADASTRO NEGATIVO DE CRÉDITO. DANO MORAL. EXISTÊNCIA. VALOR MANTIDO. APELOS NÃO PROVIDOS.
+1. A alienação do veículo com comunicação ao órgão de trânsito dentro do trintídio legal (art. 134 do Código de Trânsito Brasileiro), antes da ocorrência do fato gerador do IPVA, impede a tributação, uma vez que se trata de tributo de natureza real, incidente sobre a propriedade do veículo.
+2. Provado que a parte autora tomou todas as medidas administrativas necessárias e cumpriu os termos do artigo 134 do CTB, afigura-se indevida a cobrança de IPVA a partir de então, bem como a inserção em cadastro negativo de crédito.
+3. O Estado do Maranhão utiliza-se de uma rede integrada com o DETRAN com finalidade de fiscalização e arrecadação do IPVA e a solicitação de inscrição do nome da parte autora se deu por parte da Secretaria da Fazenda do Estado - SEFAZ, em ação conjunta de sérios equívocos e deficiência técnica que ocasionou restrição cadastral, causando a apelada constrangimento, transtornos e restrições creditícias.
+4. O quantum da indenização por dano moral deve ser arbitrado segundo o prudente arbítrio do julgador, sempre com moderação, observando-se as peculiaridades do caso concreto e os princípios da razoabilidade e da proporcionalidade, de modo que o montante arbitrado se preste a atender ao caráter punitivo da medida e de recomposição dos prejuízos, sem importar, contudo, enriquecimento sem causa da vítima. Valor Mantido.
+5. Recursos conhecidos e não providos.
+Não foram opostos embargos de declaração.
+Em seu recurso especial, às fls. 197-214, o recorrente sustenta violação ao art. 485, inciso VI, do Código de Processo Civil, argumentando, para tanto, que:
+Conforme fartamente declarado e comprovado nos autos do processo submetido à 1ª instância, não foram trazidos para os autos, argumentos capazes de desconstituir a tese de que o DETRAN, como órgão executivo de trânsito, não teria responsabilidade quanto a inscrição em órgãos restritivos de crédito em razão de inadimplemento de IPVA, por erro exclusivo do Ente responsável pela cobrança de tal imposto.
+(..)
+Embora tenha sido mencionado expressamente o dever de respeito à separação de atribuições concernentes a responsabilidade pela inscrição do apelado no registro de órgãos creditícios com espeque no artigo 485, VI, do CPC, que delimita a legitimidade processual aos responsáveis pelo direito material subjacente, o Juízo ad quem, em contrariedade às disposições legais apresentadas, manteve a responsabilização e condenação solidária em face desta Autarquia de Trânsito. (fls. 212-213)
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 232-233):
+Em relação ao artigo 485, VI, do CPC, não houve o prequestionamento, uma vez que matéria (ilegitimidade) não foi objeto de análise pelo acórdão recorrido, razão pela qual oponho à admissão do recurso as Súmulas n. 282 e 356 do STF. Assim: "A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF" (AgInt no AREsp n. 2.460.314/SE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 10/6/2024, DJe de 14/6/2024).
+Em seu agravo, às fls. 237-243, o agravante apenas ratifica os fundamentos apresentados no recurso especial, não rebatendo os argumentos da decisão que o inadmitiu.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto o agravante não infirmou especificamente o fundamento utilizado para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se no fundamento da incidência dos enunciados 282 e 356 da Súmula do STF, em razão da ausência de prequestionamento.
+Entretanto, em sede de agravo em recurso especial o recorrente deixou de infirmar especificamente e a contento, o referido fundamento da decisão de inadmissibilidade, o qual, à míngua de fundamentação pormenorizada, detalhada e específica, permanece hígido, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar o fundamento do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil. Deverão ser observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do dispositivo legal acima referido, bem como eventuais legislações extravagantes que tratem do arbitramento de honorários e as hipóteses de concessão de gratuidade de justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
