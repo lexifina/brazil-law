@@ -1,0 +1,23 @@
+DECISÃO
+Examina-se reclamação, com pedido liminar, apresentada por HILTON DE JESUS CHAVES PEREIRA FILHO, com fundamento no art. 988 do CPC e no art. 105, I, "f" da Constituição Federal.
+Sustenta, em síntese, que o Tribunal de Justiça do Rio de Janeiro, no Agravo de Instrumento nº 0009320-98.2025.8.19.0000, tomou uma série de decisões ilegais, ao admitir como válida uma ata notarial claramente viciada e impondo-lhe sanções processuais indevidas, como a fixação de multa por litigância de má-fé e a revogação do benefício da assistência judiciária gratuita, sem a observância do contraditório. Assinala ter havido afronta ao Tema 1.178 do STJ, bem como à jurisprudência consolidada da Corte Superior sobre a inadmissibilidade de prova que não passou pelo crivo do contraditório e a nulidade de prova obtida por meios ilícitos.
+RELATADO O PROCESSO, DECIDE-SE.
+À luz do disposto nos arts. 105, I, "f", da CF/88, 988 e seguintes do CPC e 187 do RISTJ, a reclamação constitucional, de natureza excepcional, destina-se à preservação da competência deste Superior Tribunal de Justiça e à garantia da autoridade de seus julgados apenas quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão impugnada.
+Quanto ao cabimento para garantir a autoridade de suas decisões, segundo a jurisprudência do STJ, pressupõe-se a existência de um comando positivo desta Corte cuja eficácia deva ser assegurada e que tenha sido proferida em processo que envolva as mesmas partes ou que possa produzir efeitos em relação jurídica por elas mantida (AgInt na Rcl 38.236/SP, Primeira Seção, DJe 28/10/2019; AgRg na Rcl 33.823/SP, Terceira Seção, DJe 1º/8/2017 e AgInt na Rcl 28.688/RJ, Segunda Seção, DJe 29/8/2016).
+Nessa situação, o instrumento da reclamação tem por objetivo assegurar que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, não servindo para a preservação da jurisprudência desta Corte ou como sucedâneo recursal (AgRg na Rcl 29.329/MS, Corte Especial, DJe 3/8/2016; AgInt na Rcl 36.756/MG, Segunda Seção, DJe 23/8/2019 e AgInt na Rcl 37.890/MT, Segunda Seção, DJe 8/10/2019).
+Desse modo, consoante a jurisprudência desta Corte, é incabível o ajuizamento de reclamação com o objetivo de adequar o julgado impugnado à jurisprudência do STJ, mesmo que consolidada em Súmula ou em recurso especial repetitivo (AgInt na Rcl 42.586/SP, Segunda Seção, DJe 17/3/2022; AgInt na Rcl 42.013/PR, Primeira Seção, DJe 3/12/2021; Rcl 36.476/SP, Corte Especial, DJe 6/3/2020).
+Na hipótese, a parte reclamante sequer apresenta decisão desta Corte Superior que teria sido descumprida, o que inviabiliza o processamento da inicial.
+Observa-se que a parte reclamante atua com o propósito de rediscutir o mérito da decisão, utilizando o instrumento da reclamação como sucedâneo recursal, sendo certo que a reclamação não é o meio jurídico adequado quando não for diretamente atacada a autoridade da decisão proferida por esta Corte.
+Ainda, não é cabível reclamação para controlar a aplicação, na hipótese, de tese firmada pelo STJ em recurso especial repetitivo, como pretende a parte reclamante.
+Assim sendo, impõe-se a extinção da presente reclamação.
+Em consequência, fica prejudicada a análise do pedido liminar.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Prejudicada a tutela de urgência pleiteada.
+Deixo de fixar honorários advocatícios de sucumbência, porquanto não angularizada a relação processual.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. AFRONTA À AUTORIDADE DE DECISÃO DO STJ. AUSÊNCIA. ADEQUAÇÃO DO JULGADO IMPUGNADO À JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL REPETITIVO. DESCABIMENTO. INDEFERIMENTO DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. Para que a reclamação constitucional seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+2. Consoante a jurisprudência dominante do STJ, é incabível o ajuizamento de reclamação com o objetivo de adequar o julgado impugnado à jurisprudência desta Corte, mesmo que consolidada em Súmula ou em recurso especial repetitivo.
+3. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
