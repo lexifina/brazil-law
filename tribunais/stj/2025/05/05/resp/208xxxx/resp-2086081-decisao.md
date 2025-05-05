@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE BELÉM DE MARIA, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (fls. 531):
+ADMINISTRATIVO E FINANCEIRO. VERBAS PÚBLICAS RECEBIDAS INDEVIDAMENTE PELO MUNICÍPIO. AUSÊNCIA DE BOA-FÉ. DEVOLUÇÃO DEVIDA. APELAÇÃO IMPROVIDA.
+1. Apelação interposta pelo Município de Belém de Maria/PE em face de sentença que julgou improcedente seu pedido para que fosse desobrigada a ressarcir os valores repassados em duplicidade pela União relativo a verbas inerentes ao custeio mensal do Serviço de Atendimento Móvel de Urgência do Município.
+2. Defende o apelante, em síntese, que a União, ao repassar valores a maior ao município, agiu com imperícia, não podendo ser imposta ao Município a devolução de quantia de suas poucas receitas, pois o pagamento indevido se deu por falta de cuidado da União com a condução dos programas com os municípios.
+3. Alegou, por fim, ter agido de boa-fé, tendo investido a verba na saúde pública municipal.
+4. Deve ser integralmente mantido o posicionamento exposto na sentença, pois, como dito, a devolução de valores erroneamente recebidos por servidores públicos já foi apreciada pelo Superior Tribunal de Justiça, em sede recursos repetitivos (Tema 531 e 1.009). Em tal entendimento, que pode, perfeitamente, ser estendido ao caso, o STJ aduz que: "Os pagamentos indevidos aos servidores públicos decorrentes de erro administrativo (operacional ou de cálculo), não embasado em interpretação errônea ou equivocada da lei pela Administração, estão sujeitos à devolução, ressalvadas as hipóteses em que o servidor, diante do caso concreto, comprova sua boa-fé objetiva, sobretudo com demonstração de que não lhe era possível constatar o pagamento indevido."
+5. Restou comprovado que houve um erro de repasse da Administração Federal, recebido e administrado por servidores públicos do Município; erro este cuja boa-fé, por parte do apelante, restou afastada, pois, como dito na sentença, pelo depoimento da testemunha Maria Cristina Gonçalves Casale, era perfeitamente possível estranhar o volume de recursos recebidos pelo Município.
+6. A referida servidora possuía ciência do valor recebido usualmente, inclusive na gestão passada.
+7. Com relação ao uso dado aos valores recebidos, este não pode impedir a devolução dos valores recebidos indevidamente, pois, além da falta de boa-fé do apelante, se não houver a devolução, o Município enriqueceria sem causa.
+8. O suposto fato de União ter analisado a aprovado as condições para celebração do convênio não afastam a necessidade de regularização das pendências apontadas pela empresa pública apelada.
+9. Apelação improvida.
+10. Majoração da condenação do apelante ao pagamento de honorários advocatícios recursais em R$ 200,00 (duzentos reais), nos termos do art. 85, § 8º, do Código de Processo Civil, levando-se em conta o trabalho adicional em grau recursal.
+Embargos de declaração rejeitados (fls. 581).
+A parte recorrente alega violação dos artigos art. 1.022 do CPC, art. 884, do CC, art. 4º, da Lei 8.080/90, art. 11 c/c art. 93, IX, da CF/88 e art. 489, §1º, II, do CPC.
+Em relação ao artigo, 884 do Código Civil, alega que não houve enriquecimento sem causa, pois os valores foram aplicados no próprio programa do SAMU, beneficiando a população local, e não houve vantagem ilícita.
+Com contrarrazões (fls. 620-632).
+Juízo positivo de admissibilidade (fl. 634).
+Parecer do MPF pelo não conhecimento do recurso às fls. 645/652.
+É o relatório. Passo a decidir.
+De início, não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Em relação ao artigo 11, 93, IX, e 198 da da CF, não se conhece do apelo, tendo em vista que, nos termos do art. 105, inciso III, da CF, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal.
+Quanto ao art. 4º, da Lei 8.080/90, verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Por fim, no que diz respeito ao artigo 884 do CC, verifica-se que o acórdão de origem assim decidiu (fls. 535/536):
+"No caso concreto, restou comprovado que houve um erro de repasse da Administração Federal, recebido e administrado por servidores públicos do Município; erro este cuja boa-fé, por parte do apelante, restou afastada, pois, como dito na sentença, pelo depoimento da testemunha Maria Cristina Gonçalves Casale, era perfeitamente possível estranhar o volume de recursos recebidos pelo Município.
+A referida servidora, saliento, possuía ciência do valor recebido usualmente, inclusive na gestão passada.
+E, por fim, com relação ao uso dado aos valores recebidos, este não pode impedir a devolução dos valores recebidos indevidamente, pois, além da falta de boa-fé do apelante, se não houver a devolução, o Município enriqueceria sem causa".
+Assim, constata-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Por fim, registra-se que, embora o recorrente tenha interposto o recurso também com fundamento na alínea "c", não demonstrou, em suas razões recursais, a divergência jurisprudencial do acórdão recorrido, nos moldes estabelecidos nos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º do RISTJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO E FINANCEIRO. RECURSO ESPECIAL. DEVOLUÇÃO DE VERBAS PÚBLICAS RECEBIDAS INDEVIDAMENTE. VIOLAÇÃO DO ART. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO TIDO POR VIOLADO. SÚMULA 211/STJ. ENRIQUECIMENTO ILÍCITO E AUSÊNCIA DE BOA-FÉ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO NÃO CONHECIDO.
