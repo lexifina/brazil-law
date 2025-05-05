@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JEON CARLOS LIMA DA SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO no julgamento da Apelação Criminal n. 1004004-73.2020.8.11.2024.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 14, caput, da Lei n. 10.826/2003, à pena de 02 (dois) anos de reclusão, a ser cumprida em regime inicial aberto, bem como ao pagamento de 10 (dez) dias-multa. A pena privativa de liberdade foi substituída por duas restritivas de direito.
+O Tribunal local negou provimento ao recurso de apelação interposto pela defesa.
+Neste writ, o impetrante requer a anulação das provas que justificaram a condenação pelo crime de porte ilegal de arma de fogo, por considerar a ocorrência de ilegalidade da busca pessoal, que teria sido realizada sem a presença de justa causa.
+Alega ausência de fundadas suspeitas aptas a amparar a abordagem pessoal, que, a seu ver, violou o princípio da intimidade (art. 5º, inciso X, da Constituição Federal).
+Sustenta que "evidencia-se nos autos produção de prova que deve ser etiquetada como ilícita, imprestável, portanto, para amparar a condenação, porque fruto de busca pessoal sem fundadas razões, a implicar na expressa violação do dispositivo do art. 157 do CPP. Como resultado, restou violado também o art. 386, VII, do CPP, dado que, à vista de inexistência de produção probatória que possa ser reputada como lícita, inexiste prova suficiente para a condenação".
+Requer a concessão da ordem para ser reconhecida a violação aos arts. 157 e 244, ambos do Código de Processo Penal, e declarada a ilicitude das provas que levaram à condenação do paciente.
+Foram solicitadas informações (fl. 79).
+O Ministério Público Federal emitiu parecer opinando pelo não conhecimento do habeas corpus (fls. 103-110).
+É o relatório. DECIDO.
+Cinge-se a controvérsia acerca de possível coação ilegal em razão da alegada nulidade das provas que embasaram a condenação.
+Contudo, a presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem de ofício, em observância § 2º do artigo 654 do Código de Processo Penal.
+Com efeito, no caso concreto, a abordagem policial e, consequentemente, a busca pessoal sobre o paciente ocorreu de forma legítima. Isso porque consta no acórdão impugnado que o policial militar ouvido em Juízo relatou que o condutor da motocicleta em que estava o paciente, ao ver o bloqueio da guarnição militar durante a madrugada, efetuou uma "freada brusca" na moto que pilotava, chamando a atenção dos agentes públicos, motivo pelo qual o abordaram e, posteriormente, realizaram buscas na sua pessoa e na bolsa que ele portava, tendo sido encontradas a arma de fogo e três munições. O Tribunal local também registrou que, tanto o condutor da motocicleta - que não foi denunciado - e o paciente apresentaram manifesto nervosismo com a presença dos policiais, o que caracterizou a fundada suspeita.
+Logo, conclui-se que foi lícita a busca pessoal, motivo pelo qual não há constrangimento ilegal a ser reconhecido na presente ação constitucional.
+Ante o exposto, não conheço do habeas corpus, nos termos do art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
