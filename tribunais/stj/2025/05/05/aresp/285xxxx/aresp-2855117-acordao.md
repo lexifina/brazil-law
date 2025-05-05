@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. ATUALIZAÇÃO. ERRO NOS CÁLCULOS. AFASTAMENTO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESCONSTITUIÇÃO DAS CONCLUSÕES DO ACÓRDÃO ESTADUAL. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não se configura omissão ou negativa de prestação jurisdicional no julgado estadual, quando a lide é decidida clara e fundamentadamente, com o pronunciamento acerca do tema proposto pela parte recorrente.
+2. A análise das razões recursais, tendo por base as conclusões do acórdão recorrido, para a constatação da não apreciação de todas as teses suscitadas para o deslinde da causa, mormente no tocante ao apontado erro nos cálculos de atualização do crédito, exige necessário reexame do acervo fático-probatório dos autos, o que não enseja recurso especial, em decorrência do disposto na Súmula n. 7 desta Corte.
+3 . Agravo em recurso especial conhecido para se conhecer parte do recurso especial e, nessa extensão, negar-lhe provimento.
+RELATÓRIO
+INCORPORAÇÃO TROPICALE LTDA., INCORPORAÇÃO VERANO LTDA. e INCORPORADORA BORGES LANDEIRO S.A. (TROPICALE e outros) interpõem agravo em recurso especial contra decisão do Tribunal de Justiça de Goiás que negou seguimento ao apelo nobre lá interposto.
+O acórdão proferido pelo TJGO teve a seguinte ementa:
+EMENTA: AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. MANIFESTO DO ADMINISTRADOR JUDICIAL ACOLHIDO. ATUALIZAÇÃO ATÉ A DATA DA RECUPERAÇÃO JUDICIAL E EXCLUSÃO DA MULTA POR DESCUMPRIMENTO. RETIFICAÇÃO DO VALOR EM BENEFÍCIO DA RECUPERANDA. PERÍCIA CONTÁBIL DESNECESSÁRIA. DESPROVIMENTO.
+1. A tese de omissão sobre a necessidade de manifestação do administrador judicial quanto à habilitação de crédito não procede, uma vez que a retificação do valor indicado na inicial da habilitação ocorreu após acolhidos os pareceres do gestor da recuperação judicial.
+2. Apuração que pode ser realizada independentemente de conhecimento técnico especializado, por tratar-se de mero cálculo aritmético, a excluir a necessidade de perícia.
+3. Regularmente acompanhada a habilitação de crédito por planilha de cálculo atualizado em consonância com o art. 9º, inciso II da Lei n. 11.101/2005, correta a decisão que autorizou a inclusão do crédito buscado no quadro geral de credores.
+3. Agravo de instrumento conhecido e desprovido.
+Os embargos declaratórios opostos foram rejeitados conforme ementa a seguir transcrita:
+EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. OMISSÃO E CONTRADIÇÃO INEXISTENTES. REDISCUSSÃO DO MÉRITO CAUSAL. DESPROVIMENTO.
+1 - A questão reputada omissa, atinente ao detalhamento dos cálculos e parecer do gestor da recuperação judicial, foi expressamente debatida no acórdão embargado.
+2 - Não se reputa contradição pela mera insatisfação com o resultado do julgamento.
+3 - A simples oposição dos embargos de declaração é bastante para prequestionar a matéria, ainda que inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade (artigo 1.025, Código de Processo Civil).
+4 - Embargos desprovidos.
+Irresignados, TROPICALE e outros interpuseram recurso especial com base no art. 105, III, a, da CF, apontando a violação dos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, sob o argumento de omissão por parte do acórdão recorrido, que não se manifestou acerca da ocorrência de erro de cálculos na atualização dos créditos buscados.
+Aduzem que, embora a descrição dos cálculos indique a incidência dos juros a partir da citação, tal informação não guarda conformidade com os valores apresentados na tabela juntada.
+Asseveram que o valor de R$ 42.715,56 (quarenta e dois mil, setecentos e quinze reais e cinquenta e seis centavos), resultado dos cálculos realizados, está errado, sendo, pois, correto o montante de R$ 29.709,42 (vinte e nove mil, setecentos e nove reais e quarenta e dois centavos), o que demonstra uma diferença de R$ 13.009,41 (treze mil, nove reais e quarenta e um centavos).
+O TJGO inadmitiu o recurso especial por incidir, no caso, o teor da Súmula n. 7 desta Corte (e-STJ, fls. 159/161).
+Nas razões do presente agravo em recurso especial, TROPICALE e outros refutam o referido óbice (e-STJ, fls. 169/175).
+Parecer do Ministério Público Federal pela desnecessidade de intervenção no caso (e-STJ, fls.195/197 ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO. ATUALIZAÇÃO. ERRO NOS CÁLCULOS. AFASTAMENTO. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DESCONSTITUIÇÃO DAS CONCLUSÕES DO ACÓRDÃO ESTADUAL. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+1. Não se configura omissão ou negativa de prestação jurisdicional no julgado estadual, quando a lide é decidida clara e fundamentadamente, com o pronunciamento acerca do tema proposto pela parte recorrente.
+2. A análise das razões recursais, tendo por base as conclusões do acórdão recorrido, para a constatação da não apreciação de todas as teses suscitadas para o deslinde da causa, mormente no tocante ao apontado erro nos cálculos de atualização do crédito, exige necessário reexame do acervo fático-probatório dos autos, o que não enseja recurso especial, em decorrência do disposto na Súmula n. 7 desta Corte.
+3 . Agravo em recurso especial conhecido para se conhecer parte do recurso especial e, nessa extensão, negar-lhe provimento.
+VOTO
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com
+impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Nas razões do apelo nobre, INCORPORAÇÃO TROPICALE LTDA. e outros apontam a violação dos arts. 489, § 1º, III e IV, e 1.022, II, parágrafo único, II, do CPC, sob o argumento de omissão por parte do acórdão recorrido, que não se manifestou acerca da ocorrência de erro de cálculos na atualização dos créditos buscados.
+Aduzem que, embora a descrição dos cálculos indique a incidência dos juros a partir da citação, tal informação não guarda conformidade com os valores apresentados na tabela juntada.
+Asseveram que o valor de R$ 42.715,56 (quarenta e dois mil, setecentos e quinze reais e cinquenta e seis centavos), resultado dos cálculos realizados, está errado, sendo pois correto o montante de R$ 29.709,42 (vinte e nove mil, setecentos e nove reais e quarenta e dois centavos), o que demonstra uma diferença de R$ 13.009,41 (treze mil, nove reais e quarenta e um centavos) .
+Todavia, apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre o tema proposto, não havendo, portanto, omissão ou negativa de prestação jurisdicional, no presente caso.
+O acórdão recorrido enfrentou o tema "erro nos cálculos" da seguinte forma:
+Na espécie, o provimento judicial embargado não se macula das alegadas omissões. Isto porque houve menção direta ao detalhamento dos cálculos e aos pareceres do gestor da recuperação judicial.
+Veja-se.
+" ..  1. Primeiramente não vinga a alegada omissão sobre a necessidade de intimar o Administrador Judicial a manifestar sobre a ocorrência de erro nos cálculos apresentados pela habilitante. Consoante informam os autos de origem, o administrador foi regularmente intimado (evento n. 25), apresentou manifesto pela juntada da planilha com atualização do cálculo até 07.11. 2017, em consonância com o art. 9º, LRJ (evento n. 41). Ato seguinte a habilitante apresentou recálculo no valor de R$ 306.941,52 (trezentos e seis mil, novecentos e quarenta e um reais e cinquenta e dois centavos) com descrição de todos os índices aplicados (evento n. 45). Novamente instado, o administrador judicial pediu novo cálculo com exclusão do valor correspondente a 10% (dez por cento) pelo inadimplemento voluntário da sentença (eventos ns. 48 e 59). Refeita a contabilização, o montante foi reduzido para R$ 255.784,60 (duzentos e cinquenta e cinco mil, setecentos e oitante e quatro reais e sessenta centavos - mov. 62-). Após intimação das partes e manifesto do Administrador pelo deferimento da habilitação, excluídos os honorários sucumbenciais, foi proferida sentença em que procedente a habilitação e determinando a inclusão da requerente na lista de credores, classe quirografários, no valor de R$ 215.306,91 (duzentos e quinze mil, trezentos e seis reais e noventa e um centavos)."
+Quanto aos argumentos de contradição, referem-se à atualização do débito conforme a sentença. Sobre o tema, o acórdão se pronunciou da seguinte forma:
+" ..  Os questionamentos do grupo empresarial sobre os critérios dos cálculos estabelecidos na sentença executada, deveriam ser resolvido no juízo da execução. Emitida a certidão de crédito, compete ao juízo da habilitação analisar se o título obedece os ditames da lei recuperacional. E, no caso em tela, o documento referenciado demonstra atualizado o débito em consonância com o art. 9º, II da Lei n. 11.101/2005.
+De modo que correta a decisão que julgou procedente o pedido de habilitação e determinou a inclusão do crédito descrito na lista de credores da recuperação judicial."
+Assim, as alegações de contradição no que se refere a atualização do débito forçam, explicitamente, a rediscussão do mérito causal na tentativa de reverter o quadro desfavorável, fim a que não se presta o recurso, ainda que para efeito de prequestionamento (TJGO, 6ª Câmara Cível, MS nº 433930-93.2015.8.09.0000, rel. Dr. Marcus da Costa Ferreira, DJ de 08.09.2016; TJGO, 4ª Câmara Cível, AC nº 364128-23.2012.8.09.0029, rel. Des. Carlos Escher, DJ de 05.09.2016; TJGO, 1ª Câmara Cível, AC nº 336477-13.2013.8.09.0051, rel. Des. Orloff Neves Rocha, DJ de 02.09.2016; e TJGO, 3ª Câmara Cível, AC nº 175253-77.2013.8.09.0112, rel. Des. Walter Carlos Lemes, DJ de 30.08.2016).
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+Além disso, conforme dito na decisão que inadmitiu o recurso especial, a análise das razões recursais, tendo por base as conclusões do acórdão recorrido para constatar a não apreciação de todas as teses suscitadas para o deslinde da causa, mormente no tocante ao apontado erro nos cálculos de atualização do crédito, exige necessário reexame do acervo fático-probatório dos autos, o que não enseja recurso especial, em decorrência do disposto na Súmula n. 7 desta Corte.
+Nessas condições, CONHEÇO do agravo para CONHECER em PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+É o voto.
