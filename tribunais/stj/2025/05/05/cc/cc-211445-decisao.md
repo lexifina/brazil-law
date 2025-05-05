@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado pelo JUÍZO FEDERAL DA SEÇÃO DE EXECUÇÃO PENAL DE CATANDUVAS - SJ/PR, suscitante e o JUÍZO FEDERAL DA CORREGEDORIA DOS PRESÍDIOS DA PENITENCIÁRIA FEDERAL DE MOSSORÓ - SJ/RN, suscitado.
+Consta nos autos que o apenado JEVSON NEVES DE FREITAS estava custodiado na Penitenciária Federal de Catanduvas/PR e foi transferido em 17/12/2024 para a unidade prisional federal em Mossoró/RN, por decisão proferida em 28/11/2024, que deferiu o pedido de rodízio formulado pela Secretaria Nacional de Políticas Penais - SENAPPEN (autos n. 9000569-46.2024.4.05.8400), nos seguintes termos (fl. 1172):
+Deve ser deferido o rodízio dos internos entre os estabelecimentos penais federais indicados pela Secretaria Nacional de Políticas Penais - SENAPPEN, de modo que caberá aos juízes corregedores das Penitenciárias Federais em Catanduvas/PR e Porto Velho/RO decidirem a respeito da renovação no Sistema Penitenciário Federal dos presos oriundos da unidade prisional sob a sua jurisdição, em que os prazos de permanência expiram em menos de 04 (quatro) meses, com o encaminhamento posterior da decisão de renovação para esta Corregedoria Judicial.
+E o Juízo Federal da Corregedoria dos Presídios na Penitenciária de Mossoró - SJ/RN, determinou a remessa dos autos ao Colegiado Judicial da Penitenciária Federal em Catanduvas/PR para que apreciasse o pedido de renovação (fl. 1172).
+O Juízo Federal da Seção de Execução Penal de Catanduvas - SJ/PR suscitou o conflito negativo de competência (fls. 03/14).
+A Defensoria Pública da União requereu a devolução do executado à origem (fls. 473/475).
+O Ministério Público Federal manifestou-se pelo conhecimento do conflito, a fim de que seja declarado competente o Juízo suscitado (fls. 1198/1202).
+É o relatório.
+DECIDO.
+Conheço do presente conflito de competência, porquanto instaurado em incidente entre Juízes vinculados a tribunais diversos, nos termos do art. 105, inciso I, alínea "d", da Constituição Federal.
+Na hipótese, constata-se que no Incidente de Transferência entre Estabelecimentos Penais n. 5045196-36.2022.4.04.7000/PR (fls. 479/481), formulado pela Secretaria de Administração Penitenciária do Estado do Pará - SEAP/PA, em que a Direção do Sistema Penitenciária Federal - DISPF opinou pelo deferimento do pedido e indicou a Penitenciária Federal de Catanduvas/PR para a custódia (fl. 532).
+No mérito, a Secretaria de Administração Penitenciária do Estado do Pará - SEAP/PA relatou que JEVSON NEVES FREITAS, vulgo "Samurai", "G" e
+"Gean", é criminoso de alta periculosidade; "Conselheiro Final" da facção criminosa Comando Vermelho Rogério Lemgruber - CVRL/PA; (fl. 551) com envolvimento na prática de diversos crimes como homicídio, tráfico de drogas e formação de quadrilha; bem como que, em 2018, empreendeu fuga do Presídio Estadual Metropolitano I (fl. 551).
+Autorizada a inclusão emergencial do apenado na Penitenciária Federal de Catanduvas em 29/12/2022 (fls. 550/589), a Seção de Execução Penal de Catanduvas decidiu, por unanimidade, homologar a autorização de inclusão emergencial de JEVSON NEVES FREITAS na Penitenciária Federal de Catanduvas/PR e fixar o período de permanência em 01 (um) ano, contado do dia 29/12/2022, na forma prevista no art. 10, §1º da Lei n. 11.671/2008 (fls. 664/687).
+Em seguida, o Juízo de origem (Vara do Tribunal do Júri de Ananindeua/PA - autos n 0811881-87.2022.8.14.0006), instado pela Secretaria de Estado de Administração Penitenciária do Pará - SEAP/PA, após oitiva do Ministério Público e da Defensoria Pública, encaminhou à Seção de Catanduvas procedimento para renovação do prazo de permanência do preso JEVSON NEVES FREITAS por mais 01 (um) ano e a Seção de Execução Penal de Catanduvas decidiu, por acolher o pedido de renovação da permanencia do apenado na Penitenciária Federal de Catanduvas por mais 01 (um) ano contado de 29/12/2023, na forma prevista no artigo 10, §1º e §4º da Lei n. 11.671/2008, com redação dada pela Lei n. 13.964/2019 (fls. 844/860).
+A Diretoria do Sistema Penitenciário Federal (DISPF) requereu a transferência de 16 (dezesseis) presos recolhidos na Penitenciária Federal de Catanduvas/PR para a Penitenciária Federal de Mossoró/RN, dentre os quais o apenado JEVSON NEVES FREITAS, com fundamento no artigo 12, Decreto n. 6.877/2009, que foi deferido pelo Juízo Corregedor da PFCAT, nos autos n. 9000847-06.2024.4.04.7000 e o Juízo Federal Corregedor da PFMOS também autorizou a transferência, nos autos n. 9000569- 46.2024.4.05.8400.
+Dispõe o artigo 7º da Resolução n. 113 do Conselho Nacional de Justiça - CNJ:
+Art. 7º Modificada a competência do juízo da execução, os autos serão remetidos ao juízo competente, excetuada a hipótese de agravo interposto e em processamento, caso em que a remessa dar-se-á após eventual juízo de retratação.
+O artigo 2º da Lei n. 11.671/2008 dispõe (grifamos):
+Art. 2º A atividade jurisdicional de execução penal nos estabelecimentos penais federais será desenvolvida pelo juízo federal da seção ou subseção judiciária em que estiver localizado o estabelecimento penal federal de segurança máxima ao qual for recolhido o preso.
+Parágrafo único. O juízo federal de execução penal será competente para as ações de natureza penal que tenham por objeto fatos ou incidentes relacionados à execução da pena ou infrações penais ocorridas no estabelecimento penal federal. (Incluído pela Lei n. 13.964, de 2019).
+Nesse sentido é o entendimento do Superior Tribunal de Justiça:
+CONFLITO NEGATIVO DE COMPETÊNCIA. TRANSFERÊNCIA LEGAL DE PRESO PARA OUTRA UNIDADE DA FEDERAÇÃO. COMPETÊNCIA DO JUÍZO DO LOCAL ONDE O SENTENCIADO CUMPRE A PENA.
+1. Cuidando-se de hipótese de transferência legal de preso para outra Comarca, altera-se a competência para a execução da pena, que passa a ser a do local onde o sentenciado está cumprindo a reprimenda.
+2. Conflito conhecido para declarar a competência do Juízo de Direito da Vara de Execuções Criminais do Distrito Federal, o suscitado.
+(CC n. 143.093/MG, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 14/10/2015, DJe de 21/10/2015.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PROVISÓRIA DA PENA. CONDENADO RECAMBIADO A OUTRO ESTADO DA FEDERAÇÃO. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES DO LOCAL ONDE O APENADO ESTIVER RECLUSO. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO.
+- A 3ª Seção desta Corte Superior tem se posicionado no sentido de que compete ao Juízo do local onde estiver recolhido o preso a apreciação dos pedidos referentes à execução da pena, ainda que provisória.
+- No caso dos autos, considerando o recambiamento do condenado para Estado da Federação diverso do que proferiu a sentença condenatória, os incidentes que ocorrerem no curso da execução penal passam a ser da competência do Juízo das execuções do local onde o preso encontra-se recluso.
+Conflito conhecido para declarar competente o Juízo de Direito da 1ª
+Vara Criminal de Casa Branca - SP, o suscitado.
+(CC n. 129.703/TO, relator Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Terceira Seção, julgado em 25/2/2015, DJe de 5/3/2015.)
+Assim, após a transferência do custodiado para a Penitenciária Federal de Mossoró/RN em 19/12/2024, o Juízo Federal da Corregedoria dos Presídios da Penitenciária Federal de Mossoró - SJ/RN, é o competente para as ações de natureza penal que tenham por objeto fatos ou incidentes relacionados à execução da pena ou infrações pe nais ocorridas no estabelecimento penal federal.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO FEDERAL DA CORREGEDORIA DOS PRESÍDIOS DA PENITENCIÁRIA FEDERAL DE MOSSORÓ - SJ/RN, ora suscitado.
+Comunique-se.
+Publique-se. Intimem-se.
+EMENTA
