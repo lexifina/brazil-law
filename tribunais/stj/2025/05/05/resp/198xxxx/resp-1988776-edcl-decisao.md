@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão em que dei parcial provimento ao recurso especial da empresa ré, para excluir da condenação a indenização por danos morais.
+Sustenta a parte embargante que houve contradição ao estabelecer o critério de distribuição recíproca dos ônus sucumbenciais, uma vez que os honorários advocatícios estavam arbitrados sobre o proveito econômico da demanda (procedimento e danos morais), portanto, os honorários advocatícios dos procuradores do recorrente deveriam ter sido calculados sobre o valor da exclusão do dano moral.
+Impugnação às fls. 864-866.
+Assim delimitada a questão, passo a decidir.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material no julgado.
+Na hipótese, verifico que a decisão embargada padece do vício apontado, pois deixou de levar em consideração o proveito econômico de cada parte ao estabelecer a distribuição dos ônus de sucumbência.
+O Tribunal de origem reformou a sentença "para que os honorários advocatícios sucumbenciais sejam fixados em 11% (onze por cento) sobre o valor da condenação, já incluída a fase recursal, nos termos do artigo 85, § 2º e 11, do Código de Processo Civil" (fl. 644).
+Ao analisar o recurso especial da parte ré, decidi da seguinte forma: "Em face do exposto, dou parcial provimento ao recurso especial interposto, apenas para excluir da condenação a indenização fixada a título de danos morais, distribuindo os ônus da sucumbência reciprocamente entre as partes" (fl. 855).
+Com efeito, na situação em que há sucumbência recíproca - como ocorre na espécie - o autor deve ser condenado ao pagamento de honorários sobre o resultado da diferença pecuniária entre o valor inicialmente obtido e o valor efetivamente concedido pelo Poder Judiciário após análise do recurso , que corresponde, de rigor, ao proveito econômico alcançado pelo réu na demanda. Nesse sentido (grifo acrescentado):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO. RESTITUIÇÃO. VALORES PAGOS. CONDENAÇÃO. PERCENTUAL. MENOR. PEDIDO. INICIAL. SUCUMBÊNCIA RECÍPROCA. ORIGEM. REDISTRIBUIÇÃO. ÔNUS. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AUTORES. BASE DE CÁLCULO. HIPÓTESE. PROVEITO ECONÔMICO.
+ ..
+3. A Segunda Seção desta Corte Superior, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o seu § 2º constitui a regra geral no sentido de que os honorários sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+4. Na hipótese, o decaimento dos autores corresponde ao proveito econômico obtido pela ré, que teve reduzido o percentual de ressarcimento dos valores pagos.
+5. No caso, os honorários advocatícios devidos pelos autores em favor dos advogados da parte adversa corresponderá ao percentual de 10% (dez por cento) incidente sobre o proveito econômico obtido, representado pelo resultado da diferença entre o montante pretendido na exordial e o montante efetivamente restituído. Precedente.
+6. Agravo interno provido em parte.
+(AgInt no AREsp n. 1.718.333/RJ, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA PELO PROMITENTE COMPRADOR. RESTITUIÇÃO DOS VALORES PAGOS. PERCENTUAL DE RETENÇÃO DE 25%. ATUAL ENTENDIMENTO. SUCUMBÊNCIA RECÍPROCA. DISTRIBUIÇÃO DOS ÔNUS E HONORÁRIOS SUCUMBENCIAIS. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. A Segunda Seção desta Corte, no julgamento do Resp nº 1.723.519/SP, em 28/08/2019, reafirmou a orientação pela adoção de um padrão-base de cláusula penal - retenção de 25% dos valores pagos - nos casos de desistência imotivada pelo comprador de imóvel, em que o acórdão recorrido não menciona qualquer circunstância específica que justifique a redução do parâmetro jurisprudencial.
+2. No caso de sucumbência recíproca os honorários e ônus decorrentes devem ser distribuídos adequadamente, levando em consideração o grau de êxito de cada um dos envolvidos. Ademais, honorários sucumbenciais devem possuir como base de cálculo o valor da condenação ou o proveito econômico obtido ou o valor atualizado da causa, devendo ser analisado a situação jurídica e o efetivo êxito de cada uma das partes envolvidas.
+3. Agravo interno parcialmente provido.
+(AgInt no AgInt no AREsp n. 1.397.224/SP, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 19/10/2020, DJe de 26/10/2020.)
+Deste modo, com o provimento parcial do recurso especial apenas para afastar a condenação por danos morais, o êxito da e mpresa ré corresponde ao valor excluído da condenação, o qual deve ser a base de cálculo dos honorários de sucumbência devidos pelo autor.
+Em face do exposto, acolho os embargos de declaração, com efeitos modificativos, para determinar que a sucumbência do autor seja fixada em 11% sobre o proveito econômico alcançado pela empresa ré com o recurso especial, e a sucumbência da ré seja de 11% do valor da condenação.
+Intimem-se.
+EMENTA
