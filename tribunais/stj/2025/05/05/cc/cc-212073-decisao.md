@@ -1,0 +1,14 @@
+DECISÃO
+O JUÍZO FEDERAL DA 4ª VARA DE MANAUS - SJ/AM suscita conflito de competência, em inquérito policial, diante do JUÍZO FEDERAL DA 9ª VARA DE CURITIBA - SJ/PR.
+A controvérsia estabelecida neste incidente processual se cinge a saber qual o juízo competente para a adoção de eventual medida judicial que se faça necessária em investigação deflagrada pela suposta prática de falsificação e uso de documento falso por haitianos, com a finalidade de ingressarem em território brasileiro.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo Federal da 4ª Vara da Seção Judiciária de Manaus - AM, ora suscitante (fls. 2.607-2.612).
+Decido.
+Estou de acordo com o Ministério Público Federal. Deveras, segundo o Juízo suscitado, não foram "obtidas informações sobre o local da contrafação dos documentos e considerando que sua apresentação se deu no Município de Manaus/AM" (fl.2.403), a competência, em princípio, deve ser fixada neste local.
+Malgrado as investigações tenham iniciado em Curitiba - PR, sob a suspeita da existência de uma quadrilha que estaria falsificando liminares para baneficiar haitianos que não teriam obtido decisões judiciais para imigração (entrada irregular no país), fato é que os referidos documentos foram apresentados, concretamente, em Manaus - AM.
+Não há como afirmar, como fez o Juízo suscitante, que tal conduta haja sido exaurimento do crime de falsificação (post factum impunível), porque o suposto falsificador e o beneficiário do documento seriam pessoas distintas.
+Com efeito, "o uso de documento falsificado (CP, art. 304) deve ser absorvido pela falsificação do documento público ou privado (CP, arts. 297 e 298), quando praticado pelo mesmo agente, caracterizando o delito de uso post factum não punível, ou seja, mero exaurimento do crime de falso, não respondendo o falsário pelos dois crimes, em concurso material" (AgRg no RHC n. 112.730/SP, relator Ministro Ribeiro Dantas, DJe 10/3/2020, destaquei).
+Logo, levando-se em consideração o andar das investigações, "ao menos em juízo perfunctório, a competência é do Juízo suscitado, pois a consumação do crime de uso de documento falso ocorre no local onde houve a apresentação dos documentos supostamente falsos" (CC n. 202.643/SP, relator Ministro Joel Ilan Paciornik, DJe 31/1/2025).
+No particular, como destacou o Parquet Federal, "ao restar demonstrado, a priori, que os fatos investigados tratam de delitos de falsidade de documento público e de uso de documento falso, os quais se consumam no local onde foram ou onde devem ser apresentados, a competência para o processo e julgamento do feito recai sobre o Juízo Federal desta localidade" (fls. 2.611-2.612).
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 4ª Vara da Seção Judiciária de Manaus - AM, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
+EMENTA
