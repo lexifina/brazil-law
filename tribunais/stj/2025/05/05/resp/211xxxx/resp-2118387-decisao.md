@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAFAEL MARIATH BASSUÍNO fundamentado no art. 105, III, "a" e "c", da CF, contra acórdão assim ementado (fls. 269-270):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO. PRELIMINAR DE SENTENÇA EXTRA PETITA AFASTADA. PRES CRIÇÃO AFASTADA. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS RECONHECIDA. POSSIBILIDADE DE REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES. CAPITALIZAÇÃO DE JUROS NÃO DEMONSTRADA. ALEGAÇÃO DE QUEBRA DO EQUILÍBRIO ATUARIAL RECHAÇADA. HONORÁRIOS READEQUADOS.
+Da preliminar de nulidade da sentença extra petita. A correção monetária fixada pelo IGP-M diz respeito à repetição do valor pago a maior e não das parcelas regulares do contrato, corrigidas pelo índice INPC, podendo ser fixado sem pedido da parte autora por se tratar de decorrência lógica, não configurando sentença extra petita.
+Da prescrição da repetição do indébito. O prazo prescricional para a pretensão de revisão contratual fundada em abusividades com pedido de compensação/restituição de valores cobrados a maior é de 10 anos (sob a égide do Código Civil vigente - artigo 205) ou 20 anos (na vigência do revogado Código Civil de 1916), uma vez que fundada em direito pessoal. No caso dos autos, evidenciada a ocorrência de sucessão negocial, deve ser considerado termo inicial do prazo prescricional a data da assinatura do último empréstimo em que ocorrida a renegociação, razão pela qual resta afastada a prescrição.
+Dos juros remuneratórios. Tratando-se a parte ré de entidade de previdência fechada, aplica-se a vedação relativa à cobrança de juros superiores a 12% ao ano, nos termos do art. 1º da Lei de Usura (Dec. 22.626/33).
+Da repetição do indébito. Viável a repetição de valores na forma simples, uma vez que consectário da pretensão revisional e da imprescindibilidade de ajuste da relação débito - crédito, diante da vedação ao enriquecimento sem causa.
+Da capitalização dos juros. Por se tratar de entidade de previdência privada fechada, que não se equipara às instituições financeiras, não se aplica a Medida Provisória nº 1.963-17, reeditada sob o nº 2.170-36/2001, que autoriza a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada no contrato. No caso, entretanto, não restou demonstrada a capitalização de juros.
+Do desequilíbrio atuarial do plano de benefícios. Com efeito, registre-se que a relação jurídica em revisão não é a previdenciária em si, mas, sim, a contratual na qual a requerida atua como se instituição financeira fosse. Desta forma, a limitação dos juros, com base no diploma civil, não é capaz de acarretar déficit atuarial à entidade demandada.
+Da readequação dos honorários sucumbenciais. Os honorários em favor do procurador da parte ré não podem ser fixados sobre o valor do proveito econômico obtido pela parte autora. Portanto, readequou os honorários do procurador da parte ré para 10% sobre o valor atualizado da causa, uma vez que tal valor se mostra mais razoável às particularidades do caso concreto e atende de maneira justa o trabalho desenvolvido.
+RECURSOS DE APELAÇÃO PARCIALMENTE PROVIDOS.
+Os dois embargos de declaração inicialmente opostos foram parcialmente providos, sob a seguinte ementa (fl. 318):
+EMBARGOS DECLARATÓRIOS. APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO. INAPLICABILIDADE DO CDC. ÍNDICE DE CORREÇÃO. PRESCRIÇÃO. VERBA SUCUMBENCIAL REDISTRIBUÍDA.
+Os embargos de declaração constituem remédio processual cuja finalidade é esclarecer obscuridade ou eliminar contradição, assim como suprir omissão de ponto ou questão sobre o qual deveria o Julgador se manifestar, além de corrigir eventual erro material, consoante hipóteses trazidas nos incisos do art. 1.022 do CPC.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+Em seguida, a parte ora recorrente opôs novos embargos de declaração, os quais foram rejeitados (fls. 344-347)
+Em suas razões recursais (fls. 354-395), a parte aponta dissídio jurisprudencial e violação dos arts. 85, § 2º, e 1.022 do CPC, sustentando, em síntese:
+(i) " ..  se a revisão das cláusulas contratuais ensejou a condenação à restituição dos valores pagos a maior pela parte re corrente, por evidente que há benefício econômico apurável, de forma que o arbitramento dos honorários sobre o valor da causa contraria a literalidade do § 2º do artigo 85 do Código de Processo Civil" (fl. 366); e
+(ii) negativa de prestação jurisdicional, pois os honorários foram estabelecidos pelo Juízo de origem "em 10% sobre o valor a ser restituído ao autor, não havendo recurso da ré no aspecto" (fl. 391) e que a Corte local "de ofício, ao redistribuir os ônus de sucumbência, alterou a decisão no que se refere à base de cálculo dos honorários em favor das partes, o que extrapola os limites recursais" (fl. 391) e entende que, apesar de terem sido opostos embargos de declaração quanto ao ponto, a alegada omissão não teria sido sanada.
+Aduz que "os precedentes deste Superior Tribunal de Justiça apontam em sentido oposto, sendo literais ao afirmar que, em se tratando de ação revisional com condenação à restituição dos valores pagos a maior, os honorários advocatícios devem incidir sobre o proveito econômico obtido pelo recorrente com a demanda" (fl. 376).
+Contrarrazões apresentadas (fls. 434-439).
+O recurso foi admitido na origem.
+A parte FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO também interpôs recurso especial (fls. 399-410), o qual será apreciado em apartado.
+É o relatório.
+Decido.
+Tendo em vista o provimento do recurso especial da FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO, em decisão simultânea a esta, determinando o retorno dos autos à origem para que a Corte local, à luz do entendimento desta Corte, prossiga no exame da prescrição do direito do recorrente quanto à revisão dos contratos, está prejudicada a análise do presente recurso.
+Diante do exposto, JULGO PREJUDICADO o recurso especial por perda de
+objeto.
+Publique-se. Intimem-se.
+EMENTA
