@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de CARLOS ALBERTO CARLINI - condenado por homicídio qualificado a 21 anos, 9 meses e 18 dias de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça de Santa Catarina (fls. 10 e 14/17), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria - na condenação proferida na Ação Penal n. 5042007-56.2023.8.24.0038 (fls. 11/13, da Vara do Tribunal do Júri da comarca de Joinville/SC), alterada em grau de apelação -, com a exclusão das agravantes motivo torpe e dissimulação, na segunda fase de dosimetria da pena, sustentando que o reconhecimento da referida agravante não foi postulado em debates pelo Ministério Público (fl. 6).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 790.078/SC, Ministra Daniela Teixeira, Quinta Turma, DJEN de 17/12/2024; e AgRg no HC n. 918.369/SC, de minha relatoria, Sexta Turma, DJe de 24/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois, na hipótese de existência de pluralidade de qualificadoras reconhecidas pela Conselho de Sentença (fl. 11), não configura bis in idem a utilização de uma, a fim de qualificar o delito; e das demais, na segunda fase da dosimetria, consideradas agravantes genéricas, desde que haja previsão legal expressa, como no presente caso.
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
