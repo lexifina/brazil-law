@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RECUSA DE TRATAMENTO PRESCRITO PELO MÉDICO. DEVER DE COBERTURA. ROL DA ANS. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVID O.
+1. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP), firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela existência de excepcional necessidade de cobertura. Aplicação da Súmula n. 7 do STJ.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PREVENT SENIOR PRIVATE OPERADORA DE SAÚDE LTDA. (PREVENT) contra decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO VERIFICAÇÃO. FORNECIMENTO DE MEDICAMENTO QUE NÃO CONSTA NO ROL DA ANS. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DEVER DE COBERTURA. RECURSO ESPECIAL NÃO CONHECIDO. (e-STJ, fl. 689)
+Os embargos de declaração opostos pela PREVENT foram rejeitados.
+Nas razões do presente inconformismo, defendeu que é lícita a exclusão do fornecimento de medicamentos para tratamento domiciliar que não consta no rol da ANS.
+Não foi apresentada contraminuta.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RECUSA DE TRATAMENTO PRESCRITO PELO MÉDICO. DEVER DE COBERTURA. ROL DA ANS. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVID O.
+1. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP), firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela existência de excepcional necessidade de cobertura. Aplicação da Súmula n. 7 do STJ.
+2. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+3. Agravo interno não provido.
+VOTO
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Nas razões do presente recurso, PREVENT defendeu que é lícita a exclusão do fornecimento de medicamentos para tratamento domiciliar que não consta no rol da ANS.
+Como bem delineado na decisão agravada, em julgamento finalizado no dia 8 de junho de 2022, a Segunda Seção desta Corte Superior entendeu ser taxativo, em regra, o rol de procedimentos e eventos estabelecido pela Agência Nacional de Saúde (ANS), não estando as operadoras de saúde obrigadas a cobrirem tratamentos não previstos na lista. Contudo, o Colegiado fixou parâmetros para que, em situações excepcionais, os planos custeiem procedimentos não previstos na lista, a exemplo de terapias com recomendação médica, sem substituto terapêutico no rol, e que tenham comprovação de órgãos técnicos e aprovação de instituições que regulam o setor.
+Por maioria de votos, a Seção definiu as seguintes teses:
+1. O rol de procedimentos e eventos em saúde suplementar é, em regra, taxativo;
+2. A operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao rol;
+3. É possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra rol;
+4. Não havendo substituto terapêutico ou esgotados os procedimentos do rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao rol da saúde suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como Conitec e Natjus) e estrangeiros; e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa, concluiu pela abusividade da negativa de cobertura do tratamento.
+Por oportuno, transcreve-se:
+Sendo assim, a negativa de autorização e custeio do procedimento do qual o autor necessitava viola as expectativas legítimas que o paciente possuía no momento da celebração do contrato, pois tal exame era imprescindível para realização de um diagnóstico preciso.
+Verifica-se, portanto, ser possível a cobertura de tratamento não constante do rol da ANS, desde que em caráter excepcional e observados os requisitos estabelecidos pelo Superior Tribunal de Justiça.
+No caso, a operadora não demonstrou a existência de outro procedimento eficaz, efetivo e seguro já incorporado ao rol para o tratamento do paciente.(e-STJ, fl.496)
+Por esse motivo, para se desconstituir as premissas firmadas no acórdão recorrido, seria necessário perquirir se haveria outro procedimento eficaz para o tratamento da patologia que acomete a parte autora, ponderação que demandaria, inevitavelmente, o reexame do acervo fático-probatório dos autos, o que é obstado, em recurso especial, pelo enunciado da Súmula n. 7 do STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO QUE NÃO CONSTA NO ROL DA ANS. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DEVER DE COBERTURA. PRECEDENTES. DANOS MORAIS. CONFIGURAÇÃO. REDUÇÃO DO QUANTUM. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção deste STJ, em recente julgamento (EREsp n. 1.886.929/SP e n. 1.889.704/SP) firmou o entendimento no sentido de que o rol de cobertura de doenças previsto na ANS não é exemplificativo, somente podendo ser relativizado em hipóteses excepcionais, com demonstração técnica da efetiva necessidade. Na presente hipótese, a Corte de origem, com base nos elementos fáticos dos autos, concluiu, de forma expressa e embasada em critérios técnicos, pela existência de excepcional necessidade de cobertura.
+Aplicação da Súmula nº 7 do STJ.
+2. Existência de entendimento pacífico desta Corte Superior no sentido de que, nos casos em que a recusa indevida de cobertura de tratamento médico-hospitalar impõe ao usuário de plano de saúde um grau de sofrimento físico/psíquico que extrapola aquele decorrente do mero inadimplemento contratual, atingindo direito da personalidade, fica demonstrada a ocorrência de danos morais e caracterizado o direito à reparação. Inviabilidade de reexame da conclusão alcançada pelo Tribunal local quanto ao ponto em virtude da incidência da Súmula nº 7 do STJ.
+3. Quanto ao valor arbitrado a título de danos morais, a jurisprudência do STJ admite, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de compensação por danos morais, quando ínfimo ou exagerado, o que não se verifica no caso dos autos.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.763.199/RN, minha relatoria, Terceira Turma, julgado em 17/2/2025, DJEN de 21/2/2025 - destacou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022, II, DO CPC. NÃO OCORRÊNCIA. NEOPLASIA. NEGATIVA DE COBERTURA EXAME PET/CT. TAXATIVIDADE MITIGADA DO ROL DA ANS. CRITÉRIOS. SUPERVENIÊNCIA DA LEI N. 14.454/2022. EFEITOS PRÁTICOS SIMILARES DO "ROL TAXATIVO MITIGADO". ABUSIVIDADE. DANO MORAL CONFIGURADO. ALTERAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa ao art. 1.022 do CPC quando a corte de origem examina e decide, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. O rol de procedimentos e eventos em saúde suplementar da ANS é de taxatividade mitigada em situações excepcionais, devidamente demonstradas (EREsp n. 1.886.929/SP e EREsp n. 1.889.704/SP, Segunda Seção).
+3. A superveniência da Lei n. 14.454/2022 estabeleceu os critérios delineados pela Segunda Seção desta Corte quanto à taxatividade mitigada do rol da ANS.
+3. Não se admite a revisão do entendimento do tribunal de origem quando a situação de mérito demandar o reexame do acervo fático-probatório dos autos, tendo em vista a incidência do óbice da Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.568.108/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 25/11/2024, DJEN de 29/11/2024. - destacou-se)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, NEGO PROVIMENTO ao agravo interno.
+É o voto.
