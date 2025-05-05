@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Paulo Sérgio Domingues votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. IMPEDIMENTO DE CIRCULAÇÃO DE VEÍCULO. MEDIDA EXTREMA NÃO JUSTIFICADA NO CASO CONCRETO. CONCLUSÃO DA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. IMPOSSIBILIDADE DE REVISÃO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - In casu, a pretensão recursal de rediscutir a proporcionalidade de medida constritiva de impedimento de circulação do veículo penhorado, demanda revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA contra a decisão, mediante a qual o recurso especial não foi conhecido, com base na ausência de omissão acerca de questão essencial ao deslinde da controvérsia e na incidência do óbice da Súmula 7 do STJ (fls. 101/106e).
+A Agravante sustenta, em síntese, que a decisão merece reforma, pois não se trata de reexaminar matéria fática, mas sim questão jurídica, uma vez que a execução se realiza no interesse do credor, nada impedindo que a parte requeira ao Judiciário a efetivação de medidas executivas, como a restrição de circulação de veículo, através do sistema RENAJUD.
+-"O que se discute é a possibilidade de restrição de circulação de veículo, por via do sistema RENAJUD, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo" (fl. 112e);
+-"Todavia, para a efetivação da medida judicial, o sistema Renajud permite a ordem de restrição de transferência, de licenciamento, bem como de circulação sobre o veículo penhorado";
+-"A questão a ser analisada é a viabilidade ou não da restrição da circulação do veículo para a realização da penhora";
+-"No STJ, a jurisprudência é pacificada no sentido contrário ao acórdão recorrido" e
+-"Logo, não é caso de incidência do óbice da Súmula 7/STJ" (fl. 114e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 121e).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. IMPEDIMENTO DE CIRCULAÇÃO DE VEÍCULO. MEDIDA EXTREMA NÃO JUSTIFICADA NO CASO CONCRETO. CONCLUSÃO DA CORTE DE ORIGEM A PARTIR DO EXAME DE ELEMENTOS FÁTICOS. IMPOSSIBILIDADE DE REVISÃO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+I - In casu, a pretensão recursal de rediscutir a proporcionalidade de medida constritiva de impedimento de circulação do veículo penhorado, demanda revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+II - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+III - Agravo Interno improvido.
+VOTO
+O Agravante alega que se discute a possibilidade de restrição de circulação de veículo, por via do sistema RENAJUD, para viabilizar a localização e apreensão do bem, a fim de que seja realizada a penhora e a consequente satisfação do crédito exequendo.
+Diferentemente do alegado, o questionamento não está relacionado com a possibilidade da adoção de tal medida por meio do sistema apontado, e sim a sua necessidade no presente feito.
+Sobre a questão, a Corte de origem assentou que, no caso, a restrição total sobre o veículo resulta em medida extrema, devendo ser determinada, por ora, apenas a restrição de transferência do bem junto ao órgão de trânsito, que reputa suficiente ao fim pretendido:
+Quando da análise do pedido de efeito suspensivo, foi proferida decisão indeferindo-o, cujas razões ora repiso para negar provimento ao agravo de instrumento.
+Em relação à restrição de circulação do veículo, registro que o RENAJUD consiste em sistema de restrição judicial de veículos que autoriza a comunicação eletrônica entre o Poder Judiciário e o DENATRAN (Departamento Nacional de Trânsito), perm itindo a efetivação de ordens judiciais de restrição de veículos automotores na base de dados do Registro Nacional de Veículos Automotores - RENAVAM.
+Conforme previsão do Regulamento do RENAJUD, as restrições ali previstas restam assim:
+"Art. 7º - A restrição de transferência impede o registro da mudança da propriedade do veículo no sistema RENAVAM."
+"Art. 8º - A restrição de licenciamento impede o registro da mudança da propriedade, bem como um novo licenciamento do veículo no sistema RENAVAM."
+"Art. 9º - A restrição de circulação (restrição total) impede o registro da mudança da propriedade do veículo, um novo licenciamento no sistema RENAVAM e também sua circulação em território nacional, autorizando o recolhimento do bem a depósito."
+Na hipótese em apreço, tenho que a restrição total sobre o veículo resulta em medida extrema, devendo ser determinada, por ora, apenas a restrição de transferência do bem junto ao órgão de trânsito, que reputo suficiente ao fim pretendido.
+Nesse sentido, o seguinte precedente deste Tribunal:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. RESTRIÇÃO DE CIRCULAÇÃO DE VEÍCULOS. RENAJUD. MEDIDA EXTREMA. INDEFERIMENTO. 1. O RENAJUD consiste em sistema de restrição judicial de veículos que autoriza a comunicação eletrônica entre o Poder Judiciário e o DENATRAN (Departamento Nacional de Trânsito), permitindo a efetivação de ordens judiciais de restrição de veículos automotores na base de dados do Registro Nacional de Veículos Automotores - RENAVAM. 2. A restrição de circulação (restrição total) impede o registro da mudança da propriedade do veículo, um novo licenciamento no sistema RENAVAM e também sua circulação em território nacional, autorizando o recolhimento do bem a depósito. 3. A restrição total sobre os veículos resulta em medida extrema, devendo ser autorizada, preferencialmente, a restrição de transferência dos bens junto ao órgão de trânsito. (TRF4, AG 5017818-95.2018.4.04.0000, TERCEIRA TURMA, Relatora VÂNIA HACK DE ALMEIDA, juntado aos autos em 23/08/2018)"
+"PROCESSUAL CIVIL. EXECUÇÃO FISCAL. VEÍCULO DADO EM PENHORA. RENAJUD. RESTRIÇÃO DE TRANSFERÊNCIA."
+"1. A restrição de circulação do veículo, ainda nem penhorado, mas na iminência de penhora, fere norma cogente exposta no artigo 620, do CPC, e causará ao agravante, pela restrição referida, grave dano, de difícil e incerta reparação."
+"2. A restrição de transferência do bem já se mostra suficiente ao fim pretendido, sendo desnecessária a imposição de medida mais gravosa, que resulta em penalização não prevista em lei, de privação da locomoção do profissional que precisa do automóvel, revelando aí, o risco de dano irreparável ou de difícil reparação a albergar a pretensão do agravante. (AG nº 0002917-52.2014.404.0000, 3ª Turma, Rel. Des. Federal Marga Inge Barth Tessler, D.E. 29/08/2014)"
+Neste contexto, a decisão recorrida não merece reparos, impondo-se negar provimento ao agravo de instrumento. (fls. 31/32e)
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal de rediscutir a proporcionalidade de medida constritiva de impedimento de circulação do veículo penhorado demanda revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ. , assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
