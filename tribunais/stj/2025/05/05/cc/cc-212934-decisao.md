@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por CIFARMA CIENTÍFICA FARMACÊUTICA LTDA - EM RECUPERAÇÃO JUDICIAL envolvendo o r. Juízo de Direito da 32ª Vara Cível de Goiânia/GO, no qual se processa a recuperação judicial da suscitante (Processo nº 5033694- 50.2024.8.09.0051) e a 11ª Vara do Trabalho de Goiânia/GO, onde tramita a reclamação trabalhista n.º 0011253-23.2023.5.18.0011, ajuizada por ITAMAR MILHOMEM DA SILVA.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos constritivos em face do patrimônio de sócio(a) , por meio de desconsideração da personalidade jurídica. Argumenta, nesse contexto, que a competência é do r. juízo da recuperação judicial. Requer, assim, a declaração de competência do r. juízo universal.
+Pede, em caráter liminar, o sobrestamento do ato impugnado e, no mérito, o reconhecimento da competência do r. juízo da recuperação judicial. (fls. 2/10)
+É o relatório.
+Decisão.
+A matéria subjacente ao presente incidente encontra-se pacificada no âmbito deste Superior Tribunal de Justiça, de modo a atrair a incidência da Súmula 568/STJ e a possibilidade do exame unipessoal da questão. (ut. CC 179.787/PE, Rel. Min. Paulo de Tarso Sanseverino, Dje de 25/05/2021; CC 169.970/SP, Rel. Min. Antonio Carlos Ferreira, Dje de 30/03/2020)
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Em conflitos similares, a jurisprudência desta Corte Superior caminha no sentido segundo o qual a Justiça do Trabalho possui competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial e/ou falência, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+Nesse sentido, vale conferir os seguintes julgados: AgInt no CC 196906/SP, Rel. Min. Raul Araújo, DJe de 22/03/2024; AgInt no CC 201870/PR, Rel. Min. Humberto Martins, D Je de 06/05/2024, dentre inúmeros outros julgados.
+A propósito, em recentíssima manifestação ocorrida na sessão de 14/8/2024, a eg. Segunda Seção, ao interpretar a Lei n. 14.112/2020, que introduziu alterações na Lei n. 11.101/05, dentre elas o artigo 82-A, ratificou a referida exegese por ocasião do julgamento do CC 200.777/SP, Rel. p/acórdão, o e. Min. Antonio Carlos Ferreira de modo que, em razão da segurança jurídica e do respeito ao princípio do colegiado, impõe-se o não conhecimento do presente conflito de competência.
+Na mesma linha: Agint no CC 202.310/PE, Desta Relatoria, Dje de 16/10/2024.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do CPC c/c Súmula 568/STJ, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Oficiem-se aos r. juízos suscitados. Após, arquivem-se.
+EMENTA
