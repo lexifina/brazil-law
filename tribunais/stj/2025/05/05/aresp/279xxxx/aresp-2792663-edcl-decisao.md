@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por UNIÃO contra decisão monocrática de minha relatoria, assim ementada (fls. 427-429):
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MILITAR. PRESCRIÇÃO. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
+Sustenta a parte Embargante omissão no julgado, ao alegar que (fl. 435):
+O recurso objeto de julgamento foi interposto em face de acórdão/decisão publicado(a) já na vigência do novo Código de Processo Civil e houve condenação em honorários advocatícios (fl. 253), de modo que, nos termos do Enunciado Administrativo n.º 7 do Superior Tribunal de Justiça, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11 do CPC/15.
+Nesse contexto, é importante destacar que o novel instituto foi criado pelo legislador não apenas para remunerar o trabalho do advogado em grau recursal, mas também, e principalmente, para inibir recursos provenientes de decisões condenatórias antecedentes.
+Requer, assim, seja "sanada a omissão no que tange à condenação da parte recorrente a pagar à parte recorrida, cumulativamente, honorários recursais, a teor do que dispõe o art. 85, § 11, do CPC" (fl. 436).
+Intimada, a parte apresentou impugnação (fl. 442-446) .
+É o relatório.
+Decido.
+Nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Constata-se que tais vícios são verificados na espécie.
+Com efeito, a Corte Especial do STJ firmou entendimento de que a majoração dos honorários de sucumbência, prevista no art. 85, § 11, do CPC, pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido, não se aplicando em caso de provimento total ou parcial do recurso.
+No caso em tela, o agravo em recurso especial não foi conhecido, o que enseja a aplicação do art. 85, § 11, do CPC, conforme a tese fixada no Tema n. 1.059 do STJ.
+A esse respeito:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. TEMA 1059/STJ. RECURSO DESPROVIDO.
+1. A Corte Especial do STJ firmou entendimento de que a majoração dos honorários de sucumbência, prevista no art. 85, § 11, do CPC, pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido, não se aplicando em caso de provimento total ou parcial do recurso.
+2. No caso concreto, o recurso especial foi parcialmente provido, o que impede a aplicação do art. 85, § 11, do CPC, conforme a tese fixada no Tema n. 1059/STJ.
+3. Agravo interno desprovido. (AgInt nos EDcl no REsp n. 2.027.907/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 12/2/2025, DJEN de 17/2/2025; sem grifo no original)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC. NÃO OCORRÊNCIA. SISTEMA DE CONTABILIDADE, CUSTO INTEGRADO E COORDENADO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 7/STJ. INCIDÊNCIA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ART. 85, § 11, DO CPC. TEMA 1.059/STJ. CABIMENTO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. PROVIMENTO NEGADO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, segundo se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade. Destaca-se que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+2. O Tribunal de origem concluiu pela inexistência de sistema de contabilidade de custo integrado e coordenado. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. A Corte Especial do STJ, ao julgar o Recurso Especial 1.864.633/RS, representativo da controvérsia, em sessão realizada no dia 9/11/2023, examinou a questão relacionada à majoração da verba honorária em sede recursal, questão que foi pacificada no Tema 1.059 do STJ, segundo o qual: "A majoração dos honorários de sucumbência prevista no art. 85, § 11, do CPC pressupõe que o recurso tenha sido integralmente desprovido ou não conhecido pelo tribunal, monocraticamente ou pelo órgão colegiado competente. Não se aplica o art. 85, § 11, do CPC em caso de provimento total ou parcial do recurso, ainda que mínima a alteração do resultado do julgamento e limitada a consectários da condenação". (AgInt nos EDcl no REsp 2.056.226/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 13/5/2024, DJe de 21/5/2024.)
+4. Agravo a que se nega provimento. (AgInt no AREsp n . 2.050.477/RJ, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024; sem grifo no original)
+Assim, verifica-se irregularidade sanável por meio dos presentes embargos, padecendo a decisão embargada dos vícios que autorizariam a sua oposição:
+Em atenção ao disposto no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado (fl. 253), respeitados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, bem como eventual concessão da gratuidade de justiça.
+Ante o exposto, ACOLHO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO. CABIMENTO. RECURSO NÃO CONHECIDO. OMISSÃO. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
