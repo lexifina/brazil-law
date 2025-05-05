@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Moura Ribeiro.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRINCÍPIOS DA NÃO SURPRESA, CONGRUÊNCIA, ADSTRIÇÃO E DIALETICIDADE. AUSÊNCIA DE VIOLAÇÃO. 3. DEPÓSITO JUDICIAL. LEVANTAMENTO DA QUANTIA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO AOS CONSECTÁRIOS DA MORA (TEMA N. 677 DO STJ). PEDIDO NEGADO PELO TRIBUNAL ESTADUAL. PARTE QUE POSTULOU A EXTINÇÃO DA EXECUÇÃO PELA SATISFAÇÃO DO DÉBITO APÓS A EXPEDIÇÃO DO SEGUNDO ALVARÁ. VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E BOA-FÉ OBJETIVA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Esta Corte Superior já decidiu que o princípio da não surpresa não incide nos casos em que a decisão é contrária aos fundamentos defendidos pela parte.
+3. Tendo em vista que o autor não impugnou especificamente o argumento de que, após a expedição do segundo alvará, postulou expressamente a extinção da execução pela satisfação do débito, incide a Súmula n. 283 do STF.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por BRENO LORENO SCHUCK (BRENO), com fundamento no art. 105, III, alínea a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXPURGOS INFLACIONÁRIOS DE CADERNETAS DE POUPANÇA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA DE AÇÃO CIVIL PÚBLICA.
+I - Preliminar de suspensão do processo. Incabível a suspensão do levantamento de valores relativos aos juros de mora, pois o R Esp nº 1.370.899-SP (Tema 685) foi desprovido, por acórdão transitado em julgado, razão pela qual a MC 21.845, que lhe emprestou efeito suspensivo, perdeu a vigência. Rejeitada a preliminar.
+II - Depósito judicial e elisão da mora. Conforme art. 200 do CPC, os atos de declaração de vontade das partes produzem imediatamente a constituição, modificação e extinção de direitos processuais, de sorte que é vedada a reabertura do debate sobre o cálculo do valor devido, depois de a própria parte exequente já haver se manifestado nos autos, no sentido de que seu crédito estava integralmente satisfeito, inclusive pedindo a baixa e arquivamento do feito, com o que concordou a parte executada, sendo certo, ademais, que o princípio da boa-fé objetiva veda o comportamento contraditório das partes, conforme art. 5º do CPC. Assim, deve ser rejeitado o pedido de pagamento de valor remanescente, calculado conforme a nova redação do Tema 677 do STJ.
+AGRAVO DE INSTRUMENTO PROVIDO, REJEITADA A PRELIMINAR. UNÂNIME. (e-STJ, fls. 59).
+Os embargos de declaração opostos por BRENO foram rejeitados (e-STJ, fls. 80).
+Nas razões do presente recurso, BRENO alegou a violação dos arts. 394, 395, 397, 401, 406 e 407 do CC, 10, 141, 489, 492, 904, 905, 906, 924, 925, 926, 927, 1.016, II e III, 1.022, 1.025 do CPC, ao sustentar que (1) não foram enfrentadas alegações capazes de infirmar o julgado, caracterizando omissão; (2) foram violados os princípios da não surpresa, congruência e adstrição e dialeticidade; (3) não houve preclusão quanto à aplicabilidade do Tema n. 677 do STJ; (4) a mora somente se extingue com a efetiva entrega do dinheiro ao credor; (5) o depósito judicial não isenta o devedor dos encargos moratórios até o efetivo cumprimento da obrigação.
+Foram apresentadas contrarrazões (e-STJ, fls. 116/124).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+EMENTA
+CIVIL E PROCESSO CIVIL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. CADERNETAS DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. 1. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. 2. PRINCÍPIOS DA NÃO SURPRESA, CONGRUÊNCIA, ADSTRIÇÃO E DIALETICIDADE. AUSÊNCIA DE VIOLAÇÃO. 3. DEPÓSITO JUDICIAL. LEVANTAMENTO DA QUANTIA. PROSSEGUIMENTO DA EXECUÇÃO QUANTO AOS CONSECTÁRIOS DA MORA (TEMA N. 677 DO STJ). PEDIDO NEGADO PELO TRIBUNAL ESTADUAL. PARTE QUE POSTULOU A EXTINÇÃO DA EXECUÇÃO PELA SATISFAÇÃO DO DÉBITO APÓS A EXPEDIÇÃO DO SEGUNDO ALVARÁ. VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E BOA-FÉ OBJETIVA. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+1. Não se reconhece a violação dos arts. 489 e 1.022 do CPC quando há o exame, de forma fundamentada, de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte.
+2. Esta Corte Superior já decidiu que o princípio da não surpresa não incide nos casos em que a decisão é contrária aos fundamentos defendidos pela parte.
+3. Tendo em vista que o autor não impugnou especificamente o argumento de que, após a expedição do segundo alvará, postulou expressamente a extinção da execução pela satisfação do débito, incide a Súmula n. 283 do STF.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+VOTO
+(1) Da omissão e da negativa de prestação jurisdicional
+Em suas razões recursais, BRENO sustenta que o acórdão foi omisso quanto aos seguintes argumentos: (a) não conhecimento do recurso em decorrência da generalidade das alegações e violação do princípio da dialeticidade; (b) adoção de fundamentos inovadores em clara violação do princípio da não surpresa; (c) a extinção do processo não é matéria processual, o que afasta a ocorrência de preclusão; (d) não houve prévia deliberação sobre eventuais efeitos liberatórios dos depósitos para garantia do juízo e das penhoras nem homologação de saldo.
+Apesar do inconformismo, verifica-se que o Tribunal local se pronunciou sobre todos os temas importantes ao deslinde da controvérsia, não havendo, portanto, omissão, contradição ou obscuridade.
+Assim, inexistem os vícios elencados no art. 1.022 do CPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. AUSÊNCIA. RESPONSABILIDADE CIVIL RECONHECIDA. EXCLUDENTES AFASTADAS. REVISÃO. NÃO CABIMENTO. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. APLICAÇÃO DA SÚMULA 7/STJ. ARBITRAMENTO DE DANOS MORAIS. DISCUSSÃO DO VALOR. PROPORCIONALIDADE RECONHECIDA. IMPOSSIBILIDADE DE REVISÃO NESTES AUTOS. SÚMULA 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. CITAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.229.195/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/9/2023, DJe de 6/9/2023)
+Afasta-se, portanto, a alegada violação.
+(2) Da violação dos princípios da não surpresa, congruência, adstrição e dialeticidade
+BRENO afirmou ainda que, ao acolher pedido genérico do banco e adotar fundamentos inovadores, o acórdão surpreendeu as partes e realizou julgamento fora dos limites do pedido e da causa de pedir.
+Entretanto, forçoso reconhecer que o Tribunal de Justiça do Rio Grande do Sul enfrentou expressamente a matéria suscitada pelas partes, qual seja, o prosseguimento da execução quanto aos consectários de mora apurados conforme Tema n. 677 do STJ.
+Por seu turno, esta Corte Superior já decidiu que o princípio da não surpresa não incide nos casos em que a decisão é contrária aos fundamentos defendidos pela parte, sendo este exatamente o caso dos autos.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO. SEGURO. ART. 10 DO CPC. PRINCÍPIO DA NÃO SURPRESA. AFRONTA. AUSÊNCIA. PRODUÇÃO PROBATÓRIA. PROVA PERICIAL. NECESSIDADE. SÚMULA Nº 7/STJ. DESCONSIDERAÇÃO DOS LIMITES DA APÓLICE. AFASTAMENTO NA ORIGEM. REEXAME. SÚMULAS NºS 5 e 7/STJ.
+1. O princípio da não surpresa, constante no art. 10 do CPC, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação da lei aos fatos narrados pelas partes, como no caso dos autos.
+ ..
+(AgInt no AREsp n. 1.721.344/RN, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023)
+(3) Da incidência do Tema n. 677 do STJ
+BRENO afirmou ainda que não houve a preclusão quanto à aplicação do Tema n. 677 do STJ, porque não houve prévia deliberação sobre os eventuais efeitos liberatórios dos depósitos para garantia do juízo e das penhoras, tampouco homologação de saldo.
+O Tribunal estadual rechaçou o pedido de prosseguimento da execução quanto aos consectários de mora do devedor, apurados de acordo com o Tema n. 677 do STJ, sob o argumento de que, após expedição de segundo alvará eletrônico do valor atualizado do débito, a própria parte autora postulou a extinção da execução pela satisfação da obrigação, ressaltando ainda que:
+Com efeito, descabe a tentativa de reabrir debate sobre o cálculo do saldo remanescente, que já fora integralmente pago com a expedição do segundo alvará, conforme informado pela própria parte autora, sob pena de afronta ao princípio da segurança jurídica, insculpido no art. 5º, caput, e inciso XXXVI, da Constituição Federal, incidindo, ademais, a vedação ao comportamento contraditório das partes (nemo potest venire contra factum proprium), decorrente da aplicação do princípio da boa-fé objetiva, nos termos do art. 5º do CPC (e-STJ, fl. 57).
+Tendo em vista que BRENO não impugnou especificamente o argumento de que, após a expedição do segundo alvará, postulou expressamente a extinção da execução pela satisfação do débito, incide a Súmula n. 283 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido, o precedente abaixo ilustra o tópico:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. RESPONSABILIDADE CIVIL. MATÉRIA JORNALÍSTICA. VIOLAÇÃO A DIREITO DA PERSONALIDADE. LEGITIMIDADE ATIVA. TEORIA DA ASSERÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ATO ILÍCITO. DANO MORAL. REVISÃO. SÚMULA 7/STJ. VALOR DA CONDENAÇÃO. REEXAME. EXORBITÂNCIA NÃO CONSTATADA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Segundo orientação jurisprudencial vigente no Superior Tribunal de Justiça, não há falar em omissão, contradição, obscuridade ou erro material, nem em deficiência na fundamentação quando a decisão recorrida está adequadamente motivada com base na aplicação do direito considerado cabível ao caso concreto.
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, "a falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso. Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial" (AgInt no AREsp 1.940.620/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 29/11/2021, DJe 01/12/2021).
+ ..
+(AgInt no AREsp n. 1.955.096/PR, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022, sem destaque no original)
+Assim, como a tese adotada pelo Tribunal estadual, de que BRENO postulou a extinção da execução pelo adimplemento da obrigação, é apta para, por si só, manter o acórdão, não há como conhecer da referida irresignação.
+Logo, não se pode conhecer do recurso, quanto ao ponto.
+Nessas condições, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+É o voto.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas no art. 1.026, § 2º, do CPC.
