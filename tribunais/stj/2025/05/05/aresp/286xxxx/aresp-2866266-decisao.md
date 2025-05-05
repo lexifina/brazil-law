@@ -1,0 +1,36 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. ART. 1o, II, DA LEI N. 8.137/90. DOSIMETRIA. CAUSA DE AUMENTO. CRIME CONTINUADO. EXCLUSÃO. CONDUTA ÚNICA. IMPOSSIBILIDADE. REITERAÇÃO COMPROVADA DE CONDUTAS. APELO DESPROVIDO. À UNANIMIDADE.
+1. Inadmissível a tese de exclusão da causa de aumento de pena pelo reconhecimento da continuidade delitiva quando há nos autos elementos probatórios de que o apelante praticou diversas condutas omissivas, nas mesmas condições de tempo, lugar e com o mesmo modus operandi, por um período considerável de tempo.
+2. Apelo desprovido. Decisão unânime. (e-STJ fl. 1.418)
+A defesa aponta a violação do art. 71 do Código Penal, alegando, em síntese, que, mesmo que "se houvessem ocorridas várias operações, o que não restou comprovado pela acusação, o fato é que o crime imputado corresponde a operação ou operações em si, mas ao ato de informar estoque em quantidade inferior, de modo estamos diante de um único ato e não em pluralidade de atos" (e-STJ fl. 1.432).
+Contrarrazões às e-STJ fls. 1.442/1.434.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 1.493/1.495.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Os elementos existentes nos autos informam que o TJPE negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 2 anos e 8 meses de reclusão e pagamento de 63 dias-multa, por infração ao art. 1º, II, da Lei n. 8137/90, em continuidade delitiva.
+O recorrente se insurge contra o reconhecimento da continuidade delitiva, alegando que, mesmo que "se houvessem ocorridas várias operações, o que não restou comprovado pela acusação, o fato é que o crime imputado corresponde a operação ou operações em si, mas ao ato de informar estoque em quantidade inferior, de modo estamos diante de um único ato e não em pluralidade de atos". Sobre o tema, o TJPE assim se pronunciou:
+Demonstrado, portanto, que o Apelante praticou uma pluralidade de condutas omissivas, nas mesmas condições de tempo, lugar e com o mesmo modus operandi, por considerável lapso temporal, deve ser reconhecida a continuidade delitiva, nos termos do art. 71 do CP.
+Saliento, inclusive, que o reconhecimento do crime continuado em detrimento do concurso formal ou material de crimes é mais benéfico ao Apelante.
+Ademais, o fato de a fraude objeto deste feito ter sido descoberta apenas após análise do estoque inicial, somando as entradas e saídas, não implica dizer que a sonegação se deu por ato único, pois, como visto, foram diversas omissões de operações mercantis, configurando, cada conduta omissiva, um crime, conforme preceitua o art.1º, II, da Lei nº 8.137/90. (e-STJ fl. 1.415/1.418)
+Para desconstituir a conclusão alcançada pelo Tribunal local  de que foram praticadas uma pluralidade de condutas em continuidade delitiva  , seria necessário o reexame das provas acostadas aos autos, o que é vedado na análise do recurso especial, a teor da Súmula n. 7 do STJ. Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RÉU CONDENADO POR CORRUPÇÃO PASSIVA. LEGALIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. EXAURIMENTO DO CRIME DESCRITO NA DENÚNCIA. EFETIVA ENTRADA DOS APARELHOS CELULARES NO PRESÍDIO. PERDA DO CARGO PÚBLICO DEVIDAMENTE FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Não há deficiência na fundamentação da decisão que, ainda que de forma sucinta, conclui pela indispensabilidade da medida invasiva para elucidar fatos delituosos imputados ao destinatário da ordem, podendo ser utilizada inclusive fundamentação per relationem para reafirmar o conteúdo de decisão anterior ou de parecer ministerial, incorporando-os ao novo decisum, e determinar a interceptação telefônica ou sua prorrogação" (AgRg no RHC n. 149.206/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 19/10/2021, DJe de 25/10/2021).
+2. O exaurimento do crime de corrupção passiva, ao contrário do que alega a defesa, foi demonstrado na denúncia, que contém não apenas o pedido de condenação pelo crime do art. 317, § 1º, do Código Penal, como também o relatório de inteligência contendo as mensagens de texto trocadas entre os acusados, as quais comprovam a efetiva entrada dos aparelhos celulares no presídio e, portanto, o exaurimento do crime de corrupção passiva.
+3. A alegação de que a condenação foi contrária à prova dos autos, bem como os pleitos de exclusão da majorante e da continuidade delitiva, demandam reexame do acervo fático-probatório que encontra óbice na Súmula 7 desta Corte.
+4. "O reconhecimento de que o réu praticou ato incompatível com o cargo por ele ocupado é fundamento suficiente para a decretação do efeito extrapenal de perda do cargo público" (AgRg no REsp n. 1.613.927/RS, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 20/9/2016, DJe de 30/9/2016).
+5. Agravo regimental desprovido. (AgRg no AREsp n. 1.994.953/RO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025.)
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. CONTINUIDADE DELITIVA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 71 DO CÓDIGO PENAL. A JURISPRUDÊNCIA DESTA CORTE QUE ADOTA A TEORIA MISTA, EXIGINDO REQUISITOS OBJETIVOS E SUBJETIVOS PARA A CONTINUIDADE DELITIVA, O QUE NÃO FOI DEMONSTRADO NO CASO CONCRETO. O RECONHECIMENTO DA CONTINUIDADE DELITIVA NO CASO CONCRETO DEMANDARIA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO, O QUE É VEDADO EM RECURSO ESPECIAL, CONFORME A SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+I. Caso em exame
+1. Agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu o recurso especial, com base nas Súmulas n. 7 e 83 do STJ.
+2. O recorrente alega violação ao art. 71 do Código Penal, sustentando que o tribunal a quo não reconheceu a continuidade delitiva entre os delitos de receptação qualificada e receptação simples, apesar de, segundo ele, estarem presentes os requisitos necessários.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se estão presentes os requisitos para o reconhecimento da continuidade delitiva entre os crimes de receptação qualificada e receptação simples, conforme o art. 71 do Código Penal.
+III. Razões de decidir
+4. O Tribunal a quo concluiu que não estavam preenchidos os requisitos objetivos para a continuidade delitiva, pois não havia semelhança entre as circunstâncias de tempo e lugar das receptações qualificadas e a receptação simples.
+5. A jurisprudência do STJ adota a teoria mista, exigindo requisitos objetivos e subjetivos para a continuidade delitiva, o que não foi demonstrado no caso concreto.
+6. O reconhecimento da continuidade delitiva demandaria reexame do conjunto fático-probatório, o que é vedado em recurso especial, conforme a Súmula n. 7 do STJ.
+IV. Dispositivo 7. Agravo conhecido para negar provimento ao recurso especial. (AREsp n. 2.393.038/DF, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 27/12/2024.)
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
