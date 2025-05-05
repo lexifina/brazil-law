@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Recurso especial. Liquidação extrajudicial. Assistência judiciária gratuita. Juros remuneratórios. AUSÊNCIA DE DEMONSTRAÇÃO. ÔNUS DA PROVA. Recurso CONHECIDO EM PARTE E desprovido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que, em apelação nos autos de ação revisional de contrato bancário, limitou os juros remuneratórios à taxa média de mercado divulgada pelo Bacen, considerando abusiva a taxa pactuada.
+2. A recorrente defende a suspensão do processo com base no art. 18 da Lei n. 6.024/1974 e pleiteia assistência judiciária gratuita, alegando que o recolhimento das custas comprometeria sua saúde financeira.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) em preliminar, saber se a decretação de liquidação extrajudicial justifica a suspensão do processo e a concessão de assistência judiciária gratuita à instituição financeira; (ii) no mérito, saber se a discussão também envolve a análise da abusividade dos juros remuneratórios pactuados, considerando a jurisprudência do STJ sobre a necessidade de análise das peculiaridades do caso concreto.
+III. Razões de decidir
+4. A jurisprudência do STJ afasta a suspensão de processos de conhecimento que buscam declaração judicial de crédito em casos de liquidação extrajudicial, pois não implicam redução do acervo patrimonial da massa.
+5. A concessão de assistência judiciária gratuita a pessoa jurídica requer comprovação de hipossuficiência, não bastando a decretação de liquidação extrajudicial.
+6. O Tribunal de origem não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, tendo consignado que a instituição financeira não se desonerara do ônus que lhe competia de comprovar circunstâncias específicas que justificassem a taxa de juros praticada no contrato, tais como o custo de captação dos recursos, o spread da operação e a análise de risco de crédito do contratante.
+IV. Dispositivo e tese
+7. Recurso especial parcialmente conhecido e desprovido.
+Tese de julgamento: "1. A decretação de liquidação extrajudicial não justifica a suspensão de processos de conhecimento que buscam declaração judicial de crédito. 2. A concessão de assistência judiciária gratuita a pessoa jurídica requer comprovação de hipossuficiência. 3. A revisão de juros remuneratórios acima da média de mercado exige a demonstração de fatores específicos que justifiquem a taxa contratada. 4. Cabe ao réu o ônus de demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito do autor".
+Dispositivos relevantes citados: Lei n. 6.024/1974, art. 18; CDC, art. 51, IV e § 1º; CPC, arts. 489, § 1º, e 927.
+Jurisprudência relevante citada: STJ, REsp n. 1.298.237/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/5/2015; STJ, AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022.
+RELATÓRIO
+Trata-se de recurso especial interposto por PORTOCRED S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO (EM LIQUIDAÇÃO EXTRAJUDICIAL) com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul em apelação nos autos de ação revisional de contrato de empréstimo pessoal consignado.
+A recorrente, preliminarmente, defende a suspensão do processo nos termos do art. 18 da Lei n. 6.024/1974, tendo em vista a decretação de sua liquidação extrajudicial pelo Banco Central. Alternativamente, pugna pela assistência judiciária gratuita, argumentando que o recolhimento das custas poderá comprometer significativamente sua saúde financeira.
+O julgado foi assim ementado (fl. 682):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO.
+GRATUIDADE JUDICIÁRIA. INDEFERIMENTO. PREPARO REALIZADO. PRECLUSÃO LÓGICA.
+ARGUIÇÃO DE NULIDADE DA SENTENÇA. INEXISTÊNCIA DE VÍCIOS.
+AUSÊNCIA DE DESPACHO SANEADOR. CASO EM QUE SE IMPUNHA O JULGAMENTO ANTECIPADO DA LIDE. MÉRITO.
+JUROS REMUNERATÓRIOS. ABUSIVIDADE CONSTATADA. LIMITAÇÃO À MÉDIA APURADA PELO BACEN.
+CORREÇÃO MONETÁRIA. CABÍVEL A COMPENSAÇÃO/ RESTITUIÇÃO SIMPLES DO INDÉBITO, ATUALIZADA PELO IPCA DESDE O DESEMBOLSO. A CONTAR DA CITAÇÃO, INCIDIRÁ A TAXA SELIC, COMO CRITÉRIO ÚNICO, A TÍTULO DE CORREÇÃO MONETÁRIA E JUROS DE MORA, SEJA POR FORÇA DO JULGADO NO RESP 1.795.982/STJ, SEJA EM RAZÃO DA NOVEL DISPOSIÇÃO DO ARTIGO 406, PARÁGRAFO 1º, DO DIPLOMA CIVILISTA.
+COMPENSAÇÃO/REPETIÇÃO SIMPLES DO INDÉBITO. CABIMENTO.
+HONORÁRIOS ADVOCATÍCIOS. MANUTENÇÃO.
+APELAÇÃO PARCIALMENTE PROVIDA.
+No recurso especial, a parte recorrente aponta violação dos seguintes artigos:
+a) 51, IV e § 1º, do CDC, porque a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto;
+b) 489, § 1º, III, IV e VI, e 927, III, do CPC, uma vez que o acórdão recorrido deixou de observar os entendimentos jurisprudenciais expostos.
+Sustenta a inexistência de abusividade dos juros remuneratórios, porquanto não se justifica sua limitação à taxa média de mercado.
+Afirma ainda que a abusividade dos juros remuneratórios foi constatada mediante simples cotejo com a taxa média de mercado publicada pelo Bacen, sem análise individualizada das peculiaridades do caso concreto, contrariamente ao decidido no REsp n. 1.061.530/RS.
+Requer a reforma do acórdão para que se declarem válidas as cláusulas que estipulam a cobrança dos juros remuneratórios e demais encargos, com sua consequente manutenção nos percentuais estabelecidos pelas partes. Pleiteia ainda a imposição dos ônus de sucumbência exclusivamente à parte recorrida caso a demanda seja provida.
+Contrarrazões foram apresentadas (fls. 891-906).
+Inadmitido o recurso especial na origem, o agravo em recurso especial apresentado foi convertido em recurso especial.
+É o relatório.
+EMENTA
+Direito processual civil. Recurso especial. Liquidação extrajudicial. Assistência judiciária gratuita. Juros remuneratórios. AUSÊNCIA DE DEMONSTRAÇÃO. ÔNUS DA PROVA. Recurso CONHECIDO EM PARTE E desprovido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão que, em apelação nos autos de ação revisional de contrato bancário, limitou os juros remuneratórios à taxa média de mercado divulgada pelo Bacen, considerando abusiva a taxa pactuada.
+2. A recorrente defende a suspensão do processo com base no art. 18 da Lei n. 6.024/1974 e pleiteia assistência judiciária gratuita, alegando que o recolhimento das custas comprometeria sua saúde financeira.
+II. Questão em discussão
+3. Há duas questões em discussão: (i) em preliminar, saber se a decretação de liquidação extrajudicial justifica a suspensão do processo e a concessão de assistência judiciária gratuita à instituição financeira; (ii) no mérito, saber se a discussão também envolve a análise da abusividade dos juros remuneratórios pactuados, considerando a jurisprudência do STJ sobre a necessidade de análise das peculiaridades do caso concreto.
+III. Razões de decidir
+4. A jurisprudência do STJ afasta a suspensão de processos de conhecimento que buscam declaração judicial de crédito em casos de liquidação extrajudicial, pois não implicam redução do acervo patrimonial da massa.
+5. A concessão de assistência judiciária gratuita a pessoa jurídica requer comprovação de hipossuficiência, não bastando a decretação de liquidação extrajudicial.
+6. O Tribunal de origem não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, tendo consignado que a instituição financeira não se desonerara do ônus que lhe competia de comprovar circunstâncias específicas que justificassem a taxa de juros praticada no contrato, tais como o custo de captação dos recursos, o spread da operação e a análise de risco de crédito do contratante.
+IV. Dispositivo e tese
+7. Recurso especial parcialmente conhecido e desprovido.
+Tese de julgamento: "1. A decretação de liquidação extrajudicial não justifica a suspensão de processos de conhecimento que buscam declaração judicial de crédito. 2. A concessão de assistência judiciária gratuita a pessoa jurídica requer comprovação de hipossuficiência. 3. A revisão de juros remuneratórios acima da média de mercado exige a demonstração de fatores específicos que justifiquem a taxa contratada. 4. Cabe ao réu o ônus de demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito do autor".
+Dispositivos relevantes citados: Lei n. 6.024/1974, art. 18; CDC, art. 51, IV e § 1º; CPC, arts. 489, § 1º, e 927.
+Jurisprudência relevante citada: STJ, REsp n. 1.298.237/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 19/5/2015; STJ, AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022.
+VOTO
+A controvérsia diz respeito a ação de revisão de contrato de crédito pessoal não consignado em que a parte autora pleiteou a limitação dos juros remuneratórios à taxa média de mercado divulgada pelo Banco Central, a descaracterização da mora e a devolução dos valores cobrados em excesso.
+Na sentença, o Juízo de primeiro grau julgou procedentes os pedidos formulados pela parte autora, limitando os juros remuneratórios à taxa média de mercado e condenando a ré à devolução dos valores cobrados em excesso, além de fixar honorários advocatícios.
+A Corte estadual deu parcial provimento. Rejeitou as preliminares de suspensão e o benefício da gratuidade judiciária e deu parcial provimento ao recurso.
+I - Pedido de suspensão
+A respeito da suspensão dos processos em decorrência da decretação de liquidação extrajudicial, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a regra contida no art. 18, a, da Lei n. 6.024/1974 deve ser interpretada com temperamento, afastando-se sua incidência nos processos de conhecimento que buscam obter declaração judicial de crédito, a qual interferirá na formação do título executivo, que será passível de habilitação no processo de liquidação, sem implicar a redução do acervo patrimonial da massa objeto de liquidação (REsp n. 1.298.237/DF, de minha relatoria, Terceira Turma, julgado em 19/5/2015, DJe de 25/5/2015).
+Assim, não merece acolhimento o pedido de suspensão.
+II - Assistência judiciária gratuita
+Pontue-se que a concessão do benefício da justiça gratuita a pessoa jurídica não dispensa a prévia comprovação de hipossuficiência, nos termos da orientação do STJ consolidada com a edição da Súmula n. 481.
+Nessa linha de raciocínio, o Superior Tribunal de Justiça já estabeleceu que a simples decretação de liquidação extrajudicial não tem o condão de, por si só, induzir ao reconhecimento da hipossuficiência financeira da pessoa jurídica (AgInt no AREsp n. 1.978.978/GO, relator Ministro Marco Buzzi, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022).
+No caso, ausente a apresentação de outros elementos pela instituição financeira que pudessem comprovar sua impossibilidade de pagamento dos encargos processuais, é insuficiente, para tanto, o balanço patrimonial juntado aos autos. Desse modo, não há como deferir o pedido de assistência judiciária gratuita.
+III - Negativa de prestação jurisdicional
+Afasta-se a alegada ofensa aos arts. 489 e 927 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+IV - Juros remuneratórios (violação do art. 51, IV e § 1º, do CDC)
+No recurso especial, a parte recorrente alega que a liberdade contratual deve ser exercida nos limites da função social do contrato, sendo a revisão contratual uma exceção, razão pela qual deve ser utilizada apenas em casos de comprovação de abusividade, o que não ocorreu no caso concreto. A recorrente afirma que o Tribunal de origem utilizou a taxa média de mercado como único parâmetro para aferir a abusividade dos juros remuneratórios, sem considerar as peculiaridades do caso concreto.
+Consoante entendimento jurisprudencial do STJ, a limitação da taxa de juros, com base apenas no fato de estar acima da taxa média de mercado, não encontra respaldo na jurisprudência desta Corte, uma vez que devem ser observados diversos fatores para a revisão da taxa de juros, tais como o custo de captação dos recursos, o spread da operação, a análise de risco de crédito do contratante, ponderando-se a caracterização da relação de consumo e eventual desvantagem exagerada do consumidor.
+Confira-se trecho do acórdão recorrido (fl. 679, destaquei):
+No caso em tela, tem-se cédula de crédito bancário com consignação em folha de pagamento ( evento 48, CONTR2), emitida em janeiro de 2020, com juros remuneratórios de 4,48% ao mês.
+Ocorre, todavia, que o percentual estipulado no contrato difere significativamente da taxa média de mercado apurada pelo BACEN à época, de 1,45%a. m (Série 25467 - Taxa média mensal de juros das operações de crédito com recursos livres - Pessoas físicas - Crédito pessoal consignado para trabalhadores do setor público1), inexistindo peculiaridades que justifiquem tamanha discrepância.
+ ..
+A propósito, cabia à parte ré, ao contestar, mediante prova documental, justificar, de modo específico, a sustentação dos juros remuneratórios impostos ao consumidor, dada a significativa elevação em relação à média de mercado, com a devida comprovação dos vetores que embasariam a cobrança.
+No caso concreto, a parte ré não comprovou o custo da captação do recurso da operação no local e ao tempo do contrato e, logo, a adequação do respectivo spread bancário, em comparação às demais instituições financeiras que atuam no mesmo segmento, não justificando, portanto, a taxa de juros contratada.
+De outra parte, não demonstrou como o valor e o prazo do financiamento, além do perfil do mutuário, suas fontes de renda, eventuais garantias ou falta delas, existência ou não de prévio relacionamento com o cliente e o modo de pagamento concorreram para a formatação dos juros tal como contratados, de forma a justificar sua cobrança em patamar substancialmente superior à média de mercado. Cumpre salientar, ainda, que tampouco se alcança, da análise de tais critérios no caso em tela, conclusão que desse guarida aos juros nos moldes exacerbados cobrados.
+Observa-se que a Corte de origem, soberana na análise do arcabouço fático-probatório dos autos, não se limitou a afirmar que a taxa de juros remuneratórios fora pactuada acima da taxa média de mercado estipulada pelo Bacen, tendo consignado que a instituição financeira não se desonerara do ônus que lhe competia de comprovar circunstâncias específicas que justificassem a taxa de juros praticada no contrato, tais como o custo de captação dos recursos, o spread da operação e a análise de risco de crédito do contratante.
+Além disso, caberia à ré o ônus de demonstrar a ocorrência de fatos modificativos, impeditivos ou extintivos do direito da parte autora. A propósito: AgInt no AREsp n. 2.391.820/GO, de minha relatoria, Quarta Turma, julgado em 9/9/2024, DJe de 12/9/2024.
+Assim, adotando a jurisprudência do STJ, o Tribunal concluiu pela abusividade dos juros remuneratórios previstos contratualmente, em análise das peculiaridades do caso concreto, razão pela qual os limitou à taxa média de mercado estabelecida pelo Bacen.
+É caso, pois, de aplicação da Súmula n. 83 do STJ.
+Ademais, para decidir em sentido contrário e verificar os fatores acima apontados acerca das peculiaridades do caso concreto quanto aos juros pactuados, seria necessário reexaminar o instrumento contratual e o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmulas n. 5 e 7 do STJ). Nesse sentido: AgInt no AREsp n. 2.437.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 27/11/2023, DJe de 30/11/2023.
+V - Divergência jurisprudencial
+Quanto ao apontado dissídio, ressalte-se que a incidência das Súmulas n. 5, 7 e 83 do STJ no tocante à interposição pela alínea a do permissivo constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Nesse sentido: AgInt no AREsp n. 1.898.375/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 27/6/2022, DJe de 30/6/2022; e AgInt no AREsp n. 1.611.756/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 29/8/2022, DJe de 1º/9/2022.
+VI - Conclusão
+Ante o exposto, indefiro os pedidos de suspensão do processo e de concessão da assistência judiciária gratuita, formulados em preliminar. No mérito, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advoc atícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+É o voto.
