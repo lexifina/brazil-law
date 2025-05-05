@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BULLGUER ALIMENTACOES S.A. EM RECUPERACAO JUDICIAL e OUTROS, contra decisão que não admitiu recurso especial.
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 77, e-STJ):
+AGRAVO DE INSTRUMENTO - Execução de título extrajudicial - Débito parcelado - Fixação de termo inicial para incidência de juros de mora desde a data dos respectivos vencimentos - Inconformismo - Alegação que a exigibilidade relativa a duas parcelas do contrato estava suspensa em razão de liminar deferida em sede revisional - Executados que defendem a incidência de juros de mora somente a partir da revogação da medida em sede recursal -Inadmissibilidade - Liminar que suspendia a exigibilidade do débito integralmente revogada, inclusive para liberar a integral cobrança do preço do contrato - Mora que se iniciou com o descumprimento da obrigação - Decisão mantida - Recurso desprovido.
+Nas razões do recurso especial (fls. 84/101, e-STJ), os agravantes apontaram violação aos artigos 394, 395 e 397 do Código Civil, sustentaram, em suma, a impossibilidade de incidência de juros de mora durante o período em que a exigibilidade da dívida estava suspensa por força de determinação judicial.
+Contrarrazões às fls. 117/136, e-STJ.
+Em juízo de admissibilidade (fls. 144/145 e-STJ), o Tribunal de origem negou seguimento ao reclamo com amparo nos seguintes fundamentos: i) não ficou demonstrada a alegada vulneração aos dispositivos arrolados; ii) incidência da Súmula 7 do STJ.
+Daí a interposição do presente agravo (fls. 148/166, e-STJ), por meio do qual os agravantes impugnam a decisão que inadmitiu o recurso especial.
+Contraminuta às fls. 177, e-STJ.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. A jurisprudência desta Corte orienta que por força da responsabilidade processual objetiva e da natureza da mora ex re, nos casos em que o próprio devedor dá causa à inadimplência relativa, ao obter a efetivação da tutela provisória, deve se sujeitar ao pagamento de juros moratórios, em razão da posterior cassação da liminar, com retorno ao statu quo ante.
+A propósito:
+RECURSO ESPECIAL. AÇÃO REVISIONAL. ABUSIVIDADE DAS CLÁUSULAS DE REAJUSTE DO CONTRATO DE PLANO DE SAÚDE. DEFERIMENTO DA ANTECIPAÇÃO DOS EFEITOS DA TUTELA. SENTENÇA DE PARCIAL PROCEDÊNCIA DO PEDIDO. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE PELO PREJUÍZO QUE A EFETIVAÇÃO DA TUTELA ANTECIPADA CAUSOU À PARTE CONTRÁRIA. RESPONSABILIDADE PROCESSUAL OBJETIVA. MORA EX RE. INCIDÊNCIA DOS JUROS DE MORA. VENCIMENTO DE CADA PRESTAÇÃO.
+1. Ação revisional ajuizada em 2016, da qual foi extraído o presente recurso especial, interposto em 29/09/2022 e concluso ao gabinete em 22/03/2023.
+2. O propósito recursal é decidir sobre a incidência de juros de mora sobre os valores devidos a título de reparação do prejuízo que a efetivação da tutela antecipada causou à parte contrária.
+3. A jurisprudência desta Corte orienta que é incabível a incidência de juros moratórios sobre valores a serem devolvidos em virtude de revogação de decisão que antecipou os efeitos da tutela, por não haver, nessa circunstância, fato ou omissão imputável ao autor da ação.
+4. Entretanto, por força da responsabilidade processual objetiva e da natureza da mora ex re, nos casos em que o próprio devedor dá causa à inadimplência relativa, ao obter a efetivação da tutela provisória, deve se sujeitar ao pagamento de juros moratórios, em razão da posterior cassação da liminar, com retorno ao statu quo ante. Entendimento da Terceira Turma.
+5. Hipótese em que, sendo os autores os próprios devedores da obrigação de pagar a mensalidade do plano de saúde e que foram beneficiados com a decisão que deferiu a tutela provisória, posteriormente revogada, devem eles arcar com o atraso no cumprimento da obrigação, incidindo os respectivos juros de mora a partir do vencimento de cada prestação.
+6. Recurso especial conhecido e provido.
+(REsp n. 2.049.053/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 12/12/2023, DJe de 15/12/2023.)
+Na hipótese, a Corte local consignou (fls. 78/80, e-STJ):
+O recurso, apesar da aparente relevância dos argumentos, não merece prosperar.
+A mora no presente caso se iniciou com o descumprimento da obrigação (mora ex re), devendo os juros moratórios incidir a partir do vencimento.
+Essa é a regra do art. 397, do CC que assim dispõe: "O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor".
+Não obstante a exigibilidade das parcelas tenha sido suspensa por decisão judicial proferida em sede revisional (1021410-59.2021.8.26.0100), é certo que a medida concedida foi posteriormente revogada em sede recursal.
+Confira-se:
+Ação revisional de contrato de alienação de participação em sociedade em conta de participação, ajuizada por cessionários contra cedentes. Decisão de suspensão de exigibilidade de parcela do preço de aquisição. Agravo de instrumento dos cedentes. É notório o impacto da pandemia do coronavírus na economia nacional. Contudo, a análise de medidas requeridas em razão da situação excepcional deve ser feita sempre à luz do caso concreto, não podendo ela servir como pretexto genérico para descumprimento de obrigações. Caso concreto em que as partes, já em plena pandemia, repactuaram o contrato, estabelecendo novas bases, que vieram a ser descumpridas pelos devedores. Reforma da decisão recorrida. Agravo de instrumento a que se dá provimento, com imposição de multa por litigância de má-fé aos agravados. (TJSP; Agravo de Instrumento 2102808-20.2021.8.26.0000;Relator(a): Cesar Ciampolini; Órgão Julgador: 1ª Câmara Reservada de Direito Empresarial; Foro Central Cível - 1ª VARA EMPRESARIAL E CONFLITOS DE ARBITRAGEM; Data do Julgamento: 25/08/2021; Data de Registro: 02/09/2021)
+Ainda, verifica-se que no corpo do julgado assim restou expressamente consignado: "Portanto, por este voto, reformo, como dito, a decisão agravada, para liberar a integral cobrança do preço do contrato, tal como aditado pelas partes, bem como sanciono o proceder processual dos agravados." (sem grifos no original).
+Ainda, como bem observou o MM. Juízo "a quo" quanto à disposição contida no art. 302 do CPC, "a parte responde pelo prejuízo que a efetivação da tutela de urgência causar à parte adversa, se ocorrer a cessação da eficácia da medida". Portanto, não se há de falar em incidência dos juros de mora somente a partir do julgamento daquele recurso.
+Com efeito, se trata de a obrigação líquida e certa, com o vencimento expressamente indicado no contrato, de modo que os juros de mora devem mesmo incidira partir dos respectivos vencimentos.
+Nesse rumo, não se verifica da decisão agravada qualquer incorreção, merecendo ser mantida por seus próprios fundamentos.
+Portanto, o acórdão recorrido está em consonância com o entendimento jurisprudencial firmado no âmbito desta Corte com relação a matéria debatida, atraindo a incidência da Súmula 83 do STJ.
+Ressalte-se, ademais, que no caso concreto, a deliberação judicial que revogou a tutela de suspensão de exigibilidade da dívida estabeleceu acerca da possibilidade de cobrança integral do preço do contrato.
+Desta forma, nos casos em que o próprio devedor de uma obrigação portável pede o deferimento de tutela provisória, para o fim de não pagar, seja parcial ou integralmente, ou seja, não adimplir com sua obrigação, cabe a ele o ônus de arcar com a mora pelo atraso da prestação, afinal, sua responsabilidade é objetiva e a mora é ex re, porque o contrato previa dia certo para o pagamento de valor líquido.
+Ora, nesses casos, o credor, alijado de receber o pagamento no tempo, lugar e forma devidamente pactuada, tem o direito à cobrança integral do seu crédito, nos termos dos arts. 394 e 395, ambos do CC/02.
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conheço do agravo para não conhecer do recurso especial. Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do NCPC, haja vista que, na origem, foi interposto agravo de instrumento.
+Publique-se.
+Intimem-se.
+EMENTA
