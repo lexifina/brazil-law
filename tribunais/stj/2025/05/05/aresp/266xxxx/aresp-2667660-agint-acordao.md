@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ARGUICÃO DE SUPRESSÃO DO DIREITO À SUSTENTAÇÃO ORAL. ANÁLISE QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O entendimento adotado pelo Tribunal de origem não diverge da jurisprudência desta Corte, firme no sentido de que "o art. 932, III, do CPC/2015; além da Súmula 568 do STJ, autorizam o relator a julgar monocraticamente quando a decisão estiver amparada na jurisprudência dominante da Corte. Além disso, a interposição de agravo interno preserva a garantia do julgamento colegiado. Precedente" (AgInt na AR 3.594/SP, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 19/11/2024, DJe de 25/11/2024.).
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Inara Socas Doin Vieira desafiando decisão que negou provimento ao agravo em recurso especial, em razão do acórdão recorrido ter sido proferido em harmonia com a jurisprudência desta Corte e com base na incidência da Súmula 7/STJ (fls. 741/745).
+Em suas razões, a parte agravante defende que " n o caso dos autos, não foram citados em nenhuma das decisões: a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal; b) acórdão proferido pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça em julgamento de recursos repetitivos; c) entendimento firmado em incidente de resolução de demandas repetitivas ou de assunção de competência. Logo, ao contrário daquilo que foi consignado na decisão agravada, o julgado do E.TJSC destoa da jurisprudência do C.STJ, tendo em vista que a legislação processual NÃO permite ao Relator julgar monocraticamente recurso fora das hipóteses do art. 932, do CPC. Portanto, o julgado recorrido não está em consonância com a jurisprudência do STJ" (fl. 758).
+Defende a inaplicabilidade da Súmula 7/STJ, sob o argumento de que "para a análise da tese jurídica arguida pelo Recorrente é necessário apenas o enfrentamento das próprias razões de decidir contidas nas decisões judiciais objeto do recurso especial. Nada além disso" (fl. 759).
+Ressalta que "sem aqui adentrar o mérito da irresignação quanto ao resultado do julgamento, é inequívoco que a matéria objeto do Recurso Especial foi expressamente abordada, havendo decisão sobre a matéria prevista no dispositivo legal invocado pela parte. Nesse sentido, seguindo entendimento do próprio C. STJ, quando verificado que os fatos e provas que se eventualmente julguem necessários para o deslinde do presente recurso estão transcritos e delineados nas decisões recorridas, não há violação à Súmula 7" (fl. 760).
+A parte agravada apresentou impugnação (fls. 767/773).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ARGUICÃO DE SUPRESSÃO DO DIREITO À SUSTENTAÇÃO ORAL. ANÁLISE QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O entendimento adotado pelo Tribunal de origem não diverge da jurisprudência desta Corte, firme no sentido de que "o art. 932, III, do CPC/2015; além da Súmula 568 do STJ, autorizam o relator a julgar monocraticamente quando a decisão estiver amparada na jurisprudência dominante da Corte. Além disso, a interposição de agravo interno preserva a garantia do julgamento colegiado. Precedente" (AgInt na AR 3.594/SP, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 19/11/2024, DJe de 25/11/2024.).
+2. A alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Consoante anteriormente mencionado, quanto à apontada ofensa ao art. 932, IV, do CPC, verifica-se que o entendimento adotado pelo Tribunal de origem não diverge da jurisprudência desta Corte, firme no sentido de que "o art. 932, III, do CPC/2015; além da Súmula 568 do STJ, autorizam o relator a julgar monocraticamente quando a decisão estiver amparada na jurisprudência dominante da Corte. Além disso, a interposição de agravo interno preserva a garantia do julgamento colegiado. Precedente" (AgInt na AR n. 3.594/SP, relator Ministro Afrânio Vilela, Primeira Seção, julgado em 19/11/2024, DJe de 25/11/2024).
+Em reforço:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DO RELATOR. LEGISLAÇÃO PROCESSUAL DE REGÊNCIA. AUTORIZAÇÃO. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. CONFIRMAÇÃO PELO COLEGIADO. NULIDADE. SUPERAÇÃO. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS JUNTO AO ENTE MUNICIPAL. SUSPENSÃO DA PRESCRIÇÃO. VERIFICAÇÃO. SIMPLES REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não há falar em nulidade da decisão agravada por violação ao princípio da colegialidade, porquanto a legislação processual de regência autoriza o relator a julgar monocraticamente agravo em recurso especial inadmissível, prejudicado, ou, ainda, para aplicar a jurisprudência consolidada deste Tribunal (arts. 932, III e IV, 1.042, § 5º, do CPC; e 253 do RISTJ).
+2. Ademais, a possibilidade de interposição de agravo interno, com a reapreciação do recurso pelo órgão colegiado, torna superada eventual nulidade do decisório monocrático pela alegada ofensa.
+3. A desconstituição das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em insurgência especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 2.711.471/TO, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/12/2024, DJEN de 19/12/2024.)
+No mais, quanto à tese de supressão do direito à sustentação oral, extrai-se do aresto recorrido a seguinte fundamentação (fls. 637/638):
+ ..
+Ainda, do julgamento dos embargos:
+ ..
+A apelação da demandante foi desprovida por decisão unipessoal com fundamento na jurisprudência dominante deste Tribunal. Confira-se do Regimento Interno desta Corte:
+ ..  In casu, a matéria já havia sido objeto de análise por esta Câmara no julgamento do AI n. 50005864520198240000, que foi desprovido em votação unânime.
+Ademais, foi expressamente consignado que a certidão de casamento goza de presunção relativa de veracidade. As provas produzidas nestes autos são suficientemente claras no sentido de que houve separação de fato do casal, razão pela qual não é necessário o ajuizamento de ação com o fim de desconstituir a certidão de casamento.
+Por fim, não era necessária a oitiva de mais pessoas no processo administrativo, pois a própria segurada confirmou que o matrimônio não mais existia.
+ ..
+Não há impedimento para o julgamento monocrático da apelação.
+Como visto, a matéria já havia sido objeto de debate por esta Câmara no julgamento do AI n. 50005864520198240000.
+Além disso, os precedentes acostados pela recorrente não guardam relação de identidade com o presente caso. Aqui, repito, as provas reunidas pelo Iprev são bastante sólidas em relação à separação de fato e derruem a presunção relativa de veracidade da certidão de casamento.
+Ao ser ouvida em sede administrativa, a própria autora confirmou em que o matrimônio não existia mais. As alegações de que é idosa, semianalfabeta e juridicamente leiga não convencem, sobretudo pelo fato de que não há nenhum laudo médico indicando a sua falta de discernimento.
+Nesse contexto, inarredável a incidência da Súmula 7STJ ao caso, pois a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSO CIVIL. OFENSA AO ART. 489, IV, § 1º, DO CPC. NÃO OCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. NULIDADE. AUSÊNCIA. REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. Não há falar em violação dos artigos 9º, 10 e 489, § 1º, IV, do CPC quando analisadas fundamentadamente pelo acórdão recorrido as questões que lhe foram submetidas, com o exame dos pontos essenciais ao deslinde da controvérsia.
+2. "O julgamento antecipado da lide não configura cerceamento de defesa e, por conseguinte, nulidade processual, se as instâncias ordinárias consideram prescindível a dilação probatória, por ser eminentemente de direito a controvérsia ou por depender sua resolução apenas do exame de fatos já documentalmente provados" (REsp n. 1.601.868/SC, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 29/8/2024.).
+3. A análise acerca da ocorrência de cerceamento de defesa pela suposta necessidade de produção das provas requeridas pela recorrente exigiria o necessário reexame do conjunto fático-probatório dos autos, o que é vedado nesta instância especial a teor do disposto na Súmula 7/STJ. Precedentes.
+3. Agravo interno improvido.
+(AgInt no REsp 2.157.385/AL, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 4/12/2024, DJEN de 10/12/2024.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. ARGUIÇÃO DE IMUNIDADE TRIBUTÁRIA. AUSÊNCIA DE COMPROVAÇÃO DE PLANO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 393/STJ. SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a Súmula 393/STJ, "a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória".
+2. Inviável a análise da pretensão veiculada no recurso especial, por demandar o reexame do contexto fático-probatório dos autos e das cláusulas do contrato firmado entre as partes, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 2.558.741/RS, relator Ministro Afrânio Vilela, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. EXCEÇÃO DE PRE-EXECUTIVIDADE. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA IMPOSSIBILIDADE DE ANÁLISE DAS CDAS EM EXCEÇÃO DE PRÉ-EXECUTIVADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Observo que o Tribunal local não emitiu juízo de valor sobre as questões jurídicas levantadas em torno dos dispositivos mencionados.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+5. Hipótese em que o Tribunal de origem, com base no conjunto fático- probatório dos autos, assentou que não estão presentes os requisitos para o prosseguimento do cumprimento de sentença no caso concreto. Transcrevo trecho do acórdão: "No caso dos autos, as CDAs que lastreiam a execução (fls.
+23/54) explicitam que a dívida se refere a ICMS incidente em operações diversas de importação/substituição tributária. Quanto ao fundamento legal, as certidões indicam que a importância se refere a ICMS proveniente de débito declarado e não pago pelo contribuinte, nos termos do art. 49 da Lei Estadual nº 6.374/89.As certidões atendem, portanto, o requisito legal referente à indicação da origem, natureza e fundamento legal da dívida, contando também com as demais informações exigidas pelo art. 202 do CTN e pelo art. 2º da Lei nº 6.830/80, no tocante à indicação do nome do devedor, do valor originário da dívida, da forma de cálculo dos juros de mora e dos dados da inscrição.
+Preenchidos, ao menos formalmente, os requisitos legais de validade, reputa-se regularmente inscrita a dívida, que, em linha com o disposto no art. 204 do CTN, passa a gozar de presunção relativa de certeza e liquidez, somente ilidida por prova inequívoca a cargo do interessado" (fl. 122, e-STJ). Rever tal
+entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+6. Agravo Interno não provido.
+(AgInt no AREsp 2.606.428/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/8/2024, DJe de 22/8/2024.)
+Deve, portanto, ser mantida a decisão agravada por seus próprios fundamentos.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
