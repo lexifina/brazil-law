@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIVERSIDADE FEDERAL DA PARAÍBA - UFPB contra decisão que, "considerando que, nesta Corte, quando na análise do recurso especial interposto pela ADUFPB/SEÇÃO SINDICAL, nesta mesma assentada, determinou-se "a devolução dos autos, com a respectiva baixa"" (fls. 2.809-2.810).
+A parte embargante sustenta que a decisão merece ser integrada, em razão da afetação do Tema n. 1.311/STJ, coincidente com o mérito de seu Recurso Especial.
+Defende que o sobrestamento dos recursos especiais deve se dá não apenas pelo Tema n. 1.255/STF da repercussão geral, como já determinado, mas também em função do Tema n. 1.311/STJ dos recursos especiais repetitivos. Pugna, ainda, pelo restabelecimento do efeito suspensivo anteriormente concedido.
+Com impugnação (fls. 2.830-2.841).
+É o relatório. Decido.
+Na hipótese dos autos, verifica-se que essa relatoria, às fls. 2.807-2.808, determinou o sobrestamento, na origem, do recurso especial da ADUFPB/Seção Sindical para aguardar o julgamento do Tema n. 1.255/STF da repercussão geral e, ainda, na mesma assentada, julgou prejudicada a análise do recurso especial interposto pela Universidade Federal da Paraíba (fls. 2.809-2.810).
+Ocorre que, como defende a parte ora embargante, a questão jurídica objeto do seu recurso especial diz respeito ao Tema n. 1.311/STJ, que versa sobre o seguinte ponto: "saber se o curso do prazo prescricional da obrigação de pagar quantia certa pela fazenda pública é suspenso durante o cumprimento da obrigação de implantar em folha de pagamento imposta na mesma sentença".
+Consoante a jurisprudência desta Corte, encontrando-se o tema afetado ao rito dos recursos repetitivos ou repercussão geral, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia devem aguardar, no Tribunal de origem, a solução no recurso afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos artigos 1.039 e seguintes do CPC/2015.
+Nesse contexto, assiste razão à parte embargante quanto à necessidade do sobrestamento do presente feito até final julgamento dos Temas n. 1.255/STF e n. 1.311/STJ.
+Com efeito, somente após realizado o juízo de conformação, que representa o exaurimento da instância ordinária, é que os recursos especiais deverão ser encaminhados para esta Corte Superior, para serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Enfatize-se, entretanto, que, em razão da devolução dos autos à origem, eventual pedido de atribuição de efeito suspensivo ao recurso deve ser formulado ao presidente ou vice-presidente do tribunal local.
+Ante o exposto, acolho parcialmente os embargos de declaração e determino a devolução dos autos ao Tribunal a quo, com a devida baixa nesta Corte, para que o exame dos recursos especiais interpostos pela ADUFPB/Seção Sindical e pela Universidade Federal da Paraíba ocorra somente após o julgamento final dos Temas n. 1.255/STF e n. 1.311/STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMA N. 1.311/STJ. SOBRESTAMENTO. NECESSIDADE. EMBARGOS DE DECLARAÇAO PARCIALMENTE ACOLHIDOS.
