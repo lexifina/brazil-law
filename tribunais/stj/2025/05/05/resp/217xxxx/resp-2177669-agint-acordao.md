@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO EM OBRA. LUCROS CESSANTES. DECISÃO  AGRAVADA.  FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL.  IMPUGNAÇÃO.  AUSÊNCIA.  SÚMULA Nº 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Na hipótese, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  LEAL MOREIRA ENGENHARIA LTDA. e OUTRA contra  a  decisão  que  conheceu do agravo para conhecer do recurso especial e negar-lhe provimento em virtude da harmonia entre o acórdão recorrido e o entendimento do Superior Tribunal de Justiça sobre a matéria devolvida (Súmula nº 568/STJ).
+Em suas alegações,  a parte agravante sustenta que a base de cálculo dos lucros cessantes deve ser o valor efetivamente pago pelo comprador, e não o valor total de compra do imóvel, ao argumento de que não há precedentes vinculantes ou súmulas que tratem da questão específica da base de cálculo dos lucros cessantes.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  para  que  seja  determinado  o  regular  processamento  do  apelo  nobre.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  às e-STJ  fls.  1.011/1.017.
+É o relatório
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO EM OBRA. LUCROS CESSANTES. DECISÃO  AGRAVADA.  FUNDAMENTOS DEPENDENTES OU FUNDAMENTO ÚNICO. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL.  IMPUGNAÇÃO.  AUSÊNCIA.  SÚMULA Nº 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1.  Na hipótese, constatada a ausência de impugnação específica, incide o disposto no art. 1.021, § 1º, do Código de Processo Civil e no entendimento jurisprudencial do Superior Tribunal de Justiça, reproduzido na redação da Súmula nº 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+A insurgência não merece prosperar.
+Deve-se esclarecer, de início, que o debate devolvido a esta Corte Superior se refere exclusivamente aos lucros cessantes devidos em razão do atraso injustificado na entrega de imóvel.
+Quanto à fixação da referida indenização, o Tribunal de origem assim consignou:
+"Quanto à alegação de que não caberia lucros cessantes e que estes se forem mantidos devem ser fixados em 0,5% sobre o valor que foi pago, não assiste razão ao recorrente.
+Haja vista que os lucros cessantes são decorrentes da indenização pela não utilização do bem desde o tempo pactuado no contrato para a entrega do bem, e pode ser fixado, de acordo com o patamar entre 0,5% a 1% sobre o valor contratual, sendo esta uma questão bem definida na jurisprudência, sendo o caso de aplicar-se os lucros cessantes." (e-STJ fl. 702).
+Desse modo, verifica-se que o entendimento do acórdão recorrido está em consonância com a jurisprudência desta Corte Superior.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. ATRASO INJUSTIFICADO NA ENTREGA DO IMÓVEL. DESCUMPRIMENTO CONTRATUAL DA PROMITENTE-VENDEDORA. AFASTAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 7 E 5 DO STJ. LUCROS CESSANTES. VALOR LOCATÍCIO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. Na hipótese, o Tribunal de origem, analisando os termos contratados, afastou qualquer mora dos adquirentes, bem como consignou que ficou devidamente comprovado o atraso na entrega do imóvel, o que enseja reparação por danos materiais (lucros cessantes). A pretensão de modificar o entendimento firmado, em relação ao descumprimento contratual por parte da promitente-vendedora, demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+2. "No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma" (REsp 1.729.593/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 25/9/2019, DJe de 27/9/2019).
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ 4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp nº 2.538.000/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024 - grifou-se).
+"RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. CLÁUSULA PENAL MORATÓRIA. NATUREZA MERAMENTE INDENIZATÓRIA, PREFIXANDO O VALOR DAS PERDAS E DANOS. PREFIXAÇÃO RAZOÁVEL, TOMANDO-SE EM CONTA O PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM LUCROS CESSANTES. INVIABILIDADE.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+2. No caso concreto, recurso especial não provido."
+(REsp nº 1.635.428/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/5/2019, DJe de 25/6/2019 - grifou-se).
+Assim, de fato, tem incidência a Súmula nº 568/STJ. Todavia, as razões do presente agravo nem sequer impugnam a existência de entendimento pacífico no Superior Tribunal de Justiça.
+Com efeito, para  impugnar a incidência do referido óbice sumular  , o recorrente  deve  indicar  precedentes  contemporâneos  ou  supervenientes  aos  mencionados  na  decisão  combatida,  demonstrando-se  que  outro  é  o  entendimento  jurisprudencial  desta  Corte,  o  que  não  ocorreu  no  caso.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NÃO  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSÃO  DO  APELO  EXTREMO.  ARTS.  932,  III,  DO  CPC  E  253,  PARÁGRAFO  ÚNICO,  I,  DO  RISTJ.  SÚMULA  N.  182  DO  STJ.  MAJORAÇÃO  DE  HONORÁRIOS.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Em  observância  ao  princípio  da  dialeticidade,  mantém-se  a  aplicação  analógica  da  Súmula  n.  182  do  STJ  quando  não  há  impugnação  efetiva,  específica  e  fundamentada  de  todos  os  fundamentos  da  decisão  que  inadmite  recurso  especial,  nos  termos  dos  arts.  932,  III,  do  CPC  e  253,  parágrafo  único,  I,  do  RISTJ.
+2.  Para  impugnar  a  incidência  da  Súmula  n.  83  do  STJ,  é  necessária  a  efetiva  demonstração  de  que  o  julgado  apontado  na  decisão  de  inadmissão  do  recurso  especial  é  inaplicável  ao  caso  ou  foi  superado  pela  jurisprudência  desta  Corte,  colacionando-se  precedentes  contemporâneos  ou  supervenientes,  ou  de  que  exista  distinção  entre  a  matéria  versada  nos  autos  e  aquela  utilizada  para  justificar  a  aplicação  da  referida  súmula.
+3.  A  majoração  dos  honorários  advocatícios  deve  atender  tanto  à  justa  remuneração  do  patrono  pelo  trabalho  adicional  na  fase  recursal,  como  ao  conteúdo  inibitório  de  recursos.
+4.  Agravo  interno  desprovido."
+(AgInt  no  AREsp  2.224.460/DF,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  QUARTA  TURMA,  julgado  em  6/3/2023,  DJe  de  9/3/2023).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DOS  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSIBILIDADE  DO  APELO  ESPECIAL.  ART.  932,  III,  DO  CPC/2015.  SÚMULA  N.  83/STJ.  CONTRADITA.  PRECLUSÃO  CONSUMATIVA.  AGRAVO  DESPROVIDO.
+1.  Cabe  ao  agravante,  nas  razões  do  agravo,  trazer  argumentos  suficientes  para  contestar  a  decisão  de  inadmissibilidade  do  recurso  especial  proferida  pelo  Tribunal  de  origem.  A  ausência  de  impugnação  de  todos  os  fundamentos  da  decisão  agravada  enseja  o  não  conhecimento  do  agravo,  nos  termos  do  art.  932,  III,  do  CPC  de  2015.
+2.  Quando  o  inconformismo  excepcional  não  é  admitido  com  fundamento  no  enunciado  n.  83  da  Súmula  do  Superior  Tribunal  de  Justiça,  a  contradita  deve  indicar  precedentes  contemporâneos  ou  supervenientes  aos  mencionados  na  decisão  combatida,  demonstrando-se  que  outro  é  o  entendimento  jurisprudencial  desta  Corte.
+3.  Não  tendo  a  insurgente  refutado  os  fundamentos  da  decisão  de  inadmissibilidade  no  momento  processual  oportuno,  não  cabe  fazê-lo  no  âmbito  do  agravo  interno,  considerada  a  preclusão  consumativa  operada  pela  interposição  do  recurso  antecedente.
+4.  Agravo  interno  desprovido."
+(AgInt  no  AREsp  1.933.778/SC,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  21/2/2022,  DJe  de  23/2/2022).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  DENEGATÓRIA  DE  ADMISSIBILIDADE  DE  RECURSO  ESPECIAL.  DESCUMPRIMENTO  DOS  REQUISITOS  PRECONIZADOS  PELO  ART.  932,  III,  NCPC  (ART.  544,  §  4º,  I,  DO  CPC/73).  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+  2.  Não  se  mostra  viável  o  agravo  em  recurso  especial  que,  apresentado  em  desacordo  com  os  requisitos  preconizados  pelo  art.  932,  III,  do  NCPC  (544,  §  4º,  I,  do  CPC/1973),  não  impugna  os  fundamentos  da  respectiva  inadmissibilidade  (incidência  da  Súmula  nº  83  do  STJ).
+  3.  Agravo  interno  não  provido."
+(AgInt  no  AREsp  1.288.826/RJ,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  DJe  27/9/2018).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  AOS  FUNDAMENTOS  DA  DECISÃO  DENEGATÓRIA  DE  ADMISSIBILIDADE  DE  RECURSO  ESPECIAL.  DESCUMPRIMENTO  DOS  REQUISITOS  PRECONIZADOS  PELO  ART.  932,  III,  NCPC.  DECISÃO  MANTIDA.  RECURSO  MANIFESTAMENTE  INADMISSÍVEL.  INCIDÊNCIA  DA  MULTA  DO  ART.  1.021,  §  4º,  DO  NCPC.  AGRAVO  INTERNO  NÃO  PROVIDO.
+(..)
+2.  Não  se  mostra  viável  o  agravo  em  recurso  especial  que,  apresentado  em  desacordo  com  os  requisitos  preconizados  pelo  art.  932,  III,  do  NCPC,  não  impugna  os  fundamentos  da  respectiva  inadmissibilidade  (ausência  de  omissão  no  acórdão  recorrido  e  incidência  das  Súmulas  nºs  5,  7  e  83,  todas  do  STJ).
+  3.  O  entendimento  pacífico  do  STJ  é  de  que  não  basta,  para  afastar  o  óbice  da  Súmula  nº  83/STJ,  a  alegação  genérica  de  que  o  acórdão  recorrido  não  está  em  consonância  com  a  jurisprudência  desta  Corte,  devendo  a  parte  recorrente  demonstrar  que  outra  é  a  positivação  do  direito  na  jurisprudência  desta  Corte,  com  a  indicação  de  precedentes  contemporâneos  ou  supervenientes  aos  referidos  na  decisão  agravada  (AgRg  no  AREsp  nº  238.064/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  DJe  18/8/2014).
+  (..)
+6.  Agravo  interno  não  provido,  com  imposição  de  multa."
+(AgInt  no  AREsp  1.231.762/RS,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  19/6/2018,  DJe  28/6/2018).
+Em atenção ao princípio da dialeticidade, a impugnação dos fundamentos do julgado recorrido há de ser precisa e pormenorizada, o que não se verifica no caso concreto. Nesse cenário, em obediência às regras processuais, incide o disposto no § 1º do art. 1.021 do Código de Processo Civil.
+Destaca-se ainda que a Súmula nº 568/STJ é o único fundamento da decisão agravada, o qual não foi adequadamente impugnado, de modo a inviabilizar o conhecimento do presente recurso, nos termos da Súmula  nº  182/STJ.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
