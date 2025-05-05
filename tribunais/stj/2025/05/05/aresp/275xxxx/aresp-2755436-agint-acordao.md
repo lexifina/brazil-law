@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. AGRAVO DE INSTRUMENTO NA ORIGEM. OMISSÃO. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  CONDOMÍNIO EDFÍCIO SÃO FRANCISCO contra  a  decisão  que  conheceu do recurso especial para negar-lhe provimento em virtude da ausência de violação do art. 1.022 do Código de Processo Civil, bem como da incidência da Súmula nº 7/STJ.
+Em suas alegações,  o  agravante assevera que a decisão monocrática partiu de premissa equivocada porque o debate devolvido não se referia à correção dos cálculos periciais em si, mas à ausência de manifestação do juízo e do perito sobre os nove quesitos formulados em fase de liquidação de sentença. Assim, insurge-se contra a incidência da Súmula nº 7/STJ, ao passo em que reitera a existência de omissão no acórdão de origem.
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  para  que  seja  determinado  o  regular  processamento  do  apelo  nobre.
+Devidamente  intimada,  a  parte  contrária  apresentou  impugnação  às e-STJ  fls.  628/632.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. AGRAVO DE INSTRUMENTO NA ORIGEM. OMISSÃO. INEXISTÊNCIA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não viola os arts. 489 e 1.022 do Código de Processo Civil nem importa deficiência na prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, para decidir de modo integral a controvérsia posta.
+2. É inviável rever o entendimento firmado pelas instâncias ordinárias sem a análise dos fatos e das provas da causa, o que atrai a incidência da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+VOTO
+A insurgência não merece prosperar.
+No tocante à negativa de prestação jurisdicional, reitera-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, manifestando-se expressamente quanto à homologação do laudo pericial, o qual teria sido produzido nos exatos limites do título judicial liquidando.
+É o que se extrai do seguinte trecho do acórdão:
+"O laudo pericial menciona que a prestação de serviços se aperfeiçoou de 01/11/2016 até 17/06/2019, com a notificação da rescisão (p. 45). Por este período o perito respondeu que a exequente é credora de honorários contratuais, bem como da multa contratual, conforme deliberado na sentença e mantida pelo acórdão. O valor devido a título de honorários contratuais e sucumbenciais soma R$371.013,89 (p. 432/456).
+O perito concluiu o laudo com base na respeitável sentença, que julgou parcialmente procedente a ação.
+A M Ma. Juíza, com acerto, ao homologar o laudo pericial o fez sob o fundamento de que "o título judicial engloba a totalidade dos serviços prestados pela exequente, sendo certo que não se mostra aceitável que a advogada tenha prestado serviços, antes da formalização do contrato, sem a devida remuneração. Pontuou que o dispositivo da sentença não se restringe à lista apresentada pela autora, mas inclui as demandas patrocinadas pela autora em favor do réu, e não cabe ao Juízo o rateio de honorários entre bancas de advogados, que sequer integram a demanda. Cabe, ao contrário, o cálculo dos honorários, conforme previsto no título judicial e de acordo com o contrato celebrado entre as partes" (destaquei).
+Asseverou, ainda, que em relação aos processos que, disse o executado não teve participação da exequente, o perito abordou a questão, demonstrando que houve acompanhamento por parte da credora e no que concerne à tese do executado, que afirma que a exequente já recebeu parte dos honorários ou ainda que cabia à outra parte o pagamento, certo é que o executado não trouxe qualquer documentação comprobatória de sua tese, o que lhe cabia. Também não foi provado pelo interessado que já houve pagamento de parte da dívida. Observou que a extinção de eventuais ações sem julgamento de mérito não afasta o dever de pagamento de honorários. " (e-STJ fl. 197).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+Registra-se que, mesmo à luz do art. 489 do CPC, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV). A motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador, não autoriza o acolhimento dos embargos declaratórios.
+Convém destacar que, segundo informa o próprio agravante, os referidos quesitos se relacionavam às "cláusulas contratuais, valores, prazos, termos, vigências do contrato de prestação de serviços e seu aditivo, resultando em cálculos equivocados e inconsistentes, com apuração de valores acima do devido" (e-STJ fls. 287/288), questões que se encontram apreciadas no acórdão recorrido, à luz do título exequendo.
+Assim, é manifesta a imprescindibilidade de revolvimento do acervo fático-probatório dos autos para rever a conclusão do tribunal local, procedimento este inviável ante a natureza excepcional dessa via recursal (Súmula nº 7/STJ).
+Anota-se, ainda, que a aplicação da Súmula nº 7/STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
