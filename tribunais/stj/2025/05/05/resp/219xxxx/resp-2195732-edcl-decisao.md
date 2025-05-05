@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 852):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. ART. 178 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+A embargante alega que há obscuridade e contradição no julgado em razão de ter sido reconhecida a ausência de prequestionamento do art. 178 do CTN ao mesmo tempo em que se negou provimento ao recurso quanto à alegada violação dos arts. 489, §1º, inc. IV, e 1022, inc. II e parágrafo único, do CPC/2015.
+Sem impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nos presentes embargos, a parte alega que há obscuridade e contradição no julgado em razão de ter sido reconhecida a ausência de prequestionamento do art. 178 do CTN ao mesmo tempo em que se negou provimento ao recurso quanto à alegada violação dos arts. 489, §1º, inc. IV, e 1022, inc. II e parágrafo único, do CPC/2015.
+Todavia, tem-se que razão não lhe assiste.
+No que toca ao vício da obscuridade, este se verifica "(..) quando há evidente dificuldade na compreensão do julgado, faltando clareza à decisão, daí resultando a ininteligibilidade da questão decidida pelo órgão judicial." (EDcl no AgRg no AREsp 270504/MG, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 8/8/2013).
+Outrossim, conforme entendimento desta Corte, "a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado" (REsp 1.250.367/RJ, Rel. Min. Eliana Calmon, Segunda Turma, DJe de 22/08/2013).
+Isso considerado, evidencia-se que não há falar, na espécie, em qualquer dos vícios apontados, pois a decisão embargada, analisando o recurso da parte, explicitou de modo fundamentado, coerente e claro as razões do seu convencimento.
+Veja-se que foi afastada expressamente a alegada ofensa aos arts. 489, §1º, inc. IV, e 1022, inc. II e parágrafo único, inc. II, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. Assentou-se, no decisum embargado, que a aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Lado outro, consignou-se que a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem em relação ao art. 178 do CTN (e à tese a ele vinculada), o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento, atraindo a incidência da Súmula 211/STJ no ponto.
+Nesse contexto, explicitou-se que não cabe falar em prequestionamento ficto face ao art. 1025 do CPC/2015, pois, nos termos da jurisprudência desta Corte Superior, para se possibilitar a sua incidência, cabe à parte alegar, nas razões do seu recurso especial, ofensa ao art. 1022 do CPC/2015, de modo a permitir que seja sanada eventual omissão através de novo julgamento dos aclaratórios, caso existente. Ocorre que, na espécie, conquanto a recorrente tenha indicado a ofensa ao art. 1022 do CPC/2015, não se evidencia vício no acórdão regional, sendo portanto incabível o reconhecimento de prequestionamento ficto. Com efeito, "Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte Superior, a existência de erro material, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ." (AgInt no AgInt no AREsp 1618014/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 17/8/2021).
+A propósito, no que aqui interessa, veja-se ainda os seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS COMO VIOLADOS. TRIBUNAL DE ORIGEM QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA IMPOSSIBILIDADE DE ANÁLISE DA QUESTÃO RELATIVA À EXISTÊNCIA DO FATO GERADOR DO TRIBUTO EM EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COMPROVAÇÃO DO DISSÍDIO. AGRAVO INTERNO DESPROVIDO.
+1. Os arts. 114, 116 e 204 do CTN; e 489 e 494 do CPC, não foram examinados pela instância ordinária, sendo inarredável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo o óbice da Súmula 211 deste Tribunal.
+2. A jurisprudência desta Corte firmou-se no sentido de que "o art. 1025 do CPC/2015 condiciona o prequestionamento ficto ao reconhecimento por esta Corte de omissão, erro, omissão, contradição ou obscuridade, ou seja, pressupõe o provimento do recurso especial por ofensa ao art. 1022 do CPC/2015, com o reconhecimento da negativa de prestação jurisdicional sobre a matéria" (AgInt no AREsp n. 2.528.396/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/9/2024, DJe de 4/9/2024).
+3. (..)
+4. (..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 2.275.996/BA, Rel. Min. Afrânio Vilela, Segunda Turma, DJEN de 20/3/2025)
+PROCESSUAL CIVIL E ADMINISTRATIVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AÇÃO CIVIL PÚBLICA. SERVIÇO DE TRANSPORTE COLETIVO. CONSÓRCIO. LEGITIMIDADE PASSIVA. RECONHECIMENTO. REEXAME FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, e quando a matéria somente é ventilada nos embargos de declaração, pois, nessa hipótese, ocorre manifesta inovação recursal.
+2. (..)
+3. (..)
+4. (..)
+5. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, de acordo com a Súmula 211 do STJ.
+6. Segundo o entendimento desta Corte de Justiça, para que seja reconhecido o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a indicação e o reconhecimento pelo STJ de ofensa ao art. 1.022 do CPC/2015 especificamente quanto à questão que se pretende ver analisada, o que não se constata no caso.
+7. Agravo interno desprovido.
+(AgInt no AREsp 1.975.109/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe de 30/11/2022)
+Assim, evidencio não ter ocorrido insuficiência de fundamentação, falta de clareza ou erro material a ensejar integração ou esclarecimento do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1022 DO CPC/2015. EMBARGOS REJEITADOS.
