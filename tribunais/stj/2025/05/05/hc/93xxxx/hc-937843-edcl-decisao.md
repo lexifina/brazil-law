@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração no habeas corpus n.º 0307073-53.2024.3.00.0000, interpostos pelo Ministério Público do Estado do Ceará, alegando a existência de erro material na decisão (fls. 106/113), que concedeu parcialmente a ordem de habeas corpus para redimensionar as penas impostas a DAMIÃO ERICO CAVALCANTE NICOLAU pelos crimes previstos nos artigos 33 da Lei n.º 11.343/2006 e 16, parágrafo único, inciso IV, da Lei n.º 10.826/2003.
+O embargante sustenta que, ao final da decisão, houve equívoco na soma das penas redimensionadas, pois o correto seria a fixação de 10 (dez) anos de reclusão e 677 (seiscentos e setenta e sete) dias-multa, e não 09 (nove) anos e 08 (oito) meses de reclusão e 673 (seiscentos e setenta e três) dias-multa, como constou.
+Acrescenta que, embora ciente da intempestividade dos embargos declaratórios, submete a questão a exame, uma vez que o erro material pode ser corrigido de ofício, sem efeitos infringentes, a exemplo da orientação jurisprudencial do Superior Tribunal de Justiça.
+É o relatório.
+DECIDO.
+Consoante o disposto no artigo 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.
+Na espécie, assiste razão ao embargante.
+Verifica-se que, ao final da decisão de fls. 106/113 , houve a fixação da pena total em 09 (nove) anos e 08 (oito) meses de reclusão e 673 (seiscentos e setenta e três) dias-multa. Todavia, das reprimendas individualizadas no mesmo decisum  06 (seis) anos e 08 (oito) meses de reclusão e 667 (seiscentos e sessenta e sete) dias-multa pelo crime previsto no artigo 33 da Lei n.º 11.343/2006 e 03 (três) anos e 04 (quatro) meses de reclusão e 10 (dez) dias-multa pelo crime previsto no artigo 16 da Lei n.º 10.826/2003  a soma correta totaliza 10 (dez) anos de reclusão e 677 (seiscentos e setenta e sete) dias-multa.
+Trata-se, portanto, de mero erro material, evidenciado pelo simples cotejo das penas parcelares com a reprimenda global fixada, passível de correção de ofício, sem que haja alteração do conteúdo substancial da decisão.
+Ante o exposto, acolho os embargos de declaração para corrigir o erro material constante na parte dispositiva da decisão embargada, a fim de que conste como reprimenda final imposta ao paciente a pena de 10 (dez) anos de reclusão e 677 (seiscentos e setenta e sete) dias-multa, mantidas as demais disposições do acórdão.
+Publique-se. Intimem-se.
+EMENTA
