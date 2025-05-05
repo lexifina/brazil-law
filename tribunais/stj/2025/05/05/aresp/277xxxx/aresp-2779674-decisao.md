@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ISMAEL COSTA SIMEAO em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios que negou provimento ao apelo defensivo, mantendo a condenação pela prática do delito de furto simples (e-STJ fls. 368/381).
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 476/485).
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a defesa violação do art. 386, III, do Código de Processo Penal e dos arts. 16 e 33, ambos do Código Penal.
+Argumenta que a reincidência não impede a incidência do princípio da insignificância, especialmente porque, no caso, foi furtada peças de carne, restituídas ao estabelecimento comercial.
+Subsidiariamente, busca o reconhecimento do arrependimento posterior, salientando a possibilidade de reparação efetuada por terceiro, e a fixação do regime inicial aberto, a despeito da reincidência (e-STJ fls. 509/541).
+Apresentadas contrarrazões e contraminuta, o Ministério Público Federal se manifestou, nesta instância, pelo não provimento do recurso (e-STJ fls. 637/646).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso merece acolhida.
+O agravante foi condenado pela prática do delito do art. 155, caput, do Código Penal, tendo a condenação sido mantida pelo Tribunal de Justiça ao negar provimento ao apelo defensivo, afastando a incidência do princípio da insignificância.
+Como cediço, a lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual os princípios da insignificância e da intervenção mínima surgem para atuar como instrumentos de interpretação restrita do tipo penal.
+Entretanto, a ideia não pode ser aceita sem restrições, sob pena de o Estado dar margem a situações de perigo, na medida em que qualquer cidadão poderia se valer de tal princípio para justificar a prática de pequenos ilícitos, incentivando, por certo, condutas que atentem contra a ordem social.
+Assim, o princípio da insignificância deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de "certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada" (HC n.º 98.152/MG, Relator Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+Salienta-se que, quanto ao tema, o Plenário do Supremo Tribunal Federal, ao examinar, conjuntamente, o HC n.º 123.108/MG, o HC n. 123.533/SP e o HC n.º 123.734/MG, todos de relatoria do Ministro ROBERTO BARROSO, definiu que a incidência do princípio da insignificância deve ser feita caso a caso (Informativo n.º 793/STF).
+Nessa linha, a Terceira Seção desta Corte, no julgamento do EREsp n. º 221.999/RS, de minha relatoria, DJe 10/12/2015, estabeleceu que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, a verificação que a medida é socialmente recomendável. Precedentes: AgRg no REsp n.º 1.739.282/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/8/2018, DJe 24/8/2018; AgRg no HC n.º 439.368/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 14/8/2018, DJe 22/8/2018; AgRg no AREsp n.º 1.260.173/DF, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 7/8/2018, DJe 15/8/2018; AgRg no HC n.º 429.890/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 3/4/2018, DJe 12/4/2018.
+Na hipótese em análise, o entendimento do Tribunal de origem deve ser reformado, por se tratar de situação que, a despeito da reiteração criminosa, a conduta se refere a furto de costela bovina, que fora restituída ao açougue-vítima, o que atrai a incidência excepcional do princípio da insignificância.
+Prejudicada a análise das demais teses recursais.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para absolver o acusado da prática do delito do art. 155, caput, do Código Penal, em razão da aplicação do princípio da insignificância.
+Intimem-se.
+EMENTA
