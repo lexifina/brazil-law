@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de Agravo apresentado por GUSTAVO FRANCISCO ROCHA DO AMARAL à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO COMUM. DECISÃO AGRAVADA QUE NÃO CONHECEU DO APELO POR IRREGULARIDADE DA REPRESENTAÇÃO PROCESSUAL. ADVOCACIA PREDATÓRIA. PODER GERAL DE CAUTELA DO JUIZ. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. RENÚNCIA AO PRAZO CONCEDIDO. CAUSÍDICO CONDENADO AO PAGAMENTO DE CUSTAS E HONORÁRIOS, NOS TERMOS DO ART. 104, § 2º DO CPC. PRECEDENTES DESTA CORTE. DECISÃO MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 76 do CPC, no que concerne à existência de procuração válida nos autos, razão pela qual não subsiste a condenação do procurador em custas e honorários sucumbenciais , trazendo a seguinte argumentação:
+Com o devido respeito, entende-se que a o acórdão recorrido erra ao condenar o procurador da parte autora ao pagamento de custas e honorários, sob o fundamento de que não foi apresentada procuração atualizada.
+Em primeiro lugar, é importante destacar que EXISTE procuração nos autos. Está anexa ao mov. 1.2.
+Salienta-se que ela possui prazo indeterminado e não há notícia de sua revogação.
+Afinal, a lei fala apenas em não conhecimento do recurso. Não há dispositivo legal que autorize a condenação do procurador ao pagamento de custas e honorários no caso concreto.
+Com a devida venia, é de se destacar que na decisão recorrida não há nem sequer a indicação do artigo de lei que autorizaria a condenação do procurador da parte.
+O CPC prevê no seu art. 104 a condenação do procurador quando postula SEM procuração E NÃO RATIFICA O ATO no prazo de 15 dias
+ ..
+Não é este o caso dos autos.
+Mostra-se necessária, portanto, a revogação da decisão que condenou o procurador da parte ao pagamento de custas e honorários sucumbenciais e deixou de conhecer da apelação, pois HÁ procuração válida nos autos (fls. 203/204).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+A controvérsia recursal se estabelece em definir se o causídico pode ser condenado, em custas e honorários advocatícios, em razão da ausência de regularização processual.
+O recurso de apelação, originário deste expediente, não foi conhecido diante da irregularidade na representação da parte apelante e, conforme parâmetros estabelecidos no Tema Repetitivo nº 1.059 do STJ, este subscritor deixou de majorar os honorários advocatícios, vez que, não fixados na origem, incumbindo, contudo, o pagamento ao advogado que postulou de forma irregular.
+Nada obstante os rasos argumentos apresentados pelo recorrente, a exigência de regularização, especialmente diante a peculiaridade dos autos, decorre do poder geral de cautela do juiz, sem que caracterize abuso de poder, pois, tal medida visa resguardar os interesses das próprias partes.
+Ademais, destaco que o caso em tela é típico de demanda predatória, na qual ocorre o do Poder Judiciário, podendo uso abusivo "levar a sendo depredação do serviço que é público, prejudicando todos os seus usuários" "ações judiciais manejadas sem responsabilidade, consubstanciadas apenas na busca por lucros individuais e capazes de depredar o sistema de justiça, em (Nota Técnica nº 06/2023 do Centro de Inteligência prejuízo de toda a sociedade" TJPR ).  1  Afinal, se o patrono em questão atuou sem poderes, mercê da irregularidade do mandato - não suprida quando oportunizada em sede recursal -, , evidente o resistindo injustificadamente à juntada de nova procuração enquadramento do caso concreto à hipótese normativa do art. 104, §2º do Código de Processo Civil.
+Vale frisar que, após haver requerido extensão do prazo, nenhuma outra justificativa ou recurso apresentou, apenas renunciando ao prazo que havia sido deferido.
+ ..
+Logo, a hipótese é de não regularização processual, em conta vício existente e não sanado acerca primeira procuração, de sorte que o advogado que postula de forma irregular fica, ele próprio, condenado e responsável pelas custas e honorários advocatícios, não havendo que se cogitar da isenção decorrente dos benefícios deferidos à parte. Isto posto, a MANUTENÇÃO da decisão agravada é medida que se impõe (fls. 191/194).
+Tal o contexto, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
