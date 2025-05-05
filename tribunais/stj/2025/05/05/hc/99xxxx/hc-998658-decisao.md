@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EDSON VINICIUS DA CUNHA ROSA, nos autos da Apelação Criminal n. 5049715-29.2021.8.21.0001/RS, apontando como autoridade coatora o Procurador-Geral de Justiça do Estado do Rio Grande do Sul.
+O Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso de apelação interposto pelo Ministério Público, para condenar o Paciente pelo delito de tráfico de drogas, aplicando o tráfico privilegiado, com a pena fixada em 01 (um) ano e 08 (oito) meses de reclusão, determinando, de ofício, a remessa dos autos ao Ministério Público naquele grau de jurisdição para manifestação acerca da possibilidade de oferecimento de acordo de não persecução penal (ANPP).
+O Paciente foi condenado à pena de 01 (um) ano e 08 (oito) meses de reclusão, em regime inicial aberto, e ao pagamento de 167 dias-multa, pela prática do crime previsto no art. 33, caput, c/c § 4º, da Lei n. 11.343/06, substituída a pena privativa de liberdade por duas restritivas de direitos.
+Sustenta a impetrante, em síntese, que o Paciente sofre constrangimento ilegal em razão da recusa do Ministério Público em oferecer o acordo de não persecução penal, alegando que a motivação apresentada é inidônea, pois baseia-se apenas na apreensão de droga, que integra o próprio tipo penal, e na quantidade de entorpecentes apreendida, que não desborda do comum para casos de pequena traficância.
+Requer, liminarmente e no mérito, que seja concedida a ordem para determinar o oferecimento do ANPP ao Paciente.
+DECIDO.
+O presente habeas corpus não comporta prosseguimento.
+Nos termos do art. 105, I, "c", da Constituição Federal, compete a este Superior Tribunal de Justiça processar e julgar habeas corpus quando o coator for autoridade ou tribunal sujeito a sua jurisdição.
+Na hipótese, a impetrante aponta como autoridade coatora o Procurador-Geral de Justiça do Estado do Rio Grande do Sul, que não integra o rol previsto no referido dispositivo constitucional, o que não atrai a competência desta Corte Superior para examinar o presente writ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIDO LIMINARMENTE. INCOMPETÊNCIA. WRIT IMPETRADO DIRETAMENTE NO STJ CONTRA ATO DA CÂMARA DE COORDENAÇÃO E REVISÃO DO MINISTÉRIO PÚBLICO MILITAR. CRIME MILITAR. ART. 251 DO CPM. INCIDÊNCIA DO ACORDO DE NÃO PERSECUÇÃO PENAL NA JUSTIÇA MILITAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+1. A atuação, por força do art. 28-A, § 14, do CPP, da Câmara de Coordenação e Revisão do Ministério Público Militar, por meio dos Sub-Procuradores Gerais de Justiça Militar que a integram, em ação penal militar em trâmite no primeiro grau de jurisdição, por si só, não desloca a competência diretamente para o Superior Tribunal de Justiça para o processamento e julgamento de habeas corpus contra a decisão que manteve o não oferecimento do acordo de não persecução penal no âmbito da Justiça Militar.
+2. Em semelhante hipótese, esta Corte Superior, no julgamento do Agravo Regimental no Habeas Corpus n. 550.851/DF de minha relatoria consignou que a atuação do Procurador-Geral de Justiça do MPDFT (membro do Ministério Público da União com atuação em Tribunais) em processos de primeiro grau, por analogia ao art. 28 do CPP, sobre temas que a Corte local nem sequer tenha se manifestado, não desloca a competência para o julgamento do mandamus, diretamente, perante esta Corte Superior.
+3. O pleito não reúne condições de acolhimento, pois o referido dispositivo de lei federal infraconstitucional, nos termos do que mencionado na petição anteriormente apresentada (art. 28-A, do CP - acordo de não persecução penal), não foi objeto de específico debate perante o eg. Colegiado a quo  ..  (AgRg na PET no AREsp 1668089/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 20/10/2020, DJe de 29/10/2020).
+4. Agravo regimental improvido.
+(AgRg no HC n. 628.595/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/12/2020, DJe de 17/12/2020.)
+Cite-se, ainda, em caso análogo, recente decisão monocrática: HC n. 996.468/RS, Ministro Reynaldo Soares da Fonseca, DJEN de 23/04/2025.
+Ressalte-se, ademais, que a matéria trazida neste habeas corpus não foi examinada pelo Tribunal de origem, razão pela qual é inviável sua apreciação diretamente por esta Corte, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
