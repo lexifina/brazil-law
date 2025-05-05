@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INADIMPLEMENTO COM PEDIDO DE RESCISÃO CONTRATUAL. FERIADO LOCAL, RECESSO, PARALISAÇÃO OU INTERRUPÇÃO DO EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO. APLICAÇÃO DO CPC/15.
+1. Ação declaratória de inadimplemento com pedido de rescisão contratual.
+2. A ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+3. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por ALDEIA DE IPORA PARTICIPACOES LTDA, contra decisão emitida pela Presidência do STJ que não conheceu do agravo em recurso especial que interpusera.
+Ação: declaratória de inadimplemento com pedido de rescisão contratual, ajuizada por JEAN ALVES DE OLIVEIRA e JHERICA VIEIRA LEITE OLIVEIRA em face da agravante, em razão de contrato de compra e venda de imóveis.
+Sentença: julgou parcialmente procedente o pedido, para condenar a agravante a restituir os valores pagos, nos termos da fundamentação da sentença.
+Acórdão: deu provimento ao recurso interposto pelos agravados, para reformar a sentença e determinar que a restituição das parcelas pagas, deverá ser de forma integral e mediante parcela única, a teor da Súmula 543 do Superior Tribunal de Justiça (STJ), conforme a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INADIMPLEMENTO CONTRATUAL, C/C PEDIDO DE RESCISÃO CONTRATUAL COM PEDIDO LIMINAR. COMPRA E VENDA DE IMÓVEL. LOTE. ANTERIOR À LEI DE DISTRATO. APLICAÇÃO DO CDC. ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA. CULPA DA PROMITENTE VENDEDORA. RESTITUIÇÃO INTEGRAL DOS VALORES PAGOS. PARCELA ÚNICA. HONORÁRIOS. 1. É aplicável o Código de Defesa do Consumidor na relação estabelecida entre incorporador e adquirente de unidade imobiliária. 2. Pacífica a jurisprudência no sentido de que as disposições da Lei nº 13.786/2018 (Lei do Distrato), somente se aplicam aos contratos firmados após a sua vigência, em atenção ao princípio da irretroatividade das leis, o que afasta sua aplicação no caso concreto, uma vez que contrato fora firmado antes do referido período. 3. Constatado que o atraso das obras de infraestrutura do loteamento deu-se por culpa exclusiva da promitente vendedora (ré/apelada), porque ausente a comprovação de culpa exclusiva de terceiros, força maior ou caso fortuito, é direito do consumidor (autores/apelantes) a rescisão do contrato, com o consequente retorno ao status quo ante, impondo-se a condenação da prominente vendedora apelada à restituição, integral e imediata, de parcelas pagas pelos promitentes compradores, uma vez que não gera direito de retenção (Súmula 543, STJ). 4. Provido o apelo, com a reforma da sentença, julgando-se procedentes os pedidos iniciais, não há falar em honorários recursais. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. SENTENÇA REFORMADA.
+Recurso especial: alega violação dos arts. 479, 489, § 1º, IV e 1.022, II, do Código de Processo Civil do Código Civil e 14 do Código de Defesa do Consumidor.
+Decisão monocrática emitida pela Presidência: não conheceu do agravo em recurso especial, em razão da intempestividade.
+Agravo interno: a parte agravante sustenta que o recurso especial é tempestivo, uma vez que no dia o dia 24/10/2024 (quinta-feira) houve a interrupção do prazo, devido ao feriado estadual em Goiás, com suspensão do prazo. Do mesmo modo, aduz a tempestividade do agravo em recurso especial, haja vista que no dia 05/12/2024, o sistema eletrônico do Tribunal de Justiça do Estado de Goiás apresentou instabilidade o que impossibilitou a prática de atos processuais e acarretou a perda de um dia no prazo recursal, conforme é possível constatar nos registros do sistema. Insurge-se contra a majoração dos honorários recursais.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INADIMPLEMENTO COM PEDIDO DE RESCISÃO CONTRATUAL. FERIADO LOCAL, RECESSO, PARALISAÇÃO OU INTERRUPÇÃO DO EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO. APLICAÇÃO DO CPC/15.
+1. Ação declaratória de inadimplemento com pedido de rescisão contratual.
+2. A ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada emitida pela Presidência do STJ não conheceu do agravo em recurso especial, nos termos da seguinte fundamentação:
+Por meio da análise do recurso de ALDEIA DE IPORA PARTICIPACOES LTDA, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 07.10.2024, sendo o Recurso Especial interposto somente em 29.10.2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Além disso, verifica-se que a parte recorrente foi intimada da decisão agravada em 22.11.2024, sendo o Agravo somente interposto em 14.12.2024.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Ainda, percebeu-se, no STJ, haver irregularidade quanto à tempestividade dos recursos. A parte, embora regularmente intimada para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, não regularizou, tendo em vista não demonstrar, através de documento idôneo, ter ocorrido evento apto a postergar a interposição do recurso. Dessa forma, não há como afastar a intempestividade. (e-STJ, fl. 825)
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+De fato, compulsando os autos, verifica-se que o recurso especial é inadmissível por ser intempestivo, pois a parte agravante foi intimada do acórdão recorrido em 07.10.2024, sendo o Recurso Especial interposto somente em 29.10.2024.
+Além disso, verifica-se que a parte recorrente foi intimada da decisão agravada em 22.11.2024, sendo o Agravo somente interposto em 14.12.2024.
+Verifica-se, ainda, que a agravante, embora regularmente intimada, no STJ, para comprovar eventual suspensão, interrupção ou prorrogação do prazo processual, não regularizou, tendo em vista não demonstrar, através de documento idôneo, ter ocorrido evento apto a postergar a interposição do recurso.
+Na hipótese dos autos, o recurso foi interposto quando já em vigor o novo Código de Processo Civil. Desse modo, conforme ressalvado na decisão agravada, nos termos do art. 1.003, §6º, do CPC/15, a recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+Assim, considerando que o recurso especial, bem como o agravo em recurso especial foram interpostos sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência da suposta suspensão dos prazos processuais quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
