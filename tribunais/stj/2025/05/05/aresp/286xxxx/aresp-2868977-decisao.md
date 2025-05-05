@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por KARLA MARIA PRESSATO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS. AUSÊNCIA DOS REQUISITOS. DECISÃO MANTIDA. - CONSTITUI MEDIDA EXCEPCIONAL A ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARGOS À EXECUÇÃO, QUE SOMENTE PODE SER DEFERIDA SE A PARTE EXECUTADA DEMONSTRAR, CUMULATIVAMENTE, A PRESENÇA DOS REQUISITOS DA TUTELA PROVISÓRIA E A GARANTIA DO JUÍZO, CONFORME DISPOSIÇÃO EXPRESSA DO § 1º DO ART. 919 DO CÓDIGO DE PROCESSO CIVIL. - AUSENTES OS REQUISITOS, DEVE SER MANTIDA A DECISÃO QUE INDEFERIU A ATRIBUIÇÃO DE EFEITO SUSPENSIVO AOS EMBARAOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação do art. 919, § 1º, do CPC, no que concerne ao preenchimento dos requisitos exigidos para a concessão do efeito suspensivo aos embargos à execução, trazendo a seguinte argumentação:
+No caso em questão, os títulos executivos contra a Recorrente apresentam vícios, tornando a execução proposta incompatível com os ensinamentos nacionais e indicando a probabilidade de direito. O STJ compartilha desse entendimento, concedendo efeito suspensivo quando presentes os requisitos de fumus boni iuris e periculum in mora.
+Neste contexto, a análise das alegações evidencia o perigo de dano ou risco ao resultado útil do processo se os atos executórios prosseguirem, prejudicando a Recorrente e podendo levar à expropriação indevida de seus bens. Vale destacar, nesta oportunidade, que já houve um requerimento do Recorrido no processo de execução nº 5003535-22.2023.8.13.0707 para o bloqueio de ativos financeiros da Recorrente.
+No tocante à garantia, resta amplamente demonstrada, sendo necessária para que a suspensão não prejudique a Exequente, ora Recorrente.
+Embora ainda não tenha ocorrido a penhora de bens efetivamente, há a garantia de um veículo em alienação fiduciária. Assim, com a execução garantida, o efeito suspensivo pode ser concedido, nos termos do artigo 919, §1º, do CPC.
+ ..
+Neste sentido, restou comprovado alhures que preenchidos todos os requisitos para a concessão do efeito suspensivo aos Embargos à Execução, qual sejam: a) apresentação de garantia; b) verificação pelo juiz da relevância da fundamentação (fumus boni juris) e c) perigo de dano irreparável ou de difícil reparação (periculum in mora)".
+ ..
+Verticalizando tais premissas, após analisar as razões recursais em cotejo com os documentos que instruem o presente recurso, restaram demonstrados nos autos os requisitos, essenciais e cumulativos, que legitimam a concessão de eficácia suspensiva ao processo executivo (fls. 301/308).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Desse modo, cinge-se a controvérsia recursal em verificar o acerto ou não da decisão agravada que indeferiu o pedido de atribuição de efeito suspensivo aos embargos à execução.
+ ..
+Certo é que, com a reforma processual operada pelo aludido diploma legal, a suspensão do feito executivo deixou de constituir um efeito decorrente da simples oposição dos embargos do devedor, passando a representar medida excepcional, somente devendo ser concedida quando presentes nos autos todos os pressupostos exigidos pelo legislador.
+Na hipótese vertente, é fato incontroverso que não houve específica garantia do Juízo, não havendo, portanto, como conceder efeito suspensivo aos embargos.
+Em que pese a argumentação do recorrente no sentido de que existe um bem dado em garantia de alienação fiduciária que deveria ser considerado como garantia do juízo, com a devida vênia, entendo que a penhora, o depósito ou a caução exigidos pela lei não compreendem, em princípio, referido bem.
+ ..
+Não bastasse isso, as alegações deduzidas pelo agravante não estão revestidas de relevância, não se afigurando nem a probabilidade, nem a evidência do direito material invocado, motivo pelo qual deve ser mantida a decisão agravada (fls. 205/208).
+Tal o contexto , incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2. 753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
