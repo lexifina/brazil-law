@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, conhecer do recurso e lhe dar provimento, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Humberto Martins, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. ART. 85, § 2º, DO CPC. ORDEM DE GRADAÇÃO.
+1. Embargos de terceiro.
+2. Para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedentes.
+3. Recurso especial conhecido e provido.
+RELATÓRIO
+Examina-se recurso especial interposto por DAL PONT & ADVOGADOS ASSOCIADOS, fundamentado, exclusivamente, na alínea "a" do permissivo constitucional, contra acórdão do TJ/RO.
+Recurso especial interposto em: 8/2/2023.
+Concluso ao gabinete em: 5/3/2025.
+Ação: embargos de terceiros, opostos por FERNANDO KOFOPOULOS FERNANDES em desfavor do ESPÓLIO DE NELSON BAUNGROTZ.
+Sentença: julgou improcedentes os pedidos iniciais e declarou a continuidade dos atos de execução.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+Processo civil. Apelações. Preliminares de deserção e de cerceamento de defesa afastadas. Embargos de terceiros. Honorários advocatícios de sucumbência. Arbitramento pelo juiz. Ausência de proveito econômico. Alegação de nulidade do processo executivo. Matéria de defesa do devedor. Descabimento.
+Na hipótese de embargos de terceiros, em não obtendo sucesso o autor da ação e sendo sucumbente, por não ocorrer proveito econômico, os honorários advocatícios podem ser fixados por apreciação equitativa, nos termos do § 8º do artigo 85 do CPC, considerando-se o objeto da demanda de valor economicamente inestimável.
+Os embargos de terceiro têm como fundamento a existência de indevida constrição judicial sobre bem, com o intuito de desconstituí-la. Não contempla a alegação de nulidade do processo executivo ou do título judicial ou extrajudicial que o instrumentaliza, tampouco de excesso de execução, por tratarem-se de matérias que devem ser alegadas pelo devedor em embargos à execução ou impugnação ao cumprimento de sentença.
+Recursos não providos.
+Embargos de declaração: opostos por ambas as partes, foram rejeitados.
+Recurso especial: aponta violação ao art. 85, § 2º, do CPC.
+Se insurge contra a fixação dos honorários por equidade, argumentando que, na hipótese, "o proveito econômico corresponde ao efetivo valor atribuído à causa pelos Recorridos", bem como sobre a "inviabilidade da fixação de honorários de sucumbência por apreciação equitativa quando o valor da condenação ou o proveito econômico forem elevados" (e-STJ fls. 2489 e 2492).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. HONORÁRIOS DE SUCUMBÊNCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. ART. 85, § 2º, DO CPC. ORDEM DE GRADAÇÃO.
+1. Embargos de terceiro.
+2. Para a fixação dos honorários sucumbenciais, estabelece-se a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II. a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II. b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º). Precedentes.
+3. Recurso especial conhecido e provido.
+VOTO
+- Da fixação dos honorários advocatícios
+A 2ª Seção do STJ, por ocasião do julgamento do REsp 1.746.072/PR (DJe de 29/03/2019), uniformizou o entendimento desta Corte no sentido de que o art. 85, §2º, do CPC veicula regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento), subsequentemente calculados sobre o valor: i) da condenação; ou ii) do proveito econômico obtido; ou iii) do valor atualizado da causa.
+Além disso, por ocasião do julgamento do Tema 1.076/STJ (DJe de 31/5/2022), a Corte Especial firmou as seguintes teses:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória nesses casos a observância dos percentuais previstos nos §§ 2º ou 3º do artigo 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+Na espécie, o TJ/RO consignou o seguinte:
+"A sentença, considerando o elevado valor da causa, fixou os honorários advocatícios de sucumbência em 1% do valor atualizado da causa.
+Na hipótese dos autos, não houve vencedor, em termos de proveito econômico. O requerido não foi condenado em nenhuma expressão econômica; e o requerente não alcançou nenhum sucesso na sua pretensão. O valor da causa seria a perspectiva de ganho do autor, que perdeu a causa; por isso, é irrelevante esse fator como base determinante da remuneração do advogado.
+No que se refere ao valor da causa nessas circunstâncias, a equidade deve ser utilizada como instrumento de determinação do ganho sucumbencial; data vênia, também de ser utilizado esse instrumento quando o valor da causa for desmedidamente alto. Do contrário, fica relegado à sem importância no sistema jurídico o repudiável enriquecimento sem causa, o que seria incompatível com a moral social.
+Assim, de um lado, a situação posta nos autos não autoriza o provimento, em razão da inutilidade, para fins de preservação de quaisquer direitos, que aliás não foi descrito objetivamente, exceto que se queria fosse maior a imputação pela sucumbência. Uma perspectiva de que deve ser assim, porque assim é a letra da lei.
+Constata-se que o valor arbitrado é proporcional e razoável, ante os fatores norteadores da estipulação dos honorários, que são o zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o serviço (CPC, art. 85, § 2º).
+O juiz a quo determinou o valor com base no seu livre convencimento motivado, o que encontra respaldo nos princípios constitucionais no que se refere à dicção do direito pelo Estado-juiz. Sem dúvida, a normatividade decorrente da jurisdição dos tribunais superiores, por via da metodologia dos temas jurídicos consolidados, sucumbem aos princípios constitucionais gerais.
+A fixação do juiz a quo se ajusta às definições do § 8º do artigo 85 do CPC potencializadas pelo Tema Repetitivo n. 1.076 do STJ, no tocante ao fator proveito econômico inestimável.
+Proveito econômico inestimável significa também que o sucesso alcançado na ação judicial não se mede pela objetividade da riqueza econômica, em especial no sentido de agregar algum valor monetizável da espécie financeira ao patrimônio do vencedor. No caso sub judice, o objeto da reparação já estava compondo o conjunto de interesses do autor; o resultado da sentença foi moral, ou meramente subjetiva, qual seja, a de conceituação da natureza intrínseca de um estado de coisa, qual seja, de dizer que as circunstâncias não permitiam nenhuma reparação sequer.
+Os honorários advocatícios devem ser fixados em percentual tendo em conta o valor da condenação, do proveito econômico em lide ou, não sendo possível mensurá-lo, ou não havendo condenação, sobre o valor atualizado da causa, nas hipóteses em que forem indubitáveis esses requisitos como fatores. Essa perspectiva está fora das circunstâncias da ação em foco recursal.
+Por não ocorrer proveito econômico, os honorários advocatícios podem ser fixados por apreciação equitativa, nos termos do § 8º do artigo 85 do CPC, considerando-se o escopo não alcançado de valor economicamente inestimável, que seria a condenação na indenização das perdas materiais ou morais.
+Tendo o processo da ação judicial, como instrumento, para defesa de direitos individuais, é certo que se aplicando os percentuais previstos no § 2º do art. 85 do CPC, considerando o valor da causa de R$13.503.842,12, dado pelo próprio sucumbente, se estará a permitir o enriquecimento sem motivo, o que é extraordinariamente repudiado pelo sistema jurídico nacional; além da condenação pelo insucesso na ação, ocorreria a reforma in pejus (do princípio: non reformatio in pejus) - indireta ofensa à garantia de acesso à justiça." (e-STJ fls. 2354/2356)
+Destarte, o acórdão recorrido, ao fixar a verba h onorária por equidade, decidiu em dissonância com a jurisprudência do STJ.
+O acórdão recorrido, portanto, merece reforma.
+DISPOSITIVO
+Forte nessas razões, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para determinar o retorno dos autos ao TJ/RO, a fim de que promova o arbitramento da verba honorária, à luz da citada jurisprudência do STJ.
