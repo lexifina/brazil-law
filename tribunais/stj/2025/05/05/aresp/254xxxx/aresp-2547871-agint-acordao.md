@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo Sérgio Domingues.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ACÓRDÃO RECORRIDO. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Inexiste ofensa ao art. 1.022, II, do CPC quando o Tribunal de origem se manifesta de modo claro e fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal de origem decidiu a questão ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos (PPP e laudo) - concluindo que a atividade exercida pelo autor não se enquadra como trabalhador da Indústria Gráfica e/ou Editorial.
+3. A modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JOÃO RICARDO TESTA DE GIUSTI contra decisão de minha relatoria, em que conheci do agravo para não conhecer do recurso especial (e-STJ fls. 917/921).
+Em suas razões, a parte agravante sustenta que alegou especificamente a omissão do acórdão recorrido, e que não há necessidade de reexame fático, apenas uma nova valoração das provas com o fim de reconhecer a especialidade do labor como fotógrafo, dado seu direito adquirido. No mais, reprisa as razões de seu apelo nobre.
+Intimada, a parte agravada não ofertou impugnação (e-STJ fl. 945).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ACÓRDÃO RECORRIDO. NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. REEXAME DOS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Inexiste ofensa ao art. 1.022, II, do CPC quando o Tribunal de origem se manifesta de modo claro e fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal de origem decidiu a questão ventilada com base na realidade que se delineou à luz do suporte fático-probatório constante nos autos (PPP e laudo) - concluindo que a atividade exercida pelo autor não se enquadra como trabalhador da Indústria Gráfica e/ou Editorial.
+3. A modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Não merece reparos a decisão agravada.
+Como já decidido, esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 1.022 do CPC deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, Rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 01/12/2017; AgInt no REsp 1.681.138/MS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, a parte recorrente deixou de indicar, com precisão, os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que a Corte deixou de se manifestar sobre questões apontadas nos aclaratórios.
+Ora, a tese alusiva à ofensa ao art. 1.022 do CPC deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+No caso, o Tribunal a quo concluiu em sentido oposto ao postulado, por consignar que a atividade exercida pelo autor não se enquadra como trabalhador da Indústria Gráfica e/ou Editorial (e-STJ fls.773/775):
+No caso dos autos, conforme se verifica, o julgador singular enquadrou as atividades do autor (repórter fotográfico e fotógrafo) no código 2.5.8 do Anexo II do Decreto nº 83.080/79. Todavia, conforme bem pontuado no apelo do INSS, não vejo como promover o referido enquadramento, já que não se trata de trabalhador da Indústria Gráfica e/ou Editorial. Desse modo, para que haja o enquadramento como especial das atividades deverá ser comprovada a exposição a agentes nocivos, nos termos da fundamentação retro. Na hipótese em análise, os PPPs juntados (evento 1, PPP6 e evento 20, PPP4) indicam a seguinte descrição das atividades e exposição a fatores de risco:
+ ..
+Em complementação da prova, foram juntados os laudos técnicos da própria empresa (evento 28), os quais não indicam a exposição a agentes nocivos nas atividades de fotógrafo e repórter.
+Quanto ao laudo técnico apresentado no evento 20, não vejo como seja utilizado como prova emprestada, já que os PPPs e laudos da empregadora juntados demonstram a realidade laborativa da parte autora.
+Veja-se que não se tem argumentação razoável do segurado capaz de desconstituir ou demonstrar que as informações prestadas pela empresa não mereçam credibilidade e/ou estejam em descompasso com as tarefas executadas nos períodos impugnados.
+Dessa forma, diante do conjunto probatório, merece reforma a sentença, afastando-se o reconhecimento da especialidade dos períodos de 26/08/1986 a 01/05/1987 e de 24/11/1988 a 28/04/1995, provendo-se, no ponto, a apelação do INSS.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, de modo a considerar a especialidade do labor, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CARACTERIZADA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. EXERCÍCIO EM ATIVIDADES ESPECIAIS NÃO RECONHECIDAS PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. A controvérsia diz respeito à especialidade, ou não, dos períodos de 19.07.1980 a 30.04.1997, 01.06.1998 a 13.12.2008, 23.11.2009 a 28.06.2011 e de 09.01.2012 a 25.02.2016, para fins de concessão do benefício da aposentadoria por tempo de contribuição em favor da parte autora.
+2. Inexiste a alegada violação do art. 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo o acórdão ser considerado nulo tão somente porque contrário aos interesses da parte.
+3. Com efeito, nos termos da jurisprudência do STJ, antes da vigência da Lei 9.032/1995, a comprovação do tempo de serviço exercido em atividade especial se dava pelo enquadramento do profissional em categoria descrita como perigosa, insalubre ou penosa, constante de rol expedido dos Decretos 53.831/1964 e 83.080/1979, ou pela comprovação de efetiva exposição a agentes nocivos constantes do rol dos aludidos decretos, mediante quaisquer meios de prova, exceto para ruído e calor, que demandavam a produção de laudo técnico.
+4. A partir da alteração legislativa, passou a ser necessária a demonstração efetiva de exposição, de forma permanente, não ocasional nem intermitente, a agentes prejudiciais à saúde ou à integridade física, por qualquer meio de prova. É suficiente, para tanto, a apresentação de formulário padrão preenchido pela empresa, dispensando-se embasamento em laudo técnico, ressalvados os agentes nocivos ruído, frio e calor.
+5. Somente com a vigência da Lei 9.528/1997, consolidada pelo Decreto 2.172/1997, é que se passou a exigir laudo técnico para comprovação das atividades especiais.
+6. Hipótese em que o Tribunal Regional, à luz das provas dos autos, não reconheceu a atividade rural como especial por enquadramento de categoria profissional antes da Lei 8.213/1991 e pela ausência de exposição habitual e permanente ao agente nocivo, além de a sujeição às intempéries da natureza ser insuficiente para a caracterização da insalubridade.
+7. Portanto, entendimento diverso, conforme pretendido, implica reexame do contexto fático-probatório dos autos, circunstância que redunda na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+8. Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+9. Agravo Interno não provido.
+(AgInt no AREsp n. 2.210.915/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/3/2023, DJe de 4/4/2023.).
+Quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+Assim, a manutenção do julgado é medida que se impõe.
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
