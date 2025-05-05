@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTAÇÃO NA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA N. 284/STF. INCIDÊNCIA.
+1. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não realizou o cotejo analítico necessário entre as hipóteses apresentadas como divergentes. Não houve transcrição dos trechos dos acórdãos confrontados, nem menção das circunstâncias que os identifiquem ou assemelhem, conforme exigido pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. Incidência da Súmula n. 284/STF.
+Agravo interno improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por COMPANHIA THERMAS DO RIO QUENTE contra decisão monocrática da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial em razão da ausência de cotejo analítico (fls. 719-722).
+Extrai-se dos autos que o recurso especial inadmitido foi interposto, com fundamento no art. 105, inciso III, "c", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (fls. 524-525):
+EMENTA: APELAÇÃO CÍVEL EM AÇÃO DE OBRIGAÇÃO DE FAZER E REPARAÇÃO DE DANOS. SERVIÇO DE HOTELARIA. DEFEITO DE INFORMAÇÃO. RESPONSABILIDADE SOLIDÁRIA. VINCULAÇÃO AO ANÚNCIO. REPETIÇÃO EM DOBRO. DANO MORAL CONFIGURADO. RAZOABILIDADE DO ARBITRAMENTO. SENTENÇA MANTIDA.
+1. O fornecedor responde objetivamente pelos danos causados ao consumidor em razão de defeito existente na prestação dos serviços que colocou no mercado, na forma do § 1º do artigo 14 do Código de Defesa do Consumidor.
+2. Comprovado que o anúncio dos serviços de hotelaria, divulgado nos aplicativos sociais "Booking. com" e "TripAdvisor", veiculou a informação com a imagem e nome do estabelecimento gerido pela recorrente, não há como excluí-la da cadeia de fornecimento, pois efetivamente se vale daquelas mídias para buscar novos consumidores.
+3. Houve um defeito de informação da proposta, na medida em que ocorreu um cruzamento de dados entre dois hotéis distintos, num mesmo anúncio. O defeito levou o consumidor a crer que os serviços de hotelaria seriam prestados pela apelante, depositando, de boa-fé, a confiança nas informações prestadas pelos aplicativos, parceiros comerciais da ré.
+4. Não há se falar em rompimento do nexo causal por fato exclusivo de terceiro, já que esta falha do anúncio, por sua rede de parceiros midiáticos, integra o risco do negócio, que não pode ser transferido ao consumidor. De acordo com a jurisprudência do colendo Superior Tribunal de Justiça, a culpa de terceiro não é apta a romper o nexo causal quando se mostra conexa à atividade econômica e aos riscos inerentes à sua exploração, caracterizando fortuito interno.
+5. Toda informação ou publicidade veiculada por qualquer forma ou meio de comunicação com relação a produtos e serviços oferecidos, obriga o fornecedor a cumprir a oferta nos termos do anúncio, de conformidade com a regra positivada nos artigos 30 e 35, do Código de Defesa do Consumidor.
+6. Os fornecedores que concorreram para o dano respondem solidariamente por sua reparação, de conformidade com o artigo 7º, parágrafo único, c/c artigo 25, § 1º, do Código de Defesa do Consumidor.
+7. Para a repetição em dobro, segundo a regra do artigo 42, parágrafo único, do Código de Defesa de Consumidor, são necessários os seguintes requisitos: a) cobrança extrajudicial; b) existência de relação de consumo; c) pagamento a maior pelo consumidor em virtude da pressão ilegítima; d) violação do princípio da boa-fé objetiva, por não haver causa justificável, ou a existência de má-fé.
+8. Está caracterizado o dano moral, quando o consumidor, acompanhado da esposa e do filho de apenas 02 (dois) meses de vida, é submetido a uma situação angustiante de espera de mais de 05 (cinco) horas, sem nenhum suporte. Além do constrangimento resultante da forma como se deu a cobrança de nova diária, quando o consumidor foi compelido, no meio da noite, a pagar novamente pela estadia, mesmo na posse dos documentos que comprovavam o adimplemento, após haver aguardado todo aquele período, acreditando que a situação estivesse resolvida.
+9. A verba indenizatória do dano moral somente será modificada se não atendidos pela sentença os princípios da proporcionalidade e da razoabilidade na fixação do valor da condenação. Súmula nº 32 do TJGO.
+10. Mantida a sentença, deve-se majorar a verba honorária de conformidade com o § 11 do artigo 85 do Código de Processo Civil.
+11. APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA.
+Acolhidos os embargos de declaração para majorar os honorários advocatícios de sucumbência (fls. 550-564).
+Alega a parte agravante que "Nesta esteira, segue em anexo a íntegra dos respectivos acórdãos paradigmas, os quais, demonstram de forma inequívoca, que o entendimento exarado pelo Tribunal de Justiça de Goiás é CONTRÁRIO ao entendimento dos demais Tribunais pátrios" (fl. 732).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada apresentou contrarrazões (fl. 741).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTAÇÃO NA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. SÚMULA N. 284/STF. INCIDÊNCIA.
+1. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não realizou o cotejo analítico necessário entre as hipóteses apresentadas como divergentes. Não houve transcrição dos trechos dos acórdãos confrontados, nem menção das circunstâncias que os identifiquem ou assemelhem, conforme exigido pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ. Incidência da Súmula n. 284/STF.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não prospera a irresignação.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a parte recorrente não se desincumbiu.
+Dessa forma, o dissídio jurisprudencial não foi comprovado, pois a parte agravante não realizou o cotejo analítico necessário entre as hipóteses apresentadas como divergentes. Não houve transcrição dos trechos dos acórdãos confrontados, nem menção das circunstâncias que os identifiquem ou assemelhem, conforme exigido pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+Outrossim, a deficiência na fundamentação acima apontada atrai o óbice da Súmula n. 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A propósito, cito :
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO. CHEQUE. COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, a teor da Súmula n. 284 do STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo desprovido.
+(AREsp n. 2.801.613/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. APELAÇÃO. AÇÃO DECLARATÓRIA DE FALSIDADE DE DOCUMENTO. CHEQUE. COISA JULGADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO. SIMPLES TRANSCRIÇÃO DE EMENTA. CERCEAMENTO DE DEFESA. AUSÊNCIA DE EXPRESSA INDICAÇÃO DE ARTIGO DE LEI VIOLADO. INCIDÊNCIA DA SÚMULA N. 284 DO STF. AGRAVO NÃO PROVIDO.
+1. Não há falar em omissão quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia. O julgador não está obrigado a rebater, um a um, os argumentos trazidos pelas partes, quando encontrar motivação satisfatória para dirimir o litígio sobre os pontos essenciais da controvérsia em exame.
+2. A mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional. Incidência da Súmula n. 284 do STF.
+3. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergente faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, a teor da Súmula n. 284 doSTF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+4. Agravo desprovido.
+(AREsp n. 2.801.613/GO, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Dessa forma, não há como conhecer do apelo nobre. Mantenho a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
