@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LINCK MÁQUINAS S.A. contra decisão, proferida às e-STJ fls. 395/400, em que não conheci do recurso especial.
+A parte embargante sustenta ocorrência de obscuridade quanto ao fato de que "o STF entende pela infraconstitucionalidade da matéria objeto de discussão do presente feito" (e-STJ fl. 405). Aduz a ausência de decisão vinculante sobre a matéria, inexistindo o óbice da Súmula 83 do STJ. Sustenta a existência de contradição, "pois a decisão consigna que o Tema 1231 STJ teria apreciado a superveniência da Lei nº 14.592/2023 e, em seguida, alega que o afastamento das disposições contidas na Lei nº 14.592/23 seria matéria de índole constitucional" (e-STJ fl. 408).
+Sem impugnação (certidão de e-STJ fl. 417).
+Passo a decidir.
+No caso, não se verifica os vícios de integração apontados.
+A decisão embargada está clara no sentido de que a Primeira Seção, ao julgar o Tema 1.231 do STJ, também enfrentou a questão aqui debatida, referente à superveniência da Lei n. 14.592/2023 (Medida Provisória n. 1.159/2023), que, em conformidade com a tese do Tema 69 do STF, promoveu modificações nas Leis n. 10.637/2002 e 10.833/2003, para incluir o inciso III ao § 2º do art. 3º, de modo a vedar, para fins de incidência da Contribuição para o PIS e para a COFINS, no regime não cumulativo, o direito a crédito do valor do ICMS que tenha incidido sobre a operação de aquisição. Esta Corte Superior decidiu pela inexistência do direito ao mencionado crédito ou débito após a superveniência de referido diploma legal.
+Cabe ressaltar que a decisão embargada não assentou ser constitucional o debate. Tão somente asseverou que "a pretensão de afastamento de conteúdo de lei federal, no caso, das disposições contidas na Lei n. 14.592/2023, é matéria de índole constitucional, a impedir o exame da tese em sede de recurso especial, sob pena de usurpação da competência do STF" (e-STJ fl. 400). Ou seja , afirmou que não poderia ser discutida no recurso especial eventual alegação de cunho eminentemente constitucional, tal como o afastamento de regra contida no mencionado diploma legal.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, possuindo (aquela) caráter meramente infringente e, por isso, sendo de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
