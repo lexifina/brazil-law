@@ -1,0 +1,93 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 29/04/2025 a 05/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito processual civil. Embargos de declaração no agravo interno nos embargos de declaração no recurso especial. Ausência de vícios no julgado. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quarta Turma do Superior Tribunal de Justiça que negou provimento ao agravo interno interposto pela embargante, mantendo a decisão que determinou a restituição das arras confirmatórias em contrato de compra e venda de imóvel, e afastou a aplicação retroativa da Lei n. 13.786/2018.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a decisão embargada apresenta omissão, contradição ou erro material quanto à qualificação das arras, à aplicação da Lei n. 13.786/2018 e à aplicação das Súmulas n. 7 e 83 do STJ.
+III. Razões de decidir
+3. A decisão embargada não apresenta omissão, contradição ou erro material, pois fundamentou adequadamente a qualificação das arras como confirmatórias, a não aplicação retroativa da Lei n. 13.786/2018 e a pertinência das Súmulas n. 7 e 83 do STJ.
+4. A pretensão da embargante de rediscutir o mérito da decisão embargada não se coaduna com a finalidade dos embargos de declaração, que visam apenas sanar vícios formais.
+5. A decisão embargada está em consonância com a jurisprudência consolidada do STJ, que não admite a retenção das arras confirmatórias e afasta a aplicação retroativa de normas legais.
+IV. Dispositivo e tese
+6. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A qualificação das arras como confirmatórias impõe sua restituição em caso de rescisão contratual por desistência do comprador. 2. A Lei n. 13.786/2018 não se aplica retroativamente a contratos firmados antes de sua vigência. 3. Os embargos de declaração não se prestam à rediscussão do mérito da decisão embargada."
+Dispositivos relevantes citados: CC, art. 417; CPC/2015, art. 1.022.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no REsp n. 1.820.411/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/3/2021; STJ, REsp n. 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por STECCA URBANISMO LTDA. contra o acórdão da Quarta Turma do Superior Tribunal de Justiça que negou provimento ao agravo interno por eles interposto, nos seguintes termos:
+CIVIL E PROCESSUAL CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ARRAS CONFIRMATÓRIAS. IMPOSSIBILIDADE DE RETENÇÃO NA RESCISÃO CONTRATUAL SEM CULPA DO COMPRADOR. IRRETROATIVIDADE DA LEI N. 13.786/2018. SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO DESPROVIDO. 1. Ausente cláusula expressa atribuindo às arras natureza penitencial, prevalece sua qualificação como arras confirmatórias, impondo sua restituição no caso de rescisão contratual por desistência do comprador. 2. A Lei n. 13.786/2018 não se aplica retroativamente a contratos firmados antes da sua vigência. 3. Correta aplicação das Súmulas 7 e 83 do STJ, vedando reexame fático-probatório e considerando o acórdão recorrido em consonância com a jurisprudência dominante desta Corte. 4. Agravo interno desprovido.
+A embargante alega, em síntese:
+a) omissão quanto ao enfrentamento das teses por ela deduzidas, inclusive sobre a aplicação da Lei n. 13.786/2018, natureza das arras como penitenciais, percentual da cláusula penal e sucumbência mínima da construtora;
+b) contradição na aplicação das Súmulas n. 7 e 83 do STJ, sustentando que não houve reexame de matéria fático-probatória;
+c) erro material na qualificação das arras como confirmatórias e na irretroatividade da Lei n. 13.786/2018;
+Requer, ao final, o acolhimento dos embargos com efeitos infringentes, visando à reforma do julgado.
+É o relatório.
+EMENTA
+Direito processual civil. Embargos de declaração no agravo interno nos embargos de declaração no recurso especial. Ausência de vícios no julgado. Embargos rejeitados.
+I. Caso em exame
+1. Embargos de declaração opostos contra acórdão da Quarta Turma do Superior Tribunal de Justiça que negou provimento ao agravo interno interposto pela embargante, mantendo a decisão que determinou a restituição das arras confirmatórias em contrato de compra e venda de imóvel, e afastou a aplicação retroativa da Lei n. 13.786/2018.
+II. Questão em discussão
+2. A questão em discussão consiste em saber se a decisão embargada apresenta omissão, contradição ou erro material quanto à qualificação das arras, à aplicação da Lei n. 13.786/2018 e à aplicação das Súmulas n. 7 e 83 do STJ.
+III. Razões de decidir
+3. A decisão embargada não apresenta omissão, contradição ou erro material, pois fundamentou adequadamente a qualificação das arras como confirmatórias, a não aplicação retroativa da Lei n. 13.786/2018 e a pertinência das Súmulas n. 7 e 83 do STJ.
+4. A pretensão da embargante de rediscutir o mérito da decisão embargada não se coaduna com a finalidade dos embargos de declaração, que visam apenas sanar vícios formais.
+5. A decisão embargada está em consonância com a jurisprudência consolidada do STJ, que não admite a retenção das arras confirmatórias e afasta a aplicação retroativa de normas legais.
+IV. Dispositivo e tese
+6. Embargos de declaração rejeitados.
+Tese de julgamento: "1. A qualificação das arras como confirmatórias impõe sua restituição em caso de rescisão contratual por desistência do comprador. 2. A Lei n. 13.786/2018 não se aplica retroativamente a contratos firmados antes de sua vigência. 3. Os embargos de declaração não se prestam à rediscussão do mérito da decisão embargada."
+Dispositivos relevantes citados: CC, art. 417; CPC/2015, art. 1.022.
+Jurisprudência relevante citada: STJ, AgInt nos EDcl no REsp n. 1.820.411/PR, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/3/2021; STJ, REsp n. 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019.
+VOTO
+Na forma do art. 1.022 do CPC, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existentes no julgado. Trata-se de instrumento destinado a preservar a integridade do julgado, sem que se permita, contudo, a rediscussão do mérito da causa ou a renovação dos fundamentos já enfrentados pelo órgão julgador.
+No presente caso contudo, após detida análise da decisão embargada, verifica-se que não se encontram configurados quaisquer dos vícios apontados pela embargante, razão pela qual não há reparos a serem feitos.
+No que concerne à controvérsia sobre a natureza das arras, a decisão embargada foi clara e precisa ao consignar que, diante da ausência de cláusula expressa no contrato atribuindo às arras caráter penitencial, prevalece a sua natureza confirmatória, nos termos do artigo 417 do Código Civil.
+Tal qualificação decorre da própria interpretação sistemática do contrato à luz da jurisprudência consolidada desta Corte, a qual determina que as arras confirmatórias, diferentemente das penitenciais, têm como escopo garantir a celebração do contrato e não configurar penalidade para a parte desistente.
+Por essa razão, diante da rescisão contratual por iniciativa do comprador, concluiu-se, acertadamente, pela obrigatoriedade de restituição integral das arras, inexistindo qualquer omissão ou contradição na fundamentação adotada.
+No mesmo sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RESCISÃO CONTRATUAL C/C PERDAS E DANOS. ARRAS CONFIRMATÓRIAS . GARANTIA DO NEGÓCIO. INÍCIO DE PAGAMENTO. RETENÇÃO. IMPOSSIBILIDADE . INCIDÊNCIA DA SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. 1 . Nos termos da jurisprudência desta Corte, não é possível a retenção das arras confirmatórias. Precedentes. 2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp n. 1820411/PR 2019/0170207-7, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 8/3/2021, DJe de 12/3/2021.)
+Da mesma forma, em relação à aplicação da Lei n. 13.786/2018, popularmente conhecida como Lei dos Distratos, a decisão embargada igualmente enfrentou de modo suficiente e fundamentado a tese da embargante, ao assentar que o referido diploma legal não se aplica retroativamente a contratos celebrados antes de sua entrada em vigor.
+A orientação adotada está em consonância com a pacífica jurisprudência desta Corte, que, em respeito ao princípio do tempus regit actum, afasta a incidência de normas posteriores a contratos pretéritos, preservando, assim, a segurança jurídica e a estabilidade das relações negociais.
+A Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019, DJe de 2/10/2019, fixou orientação no sentido de que as disposições da Lei n. 13.786/2018, relativas à devolução dos valores pagos e ao percentual de retenção aplicável nas hipóteses de rescisão imotivada do contrato pelo consumidor, não se aplicam aos contratos firmados antes de sua entrada em vigor. Trata-se de entendimento consolidado nesta Corte, em respeito ao princípio do tempus regit actum e à segurança jurídica, o que reforça a correção da decisão embargada ao afastar a retroatividade da norma.
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE QUANTIA PAGA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. EXTINÇÃO DO VÍNCULO CONTRATUAL. INICIATIVADO CONSUMIDOR. RETENÇÃO. POSSIBILIDADE. PERCENTUAL DE 25%. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. 1. Ação de rescisão contratual cumulada com restituição de quantia paga. 2 . A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema. 3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial. 4 . A Segunda Seção do STJ, por ocasião do julgamento do REsp 1.723.519/SP, consolidou o entendimento de que, na rescisão de contrato de compra e venda de imóvel por desistência do comprador, mesmo anteriormente à Lei 13.786/2018, deve prevalecer o percentual de 25% (vinte e cinco por cento) de retenção pelo fornecedor, tal como definido no julgamento dos EAg 1 .138.183/PE (DJe de 4.10.2012), por ser esse percentual adequado e suficiente para indenizar o construtor das despesas gerais e do rompimento unilateral do contrato . 5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. 6. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea c do art . 105, III, da Constituição da Republica. 7. Agravo interno no agravo em recurso especial não provido. (AgInt nos EDcl no AREsp n. 2078578/SP 2022/0054886-0, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 27/3/2023, DJe de 29/3/2023.)
+Não se verifica, portanto, qualquer omissão ou erro material na análise do tema, mas tão somente a insatisfação da parte embargante com a conclusão alcançada.
+No que tange à alegação de equívoco na aplicação das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, a decisão embargada demonstrou, com clareza, a pertinência da incidência de tais enunciados.
+Esclareceu-se que a pretensão da embargante demandaria o reexame do conjunto fático-probatório formado nas instâncias ordinárias, em especial quanto à alegada inépcia da inicial e à fixação de cláusula penal, o que esbarra no óbice da Súmula n. 7 do STJ.
+Do mesmo modo, destacou-se que o acórdão recorrido está plenamente alinhado à jurisprudência consolidada desta Corte, o que autoriza a incidência da Súmula n. 83. A decisão foi suficientemente motivada a esse respeito, inexistindo a contradição apontada.
+Dessarte, verifica-se que os argumentos trazidos pela embargante não revelam qualquer vício na decisão embargada. Ao revés, as alegações veiculadas apenas demonstram a pretensão de rediscutir o mérito da controvérsia já decidida, o que extrapola a finalidade dos embargos de declaração. Consoante entendimento sedimentado no âmbito desta Corte, os embargos não constituem meio próprio para redimensionar a solução jurídica dada à lide, mas tão somente para sanar vícios formais da decisão, hipótese que não se verifica na espécie.
+Não há, pois, incompatibilidade entre os fundamentos apresentados e a conclusão do acórdão, não havendo falar em contradição.
+Finalmente, o embargante alega erro material ao se vincular a revisão do valor das astreintes à análise de provas, desconsiderando que o critério da razoabilidade seria suficiente.
+No entanto, a decisão embargada, adequadamente, afirma que a razoabilidade e a proporcionalidade das astreintes devem ser avaliadas no contexto fático-probatório analisado pelas instâncias ordinárias, sendo inviável sua revisão na via do recurso especial.
+O que se percebe é que pretende o embargante qualificar como erro material o que, em verdade, é sua discordância com o entendimento adotado.
+Não se verifica, assim, omissão, contradição ou erro material, mas apenas inconformismo da parte com o resultado do julgamento.
+Assim, os embargos buscam, de forma indireta, reverter o mérito da decisão embargada, o que não é cabível em embargos de declaração, senda a via dos embargos de declaração inadequada para buscar a modificação do mérito.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. OMISSÃO NÃO EVIDENCIADA. PRETENSÃO DE REEXAME DO JULGADO. IMPOSSIBILIDADE. AUSÊNCIA DE VÍCIOS.
+ ..
+III - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+IV - Embargos de declaração rejeitados. (EDcl no AgRg no MS n. 20.269/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 13/9/2017, DJe de 21/9/2017.)
+Também é a pacífica jurisprudência do Supremo Tribunal Federal no sentido de que os aclaratórios não se prestam à rediscussão da matéria, conforme indicam os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM MANDADO DE SEGURANÇA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. EFEITOS MODIFICATIVOS. IMPOSSIBILIDADE.
+1. Omissão, contradição, obscuridade e erro material são as hipóteses exaustivas de cabimento de embargos de declaração, previstas no art. 1.022 do Código de Processo Civil.
+2. Supostas omissão e contradição fundadas na alegação de que o caso não foi apreciado em conformidade com precedente invocado pela parte embargante em petição incidental.
+3. Ausência de contradição entre os fundamentos do acórdão embargado ou entre eles e a conclusão do pronunciamento.
+4. Os embargos de declaração não são o meio processual adequado para a reforma da decisão.
+5. Embargos declaratórios rejeitados. (MS n. 34.727-AgR-ED/DF, relator Ministro Nunes Marques, Segunda Turma, julgado em 6/6/2022, DJe de 13/6/2022.)
+EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ACÓRDÃO N.º 2.780/2016 DO TRIBUNAL DE CONTAS DA UNIÃO (TCU). BENEFÍCIO DE PENSÃO POR MORTE CONCEDIDO COM FUNDAMENTO NA LEI N.º 3.373/1958. INEXISTÊNCIA DE CONTRADIÇÃO OU OMISSÃO. ART. 1.022 DO CPC. EMBARGOS REJEITADOS.
+1. Os embargos de declaração não se prestam à rediscussão do assentado no julgado, sendo cabíveis somente nos casos de obscuridade, contradição, omissão ou erro material da decisão impugnada.
+2. Embargos de declaração rejeitados. (MS n. 34.829-AgR-ED/DF, relator Ministro Edson Fachin, Segunda Turma, julgado em 31/5/2019, DJe de 10/6/2019.)
+Além disso, é cediço que o órgão julgador não está obrigado a rebater, pormenorizadamente, todos os argumentos apresentados pela parte, bastando que motive o julgado com as razões que considerou suficientes à formação de seu convencimento.
+Confira-se ainda este precedente da Suprema Corte:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. NÍTIDO CARÁTER INFRINGENTE. DESNECESSIDADE DE ENFRENTAR TODOS OS ARGUMENTOS DEDUZIDOS, MAS SOMENTE AQUELES CAPAZES DE INFIRMAR, CONCRETAMENTE, A CONCLUSÃO ADOTADA PELO JULGADOR. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão embargado não apresenta omissão, contradição, obscuridade ou erro material. O ofício judicante realizou-se de forma completa e satisfatória, não se mostrando necessários quaisquer reparos.
+2. A parte embargante pretende dar nítido caráter infringente aos declaratórios, os quais não estão vocacionados a essa função, salvo em situações excepcionais, não caracterizadas no caso.
+3. Não é dever do julgador rebater todos os argumentos apresentados pela parte, mas somente aqueles que, concretamente, sejam capazes de afastar a conclusão adotada na decisão embargada.
+4. Embargos de Declaração rejeitados. (RMS n. 36.297-AgR-ED/DF, relator Alexandre de Moraes, Primeira Turma, julgado em 28/6/2019, DJe de 5/8/2019.)
+Quanto à eventual pretensão da parte de valer-se dos embargos de declaração para alcançar o prequestionamento de matéria constitucional, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "é incabível a utilização de embargos declaratórios para fins de prequestionamento de matéria constitucional - com vistas à interposição de recurso extraordinário -, se não ocorrentes as hipóteses relacionadas no art. 1.022 do Código de Processo Civil" (EDcl no AgInt no AgInt no AREsp n. 1.736.994/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022).
+Por fim, registre-se que a decisão embargada enfrentou os fundamentos necessários à solução da controvérsia, inexistindo omissão, contradição ou erro material no julgado. Eventuais discordâncias da parte embargante com o resultado ou com a fundamentação apresentada não configuram omissão passível de correção por meio de embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração, mantendo integralmente a decisão embargada por seus próprios fundamentos.
+É o voto.
