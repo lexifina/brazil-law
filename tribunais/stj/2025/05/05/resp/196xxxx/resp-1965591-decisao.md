@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por ISMAEL DAVID DE REZENDE e OUTROS, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, no qual se insurgem contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO assim ementado (fls. 485/486):
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO. LEVANTAMENTO DE VALORES DEPOSITADOS EM JUÍZO A TÍTULO DE INDENIZAÇÃO. USUCAPIÃO RECONHECIDA EM OUTRA AÇÃO EM FAVOR DOS AGRAVADOS. IMPOSSIBILIDADE DO LEVANTAMENTO. AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+1. O fato de a usucapião alegada apenas como matéria de defesa não conferir título hábil para o registro da propriedade no cartório de registro de imóveis, igualmente não confere aos agravantes o direito de levantar os valores relativos à indenização do imóvel expropriado, uma vez que a sentença transitada em julgado proferida em ação demarcatória c/c reivindicatória reconhecendo a usucapião produz efeitos entre os agravantes e os agravados, os quais foram as partes litigantes daquela ação.
+2. Evidenciada a inexistência de direito ao levantamento da indenização devida pela expropriação de imóvel rural, não merece reforma a decisão que determinou a exclusão dos agravantes da demanda.
+3. Agravo de instrumento não provido.
+Os embargos de declaração opostos foram rejeitados (fls. 525/535).
+Em suas razões recursais, a parte recorrente alega violação aos arts. 489, § 1º, e 1.022 do Código de Processo Civil (CPC), apontando (1) contradição do acórdão recorrido, que declarou que "o fato de a usucapião alegada como matéria de defesa não conferir título hábil para o registro da propriedade  .. ", mas permitiu que os recorridos levantassem valores indenizatórios; e (2) omissão quanto ao fato de que não se trata de usucapião especial rural.
+Sustenta que houve ofensa aos arts. 1.238 e 1.241 do Código Civil, afirmando que a utilização da tese de prescrição aquisitiva como defesa "não dá ao usucapiente o direito a transcrição do imóvel para o seu nome, relatando ainda a imperiosa necessidade de se fazer o uso da ação de usucapião para o alcance da declaração hábil para o registro do cartório" (fl. 579).
+Conclui que, se não há o direito de transcrição do imóvel para o nome do requerente, também não haveria o direito de levantar os valores depositados judicialmente.
+Demonstra, ainda, divergência jurisprudencial.
+Ao final, requer que o recurso especial seja provido "para reformar o v. acórdão do TRF1, sob pena de violação aos artigos 489, § 1º, IV e VI, 1.022, do CPC e aos artigos 1.238 e 1.241 do C.C, bem como divergência jurisprudência" (fl. 589).
+A parte adversa apresentou contrarrazões (fls. 599/619).
+O recurso foi admitido (fls. 620/621).
+É o relatório.
+Na origem, trata-se de agravo de instrumento interposto pela parte ora recorrente da decisão em que foi determinada sua exclusão da demanda com este fundamento:
+" ..  o reconhecimento da usucapião alegada como matéria de defesa pelos possuidores da área expropriada, no caso, é suficiente para registro no competente cartório imobiliário, bem como para o recebimento do valor da indenização" (fl. 481).
+A parte recorrente opôs embargos de declaração na origem argumentando o seguinte:
+(1) "o v. acórdão foi contraditório ao entender que o "usucapião alegada apenas como matéria de defesa não conferi título hábil para o registro da propriedade de imóvel" e que, mesmo assim, os embargados possuem o direito de receber valores indenizatórios de tal terreno" (fl. 504);
+(2) "o presente caso não possui os requisitos necessários para ser considerado como usucapião especial rural" (fl. 508).
+Ao apreciar o recurso integrativo, o TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO decidiu nestes termos (fls. 527/528):
+Sobre os pontos indicados pelos embargantes, o acórdão embargado assim se pronunciou:
+10. Cumpre ressaltar que existe decisão judicial transitada em julgado em outra lide, na qual agravantes e agravados figuram no polo ativo e passivo, respectivamente. Naquele feito restou reconhecida a aquisição originária das terras por usucapião em favor dos agravados, não sendo possível, nesta relação processual, desconstituir a referida sentença.
+11. Assim, estão as partes envolvidas (agravantes e agravados) vinculadas a declaração da usucapião, o que impede que os agravantes, no cumprimento de sentença que tramita no Juízo a quo, oponham-se ao levantamento do saldo residual de 40,38% da oferta inicial pelos agravados, em favor de quem milita a aquisição originária das terras em questão.
+12. O fato de não ser possível o registro cartorário da referida decisão, vez que não foi proferida em ação de usucapião, em decorrência dos óbices previstos nos artigos 1.238 e 1.241 do Código Civil, não impede que a referida sentença produza seus efeitos no presente processo, posto que envolve as mesmas partes.
+(..)
+Acrescento tão somente que o fato de a usucapião alegada apenas como matéria de defesa não conferir título hábil para o registro da propriedade no cartório de registro de imóveis, igualmente não confere aos agravantes o direito de levantar os valores relativos à indenização do imóvel expropriado, pois, como bem destacado no parecer ministerial, a sentença transitada em julgado proferida na ação demarcatória c/c reivindicatória reconhecendo a usucapião produz efeitos entre os agravantes e os agravados Francisco Luís Correa Trevisan e outros, os quais foram as partes litigantes daquela ação.
+Em suma: não há contradição a ser sanada, uma vez que existe decisão judicial transitada em julgado, à qual os embargantes estão vinculados, em que não foi reconhecida em favor deles a propriedade do imóvel expropriando. Assim, contradição haveria se a eles fosse reconhecido o direito de levantar a indenização devida pela expropriação do mesmo.
+No que se refere especificamente à suposta omissão ora alegada, os embargados bem observaram que:
+A questão suscitada pelos embargantes foi abordada, sim, no v. acórdão embargado, não sob a ótica dos embargantes, mas sim no âmbito do necessário ao julgamento da lide, qual seja, a impossibilidade de se discutir, em fase de cumprimento de sentença, matéria objeto de decisão transitada em julgado.
+Assim, se os embargantes não concordam com o julgado, devem interpor o recurso próprio, e não opor embargos de declaração.
+Foi estabelecido no acórdão recorrido que (1) "não há contradição a ser sanada, uma vez que existe decisão judicial transitada em julgado, à qual os embargantes estão vinculados, em que não foi reconhecida em favor deles a propriedade do imóvel expropriando" e (2) não tinha havido omissão quanto aos requisitos do usucapião especial rural, que foram discutidos "no âmbito do necessário ao julgamento da lide".
+Inexiste a alegada violação dos arts. 489 e 1.022 do Código de Processo Civil, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, consoante se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de erro material, omissão, contradição ou obscuridade.
+É importante destacar que julgamento diverso do pretendido, como neste caso, não implica ofensa aos dispositivos de lei invocados.
+No acórdão recorrido foi estabelecido que havia decisão judicial transitada em julgado em que tinha sido reconhecida a aquisição originária das terras por usucapião em favor de JOSE ANTONIO CORREA TREVISAN, não sendo possível, na presente relação processual, desconstituir aquela decisão.
+Na peça recursal, todavia, a parte recorrente não se insurge contra aquele fundamento, limitando-se a afirmar, em síntese, que a utilização da tese de prescrição aquisitiva como defesa não dá ao usucapiente o direito à transcrição do imóvel para o seu nome.
+Incide no presente caso, por analogia, a Súmula 283 do Supremo Tribunal Federal, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, a ele nego provimento.
+Publique-se. Intimem-se.
+ EMENTA
