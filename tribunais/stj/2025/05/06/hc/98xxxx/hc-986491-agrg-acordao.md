@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2025 a 06/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Messod Azulay Neto e Carlos Cini Marchionatti (Desembargador Convocado TJRS) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Messod Azulay Neto.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCOMITANTE OPOSIÇÃO DE EMBARGOS INFRINGENTES NA ORIGEM E DE HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. JURISDIÇÃO DE ORIGEM NÃO EXAURIDA. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS MANTIDA. AGRAVO NÃO PROVIDO.
+1. O não exaurimento da jurisdição de origem inviabiliza a impetração de habeas corpus nesta Corte. No caso, a concomitante oposição de embargos infringentes no Tribunal a quo e de habeas corpus no Superior Tribunal de Justiça, ambos impugnando a dosimetria da pena, além de afrontar o princípio da unirrecorribilidade, pode causar verdadeiro tumulto processual, posto que o apenamento é passível de alteração na origem. Precedentes.
+2. Agravo regimental não provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por SILVIO RODRIGO MONTEIRO DA COSTA contra decisão que, liminarmente, não conheceu do habeas corpus (e-STJ fls. 364/367).
+Em suas razões (e-STJ fls. 375/378), a defesa sustenta que a mera existência de julgamento por maioria de votos não impõe, automaticamente, a interposição de embargos infringentes como condição de exaurimento da instância ordinária, sobretudo quando o acórdão do Tribunal de Justiça estadual já for definitivo, e o julgamento de mérito da apelação tiver se exaurido, como no presente caso (e-STJ fl. 376).
+No mais, repisa os argumentos constantes de sua petição inicial, no sentido de que o paciente faz jus ao redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006.
+Ao final, pede o provimento do recurso.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCOMITANTE OPOSIÇÃO DE EMBARGOS INFRINGENTES NA ORIGEM E DE HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. JURISDIÇÃO DE ORIGEM NÃO EXAURIDA. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS MANTIDA. AGRAVO NÃO PROVIDO.
+1. O não exaurimento da jurisdição de origem inviabiliza a impetração de habeas corpus nesta Corte. No caso, a concomitante oposição de embargos infringentes no Tribunal a quo e de habeas corpus no Superior Tribunal de Justiça, ambos impugnando a dosimetria da pena, além de afrontar o princípio da unirrecorribilidade, pode causar verdadeiro tumulto processual, posto que o apenamento é passível de alteração na origem. Precedentes.
+2. Agravo regimental não provido.
+VOTO
+O recurso não merece prosperar.
+Afinal, o agravante não traz argumentos capazes de infirmar os fundamentos constantes da decisão agravada, proferida em conformidade com a jurisprudência do Superior Tribunal de Justiça, nos termos seguintes (e-STJ fls. 364/367):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SILVIO RODRIGO MONTEIRO DA COSTA contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (Apelação n. 0001929-62.2020.8.17.0990).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 5 anos e 6 meses de reclusão e 1 ano e 6 meses de detenção, ambas em regime inicial semiaberto, além de 630 dias-multa, pela prática dos crimes previstos nos arts. 33 da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, em concurso material (e-STJ fls. 235/239).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi, por maioria de votos, parcialmente provido para reduzir as penas-base, reconhecer a atenuante da menoridade relativa e reduzir as penas de multa, razão pela qual as penas do paciente foram redimensionadas para 5 anos de reclusão, 1 ano de detenção e 510 dias-multa, mantidos os demais termos da condenação. Restou vencido o Relator, que dava parcial provimento ao recurso da defesa em maior extensão (e-STJ fls. 314/335). Segue a ementa do acórdão:
+APELAÇÃO CRIMINAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. RECURSO DA DEFESA. DELITO DE POSSE DE ARMA COMO "CRIME-MEIO" PARA O EXERCÍCIO DO TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE AUMENTO DE PENA DISPOSTA NO ART. 40, IV, DA LEI Nº 11.343/06. IMPOSSIBILIDADE. OCORRÊNCIA DO CONCURSO MATERIAL. DOSIMETRIA. PRIMEIRA FASE. AFASTAMENTO DA VALORAÇÃO NEGATIVA DA CULPABILIDADE. PENA-BASE DE AMBOS OS DELITOS REDIMENSIONADA PARA O PATAMAR MÍNIMO LEGAL. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO § 4º DO ART. 33. IMPOSSIBILIDADE. EVIDENCIADA A DEDICAÇÃO DO ACUSADO A ATIVIDADES CRIMINOSAS. PENA PRIVATIVA DE LIBERDADE E PECUNIÁRIA REDUZIDAS. APELO PARCIALMENTE PROVIDO. DECISÃO POR MAIORIA DE VOTOS.
+1. Absolvição do delito de posse irregular de arma de fogo de uso permitido e reconhecimento da causa de aumento de pena disposta no art. 40, IV, da Lei nº 11.343/06. Impossibilidade. No caso concreto, verificou-se que a droga e a arma não foram apreendidas nas mesmas circunstâncias de tempo e lugar, posto que, enquanto a droga estava em poder do apelante próximo ao Estádio Grito da República, no bairro de Rio Doce em Olinda/PE, a arma, as munições e a balança de precisão foram encontradas na sua residência, localizada na Rua Cento e Doze, 4ª Travessa, s/n, Jardim Maranguape, Paulista/PE.
+2. Deste modo, havendo a comprovação da materialidade e da autoria de ambos os delitos, correta a condenação do acusado nas penas dos delitos previstos no art. 33, caput, da Lei nº 11.343/06 e no art. 12 da Lei nº 10.826/03), em concurso material.
+3. Revisão da dosimetria. Primeira fase. Afastamento da culpabilidade, ante a utilização de fundamentação inidônea. Pena-base de ambos os delitos redimensionada para o patamar mínimo legal. Terceira fase. Reconhecimento do tráfico privilegiado. Impossibilidade. É inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando evidenciado, por meios das circunstâncias do caso, que o agente já se dedicava a atividades criminosas. Pena privativa de liberdade e pecuniária reduzidas.
+4. Recurso parcialmente provido. Decisão por maioria.
+No presente mandamus (e-STJ fls. 2/10), a impetrante sustenta que o paciente sofre constrangimento ilegal, pois o Tribunal a quo não aplicou a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, embora os requisitos legais para a incidência do benefício estivessem presentes. Aduz que a posse de arma de fogo ou a quantidade das drogas apreendidas não são fundamentos idôneos para a não aplicação do redutor.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 seja aplicado.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não vejo como dar seguimento ao presente writ.
+Afinal, trata-se de habeas corpus impetrado contra acórdão proferido por maioria de votos, em sede de apelação, contra o qual são cabíveis embargos infringentes voltados ao próprio Tribunal a quo, cuja interposição e respectivo julgamento não foram comprovados.
+Nesse contexto, resulta incabível o presente writ.
+Acerca do não cabimento de habeas corpus nas hipóteses em que não há o exaurimento da instância originária, segue a jurisprudência do Superior Tribunal de Justiça:
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PLEITO DE REVISÃO DA DOSIMETRIA. PREMATURIDADE. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO À ÉPOCA DA DECISÃO AGRAVADA. SUPERVENIÊNCIA DO JULGAMENTO DOS EMBARGOS. IRRELEVÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Configura-se prematura a pretendida revisão da dosimetria da pena, em habeas corpus, quando pendente de julgamento os embargos de declaração opostos pelo paciente, dada sua natureza integrativa, sendo irrelevante a sua apreciação após o julgamento da decisão do writ nesta Corte.
+2. Agravo regimental improvido (AgRg no HC n.º 355.581/PA. Relator Ministro NEFI CORDEIRO. DJe 30/6/2016).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO DE HABEAS CORPUS PARA DISCUTIR A DOSIMETRIA DA PENA. JULGAMENTO DA AÇÃO PENAL EM CURSO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No âmbito deste Superior Tribunal, para processar habeas corpus que objetiva a revisão da dosimetria da pena, é imprescindível haver causa decidida em única ou última instância por Tribunal de Justiça ou Tribunal Regional Federal.
+2. O writ foi distribuído antes do término do julgamento da ação penal pelo Tribunal de Justiça do Estado do Rio de Janeiro, quando ainda estavam pendentes de análise vários embargos de declaração com pedidos de efeitos infringentes. Para prestigiar o interesse da parte, esperou-se longo período pelo exaurimento da jurisdição ordinária, mas, constatado que a defesa reiterou novos recursos dirigidos ao órgão de segundo grau, o habeas corpus deixou de ser conhecido ante o seu manifesto descabimento.
+3. Agravo regimental não provido (AgRg no HC n.º 361.771/RJ. Rel. Ministro ROGÉRIO SCHIETTI CRUZ, Sexta Turma, DJe 13/12/2018).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância. Precedentes do STJ e do STF.
+- Agravo regimental desprovido (AgRg no HC n.º 332.057/BA, de minha relatoria, Quinta Turma, DJe 28/3/2016).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, liminarmente, não conheço do habeas corpus.
+Intimem-se.
+Com efeito, o não exaurimento da jurisdição de origem inviabiliza a impetração de habeas corpus nesta Corte.
+No caso, a concomitante oposição de embargos infringentes no Tribunal a quo e de habeas corpus no Superior Tribunal de Justiça, ambos impugnando a dosimetria da pena, além de afrontar o princípio da unirrecorribilidade, pode causar verdadeiro tumulto processual, posto que o apenamento é passível de alteração na origem.
+Em hipóteses análogas, decidiu esta Corte:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. JULGAMENTO DO AGRAVO EM EXECUÇÃO POR MAIORIA. EMBARGOS INFRINGENTES. CABIMENTO. AUSÊNCIA DE ESGOTAMENTO DA JURISDIÇÃO ORDINÁRIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No caso dos autos, extrai-se do aresto vergastado que o julgamento deu- se por maioria, o que desafiaria recurso de embargos infringentes, ficando o Superior Tribunal de Justiça impedido de analisar o mérito do writ, sob pena de indevida supressão de instância, porquanto não esgotada a jurisdição ordinária.
+2. Esta Corte já decidiu ser "inadequado e descabido o manejo de habeas corpus em substituição a embargos infringentes" (RHC n. 33.360/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 27/5/2014, DJe 9/6/2014).
+ ..
+4. Agravo regimental desprovido. (AgRg no HC n. 935.820/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/9/2024, DJe de 25/9/2024.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRINCÍPIO DA UNIRRECORRIBILIDADE. INTERPOSIÇÃO DE EMBARGOS INFRINGENTES E DE NULIDADE PERANTE A INSTÂNCIA ORDINÁRIA. PENDENTE DE APRECIAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A interposição concomitante de embargos infringentes e de nulidade perante a instância ordinária, ainda pendente de julgamento, e habeas corpus nesta Corte Superior de Justiça, impede a apreciação do mérito do mandamus, pois, além de violar o princípio da unirrecorribilidade, no caso de provimento do referido recurso pelo Tribunal local, o exame dos pleitos veiculados na ação constitucional estará prejudicado em razão da perda do objeto ou da existência de novo ato coator." (AgRg no HC n. 844.315/SC, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 5/12/2023, DJe de 12/12/2023).
+2. Agravo regimental desprovido. (AgRg no HC n. 886.300/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/5/2024, DJe de 23/5/2024.)
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PLEITO DE REVISÃO DA DOSIMETRIA. PREMATURIDADE. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO À ÉPOCA DA DECISÃO AGRAVADA. SUPERVENIÊNCIA DO JULGAMENTO DOS EMBARGOS. IRRELEVÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Configura-se prematura a pretendida revisão da dosimetria da pena, em habeas corpus, quando pendente de julgamento os embargos de declaração opostos pelo paciente, dada sua natureza integrativa, sendo irrelevante a sua apreciação após o julgamento da decisão do writ nesta Corte.
+2. Agravo regimental improvido. (AgRg no HC n.º 355.581/PA. Relator Ministro NEFI CORDEIRO. DJe 30/6/2016.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
