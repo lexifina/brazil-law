@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão: (a) da inexistência de ofensa ao art. 1.022 do CPC/2015; (b) de a simples e genérica referência aos dispositivos legais desacompanhada da necessária argumentação que sustente a alegada ofensa à lei federal não ser suficiente para o conhecimento do recurso especial; (c) da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 841):
+AÇÃO DE COBRANÇA Prejuízos oriundos de incêndio ocorrido no curso de transporte ferroviário de cargas Discussão sobre a origem do incêndio, bem como acerca do nexo causal entre o fogo e a atividade de distribuição de energia elétrica da concessionária ré Sentença que julgou improcedentes os pedidos, sem que fossem esclarecidas, pelo perito judicial, as divergências apontadas pelas autoras e pelos assistentes técnicos das partes Nulidade configurada Relevância dos questionamentos e divergências apontados, bem como complexidade da matéria fática que demandavam explicações do perito (CPC, art. 477, § 2º) Cerceamento de defesa caracterizado Precedentes do E. TJSP Sentença anulada RECURSO PROVIDO.
+Embargos de declaração rejeitados.
+Nas razões do recurso, a recorrente alega violação aos artigos 6º, 7º, 370, 371, 479, 489, §1º e 1.022, II do Código de Processo Civil.
+Argumenta que o acórdão foi omisso ao não analisar os fundamentos trazidos pela recorrente, mesmo após a oposição de embargos de declaração.
+Quanto às questões de fundo, sustenta que o acórdão ofendeu o princípio do livre convencimento motivado do juiz, que é o destinatário final das provas, bem como que a decisão de indeferimento do pedido de produção probatória não configuraria cerceamento de defesa.
+Ao final, requer o provimento do recurso especial para declarar a nulidade do acórdão e ordenar a devolução dos autos à origem para novo julgamento.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso, o Tribunal a quo manifestou-se quanto ao ponto controverso adotando as seguintes razões de decidir:
+Verifica-se que, no curso do processo, o D. Juízo a quo deferiu a produção de prova pericial requerida pela ré, "por ser ela imprescindível para a análise do nexo de causalidade entre a conduta da requerida e o evento danoso noticiado nos autos" (fl. 417).
+Em seguida, as partes indicaram assistentes técnicos e apresentaram quesitos, bem como documentos necessários ao trabalho do perito nomeado pelo juízo (fls. 430/434 e fls. 435/438).
+O laudo pericial foi coligido aos autos, ocasião em que o D. Juízo a quo concedeu prazo para que as partes se manifestassem (fls. 513/584 e fl. 595).
+Segue-se que as partes apresentaram impugnações ao laudo juntamente com o parecer de seus assistentes técnicos (fls. 601/609, fls. 643/657, fls. 658/666, fls. 667/671 e fls. 674/681).
+Nesse cenário, o D. Juízo a quo julgou improcedentes os pedidos formulados pelas autoras (fls. 735/737).
+Respeitado o entendimento do D. Juízo a quo, o feito não se encontrava em condições de julgamento.
+Com efeito, o deslinde da demanda exige a perquirição acerca da origem do incêndio, fato objeto da prova pericial produzida em juízo.
+Em que pese o laudo pericial tivesse concluído que o incêndio não teve sua origem no poste nº 85 da rede de distribuição, uma vez que o fogo "nos vagões do trem das Requerentes, teve início no dia 08/09/2015 entre 12:30 js e 12:40 hs, contudo conforme informações do sistema da Requerida, houve um evento de interrupção no religador 537129, que atende a rede de energia elétrica no trecho da fazenda Aguapeis, no dia 08/09/2015 das 13:30 hs às 16:36 hs, ou seja, após o início do incêndio no trem das Requerentes que trafegava no local", é certo que as requerentes apresentaram impugnações pertinentes ao referido laudo, as quais deixaram de ser esclarecidas, porquanto não concedida oportunidade para manifestação pelo perito judicial (fl. 541) (g. n.)
+Deveras, o art. 477, § 2º, do Código de Processo Civil estabelece que o perito deve, no prazo de 15 (quinze) dias, esclarecer ponto sobre o qual exista divergência ou dúvida das partes, juiz ou Ministério Público, e em relação ao parecer do assistente técnico da parte.
+Frise-se que, nesse contexto, não se mostrava necessária a formulação de requerimento expresso de explicações do perito, porquanto tal pleito exsurge das próprias impugnações e questionamentos ventilados pelas partes, bem como do parecer divergente dos assistentes técnicos e do pedido de designação de nova perícia.
+Todavia, no caso, as impugnações e indagações elaboradas pelas partes, bem como os pareceres dos assistentes técnicos posteriores à produção do laudo pericial, não foram objeto de análise e explicação pelo perito judicial.
+Assim, conclui-se pela ocorrência de cerceamento de defesa, porquanto a r. sentença foi prolatada sem que as autoras pudessem participar efetivamente da produção da prova pericial, a qual influi decisivamente no julgamento do feito.
+A valer, após a manifestação das partes sobre o laudo pericial e da apresentação do parecer dos assistentes técnicos, os autos deveriam ter sido remetidos ao perito judicial para apresentação de esclarecimentos.
+Ressalta-se que, no caso, o retorno dos autos ao perito não constitui diligência desnecessária, porquanto foram apresentadas questões relevantes acerca da ausência de sinais de queima na base do poste de nº 85, queda da cruzeta, improbabilidade da ocorrência de dois incêndios no mesmo local em horários próximos entre outros aspectos.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No mais, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o retorno dos autos ao perito não constitui diligência desnecessária, porquanto foram apresentadas questões relevantes para tanto.
+Assim, tem-se que revisar a conclusão a que chegou o Tribunal de origem sobre a matéria demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula n. 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
