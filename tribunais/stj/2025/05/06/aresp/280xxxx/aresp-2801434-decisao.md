@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos i nterposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ (fls. 663-665).
+O acórdão recorrido encontra-se assim ementado (fl. 382):
+AGRAVO INTERNO EM RECURSO DE APELAÇÃO. AÇÃO REVISIONAL. DECISÃO UNIPESSOAL QUE CONHECEU DO RECURSO DO BANCO RÉU E NEGOU-LHE PROVIMENTO. INSURGÊNCIA DA INSTITUIÇÃO FINANCEIRA.
+AVENTADA IMPOSSIBILIDADE DE JULGAMENTO MONOCRÁTICO. DECISÃO PAUTADA EM POSICIONAMENTO VINCULANTE DO STJ E JURISPRUDÊNCIA DOMINANTE DESTE SODALÍCIO. POSSIBILIDADE. ART. 932, IV E VIII, DO CPC E ART. 132, XV, DO REGIMENTO INTERNO DESTA CORTE. ADEMAIS, EVENTUAL OFENSA AO PRINCÍPIO DA COLEGIALIDADE QUE FICA SUPRIDA COM A APRECIAÇÃO, PELO COLEGIADO, DO PRESENTE RECURSO. TESE RECHAÇADA.
+" ..  é firme no STJ o entendimento de que a submissão da matéria ao crivo do colegiado por meio da interposição do recurso de agravo torna prejudicada qualquer alegativa de afronta aos supramencionados dispositivos legais. (AgInt no REsp n. 1380275/ES, rela.: Mina. Convocada Diva Malerbi. J. em: 9-6-2016).
+TAXA DE JUROS REMUNERATÓRIOS. TEMA DA ABUSIVIDADE. REVISÃO. REQUISITOS NECESSÁRIOS.
+O Superior Tribunal de Justiça já pacificou o entendimento: "2. De acordo com a orientação adotada no julgamento do R Esp. 1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+TRATA-SE DE HIPÓTESE CONCRETA EM QUE A APLICAÇÃO DE TAXA DE JUROS REMUNERATÓRIOS EXORBITANTE, ASSOCIADA ÀS CIRCUNSTÂNCIAS E CONDIÇÕES QUE PERMEARAM A FORMALIZAÇÃO DO CONTRATO BANCÁRIO, NOTADAMENTE QUANTO AO MONTANTE E PRAZO DO FINANCIAMENTO, ÀS FONTES DE RENDA DO CONTRATANTE, À ANÁLISE DO PERFIL DE RISCO DE CRÉDITO, À MODALIDADE DE PAGAMENTO DA TRANSAÇÃO, DENTRE OUTROS ELEMENTOS PREPONDERANTES, CONDUZ À INEQUÍVOCA CONSTATAÇÃO DE QUE O ATUAL ARRANJO CONTRATUAL SUBMETE O CONSUMIDOR A UMA DESVANTAGEM DESCOMEDIDA. TAL CIRCUNSTÂNCIA, AO CONFIGURAR ABUSO NOS ESTRITOS TERMOS DO ART. 51, § 1º, DO CÓDIGO DE DEFESA DO CONSUMIDOR (CDC), IMPÕE A NECESSIDADE DE REVISÃO DAS TAXAS DE JUROS ESTIPULADAS NO PRESENTE CASO. DECISÃO MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 479-483).
+Nas razões do recurso especial (fls. 495-529), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação:
+(i) do art. 421 do CC, pois (fl. 504):
+ ..  o D. Juízo a quo incontroversamente invalidou um ato jurídico perfeito, justificando suas razões de decidir unicamente no fato de as taxas dos juros remuneratórios fixadas em contrato destoarem daquelas estabelecidas pelo Banco Central para o período, bem como determinou a adequação da taxa de juros pautada na "taxa média de mercado", sem ao menos considerar as particularidades da contratação em discussão, tampouco sem realizar uma detida e necessária análise quanto aos altos riscos da contratação em discussão.
+(ii) dos arts. 355, I e II, e 356, I e II, do CPC/2015, porque (fls. 515-518):
+ ..  entende a Recorrente ser imprescindível a realização da prova pericial contábil para se concluir pela abusividade da taxa de juros remuneratórios definida em contrato e/ou substituição por outro percentual, principalmente considerando que na prática os julgadores estão, em sua maioria, limitando-se a seguir com a utilização da "taxa média de mercado" como ferramenta de aferição quanto a suposta abusividade da taxa de juros fixada e para definir o novo percentual a ser aplicado.
+ ..  ao julgar o feito antecipadamente, sem possibilitar a produção da prova pericial contábil expressamente requerida, o D. Juízo a quo violou o disposto no art. 355, incisos I e II e no art. 356, incisos I e II, ambos do CPC/2015, impossibilitando o exercício do contraditório e da ampla defesa e, por conseguinte, CERCEANDO O DIREITO DE DEFESA DA ORA RECORRENTE.
+No agravo (fls. 673-682), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 691-697).
+É o relatório.
+Decido.
+No que diz respeito à alegada necessidade de realização de perícia contábil, bem como afronta aos arts. 355 e 356 do CPC/2015, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide no caso a Súmula n. 211 do Superior Tribunal de Justiça.
+O Tribunal de origem concluiu pela vulnerabilidade do consumidor, sob o fundamento de que (fls. 380-381):
+ ..  no momento da celebração do contrato, verifica-se que o consumidor se encontrava em situação notória de fragilidade financeira, conforme reconhecido pela própria instituição financeira. Tal circunstância limitou significativamente seu poder de discernimento.
+A exploração dessa condição vulnerável por parte da instituição financeira enseja o reconhecimento de um consentimento viciado, uma vez que o tomador se propõe a remunerar excessivamente pela concessão do empréstimo, diante de sua condição de vulnerabilidade creditícia.
+ ..  A análise minuciosa do contrato re vela, ainda, que em um período contratual relativamente breve (09 parcelas), apenas 1/3 das parcelas são direcionadas à amortização do capital, ao passo que 2/3 são exclusivamente destinados ao pagamento de juros remuneratórios.
+Essa prática denota flagrante desproporcionalidade, que viola o equilíbrio contratual, resultando em enriquecimento sem causa por parte da instituição financeira. A conjugação dessa discrepância com a aplicação de uma taxa de juros elevada reforça a conclusão de que o contrato em questão, em sua configuração atual, submete o consumidor a uma desvantagem exacerbada, configurando abuso nos termos do art. 51, § 1º, do CDC.
+Contudo, no recurso especial, apontando contrariedade ao art. 421 do CC, a parte sustenta somente que devem ser analisadas as particularidades da contratação e seus altos riscos.
+Verifica-se que não houve impugnação de todos fundamentos do acórdão recorrido, especialmente de que há consentimento viciado do consumidor e enriquecimento sem causa pela recorrente. Incide, portanto, a Súmula n. 283 do STF no caso em apreço.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+EMENTA
