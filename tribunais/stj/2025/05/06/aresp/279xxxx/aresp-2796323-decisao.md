@@ -1,0 +1,45 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por OLÍVIO GLAUBER DE MAMAN SGUAREZI contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 1.354- e-STJ):
+AÇÃO RESCISÓRIA - PRETENDIDA DESCONSTITUIÇÃO DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO RECURSO DE APELAÇÃO INTERPOSTO CONTRA A SENTENÇA PROFERIDA NOS AUTOS DA AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C OBRIGAÇÃO DE FAZER C/C INEXIGIBILIDADE DE DÉBITOS E INDENIZAÇÃO POR DANOS MORAIS - IMPROCEDÊNCIA DOS PEDIDOS MANTIDA - FUNDAMENTO NO INCISO VIII DO ARTIGO 966 DO CPC/15 - ERRO DE FATO INEXISTENTE - IMPROCEDÊNCIA.
+Admite-se a ação rescisória como instrumento processual excepcional, desde que presente uma das hipóteses previstas no artigo 966 do CPC/15. Se no caso dos autos o que se está a rechaçar é justamente o resultado do julgamento por manifesta discordância com a interpretação dada ao conjunto fático probatório dos autos, vê-se que a pretensão da parte autora abriga mera irresignação de mérito, a qual não desafia ação rescisória.-
+Em suas razões de recurso especial (fls. 1.404-1.415 e-STJ), a parte recorrente aponta violação aos artigos 4º da Lei n. 10.260/2001; 6º, § 1º, do Decreto n. 4.657/1942 (LINDB); e 966, VIII, do Código de Processo Civil, além de dissídio jurisprudencial, sustentando, em suma, o cabimento da ação rescisória quando houver erro de fato verificável do exame dos autos, afirmando que houve violação ao ato jurídico perfeito, em razão da cobrança ilegal de valores excedentes da trava sistêmica em desfavor do aluno, ora recorrente.
+Contrarrazões às fls. 1.426-1.439 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 1.440-1.446 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da aplicação do óbice da Súmula 7/STJ.
+Daí o agravo (fls. 1.449-1.457 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminutas às fls. 1.464-1.474 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. De início, no tocante à apontada afronta ao art. 6º da LINDB, a matéria revolve-se de natureza eminentemente constitucional, ainda que reproduzida em legislação infraconstitucional, sendo inviável seu conhecimento em sede de recurso especial.
+Neste sentido: AgInt nos EDcl no AREsp n. 2.469.995/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/8/2024, DJe de 14/8/2024; e AgInt no AREsp n. 1.741.300/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023.
+2. No mais, cinge-se a pretensão recursal ao cabimento da ação rescisória no caso em tela.
+No caso em tela, o Tribunal de origem julgou improcedente a ação rescisória, sob a seguinte fundamentação (fls. 1.385-1.393 e-STJ):
+Na hipótese dos autos, verifica-se que ao contrário do que alega do autor, o caso dos autos não compreende a hipótese do inciso VIII do artigo 966 do CPC/15.
+Isso porque, extrai-se dos autos que o autor ajuizou a Ação Declaratória de Inexistência de Débito c/c Obrigação de Fazer e Indenização por Danos Morais com Pedido de Tutela de Urgência para discutir a cobrança de valores relativos à diferença da semestralidade não coberta pelo financiamento estudantil FIES em razão da trava sistêmica implementada pelo FNDE, requerendo em caráter liminar que a IES fosse compelida a emitir os boletos referente apenas ao percentual de 3,11% da mensalidade por ser beneficiário do FIES no percentual de 96,89%(ID 171153182).
+Ao apreciar o feito, o juízo condutor julgou improcedente a pretensão autoral por entender que a cobrança realizada pela IES era legítima em razão da trava sistêmica implementada pelo FNDE por meio da Portaria Normativa nº 04/2017, conforme trecho abaixo transcrito (ID 171153176). (..).
+Inconformado o autor interpôs recurso de apelação, ao qual foi negado provimento ao fundamento de que sendo o aluno beneficiário do FIES no percentual de 96,89% havendo saldo remanescente não coberto pelo financiamento estudantil a quitação da diferença deve ser suportada pelo acadêmico, conforme voto abaixo transcrito (ID 171153177). (..).
+Assim, verifica-se que o caso dos autos não compreende a hipótese do inciso VIII do artigo 966 do CPC/15, pois ao contrário do que tenta fazer crer o autor, constou no acórdão expressamente que eventual saldo remanescente não coberto pelo FIES deve ser quitado pelo aluno, não estando a cobrança adstrita apenas ao percentual de 3,11%. (..).
+Por todo o exposto, considerando que no caso dos autos o que se está rechaçando é justamente o resultado do julgamento, por manifesta discordância com a interpretação dada ao conjunto fático probatório dos autos, vê-se que a pretensão da parte autora abriga mera irresignação de mérito, a qual não desafia ação rescisória. (..).
+Desta forma, descabida a pretensão autoral de rescindir a sentença, pois inexistente qualquer das hipóteses insculpidas no artigo 966 do CPC/15.
+Vê-se, portanto, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame da existência de erro de fato verificável do exame dos autos, demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ERRO DE FATO E VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. PRETENSÃO DE REDISCUSSÃO DA TEMÁTICA DECIDIDA NO ACÓRDÃO RESCINDENDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. O erro de fato que confere lastro à rescisão de um julgado pressupõe que a sentença rescindenda admita um fato inexistente ou considere inexistente um fato efetivamente ocorrido, essencial ao deslinde da causa, sendo indispensável, em qualquer dos casos, que não tenha havido controvérsia, nem pronunciamento judicial a esse respeito.
+3. A viabilidade da ação rescisória por ofensa de literal disposição de lei pressupõe violação frontal e direta da literalidade da norma jurídica, de forma que seja possível extrair, a partir de uma interpretação aberrante, ofensa legal do próprio conteúdo do julgado que se pretende rescindir.
+4. A instituição financeira busca a revisão das conclusões do acórdão recorrido mediante a reapreciação das provas ou da correção da interpretação dessas provas pelo acórdão rescindendo, o que é inadmissível nesta instância extraordinária, sob pena de se incorrer no óbice da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1376564/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. OFENSA AO ART. 485, V, IX, § 1º, DO CPC/73 NÃO CONFIGURADA. INEXISTÊNCIA DE VIOLAÇÃO DIRETA E LITERAL A DISPOSITIVOS LEGAIS NO V. ACÓRDÃO RESCINDENDO. ERRO DE FATO. PRETENSÃO DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Consoante entendimento desta eg. Corte, a uníssona jurisprudência desta eg. Corte firmou-se no sentido de que a ação rescisória, pela hipótese prevista no art. 485, V, do CPC/73, exige que se demonstre a violação frontal e literal à lei federal, a qual se infere pela leitura da própria decisão rescindenda, e não quando a decisão rescindenda der uma das possíveis interpretações a determinado dispositivo legal.
+3. No caso em apreço, as diversas teses trazidas no apelo nobre, com o fito de demonstrar a violação literal aos dispositivos de lei federal indicados na ação rescisória, demandariam revolvimento de matéria fático-probatória, o que não configura violação literal a lei. A pretensão de examinar essas teses, na estrita via do recurso especial, é inviável ante o óbice da Súmula 7/STJ.
+4. O intento de discutir ofensa ao art. 485, IX, § 1º, do CPC/73, quanto à ocorrência de erro de fato, tal como posto no apelo nobre, esbarra, mais uma vez, na Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no REsp 1565846/PE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 03/04/2018, DJe 06/04/2018)  grifou-se
+3. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para negar provimento ao recurso especial.
+Por conseguinte, nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já fixado na origem, observado, se for o caso, o disposto no art. 98, § 3º, do CPC.
+Publique-se.
+Intimem-se.
+EMENTA
