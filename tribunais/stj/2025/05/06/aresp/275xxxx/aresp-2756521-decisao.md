@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por CNH INDUSTRIAL BRASIL LTDA em face de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: AGRAVO INTERNO - AUSÊNCIA DE FUNDAMENTOS QUE CONDUZAM À MODIFICAÇÃO DA DECISÃO RECORRIDA - MANUTENÇÃO DO PRONUNCIAMENTO JUDICIAL - REGIMENTAL MANIFESTAMENTE IMPROCEDENTE - APLICAÇÃO DE MULTA - INTELIGÊNCIA DO DISPOSTO NO §4º, DO ART. 1.021, DO CPC.
+- A apresentação de Aclaratórios com propósito abusivo e protelatório dá ensejo à aplicação da sanção prevista no § 2º, do art. 1.026, do CPC.
+- Conforme dispõe o §4º, do art. 1.021, do CPC, é devida a aplicação de multa quando o Agravo Interno se revela manifestamente improcedente.
+- Nos termos do Enunciado nº 03, da Escola Nacional de Aperfeiçoamento da Magistratura (Enfam), "é desnecessário ouvir as partes quando a manifestação não puder influenciar na solução da causa"." (e-STJ fls. 434 )
+Os embargos de declaração foram rejeitados, com imposição de multa (e-STJ fls. 462/484)
+Nas razões do recurso especial, a recorrente alega violação aos artigos 141; 492; 489, II, §1º, III, IV, 926; e art. 1.022, I e II, CPC, bem como dissídio jurisprudencial, sustentando, em síntese que: 1) o acórdão recorrido incorreu em vício de julgamento extra petita, pois reconheceu a impossibilidade de substituição do depósito judicial por seguro garantia, sem que tenha constado tal pedido na petição recursal; 2) o acórdão recorrido foi omisso sobre a ocorrência de julgamento extra petita e quanto ao entendimento do STJ em relação à equiparação entre depósito judicial e o seguro garantia.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia, como se verá adiante.
+No que se refere à tese de julgamento extra petita a Corte de origem assim decidiu:
+"Aliás, em sentido oposto ao alegado pela Executada, não há que se falar em julgamento "extra petita", uma vez que a caução prestada por ela foi expressamente impugnada pelo Exequente em sua Minuta recursal:
+"Cumpre destacar que a caução prestada nos autos não garante o cumprimento da obrigação principal objeto do litígio.
+O seguro-garantia apresentado pela Agravada tem por finalidade apenas ressarcir eventuais danos causados em razão da tutela de urgência.
+Ou seja, na hipótese de improcedência dos pedidos formulados pela Agravada na ação principal, a Agravante não poderá acionar o seguro-garantia para receber o valor que lhe é devido.
+Nesse contexto, a Agravante terá sido obrigada a aguardar por diversos anos a tramitação da ação principal, para então retomar a cobrança dos seus créditos." (cód. 01 - sequencial /001)," (e-STJ fls. 470)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE ATO JURÍDICO. PROCEDÊNCIA PARA DECRETAR A NULIDADE DO NEGÓCIO JURÍDICO ENTABULADO ENTRE AS PARTES E DETERMINAR O RETORNO AO STATUS QUO. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AUSÊNCIA DE OMISSÃO. CONCLUSÃO DO JULGADO COM BASE NOS FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. JULGAMENTO EXTRA PETITA. VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA. NÃO OCORRÊNCIA.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+2. Não há violação do art. 535 do CPC/1973 quando o Tribunal de origem aprecia a controvérsia de forma completa e devidamente fundamentada, não incorrendo em omissão, contradição ou obscuridade.
+3. A modificação do entendimento firmado acerca da boa-fé do adquirente demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+4. "Nos termos da jurisprudência pacífica do Superior Tribunal de Justiça, não há violação aos limites objetivos da causa - julgamento extra petita - quando o Tribunal, adstrito às circunstâncias fáticas e aos pedidos das partes, procede à subsunção normativa dos fatos, ainda que adotando fundamentos jurídicos diversos dos esposados pelas partes. Aplicação dos princípios mihi factum dabo tibi ius e jura novit curia, segundo os quais, dados os fatos da causa, cabe ao juiz dizer o direito" (AgInt no AREsp n. 1.455.925/GO, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 18/6/2019, DJe de 28/6/2019.)
+5. Recurso especial não conhecido.
+(REsp n. 1.677.672/SC, relator Ministro Raul Araújo, Quarta Turma, julgado em 7/4/2025, DJEN de 11/4/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 e 1.022 DO CPC. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA N. 284 DO STF. JULGAMENTO EXTRA PETITA. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. SÚMULA N. 7 DO STJ. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS PELO DESPROVIMENTO DO AGRAVO INTERNO. MESMO GRAU DE JURISDIÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Inexiste ofensa aos arts. 489 e 1.022 do CPC quando a corte de origem examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+2. Obsta o conhecimento do recurso especial a deficiência de fundamentação que impeça a aferição dos motivos em que se fundou a irresignação, inviabilizando a compreensão da controvérsia.
+Incidência da Súmula n. 284 do STF.
+3. Inexiste julgamento extra petita quando a decisão não está fora dos limites delineados na petição inicial, mas aplica o direito à espécie com a fixação das consequências jurídicas decorrentes dos fatos narrados pelas partes.
+4. Aplica-se a Súmula n. 7 do STJ ao caso em que o acolhimento da tese defendida no recurso especial implicar, necessariamente, o reexame dos elementos fático-probatórios dos autos.
+5. A multa prevista no art. 1.021, § 4º, do CPC não decorre do mero desprovimento do agravo interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou da improcedência do recurso para autorizar sua imposição.
+6. A interposição de agravo interno não inaugura instância, razão pela qual é indevida a majoração de honorários advocatícios do art. 85, § 11, do CPC.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 2.288.341/MG, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 11/3/2025, DJEN de 4/4/2025.)
+Já quanto à alegação de omissão da Corte de origem sobre à equiparação entre depósito judicial e seguro garantia e o entendimento do STJ em relação ao tema, constou no acórdão:
+"No caso, tal como foi consignado no julgamento dos Declaratórios, no julgamento do sequencial /001, as teses trazidas ao exame deste Eg. Tribunal foram amplamente enfrentadas, havendo a Turma concluído pela impossibilidade de substituição do depósito, em dinheiro, por Seguro-Garantia, tal como pretendido pela ora Agravante.
+A propósito, vejamos trecho elucidativo do pronunciamento objurgado:
+"A Decisão embargada foi clara ao concluir pela impossibilidade de substituição da garantia:
+"  Com efeito, não obstante o §2º, do art. 835, do Código de Processo Civil, equipare a referida modalidade de garantia ao dinheiro, em recente precedente de minha Relatoria, no qual foi enfrentada semelhante questão, à unanimidade, esta Eg. 17ª Câmara Julgadora decidiu que tal circunstância não permite a modificação pretendida pelo Recorrido:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE REVISÃO CONTRATUAL - CUMPRIMENTO DE SENTENÇA - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - IMPUGNAÇÃO AOS CÁLCULOS HOMOLOGADOS PELO JUÍZO A QUO - AUSÊNCIA DE DEMONSTRAÇÃO NO ERRO NA SOMA - SUBSTITUIÇÃO DE PENHORA POR SEGURO- GARANTIA - IMPOSSIBILIDADE - MANUTENÇÃO DA DECISÃO DE PRIMEIRA INSTÂNCIA.
+- "Não demonstrada a existência, nos cálculos elaborados por perito para liquidação de sentença, de erro ou inadequação ao comando sentencial, capazes de fulminar a sua presunção de legitimidade e correção, não há óbice à homologação de tais cálculos" (TJMG - AI: 10525110102965001).
+- "A substituição da garantia em dinheiro por outro bem (..) somente deve ser admitida em hipóteses excepcionais e desde que não ocasione prejuízo ao exequente, sem que isso enseje afronta ao princípio da menor onerosidade da execução para o devedor" (STJ - AgRg no AREsp: 841658/SC)." (TJMG - AI: 1.0701.07.204971-4/005, 17ª Câmara Cível, Data de Publicação: em 03/07/2020 - Destacamos).
+O aludido posicionamento encontra respaldo na jurisprudência do Col. Superior Tribunal de Justiça, que é firme na direção de que, mudado o que deve ser mudado, "uma vez realizada a penhora em dinheiro, não cabe a sua substituição por seguro garantia ou fiança bancária tendo em vista, especialmente, o princípio da satisfação do credor" (AgRg no REsp 1.391.082/SE, Rel. Ministro Sidnei Beneti, T3 - Terceira Turma, Data de Publicação: 08/10/2013 - Destacamos).
+Frise-se que, em que pese não ter sido realizada a constrição em espécie no presente caso, houve pedido expresso para que - caso o MM. Juízo entendesse pela necessidade de caução para deferimento da liminar - fosse determinado o depósito em dinheiro, podendo ser aplicada a decisão do Col. Superior Tribunal de Justiça por analogia.  " (fls. 6 e 7 da Decisão Embargada).
+Portanto, não se verifica a contradição alegada pela Embargante."" (cód. 04, dos Embargos de Declaração nº 1.0000.23.091436-8/002)." (e-STJ fls. 436/437)
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Logo, não há que se falar em omissão sobre os temas apontados pelo recorrente.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
