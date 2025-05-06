@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto por ISABEL PEREIRA contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO INTERNO EM APELAÇÃO CÍVEL (ART. 1.021 DO CPC/2015). PROCESSUAL CIVIL.
+PRESSUPOSTOS DE ADMISSIBILIDADE. PREPARO. AUSÊNCIA. DETERMINAÇÃO PARA SUPRIMENTO DA FALTA COM O RECOLHIMENTO EM DOBRO. ART. 1.007, § 4º, CPC.
+INÉRCIA DA PARTE. DESERÇÃO.
+1. O PREPARO DEVE SER COMPROVADO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO, NOS TERMOS DO ARTIGO 1.007 DO CPC, SALVO SE O RECORRENTE LITIGAR SOB O AMPARO DA GRATUIDADE JUDICIÁRIA OU REQUERER SUA CONCESSÃO NO PRÓPRIO RECURSO.
+2. SITUAÇÃO DOS AUTOS EM QUE A PARTE RECORRENTE, EMBORA REGULARMENTE INTIMADA PARA SUPRIR A FALTA (RECOLHIMENTO, EM DOBRO, DO PREPARO), NOS TERMOS DO ART. 1.007, § 4º, CPC, DEIXOU DE ATENDER AO COMANDO DA NORMA, LIMITANDO-SE A POSTULAR O BENEFÍCIO DA GRATUIDADE JUDICIÁRIA.
+3. EMBORA O BENEFÍCIO DA GRATUIDADE JUDICIÁRIA POSSA SER POSTULADO A QUALQUER TEMPO, EVENTUAL CONCESSÃO OPERARIA EFEITOS EX NUNC, NÃO EXIMINDO A PARTE DO RECOLHIMENTO DO PREPARO RECURSAL. PRECEDENTES DO STJ E DESTA CORTE.
+4. INADMISSIBILIDADE DO RECURSO DE APELAÇÃO PELA DESERÇÃO. PRECEDENTES JURISPRUDENCIAIS DO STJ E DO TJRS.
+AGRAVO INTERNO DESPROVIDO." (e-STJ, fl. 312)
+Nas razões do recurso especial, a agravante alega violação dos arts. 101, §2º e 489, §1º, IV, do CPC/15, sustentando, em síntese, além de ausência de fundamentação, que somente é "exigível o preparo somente após a confirmação da denegação do benefício da gratuidade de justiça." (e-STJ, fl. 329)
+É o relatório. Decido.
+De início, a Corte de origem dirimiu, fundamentadamente, as matérias que lhe foram submetidas, motivo pelo qual o acórdão recorrido não padece de omissão, contradição ou obscuridade.
+Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação. Não se pode olvidar, a despeito dos argumentos expendidos pela parte recorrente, que o acórdão estadual foi devidamente fundamentado. Veja-se:
+"Quanto ao objeto, tenho que os argumentos apresentados pela ora agravante não alteram a convicção firmada quando da decisão monocrática, razão por que peço vênia para transcrever os seguintes trechos que dizem respeito as irresignações levantadas no agravo:
+" ..  Ao exame das circunstâncias dos autos, tenho que não é caso de conhecimento do recurso, em face da sua deserção.
+In casu, a parte apelante interpôs o recurso sem a comprovação do recolhimento do preparo.
+Em cumprimento ao disposto no art. 1.007, § 4º, do CPC 1 , fora ordenado a intimação da parte recorrente para o recolhimento, em dobro, do preparo, sob pena de deserção.
+Entrementes, a par de regularmente intimada para suprir a de ciência recursal, a parte recorrente deixou de atender ao ordenado, limitando-se a postular o benefício da gratuidade judiciária e, subsidiariamente, a concessão de novo prazo para o recolhimento na hipótese de indeferimento do pedido.
+Embora o benefício da gratuidade judiciária possa ser postulado a qualquer tempo, nos termos do artigo 99 do CPC/2015, sua concessão opera sempre efeitos ex nunc, não retroagindo, portanto, para alcançar encargos processuais anteriores, motivo pelo qual eventual deferimento do benefício, requerido apenas após a intimação para o recolhimento em dobro, não tornaria inexigível o preparo recursal.
+(..)"
+Com efeito, embora possa ser deduzido a qualquer tempo, o benefício da gratuidade, caso deferido, opera efeitos ex nunc, sem retroagindo para alcançar encargos processuais anteriores. Assim, no caso concreto, inexistindo nas razões recursais pedido de concessão da gratuidade da justiça, o que somente foi realizado após a intimação para o recolhimento em dobro do preparo, resta configurada a deserção, conforme pacífico entendimento jurisprudencial.
+Nada obstante o desprovimento do recurso, não é caso de aplicar a multa prevista no § 4º do art. 1.021 do CPC, uma vez que a parte recorrente exerceu legitimamente seu direito recursal, apresentando argumentos fáticos e jurídicos para infirmar a decisão monocrática recorrida, não se podendo reputar como manifestamente inadmissível ou improcedente." (e-STJ, fls. 309/311)
+Como visto, o eg. Tribunal de origem analisou expressamente as razões do agravo interno, de modo que não há falar em ausência de fundamentação no julgado, mas sim inconformismo da parte recorrente com a conclusão adotada no acórdão recorrido, o que não consiste em ofensa ao art. 489 do CPC. Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.05.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 02.05.2005. Acrescente-se que, conforme a jurisprudência do Superior Tribunal, o magistrado não está obrigado a se pronunciar sobre todos os pontos abordados pelas partes, mormente quando já tiver decidido a controvérsia sob outros fundamentos ( EDcl no RE sp 202.056/SP, 3ª Turma, Rel. Min. CASTRO FILHO, DJ de 21.10.2001).
+Avançando, o Tribunal de origem, manteve a deserção do recurso de apelação com base no seguinte fundamentos, in verbis:
+"Quanto ao objeto, tenho que os argumentos apresentados pela ora agravante não alteram a convicção firmada quando da decisão monocrática, razão por que peço vênia para transcrever os seguintes trechos que dizem respeito as irresignações levantadas no agravo:
+" ..  Ao exame das circunstâncias dos autos, tenho que não é caso de conhecimento do recurso, em face da sua deserção.
+In casu, a parte apelante interpôs o recurso sem a comprovação do recolhimento do preparo.
+Em cumprimento ao disposto no art. 1.007, § 4º, do CPC 1 , fora ordenado a intimação da parte recorrente para o recolhimento, em dobro, do preparo, sob pena de deserção.
+Entrementes, a par de regularmente intimada para suprir a deficiência recursal, a parte recorrente deixou de atender ao ordenado, limitando-se a postular o benefício da gratuidade judiciária e, subsidiariamente, a concessão de novo prazo para o recolhimento na hipótese de indeferimento do pedido.
+Embora o benefício da gratuidade judiciária possa ser postulado a qualquer tempo, nos termos do artigo 99 do CPC/2015, sua concessão opera sempre efeitos ex nunc, não retroagindo, portanto, para alcançar encargos processuais anteriores, motivo pelo qual eventual deferimento do benefício, requerido apenas após a intimação para o recolhimento em dobro, não tornaria inexigível o preparo recursal.
+(..)"
+Com efeito, embora possa ser deduzido a qualquer tempo, o benefício da gratuidade, caso deferido, opera efeitos ex nunc, sem retroagindo para alcançar encargos processuais anteriores. Assim, no caso concreto, inexistindo nas razões recursais pedido de concessão da gratuidade da justiça, o que somente foi realizado após a intimação para o recolhimento em dobro do preparo, resta configurada a deserção, conforme pacífico entendimento jurisprudencial." (e-STJ, fls. 309/311, g.n)
+Ocorre que a parte recorrente - nas razões do recurso especial - não rebateu de forma específica e suficiente referida fundamentação, o que atrai, na hipótese, a incidência, por analogia das Súmulas nº 283 e 284 do Supremo Tribunal Federal. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E
+PROCESSUAL CIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, o enunciado das Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3.A divergência jurisprudencial, nos ermos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, , julgado em 21/10/2014, DJe 29/10/2014)
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se
+EMENTA
