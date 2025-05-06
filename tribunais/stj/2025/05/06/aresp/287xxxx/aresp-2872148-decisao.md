@@ -1,0 +1,8 @@
+DECISÃO
+A Primeira Seção, em julgamento na sessão virtual encerrada em 25/03/2025, afetou os Recursos Especiais 2179067/SP, 2179065/SP e 2170834/SP, ao rito dos recursos repetitivos, delimitando a seguinte questão controvertida (Tema 1335): "Definir se as variações patrimoniais decorrentes de diferença de correção monetária sobre aplicações financeiras (recomposição inflacionária) integram as bases de cálculo da contribuição para o PIS e da COFINS."
+Houve determinação de suspensão todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça.
+Encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo sobrestados no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado a esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se
+EMENTA
