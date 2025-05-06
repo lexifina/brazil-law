@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ MATEUS DE OLIVEIRA BARRETO E JOSE MOTA BARRETO NETO contra decisão exarada pela il. Vice-Presidência do eg. Tribunal de Justiça do Estado de Sergipe (TJ-SE), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 550):
+"APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE C/C PEDIDO DE DANOS MORAIS. PRELIMINARES DE ILEGITIMIDADE PASSIVA E DE PREJUDICIALIDADE EXTERNA EM DECORRÊNCIA DE AÇÃO PENAL REJEITADAS. MÉRITO. AUTOR QUE DEVE SER REINTEGRADO NA POSSE DE JET SKI ADQUIRIDO DE BOA-FÉ. DANOS MORAIS CONFIGURADOS. QUANTUM REDUZIDO PARA R$ 5.000,00 (CINCO MIL REAIS). SENTENÇA REFORMADA EM PARTE NO TOCANTE AO VALOR DA INDENIZAÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. UNÂNIME."
+Os embargos de declaração opostos foram rejeitados (vide acórdão às fls. 560-563).
+Nas razões do apelo nobre (fls. 565-582), JOSÉ MATEUS DE OLIVEIRA BARRETO E JOSE MOTA BARRETO NETO apontam, preliminarmente, ofensa aos arts. 489, §1º, IV e 1.022 do CPC/15 afirmando que o eg. TJ-SE não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, indica violação ao art. 561 do CPC/15 e aos arts. 1.196 e 1.210 do Código Civil, afirmando, entre outros argumentos, que "(..) foram vertidos diversos fundamentos (desde a defesa) no recurso de apelação que afastavam a procedência da ação, sendo que, no julgamento colegiado, o e. Relator (a) não acolheu a preliminar de ilegitimidade passiva arguida em razão do negócio fraudulento com o terceiro MARCELO AUGUSTO DOS SANTOS GOMES, (b) afastando também a preliminar de suspensão por prejudicialidade externa da ação criminal e, no mérito, (c) manteve a reintegração por entender que a posse do Autor MAYKE SANTANA foi justa e ocorrera o esbulho pelos Réus, ainda que estes efetivamente tivessem sido ludibriados pelo estelionatário MARCELO já citado" (fls. 578 - destaques no original).
+Defendem a "(..) ausência de esbulho praticado pelos Recorrentes uma vez que a apreensão do veículo decorreu de ato policial estatal, devidamente expedido em inquérito policial e que gerou Auto de Apreensão, estando aqueles Embargante na posse do veículo na condição de depositário" (fls. 578-579- destaques no original).
+Asseveram, ainda, que "(..) discussão sobre quem sofreu o golpe do estelionatário Marcelo é obter dictum e não se presta para resolver a demanda reintegratória com base no art. 561, II, do CPC, de forma que deveria o acórdão recorrido ao menos enfrentar a alegação de ausência de esbulho praticado pelos Réus, mas apreensão da moto náutica por ordem policial/estatal que, por determinação da autoridade policial, restou depositada (custodiada) às ordens do Recorrente JOSÉ MOTA BARRETO NETO (fls.-e 178)" (fls. 579- destaques no original).
+Intimado, MAYKE SANTOS SANTANA apresentou contrarrazões (fls. 585-602), pelo desprovimento do recurso.
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 605-616), motivando o agravo em recurso especial (fls.621-630) em testilha.
+Também foi oferecida contraminuta (fls.632-640), pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado de Sergipe (TJ-SE) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Impende salientar que a remansosa jurisprudência desta eg. Corte é no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, destacam-se os recentes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DO BEM DE FAMÍLIA. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA. DOCUMENTOS JUNTADOS AOS AUTOS. AFASTAMENTO DAS CONCLUSÕES. REEXAME FÁTICO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa aos arts. 1.022, parágrafo único, I e II, e 489, § 1º do CPC, quando o tribunal de origem decide, de modo claro, objetivo e fundamentado, as questões essenciais ao deslinde da controvérsia, embora sem acolher a tese do insurgente.
+(..)
+7. Agravo interno desprovido."
+(AgInt no REsp n. 2.038.626/PR, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 12/2/2025, DJEN de 17/2/2025 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AGRAVANTES.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.
+Precedentes.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp n. 2.592.658/PR, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 16/12/2024, DJEN de 19/12/2024 - g. n.)
+Avançando, melhor sorte não socorre ao apelo no tocante à violação ao art. 561 do CPC/15 e aos arts. 1.196 e 1.210 do Código Civil.
+No caso, o eg. TJ-SE, com arrimo no acervo fático-probatório carreado aos autos, confirmando sentença, concluiu que os ora Agravantes, "(..) em razão de suposta inadimplência do Sr. Marcelo quanto ao pagamento do jet ski, por utilização de cheques fraudados e sem fundos, retomaram a posse deste, com utilização de força e sem autorização legal ou judicial, o que configura esbulho passível de reintegração". A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 553-554):
+"O mérito da querela recursal cinge-se a analisar o direito do autor de ser reintegrado na posse de um jet ski, adquirido do Sr. Marcelo Augusto Gomes, mas registrado em nome de José Mota Barreto Neto (primeiro demandado), o qual, juntamente com o segundo requerido, seu irmão José Mateus de Oliveira Barreto, tomaram à força a posse do demandante
+Para um melhor deslinde da questão, imperioso analisar, inicialmente, alguns aspectos inerentes à posse no direito civil brasileiro.
+(..)
+Analisando os autos, restou comprovado que o autor/apelado adquiriu a moto aquática do Sr. Marcelo Augusto, pelo valor de R$ (noventa mil reais), 90.000,00 sem qualquer restrição incidente sobre o bem; que José Mota e José Mateus tinham ciência da venda realizada pelo Marcelo ao autor Mayke.
+As partes ora litigantes, inclusive, participaram de eventos náuticos juntos, eventos estes em que o autor estava na posse da moto aquática objeto da ação (vide fotos acostadas nos autos).
+José Mota confirma que fez a venda do jet ski para Marcelo Augusto, tendo este tomado posse sobre o bem. Com a venda do veículo para o autor Mayke, a posse foi-lhe transferida.
+No entanto, os apelantes, em razão de suposta inadimplência do Sr. Marcelo quanto ao pagamento do jet ski, por utilização de cheques fraudados e sem fundos, retomaram a posse deste, com utilização de força e sem autorização legal ou judicial, o que configura esbulho passível de reintegração.
+Se houve fraude no pagamento da transação primária (compra e venda do veículo aquático entre os recorrentes e o Sr. Marcelo) certo é que, não aferida a responsabilidade pela fraude, tal situação não pode prejudicar terceiro de boa-fé, no caso o autor.
+Assim, terceiro de boa-fé não pode ser punido por fraude alheia, notadamente diante inexistência de provas de que o autor tivesse conhecimento da ação fraudulenta envolvendo o pagamento do jet ski, não havendo como declarar a nulidade do contrato.
+Atente-se que eventuais danos em razão da fraude relativa ao pagamento do negócio jurídico entre Marcelo e os ora apelantes podem ser objeto de discussão em ação própria.
+Outrossim, como bem salientou o magistrado de primeiro grau, "Vê-se que até por meio legítimo, que seria a rescisão da compra e venda por inadimplência, os requeridos não retirariam o jet ski da posse autoral, muito menos ainda seria admitir a truculência documentada nos autos, em que advogado, sem mandado, mas acompanhado de policiais, invade oficina e ilicitamente apreende o veículo mencionado nos autos, sem atentar que fora vendido, e os requeridos, que pagaram o justo preço, exerciam a posse legítima.
+No mais, o bem móvel tem a propriedade transmitida pela TRADIÇÃO, sendo o registro do bem no DETRAN ou na Capitania dos Portos formalidade que não desconstrói a regra do código civil sobre aquisição da propriedade de bem móvel.
+(..)" (g. n.)
+Nesse cenário, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, "a" e "b", do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
