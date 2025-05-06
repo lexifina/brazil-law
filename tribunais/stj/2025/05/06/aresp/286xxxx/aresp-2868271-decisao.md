@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo regimental interposto por EDILSON BRAZ TEIXEIRA (e-STJ, fls. 416-433) contra decisão proferida pelo Ministro Presidente HERMAN BENJAMIN, que fundamentada no art. 21-E, V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em recurso especial, por incidência da Súmula 182/STJ (e-STJ, fls. 411-412).
+A Defesa alega que apontou adequadamente os dispositivos legais violados e que a análise dos pedidos não demanda reexame de provas.
+No recurso especial, postula a absolvição pelo crime de tráfico de drogas ou a sua desclassificação para o previsto no art. 28 da Lei n. 11.343/06.
+Seguindo, pede a aplicação do redutor previsto no § 4º do artigo 33 da Lei 11.343/06.
+Por fim, requer a fixação do regime semiaberto para início do cumprimento da pena, considerando as circunstâncias judiciais favoráveis e a quantidade de pena aplicada.
+O MPF se manifestou pelo não conhecimento do agravo regimental (e-STJ, fls. 450-453).
+É o relatório.
+Decido.
+À luz das razões apresentadas pelo agravante, reconsidero a decisão de fls. 411-412. Passo, portanto, à análise do recurso especial.
+Passo, portanto, ao exame do recurso especial propriamente dito.
+A instância anterior, ao reformar a sentença para condenar o agravante pelo crime de tráfico de drogas, assim se manifestou (e-STJ, fls. 330-340):
+"Interrogado, o apelado disse que realmente veio de Cravinhos comprar drogas em Ribeirão para seu próprio consumo. Afirmou já ter sido processado e condenado por tráfico de drogas. Após a insistência da Acusação confirmou ter outra condenação também por tráfico. Sua versão, entretanto, não me convenceu. Os policiais Daniel e Marcelo, em Juízo, confirmaram que se encontravam em operação policial na favela e avistaram o acusado saindo de dentro da comunidade, entrando em um carro. Abordado, foi encontrado com ele 22 porções de cocaína, embaladas uma a uma (gravação nos autos).
+Os depoimentos dos policiais são revestidos de fidedignidade, pois é funcionário do Estado, vocacionado no importante dever de proteção da população e investigação de crimes. Demais disso, as falas destes profissionais, que, escolhidos pelo Estado para desempenhar a nobre função de proteção da população, possuem fé pública, sendo seus depoimentos dignos de crédito e plena validade, mesmo porque, como dito alhures, não restou provada qualquer intenção dos agentes em, de alguma forma, prejudicar o réu.
+ ..
+Ademais, como afastaríamos tais palavras, se na esmagadora maioria das prisões por crime de tráfico as únicas testemunhas são os próprios policiais condutores  Seria um equívoco jurídico, com implicações graves à vida em sociedade, se os Doutos Juízes e Desembargadores deste Tribunal de Justiça passassem a absolver indistintamente réus em casos como o presente, em que a fala agentes acaba sendo determinante para a condenação. A Justiça não pode fechar os olhos para as evidências dos autos, devendo o Poder Judiciário estar sensível às artimanhas, cada vez mais aperfeiçoadas, utilizadas pelos criminosos para se furtarem da aplicação da lei penal. O conjunto probatório é farto e evidencia com toda certeza a prática de tráfico pelo réu.
+Não é demais ressaltar que os agentes nada tinham contra o acusado e, portanto, jamais imputariam crime tão grave a pessoa inocente, merecendo, pois, validade suas falas. Assim, a prova da traficância deve ser extraída das diversas circunstâncias do delito, como no presente caso, no qual se concluiu, sem dúvidas, pela droga apreendida, pela quantidade, forma de acondicionamento, pelo dinheiro apreendido, pelo local ser nitidamente conhecido como ponto de tráfico, bem como pelos depoimentos firmes e coerentes dos policiais militares. O tipo penal previsto no art. 33, caput, da Lei nº 11.343/06, é crime de ação múltipla, admitindo várias condutas, como, "ter em depósito", "guardar" e "trazer consigo" a substância entorpecente, para fins de tráfico.
+ ..
+Ou seja, pouco importa se o agente estava praticando atos típicos de mercancia, bastando que a droga encontrada fosse destinada a terceiros sendo o caso dos autos. De rigor, portanto, a condenação como incurso ao art. 33, caput, da Lei nº 11.343/06."
+Conforme se observa, a instância anterior procedeu à condenação pelo crime de tráfico de drogas somente porque ele foi preso transportando 22 porções de cocaína, com 5,26g de cocaína.
+Entretanto, extrai-se do acórdão que os policiais não destacaram nenhum comportamento indicativo da difusão ilícita.
+Ainda, a quantidade de drogas apreendidas (5,26g de cocaína), não é relevante e não permite concluir pela configuração do crime de tráfico.
+Ademais, de acordo com os elementos presentes no acórdão, o agravante não foi monitorado mantendo contato com outros possíveis usuários e não estava na posse de apetrechos ou anotações típicas do tráfico.
+Como se sabe, o direito penal não pode se contentar com suposições nem conjecturas, de modo que o decreto condenatório deve estar amparado em um conjunto fático-probatório coeso e harmônico, o que não é o caso dos autos.
+É sempre bom lembrar que no processo penal, havendo dúvida, por mínima que seja, deve ser em benefício do réu, com a necessária aplicação do princípio do in dubio pro reo.
+Destarte, considerando que não há provas seguras do tráfico, bem como que o recorrente assumiu que a droga era destinada ao seu consumo, de rigor a desclassificação da conduta para o delito previsto no art. 28 da Lei n. 11.343/06.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "c", do RISTJ, reconsidero a decisão agravada a fim de conhecer do agravo para dar parcial provimento ao recurso especial, restabelecendo a sentença que condenou o réu nos termos do artigo 28 da Lei 11.343/06.
+Publique-se. Intimem-se.
+ EMENTA
