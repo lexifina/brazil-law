@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 7 e 211 do STJ (fls. 363-365).
+O acórdão recorrido encontra-se assim ementado (fl. 301):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - ALIENAÇÃO FIDUCIÁRIA - TARIFA DE CADASTRO - ONEROSIDADE EXCESSIVA - ENCARGOS MORATÓRIOS - COMISSÃO DE PERMANENCIA DISSIMULADA - ÔNUS SUCUMBENCIAIS - PRINCÍPIO DA CAUSALIDADE E DA SUCUMBÊNCIA - CONDENAÇÃO DE AMBAS AS PARTES AO PAGAMENTO DAS CUSTAS - HONORÁRIOS ADVOCATÍCIOS. O Superior Tribunal de Justiça, no julgamento do R Esp n. 1.255.573, submetido à sistemática dos recursos repetitivos, reconheceu que "permanece válida a Tarifa de Cadastro expressamente tipificada em ato normativo padronizador da autoridade monetária, a qual somente pode ser cobrada no início do relacionamento entre consumidor e a instituição financeira" (STJ. R Esp n. 1.255.573, Rel. Min. Maria Isabel Gallotti, Segunda Seção, j. 23.08.2013). O Superior Tribunal de Justiça fixou entendimento de que é cabível a cobrança da comissão de permanência para o período de inadimplência, desde que (i) esteja, expressamente, prevista no contrato, (ii) não ultrapasse a soma dos encargos remuneratórios e moratórios previstos no contrato e (iii) não seja cumulada com a correção monetária, com os juros remuneratórios e moratórios, nem com a multa contratual. Vigora em nosso ordenamento jurídico o princípio da causalidade, segundo o qual aquele que deu causa à instauração do processo deve arcar com encargos dele decorrentes. Assim, tendo em vista que a parte requerida deu causa ao ajuizamento da demanda deve ela arcar com os ônus sucumbenciais no que tange a um dos pedidos, cabendo à parte requerente o pagamento da outra parte em razão da improcedência do pedido de indenização. Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa.
+Os embargos de declaração foram rejeitados (fls. 320-323).
+Nas razões do recurso especial (fls. 327-337), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais:
+(i) art. 86, § 1º, do CPC/2015, porque (fl. 331):
+ ..  cada parte deve arcar com os encargos processuais na proporção do seu êxito na demanda. Vale dizer, os honorários advocatícios devem ser proporcional e reciprocamente distribuídos.
+Já o parágrafo único do art. 86 estipula que se um litigante decair em parte mínima do pedido, CONFORME OCORRE NO PRESENTE CASO, o outro responderá por inteiro pelas despesas do processo.
+Na espécie, o r. acórdão, embora julgando procedentes Três de Quatro dos pedidos da Apelante, condenou-a ao pagamento de 25% (vinte e cinco por cento) das verbas sucumbenciais.
+(ii) art. 85, § 8º, do CPC/2015, pois (fl. 334):
+ ..  o valor fixado a título de remuneração pelo labor dos patronos da parte autora revelam- se pífios tendo em vista a complexidade da causa, o trabalho técnico desenvolvido, a interposição de recurso contrário a sentença, esta apelação, bem como o tempo de duração da demanda até então.
+Ora, não arbitrados em valor fixo, por equidade, tem-se na espécie hipótese de negativa de vigência ao §8º ora em comento, respeitosamente.
+No agravo (fls. 368-374), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta não apresentada (fl. 382).
+É o relatório.
+Decido.
+A Corte local assim entendeu (fls. 306-307 ):
+Tendo em vista a sucumbência do autor em relação aos pedidos de reconhecimento da abusividade da capitalização dos juros, conforme decidido na sente impugnada, a responsabilidade pelo pagamento das custas processuais e dos honorários advocatícios deve ser realizada de forma proporcional.
+Considerando que, neste recurso, foi reconhecida a ilegalidade dos encargos moratórios e da cobrança da tarifa de cadastro, de forma que, decaindo em quatro dos pedidos iniciais formulados, deve arcar com 25% das custas e honorários, em atenção ao art. 86 do CPC.  ..
+Recíproca a sucumbência, arcará o apelante com 25% das custas e demais despesas processuais, restando os outros 75% à apelada.
+É assente no STJ a compreensão de que "a análise do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula nº 7/STJ" (AgInt no AgInt no AREsp n. 1.800.732/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/10/2022, DJe de 17/10/2022). No mesmo sentido: AgInt no AREsp n. 2.118.749/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/12/2022, DJe de 14/12/2022.
+No que diz respeito ao arbitramento dos honorários por equidade, bem como afronta ao art. 85, § 8º, do CPC/2015, a tese e o conteúdo normativo de tais dispositivos não foram apreciados pelo Tribunal a quo, apesar da oposição de embargos declaratórios.
+Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Jus tiça.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo, ficando suspensa a exigibilidade em virtude da gratuidade de justiça (art. 98, § 3º, do CPC/2015).
+Publique-se e intimem-se.
+EMENTA
