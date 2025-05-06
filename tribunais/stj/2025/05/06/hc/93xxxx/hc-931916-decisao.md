@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em PAULO HENRIQUE SANTOS DE CASTRO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS.
+Consta dos autos que o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa, mantendo a decisão do Juízo da Vara de Execução Penal que indeferiu o pedido de comutação de pena, nos termos da seguinte ementa:
+AGRAVO EM EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/23. REQUISITO OBJETIVO. BENEFICIADO POR DECRETOS ANTERIORES. VEDAÇÃO EXPRESSA. SENTIDO LITERAL DO TEXTO NORMATIVO. RECURSO CONHECIDO E NÃOPROVIDO. 1. O art.84,XII,da Constituição Federal conferiu ao Presidente da República a competência privativa para a concessão do indulto e, consequentemente, seus requisitos e extensão, a partir de critérios de conveniência e oportunidade. 2. O art. 4º do Decreto Presidencial nº 11.846/23 veda expressamente a concessão da comutação da pena àqueles que obtiveram o benefício por meio de decretos anteriores até 25 de dezembro de 2023. 3. Se o agravante não preenche o requisito objetivo para a obtenção da comutação prevista no Decreto Presidencial nº 11.846/23, porque já se beneficiou de comutações de penas decorrentes de decretos anteriores, a decisão impugnada deve ser mantida, não cabendo conferir interpretação oposta ao sentido literal do texto normativo. 4. Recurso conhecido e não provido.
+O impetrante sustenta que a interpretação do art. 4º combinada com o § 2º do art. 3º do Decreto 11.846/2023 conduziria à permissão para nova comutação de pena para crimes já alcançados pela comutação de decretos anteriores.
+Requer a concessão da ordem para que seja concedida a comutação.
+Foram prestadas as informações pela Corte de origem (fls. 441-454 e 455-470) e o Ministério Público Federal opinou pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fls. 475-479).
+É o relatório.
+Este Tribunal Superior firmou compreensão de que o habeas corpus não pode ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração quando assim manejado.
+Observam-se a respeito os seguintes julgados: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024.
+Ademais, no caso em exame, não se verifica a ocorrência de ilegalidade flagrante apta a superar esse entendimento.
+Da leitura do acórdão prolatado pelo Tribunal de origem, observa-se que foram expressamente indicados os motivos para a solução adotada para o caso. Confira-se (fl. 418):
+O art. 4º do Decreto Presidencial nº 11.846/23 veda expressamente a concessão da comutação da pena àqueles que obtiveram o benefício por meio de decretos anteriores até 25 de dezembro de 2023, assim dispondo:
+Art. 4º Concede-se comutação às pessoas condenadas a pena privativa de liberdade que atendam aos requisitos estabelecidos neste Decreto e que não tenham, até 25 de dezembro de 2023, obtido as comutações por meio de Decretos anteriores, independentemente de pedido anterior.
+A interpretação pretendida pela defesa se opõe ao sentido literal do texto normativo, não comportando acolhimento.
+Como é possível observar, verifica-se que não há manifesta ilegalidade a ser sanada, pois o acórdão impugnado, em consonância com a jurisprudência desta Corte Superior, concluiu pela impossibilidade de que condenações comutadas por força de decretos anteriores sejam novamente objeto do benefício, nos termos do art. 4º do Decreto Presidencial nº 11.846/23.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 11.846/2023. VEDAÇÃO EXPRESSA À CONCESSÃO DO BENEFÍCIO A APENADO JÁ AGRACIADO POR DECRETOS ANTERIORES. INTERPRETAÇÃO LITERAL DO ART. 4º DO DECRETO. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Decreto Presidencial n. 11.846/2023 estabelece, em seu artigo 4º, vedação expressa à concessão da comutação de pena a apenados que já tenham sido beneficiados por decretos anteriores, independentemente de pedido anterior.
+2. No caso, o acórdão proferido pelo Tribunal de origem, ao indeferir a comutação de pena, alinhou-se ao entendimento consolidado desta Corte, que reitera a impossibilidade de concessão do benefício a condenados já agraciados por comutação em períodos anteriores.
+3. Inviável interpretação extensiva do Decreto Presidencial, uma vez que a norma aplicada ao caso concreto é clara ao impedir a concessão da comutação nas hipóteses vedadas.
+4. Agravo regimental não provido.
+(AgRg no HC n. 979.890/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 11/3/2025, DJEN de 19/3/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
