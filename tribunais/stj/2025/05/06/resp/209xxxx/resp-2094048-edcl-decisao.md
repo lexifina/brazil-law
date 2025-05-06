@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 899-904) opostos à decisão desta relatoria, que conheceu e deu parcial provimento ao recurso especial interposto pela parte ora embargada, a fim de reconhecer a ocorrência de prescrição e julgar improcedente o pedido, nos termos do art. 487, II, do CPC/2015, invertendo os ônus sucumbenciais (fls. 891-896).
+A parte embargante sustenta que devem ser "esclarecidas as omissões e contradição identificadas na v. decisão monocrática acerca do entendimento de que teria havido violação aos artigos 189 e 206, § 1º, inciso II, "b", ambos do Código Civil (i) pela falta de identificação dos fundamentos determinantes do enunciado jurisprudencial invocado, (ii) pela falta de indicação de quais foram considerados os termos inicial e final do prazo prescricional e (iii) pelo reconhecimento da prescrição antes de iniciado o interesse de agir da Embargante para formular pretensão indenizatória decorrente de negativa de cobertura securitária enquanto não ainda não havia a referida negativa por parte da Embargada" (fl. 902).
+Impugnação apresentada (fls. 909-916), com pedido de aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência no julgado dos vícios mencionados, o que não se evidencia no caso em exame.
+Conforme constou da decisão ora embargada, no que diz respeito à apontada violação dos arts. 189 e 206, § 1º, II, "b", do CC/2002, incide a Súmula n. 568 do STJ, porquanto o entendimento adotado pelo Tribunal de origem encontra-se em dissonância com a jurisprudência desta Corte de que "a comunicação do sinistro à seguradora apenas suspende a fluência do prazo prescricional ânuo, o qual retoma seu curso na data da ciência do segurado da recusa do pagamento da indenização. (Súmula 229/STJ)" (AgInt no REsp n. 2.093.889/PR, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024).
+Nesse contexto, a decisão embargada assinalou que é possível extrair do acórdão impugnado (fl. 786) e da petição inicial (fls. 1-18) apresentada pela parte recorrida, ora embargante, que o sinistro ocorreu em 7/5/2015 e a comunicação do sinistro à seguradora se deu em 25/5/2015, bem como que houve ciência inequívoca do segurado acerca da negativa do pagamento em 13/12/2016.
+Com efeito, tendo em vista que a ação foi ajuizada em 13/12/2017, após consumado o prazo prescricional ânuo previsto no art. 206, § 1º, II, "b", do CC/2002, deu-se parcial provimento ao recurso especial interposto pela seguradora, para julgar improcedente o pedido, a teor do art. 487, II, do CPC/2015.
+A contradição que dá ensejo a embargos de declaração é a interna, isto é, entre proposições do próprio julgado, e não entre o julgado e as razões da parte. No caso, não se observa a apontada contradição.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Dessa forma, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os emb argos de declaração.
+Indefiro o pedido da parte embargada, de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+Publique-se e intimem-se.
+ EMENTA
