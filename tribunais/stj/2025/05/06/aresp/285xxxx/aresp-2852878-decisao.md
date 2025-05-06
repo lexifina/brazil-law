@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de Agravo apresentado pelo ESTADO DO RIO DE JANEIRO e OUTRO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER. ASSISTENTES JURÍDICOS DO ESTADO DO RIO DE JANEIRO. SUDERJ. PEDIDO DE EQUIPARAÇÃO SALARIAL EM RELAÇÃO AOS ASSISTENTES JURÍDICOS DA UNIVERSIDADE ESTADUAL DO NORTE FLUMINENSE - UENF. SENTENÇA DE PROCEDÊNCIA, COM BASE EM DECISÃO TRANSITADA EM JULGADO. RECURSO. DESACOLHIMENTO.
+Quanto à controvérsia, a parte recorrente aduz ofensa ao art. 1.022, parágrafo único, II, c/c o art. 489, § 1º, IV e VI, do CPC, no que concerne ao reconhecimento de nulidade do acórdão recorrido por negativa de prestação jurisdicional, porquanto não enfrentou alegação aduzida pelo recorrente apta a infirmar a conclusão do julgado; além de deixar de seguir precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento, trazendo a seguinte argumentação:
+No caso vertente, conforme alegado expressamente no recurso de apelação de fls. 271/282, constou da r. sentença que o direito dos autores teria sido reconhecido no processo nº 2001.0001.043220-7, embora os autores não tenham integrado a relação processual do referido processo e, portanto, não sejam beneficiários das decisões lá proferidas.
+Por sua vez, verifica-se que, no v. acórdão recorrido, reiterou-se a mesma premissa fática equivocada ao se afirmar que "não pode a parte ré descumprir a decisão proferida no processo nº 2001.001.043220-7, que transitou em julgado, sob pena de ofensa à coisa julgada".
+Como os autores não integraram o processo n º 2001.001.043220-7, é evidente que esta demanda só pode ter vínculo com a ação coletiva n. 0033474-84.2005.8.19.0000. Nesse ponto, não restou apreciada a alegação de que a questão debatida neste processo já foi objeto de decisão judicial no próprio mandado de segurança coletivo que se pretende executar individualmente (fls. 883-884).
+Conforme dispõe a legislação processual vigente, cabe ao órgão julgador demonstrar a existência de distinção do caso em julgamento em relação a precedente invocado pela parte autora.
+Por esse motivo, justifica-se o provimento do recurso especial para que seja reconhecida a violação ao artigo 1.022, parágrafo único, inciso II c/c o artigo 489, §1º, incisos VI, todos do CPC (fl. 885).
+Conforme se depreende das petições de fls. 754/761 e 793/794, fez-se menção a recente julgado da E. Sexta Câmara de Direito Público em hipótese idêntica à presente (fl. 886).
+É o relatório.
+Decido.
+Quanto à controvérsia, não houve o prequestionamento do(s) artigo(s) de lei federal apontado(s) como violado(s), porquanto não houve o devido e necessário debate a respeito deste(s) dispositivo(s) no acórdão prolatado pelo Tribunal a quo .
+Esta Corte Superior de Justiça já sedimentou o entendimento segundo o qual ;"ausente o prequestionamento de dispositivos apontados como violados no recurso especial, nem sequer de modo implícito, incide o disposto na Súmula nº 282/STF" (REsp n. 2.002.429/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.837.090/SP, relator Ministro João Otávio de Noronha, Quarta Turma, DJEN de 21/3/2025; REsp n. 1.879.371/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 20/3/2025; AgRg no REsp n. 2.103.480/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 7/3/2025; AgRg no AREsp n. 2.491.927/PA, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.112.937/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/2/2025; AgInt no AgInt nos EDcl no REsp n. 1.522.805/RS, relator Ministro Francisco Falcão, Segunda Turma, DJEN de 16/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
