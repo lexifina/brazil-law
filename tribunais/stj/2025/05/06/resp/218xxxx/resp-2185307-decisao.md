@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelos réus em face de acórdão assim ementado (fl. 293):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA QUE ACOLHEU EM PARTE OS EMBARGOS MONITÓRIOS, CONSTITUINDO DE PLENO DIREITO O DÉBITO EM TÍTULO EXECUTIVO. INSURGÊNCIA DOS REQUERIDOS/ EMBARGANTES. PRETENSO AFASTAMENTO DO INPC FIXADO NA SENTENÇA COMO ÍNDICE DE CORREÇÃO MONETÁRIA. INACOLHIMENTO. UTILIZAÇÃO DO REFERIDO ÍNDICE PERFEITAMENTE VÁLIDO NA ESPÉCIE, PORQUANTO TRATA-SE DE INDEXADOR OFICIAL QUANDO INVIABILIZADA A RESPECTIVA CONTRATAÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ALMEJADA CONDENAÇÃO DA ADVERSA À DITA VERBA, EM SUA INTEGRALIDADE, ALÉM DE OBJETIVADA A RESPECTIVA MAJORAÇÃO. TESES INSUBSISTENTES. ESTIPÊNDIO ADVOCATÍCIO, ARBITRADO DE FORMA RECÍPROCA, QUE SE APRESENTA COMO CONSEQUÊNCIA LÓGICA DO DESFECHO PROPAGADO. FIXAÇÃO, ADEMAIS, QUE SE OPEROU COM ESTEIO À NORMA DISPOSTA NO ART. 85, § 2º, DO CPC/2015. SENTENÇA MANTIDA. HONORÁRIOS RECURSAIS. OBEDIÊNCIA AO DISPOSTO NOS §§ 1º E 11º DO ARTIGO 85 DO CÓDIGO DE PROCESSO CIVIL. NECESSIDADE DE FIXAÇÃO ANTE O DESPROVIMENTO DO RECURSO. RECURSO CONHECIDO E DESPROVIDO.
+Alega-se que o acórdão recorrido contrariou o artigo 47 da Lei 8.078/1990 (Código de Defesa do Consumidor - CDC) porque, ignorando a regra segundo a qual a interpretação de cláusulas de contrato celebrado no bojo de relação de consumo deve ser favorável ao consumidor, deixou de afastar a incidência de correção monetária, cuja incidência não foi prevista no pacto discutido no caso concreto.
+Inicialmente, observo que o acórdão recorrido não se manifestou sobre a aplicação ao caso concreto da norma positivada no artigo 47 do CDC. Esse cenário evidencia a ausência de prequestionamento da questão federal (norma jurídica tida por contrariada), requisito exigido inclusive com relação às matérias de ordem pública, a obstar o conhecimento do recurso especial, no particular. Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ESCRITURA DE COMPRA E VENDA C/C REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. MATÉRIA DE ORDEM PÚBLICA. EXIGÊNCIA. AQUISIÇÃO DE IMÓVEL EM NOME PRÓPRIO COM RECURSOS DESVIADOS DA PESSOA JURÍDICA. CONVERSÃO DE OFÍCIO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. JULGAMENTO EXTRA ET ULTRA PETITA. NÃO OCORRÊNCIA. VALOR DA INDENIZAÇÃO. LUCROS CESSANTES E JUROS DE MORA. SUPOSTA INVERSÃO DO ÔNUS PROBATÓRIO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. SÚMULAS 282 E 356/STF E 5, 7 E 83/STJ.
+ ..
+3. Não tendo havido o prequestionamento de parte dos temas postos em debate nas razões do recurso especial, requisito do qual não estão imunes nem mesmo as matérias de ordem pública, incidentes os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+ ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 973.262/PB, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 7/12/2020)
+Incidem, no ponto, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Em face do exposto, nego provimento ao recurso.
+Nos termos do artigo 85, § 11, do CPC/2015, majoro em 10% (dez por cento)
+a quantia já arbitrada a título de honorários em favor da representação processual da recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ficando sob condição suspensiva a exigibilidade dessa obrigação em caso de beneficiário da gratuidade da justiça.
+Intimem-se.
+EMENTA
