@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por ZAQUEU CASTRO DE MELO contra decisão que inadmitiu o seu recurso especial contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO no julgamento da Apelação n. 0000646-06.2019.8.10.0029.
+Depreende-se dos autos que o Tribunal de origem deu provimento ao recurso do Ministério Público para condenar o ora agravante pelo delito previsto no art. 157, § 3º, segunda parte, do Código Penal. Eis a ementa do julgado (e-STJ fls. 474/475):
+DIREITO PENAL . APELAÇÃO CRIMINAL. LATROCÍNIO . REFORMA DA SENTENÇA ABSOLUTÓRIA. REFORMA. MATERIALIDADE E AUTORIA. COMPROVAÇÃO. CONDENAÇÃO. RECURSO PROVIDO.
+I. Caso em exame
+1. Apelação interposta pelo Ministério Público do Estado do Maranhão contra sentença absolutória proferida em favor de Zaqueu Castro de Melo, acusado de latrocínio (art. 157, § 3º, segunda parte, do Código Penal). A decisão de primeira instância fundamentou-se na insuficiência de provas quanto à autoria do crime.
+2. Segundo a denúncia, em 14/10/2018, o réu, utilizando uma faca, desferiu golpes na vítima, Manoel Simeão Valério, com intenção de subtrair seus bens, resultando em sua morte.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se o conjunto probatório permite reformar a sentença absolutória para condenar o réu pelo crime de latrocínio, considerando o depoimento das testemunhas e demais elementos dos autos.
+III. Razões de decidir
+4. O depoimento de José Delfino Martins de Sousa Filho, prestado na fase policial, é detalhado e consistente, identificando o réu como autor do delito. Embora colhido extrajudicialmente, harmoniza-se com os depoimentos judiciais de outras testemunhas, como F. J. A. L. A. (Ziel), sendo corroborado por elementos adicionais.
+5. A jurisprudência admite a utilização de elementos colhidos na fase inquisitorial quando corroborados por provas em juízo, conforme entendimento consolidado do STF e STJ (art. 155 do CPP).
+6. A intenção do réu de subtrair bens da vítima, seguida de resultado morte, caracteriza o tipo penal de latrocínio, sendo desnecessária a efetiva subtração de bens, conforme Súmula 610 do STF.
+IV. Dispositivo e tese
+7. Recurso provido. Sentença absolutória reformada para condenar o réu pela prática de latrocínio, com pena fixada em 26 anos, 3 meses de reclusão e 113 dias-multa.
+A defesa interpôs então recurso especial, com fundamento no art. 105, III, a e c da Constituição Federal, no qual alegou violação aos arts. 392, inciso II, 370, § 1º, ambos do Código de Processo Penal,
+Inadmitido o apelo extremo, o recurso subiu a esta Corte por meio do presente agravo.
+O Ministério Público Federal apresentou parecer pelo não conhecimento do agravo (e-STJ fls. 581/583 ).
+É o relatório.
+Decido.
+O Tribunal de origem não admitiu o recurso especial em razão de deficiência de fundamentação e ausência de prequestionamento (e-STJ fls. 542/543).
+No entanto, o recorrente deixou de infirmar esses fundamentos, limitando-se a reproduzir as razões do recurso especial.
+No caso, não demonstrou a parte que a matéria elencada no dispositivo apontado como violado foi alvo de debate pelo voto condutor do acórdão recorrido, satisfazendo, assim, o requisito do prequestiomento.
+Desse modo, não havendo impugnação específica de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o teor da Súmula n. 182 do Superior Tribunal de Justiça
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. PLEITO PARA INTIMAÇÃO QUANTO À DATA DE JULGAMENTO, COM O FIM DE APRESENTAR SUSTENTAÇÃO ORAL. INCABÍVEL MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULAS N.os 7 e 83 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. PEDIDO PARA CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO. UTILIZAÇÃO COMO MEIO PARA ANÁLISE DO MÉRITO DO RECURSO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 258 do Regimento Interno deste Superior Tribunal de Justiça, o agravo regimental relativo à matéria penal em geral será apresentado em mesa, para que o órgão colegiado sobre ela se pronuncie, confirmando-a ou reformando-a. Além disso, o art. 159, inciso IV, do RISTJ também afasta a realização de sustentação oral no julgamento do agravo regimental, salvo expressa disposição legal em contrário, o que não constitui a hipótese dos autos. Precedente da Terceira Seção.
+2. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à aplicação da Súmula 284 do Supremo Tribunal Federal, e à incidência das Súmulas n. 7 e 83 do Superior Tribunal de Justiça, atraindo, à espécie, a aplicação da Súmula n. 182/STJ.
+3. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+4. O comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+5. No tocante à aplicação da Súmula n. 7 do Superior Tribunal de Justiça, nas razões do agravo em recurso especial, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da citada súmula desta Corte.
+6. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade.
+7. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1777813/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/3/2021, DJe 25/3/2021.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. PLEITO DE NULIDADE. JULGAMENTO MONOCRÁTICO. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. 2. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. OFENSA À DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ. 3. PEDIDO DE REVOGAÇÃO DA PRISÃO CAUTELAR. IMPROPRIEDADE DA VIA ELEITA. RECURSO DE FUNDAMENTAÇÃO VINCULADA. 4. AGRAVO NÃO CONHECIDO.
+1. O cabimento do agravo autoriza o exame do recurso especial, para que se possa aferir se a matéria trazida ultrapassa os óbices sumulares, situação que não se verificou na hipótese dos autos. Assim, embora se tenha conhecido em parte do recurso especial, este foi improvido, em virtude da incidência dos verbetes ns. 7 e 83 da Súmula do Superior Tribunal de Justiça. Ademais, diversamente da alegação do agravante, não há óbice ao julgamento monocrático do recurso especial, conforme autoriza o RISTJ, bem como o art. 932 do CPC. Relevante registrar, outrossim, que os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. Com pequenas alterações, o agravante se limitou a repetir as razões do recurso especial. Assim, a petição recursal do agravante não impugna os fundamentos da decisão agravada, esbarrando, dessa forma, no óbice do enunciado n. 182 da Súmula desta Corte. Nesse contexto, não havendo impugnação específica e pormenorizada à fundamentação declinada para conhecer do agravo e conhecer em parte do recurso especial, para negar-lhe provimento, fica inviável o conhecimento do presente agravo regimental, por violação ao princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm.
+3. No que concerne ao pedido de revogação da prisão preventiva, esclareço que o especial é recurso com fundamentação vinculada, no qual se discute a fiel aplicação dos textos legais, e não a justiça da avaliação dos fatos realizada pela Corte local. Assim, inviável analisar, na via eleita, a possibilidade de aplicação das medidas cautelares diversas da prisão.
+4. Agravo regimental não conhecido.
+(AgRg nos EDcl no AREsp 1219543/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/8/2018, DJe 10/8/2018.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RAZÕES RECURSAIS QUE NÃO IMPUGNAM O FUNDAMENTO PRINCIPAL DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Súmula n. 182 do STJ).
+2. No caso sub examinem, infere-se que a agravante limitou-se a aduzir a existência de similitude fática entre o caso dos autos e os paradigmas apontados, furtando-se a elidir o fundamento da decisão agravada subjacente à ausência de juntada das cópias integrais autenticadas dos arestos apontados como paradigmas, bem como da falta de indicação do repositório oficial em que tais decisões tenham sido publicadas. Assim, a ausência de impugnação específica aos fundamentos da decisão agravada atrai a incidência do Enunciado Sumular n. 182 desta Corte.
+3. Agravo regimental não conhecido.
+(AgRg nos EREsp 1184505/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 23/2/2011, DJe 2/3/2011, grifei.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
