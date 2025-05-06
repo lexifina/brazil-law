@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por FABRÍCIO JÚLIO APARECIDO FERNANDES, contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Consoante se extrai dos autos, o eg. Tribunal a quo deu provimento ao recurso em sentido estrito interposto pelo Ministério Público, reformando a decisão que havia rejeitado a denúncia por ausência de justa causa, determinando o recebimento da denúncia e o retorno dos autos para regular prosseguimento do feito (fls. 239-246).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, o insurgente alegou violação ao artigo 395, III, do Código de Processo Penal, sustentando que não há justa causa para o exercício da ação penal, dada a ausência de elementos mínimos de autoria e materialidade (fls. 255-262).
+Apresentadas as contrarrazões pelo Ministério Público do Estado de Minas Gerais, foi sustentada a inadmissibilidade do recurso especial, com base na ausência de demonstração de violação à lei federal e na inobservância da Súmula 07 do STJ, além da deficiência na fundamentação quanto à divergência jurisprudencial (fls. 266-269).
+Nas razões do agravo, postula-se o processamento do recurso especial, argumentando que foram cumpridos os requisitos necessários à sua admissão, especialmente a indicação clara dos dispositivos violados e a exposição das razões pelas quais o acórdão teria afrontado cada um deles (fls. 278-282).
+O Ministério Público Federal opinou pelo conhecimento do agravo, para conhecer do recurso especial e dar-lhe provimento, com o consequente trancamento da ação penal (fls. 302-306).
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+De antemão, o recurso especial não pode ser conhecido quanto à divergência jurisprudencial (art. 105, III, "c", da CRFB), pois não foram atendidos os requisitos necessários para a comprovação do alegado dissídio.
+Com efeito, não houve a transcrição do voto paradigma, nem o cotejo analítico entre o acórdão recorrido e o divergente, demonstrando, de forma clara, a identidade das situações fáticas e a interpretação distinta atribuída por Tribunal ao mesmo dispositivo de legislação infraconstitucional, devidamente particularizado.
+A ausência no atendimento dessa exigência formal impede o conhecimento do recurso, nos termos dos arts. 1.029, § 1.º, do Código de Processo Civil e 255, § 1º, do Regimento Interno.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL MILITAR. LESÃO CORPORAL CULPOSA. ALEGAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NA VIA DO RECURSO ESPECIAL. PRETENSA AFRONTA À SÚMULA N.º 6/STJ. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃO PARADIGMA PROFERIDO EM HABEAS CORPUS. DESCABIMENTO. DEMAIS JULGADOS TIDOS POR PARADIGMA. AUSÊNCIA DE COTEJO ANALÍTICO. PLEITO PELA ABSOLVIÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICOPROBATÓRIO.INCIDÊNCIA DA SÚMULA N.º 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. No tocante aos demais julgados tidos por paradigma, o alegado dissídio pretoriano não foi demonstrado nos moldes dos arts. 1.029, § 1.º, do Código de Processo Civil e 255, § 1.º, do Regimento Interno do Superior Tribunal de Justiça, pois não houve o devido cotejo analítico entre os julgados apontados como divergentes.  ..  6. Agravo regimental desprovido."
+(AgRg no AREsp 1414307/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe 24/05/2019).
+No mais, a controvérsia cinge-se à possibilidade de trancamento da ação penal em decorrência da ausência de prova mínima acerca do delito de tráfico de drogas, faltando-lhe, portanto, a indispensável justa causa.
+O Tribunal de origem entendeu que as provas trazidas com a inicial são suficientes para o recebimento e processamento da ação penal, a fim de melhor apurar a subsunção típica da conduta, nos seguintes termos (fls. 243-245):
+"A justa causa consiste no lastro probatório mínimo acerca da materialidade e da autoria delitiva. Tal condição ao exercício da ação penal está prevista no artigo 395, III, do Código de Processo Penal e pressupõe a demonstração da viabilidade da pretensão deduzida, ou seja, a pertinência entre as provas preliminares e os fatos descritos na Denúncia ou na Queixa.
+ ..
+In casu, a denúncia está acompanhada de documentos que servem de indícios da prática, pelos recorridos, do crime de tráfico de droga (fls. 05/134).
+E, diante da presença do fummus comissi delicti, entendo que agiu com desacerto o MM. Juiz ao reconhecer a ausência de justa causa para o exercício da ação penal.
+Ora, a pequena quantidade de droga apreendida não é argumento válido para rejeitar a denúncia, haja vista tratar-se de questão meritória, que deverá ser analisada e sopesada quando da prolação da sentença.
+Além disso, não obstante a pequena quantidade de droga apreendida, registro a existência de denúncia anônima dando conta da prática do tráfico de drogas por parte dos acusados.
+Assim, presentes os indícios mínimos de materialidade e autoria, necessários para a propositura da ação penal, o recebimento da inicial acusatória se impõe."
+Na espécie, a atuação policial teve origem em denúncia anônima específica, que apontava a existência de duas pessoas suspeitas de comercializar entorpecentes, fornecendo detalhes sobre suas características pessoais e da motocicleta utilizada. A partir dessas informações, a polícia identificou os suspeitos e realizou a abordagem que culminou na apreensão da substância ilícita, 07 gramas de maconha. Nesse contexto, independentemente de ser baixa a quantidade da droga apreendida, a atipicidade não está demonstrada de plano, dada a notícia de que o entorpecente se dirigia ao comércio , persistindo legítimo interesse estatal de descortinar com segurança a destinação da substância ilícita.
+De mais a mais, o Supremo Tribunal Federal no julgamento do Recurso Extraordinário 635.659 fixou o tema 506 de Repercussão Geral, estabelecendo, entre outras coisas, que a presunção de posse de maconha para consumo pessoal é relativa, de tal forma que, mesmo para quantidades inferiores a 40g, quando presentes elementos que indiquem intuito de mercancia, poderá estar configurado o delito de tráfico de drogas (item 5, do Tema 506/RG).
+No caso, para acolher a tese de que a droga teria destinação exclusiva ao consumo pessoal do recorrente seria indispensável o aprofundamento sobre o acervo fático-probatório, o que encontra censura na Súmula n. 7 do STJ.
+Destaque-se que esta Corte Superior possui assente entendimento de que: "Em razão da excepcionalidade do trancamento da ação penal, tal medida somente se verifica possível quando ficar demonstrado - de plano e sem necessidade de dilação probatória - a total ausência de indícios de autoria e prova da materialidade delitiva, a atipicidade da conduta ou a existência de alguma causa de extinção da punibilidade. É certa, ainda, a possibilidade do referido trancamento nos casos em que a denúncia for inepta, não atendendo o que dispõe o art. 41 do Código de Processo Penal - CPP, o que não impede a propositura de nova ação desde que suprida a irregularidade".(AgRg no RHC n. 149.650/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 2/4/2025, DJEN de 8/4/2025.)
+No mesmo sentido:
+" ..
+A jurisprudência estabelece que o trancamento da ação penal só é possível quando demonstrada, sem necessidade de dilação probatória, a inépcia da denúncia, a atipicidade da conduta ou a ausência de indícios mínimos de autoria, o que não ocorreu no caso.
+ .. "
+(AgRg no HC n. 928.519/RJ, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 2/4/2025, DJEN de 7/4/2025.)
+" ..
+O trancamento da ação penal é medida excepcional, somente possível quando se observa de plano, sem a necessidade da análise mais aprofundada de fatos e provas, a falta de justa causa, a atipicidade da conduta, a causa de extinção da punibilidade ou a ausência de indícios de autoria ou prova da materialidade.
+ .. "
+(AgRg no RHC n. 179.182/RS, relator Ministro Og Fernandes, Sexta Turma, julgado em 1/4/2025, DJEN de 7/4/2025.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, par ágrafo único, inciso II, alínea "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
