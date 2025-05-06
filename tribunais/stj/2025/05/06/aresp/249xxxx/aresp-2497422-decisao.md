@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  LUIZ ANTONIO TREVISAN VEDOIN  contra  decisão  do  TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO  que  inadmitiu  o  recurso  especial  aviado  com  fulcro  na  alínea  a  do  permissivo  constitucional  e  interposto  contra  o  acórdão  prolatado  na  Apelação  Criminal  n.  0022824-03.2010.4.01.3600.
+Os  autos  dão  conta  de  que  o  recorrente  foi  condenado  como incurso nas sanções do art. 1º, I, da Lei nº 8.137/90, à pena de 2 (dois) anos e 06 (seis) meses de reclusão e multa de 15 (quinze) dias-multa (e-STJ  fls.  640-652).
+Interposta  apelação  defensiva,  o recurso foi desprovido.
+No  recurso  especial,  postulou a anulação do acórdão por ofensa aos artigos 261 e 564 do CPP e, sucessivamente, pediu a extinção da punibilidade pela prescrição por suposta contrariedade aos arts. 107,IV, 109, 110, §1º e 111 do CP; e, ainda, a cassação do acórdão por alegada contrariedade do art. 1" da Lei 8.137/90. Por fim, pediu que, "Em caso de não conhecimento do presente recurso especial, seja concedida ordem de habeas corpus de oficio nos termos do artigo 654 do CPP para anular ou cassar o acordão".
+Inadmitido  o  apelo  extremo,  os  autos  foram  encaminhados  a  esta  Corte  em  virtude  do  presente  agravo.
+Opina  o  Ministério  Público  Federal  pelo  não  provimento do recurso.
+É  o  relatório.  Decido.
+O recurso especial foi denegado sob o fundamento de que para "quando a alteração das conclusões do acórdão recorrido exigir a reapreciação do acervo fático-probatório da demanda, há a incidência da proibição da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial")".
+O recorrente impugnou adequadamente os motivos que levaram à inadmissibilidade do recurso especial e, quanto ao pedido de pronunciamento da prescrição, a análise da pretensão recursal efetivamente não demanda o reexame do conjunto probatório, razão pela qual passo à análise do mérito do recurso especial.
+Acerca dos prazos prescricionais, consoante dispõe o art. 110, § 1º, do Código Penal, "a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa" (redação dada pela Lei n . 12.234, de 24/6/2010).
+Cumpre registrar, ainda, que, no julgamento do Habeas Corpus n. 176.473/RR, o Plenário do Supremo Tribunal Federal consignou que, "nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+Nesse sentido, inclusive, é a tese jurídica firmada no julgamento do Tema Repetitivo 1.100:
+"O acórdão condenatório de que trata o inciso IV do art. 117 do Código Penal interrompe a prescrição, inclusive quando confirmatório de sentença condenatória, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+Considerando as observações feitas anteriormente, na espécie, ao recorrente foi imposta a pena de 2 (dois) anos e 06 (seis) meses de reclusão e multa de 15 (quinze) dias-multa (e-STJ  fl.  640-652), a qual prescreve no prazo de 8 (oito) anos, nos exatos termos do art. 109, IV, do Código Penal c. c. o artigo 110, caput e §1º.
+No caso, consoante se infere da decisão de inadmissibilidade do recurso que "a sentença foi publicada em 04/06/2010 e a sessão de julgamento da apelação foi realizada em 07/02/2022", sem que tenha havido recurso da acusação da sentença de primeiro grau.
+Assim, está demonstrado que entre a sentença e o acórdão transcorreram 11 (onze) anos e 8 meses, restando inequívoca a consumação da prescrição da pretensão punitiva (retroativa), tendo por base a pena aplicada.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial para pronunciar a extinção da punibilidade pela prescrição da pretensão punitiva e declaro prejudicadas as demais teses defensivas.
+Publique-se.  Intimem-se.
+EMENTA
