@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LUCAS HYAN RODRIGUES DE SOUZA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que negou provimento ao Agravo Interno Criminal n. 2011789- 88.2025.8.26.0000/50000.
+Extrai-se dos autos que o recorrente foi condenado pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) à pena de 7 anos, 3 meses e 15 dias de reclusão e ao pagamento de 729 dias-multa, e pelo crime previsto no art. 35, caput, da mesma Lei, à pena de 4 anos, 4 meses e 15 dias de reclusão, e ao pagamento de 1.020 dias-multa, ambos na forma do art. 69 do Código Penal - CP, no regime inicial fechado.
+O Tribunal de origem deu parcial provimento à apelação interposta pelo réu para absolvê-lo da imputação do art. 35, caput, da Lei n. 11.343/2006, com fulcro no art. 386, VII, do Código de Processo Penal - CPP.
+O feito transitou em julgado.
+Ainda irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu do mandamus. Interposto agravo regimental contra a decisão, o recurso foi desprovido em acórdão que recebeu a seguinte ementa:
+"DIREITO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. RECURSO NÃO PROVIDO. I. Caso em Exame Agravo regimental interposto contra decisão monocrática que não conheceu do habeas corpus impetrado, sob o fundamento de que a sentença foi confirmada em segunda instância e o acórdão transitou em julgado, sendo a revisão criminal a via adequada para questionamento. II. Questão em Discussão 2. A questão em discussão consiste em determinar se é possível conhecer do habeas corpus impetrado contra acórdão já transitado em julgado, proferido pela mesma Câmara que julgou o recurso de apelação. III. Razões de Decidir 3. O habeas corpus não foi conhecido porque o Tribunal de Justiça é incompetente para julgar habeas corpus contra ato próprio, uma vez que a Câmara já havia se posicionado como autoridade coatora ao julgar o recurso de apelação. 4. A decisão monocrática foi mantida, pois o habeas corpus não pode ser utilizado como sucedâneo recursal para desconstituir acórdão transitado em julgado. IV. Dispositivo e Tese 5. Recurso não provido. Tese de julgamento: 1. A incompetência do Tribunal para julgar habeas corpus contra ato próprio impede o conhecimento do writ. 2. A revisão criminal é a via adequada para questionar acórdão transitado em julgado. Legislação Citada: Constituição Federal, artigo 105, inciso I, alínea "c". Código de Processo Penal, art. 621. Lei 11.343/2006, art. 35, caput, e §4º do art. 33. Jurisprudência Citada: TJSP, Agravo Interno Criminal 2381957-76.2024.8.26.0000, Rel. Christiano Jorge, 15ª Câmara de Direito Criminal, j. 11.02.2025. TJSP, Agravo Interno Criminal 2373645-14.2024.8.26.0000, Rel. Sérgio Mazina Martins, 12ª Câmara de Direito Criminal, j. 05.02.2025." (fl. 119)
+No presente writ, a defesa sustenta que o recorrente teve sua pena agravada em razão da agravante da reincidência pelo crime de roubo.
+Afirma que recentemente o recorrente foi absolvido da referida condenação, retornando à primariedade, o que torna possível a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 ao presente crime.
+Requer, portanto, o provimento do recurso a fim de afastar a reincidência e aplicar a redutora do tráfico privilegiado.
+Contrarrazões às fls. 132/134.
+O Ministério Público Federal - MPF opinou pelo não conhecimento do recurso (fls. 148/151).
+É o relatório.
+Decido.
+De início, verifica-se que a matéria não foi analisada pelo Tribunal de origem, que considerou sua incompetência para julgar habeas corpus impetrado contra ato do próprio Tribunal - acórdão proferido no julgamento da apelação - e afirmou o cabimento da revisão criminal para a análise da matéria, não podendo esta Corte de Justiça realizar o exame direto das novas alegações, sob pena de incidir em indevida supressão de instância.
+Nesse sentido, ilustrativamente:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. RECURSO DESPROVIDO. INOVAÇÃO DE FUNDAMENTOS. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA CUSTÓDIA. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CPP. AUSÊNCIA DE CONTEMPORANEIDADE. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça não pode analisar questão não enfrentada pela instância de origem, sob pena de indevida supressão de instância.
+2. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3. Estando a manutenção da prisão preventiva justificada de forma fundamentada e concreta, pelo preenchimento dos requisitos do art. 312 do CPP, é incabível a substituição por medidas cautelares mais brandas.
+4. Não há falar em falta de contemporaneidade nas situações em que os atos praticados no processo respeitaram a sequência necessária à decretação, em tempo hábil, de prisão preventiva devidamente fundamentada.
+5. A contemporaneidade da prisão preventiva não está restrita à época da prática do delito, e sim à verificação da necessidade no momento de sua decretação, ainda que o fato criminoso tenha ocorrido em período passado.
+6. Agravo regimental desprovido.
+(AgRg no RHC n. 168.708/BA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
+ EMENTA
