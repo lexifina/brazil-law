@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência da Súmula n. 284 do STF (fls. 264-265).
+O acórdão recorrido encontra-se assim ementado (fl. 187):
+AGRAVO INTERNO - DECISÃO QUE NÃO CONHECEU DO RECURSO INTERPOSTO EM RAZÃO DA VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - DECISÃO MANTIDA - NEGADO PROVIMENTO AO AGRAVO INTERNO. - Se o recurso manejado não aponta os motivos do inconformismo da parte, em contraposição aos fundamentos da decisão recorrida, sua inadmissão é medida que se impõe.
+Os embargos de declaração foram rejeitados (fls. 217-225).
+Nas razões do recurso especial (fls. 228-251), fundamentado no art. 105, III, "a", da CF, a parte recorrente alega violação dos arts. 9º, 10, 489, § 1º, I, II, III e IV, do CPC/2015.
+Afirma que não houve ofensa ao princípio da dialeticidade e assevera que "não trouxe ao recurso de apelação apenas mera transposição do que já havia demostrado nos autos, demostrou que o douto juízo de primeiro grau deveria se atentar as provas anexadas aos autos que demostrou que os descontos na aposentadoria do Recorrente ultrapassavam o limite legal, devendo ser limitado os descontos a apenas 30% de seu benefício, bem como a restituição dos valores cobrados indevidamente pelo banco Agravado" (fl. 234).
+Aponta deficiência da fundamentação do aresto recorrido, aduzindo que "não foram enfrentados na origem os argumentos deduzidos pelo Requerente tal como postos na inicial, além de não apreciados quando devolvidos nas razões recursais interpostos em face da sentença" (fl. 244).
+Ressalta que "configura cerceamento de defesa o não conhecimento do recurso da parte que já havia sido levantada desde a inicial e com alegação de não impugnação especifica dos argumentos da sentença de origem, alegando o d. desembargador relator a dialeticidade recursal, sem que tenha sido dada oportunidade ao autor de se manifestar sobre os vícios indicados na decisão proferida por este Tribunal" (fl. 247).
+Ao final, requer o provimento do recurso para que "seja conhecido o recurso de apelação de nº 1.0000.21.275223-2/001 para em seu mérito seja dado provimento e modificando a sentença de origem para julgar procedente os pedidos autorais" (fl. 251).
+No agravo (fls. 267-284), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 288-292).
+É o relatório.
+Decido.
+De início, i nexiste afronta ao art. 489, § 1º, I, II, III e IV, do CPC/2015, quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, a Corte estadual não conheceu do recurso de apelação interposto pela parte ora agravante, em razão da ofensa ao princípio da dialeticidade. O Tribunal de origem assim se manifestou (fls. 188-191):
+No caso em tela, a parte recorrente interpôs anteriormente apelação (nº 1.0000.21.275223-2/001) em face da sentença do magistrado de origem que, considerando que o valor dos descontos procedidos pela parte ré não ultrapassaram 30% dos proventos líquidos do autor, julgou improcedentes os pedidos exordiais.
+Por sua vez, conforme ressaltado na decisão monocrática objurgada, embora juízo de origem tenha reconhecido a improcedência do pleito autoral em razão da inexistência da ilicitude apontada pela parte autora, qual seja a suposta ocorrência de descontos de parcelas de empréstimo em valor acima de 30% do benefício auferido pelo aposentado, o apelante se limitara a reiterar as razões constantes da peça de sua peça de introito.
+Com efeito, como a parte recorrente deixara de exibir os motivos pelos quais a sentença primeva deveria ser modificada, não apresentando argumentos capazes de desconstruir os fundamentos jurídicos deduzidos na decisão, a apelação não foi conhecida.
+A propósito, oportuno transcrever trechos da fundamentação esposada na decisão monocrática recorrida:
+"De fato, ao deixar de impugnar as razões constantes da sentença recorrida, se limitando a reiterar as alegações de que o contrato estaria eivado de vício de vontade, tendo em vista a ignorância do autor quanto à necessidade da observância do limite dos descontos contratados, e tecendo considerações acerca dos supostos danos sofridos, o autor/recorrente deixa de observar o princípio da dialeticidade recursal.
+Como se vê, patente é a inadequação das razões do recurso aviado pela parte autora, eis que em total desconformidade ao disposto no inciso III, do art. 1.010, do NCPC.
+(..)
+In casu, reafirma-se, o apelante não cuidou de apontar um único argumento que justifique a necessidade de reforma da sentença que, conforme relatado, considerou que os descontos procedidos pelo banco réu ocorreram dentro da legalidade.
+Impõe, salientar que o julgamento pela instância revisora está limitado à extensão conferida pela parte recorrente ao seu recurso. Portanto, se o recurso não ataca o ato judicial vergastado, não há como o Tribunal apreciar a sua correção ou incorreção.
+Busca a parte agravante, por meio do presente agravo interno, a reforma da referida decisão monocrática. Nada obstante, melhor sorte não lhe assiste, já que, tal como fora decidido, não havia como conhecer do recurso de apelação interposto em razão dos exatos fundamentos acima delineados.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em deficiência de fundamentação.
+O entendimento adotado pelo acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte de que "a mera repetição de peças processuais anteriores não resulta em ofensa ao princípio da dialeticidade se das razões do recurso interposto for possível extrair fundamentos suficientes e notória intenção de reforma da sentença" (AgInt no REsp n. 2.029.025/PA, Relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 6/3/2023, DJe de 9/3/2023). No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. APELAÇÃO. REPETIÇÃO DE ARGUMENTOS. PRINCÍPIO DA DIALETICIDADE. PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
+1. Consoante entendimento jurisprudencial do Superior Tribunal de Justiça, a repetição dos fundamentos da petição inicial ou da contestação não é motivo suficiente para inviabilizar o conhecimento da apelação quando há demonstração inequívoca das razões e intenção de reforma da sentença, conforme ocorre na presente hipótese. Precedentes.
+2. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 2.255.154/SP, Relator Ministro Raul Araújo, Quarta Turma, julgado em 3/4/2023, DJe de 27/4/2023.)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. APELAÇÃO. NÃO CONHECIMENTO. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO OCORRÊNCIA. PRECEDENTES. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC. ADMISSIBILIDADE. NECESSIDADE DE PRÉVIA OPORTUNIDADE DE EMENDA À INICIAL. ART. 284 CPC/1973. ATUAL ART. 321 CPC/2015. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A orientação desta Corte Superior é no sentido de que a repetição de argumentos anteriores nas razões de apelação não ofende o princípio da dialeticidade quando puderem ser extraídas do recurso as razões e a intenção de reforma da sentença. Precedentes.
+2.  .. .
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.017.555/PA, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 20/3/2023, DJe de 23/3/2023.)
+Havendo posicionamento dominante acerca do tema, aplica-se a Súmula n. 568 do STJ. O reconhecimento de violação dos arts. 1.010 e 1.022 do CPC/2015 enseja a anulação do acórdão, assim como o retorno dos autos ao Tribunal a quo, para que promova novo julgamento da apelação, como entender de direito.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial , a fim de determinar o retorno dos autos ao Tribunal de origem, para que aprecie as razões recursais e profira novo julgamento do recurso de apelação, como entender de direito, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
