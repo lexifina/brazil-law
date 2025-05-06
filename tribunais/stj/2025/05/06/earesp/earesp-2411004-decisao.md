@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos, às fls. 1.096/1.178, contra acórdão proferido pela Segunda Turma, assim ementado (fl. 1.023/1.024):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. DANOS MORAIS. AUSÊNCIA DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO NA ORIGEM. INCIDÊNCIA DA SÚMULA N. 284/STF. ALEGAÇÃO DE AFRONTA AOS ARTS. 10 DO CPC, 214, I E V, E 309 DO CTB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PRETENSA CONDENAÇÃO EM DANOS MORAIS. REVOGAÇÃO DA ASSISTÊNCIA JUDICIÁRIA GRATUITA. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não havendo oposição dos embargos de declaração na origem, fica inviabilizado o conhecimento da tese de ofensas aos artigos 489, § 1º, I e IV, 1.022, I e II, 1.025, do CPC/2015, a incidir o óbice contido na Súmula n. 284/STF.
+2. O Tribunal de origem não apreciou as teses de afronta aos arts. 10 do CPC, e 214, I e V, e 309 do CTB e essas questões não foram suscitadas por meio de embargos de declaração. Ausência de prequestionamento. Incidência das Súmulas n. 282 e 356, ambas do STF.
+3. A Corte de origem, soberana quanto ao exame do acervo fático probatório acostado aos autos, concluiu pela manutenção da sentença que reconheceu a culpa exclusiva da vítima e julgou improcedente o pedido de danos morais, bem como da concessão da gratuidade de justiça concedida à parte recorrida. A inversão do julgado encontra óbice na Súmula n. 7 do STJ.
+4. Agravo interno desprovido.
+A embargante alega que o acórdão embargado diverge de outros precedentes desta Corte e se equivocou ao aplicar as Súmulas 282 e 284 do STF e Súmula 7 do STJ.
+É o relatório. Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 1º, combinado com o art. 225, § 1º , do RISTJ.
+Sob esse enfoque, o recurso não merece prosperar, na medida em que o mérito recursal não foi julgado pelo acórdão embargado.
+A propósito, observa-se que o acórdão embargado concluiu pela impossibilidade de analisar o mérito do recurso especial em razão da incidência das Súmulas 282, 284 e 356 do STF e 7 do STJ.
+Diante disso, é impossível o conhecimento dos embargos de divergência, uma vez que não se admite a sua interposição na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS. INCIDÊNCIA DA SÚMULA 315/STJ. MÉRITO NÃO EXAMINADO POR ÓBICE DAS SÚMULAS 5, 7/STJ E 283/STF. AGRAVO DESPROVIDO.
+I. Não é admissível o recurso de embargos de divergência quando o recurso especial não for apreciado, aplicando-se a súmula 315/STJ, que assim preconiza: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+II. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EAREsp n. 1.816.709/RJ, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, DJe de 20/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSENSO QUANTO A REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. SÚMULA 315/STJ. HONORÁRIOS ADVOCATÍCIOS. DISCUSSÃO SOBRE IRRISORIEDADE OU EXORBITÂNCIA. NÃO CABIMENTO. SITUAÇÕES FÁTICAS DIVERSAS.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. Não se admite a interposição de Embargos de Divergência para discutir a questão da irrisoriedade ou exorbitância do valor fixado a título de honorários advocatícios, cuja verificação decorre das particularidades de cada caso concreto (AgInt nos EREsp 1322257/RS, Corte Especial, DJe de 19/04/2017).
+3. Agravo interno não provido
+(AgInt nos EDv nos EREsp n. 1.792.499/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 14/6/2021.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. RECURSO ESPECIAL NÃO CONHECIDO DIANTE DA APLICAÇÃO DA SÚMULA N. 7/STJ. AUSÊNCIA DE ANÁLISE DO MÉRITO RECURSAL. EMBARGOS DE DIVERGÊNCIA. INCABÍVEIS. SÚMULA N. 315/STJ.
+I - Na origem, trata-se de ação anulatória de débito fiscal, por suposta não incidência de ICMS, em vista de transferência de bens entre os estabelecimentos da parte autora. Na sentença, julgou-se procedente o pedido, sendo declarada a nulidade de auto de infração.
+No Tribunal de origem, a sentença foi reformada apenas para reduzir os honorários advocatícios para o montante de R$5.000,00 (cinco mil reais). Nesta Corte, não se conheceu do recurso especial, sendo o agravo interno improvido.
+II - Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula n. 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." No mesmo sentido é a jurisprudência consolidada no Superior Tribunal de Justiça: AgInt nos EREsp n. 1.345.680/SC, Relator Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 5/4/2017, DJe de 19/4/2017.
+III - Ademais, observa-se que os embargos de divergência trazem discussão acerca da fixação do valor de honorários advocatícios.
+IV - Não há como admitir os embargos manejados, pois, na hipótese mencionada, inexiste divergência de teses jurídicas, mas apenas diferenças casuísticas na fixação do valor dos honorários advocatícios o que não autoriza a abertura da presente via, uma vez que a aferição da razoabilidade ou não do quantum fixado está intrinsecamente atrelada à análise das particularidades de cada caso concreto. Nesse sentido: AgInt nos EREsp n. 1.322.257/RS, Relator Ministro Herman Benjamin, Corte Especial, julgado em 7/12/2016, DJe de 19/4/2017.
+V - Agravo interno improvido.
+(AgInt nos EREsp n. 1.563.944/RJ, relator Ministro Francisco Falcão, Corte Especial, DJe de 1/6/2020.)
+Mencione-se, ainda, entre outros, os seguintes julgados da Corte Especial: AgInt nos EAREsp n. 1.767.128/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe de 1/4/2022; AgInt nos EAREsp n. 1.367.748/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 23/3/2022; AgRg nos EAREsp n. 709.552/SP, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 17/2/2020.
+Ante o exposto, indefiro liminarmente o recurso (art. 266-C do RISTJ).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ANALISA O MÉRITO DO APELO NOBRE. SÚMULA N. 315/STJ. RECURSO INDEFERIDO LIMINARMENTE.
