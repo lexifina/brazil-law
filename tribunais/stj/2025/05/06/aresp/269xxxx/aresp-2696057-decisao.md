@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo Estado do Rio Grande do Sul contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+De acordo com o que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do Regimento Interno do STJ - RISTJ (redação dada pela Emenda Regimental n. 22/2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe à parte agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. A propósito: EAREsp 701.404/SC, rel. Ministro João Otávio de Noronha, rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial foi fundamentada no entendimento de que não houve violação ao art. 1022 do CPC/2015, tampouco prequestionamento, aplicando-se a Súmula 211/STJ.
+Não houve, porém, impugnação específica ao primeiro fundamento (ausência de violação ao art. 1022 do CPC/2015), pois, ao tratar do tema, o recorrente se limita a afirmar que não houve "o enfrentamento, pelo acórdão recorrido, das questões relacionadas à preclusão e coisa julgada" (f. 600), sem, contudo, apresentar qualquer contraponto à extensa transcrição colacionada na decisão agravada com a finalidade de demonstrar a apreciação, no acórdão recorrido, de todas as questões relevantes para o deslinde da controvérsia (f. 458/475).
+O agravante não cuidou igualmente, de demonstrar a relevância da omissão alegada, ou seja, de apresentar argumentação capaz de evidenciar que a alegação de violação à coisa julgada seria capaz de alterar o resultado do julgamento. E, finalmente, não há no agravo sequer transcrição de trechos do título judicial transitado em julgado, de modo a permitir eventual confronto com a decisão recorrida.
+Inexiste, portanto, impugnação efetiva ao entendimento adotado na decisão agravada acerca da ausência de violação ao art. 1022 do CPC/2015. Há tão-somente argumentação genérica, restrita à alegação de violação do referido dispositivo legal, sem o devido acompanhamento de fundamentação propriamente dita.
+Ante o exposto, não conheço do agravo.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro-os em 10%, observados os limites e parâmetros dos§§ 2º, 3º e 11 do artigo 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. AUSÊNCIA DE VIOLAÇAÕ AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
