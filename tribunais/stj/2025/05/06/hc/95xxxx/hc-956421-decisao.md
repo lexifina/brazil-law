@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL ZACARIAS SANTIAGO, alegando constrangimento ilegal por parte do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no HC n. 2290549-04.2024.8.26.0000.
+Consta dos autos que o paciente foi condenado pela prática dos crimes previstos no art. 155, caput, na forma do art. 14, inciso II, ambos do Código Penal e do art. 16, inciso II, da Lei n. 10.826/2003, à pena de 03 (três) anos de reclusão em regime semiaberto, tendo a pena privativa de liberdade sido convertida em duas reprimendas restritivas de direitos (prestação pecuniária e prestação de serviços à comunidade).
+O Juízo de primeiro grau entendeu pela ocorrência de descumprimento das condições impostas ao Paciente, o que ensejou a conversão da pena restritiva de direitos em privativa de liberdade, com a respectiva expedição de mandado de prisão.
+Impetrado habeas corpus na origem, a liminar foi deferida e, quando do julgamento do mérito, revogada e a ordem denegada, sob o fundamento de que o Paciente não cumpriu a condição de comparecimento em juízo naquela oportunidade.
+Neste writ, a parte impetrante sustenta que o mandado de prisão foi expedido com base em informações incorretas, pois o paciente cumpriu as condições impostas, inclusive apresentando seu novo endereço e mantendo o cumprimento da sua pena restritiva de prestação de serviços à comunidade.
+Requer, liminarmente e no mérito, a expedição de contramandado de prisão e que a o Juízo de primeiro grau encaminhe as informações corretas ao Tribunal a quo.
+Liminar indeferida e requisitadas informações (fls. 25/26)
+Informações prestadas (fls. 32/57)
+Parecer do Ministério Público Federal, pelo não conhecimento do writ, e pela concessão da ordem, de ofício (fls. 61/66)
+Vieram os autos conclusos (fl. 68).
+É o relatório.
+DECIDO.
+Esta  Corte  -  HC  n.  535.063/SP,  Terceira  Seção,  relator  Ministro  Sebastião  Reis  Junior,  julgado  em  10/06/2020,  DJe  de  25/08/2020  -  e  o  Supremo  Tribunal  Federal  -  AgRg  no  HC  n.  180.365/PB,  Primeira  Turma,  relatora  Ministra  Rosa  Weber,  julgado  em  27/03/2020,  DJe  de  02/04/2020, e  AgRg  no  HC  n.  147.210/SP,  Segunda  Turma,  relator  Ministro  Edson  Fachin,  julgado  em  30/10/2018,  DJe  de  20/02/2020  -  pacificaram  orientação  no  sentido  de  que  não  cabe  habeas  corpus  substitutivo  do  recurso  legalmente  previsto  para  a  hipótese,  impondo-se  o  não  conhecimento  da  impetração,  salvo  quando  constatada  a  existência  de  flagrante  ilegalidade  no  ato  judicial  impugnado.
+Assim,  passo  à  análise  das  razões  da  impetração,  de  forma  a  verificar  a  ocorrência  de  flagrante  ilegalidade  a  justificar  a  concessão  do  habeas  corpus,  de  ofício.
+O Juízo de primeiro grau, ao prestar as informações requisitadas, com o fim de instruir os presentes autos, emitiu o seguinte comunicado (fls. 54/55):
+Pelo presente, tenho a honra de dirigir-me a Vossa Excelência, a fim de prestar as informações complementares relativamente aos habeas corpus em epígrafe, impetrado em benefício do paciente GABRIEL ZACARIAS SANTIAGO.
+Em complemento ao quanto já informado em ofício anterior, protocolizado aos 13 de novembro de 2024, informo que a Defesa - após este juízo prestar informações para o HC nº 2290549-04.2024.8.26.0000 impetrado perante o Tribunal de Justiça do Estado de São Paulo (fls. 203/209), ocasião em que destaquei que a Defesa também não havia justificado o porquê do réu ter alterado o seu endereço sem comunicar ao juízo - constituiu novo defensor nos autos e informou seu novo endereço, embora ainda não tenha justificado o porquê de não ter atualizado tal informação anteriormente (fls. 222/223).
+Para tanto, verifico que a Defesa juntou instrumento particular de contrato de locação para fins residenciais com prazo de 12 meses, iniciando-se em 12/06/2024 (fls. 227) .
+Nesse sentido, entendo que continua sem justificativa a falta de atualização do endereço, considerando que a tentativa de intimação do reeducando se deu aos 19 de abril de 2022 (fls. 126).
+Ademais, a Defesa juntou relatório informando que o réu retomou o cumprimento da pena de prestação de serviços à comunidade (fls. 226).
+Sobre a alegação da Defesa, ainda na petição de fls. 222 de que o paciente teria comparecido em juízo e informado seu novo endereço, conforme fls. 195/196, verifico que as referidas folhas se referem ao contramandado expedido. Embora haja a assinatura e número do RG do paciente, não há informação sobre novo endereço, mesmo constando no cabeçalho do contramandado o endereço antigo.
+Do acórdão indigitado coator, cumpre transcrever os seguintes verbetes (fls. 37/38):
+O Paciente tomou ciência da decisão supra em 25/09/2024, mas passados mais de vinte dias não compareceu em Juízo para regularizar sua situação no processo de execução de pena, bem como não cumpriu a pena de prestação pecuniária, a qual se encontra intimado desde novembro de 2017, muito antes do período pandémico, tudo a demonstrar o descaso e a vontade livre e consciente de não cumprir a reprimenda que lhe foi imposta.
+Ademais, mudou de endereço sem informar ao Juízo, dificultando, assim, a sua localização.
+O Paciente teve a oportunidade de se apresentar em juízo, acompanhado do defensor constituído.
+Porém, não o fez demonstrando total menosprezo com a justiça e com as oportunidades que de há muito lhes são dadas.
+Em que pese o teor das fundamentações apresentadas nas instâncias anteriores, verifico que assiste razão ao Impetrante.
+Isso porque é possível verificar a procedência da alegação de ter havido desencontro entre as informações do Juízo de primeiro grau e o Tribunal de origem, o qual, por não tomar conhecimento do comparecimento do Paciente em Juízo, bem como da comunicação da alteração de seu endereço, denegou a ordem impetrada.
+Com efeito, segundo consta do Parecer emitido pela Procuradoria-Geral da República (fls. 64/65 - grifamos),
+A liminar foi concedida em 24/09/2024.
+No dia seguinte, 25/09/2024, o reeducando compareceu à 1ª Vara Criminal de Taboão da Serra/SP. Ademais, atualizou seu endereço e retomou o cumprimento obrigatório estipulado (prestação de serviços).
+De fato, em consulta ao site do TJSP, processo de execução nº 7000147-98.2015.8.26.0609, da 1ª Vara da Comarca de Taboão da Serra/SP, fls. 195/196 (chave de acesso/senha discriminada em e-STJ Fl.52), é possível constatar que, na data de 25/09/2024, ou seja, um dia após a determinação judicial, o reeducando cumpriu a ordem judicial, conforme certificado pela servidora Karina de Jesus Silva, em documento que traz, ainda, a data e a assinatura do reeducando.
+Infere-se que houve falha de comunicação entre a Comarca de Taboão da Serra/SP (comunicando o comparecimento do reeducando) e a Câmara de Direito Criminal do Estado de São Paulo, que, sem possuir a informação atualizada, expediu o mandado de prisão.
+Além do comparecimento em juízo, restou certificado nos autos o novo endereço atualizado do paciente, a saber: Rua Caoby José Soares n. 334, complemento casa 1, Jardim Saint Moritz. Taboão da Serra-SP, CEP 06787-580.
+Outrossim, cabe destacar que, nos autos do processo de execução nº 7000147-98.2015.8.26.0609, da 1ª Vara da Comarca de Taboão da Serra/SP, fl. 197 (chave de acesso/senha discriminada em e-STJ Fl.52), já consta um novo formulário de prestação de serviços à comunidade em andamento, de forma que o paciente, de fato, voltou a cumprir as condições estipuladas em juízo.
+Assim, o teor das informações acima demonstram satisfatoriamente não ter havido descumprimento das condições impostas ao Paciente.
+Ademais, é cediço o entendimento desta Corte Superior que, havendo notícia do suposto descumprimento de medidas restritivas de direito, faz-se imprescindível a intimação do executado para prestar esclarecimentos mediante audiência de justificação, em observância aos princípios do contraditório e ampla defesa.
+Dessarte, uma vez constatado o cumprimento da ordem exarada pela Corte estadual, bem como o registro do novo endereço do sentenciado nos autos, a concessão da ordem é medida que se impõe.
+Nesse sentido:
+"Habeas Corpus". Direito Processual Penal. Pena restritiva de direitos. Descumprimento. Revelia. Conversão. Oitiva do condenado.
+Direito à ampla defesa e contraditório.
+A conversão da pena restritiva de direitos em privativa de liberdade substituída, sem a oitiva do condenado, infringe o seu direito de defesa e de contraditório.
+A revelia da executada equivale ao descumprimento da pena restritiva de direitos no que concerne à necessidade de prévia intimação da defesa para justificação.
+Estatui o §4º do artigo 44 do Código Penal que "A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta".
+Necessária, portanto, a audiência prévia da defesa, oportunizando-lhe a justificação.
+Ordem concedida, para anular a conversão, devendo o pedido do Parquet ser apreciado novamente, após audiência prévia de justificação da defesa.
+(HC n. 31.682/RJ, relator Ministro Paulo Medina, Sexta Turma, julgado em 16/3/2004, DJ de 12/4/2004, p. 239.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PENA RESTRITIVA DE DIREITOS. CONVERSÃO EM PRIVATIVA DE LIBERDADE. REGRESSÃO DE REGIME. AUSÊNCIA DE OITIVA DO CONDENADO PARA POSSÍVEL JUSTIFICAÇÃO. NECESSIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Supremo Tribunal Federal, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, para a conversão de medidas restritivas de direito em pena privativa de liberdade, é indispensável a intimação do condenado para que esclareça as razões do descumprimento, em audiência de justificação. assegurando-lhe o direito ao contraditório e à ampla defesa.
+III - Na hipótese, ante a mera notícia de que o paciente retirou em cartório, pessoalmente, o ofício para dar início à prestação de serviços à comunidade, mas não compareceu ao local indicado, converteu a pena restritiva de direitos em privativa de liberdade, determinou a regressão de regime e consignou que somente após o cumprimento do mandado de prisão, seria designada a audiência de justificação (fl. 125), o que configura constrangimento ilegal.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as decisões das instâncias ordinárias, e determinar ao Juízo da Execução que ouça previamente o sentenciado em audiência de justificação, antes de decidir acerca da conversão da pena restritiva de direitos em privativa de liberdade.
+(HC n. 486.269/SP, relator Ministro Felix Fischer, Quinta Turma, julgado em 21/2/2019, DJe de 1/3/2019.)
+Ante o exposto, não conheço do habeas corpus, no entanto, concedo a ordem, de ofício, para reformar o acórdão combatido, bem como determinar ao Juízo de Execução a expedição de contramandado e o encaminhamento das informações atualizadas ao Tribunal de Justiça, de modo a constar o cumprimento pelo Paciente das medidas analisadas nestes autos.
+Comunique-se, com urgência, o teor deste decisão ao Juízo de primeiro grau.
+Publique-se. Intimem-se.
+ EMENTA
