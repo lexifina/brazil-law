@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto por CREDITAS SOCIEDADE DE CREDITO DIRETO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL cuja ementa guarda os seguintes termos (fl. 356):
+APELAÇÃO CÍVEL. EMPRÉSTIMO PESSOAL COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL DE CONTRATO. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICÁVEL ÀS OPERAÇÕES DE CONCESSÃO DE CRÉDITO E FINANCIAMENTO. SÚMULA N. 297 DO STJ. JUROS REMUNERATÓRIOS. TRATANDO-SE DE RELAÇÃO DE CONSUMO, PARA LIMITAÇÃO/REVISÃO DA TAXA DOS JUROS REMUNERATÓRIOS CONTRATADA, HÁ QUE SE OBSERVAR SE EXISTE DESVANTAGEM EXAGERADA PARA O CONSUMIDOR, CONSIDERANDO-SE DIVERSOS FATORES APONTADOS PELA JURISPRUDÊNCIA, COM SIGNIFICATIVA DISCREPÂNCIA ENTRE A TAXA ESTABELECIDA NO CONTRATO E A TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA O PERÍODO DA CONTRATAÇÃO (RESP N. 2.009.614/SC, RESP N. 1.061.530/RS). CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE DE INCIDÊNCIA DE CAPITALIZAÇÃO DE JUROS EM PERIODICIDADE INFERIOR À ANUAL APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA N. 2.170- 36/2001 (ART. 5º), PRESENTE INCLUSIVE O RE N. 592.377/RS, COM REPERCUSSÃO GERAL RECONHECIDA. "A CAPITALIZAÇÃO DOS JUROS EM PERIODICIDADE INFERIOR À ANUAL DEVE VIR PACTUADA DE FORMA EXPRESSA E CLARA. A PREVISÃO NO CONTRATO BANCÁRIO DE TAXA DE JUROS ANUAL SUPERIOR AO DUODÉCUPLO DA MENSAL É SUFICIENTE PARA PERMITIR A COBRANÇA DA TAXA EFETIVA ANUAL CONTRATADA." - RESP N. 973.827/RS. DO PREQUESTIONAMENTO. DESNECESSÁRIA A INDICAÇÃO EXPRESSA DE TODOS OS FUNDAMENTOS LEGAIS EVENTUALMENTE INCIDENTES NO CASO, SENDO SUFICIENTE PREQUESTIONAMENTO IMPLÍCITO. APELO PARCIALMENTE PROVIDO.
+No recurso especial, a parte recorrente alega violação dos arts. 2º, 3º, 4º, 8º e 9º da Lei n. 4.595/1964. Argumenta que a taxa de juros pactuada não é abusiva e que o Tribunal de origem aplicou a taxa média de mercado divulgada pelo BACEN para contratos de aquisição de bens, enquanto o contrato em questão seria de empréstimo pessoal.
+Aponta divergência jurisprudencial com arestos desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 384-387).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 390-392), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 414-418).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos arts. 2º, 3º, 4º, 8º e 9º da Lei n. 4.595/1964, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbice nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, e alterar o decidido no acórdão impugnado, no que se refere à abusividade da taxa de juros, exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS ACIMA DA MÉDIA DE MERCADO. IMPOSSIBILIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. RECURSO DESPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto por instituição financeira (CREFISA S/A Crédito Financiamento e Investimentos) contra decisão monocrática que, ao conhecer do agravo em recurso especial, negou provimento ao recurso especial por reconhecer a impossibilidade de reavaliação das cláusulas contratuais e do acervo fático-probatório. A agravante sustentou que a matéria era exclusivamente de direito, afastando as Súmulas 5 e 7 do STJ, e alegou violação ao art. 927 do CPC, requerendo o provimento do recurso para afastar a limitação dos juros remuneratórios aplicada nas instâncias ordinárias. II. QUESTÃO EM DISCUSSÃO
+2. Há três questões em discussão: (i) definir se a estipulação de juros remuneratórios acima da média de mercado pode ser revista judicialmente; (ii) estabelecer se o exame dessa questão exige reinterpretação contratual e reexame de provas, obstando o recurso especial; (iii) verificar se houve violação ao art. 927 do CPC/2015 em razão de eventual desconsideração de jurisprudência vinculante. III. RAZÕES DE DECIDIR
+3. A jurisprudência do STJ admite a revisão dos juros remuneratórios apenas em situações excepcionais, quando comprovada a abusividade em prejuízo ao consumidor, conforme entendimento firmado em recurso repetitivo (REsp 1.061.530/RS) e reafirmado em diversos julgados posteriores.
+4. A taxa de juros contratada no caso concreto (14,50% ao mês e 407, 77% ao ano) é significativamente superior à taxa média de mercado à época da contratação, o que justifica a revisão contratual e a limitação dos juros à média divulgada pelo Banco Central.
+5. Para afastar a conclusão do acórdão recorrido, seria necessário reexaminar cláusulas contratuais e elementos probatórios, o que é vedado pelas Súmulas 5 e 7 do STJ.
+6. A parte agravante não demonstrou, de forma clara e específica, a violação ao art. 927 do CPC, incidindo, no ponto, a Súmula 284 do STF.
+7. A decisão agravada está alinhada à jurisprudência consolidada do STJ, razão pela qual incide também a Súmula 83 do STJ. IV. DISPOSITIVO
+8. Agravo interno desprovido.
+(AgInt no AREsp n. 2.829.700/MS, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários fixados em desfavor da parte recorrente para 12% sobre o valor atualizado da causa.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS ACIMA DA MÉDIA DE MERCADO. ABUSIVIDADE. REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83/STJ. AGRAVO IMPROVIDO.
