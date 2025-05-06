@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por DEBORA NAZARE DE SOUZA MIRANDA e OUTRO em face da decisão acostada às fls. 908-910 e-STJ, que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelos ora agravantes.
+O apelo extremo, fundado na alínea "a" do permissivo constitucional, fora deduzido em desafio ao acórdão de fls. 852-882 e-STJ, proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C PERDAS E DANOS - GRATUIDADE DA JUSTIÇA - REQUERIMENTO EM GRAU RECURSAL - HIPOSSUFICIÊNCIA FINANCEIRA - FALTA DE DEMONSTRAÇÃO - RECOLHIMENTO DE CUSTAS E PREPARO - INDEFERIMENTO DO BENEFÍCIO - PROMESSA DE VENDA E COMPRA DE IMÓVEL - DESFAZIMENTO DO NEGÓCIO - TERMO ESPECÍFICO ASSINADO PELAS PARTES - DESCUMPRIMENTO RECÍPROCO - RECONHECIMENTO DA CULPA CONCORRENTE - OBRIGAÇÕES PACTUADAS NO DISTRATO - OBSERVÂNCIA - MULTA CONVENCIONAL- INAPLICABILIDADE.
+- A falta de comprovação inequívoca da alegada hipossuficiência financeira e o recolhimento de custas, incluído o preparo recursal, inviabilizam o deferimento da Justiça Gratuita à parte Requerente/Apelante.
+- O dever de cumprimento recíproco das obrigações assumidas é da natureza dos Contratos bilaterais, não podendo nenhum dos contraentes exigir o implemento da prestação que cabe à contraparte, antes de cumprida a que lhe compete, por força do art. 476, da Lei Substantiva Civil.
+-Estabelecido o desfazimento da Promessa de Venda e Compra de Imóvel em Termo manuscrito e subscrito pelos Contratantes, e verificado que ambos descumpriram as respectivas condições, deve ser declarada a rescisão da Avença por culpa recíproca, com a imposição às partes da efetivação das obrigações ajustadas para o restabelecimento do status quo ante, sem a incidência de multa convencional.
+Nas razões de recurso especial (fls. 886-898 e-STJ), alegaram os insurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) artigos 98 e 99 do CPC/15, arguindo fazer jus à gratuidade de justiça; (ii) artigo 368 do CC, pugnando pela compensação entre os valores atribuídos a cada uma das partes; e, (iii) artigo 86, parágrafo único, do CPC/15, aduzindo ter decaído em parcela mínima do pedido.
+Contrarrazões às fls. 899-907 e-STJ.
+Em juízo prévio de admissibilidade (fls. 908-910 e-STJ), a Corte de origem inadmitiu o apelo nobre, ensejando a interposição do presente agravo (art. 1.042 do CPC/15), às fls. 951-959 e-STJ, por meio do qual pretende ver admitido o recurso especial.
+Contraminuta às fls. 960-961 e-STJ.
+É o relatório.
+Decide-se.
+1. A Corte de origem concluiu que os recorrentes, mesmo intimados a apresentar documentos para demonstrar a alegada hipossuficiência, não lograram comprovar fazer jus à concessão da gratuidade de justiça.
+Confira-se (fls. 859-863 e-STJ):
+Os informes anexados à Petição de Código 126, a despeito de apontarem que a Segunda Requerida obtém, no Brasil, remuneração mensal de R$1.562,70 (um mil e quinhentos e sessenta e dois reais), denotaram que, apenas com despesas de aluguel, assistência médica e taxas efetuadas nos Estados Unidos da América, onde residem, os Suplicados arcam com valores de aproximadamente US$3.380 (três mil e trezentos e oitenta dólares norte-americanos), ou seja, com montante superior a R$16.000,00 (dezesseis mil reais).
+E tal conjuntura, extraída dos gastos parciais indicados pelos Réus (Códs. 127 a 136), obviamente, não se compatibiliza com a realidade daqueles que necessitam da Gratuidade da Justiça.
+Além disso, conforme registrado nas Decisões de Códigos 110 e 119, durante o trâmite do feito em primeiro grau de jurisdição os Demandados pagaram as custas previamente incidentes sobre a Reconvenção que formularam (Códs. 73/74), assim como, em confirmação da sua disponibilidade financeira para o custeio dos encargos processuais, efetivaram o recolhimento do preparo recursal (Códs. 111 e 112), atraindo a observância do entendimento sedimentado no Verbete Sumular nº 82, desta Corte, e em reiterados Arestos:
+ ..
+Com efeito, superada a questão formal contida no art. 99, §2º, da Lei Adjetiva Civil, e à falta de elementos concretos e reveladores da impossibilidade de os Requeridos arcarem com as despesas processuais, concluo pela denegação da Assistência Judiciária requerida.
+Conforme mencionado na decisão proferida nos autos do AREsp n. 2.307.776/MG, "a jurisprudência deste Tribunal Superior firmou-se no sentido de que cabe ao requerente demonstrar a alteração de sua condição financeira para a obtenção da gratuidade da justiça quando o benefício não foi requerido perante as instâncias ordinárias, bem como nos casos em que a benesse tenha sido anteriormente indeferida, não bastando a mera declaração de hipossuficiência" (EDcl no AgInt no AREsp n. 2.106.850/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022).
+Logo, de fato, o preparo recolhido em primeira instância era relevante para a análise do benefício - ainda que o valor recolhido em segunda instância, pelos fatos tratados nos autos do AREsp n. 2.307.776/MG, não seja considerado prejudicial ao pedido.
+Outrossim, irrelevante a discussão suscitada pelos recorrentes, no tocante à conversão das despesas declaradas no exterior.
+Isso porque, segundo quadro fático delineado pela origem, os insurgentes demonstraram despesas muito superiores à renda declarada - ao que a Corte de origem concluiu pela "falta de elementos concretos e reveladores da impossibilidade de os Requeridos arcarem com as despesas processuais".
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Neste sentido, vejam-se os precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AO ART. 489, II, DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. BENEFÍCIO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. INDEFERIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. O Tribunal de Justiça não concedeu o benefício de assistência judiciária gratuita ao ora agravante, sob o entendimento de que os documentos juntados demonstram incompatibilidade com o alegado estado de necessidade para o benefício pretendido. A pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1719484/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. 1. BENEFÍCIOS PREVIDENCIÁRIOS. REVERSIBILIDADE DA MEDIDA ANTECIPATÓRIA. SÚMULA 83/STJ. 2. GRATUIDADE DE JUSTIÇA INDEFERIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A jurisprudência do STJ possui a orientação de que reverter a conclusão do Tribunal local para acolher a pretensão recursal (quanto ao preenchimento dos requisitos para a concessão da justiça gratuita) demandaria o revolvimento do acervo fático-probatório dos autos, medida defesa ante a natureza excepcional da via eleita, conforme enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1362200/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021)
+2. No mais, observa-se que o Tribunal de origem não emitiu pronunciamento a respeito da alegação do pleito de compensação (tese de ofensa ao artigo 368 do CC) - não havendo sequer oposição de aclaratórios.
+Logo, inviável conhecer o recurso especial, pois ausente o requisito constitucional do prequestionamento, conforme óbice da Súmula 282/STF.
+2.1. Nos termos da jurisprudência deste Tribunal Superior, "o conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem" (AgInt no AREsp n. 2.500.948/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/5/2024, DJe de 23/5/2024).
+Ou seja, prequestionamento significa pronunciamento fundamentado pelo órgão julgador sobre a controvérsia.
+No mesmo sentido, citam-se: AgInt nos EDcl no REsp n. 2.051.325/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/6/2024, DJe de 26/6/2024; AgInt no AREsp n. 2.277.360/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/6/2023, DJe de 19/6/2023; e, AgInt no REsp n. 1.973.165/TO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/3/2023, DJe de 24/3/2023.
+Ademais, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento impede a análise da questão.
+Nesse sentido: AgInt no REsp 1317113/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/03/2019, DJe 29/03/2019; AgInt nos EDcl no AREsp 1324333/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/03/2019, DJe 21/03/2019.
+3. Por fim, "a aferição do decaimento das partes em relação ao pedido, para fins de verificação da sucumbência recíproca ou mínima, importa no reexame de matéria fático-probatória, o que é vedado pela Súmula nº 7 do STJ" (AgInt no AREsp n. 1.527.339/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 4/5/2020, DJe de 11/5/2020).
+Ainda: AgInt no AREsp n. 2.563.643/MT , relator Ministro Raul Araújo, Quarta Turma, julgado em 19/8/2024, DJe de 2/9/2024.
+4. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conhece-se do agravo para não conhecer do recurso especial.
+Em atenção ao disposto no art. 85, §11, do CPC/15, deixa-se de majorar os honorários, eis que já fixados no patamar máximo pela origem.
+Publique-se.
+Intimem-se.
+EMENTA
