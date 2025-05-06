@@ -1,0 +1,15 @@
+DECISÃO
+Em petição de habeas corpus, impetrado em favor de Cleverson Roberto Barbieri e Luiz Carlos Pilonetto, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Os pacientes foram condenados como incursos no art. 33, caput, da Lei n. 11.343/06, ambos a 12 anos e 3 meses de reclusão, e pagamento de 1.225 dias-multa.
+A petição expõe a existência de constrangimento ilegal por causa da fixação da pena acima do mínimo legal. Assim, o pedido especifica-se em revisão da dosimetria para redução da pena base.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, nos termos da seguinte ementa (e-STJ, fl. 288): "HABEAS CORPUS SUBSTITUTIVO. PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. QUANTIDADE E NATUREZA DA DROGA APREENDIDA. ART. 42 DA LEI N. 11.343/2006. FUNDAMENTAÇÃO IDÔNEA. DISCRICIONARIEDADE DO JULGADOR. AUSÊNCIA DE ILEGALIDADE. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, NO MÉRITO, PELA DENEGAÇÃO DA ORDEM.".
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+É entendimento pacífico do Superior Tribunal de Justiça que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, salvo em casos de manifesta ilegalidade, abuso de poder ou teratologia (AgRg no HC n. 972.937/MT, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/3/2025, DJEN de 26/3/2025; AgRg no HC n. 985.793/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 18/3/2025, DJEN de 26/3/2025; AgRg no HC n. 908.616/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/3/2025, DJEN de 24/3/2025.
+Assim, a concessão de ofício da ordem, nos termos dos arts. 647-A e 654, § 2º, do Código de Processo Penal, depende da existência de flagrante ilegalidade.
+Analisando-se o conteúdo da documentação colacionada aos autos, não se verifica de plano qualquer violação ao ordenamento jurídico ou flagrante constrangimento ilegal, que implique ameaça de violência ou coação na liberdade de locomoção do paciente, nos termos da Lei nº 14.836, de , 8/4/2024 publicada no Diário Oficial da União de 9/4/2024.
+O Tribunal de origem assim fundamentou a reprimenda dos pacientes, acima da pena base, na grande quantidade de substância altamente perniciosa e na conduta interestadual (e-STJ fls.188-233).
+Dessa forma, a fundamentação utilizada pelo Tribunal a quo foi plenamente adequada e exaustiva. Não há qualquer ilegalidade ou teratologia nas palavras utilizadas pelo Tribunal de origem e, como se sabe, o redimensionamento da pena, via habeas corpus, é excepcional.
+Pelo exposto, não conheço do habeas corpus substitutivo e, na análise de ofício, inexistem elementos capazes de caracterizar flagrante ilegalidade.
+Publique-se. Intimem-se.
+EMENTA
