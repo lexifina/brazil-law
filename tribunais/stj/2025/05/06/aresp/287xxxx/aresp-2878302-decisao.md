@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 5 e 7 do STJ e 284 do STF (fls. 2.725-2.726).
+O acórdão recorrido encontra-se assim ementado (fl. 2.382):
+APELAÇÃO CÍVEL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. SENTENÇA DE PROCEDÊNCIA. RECURSO DA PARTE RÉ.
+INTERPRETAÇÃO DADA PELA AUTORA A PACTO HAVIDO COM A RÉ QUE IMPLICA EM RESPONSABILIDADE DE PAGAMENTO POR PARTE DESTA. RAZÃO OU NÃO DOS FUNDAMENTOS QUE SE TRADUZ EM QUESTÃO RESPEITANTE AO MÉRITO, DESATADA DA LEGITIMIDADE AD CAUSAM. COMPETÊNCIA PARA JULGAMENTO DAS CÂMARAS DE DIREITO CIVIL. INCOMPETÊNCIA TERRITORIAL TAMBÉM AFASTADA. COISA JULGADA E AUSÊNCIA DE INTERESSE PROCESSUAL. NÃO CONFIGURAÇÃO. INEXISTÊNCIA DE IDENTIDADE DE PEDIDOS. PRELIMINARES REJEITADAS.
+MÉRITO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS QUE ESTABELECEU REMUNERAÇÃO POR COMPLETUDE DE ETAPAS PROCESSUAIS. AUSÊNCIA DE NEGATIVA DE RECEBIMENTO DOS VALORES DEVIDOS DIANTE DAS FASES ALCANÇADAS. PREVISÃO, PARA O CASO DE REVOGAÇÃO DO PACTO, DE RATEIO DOS HONORÁRIOS SUCUMBENCIAIS FRENTE AOS QUAIS CONDENADA A PARTE ADVERSA, CONTRA A QUAL CONTENDEU A CASA BANCÁRIA. ESPÉCIE DE VERBA QUE DEPENDE DE FIXAÇÃO EM SENTENÇA A SER PROFERIDA NO CORRESPONDENTE FEITO. OBRIGAÇÃO DE PAGAMENTO, ADEMAIS, QUE NÃO É DO BANCO. DESCABIMENTO DO "ARBITRAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA" PRETENDIDO CONTRA O ENTE FINANCEIRO.
+PRECEDENTES NOS QUAIS SE BASEOU ESTE ÓRGÃO FRACIONÁRIO, EM ENTENDIMENTO PRETÉRITO, QUE TRATAVAM DE CONTRATOS NOS QUAIS PREVISTOS HONORÁRIOS DE ADVOGADO SÓ E TÃO SOMENTE PARA O CASO DE ÊXITO DA DEMANDA (AD EXITUM). PACTO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS QUE, NO CASO, ESTABELECEU REMUNERAÇÃO PARA A FINALIZAÇÃO DE FASES DO CORRESPONDENTE PROCESSO. DISTINGUISHING NECESSÁRIO.
+IMPROCEDÊNCIA DO PEDIDO INAUGURAL. ÔNUS SUCUMBENCIAIS INVERTIDOS. RECURSO CONHECIDO E PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 2.520-2.524).
+Nas razões do recurso especial (fls. 2.539-2.554), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alegou dissídio jurisprudencial e violação dos seguintes dispositivos legais: arts. 85, §§ 1º, 2º e 20, e 1.022, II, e parágrafo único, I, do CPC/2015 e 22 da Lei n. 8.906/1994.
+Asseverou que "O que se busca na presente demanda é o arbitramento dos honorários sucumbenciais, que a parte recorrente foi OBSTADA de receber em razão do encerramento/rescisão do contrato de prestação de serviços" (fl. 2.544).
+Alegou que "a recorrente opôs embargos de declaração com efeitos de prequestionamento e visando eliminar, especialmente, omissão quanto aos precedentes desta Corte" (fl. 2.545).
+Defendeu que, "Quanto ao direito do advogado ao recebimento dos honorários por meio de ação de arbitramento, é o entendimento deste Superior Tribunal de Justiça  ..  a rescisão imotivada, pelo mandante, do contrato de honorários advocatícios, impedindo que o profissional receba remuneração pelo êxito, implica a possibilidade de se pleitear, em juízo, o arbitramento dessa verba, sob pena de autorizar que o cliente se locuplete ilicitamente com o trabalho de seu advogado" (fl. 2.551).
+No agravo (fls. 2.734-2.740), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 2.745-2.755).
+É o relatório.
+Decido.
+No que se refere à suposta ofensa ao art. 1.022 do CPC/2015, a parte recorrente se ateve a formular alegações genéricas de violação desse dispositivo, sem demonstrar de forma específica em que consistiu o vício cometido pelo Tribunal de origem.
+Diante da fundamentação recursal deficiente, que impede a exata compreensão da controvérsia, é inafastável a Súmula n. 284/STF.
+Relativamente ao direito do advogado em perseguir os honorários sucumbenciais, a Corte de origem concluiu que (fls . 2.379-2.381, grifei):
+ ..
+O direito da autora, portanto, não nasceu no momento em que ocorreu a revogação dos poderes antes do término da ação, como por ela afirmado, mas sim poderá surgir quando da possibilidade de "perseguir os honorários de sucumbência" que vierem a ser fixados no processo em que atuou, recebendo parte destes na forma de "rateio" entre os advogados ou sociedades de advocacia que tenham atuado no feito, na forma dos itens 8.4 e 8.8 acima indicados.
+Em verdade, falece qualquer sentido em se pretender "arbitrar honorários de sucumbência" porquanto a existência de tais honorários pressupõe condenação e fixação em sentença em que ocorrida, evidentemente, sucumbência.
+Os honorários de sucumbência que pode a parte autora por rateio exigir são aqueles que eventualmente vierem a ser impostos à parte contrária da correspondente ação, evidentemente não podendo o banco, enquanto vencedor, ser pelo pagamento deles também responsável.
+Até aqui e sta Primeira Câmara de Direito Civil vinha se posicionando pelo acolhimento, em vias recursais, do pedido autoral, fazendo-o todavia com base em precedentes de todo inaplicáveis ao caso.
+Tais precedentes tratavam de contratos onde estabelecidos honorários de advogado só e tão somente para o caso de êxito da demanda ("ad exitum").
+ ..
+No caso em exame, porém, não se está frente a "contrato de prestação de serviços advocatícios com cláusula de remuneração exclusivamente por verbas sucumbenciais", mas sim diante de pacto no qual prevista remuneração pelo decurso de fases processuais, como já sinalado inexistindo afirmação de que tais quantias não tenham sido pagas.
+ ..
+O conjunto das razões apontadas não pode conduzir a conclusão outra que não ser descabido o "arbitramento de honorários sucumbenciais" pretendido pela parte apelada, sendo assim de se acolher a pretensão recursal para se julgar improcedente o pedido inaugural.
+Contudo, no recurso especial, apontando contrariedade aos arts. 85, §§ 1º, 2º e 20, do CPC/2015 e 22 da Lei n. 8.906/1994, a parte sustenta somente que os precedentes do STJ são firmes ao dizerem que é lícito ao advogado que tem seu mandato revogado antes do término da lide ajuizar ação de arbitramento contra seu cliente para receber honorários sucumbenciais proporcionalmente à sua atuação e independentemente do êxito obtido.
+Verifica-se que não houve impugnação a todos os fundamentos do acórdão recorrido, notadamente que os precedentes mencionados aplicam-se "exclusivamente nas hipóteses de destituição unilateral e imotivada de advogado contratado por contrato exclusivamente de risco, isso é, em que sua remuneração se daria unicamente pela sucumbência da parte vencida" (o que não é o caso dos autos), e o de que "Os honorários de sucumbência que pode a parte autora por rateio exigir são aqueles que eventualmente vierem a ser impostos à parte contrária da correspondente ação, evidentemente não podendo o banco, enquanto vencedor, ser pelo pagame nto deles também responsável".
+Ausente impugnação específica dos fundamentos do acórdão recorrido, bem como apresentadas razões dissociadas de seus fundamentos , incidem as Súmulas n. 283 e 284 do STF.
+Por fim, para o conhecimento do recurso especial com base na alínea "c" do permissivo constitucional, seria indispensável demonstrar, por meio de cotejo analítico, que as soluções encontradas tanto na decisão recorrida quanto nos paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Contudo, a parte recorrente não se desobrigou desse ônus, nos termos do art. 1.029, § 1º, do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+ EMENTA
