@@ -1,0 +1,39 @@
+DECISÃO
+Examina-se recurso especial interposto por ASSOCIACAO SANTA SAUDE, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+Recurso Especial interposto em: 05/02/2024.
+Concluso ao gabinete em: 01/04/2025.
+Ação: de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais, ajuizada por J S M O D (MENOR), em face da recorrente, na qual alega, em síntese, que é beneficiário do plano de saúde mantido pela demandada, sendo portador de torcicolo congênito e de assimetria craniana do tipo Plagiocefalia, necessitando do tratamento consistente em uso integral de órtese confeccionada sob medida. No entanto, diante da negativa da requerida em fornecer o tratamento solicitado, ajuizou a presente demanda (e-STJ, fls. 01/14).
+Sentença: julgou procedentes os pedidos, para:
+i) confirmar a liminar concedida anteriormente, a qual determinou a cobertura do tratamento postulado na petição inicial; e
+ii) condenar a parte recorrente ao pagamento de compensação por danos morais, no importe de R$ 15.000,00 - quinze mil reais (e-STJ, fls. 508/510).
+Acórdão: deu parcial provimento à apelação interposta pela parte recorrente, para afastar a condenação ao pagamento de compensação por danos morais; negou provimento à apelação interposta pela parte recorrida.
+Nesse sentir, é a ementa dos julgados:
+PLANO DE SAÚDE - Negativa de cobertura do tratamento de plagiocefalia de que necessitou a menor, beneficiária do plano - Cerceamento de defesa inexistente - Preliminar rejeitada - Cláusula excludente da cobertura para colocação de órtese craniana que não deve prevalecer, se a última é ínsita ao tratamento da doença coberta - Argumento de que os métodos terapêuticos não estão previstos no rol obrigatório da Agência Nacional de Saúde (ANS) não tem o condão de impedir a cobertura - Demorados trâmites administrativos de classificação não podem deixar o paciente a descoberto, colocando em risco bens existenciais - Tratamento não experimental e fornecido no mercado nacional, respaldado em medicina de evidência - Tratamento indicado por médico especialista - Inteligência da Lei 14.454, de 21 de setembro de 2022, que admite cobertura de tratamento não previsto no rol da ANS, observadas as diretrizes estabelecidas em seus dispositivos - Caso concreto se encaixa nas normativas que admitem cobertura - Sentença reformada - Recurso da ré parcialmente provido - Recurso da autora desprovido. (e-STJ, fl. 608)
+Embargos de declaração: opostos pela parte recorrida, foram rejeitados (e-STJ, fls. 664/668).
+Recurso especial: alega violação dos arts. 370, 464, §1º, I, ambos do CPC; 6º do DL 4.657/42; 1º, §1º, "e", e 10, VII, §§ 4º e 12, ambos da Lei 9.656/98; 4º, III, da Lei 9.961/00. Sustenta:
+i) a ocorrência de cerceamento de defesa devido ao indeferimento da prova técnica pleiteada pela operadora de plano de saúde;
+ii) que a Lei 14.454/22 foi aplicada indevidamente, pois não estava em vigor na época dos fatos, ocorrendo violação as disposições da Lei de Introdução às Normas do Direito Brasileiro (LINDB - DL 4.657/42);
+iii) a legalidade da exclusão contratual de cobertura para órteses e próteses não ligadas ao ato cirúrgico; e
+iv) a violação ao poder normativo ANS, o qual que confere à referida agência a competência para definir o que deve ser coberto pelas operadoras de saúde (e-STJ, fls. 628/638)
+Parecer do Ministério Público Federal: da lavra do i. Subprocurador-Geral da República Renato Brill de Góes, opina pelo não conhecimento do recurso especial (e-STJ, fls. 775/770).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 370, 464, §1º, I, ambos do CPC; 6º do DL 4.657/42; 1º, §1º, "e", e 10, § 4º, da Lei 9.656/98; e 4º, III, da Lei 9.961/00, indicados como violados, não tendo a recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da cobertura do tratamento para plagiocefalia posicional (Súmula 568/STJ)
+Esta Corte Superior de Justiça firmou entendimento no sentido de que embora legítima, como regra, a exclusão de cobertura de órtese não ligada a ato cirúrgico, conforme a previsão da lei, no caso de plagiocefalia posicional, a não utilização da órtese causaria a necessidade posterior de tratamento cirúrgico, mais custoso ao plano de saúde e danoso ao paciente, ao qual estaria obrigado o plano de saúde a custear. Desse modo, é abusiva a recusa de tratamento com órtese que preventiva de futura necessária cirurgia.
+Nesse sentido, os seguintes precedentes: AgInt no REsp 2.096.830/RJ, Terceira Turma, DJe de 11/4/2024; AgInt no REsp 1.925.510/DF, Quarta Turma, DJe de 1/12/2023.
+Tem-se, assim, que o acórdão recorrido, ao entender pela cobertura da órtese craniana na hipótese, de forma a detalhar que "No caso em questão, fica claro que a colocação de órtese craniana constitui fase ou caminho necessário para o tratamento curativo, além de prevenir procedimentos cirúrgicos futuros, possivelmente mais custosos e que teriam de ser custeados pela ré." (e-STJ, fls. 616/617), encontra-se em consonância com a jurisprudência desta Corte Superior de Justiça, não merecendo reforma, portanto, nos termos da Súmula 568/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a órtese craniana na hipótese tem condão de prevenir/substituir procedimentos cirúrgicos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ, fl. 621) para 15% , observada eventual concessão de justiça gratuita.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. PLANO DE SAÚDE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL, DE SÚMULA OU ATO NORMATIVA DIVERSO DE LEI FEDERAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS E SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer com pedido de tutela de urgência c/c compensação por danos morais.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. Embora legítima, como regra, a exclusão de cobertura de órtese não ligada a ato cirúrgico, conforme a previsão da lei, no caso de plagiocefalia posicional, a não utilização da órtese causaria a necessidade posterior de tratamento cirúrgico, mais custoso ao plano de saúde e danoso ao paciente, ao qual estaria obrigado o plano de saúde a custear. Desse modo, é abusiva a recusa de tratamento com órtese que preventiva de futura necessária cirurgia. Precedentes.
+4. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que a órtese craniana na hipótese tem condão de prevenir/substituir procedimentos cirúrgicos, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+5 . Recurso especial parcialmente conhecido e, nessa extensão, não provido, com majoração de honorários.
