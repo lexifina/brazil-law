@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de Habeas Corpus impetrado em favor de LEONARDO HENRIQUE DOS SANTOS VITOR em que se aponta como ato coator o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO  no julgamento do Agravo de Execução n. 0002026-78.2025.8.26.0071.
+Consta dos autos que o paciente teve indeferido o pedido de extinção da punibilidade pelo não pagamento da pena de multa.
+Em suas razões, sustenta a impetrante a ocorrência de constrangimento ilegal, uma vez que o inadimplemento da multa pelo condenado que comprovar impossibilidade de fazê-lo , não constitui óbice ao reconhecimento da extinção da punibilidade.
+Requer, em suma, o reconhecimento da extinção da punibilidade.
+É o relatório.
+Decido.
+Constitui ônus do impetrante instruir a inicial do habeas corpus com as peças necessárias ao exame da pretensão nele deduzida a fim de demonstrar o alegado constrangimento ilegal, sob pena de não conhecimento do writ.
+Nesse sentido: AgRg no HC n. 780.331/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, DJe de 17/2/2023; AgRg no HC n. 786.745/PR, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 16/12/2022; RCD no HC n. 760.577/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 19/9/2022).
+No caso, o impetrante não juntou cópia do acórdão apontado como coator, essencial para análise da questão.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intimem-se.
+ EMENTA
