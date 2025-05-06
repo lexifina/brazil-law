@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Pro Doctor Sistema Integrado de Saúde Ltda contra decisão de minha lavra, em que determinei a devolução dos autos ao Tribunal de origem para que aplique as medidas cabíveis previstas nos arts. 1.039, 1.040 e 1.041 do CPC/2015 (fls. 466-468).
+O embargante sustenta que há omissão no julgado, pois não alegação da ilegitimidade passiva da União e, além disso, "a recorrente deixou de impugnar o conhecimento do seu recurso com base no óbice das Súmulas 5 e 126 deste colendo STJ, forçoso o reconhecimento de que seu recurso não satisfaz os requisitos de admissibilidade, já que a integral impugnação do despacho de admissibilidade é critério objetivo de admissibilidade de seu recurso especial, nos termos da Súmula 182/STJ." (fl. 4.078).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na hipótese dos autos, não há irregularidade sanável por meio dos presentes embargos, pois não cabe recurso contra decisão que determina a baixa dos autos à origem para o exercício do juízo de conformação (art. 1.040 e 1.041 do CPC), em virtude do julgamento de recurso especial submetido à sistemática dos recursos repetitivos, salvo se demonstrado erro ou equívoco patente, o que não se verifica no caso dos autos.
+Ademais, cabe ressaltar que a Corte Especial do STJ firmou o entendimento de que "o recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante quanto à apontada contradição no julgado" (EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020).
+Portanto, a toda evidência, a parte embargante, não conformado com o acórdão embargado a seu desfavor, pretende meramente o reexame do mérito da causa, providência incompatível com o presente recurso.
+Ante o exposto, rejeitos os embargos de declaração.
+Fica prejudicado o recurso de fls. 483-4193.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA FINS DE JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
