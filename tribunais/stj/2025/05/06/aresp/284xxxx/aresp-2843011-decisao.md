@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por COLEPAV AMBIENTAL LTDA., fundado no art. 105, III, "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fls. 234/238):
+Justiça Gratuita Ausência de elementos a corroborar a alegação de hipossuficiência dos agravantes Benefício negado Decisão correta - Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 257/262).
+Em suas razões recursais, a parte recorrente alegou violação ao art. 98 do Código de Processo Civil, sustentando, em síntese, a necessidade de que lhe seja deferida a benesse da justiça gratuita, dada a robustez da documentação comprobatória de sua incapacidade financeira jungida aos autos.
+O recurso recebeu crivo negativo de admissibilidade na origem, ascendendo a esta Corte Superior por meio da interposição de agravo.
+É o relatório.
+Decido.
+Quanto à controvérsia, manifestou-se o acórdão recorrido no sentido de que a parte recorrente, mesmo instada a se manifestar, não logrou êxito em comprovar sua situação de incapacidade financeira, resultando no indeferimento do pedido de concessão da benesse da gratuidade de justiça, in verbis (e-STJ, fls. 235/238):
+"Como é cediço, a assistência judiciária foi criada para possibilitar o acesso dos necessitados à Justiça, sendo certo que a simples declaração de pobreza não basta para a concessão do benefício.
+Na realidade, a fim de evitar abusos, o Juiz deve verificar as circunstâncias que cercam os postulantes, tais como profissão, local da residência, total de rendimentos, bem como valor objeto do litígio, haja vista a verdadeira avalanche de ações com pedido de gratuidade da Justiça que têm invadido os Tribunais.
+Nesta instância, fl. 143, em observância ao disposto no art. 99, § 2º, do CPC, fora determinado que apresentasse a recorrente documentos aptos a comprovar a aventada pobreza, incluindo "DIRPJ, declarações de rendimentos e bens dos últimos 03 anos, extratos bancários, extratos de cartão de crédito, todos relativos aos últimos três meses".
+Ocorre que a recorrente não cumpriu integralmente o determinado, eis que não vieram aos autos extratos bancários e faturas de cartões de crédito, sendo certo que os documentos acostados aos autos não evidenciam a aventada pobreza, bem por isso, o pleito foi indeferido, e com razão, valendo o destaque:
+"No caso, em pese à alegada situação financeira difícil, a empresa encontra-se regularmente constituída e não foi cabalmente demonstrada a total ausência de receitas e patrimônio, suficiente para inviabilizar a assunção dos ônus decorrentes desta demanda.
+Inclusive, em duas oportunidades, no protocolo da ação e no momento da oposição do presente recurso, a embargante teria condições de juntar documentação para comprovar sua suposta situação financeira precária, mas não o fez. E agora pede prazo adicional para cumprir oque deveria ter sido feito de início.
+Nessas condições, deferir o benefício, que, em última análise, é custeado pelo Estado, equivaleria a carrear à população os ônus que deveriam ser suportados pela embargante, o que não pode ser admitido.
+Ante o exposto, INDEFIRO o pedido de concessão de gratuidade processual.
+Ademais, desde já, INDEFIRO o diferimento do recolhimento das custas judiciais, a teor do disposto no art. 5º, da Lei 11.608/03."
+Não se olvidando da Súmula 481, do C. STJ, de se observar que, a despeito das razões recursais, a agravante se encontra ativa, não constando, sequer, tenha havido pleito de recuperação judicial ou falência, sendo certo que o fato de existir dívidas ou ações judiciais contra a recorrente, não altera o quadro dos autos, pois como é cediço, a inadimplência não se presta a apoiar o pedido de justiça gratuita.
+(..)
+Tem-se, pois, que não vieram aos autos elementos competentes a autorizar a pleiteada reforma."  g.n
+Nesta senda, consta do comando sumular n. 481/STJ, que o direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com as despesas processuais. Assim, a pretensão da parte recorrente, no sentido de que seja reconhecido seu direito à concessão do benefício, é imprópria ao veio do recurso especial, ante a necessidade de se reexaminar provas, vedada pela Súmula 7/STJ.
+Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DESERÇÃO DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO. REVISÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+1. "É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício" (AgRg nos EREsp 1.222.355/MG, Relator Ministro RAUL ARAÚJO, Corte Especial, julgado em 4/11/2015, DJe de 25/11/2015).
+2. Não configura ofensa ao art. 489 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+4. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência vedada nesta instância, nos termos da Súmula 7/STJ.
+5. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+6. Agravo interno provido para conhecer do recurso especial e negar-lhe provimento.
+(AgInt no REsp n. 2.149.406/AC, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 24/2/2025, DJEN de 27/2/2025)  g.n
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA EMBARGOS À EXECUÇÃO. PESSOA JURÍDICA. GRATUIDADE DA JUSTIÇA. PROVA DA HIPOSSUFICIÊNCIA. REEXAME FÁTICO. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O julgamento monocrático de recurso inadmissível, pela Presidência do STJ, encontra previsão no art. 21-E, V, do RISTJ, que possibilita ao Presidente desta Corte, antes da distribuição, não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente os fundamentos da decisão recorrida. Desse modo, inexiste violação do princípio da colegialidade, ainda mais quando subsiste a possibilidade da interposição de agravo interno contra a deliberação unipessoal.
+2. A alteração da conclusão do acórdão recorrido de não ter ficado comprovados os requisitos para a concessão do benefício da justiça gratuita pleiteado exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.709.209/RS, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 16/12/2024, DJEN de 20/12/2024). g.n
+RECURSO ESPECIAL. DIREITO CIVIL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. RESTITUIÇÃO. COMISSÃO DE CORRETAGEM. PRESCRIÇÃO. PRAZO. PROCESSUAL CIVIL. QUESTÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PESSOA JURÍDICA. GRATUIDADE DE JUSTIÇA. PROVA DA CONDIÇÃO QUE LEGITIMA O BENEFÍCIO. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. Nos termos do Tema 938/STJ, incide a "prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem .." (artigo 206, § 3º, IV, do CC).
+2. Não tendo havido pronunciamento no acórdão do Tribunal de Justiça sobre o conteúdo normativo dos dispositivos tidos por violados, ressente-se o especial do necessário prequestionamento. Súmula 211/STJ.
+3. Consoante a Súmula 481/STJ, o direito à gratuidade da justiça da pessoa jurídica depende da demonstração de sua impossibilidade de arcar com as despesas processuais. Firmar conclusão em sentido contrário à adotada pelo acórdão recorrido, no sentido de deferir o benefício, no caso concreto, encontra óbice na Súmula 7/STJ.
+4. Recurso especial parcialmente conhecido e desprovido.
+(REsp n. 2.063.546/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 31/3/2025, DJEN de 10/4/2025.)  g.n
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
