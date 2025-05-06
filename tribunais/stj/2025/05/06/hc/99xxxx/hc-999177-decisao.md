@@ -1,0 +1,14 @@
+DECISÃO
+ALINE FERNANDES DE SOUZA, condenada por furto qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso de apelação defensivo interposto na origem, mantendo, contudo, o regime fechado para o início do cumprimento de pena, o qual pretende ver modificado nesta oportunidade.
+Entretanto, observo que a pretensão da defesa veiculada neste habeas corpus foi também suscitada no REsp n. 2.105.319/SP, julgado em 18/12/2023 (DJe 19/12/2023), que manteve o regime de cumprimento de pena imposto, nestes termos:
+Quanto à almejada modificação do regime inicial, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., D Je 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., D Je 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., D Je 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., D Je 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso, correta a conclusão do Colegiado estadual, à fl. 215, pela aplicação do regime fechado em desfavor da ré, a despeito de a reprimenda ser inferior a 4 anos de reclusão, pois ela ostenta maus antecedentes e é reincidente. A propósito  ..
+Logo, o presente writ se trata de mera reiteração de pedido já analisado por esta Corte, situação que obsta o seu conhecimento.
+Com efeito, é pacífico "o entendimento no sentido de que "não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Relator Ministro Reynaldo Soares da fonseca, Quinta Turma, julgado em 10/09/2019, DJe 18/09/2019)" (AgRg no HC n. 898.653/RJ, relator Ministro Reynaldo Soares da Fonseca, DJe de 29/5/2024).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se e intimem-se.
+EMENTA
