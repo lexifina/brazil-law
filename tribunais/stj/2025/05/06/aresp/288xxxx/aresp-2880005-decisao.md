@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por RICARDO HENRIQUE ALVES PEREIRA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS que inadmitiu recurso especial dirigido contra o acórdão prolatado Apelação Criminal n. 1.0000.24.208044-8/001 (fls. 295/302).
+Os embargos de declaração opostos foram rejeitados (fls. 318/321).
+No recurso especial, a defesa contestou a dosimetria da pena, requerendo, em síntese, a reforma do acórdão recorrido para, reconhecendo a circunstância atenuante da confissão espontânea, compensá-la com a agravante da reincidência (fl. 335).
+Inadmitido o recurso na origem (fls. 346/347), subiram os autos ao Superior Tribunal de Justiça por meio do presente agravo (fls. 353/364).
+O Ministério Público Federal apresentou parecer pelo conhecimento e provimento do agravo em recurso especial, a fim de que incida, na pena do agravante, a atenuante da confissão espontânea (fls. 385/386).
+É o relatório.
+Conheço do agravo, pois presentes seus pressupostos de admissibilidade.
+Estou de acordo com o Subprocurador-Geral da República: o recurso merece provimento.
+No caso dos autos, o próprio Tribunal de origem reconheceu que o réu, nas esferas policial e judicial, confessou estar na posse do aparelho celular produto de crime, negando o conhecimento da origem ilícita do bem, sustentando que o havia herdado de sua falecida esposa, conforme se extrai da fundamentação lançada às fls. 298/301.
+O Tribunal considerou as declarações do réu ao formar seu convencimento sobre a materialidade do delito, afirmando que: No caso dos autos, no entanto, o réu não se desincumbiu do aludido ônus probante, porquanto sua alegação de que recebera o aparelho telefônico como uma herança, desconhecendo sua procedência ilícita, não restou amparado em qualquer prova coligida, tendo o acusado sequer apresentado comprovação de que tivesse efetivamente herdado o celular, bem como o recebido de boa-fé (fls. 300/301).
+A Súmula 545/STJ estabelece que, quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal.
+No caso, o acórdão recorrido utilizou as declarações do ora agravante para fundamentar a condenação, especialmente quanto à materialidade do delito. Dessa forma, impõe-se o reconhecimento da atenuante da confissão espontânea, prevista no art. 65, III, d, do Código Penal. Veja-se, a propósito: AgRg no AREsp n. 1.575.697/PR, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 12/5/2020, DJe de 28/5/2020.
+Passo, então, a realizar a nova dosimetria da pena, considerando o reconhecimento da atenuante da confissão espontânea:
+Na primeira fase, mantenho a pena fixada pelo Tribunal de origem, em 1 ano, 4 meses e 15 dias de reclusão, e 11 dias-multa. Na segunda fase, considerando o equívoco operado pelo Tribunal a quo, incide a atenuante da confissão espontânea (art. 65, III, d, do CP), a qual deve ser compensada com a agravante da reincidência, de maneira que retorno a pena ao patamar de 1 ano, 4 meses e 15 dias de reclusão, e 11 dias-multa. Na terceira fase, inexistentes causas de aumento ou diminuição de pena, torno definitiva a pena em 1 ano, 4 meses e 15 dias de reclusão, e ao pagamento de 11 dias-multa.
+Quanto ao regime inicial de cumprimento da pena, mantenho o regime semiaberto fixado pelo Tribunal a quo, em razão da reincidência do réu, nos termos do art. 33, § 2º, c, e § 3º, do Código Penal, e em conformidade com a Súmula n. 269/ STJ.
+Mantenho as demais disposições do acórdão, no que se refere à impossibilidade de substituição da pena privativa de liberdade por restritivas de direitos ou de concessão de suspensão condicional da pena, por não estarem preenchidos os requisitos legais, nos termos dos arts. 44, III, e 77, II e III, ambos do Código Penal.
+Ante o exposto, em consonância com o parecer ministerial, conheço do agravo para dar provimento ao recurso especial, a fim de reconhecer a incidência da atenuante da confissão espontânea na segunda fase da dosimetria da pena, reduzindo a pena aplicada para 1 ano, 4 meses e 15 dias de reclusão, e 11 dias-multa, a ser cumprida em regime inicial semiaberto, nos termos desta decisão.
+Publique-se.
+EMENTA
+DIREITO PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. DOSIMETRIA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO ESPONTÂNEA. CONFISSÃO PARCIAL. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. SÚMULA 545/STJ. REDIMENSIONAMENTO DA PENA.
+Agravo conhecido para dar provimento ao recurso especial, nos termos da fundamentação.
