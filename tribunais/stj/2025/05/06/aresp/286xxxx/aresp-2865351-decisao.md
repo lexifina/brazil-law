@@ -1,0 +1,70 @@
+DECISÃO
+Cuida-se de agravo de THIAGO BARBOZA contra decisão proferida no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que inadmitiu o recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido no julgamento da Apelação Criminal n. 5015729-57.2023.4.04.7200.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. art. 334-A, § 1º, IV, do Código Penal (contrabando), à pena de 2 (dois) anos de reclusão (fl. 133).
+Recurso de apelação interposto pela defesa foi desprovido (fl. 224). O acórdão ficou assim ementado:
+"PENAL. APELAÇÃO DEFENSIVA. ART. 334-A, § 1º, INCISO IV, DO CÓDIGO PENAL C/C ART. 3º DO DECRETO-LEI 399/68. CONTRABANDO DE CIGARROS. PRELIMINAR DE NULIDADE DA BUSCA PESSOAL E DA SUBSEQUENTE BUSCA VEICULAR. NÃO ACOLHIDA. CONJUNTO PROBATÓRIO. SUFICIÊNCIA. CONDENAÇÃO MANTIDA. RESTITUIÇÃO DOS VALORES APREENDIDOS. DESCABIMENTO. ORIGEM ILÍCITA. RECURSO DESPROVIDO." (fl. 225)
+Em sede de recurso especial (fls. 233/263), a defesa apontou violação aos arts. 240, § 2º, 244 e 386, VII, todos do CPP, porque o TRF4 manteve a condenação com base em provas nulas, dada a ilegalidade da busca realizada pelos policiais.
+Em seguida, apontou violação ao art. 91, II, b, do CP, porquanto o TRF4 manteve o perdimento de valores fora das hipóteses legais.
+Requer, por fim, a declaração de nulidade da busca veicular e a absolvição do recorrente, com o consequente reconhecimento da nulidade da decretação da perdimento de valores.
+Contrarrazões do MINISTÉRIO PÚBLICO FEDERAL (fls. 270/283).
+O recurso especial foi inadmitido no TRF4 em razão do óbice da Súmula n. 83 do Superior Tribunal de Justiça (fls. 286/287).
+Em agravo em recurso especial, a defesa impugnou os referidos óbices (fls. 295/325).
+Contraminuta do Ministério Público (fls. 329/338).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao Ministério Público Federal, este opinou pelo desprovimento do agravo em recurso especial e, subsidiariamente, pleiteia o desprovimento do recurso especial (fls. 353/359).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passo à análise do recurso especial.
+Sobre a alegada violação aos arts. 240, § 2º, 244 e 386, VII, todos do CPP, o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO manteve a condenação do recorrente e não reconheceu a nulidade das provas, nos seguintes termos do voto do relator (grifos nossos):
+" ..  2. Preliminar de nulidade das buscas que culminaram na apreensão dos cigarros
+A defesa alega que não havia fundadas razões aptas a justificar a busca pessoal e a subsequente busca veicular realizadas na ocasião do flagrante do acusado, argumentando que o mero "nervosismo", na linha da jurisprudência do STJ, não é suficiente para legitimar a realização de tais medidas invasivas. Requer, assim, o reconhecimento de nulidade das referidas diligências, com o consequente desentranhamento dos autos das provas delas decorrentes.
+ ..
+No caso dos autos, entendo que não há ilegalidade a ser reconhecida, porquanto as buscas realizadas, diferentemente do que aduz a defesa, não foram efetivadas única e exclusivamente com base no suposto nervosismo do acusado.
+Com efeito, os agentes públicos participantes da ocorrência, ao narrarem em juízo o fato de forma coerente entre si, disseram que na ocasião descrita na denúncia estavam fazendo uma barreira policial ("blitz"), quando então constataram que diversos condutores, dentre eles o réu, estacionaram os veículos antes de chegarem no local da fiscalização, a fim de não serem abordados. Ato contínuo, segundo afirmado, o réu desceu do seu veículo e seguiu a pé, em posse de uma sacola preta, e ainda ficou constantemente observando os policiais, aparentando nervosismo, razões pelas quais efetuaram as buscas e lograram apreender os cigarros.
+Cabe acrescentar que o próprio acusado admitiu em seu interrogatório judicial que de fato desceu do veículo antes de chegar à barreira policial com a finalidade de não ser abordado, bem como que portava uma sacola que estava carregada com cigarros de origem estrangeira.
+Ora, não há como negar que as circunstâncias acima mencionadas demonstram que houve o preenchimento do requisito das fundadas razões para a realização da busca pessoal e da subsequente busca veicular.
+Pensar de outra maneira representa mera negativa da atuação preventiva que a polícia militar deve exercer em sede de segurança pública. Aliás, em sendo acolhendo tal raciocínio, sequer se justificaria qualquer operação que envolvesse uma barreira policial, o que, com a devida vênia, beira o absurdo.
+ ..
+Logo, não acolho a alegação de nulidade.
+ ..
+No caso concreto, a conduta imputada amolda-se ao delito de contrabando, pois, segundo consta, o réu teria sido flagrado em posse de 03 pacotes e 123 caixas de cigarros de origem estrangeira (totalizando 1.230 maços), que estavam desacompanhados de documentação comprobatória de regular internalização no território nacional.
+No que diz respeito à tipicidade material, apesar de inexistir requerimento, ressalto ser inaplicável o princípio da insignificância ao caso dos autos, na medida em que a apreensão superou o parâmetro de 1.000 (mil) maços recentemente estabelecido pelo Superior Tribunal de Justiça (Tema Repetitivo nº 1143, no âmbito dos R Esp 1971993/SP e 1977652/SP).
+Portanto, a conduta atribuída ao réu é formal e materialmente típica.
+4. Materialidade, autoria, dolo, ilicitude e culpabilidade
+Superada a tese de nulidade das buscas que resultaram na apreensão dos cigarros, consigno não ter havido insurgência da defesa em relação à materialidade, à autoria e ao dolo do acusado quanto à imputação da exordial.
+De qualquer sorte, analisando o feito, não vejo razões para reformar de ofício a sentença condenatória proferida pelo Juízo a quo, que se encontra em consonância com as provas produzidas ao longo da persecução penal, inclusive com a confissão judicial do acusado.
+Além disso, não restaram arguidas excludentes de ilicitude ou culpabilidade.
+Destarte, restando devidamente comprovados a materialidade, a autoria e o dolo, bem como em se tratando de fato típico, ilícito e praticado por agente culpável, deve ser mantida a condenação do acusado pelo crime de contrabando de cigarros." (fl. 216/222).
+Extrai-se dos trechos acima destacados que a condenação do recorrente foi fixada e mantida com base no conjunto probatório produzido nos autos, especialmente no auto de prisão em flagrante, no Termo de Apreensão 603802/2022 (123 pacotes de cigarros de procedência estrangeira), no Auto de Infração com Apreensão de Mercadorias 0927500-15328/2022, na Representação Fiscal para Fins Penais e na prova oral colhida sob o crivo do contraditório e da ampla defesa.
+Conforme restou expresso no acórdão recorrido, a busca pessoal e a subsequente busca veicular foram realizadas durante patrulhamento de rotina, ocasião na qual os policiais perceberam que o réu desceu do seu veículo e seguiu a pé na posse de uma sacola preta, aparentando nervosismo e observando constantemente os policiais (fl. 219).
+Destarte, constata-se que houve fundadas suspeitas para a busca. Tanto é assim que o recorrente foi flagrado na posse de produto contrabandeado (cigarros de origem estrangeira). Em síntese, segundo a conclusão do Tribunal de origem, o recorrente foi abordado por ter tentado se esquivar da barreira policial quando portava material contrabandeado.
+Sendo assim, para se concluir de modo diverso e acolher as teses defensivas acerca da nulidade da busca veicular e da inexistência de provas válidas suficientes para a condenação, seria necessário o revolvimento do conjunto probatório produzido nos autos, o que é vedado no recurso especial conforme Súmula n. 7 do Superior Tribunal de Justiça, que assim estabelece: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido, cita-se precedente (grifos nossos):
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA PESSOAL E VEICULAR. FUNDADA SUSPEITA DE PORTE DE CORPO DE DELITO. CONFIGURAÇÃO. FUGA DE BLITZ DE TRÂNSITO. APLICAÇÃO DA MINORANTE EM PATAMAR INFERIOR AO MÁXIMO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO NÃO PROVIDO.
+ ..
+2. No caso, a diligência foi justificada por fuga de blitz de trânsito, mediante mudança de pista e aceleração repentina com o veículo. A fuga é suficiente para a busca pessoal e veicular, conforme entendimento da Terceira Seção desta Corte Superior HC n. 877.943/MS (Rel. Ministro Rogerio Schietti, j. 18/4/2024).
+ ..
+4. Agravo regimental não provido.
+(AgRg no REsp n. 2.181.502/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 9/4/2025, DJEN de 15/4/2025.)
+DIREITO PROCESSUAL PENAL. DIREITO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. BUSCA VEICULAR. FUNDADAS SUSPEITAS. MINORANTE DO TRÁFICO PRIVILEGIADO. NÃO CABIMENTO. ELEMENTOS CONCRETOS. QUANTIDADE DE DROGAS E DEMAIS CIRCUNSTÂNCIAS. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO IMPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça firmou a compreensão de que a validade da busca pessoal está condicionada à existência de fundadas suspeitas, amparadas em situação fática que, diante das peculiaridades e dinâmica dos acontecimentos próprios da diligência policial, demonstre clareza e objetividade quanto à posse, por parte do investigado, de objeto que constitua corpo de delito
+2. No caso concreto, o agravante, ao perceber a aproximação da viatura policial militar rodoviária, assustou-se e desviou algumas vezes para o acostamento, demorando a atender à ordem de parada. Ao ser abordado, demonstrou excesso de nervosismo e apresentou versões contraditórias sobre sua viagem. Na vistoria do automóvel, os policiais encontraram um celular quebrado no assoalho e um compartimento oculto contendo um tijolo de cocaína, elementos que fundamentaram a busca realizada.
+3. Não há evidência de que a diligência levada a efeito pela polícia tenha ocorrido por mero subjetivismo decorrente de motivos preconceituosos, estereotipados ou com intuito discriminatório de raça ou condição social, o que, sem dúvida, invalidaria a busca, na linha da jurisprudência desta Corte Superior.
+4. Presentes as fundadas suspeitas que amparam a atuação policial, conforme precedentes do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+5. Ademais, a desconstituição da conclusão exarada pelo Tribunal local implicaria revolvimento de matéria fático-probatória, o que não se coaduna com a presente via, nos termos da Súmula n. 7 do STJ. .. ."
+(AgRg no AREsp 2585474/SP, Relator Ministro OG FERNANDES, Órgão Julgador: SEXTA TURMA, Data do Julgamento: 20/03/2025, Data da Publicação/Fonte: DJEN 27/03/2025).
+Quanto ao pleito de declaração da nulidade da decretação da perda de valores como efeito da condenação, o TJ reputou que os bens apreendidos constituíram produto direto da atividade criminosa, sendo, por isso, incidente o disposto no art. 91, II, "b" do CP (fl. 223).
+Destarte, conclusão diversa esbarra no óbice da Súmula n. 7 desta Corte. Nesse exato sentido, cita-se precedente (grifos nossos):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. NULIDADE DAS INTERCEPTAÇÕES TELEFÔNICAS. INOCORRÊNCIA. COOPERAÇÃO JURÍDICA INTERNACIONAL. DESNECESSIDADE. COMUNICAÇÕES TELEFÔNICAS E TELEMÁTICAS TRAVADAS EM SOLO NACIONAL. QUEBRA DA CADEIA DE CUSTÓDIA DA PROVA DIGITAL. INOCORRÊNCIA. INEXISTÊNCIA DE INDÍCIOS QUE COMPROMETAM A FIABILIDADE DOS DADOS ESTANQUES. TESE DE CRIME IMPOSSÍVEL NÃO ANALISADA PELA CORTE A QUO. SÚMULA 282/STF. TESE DE AUSÊNCIA DA PRÁTICA DE FATO TÍPICO PELA RECORRENTE. INVIAIBILIDADE DE ACOLHIMENTO. SÚMULA 7/STJ. REVERSÃO DA CONCLUSÃO ACERCA DA TRANSNACIONALIDADE DO DELITO. SÚMULA 7 DESTA CORTE. PERDIMENTO DE BENS. ALEGAÇÃO DEFENSIVA DE QUE OS BENS SÃO DE ORIGEM LÍCITA. REVERSÃO DA CONCLUSÃO OBTIDA PELAS INSTÂNCIAS DE ORIGEM. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+12. Inexiste afronta aos arts. 61, 62 e 63 da Lei n. 11.343/06, porquanto a decisão que determinou o perdimento de bens se deu de maneira fundamentada e calcada nos elementos de prova adunados aos autos. De mais a mais, "A análise da tese defensiva de que seria lícita a origem dos bens cujo perdimento foi decretado demandaria o revolvimento de matéria fático- probatório, vedado pela Súmula 7/STJ" (EDcl no AgRg no REsp n. 1.525.199/RS, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/8/2016, DJe de 1/9/2016).
+13. Agravo regimental desprovido.
+(AgRg no REsp n. 1.958.937/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/3/2025, DJEN de 31/3/2025.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE EXTORSÃO. PLEITO DE RESTITUIÇÃO DOS BENS APREENDIDOS. DISCUSSÃO ACERCA DA ORIGEM DOS BENS. INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ÔNUS PROBATÓRIO ACERCA DA ORIGEM DOS BENS. SÚMULA N. 284/STF. DISPOSITIVO LEGAL APONTADO COMO VIOLADO NÃO CORRESPONDE À TESE RECURSAL SUSCITADA. PROVA "DIABÓLICA". TESE NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A discussão acerca do perdimento dos bens, na forma do art. 91, II, b, do CP, se de origem lícita ou ilícita, encontra óbice na Súmula n. 7 do STJ, por demandar a incursão no acervo fático-probatório dos autos.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.211.228/DF, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 18/4/2023, DJe de 24/4/2023.)
+Devido à consonância do entendimento do TJ com a jurisprudência desta Corte, também incide, no presente caso, o óbice disposto na Súmula n. 83 do STJ, que assim estabelece: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, n ão conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
