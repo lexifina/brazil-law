@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto BANCO SANTANDER (BRASIL) S/A contra decisão exarada pela il. Terceira Vice-Presidência do eg. Tribunal de Justiça do Estado de Minas Gerais (TJ-MG) que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo nas alíneas "a" e "c" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 1.143):
+"EMENTA: AGRAVO DE INSTRUMENTO - "AÇÃO DE OBRIGAÇÃO DE FAZER, C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS, E TUTELA DE URGÊNCIA" - INSTITUIÇÃO FINANCEIRA - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE - DENUNCIAÇÃO À LIDE DOS CORRETORES DE IMÓVEIS QUE INTERMEDIARIAM O NEGÓCIO JURÍDICO OBJETO DO LITÍGIO - ARTIGO 88 DO CDC E SÚMULA 479 DO SUPERIOR TRIBUNAL DE JUSTIÇA. I - Conforme disposto no artigo 88 do Código de Defesa do Consumidor, tratando-se de relações de consumo, descabe a denunciação à lide, sendo possível, caso necessário, a ação de regresso. II - Para o Superior Tribunal de Justiça, "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+Nas razões do apelo nobre (fls. 1.156-1.174), BANCO SANTANDER (BRASIL) S/A alega, além de divergência jurisprudencial, violação aos arts. 13, 14 e 88 do Código de Defesa do Consumidor (CDC) e ao art. 125 do CPC/15, afirmando, entre outros argumentos, que "(..) o pleito indenizatório decorre de suposta fraude perpetrada por terceiros que, ao ludibriaram o Recorrido a adquirir os crédito decorrentes de Cédula de Crédito Bancária emitida pela intuição Recorrente, correspondente ao décuplo do valor quitado através de boleto fraudulento; ou seja, trata-se de circunstância na qual, em que pese vislumbrada a aplicabilidade do ordenamento consumerista, não se demonstrou qualquer conduta comissiva ou omissiva desta instituição recorrente que viesse a corroborar ao nexo causal aventado em exordial" (fls. 1.166).
+Defende, também, que "(..) foram devidamente indicados na peça exordial, assim como contestatória os intermediários da transação fraudulentas e supostos partícipes da ação ilícita, razão pela qual infere-se, da hermenêutica não só empregada ao art. 125, inc. II do Código de Processo Civil, porém, igualmente, aos artigos 186 e 927 do compêndio normativo civilista, a possibilidade de acionamento do instituto da denunciação à lide a presente, eis que subsumi ao contexto aventado" (fls. 1.166).
+O apelo nobre foi inadmitido (decisão às fls 1.197-1.198), motivando o manejo do agravo em recurso especial (fls. 1.201-1.212) em testilha.
+Intimado, OSNEY RODRIGUES DA SILVA RODOVALHO ofereceu contraminuta (fls. 1.216-1.219) pelo desprovimento do agravo.
+É o relatório. Passo a decidir.
+Com efeito, o eg. TJ-MG indeferiu o pedido de denunciação da lide, assentando que tal instituto não se aplica nos casos de relação de consumo, a teor do disposto no art. 88 do CDC. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 1.144-1.149):
+"Trata-se de Agravo de Instrumento interposto por BANCO SANTANDER, em face da decisão, ordem 87, proferida pelo MM. Juiz de Direito, Paulo Fernando Naves de Resende, da 7ª Vara Cível da Comarca de Uberlândia/MG, que nos autos da "AÇÃO DE OBRIGAÇÃO DE FAZER, C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS, E TUTELA DE URGÊNCIA", movida pelo agravado, OSNEY RODRIGUES DA SILVA RODOVALHO, em face do agravante, indeferiu o pedido, formulado pelo recorrente, de denunciação à lide (intervenção de terceiros):
+" ..  A parte ré requer a denunciação à lide dos Corretores de Imóveis Sílvio Gomes Alexandrino e Reginaldo Piqui, e dos Advogados Fabrício Matarazzo e Marcelo Caetano da Silva, com o que discorda o autor em réplica (ID 1433524830 - fls. 6 a 8), sob o fundamento de que os referidos intermediadores da negociação devolveram os valores dos quais eventualmente se beneficiaram. Registro que, a condenação dos corretores e do advogado não compõe a causa de pedir desta demanda. Porquanto, a questão fática não se subsume às hipóteses específicas de cabimento previstas no art. 125 do CPC. Indefiro, pois, o pedido de denunciação à lide formulado na contestação.  .. ".
+(..)
+Examinando detidamente os autos, é acertado, a meu ver, a manutenção da decisão impugnada, até porque decidiu o Magistrado de primeiro grau em consonância com a legislação vigente, a jurisprudência deste Egrégio Tribunal de Justiça e do Superior Tribunal de Justiça.
+"EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - RELAÇÃO DE CONSUMO - DENUCNIAÇÃO DA LIDE - VEDAÇÃO LEGAL - RETRATAÇÃO DO JUÍZO - PRECLUSÃO PRO JUDICATO - NÃO CONFIGURAÇÃO. I. Nos termos do art. 88, do CDC, é expressamente vedada a denunciação da lide em causas referentes à relação de consumo.  .. . (TJMG - Agravo de Instrumento-Cv 1.0000.22.241754-5/001, Relator(a): Des.(a) Joemilson Donizetti Lopes , 12ª CÂMARA CÍVEL, julgamento em 24/11/2022, publicação da súmula em 30/11/2022)".
+(..)
+Tratando-se de ação fundada em relação de consumo, a denunciação a lide é expressamente vedada pela legislação consumerista - artigo 88 do Código de Defesa do Consumidor, sendo possível a ação de regresso, caso necessário.
+"Artigo 88. Na hipótese do art. 13, parágrafo único deste código, a ação de regresso poderá ser ajuizada em processo autônomo, facultada a possibilidade de prosseguir-se nos mesmos autos, vedada a denunciação da lide."
+Vale destacar o disposto na Súmula 479 do Superior Tribunal de Justiça, pois as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias.
+Logo, fica evidente não ser possível a inclusão dos corretores de imóveis Sílvio Gomes Alexandrino e Reginaldo Piqui, e dos advogados Fabrício Matarazzo e Marcelo Caetano da Silva no polo passivo da ação de origem."
+(g. n.)
+Com efeito, não se infere violação aos aludidos dispositivos legais, uma vez que o entendimento do eg. TJ-MG corrobora a jurisprudência desta eg. Corte, como se verifica da leitura dos seguintes precedentes:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Nos termos da jurisprudência desta Corte Superior, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor. Incidência do óbice da Súmula 83/STJ.
+2. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 2.618.544/SP, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 17/3/2025, DJEN de 24/3/2025 - g. n.)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DENUNCIAÇÃO DA LIDE. RELAÇÃO DE CONSUMO. VEDAÇÃO. VÍCIO DE CONSTRUÇÃO NO IMÓVEL. PRETENSÃO INDENIZATÓRIA. SUJEIÇÃO AO PRAZO PRESCRICIONAL. SÚMULA N. 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+(..)
+2. "O entendimento desta Corte Superior é de que, em se tratando de relação de consumo, descabe a denunciação da lide, nos termos do art. 88 do Código de Defesa do Consumidor" (AgInt no AREsp 2.026.035/RN, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022).
+(..)
+7. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.335.690/SP, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 11/9/2023, DJe de 19/9/2023 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. DENUNCIAÇÃO DA LIDE. ART. 125 DO CPC/2015. INEXISTÊNCIA DE OBRIGATORIEDADE. INTRODUÇÃO DE FUNDAMENTO JURÍDICO NOVO. IMPUTAÇÃO DE RESPONSABILIDADE A TERCEIRO. RELAÇÃO DE CONSUMO. DESCABIMENTO. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. O Código de Processo Civil de 2015, ao contrário do Código anterior, não prevê a obrigatoriedade da denunciação da lide em nenhuma de suas hipóteses. Ao contrário, assegura o exercício do direito de regresso por ação autônoma quando indeferida, não promovida ou proibida (CPC/2015, art 125, caput, e § 1º).
+2. Nos termos da jurisprudência desta Corte: "É inviável a denunciação da lide com fundamento no art. 125, II, do CPC/2015 nas hipóteses em que não se verifica direito de regresso, mas a pretensão do denunciante ao reconhecimento de culpa de terceiro pelo evento danoso." (AgInt no AREsp 1371445/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/09/2019, DJe 21/10/2019).
+3. No caso, reconhecida pelas instâncias ordinárias a qualidade da parte autora como consumidora por equiparação (arts. 17 e 22 do CDC), aplica-se o entendimento desta Corte acerca do descabimento da denunciação da lide, ante a vedação expressa do art. 88 do CDC.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 1.575.808/SP, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 25/5/2021, DJe de 16/6/2021 - g. n.)
+Nesse cenário, estando o v. acórdão estadual em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. DIREITO CIVIL. COTAS CONDOMINIAIS. EXECUÇÃO. NATUREZA PROPTER REM. BEM PENHORADO. POSSIBILIDADE. PROMITENTE-VENDEDOR. TRIBUNAL DE ORIGEM SE FIRMOU NO MESMO SENTIDO. SÚMULA 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83 do STJ), entendimento aplicável tanto para a hipótese da alínea "c" do art. 105, III, da Constituição Federal, como da alínea "a" do mesmo dispositivo.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.170.815/PR, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 22/5/2023, DJe de 25/5/2023 - g. n.)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. CONTRATO DE ALUGUEL DE COFRE. ROUBO. CLÁUSULA LIMITATIVA DE USO. VALIDADE. PRECEDENTES DO STJ.
+(..)
+2. O óbice da Súmula n. 83 do STJ é aplicável aos recursos especiais tanto fundados na alínea a quanto na alínea c do permissivo constitucional.
+3. Agravo interno desprovido."
+(AgInt no REsp n. 1.746.238/SP, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024 - g. n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROTESTO JUDICIAL INTERRUPTIVO DE PRESCRIÇÃO. NATUREZA DE JURISDIÇÃO VOLUNTÁRIA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO DO TRIBUNAL DE ORIGEM. DEFERIMENTO DE PROTESTO JUDICIAL NÃO CONTÉM JUÍZO MERITÓRIO SOBRE A OBRIGAÇÃO. A CORTE A QUO DECIDIU DE ACORDO COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+(..)
+3. Indubitável a incidência, no caso, da Súmula n. 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", à qual se aplicam as hipóteses das alíneas "a" e "c" do art. 105, inciso III, da Constituição Federal.
+Agravo interno improvido."
+(AgInt no AREsp n. 2.089.161/RJ, relator MINISTRO HUMBERTO MARTINS, Terceira Turma, julgado em 8/4/2024, DJe de 12/4/2024 - g. n.)
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
