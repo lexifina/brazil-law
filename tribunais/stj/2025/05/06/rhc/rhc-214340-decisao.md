@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto em favor de GIULLIANO PUGA DA CRUZ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no Habeas Corpus n. 5015103-45.2025.8.24.0000, assim ementado (fl. 314):
+HABEAS CORPUS . SUSPENSÃO CONDICIONAL DO PROCESSO. IMPOSSIBILIDADE DE REPARAR O DANO (LEI 9.099/95, ART. 89, § 1º, I). AUSÊNCIA DE DEMONSTRAÇÃO DA CONDIÇÃO ECONÔMICA DO ACUSADO.
+É inviável reconhecer que o denunciado, acusado da prática de crimes contra a ordem tributária, é impossibilitado de reparar o dano causado pela infração, a ponto de eximi-lo da correspondente condição do sursis processual, se não há prova da condição econômica atual do agente, apenas informação sobre o débito pessoal que angariou.
+ORDEM DENEGADA.
+Consta nos autos que o recorrente foi denunciado como incurso no artigo 2º, inciso II, c/c o artigo 12, inciso I, ambos da Lei n. 8.137/1990, por 17 vezes, na forma do artigo 71 do Código Penal (fls. 24/34). Proposta a suspensão condicional do processo, o recorrente afirmou não ter condições financeiras de arcar com a condição imposta de reparação integral do dano e o Juízo de primeira instância estipulou prazo para oferecimento de Resposta à Acusação.
+Impetrado habeas corpus pela Defesa, o Tribunal de origem denegou a ordem (fls. 312/314).
+Relata a Defesa que o recorrente foi denunciado como incurso no art. 2º, inciso II, da Lei n. 8.137/90, na forma do art. 71 do Código Penal, por 17 vezes, tendo sido afirmado que ora paciente (fl. 324):
+cometeu 17 crimes tributários, pois estava a frente da empresa LBM INDUSTRIA E COMERCIO DE CONFECCOES LTDA, reiteradamente deixou de recolher, no prazo legal, valores de ICMS cobrados na qualidade de sujeito passivo de obrigação, e que deveriam ter recolhido aos cofres públicos, gerando um débito de imposto perante o Fisco Estadual no valor total de R$5.776.553,01 (cinco milhões setecentos e setenta e seis mil quinhentos e cinquenta e três reais e um centavo), somente em impostos, que quando acrescentados a multa e juros, e descontados os valores pagos em parcelamentos, totalizam R$4.630.147,12 (quatro milhões seiscentos e trinta mil cento e quarenta e sete reais e doze centavos), ou seja, se está diante de mais de R$ 10.000.000,00 (dez milhões de reais).
+Sustenta que o recorrente teve cerceado o seu direito à suspensão processual em razão de condição imposta pelo Ministério Público e tal condição além de indevida, na medida em que se refere à dívida fiscal da empresa que deverá ser perseguida, nos termos da Lei de Execução Fiscal, pelo ente administrativo titular do crédito e perante o órgão judicial competente (fl. 325).
+Pontua que é vedada a cobrança indireta de dívida tributária através do Juízo criminal.
+Requer seja provido o recurso para determinar (fl. 340):
+02.1 - O afastamento da condição prevista na "Proposta de Suspensão Condicional do Processo" oferecida pelo Parquet em audiência;
+02.2 - Que seja designada nova audiência para que o Parquet ofereça nova "Proposta de Suspensão Condicional do Processo" ao Paciente, sem a exigência de pagamento do tributo devido pela empresa LBM Industria e Comercio de Confecções Ltda.
+03 Seja intimado o Membro do MP, para que se manifeste.
+04 Seja deferida a justiça gratuita em favor do Impetrante e do Paciente;
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 394/397).
+É o relatório.
+DECIDO.
+O pleito não prospera.
+Consta da denúncia (fl. 26):
+ ..  Como se pode observar, o denunciado, à frente da empresa LBM INDUSTRIA E COMERCIO DE CONFECCOES LTDA, reiteradamente deixou de recolher, no prazo legal, valores de ICMS cobrados na qualidade de sujeito passivo de obrigação, e que deveríam ter recolhido aos cofres públicos, gerando um débito de imposto perante o Fisco Estadual no valor total de R$5.776.553,01 (cinco milhões setecentos e setenta e seis mil quinhentos e cinquenta e três reais e um centavo), somente em impostos , que quando acrescentados a multa e juros, e descontados os valores pagos em parcelamentos, totalizam R$4.630.147,12 (quatro milhões seiscentos e trinta mil cento e quarenta e sete reais e doze centavos).  ..
+No voto condutor do acórdão, foi consignado (fls. 312/313 - grifamos):
+ ..
+O mandamus deve ser conhecido, e a ordem, denegada.
+A alegação de impossibilidade de arcar com a reparação do dano, com a devida vênia, não foi demonstrada.
+Não nego que o Paciente Giulliano Puga da Cruz ostente considerável débito pessoal ou que seja frequentemente demandado (inclusive em Juízo) para adimplir valores relacionados à atividade empresarial. Mas a condição financeira do Paciente, que é o fator que poderia tornar impraticável o adimplemento da condição do sursis processual, não foi informada. Não há indicativo de seu patrimônio ou de suas atuais fontes de renda - ou de onde, por exemplo, obtém verba para adimplir as despesas relacionadas à Land Rover/Defender que possui (Evento 1, doc9, p. 36), automóvel cuja avaliação, pela tabela Fipe, excede meio milhão de reais.
+Isso é relevante porque o débito acumulado não é necessariamente indicativo das condições econômicas do sujeito. Por exemplo, Donald Trump ostentava, em 2015, débito pessoal que alcançava US$ 265.000,00 (https://web. archive. org/web/20150801033902/https://finance. yahoo. com/news/donald- trump-wealth-details-released-federal-regulators-165854286--finance. html), e ele não era exatamente conhecido por passar por penúria naquela época (o prelúdio de sua primeira eleição como presidente dos Estados Unidos da América).
+Robert Kiyosaki, o autor do livro "Pai Rico, Pai Pobre", também angariou, até 2024, débito pessoal que supera US$ 1.200.000,00 (https://www. ndtv. com/feature/rich-dad-poor-dad-author-robert-kiyosaki-says-he-is-1-2-billion-in-debt-4799407); e há exemplos nacionais de indivíduos notoriamente abastados com enorme dívida pessoal (https://fpabramo. org. br/focusbrasil/2021/10/10/milionarios-devem-r-16-bi-em-impostos/).
+Os dados trazidos no writ, portanto, tem diminuta relevância para constatação da capacidade de adimplemento da condição do sursis.
+Note-se, ademais, que a proposta de suspensão condicional do processo foi feita nos seguintes termos:
+1. Reparação integral do dano, consistente no pagamento do crédito tributário devido e demais acessórios, entre 24 (vinte e quatro) e 48 (quarenta e oito) meses, contados a partir da concessão do benefício, devendo o denunciado ingressar em programa de parcelamento junto à Fazenda Estadual e apresentar o respectivo comprovante, no prazo de 30 (trinta) dias ou, em caso de não ser mais o administrador da empresa, providenciar a emissão de guias próprias através de sistema da Secretaria de Estado da Fazenda, sob o código DARE 5827 (passo a passo anexo), com o pagamento da primeira guia em até 30 dias, e juntada aos autos de comprovação mensal de cumprimento; e
+2. Comparecimento pessoal e obrigatório em Juízo, trimestralmente, para confirmar seu endereço.
+Em outras palavras, foram estipulados quatro anos como prazo máximo para pagamento do prejuízo causado pela infração. É mais que o dobro do período durante o qual os delitos foram alegadamente cometidos.
+Não há, portanto, constrangimento ilegal na continuidade do feito.
+Ante o exposto, voto no sentido de denegar a ordem.
+Como visto, o Tribunal de origem concluiu que o recorrente não informou sua condição financeira, registrando que  N ão há indicativo de seu patrimônio ou de suas atuais fontes de renda - ou de onde, por exemplo, obtém verba para adimplir as despesas relacionadas à Land Rover/Defender que possui  .. , automóvel cuja avaliação, pela tabela Fipe, excede meio milhão de reais (fl. 312).
+Aduziu que foi estipulado o prazo máximo de 04 (quatro) anos para pagamento do prejuízo causado pela infração. É mais que o dobro do período durante o qual os delitos foram alegadamente cometidos (fl. 313).
+Entende esta Corte que
+Incumbe à defesa instruir oportuna e devidamente o pedido formulado perante o Tribunal de origem em via própria, pois o habeas corpus pressupõe a demonstração, mediante prova pré-constituída, do direito alegado, a permitir sua constatação de plano, inadmitido amplo revolvimento de matéria fático-probatória. (AgRg no HC n. 896.097/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 3/12/2024, DJEN de 9/12/2024 - grifamos).
+Na hipótese, não é compatível com a via eleita a aferição da real capacidade financeira do recorrente e sua capacidade para cumprir a proposta de suspensão condicional do processo, dentre outros aspectos, pois, por possuir cognição sumária, não comporta discussão de matéria fático-probatória ou análise aprofundada de fatos controversos.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
