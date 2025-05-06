@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto pela ABREU, GOULART & SANTOS SOCIEDADE DE ADVOGADOS contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 432):
+APELAÇÃO - Execução fiscal - Honorários de advogado - Impossibilidade de fixação por equidade não se aplica aos casos em que extinta a execução fiscal em razão do artigo 26, LEF - Decisão do E. STJ que faz tal distinção - AgInt em RE n. 1.967.127/RJ - Recurso provido.
+No apelo raro (e-STJ fls. 447/461), além de divergência jurisprudencial, a parte recorrente aponta violação do art. 85, §§ 3º e 5º, do CPC/2015.
+Em síntese, diz que, "tratando-se de sentença extintiva de execução fiscal, a recente jurisprudência do E. STJ é uníssona ao considerar que a base dos honorários deve ser o crédito tributário cancelado ou o valor da execução fiscal, não havendo de se falar em qualquer distinção entre o caso em tela e a tese do Tema 1.076, pois "o CPC de 2015, preservando o interesse público, estabeleceu disciplina específica para a Fazenda Pública, traduzida na diretriz de que, quanto maior a base de cálculo de incidência dos honorários, menor o percentual aplicável", e "o julgador não tem a alternativa de escolher entre aplicar o § 8º ou o § 3º do art. 85, mesmo porque só pode decidir por equidade nos casos previstos em lei""(e-STJ fl. 450). Subsidiariamente, pede a majoração dos honorários "para percentual não inferior a 5% do valor atualizado da causa." (e-ST fl. 461).
+No que diz respeito à interposição recursal pela divergência, aponta dissídio com o decidido pelo STJ nos autos do "AgInt no REsp 2.053.485/SC, relator Ministro Francisco Falcão, Segunda Turma" (e-STJ fl. 457).
+As contrarrazões foram oferecidas.
+O recurso não foi admitido por ausência de desrespeito à legislação invocada no apelo raro, existência de julgado do STJ em sentido contrário à pretensão recursal e inobservância dos requisitos previstos no art. 1029, § 1º, do Código de Processo Civil, e no art. 255, § 1º, do RISTJ.
+A parte recorrente apresentou agravo em recurso especial.
+A contraminuta foi oferecida.
+Passo a decidir.
+O agravo em recurso especial não deve ser conhecido, pois deixa de atacar especificamente todos os fundamentos da decisão agravada, nos termos do art. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746.775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a parte agravante deixou de impugnar específica e adequadamente a referência feita à existência de julgados do STJ que desautorizariam o acolhimento da pretensão recursal da parte recorrente (no caso, o AgInt no AgInt no AREsp 1.967.127/RJ, rel. Min. Gurgel de Faria, Primeira Turma, julgado em 7/6/2022, DJe de 1/8/2022; o REsp 2.088.330, Rel. Min. Benedito Gonçalves, DJe de 07/11/2023; e o REsp 2.092.442, Rel. Min. Benedito Gonçalves, DJe de 17/11/2023).
+Nesses julgados, a Primeira turma do STJ foi clara ao externar entendimento no sentido da inaplicabilidade do precedente qualificado formado no julgamento do Tema Repetitivo 1.076/STJ às hipóteses em que a extinção da execução fiscal tem por fundamento o disposto no art. 26 da LEF, em razão do cancelamento administrativo da CDA, e não da atuação do patrono da parte executada.
+No entanto, a referência feita a esses julgados na decisão que inadmitiu o apelo raro não foi objeto de impugnação na petição de agravo em recurso especial, uma vez que a parte recorrente limitou-se a defender a aplicação do Tema 1.076 ao caso, sem que fizesse qualquer menção à exceção destacada na decisão de inadmissão.
+Como se sabe, em observância ao princípio da dialeticidade, a impugnação deve ser feita de forma específica, concreta, pormenorizada e relativamente a todos os fundamentos adotados pela decisão a quo, trazendo argumentações capazes de demonstrar o seu desacerto.
+Assim, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à parte agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA 182/STJ. AG RAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão da não impugnação aos fundamentos da decisão que inadmitiu o recurso especial na origem, notadamente quanto à incidência da Súmula 83 do STJ. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. É mister repetir que as razões demonstrativas do desacerto da decisão agravada devem ser veiculadas imediatamente nessa oportunidade, pois convém frisar não ser admitida fundamentação a destempo, a fim de inovar a justificativa para ascensão do recurso excepcional, diante da preclusão consumativa.
+4. Em nova análise do agravo interposto, tem-se que a parte agravante efetivamente não rebateu todos os fundamentos da decisão de inadmissão do recurso especial, notadamente, a incidência da Súmula 83/STJ.
+5. O STJ possui entendimento no sentido de que, uma vez inadmitido o recurso especial ante a dissonância da pretensão com jurisprudência do STJ, incumbe a parte apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao cotejo analítico entre eles.
+6. Agravo interno do particular a que se nega provimento.
+(AgInt no AREsp 1.938.057/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022.).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
