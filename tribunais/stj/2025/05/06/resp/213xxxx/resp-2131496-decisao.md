@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por CONDOMÍNIO DO EDIFÍCIO VISION WORK & LIVE, com fundamento no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. LEI Nº 11.101/05. NOVAÇÃO DOS CRÉDITOS EXISTENTES AO TEMPO DA DEFLAGRAÇÃO DA RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. FALTA DE INTERESSE PROCESSUAL. 1. Nos termos do art. 59, da Lei de Falência, o plano de recuperação judicial implica novação dos créditos existentes ao tempo da sua deflagração, devendo ser pagos na forma preconizada no plano aprovado no juízo recuperacional. 2. Se o crédito vai ser habilitado no juízo recuperacional, mostra-se incabível o prosseguimento da execução, que deve ser extinta por falta de interesse processual. 3. Apelo não provido."
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões recursais, a parte recorrente alega violação dos arts. 6º, 59 e 84, III, da Lei n. 11.101/2005, defendendo a continuidade da execução de crédito condominial, por ser de natureza extraconcursal, em decorrência de seu caráter propter rem e de ter sido objeto de ação proposta anteriormente ao pedido de recuperação judicial.
+Contrarrazões apresentadas às fls. 729-743 (e-STJ).
+É o relatório. Decido.
+Conforme entendimento desta Corte Superior, são créditos extraconcursais as dívidas condominiais, ainda que anteriores ao pedido de recuperação judicial do devedor, em razão de estarem inseridas no conceito de "despesas necessárias à administração do ativo", não se sujeitando à habilitação de crédito e à suspensão das ações e execuções previstas na Lei n. 11.101/2005 (cf. AgInt no AREsp 2.433.276/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+Além disso, os créditos extraconcursais podem ser executados paralelamente à recuperação judicial, sendo da competente o Juízo recuperacional apenas para o controle dos atos constritivos sobre bens indispensáveis ao soerguimento, circunstância que implicará apenas eventualmente a suspensão dos processos executórios.
+A propósito:
+"DIREITO EMPRESARIAL E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE COTAS CONDOMINIAIS. RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. INCIDÊNCIA DA SÚMULA 83 DO STJ. RECURSO NÃO CONHECIDO.
+1. As cotas condominiais constituem despesas necessárias à administração do ativo, sendo classificadas como créditos extraconcursais, conforme previsto no art. 84, III, da Lei n. 11.101/2005.
+2. Créditos extraconcursais não se submetem à habilitação no juízo da recuperação judicial, podendo ser executados normalmente no juízo cível competente.
+3. O juízo da recuperação judicial pode controlar atos constritivos sobre o patrimônio da empresa recuperanda, mas isso não impede a continuidade da execução de créditos extraconcursais.
+4. O entendimento adotado pelo Tribunal de origem está alinhado à jurisprudência do Superior Tribunal de Justiça, incidindo a Súmula 83 do STJ, o que impede o conhecimento do recurso especial.
+5. Recurso especial não conhecido."
+(REsp n. 2.181.310/RJ, relator Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 31/3/2025, DJEN de 3/4/2025.)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. DÍVIDA CONDOMINIAL. NATUREZA EXTRACONCURSAL DO CRÉDITO. NÃO SUJEIÇÃO AO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior possui entendimento jurisprudencial de que "as dívidas condominiais, ainda que anteriores ao pedido de recuperação judicial do devedor, na classe dos créditos extraconcursais, em razão de estarem inseridas no conceito de "despesas necessárias à administração do ativo", não se sujeitam à habilitação de crédito e à suspensão das ações e execuções previstas na Lei n. 11.101/2005" (AgInt no AREsp 2.433.276/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/6/2024, DJe de 19/6/2024).
+2. Agravo interno desprovido."
+(AgInt nos EDcl no REsp n. 2.135.681/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/11/2024, DJEN de 29/11/2024.)
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO EXTRACONCURSAL. GARANTIA FIDUCIÁRIA. BEM IMÓVEL. SUSPENSÃO APENAS EVENTUALMENTE. PROCEDIMENTO DE COOPERAÇÃO JUDICIAL. INSTRUMENTO DE DESJUDICIALIZAÇÃO DE LITÍGIOS. CONFLITO NÃO CONHECIDO. AGRAVO INTERNO DESPROVIDO.
+1. O presente caso trata de execução movida pelo credor titular da posição de proprietário fiduciário de bem imóvel no qual ambos os Órgãos Judiciários contrastados concordam que o deferimento da recuperação judicial dos executados, provoca somente a eventual suspensão da execução, nos moldes do art. 6º, § 7º-A, da Lei 11.101/2005, tudo em consonância com procedimento de cooperação judicial, instrumento de desjudicialização da resolução de litígios.
+2. Não se verifica a existência de manifestações divergentes dos Juízos envolvidos no presente incidente, acerca da destinação de bens e direitos dos recuperandos, requisito indispensável para a configuração do conflito de competência, nos moldes do art. 66 do Código de Processo Civil:
+3. Agravo interno desprovido."
+(AgInt no CC n. 189.685/MT, relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 15/8/2023, DJe de 18/8/2023.)
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO EXTRACONCURSAL. ATOS CONSTRITIVOS. FISCALIZAÇÃO PELO JUÍZO RECUPERACIONAL. AGRAVO INTERNO DESPROVIDO.
+1. Tendo em vista os princípios informadores da recuperação judicial, em especial o da manutenção da atividade econômica, deve ser atribuído à previsão legal de que o crédito extraconcursal "não se submeterá aos efeitos da recuperação judicial" (art. 49, § 3º, da Lei 11.101/2005) o sentido de que sua satisfação não é submetida ao plano de soerguimento, à maneira dos concursais (sujeitos a deságio, habilitação, concurso), mas que a fiscalização dos atos de alienação de bens dos quais depende o soerguimento empresarial (bens essenciais) insere-se na competência do respectivo Juízo recuperacional.
+2. Agravo interno desprovido."
+(AgInt no CC n. 177.181/RJ, relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 25/10/2022, DJe de 17/11/2022.)
+No caso dos autos, o Tribunal de origem confirmou a sentença de extinção da execução de dívida condominial anterior ao pedido de recuperação judicial, com fundamento na novação pelo plano de recuperação judicial das dívidas existentes ao tempo do pedido e na possibilidade de habilitação do referido crédito na recuperação judicial.
+Desse modo, constatada a divergência entre o acórdão recorrido e o entendimento desta Corte, é impositivo o provimento do recurso especial.
+Diante do exposto, dou provimento ao recurso especial, a fim de determinar o prosseguimento da execução do débito condominial, ressalvada a competência do Juízo repecuperacional para o controle de atos constritivos sobre bens da recuperanda.
+Publique-se.
+EMENTA
