@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 3ª Vara da Fazenda Pública e Juizado Especial da Fazenda Pública de Blumenau - SC (suscitante) e o Juízo de Direito da 8ª Vara da Fazenda Pública do Rio de Janeiro - RJ (suscitado), nos autos de cumprimento individual de sentença coletiva proposta por Carlos Augusto da Silva Pinto contra o Estado do Rio de Janeiro.
+O Ministério Público Federal oficia pela competência do Juízo de Direito da 8ª Vara da Fazenda Pública do Rio de Janeiro - RJ (suscitado) (fls. 239-243).
+É o relatório. Passo a decidir.
+Anote-se que os autos são de cumprimento de sentença coletiva formada em autos da Ação Civil Pública n. 0138093-28.2006.8.19.0001. O título judicial condenou o Estado do Rio de Janeiro ao pagamento de quantia a título de gratificação. O cumprimento de sentença foi ajuizado perante o Juízo da 8ª Vara da Fazenda Pública do Rio de Janeiro - RJ (suscitado).
+Com efeito, esta Corte Superior, no julgamento do REsp 1.243.887/PR, sob a sistemática dos recursos especiais repetitivos, decidiu que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário, porquanto os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido." (REsp n. 1.243.887/PR, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe de 12/12/2011).
+Dessa forma, como o autor optou por ajuizar a ação de cumprimento de sentença junto à 8ª Vara da Fazenda Pública do Rio de Janeiro/RJ, deve ser reconhecida a competência do referido juízo para processar e julgar a causa.
+No mesmo sentido, com idêntica temática, destacam-se os seguintes julgados: CC n. 205.284/MG, Ministro Mauro Campbell Marques, DJe de 26/8/2024; CC n. 203.492/MG, Ministro Paulo Sérgio Domingues, DJe de 21/5/2024.
+Ante o exposto, com fulcro nos artigos 927, I, e 955, parágrafo único, do CPC/2015, conheço do conflito para declarar a competência do Juízo da 8ª Vara da Fazenda Pública do Rio de Janeiro - RJ (suscitado).
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. LIQUIDAÇÃO E EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CRITÉRIO DE FIXAÇÃO DO FORO COMPETENTE. POSSIBILIDADE DO EXEQUENTE OPTAR PELA EXECUÇÃO NO LOCAL EM QUE PROCESSADA E JULGADA A AÇÃO COLETIVA OU NO FORO DE SEU DOMICÍLIO. VALIDADE DA ESCOLHA FEITA PELO EXEQUENTE. COMPETÊNCIA DO JUÍZO DE DIREITO DA 8ª VARA DA FAZENDA PÚBLICA DO RIO DE JANEIRO (SUSCITADO).
