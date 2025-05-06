@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2025 a 06/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. CONDENAÇÃO. EXECUÇÃO IMEDIATA DA PENA. LEGALIDADE. TESE DE REPERCUSSÃO GERAL N. 1.068. AGRAVO REGIMENTAL NÃO PROVIDO .
+1. O Supremo Tribunal Federal, no julgamento do RE n. 1.235.340, com repercussão geral (Tema 1068), firmou a tese de que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+2. Agravo regimental não provido.
+RELATÓRIO
+RAFAEL ANDRADE AVENDANHA RODRIGUES, condenado por homicídio qualificado, inteerpõe agravo regimental contra a decisão de fls. 184-186, que denegou a ordem, na qual pretendia a defesa obstar a execução da pena.
+Em suas razões, afirma que "em todo o processado o Recorrente permaneceu em liberdade, não se refutando a aplicação da lei penal, sendo que não houve notícias de ofensa a ordem pública, ao passo que inexistiu qualquer manifestação ministerial no sentido pela decretação da prisão preventiva em seu desfavor" (fl. 196).
+Assere, ainda, que " q uanto ao citado Tema 1068 do STF, há de convir que o princípio constitucional da presunção de inocência não pode ser postado em nível hierarquicamente inferior ao princípio da soberania dos veredictos, pois ambos devem ser compatibilizados. Busca a concessão da ordem, para aguardar solto o trânsito em julgado" (fl. 197).
+Requer, diante disso, "seja de forma colegiada reapreciado do Habeas Corpus, conhecendo-se e concedida a ordem, nos precisos termos daquela ação mandamental, para seja reconhecida a ilegalidade da ordem de prisão expedida em desfavor do Agravante, e por conseguinte, seja determinado o recolhimento do mandado de prisão independente de cumprimento" (fl. 200).
+Contrarrazoado o recurso pelo Ministério Público do Estado de Minas Gerais, às fls. 213-215, foram os autos ao Ministério Público Federal, que se manifestou pelo não provimento do agravo regimental (fls. 218-220).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. CONDENAÇÃO. EXECUÇÃO IMEDIATA DA PENA. LEGALIDADE. TESE DE REPERCUSSÃO GERAL N. 1.068. AGRAVO REGIMENTAL NÃO PROVIDO .
+1. O Supremo Tribunal Federal, no julgamento do RE n. 1.235.340, com repercussão geral (Tema 1068), firmou a tese de que "a soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+2. Agravo regimental não provido.
+VOTO
+A decisão impuganda deve ser mantida pelos seus próprios fundamentos, nestes termos, no que interessa (fls. 184-186, destaques no orignal):
+O caso comporta o julgamento antecipado, visto que se adequa a orientação firmada pelo STF em repercussão geral sobre o tema, a qual é contrária a pretensão defensiva.
+Deveras, a referida exceção ao Tema n. 1.068/STF aventada pela defesa não se aplica à espécie, como pontuou o acórdão. No particular, destacou o referido decisum que "não há "questão substancial" que "possa plausivelmente levar à revisão da condenação". As teses defensivas foram devidamente enfrentadas pelos Conselho de Sentença. Posteriormente, por força do apelo interposto, também o foram pela Turma Julgadora" (fl. 19).
+Logo, aplica-se o entendimento do STF, que decidiu, em julgamento realizado em 12/9/2024, em Repercussão Geral (Tema n. 1.068), que pessoas condenadas pelo Júri devem começar a cumprir pena imediatamente, mesmo que o réu ainda possa recorrer a outras instâncias na Justiça.
+Aliás, no caso, extrai-se que o próprio julgamento ocorrido na origem, que resultou no acórdão proferido nos embargos de declaração de fls. 11-21, no qual houve a determinação de cumprimento imediato da pena, foi decorrente de decisão do próprio STF, na Reclamação n. 69.587/MG, proposta pelo Ministério Público, situação que afasta a alegada exceção ao Tema n. 1.068/STF.
+Vale dizer, a realização de novo julgamento dos embargos de declaração na origem, momento em que determinado o cumprimento de pena, somente ocorreu diante da determinação do STF na referida reclamação (esse caso não se revela como exceção ao Tema n. 1.068/STF). Tanto é, que o acórdão recebu a seguinte ementa. no que interessa (fl. 11):
+Realização de novo julgamento por determinação do Supremo Tribunal Federal (Reclamação 69.587 / Minas Gerais). "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução da condenação imposta pelo corpo dos jurados, independentemente do total da pena aplicada" (Tema nº 1.068/STF). Acolher a pretensão ministerial para que seja iniciada a execução provisória da pena imposta ao embargado, conferindo eficácia ao disposto no artigo 492, inciso I, alínea "e", do Código de Processo Penal, com expedição do competente mandado de prisão.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego in limine a ordem.
+De fato, o insurgente foi condenado, por homicídio qualificado, ao cumprimento de 24 anos de reclusão. Assim, A determinação do Juiz, de execução imediata da pena, não é ilegal, pois está amparada pelo art. 492, I, "e", do CPP.
+Em 12/9/2024, o Plenário do Supremo Tribunal Federal decidiu que a soberania dos veredictos do Tribunal do Júri, prevista na Constituição Federal, autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada.
+Condenados por júri popular podem ser presos imediatamente após o julgamento. O entendimento foi firmado por maioria de votos, no Recurso Extraordinário (RE) 1.235. 340, concluído em 12/9/2024. A matéria tem repercussão geral (Tema 1068), o que significa que a tese fixada deve ser aplicada a todos os casos semelhantes nas demais instâncias do Judiciário.
+Prevaleceu, na Corte Constitucional, o entendimento de que o artigo 492 do Código de Processo Penal, na parte que limita a execução imediata apenas das condenações a no mínimo 15 anos de reclusão, é inconstitucional, pois relativiza a soberania do júri.
+A tese de repercussão geral fixada foi a seguinte: "A soberania dos veredictos do Tribunal do Júri autoriza a imediata execução de condenação imposta pelo corpo de jurados, independentemente do total da pena aplicada".
+À vista do exposto, nego provimento ao regimental.
