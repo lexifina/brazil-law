@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por SUEDI MACIEL DA COSTA, com fundamento no art. 105, inciso II, alínea b, da Constituição Federal, no qual se insurge contra o acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS assim ementado (fl. 196):
+MANDADO DE SEGURANÇA. REQUERIDO REENQUADRAMENTO FUNCIONAL. SERVIDORA INATIVA. VINDICADA PROGRESSÃO NA CARREIRA COM FUNDAMENTO EM DIREITO PREVISTO EM LEI SUPERVENIENTE À APOSENTADORIA. INEXISTÊNCIA DE DIREITO A REGIME JURÍDICO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+1 - A reestruturação da carreira procedida pela Lei nº 3.841/2021, superveniente à aposentadoria da impetrante, inexistindo decesso remuneratório, não lhe confere direito líquido e certo ao reenquadramento vindicado, notadamente porque já sedimentado no âmbito do STF que o servidor público não possui direito adquirido a regime jurídico.
+2 - Conforme a tese assentada no Tema 439 (repercussão geral), cujo leading case foi o RE 606199, "desde que mantida a irredutibilidade, não tem o servidor inativo, embora aposentado na última classe da carreira anterior, o direito de perceber proventos correspondentes aos da última classe da nova carreira, reestruturada por lei superveniente."
+3 - Parecer da PGJ: pela denegação da segurança.
+4 - Segurança denegada.
+Não foram opostos embargos de declaração.
+A parte recorrente alega o seguinte (fls. 208/211):
+ ..  houve um error in judicando quando da interpretação dos pedidos da inicial, não foi requerido qualquer progressão para a recorrente, mas sim que seja determinado a autoridade coatora que dê cumprimento ao artigo 33-A, § 5º, inciso I, da Lei Estadual nº 1.903/2008, alterado pela Lei Estadual nº 3.841/2021, concedendo a impetrante/recorrente o reenquadramento para o segundo padrão da segunda classe seguinte, que será Classe F, Padrão 2, com efeitos retroativos a 1º de outubro de 2022, e a partir de 1º de outubro de 2023, e ainda, que conceda o reenquadramento para o padrão imediatamente seguinte, que será Classe F, Padrão 3, com a condenação ao pagamento de todo o retroativo.
+ ..
+A impetrante/recorrente visa com essa demanda seu reenquadramento funcional com fundamento no artigo 33-A, § 5º, inciso I, da Lei Estadual nº 1.903/2008, alterado pela Lei Estadual nº 3.841, de 27 de dezembro de 2021, para tanto, a mesma fez o Requerimento Administrativo que foi protocolado no dia 18/03/2022 sob o número de protocolo 22001315-2 (anexo), junto a Presidência do TCE/TO (Doc. SEI. nº 0464734).
+Assim, como a impetrante foi aposentada e enquadrada na Classe E, Padrão 3, com o reenquadramento do no artigo 33-A, § 5º, inciso I, da Lei Estadual nº 1.903/2008, alterado pela Lei Estadual nº 3.841/2021, a mesma faria jus desde 1º de outubro de 2022 a ser enquadrada no segundo padrão da segunda classe seguinte, que será Classe F, Padrão 2, e a partir de 1º de outubro de 2023, passará a ter direito ao enquadramento no padrão imediatamente seguinte, que será Classe F, Padrão 3.
+Devendo ser destacado que com a Lei Estadual nº 3.841/2021 a qual determinou nova forma remuneratória, ou seja, estabeleceu que fosse feita alterações nos critérios de progressão/promoção para fins de reenquadramento, assim, considerando que a aplicação do artigo 33-A, § 5º, inciso I, da Lei Estadual nº 3.841/2021, de 27 de dezembro de 2021.
+Desta maneira, o que se observa claramente que o artigo 33-A, § 5º, inciso I, da Lei Estadual nº 3.841/2021, não caracteriza progressão e/ou promoção, pois ambos têm critérios próprios para sua concessão estabelecidos na Lei Estadual nº 1.903/2008, de 17 de março de 2008, o que não foi observado neste dispositivo legal, sendo que na verdade foi um aumento remuneratório computando o período em que a servidora estava em atividade.
+Requer " que  lhe seja dado integral PROVIMENTO reformando o acórdão recorrido para condenar o requerido na forma do requerido na peça inicial" (fl. 214).
+A parte adversa apresentou contrarrazões (fls. 229/234).
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 241/246).
+É o relatório.
+O Tribunal de origem, ao analisar a controvérsia, afirmou (fls. 188/191):
+Em resumo, a impetrante busca por meio do vertente mandado de segurança sejam implementadas progressões/promoções/reenquadramentos funcionais, nos termos do artigo 33-A, § 5º, inciso I, da Lei Estadual nº 1.903/2008, alterado pela Lei Estadual nº 3.841/2021.
+Merece registro, no que importa à lide, que a impetrante/servidora se aposentou em 16/12/2016, no Cargo de Técnico de Controle Externo, enquadrada na Classe E, Padrão 3, com proventos integrais, em conformidade com o art. 40 da Constituição Federal e art. 3º da Emenda Constitucional n.º 47 de 05 de julho de 2005, conforme Portaria nº 763 de 14 de dezembro de 2016 (evento 1, FICHINDI9).
+Ainda, como asseverado alhures, que ela pretende o reenquadramento funcional previsto no art. 33-A, §5º, I após alteração do dispositivo pela Lei Estadual nº 3.841/2021, que dispõe expressamente:
+ ..
+Assente-se, também, que nos termos do art. 15, § 1º da mesma Lei Estadual "progressão é a passagem do servidor para o padrão de vencimento imediatamente superior dentro de uma mesma classe, após cumprido o interstício de dois anos de efetivo exercício". E no §2º do mesmo dispositivo prevê que a "promoção é o movimento ascendente do servidor do último padrão de uma classe para o primeiro padrão da classe imediatamente superior, dentro da mesma Faixa da Tabela, mediante avaliação de desempenho e treinamento, cumprido o interstício de dois anos de efetivo exercício em relação à progressão imediatamente anterior".
+Com efeito, a reestruturação da carreira procedida pela Lei nº 3.841/2021, superveniente à aposentadoria da impetrante, inexistindo decesso remuneratório, não lhe confere direito líquido e certo ao reenquadramento vindicado, notadamente porque já sedimentado no âmbito do STF que o servidor público não possui direito adquirido a regime jurídico.
+Conforme a tese assentada no Tema 439 (repercussão geral), cujo leading case foi o RE 606199, "desde que mantida a irredutibilidade, não tem o servidor inativo, embora aposentado na última classe da carreira anterior, o direito de perceber proventos correspondentes aos da última classe da nova carreira, reestruturada por lei superveniente."
+ ..
+Pela percuciência, nessa contextura fática, trago à colação excerto do parecer de lavra do douto Procurador de Justiça, adotando-o como razão de decidir, que em análise à questão suscitada, expressamente consignou:
+24. Nesse diapasão, em se tratando de reestruturação, não há direito ao servidor inativo de perceber os proventos correspondentes ao do nível ou padrão mais elevado da carreira, ainda que tenha sido aposentado no último nível da carreira anterior, agora reestruturada por lei superveniente.
+ ..
+Ex positis, voto no sentido de conhecer do writ para, no mérito, DENEGAR A SEGURANÇA vindicada, por inexistência de direito líquido e certo amparável pela via mandamental.
+O acórdão recorrido está de acordo com o entendimento desta Corte Superior de que, seguindo a tese fixada para o Tema 439 do Supremo Tribunal Federal (STF), "não há direito de servidor inativo de receber proventos correspondentes ao do nível ou padrão mais elevado da nova carreira, ainda que tenha sido aposentado no último nível da carreira anterior, reestruturada por lei superveniente" (RMS 61.403/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe de 29/10/2019).
+Nesse sentido:
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR INATIVO. PLEITO DE PROGRESSÃO NA CARREIRA. IMPOSSIBILIDADE. REESTRUTURAÇÃO PROMOVIDA APÓS A INATIVIDADE. PRECEDENTES DO STF E STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - O Supremo Tribunal Federal, em sede de repercussão geral, pacificou orientação, segundo a qual não há direito a progressão na carreira de servidores públicos inativos nos casos em que lei posterior à aposentadoria promova reestruturação da carreira, inexistindo direito adquirido a regime jurídico.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no RMS n. 66.565/GO, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
