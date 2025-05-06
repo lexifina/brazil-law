@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão por meio da qual conheci do conflito para declarar a competência do Juiz do Trabalho responsável pela Coordenadoria de Apoio à Execução do Tribunal Regional do Trabalho da 1ª Região para deliberar sobre questões possessórias relativas a imóveis arrematados nos autos da execução trabalhista movida contra a Santa Casa de Misericórdia e deferi o pedido de tutela de urgência para sobrestar as ações possessórias em trâmite perante a Justiça do Estado do Rio de Janeiro, bem como as liminares ali concedidas, devendo a execução prosseguir na Justiça do Trabalho.
+Afirma-se que a controvérsia é de natureza cível, envolvendo conflito possessório entre terceiros  arrematante judicial e possuidores de boa-fé  , sendo competente a Justiça Comum Estadual, como definido na jurisprudência consolidada desta Corte; que os moradores das unidades habitacionais são ocupantes de boa-fé, não tendo a decisão observado o direito social à moradia e o princípio da dignidade da pessoa humana ; que há risco de dano irreversível com a desocupação forçada dos moradores.
+Requer-se a reconsideração da decisão, com o indeferimento da liminar, ou a suspensão de qualquer medida que resulte em desocupação forçada, até o julgamento definitivo da competência.
+Assim posta a questão, entendo não ser o caso de, neste momento, antes de virem aos autos as manifestações dos Juízos suscitados, reconsiderar a decisão de fls. 588-593, tendo em vista os fundamentos dela já constantes e que entendi serem relevantes e suficientes para o deferimento da liminar.
+Em face do exposto, indefiro o pedido de reconsideração.
+Intimem-se.
+EMENTA
