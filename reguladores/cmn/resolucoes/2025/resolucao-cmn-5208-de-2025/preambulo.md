@@ -1,0 +1,4 @@
+Resolução Nº 5.208 RESOLUÇÃO CMN Nº 5.208, DE 30 DE ABRIL DE 2025
+Altera a Resolução nº 4.676, de 31 de julho de 2018, que dispõe sobre as condições gerais e os critérios para contratação de financiamento imobiliário pelas instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil e disciplina o direcionamento dos recursos captados em depósitos de poupança.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 30 de abril de 2025, com base no art. 4º, caput, incisos VI e VIII, da referida Lei, no art. 7º, caput, inciso I, do Decreto-Lei nº 2.291, de 21 de novembro de 1986, e no art. 95 da Lei nº 13.097, de 19 de janeiro de 2015,
+R E S O L V E U :
