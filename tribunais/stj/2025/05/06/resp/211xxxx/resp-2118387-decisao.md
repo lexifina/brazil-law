@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO fundamentado no art. 105, III, "a" e "c", da CF contra acórdão assim ementado (fls. 269-270):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO. PRELIMINAR DE SENTENÇA EXTRA PETITA AFASTADA. PRESCRIÇÃO AFASTADA. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS RECONHECIDA. POSSIBILIDADE DE REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES. CAPITALIZAÇÃO DE JUROS NÃO DEMONSTRADA. ALEGAÇÃO DE QUEBRA DO EQUILÍBRIO ATUARIAL RECHAÇADA. HONORÁRIOS READEQUADOS.
+Da preliminar de nulidade da sentença extra petita. A correção monetária fixada pelo IGP-M diz respeito à repetição do valor pago a maior e não das parcelas regulares do contrato, corrigidas pelo índice INPC, podendo ser fixado sem pedido da parte autora por se tratar de decorrência lógica, não configurando sentença extra petita.
+Da prescrição da repetição do indébito. O prazo prescricional para a pretensão de revisão contratual fundada em abusividades com pedido de compensação/restituição de valores cobrados a maior é de 10 anos (sob a égide do Código Civil vigente - artigo 205) ou 20 anos (na vigência do revogado Código Civil de 1916), uma vez que fundada em direito pessoal. No caso dos autos, evidenciada a ocorrência de sucessão negocial, deve ser considerado termo inicial do prazo prescricional a data da assinatura do último empréstimo em que ocorrida a renegociação, razão pela qual resta afastada a prescrição.
+Dos juros remuneratórios. Tratando-se a parte ré de entidade de previdência fechada, aplica-se a vedação relativa à cobrança de juros superiores a 12% ao ano, nos termos do art. 1º da Lei de Usura (Dec. 22.626/33).
+Da repetição do indébito. Viável a repetição de valores na forma simples, uma vez que consectário da pretensão revisional e da imprescindibilidade de ajuste da relação débito-crédito, diante da vedação ao enriquecimento sem causa.
+Da capitalização dos juros. Por se tratar de entidade de previdência privada fechada, que não se equipara às instituições financeiras, não se aplica a Medida Provisória nº 1.963-17, reeditada sob o nº 2.170-36/2001, que autoriza a capitalização de juros em periodicidade inferior à anual quando expressamente pactuada no contrato. No caso, entretanto, não restou demonstrada a capitalização de juros.
+Do desequilíbrio atuarial do plano de benefícios. Com efeito, registre-se que a relação jurídica em revisão não é a previdenciária em si, mas, sim, a contratual na qual a requerida atua como se instituição financeira fosse. Desta forma, a limitação dos juros, com base no diploma civil, não é capaz de acarretar déficit atuarial à entidade demandada.
+Da readequação dos honorários sucumbenciais. Os honorários em favor do procurador da parte ré não podem ser fixados sobre o valor do proveito econômico obtido pela parte autora. Portanto, readequou os honorários do procurador da parte ré para 10% sobre o valor atualizado da causa, uma vez que tal valor se mostra mais razoável às particularidades do caso concreto e atende de maneira justa o trabalho desenvolvido.
+RECURSOS DE APELAÇÃO PARCIALMENTE PROVIDOS.
+Os dois embargos de declaração foram parcialmente providos, sob a seguinte ementa (fl. 318):
+EMBARGOS DECLARATÓRIOS. APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO. INAPLICABILIDADE DO CDC. ÍNDICE DE CORREÇÃO. PRESCRIÇÃO. VERBA SUCUMBENCIAL REDISTRIBUÍDA.
+Os embargos de declaração constituem remédio processual cuja finalidade é esclarecer obscuridade ou eliminar contradição, assim como suprir omissão de ponto ou questão sobre o qual deveria o Julgador se manifestar, além de corrigir eventual erro material, consoante hipóteses trazidas nos incisos do art. 1.022 do CPC.
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+Em seguida, a parte ora recorrente opôs novos embargos de declaração, os quais foram rejeitados (fls. 344-347)
+Em suas razões recursais (fls. 399-410), a parte ora recorrente aponta dissídio jurisprudencial e violação dos seguintes dispositivos legais, sob os respectivos fundamentos:
+(i) art. 205 do CC/2002, sustentando, em síntese, que "o prazo prescricional aplicável para cada um dos contratos deve ser contado a partir da assinatura de cada pacto, e não do último contrato entabulado entre as partes, como entendido, em lapso, na r. decisão recorrida" (fl. 404).
+(iii) arts. 141 e 492 do CPC, sustentando que "não fez parte dos pedidos iniciais do autor o pedido de fixação ou substituição de índice de correção monetária contratado (INPC) pelo IGP-M" e que "as parcelas relativas ao mútuo foram descontadas em folha mediante atualização monetária pelo INPC, portanto, incabível a alteração do índice de correção monetária, ainda mais de ofício, como ocorre à espécie" (fls. 410-410).
+Contrarrazões apresentadas (fls. 441-454).
+O recurso foi admitido na origem.
+A parte RAFAEL MARIATH BASSUÍNO também interpôs recurso especial (fls. 354-395), o qual será apreciado em apartado.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Com efeito, o acórdão recorrido deu provimento ao pedido do autor para afastar a prescrição do pedido de revisão dos contratos repactuados pelos seguintes fundamentos (fls. 287-290):
+O prazo prescricional para a pretensão de revisão contratual fundada em abusividades com pedido de compensação/restituição de valores cobrados a maior é de 10 anos (sob a égide do Código Civil vigente - artigo 205) ou 20 anos (na vigência do revogado Código Civil de 1916), uma vez que fundada em direito pessoal, que se inicia na data de assinatura do instrumento contratual.
+ ..
+De registrar, a propósito, em relação ao termo inicial do prazo prescricional da pretensão principal, que estou revisando posicionamento anterior, considerando a orientação atual e consolidada do Superior Tribunal de Justiça, no sentido de que "o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato" (AgInt no REsp n. 1.993.775/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022).
+Ocorre, porém, que embora o termo inicial inicial do prazo prescricional tenha de levar em consideração a data da assinatura do contrato, tal situação não afasta a necessidade de analisar o encadeamento contratual, que, no caso, revela a ocorrência de sucessivas renegociações, com a contratação de créditos que se sucedem ao longo do tempo.
+Desse modo, evidenciada a ocorrência de sucessão negocial, deve ser considerado como termo inicial do prazo prescricional a data da assinatura do último empréstimo em que ocorrida a renegociação, ou seja, no ano de 2008. Assim, tendo a ação revisional sido ajuizada em 12/04/2022, resta afastada a prescrição.
+Tal entendimento, no entanto, está em desacordo com a jurisprudência do STJ, segundo a qual o termo inicial do prazo prescricional, na hipótese em que o mutuário pretende rever cláusulas de contrato de empréstimo pessoal, é a data da assinatura de cada contrato. Nesse sentido:
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO DESPROVIDO.
+1. O termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato.
+2. "O fato de as partes terem renegociado as dívidas não tem o condão de alterar o termo inicial da prescrição, tendo em vista o entendimento do verbete sumular n. 286/STJ, no sentido de que a extinção do contrato, pela renegociação ou confissão de dívida, não impede a sua discussão em juízo, o que deverá ser postulado dentro do prazo prescricional" (Quarta Turma, AgInt nos EDcl no REsp 1.954.493/RS, Rel. Ministro MARCO BUZZI, DJe de 17.6.2022).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.069.168/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 22/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. ARTS. 489 E 1.022 DO CPC/2022. AUSÊNCIA DE OFENSA. SUFICIÊNCIA NA FUNDAMENTAÇÃO. ART. 27 DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. PRECEDENTES. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Segundo entendimento desta Corte Superior, o termo inicial do prazo prescricional decenal nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Incidência da Súmula n. 83/STJ.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp n. 2.525.981/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/4/2024, DJe de 25/4/2024.)
+No entanto, considerando que não cabe ao STJ reexaminar provas, não é possível prosseguir no exame da prescrição no caso concreto. Nesse contexto, afigura-se necessária a remessa dos autos à origem para que a Corte local, à luz do entendimento desta Corte, prossiga no exame da matéria.
+Quanto à alegação de julgamento extra petita, conforme constou no acórdão dos embargos de declaração opostos (fl. 261):
+DA PRELIMINAR DE NULIDADE DA SENTENÇA POR EXTRA PETITA
+A correção monetária fixada pelo IGP-M diz respeito à repetição do valor pago a maior e não das parcelas regulares do contrato, que são corrigidas pelo índice INPC, podendo ser fixado sem pedido da parte autora por se tratar de decorrência lógica da condenação, não configurando sentença extra petita.
+Ademais, o IGP-M para fins de atualização monetária, como fixado na sentença, melhor reflete a desvalorização da moeda. S
+endo assim, afasto a preliminar arguida.
+Portanto, verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base nos arts. 141 e 492 do CPC, que tratam, respectivamente, da vedação a que se conheça de questões não suscitadas quando a lei exija iniciativa da parte e da proibição de que seja proferida decisão de natureza diversa da pedida, porque as normas em referência não são suficientes para impugnar a motivação do acórdão recorrido, uma vez que a Corte Local apenas determinou a correção monetária do valor a ser devolvido, o que, por disposição legal, deve incidir independentemente de pedido da parte.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao TJ RS, para que reaprecie a tese de prescrição à luz do entendimento deste Tribunal.
+Publique-se e intimem-se.
+EMENTA
