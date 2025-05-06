@@ -1,0 +1,94 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15), interposto por LUIS ARMANDO FERREIRA DE ALMEIDA, contra decisão que não admitiu o recurso especial.
+O apelo nobre, fundamentado no artigo 105, III, alíneas "a" e "c", do permissivo constitucional, desafia acórdão prolatado pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 367-374, e-STJ):
+ADMINISTRATIVO. PROCESSO CIVIL. APELAÇÃO. CONTRATO DE MÚTUO. DECRETO-LEI N.º 70/66. REGULARIDADE DO PROCEDIMENTO. PREÇO VIL. NÃO OCORRÊNCIA.
+1. Não comprovada qualquer ilegalidade ou irregularidade no processo de execução extrajudicial, restando comprovado, no procedimento extrajudicial, a tentativa de intimação pessoal do mutuário para purgar a mora antes da publicação de edital, e a intimação acerca das datas das realizações dos leilões extrajudiciai s, nos termos exigidos pelo Decreto-Lei n.º 70/66.
+2. Resta configurado preço vil quando o valor da arrematação não supera 50% da avaliação. Precedentes desta Corte e do STJ.
+3. Apelo desprovido.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 393-399, e-STJ).
+Nas razões de recurso especial (fls. 407-424, e-STJ), a insurgente apontou, além da divergência jurisprudencial, violação aos seguintes artigos:
+a) 1.022, II, do CPC, pois o acórdão recorrido não se manifestou sobre a violação do art. 31, §1º, do Decreto-Lei 70/66, tampouco sobre o fato de que a intimação por edital não observou as diligências prévias necessárias;
+b) 31, §2º, do Decreto 70/66, ao argumento de que, seja para fins de leilão ou de purgação da mora, deve haver diligências para localizar o recorrente, o que não ocorreu na presente hipótese;
+c) 32 do Decreto-Lei 70/66, na medida em que há dissídio jurisprudencial na interpretação do referido artigo, uma vez que o STJ entende que preço vil ocorre quando o bem penhorado é arrematado por valor inferior a 50% do originário.
+Contrarrazões às fls. 431-444, e-STJ.
+Em razão do juízo negativo de admissibilidade na origem, fora interposto o presente agravo (fls. 462-472, e-STJ), visando destrancar o processamento da insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, a insurgente aponta violação ao artigo 1.022 do CPC/15, ao argumento de que o Tribunal a quo não se manifestou sobre a violação do art. 31, §1º, do Decreto-Lei 70/66, tampouco sobre o fato de que a intimação por edital não observou as diligências prévias necessárias.
+Todavia, da leitura do acórdão recorrido (fls. 367-374, e-STJ), denota-se que a questão apontada como omissa fora apreciada pelo órgão julgador, de forma ampla e fundamentada, consoante se infere dos seguintes trechos:
+Conforme documento que instrui a inicial, foram realizadas diversas tentativas de intimação da parte apelante, em datas diferentes (1.12), situação que permite a intimação via edital.
+Inicialmente, foram enviados avisos de cobrança para o endereço Rua Dario Totta n.º 138 (Rua Z-13)- endereço do imóvel financiado -, os quais foram recebidos pela Adriane Martins da Silva, ex companheira do autor.
+Posteriormente, através do Cartório de Registro de Imóveis, em 28/09/2015, 30/09/2015 e 14/10/2015 foram realizadas tentativas de intimação para purgar a mora no mesmo endereço supracitado, tendo sido deixado aviso de notificação para comparecimento no Registro de Imóveis.
+Após, foi publicado edital de intimação.
+Quanto à intimação da datas dos leilões, novamente houve a tentativa de intimação pessoal do mutuário em 12/02/2016, 16/02/2016 e 24/02/2016, no endereço do imóvel financiado, com aviso para comparecimento.
+Na sequência, foram publicados editais de intimação.
+Registro que referidos documentos gozam de presunção de veracidade, porquanto eivados de fé pública.
+Nesse contexto, verifico a instituição agiu com cautela, porque tentou notificar o devedor para purgar a mora no endereço do imóvel objeto da controvérsia.
+Quanto as alegações de que o autor não residia mais no imóvel desde a separação, tendo permanecido, no imóvel financiado, apenas a ex companheira e os filhos, não tem o condão de afastar a legalidade das intimações naquele endereço.
+Com efeito, ao que indica, não houve atualização do endereço da agravante junto ao agente fiduciário, incumbência que lhe é atribuída.
+Assim, não restou comprovada nenhuma legalidade no procedimento extrajudicial realizado.
+Não se vislumbra, portanto, a omissão apontada.
+A propósito, o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, tampouco mencionar todos os dispositivos legais apontados nas razões recursais, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu no caso em apreço.
+Nesse sentido, precedentes:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE DE VEÍCULOS.  ..  OMISSÃO E AUSÊNCIA DE FUNDAMENTAÇÃO DO JULGADO. IMPROCEDÊNCIA DA ALEGAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ESBULHO. SÚMULA N. 7/STJ. 1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões. Deve ser afastada a alegada violação aos arts. 165, 458, II e 535 do Código de Processo Civil.  ..  4. Agravo regimental a que se nega provimento. (AgRg no Ag 1067781/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/04/2015, DJe 17/04/2015)  grifou-se
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTIGOS 165, 458 E 535 DO CPC. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. 1. Não viola os artigos 165, 458 e 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.  ..  5. Agravo regimental não provido. (AgRg no REsp 1417828/AC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/09/2014, DJe 01/10/2014)  grifou-se
+Afasta-se, portanto, a alegada ofensa ao artigo 1.022 do CPC/15.
+2. A parte recorrente sustenta ainda, violação do art. 31, §2º, do Decreto 70/66, ao argumento de que, seja para fins de leilão ou de purgação da mora, deve haver diligências para localizar o recorrente, o que não ocorreu na presente hipótese.
+No caso dos autos, após análise do acervo fático-probatório, o Tribunal de origem entendeu que foram adotadas as diligências necessárias para a localização do recorrente antes do deferimento da intimação por edital.
+É, aliás, o que se observa do seguinte excerto do acórdão guerreado (fl. 371, e-STJ):
+Conforme documento que instrui a inicial, foram realizadas diversas tentativas de intimação da parte apelante, em datas diferentes (1.12), situação que permite a intimação via edital.
+Inicialmente, foram enviados avisos de cobrança para o endereço Rua Dario Totta n.º 138 (Rua Z-13)- endereço do imóvel financiado -, os quais foram recebidos pela Adriane Martins da Silva, ex companheira do autor.
+Posteriormente, através do Cartório de Registro de Imóveis, em 28/09/2015, 30/09/2015 e 14/10/2015 foram realizadas tentativas de intimação para purgar a mora no mesmo endereço supracitado, tendo sido deixado aviso de notificação para comparecimento no Registro de Imóveis.
+Após, foi publicado edital de intimação.
+Quanto à intimação da datas dos leilões, novamente houve a tentativa de intimação pessoal do mutuário em 12/02/2016, 16/02/2016 e 24/02/2016, no endereço do imóvel financiado, com aviso para comparecimento.
+Na sequência, foram publicados editais de intimação.
+Registro que referidos documentos gozam de presunção de veracidade, porquanto eivados de fé pública.
+Nesse contexto, verifico a instituição agiu com cautela, porque tentou notificar o devedor para purgar a mora no endereço do imóvel objeto da controvérsia.
+Quanto as alegações de que o autor não residia mais no imóvel desde a separação, tendo permanecido, no imóvel financiado, apenas a ex companheira e os filhos, não tem o condão de afastar a legalidade das intimações naquele endereço.
+Com efeito, ao que indica, não houve atualização do endereço da agravante junto ao agente fiduciário, incumbência que lhe é atribuída.
+Assim, não restou comprovada nenhuma legalidade no procedimento extrajudicial realizado.
+Sendo assim, para afastar a afirmação contida no acórdão atacado no sentido de que adotaram-se as diligências necessárias para localização do recorrente antes de sua intimação por edital, revelar-se-ia necessário o reexame das provas juntadas aos autos, providência vedada na via eleita, por força da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E CÍVEL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE QUOTAS E ENCARGOS CONDOMINIAIS. PRELIMINARES. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. CITAÇÃO PESSOAL. REGRA GERAL. CITAÇÃO EDITALÍCIA. EXCEPCIONALIDADE. PREVISÃO DO ART. 256, §3º, DO CPC/15. NECESSIDADE DE ESGOTAMENTO DAS DILIGÊNCIAS PARA A BUSCA DO DEMANDADO. TRIBUNAL DE ORIGEM QUE CONSIGNOU A VALIDADE DA CITAÇÃO POR EDITAL ANTE INÚMERAS TENTATIVAS FRUSTRADAS DE SUA LOCALIZAÇÃO. PESQUISAS REALIZADAS JUNTO A ÓRGÃOS PÚBLICOS, CONCESSIONÁRIAS DE SERVIÇO PÚBLICO E CADASTROS DE RESTRIÇÃO DE CRÉDITO. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. MÉRITO. TÍTULO EXECUTIVO EXTRAJUDICIAL. ART. 784, X, DO CPC/15. HIPÓTESE DOS AUTOS. AUSÊNCIA DE CERTEZA, LIQUIDEZ E EXIGIBILIDADE DA OBRIGAÇÃO. CONVERSÃO EM AÇÃO DE CONHECIMENTO. TÍTULO JUDICIAL. ART. 785 DO CPC/15. CONDENAÇÃO JUDICIAL. PARCELAS VINCENDAS. INCLUSÃO. DATA LIMITE. EFETIVO PAGAMENTO. POSSIBILIDADE. PRECEDENTES. PRINCÍPIOS DA EFETIVIDADE E DA ECONOMIA PROCESSUAIS. EXCEÇÃO. CUMPRIMENTO DE SENTENÇA QUE FIXA TERMO DIVERSO. IMPOSSIBILIDADE DE ALTERAR. OFENSA À COISA JULGADA. HARMONIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DESTA CORTE.
+ ..
+3. A citação por edital é medida excepcional, cujas hipóteses estão expressamente enumeradas no art. 256 do CPC/15 e, ainda assim, dependem de criteriosa análise, pelo julgador, dos fatos que levam à convicção do desconhecimento do paradeiro do demandado e da impossibilidade de ser encontrado por outras diligências.
+4. Nos termos da jurisprudência desta Corte, a citação por edital somente tem lugar quando exauridas as tentativas de citação pessoal da parte demandada. Faz-se necessário, portanto, o esgotamento dos meios de localização do réu, sobretudo mediante pesquisas de endereços nos cadastros de órgãos públicos e de concessionárias de serviço público. Precedentes.
+5. Não se pode ignorar, contudo, que a análise casuística acerca do esgotamento dos meios de busca e do cumprimento de todas as diligências necessárias para a citação pessoal do réu incumbe ao Juízo de origem, soberano no exame do acervo fático-probatório.
+6. Incidência da Súmula 7/STJ quando a instância de origem decide, expressamente, que foram adotadas as diligências necessárias e esgotados os meios de buscas. Aplicação dos postulados da razoabilidade e proporcionalidade.
+ ..
+14. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
+(REsp n. 2.026.482/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 7/3/2023, DJe de 10/3/2023.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CITAÇÃO POR EDITAL. VALIDADE. MEIOS NECESSÁRIOS. ESGOTAMENTO. LOCALIZAÇÃO DO RÉU. SÚMULA Nº 7/STJ. TEORIA DO ADIMPLEMENTO SUBSTANCIAL. AFASTAMENTO. REVISÃO. CONJUNTO FÁTICO-PROBATÓRIO. CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, modificar o entendimento do tribunal de origem, no tocante à ausência de nulidade da citação por edital em virtude do cumprimento de todas as diligências necessárias para citação pessoal do réu, ensejaria a revisão do conteúdo fático-probatório dos autos, o que atrai a incidência da Súmula nº 7/STJ.
+3. No caso em apreço, alterar a conclusão do tribunal local acerca da não adoção da teoria do adimplemento substancial demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, procedimentos obstados pelas Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.913.017/CE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/5/2022, DJe de 2/6/2022.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. DILIGÊNCIAS EFETIVADAS EM DIVERSOS ENDEREÇOS. TENTATIVAS INFRUTÍFERAS DE LOCALIZAÇÃO DA PARTE RÉ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a citação por edital somente é admitida quando previamente esgotadas as tentativas de localização da parte demandada.
+2. No caso, a reforma do acórdão recorrido, no tocante ao exaurimento das tentativas para localização da parte ré, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.763.916/DF, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021.)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO POR EDITAL. VALIDADE. ESGOTAMENTO DOS MEIOS NECESSÁRIOS PARA LOCALIZAR O RÉU. SÚMULA 7 DO STJ. EXPEDIÇÃO DE OFÍCIOS ÀS REPARTIÇÕES PÚBLICAS. AUSÊNCIA DE IMPOSIÇÃO LEGAL. PRECEDENTE DESTA CORTE. RECURSO NÃO PROVIDO.
+1. Para modificar o que foi decidido pela Corte de origem, no tocante à ausência de nulidade da citação por edital, em virtude do cumprimento de todas as diligências necessárias para citação pessoal do réu, seria necessário o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial ante o óbice previsto na Súmula 7 desta Corte.
+2. Ademais, conforme já decidiu esta Corte, "não há imposição legal de expedição de ofícios às repartições públicas, para fins de localização do réu tido em local incerto ou não sabido, cuja necessidade deve ser analisada no caso em concreto" (REsp 364.424/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2002, DJ 06/05/2002, p. 289).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.233.310/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/5/2018, DJe de 21/5/2018.)  grifou-se
+Inafastável, portanto, a incidência da Súmula 7/STJ.
+Outrossim,  constata-se  que  o  recorrente  não  enfrentou  pontualmente  o  fundamento  do  acórdão segundo o qual "não houve atualização do endereço da agravante junto ao agente fiduciário, incumbência que lhe é atribuída." (fl. 371, e-STJ).
+Nos  termos  da  jurisprudência  desta  Corte,  a  existência  de  fundamentos  inatacados,  aptos  à  manutenção  do  aresto  recorrido , e a constatação de  razões  dissociadas  do  recurso  em  relação  ao  acórdão  impugnado  atraem  a  incidência  das  Súmulas  283  e  284  do  STF,  aplicáveis  por  analogia.
+Nesse  sentido,  confira-se:
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  LUCROS  CESSANTES.  FUNDAMENTO  INATACADO.  MORA  DO  COMPRADOR.  SÚMULA  283  E  284  DO  STF.  MATÉRIA  QUE  DEMANDA  REEXAME.  SÚMULAS  5  E  7  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.  1.  A  subsistência  de  fundamento  inatacado  apto  a  manter  a  conclusão  do  aresto  impugnado  impõe  o  não  conhecimento  da  pretensão  recursal,  a  teor  do  entendimento  disposto  na  Súmula  nº  283/STF:  "É  inadmissível  o  recurso  extraordinário  quando  a  decisão  recorrida  assenta  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles.".  ..  3.  Agravo  interno  não  provido.  (AgInt  nos  EDcl  no  AREsp  874.193/RJ,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  01/09/2016,  Dje  08/09/2016)  grifou-se
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PRESCRIÇÃO.  HONORÁRIOS  ADVOCATÍCIOS.  PRINCÍPIO  DA  CAUSALIDADE.  INÉRCIA  DO  EXEQUENTE  NA  PROPOSITURA  DO  CUMPRIMENTO  DE  SENTENÇA.  RAZÕES  DISSOCIADAS  DOS  FUNDAMENTOS  DO  ACÓRDÃO  ATACADO.  SÚMULA  284/STF.  AGRAVO  CONHECIDO  PARA  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.  ..  4.  É  inadmissível  o  inconformismo  por  deficiência  na  fundamentação  quando  as  razões  do  recurso  estão  dissociadas  do  decidido  no  acórdão  recorrido.  Aplicação  da  Súmula  284  do  Supremo  Tribunal  Federal.  5.  Agravo  interno  provido  para  afastar  a  falta  de  dialeticidade  recursal,  conhecer  do  agravo  e  negar  provimento  ao  recurso  especial.  (AgInt  no  AREsp  1680324/SC,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  19/10/2020,  DJe  16/11/2020)  grifou-se
+3. Por fim, tem-se que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+Da leitura das razões do recurso especial, observa-se que a parte insurgente não efetuou o cotejo analítico nos moldes previstos pelos artigos 541 do Código de Processo Civil de 1973 (artigo 1029, § 1º do CPC) e 255 do Regimento Interno do Superior Tribunal de Justiça, indispensável para que se possa avaliar se a solução encontrada pelo decisum recorrido e os paradigmas apontados tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. Ilustrativamente:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECLAMO. IRRESIGNAÇÃO DA AUTORA.
+ ..
+3. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico, que evidencie a similitude fática entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional.
+4. Agravo regimental desprovido. (AgRg no REsp 1483935/CE, de minha relatoria, QUARTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+4. Do exposto, conheço do agravo para negar provimento ao recurso especial.
+Por fim, tendo em v ista a fixação dos honorários sucumbenciais no percentual máximo estabelecido no § 2º do art. 85 do CPC, deixo de majorá-los nesta oportunidade.
+Publique-se. Intimem-se.
+EMENTA
