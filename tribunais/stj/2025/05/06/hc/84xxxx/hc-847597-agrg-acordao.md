@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2025 a 06/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. REINCIDÊNCIA. OUTRA CONDENAÇÃO APTA A JUSTIFICAR AGRAVANTE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Existindo outro processo apto a justificar o agravante de reincidência, nada impede que esse feito seja considerado pelo Tribunal de origem no lugar do outro equivocadamente utilizado na sentença.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o Tribunal de origem não incorreu em reformatio in pejus ao julgar o recurso exclusivo da defesa, pois apenas reforçou a fundamentação já existente na sentença, em profundidade vertical que observou os limites do capítulo devolvido na apelação" (AgRg no AgRg no AREsp n. 2.523.986/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024).
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por WANDERLEY VICENTE FERREIRA contra a decisão de fls. 335-338, que denegou a ordem de habeas corpus.
+Nas razões deste recurso, a defesa reitera as alegações de indevida fundamentação por parte do acórdão impugnado, o qual, em recurso exclusivo da defesa, manteve a agravante da reincidência, incorrendo em violação do princípio da non reformatio in pejus.
+Afirma que o Tribunal de origem, a despeito de reconhecer o transcurso de prazo superior a 5 anos entre a extinção da punibilidade nos autos n. 0001369-81.2009.8.12.0041 e a prática de nova infração penal, valeu-se de outro processo para manter o agravante da reincidência.
+Aduz que (fl. 347):
+O colegiado deslocou a condenação ocorrida nos autos n. 0000476- 85.2012.8.12.0041 da primeira para a segunda fase da dosimetria da pena, já que o juízo havia dela se valido para reconhecer a existência de antecedentes criminais.
+Requer a reconsideração da decisão ou a submissão do recurso ao colegiado para que seja concedida a ordem pleiteada.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. REINCIDÊNCIA. OUTRA CONDENAÇÃO APTA A JUSTIFICAR AGRAVANTE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Existindo outro processo apto a justificar o agravante de reincidência, nada impede que esse feito seja considerado pelo Tribunal de origem no lugar do outro equivocadamente utilizado na sentença.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o Tribunal de origem não incorreu em reformatio in pejus ao julgar o recurso exclusivo da defesa, pois apenas reforçou a fundamentação já existente na sentença, em profundidade vertical que observou os limites do capítulo devolvido na apelação" (AgRg no AgRg no AREsp n. 2.523.986/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024).
+3. Agravo regimental improvido.
+VOTO
+A pretensão recursal não merece acolhimento, uma vez que os fundamentos apresentados no agravo regimental não evidenciam equívoco na decisão recorrida.
+Conforme consta da decisão agravada, o acórdão está assim fundamentado (fls. 248-249 e 252-253):
+Pretensão de afastamento da agravante da reincidência
+Requer que seja afastada a agravante da reincidência, argumentando que foi considerada a condenação dos autos 0001369-81.2009.8.12.0041, como reincidência, no entanto a extinção da punibilidade nos referidos autos ocorreu em 08 de julho de 2010 (páginas 36/39), ou seja, há muito mais de cinco anos antes da data dos fatos, que ocorreram em 27 de fevereiro de 2019, estando ultrapassado o período depurador, em completa dissonância com o artigo 64, inciso I, do Código Penal.
+Ao analisar a reincidência do apelante o sentenciante consignou:
+"Circunstâncias atenuantes/agravantes: Milita em desfavor do acusado a circunstância agravante da reincidência (CP, art. 61, inc. I), já que foi condenado por sentença com trânsito em julgado (autos n.º 0001369-81.2009.8.12.0041). Outrossim, milita em favor do acusado a circunstância atenuante da confissão espontânea (CP, art. 65, inc. III, alínea "d"). Analisando o concurso entre a circunstância atenuante e agravante em questão tenho que a circunstância agravante não prepondera sobre a atenuante indicada, a teor do art. 67 do Código Penal, de modo que deve haver a compensação entre elas, mantendo-se a pena base."
+ ..
+Dos dispositivos acima transcritos extrai-se que a condenação definitiva anteriormente imposta ao réu tem o prazo de cinco anos para ser passível de gerar reincidência na nova condenação, ultrapassado esse período, ela não tem mais força, não podendo ser computada a reincidência na dosimetria penal de uma nova condenação.
+Ainda, o inciso I, do artigo, 64, do CP, estabelece que o termo a quo para contagem do quinquídio é a data do cumprimento da pena ou da extinção da punibilidade, e não a data do trânsito em julgado da condenação anterior.
+ ..
+No caso dos autos, os antecedentes criminais do Apelante foram juntados às f.36-39. Verifica-se que o sentenciante utilizou o processo n. 0001369-81.2009.8.12.0041 para aplicar a agravante da reincidência.
+Realmente, o processo mencionado pelo julgador de piso, n. 0001369-81.2009.8.12.0041, não pode ser usado para configurar a agravante em comento, isso porque, a extinção da punibilidade foi declarada em 08.07.2010, e o crime julgado nestes autos ocorreu em 27.02.2019, ou seja, quase oito após, tendo portanto decorrido os cinco anos para caducidade dos efeitos da reincidência referentes àqueles autos, período depurador, não podendo o apelante ser considerado reincidente em decorrência do mencionado feito.
+Contudo, como bem ressaltou o ilustre membro do Ministério Público Estadual, verifica-se da certidão de antecedentes criminais, f.36-39, que o apelante possui outra condenação (autos n. 0000476-85.2012.8.12.0041, f.37), com trânsito em julgado em 20.11.2013, portanto anterior ao cometimento do crime tratado nestes autos (27.09.2019) e cuja execução penal, autos n. 0048611-20.2013.8.12.0001, ainda está em andamento, estando o apelante cumprindo pena em regime aberto naqueles autos desde 19.07.2021, conforme consulta ao sistema SEEU, de modo que, neste feito não decorreu o período depurador, uma vez que, como dito, a contagem deste tem início na data do cumprimento da pena ou da extinção da punibilidade, podendo o apelando ser considerado reincidente com base no processo em questão, conforme assentado pelo MP em suas contrarrazões.
+Saliento que, apesar dos fundamentos para aplicação da agravante da reincidência terem sido modificados neste voto, o que entendo possível em razão do efeito devolutivo do apelo, já que a matéria foi objeto de recurso da defesa, tal ato, a meu ver, não importa em reformatio in pejus uma vez que a situação do apenado não foi agravada. Nesse sentido são os seguintes julgados deste Sodalício:
+ ..
+Assim, deve ser modificada a sentença apenas quanto ao fundamento para aplicar a agravante da reincidência, sendo que a condenação que a justifica são os autos n.0000476-85.2012.8.12.0041, cuja execução penal é n. 0048611-20.2013.8.12.0001, sendo mantida a aplicação da referida agravante e sua compensação com a atenuante da confissão espontânea, na segunda fase da dosimetria pena, conforme feito na sentença. (grifos próprios)
+Do excerto, infere-se que a manutenção da agravante da reincidência não provoca constrangimento ilegal. Existindo outro processo apto a gerar a recidiva, nada impede que esse feito seja considerado no lugar do outro equivocadamente utilizado na sentença.
+Nos termos da jurisprudência do Superior Tribunal de Justiça :
+O Tribunal de origem não incorreu em reformatio in pejus ao julgar o recurso exclusivo da defesa, pois apenas reforçou a fundamentação já existente na sentença, em profundidade vertical que observou os limites do capítulo devolvido na apelação.
+(AgRg no AgRg no AREsp n. 2.523.986/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 23/10/2024, DJe de 25/10/2024).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. BUSCA PESSOAL. REQUISITOS DO ART. 244 DO CÓDIGO DE PROCESSO PENAL. PRESENÇA DE FUNDADAS SUSPEITAS. DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ART. 28 DA LEI N. 11.343/2006. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. MANUTENÇÃO DO REGIME INICIAL SEMIABERTO E NEGATIVA DE SUBSTITUIÇÃO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Ficou evidenciada a existência de justa causa para a busca pessoal, pois o Agravante, nas imediações do batalhão da polícia militar, o qual tem duas escolas ao seu redor, "caminhava de um lado para o outro, falando ao telefone, tentando visualizar o que ocorria no local, e por vezes tentava se esconder atrás de um poste, e tirar fotografias da parte interna do Batalhão" (fl. 436).
+2. As instâncias ordinárias, soberanas na análise de provas, concluíram que a conduta praticada pelo Agravante se amolda ao delito previsto no art. 33 da Lei n. 11.343/2006, destacando, para tanto, as circunstâncias da abordagem e a forma de acondicionamento dos entorpecentes, em 34 porções, embaladas individualmente.
+Portanto, concluir de maneira diversa, a fim de desclassificar para a conduta atinente ao art. 28 da Lei de drogas, demandaria o revolvimento do conjunto fático probatório, incabível na via eleita.
+3. A despeito de a Corte estadual, ao julgar a apelação criminal, ter apresentado fundamentação diversa da adotada na sentença condenatória, qual seja, a de que a reincidência do réu (ignorada pela sentença) justifica a determinação de modo carcerário mais gravoso, manteve a reprimenda anteriormente fixada bem como o regime inicial semiaberto, não havendo, dessa forma, prejuízo ao Réu.
+4. Nos termos da jurisprudência desta Corte Superior, "o Tribunal de origem pode, mantendo a pena e o regime inicial aplicados ao réu, lastrear-se em fundamentos diversos dos adotados em primeira instância, ainda que em recurso exclusivo da defesa, sem configurar ofensa ao princípio do reformatio in pejus, desde que observados os limites da pena estabelecida pelo Juízo sentenciante, bem como as circunstâncias fáticas delineadas na sentença e na exordial acusatória" (HC 598.647/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/09/2020, DJe 30/09/2020).
+5. Agravo regimental desprovido.
+(AgRg no HC n. 715.809/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/5/2023, DJe de 26/5/2023.)
+Dessa forma, o agravante não trouxe fundamentos aptos a reformar a decisão agravada, que se mantém por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
