@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LINEU RODRIGUES DO NASCIMENTO JUNIOR, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (fl. 2).
+Na inicial, a Defesa informa que o paciente foi condenado à pena de 23 anos, 1 mês e 26 dias de reclusão e que, após cumprir o lapso temporal necessário em regime fechado, formulou requerimento de progressão ao regime semiaberto (fl. 4).
+Alega que, apesar de o exame criminológico ter sido favorável ao deferimento do direito prisional, o juízo singular indeferiu a progressão sob o fundamento de ausência do requisito subjetivo, decisão esta mantida pela 9ª Câmara de Direito Criminal do TJSP (fl. 4).
+Sustenta que a fundamentação utilizada para negar a progressão de regime é inidônea, pois se baseia na gravidade abstrata do crime e na quantidade de pena a cumprir, o que contraria a jurisprudência pacífica do Superior Tribunal de Justiça (fls. 5-8).
+Afirma que o paciente já cumpriu o lapso necessário para a progressão, não possui anotações de faltas nos últimos 12 meses e apresenta bom comportamento carcerário, além de contar com a conclusão favorável do exame criminológico (fl. 9).
+No mérito, a Defesa requer a progressão do paciente ao regime semiaberto.
+Pedido de liminar indeferido (fls. 67-68).
+As informações foram prestadas às fls. 76-94.
+O Ministério Público Federal apresentou parecer às fls. 96-103.
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida.
+A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Entretanto, diante da possibilidade de concessão da ordem de ofício, em caso de coação ilegal, em observância § 2º do artigo 654 do Código de Processo Penal, passo à análise das alegações defensivas.
+A jurisprudência desta Corte Superior se firmou no sentido de que o afastamento do requisito subjetivo das benesses executórias deve ser embasado nos elementos concretos extraídos da execução, verbis:
+(..) a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução. Precedentes do STJ (HC n. 519.301/SP, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 13/12/2019) (AgRg no HC 803.075/SP, Quinta Turma, de minha relatoria, DJe de 31/5/2023).
+No caso concreto, no que concerne às faltas praticadas pelo paciente no curso da execução penal, consta do referido Boletim que a última falta grave ocorreu em 12/05/2012, isto é, há quase 13 (treze) anos, e que a última falta leve ocorreu em 03/10/2019.
+Embora os delitos praticados pelo paciente sejam graves, tal gravidade já foi sopesada quando da respectiva dosimetria de pena, não podendo novamente servir de fundamento para indeferimento de benefícios da execução penal.
+Acerca da gravidade abstrata dos delitos e das faltas antigas, este é o posicionamento do STJ na questão da progressão de regime:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. GRAVIDADE DOS DELITOS PRATICADOS, LONGA PENA A CUMPRIR, AÇÕES PENAIS EM CURSO E FALTAS GRAVES ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA. MANIFESTA ILEGALIDADE. WRIT CONCEDIDO.
+1. Segundo a jurisprudência desta Corte, " a  gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e a existência de faltas graves cometidas há muito tempo, a princípio, não constituem fundamento idôneo para cassar a progressão ao regime semiaberto concedida pelo Juízo de primeiro grau" (HC n. 417.318/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 5/10/2017, DJe de 16/10/2017).
+2. Tendo a progressão de regime sido indeferida sem a indicação de fundamentação concreta idônea, apenas com base na gravidade dos delitos praticados, na longa pena a cumprir, na existência de faltas graves antigas, praticadas há mais de 5 anos pelo reeducando, além de ações penais em curso referentes ao delito de organização criminosa, verifica-se a ocorrência de manifesta ilegalidade, razão pela qual o writ foi concedido.
+3. Agravo regimental desprovido (AgRg no HC n. 826.890/RN, Sexta Turma, Rel. Min. Jesuíno Rissato, Des. Convocado do TJDFT, DJe de 15/5/2024).
+O paciente já alcançou todos os requisitos objetivos para a progressão ao regime semiaberto, obteve exame criminológico favorável e as faltas disciplinares são bastante antigas.
+Sendo assim, sem notícia de novos fatos relevantes desabonadores da conduta criminal ou carcerária do paciente, entendo que a fundamentação utilizada pela Corte a quo se mostrou inidônea em relação ao caso concreto, consistindo em flagrante ilega lidade que autoriza a concessão da ordem de ofício, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem de habeas corpus, de ofício, para conceder ao paciente a progressão para o regime semiaberto, se novos fatos relevantes e desabonadores não tiverem sido constatados desde a data do acórdão impugnado, tudo a ser verificado pelo juízo da execução.
+Oficie-se, com urgência, ao juízo da execução penal, para ciência e providências de cumprimento.
+Publique-se. Intimem-se.
+EMENTA
