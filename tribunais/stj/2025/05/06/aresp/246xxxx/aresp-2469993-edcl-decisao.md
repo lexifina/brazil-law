@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 130-133) opostos à decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (fls. 125-127).
+A parte embargante sustenta que, "Diante do exposto, data venia, a fim de esclarecer obscuridade, eliminar contradição e suprir omissão e, no intuito de se evitar eventuais dúvidas e discussões desnecessárias ou protelatórias, requerem as embargantes, que Vossas Excelências, cujas decisões prelevam pela sabedoria e acerto, dignem-se, com fulcro no artigo 1.022, incisos I e II, do Código de Processo Civil, acolherem integralmente os presentes embargos de declaração, para, esclarecendo obscuridade, eliminando contradição e suprindo omissão, DECLARAREM, com fulcro na REGRA GERAL OBRIGATÓRIA CONTIDA NOS §§ 1º; 2º; e 11 DO ARTIGO 85 DO CÓDIGO DE PROCESSO CIVIL, bem como em razão do julgamento do TEMA REPETITIVO 1.076 pela Corte Especial do Superior Tribunal de Justiça (STJ), em sede de recurso repetitivo e, portanto, de caráter vinculante, conforme determinação contida no artigo 927, inciso III, e artigo 985, incisos I e II, ambos do Código de Processo Civil, que majoram os honorários advocatícios sucumbenciais em favor do patrono do autor, ora recorrido, ao percentual de vinte por cento (20%) a incidir sobre o valor atualizado da condenação devidamente acrescido de correção monetária pelos índices estabelecidos pela Tabela Prática para Cálculo de Atualização Monetária dos Débitos Judiciais (IPCA-E) do E. Tribunal de Justiça do Estado de São Paulo, e de juros de mora de um por cento (1%) ao mês, contados a partir da data do ajuizamento da ação até a data da efetiva entrega do dinheiro aos credores, nos termos dos artigos 389 e 395, ambos do Código Civil e do TEMA REPETITIVO 677 do EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ), cujo o efeito é vinculante (artigo 927, inciso III, e artigo 985, incisos I e II, ambos do CPC/2015)" (fl. 131).
+Impugnação apresentada (fls. 140-142).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Não assiste razão à parte embargante, uma vez que não houve a condenação ao pagamento de honorários sucumbenciais nas instâncias de origem quando do julgamento do agravo de instrumento, de forma que não devem incidir honorários recursais. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO APELO EXTREMO. ARTS. 932, III, DO CPC E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA. CONTRARRAZÕES. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. RECURSO ORIUNDO DE AGRAVO DE INSTRUMENTO. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA NA ORIGEM. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. A imposição de honorários recursais está condicionada à prévia fixação de honorários de sucumbência na instância de origem, o que não ocorre se tratando de recurso oriundo de agravo de instrumento contra decisão que não pôs fim à demanda.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.332.757/SP, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024.)
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
+EMENTA
