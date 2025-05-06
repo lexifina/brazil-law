@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSIMAR CAMARA DE LIMA em que se aponta como ato coator a decisão monocrática de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE que indeferiu o pedido de liminar formulado no HC n. 1000858-39.2025.8.01.0000.
+Consta dos autos que o paciente está preso preventivamente pela suposta prática dos crimes descritos nos artigos 306 do Código de Trânsito Brasileiro e 304 do Código Penal.
+A impetrante sustenta que a exigência de fiança no valor de R$ 3.000,00 é incompatível com a condição financeira do paciente, que é hipossuficiente.
+Alega que a manutenção da prisão apenas pela impossibilidade de pagamento da fiança constitui constrangimento ilegal, afrontando os princípios da dignidade da pessoa humana e da presunção de inocência.
+Afirma que o próprio Juízo de origem reconheceu a ausência dos requisitos autorizadores da prisão preventiva, mas condicionou a liberdade provisória ao pagamento da fiança, desconsiderando a hipossuficiência do paciente.
+Requer, assim (fl. 16):
+a) O conhecimento e processamento do presente Habeas Corpus, superando-se, na espécie, a orientação da Súmula 691 do Supremo Tribunal Federal, diante da manifesta ilegalidade e do constrangimento ilegal decorrente da exigência de fiança incompatível com a situação financeira do paciente;
+b) A concessão de medida liminar, inaudita altera pars, para que seja determinada a imediata expedição de alvará de soltura em favor do paciente, independentemente do pagamento da fiança arbitrada, com a manutenção das demais medidas cautelares diversas da prisão já impostas pelo Juízo de origem;
+c) No mérito, a confirmação da liminar, concedendo-se definitivamente a ordem para assegurar ao paciente o direito de responder ao processo em liberdade, sem a exigência de prestação de fiança, permanecendo, contudo, submetido às medidas cautelares anteriormente fixadas;
+d) A intimação do Ministério Público Federal para que ofereça manifestação, nos termos do Código de Processo Penal e do Regimento Interno desta Colenda Corte;
+e) A comunicação, com urgência, ao Juízo da Vara Estadual do Juiz das Garantias da Comarca de Rio Branco/AC, para imediato cumprimento da ordem, caso deferida a medida liminar.
+É o relatório.
+DECIDO.
+Constata-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior, pois a matéria não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário, incidindo, à hipótese o enunciado 691 da Súmula do STF, in verbis:
+Não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+Não vislumbro, ainda, em uma análise perfunctória, manifesta ilegalidade a autorizar que se excepcione a aplicação do referido verbete sumular, porquanto as decisões de origem não se revelam teratológicas.
+Isso porque se depreende da fundamentação adotada na decisão que indeferiu a liminar que:
+No caso em apreço, em juízo de cognição sumária, não vislumbro a presença dos requisitos necessários para a concessão da medida liminar pleiteada, uma vez que não se constata, prima facie, ilegalidade patente na decisão da autoridade coatora.
+A fiança, como é cediço, constitui garantia real prestada pelo acusado ou por terceiro, com o objetivo precípuo de assegurar o comparecimento aos atos do processo, evitar a obstrução do seu andamento e garantir a eventual aplicação da lei penal. Trata-se de medida cautelar diversa da prisão, prevista no art. 319, VIII, do Código de Processo Penal, que visa garantir a efetividade do processo penal sem a necessidade de manutenção da custódia preventiva.
+No caso concreto, não se vislumbra desproporcionalidade na aplicação da fiança como condição para a liberdade provisória. Ao contrário, o contexto dos autos parece indicar a necessidade e adequação da medida ao caso, conforme preconizam os arts. 282 e 326 do Código de Processo Penal. A natureza dos delitos imputados ao paciente - condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool (art. 306 do CTB) e uso de documento falso, especificamente a Carteira Nacional de Habilitação (art. 304 do CP) - revela considerável gravidade, notadamente pelo risco imposto à segurança viária e pela falsidade documental, circunstância que potencializa a necessidade de se garantir o comparecimento do acusado aos atos processuais.
+Quanto ao valor arbitrado, R$ 3.000,00 (três mil reais), este se encontra em patamar significativamente reduzido, considerando as diretrizes e os limites estabelecidos no art. 325 do Código de Processo Penal, que prevê fiança de 10 a 200 salários mínimos para infrações cuja pena máxima seja superior a 4 anos, como é o caso do delito previsto no art. 304 do Código Penal.
+Ademais, persiste a controvérsia acerca da efetiva capacidade financeira do paciente, tendo em vista a escassa informação de que este exerce atividade autônoma, sem detalhamento específico sobre a natureza dessa ocupação ou os rendimentos auferidos. Essa falta de informações impossibilita, neste momento processual, uma avaliação precisa da alegada hipossuficiência financeira, apesar da assistência proporcionada pela Defensoria Pública. (fls. 18/19)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+ EMENTA
