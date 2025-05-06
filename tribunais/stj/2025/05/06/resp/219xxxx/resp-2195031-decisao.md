@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial manejado por R. C. Conti Indústria Comércio e Confecções Ltda com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 176):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS/COFINS. NÃO CUMULATIVIDADE. CREDITAMENTO. IPI. IMPOSSIBILIDADE. ART. 170, II, DA IN RFB 2.121/2022. IN RFB Nº 2.152/23
+1. Não é autorizado o creditamento, para os fins das contribuições ao PIS e à COFINS, dos valores referentes ao IPI incidente na aquisição de produtos para revenda, por força do art. 3º, § 2º, inciso II, das Leis 10.637/2002, e 10.833/2003.
+2. É legal o artigo 170, II da INRFB nº 2.121/2022, o qual apenas prestigiou a sistemática da não-cumulatividade já prevista na legislação.
+3. Ainda que o artigo 170, II, da INRFB nº 2.121/2022 tenha sido revogada pela IN RFB nº 2.152/23, nesta constou previsão semelhante.
+Opostos embargos declaratórios, foram parcialmente acolhidos, nos termos da seguinte ementa (fl. 206):
+EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC.
+Embargos de declaração parcialmente providos para suprir a omissão apontada, sem a produção de efeitos infringentes.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aos seguintes dispositivos: I. arts. 4 89, § 1º, IV, e 1.022, II, do CPC, considerando que, a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas, a saber, "acerca dos fundamentos expostos no recurso de apelação, relacionados ao crédito de PIS e COFINS sobre o valor pago a título de IPI recuperável na aquisição, apurados sobre o valor de aquisição (item iii)" (fl. 221); II. art. 97 do CTN, pois "viola o princípio da legalidade as limitações impostas pelas Instruções Normativas RFB nº 1.911/2019 e nº 2.121/2022, que buscaram limitar o direito ao crédito dos contribuintes em confronto com as respectivas leis de regência, nomeadamente as Leis nº 10.637/2002 e nº 10.833/2003" (fl. 227); e III. arts. 3º, I e II, § 1º, I, § 2º, II, e § 3º das Leis 10.637/2002 e 10.833/2003, ao argumento de que "a vedação imposta pelas Instruções Normativas RFB nº 1.911/2019 e nº 2.121/2022, com o objetivo de det erminar a exclusão do IPI da base de crédito do PIS/COFINS, violam a sistemática da não cumulatividade das contribuições, na medida que o imposto incidente na operação de aquisição compõe o respectivo valor de aquisição, não havendo que se restringir ao "custo de aquisição"" (fl. 234);
+Foram ofertadas contrarrazões às fls. 297/312.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do recurso especial (fls. 373/378).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se não ter ocorrido ofensa aos arts. 489 e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Noutra ponta, relativamente à apontada ofensa ao art. 97 do CTN, esta Corte já se manifestou no sentido de que esta não pode ser invocada em recurso especial, porquanto o preceito infraconstitucional é mera reprodução de dispositivo da Constituição Federal.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO SENAR. CONTROVÉRSIA SOBRE O FATO GERADOR. ART. 97 DO CTN. MATÉRIA DE NATUREZA CONSTITUCIONAL.
+1. O art. 97, inciso IV, do Código Tributário Nacional - CTN encontra respaldo no art. 150, inciso I, da Constituição Federal e sua norma possui natureza eminentemente constitucional. Nessa linha, o recurso especial, no qual se defende violação ao princípio constitucional da legalidade tributária, não pode ser conhecido.
+Precedentes: AgRg no AREsp 417.936/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/11/2014; AgRg no AREsp 507.664/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22/10/2014; AgRg no REsp 1454339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/10/2014; AgRg no REsp 1421060/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/04/2014.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.428.741/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/2/2015, DJe 23/2/2015).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SAT. ALEGADA VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CARACTERIZADA. ARTIGO 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS TIDOS POR VIOLADOS. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A análise da violação dos artigos 97 e 110 do Código Tributário Nacional, por reproduzirem princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Precedentes: REsp 828.935/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 29/8/2006; e AgRg nos EDcl no REsp 1.098.218/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009.
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo regimental não provido.
+(AgRg no REsp 1.454.339/RN, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/10/2014, DJe 20/10/2014).
+Além disso, nas razões de recurso especial, a despeito de apontar os arts. 3º, I e II, § 1º, I, § 2º, II, e § 3º das Leis 10.637/2002 e 10.833/2003 como malferidos, a parte recorrente fundamenta suas razões na Instrução Normativa RFB nº 2.121/2022.
+Nesse panorama, ressai nítido que o apelo raro, nos moldes em que apresentado, não ultrapassa a barreira de admissibilidade recursal, como bem delimitado no parecer ministerial. Isso porque a eventual violação da lei federal, no caso, é reflexa, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação do art. 170, II, da Instrução Normativa RFB nº 2.121/2022, providência vedada no âmbito do recurso especial, uma vez que tal regramento não se subsome ao conceito de lei federal.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. REGIME ESPECIAL DE CRÉDITO PRESUMIDO DE PIS E COFINS. ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. EFEITOS RETROATIVOS DA ADE DE EXCLUSÃO. ALEGADA VIOLAÇÃO DOS ARTS. 3º E 5º DA LEI 10.147/00. NECESSIDADE DE APRECIAÇÃO DAS INSTRUÇÕES NORMATIVAS 464/04 E 247/02, QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL. DESCABIMENTO.
+1. É deficiente a fundamentação do Recurso Especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplicação, por analogia, da Súmula 284/STF.
+2. A eventual violação da lei federal, no caso, é reflexa, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação das Instruções Normativas 464/04 e 247/02 da RFB, providência vedada em Recurso Especial, visto que tais regramentos não se subsumem ao conceito de lei federal.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1.488.535/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 7/4/2015, DJe 21/5/2015 - g.m.)
+ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ATS. MEMBROS DO MINISTÉRIO PÚBLICO. CRONOGRAMA DE PAGAMENTO. RESTABELECIMENTO. ACÓRDÃO RECORRIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. ANÁLISE. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. PRETENSÃO RECURSAL QUE DEMANDA ANÁLISE DO PROVIMENTO 26/2009/PGJ/CE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. PROVIMENTO NEGADO.
+1. Trata-se, na origem, de ação de obrigação de fazer proposta pelo ora recorrente, em que se visa o restabelecimento do cronograma de pagamento previsto no Provimento 26/2009/PGJ/CE, referente ao adicional por tempo de serviço (ATS) devido aos membros do Ministério Público do Estado do Ceará.
+2. Sempre que o Tribunal de origem decidir uma questão com fundamento eminentemente constitucional, é inviável a revisão do acórdão pelo Superior Tribunal de Justiça por implicar usurpação da competência do Supremo Tribunal Federal (STF), estabelecida no art. 102 da Constituição Federal.
+3. O acolhimento da tese recursal demandaria estudo do Provimento 26/2009/PGJ/CE, diploma que não se enquadra no conceito de lei federal a autorizar o manejo do recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.966.839/CE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 30/9/2024, DJe de 7/10/2024 - g.m.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego provimento.
+Publique-se.
+EMENTA
