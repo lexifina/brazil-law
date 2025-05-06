@@ -1,0 +1,8 @@
+DECISÃO
+O recorrente alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 5007266-95.2023.4.04.0000, em que foi preservada a higidez da decisão que recebeu a denúncia ofertada em seu desfavor.
+Assere a defesa "que a denúncia (peça exordial e essencial de toda e qualquer ação penal pública sequer juntada ao feito) "não aponta sequer um indício tanto de autoria como de materialidade em relação ao Impetrante" (sic, e-STJ, fls. 129/157). Tampouco há notícia de contrarrazões ministeriais" (fl. 183).
+Todavia, consoante as informações colacionadas aos autos, verifico que, em 11/3/2024, foi proferida sentença condenatória em desfavor do recorrente. A esse respeito, urge consignar que " o  pleito de trancamento da ação penal perde força argumentativa após a prolação de sentença condenatória, já que se pressupõe o estudo aprofundado e exauriente dos fatos narrados na inicial acusatória, induzindo-se, com isso, à perda do objeto do habeas corpus por meio do qual se pretenda trancar a ação penal. Nesse sentido, o Superior Tribunal de Justiça editou o Enunciado sumular n. 648, in verbis: A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus" (HC n. 679.045/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 20/8/2021, grifei).
+Assim, evidencia-se a prejudicialidade deste writ, em que se pugna pelo trancamento da ação penal.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
+EMENTA
