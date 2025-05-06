@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2025 a 06/05/2025, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE SOCIAL DO AGENTE QUE É CONHECIDO PELOS POLICIAIS POR SER ESPECIALIZADO EM ROUBOS DE MOTOCICLETAS NA REGIÃO. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MATEUS VALENTIM DA SILVA, no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0005847-76.2024.8.17.9480).
+Consta dos autos que o paciente teve a prisão em flagrante convertida em preventiva, no dia 1º/12/2024 (Ação Penal n. 0000704-76.2024.8.17.4640), em razão da suposta prática do delito de roubo majorado (fls. 147/148).
+Alega o impetrante que o decreto de prisão carece de fundamentos idôneos, pois inexistem indícios suficientes para justificar a persecução criminal (fl. 4), de modo que a prisão preventiva é desproporcional e pode ser substituída pelas medidas cautelares alternativas (fl. 8).
+Assevera que o paciente é primário, possui residência fixa, é trabalhador e não tem antecedentes criminais, o que afastaria o risco à ordem pública e à instrução criminal (fls. 5/7).
+Requer, inclusive em liminar, a revogação da prisão preventiva, mediante a aplicação das medidas previstas no art. 319 do CPP, com a expedição de alvará de soltura em favor do paciente.
+O pedido de liminar foi indeferido (fls. 168/169) e foram prestadas as informações (fls. 179/183 e fls. 185/188).
+Em sua manifestação, opinou o Ministério Público Federal pelo não conhecimento do habeas corpus (fls. 191/196).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE SOCIAL DO AGENTE QUE É CONHECIDO PELOS POLICIAIS POR SER ESPECIALIZADO EM ROUBOS DE MOTOCICLETAS NA REGIÃO. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+VOTO
+A irresignação não comporta acolhimento.
+Desde logo, não conheço do writ quanto à alegada fragilidade do conjunto probatório acerca da autoria delitiva, pois esse tema não comporta análise nesta via, por versar sobre o próprio mérito da ação penal, o que ultrapassa os limites do habeas corpus, que não admite dilação probatória.
+Vale lembrar que para embasar o decreto de prisão preventiva é suficiente para o juízo cautelar a verossimilhança das alegações, e não o juízo de certeza, próprio da sentença condenatória.
+Quanto à prisão cautelar, o Juízo singular assim a fundamentou (fls. 147/148 - grifo nosso):
+Cediço que a segregação cautelar é exceção, sendo regra a liberdade.
+No caso dos autos, o autuado foi preso em flagrante pela suposta prática do delito capitulado no art. 157, §2º, II, e §2º- A, I, do Código Penal.
+Conforme se extrai dos autos, o autuado foi preso em flagrante pelo efetivo policial por subtrair, juntamente com outro indivíduo, mediante grave ameaça, exercida com uso de arma de fogo, para si ou para outrem, 1 (uma) motocicleta, 1 (um) aparelho celular e 1 (um) capacete, pertencentes à vítima José Flávio Silva dos Santos. A prova da materialidade e os indícios de autoria (fumus commissi delicti), pressupostos para a conversão da prisão em flagrante em prisão preventiva, conforme a parte final do artigo 312 do Código de Processo Penal emergem dos autos, notadamente, pelo Auto de Apresentação de Apreensão (ID nº. 189805795 - pág. 10), bem como, pelos depoimentos e informações colhidos no presente auto de prisão em flagrante delito, em especial, o depoimento dos policiais militares e da vítima.  ..
+Cumpre transcrever trecho do depoimento dos policiais envolvidos na operação, que resultou na prisão do autuado, que disseram, na fase inquisitorial, que visualizaram " ..  os dois indivíduos suspeitos, sendo um deles ligeiramente identificado como Mateus, filho de Abílio do Bar do Muquém, conhecido da equipe da polícia desta cidade por envolvimento em diversos ilícitos na região, mas, com a especialidade de roubos de moto. Ao perceberem a presença do efetivo policial, ambos empreenderam fuga  ..  Após buscas no local, a captura dos suspeitos não foi possível naquele momento, mas a moto abandonada foi recuperada e, próximo  ..  Mateus havida deixado um aparelho celular de propriedade do mesmo  ..  no display, a proteção de tela exibia uma foto do próprio Mateus. Pouco depois, começaram a chegar diversas mensagens no aparelho, todas direcionadas ao mesmo, aparentando ser do outro elemento que fugiu  .. "
+Pondero, ainda, que a pena privativa de liberdade máxima, prevista para o ilícito imputado, ultrapassa 4 (quatro) anos (art. 313, I, do CPP).
+A ordem pública se mostra abalada. A garantia da incolumidade pública objetiva impedir que, em liberdade, o autuado venha a cometer novos delitos. Afasto, por conseguinte, a possibilidade de aplicação de quaisquer das medidas cautelares dispostas no artigo 319 do Código de Processo Penal, por entendê-las inadequadas à gravidade do crime.
+O Tribunal estadual ratificou os fundamentos da segregação (fls. 22/23).
+Do atento exame dos autos não verifico o alegado constrangimento, tendo em vista que a prisão preventiva foi decretada para a garantia da ordem pública, ante a gravidade concreta e o modus operandi do delito supostamente perpetrado. De acordo com o decreto de prisão, o paciente, com outro comparsa, subtraiu para si, mediante grave ameaça exercida com o uso de arma de fogo, uma motocicleta, um capacete e um aparelho de celular. Ao visualizar a viatura policial empreendeu fuga, mas deixou cair o seu próprio celular, facilitando a sua identificação. Além disso, ele é conhecido pelos policiais por ser especializado em roubos de motocicletas na região.
+Tais circunstâncias evidenciam a periculosidade do agente e justificam a manutenção da custódia, para a garantia da ordem pública.
+Ora, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023).
+E ainda: AgRg no RHC n. 147.821/PB, Ministra Laurita Vaz, Sexta Turma, DJe 16/5/2022; e AgRg no HC n. 651.013/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/5/2021.
+Por fim, importante consignar que, em consulta à ação penal na página eletrônica do Tribunal estadual, constatou-se que a audiência de instrução e julgamento foi agendada para o dia 2/4/2025.
+Não se identifica , portanto, constrangimento ilegal apto à concessão de habeas corpus .
+À vista do exposto, denego a ordem.
