@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de LUIZ FERNANDO SANTOS OLIVEIRA, que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, em virtude do julgamento da apelação criminal n. 1500860-24.2024.8.26.0603.
+Consta nos autos que o paciente foi inicialmente condenado pelo juízo de primeiro grau à pena de 9 meses e 10 dias de reclusão, em regime aberto, e 3 dias-multa, por infração ao art. 155, § 4º, inciso I, c.c. o art. 14, inciso II, do Código Penal (fls. 36-40).
+A acusação interpôs apelação criminal ao Tribunal de Justiça do Estado de São Paulo, que deu provimento parcial ao recurso, para aumentar a pena para 11 meses e 20 dias de reclusão e 4 dias-multa, fixando o regime inicial semiaberto (fls. 08-23).
+Na presente impetração, sustenta-se que a multirreincidência não justifica a técnica adotada pelo acórdão impugnado e que, não havendo menção legal quanto à fração a ser aplicada quando existentes agravantes e/ou atenuantes, deve-se utilizar a fração de 1/6 (fls. 4-6). Afirma-se que a reincidência, por si só, não é critério para impor o regime penitenciário mais gravoso para a execução da pena privativa de liberdade e que é necessária a análise da culpabilidade do fato como um todo (fls. 9-11). Alega-se que o tempo de prisão provisória deve ser levado em consideração para a atenuação do regime do paciente, que foi preso em flagrante em 24 de junho de 2024, ou seja, há cerca de três meses, permanecendo em prisão preventiva até a publicação da sentença, em 20/09/2024 (fls. 12).
+Requer, ao final, a concessão da ordem para que seja restabelecida a sentença de primeiro grau (fls. 36-40).
+É o relatório. DECIDO.
+A controvérsia consiste na ocorrência de possível coação ilegal em razão dos critérios empregados na dosimetria da pena.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício na forma do § 2º do artigo 654 do Código de Processo Penal.
+Da leitura do acórdão (fls. 68-71), verifico que, na segunda etapa da dosimetria, o Tribunal de Apelação compensou proporcionalmente a atenuante da confissão espontânea com as agravantes da reincidência, chegando a uma fração de aumento de 1/4 na pena intermediária. Portanto, não vislumbro a presença de coação ilegal ou teratologia, porquanto a fundamentação está amparada em elementos concretamente extraídos dos autos.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que o julgador está vinculado à discricionariedade motivada na dosimetria da pena, cabendo o controle pela via do habeas corpus apenas nas hipóteses de ilegalidade flagrante, o que não se verifica na hipótese dos autos.
+A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE USO DE DOCUMENTO FALSO. DOSIMETRIA. PERCENTUAL APLICADO EM CADA VETORIAL DESFAVORÁVEL. DESPROPORCIONALIDADE NÃO EVIDENCIADA. AUSÊNCIA DE CRITÉRIO MATEMÁTICO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Faz parte do juízo discricionário do julgador indicar o aumento da pena em razão da existência de circunstância desfavorável e, no caso em tela, o acréscimo mostrou-se proporcional e razoável, não merecendo reparo" (AgRg no HC n. 720.209/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/3/2022, DJe de 15/3/2022).
+2. Agravo regimental desprovido.
+(AgRg no HC n. 853.360/RO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/4/2024, DJe de 11/4/2024.)
+No que tange ao regime inicial de cumprimento de pena, conforme disposto no artigo 33, § 3º, do Código Penal, sua fixação requer a análise tanto do quantitativo da pena quanto das circunstâncias judiciais previstas no artigo 59 do mesmo diploma legal.
+No caso concreto, o acórdão impugnado reconheceu a presença da circunstância judicial negativa dos maus antecedentes e também a agravante da reincidência, elementos esses que autorizam o estabelecimento do regime inicial mais gravoso. A esse respeito:
+ ..
+6. Definiu a jurisprudência desta Corte que o estabelecimento de regime inicial mais gravoso para o cumprimento de pena é necessária a apresentação de fundamentação específica, com base em elementos concretos extraídos dos autos, consideradas as circunstâncias judiciais previstas no art. 59 do Código Penal. Na hipótese, a existência de circunstâncias judiciais negativas constitui fundamentação idônea para a fixação do regime inicial semiaberto.
+7. Agravo regimental não provido.
+(AgRg no HC n. 984.629/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
