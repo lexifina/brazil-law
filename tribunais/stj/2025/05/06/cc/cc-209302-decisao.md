@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Tribunal de Justiça do Estado de Minas Gerais (suscitante) e o Tribunal Regional do Trabalho da 3ª Região, nos autos de ação trabalhista proposta por Junior Cesar Gomes Costa contra o Consórcio Intermunicipal de Saúde para Gerenciamento da Rede de Urgência e Emergência da Macro Sudeste - CISDESTE, objetivando condenar o réu a efetuar o pagamento das horas intrajornadas não usufruídas pelo autor.
+O Ministro Marco Buzzi determinou a redistribuição do feito à Primeira Seção (fls. 1.220-1.221).
+É o relatório. Passo a decidir.
+No caso, o autor fez constar em sua inicial que foi "contratado sem prévia realização de concurso público, para prestação de serviços à Reclamada por prazo determinando, para atender necessidade contingencial e temporária na função de soc orrista".
+Assim, cinge-se a controvérsia dos autos em saber qual o juízo competente para processar - se à Justiça Trabalhista ou à Justiça Estadual - ação trabalhista proposta por servidor, contratado na modalidade temporária.
+Consoante jurisprudência desta Corte Superior, compete à Justiça Comum processar e julgar as causas com origem nos contratos temporários firmados entre a Administração Pública e seus agentes, com fundamento no art 37, IX, do permissivo constitucional. No mesmo sentido:
+PROCESSUAL CIVIL. SERVIDOR PUBLICO. AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO CONFLITO DE COMPETÊNCIA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DEMANDA ENVOLVENDO EMPREGADO CONTRATADO TEMPORARIAMENTE SOB O REGIME CELETISTA. ART 37, IX, DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA COMUM. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou orientação segundo a qual compete à Justiça Comum processar e julgar as causas com origem nos contratos temporários firmados entre a Administração Pública e seus agentes, com fundamento no art 37, IX, da Constituição Federal, para a satisfação de necessidade transitória de excepcional interesse público, ainda que o instrumento de contrato ou a legislação local façam remissão ao regime da CLT (1ª S., AgRg no CC 138.953/RS, Rel. Min. Sérgio Kukina, DJe de 18.11.2016).
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt nos EDcl no CC n. 184.362/PR, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 20/9/2022, DJe de 23/9/2022.)
+No mesmo sentido, com idêntica temática dos autos, ou seja, envolvendo também contratação pelo Consórcio Intermunicipal de Saúde para Gerenciamento da Rede de Urgência e Emergência da Macro Sudeste - CISDESTE, destacam-se as seguintes decisões: CC n. 203.154/MG, Ministro Francisco Falcão, DJe de 5/3/2024; CC n. 206.788/MG, Ministro Paulo Sérgio Domingues, DJe de 27/8/2024; CC n. 205.457/MG, Ministro Paulo Sérgio Domingues, DJe de 28/6/2024.
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Tribunal de Justiça do Estado de Minas Gerais (suscitante).
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. CONTRATO TEMPORÁRIO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. PRECEDENTES, EM CASOS IDÊNTICOS.
