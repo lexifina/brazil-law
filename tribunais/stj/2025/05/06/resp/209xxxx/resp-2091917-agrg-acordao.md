@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 30/04/2025 a 06/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Og Fernandes, Sebastião Reis Júnior, Rogerio Schietti Cruz e Otávio de Almeida Toledo (Desembargador Convocado do TJSP) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sebastião Reis Júnior.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. CORRUPÇÃO PASSIVA E ESTELIONATO TENTADO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DA LEGISLAÇÃO FEDERAL QUE TERIAM SIDO VIOLADOS. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. RECONHECIMENTO DO CONCURSO FORMAL PRÓPRIO E DA CONTINUIDADE DELITIVA QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. INEXISTÊNCIA DE ERRO OU ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em relação às alegações de nulidade processual, por violação ao princípio do promotor natural e pelo não conhecimento das contraditas das testemunhas, a defesa não se apontou os dispositivos legais supostamente violados - e de que forma tal violação teria ocorrido -, o que atrai a incidência do óbice da Súmula n. 284/STF.
+2. O exame das circunstâncias em que se deu a ação ou omissão (art. 70 do Código Penal) e das condições de tempo, lugar e modo de execução dos delitos (art. 71 do Código Penal) pressupõe revolvimento fático-probatório inviável em sede de recurso especial.
+3. "A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, de minha relatoria, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por CARLOS ALBERTO DE ALMEIDA contra decisão monocrática de minha relatoria, que deu parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que se fixe o regime inicial de cumprimento das penas observando o tempo de prisão provisória, de prisão administrativa ou de internação do recorrente, no Brasil ou no estrangeiro (art. 387, § 2º, do CPP).
+O agravante sustenta que "a controvérsia trazida no bojo do Recurso Especial consiste na discussão meramente jurídica da aplicação exata do disposto na legislação vigente" (e-STJ fls. 2496-2532).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. CORRUPÇÃO PASSIVA E ESTELIONATO TENTADO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DA LEGISLAÇÃO FEDERAL QUE TERIAM SIDO VIOLADOS. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. RECONHECIMENTO DO CONCURSO FORMAL PRÓPRIO E DA CONTINUIDADE DELITIVA QUE ESBARRA NO ÓBICE DA SÚMULA 7/STJ. DOSIMETRIA DA PENA. INEXISTÊNCIA DE ERRO OU ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em relação às alegações de nulidade processual, por violação ao princípio do promotor natural e pelo não conhecimento das contraditas das testemunhas, a defesa não se apontou os dispositivos legais supostamente violados - e de que forma tal violação teria ocorrido -, o que atrai a incidência do óbice da Súmula n. 284/STF.
+2. O exame das circunstâncias em que se deu a ação ou omissão (art. 70 do Código Penal) e das condições de tempo, lugar e modo de execução dos delitos (art. 71 do Código Penal) pressupõe revolvimento fático-probatório inviável em sede de recurso especial.
+3. "A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 864.464/DF, de minha relatoria, Sexta Turma, julgado em 16/5/2017, DJe de 30/5/2017).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Em relação às alegações de nulidade processual, por violação ao princípio do promotor natural e pelo não conhecimento das contraditas das testemunhas, não se apontou(aram) o(s) dispositivo(s) legal(is) supostamente violado(s) - e de que forma tal violação teria ocorrido - pelo acórdão recorrido.
+Ademais, como ressaltado pelo próprio recorrente, o aludido princípio do promotor natural possui matriz constitucional, sendo inviável o manejo do recurso especial com o intuito de tutelá-lo.
+Tem-se, em verdade, que o recorrente pretende rediscutir tais matérias nesta Corte Especial, porém sem se ater à vinculação dos fundamentos própria do apelo extraordinário.
+Incide em tais casos, portanto, o óbice da Súmula n. 284/STF.
+Ademais, o Tribunal de origem destacou também a inexistência de prejuízo em relação à alegação de violação ao princípio do promotor natural, fundamento suficiente à manutenção do acórdão recorrido que não foi impugnado de forma específica nas razões recursais, sendo forçoso o reconhecimento do óbice da Súmula n. 283/STF.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AFRONTA AO ART. 188 DO CPP. NULIDADE POR INDEFERIMENTO AO DIREITO DE FORMULAR PERGUNTAS EM INTERROGATÓRIO DE CORRÉU. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. DIVERGÊNCIA JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. CONTRARIEDADE AO ART. 1º, P.Ú., E 33, AMBOS DA LEI Nº 11.343/06. DESCLASSIFICAÇÃO DA CONDUTA. REEXAME FÁTICO E PROBATÓRIO. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+ ..
+5. Agravo regimental a que se nega provimento.
+(AgInt no AREsp n. 1.247.259/RJ, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/05/2018, DJe 24/05/2018, grifei.)
+Em relação aos pedidos de reconhecimento da continuidade delitiva e do concurso formal próprio, há o óbice da Súmula n. 7/STJ, uma vez que o exame das circunstâncias em que se deram a ação ou omissão (art. 70 do Código Penal) e das condições de tempo, lugar e modo de execução dos delitos (art. 71 do Código Penal) pressupõe amplo revolvimento de provas e fatos, inviável em recurso especial.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO. ABSOLVIÇÃO OPERADA QUANTO À IMPUTAÇÃO DA PRÁTICA DO DELITO DE ROUBO CONTRA UMA DAS VÍTIMAS. RECONHECIMENTO DA OCORRÊNCIA DE CRIME ÚNICO. PRETENSÃO DO MINISTÉRIO PÚBLICO ESTADUAL DE AFASTAMENTO DA ABSOLVIÇÃO COM O RECONHECIMENTO DO CONCURSO FORMAL. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR.
+1. Na espécie, a alteração da convicção motivada na origem, quanto à configuração de crime único, em razão da subtração de um único patrimônio, com fim de afastar a absolvição e reconhecer o concurso formal, demandaria o exame aprofundado do conteúdo fático e probatório dos autos, o que é vedado em recurso especial, ante o óbice contido na Súmula 7 desta Corte Superior. Precedentes.
+2. Este Superior Tribunal de Justiça já decidiu que, se a intenção do agente é direcionada à subtração de um único patrimônio, estará configurado um único crime, ainda que, no modus operandi, seja utilizada violência ou grave ameaça contra mais de uma pessoa (AgRg no REsp n. 1.490.894/DF, de minha relatoria, Sexta Turma, DJe 23/2/2015). E também o HC n. 479.461/MG, Ministra Laurita Vaz, Sexta Turma, DJe 19/8/2019.
+3. Agravo regimental improvido.
+(AgRg no AREsp n. 1.969.898/GO, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 26/6/2023, DJe de 28/6/2023, grifei.)
+DIREITO PENAL. AGRAVO REGIMENTAL. RECONHECIMENTO DE CONTINUIDADE DELITIVA. REQUISITOS NÃO ATENDIDOS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que negou provimento a recurso especial, mantendo a decisão que não reconheceu a continuidade delitiva entre crimes de roubo praticados.
+2. O agravante pleiteia o reconhecimento da continuidade delitiva, alegando que os crimes foram cometidos em um intervalo de 4 horas, com 20 km de distância entre eles, utilizando o mesmo meio de execução.
+II. Questão em discussão
+3. A questão em discussão consiste em saber se os crimes de roubo praticados em dias consecutivos e em locais distintos configuram continuidade delitiva, considerando os requisitos do art. 71 do Código Penal.
+III. Razões de decidir
+4. A instância anterior concluiu que não há liame subjetivo entre as condutas, uma vez que os crimes foram praticados contra vítimas diferentes, escolhidas aleatoriamente, em circunstâncias de lugar, tempo e modus operandi diversos.
+5. A análise do reconhecimento da continuidade delitiva demanda o revolvimento do acervo fático-probatório, o que é vedado em sede de recurso especial, conforme a Súmula 7 do STJ.
+6. A jurisprudência do STJ exige a verificação dos requisitos fáticos previstos no art. 71 do Código Penal para o reconhecimento do crime continuado, o que não foi atendido no caso em questão.
+IV. Dispositivo e tese
+7. Agravo desprovido.
+Tese de julgamento: "1. O reconhecimento da continuidade delitiva exige a presença de liame subjetivo entre os crimes, o que não se verifica quando as condutas são praticadas contra vítimas diferentes e em circunstâncias diversas. 2. A análise dos requisitos do art. 71 do Código Penal para o reconhecimento do crime continuado não pode ser realizada em sede de recurso especial, em razão da vedação ao revolvimento do acervo fático-probatório (Súmula 7 do STJ)."
+Dispositivos relevantes citados: Código Penal, art. 69; Código Penal, art. 70; Código Penal, art. 71.Jurisprudência relevante citada: STJ, AgRg no AREsp 1.764.739/RJ, Rel. Min. João Otávio de Noronha, Quinta Turma, julgado em 16/03/2021; STJ, AgRg no AREsp 1.125.952/SP, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 14/09/2021.
+(AgRg no AREsp n. 2.777.010/RN, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 17/12/2024, DJEN de 3/1/2025, grifei.)
+Sobre tais alegações, há ainda o óbice da ausência de prequestionamento.
+Verifica-se que as teses deduzidas no recurso especial não foram debatidas de forma específica na origem e não houve a oportuna provocação do exame da quaestio por meio de embargos de declaração, sendo patente a falta de prequestionamento. Destarte, no ponto, tem incidência a vedação prescrita nas Súmulas n. 282 e 356/STF.
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 980.386/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 9/3/2017, DJe 17/3/2017.)
+Destaque-se, ainda, que " é  indispensável a oposição de embargos de declaração para o efetivo exame da questão surgida no julgamento pelo Tribunal de origem, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento da questão federal de modo a se evitar a supressão de instância" (REsp n. 1.525.437/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 3/3/2016, DJe de 10/3/2016.).
+O mesmo se aplica ao pedido de afastamento da circunstância agravante prevista no art. 61, II, g, do Código Penal. Embora tenha sido efetivamente enfrentado pelo Tribunal de origem, não o foi sob os mesmos argumentos fáticos que ora se examina. Apreciá-los na via do recurso especial, portanto, configuraria a indesejada supressão de instância.
+Quanto aos pedidos conhecidos, entendo que o recurso comporta parcial provimento.
+Não prospera o argumento de necessidade de revisão da dosimetria das penas.
+De início, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão, nesta instância extraordinária, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+Como é cediço, a primeira etapa de fixação da reprimenda tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal.
+As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao julgador apresentar elementos concretos de convicção presentes no bojo do processo, sendo inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade, sem indicação de dados concretos, objetivos e subjetivos, que justifiquem o afastamento da pena do mínimo legal estabelecido ao tipo penal.
+Nesse contexto, não há um critério matemático para a escolha das frações de aumento em função da negativação dos vetores contidos no art. 59 do Código Penal, sendo garantida a discricionariedade do julgador para a fixação da pena-base, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto.
+Assim, acerca do tema, a jurisprudência do Superior Tribunal de Justiça tem aplicado critérios que atribuem a fração de 1/6 sobre o mínimo previsto para o delito para cada circunstância desfavorável; a fração de 1/8 para cada circunstância desfavorável sobre o intervalo entre o mínimo e o máximo de pena abstratamente cominada ao delito; ou ainda a fixação da pena-base sem nenhum critério matemático, sendo necessário apenas neste último caso que estejam evidenciados elementos concretos que justifiquem a escolha da fração utilizada, para fins de verificação de legalidade ou proporcionalidade.
+Ilustrativamente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. PENA-BASE. AUMENTO SUPERIOR A 1/6. MAUS ANTECEDENTES. DUAS CONDENAÇÕES ANTERIORES DEFINITIVAS. FUNDAMENTAÇÃO IDÔNEA. CRITÉRIO MATEMÁTICO. PRETENSÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PRECEDENTES.
+1. A legislação penal não estabeleceu nenhum critério matemático (fração) para a fixação da pena na primeira fase da dosimetria. Nessa linha, a jurisprudência desta Corte tem admitido desde a aplicação de frações de aumento para cada vetorial negativa: 1/8, a incidir sobre o intervalo de apenamento previsto no preceito secundário do tipo penal incriminador (HC n. 463.936/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018); ou 1/6 (HC n. 475.360/SP, Ministro Felix Fischer, Quinta Turma, DJe 3/12/2018); como também a fixação da pena-base sem a adoção de nenhum critério matemático. ..  Não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) - (AgRg no HC n. 603.620/MS, Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/10/2020, DJe 9/10/2020) - (AgRg no HC n. 558.538/DF, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 13/4/2021).
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC n. 699.488/SC, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021, grifei.)
+Feitas essas considerações, e tendo em vista as circunstâncias judiciais valoradas negativamente pelas instâncias ordinárias, não há falar em desproporcionalidade da fração de aumento utilizada ao fixar a pena-base.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
