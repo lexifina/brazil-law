@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por ECLESIA REGINA MOREIRA DE ASSIS NOGUEIRA e OUTROS contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 28/11/2024
+Concluso ao gabinete em: 09/04/2025
+Ação: de obrigação de fazer, ajuizada pelos agravantes em face de FUNDAÇÃO DE ASSISTÊNCIA E PREVIDÊNCIA SOCIAL DO BNDES - FAPES, com a finalidade de incorporação da Gratificação Salarial Anual (GSA) aos proventos de aposentadoria.
+Sentença (e-STJ Fls. 1.554/1.559): julgou improcedentes os pedidos.
+Acórdão (e-STJ Fls. 1.621/1.627): negou provimento à apelação da parte agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. PRETENSÃO DE INTEGRAÇÃO DA GRATIFICAÇÃO SALARIAL ANUAL - GSA AOS PROVENTOS DOS AUTORES. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS. IRRESIGNAÇÃO DOS DEMANDANTES. Importante esclarecer que a FUNDAÇÃO DE ASSISTÊNCIA E PREVIDÊNCIA SOCIAL DO BNDES - FAPES, é entidade fechada de previdência e tem por objetivo complementar os benefícios concedidos pelo Regime Geral de Previdência Social (INSS) aos funcionários do BNDES. Percebe-se, claramente, que a gratificação (GSA) não consta, entre os benefícios assegurados aos participantes, tendo o ilustre perito no laudo técnico produzido às fls. 1005/1030, que ".. Não foi identificado por este expert nos autos nenhum documento que comprove a devida constituição das Reservas Matemáticas necessárias a permitir a incorporação, na complementação de aposentadoria de cada um dos autores, dos valores referentes à Gratificação Salarial Anual (GSA), para pagamento na forma requerida na peça exordial, não existindo até o momento fonte de custeio para o pagamento do benefício pretendido (quesito 8)". MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. RECURSO A QUE SE NEGA PROVIMENTO.
+Embargos de Declaração (e-STJ Fls. 1.653/1.656): opostos pela parte agravante, foram rejeitados.
+Recurso especial (e-STJ Fls. 1.658/1.674): alegam violação dos arts. 322, §2º, 489, §1º, I, III e IV, e 1.022, II, do Código de Processo Civil; 187 e 884 do Código Civil. Sustentam que o acórdão recorrido incorreu em omissão e deficiência de fundamentação ao não enfrentar adequadamente os pontos levantados nos embargos de declaração sobre a natureza salarial da GSA, a efetiva contribuição sobre a GSA, bem como o enriquecimento ilícito da FAPES. Aduzem que o acórdão recorrido, ao validar a não integração da GSA à aposentadoria apesar das contribuições realizadas pelos recorrentes sobre essa verba por mais de 13 anos, permitiu o enriquecimento sem causa da FAPES.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: REsp n. 2.095.460/SP, Terceira Turma, DJe de 15/2/2024 e AgInt no AREsp n. 2.325.175/SP, Quarta Turma, DJe de 21/12/2023.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência de previsão de incorporação da verba de Gratificação Salarial Anual (GSA) aos proventos de aposentadoria, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC
+Do exame do acórdão recorrido, constata-se que as questões de mérito foram devidamente analisadas e discutidas, de modo que a prestação jurisdicional foi esgotada.
+É importante salientar que a ausência de manifestação a respeito de determinado ponto não deve ser confundida com a adoção de razões contrárias aos interesses da parte. Logo, não há contrariedade ao art. 489 do CPC, pois o Tribunal de origem decidiu de modo claro e fundamentado.
+No mesmo sentido: AgInt nos EDcl no AREsp 1547208/SP, TERCEIRA TURMA, DJe 19/12/2019 e AgInt no AREsp 1480314/RJ, QUARTA TURMA, DJe 19/12/2019.
+- Do reexame de f atos e da interpretação de cláusulas contratuais
+Com relação à pretensão de incorporação da Gratificação Salarial Anual (GSA) aos proventos de aposentadoria, restou consignado no acórdão que:
+Em análise das provas contidas nos autos, nota-se que o a mencionada gratificação decorre de ajuste estabelecido em Acordo Coletivo de Trabalho, o qual dispõe na sua Cláusula 3ª - "trata da gratificação salarial extraordinária, que foi acordado que o GSA de 2012 seria de 70% da remuneração contratual e que a GSA de 2013 seria de 40% da remuneração, para o empregado que tivesse prestado serviço".
+Observa-se, ainda, que a complementação a que os participantes do FAPES fazem jus, é um dos benefícios previstos no art. 15 do Regulamento do Plano Básico de Benefícios, que assim dispõe:
+Art. 15 - Ficam assegurados aos participantes e a seus dependentes os seguintes benefícios: I - Complementações: a) de aposentadoria; b) de pensão; c) de auxílio-reclusão; d) de abono anual; e) de auxílio-doença. II - Pecúlio por morte.
+Percebe-se, claramente, que a gratificação (GSA) não consta, entre os benefícios assegurados aos participantes, tendo o ilustre perito no laudo técnico produzido às fls. 1005/1030, que ".. Não foi identificado por este expert nos autos nenhum documento que comprove a devida constituição das Reservas Matemáticas necessárias a permitir a incorporação, na complementação de aposentadoria de cada um dos autores, dos valores referentes à Gratificação Salarial Anual (GSA), para pagamento na forma requerida na peça exordial, não existindo até o momento fonte de custeio para o pagamento do benefício pretendido (quesito 8)". (e-STJ Fls 1.625)
+Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls.1.627) para 15% (quinze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1. Ação de obrigação de fazer.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4 O reexame de fatos e provas e a renovada interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
