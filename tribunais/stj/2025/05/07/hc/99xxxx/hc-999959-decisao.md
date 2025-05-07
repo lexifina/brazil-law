@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de VINICIUS DE ARAUJO CALDAS, apontando-se como autoridade coatora o Desembargador do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO que indeferiu o pedido liminar no HC n. 5012239-25.2025.4.04.0000/PR (fls. 16/19).
+Narram os autos que o paciente foi preso em flagrante pela suposta prática do crime de descaminho. Em audiência de custódia, a prisão em flagrante foi homologada e concedida liberdade provisória, mediante o pagamento de fiança no valor de R$ 40.000,00 (quarenta mil reais) - (Processo n. 5003687-11.2025.4.04.7004/PR, em curso na 1ª Vara Federal de Guaíra/PR - Seção Judiciária do Paraná - fls. 29/47).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu o pedido liminar.
+No presente writ, a defesa sustenta que o valor da fiança é excessivo e desproporcional, considerando as condições financeiras do paciente, que trabalha como auxiliar de serviços gerais, recebendo uma remuneração de R$ 1.987,86 (mil novecentos e oitenta e sete reais e oitenta e seis centavos), e tem despesas básicas e obrigações alimentares. Afirma que a manutenção da prisão apenas pela impossibilidade de pagamento da fiança configura constrangimento ilegal, violando os princípios da razoabilidade, proporcionalidade e dignidade da pessoa humana.
+Alega que não há fundamentação concreta para a manutenção da prisão cautelar ou o arbitramento de fiança em valor tão elevado, e que o paciente não apresenta risco à ordem pública ou à instrução processual, pois é primário, com bons antecedentes, trabalho lícito, residência fixa e uma família constituída.
+Pretende, no âmbito liminar e no mérito, a dispensa da fiança arbitrada, com a imediata expedição de alvará de soltura do paciente, ou, subsidiariamente, a redução substancial do valor fixado a título de fiança.
+É o relatório.
+Na espécie, em princípio, seria aplicável a Súmula 691 do STF, observada também por esta Corte, segundo a qual não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a c onfiguração de flagrante ilega lidade ou abuso de poder, o que parece ser o caso em tela.
+Com efeito, de acordo com a jurisprudência desta Corte Superior, afigura-se irrazoável manter-se o réu preso cautelarmente apenas em razão do não pagamento de fiança, mormente porque já reconhecida a possibilidade de concessão da liberdade provisória em audiência de custódia (fls. 43/46).
+Ademais, trata-se de paciente primário, com bons antecedentes (fl. 44).
+A propósito, conforme a orientação do Superior Tribunal de Justiça, não tendo sido demonstrada a presença dos requisitos autorizadores da segregação preventiva, configura-se constrangimento ilegal a manutenção da prisão com base exclusivamente no não pagamento da fiança arbitrada (AgRg no HC n. 921.013/MG, Ministro Otávio de Almeida Toledo, Desembargador Convocado do TJSP, Sexta Turma, DJe de 4/9/2024 - grifo nosso). No mesmo sentido é o AgRg no HC n. 880.615/SC, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 23/10/2024, DJe de 30/10/2024.
+Ante o exposto, com base nos precedentes desta Corte, superando o disposto na Súmula 691/STF, concedo liminarmente a ordem para assegurar a imediata liberdade provisória ao paciente, dispensando-o do pagamento da fiança, salvo se por outro motivo estiver preso, e sem prejuízo da fixação de outras medidas cautelares, caso necessárias, para a substituição da fiança.
+Comunique-se com urgência às instâncias ordinárias.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DESCAMINHO. PRISÃO PREVENTIVA. SÚMULA 691/STF. SUPERAÇÃO. CONCEDIDA LIBERDADE PROVISÓRIA CONDICIONADA AO PAGAMENTO DE FIANÇA. NÃO PAGAMENTO. DESPROPORCIONALIDADE DA MEDIDA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
