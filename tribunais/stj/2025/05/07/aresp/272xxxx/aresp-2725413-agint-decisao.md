@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto pela ASSOCIAÇÃO DE ENSINO DE RIBEIRÃO PRETO contra a decisão de minha relatoria que conheceu do agravo para dar parcial provimento ao recurso especial, conforme ementa a seguir transcrita (fl. 1245):
+ADMINISTRATIVO E PROCESSO CIVIL. ENTIDADE PRIVADA. SAÚDE COMPLEMENTAR. REEQUILÍBRIO ECONÔMICOFINANCEIRO DO CONTRATO. DEFASAGEM DA TABELA DO SUS. NECESSIDADE DA PRESENÇA, ALÉM DA UNIÃO, DO ENTE LOCAL CONTRATANTE (ESTADO, DISTRITO FEDRAL OU MUNICÍPIO). LITISCONSÓRCIO PASSIVO NECESSÁRIO. INDISPENSABILIDADE. JURISPRUDÊNCIA FIRMA DA PELA PRIMEIRA SEÇÃO DO STJ. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+No presente agravo interno, a parte agravante, em síntese, argumenta que a matéria não estaria pacificada e deveria haver o sobrestamento do feito até o julgamento da matéria pela Primeira Seção, bem como reitera a alegação de desnecessidade de inclusão da UNIÃO no polo passivo.
+A parte agravada apresentou contrarrazões ao agravo interno (fls. 1324-1333).
+É o relatório.
+Decido.
+A Primeira Seção deste Tribunal Superior decidiu afetar o REsp n. 2.176.897/DF, REsp n. 2.176.896/DF, REsp n. 2.184.221/DF e REsp n. 2.182.157/DF, relatora Ministra Regina Helena Costa, à sistemática dos recursos repetitivos, com o fim de definir (grifo nosso):
+a) se a União deve figurar no polo passivo de demanda em que se pretende a revisão da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS;
+b) a (in)existência de litisconsórcio passivo necessário entre os entes federativos para integrarem a lide; e
+c) se é possível equiparar os valores da Tabela de Procedimentos Ambulatoriais e Hospitalares do Sistema Único de Saúde - SUS aos estabelecidos pela Agência da Nacional de Saúde - ANS (TUNEP/IVR), com o objetivo de preservar o equilíbrio econômico-financeiro de contrato ou convênio firmado com hospitais privados, para prestação de serviços de saúde em caráter complementar.
+Na oportunidade, houve a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional.
+Nesse contexto, este Tribunal tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação, hoje disciplinado pelo art. 1.040 do Código de Processo Civil.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, RECONSIDERO a decisão agravada (fls. 1245-1251), JULGO PREJUDICADO o agravo em recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1305 do STJ, observadas as normas dos arts. 1.040 e 1.04 1 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SAÚDE COMPLEMENTAR. REEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. TABELA DO SUS. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS (RESP N. 2.176.897/DF, RESP N. 2.176.896/DF, RESP N. 2.184.221/DF E RESP N. 2.182.157/DF). TEMA N. 1.305/STJ. DECISÃO RECONSIDERADA PARA JULGAR PREJUDICADO O AGRAVO EM RECURSO ESPECIAL E DETERMINAR A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
