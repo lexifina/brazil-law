@@ -1,0 +1,31 @@
+DECISÃO
+E. A. P. N. T. formula pedido de antecipação de feitos da tutela recursal contra acórdão proferido nos Autos n. 2282176-81.2024.8.26.0000, em que teria sido denegado o pedido formulado.
+Alega que, desde agosto de 2023, espera o cumprimento de medida considerada urgente, sem que tenha sido submetido a qualquer tratamento, razão pela qual não poderia aguardar o processamento de agravo em recurso especial.
+Aduz que, em vários trechos de conversa estabelecida com a clínica indicada para o tratamento, não foi demonstrada a especialidade no método ABA. Sustenta que a própria clínica reconhece não dispor de estrutura para o atendimento de acordo com o laudo.
+Afirma serem abusivas a cláusula contratual que limita o atendimento e a decisão recorrida, sendo direito da parte obter o tratamento fora da rede credenciada.
+Alega que, no recurso especial, apontou divergência jurisprudencial.
+Argumenta que a urgência do pleito se deve ao fato de que estaria sem tratamento há dois anos.
+Pondera que a plausibilidade do direito está presente e demonstrada, pois ausente a indicação eficaz de terapia na rede credenciada.
+Requer a concessão da antecipação dos efeitos da tutela recursal com a imediata determinação de autorização para que realize o tratamento na rede particular, uma vez evidenciada a falta de indicação na rede referenciada.
+É o relatório. Decido.
+De acordo com as disposições do art. 300 do Código de Processo Civil, a
+tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Portanto, o deferimento do pedido de tutela provisória de urgência exige a demonstração da presença simultânea dos pressupostos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos que embasam o pedido; e o periculum in mora, evidenciado pela possibilidade de perecimento do bem jurídico objeto da medida.
+No caso em apreço, no referido pleito não se constata, em juízo de cognição sumária, a presença concomitante dos mencionados pressupostos legais, pois o requerente não demonstrou o fumus boni iuris, já que se limita a aduzir que seria outra a jurisprudência do STJ nos casos em que a clínica não tenha condições de aplicar as terapias do laudo médico e que a decisão do Tribunal de origem seria abusiva por aceitar a limitação imposta pela cláusula contratual, impedindo seu direito de obter o tratamento na rede particular.
+Além, disso, nem sequer instruiu o presente pedido com os documentos indispensáveis à compreensão da controvér sia, tais como a decisão proferida em cumprimento de sentença que teria sido objeto de agravo de instrumento, bem como o acórdão que teria sido objeto de irresignação por meio de recurso especial, que, a propósito, também não foi acostado a estes autos.
+Ora, a deficiência da instrução, em casos como o presente, por serem similares ao pedido de tutela provisória, configura a inépcia da petição inicia l, na medida em que torna impossível a análise dos requisitos indispensáveis à concessão do buscado efeito suspensivo, entre eles a plausibilidade do direito, ficando autorizada a inadmissão liminar do pleito pelo relator.
+Nesse sentido, confiram-se precedentes:
+AGRAVO INTERNO NA PETIÇÃO. TUTELA PROVISÓRIA INDEFERIDA EM RAZÃO DA DEFICIÊNCIA DA INSTRUÇÃO PROCESSUAL.
+1. Ao pleitear tutela provisória voltada à concessão de efeito suspensivo a recurso especial inadmitido na origem (e cujos autos sequer ascenderam a esta Corte, malgrado a interposição de agravo), deve a parte requerente instruir a petição com as cópias de todas as peças que viabilizem a compreensão da controvérsia, em especial o acórdão recorrido, entre outros. Precedentes. Caso em que a parte não se desincumbiu de tal dever.
+2. Agravo interno não provido. (Aglnt na Pet n. 11.383/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 19/9/2017, DJe de 25/9/2017.)
+RECONSIDERAÇÃO DE DECISÃO TERMINATIVA. PEDIDO RECEBIDO COMO AGRAVO REGIMENTAL. VIABILIDADE. INSTRUÇÃO DEFICIENTE. FISCALIZAÇÃO DA FORMAÇÃO DOS AUTOS DIGITAIS. ÔNUS DA DEFESA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Consoante a firme jurisprudência desta Corte Superior, em observância aos princípios da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, admite-se como agravo regimental a impugnação que, apresentada dentro do quinquídio legal, tenha o nítido intento de reverter decisão unipessoal de cunho terminativo.
+2. O Superior Tribunal de Justiça é firme em salientar que constitui ônus da parte diligenciar para a correta digitalização dos autos. O dever de fiscalização da formação dos autos digitais é consectário do princípio da cooperação, visto que exigir-se do Superior Tribunal de Justiça a fiscalização dos milhares de feitos aqui instaurados acabaria por inviabilizar o próprio processamento das ações e recursos.
+3. A despeito de a defesa alegar que a Presidência da Corte local analisou o pedido de efeito suspensivo, observo que não há nenhum documento juntado aos autos, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental. Recurso não provido. (RCD na Pet n. 12.733/RS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 6/6/2019, DJe de 11/6/2019.)
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA BUSCANDO A ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL INADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA INDEFERINDO A INICIAL. INSURGÊNCIA DA REQUERENTE.
+1. A deficiente instrução do pedido de tutela provisória, desprovida a inicial da cópia do inteiro teor do acórdão recorrido e da respectiva certidão de publicação, ocasiona a manifesta inépcia da petição inicial, notadamente quando intimada a requerente para apresentação dos referidos documentos e descumprida a determinação, por inviabilizar a aferição do fumus boni juris, autorizando o relator a inadmitir a demanda monocraticamente e initio litis. Precedentes.
+2. Pedido de reconsideração recebido como agravo interno desprovido. (RCD no TP n. 549/PE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 3/10/2017, DJe de 11/10/2017.)
+Ante o exposto, indef iro liminarmente a petição.
+Publique-se. Intimem-se.
+EMENTA
