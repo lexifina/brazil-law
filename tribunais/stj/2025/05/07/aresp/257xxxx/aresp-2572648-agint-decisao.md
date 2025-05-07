@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interno interposto por Indústrias Reunidas CMA Ltda contra decisão de fls. 251-253 em que neguei provimento ao agravo em recurso especial por entender que a divergência jurisprudencial não estaria demonstrada, ausente a similitude fática, porquanto no acórdão paradigma o processo de recuperação judicial já está encerrado, viabilizando o ajuizamento de ação individual pelo credor que não habilitou seu crédito no juízo universal, diversamente do caso dos autos, em que o processo de recuperação judicial ainda está em trâmite, justificando a submissão de todos os créditos existentes contra o devedor aos efeitos da recuperação judicial, obstando o conhecimento do recurso especial em relação ao dissídio jurisprudencial alegado.
+Nas razões do presente recurso, o agravante defende, em síntese, que a decisão partiu de premissa equivocada ao não considerar a sentença de extinção da recuperação judicial da executada, que já estava extinta antes da propositura do cumprimento de sentença.
+Argumenta que há similitude fática entre o caso em tela e o acórdão paradigma, justificando a reforma da decisão para que o agravo de instrumento seja provido.
+Foi juntada impugnação da parte ora agravada (fls. 315-337), aduzindo que o crédito da CMA está sujeito aos efeitos da recuperação judicial, conforme o critério temporal do fato gerador anterior ao pedido de recuperação judicial.
+Defende que a decisão recorrida está em conformidade com o entendimento do Superior Tribunal de Justiça no Tema 1051 e que a CMA busca reexame de provas, o que é vedado pela Súmula 7 do Superior Tribunal de Justiça.
+Alega ainda que a CMA não demonstrou o dissídio jurisprudencial de forma analítica, conforme exigido pelo Regimento Interno do Superior Tribunal de Justiça, e requer que seja negado conhecimento ao agravo interno em agravo em recurso especial interposto pela CMA, mantendo-se a decisão agravada.
+Assim delimitada a controvérsia, passo a decidir.
+A parte agravante reitera a tese de que existiria divergência jurisprudencial acerca da necessidade de submissão obrigatória de todos os créditos do devedor em recuperação ao plano de recuperação judicial, viabilizando o ajuizamento de execução individual pelo credor que não habilita seu crédito, tendo sido adotadas soluções jurídicas distintas nos acórdão recorrido e no paradigma.
+De todo modo, não menciona em que ponto o acórdão recorrido teria se manifestado sobre a controvérsia aludida, limitando-se a mencionar o acórdão paradigma, no qual admitida a possibilidade de ajuizamento de execução individual pelo credor que não habilita o respectivo crédito no plano de soerguimento.
+Portanto, não tendo sido comprovada a similitude fática, mediante a transcrição analítica dos julgados supostamente em confronto, concluí na decisão agravada que o recurso especial não deveria ser conhecido pela alínea "c" do art. 105, III, da Constituição Federal.
+Nesse sentido:
+ ..
+3. No caso, a recorrente não logrou demonstrar a divergência jurisprudencial nos moldes exigidos pelos artigos 1.019 do CPC/15 e 255, §§ 1º e 2º, do RISTJ. Isto porque a interposição de recurso especial pela alínea "c" do permissivo constitucional reclama o cotejo analítico dos julgados confrontados a fim de restarem demonstradas a similitude fática e a adoção de teses divergentes, máxime quando não configurada a notoriedade do dissídio.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AR Esp n. 2.488.622/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 30/9/2024, D Je de 3/10/2024.)
+ ..
+4. Os acórdãos confrontados não são aptos para demonstrar o dissídio jurisprudencial quando não há semelhança entre suas bases fáticas.
+ ..
+8. Agravo interno não conhecido.
+(AgInt no R Esp n. 1.982.596/MA, relator Ministro João Otávio de Noronha, Quarta Turma, julgado em 10/9/2024, D Je de 23/9/2024.)
+De toda forma, ao analisar o acórdão recorrido, verifica-se que a controvérsia envolvendo a viabilidade de ajuizamento de ação individual pelo credor que não habilitou seu crédito em recuperação judicial sequer foi objeto de análise na origem, obstando o conhecimento do recurso especial em virtude de questão preliminar prévia, considerada a falta de prequestionamento.
+A propósito, reproduzo a seguinte passagem do acórdão recorrido (fls. 51-52):
+O recurso interposto por Indústrias Reunidas CMA (nº 2011335-79.2023.8.26.0000) não comporta provimento.
+A alegação da exequente Indústrias Reunidas é no sentido de que o crédito não está sujeito aos efeitos da recuperação judicial, pois foi constituído com o trânsito em julgado da sentença que pretende o cumprimento.
+Ocorre que é o fato gerador do crédito e não o trânsito em julgado da sentença que serve de parâmetro para concluir se o referido crédito está ou não sujeito aos efeitos da recuperação judicial, como restou definido na III Jornada de Direito Comercial do Centro de Estudos Judiciários do Conselho da Justiça Federal:
+ENUNCIADO 100 Consideram-se sujeitos à recuperação judicial, na forma do art. 49 da Lei n. 11.101/2005, os créditos decorrentes de fatos geradores anteriores ao pedido de recuperação judicial, independentemente da data de eventual acordo, sentença ou trânsito em julgado.
+No caso concreto, o fato gerador da ação corresponde a falta de pagamentos dos arrendamentos vencidos no período de 1º de maio de 2008 a 03 de setembro de 2008; e, o pedido de recuperação judicial foi formulado posteriormente em 14 de novembro de 2018, como bem salientado pelo Juízo de origem (p. 250 dos autos principais). Logo, o crédito é anterior e, por cons equência, está sujeito aos efeitos da recuperação judicial.
+Como se vê, a análise da controvérsia no acórdão recorrido limita-se à submissão de determinado crédito aos efeitos da recuperação judicial, considerada a data em que constituído, sem controvérsia sobre se o referido crédito teria sido objeto do plano de recuperação judicial, viabilizando o ajuizamento de ação individual.
+Verifico, ainda, que a parte agravante opôs embargos de declaração, suscitando omissão sobre o ponto aludido (fls. 57-64), limitando-se a Corte Local a tecer considerações genéricas sobre o não cabimento do recurso integrativo para o reexame do mérito do que decidido (fls. 82-83).
+Portanto, evidenciada a falta de prequestionamento, o recurso especial não deveria ser conhecido com base nesse pressuposto material prévio, prejudicando a análise quanto à formalidade envolvendo a necessidade de cotejo analítico dos julgados em confronto, para caracterização do dissídio jurisprudencial alegado.
+Ressalte-se, ainda, que segundo a jurisprudência desta Corte: "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017)
+Em face do exposto, reconsidero a decisão agravada (fls. 251-253), para alterar a fundamentação do que decidido, que passa a ser a da presente decisão, mantido o provimento final em que se negou provimento ao agravo em recurso especial.
+Intimem-se.
+EMENTA
