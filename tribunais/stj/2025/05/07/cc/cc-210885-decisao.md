@@ -1,0 +1,21 @@
+DECISÃO
+Em análise, conflito negativo de competência instaurado entre o JUIZ FEDERAL DA 1A VARA DE LIMEIRA - SJ/SP, suscitante, e o JUIZ FEDERAL DA 2A VARA CÍVEL E CRIMINAL DE UBERLÂNDIA - SJ/MG, suscitado, nos autos da execução de título extrajudicial ajuizada pelo MINISTÉRIO PÚBLICO FEDERAL em face de RUY R DA ROCHA PRODUTOS CERÂMICOS LTDA, objetivando o pagamento de multas impostas por descumprimento de Termo de Ajustamento de Conduta - TAC, firmado entre o Parquet e a empresa executada..
+O Juiz suscitado, a quem a ação foi inicialmente distribuída, declinou da competência sob o argumento de que "no que tange à competência, deve ser observado o disposto no art. 781, I, do CPC, o qual determina que a execução fundada em título extrajudicial "poderá ser proposta no foro de domicílio do executado, de eleição constante do título ou, ainda, de situação dos bens a ela sujeitos" (fl. 452).
+Na decisão em que declina de sua competência, o juiz suscitado deduz, ainda, que "forçoso acolher a preliminar suscitada pela parte executada/embargante, declarar a incompetência deste juízo para processar e julgar o presente feito e determinar a remessa dos autos ao douto Juízo da Subseção Judiciária de Limeira - SP, que é o competente, por ser o juízo que detém jurisdição sobre o Município de Cordeirópolis - SP, onde está domiciliada a parte executada" (fl. 452).
+O Juiz suscitante, por sua vez, aduziu que "é do Exequente a faculdade de escolha do foro de sua conveniência (foros concorrentes e não sucessivos), obedecido o regramento imposto pelos incisos do supramencionado dispositivo, de forma que a competência territorial é relativa e, portando, não pode ser declinada de ofício (Súmula nº. 33/STJ)" (fl. 486).
+O presente conflito de competência foi suscitado sob o fundamento de que "considerando que a relação obrigacional gerada pelo instrumento jurídico fora formalizado entre as partes naquela localidade, por representante do MPF lá atuante, configura-se a competência territorial daquele juízo nos termos do art. 781, inc. IV, do CPC/15" (fl. 486).
+Dispensada a remessa dos autos ao Ministério Público Federal, tendo em vista as disposições contidas nos arts. 178, parágrafo único, e 951, parágrafo único, do CPC/2015, e levando-se em consideração, ainda, a existência de jurisprudência, I, da CF/ dominante, no âmbito do STJ, sobre a matéria objeto deste Conflito.
+É o breve relatório. Decido.
+Conheço do conflito, porquanto suscitado entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, e porque observada a previsão dos arts. 66, II, e 953, I, do CPC.
+A questão central diz respeito à definição do Juiz competente para a execução de título extrajudicial (termo de ajustamento de conduta).
+Inicialmente, verifica-se que o juiz suscitado declinou de sua competência tendo em vista a preliminar de incompetência suscitada pela parte executada/embargante, não havendo que se falar em hipótese de incompetência relativa declarada de ofício, afastando-se, portanto, a incidência da Súmula do 33/STJ.
+Ademais, não consta do título executivo extrajudicial qualquer eleição de foro, certo, também, que os bens sujeitos à execução não se situam no foro da Subseção J udiciária de Uberlândia - MG.
+Quanto à controvérsia, o art. 781, I, do CPC, dispõe:
+Art. 781. A execução fundada em título extrajudicial será processada perante o juízo competente, observando-se o seguinte:
+I - a execução poderá ser proposta no foro de domicílio do executado, de eleição constante do título ou, ainda, de situação dos bens a ela sujeitos;
+Assim, em consonância com as diretrizes do art. 781, I, do CPC/2015, a competência para o julgamento da execução é do foro do domicílio do réu.
+Isso posto, conheço do presente conflito de competência para declarar competente o JUIZ FEDERAL DA 1A VARA DE LIMEIRA - SJ/SP.
+Dê-se ciência aos Juízes envolvidos e ao Ministério Público Federal.
+Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. ALIENAÇÃO JUDICIAL ELETRÔNICA. DESNECESSIDADE DE QUE A REALIZAÇÃO DOS ATOS SEJA PRATICADA NO FORO EM QUE SITUADO O BEM. RECUSA JUSTIFICADA DO CUMPRIMENTO DA CARTA PRECATÓRIA. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO.
