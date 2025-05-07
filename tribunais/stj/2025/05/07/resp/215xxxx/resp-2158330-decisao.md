@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUZIA DA CONCEIÇÃO INOCÊNCIO contra acórdão assim ementado (e-STJ fl. 349):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. EXECUÇÃO INDIVIDUAL. GRATIFICAÇÕES DE DESEMPENHO (GDATA). ILEGITIMIDADE ATIVA DE PENSIONISTA PARA EXECUTAR O TÍTULO JUDICIAL COLETIVO. NOME FORA DO ROL DE BENEFICIÁRIOS. EXTINÇÃO DO PROCESSO. 1. Trata-se de recurso de apelação contra sentença que acolheu a impugnação oferecida pela UNIÃO e julgou extinto o presente cumprimento de sentença, ante o reconhecimento da ilegitimidade da parte Autora. 2. Constatado que a ação ordinária 2006.34.00.019397-2 (numeração única: 0019160-21.2006.4.01.3400), foi proposta pelo Sindicato dos Trabalhadores do Serviço Público Federal no Estado do Rio De Janeiro - SINTRASEF na qualidade de "substituto processual de seus filiados: servidores públicos federais inativos relacionados na lista em anexo, docs. anexos", como expresso na exordial daquela demanda, consoante, inclusive, "Relação de Substituídos" acostada aos autos e, considerando que a pensionista em questão não figura entre os substituídos indicados na referida relação nominal, resta clara a impossibilidade da mesma se beneficiar do título judicial, sob pena de flagrante ofensa à coisa julgada, mormente tendo em conta que o mesmo sindicato ajuizou diversas demandas com o mesmo objetivo, instruindo cada uma delas com listagens diferentes de substituídos. Precedentes (STJ e TRF-2ª Região). 3. Recurso de apelação desprovido.
+Nas suas razões, a parte recorrente sustenta ofensa aos arts. 5º, XXXV e LV e 93, IX, da Constituição Federal, 16, 489, 502, 504, 1.022, II e 1.025 do CPC, defendendo, além de negativa de prestação jurisdicional, que "comprovou que, na hipótese dos autos, não há expressa limitação no título executivo judicial quanto aos beneficiários da demanda coletiva", bem como que "O que transita em julgado é o dispositivo da sentença e a mesma é clara a deferir o pedido aos subsistidos e não disse nada de lista alguma" (e-STJ fl. 361).
+Sem contrarrazões.
+Passo a decidir.
+A irresignação não merece prosperar.
+A via excepcional não se presta para análise de eventual ofensa à
+Constituição Federal.
+Noutro giro, a "inexistência de oposição contra o acórdão recorrido de embargos de declaração relativos à tese sobre a qual foi apontada a omissão no apelo nobre importa no reconhecimento de ausência de interesse recursal quanto à alegação de violação do art. 1.022 do CPC/2015" (AgInt AREsp 2.501.775/PB, minha relatoria, Primeira Turma, DJe 03/07/2024).
+Noutra quadra, quanto ao argumento de que "O que transita em julgado é o dispositivo da sentença e a mesma é clara a deferir o pedido aos subsistidos e não disse nada de lista alguma" (e-STJ fl. 361), observa-se a ausência de prequestionamento. Incidência da Súmula 282 do STF.
+Em outra quadra, extrai-se do aresto combatido (e-STJ fl. 347):
+ ..  restou evidenciado que o título judicial abrange tão somente os substituídos que figuravam na "Relação de Substituídos" acostada à exordial daqueles autos, como expressamente consignado na peça vestibular da ação proposta pelo Sindicato.
+Pois bem.
+Infirmar as conclusões do Tribunal a quo, a fim de acolher a tese defendida pela parte recorrente - alcance do título judicial - esbarra no óbice da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se . Intimem-se
+EMENTA
