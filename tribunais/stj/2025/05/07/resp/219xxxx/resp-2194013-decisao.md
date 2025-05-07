@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recursos especiais interpostos pela FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ - FUESPI e pelo MUNICÍPIO DE TERESINA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ assim ementado (e-STJ fl. 296):
+APELAÇÃO.ATO ADMINISTRATIVO. REPROVAÇÃO NA FASE DE INVESTIGAÇÃO SOCIAL. 1. Concurso público. Candidato ao cargo de Guarda Municipal de Teresina. Exclusão do certame por reprovação na fase de investigação social. 2. Conduta incompatível com a função pretendida. Mera instauração de inquérito policial ou de ação penal que não implica eliminação do candidato em fase de investigação social de concurso público. 3. Recurso conhecido e desprovido. 5. Sentença mantida.
+Os aclaratórios foram rejeitados (e-STJ fls. 331/343 e 377/385).
+Nas suas razões, o MUNICÍPIO DE TERESINA alega a violação do art. 10, VII, da Lei Municipal n. 13.022/2015, sustentando "a possibilidade do candidato ser eliminado não pelo fato de responder a inquérito policial, mas simplesmente pelo fato de ter omitido tal questão na fase de investigação social" (e-STJ fl. 359).
+Por sua vez, a FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ - FUESPI aduz ofensa aos arts. 75, II e IV, 115, I, 238, 239, 242, § 3º, 278, 280 e 282 do do CPC, ao afirmar: "apesar de constar na inicial como uma das partes rés, a FUESPI NÃO FOI VALIDAMENTE CITADA, nem validamente intimada de todos os atos processuais! Percebeu-se, assim, que a única comunicação processual foi realizada diretamente ao Núcleo de Concursos e Promoções de Eventos - NUCEPE, que é mero órgão da Fundação ré, conforme endereço consignado no documento de id. 4354755, e não na sede da Procuradoria-Geral do Estado, órgão responsável pela representação judicial da FUESPI e do Estado do Piauí, nos termos dos arts. 6º, §2º, da Lei nº 6.910/2016" (e-STJ fls. 396/397).
+Contrarrazões às e-STJ fls. 404/407.
+Passo a decidi r
+As insurgências não merecem prosperar.
+Quanto ao recurso do MUNICÍPIO DE TERESINA, verifica-se que o Tribunal de origem decidiu com base em matéria constitucional, bem como à luz de legislação municipal e de acordo com o contexto fático existente nos autos, inviabilizando, assim, a análise da insurgência na via do recurso especial, ante os óbices das Súmulas 280 do STF e 7 do STJ.
+Da mesma forma, no que se refere ao recurso FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ - FUESPI, para alteração das conclusões adotadas pelo aresto recorrido, seria necessária a análise de legislação local e da matéria fática existente nos autos, providências inviáveis em sede de recurso especial, o que atrai, também, as Súmulas 280 do STF e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO INSTITUÍDA POR LEI. DIREITO EXPRESSAMENTE NEGADO PELA ADMINISTRAÇÃO PÚBLICA. RECONHECIMENTO DA PRESCRIÇÃO DE FUNDO DE DIREITO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTE. NECESSIDADE REEXAME DE LEI LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STJ.
+ ..
+V - Verifica-se, ainda, que a questão demanda a análise da lei local (Lei Complementar n. 813 de 16/7/1986), providência vedada em sede de recurso especial. Desse modo, aplicável, por analogia, o enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."
+ ..
+VII - Agravo interno improvido. (AgInt no REsp 1.793.712/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 07/05/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAÇÃO PARA O DESENVOLVIMENTO DE RECURSOS HUMANOS - FDRH. NATUREZA JURÍDICA DE DIREITO PRIVADO. PRAZO PRESCRICIONAL. SUPERVENIÊNCIA DA LEI ESTADUAL 14.982/2017. FATO NOVO. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. EXAME DE MATÉRIA LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. INEXISTÊNCIA DE CONTROVÉRSIA FÁTICA. DESNECESSIDADE DE REEXAME DE MATÉRIA LOCAL.
+ ..
+3. Ao contrário do que afirma a parte agravante, o deslinde da controvérsia, tal qual delineada no acórdão recorrido e nas razões do recurso especial, não esbarra no óbice das Súmulas 7/STJ e 280/STF. Isso porque a natureza jurídica de direito privado do FDRH restou expressamente afirmada no acórdão recorrido, motivo pelo qual, quanto a esse ponto, inexistia qualquer tipo de controvérsia fática, sendo desnecessário o exame da Lei Estadual 6.464/1972, em especial diante da irrelevância da origem de seu patrimônio para o deslinde da controvérsia
+4. Agravo interno não provido. (AgInt no REsp 1.774.692/RS, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 09/10/2019).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO dos recursos especiais.
+Caso exista, nos autos, prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
+EMENTA
