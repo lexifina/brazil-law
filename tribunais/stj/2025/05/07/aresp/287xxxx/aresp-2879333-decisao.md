@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇAO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON DO ESTADO DE SÃO PAULO contra decisão do TRIBUNAL DE JUSTIÇA DO MESMO ESTADO, que inadmitiu recurso especial apresentado na Apelação n. 81.2021.8.26.0014, assim ementada (fls. 299-319):
+EMBARGOS À EXECUÇÃO. AUTUAÇÕES LAVRADAS PELO PROCON. CERTIDÃO DE DÍVIDA ATIVA. Embargante que deixou de proceder ao registro eletrônico de notas fiscais emitidas aos consumidores, violando o disposto no art. 7º, §1º, 2, da Lei Estadual nº 12.685/2007. Pretensão da embargante à anulação das CDA"s e das autuações lavradas pelo PROCON e, subsidiariamente, a redução do porcentual da multa aplicada. R. sentença de procedência da demanda. AUSÊNCIA DE NULIDADE NAS CDA"s. Alegação pela embargante que as CDA"s não possuem a correta descrição das infrações e fundamentação legal. Descabimento. Possibilidade de extração das CDA"s de execução quanto às infrações cometidas pela não emissão ou entrega de documento fiscal não hábil ao consumidor. MULTA APLICADA. Inexistência de caráter confiscatório. Lei Estadual nº 12.685/2007 que em seu art. 7º estabelece a fixação de multa por cada nota fiscal não registrada, e não por cada autuação. Ausência de afronta ao princípio do "non bis in idem". Valor fixado que atendeu aos exatos termos da legislação vigente. Proporcionalidade do valor da multa, dado o porte econômico da embargante. Impossibilidade de que a multa seja relevada, ante a natureza não tributária das autuações. Inaplicabilidade do art. 92, da Lei nº 6.374/1989. JUROS DE MORA. Aplicação dos índices previstos na Taxa SELIC, ainda que os débitos ora impugnados não possuam natureza tributária. Extensão do entendimento firmado no julgamento da Arguição de Inconstitucionalidade nº 0170909-61.2012.8.26.000. Precedentes desta C. Corte. HONORÁRIOS ADVOCATÍCIOS. Reconhecimento de sucumbência mínima do PROCON, sendo de rigor a condenação da embargante ao pagamento dos respectivos ônus, observado, no tocante aos honorários advocatícios, o escalonamento previsto no artigo 85, § 5º, do CPC.R. sentença parcialmente reformada. RECURSO DE APELAÇÃO DO PROCON PARCIALMENTE PROVIDO.
+Foram opostos embargos de declaração (fls. 299-319) pelo ora agravante, alegando que houve contradição e omissão. Os embargos não foram acolhidos, consoante acórdão de fls. 334-342.
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora agravante aponta violação dos arts. 489, §1º do Código de Processo Civil, 406 do Código Civil, 56 e 57 do Código de Defesa do Consumidor, 2º da Lei nº 5.421/68, 2º §1º, alínea b, da Lei 8.383/91 e 29, §3º e 37-A da Lei 10.522/02, pretendendo a aplicação do IPCA-E e juros de 1% ao mês à multa, em vez da SELIC.
+Contrarrazões às fls. 483-494.
+O Tribunal a quo não admitiu o recurso especial, por considerar que o acórdão obedeceu os requisitos contidos no art. 489 do Código de Processo Civil e que a incidência do índice IPCA-E é inconstitucional (fls. 509-513).
+Inadmitido o recurso e special, foi interposto o presente agravo (fls 530-534).
+Contraminuta ao agravo às fls. 609-619.
+É o relatório.
+Decido.
+A Corte de origem não admitiu o apelo nobre pelos seguintes fundamentos: 1) fiel obediência do acórdão aos requisitos contidos no art. 489 do Código de Processo Civil; 2) inconstitucionalidade da análise da aplicabilidade da taxa SELIC (fls. 509-510).
+Todavia, a parte Agravante, nas razões do agravo em recurso especial, não impugnou, de maneira específica, nenhum dos fundamentos constantes da dec isão agravada.
+Por conseguinte, aplicam-se, à hipótese dos autos, o art. 932, inciso III, do CPC/2015 e a Súmula n.º 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente:
+ ..
+5. Constitui ônus da parte agravante a refutação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade, o que não ocorreu no caso dos autos. Incidência da Súmula 182/STJ e do art. 932, III, do CPC.
+6. Agravo Interno não provido. (AgInt no AREsp n. 2.141.230/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 15/12/2022, DJe de 19/12/2022.)
+Ante o exposto, NÃO CONHEÇO do agravo.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ALEGADA OFENSA AO ART. 489 DO CÓDIGO DE PROCESSO CIVIL. MULTA ADMINISTRATIVA. CORREÇÃO MONETÁRIA. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO NÃO CONHECIDO.
