@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de EDMILSON VIEIRA DA SILVA e BRUNO FELIPE GOUVEIA DE SOUSA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO.
+Consta dos autos que os pacientes foram denunciados e presos preventivamente pela suposta prática do crime previsto no art. 121, § 2º, IV, c/c o art. 29 do Código Penal.
+A impetrante sustenta a ilegalidade nas decisões que autorizaram a quebra do sigilo telemático e a interceptação telefônica, por ausência de fundamentação adequada.
+Afirma que a autoridade coatora não demonstrou a imprescindibilidade das medidas adotadas, violando o art. 93, IX, da Constituição Federal, e que as provas obtidas devem ser desentranhadas dos autos, conforme o art. 157, caput e § 1º, do Código de Processo Penal.
+Requer a concessão da ordem de habeas corpus para reconhecer a nulidade das determinações de quebra de sigilo dos dados telefônicos e da interceptação telefônica, determinando o desentranhamento das provas ilícitas dos autos.
+As informações foram prestadas (fls. 221-223 e 224-227).
+O parecer do Ministério Público Federal é pelo não conhecimento ou denegação do habeas corpus.
+É o relatório.
+Esta Corte de Justiça já firmou compreensão de que o habeas corpus não deve ser utilizado como substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Observar-se a respeito: AgRg no HC n. 933.316/MG, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 20/8/2024, DJe de 27/8/2024; AgRg no HC n. 874.713/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024; AgRg no HC n. 918.177/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/8/2024, DJe de 22/8/2024; AgRg no HC n. 749.702/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 26/2/2024, DJe de 29/2/2024; AgRg no HC n. 912.662/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 24/6/2024, DJe de 27/6/2024; e HC n. 740.303/ES, relator Ministro Jesuíno Rissato - Desembargador convocado do TJDFT, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.
+Registrada a impossibilidade de conhecimento do habeas corpus, passo à análise da possível ocorrência de ilegalidade sob a ótica da concessão de ofício.
+A concessão da ordem de habeas corpus demanda demonstração da ilegalidade de plano, ônus que recai sobre a parte impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações, o que não foi providenciado pela defesa.
+Com efeito, ao contrário do que se sustenta, inexiste a propalada nulidade na decisão que deferiu a quebra dos sigilos telemáticos e a interceptação telefônica.
+Isso porque se constata às fls. 61-63, 79-84 e 102-139 que as medidas cautelares foram determinadas com suporte em elementos indiciários e apurações prévias e com a finalidade de aprofundamento das investigações, que apontam, em princípio, a participação dos pacientes no crime de homicídio de que tratam os autos, com destaque para a inexistência de outros meios de produção de prova.
+Nesse contexto e ausente prova em sentido diverso, deve prevalecer o entendimento do Tribunal local que assegura a regularidade da quebra do sigilo de dados e das provas obtidas. Confira-se (fls. 147-148):
+Do acima exposto, entendo restar clara a presença dos requisitos autorizadores das medidas cautelares impugnadas, quais sejam: a existência de indícios razoáveis de autoria ou participação, a imprescindibilidade das medidas para a obtenção de prova e o fato de o crime em investigação ser punido com reclusão.
+Como garantiu a autoridade apontada coatora, há indícios suficientes da autoria ou participação dos pacientes em crime apenado com reclusão, "de acordo com as informações colhidas até o momento", e a autoridade policial demonstrou que não existem outros meios para a produção da prova necessária no presente ponto das investigações.
+Assim é que, partindo dos argumentos apresentados pela autoridade policial, o juízo apontado coator demonstrou que as condições para as interceptações telefônicas e a quebra dos sigilos telefônicos se encontravam satisfeitas no presente caso.
+A Procuradoria de Justiça assim também entende, já que, em seu parecer (ID 37159458), asseverou que "todas as decisões que deferiram as representações policiais, bem como as formuladas pelo Ministério Público, e, inclusive, as que decretaram o afastamento do sigilo telemático e a interceptação telefônica, encontram-se devidamente fundamentadas, notadamente na necessidade de melhor elucidar as provas e diante da inexistência de outros meios disponíveis para produção das provas".
+Ainda segundo disse o douto Procurador de Justiça, aludindo a julgados do Superior Tribunal de Justiça, "A decisão de quebra de sigilo telefônico não exige fundamentação exaustiva. Assim, pode o magistrado decretar a medida mediante fundamentação concisa e sucinta, desde que demonstre a existência dos requisitos autorizadores da interceptação telefônica" 1 , como, entendo, ocorreu in casu.
+Com estas considerações, em que pese as argumentações da impetrante, entendo que não existe qualquer constrangimento ilegal causado aos pacientes, razão pela qual devem ser mantidas as interceptações telefônicas e os afastamentos do sigilo dos dados telefônicos autorizados pela autoridade apontada coatora.
+Como visto, estando devidamente fundamentada as medidas cautelares, inexiste hipótese excepcional que autorize a intervenção desta Corte Superior .
+No mesmo sentido os precedentes de ambas as turmas que compõem a Terceira Seção do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, CORRUPÇÃO E FRAUDE EM LICITAÇÃO. QUEBRA DOS SIGILOS TELEFÔNICO E TELEMÁTICO. DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Lei n. 9.296/1996, a qual rege a matéria atinente à interceptação de comunicações telefônicas, dispõe que a medida, para fins de prova em investigação criminal e em instrução processual penal, dependerá de ordem do juiz competente para a ação principal e somente poderá ser decretada se houver indícios razoáveis de autoria ou de participação em infração penal, se a prova não puder ser feita por outros meios e se o fato investigado for punível com reclusão.
+2. A Lei n. 12.965/2014 - Marco Civil da Internet -, que estabelece os princípios, garantias e deveres para o uso da internet no Brasil, prevê, em seu art. 7º, III, dentre os direitos assegurados aos usuários da rede mundial, "a inviolabilidade e sigilo de suas comunicações privadas armazenadas, salvo por ordem judicial".
+3. Na hipótese, a decisão de quebra dos sigilos telefônico e telemático da acusada foi devidamente fundamentada na indispensabilidade das medidas - necessidade de se obterem outras provas acerca dos delitos de organização criminosa, fraude em procedimentos licitatórios e corrupção -, com a efetiva demonstração de sua excepcionalidade, a partir de elementos idôneos constantes dos autos e angariados em prévia investigação policial.
+4. Ainda que o delito previsto no art. 90 da Lei n. 8.666/1993 seja apenado com detenção, os demais crimes investigados - organização criminosa e corrupção - são punidos com reclusão. A discussão a respeito de eventual desclassificação dos delitos investigados para outros menos graves deve ocorrer ao longo da instrução processual, caso ocorra o oferecimento de denúncia, de modo que a via mandamental é inadequada para tal fim, já que seria necessária dilação probatória.
+5. Agravo regimental não provido.
+(AgRg no RHC n. 184.010/GO, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/4/2024, DJe de 18/4/2024.)
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. INTERCEPTAÇÃO TELEFÔNICA E TELEMÁTICA. FUNDAMENTAÇÃO DAS DECISÕES. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Agravo regimental interposto contra decisão que rejeitou embargos de declaração em recurso ordinário em habeas corpus no qual se pleiteava a nulidade das decisões de quebra de sigilo telefônico e telemático por alegada falta de fundamentação.
+2. As decisões impugnadas autorizaram a interceptação telefônica e a quebra de sigilo de dados com base em indícios de crimes graves, como exploração de jogos de azar, peculato e corrupção, envolvendo policiais militares e particulares.
+3. O Tribunal de origem e o juízo singular fundamentaram a necessidade das medidas com base em indícios razoáveis e na impossibilidade de obtenção de provas por outros meios.
+II. Questão em discussão
+4. A questão em discussão consiste em saber se as decisões que autorizaram e prorrogaram a interceptação telefônica e a quebra de sigilo de dados foram devidamente fundamentadas, conforme exigido pela legislação e pela jurisprudência.
+III. Razões de decidir
+5. As decisões de interceptação telefônica e suas prorrogações foram fundamentadas de forma adequada, com base em indícios concretos de prática delitiva e na necessidade das medidas para a investigação.
+6. A jurisprudência do Superior Tribunal de Justiça admite fundamentação sucinta nas decisões de prorrogação, desde que demonstrada a continuidade dos pressupostos que justificam a medida.
+7. A fundamentação per relationem, utilizada nas decisões de prorrogação, é aceita pela jurisprudência, não configurando nulidade.
+IV. Dispositivo e tese
+8. Agravo regimental desprovido.
+Tese de julgamento: "1. As decisões de interceptação telefônica e suas prorrogações não exigem fundamentação exaustiva, bastando a demonstração dos requisitos legais. 2. A fundamentação per relationem é válida para prorrogações de interceptação telefônica, desde que os pressupostos da medida sejam mantidos."
+Dispositivos relevantes citados: Lei nº 9.296/1996, arts. 2º e 5º;
+CF/1988, art. 5º, XII e IX. Jurisprudência relevante citada: STJ, AgRg no RHC 163.613/MS, Min. João Otávio de Noronha, Quinta Turma, DJe 19/8/2022; STJ, AgRg no HC 842.205/SC, Min. Jesuíno Rissato, Sexta Turma, DJe 15/12/2023.
+(AgRg nos EDcl no RHC n. 157.798/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/2/2025, DJEN de 17/2/2025.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. DECISÃO TRANSITADA EM JULGADO. UTILIZAÇÃO COMO SUBSTITUTIVO DE REVISÃO CRIMINAL. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. ART. 105, I, E, DA CF. NÃO CONHECIMENTO.
