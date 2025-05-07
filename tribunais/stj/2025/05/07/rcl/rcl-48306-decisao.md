@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por Álvaro Medrado Vieira e outras, contra acórdão de fls. 155-157 proferido pela Oitava Turma do Tribunal Regional Federal da 2ª Região que, em sede de cumprimento individual da Ação Coletiva n. 0002767-94.2001.01.3400 (número antigo 2001.34.00.002765-2), afastou a legitimidade ativa da parte autora.
+Os reclamantes, em suas razões, argumentam que o acórdão reclamado, ao limitar a condenação apenas aos filiados relacionados na inicial, deixou de "prestigiar a autoridade do acórdão do STJ no AgRg nos Edcl no AgRg no Agravo de Instrumento n. 1.424.442/DF". Requerem, assim, a concessão da liminar para suspender o processo judicial 1036042-84.2019.4.01.3400, e, ao final, o provimento da reclamação, para restabelecer "a coisa julgada e a autoridade da decisão proferido pelo STJ contida no referido acórdão".
+Às fls. 160-161, deferi o pedido liminar para suspender a tramitação do processo originário até o julgamento desta reclamação (art. 989, II, do CPC/2015).
+Informações prestadas às fls. 167-170.
+O Ministério Público Federal oficia pela procedência da reclamação (fls. 182-187).
+É o relatório. Passo a decidir.
+Compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões, bem como para garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência, nos termos dos art. 105, I, "f", da CF c/c o art. 187 do Regimento Interno do STJ e o art. 988 do CPC/2015.
+No caso, cabe observar que o mesmo acórdão reclamado foi objeto de impugnação no bojo do AREsp n. 2.712.701/RJ, de minha relatoria, em que se julgou prejudicado o recurso, com a determinação de devolução, para que o Tribunal de origem, após a publicação do acórdão proferido sob a sistemática nos recursos repetitivos (REsps 2146834/AP e 2146839/AP - Tema 1302/STJ, Rel. Min. Teodoro Silva Santos, DJEN 18/12/2024), e em observância aos artigos 1.030 e 1.040 do CPC/2015: a) negue seguimento ao recurso especial se o acórdão recorrido estiver em conformidade com o entendimento do STJ; ou b) encaminhe os autos ao órgão julgador para realização do juízo de retratação se o acórdão recorrido divergir do entendimento do STJ.
+Nesse contexto, "não mais persistindo no mundo jurídico o ato judicial reclamado, deve-se reconhecer a ausência de interesse no prosseguimento da reclamação por superveniente perda de objeto" (Rcl n. 31.935/MG, Rel. Ministro Og Fernandes, Primeira Seção, DJe de 8/9/2020). No mesmo sentido, destaca-se julgado de minha relatoria: RCL n. 48.366/RJ, Rel. Min. Benedito Gonçalves, DJe: 18/11/2024, trânsito em julgado: 25/2/2025.
+Por todo o exposto, declaro extinta a reclamação, sem julgamento de mérito.
+Por conseguinte, casso a decisão proferida às fls. 160-161, que deferiu o pedido de liminar.
+Comunique-se esta decisão ao Presidente do Tribunal Regional Federal da 1ª Região.
+Publique-se. Intimem-se.
+EMENTA
