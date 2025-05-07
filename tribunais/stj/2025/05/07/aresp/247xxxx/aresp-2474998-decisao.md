@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto da decisão que inadmitiu o recurso especial no qual SIND DAS EMP DE PREST DE SER T C A M O T T NO E DE SP se insurgira, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (fl. 1166):
+PROCESSUAL CIVIL. AGRAVO LEGAL . CPC, ART. 557, § 1º. APLICABILIDADE. PEDIDO DE REFORMA DE DECISÃO. SAT. CADA ESTABELECIMENTO. EXIGIBILIDADE DE CNPJ PRÓPRIO.
+1. A utilização do agravo previsto no art. 557, § 1º, do CPC, deve enfrentar a fundamentação da decisão agravada, ou seja, deve demonstrar que não é caso de recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior. Por isso que é inviável, quando o agravante deixa de atacar especificamente os fundamentos da decisão agravada. (STJ, AGREsp n. 545.307, Rel. MM. Eliana Calmon, j. 06.05.04; REsp n. 548.732, Rel. Min. Teori Albino Zavascki, j. 02.03.04)
+2. A alíquota de contribuição para o Seguro de Acidente do Trabalho deve ser verificada de acordo com a atividade preponderante da empresa quando esta possuir CNPJ único (antigo CGC). Apenas na hipótese de cada estabelecimento possuir um cadastro próprio é que se considera a alíquota do SAT de forma individualizada para cada pessoa jurídica (STJ, Súmula n. 351).
+3. A impetrante exerce a atividade de locação de mão-de-obra temporária (CNAE n. 7820-5/00) e pretende o recolhimento da contribuição ao SAT pelo grau de risco médio, estabelecido para sua atividade pelo Decreto n. 3.048/99, ao argumento de ser inconstitucional o seu reenquadramento para o grau de risco grave, efetuado pelo Decreto n. 6.957/09. O grau de risco, bem como a correspondente alíquota para a contribuição ao SAT, é determinado pela atividade preponderante da empresa, que, por sua vez, é aquela exercida pelo maior número de empregados.
+4. A partir de tais considerações, infere-se não ser possível estabelecer previamente um grau de risco para atividades listadas na Classificação Nacional de Atividades Econômicas - CNAE que, por serem demasiadamente amplas, abrangem sob sua rubrica outras tantas atividades, nos mais diversos âmbitos, a apresentar graus de risco também diferenciados. Tal entendimento aplica-se ao caso em apreço tendo em vista a própria natureza da atividade de locação de mão-de-obra temporária, que pode ser direcionada a qualquer setor econômico. Não seria viável, por exemplo, tributar uma empresa voltada à substituição de mão-de-obra administrativa, por exemplo, com alíquota correspondente ao grau de risco grave.
+5. Por outro lado, o § 13 do Decreto n. 3.049/99 dispõe que cabe à empresa realizar o enquadramento da atividade preponderante e informar em GFIP a alíquota correspondente ao seu grau de risco, cabendo à Administração Previdenciária revê-lo a qualquer tempo. Insta salientar, contudo, que se não pode ser considerado o grau de risco grave pré-estabelecido pelo Decreto n. 6.957/09 tampouco é possível garantir a todas as empresas associadas à impetrante o recolhimento da contribuição ao SAT pelo grau de risco médio, conforme previa inicialmente o Decreto n. 3.048/99; razão pela deve ser denegada a segurança pleiteada na impetração.
+6. Agravo legal não provido.
+Os embargos de declaração opostos foram desprovidos (fl. 1177).
+Nas razões de seu recurso especial, a parte recorrente alega violação ao art. 1.022 do Código de Processo Civil (CPC) e ao art. 97 do Código Tributário Nacional (CTN).
+Argumenta que o Decreto 6.957/2009, ao majorar a alíquota do RAT, violou o princípio da estrita legalidade, pois tal alteração deveria ser feita por lei, não por decreto.
+Sustenta que a majoração foi imotivada e desconsiderou a natureza da atividade de locação de mão-de-obra temporária (fls. 1212/1228).
+A parte adversa apresentou contrarrazões (fl. 1369).
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+A decisão de admissibilidade foi devidamente refutada na petição de agravo e, por isso, passo ao exame do recurso especial.
+Nas razões do recurso especial, relativamente à violação ao art. 1.022 do Código de Processo Civil, a parte recorrente alegou o seguinte (fl. 1 216):
+Assim, diante da ausência de manifestação expressa pelo E. Tribunal Regional Federal da 3 Região acerca dos dispositivos prequestionados pelo ora recorrente, bem como sobre a necessidade de observância do entendimento firmado por este C. Superior Tribunal de Justiça acerca da matéria em discussão, questões imprescindíveis ao deslinde de causa, é evidente a violação ao artigo 1.022, do Código de Processo Civil, o que enseja a necessidade de provimento do presente recurso, no sentido de ser anulado o v. acórdão recorrido.
+Constata-se que foram feitas alegações genéricas, que se deixou de indicar especificamente os pontos sobre os quais o julgador deveria ter se manifestado. O recurso especial é deficiente, o que inviabiliza a compreensão da controvérsia.
+Incide no caso em questão, por analogia, a Súmula 284 do Supremo Tribunal Federal (STF).
+Além disso, é vedado o exame da alegação de violação do art. 97 do Código Tributário Nacional (CTN) pelo Superior Tribunal de Justiça (STJ) por ser esse dispositivo mera reprodução de preceito constitucional (art. 150, I, da Constituição Federal, que trata do princípio da legalidade tributária).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 97 DO CTN. REPRODUÇÃO DO PRINCÍPIO CONSTITUCIONAL DA LEGALIDADE TRIBUTÁRIA. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL. PERSE.  ..  DISSÍDIO PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. O art. 97 do CTN é a reprodução do princípio da legalidade tributária, revelando-se incabível o exame de eventual ofensa a tal dispositivo, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal, nos termos do art. 102, III, do permissivo constitucional. Precedente.
+ ..
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 2.098.875/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/9/2024, DJe de 26/9/2024, sem destaque no original.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ..  VIOLAÇÃO DO ART. 97 DO CTN. PRINCÍPIO DA LEGALIDADE. COMPETÊNCIA DO STF.
+ ..
+3. Ademais, é firme o entendimento jurisprudencial de que "é vedado o exame da alegação de violação do artigo 97 do CTN pelo STJ, por ser esse dispositivo mera reprodução de preceito constitucional, no caso o artigo 150, I, da CF, que trata do princípio da legalidade tributária" (AgInt no AREsp 1.984.454/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23.6.2022).
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 2.475.467/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/6/2024, DJe de 17/6/2024, sem destaque no original.)
+Por fim, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c; em razão disso fica prejudicada a apreciação do dissídio jurisprudencial referente ao mesmo dispositivo de lei federal apontado como violado ou à tese jurídica.
+A propósito, confiram-se as decisões proferidas nestes processos: (1) Aglnt no REsp 1.878.337/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2020, DJe de 18/12/2020; e (2) Aglnt no REsp 1.503.880/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe de 8/3/2018.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
