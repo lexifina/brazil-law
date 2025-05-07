@@ -1,0 +1,19 @@
+Trata-se dos seguintes pedidos para intervir no processo na condição de amigo da Corte: Estado do Rio Grande do Sul (docs. 24 e 128); Estados de Minas Gerais, Pará, Paraná e Piauí (docs. 26 e 128); Federação dos Sindicatos de Servidores Municipais do Estado do Rio Grande do Sul – Fesismers (doc. 30); Sindicato Nacional dos Servidores Federais da Educação Básica, Profissional e Tecnológica – Sinasefe Nacional (doc. 36 e 116); Confederação Nacional dos Trabalhadores Públicos Municipais Conatram e Confederação dos Trabalhadores no Serviço Público Municipal Confetam/Cut (doc. 43); Município de Gavião Peixoto/SP (doc. 50); Sindicato Estadual dos Profissionais da Educação do Rio de Janeiro – Sepe/RJ (doc. 53); Associação dos Diretores de Escolas Públicas do Estado do Rio de Janeiro - Aderj (doc. 58); Confederação Nacional de Municípios – CNM (doc. 63); Município de Martinópolis/SP (doc. 71); Sindicato Único dos Profissionais do Magistério Público das Redes Municipais de Ensino no Estado de Pernambuco – Sinduprom/PE (doc. 74); Sindicato dos Professores do Ensino Oficial do Estado de São Paulo - Apeoesp (docs. 83 e 130); Município de Porto Alegre/RS (doc. 100); Município de Salesópolis (doc. 102); Sindicato dos Trabalhadores em Educação Pública no Estado do Paraná-APP (doc. 105); Município de Monte Sião/MG (doc. 112); Município de Araponga/MG (doc. 114) e Confederação Nacional dos Trabalhadores em Educação – CNTE (doc. 120).
+
+    É o relatório. Decido.
+
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que “o relator, no exercício de seus poderes, pode admitir o amigo da corte ou não, observando os critérios legais e jurisprudenciais e, ainda, a conveniência da intervenção para a instrução do feito” (RE 817.338-AgR-segundo/DF, Rel. Min. Dias Toffoli).
+
+    Neste recurso extraordinário, verifico que a questão a ser examinada não envolve a aplicação de conhecimentos estranhos ao Direito, estando os autos devidamente instruídos com as informações necessárias para que o Plenário do Supremo Tribunal Federal profira sua decisão sobre o mérito.
+
+    Ademais, estando o feito pautado para julgamento na sessão virtual que se inicia no dia 9/5/2025, entendo que a admissão de todos os requerentes poderá causar eventual demora na prestação jurisidicional.
+
+    Posto isso, indefiro os seguintes requerimentos para integrar o feito na condição de amigo da Corte: Estado do Rio Grande do Sul (docs. 24 e 128); Estados de Minas Gerais, Pará, Paraná e Piauí (docs. 26 e 128); Federação dos Sindicatos de Servidores Municipais do Estado do Rio Grande do Sul – Fesismers (doc. 30); Sindicato Nacional dos Servidores Federais da Educação Básica, Profissional e Tecnológica – Sinasefe Nacional (doc. 36 e 116); Confederação Nacional dos Trabalhadores Públicos Municipais Conatram e Confederação dos Trabalhadores no Serviço Público Municipal Confetam/Cut (doc. 43); Município de Gavião Peixoto/SP (doc. 50); Sindicato Estadual dos Profissionais da Educação do Rio de Janeiro – Sepe/RJ (doc. 53); Associação dos Diretores de Escolas Públicas do Estado do Rio de Janeiro - Aderj (doc. 58); Confederação Nacional de Municípios – CNM (doc. 63); Município de Martinópolis/SP (doc. 71); Sindicato Único dos Profissionais do Magistério Público das Redes Municipais de Ensino no Estado de Pernambuco – Sinduprom/PE (doc. 74); Sindicato dos Professores do Ensino Oficial do Estado de São Paulo - Apeoesp (docs. 83 e 130); Município de Porto Alegre/RS (doc. 100); Município de Salesópolis (doc. 102); Sindicato dos Trabalhadores em Educação Pública no Estado do Paraná-APP (doc. 105); Município de Monte Sião/MG (doc. 112); Município de Araponga/MG (doc. 114) e Confederação Nacional dos Trabalhadores em Educação – CNTE (doc. 120)..
+
+    Publique-se.
+
+    Brasília, 7 de maio de 2025.
+
+Ministro Cristiano Zanin
+
+Relator
