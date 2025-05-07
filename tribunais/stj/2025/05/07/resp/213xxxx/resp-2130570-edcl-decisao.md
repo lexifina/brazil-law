@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANEOR - ASSOCIAÇÃO NACIONAL DAS EMPRESAS DE OBRAS RODOVIÁRIAS, contra decisão de minha autoria que não conheceu do recurso especial, nos termos da seguinte ementa (fl. 463):
+RECURSO ESPECIAL. TRIBUTÁRIO. TRIBUTÁRIO. EXCLUSÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL DA BASE DE CÁLCULO DO PIS E COFINS. CONTROVÉRSIA ACERCA DO CONCEITO DE FATURAMENTO. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. RECURSO NÃO CONHECIDO.
+Sustenta a parte que "aufere-se da Decisão ora embargada que há nítido erro material, na medida em que a Decisão afirma que a UNIÃO  FAZENDA NACIONAL supostamente teria interposto o Recurso Especial, sendo que, em verdade, quem interpôs o REsp foi a ora Embargante ANEOR - ASSOCIAÇÃO NACIONAL DAS EMPRESAS DE OBRAS RODOVIÁRIAS".
+Pugna que "a Decisão, ao juntar ementas relativas à CPRB para fundamentar o não conhecimento do recurso, faz crer que a matéria de base é essa, enquanto a Embargante busca, na verdade, a reforma de decisão que, violando matéria infraconstitucional, não reconheceu a exclusão dos valores atinentes às contribuições previdenciárias patronais (INSS) das bases de cálculo do PIS e da COFINS".
+Não foi apresentada resposta ao recurso integrativo (fls. 482).
+É o relatório.
+Decido.
+Os embargos de declaração devem ser acolhidos parcialmente, tão somente para corrigir erro material quando da menção à Fazenda Nacional como recorrente, quando da verdade quem interpôs o recurso especial fora a embargante, ASSOCIACAO NACIONAL DAS EMPRESAS DE OBRAS RODOVIARIAS, razão pela qual merecem acolhimento para correção do nome da recorrente, saneando o erro material em apreço.
+Quanto ao mais, nos termos do comando normativo insculpido no art. 1.022 do Código de Processo Civil, o recurso integrativo tem como escopo corrigir omissões, obscuridades, contradições ou erros materiais eventualmente existentes no provimento judicial. Ocorre que tais vícios não são verificados no aresto ora embargado.
+Diferente do alegado pela embargante, em nenhum momento fora mencionado a CRPB de modo a crer que a matéria de base seria relativa a essa contribuição.
+Os julgados juntados visam corroborar a tese que fundamentou a inadmissão recursal: "a discussão acerca do conceito de receita bruta e faturamento para fins de definição da base de cálculo da contribuição ao PIS e da CONFIS é matéria de cunho eminentemente constitucional" (fl. 464).
+Destaca-se os trechos das decisões colacionadas à decisão embargada:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. INCLUSÃO DO PIS E DA COFINS NA BASE DE CÁLCULO DA CPRB. QUESTÃO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Segundo a jurisprudência desta Corte, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado no Superior Tribunal de Justiça, sob pena de usurpação de competência do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.013.421/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 14/6/2022, DJe de 24/6/2022.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXCLUSÃO DA CPRB. BASE DE CÁLCULO PIS E COFINS. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+III - Na hipótese, o inconformismo da recorrente, em última análise, diz respeito à discussão sobre o conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, o que compete apenas ao Pretório Excelso.
+IV - Dessa forma, a resolução da questão controvertida com amparo na interpretação e na aplicação de regramentos, princípios e precedentes constitucionais, como a ocorrida em tela, inviabiliza o conhecimento da controvérsia pelo Superior Tribunal de Justiça, na via estreita do recurso especial, conforme decidido.
+V - Agravo interno improvido. (AgInt no AREsp n. 1.946.144/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 23/5/2022, DJe de 26/5/2022.)
+AGRAVO INTERNO DO PARTICULAR: RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. TRIBUTÁRIO. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. MATÉRIA DE FUNDO DE ÍNDOLE CONSTITUCIONAL. JULGAMENTO DO AGRAVO INTERNO QUE TORNA PREJUDICADO O JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO DE FLS. 1.618-1.621 E-STJ.
+ ..
+2. A Corte de Origem apenas aplicou o precedente ao caso concreto, interpretando-o consoante a sua compreensão dos parâmetros constitucionais eleitos pelo Supremo Tribunal Federal. À toda evidência, a Corte de Origem pode fazê-lo, já que não tem impedimento algum para exame de matéria constitucional. Já este Superior Tribunal de Justiça, em sede de recurso especial, segue lógica outra: não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem Constitucional. Nesse sentido: EDcl no REsp. n. 1.191.640 - SC, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 07.05.2019).
+3. O julgamento do presente agravo interno do particular torna prejudicado o julgamento dos embargos de declaração interpostos às fls. 1.618-1.621 e-STJ por perda de objeto.
+4. Agravo interno não provido. (AgInt no REsp n. 1.863.535/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/4/2022, DJe de 5/5/2022.)
+TRIBUTÁRIO. AÇÃO ANULATÓRIA. COFINS. BONIFICAÇÕES. SUPOSTA VIOLAÇÃO A COISA JULGADA. DECADÊNCIA E PRESCRIÇÃO. ACÓRDÃO COM FUNDAMENTO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. CONTROVÉRSIA ACERCA DO CONCEITO DE RECEITA BRUTA, MATÉRIA EMINENTEMENTE CONSTITUCIONAL. JUROS E CORREÇÃO MONETÁRIA. SÚMULA 83/STJ.
+ ..
+3. A análise do conceito de faturamento e receita bruta tem índole emine ntemente constitucional, de modo que compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+4. Quanto ao índice de correção monetária e juros de mora dos tributos federais, o Superior Tribunal de Justiça "tem entendimento consolidado no sentido da legalidade (..) da aplicação da taxa SELIC, a partir de 1º de janeiro de 1995, como índice adequado para a cobrança de tributos federais" (AgInt no REsp 1.759.512/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 18.10.2019).
+5. Agravo Interno não provido. (AgInt no AREsp n. 1.805.836/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2021, DJe de 17/12/2021.)
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, tão somente para sanear o erro material, nos termos da fundamentação supra, sem atribuição de efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. CORREÇÃO. OMISSÕES. INEXISTÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS. SEM EFEITOS INFRINGENTES.
