@@ -1,0 +1,34 @@
+DECISÃO
+Considerando as alegações apresentadas na petição de fls. 161-167 e o fato de que não foi determinada a suspensão dos feitos que tramitam no STJ que digam respeito ao Tema n. 1.230/STJ, é caso de se reconsiderar a decisão de fls. 156-158 e prosseguir no exame do agravo em recurso especial.
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação dos arts. 489 e 1.022 do CPC/2015, falta de demonstração de ofensa aos demais artigos arrolados, incidência da Súmula n. 7/STJ e falta de comprovação do dissídio jurisprudencial (fls. 98-101).
+O acórdão recorrido está assim ementado (fl. 24):
+Cumprimento de sentença em ação de rescisão contratual - Decisão que rejeitou as alegações da executada e deferiu a constrição da remuneração por esta percebida em favor do credor no percentual de 10% do salário líquido até a satisfação integral do débito - Alegação do agravado que o crédito perseguido também possui natureza alimentar: honorários advocatícios - Impossibilidade - Caráter alimentar não se confunde com prestação alimentícia - Liberação dos ativos bloqueados devida - Indeferido o pedido de penhora do salário da executada - Impossibilidade da relativização da impenhorabilidade no caso vertente Recurso provido.
+Dá-se provimento ao recurso.
+Os embargos de declaração foram rejeitados (fls. 90-94).
+Nas razões do recurso especial (fls. 33-54), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) arts. 489, § 1º, IV e VI, e 1.022, II, e parágrafo único, II, do CPC/2015, porque, apesar da oposição de embargos de declaração, o Tribunal de origem não teria examinado as alegações referentes à inaplicabilidade do precedente no qual se fundou o acórdão recorrido (REsp n. 1.815.055/SP) - uma vez que diz respeito à constrição da verba salarial em sua integralidade -, devendo ser aplicado o entendimento consagrado nos EREsp n. 1.582.475/MG, os quais tratariam de situação idêntica à dos autos; e
+(b) arts. 797 e 833, IV, do CPC/2015, pois a execução se processa no interesse do credor, de modo que deveria ter sido permitida a penhora da alegadamente módica quantia correspondente a 10% (dez por cento) do salário da parte executada. Alegou ser incontroverso que o executado aufere expressivo rendimento, usado integralmente em proveito próprio, uma vez que não possui dependentes ou alimentandos. Indicou como paradigma julgado desta Corte.
+Sem contrarrazões (fl. 97).
+No agravo (fls. 104-119), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (fls. 122-130).
+É o relatório.
+Decido.
+De início, verifico que o entendimento do Tribunal de origem quanto ao fato de a verba honorária não se equiparar à prestação de natureza alimentícia está em consonância com a jurisprudência desta Corte, firmada em sede de recurso repetitivo, no qual se fixou a seguinte tese: "a verba honorária sucumbencial, a despeito da sua natureza alimentar, não se enquadra na exceção prevista no § 2º do art. 833 do CPC/2015 (penhora para pagamento de prestação alimentícia)" (REsp n. 1.954.380/SP, relator Ministro Ricardo Villas Bôas Cueva, Corte Especial, julgado em 24, DJe de 5/6/20 17/9/2024).
+Entretanto, a alegação apresentada pelo recorrente em contraminuta de agravo e posteriormente reiterada em embargos de declaração, acerca da possibilidade de penhora parcial da verba de natureza salarial, em interpretação do art. 833, IV, do CPC/2015 e do princípio de que a execução deve se dar no interesse do credor, não foi examinada pelo TJSP.
+Nada obstante, tendo em vista a oposição de embargos de declaração e a indicação de ofensa ao art. 1.022 do CPC/2015, considero a tese prequestionada.
+Quanto ao ponto, a jurisprudência das duas Turmas de Direito Privado desta Corte se firmou no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito, desde que seja preservado o suficiente para garantir dignamente sua subsistência e a de sua família. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. AUSÊNCIA DE SUBSISTÊNCIA DIGNA.
+1. Ação em fase de cumprimento de sentença.
+2. A jurisprudência do STJ se firmou no sentido de que, em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/2015, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedente da Segunda Seção.
+3. Agravo conhecido. Recurso especial conhecido e provido.
+(AREsp n. 2.750.841/DF, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/4/2025, DJEN de 10/4/2025.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. Esta Corte possui entendimento no sentido da possibilidade de relativização da impenhorabilidade das verbas de natureza salarial para pagamento de dívidas de natureza não alimentar, independentemente do montante recebido pelo devedor, desde que preservada quantia que assegure sua subsistência digna e de sua família. (EREsp n. 1.874.222/DF, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 19/4/2023, DJe de 24/5/2023.) Incidência da Súmula 83/STJ.
+1.1. Nesse contexto, rever a conclusão do Tribunal de origem acerca do percentual salarial a ser penhorado, considerados a dignidade humana e o mínimo existencial do devedor, exige a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.566.210/DF, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/9/2024, DJe de 3/10/2024.)
+Todavia, como não cabe a esta Corte o exame de questões fáticas, o Juízo de origem deve examinar o caso e decidir sobre a viabilidade da penhora de percentual da verba sem prejuízo da subsistência do devedor e de sua família.
+Ante o exposto, RECONSIDERO a decisão de fls. 156-158 e CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos ao Tribunal de origem para que, à luz da jurisprudência desta Corte, examine no caso concreto a viabilidade de penhora de percentual da verba em discussão.
+Publique-se e intimem-se.
+EMENTA
