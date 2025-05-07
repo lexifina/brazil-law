@@ -1,0 +1,12 @@
+DECISÃO
+O presente writ, impetrado em benefício de JOVANI GOMES BARDUINO - condenado como incurso nos crimes de tráfico e associação para o tráfico de drogas -, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Apelação Criminal n. 0005702-91.2016.8.24.0075), não comporta acolhimento.
+Busca a impetração a revisão da condenação imposta e mantida pelas instâncias ordinárias na ação penal que tramitou perante o Juízo de Direito da 1ª Vara Criminal da comarca de Tubarão/SC, ao argumento de nulidade do acórdão a quo, uma vez que ausente a materialidade delitiva em relação ao crime de tráfico de drogas e insuficientes as provas relativas à tipificação do delito de associação para o mesmo fim.
+Ocorre que, além de se tratar de writ utilizado como espécie de "segunda apelação criminal", o que é inadmissível, inexiste ilegalidade flagrante que justifique a superação do óbice constatado, pois, acerca das questões suscitadas, a Corte estadual decidiu em conformidade com a jurisprudência do STJ, em especial, pois a condenação do paciente se encontra lastreada em elementos de prova, inclusive por meio de interceptações telefônicas (fl. 94), bem como o vínculo estabelecido entre os acusados se mostrou além da mera prática esporádica do comércio de entorpecentes. Era prática rotineira e conjunta e restou amplamente demonstrada durante os 45 (quarenta e cinco) dias de interceptação telefônica, comprovando a estabilidade e permanência de suas condutas (fl. 5.554).
+Assim, desconstituir as conclusões alcançadas pelo Tribunal a quo, com fundamento em exame exauriente do conjunto fático-probatório constante dos autos, demandaria necessariamente aprofundado revolvimento do conjunto probatório, providência vedada na via eleita.
+Por fim, também cabe à defesa, em observância ao princípio da cooperação,
+aplicável não só na seara cível, mas no âmbito do Processo Penal, prezar pela real finalidade do writ, sob pena de, além de reforçar a banalização do habeas corpus, contribuir para o acúmulo de processos nesta Corte Superior sem resolução definitiva.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. WRIT UTILIZADO COMO SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. ABSOLVIÇÃO. ENTENDIMENTO DIVERSO. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+Ordem denegada.
