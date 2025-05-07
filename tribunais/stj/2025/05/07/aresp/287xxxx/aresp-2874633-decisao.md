@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por AIRTON BRAGA BRAUNA NETTO, contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO que inadmitiu recurso especial apresentado contra acórdão proferido na Apelação Criminal n. 08047-77.2018.8.10.0001, em acórdão assim ementado (fls. 781-782):
+APELAÇÃO CRIMINAL. ROUBO MAJORADO PELO EMPREGO DE ARMA FOGO E CONCURSO DE PESSOA. RECEPTAÇÃO. ABSOLVIÇÃO DO 2º APELANTE. RECURSO DO MINISTÉRIO PÚBLICO. ACERVO PROBATÓRIO ROBUSTO. PROVIMENTO. RECURSOS DEFENSIVOS. COMPROVAÇÃO DA MATERIALIDADE E AUTORIA DOS CRIMES PATRIMONIAIS. PROVAS SUFICIENTES PARA A CONDENAÇÃO. ABSOLVIÇÃO DOS RÉUS. INVIABILIDADE.
+1. Comprovada a utilização do bem objeto de crime, caberia a defesa comprovar o desconhecimento de sua origem ou mesmo a culpa do agente.
+2. Em crimes contra o patrimônio, cometidos na clandestinidade, como é o caso do roubo, a palavra da vítima adquire relevante grau de importância, sobretudo quando descreve, com firmeza, as circunstâncias da empreitada criminosa. Precedentes do STJ e do TJMA.
+3. Condenação fundada no reconhecimento realizado pela vítima, tanto do autor quanto da arma utilizada no delito, como os depoimentos dos policiais que procederam à prisão dos acusados
+4. Inviável o acolhimento da pretensão absolutória, por negativa de autoria, quando a mesma restou suficientemente demonstrada pelas provas constantes dos autos.
+5. Equivocada fundamentação na valoração negativa do vetor da culpabilidade, porém existem elementos outros capazes de viabilizar a avaliação desfavorável. Pena mantida no patamar fixado.
+5. Provido parcialmente o recurso do 2º e 3º apelante e total provimento ao do 1ºapelante.
+O Tribunal de origem deu provimento ao recurso interposto pelo Ministério Público a fim de condenar o recorrente como incurso nas penas do art. 180, caput, do CP, condenando-o, em definitivo, em concurso material com roubo majorado, à pena de 08 anos e 07 meses de reclusão, a ser cumprida em regime inicialmente fechado (art.33, §2º, a do CP) e ao pagamento de 25 dias multa, no valor unitário de 1/30 do salário mínimo vigente à época dos fatos (fl. 810).
+Nas razões do recurso especial, a parte alega violação dos arts. 109, inciso V, 110 e 111, todos do CP, ao argumento de que o acórdão não reconheceu a prescrição da conduta prevista no art. 180, caput, do CP.
+Contrarrazões apresentadas às fls. 926-930.
+O Tribunal a quo inadmitiu o apelo especial com base na incidência das Súmulas n. 211/STJ e 282/STF (fls. 932-935), fundamento oportunamente infirmado pela parte agravante (fls. 937-944).
+Parecer do Ministério Público Federal pelo conhecimento do agravo para que não seja conhecido o recurso especial (fls. 976-979).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais e impugnados os fundamentos da decisão agravada, conheço do agravo e passo ao exame do recurso especial.
+No tocante à alegação de prescrição em relação ao crime de receptação, trata-se de matéria não deliberada pelo Tribunal a quo, assim, incide a Súmula n. 211 desta Corte Superior.
+Ademais, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que até mesmo as matérias de ordem pública não dispensam o requisito do prequestionamento.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME AMBIENTAL. TERRENO DE MARINHA. ÁREA DE PROTEÇÃO GERIDA PELO ICMBIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DA SÚMULA 211/STJ. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos casos de infrações ambientais cometidas em unidades de conservação administradas por órgãos federais, há interesse da União, o que justifica a competência da Justiça Federal, nos termos do artigo 109, inciso IV, da Constituição Federal. Precedentes.
+2. A alegação de prescrição da pretensão punitiva não foi objeto de análise pela instância ordinária, sendo inviável seu conhecimento em sede de recurso especial, por ausência de prequestionamento, incidindo o óbice da Súmula 211/STJ.
+3. Ademais, não houve indicação de violação ao artigo 619 do Código de Processo Penal, impedindo a aferição de omissão pelo tribunal de origem e a aplicação do prequestionamento ficto.
+4. "O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial, inclusive para as matérias de ordem pública". (AgInt no AREsp n. 2.541.737/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 24/06/2024, DJe de 26/06/2024).
+5. Agravo regimental não provido.
+(AgRg no REsp n. 2.100.417/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/3/2025, DJEN de 10/3/2025; grifamos)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIMES FUNCIONAL E LICITATÓRIO. DESVIO DE RECURSOS PÚBLICOS. PREFEITO MUNICIPAL. DISPENSA DE LICITAÇÃO. ARTS. 1º, I, DO DECRETO-LEI N. 201/1967 E 89 DA LEI N. 8.666/1993. ART. 29, § 1º, DO CP. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. TESES DE DESCLASSIFICAÇÃO DA CONDUTA, ARTS. 617 DO CPP E 65, III, D, DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. VALORAÇÃO NEGATIVA DO VETOR DA CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA E AUMENTO PROPORCIONAL.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial (Súmulas 282/STF e 211/STJ). Destaca-se que, mesmo em relação às questões de ordem pública, impõe-se o prequestionamento da matéria.
+2. Não há ilegalidade na dosimetria da pena, pois, no caso, o acréscimo da pena-base se deu pela valoração negativa da culpabilidade, mediante fundamentação concreta e idônea. Além disso, a jurisprudência desta Corte vem advertindo que o julgador não está vinculado a rígidos critérios matemáticos para a exasperação da pena-base, pois isso está no âmbito da sua discricionariedade, embora, ao fazê-lo, deva fundamentar com elementos concretos da conduta do acusado, inexistindo direito subjetivo do réu à utilização das frações de 1/6 sobre a pena-base, 1/8 do intervalo entre as penas mínima e máxima ou mesmo outro valor, porquanto o que se exige das instâncias ordinárias é a fundamentação concreta e adequada, além da proporcionalidade na exasperação da pena, o que foi observado no caso em tela.
+3. A continuidade delitiva foi adequadamente reconhecida, com a aplicação de fração de aumento de 1/5, de acordo com o número de infrações praticadas, em consonância com a jurisprudência do STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.166.755/PI, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 1/10/2024, DJe de 3/10/2024; grifamos )
+Dessa forma:
+Não há como afastar o óbice das Súmulas 282 e 356/STF quanto à alegada violação do art.  .. , pois a matéria nele tratada não foi objeto de exame pelo acórdão recorrido, tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema (AgRg no AREsp n. 2.456.836/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024, grifamos).
+Portanto, ainda que não se exija que o acórdão recorrido indique literalmente o específico dispositivo da legislação federal violado, para que se considere prequestionado o tema jurídico é indispensável que a Corte local tenha se debruçado sobre as questões recursais, precisamente sob o enfoque suscitado nas razões do recurso especial. Nesse sentido: AgRg no REsp 2009842/MG, Rel. Rel. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 7/11/2023, DJe de 16/11/2023 e AgRg no AREsp 2160649/MS, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 20/6/2023, DJe de 23/6/2023.
+Ant e o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
