@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DIAS DE SOUZA ADVOGADOS ASSOCIADOS S/C E OUTRA, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO na Apelação Cível n. 9000619-90.2003.8.26.0090. Confira-se a ementa (fl. 912):
+APELAÇÃO CÍVEL  Execução Fiscal  Município de São Paulo  ITBI do exercício de 1995 - Extinção do feito após apresentação de defesa pela parte executada  Cancelamento da dívida decorrente de procedência de ação anulatória - Honorários advocatícios a cargo da municipalidade pelo princípio da causalidade  Admissibilidade de fixação por equidade nos termos do §8º do artigo 85 do Código de Processo Civil  Inaplicabilidade do Tema 1076 do STJ quando a extinção da execução tiver fundamento no artigo 26 da Lei de Execuções Fiscais segundo precedente daquela Corte  Sentença reformada - Recurso parcialmente provido.
+Os embargos de declaração opostos foram parcialmente acolhidos, sem modificação no julgado (fl. 931).
+Nas razões de seu recurso especial, a parte recorrente alega (fl. 957-959):
+- Violação ao art. 1.022, II, do CPC, em razão da indevida rejeição dos embargos de declaração;
+- Violação aos arts. 85, §§ 3º e 8º, e 927, III, do CPC, por deixar de seguir a orientação vinculante do Tema 1076 do STJ.
+Requer a reforma do acórdão recorrido para fixar os honorários com base nos critérios previstos no art. 85, §§ 3º e 5º, do CPC, ou, subsidiariamente, para aumentar os honorários ao percentual de 1% sobre o valor atualizado da causa.
+A parte adversa apresentou contrarrazões (fl. 976-980).
+O recurso não foi admitido, razão por que foi interposto o agravo ora examinado.
+É o relatório.
+Decido.
+Satisfeitos os requisitos de admissibilidade, passo ao exame do recurso especial.
+Quanto à violação do art. 1.022 do CPC, o acórdão abordou todas as questões relevantes para a resolução do litígio, especialmente no que tange à fixação dos honorários advocatícios. As alegações de omissão quanto à causa da extinção da execução fiscal e à aplicação do art. 26 da LEF foram devidamente analisadas. O acórdão esclareceu que a extinção ocorreu em razão do cancelamento administrativo da dívida após decisão judicial, o que justificou a aplicação da equidade na fixação dos honorários (fls. 931-937).
+Não há contradição no acórdão, pois justificou a aplicação da equidade com base na interpretação do art. 26 da LEF e na jurisprudência do STJ, que permite a fixação de honorários por equidade em casos de extinção da execução fiscal por cancelamento administrativo (fls. 931-937).
+O acórdão é claro em sua fundamentação, explicando os motivos pelos quais a equidade foi aplicada na fixação dos honorários, mesmo diante do reconhecimento do Tema n. 1.076 do STJ. A decisão foi fundamentada na necessidade de adequação ao caso concreto, considerando a proporcionalidade e a razoabilidade (fls. 931-937).
+Em relação ao erro material, o acórdão reconheceu e corrigiu o erro material quanto ao valor da condenação em honorários na ação anulatória conexa, ajustando-o para R$ 3.000,00 (três mil reais), e esclareceu a possibilidade de reembolso das custas de apelação, demonstrando que não há erro material remanescente (fls. 931-937).
+Portanto, inexiste omissão, razão pela qual não há falar em ofensa ao art. 1.022 do Código de Processo Civil. Precedentes: AgInt no AREsp n. 1.878.277/DF, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023; AgInt no AREsp n. 2.156.525/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 28/11/2022, DJe de 2/12/2022.
+Quanto ao mérito, a jurisprudência do STJ é no sentido de que devem ser estabelecidos pelo critério da equidade os honorários advocatícios decorrentes de extinção de execução fiscal fundada no cancelamento administrativo da CDA (art. 26 da LEF) informado depois de apresentada defesa pelo executado. Nessa linha:
+PROCESSO CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO. INSCRIÇÃO EM DÍVIDA ATIVA. CANCELAMENTO. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. POSSIBILIDADE. DISTINÇÃO DO ENTENDIMENTO FIRMADO NO JULGAMENTO DO TEMA REPETITIVO 1.076 DO STJ.
+1. Tratam os autos de Execução Fiscal para a cobrança de IPTU em que se apresentou Exceção de Pré-Executividade pelo executado. Após apuração administrativa, o Município veio com pedido de extinção da execução pelo cancelamento do débito. Na ocasião, o juízo extinguiu o feito executivo nos termos do artigo 26 da LEF, com a condenação do exequente em honorários advocatícios fixados por equidade no limite de R$ 10 mil.
+2. Considerando as circunstâncias específicas dos autos (extinção da Execução Fiscal em virtude do cancelamento administrativo da CDA, com base no art. 26 da Lei 6.830/1980 - LEF), fica inviável a adequação pura e simples ao Tema 1.076/STJ, haja vista que a definição da tese repetitiva não se deu sob tal enfoque, mas apenas à luz do princípio da sucumbência.
+3. Precedentes do STJ no sentido da inaplicabilidade do Tema 1.076/STJ nos casos de Execução Fiscal extinta com base no art. 26 da Lei 6.830/1980: AgInt no REsp. 2.088.330/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 7/5/2024; AgInt no AgInt no AREsp 1.967.127/RJ, Rel. Min. Gurgel de Faria, DJe de 1º/8/2022; REsp 1.795.760/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 03/12/2019;
+4. Agravo Interno não provido.
+(AgInt no AgInt no REsp n. 2.076.352/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/6/2024, DJe de 28/6/2024.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. INSCRIÇÃO EM DÍVIDA ATIVA. CANCELAMENTO NA VIA ADMINISTRATIVA. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. POSSIBILIDADE. PROVIMENTO NEGADO.
+1. A parte recorrente indicou que havia procedido à baixa administrativa da certidão de dívida ativa do débito cobrado nestes autos em cumprimento a decisão judicial.
+2. No cancelamento administrativo de certidão de dívida ativa, a verba honorária deve ser arbitrada por juízo de equidade do magistrado.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.255.978/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/3/2025, DJEN de 27/3/2025.)
+Verifico, portanto, que o acórdão recorrido está em harmonia com a jurisprudência do STJ, incidindo o teor da Súmula n. 568 do STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, CONHEÇO do agravo para CONHECER do recurso especial e NEGAR-LHE PROVIMENTO.
+Sem honorários recursais, pois ausente condenação em verba de sucumbência, em favor do advogado da parte ora recorrida, nas i nstâncias ordinárias.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE EQUIDADE. POSSIBILIDADE. DISTINÇÃO DO ENTENDIMENTO FIRMADO NO JULGAMENTO DO TEMA REPETITIVO N. 1.076/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
