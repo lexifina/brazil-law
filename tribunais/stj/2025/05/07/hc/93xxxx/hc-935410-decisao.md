@@ -1,0 +1,17 @@
+DECISÃO
+O presente writ, impetrado em benefício de JEOVANE ALMEIDA DOS SANTOS - denunciado como incurso no crime de furto qualificado (Ação Penal n. 1500548-40.2023.8.26.0229) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 21116190-75.2024.8.26.0000), encontra-se prejudicado.
+Busca a impetração o trancamento da ação penal em trâmite no Juízo de Direito da 1ª Vara Criminal da comarca de Hortolândia/SP, bem como a revogação da prisão preventiva do paciente.
+Ocorre que, em consulta à página eletrônica do Tribunal de origem, verifiquei que, no dia 16/8/2024, sobreveio sentença condenatória na ação penal em questão, o que torna prejudicada a pretensão, nos termos da Súmula 648 deste Superior Tribunal, segundo a qual a superveniência da sentença condenatória prejudica o pedido de trancamento da ação por falta de justa causa feito em "habeas corpus".
+Ademais, em situações como a dos autos, o Superior Tribunal de Justiça tem decidido que, ante a prolação de sentença condenatória, a qual constitui novo título judicial a sustentar a constrição da liberdade, esvazia-se o objeto do habeas corpus que pretende a expedição de alvará de soltura. Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. ROUBO MAJORADO. CONCURSO DE AGENTES. ARMA DE FOGO. PRISÃO PREVENTIVA. PREJUDICIALIDADE. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTÉM A CUSTÓDIA CAUTELAR.
+1. A superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou recurso que se voltava contra a decisão que foi substituída (Precedentes).
+2. Habeas corpus julgado prejudicado.
+(HC n. 446.085/SP, Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/9/2018, DJe 7/11/2018).
+Com efeito, segundo o disposto no art. 387, § 1º, do Código de Processo Penal, no momento do édito condenatório, o Juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta. Em outras palavras, a sentença, por si só, não é causa justificadora da prisão preventiva, mas ela constitui nova realidade processual sobre a qual o juiz há de se pronunciar a respeito da necessidade da manutenção da custódia anteriormente decretada.
+Ora, na ocasião da prolação de sentença condenatória, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017 - grifo nosso).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta para a prisão preventiva, conforme reconhecido no HC n. 907.965, impetrado em favor do paciente, no qual se questionava a legalidade da custódia cautelar.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. PRETENSÃO DE TRANCAMENTO DE AÇÃO PENAL E REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO PRISIONAL. PERDA DO OBJETO (SÚMULA 648/STJ).
+Writ prejudicado.
