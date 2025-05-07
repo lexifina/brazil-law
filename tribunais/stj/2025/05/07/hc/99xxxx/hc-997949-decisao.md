@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOVANILDO SILVA SANTOS - condenado pela prática de tentativa de latrocínio -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (Revisão Criminal n. 6138407-18.2024.8.09.0000).
+Pretende o impetrante, em suma, que a fração, pelo reconhecimento da tentativa, seja alterada para o máximo legal previsto. Argumenta que, apesar do rebatido acórdão fazer referência à quantidade de disparos efetuados pelo réu, o ponto interpretativo deve ser o fato de que a vítima não foi atingida, de forma que o bem jurídico vida, permaneceu intacto (fl. 6).
+Cita, em favor de sua tese, precedentes desta Corte que aplicam a fração de 2/3 para os casos de tentativa branca, quando a vítima não é atingida pelo disparo de arma de fogo.
+Ocorre que o presente writ é incabível, por consubstanciar inadequada substituição ao recurso próprio a ser dirigido ao Superior Tribunal de Justiça (ver, a propósito, o AgRg no HC n. 811.995/SC, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2023).
+Ademais, a jurisprudência do Superior Tribunal de Justiça é no sentido de que, em regra, deve ser adotada a fração máxima de redução da pena no caso de tentativa de latrocínio em que a vítima não sofre ofensa à sua integridade física. Ocorre que, a despeito de o ofendido não ser atingido, é possível a eleição de fração inferior a 2/3 (dois terços) de diminuição da sanção quando as circunstâncias do caso concreto evidenciam o maior percurso do iter criminis, como ocorreu na hipótese, no qual o Réu efetuou diversos disparos de arma de fogo (cerca de quatro) em direção às vítimas (AgRg no HC n. 803.351/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 17/4/2023, DJe de 20/4/2023), sendo exatamente essa a hipótese dos autos.
+Como é cediço, a elaboração da dosimetria está inserida no âmbito da discricionariedade vinculada do julgador, razão pela qual a revisão por esta Corte está limitada a casos excepcionais, mais precisamente em relação à legalidade dos critérios utilizados, a fim de corrigir reprimendas flagrantemente teratológicas ou arbitrárias, o que não é o caso dos autos.
+Ante o exposto, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. LATROCÍNIO TENTADO. DOSIMETRIA. FRAÇÃO DE DIMINUIÇÃO. AUSÊNCIA DE ILEGALIDADE MANIFESTA.
+Petição inicial indeferida liminarmente.
