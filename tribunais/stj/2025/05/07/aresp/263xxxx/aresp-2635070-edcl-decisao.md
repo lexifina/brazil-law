@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GLACIANE ANGELITA PONTES contra decisão monocrática em que conheci do agravo para não conhecer do recurso especial.
+No presente recurso integrativo, alega a defesa a existência de obscuridade, uma vez que, "ao julgar o agravo em recurso especial de fls. 1108/1111, não foram arbitrados honorários advocatícios em favor da defensora dativa" (e-STJ fl. 1117).
+Requer o acolhimento dos embargos para sanar os vícios apontados.
+É o relatório.
+Decido.
+Como é cediço, os embargos de declaração, consoante disposição do art. 619 do Código de Processo Penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição e/ou omissão nas razões delineadas no corpo da decisão, em face das pretensões deduzidas e demais elementos constantes do processo.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes do Superior Tribunal de Justiça, como se percebe do aresto a seguir:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados. (EDcl na APn 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 03/02/2016.)"
+Os embargos declaratórios constituem instrumento de colaboração no processo. Trata-se de instrumento de efetivo aperfeiçoamento da tutela jurisdicional.
+Não há na decisão embargada nenhuma situação que dê amparo ao recurso integrativo, porquanto o recurso especial da embargante sequer restou conhecido, desta feita, seu mérito não foi analisado.
+Entrementes, o arbitramento de honorários para o advogado dativo, devem ser fixados pelo magistrado e pagos pelo Estado. Dessa forma, compete à Corte de origem, responsável pela indicação da defesa dativa, se for o caso, fixar os honorários. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA. INSUFICIÊNCIA DA IMPUGNAÇÃO DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA N. 182/STJ. OMISSÃO QUANTO À ANÁLISE DE MÉRITO. ANÁLISE MERITÓRIA PREJUDICADA DIANTE DO NÃO CONHECIMENTO DO RECURSO DE AGRAVO EM RECURSO ESPECIAL. ARBITRAMENTO DE HONORÁRIOS. DEFENSOR DATIVO. PEDIDO A SER FORMULADO NA ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na linha da pacífica jurisprudência desta Corte, não constitui ofensa ao princípio da colegialidade a análise monocrática pelo relator, notadamente pela possibilidade de submissão da controvérsia ao colegiado, por meio da interposição de agravo regimental.
+2. O recorrente não atacou pormenorizadamente o fundamento do provimento jurisdicional que negou seguimento ao recurso especial, o que atraiu o óbice da Súmula n. 182/STJ.
+3. "Se o recurso especial foi inadmitido, porquanto não superados os óbices processuais específicos dos recursos extraordinários, e o consequente agravo não impugna todos os fundamentos da decisão de inadmissão, atraindo, por consequência, o óbice da s. 182/STJ, não há que se falar em omissão desta Corte na análise do mérito recursal, na medida em que não transposta a barreira da admissibilidade." (EDcl no AgInt no AREsp n. 732.589/RO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 13/3/2018, DJe 26/3/2018.)
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.544.402/PR, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 20/3/2025, DJEN de 28/3/2025.)
+PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NULIDADE. BUSCA PESSOAL. ABUSO DE AUTORIDADE. AGRESSÕES FÍSICAS. ILEGALIDADE NÃO COMPROVADA. SÚMULA 7. PLEITO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS PELA ATUAÇÃO DO DEFENSOR DATIVO NESTA INSTÂNCIA ESPECIAL. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+ ..
+3. Nos termos da jurisprudência desta Corte, "o arbitramento de honorários ao defensor dativo é de responsabilidade do Estado, nos termos do art. 22, § 1º, da Lei n. 8.906/1994, motivo pelo qual devem ser pleiteados na origem (AgRg nos EDcl no REsp 1709168/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/6/2018, DJe 29/6/2018)" (STJ, AgRg no AREsp 1.448.743/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/5/2020, DJe 2/6/2020).
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 2.049.228/PR, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 19/6/2023, DJe de 23/6/2023, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. PENA-BASE. FIXAÇÃO ACIMA DO MÍNIMO LEGAL. DUAS CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. DESPROPORCIONALIDADE NA EXASPERAÇÃO. GRAVIDADE CONCRETA DA CONDUTA. POSSIBILIDADE. DEFENSOR DATIVO. HONORÁRIOS. AGRAVO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é possível que seja fixada a pena-base no máximo legal, mesmo que haja apenas uma circunstância judicial desfavorável, desde que o magistrado adote fundamentação apta a justificar tal medida (AgRg no HC 500.135/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/06/2019, DJe 25/06/2019).
+2. O arbitramento de honorários ao defensor dativo é de responsabilidade do Estado, nos termos do art. 22, § 1º, da Lei 8.906/1994, motivo pelo qual devem ser pleiteados na origem (AgRg nos EDcl no REsp 1709168/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/06/2018, DJe 29/06/2018).
+3. Agravo regimental improvido.
+(AgRg no AREsp 1448743/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/05/2020, DJe 02/06/2020, grifei.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS AO DEFENSOR DATIVO. PEDIDO DE ARBITRAMENTO QUE DEVE SER FORMULADO NA ORIGEM. EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no decisum.
+2. A fixação dos honorários ao defensor dativo é de responsabilidade do Estado, nos termos do art. 22, § 1º, da Lei n. 8.906/1994 e o pedido de arbitramento de deve ser formulado na origem.
+3. A Terceira Seção desta Corte, ao julgar o Recurso Especial repetitivo n. 1.656.322/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, firmou as seguintes teses: "1ª) As tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado; 2ª) Nas hipóteses em que o juiz da causa considerar desproporcional a quantia indicada na tabela da OAB em relação aos esforços despendidos pelo defensor dativo para os atos processuais praticados, poderá, motivadamente, arbitrar outro valor; 3ª) São, porém, vinculativas, quanto aos valores estabelecidos para os atos praticados por defensor dativo, as tabelas produzidas mediante acordo entre o Poder Público, a Defensoria Pública e a seccional da OAB. 4ª) Dado o disposto no art. 105, parágrafo único, II, da Constituição da República, possui caráter vinculante a Tabela de Honorários da Justiça Federal, assim como tabelas similares instituídas, eventualmente, pelos órgãos competentes das Justiças dos Estados e do Distrito Federal, na forma dos arts 96, I, e 125, § 1º, parte final, da Constituição da República".
+4. Embargos de declaração acolhidos, sem efeitos modificativos, tão somente para sanar a omissão apontada.
+(EDcl no AgInt no REsp 1836028/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/05/2020, DJe 18/05/2020, grifei.)
+Assim, o julgado monocrático recorrido não padece de qualquer omissão ou nulidade na sua fundamentação, porquanto apreciou as teses relevantes para o deslinde da controvérsia
+Ante o exposto, rejeito os embargos de declaração .
+Publique-se. Intimem-se.
+EMENTA
