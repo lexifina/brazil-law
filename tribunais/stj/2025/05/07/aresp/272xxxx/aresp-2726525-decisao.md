@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RÁDIO E TELEVISÃO RECORD S.A. contra a decisão que inadmitiu o recurso especial com base nos seguintes fundamentos: a) ausência de omissão; b) não demonstração de ofensa aos arts. 373, I, do CPC e 884 e 944 do CC e incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Na contraminuta, a parte agravada aduz que o agravo não comporta conhecimento nem provimento, devendo ser mantido o acórdão proferido pela 1ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo por seus próprios fundamentos. Requer a majoração dos honorários sucumbenciais (fls. 243-246).
+O recurso especial foi interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em apelação nos autos de ação de reparação por danos morais.
+O julgado foi assim ementado (fl. 190):
+RESPONSABILIDADE CIVIL Ação de reparação por danos morais Sentença de parcial procedência do pedido Inconformismo manifestado pela ré Descabimento Fatos narrados que tiveram notório potencial ofensivo ao autor - Alegações deduzidas pela ré que não a eximem da responsabilidade pelos danos causados - Valor arbitrado à indenização que se afigura razoável, em atenção à gravidade da conduta, não comportando redução Sentença mantida Recurso desprovido, com observação.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 200):
+RECURSO - Embargos de declaração - Omissão - Vício inexistente - Prequestionamento - Desnecessidade - Embargos rejeitados.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 373, I, do CPC, pois não houve comprovação dos danos morais pelo recorrido;
+b) 884 do CC, visto que a indenização arbitrada configura enriquecimento sem causa;
+c) 944 do CC, porquanto o valor da indenização não observou a extensão do dano, revelando-se manifestamente desproporcional, o que permite sua redução equitativa;
+d) 1.022 do CPC, já que o acórdão recorrido foi omisso ao não analisar a extensão dos danos morais e a ausência de provas do recorrido. Ressalta que o Tribunal, ao reduzir a indenização por danos morais a R$ 50.000,00, deixou de analisar o fato de que a recorrente não praticou ato ilícito indenizável.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, afastando-se a condenação ao pagamento de indenização por danos morais ou, ao menos, reduzindo-se o montante da indenização fixada.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não comporta conhecimento nem provimento, devendo ser mantido o acórdão proferido pela 1ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo por seus próprios fundamentos. Requer a majoração dos honorários sucumbenciais (fls. 220-226).
+É o relatório. Decido.
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Violação do art. 373, I, do CPC
+Segundo as regras ordinárias acerca da distribuição do ônus da prova, conforme disposto no art. 373 do CPC, cabe ao autor provar o fato constitutivo do seu direito e ao réu, a existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Nesse sentido, a jurisprudência do STJ:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS. REINCLUSÃO DO FEITO PARA JULGAMENTO. PRAZO RAZOÁVEL. NOVA PUBLICAÇÃO. DESNECESSIDADE. NULIDADE INEXISTENTE. SÚMULA 83/STJ. ÔNUS DA PROVA. AUTOR. FATO CONSTITUTIVO. SÚMULA 83/STJ. RECURSO DESPROVIDO.
+1. "A jurisprudência do STJ é firme no sentido de que após o processo ter sido regularmente incluído em pauta, tendo sido as partes devidamente intimadas da data da sessão de julgamento, que, contudo, não se realiza no dia designado, não é necessário sua reinclusão em pauta ou nova intimação das partes, mormente quando o feito é levado a julgamento em tempo razoável" (AgInt no REsp 1.858.976/AM, Relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 7/12 /2020, DJe de 11/12/2020).
+2. "Consoante as regras de distribuição do ônus probatório, atribui-se ao autor o ônus de provar os fatos constitutivos de seu direito, e ao réu, os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do art. 373, I e II, do CPC/2015 (art. 333, I e II, do CPC/73)" (AgInt no AREsp 1.694.758/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe de 18 /06/2021).
+3. O recurso especial é inviável quando o Tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+4. Agravo interno desprovido. (AgInt no AREsp n. 2.457.480/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/4/2024, DJe de 19/4/2024.)
+No caso, o Tribunal de origem, amparado nas provas dos autos, concluiu que a parte recorrida comprovara que a câmera da emissora estava acompanhando seu rosto e movimentações, com a tarja da manchete inserida no enquadramento da mídia, noticiando especificamente "Operação contra aliados de Marcola tem prisões em São Paulo e outros 3 estados", o que evidencia a associação fática da imagem do autor com a notícia veiculada simultaneamente na tela, ao som da repórter relatando que "são quinze mil policiais empenhados e os delitos dos procurados vão desde furtos, lesões corporais, ameaças, roubos de carga, tráfico de drogas e armas e até homicídios".
+Destacou, ademais, que a referida informação danosa fora transmitida em diversas mídias sociais, tendo sido retiradas somente após intervenção judicial.
+Nesse contexto, rever as conclusões do Tribunal a quo acerca da distribuição do ônus da prova, do convencimento do magistrado sobre as provas produzidas e sobre a configuração de ato ilícito indenizável demandaria o necessário reexame do acervo fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+III - Quantum indenizatório
+O valor fixado pela instância ordinária a título de indenização por danos morais só é passível de revisão se for irrisório ou exorbitante, distanciando-se da devida prestação jurisdicional no caso concreto.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 50.000,00, houve moderação, visto que não concorreu para o enriquecimento indevido da vítima e porque foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e o porte socioeconômico do causador do dano. Confira-se trecho do julgado (fls. 192):
+ ..
+Caracterizado o dever de indenizar, quanto ao valor indenizatório, observado o caráter pedagógico que deve revestir a punição e sem provocar enriquecimento indevido ao seu beneficiário, tem-se que o valor arbitrado, no importe de R$50.000,00, afigura-se razoável e não comporta redução sobretudo porque, no caso em apreço, a imagem foi veiculada 4 vezes durante a reportagem, sendo que a informação foi transmitida a uma quantidade incalculável de pessoas, inclusive em diversas mídias sociais, contando apenas no facebook com mais de 227.000 visualizações, não se podendo olvidar que foram retiradas apenas após intervenção judicial, com a concessão da tutela de urgência.
+Assim, uma vez não demonstrada a excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+IV- Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 5% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
