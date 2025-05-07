@@ -1,0 +1,23 @@
+DECISÃO
+Em análise, agravo em recurso especial contra decisão que inadmitiu recurso especial interposto por MUNICIPIO DE CAMPOS DOS GOYTACAZES, sob os fundamentos de incidência  da Súmula  7 deste STJ.
+Argumenta  a  parte agravante,  em  síntese,  que pretende revalorar as provas produzidas nos autos e não o seu reexame (fl. 216).
+Aduz que a CDA possui todos os requisitos legais, portanto mantém-se "a presunção da liquidez e certeza do título executivo, não se sustentando, por consequência, a alegada nulidade do mesmo - se infringindo, pois, ao se fazer isto, o art. 204 do CTN e o art. 3º da Lei nº 6.830/1980, cujas redações são semelhantes."
+Como certificado nos autos, transcorreu in albis o prazo para impugnação.
+É o relatório.
+Passo a decidir.
+O Tribunal de origem assentou que "a CDA não indica o modo de cálculo dos juros, da correção monetária e o respectivo fundamento legal. O problema apontado não pode ser simplesmente corrigido nos autos. Trata-se vício da inscrição, que acarreta o cerceamento de defesa e a inobservância do procedimento legal de lançamento e inscrição do crédito tributário" (fl. 454).
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido da impossibilidade de substituição da CDA para corrigir vícios do lançamento ou da inscrição, como a deficiência do fundamento legal.
+Nesse sentido:
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL POR DÍVIDA DE IPTU E TAXA DE EXPEDIENTE. NULIDADE DE CDA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA CDA PARA CORRIGIR VÍCIOS DO LANÇAMENTO OU DA INSCRIÇÃO, COMO A DEFICIÊNCIA DO FUNDAMENTO LEGAL. RECURSO ESPECIAL PROVIDO. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão que, nos autos da execução fiscal por dívida de IPTU e Taxa de Expediente de 2014, rejeitou exceção prévia de executividade, objetivando a nulidade de CDA, por não indicar com exatidão o bem imóvel, isenção tributária e inconstitucionalidade da Taxa de Expediente e dos encargos moratórios porque superiores à Taxa Selic.
+No Tribunal a quo, deu-se parcial provimento ao recurso, para reconhecer a nulidade das CDAs, possibilitando, entretanto, a concessão de prazo para emenda ou substituição dos títulos, bem como para extinguir os créditos tributários relativos à Taxa de Expediente e limitar a aplicação da correção monetária e dos juros de mora aos índices da Taxa Selic .
+II - O Tribunal a quo, em sua decisão explicitamente, afirma que as CDAs não especificavam o imóvel, nem tão pouco o fundamento legal da exação, entretanto entendeu que seria possível a emenda com a substituição da CDA.
+III - O Superior Tribunal de Justiça tem entendimento cristalizado no sentido da impossibilidade de substituição da CDA para corrigir vícios do lançamento ou da inscrição, como a deficiência do fundamento legal. Nesse sentido: AREsp n. 1.545.782/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe de 29/10/2019; AgInt no REsp n. 2.105.173/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 26/2/2024, DJe de 5/3/2024; AgInt no AgInt no AREsp n. 1.742.874/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 13/3/2023, DJe de 16/3/2023; AgInt no REsp n. 1.995.651/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/9/2022, DJe de 23/9/2022;
+AgInt no REsp n. 2.093.993/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/11/2023, DJe de 5/12/2023.)
+IV - Correta a decisão que deu provimento ao recurso especial para dar provimento a exceção de pré-executividade, diante da impossibilidade de emenda à inicial com a substituição do título exequendo.
+V - Agravo interno improvido (AgInt nos EDcl no REsp n. 2.153.904/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+Portanto, incide ao caso a Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida", aplicável também para interposição de recurso pela alínea a do permissivo constitucional, nos termos da jurisprudência desta Corte.
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+ EMENTA
