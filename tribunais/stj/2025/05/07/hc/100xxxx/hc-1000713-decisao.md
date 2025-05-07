@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ, impetrado em benefício de GABRIEL VIQUETTI DE JESUS - condenado como incurso no crime de tráfico de drogas (Ação Penal n. 5007298-44.2024.8.24.0075) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, não comporta processamento.
+Com efeito, busca a impetração a revisão da condenação imposta ao paciente pelo Juízo de Direito da 2ª Vara Criminal da comarca de Tubarão/SC, ao argumento de que, estabelecida a pena privativa de liberdade em patamar superior a 1 ano (1 ano e 8 meses de reclusão), caberia ao Juízo sentenciante substituí-la por multa e por uma restritiva de direitos ou por duas restritivas de direitos, nos termos da segunda parte do § 2º do art. 44 do Código Penal. O Juízo sentenciante optou pela segunda alternativa - substituição por duas restritivas de direito, consistentes em prestação pecuniária e prestação de serviços à comunidade - sem fundamentação concreta (fl. 4).
+Ocorre que, além de se tratar de writ destinado a revisar novamente a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, não se verifica a ocorrência do ilegal constrangimento, pois não há direito subjetivo do réu em optar pela substituição da pena privativa de liberdade por uma restritiva de direitos e multa, quando a lei prevê no preceito secundário a cumulação com pena pecuniária (AgRg no AREsp n. 2.508.543/MG, Ministra Daniela Teixeira, Quinta Turma, DJEN 5/3/2025).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. INADMISSIBILIDADE. SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PRETENSÃO DE UMA RESTRITIVA DE DIREITOS E MULTA. COMINAÇÃO DE SANÇÃO PECUNIÁRIA NO PRECEITO SECUNDÁRIO. DIREITO SUBJETIVO. INEXISTÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
