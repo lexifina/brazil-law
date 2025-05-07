@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial por entender que não houve impugnação específica a todos os fundamentos da decisão que não admitiu o recurso especial.
+Diante das razões contidas no agravo interno, reconsidero a decisão de fls. 557-558, proferida pela Presidência desta Corte, e passo, desde já, à análise do agravo em recurso especial.
+Cuida-se de agravo contra decisão que não admitiu o recurso especial interposto em face de acórdão assim ement ado (fl. 266):
+PLANO DE SAÚDE - Ação de obrigação de fazer cumulada com pedido de indenização por danos materais Autor idoso diagnosticado com "Carcinoma de pele" - ante a ineficácia de demais tratamentos lhe foi prescrito o medicamento "Libtayo - Cemiplimabe" - negativa de cobertura por parte da Operadora de Saúde sob a justificativa de ausência de previsão no rol da ANS - abusividade verificada - previsão legal expressa quanto a obrigatoriedade de fornecimento de medicamento antineoplásico (arts. 10 e 12 da Lei 9.656/98 - aplicação do entendimento sumulado por este E. Tribunal (súmulas 95 e 102 do E. TJSP) - rol da ANS que possui natureza exemplificativa (art. 10, § 12 da Lei 14.454/2022) - Danos materiais referentes aos gastos com a primeira infusão do medicamento cabimento de rigor a restituição integral do valor despendido pelo consumidor para custear seu tratamento ante a negativa abusiva de cobertura Recurso improvido.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  dos  arts. 421 e 422 do Código Civil; art. 10 da Lei n. 9.656/1998; arts. 1º e 4º da Lei n 9.661/2000; bem como divergência jurisprudencial.
+Argumenta, em síntese, não possuir a obrigação legal ou contratual de custear o tratamento com o medicamento CEMIPLIMABE, considerando que não se encontra previsto no rol de procedimentos da ANS, tendo este natureza taxativa.
+Sustenta que ofertou tratamento alternativo ao autor, não havendo abusividade na negativa de cobertura.
+Não foram apresentadas contrarrazões.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Na origem a parte ora agravada ingressou com ação objetivando que fosse autorizado tratamento quimioterápico com o fármaco CEMPLIMABE, em ciclos de 21 dias, assim como o reembolso integral do gasto realizado com a aquisição anterior do fármaco, quando houve negativa de fornecimento.
+A sentença julgou procedentes os pedidos.
+Interposta apelação pela parte ré, a ela foi negado provimento.
+Irresignada, a ré interpôs recurso especial, não admitido pela Corte local, o que ensejou a interposição do presente agravo.
+Com  efeito,  verifico  que  o Tribunal estadual  decidiu  a  questão  tratada  na  presente  demanda  nos  seguintes  termos  (fls.  267-271):
+Diante da análise dos autos, verifica-se que as partes divergem sobre a obrigatoriedade de custeio do medicamento antineoplásico de alto custo prescrito ao Autor, ora Apelado.
+Incontroverso resta o diagnóstico do Apelado, vez que comprovado seu estado de saúde nos autos (fls. 21 e 27/28).
+Argui a Apelante que não possui obrigatoriedade de custeio do medicamento visto que não há previsão deste no rol da ANS, e, sendo esse taxativo, impossível a imposição de custeio sob pena de desequilíbrio contratual.
+Entretanto, razão não assiste a Apelante, uma vez que há previsão legal expressa quanto a cobertura obrigatória dos medicamentos antineoplásicos, in verbis:
+ ..
+Destaco ainda que o medicamento pleiteado pelo Apelado possui o registro na ANVISA como antineoplásico e ainda, aprovação da Agência para tratamento de pacientes portadores de Carcinoma de pele, sendo comprovado pelos estudos realizados a melhora significativa dos pacientes e a segurança do tratamento.
+Quanto à alegada taxatividade do rol da ANS, saliento que essa matéria já foi abordada e pacificada pelo Superior Tribunal de Justiça, com posterior alteração legislativa, de forma que a Lei 14.454/22, a qual alterou a redação do art. 10 da Lei 9.656/98, já determinou que o rol da ANS é meramente exemplificativo, qualificando-o como "referência básica" no texto legal.
+De tal forma, não prosperam as alegações da Apelante, sendo evidente seu dever de cobertura e fornecimento do fármaco prescrito, bem como de indenizar o consumidor quanto aos gastos por ele suportados para realização da primeira infusão.
+Assim, conclui-se por acertada a r. Sentença, não merecendo provimento, a reforma almejada pela Apelante.
+Note-se que, ao garantir à parte autora o direito ao medicamento quimioterápico em questão, o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte no sentido de que, em se tratando de medicamentos para tratamento de câncer, independentemente da natureza do rol ANS, as operadoras de plano de saúde têm o dever de cobertura dos fármacos. Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PACIENTE EM TRATAMENTO DE CÂNCER. RECUSA DE COBERTURA DE MEDICAMENTO. ABUSIVIDADE. PRECEDENTES DO STJ. CONCLUSÃO DO ACÓRDÃO RECORRIDO PELA CONFIGURAÇÃO DE DANO MORAL INDENIZÁVEL. SÚMULAS 7 E 83/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, a natureza taxativa ou exemplificativa do rol da ANS é irrelevante à análise do dever de cobertura de medicamentos para o tratamento de câncer, em relação aos quais há apenas uma diretriz na resolução normativa. Precedentes.
+2. Consoante a jurisprudência do STJ, "a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário" (AgInt nos EDcl no REsp 1.963.420/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022). 3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.094.630/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/4/2024, DJe de 2/5/2024.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PRODUÇÃO DE PROVA. INDEFERIMENTO. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO ANTINEOPLÁSICO. TRATAMENTO DE CÂNCER. RECUSA ABUSIVA. ROL DA ANS. NATUREZA. IRRELEVÂNCIA.
+1. Na hipótese, rever a conclusão do aresto impugnado acerca da ocorrência de cerceamento de defesa demandaria o reexame fático-probatório dos autos, a atrair o óbice na Súmula nº 7/STJ.
+2. Discute-se nos autos acerca da obrigatoriedade de cobertura pelo plano de saúde de medicamento indicado ao beneficiário para tratamento de câncer.
+3. É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021).
+4. É obrigatório o custeio pelo plano de saúde de medicamento antineoplásico para tratamento de câncer, sendo irrelevante o questionamento acerca da natureza taxativa ou exemplificativa do Rol da ANS. Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp n. 2.031.693/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/9/2023, DJe de 20/9/2023.)
+Assim, estando o acórdão recorrido em consonância com a jurisprudência desta Corte Superior, incide, no caso, o óbice da Súmula 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "a" quanto àqueles fundamentados pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+Em face do exposto, reconsiderando a decisão de fls. 557-558, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
+EMENTA
