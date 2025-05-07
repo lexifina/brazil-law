@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de recurso especial interposto por NAURA SOUZA MARQUES SILVEIRA e OUTROS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido na Agravo de Instrumento n. 0272434-32.2019.8.21.7000, assim ementado (fl. 262):
+AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CRÉDITO PRINCIPAL A SER PAGO POR PRECATÓRIO. HONORÁRIOS SUCUMBENCIAIS A SEREM PAGOS POR RPV. HONORÁRIOS EXECUTIVOS E DE IMPUGNAÇÃO INDEVIDOS NO CASO CONCRETO.
+I - Preliminares de não conhecimento do recurso por ausência da juntada de documentos obrigatórios, e, por razões dissociadas, rejeitadas.
+II - Não há falar em arbitramento de honorários de impugnação se ao tempo do julgamento dos embargos do devedor não houve a fixação de tal verba, cuja decisão transitou em julgado sem que as partes dela tenham recorrido. Questão preclusa.
+III - Não há falar em honorários executivos em razão de execução de honorários sucumbenciais a serem pagos por RPV, se o crédito principal comportar a extração de precatório. Precedente de minha relatoria, AI nº 70079694444, julgado em 28/05/2019.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 317-327).
+Nas razões do recurso especial, interposto com base no art. 105, inciso III, alínea a, da Constituição Federal, a parte ora recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 85, §§ 1º, 2º, 3º e 7º e 1.017, incisos I e III, do CPC, sustentando, para tanto, os seguintes argumentos (fls. 351-358):
+i) o acórdão recorrido ao "considerar desnecessária a juntada das procurações, sob fundamento de que é possível constatar quais procuradores representam a parte, VIOLA a natureza TAXATIVA" do referido dispositivo legal (art. 1.017, I e III, do CPC);
+ii) é "PLENAMENTE CABÍVEL a fixação de honorários na execução em razão do pagamento dos honorários sucumbenciais se dar mediante a expedição de RPV";
+iii) "a decisão recorrida desconsiderou o entendimento desta Corte no sentido de que cabível a fixação de honorários na execução, quando o crédito devido será pago por meio de RPV".
+Requer, assim, o provimento do recurso para que seja reformado o acórdão recorrido, restabelecendo a decisão de primeiro grau.
+Contrarrazões às fls. 382-399.
+O recurso foi admitido na origem (fls. 609-613).
+É o relatório.
+Decido.
+Na origem, trata-se de agravo de instrumento interposto pela parte ora recorrida contra decisão interlocutória que deferiu a fixação de honorários no cumprimento de sentença postulado pelos exequentes, que foi parcialmente provido pelo Tribunal local.
+Quanto à suposta violação do art. 1.017, incisos I e III, do CPC, o acórdão recorrido consignou a seguinte fundamentação (fls. 264-265):
+A recorrida arguiu preliminar de não conhecimento do recurso, por ausência da juntada de cópias obrigatórias relativas às procurações outorgadas por todos os sucessores que compõem o polo ora recorrido. Cotejando a documentação aportada neste feito, verifica-se que a sucessão está representada (integralmente) pelos advogados Marco Geraldo, Marcus Tavares e Teimo Ricardo. Neste sentido, o precatório da fl. 88 e a petição da fl. 155.
+Portanto, ainda que eventualmente não tenha sido juntada procuração de uma das sucessoras, é circunstância que não fere o disposto no art. 1.017, I, do CPC/15, pois o intuito da norma legal é permitir a intimação das partes nos autos do recurso e, no caso, estando a sucessão integralmente representada pelos mesmos patronos, nenhum prejuízo processual advirá da ausência de uma procuração.
+Como se percebe, o Tribunal a quo afastou a preliminar de não conhecimento do agravo, sob o entendimento de que a sucessão está representada (integralmente) pelos advogados, conforme a documentação aportada nos autos.
+Assim, considerando a fundamentação do acórdão recorrido acima transcrita, os argumentos utilizados pela parte recorrente - no sentido da ausência da cadeia de procurações dos advogados do Estado - somente poderiam ter a sua procedência verificada mediante necessário reexame de matéria fático-probatório. Todavia, não cabe a esta Corte, a fim de alcançar conclusão diversa, reavaliar todo o conjunto de fatos e provas da causa, conforme preceitua o enunciado da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEÇA OBRIGATÓRIA. AUSÊNCIA. FORMAÇÃO DEFICIENTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não se conhecer do agravo de instrumento interposto sem a procuração do advogado do agravado, peça obrigatória nos termos do art. 525, I, do CPC de 1973. Precedentes.
+3. O acolhimento da pretensão recursal, quanto à verificação da existência ou não das peças obrigatórias, demanda o reexame do contexto fático-probatório, providência incompatível com a via especial, a teor da Súmula n. 7 do STJ.
+4. Agravo interno desprovido. (AgInt no AREsp n. 767.800/PI, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 7/2/2019, DJe de 1/3/2019.)
+No que se refere à alegada ofensa ao art. 85, §§ 1º, 2º, 3º e 7º, do CPC, a Corte de origem asseverou que (fls. 266-270; grifos diversos do original):
+ ..  cotejando o pedido de fixação de honorários com a decisão proferida, conclui-se pela possibilidade de interpretação dúbia desta última, haja vista que o credor a compreendeu como tendo deferido seu pedido (pois não a embargou de declaração, tampouco dela recorreu, aliado à regra de que o juízo deve limitar-se ao postulado), ao passo que o devedor a interpretou diversamente, compreendendo tenham sido deferidos honorários de impugnação.
+Nesse contexto, é razoável admitir que a decisão hostilizada é obscura e, portanto, não há como penalizar o recorrente ao deixar de conhecer de seu recurso, como quer a recorrida, sob o argumento de razões recursais dissociadas.
+Tanto é assim, que o ora recorrente embargou de declaração em face daquela decisão. Porém, o juízo entendeu tratar-se de rediscussão do mérito do julgado e, por tal ser inadmissível na via eleita, rejeitou os aclaratórios (fl. 54).
+Como já mencionado neste voto, honorários executivos e de impugnação não se confundem. Embora o credor tenha pedido o arbitramento de honorários executivos, por se tratar de execução de crédito a ser pago por RPV, o juízo deferiu honorários de impugnação.
+Ocorre que, no caso concreto, nem um nem outro são devidos.
+Não há falar em honorários de impugnação, pois preclusa a oportunidade para a sua postulação, haja vista que no julgamento dos embargos do devedor tal verba não foi fixada e, do que deflui destes autos, a decisão que os julgou extintos transitou em julgado.
+Ao depois, como bem ressaltado nas razões deste agravo de instrumento, fosse o caso de fixá-los, o seriam em favor do patrono do devedor/embargante, pois a sucumbência foi do credor/embargado, na medida em que concordou com o excesso de execução aventado pelo ente público (fl. 107).
+Dessarte, a decisão recorrida merece reforma, pois indevida a verba honorária tal como arbitrada.
+Diante da preclusão, o agravante também não faz jus a honorária, pelo que nego provimento ao pedido de inversão da sucumbência.
+Ainda que não se tratasse de honorários de impugnação, mas, sim, de honorários executivos, a hipótese dos autos também não lhes dá guarida, pois, embora a execução seja de crédito a ser pago por RPV, é crédito relativo a honorários sucumbenciais arbitrados em demanda cujo principal será pago por precatório (fls. 88/92).
+Nesse sentido, transcrevo trecho de precedente de minha relatoria, no qual tal questão foi cabalmente esmiuçada, amoldando-se perfeitamente ao aqui em análise:
+ ..
+Com efeito, se o crédito principal exigir a expedição de precatório, como no caso, ainda que os honorários sucumbenciais possam ser pagos por meio de RPV, não há falar em honorários executivos incidentes sobre estes últimos, dada a impossibilidade de a Fazenda Pública, antes da instauração da execução ou do cumprimento de sentença, proceder exclusivamente ao pagamento tão só da sucumbência.
+Como se vê, o Tribunal a quo concluiu que a pretensão de arbitramento de honorários encontra-se preclusa. Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do recurso especial. Portanto, incide, na hipótese, a Súmula 283 do STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido: AgInt no AREsp n. 2.290.902/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; AgInt no REsp n. 2.101.031/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ante o exposto, com fundamento no art. 932 do CPC, NÃO CONHEÇO do recurso especial.
+Por tratar-se, na origem, de recurso provido que afastou a fixação de honorários, não incide a regra do art. 85, § 11, do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AGRAVO DE INSTRUMENTO. PEÇA OBRIGATÓRIA. ALEGADA AUSÊNCIA. FORMAÇÃO DEFICIENTE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. CRÉDITO PRINCIPAL A SER PAGO POR PRECATÓRIO. HONORÁRIOS SUCUMBENCIAIS A SEREM PAGOS POR RPV. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
