@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DE MINAS GERAIS contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido em oposição ao acórdão prolatado em apelação cível.
+Consta dos autos que a empresa ora agravada impetrou mandado de segurança requerendo o direito de aproveitar os créditos de ICMS nas prestações de serviços de transporte de cargas que operacionaliza. Após sentença denegando a segurança, o Tribunal de origem concedeu parcial provimento ao writ em relação à autorização para apurar seus créditos de ICMS pelo regime normal de débitos e créditos, em acórdão com o seguinte resumo de ementa (fl. 264):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - ICMS - NÃO-CUMULATIVIDADE - SISTEMA DE DÉBITO/CRÉDITO E DE CRÉDITO PRESUMIDO - LEI KANDIR - DECRETO ESTADUAL Nº 43.080/02 - RICMS - EMPRESA PRESTADORA DE SERVIÇOS DE TRANSPORTE - INVERSÃO DA ORDEM DE PREFERÊNCIA - ESCRITURAÇÃO DE VALORES NÃO APROVEITADOS - SÚMULA 269 E 271 DO STF - VIA IMPRÓPRIA - RECURSO CONHECIDO E PARCIAMENTE PROVIDO.
+1. A Constituição da República, em seu artigo 155, § 2º, inciso I, prevê a não cumulatividade do ICMS. Esse princípio garante aos contribuintes a devida compensação tributária, conforme regramento inserto no artigo 20 da Lei Complementar Federal nº 87, de 1996 (Lei Kandir).
+2. A Lei Kandir estabelece que o cálculo do ICMS deve observar, como regra, o sistema de débito/crédito, de forma que pode o contribuinte abater a exação incidente nas entradas de mercadorias com as saídas tributadas, conforme art. 20 e seguintes.
+3. O RICMS mineiro (Decreto Estadual nº 43.080/2002), estabeleceu como regra a adoção do sistema de crédito presumido em relação às empresas prestadoras de serviço de transporte, e condicionou a opção pelo sistema de débito/crédito a um regime especial, mediante diligências a serem adotadas pelo contribuinte, contrariando o princípio da não-cumulatividade inserto no texto constitucional.
+4. A sujeição do contribuinte à sistemática de crédito presumido para apuração do ICMS devido nas prestações de serviço de transporte, nos termos estabelecidos no Decreto Estadual nº 43.080/2002, reflete violação ao princípio da não cumulatividade insculpido no artigo 155, §2º, I, da CR/88 e regulado na Lei Kandir, nº 87/96, sendo, portanto, de rigor a reforma da sentença na parte que denegou a segurança vindicada sob esse enfoque.
+5. Declarado o direito ao aproveitamento dos créditos de ICMS decorrentes da não-cumulatividade, o requerimento de escrituração dos referidos valores não aproveitados deve se dar por via administrativa ou judicial própria, mostrando-se incabível a pretendida deliberação em sede de ação mandamental. Inteligência das Súmulas 269 e 271 do STF.
+Os embargos de declaração opostos (fls. 282-286), foram rejeitados (fls. 291-296).
+No recurso especial (fls. 322-335), a recorrente aponta violação dos arts. 19, 20, 21, 23 e 26 da Lei Complementar n. 87/1996, sustentando a necessidade de manutenção do regime de crédito presumido, exceto quando o contribuinte fizer a opção para que seus créditos de ICMS sejam apurados no regime normal de débito e crédito, o que não aconteceu no caso concreto.
+Contrarrazões às fls. 340-348.
+O recurso especial foi inadmitido às fls. 353-356. Daí a interposição do presente agravo (fls. 455-472).
+É o relatório.
+Decido.
+Verifico que a parte recorrente impugnou todos os fundamentos da decisão agravada, estando superado o óbice da Súmula n. 182 do STJ. Portanto, o presente agravo comporta conhecimento, embora o apelo nobre não deva ser conhecido.
+A Corte de origem analisou a controvérsia com base nos seguintes fundamentos (fls. 266-274):
+Cinge-se a controvérsia em aferir a possibilidade de reforma da r. sentença que denegou a segurança pleiteada pela BCUBE Logistic Ltda., ao fundamento de que o regime do crédito presumido apuração do ICMS pelas prestadoras de serviço de transporte, nos moldes previstos no Decreto Estadual de nº. 43.080/2002 (RICMS), não viola o princípio da não-cumulatividade.
+ ..
+Assim, impõe-se verificar se a impetrante, aqui apelante, logrou demonstrar o direito líquido e certo de apurar o ICMS pelo sistema débito/crédito sem a necessidade de regime especial, atualmente exigido pelo §12 do art. 75, do Decreto n.º 43.080/2002 (RICMS/2002).
+ ..
+Ocorre que no caso específico do Estado de Minas Gerais, foi adotado, como regra, o sistema de crédito presumido para recolhimento do ICMS, em relação a prestadores de serviço de transporte rodoviário de cargas, como é o caso da impetrante.
+É o que se infere da definição estampada no RICMS, conforme dispositivos transcritos a seguir:
+ ..
+Vê-se, conforme §12º, acima transcrito, que a apuração pelo sistema normal de crédito/débito ocorre apenas de maneira excepcional, mediante diligências a serem realizadas pelo contribuinte. Há evidente contrariedade, portanto, ao princípio da não- cumulatividade assegurado pela Constituição Federal.
+ ..
+O que se dessume é que o Regulamento de ICMS mineiro extrapolou o dever regulamentar ao definir o sistema de crédito presumido como regra automática para o cálculo do tributo, porquanto adotou sistema diverso daquele disposto na Lei Kandir.
+ ..
+Com efeito, diversamente do entendimento manifestado pelo Exmo. Juiz singular, a sujeição do contribuinte à sistemática de crédito presumido para apuração do ICMS devido nas prestações de serviço de transporte, nos termos estabelecidos no Decreto Estadual nº 43.080/2002, reflete violação ao princípio da não cumulatividade insculpido no artigo 155, §2º, I, da CR/88 e regulado na Lei Kandir, nº 87/96.
+Em que pese o acórdão recorrido ter se utilizado de dispositivos e princípios constitucionais e legislação federal, verifico que o acórdão recorrido decidiu a questão referente ao regime de crédito na apuração de ICMS a partir da interpretação de dispositivos de direito estadual, quais sejam, os art. 1º e 75, inciso XXIX, alínea a, §12, do Decreto Estadual n. 43.080/2002 (RICMS). Nesse contexto, mostra-se inviável a sua revisão na via do recurso especial, nos termos da Súmula n. 280 do STF, aplicada por analogia: " p or ofensa a direito local não cabe recurso extraordinário". A propósito: AgInt no AREsp n. 2.381.851/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 18/12/2023, DJe de 20/12/2023; REsp n. 1.894.016/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 12/9/2023, DJe de 19/10/2023.
+Sem honorários de sucumbência, nos termos do art. 25 da Lei n. 12.016/2009.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, aínea a, do Regimento Interno do STJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ICMS. CRÉDITO PRESUMIDO E CUMULATIVIDADE. ACÓRDÃO COM FUNDAMENTO EM LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
