@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por FUNDAÇÃO CORSAN DOS FUNCIONÁRIOS DA COMPANHIA RIOGRANDENSE DE SANEAMENTO CORSAN contra decisão que negou segui mento ao recurso especial sob o fundamento de ausência de ofensa ao art. 1.022 do CPC e de incidência da Súmula n. 7/STJ no que concerne aos demais artigos ditos por violados (fls. 290-296).
+O acórdão recorrido encontra-se assim ementado (fls. 224-225):
+APELAÇÕES. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. PRELIMINAR. SENTENÇA EXTRA PETITA. REJEITADA. CONTRATO DE MÚTUO FIRMADO COM A FUNDAÇÃO CORSAN. ENTIDADE DE PREVIDÊNCIA PRIVADA. LEI COMPLEMENTAR 109/2001. VEDADA INCIDÊNCIA DE JUROS SUPERIORES A 12% AO ANO. PROIBIDA A CAPITALIZAÇÃO MENSAL DE JUROS.
+1. Rejeitada a alegação de que a sentença é extra petita. Analisando a inicial, em cotejo com o que foi determinado na sentença, é possível verificar que foi determinada apenas a devolução dos valores pagos a maior pelo autor com a correção monetária pelo IGP-M, configurando mera atualização da moeda, não ocorrendo nenhuma substituição de índice de correção monetária estabelecido no contrato.
+2. Tratando-se de entidade de previdência privada fechada, a requerida não pode se valer das disposições legais que regem os contratos firmados com instituições financeiras, motivo pelo qual não pode estipular juros livremente em seus contratos, devendo observar os limites estabelecidos na Lei de Usura (Dec. 22.626/33), cujo art. 1º veda a cobrança de juros superiores a 12% ao ano. Ademais, desde a entrada em vigor Lei Complementar nº 109/2001, como entidade de previdência privada fechada que é, não mais poderia conceder empréstimos aos seus associados. Assim, tendo sido concedido o empréstimo nessas condições, o contrato firmado entre as partes deverá ser avaliado como se mútuo entre particulares fosse, mediante limitação dos juros no patamar de 12% ao ano.
+3. Outrossim, na hipótese dos autos, o demonstrativos analítico de empréstimo colacionado sinaliza a prática de capitalização mensal, que deve ser afastada ante a proibição do 591 do Código Civil.
+4. A jurisprudência do STJ está consolidada no sentido de admitir a compensação de valores e a repetição do indébito sempre que constatada cobrança indevida do encargo exigido, sem que, para tanto, haja necessidade de ser comprovado erro no pagamento, a fim de ser evitado o enriquecimento ilícito da parte beneficiada.
+RECURSO DA RÉ DESPROVIDO. RECURSO DO AUTOR PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 247-249).
+No especial (fls. 259-274), fundamentado no art. 105, inciso III, alínea "a", da CF, a recorrente apontou violação dos seguintes dispositivos legais, sob os respectivos fundamentos:
+(i) art. 1.022, II, do CPC, afirmando que "a colenda 15ª Câmara Cível do TJRS  ..  não apreciou fundamentais questões jurídicas (aplicabilidade da Resolução nº 3.792/2009/BACEN e dos dispositivos da LC nº 109/2001)" (fl. 268); e
+(ii) arts. 141 e 492 do CPC, sustentando que "não fez parte dos pedidos iniciais do autor/recorrido o pedido de fixação ou substituição de índice de correção monetária contratado (INPC) pelo IGP-M" e que "as parcelas relativas ao mútuo foram descontadas em folha mediante atualização monetária pelo INPC, portanto, incabível a alteração do índice de correção monetária, ainda mais de ofício, como ocorre à espécie" (fls. 273 e 274).
+Contraminuta apresentada (fls. 319-322).
+No agravo (fls. 531-541), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+A parte recorrente apontou negativa de prestação jurisdicional sob a alegação de que a Corte local não teria se manifestado a respeito das omissões apontadas nos embargos de declaração relativas à "aplicabilidade da Resolução nº 3.792/2009/BACEN e dos dispositivos da LC nº 109/2001" (fl. 268).
+A respeito dos pontos elencados, assim se pronunciou o Tribunal de origem (fl. 221):
+ ..  desde a entrada em vigor Lei Complementar nº 109/2001, as entidades de previdência privada fechada não mais poderiam conceder empréstimos aos seus associados. Todavia, tendo ocorrido a concessão de empréstimos, os contratos firmados entre as partes devem ser avaliados como se mútuo entre particulares fossem.
+Dessa forma, no que tange aos juros praticados, levando em consideração que a entidade previdenciária requerida não tem natureza de instituição financeira, tenho que os juros fixados no patamar de 1,10%  ..  é de fato abusivo.
+Como se vê, o Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte agravante, explicitando a motivação necessária para afastar as alegações apresentadas.
+Ressalte-se que a adoção de posicionamento contrário aos interesses da parte não se confunde com obscuridade, contradição, omissão ou negativa de prestação jurisdicional.
+Desse modo, no que se refere à alegada afronta ao art. 1.022, II, do CPC/2015, não assiste razão à parte.
+Quanto à alegação de julgamento extra petita, conforme constou no acórdão dos embargos de declaração opostos (fl. 219):
+Ao reverso do que alega a apelante, não houve substituição do índice estabelecido no contrato, apenas foi determinada a devolução dos valores pagos a maior com a correção monetária pelo IGP-M, configurando mera recomposição da moeda.
+Portanto, verifica-se que o entendimento do Tribunal de origem não pode ser desconstituído apenas com base nos arts. 141 e 492 do CPC, que tratam, respectivamente, da vedação a que se conheça de questões não suscitadas quando a lei exija iniciativa da parte e da proibição de que seja proferida decisão de natureza diversa da pedida, porque as normas em referência não são suficientes para impugnar a motivação do acórdão recorrido, uma vez que a Corte Local apenas determinou a correção monetária do valor a ser devolvido, o que, por disposição legal, deve incidir independentemente de pedido da parte.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal.
+Ante o exposto, CONHEÇO do agravo e EM PARTE do recurso e, nessa parte, NEGO-LHE PROVIMENTO.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado em desfavor da ora agravante, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+EMENTA
