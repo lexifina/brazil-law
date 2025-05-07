@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por THIAGO RIBEIRO DE ALMEIDA contra acórdão do Tribunal de Justiça do Estado de São Paulo que manteve a condenação do recorrente como incurso nas sanções do art. 155, caput, do Código Penal, à pena de 1 (um) ano, 4 (quatro) meses e 10 (dez) dias de reclusão, em regime inicial semiaberto, e 12 (doze) dias-multa (fls. 250-260).
+Inconformado, o recorrente interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, para alegar violação aos arts. 1º, 13, 155 e 44, § 3º, do Código Penal (fls. 272-285).
+Em contrarrazões, o Ministério Público do Estado de São Paulo pugna pela inadmissibilidade do recurso especial, nos termos das Súmulas n. 284, STF e n. 7, STJ, e, caso admitido, pugna pelo seu desprovimento (fls. 289-293).
+O Ministério Público Federal opinou pelo não conhecimento ou desprovimento do recurso (fls. 307-311).
+É o relatório. DECIDO.
+Inicialmente, saliento que, para a aplicação do princípio da insignificância, é necessário considerar alguns requisitos, como a mínima ofensividade da conduta, a ausência de periculosidade social da ação, o baixo grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada.
+Salvo em casos excepcionais, a reiteração criminosa inviabiliza o reconhecimento da atipicidade da conduta, visto que o princípio da insignificância não se destina a proteger condutas habitualmente desvirtuadas e reprováveis, ainda que isoladamente irrisórias.
+A propósito:
+"1. Para a aplicação do princípio da bagatela, necessário considerar algumas condições, tais como (a) mínima ofensividade da conduta do agente, (b) ausência de periculosidade social da ação, (c) baixo grau de reprovabilidade do comportamento e (d) inexpressividade da lesão jurídica provocada (STF - HC n. 84.412, Rel. Min. Celso de Mello, publicado no DJ de 02/08/2004 - e STJ - AgRg no HC n. 543.291/ES, Rel. Min. Ribeiro Dantas, Quinta Turma, julgado em 06/02/2020, DJe de 12/02/2020).
+2. A jurisprudência desta Corte tem rechaçado a aplicação do princípio da insignificância ao crime de furto quando o agente for reincidente ou portador de maus antecedentes em razão da maior ofensividade e reprovabilidade da conduta (AgRg no AgRg no AREsp n. 2.250.234/MG, Rel. Min. Reynaldo Soares da Fonseca, Quinta Turma, julgado em 25/04/2023, DJe de 28/04/2023)." (AgRg no AREsp n. 2.612.878/MG, relator Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, julgado em 7/10/2024, DJe de 9/10/2024)
+In casu, o Tribunal de origem ressaltou que o valor da res furtiva (R$ 80,00) era inferior a 10% do salário-mínimo vigente à época dos fatos, mas o princípio da bagatela deveria ser afastado porque o acusado era reincidente (fl. 257). Portanto, a decisão recorrida está em consonância com a jurisprudência desta Corte.
+No que diz respeito ao pleito subsidiário, também não há motivo para reforma da decisão recorrida, uma vez que o recorrente não preenche os requisitos legais para a su bstituição da pena corporal pela pena restritiva de direitos, conforme exposto à fl. 259:
+"E não era mesmo caso de substituição da pena privativa de liberdade por restritiva de d ireitos e de conceder o sursis, por expressa determinação legal (artigo 44, incisos II e III, e artigo 77, incisos I e II, ambos do Código Penal)."
+Ante o exposto, nos termos do art. 255, § 4º, inciso II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
