@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por ELIUTON ASSIS DE CARVALHO contra decisão que inadmitiu o seu recurso especial contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"PENAL E PROCESSUAL. TRÁFICO INTERNACIONAL DE MUNIÇÕES. ART. 18 DA LEI 10.826/2003. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. USO DE DOCUMENTO FALSO. ART. 304 DO CP. TIPO REMETIDO. EXERCÍCIO DE AUTODEFESA. NÃO CONFIGURADO. CONDENAÇÃO. MANUTENÇÃO. PENA. SUBSTITUIÇÃO. IMPOSSIBILIDADE.
+1. O princípio da insignificância não se aplica ao delito de tráfico internacional de munições, em razão do alto grau de reprovabilidade da conduta delituosa e da potencialidade lesiva do objeto. Mostra-se típica a conduta de importar ilegalmente 350 cartuchos de munição, ainda que a mercadoria esteja desacompanhada de arma de fogo.
+2. O delito de uso de documento falso configura crime remissivo ou tipo remetido, pois a figura típica do artigo 304 do Código Penal vale-se, para a sua configuração, de outro tipo penal, o artigo 297 do mesmo Código. Tendo havido a condenação apenas pelo uso de documento falso, não tem cabimento a discussão acerca da aplicabilidade da consunção.
+3. As condutas de utilizar documento falso e de atribuir-se falsa identidade não estão englobadas no que se entende por autodefesa, ou não auto-incriminação. Inteligência da Súmula nº 522 do STJ.
+4. Resultando a pena total em patamar superior a 4 anos, resta inviabilizada a substituição por restritivas de direitos, forte no art. 44, I, do CP.
+5. Condenação e pena mantidas."
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 430-439).
+Contrarrazões apresentadas (e-STJ fl. 443 ).
+O Ministério Público Federal opinou "pelo não provimento do agravo em recurso especial" (e-STJ fls. 455-460).
+É o relatório.
+Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento. En tretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". A mera citação de enunciados no decorrer da petição, sem demonstrar a superação dos óbices e das súmulas apontadas, não viabiliza o prosseguimento do recurso.
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial com fundamento na Súmula n. 182/STJ, porquanto não impugnada especificamente a incidência dos óbices apontados pela Corte a quo como fundamento para a inadmissão do recurso especial (e-STJ fls. 1774/1775). Nas razões do regimental (e-STJ fls. 1777/1794), por sua vez, o agravante deixou de infirmar os fundamentos atinentes aos referidos entraves.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (decisão de não conhecimento do agravo em recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.792.018/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/2/2021, DJe de 4/2/2021)
+Ante o exposto, com base no art. 932, inciso III, do CPC, e no art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça , não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
