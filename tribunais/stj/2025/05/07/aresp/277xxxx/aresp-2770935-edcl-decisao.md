@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DAIZ NANZE DE OLIVEIRA QUEIROZ à decisão de fls. 3.576-3.578, por mim proferida, que não conheceu do agravo em recurso especial pela incidência da Súmula n. 182/STJ.
+A defesa sustenta, em síntese, que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Nesse sentido, alega que:
+O fundamento da inadmissão do Recurso aponta reexame fático probatório, algo que, ao longo do corpo do texto, a Defesa reiterou que não era disso que se tratava, colacionando diversos julgados do STJ onde, em casos similares, foi adotada outra interpretação dos artigos: a) Artigos 381, III e 386, V do Código de Processo Penal, O acórdão não se fundamentou em prova cabal para condenar a ré Daiz, na verdade todas as provas obtidas apenas incriminam seu amasiado Edimar, o qual era investigado e, pelo infortúnio de ter confiado e se relacionado com Edimar, Daiz aparece nas investigações e foi alvo de logro; A única conduta da ré Daiz foi de relacionar amorosamente com um criminoso, de por isso, sofreu imputações de crimes jamais cometidos. Essa suposição, desprovida de evidências consistentes, é insuficiente para justificar uma condenação criminal. Não se pode privar alguém de sua liberdade com base em conjecturas ou probabilidades. A condenação deve se apoiar em um juízo de certeza, o que claramente não foi alcançado no caso em questão. A gravidade de uma decisão baseada em ilações é inegável, pois não atende aos padrões mínimos de uma fundamentação idônea exigida para decisões tão severas. Vide trechos do acórdão que manteve a condenação: A Egrégia 11ª Câmara Criminal do Tribunal Regional Federal da 3ª Região negou provimento ao recurso da Agravante, conforme a seguinte ementa, mantendo apenas os pontos em que cita a ré e suas supostas condutas: (fl. 3.584-3.585).
+Aponta, ainda, contradição, razão pela qual requer que os embargos de declaração sejam conhecidos e providos para conhecer do agravo e conferir regular processamento ao recurso especial interposto.
+Sem impugnação, vieram os autos conclusos.
+É  o  relatório.
+DECIDO.
+Conforme o art. 619 do CPP, os embargos de declaração destinam-se a suprir omissão, contradição, ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+De fato, como declinado na decisão embargada, foi indicado precisamente que o agravante olvidou-se em esclarecer, por meio do cotejo entre as teses recursais e os fundamentos do acórdão recorrido, de que forma o conhecimento da insurgência dispensaria o revolvimento probatório, não tendo realizado a contextualização e indicação de dados concretos constantes do acórdão recorrido. A justificativa para o não conhecimento do agravo, portanto, foi devidamente apresentada.
+Assim, os argumentos da parte embargante demonstram, apenas, sua discordância com a solução jurídica então encontrada, pretensão incabível na estreita via dos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
