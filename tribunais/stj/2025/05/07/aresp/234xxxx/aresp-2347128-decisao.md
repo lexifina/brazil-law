@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CRISTIAN GONCALVES MENDES e RENATO GRUBER DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que não admitiu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada na decisão proferida à e-STJ fl. 1359, a saber:
+ ..  Nas razões do recurso especial (e-STJ fls. 964/1.007), a defesa apontou violação dos arts. 155, 226 e 386 do Código de Processo Penal. Defendeu que "o reconhecimento dos Recorrentes por fotografia - realizado na fase do inquérito -, sem observância das regras procedimentais do comando penal, consoante inferido, não foi repetido em Juízo ou referendado por outras provas judiciais, sendo inidôneo, portanto, para lastrear a condenação em segundo grau" (e- STJ fl. 983). Requereu, assim, "a declaração de nulidade do reconhecimento realizado pela suposta vítima, determinando o seu imediato desentranhamento dos autos, bem como das provas dele decorrentes, ante a violação dos arts. 155 e 226, um e outro do Código de Processo Penal" (e-STJ fl. 993). Aduziu, outrossim, que "o arcabouço de provas colacionado aos presentes autos é permeado de inconsistências, incongruências e contradições" (e-STJ fl. 993), requerendo a absolvição dos réus.
+Contrarrazões às e-STJ fls. 1.055/1.062.
+O recurso especial não foi admitido (e-STJ fls. 1.074/1.078). A defesa interpôs agravo (e-STJ fls. 1.096/1.138).
+A Presidência desta Corte não conheceu do agravo por ausência de impugnação específica de fundamentos da decisão que havia inadmitido o recurso especial (e-STJ fls. 1.296/1.297).
+Irresignada, a parte interpõe o presente agravo regimental (e-STJ fls. 1.302/1.347), alegando que atacou adequadamente todos os fundamentos da decisão agravada. Requer, assim, a reconsideração do julgamento para que do agravo em recurso especial seja conhecido.
+Por meio do decisum de e-STJ fl. 1360, foi dado provimento ao agravo regimental para determinar o regular processamento do agravo em recurso especial.
+Ao final, o Parquet opinou pelo não provimento do agravo em recurso especial (e-STJ fl. 1375).
+É o relatório.
+Decido.
+Não merece prosperar a irresignação dos agravantes.
+No caso em exame, o recurso especial manejado pretende o reconhecimento da violação aos arts. 155 e 226 do Código de Processo Penal, sob o argumento de que o reconhecimento fotográfico foi realizado sem a observância das normas legais e não houve ratificação em Juízo. Além disso, os agravantes aduzem que houve violação ao art. 386 do Código de Processo Penal, porque o conjunto probatório dos autos não permite concluir, com certeza, que os agravantes cometeram o delito.
+As instâncias ordinárias, analisando os elementos fático-probatórios colacionados aos autos, entenderam, de forma motivada, que existem provas efetivas da participação dos agravantes no crime em questão.
+Convém destacar, por oportuno, que "o reconhecimento fotográfico, ainda que realizado em desacordo com o art. 226 do CPP, não é nulo se corroborado por outras provas independentes e suficientes, produzidas sob o crivo do contraditório e da ampla defesa" (AgRg no RHC n. 191.673/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 18/12/2024, DJe de 23/12/2024).
+Assiste razão ao Ministério Público Federal quando destaca que, no presente caso, "o reconhecimento fotográfico não foi a única prova que amparou a condenação, pois os agravantes foram presos minutos após o cometimento do delito em veículo utilizado na empreitada." (e-STJ fl. 1375).
+Nesse caso, a decisão recorrida (e-STJ fl. 944- 949) apresenta extensa fundamentação, suficientemente idônea na apreciação do arcabouço fático e das provas colhidas, para manter a condenação dos recorrentes pelo crime patrimonial.
+Para infirmar o que restou decidido pelo Tribunal de origem, com o objetivo de absolver os agravantes, seria necessário amplo revolvimento de fatos e provas, procedimento vedado em sede de recurso especial, ante o óbice da Súmula n. 7 desta Corte.
+É cediço que "o Superior Tribunal de Justiça não é terceira instância revisora ou Corte de apelação sucessiva. O recurso especial é excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa, à moda de recurso ordinário ou de apelação, sob pena de se tornar uma terceira instância recursal" (AgRg no AREsp n. 2.409.008/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 13/8/2024, DJe de 16/8/2024).
+Dessa forma, a pretensão de revisão do julgado esbarra nos óbices das Súmulas 7 e 83 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
