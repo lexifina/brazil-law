@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por YASUO WATANABE e FUSAKO WATANABE contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO proferido no julgamento da Apelação/Remessa Necessária n. 5002444-80.2012.4.04.7006/PR, assim ementado (fl. 455):
+EMBARGOS À EXECUÇÃO FISCAL. CÉDULA DE CRÉDITO RURAL. CESSÃO DE CRÉDITOS À UNIÃO. EXECUÇÃO FISCAL. TÍTULO EXECUTIVO EXTRAJUDICIAL. COMISSÃO DE PERMANÊNCIA. ENCARGO LEGAL SUBSTITUI HONORÁRIOS.
+1 - Ante a taxatividade da lei, é descabida a pactuação da comissão de permanência nas cédulas de crédito rural.
+2 - Podem ser cobrados, por meio de execução fiscal, créditos da Fazenda Pública, mesmo que não tenham natureza tributária. A legislação inclui os contratos e garantias como possibilidades de dívida de natureza não-tributária.
+3 - Nos termos do art. 3º, parágrafo único, da LEF, a dívida ativa regularmente inscrita goza de presunção "juris tantum" de certeza e liquidez, só podendo ser afastada por prova inequívoca. A inscrição, por sua vez, gera a certidão de dívida ativa, a qual constitui título executivo extrajudicial para efeito de ajuizamento da execução pelo rito especial da Lei nº 6.830, de 1980.
+1 - O encargo legal (DL 1.025 /69), substitui os honorários (Súmula 168 do TFR).
+Os embargos de declaração opostos pelas partes foram acolhidos nestes termos (fl. 505):
+EMBARGOS DECLARATÓRIOS. ARTIGO 1.022 DO CPC/2015.
+1. Acolhidos os embargos da União em face da inexistência de encargo legal no caso concreto. Restabelecida a sentença no ponto.
+2. Quanto aos declaratórios do devedor, constato que a decisão embargada enfrentou a questão de forma clara e suficientemente fundamentada, expressando o entendimento desta Turma, não se verificando nenhum dos vícios previstos no artigo 1022 do CPC.
+3. Acolhidos os embargos somente para fins de prequestionamento.
+Nas razões do apelo nobre, os recorrentes argumentam que "deve ser reformada a decisão proferida no acórdão para manter o benefício da assistência judiciária gratuita aos Recorrentes, na forma da Lei n. 1.060, de 5 de fevereiro de 1950 e art. 5º, inciso LXXIV, da Constituição Federal" (fl. 525).
+Sustentam ofensa ao art. 1.022 do CPC, sob a alegação de que o Tribunal regional não apreciou todas as questões suscitadas na origem.
+Apontam violação ao art. 7.º da Medida Provisória n. 2196-3/2001, pois a "União (aqui recorrida) não possui legitimidade para executar (cobrar) e nem inscrever em dívida ativa os Créditos que se diz sub-rogada pela Medida Provisória nº 2196-3/2001" (fl. 526).
+Afirmam que "não se pode cobrar crédito decorrente de direito privado por execução fiscal porque é juridicamente vedado aos entes estatais executarem créditos decorrentes de atividade de iniciativa privada" (fl. 527).
+Assinalam que "a natureza do crédito não admite execução pelo rito de Execução Fiscal: não se trata de dívida fiscal, ou de ativo que a União tenha adquirido em decorrência de tributo. Aqui se trata de contrato privado (cessão de crédito: SECURITIZAÇÃO, onde a União comprou os créditos do Banco do Brasil)" (fl. 528).
+Salientam que "a simples existência de previsão de autorização para cessão não instrumentaliza a cessão, sendo que a Recorrida não trouxe a prova da cessão de crédito, pelo que descumpre o determinado no artigo 283 do CPC, visto que a lei (no caso a Medida Provisória) é comando genérico e poderia, no máximo, permitir a contratação da aquisição do crédito pela União" (fl. 529).
+Alegam contrariedade aos arts. 2.º, 3.º e 51, todos do Código de Defesa do Consumidor. Afirmam que deve ser aplicado o referido código na hipótese dos autos.
+Sustentam negativa de vigência ao art. 849 do Código Civil, pois, " c om a quitação (pela dação em pagamento ou pela confusão), as obrigações acessórias se extinguiram, estando extinta a hipoteca" (fl. 533).
+Asseveram que, "  n o que se refere à impenhorabilidade do bem de família, o acórdão recorrido está em dissídio com a jurisprudência, razão pela qual os recorrentes apresentam este recurso especial também pelo art. 105, III, letra "c" da CF" (fl. 533).
+Contrarrazões às fls. 542-552.
+O recurso especial foi admitido (fls. 555-556).
+É o relatório.
+Decido.
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior decidiu a controvérsia nos autos do REsp n. 1.123.539/RS, relator Ministro LUIZ FUX, julgado em 09/12/2009, DJe de 01/02/2010, sob a sistemática dos recursos repetitivos (Tema n. 255), fixando a seguinte tese vinculante:
+Os créditos rurais originários de operações financeiras alongadas ou renegociadas (cf. Lei n. 9.138/95), cedidos à União por força da Medida Provisória 2.196-3/2001, estão abarcados no conceito de Dívida Ativa da União para efeitos de execução fiscal - não importando a natureza pública ou privada dos créditos em si.
+Nesse contexto, impõe-se a remessa dos autos à origem, para que, depois de realizado o juízo de conformação, o recurso especial, se for o caso, seja encaminhado a esta Corte Superior, para que, aqui, possam ser analisadas eventuais questões jurídicas nele suscitadas que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+A propósito:
+ ..
+III - Dos dispositivos, arts. 1.030, 1.040, II, e 1.041 do CPC/2015, denota-se que cabe ao Ministro Relator, com o julgamento do paradigma, determinar a devolução dos autos ao Tribunal de origem, para que seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial, uma vez que, ao que se tem dos presentes autos, não houve qualquer manifestação de juízo de retratação negativa ou positiva quanto ao ponto.
+IV - Desse modo, prestigia-se o propósito racionalizador da sistemática dos recursos representativos de controvérsia que estabelece ser de competência dos Tribunais de origem, de forma exclusiva e definitiva, a adequação do caso em análise à tese firmada no julgamento de recurso repetitivo, de modo a inviabilizar a interposição de qualquer outro recurso subsequente a esta Corte que trate da mesma matéria.
+V - O referido entendimento restou assentado no art. 34, XXIV, do Regimento Interno do Superior Tribunal de Justiça, com a atribuição de competência ao relator para "determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis". Nesse sentido: AgInt no AREsp 729.327/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/11/2017, DJe 05/02/2018 e AgInt no AREsp 523.985/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018.
+VI - Correta a decisão que determinou o retorno dos autos ao Tribunal de origem, com a devida baixa nesta Corte, em conformidade com a previsão do art. 1.040, c.c. o §2º do art. 1.041, ambos do CPC/2015.
+VII - Agravo interno improvido. (AgInt nos EDcl nos EDcl no AREsp n. 2.461.494/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 7/10/2024, DJe de 9/10/2024; sem grifos no original.)
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.9 74.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 255 do STJ, observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. CESSÃO DE CRÉDITOS À UNIÃO. EXECUÇÃO FISCAL. TEMA N. 255 DO STJ. NECESSIDADE DE REALIZAÇÃO DO JUÍZO DE CONFORMAÇÃO. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
