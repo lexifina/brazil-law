@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em razão da inexistência de violação de lei federal (fls. 78-79).
+O acórdão recorrido encontra-se assim ementado (fl. 31):
+AGRAVO DE INSTRUMENTO CÍVEL. DIREITO PROCESSUAL CIVIL. AÇÃO DE EXIGIR CONTAS. CUMPRIMENTO DE SENTENÇA. LEILÃO JUDICIAL DE BENS PENHORADOS. Insurgência do executado contra a r. decisão interlocutória que determinou lance mínimo de 50% do valor da avaliação dos bens em segunda praça de leilão judicial. Pronunciamento judicial que não merece reparos. Fixação de lance mínimo dentro de parâmetros legais. Inteligência do parágrafo único do art. 891 do Código de Processo Civil. Preço que não é considerado vil. Segunda praça do leilão que já está em andamento. Execução que se procede no interesse do credor. Ausência de prejuízo ao executado ou ofensa ao princípio da menor onerosidade do devedor. Primazia da tutela satisfativa que deve observada. Decisão mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (fls. 57-59).
+Nas razões do recurso especial (fls. 37-49), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou violação dos arts. 489, §1º, I e IV, e 1.022, II, do CPC/2015 por negativa de prestação jurisdicional, sustentando que "em que pese exista a possibilidade de que em segundo pregão sejam admitidos lanços inferiores a 60% (sessenta inteiros por cento) do valor de avaliação do bem, no entanto, de acordo com o artigo 13, do Provimento CSM nº 1625/09, do TJSP, deverá existir determinação judicial diversa, amparada em fundamentação, tal qual exige o Artigo 489, §1º, inciso I, do Código de Processo Civil, o que não ocorreu na r. decisão de primeiro grau" (fls. 45-46).
+No agravo (fls. 82-91), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada (fls. 94-101).
+É o relatório.
+Decido.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+De fato, em relação à tese, o Tribunal de origem assim se manifestou (fl. 59):
+O v. acórdão embargado é claro no que tange à possibilidade de fixação de preço inferior a 60% do valor da avaliação do bem levado à leilão. Senão vejamos:
+Em que pesem os argumentos apresentados pelo agravante, verifica-se que o I. Magistrado a quo agiu dentro dos parâmetros legais, bem como conforme provimento CSM 1625/2009 deste E. Tribunal de Justiça. O parágrafo único do art. 891 do Código de Processo Civil dispõe o seguinte: Considera-se vil o preço inferior ao mínimo estipulado pelo juiz e constante do edital, e, não tendo sido fixado preço mínimo, considera-se vil o preço inferior a cinquenta por cento do valor da avaliação. Em consonância com o dispositivo legal é a redação do art. 13 do Provimento CSM desta corte de Justiça: Art. 13. Em segundo pregão, não serão admitidos lanços inferiores a 60% do valor da avaliação, ressalvada determinação judicial diversa
+Conforme se vê acima, não há qualquer afronta ao disposto no art. 489, §1º, I do Código de Processo Civil, uma vez que a fundamentação deriva do próprio texto legal, bem como não se olvida que a execução se procede no interesse do exequente e deve seguir de maneira célere a fim de garantir a satisfação do débito exequendo e a entrega efetiva da tutela jurisdicional.
+Ademais, a alegação do embargante é genérica e desprovida de qualquer elemento capaz de demonstrar efetivo prejuízo pelo fato de o lance mínimo ter sido fixado em 50% do valor de avaliação do bem.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente a seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
