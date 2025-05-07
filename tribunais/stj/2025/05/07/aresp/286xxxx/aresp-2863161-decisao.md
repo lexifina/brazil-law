@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Agravo apresentado por SILMARA DOS SANTOS à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. PRAZO QÜINQÜENAL. APLICAÇÃO DA TESE FIRMADA NO RESP 1.604.412/SC. PRESCRIÇÃO NÃO CONFIGURADA. AUSÊNCIA DE PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DO TÍTULO EXECUTIVO. EXEQUENTE QUE SEMPRE DEU ANDAMENTO AO FEITO E REQUEREU A BUSCA DE BENS PASSÍVEIS À PENHORA. DECISÃO REFORMADA. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente aduz ofensa ao art. 44 da Lei 10.931/2004; e art. 70 da Lei Uniforme de Genebra (decreto 57.663/66), no que concerne à necessidade de aplicação do prazo prescricional trienal tendo em vista se tratar de execução de título extrajudicial, trazendo a seguinte argumentação:
+Trata-se na origem de uma "execução de título extrajudicial" movida pelo Recorrido em face da Recorrente e outra, cujo crédito lastreado em cédula de crédito bancário, na data do ajuizamento da ação, era de R$ 117.244,31 (cento e dezessete mil duzentos e quarenta e quatro reais e trinta e um centavos).
+Fato é que após vários anos de tramitação sem qualquer efetividade, o Juízo de primeira instância extinguiu o processo pela ocorrência da prescrição intercorrente, o que foi alvo de apelação interposta pelo banco Recorrido.
+Após regular tramite, o e. TJPR através do v. Acórdão ora recorrido reformou tal decisão de piso e, dentro de sua fundamentação, afirmou que o prazo prescricional da Cédula de Crédito Bancário no rito da execução seria quinquenal conforme artigo 206, §5º, inciso I, CC/02, senão vejamos:
+ ..
+Há evidente erro de julgamento quanto à premissa jurídica relacionada ao prazo prescricional aplicável à espécie, uma vez que, como é de conhecimento deste e. STJ, o prazo prescricional neste caso é trienal.
+ ..
+O que ocorre é que, em se tratando de execução de título extrajudicial, o prazo prescricional aplicável ao caso é trienal, conforme preveem os artigos 44 da Lei 10.931/2004 e 70 da Lei Uniforme de Genebra (decreto 57.663/66), abaixo: (fls. 474-477).
+É o relatório.
+Decido.
+Quanto à controvérsia, incidem as Súmulas n. 282/STF e 356/STF, porquanto a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: ;"O Tribunal de origem não se manifestou sobre a alegação de preclusão do direito a pleitear nova produção de provas após o juízo saneador, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF" (AgInt no AREsp n. 2.700.152/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 21/3/2025).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.974.222/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025; AgInt no AREsp n. 2.646.591/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AREsp n. 2.645.864/AL, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.732.642/SP, relator Ministro Teodoro Silva Santos, Segunda Turma, DJEN de 18/3/2025; AgRg no REsp n. 2.142.363/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 5/3/2025; AgRg no AREsp n. 2.402.126/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJEN de 26/2/2025; REsp n. 2.009.683/SP, relatora Ministra Daniela Teixeira, Quinta Turma, DJEN de 25/2/2025; AgInt no REsp n. 2.162.145/RR, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 20/2/2025; AgInt nos EDcl no REsp n. 1.933.409/PA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 19/12/2024; AgRg no AREsp n. 1.574.507/TO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 9/12/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
