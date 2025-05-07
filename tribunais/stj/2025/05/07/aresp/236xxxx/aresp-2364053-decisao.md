@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado pela Concessionária de Rodovias do Oeste de São Paulo - Viaoeste S/A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 219):
+APELAÇÃO CUMPRIMENTO DE SENTENÇA IMPUGNAÇÃO Controvérsia acerca dos cálculos apresentados pelas partes e a incidência dos juros compensatórios determinada no título executivo Perícia determinada pelo Juiz "a quo" Acolhimento - Homologação Possibilidade Laudo pericial coerente e que atendeu às diretrizes do título executivo na elaboração dos cálculos Sentença mantida RECURSO IMPROVIDO.
+Opostos embargos declaratórios pelas partes, foram rejeitados os aclaratórios da concessionária e o recurso dos particulares foi acolhido, nestes termos (fl. 245):
+EMBARGOS DE DECLARAÇÃO DOS AUTORES DO CUMPRIMENTO DE SENTENÇA - Alegação de erro material contido no penúltimo parágrafo de fls. 04 do acórdão - Concessão de efeitos modificativos, nesta parte, para o fim de sanar o erro material - Embargos acolhidos.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489 e 1.022 do CPC; e 15-A e 33 do Decreto-Lei n. 3.365/41. Para tanto, sustenta que o aresto integrativo deveria ser anulado, porque não teria sanado vícios indicados nos aclaratórios. Por fim, aduz que é indevida a incidência de juros compensatórios sobre os valores depositados em juízo antes da imissão na posse do imóvel.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo parcial conhecimento do recurso especial e, nessa extensão, pelo seu desprovimento. (fls. 339/345).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto aos juros compensatórios, melhor sorte não socorre à parte agravante.
+Ao solucionar a questão, o Tribunal a quo asseverou (fls. 223/224):
+Sobre a controvérsia, houve pericia judicial determinada pelo Juiz "a quo", tendo o perito concluído, às fls. 75 a 114, que não há excesso de execução, pois, conforme esclareceu às fls. 133/135, em seus cálculos, não houve incidência de juros sobre a parcela já depositada nos autos, bem como que, a diretriz utilizada para a perícia levou em consideração as determinantes do título executivo e o depósito de R$ 77.783,00, na mesma data em que foi realizado, para ser abatido do saldo devedor.
+Nesse contexto, a alteração das premissas adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
