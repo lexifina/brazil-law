@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARO EXPORTAÇÃO IMPORTAÇÃO INDÚSTRIA E COMÉRCIO LTDA. (em recuperação judicial) com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo em agravo de instrumento nos autos de recuperação judicial. O julgado foi assim ementado (fl. 110):
+Recuperação judicial Plano aprovado em assembleia de credores e homologado em Juízo Soberania da assembleia de credores Relativização Jurisprudência Exame concreto das cláusulas Deságio, carência e prazo de pagamento em consonância com a realidade financeira da recuperanda - Ausência de abusividade - Juros inferiores aos legais - Fruto da manifestação de vontade coletiva Correção monetária indexada pela Taxa Referencial (TR) Atual inviabilidade Perda de sua funcionalidade, em especial diante da "contaminação" derivada da tentativa de sua utilização para atualização de condenações da Fazenda Pública, recentemente rechaçada pelo STF - Divulgação de taxa zero, equivalente à ausência de correção - Aplicação da Tabela Prática deste Tribunal determinada Correção monetária incidente desde o ajuizamento do pedido de recuperação judicial - Homologação mantida, com ressalvas Recurso parcialmente provido.
+Os embargos de declaração opostos foram decididos nestes termos (fl. 145):
+Embargos de declaração Acórdão Omissão, obscuridade e contradição Inexistência Mero inconformismo Embargos rejeitados.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos arts. 50 e 58 da Lei n. 11.101/2005, pois o acórdão violou a soberania da assembleia de credores ao modificar o índice de correção monetária aprovado.
+Requer o provimento do recurso para que se mantenha o índice de correção monetária previsto no plano de recuperação judicial votado pelos credores, a saber, a taxa referencial (TR), em atenção à soberania das decisões assembleares.
+Nas contrarrazões, a parte recorrida aduz que o recurso não reúne as mínimas condições para seu processamento, pois não demonstra violação clara e objetiva de dispositivos legais, atraindo a incidência da Súmula 284 do STF (fls. 190-198).
+O recurso especial foi admitido pela alínea a do art. 105, III, da Constituição Federal, sendo inviável pela alínea c, devido à falta de demonstração analítica do dissídio jurisprudencial (fls. 211-213).
+É o relatório. Decido.
+Na origem, a empresa ARO EXPORTAÇÃO, IMPORTAÇÃO, INDÚSTRIA E COMÉRCIO LTDA., em recuperação judicial, teve homologado judicialmente seu 7º Aditivo ao Plano de Pagamento, aprovado em assembleia geral de credores. O plano previa, entre outras cláusulas, correção monetária pela TR mais juros de 0,2% a.m., além de deságio de 80% e prazo de 20 anos para pagamento de credores quirografários com carência de 24 meses.
+O BANCO BRADESCO S.A., credor da recuperanda, interpôs agravo de instrumento, alegando abusividade e ilegalidade nas cláusulas do plano. O TJSP deu provimento parcial, substituindo a TR pela Tabela Prática do TJSP como índice de correção monetária, por considerar a TR inapta à recomposição inflacionária, mas manteve os demais termos do plano.
+Os embargos declaratórios foram rejeitados e sobreveio o recurso especial.
+Registre-se que não cabe ao Poder Judiciário efetuar o controle da viabilidade econômica do plano de recuperação judicial, podendo apenas exercer o controle de sua legalidade.
+Nesse sentido:
+DIREITO EMPRESARIAL. PLANO DE RECUPERAÇÃO JUDICIAL. APROVAÇÃO EM ASSEMBLEIA. CONTROLE DE LEGALIDADE . VIABILIDADE ECONÔMICO-FINANCEIRA. CONTROLE JUDICIAL. IMPOSSIBILIDADE.
+1 . Cumpridas as exigências legais, o juiz deve conceder a recuperação judicial do devedor cujo plano tenha sido aprovado em assembleia (art. 58, caput, da Lei n. 11.101/2005), não lhe sendo dado se imiscuir no aspecto da viabilidade econômica da empresa, uma vez que tal questão é de exclusiva apreciação assemblear.
+2. O magistrado deve exercer o controle de legalidade do plano de recuperação - no que se insere o repúdio à fraude e ao abuso de direito -, mas não o controle de sua viabilidade econômica. Nesse sentido, Enunciados n. 44 e 46 da I Jornada de Direito Comercial CJF/STJ .
+3. Recurso especial não provido. (REsp n. 1.359.311/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/9/2014, DJe de 30/9/2014.)
+Nessa linha, a matéria relativa à correção monetária se insere na viabilidade econômica do plano de recuperação, sendo descabida, por conseguinte, a revisão judicial do índice de atualização monetária estabelecido pela assembleia de credores.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CONTROLE JUDICIAL DA VIABILIDADE ECONÔMICA DO PLANO RECUPERACIONAL. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Conforme entendimento desta Corte Superior, é permitido o controle judicial da legalidade do plano de recuperação judicial, mas não a revisão de condições ligadas à viabilidade econômica, a qual constitui mérito da soberana vontade da assembleia-geral de credores. Precedentes.
+2. O índice de correção monetária está entre as condições relativas à viabilidade econômica do plano recuperacional, motivo pelo qual é inviável a determinação judicial de substituição da TR, aprovada pelos credores, em respeito à soberania da assembleia-geral de credores.
+3. Agravo interno desprovido. (AgInt no REsp n. 2.060.698/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 4/9/2023, DJe de 8/9/2023.)
+Ante o exposto, dou provimento ao recurso especial para reconhecer a validade da taxa referencial como índice de correção monetária constante no plano de recuperação judicial da ora recorrente .
+Publique-se. Intimem-se.
+EMENTA
