@@ -1,0 +1,14 @@
+DECISÃO
+MARCELO TOMADON DAMACENO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501184-11.2020.8.26.0617).
+Consta dos autos que o paciente foi condenado a 6 anos de reclusão, em regime fechado, mais multa, pela prática do crime de tráfico de drogas.
+A defesa pleiteia, por meio deste writ, a aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 e fixação de regime menos gravoso. Pede também a rev ogação da prisão do réu.
+O Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+Inicialmente, não conheço do pedido de revogação da custódia, pois esse tema não foi previamente analisado pelo Tribunal de origem no ato apontado como coator, que tratou apenas dos pedidos de absolvição e dosimetria da pena. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+No mais, a defesa se insurge contra acórdão p roferido no julgamento da apelação criminal, pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso ministerial, a fim de "afastar o redutor previsto no artigo 33, § 4º, da Lei Antidrogas, reajustar as penas de cada qual dos réus Marcelo e Rafael a seis anos de reclusão e seiscentos dias-multa, no piso mínimo, e as do réu Nicolas a cinco anos de reclusão e quinhentos dias-multa, no piso mínimo, bem como para cassar as penas alternativas a eles impostas e fixar para os três últimos o regime prisional inicial fechado, mantida, no mais, a sentença" (fl. 709).
+No entanto, em consulta processual realizada na página eletrônica do TJSP e nos assentamentos eletrônicos desta Corte, verifico que, contra o acórdão da apelação, a defesa do ora paciente interpôs recurso especial, não admitido na origem. Na sequência, interpôs agravo em recurso especial (REsp n. 2.034.952/SP), que não foi conhecido por decisão proferida pelo Ministro Jesuíno Rissato. Na ocasião, o referido Minis tro deu parcial provimento ao recurso especial do corréu Rafael Luiz, para aplicar a minorante no patamar máximo e redimensionar a reprimenda daquele corréu.
+Houve também a impetração do HC n. 972.434/SP pela defesa do ora paciente, apresentado em face do acórdão ora impugnado e no qual também se buscou a aplicação da minorante.
+Em decisão publicada em 14/2/2025, o habeas corpus não foi conhecido, em razão da impossibilidade de uso do writ em substituição à revisão criminal. O pedido de extensão protocolizado pela defesa no habeas corpus acima aludido também não foi conhecido, por ausência de prova pré-constituída das alegações, o que inviabilizou a análise da aventada identidade de situação processual com o corréu beneficiado pela decisão do Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
+EMENTA
