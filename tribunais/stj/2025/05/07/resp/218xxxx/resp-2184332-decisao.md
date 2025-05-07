@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO DE TRÃNSITO DO DISTRITO FEDERAL e pelo DEPARTAMENTO DE ESTRADAS DE RODAGEM DO DISTRITO FEDERAL contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS no julgamento da Apelação n. 0704593-05.2023.8.07.0018, assim ementado (fl. 362):
+APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. PROCESSUAL CIVIL. COMPRA E VENDA DE VEÍCULO. PROVA CABAL DO NEGÓCIO JURÍDICO. TRANFERÊNCIA DO VEÍCULO. TRANSFERÊNCIA DE MULTAS SOBRE VEÍCULO. POSSIBILIDADE. ART. 314 CTB. MITIGAÇÃO. PRECEDENTES DO TJDFT E STJ. SENTENÇA MANTIDA.
+1. De acordo com o art. 314 do CTB, ultrapassados 30 (trinta) dias para o proprietário/adquirente do veículo automotor transferir a titularidade do bem para si nos órgãos de trânsito, tal providência recairá ao antigo proprietário fazê-lo no prazo de 60 (sessenta) dias, sob pena de responsabilizar-se solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação.
+2. A responsabilidade solidária do antigo proprietário do veículo, em decorrência do descumprimento do dever de comunicar a transferência de propriedade ao DETRAN, pode ser mitigada quando existir comprovação robusta de que houve a efetiva comprar e venda do veículo. Precedentes do TJDFT e STJ.
+3.REMESSA NECESSÁRIA E APELAÇÃO CONHECIDAS E IMPROVIDAS.
+Os embargos de declaração opostos foram rejeitados (fls. 435-440).
+Nas razões do recurso especial, a parte recorrente alega, além da existência de dissídio pretoriano, contrariedade ao art. 134 do Código de Trânsito Brasileiro.
+Aduz que o antigo proprietário do veículo, quando não leva a efeito a devida comunicação de transferência do bem, torna-se devedor solidário pelos débitos oriundos de infração de trânsito.
+Não foram apresentadas c  ontrarrazões (fls. 494 e 495).
+O recurso foi admitido na origem (fls. 500-502).
+É o relatório.
+Decido.
+Sobre a pretensão recursal, a Primeira Seção deste Tribunal Superior decidiu afetar os REsps n. 2.152.197/SP, 2.174.050/SP, e 2.152.255/SP, relator Ministro Paulo Sérgio Domingues, Primeira Seção, julgado em 12/03/2025 a 18/03/2025, DJEN de 04/04/2025, à sistemática dos recursos repetitivos (Tema n. 1324 do STJ), com o fim de definir: " ..  a responsabilidade do alienante de veículo automotor por infrações administrativas e/ou de trânsito cometidas após a alienação, nos casos em que esta não é comunicada ao órgão de trânsito competente na forma e no prazo legais."
+Outrossim, há determinação de " ..  suspender o processamento dos recursos especiais e agravos em recurso especial nos processos pendentes que versem sobre a questão delimitada e em trâmite no território nacional."
+Nesse contexto, esta Corte Superior tem firme orientação no sentido de que os recursos que tratam da mesma controvérsia devem aguardar o julgamento do paradigma representativo no Tribunal de origem, viabilizando, assim, o juízo de conformação.
+Com efeito, "deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação/conformação na forma dos arts. 1.039 a 1.041 do CPC/2015" (EDcl no AgInt no REsp n. 1.974.797/DF, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/6/2024, DJe de 12/6/2024).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que, se for o caso, o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, JULGO PREJUDICADA a análise do recurso especial e, com fundamento no art. 34, inciso XXIV, do Regimento Interno do Superior Tribunal de Justiça, DETERMINO a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que seja oportunizado o juízo de conformação, à luz da tese fixada no Tema n. 1324 do STJ observadas as normas dos arts. 1.040 e 1.041 do Código de Processo Civil.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL ADMINISTRATIVO. COMPRA E VENDA DE VEÍCULO. TRANSFERÊNCIA. RESPONSABILIDADE DO ALIENANTE SOBRE MULTAS E INFRAÇÕES. RECURSO ESPECIAL. AFETAÇÃO DA CONTROVÉRSIA AO REGIME DOS RECURSOS REPETITIVOS (TEMA N. 1324 DO STJ). DETERMINAÇÃO DE SOBRESTAMENTO DOS PROCESSOS. PREJUDICADA A ANÁLISE DO RECURSO ESPECIAL, COM A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM.
