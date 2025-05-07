@@ -1,0 +1,43 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para conceder liberdade provisória ao paciente, impetrado em favor de CAUE HENRIQUE JANUARIO, alega-se coação ilegal em relação a acórdão prolatado pelo Tribunal de Justiça de São Paulo.
+O paciente foi preso em flagrante, convertido em preventiva, pela suposta prática do crime previsto no art. 33 da Lei n. 11.343/2006.
+A petição expõe a existência de constrangimento ilegal por causa da ausência de fundamentação idônea para a decretação da prisão preventiva. Alega-se que a quantidade ínfima de drogas apreendidas (1,33g de cocaína e 0,6g de maconha) não justifica a decretação da prisão preventiva, sendo possível a aplicação de medidas cautelares alternativas.
+Afirma que a reincidência, por si só, não constitui fundamentação idônea para a manutenção do paciente no cárcere.
+Assim, o pedido especifica-se na concessão de liberdade provisória ao paciente, com a imposição, ou não, das medidas cautelares previstas no art. 319 do CPP.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 146):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. PERICULUM LIBERTATIS QUE PODE SER TUTELADO PELAS CAUTELARES ALTERNATIVAS DO ART. 319 DO CPP. CONSTRANGIMENTO ILEGAL CONFIGURADO. NÃO CONHECIMENTO DO WRIT E CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, PARA REVOGAR A PRISÃO PREVENTIVA E APLICAR MEDIDAS CAUTELARES DIVERSAS.
+Em consulta eletrônica ao TJ/SP, Processo n. 1501637-32.2025.8.26.0196, verifica-se que em 15/4/2025 foi proferido despacho para oferecimento de defesa prévia.
+É o relatório. Decido.
+A Constituição da República assegura, no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva do paciente foi assim decretada (fls. 79-80):
+ ..  Entendo pertinente a conversão do flagrante em preventiva. Isso porque a hipótese se insere dentre aquelas previstas no art. 313, do C.P.P, em especial a prevista no inciso I, sendo certo, ainda, que há fortes indícios de que o acusado praticava a traficância, conforme provas colhidas nos autos. No mais, não bastasse a equiparação do crime, em tese cometido pelo autuado, a crime hediondo, encontram-se presentes os pressupostos autorizadores da custódia preventiva, previstos no art. 312, do Código de Processo Penal e vale dizer que há possibilidade de risco à garantia da ordem pública estabelecida, mormente porque, solto, poderá ele voltar a delinquir, inclusive vindo a evadir-se do distrito da culpa, questão que implica de forma incisiva em frustração da aplicação da lei penal, caso condenado. Dessa maneira, conclui-se que o autuado, pelo menos em tese, praticou delito de natureza gravíssima e inafiançável, e que vem afetando sobremaneira a manutenção da ordem pública, com resultados desastrosos à sociedade. Vale destacar os fundados indícios coletados pela equipe de investigação, bem com o fato do autuado ser reincidente específico, tudo sugerindo que vem fazendo da traficância o seu meio de vida. Pelo exposto, estando formalmente em ordem o auto de flagrante, não sendo o caso, pois, de relaxamento da prisão e nem de concessão de liberdade provisória, e presentes os pressupostos autorizadores da custódia preventiva, CONVERTO a prisão em flagrante de CAUÊ HENRIQUE JANUARIO em PRISÃO PREVENTIVA, com fundamento no art. 310, inciso II, do CPP, com nova redação dada pela Lei n. 12.403/ 2011), não sendo o caso de concessão de prisão domiciliar ou das outras medidas cautelares, previstas nos Capítulos IV e V, dos dispositivos legais mencionados. ..
+Como se observa do trecho acima transcrito, a prisão preventiva foi decretada para aplicação da lei penal, ante o risco de fuga do réu, ora paciente, bem como da sua reincidência.
+Vê-se que a gravidade em concreto da conduta corresponde àquela que é inerente ao tipo penal e à própria prática delituosa, em situação que se exige maior descrição para caracterização da periculosidade.
+Mesmo que a prisão preventiva possa se fundamentar na existência de antecedentes prejudiciais, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública, no caso em si, entende-se que a reincidência, por si só, seja insuficiente para sustentar o decreto prisional, mormente porque os fatos em apreço ocorreram sem o emprego de violência ou grave ameaça contra pessoa e da não relevante quantidade de entorpecentes apreendidos , qual seja, 1,33g de cocaína e 0,6g de maconha (fl. 42).
+Assim, como bem externado pelo MPF em seu parecer, "as circunstâncias que compõem o quadro retratado nos autos não satisfazem a instrumentalidade da prisão preventiva, que se afigura desproporcional, verificando-se a ocorrência de constrangimento ilegal, devendo ser concedida a liberdade provisória e aplicadas medidas cautelares diversas da prisão" (fl. 150). Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. QUANTIDADE REDUZIDA DE DROGAS. RÉU REINCIDENTE. MEDIDAS CAUTELARES ALTERNATIVAS. SUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Trata-se de agravo regimental interposto pelo Ministério Público do Estado do Rio Grande do Sul contra decisão desta relatoria que deu provimento ao recurso em habeas corpus, revogando a prisão preventiva do recorrente, mediante a imposição de medidas cautelares previstas no art. 319 do CPP.
+2. Em que pese as instâncias ordinárias terem mencionado o risco de reiteração delitiva, tendo em vista que o réu é reincidente em crime doloso e possui antecedentes policiais, a quantidade de drogas apreendidas na ocasião do flagrante - 17 porções, pesando 78 g de maconha - não pode ser considerada relevante a ponto de justificar a restrição total da sua liberdade, sobretudo considerando que não há indícios de que ele integre organização criminosa.
+3. Assim, " s e a quantidade de droga apreendida é reduzida e estão ausentes outros elementos que autorizem conclusão acerca do envolvimento profundo ou relevante do agente com o tráfico de drogas, não se justifica a prisão preventiva para resguardar a ordem pública" (HC n. 112.766/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 6/11/2012, DJe 7/12/2012).
+4. Além disso, cumpre lembrar que " ..  a reincidência, por si só, não é fundamento válido para justificar a segregação cautelar" (PExt no HC 270.158/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 3/2/2015, DJe 23/2/2015).
+5. Agravo regimental desprovido.
+(AgRg no RHC 206480/RS, Relator Ministro Reynaldo Soares Da Fonseca, Quinta Turma, julgado em 12/02/2025, DJEN 18/02/2025.)
+DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. 2,8G DE "CRACK". PRISÃO PREVENTIVA. REINCIDÊNCIA NÃO É SUFICIENTE. ORDEM CONCEDIDA.
+I. Caso em exame
+1. Habeas corpus impetrado visando à revogação da prisão preventiva de acusado preso desde 17/07/2023, por suposta apreensão de 2,80 g de "Crack". A defesa alega ausência dos requisitos para manutenção da custódia preventiva.
+II. Questão em discussão
+2. A questão em discussão consiste na legalidade e proporcionalidade da manutenção da prisão preventiva do paciente, considerando a ausência de gravidade concreta do fato e a reincidência.
+III. Razões de decidir
+3. A prisão preventiva deve ser medida excepcional, aplicável somente quando não for cabível a substituição por medidas cautelares alternativas.
+4. A reincidência, por si só, não justifica a segregação cautelar, sendo necessária a demonstração de periculosidade concreta.
+5. A manutenção da prisão preventiva, sem a indicação de gravidade concreta do fato, revela-se desproporcional.
+IV. ORDEM CONCEDIDA.
+(HC 930317/MG, Relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 15/10/2024, DJe 12/11/2024.)
+Diante do exposto, não conheço do habeas corpus e concedo a ordem de ofício para revogar a prisão preventiva de CAUE HENRIQUE JANUARIO, com a aplicação de medidas cautelares alternativas previstas no art. 319 do CPP, a serem estabelecidas pelo Juízo de origem (Processo n. 1501637-32.2025.8.26.0196 - 3ª Vara Criminal de Franca/SP).
+Comunique-se, com urgência, o teor desta decisão ao TJ/SP e ao Juízo de primeiro grau.
+Após, ciência ao Ministério Público Federal.
+Publique-se.
+Intimem-se.
+EMENTA
