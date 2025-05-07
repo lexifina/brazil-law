@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  com  fundamento  no  art.  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  em  face  de  acórdão  assim  ementado  (fls. 215/216 ):
+APELAÇÃO. CONTRATOS BANCÁRIOS. DECLARATÓRIA INEXISTÊNCIA DE DÉBITO. REPETIÇÃO DO INDÉBITO. INDENIZAÇÃO POR DANO MORAL. TUTELA DE URGÊNCIA. EMPRÉSTIMO CONSIGNADO. INCIDÊNCIA SOBRE BENEFÍCIO PREVIDENCIÁRIO. FRAUDE. RELAÇÃO DE CONSUMO. Sentença de procedência para declarar a inexistência do débito, com a condenação da parte ré a devolução simples dos valores subtraídos e dos valores descontados mensalmente, bem como ao dano moral, fixado em 10 salários mínimos. Insurgência recursal de ambas as partes. Apelo da instituição bancária pretendendo a inversão do julgado, alegando culpa exclusiva do autor e de terceiro. Recurso do autor pretendendo a revisão da incidência dos juros moratórios para sua fixação a partir do evento danoso, com amparo na Súmula 54 do C. STJ.
+1. CULPA CONCORRENTE. Autor que, com sua conduta, permitiu aos falsários o acesso a sua conta digital, possibilitando a realização dos empréstimos consignados questionados. Instituição bancária que não verificou os indícios de fraude: contratações realizadas no mesmo dia, em curto espaço de tempo (13h00min:23seg e 13h02min15seg), em valores diferentes, com taxas diversas, o que foge ao perfil de consumo do autor, além de que os golpistas tinham dados pessoais do autor. Autor lavrou boletim de ocorrência no dia seguinte. Declaração de inexistência da relação jurídica, com determinação de cessação dos descontos indevidos em sede de tutela de urgência.
+2. REPETIÇÃO DO INDÉBITO. Restituição de forma simples, como constou da sentença.
+3. DANO MORAL. Caracterização. Verba devida.
+Incidência de descontos sobre benefício previdenciário, de caráter alimentar. Fixação em primeiro grau em 10 salários mínimos. Redução, porém, para R$ 5.000,00, em razão do reconhecimento da culpa concorrente (art. 945 do Código Civil).
+4. JUROS DE MORA E CORREÇÃO MONETÁRIA.
+Incidência de correção monetária do desembolso, e de juros de mora, nos danos materiais, a partir do primeiro desconto (Súmula 54 do C. STJ). Termo inicial da correção monetária na reparação pelo dano moral a partir do arbitramento (Súmula 362 do C. STJ), com incidência dos juros de mora a partir do evento danoso.
+RECURSO DA INSTITUIÇÃO BANCÁRIA PROVIDO EM PARTE. RECURSO DO AUTOR PROVIDO EM PARTE.
+Opostos os embargos de declaração, foram rejeitados.
+Nas  razões  do  recurso  especial,  a  parte  recorrente  aponta  violação  ao  art.  14 do Código de Defesa do Consumidor;  bem  como  divergência  jurisprudencial.
+Afirma que deve ser restabelecido o valor arbitrado na sentença a título de dano moral em razão da falha na prestação de serviços pela instituição financeira.
+Afirma que "os estabelecimentos bancários têm o dever de prestar serviço seguro aos clientes, sendo a vulnerabilidade do sistema risco da própria atividade que exerce e da qual auferem lucro, não podendo o prejuízo ser repassado ao consumidor. Desta forma, havendo fraude praticada por terceiro, cuja irreversibilidade foi proporcionada pelo sistema do banco-recorrido, de rigor a reparação dos danos sofridos por seu cliente, pois configurada a falha na prestação dos serviços" (e-STJ, fl. 270).
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Sobre os danos morais, a Corte local assim se manifestou (e-STJ, fls. 225/227):
+5. Dano moral
+O dano moral restou caracterizado, pois que os fatos noticiados não podem ser considerados mero aborrecimento, devido a gravidade da ofensa, e a repercussão no âmbito psicológico e emocional do autor, que a reparação surge como forma de minimizar as consequências do ato danoso, pela falha na prestação dos serviços da instituição bancária, mormente em seu sistema operacional de segurança e vigilância, eis que não observou que as transações eram suspeitas e que fugiam a habitualidade de consumo, porque contratadas de forma seguida, no mesmo dia, e em pouco espaço de tempo.
+6. Dano moral - quantificação
+Na fixação do dano moral urge observar sempre o dimensionamento dos prejuízos suportados, o abalo de crédito sofrido e sua repercussão social, a capacidade econômica das partes, a conduta do agente e o grau de culpa com que agiu, além do comportamento da vítima.
+Também, deve ser considerado no arbitramento do quantum reparatório, o critério sancionador da conduta do agente e compensatório ao sofrimento da vítima, informados também pelos princípios da razoabilidade e da proporcionalidade com o fim de evitar o enriquecimento indevido por parte do requerente , bem como de aplicação excessiva da sanção ao agente.
+Nos dizeres de MARIA HELENA DINIZ, citada por CARLOS ROBERTO GONÇALVES:
+(..)
+De acordo com o caput do art. 944 do Código Civil, "A indenização mede-se pela extensão do dano".
+Assim, deve o juiz agir com prudência, atendendo, em cada caso, às suas peculiaridades e à repercussão econômica da indenização, de modo que o valor da mesma não deve ser nem tão grande que se converta em fonte de enriquecimento, nem tão pequeno que se torne inexpressivo.
+Na hipótese presente, o dano moral foi fixado em 10 salários mínimos, porém, há de se ajustar o valor da reparação a título de dano moral, considerando a culpa concorrente do autor, na forma do art. 945 do Código Civil, considerando que, com sua atuação permitiu o acesso dos falsários aos dados de sua conta bancária, facilitando a fraude e contribuindo para o seu prejuízo.
+Desse modo, deve o dano moral ser reduzido para R$ 5.000,00, por ser mais justo e adequado à situação fática espelhada nos autos.
+Quanto ao valor indenizatório arbitrado, o entendimento pacificado no Superior Tribunal de Justiça é no sentido de que o montante estabelecido pelas instâncias ordinárias a título de indenização por danos morais pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+Com efeito, a quantia fixada pelas instâncias ordinárias não foi arbitrada de forma imoderada ou desproporcional, de modo que alterar o entendimento do acórdão recorrido, a fim de majorar a condenação no caso concreto, demandaria o reexame de aspectos fático-probatórios dos autos, procedimento vedado, em recurso especial, nos termos da Súmula 7/STJ e da jurisprudência desta Corte Superior. Nesse sentido:
+RESPONSABILIDADE CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DIVULGAÇÃO DE INFORMAÇÃO INVERÍDICA CONSIDERADA LESIVA À HONRA E À IMAGEM DO AUTOR. ADVERSÁRIO POLÍTICO. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. MÉTODO BIFÁSICO. VALOR FIXADO EM PATAMAR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+1. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante.
+2. No caso, o montante originalmente fixado foi reduzido, nesta instância, para patamar mais adequado e proporcional aos danos morais sofridos pelo ofendido, ao qual fora imputada, por adversário político, com objetivo desabonador, durante campanha eleitoral na qual ambos competiam por cargo eletivo, condenação judicial inexistente, com divulgação em redes sociais e em emissoras de televisão, causando danos à honra e à imagem do atingido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.345.246/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/6/2022, DJe de 29/6/2022).
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
