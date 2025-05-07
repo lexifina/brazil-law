@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por FABIO APARECIDO PRATES PEREIRA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que negou provimento ao apelo defensivo, mantendo sua condenação pelo crime de falsidade ideológica.
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 463-475).
+Contraminuta apresentada (e-STJ fls. 478-487).
+O Ministério Público Federal requereu "o não provimento do agravo em recurso especial" (e-STJ fls. 501-505).
+É o relatório.
+Decido.
+No tocante à apontada omissão contida na sentença condenatória, esta Corte entende que "não há nulidade processual quando, a despeito de supostas omissões da sentença condenatória, a parte não opõe embargos de declaração, meio idôneo a sanar vícios desta estirpe, acarretando a preclusão" (HC n. 391.987/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 22/8/2017, DJe de 31/8/2017).
+Noutro giro, assiste razão ao Ministério Público Federal quando aduz em seu parecer que "a condenação do acusado baseou-se no documento por ele elaborado, em cópias da ação de improbidade administrativa e no interrogatório judicial, no qual Fábio confirma a assinatura da declaração e sua participação no certame licitatório, conquanto alegue desconhecer a condenação administrativa (fls. 385/386). Tratando-se de prova irrepetível, os elementos de convicção produzidos na fase inquisitorial, podem ser valorados para a condenação, nos termos da parte final do art. 155 do CPP" (e-STJ fl. 503).
+De fato, "a jurisprudência desta Corte Superior firmou-se no sentido de que a prova colhida na fase inquisitorial, desde que corroborada por outros elementos probatórios, pode ser utilizada para lastrear o édito condenatório. E, mais, as prova irrepetíveis encontram-se na ressalva da parte final do art. 155 do CPP, sendo lícita sua valoração pela Corte local (AgRg no AREsp n. 1.874.234/MT, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe de 23/8/2021) (AgRg nos EDcl no AREsp n. 1.652.869/SC, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 27/6/2023, DJe de 4/7/2023.)" (AgRg no AREsp n. 2.413.849/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2023, DJe de 27/10/2023).
+Outrossim, tendo o Tribunal de origem concluído pelo dolo do acusado em cometer o crime de falsidade ideológica, rever essa conclusão demandaria nova incursão no conjunto fático-probatório constante dos autos, providência sabidamente incompatível com a via estreita do recurso especial, ante o óbice da Súmula 7 desta Corte.
+Por fim, "o regime inicial fechado encontra-se justificado, uma vez que, além da reincidência, houve a consideração de circunstâncias judiciais negativas (antecedentes e qualificadora subjacente) para a exasperação da pena-base, não havendo falar, portanto, em afronta ao enunciado n. 269/STJ" (AgRg no AREsp n. 2.870.076/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 8/4/2025, DJEN de 15/4/2025).
+Sendo assim, a pretensão de revisão do julgado esbarra nos óbices das Súmulas 7 e 83 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
