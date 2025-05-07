@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Agência Nacional de Saúde Suplementar - ANS com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 1311):
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. ANS.
+1 - Embargos com o intuito de desconstituir execução ajuizada pela ANS para cobrar multa cominada em 2 (dois) processos administrativos distintos, ambos por infração ao artigo 77 da Resolução Normativa ANS 124/06. Apenas uma das autuações está correta, material e formalmente.
+2 - No outro processo administrativo, a sentença corretamente aponta o vício da autuação: a operadora foi autuada por não ter garantido o procedimento obrigatório de "ressonância magnética de pelve", mas esse procedimento nem foi objeto da reclamação da beneficiária, a qual pretendia fazer procedimento diverso de "ressonância magnética pélvica, com delfecografia em regime hospitalar". E os demais procedimentos objeto da reclamação da beneficiária não eram de cobertura obrigatória, conforme concluiu a própria fiscalização da ANS. Assim, não restou caracterizada infração da operadora. Apelações de ambas as partes desprovidas.
+Opostos embargos declaratórios pelas duas partes, foram ambos rejeitados (fls. 1.353/1.357).
+A parte recorrente aponta violação ao art. 1.022 do CPC, porquanto "é mister que o v. acórdão se manifeste quanto ao fato de que, em momento algum a operadora de saúde discutiu o fato de que o procedimento solicitado de "ressonância magnética pélvica, com delfecografia em regime hospitalar" não é o mesmo do autuado, até porque, como já esclarecido acima, o procedimento de ressonância magnética pélvica, com delfecografia em regime hospitalar" é a mesma coisa que procedimento de "ressonância magnética de pelve", além do que não comprovou a operadora de saúde ter autorizado o referido procedimento, cabendo a ela o ônus da prova quanto à autorização" (fl. 1.387).
+A parte recorrida apresentou contrarrazões às fls. 1.401/1.409.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, cumpre dizer que a parte recorrida  Unimed-Rio  Cooperativa  de  Trabalho  Médico  do  Rio  de  Janeiro  Ltda  informou  a  realização  de  composição  amigável  entre  as  partes,  nos  seguintes  termos  (fl.  1.508):
+1.  Em  30/12/2024  foi  celebrado  entre  as  partes  Instrumento  de  Transação,  com  base  na  Lei  n.º  13.988/2019,  regulamentada  pela  Portaria  Normativa  AGU  nº  130/2024  e  pela  Portaria  PGF  n.º  333/2020  (alterada  pela  Portaria  Normativa  PGF  nº  12/2022),  no  qual  está(ão)  incluído(s)  o(s)  crédito(s)  objeto  do  presente  processo.
+2.  Deste  modo,  em  observância  a  cláusula  3.1  do  Termo  de  Transação  celebrado  entre  as  partes,  a  Unimed,  ora  Autora  no  processo  de  origem,  renuncia  ao  direito  em  que  se  funda  a  presente  demanda,  nos  termos  do  art.  3º,  inciso  V,  da  Lei  nº  13.988/2020.  (grifo  nosso)
+Pugnou,  então,  pela  extinção  do  "presente  processo  com  resolução  de  mérito,  na  forma  do  art.  487,  inciso  III,  alínea  "c",  do  Código  de  Processo  Civil"  (fl.  1.508).
+Nesse contexto, tendo em vista que os petitórios foram subscritos por advogado com poderes específicos para renunciar (fl. 1. 534) e em se tratando de direito disponível, há de ser deferido o pedido.
+ANTE O EXPOSTO, homologo o pleito de renúncia ao direito em que se funda a ação, extinguindo os embargos à execução, nos termos do art. 487, III, c, do CPC.
+Certificado o trânsito em julgado, encaminhem- se os autos ao Tribunal de origem.
+Publique-se.
+EMENTA
