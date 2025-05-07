@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS ABALEM GARCIA FLOR contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no julgamento da Apelação Criminal n. 1.0702.21.015992-8/001, assim ementado (fl. 346):
+APELAÇÃO CRIMINAL - FURTO QUALIFICADO - REDUÇÃO DAS PENAS-BASE - POSSIBILIDADE - PERSONALIDADE FAVORÁVEL - CIRCUNSTÂNCIA ATENUANTE - CONFISSÃO ESPONTÂNEA PARCIAL - NÃO ACOLHIMENTO - REDIMENSIONAMENTO DAS PENAS - RECURSO PARCIALMENTE PROVIDO. - Tendo em vista as peculiaridades do caso, necessária se faz a retificação da dosimetria e, consequentemente, a redução das penas estabelecidas. - Não havendo nos autos elementos que permitam inferir que a personalidade do apelante é desviada, deve tal vetorial ser tida como favorável. - A confissão espontânea, para ser reconhecida como circunstância atenuante da pena, deve ser feita sem ressalvas, de forma completa.
+Consta dos autos que o recorrente foi condenado à pena de 04 (quatro) anos e 01 (um) mês de reclusão, em regime inicial fechado, e pagamento de 23 (vinte e três) dias-multa, pela prática do crime previsto no art. 155, § 4º, incisos I e IV, do Código Penal.
+Nas razões do recurso especial, fundamentado no permissivo constitucional, a parte alega violação do art. 65, III, "d", do Código Penal, sustentando que a confissão parcial ou qualificada autoriza o reconhecimento da atenuante, conforme a Súmula 545 do STJ.
+Requer a reforma do acórdão para reconhecer a atenuante da confissão e compensá-la com a agravante da reincidência.
+Contrarrazões às fls. 424-428.
+O recurso especial foi admitido (fls. 431-433).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (fls. 449-452).
+É o relatório.
+DECIDO.
+Preenchidos os requisitos formais, passo ao exame do recurso especial.
+Acerca da controvérsia dos autos, o Tribunal de origem manifestou-se nos seguintes termos (fl. 350):
+Na segunda fase, não há falar em reconhecimento da atenuante genérica de pena, consistente na confissão espontânea, vez que o sentenciado, apesar de ter admitido a prática do delito, o fez com ressalvas. Sabido é que a confissão espontânea, como circunstância atenuante da pena, deve ser plena, ou seja, feita sem ressalvas. Melhor dizendo, é aquela em que se admite, incondicionalmente, a prática dos fatos, o que não é o caso dos autos. Lado outro, faz-se presente a agravante da reincidência.
+Neste ponto, válido esclarecer que tenho votado no sentido de que cada circunstância agravante e atenuante deve corresponder a uma agravação ou atenuação de 1/6 (um sexto) das penas-base, desde que respeitados os limites máximo e mínimo da sanção cominada ao crime.
+Do excerto acima transcrito, verifica-se que o acórdão originário está em dissonância ao atual entendimento firmado pela Terceira Seção desta Corte Uniformizadora, ao arrefecer - com intepretação evolutiva - a inteligência da Súmula n. 545/STJ.
+Com efeito, por se tratar de ato da parte, de forma a prescindir de eventual influência no discricionário convencimento do Estado-julgador, a circunstância atenuante da confissão espontânea, positivada no art. 65, inciso III, alínea "d", do CP, ainda que externada de forma parcial, qualificada, exclusivamente em solo policial ou, ainda, retratada em juízo, enseja impositivo abrandamento da sanção penal imposta ao sentenciado.
+Nesta perspectiva:
+Ainda que sejam eventualmente descumpridos seus requisitos de validade ou admissibilidade, qualquer tipo de confissão (judicial ou extrajudicial, retratada ou não) confere ao réu o direito à atenuante respectiva (art. 65, III, "d", do CP) em caso de condenação, mesmo que o juízo sentenciante não utilize a confissão como um dos fundamentos da sentença. Orientação adotada pela Quinta Turma no julgamento do REsp 1.972.098/SC, de minha relatoria, em 14/6/2022, e seguida nos dois colegiados desde então (AREsp n. 2.123.334/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 20/6/2024, DJe de 2/7/2024, grifamos).
+De igual sorte,
+o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver confessado a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória.
+11. Recurso especial desprovido, com a adoção da seguinte tese: "o réu fará jus à atenuante do art. 65, III, "d", do CP quando houver admitido a autoria do crime perante a autoridade, independentemente de a confissão ser utilizada pelo juiz como um dos fundamentos da sentença condenatória, e mesmo que seja ela parcial, qualificada, extrajudicial ou retratada".
+(REsp n. 1.972.098/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022, grifamos).
+Portanto, de rigor o reconhecimento da confissão do recorrente, ainda que tenha sido de forma parcial.
+No tocante à sua compensação com a agravante da reincidência, razão igualmente lhe assiste.
+Isso porque, a jurisprudência desta Casa firmou-se no sentido de que deve ser promovida a compensação entre a agravante da reincidência e a atenuante da confissão espontânea, ainda que a última tenha sido apenas parcial (AgRg no HC n. 913.639/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 18/6/2024, DJe de 21/6/2024, grifamos).
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA PARCIAL. ATENUAÇÃO OBRIGATÓRIA. TESE DE IMPOSSIBILIDADE DE COMPENSAÇÃO INTEGRAL COM A REINCIDÊNCIA. HIPÓTESE ONDE O AGRAVADO NÃO É MULTIRREINCIDENTE.
+1. Somente na hipótese de multirreincidência, há que se falar em preponderância da agravante sobre a atenuante. Sendo disposta somente uma anotação apta a configurar a reincidência, impõe-se a compensação integral com a confissão, ainda que parcial ou qualificada.
+2. A confissão do paciente, embora utilizada para lastrear a convicção do julgador acerca da procedência da acusação, não foi compensada com a reincidência, pois as instâncias ordinárias entenderam pela preponderância dessa última. Entretanto, a jurisprudência desta Corte firmou-se no sentido de que a incidência da atenuante prevista no art. 65, III, d, do Código Penal, independe se a confissão foi integral ou parcial, quando utilizada para fundamentar a condenação (HC n. 337.662/RJ, Relator Ministro FELIX FISCHER, QUINTA TURMA, DJe 01/08/2016).  ..  Ordem concedida, de ofício, para compensar a agravante da reincidência com a atenuante da confissão parcial e redimensionar as penas do paciente na terceira etapa da dosimetria. (HC n. 435.676/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1/8/2018).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.998.754/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 12/6/2023, DJe de 16/6/2023, grifamos).
+Fixadas essas premissas, passo à nova dosimetria do recorrente.
+Na primeira fase, mantenho a pena-base fixada em 03 (três) anos e 06 (seis) meses de reclusão e 20 (vinte) dias-multa.
+Na segunda fase da dosimetria, a pena intermediária não comporta alterações, diante da compensação da reconhecida reincidência com o quanto provido na presente decisão.
+Na terceira etapa, inexistentes causas gerais e especiais de aumento e de diminuição, ficam as sanções concretizadas em 03 (três) anos e 06 (seis) meses de reclusão e 20 (vinte) dias-multa.
+Quanto ao regime inicial, não há reparos a serem feitos, haja vista a jurisprudência desta Casa ser firmada no sentido de que,  a pesar de a pena aplicada ser inferior a 4 anos, a reincidência e o registro de circunstâncias judiciais desfavoráveis justificariam, em consonância com o art. 33, § 2º, "c" e § 3º do CP, a aplicação do regime inicial fechado (AgRg no REsp n. 2.074.116/SP, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 2/10/2023, DJe 5/10/2023).
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. FURTO SIMPLES. PLEITO PELO RECONHECIMENTO DO ARREPENDIMENTO POSTERIOR. AUSÊNCIA DE VOLUNTARIEDADE. IMPOSSIBILIDADE. PENA-BASE. TESES DE QUE O COMPORTAMENTO DA VÍTIMA DEVE SER CONSIDERADO FAVORÁVEL AO RÉU E COMPENSADO COM OS ANTECEDENTES E DE APLICAÇÃO DA ATENUANTE PREVISTA NO ART. 66 DO CÓDIGO PENAL. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7/STJ. REGIME INICIAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E REINCIDÊNCIA. CABIMENTO. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. NÃO PREENCHIMENTO DO REQUISITO DESCRITO NO INCISO III DO ART. 44 DO CÓDIGO PENAL. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. PARECER DO MINISTÉRIO PÚBLICO. NÃO VINCULATIVO. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+4. Nas hipóteses em que a sanção corporal é definitivamente fixada em patamar igual ou inferior a 4 anos de reclusão, é justificada a fixação do regime inicial fechado quando estão presentes circunstâncias judiciais desfavoráveis (no caso, maus antecedentes) e a reincidência.
+(..)
+8. Agravo regimental desprovido.
+(AgRg no REsp n. 2.398.933/SP, relator Ministro Teodoro Silva Santos, Sexta Turma, julgado em 26/2/2024, DJe de 5/3/2024.)
+Ante o exposto, dou provimento ao recurso especial a fim de reconhecer a incidência da circunstância atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea "d", do CP, com a consequente compensação com a agravante da reincidência, redimensionando a pena para 03 (três) anos e 06 (seis) meses de reclusão, e 20 (vinte) dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
+EMENTA
