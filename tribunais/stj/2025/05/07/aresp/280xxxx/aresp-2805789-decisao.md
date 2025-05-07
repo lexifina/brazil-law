@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ ROBERTO MALAGUETA, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 37):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO. POSSIBILIDADE. EMPRESA NÃO ENCONTRADA NO DOMICÍLIO FISCAL. SÚMULA 435 STJ. DISSOLUÇÃO IRREGULAR PRESUMIDA. INDÍCIOS. DECISÃO MANTIDA.
+1. O redirecionamento do executivo fiscal em face dos diretores, gerentes e representantes de pessoas jurídicas de direito privado, embora não permitido em caso de mero inadimplemento (Súmula 430 do STJ), é possível se presentes indícios de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos (art. 135 do CTN), ou de dissolução irregular, consoante o enunciado da Súmula 435 do STJ.
+2. Não tendo sido encontrada a empresa em seu domicílio fiscal em virtude da omissão de declarações, presume-se a dissolução irregular da pessoa jurídica, autorizando-se, portanto, o redirecionamento do feito executivo.
+3 . AGRAVO DE INSTRUMENTO CONHECIDO, MAS DESPROVIDO.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim sumariado (fl. 60):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO.
+OMISSÃO. INEXISTÊNCIA. ACÓRDÃO MANTIDO.
+1. Os embargos de declaração prestam-se a esclarecer ou sanar vícios de fundamentação apostos na decisão judicial e que nomeadamente comprometam sua clareza (obscuridade, contradição, erro material), ou que denotem deficiência sobre questão controvertida entre as partes (omissão).
+2. Não há que se falar em omissão quando o julgador aprecia a matéria com enfoque diferente do qual reputa correto o embargante tendo em vista que foram devidamente analisados os pontos que levaram à convicção dos julgadores.
+3. Embargos de declaração não são remédio para obrigar o julgador a renovar ou reforçar a fundamentação do decisório e, também, não se prestam à reanálise das provas dos autos.
+4 . EMBARGOS DE DECLARAÇÃO CONHECIDOS, MAS REJEITADOS.
+Em seu recurso especial de fls. 72-91, sustenta o recorrente violação aos artigos 1.022, inciso II, do Código de Processo Civil, e 135, inciso III, do Código Tributário Nacional, ao argumento de negativa de prestação jurisdicional pela Corte de origem, uma vez que mesmo que instado por embargos declaratórios, o Tribunal local manteve-se omisso quanto à ausência de prova indicativa de prática de ato contrário à lei ou estatuto, e, tampouco, de documento que comprove a dissolução irregular da empresa.
+Defende, ainda, seja afastada a aplicação da Súmula 435/STJ, na medida em que, não restou demonstrado nos autos a irregular dissolução da sociedade da empresa executada, "verificando-se, em verdade, a responsabilização do Recorrente naquela execução fiscal sem que tenha havido a comprovação do elemento subjetivo da conduta ilícita do Recorrente na condição de sócio, a teor do artigo 135 do CTN" (fl. 77).
+O Tribunal de origem, às fls. 190-193, não admitiu o recurso especial sob os seguintes fundamentos:
+Prima facie, vejo que o juízo de admissibilidade a ser exercido, no caso, é negativo.
+Isso porque, no tocante ao artigo 1.022, II do CPC, não houve indicação, motivada e clara, dos pontos da lide supostamente não decididos, obscuros ou contraditórios, tampouco houve demonstração da ocorrência de erro material a merecer exame, esclarecimento ou correção. Em síntese, o recorrente visa ao reexame das teses analisadas e fundamentadamente decididas no acórdão vergastado, o que evidencia a falta da necessária subsunção às normas tidas como violadas, configurando, pois, ausência de requisito formal e, assim, ensejando a inadmissibilidade do recurso, por deficiência na argumentação, nos moldes da Súmula n. 284 do Supremo Tribunal Federal, aplicável por analogia.
+Ademais, a conclusão sobre o acerto ou desacerto da decisão colegiada recorrida, no que se refere à discussão acerca do redirecionamento da execução para atingir o patrimônio de sócio e (in)ocorrência de dissolução irregular da sociedade, demandaria, por certo, sensível incursão no conjunto fático- probatório dos autos. E isso, de forma hialina, impede o trânsito do recurso especial, nos termos da Súmula 7 do Superior Tribunal de Justiça (..).
+Em seu agravo, às fls. 199-205, o agravante sustenta que a questão é exclusivamente de direito, não havendo pedido de reanálise de provas, mas sim de reconhecimento de violação aos artigos 135 do Código Tributário Nacional e 1.022, II, do Código de Processo Civil.
+Menciona a in aplicabilidade do enunciado 284 da Súmula do STF ao argumento de que o recurso foi suficientemente fundamentado, permitindo a compreensão da controvérsia e atacando os argumentos do acórdão recorrido sobre a ausência de motivos para o redirecionamento do feito executivo (fl. 204).
+No mais repisa as razões do recurso especial.
+É o relatório.
+A insurgência não pode ser conhecida.
+De início, verifica-se que não foi impugnada a íntegra da fundamentação da decisão agravada, porquanto o agravante não infirmou suficientemente nenhum dos argumentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos e autônomos: (i) - em relação ao artigo 1.022, II, do Código de Processo Civil, incidência do enunciado 284 da Súmula do STF, em razão da fundamentação recursal manifestamente deficiente; e ii) - aplicação do óbice da Súmula 7/STJ, porque seria necessária a incursão no conjunto fático e probatório dos autos.
+Todavia, no seu agravo, a parte não impugnou adequadamente os óbices apontados, os quais, à míngua de impugnação específica e pormenorizada, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar a íntegra da fundamentação do juízo de admissibilidade realizado pelo Tribunal de origem, o agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida". Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intime-se.
+EMENTA
+DIREITO ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
