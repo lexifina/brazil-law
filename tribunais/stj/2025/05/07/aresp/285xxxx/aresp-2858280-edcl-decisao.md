@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por SUL AMERICA SERVICOS DE SAUDE S/A à decisão de fls. 963/964, que não conheceu do recurso.
+Sustenta a parte embargante:
+A decisão ora impugnada foi publicada no Diário da Justiça Eletrônico em 01/11/2024, razão pela qual o prazo de 15 (quinze) dias úteis teve início em 04/11/2024. Considerando os feriados nacionais nos dias 15/11/2024 e 20/11/2024, o término do referido prazo ocorreu em 26/11/2024. Contudo, o Portal e-SAJ esteve indisponível no período compreendido entre 21/11/2024 e 26/11/2024, conforme aviso publicado:
+ ..
+Portanto, considerando a impossibilidade de realizar o protocolo no dia 26/11/2024, o mesmo foi efetuado em 27/11/2024. Assim, comprovada a falha no sistema e-SAJ que impediu o protocolo do recurso na data fatal, deve ser reconhecido o dia útil subsequente, 27/11/2024, como o termo final do prazo.
+Dessa forma, configura-se erro material na alteração da data fatal, o que, por conseguinte, induziu este julgador a equívoco, razão pela qual deve ser considerado o dia 27/11/2024 como o termo final do prazo para protocolo (fls. 969/970).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt no AREsp n. 2.440.293/MT, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 4.9.2024; AgInt no AREsp n. 2.351.299/GO, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 21.9.2023; AgInt nos EDcl no AREsp 1419338/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe de 3.10.2019).
+Quanto à questão da comprovação de feriado, nos termos do que permite a nova redação do art. 1.003, § 6º, do CPC (dada pela Lei n. 14.939/2024), cumpre registrar que em observância ao princípio do tempus regit actum, o entendimento será aplicado quando a data de intimação do decisum recorrido tenha ocorrido a partir do dia 31.7.2024 (Mutatis mutandis, Enunciado Administrativo n. 3 do STJ).
+Na hipótese, como essa intimação ocorreu na vigência da nova redação do referido artigo, a parte foi intimada, nesta Corte, para comprovar eventual suspensão, interrupção ou prorrogação do prazo para interposição do Agravo em Recurso Especial, nos termos da certidão de fl. 947.
+Contudo, não o fez, porquanto os documentos apresentados não foram suficientes para afastar a intempestividade. Veja que a parte deixou de alegar bem como de comprovar naquela oportunidade a suposta indisponibilidade do sistema eletrônico do tribunal de origem.
+Registre-se que o  processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Portanto, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da tempestividade era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
