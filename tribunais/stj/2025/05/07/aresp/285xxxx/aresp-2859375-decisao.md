@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo manejado pelo Banco do Brasil S. A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fls. 365/366):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESTITUIÇÃO DE VALORES SACADOS/DESFALCADOS DE CONTA VINCULADA AO PASEP. ILEGITIMIDADE PASSIVA DO BANCO DO BRASIL S/A. DESCABIMENTO. INSTITUIÇÃO FINANCEIRA RÉ QUE É LEGITIMADA PARA FIGURAR NO POLO PASSIVO DA AÇÃO INDENIZATÓRIA. MANUTENÇÃO DA DECISÃO AGRAVADA. SENTENÇA DESCONSTITUÍDA. RETORNO DOS AUTOS À ORIGEM. AGRAVO INTERNO CONHECIDO E IMPROVIDO.
+1. A legitimidade para a causa consiste na qualidade da parte de demandar e ser demandada, ou seja, de estar em juízo, sendo certo que a admissibilidade da causa é feita de forma abstrata, considerando a afirmação do direito material da autora.
+2. Cumpre ressaltar, que entendimento no sentido de que o Banco do Brasil S/A possui legitimidade para figurar no polo passivo da demanda originária, notadamente no que tange pedido de indenização por danos morais e danos materiais, relativamente aos valores sacados/desfalcados/debitados, porque é o banco depositário responsável pela administração dos depósitos.
+3. Em obediência ao princípio da colegialidade e à determinação de que os órgãos do Poder Judiciário sigam seus próprios precedentes, aplico, ao caso dos autos, a tese jurídica específica firmada no IRDR n.º 0010218-16.2020.8.27.2700 (IRDR 3), bem como no Tema 1150 do STJ (Resp 1895936/TO). Decisão mantida.
+4. No tocante à competência, restou firmado pelo Superior Tribunal de Justiça, quando do tema 1.150, que havendo questionamento acerca de desfalques de valores vinculados à distribuição de quotas do PASEP, o Banco do Brasil é parte legítima para figurar no polo passivo, justificando a competência da Justiça Comum Estadual.
+5. Não prospera a pretensão de manutenção da suspensão do feito até decisão definitiva do IRDR n.º 0010218-16.2020.8.27.2700, ao argumento de que pende julgamento de Recurso Especial, já que o referido recurso interposto pela casa bancária, teve negado seu seguimento, decisão transitada em julgado, ao passo que o REsp pendente de análise discute matéria alheia à controvérsia dos autos.
+6. Agravo interno conhecido e improvido.
+Nas razões do recurso especial, a parte agravante aponta violação aos seguintes dispositivos legais:
+(I) 330, II, e 485, VI, do CPC; e 109, I, da CF; sustentando que "o Banco do Brasil S. A. atua como mero operador do Programa de Formação do Patrimônio do Servidor Público (PASEP), não figurando como legitimado passivo das ações que versem sobre tal programa" (fl. 381); acrescenta que, "Tendo em vista a ilegitimidade passiva do Banco do Brasil e sendo a União Federal o ente responsável para figurar no polo passivo de ações que questionam as movimentações, evolução e atualizações financeiras nas contas individuais do PASEP, é importante e necessário reconhecer a incompetência absoluta da Justiça Comum Estadual para apreciar a matéria envolvida nos presentes autos" (fl. 389/390);
+(II) 28 da Lei n. 7.998/90, pois, "Quanto ao pedido de restituição de valores" (fl. 399), o Banco do Brasil apenas cumpriu o que determina o referido dispositivo legal.
+Aduz que "O Banco do Brasil não está obrigado a ressarcir ou a sequer prestar contas pelo simples fato de ser incumbido de repassar OS VALORES APONTADOS PELO GESTOR aos beneficiários, o que inclusive foi integralmente realizado, não havendo qualquer indício mínimo do alegado desfalque" (fls. 400/401).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, faz-se importante destacar que o juízo de admissibilidade negou seguimento ao recurso especial, quanto à matéria abrangida pelo Tema Repetitivo 1.150/STJ, tendo sido negado provimento ao agravo interno interposto em face dessa decisão (fls. 512/513).
+Passo a examinar, assim, a questão remanescente.
+Importa dizer que, em virtude do que assentado acima, resta prejudicada a questão relativa à incompetência absoluta da justiça estadual. Ademais, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 109, I, da Constituição Federal.
+O julgado a quo restou assim fundamentado (fls. 358/360):
+Importante consignar que tal entendimento se coaduna totalmente com o decidido pelos membros do Superior Tribunal de Justiça no julgamento do Resp nº 1895936/TO (Tema 1150), submetido ao rito dos recursos repetitivos, em que a tese firmada foi a seguinte:
+ ..
+No que diz respeito à competência, é cediço que, de acordo com a previsão do art. 109, I, da Constituição Federal de 1988, compete à Justiça Federal processar e julgar as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho.
+ ..
+Ademais, não me parece haver interesse da União. Isso porque, o autor pretende o recebimento de indenização por supostos desfalques na sua conta individual do PASEP.
+Diante do exposto, não enxergo o interesse do Conselho Gestor do Fundo e, consequentemente da União, que justifique a intervenção do ente no processo, nem atraia a competência da Justiça Federal. Assim sendo, penso que a competência para julgamento do feito é da justiça comum estadual.
+ ..
+Ante o exposto, conheço do recurso e voto por NEGAR PROVIMENTO para manter a decisão que reconheceu a legitimidade passiva do Banco do Brasil, cassou a sentença e determinou o retorno dos autos à origem para regular processamento.
+Dessa forma, é certo que a matéria pertinente ao art. 28 da Lei n. 7.998/90 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
