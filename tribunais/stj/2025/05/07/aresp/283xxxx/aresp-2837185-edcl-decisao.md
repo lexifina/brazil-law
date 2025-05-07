@@ -1,0 +1,25 @@
+DECISÃO
+Em virtude das razões apresentadas nos embargos de declarações interpostos por ambas as partes (fls. 404/409 e 410/413, e- STJ), reconsidero a decisão de fls. 401 (e-STJ) e passo a novo exame do agravo interposto PREVENT SENIOR PRIVATE OPERADORA DE SAUDE LTDA (fls. 356/380, e-STJ), contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, ajuizada por JOSE ARRABAL FERNANDEZ, sucedido pelos herdeiros ELISABETE FERNANDEZ, ERIKA FERNANDEZ, RODRIGO FERNANDEZ, em face de PREVENT SENIOR PRIVATE OPERADORA DE SAUDE LTDA, na qual requer autorização para internação do beneficiário, a qual foi negada por estar em período de carência.
+Sentença: julgou procedente o pedido, para condenar a agravante a compensar o dano moral sofrido, fixando seu valor em R$ 10.000,00 (dez mil reais).
+Acórdão: negaram provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+PLANO DE SAÚDE PRAZO DE CARÊNCIA Recusa de atendimento Insuficiência renal aguda, com necessidade de internação Situação de urgência e/ou emergência Incidência do art. 12, V, c, da Lei 9656/98 Danos morais configurados Valor adequado ante as especificidades do caso concreto Recurso não provido. (e-STJ, fls. 255)
+Recurso especial: alega violação dos arts. 186 e 927 do CC, bem como dissídio jurisprudencial. Aduz a impossibilidade de configuração de dano moral "in re ipsa" nos casos de recusa de cobertura. Afirma que na hipótese estava vigente o prazo de carência contratual e que conforme analisado pela auditoria não se tratava de urgência ou emergência, razão pela qual não cometeu ato ilícito.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do dano moral - manutenção
+As duas Turmas de Direito Privado do STJ entendem que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, quando agravar a situação de aflição psicológica e de angústia no espírito do beneficiário, o que, conforme destacado pelo acórdão recorrido, ocorreu na hipótese. Precedentes: AgInt no AREsp n. 2.696.633/PE, Terceira Turma, DJe de 5/11/2024; AgInt no AREsp n. 2.664.633/CE, Quarta Turma, DJe de 4/11/2024.
+Na hipótese, ficou consignado no acórdão houve grande sofrimento psíquico do beneficiário, conforme se extrai:
+Embora tenha ocorrido a internação, de modo particular (fls. 64), certo é que toda a situação ensejou apreensão e desconforto exagerados no paciente, que, além de buscar sua recuperação naquele momento de dificuldade, também tinha que lidar com a negativa do plano e suas consequências incertas.
+Frise-se que a gravidade de sua condição de saúde era tamanha que veio a falecer pouco tempo depois (fls. 202).
+Ainda que não se possa imputar tal resultado especificamente a este fato, certo é que ocorrente grande sofrimento psíquico com toda a situação, que não pode ser considerado mero dissabor ou cumprimento, equivocado diga-se, de cláusula contratual.
+Ademais, frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao referido óbice da Súmula 7 do STJ.
+Dessa forma, diante da consonância do acórdão recorrido com o entendimento dominante sobre os temas nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, RECONSIDERO a decisão de fls. 401, tornando-a sem efeito, e CONHEÇO do agravo e, com fundamento no art. 932, IV, "a", do CPC, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 13% sobre o valor da condenação (e-STJ fls. 257) para 15% (quinze por cento).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE COBERTURA. RECUSA ABUSIVA. DANO MORAL CONFIGURADO.
+1. Ação de obrigação de fazer cumulada com compensação por danos morais.
+2. A recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, quando agravar a situação de aflição psicológica e de angústia no espírito do beneficiário, o que, conforme destacado pelo acórdão recorrido, ocorreu na hipótese.
+3. Decisão embargada reconsiderada. Agravo conhecido. Recurso especial conhecido e não provido.
