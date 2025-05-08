@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JEDERSON JERÔNIMO COELHO contra a decisão que inadmitiu o recurso especial com fundamento na competência exclusiva do Supremo Tribunal Federal para analisar matéria constitucional e na incidência das Súmulas n. 211, 5 e 7 do STJ e 282 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial foi interposto com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina em agravo interno em apelação nos autos de ação declaratória de inexistência de débito c/c indenização por danos morais.
+O julgado foi assim ementado (fl. 259):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. ART. 1021 DO CPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. DECISÃO MONOCRÁTICA QUE DESPROVEU O RECURSO. INSURGÊNCIA DA PARTE AUTORA. CONTRATO DE LOCAÇÃO RESIDENCIAL FIRMADO POR INTERMÉDIO DA IMOBILIÁRIA DEMANDADA. RESCISÃO CONTRATUAL. PRETENSA DECLARAÇÃO DE INEXISTÊNCIA DO DÉBITO RELATIVO À TAXA DE LIMPEZA E PINTURA DO IMÓVEL. INSUBSISTÊNCIA. CLÁUSULA CONTRATUAL QUE ESTABELECE A RESPONSABILIDADE DO LOCATÁRIO PELA ANTECIPAÇÃO, DE FORMA PARCELADA, DOS VALORES NECESSÁRIOS PARA A REALIZAÇÃO DE PINTURA E LIMPEZA DO IMÓVEL, INDEPENDENTEMENTE DAS CONDIÇÕES EM QUE O BEM OBJETO DA LOCAÇÃO FOR ENTREGUE AO TÉRMINO DA RELAÇÃO CONTRATUAL. INEXISTÊNCIA DE QUALQUER CONDICIONANTE PARA SUBSISTIR O DEVER DE PAGAMENTO DO ALUDIDO ENCARGO. OBRIGAÇÃO ASSUMIDA PELO LOCATÁRIO QUANDO DA REALIZAÇÃO DO CONTRATO, O QUAL, UMA VEZ CELEBRADO, DEVE SER CUMPRIDO NOS EXATOS TERMOS DEFINIDOS PELO EXERCÍCIO DA LIVRE VONTADE DOS CONTRATANTES. ANÁLISE QUANTO À LITIGÂNCIA DE MÁ-FÉ E AO PEDIDO DE INDENIZAÇÃO POR DANOS EXTRAPATRIMONIAIS PREJUDICADA, PORQUANTO AUSENTE ATO ABUSIVO OU ILÍCITO. IRRESIGNAÇÃO APRESENTADA QUE NÃO TEM O CONDÃO DE DESCONSTITUIR O ENTENDIMENTO ADOTADO NO DECISUM. DECISÃO MONOCRÁTICA MANTIDA. PENALIDADE DO ART. 1.021, § 4º, DO CPC. INAPLICABILIDADE. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 280-285).
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022, I e II, do CPC, alegando que houve omissão na análise dos documentos apresentados que comprovam a inexistência de débito e contradição com relação ao conteúdo do contrato;
+b) 884, 408 e seguintes do CC e 373, II, do CPC, aduzindo ser indevida a cobrança de valores a título de pintura e limpeza, já que a recorrida não comprovou a necessidade dos serviços de pintura e limpeza, o que enseja enriquecimento ilícito; salienta que arcou com cláusula penal de multa por rescisão antecipada, de modo que não pode haver dupla penalização, situação que caracteriza bis in idem.
+Sustenta que o Tribunal de origem divergiu do entendimento do Tribunal de Justiça do Estado de Minas Gerais no que concerne à inexistência de débitos e restituição dos valores pagos a título de limpeza e pintura e ao ônus do locador de comprovar essas despesas.
+Requer o provimento do recurso para que se declare a nulidade do acórdão ante a omissão e contradição presentes ou, subsidiariamente, para que se sua reforme o julgado, reconhecendo-se a inexistência do débito e condenando-se a recorrida ao pagamento de indenização por danos morais.
+Não foram apresentadas contrarrazões.
+É o relatório. Decido.
+I - Art. 1.022, I e II, do CPC
+A alegação de violação de normas legais sem a efetiva demonstração da contrariedade de lei federal impede o conhecimento do recurso especial por deficiência de fundamentação.
+No caso, o recorrente, apesar de apontar a existência de omissão e contradição no julgado, não se desincumbiu de demonstrar, da maneira clara e compreensível, a alegada contradição nem indicou qual argumento, capaz de infirmar o resultado do julgamento, teria sido ignorado pelo TJSC.
+Vale registrar que o resultado do julgamento contrário aos interesses da parte, por si só, não traduz negativa de prestação jurisdicional e que a contradição que caracteriza vício no julgado deve ser interna.
+Impõe-se, portanto, a aplicação, por analogia, da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência de sua fundamentação não permitir a exata compreensão da controvérsia".
+II - Art. 884, 408 e seguintes do CC e 373, II, do CPC
+A Corte de origem, soberana na interpretação de cláusulas contratuais e na análise dos fatos e provas dos autos, concluiu que os valores cobrados foram estipulados contratualmente, que a responsabilidade do locatário pelas despesas integrais é clara e não depende das condições de entrega do imóvel e que não há abusividade na disposição pactuada.
+Rever o que foi decidido pelo Tribunal de origem demandaria a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, medidas vedadas em recurso especial, em face dos óbices das Súmulas n. 5 e 7 do STJ.
+III - Divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ademais, a incidência de óbice sumulares quanto à interposição pela alínea a do permissiv o constitucional impede o conhecimento do recurso especial pela divergência jurisprudencial sobre a mesma questão.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em favor da parte ora recorrida, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
+EMENTA
