@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo interposto por MUNICÍPIO DE PARANAVAÍ contra decisão que inadmitiu recurso especial (e-STJ, fls. 380-382) proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 269):
+AGRAVO INTERNO CÍVEL. DECISÃO MONOCRÁTICA QUE JULGA APELAÇÃO CÍVEL COM BASE NA SÚMULA 303 DO SUPERIOR TRIBUNAL DE JUSTIÇA E ART. 932, V, A DO CÓDIGO DE PROCESSO CIVIL. TESE DE QUE O RECURSO DE APELAÇÃO NÃO PODERIA SER CONHECIDO POIS DESERTO. DESERÇÃO AMPARADA NO DISPOSTO NO ART. 99, §5º DO CÓDIGO DE PROCESSO CIVIL. GRATUIDADE DE JUSTIÇA DEFERIDA À PARTE QUE NÃO APROVEITA AO SEU PATRONO. TESE AFASTADA. APELAÇÃO QUE ABORDA A DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS E NÃO O VALOR DE HONORÁRIOS SUCUMBENCIAIS. TESE AFASTADA. PRETENSÃO DE APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, §4º DO CÓDIGO DE PROCESSO CIVIL. RECURSO QUE NÃO SE DEMONSTRA MANIFESTAMENTE INADMISSÍVEL. AFASTAMENTO DA INCIDÊNCIA DE MULTA. PREQUESTIONAMENTO REGISTRADO. RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 296):
+EMBARGOS DE DECLARAÇÃO CÍVEL. TESE DE OMISSÃO NO ACÓRDÃO QUE RESOLVEU O AGRAVO INTERNO NA APELAÇÃO CÍVEL JULDADA MONOCRATICAMENTE. TESE DE OMISSÃO A RESPEITO DA DISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. OMISSÃO VERIFICADA. FUNDAMENTAÇÃO E EMENTA DO ACÓRDÃO COMPLEMENTADAS CONFORME TRECHOS DESTACADOS. OMISSÃO SANADA. AUSÊNCIA DE ALTERAÇÃO DO MÉRITO DO JULGADO. EMBARGOS DE DECLARAÇÃO CÍVEL CONHECIDOS E ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+Nas razões do recurso especial, o recorrente alegou, com base na alínea c do permissivo constitucional, divergência jurisprudencial pautada na violação ao art. 85, § 3º, I, do CPC/2015.
+Sustentou não ser responsável pelo ônus sucumbencial.
+Destacou que quem deu causa à constrição foi a recorrida "ao deixar de realizar o registro de transferência da propriedade do imóvel, ou averbar na matrícula imobiliária qualquer causa impeditiva para tanto" (e-STJ, fl. 308).
+Frisou que é dever do adquirente do imóvel realizar o registro de transferência da propriedade em cartório.
+Asseverou que "a indisponibilidade do imóvel ocorreu porque a adquirente/Recorrida não realizou o registro da transferência do imóvel no cartório de registro de imóvel, bem como também não providenciou, sequer, a averbação de eventual impeditivo para a transferência" (e-STJ, fl. 315).
+Salientou que "o Município não concorreu em nada para que não fosse realizado o registro da transferência do imóvel no cartório de registro de imóvel" (e-STJ, fl. 315).
+Apreciada a admissibilidade do recurso especial, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 380-382).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 385-391).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativo a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito do ônus sucumbencial, o Tribunal de origem assim se manifestou (e-STJ, fls. 298-300):
+O recorrente sustenta que há omissão no acórdão do agravo interno a respeito da distribuição dos ônus sucumbenciais.
+O recurso de apelação tratou da distribuição dos ônus sucumbenciais, o que engloba custas e honorários, como se depreende da decisão monocrática recorrida (fls. 2, mov. 22 - apelação):
+"Leila Regina Ferreira da Costa recorreu afirmando que não deu causa aos embargos de terceiro, uma vez que promoveu todas as diligências necessárias para obter a transferência do imóvel para seu próprio nome, o que foi retardado por motivos alheios à sua vontade. Destarte, as custas e honorários devem ser arcados pelo adverso, "sendo esse o ponto da sentença que merece reforma (mov. 48 - 1º grau).
+A fundamentação expendida a fim de resolver a apelação cível analisa o princípio da causalidade a fim de determinar quem deve arcar com todos os ônus sucumbenciais, distanciando-se da análise de valores relativos aos honorários de sucumbência:
+"Resta evidente que a autora não foi responsável pela manutenção de hipoteca que não mais subsistia, sendo essa desfeita somente mediante ação judicial, na qual obteve êxito. Tanto assim que o Juízo da 1ª Vara Federal de Maringá decidiu a respeito dos ônus sucumbenciais (mov. 1.9 - 1º grau):
+(..)
+Imperioso registrar que há sucumbência recíproca naquela lide, pois o magistrado extinguiu a lide face a outros réus, considerando-lhes parte ilegítima. No entanto, a respeito da empresa responsável pela hipoteca, a autora foi vitoriosa em sua pretensão.
+O Superior Tribunal de Justiça mantém entendimento sumulado a respeito do tema do dever de arcar com as custas nos casos de embargos de terceiro:
+(..)"
+Quando do agravo interno, o embargante sustentou a impossibilidade de conhecimento da apelação por falta de preparo e reiterou a necessidade de que o adverso arque com ônus sucumbenciais. O acórdão, de fato, analisa o primeiro tópico e é omisso quanto ao segundo.
+Assim, o acórdão do agravo interno (mov. 24) deve ser complementado com o trecho em destaque:
+"(..)
+Destarte, tanto do cotejo da decisão da apelação cível com as razões do ora agravante quanto com base no entendimento pacificado pelo Superior Tribunal de Justiça, o presente recurso deve ser conhecido passando-se a analisar a tese de necessidade de reforma da decisão monocrática a respeito da distribuição dos ônus sucumbenciais.
+Está assentado no julgamento da apelação cível que a apelante não poderia ter realizado a transferência do bem para seu nome, pois persistia o registro de uma hipoteca, à qual não deu causa, na matrícula do imóvel. Essa causa de restrição de transferência de propriedade persistiu até o manejo de ação judicial pela apelante, reiterando o fato de que não deu causa ao fato (fls. 3, mov. 22 - apelação): "Cronologicamente, o contrato assinado entre a apelante e a construtora executada foi assinado em 02/01/2014; a lide face à executada se iniciou em 20/04/2022; a decisão de decretação de indisponibilidade foi emitida em 27/04/2022; a sentença de desconstituição da hipoteca foi prolatada em 18/05/2023.
+Inobstante a decisão de desconstituição da hipoteca ter sido emitida apenas em 2023, portanto, quando já tramitava ação contra a executada, a ora apelante a ajuizou ante a justiça federal, em 22/08/2018, como comprova extrato obtido junto ao site do Tribunal Regional Federal da 4ª Região:
+(..)
+Fica demonstrado, portanto, que a apelante agiu de forma a desembaraçar o imóvel anos antes da decretação de penhora, atuando com diligência e obtendo a sentença de procedência depois da decretação da penhora apenas pela demora habitual na tramitação processual, isto é, sem que tenha concorrido para o fato."
+Assim, caberia ao agravante, como afirmado, diligenciar a respeito das constrições constantes na matrícula do bem, o que é viável com a obtenção de certidões a respeito da tramitação processual dos bloqueios ali constantes. A real situação do bem poderia, ainda, ser aferida diligenciando junto à devedora real sobre a alienação de seus bens antes da cobrança pretendida, que gerou o embaraço em imóvel alheio.
+Considerando esse fatos, a aplicação da Súmula 303/STJ está adequada, devendo o agravante arcar com os ônus sucumbenciais.
+ ..
+Considerando o exposto, imperioso conhecer e acolher os embargos de declaração cível a fim de sanar a omissão relativa ao princípio da causalidade e da aplicação da Súmula 303 do Superior Tribunal de Justiça, restando a fundamentação e a ementa do agravo interno complementadas nos termos acima destacados, sem afetação do resultado do acórdão embargado.
+Da citada passagem, depreende-se que o Tribunal estadual, seguindo o disposto na Súmula 303/STJ, atestou que o município agravante foi o responsável pela penhora indevida, devendo, desse modo, suportar o ônus sucumbencial.
+De fato, nos termos da jurisprudência consolidada no Superior Tribunal de Justiça por meio da edição da Súmula 303/STJ, em embargos de terceiros, a parte que deu causa à constrição ilegal é quem deve responder pela sucumbência.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. PROCEDÊNCIA DO PEDIDO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. TESE FIXADA EM RECURSO REPETITIVO. RESP 1.452.840/SP. TEMA 872/STJ. PROVIMENTO NEGADO.
+1. O Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial 1.452.840/SP, submetido ao rito dos recursos repetitivos (Tema 872), firmou o entendimento segundo o qual, "nos Embargos de Terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro". O tema também é tratado na Súmula 303 deste Tribunal, que dispõe: "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+2. Na hipótese dos autos, não são devidos honorários sucumbenciais pela Fazenda Pública pela procedência de embargos de terceiro, porque, de acordo com o acórdão recorrido, ela concordou com a pretensão do autor na primeira oportunidade em que foi intimada para se pronunciar sobre os documentos que efetivamente comprovaram a transação imobiliária, tendo ocorrido a mora devido a impedimentos causados pelos antigos proprietários do bem.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.851.264/RN, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 17/2/2025, DJEN de 21/2/2025.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. EMBARGOS DE TERCEIRO. BEM DE FAMÍLIA. SÚMULA Nº 303 DO STJ. PRINCÍPIO DA CAUSALIDADE.
+1. Trata-se de Embargos de Declaração em que se postula a inversão do ônus sucumbencial e a majoração nos termos do artigo 85, §11º do CPC.
+2. Dispõe a Súmula 303/STJ: "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+Deve ser invertido o ônus sucumbencial.
+3. O Recurso Especial foi provido para entender possível a interposição de Embargos de terceiro e afastar a indisponibilidade decretada do imóvel caracterizado como bem de família.
+4. Logo, uma vez reconhecida a impossibilidade do imóvel caracterizado como bem de família compor a cautelar de indisponibilidade dos bens dos réus, deve ser invertido o ônus sucumbencial.
+5. Assim, a embargada deve arcar com o ônus sucumbencial.
+6. Embargos de Declaração acolhidos.
+(EDcl no AgInt no AREsp n. 2.360.631/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/8/2024, DJe de 20/8/2024.)
+No caso em exame, dos fundamentos do a resto recorrido, constata-se que o Tribunal local atestou que o insurgente foi quem não agiu com a diligência necessária para fins de impedir a penhora do imóvel.
+À vista disso, reverter a conclusão da instância originária demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS DE TERCEIROS. ÔNUS SUCUMBENCIAL. PRINCÍPIO DA CAUSALIDADE. RESPONSABILIDADE ATRIBUÍDA A QUEM DEU CAUSA À CONSTRIÇÃO INDEVIDA. SÚMULA 303/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
