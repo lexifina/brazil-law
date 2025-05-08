@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE, com fundamento na alínea a do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO NORTE, assim ementado (e-STJ, fls. 289-290):
+"PENAL E PROCESSUAL PENAL. SENTENÇA DE DESCLASSIFICAÇÃO DO DELITO DE ROUBO MAJORADO (ART. 157, § 2oI E II, DO CP, COM REDAÇÃO ANTERIOR À LEI N. 13.654/2018) PARA O CRIME DE RECEPTAÇÃO DOLOSA (ART. 180, CAPUT, DO CP). RECURSO MINISTERIAL. PRETENSA CONDENAÇÃO PELO CRIME DE ROUBO MAJORADO, COM A CONSEQUENTE APLICAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL E INCIDÊNCIA DA AGRAVANTE PREVISTA NO ART. 61, I, DO CP. IMPOSSIBILIDADE. PROVAS INSUFICIENTES PARA ATRIBUIR A AUTORIA DELITIVA AO RÉU. DECLARAÇÕES DAS VÍTIMAS EM JUÍZO QUE NÃO RATIFICARAM, COM A NECESSÁRIA CERTEZA, OS RELATOS PRESTADOS NA FASE POLICIAL. OBSERVÂNCIA AO PRINCÍPIO INDUBIO PRO REO. PLEITOS DE REFORMA DA DOSIMETRIA PARA DESABONAR OS VETORES DOS ANTECEDENTES, CONDUTA SOCIAL, PERSONALIDADE E CONSEQUÊNCIAS DO CRIME, BEM COMO DE APLICAÇÃO DA AGRAVANTE DA REINCIDÊNCIA PREJUDICADOS PELO NÃO ACOLHIMENTO DO PEDIDO ANTERIOR. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões recursais, a parte recorrente aponta violação ao art. 619 do CPP. Aduz, para tanto, que o acórdão recorrido incorreu em omissão ao não se manifestar expressamente sobre o depoimento da vítima Francisco Neider Cavalcante Filho, que teria reconhecido o réu com segurança tanto na fase policial quanto em juízo, sem qualquer dúvida ou hesitação.
+Sustenta haver vício não sanado que seria capaz de infirmar o julgado, pois o Tribunal deixou de abordar como a prova testemunhal firme e o fato do réu ter sido encontrado na posse do veículo roubado não seriam suficientes para caracterizar a autoria do crime de roubo.
+Com contrarrazões (e-STJ, fls. 324-326), o recurso especial foi inadmitido na origem (e-STJ, fls. 328-333), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal se manifestou pelo não conhecimento do agravo (e-STJ, fls. 369-374).
+É o relatório. DECIDO.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+A insurgência ministerial está alicerçada na suposta violação ao art. 619 do Código de Processo Penal, visto que teria havido omissão do acórdão em relação a pontos essenciais suscitados nos embargos declaratórios opostos.
+Entretanto, a análise detida do julgado demonstra que o Tribunal de origem não incorreu em qualquer vício de omissão.
+A questão relativa ao depoimento da vítima Francisco Neider Cavalcante Filho foi expressamente enfrentada pelo acórdão, que consignou (e-STJ, fl. 293):
+"O declarante Neider Cavalcante Filho afirmou em audiência de instrução que não tinha dúvidas da autoria e que os agentes usavam capacete no momento do crime. Mesmo assim, teria reconhecido o réu porque visualizou parte do seu rosto. Disse, também, que efetuou o reconhecimento antes mesmo da apreensão do veículo com o apelado."
+O colegiado ponderou, ainda, o seguinte (e-STJ, fl. 293):
+"Não vislumbro a necessária certeza para condenar o recorrido pelo crime de roubo, ante as incongruências dos relatos das vítimas, sobretudo no que diz respeito ao reconhecimento efetuado à época do crime."
+Destarte, verifica-se que a Corte estadual considerou a prova apresentada pelo reconhecimento realizado, mas optou por não acolhê-la como suficiente para sustentação da condenação pelo crime de roubo, em face das contradições identificadas nos depoimentos das demais vítimas.
+A pretensão ministerial, em verdade, busca não o suprimento de omissão, mas sim o reexame do conjunto probatório e da valoração das provas - especificamente a reavaliação do peso conferido ao depoimento da vítima Francisco Neider Cavalcante Filho e à posse do veículo roubado pelo acusado.
+Ocorre que tal perquirição está vedada na via excepcional, por força da Súmula n. 7, STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial."
+O acórdão não desconsiderou esses elementos probatórios, mas, após exame do conjunto das provas, entendeu que o princípio in dubio pro reo deveria prevalecer, dada a fragilidade e as inconsistências nos relatos das vítimas.
+Ressalte-se que o art. 619 do CPP está voltado à correção de vícios específicos (ambiguidade, obscuridade, contradição ou omissão), e não ao reexame do mérito da avaliação probatória realizada pelo Tribunal.
+O colegiado potiguar apreciou todas as questões suscitadas nos embargos, fundamentando sua decisão de forma clara e completa.
+Por fim, cumpre observar que a dosimetria da pena e a aplicação das circunstâncias judiciais e agravantes, conforme o próprio acórdão consignou, foram declaradas prejudicadas pela manutenção da desclassificação para receptação dolosa.
+Nessa perspectiva, a via especial eleita mostra-se inadequada para o alcance da pretensão ministerial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, a, do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
