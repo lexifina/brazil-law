@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por EVANDRO ALVES MARIA contra o acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do HC n. 5058084-59.2024.8.21.7000/RS.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso ordinário (fls. 287/289).
+É o relatório.
+O presente recurso perdeu o objeto.
+Conforme informações trazidas pela própria defesa, Evandro Alves Maria foi condenado às penas de 8 anos e 10 meses de reclusão, além de 1.250 dias-multa, pela prática dos crimes de associação para o tráfico e tráfico de drogas, conforme descrito nos arts. 35 e 33 da Lei n. 11.343/2006 (fl. 359). Quanto ao direito de recorrer em liberdade, não foi concedido. A sentença argumentou que, diante das penas fixadas, ainda subsistem os fundamentos do decreto da prisão preventiva, e a liberdade do imputado oferece risco à ordem pública, denotando que medidas cautelares diversas da prisão não são suficientes (fl. 393).
+A prisão, assim, decorre de novo título prisional, sendo vedada a supressão de instância.
+Ademais, não há ilegalidade patente. É legítima a prisão cautelar decretada com o fim de garantir a ordem pública quando apresentada motivação concreta, decorrente da conclusão de que o recorrente seria um dos responsáveis por armazenar, fracionar e confeccionar drogas, tendo sido visualizado por mais de uma vez na companhia do alcunhado "Rato", identificado como líder da organização (fl. 191).
+Há, no Superior Tribunal de Justiça, precedentes segundo os quais, tendo o réu permanecido preso durante toda a instrução processual, mediante decisão devidamente motivada, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em Juízo de primeiro grau (HC n. 584.762/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 12/2/2021).
+Também segundo jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (RHC n. 121.762/CE, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020).
+Afora isso, a manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória q ue não concede a agente que ficou preso durante toda a instrução processual o direito de recorrer em liberdade, por subsistirem as circunstâncias que justificaram a decretação da prisão preventiva (AgRg no RHC n. 169.970/TO, Ministro João Otávio de Noronha, Quinta Turma, DJe 30/9/2022).
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. PRISÃO CAUTELAR. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA MANTIDA. NOVO TÍTULO PRISIONAL. PRISÃO FUNDAMENTADA NA PROVA DOS AUTOS. RÉU QUE RESPONDEU AO PROCESSO PRESO.
+Recurso prejudicado.
