@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por ALEXANDRE VITOR VIEIRA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 252):
+Apelação da Defesa Receptação e Falsa Identidade Provas suficientes à condenação por ambos os delitos Prisão em flagrante em poder de motor parte de veículo objeto de furto Confissão do réu em Juízo Crime antecedente comprovado pelo boletim de ocorrência Circunstâncias que evidenciam a ciência da origem ilícita do bem Penas-base fixadas acima do mínimo legal com fundamento nos péssimos antecedentes e nas circunstâncias do delito (Crime de Receptação) Compensação integral entre as circunstâncias atenuante da confissão espontânea e agravante da reincidência Aplicada a regra do concurso material ao final Regime inicial fechado (Receptação) e regime inicial semiaberto (Falsa identidade) adequados à vida pregressa do réu, a teor da Súmula 269 do STJ Recurso de apelação desprovido.
+Em suas razões recursais, a parte recorrente aponta violação aos arts. 307 do CP e 386 do CPP, em relação à condenação pelo crime de falsa identidade; ao art. 59 do CP, quanto à fixação das penas-base acima do mínimo legal; e ao art. 33 do CP, no tocante ao regime inicial de cumprimento de pena.
+Aduz, para tanto, que o delito de falsa identidade é atípico, pois ausente o elemento subjetivo específico, uma vez que o réu apenas atribuiu-se falsa identidade para tentar se ocultar de possível responsabilização criminal e manter sua liberdade.
+Sustenta também que as penas-base foram indevidamente majoradas, pois inexistem circunstâncias judiciais desfavoráveis.
+Por fim, pugna pela fixação de regime inicial menos gravoso, considerando as penas aplicadas.
+Com contrarrazões (e-STJ, fls. 331-338), o recurso especial foi inadmitido na origem (e-STJ, fls. 341-345), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o Ministério Público Federal se manifestou pelo não provimento do recurso (e-STJ, fls. 383-392).
+É o relatório. DECIDO.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No tocante à pretendida absolvição pelo crime de falsa identidade, a irresignação não merece prosperar.
+O recorrente sustenta que sua conduta seria atípica por estar amparada pelo direito de não produzir prova contra si mesmo, além de alegar a inexistência do elemento subjetivo específico exigido pelo tipo penal.
+O crime previsto no art. 307 do Código Penal caracteriza-se quando o agente atribui a si ou a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem.
+No caso em análise, restou devidamente comprovado que o recorrente, ao ser abordado pelos policiais militares, identificou-se falsamente como "Rogério Vitor Vieira", somente revelando sua verdadeira identidade quando já se encontrava na delegacia.
+A jurisprudência desta Corte Superior está consolidada no sentido de que o princípio constitucional da não autoincriminação não alcança o fornecimento de dados falsos sobre a própria identidade, considerando que tal comportamento é, sim, antijurídico. Esse entendimento encontra-se, inclusive, cristalizado na Súmula n. 522, STJ, segundo a qual "a conduta de atribuir-se falsa identidade perante autoridade policial é típica, ainda que em situação de alegada autodefesa".
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. AUTODEFESA. ATIPICIDADE . NÃO OCORRÊNCIA. DESCLASSIFICAÇÃO. FALSA IDENTIDADE. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Hipótese em que o réu, parado por policiais militares, enquanto conduzia veículo automotor, apresentou Carteira Nacional de Habilitação falsa.
+2. Incabível a pretendida absolvição, porquanto esta Corte Superior, na linha do Supremo Tribunal Federal, entende que tanto o uso de documento falso quanto a atribuição de falsa identidade, mesmo que destinados para o fim exclusivo de autodefesa, configuram crime.
+3. A "efetiva utilização do documento objeto do falso afasta o enquadramento da conduta no tipo penal de falsa identidade, previsto no artigo 307 do Código Penal, que tem caráter subsidiário"
+( REsp 1.710 .259/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 11/9/2018, DJe 19/9/2018). 4. Agravo regimental desprovido . (STJ - AgRg no AREsp: 2248031 SP 2022/0361538-5, Relator.: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 07/03/2023, T5 - QUINTA TURMA, Data de Publicação: DJe 13/03/2023, grifou-se)
+Além disso, é pacífico o entendimento no sentido de que o elemento subjetivo do tipo - obter vantagem ou causar dano - está evidenciado quando o agente busca evitar a prisão ou ocultar antecedentes criminais, como ocorreu no caso dos autos.
+O próprio recorrente admitiu em juízo que forneceu nome falso porque estava foragido, circunstância que, por si só, demonstra seu intuito de obter vantagem em proveito próprio.
+No que diz respeito à dosimetria penal, a insurgência também não comporta acolhimento.
+O recorrente alega que as penas-base foram indevidamente majoradas, ante a ausência de circunstâncias judiciais desfavoráveis, sustentando que eventuais condenações anteriores não poderiam ser valoradas a título de personalidade ou conduta social.
+O acórdão recorrido, contudo, evidencia que a exasperação das penas-base fundamentou-se não apenas nos maus antecedentes do recorrente, mas também nas circunstâncias do delito de receptação, destacando o fato de que o bem receptado se tratava "de peça de veículo automotor, de maior valor comercial" (e-STJ, fl. 257).
+A jurisprudência desta Corte Superior orienta que a valoração negativa de apenas uma circunstância judicial já é suficiente para justificar a fixação da pena-base acima do mínimo legal.
+Além disso, a revisão dos critérios utilizados pelas instâncias ordinárias na dosimetria da pena, especialmente quanto à valoração das circunstâncias judiciais, demandaria necessário reexame de fatos e provas, procedimento vedado em sede de recurso especial, nos termos da Súmula n. 7, STJ.
+Quanto ao regime inicial de cumprimento de pena, o Tribunal de origem fixou o regime inicial fechado para o delito de receptação e o semiaberto para o crime de falsa identidade, considerando a reincidência do recorrente e seus maus antecedentes.
+Embora o quantum das penas aplicadas permitisse, em tese, a fixação de regime mais brando, a decisão encontra amparo no art. 33, § 3º, do Código Penal, que determina a observância dos critérios previstos no art. 59 do mesmo diploma legal.
+No caso em análise, a vida pregressa do recorrente, marcada por diversas condenações anteriores, justifica a imposição de regime mais gravoso.
+Vale ressaltar que, conforme dispõe a Súmula n. 719, STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea", requisito devidamente atendido no caso concreto, em que se destacou a reincidência e os maus antecedentes do agente.
+Ainda, a fixação do regime fechado para o cumprimento da pena do crime de receptação não malfere a Súmula n. 269, STJ, segundo a qual "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+No caso em apreço, há circunstâncias judiciais que foram consideradas desfavoráveis, o que afasta a incidência do enunciado sumular, nos termos da jurisprudência consolidada desta Corte Superior.
+Confira-se:
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FIXAÇÃO DE REGIME INICIAL FECHADO . RÉU REINCIDENTE COM MAUS ANTECEDENTES. ADEQUAÇÃO DO REGIME MAIS GRAVOSO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Habeas corpus impetrado contra decisão que manteve a fixação do regime inicial fechado para o cumprimento da pena, considerando a reincidência e os maus antecedentes dos réus. A defesa alega que o regime mais gravoso seria desproporcional, pleiteando a aplicação de regime inicial menos severo.
+II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é cabível o uso de habeas corpus como substitutivo de recurso próprio; e (ii) avaliar se a fixação do regime inicial fechado, em razão dos maus antecedentes e da reincidência, configura flagrante ilegalidade que justifique a concessão de ordem de ofício.
+III . RAZÕES DE DECIDIR
+3. O habeas corpus não é admitido como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade, que autorizam a concessão da ordem de ofício, conforme entendimento pacificado no Supremo Tribunal Federal e no Superior Tribunal de Justiça. 4. A fixação do regime inicial para cumprimento da pena deve observar os arts. 33 e 59 do Código Penal, além das Súmulas 440 do STJ e 718 e 719 do STF, que permitem a imposição de regime mais gravoso em casos de reincidência e maus antecedentes.
+5. A jurisprudência desta Corte admite a fixação do regime fechado para réus reincidentes e com maus antecedentes, ainda que a pena aplicada seja inferior a 4 anos, desde que fundamentada em elementos concretos como a reincidência e a conduta social desfavorável.
+6. No caso concreto, as instâncias ordinárias fixaram o regime fechado de forma fundamentada, em razão dos maus antecedentes e da reincidência dos réus, afastando a possibilidade de regime menos severo, nos termos do art. 33, § 2º, a, do Código Penal, e da Súmula 269 do STJ.
+7. Não se verifica flagrante ilegalidade que justifique a concessão de ordem de ofício, considerando que a fixação do regime fechado está em conformidade com a legislação e a jurisprudência aplicáveis .
+IV. HABEAS CORPUS NÃO CONHECIDO.
+(STJ - HC: 929754 SP 2024/0259978-5, Relator.: Ministra DANIELA TEIXEIRA, Data de Julgamento: 26/11/2024, T5 - QUINTA TURMA, Data de Publicação: DJEN 18/12/2024, grifou-se)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, b, do Regimento Interno do STJ, conheço do agravo para negar provimento ao recurso especial, nos termos da fundamentação retro.
+Publique-se. Intimem-se.
+EMENTA
