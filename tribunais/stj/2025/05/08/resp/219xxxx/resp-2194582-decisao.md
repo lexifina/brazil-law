@@ -1,0 +1,44 @@
+DECISÃO
+Examina-se recurso especial interposto por NUBIA PALMEIRA PACHECO, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRF3.
+Recurso especial interposto em: 04/10/2024.
+Concluso ao gabinete em: 11/02/2025.
+Ação: anulatória, ajuizada pelo recorrente em face de CAIXA ECONÔMICA FEDERAL.
+Sentença: julgou procedente o pedido para reconhecer a nulidade por ausência de intimação pessoal da devedora para purgar a mora, considerando inservível a notificação postal (e-STJ fls. 877-883).
+Acórdão: deu provimento ao recurso de apelação interposto pelo recorrido, nos termos da seguinte ementa:
+DIREITO PROCESSUAL CIVIL. DIREITO PRIVADO. APELAÇÃO CÍVEL. FINANCIAMENTO IMOBILIÁRIO COM HIPOTECA EM GARANTIA. EXECUÇÃO EXTRAJUDICIAL. REGULARIDADE DO ATO NOTIFICATÓRIO. REQUISITOS FORMAIS COMPROVADOS NOS AUTOS. REFORMA DA SENTENÇA.
+- Apela a CEF contra a sentença que julgou procedente a ação, para reconhecer a nulidade do procedimento de execução extrajudicial de expropriação que resultou na consolidação da propriedade sob o fundamento de que a CAIXA deixou de apresentar nos autos a comprovação da intimação dos devedores para purgar a mora. A CEF alega regularidade da intimação para purgar a mora através de carta com aviso de recebimento, que foi assinada pela devedora, cumprindo a finalidade.
+- As dívidas garantidas por hipoteca, regulamentadas pelo Decreto-lei 70/66, quando não são quitadas pelo devedor, poderão ser objeto de execução segundo o rito do CPC ou dos artigos 31 a 38 do Decreto-lei 70/66.
+- A devedora tinha ciência, desde a assinatura do contrato, que o inadimplemento poderia levar à perda do imóvel, e confirma que deixou de pagar o débito. O contrato de financiamento com hipoteca em garantia foi assinado pelas partes em 24/7/96 e o inadimplemento é incontroverso nos autos, com pagamento da última parcela de nº 48 em 24/7/00.
+- O artigo 31, §1º, do Decreto-lei 70/66 ao tratar da execução de dívida hipotecária dispõe que o agente fiduciário promoverá a notificação do devedor por intermédio do Cartório de Títulos e Documentos, concedendo à parte devedora o prazo de 20 dias para purgação da mora. (e-STJ fls. 39-41).
+- A Lei 8.004/1990 alterou a redação do artigo 31 do Decreto-lei, de maneira que a notificação da parte devedora para purgar a mora, a qual era feita por meio dos Correios com carta de aviso de recebimento, foi substituída pela exigência de que o agente fiduciário promovesse a notificação do devedor por intermédio do Cartório de Títulos e Documentos. O art. 31, §2º, do mesmo Decreto-lei, declara que, quando o devedor se encontrar em lugar incerto ou não sabido, o oficial certificará o ato, cabendo ao agente fiduciário promover a notificação por edital, publicado por três dias, pelo menos, em um dos jornais de maior circulação local, ou noutro de comarca de fácil acesso, se no local não houver imprensa diária.
+- Na r. sentença, o juízo entendeu que houve o descumprimento de requisito essencial e de condição de validade da execução extrajudicial, uma vez que a autora teria sido notificada para purgar a mora por via postal, em clara violação ao art. 31, §1º, do Decreto-lei 70/66.
+- Ocorre que em análise aos documentos colacionados nos autos, a notificação realizada pela via postal mencionada na r. sentença é referente à cobrança de prestações em atraso, notadamente, da prestação vencida em 24/8/2000 em diante. Posteriormente, há nos autos uma Solicitação de Execução de Dívida apresentada pela CEF, a fim de que o agente fiduciário (CREFISA S/A) promovesse a notificação da devedora, nos termos do art. 31 do Decreto-lei.
+- Consta do acervo documental apresentado que o escrevente certificou que deixou de entregar a notificação em razão de ter ido, por mais de 2 vezes, no endereço da apelada, declarando, em seguida, que não foi possível encontrar a devedora pessoalmente, bem como que não foram atendidas as convocações por ele deixadas para a mesma comparecer ao Ofício de Registro de Títulos e Documentos de Ribeirão Preto, o que resultou na promoção da notificação por edital, a qual encontra-se devidamente comprovada no processo.
+- Tendo a apelada sido notificada nos termos do dispositivo legal, não há que se falar em máculas no procedimento de execução extrajudicial, o qual seguiu todos os procedimentos elencados pelo Decreto-lei que rege a matéria, inclusive com as modificações trazidas pela Lei 8.004/90.
+- De rigor a reforma da r. sentença, ante a regularidade do procedimento de execução extrajudicial.
+- Apelo provido (e-STJ fls. 1.187-1.198).
+Embargos de declaração: opostos pela recorrente, foram rejeitados (e-STJ fls. 1.253-1.254).
+Recurso especial: aponta violação aos art. 31, §§ 1º e 2º, do Decreto-lei 70/66. Sustenta, em síntese, a necessidade de "CERTIFICAÇÃO de que a Recorrente estaria em LOCAL INCERTO E NÃO SABIDO, a fim de autorizar a intimação via edital, conforme legislação vigente à época dos fatos, e atualmente vigente" (e-STJ fl. 1.261).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o seguinte fundamento utilizado pelo TRF3 (e-STJ fl. 1.196):
+"Conforme consta do acervo documental apresentado, o escrevente certificou que deixou de entregar a notificação em razão de ter ido, por mais de 2 vezes, no endereço da apelada, declarando, em seguida, que não foi possível encontrar a devedora pessoalmente, bem como que não foram atendidas as convocações por ele deixadas para a mesma comparecer ao Ofício de Registro de Títulos e Documentos de Ribeirão Preto (id 89834757, fls. 70), o que resultou na promoção da notificação por edital, a qual encontra-se devidamente comprovada no processo (id 89834757, fls. 71 a 73)."
+Desse modo, deve ser mantido o acórdão recorrido ante a aplicação, na hipótese, da Súmula 283/STF.
+- Do reexame de fatos e provas
+O TRF3, ao analisar o recurso de apelação interposto pela recorrente, concluiu o seguinte (e-STJ fls. 1.196-1.197):
+"Ocorre que em análise aos documentos colacionados nos autos, a notificação realizada pela via postal mencionada na r. sentença é referente à cobrança de prestações em atraso, notadamente, da prestação vencida em 24/8/2000 em diante (id 89834757, fls. 65 e 66).
+Posteriormente, há nos autos uma Solicitação de Execução de Dívida apresentada pela CEF, a fim de que o agente fiduciário (CREFISA S/A) promovesse a notificação da devedora, nos termos do art. 31 do Decreto-lei 70/66 (id 89834757, fls. 67 a 70).
+Conforme consta do acervo documental apresentado, o escrevente certificou que deixou de entregar a notificação em razão de ter ido, por mais de 2 vezes, no endereço da apelada, declarando, em seguida, que não foi possível encontrar a devedora pessoalmente, bem como que não foram atendidas as convocações por ele deixadas para a mesma comparecer ao Ofício de Registro de Títulos e Documentos de Ribeirão Preto (id 89834757, fls. 70), o que resultou na promoção da notificação por edital, a qual encontra-se devidamente comprovada no processo (id 89834757, fls. 71 a 73).
+Ou seja, tendo a apelada sido notificada nos termos do dispositivo legal, não há que se falar em máculas no procedimento de execução extrajudicial, o qual seguiu todos os procedimentos elencados pelo Decreto-lei que rege a matéria, inclusive com as modificações trazidas pela Lei 8.004/90.
+A recorrente, por sua vez, alega que "o Oficial disse apenas que esteve por 2 vezes na casa da Autora, não a encontrando. Logo, concessa venia, NÃO FORAM ESGOTADAS TODAS AS POSSIBILIDADES DE CITAÇÃO, para que fosse feita por edital".
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à presença dos requisitos no Decreto-Lei nº 70/66, tal como pretendido pela recorrente, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ
+Forte nessas razões, com fundamento no art. 932, III, do CPC, bem como na Súmula 568/STJ, NÃO CONHECO do recurso especial.
+Incabível a majoração de honorários, ante a ausência simultânea dos requisitos elencados pela Segunda Seção no julgamento do AgInt nos EREsp 1.539.725/DF, (julgado em 09/08/2017, DJe 19/10/2017).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação anulatória.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial conhecido e provido.
