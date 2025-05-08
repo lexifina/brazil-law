@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por JOSUE ANTONIO HOMEM, contra decisão que inadmitiu o recurso especial proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+A decisão de inadmissão do processamento do recurso especial resta fundada no óbice das Súmulas 7 e 83, ambas do STJ.(e-STJ fls.666 - 669).
+A parte agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls.674 - 689).
+Contraminuta apresentada (e-STJ fls. 696 - 701).
+O Ministério Público Federal opinou pelo "não provimento do agravo em recurso especial.". (e-STJ fls. 722 - 727).
+É o relatório.
+Decido.
+Após análise detalhada dos argumentos apresentados no recurso, verifica-se que todos os fundamentos da decisão contestada foram objetivamente impugnados, o que permite o conhecimento do agravo interposto.
+Por outro lado, tem-se que não é cabível recurso especial por meio do qual a parte recorrente pretende o reexame das provas produzidas durante a instrução processual, considerando o teor do enunciado da súmula n. 7 deste Superior Tribunal de Justiça, segundo o qual "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido, verifica-se da petição do recurso especial interposto pelo recorrente ser este exatamente o caso, em que o recorrente pretende, por intermédio do referido recurso, reanálise e revaloração do contexto fático-probatório dos autos, circunstâncias vedadas pelo texto da referida súmula.
+Colaciono precedente no mesmo sentido:
+PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE DEVIDAMENTE FUNDAMENTADA, NA FORMA DO ART. 42 DA LEI DE DROGAS. NÃO INCIDÊNCIA DA MINORANTE DO TRÁFICO PRIVILEGIADO DECORRENTE DA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+I. CASO EM EXAME
+1. Agravo interposto contra decisão que não admitiu o recurso especial, no qual se alegou violação aos arts. 33, § 4º, e 42 da Lei n. 11.343/2006, pleiteando a concessão de benefício legal e alegando bis in idem na dosimetria da pena, além da necessidade de redução da pena-base ao mínimo legal.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se houve bis in idem na dosimetria da pena ao utilizar a quantidade de droga apreendida para aumentar a pena-base e para afastar a minorante do tráfico privilegiado, assim como se a quantidade de droga apreendida autoriza o aumento da basilar.
+3. A questão também envolve a análise da possibilidade de reexame de provas para verificar a dedicação dos recorrentes a atividades criminosas.
+III. RAZÕES DE DECIDIR
+4. A utilização da quantidade de droga para aumentar a pena-base e afastar a minorante não configura bis in idem, pois foram considerados elementos fáticos distintos, além da existência de outros elementos que evidenciam a dedicação a atividades criminosas.
+5. A reanálise do acervo fático-probatório é inviável em sede de recurso especial, conforme a Súmula n. 7 do STJ.
+6. A majoração da pena-base é justificada com base na grande quantidade de droga apreendida (1 kg de maconha), sendo proporcional a fração de 1/6, na forma do art. 42 da Lei n. 11.343/2006.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.484.073/SP, relatora Ministra Daniela Teixeira, Quinta Turma,
+julgado em 26/11/2024, DJe de 12/12/2024.)
+No caso em epígrafe, o Tribunal de origem fundamentou e destacou que existem elementos probatórios contundentes colhidos durante a instrução processual respaldando a condenação, salientando que "o fato de o acusado ter sido reconhecido sem a observância estrita ao art. 226 do CPP não altera em nada a quantidade e o valor das provas da autoria delitiva, pois a condenação não se deu exclusivamente com base no reconhecimento pelas imagens das câmeras de segurança do estabelecimento, mas em razão de todos os elementos probatórios coligidos nas duas fases da persecução criminal". (e-STJ fl. 621)
+Cumpre ressaltar que o órgão julgador formou seu convencimento acerca da autoria delitiva através da análise de um conjunto probatório robusto, composto por elementos independentes que não guardam relação de causa e efeito com o ato de reconhecimento.
+Cabe observar que a pretensão absolutória demandaria necessariamente o reexame do conjunto fático-probatório, procedimento vedado em sede de recurso especial, conforme dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Da mesma forma, na esteira do parecer ministerial, tem-se que:
+" O entendimento adotado pelo Tribunal de Justiça está em consonância com o entendimento do Superior Tribunal de Justiça, conforme se infere dos precedentes abaixo colacionados:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. VIOLAÇÃO AO ART. 226 DO CÓDIGO DE PROCESSO PENAL. DISTINGUISHING. OUTROS ELEMENTOS PROBATÓRIOS EVIDENCIADOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa".
+2. No caso dos autos, dos elementos probatórios que instruem o feito, verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova o reconhecimento fotográfico, o que gera distinguishing em relação ao acórdãotem-se que a decisão encontra-se alinhada com a jurisprudência do Superior Tribunal de Justiça. paradigma da alteração jurisprudencial, sendo que as instâncias ordinárias contam com as declarações da vítima e provas indiciárias do roubo para robustecer o arcabouço probatório.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 894.087/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 29/4/2024, D Je de 3/5/2024.)
+AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. DISTINGUISHING. EXISTÊNCIA DE PROVAS VÁLIDAS E INDEPENDENTES. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DOSIMETRIA. MULTIRREINCIDÊNCIA. PREPONDERÂNCIA EM RELAÇÃO À ATENUANTE DA CONFISSÃO ESPONTÂNEA. APLICAÇÃO DA FRAÇÃO DE 1/4, EM RAZÃO DA EXISTÊNCIA DE 4 CONDENAÇÕES ANTERIORES. DESPROPORCIONALIDADE. NÃO OCORRÊNCIA. MAJORANTE PREVISTA NO ART. 157, § 2º, I, DO CP. APREENSÃO E PERÍCIA NA ARMA DE FOGO. DESNECESSIDADE. EXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS.
+1. Conforme a jurisprudência desta Corte Superior, o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa.
+2. No caso, ainda que se possa admitir a nulidade do reconhecimento pessoal, por inobservância do art. 226 do CPP, o ato supostamente viciado não foi a única prova de autoria considerada para a condenação, sobretudo porque o acusado foi preso em flagrante, logo após ao fato delituoso, com o veículo roubado que possuía rastreador, e com o veículo descrito pelas vítimas como o que foi utilizado para dar apoio ao crime.
+3. Estando a condenação devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à absolvição do recorrente, demandaria necessário revolvimento de provas, incabível na via do recurso especial, nos termos da Súmula n. 7/STJ.
+4. Quanto à dosimetria, o acórdão proferido pelo Tribunal de origem não destoa do entendimento desta Corte Superior, segundo a qual a multirreincidência tem preponderância sobre a atenuante da confissão espontânea, não se verificando desproporcional a aplicação da fração de 1/4, em razão da existência de 4 condenações anteriores.
+5. De acordo com o entendimento firmado pela Terceira Seção desta Corte, no julgamento dos Embargos de Divergência n. 961.863/RS, para a incidência da causa de aumento prevista no art. 157, § 2º, I, do CP, é dispensável a apreensão e a perícia na arma de fogo, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva, como no caso.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 2.005.645/PR, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 22/4/2024, D Je de 25/4/2024.)
+Neste contexto, verifica-se também que o Tribunal de origem decidiu em consonância com a jurisprudência consolidada desta Corte, incidindo o óbice previsto na Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Portanto, considerando que a orientação do acórdão recorrido firmou-se no mesmo sentido de precedentes anteriores desta Corte, incide o óbice da Súmula 83 do STJ, o que impede o conhecimento do recurso especial interposto
+Por fim, conforme exposto, o pleito de reconhecimento de nulidade, inequivocamente, geraria o reexame do arcabouço probatório, incidindo o impedimento previsto na Súmula 7/STJ. Ademais, o entendimento adotado pelo Tribunal a quo encontra-se em consonância com a orientação jurisprudencial dominante, atraindo a aplicação da Súmula 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento.
+EMENTA
