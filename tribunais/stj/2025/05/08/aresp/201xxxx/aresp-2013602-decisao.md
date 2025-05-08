@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto por SOLISTEEL SOLUÇÕES EM AÇO -EIRELI contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que o recurso especial foi interposto, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 469):
+Ação de dissolução parcial de sociedade, em fase de apuração de haveres. Decisão que indeferiu pedido no sentido de que a sócia retirante fosse compelida a entregar informações armazenadas no servidor de internet onde está abrigado o nome de domínio que era utilizado pela empresa antes da dissolução. Agravo de instrumento. Agravantes que noticiaram a falta de tais informações digitais apenas meses depois da formal entrega, pela sócia retirante, dos equipamentos físicos nos quais estariam armazenados backups. Impossibilidade de, em tais circunstâncias, no âmbito da apuração de haveres em curso, decidir-se a respeito da completude da entrega dos equipamentos eletrônicos. Os interessados, caso desejem, deverão para tanto valer-se das vias ordinárias. Decisão mantida. Agravo de instrumento desprovido.
+Rejeitados os embargos de declaração opostos (fls. 507-515).
+No recurso especial, SOLISTEEL SOLUÇÕES EM AÇO - EIRELI alega, preliminarmente, ofensa ao art. 1.022, I, do CPC, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem teria sido contraditório.
+Aduz, no mérito, que o acórdão recorrido contrariou as disposições contidas nos arts. 141 e 492 do CPC e que houve decisão citra ou infra petita, tendo em vista que o Tribunal se negou a decidir sobre a questão da entrega dos backups e o acesso ao servidor "@solyvent". Argumenta que a questão deveria ser decidida nos próprios autos, e não em ação própria.
+Foram oferecidas contrarrazões ao recurso especial (fls. 545-565).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 570-572), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 597-621).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+- Da violação do art. 1.022 do CPC
+Inicialmente, não há falar em ofensa ao art. 1.022 do CPC, uma vez que o Tribunal de origem, ao negar provimento ao agravo de instrumento, manifestou-se de forma clara quanto à controvérsia referente ao acesso ao domínio e à impossibilidade de verificação, nos autos da apuração de haveres, da completude da entrega dos equipamentos, conforme trechos do acórdão recorrido (fls. 478-480):
+Inicialmente, reanalisando os autos, cumpre esclarecer que, em que pese a agravante requerer que lhe sejam entregues senhas para acesso ao domínio @solyvent, ao contrário do que se interpretou inicialmente não pretende ela reivindicar a titularidade de tal domínio, mas apenas as informações armazenadas em seu servidor de internet.
+É o que se depreende das manifestações que apresentou, em especial sua mais recente, a fls. 435/443, na qual se lê:
+"Ou seja, a partir do momento em que a Howden e o Sr. José Tadeu se negaram a transferir o domínio, a Agravante não exarou qualquer tipo de oposição, mas esclareceu, inúmeras vezes, que, em razão do decidido por essa C. Câmara na ação dissolutória, continuava precisando ter acesso às informações salvas sob tal domínio, pois estas, inegavelmente, lhe pertencem!" (fl. 440, itálico do original; grifei).
+Pois bem.
+É certo que tais informações estavam compreendidas na decisão proferida pelo MM. Juiz a quo quando do início, em 27/10/2017, da fase de apuração de haveres:
+"5. Por fim, e conforme a própria exequente aquiesceu, providencie a empresa Howden International Holdings BV, em dez dias, a entrega à ré Brumazi Equipamentos Industriais Ltda. de todos os bens e documentos relacionados à sociedade parcialmente dissolvida, mediante recibo." (fls. 88/89, grifei).
+A fls. 162/171 se vê ata notarial lavrada em 12/12/2017, na qual se registrou extensa lista de bens da empresa entregues à agravante.
+Entretanto, apenas em 11/4/2018, foi enviada a Jose Tadeu notificação extrajudicial a respeito do não recebimento do que estava armazenado no servidor do domínio @solyvent (fls. 90/92), tendo a agravante alegado neste agravo que "nos computadores e notebooks que foram entregues pela Howden aos sócios remanescentes da Solyvent, também não foram localizados os backups da empresa, sejam aqueles que deveriam estar no Servidor "Dell PowerEdge T410", sejam os backups de e-mails, etc. oriundos do servidor de internet" (fl. 204).
+Ora, não é possível, como decidido na origem, no âmbito da apuração de haveres, deliberar-se a respeito da boa ou má, completa ou incompleta, entrega, em novembro de 2017, dos equipamentos eletrônicos, que as agravantes dizem vazios e é negado pela agravada e por José Tadeu.
+A tanto se restringindo o pedido recursal (que é o de que o Tribunal determine à agravada que "franqueie o acesso, às Agravantes, às senhas, listagens, backups e quaisquer outros dados e informações relativas aos e-mails e documentos  projetos, contatos de clientes, etc.  arquivados sob o domínio @solyvent", desacompanhado, entretanto, da titularidade do nome de domínio @solyvent), cabe manter, como ora, por meu voto, efetivamente, mantenho a r. decisão agravada.
+Insistindo os interessados, caberá, como ponderado na decisão agravada, o ajuizamento de ação própria para que se apure, então, quem está a dizer a verdade sobre o conteúdo do hadware transmitido pela agravada à empresa parcialmente dissolvida: se estava, ou não, vazio, sem os contatos e-mail, sem listagem de clientes e outros documentos.
+Observa-se, portanto, que a lide foi solucionada em conformidade com o que foi apresentado em juízo. Assim, verifica-se que o acórdão recorrido está com fundamentação suficiente, inexistindo omissão ou contradição.
+- Do reexame de fatos e provas - Súmula 7/STJ
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à existência de decisão citra petita e à possibilidade de decidir nos próprios autos da apuração de haveres sobre o conteúdo do hardware transmitido, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+- Honorários recursais
+Deixo de majorar os honorários nos termos do art. 85, § 11, do CPC, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 1.022 DO CPC. INEXISTENTE. DECISÃO CITRA PETITA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E IMPROVIDO.
