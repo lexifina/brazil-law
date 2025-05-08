@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SANDRA REGINA PINTO DE SOUZA, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 502):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL PROPOSTA PELO MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO. PRETENSÃO DE IMPOR À EXECUTADA O CUMPRIMENTO INTEGRAL DE TAC. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. AGRAVO DE INSTRUMENTO. DESACOLHIMENTO. QUESTÃO RELACIONADA À ADEQUAÇÃO DO AJUSTE AO CÓDIGO FLORESTAL DE 2012 JÁ DELIBERADA EM AÇÃO ANULATORIA ANTERIOR, TRANSITADA EM JULGADO. QUESTÃO ACOBERTADA PELA COISA JULGADA. CUMPRIMENTO INTEGRAL DO TAC NÃO DEMONSTRADO PELA AGRAVANTE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram estes rejeitados, em aresto assim ementado (fl. 518):
+EMBARGOS DE DECLARAÇÃO. Vícios previstos no artigo 1022 do CPC inexistentes. Fundamentos jurídicos devidamente explicitados no acórdão. Inexistência de ponto a ser aclarado. Divergência meramente jurídica do embargante. Nítida pretensão de reexame da matéria a desafiar recurso próprio. EMBARGOS REJEITADOS.
+Em seu recurso especial, às fls. 527-539, a recorrente sustenta violação ao art. 68 da Lei n. 12.651/2012, argumentando, para tanto, que, com a entrada em vigor do Novo Código Florestal, o STF reconheceu a constitucionalidade do citado diploma legal, "assim, não se mostrando razoável que a decisão do Egrégio Tribunal de Justiça de São Paulo, não acate o disposto no artigo 68 da Lei 12.651/2012, de modo a exigir o cumprimento do TAC celebrado" (fl. 533).
+Aduz, ainda, ofensa aos arts. 493, 525, §1º, inciso VII, e §§ 11, 12 e 14, e 927, inciso I, todos do Código de Processo Civil, uma vez que "havendo notória modificação pretérita no estado de fato ou de direito que não tenha sido analisada no título executivo, esta acarretará situação nova, a qual não será abrangida pelo manto da coisa julgada" (fl. 535).
+Por fim, alega que "a tese da decisão que afastou a aplicabilidade da Lei 12.651/12, confronta com o posicionamento adotado pelo Supremo Tribunal Federal, exarado no exame de constitucionalidade de tal lei, em sede das ADI"s 4901, 4902, 4903 e 4937, bem como ADC 42, tomando-se coisa julgada inconstitucional por ofensa aos artigos 5º, caput, e 102, § 2º, da CF-88" (fl. 536).
+O Tribunal de origem, no entanto, inadmitiu o recurso especial, conforme trecho in verbis (fls. 554-555):
+De início, consigne-se que assertivas de ofensa a dispositivos da Constituição da República não servem de suporte à interposição de recurso especial. Nesse sentido: REsp 1.559.027/PR, 2ª Turma, Rel. Min. HERMAN BENJAMIN, DJe de 16/11/2015; EDcl no AgRg no AREsp 531.269/AC, 5ª Turma, Rel. Min. REYNALDO SOARES DA FONSECA, DJe de 17/11/2015; AgRg no EREsp 1.439.343/PR, 1ª Seção, Rel. Min. HUMBERTO MARTINS, DJe de 18/11/2015; REsp 1.265.264/SC, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 30/09/2019 e REsp 1.905.122/MA, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 18/12/2020.
+(..)
+Ressalte-se, ainda, buscar a recorrente o reexame dos elementos fáticos que serviram de base à decisão recorrida, o que importaria em nova incursão no campo fático, objetivo divorciado do âmbito do recurso especial de acordo com a Súmula 7 da Corte Superior.
+Em seu agravo, às fls. 558-564, a agravante sustenta que, no caso em tela, "não se busca um reexame das provas, e sim, da valoração da prova que não ocorreu de maneira adequada, razão pela qual o entendimento pode ser alterado sem a violação do teor da Súmula 07 do STJ" (fl. 563).
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+De início, verifica-se que não foi impugnada a integralidade da fundamentação da decisão agravada, porquanto a agravante não infirmou especificamente nenhum dos fundamentos utilizados para a inadmissão do seu recurso especial.
+Em verdade, a decisão monocrática que negou a subida do apelo raro, ora agravada, assentou-se em dois fundamentos distintos: (i) - impropriedade da via eleita, já que a análise de matéria constitucional é de competência exclusiva do Supremo Tribunal Federal; (ii) - incidência do enunciado 7 da Súmula do STJ, tendo em vista a impossibilidade de revisão do acervo probatório.
+Entretanto, em sede de agravo em recurso especial a recorrente deixou de infirmar especificamente e a contento, todos os fundamentos da decisão de inadmissibilidade, os quais, à míngua de fundamentação pormenorizada, detalhada e específica, permanecem hígidos, produzindo todos os efeitos no mundo jurídico.
+Assim, ao deixar de infirmar os fundamentos do juízo de admissibilidade realizado pelo Tribunal de origem, a agravante fere o princípio da dialeticidade e atrai a incidência da previsão contida nos artigos 932, inciso III, do Código de Processo Civil, e 253, parágrafo único, inciso I, do Regimento Interno do STJ, no sentido de que não se conhece de agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Também incide à espécie, a exegese do enunciado 182 da Súmula do STJ, que reza: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A falta de efetivo combate de quaisquer dos fundamentos da decisão que inadmitiu o recurso especial impede o conhecimento do respectivo agravo, consoante preceituam os arts. 253, I, do Regimento Interno do Superior Tribunal de Justiça e 932, III, do Código de Processo Civil e a Súmula 182 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.419.582/SP, rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 14/3/2024)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+DIREITO AMBIENTAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO AGRAVADA. DESCUMPRIMENTO DO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DOS ARTS. 932, III, DO CPC, 253, P. Ú, I, DO RISTJ, E SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
