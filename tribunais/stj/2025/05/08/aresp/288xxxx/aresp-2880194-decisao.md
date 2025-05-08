@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUCIANO DE SALES EVANGELISTA contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 180, "caput", do Código Penal, por três vezes, em concurso material, às penas de 1 (um) ano, 6 (seis) meses e 26 (vinte e seis) dias de reclusão, em regime inicial semiaberto, além de 16 (dezesseis) dias-multa.
+O Tribunal de origem, em decisão unânime, deu parcial provimento ao apelo defensivo, para adequar o regime inicial de cumprimento de pena e substituir a pena restritiva de liberdade por restritiva de direito.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, o insurgente alega violação ao art. 180 do Código Penal e art. 386, inciso III, do Código de Processo Penal. Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo não conhecimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Conforme relatado, o apelo nobre foi inadmitido pelo Tribunal a quo em razão da aplicação da Súmula 7/STJ, ante a necessidade de revolvimento de matéria fático-probatória.
+No caso, porém, a parte agravante deixou de infirmar, de maneira adequada e suficiente, os fundamentos da negativa de admissibilidade do recurso, isso é, a aplicação da Súmula 7/STJ, limitando-se a asseverar que pretende a mera rediscussão jurídica e reiterar as alegações de fundo do recurso especial, como se depreende:
+ ..  Todavia, a menção aos fatos que serviram de pano de fundo para a prolação do r. decisum objurgado serviu apenas para contextualizar o recurso, impossível que é divorciar a infração a dispositivos legais federais das matérias que serviram de arrimo à sua prolação.
+Nunca se pretendeu o revolvimento da matéria de fato. Os fatos devem ser admitidos tais como apurados perante a instância de piso, em regular instrução do feito. O que se questiona, no Recurso Especial, é a qualificação jurídica atribuída, no acórdão, aos fatos.
+ ..
+Não se está aqui pretendendo rediscutir as circunstâncias fáticas da busca e apreensão, mas sim se, nas circunstâncias como já admitidas pelo acórdão recorrido em que se deu o procedimento, a suposta legalidade do procedimento fere ou não o dispositivo de lei federal expressamente invocado, como doravante será demonstrado.
+ ..
+A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial.
+Todavia, em caso de inadmissão de recurso especial com fulcro na Súmula 7/STJ, não é suficiente mera afirmação genérica de que o apelo pretende a revaloração da prova ou breve menção à tese sustentada. Logo, caberia à parte agravante demonstrar, de forma específica e concreta, que seu requerimento não depende de reforma das premissas fáticas e probatórias adotadas no acórdão combatido e, ainda, indicar o contexto apontado no acórdão que, após revalorado, permitiria a modificação da conclusão tomada pelas instâncias originárias.
+Assim, "a jurisprudência do STJ é clara ao afirmar que a simples alegação de não incidência da Súmula 7 não é suficiente para afastá-la, sendo necessária a demonstração objetiva de que a revisão dos fatos não requer reexame probatório." (AgRg no AREsp n. 2.697.703/TO, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 4/11/2024, DJe de 6/11/2024).
+Nesse sentido, já me manifestei:
+ ..  Conquanto a revaloração de provas seja admitida pelo Superior Tribunal de Justiça em sede de recurso especial, incumbe à parte demonstrar que os fatos, tal qual descritos no acórdão recorrido, reclamam solução jurídica diversa daquela que fora adotada na origem, não bastando a mera alegação genérica. Precedentes.  ..
+(AgRg no AREsp n. 2.069.651/DF, de minha relatoria, Quinta Turma, julgado em 23/5/2023, DJe de 30/5/2023.)
+Desse modo, a ausência de impugnação adequada de todos os fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do Código de Processo Civil, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles. Nesta toada os seguintes precedentes: AgRg no REsp n. 1.958.975/PR, Quinta Turma, relator Ministro Joel Ilan Paciornik, DJe 14/11/2022 e AgRg no AREsp 1682769/SC, Quinta Turma, relator Ministro Ribeiro Dantas, DJe 23/06/2020.
+Assim, o presente agravo encontra óbice na Súmula 182 desta Corte, não superando o juízo de admissibilidade.
+Diante do expost o, não conheço do agravo em recurso especial, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
