@@ -1,0 +1,38 @@
+DECISÃO
+Examina-se agravo em recurso especial interposto por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, contra decisão que inadmitiu recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/12/2024.
+Concluso ao gabinete em: 13/03/2025.
+Ação: revisional de contrato bancário, ajuizada por MADALENA KRIK GUIL em face de CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS, na qual alega ter celebrado contrato de empréstimo pessoal junto à agravante e que, no decorrer da avença, houve excesso na cobrança de juros remuneratórios, tendo sido objeto de agravo de instrumento na origem em fase de cumprimento de sentença .
+Decisão interlocutória: rejeitou impugnação ao cumprimento de sentença, considerando que "a liquidação do julgado demandou a realização de simples cálculos aritméticos pela exequente, utilizando como base os parâmetros fixados na sentença e no acórdão." (e-STJ fl. 10).
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa (e-STJ, fl. 30):
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL EM FASE DE CUMPRIMENTO DE SENTENÇA. DISCUSSÃO ACERCA DA NECESSIDADE DE LIQUIDAÇÃO PRÉVIA AO CUMPRIMENTO DE SENTENÇA PARA APURAÇÃO DO VALOR DA CONDENAÇÃO. LIQUIDAÇÃO POR ARBITRAMENTO. DESNECESSIDADE. AUSÊNCIA DE COMPLEXIDADE TÉCNICA. DECISÃO AGRAVADA MANTIDA. Uma vez que a coisa julgada contém todas as diretrizes necessárias para apuração do valor mediante simples cálculos aritméticos, reputa-se desnecessária a liquidação da sentença por arbitramento, podendo o credor requerer desde logo o cumprimento, nos termos do art. 509, §2º, do CPC. Agravo de Instrumento não provido.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 509 do CPC, bem como dissídio jurisprudencial. Sustenta que a sentença é ilíquida e requer a liquidação por arbitramento, alegando complexidade nos cálculos e necessidade de profissional especializado para evitar enriquecimento ilícito (e-STJ fls. 61-70).
+Juízo prévio de admissibilidade: o TJ/PR inadmitiu o recurso, ensejando a interposição do presente agravo em recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas
+O TJ/PR ao analisar o recurso interposto pela parte agravante, concluiu o seguinte (e-STJ fls. 31-32):
+Conforme vem reiteradamente decidindo esta Câmara, nos casos em que a sentença determina a alteração de alguns encargos incidentes no decorrer da relação contratual, constando do título judicial parâmetros claros e precisos para apuração do valor da condenação, esta pode ser realizada pelo credor mediante meros cálculos aritméticos, com base no art. 509, §2º, do CPC, sem a necessidade da fase de liquidação de sentença.
+(..)
+Tais precedentes ilustram exatamente o caso dos presentes autos, uma vez que a sentença julgou parcialmente procedentes os pedidos formulados na revisional de contrato, nos seguintes termos (mov. 35.1):
+Posto isso, com fundamento no artigo 487, inciso I, do Código de Processo Civil, resolvo o mérito e o pedido inicial, para o fim de reduzir a taxa de juros à taxa média, bem como JULGO PROCEDENTE condenar a ré à restituição dos valores pagos a maior, de forma simples, nos termos da fundamentação.
+Considerando a impugnação à concessão da assistência judiciária gratuita, intime-se a autora para no prazo de 15 dias juntar aos autos a última declaração do imposto de renda ou, se isenta, a consulta vinculada ao CPF disponível no site da Receita Federal. Após, retornem conclusos para análise da benesse.
+Condeno a parte requerida ao pagamento das custas processuais e honorários advocatícios. Fixo os honorários em 10% (dez) sobre o valor da condenação (valores a serem repetidos à autora), na forma do artigo 85, § 2º do Código de Processo Civil, considerando a complexidade da causa e o tempo despendido com a demanda. Observe-se o contido no artigo 98, § 3º do Código de Processo Civil quanto ao benefício da assistência judiciária gratuita, se houver.
+Interposto recurso de apelação, foi prolatado o acórdão de mov. 54.2 negando provimento ao recurso do réu.
+Como se percebe, a parte dispositiva contém todas as diretrizes necessárias à apuração do valor devido mediante a realização de cálculos aritméticos, nos termos do que preceitua o §2º do art. 509 do CPC, não havendo qualquer excepcionalidade a justificar prévia liquidação de sentença por arbitramento, tais como complexidade atribuída à quantidade de contratos, antecipação do vencimento dos contratos ou ausência de conhecimentos técnicos.
+Desse modo, alterar o decidido no acórdão impugnado, no que concerce à necessidade de prévia liquidação da sentença e da quantificação do valor devido, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A comprovação da divergência jurisprudencial demanda que a parte recorrente realize uma análise comparativa detalhada entre o acórdão recorrido e o paradigma, de modo a identificar as semelhanças entre as situações de fato e a existência de interpretações jurídicas diferentes sobre mesmo dispositivo legal, além de observar os requisitos formais, consoante previsão dos arts. 1029, § 1º, do CPC e 255, §§ 1º e 3º, do RISTJ.
+No entanto, neste recurso, evidencia-se a ausência do cotejo analítico. Importante destacar que a mera transcrição das ementas dos acórdãos não é suficiente para comprovar o dissídio jurisprudencial. É necessário realizar uma comparação minuciosa entre os trechos dos acórdãos recorrido e o paradigma, explicitando como os tribunais interpretam de forma divergente, porém em situações semelhantes, o mesmo artigo de lei federal. Nesse sentido: AgInt no AREsp 2.396.088/PR, Terceira Turma, DJe de 22/11/2023, e AgInt no AREsp 2.334.899/SP, Quarta Turma, DJe de 7/12/2023.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, Quarta Turma, DJe de 15/10/2018.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários na forma do art. 85, §11, do CPC, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação revisional de contrato bancário.
+2. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ em relação ao tema que se supõe divergente também impede o conhecimento do recurso interposto pela alínea "c" do permissivo constitucional.
+5. Agravo conhecido. Recurso especial não conhecido.
