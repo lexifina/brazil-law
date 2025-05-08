@@ -1,0 +1,46 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para conceder liberdade provisória aos pacientes, impetrado em favor de Wellington Gustavo Mello da Silva e E merson da Silva Frigo, alega-se coação ilegal em relação ao acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Os pacientes encontram-se sob prisão preventiva, conforme acórdão do Tribunal de Justiça do Rio Grande do Sul (fls. 46-50), que modificou a decisão de primeiro grau, após recurso ministerial, para decretar a prisão preventiva dos réus, com fundamento nos artigos 312 e 313, inciso I, do Código de Processo Penal, alegando a presença de indícios de autoria e materialidade, além do periculum libertatis.
+A petição expõe a existência de constrangimento ilegal por causa da ausência de requisitos para a prisão cautelar, alegando-se que a decisão não respeita os princípios constitucionais da presunção de inocência, da proporcionalidade e do devido processo legal, contrariando a jurisprudência do Superior Tribunal de Justiça, que reconhece a excepcionalidade da prisão preventiva. Aponta a ausência de provas suficientes para a decretação da prisão.
+Argumenta que a gravidade do delito, por si só, não justifica a prisão preventiva, conforme entendimento pacífico do Supremo Tribunal Federal e do Superior Tribunal de Justiça.
+Assim, o pedido especifica-se na concessão da ordem para revogar as prisões preventivas, nos termos do artigo 312 do CPP, e permitir que os pacientes respondam ao processo em liberdade.
+A medida liminar requerida foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal opina pelo não conhecimento do writ.
+É o relatório. Decido.
+A Constituição da República assegura, no artigo 5º, caput, inciso LXVIII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+O acórdão impugnado apresenta a seguinte fundamentação (fls. 47-48):
+Em que pesem os fundamentos do juízo de origem, em análise aos autos, verifica-se que assiste razão ao órgão ministerial, devendo ser reformado o decisum recorrido.
+Há consideráveis indícios de autoria, tendo em vista que Ryan, uma das vítimas que estava na barbearia, referiu ao policial que atendeu à ocorrência que havia sido ameaçado de morte naquela semana pelos réus EMERSON DA SILVA FRIGO  e WELLINGTON GUSTAVO MELLO DA SILVA:  evento 1, OUT1, fl. 3
+ .. .
+Ainda, em seu depoimento na esfera policial, disse que os disparos eram direcionados principalmente ao declarante e que os atiradores vestiam roupas escuras: evento 1, OUT2, fl. 6
+ .. .
+Logo após a tentativa de homicídio na barbearia, dois indivíduos com vestes escuras foram vistos correndo, com arma em punho, em rua próxima ao estabelecimento em que ocorreu o crime. Feita a abordagem pela guarnição, foram devidamente identificados os réus EMERSON DA SILVA FRIGO  e WELLINGTON GUSTAVO MELLO DA SILVA, que ao tentar fugir dispensaram as pistolas: evento 1, OUT1, fl. 10
+ .. .
+O réu Wellington teria, então, admitido ao policial Antônio Carlos que seria o autor do fato e que seu único alvo era Ryan: evento 1, OUT1, fl. 40
+ .. .
+Veja-se que entre a tentativa de homicídio e a abordagem dos réus, em local próximo, passaram-se cerca de cinco minutos, conforme registro das ocorrências: Fls. 03 e 10 do evento 1, OUT1
+ .. .
+Por fim, posteriormente, em perícia, constatou-se que um dos estojos recolhidos foi disparado da arma apreendida: evento 1, OUT1, fl. 49
+ .. .
+Além dos indícios acima mencionados, suficientes para sustentar a prisão preventiva, está presente o periculum libertatis, considerando a gravidade do delito que é imputado aos réus, o possível contexto que envolve o fato (disputa envolvendo o tráfico de drogas), bem como a conveniência para instrução criminal.
+Conforme se observa, no acórdão foi trazida fundamentação determinante, pois a decretação das prisões preventivas foi baseada na gravidade concreta do delito - tentativa de homicídio em contexto de disputa envolvendo tráfico de drogas.
+O entendimento encontra guarida na jurisprudência desta Corte, a qual compreende que o modus operandi da conduta baseada na tentativa de homicídio em guerra por controle de traficância de drogas é fundamento válido para a decretação/manutenção da medida extrema. No mesmo sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. AGRAVO DESPROVIDO.
+1. Nos termos do art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. Na hipótese, a custódia cautelar está suficientemente motivada na garantia da ordem pública, tendo em vista que "embora primário, JOSMAR responde, atualmente, a ação penal por delito de tráfico de drogas, cuja prisão provisória foi revogada em 13/03/2023 (IPL nº 5002314-51.2023.8.21.0005), tramitando, ainda em seu desfavor, o IPL n.º 50026077120238210053, que apura delitos de homicídio qualificado, tentativa de homicídio qualificado e corrupção de menores, pelos quais restou indiciado." O Tribunal de origem destacou que "os elementos informativos indicam a apreensão de quantidade relevante e diversidade de drogas, bem ainda de apetrechos utilizados para o tráfico de drogas, o que, como visto, ocorreu em cumprimento de mandado de busca e apreensão oriundo de investigação policial, que, ao que tudo indica, apura homicídio vinculado à disputa do tráfico de drogas por facções criminosas, circunstâncias a indicar a gravidade concreta da conduta delitiva e a periculosidade dos envolvidos."
+3. É inviável a aplicação de medidas cautelares diversas da prisão, porquanto a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com a sua soltura.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 856.692/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 27/11/2023, DJe de 1/12/2023.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA. SENTENÇA DE PRONÚNCIA. DIREITO DE RECORRER EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. RÉU REINCIDENTE E COM MAUS ANTECEDENTES, QUE ESTAVA EM CUMPRIMENTO DE PENA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DESPROVIMENTO DO RECURSO.
+1. A regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+2. O exame do decreto prisional, da sentença de pronúncia e do acórdão do Tribunal de origem evidencia que o disposto no art. 413, § 3º, do Código de Processo Penal foi devidamente observado, pois foram indicados fundamentos concretos para a manutenção da prisão cautelar anteriormente imposta ao recorrente. Segundo o disposto no referido comando normativo, "o juiz decidirá, motivadamente, no caso de manutenção, revogação ou substituição da prisão ou medida restritiva de liberdade anteriormente decretada e, tratando-se de acusado solto, sobre a necessidade da decretação da prisão".
+3. Esta Corte firmou orientação de ser indispensável, por ocasião da prolação da sentença condenatória, que o magistrado fundamente, com base em dados concretos extraídos dos autos, a necessidade de manutenção ou imposição de segregação cautelar, ainda que tal fundamentação se dê mediante emprego da técnica per relationem, quando o juiz sentenciante faz expressa remissão aos motivos da decretação da prisão preventiva devido à permanência das razões que a ensejaram.
+4. No presente caso, com efeito, vê-se que a prisão foi mantida em decorrência das circunstâncias do delito praticado, quais sejam, tentativa de homicídio qualificado por motivo torpe (teria ocorrido por suposta disputa de tráfico de drog as, em razão de a vítima integrar facção criminosa rival), motivo fútil (ciúmes), meio que resultou em perigo comum (teria efetuado vários disparos de arma de fogo na praça) e emboscada (teria o acusado atraído o ofendido para o local por meio de perfil falso e o surpreendido, sendo a vítima alvejada na tentativa de fuga), tendo sido salientado que ele é reincidente, possui duas condenações com trânsito em julgado (tráfico de drogas e posse de arma de fogo de uso restrito), além de ter cometido o delito enquanto estava em cumprimento de pena, o que justifica a decretação e manutenção da prisão preventiva e a consequente negativa do direito de recorrer em liberdade.
+5. Os fundamentos adotados para a imposição da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+6. Recurso em habeas corpus a que se nega provimento.
+(RHC n. 177.983/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 13/6/2023, DJe de 16/6/2023.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
