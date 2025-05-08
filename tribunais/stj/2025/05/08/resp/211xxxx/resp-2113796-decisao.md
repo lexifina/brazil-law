@@ -1,0 +1,36 @@
+DECISÃO
+Em análise, recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra acórdão assim ementado:
+ADMINISTRATIVO E CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA NA FORMA DE VIOLAÇÃO A PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. ART. 11, DA LEI 8.429192. TENTATIVA DE ABASTECIMENTO DE VEÍCULO PARTICULAR COM REQUISIÇÃO DO MUNICÍPIO. IMPROBIDADE CONFIGURADA. PENALIDADES. PROPORCIONALIDADE E RAZOABILIDADE. SENTENÇA REFORMADA. - Suficiente e segura a prova do ato ímprobo, consistente na tentativa de utilização de requisição pública para abastecimento de veículo particular, enquadra-se a conduta no art. 11, da Lei de Improbidade Administrativa, devendo ser impostas as penalidades do art. 12, III.- Sob a ótica do Superior Tribunal de Justiça, as sanções do art. 12 da Lei nº 8.429/92 não são necessariamente cumulativas e podem ser graduadas de forma razoável e atenta às circunstâncias do caso concreto.
+V. v.p
+APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - AÇÃO CIVIL PÚBLICA - ATO DE IMPROBIDADE - TENTATIVA DE ABASTECIMENTO DE VEÍCULO PARTICULAR COM RECURSOS MUNICIPAIS - COMPROVAÇÃO - CONDENAÇÃO MANTIDA.
+1 - A conduta dos administradores públicos deve ser pautada na estrita observância aos princípios administrativistas, quais sejam, legalidade, impessoalidade, moralidade, publicidade e eficiência. É, pois, exigido o agir probo, honesto e atento, sempre pautado na ética, visando cumprir com efetividade a função pública, resguardando o interesse público.
+2- Quando verificado o desvio da conduta do administrador, que utiliza do instrumento público em favorecimento próprio ou de outrem, impera-se a aplicação das reprimendas legais, na inteligência da Lei de Improbidade nº 8.429/1992.
+3 - Provas nos autos que atestam a conduta ímproba, dolosa, descrita no ad. 11 da Lei nº8.429/1992, justificando a aplicação das sanções prescritas no art. 12 da Lei nº8.429/1992>
+Os embargos de declaração foram rejeitados, tendo em vista a ausência de vícios a serem sanados.
+Nas suas razões recursais, com fundamento no art. 105, III, a, da Constituição Federal, a parte recorrente alega violação ao art. 1.022, II, do CPC; ao art. 11, 12, III, da Lei 8.429/1992, sustentando que "as relevantes questões atinentes à insuficiência da imposição isolada de multa civil, trazidas nos aclaratórios, não foram examinadas" (fl. 288).
+Sustenta, ainda, que "ao afastar as penalidades de perda da função pública e suspensão de direitos políticos, aplicando somente a multa civil, o acórdão contrariou os arts. 11 c/c 12, caput e inciso III, da Lei 8.429192,  .. " (fl. 290).
+As partes foram intimadas para manifestarem sobre o impacto da Lei 14.230/2021 neste caso (fl. 345).
+O Ministério Público Federal opinou pelo "reconhecimento da extinção da punibilidade da conduta imputada ao recorrente, com prejudicialidade do recurso especial" (fl. 370).
+É o relatório.
+Decido.
+De início, "não se verifica a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade" (AgInt no AREsp n. 1.776.359/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 19/8/2024, DJe de 22/8/2024).
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que:
+Em consonância com a sentença, tem-se nesse passo que o réu infringiu o art. 11 da Lei 8.429192, em manifesta violação aos princípios que regem os atos da administração pública.
+ ..
+No caso em julgamento, entendo que, embora a conduta seja grave, não vislumbro necessário retirar o demandado de seu cargo público efetivo e suspender seus direitos políticos.
+A espécie revela que reprimenda financeira exercerá adequadamente o papel de resposta da ordem pública á improbidade, sem excessos.
+Não é necessário valer-se do grau máximo das penalidades previstas na Lei nº 8.429/92, de modo a adotar procedimento idêntico em face de agentes públicos que causem gravames ainda mais sérios á Administração e outros que, embora se desviem da legalidade e moralidade, o façam de forma menos abusiva.
+ ..
+Sendo assim, dou parcial provimento ao apelo para reformar parcialmente a sentença e estabelecer como penalidade a multa civil em valor equivalente a 25% da remuneração mensal recebida na época do fato, devidamente corrigida pelo IPCA-E e acrescido de juros de mora de 1% ao mês a partir da data do evento (fl. 247-250).
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos:
+Malgrado afirme que não se levou em consideração, na dosimetria da pena, a gravidade da conduta perpetrada, o cargo ocupado, o dever de probidade e as circunstâncias do agir, tais elementos foram exatamente os que nortearam o julgamento.
+Por certo, uma atenta leitura do acórdão permite observar a existência de coerente fundamentação voltada à fixação de uma sanção que fosse proporcional às exatas circunstâncias em que a ação ilícita ocorreu, ao cargo ocupado, entre outros aspectos relevantes cuja repetição se faz desnecessária.
+Em momento algum se redimensionou penalidades com base no princípio da insignificância, sendo certo que o entendimento do embargante sobre a suficiência ou não das penalidades que prevaleceram para fins de reprimir a conduta e evitar novas práticas não é determinante para a reforma do acórdão.
+Por certo, observa-se que o Ministério Público, mesmo diante de idônea fundamentação que exaure o objeto da demanda, não se conforma com a manutenção do réu no cargo e amenização das penalidades por considerar, sob sua ótica, que o ato de improbidade administrativa praticado deveria merecer maior reprovabilidade pelo colegiado.
+Mas, a partir do momento em que a turma julgadora desenvolveu argumentação em sentido oposto, não há falar em omissão porque a modificação da sanção operou-se de forma clara e transparente para as partes (fl. 276-277).
+Assim, inexiste violação ao art. 1.022, II, do CPC.
+Além disso, conforme se vê, decidir de forma contrária - para restabelecer as penalidades fixadas na sentença -, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+Ainda que assim não fosse, não seria possível atender à pretensão do ora recorrente quanto à manutenção das sanções de perda da função pública e de suspensão de direitos políticos, tendo em vista que "as penas constantes no inciso III do art. 12 da LIA, correlatas aos atos ímprobos capitulados no seu art. 11, foram também alteradas, tendo a Lei 14.230/2021 retirado das espécies de sanções aplicáveis a suspensão de direitos políticos e a perda de função pública (AgInt no AREsp n. 1.578.059/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 13/8/2024, DJe de 19/8/2024).
+Isso posto, com fundamento no art. 255, § 4º, I e II, conheço em parte do recurso especial para, nessa extensão, negar-lhe provimento.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+EMENTA
