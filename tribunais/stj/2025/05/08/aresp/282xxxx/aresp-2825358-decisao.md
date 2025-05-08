@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ARNOLDO ANTÔNIO SERPA JÚNIOR contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu o recurso especial.
+Em primeira instância, o agravante foi condenado como incurso nos arts. 148, 147 e 129, §12, na forma do art. 69, todos do Código Penal, à pena de 02 (dois) anos e 04 (quatro) meses de reclusão e 11 (onze) meses e 20 (vinte) dias de detenção, em regime inicial fechado (fls. 388-405).
+O Tribunal de origem deu parcial provimento ao recurso de apelação da defesa, de modo que os crimes imputados permaneceram inalterados, mas a pena foi reduzida para 01 (um) ano, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial fechado, e 07 (sete) meses de detenção, em regime inicial semiaberto (fls. 485-509).
+O agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal. Em suas alegações recursais, pleiteou o reconhecimento da violação ao disposto no art. 226, inciso II, do Código de Processo Penal. Ao final, requereu a absolvição do acusado (fls. 516-527).
+O recurso especial foi inadmitido na origem, em razão do óbice previsto na Súmula n.º 7, STJ (fls. 542-543).
+Foi interposto o presente agravo em recurso especial, no qual reiterou as razões do recurso especial sobre a violação ao procedimento de reconhecimento de pessoas (fls. 546-558).
+O Ministério Público Federal apresentou parecer pelo não provimento do agravo em recurso especial (fls. 582-591).
+É  o  relatório. DECIDO.
+Da minuciosa análise das razões recursais, conclui-se que a parte agravante deixou de apresentar argumentos específicos e detalhados contra a decisão que inadmitiu o recurso especial. Nesse sentido, não observou o teor da Súmula n.º 182, STJ, cuja aplicação se dá analogicamente ao caso em tela.
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+O princípio da dialeticidade recursal exige, portanto, que haja confrontação clara, concreta e ampla de todos os fundamentos da decisão. Nesse sentido, a jurisprudência consolidada deste Tribunal:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. SÚMULA N. 182/STJ. 1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ. 2. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada. 3. a interposição descabida de sucessivos recursos (AgRg no EARESP NO RCD nos EDcl no AgRg nos EDcl no AgRg no ARESP N. 1.870.554 - SP) configura abuso do direito de recorrer, autorizando a baixa imediata dos autos. Agravo regimental não conhecido com determinação de certificação do trânsito em julgado e imediata baixa dos autos.
+(STJ - AgRg nos EAREsp: 1870554 SP 2021/0105834-9, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 07/03/2023, CE - CORTE ESPECIAL, Data de Publicação: DJe 14/03/2023)
+No caso em tela, o agravante não realizou confrontamento com a decisão do Tribunal de origem que inadmitiu o recurso especial pelo óbice da Súmula n.º 7, STJ. O que observo das suas razões é mera reiteração dos fundamentos que constam no recurso especial.
+Ao não se desincumbir da obrigação de rebater os fundamentos da decisão do Tribunal a quo e de demonstrar como o óbice poderia ser superado, o agravante incorreu em violação à Súmula n.º 182, STJ.
+Ante o exposto, não conheço do agravo em recurso especial, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
