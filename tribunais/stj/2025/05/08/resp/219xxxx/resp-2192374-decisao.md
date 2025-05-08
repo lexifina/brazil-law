@@ -1,0 +1,37 @@
+DECISÃO
+A controvérsia foi devidamente sintetizada no parecer ministerial acostado às e-STJ fls. 157/162, cujo relatório ora transcrevo:
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo 4º Grupo Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul que acolheu os embargos infringentes interpostos por JENIFER DA ROSA JARDIM, concedendo a comutação, com ementa nos seguintes termos (fl. 110):
+EMBARGOS INFRINGENTES. AGRAVO EM EXECUÇÃO. COMUTAÇÃO DA PENA.
+Obsta a concessão da comutação a aplicação da sanção, em virtude de infração disciplinar cometida nos doze meses que antederam o dia 25 de dezembro de 2003, resultando forçosa a conclusão de que, inexistente, decorrido o período antes referido, imposição de penalidade - adimplida a condição imposta -, a concessão do benefício é medida que se impõe.
+Mais, ainda que se considerasse obstar a concessão do benefício a aplicação da sanção em data posterior àquela da edição do Decreto nº 11.846, de 2023 seria necessário que se desse a imposição da penalidade antes de concluído o procedimento de que trata o artigo 10, e parágrafos, do diploma precitado.
+Comutação concedida.
+EMBARGOS INFRINGENTES ACOLHIDOS. (Grifos no original)
+Adveio, então, o presente recurso especial, acostado às fls. 121/127, em cujas razões o Recorrente sustenta negativa de vigência ao artigo 6º do Decreto Presidencial nº 11.846/2023, considerando que referido dispositivo legal "prevê a concessão de comutação desde que o apenado não cometa falta grave dentro do período de doze meses anteriores à publicação do Decreto, que ocorreu em 22/12/2023", e que "Não há a exigência que a homologação ou aplicação da sanção disciplinar tenham ocorrido também dentro desse prazo de doze".
+Apresentadas as contrarrazões às fls. 133/138 e proferido juízo de admissibilidade às fls. 141/143, vieram os autos com vista ao Ministério Público Federal.
+Ao final do parecer , o Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+É o relatório.
+Decido.
+Cinge-se a controvérsia a saber se é possível a concessão do indulto previsto no Decreto n. 11.846/2023, cujo art. 6º assim prevê:
+Art. 6º A declaração do indulto e da comutação de penas prevista neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei nº 7.210, de 1984 - Lei de Execução Penal, cometida nos doze meses de cumprimento da pena contados retroativamente a 25 de dezembro de 2023.
+No caso dos autos, o Tribunal de origem expôs os seguintes fundamentos para acolher os embargos infringentes interpostos pela defesa e manter a comutação da pena concedida à sentenciada pelo Juízo da execução (e-STJ fl. 108):
+Vê-se que a regra posta no artigo 6º do Decreto nº 11.846/2023 condiciona a concessão do indulto e da comutação à inexistência de aplicação de sanção, reconhecida pelo juízo da execução, em razão de "falta disciplinar de natureza grave, cometida nos doze meses de cumprimento da pena contados retroativamente a 25 de dezembro de 2023".
+Ora, o que obsta a concessão da comutação é a aplicação da sanção, em virtude de infração disciplinar cometida nos doze meses meses que antederam a data precitada, resultando forçosa a conclusão de que, inexistente, ao tempo da publicação do Decreto presidencial, a imposição de penalidade - adimplida a condição imposta -, a concessão do benefício é medida que se impõe.
+Mais, ainda que se considerasse obstar a concessão do benefício a aplicação da sanção em data posterior àquela da edição do decreto presidencial, seria necessário que se desse a imposição da penalidade antes de concluído o procedimento de que trata o artigo 10, e parágrafos, do Decreto nº 11.846, de 2023, o que não ocorreu no caso presente.
+Oportuno salientar que aquela norma se destina, também, ao indulto, com o que, observado o entendimento expresso no voto majoritário, poderia ser, na hipótese de, eventualmente, não ocorrer a aplicação da sanção disciplinar, estendida, indevidamente, a prisão do apenado.
+Verifica-se que, não obstante a prática de falta disciplinar de natureza grave pela ora recorrida no curso da execução, não houve a sua devida homologação no período de doze meses anteriores ao dia 25/12/2023, o que impede que se negue o benefício da comutação pleiteado, conforme interpretação do requisito previsto no art. 6º do Decreto n. 11.846/2023.
+Nesse sentido, cito precedentes análogos em decretos de indulto com redação idêntica:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO, NÃO HOMOLOGADA ATÉ A DECISÃO QUE EXAMINOU O PEDIDO DE CONCESSÃO DO BENEFÍCIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 5º do Decreto n. 8.615/2015, "a declaração do indulto e da comutação de penas previstos neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei de Execução Penal, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2015".
+2. Na hipótese, não obstante a prática de novo crime pelo agravado no curso da execução, não houve a homologação da falta grave até a decisão que indeferiu o benefício do indulto, o que impede a negativa do benefício, pela utilização de requisito não constante do Decreto n. 8.615/2015 para indeferir a benesse requerida. Precedente.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 465.446/PR, de minha relatoria, unânime, Sexta Turma, julgado em 27/10/2020, REPDJe de 12/11/2020, DJe de 03/11/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDULTO. DECRETO PRESIDENCIAL 8.380/2014. FALTA GRAVE PRATICADA DURANTE O PERÍODO IMPEDITIVO PREVISTO NA NORMA (12 MESES ANTERIORES Á PUBLICAÇÃO DO DECRETO). INFRAÇÃO NÃO HOMOLOGADA ATÉ A DECISÃO QUE EXAMINOU O PEDIDO DE CONCESSÃO DO BENEFÍCIO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A falta grave não impede a obtenção do indulto, consoante disposto no art. 52 da LEP, exceto se praticada no período previsto no decreto presidencial e homologada até a decisão que examina o pedido de concessão do benefício.
+2. Embora se admita, em algumas hipóteses, que a homologação da falta grave se dê após a publicação do Decreto Presidencial, desde que aquela tenha sido praticada durante o período que antecede os 12 meses da sua publicação, em qualquer situação referida homologação deve ocorrer antes da decisão denegatória do benefício, o que, ao que tudo indica, não se efetivou no caso em apreço.
+3. Agravo Regimental improvido.
+(AgRg no HC 342.454/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/03/2017, DJe 13/03/2017, grifei)
+Com efeito, a falta grave não impede o deferimento do indulto ou da comutação, exceto se praticada e homologada, com a imposição de sanção, no período previsto no decreto presidencial, o que não ocorreu no caso concreto.
+Portanto, a Corte estadual interpretou corretamente o referido dispositivo, de maneira que não prospera a insurgência ministerial.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+ EMENTA
