@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por CLAUDIO JOSE PEREIRA DA SILVA contra decisão que inadmitiu o seu recurso especial manejado em face de acórdão do TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO, que negou provimento ao apelo defensivo, mantendo a condenação do acusado à pena de 6 (seis) meses de detenção, em regime inicial aberto, como incurso nas sanções dos arts. 265 e 266 do Código Penal Militar, em acórdão assim ementado (e-STJ fls. 472-473):
+Apelação Criminal. Extravio culposo de armamento. Artigo 265 c. c. o artigo 266, ambos do CPM. Não acolhimento da tese da defesa pela atipicidade da conduta pelas munições de armas de fogo não estarem abrangidas pelo tipo penal. Condenação mantida. Negado provimento ao apelo.
+1. A expressão prevista no artigo 265 do CPM "equipamento de navio ou de aeronave ou de engenho de guerra motomecanizado" refere-se apenas ao termo "peças", não a combustível, armamentos e munições. Assim, as munições de arma de fogo, pertencentes às polícias militares e às Forças Armadas são contempladas pelo crime de extravio de material bélico, inclusive na forma culposa.
+2. O conjunto probatório dos autos demonstrou que houve o extravio de 28 (vinte e oito) munições por parte do apelante, o qual foi localizado desorientado em condomínio onde, justamente, havia denúncia de disparo de arma de fogo na noite dos fatos. A perícia na arma de fogo comprova que houve disparo recente pela arma de fogo. Demonstrada a culpa do apelante, que deixou de atender ao dever objetivo de cuidado na guarda do material bélico.
+3. Negado provimento ao apelo defensivo para manutenção do édito condenatório.
+O agravante sustenta a insubsistência dos óbices apontados na decisão de inadmissibilidade, requerendo o conhecimento e provimento do recurso especial interposto (e-STJ fls. 512-520).
+Contraminuta apresentada (e-STJ fls. 524-525).
+O Ministério Público Federal manifestou-se "pelo conhecimento e pelo improvimento do presente agravo" (e-STJ fls. 544-546).
+É o relatório.
+Decido.
+A conclusão da instância de origem no sentido da inadmissibilidade do recurso deve ser mantida (e-STJ fls. 503-505).
+A questão foi bem analisada no parecer do Ministério Público Federal, cujos fundamentos adoto integralmente como razões de decidir (e-STJ fls. 545-546):
+O presente agravo foi interposto tempestivamente e apresenta-se formalmente adequado.
+No mérito, não merecem prosperar as razões expendidas pelo Agravante.
+No recurso especial ajuizado (fls. 489/498), pleiteou o então Recorrente a absolvição do acusado, por atipicidade da conduta. Sustentou, para tanto, que "as munições, pertencentes à Policial Militar do Estado de São Paulo, força auxiliar das Forças Armadas do Brasil, não possui a natureza jurídica de armamento para os fins dos artigos 265 e 266, do CPM" (fl. 496). Afirmou, nesse passo, que tais bens só "poderão ser compreendidos como objeto do crime em destaque se relacionados ao patrimônio das Forças Armadas" (fl. 498).
+Todavia, esse não é o entendimento desse Superior Tribunal de Justiça.
+Nos autos do AREsp nº 2.345.095/SP, analisando tema semelhante, essa Colenda Corte assim se manifestou:
+(..) O legislador, ao instituir o delito previsto no artigo 265,do Código Penal Militar, bem como sua forma culposa (art. 266, do mesmo Código), trouxe as elementares do tipo: "munição" e "armamento". Visou o legislador proteger não somente aqueles bens patrimoniais especificados nos dispositivos penais, mas, sobretudo, garantir um tratamento singular em relação à posse e ao uso de armas e munições em carga dos agentes estatais, razão pela qual não é possível o acolhimento do recurso defensivo na parte em que visa descaracterizar o elemento objetivo do tipo, ao afirmar que a arma fornecida pelo Estado para a realização de seu mister não teria a natureza de "armamento", tal qual disposto no dispositivo penal. A interpretação restritiva do tipo penal, e a alegação de que tal dispositivo seria aplicável somente em crimes de competência da Justiça Militar da União, não se sustenta, sendo passíveis de punição também os policiais militares estaduais nas hipóteses de extravio de armas de fogo, munições e combustíveis (Rel. Min. Joel Ilan Paciornik, Quinta Turma, DJe de 12.12.2023).
+Assim, achando-se o acórdão recorrido em consonância com o entendimento jurisprudencial externado por esse STJ, o recurso especial não merece ser conhecido, sendo aplicável à hipótese o verbete nº 83 da Súmula dessa Colenda Corte.
+Por fim, registro que, nos termos do art. 932, III, do Código de Processo Civil, incumbe monocraticamente ao relator "não conhecer de recurso inadmissível", hipótese amparada também pelo art. 253, parágrafo único, II, a, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
