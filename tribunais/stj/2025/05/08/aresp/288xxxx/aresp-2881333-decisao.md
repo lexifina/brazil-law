@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TATIANE CONTARINI DE AMORIM contra a decisão que inadmitiu o recurso especial com fundamento na necessidade de reexame fático-probatório, pela incidência da Súmula n. 7 do STJ (fls. 856-859).
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos. Na contraminuta, a parte agravada aduz que o recurso não deve ser conhecido, pois busca o reexame de provas, o que é vedado pela Súmula n. 7 do STJ, e requer a aplicação de multa (fls. 862-865).
+O recurso especial foi interposto, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro em agravo de instrumento nos autos de ação indenizatória.
+O julgado foi assim ementado (fls. 443-444):
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. IMPACTO CAUSADO À ATIVIDADE PESQUEIRA REALIZADA NA BAÍA DE SEPETIBA, EM RAZÃO DO VAZAMENTO DE GRANDES PROPORÇÕES DE FINOS DE CARVÃO, RESÍDUO DE MATERIAL UTILIZADO PARA PREPARAÇÃO DE AÇO PELA EMPRESA AGRAVADA, QUE ATINGIU O CANAL SÃO FRANCISCO, LOCALIZADO PRÓXIMO ÀS SUAS INSTALAÇÕES, EM MARÇO DE 2021. DECISÃO QUE INDEFERIU A INVERSÃO DO ÔNUS DA PROVA QUANTO À PROFISSÃO DE PESCADOR. COMPETE À PARTE AUTORA COMPROVAR A ALEGAÇÃO DE PESCADOR PROFISSIONAL ATIVO E REGISTRADO À ÉPOCA DOS FATOS, CONDIÇÃO MÍNIMA PARA QUE OS DANOS ALEGADOS POSSAM VIR A SER RECONHECIDOS. ART. 373, I, DO CPC. TEMA 680 DO STJ. PRECEDENTES DO TJRJ. RECURSO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração opostos foram decididos nestes termos (fls. 497-498):
+EMBARGOS DE DECLARAÇÃO CONTRA ACÓRDÃO QUE NEGOU PROVIMENTO A AGRAVO DE INSTRUMENTO. INCONFORMISMO DA PARTE QUE NÃO ESTÁ DE ACORDO COM A FINALIDADE INTEGRATIVO-RETIFICADORA DESTE RECURSO. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL PASSÍVEL DE ENSEJAR A DECLARAÇÃO DO JULGADO OU SUA REVISÃO MEDIANTE EMBARGOS DE DECLARAÇÃO. NÍTIDO INTUITO DE REEXAME DA MATÉRIA JÁ JULGADA. INOCORRÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC. REJEIÇÃO DOS EMBARGOS.
+No recurso especial, a parte aponta, além de divergência jurisprudencial, violação dos seguintes artigos:
+a) 1.022, II, do CPC, porquanto o acórdão recorrido deixou de analisar as omissões apontadas em relação à necessária concessão da inversão do ônus da prova, eis que se trata de danos ambientais e o reconhecimento da condição de pescador;
+b) 3º, 4º, 14 da Lei n. 6.938/1981, visto que a responsabilidade civil por dano ambiental independe de culpa, devendo-se aplicar de plano a teoria do risco integral;
+c) 6º, VIII, c/c 17 do CDC, pois a inversão do ônus da prova aplica-se às ações que versem sobre direito ambiental;
+d) 357, III, 373 § 1º do CPC, porque o momento processual adequado sobre o ônus da prova é o despacho saneador e, ao final, da Lei n. 8.078/1990, visto que as normas de proteção e defesa do consumidor são de ordem pública e interesse social.
+Afirma que o acórdão recorrido não aplicou a inversão do ônus da prova em casos de danos ambientais, conforme a Súmula n. 618 do STJ e o Tema n. 680 do STJ.
+Requer o provimento do recurso para que se reforme o acórdão recorrido, reconhecendo a aplicação da inversão do ônus da prova em relação a todos os pontos da lide, por ser matéria de ordem pública e a condição de pescador.
+Nas contrarrazões, a parte recorrida aduz que o recurso não deve ser conhecido, pois busca o reexame de provas, o que é vedado pela Súmula n. 7 do STJ, e requer a aplicação de multa (fls. 558-559).
+É o relatório. Decido.
+I - Violação do art. 1.022 do CPC
+Afasta-se a alegada ofensa ao art. 1.022 do CPC, porquanto a Corte de origem examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito, confira-se o seguinte trecho do acórdão que rejeitou os embargos de declaração (fls. 508-509):
+No que toca à alegada extensão do pedido de inversão do ônus da prova "no que tange à comprovação da ocorrência do suposto acidente ambiental", releva consignar que não foi objeto do pedido formulado na inicial do agravo de instrumento, expressamente delimitado ao pleitear "No mérito, seja reformada a decisão agravada, para que se reconheça a inversão do ônus da prova quanto a condição de pescador;" (indexador 002).
+Trata-se, pois, de questão suscitada somente nos embargos de declaração, de modo que é vedada sua apreciação neste momento processual, em virtude da ocorrência da preclusão consumativa, configurando-se inovação recursal.
+Nada obstante, restou expressamente consignado no acórdão embargado que a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral, na medida em que o fato de desenvolver atividade que coloque em risco o meio ambiente implica a responsabilização do agente por eventuais danos dela decorrentes, independentemente de caso fortuito, força maior, fato de terceiro ou culpa, bastando a comprovação do dano e o nexo de causalidade (art. 14, §1º, da Lei 6.938/81 e art. 225, §§ 2º e 3º, da CRFB), tratando-se de inversão do ônus da prova ope legis.
+Por fim, quanto à alegada existência de comprovação da condição de pescador nos autos originários, releva consignar o seguinte trecho da decisão agravada: "Se, como declarado na petição de interposição do recurso, o embargante já cumpriu o ônus de promover tal comprovação, desnecessário atender ao prazo facultado para juntada de documentos."
+Portanto, é forçoso concluir que ainda não houve apreciação pelo juízo primevo da documentação apresentada pelo agravante, de modo que a aludida análise não pode ser realizada em segundo grau de jurisdição, sob pena de supressão de instância.
+Não há de se falar, portanto, em negativa de prestação jurisdicional, senão em discordância com o teor do julgamento.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+II - Quanto à responsabilidade civil decorrente de degradação ambiental e quanto ao ônus da prova
+Conforme a jurisprudência desta Corte, tratando-se de ação indenizatória por dano ambiental, a responsabilidade pelos danos causados é objetiva, pois fundada na teoria do risco integral.
+Assim, cabível a inversão do ônus da prova.
+Veja-se: AgInt no AREsp n. 2.542.580/BA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 2/9/2024, DJe de 5/9/2024
+Contudo, esta Corte também possui entendimento do Superior Tribunal de Justiça de que a inversão do ônus da prova não exime a parte autora da prova mínima sobre os fatos constitutivos do seu direito.
+Nesse sentido: AgInt no AREsp n. 2.483.185/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 11/11/2024, DJEN de 29/11/2024.
+No caso, o Tribunal a quo concluiu que cabe a parte recorrente (autora) fazer prova quanto a sua qualidade de pescador da região afetada.
+Destacou que, nos termos da Súmula n. 618 do STJ, a inversão do ônus da prova que se aplica às ações de degradação ambiental possibilita transferir ao suposto degradador o encargo de provas que a conduta por ele praticada não ocasionou riscos ao meio ambiente, mas não dispensa a comprovação do exercício da atividade de pesca.
+Ademais, fez referência à aplicação do Tema n. 680 do STJ que estabelece o seguinte: "Para demonstração da legitimidade para vindicar indenização por dano ambiental que resultou na redução da pesca na área atingida, o registro de pescador profissional e a habilitação ao benefício do seguro-desemprego, durante o período de defeso, somados a outros elementos de prova que permitam o convencimento do magistrado acerca do exercício dessa atividade, são idôneos à sua comprovação".
+Logo, constata-se que o Tribunal de origem, ao manter a decisão a quo que atribuiu o ônus da prova quanto à condição de pescador à parte demandante, decidiu em conformidade com a jurisprudência do STJ, o que atrai a incidência da Súmula n. 83 do STJ.
+III - Conclusão
+Ante o exposto, nego provimento ao agravo em recurso especial .
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
