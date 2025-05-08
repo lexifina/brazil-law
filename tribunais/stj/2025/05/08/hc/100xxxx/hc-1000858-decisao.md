@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ANTONIO ATENOR NOGUEIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ
+Extrai-se dos autos que o paciente foi pronunciado e, posteriormente, condenado pelo Tribunal do Júri à pena de 12 anos de reclusão no regime fechado, como incurso nas sanções do art. 121, caput e § 2º, II, do Código Penal (e-STJ fls. 28/29).
+No presente writ, alega o impetrante que "tanto a decisão de pronúncia proferida pelo juízo do primeiro grau, quanto o acórdão ora combatido basearam-se tão somente em testemunhos indiretos para confirmar a pronúncia do paciente" (e-STJ fl. 2).
+Nesse sentido, argumenta que "o acervo probatório produzido pela acusação é composto apenas por testemunhas de ouvir dizer, que não presenciaram os fatos e não sabem dizer com certeza se o acusado tive alguma participação no crime ora investigado, tendo a sua pronúncia se baseado apenas em conjecturas" (e-STJ fl. 5), afirmando que "ambas as turmas do STJ entendem ser inadmissível a submissão do réu ao julgamento perante ao Conselho Popular mediante sentença de pronúncia baseada em depoimentos indrietos, como é o caso em tela" (e-STJ fl. 11).
+Requer, liminarmente, "a revogação da prisão preventiva imposta no processo referenciado, bem como a suspensão do processo até o julgamento do mérito da presente impetração" (e-STJ fl. 12). No mérito, pugna pela concessão da ordem para despronunciar o paciente.
+É o relatório. Decido.
+Este writ não tem condições de prosseguir.
+Como é cediço, "a ação de habeas corpus exige a apresentação de prova pré-constituída, incumbindo ao impetrante instruí-la suficiente e adequadamente, sob pena de inviabilizar a apreciação do constrangimento ilegal alegado" (AgRg no HC n. 799.608/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+Diante disso, o impetrante deve demonstrar, de maneira inequívoca, por meio de documentos, a existência do constrangimento ilegal imposto ao paciente, situação que não ocorre na espécie, porquanto a defesa juntou apenas a sentença penal condenatória (e-STJ fls. 28/29) e o acórdão que não conheceu do agravo interno interposto contra decisão que inadmitiu o recurso especial (e-STJ fls. 17/27), que não tratam da matéria alegada na inicial do mandamus.
+Nesse aspecto, "Nos termos do art. 105, inciso I, alínea "c" d a Constituição Federal, não é da competência do Superior Tribunal de Justiça o processamento e julgamento de habeas corpus impetrado contra ato de juiz de primeiro grau" (AgRg no HC n. 950.879/MS, de minha relatoria, Quinta Turma, julgado em 27/11/2024, DJEN de 3/12/2024.).
+Ademais, "Não se presta o habeas corpus para superar óbices verificados no exercício do juízo de admissibilidade de recurso especial ou extraordinário" (AgRg no HC n. 720.926/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/8/2022, DJe de 22/8/2022).
+Desse modo, "A deficiência na instrução do habeas corpus, sem a apresentação do acórdão impugnado, impossibilitou a exata compreensão da controvérsia, inviabilizando o exame do mérito do writ" (AgRg no HC n. 868.618/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 12/3/2025, DJEN de 19/3/2025.).
+Pelo exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
