@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MAIK KAIQUE RODRIGUES DE SOUZA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0004474-89.2025.8.26.0502).
+Depreende-se dos autos que, em razão da superveniência de nova condenação imposta ao paciente, houve a reconversão da pena restritiva de direitos em privativa de liberdade, tendo sido estabelecido o regime fechado.
+O Tribunal de origem manteve a decisão ao julgar o recurso interposto pela defesa. O acórdão está assim ementado (e-STJ fl. 51):
+DIREITO PENAL. AGRAVO DE EXECUÇÃO PENAL. CONVERSÃO DE PENAS. AGRAVO DESPROVIDO.
+I. Caso em exame
+1. Recurso de agravo de execução penal interposto por Maik Kaique Rodrigues de Souza da decisão que converteu penas restritivas de direitos em privativa de liberdade, procedendo à unificação das penas e estabelecendo o regime prisional fechado para início do cumprimento da pena.
+II. Questão em discussão
+2. A questão em discussão consiste em determinar se é possível o cumprimento simultâneo de penas restritivas de direitos e privativas de liberdade, considerando condenação posterior em regime fechado. III. Razões de decidir
+3. O artigo 76 do Código Penal não se aplica, pois refere-se a penas privativas de liberdade de espécies diversas com regimes incompatíveis.
+4. O artigo 44, § 5º, do Código Penal permite a conversão das penas restritivas de direitos em privativa de liberdade, quando há condenação posterior em regime fechado, impossibilitando o cumprimento simultâneo.
+IV. Dispositivo e tese
+5. Agravo desprovido.
+6. Tese de julgamento: "1. Necessidade de conversão de penas restritivas de direitos em privativa de liberdade quando há condenação posterior em regime fechado. 2. Impossibilidade de cumprimento simultâneo das penas em regimes incompatíveis."
+Alega a defesa, na presente impetração, que a decisão impugnada unificou indevidamente as penas, contrariando o entendimento jurisprudencial que veda a unificação automática de penas restritivas de direitos com penas privativas de liberdade quando a condenação por pena alternativa é superveniente.
+Pondera que a execução penal deve seguir a ordem de gravidade das penas, cumprindo-se primeiramente as penas mais graves, conforme disposto nos arts. 69 e 76 do Código Penal e 681 do Código de Processo Penal .
+Requer a concessão da ordem para que seja reconhecido ao paciente o direito ao cumprimento sucessivo de penas, nos termos do art. 76 do CP.
+É, em síntese, o relatório.
+Decido.
+No caso dos autos, o Tribunal de origem negou provimento ao agravo em execução interposto pela defesa e, assim, manteve a decisão de primeiro grau com a seguinte fundamentação (e-STJ fls. 52/54 ):
+Conforme se depreende dos autos, o agravante teve suas penas restritivas de direitos, impostas nos Processos nº 1500236-84.2024.8.26.0599 e nº 1500270-59.2024.8.26.0599, convertidas em pena privativa de liberdade, devido à condenação posterior ao cumprimento de pena em regime fechado, no Processo nº 1501469-19.2024.8.26.0599.
+E, ao contrário do alegado nas razões recursais, o artigo 76 do Código Penal não se aplica ao caso em tela, pois se refere às hipóteses em que há condenação a penas privativas de liberdade de espécies diversas, com regimes prisionais iniciais incompatíveis.
+Já o artigo 44, § 5º, do Código Penal estabelece que, sobrevindo condenação à pena privativa de liberdade por outro crime, o Juízo da Execução Criminal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior.
+Sendo assim, está evidente que o cumprimento da pena privativa de liberdade imposta na condenação posterior impossibilita o cumprimento da pena restritiva de direitos, uma vez que o regime prisional fixado é o inicial fechado, nos termos dos artigos 111 e 181, § 1º, letra "e", da Lei de Execução Penal, como corretamente decidido pelo Juízo de origem.
+ ..
+No caso dos autos, como visto acima, há total incompatibilidade no cumprimento dos dois tipos de penas, já que o agravante foi condenado posteriormente ao cumprimento de pena privativa de liberdade, sem substituição, em regime fechado.
+Correta, em suma, a decisão recorrida, que merece subsistir integralmente.
+Nessas circunstâncias, verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem. Isso, porque o entendimento a que chegaram as instâncias ordinárias dissente da orientação jurisprudencial da Terceira Seção desta Corte Superior, adotada a partir do julgamento do REsp n. 1.925.861/SP, relatora a Ministra Laurita Vaz, sob o rito de recurso repetitivo, a qual veio a firmar a seguinte tese: "Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de liberdade, ressalvada a possibilidade de cumprimento simultâneo aos apenados em regime aberto e vedada a unificação automática nos casos em que a condenação substituída por pena alternativa é superveniente" (DJe de 28/6/2022, grifei).
+A propósito, extrai-se do voto condutor do acórdão acima mencionado a seguinte fundamentação:
+O art. 44, § 5º, do Código Penal trata de hipótese de conversão facultativa da pena alternativa, ao dispor que "sobrevindo condenação a pena privativa de liberdade, por outro, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior".
+Já a Lei de Execuções Penais prevê no art. 181 a hipótese de conversão das penas de prestação de serviços à comunidade e limitação de fim de semana em pena corporal, quando o condenado sofrer condenação "por outro crime à pena privativa de liberdade, cuja execução não tenha sido suspensa".
+Ou seja, a legislação prevê que a conversão será possível quando o apenado em cumprimento de pena restritiva de direitos vem a ser condenado à pena privativa de liberdade.
+Entretanto, o caso dos autos versa sobre hipótese contrária, isto é, o réu já estava em cumprimento de pena privativa de liberdade quando sobreveio nova condenação em que a pena corporal foi substituída por pena alternativa.
+Em tais casos, a meu ver, a conversão não conta com o indispensável amparo legal e ainda ofende a coisa julgada, tendo em vista que o benefício foi concedido em sentença definitiva e somente comporta conversão nas situações expressamente previstas em lei, em especial no art. 44, §§ 4.º e 5.º, do Código Penal.
+Note-se, outrossim, que o art. 111 da Lei de Execução Penal em nenhum momento trata de conversão de pena restritiva de direitos em privativa de liberdade, dispondo apenas que as penas de condenações diversas devem ser somadas para fins de determinação do regime prisional.
+Logo, ao mencionar a finalidade desse somatório para definição do regime prisional, a lei está tratando de penas privativas de liberdade, ou seja, de condenações que já se encontram impingidas sob o formato da pena corporal. Não é possível extrair do aludido dispositivo a imposição de conversão da pena alternativa, que, conforme apontado, somente pode ocorrer conforme o itinerário legal próprio dessa modalidade de pena.
+Não é demasiado acrescer que a pena restritiva de direitos serve como uma alternativa ao cárcere. Portanto, se o condenado fez jus ao benefício, não vislumbro justiça em se agravar a sua situação, ampliando o alcance interpretativo do § 5.º do art. 44 do Código Penal em seu prejuízo, notadamente à vista da possibilidade de cumprimento sucessivo das penas. (Grifei.)
+Nessa linha de raciocínio, quando o apenado cumpre pena privativa de liberdade e sobrevém nova sentença condenatória na qual o magistrado substitui a pena corporal por restritiva de direitos, não há previsão legal para usurpar o benefício de forma automática sob a justificativa de se unificar a pena.
+Interpretação diversa, como a firmada pelas instâncias originárias, agrava a situação do condenado sem previsão legal para respaldar tal providência. A benesse conferida na sentença definitiva superveniente somente comporta conversão nas situações expressamente previstas em lei, em especial no art. 44, §§ 4º e 5º, do CP.
+Assim, nos termos do que prevê o art. 76 do CP, tem-se que deve o paciente cumprir a pena privativa de liberdade à qual já estava submetido para, em seguida, ou quando se mostrar compatível, cumprir a pena restritiva de direitos imposta em momento posterior.
+Ante o exposto, concedo a ordem para afastar a conversão da pena restritiva de direitos em privativa de liberdade, a fim de que seja iniciado seu cumprimento quando for compatível com a pena corporal anteriormente imposta.
+Publique-se. Intimem-se.
+EMENTA
