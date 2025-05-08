@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por VALMIR FARIAS contra decisão do tribunal de origem que não admitiu o recurso especial.
+O recorrente foi condenado à pena de 13 (treze) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, bem como ao pagamento de 30 (trinta) dias-multa, por infração ao art. 157, §2º, II, e §2º-A, I, do Código Penal.
+Interposto o recurso de apelação pela defesa, houve o desprovimento (fls. 349-358).
+A defesa interpôs recurso especial com fundamento no art. 105, inciso III, "a", da Constituição, para alegar afronta aos arts. 155 e 386, VII, todos do Código de Processo Penal (fls. 365-380).
+O tribunal de justiça não admitiu o recurso especial por incidência das Súmulas n. 282 e 356 do STF e Súmula n. 7 do STJ (fls. 396-404), de modo que sobreveio o agravo.
+O Ministério Público manifestou-se pelo não conhecimento do recurso (fls. 463-464).
+É o relatório. DECIDO.
+De início, sobre a intempestividade afirmada no parecer ministerial, observo que o recurso em questão não é agravo regimental, o qual, no âmbito criminal, realmente tem o prazo de 5 dias. Trata-se de agravo em recurso especial, havendo entendimento do STJ no sentido de ter o prazo de 15 dias corridos (STJ, Sexta Turma, AgRg no AREsp 2476543/SP, Relator Ministro Teodoro Silva Santos, Data de Julgamento: 06/02/2024, Data de Publicação: DJe 14/02/2024). Portanto, é tempestivo o recurso.
+A controvérsia dos autos consiste em verificar se o tribunal de origem acertou ao manter a condenação do agravante.
+Em relação à tese do recurso especial de que a condenação decorreu apenas de provas produzidas no inquérito, verifica-se a correção da decisão de origem, uma vez que esta matéria não foi prequestionada. Nada sobre isso foi referido no acórdão, havendo, ao contrário, afirmação expressa de que a prova produzida em juízo confirmou os elementos de autoria.
+Logo, sobre este tema, não é possível conhecer do recurso especial, nos termos das Súmulas n. 282 e 356, do STF e Súmula n. 211 do STJ. Neste sentido: EDcl no REsp n. 2.040.075/MG, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Sexta Turma, julgado em 20/2/2024, DJe de 23/2/2024.
+Em relação à matéria restante, de alegação de ausência de provas suficientes para a condenação, percebe-se que o recurso defensivo não é coerente com o acórdão. A afirmação em recurso especial é a de que a condenação se baseou apenas em suposições (de que o acusado, sendo conhecido por praticar delitos patrimoniais, estava em saída temporária da prisão na data do cometimento do crime) e testemunhos "de ouvir dizer".
+No entanto, o acórdão afirmou a existência de provas no inquérito e em juízo para o decreto condenatório. Dentre outras, é possível apontar, além dos elementos do inquérito referidos no acórdão: i) pouco antes da data dos fatos, uma testemunha fora convidada pelo acusado para participar de um crime; ii) o depoimento policial de que identificaram a motocicleta utilizada no roubo, e que o seu anterior dono, devidamente identificado, afirmou que vendera pouco tempo antes para o acusado; iii) o depoimento policial de que identificaram a arma de fogo utilizada no roubo e que fora alugada no dia anterior pelo acusado, conforme afirmou quem teria alugado a arma de fogo; iv) o porte físico do assaltante, visto no vídeo, é compatível com o do acusado.
+Verifica-se, portanto, que as afirmações fáticas do recurso não se coadunam com aquelas do acórdão, ao que não há admissibilidade do recurso especial em razão da incidência da Súmula 7 do STJ. Somente com o reexame da matéria fático-probatória se poderia constatar a inexistência das afirmações fáticas do acórdão.
+Sobre o tema, tem-se a jurisprudência consolidada desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ABSOLVIÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 593 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+1. Para entender-se pela absolvição do recorrente, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência que, conforme cediço, é incabível na via do recurso especial, consoante o enunciado na Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental parcialmente conhecido e não provido. (AgRg nos EDcl no AREsp n. 1.957.232/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 28/2/2023, DJe de 3/3/2023).
+Não cabe ao exame do recurso especial fazer revaloração probatória fora do que é posto na peça recursal. Se a afirmação recursal é de um cenário fático divergente daquele afirmado no acórdão, não é possível fazer a revaloração como se de apelação se tratasse, incidindo-se o óbice do reexame do panorama fático-probatório.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RISTJ.
+Publique-se. Intimem -se.
+EMENTA
