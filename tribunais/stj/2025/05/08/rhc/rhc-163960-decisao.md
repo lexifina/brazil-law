@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por PAULO VITTOR ANDRADE e LUANA OTONI CARNEIRO desafiando acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5088136- 42.2022.8.09.0016).
+Depreende-se dos autos que os ora recorrentes foram denunciados pela prática dos delitos previstos nos arts. 2º da Lei n. 12.850/2013; arts. 180, § 1º e 313-A, ambos todos do Código Penal.
+A defesa impetrou habeas corpus perante o Tribunal de origem alegando "(1) incompetência material absoluta do Juízo da Vara Criminal de Barro Alto, tornando sem efeito a decisão que autorizou as medidas cautelares; (2) ilicitude da prova produzida a partir das medidas cautelares determinadas pelo alegado juízo incompetente (busca e apreensão e interceptações telefônicas)" (e-STJ fl. 546).
+A Corte de origem, contudo, denegou a ordem, em acórdão assim ementado (e-STJ fl. 548):
+Organização criminosa, receptação qualificada e inserção de dados falsos em sistema de informações. Habeas corpus sustentando incompetência de juízo e nulidade absoluta de provas. (1) Quanto a primeira tese trata-se de reiteração de pedido, vez que já analisada em habeas corpus anterior. (2) O reconhecimento da incompetência do juízo que se entendeu inicialmente competente não enseja a nulidade dos atos processuais já praticados, os quais podem ser ratificados ou não no juízo que vier a ser reconhecido como competente. No caso, a busca e apreensão e interceptação telefônica foi autorizada pelo juízo aparente (da Comarca de Barro Alto), observados os preceitos legais para o deferimento da medida, não havendo nulidade a ser declarada. (3) Pedido de habeas corpus conhecido em parte e indeferido.
+Foram opostos, ainda, embargos de declaração, os quais foram desprovidos. O acórdão acerca dos aclaratórios restou assim ementado (e-STJ fl. 580):
+Embargos de declaração em habeas corpus. Alegada omissão na análise de tese sustentada na impetração. Reexame dos fundamentos do acórdão. (1) Nos termos dos embargos opostos, o embargante pretende rediscutir matéria debatida e exaurida, ou seja, reanálise dos argumentos expressados no acórdão, contudo, sem indicar qualquer omissão, obscuridade, contradição ou ambiguidade, salvo seu descontentamento, sendo de considerar que mesmo com o fim de prequestionamento os aclaratórios devem obediência ao artigo 619 do Código de Processo Penal. (2) Recurso desprovido.
+Daí o presente recurso ordinário, no qual sustenta a defesa ser "inegável o prejuízo suportados pelos Recorrentes em razão de ter tidos suas privacidades devassadas por juízo sabidamente incompetente, desde muito antes da autorização para a realização de busca e apreensão" (e-STJ fl. 595).
+Afirma que, "constatada que houve de fato violação a privacidade e da liberdade dos Recorrentes por juízo sabidamente incompetente, a nulidade arguida de produção de provas ilícitas, bem como as deles derivadas, devem ser consideradas, nos termos do art. 157 do Código de Processo Penal" (e-STJ fl. 597).
+Acrescenta que "não ocorreu ratificação posterior dos atos por autoridade competente de forma a convalidar as ações e decisões anteriores praticadas e, a matéria de competência territorial não pode ser relativizada" (e-STJ fl. 598).
+Aduz que "não há o que se falar em juízo aparente, porquanto de prévio conhecimento da autoridade judicial de Barro Alto que os fatos investigados eram supostamente praticados e consumados na cidade de Goianésia/GO e, ainda sim, foi autorizado a busca e apreensão e prisões preventivas" (e-STJ fls. 600/601).
+Diante dessas considerações, pede, liminarmente, "a imediata suspensão dos atos persecutórios produzidos a partir destas provas" (e-STJ fl. 601). E, no mérito, requer o reconhecimento da "a ilicitude de toda e qualquer prova produzida a partir das medidas cautelares determinadas pelo juízo incompetente e não ratificadas pelo juízo competente" (e-STJ fl. 602)
+A liminar foi indeferida (e-STJ fls. 618/620).
+Parecer do Ministério Público Federal em e-STJ fls. 638/641.
+É o relatório.
+Decido.
+O Supremo Tribunal Federal vem consolidando jurisprudência no sentido de que o habeas corpus somente se presta à discussão de matérias que afetem de maneira atual ou iminente o direito de locomoção, sendo que a ordem respectiva somente será concedida quando houver violação inequívoca a preceitos legais que tutelam tal direito.
+Com relação ao recurso ordinário em habeas corpus o entendimento deve ser o mesmo, necessitando haver demonstração clara acerca da direta ameaça ou restrição a direito de locomoção para que seja concedida a ordem.
+Confira-se, por oportuno:
+Penal e processual penal. Agravo regimental em habeas corpus. Crime contra a ordem tributária. Trancamento da ação penal. Ausência de risco de prejuízo irreparável. Jurisprudência do Supremo Tribunal Federal.
+ ..
+3. O habeas corpus somente deverá ser concedido em caso de réu preso ou na iminência de sê-lo, presentes as seguintes condições: (i) violação à jurisprudência consolidada do STF; (ii) violação clara à Constituição; ou (iii) teratologia na decisão impugnada, caracterizadora de absurdo jurídico. Nenhuma dessas condições está demonstrada.
+4. Hipótese em que inexiste risco de prejuízo irreparável ao acionante, que bem poderá articular toda a matéria de defesa no momento processual oportuno, nas instâncias próprias.
+ ..
+(HC n. 200.055 AgR, relator ROBERTO BARROSO, Primeira Turma, julgado em 14/6/2021, processo eletrônico DJe-118 divulg. 18/6/2021, public. 21/6/2021.)
+O caso em tela versa acerca de alegada incompetência do juízo da comarca de Goiânia para conhecimento dos fatos imputados aos ora recorrentes, pleiteando-se, em sede de recurso ordinário constitucional, o reconhecimento da ilicitude das provas produzidas a partir de medidas cautelares determinadas pelo referido juízo (e-STJ fl. 602).
+Portanto, verifica-se que o presente recurso ordinário em habeas corpus insurge-se contra questão que não ameaça e, tampouco, afeta ou restringe diretamente a liberdade de locomoção dos recorrentes, de maneira que não verifico constrangimento ilegal ao direito de locomoção dos agentes, razão pela qual não identifico razão para provimento do recurso interposto.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem -se.
+EMENTA
