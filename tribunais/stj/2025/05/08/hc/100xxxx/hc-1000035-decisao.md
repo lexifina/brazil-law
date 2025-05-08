@@ -1,0 +1,8 @@
+DECISÃO
+O paciente acoima de ilegal o acórdão proferido pelo Tribunal a quo.
+Ao analisar os autos, verifico que este habeas corpus pretende a rediscussão da condenação, nos Autos n. 1507302-80.2022.8.26.0407, com baixa definitiva em 9/4/2025, evidenciando-se, assim, que não deve ser conhecido o writ, pois tal providência exige a instauração de revisão criminal, ação autônoma para a qual esta Corte Superior não possui competência na espécie.
+Com efeito, nos termos do art. 105, I, "e", da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, as revisões criminais e as ações rescisórias de seus próprios julgados, o que não é o caso dos autos. Nesse sentido: AgRg no HC 661.172/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 14/5/2021 .
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos
+do art. 210 do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
