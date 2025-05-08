@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em causa própria por João Henrique Amorim Battaglin, em que se aponta como autoridade coatora a 1ª Turma da 1ª Câmara Criminal do Tribunal de Justiça do Estado de Tocantins (fl. 2).
+Na inicial, o impetrante informa que foi sentenciado a 90 dias de detenção em regime aberto pela prática do delito previsto no art. 129, § 9º, do Código Penal, ocorrido em 27/10/2019, com execução penal iniciada em 01/08/2024 (fl. 4).
+O impetrante alega que, nos 1º e 2º semestres de 2020, esteve matriculado no curso de Bacharel em Direito na Universidade Católica Dom Orione, cumprindo 1.058 horas curriculares, o que lhe concede o direito de remir 88 dias da pena imposta (fl. 4).
+Afirma que o pedido de remição foi indeferido pelo juízo de 1º grau, sob o argumento de que o apenado iniciou o cumprimento da pena após a conclusão do curso, entendimento mantido pelo Tribunal de Justiça do Estado de Tocantins (fl. 4).
+Sustenta que tal decisão contraria precedentes dos tribunais superiores, que admitem a remição nesses casos, e que a remição da pena por estudo é válida mesmo que o período de estudo tenha ocorrido após a prática do delito e antes do início da execução da pena (fls. 5-7).
+No mérito, requer a concessão da ordem para reformar a decisão, de modo a conceder a remição da pena em 88 dias, nos termos do art. 126, §1, I, da Lei de Execução Penal (fls. 9).
+Subsidiariamente, na hipótese de indeferimento do pedido, solicita o distinguishing ou overruling dos precedentes invocados, conforme o art. 315, § 2º, inciso VI, do Código de Processo Penal (fl. 9).
+Requer ainda a intimação por meio dos contatos descritos na qualificação para proferir sustentação oral (fl. 9).
+É o relatório. DECIDO.
+A presente impetração investe contra acórdão, funcionando como substituto do recurso próprio, motivo pelo qual não deve ser conhecida. A 3ª Seção, no âmbito do HC 535.063-SP, de relatoria do Ministro Sebastião Reis Júnior, julgado em 10/06/2020, e o Supremo Tribunal Federal, no julgamento do AgRg no HC 180.365, de relatoria da Ministra Rosa Weber, julgado em 27/03/2020, consolidaram a orientação de que não cabe habeas corpus substitutivo ao recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Também não vislumbro a presença de coação ilegal que desafie a concessão da ordem ofício, em observância § 2º do artigo 654 do Código de Processo Penal, conforme percuciente fundamentação empreendida pela Corte estadual (fls. 70-71):
+Verifica-se que, conforme documentação acostada no Evento 27 do SEEU, o agravante concluiu o curso de Bacharel em Direito na Faculdade Católica Dom Orione, em Araguaína-TO, realizando, durante o período letivo de 2020, o total de 1.058 horas curriculares.
+O juízo de primeiro grau indeferiu o pedido de remição por estudo sob o fundamento de que "não merece acolhimento o pedido de remição pelo estudo considerando que o apenado iniciou o cumprimento da pena após a conclusão do curso".
+Analisando a matéria, observo que a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que, para fins de remição da pena, exige-se que o tempo de estudo ou trabalho seja posterior ao início da execução penal, conforme se depreende do julgado abaixo:
+ ..
+Este entendimento está em consonância com a literalidade do artigo 126 da Lei de Execução Penal, que dispõe que "o condenado que cumpre a pena  ..  poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena". A expressão "cumpre a pena" denota tempo presente, sugerindo que a remição se aplica a atividades realizadas durante o efetivo cumprimento da pena.
+A compreensão firmada é a de que o instituto da remição está estritamente relacionado à execução da pena, sendo o tempo remido justamente aquele relativo ao cumprimento da reprimenda, razão pela qual não é possível considerar, para tal fim, período em que sequer havia execução em curso.
+Sob essa perspectiva, não se mostra possível a concessão da remição pretendida pelo agravante, uma vez que as horas de estudo por ele cursadas ocorreram em período anterior ao início da execução de sua pena, quando ainda não havia sido estabelecida a relação jurídica de execução penal.
+Ademais, em que pese o requisito de que o estudo tenha ocorrido após a prática do delito esteja presente no caso em questão, a jurisprudência estabelece condição específica de que "o início da execução penal seja anterior ao tempo de labor ou estudo", o que não ocorreu na hipótese dos autos.
+Com efeito, considera-se como estudo para fins de remição aquele realizado posteriormente ao início da execução penal, tal como concluiu o Tribunal de origem no acórdão impugnado. Confira-se, mutatis mutandis:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELO TRABALHO EM EXECUÇÃO ANTERIOR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabe, na execução em cumprimento, a remição pelo trabalho realizado em execução anterior, já extinta.
+2. "A jurisprudência desta Corte exige, para fins de remição da pena, que o tempo laborado seja posterior ao início da execução penal, ou seja, que o início da execução penal seja anterior ao tempo de labor" (AgRg no HC 653.667/RS, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/4/2021, DJe 26/4/2021).
+3. Agravo regimental não provido. (AgRg no HC n. 788.328/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 20/3/2023, DJe de 24/3/2023.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REMIÇÃO PELO TRABALHO. DIAS TRABALHADOS EM PERÍODO ANTERIOR AO CRIME PELO QUAL O RECUPERANDO RESGATA PENA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência desta Corte exige, para fins de remição da pena, que o tempo laborado seja posterior ao início da execução penal, ou seja, que o início da execução penal seja anterior ao tempo de labor" (AgRg no HC n. 653.667/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021).
+2. Agravo Regimental no habeas corpus desprovido. (AgRg no HC n. 777.336/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 6/3/2023, DJe de 9/3/2023.)
+ ..  2. A questão central consiste em saber se o tempo de trabalho realizado pelo apenado em período anterior ao início da execução da pena pode ser considerado para fins de remição, à luz do disposto no art. 126 da LEP e da jurisprudência consolidada do STJ.
+III. RAZÕES DE DECIDIR
+3. A remição da pena pelo trabalho é restrita ao período de execução penal, conforme dispõe o art. 126 da LEP, aplicável a condenados que cumprem pena em regime fechado ou semiaberto, ou eventualmente durante prisão cautelar.
+4. A jurisprudência consolidada do Superior Tribunal de Justiça exige que o tempo laborado seja posterior ao início da execução penal, vedando a contagem de trabalho realizado enquanto o condenado se encontrava em liberdade, sob pena de criar uma espécie de "crédito de pena" não previsto em lei.
+5. O período de trabalho realizado pelo recorrente, entre os dias 12/04/2017 e 14/09/2019, deu-se enquanto estava em liberdade em decorrência da revogação da prisão preventiva, não se enquadrando nas hipóteses previstas no art. 126 da LEP.
+6. A decisão do Tribunal de origem está em consonância com os precedentes do STJ, que reiteram a impossibilidade de cômputo de trabalho exercido antes do início da execução da pena para fins de remição, especialmente quando não há supervisão estatal que garanta os objetivos ressocializadores da atividade laboral.
+IV. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(AREsp n. 2.329.959/MG, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 17/12/2024, DJEN de 27/12/2024.)
+Ante o exposto, inevidente flagrante ilegalidade, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
