@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FRANCISCO JANIER DA SILVA contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que não admitiu o recurso especial, em virtude de ofensa às Súmulas 7 e 182, do Superior Tribunal de Justiça.
+Consoante se extrai dos autos, a parte agravante foi condenada pela prática do delito previsto no art. 121, § 2º, II, c/c art. 14, II, ambos do Código Penal.
+O Tribunal de origem, em decisão unânime, negou provimento ao apelo defensivo.
+No recurso especial, interposto com fulcro no art. 105, inciso III, alínea "d", da Constituição Federal, o insurgente alega a ocorrência de condenação manifestamente contrária à prova dos autos, pleiteando a nova submissão a julgamento perante o Tribunal do Júri.
+Apresentadas as contrarrazões, sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7 e 182, do Superior Tribunal de Justiça.
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Foram apresentadas contrarrazões e o Ministério Público Federal apresentou parecer pelo improvimento do agravo em recurso especial.
+É o relatório. DECIDO.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A controvérsia dos autos consiste em verificar se o Tribunal de Justiça acertou ao manter a sentença condenatória proferida em julgamento do Tribunal do Júri.
+Consoa nte a jurisprudência mais hodierna e majoritária, somente será considerada decisão manifestamente contrária à prova dos autos aquela em que o julgamento ocorrer de forma completamente destoante com o conjunto probatório constante nos autos, tendo em vista que o Conselho de Sentença tem plena liberdade de escolha entre as versões apresentadas pela defesa e pela acusação, desde que estejam presentes elementos idôneos de prova a embasar o veredicto.
+Isso é, embora suas decisões não sejam absolutas, estando sujeitas a controle pelo Poder Judiciário, para que a validade da decisão proferida pelo Júri seja confirmada, exige-se apenas que existam provas capazes de sustentar a tese acolhida.
+Nessa linha, ao compulsar detidamente os autos, verifico que deles constam elementos suficientes a sustentar a decisão proferida pelo colendo Conselho de Sentença.
+Transcrevem-se excertos da decisão colegiada (p. 577/581):
+"Assim, os Senhores Jurados reconheceram a materialidade e autoria do crime, bem como a qualificadora do motivo fútil.
+Outrossim, não se afere que a decisão do Conselho de Sentença, que optou por prestigiar uma das versões apresentada nos autos, qual seja, a condenatória, bem como reconheceu a circunstância qualificadora, tenha ignorado as provas constantes dos autos, devendo, de toda sorte, ser observado o princípio da soberania dos veredictos.
+Assim, não há que se falar em anulação do julgamento, o qual somente seria cabível caso a decisão dos senhores jurados fosse dissociada da prova dos autos, o que não ocorreu na espécie.
+A tese defensiva pleiteando o reconhecimento da desistência voluntária, por sua vez, não foi acatada pelos senhores Jurados, já que responderam afirmativamente ao quesito referente ao início da execução de crime doloso contra a vida, que não se consumou por circunstância alheia à vontade do réu.
+Isso posto, a pena-base foi fixada no mínimo legal, de 12 anos de reclusão.
+E sem que constem circunstâncias agravantes ou atenuantes, na terceira fase, reconhecida a forma tentada do delito, foi reduzida em 1/2, resultando em 6 anos de reclusão, não comportando reparos, porquanto compatível com o iter criminis percorrido.
+E, bem marcado o regime semiaberto, ante a primariedade do réu e a pena marcada.
+Do exposto, pelo meu voto, nego provimento ao recurso."
+Portanto, o Tribunal de origem, soberano no exame de fatos e provas, concluiu pela correção da decisão do Tribunal do Júri, cujo Conselho de Sentença "optou por prestigiar uma das versões apresentada nos autos, qual seja, a condenatória, bem como reconheceu a circunstância qualificadora".
+A revisão, além de confrontar o princípio da soberania dos veredictos, implica reexame do acervo fático-probatório, o que esbarra na Súmula n. 7 desta Corte da Cidadania (AgRg no REsp n. 2.131.931/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/8/2024, DJe de 20/8/2024).
+Ademais, o entendimento exarado pelo Tribunal de origem se alinha à jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO TENTADO. NULIDADE. UTILIZAÇÃO DE ARGUMENTO DE AUTORIDADE POR PARTE DO MINISTÉRIO PÚBLICO. REFERÊNCIA À PRISÃO PREVENTIVA. INOCORRÊNCIA. ROL DO ART. 478, I, DO CÓDIGO DE PROCESSO PENAL - CPP. TAXATIVO. CONDENAÇÃO CONTRÁRIA À PROVA DOS AUTOS.
+INAPLICABILIDADE. EXTENSÃO DA ABSOLVIÇÃO QUANTO AO DELITO DE TORTURA, CONSIDERADO CRIME MEIO À TENTATIVA DE HOMICÍDIO. NOVA SUBMISSÃO A JULGAMENTO. DESNECESSIDADE. CADERNO PROCESSUAL SUFICIENTE A EMBASAR O DECRETO C ONDENATÓRIO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. QUALIFICADORAS. FUNDAMENTAÇÃO IDÔNEA. ALTERAÇÃO.
+SÚMULA N. 7/STJ. QUALIFICADORAS. PRESENÇA. INEXISTÊNCIA DE JULGAMENTO CONTRÁRIO A PROVA DOS AUTOS. SÚMULA N. 7/STJ. TENTATIVA.
+ITER CRIMINIS. REVOLVIMENTO FÁTICO-PROBATÓRIO. DISSÍDIO PRETORIANO NÃO DEMONSTRADO. RECURSO ESPECIAL DESPROVIDO. AGRAVO DESPROVIDO.
+ ..
+4. Cabe ao Tribunal, no julgamento da apelação interposta com fundamento no art. 593, III, d, do CPP, apenas a verificação da existência ou não de equívoco manifesto na apreciação das provas, não podendo, em hipótese alguma substituir a decisão dos jurados.
+Nesse contexto, para cassar a decisão proferida pelo Tribunal do Júri, deve ficar demonstrada sua total dissonância em relação às provas apresentadas em plenário, não sendo possível, por outro lado, a anulação quando os jurados optarem por uma das correntes de interpretação da prova apresentadas em plenário. Assim, fica garantido o duplo grau de jurisdição, não sendo, ainda, desrespeitada a soberania dos veredictos prevista constitucionalmente.
+5. Na hipótese, denota-se do excerto acima que o Tribunal de origem consignou que o decreto condenatório não contraria os elementos probatórios presentes no caderno processual e que estes são suficientes para embasar o julgamento pelo Conselho de Sentença, notadamente em razão da prova oral e do depoimento da vítima.
+Pontuou, ainda, que os jurados acataram uma das versões apresentadas em plenário, afastando as teses absolutórias, de modo que há de se manter a decisão em observância à soberania das decisões do júri.
+6. Da mesma forma, o Tribunal de origem apontou que os jurados, diante das teses apresentadas em plenário, acolheram aquela indicada pela acusação em relação às qualificadoras do motivo fútil e do recurso que dificultou a defesa da vítima, não havendo falar em decisão manifestamente contrária à prova dos autos. Para alterar o entendimento demanda a reanálise dos fatos e das provas constantes nos autos, providência vedada nos termos da Súmula n. 7 do STJ.
+7. O Tribunal de Justiça manteve o percentual de redução de 1/3 pela tentativa, tendo em vista o iter criminis percorrido pelo agente, considerando a gravidade das lesões sofridas pela vítima, que foi atingida em regiões letais, não tendo o delito se consumado somente porque foi socorrida e levada a atendimento hospitalar. Nesse contexto, é certo que a alteração da conclusão acerca da proximidade da consumação do crime demanda o exame aprofundado de provas e fatos, providência incabível na instância especial, a teor da Súmula n. 7/STJ.
+8. Quanto ao dissídio pretoriano, a defesa também não o demonstrou, pois não cumpriu nenhum dos requisitos previstos no art. 1.029, § 1o, do Código de Processo Civil - CPC.
+9. Agravo regimental desprovido." (AgRg no AREsp n. 2.259.868/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 19/10/2023, DJe de 24/10/2023.)
+Como se vê, há, ainda, consonância entre o acórdão recorrido e a jurisprudência consolidada deste Tribunal Superior, o que atrai a aplicação da Súmula n. 83 desta Corte, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
