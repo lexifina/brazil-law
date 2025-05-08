@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado de São Paulo em face do Tribunal Regional Federal da 3ª Região nos autos de ação ajuizada por Ângela Maria Antonio José contra o INSS objetivando a concessão de benefício previdenciário.
+Colhe-se do processado que a demanda foi proposta perante o Juizado Especial Federal de Araraquara - SJ/SP objetivando a obtenção de aposentadoria por invalidez ou auxílio-doença. O processo foi extinto sem resolução de mérito, tendo em vista o não cumprimento das determinações de emenda à petição inicial.
+Interposto recurso inominado, a Nona Turma Recursal do Juizado Especial Federal da 3ª Região deu-lhe provimento anulando a sentença e determinando o prosseguimento do feito com regular instrução probatória e julgamento de mérito.
+Então, o Juízo da 1ª Vara do Juizado Especial Federal de Araraquara - SJ/SP, com base na afirmação do perito judicial de que há nexo de causalidade entre a lesão e o trabalho, declinou de sua competência para a Justiça Estadual, a teor do contido no verbete nº 15/STJ.
+O Juízo da 2ª Vara do Foro de Taquaritinga - SP julgou procedente o pedido condenando a autarquia à concessão de auxílio acidente à parte autora a partir de 04/07/2023.
+A segurada interpôs apelação direcionada ao Juizado Especial Federal de Araraquara - SJ/SP afirmando que a incapacidade é total e permanente a ensejar a concessão de aposentadoria por invalidez.
+Encaminhado o feito ao Tribunal Regional Federal da 3ª Região, foi reconhecida a incompetência da Corte Regional, determinando-se a remessa dos autos ao Tribunal de Justiça de São Paulo que, por sua vez, suscitou este conflito em acórdão assim resumido:
+APELAÇÃO. Ação julgada procedente.
+COMPETÊNCIA. Ação voltada à concessão de benefício previdenciário proposta perante o Juizado Especial Federal de Araraquara/SP. Causa de pedir e pedidos sem relação com o trabalho. Incompetência da Justiça Estadual para processar e julgar a demanda. Competência da Justiça Federal. Suscitado conflito de competência, a ser dirimido pelo Colendo Superior Tribunal de Justiça, nos termos do art. 105, I, "d", da Constituição Federal de 1988.
+SUSCITADO CONFLITO DE COMPETÊNCIA.
+O Ministério Público Federal manifestou-se pela competência da Justiça Federal, ementado o parecer nos seguintes termos:
+CONFLITO NEGATIVO DE COMPETÊNCIA. TRIBUNAL DE JUSTIÇA E TRIBUNAL REGIONAL FEDERAL. APELAÇÃO CÍVEL. CONCESSÃO DE APOSENTADORIA POR INVALIDEZ OU RESTABELECIMENTO DO AUXÍLIO-DOENÇA. PEDIDO E CAUSA DE PEDIR NÃO VINCULADOS A ACIDENTE DE TRABALHO. NATUREZA PREVIDENCIÁRIA. SENTENÇA PROFERIDA POR JUIZ DE DIREITO. INCOMPETÊNCIA ABSOLUTA. NULIDADE. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+É o relatório.
+Com razão o Parquet.
+Consoante relatado, a segurada ajuizou ação contra a autarquia previdenciária objetivando a concessão de aposentadoria por invalidez ou auxílio doença a contar da indevida cessação do benefício previdenciário em 31/08/2021, sem a submissão a processo de reabilitação profissional. Na exordial não há qualquer menção a ocorrência de acidente de trabalho.
+Não obstante, o Juízo da 1ª Vara do Juizado Especial Federal de Araraquara - SJ/SP declinou de sua competência apenas porque o perito judicial afirmou a existência de nexo de causalidade entre a lesão e o trabalho.
+Após determinação do Juízo da 2ª Vara do Foro de Taquaritinga - SP de intimação da parte autora para adequar o pedido em relação ao acidente de trabalho, foi apresentada emenda à inicial acrescentando-se o pedido de concessão de auxílio acidente com renda mensal de 50% do salário de benefício, caso não deferida a aposentadoria por invalidez ou o auxílio doença.
+Ocorre, todavia, que "nos termos da jurisprudência do STJ, a competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir, cujos elementos identificadores da ação não poderão ser modificados após o saneamento, nos precisos termos do art. 329, II, do CPC/15" (REsp 1.843.199/MG, Relator Min. Sérgio Kukina, Primeira Seção, DJe de 12/12/2019).
+Nesse contexto, levando-se em consideração o pedido e a causa de pedir, mesmo com a emenda à inicial determinada pelo Juízo Estadual, tem-se que a pretensão da parte autora é de natureza nitidamente previdenciária, cuja competência para processar e julgar é da Justiça Federal.
+A propósito:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE
+COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. PEDIDO E CAUSA DE PEDIR NÃO VINCULADA A ACIDENTE DO TRABALHO. COMPETÊNCIA DA
+JUSTIÇA FEDERAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que conhecera do Conflito de Competência, instaurado em Ação ajuizada por segurada, perante a Justiça Federal, contra o Instituto Nacional do Seguro Social - INSS, postulando benefício previdenciário de auxílio-doença ou aposentadoria por invalidez.
+II. Não resta configurada hipótese de aplicação da Súmula 15/STJ ("Compete a justiça estadual processar e julgar os litígios decorrentes de acidente do trabalho"), porquanto ausente a alegação, na petição inicial, de liame entre o benefício requerido pela parte segurada e acidente do trabalho, que não foi, sequer, mencionado, como fundamento do pleito.
+III. Na forma da jurisprudência do STJ, "a definição da competência para a causa se estabelece levando em consideração os termos da demanda (e não a sua procedência ou improcedência, ou a legitimidade ou não das partes, ou qualquer outro juízo a respeito da própria demanda). O juízo sobre competência é, portanto, lógica e necessariamente, anterior a qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz considerado competente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria uma indevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria) a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que, portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada)" (STJ, CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe de 03/04/2012).Precedentes.
+IV. Agravo interno improvido.
+(AgInt no CC n. 154.273/SP, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 29/11/2022, DJe de 1/12/2022.)
+Desse modo, impõe-se declarar a nulidade da decisão proferida pela Justiça Estadual, a teor do contido no art. 957 do Código de Processo Civil, para que a causa seja processada e julgada perante a Justiça Federal.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo da 1ª Vara do Juizado Especial Federal de Araraquara - SJ/SP, anulando-se os atos decisórios proferidos pelo Juízo estadual incompetente.
+Dê-se ciência aos Juízos suscitante e suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. TRIBUNAL DE JUSTIÇA E TRIBUNAL REGIONAL FEDERAL. BENEFÍCIO DE NATUREZA PREVIDENCIÁRIA. SENTENÇA PROFERIDA PELA JUSTIÇA ESTADUAL. NULIDADE POR INCOMPETÊNCIA DO JUÍZO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
