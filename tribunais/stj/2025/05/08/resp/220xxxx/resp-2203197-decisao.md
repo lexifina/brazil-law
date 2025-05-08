@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  ANTONIO  RODRIGUES  DA  PAIXAO  e  OUTROS ,  com  fundamento  no  art.  105,  III,  a  e  c,  da  Constituição  Federal,  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Sergipe  nos  autos  de agravo de instrumento contra decisão que homologou os cálculos periciais no  cumprimento  de  sentença.
+O  julgado  foi  assim  ementado  (fls.  64-65):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA AJUIZADO EM 2016 - LAUDO PERICIAL IMPUGNADO - LAUDO INICIAL JÁ QUESTIONADO EM OUTRAS OPORTUNIDADES - A LEITURA DA DECISÃO AGRAVADA TRAZ FUNDAMENTOS ROBUSTOS QUE INDUZEM CONCLUIR IRRETOCÁVEL O LAUDO PERICIAL DERRADEIRO - TODOS OS ATAQUES JÁ FORAM DIRIMIDOS TANTO PELO PERITO QUANTO PELA MAGISTRADA - MANUTENÇÃO DA DECISÃO COMBATIDA - RECURSO CONHECIDO E DESPROVIDO - UNÂNIME.
+Os embargos de declaração opostos foram decididos nesses termos (fls. 1.443-1.444 e 1.484-1.485):
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO - SUPOSTA OMISSÃO/CONTRADIÇÃO NO ACÓRDÃO - REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - EMBARGOS CONHECIDOS E IMPROVIDOS - UNÂNIME. I - Os Embargos Declaratórios não escapam aos rígidos requisitos do artigo 1022 do NCPC, sob pena de restar configurada mera tentativa de reapreciação da matéria já decidida; II - No caso concreto dos autos, o Acórdão vergastado analisou as questões expostas na demanda, nos estritos limites que se lhe apresentavam, inexistindo vícios a sanar; III - Embargos rejeitados.
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO - SUPOSTA OMISSÃO NO ACÓRDÃO - REDISCUSSÃO DA MATÉRIA - IMPOSSIBILIDADE - EMBARGOS CONHECIDOS E IMPROVIDOS. I - Os Embargos Declaratórios não escapam aos rígidos requisitos do artigo 1022 do NCPC, sob pena de restar configurada mera tentativa de reapreciação da matéria já decidida; II - No caso concreto dos autos, o Acórdão vergastado analisou as questões expostas na demanda, nos estritos limites que s e l h e apresentavam em sede de Apelação Cível, inexistindo vícios a sanar; III - Embargos rejeitados.
+No  recurso  especial,  a  parte  aponta  violação  dos  seguintes  artigos:
+a) 489, § 1º, 1.022, I, II, III, do CPC, porque o acórdão recorrido não enfrentou as seguintes alegações: i) de que o valor do benefício dos autores Antônio Rodrigues da Paixão, Carlos Menezes de Oliveira e Janice Pereira Queirós foi calculado de forma equivocada, por não ter considerado o período em que contribuíram à FUNCEF após a aposentadoria pelo INSS; ii) os honorários de sucumbência deveriam ser calculados no valor de 10% sobre as parcelas vencidas e doze vincendas;
+b) 507, 508 do CPC, porque houve ofensa à coisa julgada ao não incluir os honorários advocatícios sobre as doze parcelas vincendas (fls. 99-103);
+c) 884 do Código Civil, porque houve enriquecimento sem causa ao desconsiderar o período contributivo dos autores após a aposentadoria pelo INSS (fls. 99-103).
+Sustenta que o Tribunal de origem divergiu ao não considerar o período contributivo dos autores após a aposentadoria pelo INSS, conforme entendimento do STJ no Tema n. 123 (fls. 99-103).
+Requer o provimento do recurso para que se reforme o acórdão recorrido, determinando a inclusão dos honorários advocatícios sobre as doze parcelas vincendas e o recálculo do benefício considerando o período contributivo após a aposentadoria pelo INSS.
+Nas contrarrazões, a parte recorrida aduz que o recurso especial não merece ser conhecido, pois esbarra na Súmula n. 7 do STJ, e, na remota hipótese de ser admitido, seja negado provimento ao mesmo (fls. 165-177).
+É o relatório. Decido.
+O  recurso  não  reúne  condições  de  prosperar.
+De início, afasto a alegada omissão, porquanto a Corte de origem examinou e decidiu as questões apontadas como omissas, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+No caso, o Tribunal estadual entendeu que as alegações de equívoco no cálculo de benefício e no cálculo dos honorários advocatícios foram atingidas pela preclusão (fls. 68-69):
+Entrementes, estamos falando de um cumprimento de sentença ajuizado em 2016, sucedido de um número considerável de atos e impugnações.
+Neste diapasão quero crer que a discussão está inarredavelmente preclusa a teor do que dispõe o art.278 do CPC:
+"Art. 278. A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão. Parágrafo único. Não se aplica o disposto no caput às nulidades que o juiz deva decretar de ofício, nem prevalece a preclusão provando a parte legítimo impedimento".
+Nesta toada, como se percebe o laudo foi sovado em mais de uma oportunidade, restando acolhido o montante apresentado na última retificação do expert, como se vê na decisão recorrida.
+Neste diapasão entendo que a relevância da fundamentação a justificar a suspensão da decisão agravada resta comprometida neste estágio, em especial porque da leitura da referida decisão extraio fundamentos robustos que induzem concluir irretocável o laudo pericial derradeiro.
+Ao que me parece todos os ataques já foram dirimidos tanto pelo perito quanto pela magistrada, do que ressoa necessária a manutenção do decisório ao menos em sede liminar.
+Como visto, a tese dos recorrentes foi apreciada pelo Tribunal de origem, que a afastou de forma fundamentada. Desse modo, não há falar em omissão ou em obscuridade, pois o Tribunal a quo tratou, de forma expressa, da alegação suscitada nos embargos.
+Quanto ao mérito, melhor sorte não assiste aos recorrentes, uma vez que o recurso especial não impugnou o fundamento em que se baseou o Tribunal de origem, qual seja, o da preclusão. Incide, pois, o óbice da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ante o exposto, conheço do recurso especial e nego-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+ EMENTA
