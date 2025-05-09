@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu o recurso especial no qual POSTO DOM PEDRO DE LEME LTDA, se insurgiu, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal (CF), contra o acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+É o relatório.
+A questão debatida nos autos, qual seja, "decidir se o comerciante varejista de combustíveis, sujeito ao regime monofásico de tributação da Contribuição para o PIS e da COFINS, tem direito à manutenção de créditos vinculados, decorrentes da aquisição de combustíveis, no período compreendido entre a data da entrada em vigor da Lei Complementar n. 192/2022 até 31/12/2022 ou, subsidiariamente, até 22/09/2022, data final do prazo nonagesimal, contado da publicação da Lei Complementar n. 194/2022", encontra-se afetada à Primeira Seção do Superior Tribunal de Justiça, aguardando o julgamento, sob o rito dos recursos repetitivos (Tema 1.339), dos REsp"s 2.124.940/RS, 2.178.164/ES e 2.123.838/RS, de relatoria do Ministro GURGEL DE FARIA.
+A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria identifique-se com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos recursos representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+Publique-se. Intimações necessárias.
+EMENTA
