@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por WEBSHOP BRASIL LTDA à decisão de fls. 155/156, que não conheceu do recurso.
+Sustenta a parte embargante:
+Em apertada síntese, tem-se que a decisão monocrática recorrida entende que necessária a juntada de outros comprovantes de pagamentos de custas recursais com um suposto código de barras. Com a devida vênia entendemos que tal exigência não encontra amparo na lei adjetiva, além de ter sido dito na petição de fl. 151 que era impossível à parte recorrente produzir novo documento além do documento de fl. 111. O DD. Poder Judiciário não pode impor ao jurisdicionado comportamento impossível de ser realizado (a denominado pela doutrina de prova diabólica) ainda mais sem amparo legal.
+ ..
+Além do mais o comprovante de pagamento de fl. 111 não foi atestado como falso, inverídico ou ilegítimo. Tendo então, ao ver da embargante, que ser aceito pois presumida sua legitimidade e cumpridor do seu papel de preparo recursal. Entendemos que a inidoneidade de um documento anexado a um processo judicial não pode ser presumida.
+Só a inidoneidade do preparo leva a ausência de preparo. Somente neste momento processual conseguiu a parte embargante novos documentos que se encontram anexos e datados de 14.03.2025 junto a instituição bancária da parte recorrente (fls. 160/161).
+Requer o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado na decisão ora embargada, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento (fl. 110).
+Veja-se que o documento de fl. 111, juntado no ato da interposição do recurso, não se trata de efetivo comprovante de pagamento, apto a comprovar a quitação da obrigação da parte recorrente, uma vez que não há como verificar se diz respeito à guia de recolhimento relativa a este processo, pois nele não consta o respectivo código de barras.
+Registre-se que este STJ consolidou o entendimento de que "A ausência do número de código de barras no comprovante de pagamento bancário caracteriza irregularidade no preparo do recurso especial, tornando-se, portanto, deserto"(AgInt nos EDcl nos EREsp n. 1.563.122/RS, Rel. Ministra Isabel Gallotti, Corte Especial, DJe de 30.10.2023).
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo no comprovante de pagamento, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, porquanto deixou de efetuar o recolhimento das custas em dobro, em desacordo com a determinação de fl. 145/146.
+Somente agora, em sede destes aclaratórios a parte trouxe o devido comprovante de pagamento com o fim de regularizar o preparo (fl. 165), no entanto, não pode ser aceito, em razão da preclusão. (AgInt no AREsp 1399586/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3.12.2019; e AgInt nos EDcl nos EREsp 1454030/SP, Rel. Ministro Francisco Falcão, Corte Especial, DJe de 26.11.2019.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 31.8.2020; AgInt no AREsp 1639930/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3.8.2020; AgInt nos EDcl no AREsp 1342656/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 7.5.2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe de 28.8.2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se.
+Intimem-se.
+ EMENTA
