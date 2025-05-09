@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manejado pela Fundação São Paulo Apostolo, desafiando decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial, pelas seguintes razões: (I) ausência de violação aos dispositivos de lei federal; e (II) incidência do óbice da Súmula 7/STJ.
+Sustenta a agravante, em resumo, que "o Recurso Especial é cristalino na demonstração das violações da legislação que ensejam seu cabimento", e que "o Agravo no Recurso Especial não tem por objeto a análise de matéria fática (súmula 7), o que é vedado, mas manifesta ocorrência da vulneração aos dispositivos legais invocados". (fl. 1.973)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte deixou de impugnar especificamente todos os motivos adotados pela instância de origem para negar trânsito ao a pelo especial.
+Com efeito, a insurgente não logrou infirmar o decisum, de forma específica e mediante argumentação suficiente, no ponto em que o Tribunal local assentou que "rever a posição da Turma Julgadora para os fins de redefinição do valor reparatório fixado importaria em ofensa à Súmula no 7 do Col. Superior Tribunal de Justiça" (fl. 1.968).
+Note-se que caberia ao agravante demonstrar, especificamente, de que modo a análise da violação aos dispositivos de lei federal prescindiria do reexame do arcabouço fático-probatório no caso concreto, não sendo suficiente a argumentação genérica de inaplicabilidade da referida vedação sumular.
+Incide, dessa forma, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que não admitiu o processamento do recurso especial. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e o EAREsp 831.326/SP - Rel. Min. João Otávio de Noronha - Rel. p/ acórdão Min. Luis Felipe Salomão - Corte Especial - DJe 30/11/2018).
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC, não conheço do agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+EMENTA
