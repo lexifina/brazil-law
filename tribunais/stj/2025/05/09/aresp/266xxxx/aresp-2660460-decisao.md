@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por MARCOS JOAO CORREA contra decisão que inadmitiu o recurso especial fundamentado no art. 105, III, a, da Constituição Federal interposto contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO (APELAÇÃO CRIMINAL Nº 5004077-77.2022.4.04.7200/SC).
+Consta dos autos que o agravante foi condenado a 2 (dois) anos de reclusão, em regime inicial aberto, substituída a pena privativa de liberdade por duas restritivas de direitos: prestação de serviços à comunidade ou a entidades públicas e prestação pecuniária, no valor de 2 (dois) salários mínimos vigentes à época do pagamento, pela prática do crime previsto no art. 296, § 1º, I e II, do Código Penal. (e-STJ fls. 204-212)
+No recurso especial, o recorrente alegou violação ao art. 386, III, do Código de Processo Penal, sustentando, em síntese, que a conduta a ele imputada é atípica, pois não estariam presentes os elementos do tipo penal previsto no art. 296, § 1º, I e II, do Código Penal. Aduziu que não há prova de falsificação de selo, tendo sido apenas localizado arquivo para impressão de etiquetas no computador, mas não etiquetas impressas. Argumentou que a conduta de imprimir selo em local diverso é atípica, tanto por ausência de previsão legal que torne tal conduta criminosa, quanto por ausência de utilização do selo em prejuízo de outrem ou em proveito próprio ou alheio. (e-STJ fls. 223-231)
+O recurso especial não foi admitido na origem sob o fundamento de que a pretensão recursal implicaria necessário reexame de todo o acervo fático-probatório, o que é vedado em sede de recurso especial, por óbice da Súmula nº 07 do STJ. (e-STJ fls. 256-257)
+No presente agravo, o recorrente sustenta que sua pretensão não consiste em reanálise de provas, mas sim em requalificação jurídica dos fatos, o que seria permitido em sede de recurso especial. Afirma que o recurso trata de questão de direito, concernente à tipicidade da conduta, não se pretendendo o revolvimento fático-probatório dos autos. (e-STJ fls. 268-273)
+Contrarrazões apresentadas. (e-STJ fls. 277-287)
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo. (e-STJ fls. 298-301).
+É o relatório. Decido.
+O agravo preenche os requisitos formais de admissibilidade, pois é tempestivo e impugna especificamente os fundamentos da decisão agravada, em observância à Súmula 182/STJ. Contudo, o recurso especial não deve dever conhecido.
+Com efeito, o Tribunal de origem, após minuciosa análise do conjunto probatório, concluiu pela configuração do crime previsto no art. 296, § 1º, I e II, do Código Penal.
+Embora o agravante sustente que a controvérsia seria exclusivamente de direito, por tratar-se de discussão sobre a tipicidade da conduta, verifica-se que a pretensão recursal, na forma como apresentada, demanda inequívoco revolvimento do material fático-probatório dos autos.
+Isso porque o agravante contesta as premissas fáticas estabelecidas pelas instâncias ordinárias, especialmente quanto à existência de indícios de falsificação e uso indevido de selo público. Ao afirmar que "inexiste qualquer indício de falsificação de selo" (e-STJ fl. 227) e que "a imputação efetuada pela acusação, baseou-se em provas precariamente produzidas e tão somente na fase policial" (e-STJ fl. 226), o recorrente claramente pretende rediscutir a valoração das provas realizadas pelas instâncias ordinárias.
+Diversamente do que alega o agravante, não se trata de mera requalificação jurídica de fatos incontroversos, mas de rediscussão da própria base fática estabelecida no acórdão recorrido. Portanto, para se concluir pela atipicidade da conduta, nos termos propostos pela defesa, seria imprescindível reexaminar as circunstâncias fáticas apuradas, o que é vedado na via especial.
+É pacífico nesta Corte Superior o entendimento de que "a pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ATO DE IMPROBIDADE ADMINISTRATIVA TAMBÉM CAPITULADO COMO CRIME DE SONEGAÇÃO FISCAL. PRAZO PRESCRICIONAL. AUSÊNCIA DE LANÇAMENTO FISCAL E DENÚNCIA CRIMINAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PROVIMENTO NEGADO.
+ ..
+2. A discussão acerca da atipicidade do crime de sonegação fiscal - em razão da suposta não constituição de crédito tributário ou em razão da ausência de denúncia criminal sobre os mesmos fatos - demandaria profunda análise do conjunto fático-probatório, o que é inviável em recurso especial. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ).
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.066.546/SP, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 24/2/2025, DJEN de 27/2/2025, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. ARREPENDIMENTO POSTERIOR. FALTA DOS REQUISITOS. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual, após minuciosa análise do acervo carreado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do réu pelo crime previsto no art. 168, § 1º, III, do Código Penal.
+2. Para decidir pela absolvição, seria necessária a incursão no conjunto fático-probatório, procedimento vedado no âmbito do recurso especial, a teor da Súmula n. 7 do STJ.
+3. O Superior Tribunal de Justiça tem o entendimento consolidado de que a causa de diminuição da pena prevista no art. 16 do Código Penal deve observar a voluntariedade do acusado e o ressarcimento total do dano, o que não ocorreu na espécie.
+4. O exame da tese - de que o réu, por ato voluntário seu e antes do recebimento da denúncia, haja reparado o dano causado às vítimas - importaria em revolvimento das provas amealhadas aos autos, o que é vedado em recurso especial, consoante enunciado da Súmula n. 7 do STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 2.280.488/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/5/2023, DJe de 23/5/2023, grifei.)
+Observe-se que a distinção entre revaloração jurídica dos fatos (admissível em recurso especial) e reexame de provas (inadmissível) reside precisamente na controvérsia ou não quanto aos fatos estabelecidos nas instâncias ordinárias. No caso em análise, como as premissas fáticas estão sendo contestadas pelo recorrente, não há como proceder à mera requalificação jurídica pretendida.
+Portanto, correta a decisão que inadmitiu o recurso especial, por aplicação da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
