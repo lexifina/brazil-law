@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MARIO CESAR RAMOS no qual aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em Execução n. 8000403-41.2025.8.24.0023).
+Depreende-se dos autos que o Juízo de primeiro grau indeferiu o pedido de indulto com base no Decreto n. 12.338/2024, tendo em vista que o requisito objetivo não teria sido alcançado.
+Interposto agravo em execução, o Tribunal a quo negou provimento ao recurso, consoante acórdão assim ementado (e-STJ fl. 61):
+AGRAVO EM EXECUÇÃO PENAL - DECISÃO QUE INDEFERIU A CONCESSÃO DO INDULTO PREVISTO NO DECRETO N. 12.338/2024 - RECURSO DO APENADO.
+PRETENDIDA CONCESSÃO DA BENESSE COM BASE NO DISPOSTO NO INCISO XV, DO ART. 9º, DO DECRETO PRESIDENCIAL - INVIABILIDADE - APENADO QUE ALÉM DE CRIMES PATRIMONIAIS SEM VIOLÊNICA OU GRAVE AMEAÇA CUMPRE PENA POR CRIMES COMETIDOS MEDIANTE VIOLÊNCIA OU GRAVE AMEAÇA (ROUBO E AMEAÇA) DE FORMA QUE INVIÁVEL A APLICAÇÃO ISOLADA DO PREVISTO NO INCISO XV, DO ART. 9º, DO DECRETO N. 12.338/2024 - PRECEDENTES DESTA CORTE.
+A hipótese de indulto prevista no art. 9º, caput, XV, do Decreto 12.338/24 é inaplicável a pessoa condenada por crime não patrimonial e/ou violento, sendo inviável considerar para tanto, de modo isolado, somente os delitos contra o patrimônio cometidos sem grave ameaça ou violência à pessoa pelos quais o apenado também cumpre pena (TJSC, Segunda Câmara Criminal, AEP n. 8000281-28.2025.8.24.0023, rel. Des. Sério Rizelo, j. em 01.04.25)
+RECURSO CONHECIDO E DESPROVIDO.
+Daí o presente habeas corpus, no qual a defesa sustenta que o paciente preenche os requisitos legais para obtenção do benefício, uma vez que teria resgatado o lapso de pena previsto no decreto, não praticou falta grave e busca o indulto em relação às condenações por crimes patrimoniais cometidos sem violência ou grave ameaça.
+Pondera que, "embora a pena total do Paciente abranja outros delitos, o pedido de indulto foi formulado de maneira específica e individualizada, tendo como alvo apenas os processos que se amoldam aos requisitos do Decreto" (e-STJ fl. 6).
+Requer, liminarmente e no mérito, a concessão do indulto.
+É o relatório.
+Decido.
+Cinge-se a questão a saber se é possível a concessão do indulto previsto Decreto n. 12.338/2024.
+O indulto foi indeferido pelas instâncias ordinárias por inadimplemento do requisito objetivo. No ponto, Tribunal a quo destacou (e-STJ fls. 59/60):
+Trata-se de agravo em execução penal interposto por Mario César Ramos, por meio da Defensoria Pública do Estado de Santa Catarina, contra decisão proferida pelo Juízo da da Vara de Execuções Penais da comarca da Capital que, nos autos n. 0006453-48.2015.8.24.0064, indeferiu o pedido de indulto formulado pelo agravante com esteio no Decreto Presidencial n. 12.338/2024.
+Extrai-se da decisão recorrida:
+Ao tempo da publicação do decreto presidencial, o apenado cumpria penas que somadas atingem 16 (dezesseis) anos, 05 (cinco) meses e 18 (dezoito) dias de reclusão, razão pela qual resta inviabilizada a concessão do indulto natalino, já que ultrapassado o limite máximo de reprimendas adotado pelo decreto, a saber, 12 (doze) anos.
+E ainda que o pedido formulado pela Defensoria Pública se escore na hipótese prevista no inciso XV, denota-se que o apenado também registra condenações pela prática de crimes cometidos mediante violência ou grave ameaça nos autos nº 0011705-66.2014.8.24.0064, n.º 0006355-05.2011.8.24.0064, n.º 0009023-70.2016.8.24.0064 e n.º 0009013-21.2019.8.24.0064, de modo que resta inviabilizada a concessão do indulto natalino unicamente em relação aos crimes de furto, conforme pretende a Defensoria Pública, já que o art. 7º do decreto presidencial estabelece que "as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2024", pelo que é tranquilo concluir que não é possível escolher uma ou outra condenação para fins de incidência da hipótese permissiva invocada pela defesa".
+Como se percebe, ainda que o agravante afirme ter preenchido os requisitos previstos no inciso XV, do art. 9º, do Decreto Presidencial n. 12.338/2024, nada falou sobre a necessidade de cumprimento das demais disposições constantes no indigitado decreto para a concessão do indulto uma vez que além dos tipos penais previstos no inciso XV também cometeu crimes de roubo e ameaça, de forma que para a concessão do indulto inviável a consideração apenas dos crimes de furto.
+Isso porque de há muito este Tribunal entende que "a hipótese de indulto prevista no art. 2º, caput, XV e XVI, do Decreto 11.846/23 é inaplicável a pessoa condenada por crimes não patrimoniais e/ou violentos, sendo inviável considerar para tanto, de modo isolado, somente os delitos contra o patrimônio cometidos sem grave ameaça ou violência à pessoa pelos quais o apenado também cumpre pena" (TJSC, Segunda Câmara Criminal, rel. Des. Sérgio Rizelo, AEP n. 8001282- 30.2024.8.24.0008, j. em 14.01.2025).
+Extrai-se dos autos que o paciente é reincidente em crime doloso e as penas somadas ultrapassam 12 anos, não havendo, portanto que se falar na concessão de indulto, in verbis:
+Art. 7º Para fins da declaração do indulto e da comutação de pena, as penas correspondentes a infrações diversas deverão ser somadas até 25 de dezembro de 2024.
+ .. .
+Art. 9º Concede-se o indulto coletivo às pessoas, nacionais e migrantes, condenadas:
+ ..
+II - a pena privativa de liberdade não superior a doze anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 de dezembro de 2024, um terço da pena, se não reincidentes, ou metade da pena, se reincidentes;
+No contexto, o entendimento adotado pelas instâncias ordinárias não destoa da orientação jurisprudencial do Superior Tribunal de Justiça, conforme se extrai dos seguintes precedentes em situações análogas:
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO. ART. 2º, XIV, DECRETO N. 11.846/2023. SOMA DAS PENAS UNIFICADAS (ART. 9º DO DECRETO N. 11.846/2023). SALDO REMANESCENTE SUPERIOR A 8 ANOS. REQUISITO OBJETIVO NÃO PREENCHIDO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. O paciente não preenche o requisito objetivo para concessão do indulto, visto que o saldo remanescente, da soma das penas unificadas (art. 9º do Decreto n. 11.846/2023 ), é superior a 8 anos.
+2. Ordem denegada.
+(HC n. 930.366/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 17/9/2024, DJe de 23/9/2024.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO NATALINO (DECRETO PRESIDENCIAL N. 11.846/2023). NÃO PREENCHIMENTO DOS REQUISITOS DO REGRAMENTO. MULTIPLICIDADE DE CONDENAÇÕES PENAIS. SOMATÓRIO DAS PENAS. PRÁTICA DE CRIME COM VIOLÊNCIA OU GRAVE AMEAÇA. ÓBICE. BENEFÍCIO INCABÍVEL NA ESPÉCIE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. O Decreto n. 11.846/2023 é taxativo ao dispor no art. 9º que "As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023".
+2. O inciso II do art. 2º do referido Decreto prevê a concessão de indulto coletivo às pessoas "condenadas a pena privativa de liberdade superior a oito anos e não superior a doze anos, por crime praticado sem violência ou grave ameaça a pessoa, que tenham cumprido, até 25 de dezembro de 2023, um terço da pena, se não reincidentes, ou metade da pena, se reincidentes" 3. Segundo o Decreto n. 11.846/2023, para a aplicação de indulto ao indivíduo condenado pela prática de múltiplos crimes, é necessário se considerar o somatório das penas, e não elas individualmente, para a averiguação de sua adequação aos critérios objetivos estipulados pelo regramento.
+4. O reeducando não se encaixa às hipóteses legais, tendo em vista que cumpre pena privativa de liberdade de 24 (vinte e quatro) anos, 9 (nove) meses e 18 (dezoito) dias de reclusão, em regime inicial fechado, atualmente cumprindo pena no semiaberto, por crimes de roubo circunstanciado, furtos simples e qualificados, receptação e falsa identidade, superando os limites estipulados no Decreto n. 11.846/2023.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 920.144/SC, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 16/9/2024, DJe de 20/9/2024.)
+Diante do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
