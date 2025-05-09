@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA NERIS CAVALHEIRO contra a decisão que inadmitiu o recurso especial em razão da ausência de ofensa ao art. 1.022 do Código de Processo Civil e da incidência da Súmula n. 83 do STJ, quanto à impossibilidade de aplicação do princípio da fungibilidade em recurso interposto na primeira fase de ação de exigir contas, conforme AgInt no AREsp n. 2.493.648/SP, DJe de 14/8/2024; e AgInt no REsp n. 2.112.203, DJe de 27/6/2024.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Sustenta que o acórdão recorrido deixou de enfrentar explicitamente os dispositivos e teses prequestionados.
+Afirma que há divergência jurisprudencial quanto à aplicação do princípio da fungibilidade recursal na primeira fase da ação de prestação de contas, conforme acórdãos paradigmas do Superior Tribunal de Justiça, AgInt no AREsp n. 1.973.027/RJ, DJe de 24/5/2018; e AgInt no REsp n. 1.978.695/MG, DJe de 18/8/2022.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base na ausência de ofensa ao art. 1.022 do CPC e na incidência da Súmula n. 83 do STJ quanto à impossibilidade de aplicação do princípio da fungibilidade em recurso interposto na primeira fase de ação de exigir contas.
+Nas razões recursais, porém, a parte agravante deixou de impugnar adequadamente o fundamento de incidência da Súmula n. 83 do STJ.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes precedentes: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/9/2022, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.
+Vale ressaltar que, para impugnar a incidência da Súmula n. 83 do STJ, deve a parte demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ, o que não foi atendido na espécie.
+Nesse sentido: AgRg no AREsp n. 1.874.097/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 9/8/2022, DJe de 15/8/2022; AgRg no AREsp n. 1.995.672/PA, relator Ministro Olindo Menezes, Sexta Turma, julgado em 5/4/2022, DJe de 7/4/2022; AgInt no AREsp n. 2.105.220/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/9/2022, DJe de 23/9/2022; e AgInt no AREsp n. 2.074.121/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022.
+Assim, considerando que a parte agravante, no agravo em recurso especial, deixou de impugnar o fundamento da decisão agravada, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ante o exposto, não conheço do agravo em recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
