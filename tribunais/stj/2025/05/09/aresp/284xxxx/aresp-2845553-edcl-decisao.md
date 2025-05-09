@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Mondelez Brasil Ltda contra decisum singular, de fls. 1256/1258, que negou provimento ao agravo em recursos especial, eis que a Corte de origem decidiu a controvérsia acerca da compensação tributária com base em precedente firmado sob a sistemática dos recursos repetitivos, razão pela qual prejudicada a análise do apelo raro.
+Em suas razões, a parte embargante aduz, em resumo, que: (I) ocorreu erro material "quanto à indicação do número do tema correto (Tema 265 ao invés do Tema 118/STJ)" (fl. 1.263); e (II) houve omissão "visto que a pretensão recursal busca justamente adequar corretamente a aplicação do referido Tema 265/STJ ao caso concreto" (fl. 1.263).
+Aberta vista à parte embargada, decorreu in albis o prazo para apresentação de impugnação (fl. 1279).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Vigora no Superior Tribunal de Justiça o entendimento de que "A ocorrência de mera irregularidade no decisum não traz prejuízo, como a menção a parecer ministerial favorável, quando, em verdade, fora tal peça contrária à pretensão formulada. Assim, ausente interesse recursal, não é de se acolher os embargos de declaração" (EDcl no HC n. 174.373/PR, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 13/8/2013, DJe de 22/8/2013).
+Essa intelecção é aplicável à espécie, haja vista que o aludido "erro material" não trouxe qualquer prejuízo à parte embargante, eis que foi feita referência ao acórdão (fls. 1.061/1.064) em que consta o REsp 1.137.738/SP (Tema 265/STJ), bem como é perceptível que a tese recursal se fiou à referência ao mesmo Tema 118/STJ (cf. fl. 1.093 do recurso especial).
+Patente, pois, a falta de interesse recursal para a oposição dos presentes embargos de declaração, a obstar o conhecimento do recurso no ponto.
+Noutro giro, em se tratando de erro material, possível a sua corrigenda de ofício: onde se lê: "No caso dos autos, observa-se que a Corte a quo decidiu a controvérsia acerca da compensação tributária com base no entendimento sedimentado pelo STJ no Tema 118 (cf. fls. 1061/1064)."; leia-se: "No caso dos autos, observa-se que a Corte a quo decidiu a controvérsia acerca da compensação tributária com base no entendimento sedimentado pelo STJ no Tema 265 - REsp 1.137.738/SP (cf. fls. 1061/1064).".
+Além disso, de acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado ou, ainda, para corrigir erro material.
+Contudo, não se verifica a existência de omissão, como sustentado no recurso, pois a decisão embargada decidiu, de forma clara e fundamentada, toda a controvérsia posta no recurso.
+Com efeito, restou devidamente consignado que a tese recursal está intrinsecamente ligada à questão decidida na origem de acordo com recurso especial repetitivo, prejudicando a aprecia ção do recurso especial e de seu respectivo agravo.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados vícios no julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente omissão no decisum embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, conheço em parte dos embargos de declaração e, na parte conhecida, os rejeito. Procedida a correção de erro material ex officio, nos termos da fundamentação.
+Publique-se.
+EMENTA
