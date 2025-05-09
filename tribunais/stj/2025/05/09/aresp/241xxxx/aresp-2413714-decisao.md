@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que não admitiu recurso especial interposto em face de acórdão com a seguinte ementa:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DECISÃO QUE JULGOU IMPROCEDENTE A IMPUGNAÇÃO. PRETENSÃO DE CLASSIFICAÇÃO DO CRÉDITO COMO EXTRACONCURSAL, TENDO EM VISTA A NATUREZA DE ALIENAÇÃO FIDUCIÁRIA. INVIABILIDADE. BEM GRAVADO POR GARANTIA DE ALIENAÇÃO FIDUCIÁRIA (VEÍCULO TIPO CAMINHÃO) QUE CUMPRE FUNÇÃO ESSENCIAL À ATIVIDADE DA EMPRESA RECUPERANDA (TRANSPORTADORA). EXCEPCIONALIDADE DO CASO CONCRETO. SUBMISSÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. INSTITUTO QUE VISA A PRESERVAÇÃO DA EMPRESA. INTELIGÊNCIA DO ART. 47 DA LEI Nº 11.101/2005. JURISPRUDÊNCIA DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO CONHECIDO E DESPROVIDO"
+Opostos embargos de declaração, foram rejeitados.
+A parte, em seu recurso especial especial, aponta violação ao art. 47 da Lei 11.101/2005, sustentando que a essencialidade do bem não influencia a aplicação do § 3º do art. 49 do referido diploma, não permitindo, assim, a modificação da natureza do crédito, o qual permanece extraconcursal para todos os efeitos da recuperação judicial.
+Ao fim, pede o provimento do recurso especial para que se declare como extraconcursal o crédito.
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 144/146 e-STJ.
+Agravo em recurso especial às fls. 149/157 e-STJ.
+Sem contraminuta.
+Assim delimitada a controvérsia, passo a decidir.
+Da leitura do recurso especial, verifica-se que a parte formula pedido para que haja a correta classificação de seu crédito, que entende ser extraconcursal, em contraposição à decisão agravada na origem, que assim dispôs:
+"que os créditos impugnados permaneçam na relação de credores de forma diferenciada como garantia real, para que seja efetuado pagamento de forma específica, devendo os referidos bens permanecerem na posse da recuperanda, enquanto durar o período de suspensão das ações e execuções contra a devedora, conforme ressalva final do §3º, do art. 49, da Lei n. 11.101/2005".
+Assim, verifica-se a necessidade de retificação do acórdão recorrido no ponto, uma vez que a natureza do crédito é extraconcursal ante a garantia de alienação fiduciária.
+Ressalta-se, entretanto, que, "ainda que os créditos garantidos fiduciariamente não se sujeitem aos efeitos da recuperação judicial, não se admite a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial" (AgInt no AREsp n. 2.132.917/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024.).
+Nesse sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. BENS ESSENCIAIS À ATIVIDADE EMPRESARIAL. PERMANÊNCIA NA POSSE DA RECUPERANDA. SÚMULA N. 7/STJ.
+1. Ainda que os créditos garantidos fiduciariamente não se sujeitem aos efeitos da recuperação judicial, não se admite a retirada do estabelecimento do devedor dos bens de capital essenciais à sua atividade empresarial.
+2. Assentada a natureza essencial à recuperação judicial dos bens de capital alienados fiduciariamente, a pretensão da agravante encontra óbice na Súmula n. 7/STJ, visto que a revisão da matéria implica o imprescindível reexame das provas constantes dos autos.
+Agravo interno improvido" (AgInt no AREsp n. 2.132.917/MG, relator Ministro Humberto Martins, Terceira Turma, julgado em 11/11/2024, DJe de 14/11/2024.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AGRAVO NÃO PROVIDO.
+1. Os credores cujos créditos não se sujeitam ao plano de recuperação judicial não podem expropriar bens essenciais que afetem a atividade empresarial da sociedade recuperanda.
+2. Agravo interno não provido" (AgInt no REsp n. 1.993.645/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/8/2023, DJe de 24/8/2023.)
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E EXECUÇÃO CÍVEL. CÉDULA DE PRODUTO RURAL. ALIENAÇÃO FIDUCIÁRIA. PRODUTO AGRÍCOLA. GRÃOS DE SOJA. INAPLICABILIDADE DA PARTE FINAL DO ART. 49, § 3º, DA LEI 11.101/05. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO CÍVEL PARA PROSSEGUIR COM A DEMANDA AJUIZADA EM FACE DO PRODUTOR RURAL.
+1. Os arts. 6º, § 7º-A, combinados com o art. 49, § 3º, parte final, da Lei 11.101/2005, estabelecem, em relação ao credor titular da posição de proprietário fiduciário de bens, a competência do juízo da recuperação judicial para determinar a suspensão dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial durante o prazo de blindagem. Isso porque é vedada a venda ou retirada do estabelecimento do devedor os bens de capital ao longo da suspensão das ações e execuções prevista no art. 6º, § 4º, da LFRE.
+2. Consoante a jurisprudência do STJ, se determinado bem não puder ser classificado como bem de capital, ao juízo da recuperação não é dado fazer nenhuma inferência quanto à sua essencialidade para fins de aplicação da ressalva contida na parte final do § 3º do art. 49 da Lei 11.101/05. Os grãos cultivados e comercializados (soja) pelo produtor rural - como na hipótese - são o produto final da atividade empresarial por ele desempenhada e, por isso, não atraem a incidência da ressalva prevista na parte final do § 3º do art. 49 da Lei 11.101/2005.
+3. Agravo interno não provido" (AgInt nos EDcl no CC n. 203.085/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 1/10/2024, DJe de 4/10/2024.)
+Assim, necessário que conste que o crédito possui natureza extraconcursal, ante a garantia prestada, mas sem a possibilidade de expropriação do bem dado em garantia, tendo em vista que é bem essencial à atividade da empresa recuperanda.
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial para determinar a retificação do Quadro Geral de Credores para excluir o crédito oriundo do contrato da CÉDULA DE CRÉDITO BANCÁRIO EMPRÉSTIMO - CAPITAL DE GIRO Nº 010.418.993, ante sua extraconcursalidade, em razão da natureza da garantia (alienação fiduciária), ressalvando, entretanto, a possibilidade da expropr iação do bem dado em garantia, ante sua característica de essencial às atividades da empresa recuperanda.
+Intimem-se.
+EMENTA
