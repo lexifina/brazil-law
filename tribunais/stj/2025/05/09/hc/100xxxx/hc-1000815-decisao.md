@@ -1,0 +1,15 @@
+DECISÃO
+O presente habeas corpus, impetrado em benefício de DIOGO JHONNATA PEREIRA MOURA - condenad o à pena total de 16 anos de reclusão, em regime inicial fechado, além do pagamento de 2.400 dias multa, por incursão nos crimes de tráfico de drogas e associação para o tráfico de drogas majorados (fl. 67) -, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO (Apelação Criminal n. 1000259-3 3.2023.8.11.0052, integrada pelos Embargos de Declaração de fls. 35/67), não comporta conhecimento.
+Nesta impetração, busca-se, inclusive em caráter liminar, a absolvição do paciente do delito de tráfico de drogas, sustentando que não restou comprovada a autoria, uma vez que ele não praticou nenhuma das condutas previstas no art. 33, caput, da Lei n. 11.343/2006. Além disso, a materialidade do delito também não foi demonstrada, pois não consta nos autos o laudo de constatação da substância entorpecente.
+Subsidiariamente, requer-se o refazimento da dosimetria, com o redimensionamento da pena-base ao mínimo legal, sob a alegação de indevida valoração negativa das circunstâncias judiciais da culpabilidade, pois normal ao tipo, bem como da conduta social e da personalidade do agente. Argumenta-se que essa valoração se baseou em fundamentos não apenas inidôneos, mas também idênticos - a existência de condenações anteriores definitivas -, configurando indevido bis in idem. Do mesmo modo, sustenta-se a ocorrência de bis in idem no reconhecimento das causas de aumento de pena, uma vez que se apoiaram nos mesmos elementos utilizados para exasperar a pena inicial. Por fim, afirma-se que o paciente faz jus ao reconhecimento da causa especial de diminuição de pena do tráfico privilegiado, pois, à época dos fatos, era tecnicamente primário .
+Os autos vieram a mim conclusos por prevenção do HC n. 976.697/MT.
+É o relatório.
+Em consulta ao Sistema Integrado de Atividade Judiciária deste Superior Tribunal, verifiquei a anterior impetração do Habeas Corpus n. 976.711/MT/MG, em benefício do paciente, contra o mesmo acórdão, Apelação Criminal n. 1000259-33.2023.8.11.0052, integrada pelos Embargos de Declaração, e com pretensões idênticas.
+Considerando que o habeas corpus anteriormente impetrado encontra-se em fase avançada de processamento - conta com informações das instâncias ordinárias e parecer do Ministério Público Federal -, reservo-lhe a análise de mérito dos pedidos.
+Verifico, portanto, que este recurso é mera reiteração de pedido, o que não é admitido nesta Corte.
+Anote-se os precedentes: AgRg no HC n. 900.392/PB, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2024; e AgRg no RHC n. 185.622/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/3/2024.
+Ante  o  exposto,  não  conheço  do  habeas  corpus.
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS MAJORADOS. PRETENSÃO DE ABSOLVIÇÃO. PLEITO SUBSIDIÁRIO DE REFAZIMENTO DA DOSIMETRIA. REITERAÇÃO DE HABEAS CORPUS ANTERIOR. INADMISSIBILIDADE.
+Habeas corpus não conhecido.
