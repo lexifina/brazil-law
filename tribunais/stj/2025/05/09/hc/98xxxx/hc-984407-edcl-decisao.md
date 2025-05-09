@@ -1,0 +1,15 @@
+DECISÃO
+Mediante a decisão de fls. 947/948, indeferi liminarmente o habeas corpus que pleiteava a absolvição ou a desclassificação da conduta imputada a WILLIAM DE OLIVEIRA VALENCA no Processo n. 1522422-55.2021.8.26.0228, da 4ª Vara Criminal da comarca da Capital/SP. O decisum se baseou, entre outros motivos, na supressão de instância, na necessidade de revolvimento de fatos e provas da ação penal e na constatação de que as instâncias ordinárias consignaram a existência de outros elementos probatórios suficientes para embasar a condenação do paciente, especialmente os relatos dos corréus.
+Agora, a defesa sustenta, por meio de embargos de declaração, a existência de erro material nesse decisum, ao argumento de que o a córdão proferido em sede de apelação teria se baseado exclusivamente nos relatos da vítima e dos policiais civis responsáveis pela prisão em flagrante, realizada em data posterior aos fatos, sem que houvesse valoração positiva ou negativa das declarações prestadas pelos corréus. Tal circunstância, segundo alega, evidencia vício relevante na fundamentação da decisão monocrática, sobretudo por que que a prova central utilizada para a condenação consistiu no reconhecimento extrajudicial do veículo, fato incontroverso nos autos.
+Diante desse cenário, requer o acolhimento dos embargos de declaração para suprimir ou retificar a assertiva questionada, sem prejuízo da atribuição de efeitos infringentes para conceder a ordem de habeas corpus ou, subsidiariamente, determinar o regular processamento do writ.
+É o relatório.
+No caso, não percebo a existência de nenhum vício a ser sanado na via dos
+aclaratórios.
+Conforme expressamente consignado na decisão ora impugnada, embora a matéria de fundo não tenha sido enfrentada de forma direta pela Corte estadual, há indícios de que foram considerados outros elementos probatórios aptos a fundamentar a condenação, dentre os quais se incluem os relatos dos corréus.
+Ainda que a defesa sustente que o acórdão da apelação teria se baseado exclusivamente nos relatos da vítima e dos policiais civis, tal alegação não encontra respaldo no próprio teor do julgado, que, transcrevendo trechos da sentença, faz menção expressa às declarações de Nerivaldo e Gilmar. Os excertos transcritos evidenciam que ambos os corréus atribuíram ao embargante a responsabilidade por convocá-los para organizar e carregar a mercadoria, utilizando, inclusive, dois veículos de sua propriedade; circunstância harmoniosa com os demais elementos constantes dos autos e que, de certo modo, confere carga incriminatória à sua participação nos fatos.
+Assim sendo, o ponto em questão não configura erro material, mas mero inconformismo da parte quanto à valoração jurídica das provas, o que extrapola os limites objetivos dos embargos de declaração.
+Pelo exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS LIMINARMENTE INDEFERIDO. FALTA DOS PRESSUPOSTOS LEGAIS. ALEGAÇÃO DE ERRO NO DECISUM. INEXISTÊNCIA. MERO INCONFORMISMO DA PARTE. INCONGRUÊNCIA DAS RAZÕES DOS EMBARGOS COM O QUE FOI DECIDIDO.
+Embargos de declaração rejeitados.
