@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito de competência instaurado entre o JUÍZO FEDERAL DA 6A VARA DE FOZ DO IGUAÇU - SJ/PR (Juízo suscitante) e o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Juízo suscitado).
+O incidente processual decorre de ação ajuizada por GUILHERME HERMOSILLA SOUZA, RODRIGO HERMOSILLA SOUZA, DANIELA ZEBALLOS HERMOSILLA em desfavor do MUNICÍPIO DE GUAÍRA e do INSTITUTO NACIONAL DO SEGURO SOCIAL em que a parte autora objetiva a concessão de "pensão por morte aos Requerentes e ao pagamento das prestações em atraso, devidamente atualizadas pela correção monetária, devendo as parcelas vencidas serem pagas de uma só vez, mais os juros legais, em total a ser apurado desde o evento morte do servidor estatuário aposentado - Affonso Hermosilla (avó e guardião dos requerentes), na forma legal" (fl. 21).
+O TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, para quem a ação foi distribuída, declarou-se incompetente para processar e julgar o processo por entender que (fls. 429/431):
+Em suma: no tocante a aposentadoria do percebida pelo ex-servidor em vida, considerando-se que os requisitos legais foram alegadamente preenchidos em momento anterior à extinção do fundo previdenciário municipal, este era corretamente direcionado ao Município de Guairá; todavia, no que tange ao pedido de conversão da benesse em pensão por morte, a parte passiva legítima é o Instituto Nacional do Seguro Social - INSS, eis que só implementados os requisitos quando já extinto o fundo previdenciário municipal.
+Entretanto, diferentemente do que tenta fazer crer a Municipalidade Apelante, tal fato, por si só, não acarreta a improcedência pura e simples da demanda.
+Afinal, é de se recordar que as contribuições previdenciárias, em tese, foram vertidas em sua integralidade em favor do fundo previdenciário municipal - e, por consequência de sua extinção, do Município de Guaíra. Assim, levando-se em conta a imprescindibilidade de suporte financeiro para pagamento de benefícios previdenciários, a relação jurídica em questão, por sua natureza, atrai a necessidade de litisconsórcio passivo entre a Municipalidade e o Instituto Nacional do Seguro Social - INSS.
+Isso porque o artigo 114, do CPC/15, determina que entre todos os sujeitos que haverá litisconsórcio necessário tiverem a sua esfera jurídica atingida pelos efeitos da sentença, seja por disposição de lei ou pela natureza da relação jurídica estabelecida.
+ ..
+Portanto, vê-se a existência de vício insanável na sentença hostilizada, de forma que imperiosa a declaração de sua nulidade, em sede de reexame necessário conhecido de ofício.
+ ..
+Diante do Exposto, voto por declarar, em sede de reexame necessário conhecido de ofício, a nulidade da sentença, determinando-se o retorno dos autos à origem, para que seja intimada a parte Autora para requerer a citação de todos os litisconsortes passivos necessários, sob pena de extinção do feito, forte no artigo 115, parágrafo único, do CPC/15; bem como julgar prejudicado o recurso de Apelação Cível interposto pelo Município de Guaíra.
+Por sua vez, o JUÍZO FEDERAL DA 6A VARA DE FOZ DO IGUAÇU - SJ/PR suscitou o presente conflito com os seguintes fundamentos (fls. 1.197/1.198):
+ ..  não há legitimidade do INSS para integrar o polo passivo deste feito, devendo o processo, no entendimento deste Juízo, tramitar perante a Justiça Estadual competente para apreciar as demandas propostas em face da Municipalidade.
+Oportuno mencionar, também, que a competência especializada deste Juízo Previdenciário é absoluta e restringe-se a matérias estritamente previdenciárias, assim entendidas aquelas fundadas nas Leis nºs 8.212/91 e 8.213/91 e Decreto nº 3.048/99, e nas quais figure como réu o Instituto Nacional do Seguro Social (INSS), interpretação essa que tem guarida no artigo 1º da Resolução nº 11/2012 do Tribunal Regional Federal da 4ª Região.
+Assim, uma vez excluído o ente público federal, não haveria que se falar na competência da Justiça Federal para processo e julgamento do presente feito, nos termos do art. 109, inciso I, da Constituição Federal.
+O Ministério Público Federal opinou pela competência da Justiça Comum (fls. 1.214/1.216).
+É o relatório.
+Conheço do conflito porque se trata de controvérsia instaurada entre juízos vinculados a tribunais distintos, conforme preceitua o art. 105, I, d, da Constituição Federal.
+Nos termos do art. 109, I, da Constituição Federal, a competência da Justiça Federal se dá em razão da pessoa, sendo competente somente nos casos em que "a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes".
+O Juízo suscitado, ao analisar a controvérsia, afirmou que (fl. 428):
+Ocorre que, à data do alegado preenchimento dos requisitos legais, pelo trabalhador, para a percepção da aposentadoria, existia o Fundo Previdenciário Municipal Guaíra, ao qual convergia toda a responsabilidade relativa ao benefício em questão.
+Ocorre que em 2012, o Regime Municipal de Previdência foi extinto (Lei nº 1.202/2012), restando a cargo do Município arcar com os benefícios concedidos até então; e passando os futuros a serem responsabilidade do Instituto Nacional do Seguro Social - INSS, pois geridos segundo o Regime Geral de Previdência Social - RGPS.
+Da leitura da Lei 1.202/2012, é possível extrair que (destaquei):
+A Câmara Municipal de Guaíra, estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte lei:
+Art. 1º Ficam revogados os artigos 060, 061, 062, 127 e 192, da lei nº 1/94, de 24.06.94.
+Art. 2º O artigo 213, da lei nº 1/94, de 24.06.94, passa a vigorar com a seguinte redação:
+"Art. 213 Os servidores efetivos e comissionados regidos pelas leis municipais nº 899, de 28.11.90, e 01/94, de 24.06.94, contribuirão para o Regime Geral de Previdência Social."
+Art. 3º Aos servidores públicos municipais estatutários e aos estáveis, previstos no artigo 19, do Ato das Disposições Transitórias, da Constituição Federal, titulares dos cargos com remuneração que exceder o limite máximo do benefício concedido pelo Regime Geral de Previdência Social, é assegurado o direito à complementação de proventos da aposentadoria e pensão pelos cofres públicos do Município de Guaíra, a fim de garantir o princípio constitucional da irredutibilidade e da integralidade.
+Art. 4º Esta lei entrará em vigor na data de sua publicação.
+Ou seja, somente a partir de 2012 é que foi extinto o fundo de previdência municipal (art. 61 da Lei 1 de 1994) e alterado o comando normativo para determinar que os servidores do Município de Guaíra passem a contribuir para o Regime Geral de Previdência Social.
+Contudo, da análise do CNIS do de cujus cuja pensão por morte é pleiteada, é possível verificar que os vínculos do servidor foram apenas com o Município e findaram-se em 1987, 1988 e 1998 (fl. 82).
+Logo, inaplicável a Lei 1.202/2012 ao caso concreto e portanto, não há que se falar em contribuição do servidor para o RGPS e sim, para o próprio Município.
+Assim, conforme apontado pelo Juízo Suscitante, "o CNIS do segurado instituidor (evento 1, PROCADM33, p. 20) comprova que o benefício de aposentadoria não era vinculado ao RGPS. Além disso, o falecido não possuía nenhum outro vínculo no CNIS que pudesse justificar ou acarretar a responsabilidade do INSS" e portanto, "entendo não haver responsabilidade do INSS pela concessão ou pagamento do benefício de pensão por morte decorrente de benefício originário, pago e mantido por outro ente, no caso o Município de Guaíra/PR, por ausência de expressa previsão legal" (fl. 1.197, destaquei).
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA EM RAZÃO DA MATÉRIA. AUSÊNCIA DE INTERESSE DO INSS. SÚMULA 150 DO STJ.
+1. A competência ratione materiae, em regra, é determinada em função da natureza jurídica da pretensão deduzida, sendo esta caracterizada pelo pedido e pela causa de pedir. Na hipótese em exame, o interessado postulou a concessão de beneficio previdenciário sem referência a acidente de trabalho.
+2. No caso dos autos, conforme se extrai da Petição Inicial, o pedido é formulado por servidor público estadual objetivando a concessão de benefício previdenciário decorrente do Regime de Previdência Próprio do Estado do Rio Grande do Sul.
+3. Não compõe a lide a União, suas autarquias ou empresas públicas, por ter o Juízo Federal entendido não haver interesse da União na demanda, nos termos da Súmula 150/STJ, não incidindo a regra ratione personae da Justiça Federal. A competência, portanto, é da Justiça Comum Estadual.
+4. Agravo Interno não provido.
+(AgInt no CC n. 180.716/RS, relator Ministro Herman Benjamin, Primeira Seção, julgado em 15/2/2022, DJe de 15/3/2022, destaquei)
+Ante o exposto, declaro competente o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (Juízo suscitado).
+Publique-se. Comunique-se.
+EMENTA
