@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de Agravo apresentado por JANE TAVARES SIMAO E SILVA à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - BLOQUEIO DE VALORES - ALEGADA IMPENHORABILIDADE - NATUREZA ALIMENTAR - AUSÊNCIA DE PROVA - QUANTIA INFERIOR A QUARENTA SALÁRIOS MÍNIMOS - INDÍCIOS DE EXISTÊNCIA DE OUTRAS FONTES DE RENDA - PREJUÍZO AO MÍNIMO EXISTÊNCIAL - AUSÊNCIA - DECISÃO MANTIDA. I - NOS TERMOS DO INCISO IV, DO ARTIGO 833, DO CÓDIGO DE PROCESSO CIVIL, SÃO IMPENHORÁVEIS AS VERBAS DE NATUREZA ALIMENTAR. II - O SUPERIOR TRIBUNAL DE JUSTIÇA ALARGOU A INTERPRETAÇÃO DO ART. 833, INCISO X, DO CÓDIGO DE PROCESSO CIVIL, DE MODO A CONSIDERAR TAMBÉM IMPENHORÁVEL O LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS CONSTANTES DA CONTA CORRENTE E DE FUNDO DE INVESTIMENTO. III - NÃO HAVENDO PROVAS DE QUE A QUANTIA BLOQUEADA É ORIUNDA DE BENEFÍCIO PREVIDENCIÁRIO DE APOSENTADORIA E EXISTINDO INDÍCIOS DE QUE A PARTE EXECUTADA DETÉM OUTRAS FONTES DE RENDA, DEVE SER MANTIDO O BLOQUEIO, AINDA QUE O VALOR SEJA INFERIOR A QUARENTA SALÁRIOS MÍNIMOS, CONSIDERANDO GARANTIDO O MÍNIMO EXISTENCIAL.
+Quanto à controvérsia, a parte recorrente alega violação do art. 833, IV, X e § 2º, do CPC, no que concerne à impenhorabilidade dos valores constritos, porquanto comprovado que se tratam de proventos de aposentadoria e que o montante não excede 40 salários mínimos, trazendo a seguinte argumentação:
+18. Dito isto, o d. Juízo ad quem, ao apreciar o recurso de agravo de instrumento desconsiderou o conteúdo probatório ora apresentado, aduzindo não estar devidamente demonstrada que penhora recaiu sobre verba oriunda de aposentadoria.
+19. Ocorre que o entendimento exarado não pode prevalecer, porquanto distorcido do entendimento jurisprudencial pátrio. De modo que a interpretação literal da norma permite-nos concluir de forma inquestionável que os proventos de aposentadoria são impenhoráveis, bem como, que os valores até 40 (quarenta) salários-mínimos, constantes em contas-correntes, poupança ou fundos de investimento, também são impenhoráveis.
+ ..
+21. Neste sentido, destaca-se, fora amplamente demonstrado pela Recorrente a conta onde ocorreu a constrição, bem como tratar-se de proventos de aposentadoria, bem como que os valores constritos não ultrapassam a monta de 40 (quarenta) salários-mínimos, além de não receber mensalmente valores superiores a 50 (cinquenta) salários-mínimos.
+ ..
+23. Portanto, conforme amplamente demonstrado, o valor constrito de R$ 2.610,43 (dois mil, seiscentos e dez reais e quarenta e três centavos), além de se tratar de verbas de aposentadoria, são inferiores à 40 (quarenta) salários-mínimos, sendo assim, impenhoráveis! (fls. 1276-1278).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Registre-se que para se impor a proteção prevista no art.833, inciso IV, do CPC, necessária que seja comprovado a situação de impenhorabilidade.
+ ..
+Embora defenda que a quantia bloqueada seja oriunda de benefício de aposentadoria, não há provas neste sentido.
+A quantia objeto de bloqueio foi localizada em conta mantida pela executada junto ao Banco do Brasil, enquanto que o contracheque por ela anexado indica que a aposentadoria é depositada na instituição financeira Itaú, ordem 92.
+ ..
+Também não há provas de que o valor, embora recebido perante o Banco Itaú, seja transferido ao Banco do Brasil.
+Além disso, a quantia bloqueada é diversa e bem aquém do que a executada aufere a título de aposentadoria.
+Apenas a título de benefício previdenciário a executada aufere R$ 11.603,63 por mês, valor suficiente para manter o seu mínimo existencial certo que ausente provas com despesas extraordinárias.
+Registro que apesar de a quantia bloqueada ser inferior a quarenta salários mínimos, ela não merece a proteção de impenhorabilidade, certo que a pesquisa SISBAJ UD revela ser mantida pela parte executada relação com outras instituições financeiras, fazendo concluir pela diversidade de receitas (fls. 1247-1249).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), porquanto o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: AgInt no REsp n. 2.113.579/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.691.829/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJEN de 28/3/2025; AREsp n. 2.839.474/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN de 26/3/2025; AgInt no REsp n. 2.167.518/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJEN de 27/3/2025; AgRg no AREsp n. 2.786.049/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJEN de 26/3/2025; AgRg no AREsp n. 2.753.116/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJEN de 25/3/2025; AgInt no REsp n. 2.185.361/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJEN de 28/3/2025; AgRg no REsp n. 2.088.266/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJEN de 25/3/2025; AREsp n. 1.758.201/AM, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, DJEN de 27/3/2025; AgInt no AREsp n. 2.643.894/DF, relator Ministro Raul Araújo, Quarta Turma, DJEN de 31/3/2025; AgInt no AREsp n. 2.636.023/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 28/3/2025; AgInt no REsp n. 1.875.129/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJEN de 21/3/2025.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
