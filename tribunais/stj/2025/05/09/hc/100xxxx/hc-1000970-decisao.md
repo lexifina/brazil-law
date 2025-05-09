@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de VILSON NEVES DE ANDRADE, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que denegou a ordem no HC n. 1.0000.25.101070-8/000 (fls. 21/26).
+Com efeito, busca a impetração a revogação da custódia cautelar imposta ao paciente pelo Juízo da Vara Plantonista da Microrregião XLV/MG, em razão da suposta prática do crime de homicídio qualificado (Processo n. 5006374-67.2025.8.13.0701 - fls. 40/42), ao argumento de constrangimento ilegal em razão da ausência de fundamentação idônea e dos requisitos necessários para a manutenção da prisão preventiva, motivada na gravidade abstrata do delito e pelo fato de o paciente ser primário, com bons antecedentes. Subsidiariamente, pede a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório.
+Ocorre que inexiste o alegado constrangimento.
+No caso, o Juízo singular converteu a prisão em flagrante em preventiva, sob os seguintes fundamentos (fls. 40/41 - grifo nosso):
+ ..
+A prova da existência do crime e o indício de autoria podem ser extraídos do próprio auto de prisão em flagrante, notadamente do Boletim de Ocorrência, do depoimento da testemunha presencial Bruna e da confissão do conduzido.
+Em se tratando de crime com emprego de violência ou ameaça, a inexistência de uma resposta estatal imediata macula a imagem do Judiciário, gerando uma sensação de impunidade no seio social.
+Essa sensação de impunidade, por sua vez, encoraja aqueles que praticam ou desejam praticar crimes, ao mesmo tempo em que gera um temor nos demais cidadãos.
+Com isso, há uma subversão da ordem pública e da paz social, bem como uma inversão de valores, pois aqueles que deveriam se sentir intimidados pela resposta estatal sentem-se encorajados, enquanto aqueles que deveriam estar protegidos pelo Estado sentem-se intimidados.
+Ademais, a gravidade concreta da infração e a periculosidade do agente devem ser aferidas mediante a análise do modus operandi da conduta delituosa.
+Com efeito, de acordo com o que consta da comunicação do flagrante: a vítima estaria gritando com a testemunha Bruna, quando o conduzido se aproximou dela pelas costas e desferiu várias facadas; a vítima caiu no banco do carro, momento em que o indiciado desferiu outras facadas, dessa vez de frente para ela; as agressões só cessaram após gritos e puxões da testemunha Bruna, quando o agressor foi embora.
+O relatório médico de ID. 10404136219 identificou 13 ferimentos por arma branca distribuídos entre o tórax e abdome.
+A gravidade da conduta demonstra a periculosidade do agente, razão pela qual as medidas cautelares diversas da prisão seriam insuficientes para coibir a prática de novos crimes.
+Insta salientar, ainda, que o máximo da pena privativa de liberdade prevista para o crime de homicídio qualificado supera os 4 (quatro) anos, atendendo ao disposto no artigo 313, I, do Código de Processo Penal.
+Entendo, portanto, estarem presentes os requisitos para a decretação da prisão preventiva do indiciado, uma vez que é a única forma de garantir a ordem pública e a paz social.
+O Tribunal a quo convalidou a segregação preventiva por entendê-la motivada, ressaltando que (fl. 25 - grifo nosso):
+ ..
+No caso em análise, a decisão que decretou a prisão preventiva foi devidamente justificada na existência de indícios de materialidade e autoria delitiva em desfavor do paciente, bem como na necessidade de garantir da ordem pública, sobretudo em virtude da gravidade em concreto da conduta. Pelo que se depreende dos autos, os fatos supostamente praticados são graves, cometido em via pública, com testemunha ocular e por meio de recurso que dificultou a defesa do ofendido, sendo que o paciente confirmou os fatos em sede policial.
+Ademais, a gravidade concreta da conduta imputada ao paciente restou evidenciada pelos 13 (treze) golpes de faca supostamente desferidos contra a vítima, resultando em sua morte.
+Realizando-se um controle da motivação cabível à espécie, constata-se a suficiência e a legitimidade da fundamentação da decisão judicial que decretou a prisão preventiva do Paciente.
+Frise-se que não se expressa, neste momento, qualquer juízo condenatório, tratando-se somente de medida de natureza cautelar, a qual exige apenas a probabilidade, e não a convicção da existência de um fato criminoso e de suas circunstâncias.
+Como se vê, o periculum libertatis do paciente foi evidenciado pelas instâncias ordinárias.
+Assim, observa-se da análise dos trechos acima que a constrição cautelar está alicerçada em elementos vinculados à realidade, ante as referências às circunstâncias fáticas justificadoras, com destaque, principalmente, ao modus operandi (homicídio cometido na presença de testemunhas, em via pública, em que foram desferidas 13 facadas contra a vítima, por meio de recurso que dificultou a defesa do ofendido). Tudo a revelar e a justificar a manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça, de forma reiterada, registra entendimento no sentido de que a gravidade concreta da conduta, reveladora do potencial elevado grau de periculosidade do agente e consubstanciada na alta reprovabilidade do modus operandi empregado na empreitada delitiva, é fundamento idôneo a lastrear a prisão preventiva, com o intuito de preservar a ordem pública (AgRg no RHC n. 171.820/PR, Ministra Laurita Vaz, Sexta Turma, DJe 20/4/2023). A propósito: AgRg no HC n. 940.170/SP, Ministra Daniela Teixeira, Quinta Turma, DJe 30/10/2024; e AgRg no RHC n. 192.072/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/8/2024.
+Por fim, eventuais condições pessoais favoráveis do paciente não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. MODUS OPERANDI DO CRIME. DIVERSAS FACADAS EM VIA PÚBLICA, NA PRESENÇA DE TESTEMUNHAS, POR MEIO DE RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO. PERICULOSIDADE CONCRETA EVIDENCIADA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PRECEDENTES.
+Inicial indeferida liminarmente.
