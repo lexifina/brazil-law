@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por IDELMON SILVEIRA DE LIMA contra a decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 1502800-36.2021.8.26.0536 (fls. 334/350).
+No recurso especial, o agravante impugna o incremento da pena-base levada a cabo com fulcro no art. 42 da Lei de Drogas, que considerou a quantidade, variedade e natureza das drogas como motivo para incremento de pena e rechaça o reconhecimento de vetor negativo das circunstâncias do art. 59 do Código Penal, para a fixação de regime de pena mais gravoso em afronta art. 33 do Código Penal e para negar-lhe a substituição da pena privativa de liberdade por restritiva de direitos (fls. 386/ 391).
+Apresentadas as contrarrazões (fls. 398/402), o Tribunal de origem não admitiu o recurso com suporte no óbice das Súmulas 7/STJ e 283/STF (fls. 405/407).
+O Ministério Público Federal apresentou parecer opinando pelo não conhecimento do presente agravo, para não conhecer o recurso especial (fls. 440/446).
+É o relatório.
+O agravo é admissível, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+No que se refere ao incremento da pena-base, que prevê que a quantidade, variedade e natureza das drogas poderá ser considerada como motivo para incremento de pena, o agravante não demonstrou afronta à lei federal, especificamente ao art. 42 da Lei n. 11.343/2006.
+Contudo, claro resta na sentença, mantida em grau de apelação, que a causa de aumento não se deu pela quantidade de drogas apreendidas, mas pela variedade e natureza (fl. 253). Nesse sentido o acórdão atacado, manteve a decisão de primeiro grau, ensejando na pena-base majorada em razoável fração de 1/6, em ponderação da variedade e natureza das drogas localizadas (209 g de maconha, 525 g de cocaína e 29 g de crack).
+Desse modo, ainda que não se trate de quantidade elevada, o aumento está justificado, a teor 42 da Lei n. 11.343/2006.
+Dessa forma, considera-se que a natureza e diversidade de drogas produz reflexos no apenamento, pode ensejar aumento da pena-base.
+A propósito: AgRg no HC n. 827.566/SP, relator Ministro Messod Azulay Neto, Quinta Turma, DJe de 30/11/2023; AgRg no AREsp n. 1.774.003/PR, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 24/6/2021; e AgRg no HC n. 336.915/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/3/2016.
+A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Cito: AgRg no HC n. 863.894/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 28/2/2024.
+Por fim, no que se refere aos pedidos de abrandamento do regime prisional e de substituição da pena privativa de liberdade por restritivas de direitos, diante da presença de circunstância judicial desfavorável, impõe-se a manutenção do regime inicial de cumprimento de pena privativa de liberdade semiaberto (art. 33, § 3º, do CP), bem como fica vedada a substituição por restritivas de direitos (art. 44, III, do CP).
+Nesse sentido: AgRg no AREsp n. 2.752.226/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 1º/4/2025, DJEN de 7/4/2025; e HC n. 926.472/SP, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 11/2/2025, DJEN de 17/2/2025.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. AUMENTO DA PENA-BASE COM FUNDAMENTO NA NATUREZA E DIVERSIDADE DE DROGAS APREENDIDAS. FUNDAMENTO IDÔNEO. AUSÊNCIA DE AFRONTA AO ART. 42 DA LEI N. 11.343/2006. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL E DE SUBSTITUIÇÃO DA PENA CORPÓREA. INVIABILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. APLICAÇÃO DOS ARTS. 33, § 3º, E 44, III, AMBOS DO CP. JURISPRUDÊNCIA DO STJ.
+Agravo conhecido para negar provimento ao recurso especial.
