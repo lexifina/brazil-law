@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de impugnação oposta pela UNIÃO à execução em mandado de segurança no qual foi concedida a ordem para assegurar o pagamento dos valores retroativos em razão do reconhecimento da condição de anistiado político do exequente.
+A UNIÃO alega, em síntese, a inexigibilidade do título executivo, ante a possibilidade de anulação da referida portaria. Argumenta, ainda, que há excesso de execução, uma vez que não seriam devidos os consectários legais, em obediência à coisa julgada.
+Resposta do exequente às fls. 40-49.
+Na decisão de fls. 95-96, afastou-se a preliminar de inexigibilidade do título executivo. O decisum foi confirmado pelo acórdão de fls. 120-123.
+É o relatório. Decido.
+NÃO INCIDÊNCIA DE JUROS E CORREÇÃO MONETÁRIA
+Ao julgar os Embargos de Declaração no Recurso Extraordinário 553.710/DF (Tema 394), o Supremo Tribunal Federal definiu que os valores retroativos previstos nas portarias de anistia deverão ser acrescidos de juros moratórios e de correção monetária.
+Contudo, o Tema 394 do STF aplica-se aos casos em que o título executivo foi omisso acerca dos consectários legais, o que não é o caso em tela, no qual a decisão exequenda foi expressa no sentido de que não cabe a incidência dos juros de mora e correção monetária (fls. 232-235 do MS 21.509/DF):
+Por outro lado, não merece acolhimento o pleito para pagamento de juros e correção monetária na via mandamental, sob pena de assumir contorno de ação de cobrança, conforme se extrai do julgado assim ementado:
+(..)
+Isto posto, concedo parcialmente a segurança tão somente para determinar que se promova o pagamento dos valores fixados pela portaria anistiadora a título de atrasados, nos termos explicitados.
+Desse modo, em respeito à eficácia preclusiva da coisa julgada, deve-se observar o que está determinado no título judicial, não podendo haver execução daquilo que o título não garantiu. Em outras palavras, tendo sido já expedido o requisitório do crédito referente ao valor nominal da portaria de anistia por meio do Prc 12.842/DF, nada mais há para ser executado.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA IMPUGNAÇÃO À EXECUÇÃO EM MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. TÍTULO EXECUTIVO QUE EXPRESSAMENTE PREVIU A NÃO INCLUSÃO DE JUROS E CORREÇÃO MONETÁRIA. COISA JULGADA. IMPOSSIBILIDADE DE INCLUSÃO DOS CONSECTÁRIOS LEGAIS NA FASE DE EXECUÇÃO. AGRAVO IMPROVIDO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+2. Ao compulsar os autos, verifica-se que a decisão proferida no MS 22.398/DF, transitada em julgado em 10/8/2017 (certidão de fl. 330 daqueles autos), foi expressa em não acolher o pleito de pagamento dos juros e da correção monetária na via do mandado de segurança. A propósito, confiram-se trechos da referida decisão (fls. 290-302 daquele writ): "Por outro lado, não merece acolhimento o pleito para pagamento de juros e correção monetária na via mandamental, sob pena de assumir contorno de ação de cobrança, conforme se extrai do julgado assim ementado: (..) Isto posto, concedo parcialmente a segurança tão somente para determinar que se promova o pagamento dos valores fixados pela portaria anistiadora a título de atrasados, nos termos explicitados.".
+3. Desse modo, em respeito à eficácia preclusiva da coisa julgada, deve-se observar o que está determinado no título judicial, não podendo haver execução daquilo que o título não garantiu ou, em outras palavras, tendo a parte exequente já recebido o crédito referente ao valor nominal da portaria de anistia por meio do Prc 4.850/DF, como ela própria reconhece, nada mais há para ser executado. Nesse sentido: AgInt no REsp 1.769.596/RS, Rel. Desembargador convocado do TRF-5ª Região MANOEL ERHARDT, Primeira Turma, DJe 20/05/2021 e AgInt nos EDcl no AREsp 1704267/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 29/04/2021.
+4. Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do CPC/2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso. Nesse sentido: AgInt no REsp n. 1.994.255/DF, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 15/6/2022.
+5. Agravo interno improvido.
+(AgInt na ImpExe na ExeMS n. 22.398/DF, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 19/11/2024, DJEN de 29/11/2024).
+Portanto, com razão a executada quando afirma que a execução tem por objeto, tão somente, o valor nominal previsto na Portaria 1.553, de 4 de junho de 2004, que perfaz o total de R$ 237.633,83 (duzentos e trinta e sete mil, seiscentos e trinta e três reais e oitenta e três centavos).
+CONCLUSÃO
+Pelo exposto, julgo parcialmente procedente a impugnação e extingo a execução.
+Deixo de fixar honorários de sucumbência, em razão do julgamento do Tema 1.232/STJ, oportunidade em que foi fixada a seguinte tese jurídica: "Nos termos do art. 25 da Lei n. 12.016/2009, não se revela cabível a fixação de honorários de sucumbência em cumprimento de sentença proferida em mandado de segurança individual, ainda que dela resultem efeitos patrimoniais a serem saldados dentro dos mesmos autos."
+Publique-se. Intimem-se.
+EMENTA
