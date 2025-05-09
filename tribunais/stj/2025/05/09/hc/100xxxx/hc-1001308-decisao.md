@@ -1,0 +1,21 @@
+DECISÃO
+Em petição de habeas corpus, com pedido de medida liminar para determinar "o imediato relaxamento da prisão preventiva da paciente ou, alternativamente, sua substituição por medidas cautelares diversas, nos termos do art. 319 do CPP" (fl. 10), impetrado em favor de YASMIN RYANE RIBEIRO, alega-se coação ilegal em relação ao acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO.
+A paciente, em 18/4/2025, foi presa em flagrante pela prática de tráfico de drogas, convertido posteriormente em prisão preventiva.
+A petição expõe a existência de constrangimento ilegal devido à ausência de fundamentação idônea à decretação da prisão preventiva, consoante prescreve o art. 312 do CPP, requerendo, liminarmente e no mérito, a sua revogação ou substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+É o relatório. Decido.
+A Constituição da República assegura no art. 5º, caput, LXVII, que "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder".
+No entanto, a concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que decretou a prisão preventiva, no que interessa, teve a seguinte fundamentação (fl. 88):
+ ..  No caso, conforme noticiado, a acusada foi capturado sob suspeita de tráfico de drogas e desacato. Estava em posse de 13,38 gramas de haxixe, 69,95 gramas de cocaína, 53,72 gramas de maconha e 10,11 gramas de crack (acondicionado em pedras). A conduta foi corroborada pelo depoimento do condutor e da testemunha, bem como pelo laudo pericial acostado. Destaca-se a variada de entorpecentes e a forma de acondicionamento, representando forte indício para o tráfico.
+Da análise da CAC (fl. 57), constam internações pela prática de atos infracionais equiparados a tráfico de drogas (proc. 0002056-29.2023.8.26.0445 e proc. 0003608-58.2023.8.26.0015). Ou seja, tal fato indica reiteração delitiva por parte da custodiada.
+O Ministério público pugnou pela prisão preventiva, enquanto que a Defesa pugnou pela liberdade provisória da indiciada.
+Desse modo, diante dos fatos narrados, dos indícios reunidos e do comportamento altamente agressivo e imprevisível do réu, infelizmente, não resta outra opção que não seja a decretação da prisão preventiva, única medida, à luz do caso concreto, apta a preservar a ordem pública e a evitar a prática de novas infrações penais pelo acusado. Assim, para garantia da ordem pública, CONVERTO EM PRISÃO PREVENTIVA a prisão em flagrante em desfavor do acusado YASMIN RYANE RIBEIRO. ..
+Como se vê, descaracterizada a alegada inidoneidade do decreto prisional, pois apreendida relevante quantidade e variedade de drogas - em destaque -, além de registrar a ré, ora paciente, dois atos infracionais equiparados a tráfico de drogas.
+"O Supremo Tribunal Federal já concluiu que "mostra-se idônea a segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente evidenciada pela quantidade, variedade e natureza da droga apreendida" (HC n. 210.563 AgR, relator Nunes Marques, Segunda Turma, julgado em 9/5/2022, DJe 6/6/2022)" (AgRg no HC n. 972.161/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/3/2025, DJEN de 11/3/2025).
+"O fato de o agente ostentar maus antecedentes, reincidência, atos infracionais pretérito, inquérito ou mesmo ações penais em curso constitui fundamento idôneo e suficiente para justificar a prisão preventiva do acusado, por demonstrar sua periculosidade e risco concreto de reiteração delitiva." (AgRg no HC n. 971.661/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 14/4/2025, DJEN de 24/4/2025).
+Assim, inexistindo divergência da matéria no órgão colegiado deste Tribunal, admissível o exame deste writ in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Diante do exposto, denego a ordem de habeas corpus.
+Publique-se.
+Intimem-se.
+EMENTA
