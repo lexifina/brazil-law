@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANDRE MULLER e THIAGO TWARDOWSKI FERREIRA GUIMARAES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (A pelação Criminal n. 5003187-17.2021.8.24.0012/SC).
+Depreende-se dos autos que os pacientes foram condenados pela prática dos crimes de roubo circunstanciado e associação criminosa armada (arts. 157, § 2º, inciso V, e § 2º-A, inciso I, e 288, parágrafo único, ambos do Código Penal) às penas de: 8 anos, 3 meses e 10 dias de reclusão, em regime fechado, e pagamento de 16 dias-multa quanto a ANDRE; e 12 anos, 2 meses e 20 dias de reclusão, em regime fechado, mais 21 dias-multa com relação a THIAGO. O corréu Jonatas da Rocha foi absolvido das mesmas imputações com fulcro no art. 386, inciso VII, do Código de Processo Penal.
+Interposta apelação pela defesa, o recurso foi conhecido em parte e não provido (e-STJ, fl. 586).
+Opostos os embargos de declaração, não foi conhecido por unanimidade (e-STJ, fl. 620).
+Irresignada, a defesa impetrou o presente habeas corpus, no qual alega a nulidade informal dos pacientes, colhidos no Boletim de Ocorrência n. 0216904/2021 (lavrado em procedimento distinto), que teria ocorrida a suposta admissão da infração ora em comento. Alega, ainda, que não fora assegurado aos acusados a advertência sobre o direito constitucional ao silêncio e à não incriminação.
+Ressalta que o prejuízo está explicitado na condenação dos réus pelo crime de associação criminosa, que foi embasada nessa confissão extrajudicial.
+Arguiu a nulidade da sentença condenatória por ausência de correlação com a denúncia, e que a confissão espontânea, ainda que extrajudicial, deve ser aplicada na segunda fase da dosimetria da pena com relação ao crime de associação criminosa armada. Invoca a Súmula n. 545/STJ (e-STJ, fls. 4/17).
+O pedido de tutela liminar foi indeferido por este Relator (fls. 632/635). Informações prestadas (fls. 638/640).
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 690/695).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça, em consonância com sua consolidada jurisprudência, tem reiteradamente estabelecido diretrizes voltadas à racionalização do manejo do habeas corpus, com o objetivo de assegurar não apenas o regular desenvolvimento das ações penais e revisões criminais, mas, sobretudo, de preservar a função essencial do writ, qual seja, a de prevenir ou remediar lesão ou ameaça concreta ao direito de locomoção.
+Saliento que, nesse sentido, "a Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, sedimentou orientação no sentido de não admitir habeas corpus em substituição a recurso próprio ou a revisão criminal, situação que impede o conhecimento da impetração, ressalvados casos excepcionais em que se verifica flagrante ilegalidade apta a gerar constrangimento ilegal" (AgRg no HC n. 921.445/MS, relatora Ministra Daniela Teixeira, Quinta Turma, julgado em 03/09/2024, DJe de 06/09/2024).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO TENTADO. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ILEGALIDADE FLAGRANTE NÃO DEMONSTRADA. REPRIMENDA INFERIOR A QUATRO ANOS. PENA BASE FIXADA NO MÍNIMO LEGAL. REGIME MAIS GRAVOSO. POSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA EVIDENCIADA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. EFEITO DEVOLUTIVO AMPLO DO RECURSO DE APELAÇÃO. BIS IN IDEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra acórdão já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.  ..
+6. Agravo regimental desprovido. (AgRg no HC n. 751.156/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022)
+HABEAS CORPUS. ESTELIONATO. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DE SITUAÇÕES PREVISTAS NO ART. 621 DO CÓDIGO DE PROCESSO PENAL. PROVAS JUDICIALIZADAS. ABSOLVIÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. RECONHECIMENTO FOTOGRÁFICO. DESCRIÇÃO DAS CARACTERÍSTICAS. APRESENTAÇÃO DE VÁRIAS FOTOS. RECONHECIMENTO EM JUÍZO. PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. OBSERVÂNCIA. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
+(HC n. 978.168, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 04/02/2025, DJe de 06/02/2025).
+Conforme consulta realizada no sítio eletrônico do Tribunal de origem, verifica-se que a condenação dos pacientes transitou em julgado em 25/05/2022.
+Na hipótese, é inviável o conhecimento do habeas corpus que objetiva desconstituir condenação já transitada em julgado, sem que tenha sido previamente manejada a competente ação revisional, o que impede a formação da competência desta Corte Superior para exame da matéria, especialmente em hipóteses nas quais não se evidencia flagrante ilegalidade, como ocorre na presente situação.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+ EMENTA
