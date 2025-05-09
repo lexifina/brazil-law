@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo interposto por UNIMED C. GRANDE COOPERATIVA DE TRABALHO MEDICO LTDA. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA cuja ementa guarda os seguintes termos (fls.418-419):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE ANTECIPAÇÃO DE TUTELA. PROCEDÊNCIA PARCIAL. FORNECIMENTO DE MEDICAMENTO PELO PLANO DE SAÚDE PATOLOGIA COBERTA PELO PLANO DE SAÚDE (ADENOCARCINOMA DE PÂNCREAS COM METÁSTASE PULMONAR ESTÁDIO IV - CID 10 C.25). EXCEPCIONALIDADE DA INDICAÇÃO DE MEDICAMENTO OFF LABEL (FORA DA BULA) PARA O TRATAMENTO. EXISTÊNCIA DE EXPRESSA E MOTIVADA INDICAÇÃO MÉDICA. MEDICAMENTO (GEMZAR E ABRAXANE) REGISTRADO NA ANVISA. NEGATIVA DE COBERTURA. IMPOSSIBILIDADE. DANOS MORAIS CONFIGURADOS. VALOR ORA ARBITRADO QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. CARÁTER PEDAGÓGICO. PRECEDENTES DESTA CORTE. DESPROVIMENTO DO APELO. Segundo os precedentes do STJ, "os planos de saúde podem, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não podem limitar os tratamentos a serem realizados, inclusive os medicamentos experimentais"1 Na mesma linha, de acordo com o atual entendimento proclamado pelo Superior Tribunal de Justiça, " É abusiva a recusa do plano de saúde quanto à cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou fora das hipóteses previstas na bula (off label), porquanto não compete à operadora a definição do diagnóstico ou do tratamento para a moléstia coberta pelo plano contratado. 2. Agravo interno desprovido. (STJ; AgInt-AR Esp 2.166.381; Proc. 2022/0212120-7; SP; Quarta Turma; Rel. Min. Marco Buzzi; DJE 20/04/2023). Dano moral é aquele que lesiona a esfera personalíssima da pessoa (seus direitos da personalidade), como a intimidade, a vida privada, a honra e a imagem, bens jurídicos tutelados constitucionalmente.
+VISTOS, relatados e discutidos estes autos, acima identificados: ACORDA a Primeira Câmara Especializada Cível do Tribunal de Justiça da Paraíba, em sessão ordinária virtual realizada, por unanimidade, NEGAR PROVIMENTO AO RECURSO.
+Rejeitados os embargos de declaração opostos (fls. 473-477).
+No recurso especial, a parte recorrente alega que o acórdãos estadual negou vigência aos art. 10 e 12 da Lei n. 9.656/98 e aos art. 186 e 927 do Código Civil.
+Sustenta, em síntese, que não está obrigada a fornecer medicamentos fora do rol da ANS, que é taxativo. Aduz, ainda, que não cometeu ilícito apto a ensejar indenização por danos morais.
+Aponta divergência jurisprudencial com arestos de outros tribunais e desta Corte.
+Foram oferecidas contrarrazões ao recurso especial (fls. 507-520).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 529-532), o que ensejou a interposição do presente agravo.
+Não apresentada contraminuta do agravo (fls. 554-566).
+Instado a se manifestar, o Ministério Público opinou pelo não provimento do agravo (fls. 584-588).
+É, no essencial, o relatório.
+A decisão agravada não merece reforma.
+Com efeito, o Tribunal de origem analisou detidamente o recurso especial interposto, devendo a decisão de admissibilidade ser mantida por seus próprios fundamentos.
+Verifica-se que em relação à apontada ofensa aos art. 10 e 12 da Lei n. 9.656/98 e aos art. 186 e 927 do Código Civil, e à divergência jurisprudencial suscitada, o recurso especial não merece prosperar porquanto encontra óbices nas Súmulas n. 7 e 83 do Superior Tribunal de Justiça.
+O Tribunal de origem decidiu a controvérsia em harmonia com a jurisprudência do STJ, no sentido de que é obrigatório o custeio de medicamentos para o tratamento de câncer pelos planos de saúde, sendo irrelevante a discussão a respeito da natureza taxativa ou exemplificativa do rol da ANS, de modo que se figura abusiva a mera recusa em custear a cobertura de medicamento prescrito pelo médico, ainda que em caráter experimental ou off-label.
+Nesse sentido, cito:
+DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO PRESCRITO POR MÉDICO ASSISTENTE. TRATAMENTO ONCOLÓGICO. MEDICAMENTO REGISTRADO NA ANVISA. USO "OFF-LABEL". RECUSA ABUSIVA. OBRIGATORIEDADE DE COBERTURA. ROL DA ANS COMO REFERÊNCIA BÁSICA. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO. I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática que conheceu do agravo para negar provimento ao recurso especial, mantendo a condenação da operadora de plano de saúde ao custeio de medicamento prescrito para tratamento oncológico. O plano negou a cobertura sob a justificativa de que o medicamento era de uso "off-label" e não constava do Rol de Procedimentos e Eventos em Saúde da ANS. II. QUESTÃO EM DISCUSSÃO
+2. Há duas questões em discussão: (i) definir se é abusiva a recusa da operadora de plano de saúde em fornecer medicamento prescrito pelo médico assistente do paciente, ainda que para uso "off-label";
+e (ii) estabelecer se o acórdão recorrido está em consonância com a jurisprudência do STJ, de modo a incidir o óbice da Súmula 83/STJ. III. RAZÕES DE DECIDIR
+3. O Rol de Procedimentos e Eventos em Saúde da ANS possui caráter de referência mínima, não excluindo a obrigatoriedade de cobertura de tratamentos prescritos pelo médico assistente quando preenchidos os requisitos previstos na legislação e na jurisprudência.
+4. É abusiva a negativa de cobertura de medicamento registrado na Anvisa e prescrito pelo médico assistente do paciente, ainda que para uso "off-label", quando demonstrada sua necessidade para o tratamento da doença coberta pelo plano de saúde.
+5. O fornecimento de medicamentos para tratamento oncológico não está sujeito às limitações do rol da ANS, conforme entendimento consolidado do STJ.
+6. A jurisprudência desta Corte é pacífica quanto à obrigatoriedade do custeio de medicamentos antineoplásicos prescritos para tratamento de câncer, sendo irrelevante a discussão sobre a natureza taxativa ou exemplificativa do rol da ANS.
+7. O acórdão recorrido encontra-se em conformidade com a jurisprudência do STJ, razão pela qual incide a Súmula 83/STJ, impedindo o conhecimento do recurso especial pela divergência jurisprudencial. IV. DISPOSITIVO E TESE
+8. Agravo interno improvido.
+(AgInt no AREsp n. 2.661.875/SP, relatora Ministra Daniela Teixeira, Terceira Turma, julgado em 14/4/2025, DJEN de 23/4/2025.)
+Ademais, alterar o decidido no acórdão impugnado, no que se refere ao cabimento da indenização por danos morais, por estarem presentes os requisitos ensejadores (fl. 424), exige o reexame de fatos e provas, o que é vedado, em recurso especial, pela Súmula n. 7 do STJ.
+A propósito, cito o seguinte precedente:
+AGRAVO INTERNO. CIVIL. CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO DE CÂNCER. DANO MORAL. QUANTUM INDENIZATÓRIO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIOR. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Existência de entendimento pacífico desta Corte Superior no sentido de que, nos casos em que a recusa indevida de cobertura de tratamento médico-hospitalar impõe ao usuário de plano de saúde um grau de sofrimento físico/psíquico que extrapola aquele decorrente do mero inadimplemento contratual, atingindo direito da personalidade, fica demonstrada a ocorrência de danos morais e caracterizado o direito à reparação.
+2. A revisão da compensação por danos morais e do quantum indenizatório só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 5. Agravo interno não provido.
+4. Agravo interno não provido.
+(AgInt no REsp n. 2.181.049/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/3/2025, DJEN de 20/3/2025.)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Deixo de majorar os honorários visto que já foram fixados na origem no patamar máximo de 20% (fl. 369).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO PARA TRATAMENTO DE CÂNCER. COBERTURA OBRIGATÓRIA. NATUREZA DO ROL DA ANS. SÚMULA N. 83 DO STJ. DANOS MORAIS CONFIGURADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO IM PROVIDO
