@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LIAMARA DE FÁTIMA ALMEIDA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2097855-71.2025.8.26.0000).
+Depreende-se dos autos que a paciente foi condenada à pena de 5 anos, 2 meses e 18 dias de reclusão, em regime inicial fechado, e pagamento de 1.035 dias-multa, como incursa no art. 33, caput, da Lei n. 11.343.2006, sendo-lhe concedido o direito de recorrer em liberdade.
+Impetrado habeas corpus no Tribunal de origem, a ordem foi denegada (e-STJ fls. 11/16).
+Neste writ, sustenta a defesa ser cabível a concessão de prisão domiciliar à acusada, tendo em vista ser "a ÚNICA RESPONSÁVEL por seus 03 (TRÊS) filhos menores de 12 (doze) anos, sendo eles: HEITOR DE ALMEIDA SILVA, nascido em 11/09/2022 DE (02 ANOS DE IDADE), MATEUS DE ALMEIDA AUGUSTO, nascido em 22/07/2019 (05 anos de idade) e LIVIA MARIA DE ALMEIDA AUGUSTO, nascida 23/05/2012 (12 ANOS DE IDADE) - portadora de enfermidades mentais graves conforme se comprova pelos laudos médicos anexados" (e-STJ fl. 4).
+Afirma ser ela possuidora de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, seja a prisão substituída por domiciliar.
+É o relatório.
+Decido.
+O Tribunal de origem assim dispôs quanto à almejada prisão domiciliar (e-STJ fls. 15/16, grifei):
+ ..
+Em que pesem os argumentos lançados pelo douto impetrante, não há se falar em substituição da prisão da paciente por prisão domiciliar.
+Isto porque, ao que consta, a paciente está em liberdade e sua condenação, consoante informações prestadas pela digna Autoridade impetrada, ainda não é definitiva.
+Como anotou o douto subscritor do parecer acerca da questão, "É dos autos, ainda, que Liamara respondeu a ação penal em liberdade e, após sua condenação, foi a ela permitido recorrer em liberdade, fls. 965/989. A decisão para a paciente ainda não transitou em julgado, encontrando-se os autos em grau de recurso no C. STJ, fls. 1379/1380 e Liamara em liberdade. Pois bem, diante do exposto, inocorre na espécie qualquer constrangimento a ser corrigido nesta via processual, uma vez que não se detecta nulidades ou anulabilidades, teratologias, abusos ou ilegalidades de quaisquer naturezas que justifiquem a correção por esta via processual".
+Frise-se, por importante, que o deferimento de prisão domiciliar, como cediço, é medida excepcional e que exige o preenchimento dos requisitos constantes do artigo 117, da Lei nº 7.210/84, ou seja, que se trate de beneficiário que está no regime aberto, maior de 70 anos de idade ou acometido de doença grave, e de condenada com filho menor ou deficiente físico ou mental ou condenada gestante, situações nas quais não se enquadra a paciente, com a nota de que, como mencionado, sua condenação ainda não é definitiva.
+Ainda, a substituição da prisão preventiva por domiciliar, com base no artigo 318, inciso V, do Código de Processo Penal, incluído pela Lei nº 13.257, de 08 de março de 2016 ("Estatuto da Primeira Infância"), tem caráter excepcional, não podendo a paciente se valer apenas de afirmações vagas e genéricas em razão da idade dos filhos, sem demonstrar a imprescindibilidade da sua presença e dos seus cuidados para o amparo das crianças, o que não restou demonstrado no caso em apreço, frisando-se que a paciente não está presa preventivamente.
+Como ressaltado pelo douto Procurador de Justiça, "a paciente não preenche os requisitos supramencionados, em nenhuma das duas modalidades de prisão domiciliar, já que como sua condenação não é definitiva, não se encaixa na hipótese disposta na LEP e, quanto a possibilidade da prisão domiciliar prevista nos artigos 318 e 318-A do CPP, não se encontra Liamara presa preventivamente. Portanto, uma vez inexistente o constrangimento ilegal alegado, não se revela adequada ou suficiente a pretensão de conversão em prisão domiciliar, a qual, no momento, configuraria, inclusive, uma situação pior a paciente que encontra-se em liberdade."
+Portanto, inexiste constrangimento ilegal a ser reparado pela via do presente remédio constitucional.
+Ante o exposto, DENEGA-SE A ORDEM.
+Como se vê, não se verifica no caso qualquer constrangimento ilegal, uma vez que à paciente foi concedido o direito de recorrer em liberdade, não estando, portanto, presa preventivamente, circunstância que demonstra a ausência de interesse de agir quanto à prisão domiciliar. Em verdade, verifica-se que, no presente habeas corpus, a defesa objetiva medida mais gravosa do que a liberdade já usufruída pela ré.
+Não bastasse, constata-se que ela, atualmente em liberdade, ainda não está cumprindo a pena fixada na sentença, uma vez que a condenação ainda não possui caráter definitivo, o que inviabiliza também a aplicação do disposto na Lei n. 7.210/1984 a respeito da prisão domiciliar.
+Portanto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, incabível o acolhimento do pleito defensivo.
+Ante o exposto, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
