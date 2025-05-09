@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  contra  a  decisão  de  fls.  2.566  -  2.569,  desta  relatoria,  que  negou  provimento  ao  agravo  em  recurso  especial,  com  base  na  aplicação  da  Súmula  7/STJ.
+Em  suas  razões,  alega  a  existência  de  obscuridade  na  decisão  embargada,  suscitando  que a referida decisão  considerou  o  valor da indenização por erro médico  de  R$  100.000,00  dentro  dos  padrões  da  razoabilidade  e  proporcionalidade  negando  provimento  ao  recurso; todavia, a  condenação  foi  majorada  em  sede  de  apelação,  resultando  no  montante  de  R$  200.000,00  (duzentos  mil  reais), e não em R$ 100.000,00. Requer  ao  final  a  redução  da  referida  condenação  para  o  valor  de  R$  100.000,00  (cem  mil  reais).
+Impugnação às fls. 2576-2584.
+Na  espécie,  a  decisão  embargada  padece  de  erro  material,  uma  vez  que  considerou  a  condenação  em  danos  morais  no  valor  de  R$  100.000,00  (cem  mil  reais),  quando  em  verdade  a  referida  condenação  foi  majorada  pela  Corte  local  para  R$  200.000,00  (duzentos  mil  reais).
+Quanto ao montante fixado a título de indenização por danos morais, o recurso também merece prosperar, tendo em vista que é pacífico o entendimento do STJ no sentido de que o valor estabelecido pelas instâncias ordinárias pode ser revisto nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que se evidencia no presente caso, pois o valor estabelecido no acórdão estadual se revela excessivamente elevado. Dessa forma, merece prevalecer o montante outrora arbitrado pela sentença: R$ 100.000,00 (cem mil reais) a título de reparação moral, mais adequado às circunstâncias fáticas apresentadas no caso.
+Em  face  do  exposto,  acolho  os  embargos  de  declaração,  com  efeitos  modificativos,  nos termos acima.
+Intimem-se.
+EMENTA
