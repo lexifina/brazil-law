@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança, interposto por Joselito de Jesus Santos contra acórdão às fls. 276/285, proferido à unanimidade pela Seção Cível da Direito Público do Tribunal de Justiça do Estado da Bahia, assim ementado:
+MANDADO DE SEGURANÇA - IMPUGNAÇÃO Á ASSISTÊNCIA JUDICIÁRIA GRATUITA - IMPROCEDÊNCIA - ILEGITIMIDADE PASSIVA DA PARTE IMPETRADA QUE SE RECHAÇA - MATÉRIA DE ORDEM PÚBLICA QUE SE CONHECE DE OFÍCIO - RELAÇÃO DE TRATO SUCESSIVO - ALEGAÇÃO DE PRESCRIÇÃO E DECADÊNCIA AFASTADA - POLICIAL MILITAR QUE PASSOU A INATIVIDADE OCUPANDO A PATENTE DE 1º SARGENTO - PROVENTOS PAGOS SOBRE A PATENTE DE 1º TENENTE - CORREÇÃO - LEI 11.356/2009 QUE ALTEROU O ESTATUTO DOS POLICIAIS MILITARES RESTABELECENDO AS GRADUAÇÕES HIERÁRQUICAS DE SUBTENENTE E CABO - SEGURANÇA DENEGADA
+1. Impugnação à assistência judiciária gratuita que se julga pela improcedência em vista da não apresentação de fatos específicos e objetivos que permitam rever o deferimento da benesse.
+2. Há legitimidade passiva do Secretário da Administração e do Governador do Estado da Bahia na forma do art. 1º, da lei 12.016/2009, por disporem os mesmos dos meios necessários para executar a ordem emanada no caso de concessão da segurança pelo Judiciário.
+3. A relação discutida no caso em comento possui natureza omissiva, de caráter alimentar e trato sucessivo, sendo renovada mensalmente. Dessa forma, também renova-se continuamente o prazo previsto em lei para a impetração do mandado de segurança não incidindo no caso em tela a prescrição de fundo de direito alegada.
+4. Ao passar à inatividade, conforme BGO de ID 59133260, a parte impetrante ostentava a patente de 1º Sargento, passando à inatividade recebendo proventos calculados sobre a remuneração de 1º Tenente.
+5. De fato a lei 7.145/97 extinguiu a patente de subtenente, mas a mesma voltou a figurar dentre as patentes dos policiais militares quando a lei 11.356/2009 alterou o Estatuto dos Policiais Militares - lei 7.990/2001 - em seu artigo 9º, inciso III, devolvendo à carreira policial militar as patentes de cabo e subtenente.
+6. Em vista de tais fatos, ao passar para a reserva em 2017, agiu dentro da legalidade o Estado da Bahia ao estabelecer os cálculos dos proventos de aposentadoria com base da parte impetrante de acordo com a patente de 1º Tenente, imediatamente superior àquela ocupada no momento da aposentação.
+7. A ação se encontra pautada em premissa falsa na medida em que sustenta que as patentes de subtenente e cabo foram extintas pela lei 7.145/97, não tendo observado, entretanto, que a mesma voltou a existir com o advento da lei 11.3 56/2009.
+8. Segurança denegada. (fls. 276/277).
+Nas razões recursais, fls. 298/310, o recorrente argumenta que o entendimento do tribunal (de impossibilidade de reclassificação por inexistência de transferência automática) não pode prevalecer, pois contrariaria entendimento anterior da própria Corte baiana. No mais, reeditando as teses da exordial, reitera que a extinção da graduação de subtenente, levada a efeito pela Lei Estadual 7.145/1997, lhe conferiria direito à promoção ao posto de 1.º Tenente.
+Recurso sem contrarrazões. (fls. 454/455).
+O Ministério Público Federal, pelo Subprocurador-Geral da República Odim Brandão Ferreira, manifestou-se pelo não provimento do recurso, pelos fundamentos do parecer às fls. 462/465, assim ementado:
+Recurso ordinário em mandado de segurança. Pretensão de reclassificação de patente de policial militar da reserva remunerada. Ausência de prova pré-constituída do direito alegado: narrativa recursal que destoa das provas apresentadas e são insuficientes para a tutela do direito de promoção nos termos pretendidos.
+Parecer pelo desprovimento do recurso ordinário. (fl. 462).
+Benefício de gratuidade de justiça deferido na origem (fl. 110).
+Representação regular (fl. 22).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Consoante expressamente prevê o art. 932, inciso III, do Código de Processo Civil, "incumbe ao relator  ..  não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Assim, o presente apelo não merece avançar para além da barreira do juízo de admissibilidade recursal, como passo a demonstrar.
+De início, como bem apontou o Parquet Federal em seu alentado parecer, "não se conhece da arguição equivocada de que o acórdão negou a reclassificação do autor como resultado de não haver transferência automática, mediante destaque de trecho de decisão alheia aos autos" (fls. 463/464).
+Depois, é certo que o tribunal denegou a ordem, mas o fez firme em que, "de fato a lei 7.145/97 extinguiu a patente de subtenente, mas a mesma voltou a figurar dentre as patentes dos policiais militares quando a lei 11.356/2009 alterou o Estatuto dos Policiais Militares - lei 7.990/2001 - em seu artigo 9º, inciso III, devolvendo à carreira policial militar as patentes de cabo e subtenente" e, "em vista de tais fatos, ao passar para a reserva em 2017, agiu dentro da legalidade o Estado da Bahia ao estabelecer os cálculos dos proventos de aposentadoria com base da parte impetrante de acordo com a patente de 1º Tenente, imediatamente superior àquela ocupada no momento da aposentação", teses que a Corte estadual estampou na ementa do acórdão recorrido.
+Todavia, nas razões recursais, ainda que expresse seu descontentamento com a denegação da ordem, o recorrente não aponta razões jurídicas para tentar desconstituir esta específica fundamentação invocada pelo Tribunal. Mas, com isso, o impetrante não cuidou de oferecer combate específico, nem integral, aos fundamentos do aresto que intenta desconstituir.
+Essa irregularidade, porque violadora do princípio da dialeticidade, impede o conhecimento do recurso. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como, no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões recursais não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz o agravante, certo é que, nas razões do recurso ordinário, se limitou a discordar do acórdão recorrido e insistir nas teses da própria impetração.
+4. Agravo interno não provido.
+( AgInt no RMS 66.918/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 15/10/2021)
+Eis porque, como dantes anotado, o presente recurso ordinário não merece avançar para além do juízo de admissibilidade.
+ANTE O EXPOSTO, e com fundamento no art. 932, III, do CPC, não conheço do presente recurso ordinário.
+Publique-se.
+EMENTA
