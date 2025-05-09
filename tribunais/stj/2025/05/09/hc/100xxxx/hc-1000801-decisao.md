@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Cid Vargas Pimentel Lins, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de Pernambuco, que denegou o Habeas Corpus criminal n. 0011162-36.2025.8.17.9000, mantendo a ação penal contra o paciente, pela suposta prática dos crimes de tráfico de drogas e posse irregular de arma de fogo de uso restrito.
+Neste recurso, a defesa alega nulidade da busca pessoal, por violação dos arts. 240, § 2º, e 244 do CPP, sustentando que os policiais militares atuaram de forma abusiva, sem o devido permissivo legal e sem fundada suspeita, baseando-se unicamente em denúncia anônima não corroborada por outros elementos preliminares, o que tornaria ilícitas a prova e suas derivadas, nos termos do art. 157, caput, do CPP, e do art. 5º, inciso LVI, da Constituição Federal (fls. 3 e 10/12).
+Defende a possibilidade de trancamento da ação penal por falta de justa causa, uma vez que não há elementos objetivos que pudessem ser submetidos ao contraditório e ao controle probatório de validade do Judiciário (fls. 12/13).
+Requer, assim, a concessão liminar da ordem, para declarar a ilegalidade da busca pessoal, e a ilicitude da prova e as decorrentes, sendo o paciente absolvido ou subsidiariamente, o trancamento da ação penal por falta de justa causa.
+É o relatório.
+Infere-se dos autos que policiais militares, durante patrulhamento ostensivo, receberam informações de populares sobre tráfico de drogas na comunidade Babilônia, em Gaibu/PE. Com base nas denúncias, realizaram a abordagem, encontrando com o paciente 22 invólucros de crack, uma pistola .9mm e munições (fls. 4/5).
+A jurisprudência desta Corte reconhece que a busca pessoal é legítima quando amparada em fundada suspeita, devidamente justificada pelas circunstâncias concretas, indicando a posse de armas, drogas ou outros objetos relacionados a ilícitos, evidenciando a necessidade imediata da diligência (RHC n. 158.580/BA, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe 25/4/2022).
+No caso, as circunstâncias narradas não se limitam a impressões subjetivas, mas revelam elementos concretos que justificam objetivamente a intervenção policial. As informações recebidas e a posterior apreensão dos entorpecentes e da arma constituem indícios suficientes para legitimar a suspeita e a abordagem, afastando qualquer alegação de ilegalidade ou abuso no procedimento.
+Nesse sentido : AgRg no HC n. 911.867/RS, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Sexta Turma, DJe de 23/8/2024; e AgRg no HC n. 802.406/SP, Ministro Messod Azulay Neto, Quinta Turma, DJe de 27/9/2023.
+Ante o exposto, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO RESTRITO. BUSCA PESSOAL. FUNDADAS SUSPEITAS. NULIDADE. NÃO OCORRÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Inicial indeferida liminarmente.
