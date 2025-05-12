@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de JEAN PIERRE LOZ - na execução de condenação da pena de 29 anos, 2 meses e 19 dias de reclusão, em razão da condenação por falsificação de documento público, furto qualificado, roubo qualificado, estelionato, lavagem de dinheir o e associação criminosa -, atacando-se o acórdão proferido pelo Tribunal de Justiça da Bahia (fls. 29/36 - Agravo de Execução Penal n. 8045993-12.2023.8.05.0000), não comporta processamento.
+Com efeito, busca a impetração o indulto da pena, com base no Decreto n. 11.302/2022, dos crimes não impeditivos - na Execução da Pena n. 0007054-26.2010.8.24.0033 (fls. 6/8, da 2ª Vara de Execuções Penais da comarca de Salvador/BA) -, alegando que o crime impeditivo já estava cumprido, prescrito e extinto na data da publicação do decreto (fl. 3).
+Sem pedido liminar.
+Ocorre que a via eleita foi indevidamente utilizada como substitutivo de recurso próprio, o que afasta a competência desta Corte Superior para análise do pleito (AgRg no HC n. 935.428/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/9/2024, DJe 26/9/2024).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois o indeferimento do indulto está fundamentado em elementos concretos que indicam a participação do paciente em organização reconhecida pelas instâncias ordinárias como facção criminosa, nos moldes do § 1º do art. 7º do Decreto n. 11.302/2022 (AgRg no RHC n. 185.970/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/5/2024, DJe de 15/5/2024). Confira-se a fundamentação:
+a) no acórdão hostilizado (fl. 35):
+Insta repisar, nessa senda, que a circunstância relativa ao pertencimento do Agravante à organização criminosa atrai à situação em espeque o conteúdo do Art. 7º, § 1º, do Decreto Presidencial nº 11.302/2022, cujo teor prescreve que "O indulto natalino também não será concedido aos integrantes de facções criminosas, ainda que sejam reconhecidas somente no julgamento do pedido de indulto." No que se refere à matéria sob análise, revela-se imperioso trazer à baila excertos de precedentes oriundos das Cortes Superiores  ..
+b) na decisão do Juízo da Execução Penal: o penitente foi considerado como integrante de organização criminosa astuciosa e bem estruturada (sentença que consta do evento 1.1522/ 1.1573), situação reconhecida por este Juízo da execução penal e que impede a concessão do indulto (fl. 7).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. INDULTO PRESIDENCIAL. DOSIMETRIA. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DECRETO N. 11.302/2022. VEDAÇÃO DO § 1º DO ART. 7º DO REFERIDO DECRETO. FACÇÃO CRIMINOSA. ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO FUNDAMENTADO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
