@@ -1,0 +1,88 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+Direito civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. Cláusula penal em contrato de locação. Alegação de omissão e negativa de prestação jurisdicional. Violação dos arts. 489, § 1º, IV E VI, e 1.022, I E II, do CPC. Não ocorrência INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE MATÉRIA FÁTICA. APLICAÇÃO DAS SÚMULAS N. 5 E 7 DO STJ. Recurso desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, mantendo a decisão que considerou válida a redução da cláusula penal em contrato de locação comercial, em razão de inadimplemento parcial.
+2. O contrato de locação envolvia duas salas comerciais e previa multa em caso de inadimplemento. A locatária tornou-se inadimplente a partir da quarta parcela, o que acionou a cláusula penal.
+3. O Juízo de primeira instância reduziu a multa com base no art. 413 do Código Civil, considerando-a excessiva e desproporcional ao inadimplemento parcial.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a redução da cláusula penal aplicada pelo juízo de primeira instância foi adequada e se a decisão do Tribunal de origem violou dispositivos do Código de Processo Civil e do Código Civil; e (ii) saber se a decisão não considerou as particularidades do contrato e que a redução da multa desconsiderou a natureza e a finalidade do contrato de locação.
+III. Razões de decidir
+5. O Tribunal de origem examinou as questões de forma clara e objetiva, não havendo vício que nulifique o acórdão recorrido.
+6. A revisão das conclusões adotadas no acórdão recorrido implicaria a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: 1- O Tribunal de origem examinou as questões de forma clara e objetiva, não havendo vício que nulifique o acórdão recorrido. 2-A revisão de cláusulas contratuais e reexame de provas são vedados em instância superior, conforme Súmulas n. 5 e 7 do STJ .
+Dispositivos relevantes citados: Código Civil, art. 413; Código de Processo Civil, arts. 1.022, 489, 141, 492 e 917.
+Jurisprudência relevante citada: STJ, Súmulas n. 5 e 7.
+RELATÓRIO
+Trata-se de agravo interno interposto por PARKSHOPPING CORPORATE EMPREENDIMENTO IMOBILIÁRIO LTDA. e OUTRAS contra a decisão de fls. 709-714, que negou provimento ao agravo em recurso especial.
+A parte agravante sustenta que a decisão agravada merece reconsideração, alegando violação dos arts. 1.022, I e II, e 489, § 1º, IV e VI, do CPC, porquanto o Tribunal a quo não tratou sobre as particularidades do contrato, desconsiderando completamente as características do imóvel objeto da locação, o preço do aluguel, a quantidade de vagas de garagem e a qualidade do edifício corporativo como um todo.
+Afirma que a agravada teve assessoramento jurídico para negociar as cláusulas do instrumento de rescisão, demonstrando que tinha plena ciência das obrigações assumidas e das condições acertadas.
+Alega ainda violação dos arts. 141, 492 e 917, § 3º, do CPC, ao não rejeitar os embargos à execução pela ausência de demonstrativo discriminado do débito.
+Sustenta que a penalidade prevista no contrato originário e transposta para o acordo é compatível com o contrato de locação comercial, que tinha por objeto duas salas comerciais no edifício do shopping com 16 vagas de garagem e aluguel mensal de R$ 33.000,00.
+Afirma que a decisão agravada não considerou os argumentos relativos ao expresso pedido da agravada para reconhecimento de alegado excesso de execução, deixando de analisar a questão sob o prisma dos limites da lide traçados pela petição inicial e pela vedação de proferimento de decisão diversa do pedido formulado pela parte.
+Alega violação dos arts. 413, 421-A e 422 do CC e do art. 3º, VIII, da Lei n. 13.874/2019, porquanto a redução da multa contratual desconsiderou a natureza e a finalidade do contrato.
+Requer o provimento do agravo interno para que seja conhecido e provido o recurso especial, a fim de declarar a nulidade do acórdão dos embargos de declaração e determinar o retorno dos autos ao TJDFT para novo julgamento, examinando-se de forma integral e completa os argumentos lançados pelas agravantes. Caso não seja esse o entendimento, requer a submissão ao colegiado.
+Não foram apresentadas contrarrazões, conforme a certidão à fl. 738.
+É o relatório.
+EMENTA
+Direito civil. Agravo interno NO AGRAVO EM RECURSO ESPECIAL. Cláusula penal em contrato de locação. Alegação de omissão e negativa de prestação jurisdicional. Violação dos arts. 489, § 1º, IV E VI, e 1.022, I E II, do CPC. Não ocorrência INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE MATÉRIA FÁTICA. APLICAÇÃO DAS SÚMULAS N. 5 E 7 DO STJ. Recurso desprovido.
+I. Caso em exame
+1. Agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, mantendo a decisão que considerou válida a redução da cláusula penal em contrato de locação comercial, em razão de inadimplemento parcial.
+2. O contrato de locação envolvia duas salas comerciais e previa multa em caso de inadimplemento. A locatária tornou-se inadimplente a partir da quarta parcela, o que acionou a cláusula penal.
+3. O Juízo de primeira instância reduziu a multa com base no art. 413 do Código Civil, considerando-a excessiva e desproporcional ao inadimplemento parcial.
+II. Questão em discussão
+4. Há duas questões em discussão: (i) saber se a redução da cláusula penal aplicada pelo juízo de primeira instância foi adequada e se a decisão do Tribunal de origem violou dispositivos do Código de Processo Civil e do Código Civil; e (ii) saber se a decisão não considerou as particularidades do contrato e que a redução da multa desconsiderou a natureza e a finalidade do contrato de locação.
+III. Razões de decidir
+5. O Tribunal de origem examinou as questões de forma clara e objetiva, não havendo vício que nulifique o acórdão recorrido.
+6. A revisão das conclusões adotadas no acórdão recorrido implicaria a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+IV. Dispositivo e tese
+7. Agravo interno desprovido.
+Tese de julgamento: 1- O Tribunal de origem examinou as questões de forma clara e objetiva, não havendo vício que nulifique o acórdão recorrido. 2-A revisão de cláusulas contratuais e reexame de provas são vedados em instância superior, conforme Súmulas n. 5 e 7 do STJ .
+Dispositivos relevantes citados: Código Civil, art. 413; Código de Processo Civil, arts. 1.022, 489, 141, 492 e 917.
+Jurisprudência relevante citada: STJ, Súmulas n. 5 e 7.
+VOTO
+A decisão agravada, inclusive transcrevendo substancial parte do acórdão recorrido, adotou a fundamentação abaixo (fls. 712-714):
+O recurso não merece prosperar.
+Afasta-se a alegada ofensa aos arts. 1.022, I e II, e 489, § 1º, IV e VI, do CPC, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+Em relação às supostas omissões alegadas, o Tribunal de origem, mantendo a sentença, concluiu ter havido parcial inadimplemento do instrumento de transação quando da quantificação da cláusula penal que invariavelmente deve incidir. Observe-se (fls. 493-498):
+Foram opostos embargos contra procedimento executivo lastreado em Instrumento de Transação Extrajudicial para Rescisão do Contrato de Locação, celebrado entre as partes em 5/6/2019.
+De fato, os litigantes celebraram contrato de locação das salas comerciais n. 303 e 304, localizadas no 3º andar da Torre Norte (bloco 2) do Condomínio do ParkShopping Corporate, pelo prazo de 5 (cinco) anos, com início em 2/1/2019.
+O Instrumento de Transação Extrajudicial teve por escopo formalizar a resolução do ajuste de locação antes firmado.
+Para tanto, a locatária/embargante se comprometeu a pagar às locadoras/embargadas a importância de R$ 71.874,18, que é relativa a encargos condominiais, acessórios de locação e IPTU para o período de janeiro a maio de 2019, acrescidos de correção monetária, multa moratória de 2% e juros de mora de 1% a. m. (Item 1 - Id 34065342, p. 1).
+Além do pagamento da quantia acima indicada de R$ 71.874,18, a locatária se comprometeu a pagar R$ 100.247,28 a título de multa convencional, uma vez que deixara de entregar a garantia prevista no contrato (fiança bancária), e honorários advocatícios. Segundo os embargados/apelantes, por mera liberalidade, no escopo de celebrar o acordo e serem de imediato devolvidas as chaves, o Shopping abriu mão da cobrança desse valor (Item 2).
+Nos termos acordados, a quantia de R$ 71.874,18 deveria ser paga em 6 parcelas, todo dia 5 de cada mês, a partir do mês de julho de 2019, no valor, cada uma delas, de R$ 11.979,03 (Item 3).
+O item 8 do acordo previu que, na hipótese de descumprimento das obrigações ajustadas, em especial do pagamento do valor acordado de R$ 71.874,18 na data aprazada, ficaria sem efeito a liberação de pagamento do montante de R$ 100.247,28 (Item 2). Acertado ficou que esse valor passaria a ser devido a título de penalidade pecuniária em estipulação de cláusula penal compensatória por eventual inadimplemento (Id 34065342, p. 2).
+Mesmo diante da cláusula penal ajustada nos termos acima expressos, a executada deixou de efetuar o pagamento de três parcelas - 4ª, 5ª e 6ª -, as quais venceram, respectivamente, em 5/10/2019, 5/11/2019 e 5/12/2019, o que deu causa à propositura da demanda executória.
+Assim, foi executada, nos autos n. 0706148-16.2020.8.07.0001, a importância de R$ 150.384,52 em atenção ao ajuste firmado, relativamente a cláusula penal, no Item 8 do Instrumento de Transação.
+Em suma, tem-se que o contrato originário de locação tinha por objeto duas salas comerciais no edifício do shopping com 16 vagas de garagem e aluguel mensal de R$ 33.000,00. Para rescindir a locação, a embargante concordou em pagar 6 parcelas, no valor de R$ 11.979,03 (onze mil, novecentos e setenta e nove reais e três centavos) cada. Porém se tornou inadimplente a partir da 4ª parcela, o que fez incidir o item 8 do acordo celebrado. Incidiu por esse motivo a penalidade pecuniária prevista, a título de cláusula penal, no montante de R$ 100.247,28.
+A embargante alega que os itens 2 e 8 do acordo que impõe multa manifestamente excessiva. Diz que o instrumento de transação não é paritário e simétrico às partes.
+O juízo de origem, de forma correta, acolheu tal argumento.
+Como se sabe, o contrato é informado por princípios entre os quais o da força obrigatória e da autonomia da vontade. Este se manifesta na liberdade conferida às pessoas de livremente firmarem avenças. Aquele na força do contrato, que faz lei entre as partes. Regularmente celebrado o ajuste, impõe-se seu cumprimento. As cláusulas acordadas, como se fossem preceitos legais imperativos, apresentam força obrigatória. São os princípios da liberdade contratual e da intangibilidade do pacto, mais conhecido como pacta sunt servanda, que exprimem, quando inexistentes vícios subjetivos de consentimento no momento da contratação, a ideia de obrigatoriedade de todos os efeitos contratuais.
+No entanto, a liberdade contratual e a intangibilidade do pacto vêm sendo diuturnamente mitigadas, ora pela lei, ora pela jurisprudência no labor diário de harmonizar os negócios jurídicos entabulados no seio social ao sistema jurídico pós- positivista, permeado que é de relevante função social e valores constitucionalizados, tais como os da boa-fé, razoabilidade, proporcionalidade, segurança jurídica e, principalmente, o da dignidade da pessoa humana.
+A liberdade das pessoas ao contratar é hoje circunscrita por valores constitucionais, não se admitindo o contrato sem significação social, eivado de cláusulas desproporcionais ou que imponham vantagem de uma parte sobre a outra, sob pena de ser considerado como abuso no exercício do direito (art. 187 do CC), causado, na maioria dos casos, pela desproporção entre a situação jurídica entabulada e o resultado pretendido.
+ ..
+Malgrado os apelantes aleguem não se tratar de cláusula penal, mas de desconto conferido às devedoras para adimplemento do acordo, verdade é que verificado o inadimplemento tal claramente se transmudou em benefício cláusula penal. A cláusula de liberalidade antes estabelecida para a hipótese de total adimplemento de modo diverso seria conceituada em caso de inadimplemento, pois que se converteria em cláusula penal. Essa, não outra, a normatização que estabeleceram as partes entre si, conforme se pode aferir da regra abaixo transcrita:
+ ..  8. Na hipótese de descumprimento do previsto neste acordo, especialmente o pagamento do valor ora acordado (itens 1 e 3), ficará sem efeito o desconto concedido nos termos do item 2 supra. (Id 34065342).
+A multa convencionada, de R$ 100.247,28, efetivamente é bastante superior ao valor devido pela obrigação principal, de R$ 71.874,18, que é relativa a encargos condominiais, acessórios de locação e IPTU para o período de janeiro a maio de 2019.
+Tamanha vantagem extrapola os limites do aceitável pelo ordenamento jurídico nacional porque enseja ilícito enriquecimento dos exequentes.
+Nesse contexto, corretamente o magistrado de primeira instância atentou ao comando normativo posto no artigo 413 do Código Civil, segundo o qual, a "penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-se em vista a natureza e a finalidade do negócio"
+Para a hipótese dos autos, o arbitramento feito pelo juízo monocrático encerra elementos de razoabilidade e adequação para evitar inaceitável enriquecimento ilícito dos locadores, afinal, é de ser proporcional a indenização a ser paga pelo locatário para compensar os locadores o inadimplemento do pagamento.
+Ademais, não se pode olvidar que parte da dívida foi adimplida, visto que das 6 parcelas ajustadas, 3 foram pagas. Logo, ainda mais desproporcional se mostra a multa contratual exigida em processo executivo pelos embargados.
+A penalidade deve ser reduzida equitativamente também por este motivo, conforme orienta o artigo 413 do Código Civil.
+De fato, elementar exame da relação negocial que mantiveram as partes entre si, conquanto justifique a imposição de multa por inadimplemento, não autoriza a aplicação da penalidade em limite que manifestamente a revela exorbitante.
+Irreparável, portanto, a sentença recorrida, mesmo porque inadmissível olvidar o postulado da equidade, que deve ser objeto de ponderação para a realidade fática em que houve parcial inadimplemento do instrumento de transação, quando da quantificação da cláusula penal que invariavelmente deve incidir.
+As particularidades do caso concreto demonstram a criteriosa e razoável redução aplicada pelo juiz sentenciante do percentual contratualmente estabelecido.
+Presentes essas razões de decidir, o acolhimento das teses defendidas no recurso especial implicaria, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos, medidas inadmissíveis nesta instância superior, de acordo com o óbice das Súmulas n. 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Consoante se extrai da motivação decisória ora questionada, feita a devida análise dos fundamentos dos acórdãos de origem, observa-se que as sugeridas violações dos arts. e 489, § 1º, IV e VI, e 1.022, I e II, do CPC não haveria mesmo de prosperar. Isso porque as questões essenciais ao deslinde da demanda foram examinadas e decididas de modo objetivo, claro e motivado, não tendo o Tribunal a quo incorrido em nenhum dos vícios previstos na referida norma processual, tampouco em negativa de prestação jurisdicional.
+Tal como ressaltado na decisão agravada, não há vício de julgamento quando o magistrado se atém às circunstâncias fáticas da causa, examina os pedidos formulados na petição inicial e decide a lide nesses limites, ainda que ampare seu entendimento em fundamentos jurídicos diversos daqueles expostos pelas partes em suas manifestações nos autos.
+Reitere-se que, no que diz respeito às alegadas omissões, conforme devidamente explicitado na decisão ora agravada, o Tribunal de origem, diante da interpretação de cláusulas contratuais e análise dos fatos e provas dos autos, concluiu que as "particularidades do caso concreto demonstram a criteriosa e razoável redução aplicada pelo juiz sentenciante do percentual contratualmente estabelecido" (fl. 498).
+Presentes tais fundamentos, é evidente que a revisão das conclusões adotadas no acórdão recorrido e, por conseguinte, o acolhimento da tese defendida no recurso especial implicariam, necessariamente, a interpretação de cláusulas contratuais e o reexame de elementos fático-probatórios dos autos, o que atrai a aplicação das Súmulas n. 5 e 7 do STJ.
+Dessa forma, constata-se que a parte ora recorrente não apresentou argumentos suficientes para a modificação da decisão ora agravada, que deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
