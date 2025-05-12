@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro João Otávio de Noronha.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+processual civil e CIVIL. Recurso especial. OFENSA AO ART. 1.022, ii, DO cpc. nÃO OCORRÊNCIA. Prescrição ou decadência. reexame de elementos fático-probatórios dos autos. DEMORA NA CITAÇÃO. SÚMULA N. 106 DO stj. princípio da não surpresa. inexistência de contrariedade. Recurso desprovido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, que desproveu apelação em ação de conhecimento objetivando a declaração de exatidão de negócio jurídico e obrigação de fazer, proposta contra Porto Seco Centro Oeste S.A.
+2. A sentença de primeiro grau julgou procedentes os pedidos de declaração de compra e venda de ações e promoção dos atos de transferência na forma legal. A apelação foi desprovida, mantendo-se a sentença.
+II. Questão em discussão
+3. Há três questões em discussão: (i) saber se ocorreu violação do art. 1.022, II, do CPC, por suposta ausência de análise dos fundamentos dos embargos de declaração; (ii) definir se consumou a prescrição da ação proposta após a celebração do instrumento; e (iii) aferir a existên cia de contrariedade ao princípio da não surpresa, por ter a sentença acolhido argumentação não submetida ao contraditório.
+III. Razões de decidir
+4. Não ocorre ofensa ao art. 1.022, II, do CPC quando Tribunal a quo examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não incidindo em vício que possa nulificar o acórdão recorrido ou em negativa da prestação jurisdicional.
+5. É inviável o reexame em recurso especial de elementos fático-probatórios dos autos em face do óbice da Súmula n. 7 do STJ
+6. Não há violação do princípio da não surpresa quanto o julgador adota fundamentos jurídicos diversos dos defendidos pelas partes, mas cabíveis à solução do litígio.
+IV. Dispositivo e tese
+7 . Recurso desprovido.
+Tese de julgamento: "1. Não há violação ao art. 1.022 do CPC nem negativa da prestação jurisdicional quando a Corte de origem examina motiva adequadamente a sua decisão. 2. O reexame de elementos fático-probatórios é vedado pela Súmula n. 7 do STJ. 3. Não há violação ao princípio da não surpresa quando o julgador adota fundamentos jurídicos cabíveis à solução do litígio."
+Dispositivos relevantes citados: CPC, arts. 10, 178, 1.022, 1.025; Código Civil, art. 178.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.453.641/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024; STJ, AgInt no AREsp n. 2.735.498/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025; STJ, AgInt no REsp n. 2.050.714/AC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/6/2023.
+RELATÓRIO
+Trata-se de recurso especial interposto por PORTO SECO CENTRO OESTE S.A., com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás (Apelação Cível n. 0357150.02.2012.8.09.0006).
+O caso tem origem em sentença proferida nos autos da ação de conhecimento objetivando a declaração de exatidão de negócio jurídico realizado c/c obrigação de fazer proposta por Luiz José Ferreira, ora recorrido, contra Sogal Sociedade Goiana de Armazéns Gerais Ltda., na condição de interessada, e Porto Seco Centro Oeste S.A., ora recorrente.
+Julgados procedentes os pedidos - declaração de compra e venda de 54 mil ações da empresa Sogal e promoção dos atos de transferência na forma legal societária -, a apelação interposta pela parte ora recorrente foi desprovida, conforme acórdão assim ementado (fl. 1.188):
+APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO, RITO ORDINÁRIO C/C OBRIGAÇÃO DE FAZER.
+1. PRELIMINAR DE NULIDADE DA SENTENÇA, POR AUSÊNCIA DE FUNDAMENTAÇÃO, AFASTADA. Não há se falar em nulidade da sentença, por falta de fundamentação quando o Julgador aponta os motivos de seu convencimento, além de ter obedecido todos os requisitos legais dos artigos 489 do CPC e 93, inciso IX, da CF.
+2. AUSÊNCIA DE INTERESSE DE AGIR. INEXISTÊNCIA. O interesse de agir, como condição da ação, assenta-se na premissa de a parte ter a necessidade de ir a Juízo, para buscar a tutela pretendida e, ainda, quando essa tutela jurisdicional possa lhe trazer a necessária relação de utilidade.
+3. PRESCRIÇÃO. NÃO OCORRÊNCIA. Proposta a ação, no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência (Súmula 106 do c. STJ).
+4. OFENSA AO ART. 10 DO CPC. NÃO OCORRÊNCIA. Inexiste violação ao princípio da não surpresa, quando a sentença decide, com base nos fatos alegados pelas partes, como ocorreu, respeitando os limites do p. contidos na inicial.
+4. ÔNUS DA PROVA DO RÉU. A prova de fato extintivo, impeditivo ou modificativo do direito afirmado pelo Autor é encargo do Réu, haja vista que a parte que alega deve buscar os meios necessários para convencer o Juiz da veracidade do fato, porquanto é a maior interessada, no seu reconhecimento e acolhimento (art. 373, I e II, do CPC). Ademais, a alegação de que o Julgador não analisou ou valorou as provas existentes no processo, bem como o p. do Apelado/Autor não era procedente é ônus do Apelante/R.
+5. HONORÁRIOS RECURSAIS. ARBITRAMENTO, NO TETO LEGAL. Incabível, no caso, a majoração do valor dos honorários advocatícios fixados, anteriormente, considerando-se que já foram arbitrados, no patamar máximo previsto em lei.
+APELO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+Rejeitados os embargos de declaração opostos pela apelante por acórdão de fls. 1.255-1.270, os ulteriores aclaratórios foram acolhidos para anular o acórdão embargado em face da participação de desembargador impedido, com a determinação de outro julgamento (fls. 1.300-1.306).
+Em seguida, exarou-se nova decisão, que foi ementada nestes termos (fl. 1.339):
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AÇÃO DE CONHECIMENTO NO RITO ORDINÁRIO OBJETIVANDO A DECLARAÇÃO DE EXATIDÃO DE NEGÓCIO JURÍDICO REALIZADO C/C OBRIGAÇÃO DE FAZER C/C ANTECIPAÇÃO DE TUTELA. OMISSÕES E CONTRADIÇÕES, NÃO VERIFICADAS. REDISCUSSÃO DA MATÉRIA APRECIADA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. 1. Não existindo nos embargos de declaração as omissões e contradições apontadas, acerca da prescrição aventada no processo, ou legalidade do negócio jurídico firmado entre as partes, assim como que o Acórdão objeto de censura carece de clareza no desenvolvimento das ideias que orientam a sua fundamentação, ou quaisquer das hipóteses previstas no art. 1.022 do Código de Processo Civil, devem ser estes desprovidos. 2. Não é possível opor embargos de declaração para rediscussão do julgamento, uma vez que se destinam, tão somente, ao suprimento dos vícios taxativamente previstos no art. 1.022 do CPC, o que não se denota na espécie. 3. Desnecessário que o Julgador se manifeste expressamente sobre cada argumento aduzido pelas partes, pois, entre as funções desta eg. Corte, não se inclui a de órgão consultivo. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+No recurso especial, a parte aponta violação dos seguintes artigos:
+a) 1.022, II, do Código de Processo Civil, bem como a aplicação do art. 1.025 do mesmo diploma, visto que o acórdão recorrido não analisou os fundamentos postos na peça dos embargos de declaração, especialmente quanto à prescrição, e que houve erro de análise do marco final do computo do prazo prescricional.
+b) 178 do Código Civil, pois a ação proposta - "declaração de validade e o cumprimento obrigatório de um compromisso particular firmado em caráter irrevogável e irretratável" (fl. 1.360) -, após a celebração do instrumento, teria excedido o prazo previsto legalmente para o manejo da demanda;
+c) 10 do CPC, porque o acórdão valida sentença surpresa que acolheu argumentação não submetida ao contraditório ao entender pela existência do ato de simulação na lavratura de procurações.
+Requer o conhecimento e provimento do recurso para reformar ou cassar o acórdão da 5ª Câmara Cível do Tribunal de Justiça do Estado de Goiás.
+Apresentadas as contrarrazões às fls. 1.379-1.400, a parte recorrida pugna pelo não provimento do apelo especial.
+Diante do não conhecimento da tutela provisória, por decisão de fls. 1.531-1.532, o requerente, ora recorrido, interpôs agravo interno.
+É o relatório.
+EMENTA
+processual civil e CIVIL. Recurso especial. OFENSA AO ART. 1.022, ii, DO cpc. nÃO OCORRÊNCIA. Prescrição ou decadência. reexame de elementos fático-probatórios dos autos. DEMORA NA CITAÇÃO. SÚMULA N. 106 DO stj. princípio da não surpresa. inexistência de contrariedade. Recurso desprovido.
+I. Caso em exame
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, que desproveu apelação em ação de conhecimento objetivando a declaração de exatidão de negócio jurídico e obrigação de fazer, proposta contra Porto Seco Centro Oeste S.A.
+2. A sentença de primeiro grau julgou procedentes os pedidos de declaração de compra e venda de ações e promoção dos atos de transferência na forma legal. A apelação foi desprovida, mantendo-se a sentença.
+II. Questão em discussão
+3. Há três questões em discussão: (i) saber se ocorreu violação do art. 1.022, II, do CPC, por suposta ausência de análise dos fundamentos dos embargos de declaração; (ii) definir se consumou a prescrição da ação proposta após a celebração do instrumento; e (iii) aferir a existên cia de contrariedade ao princípio da não surpresa, por ter a sentença acolhido argumentação não submetida ao contraditório.
+III. Razões de decidir
+4. Não ocorre ofensa ao art. 1.022, II, do CPC quando Tribunal a quo examina e decide, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não incidindo em vício que possa nulificar o acórdão recorrido ou em negativa da prestação jurisdicional.
+5. É inviável o reexame em recurso especial de elementos fático-probatórios dos autos em face do óbice da Súmula n. 7 do STJ
+6. Não há violação do princípio da não surpresa quanto o julgador adota fundamentos jurídicos diversos dos defendidos pelas partes, mas cabíveis à solução do litígio.
+IV. Dispositivo e tese
+7 . Recurso desprovido.
+Tese de julgamento: "1. Não há violação ao art. 1.022 do CPC nem negativa da prestação jurisdicional quando a Corte de origem examina motiva adequadamente a sua decisão. 2. O reexame de elementos fático-probatórios é vedado pela Súmula n. 7 do STJ. 3. Não há violação ao princípio da não surpresa quando o julgador adota fundamentos jurídicos cabíveis à solução do litígio."
+Dispositivos relevantes citados: CPC, arts. 10, 178, 1.022, 1.025; Código Civil, art. 178.
+Jurisprudência relevante citada: STJ, AgInt no AREsp n. 2.453.641/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024; STJ, AgInt no AREsp n. 2.735.498/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025; STJ, AgInt no REsp n. 2.050.714/AC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/6/2023.
+VOTO
+A irresignação não reúne condições de êxito.
+No tocante ao art. 1.022, II, do Código de Processo Civil, não prospera a aventada ofensa à referida norma processual.
+Isso porque o Tribunal a quo examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não incidindo em nenhum vício que possa nulificar o acórdão recorrido e em negativa da prestação jurisdicional.
+Constata-se que o acórdão da apelação cível, cujos fundamentos fizeram-se presentes no julgado de rejeição dos aclaratórios, posicionou-se dentro dos limites que se impunham à resolução do litígio e no que fora arguido pela parte ora recorrente, atendo-se pontualmente aos fatos e provas dos autos, tanto para referendar a motivação decisória da sentença, afastando a ofensa ao art. 489, § 1º, IV, do CPC, quanto para não acolher a arguição de prescrição e decadência e pronunciar a inexistência de violação do princípio da não surpresa (art. 10 do CPC).
+É oportuno aduzir que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do ato decisório, ainda que, relativamente às conclusões, não haja concordância das partes.
+Quanto à admissão do prequestionamento ficto (art. 1.025 do CPC), restrito à questão exclusivamente de direito e que se faz possível com a arguição, no recurso especial, de ofensa ao art. 1.022 do mesmo diploma, não se pode perder de vista que tal permissividade, apta a dar ensejo a supressão de instância, decorre apenas da indevida rejeição dos embargos de declaração opostos ao acórdão de origem para provocar o debate de normas legais consideradas violadas e versem sobre temas indispensáveis à solução da controvérsia.
+Nessa linha de entendimento, confiram-se: AgInt no AREsp n. 2.453.641/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 28/10/2024, DJe de 30/10/2024; AgInt no AREsp n. 2.735.498/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 17/2/2025, DJEN de 28/2/2025.
+Em relação à suscitada violação do art. 178 do Código Civil, do voto condutor do acórdão da apelação colhem-se as razões abaixo (fl. 1.180):
+Quanto à prescrição, também entendo que não ocorreu, pois conf. bem destacou o MM. Juiz a quo, "Não há que se falar em prescrição e decadência uma vez que não se pode culpar o jurisdicionado pela morosidade da Justiça. O fato do Judiciário demorar para citar o réu não pode ser levado em conta para prejudicar a parte autora." (F. 830, mov. nº 03 - 102.).
+Entretanto, proposta a ação, no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência (Súmula 106 do c. STJ).
+Fixado, assim, o contexto decisório, para acolher o pleito deduzido acerca da matéria, tornar-se-ia necessário o reexame de elementos fático-probatórios constantes dos autos, providência inviável em recurso especial em face do óbice na Súmula n. 7 do STJ.
+Ademais, resta manifesto que o entendimento perfilhado pela instância de origem posta-se em harmonia com a jurisprudência consolidada nesta Corte, por força da Súmula n. 106 do STJ, segundo se extrai destes precedentes: AgInt no REsp n. 2.050.714/AC, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 19/6/2023, DJe de 22/6/2023; e AgInt no AREsp n. 2.527.030/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/2/2025, DJEN de 28/2/2025.
+A respeito da arguição recursal fundada no 10 do CPC, melhor sorte não socorre à parte recorrente, porquanto não há que se falar em contrariedade ao princípio da não surpresa quando o julgador, adstrito às circunstâncias fáticas e aos pontos controvertidos delineados nos autos, adota fundamentos jurídicos diversos daqueles defendidos pelas partes, mas cabíveis à solução do litígio.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESTAÇÃO JURISDICIONAL. NEGATIVA. AUSÊNCIA. PRINCÍPIO DA NÃO SURPRESA. AFRONTA. INEXISTÊNCIA. AFASTAMENTO. SÚMULAS NºS 7 E 83/STJ.
+ ..
+2. O princípio da não surpresa, constante no art. 10 do CPC, não é aplicável à hipótese em que há adoção de fundamentos jurídicos contrários à pretensão da parte com aplicação de entendimento jurídico aos fatos narrados pelas partes, como no caso dos autos.
+3. A consonância entre o acórdão recorrido e o entendimento do Superior Tribunal de Justiça acerca da ausência de decisão surpresa na espécie atrai o disposto na Súmula nº 83/STJ e alterar o julgado quanto ao ponto é providência que esbarra na Súmula nº 7/STJ.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.399.129/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/6/2024, DJe de 26/6/2024.)
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Fica prejudicada análise do agravo interno interposto pelo recorrido contra a decisão que não conheceu da tutela provisória.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão do al cance do limite máximo previsto no § 2º do referido artigo.
+É o voto.
