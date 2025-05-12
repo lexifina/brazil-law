@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 694):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N.
+284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante sustenta que: (a) a decisão monocrática aplicou indevidamente a Súmula 284 do STF, pois as razões do recurso especial teriam sido claras e específicas; (b) houve prequestionamento das matérias discutidas, especialmente quanto ao princípio da adstrição e ao devido processo administrativo; (c) reitera as alegações de irregularidades e fraudes no procedimento administrativo, que teriam comprometido seu direito ao contraditório e à ampla defesa e (d) a decisão foi extra petita, pois discutiu o mérito da sindicância ao invés de sua regularidade.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA N. 282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa aos referidos normativos sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015 (CPC/15), devendo ser exigidos os requisitos de admissibilidade conforme nele previsto, nos termos do Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que os argumentos apresentados no agravo interno não apresentam razões para reformar a decisão agravada.
+Como dito, não se conhece da suposta afronta aos artigos 489 e 1.022 do CPC/2015, pois a parte recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo, sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. SÚMULA 284/STF. FERROVIÁRIO APOSENTADO PELA CBTU. COMPLEMENTAÇÃO DE APOSENTADORIA. REFERÊNCIA NOS VALORES PREVISTOS NO PLANO DE CARGOS E SALÁRIOS DA EXTINTA RFFSA. PROVIMENTO NEGADO.
+1. A ausência de indicação, nas razões de recurso especial, das questões sobre as quais o Tribunal de origem manteve-se omisso, inviabiliza o reconhecimento da violação do art. 1.022 do CPC/2015, em razão do óbice contido na Súmula 284/STF.
+2. Consoante a jurisprudência do STJ, a complementação da aposentadoria dos ex-ferroviários é regida pelo plano de cargos e salários próprio dos empregados da extinta RFFSA, e não existe amparo legal à equiparação com a remuneração dos empregados da própria CBTU.
+3. Agravo interno a que se nega provimento (AgInt no REsp n. 2.047.671/PE, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 27/11/2023, DJe de 30/11/2023, grifei.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARGUIÇÃO GENÉRICA. AÇÃO RESCISÓRIA. DECADÊNCIA. TERMO INICIAL. TRÂNSITO EM JULGADO NA VIGÊNCIA DO CPC/73. ART. 535, III, §§ 5º E 8º, DO CPC/2015. INAPLICABILIDADE.
+1. A alegação genérica de ofensa ao art. 1.022 do CPC/2015, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+2. Hipótese em que a recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões.
+3. A Primeira Seção do STJ, em recente julgamento, por unanimidade, assentou que "não se aplica o disposto no art. 535, III, §§ 5º e 8º, do CPC/2015, o qual excepciona o termo inicial da contagem do prazo da ação rescisória ao trânsito em julgado da decisão proferida pelo Supremo Tribunal Federal em controle de constitucionalidade concentrado ou difuso, às hipóteses em que o acórdão rescindendo tenha transitado em julgado na vigência do Código de Processo Civil de 1973" (AgInt na AR 6.496/DF, rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 10/03/2022).
+4. Agravo interno desprovido (AgInt no AREsp n. 2.086.721/DF, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 17/4/2023, DJe de 20/4/2023, grifei.)
+De outro lado, anota-se que o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+No caso, a Corte de origem não se manifestou a respeito dos artigos 2º, 27, parágrafo único, e 53 da Lei n. 9.784/99; 114 e 492, do CPC/2015 e às teses a eles vinculadas, o que denota a falta de prequestionamento sobre as controvérsias suscitadas.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+PROCESSUAL CIVIL E SERVIDOR. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STF. VANTAGEM PREVISTA NO ART. 192, II, DA LEI N. 8.112/90. BASE DE CÁLCULO. VENCIMENTO BÁSICO DO PADRÃO OCUPADO. PRECEDENTES.
+1. Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+3. O acórdão recorrido está em confronto com a orientação desta Corte, segundo a qual acréscimo pecuniário a que tem direito o servidor público ao passar para a inatividade, nos termos do art. 192, II, da Lei 8.112/90, deve ser calculado com base na diferença entre o vencimento básico do padrão que o servidor ocupava e o do padrão imediatamente anterior, excluídos os acréscimos.
+4. Agravo interno não provido (AgInt nos EDcl no REsp 1939742/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 20/06/2022, Dje de 22/06/2022) (grifei).
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 121 DO CTN. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. SUCESSÃO EMPRESARIAL. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. HONORÁRIOS RECURSAIS PREVISTOS NO ART. 85, §11, DO CPC/2015. INCABÍVEL NO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Revela-se deficiente a fundamentação do recurso quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem, bem quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+IV - Rever o entendimento do Tribunal de origem, com o objetivo de acolher a pretensão recursal de reconhecer a sucessão empresarial, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+V - Ausente a condenação em honorários advocatícios em desfavor da ora Agravante nas instâncias ordinárias, revela-se incabível a majoração a título de honorários recursais.
+VI - Agravo Interno parcialmente provido, para afastar os honorários recursais (AgInt no REsp 1957797/AM, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 14/03/2022, Dje de 21/03/2022) (grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
