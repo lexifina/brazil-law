@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, julgar prejudicado o recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL DE TRADITIO (SUL AMÉRICA). SEGURO HABITACIONAL. CONTRATO DE MÚTUO HABITACIONAL. SFH. FCVS. APÓLICE PÚBLICA. COMPETÊNCIA INTERNA DO STJ. PRIMEIRA SEÇÃO. REDISTRIBUIÇÃO. ACOLHIMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS POR CAIXA SEGURADORA, COM EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+1.  Considerando o acolhimento dos  embargos  de declaração opostos por CAIXA SEGURADORA,  com o envio dos  autos  à  Primeira  Seção  desta  Corte,  em  virtude  da  decisão  da  Corte  Especial  sobre  a  competência  interna  para  análise  de questões que envolvam  contratos  de  mútuo  habitacional  em  que  possa  haver  interesse  da  Caixa  Econômica  e  comprometimento  do  Fundo  de  Compensação  de  Variações  Salariais  (CC  nº  148.188/DF), julgo prejudicados os presentes embargos de declaração.
+3.  Embargos  de  declaração  julgados prejudi cados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por TRADITIO COMPANHIA DE SEGUROS, atual denominação de SUL AMERICA COMPANHIA NACIONAL DE SEGUROS (TRADITIO), contra acórdão de minha relatoria, assim ementado:
+CIVIL. PROCESSUAL CIVIL. AÇÃO. AGRAVO INTERNO NO RECURSO ESPECIAL DE SUL AMÉRICA. SEGURO HABITACIONAL. CONTRATO. AUSÊNCIA DE COMPROMETIMENTO DO FCVS. CAIXA ECONÔMICA FEDERAL.FALTA DE INTERESSE. ILEGITIMIDADE. COMPETÊNCIA. JUSTIÇA ESTADUAL. REVOLVIMENTO DO CONJUNTO FÁTICO- PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS N. os 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido alinha-se à jurisprudência desta Corte, pois a Segunda Seção do STJ, ao julgar o recurso repetitivo REsp n. 1.091.363/SC, consolidou o entendimento de não existir interesse da Caixa Econômica Federal a justificar a formação de litisconsórcio passivo necessário nas causas cujo objeto seja a pretensão resistida à cobertura securitária dos danos oriundos dos vícios de construção do imóvel financiado pelo Sistema Financeiro da Habitação, quando não afetar o FCVS.
+2. A alteração das conclusões do acórdão recorrido no tocante à legitimidade e competência exige reapreciação do acervo fático- probatório da demanda, o que faz incidir o óbice das Súmulas nºs 5 e 7 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido (e-STJ, fls. 1.255/1.256)
+Nas razões do presente inconformismo, TRADITIO defendeu que houve omissão no acórdão recorrido, no que se refere a) à imediata aplicabilidade da tese já fixada pelo STF no julgamento do tema nº 1.011, que fixou em caráter vinculante, a competência da Justiça Federal para processar e julgar demandas que versem sobre apólices públicas do Seguro Habitacional do Sistema Financeiro da Habitação, vinculadas ao FCVS, administrado pela Caixa Econômica Federal, como no presente caso; e, b) à inaplicabilidade, ao caso, das Súmulas nºs 5 e 7 do STJ (e-STJ, fls. 1.272/1.278).
+Não foram apresentadas contrarrazões (e-STJ, fl. 1.295 ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL DE TRADITIO (SUL AMÉRICA). SEGURO HABITACIONAL. CONTRATO DE MÚTUO HABITACIONAL. SFH. FCVS. APÓLICE PÚBLICA. COMPETÊNCIA INTERNA DO STJ. PRIMEIRA SEÇÃO. REDISTRIBUIÇÃO. ACOLHIMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS POR CAIXA SEGURADORA, COM EFEITOS INFRINGENTES. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+1.  Considerando o acolhimento dos  embargos  de declaração opostos por CAIXA SEGURADORA,  com o envio dos  autos  à  Primeira  Seção  desta  Corte,  em  virtude  da  decisão  da  Corte  Especial  sobre  a  competência  interna  para  análise  de questões que envolvam  contratos  de  mútuo  habitacional  em  que  possa  haver  interesse  da  Caixa  Econômica  e  comprometimento  do  Fundo  de  Compensação  de  Variações  Salariais  (CC  nº  148.188/DF), julgo prejudicados os presentes embargos de declaração.
+3.  Embargos  de  declaração  julgados prejudi cados.
+VOTO
+A discussão dos presentes autos gira em torno da responsabilidade securitária dos danos oriundos dos vícios de construção de imóveis financiados mediante contrato de mútuo submetido ao Sistema Financeiro de habitação, quando é discutido o comprometimento do FCVS (Fundo de Compensação de Variações Salariais), conforme apontado pela parte coembargante, CAIXA SEGURADORA, nas razões de seus embargos a e-STJ, fl. 1.279/1.283.
+Deste modo e diante do acolhimento dos embargos de declaração opostos por CAIXA SEGURADORA, com o  envio  dos  autos  à  redistribuição  a  um  dos  Ministros  da  Primeira  Seção  desta  C orte,  competente  para  a  análise  da  questão dos autos,  mostram-se prejudicados os presentes embargos de declaração.
+Ante  o  exposto,  JULGO PREJUDICADOS OS EMBARGOS DE DECLARAÇÃO.
+É  o  voto.
