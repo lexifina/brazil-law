@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  CONFIGURADA.  DECISÃO  RECONSIDERADA.
+1.  O  não  enfrentamento,  pela  Corte  de  origem,  de  questões  ventiladas  nos  aclaratórios  e  imprescindíveis  à  solução  do  litígio  implica  violação  do  art.  1.022  do  Código  de  Processo  Civil,  autorizando  o  retorno  dos  autos  à  instância  ordinária  para  novo  julgamento  dos  aclaratórios  opostos.
+2.  Agravo  interno  provido, reconsiderando a decisão monocrática, para  conhecer  do  agravo  para  conhecer  em  parte  o  recurso  especial,  e  nessa  extensão,  dar-lhe  provimento  para  determinar  a  devolução  dos  autos  ao  Tribunal  de  origem  para  que  seja  apreciada  a  matéria  suscitada  nos  declaratórios .
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SPE STX 32 DESENVOLVIMENTO IMOBILIÁRIO S.A. e OUTRAS  contra  a  decisão  que  conheceu  do  agravo  para  conhecer  em  parte  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  (e-STJ  fls.  1.024/1.027).
+Nas  razões  do  agravo,  as  recorrentes  alegam,  em  síntese,  a  violação  do  art.  1.022  do  CPC, visto que "é patente a violação no acórdão recorrido aos arts. 85, caput e 861, caput do CPC quando deixou de fixar honorários de sucumbência pelo decaimento recíproco das partes, uma vez que pela atuação dos advogados a ré URBIX deixou de ser condenada solidariamente no valor de R$ 361.779,20" (e-STJ fl. 1.036).
+Ao  final,  requerem  a  reforma  da  decisão  atacada.
+Impugnação  às  e-STJ  fls.  1.047/1.053.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  CONFIGURADA.  DECISÃO  RECONSIDERADA.
+1.  O  não  enfrentamento,  pela  Corte  de  origem,  de  questões  ventiladas  nos  aclaratórios  e  imprescindíveis  à  solução  do  litígio  implica  violação  do  art.  1.022  do  Código  de  Processo  Civil,  autorizando  o  retorno  dos  autos  à  instância  ordinária  para  novo  julgamento  dos  aclaratórios  opostos.
+2.  Agravo  interno  provido, reconsiderando a decisão monocrática, para  conhecer  do  agravo  para  conhecer  em  parte  o  recurso  especial,  e  nessa  extensão,  dar-lhe  provimento  para  determinar  a  devolução  dos  autos  ao  Tribunal  de  origem  para  que  seja  apreciada  a  matéria  suscitada  nos  declaratórios .
+VOTO
+Em  virtude  dos  argumentos  expostos  pelas  agravantes,  reconsidera-se  a  decisão  de  e-STJ  fls.  1.024/1.027,  e  passa-se  à  nova  análise  do  agravo em recurso  especial.
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por SPE STX 32 DESENVOLVIMENTO IMOBILIÁRIO S. A. e OUTRAS.
+O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo e no recurso especial, apontam as recorrentes, além de divergência jurisprudencial, violação dos artigos 85, 86, 489, § 1º, IV, e 1.022, I e II, do CPC; 28, § 2º, do CDC; 50, "caput", 206, § 3º, IV, 265, 725 e 884 do CC; e 31-A da Lei nº 4.591/1964.
+Defendem, em síntese, que houve a inclusão indevida de pessoa jurídica no polo passivo da relação processual, que devem ser fixados honorários de sucumbência devido a exclusão de um dos réus do pólo passivo da demanda e que não deve ocorrer a restituição do valor pago pela comissão de corretagem.
+Com as contrarrazões (fls. 966/982 e-STJ) e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+A irresignação merece prosperar.
+O  tribunal  de  origem,  apesar  de  provocado,  deixou  de  examinar  questão  essencial  ao  deslinde  da  controvérsia,  exposta  nos  seguintes  termos:
+"(..)
+O V. acórdão também ocorreu em omissão ao não fixar os devidos honorários de sucumbência pelo decaimento parcial da parte Autora quanto à exclusão da Ré URBIX, violando os art. 85 e 86 do CPC.
+Veja que houve a exclusão de uma ré do polo passivo da ação que visava a sua responsabilização solidária pelo valor de R$ 362.900,00. Ora, em respeito ao trabalho dos patronos que livraram a Ré de condenação de mais de trezentos mil reais, deve ser fixada, ainda que por equidade, verba sucumbencial pelo decaimento parcial, não podendo ser reputado como mínimo." (fls. 892 e-STJ).
+Cumpre  ressaltar  que  o  conhecimento  do  recurso  especial  exige  a  manifestação  da  instância  ordinária  acerca  da  questão  de  direito  suscitada.  Assim,  recusando-se  a  Corte  de  origem  a  se  manifestar,  fica  impedido  o  acesso  à  instância  extrema,  cabendo  à  parte  vencida  invocar,  como  no  caso,  a  infringência  ao  art.  1.022  do  Código  de  Processo  Civil,  a  fim  de  anular  o  acórdão  recorrido  para  que  seja  suprida  a  omissão  existente.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  PLANO  DE  SAÚDE  COLETIVO  EMPRESARIAL.  EX-EMPREGADO  APOSENTADO.  REGIME  DE  CUSTEIO.  DIVISÃO  DE  CATEGORIAS.  OMISSÃO  E  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  VERIFICADAS.  VÍCIOS  NÃO  CORRIGIDOS  NO  JULGAMENTO  DOS  ACLARATÓRIOS.  QUESTÕES  RELATIVAS  AO  CERNE  DA  CONTROVÉRSIA.  VIOLAÇÃO  DOS  ARTS.  489  E  1.022,  AMBOS  DO  NCPC.  ANULAÇÃO  DO  ACÓRDÃO  ESTADUAL  E  RETORNO  DOS  AUTOS  À  INSTÂNCIA  DE  ORIGEM.  DECISÃO  MANTIDA.  AGRAVO  NÃO  PROVIDO.
+1.  O  presente  agravo  interno  foi  interposto  contra  decisão  publicada  na  vigência  do  NCPC,  razão  pela  qual  devem  ser  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  nele  prevista,  nos  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  Quando  o  tema  suscitado  nos  embargos  de  declaração  é  relevante  ao  deslinde  da  controvérsia,  e  o  Tribunal  de  origem  não  se  pronunciou  sobre  ele,  imprescindível  a  anulação  do  acórdão  para  que  outro  seja  proferido,  ante  a  contrariedade  ao  art.  1.022  do  NCPC.
+3.  No  caso,  foi  constatado  que  houve  prestação  jurisdicional  incompleta  no  que  concerne  a  legalidade  da  mudança  da  forma  de  contribuição  para  o  novo  modelo  por  faixa-etária  e  a  inexistência  de  discriminação  ao  ex-empregado  aposentado,  por  se  tratar  de  plano  único.
+4.  Por  ora,  apesar  da  manifesta  inadmissibilidade  deste  recurso,  e  da  anterior  advertência  em  relação  à  aplicação  do  NCPC,  deixo  de  aplicar  a  multa  prevista  no  art.  1.021,  §  4º,  do  NCPC.
+5.  Agravo  interno  não  provido"  (AgInt  nos  EDcl  no  AgInt  no  REsp  1.728.492/SP,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  10/9/2019,  DJe  13/9/2019).
+Prejudicadas as demais questões.
+Ante  o  exposto,  dou provimento ao agravo interno, reconsiderando  a  decisão  de  e-STJ  fls.  1.024/1.027  para,  em  nova  análise  do  recurso  especial,  conhecer  do  agravo  para  conhecer  em  parte  o  recurso  especial,  e  nessa  extensão,  dar-lhe  provimento  para  determinar  a  devolução  dos  autos  ao  Tribunal  de  origem  para  que  seja  apreciada  a  matéria  suscitada  nos  declaratórios  (e-STJ  fls.  884/895) .
+É o voto.
