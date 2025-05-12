@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MEDICAMENTO ANTINEOPLÁSICO. COBERTURA DEVIDA. SÚMULA 83/STJ.
+1. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+2 . Agravo interno a que se nega provimento.
+RELATÓRIO
+Cuida-se de agravo interno ajuizado em face da decisão de fls. 346-349, na qual neguei provimento ao recurso especial.
+A parte agravante sustenta que o caso não se amolda ao entendimento jurisprudencial desta Corte Superior, uma vez que, ainda que o medicamento esteja na categoria de antineoplásico oral, a destinação do tratamento não será para patologia câncer.
+Alega ainda, que "tanto a lei de regência, como a jurisprudência dominante firmado por esse C. Superior Tribunal estabelecem que as operadoras de planos de saúde são estão obrigadas a fornecerem medicamentos de uso domiciliar".
+Impugnação às fls. 367-370.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MEDICAMENTO ANTINEOPLÁSICO. COBERTURA DEVIDA. SÚMULA 83/STJ.
+1. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+2 . Agravo interno a que se nega provimento.
+VOTO
+Com base nas alegações da agravante, verifico que o recurso não merece provimento, ainda que por fundamentos distintos dos trazidos na decisão singular de fls. 346-349, conforme será exposto a seguir.
+A decisão recorrida julgou recurso especial interposto em face de acórdão assim ementado (fl. 229):
+PLANO DE SAÚDE - OBRIGAÇÃO DE FAZER AUTOR PORTADOR DE FIBROSE PULMONAR IDIOPÁTICA E CÂNCER DE PRÓSTATA - NEGATIVA DE CUSTEIO DE MEDICAMENTO OFEV (NINTETAMIBE 150 MG) PARA USO DOMICILIAR - DOENÇA QUE INTEGRA O ROL DE COBERTURAS OBRIGATÓRIAS FÁMARCO REGISTRADO NA ANVISA PRECEDENTE JULGADO EM REGIME DE RECURSO REPETITIVO (REsp nºs 1712163/SP e 1726563/SP) COBERTURA DEVIDA IMPUGNAÇÃO À GRATUIDADE REJEITADA - SENTENÇA DE PARCIAL PROCEDÊNCIA MANTIDA RECURSO NÃO PROVIDO.
+O acórdão proferido pelo Tribunal local, confirmando a sentença de primeiro grau, concluiu ter sido abusiva a negativa em custear o medicamento OFEV solicitado pelo autor para tratamento de fibrose pulmonar.
+Observa-se que se trata de um medicamento registrado na ANVISA como antineoplásico, constando da própria bula que é indicado para pacientes com fibrose pulmonar idiopática, outras doenças pulmonares intersticiais fibrosantes crônicas com fenótipo progressivo, bem como para pacientes com "câncer de pulmão não pequenas células" (CNPC).
+No caso em análise, apesar de o medicamento não estar sendo direcionado ao tratamento de câncer, encontra-se abrangido pela exceção do artigo 10, VI, da Lei n. 9.656/98, que dispõe sobre a não obrigatoriedade em custear o "fornecimento de medicamentos para tratamento domiciliar, ressalvado o disposto nas alíneas "c" do inciso I e "g" do inciso II do art. 12", que versa sobre medicamentos antineoplásicos domiciliares de uso oral.
+Nesse contexto, a jurisprudência desta Corte Superior é firme no sentido de que: "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp n. 1.895.659/PR, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+Ao analisar casos semelhantes ao dos presentes autos, que trataram do mesmo medicamento (OFEV) indicado para a mesma patologia (fibrose pulmonar), a Quarta Turma desta Corte Superior concluiu ser abusiva a negativa de cobertura do plano de saúde de medicamento antineoplásico oral, devidamente registrado na ANVISA. Confiram -se (grifo acrescentado):
+CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FIBROSE PULMONAR IDIOPÁTICA. MEDICAMENTO. USO DOMICILIAR. NEGATIVA INDEVIDA DE COBERTURA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL DESPROVIDO.
+1. A agravante realizou a impugnação específica dos fundamentos da decisão de inadmissibilidade do recurso especial. Decisão da Presidência reconsiderada.
+2. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim.
+Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 29/11/2022, DJe de 9/12/2022).
+3. No caso em exame, todavia, o fármaco prescrito pelo médico assistente é um antineoplásico oral, devidamente registrado na ANVISA, com expressa indicação para tratamento de fibrose pulmonar idiopática, sendo abusiva a recusa de cobertura do plano de saúde, com base somente na ausência de enquadramento nas diretrizes de utilização da ANS, sem a devida indicação, em contrapartida, de terapêutica alternativa eficaz e segura para a enfermidade que acomete o paciente.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.483.974/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/4/2024, DJe de 19/4/2024.)
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. FIBROSE PULMONAR IDIOPÁTICA. MEDICAMENTO. USO DOMICILIAR. ESILATO DE NINTEDANIBE (OFEV). PREVISÃO NO ROL DA ANS. NEGATIVA INDEVIDA DE COBERTURA. AGRAVO INTERNO DESPROVIDO.
+1. "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no rol da Agência Nacional de Saúde Suplementar (ANS) para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN-ANS nº 338/2013 (atual art. 17, parágrafo único, VI, da RN-ANS nº 465/2021)" (AgInt nos EREsp 1.895.659/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 29/11/2022, DJe de 9/12/2022).
+2. No caso em exame, todavia, o fármaco prescrito pelo médico assistente é um antineoplásico oral, devidamente registrado na ANVISA, que consta da RN-ANS nº 465/2021 como medicamento de cobertura obrigatória para o tratamento de câncer de pulmão, sendo abusiva a recusa de cobertura do plano de saúde com base somente no não enquadramento nas diretrizes de utilização da ANS para tratamento de Fibrose Pulmonar Idiopática, sem indicação, em contrapartida, de tratamento alternativo eficaz e seguro para a enfermidade do paciente.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.922.396/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/6/2024, DJe de 22/6/2023.)
+Deste modo, verifica-se que o acórdão recorrido está em consonância com a orientação que se firmou na jurisprudência desta Corte, incidindo, portanto, o óbice da Súmula 83 do STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
