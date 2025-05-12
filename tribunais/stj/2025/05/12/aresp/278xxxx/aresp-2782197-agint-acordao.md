@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. FALTA DE DIALETICIDADE. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182 /STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARIA MADALENA DE OLIVEIRA CASTELHANO contra decisão de fls. 204/207, que negou provimento ao seu agravo em recurso especial, por meio do qual buscava reformar acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. Pessoa natural. Indeferimento do benefício. Pretensão de reforma da decisão. Não acolhimento. A presunção de hipossuficiência restou elidida nos autos. Documentos apresentados que denotam que o agravante detém condições de arcar com as custas e despesas processuais, sem prejuízo de seu sustento ou de sua família. Decisão mantida. Recurso desprovido.
+Sustenta a agravante que a decisão que indeferiu o pedido de justiça gratuita baseou-se apenas em um extrato bancário isolado, do qual constam valores provenientes de transferências de parentes, o que não reflete sua real situação econômica.
+Argumenta, ainda, que houve julgamento contraditório por parte do próprio Juízo de origem, que, sete meses após o indeferimento da gratuidade, deferiu o mesmo benefício à agravante, em ação conexa contra o mesmo réu.
+Impugnação não apresentada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. FALTA DE DIALETICIDADE. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182 /STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+VOTO
+De plano, verifico que o agravo interno interposto não merece ser conhecido, uma vez que as agravantes não atacaram especificamente todos os fundamentos da decisão agravada.
+A decisão agravada negou provimento ao agravo em recurso especial nos seguintes termos (fls. 205/206):
+"Da análise dos autos, não verifico a alegada violação aos arts. 98 e 99, §§ 1º ao 4º, do CPC, visto que o Tribunal de origem, ao indeferir o pedido de gratuidade de justiça formulado pela agravante, indicou elementos concretos nos autos que evidenciam a falta dos pressupostos legais para concessão do referido benefício. Confiram-se, nesse sentido, trechos do acórdão recorrido (fls. 86/88):
+"Com efeito, in casu, a agravante não logrou demonstrar o preenchimento dos requisitos para concessão do benefício, tornando inviável o pedido de seu acolhimento nesta sede. Assim, elidida a presunção de hipossuficiência que assiste a pessoa natural, de fato não comportava deferimento o benefício da gratuidade processual ao agravante.  ..  Repise-se que, no despacho de fls. 39/40, foi concedido à agravante prazo para juntada de documentos complementares. A autora juntou extratos que demonstram, apenas na conta mantida junto ao NuBank S/A (fls. 47/73) o recebimento do valor de R$5.470,11 em abril de 2024, revelando que a agravante vem sendo beneficiária de transferência via Pix de terceiros, tais como R$ 50,00 (em 01/04/2024), R$570,00 (em 03/04/2024), R$327.07 (em 04/04/2024), R$174,00 (em 04/04/2024), R$76,00 (em 04/04/2024), R$209,04 (em 11/04/2024), R$50,00 (em 15/04/2024), R$65,00 (em 15/04/2024), R$200,00 (em 28/04/2024), R$623,00 (em 30/04/2024), cuja origem não foi esclarecida. Ainda, anoto que autora é proprietária do veículo VW-Golf Renavam 00779350820, placa DFT-7714 (fl. 80) e que, a despeito de a mera contratação de advogado particular não constituir óbice ao deferimento da gratuidade, nos termos preconizados pelo art. 99, §4º do CPC, tal fato, em conjunto com os demais elementos constantes dos autos pode, sim, corroborar o entendimento adotado, no caso concreto, para indeferir o benefício."
+Com efeito, existente dúvida sobre a real condição financeira da agravante, é possível indeferir o pedido de gratuidade de justiça, uma vez que a declaração da pessoa física, atestando que não teria condições de arcar com as custas do processo, faz prova relativa, admitindo refutação, pela parte adversa, ou mesmo pelo Juízo, de ofício, como na espécie.  ..
+Desse modo, como a orientação adotada pela Corte Local está em conformidade com a jurisprudência do STJ, a análise do recurso especial encontra óbice na Súmula 83/STJ.
+De toda forma, a reapreciação de matéria no âmbito do recurso especial, de modo a infirmar os pressupostos adotados pelo Tribunal de origem quanto à suficiência econômica da agravante, a fim de reconhecer o benefício da gratuidade de justiça, demandaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, em virtude do óbice contido na Súmula 7 do STJ."
+Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todas as razões da decisão recorrida.
+Especificamente com relação à aplicação da Súmula 83/STJ, a impugnação adequada pressupõe a demonstração por meio de julgados atuais de que a jurisprudência do STJ não estaria no mesmo sentido do acórdão recorrido ou de que o caso em exame apresentaria distinção em relação aos precedentes invocados. A propósito, vide AgInt no AREsp n. 2.474.777/AM, relator Ministro Francisco Falcão, Segunda Turma, julgado em 13/5/2024, DJe de 15/5/2024; e AgInt no REsp n. 2.061.878/SP, de minha relatoria, Quarta Turma, julgado em 4/12/2023, DJe de 7/12/2023.
+Ocorre que os argumentos jurídicos apresentados pela parte agravante neste agravo interno não rebatem de forma específica os fundamentos da decisão agravada nem demonstraram a distinção do caso com relação aos precedentes citados na decisão agravada.
+Imperioso concluir, portanto, que a exigência constante do art. 1.021, § 1º, do Código de Processo Civil não foi cumprida, o que conduz à inviabilidade do agravo interno, como ensina o art. 932, III, do mesmo Diploma e o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo interno.
+É como voto.
