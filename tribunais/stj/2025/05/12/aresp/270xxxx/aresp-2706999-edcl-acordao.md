@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NOS EMBARGOS DE DECLARAÇÃO NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  INEXISTÊNCIA. INTUITO INFRINGENTE. NATUREZA PROTELATÓRIA. MULTA.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  o  u  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+3. Embargos de declaração rejeitados com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+RELATÓRIO
+  Trata-se  de  embargos  de  declaração  opostos  por  AUTO POSTO DE COMBUSTÍVEIS 040 LTDA.  ao  acórdão  que  rejeitou anteriores embargos de declaração  (e-STJ  fls.  813/815).
+Em  suas  razões  (e-STJ  fls.  820/827 ),  o  embargante  alega  que  o  acórdão  é  omisso acerca da negativa de vigência aos arts. 134 do CPC, 50 e 1.146 do CC e ofensa às garantias processuais fundamentais, dispostas nos arts. 5º, II, LIV e LV e 170, II, da Constituição Federal.
+Sustenta que a sua inclusão no polo passivo da execução de origem se deu por meio de simples decisão monocrática, com base em meros "indícios" e "presunções", sem que tenha sido observado o procedimento do art. 134 do CPC e sem que tenham sido observados a ampla defesa e o contraditório.
+Aduz, ainda, que a manutenção de decisão proferida na origem impõe à embargante responsabilidade patrimonial sobre dívida com a qual não possui relação alguma, apenas por atuar no mesmo espaço físico que o titular da obrigação.
+É  o  relatório.
+EMENTA
+  EMBARGOS  DE  DECLARAÇÃO  NOS EMBARGOS DE DECLARAÇÃO NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  OMISSÃO.  INEXISTÊNCIA. INTUITO INFRINGENTE. NATUREZA PROTELATÓRIA. MULTA.
+1.  Ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  o  u  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+2.  A reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do Código de Processo Civil.
+3. Embargos de declaração rejeitados com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+VOTO
+Não  prospera  a  inconformidade  veiculada  nos  presentes  aclaratórios.
+Verifica-se que o agravo em recurso especial não foi conhecido, porque não foram impugnados os fundamentos da decisão que inadmitiu o apelo nobre, nos termos do art. 932, III, do Código de Processo Civil.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado, o que não se verifica na hipótese.
+Com efeito, a parte embargante não discutiu os vícios previstos no art. 1.022 do CPC. Simplesmente alegou omissão acerca da negativa de vigência aos arts. 134 do CPC, 50 e 1.146 do CC e ofensa às garantias processuais fundamentais, dispostas nos arts. 5º, II, LIV e LV, e 170, II, da Constituição Federal, não rebatendo a aplicação do art. 932 do CPC, razão pela qual o recurso especial não foi conhecido. Portanto, sem estabelecer a necessária conexão dialética entre a decisão de não conhecimento do seu recurso especial e estes aclaratórios, em total afronta ao princípio da dialeticidade.
+Além disso, observa-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Sendo assim, não há que se cogitar da ocorrência de omissão, uma vez que o recurso nem sequer ultrapassou o juízo prévio de admissibilidade para que o mérito fosse apreciado.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA. AUSÊNCIA DE VÍCIO NO JULGADO.1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.2. Na hipótese, não há irregularidade ensejadora dos embargos de declaração, uma vez que a causa foi satisfatoriamente decidida em consonância com a jurisprudência do Supremo Tribunal Federal.3. Conforme entendimento pacífico desta Corte de Justiça, não é omisso o acórdão que deixa de se manifestar sobre o mérito do recurso que não ultrapassou o juízo de admissibilidade. Embargos de declaração rejeitados" (EDcl no AgRg no RE nos EDcl no AgRg no AREsp 1556938/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 11/03/2021).
+Nesse  contexto,  ausentes  quaisquer  dos  vícios  ensejadores  dos  aclaratórios,  afigura-se  patente  o  intuito  infringente  da  presente  irresignação,  que  objetiva  não  suprimir  a  omissão,  afastar  a  obscuridade,  eliminar  a  contradição  ou  corrigir  o  erro  material,  mas,  sim,  reformar  o  julgado  por  via  inadequada.
+Diante do caráter protelatório dos declaratórios, aplica-se multa de 1% (um por cento) sobre o valor atualizado da causa, nos termos do art. 1.026, § 2º, do Código de Processo Civil, ressaltando que a reiteração de embargos protelatórios implicará a elevação da multa ao patamar de até 10% (dez por cento).
+Ante o exposto, rejeito os embargos de declaração com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+É  o  voto.
