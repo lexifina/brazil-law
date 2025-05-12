@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado por Estado de Mato Grosso contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fls. 143/144):
+RECURSO DE APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - RENAJUD - RESTRIÇÃO JUDICIAL SOBRE VEÍCULO - ALIENAÇÃO À TERCEIRO - AQUISIÇÃO ANTERIOR À INCLUSÃO DA PENHORA DO BEM MÓVEL - AUSÊNCIA DE REGISTRO NO DETRAN - MERA FORMALIDADE ADMINISTRATIVA - TRANSFERÊNCIA DA PROPRIEDADE PELA TRADIÇÃO ANTES DA MEDIDA CONSTRITIVA - COMPROVAÇÃO - PENHORA AFASTADA - RECURSO NÃO PROVIDO.
+1. Há de ser afastada a restrição via RENAJUD de veículo quando comprovado que a alienação do bem se deu antes da inclusão do gravame, sendo irrelevante a ausência de registro da transferência no DETRAN, na medida em que a aquisição da propriedade de bens móveis se opera, efetivamente, mediante a sua tradição.
+2. Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados (fls. 184/188).
+Nas razões do recurso especial, a parte agravante aponta, além do dissídio jurisprudencial, violação aos seguintes dispositivos:
+I - arts. 1.022, II, parágrafo único, I, c/c 489, §1º, IV e VI, do CPC, ao argumento de que o acórdão recorrido não supriu as omissões apontadas nos embargos de declaração, em especial quanto à aplicação do art. 185 do CTN e à jurisprudência do STJ sobre a desnecessidade do registro da penhora para que se possa reconhecer a ineficácia da alienação de bens, uma vez que, havendo o ato translativo ocorrido após a inscrição em dívida ativa, configura-se a existência de fraude;
+II - art. 185 do CTN, afirmando que a alienação do veículo deu-se após a inscrição em dívida ativa, de modo que deve ser declarada sua ineficácia em relação à Fazenda Pública, pois a boa-fé do adquirente não é elemento a impedir a configuração da fraude à execução fiscal.
+Foram ofertadas contrarrazões às fls. 219/227.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, §1º, IV e VI e 1.022, II, parágrafo único, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, ao tratar da matéria de fundo, o Tribunal de origem destacou (fls. 145/148):
+E mais, nos termos da tese firmada pela Corte Especial do STJ, em sede de julgamento de recurso especial repetitivo, "inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência" (REsp 956.943/PR , Rel. p/ acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, D Je de 1º.12.2014).
+Além disso, deve-se ressaltar que o ordenamento jurídico prestigia a tutela da boa-fé de terceiros adquirentes, cuja presunção milita em seu favor, só podendo ser ilidida nos seguintes casos: a) quando houver o registro da penhora (ou da própria execução, como no caso do art. 828, do CPC); e b) em havendo a prova de má-fé do terceiro adquirente.
+Portanto, no caso em análise para o reconhecimento de fraude à execução, faz-se necessária a comprovação de que o bem alienado já havia sido penhorado, com o devido registro da constrição junto ao DETRAN ou de que houve a má-fé do adquirente do veículo.
+Nesse sentido, analisando as provas carreadas aos autos, o d. juízo a quo concluiu pela procedência do pedido inicial formulado pela parte embargante/apelada para desconstituir a penhora registrada.
+ ..
+Assim, restou demonstrado nos autos que no momento em que o veículo foi vendido ao embargante não havia qualquer ônus sobre ele, já que a penhora se concretizou apenas em momento posterior.
+Por outro lado, a Fazenda Pública também não logrou êxito em demonstrar a má-fé do adquirente do veículo, não restando presentes as hipóteses de configuração da fraude à execução.
+Diante disso, em razão da ausência de prova de má-fé na transação feita entre o embargante e o executado, tendo em vista que não tinha conhecimento da demanda ou de nenhum vício, bem como que o auto de penhora, ou seja, sua oficialização, só aconteceu depois de anotada a venda, não há que se falar na hipótese de fraude à execução.
+Nesse contexto, a desconstituição das premissas lançadas pela instância ordinária, na forma pretendida, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ, bem anotada pelo decisório agravado.
+Nesse sentido:
+PROCESSUAL CIVIL, ADMINISTRATIVO E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. ALIENAÇÃO DE IMÓVEL APÓS O REDIRECIONAMENTO DA EXECUÇÃO FISCAL EM DESFAVOR DA PARTE EXECUTADA. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PROVIMENTO NEGADO.
+1. A Primeira Seção do Superior Tribunal de Justiça (STJ), sob a sistemática dos recursos repetitivos, assentou o entendimento de que, para os créditos tributários, a partir da alteração promovida pela Lei Complementar 118/2005, o marco inicial para a caracterização de fraude à execução é a inscrição do crédito fazendário em dívida ativa, de modo que a simples alienação ou oneração de bens pelo devedor insolvente a partir de 9/6/2005 gera presunção absoluta de fraude e impõe o reconhecimento da ineficácia do negócio jurídico. Entendimento consolidado no REsp 1.141.990/PR, relator Ministro Luiz Fux, DJe de 19/11/2010 (Tema 290).
+2. No caso concreto, o Tribunal de origem reconheceu que a alienação do imóvel havia ocorrido após a data de redirecionamento do processo executivo contra o sócio executado, o que caracteriza a fraude à execução. Entendimento diverso implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.377.965/RS, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 7/10/2024, DJe de 14/10/2024 - g.n.)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
+ EMENTA
