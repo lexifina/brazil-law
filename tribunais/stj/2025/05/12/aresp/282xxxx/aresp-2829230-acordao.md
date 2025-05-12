@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, conhecer do recurso mas lhe negar provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  PROMESSA  DE  COMPRA  E  VENDA  DE  IMÓVEL.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  CLÁUSULA  PENAL.  VARIAÇÃO  ENTRE  10%  (DEZ POR CENTO) E  20% (VINTE POR CENTO).  TRIBUTOS  INCIDENTES  SOBRE  A  PROPRIEDADE  DO  IMÓVEL.  AUSÊNCIA  DE  IMISSÃO  NA  POSSE.  RESPONSABILIDADE  DO  PROMITENTE-VENDEDOR.
+1.  É  admitida  a  flutuação  do  percentual  da  retenção  pelo  vendedor  entre  10%  (dez  por  cento)  a  25%  (vinte  e  cinco  por  cento)  do  total  da  quantia  paga  nas  hipóteses  de  rescisão  de  contrato  de  promessa  de  compra  e  venda  de  imóvel  por  iniciativa  do  comprador.  Precedentes.
+2.  Somente  a  partir  da  efetiva  posse  do  imóvel,  com  a  entrega  das  chaves,  passa  o  adquirente  a  ter  a  obrigação  de  pagar  as  despesas  condominiais  e  IPTU,  sendo  responsabilidade  da  vendedora  até  a  imissão  na  posse.
+3.  Agravo  conhecido  para  negar  provimento  ao  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  PÔR  DO  SOL  URBANIZAÇÕES  LTDA.  contra  a  decisão  que  negou  seguimento  ao  recurso  especial.
+O  apelo  extremo,  fundamentado  no  art.  105,  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  impugna  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Mato  Grosso  assim  ementado:
+"APELAÇÃO  CÍVEL.  AÇÃO  DE  RESCISÃO  CONTRATUAL  C/C  RESTITUIÇÃO  DE  VALORES  PAGOS.  COMPRA  E  VENDA  DE  IMÓVEL.  RESCISÃO  DE  CONTRATO  POR  CULPA  DO  COMPRADOR.  POSSIBILIDADE.  RETENÇÃO  10%.  POSSIBILIDADE.  PAGAMENTO  DO  IPTU.  RESPONSABILIDADE  DA  CONSTRUTORA  ATÉ  A  ENTREGA  DO  IMÓVEL.  RECURSO  DESPROVIDO.
+É  possível  a  rescisão  do  contrato  por  vontade  da  parte  contratante,  com  a  restituição  de  valores  pagos,  abatidas  as  deduções  contratuais.  Não  se  aplica  a  Lei  n.  13.786/2018  aos  contratos  firmados  antes  de  sua  vigência.  "Segundo  o  entendimento  do  STJ,  "as  despesas  de  condomínio  e  IPTU  são  de  responsabilidade  da  construtora  até  a  entrega  do  imóvel  ao  adquirente",  tendo  em  vista  que,  "apesar  do  IPTU  ter  como  fato  gerador  a  propriedade,  o  domínio  útil  ou  a  posse  do  imóvel  (  CTN,  art.  32),  se  os  recorridos  não  deram  causa  para  o  não  recebimento  do  imóvel,  não  podem  ser  obrigados  a  pagar  as  despesas  condominiais  nem  o  citado  imposto  referente  ao  período  em  que  não  haviam  sido  imitidos  na  posse"  (  AgInt  no  REsp  1.697.414/SP,  Rel.
+Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  05/12/2017,  DJe  de  15/12/2017)""  (e-STJ  fls.  220/230  )
+A  recorrente  aponta,  além  de  dissídio  jurisprudencial,  violação  dos  arts.  182  e  884  do  Código  Civil.
+Afirma  que,  na  rescisão  da  promessa  de  compra  e  venda  por  iniciativa  do  adquirente  do  imóvel,  o  promitente-vendedor  fica  autorizado  a  reter  25%  (vinte  e  cinco  por  cento)  dos  valores  pagos  na  vigência  do  contrato,  a  título  de  cláusula  penal  compensatória,  percentual  que  melhor  reflete  os  prejuízos  suportados  pela  frustração  do  negócio  jurídico.
+No  capítulo  relativo  ao  dissídio  jurisprudencial,  destaca  acórdão  paradigma  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  Goiás,  que,  diante  da  desistência  da  promessa  de  compra  e  venda,  imputa  ao  adquirente  o  dever  de  pagar  o  Imposto  sobre  Propriedade  Territorial  Urbana  -  IPTU,  e  não  ao  vendedor,  como  foi  decidido  pelo  Tribunal  de  origem  neste  caso.
+Sem  contrarrazões  (e-STJ  fl.  269).
+O  recurso  especial  foi  obstado  na  origem,  o  que  deu  ensejo  à  interposição  deste  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  DIREITO  CIVIL.  PROMESSA  DE  COMPRA  E  VENDA  DE  IMÓVEL.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  CLÁUSULA  PENAL.  VARIAÇÃO  ENTRE  10%  (DEZ POR CENTO) E  20% (VINTE POR CENTO).  TRIBUTOS  INCIDENTES  SOBRE  A  PROPRIEDADE  DO  IMÓVEL.  AUSÊNCIA  DE  IMISSÃO  NA  POSSE.  RESPONSABILIDADE  DO  PROMITENTE-VENDEDOR.
+1.  É  admitida  a  flutuação  do  percentual  da  retenção  pelo  vendedor  entre  10%  (dez  por  cento)  a  25%  (vinte  e  cinco  por  cento)  do  total  da  quantia  paga  nas  hipóteses  de  rescisão  de  contrato  de  promessa  de  compra  e  venda  de  imóvel  por  iniciativa  do  comprador.  Precedentes.
+2.  Somente  a  partir  da  efetiva  posse  do  imóvel,  com  a  entrega  das  chaves,  passa  o  adquirente  a  ter  a  obrigação  de  pagar  as  despesas  condominiais  e  IPTU,  sendo  responsabilidade  da  vendedora  até  a  imissão  na  posse.
+3.  Agravo  conhecido  para  negar  provimento  ao  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial
+O  recurso  não  merece  prosperar.
+O  Tribunal  de  origem  manteve  a  sentença  de  procedência  dos  pedidos,  anotando  que,  neste  caso,  é  razoável  autorizar  a  construtora  a  reter  apenas  10%  (dez  por  cento)  dos  valores  pagos  pelo  adquirente,  com  base  na  seguinte  justificativa:
+"(..)
+Dessa  forma,  a  retenção  em  questão  pode  ser  estabelecida  até  o  teto  de  25%  da  quantia  paga,  e  não  necessariamente  25%,  devendo  prevalecer  o  fixado  pelo  magistrado,  portanto,  em  10%:
+"Não  prospera  a  pretensão  da  requerida  em  recusar  a  rescisão  do  contrato  e  a  devolução  dos  valores  pagos,  porquanto  houve  pagamento  de  parcelas  pelo  autor.
+Na  hipótese  de  rescisão  do  contrato  de  promessa  de  compra  e  venda,  fundamentada  na  inadimplência  pela  impossibilidade  financeira  do  promissário-comprador,  reserva-se  a  este  o  direito  à  restituição  do  que  efetivamente  pagou  à  promitente-vendedora,  com  dedução  da  multa  compensatória.
+Desse  modo,  reputo  como  lícita  a  dedução  no  valor  das  parcelas  da  quantia  correspondente  a  10%  (dez  por  cento)  a  título  de  despesas  com  a  realização  do  empreendimento.
+Como  dito  acima,  houve  o  pagamento  de  51  parcelas,  que  totalizam  o  montante  de  R$  35.391,82  (trinta  e  cinco  mil,  trezentos  e  noventa  e  um  reais  e  oitenta  e  dois  centavos),  na  forma  descrita  nas  declarações  de  quitação  do  Num.  94645187  -  Pág.  1/2,  sendo  justo  e  adequado  que  o  percentual  de  10%  tenha  incidência  sobre  o  valor  das  prestações  pagas."
+
+(..)"(e-STJ  fl.  226)
+O  acórdão  deve  ser  mantido.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  é  firme  no  sentido  de  que  o  valor  da  cláusula  penal,  na  hipótese  de  distrato  da  promessa  de  compra  e  venda,  pode  variar  entre  10%  (dez  por  cento)  e  25%  (vinte  e  cinco  por  cento)  dos  valores  pagos  pelo  adquirente  -  entendimento,  inclusive,  que  foi  positivado  no  art.  67-A,  II,  da  Lei  nº  4.591/1964.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  CONTRATUAL.  COMPROMISSO  DE  COMPRA  E  VENDA.  DISTRATO  POR  INICIATIVA  DO  COMPRADOR.  PERCENTUAL  DE  RETENÇÃO.  POSSIBILIDADE  DE  ADEQUAÇÃO.  MESMO  APÓS  A  VIGÊNCIA  DA  LEI  N.  13.786/2018.  PRECEDENTES.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Com  efeito,  a  Terceira  Turma  desta  Corte  Superior  firmou  entendimento  no  sentido  de  ser  possível  a  redução  da  cláusula  penal  ajustada  nos  limites  autorizados  pela  lei  quando,  à  luz  das  peculiaridades  do  caso  concreto,  sua  aplicação  se  mostrar  manifestamente  excessiva  tendo  em  vista  a  natureza  e  a  finalidade  do  contrato  em  que  disposta.  Esse  entendimento  é  aplicável  inclusive  a  negócios  entabulados  após  a  aprovação  da  Lei  n.  13.786/2018.
+2.  Ademais,  o  percentual  de  25%  da  quantia  paga  como  limite  para  a  pena  convencional  em  caso  de  distrato  foi  mantido  mesmo  após  a  vigência  da  Lei  n.  13.786/2018.
+3.  Agravo  interno  improvido"  (AgInt  no  AREsp  2.596.111/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  2/9/2024,  DJe  de  4/9/2024  -  grifou-se).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FUNDAMENTAÇÃO.  DEFICIENTE.  SÚMULA  284/STF.  FUNDAMENTO  DO  ACÓRDÃO  NÃO  IMPUGNADO.  SÚMULA  283/STF.  REEXAME  DE  FATOS  E  INTERPRETAÇÃO  DE  CLÁUSULAS  CONTRATUAIS.  INADMISSIBILIDADE.  DISSÍDIO  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.  SÚMULA  7/STJ.  HARMONIA  ENTRE  O  ACÓRDÃO  RECORRIDO  E  A  JURISPRUDÊNCIA  DO  STJ.  SÚMULA  568/STJ.
+(..)
+7.  Nas  hipóteses  de  rescisão  de  contrato  de  promessa  de  compra  e  venda  por  iniciativa  do  comprador,  deve  ser  observada  a  flutuação  do  percentual  de  retenção  pelo  vendedor  entre  10%  e  25%  do  total  da  quantia  paga,  conforme  as  particularidades  do  caso  concreto.  Precedentes.
+8  Não  é  possível  a  retenção  das  arras  confirmatórias.  Precedentes.
+9.  Ante  o  entendimento  dominante  do  tema  nesta  Corte  Superior,  aplica-se,  no  particular,  a  Súmula  568/STJ.
+10.  Agravo  interno  no  agravo  em  recurso  especial  não  provido"  (AgInt  no  AREsp  2.669.570/CE,  Rel.  Ministra  NANCY  ANDRIGHI,  Terceira  Turma,  julgado  em  16/12/2024,  DJEN  de  19/12/2024  -  grifou-se).
+Ademais,  não  compete  a  esta  Corte  analisar  as  circunstâncias  de  fato  da  causa  para  investigar  se  a  retenção  de  10%  (dez  por  cento)  é  adequada  para  indenizar  a  construtora  pela  rescisão  imotivada  do  contrato,  sob  pena  de  violação  da  Súmula  nº  7/STJ.
+A  respeito  da  responsabilidade  pelo  pagamento  do  IPTU,  a  conclusão  do  Tribunal  de  origem  também  está  em  conformidade  com  o  entendimento  do  Superior  Tribunal  de  Justiça.
+Na  hipótese  em  que  o  imóvel  objeto  da  promessa  de  compra  e  venda  ainda  não  foi  entregue  aos  adquirentes  -  isto  é,  ainda  não  houve  a  imissão  na  posse  -,  a  responsabilidade  pelo  pagamento  dos  tributos  incidentes  sobre  a  propriedade  do  bem  recai  sobre  o  promitente-comprador.
+A  propósito:
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CIVIL.  IMÓVEL.  AÇÃO  INDENIZATÓRIA.  PROMESSA  DE  COMPRA  E  VENDA.  ATRASO  NA  ENTREGA  DO  IMÓVEL.  DANOS  MORAIS.  PROCEDÊNCIA  DO  PLEITO.  REVISÃO  DAS  CONCLUSÕES  ESTADUAIS.  IMPOSSIBILIDADE.  SÚMULA  N.  7  DO  STJ.  RESPONSABILIDADE  DO  PROMITENTE  COMPRADOR  PELO  PAGAMENTO  DO  IPTU.  AUSÊNCIA.  ILEGITIMIDADE  PASSIVA  E  PORCENTAGEM  DE  RETENÇÃO  SOBRE  OS  VALORES  PAGOS.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  MULTA  DO  ART.  1.026,  §  2º,  DO  CPC.  AUSÊNCIA  DE  INTUITO  PROTELATÓRIO.  AGRAVO  INTERNO  PARCIALMENTE  PROVIDO  PARA  CONHECER  PARCIALMENTE  DO  RECURSO  ESPECIAL  APENAS  PARA  AFASTAR  A  MULTA  APLICADA.
+1.  Modificar  o  entendimento  do  Tribunal  local  acerca  da  obrigação  de  indenizar  pela  demora  na  entrega  do  imóvel  demanda  reexame  de  matéria  fático-probatória,  o  que  é  inviável  devido  ao  óbice  da  Súmula  n.  7  do  STJ.
+2.  A  responsabilidade  do  promitente  comprador  pelas  despesas  do  imóvel,  como  condomínio  e  IPTU,  somente  se  dá  a  partir  da  imissão  na  posse,  a  qual  ocorre  com  o  recebimento  das  chaves.
+(..)
+5.  Agravo  interno  parcialmente  provido  para  conhecer  em  parte  do  recurso  especial  e,  nessa  extensão,  dar-lhe  provimento  apenas  para  afastar  a  multa  aplicada  pelo  Tribunal  de  origem  no  julgamento  dos  embargos  de  declaração"  (AgInt  no  REsp  2.085.055/SE,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Quarta  Turma,  julgado  em  4/11/2024,  DJe  de  6/11/2024  -  grifou-se).
+A  análise  da  divergência  jurisprudencial  fica  prejudicada,  tendo  em  vista  que  o  acórdão  recorrido  está  em  conformidade  com  o  enten  dimento  do  Superior  Tribunal  de  Justiça.
+Ante  o  exposto,  conheço  do  agravo  para  negar  provimento  ao  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  20%  (vinte  por  cento)  sobre  o  valor  da  condenação,  não  cabendo  a  majoração  prevista  no  art.  85,  §  11,  do  Código  de  Processo  Civil  por  já  estar  no  limite  máximo  estabelecido  no  §  2º  do  mesmo  dispositivo  legal.
+É  o  voto.
