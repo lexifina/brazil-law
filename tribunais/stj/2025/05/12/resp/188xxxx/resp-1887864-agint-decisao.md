@@ -1,0 +1,10 @@
+DECISÃO
+Estando conclusos os autos para apreciação do agravo interno interposto contra a decisão de fls. 303-311 (e-STJ), o Ministério Público do Estado de São Paulo, responsável pela interposição do recurso especial, instado por esta relatoria a se manifestar sobre os fatos supervenientes noticiados por Estúdios Paulínia Construção e Administração de Estúdios SPE Ltda., protocolizou a Petição n. 394.065/2025 (e- STJ, fls. 391-393), tendo se pronunciado nos seguintes termos (e-STJ, fls. 392-393):
+Afirma agora os Estúdios Paulínia em sua petição de fls. 357/363 que celebrou acordo na origem (ação de instauração de arbitragem - processo n. 1002472-07.2018.8.26.0428) com o Município de Paulínia, visando a extinção do contrato de concessão celebrado entre as partes. Sustenta que no referido acordo consta expressamente que quaisquer conflitos decorrentes da sua interpretação ou execução serão submetidos ao foro judicial da Comarca de Paulínia (cláusula 7.1), tendo sido homologado judicialmente em junho de 2024, com sentença transitada em julgado.
+Diante desse contexto, não havendo mais discussão acerca da validade da cláusula arbitral, questão encerrada por acordo entre as partes, objeto de sentença homologatória, e, com o normal prosseguimento da ação de improbidade administrativa em juízo, entende o Ministério Público que o recurso especial perdeu o objeto, sendo, cabível, portanto, a aplicação do art. 932, III, do CPC.
+Brevemente relatado, decido.
+Em decorrência da perda do objeto do recurso, expressamente reconhecida pelo recorrente, Ministério Público do Estado de São Paulo, torno sem efeito a decisão de fls. 303-311 (e-STJ) a fim de julgar prejudicado o recurso especial de fls. 110-129 (e-STJ).
+Em consequência disso, fica igualmente prejudicado, pela perda de seu objeto, o agravo interno de fls. 318-333 (e-STJ).
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
+EMENTA
