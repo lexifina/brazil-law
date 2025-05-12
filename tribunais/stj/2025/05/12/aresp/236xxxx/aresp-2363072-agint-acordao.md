@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+Ementa: DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL CONTRA EMPRESA EM RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL. APLICAÇÃO DO ART. 62 DA LEI DE FALÊNCIAS. JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da relatoria do Ministro Marco Aurélio Bellizze, que negou seguimento ao recurso anteriormente interposto nos autos, por considerar que o acórdão recorrido está em conformidade com a jurisprudência consolidada do STJ quanto ao prosseguimento da execução individual em razão do descumprimento do plano de recuperação judicial. A parte agravante sustenta o preenchimento dos requisitos para o conhecimento e provimento do recurso, enquanto a parte agravada, devidamente intimada, manifestou-se pela manutenção da decisão agravada.
+II. QUESTÃO EM DISCUSSÃO
+2. Estabelecer se a decisão agravada, que aplicou a Súmula 83/STJ, merece manutenção diante da consonância do acórdão recorrido com a jurisprudência consolidada do STJ.
+III. RAZÕES DE DECIDIR
+3. O Tribunal de origem reconhece que, ante o inadimplemento, é legítimo o prosseguimento da execução individual, em observância ao art. 62 da Lei n. 11.101/2005, não havendo necessidade de autorização específica do juízo da recuperação.
+4. O acórdão recorrido, ao permitir a continuidade da execução individual e dos atos de constrição patrimonial da recuperanda, alinha-se à jurisprudência consolidada do STJ, que admite essa medida após o término do prazo de fiscalização judicial, situação que torna definitiva a novação do crédito.
+5. A aplicação da Súmula 83/STJ revela-se correta, pois o entendimento consolidado na Corte é no sentido da admissibilidade da execução individual em hipóteses de descumprimento do plano, como evidenciado no REsp 1.899.107/PR.
+IV. RECURSO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da relatoria do Ministro Marco Aurélio Bellizze, que negou seguimento ao recurso anteriormente interposto nestes autos.
+Segundo a parte agravante, o recurso preenche os requisitos necessários ao seu conhecimento e provimento.
+Intimada nos termos do art. 1.021, § 2º, do Código de Processo Civil, a parte agravada afirmou a inexistência de requisitos ou elementos aptos a promover a alteração do julgado impugnado.
+É o relatório.
+EMENTA
+Ementa: DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL CONTRA EMPRESA EM RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL. APLICAÇÃO DO ART. 62 DA LEI DE FALÊNCIAS. JURISPRUDÊNCIA CONSOLIDADA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. RECURSO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo interno interposto contra decisão monocrática da relatoria do Ministro Marco Aurélio Bellizze, que negou seguimento ao recurso anteriormente interposto nos autos, por considerar que o acórdão recorrido está em conformidade com a jurisprudência consolidada do STJ quanto ao prosseguimento da execução individual em razão do descumprimento do plano de recuperação judicial. A parte agravante sustenta o preenchimento dos requisitos para o conhecimento e provimento do recurso, enquanto a parte agravada, devidamente intimada, manifestou-se pela manutenção da decisão agravada.
+II. QUESTÃO EM DISCUSSÃO
+2. Estabelecer se a decisão agravada, que aplicou a Súmula 83/STJ, merece manutenção diante da consonância do acórdão recorrido com a jurisprudência consolidada do STJ.
+III. RAZÕES DE DECIDIR
+3. O Tribunal de origem reconhece que, ante o inadimplemento, é legítimo o prosseguimento da execução individual, em observância ao art. 62 da Lei n. 11.101/2005, não havendo necessidade de autorização específica do juízo da recuperação.
+4. O acórdão recorrido, ao permitir a continuidade da execução individual e dos atos de constrição patrimonial da recuperanda, alinha-se à jurisprudência consolidada do STJ, que admite essa medida após o término do prazo de fiscalização judicial, situação que torna definitiva a novação do crédito.
+5. A aplicação da Súmula 83/STJ revela-se correta, pois o entendimento consolidado na Corte é no sentido da admissibilidade da execução individual em hipóteses de descumprimento do plano, como evidenciado no REsp 1.899.107/PR.
+IV. RECURSO DESPROVIDO.
+VOTO
+O agravo interno é tempestivo, nos termos do art. 1.003, § 5º, do Código de Processo Civil.
+A análise dos argumentos recursais não indica, contudo, hipótese que resulte na reconsideração dos argumentos fáticos e jurídicos anteriormente lançados, motivo pelo qual mantenho a decisão recorrida pelos fundamentos anteriormente expostos, os quais transcrevo para que passem a integrar a presente decisão colegiada:
+Trata-se, na origem, de agravo de instrumento manejado contra a decisão que, proferida nos autos de origem, deferiu alienação da participação societária da recorrente e rejeitou o pedido de suspensão da execução.
+Em contrariedade ao acórdão que negou provimento ao agravo de instrumento outrora interposto, a recorrente, na esfera especial, argumenta a o caráter concursal do crédito perseguido pela parte recorrida.
+Ocorre que, ao apreciar a questão, o Tribunal a quo, de acordo com o voto vencedor, desproveu o agravo interposto ante a constatação do descumprimento do plano de recuperação deferido.
+Veja-se (e-STJ, fls. 1.007-1.009):
+Respeitado o entendimento do Relator sorteado, pelo meu voto, nega-se provimento ao recurso.
+Anote-se, inicialmente, que, no caso concreto, os pedidos do presente recurso já foram rejeitados no agravo de instrumento2262716-50.2020.8.26.0000.
+No mais, ambas as teses da executada-agravante foram rejeitadas em referido recurso: o voto condutor (fls. 359/363 dos autos agravo de instrumento nº 2262716-50.2020) reconheceu que o prosseguimento da ação individual está autorizado pelo art. 62 da Lei de Falências; já o voto do Desembargado Ademir Benedito (fls.370/371) declarou a natureza concursal do crédito, porque foi constituído após o ajuizamento da recuperação judicial.
+A executada é empresa em recuperação judicial. O plano de recuperação, deferido em 2014, não foi cumprido integralmente pela devedora. Por esse motivo, o Juízo da recuperação judicial deferiu o prosseguimento da execução individual proposta pela parte agravada. Além disso, o Juízo da recuperação declarou expressamente que caberia ao Juízo da execução individual a competência para deliberar sobre constrições ao patrimônio das recuperandas.
+Note-se que a autorização para o prosseguimento da execução individual atende o disposto no artigo 62 da Lei de Falências. Confira-se.
+ ..
+Diante desse quadro, a execução individual prosseguiu seu curso normal na 43ª Vara do Foro Central. O Juízo a quo deferiu pesquisa e penhora via SISBAJUD dos ativos financeiros da executada. Foram constritos R$ 16.833.777 em ativos financeiros. Em seguida, apurou-se que referidos ativos dizem respeito a 5.039 ações de emissão da ELETROBRAS de titularidade da executada. O Juízo então prosseguiu com os atos de constrição, determinando a venda de referidos ativos financeiros.
+Nesse sentido, não há reparo a ser realizado na decisão agravada, pois o prosseguimento da penhora e a venda dos ativos está autorizada pelo artigo 62 da Lei de Falências. O dispositivo é claro ao determinar o prosseguimento da execução individual, uma vez constatado o inadimplemento do plano de recuperação. Sobre o tema, confira-se a jurisprudência.
+ ..
+Nesse viés, é de se anotar que a sequência da execução decorre da lei e não da autorização do Juízo da Recuperação. Os mencionados despachos proferidos na recuperação judicial, apenas declararam o que está disposto no art. 62 da Lei de Falências. Por isso, não se tratou de delegação de competência ou autorização para o prosseguimento da execução individual.
+A própria lei define que o Juízo da execução individual é competente para prosseguir com os atos de constrição de patrimônio, uma vez que houve frustração do plano de recuperação. Portanto, não se pode acolher a tese do recorrente de que o Juízo a quo deve colher autorização do Juízo da recuperação a cada ato de constrição patrimonial.
+Em suma, é de rigor a manutenção da decisão agravada, autorizando-se o prosseguimento dos atos de constrição patrimonial do devedor.
+A esse respeito, esta Corte Superior pacificou sua jurisprudência no sentido de que o descumprimento do plano dentro do prazo de fiscalização judicial, o credor poderá requerer a convolação da recuperação judicial em falência. Outrossim, se o descumprimento do plano se dar após o prazo de fiscalização judicial, a novação torna-se definitiva, nos termos do artigo 62 da Lei nº 11.101/2005, cabendo ao credor requerer a execução específica.
+Confira-se:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO. SUPRESSÃO DAS GARANTIAS. CONCORDÂNCIA DO CREDOR. EXECUÇÃO INDIVIDUAL. EXTINÇÃO. RECUPERANDA. COOBRIGADOS. FASE DE FISCALIZAÇÃO JUDICIAL. TÉRMINO. SUSPENSÃO.
+1. A questão controvertida resume-se a definir se é caso de extinção da execução de título executivo extrajudicial ajuizada contra a empresa em recuperação judicial e os coobrigados do título na hipótese em que o titular do crédito concorda com a cláusula de supressão das garantias inserta no plano de recuperação judicial.
+2. Nos termos da consolidada jurisprudência desta Corte, a cláusula que prevê a supressão das garantias somente é eficaz em relação ao credor titular da garantia que com ela concordar expressamente, o que ocorreu no caso em análise.
+3. No que respeita à sociedade em recuperação judicial, com a aprovação do plano e a consequente novação dos créditos, a execução contra ela ajuizada deve ser extinta, pois não terá como prosseguir, já que o descumprimento do plano acarretará a convolação da recuperação em falência (no prazo de fiscalização judicial), a execução específica do plano ou a decretação da quebra com fundamento no artigo 94 da LREF (decorrido o prazo de fiscalização judicial). Precedentes.
+4. No caso de descumprimento do plano dentro do prazo de fiscalização judicial, o credor poderá requerer a convolação da recuperação judicial em falência, nos termos dos arts. 61, § 1º, e 73, IV, da LREF. Os credores terão seus direitos e garantias reconstituídos nas condições originalmente contratadas (artigo 61, § 2º, da LREF), de modo que a execução contra os coobrigados, antes suspensa, poderá prosseguir.
+5. No caso de o descumprimento do plano se dar após o prazo de fiscalização judicial, a novação torna-se definitiva, nos termos do artigo 62 da Lei nº 11.101/2005, cabendo ao credor requerer a execução específica do plano (título executivo judicial) ou a falência com base no artigo 94, III, "g", da Lei nº 11.101/2005, situação em que a execução contra o coobrigado deve ser extinta.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.899.107/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2023, DJe de 28/4/2023.)
+Nota-se, nesse contexto, que o fundamento da decisão recorrida encontra-se em sintonia com o entendimento jurisprudencial firmado nesta Corte Superior. Incide, portanto, o enunciado da Súmula n. 83/STJ.
+A Súmula 83 desta Corte estabelece que " n ão se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Na hipótese dos autos, a postura do Tribunal de origem amolda-se às orientações jurisprudenciais desta Corte sobre o tema de fundo ora discutido. É o que se extrai, por exemplo, dos seguintes precedentes:
+RECURSO ESPECIAL. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. PLANO. SUPRESSÃO DAS GARANTIAS. CONCORDÂNCIA DO CREDOR. EXECUÇÃO INDIVIDUAL. EXTINÇÃO. RECUPERANDA. COOBRIGADOS. FASE DE FISCALIZAÇÃO JUDICIAL. TÉRMINO. SUSPENSÃO.
+1. A questão controvertida resume-se a definir se é caso de extinção da execução de título executivo extrajudicial ajuizada contra a empresa em recuperação judicial e os coobrigados do título na hipótese em que o titular do crédito concorda com a cláusula de supressão das garantias inserta no plano de recuperação judicial.
+2. Nos termos da consolidada jurisprudência desta Corte, a cláusula que prevê a supressão das garantias somente é eficaz em relação ao credor titular da garantia que com ela concordar expressamente, o que ocorreu no caso em análise.
+3. No que respeita à sociedade em recuperação judicial, com a aprovação do plano e a consequente novação dos créditos, a execução contra ela ajuizada deve ser extinta, pois não terá como prosseguir, já que o descumprimento do plano acarretará a convolação da recuperação em falência (no prazo de fiscalização judicial), a execução específica do plano ou a decretação da quebra com fundamento no artigo 94 da LREF (decorrido o prazo de fiscalização judicial). Precedentes.
+4. No caso de descumprimento do plano dentro do prazo de fiscalização judicial, o credor poderá requerer a convolação da recuperação judicial em falência, nos termos dos arts. 61, § 1º, e 73, IV, da LREF. Os credores terão seus direitos e garantias reconstituídos nas condições originalmente contratadas (artigo 61, § 2º, da LREF), de modo que a execução contra os coobrigados, antes suspensa, poderá prosseguir.
+5. No caso de o descumprimento do plano se dar após o prazo de fiscalização judicial, a novação torna-se definitiva, nos termos do artigo 62 da Lei nº 11.101/2005, cabendo ao credor requerer a execução específica do plano (título executivo judicial) ou a falência com base no artigo 94, III, "g", da Lei nº 11.101/2005, situação em que a execução contra o coobrigado deve ser extinta.
+6. Recurso especial parcialmente provido.
+(REsp n. 1.899.107/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/4/2023, DJe de 28/4/2023. Grifo Acrescido)
+Dessa forma, torna-se irrepreensível a decisão agravada que fez incidir na espécie a Súmula 83 do Superior Tribunal de Justiça em razão da compatibilidade e da sintonia do acórdão recorrido com a jurisprudência desta Corte. Nesse sentido: " o  recurso especial interposto contra acórdão que decidiu em consonância com a jurisprudência deste Superior Tribunal de Justiça esbarra no óbice da Súmula n. 83 do STJ" (AgInt no AREsp n. 2.020.707/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 17/2/2025, DJEN de 20/2/2025).
+Manifesto meu voto, portanto, pelo não provimento do presente agravo interno.
+É como voto.
