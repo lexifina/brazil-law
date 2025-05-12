@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO AUTORAL. ECAD. EVENTO PÚBLICO. BASE DE CÁLCULO. RECEITA BRUTA. ABUSIVIDADE NO CASO CONCRETO. ANÁLISE DE FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIREITO DE ACESSO À CULTURA E AO LAZER. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 126/STJ.
+1. Acerca da base de cálculo da cobrança de valores devidos a título de direitos autorais, não se nega que o Superior Tribunal de Justiça tem jurisprudência pacífica de que compete ao ECAD a fixação dos valores a título de direitos autorais.
+2. No caso concreto, o tribunal de origem reconheceu que o percentual aplicado pelo ECAD seria abusivo e irrazoável, bem como violaria a boa-fé e os usos locais. Alterar essas conclusões demandaria reexame do acervo fático e probatório dos autos, providência vedada em recurso especial pela Súmula 7/STJ.
+3. Ao tratar do direito constitucional do cidadão de acesso à cultura e ao lazer, o tribunal de origem invoca o art. 6º da Constituição Federal, e este argumento não foi objeto de contestação via recurso extraordinário .
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD contra a decisão desta relatoria que conheceu em parte do recurso especial e lhe negou provimento.
+Em suas razões (e-STJ fls. 696/702), a agravante reitera as alegações do recurso especial.
+Sustenta a violação dos arts. 28, 29, 68, 98 e parágrafos e 99 e parágrafos da Lei 9.610/98. Sustenta, em síntese, a "necessidade de adequação do v. acórdão guerreado para, declarando a validade e eficácia da Tabela de Preços e do Regulamento de Arrecadação, determinar que o valor devido a título de direitos autorais seja calculado no importe de 10% sobre a receita bruta do evento" (fl. 488 e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO AUTORAL. ECAD. EVENTO PÚBLICO. BASE DE CÁLCULO. RECEITA BRUTA. ABUSIVIDADE NO CASO CONCRETO. ANÁLISE DE FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIREITO DE ACESSO À CULTURA E AO LAZER. FUNDAMENTO CONSTITUCIONAL. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 126/STJ.
+1. Acerca da base de cálculo da cobrança de valores devidos a título de direitos autorais, não se nega que o Superior Tribunal de Justiça tem jurisprudência pacífica de que compete ao ECAD a fixação dos valores a título de direitos autorais.
+2. No caso concreto, o tribunal de origem reconheceu que o percentual aplicado pelo ECAD seria abusivo e irrazoável, bem como violaria a boa-fé e os usos locais. Alterar essas conclusões demandaria reexame do acervo fático e probatório dos autos, providência vedada em recurso especial pela Súmula 7/STJ.
+3. Ao tratar do direito constitucional do cidadão de acesso à cultura e ao lazer, o tribunal de origem invoca o art. 6º da Constituição Federal, e este argumento não foi objeto de contestação via recurso extraordinário .
+4. Agravo interno não provido.
+VOTO
+Não procede a irresignação.
+Conforme assentado na decisão monocrática ora combatida, no que se refere à alegada ofensa aos arts. 28, 29 e 68 da Lei nº 9.610/98, verifica-se que as matérias versadas nos dispositivos apontados como violados não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e os embargos declaratórios opostos não veicularam referida omissão. Por esse motivo, ausente o requisito do prequestionamento, incide, por analogia, o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+No mérito recursal, acerca da base de cálculo da cobrança de valores devidos a título de direitos autorais, não se nega que o Superior Tribunal de Justiça tem jurisprudência pacífica de que compete ao ECAD a fixação dos valores a título de direitos autorais.
+Confira-se:
+RECURSO ESPECIAL. DIREITO AUTORAL. INTERNET. DISPONIBILIZAÇÃO DE OBRAS MUSICAIS. TECNOLOGIA STREAMING. SIMULCASTING E WEBCASTING. EXECUÇÃO PÚBLICA. CONFIGURAÇÃO. COBRANÇA DE DIREITOS AUTORAIS. ECAD. POSSIBILIDADE. SIMULCASTING. MEIO AUTÔNOMO DE UTILIZAÇÃO DE OBRAS INTELECTUAIS. COBRANÇA DE DIREITOS AUTORAIS. NOVO FATO GERADOR. TABELA DE PREÇOS. FIXAÇÃO PELO ECAD. VALIDADE.
+(..)
+9. Está no âmbito de atuação do ECAD a fixação de critérios para a cobrança dos direitos autorais, que serão definidos no regulamento de arrecadação elaborado e aprovado em Assembleia Geral, composta pelos representantes das associações que o integram, e que contém uma tabela especificada de preços. Inteligência do art. 98 da Lei nº 9.610/1998.
+10. Recurso especial provido.
+(REsp 1.559.264/RJ, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 8/2/2017, DJe de 15/2/2017)
+Todavia, tais valores devem ser estabelecidos de acordo com aos postulados da razoabilidade, boa-fé e usos do local de utilização das obras, conforme o artigo 98, § 3º, da Lei Federal nº 9.610/98. Isso porque a condição de legitimado para cobrar os direitos autorais não impede a análise dos valores estipulados unilateralmente pelo ECAD, pelo Poder Judiciário, a fim de verificar eventual abusividade na cobrança.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO AUTORAL. AÇÃO CAUTELAR. ARTS. 806 E 808, I, CPC. PRINCIPIO DA CAUSALIDADE. AÇÃO DE PRESTAÇÃO DE CONTAS. ECAD. TABELA. RESSALVA. VALIDADE.
+(..)
+5. É mister realçar que mantenho entendimento firme no sentido de, superada a visão unicamente privatística do direito autoral, a fim de torná-lo vinculado necessariamente a seu fim social e aos princípios constitucionais que lhe são inerentes - mormente o da dignidade da pessoa humana -, muitas vezes impõe-se o abrandamento daquele para a concretização desta. Portanto, parece necessário que os princípios regentes dos direitos autorais sejam compatibilizados com valores e outros institutos consagrados na estrutura constitucional, por isso que penso competir ao Poder Judiciário intervir no negócio jurídico privado - notadamente a cobrança dos direitos autorais -, quando acionado, a fim de corrigir as distorções. É amparado nesse entendimento que tenho sérias restrições quanto a poder aquele Escritório Central cobrar os direitos autorais devidos em virtude de execução pública de obra musical, calculados sobre o percentual da riqueza produzida pelo responsável pela realização do evento.
+6. Nessa ordem de idéias, a ressalva é para deixar claro que devem ser levadas em conta as particularidades do caso concreto para saber se, na situação em julgamento, há razoabilidade da cobrança e se os valores pretendidos impedem ou inviabilizam a difusão cultural, patrimônio de toda a nação brasileira. No entanto, não é o que se verifica nos autos.
+7. Esta Corte possui entendimento de que, em se tratando de direito de autor, compete a este a sua fixação, seja diretamente, seja por intermédio das associações ou, na hipótese, do próprio Ecad, que possui métodos próprios para elaboração dos cálculos diante da diversidade das obras reproduzidas, segundo critérios eleitos internamente. Dessa forma, em regra, está no âmbito de atuação do Ecad a fixação de critérios para a cobrança dos direitos autorais, que serão definidos no regulamento de arrecadação elaborado e aprovado em assembléia geral composta pelos representantes das associações que o integram, e que contém uma tabela especificada de preços (valores esses que deverão considerar "a razoabilidade, a boa-fé e os usos do local de utilização das obras", conforme a nova redação expressa no § 3º do art. 98 da Lei n. 9.610/1998). É firme a jurisprudência desta Corte Superior no sentido de ser válida a tabela de preços instituída pelo Ecad e seu critério de arrecadação.
+8. Recurso especial provido.
+(REsp 1.160.483/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/6/2014, DJe de 1/8/2014)
+Inclusive, a incidência de percentual sobre o orçamento total do evento, como deseja o recorrente, é abusiva, pois abrange valores distintos do objeto a que se visa proteger - os direitos autorais (art. 5º, incisos XXVII e XXVIII, da CF).
+Consequentemente, considerar valores de serviços não compreendidos na execução das obras musicais poderia tornar o recorrente verdadeiro sócio dos lucros do evento, o que não soaria razoável.
+Em linha com este entendimento, é o seguinte acórdão:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITOS AUTORAIS. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A simples indicação de afronta ao dispositivo legal, sem debate - sequer implícito - da matéria pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282 do STF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem reconheceu que o percentual aplicado seria abusivo e irrazoável, bem como violaria a boa-fé e os usos locais. Alterar essas conclusões demandaria reexame do acervo probatório dos autos, providência vedada em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.780.792/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 28/04/2022)
+O tribunal de origem decidiu no seguinte sentido:
+"Igualmente não assiste razão ao réu quanto ao fato de ser descabida a cobrança de direitos autorais quando a execução musical foi feita pelos próprios autores das obras.
+Com efeito, o cachê pago ao intérprete constitui remuneração específica de seu trabalho, sendo independente da retribuição autoral a que os autores das obras musicais fazem jus, de forma que o pagamento realizado em favor do próprio artista não implica na remuneração do direito autoral.
+(..)
+Entretanto, quanto ao valor devido pelos direitos autorais, não é razoável que a base de cálculo da remuneração inclua serviços que não guardam qualquer relação com a atividade de execução pública de obras musicais, tendo em vista os requisitos de boa-fé e razoabilidade exigidos pela legislação, conforme disposto no art. 98, § 3º da Lei 9.610/98, verbis:
+"Caberá às associações, no interesse dos seus associados, estabelecer os preços pela utilização de seus repertórios, considerando a razoabilidade, a boa-fé e os usos do local de utilização das obras."
+Ressalte-se que, no caso concreto, trata-se de eventos públicos, sem cobrança de ingressos, realizado por ente público municipal, de forma que a cobrança excessiva poderia dificultar a realização de tais espetáculos, implicando em obstáculo à concretização do direito constitucional do cidadão de acesso à cultura e ao lazer, na forma do art. 6º CF/88, verbis:
+"São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição."
+Desta forma, afigura-se mais adequado que o valor devido pelos direitos autorais seja fixado em 10% sobre o valor pago aos artistas a título de cachê, sendo tal forma de cobrança respaldada na jurisprudência desta Corte." (e-STJ fls. 438/439)
+Vê-se que, ao contrário do que sustentado no recurso, a motivação do TJRJ foi justamente no sentido de dar a interpretação mais adequada ao caso concreto, definindo que a cobrança dos direitos autorais teria como base de cálculo o valor pago aos artistas a título de cachê. Tal entendimento está em linha com o art. 98, § 3º, da Lei nº 9.610/98, que estabelece a razoabilidade, a boa-fé e os usos e costumes do local de utilização da obra como orientadores da cobrança reclamada pelo ECAD."
+Para desconstituir o entendimento da origem seria imprescindível a análise do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Não bastasse isso, outro vício que fulmina a integralidade do especial diz respeito à ausência de interposição de recurso extraordinário para impugnar o fundamento constitucional presente no acórdão.
+Veja-se que, ao tratar do direito constitucional do cidadão de acesso à cultura e ao lazer, o tribunal de origem invoca o art. 6º da Constituição Federal, e este argumento não foi objeto de contestação na via extraordinária adequada.
+Assim, incide a Súmula 126/STJ, que dispõe: " é  inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles sufi ciente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
