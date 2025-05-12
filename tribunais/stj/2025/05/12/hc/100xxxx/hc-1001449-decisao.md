@@ -1,0 +1,10 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de NELY TIAGO SILVA - condenada por homicídio simples a 7 anos, 1 mês e 8 dias de reclusão -, atacando-se o acórdão de apelação criminal proferido pelo Tribunal de Justiça do Estado de Goiás (fls. 10/22), não comporta processamento.
+Com efeito, busca a impetração a revisão da dosimetria da pena - na condenação proferida na Ação Penal n. 5551924-20.2023.8.09.0051 (fls. 919/922, da 1ª Vara dos Crimes Dolosos Contra a Vida da comarca de Goiânia/GO) - com a aplicação da atenuante da confissão espontânea na fração máxima de 1/6, sustentando que a confissão qualificada em processo de homicídio garante segurança ao Juízo da existência da materialidade e da autoria do crime (fl. 6).
+Ocorre que a via eleita foi indevidamente utilizada como uma espécie de "segunda apelação", como forma de revisar a condenação imposta e mantida pelas instâncias ordinárias, o que é inadmissível, pois tal conduta termina por contribuir para o acúmulo de processos neste Superior Tribunal sem solução definitiva e desvirtua a finalidade do writ (HC n. 939.119/SC, de minha relatoria, Sexta Turma, julgado em 14/4/2025, DJEN de 25/4/2025).
+Ademais, não foi demonstrado constrangimento ilegal apto a superar o citado óbice, pois a fração utilizada, 1/12, para atenuar a pena em razão da confissão qualificada - na segunda etapa, reconhecida a atenuante da confissão espontânea, aplicada a fração redutora no percentual de 1/12 (um doze avos), sob argumento que a confissão espontânea foi qualificada (fl. 17) -, está em consonância com o entendimento desta Corte Superior (AgRg no HC n. 948.202/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 4/2/2025, DJEN de 13/2/2025 ).
+Em razão disso, indefiro liminarmente a inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. HOMICÍDIO SIMPLES. DOSIMETRIA. PRETENSÃO DE REVISÃO DA CONDENAÇÃO IMPOSTA E MANTIDA PELAS INSTÂNCIAS ORDINÁRIAS. UTILIZAÇÃO INDEVIDA DO WRIT. INVIABILIDADE. FORMULAÇÃO DE PRETENSÕES INFUNDADAS. INEXISTÊNCIA, ADEMAIS, DE CONSTRANGIMENTO ILEGAL MANIFESTO.
+Inicial indeferida liminarmente.
