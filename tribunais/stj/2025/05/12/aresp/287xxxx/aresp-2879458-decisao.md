@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de Agravo apresentado por BRAZILIAN SECURITIES COMPANHIA DE SECURITIZACAO à decisão que não admitiu seu Recurso Especial.
+O apelo, fundamentado no artigo 105, III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO E APELAÇÃO ADESIVA - ALIENAÇÃO FIDUCIÁRIA DE BEM IMÓVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE PROCEDIMENTO DE CONSOLIDAÇÃO DA PROPRIEDADE CUMULADA COM AÇÃO DE MANUTENÇÃO DA POSSE E INDENIZAÇÃO POR DANOS MORAIS - SENTENÇA DE PARCIAL PROCEDÊNCIA - APELO PRINCIPAL DA CREDORA FIDUCIÁRIA - DANO MORAL - EXISTÊNCIA - PRÁTICA DE ATOS INVÁLIDOS TENDENTES A AMEAÇAR A POSSE JUSTA DA DEVEDORA FÍDUCIANTE ANTES DA AÇÃO E DURANTE SEU CURSO - POTENCIAL PARA CAUSAR ANGÚSTIA, MEDO E INSEGURANÇA COM A IMINÊNCIA DA PERDA INJUSTA DA MORADIA  QUANTIA INDENIZATÓRIA - MANUTENÇÃO - CIFRA DE RS 10.000:00 QUE SE COADUNA COM AS CIRCUNSTÂNCIAS DO CASO CONCRETO E ATINGE OS ESCOPOS DE COMPENSAÇÃO INTEGRAL DO PREJUÍZO MORAL E DESESTÍMULO À REITERAÇÃO DO ILÍCITO - MAJORAÇÃO QUE PRODUZIRIA O ENRIQUECIMENTO SEM CAUSA DA VÍTIMA - SENTENÇA MANTIDA - RECURSOS PRINCIPAL E ADESIVO IMPROVIDOS.
+Quanto à controvérsia, a parte recorrente alega violação do art. 944 do CC, no que concerne à necessidade de majoração do quantum fixado a título indenizatório, eis que estipulado um valor irrisório, trazendo a seguinte argumentação:
+3.8. O que vale realçar, para este caso, é que (a) a ameaça à segurança do lar é gravíssima e (b) a recorrida perpetrou-a duas vezes, uma delas no curso do processo.
+3.9. E os dez mil reais fixados pela sentença não atendem às expectativas da recorrente.
+ ..
+4.2. Demais, a recorrente demonstrou que é pessoa de poucas posses (a ponto de merecer os benefícios da Justiça gratuita). É pessoa comum, cuja vida igualmente comum, foi gravemente abalada pelos ilícitos da recorrida. E é justamente por ser pessoa comum, que não têm amigos influentes, nem reservas financeiras, nem estabilidade econômica, que merece reparação mais adequada.
+4.3. Ainda se deve sopesar a "gravidade da falta", que não se resume, neste caso, à tentativa de retomada da posse, mas ao reiterado descumprimento de ordens judiciais.
+ ..
+4.4. E, por último, cumpre ponderar a "personalidade do autor do ilícito". A par de sua condenável postura (acerca do que já se escreveu aqui o suficiente), vale lembrar que se cuida se portentosa sociedade por ações, que vive de juros e lucros.
+4.5. E sua capacidade de reparação é imensa (fl. 682).
+É o relatório.
+Decido.
+Quanto à controvérsia, o Tribunal a quo se manifestou nos seguintes termos:
+Se, de um lado, o dano é razoavelmente elevado e, para fins de compensação integral do prejuízo e desestímulo à reiteração da conduta ilícita, a cifra de R $ 10.000,00 não se afigura exagerada, não vislumbro fundamento para a majoração da quantia. A autora não chegou a sofrer esbulho possessório nem a ter de lidar com terceiro arrematante, o que aumentaria o transtorno e justificaria quantum indenizatório maior. Há ainda o dever judicial de evitação do enriquecimento sem causa da vítima com indenizações demasiada e injustamente elevadas (fl. 656).
+Assim, incide a Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), tendo em vista que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial" (AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJEN de 9/12/2024).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp n. 2.718.125/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/3/2025; AgInt no AREsp n. 2.582.976/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025; AgInt no AREsp n. 2.685.985/RJ, relator Ministro Humberto Martins, Terceira Turma, DJEN de 20/2/2025; AgInt no AREsp n. 2.632.436/MG, relator Ministro Marco Buzzi, Quarta Turma, DJEN de 9/12/2024; AgInt no AREsp n. 2.315.287/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 22/11/2024; AgInt no REsp n. 1.860.301/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 24/6/2024.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+ EMENTA
