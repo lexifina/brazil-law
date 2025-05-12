@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Ricardo Villas Bôas Cueva e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRESCRIÇÃO DE NINTEDANIBE. TRATAMENTO DE FIBROSE PULMONAR IDIOPÁTICA. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE SUPERIOR. RECURSO ESPECIAL NÃO PROVIDO.
+1. O acórdão estadual está em consonância com a jurisprudência desta Corte no sentido da obrigatoriedade do fornecimento do medicamento Nintedanibe para tratamento de fibrose pulmonar, por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+2. Recurso especial não provido.
+RELATÓRIO
+Trata-se de recurso especial interposto por UNIMED RIBEIRÃO PRETO - COOPERATIVA DE TRABALHO MÉDICO (UNIMED), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, de relatoria do Des. CLAUDIO GODOY, assim ementado:
+Plano de saúde. Cerceamento de defesa inocorrido. Preliminar de nulidade da sentença afastada. Autora diagnosticada com fibrose pulmonar idiopática, em progressão, a despeito do tratamento ministrado. Prescrição do medicamento Nintedanibe. Recusa à cobertura, sob o fundamento de ausência de previsão nas diretrizes da ANS. Taxatividade assentada em acórdão da Corte Superior no qual, de todo modo, ressalvadas situações excepcionais a permitir a cobertura de procedimento fora do rol. Superveniência da Lei n. 14.454/22, que se aplica ao caso. Hipótese em que afastada, ademais, a tese defensiva de exclusão de cobertura para medicamentos de uso domiciliar. Restrições sobre o local de atendimento, em princípio, não podem se aplicar quando a infusão da droga indicada seja, em si, o tratamento do paciente. Cobertura devida. Honorários que não se poderiam ter fixado equitativamente, devendo-se observar o patamar mínimo de 10% do art. 85, § 2º, do CPC. Tema 1076. Sentença parcialmente revista. Recurso da autora provido e desprovido o da ré.
+Os embargos de declaração opostos por UNIMED foram rejeitados.
+Nas razões do presente recurso, UNIMED alegou dissídio jurisprudencial e a violação dos arts. 422 e 427 do CC e 10, VI, da Lei n. 9656/1998, ao sustentar que não está legal e contratualmente obrigada ao custeio de tratamento domiciliar.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. PRESCRIÇÃO DE NINTEDANIBE. TRATAMENTO DE FIBROSE PULMONAR IDIOPÁTICA. DEVER DE COBERTURA. CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE SUPERIOR. RECURSO ESPECIAL NÃO PROVIDO.
+1. O acórdão estadual está em consonância com a jurisprudência desta Corte no sentido da obrigatoriedade do fornecimento do medicamento Nintedanibe para tratamento de fibrose pulmonar, por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+2. Recurso especial não provido.
+VOTO
+O presente inconformismo não merece prosperar.
+UNIMED discute no recurso especial a obrigatoriedade de a operadora de plano de saúde custear o medicamento Nintedanibe para tratamento de fibrose pulmonar idiopática.
+O acórdão estadual está em consonância com o entendimento firmado nesta Corte Superior, no sentido da obrigatoriedade do fornecimento do referido medicamento para tratamento de fibrose pulmonar, por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+A propósito, confiram-se os precedentes:
+CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE. MEDICAMENTO NINTEDANIBE. PACIENTE DIAGNOSTICADO COM FIBROSE PULMONAR IDIOPÁTICA. INDICAÇÃO MÉDICA. NEOPLÁSICO ORAL. COBERTURA OBRIGATÓRIA.
+1. Discute-se nos autos a obrigatoriedade de a operadora de plano de saúde custear o medicamento Nintedanibe para tratamento de fibrose pulmonar idiopática.
+2. A jurisprudência desta Corte que concluiu pela obrigatoriedade do fornecimento do medicamento Nintedanibe para tratamento de fibrose pulmonar, por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+3. Ademais, a Corte de origem não logrou afastar o uso do medicamento para o caso específico da paciente, considerando o risco de câncer de pulmão e a ausência de alternativa terapêutica para a enfermidade, o que torna a recusa abusiva.
+4. Hipótese em que "a operadora ré não comprovou a existência de alternativa terapêutica para a doença da autora ou que o tratamento pleiteado é ineficaz" (AgInt no AREsp n. 2.470.713/RJ, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/4/2024, DJe de 11/4/2024).
+5. O medicamento em discussão (Ofev 150mg/dia "Esilato de Nintedanibe") é um antineoplásico oral, com indicação expressa para o tratamento da doença grave que acomete o beneficiário, de modo que a recusa de cobertura com base somente na ausência de enquadramento nas diretrizes de utilização da ANS para o tratamento de fibrose pulmonar, sem a indicação, em contrapartida, de terapêutica alternativa eficaz e segura para a enfermidade que acomete o paciente, afigura-se abusiva, aplicando-se aqui a mesma ratio dos medicamentos off label. Precedentes.
+Agravo interno improvido.
+(AgInt no REsp n. 2.125.701/SP, relator Ministro Humberto Martins, Terceira Turma, julgado em 10/2/2025, DJEN de 14/2/2025)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. MEDICAMENTO DE USO DOMICILIAR. NEGATIVA INDEVIDA DE COBERTURA. PRECEDENTES. IRRETROATIVIDADE DA LEI N. 14.454/2022. INOVAÇÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça dispõe que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente fundamentado e demonstrado pelas instâncias de origem que o feito se encontrava suficientemente instruído, afirmando-se, assim, a presença de dados bastantes à formação do seu convencimento.
+1.1. Infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade da complementação ou da produção de nova prova pericial, tal como busca a insurgente, esbarraria no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+2. Na hipótese, o acórdão recorrido decidiu em conformidade com o entendimento firmado por esta Corte Superior, o qual analisando caso semelhante concluiu pela obrigatoriedade do fornecimento do medicamento Nintedanibe para tratamento de fibrose pulmonar por se mostrar imprescindível e eficaz à conservação da vida e saúde do beneficiário.
+3. Inviável o conhecimento da matéria que foi suscitada apenas em agravo interno, constituindo indevida inovação recursal, ante a configuração da preclusão consumativa.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.553.167/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 19/8/2024, DJe de 23/8/2024)
+Ademais,  a  Corte  de  origem  foi clara quanto à natureza indispensável do  uso  do  medicamento  para  o  caso  específico  do  paciente,  considerando  o  risco  de  câncer  de  pulmão  e  a  ausência  de  alternativa  terapêutica  para  a  enfermidade,  o  que  torna  a  recusa  abusiva.
+Nesse sentido, confira-se:
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER  C/C  PEDIDO  CONDENATÓRIO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DA  DEMANDADA.
+1.  A  Corte  de  origem  manifestou-se  expressamente  acerca  dos  temas  necessários  a  solução  da  controvérsia,  de  modo  que,  ausente  qualquer  omissão,  contradição  ou  obscuridade,  não  se  verifica  a  ofensa  aos  artigos  489  e  1.022  do  CPC/15.
+2.  Segundo  a  jurisprudência  do  STJ,  é  abusiva  a  recusa  da  operadora  do  plano  de  saúde  de  custear  a  cobertura  do  medicamento  registrado  na  ANVISA  e  prescrito  pelo  médico  do  paciente,  ainda  que  se  trate  de  fármaco  off-label,  ou  utilizado  em  caráter  experimental,  especialmente  na  hipótese  em  que  se  mostra  imprescindível  à  conservação  da  vida  e  saúde  do  beneficiário.  2.1.  Hipótese  em  que  "a  operadora  ré  não  comprovou  a  existência  de  alternativa  terapêutica  para  a  doença  da  autora  ou  que  o  tratamento  pleiteado  é  ineficaz".
+Incidência  do  óbice  da  Súmula  83/STJ.
+3.  Rever  a  conclusão  a  que  chegou  o  Tribunal  de  origem,  acerca  da  ocorrência  de  dano  moral  no  caso  concreto,  demandaria  o  reexame  das  provas  dos  autos,  juízo  obstado  pela  Súmula  7/STJ.
+4.  Agravo  interno  desprovido.
+(AgInt  no  AREsp  n.  2.470.713/RJ,  relator  Ministro  Marco  Buzzi,  Quarta  Turma,  julgado  em  8/4/2024,  DJe  de  11/4/2024)
+Sobre  a  questão,  ainda,  em  consulta  ao  site  da  Anvisa,  verifica-se  que  o  medicamento  foi  devidamente  registrado.  O  medicamento  em  discussão  é  um  antineoplásico  oral,  com  indicação  expressa  para  o  tratamento  da  doença  grave  que  acomete  o  beneficiário,  de  modo  que  a  recusa  de  cobertura  com  base  somente  na  ausência  de  enquadramento  nas  diretrizes  de  utilização  da  ANS  para  o  tratamento  de  fibrose  pulmonar,  sem  a  indicação,  em  contrapartida,  de  terapêutica  alternativa  eficaz  e  segura  para  a  enfermidade  que  acomete  o  paciente,  afigura-se  abusiva,  aplicando-se  aqui  a  mesma  ratio  dos  medicamentos  off  label.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor da parte autora, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
