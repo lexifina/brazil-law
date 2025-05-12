@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155 E 414, AMBOS DO CPP. IMPROCEDÊNCIA. PRONÚNCIA CALCADA EM PROVA JUDICIALIZADA E DE NATUREZA NÃO REPETÍVEL (INTERCEPTAÇÃO TELEFÔNICA). POSSIBILIDADE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Fabricio Madson da Luz contra a decisão monocrática de minha lavra, assim ementada (fl. 763):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ACÓRDÃO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155 E 414, AMBOS DO CPP. PLEITO DE IMPRONÚNCIA EM RAZÃO DE TESTEMUNHO INDIRETO. PROVA EXCLUSIVAMENTE DO INQUÉRITO. TRIBUNAL AFIRMA QUE PRONÚNCIA ESTÁ FUNDADA EM ELEMENTOS INFORMATIVOS CORROBORADOS EM JUÍZO. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Nas razões, o agravante sustentou que a pronúncia está calcada em depoimento de informante que não tomou conhecimento de quem matou a vítima Leandro, e que nenhuma ameaça, e que a vítima tinha vários inimigos na cidade (fl. 774).
+Asseverou que está respondendo ao crime de homicídio por simplesmente várias pessoas acharem ou relatarem que ouviram dizer que o defendente fora o autor do crime. Nenhuma pessoa realmente presenciou, viu o fato ocorrer, estão simplesmente julgando o defendente por achismo, por ouvir dizer (fl. 776).
+Pugnou, assim, pela reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155 E 414, AMBOS DO CPP. IMPROCEDÊNCIA. PRONÚNCIA CALCADA EM PROVA JUDICIALIZADA E DE NATUREZA NÃO REPETÍVEL (INTERCEPTAÇÃO TELEFÔNICA). POSSIBILIDADE. REEXAME. INADMISSIBILIDADE. SÚMULA 7/STJ.
+Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos arts. 155 e 414, ambos do Código de Processo Penal, apontando que a decisão de pronúncia se baseou em provas exclusivamente do inquérito e testemunhos indiretos (fls. 659/677).
+Eis o que constou do acórdão exarado no julgamento do recurso em sentido estrito (fls. 623/626 - grifo nosso):
+ ..
+No ponto, registre-se que a decisão que pronunciou o réu não foi fundada em depoimentos indiretos (testemunhas de "ouvir dizer") como alega a defesa, mas em testemunhas, ouvidas em juízo, que confirmaram seus depoimentos prestados na fase inquisitorial, bem como em uma investigação acerca de uma organização criminosa especializada em roubos e furtos de aparelhos celulares autorizada, pela 5ª Vara Criminal de Brasília/DF, da qual o acusado foi investigado, mediante interceptações telefônicas. No curso das diligências investigatórias, a Polícia Civil do Distrito Federal (mov.1, arq.4, fls. 58/68) constatou que:
+ ..  " conversas por ligações telefônicas obtidas do prefixo de um dos investigados, conhecido como LEO, em que o recorrente Fabrício Madson da Luz, vulgo "Abajur", ligou para o investigado LEO para buscar um revólver com a pessoa de ROBINHO, pois a vítima Leandro da Silva Couto, vulgo "BATATA", havia "sangrado" ele"  ..
+ .. Constou das interceptações telefônicas, ainda, conversas da sogra de Fabrício Madson da Luz, a informante MARIA DO SOCORRO PEREIRA DO NASCIMENTO, dando detalhes do delito, relatando a um terceiro que houve um desentendimento entre o recorrente e a vítima. Narrou que, durante a noite, o recorrente Fabrício Madson da Luz foi até a residência da vítima Leandro e, no momento em que esta chegou em sua residência, ao guardar sua motocicleta, o recorrente surpreendeu-a com disparos de arma de fogo, momento em que a vítima caiu no chão e que o recorrente desferiu outro disparo contra a nuca da vítima, a fim de assegurar a consumação do crime  .. .
+Conforme consta na movimentação 1, folhas 58/68 dos autos, a investigação realizada pela Polícia Civil do Distrito Federal foi compartilhada com a Polícia Civil do Estado de Goiás, mediante autorização do Juízo da 5ª Vara Criminal de Brasília/DF.
+ ..
+Os indícios de autoria decorrem da prova oral produzida através dos depoimentos da testemunha, Gina Araújo da Silva, ouvida como informante, cita-se:
+ ..  "disse que confirma o depoimento realizado na delegacia, que confirma o reconhecimento realizado através de fotografias da pessoa do acusado, que no dia do fato, estava em um bar; que ouviu alguém chamando seu nome e dizendo que seu primo Leandro estava envolvido numa briga do lado de fora do bar, relatou disse que não tomou conhecimento de quem matou a vítima Leandro, que não ouviu nenhuma ameaça proferida por parte do indivíduo conhecido como "Fufu" no dia da briga envolvendo a vítima; que a vítima Leandro tinha vários inimigos na cidade; que não conhecia o réu Fabrício.  .. .
+Com efeito, a partir da apuração dos elementos probatórios acima, evidencia- se a presença de materialidade e indícios suficientes de autoria para a pronúncia do acusado, ante a suposta prática do crime de homicídio qualificado em desfavor de Leandro da Silva Couto.
+Isso porque, a despeito dos argumentos invocados pela defesa (ausência de provas da autoria delitiva), vê-se que os elementos probatórios apurados sob o crivo do contraditório e ampla defesa no bojo do juízo da formação da culpa (judicium accusatione) indicam a existência de crime doloso contra a vida.
+ ..
+No caso, ao contrário do alegado, não se verifica na espécie uma situação da chamada hearsay testemony, mas, sim, a indicação pela Corte de Justiça dos elementos probatórios, produzidos em inquérito e corroborados em juízo, como depoimento de testemunha que presenciou discussão anterior entre vítima e acusado, bem como dados extraídos de interceptações telefônicas, prova essa de natureza não repetível, expressamente ressalvada pelo art. 155 do CPP, sujeita ao contraditório diferido ou postergado.
+Nesse cenário, não há falar em violação dos arts. 155 e 414, ambos do CPP:
+ ..
+VI. Não se admite, no ordenamento jurídico pátrio, a prolação de um decreto condenatório fundamentado exclusivamente em elementos informativos colhidos durante o inquérito policial, no qual inexiste o devido processo legal (com seus consectários do contraditório e da ampla defesa), sendo certo que o juiz pode deles se utilizar para reforçar seu convencimento, desde que corroborados por provas produzidas durante a instrução processual ou desde que essas provas sejam repetidas em juízo. Ficam ressalvadas, no entanto, as provas cautelares, não repetíveis e antecipadas. As interceptações telefônicas enquadram-se na exceção legal que autoriza o juiz a condenar com base em elementos informativos colhidos na investigação.
+VII. Na hipótese dos autos, existiu o contraditório diferido, também chamado de postergado, único possível de ser realizado quando se trata de interceptação telefônica. Com efeito, o exercício do contraditório sobre os elementos de informação obtidos em razão de interceptação telefônica judicialmente autorizada é diferido para a ação penal porventura deflagrada, já que a sua natureza não é compatível com o prévio conhecimento do agente que é alvo da medida.
+VIII. A defesa teve condições de conhecer o conteúdo das interceptações telefônicas que deram lastro à condenação - e sobre ele se manifestar -, antes mesmo da apresentação das alegações finais, a afastar, por conseguinte, qualquer alegação de nulidade por afronta ao princípio do contraditório. Vale dizer, embora a condenação do paciente haja sido lastreada em elementos de informação obtidos por meio das interceptações telefônicas autorizadas no curso do inquérito policial, não há dúvidas de que o conteúdo das interceptações foi anexado aos autos e, portanto, disponibilizado às partes para que, querendo, pudesse impugná-lo e sobre ele exercer o contraditório.
+IX. Ordem denegada.
+(HC n. 408.756/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 15/2/2022, DJe de 24/2/2022 - grifo nosso).
+No mais, rever a conclusão estabelecida, no sentido da suficiência de provas para a pronúncia, como pretende o agravante, encontra óbice na Súmula 7/STJ, que veda o reexame probatório:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JURI. PRONÚNCIA. REVERSÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A pronúncia é decisão interlocutória mista, que julga admissível a acusação, remetendo o caso à apreciação do Tribunal do Júri. É mero juízo de admissibilidade, e não de mérito. Não devem seguir a Júri os casos rasos em provas, fadados ao insucesso, merecedores de um fim, desde logo.
+4. Hipótese em que o Tribunal a quo, ao apreciar o recurso em sentido estrito, entendeu que, diante do teor dos depoimentos, é perfeitamente lícito estabelecer o liame entre a conduta do denunciado na intenção de matar, ainda que a tentativa não tenha produzido lesões. Assim, "havendo prova da materialidade e indícios suficientes de autoria apontando o réu como autor do fato, a questão deverá ser decidida pelo Tribunal do Júri, que é quem detém a competência constitucional".
+5. A reversão das premissas fáticas do acórdão encontra óbice na Súmula n. 7 desta Corte Superior de Justiça.
+6. Agravo regimental desprovido.
+(AgRg no REsp n. 2.110.968/TO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 2/4/2024, DJe 8/4/2024 - grifo nosso).
+Ante o exposto, nego provimento ao agravo regimental.
