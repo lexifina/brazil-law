@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. RECURSO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. PRAZO: 5 DIAS CORRIDOS. ART. 39 DA LEI N. 8.038/1990. INTEMPESTIVIDADE.
+1. O início da vigência do CPC/2015 não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+2. No caso, a decisão agravada foi considerada publicada em 11/3/2025. O prazo de 5 dias teve início em 12/3/2025 e término no dia 17/3/2025, mas este agravo regimental foi apresentado nesta Corte Superior apenas em 26/3/2025, ocasião na qual já se encontrava esgotado o respectivo interstício recursal.
+3. Agravo regimental não conhecido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZ ALBERTO DE FRANCA OLIVEIRA contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial ante a ausência de impugnação do fundamento utilizado para inadmitir o recurso especial na origem, qual seja: ausência/erro de indicação de artigo de lei federal violado - Súmula 284/STF (fls. 340/341).
+Sustenta a parte agravante, no agravo regimental, que a matéria tratada em sede de Recurso Especial não objetiva ou, ao menos, não implica em reexame do campo probatório, mas sim, na interpretação dos dispositivos legais acima apontados, não encontrando, portanto, impedimento ao seu processamento (fl. 6).
+Instado a se manifestar na condição de custos legis, o Ministério Público Federal se manifestou pelo não conhecimento do agravo, pois intempestivo (fls. 26/27).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. RECURSO CONTRA DECISÃO MONOCRÁTICA DE RELATOR. PRAZO: 5 DIAS CORRIDOS. ART. 39 DA LEI N. 8.038/1990. INTEMPESTIVIDADE.
+1. O início da vigência do CPC/2015 não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+2. No caso, a decisão agravada foi considerada publicada em 11/3/2025. O prazo de 5 dias teve início em 12/3/2025 e término no dia 17/3/2025, mas este agravo regimental foi apresentado nesta Corte Superior apenas em 26/3/2025, ocasião na qual já se encontrava esgotado o respectivo interstício recursal.
+3. Agravo regimental não conhecido.
+VOTO
+O recurso não comporta conhecimento.
+De acordo com o entendimento do Superior Tribunal de Justiça, o início da vigência do Código de Processo Civil não modificou o prazo para que seja interposto agravo contra decisão unipessoal de relator em matéria criminal. Assim, nessa hipótese, permanece em vigor a previsão contida no art. 39 da Lei n. 8.038/1990, isto é, o interstício para a interposição do citado recurso é de 5 dias corridos.
+Ademais, conforme a jurisprudência desta Corte Superior de Justiça, a contagem dos prazos recursais nos feitos criminais encontra-se regulamentada no artigo 798 do Código de Processo Penal, segundo o qual "todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", o que impede a aplicação das regras processuais civis, sendo, dessa maneira, inaplicável o cálculo em dias úteis previsto no artigo 219 do Novo Código de Processo Civil, bem como o recesso do CPC/2015.(AgRg no AREsp n. 2.089.827/RJ, Rel. Ministro JESUÍNO RISSATO (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 2/8/2022, DJe 22/8/2022) - (AgRg no AREsp n. 1.894.125/SP, Ministra Laurita Vaz, Sexta Turma, DJe 23/2/2023).
+Na espécie, a decisão agravada foi disponibilizada no Diário da Justiça Eletrônico do Superior Tribunal de Justiça em 10/3/2025 e considerada publicada em 11/3/2025, nos termos da certidão de fl. 343.
+Nesse diapasão, o prazo de 5 dias para a interposição do regimental teve início em 12/3/2025 e término no dia 17/3/2025, mas este agravo regimental foi apresentado nesta Corte Superior apenas em 26/3/2025 (fl. 2), ocasião na qual já se encontrava esgotado o respectivo interstício recursal, fato esse, inclusive, objeto de certidão expedida pela pela Coordenadoria de Processamento de Feitos de Direito Penal (fl. 10).
+Dessa forma, é manifesta a intempestividade do recurso, porquanto interposto além do prazo de 5 dias corridos, previsto nos arts. 39 da Lei n. 8.038/1990; 258, caput, do RISTJ; e 798, caput e § 3º, do Código de Processo Penal.
+Ante o exposto, não conheço do agravo regimental.
