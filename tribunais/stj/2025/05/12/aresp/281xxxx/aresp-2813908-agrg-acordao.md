@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. ESTELIONATO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 7/STJ. A mera citação do enunciado no dec orrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MAURICIO FRANCISCO DE ALMEIDA contra decisão monocrática da Presidência desta Corte (e-STJ fls. 1759-1760) que não conheceu do agravo em recurso especial manejado em face de acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"PENAL. PROCESSO PENAL. ARTIGO 171, §3º, DO CP. MATERIALIDADE, AUTORIA E DOLO DEVIDAMENTE COMPROVADOS. DOSIMETRIA. REGIME ABERTO. PENA PRIVATIVA SUBSTITUIDA POR DUAS RESTRITIVAS DE DIREITOS. DE OFÍCIO, REDUZIDO O VALOR DAS PRESTAÇÃO PECUNIÁRIA. RECURSO IMPROVIDO. 1. Materialidade, autoria e dolo devidamente comprovados. 2. Erro de proibição (art. 21 do CP). O conjunto probatório demonstra, de forma clara e objetiva, que o réu tinha consciência sobre a ilicitude do fato praticado. 3. Dosimetria. Mantida a pena-base fixada no mínimo legal, acrescida da causa de aumento do §3º do art. 171 do CP. 4. Reduzido, de ofício, o valor da prestação pecuniária para ambos os acusados. 5. Pena privativa de liberdade substituída por duas penas restritivas de direitos. Deferida a gratuidade de justiça. 6. Apelação da defesa do réu Maurício a que se nega provimento."
+A parte recorrente requer a reconsideração da decisão agravada, pugnando pelo conhecimento e provimento do recurso especial interposto (e-STJ fls. 1764-1770).
+O Ministério Público Federal opinou "pelo não conhecimento do agravo regimental e, caso conhecido, pelo desprovimento" (e-STJ fls. 1782-1790).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. PROCESSO PENAL. ESTELIONATO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A parte agravante deixou de impugnar especificamente: Súmula 7/STJ. A mera citação do enunciado no dec orrer da petição, sem demonstrar a superação do óbice e da súmula apontada na decisão de inadmissibilidade, não viabiliza o prosseguimento do recurso especial.
+2. Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+3. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, o recurso não apresenta elementos capazes de desconstituir as premissas que embasaram a decisão impugnada, que merece ser mantida por seus próprios fundamentos.
+Por meio da análise dos autos, verifica-se que a decisão agravada inadmitiu o Recurso Especial, considerando: Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento. Com efeito, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp n. 1.793.805/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Nos termos do art. 932, III, do CPC e do art. 253, parágrafo único, I, do Regimento Interno desta Corte, não se conhecerá do Agravo em Recurso Especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do Recurso Especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o Recurso Especial.
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
