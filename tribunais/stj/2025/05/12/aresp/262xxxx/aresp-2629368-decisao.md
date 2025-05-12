@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARTHA RITA FERREIRA NHAN contra decisão do TRIBUNAL REGIONAL FEDERAL DA 1,a. REGIÃO que inadmitiu o recurso especial interposto pela parte ora agravante com arrimo no art. 105, III, "a", CF e no qual se alegou contrariedade ao art. 8º, parágrafo único, da Lei riº 8.137/90.
+A recorrente foi condenada pela prática do delito tipificado no art. 1º, inciso I, da Lei 8.137/1990, na forma do art. 71 do CP, à pena de 02 (dois) anos e 08 (oito) meses e 20 (vinte dias) de reclusão, 61 dias-multa, fixar o dia-multa aplicado em um salário mínimo
+Acórdão negou provimento ao recurso de apelação da defesa e deu parcial provimento ao recurso de apelação da acusação para fixar o dia-multa em um salário mínimo (fls.1857/1869) .
+Em recurso Especial, sustenta a defesa que, embora extinto, o BTN "ainda possui poder econômico para fundamentar a aplicação da pena de multa, com base em seu último valor, qual seja, CR$ 126,86 (..)", de modo que o valor do dia multa para crimes contra ordem tributária continua sendo estabelecido segundo tal índice (fls. 1876/1881) .
+Decisão de inadmissibilidade do recurso especial ao argumento de que o acórdão recorrido estaria em consonância com o entendimento do STJ, de modo que incidiria o óbice previsto na Súmula nº 83/STJ (fls.1892/1893) .
+Agravo em recurso especial (fls.1898/1901).
+Parecer do Ministério Público Federal (fls. 1920/1922 ).
+É o relatório. DECIDO.
+Pretende a recorrente a incidência da BTN para fundamentar a aplicação da pena de multa. Sustenta que a questão tratada no recurso especial "ainda não foi objeto de exame pelo Superior Tribunal de Justiça, de modo que não incide, no caso, o óbice da Súmula nº 83 do STJ".
+Não prospera o fundamento da defesa.
+Nesse sentido, "nos termos da jurisprudência desta Corte, a extinção do índice utilizado corno parâmetro para a fixação da pena pecuniária (multa) não elimina o preceito secundário, previsto na norma incriminadora, devendo ser restaurados os efeitos da lei geral, aplicando-se ao caso concreto o Código Penal, mais especificamente o disposto no § 1 2 do art. 49 do Código Penal, que fixa o salário-mínimo corno unidade de valor para a fixação da pena de multa (REsp 1.386.317/DF, Rel. Min. Sebastião Reis Júnior, Die 25/05/2015)."
+Portanto, o Bônus do Tesouro Nacional - BTN foi extinto pela Lei n 8.177/91, não sendo mais aplicável o critério previsto no parágrafo único do artigo 8 da Lei n. 8137/90, razão pela qual fixado o valor unitário de cada dia-multa em 1 salário-mínimo e meio vigente à época dos fatos, nos termos do artigo 49, § 1 e 2, do Código Penal, corrigido monetariamente na fase da execução (STJ, AgRg no REsp n. 1.531.334/DF, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, julgado 1/10/15, DJe 23/10/15).
+A extinção da BTN, a que faz referência o artigo 8º, parágrafo único, da Lei nº 8.137/90, não conduz à inaplicabilidade da pena de multa, pois tratando-se dos crimes contra a ordem tributária, aplica-se, subsidiariamente, a regra geral contida no artigo 49, § 1º do Código Penal ( AgRg nos EDcl no REsp n. 1.789.596/DF, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 19 /5/2020, DJe de 25/5/2020).
+O Superior Tribunal de Justiça possui entendimento consolidado de que o juízo sentenciante pode arbitrar o valor do dia-multa com base no salário-mínimo, nos termos do art. 49, § 1º, do Código Penal, o que é uma prática aceitável e alinhada com os princípios de proporcionalidade e razoabilidade.
+O caso em questão se enquadra na incidência da Súmula 83 do STJ, o qual veda o conhecimento de recursos especiais por divergência quando a orientação do STJ tenha se firmado no mesmo sentido da decisão recorrida.
+Ante o exposto, conheço do agravo para não conhecer o recurso especial, nos termos do artigo 253, parágrafo único, inciso II, a, do RISTJ
+Publique-se. Intimem-se.
+EMENTA
