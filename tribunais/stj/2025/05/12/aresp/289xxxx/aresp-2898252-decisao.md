@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado do Ceará contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 684/685):
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. AÇÃO DE CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE. LEGITIMIDADE RECURSAL. EQUIVALÊNCIA A AD CAUSAM. ILEGITIMIDADE DO ESTADO-MEMBRO. EXCLUSIVA DO GOVERNADOR DO ESTADO. VASTA JURISPRUDÊNCIA DO STF. PRECEDENTE ISOLADO. DISTINGUISHING. MERO VÍCIO FORMAL. INOCORRÊNCIA. VÍCIO NÃO PASSÍVEL DE CONVALIDAÇÃO. TESE SUPLEMENTAR: APARENTE CONFLITO PRINCIPIOLÓGICO. INSTRUMENTALIDADE DAS FORMAS E SEGURANÇA JURÍDICA. PREVALÊNCIA DESTE ÚLTIMO EM RAZÃO DAS PECULIARIDADES DO CASO. JURISPRUDÊNCIA CONSOLIDADA DO STF. IMPORTÂNCIA DA OBSERVÂNCIA DOS PRECEDENTES. PREVISIBILIDADE DO DIREITO. RECURSO CONHECIDO E DESPROVIDO.
+1. Tratando-se de recurso interposto no âmbito de ação de controle concentrado de constitucionalidade, se recairia, pois, na mesma situação, de não conhecimento do recurso, em razão da ausência de pressuposto subjetivo. Todavia, por se tratar de situação excepcional, em que a insurgência se dá justamente em face do não reconhecimento da legitimidade recursal, entende-se que o recurso merece conhecimento, para ser analisado em seu mérito, até mesmo porque, na hipótese, a análise dos pressupostos recursais e o mérito da ação se confundem.
+2. Distinguishing: O precedente trazido nas razões recursais refere-se à hipótese de interposição de Recurso Extraordinário, por ente municipal, em Ação Direta de Constitucionalidade, manejada em âmbito estadual, por entidade sindical. Embora o presente recurso igualmente tenha sido interposto em ação de controle abstrato na esfera estadual, este veicula agravo interno, ao próprio Tribunal, em razão de decisão monocrática, manejado pelo Estado-membro, no âmbito de ação direta originalmente proposta pelo Governador.
+Assim, o caso sob análise amolda-se justamente aos reportados precedentes em sentido contrário.
+3. Além do mais, ainda que não se tratassem de casos distintos, tem-se que o referido julgado constitui precedente isolado, havendo consolidada jurisprudência da Suprema Corte em sentido oposto. Não se cogita, igualmente, de se dizer que houve a alteração do entendimento, considerando a existência de diversos julgados, posteriores ao citado, reiterando o entendimento antes firmado.
+4. Conforme jurisprudência amplamente colacionada aqui e na decisão impugnada, a legitimidade recursal equivale àquela relativa ao manejo da própria ação de controle, rol no qual não figura o Estado-membro. Relembre-se, ainda, a inadmissibilidade da intervenção de terceiros no âmbito das referidas ações.
+5. Ainda nesse sentido é a lição da doutrina especializada, como bem sintetiza Leonardo Carneiro da Cunha 1 : "Não se permite à pessoa jurídica de direito público interessada interpor recurso nesses tipos de ação, estando franqueada essa possibilidade ao legitimado que figure como requerente".
+6. Afigura-se incabível a oportunização de prazo para saneamento, visto que não se verifica incapacidade processual ou irregularidade de representação da parte, e sim a ilegitimidade desta.
+7. Ainda que assim não o fosse e se admitisse a correção do erro, ter- se-ia possível conflito normativo entre os princípios da instrumentalidade das formas e da segurança jurídica. No caso em apreço, merece prevalência a segurança jurídica seja em face: i) da vasta jurisprudência acerca da matéria; ii) da adoção do entendimento há décadas iii) da sua reafirmação até os dias atuais; e iii) dos precedentes serem oriundos do Tribunal Pleno da Corte Suprema do país. Isso tudo sem considerar, por óbvio, que não se trata de mero vício formal.
+8. Ademais, deve-se atentar que a observância dos precedentes tem especial papel diante da garantia, ao jurisdicionado, de decisões uniformes, previsíveis e isonômicas.
+9. Recurso conhecido e desprovido.
+Opostos embargos declaratórios, foram rejeitados (fls. 741/758).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 4º, 5º, 8º, 76, 199, 489, §1º, IV, e 1.022, II, do CPC. Sustenta, além de negativa de prestação jurisdicional, a legitimidade do estado para interpor recursos em demandas de controle abstrato de constitucionalidade, defendendo que "não reconhecer a legitimidade ao Procurador- Geral do Estado para a interposição de recurso contra acórdão que declara a inconstitucionalidade de norma estadual ou municipal questionada no Tribunal de Justiça, em controle abstrato de constitucionalidade, seria negar efetiva defesa da norma atacada ou, pelo menos, conferir-lhe uma defesa incompleta. Portanto, embora caiba ao legitimado o ajuizamento da ação direta, observado o disposto no art. 103 da Carta da República ou na forma prevista na Constituição estadual; na fase recursal, o procurador também dispõe de legitimidade para interpor recurso." (fl. 789).
+Ressalta que "a decisão local que ora se recorre viola o art. 4º, 5º, 6º do CPC/15 na medida em que impõe um formalismo extremo e desnecessário com a finalidade em que se pretende atingir o ato, obstando a razoável duração do processo, e indo em sentido oposto aos princípios da cooperação, boa-fé, e da solução integral do mérito. Ainda, viola o art. 188 do CPC/15 em razão de que, uma vez sendo os atos processuais válidos, mesmo se realizados de forma diferente da exigida pela lei, desde que atinjam sua finalidade essencial, deve-se manter, principalmente no que tange à inviabilidade recursal do Estado do Ceará em demandas dessa estirpe (controle abstrato de constitucionalidade). E, viola o art. 76 do CPC/15 por, mesmo que se assim efetivasse, em sentido contrário aos precedentes do Supremo Tribunal Federal suscitados, sequer foi dada oportunidade ao Ente Público para o saneamento da incapacidade processual ou irregularidade da representação da parte legitimada." (fls. 793/794).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, IV e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, extrai-se do aresto recorrido a seguinte fundamentação (fls. 688/700):
+Fundamenta o ente estatal sua argumentação, sobretudo, no RE n.º 839.950, julgado pelo Tribunal Pleno do Supremo Tribunal Federal, em 24 de outubro de 2018, o qual restou assim ementado:
+(..)
+Não obstante, cumpre realizar o devido distinguishing.
+O precedente supracolacionado refere-se à hipótese de interposição de Recurso Extraordinário, por ente municipal, em Ação Direta de Constitucionalidade, manejada em âmbito estadual, por entidade sindical, como bem salientado pelo nobre Relator:
+(..)
+Embora o presente recurso igualmente tenha sido interposto em ação de controle abstrato na esfera estadual, este veicula agravo interno ao próprio Tribunal, em face de decisão monocrática, guardando maior similitude com os casos referenciados de interposição de agravo regimental impugnando decisão monocrática em ação direta originalmente ajuizada perante o Supremo do que com recurso extraordinário proposto no âmbito ação de controle abstrato ajuizada na esfera estadual.
+Ademais, no precedente indicado, a ação originária havia sido ajuizada por entidade sindical, ao passo em que, no caso presente, o processo foi manejado pelo Governador do Estado.
+Assim, o caso sob análise amolda-se justamente aos reportados precedentes em sentido contrário, que foram prolatados em recursos manejados pelo Estado-membro, pela via de ação direta originalmente proposta pelo Governador.
+Além do mais, ainda que não se tratassem de casos distintos, impende registrar que o referido julgado constitui precedente isolado, havendo consolidada jurisprudência da Suprema Corte em sentido contrário. Não se cogita, igualmente, de se dizer que houve a alteração do entendimento, considerando a existência de diversos julgados, posteriores ao acima citado, reiterando o entendimento antes firmado.
+Atente-se, pois, além dos inúmeros julgados já elencados na decisão impugnada, para outros precedentes oriundos do Tribunal Pleno do Pretório Excelso, no sentido de se reconhecer a ilegitimidade recursal do Estado-membro em ações de controle concentrado:
+(..)
+Este último julgado, inclusive, também de relatoria do eminente Ministro Luiz Fux, relator do precedente trazido nas razões recursais.
+Em reforço, colaciona-se, ainda, jurisprudência das Turmas do STF:
+(..)
+Importante ilustrar, em forço argumentativo, a lição da doutrina especializada, como bem sintetiza Leonardo Carneiro da Cunha 2 : "Não se permite à pessoa jurídica de direito público interessada interpor recurso nesses tipos de ação, estando franqueada essa possibilidade ao legitimado que figure como requerente." Na mesma diretriz, cumpre pontuar o posicionamento deste egrégio Órgão Especial:
+(..)
+Conforme jurisprudência amplamente ora colacionada e igualmente ressaltada na decisão impugnada, a legitimidade recursal equivale àquela relativa ao manejo da própria ação de controle, rol no qual não figura o Estado-membro:
+CONSTITUIÇÃO DO ESTADO DO CEARÁ Art. 127. São partes legítimas para propor a ação direta de inconstitucionalidade de lei ou de ato normativo estadual, contestado em face desta Constituição, ou por omissão de medida necessária para tornar efetiva norma ou princípio desta Constituição:
+I - o Governador do Estado;
+II - a Mesa da Assembleia Legislativa;
+III - o Procurador-Geral da Justiça;
+IV - o Defensor-Geral da Defensoria Pública;
+V - o Prefeito, a Mesa da Câmara ou entidade de classe e organização sindical, se se tratar de lei ou de ato normativo do respectivo Município;
+VI - os partidos políticos com representação na Assembleia Legislativa, ou, tratando-se de norma municipal, na respectiva Câmara;
+VII - o Conselho Estadual da Ordem dos Advogados do Brasil; e VIII - organização sindical ou entidade de classe de âmbito estadual ou intermunicipal.
+(..) §4º Os legitimados referidos nos incisos I, II, III, IV, VI (parte inicial), VII e VIII poderão propor ação declaratória de constitucionalidade, de lei ou ato normativo estadual em face desta Constituição.
+REGIMENTO INTERNO DO TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ Art. 138. São partes legítimas para propor a ação declaratória de constitucionalidade de lei ou de ato normativo estadual em face da Constituição do Estado do Ceará:
+I. Governador do Estado;
+II. Mesa da Assembleia Legislativa;
+III. Procurador-Geral da Justiça.
+(..)
+Com efeito, no que pertine à alegada necessidade de observância do princípio da instrumentalidade processual, infere-se que, no caso em apreço, diferentemente do que tenta argumentar o Recorrente, não se está diante de mero erro formal.
+Ora, não se constata simples ausência de assinatura do Governador do Estado na petição recursal, e sim, em verdade, a indicação do "Estado do Ceará" como Agravante.
+Diferente cenário se teria caso a parte legitimada, qual seja, o "Governador do Estado" figurasse como Recorrente, restando ausente apenas a subscrição da peça. Sob tal perspectiva, inclusive, é que se afigura incabível a oportunização de prazo para saneamento, visto que não se verifica incapacidade processual ou irregularidade de representação da parte, e sim a ilegitimidade desta.
+A capacidade processual traduz-se na condição de ser parte (todas as pessoas físicas e jurídicas, além de alguns entes despersonalizados); na capacidade para estar em juízo (pessoa que se encontre no exercício dos seus direitos); e na capacidade postulatória (aptidão para subscrever petições, ou seja, em regra, por intermédio de advogado). Já a legitimidade pode ser conceituada como a aptidão para ocupar uma posição processual, ou seja, para a prática de ato específico, tudo conforme o escólio de Alexandre Freitas Câmara 3 :
+(..)
+Não se emerge, nos autos, contudo: representação de pessoa jurídica por pessoa física sem poderes para tanto; ou pessoa incapaz sem a devida representação ou assistência;
+ou pessoa sem aptidão para peticionar diretamente em juízo, sem advogado habilitado, por exemplo. O que se observa, em verdade, é a ausência de aptidão do Recorrente para figurar como tal.
+Nessa senda, resta evidente a impossibilidade de convalidação do erro, conforme já se manifestou o Pretório Excelso:
+(..)
+Ainda que assim não o fosse e se admitisse a correção do erro, ter-se-ia possível colisão entre os princípios da instrumentalidade das formas e da segurança jurídica. Explico.
+Se, de um lado, vislumbra-se possível afastamento de formalidades para o conhecimento do mérito recursal, em homenagem ao princípio da instrumentalidade das formas; de outro, tem-se a necessidade de respeito aos precedentes firmados pela Corte Suprema, em privilégio ao princípio da segurança jurídica (na sua vertente de previsibilidade do direito). Na hipótese, pois, de aparente conflito principiológico, a solução pode ser encontrada pela ponderação.
+Em razão da impossibilidade de identificação da norma aplicável pela subsunção, afigura-se a necessidade de análise das circunstâncias concretas do caso, a fim de se extrair, com uso da proporcionalidade, em que medida cada norma deve prevalecer e, na impossibilidade da referida gradação, qual merece aplicação ao caso posto. Acerca do tema, didática a lição de Luis Roberto Barroso 4 :
+(..)
+No caso em apreço, entendo merecer prevalência a segurança jurídica seja em face: i) da vasta jurisprudência acerca da matéria; ii) da adoção do entendimento há décadas;
+iii) da sua reafirmação até os dias atuais; e iii) dos precedentes serem oriundos do Tribunal Pleno da Corte Suprema do País. Isso tudo sem considerar, por óbvio, que não se trata de mero vício formal.
+A respeito do tema, o ilustre Ministro Luiz Fux, no julgamento da ADI 5267 ED- ED, brilhantemente sintetizou que:
+(..)
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, bem como com base em legislação local, matérias insuscetíveis de serem examinadas em sede de recurso especial.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
+EMENTA
