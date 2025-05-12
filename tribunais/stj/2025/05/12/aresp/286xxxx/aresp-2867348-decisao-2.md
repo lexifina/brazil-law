@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de agravo interposto por EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO GOIÁS cuja ementa guarda os seguintes termos (fls. 597-616):
+DUPLA APELAÇÃO CÍVEL. ACIDENTE DE TRÂNSITO. PRELIMINAR DE ILEGITIMIDADE ATIVA AFASTADA. COLISÃO DE NA TRASEIRA DE VEÍCULO ESTACIONADO À ESQUERDA DA PISTA DE ROLAMENTO PARA TROCA DE PNEU. SINALIZAÇÃO INSUFICIENTE. RECUSA DE SUBMETER-SE AO TESTE ETILÔMETRO. CONJUGAÇÃO DOS DEMAIS ELEMENTOS DE PROVAS. MOTORISTA PRESUMIVELMENTE ALCOOLIZADA. CULPA CONCORRENTE. FIXAÇÃO DA RESPONSABILIDADE NO PERCENTUAL DE 50% PARA CADA PARTE.
+1. Conforme precedentes do colendo STJ e desta eg. Corte, nas ações de reparação por danos materiais decorrentes de acidente de trânsito, é legitimada ativamente a pessoa que suportou o prejuízo com a reparação do dano. No caso em análise a condutora do automóvel, registrado em nome de terceiro, deverá arcar com as despesas necessárias ao conserto do veículo danificado, sendo, portanto, indiscutível a sua legitimação ativa.
+2. O colendo STJ possui entendimento no sentido de que a recusa em se submeter ao teste do etilômetro (bafômetro), por si só, não presume a embriaguez prevista no art. 165 do Código de Trânsito Brasileiro, no entanto, conjugado com outros meios de provas, é possível presumir que o condutor estava dirigindo sob influência de álcool.
+3. Para que haja configuração da responsabilidade civil, é necessário que estejam presentes simultaneamente a conduta (seja comissiva ou omissiva) ilícita, o nexo causai e o dano ou prejuízo, conforme estabelecido nos artigos 186 e 927 do Código Civil.
+4. No caso dos autos, a rodovia onde ocorreu o sinistro é de pista dupla e com duas faixas de rolamento, no entanto, não possui acostamento. O veículo do preposto da concessionária, ao trafegar na referida rodovia, teve o pneu traseiro esquerdo furado, ocasião em que o motorista estacionou a camionete na pista de rolamento da esquerda para fazer a troca em segurança, pois se o fizesse na pista da direito ficava exposto ao risco de atropelamento. Nessas circunstâncias, um veículo de passeio, conduzido pela apelada, colidiu na traseira da camionete, causando perda total do veículo e ferimentos na condutora.
+5. Com base no conjunto probatório dos autos, fica evidenciada a existência de culpa concorrente dos condutores dos veículos envolvidos na ocorrência do evento danoso, uma vez que, de um lado, não restou comprovado que o local estava devidamente sinalizado, logo, não restou configurada a excludente do art. 179, do CTB. Por outro lado, restou presumida a conduta da apelada de dirigir sob a influência de álcool, uma vez que, além de recursar a se submeter ao teste do etilômetro, os demais elementos de prova induz à presunção de que havia ingerido bebida alcoólica.
+6. ante a existência de culpa concorrente, impõe-se a readequação do percentual da culpa das partes envolvidas, fixando-se em 50% (cinquenta) por cento para cada parte, cujas condenações deverão obedecer ao referido percentual. 7. Em razão do parcial provimento dos apelos, não há falar em honorários recursais.
+APELAÇÕES CÍVEIS CONHECIDAS E PARCIALMENTE PROVIDAS.
+SENTENÇA REFORMADA, EM PARTE.
+Opostos embargos de declaração, o Tribunal de origem os rejeitou (fls. 656-675).
+No recurso especial, a parte recorrente alega, preliminarmente, ofensa ao art. 1.022 do CPC, pois o Tribunal de origem não teria se manifestado sobre pontos essenciais ao deslinde da controvérsia.
+Aduz, no mérito, violação dos arts. 186 e 927 do Código Civil, sustentando que não deu causa ao evento danoso, e que, portanto, não haveria que se falar em responsabilidade civil de sua parte, e ainda, que a recorrida estaria embriagada, o que por si já presumiria sua culpa exclusiva.
+Foram oferecidas contrarrazões ao recurso especial (fls. 706-720).
+Sobreveio juízo de admissibilidade negativo na instância de origem (fls. 866-873), o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta do agravo.
+É, no essencial, o relatório.
+Preenchidos os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+De início, não pr ospera a alegada violação do art. 1.022 do CPC, uma vez que deficiente sua fundamentação.
+Com efeito, a recorrente limitou-se a alegar, genericamente, ofensa ao referido dispositivo legal, sem explicitar os pontos em que o acordão recorrido teria sido omisso, contraditório ou obscuro, bem como a relevância do enfrentamento da legislação e das teses recursais não analisadas.
+A respeito de tais questões, esta Corte não pode e não deve decidir tateando no escuro, tentando identificar as supostas máculas do acórdão recorrido e os dispositivos tidos por violados. Essa tarefa é da recorrente, que não se desincumbe dela pelo fato isolado de apontar os dispositivos legais tidos por afrontados.
+As razões do recurso especial devem exprimir, com transparência e objetividade, os motivos pelos quais a agravante visa reformar o decisum. Ausente tal diretriz, incide o óbice da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, cito:
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, sem a demonstração dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência, por analogia, do óbice da Súmula 284/STF.
+(AgInt no AREsp n. 1.312.484/SP, relator Ministro Raul Araújo, Quarta Turma, DJEN de 25/3/2025.)
+2. Não se pode conhecer da apontada violação do art. 1.022, II, do CPC, porquanto as alegações que fundamentaram a suposta ofensa são genéricas, sem indicação efetiva dos pontos omissos, contraditórios ou obscuros. Tal deficiência, impede a abertura da instância especial, nos termos da Súmula n. 284 do STF, aplicável, por analogia, nesta Corte.
+(AgInt no AREsp n. 2.729.108/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJEN de 20/3/2025.)
+1. O recurso especial que indica violação do art. 1.022 do Código de Processo Civil, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+(AgInt no AREsp n. 2.681.064/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJEN de 5/3/2025.)
+Em relação à apontada ofensa aos arts. 186 e 927 do Código Civil, o recurso especial não merece prosperar, porquanto encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça, visto que alterar as premissas adotadas pelo Tribunal de origem acerca da responsabilidade civil e da culpa concorrente demandaria novo reexame de fatos e provas.
+Nesse sentido, confiram-se os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. RESPONSABILIDADE CIVIL. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DANOS MORAIS. VALOR. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Não cabe ao Superior Tribunal de Justiça se manifestar sobre suposta violação de dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 2.144.733/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 2/12/2024, DJEN de 9/12/2024.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de condenar em honorários recursais em razão da ausência de fixação da verba na origem (EDcl no AgInt no REsp n. 1.910.509/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/11/2021).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. RESPONSABILIDADE CIVIL. CULPA CONCORRENTE. REVISÃO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
