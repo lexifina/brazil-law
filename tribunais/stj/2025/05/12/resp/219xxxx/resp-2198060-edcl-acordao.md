@@ -1,0 +1,89 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAIS. AUSÊNCIA DE VÍCIOS NO JULGADO. REJEIÇÃO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos a acórdão que não conheceu de recurso especial com fundamento nas Súmulas n. 283 e 284 do STF e 7 do STJ.
+2. O recurso especial foi interposto contra acórdão que, em apelação nos autos de embargos de terceiro, acolheu o pedido para desconstituir a penhora incidente sobre imóvel e condenou apenas uma das embargadas ao pagamento dos ônus sucumbenciais, afastando a condenação dos demais embargados.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve omissão no acórdão ao não conhecer do recurso que buscava afastar a condenação ao pagamento dos ônus sucumbenciais em embargos de terceiro, sob o fundamento de desídia do proprietário na atualização dos dados registrais e de ausência de resistência da parte embargada ao levantamento da indisponibilidade.
+III. RAZÕES DE DECIDIR
+4. O acórdão recorrido não apresenta omissão, contradição, obscuridade ou erro material, tendo analisado, de forma fundamentada, todas as questões suscitadas.
+5. O acórdão embargado consignou que a pretensão não merecia conhecimento por falta de interesse recursal e por deficiência de fundamentação, atraindo a aplicação das Súmulas n. 283 e 284 do STF, uma vez que a Corte de origem reconhecera expressamente que somente uma das embargadas deveria arcar com os ônus sucumbenciais, afastando, assim, a condenação anteriormente imposta à recorrente. Além disso, destacou que, devido ao caráter factual das premissas adotadas, rever as conclusões do acórdão recorrido para acolher a tese recursal de indevida distribuição dos ônus sucumbenciais importaria no revolvimento de fatos e provas dos autos, atraindo a aplicação da Súmula n. 7 do STJ.
+6. A irresignação com o entendimento adotado não configura vício sanável por embargos de declaração, que não se prestam à reforma do julgado ou ao rejulgamento da causa.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado. 2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado".
+________________________________________________________________
+Dispositivo relevante citado: CPC, art. 1.022.
+Jurisprudência relevante citada: STJ, AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, julgado em 16/11/1994; EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1º/12/2021; STJ, EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020.
+RELATÓRIO
+ALDA MARTINS BRANCO opõe embargos declaratórios ao acórdão assim ementado (fls. 619-620).
+RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAIS. RECURSO NÃO CONHECIDO.
+I. CASO EM EXAME
+1. Recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso em apelação nos autos de embargos de terceiro, que acolheu o pedido para desconstituir a penhora incidente sobre imóvel e condenou apenas uma das embargadas ao pagamento dos ônus sucumbenciais, afastando a condenação dos demais embargados.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se é possível afastar a condenação ao pagamento dos ônus sucumbenciais em embargos de terceiro, sob o fundamento de desídia do proprietário na atualização dos dados registrais e a ausência de resistência do embargado quanto ao levantamento da indisponibilidade.
+III. RAZÕES DE DECIDIR
+3. O pagamento dos ônus sucumbenciais decorre de expressa previsão legal e independe do comportamento subjetivo processual das partes, derivando da relação de causa e efeito entre o comparecimento das partes em juízo e o resultado dessa atuação.
+4. A instância de origem consignou que somente uma das embargadas deveria arcar com os ônus sucumbenciais, afastando a condenação anteriormente imposta à ora recorrente.
+5. A argumentação da recorrente não infirma as premissas que orientaram o entendimento da Corte de origem, atraindo a aplicação das Súmulas n. 283 e 284 do STF.
+6. Falta interesse recursal à recorrente para postular o afastamento da condenação atribuída a terceiro.
+7. Ainda que superados os óbices de admissibilidade, rever as conclusões do acórdão recorrido para acolher a tese recursal de indevida distribuição dos ônus sucumbenciais importaria no revolvimento de fatos e provas dos autos, o que atrai a incidência da Súmula n. 7 do STJ.
+IV. DISPOSITIVO E TESE
+9. Recurso não conhecido.
+Tese de julgamento: "1. É inadmissível o recurso especial quando não infirmadas, especificamente, as premissas que orientaram o entendimento firmado pelo tribunal de origem, caracterizando deficiência na fundamentação. 2. Falta interesse recursal à parte que não foi condenada ao pagamento dos ônus sucumbenciais. 3. A revisão de conclusões do acórdão recorrido atrai a incidência da Súmula n. 7 do STJ".
+Dispositivos relevantes citados: CPC, arts. 85, 927, III e IV.
+Jurisprudência relevante citada: STF, Súmulas n. 283 e 284; STJ, Súmula n. 7; STJ, AgInt no AREsp n. 2.263.465/PR, de minha relatoria Quarta Turma, julgado em 12/3/2024; STJ, REsp n. 1.452.840/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 14/9/2016; STJ, AgInt no AgInt no REsp n. 1.972.497/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/8/2024; STJ, AgInt no RMS n. 40.368/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023; STJ, AgRg no AREsp n. 568.443/SP, de minha relatoria, Terceira Turma, julgado em 2/6/201.
+Alega que o acórdão incorreu em omissão, pois remanesce o interesse recursal acerca da condenação do embargado ao pagamento dos honorários sucumbenciais, por não regularizar a propriedade, incidindo na espécie a Súmula n. 303 do STJ.
+Defende ainda não serem aplicáveis ao caso as Súmulas n. 283 e 284 do STF e 7 do STJ.
+Requer o acolhimento dos embargos declaratórios para que seja sanado o vício alegado, bem como para que haja prequestionamento.
+Não foram apresentadas contrarrazões (fl. 642).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ÔNUS SUCUMBENCIAIS. AUSÊNCIA DE VÍCIOS NO JULGADO. REJEIÇÃO.
+I. CASO EM EXAME
+1. Embargos de declaração opostos a acórdão que não conheceu de recurso especial com fundamento nas Súmulas n. 283 e 284 do STF e 7 do STJ.
+2. O recurso especial foi interposto contra acórdão que, em apelação nos autos de embargos de terceiro, acolheu o pedido para desconstituir a penhora incidente sobre imóvel e condenou apenas uma das embargadas ao pagamento dos ônus sucumbenciais, afastando a condenação dos demais embargados.
+II. QUESTÃO EM DISCUSSÃO
+3. A questão em discussão consiste em saber se houve omissão no acórdão ao não conhecer do recurso que buscava afastar a condenação ao pagamento dos ônus sucumbenciais em embargos de terceiro, sob o fundamento de desídia do proprietário na atualização dos dados registrais e de ausência de resistência da parte embargada ao levantamento da indisponibilidade.
+III. RAZÕES DE DECIDIR
+4. O acórdão recorrido não apresenta omissão, contradição, obscuridade ou erro material, tendo analisado, de forma fundamentada, todas as questões suscitadas.
+5. O acórdão embargado consignou que a pretensão não merecia conhecimento por falta de interesse recursal e por deficiência de fundamentação, atraindo a aplicação das Súmulas n. 283 e 284 do STF, uma vez que a Corte de origem reconhecera expressamente que somente uma das embargadas deveria arcar com os ônus sucumbenciais, afastando, assim, a condenação anteriormente imposta à recorrente. Além disso, destacou que, devido ao caráter factual das premissas adotadas, rever as conclusões do acórdão recorrido para acolher a tese recursal de indevida distribuição dos ônus sucumbenciais importaria no revolvimento de fatos e provas dos autos, atraindo a aplicação da Súmula n. 7 do STJ.
+6. A irresignação com o entendimento adotado não configura vício sanável por embargos de declaração, que não se prestam à reforma do julgado ou ao rejulgamento da causa.
+IV. DISPOSITIVO E TESE
+7. Embargos de declaração rejeitados.
+Tese de julgamento: "1. Os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado. 2. Os aclaratórios têm finalidade integrativa, por isso não se prestam a revisar questões já decididas para alterar entendimento anteriormente aplicado".
+________________________________________________________________
+Dispositivo relevante citado: CPC, art. 1.022.
+Jurisprudência relevante citada: STJ, AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, julgado em 16/11/1994; EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1º/12/2021; STJ, EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020.
+VOTO
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a aclarar obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Ao contrário do que se afirma nas razões recursais, a questão levantada -possibilidade de afastar a condenação ao pagamento dos ônus sucumbenciais em embargos de terceiro, sob o fundamento de desídia do proprietário na atualização dos dados registrais e de ausência de resistência do embargado quanto ao levantamento da indisponibilidade - foi devidamente analisada, com justificativas fundamentadas para as conclusões adotadas.
+Primeiro, quanto à falta de interesse recursal e à deficiência de fundamentação, aplicam-se ao caso as Súmulas n. 283 e 284 do STF, uma vez que a Corte de origem reconheceu expressamente que somente uma das embargadas deveria arcar com os ônus sucumbenciais, afastando, assim, a condenação anteriormente imposta à recorrente.
+Segundo, devido ao caráter factual das premissas adotadas, pois rever as conclusões do acórdão recorrido para acolher a tese recursal de indevida distribuição dos ônus sucumbenciais importaria no revolvimento de fatos e provas dos autos, atraindo a aplicação da Súmula n. 7 do STJ.
+Confira-se trecho do julgado (fls. 625-629, destaquei):
+O pagamento dos ônus sucumbenciais decorre de expressa previsão legal e independe do comportamento subjetivo processual das partes, derivando da relação de causa e efeito entre o comparecimento das partes em juízo e o resultado dessa atuação, mediante a verificação da sucumbência e a aplicação do princípio da causalidade (AgInt no AREsp n. 2.263.465/PR, de minha relatoria, Quarta Turma, julgado em 12/3/2024, DJe de 14/3/2024).
+Como regra, "em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios" (Súmula n. 303 do STJ).
+Entretanto, a Primeira Seção desta Corte, em julgamento de recurso repetitivo (Tema n. 872), fixou entendimento de que, "nos embargos de terceiro cujo pedido foi acolhido para desconstituir a constrição judicial, os honorários advocatícios serão arbitrados com base no princípio da causalidade, responsabilizando-se o atual proprietário (embargante), se este não atualizou os dados cadastrais. Os encargos de sucumbência serão suportados pela parte embargada, porém, na hipótese em que esta, depois de tomar ciência da transmissão do bem, apresentar ou insistir na impugnação ou recurso para manter a penhora sobre o bem cujo domínio foi transferido para terceiro" (REsp n. 1.452.840/SP, relator Ministro Herman Benjamin, Primeira Seção, julgado em 14/9/2016, DJe de 5/10/2016).
+No caso em análise, o Tribunal de origem, aplicando o princípio da causalidade, concluiu que somente a embargada Maria Sonia Castro Branco deveria arcar com a verba da sucumbência, afastando, assim, a condenação anteriormente imposta aos demais embargados. Confira-se (fls. 375-376, destaquei):
+Quanto ao ônus da sucumbência, devo ressaltar que não é caso de aplicação do Tema Repetitivo do 872 do STJ, pois a herdeira do proprietário da PLANO INCORPORADORA E CONSTRUTORA LTDA - Maria Sonia Castro Branco - no processo cautelar n. 0003767-52.2014.8.11.0041, visando a indisponibilidade dos bens do espólio administrados pelos embargados João de Castro Branco e Alda Martins Branco, diante da não prestação de contas, pleiteou a constrição dos bens que estavam em nome dos referidos embargados e em nome das empresas AGROPECUÁRIA E COLONIZADORA ALIANÇA LTDA e da PLANO INCOPORPORADORA E CONSTRUTORA LTDA à constrição, o que foi deferido.
+Portanto, apenas Maria Sonia Castro Branco deve arcar com o ônus de sucumbência.
+Contudo, o valor dessa verba deve ser reduzida de R$5.000,00 para R$3.000,00, diante da simplicidade da causa, suspensa, porém, a exigibilidade, por ser beneficiária da justiça gratuita.
+Diante do exposto, dou parcial provimento ao Recurso de Alda Maria Castro Branco, apenas para esclarecer que Maria Sonia Castro Branco deve arcar com a verba da sucumbência.
+Observa-se, assim, que a instância de origem consignou expressamente que somente a embargada Maria Sonia Castro Branco deveria arcar com os ônus sucumbenciais, ficando afastada a condenação anteriormente imposta à embargada Alda Martins Branco.
+A argumentação da recorrente - de ser necessário o afastamento da condenação ao pagamento dos ônus sucumbenciais - não infirma, devidamente, as premissas que orientaram o entendimento da Corte de origem, o que, nos termos da jurisprudência desta Corte, atrai a aplicação das Súmulas n. 283 ("é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles") e 284 ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia") do STF.
+Acrescenta-se ainda que, segundo a jurisprudência desta Corte, o exame do interesse da parte em recorrer deve conjugar o binômio necessidade-utilidade (AgInt no AgInt no REsp n. 1.972.497/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 26/8/2024, DJe de 29/8/2024; AgInt no RMS n. 40.368/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023).
+A questão da sucumbência, portanto, deve ser analisada sob a perspectiva da possibilidade de melhora da situação jurídica da parte recorrente, critério de identificação do interesse recursal.
+No caso, conforme acima reproduzido, houve a reforma parcial da sentença para afastar a sucumbência anteriormente imposta a Alda Martins Branco.
+Assim, falta interesse recursal à recorrente para postular o afastamento da condenação que foi atribuída na instância de origem, exclusivamente, à embargada Maria Sonia Castro Branco.
+Nesse sentido:  ..
+Por fim, ainda que eventualmente se considerasse superados os já citados óbices de admissibilidade, registre-se que, por ser manifesto o caráter fático-probatório das premissas que orientaram o acórdão recorrido, rever tais conclusões para acolher a tese recursal de indevida distribuição dos ônus de sucumbência, bem como aferir ser houve resistência do embargado ou desídia na atualização dos dados registrais, importaria no revolvimento de fatos e provas dos autos, o que atrairia a incidência da Súmula n. 7 do STJ.
+Nesse sentido: AgInt nos EDcl no AREsp n. 2.070.370/SP, de minha relatoria, Quarta Turma, julgado em 3/6/2024, DJe de 6/6/2024; AgInt no AREsp n. 1.518.247/CE, relator Ministro Raul Araújo, Quarta Turma, julgado em 13/5/2024, DJe de 17/5/2024; AgInt no AREsp n. 2.355.302/SP, de minha relatoria, Quarta Turma, julgado em 26/2/2024, DJe de 28/2/2024; AgInt no REsp n. 1.821.656/PR, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 11/5/2020, DJe de 14/5/2020.
+Assim, não há irregularidade sanável por meio dos presentes embargos, pois toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição (obscuridade, contradição, omissão e erro material).
+Por outro lado, se a conclusão ou os fundamentos adotados não foram corretos na opinião da parte embargante, não significa que não existam ou que configurem algum vício. Afinal, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte (AgRg no Ag n. 56.745/SP, relator Ministro Cesar Asfor Rocha, julgado em 16/11/1994, DJ de 12/12/1994).
+Ressalte-se que a mera irresignação da parte embargante com o entendimento que embasou o julgamento do recurso não viabiliza a oposição dos aclaratórios, que têm finalidade integrativa e, portanto, não se prestam à reforma do entendimento adotado ou ao rejulgamento da causa (EDcl no AgInt nos EAREsp n. 1.623.529/DF, relator Ministro Og Fernandes, Corte Especial, julgados em 1º/12/2021, DJe de 15/12/2021; EDcl no AgRg no RE nos EDcl no AgRg nos EDcl no AREsp n. 1.571.819/RJ, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, julgado em 25/8/2020, DJe de 28/8/2020).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
