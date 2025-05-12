@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DAVI ILDEFONSO DA SILVA, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo (HC n. 50156133920248080000).
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão e 417 dias-multa, em regime inicial fechado, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+A defesa sustenta que a segregação cautelar do paciente após a prolação de sentença condenatória recorrível configura constrangimento ilegal, sobretudo porque a decisão judicial deixou de aplicar o redutor do § 4º do art. 33 da Lei n. 11.343/2006 com base em presunções infundadas, contrariando a jurisprudência consolidada do Superior Tribunal de Justiça (fl. 4).
+Afirma que o paciente é réu primário, não possui antecedentes criminais, e foi surpreendido com quantidade não expressiva de entorpecentes (fl. 4).
+Argumenta que a jurisprudência desta Corte Superior é firme no sentido de que, isoladamente, a quantidade de droga e a gravidade abstrata do delito não são suficientes para afastar a aplicação do redutor, tampouco justificar a prisão cautelar (fl. 4).
+Requer a concessão definitiva da ordem, revogando a prisão preventiva imposta ao paciente e assegurando-lhe o direito de aguardar em liberdade o julgamento final do processo, especialmente diante da ilegalidade evidenciada e da ausência de fundamentos concretos para justificar a segregação cautelar (fl. 5).
+É o relatório.
+Do atento exame dos autos observo que a segregação cautelar do acusado se encontra assim fundamentada (fl. 9):
+Em cotejo ao processado, verifico que o magistrado, no ato de conversão da prisão em flagrante em preventiva, trouxe os seguintes apontamentos para justificá-la:
+ ..  o autuado foi preso em flagrante após ter se furtado da abordagem policial, sendo apreendido consigo uma bolsa contendo 22 pinos de cocaína, 17 pinos da mesma substância e valor em espécie. Em pesquisas realizadas nos sistemas judiciais foram encontrados registros criminais do indiciado, sendo: (1) auto de prisão em flagrante e possui registro no sistema infopen  ..  Dessa forma, a liberdade do autuado, neste momento, se mostra temerária e a prisão preventiva oportuna, salientando a reiteração delitiva do indiciado, que demonstra que medidas cautelares diversas da prisão se revelaram inócuas para resguardar a ordem pública.  ..
+Como se vê, a imposição da prisão preventiva se encontra adequadamente fundamentada a partir da análise particularizada da situação fática dos autos, tendo sido amparada no risco concreto de reiteração delitiva, notadamente porque o autuado ostenta antecedentes criminais, o que justifica a custódia cautelar, nos termos da jurisprudência do Superior Tribunal de Justiça, como forma de resguardar a ordem pública.
+Com efeito, a jurisprudência desta Corte Superior compreende que a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/5/2022).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS QUE DENOTAM A NECESSIDADE DA CUSTÓDIA PARA A GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
