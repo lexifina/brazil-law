@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRELIMINAR. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. MÉRITO. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155, 156, 239, 413, CAPUT E § 1º, TODOS DO CPP, E 121, § 2º, DO CP. PLEITO DE IMPRONÚNCIA EM RAZÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA E DE PROVA JUDICIALIZADA. QUESTÃO DECIDIDA NO JULGAMENTO DO HC N. 817.801/AL. PREJUDICIALIDADE. SUPOSTA ILEGALIDADE NA MANUTENÇÃO DAS QUALIFICADORAS E NA IMPOSIÇÃO DE MONITORAMENTO ELETRÔNICO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Edilson Soares Julio contra a decisão monocrática de minha lavra, assim ementada (fl. 283):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155, 156, 239, 413, CAPUT E § 1º, TODOS DO CPP, E 121, § 2º, DO CP. PLEITO DE IMPRONÚNCIA EM RAZÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA E PROVA EM JUÍZO. QUESTÃO DECIDIDA NO JULGAMENTO DO HC N. 817.801/AL. PLEITO PREJUDICADO. EXCLUSÃO QUALIFICADORAS E REVOGAÇÃO MEDIDA CAUTELAR. FALTA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO DO ART. 619 DO CPP. SÚMULA 211/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Preliminarmente, o agravante suscitou ofensa ao princípio da colegialidade decorrente do julgamento monocrático do recurso especial.
+No mérito, alegou que a questão suscitada no especial é mais ampla do aquela veiculada no habeas corpus julgado anteriormente, pois, no presente, também se sustenta a nulidade da decisão de pronúncia por se basear em prova exclusiva de inquérito policial, por inteligência da teoria do fruto da árvore envenenada (fl. 296).
+Asseverou, ainda, que, naquela oportunidade em que supostamente julgou a mesma matéria por meio habeas corpus, a própria decisão colegiada deixou claro, ao denegar a ordem, que aquele remédio constitucional (HC) não seria a via eleita e mais adequada para deliberar sobre o tema (fl. 296).
+No mais, rechaçou os óbices que fundou a inadmissão do recurso especial (falta de prequestionamento), bem como a Súmula 7/STJ, pugnando pela reforma da decisão agravada.
+É o relatório
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRELIMINAR. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. IMPROCEDÊNCIA. MÉRITO. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. VIOLAÇÃO DOS ARTS. 155, 156, 239, 413, CAPUT E § 1º, TODOS DO CPP, E 121, § 2º, DO CP. PLEITO DE IMPRONÚNCIA EM RAZÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA E DE PROVA JUDICIALIZADA. QUESTÃO DECIDIDA NO JULGAMENTO DO HC N. 817.801/AL. PREJUDICIALIDADE. SUPOSTA ILEGALIDADE NA MANUTENÇÃO DAS QUALIFICADORAS E NA IMPOSIÇÃO DE MONITORAMENTO ELETRÔNICO. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.
+Agravo regimental improvido.
+VOTO
+A insurgência defensiva não merece acolhida.
+O julgamento monocrático do recurso, com base em verbete sumular ou na jurisprudência dominante do Superior Tribunal de Justiça, não constitui ofensa ao princípio da colegialidade, nos termos do art. 932, IV, a, do Código de Processo Civil de 2015 e da Súmula 568/STJ (AgInt no REsp n. 1.586.240/SP, Ministro Og Fernandes, Segunda Turma, DJe 13/3/2018).
+E, no caso, a decisão agravada está calcada em precedentes desta Corte Superior, circunstância que autoriza o julgamento monocrático. De todo modo, a referida alegação fica prejudicada diante da submissão do recurso (agravo regimental) ao colegiado.
+Nesse sentido, confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ORDINÁRIO. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO REGIMENTAL. TESE DE VIOLAÇÃO AOS PRINCÍPIOS DA COLEGIALIDADE E DA AMPLA DEFESA. ARTS. 34, XX, E 202 DO RISTJ. NÃO OCORRÊNCIA. INTERPOSIÇÃO DO AGRAVO REGIMENTAL. SUPERAÇÃO DE EVENTUAIS VÍCIOS. ODEBRECHT. SISTEMA DE CONTABILIDADE. DOCUMENTOS ELETRÔNICOS. PEDIDO DE REALIZAÇÃO DE NOVA PERÍCIA. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL E AO CONTRADITÓRIO. DESNECESSIDADE. PROVA EMPRESTADA. CONTRADITÓRIO DIFERIDO. VALIDADE. ART. 400, § 1º, DO CPP. DILIGÊNCIA REPUTADA DISPENSÁVEL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - A interposição do agravo regimental torna superada a alegação de afronta aos princípios do juiz natural e da colegialidade e torna prejudicados eventuais vícios relacionados ao julgamento monocrático, tendo em vista que, com o agravo, devolve-se ao órgão colegiado competente a apreciação do mérito da ação, do recurso ou do incidente.
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC n. 140.259/PR, Ministro Felix Fischer, Quinta Turma, DJe 9/4/2021 - grifo nosso)
+No mérito, a decisão agravada deve ser mantida.
+Nas razões do recurso especial, a defesa do agravante suscitou violação dos arts. 155, 156, 239, 413, caput e § 1º, todos do Código de Processo Penal; e 121, § 2º, do Código Penal.
+No que se refere à suposta violação dos arts. 155, 156, 239, 413, caput e § 1º, todos do Código de Processo Penal; e 121, § 2º, do Código Penal, verifica-se que a questão deduzida, sobre a insuficiência de provas em juízo para pronúncia, já foi objeto do HC n. 817.801/AL, impetrado em benefício da parte ora agravante, no qual a ordem foi denegada nos termos da seguinte ementa (fl. 311 daqueles autos):
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. PRONÚNCIA. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS DA AUTORIA. IMPROCEDÊNCIA. DECISÃO BASEADA EM ELEMENTOS DE CONVICÇÃO PRODUZIDOS EM JUÍZO. SUFICIÊNCIA DE INDÍCIOS DA AUTORIA. CONCLUSÃO INVERSA. REEXAME DE PROVAS. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
+A fundamentação expendida naquela decisão abrange integralmente a tese veiculada no presente recurso, nesse tópico, inclusive porque foi analisada e rechaçada a alegação defensiva no sentido de ausência de prova judicializada para fins de pronúncia (trecho extraído da decisão exarada no julgamento do HC n. 817.801/AL):
+ ..
+No acórdão confirmatório da pronúncia, também se verifica a menção à prova judicial (fl. 204).
+Do atento exame dos trechos transcritos observa-se que as instâncias ordinárias fundamentaram a convicção, a respeito da necessidade de submissão do acusado a julgamento pelo Tribunal do Júri, em elementos de informação condizentes com as provas judicializadas, produzidas durante a instrução, em especial o depoimento de Francisco Soares em juízo, corroborado pela oitiva da vítima sobrevivente, na fase policial. A testemunha Rinaldo Mendes da Costa (pai da vítima fatal), a quem Francisco Soares se referiu em seu depoimento, veio a falecer, razão pela qual não foi ouvido em juízo.
+ ..
+Nesse cenário, não há dúvida de que esse tópico da insurgência ficou prejudicado, pois o STJ não tem competência para rever seus julgados em habeas corpus.
+Sobre o tema, confira-se o AgRg no AREsp n. 87.619/PA, de minha relatoria,
+Sexta Turma, julgado em 14/5/2013, DJe 23/5/2013.
+De outra parte, no que se refere aos pleitos de exclusão das qualificadoras e de revogação do monitoramento eletrônico, a insurgência é igualmente inadmissível, pois a Corte de origem não debateu essas questões sob o enfoque pretendido pelo agravante.
+Embora o Tribunal de Justiça local tenha cotejado as provas que reputou suficientes para pronúncia, não analisou especificamente a questão referente às qualificadoras, tampouco a adequação da medida cautelar aplicada ao agravante.
+Observa-se, portanto, que o Tribunal de origem não decidiu a quaestio iuris especificamente apontada pela defesa, inexistindo, então, o prequestionamento da matéria nos acórdãos recorridos, nos termos da Súmula 211/STJ, a despeito da oposição de embargos de declaração:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. SALDO DEVEDOR RESIDUAL DO FCVS. PRESCRIÇÃO. RECURSO ESPECIAL. ÓBICES DE ADMISSIBILIDADE. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA N. 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não obstante o recurso especial alegue violação do art. 1.022 do Código de Processo Civil, não especifica quais os pontos do acórdão recorrido em relação aos quais haveria omissão, contradição, obscuridade, tampouco a relevância da análise dessas questões para o caso concreto, atraindo a aplicação da Súmula n. 284 do STF.
+2. O Tribunal de origem não apreciou a tese de prescrição do crédito objeto da cobrança, ao menos sob o enfoque trazido no recurso especial, vale dizer, sua iliquidez e incerteza, e a parte recorrente não suscitou a questão em seus embargos de declaração, motivo pelo qual está ausente o necessário prequestionamento, nos termos das Súmulas n. 282 e 356, ambas do STF.
+3. A inviabilidade da análise dos dispositivos que estipulam o prazo prescricional tornam, na espécie, prejudicados os fundamentos atinentes ao respectivo termo a quo e, portanto, obstada o exame da alegada violação do art. 189 do Código Civil.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.859.677/RS, Ministro Teodoro Silva Santos, Segunda Turma, julgado em 29/4/2024, DJe 7/5/2024 - grifo nosso).
+Com efeito, o entendimento consolidado e reiterado do Superior Tribunal de Justiça é no sentido de ser inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ (AgRg no EREsp n. 1.138.634/RS, Ministro Aldir Passarinho Júnior, Corte Especial, DJe 19/10/2010).
+Em reforço: AgRg no REsp n. 1.850.296/PR, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020; e AgRg no REsp n. 2.004.417/MT, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe 16/8/2022.
+Ademais, o caso não comporta a aplicação do art. 1.025 do Código de Processo Civil, ante a ausência de indicação de ofensa ao art. 619 do Código de Processo Penal nas razões recursais, condição indispensável para o reconhecimento de omissão apta a firmar a existência de prequestionamento ficto.
+Nesse sentido:
+ ..
+1. O Tribunal de origem não se pronunciou sobre a matéria versada no art. 537 do CPC/2015, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+2. Este Egrégio Tribunal possui o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+ ..  (AgInt no AREsp n. 1.287.195/AM, Ministro Sérgio Kukina, Primeira Turma, DJe 26/2/2019 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. AGRAVO EM RECURSO ESPECIAL. FINALIDADE DE DESTRANCAR O APELO ESPECIAL. OMISSÃO DO ACORDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. DEFERIMENTO DE DILIGÊNCIAS. DISCRICIONARIEDADE REGRADA DO JULGADO R. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O conhecimento do agravo em recurso especial não impede a aplicação do enunciado sumular n. 7 desta Corte ao recurso especial, tendo em vista que a finalidade do agravo em recurso especial é unicamente destrancar o apelo especial obstado na origem, mediante impugnação a todos os fundamentos que sustentaram a sua inadmissão.
+2. Se houve omissão na análise de tese defensiva, é pertinente a indicação de ofensa ao art. 619 do Código de Processo Penal, sendo descabido o apontamento de violação ao art. 381, III, do CPP, pois tal preceito diz respeito ao conteúdo da sentença condenatória e não do acórdão recorrido. Incidência da Súmula 284/STF.
+3. Nos termos da jurisprudência desta Corte, "O deferimento de diligências é ato que se inclui na esfera de discricionariedade regrada do juiz natural do processo, com opção de indeferi-las, motivadamente, quando julgar que são protelatórias ou desnecessárias e sem pertinência com a sua instrução (REsp 1520203/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/9/2015, DJe 1/10/2015)" (AgRg no AREsp 1242011/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 29/4/2019).
+4. No que tange ao pleito absolutório, o Tribunal a quo, soberano na análise das circunstâncias fático-probatórias, concluiu que existem nos autos elementos suficientes para embasar o édito condenatório.
+Nesse contexto, o exame de sua insuficiência, esbarra necessariamente no óbice da Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.785.189/CE, Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/9/2021, DJe 24/9/2021 - grifo nosso).
+Em face do exposto, nego provimento ao agravo regimental.
