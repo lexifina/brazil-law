@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por LEONARDO RAFAEL AMARISTA MARTINEZ contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA que não admitiu o recurso especial.
+O agravante inicialmente foi condenado pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 12 da Lei n. 10.826/2003, na forma do art. 69 do Código Penal, às penas de 06 (seis) anos e 08 (oito) meses de reclusão em regime inicial semiaberto e 01 (um) ano de detenção em regime aberto, e ao pagamento de 610 dias-multa (fls. 333-340).
+O Tribunal local deu parcial provimento ao recurso da defesa para redimensionar a pena para 06 (seis) anos e 03 (três) meses de reclusão e 01 (um) ano de detenção e ao pagamento de 560 (quinhentos e sessenta) dias-multa (fls. 446-456).
+Irresignado, o agravante interpôs recurso especial, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando a negativa de vigência ao art. 33, § 4º, da Lei n. 11.343/2006, em razão da não aplicação do tráfico privilegiado (fls. 465-472).
+O recurso foi inadmitido na origem, por incidência da Súmula n. 7, STJ, que veda o reexame de provas em sede de recurso especial (fls. 501-504).
+No presente agravo, a defesa sustenta que o recurso especial deveria ter sido admitido, tendo em vista que não há necessidade de revolvimento fático-probatório, mas sim uma análise da aplicação do art. 33, § 4º, da Lei n. 11.343/2006 (fls. 513-518).
+O Ministério Público do Estado de Roraima apresentou contrarrazões, defendendo a manutenção da decisão que inadmitiu o recurso especial, alegando que a intenção do recorrente é rediscutir a prova dos autos, providência vedada em sede de recurso especial (fls. 491-497).
+O Tribunal de Justiça local manteve a decisão agravada e encaminhou o recurso ao Superior Tribunal de Justiça (fls. 535).
+O Ministério Público Federal se manifestou pelo conhecimento do agravo e pelo não provimento do recurso especial, afirmando que a intenção do recorrente é rediscutir a prova dos autos, providência vedada em sede de recurso especial, conforme disposto na Súmula 7 do STJ (fls. 553-554).
+É o relatório. DECIDO.
+Entendo que, no agravo, o recorrente rechaçou os fundamentos de inadmissão do apelo especial.
+Todavia, o recurso especial não deve ser conhecido, uma vez que, como bem fundamentado pela Corte de origem, a impossibilidade de seguimento do recurso se deu com base na incidência da Súmula n. 7, STJ.
+A questão controvertida consiste na possibilidade de aplicação, ao caso concreto, do art. 33, § 4º, da Lei n. 11.343/2006.
+Para tanto, sustenta o agravante, em síntese, que "para a análise do recurso especial, não é necessário revisar as provas produzidas nos autos. Basta uma análise aprofundada do acórdão para constatar que o fundamento utilizado para a inaplicabilidade do art. 33, § 4.º, da Lei n.º 11.343/06 se limitou à quantidade e à natureza da substância apreendida."
+Aduz, ainda, que "conforme entendimento consolidado pelo Superior Tribunal de Justiça (STJ), configura constrangimento ilegal o afastamento do tráfico privilegiado com base exclusivamente na análise da natureza ou da quantidade de drogas apreendidas".
+O Tribunal de origem negou o reconhecimento do tráfico privilegiado em razão dos seguintes fundamentos (fls. 451-453):
+" ..  Por outro lado, aduz a defesa que o apelante faz jus à aplicação da causa de diminuição do art. 33, § 4.º, da Lei n.º 11.343/06 (tráfico privilegiado), vez que a natureza e quantidade da droga serviram para exasperar a pena-base e, ao mesmo tempo, para negar o benefício.
+Não lhe assiste razão.
+No caso dos autos, verifica-se que o Magistrado deixou de reconhecer o tráfico privilegiado não só em razão da expressiva quantidade e da natureza deletéria da droga (cerca de 4 kg de cocaína), mas também pela apreensão de instrumentos utilizados nas atividades relacionadas ao tráfico de drogas, como balança de precisão, celulares e quantia em dinheiro, o que evidencia a habitualidade delitiva.
+ ..
+Tal entendimento está em harmonia com a jurisprudência do Superior Tribunal de Justiça, no sentido de que "consideram-se como outros elementos para afastar a minorante o "modus operandi", a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições, especialmente quando o tráfico foi praticado no contexto de delito de armas ou quando ficar evidenciado, de modo fundamentado, o envolvimento do agente com organização criminosa" (STJ, AgRg no AgRg no HC n. 613.653/MS, Relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+ ..
+Além disso, a condenação simultânea pelo crime de posse irregular de arma de fogo e munições de uso permitido (uma pistola 9mm, 35 munições cal. 9mm e 25 munições cal. 38) também demonstra a dedicação às atividades criminosas, razão pela qual mostra-se inviável o reconhecimento do tráfico privilegiado, diante do não preenchimento dos requisitos legais.  .. ".
+Deste modo, ao contrário do que sustentado pela defesa, não foi somente a quantidade ou natureza da droga que justificou o afastamento da minorante do tráfico privilegiado, mas, como se viu, a apreensão de instrumentos utilizados nas atividades relacionadas ao tráfico de drogas e a constatação de que o agravante se dedicação às atividades criminosas.
+Em hipóteses similares, esta Corte tem precedente rejeitando a possibilidade de aplicação do redutor, como se vê dos seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIMES DE TRÁFICO DE DROGAS E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. TESES DE NULIDADE DAS BUSCAS PESSOAL E DOMICILIAR, BEM COMO DE AUSÊNCIA DE OFERECIMENTO DE PROPOSTA DE ANPP. SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. PROVIDÊNCIA INVIÁVEL NA VIA ELEITA. IMPOSSIBILIDADE DE INFIRMAR AS CONCLUSÕES DA INSTÂNCIA DE ORIGEM. DOSIMETRIA. REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. PACIENTE QUE SE DEDICA À ATIVIDADE CRIMINOSA. DIVERSIDADE E QUANTIDADE DE DROGAS APREENDIDAS. PETREECHOS DE MERCANCIA E CIRCUNSTÂNCIAS DA PRISÃO. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. Como é cediço, a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+5. Ao contrário do alegado, o redutor do tráfico privilegiado foi devidamente afastado pelas instâncias ordinárias, tendo em vista a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes, como balança de precisão e embalagens, além de uma arma de fogo municiada e da expressiva quantidade drogas (mais de 50 kg de cocaína), o que evidencia o envolvimento habitual do agente com a narcotraficância.
+ .. "
+(AgRg no HC n. 965.084/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/2/2025, DJEN de 5/3/2025.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS E IDÔNEAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE SE DEDICAVA A ATIVIDADES CRIMINOSAS. SÚMULA N. 7 DO STJ. RECURSO DESPROVIDO.
+1. A incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 pressupõe que o agente preencha os seguintes requisitos:
+a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+2. No caso concreto, foram apreendidos 15 Kg de maconha (entre seu estado in natura e pronto para consumo), além de maquinário, aparelhos, instrumentos e objetos destinados à preparação, produção e transformação da droga, elementos que não se compatibilizam com a posição de um pequeno traficante ou de quem não se dedica a atividades criminosas.
+3. Maiores digressões sobre o tema encontram óbice no enunciado n. 7 da Súmula do STJ, por demandar minucioso revolvimento do conteúdo fático-probatório.
+ ..  "
+(AgRg no AREsp n. 2.393.949/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/2/2024, DJe de 14/2/2024).
+Constato, portanto, que o acórdão recorrido está em consonância com a orientação da Corte, motivo pelo qual o recurso especial não deve ser conhecido, diante da incidência da Súmula n. 83, STJ.
+Observo, ainda, que para acolher a tese de que o agravante não se dedica à atividade criminosa é imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial, na forma da Súmula n. 7, STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial , nos termos do art. 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
