@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280/STF. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+2. Entendimento diverso a respeito da conclusão alcançada pelo Tribunal de origem quanto à ilegitimidade passiva da Companhia de Transmissão de Energia Elétrica Paulista - CTEEP implicaria o reexame do contexto fático-probatório dos autos e a reinterpretação de cláusula contratual, circunstâncias que redundariam na formação de novo juízo acerca dos fatos e das provas, atraindo a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto pela FUNDACAO CESP da decisão de minha relatoria de fls. 2.339/2.344.
+A parte agravante alega os seguintes pontos:
+a) inaplicabilidade da Súmula 280/STF, uma vez que "a ação ajuizada pela VIVEST busca tão somente em detrimento aos artigos 884 do Código Civil, artigos 186,247, 389, 422, 884 e 942 do Código Civil e artigo 63 da Lei Complementar nº 109 de 2011: i) reconhecimento de direito de regresso com base nos contratos firmados entre as partes e reputados válidos (tanto na r. sentença como no v. acórdão prolatado pelo TJSP), e vigentes pelas instâncias ordinárias, sem sequer a necessidade de revolvimento das cláusulas contratuais" (fl. 2.366);
+b) ocorrência de negativa de prestação jurisdicional;
+c) não incidência das Súmulas 5 e 7 do STJ, sob o fundamento de que "basta que se valore juridicamente todas as alegações e todas as provas juntadas pela VIVEST no presente caso para que se constate a violação aos artigos 1.022, inciso II e 489, § 1º, inciso IV, ambos do Código de Processo Civil de 2015 e artigo 63, da Lei Complementar nº 109, de 2001 e artigos 884,186, 247, 389, 422, 884 e 942 do Código Civil, pelo v. acórdão hostilizado" (fl. 2.376);
+d) impossibilidade de majoração dos honorários advocatícios.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pelo órgão colegiado competente.
+A parte adversa apresentou impugnação (fls. 2.385/2.407).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE DE EXAME. SÚMULA 280/STF. SÚMULAS 5 E 7 DO STJ. INCIDÊNCIA. PROVIMENTO NEGADO.
+1. Na hipótese de a reforma do acórdão recorrido demandar a interpretação de normas locais, o recurso especial é inviável. Aplicação, por analogia, da Súmula 280 do Supremo Tribunal Federal (STF).
+2. Entendimento diverso a respeito da conclusão alcançada pelo Tribunal de origem quanto à ilegitimidade passiva da Companhia de Transmissão de Energia Elétrica Paulista - CTEEP implicaria o reexame do contexto fático-probatório dos autos e a reinterpretação de cláusula contratual, circunstâncias que redundariam na formação de novo juízo acerca dos fatos e das provas, atraindo a incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+Na decisão agravada foi negado provimento ao recurso especial da parte ora agravante porque o acórdão recorrido não padecia de vício algum, a prestação jurisdicional teria sido integralmente prestada.
+Em nova análise do presente caso, vê-se que, quanto ao ponto controvertido - legitimidade da Companhia de Transmissão de Energia Elétrica Paulista (CTEEP) para figurar no polo passivo da presente ação de regresso -, objeto do recurso especial, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu nestes termos (fls. 2.041/2.042):
+Com efeito, cuida-se de ação de regresso ajuizada pela FUNCESP em face da Fazenda Estadual e da CTEEP, objetivando a condenação das rés no pagamento dos valores aos quais a autora foi condenada, em outras ações judiciais, a título de complementação de aposentadoria de servidores.
+Desde logo, cumpre destacar que a responsabilidade pelo pagamento do benefício é exclusivamente da Fazenda do Estado de São Paulo, em razão do que dispõem a Lei nº 4.819/58 e o Decreto Estadual nº 42.698/97 este, em seu artigo 7º, com a seguinte redação:
+ ..
+O próprio Termo de Compromisso citado pela autora, em sua peça inicial, traz a seguinte previsão, no parágrafo primeiro da Cláusula Segunda: "A FUNDAÇÃO deverá contestar as ações a que se refere o caput desta Cláusula, apresentando todos os seus argumentos de defesa, bem como alegando a sua ilegitimidade para figurar no polo passivo, haja vista a sua condição de mera prestadora de serviços e considerando que a responsabilidade pelo custeio dos benefícios contemplados no aludido diploma legal é exclusivamente da FAZENDA DO ESTADO, cabendo à PROCURADORIA elaborar o texto da preliminar a ser incorporado nas defesas a serem apresentadas pela FUNDAÇÃO" (fl. 134 - destaquei).
+Percebe-se, portanto, que, na realidade, a pretensão deduzida em juízo pela FUNCESP deveria se voltar, unicamente, em face da Fazenda Estadual. A CTEEP, nesse contexto, é parte ilegítima para figurar no polo passivo da presente ação regressiva de cobrança.
+Inclusive, em que pese a procedência dos pedidos em relação às duas requeridas, a própria r. sentença havia consignado, no corpo de sua fundamentação, que "os diplomas legais em questão determinam que a complementação de aposentadoria ou pensão deve ser paga pela FAZENDA DO ESTADO DE SÃO PAULO e não por parte da Fundação CESP e da CTEEP Companhia de Transmissão de Energia Elétrica Paulista (sucessora da CESP), entidades da administração descentralizada" (fl. 1817 destaquei).
+Ou seja, tudo que interessava à resolução do dissídio foi devidamente respondido. É importante ressaltar que o descontentamento da parte interessada com o julgado não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação.
+Está correta a decisão que negou provimento ao recurso quanto ao ponto.
+Na decisão agravada, não se conheceu do recurso especial porque a reforma do acórdão demandaria o reexame de legislação local, do suporte fático-probatório dos autos e das cláusulas contratuais.
+Quanto ao ponto objeto do recurso especial, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO decidiu nestes termos (fls. 2.041/2.042):
+Com efeito, cuida-se de ação de regresso ajuizada pela FUNCESP em face da Fazenda Estadual e da CTEEP, objetivando a condenação das rés no pagamento dos valores aos quais a autora foi condenada, em outras ações judiciais, a título de complementação de aposentadoria de servidores.
+Desde logo, cumpre destacar que a responsabilidade pelo pagamento do benefício é exclusivamente da Fazenda do Estado de São Paulo, em razão do que dispõem a Lei nº 4.819/58 e o Decreto Estadual nº 42.698/97 este, em seu artigo 7º, com a seguinte redação:
+ ..
+O próprio Termo de Compromisso citado pela autora, em sua peça inicial, traz a seguinte previsão, no parágrafo primeiro da Cláusula Segunda: "A FUNDAÇÃO deverá contestar as ações a que se refere o caput desta Cláusula, apresentando todos os seus argumentos de defesa, bem como alegando a sua ilegitimidade para figurar no polo passivo, haja vista a sua condição de mera prestadora de serviços e considerando que a responsabilidade pelo custeio dos benefícios contemplados no aludido diploma legal é exclusivamente da FAZENDA DO ESTADO, cabendo à PROCURADORIA elaborar o texto da preliminar a ser incorporado nas defesas a serem apresentadas pela FUNDAÇÃO" (fl. 134 - destaquei).
+Percebe-se, portanto, que, na realidade, a pretensão deduzida em juízo pela FUNCESP deveria se voltar, unicamente, em face da Fazenda Estadual. A CTEEP, nesse contexto, é parte ilegítima para figurar no polo passivo da presente ação regressiva de cobrança.
+Inclusive, em que pese a procedência dos pedidos em relação às duas requeridas, a própria r. sentença havia consignado, no corpo de sua fundamentação, que "os diplomas legais em questão determinam que a complementação de aposentadoria ou pensão deve ser paga pela FAZENDA DO ESTADO DE SÃO PAULO e não por parte da Fundação CESP e da CTEEP Companhia de Transmissão de Energia Elétrica Paulista (sucessora da CESP), entidades da administração descentralizada" (fl. 1817 destaquei).
+Diferente da alegação da parte ora agravante, a questão referente à ilegitimidade passiva da CTEEP foi decidida com fundamento em legislação local (Lei estadual 4.819/1958 e Decreto estadual 42.698/1997) e na interpretação das cláusulas dispostas no Termo de Compromisso celebrado entre as partes para o Reconhecimento e Implementação de Direito e Obrigações, de 1999.
+Logo, está correta a decisão que não conheceu do recurso especial devido à incidência, por analogia, da Súmula 280 do Supremo Tribunal Federal e das Súmulas 5 e 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
