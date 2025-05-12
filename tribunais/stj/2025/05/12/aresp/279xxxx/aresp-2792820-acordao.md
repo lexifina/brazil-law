@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INEXISTÊNCIA. CONTRATO DE SERVIÇOS ADVOCATÍCIOS. REVOGAÇÃO OU RENÚNCIA ANTES DO TÉRMINO DA PRESTAÇÃO DO SERVIÇO. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. R escindido o contrato por iniciativa do mandante antes do término da prestação de serviço, ao advogado assiste o direito de ajuizar ação de arbitramento para postular honorários proporcionais à sua atuação. Precedentes.
+3. Agravo conhecido para negar provimento ao recurso especial.
+RELATÓRIO
+Trata-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que não admitiu seu recurso especial.
+O apelo extremo, fundado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado:
+"APELAÇÕES CÍVEIS - AÇÃO DE ARBITRAMENTO DE HONORÁRIOS - PRELIMINARES DE JULGAMENTO SEM FUNDAMENTAÇÃO E EXTRA PETITA, FALTA DE INTERESSE PROCESSUAL E INÉPCIA DA INICIAL REJEITADAS - MÉRITO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS JURÍDICOS - TERMO DE QUITAÇÃO GENÉRICO -RESCISÃO UNILATERAL E IMOTIVADA - PRESTAÇÃO DE SERVIÇOS INCONTROVERSA - ARBITRAMENTO JUDICIAL - POSSIBILIDADE - FIXAÇÃO DOS HONORÁRIOS DE ACORDO COM O TRABALHO DESEMPENHADO PELO CAUSÍDICO - ADEQUAÇÃO DO QUANTUM - MAJORAÇÃO DEVIDA - RECURSO DO AUTOR PROVIDO E DO BANCO DESPROVIDO.
+Não há falar em ausência de fundamentação, uma vez que o decisum deixa evidente que o Julgador apontou as razões de seu convencimento, que foram expostas de forma lógica e concisa, o que afasta o vício alegado pelo recorrente, bem como não há como acolher a tese de nulidade por julgamento extra petita, porquanto, não é verdade que a sentença contém natureza diversa do pedido da petição inicial.
+In casu, o advogado tem interesse processual de promover ação de arbitramento de honorários advocatícios contra quem a contratou para receber pelos serviços até então prestados.
+Conforme entendimento consolidado do STJ, nos contratos de prestação de serviços advocatícios com cláusula de remuneração exclusivamente por verbas sucumbenciai s, a rescisão unilateral do contrato pelo contratante justifica o arbitramento judicial dos honorários advocatícios ao advogado, pelo serviço proporcionalmente prestado.
+O ajuste de quitação apresentado nos autos, embora expresso, não é claro na estipulação dos critérios para estabelecer a contraprestação financeira pelos serviços jurídicos realizados pela parte autora em favor da instituição financeira, de modo que não é possível afirmar que houve a liquidação do débito de forma administrativa.
+Nas ações de arbitramento de honorários advocatícios, o Julgador deve se nortear pela proporcionalidade e razoabilidade, levando em consideração as circunstâncias dos autos, o lugar da prestação do serviço, a complexidade da causa, o trabalho e o zelo do profissional, o tempo exigido para o trabalho e, ainda, o valor econômico da questão, cuja inobservância autoriza a majoração pelo órgão ad quem. Precedentes." (e-STJ fls. 1.196/1.197).
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 1.288 /1.1309).
+Nas razões do recurso especial (e-STJ fls. 1.310/1.333), o recorrente aponta, além de dissídio jurisprudencial, violação dos artigos 1.022, II, do Código de Processo Civil e 22, § 2º, da Lei nº 8.906/1994.
+Alega que houve negativa de prestação jurisdicional. Insurge-se também contra o arbitramento de honorários, ao argumento de que haveria contrato válido com expressa pactuação acerca da remuneração pelos serviços advocatícios prestados pelo recorrido ao recorrente.
+Após a apresentação de contrarrazões (e-STJ fls. 1.409/1.426), o recurso foi inadmitido, dando ensejo à interposição do presente agravo.
+É o relatório.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. INEXISTÊNCIA. CONTRATO DE SERVIÇOS ADVOCATÍCIOS. REVOGAÇÃO OU RENÚNCIA ANTES DO TÉRMINO DA PRESTAÇÃO DO SERVIÇO. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  ainda que de forma sucinta, solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+2. R escindido o contrato por iniciativa do mandante antes do término da prestação de serviço, ao advogado assiste o direito de ajuizar ação de arbitramento para postular honorários proporcionais à sua atuação. Precedentes.
+3. Agravo conhecido para negar provimento ao recurso especial.
+VOTO
+A irresignação não merece prosperar.
+No tocante à negativa de prestação jurisdicional, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça manifestou-se expressamente quanto ao arbitramento judicial dos honorários advocatícios, ainda que existente contrato de prestação de serviços com cláusula de remuneração, bem como rejeitou a preliminar de sentença extra petita, conforme se verifica do seguinte trecho do acórdão:
+"(..) não há como acolher a tese de nulidade por julgamento extra petita, porquanto, não é verdade que a sentença contém natureza diversa do pedido da petição inicial." (e-STJ fl. 1.299).
+"(..) a revogação por uma só das partes e injustificada gera o direito do advogado ao arbitramento dos honorários, o que não fere os princípios da liberdade de contratar, da força vinculativa do contrato, ou qualquer outro." (e-STJ fl. 1.301).
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE CUSTEIO DE MEDICAMENTO (THIOTEPA). 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. 3. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. O acórdão recorrido encontra-se em perfeita harmonia com a jurisprudência desta Corte no sentido de que, "embora se trate de fármaco importado ainda não registrado pela ANVISA, teve a sua importação excepcionalmente autorizada pela referida Agência Nacional, sendo, pois, de cobertura obrigatória pela operadora de plano de saúde" (REsp 1.923.107/SP, relatora ministra Nancy Andrighi, Terceira Turma, julgado em 10/8/2021, DJe 16/8/2021).
+3. Atentando-se aos argumentos trazidos pela recorrente e aos fundamentos adotados pela Corte estadual de que a ANVISA admite a importação do fármaco, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a subsistência de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+4. A ausência de debate acerca do conteúdo normativo dos arts. 66 da Lei n. 6.360/1976 e 10, V, da Lei n. 6.437/1976, apesar da oposição de embargos de declaração, atrai os óbices das Súmulas 282/STF e 211/STJ.
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 2.164.998/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Não há se falar em negativa de prestação jurisdicional, na medida em que o órgão julgador dirimiu todas as questões que lhe foram postas à apreciação, de forma clara e sem omissões, embora não tenha acolhido a pretensão da parte.
+2. Rever a conclusão do Tribunal de origem com relação à responsabilidade pelo ressarcimento dos valores pagos em reclamação trabalhista demandaria o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, providencias que encontram óbice no disposto nas Súmulas 5 e 7 do STJ. Precedentes.
+3. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp 2.135.800/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 13/2/2023, DJe de 16/2/2023 - grifou-se).
+O recorrente alega, ainda, a violação do artigo 22, § 2º, da Lei 8.906/1994. Sustenta, em síntese, que o arbitramento de honorários não é cabível quando há estipulação contratual expressa.
+Acerca da controvérsia, o Tribunal local assim decidiu:
+"O colendo Superior Tribunal de Justiça, em decisão proferida no R Esp nº. 1.337.749/MS, inclusive publicada no Informativo nº. 601, consignou que, não obstante nos contratos de prestação de serviços advocatícios a vitória processual ser condição suspensiva para que oad exitum advogado faça jus aos honorários, a rescisão unilateral imotivada pelo cliente configura obstáculo ao implemento da condição, se amoldando à hipótese contida na primeira parte do artigo 129 do CC ( "reputa-se verificada, quanto aos efeitos jurídicos, a condição cujo implemento for maliciosamente ), que condena o dolo daquele que impede o implemento da obstado pela parte a quem desfavorecer  .. " condição em proveito próprio.
+(..)
+Logo, a revogação por uma só das partes e injustificada gera o direito do advogado ao arbitramento dos honorários, o que não fere os princípios da liberdade de contratar, da força vinculativa do contrato, ou qualquer outro.
+Pelo preceito da boa-fé, é justo que o autor receba pelo serviço prestado, até mesmo para impedir o enriquecimento ilícito do réu, que dele se beneficiou.
+Dessa forma, conquanto haja previsão na cláusula contratual afirmando que o escritório-apelante seria remunerado por meio dos honorários de sucumbência, a luz do entendimento consolidado no Superior Tribunal de Justiça e por este Tribunal de Justiça, é devido o arbitramento da verba remuneratória em razão do trabalho desempenhado pelo causídico.
+Assim, deve ser aplicado o disposto no artigo 22, § 2º, do Estatuto da OAB (..)" (e-STJ fls. 1.217/1.218).
+Com efeito, a conclusão adotada pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, consolidada no sentido do cabimento da ação de arbitramento de honorários caso o contrato tenha sido rescindido por iniciativa do mandante, antes do término da prestação de serviço.
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. CONTRATO DE SERVIÇOS ADVOCATÍCIOS. REVOGAÇÃO OU RENÚNCIA. CLÁUSULA PENAL. INCABÍVEL. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 568/STJ.
+1. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+5. A jurisprudência do STJ é no sentido de que não é possível a estipulação de multa no contrato de honorários para as hipóteses de renúncia ou revogação unilateral do mandato do advogado, independentemente de motivação, respeitado o direito de recebimento dos honorários proporcionais ao serviço prestado, como é a hipótese dos autos. Precedentes do STJ.
+6. Tendo sido rescindido o contrato por iniciativa do mandante antes do término da prestação de serviço, ao advogado assiste o direito de ajuizar ação de arbitramento para postular honorários proporcionais à sua atuação. Precedentes.
+7. Agravo interno não provido."
+(AgInt no AREsp nº 2.348.277/MG, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/10/2023, DJe de 25/10/2023).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS DEMANDADOS.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF. 1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. 1.2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+Precedentes.
+2. Segundo a orientação jurisprudencial desta Corte, a pretensão de arbitramento e de cobrança de honorários estão subordinadas ao prazo prescricional de 5 (cinco) anos de que trata o artigo 25, III, da Lei 9.806/94. Incidência da Súmula 83 do STJ.
+3. Nos termos da jurisprudência do STJ, revogado imotivadamente o mandato judicial, é cabível o ajuizamento da ação de arbitramento para cobrar os honorários, de forma proporcional aos serviços até então prestados. Precedentes.
+4. Em princípio, o advogado e o contratante estão livres para estabelecer o valor que considerarem adequado e justo como remuneração pelos serviços prestados, não havendo óbice legal à contratação dos honorários convencionais com base no valor do causa.
+Todavia, admite-se, excepcionalmente, o controle pelo Judiciário do quantum avençado entre os contratantes, nas hipóteses em que se verificar algum vício de vontade ou forem inobservados os princípios da razoabilidade e da boa-fé contratual, como ocorre na hipótese sub judice.
+5. Agravo interno parcialmente provido para, de plano, conhecer do agravo e prover parcialmente o recurso especial, cassando as deliberações recorridas e determinar o retorno dos a utos ao juízo de primeiro grau, a fim de que os honorários devidos sejam arbitrados com base no trabalho efetivamente desempenhado pelo advogado ora agravado."
+(AgInt no AREsp nº 1.147.232/CE, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2022, DJe de 6/3/2023).
+Ante o exposto, conheço d o agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais já foram fixados em seu percentual máximo, por isso deixam de ser majorados, nos termos do art. 85, §§ 2º e 11, do Código de Processo Civil.
+É o voto.
