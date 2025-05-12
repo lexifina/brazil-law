@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL CONTRA DECISÃO EM RECURSO EM SENTIDO ESTRITO MANTENDO A LIBERDADE PROVISÓRIA AO AGRAVADO. PRETENSÃO DE REFORMA DE DECISÃO SOB ALEGAÇÃO DE VIOLAÇÃO DO ART. 619 DO CPP. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO DA LEI FEDERAL. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA DESCABIDA NA VIA DO RECURSO ESPECIAL. OBICE DA SÚMULA 83/STJ.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTE contra a decisão por mim proferida, por meio da qual conheci do respectivo agravo em recurso especial para não conhecer do recurso especial (fls. 218/220).
+Requer a parte agravante o afastamento do óbice aplicado (Súmula 83/STJ), visto que o agravo em recurso especial demonstra que outro é o entendimento do Superior Tribunal de Justiça. Acrescenta,  q uanto ao art. 619 do Código de Processo Penal, o que a jurisprudência desta Corte Superior veda é a interposição de embargos com o fito de revisão do julgado, quando as questões necessárias ao deslinde da controvérsia foram analisadas, todavia de forma diversa da pretendida pelo recorrente (fl. 230). Presente omissão no acórdão a respeito de pontos relevantes ao julgamento da ação.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS. RECURSO ESPECIAL CONTRA DECISÃO EM RECURSO EM SENTIDO ESTRITO MANTENDO A LIBERDADE PROVISÓRIA AO AGRAVADO. PRETENSÃO DE REFORMA DE DECISÃO SOB ALEGAÇÃO DE VIOLAÇÃO DO ART. 619 DO CPP. AUSÊNCIA DE DEMONSTRAÇÃO DE VIOLAÇÃO DA LEI FEDERAL. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA DESCABIDA NA VIA DO RECURSO ESPECIAL. OBICE DA SÚMULA 83/STJ.
+Agravo regimental improvido.
+VOTO
+A despeito dos argumentos veiculados no presente recurso, a insatisfação não merece provimento.
+A decisão impugnada deve ser mantida pelo que nela se contém, tendo em conta que o agravante não logrou desconstituir seu fundamento, motivo pelo qual o trago ao Colegiado para ser confirmada.
+O Tribunal de origem, soberano na análise das circunstâncias fático-probatórias do feito, assim decidiu no recurso em sentido estrito (fls. 95/96 - grifo nosso):
+PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. INSURGÊNCIA MINISTERIAL CONTRA A DECISÃO QUE CONCEDEU A LIBERDADE PROVISÓRIA AO RECORRENTE. ALEGAÇÃO DE NECESSIDADE DE GARANTIR A ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. IMPOSSIBILIDADE. AUSÊNCIA DE NOTÍCIAS DE QUE O RECORRIDO TENHA PRATICADO QUALQUER ILÍCITO PENAL APÓS A DECISÃO PROFERIDA, CERCA DE 08 (OITO) MESES DE LIBERDADE PROVISÓRIA. AUSÊNCIA DOS REQUISITOS PARA DECRETAÇÃO DA PREVENTIVA. MEDIDAS CAUTELARES DIVERSAS RATIFICADAS. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração ao julgado, sobreveio decisão de sua rejeição.
+Como afirmei monocraticamente, pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que o julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos para decidir, do que é exemplo REsp n. 1.921.670/PR, da minha relatoria, Sexta Turma, DJe 29/9/2023; AgRg nos EDcl no REsp n. 1.822.180/SC, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/6/2020; e EDcl no AgRg no AREsp n. 1.277.044/ES, Ministro Jorge Mussi, Quinta Turma, DJe 17/10/2018.
+Reitero que ausente demonstração de violação do art. 619 do Código de Processo Penal. A bem da verdade, as razões do recurso especial e do agravo apenas evidenciam sua utilização como forma de expressar a insatisfação com o decisum do Tribunal de origem, na tentativa de rediscutir a matéria rechaçada, em situação em que estão ausentes os requisitos da via estreita do recurso especial.
+De rigor a aplicação do Óbice da Súmula 83 do Superior Tribunal de Justiça. Nesse sentido os julgados invocados na decisão de inadmissibilidade: AgRg no AREsp n. 2.368.559/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/9/2023; AgRg no AREsp n. 2.364.772/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/8/2023; e AgRg no REsp n. 1.965.146/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 29/4/2022.
+Portanto, o agravante não logrou êxito em demonstrar, em seu regimental, argumento capaz de modificar as razões expostas na decisão monocrática, que deve ser mantida integralmente pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
