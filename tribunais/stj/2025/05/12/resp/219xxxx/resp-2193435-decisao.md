@@ -1,0 +1,19 @@
+DECISÃO
+Em análise, recurso especial interposto por FRANÇOIS SILVESTRE DE ALENCAR contra acórdão assim ementado:
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÕES CÍVEIS. AÇÃO CIVIL DE IMPROBIDADE ADMINISTRATIVA. ALEGADA PRESCRIÇÃO. INOCORRÊNCIA. IRRETROATIVIDADE DA REGRA DE PRESCRIÇÃO INTERCORRENTE PREVISTA NO ARTIGO 23, DA LEI Nº 8.429/92, COM AS ALTERAÇÕES TRAZIDAS PELA LEI Nº 14.230/21. ENTENDIMENTO FIRMADO PELO STF NO JULGAMENTO DO ARE 843989. MÉRITO. INEXIGIBILIDADE DE LICITAÇÃO. FRACIONAMENTO DO OBJETO DA CONTRATAÇÃO EM AFRONTA AO DISPOSTO NA LEI 8.666/93. CARÁTER COMPETITIVO DA LICITAÇÃO FRUSTRADO. CONDUTA ÍMPROBA DOS DEMANDADOS COMPROVADA. VERIFICADO O DOLO ESPECÍFICO E O DANO AO ERÁRIO. CONDENAÇÃO ÀS SANÇÕES PREVISTAS NO ARTIGO 12, DA LIA. PROPORCIONALIDADE E RAZOABILIDADE NA APLICAÇÃO DA PENA. MANUTENÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSOS CONHECIDOS E DESPROVIDOS.
+Nas suas razões recursais, com fundamento no art. 105, III, c, da Constituição Federal, a parte recorrente alega, em síntese, que "não bastasse a generalidade e singeleza da acusação imputada ao recorrente, com fixação na simples alusão da dispensa de uma licitação - sem qualquer demonstração da vontade consciente de frustrar a licitação - desqualifica a acusação, a sentença e o acórdão agora açoitados, dando azo à dição do art. 1º, §§ 1º, 2º, 3º e 8º, da Lei 8.42/92, com redação ditada pela Lei nº 14.230/21" (fls. 1.718-1.719).
+O Ministério Público Federal opinou pelo não provimento do recurso.
+É o relatório.
+Decido.
+O recurso não comporta conhecimento.
+O recurso especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência  por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade pelo próprio advogado ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados  , nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos confrontados, nos termos legais e regimentais, não bastando a mera transcrição de ementas ou mesmo a íntegra do voto condutor do julgado, sem a identificação das circunstâncias que identifiquem ou assemelhem os arestos confrontados.
+Além do mais, não há nas razões do apelo especial a indicação precisa de qual dispositivo de lei federal supostamente interpretado de forma divergente, o que faz incidir o óbice da Súmula 284/STF.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO PELAS ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ARTS. 255/RISTJ E 1.029, § 1º, DO CPC. INOBSERVÂNCIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A ausência de indicação do dispositivo ofendido, seja pela alínea "a" ou "c" do autorizador constitucional, importa na aplicação do enunciado nº 284 da Súmula do Pretório Excelso, pois caracteriza deficiência na fundamentação recursal, o que dificulta a compreensão da controvérsia. Precedentes.
+2. A não observância dos requisitos dos artigos 255, parágrafo 1º, do Regimento Interno do Superior Tribunal de Justiça, e 1.029, § 1º, do CPC, torna inadmissível o conhecimento do recurso com fundamento na alínea "c" do permissivo constitucional.
+3. Agravo interno a que se nega provimento (AgInt no AREsp n. 2.544.903/SP, relatora Ministra Maria Thereza de Assis Moura, Segunda Turma, julgado em 27/11/2024, DJEN de 2/12/2024).
+Isso posto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial interposto por FRANÇOIS SILVESTRE DE ALENCAR.
+Sem condenação em honorários advocatícios, nos termos do art. 18 da Lei 7.347/1985.
+Intimem-se.
+EMENTA
