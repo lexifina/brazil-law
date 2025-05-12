@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por SILVANIA RODRIGUES DOS SANTOS e OUTROS contra acórdão proferido pela eg. Quarta Turma do STJ, assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO, NA ORIGEM. ALEGAÇÃO GENÉRICA DE OMISSÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO IMPROVIDO.
+1. A mera referência aos vícios previstos nos arts. 489 e 1.022 do NCPC, sem a particularização das teses e dos fundamentos considerados omissos ou enfrentados de forma deficiente pela Corte de origem, constitui alegação genérica, incapaz de evidenciar o malferimento da lei federal invocada, incidindo o óbice da Súmula 284/STF.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+3. Agravo interno improvido." (fl. 631)
+Nas razões dos aclaratórios, a parte embargante afirma que houve omissão, contradição e obscuridade no julgado, sustentando que a "decisão é contraditória, pois insiste na aplicação da súmula 284/STF e na ausência de violação ao art. 1.022, do CPC ao não observar que a transação realizada na ACP não engloba o embargante - principalmente por se tratar de danos morais e não materiais. Bem como, por já ter ocorrido a extinção parcial da ACP e já terem sido produzidos provas nos autos que comprovem o dever de indenizar, não há justificativa para a extinção, ensejando clara violação ao devido processo legal" (fls. 640/641).
+Aduz, ainda, que "a r. decisão incorreu em omissão e contradição, pois, em verdade, a orientação que se firmou no Superior Tribunal de Justiça é em sentido diverso da adotada pelo Tribunal a quo no que se refere à distinção entre dano material e moral; princípio da proporcionalidade e razoabilidade quanto ao montante indenizatório; quanto as cláusulas abusivas do acordo celebrado; e quanto a violação direta aos direitos e prerrogativas do advogado" (fl. 641).
+Impugnação apresentada às fls. 648/652, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado embargado (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Com efeito, a col. Quarta Turma, nos termos do voto desta Relatoria, negou provimento ao agravo interno, mantendo a decisão agravada que fez recair ao recurso especial o óbice das Súmulas 283 e 284/STF, nos termos da seguinte fundamentação:
+"Não se conhece do pedido de suspensão do feito, tendo em vista que caracteriza inovação recursal, pois não foi formulado nas razões do recurso especial.
+Apesar da relevância das arguições de mérito do recurso, é forçoso reconhecer que o Tribunal de origem não debateu o mérito dos pedidos da parte, tendo em vista que, conforme fundamentação do aresto de 2º grau, a pretensão de anulação (ou de superação) de cláusulas de acordo judicial deve ser objeto de ação própria e perante o juízo próprio (o que homologou o acordo). Veja-se:
+"13. É preciso destacar, de início, que qualquer questionamento acerca de irregularidade ao acordo firmado, há de ser feito pela via própria, não sendo a demanda originária, tampouco o presente recurso meio adequado para esse fim."
+A parte, contudo, não impugnou esse fundamento do acórdão de 2º grau, circunstância que atrai o óbice da Súmula 283/STF.
+Ademais, a alegação de negativa de prestação jurisdicional é genérica, pois não indica quais questões teriam sido omitidas no julgamento de 2º grau. Veja-se:
+"O art. 1.022 do CPC/2015, expressamente invocado em segundo grau de jurisdição, prevê o cabimento de embargos de declaração contra qualquer decisão judicial para "esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o juiz de ofício ou a requerimento e corrigir erro material".
+Quando os embargos de declaração são opostos, mas os vícios apontados - se existentes - não são sanados, torna-se possível e necessária a interposição de recurso especial com fundamento no art. 105, III, "a", da Constituição, por violação ao art. 1.022 do CPC.2015. Nesse sentido:
+(..)
+O recorrente opôs embargos de declaração, demonstrando a ocorrência dos vícios. Porém, alguns dos vícios apontados não foram sanados pelo Tribunal a quo, o que evidencia a ocorrência da violação ao art. 1.022 do CPC/2015.
+Diante disso, há entendimento por este Egrégio Tribunal Superior no sentido de que deve ser reformado acórdão que viole o referido artigo, conforme ementado:
+(..)
+Neste cenário, é cristalino o fato de que a r. decisão, ao deixar de se pronunciar a respeito de artigos de Lei Federal trazidos nas razões dos aclaratórios importa em clara afronta ao artigo 1.022 do CPC, na medida em que as omissões não foram sanadas.
+Assim, a omissão relativa a esse fundamento não foi sanada quando do julgamento dos Embargos de Declaração, o que evidencia a violação ao art. 1.022, II do CPC, apta a ensejar a anulação do acórdão recorrido. É o que se requer, desde logo." (fls. 248/250)
+Mantém-se, portanto, a aplicação da Súmula 284/STF." (fls. 632/633)
+No caso dos autos, pois, está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. RESCISÃO DE CONTRATO. COMPRA E VENDA DE PEÇAS DE VESTUÁRIO. MERCADORIA DEVOLVIDA EM RAZÃO DE DESCONFORMIDADE COM O PEDIDO. LEGITIMIDADE PASSIVA DA SOCIEDADE EMPRESÁRIA RECORRENTE. CONFUSÃO NA RELAÇÃO JURÍDICA NEGOCIAL ENTRE A EMPRESA E O REPRESENTANTE LEGAL QUE ATUAVA NA GERÊNCIA E ADMINISTRAÇÃO DA SOCIEDADE. ANÁLISE DO ACERVO FÁTICO-PROBATÓRIO E DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. INCIDÊNCIA DAS SÚMULAS 5, 7 E 211 DO STJ E 283 DO STF. INEXISTÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. É firme a jurisprudência do STJ no sentido de que se deve "interpretar o comando do art. 1.021, § 3º, do CPC/2015 em conjunto com a regra do art. 489, § 1º, IV, do mesmo diploma. Na hipótese em que a parte insiste na mesma tese, repisando as mesmas alegações já apresentadas em recurso anterior, sem trazer nenhum argumento novo - ou caso se limite a suscitar fundamentos insuficientes para abalar as razões de decidir já explicitadas pelo julgador - não se vislumbra nulidade quanto à reprodução, nos fundamentos do acórdão do agravo interno, dos mesmos temas já postos na decisão monocrática" (EDcl no AgInt no AREsp 1.411.214/MG, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/08/2019, DJe 20/08/2019)" (EDcl no AgInt nos EAREsp 996.192/SP, Relatora MINISTRA LAURITA VAZ, Corte Especial, julgado em 26/11/2019, DJe de 10/12/2019).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.647.778/PR, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/11/2024, DJEN de 6/12/2024)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. AUSÊNCIA. AFASTAMENTO DA MULTA APLICADA COM BASE NO NO ART. 1.021, § 4º, DO CPC.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, mormente porque não são cabíveis para provocar novo julgamento da lide.
+2. O requerimento de retirada de agravo interno do plenário virtual deve ser realizado antes da publicação da respectiva pauta de julgamento, sob pena de preclusão. Ademais, a referida oposição prevista no art. 184-D, parágrafo único, II, do RISTJ deve ser manifestada de forma fundamentada pela parte nas razões recursais, o que não se verifica na hipótese dos autos.
+3. Embargos de declaração parcialmente acolhidos tão somente para afastar a multa aplicada com base no art. 1.021, § 4º, do CPC.
+(EDcl no AgInt no AREsp n. 1.520.765/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/4/2020, DJe de 23/4/2020)
+Ademais, os vícios a que se refere o artigo 1.022 do CPC são aqueles que recaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre os argumentos utilizados pelas partes, de modo que não há falar em omissão simplesmente pelo fato de as alegações deduzidas não terem sido acolhidas pelo órgão julgador. A propósito, na parte que interessa:
+AGRAVO REGIMENTAL. AÇÃO DE SOBREPARTILHA. ALEGAÇÃO, NAS RAZÕES DE RECURSO ESPECIAL, DE VIOLAÇÃO AOS ARTIGOS 458, II E 535, II, DO CPC. INEXISTÊNCIA.  ..
+1. Não há que se falar em nulidade do acórdão por omissão, se este examinou e decidiu os pontos relevantes e controvertidos da lide e apresentou os fundamentos nos quais sustentou as conclusões assumidas.
+ ..
+(AgRg no AREsp 37.045/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 5/3/2013, DJe 12/3/2013)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. 2. MEDIDA CAUTELAR DE ARRESTO. PERICULUM IN MORA NÃO CONFIGURADO. MODIFICAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS EVIDENCIADA PELA APLICAÇÃO DA SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. Havendo a apreciação pelo Tribunal de origem de todas as matérias suscitadas pelas partes, não há que se falar em violação do art. 1.022 do CPC/2015.
+2. Para modificar a conclusão do acórdão recorrido, que manteve o indeferimento do pedido de arresto cautelar dos bens dos recorridos em razão da ausência de comprovação do periculum in mora, seria imprescindível o reexame de todo o conjunto fático-probatório dos autos, procedimento inviável na via do especial (Súmula 7/STJ).
+3. Nos termos da jurisprudência desta Corte Superior, a incidência da Súmula 7/STJ impede o exame do recurso especial em relação ao dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso concreto.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1043856/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)  g.n.
+ADMINISTRATIVO. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO DIRETA. ALEGAÇÃO DE APOSSAMENTO ADMINISTRATIVO. PRETENSÃO INDENIZATÓRIA DE DANOS MORAIS. DIREITO DE CULTO AOS MORTOS. VIOLAÇÃO A DIREITO DA PERSONALIDADE. DESNECESSIDADE DE PRODUÇÃO DE PROVA. AUTONOMIA DA PESSOA JURÍDICA. DISTINÇÃO DA PESSOA DOS SÓCIOS. INTRANSMISSIBILIDADE DO DIREITO. CARÊNCIA DE LEGITIMIDADE PARA A CAUSA.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015. Jurisprudência do Superior Tribunal de Justiça.
+2. A regra que veda o comportamento contraditório ("venire contra factum proprio") aplica-se a todos os sujeitos processuais, inclusive os imparciais. Não é aceitável o indeferimento de instrução probatória e sucessivamente a rejeição da pretensão por falta de prova.
+3. A pessoa jurídica não tem legitimidade para demandar a pretensão de reparação por danos morais decorrentes de aventada ofensa ao direito de culto aos antepassados e de respeito ao sentimento religioso em favor dos seus sócios.
+4. Trata-se de direito da personalidade e, portanto, intransmissível, daí por que incabível a dedução em nome próprio de pretensão reparatória de danos morais alheios.
+5. Recurso especial não provido.
+(REsp 1649296/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 14/09/2017)  g.n.
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. HIPÓTESE EM QUE A FAZENDA PÚBLICA FOI CONDENADA EM HONORÁRIOS DE ADVOGADO, FIXADOS, PELO TRIBUNAL DE ORIGEM, SEM DEIXAR DELINEADAS CONCRETAMENTE, NO ACÓRDÃO RECORRIDO, AS CIRCUNSTÂNCIAS A QUE SE REFEREM AS ALÍNEAS DO § 3º DO ART. 20 DO CPC/73. INADMISSIBILIDADE DO RECURSO ESPECIAL, EM FACE DA INCIDÊNCIA DAS SÚMULAS 7/STJ E 389/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação aos arts. 489 e 1.022 do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+ ..
+IX. Agravo interno improvido.
+(AgInt no AREsp 1046644/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 11/09/2017)  g.n.
+AGRAVO INTERNO. INTERPOSIÇÃO SOB A ÉGIDE DO CPC/2015. AÇÃO DE COBRANÇA. DEPÓSITO JUDICIAL. ATUALIZAÇÃO PELO SALÁRIO MÍNIMO. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Considera-se improcedente a arguição de ofensa ao art. 1.022, I, do CPC/2.015 quando o decisum se pronuncia, de forma motivada e suficiente, sobre os pontos relevantes e necessários ao deslinde da controvérsia.
+2. A contradição que autoriza a oposição dos embargos é aquela interna ao julgado, existente entre a fundamentação e a conclusão.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 187.905/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016)  g.n.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994). Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Relator o eminente Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16.5.2005; REsp 685.168/RS, Relator o eminente Ministro JOSÉ DELGADO, DJ de 2.5.2005.
+É evidente, pois, a ausência de omissão, obscuridade ou contradição apta a amparar a oposição dos aclaratórios na hipótese vertente.
+Diante do exposto, rejeito os embargos de declaração.
+É como voto.
