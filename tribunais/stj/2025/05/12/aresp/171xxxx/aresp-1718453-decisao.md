@@ -1,0 +1,24 @@
+DECISÃO
+I.
+A petição de fls. 6.822/7.149 visa " à  intervenção do Cidadão, na condição de assistente litisconsorcial nesta Ação Civil Pública". O requerente afirma ter interesse jurídico a habilitá-lo, pois atuou para impedir a candidatura do réu Moacyr Elias Fadel Júnior, "na condição de Noticiante de Inelegibilidade, prerrogativa insculpida no art. 44, da Res. TSE 23.609/2019". Acrescenta que a candidatura foi deferida porque o Tribunal de Justiça do Paraná reverteu a sentença de procedência por improbidade administrativa neste processo, que, segundo o peticionante, seria eivado de vícios de nulidade.
+Em outra perspectiva, o requerente afirma que, na condição de cidadão, poderia, em tese, propor ação popular baseando-se nos mesmos fatos discutidos nesta ACP. Com isso, "não se mostra razoável exigir de uma pessoa, detendo legitimidade para propor a ação, apenas pelo fato de ter ingressado posteriormente, que venha a ter seu ingresso impedido" (fl. 6.826).
+Síntese necessária. Passo a decidir.
+O fato de o peticionante ter figurado como "noticiante de inelegibilidade" não estabeleceu com o réu qualquer liame jurídico. Em tal qualidade, o interessado limita-se a dar ciência sobre fatos que poderiam impedir a candidatura perante a Justiça Eleitoral. Não se trata de assistência prevista no art. 124 do CPC. Sob a perspectiva eleitoral, as questões relativas à inelegibilidade permeiam a tutela de interesse público, não a posição individualizada deste ou daquele cidadão que decide se contrapor a determinadas figuras políticas. É dizer, a questão jurídica é difusa e a todos interessa, não sendo titularizada pelo requerente para que sua posição se ajuste à figura do assistente litisconsorcial que precisa manter vínculo jurídico com o "adversário do assistido".
+A pretensão também não se encaixa na figura da assistência simples. Como diz Araken de Assis: "A assistência simples ocorre na hipótese de a intervenção ad adjuvandum fundar-se na existência de relação jurídica entre o assistente e o assistido" (Processo civil brasileiro, vol. II, Tomo 1, São Paulo: RT, 2017, p. 617). O peticionante não tem qualquer relação jurídica específica com o Ministério Público, autor desta ação.
+Quanto à comparação feita com a legitimidade para propor a ação popular, tem-se que o argumento não procede. A ACP por improbidade não pode ser movida por qualquer cidadão (art. 17 da LIA). O requerente, isoladamente, jamais poderia postular a aplicação das sanções que são aqui discutidas.
+A vingar a tese, um número elevado de pessoas poderia se tornar potencial assistente em processos que visam a apurar atos de improbidade, resultando em tumulto no andamento dos feitos que já são dotados de algum grau de complexidade.
+Assim, o peticionante não ostenta interesse jurídico que o qualifique para intervir em qualquer figura processualmente admissível.
+II.
+Superado o pedido de intervenção como assistente, deve-se ainda apreciar a persistência de interesse processual no agravo em recurso especial interposto às fls. 6.559/6.577.
+De fato, no estágio atual deste processo, pende de julgamento o agravo (art. 1.042 do CPC) apresentado pelo Ministério Público do Estado do Paraná (MPPR) às fls. 7.748/7.766, em face da decisão que não admitiu recurso especial (fls. 7.727/7.729).
+No entanto, este feito já havia ascendido a este Tribunal Superior com sua distribuição inicial em 25/6/2020 diante do recurso que se encontra às fls. 6.559/6.577, interposto pelos réus Marcelo Jorge Fadel, Mario Jorge Fadel e Viação Cidade de Castro Ltda. Esse agravo almejava destrancar o recurso especial que questionou a condenação por improbidade administrativa confirmada pelo TJPR.
+Tanto é assim que o primeiro termo de recebimento de autuação de fl. 6.719 informava apenas os réus acima citados como recorrentes.
+Na ocasião em que o processo foi remetido, estava pendente de julgamento Embargos de Declaração interpostos pelo réu Moacyr Elias Fadel Júnior perante a Corte local.
+Esses aclaratórios reverteram o julgamento da apelação (fls. 7.283/7.290), o que motivou, ao cabo, a expansão de seus efeitos para resultar na improcedência dos pedidos em relação a todos os réus, mediante o acolhimento de outros recursos saneadores.
+Então, o acórdão que confirmou a procedência da condenação por improbidade, neste momento, não subsiste, de forma que houve perda superveniente do interesse recursal em relação ao agravo de fls. 6.559/6.577.
+ANTE O EXPOSTO:
+1. Indefiro o pedido de intervenção de terceiros feito por Francisco Delmar Kotelinski (fls. 6.822/7.149).
+2. Julgo prejudicado o agravo em recurso especial interposto pelos réus Marcelo Jorge Fadel, Mario Jorge Fadel e Viação Cidade de Castro Ltda. (fls. 6.559/6.577).
+Finalmente, dê-se ciência ao MPF sobre esta decisão para apresentação de parecer, em 15 dias, quanto ao recurso interposto pelo MPPR (fls. 7.748/7.766).
+Publique-se.
+EMENTA
