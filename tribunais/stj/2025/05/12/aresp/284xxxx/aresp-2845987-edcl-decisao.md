@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de Embargos de Declaração opostos por MUNICÍPIO DE SÃO CAETANO à decisão que conheceu do Agravo para não conhecer do Recurso Especial, em razão da aplicação de óbices de admissibilidade recursal, nos termos do art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante:
+Veja-se que, conforme aduz a referida Súmula do STJ, o entendimento su mular não se trataria de lei federal, nos termos do art. 105, III, CF, não podendo as súmulas serem objetos de alegada violação com fins de interposição de Recurso Especial.
+Todavia, em que pese ser compreensível o sentido que imbuiu a criação da referida norma, importa ressaltar que no caso em análise a sua aplicação como fundamento para impedir o seguimento do recurso outrora interposto constitui flagrante equívoco.
+Com efeito, o que se busca através do apelo extremo é o reconhecimento da ofensa direta a regra insculpida nos arts. 489, § 1º, VI, e 1.022, II, do CPC, os quais regulamentam a incidência obrigatória dos precedentes no processo civil brasileiro.
+Isso porque a inobservância, a aplicação incorreta ou a ausência de distinguishing ou overruling em face de tese firmada em sede de precedente obrigatório constitui grave e literal ofensa à norma processual vigente, a qual estabelece o rito e a cogência da aplicação do precedente invocado ao caso concreto, salvo se demonstrada a superação ou distinção (fl. 671).
+Ocorre que este embargante, ao interpor o recurso, arguiu de forma clara que não se tratava de uma mera liminar, haja vista ter sido confirmada em sentença e esperada a produzir efeitos até o trânsito em julgado do feito, ocasionando danos irreversíveis ao Ente Municipal; além de explicitar as razões da alteração das decisões recorridas, vez que não aplicaram o distinguinshing necessário.
+Não se pode perder de vista que a aplicação do mencionado verbete sumular NÃO pode ser feita de maneira desenfreada e distante da realidade do caso in concreto. É dizer: o prolator do decisum deveria ter feito o DISTINGUISHING, posto que a aplicação do precedente (no caso, a súmula 735 do STF) NÃO É AUTOMÁTICA, É NECESSÁRIO INTERPRETÁ-LA. Texto e norma são, sim, coisas distintas, mas não separadas. Um não pode subsistir sem o outro. A diferença entre eles é de cunho ontológico (fl. 674).
+Requer, assim, o conhecimento e acolhimento dos Embargos Declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É o relatório.
+Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Rel. Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1.642.531/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22.4.2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28.8.2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os Embargos de Declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se.
+Intimem-se.
+ EMENTA
