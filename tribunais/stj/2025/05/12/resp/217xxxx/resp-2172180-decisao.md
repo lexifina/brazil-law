@@ -1,0 +1,30 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado:
+AGRAVO (ART. 557 DO CPC). AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAI. RECUPERAÇÃO JUDICIAI.. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. 1. O AGRAVO PREVISTO NO ART. 557, §1º, DO CÓDIGO DC PROCESSO CIVIL TEM O PROPÓSITO DE SUBMETER AO ÓRGÃO COIEGIADO O CONTROLE DA EXTENSÃO DOS PODERES DO RELATOR, BEM COMO A LEGALIDADE DA DECISÃO MONOCRÁTICA PROFERIDA, NÃO SE PRESTANDO À RCDISCUSSÃO DA MATÉRIA JÁ DECIDIDA. 2. MANTIDA A DECISÃO AGRAVADA, PORQUE SEUS FUNDAMENTOS ESTÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA PERTINENTE À MATÉRIA. 3. AGRAVO A QUE SE NEGA PROVIMENTO.
+Os embargos de declaração foram acolhidos em aresto que recebeu a seguinte ementa (fl. 151):
+EMBARGOS DE DECLARAÇÃO. EXECUÇÃO FISCAL ACÓRDÃO QUE NEGOU PROVIMENTO AO AGRAVO LEGAL. INVIABILIZAÇÃO DO PLANO DE RECUPERAÇÃO JUDICIAL. ACOLHIMENTO COM EFEITOS INFRINGENTES.
+1. O art. 535 do Código de Processo Civil admite embargos de declaração quando, na sentença ou no acórdão, (i) houver obscuridade ou contradição; ou (ii) for omitido ponto sobre o qual devia pronunciar-se o juiz oi o tribunal
+2. No caso em exame, os embargos merecem acolhida, em observância ao principio da preservação da empresa, previsto expressamente no artigo 47 da Lei 11.101/2005.
+3. Embargos de declaração acolhidos com atribuição de efeitos infringentes para dar provimento ao agravo de instrumento.
+Nas razões recursais, a Fazenda Pública recorrente sustenta, em síntese, violação ao art. 6º, §7º, da Lei 11.101/05, sustentando pela reforma do acordão recorrido, a fim de que se confirme a decisão que rejeitou a exceçao de pré-executividade e, por consequência, a manutenção da penhora dos valores referentes a conta da excipiente.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+De início, no que se refere ao art. 6º, §§7º-B, da Lei 11.101/05, conforme consta nas alterações promovidas na Lei nº 11.101/2005, por meio da Lei nº 14.112/2020:
+Art. 6º A decretação da falência ou o deferimento do processamento da recuperação judicial implica:
+(Redação dada pela Lei nº 14.112, de 2020)
+I - suspensão do curso da prescrição das obrigações do devedor sujeitas ao regime desta Lei; (Incluído pela Lei nº 14.112, de 2020)
+II - suspensão das execuções ajuizadas contra o devedor, inclusive daquelas dos credores particulares do sócio solidário, relativas a créditos ou obrigações sujeitos à recuperação judicial ou à falência; (Incluído pela Lei nº 14.112, de 2020)
+III - proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicial ou à falência. (Incluído pela Lei nº 14.112, de 2020)
+§ 7º-B. O disposto nos incisos I, II e III do caput deste artigo não se aplica às execuções fiscais, admitida, todavia, a competência do juízo da recuperação judicial para determinar a substituição dos atos de constrição que recaiam sobre bens de capital essenciais à manutenção da atividade empresarial até o encerramento da recuperação judicial, a qual será implementada mediante a cooperação jurisdicional, na forma do art. 69 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), observado o disposto no art 805 do referido Código. (Incluído pela Lei nº 14.112, de 2020)
+Assim, o que se depreende é a opção legislativa pela possibilidade de atos constritivos no bojo da execução fiscal em face de sociedade empresária em recuperação judicial. No julgamento do REsp 1.694.261/SP, o Ministro Mauro Campbell Marques fez as seguintes considerações:
+Em suma, a novel legislação concilia o entendimento sufragado pela Segunda Turma/STJ - ao permitir a prática de atos constritivos em face de empresa em recuperação judicial - com o entendimento consolidado no âmbito da Segunda Seção/STJ: cabe ao juízo da recuperação judicial analisar e deliberar sobre tais atos constritivos, a fim de que não fique inviabilizado o plano de recuperação judicial.
+ ..
+Na verdade, cabe ao juízo da recuperação judicial verificar a viabilidade da constrição efetuada em sede de execução fiscal, observando as regras do pedido de cooperação jurisdicional (art. 69 do CPC/2015), podendo determinar eventual substituição, a fim de que não fique inviabilizado o plano de recuperação judicial. Constatado que não há tal pronunciamento, impõe-se a devolução dos autos ao juízo da execução fiscal, para que adote as providências cabíveis. Isso deve ocorrer inclusive em relação aos feitos que hoje encontram-se sobrestados em razão da afetação do Tema 987.
+Dessa forma, a realização de atos constritivos é cabível, restando, porém, ao juízo da execução fiscal, comunicar o fato ao juízo da recuperação judicial, o qual poderá, se entender necessário, determinar a substituição da penhora, em respeito ao novo procedimento de cooperação judicial traçado.
+Nesse sentido, cito os seguintes precedentes: AREsp 2438085, Relator Ministro Benedito Gonçalves; AgInt no REsp n. 2.037.962/RS, relator Ministro Herman Benjami; AgInt no AREsp n. 2.028.386/RJ, relator Ministro Sérgio Kukina; AgInt nos EDcl no REsp n. 1.982.769/SP, relatora Ministra Regina Helena Costa; AgInt no REsp 1.981.865/SP, Rel. Ministro Mauro Campbell Marques; AgInt no AREsp n. 2.045.171/RJ, relator Ministro Gurgel de Faria.
+A conclusão, portanto, é pela manutenção do acórdão recorrido, neste ponto, uma vez que está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que o controle dos atos constritivos deverá ser implementado via cooperação judicial, nos termos do art. 69, do Código de Processo Civil.
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios recursais, tendo em vista que o recurso especial origina-se de acórdão proferido em julgamento de agravo de instrumento, no qual não houve a fixação de honorários advocatícios sucumbenciais.
+Intimem-se.
+EMENTA
