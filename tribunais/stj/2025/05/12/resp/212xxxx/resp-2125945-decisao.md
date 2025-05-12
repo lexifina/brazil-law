@@ -1,0 +1,42 @@
+DECISÃO
+Em análise, recurso especial interposto por TELEVISAO CULTURA DE MARINGA LIMITADA E OUTRAS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - ICMS INCIDENTE SOBRE ENERGIA ELÉTRICA - PRETENSÃO DE APLICAÇÃO DA ALÍQUOTA REDUZIDA - IMPOSSIBILIDADE - ALÍQUOTA ESPECIAL DE 29% - APLICAÇÃO DOS PRINCÍPIOS DA SELETIVIDADE E ESSENCIALIDADE DO PRODUTO - CRITÉRIOS QUE CABEM À ADMINISTRAÇÃO PÚBLICA - ARTIGO 14, INCISO V, ALÍNEA "A", DA LEI ESTADUAL  11.580/96 - CONSTITUCIONALIDADE DECLARADA PELO EGRÉGIO ÓRGÃO ESPECIAL DESTE TRIBUNAL DE JUSTIÇA (IDI  174.723-7/01) - PRECEDENTES DESTA CÂMARA CÍVEL - RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, as recorrentes sustentam, em síntese, violação aos arts. 489, inciso II e § 1º, e 1.022, inciso II e parágrafo único, inciso II, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta aos arts. 926 e 927 do CPC/2015, ao art. 161, § 1º, do Código Tributário Nacional, e a existência de dissidio jurisprudencial, sustentando pela reforma do acordão recorrido, a fim de que se reconheça o direito à atualização do indébito reconhecido nos autos com utilização da SELIC em todo o período, ou seja, desde o quinquênio que antecede o ajuizamento ocorrido em 20.12.16, com a efetiva aplicação ao caso dos Temas 905/STJ e 119/STJ.
+Subsidiariamente, pugna para que, no período em que o v. acórdão recorrido estabeleceu a incidência do FCA (ou seja, até 08.12.21), seja determinada a aplicação da correspondente taxa de juros de 1% ao mês.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+I - Da negativa de prestação jurisdicional
+Com relação à apontada violação aos arts. 489, inciso II e § 1º, e 1.022, inciso II e parágrafo único, inciso II, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, denota-se que as recorrentes alegam que o acórdão recorrido incorreu nos vícios de omissão e contradição na aplicação de precedente repetitivo no presente caso (Tema 905/STJ), nos seguintes termos (fl. 8911):
+ ..  Da leitura do teor dos embargos, é possível observar a relevância da omissão e contradição apontadas, pois, embora o v. acórdão tenha mencionado a aplicação do precedente repetitivo desse Eg. STJ ao caso (Tema 905/STJ), o fez de forma equivocada, determinando a aplicação do FCA na maior parte do período a ser restituído, índice que não cor- responde àquele efetivamente utilizado pela Recorrida na cobrança dos créditos tributários (SELIC).
+Sabe-se que a omissão que autoriza a oposição dos embargos de declaração ocorre quando o órgão julgador deixa de ser manifestar sobre algum ponto do pedido das partes (realizado na minuta e contraminuta recursais). A contradição, por sua vez, caracteriza-se pela incompatibilidade havida entre a fundamentação e a parte conclusiva da decisão.
+Assim, do que se observa dos autos o Tribunal de origem, em sede de julgamento de embargos de declaração, dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando expressamente (fls. 8798-8799):
+ ..  Com relação aos índices de correção monetária aplicáveis ao caso, restou determinado no acórdão, mov. 70.1, fl. 09:
+"Em consequência da procedência do pedido, condeno o réu-apelado à restituição do indébito correspondente à diferença de alíquota recolhida, relativamente ao quinquênio que antecede à propositura desta ação e aos valores que se vencerem no seu curso, devidamente corrigidos pelo FCA, desde a data de cada desembolso pelo contribuinte até 08.12.2021; após, em razão do advento da Emenda Constitucional nº 113/2021, para fins de correção monetária e juros de mora haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente."
+Ou seja, a correção monetária foi determinada pelo mesmo índice que usa o Estado do Paraná para corrigir seus créditos tributários, na forma do que foi decidido no item 3.3 do Tema 905/STJ (REsp 1.495.146/MG), que no caso é pelo Fator de Conversão e Atualização Monetária - FCA, conforme disposto no 37, da Lei nº 11.580/96, até o advento da Emenda Constitucional nº 113/2021.
+Após, para fins de correção monetária e juros de mora haverá a incidência, uma única vez, até o efetivo pagamento, do índice da taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), acumulado mensalmente.
+No caso, portanto, vislumbra-se que o Tribunal a quo, ao expressar a compreensão acerca da controvérsia, certo ou errado, trouxe elementos que justificam os índices de correção monetários e dos juros de mora aplicados, evidenciando a compatibilidade entre a fundamentação e a parte conclusiva da decisão.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação arts. 489 e 1.022 do CPC.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+II - Da incidência da Súmula 280 do STF
+Ademais, do que se observa do trecho acima destacado, resta claro que a apreciação da pretensão da recorrente - ainda que sustentada com base em suposta violação aos arts. 926 e 927 do CPC/2015 e ao art. 161, § 1º, do Código Tributário Nacional - demandaria, necessariamente, a interpretação das disposições legais relativas aos índices dos encargos moratórios previstos na Lei nº 11.580/96, do Estado do Paraná, analisada pelo acórdão recorrido.
+Em situações análogas, este Tribunal Superior já decidiu:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 21 E 301, X, DO CPC/73 E 187, 884, 885 E 886 DO CÓDIGO CIVIL. SÚMULA N. 282/STF. ANÁLISE DE LEI LOCAL. SÚMULA N. 280/STF. ATUALIZAÇÃO DE INDÉBITO TRIBUTÁRIO. CORRESPONDÊNCIA AOS ÍNDICES UTILIZADOS PARA A COBRANÇA DE TRIBUTOS. ÍTEM 3.3 DO TEMA N. 905/STJ. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..  III - Aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal segundo o qual, por ofensa ao direito local não cabe recurso extraordinário, porquanto a lide foi julgada pelo tribunal de origem à luz de interpretação de legislação local, qual seja, a Lei Complementar Estadual n. 64/2002, demandando a sua análise para o deslinde da controvérsia. Precedentes.
+ ..  VI - Agravo Interno improvido.
+(AgInt no REsp n. 2.050.741/MG, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/6/2023, DJe de 15/6/2023. - grifo nosso)
+TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. TRIBUTO ESTADUAL. ATUALIZAÇÃO. TAXA SELIC. TERMO INICIAL. RECOLHIMENTO INDEVIDO. ACÓRDÃO RECORRIDO CONFORME A JURISPRUDÊNCIA DO STJ. NORMA LOCAL. REEXAME. IMPOSSIBILIDADE.
+ ..  3. A revisão do acórdão combatido quanto à alegação de existência de lei estadual que prevê diferente marco inicial para incidência da Selic como índice de atualização para repetição de indébito tributário pressupõe reexame de norma local, o que é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.940.005/PR, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/3/2022, DJe de 22/3/2022. - grifo nosso)
+Assim sendo, inviabiliza-se a apreciação do Recurso Especial interposto, aplicando-se à hipótese, por analogia, a Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário
+Isso posto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro os honorários advocatícios em 2% (dois por cento), com fundamento no art. 85, § 11, do CPC, observados os limites percentuais previstos no § 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se.
+EMENTA
