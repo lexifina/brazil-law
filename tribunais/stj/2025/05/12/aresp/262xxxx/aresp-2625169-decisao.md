@@ -1,0 +1,28 @@
+DECISÃO
+Em análise, agravo em recurso especial interposto por COOPERATIVA AGRICOLA MISTA DE CUMARU contra decisão que inadmitiu o recurso especial com fundamento na incidência da Súmula 7 e 211 deste STJ.
+Alega a parte agravante violação aos arts. 10 e 35 do Decreto-Lei 3.365/1941 e 519 do Código Civil. Sustenta que não há interesse público legítimo para a desapropriação do imóvel objeto da ação expropriatória, sustentando que as normas violadas estariam devidamente prequestionadas, ainda que implicitamente, e que o recurso especial não demandaria reexame de matéria fática, apenas interpretação jurídica diversa daquela conferida pelo acórdão recorrido.
+É o relatório.
+Passo a decidir.
+Contraminuta apresentada nas fls. 470-492.
+O recurso não merece prosperar.
+A pretensão da parte recorrente relativa à violação aos arts. 35 do Decreto-Lei 3.365/1941 e 519 do Código Civil, não logra êxito. A análise das razões recursais e do teor dos acórdãos recorridos revela que a conclusão do Tribunal de origem acerca da manutenção do interesse público na desapropriação está embasada em elementos fáticos delineados pelas provas constantes dos autos, especialmente a sequência de atos administrativos envolvendo decretos municipais de desapropriação e respectivas retratações tempestivas pelo ente público municipal.
+Veja-se trecho elucidativo do acórdão recorrido (fls. 373-374):
+" ..  houve imediata retratação do ato processual de desistência praticado, através de nova petição informando a expedição de novo Decreto de utilidade pública sobre o imóvel (Decreto 23/2017), de modo a resgatar o interesse de agir do Município para o feito  .. "
+Nesse contexto, para concluir-se pela ausência de interesse público e aplicar os artigos mencionados, seria indispensável rever as circunstâncias fáticas apreciadas pela Corte de origem. Tal providência é vedada em recurso especial, por força da Súmula 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULA 284 DO STF. RESERVA LEGAL. FALTA DE INTERESSE DE AGIR. MATÉRIA QUE DEVERIA TER SIDO SUSCITADA EM AÇÃO CIVIL PÚBLICA ANTERIORMENTE AJUIZADA CONTRA O RECORRENTE. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+4. Para chegar a conclusão diversa da que chegou o Tribunal de origem, é inevitável novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido (AgInt no AREsp n. 2.168.672/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 22/5/2023, DJe de 5/6/2023, grifo nosso).
+Quanto ao art. 10 do Decreto-Lei 3.365/1941, verifica-se que não houve o prequestionamento exigido pela jurisprudência consolidada desta Corte Superior. "É inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos de declaração, não foi apreciada pelo Tribunal a quo" (Súmula 211/STJ). No presente caso, revisando os acórdãos recorridos, constata-se que a discussão relativa ao referido dispositivo não foi expressamente enfrentada pelo Tribunal local, nem mesmo nos embargos declaratórios, situação que atrai o referido óbice sumular.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DA QUANTIA DE ATÉ 40 SALÁRIOS-MÍNIMOS. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NECESSIDADE DE REVOLVIMENTO DE PROVA. ÓBICE DA SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. SÚMULA N. 83/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+ ..
+V - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+ ..
+VIII - Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Nesse sentido: (AgInt no AREsp n. 2.372.050/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 23/10/2023, DJe de 25/10/2023, AgInt no AREsp n. 2.257.786/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 16/10/2023, DJe de 19/10/2023, AgInt no AREsp n. 2.126.980/PR, relator Ministro Paulo Sérgio Domingues, Primeira Turma, julgado em 16/10/2023, DJe de 18/10/2023.)
+IX - Agravo interno improvido (AgInt no AREsp n. 2.311.068/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 27/11/2023, DJe de 29/11/2023).
+Isso posto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista prévia fixação de honorários advocatícios, majoro-os em favor da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa ou sobre o proveito econômico obtido, observando-se os limites legais do § 3º do art. 85 do CPC.
+Intimem-se.
+ EMENTA
