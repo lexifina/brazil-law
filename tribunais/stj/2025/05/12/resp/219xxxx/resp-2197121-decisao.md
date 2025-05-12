@@ -1,0 +1,33 @@
+DECISÃO
+Em análise, recurso especial interposto por FAZENDA NACIONAL contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO. NÃO INCIDÊNCIA DE CONTRIBUIÇÃO SOCIAL DO SALÁRIO-EDUÇÃO SOBRE FOLHA DE SALÁRIOS DE PRODUTOR RURAL CONTRIBUINTE INDIVIDUAL. TEMA 362 DO STJ. IMPETRANTE NÃO SE ENQUADRA NO CONCEITO DE EMPRESA. SÚMULAS 269 E 271 STF. APELAÇÃO PARCIALMENTE PROVIDA. 1. CUIDA-SE DE APELAÇÃO DE SENTENÇA QUE CONCEDEU A SEGURANÇA PARA RECONHECER O DIREITO DO IMPETRANTE À NÃO INCIDÊNCIA DE SALÁRIO-EDUCAÇÃO SOBRE A FOLHA DE SALÁRIOS, POR SER PRODUTOR RURAL PESSOA FÍSICA. 2. O SUPERIOR TRIBUNAL DE JUSTIÇA, NO JULGAMENTO DO TEMA 362, FIXOU O ENTENDIMENTO DE QUE "A CONTRIBUIÇÃO PARA O SALÁRIO-EDUCAÇÃO TEM COMO SUJEITO PASSIVO AS EMPRESAS, ASSIM ENTENDIDAS AS FIRMAS INDIVIDUAIS OU SOCIEDADES QUE ASSUMAM O RISCO DE ATIVIDADE ECONÔMICA, URBANA OU RURAL, COM FINS LUCRATIVOS OU NÃO, EM CONSONÂNCIA COM O ART. 15 DA LEI 9.424/96, REGULAMENTADO PELO DECRETO 3.142/99, SUCEDIDO PELO DECRETO 6.003/2006." 3. STJ DECIDIU QUE O PRODUTOR RURAL PESSOA FÍSICA NÃO INSCRITO NO CNPJ NÃO SE ENQUADRA NO CONCEITO DE EMPRESA (AGLNT NO ARESP N. 1.896.903/MG, RELATOR MINISTRO MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJE DE 24/11/2021.) 4. FICOU EVIDENCIADO NOS AUTOS QUE INSCRIÇÃO DO IMPETRANTE SE FAZ NA MODALIDADE CONTRIBUINTE INDIVIDUAL, COMO PRODUTOR RURAL. NESSES TERMOS, NÃO SE ENQUADRANDO NO CONCEITO DE EMPRESA PARA FINS DE INCIDÊNCIA DA CONTRIBUIÇÃO SOCIAL DO SALÁRIO-EDUCAÇÃO. 5. CABÍVEL COMPENSAÇÃO ADMINISTRATIVA DOS RECOLHIMENTOS ANTERIORES À IMPETRAÇÃO. INCABÍVEL RESTITUIÇÃO (SÚMULAS 269 E 271 STF). 6. APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados.
+Nas razões recursais, a Fazenda Pública recorrente sustenta, em síntese, violação aos arts. 489, § 1º, e 1.022, I e II, e parágrafo único, do CPC/2015, alegando negativa de prestação jurisdicional, bem como afronta ao art. 23 da Lei nº 12.016/09.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+I - Da negativa de prestação jurisdicional
+Com relação à apontada violação aos arts. 489, §1º, e 1.022, II, parágrafo único, do CPC/2015, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+D o que se observa dos autos o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando expressamente acerca da alegada de cadência do direito da impetrante. Vejamos (fl. 318):
+ ..  Outrossim, em relação à alegada decadência do direito do impetrante, evidencia-se que a presente lide versa obrigação de trato sucessivo, renovando-se mensalmente, não prosperando a alegação trazida pela apelante.
+E ainda, em sede de julgamento de embargos de declaração, a Corte de origem assim se manifestou sobre a matéria dos autos (fl. 358):
+ ..  Ademais, questiona a ré a não declaração da decadência, o que não se afiguraria correto no caso presente, tendo em vista que os fatos geradores teriam ocorrido há mais de 120 (cento e vinte) dias.
+Não obstante, o presente mandamus discute a legalidade do recolhimento da contribuição social denominada salário-educação por produtor rural pessoa física, que se configura contribuição mensal, de trato sucessivo, com o prazo decadencial renovando-se a cada período de trinta dias.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador.
+Assim, inexiste violação arts. 489, §1º, e 1.022, II, parágrafo único, do CPC.
+Quanto ao mérito, o recurso especial não merece conhecimento. Explico.
+II - Da apontada violação ao art. 23 da Lei nº 12.016/09.
+No caso dos autos, é certo que a busca pelo não recolhimento da contribuição sobre o salário-educação pelo empregador rural configura relação de trato sucessivo, que se renova periodicamente, não se tratando de lesão ocorrida em concreto, de modo que o mandado de segurança possui caráter preventivo. Portanto, não está sujeito ao prazo decadencial previsto no art. 23 da Lei n. 12.016/2009.
+Nesse sentido é o entendimento consolidado desta Corte Superior:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DIFERENCIAL DE ALÍQUOTA DE ICMS (DIFAL) NAS OPERAÇÕES INTERESTADUAIS COM CONSUMIDORES FINAIS NÃO CONTRIBUINTES DO IMPOSTO. MANDADO DE SEGURANÇA PREVENTIVO. DECADÊNCIA. INOCORRÊNCIA. ART. 23 DA LEI N. 12.016/2009 (ART. 18 DA LEI N. 1.533/1951). INAPLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual não se aplica o prazo de decadência, previsto no art. 23 da Lei 12.016/2009 (art. 18 da Lei 1.533/51), em se tratando de impetração de mandado de segurança de natureza preventiva, sendo firme a orientação desta Corte, outrossim, no sentido de que, havendo obrigação de trato sucessivo, que se renova periodicamente, o marco inicial para a contagem do prazo decadencial não pode ser a data de publicação da lei instituidora da obrigação.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido. (AgInt no R Esp 2.097.912/PR, relator Ministra Regina Helena Costa, Primeira Turma, D Je de 05/03/2024 - grifo nosso)
+Isso posto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e do enunciado da Súmula 105/STJ.
+Intimem-se.
+EMENTA
