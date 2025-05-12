@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Paulo Sérgio Domingues votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na espécie, rever as conclusões do Tribunal de origem, que concluiu pela não ocorrência de violação à coisa julgada, demandaria o reexame do acervo fático e probatório dos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por MARIA MARTINS SACRAMENTO contra decisão assim ementada (fl. 258, e-STJ):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA FEDERAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. OFENSA À COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega que "a matéria em tela é exclusivamente de direito - e não de fato. Com efeito, discute-se aqui, tão somente, se a alegada causa extintiva ou modificativa da obrigação, já debatida e afastada nos autos originários, bem como ocorrida antes mesmo do ajuizamento da ação, do proferimento de sentença e de seu trânsito em julgado, pode ser utilizada e acolhida para fins de afastamento da coisa julgada em sede de cumprimento de sentença" (fl. 273, e-STSJ). Aduz que a controvérsia envolve "exclusivamente matéria de direito, qual seja, a correta aplicação dos arts. 508 e 535, VI, do CPC/15 no que se refere às causas extintivas ou modificativas da obrigação ocorridas antes do trânsito em julgado da sentença" (fl. 274, e-STJ).
+Argumenta, ainda, que "uma vez afastado o óbice de admissibilidade suscitado na R. Decisão agravada (Súmula 7 do STJ), com a consequente possibilidade de análise do recurso pela alínea "a", melhor medida não há senão, também, o conhecimento e análise do fundamento indicado pela alínea "c", qual seja, o dissídio jurisprudencial" (fl. 275, e-STJ).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA. CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO À COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Na espécie, rever as conclusões do Tribunal de origem, que concluiu pela não ocorrência de violação à coisa julgada, demandaria o reexame do acervo fático e probatório dos autos, o que é vedado no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+3. A inadmissão do recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Precedentes.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+No que diz respeito à tese de violação da coisa julgada, constata-se que a Corte regional, no acórdão integrativo, concluiu em sentido oposto ao postulado ao consignar que não houve violação à coisa julgada, nos seguintes termos (fl. 149, e-STJ; grifos próprios):
+ ..
+Com relação à segunda omissão apontada, referente à existência de coisa julgada do título em comento, acrescente-se ao acórdão embargado o seguinte trecho:
+"O reconhecimento da inexequibilidade do título que embasa o presente cumprimento de sentença não viola a coisa julgada formada, pois no próprio acórdão definitivo, conforme se demonstrou, já havia a previsão da delimitação temporal do direito ao índice de reajuste de 3,77%. Não se está diante de situação que enseje o ajuizamento de ação rescisória, pois que não se enquadra em nenhuma das hipóteses do art. 966, do CPC, sendo o caso apenas de reconhecer-se que não existem valores a serem executados, a despeito de ter sido reconhecido a procedência do pedido na ação coletiva".
+ ..
+Assim, a reforma do julgado acerca da questão - no sentido de que "ao dar provimento ao agravo de instrumento do INCRA, indicando que o pagamento do índice só era devido até outubro de 1988, o V. Acórdão afasta o entendimento adotado em dispositivo de decisão transitada em julgado, descumprindo o disposto nos arts. 502, 503 e 506, do CPC/15" (fl. 161, e-STJ) - demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONFORME SE DEPREENDE DO ART. 105, III, A, DA CONSTITUIÇÃO FEDERAL, A COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA, NA VIA ESTREITA DO RECURSO ESPECIAL, ENCONTRA-SE VINCULADA À INTERPRETAÇÃO E À UNIFORMIZAÇÃO DO DIREITO INFRACONSTITUCIONAL FEDERAL. A ANÁLISE DA DIVERGÊNCIA JURISPRUDENCIAL FICA PREJUDICADA SE A TESE SUSTENTADA ESBARRA EM ÓBICE SUMULAR. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. SÚMULA N. 7 DO STJ E 284 DO STF.
+ ..
+II - A pretensão recursal passa pela análise do título executivo formado na ação de conhecimento. Contudo, o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que a análise de ofensa ou não à coisa julgada importa reexame do conjunto fático-probatório, o que encontra óbice na Súmula n. 7 deste Tribunal. Nesse sentido: AgInt no AREsp n. 1.640.417/SC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/9/2021, DJe 17/9/2021; AgInt no AREsp n. 1.767.027/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2021, DJe 1º/7/2021
+ ..
+IV - Por fim, quanto à alegada divergência jurisprudencial, a análise da divergência jurisprudencial fica prejudicada se a tese sustentada esbarra em óbice sumular no exame do recurso especial pela alínea a do permissivo constitucional. Nesse sentido: AgInt no AgInt no REsp n. 1.763.586/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/6/2023, DJe de 30/6/2023; AgInt no AREsp n. 2.234.468/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 29/5/2023, DJe de 1º/6/2023.
+V - Agravo interno improvido.
+(AgInt no REsp n. 2.171.472/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 19/2/2025, DJEN de 24/2/2025).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACUMULAÇÃO DE CARGOS PÚBLICOS. OFENSA AOS ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. AÇÃO RESCISÓRIA. OFENSA AO ART. 966, INCISOS IV E VII, DO CPC. VIOLAÇÃO À COISA JULGADA E EXISTÊNCIA DE PROVA NOVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO DESPROVIDO.
+ ..
+2. Não cabe a esta Corte Superior confrontar o conteúdo das decisões recorrida e transitada em julgado, a fim de avaliar se aquela se ajusta aos limites fixados nesta, se o Tribunal local expressamente consignou que não há incompatibilidade entre as coisas julgadas.
+3. Considerando a fundamentação do acórdão recorrido, os argumentos utilizados pela parte recorrente - no sentido de que houve ofensa à coisa julgada - somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade ao enunciado da Súmula n. 7 do STJ.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.262.429/PR, relator Ministro Teodoro Silva Santos, Segunda Turma, julgado em 16/9/2024, DJe de 18/9/2024).
+Conforme já salientado na decisão ora agravada, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt nos EDcl no AREsp 2.417.127/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2024; AgInt no AREsp 1.550.618/MG, relator Ministro Paulo Sérgio Domingues, Primeira Turma, DJe 11/4/2024; AgInt no REsp 2.090.833/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe 14/12/2023; AgInt no AREsp 2.295.866/SC, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/9/2023.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
