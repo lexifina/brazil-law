@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RENAN UILIAN ZANETTI em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Depreende-se dos autos que o Paciente está preso preventivamente desde 3 de janeiro de 2025, pela suposta prática do crime de tráfico de drogas, ocasião em que foram apreendidas 32 porções de maconha, totalizando 54 gramas, e 61 porções de cocaína, totalizando 67 gramas, em um trailer próximo ao local da abordagem.
+A Defesa sustenta que a prisão preventiva foi decretada sem a demonstração dos requisitos necessários, como o "fumus boni iuris" e o "periculum in mora", e que a liberdade do paciente não representa risco à ordem pública, social e econômica, nem à instrução processual.
+Afirma que a quantidade de droga apreendida não é relevante a ponto de justificar a medida extrema, e que a acusação se baseia em presunções sem provas robustas e inequívocas.
+Alega que a prisão preventiva viola o princípio da presunção de inocência, pois não há elementos suficientes que justifiquem sua manutenção antes do trânsito em julgado da sentença condenatória.
+A defesa destaca que o Paciente é primário e possui bons antecedentes, o que reforça a impossibilidade de reconhecimento do "periculum libertatis" (fls. 8).
+Aduz, ainda, a nulidade das provas obtidas em decorrência da entrada dos policiais na residência do Paciente sem mandado judicial.
+Requer a liberdade provisória do Paciente, com a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida, às fls. 145-146.
+Informações prestadas, às fls. 149-155 e 159-183.
+O Ministério Público Federal em parecer, às fls. 185-188, opinou pela denegação da ordem.
+É  o  relatório. DECIDO.
+In casu, a prisão preventiva se encontra devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam a necessidade de encarceramento provisório; notadamente se considerado o risco de reiteração criminosa, na medida em que o Paciente é reincidente; constando nos autos que, logo após o cumprimento de pena, ele teria voltado a delinquir, tendo sido apreendidas em seu poder 32 porções de maconha, totalizando 54 gramas, e 61 porções de cocaína, totalizando 67 gramas.
+Tais circunstâncias demonstram um maior desvalor da conduta e a periculosidade do agente, justificando a segregação cautelar para a garantia da ordem pública.
+Sobre o tema:
+Conforme pacífica jurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade. (RHC 107.238/GO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 12/03/2019). (AgRg no HC n. 797.708/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 24/3/2023).
+São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas, bem como a gravidade concreta do delito, o modus operandi da ação delituosa e a periculosidade do agente. (AgRg no HC n. 751.585/SP, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 30/9/2022).
+Não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão, pois há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar.
+No mais, no que tange à aventada irregularidade decorrente de violação de domicílio, não verifico flagrante ilegalidade a ser sanada, tendo em vista a existência de fundada suspeita, constando nos autos que os policiais teriam recebido informação dando conta de que na Rua Dr. Alcebíades estaria ocorrendo mercancia de drogas em um trailer de lanches.
+Assim, os agentes públicos se dirigiram ao endereço e passaram a observa de maneira estratégica a dinâmica do local.
+Nesse sentido, os policiais teriam visto quando "um rapaz desconhecido se aproximou do responsável pelo trailer, (ora identificado por Renan) qual por sua vez recebeu algo das mãos do transeunte e em ato continuo apanhou algum objeto que estava no interior do trailer o entregando ao comprador que rapidamente se evadiu do local", pelo que foi procedida a abordagem, sendo que em busca no trailer "sobre uma prateleira, foi localizado alguns invólucros contendo maconha, já sobre o balcão foram localizados alguns eppendorfs recheados com cocaína quais estavam escondidos atrás de uma caixa de som e no interior da respectiva caixa de som que ali se encontrava, também foram encontradas outras porções de cocaína e maconha" (fl. 83).
+Desse modo, diante da fundada suspeita e restando configurada a ocorrência de crime permanente, não há que se falar em constrangimento ilegal.
+Corroborando, esta Corte já decidiu que o depoimento policial merece credibilidade em virtude da fé pública inerente ao exercício da função estatal, só podendo ser relativizado diante da existência de indícios que apontem para a incriminação injustificada de investigados por motivos pessoais (AgRg no AREsp n. 1.281.468/BA, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/12/2018; e AgRg nos EDcl no HC n. 446.151/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 27/2/2019) - o que não se verifica no presente caso.
+Inviável, ao fim, a rediscussão da matéria em sede de habeas corpus, ou de seu recurso, via que não comporta o revolvimento de fatos e provas.
+Sobre o tema: HC n. 475.442/PE, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 22/11/2018; HC 431.708/MS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/5/2018; HC n. 376.672/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/8/2017; e AgRg no HC 379.981/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 16/3/2017.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
+EMENTA
