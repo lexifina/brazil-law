@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Otávio de Almeida Toledo (Desembargador Convocado do TJSP), Og Fernandes, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CONDENAÇÃO FUNDAMENTADA EM ELEMENTOS EXTRAJUDICIAIS E JUDICIAIS. PEDIDO ABSOLUTÓRIO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O Tribunal de origem entendeu necessária a condenação dos agravantes com fundamentos em provas judiciais e extrajudiciais, de modo que a alteração da conclusão da instância de origem para acolher o pedido absolutório, demandaria incursão em elementos de fatos e provas, o que atrai a incidência da Súmula 7/STJ.
+3. Recurso improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JOSE AUGUSTO OLIVEIRA SANTOS, MATHEUS HENRIQUE SILVA ANTONIO e BEATRIZ OLIVEIRA RIBEIRO contra decisão de minha relatoria que conheceu do agravo para conhecer em parte do recurso especial e dar-lhe parcial provimento.
+Consta dos autos que os agravantes foram absolvidos, com fulcro no art. 386, VII, do Código de Processo Penal, pelo Juízo de primeiro grau da denúncia que lhes imputava a prática do crime previsto no art. 157, § 2º, II e VII, do Código Penal.
+O Tribunal de origem deu provimento ao recurso de apelação do Ministério Público, condenando "José Augusto Oliveira Santos, Matheus Henrique Silva Antonio e Beatriz Oliveira Ribeiro às sanções reclusiva de 5 (cinco) anos e 6 (seis) meses, em regime fechado, e pecuniária de 13 (treze) dias-multa, no mais raso patamar, como incursos no artigo 157, § 2º, incisos II e VII, do Código Penal" (e-STJ fl. 324).
+Interposto recurso especial, com fulcro no art. 105, III, a, da Constituição Federal, a defesa alegou violação aos arts. 155 e 156 do Código de Processo Penal; 33, § 2º, b; e 157, § 2º, incisos II e VII, do CP.
+Afirmou que a condenação fundamentou-se exclusivamente nas provas colhidas na fase do inquérito policial, violando o devido processo legal, o contraditório e a ampla defesa.
+Destacou que a vítima não foi ouvida em juízo e que não foi juntado aos autos o reconhecimento pessoal realizado.
+Além disso, argumentou que a majoração da pena em 3/8 foi realizada sem fundamentação concreta, contrariando a Súmula n. 443 do STJ.
+Por fim, sustentou que a fixação do regime fechado foi desproporcional, considerando que os réus são primários e de bons antecedentes.
+O recurso especial foi inadmitido com fundamentos de ausência de prequestionamento e incidência da Súmula n. 7 do Superior Tribunal de Justiça, o que impede o reexame de provas (e-STJ fls. 390/392).
+No agravo em recurso especial, a defesa alegou não incidirem os óbices elencados, argumentando que as questões debatidas são estritamente jurídicas e que o prequestionamento foi devidamente realizado (e-STJ fls. 405/408).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo em recurso especial (e-STJ fls. 436/442).
+Conheceu-se do agravo para conhecer parcialmente do recurso especial e nessa extensão prover-lhe parcialmente.
+Daí o presente agravo regimental, no qual a defesa sustenta que, "conforme se depreende das razões do agravo em recurso especial, foi expressamente argumentado que não seria necessária a reanálise de fatos e provas, e portanto, afastada a suposta incidência da Súmula 7 do STJ" (e-STJ fl. 458).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. CONDENAÇÃO FUNDAMENTADA EM ELEMENTOS EXTRAJUDICIAIS E JUDICIAIS. PEDIDO ABSOLUTÓRIO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+2. O Tribunal de origem entendeu necessária a condenação dos agravantes com fundamentos em provas judiciais e extrajudiciais, de modo que a alteração da conclusão da instância de origem para acolher o pedido absolutório, demandaria incursão em elementos de fatos e provas, o que atrai a incidência da Súmula 7/STJ.
+3. Recurso improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Isso porque, conforme consignei no decisum, o Tribunal de origem, ao entender necessária a condenação dos agravantes, consignou que (e-STJ fls. 329/331):
+4. Pois bem. Data venia do ilustre Magistrado, há supedâneo para a condenação dos réus.
+Embora insistentemente procurada por iniciativa do Ministério Público, não foi a vítima localizada na fase judicial (confiram-se fls. 175, 178 e 180). Nada obstante, no Distrito Policial Graciela recordou com nitidez como sucedeu o episódio. Contou que "estava chegando na feira-livre da vila Sabrina, quando ouviu um sujeito desconhecido assobiando da esquina e apontando para a declarante indicando-a a três jovens que estavam do outro lado, os quais passaram a segui-la. A declarante entrou na feira e fez suas compras, no entanto, ao sair, foi surpreendida por aqueles três, um rapaz negro, um rapaz pardo, e uma moça, que exigiram sua bolsa com pertences pessoais e as compras da feira, mediante grave ameaça à sua vida portando uma faca". Pouco tempo depois "viu o trio sendo abordado pela polícia militar, tendo lhes informado o roubo, de forma que, no próprio local, RECONHECEU SEM SOMBRA DE DÚVIDAS, Matheus Henrique Silva Antonio como aquele que portava a faca e colocou no pescoço da declarante, José Augusto Oliveira Santos e Beatriz Oliveira Ribeiro como aqueles que puxaram sua bolsa e sacola de compras de suas mãos, enquanto diziam "vai porra! Solta logo se não você morre!" (sic)". Afirmou que "reconhece os roubadores da região onde mora e que há tempos o grupo criminoso persegue a declarante e sua família para roubá-los, temendo pela sua integridade física sua e de sua família, caso se livrem soltos. Por fim, aduz que o dinheiro e o cartão encontrados com os roubadores lhe pertence, sendo lhe entregues em alto próprio" (fls. 04).
+Note-se que não há razão para desconsiderar as palavras do sujeito passivo, porquanto, nos delitos contra o patrimônio, usualmente cometidos na clandestinidade, é de se conferir especial relevância ao exposto por quem o tenha presenciado, sobretudo quando corroborado pelos demais elementos de convicção.
+E conquanto - repita-se - não tenha sido Graciela ouvida na instrução judicial da causa, sua declaração prestada na fase apuratória foi corroborada pelos depoimentos dos policiais militares Letícia Vieira Silva e João Bosco de Souza.
+Com efeito, a agente pública Letícia rememorou em Juízo que realizavam patrulhamento rotineiro quando foram comunicados sobre a ocorrência do delito ora em exame, perpetrado por dois rapazes e uma mulher, então descritos. Diligenciaram nas imediações do palco dos acontecimentos, deparando com os acusados, cujas características coincidiam com as prenotadas. O trio tentou encetar fuga tão logo pressentiu a aproximação da viatura. Conseguiram interceptar os apelados, sendo que em poder de Matheus Henrique localizaram "cem bolívares" (obs.: anota-se que a vítima é boliviana) e um cartão bancário pertencente à ofendida. Em contato com Graciela, ela lhes reportou que "tinha acabado de ser roubada por eles, que eles estavam portando uma faca, estava bem nervosa, ela falou que eles pegaram a bolsa dela de feira com os pertences e que ela já conhecia eles inclusive por roubos anteriores a outras pessoas e a familiares dela, que já era corriqueiro deles a prática desse crime naquele local". Indagados, os recorridos "falaram que os pertences eram deles e que estavam ali esperando doações" (fls. 02 e mídia digital).
+Fazem eco a seu testemunho os de João Bosco, colega de farda que atuou na diligência (fls. 03 e mídia digital).
+Cumpre frisar, no atinente ao testemunho dos agentes públicos, que não há vestígio de ressentimentos ou hostilidades anteriores que os pudessem predispor contra os acusados, razão pela qual não se empenhariam inescrupulosamente em prejudicá-los.
+Destarte, o reconhecimento pessoal efetuado por Graciela na fase extrajudicial e a apreciação conjunta da prova oral, especialmente daquela colhida sob a égide do contraditório, fazem emergir a conduta ilícita perpetrada por José Augusto, Matheus Henrique e Beatriz, fornecendo esteio para a condenação.
+Entendi, assim, que a condenação foi fundamentada nos elementos probatórios colhidos dos autos, em especial o depoimento extrajudicial da vítima e o depoimento judicial dos policiais. Além disso, consignou-se que foi encontrado com os agentes um cartão em nome da vítima.
+Dessa maneira, a alteração da conclusão das instâncias de origem demandaria incursão em elementos de fatos e provas, o que não é possível em recurso especial (Súmula n. 7/STJ).
+De mais a mais, a defesa absteve-se de impugnar devidamente a incidência do referido óbice processual, limitando-se a afirmar que teria consignado no agravo em recurso especial que a análise do pedido absolutório defensivo não demandaria incursão em elementos de fatos e provas, o que não é suficiente para afastar a referida Súmula.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
