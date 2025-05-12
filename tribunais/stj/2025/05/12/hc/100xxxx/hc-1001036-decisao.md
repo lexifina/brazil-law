@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALEX SANDRO SOUZA DE JESUS, no qual se aponta como órgão coator o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que denegou a ordem a ordem no HC n. 5047877-64.2025.8.21.7000/RS (fls. 9/10 e 423/426), mantendo a prisão preventiva decretada pelo Juízo de primeiro grau em razão da suposta prática dos crimes de organização criminosa e lavagem de dinheiro.
+A defesa alega que o paciente está em situação idêntica a dos corréus que tiveram a prisão revogada na origem, motivo pelo qual requer a extensão dos benefícios ali concedidos. Aduz a ausência de contemporaneidade da custódia cautelar. Sustenta que o decreto prisional está baseado apenas em risco hipotético de reiteração delitiva, bem como que não estão presentes os requisitos constantes no art. 313 do Código de Processo Penal. Assere que o paciente cuida de sua mãe, que foi diagnosticada com doença de Alzheimer.
+Nesses termos, pretende a revogação da prisão preventiva ou sua substituição por prisão domiciliar.
+É o relatório.
+O presente writ não comporta conhecimento.
+Primeiro, porque não consta dos autos a cópia da decisão do Juízo de primeiro grau que originariamente decretou a prisão preventiva, documento essencial à compreensão das alegações e ao deslinde da controvérsia.
+Com efeito, é deficiente a instrução do habeas corpus quando, pretendendo-se a revogação da custódia e/ou sua substituição por medidas cautelares alternativas, não consta dos autos a cópia de tal peça, que é, por óbvio, a gênese da controvérsia aqui suscitada.
+Nesse sentido, os seguintes precedentes: AgRg no HC n. 726.822/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/4/2022; AgRg no RHC n. 108.082/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/3/2022; e AgRg no RHC n. 154.348/CE, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 19/11/2021.
+Depois, assevero que, "por razões óbvias de competência", não cabe a análise da pretendida extensão, ao ora paciente, dos efeitos de decisão da origem que concedeu a liberdade a corréus.
+Ora, nos termos do art. 580 do Código de Processo Penal, o pedido de extensão deve ser formulado no Juízo ou no Tribunal prolator da decisão cujos efeitos se pretendam estender; logo, por raciocínio lógico, exclusivamente a esse órgão jurisdicional recai a competência legal para decidir sobre o seu deferimento ou não (AgRg no HC n. 511.679/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 25/6/2019, DJe 2/8/2019) - (EDcl no AgRg no HC n. 707.767/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 4/4/2022) - (AgRg no HC n. 639.731/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 22/8/2022 - grifo nosso).
+Por fim, verifico que o acórdão impugnado não discutiu as teses de ausência de contemporaneidade nem de pretensão de prisão domiciliar. Dessa forma, tais matérias não podem ser diretamente aqui analisadas, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publiqu e-se.
+EMENTA
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. INVIABILIDADE DE EXAME DA PRETENSÃO. PRETENSÃO DE EXTENSÃO DE HC IMPETRADO NA ORIGEM. IMPOSSIBILIDADE. AUSÊNCIA DE CONTEMPORANEIDADE E PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA.
+Writ não conhecido.
