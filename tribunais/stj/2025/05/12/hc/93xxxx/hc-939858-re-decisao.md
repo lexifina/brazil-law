@@ -1,0 +1,67 @@
+DECISÃO
+1. Trata-se de recurso extraordinário interposto, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça que recebeu a seguinte ementa (fls. 150-151):
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRODUÇÃO UNILATERAL DE PROVA PERICIAL. NULIDADE. AGRAVO DESPROVIDO.
+I. CASO EM EXAME
+1. Agravo regimental interposto pelo Ministério Público do Estado de São Paulo contra decisão monocrática que concedeu habeas corpus de ofício para declarar a nulidade de laudo complementar juntado após a sentença de pronúncia, sem observância do contraditório e da ampla defesa, determinando o seu desentranhamento dos autos.
+II. QUESTÃO EM DISCUSSÃO
+2. A questão em discussão consiste em saber se a produção unilateral de prova pericial indireta pelo Ministério Público, sem controle judicial e sem observância das formalidades previstas no Código de Processo Penal, é válida.
+3. A questão também envolve a análise da possibilidade de contraditório diferido e se a determinação de desentranhamento do parecer técnico implica cerceamento da acusação.
+III. RAZÕES DE DECIDIR
+4. A produção unilateral de prova pericial pelo órgão acusador, sem submissão ao controle judicial e às formalidades previstas na legislação de regência, representa grave violação ao devido processo legal.
+5. A admissão dessa espécie de prova comprometeria a paridade de armas no processo penal, uma vez que a defesa não dispõe de estrutura técnica equivalente.
+6. O contraditório diferido durante os debates em plenário do Júri é inadequado para discutir a validade técnica de uma prova pericial, podendo influenciar indevidamente os jurados.
+7. A apresentação de documento com aparência de perícia oficial, mas produzido unilateralmente pela acusação, tem potencial para desequilibrar o julgamento, especialmente no Tribunal do Júri.
+IV. DISPOSITIVO E TESE
+8. Agravo desprovido.
+A parte recorrente sustenta a ocorrência de violação do art. 5º, LV e LVI, da Constituição Federal e afirma que a matéria em discussão seria dotada de repercussão geral.
+Alega que a decisão monocrática que concedeu a ordem de ofício foi confirmada por meio do acórdão recorrido, sendo devida sua reforma.
+Detalha que o órgão julgador no âmbito do STJ determinou a nulidade do laudo complementar, o qual foi juntado pelo Ministério Público aos autos da ação penal originária após a sentença de pronúncia, com fundamento nos princípios da ampla defesa e do contraditório, determinando, ainda, seu desentranhamento dos autos.
+Salienta que o objetivo do processo penal é a busca da verdade material, que o parecer técnico tem natureza de prova documental, tendo sido elaborado por especialista escolhido pelo Ministério Público.
+Defende que o Ministério Público tem o ônus da prova no processo perante o Tribunal do Júri, na posição de órgão acusador, sendo indevido que o STJ obste a livre produção de provas lícitas e cerceie a acusação.
+Aduz que o contraditório da prova documental poderia ser diferido, não existindo impedimento legal para a produção unilateral do parecer técnico em debate.
+Requer, assim, a admissão e o provimento do recurso.
+As contrarrazões foram apresentadas às fls. 190-197.
+É o relatório.
+2. O STF já definiu que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+No Tema n. 660, a Suprema Corte fixou a seguinte tese vinculante:
+A questão da ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra Ellen Gracie, DJe 13/03/2009.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Essa conclusão foi adotada sob o regime da repercussão geral e é de aplicação obrigatória, devendo os tribunais, ao analisar a viabilidade prévia dos recursos extraordinários, negar seguimento aos recursos que discutam questão à qual o STF não tenha reconhecido a existência de repercussão geral, nos termos do art. 1.030, I, a, do Código de Processo Civil.
+Ademais, esse tema de repercussão geral alcança também a assertiva de violação ao princípio da licitude das provas, contido no art. 5º, LVI, da Constituição Federal, conforme demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. ABUSO DE PODER ECONÔMICO. IDONEIDADE PROBATÓRIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA CONTRARIEDADE AO INC. LVI DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 660). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 1338149 AgR, Relator(a): CÁRMEN LÚCIA, Primeira Turma, julgado em 20-09-2021, PROCESSO ELETRÔNICO DJe-190 DIVULG 22-09-2021 PUBLIC 23-09-2021)
+AGRAVOS  REGIMENTAIS  NOS  RECURSOS  EXTRAORDINÁRIOS  COM  AGRAVO.  INSUFICIÊNCIA  DE  FUNDAMENTAÇÃO  QUANTO  À  ALEGAÇÃO  DE  EXISTÊNCIA  DE  REPERCUSSÃO  GERAL.  OFENSA  CONSTITUCIONAL  MERAMENTE  REFLEXA.  REEXAME  DE  PROVAS.  IMPOSSIBILIDADE  SÚMULA  279/STF.  ACÓRDÃO  RECORRIDO  EM  CONSONÂNCIA  COM  A  JUSIRPRUDÊNCIA  DO  SUPREMO  TRIBUNAL  FEDERAL.  AGRAVOS  REGIMENTAIS  A  QUE  SE  NEGA  PROVIMENTO.
+ ..
+3.  Quanto  a  alegada  violação  ao  art.  5º,  inciso  LVI,  da  CF/88,  o  apelo  extraordinário  não  tem  chances  de  êxito,  pois  esta  CORTE,  no  julgamento  do  ARE  748.371-RG/MT  (Rel.  Min.  GILMAR  MENDES,  Tema  660),  rejeitou  a  repercussão  geral  da  alegada  violação  ao  direito  adquirido,  ao  ato  jurídico  perfeito,  à  coisa  julgada  ou  aos  princípios  da  legalidade,  do  contraditório,  da  ampla  defesa  e  do  devido  processo  legal,  quando  se  mostrar  imprescindível  o  exame  de  normas  de  natureza  infraconstitucional.
+ ..
+10.  Agravos  Regimentais  a  que  se  nega  provimento.
+(ARE  1254772  AgR,  Relator(a):  ALEXANDRE  DE  MORAES,  Primeira  Turma,  julgado  em  21-02-2022,  PROCESSO  ELETRÔNICO  DJe-038  DIVULG  24-02-2022  PUBLIC  25-02-2022)
+Direito Penal e Processual Penal. Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Associação criminosa. Roubo majorado. Extorsão qualificada. Art. 288, parágrafo único; art. 157, § 2º , incisos II, V e VII, e § 2º-A, inciso I; e art. 158, § 1º e § 3º, todos do Código Penal. I. Caso em exame.
+1. Agravo regimental interposto da decisão que negou seguimento a recurso extraordinário com agravo. 2
+. O recurso extraordinário foi interposto para impugnar acórdão do tribunal estadual que deu parcial provimento às apelações do Ministério Público e da defesa.
+II. Questão em discussão.
+3. Exame de eventual ofensa ao art. 5º, incisos LIV, LV e LVI, da Constituição Federal.
+III. Razão de decidir.
+4. Incidência, no caso, do art. 1.030, inciso I, "a", do CPC. Tema 660 da sistemática da repercussão geral da questão constitucional.
+5. Ofensa indireta e reflexa à Constituição Federal. 6. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 7. Precedentes. IV Dispositivo. 8. Agravo regimental não provido.(ARE 1512373 ED-AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 06-11-2024, PROCESSO ELETRÔNICO DJe-s/n DIVULG 11-11-2024 PUBLIC 12-11-2024)
+No caso dos autos, o exame da alegada ofensa ao art. 5º, LV e LVI, da Constituição Federal dependeria da análise de dispositivos da legislação infraconstitucional considerados na solução do acórdão recorrido, o que atrai a incidência do mencionado Tema n. 660 do STF.
+É o que se observa do seguinte trecho do julgado impugnado (fls. 152-156):
+Quanto ao mérito da irresignação, o agravante defende a possibilidade de produção de prova técnica unilateral, sem controle judicial, por não haver prejuízo ao direito de defesa do acusado, que tem a oportunidade de exercer o contraditório diferido, além de a referida prova possuir natureza eminentemente documental.
+Ao analisar a questão controversa, o Tribunal de Justiça do Estado de São Paulo assim se manifestou:
+" ..  Quanto ao pedido de reconhecimento da nulidade do laudo complementar, com posterior desentranhamento, vê-se que a juntada dele foi depois da decisão de pronúncia, bem como a apresentação das razões do presente, e tem por finalidade instruir futuro debate em Plenário do Júri, de modo que não há qualquer nulidade a ser reconhecida." (e-STJ, fls. 78)
+Conforme se depreende do acórdão impugnado, o laudo pericial complementar foi apresentado pelo Ministério Público apenas após a decisão de pronúncia, visando subsidiar os debates em plenário. Em outras palavras, busca-se utilizar tal documento como elemento probatório para influenciar o convencimento dos jurados.
+Não houve, portanto, controle judicial da sua produção, e tampouco seguiu-se o regramento previsto no Código de Processo Penal, que inclui a nomeação do perito oficial ou compromissado, a possibilidade de indicação de assistentes técnicos e a formulação de quesitos, os quais são submetidos ao prévio exame judicial.
+Nesse sentido: (..)
+Com efeito, embora o documento tenha sido intitulado como "parecer técnico", sua natureza jurídica não se define pela nomenclatura atribuída, mas por seu conteúdo e finalidade. No caso, trata-se inequivocamente de análise técnico-científica de laudo necroscópico preexistente, configurando verdadeira perícia indireta, que demandaria observância do regramento processual específico.
+Nesse contexto, a produção unilateral de prova pericial pelo órgão acusador, sem submissão ao controle judicial e às formalidades previstas na legislação de regência, representa grave violação ao devido processo legal.
+Além disso, a admissão dessa espécie de prova comprometeria a própria paridade de armas no processo penal. Tal princípio, corolário do contraditório e da ampla defesa, pressupõe que as partes disponham de meios processuais equivalentes para sustentar suas teses perante o juízo. No caso em análise, a quebra dessa paridade se manifesta em múltiplas dimensões.
+Primeiro, porque o Ministério Público, valendo-se de sua estrutura institucional, produziu unilateralmente prova técnica que deveria ser elaborada por perito oficial ou compromissado, submetido às garantias de imparcialidade, inclusive às mesmas causas de suspeição e impedimento do magistrado. Por isso, a utilização da estrutura do próprio órgão acusador para produção de prova pericial representa desequilíbrio inadmissível nas relações processuais, especialmente considerando que a defesa não dispõe de estrutura técnica equivalente.
+Segundo, porque tal proceder impede o efetivo exercício do contraditório pela defesa na própria formação da prova. Não se trata aqui de mera oportunidade de manifestação posterior sobre prova já produzida (contraditório diferido), tal como alega o agravante, mas da própria participação na construção do elemento probatório, através da indicação de assistentes técnicos e formulação de quesitos, garantias que o procedimento regular de produção de prova pericial assegura a ambas as partes. Ademais, no procedimento do Júri, o momento do contraditório diferido - durante os debates em plenário - seria absolutamente inadequado para discutir a validade técnica de uma prova pericial, podendo gerar confusão no ânimo dos jurados e comprometer o julgamento justo.
+Terceiro, e ainda mais grave quando se considera o procedimento do júri, porque os jurados, desprovidos de conhecimento técnico-jurídico, poderiam ser indevidamente influenciados por uma análise pericial produzida exclusivamente pelo órgão acusador.
+Ora, a apresentação aos jurados de documento com aparência de perícia oficial, mas produzido unilateralmente pela acusação, tem potencial para desequilibrar significativamente o julgamento, uma vez que os juízes leigos podem não compreender as distinções técnicas entre um laudo pericial oficial e uma análise produzida pelo próprio acusador.
+Ressalte-se que o princípio da paridade de armas adquire especial relevância no processo penal, no qual já existe natural desequilíbrio entre a força do Estado-acusador e o réu.
+É de se destacar, por fim, que não se está a cercear o direito do Ministério Público à produção probatória, mas apenas a exigir que esta se dê nos limites e formas estabelecidos em lei, especialmente quando se trata de prova técnica, que demanda especial rigor em sua produção para assegurar sua credibilidade e imparcialidade.
+3. Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Vale registrar não ser cabível agravo em recurso extraordinário (previsto no art. 1.042 do CPC) contra decisões que negam seguimento a recurso extraordinário, conforme o § 2º do art. 1.030 do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL, BEM COMO AO ATO JURÍDICO PERFEITO, AO DIREITO ADQUIRIDO E AOS LIMITES DA COISA JULGADA. EXAME DE NORMAS INFRACONSTITUCIONAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 660 DO STF. NEGATIVA DE SEGUIMENTO. ART. 1.030, I, A, DO CPC.
