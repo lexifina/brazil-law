@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em Sessão Virtual de 06/05/2025 a 12/05/2025, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Humberto Martins, Moura Ribeiro e Daniela Teixeira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  ALEGAÇÃO  GENÉRICA.  SÚMULA  Nº  284/STF.  NEGÓCIO  JURÍDICO.  VALIDADE.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  A  simples  indicação  de  violação  do  art.  489  do  CPC,  desacompanhada  da  necessária  fundamentação  que  lhe  dê  respaldo,  atrai,  por  analogia,  o  óbice  da  Súmula  nº  284/STF.
+2.  No  caso,  acolher  a  tese  pleiteada  pelo  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+RELATÓRIO
+Trata-se  de  agravo  interposto  por  LUCAS  MATEUS  BARBOSA  DA  CONCEIÇÃO  contra  a  decisão  que  inadmitiu  o  recurso  especial.
+O  apelo  extremo,  com  fundamento  no  artigo  105,  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  o  acórdão  do  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  assim  ementado:
+"APELAÇÃO  CÍVEL  -  DIREITO  DO  CONSUMIDOR  -  REVISÃO  DE  CLÁUSULAS  CONTRATUAIS  -  ART.  25  DO  ADCT  -  LEI  4.595/64  -  AUSÊNCIA  DE  REVOGAÇÃO  -  CAPITALIZAÇÃO  DE  JUROS  -  JUROS  REMUNERATÓRIOS.
+1.  A  jurisprudência  é  fonte  do  Direito  e,  como  tal,  deve  ser  aplicada  pelos  Juízes  e  Tribunais,  o  que  foi  fortalecido  pelo  CPC/15.
+2.  O  artigo  25  do  ADCT  não  revogou  a  Lei  nº  4.595/64,  estando  ela  vigente  até  mesmo  na  parte  que  regulamenta  o  Sistema  Financeiro  Nacional  e  descreve  os  órgãos  e  entidades  que  lhe  integram.
+3.  A  análise  da  Turma  Julgadora  deve  se  limitar  às  questões  efetivamente  debatidas  nas  razões  recursais.
+4.  É  permitida  a  capitalização  de  juros  com  periodicidade  inferior  à  anual  em  contratos  celebrados  com  instituições  integrantes  do  Sistema  Financeiro  Nacional  a  partir  de  31/3/2000,  desde  que  expressamente  pactuada.  (Vv)  APELAÇÃO  -  CONTRATO  BANCÁRIO  -  CÓDIGO  CIVIL  -  CDC  -  INAFASTABILIDADE  -  REQUISITOS  DE  VALIDADE  -  AUSÊNCIA  -  ILÍCITO  -  PRONUNCIAMENTO  JUDICIAL  -  DEVER  DE  OFÍCIO.  Ainda  que  não  se  reconheça  a  revogação  da  Lei  4.595/64,  os  contratos  "bancários"  estão  sujeitos  às  regras  do  negócio  jurídico  conforme  se  vê  do  Código  civil,  submetendo-se  também  aos  requisitos  do  Código  de  Defesa  do  Consumidor.  Ausente  qualquer  dos  requisitos  do  artigo  166  do  Código  Civil,  os  negócios  jurídicos  são  nulos  de  pleno  direito.  Pela  dicção  do  Parágrafo  único  do  artigo  168  do  Código  Civil,  "as  nulidades  devem  ser  pronunciadas  pelo  juiz,  quando  conhecer  do  negócio  jurídico  ou  dos  seus  efeitos  e  as  encontrar  provadas,  não  lhe  sendo  permitido  supri-las,  ainda  que  a  requerimento  das  partes""  (e-STJ  fl.  378).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (e-STJ  fl.  468).
+No  recurso  especial,  o  recorrente  alega  violação  dos  seguintes  dispositivos  legais,  com  as  respectivas  teses:
+(i)  art.  489  do  Código  de  Processo  Civil  por  falta  de  devida  fundamentação,  e
+(ii)  arts.  104  e  166  do  Código  Civil  por  defender  a  ausência  de  validade  do  negócio  jurídico.
+Sem  contrarrazões,  o  recurso  especial  foi  inadmitido,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+EMENTA
+AGRAVO  EM  RECURSO  ESPECIAL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  ALEGAÇÃO  GENÉRICA.  SÚMULA  Nº  284/STF.  NEGÓCIO  JURÍDICO.  VALIDADE.  REEXAME  DE  PROVAS  E  CLÁUSULAS.  SÚMULAS  NºS  5  E  7/STJ.
+1.  A  simples  indicação  de  violação  do  art.  489  do  CPC,  desacompanhada  da  necessária  fundamentação  que  lhe  dê  respaldo,  atrai,  por  analogia,  o  óbice  da  Súmula  nº  284/STF.
+2.  No  caso,  acolher  a  tese  pleiteada  pelo  agravante  exigiria  exceder  os  fundamentos  do  acórdão  impugnado  e  adentrar  no  exame  das  provas  e  cláusulas  contratuais,  procedimentos  vedados  em  recurso  especial,  a  teor  das  Súmulas  nºs  5  e  7/STJ.
+3.  Agravo  conhecido  para  não  conhecer  do  recurso  especial.
+VOTO
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+A  insurgência  não  merece  prosperar.
+De  início,  constata-se  a  deficiência  de  fundamentação  do  recurso  especial,  pois  há  somente  alegação  genérica  de  negativa  de  prestação  jurisdicional  sem  a  especificação  das  teses  que  supostamente  deveriam  ter  sido  analisadas  pelo  acórdão  recorrido.  Assim,  incide  a  Súmula  nº  284/STF:  "É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia."
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  OBRIGAÇÃO  DE  FAZER.  PLANO  DE  SAÚDE.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  ALEGAÇÕES  GENÉRICAS.  SÚMULA  284/STF.  ATENDIMENTO  DE  EMERGÊNCIA.  PERÍODO  DE  CARÊNCIA.  LIMITAÇÃO  DE  COBERTURA.  RECUSA  INJUSTICADA.  AGRAVAMENTO  DA  SITUAÇÃO  DE  AFLIÇÃO  PSICOLÓGICA  E  ANGÚSTIA  DO  BENEFICIÁRIO.  CIRCUNSTÂNCIAS  DELIMITADAS  NO  JULGADO  ESTADUAL.  DANO  MORAL.  CARACTERIZAÇÃO.  ACÓRDÃO  ESTADUAL  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE  SUPERIOR.  SÚMULA  83/STJ.  AGRAVO  INTERNO  DESPROVIDO.
+1.  É  deficiente  a  fundamentação  do  recurso  especial  em  que  a  alegação  de  violação  aos  arts.  489  e  1.022  do  CPC/2015  se  faz  de  forma  genérica,  sem  a  demonstração  exata  dos  pontos  pelos  quais  o  acórdão  tornou-se  omisso,  contraditório  ou  obscuro.  Aplica-se,  na  hipótese,  o  óbice  da  Súmula  284/STF.
+(..)"  (AgInt  no  AgInt  no  AREsp  2.174.617/CE,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  13/2/2023,  DJe  de  16/2/2023  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  REQUERIMENTO  DE  FALÊNCIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  FUNDAMENTAÇÃO  DEFICIENTE.  SÚMULA  Nº  284/STF.  NULIDADE.  PREJUÍZO  NÃO  DEMONSTRADO.  CONTRATO  DE  LOCAÇÃO.  PROTESTO.  TÍTULO  EXECUTIVO  EXTRAJUDICIAL.  REQUISITOS.  LIQUIDEZ.  AUSÊNCIA.  REEXAME.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  O  recurso  especial  que  indica  violação  do  art.  1.022  do  Código  de  Processo  Civil  de  2015,  mas  traz  somente  alegação  genérica  de  negativa  de  prestação  jurisdicional  é  deficiente  em  sua  fundamentação,  o  que  atrai  o  óbice  da  Súmula  nº  284  do  Supremo  Tribunal  Federal,  aplicada  por  analogia.
+(..)"  (AgInt  no  REsp  1.675.361/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  10/10/2022,  DJe  de  17/10/2022  -  grifou-se).
+No  que  diz  respeito  aos  requisitos  de  validade  do  negócio  jurídico,  as  conclusões  do  Tribunal  de  origem  decorreram  inquestionavelmente  da  análise  da  interpretação  de  cláusulas  contratuais  e  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  aferir  da  leitura  dos  fundamentos  do  julgado  atacado,  ora  colacionados  na  parte  que  interessa:
+"(..)
+Assim,  diante  de  pedido  que  tem  por  objetivo  final  rever  as  cláusulas  de  um  contrato  de  cartão  de  crédito  consignado,  o  magistrado  não  pode  se  esquivar  do  dever  funcional  (artigo  35  da  LC  35/79),  de  pronunciar  acerca  das  nulidades,  quando  conhecer  do  negócio  jurídico  ou  dos  seus  efeitos  e  as  encontrar  provadas,  não  lhe  sendo  permitido  supri-las  ainda  que  a  requerimento  das  partes  (artigo  166,  Parágrafo  Único,  do  Código  Civil)  Insta  salientar  que  -o  negócio  jurídico  nulo  não  é  suscetível  de  confirmação,  nem  convalesce  pelo  decurso  do  tempo .  (artigo  169  do  Código  Civil)  (e-STJ  fl.  383).
+Nesse  contexto,  não  há  como  afastar  a  incidência  das  Súmulas  nºs  5  e  7/STJ,  visto  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos  e  a  interpretação  de  cláusula  contratual,  procedimentos  inviáveis  ante  a  natureza  excepcional  da  via  eleita.
+Ante  o  exposto,  conheço  do  agravo  para  não  conhecer  do  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  10%  (dez  por  cento)  sobre  o  valor  da  causa,  os  quais  devem  ser  majorados  para  o  patamar  de  13%  (treze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observado  o  benefício  da  gratuidade  da  justiça.
+É  o  voto.
