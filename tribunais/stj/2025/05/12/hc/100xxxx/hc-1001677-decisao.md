@@ -1,0 +1,29 @@
+DECISÃO
+O presente writ, impetrado em benefício de AURELIO SEIKI VASCONCELOS, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Habeas Corpus n. 2083539-53.2025.8.26.0000), comporta pronto acolhimento.
+Consta dos autos que o paciente, na companhia de outro agente, foi preso em flagrante, em 18/2/2025, pela suposta prática do crime descrito ns art. 33 da Lei n. 11.343/2006, tendo sido convertida sua prisão em preventiva em 19/2/2025 (Ação Penal n. 1500673-62.2025.8.26.0544, em trâmite na 2ª Vara Criminal da comarca de Caieiras/SP).
+Neste writ, a defesa sustenta a ocorrência de constrangimento ilegal decorrente da manutenção da prisão preventiva, em razão da ausência de fundamentos idôneos e concretos que possam justificar a manutenção da medida constritiva.
+Afirma que a prisão preventiva é desproporcional, podendo ser substituída por medidas cautelares alternativas, sobretudo porque o paciente é primário, de bons antecedentes, tendo sido apreendidos apenas 3.416 g de maconha (fls. 5/9).
+Menciona que, em caso de condenação, o paciente fará jus ao benefício do tráfico privilegiado, previsto no art. 33, § 4º, da Lei n. 11.343/2006, com possibilidade de redução da pena em até 2/3, regime inicial aberto e substituição da pena privativa de liberdade por restritiva de direitos (9/10).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas (fl. 13).
+É o relatório.
+Infere-se dos autos que a prisão preventiva foi fundamentada na garantia da ordem pública, vulnerada em razão da gravidade concreta e das circunstâncias do delito (fls. 82/83).
+Mantendo o entendimento exarado pelo Magistrado de piso, manifestou-se a
+Corte estadual (fls. 187/188 - grifo nosso):
+ ..
+Diante do que figura nos autos, não se vislumbra o alegado constrangimento ilegal.
+Com efeito, a decisão que decretou a prisão cautelar do paciente encontra-se bem fundamentada, pautando-se em elementos concretos, tendo o d. Magistrado entendido presentes os requisitos dos artigos 312 e 313 do Código de Processo Penal.
+Provados a existência do crime, indícios de autoria, bem como a necessidade de garantia da ordem pública, não se vislumbra qualquer constrangimento na prisão processual em tela.
+Cuida-se de delito que carrega marcada gravidade em concreto, envolvendo ao menos dois agentes que transportavam expressiva quantidade de material entorpecente, observando-se que o paciente mencionou que já teria realizado cerca de sete viagens entre municípios diversos na região de Ribeirão Preto e São José dos Campos (fls. 27), o que acena para a necessidade de maior rigor, eis que demonstra, no que importa à análise restrita deste writ, ameaça à ordem pública decorrente do risco de reiteração delitiva.
+Crimes dessa natureza devem ser tratados com maior rigor, sobretudo por implicarem danos à ordem pública, haja vista a ocorrência de inúmeros delitos que decorrem, direta ou indiretamente, do tráfico de drogas.
+Denota-se que, para a determinação da prisão cautelar, foram consideradas tanto as particularidades imputadas ao agente, como também sua periculosidade aferida em concreto, tudo a indicar a imprescindibilidade do claustro cautelar e a insuficiência de medidas alternativas previstas no art. 319 do Código de Processo Penal.
+ ..
+Da análise dos trechos transcritos observa-se que, a despeito de a segregação cautelar se encontrar devidamente justificada, pois as instâncias de origem destacaram a gravidade concreta do delito e as circunstâncias do flagrante - na companhia do corréu, o ora paciente transportava aproximadamente 3,5 kg de maconha, admitindo, informalmente, já ter realizado cerca de sete viagens entre municípios diversos na região de Ribeirão Preto e São José dos Campos (fl. 188) -, verifica-se, que o réu é tecnicamente primário e o crime foi perpetrado sem violência, razão pela qual reputo desnecessária a cautelar extrema.
+Em outras palavras, conquanto os motivos invocados pelo Juízo monocrático revelem a necessidade de algum acautelamento da ordem p ública, tais razões não são bastantes, em juízo de proporcionalidade, para manter o acusado sob o rigor da cautela pessoal mais extremada, notadamente por se tratar de réu primário e com residência fixa (HC n. 586.219/SE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/9/2020).
+Ademais, este Superior Tribunal consolidou o entendimento de que, com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, devendo-se sempre verificar se existem medidas alternativas à prisão adequadas ao caso concreto" (HC n. 305.905/SP, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 4/12/2014, DJe 17/12/2014) - (AgRg no RHC 210.080/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJEN 26/2/2025).
+Em face do exposto, concedo liminarmente a ordem impetrada, a fim de revogar a prisão cautelar imposta ao paciente, devendo o Juízo de Direito da 2ª Vara Criminal da comarca de Caieiras/SP aplicar as medidas alternativas à prisão, previstas no art. 319 do Código de Processo Penal, que entender mais adequadas aos fatos e à situação do réu (Processo n. 1500673-62.2025.8.26.0544). Nos termos do art. 580 do Código de Processo Penal - CPP, estendo os efeitos desta decisão ao corréu Moises dos Santos Mattos Barbosa, em razão de ostentar idêntica situação fática e jurídica.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (3,5 KG DE MACONHA). PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida, nos termos do dispositivo, com extensão dos efeitos ao corréu Moises dos Santos Mattos Barbosa.
