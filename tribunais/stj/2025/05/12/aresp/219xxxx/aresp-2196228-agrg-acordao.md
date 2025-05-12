@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Otávio de Almeida Toledo (Desembargador Convocado do TJSP) e Og Fernandes votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL EM CONTINUIDADE DELITIVA. DECISÃO AGRAVADA QUE OSTENTA CONTEÚDO HÍBRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO NO TÓPICO EM QUE FOI NEGADO SEGUIMENTO AO RECURSO. PRECLUSÃO. PRECEDENTES DESTA CORTE. PARECER ACOLHIDO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO NOS MOLDES REGIMENTAIS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO QUANTO À TESE DE INEXIGIBILIDADE DE CONDUTA DIVERSA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DECISÃO AGRAVADA MANTIDA.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CRISTIAN CEZAR DE OLIVEIRA PIAIA e CRISLAINE PIAIA CASTANHA contra a decisão monocrática de minha lavra, assim ementada (fl. 751):
+AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL EM CONTINUIDADE DELITIVA. DECISÃO AGRAVADA QUE OSTENTA CONTEÚDO HÍBRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO NO TÓPICO EM QUE FOI NEGADO SEGUIMENTO AO RECURSO. PRECLUSÃO. PRECEDENTES DESTA CORTE. PARECER ACOLHIDO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO NOS MOLDES REGIMENTAIS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO QUANTO À TESE DE INEXIGIBILIDADE DE CONDUTA DIVERSA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+Agravo conhecido para não conhecer do recurso especial.
+Em suas razões, a defesa afirma, em suma, que a parte agravante impugnou especificamente todos os fundamentos da decisão recorrida, não se aplicando desta forma a Súmula 284/STF (fl. 765).
+Sustenta que foi efetuado o devido cotejo analítico entre os acórdãos paradigmas e a decisão recorrida, bem como os agravantes juntaram com a peça do Recuso Especial os acórdãos paradigmas, com relatório e voto, assinados eletronicamente, com código de verificação de autenticidade do documento, emitidos pelos próprios Tribunais (fl. 775), acrescentando que, quanto ao entendimento que a parte não indicou os dispositivos de lei federal tidos como violados ou objeto de interpretação divergente, referente a tese de inexigibilidade de conduta diversa, tem-se que sobre a matéria o recurso foi interposto apenas pela alínea "c" (idem).
+Requer, assim, a reforma da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO FISCAL EM CONTINUIDADE DELITIVA. DECISÃO AGRAVADA QUE OSTENTA CONTEÚDO HÍBRIDO. AUSÊNCIA DE INTERPOSIÇÃO DE AGRAVO INTERNO NO TÓPICO EM QUE FOI NEGADO SEGUIMENTO AO RECURSO. PRECLUSÃO. PRECEDENTES DESTA CORTE. PARECER ACOLHIDO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE DEMONSTRAÇÃO NOS MOLDES REGIMENTAIS. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO QUANTO À TESE DE INEXIGIBILIDADE DE CONDUTA DIVERSA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DECISÃO AGRAVADA MANTIDA.
+Agravo regimental improvido.
+VOTO
+Inicialmente, destaco que a defesa dos agravantes não impugnou o fundamento lançado na decisão agravada que considerou incabível a insurreição no tocante à violação do art. 65, III, b, do Código Penal - dada a ausência de interposição de agravo interno contra aqu ele tópico da decisão que negou seguimento ao recurso especial com base no art. 1.030, I, b, do Código Processual Penal -, de modo que, nesse aspecto, atraiu a incidência da preclusão.
+No mais, a decisão agravada deve ser mantida sob seus próprios fundamentos.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar a insatisfação dos agravantes com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Como afirmei monocraticamente, quanto à suposta violação do art. 71 do Código Penal, entendi ser inviável conhecer do recurso fundado em dissídio jurisprudencial (art. 105, III, c, da CF).
+Ora, quando o recurso se fundar em dissídio jurisprudencial (art. 105, III, c, da CF), o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente ou, ainda, com a reprodução de julgado disponível na internet, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados (arts. 1.029 do CPC e 255, § 1º, do RISTJ).
+No caso dos autos, os agravantes se limitaram a sustentar a existência de dissídio jurisprudencial; não demonstraram, de forma analítica e satisfatória, a identidade fática e a divergência supostamente verificada entre o acórdão impugnado e aquele indicado como paradigma.
+A propósito, confira-se:
+ ..
+IV. Para a caracterização da divergência, nos termos do art. 541, parágrafo único, do CPC, e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, exigência não atendida, no caso, porquanto inexiste similitude fática entre os casos confrontados.
+V. Na forma da jurisprudência do STJ, "o conhecimento de recurso especial fundado na alínea c do art. 105, III, da CF/1988 requisita, em qualquer caso, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do recurso especial" (STJ, AgRg no REsp n. 1.420.639/PR, Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 2/4/2014)
+ ..
+(AgRg no REsp n. 1.508.596/DF, Ministra Assusete Magalhães, Segunda Turma, DJe 17/3/2016 - grifo nosso).
+No tocante à tese de inexigibilidade de conduta diversa, observei que a defesa dos agravantes não indicou os dispositivos de lei federal tidos como violados ou objetos de interpretação divergente, circunstância apta a atrair a incidência da Súmula 284/STF.
+Ora, o recurso especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit cúria e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente da parte recorrente (AgInt no AREsp n. 1.411.032/SP, Ministro Luis Felipe Salomão, Quarta Turma, DJe 30/9/2019 - grifo nosso).
+Nesse sentido, cito: AgInt no REsp n. 1.814.522/MT, Ministro Luís Felipe Salomão, Quarta Turma, DJe 11/2/2020; AgInt no AREsp n. 1.064.144/AM, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/12/2019; AgInt no AREsp n. 1.449.307/SP, Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 13/12/2019; AgRg no AREsp n. 1.559.326/PB, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/12/2019; e REsp n. 1.776.379/SP, Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2018.
+Sublinho, nesse particular, que a menção a normas infraconstitucionais, de forma esparsa, no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a delimitação da controvérsia.
+Ainda sobre o tema, destaco que:
+ ..
+2. A simples menção de normas infraconstitucionais, feita de maneira esparsa no corpo das razões recursais, não supre a exigência de fundamentação adequada do recurso especial, pois dificulta a compreensão da controvérsia. Incidência da Súmula 284/STF.
+ ..
+(EDcl no AgRg no AREsp n. 402.314/SP, de minha relatoria, Sexta Turma, DJe 22/9/2015).
+ ..
+A simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do apelo nobre, não supre a exigência de fundamentação adequada do Recurso Especial. Dessa forma, ante a deficiência na argumentação, não se pode conhecer do Recurso Especial. Aplicação, por analogia, da Súmula 284/STF.
+ ..
+(AgRg no AREsp n. 546.084/MG, Ministro Herman Benjamin, Segunda Turma, DJe 4/12/2014).
+Desse modo, tenho que os agravantes não lograram êxito em demonstrar em seu regimental argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, as quais devem ser mantidas in totum pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
